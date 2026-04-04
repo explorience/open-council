@@ -15,10 +15,8 @@ December 10, 2013, at  4:05 PM
 > [!abstract]- Also Present:
 > J.F. Fontana, B. Armstrong, G. Barrett, M. Elmadhoon, J.M. Fleming, T. Grawey, B. Henry, G. Kotsifas, M. Johnson, B. Krichker, A. MacLean, L. Maitland, D. Menard, N. Musicco, C. Parker, A. Riley, C. Saunders, R. Sharpe, M. Tomazincic, J. Yanchula, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;That
   it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Election of
   Vice-Chair for the term ending November 30, 2014
 
 Recommendation:  That Councillor B. Polhill
@@ -42,7 +40,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;10th Report of the
   Advisory Committee on the Environment
 
 Recommendation:  That the 10th Report of
@@ -66,7 +63,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;11th Report of the
   Environmental and Ecological Planning Advisory Committee
 
 Recommendation:  That the 11th Report of
@@ -90,7 +86,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Woodhull
   Subdivision (39T-03511)
 
 Recommendation:  That, on the
@@ -137,7 +132,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Property located at
   1103 Adelaide Street North (Z-8284)
 
 Recommendation:  That, on the recommendation
@@ -215,7 +209,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Non-Industrial Uses
   in Industrial Areas (OZ-8219)
 
 Recommendation:      That, the
@@ -412,7 +405,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Property Located at
   2320 Auto Mall Avenue (OZ-8276)
 
 Recommendation:  That, on the
@@ -503,7 +495,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Properties located
   at 860-874 Southdale Road West (39T-13503/OZ-8223)
 
 Recommendation:  That, on the
@@ -630,7 +621,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Blackfriars/Petersville
   Heritage Conservation District Background Study
 
 Recommendation:  That, on the
@@ -790,7 +780,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Urban Growth
   Boundary Inclusion Requests (O-7938)
 
 Recommendation:  That, the urban growth
@@ -1325,7 +1314,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;9th Report of the
   Trees and Forests Advisory Committee
 
 Recommendation:  That the following actions
@@ -1364,7 +1352,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;(ADDED)   Candidate
   Approval for the Urban Design Peer Review Panel
 
 Recommendation:  That, on the
@@ -1398,7 +1385,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Property located at 275 Thames Street
 
 Recommendation:      That, the following
   actions be taken with respect to the Fugitive Slave Chapel, located at 275

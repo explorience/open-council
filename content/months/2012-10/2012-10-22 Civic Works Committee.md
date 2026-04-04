@@ -15,17 +15,14 @@ October 22, 2012, at  4:02 PM
 > [!abstract]- Also Present:
 > M. Brown, P. Hubert, A. Zuidema, J. Braam, T. Copeland, A. Drost, A. Dunbar, B. Krichker, J. Lucas, S. Maguire, J. Page, J. Simon, E. Soldo, J. Stanford, R. Welker
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;2nd Report of the
   Transportation Advisory Committee
 
 Recommendation:  That the 2nd Report of the
   Transportation Advisory Committee, from its meeting held on October 2, 2012, BE
   RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;The Standard of
   Care Provision in Ontario's Safe Drinking Water Act, 2002
 
 Recommendation:  That the following actions
@@ -47,7 +44,6 @@ b)         the
   extends legal responsibility to people with decision-making authority over
   municipal drinking water systems.  (2012-W13-00)
 
-# 4.&nbsp;&nbsp;&nbsp;Amendments to the
   Traffic and Parking By-law
 
 Recommendation:  That, on the
@@ -56,7 +52,6 @@ Recommendation:  That, on the
   meeting to be held on October 30, 2012, for the purpose of amending the
   Traffic and Parking By-law (P.S. 111).  (2012-G05-00)
 
-# 5.&nbsp;&nbsp;&nbsp;Appointment of
   Consulting Services for the Dingman Creek Subwatershed Study - Climate Change
   Update
 
@@ -92,7 +87,6 @@ e)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or
   other documents, if required, to give effect to these recommendations.  (2012-A03-00)
 
-# 6.&nbsp;&nbsp;&nbsp;Appointment of
   Consulting Services for Medway Creek Subwatershed Study Update
 
 Recommendation:  That, on the
@@ -127,7 +121,6 @@ e)         the
   other documents, if required, to give effect to these recommendations.
   (2012-A03-00)
 
-# 7.&nbsp;&nbsp;&nbsp;New "Value
   Based" Funding Model for Water and Wastewater Services
 
 Recommendation:  That the following actions
@@ -155,7 +148,6 @@ it being noted that the Civic Works
   of Engineering and City Engineer, and R. Welker, Division Manager, Water
   Engineering, with respect to this matter.  (2012-F17-00)
 
-# 8.&nbsp;&nbsp;&nbsp;Repaving of
   Berkshire Court
 
 Recommendation:  That the communication
@@ -166,7 +158,6 @@ Recommendation:  That the communication
   28, 2012, indicating that Berkshire Court has been included in the 2013 work
   program proposed in the 2013 Capital Works Budget.  (2012-S08-00)
 
-# 9.&nbsp;&nbsp;&nbsp;Parallel Parking at
   End of Driveway
 
 Recommendation:  That the Director, Roads
@@ -176,7 +167,6 @@ Recommendation:  That the Director, Roads
   parallel parking at the end of driveways; it being noted that Mr. Burdan is
   to be given delegation status when the report comes back to the CWC.
 
-# 10.&nbsp;&nbsp;&nbsp;Water Usage Charges
 
 Recommendation:  That the Managing
   Director, Engineering and City Engineer BE REQUESTED to review and
@@ -187,7 +177,6 @@ Recommendation:  That the Managing
   the report comes back to the CWC; it being further noted that the CWC heard a
   verbal update from Councillor M. Brown, with respect to this matter.  (2012-W13-00)
 
-# 11.&nbsp;&nbsp;&nbsp;Economic
   Development Opportunities for London
 
 Recommendation:  That the following actions

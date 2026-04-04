@@ -15,7 +15,6 @@ June 12, 2017, at  4:04 PM
 > [!abstract]- Also Present:
 > M. Hayward, A.L. Barbon, G. Barrett, L. Bruni, B. Card, S. Datars Bere, A. Dunbar, L. Livingstone, A. Ripepi, J. Senese, S. Spring, B. Westlake-Power
 
-# 3.&nbsp;&nbsp;&nbsp;Not to be heard
   before 4:00 PM - London & Middlesex Housing Corporation -  2016 Annual
   Meeting of the Shareholder Annual Resolutions
 
@@ -39,7 +38,6 @@ Motion Passed
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Consideration for
   Appointment to the London Public Library Board (Requires 1 Board Member)
 
 Motion Passed
@@ -62,7 +60,6 @@ Motion Passed
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Consideration of
   Additional Interviewees for Appointment to the London Hydro Inc. Board
   of Directors (Requires 1 Board Member)
 
@@ -90,7 +87,6 @@ Motion Passed
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;2nd Report of the
   Governance Working Group
 
 Motion Passed
@@ -113,7 +109,6 @@ Motion Passed
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;COUNCIL MEMBER
   SUBMISSION - Rapid Transit Implementation Working Group
 
 That Councillor van Holst BE APPOINTED to

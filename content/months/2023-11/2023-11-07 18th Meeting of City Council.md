@@ -17,21 +17,17 @@ November 7, 2023, at  1:00 PM
 
 The meeting is called to order at 1:04 PM; it being noted that Councillors H. McAlister and S. Hillier were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED Councillor S. Lehman discloses a pecuniary interest in item 5, clause 2.2, having to do with the October Progress Update - Health and Homelessness Whole of Community Response, by indicating that it relates to funding for Downtown London Business Association and the Councillor indicates they are member of the association.
 
 That it BE NOTED Councillor J. Pribil discloses a pecuniary interest in item 5, clause 2.2, having to do with the October Progress Update - Health and Homelessness Whole of Community Response, by indicating that it relates to funding for Downtown London Business Association and the Councillor indicates they are member of the association.
 
-# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
 His Worship the Mayor recognizes the Ontario Lottery and Gaming Commission Community Recognition Program and Municipality Contribution Agreement.
 
-# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
 
 > Motion made by P. Van Meerbergen
 
@@ -95,7 +91,6 @@ That Council convenes In Closed Session, from 1:23 PM to 2:07 PM.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
 > Motion made by P. Cuddy
 
@@ -125,7 +120,6 @@ That the Minutes of the 17th Meeting held on October 17, 2023 BE APPROVED.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 > Motion made by E. Peloza
 
@@ -159,11 +153,9 @@ That the communications BE RECEIVED and BE REFERRED as noted on the Added Agenda
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 None.
 
-# 8.&nbsp;&nbsp;&nbsp;Reports
 
 ## 8.1&nbsp;&nbsp;&nbsp;15th Report of the Civic Works Committee
 
@@ -1711,7 +1703,6 @@ it being noted that the provision of some or all of the above-noted information 
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 > Motion made by S. Lehman
 
@@ -1741,19 +1732,15 @@ That, on the recommendation of the Deputy City Manager, Finance Supports, on the
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-# 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 None.
 
-# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 
 None.
 
-# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 > Motion made by P. Cuddy
 
@@ -1924,7 +1911,6 @@ That Third Reading and Enactment of Bill No. 412, BE APPROVED.
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by C. Rahman
 
@@ -1938,7 +1924,6 @@ The meeting adjourned at 3:56 PM.
 
 ****
 
-# Appendix: New Bills
 
 > [!abstract]- The following Bills are enacted as By-laws of The Corporation of the City of London:
 > **Bill No. 382**

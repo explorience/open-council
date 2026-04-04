@@ -20,11 +20,9 @@ August 23, 2022, at  4:00 PM
 
 The meeting was called to order at 4:02 PM; it being noted that the following Members were in remote attendance: Councillors J. Helmer, S. Hillier and M. Salih.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that Councillor S. Hillier disclosed a pecuniary interest in clause 5.1 of this Report, having to do with the Deferred Matters List, specifically item number 1 on the list, by indicating that his family hosts a five day event.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by M. Salih
 
@@ -100,7 +98,6 @@ That, on the recommendation of the Deputy City Manager, Planning and Economic De
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Adult Live Entertainment Parlour - Relocation Request (from 2010 Dundas Street to 238 Dundas Street)
 
@@ -339,11 +336,9 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -392,7 +387,6 @@ Motion to receive Item Number 1 on the Deferred Matters List for the Community a
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 6:42 PM.
 ---

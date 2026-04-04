@@ -17,11 +17,9 @@ January 12, 2026, at  1:00 PM
 
 The meeting is called to order at 1:04 PM; it being noted Councillor P. Van Meerbergen was in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Stevenson
 
@@ -381,7 +379,6 @@ g)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or ot
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Not to be heard before 1:05 PM - Tribunal - Development Charge Appeal
 
@@ -464,15 +461,12 @@ That the meeting of the Tribunal, under Section 26 of By-law C.P.-1551-227 BE AD
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Provided to Members only.)
 
 > Moved by S. Franke
 
@@ -526,7 +520,6 @@ The Infrastructure and Corporate Services Committee convenes In Closed Session f
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by S. Stevenson
 

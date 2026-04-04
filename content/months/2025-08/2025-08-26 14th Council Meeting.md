@@ -17,11 +17,9 @@ August 26, 2025, at  1:00 PM
 
 The meeting is called to order at 1:06 PM; it being noted that Councillor S. Stevenson was in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED Councillor P. Van Meerbergen discloses a pecuniary interest in item 9, clause 2.9 of the 12th Report of the Community Protective Services Committee and associated Bill No. 314, having to do with the Standard Form Agreement for Approval of Infrastructure Grant Application, and Conditional Approval to Enter into a "Child Care and Early Years Funding Agreement", by indicating that his wife owns and operates a day care.
 
-# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
 His Worship the Mayor Recognizes the 2025 Queen Elizabeth Scholarship Recipients:
 
@@ -31,11 +29,9 @@ Daniel Brunt, H.B. Beal Secondary School with a 99.50% average
 
 His Worship the Mayor Recognizes the Ontario Lottery and Gaming Commission Community Recognition Program - Municipality Contribution Agreement.
 
-# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
 
 > Motion made by D. Ferreira
 
@@ -149,7 +145,6 @@ That Council convenes In Closed Session, from 3:42 PM to 4:12 PM.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
 > Motion made by S. Franke
 
@@ -179,7 +174,6 @@ That the Minutes of the 12th Meeting and 13th Special Meeting of Municipal Counc
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 > Motion made by P. Cuddy
 
@@ -285,11 +279,9 @@ At 1:36 PM, Councillor S. Trosow enters the meeting.
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 None.
 
-# 8.&nbsp;&nbsp;&nbsp;Reports
 
 ## 8.1&nbsp;&nbsp;&nbsp;12th Report of the Community and Protective Services Committee
 
@@ -1968,23 +1960,18 @@ d)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or ot
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 That it BE NOTED that Councillor S. Lehman presented the 14th Report of the Council in Closed Session, including the two additional items, by noting progress was made with respect to the items noted on the public agenda.
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-# 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 None.
 
-# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 
 None.
 
-# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 > Motion made by S. Lewis
 
@@ -2319,7 +2306,6 @@ That Third Reading and Enactment of Bill No.'s 309 to Bill No. 338 BE APPROVED, 
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by P. Van Meerbergen
 
@@ -2333,7 +2319,6 @@ The meeting adjourned at 5:15 PM.
 
 ****
 
-# Appendix: New Bills
 
 > [!abstract]- The following Bills are enacted as By-laws of The Corporation of the City of London:
 > **Bill No. 309**

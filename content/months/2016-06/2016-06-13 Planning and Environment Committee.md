@@ -12,10 +12,8 @@ June 13, 2016, at  4:00 PM
 > [!abstract]- Also Present:
 > M. Brown;  A. Hopkins, M. Salih, H. Usher, M. van Holst, A. Zuidema, J. Adema, G. Barrett, D. Baxter, J. Braam, S. Datars-Bere, K. Dawtrey, J.M. Fleming, S. Galloway, T. Grawey, N. Hall, M. Hayward, G. Kotsifas, L. Livingstone, J. MacKay, A. MacLean, A. Macpherson, H. McNeely, C. Saunders, C. Smith, S. Spring, M. Tomazincic
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
-# 2.&nbsp;&nbsp;&nbsp;The London Plan
 
 That, on the recommendation of the Managing
   Director, Planning & City Planner, the following actions be taken with

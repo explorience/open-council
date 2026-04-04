@@ -17,11 +17,9 @@ August 26, 2019, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;2019 Citizen Satisfaction Survey
 
@@ -235,11 +233,9 @@ d) the requested changes to the Shareholder Declaration and Articles of Incorpor
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;London Medical Network
 
@@ -471,7 +467,6 @@ it being noted that the Strategic Priorities and Policy Committee received a pre
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Middlesex-London Food Policy Council (Requires 1 Council Member)
 
@@ -503,7 +498,6 @@ That the City Clerk BE DIRECTED to advertise for applications of interested pers
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by S. Turner
 
@@ -543,7 +537,6 @@ The Strategic Priorities and Policy Committee convenes, In Closed Session, from 
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 9:21 PM.
 

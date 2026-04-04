@@ -20,11 +20,9 @@ February 5, 2019, at 12:30 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests are disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by P. Van Meerbergen
 
@@ -82,7 +80,6 @@ That, on the recommendation of the Managing Director, Corporate Services and Cit
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Apportionment of Taxes
 
@@ -104,7 +101,6 @@ That, on the recommendation of the Managing Director, Corporate Services and Cit
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;London Convention Centre Investment
 
@@ -126,11 +122,9 @@ That the request of London Convention Centre for financial support in the amount
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by J. Helmer
 
@@ -159,7 +153,6 @@ The Corporate Services Committee convenes, In Closed Session from 1:16 PM to 2:0
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourns at 2:04 PM.
 

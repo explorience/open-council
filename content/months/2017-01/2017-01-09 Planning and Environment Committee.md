@@ -12,13 +12,11 @@ January 9, 2017, at  4:00 PM
 > [!abstract]- Also Present:
 > P. Squire, M. van Holst; M. Elmadhoon, J.M. Fleming, T. Grawey, K. Gonyou, G. Kotsifas, A. MacLean, A. Macpherson, J. Ramsay, C. Saunders, C. Smith, S. Spring, M. Tomazincic, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary interest
   were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;1st Report of the
   Advisory Committee on the Environment
 
 That the following actions be taken with
@@ -57,7 +55,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;1st Report of the
   Environmental and Ecological Planning Advisory Committee
 
 That the following actions be taken with
@@ -113,7 +110,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT - Property
   located at 161 Windermere Road (39CD-14501/Z-8167)
 
 That, on the recommendation of the Senior
@@ -138,7 +134,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Request for Designation - Property located at 807 Colborne Street (Fire Hall
   No. 4)
 
@@ -177,7 +172,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;1st Report of the
   London Advisory Committee on Heritage
 
 That the following actions be taken with
@@ -413,7 +407,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - St. George-Grosvenor Heritage Conservation District
   Study
 

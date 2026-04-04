@@ -21,7 +21,6 @@ March 11, 2020, at 12:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Call to Order
 
 ## 1.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
@@ -39,15 +38,12 @@ That Councillor van Holst BE ELECTED Vice Chair of the Audit Committee for the t
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Internal Audit Summary Update
 
@@ -237,11 +233,9 @@ That the communication dated February 28, 2020 from Deloitte, regarding the prog
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by S. Turner
 
@@ -261,7 +255,6 @@ The Audit Committee convened in closed session from 1:24 PM to 1:33 PM.
 
 ## 6.1&nbsp;&nbsp;&nbsp;Security of Property
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by S. Turner
 

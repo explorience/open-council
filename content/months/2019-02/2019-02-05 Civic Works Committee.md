@@ -17,13 +17,11 @@ February 5, 2019, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED no pecuniary interests were disclosed.
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Lewis
 
@@ -44,7 +42,6 @@ Approve items 2.1 to 2.5
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;2nd Report of the Cycling Advisory Committee
 
@@ -60,7 +57,6 @@ That it BE NOTED that the 2nd Report of the Cycling Advisory Committee, from its
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -90,7 +86,6 @@ That the communication from J. Kogelheide, dated December 19, 2018, with respect
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Community Water Fluoridation 
 
@@ -205,7 +200,6 @@ b)       the City Engineer, in consultation with the Middlesex London Heal
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 5:50 PM
 

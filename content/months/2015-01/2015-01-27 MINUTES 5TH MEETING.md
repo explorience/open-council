@@ -15,7 +15,6 @@ January 27, 2015, at  4:04 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:04 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 Councillor J. Helmer discloses a pecuniary
@@ -57,17 +56,12 @@ Councillor P. Hubert discloses a pecuniary
   to the Upper Thames River Conservation Authority, by indicating that he has a
   working relationship with one of the applicants.
 
-# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
-# IV.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosure of Pecuniary Interest
 
-# V.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
 MOTION FOR IN CAMERA SESSION
@@ -107,7 +101,6 @@ Motion Passed
 
 ****
 
-# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE FOURTH MEETING HELD ON JANUARY 13, 2015
 
 > Moved by Councillor S. Turner
@@ -144,7 +137,6 @@ Motion Passed
 
 ****
 
-# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
 > Moved by Councillor S. Turner
@@ -156,12 +148,9 @@ Approve the receipt and referral of the
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Establishment of a Governance Working Group
 
-# VIII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# IX.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor J. Morgan
 
@@ -169,23 +158,16 @@ Approve clauses 1, 2, 5, 6, and 7.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Strategic Plan – Verbal
 
-# 6.&nbsp;&nbsp;&nbsp;Appointment to the Middlesex-London Health
   Unit (Requires 1)
 
-# 3.&nbsp;&nbsp;&nbsp;4:00 PM – Investment and Economic
   Prosperity Committee
 
-# 4.&nbsp;&nbsp;&nbsp;Community Economic Strategy – Verbal
   (Lauren Millier, Millier Dickinson Blais)
 
-# 8.&nbsp;&nbsp;&nbsp;Argyle BIA Composition
 
-# 9.&nbsp;&nbsp;&nbsp;Request for Orientation by Boards and
   Commissions
 
-# 10.&nbsp;&nbsp;&nbsp;Property located at
   3680 Wonderland Road South (Z-8431)
 
 That, on the recommendation of the Managing
@@ -213,16 +195,13 @@ it being pointed out that at the public
   on the attached public participation meeting record made oral
   submissions in connection therewith.   (2015-D14)
 
-# 7.&nbsp;&nbsp;&nbsp;Appointment to the Upper Thames River
   Conservation Authority (Requires 1)
 
-# 11.&nbsp;&nbsp;&nbsp;General Orientation
   - Key Committee Matters - Development Services
 
 That, the orientation presentation from the
   Manager, Development Services and Planning Liaison, BE RECEIVED.
 
-# 12.&nbsp;&nbsp;&nbsp;Property located at
   1576 Richmond Street
 
 That it BE NOTED that the following
@@ -241,15 +220,11 @@ b)         Councillor
   for the London Arts Council (LAC) as her employer receives funding from the
   LAC.
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -320,7 +295,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

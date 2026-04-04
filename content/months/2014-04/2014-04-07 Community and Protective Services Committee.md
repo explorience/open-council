@@ -12,20 +12,17 @@ April 7, 2014, at  7:03 PM
 > [!abstract]- Also Present:
 > J. Brown, B. Coxhead, P. D’Hollander, S. Datars Bere, S. Giustizia, O. Katolyk, L. Livingstone, A. Macpherson, M. Ribera
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;2nd Report of the
   Community Safety and Crime Prevention Advisory Committee
 
 Recommendation:  That the 2nd Report of the
   Community Safety and Crime Prevention Advisory Committee, from its meeting
   held on March 27, 2014, BE RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;Community-Led Parks
   Projects - 2013 Yearly Update
 
 Recommendation:  That, on the
@@ -33,7 +30,6 @@ Recommendation:  That, on the
   report dated April 7, 2014, with respect to an update on the 2013
   community-led parks projects, BE RECEIVED.
 
-# 4.&nbsp;&nbsp;&nbsp;Service
   Contracts/Agreements with the Province
 
 Recommendation:  That, on the
@@ -67,7 +63,6 @@ it being noted that these are standard
   Ministry of Education, for programs legislated under the Day Nurseries Act
   and the Ontario Works Act.  (2014-L04A)
 
-# 5.&nbsp;&nbsp;&nbsp;Elderly Persons
   Centres Funding Agreement
 
 Recommendation:  That, on the
@@ -88,7 +83,6 @@ b)           
   authority to the Mayor and the City Clerk to execute the Agreement authorized
   and approved above.  (2014-L04A)
 
-# 6.&nbsp;&nbsp;&nbsp;Report to the
   Licensee of the Dearness Home Regarding the 2013-2016 Long-Term Care Home
   Service Accountability Agreement between The Corporation of the City of
   London (Dearness Home) and the South East Local Health Integration Network
@@ -103,7 +97,6 @@ Recommendation:  That, on the
   the reporting period of January 1 to December 31, 2013, BE RECEIVED for
   information.(2014-L04A)
 
-# 7.&nbsp;&nbsp;&nbsp;Multi-Sector
   Service Accountability Agreement (M-SAA) between The Corporation of The City
   of London and the South West Local Health Integration Network (LHIN)
 
@@ -122,7 +115,6 @@ a)  
 b)         authorize
   the Mayor and the City Clerk to execute the Agreement in (a), above.  (2014-L04A)
 
-# 8.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Extension of Hours for Amplified Sound at the
   Memorial Cup
 
@@ -158,7 +150,6 @@ Motion
 Motion
   to close public meeting.
 
-# 9.&nbsp;&nbsp;&nbsp;3rd Report of the
   Accessibility Advisory Committee
 
 Recommendation:  That the following actions

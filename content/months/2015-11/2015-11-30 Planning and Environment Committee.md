@@ -12,10 +12,8 @@ November 30, 2015, at  5:00 PM
 > [!abstract]- Also Present:
 > Anna Hopkins; G. Bailey, G. Barrett, P. Christiaans, M. Corby, B. Debbert, M. Elmadhoon, J.M. Fleming, S. Galloway, T. Grawey, P. Kokkoros, G. Kotsifas, J. MacKay, A. MacLean, A. Macpherson, S. Mathers, L. Mottram, C. Saunders, S. Spring, M. Tomazincic, B. Turcotte, J. Yanchula, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;13th Report of the
   London Advisory Committee on Heritage
 
 That, the following actions be taken with
@@ -126,7 +124,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;9th Report of the
   Environmental and Ecological Planning Advisory Committee
 
 The following actions be taken with respect
@@ -161,7 +158,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Property located at
   585 Waterloo Street
 
 That, on the recommendation of the Managing
@@ -204,7 +200,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Property located at
   1895 Blue Heron Drive (Z-8532)
 
 That, on the recommendation of the Managing
@@ -280,7 +275,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Properties located
   at 1155-1236 Gough Road and 1974-2119 Gough Avenue (Z-8509)
 
 That, on the recommendation of the Managing
@@ -354,7 +348,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Property located at
   1080 Westdel Bourne - Application for Approval of Draft Plan of Subdivision,
   Official Plan and Zoning By-law Amendments (39T-14503/OZ-8410)
 
@@ -707,7 +700,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Property located at
   2300 Richmond Street (OZ-8501)
 
 That, on the

@@ -12,10 +12,8 @@ April 23, 2013, at  1:01 PM
 > [!abstract]- Also Present:
 > J.L. Baechler, P. Hubert, S. Orser, H.L. Usher; A. Zuidema, J.P. Barber, J. Braam, G. Bridge, T.L. Dobbie (Tim L. Dobbie Consulting Ltd.), P. Foto, J. Freeman, A. Hagan, M. Hayward, G.T. Hopcroft, J. Jackson, L. Livingstone, J. Logan, V. McAlea Major, L. Palarchio, C. Resendes, C. Saunders, J. Smout, M. Turner, B. Warner, J. Wills
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Introduction of
   By-law to Appoint Ms. Sandra Datars Bere to the Statutory Position of Ontario
   Works Administrator
 
@@ -35,7 +33,6 @@ b)         the
   City Clerk BE DIRECTED to so notify the Director of Ontario Works, Ministry
   of Community and Social Services.
 
-# 3.&nbsp;&nbsp;&nbsp;2012 Compliance
   Report in Accordance with the Procurement of Goods and Services Policy
 
 Recommendation:  That, on the
@@ -64,7 +61,6 @@ c)         the
   have been reviewed for compliance to the Procurement of Goods and Services
   Policy, BE RECEIVED for information.
 
-# 4.&nbsp;&nbsp;&nbsp;Advisory Committee
   Policy Update
 
 Recommendation:  That the following actions
@@ -84,7 +80,6 @@ b)           
   amendments to the Advisory Committee Policy with respect to the use of social
   media by Advisory Committees, having considered that input.
 
-# 5.&nbsp;&nbsp;&nbsp;Code of Conduct for
   Municipal Council and Lobbyist Registry Update
 
 Recommendation:  That the following
@@ -221,7 +216,6 @@ g)           
   incorporate into the complaint resolution process, an opportunity for early
   stage mediation.
 
-# 6.&nbsp;&nbsp;&nbsp;Report on a
   Visiting Delegation from Nanjing, China - March 2013
 
 Recommendation:  That, on the
@@ -229,7 +223,6 @@ Recommendation:  That, on the
   the staff report dated April 23, 2013 regarding the March 2013 visit by a
   delegation from London’s sister city, Nanjing, China, BE RECEIVED.
 
-# 7.&nbsp;&nbsp;&nbsp;Report on a
   Visiting Delegation from Chongqing, China - March 2013
 
 Recommendation:  That, on the
@@ -237,7 +230,6 @@ Recommendation:  That, on the
   the staff report dated April 23, 2013 regarding the March 2013 visit by a
   delegation from Chongqing, China, BE RECEIVED.
 
-# 8.&nbsp;&nbsp;&nbsp;Dearness Home:
   Consulting and Administrator Services Single Source
 
 Recommendation:  That, on the
@@ -281,7 +273,6 @@ c)         the
   at a total maximum cost of $285 000, BE APPROVED as a drawdown from the
   Operating Budget Contingency Reserve.
 
-# 9.&nbsp;&nbsp;&nbsp;Tax Adjustment
   Agenda
 
 Recommendation:  That the recommendations
@@ -290,7 +281,6 @@ Recommendation:  That the recommendations
   to the Corporate Services Committee, at the public hearing associated with
   the Tax Adjustment Agenda.
 
-# 10.&nbsp;&nbsp;&nbsp;Nomination of
   Councillor H. L. Usher for Re-Election to the FCM Board of Directors
 
 Recommendation:  That the following actions
@@ -360,7 +350,6 @@ c)           
   re-election to the Board of Directors, in an amount of up to $750, upon
   submission of eligible expenses.
 
-# 11.&nbsp;&nbsp;&nbsp;Request for Support
   to Pass a Resolution re Contractors
 
 Recommendation:  That the communication
@@ -368,7 +357,6 @@ Recommendation:  That the communication
   Contractors Association of Canada and I. DeWaard, Regional Director,
   Christian Labour Association of Canada, BE RECEIVED.
 
-# 12.&nbsp;&nbsp;&nbsp;Appointment to the
   London Diversity and Race Relations Advisory Committee
 
 Recommendation:  That the following
@@ -380,7 +368,6 @@ Non-Voting:
 -           Michelle Lynne Goodfellow
   (London & Middlesex Housing Corporation             Representative)
 
-# 13.&nbsp;&nbsp;&nbsp;Appointment to the
   London Advisory Committee on Heritage
 
 Recommendation:  That the following
@@ -392,7 +379,6 @@ Voting:
 -           Kira Westby (Emerging Leaders
   Initiative Representative)
 
-# 14.&nbsp;&nbsp;&nbsp;Appointments to the
   Community Safety & Crime Prevention Advisory Committee
 
 Recommendation:  That the following
@@ -409,7 +395,6 @@ Non-Voting:
 -           Maureen O'Halloran (Block
   Parent Office Representative)
 
-# 15.&nbsp;&nbsp;&nbsp;Appointment to the
   Accessibility Advisory Committee
 
 Recommendation:  That the following
@@ -421,7 +406,6 @@ Voting:
 -           Martha Dyer (Person with a
   Disability)
 
-# 16.&nbsp;&nbsp;&nbsp;Appointment to the
   Animal Welfare Advisory Committee
 
 Recommendation:  That the following
@@ -432,7 +416,6 @@ Voting:
  
 -           Tracy Satchell (Veterinarian)
 
-# 17.&nbsp;&nbsp;&nbsp;Resignation of D.
   Fortney from the Animal Welfare Advisory Committee
 
 Recommendation:  That the communication
@@ -440,7 +423,6 @@ Recommendation:  That the communication
   Welfare Advisory Committee, BE ACCEPTED and Ms. Fortney BE THANKED for
   participating on the Committee.
 
-# 18.&nbsp;&nbsp;&nbsp;Resignation of M.
   Rabi from the London Diversity and Race Relations Advisory Committee
 
 Recommendation:  That the communication
@@ -448,7 +430,6 @@ Recommendation:  That the communication
   Diversity and Race Relations Advisory Committee, BE ACCEPTED and Mr. Rabi BE
   THANKED for participating on the Committee.
 
-# 19.&nbsp;&nbsp;&nbsp;Reimbursement of Councillor J.L. Baechler’s
   expenses to serve on Federation of Canadian Municipalities’ Standing
   Committee(s)
 

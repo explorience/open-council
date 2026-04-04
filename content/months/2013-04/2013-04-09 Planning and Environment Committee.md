@@ -15,10 +15,8 @@ April 9, 2013, at  4:08 PM
 > [!abstract]- Also Present:
 > W.J. Armstrong, J. Baechler, D. Brown, M. Brown, J.P. Bryant, G. Barrett, J. Braam, M. Corby, M. Elmadhoon, J.M. Fleming, T. Grawey, P. Kokkoros, B. Krichker, E. Lalande, A. Macpherson, D. MacRae, D. Menard, N. Musicco, J. Ramsay, M. Ribera, A. Riley, C. Saunders, C. Smith, L. Stevens, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;McCormick Area
   Study Update (OZ-7601)
 
 Recommendation:  That, on the
@@ -28,7 +26,6 @@ Recommendation:  That, on the
   the west, Dundas Street to the south and Ashland Avenue and McCormick
   Boulevard to the east, BE RECEIVED.  (2013-E20)
 
-# 3.&nbsp;&nbsp;&nbsp;Secondary Dwelling
   Units (OZ-8053)
 
 Recommendation:  That, on the
@@ -39,7 +36,6 @@ Recommendation:  That, on the
   considered at a future public participation meeting of the Planning and
   Environment Committee.  (2013-D14A)
 
-# 4.&nbsp;&nbsp;&nbsp;Properties located
   at 181 & 199 Commissioners Road East (39T-08501)
 
 Recommendation:  That, on the recommendation
@@ -52,7 +48,6 @@ Recommendation:  That, on the recommendation
   extension of Carnegie Lane SUBJECT TO the previously approved
   conditions as modified on January 19, 2011. (2013-D12)
 
-# 5.&nbsp;&nbsp;&nbsp;Property located at
   3047 Tillman Road (H-8146)
 
 Recommendation:  That, on the
@@ -69,7 +64,6 @@ Recommendation:  That, on the
   Office/Residential R9/Convenience Commercial (RO2/R9-7.H40/CC6) Zone to
   remove the “h-5”, “h-53”, “h-55” and “h-56” holding provisions. (2013-D14A)
 
-# 6.&nbsp;&nbsp;&nbsp;Property located at
   3200 Singleton Avenue (H-8117)
 
 Recommendation:  That, on the
@@ -83,7 +77,6 @@ Recommendation:  That, on the
   holding provision “h-136” and the Residential Special Provision R5-6(6),
   R6-5(30) and R8-4(16) Zones.  (2013-D14A)
 
-# 7.&nbsp;&nbsp;&nbsp;Annual Report on Building
   Permit Fees
 
 Recommendation:  That, on the
@@ -95,7 +88,6 @@ Recommendation:  That, on the
   Administration is requested to provide a further update to the Planning and
   Environment Committee in July, 2013. (2013-P10)
 
-# 8.&nbsp;&nbsp;&nbsp;4th Report of the
   Environmental and Ecological Planning Advisory Committee
 
 Recommendation:  That, the following
@@ -173,7 +165,6 @@ it being noted that
   the Planning and Environment Committee heard a verbal presentation from Dean
   Sheppard, Chair, EEPAC, with respect to these matters.
 
-# 9.&nbsp;&nbsp;&nbsp;Properties located
   at 555-557 Ridout Street North (Z-8133)
 
 Recommendation:  That, on the
@@ -239,7 +230,6 @@ it being pointed
   landscaping will continue to be implemented; and requesting that, if
   possible, mature trees be planted.  (2013-D14A)
 
-# 10.&nbsp;&nbsp;&nbsp;Wortley Village -
   Old South Heritage Conservation District (O-8118)
 
 Recommendation:  That, on the
@@ -275,7 +265,6 @@ it being noted that the Planning and
   Environment Committee heard a verbal presentation from the Heritage Planner
   with respect to this matter.   (2013-R01)
 
-# 11.&nbsp;&nbsp;&nbsp;4th Report of the
   London Advisory Committee on Heritage
 
 Recommendation:  That the following actions
@@ -315,7 +304,6 @@ it being noted that the Planning and
   Environment Committee heard a verbal presentation from George Goodlet, Chair,
   LACH, with respect to these matters.
 
-# 12.&nbsp;&nbsp;&nbsp;Property located at
   77 Tecumseh Avenue West (Z-8136)
 
 Recommendation:  That, on the
@@ -467,7 +455,6 @@ it being pointed
   indicating that the crime rate in this area will increase; and, advising that
   this is a quiet neighbourhood and they would like to keep it this way.    (2013-D14A)
 
-# 13.&nbsp;&nbsp;&nbsp;Property located at
   193 Clarke Road (Z-8143)
 
 Recommendation:      That the Planning
@@ -578,7 +565,6 @@ it being pointed
   fit into their neighbourhood; and advising that the neighbours are used to
   backing onto and seeing green space.   (2013-D14A)
 
-# 14.&nbsp;&nbsp;&nbsp;Properties located
   at 275-277 Piccadilly Street (Z-8132)
 
 Recommendation:  That, on the recommendation
@@ -787,7 +773,6 @@ it being pointed
   the area whose children attend Montessori; and that Montessori has ensured
   that their buildings are in keeping with the neighbourhood.   (2013-D14A)
 
-# 15.&nbsp;&nbsp;&nbsp;Medway Valley
   Heritage Forest Environmentally Significant Area - North - Trail Master
   Planning Study
 
@@ -1176,7 +1161,6 @@ it being pointed
   reported on the costs and assessment; and advising that this information is
   not provided in the Civic Administration’s report.    (2013-E20)
 
-# 16.&nbsp;&nbsp;&nbsp;Enquiry – Infill/Planning Projects
 
 That, the Managing Director, Planning and City
   Planner BE REQUESTED to report back at a future meeting of the

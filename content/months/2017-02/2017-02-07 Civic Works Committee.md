@@ -15,13 +15,11 @@ February 7, 2017, at  4:00 PM
 > [!abstract]- Also Present:
 > J. Helmer, H. L. Usher; W. Abbott, S. Chambers, A. Dunbar, G. Irwin, J. Lucas, D. MacRae, L. Rowe, K. Scherr, J. Simon, E. Soldo, S. Spring, J. Stanford
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;3rd Report of the
   Rapid Transit Implementation Working Group
 
 That the 3rd Report of the Rapid Transit
@@ -44,7 +42,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Contract Award: Tender No. T16-57 Tributary "C", Stormwater
   Management Facilities A, F and G (ES3020-RVBTC)
 
@@ -91,7 +88,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   By-law of Abandonment of Anguish Municipal Drain
 
 That, on the recommendation of the Managing
@@ -117,7 +113,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Transportation Energy Optimization Plan (TEOP) Phase 2 Contract Award
 
 That, at the request of the Managing
@@ -145,7 +140,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Dundas Place Detailed Design and Tendering - Appointment of Consulting
   Engineer
 
@@ -191,7 +185,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Riverside Drive Closing
 
 That, on the recommendation of the Managing
@@ -225,7 +218,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;STAFF REPORT - 2016
   Ministry of the Environment and Climate Change Inspection Report for the City
   of London Water Distribution System
 
@@ -251,7 +243,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;STAFF REPORT - 2016
   Drinking Water Annual Report and Summary Report for the City of London
   Distribution System
 
@@ -276,7 +267,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;STAFF DELEGATION -
   Update and Next Steps - Resource Recovery Strategy and Residual Waste
   Disposal Strategy as Part of the Environmental Assessment Process
 
@@ -409,7 +399,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;2nd Report of the
   Cycling Advisory Committee
 
 That the following actions be taken with
@@ -443,7 +432,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;COUNCILLOR
   SUBMISSION - Wastewater Management
 
 That the Civic Administration BE DIRECTED
@@ -480,7 +468,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the Civic Works Committee Deferred

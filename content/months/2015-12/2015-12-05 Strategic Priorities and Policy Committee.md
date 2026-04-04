@@ -15,7 +15,6 @@ December 5, 2015, at 12:26 PM
 > [!abstract]- Also Present:
 > A. Zuidema, V. McAlea Major, C. Rerup (Ivey School of Business)
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 No pecuniary interests were disclosed.

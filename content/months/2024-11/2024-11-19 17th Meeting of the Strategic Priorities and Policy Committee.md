@@ -17,11 +17,9 @@ November 19, 2024, at  1:00 PM
 
 The meeting is called to order at 1:00 PM; it being noted that Councillors P. Van Meerbergen and S. Hillier were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by J. Pribil
 
@@ -132,11 +130,9 @@ That, on the recommendation of the Deputy City Manager, Social and Health Develo
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.7&nbsp;&nbsp;&nbsp;Service Depot Location Update Report
 
@@ -346,7 +342,6 @@ That the motion, as amended, BE APPROVED.
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by C. Rahman
 

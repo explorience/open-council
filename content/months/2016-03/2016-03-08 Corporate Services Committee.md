@@ -12,7 +12,6 @@ March 8, 2016, at 12:06 PM
 > [!abstract]- Also Present:
 > J. Helmer, T. Park, M. Salih, M. van Holst; A. Zuidema, W. Abbott, B. Baar, J.P. Barber, A.L. Barbon, D. Bordin, J. Braam, G. Bridge, P. Foto, I. Gibb, A. Hagan, M. Hayward, J. Kovacs, L. Livingstone, V. McAlea Major, D. O’Brien, C. Saunders, J. Senese, S. Spring, J. Stanford, S. Swance, B. Warner
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that Councillor J. Zaifman
@@ -20,7 +19,6 @@ That it BE NOTED that Councillor J. Zaifman
   the Tax Adjustment Agenda, by indicating that some properties on the Tax
   Adjustment Agenda are related to family members.
 
-# 2.&nbsp;&nbsp;&nbsp;Queen Elizabeth
   Scholarship Policy Update
 
 That, on the recommendation of the City
@@ -48,7 +46,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Ontario Lottery and
   Gaming Corporation’s Community Recognition Program
 
 That, on the recommendation of the Managing
@@ -75,7 +72,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Statement of
   Remuneration and Expenses for Elected and Appointed Officials
 
 That the following actions be taken with
@@ -125,7 +121,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;London Downtown
   Business Association 2016 Proposed Budget - Municipal Special Levy
 
 That, on the recommendation of Managing
@@ -172,7 +167,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Argyle Business
   Improvement Area 2016 Proposed Budget - Municipal Special Levy
 
 That, on the recommendation of the Managing
@@ -220,7 +214,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Old East Village
   Business Improvement Area 2016 Proposed Budget - Municipal Special Levy
 
 That, on the recommendation of the Managing
@@ -267,7 +260,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Employee
   Absenteeism 2015 Update
 
 That, on the recommendation of the Managing
@@ -293,7 +285,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Report on Corporate
   Human Rights and Code of Conduct Inquiries, Requests, Complaints and Training
   Initiatives as of December 31, 2015
 
@@ -321,7 +312,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Tax Adjustment
   Agenda
 
 That the recommendations contained in the
@@ -388,7 +378,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Child Minding for
   the Public at Public Participation Meetings of Municipal Council Standing
   Committees
 
@@ -468,7 +457,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Request for
   Designation of the 1st Annual Colombia Gastronomy Festival as a Municipally
   Significant Event
 
@@ -494,7 +482,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Request for
   Designation of the Forest City Beer Fest as a Municipally Significant Event
 
 That the Forest City Beer Fest to be held
@@ -519,7 +506,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Forked River
   Brewing Corporation Liquor Sales Licence Application
 
 That the application of the Forked River
@@ -545,7 +531,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Consideration of
   Appointments to the Accessibility Advisory Committee
 
 That the following individuals BE APPOINTED
@@ -613,7 +598,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the London Advisory Committee on Heritage
 
 That Benjamin A. Vazquez BE APPOINTED to
@@ -621,7 +605,6 @@ That Benjamin A. Vazquez BE APPOINTED to
   ending February 28, 2019, in accordance with the attached ranked
   ballot.
 
-# 17.&nbsp;&nbsp;&nbsp;Confirmation of
   Appointment to the Community Safety and Crime Prevention Advisory Committee
 
 That, Rhonda Brittan BE APPOINTED to
@@ -647,7 +630,6 @@ Motion
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;Ontario Ombudsman -
   Municipal Council Meeting June 10, 2015
 
 That the following actions be taken with

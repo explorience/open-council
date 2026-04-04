@@ -15,10 +15,8 @@ November 29, 2012, at  3:31 PM
 > [!abstract]- Also Present:
 > S. Gillfilan (PwC), M. Hayward, I. Jeffreys (KPMG), I. Sadler (PwC), C. Shah (PwC), J. Stanford, S. Swance, M. Turner, R. Wilcox
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Brownfields Update
 
 Recommendation:  That, on the
   recommendation of the Managing Director, Corporate Services & City
@@ -38,7 +36,6 @@ c)         the
   Civic Administration BE DIRECTED to submit a report to the Audit
   Committee in November 2013, providing a further update on this matter.
 
-# 3.&nbsp;&nbsp;&nbsp;Quarterly
   Report on Internal Audit Results
 
 Recommendation:  That the following actions
@@ -57,7 +54,6 @@ b)           
   meeting to be scheduled for January 2013; it being noted that January 31,
   2013 was suggested as a meeting date.
 
-# 4.&nbsp;&nbsp;&nbsp;Internal Audit
   Services of PricewaterhouseCoopers
 
 Recommendation:  That, on the
@@ -92,7 +88,6 @@ it being noted that the Middlesex London
   potential implementation of the recommendations and the associated
   cost-savings.
 
-# 5.&nbsp;&nbsp;&nbsp;KPMG LLP - Audit Planning Report for the year ending
   December 31, 2012
 
 Recommendation:  That the attached

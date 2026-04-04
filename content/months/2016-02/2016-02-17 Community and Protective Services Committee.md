@@ -12,13 +12,11 @@ February 17, 2016, at  4:00 PM
 > [!abstract]- Also Present:
 > M. Brown, J. Helmer, P. Squire; B. Coxhead, S. Datars Bere, A. Dunbar, L. Hamer, O. Katolyk, J. Kobarda, G. Kotsifas, D. Lazenby, L. Livingstone, A. Macpherson, K. Murray, D. O’Brien, Chief J. Pare, M. Ribera, J. Richardson, B. Westlake-Power, S. Williams
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;1st Report of the
   Community Safety and Crime Prevention Advisory Committee
 
 That the 1st Report of the Community Safety
@@ -43,7 +41,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;1st Report of the
   London Diversity and Race Relations Advisory Committee
 
 That the 1st Report of the London Diversity
@@ -68,7 +65,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Supporting the
   Community Response to Syrian Newcomers
 
 That, on the recommendation of the Managing
@@ -94,7 +90,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;2016-2019 Long-Term
   Care Home Accountability Planning Submission (LAPS)
 
 That, on the recommendation of the Managing
@@ -121,7 +116,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Contract Extension:
   C14-046 Advertising Services at the City's Arenas
 
 That, on the recommendation of the Managing
@@ -155,7 +149,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Springbank Park Playground Upgrade
   Sponsored by Jenny Jones – London Hometown Hero Project
 
 That it BE NOTED
@@ -181,7 +174,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Neighbourhood
   Family Centre: Thames Valley District School Board, Northwest London New
   Public School
 
@@ -243,7 +235,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Neighbourhood
   Family Centre: Thames Valley District School Board, Northeast London New
   Public School
 
@@ -303,7 +294,6 @@ Motion Passed
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Request for
   Proposal 15- 53 - Self-Contained Breathing Apparatus Life Cycle Replacement
 
 That, on the recommendation of the Fire
@@ -351,7 +341,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Homelessness
   Partnering Strategy Funding Agreement - Data Sharing Agreement
 
 That, on the recommendation of the Managing
@@ -403,7 +392,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Noise By-law
   Complaints
 
 That the following actions be taken with
@@ -471,7 +459,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;2013-2016 Long –
   Term-Care Home Service Accountability Agreement Between The Corporation of
   the City of London (Dearness Home) and the South West Local Health
   Integration Network (LHIN) – Declaration of Compliance 2015
@@ -501,7 +488,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;1st Report of the
   Town and Gown Committee
 
 That the following actions be taken with
@@ -567,7 +553,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;1st Report of the
   Accessibility Advisory Committee
 
 That the following action be taken with
@@ -615,7 +600,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;Update on Parks for
   Londoners with Dogs
 
 That, on the recommendation of the Managing
@@ -660,7 +644,6 @@ Motion
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;Deferred Matters List
 
 That the February 2016 Deferred Matters
   List for the Community and Protective Services Committee BE RECEIVED.

@@ -12,7 +12,6 @@ February 9, 2015, at  3:04 PM
 > [!abstract]- Also Present:
 > P. Hubert, V. Ridley, P. Squire, M. van Holst; A. Zuidema, J.P. Barber, G. Belch, K. Dawtrey, V. McAlea Major
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no

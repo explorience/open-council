@@ -12,10 +12,8 @@ August 24, 2015, at  4:02 PM
 > [!abstract]- Also Present:
 > M. Brown, A. Hopkins, J. Morgan, T. Park, M. Salih, M. van Holst, G. Barrett, M. Davis, M. Elmadhoon, J.M. Fleming, S. Galloway, K. Gonyou, T. Grawey, N. Hall, E. Lalande, A. MacLean, A. Macpherson, N. Pasato, J. Ramsay, C. Saunders, S. Spring, M. Tomazincic, J. Yanchula, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Property located
   1212 Coronation Drive (H-8493)
 
 That, on the recommendation of the Senior
@@ -47,7 +45,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Property located at
   751 Fanshawe Park Road West (H-8502)
 
 That, on the recommendation of the Manager,
@@ -78,7 +75,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Meadowlily
   Subdivision (33M-603)
 
 That, on the recommendation of the Manager,
@@ -121,7 +117,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Foxwood - Phase 2
   (39T-07507)
 
 That, on the recommendation of the Senior
@@ -173,7 +168,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Greengate Village
   Limited - Lots 60 to 65 Plan 33M-533 (Parts 1 to 12 Plan 33R-18783) (P-8509)
 
 That, on the recommendation of the Senior
@@ -217,7 +211,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Shamrock Industrial
   Subdivision (33M-272)
 
 That, on the recommendation of the Manager,
@@ -257,7 +250,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Properties located
   at 250, 268, 270 and 272 Springbank Drive (OZ-8279)
 
 That, the site plan application by Rand
@@ -290,7 +282,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Property located at
   3100 Colonel Talbot Road (OZ-8486)
 
 That, on the recommendation of the Managing
@@ -480,7 +471,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Property located at
   122 Wortley Road - Request for Demolition
 
 That, on the recommendation of the Managing
@@ -569,7 +559,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Property located at
   1921 Wonderland Road North (39CD-15501/Z-8446)
 
 That, on the recommendation of the Manager,
@@ -675,7 +664,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Property located at
   555 Sunningdale Road East (39CD-15505)
 
 That, on the recommendation of the Senior
@@ -759,7 +747,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Properties located
   at 505, 507 and 511 Talbot Street - Request for Demolition
 
 That, the Managing Director, Planning and
@@ -845,7 +832,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Properties located
   at 505, 507 and 511 Talbot Street and 94 Dufferin Avenue (Z-8490)
 
 That, on the recommendation of the Managing
@@ -1020,7 +1006,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;10th Report of the
   London Advisory Committee on Heritage
 
 That, the following actions be taken with

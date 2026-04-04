@@ -12,10 +12,8 @@ September 8, 2015, at  4:00 PM
 > [!abstract]- Also Present:
 > A. Hopkins, J. Morgan, T. Park, M. Salih, M. van Holst, M. Corby, M. Elmadhoon, J.M. Fleming, S. Galloway, T. Grawey, P. Kokkoros, G. Kotsifas, I. Listar, J. MacKay, L. Pompilii, J. Ramsay, C. Saunders, S. Spring, M. Tomazincic, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;7th Report of the
   Environmental and Ecological Planning Advisory Committee
 
 That the 7th Report of the Environmental
@@ -39,7 +37,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;5th Report of the
   Trees and Forests Advisory Committee
 
 That the 5th Report of the Trees and
@@ -63,7 +60,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Portions of land
   located at Georgeherriot Lane, Lismer Way and Lismer Place (H-8506)
 
 That, on the recommendation of the Senior
@@ -95,7 +91,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Property located at
   1653 Richmond Street (H-8487)
 
 That, on the recommendation of the Senior
@@ -125,7 +120,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Properties located
   at 1631, 1635, 1639, 1643 and 1649 Richmond Street (H-8519)
 
 That, on the recommendation of the Senior
@@ -159,7 +153,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Blakie Road and
   Breck Avenue Servicing Area (H-8448)
 
 That, on the recommendation of the Planner
@@ -189,7 +182,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Hyde Park Road
   Industrial Subdivision (H-8449)
 
 That, on the recommendation of the Planner
@@ -231,7 +223,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Property located at
   1602 Sunningdale Road West (H-8517)
 
 That, on the recommendation of the Manager,
@@ -263,7 +254,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Property located at
   1959 Wharncliffe Road South (H-8494)
 
 That, on the recommendation of the Senior
@@ -293,7 +283,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Amendments to
   Various Planning Related By-laws
 
 That, on the recommendation of the City
@@ -433,7 +422,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Property located at
   356 Dundas Street (Z-8483)
 
 That, on the recommendation of the Managing
@@ -587,7 +575,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Property located at
   2760 Sunningdale Road East (OZ-8488)
 
 That, on the recommendation of the Managing
@@ -678,7 +665,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Residential
   Development
 
 That
@@ -722,7 +708,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Redevelopment in
   London's Downtown
 
 That the following actions be taken to

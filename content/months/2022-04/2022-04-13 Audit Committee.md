@@ -19,21 +19,17 @@ The meeting is called to order at 12:00 PM; it being noted that the following we
 
 Holst, J. Helmer, S. Turner; and L. Higgs.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Internal Audit Follow Up Activities Update Dashboard
 
@@ -71,11 +67,9 @@ That the communication from MNP, with respect to the internal audit charter, BE 
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 That the meeting BE ADJOURNED.
 

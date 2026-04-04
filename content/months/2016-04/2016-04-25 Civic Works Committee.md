@@ -12,13 +12,11 @@ April 25, 2016, at  1:01 PM
 > [!abstract]- Also Present:
 > T. Park; J. Braam, A. Drost, A. Dunbar, M. Elmadhoon, J. Lucas, D. MacRae, S. Maguire, M. Ribera, L. Rowe, E. Soldo, J. Stanford
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;School Zone Speed
   Limit Policy
 
 That, on the recommendation of the Managing
@@ -48,7 +46,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Appointment of
   Consulting Engineer for Contract Administration Services Associated with the
   Construction of 2016 Infrastructure Renewal Projects: Ridgewood Crescent -
   Reconstruction and Bond Street/Raywood Avenue Alexandra Street/Lincoln Place
@@ -115,7 +112,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Amendments to the
   Traffic and Parking By-law Pertaining to the No Left-Turn Restrictions on
   Southdale Road West at Tillman Road and at Farnham Road
 
@@ -144,7 +140,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Pedestrian
   Crossover Program
 
 That, on the recommendation of the Managing
@@ -172,7 +167,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Blackfriars Bridge
   Rehabilitation Detailed Design and Tendering - Appointment of Consulting
   Engineer
 
@@ -221,7 +215,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Landscape Material
   on Boulevard Policy
 
 That, on the recommendation of the Managing
@@ -246,7 +239,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Environmental
   Programs Update
 
 That, on the recommendation of the Director, 
@@ -278,7 +270,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;4th Report of the
   Transportation Advisory Committee
 
 That the 4th Report of Transportation Advisory Committee from
@@ -301,7 +292,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That
@@ -325,7 +315,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;(ADDED)  Blackfriars Bridge – Review of
   Vehicular Access
 
 That the Civic Administration BE DIRECTED

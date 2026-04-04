@@ -12,10 +12,8 @@ May 1, 2012, at  4:04 PM
 > [!abstract]- Also Present:
 > J.F. Fontana, P. Van Meerbergen, J. Braam, B. Beaton, J. M. Fleming, B. Krichker, I. Listar, J. Page
 
-# 1.&nbsp;&nbsp;&nbsp;No pecuniary
   interests are disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Emerald Ash
   Borer Strategy and Issues Related to Tobin Court
 
 Recommendation:  That, the following

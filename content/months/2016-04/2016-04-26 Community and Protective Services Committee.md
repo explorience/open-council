@@ -15,13 +15,11 @@ April 26, 2016, at  4:00 PM
 > [!abstract]- Also Present:
 > J. Helmer, J. Morgan, T. Park, M van Holst; B. Coxhead, S. Datars Bere, S. Giustizia, L. Hamer, O. Katolyk, J. Kobarda, D. Lazenby, L. Livingstone, S. Oldham, M. Ribera, C. Smith, B. Westlake-Power
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests
   were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Naming Rights,
   Sponsorship, and Advertising for City of London Recreation Facilities
 
 That, on the recommendation of the Managing
@@ -78,7 +76,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Parks and
   Recreation Strategic Master Plan Accomplishments and Update Strategy
 
 That, on the recommendation of the Managing
@@ -104,7 +101,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;London
   Strengthening Neighbourhoods Strategy 2017-2020 Community Engagement Plan
 
 That, on the recommendation of the Managing
@@ -137,7 +133,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Fire Station
   Alerting Radios - Life Cycle Replacement
 
 That, on the recommendation of the Fire
@@ -180,7 +175,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Investment in
   Affordable Housing - 2014 Extension (IAH-E) Year 3: Proposal Recommendation
   for 27 Centre Street
 
@@ -244,7 +238,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Amendments to the
   Fireworks By-law
 
 That, on the recommendation of the Fire
@@ -269,7 +262,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;3rd Report of the
   Accessibility Advisory Committee
 
 That the following actions be taken with
@@ -370,7 +362,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;5th Report of the
   Animal Welfare Advisory Committee
 
 That the following actions be taken with
@@ -432,7 +423,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;4th Report of the
   London Housing Advisory Committee
 
 That the following actions be taken with
@@ -504,7 +494,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Community Centre
   Room and Gymnasium Rentals
 
 The Civic Administration BE REQUESTED to
@@ -530,7 +519,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Additional (if
   Needed) 2016 Meeting Dates for the Community and Protective Services
   Committee
 
@@ -561,7 +549,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the April 2016 Deferred Matters List

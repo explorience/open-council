@@ -25,11 +25,9 @@ February 19, 2025, at  1:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Hillier
 
@@ -169,7 +167,6 @@ That the 3rd Report of the Community Advisory Committee on Planning, from its me
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;1484 Gore Road (Z-25002) 
 
@@ -710,7 +707,6 @@ That pursuant to section 31.6 of the Council Procedure By-law, Councillor A. Hop
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 It be noted that, pursuant to section 27.6 of the Council Procedure By-law and at the consensus of the committee, a change in order of the Planning and Environment Committee Agenda to provide for Item 4.2 in Stage 4, Items for Direction, to be considered before Item 4.1 Stage 4, Items for Direction, was approved.
 
@@ -788,7 +784,6 @@ That the delegation request from M. Cory, as appended to the Added Agenda, BE AP
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) Deputy Mayor S. Lewis - Motion for immediate need for road rehabilitation of Dundas Street between Burdick Place and Beatrice Street
 
@@ -826,7 +821,6 @@ it being further noted that Planning and Environment Committee Received the foll
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 That the meeting BE ADJOURNED.
 

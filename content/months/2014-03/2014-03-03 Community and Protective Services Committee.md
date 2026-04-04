@@ -15,34 +15,29 @@ March 3, 2014, at  7:04 PM
 > [!abstract]- Also Present:
 > B. Coxhead, S. Datars Bere, J. Kobarda, L. Livingstone, M. Ribera, S. Stafford, J. Stanford
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;1st Report of the
   Child Care Advisory Committee
 
 Recommendation:  That the 1st Report of the
   Child Care Advisory Committee, from its meeting held on January 29, 2014, BE
   RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;3rd Report of the
   Animal Welfare Advisory Committee
 
 Recommendation:  That the 3rd Report of the
   Animal Welfare Advisory Committee, from its meeting held on February 6, 2014,
   BE RECEIVED.
 
-# 4.&nbsp;&nbsp;&nbsp;1st Report of the
   London Diversity and Race Relations Advisory Committee
 
 Recommendation:  That the 1st Report of the
   London Diversity and Race Relations Advisory Committee, from its meeting on
   February 20, 2014, BE RECEIVED.
 
-# 5.&nbsp;&nbsp;&nbsp;Retrofit of
   Automatic Sprinklers in all Vulnerable Occupancies
 
 Recommendation:  That the communication
@@ -50,7 +45,6 @@ Recommendation:  That the communication
   of Emergency Management, with respect to the retrofit of automatic sprinklers
   in all vulnerable occupancies, BE RECEIVED.  (2014-P03)
 
-# 6.&nbsp;&nbsp;&nbsp;Newcomer Champion
   Award
 
 Recommendation:  That the communication
@@ -76,7 +70,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;3rd Report of the
   London Housing Advisory Committee
 
 Recommendation:  That the following actions
@@ -137,7 +130,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;10 Minutes Grace
   Period for Parking
 
 Recommendation: That the correspondence
@@ -164,7 +156,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Annual Review -
   2014 Special Events Policies and Procedures Manual
 
 Recommendation:  That, on the

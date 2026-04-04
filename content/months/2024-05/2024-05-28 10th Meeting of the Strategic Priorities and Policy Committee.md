@@ -17,11 +17,9 @@ May 28, 2024, at  1:00 PM
 
 The meeting is called to order at 1:00 PM; it being noted that Councillors S. Stevenson, P. Van Meerbergen and S. Hillier were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by P. Cuddy
 
@@ -104,7 +102,6 @@ b) clauses 1.1, 2.1, 2.2, 4.1, 4.2, 4.3, 4.4, 6.1 and 7.1 BE RECEIVED.
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Not to be heard before 1:05 PM - London Hydro Inc. - 2023 Annual General Meeting of the Shareholder Annual Resolutions
 
@@ -294,7 +291,6 @@ it being noted the Strategic Priorities and Policy Committee heard a verbal repo
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Request for Delegation Status - Kendra Frye, Associate, Trinity Centres Foundation - Creative Sector Incubation Hub Business Plan
 
@@ -1086,7 +1082,6 @@ Leah Thomas Gray
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) RBC Place London General Manager and CEO Appointment
 
@@ -1120,7 +1115,6 @@ That Darrin Pollard BE APPOINTED as the General Manager and CEO to the London Co
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 > Moved by H. McAlister
 
@@ -1151,7 +1145,6 @@ The Committee convenes In Closed Session, from 2:48 PM to 3:19 PM.
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by H. McAlister
 

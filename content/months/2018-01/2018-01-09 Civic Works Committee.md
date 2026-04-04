@@ -12,13 +12,11 @@ January 9, 2018, at  4:00 PM
 > [!abstract]- Also Present:
 > J. Helmer, A. Hopkins, J. Morgan, M. van Holst; A. Dunbar, D. Gough, A. Macpherson, D. MacRae, S. Mathers, P. McKague, A. Rammeloo, L. Rowe, K. Scherr, E. Soldo, S. Spring, J. Stanford
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;1st Report of the
   Rapid Transit Implementation Working Group
 
 That the following actions be taken with
@@ -52,7 +50,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Exercise Renewal
   Options Curbside Collection and Material Recovery Facility Operations
   Contracts
 
@@ -94,7 +91,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Comments on
   Environmental Bill Of Rights Registry – Ontario’s Approach to Climate Change
   Adaption
 
@@ -124,7 +120,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Dundas Place
   Utility Construction Coordination
 
 That, on the recommendation of the Managing
@@ -173,7 +168,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Appointment of
   Consulting Engineer Mud Creek Flood Reduction and Rehabilitation Phase 1
   Detailed Design
 
@@ -225,7 +219,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Kilally Road
   Improvements Phase 1 Contract Administration - Appointment of Consulting
   Engineer
 
@@ -276,7 +269,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Comments on
   Environmental Bill of Rights Registry – Proposed Food and Organic Waste
   Framework
 
@@ -308,7 +300,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Comments on the
   Amended Blue Box Program Plan (Prepared by Stewardship Ontario)
 
 That, on the recommendation of the Managing
@@ -368,7 +359,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;One River
   Environmental Assessment Update: Phase II Stage I Report
 
 That, on the recommendation of the Managing
@@ -497,7 +487,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the Deferred Matters List for the
@@ -521,7 +510,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;(ADDED) 1st Report
   of the Cycling Advisory Committee
 
 That the following actions be taken with
@@ -556,7 +544,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;(ADDED)
   Enquiry – Councillor H.L. Usher – Snow Clearing
 
 That it BE NOTED that Councillor H.L. Usher

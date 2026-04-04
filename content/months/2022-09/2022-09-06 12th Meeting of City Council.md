@@ -17,23 +17,19 @@ September 6, 2022, at  4:00 PM
 
 The meeting is called to order at 4:02 PM;  it being noted that the following Members were in remote attendance, Councillors M. Salih, J. Helmer, P. Van Meerbergen, S. Turner, S. Hillier.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Councillor S. Hillier discloses a pecuniary interest in Item 8 (5.1) of the 10th Report of the Community and Protective Services Committee, having to do with the Deferred Matters List, specifically item number 1 on the list, by indicating that his family puts on festivals in the park.
 
 Councillor J. Helmer discloses a pecuniary interest in Item 3 (2.2) of the 12 Report of the Strategic Priorities and Policy Committee as well as the associated Bill No. 339, having to do with the Municipal Accommodation Tax and Short-term accommodations, by indicating that he has rented out his home through Airbnb in the past and may do so again in the future.
 
-# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
 ## 2.1&nbsp;&nbsp;&nbsp;His Worship the Mayor recognized the 2022 Queen Elizabeth Scholarships Recipients (Virtual Recognition)
 
 ## 2.2&nbsp;&nbsp;&nbsp;His Worship the Mayor Recognized City of London Employees who have achieved 25 Years of Service during 2022:
 
-# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
 
 > Motion made by J. Helmer
 
@@ -86,7 +82,6 @@ Councillor S. Turner enters the meeting at 4:44 PM.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
 ## 5.1&nbsp;&nbsp;&nbsp;11th Meeting held on August 2, 2022
 
@@ -120,7 +115,6 @@ That the Minutes of the 11th Meeting, held on August 2, 2022, BE APPROVED.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 > Motion made by P. Van Meerbergen
 
@@ -170,11 +164,9 @@ That the following Communications BE RECEIVED, and BE FORWARDED, as noted on the
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 None.
 
-# 8.&nbsp;&nbsp;&nbsp;Reports
 
 ## 8.1&nbsp;&nbsp;&nbsp;12th Report of the Strategic Priorities and Policy Committee
 
@@ -1640,7 +1632,6 @@ That the balance of the Deferred Matters List BE APPROVED.
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 ## 9.1&nbsp;&nbsp;&nbsp;12th Report of Council in Closed Session
 
@@ -1679,23 +1670,19 @@ At 6:06 PM, Councillor P. Van Meerbergen leaves the meeting.
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-# 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 Councillor M. Cassidy enquires with respect to the annual display of First Nations flags in City Hall with respect to recognition of the anniversary of the London Township Treaty.  The City Clerk advised that, in accordance with the Flags at City Hall Council Policy, all of the First Nations were contacted in August to invite that their flags be displayed at City Hall on September 7, 2022.
 
 Councillor M. Cassidy further enquires as to whether there will be additional recognition of the event in the future.  The City Manager advises that this matter will be a part of a future report related to steps and actions of Truth and Reconciliation.
 
-# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 
 None.
 
 At 6:10 PM, Councillor S. Lewis leaves the meeting.
 
-# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 > Motion made by M. Hamou
 
@@ -2016,7 +2003,6 @@ By-law No. Z.-1-223058 - A by-law to amend By-law No. Z.-1 to rezone an area of 
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by P. Van Meerbergen
 

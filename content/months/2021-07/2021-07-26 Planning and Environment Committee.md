@@ -22,11 +22,9 @@ July 26, 2021, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Hillier
 
@@ -387,7 +385,6 @@ That, on the recommendation of the Director, Planning and Development, with the 
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;450 Wharncliffe Road South
 
@@ -1249,7 +1246,6 @@ b)       that NO ACTION BE TAKEN with respect to implementing the Green Acres
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;5th Report of the Trees and Forests Advisory Committee
 
@@ -1319,11 +1315,9 @@ c)        clauses 1.1, 2.1 to 2.5, inclusive, 2.7, 3.2, 4.1 and 4.2 BE RECEI
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 10:03 PM.
 ---

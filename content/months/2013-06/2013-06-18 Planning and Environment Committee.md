@@ -15,10 +15,8 @@ June 18, 2013, at  4:05 PM
 > [!abstract]- Also Present:
 > J.F. Fontana, J.L. Baechler, M. Brown, J.P. Bryant, J.B. Swan, H.L. Usher, J.P. Barber, G. Barrett, J. Braam, J. Bruin, M. Corby, B. Coxhead, M. Elmadhoon, J.M. Fleming, S. Galloway, T. Grawey, B. Henry, M. Johnson, P. Kokkoros, G. Kotsifas, B. Krichker, A. MacLean, S. Meksula, A. Riley, M. Ribera, C. Saunders, C. Smith, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Properties located
   at 3 and 5 Front Street (H-8187)
 
 Recommendation:      That, on the
@@ -34,7 +32,6 @@ Recommendation:      That, on the
   Provision(R3-2(8)) Zone to remove the “h-5”, “h-80” and “h-121”, holding
   provisions.  (2013-D14B)
 
-# 3.&nbsp;&nbsp;&nbsp;Property located at
   2095 Coronation Drive (H-8159)
 
 Recommendation:  That, on the
@@ -48,7 +45,6 @@ Recommendation:  That, on the
   Special Provision (R5-5(2)) Zone to remove the h. and h-5 holding provisions. 
   (2013-D14B)
 
-# 4.&nbsp;&nbsp;&nbsp;Property located at
   433 Hyde Park Road (H-8168)
 
 Recommendation:  That, on the
@@ -62,7 +58,6 @@ Recommendation:  That, on the
   R5-1(4)) Zone TO a Residential R5 Special Provision (R5-1(4)) Zone to remove
   the “h-5” holding provision.  (2013-D14B)
 
-# 5.&nbsp;&nbsp;&nbsp;Properties located
   at 12-27 Northcrest Drive
 
 Recommendation:  That, on the
@@ -83,7 +78,6 @@ b)         the
   representation at the Ontario Municipal Board Hearing to support the Committee
   of Adjustment’s decision.  (2013-D13)
 
-# 6.&nbsp;&nbsp;&nbsp;Property located at
   138 John Street
 
 Recommendation:  That, on the
@@ -109,7 +103,6 @@ it being noted that the Planning and
   2013, from E. Di Trolio, President, North Talbot Community Association, with
   respect to this matter.   (2013-L01)
 
-# 7.&nbsp;&nbsp;&nbsp;Property located on
   the north side of Bradley Avenue, east of Highbury Avenue (39T-92020-E)
 
 Recommendation:  That, on the
@@ -134,7 +127,6 @@ it being noted that the Planning and
   2013, from E. Wszol, Development Engineering (London) Limited, with respect
   to this matter.   (2013-D12)
 
-# 8.&nbsp;&nbsp;&nbsp;General Provisions
   of the Subdivision Agreement
 
 Recommendation:  That, on the
@@ -146,13 +138,11 @@ Recommendation:  That, on the
   future Planning and Environment Committee meeting for consideration, no later
   than August, 2013.  (2013-D12)
 
-# 9.&nbsp;&nbsp;&nbsp;Building Division
   Monthly Report for April 2013
 
 Recommendation:  That the Building Division
   Monthly Report for April 2013 BE RECEIVED.   (2013-D06)
 
-# 10.&nbsp;&nbsp;&nbsp;Properties located
   at 600, 650 and 670 Industrial Road (H-8103)
 
 Recommendation:  That, on the
@@ -172,7 +162,6 @@ BE INTRODUCED at the Municipal Council meeting to be held on June 25, 2013, to a
   Industrial (h*h-119*LI2(18)/ LI4(6)/LI5(3)) Zone to remove the
   holding provision. (2013-D14B)
 
-# 11.&nbsp;&nbsp;&nbsp;Properties located
   at 595 and 607 Industrial Road
 
 Recommendation:  That, on the
@@ -181,7 +170,6 @@ Recommendation:  That, on the
   Pottersburg Creek Subwatershed remediation work BE INITIATED for the
   properties located at 595 and 607 Industrial Road.  (2013-D14A)
 
-# 12.&nbsp;&nbsp;&nbsp;Properties located
   at 275, 277 and 281 Thames Street
 
 Recommendation:  That, on the
@@ -189,7 +177,6 @@ Recommendation:  That, on the
   report dated June 18, 2013, relating to the demolition requests for the
   properties located at 275, 277 and 281 Thames Street, BE RECEIVED.  (2013-R01)
 
-# 13.&nbsp;&nbsp;&nbsp;Properties located
   at 1351, 1357 and 1369 Hyde Park Road (O-8077/Z-8157)
 
 Recommendation:  That, the following
@@ -278,7 +265,6 @@ it
   Association unanimously supports the granting of the Chapter 10 Special
   Provision to Fanshawe Motors.   (2013-D14A)
 
-# 14.&nbsp;&nbsp;&nbsp;Properties located
   at 600, 650 and 670 Industrial Road (Z-8104)
 
 Recommendation:  That, on the
@@ -314,7 +300,6 @@ it
   Knutson, Knutson Development Consultants Inc. – expressing support for the
   staff recommendation.     (2013-D14A)
 
-# 15.&nbsp;&nbsp;&nbsp;Property located at
   2237 Wharncliffe Road South (Z-8163)
 
 Recommendation:  That, on the
@@ -370,7 +355,6 @@ it being pointed out that there were no
   oral submissions made at the public  participation meeting associated
   with this matter.  (2013-D14A)
 
-# 16.&nbsp;&nbsp;&nbsp;Properties located
   at 3592-3614 Isaac Court, 6951-6973 and 6946-6982 Clayton Walk (Z-8173)
 
 Recommendation:  That, on the
@@ -389,7 +373,6 @@ it being pointed out that there were no
   oral submissions made at the public  participation meeting associated
   with this matter.  (2013-D14A)
 
-# 17.&nbsp;&nbsp;&nbsp;Land Needs
   Background Study for the 2011 Official Plan Review (O-7983)
 
 Recommendation:  That, on the
@@ -406,7 +389,6 @@ b)         a
   HELD on July 23, 2013, to receive public and landowner input on the Land
   Needs Background Study.   (2013-D08)
 
-# 18.&nbsp;&nbsp;&nbsp;Properties located
   at 56-82 Wellington Street, 283-323 South Street and 69-77 Waterloo Street
   (OZ-8114)
 
@@ -507,7 +489,6 @@ it
   Sean Quigley, Emerging Leaders – enquiring as to whether or
   not the rezoning affects the property owners rights.    (2013-D14A)
 
-# 19.&nbsp;&nbsp;&nbsp;Draft Downtown
   Master Plan
 
 Recommendation:  That, on the
@@ -547,7 +528,6 @@ it
   Brown, 35A – 59 Ridout Street – requesting more enhanced cycling in the
   Downtown Master Plan.   (2013-D19)
 
-# 20.&nbsp;&nbsp;&nbsp;Properties located
   at 3130 and 3260 Dingman Drive and the rear portion of 4397 and 4407 Wellington
   Road South (OZ-8120)
 

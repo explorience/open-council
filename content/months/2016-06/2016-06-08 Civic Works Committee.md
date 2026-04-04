@@ -15,13 +15,11 @@ June 8, 2016, at  4:00 PM
 > [!abstract]- Also Present:
 > T. Park, H. L. Usher; J. Braam, J. Bruin, K. Chambers, P. Christiaans, T. Copeland, A. Drost, A. Dunbar, M. Feldberg, J. M. Fleming, M. Heighway, J. Lucas, P. Lupton, A. Macpherson, D. MacRae, S. Maguire, S. Mathers, R. Pedlow, M. Ribera, J. Richardson, L. Rowe, J. Simon, J. Stanford, R. Welker, J. Wills
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Appointment of
   Consultant - Engineering Services for Class EA and Design of Upgrades for
   East Park Pumping Station
 
@@ -71,7 +69,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Appointment of
   Consulting Engineers for the Core Area Servicing Studies RFP's - 16-14,
   16-15, 16-16 (Irregular)
 
@@ -142,7 +139,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Appointment of
   Consulting Engineers - Infrastructure Renewal Program 2017-2018
 
 That, on the recommendation of the Managing
@@ -248,7 +244,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Contract Price
   Increase - Tender No. T13-73 Elgin Middlesex Pumping Station Upgrades and
   Increase in Engineering Fees
 
@@ -308,7 +303,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Sunningdale Road
   East, Highbury Avenue North, Fanshawe Park Road East and Byron Baseline Road
   Pipeline Inspection - Single Source Procurement
 
@@ -355,7 +349,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Wickerson Pumping
   Station Upgrades Additional Funding EW3653
 
 That, on the recommendation of the Managing
@@ -398,7 +391,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Amendments to the
   Traffic and Parking By-law to Support Mobile App Payments
 
 That, on the recommendation of the Managing
@@ -424,7 +416,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Single Source Award
   - SCADA System Reporting Software
 
 That, on the recommendation of the Managing
@@ -463,7 +454,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;2015 Community
   Energy and Greenhouse Gas Inventory
 
 That, on the recommendation of the
@@ -487,7 +477,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Community Energy
   Action Plan - Update and Status
 
 That, on the recommendation of the Director
@@ -511,7 +500,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Review and Action
   at Selected Garbage Can, Needle Bins and Signage Areas - Downtown London
 
 That, on the recommendation of the
@@ -536,7 +524,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Overnight Parking
   2016 and Beyond
 
 That, on the recommendation of the Managing
@@ -581,7 +568,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Computerized
   Maintenance Management System Acquisition – Esri Canada Limited Cityworks
 
 That, on the recommendation of the Managing
@@ -630,7 +616,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Proposed Changes to
   the Garbage Container Limit
 
 That on the recommendation of the Managing
@@ -760,7 +745,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Flooding Matters
   Work Plan - Phase 1 (Investigation)
 
 That, on the recommendation of the Managing
@@ -801,7 +785,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;London ON Bikes -
   Draft Cycling Master Plan
 
 That, on the recommendation of the Managing
@@ -840,7 +823,6 @@ Motion
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;6th Report of the
   Cycling Advisory Committee
 
 That the following actions be taken with
@@ -893,7 +875,6 @@ Motion
 
 ****
 
-# 19.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That
@@ -916,7 +897,6 @@ Motion
 
 ****
 
-# 20.&nbsp;&nbsp;&nbsp;Request for
   Colouring Pedestrian Crosswalks
 
 That

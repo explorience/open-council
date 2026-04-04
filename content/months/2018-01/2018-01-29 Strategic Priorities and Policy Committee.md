@@ -15,13 +15,11 @@ January 29, 2018, at  4:00 PM
 > [!abstract]- Also Present:
 > M. Hayward, A.L. Barbon, B. Card, I. Collins, B. Coxhead, S. Datars Bere, K. Edwards, M. Feldberg, J.M. Fleming, L. Livingstone, A. Macpherson, S. Mathers, D. Mounteer, A. Patis, M. Ribera, C. Saunders, J. Smolarek, R. Wilcox, J. Winston, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Requirements for a
   Proposed Expansion of a Gaming Site
 
 That the following actions be taken with
@@ -84,7 +82,6 @@ Motion Passed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Transient
   Accommodation Tax
 
 That, on the recommendation of the Board of
@@ -161,7 +158,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;2019 Development
   Charges Study Policy Matters Update
 
 That, on the recommendation of the Managing
@@ -205,7 +201,6 @@ Motion Passed
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Development Charges:
   Core Area Servicing Studies
 
 That, on the recommendation of the Managing
@@ -261,7 +256,6 @@ Motion Passed
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;2019 Development
   Charge (DC) Study - DC Area Rating Policy Review
 
 That, on the recommendation of the Managing
@@ -308,7 +302,6 @@ Motion Passed
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Appointment to the
   Committee of Adjustment
 
 That Daniela Schmidt BE APPOINTED to the
@@ -337,7 +330,6 @@ Motion Passed
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;London Transit
   Commission Chair and Vice Chair
 
 That the communication dated December 4,
@@ -366,7 +358,6 @@ Motion Passed
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Hyde Park Business
   Improvement Association Board of Management - Change to Membership
 
 That the following actions be taken with
@@ -404,7 +395,6 @@ Motion Passed
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Resignation from
   the Rapid Transit Implementation Working Group
 
 That the resignation of Councillor B.
@@ -430,7 +420,6 @@ Motion Passed
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;International
   Plowing Match
 
 That NO ACTION BE TAKEN for the City of

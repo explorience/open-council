@@ -15,10 +15,8 @@ February 17, 2015, at  4:01 PM
 > [!abstract]- Also Present:
 > A. Hopkins, T. Park, V. Ridley, M. van Holst, W. Abbott, G. Barrett, G. Belch, M. Butlim, M. Elmadhoon, J.M. Fleming, S. Galloway, K. Gonyou, T. Grawey, N. Hall, P. Kokkoros, G. Kotsifas, B. O’Hagan, L. Maitland, L. Mottram, D. Popadic, J. Ramsay, M. Ribera, C. Saunders, M. Tomazincic, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;1st Report of the
   Trees and Forests Advisory Committee
 
 Recommendation:  That, the following
@@ -52,7 +50,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Urban Regeneration
   Engagement and Education Outreach Strategy
 
 Recommendation:  That, on the
@@ -87,7 +84,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Draft Beaufort/Irwin/Gunn/Saunby
   (BIGS) Secondary Plan
 
 Recommendation:  That, on the
@@ -123,7 +119,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Chelsea Green
   Subdivision (formerly Terrace Street Subdivision) – Amendment to Special
   Provisions (39T-02511)
 
@@ -162,7 +157,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Building Division
   Monthly Report for December 2014
 
 Recommendation:  That, the Building Division
@@ -184,7 +178,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Downtown Design
   Manual
 
 Recommendation:  That, on the
@@ -267,7 +260,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;General Orientation
   - Key Committee Matters - Planning
 
 Recommendation:      That, the attached
@@ -289,7 +281,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;General Orientation
   - Key Committee Matters - Development Services
 
 Recommendation:      That, the following
@@ -322,7 +313,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Proposed Lambeth
   Community Improvement Plan
 
 Recommendation:  That, the communications
@@ -361,7 +351,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;General Orientation - Key Committee Matters
   - Development Financing
 
 Recommendation:      That, the Director,

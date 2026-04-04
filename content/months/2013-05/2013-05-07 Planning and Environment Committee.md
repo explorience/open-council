@@ -12,10 +12,8 @@ May 7, 2013, at  4:02 PM
 > [!abstract]- Also Present:
 > J.F. Fontana, D. Brown, J.P. Bryant, H.L. Usher, J.P. Barber, G. Barrett, E. Conway, M. Elmadhoon, J.M. Fleming, T. Grawey, B. Henry, P. Kokkoros, G. Kotsifas, B. Krichker, A. MacLean, N. McKee, D. Menard, L. Mottram, N. Musicco, J. Page, J. Ramsay, M. Ribera, A. Riley, C. Saunders, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Property located at
   905 Pond Mills Road (H-8156)
 
 Recommendation:  That, on the
@@ -31,7 +29,6 @@ Recommendation:  That, on the
   City of London; it being noted that urban design will be addressed though the
   site plan approval process for these lands.   (2013-D14B)
 
-# 3.&nbsp;&nbsp;&nbsp;Property located at
   530 Sunningdale Road East - Uplands North Subdivision - Extension to Draft
   Plan of Subdivision Approval (39T-05510)
 
@@ -51,7 +48,6 @@ Recommendation:  That, on the
   "A” as
   appended to the staff report dated May 7, 2013.   (2013-D12)
 
-# 4.&nbsp;&nbsp;&nbsp;Property located at
   1602 Sunningdale Road West (39T-11503)
 
 Recommendation:  That, on the
@@ -82,7 +78,6 @@ c)         the
   support of the Municipal Council’s decision and the position of the Approval
   Authority.  (2013-D12)
 
-# 5.&nbsp;&nbsp;&nbsp;Properties located
   at 1934-1984 Wateroak Drive and 1921-1931 Wateroak Drive (H-8153)
 
 Recommendation:  That, on the
@@ -108,7 +103,6 @@ b)         the
   DEFERRED until such time as the original Heard Drain, that is located
   within these parcels, is decommissioned.   (2013-D14B)
 
-# 6.&nbsp;&nbsp;&nbsp;Property located on
   a portion of 2350 Dundas Street (Block 5, 39T-12502) (H-8171)
 
 Recommendation:  That, on the
@@ -125,20 +119,17 @@ Recommendation:  That, on the
   subject to the registration of the subdivision plan prior to May 14, 2013. 
   (2013-D14B)
 
-# 7.&nbsp;&nbsp;&nbsp;Building Division
   Monthly Report for March 2013
 
 Recommendation:  That the Building Division
   Monthly Report for March 2013 BE RECEIVED.   (2013-D00)
 
-# 8.&nbsp;&nbsp;&nbsp;5th Report of the
   Environmental and Ecological Planning Advisory Committee
 
 Recommendation:  That the 5th Report of the
   Environmental and Ecological Planning Advisory Committee from its meeting
   held on April 18, 2013 BE RECEIVED.
 
-# 9.&nbsp;&nbsp;&nbsp;Properties located
   at 2800 Roxburgh Road and a portion of 635 Wilton Grove Road (Z-8164)
 
 Recommendation:  That, on the
@@ -185,7 +176,6 @@ it being pointed
   out that there were no oral submissions made at the public 
   participation meeting associated with this matter.   (2013-D14A)
 
-# 10.&nbsp;&nbsp;&nbsp;Property located at
   433 Hyde Park Road
 
 Recommendation:  That, on the
@@ -298,7 +288,6 @@ it
   property line, the applicant will build a 1.8 m board fence as well as
   installing new landscaping that staff recommended.     (2013-D11)
 
-# 11.&nbsp;&nbsp;&nbsp;Property located at
   425 Wharncliffe Road South
 
 Recommendation:  That, on the
@@ -379,7 +368,6 @@ it
   R. Patton, Patton Cormier & Associates, on behalf of the applicant – see attached
   communication.   (2013-D11)
 
-# 12.&nbsp;&nbsp;&nbsp;Properties located
   at 3924 and 4128 Colonel Talbot Road (39T-12503/OZ-8052)
 
 Recommendation:  That, on the
@@ -474,7 +462,6 @@ it
   Wiebe, MHBC Planning Urban Design and Landscape Architecture, on behalf of
   York Developments – see attached presentation.  (2013-L01)
 
-# 13.&nbsp;&nbsp;&nbsp;Properties located
   at 1057, 1059 and 1061 Richmond Street (Z-8106)
 
 Recommendation:      That the Planning
@@ -731,7 +718,6 @@ it
   denied; and advising that he spoke at the previous public participation
   meeting with respect to this matter.    (2013-D14A)
 
-# 14.&nbsp;&nbsp;&nbsp;Blackfriars/Petersville
   Neighbourhood Planning Options
 
 Recommendation:  That, the following
@@ -796,7 +782,6 @@ it being pointed out that the Planning and
   presentation from K. Bice, 2 Leslie Street, on behalf of the Blackfriars
   community, with respect to this matter.   (2013-R01)
 
-# 15.&nbsp;&nbsp;&nbsp;Hazelden Park
 
 Recommendation:      That the Civic
   Administration BE REQUESTED to review  the amount of parking in
@@ -804,7 +789,6 @@ Recommendation:      That the Civic
   parking lot; it being noted that cars are parking along Hyde Park Road during
   ball games and soccer games.
 
-# 16.&nbsp;&nbsp;&nbsp;Properties located at 1057, 1059 and 1061
   Richmond Street
 
 Recommendation:      That the Approval

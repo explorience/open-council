@@ -15,13 +15,11 @@ October 3, 2016, at  4:00 PM
 > [!abstract]- Also Present:
 > J. Morgan; P. Christiaans, M. Elmadhoon, J.M. Fleming, T. Grawey, P. Kokkoros, G. Kotsifas, K. Killen, A. MacLean, A. Macpherson, J. Ramsay, S. Spring, M. Tomazincic, B. Westlake-Power, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;10th Report of the
   Environmental and Ecological Planning Advisory Committee
 
 That the following
@@ -104,7 +102,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;5th Report of the
   Agricultural Advisory Committee
 
 That the following actions be taken with
@@ -180,7 +177,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Lots on Cranbrook
   Road and Thornley Street (H-8634-2)
 
 That, on the recommendation of the Senior
@@ -220,7 +216,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Victoria on the
   River Subdivision (Phase 3) (39T-09502)
 
 That, on the recommendation of the Manager,
@@ -266,7 +261,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Property located at
   4206 Perkins Road (H-8677)
 
 That, on the recommendation of the Senior
@@ -295,7 +289,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Chelsea Green
   Meadows Delegation
 
 That the following actions be taken with
@@ -341,7 +334,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Funding Request for
   the Hyde Park Business Association/Business Improvement Area (BIA)
   Designation
 
@@ -379,7 +371,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Properties located
   at 479-485, 487 and 489 Talbot Street
 
 That, on the recommendation of the Managing
@@ -534,7 +525,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Tender 16-94 -
   Invasive Species Management - Irregular Result
 
 That, on the recommendation of the Managing
@@ -582,7 +572,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Increased
   Assessment of Property Taxes at 300 Dundas Street
 
 That delegation status BE GRANTED to K.
@@ -611,7 +600,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;CTV London/Jack FM
   Signage Removal - Files 16001285 & 16001286
 
 That delegation status BE GRANTED to D.
@@ -640,7 +628,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;PEC Deferred List
 
 That the Deferred Matters List dated
   September 6, 2016, BE UPDATED and items that have been addressed by the Civic

@@ -17,11 +17,9 @@ April 7, 2020, at 12:00 AM
 
 The meeting is called to order at 5:12 PM, with Mayor E. Holder in the Chair and all other Members participating by remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;London & Middlesex Community Housing Inc. Meeting of the Shareholder Resolutions Regarding Interim Board Appointments
 
@@ -87,19 +85,15 @@ That the proposed composition of the interim Board for the London & Middlesex Co
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 6:11 PM.
 

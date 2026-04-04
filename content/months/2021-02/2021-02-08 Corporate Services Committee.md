@@ -18,11 +18,9 @@ February 8, 2021, at 12:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by E. Holder
 
@@ -190,11 +188,9 @@ c)   the staff report dated February 8, 2021, BE RECEIVED.
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Application - Issuance of Proclamation - Personal Support Worker Day
 
@@ -219,7 +215,6 @@ That based on the application dated January 14, 2021, from the Canadian PSW Netw
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Paid Sick Leave Enhancement
 
@@ -242,7 +237,6 @@ That the Federal and Provincial Governments BE ADVISED that the Municipal Counci
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by E. Peloza
 
@@ -277,7 +271,6 @@ The Corporate Services Committee convenes, In Closed Session, from 12:58 PM to 1
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by M. van Holst
 

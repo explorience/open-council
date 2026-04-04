@@ -15,13 +15,11 @@ October 4, 2016, at 12:00 PM
 > [!abstract]- Also Present:
 > M. van Holst, M. Salih, P. Squire, A. Hopkins; A. Zuidema, A. Hagan, M. Hayward, D. Mounteer, K. Scherr, S. Spring, B. Warner
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;COUNCIL MEMBER
   SUBMISSION - Recording of In Closed Session Meetings
 
 That the Civic Administration BE DIRECTED
@@ -45,7 +43,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Corporate Services
   Committee Deferred Matters List
 
 That the Corporate Services Committee

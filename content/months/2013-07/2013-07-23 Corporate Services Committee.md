@@ -12,10 +12,8 @@ July 23, 2013, at  1:17 PM
 > [!abstract]- Also Present:
 > H.L. Usher; A. Zuidema, S. Axford, J.P. Barber, A.L. Barbon, J. Braam, S. Datars Bere, J. Edward, C. Finn, M. Hayward, V. Hobson, G. Kotsifas, J. Logan, V. McAlea Major, J. Page, K. Pawlec, A. Prince, C. Resendes, C. Saunders, J. Stanford, M. Turner, B. Warner, J. Winston
 
-# 1.&nbsp;&nbsp;&nbsp;Recommendation: 
   That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Letter of Agreement
   - Provincial Dedicated Gas Tax Funds for Public Transportation Program
 
 Recommendation:  That, on the
@@ -28,7 +26,6 @@ Recommendation:  That, on the
   the City of London with respect to the Dedicated Gas Tax Funds for Public
   Transportation Program.
 
-# 3.&nbsp;&nbsp;&nbsp;Local Improvement
   Charges - Sherwood Forest Public School
 
 Recommendation:  That the following actions
@@ -60,7 +57,6 @@ it being noted that the Corporate Services
   Committee received the attached communication dated July 17, 2013 from
   R. Osman, Chair, London Muslim Mosque with respect to this matter.
 
-# 4.&nbsp;&nbsp;&nbsp;Tourism London
   Request for Financial Support for the 2014 Memorial Cup
 
 Recommendation:  That, on the
@@ -81,7 +77,6 @@ b)         that
   financing for this project BE APPROVED as detailed in the Sources of
   Financing Report appended to the staff report dated July 23, 2013.
 
-# 5.&nbsp;&nbsp;&nbsp;City of London Days
   - Budweiser Gardens
 
 Recommendation:  That, on the
@@ -92,14 +87,12 @@ Recommendation:  That, on the
 Duck Dynasty’s Call On Farmtown Canada
 October 12, 2013
 
-# 6.&nbsp;&nbsp;&nbsp;Civil Marriage
   Ceremonies
 
 Recommendation:  That, on the
   recommendation of the City Clerk, the report dated July 23, 2013 with respect
   to civil marriage ceremonies BE RECEIVED for information.
 
-# 7.&nbsp;&nbsp;&nbsp;RFP13-01 - Print
   Optimization
 
 Recommendation:  That, on the
@@ -134,7 +127,6 @@ it being noted that the annual cost of this
   contract is within the existing operating budget for printing services, and
   there are no increases over the four year term.
 
-# 8.&nbsp;&nbsp;&nbsp;Declare Surplus –
   City-Owned Property - 337 Ridgewood Avenue
 
 Recommendation:  That, on the
@@ -152,7 +144,6 @@ b)         the
   market value, failing which it will be tendered for sale in accordance with
   the Sale and Other Disposition of Land City Policy.
 
-# 9.&nbsp;&nbsp;&nbsp;Declare Surplus and
   Transfer City-Owned Land - 57 Tecumseh Avenue West
 
 Recommendation:  That, on the
@@ -177,7 +168,6 @@ c)         the
   authorize the Mayor and the City Clerk to execute the Agreement of Purchase
   and Sale.
 
-# 10.&nbsp;&nbsp;&nbsp;Request from Brose
   Canada Inc. to Extend the Reconveyance Period over Parts 5 and 6 of Plan
   33R-15347 and to Negotiate a New Option Agreement on Parts 7 and 8 of Plan
   33R-15347 - Forest City Industrial Park
@@ -201,7 +191,6 @@ b)         the
   the location map as appended to the staff report dated July 23, 2013 as
   Parcel 3 on Schedule “A”.
 
-# 11.&nbsp;&nbsp;&nbsp;Metrolinx Report
 
 Recommendation:  That, on the
   recommendation of the Director of Intergovernmental and Community Liaison,
@@ -211,7 +200,6 @@ Recommendation:  That, on the
   adopted, the revenue generated from outside the Greater Toronto and Hamilton
   Area (GTHA) should be directed to areas outside the GTHA.
 
-# 12.&nbsp;&nbsp;&nbsp;AMO Annual General
   Meeting Conference and Trade Show 2014
 
 Recommendation:  That, on the
@@ -219,7 +207,6 @@ Recommendation:  That, on the
   the report dated July 23, 2013 with respect to the AMO Annual General
   Meeting, Conference and Trade Show for 2014 BE RECEIVED for information.
 
-# 13.&nbsp;&nbsp;&nbsp;August 1, 2013
   Ontario Provincial By-Election Candidate Questionnaire
 
 Recommendation:  That, on the
@@ -227,7 +214,6 @@ Recommendation:  That, on the
   the report dated July 23, 2013 with respect to the August 1st Ontario
   Provincial London West By-Election Candidate Questionnaire BE RECEIVED.
 
-# 14.&nbsp;&nbsp;&nbsp;Employee Suggestion
   Program
 
 Recommendation:  That, on the
@@ -235,7 +221,6 @@ Recommendation:  That, on the
   Resources Officer, the report dated July 23, 2013 with respect to the
   employee suggestion program BE RECEIVED for information.
 
-# 15.&nbsp;&nbsp;&nbsp;Workplace Diversity
   Statement and Plan Update
 
 Recommendation:  That, on the
@@ -254,7 +239,6 @@ b)         the
 c)         the balance of the report BE
   RECEIVED for information purposes.
 
-# 16.&nbsp;&nbsp;&nbsp;Vehicle Lease
   Agreement - Fleet Services and Tourism London
 
 Recommendation:  That, on the
@@ -273,7 +257,6 @@ b)         authorize
   the Mayor and the City Clerk to execute the lease agreement noted in a),
   above.
 
-# 17.&nbsp;&nbsp;&nbsp;Council Members'
   Expense Account - Funds to Support Local Youth
 
 Recommendation:  That the request by
@@ -281,14 +264,12 @@ Recommendation:  That the request by
   allocation, to assist a local youth with the cost of her participation in the
   Children’s International Summer Villages, BE APPROVED on a one-time basis.
 
-# 18.&nbsp;&nbsp;&nbsp;Request for
   Designation of Fall Fest as a Municipally Significant Event
 
 Recommendation: That the Fall Fest to be
   held August 30 – September 2, 2013 in Victoria Park BE DESIGNATED a
   Municipally Significant Event in the City of London.
 
-# 19.&nbsp;&nbsp;&nbsp;Partners in
   Employment (PIE) Representative on the Accessibility Advisory Committee
 
 Recommendation:  That Jewel Hartviksen BE
@@ -296,14 +277,12 @@ Recommendation:  That Jewel Hartviksen BE
   February 28, 2015, as a non-voting resource member representing Partners in
   Employment (PIE).
 
-# 20.&nbsp;&nbsp;&nbsp;Appointment to the
   London Advisory Committee on Heritage
 
 Recommendation: That Hazel Elmslie BE
   APPOINTED to the London Advisory Committee on Heritage for the term ending February
   28, 2015, as a Voting Member representing the Historical Sector.
 
-# 21.&nbsp;&nbsp;&nbsp;Appointment to the
   London Diversity and Race Relations Advisory Committee
 
 Recommendation: That Janet Tufts BE
@@ -311,7 +290,6 @@ Recommendation: That Janet Tufts BE
   the term ending February 28, 2015, as a Non-Voting Member representing the
   United Way of London and Middlesex.
 
-# 22.&nbsp;&nbsp;&nbsp;Resignation from
   the Accessibility Advisory Committee
 
 Recommendation: That the communication

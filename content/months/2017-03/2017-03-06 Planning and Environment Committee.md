@@ -15,13 +15,11 @@ March 6, 2017, at  4:00 PM
 > [!abstract]- Also Present:
 > M. Brown, V. Ridley, M. van Holst; G. Bailey, S. Chambers, E. Conway, M. Elmadhoon, J.M. Fleming, K. Gonyou, T. Grawey, K. Killen, G. Kotsifas, J. MacKay, L. Mottram, N. Pasato, L. Pompilii, J. Ramsay, C. Saunders, S. Spring, M. Tomazincic, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;3rd Report of the
   Advisory Committee on Environment
 
 That the following actions be taken with
@@ -65,7 +63,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;3rd Report on the
   London Advisory Committee Heritage
 
 That the following actions be taken with
@@ -124,7 +121,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT – Property
   located at 259 Sunningdale Road West (H-8095)
 
 That, on the recommendation of the Manager,
@@ -153,7 +149,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;STAFF REPORT - Property
   located at 2120 Kains Road (H-8676)
 
 That, on the recommendation of the Senior
@@ -182,7 +177,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;STAFF REPORT - Properties
   located at 1826 and 1854 Oxford Street West and 1170 Riverbend Road South
   Phase 1 (H-8716)
 
@@ -216,7 +210,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Jubilee Subdivision (39T-16501)
 
 That, on the recommendation of the Manager,
@@ -271,7 +264,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;STAFF REPORT - Property
   located at 1647 Fanshawe Park Road East (39T-105030)
 
 That, on the recommendation of the Manager,
@@ -322,7 +314,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;PUBLIC PARTICIPATION
   MEETING - City Wide Amendments (Z-8703)
 
 That, on the recommendation of the Managing
@@ -483,7 +474,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;DELEGATION – Properties
   located at 946, 954 and 962 Longworth Road (H8713)
 
 That, on the recommendation of the Planner
@@ -514,7 +504,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING – Property located at 1170 Riverbend Road
   (39CD-16515/SPA16-046)
 
@@ -622,7 +611,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;DELEGATION - Property
   located at Former 1 Terrace Street
 
 That, on the recommendation of the Managing
@@ -653,7 +641,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Request for
   Business Improvement Area - Hamilton Road
 
 That the following actions be taken with
@@ -689,7 +676,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;(ADDED) 
   StormFisher Operations
 
 That delegation status BE GRANTED to B.

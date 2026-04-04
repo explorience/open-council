@@ -15,13 +15,11 @@ April 3, 2017, at  4:06 PM
 > [!abstract]- Also Present:
 > M. Hayward, B. Card, B. Coxhead, M. Daley, J.M. Fleming, K. Graham, G. Kotsifas, L. Livingstone, S. Mathers, V. McAlea Major, J. Nolan, C. Saunders, K. Scherr, S. Spring, J. Stanford
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Service London
   Update: 661-CITY and CRM Portal
 
 That, on the recommendation of the Managing
@@ -58,7 +56,6 @@ Motion Passed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scott Gillingwater,
   Species At Risk Biologist, Upper Thames River Conservation Authority -
   Effects of Barriers and Low Flow on Species at Risk Along the Upper Thames
   River
@@ -89,7 +86,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Potential Establishment of an Urban
   Indigenous People’s Advisory Committee
 
 That the Civic Administration BE DIRECTED

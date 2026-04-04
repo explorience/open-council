@@ -18,11 +18,9 @@ January 17, 2019, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Councillor S. Turner discloses a pecuniary interest in Item 3.1, specific to the request for funding from Merrymount Children's Centre, by indicating that his employer the Middlesex London Health Unit has indicated a position on the matter, and further by indicating that his spouse's employer receives EarlyON funding.
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Not to be heard before 4:00 PM - Public Participation Meeting - 2016-2019 Multi-Year Budget
 
@@ -194,11 +192,9 @@ Motion to Close the Public Participation Meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Merrymount Children's Centre Funding Request
 
@@ -234,7 +230,6 @@ it being noted that the Strategic Priorities and Policy Committee received a va
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by S. Hillier
 

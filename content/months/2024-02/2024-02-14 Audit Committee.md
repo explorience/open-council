@@ -20,7 +20,6 @@ February 14, 2024, at 12:00 PM
 
 The meeting is called to order at 12:01 PM.
 
-# 1.&nbsp;&nbsp;&nbsp;Call to Order
 
 ## 1.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
@@ -38,15 +37,12 @@ That Councillor S. Stevenson BE APPOINTED as Vice Chair for the term ending Nove
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Briefing Note From Internal Audit - MNP
 
@@ -104,11 +100,9 @@ That the KPMG LLP Audit Planning Report, for the year ending December 31, 2023, 
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by P. Cuddy
 
@@ -132,7 +126,6 @@ That the Audit Committee convenes In Closed Session from12:27 PM to 12:40 PM.
 
 ## 6.1&nbsp;&nbsp;&nbsp;Security of Property
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by P. Cuddy
 

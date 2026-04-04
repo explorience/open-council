@@ -20,11 +20,9 @@ November 1, 2022, at 12:00 PM
 
 The meeting was called to order at 12:00 PM with Councillor E. Peloza in the Chair; it being noted that the following Members were in remote attendance: Councillors J. Helmer, M. van Holst, and P. Van Meerbergen.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by P. Van Meerbergen
 
@@ -106,15 +104,12 @@ e)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or ot
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -160,7 +155,6 @@ That, prior to the end of Q1 of 2023, the Civic Administration BE DIRECTED to re
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 12:16 PM.
 ---

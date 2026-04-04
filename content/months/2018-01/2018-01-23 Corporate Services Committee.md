@@ -12,13 +12,11 @@ January 23, 2018, at 12:30 PM
 > [!abstract]- Also Present:
 > H.L. Usher; M. Hayward, A.L. Barbon, D. Bordin, G. Bridge, I. Collins, B. Coxhead, S. Crawford, M. Daley, J. Davies, K. Dawtrey, A. Hagan, S. Khan, L. Kolodiazny, R. Lamon, J. Logan, D. Mounteer, J. Senese, K. Shahata, E. Soldo, J. Stanford, M. Tomazincic, B. Warner, T. Wellhauser, B. Westlake-Power, A. Thompson, R. Wilcox, J. Wills, G. Zhang
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests
   were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Corporate Human
   Rights and Code of Conduct Inquiries, Requests, Complaints and Related
   Training Initiatives 2017
 
@@ -52,7 +50,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Changes to the
   Employment Standards Act, 2000 and the Labour Relations Act, 1995 - Bill 148
 
 That, on the recommendation of the Managing
@@ -77,7 +74,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Workforce Census
   and Community Comparators
 
 That, on the recommendation of the Managing
@@ -102,7 +98,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Update: Workplace
   Diversity and Inclusion Activities
 
 That, on the recommendation of the Managing
@@ -130,7 +125,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Implementation
   Services to Migrate Existing Microsoft Reports to Microsoft Business
   Intelligence (BI) Reporting Services
 
@@ -182,7 +176,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Assessment Growth
   for 2018, Changes in Taxable Phase-In Values and Shifts in Taxation as a
   Result of Reassessment
 
@@ -209,7 +202,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Authorization for
   Temporary Borrowing
 
 That, on the recommendation of the Managing
@@ -235,7 +227,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;2018 Debenture
   Issuance
 
 That the Managing Director, Corporate
@@ -262,7 +253,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;FCM Municipal Asset
   Management Program Grant Application
 
 That, on the recommendation of the Managing
@@ -303,7 +293,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Corporate Asset
   Management Plan 2017 Review
 
 That, on the recommendation of the Managing
@@ -329,7 +318,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Declare Surplus -
   City-Owned Land Abutting 740 Dundas Street
 
 That, on the recommendation of the Managing
@@ -362,7 +350,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Award of
   Construction Contract to Demolish 280 York Street/340 Wellington Street
 
 That, on the recommendation of the Managing
@@ -408,7 +395,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;LGBTQ2 Community
   Apology
 
 Whereas on January 12, 2018 the Mayor of
@@ -468,7 +454,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Request for
   Designation of the Latin Gastronomy Festival as a Municipally Significant
   Event
 
@@ -493,7 +478,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;United States of
   America - Canada Strong Cities Exchange Program and the United States of
   America Conference of Mayors 86th Winter Meeting - January 23 -27, 2018 –
   Washington

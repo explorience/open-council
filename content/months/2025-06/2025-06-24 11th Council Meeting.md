@@ -17,23 +17,19 @@ June 24, 2025, at  1:00 PM
 
 The meeting is called to order at 1:04 PM; it being noted that Councillor S. Hillier was in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED Councillor P. Van Meerbergen discloses a pecuniary interest in item 11, clause 2.10 of the 11th Report of the Infrastructure and Corporate Services Committee and related Bill No. 256, having to do with an Amending Agreement to the Child Care Services Cost Apportionment and Agency Agreement by indicating that his wife owns and operates a day care.
 
 That it BE NOTED Councillor P. Van Meerbergen discloses a pecuniary interest in item 7, clause 2.6 of the 10th Report of the Community and Protective Services Committee having to do with London-Middlesex Child Care and Early Years Service System Plan Update - 2024 Progress Report by indicating that his wife owns and operates a day care.
 
-# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
 ## 2.1&nbsp;&nbsp;&nbsp;His Worship the Mayor will recognize the recipient of the 2025 Tim Hickman Health and Safety Scholarship: David Perez Medina 
 
 That it BE NOTED his Worship the Mayor recognized David Perez Medina as the recipient of the 2025 Tim Hickman Health and Safety Scholarship.
 
-# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
 
 > Motion made by P. Cuddy
 
@@ -74,7 +70,6 @@ That Council convenes In Closed Session from 1:18 PM to 1:25 PM.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
 ## 5.1&nbsp;&nbsp;&nbsp;9th and 10th Meetings held on June 3, 2025 and June 17, 2025
 
@@ -111,7 +106,6 @@ That the Minutes of the 9th and 10th Meetings of the Municipal Council, from the
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 > Motion made by S. Stevenson
 
@@ -170,11 +164,9 @@ That the following communications BE RECEIVED and BE REFERRED as noted on the Ad
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 None.
 
-# 8.&nbsp;&nbsp;&nbsp;Reports
 
 ## 8.1&nbsp;&nbsp;&nbsp;8th Report of the Strategic Priorities and Policy Committee
 
@@ -1802,7 +1794,6 @@ c)    the Deputy City Manager, Housing and Community Growth, or their written 
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 At 4:42 PM, Councillor A. Hopkins leaves the meeting.
 
@@ -1841,19 +1832,15 @@ At 4:47 PM, Councillor E. Peloza enters the meeting.
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-# 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 None.
 
-# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 
 None.
 
-# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 > Motion made by S. Franke
 
@@ -2308,7 +2295,6 @@ That Third Reading and Enactment of Bill No. 250 to Bill No. 271 and Added Bill 
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by P. Van Meerbergen
 
@@ -2322,7 +2308,6 @@ The meeting adjourned at 4:55 PM.
 
 ****
 
-# Appendix: New Bills
 
 > [!abstract]- The following Bills are enacted as By-laws of The Corporation of the City of London:
 > **Bill No. 250**

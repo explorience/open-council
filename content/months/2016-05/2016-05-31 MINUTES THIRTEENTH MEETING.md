@@ -18,7 +18,6 @@ May 31, 2016, at  4:03 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:03 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 Councillor J. Morgan discloses a pecuniary
@@ -27,13 +26,10 @@ Councillor J. Morgan discloses a pecuniary
   1931 Jubilee Crescent, by indicating that his personal home backs on to that
   area.
 
-# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
-# IV.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
 > Moved by Councillor P. Hubert
 
@@ -68,7 +64,6 @@ Motion Passed
 
 ****
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
 > Moved by Councillor P. Hubert
 
@@ -105,7 +100,6 @@ Motion Passed
 
 ****
 
-# V.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
 MOTION FOR IN CAMERA SESSION
@@ -143,7 +137,6 @@ Motion Passed
 
 ****
 
-# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE TWELFTH MEETING HELD ON MAY 17, 2016
 
 > Moved by Councillor H.L. Usher
@@ -177,7 +170,6 @@ Motion Passed
 
 ****
 
-# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
 > Moved by Councillor M. Salih
@@ -189,12 +181,9 @@ Approve receipt and referral of the
 
 ****
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosure of Pecuniary Interest
 
-# VIII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# IX.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor A. Hopkins
 
@@ -202,14 +191,12 @@ Approve clauses 1 to 18, inclusive, and clause 20.
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;6th Report of the
   Advisory Committee on the Environment
 
 That the 6th Report of the Advisory
   Committee on the Environment from its meeting held on May 4, 2016, BE
   RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;Property located on
   a portion of 120 Gideon Drive (H-8524)
 
 That, on the recommendation of the Managing
@@ -221,7 +208,6 @@ That, on the recommendation of the Managing
   Plan), to change the zoning of the subject lands FROM a Holding Resource
   Extraction (h-194*EX) Zone TO a Resource Extraction (EX) Zone.    (2016-D09)
 
-# 4.&nbsp;&nbsp;&nbsp;Property located at
   905 Sarnia Road (39T-14501)
 
 That, on the recommendation of the Manager,
@@ -258,7 +244,6 @@ d)           
   above, any amending agreements and all documents required to fulfill their
   conditions.   (2016-D12)
 
-# 5.&nbsp;&nbsp;&nbsp;Property located at
   1602 Sunningdale Road West (39T-11503)
 
 That, on the recommendation of the Senior
@@ -285,7 +270,6 @@ b)           
   claims and revenues appended to the staff report dated May 30, 2016 as
   Schedule “B”.   (2016-D12)
 
-# 6.&nbsp;&nbsp;&nbsp;Property located at
   1551 Blackwell Boulevard (H-8507)
 
 That, on the recommendation of the Manager,
@@ -298,13 +282,11 @@ That, on the recommendation of the Manager,
   (h*h-45*R1-4) Zone TO a Residential R1 (R1-4) Zone to remove the holding h
   and h-45 provisions.  (2016-D09)
 
-# 7.&nbsp;&nbsp;&nbsp;Building Division
   Monthly Report for March 2016
 
 That the Building Division Monthly Report
   for March 2016, BE RECEIVED.    (2016-A23)
 
-# 8.&nbsp;&nbsp;&nbsp;6th Report of the
   London Advisory Committee on Heritage
 
 That the following actions be taken with
@@ -382,7 +364,6 @@ it being noted that
   the Planning and Environment Committee heard a verbal delegation from D.
   Dudek, Chair, LACH, with respect to these matters.
 
-# 9.&nbsp;&nbsp;&nbsp;6th Report of the
   Environmental and Ecological Planning Advisory Committee
 
 That the following actions be taken with
@@ -422,7 +403,6 @@ it being noted that the Planning and
   Environment Committee received the attached presentation and heard
   a delegation from K. Moser, Member, EEPAC, with respect to these matters.
 
-# 10.&nbsp;&nbsp;&nbsp;Property located at
   1931 Jubilee Crescent (39T-16501/Z-8589)
 
 > Moved by Councillor P. Hubert
@@ -456,7 +436,6 @@ Motion Passed
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Property located at
   4402 Colonel Talbot Road
 
 That, on the recommendation of the Managing
@@ -486,7 +465,6 @@ it
   this matter, the individuals indicated on the attached public
   participation meeting record made oral submissions regarding this matter.  (2016-P10D/R01)
 
-# 12.&nbsp;&nbsp;&nbsp;Property located at
   5067 Cook Road
 
 That, on the recommendation of the Managing
@@ -508,7 +486,6 @@ it being pointed out that no individuals
   spoke at the public participation meeting associated with this
   matter.    (2016-P10D/R01)
 
-# 13.&nbsp;&nbsp;&nbsp;London Psychiatric
   Hospital Lands & South West Area Secondary Plans (O-8364/O-8370)
 
 That, on the recommendation of the Managing
@@ -570,7 +547,6 @@ it being pointed out that no individuals
   spoke at the public participation meeting associated with this
   matter.    (2016-D09)
 
-# 14.&nbsp;&nbsp;&nbsp;Property located at
   2397 Oxford Street West (Z-8608)
 
 That, on the recommendation of the Managing
@@ -588,7 +564,6 @@ it
   this matter, the individuals indicated on the attached public
   participation meeting record made oral submissions regarding this matter.   (2016-D09)
 
-# 15.&nbsp;&nbsp;&nbsp;Properties located
   at 551 and 555 Waterloo Street (Z-8599)
 
 That the following actions be taken with
@@ -617,7 +592,6 @@ it
   this matter, the individuals indicated on the attached public
   participation meeting record made oral submissions regarding this matter.    (2016-D09)
 
-# 16.&nbsp;&nbsp;&nbsp;Properties located
   at 1733 Hamilton Road and 2046 Commissioners Road East (39T-15505/OZ-8555)
 
 That, on the recommendation of the Senior
@@ -699,7 +673,6 @@ it
   this matter, the individuals indicated on the attached public
   participation meeting record made oral submissions regarding this matter. (2016-D09/D12)
 
-# 17.&nbsp;&nbsp;&nbsp;Zoning By-law
   Amendment - Amplified Music on Patios
 
 That the Civic Administration BE DIRECTED
@@ -709,13 +682,11 @@ That the Civic Administration BE DIRECTED
   Business Improvement Area and the Old East Village, for the period of August
   1 to September 30, 2016.  (2016-D14)
 
-# 20.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the May 2016 Deferred Matters List for
   the Community and Protective Services Committee BE RECEIVED.
 
-# 19.&nbsp;&nbsp;&nbsp;C. Campbell,
   Director of Culture & Entertainment Tourism, Tourism London - Country
   Music Week 2016
 
@@ -843,7 +814,6 @@ Approve clauses 1 to 9, inclusive.
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;Bill 140
 
 That the communication received from Ben
   Lansink, 505 Colborne Street with respect to Bill 140 BE RECEIVED. 
@@ -871,10 +841,8 @@ Motion Passed
 
 ****
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
 > Moved by Councillor T. Park
@@ -1054,7 +1022,6 @@ Motion Passed
 
 ****
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -1241,7 +1208,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

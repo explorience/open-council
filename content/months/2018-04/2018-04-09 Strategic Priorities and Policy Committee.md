@@ -14,19 +14,15 @@ April 9, 2018, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;London Hydro - Request for a Shareholder's Meeting
 
@@ -65,7 +61,6 @@ it being noted that the Strategic Priorities and Policy Committee received a com
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;ADDED - London and Middlesex Housing Corporation
 
@@ -171,7 +166,6 @@ Motion to approve interviews with three applicants for appointment to the LMHC B
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by M. van Holst
 
@@ -205,7 +199,6 @@ The Strategic Priorities and Policy Committee convened in Committee, In Closed S
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The Meeting adjourned at 8:07 PM.
 

@@ -15,9 +15,7 @@ January 30, 2012, at  4:05 PM
 > [!abstract]- Also Present:
 > J. Braam, J.P. Barber, G. Barrett, J.M. Fleming, S. Galloway, G.T.Hopcroft, H. McNeely, C. Saunders
 
-# 1.&nbsp;&nbsp;&nbsp;No pecuniary interests are disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Official Plan
   Review - Terms of Reference
 
 Recommendation:  That, on the
@@ -176,7 +174,6 @@ Mike White, Lambeth resident – enquiring
        while there is talk about the community and flexibility, the City is not
        really meeting the needs of the community.
 
-# 3.&nbsp;&nbsp;&nbsp;Official Plan
   Review
 
 Recommendation: That the following communications

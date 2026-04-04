@@ -15,7 +15,6 @@ January 13, 2015
 The Council meets in Regular Session in the
   Council Chambers this day at 5:30 p.m.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 Councillor J. Zaifman discloses a pecuniary
@@ -23,16 +22,12 @@ Councillor J. Zaifman discloses a pecuniary
   at 530 Sunningdale Road East, by indicating that his family has an interest
   in the property.
 
-# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
-# V.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
-# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE THIRD MEETING HELD ON DECEMBER 18, 2014
 
 > Moved by Councillor M. van Holst
@@ -69,13 +64,10 @@ Motion Passed
 
 ****
 
-# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
-# VIII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# IX.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor P. Hubert
 
@@ -83,7 +75,6 @@ Approve clauses 1 to 8, inclusive.
 
 ****
 
-# 1.&nbsp;&nbsp;&nbsp;Councillor M. Salih
   and Councillor T. Park - Emergent Motion - Consideration of Change in Date of
   Adoption of the Water and Wastewater Treatment Budgets to January 27, 2015
 
@@ -163,7 +154,6 @@ Motion Passed
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;1st Report of the
   Cycling Advisory Committee
 
 That the 1st Report of the Cycling Advisory
@@ -172,7 +162,6 @@ That the 1st Report of the Cycling Advisory
   Pol, Chair, CAC with respect to Item #11 – Richmond Street North Pedestrian
   Crossing.
 
-# 3.&nbsp;&nbsp;&nbsp;2015 Burbrook Trunk
   Storm Sewer Project Initiation
 
 That, on the recommendation of the Managing
@@ -237,7 +226,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;SS12-27 Single
   Source Contract of the Supply and Delivery of Chemical Lime
 
 That, on the recommendation of the Managing
@@ -270,7 +258,6 @@ e)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations.  (2014-F17)
 
-# 5.&nbsp;&nbsp;&nbsp;London Cycling
   Master Plan - Appointment of Consulting Engineer
 
 That, on the recommendation of the Managing
@@ -304,7 +291,6 @@ it being noted that the Civic Works
   Committee received a verbal presentation from E. Soldo, Director of Roads and
   Transportation, with respect to this matter.  (2014-A05)
 
-# 6.&nbsp;&nbsp;&nbsp;Western Road and
   Sarnia Road / Philip Aziz Avenue Environmental Assessment - Appointment of
   Consulting Engineer
 
@@ -336,7 +322,6 @@ e)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations.  (2014-A05)
 
-# 7.&nbsp;&nbsp;&nbsp;Accessible
   Pedestrian Signals Single Source
 
 That, on the recommendation of the Managing
@@ -365,7 +350,6 @@ d)         the
   formal contract or having a purchase order relating to the subject matter of
   this approval.  (2014-F17)
 
-# 8.&nbsp;&nbsp;&nbsp;Parking Application
   Renewal
 
 That, on the recommendation of the Managing
@@ -396,7 +380,6 @@ it being noted that the Civic Works
   Committee received a verbal update from A. Drost, Manager, Municipal Law
   Enforcement Services, with respect to this matter.  (2014-F18)
 
-# 9.&nbsp;&nbsp;&nbsp;General Orientation
   - Key Committee Matters - Planning
 
 That, the attached orientation from the
@@ -434,22 +417,17 @@ Approve
 
 ****
 
-# IV.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
 Councillor M. van Holst enquires about impending
   legislative changes regarding school closures, and the City’s submission to
   the Province.  The Director, Intergovernmental and Community Liaison advises
   that a report is forthcoming with respect to this matter.
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -648,7 +626,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

@@ -20,11 +20,9 @@ July 17, 2023, at  4:00 PM
 
 The meeting is called to order at 4:03 PM; it being noted that Councillor S. Hillier was in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by A. Hopkins
 
@@ -147,7 +145,6 @@ That the Building Division monthly report for the month of April, 2023 BE RECEIV
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Request to Remove the Properties at 2 & 3 Kennon Place from the Register of Cultural Heritage Resources
 
@@ -1131,7 +1128,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Comprehensive Review of The London Plan Update (O-9595)
 
@@ -1374,7 +1370,6 @@ b)  that the heritage alteration application to install asphalt shingles or an 
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) 8th Report of the Community Advisory on Planning
 
@@ -1407,7 +1402,6 @@ b)  clauses 1.1, 3.1 to 3.3, inclusive, 4.1, 5.1 to 5.4, inclusive, and 6.1 BE 
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 9:28 PM.
 ---

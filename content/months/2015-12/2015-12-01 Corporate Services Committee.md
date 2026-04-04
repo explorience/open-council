@@ -12,7 +12,6 @@ December 1, 2015, at 12:05 PM
 > [!abstract]- Also Present:
 > M. van Holst, M. Salih; A. Zuidema, A.L. Barbon, D. Bordin, J. Braam, L. Burgess, S. Datars Bere, K. Dawtrey, A. Dunbar, J. Edmunds, M. Hayward, L. Livingstone, J. Logan, V. McAlea Major, M. McErlain, D. O’Brien, L. Palarchio, J. Senese, E. Soldo, S. Spring, S. Swance, A. Vandervoort, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that Councillor J. Zaifman
@@ -21,14 +20,12 @@ That it BE NOTED that Councillor J. Zaifman
   is on the Board of the organization that has applied for a City of London Day
   at the Budweiser Gardens.
 
-# 2.&nbsp;&nbsp;&nbsp;Election of
   Vice-Chair for the term ending November 30, 2016
 
 That Councillor J. Morgan BE ELECTED Vice
   Chair of the Corporate Services Committee for the term ending November 30,
   2016.
 
-# 3.&nbsp;&nbsp;&nbsp;Corporate Asset
   Management Plan 2015 Review
 
 That, on the recommendation of the Managing
@@ -112,7 +109,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;2015 Operating
   Budget Status - Third Quarter Report
 
 Motion
@@ -156,7 +152,6 @@ iii)         authorized
   debt financing of $6,032,887.41 BE RELEASED, resulting in a reduction of
   authorized debt.
 
-# 8.&nbsp;&nbsp;&nbsp;Tax Adjustment
   Agenda
 
 That the recommendations contained in the
@@ -206,7 +201,6 @@ Motion
 Motion
   to approve the Tax Adjustment Agenda, as revised by Added Agenda Item #8 a).
 
-# 9.&nbsp;&nbsp;&nbsp;Required
   Expenditure - Elevator Replacement – Covent Garden Market
 
 That Covent Garden Market BE AUTHORIZED to
@@ -214,7 +208,6 @@ That Covent Garden Market BE AUTHORIZED to
   elevator in the Covent Garden Market in January 2016, notwithstanding that
   approval of the Capital Budget will not occur until a later date.
 
-# 10.&nbsp;&nbsp;&nbsp;ADDED - Syrian
   Refugee Resettlement
 
 That the following actions be

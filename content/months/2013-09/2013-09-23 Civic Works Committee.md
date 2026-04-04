@@ -15,7 +15,6 @@ September 23, 2013, at  4:02 PM
 > [!abstract]- Also Present:
 > J. L. Baechler; J. Braam, A. Dunbar, M. Feldberg, G. T. Hopcroft, B. Krichker, J. Lucas, D. MacRae, M. Ribera, L. Rowe, E. Soldo, J. Stanford
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Recommendation:  That it BE NOTED that Councillor
   S. White disclosed a pecuniary interest in clause 3 of Item 4 pertaining to
@@ -23,7 +22,6 @@ Recommendation:  That it BE NOTED that Councillor
   located at 1030 Coronation Drive, as her primary residence is in proximity to
   the subject property.
 
-# 2.&nbsp;&nbsp;&nbsp;Leak Detection
   Through District Metered Areas EW3772-13
 
 Recommendation:  That, on the
@@ -52,7 +50,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Contract Award:
   Elgin Middlesex Pumping Station Upgrades (Tender No. T13-73)
 
 Recommendation:  That, on the
@@ -126,7 +123,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;6th Report of the
   Transportation Advisory Committee
 
 Recommendation:  That the following actions
@@ -167,7 +163,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Southwest Economic
   Alliance Regional Transportation Advocacy Initiative
 
 Recommendation:  That the following

@@ -17,11 +17,9 @@ September 17, 2024, at  1:00 PM
 
 The meeting is called to order at 1:00 PM; it being noted that Councillors P. Van Meerbergen, S. Franke and S. Hillier were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by P. Cuddy
 
@@ -297,11 +295,9 @@ That the motion related to the Municipal Accommodation Tax (MAT) BE REFERRED to 
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.3&nbsp;&nbsp;&nbsp;12th Report of the Governance Working Group
 
@@ -469,7 +465,6 @@ That the delegation request from A. McGuigan BE APPROVED to be heard at this tim
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) Support for a Grant Application for the Growing Canada's Community Canopies - Councillors S. Franke and C. Rahman
 
@@ -504,7 +499,6 @@ That the grant application for the Growing Canada's Community Canopies to assist
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by C. Rahman
 
@@ -540,7 +534,6 @@ The Strategic Priorities and Policy Committee Convenes In Closed Session from 4:
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by D. Ferreira
 

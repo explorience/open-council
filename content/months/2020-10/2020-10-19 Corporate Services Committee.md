@@ -21,11 +21,9 @@ October 19, 2020, at 12:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by J. Helmer
 
@@ -110,11 +108,9 @@ d)      the by-law as appended to the staff report dated October 19, 2020 as 
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 > Moved by M. van Holst
 
@@ -162,13 +158,11 @@ That based on the application dated September 30, 2020, from the Canadian Centre
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Federation of Canadian Municipalities (FCM) - Update
 
 That it BE NOTED that Councillor J. Morgan provided a verbal update to the Corporate Services Committee with respect to the FCM Board of Directors/Committee opportunities.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by E. Holder
 
@@ -198,7 +192,6 @@ The Corporate Services Committee convenes, In Closed Session, from 12:25 PM to 1
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 12:39 PM.
 

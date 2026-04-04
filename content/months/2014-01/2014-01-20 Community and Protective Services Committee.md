@@ -15,20 +15,17 @@ January 20, 2014, at  7:02 PM
 > [!abstract]- Also Present:
 > J. Browne, S. Datars Bere, S. Giustizia, G.T. Hopcroft, L. Livingstone, R. Richardson, E. White
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;2nd Report of the
   Animal Welfare Advisory Committee
 
 Recommendation:  That the 2nd Report of the
   Animal Welfare Advisory Committee, from its meeting held on January 9, 2014,
   BE RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;Labour Market
   Agreements and the Canada Job Grant
 
 Recommendation:  That, on the
@@ -56,7 +53,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Service Manager Consortium Agreement –
   Housing Collaborative Initiative
 
 Recommendation:  That, on the
@@ -102,7 +98,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;London Housing
   Registry - Update
 
 Recommendation:  That the attached
@@ -125,7 +120,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Contract Award RFP
   13-48 London CAReS
 
 Recommendation:  That, on the

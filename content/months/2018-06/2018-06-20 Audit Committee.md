@@ -14,15 +14,12 @@ June 20, 2018, at 12:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;London and Middlesex Housing Corporation
 
@@ -42,7 +39,6 @@ That it BE NOTED that the Audit Committee received the attached presentation fro
 
 [2018-06-20 Submission - LMHC - PWC Internal Audi of LMHC](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=47141>)
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;2017 Financial Audit
 
@@ -122,7 +118,6 @@ That the Observation Summary from Deloitte, as of June 1, 2018, BE RECEIVED.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;ADDED - Parking Revenue Generation Assessment
 
@@ -134,7 +129,6 @@ That the Internal Audit Report with respect to the Parking Revenue Generation As
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 ## 6.1&nbsp;&nbsp;&nbsp;ADDED - Personal Matters/Identifiable Individual/Solicitor-Client Privileged Advice/Litigation/Potential Litigation
 
@@ -146,7 +140,6 @@ The Audit Committee convened in closed session from 2:32 PM to 2:54 PM with resp
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 2:55 PM.
 

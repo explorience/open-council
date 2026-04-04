@@ -12,13 +12,11 @@ July 18, 2017, at  4:00 PM
 > [!abstract]- Also Present:
 > J. Helmer, V. Ridley, M. van Holst; D. Baxter, J. Bruin, B. Card, B. Coxhead, S. Datars Bere, C. DeForest, K. Dickins, T. Fowler, S. Glover, Staff Sergeant B. Harvey, O. Katolyk, J. Kobarda, L. Livingstone, M. Marcellin, L. Marshall, D. O’Brien, M. Ribera, N. Santos, C. Smith T. Wellhauser, B. Westlake-Power, G. Zhang
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Delegation of the Rental Housing Component of the Provincial Service Manager
   Administration Agreements for the Development of Affordable Housing  to the
   Housing Development Corporation, London (HDC)
@@ -70,7 +68,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT - 2016
   Participant Profile Report - City of London Social Services / Ontario Works
   Program Delivery
 
@@ -96,7 +93,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Child Care Information Update and London-Middlesex Child Care and Early Years
   Service Plan
 
@@ -122,7 +118,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Closed Adult Live Entertainment Parlour - 2190 Dundas Street East
 
 That, on the recommendation of the Managing
@@ -196,7 +191,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Property Standards Related Demolitions
 
 That, on the recommendation of the Managing
@@ -224,7 +218,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Strategic Plan Progress Variance
 
 That, on the recommendation of the City
@@ -253,7 +246,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Architect to Act as Prime Consultant for the Byron Pool and Bathhouse Life
   Cycle Renewal Project -  Request for Proposal No. F-RFP17-04, Project No.
   P029-RC22017
@@ -307,7 +299,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Single Source Contractor Selection - Continuation of Garden Terrace and
   Splash Pad at Queen's Park - Canada 150 Funding
 
@@ -357,7 +348,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Council Policy for
   Publicly Releasing Fire Conviction Information
 
 That it BE NOTED that the report dated July
@@ -432,7 +422,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Business Licensing
   By-law Review - Lodging Houses, Second Hand Stores, Salvage Yards
 
 That, on the recommendation of the Managing
@@ -510,7 +499,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;COUNCILLOR SUBMISSION
   - V. Ridley - Pet Boarding and /or Pet Sitting Services
 
 That the Civic Administration BE DIRECTED
@@ -535,7 +523,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;PUBLIC SUBMISSION -
   REQUEST FOR DELEGATION STATUS - J. Henkel - Berkshire Court Naturalized Area
 
 That the request of J. Henkel, with respect
@@ -559,7 +546,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Ontario Power
   Generation's Proposed Nuclear Waste Repository
 
 That it BE NOTED that the communication
@@ -584,7 +570,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;6th Report of the
   London Housing Advisory Committee
 
 That the following actions be taken with
@@ -665,7 +650,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;7th Report of the
   Diversity,  Inclusion and Anti-Oppression Advisory Committee
 
 That the following actions be taken with
@@ -703,7 +687,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;4th Report of the
   Community Safety and Crime Prevention Advisory Committee
 
 That the following actions be taken with
@@ -740,7 +723,6 @@ Motion
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;6th Report of
   Accessibility Advisory Committee
 
 That the following actions be taken with
@@ -772,7 +754,6 @@ Motion
 
 ****
 
-# 19.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the July 2017 Deferred Matters List

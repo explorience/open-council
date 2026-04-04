@@ -14,11 +14,9 @@ July 23, 2018, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by T. Park
 
@@ -98,11 +96,9 @@ That, on the recommendation of the City Manager, with the concurrence of the Man
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Review of Council Established Task Forces, Working Groups and Special Committees
 
@@ -409,11 +405,9 @@ That Councillor H.L. Usher BE APPOINTED Acting Mayor for the period commencing 9
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by M. van Holst
 
@@ -453,7 +447,6 @@ The Strategic Priorities and Policy Committee convened in closed session from 4:
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 6:24 PM.
 

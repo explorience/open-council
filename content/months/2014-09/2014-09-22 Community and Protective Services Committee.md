@@ -15,13 +15,11 @@ September 22, 2014, at  7:02 PM
 > [!abstract]- Also Present:
 > C. Colvin, S. Datars Bere, S. Giustizia, O. Katolyk, S. Spring, L. Stevens
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;10th Report of the
   Animal Welfare Advisory Committee
 
 Recommendation:  That the following actions
@@ -54,7 +52,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Single Source
   Supply and Delivery of Motorized Riding Golf Carts
 
 Recommendation:  That consideration of the report
@@ -79,7 +76,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Investment in
   Affordable Housing for Ontario (2014 Extension) - Approval of Administration
   Agreement
 
@@ -113,7 +109,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;8th Report of the
   London Housing Advisory Committee
 
 Recommendation:  That, on the
@@ -145,7 +140,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Review of Noise
   Exemption Permits
 
 Recommendation:  That the communication
@@ -169,7 +163,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;By-law Amendments
   for Expanded Animal Welfare Initiatives
 
 Recommendation:  That the following

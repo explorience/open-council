@@ -12,10 +12,8 @@ June 2, 2015, at 12:06 PM
 > [!abstract]- Also Present:
 > M. van Holst; A. Zuidema, A.L. Barbon, G. Belch, J. Braam, L. Da Silva, D. Dobson, J.M. Fleming, K. Graham, M. Hayward, M. Henderson, J. Lucas, D. Mounteer, A. Ostrowski, D. Popadic, A. Ripepi, J. Senese, R. Sutton, B. Warner
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
-# 2.&nbsp;&nbsp;&nbsp;2014 Investment
   Report
 
 That, on the recommendation of the Managing
@@ -66,7 +64,6 @@ That the Principles of Collaboration from
   for report back at a future meeting, subsequent to consultation with the Ward
   Councilor.
 
-# 5.&nbsp;&nbsp;&nbsp;Standing Committee
   Membership - Federation of Canadian Municipalities - Councillor M. Cassidy
 
 That, subject to the approval of Councillor
@@ -152,7 +149,6 @@ Motion Passed
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;London Convention
   Centre Naming Rights Policy
 
 That  the communication dated May 15, 2015

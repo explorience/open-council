@@ -12,10 +12,8 @@ January 18, 2016, at  4:00 PM
 > [!abstract]- Also Present:
 > M. Cassidy, A. Hopkins, H.L. Usher; E. Conway, M. Elmadhoon, J.M. Fleming, S. Galloway, T. Grawey, N. Hall, G. Kotsifas, J. MacKay, A. MacLean, A. Macpherson, S. Mathers, C. Parker, J. Ramsay, M. Ribera, A. Riley, C. Saunders, M. Tomazincic, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;That
   it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Advisory Committee
   on the Environment
 
 That the following actions be taken with
@@ -48,7 +46,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Property located at
   161 Windermere Road (39CD-14501/SP15-009524)
 
 That, on the recommendation of the Senior
@@ -77,7 +74,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Boler Mountain
   Lands and 2426 Wickerson Road - Proposed Conveyance and Access Easements
 
 That, on the recommendation of the Manager,
@@ -121,7 +117,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Candidate Approval
   for the Urban Design Peer Review Panel
 
 That, on the recommendation of the Managing
@@ -154,7 +149,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Property located at
   3493 Colonel Talbot Road (39T-14504/OZ-8417)
 
 That on the recommendation of the Senior Planner,
@@ -372,7 +366,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Properties located
   at 175-183 King Street (Z-8523)
 
 That, on the recommendation of the Managing
@@ -480,7 +473,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;1st Report of the
   Environmental and Ecological Planning Advisory Committee
 
 That the following actions be taken with
@@ -594,7 +586,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;1st Report of the
   Agricultural Advisory Committee
 
 That the following actions be taken with
@@ -635,7 +626,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Environmental Impact Statements
 
 That the Civic Administration BE DIRECTED
   to review and report back to a future meeting of the Planning and Environment

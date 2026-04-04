@@ -12,13 +12,11 @@ October 23, 2017, at  4:01 PM
 > [!abstract]- Also Present:
 > M. Brown;  J. Morgan, M. van Holst; I. Abushehada, M. Corby, B. Debbert, L. Dent, M. Elmadhoon, J.M. Fleming, S. Galloway, P. Kokkoros, G. Kotsifas, J. MacKay, A. Macpherson, M. Marcellin, M. Pease, L. Pompilii, A. Rammeloo, M. Ribera, A. Riley, C. Saunders, M. Tomazincic, J. Yanchula, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;9th Report of the
   Advisory Committee on the Environment
 
 That, the following actions be taken with
@@ -70,7 +68,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;12th Report of the
   London Advisory Committee on Heritage
 
 That, the following actions be taken with
@@ -166,7 +163,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Revised Land
   Acquisition Terms - North Lambeth P9 Stormwater Management Facility
   (39T-12503)
 
@@ -212,7 +208,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Property located at
   379 Sunningdale Road East - Appeals to the Ontario Municipal Board
   (39T-16504/OZ-8639)
 
@@ -343,7 +338,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Property located at
   420 Fanshawe Park Road East - Notice of Appeal to the Ontario Municipal Board
 
 That, on the recommendation of the Managing
@@ -372,7 +366,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Property located at
   1635 Brayford Avenue (H-8832)
 
 That, on the recommendation of the Senior
@@ -415,7 +408,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Property located at
   a portion of 2350 Dundas Street (H-8823)
 
 That, on the recommendation of the Senior
@@ -447,7 +439,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Building Division Monthly Report for August 2017
 
 That the Building Division Monthly Report
@@ -471,7 +462,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Property located at 4100 Glanworth Drive - Request
   for Demolition
 
@@ -556,7 +546,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;PUBLIC PARTICIPATION
   MEETING - Properties located at 200 Albert Street, 192 to 196 Central Avenue
   and 193 to 197 Central Avenue (TZ-8802)
 
@@ -676,7 +665,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING – Properties located at 661 and 667 Talbot Street
   (Z-8659)
 

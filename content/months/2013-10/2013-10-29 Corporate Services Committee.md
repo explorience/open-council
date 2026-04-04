@@ -15,13 +15,11 @@ October 29, 2013, at  1:01 PM
 > [!abstract]- Also Present:
 > J.L. Baechler, P. Hubert; A. Zuidema, J.P. Barber, G. Barrett, G. Belch, J. Braam, L. DaSilva, J.M. Fleming, M. Hayward, J. Logan, V. McAlea Major, D. Mounteer, D. Popadic, A. Ripepi, C. Saunders, J. Senese, R. Sharpe, S. Swance, B. Warner
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That
   it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Managing Director,
   Corporate Services and City Treasurer, Chief Financial Officer - Single
   Source Debt Management System
 
@@ -82,7 +80,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Managing Director,
   Corporate Services and City Treasurer, Chief Financial Officer -
   Pre-Authorized Tax Payment Plan By-law and Collection of Property Taxes
   By-law
@@ -124,7 +121,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Managing Director,
   Corporate Services and Chief Human Resources Officer - Employee Absenteeism -
   2013 Mid-Year Review Update
 
@@ -148,7 +144,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;R. T. Usher,
   General Manager, Covent Garden Market - Expenditure Above Market Threshold – Final Phase LED
   Lighting System
 
@@ -172,7 +167,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Appointment to the
   Childcare Advisory Committee
 
 Recommendation:  That Shari Carter BE
@@ -194,7 +188,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Appointments to the
   Environmental and Ecological Planning Advisory Committee
 
 Motion
@@ -212,7 +205,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Appointment to the
   Town and Gown Committee
 
 That  Chris Thompson BE APPOINTED to the
@@ -234,7 +226,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;ADDED - Managing
   Director, Corporate Services and City Treasurer, Chief Financial Officer -
   City of London's Credit Rating
 
@@ -258,7 +249,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;ADDED – Request for Expense Authorization –
   Councillor J.L. Baechler
 
 Recommendation:  That the following actions

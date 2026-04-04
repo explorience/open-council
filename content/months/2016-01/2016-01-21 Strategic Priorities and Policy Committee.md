@@ -15,7 +15,6 @@ January 21, 2016, at  7:08 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, V. McAlea Major
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That

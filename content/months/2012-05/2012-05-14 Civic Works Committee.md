@@ -12,17 +12,14 @@ May 14, 2012, at  4:00 PM
 > [!abstract]- Also Present:
 > B. Armstrong, M. Brown, D. Henderson, J. Braam, W. Abbott, G. Barrett, G.P. Belch, T. Copeland, A. Dunbar, R. Gasparetto, G. Gauld, B. Krichker, E. Lalande, J. Lucas, P. Lupton, S. Maguire, C. Resendes, J. Simon, J. Skimming, J. Stanford, R. Welker
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;6th Report of the
   Transportation Advisory Committee
 
 Recommendation: 
   That the 6th Report of the Transportation Advisory Committee from its meeting
   held on May 1, 2012, BE RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;Dundas Street
   Improvements - Formulating an Implementation Plan
 
 Recommendation:  That the following actions
@@ -42,7 +39,6 @@ b)         a
   for stakeholder consultation, design and construction; it being further noted
   that funding will be from other previously approved projects.
 
-# 4.&nbsp;&nbsp;&nbsp;Amendments
   to the Traffic and Parking By-law
 
 Recommendation:  That, on the
@@ -52,7 +48,6 @@ Recommendation:  That, on the
   held on May 22, 2012, for the purpose of amending the Traffic and Parking
   By-law (P.S. 111).
 
-# 5.&nbsp;&nbsp;&nbsp;2012
   Infrastructure Lifecycle Renewal Program, Contract #2B - Stanley Street
   Reconstruction (Tender 12-17)
 
@@ -99,7 +94,6 @@ f)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or
   other documents, if required, to give effect to these recommendations.
 
-# 6.&nbsp;&nbsp;&nbsp;2012
   Infrastructure Lifecycle Renewal Program, Contract #8 - Dufferin and Prospect
   Avenues Reconstruction (Tender 12-22)
 
@@ -147,7 +141,6 @@ f)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or
   other documents, if required, to give effect to these recommendations.
 
-# 7.&nbsp;&nbsp;&nbsp;2012
   Infrastructure Lifecycle Renewal Program, Contract #7 - Maitland Street from
   Dundas Street to York Street Reconstruction (Tender 12-27)
 
@@ -194,7 +187,6 @@ f)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or
   other documents, if required, to give effect to these recommendations.
 
-# 8.&nbsp;&nbsp;&nbsp;Greenway
   Pollution Control Centre Dewatering (Project ES2095) (Tender 12-46)
 
 Recommendation:  That, notwithstanding the
@@ -207,7 +199,6 @@ Recommendation:  That, notwithstanding the
   Upgrades and Biogas Generation Comparison would be a separate report at a
   future meeting of the CWC.
 
-# 9.&nbsp;&nbsp;&nbsp;Mill and
   Overlay of Various Streets (Tender 12-66)
 
 Recommendation:  That, on the
@@ -244,7 +235,6 @@ e)           
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or
   other documents, if required, to give effect to these recommendations.
 
-# 10.&nbsp;&nbsp;&nbsp;Sole
   Source Purchase of Motor Control Centre at Greenway Pollution Control Centre
 
 Recommendation:  That, on the
@@ -278,7 +268,6 @@ e)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or
   other documents, if required, to give effect to these recommendations.
 
-# 11.&nbsp;&nbsp;&nbsp;Consultant
   Appointment - Greenway Wastewater Treatment Plant Expansion (Project ES2685)
 
 Recommendation:  That consideration of the
@@ -291,7 +280,6 @@ Recommendation:  That consideration of the
   opportunity to meet with the unsuccessful proponent to clarify the differing
   issues with respect to their submission.
 
-# 12.&nbsp;&nbsp;&nbsp;Consultant
   Appointment - Pollution Prevention and Control Plan (Project ES5419)
 
 Recommendation:  That, on the
@@ -329,7 +317,6 @@ e)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or
   other documents, if required, to give effect to these recommendations.
 
-# 13.&nbsp;&nbsp;&nbsp;Communication
   for Maintenance Work
 
 Recommendation:  That the report dated May
@@ -338,7 +325,6 @@ Recommendation:  That the report dated May
   duration of plans and timelines for maintenance work to affected
   neighborhoods and residents BE RECEIVED for information.
 
-# 14.&nbsp;&nbsp;&nbsp;Renewable
   Energy Production from the Greenway Fluidized Bed Incinerator
 
 Recommendation:  That the report dated May
@@ -347,7 +333,6 @@ Recommendation:  That the report dated May
   production from the Greenway Fluidized Bed Incinerator BE RECEIVED for
   information.
 
-# 15.&nbsp;&nbsp;&nbsp;White
   Oak Road Watermain Repair Emergency Work
 
 Recommendation:  That the report dated May
@@ -355,7 +340,6 @@ Recommendation:  That the report dated May
   Engineering Services and City Engineer, with respect to the emergency
   watermain repair on White Oak Road BE RECEIVED for information.
 
-# 16.&nbsp;&nbsp;&nbsp;Municipal Hazardous
   and Special Waste Service (Quotation 12-24)
 
 Recommendation:  That, on the
@@ -378,7 +362,6 @@ c)         the
   Civic Administration BE AUTHORIZED to undertake all the administrative
   acts that are necessary in connection with this purchase.
 
-# 17.&nbsp;&nbsp;&nbsp;London
   Transit Customer Service and 2012 Service Plan Priority Reports
 
 Recommendation: 
@@ -389,7 +372,6 @@ Recommendation: 
   heard a verbal delegation from Councillor H. Usher, and the attached
   presentation from Mr. L. Ducharme, with respect to this matter.
 
-# 18.&nbsp;&nbsp;&nbsp;Blackacres
   Boulevard and Yew Tree Gardens Traffic Concerns
 
 Recommendation:  That the following actions
@@ -454,7 +436,6 @@ S. and S. Craig, 281 Blackacres
 L. and B. and B. Hawke, dated May 8,
        2012.
 
-# 19.&nbsp;&nbsp;&nbsp;Environmental
   Programs Update
 
 Recommendation:  That the report dated May
@@ -462,7 +443,6 @@ Recommendation:  That the report dated May
   Programs and Solid Waste, with respect to an update on environmental programs
   BE RECEIVED, for information.
 
-# 20.&nbsp;&nbsp;&nbsp;Winship Close and
   Methane Gas
 
 Recommendation: 
@@ -481,7 +461,6 @@ it being further noted
 this
   matter.
 
-# 21.&nbsp;&nbsp;&nbsp;Shared Services
   Utility Model Review - May 2012 Status Update
 
 Recommendation:  That, on the
@@ -504,7 +483,6 @@ c)         the
   sources, as needed; it being noted that a report on the completion of Phase 1
   is anticipated by August 2012.
 
-# 22.&nbsp;&nbsp;&nbsp;Amendment of
   Contract for Engineering Fees - Southeast Pumping Station and Reservoir
   (Project EW3614)
 
@@ -542,7 +520,6 @@ it being noted that the Corporation
   previously entered into a formal contract with AECOM Canada Ltd. and this
   work is an extension of that contract.
 
-# 23.&nbsp;&nbsp;&nbsp;Request for
   Delegation Status
 
 Recommendation: 
@@ -550,7 +527,6 @@ Recommendation: 
   from M. Dankiewicz, 51 Shepherd Avenue, relating to drainage concerns on her
   property.
 
-# 24.&nbsp;&nbsp;&nbsp;Sidewalk Cafes
   Pilot Program
 
 Recommendation:  That, on the

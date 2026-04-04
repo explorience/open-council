@@ -15,7 +15,6 @@ July 29, 2013, at  4:06 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, J. Braam, P. Christiaans, J.M. Fleming, M. Hayward, G. Kotsifas, S. Mathers, J. Page, M. Ribera, C. Saunders, G. Scandlan (Consultant), E. Soldo, L. Townsend (Consultant), P. Yeoman
 
-# 2.&nbsp;&nbsp;&nbsp;Managing Director,
   Corporate Services and City Treasurer, Chief Financial Officer - Development
   Charges Policy Review - Major Policies Covering Report
 
@@ -120,7 +119,6 @@ it being
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;City Clerk - 1st
   Report of the 2013 Council Compensation Review Task Force
 
 Recommendation:  That the 1st Report of the
@@ -145,7 +143,6 @@ Recommendation:  That the 1st Report of the
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Special Strategic Priorities and Policy
   Committee Meeting – Council Member Training and Education Session
 
 Recommendation:  That a Special Meeting of

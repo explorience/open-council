@@ -12,7 +12,6 @@ May 8, 2017, at  4:00 PM
 > [!abstract]- Also Present:
 > J. Morgan, H.L. Usher, M. van Holst; J. Adema, M. Campbell, M. Corby, J.M. Fleming, K. Gonyou, T. Grawey, P. Kokkoros, G. Kotsifas, J. MacKay, J. Logan, A. MacLean, D. MacRae, S. Mathers, D. O’Brien, B. O’Hagan, N. Pasato, M. Ribera, C. Saunders, J. Stanford, M. Tomazincic, B. Turcotte, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that Councillor S. Turner
@@ -22,7 +21,6 @@ That it BE NOTED that Councillor S. Turner
   industrial sources (focus on odour) and potential municipal actions, by
   indicating that his employer has a regulatory role in this matter.
 
-# 2.&nbsp;&nbsp;&nbsp;4th Report of the
   Environmental and Ecological Planning Advisory Committee
 
 That the following actions be taken with
@@ -74,7 +72,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT - Properties
   located in Talbot Village Subdivision (Phase 5) (39T-14506)
 
 That, on the recommendation of the Senior
@@ -129,7 +126,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT - Properties
   located at 2244, 2252 and 2258 Wateroak Drive (H-8337)
 
 That, on the recommendation of the Manager,
@@ -159,7 +155,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;STAFF REPORT - Property
   located at 200 Villagewalk Boulevard (H-8439)
 
 That, on the recommendation of the Manager
@@ -192,7 +187,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;STAFF REPORT - Properties
   located at 3924-4138 Colonel Talbot Road (39T-12503)
 
 That, on the recommendation of the Manager,
@@ -237,7 +231,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;STAFF REPORT -  Property
   located at 3493 Colonel Talbot Road (39T-14504)
 
 That, on the recommendation of the Manager,
@@ -282,7 +275,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;STAFF REPORT - Properties
   located at 185 and 199 Commissioners Road West
 
 That, on the recommendation of the Senior
@@ -314,7 +306,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Designation of an Improvement Area Under Section 204 of the Municipal Act
   2001 - Hyde Park BIA
 
@@ -351,7 +342,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;DELEGATION - 5th
   Report of London Advisory Committee on Heritage
 
 That the following actions be taken with
@@ -442,7 +432,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Property located at 855 Trafalgar Street (OZ-8662)
 
 That, the following actions be taken with
@@ -549,7 +538,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Property located at 1992 Fanshawe Park Road West
   (TZ-8734)
 
@@ -651,7 +639,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Property located at 515 Richmond Street (Z-8704)
 
 That, on the recommendation of the Managing
@@ -858,7 +845,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Properties located at 560 and 562 Wellington Street
   (OZ-8462)
 
@@ -969,7 +955,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;5th Report of the
   Trees and Forests Advisory Committee
 
 That the following actions be taken with
@@ -1013,7 +998,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;(ADDED) PUBLIC
   SUBMISSION - Request for Rescheduling of June 15 Public Participation Meeting
 
 That, the following actions be taken with

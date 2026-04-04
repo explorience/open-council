@@ -17,19 +17,15 @@ January 23, 2023, at  4:00 PM
 
 The meeting is called to order at 4:03 PM, it being noted that Councillors P. Van Meerbergen, D. Ferreira and S. Hillier were in remote attendance; it being further noted that Councillor S. Franke was in remote attendance after 8:00 PM.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 [2023-01-23  Developing the 2023-2027 Strategic Plan final](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=97019>)
 
@@ -213,11 +209,9 @@ e)  Improved traffic safety, traffic calming
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by H. McAlister
 

@@ -12,13 +12,11 @@ February 15, 2017, at  4:01 PM
 > [!abstract]- Also Present:
 > J. Helmer; A.L. Barbon, G. Bridge, K. denBok (KPMG), A. Hagan, M. Hayward, I. Jeffries (KPMG), D. McLean (PwC), M. Redden (KPMG), M. Ribera, K. Scherr, C. Shah (PwC), J. Stanford, S. Swance
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;PUBLIC SUBMISSION -
   Quarterly Report on Internal Audit Results
 
 That the following actions be taken with
@@ -38,7 +36,6 @@ c)         the
   By-law Enforcement & Licensing, Facilities Design & Construction,
   Development & Compliance Services and Corporate Services) BE RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;PUBLIC SUBMISSION -
   Audit Planning Report for the Year Ending December 31, 2016
 
 That the KPMG LLP Audit Planning Report,

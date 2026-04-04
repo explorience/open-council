@@ -20,11 +20,9 @@ June 12, 2023, at 12:00 PM
 
 The meeting is called to order at 12:00 PM; it being noted that Mayor J. Morgan was in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;2023-2027 Strategic Advocacy Framework
 
@@ -121,11 +119,9 @@ b)    the declaring surplus the property located at 652 Elizabeth Street and p
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 > Moved by S. Trosow
 
@@ -188,7 +184,6 @@ That based on the application dated June 5, 2023 from Pride London Festival, Jul
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Councillor Expense Approval Request
 
@@ -210,7 +205,6 @@ That, notwithstanding current interpretations of the Council Members’ Expense 
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by D. Ferreira
 
@@ -264,7 +258,6 @@ The Corporate Services Committee convenes In Closed Session from 1:15 PM to 1:29
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by D. Ferreira
 

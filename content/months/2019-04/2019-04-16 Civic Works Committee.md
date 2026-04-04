@@ -20,11 +20,9 @@ April 16, 2019, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by M. van Holst
 
@@ -404,7 +402,6 @@ That, on the recommendation of the Managing Director, Environmental and Engineer
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Public Lane Policy Review
 
@@ -436,7 +433,6 @@ it being noted that the Civic Works Committee received the attached presentatio
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Opt-in Green Bin Service Motion - Councillor M. van Holst
 
@@ -460,7 +456,6 @@ That the communication from Councillor M. van Holst, dated April 8, 2019, with r
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 ## 6.1&nbsp;&nbsp;&nbsp;Litigations/Potential Litigations/Solicitor-Client Privilege Advice/Directions and Instructions to Officers and Employees
 
@@ -484,7 +479,6 @@ The Civic Works Committee convened, In Closed Session from 5:29 PM to 5:39 PM.
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 5:40 PM.
 

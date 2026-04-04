@@ -15,13 +15,11 @@ May 26, 2014, at  4:04 PM
 > [!abstract]- Also Present:
 > J. Braam, A. Dunbar, G. Kotsifas, B. Krichker, J. Lucas, M. Ribera, L. Rowe, E. Soldo, J. Stanford
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;5th Report of the
   Transportation Advisory Committee
 
 Recommendation:  That the 5th Report of the
@@ -44,7 +42,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Fox Hollow SWM
   Facility No. 1 - Increase in Contract Value (ES3020-FH1)
 
 Recommendation:  That, on the
@@ -93,7 +90,6 @@ Motion Passed
 
 NAYS: J.L. Baechler (1)
 
-# 4.&nbsp;&nbsp;&nbsp;Parking Location
   Agreement with Community Carshare for Utilizing Municipal Parking Lot
   Locations
 
@@ -132,7 +128,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Contract Award:
   2014 Arterial Road Rehabilitation - Contract 2 (Tender No. 14-52)
 
 Recommendation:  That, on the
@@ -181,7 +176,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Single Source
   Purchase of Pre-Heater Heat Exchanger and Re-Heater Heat Exchanger at
   Greenway Wastewater Treatment Centre
 
@@ -224,7 +218,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Emergency Repair -
   Incinerator Reheater
 
 Recommendation:  That, on the
@@ -249,7 +242,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Appointment of
   Consulting Engineers - Infrastructure Lifecycle Renewal Program 2015-2016
 
 Recommendation:  That, on the
@@ -333,7 +325,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Appointment of
   Consulting Engineer for Inspection, Contract Administration and Engineering
   Services Associated with the Construction of 2014 Infrastructure Lifecycle
   Renewal Project: Contract #5 Second Street
@@ -387,7 +378,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Contract Award:
   2014 Infrastructure Lifecycle Renewal Program Contract 1: Simcoe Street and
   Henry Street Reconstruction Irregular Result (Tender No. 14-08)
 
@@ -454,7 +444,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Mud Creek
   Subwatershed
 
 Recommendation:  That, on the
@@ -521,7 +510,6 @@ it being noted that the Civic Works
   Committee reviewed and received a communication dated May 9, 2014, from Aird
   and Berlis, LLP, with respect to this matter.  (2014-E20)
 
-# 12.&nbsp;&nbsp;&nbsp;Dingman Creek No.
   B-4 SWM Facility Class Environmental Assessment Study Appointment of
   Consulting Engineer
 
@@ -584,7 +572,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Dingman Creek/North
   Lambeth No. P9 SWM Facility Class Environmental Assessment Study Appointment
   of Consulting Engineer
 
@@ -648,7 +635,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Blackfriars Bridge
   Environmental Assessment Appointment of Consulting Engineer
 
 Recommendation:  That, on the
@@ -695,7 +681,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;(ADDED) Execution
   of Contribution Amending Agreements with Each of the Government of Canada and
   the Government of Ontario for the HELP Clean Water Initiative
 

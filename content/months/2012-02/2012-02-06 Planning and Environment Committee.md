@@ -15,26 +15,22 @@ February 6, 2012, at  4:04 PM
 > [!abstract]- Also Present:
 > J. F. Fontana, D. Brown, H.L. Usher, D. Ailles, J. Braam, J. Buchanan, P. Christiaans, A. Dunbar, M. Elmadhoon, J.M. Fleming, B. Henry, P. Kokkoros, G. Kotsifas, B. Krichker, J. Leunissen, A. Macpherson, S. Mathers, L. McDougall, N. McKee, D. Menard, J. O’Neil, B. Page, C. Saunders, D. Sheppard, C. Smith, M. Tomazincic, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;That Councillor Henderson disclosed a
   pecuniary interest in clause 4 of this Report, relating to the property
   located at 550 Kingsway Avenue and 572 Wonderland Road North, by indicating
   that he has an office on Kingsway Avenue.
 
-# 2.&nbsp;&nbsp;&nbsp;2nd Report of the
   Advisory Committee on the Environment
 
 Recommendation:  That the 2nd Report of the
   Advisory Committee on the Environment, from its meeting held on January 10,
   2012, BE NOTED.
 
-# 3.&nbsp;&nbsp;&nbsp;1st Report of the
   Agricultural Advisory Committee
 
 Recommendation:  That the 1st Report of the
   Agricultural Advisory Committee, from its meeting held on January 11, 2012, BE
   NOTED.
 
-# 4.&nbsp;&nbsp;&nbsp;Properties located
   at 550 Kingsway Avenue and 572 Wonderland Road North (OZ-7946)
 
 Recommendation:  That, on the
@@ -175,7 +171,6 @@ iv)        
   the building that will house the offices, rather than allowing multiple
   buildings on the site.     (2012-D11-01)
 
-# 5.&nbsp;&nbsp;&nbsp;Property located at
   1240 Richmond Street (Z-7949)
 
 Recommendation:  That, on the
@@ -187,7 +182,6 @@ Recommendation:  That, on the
   the Municipal Council has reviewed its decision relating to this matter and
   sees no reason to alter it.  (2012-D11-01)
 
-# 6.&nbsp;&nbsp;&nbsp;BMX Bicycle Sports
   Strategy
 
 Recommendation:  That, on the
@@ -198,7 +192,6 @@ Recommendation:  That, on the
   recreational need and the issues of environmental degradation by BMX cycling.
     (2012-D14-00)
 
-# 7.&nbsp;&nbsp;&nbsp;Property located at
   312 Sunningdale Road West (H-7998)
 
 Recommendation:  That, on the
@@ -216,7 +209,6 @@ Recommendation:  That, on the
   holding provisions from the Residential R1 Zones and to remove the h., and
   h-100 holding provisions from the R5/R6 Zones.   (2012-D11-02)
 
-# 8.&nbsp;&nbsp;&nbsp;Property located at
   1647 Fanshawe Park Road East (39T-10503/Z-7785)
 
 Recommendation:  That, on the
@@ -241,7 +233,6 @@ b)       
   the Appeals to the Ontario Municipal Board in support of Council’s position
   and may retain outside expert witnesses.   (2012-D11-07)
 
-# 9.&nbsp;&nbsp;&nbsp;Properties located
   at 186-188 Huron Street and 2 Audrey Street
 
 Recommendation:  That, on the
@@ -268,14 +259,12 @@ it being noted that the Planning and
   Environment Committee reviewed and received a communication, dated February
   2, 2012, from B.R. Card, with respect to this matter.   (2012-D11-04)
 
-# 10.&nbsp;&nbsp;&nbsp;Building Division
   Monthly Report for December 2011
 
 Recommendation:  That the Building Division
   Monthly Report for December, 2011 from the Director of Building Controls BE
   RECEIVED.    (2012-D05-00)
 
-# 11.&nbsp;&nbsp;&nbsp;1st Report of the
   Trees and Forests Advisory Committee
 
 Recommendation:  The following actions be
@@ -304,7 +293,6 @@ it being noted that the Planning and
   Environment Committee heard a verbal delegation from D. Sheppard, Member,
   TFAC, with respect to these matters.
 
-# 12.&nbsp;&nbsp;&nbsp;2nd Report of the
   Environmental and Ecological Planning Advisory Committee
 
 Recommendation:  The following actions be
@@ -365,7 +353,6 @@ it being noted that the Planning and
   Environment Committee heard a verbal delegation from D. Sheppard, Chair,
   EEPAC, with respect to these matters.
 
-# 13.&nbsp;&nbsp;&nbsp;2nd Report of the
   London Advisory Committee on Heritage
 
 Recommendation:  The following actions be
@@ -432,7 +419,6 @@ it being noted that the Planning and
   February 6, 2012 and heard a verbal delegation from J. O’Neil, Acting Chair,
   LACH, with respect to these matters.
 
-# 14.&nbsp;&nbsp;&nbsp;Property located at
   190 Cambridge Street
 
 Recommendation:  That, on the
@@ -461,7 +447,6 @@ it being
   pointed out that there were no oral submissions made at the public
   participation meeting held in connection with this matter.   (2012-D25-00)
 
-# 15.&nbsp;&nbsp;&nbsp;Reclassification of
   Urban Parks (O-8002)
 
 Recommendation:  That the following
@@ -488,7 +473,6 @@ it being
   McBurney, 4 – 466 South Street – expressing support for the staff
   recommendation.   (2012-D11-09)
 
-# 16.&nbsp;&nbsp;&nbsp;1400 and 1440 North
   Wenige Drive  (Z-7986)
 
 Recommendation:  That, on the
@@ -515,7 +499,6 @@ it being pointed
   out that there were no oral submissions made at the public participation
   meeting held in connection with this matter.   (2012-D11-07)
 
-# 17.&nbsp;&nbsp;&nbsp;Property located at
   50 Essex Street
 
 Recommendation:  That, on the
@@ -544,7 +527,6 @@ it being pointed
   out that there were no oral submissions made at the public participation
   meeting held in connection with this matter.   (2012-D25-00)
 
-# 18.&nbsp;&nbsp;&nbsp;2012-2016 Growth
   Management Implementation Strategy
 
 Recommendation:  That, on the
@@ -621,7 +603,6 @@ it being also noted that the
   Masschelein, Sifton Properties Limited.
 (2012-D18-00)
 
-# 19.&nbsp;&nbsp;&nbsp;Property located at
   7 Holiday Avenue
 
 Recommendation:  That, on the
@@ -715,7 +696,6 @@ it being
   do the right thing for the residents and construct a storm sewer.
 (2012-D25-00)
 
-# 20.&nbsp;&nbsp;&nbsp;Properties located
   at 311-319 Wharncliffe Road North and 46-50 Beaufort Street (Z-7976)
 
 Recommendation:  That, on the
@@ -907,7 +887,6 @@ it being
   original staff report; and ensuring that the Planning and Environment
   Committee has the corrected report.    (2012-D11-05)
 
-# 21.&nbsp;&nbsp;&nbsp;Demolition - 86
   Cartwright Street - Kapland Construction
 
 Recommendation:  That, on the
@@ -944,7 +923,6 @@ it being
   school board was offered an opportunity to purchase the property; and
   enquiring as to how much of the back taxes the City recovered.   (2012-D10-00)
 
-# 22.&nbsp;&nbsp;&nbsp;Amendment to Zoning
   By-law Definition - Day Care Centres
 
 Recommendation:  That the Civic
@@ -954,7 +932,6 @@ Recommendation:  That the Civic
   and Environment Committee reviewed and received a communication, dated
   January 27, 2012, from Councillor D. Brown with respect to this matter.    (2012-D11-00)
 
-# 23.&nbsp;&nbsp;&nbsp;Urban Growth
   Boundary
 
 Recommendation:  That the communications,

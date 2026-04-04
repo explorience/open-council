@@ -12,17 +12,14 @@ April 16, 2012, at  4:04 PM
 > [!abstract]- Also Present:
 > J.L. Baechler, G. Kotsifas, G. Barrett, J. Buchanan, P. Christiaans, A. Dunbar, J. M. Fleming, B. Henry, P. Kokkoros, B. Krichker, J. Leunissen, I. Listar, S. Mathers, N. McKee, N. Musicco, J. Ramsay, M. Ribera, C. Saunders, R. Sharpe, C. Smith, J. Stanford, M. Tomazincic, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;No pecuniary
   interests are disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;2nd Report of the
   Agricultural Advisory Committee
 
 Recommendation:  That, the 2nd Report of
   the Agricultural Advisory Committee from its meeting held on March 21, 2012 BE
   RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;Property located at
   1878 Highbury Avenue North and 1411 Fanshawe Park Road East (H-8011)
 
 Recommendation:  That, on the
@@ -37,13 +34,11 @@ Recommendation:  That, on the
   an Associated Shopping Area Commercial Special Provision (ASA5(4)) Zone, to
   remove the holding provision.  (2012-D11-01)
 
-# 4.&nbsp;&nbsp;&nbsp;Building Division
   Monthly Report for February 2012
 
 Recommendation:  That the Building Division
   Monthly Report for February 2012 BE RECEIVED.  (2012-D05-00)
 
-# 5.&nbsp;&nbsp;&nbsp;Emerald Ash Borer – Tobin Court
 
 Recommendation:  That, the following
   actions be taken with respect to the concerns raised by the Westmount Rate
@@ -71,7 +66,6 @@ it being noted that the Planning and
   communication, dated April 16, 2012, from the Westmount Hills Residents
   Association, with respect to this matter.
 
-# 6.&nbsp;&nbsp;&nbsp;Northridge Village Phase
   II Subdivision (39T-11501)
 
 Recommendation:  That, on the
@@ -108,7 +102,6 @@ it being noted that the Planning and
   Tridon Properties Limited and J. Ross, 1150 Fanshawe Park Road East, with
   respect to this matter.   (2012-D26-06)
 
-# 7.&nbsp;&nbsp;&nbsp;Shaver-Brockley
 Coalition
 
 Recommendation:  That, the following
@@ -135,7 +128,6 @@ it being noted that the Planning and
   and received a communication, dated March 29, 2012, from the Shaver-Brockley
   Coalition, with respect to this matter.   (2012-D11-09)
 
-# 8.&nbsp;&nbsp;&nbsp;Properties located
   at 176 and 184 Rectory Street (OZ-7999)
 
 Recommendation:  That, on the
@@ -167,7 +159,6 @@ it being pointed out that there were no
   oral submissions made at the public participation meeting held in connection
   with this matter.   (2012-D11-04)
 
-# 9.&nbsp;&nbsp;&nbsp;Amend Section 4.14
   of Zoning By-law No. Z.-1 (Z-7891)
 
 Recommendation:  That, on the
@@ -192,7 +183,6 @@ it
   being pointed out that there were no oral submissions made at the public
   participation meeting held in connection with this matter.    (2012-D11-02)
 
-# 10.&nbsp;&nbsp;&nbsp;Properties located
   at 497-499 Central Avenue (Z-8008)
 
 Recommendation:  That, on the
@@ -277,7 +267,6 @@ it being
   they will be using the garage on the lot; advising that there are three-one
   bedroom units and two-two bedroom units.   (2012-D11-03)
 
-# 11.&nbsp;&nbsp;&nbsp;ReThink London
 
 That the ReThink London event to be held on
   May 3, 2012 BE NOTED.

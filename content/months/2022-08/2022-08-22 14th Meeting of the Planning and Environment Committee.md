@@ -20,11 +20,9 @@ August 22, 2022, at  4:00 PM
 
 The meeting was called to order at 4:00 PM, with Councillor A. Hopkins in the Chair, Councillors S. Lewis and S. Lehman present and all other members participating by remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Hillier
 
@@ -108,7 +106,6 @@ That, on the recommendation of the Director, Planning and Development, based on 
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Zoning By-law:  Patio Restrictions
 
@@ -1179,7 +1176,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;183 and 197 Ann Street - Proposed Designation By-laws Under Part IV, Section 29 of the Ontario Heritage Act - Consideration of Objections
 
@@ -1299,7 +1295,6 @@ Pursuant to section 2.3 of the Council Procedure By-law, section 33.9 of the sai
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members Only)
 
 > Moved by S. Lehman
 
@@ -1325,7 +1320,6 @@ The Planning and Environment Committee convenes, in Closed Session, from 11:06 P
 
 ## 6.1&nbsp;&nbsp;&nbsp;London Plan Site Specific Appeals - Instructions
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 11:16 PM.
 ---

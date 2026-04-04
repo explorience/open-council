@@ -17,11 +17,9 @@ August 14, 2024, at  1:00 PM
 
 The meeting is called to order at 1:00 PM; it being noted that Councillor P. Van Meerbergen was in remote attendance
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.2&nbsp;&nbsp;&nbsp;Single Source SS-2024-277 J Allyn Taylor Heating System
 
@@ -63,11 +61,9 @@ d)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or ot
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Property Tax Deferral Program - Councillor S. Trosow
 
@@ -141,7 +137,6 @@ it being noted that the Corporate Services Committee received a communication da
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) Request for Delegation Status - Request for Funding - Lyndee Hansen, Executive Director, Grand Theatre
 
@@ -189,7 +184,6 @@ That the delegation request from L. Hansen BE APPROVED to be heard at this time.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by P. Cuddy
 
@@ -245,7 +239,6 @@ The Corporate Services Committee convenes In Closed Session from 2:26 PM to 2:36
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by P. Cuddy
 

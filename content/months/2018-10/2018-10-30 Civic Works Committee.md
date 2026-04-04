@@ -17,11 +17,9 @@ October 30, 2018, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by H. Usher
 
@@ -162,7 +160,6 @@ c)     the Civic Administration BE AUTHORIZED to undertake final negotiation
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;7th and 8th Reports of the Transportation Advisory Committee
 
@@ -195,7 +192,6 @@ it being noted that the Civic Works Committee did not receive a delegation from 
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Request for Delegation - K. Miller and C. Gupta, Safe Water London
 
@@ -241,7 +237,6 @@ The City Solicitor BE REQUESTED to provide the Civic Works Committee with an opi
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -264,7 +259,6 @@ That the Civic Works Committee Updated Deferred Matters List, as of October 29,
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential Appendix (enclosed for Members only)
 
 > Moved by H. Usher
 
@@ -291,7 +285,6 @@ The Civic Works Committee convened in Closed Session from 4:25 PM to 5:45 PM.
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 5:46 PM.
 

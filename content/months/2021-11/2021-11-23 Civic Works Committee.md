@@ -25,11 +25,9 @@ November 23, 2021, at 12:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by J. Helmer
 
@@ -254,11 +252,9 @@ d)        the funding for this purchase BE APPROVED as set out in the Source
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;New Sidewalks in Established Neighbourhoods
 
@@ -331,7 +327,6 @@ Motion to approve part b) of the clause.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -381,7 +376,6 @@ b)        clauses 1.1, 2.1 to 2.6 and 3.1 to 3.3, BE RECEIVED.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 12:47 PM.
 

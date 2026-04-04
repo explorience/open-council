@@ -17,11 +17,9 @@ August 29, 2023, at  1:00 PM
 
 The meeting is called to order at 1:07 PM; it being noted that Councillors P. Van Meerbergen and S. Hillier were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that Councillor A. Hopkins disclosed a pecuniary interest with respect to Item 3 of the 12th Report of the Council, In Closed Session, having to do with an agreement related to the property located at 869 Commissioners Road West, by indicating that she owns property in close proximity to the location.
 
-# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
 ## 2.1&nbsp;&nbsp;&nbsp;His Worship the Mayor Recognizes the 2023 Queen Elizabeth Scholarship Recipients
 
@@ -29,11 +27,9 @@ Angelina Lam, London Central Secondary School with a 99.33% average
 
 Amaris Peng, Sir Frederick Banting Secondary School with a 99.17% average
 
-# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
 
 > Motion made by S. Franke
 
@@ -120,7 +116,6 @@ The Council convenes in closed session at 1:19 PM and reconvenes in public sessi
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
 ## 5.1&nbsp;&nbsp;&nbsp;13th Meeting Held on July 25, 2023
 
@@ -155,7 +150,6 @@ That the Minutes of the 13th Meeting held on July 25, 2023, BE APPROVED.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 > Motion made by E. Peloza
 
@@ -192,7 +186,6 @@ That the communications, with respect to the following, BE RECEIVED and BE REFER
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 ## 7.1&nbsp;&nbsp;&nbsp;Designate Rail Safety Week - September 18-24, 2023
 
@@ -369,7 +362,6 @@ a)  the Civic Administration BE DIRECTED to prepare a zoning by-law amendment t
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Reports
 
 ## 8.1&nbsp;&nbsp;&nbsp;13th Report of the Planning and Environment Committee
 
@@ -2151,7 +2143,6 @@ it being noted that the Strategic Priorities and Policy Committee received a com
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 ## 9.1&nbsp;&nbsp;&nbsp;12th Report of Council in Closed Session
 
@@ -2278,7 +2269,6 @@ That, on the recommendation of the Deputy City Manager, Finance Supports, on the
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 ## 10.1&nbsp;&nbsp;&nbsp;Consideration of Appointment to the London Hydro Board of Directors (Requires 2 Members) (Relates to Bill No. 306)
 
@@ -2386,15 +2376,12 @@ That the matter of consideration of appointments to the London Hydro Board of Di
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 None.
 
-# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 
 None.
 
-# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 > Motion made by S. Stevenson
 
@@ -2743,7 +2730,6 @@ A by-law to authorize and approve an Agreement of Purchase and Sale between The 
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by S. Stevenson
 

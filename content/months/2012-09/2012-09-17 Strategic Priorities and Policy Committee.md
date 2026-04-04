@@ -15,10 +15,8 @@ September 17, 2012, at  4:06 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, J.M. Fleming, E. Gamble, M. Hayward, V. McAlea Major, C. Saunders
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Governance Model
   Review
 
 Recommendation:  That, on the recommendation
@@ -87,7 +85,6 @@ it being noted that the Strategic
   Treasurer, Chief Financial Officer, regarding the future annual process for
   service review, which has evolved from the current service review process.
 
-# 3.&nbsp;&nbsp;&nbsp;Appointment of Jeff
   Gillies to the London Public Library Board
 
 Recommendation:  That Jeff Gillies BE

@@ -18,7 +18,6 @@ September 2, 2014, at  4:03 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:03 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 Councillor M. Brown discloses a pecuniary
@@ -81,10 +80,8 @@ Councillor J.B. Swan discloses a pecuniary
   by indicating that he is employed by Orchestra London, which has an interest
   in each of these matters.
 
-# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
 > Moved by Councillor J.P. Bryant
@@ -121,9 +118,7 @@ Motion Passed
 
 ****
 
-# V.&nbsp;&nbsp;&nbsp;RECOGNITIONS (continued)
 
-# IV.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
 MOTION FOR IN CAMERA SESSION
@@ -160,7 +155,6 @@ Motion Passed
 
 ****
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that the following pecuniary
@@ -178,7 +172,6 @@ b)         Councillor
   by indicating that he is the Executive Director of a social services agency
   that is involved in the project.
 
-# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE TWENTIETH MEETING HELD ON JULY 29, 2014
 
 > Moved by Councillor P. Van Meerbergen
@@ -215,7 +208,6 @@ Motion Passed
 
 ****
 
-# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
 > Moved by Councillor B. Polhill
@@ -227,7 +219,6 @@ Approve receipt and referral of the
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Employment Program
   Support Year End Update and Grant Agreement
 
 That, on the recommendation of
@@ -272,7 +263,6 @@ it being noted that the Investment and
   Economic Prosperity Committee heard a verbal delegation from W. de Rond,
   Executive Director, WIL Employment Connections, with respect to this matter.
 
-# 3.&nbsp;&nbsp;&nbsp;Performing Arts
   Centre Studies
 
 That, on the recommendation of the City
@@ -314,7 +304,6 @@ it being noted that public/private
   presentation from B. Arnott, Consultant, NOVITA Interpares Limited, with respect to
   this matter.
 
-# 4.&nbsp;&nbsp;&nbsp;London's Music
   Strategy
 
 That, on the recommendation of the City
@@ -352,12 +341,9 @@ it being noted that the Investment and
   from Robert Breen, London Music Industry Development Task Force Facilitator,
   with respect to this matter.
 
-# VIII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# IX.&nbsp;&nbsp;&nbsp;REPORTS
 
-# 25.&nbsp;&nbsp;&nbsp;Properties located
   at 447 Old Wonderland Road (Z-8228)
 
 That, on the recommendation of the Managing
@@ -438,7 +424,6 @@ it being pointed out that at the public
   indicated on the attached public participation meeting record
   made oral submissions in connection therewith.   (2014-D14)
 
-# 5.&nbsp;&nbsp;&nbsp;Deputy City
   Treasurer - Orchestra London Credit Guarantee
 
 That, on the recommendation of the Deputy
@@ -513,7 +498,6 @@ Motion Passed
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Huron Industrial
   Park Stormwater Management Servicing Environmental Assessment Consulting
   Engineer Assignment Increase
 
@@ -535,7 +519,6 @@ c)         the
   Civic Administration BE AUTHORIZED to undertake all the administrative acts
   that are necessary in connection with this work.  (2014-A05)
 
-# 7.&nbsp;&nbsp;&nbsp;Fanshawe Park Road
   East Widening Adelaide Street to McLean Drive Detailed Design and Tendering
   Appointment of Consulting Engineer
 
@@ -566,7 +549,6 @@ e)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations.  (2014-A05)
 
-# 8.&nbsp;&nbsp;&nbsp;Southdale Road and
   Boler Road Intersection Improvements Environmental Assessment Study
   Appointment of Consulting Engineer
 
@@ -599,7 +581,6 @@ e)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations.  (2014-A05)
 
-# 9.&nbsp;&nbsp;&nbsp;Sarnia Road
   Widening Wonderland Road North to Sleighthome Avenue Detailed Design and
   Tendering Appointment of Consulting Engineer
 
@@ -630,7 +611,6 @@ e)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations.  (2014-A05)
 
-# 11.&nbsp;&nbsp;&nbsp;Amendments to the
   Traffic and Parking By-law
 
 That, on the recommendation of the Managing
@@ -643,7 +623,6 @@ That, on the recommendation of the Managing
   Stokes, 120 Garland Lane and a communication dated August 14, 2014 from S.
   Antolini, 120 Garland Lane with respect to this matter.  (2014-C01)
 
-# 12.&nbsp;&nbsp;&nbsp;Amendments to the
   Traffic and Parking By-law to Address Safety Issues During the Western Fair
 
 That, on the recommendation of the Managing
@@ -653,7 +632,6 @@ That, on the recommendation of the Managing
   for the purpose of amending the Traffic and Parking By-law (P.S. 111) to
   address safety concerns during the Western Fair.  (2014-C01)
 
-# 13.&nbsp;&nbsp;&nbsp;Pollution
   Prevention and Control Plan Infoworks Modelling Consultant Appointment
 
 That, on the recommendation of the Managing
@@ -708,7 +686,6 @@ it being noted that the Civic Works
   Manager, Wastewater & Drainage Engineering with respect to this matter. 
   (2014-A05)
 
-# 14.&nbsp;&nbsp;&nbsp;Truck Mounted, High
   Pressure Sewers Jetters - RFP 14-43
 
 That, on the recommendation of the Managing
@@ -734,7 +711,6 @@ d)         the
   funding for this purchase BE APPROVED as set out in the Sources of Financing
   Report appended to the staff report dated August 25, 2014.  (2014-F17)
 
-# 15.&nbsp;&nbsp;&nbsp;Boom Flail Mowers
   Single Source Procurement
 
 That, on the recommendation of the Managing
@@ -761,7 +737,6 @@ d)         the
   formal contract or having a purchase order, or contract record relating to
   the subject matter of this approval.  (2014-F17)
 
-# 16.&nbsp;&nbsp;&nbsp;City Initiated
   Street By-law Refinement Report Residential Driveway Widths
 
 That, on the recommendation of the Managing
@@ -771,7 +746,6 @@ That, on the recommendation of the Managing
   S.-1 for the purpose of regulating driveway width and access for residential
   properties in the City.  (2014 - C01/D14)
 
-# 17.&nbsp;&nbsp;&nbsp;Single Source Cured
   in Place Pipe- Lining Supplies
 
 That, on the recommendation of the Managing
@@ -800,7 +774,6 @@ d)         the
   contract or issuing a purchase order relating to the subject matter of this
   approval.  (2014-F17)
 
-# 18.&nbsp;&nbsp;&nbsp;Thames Sydenham
   Region Source Water Protection Plan Risk Management Services Agreement
 
 That, on the recommendation of the Managing
@@ -827,7 +800,6 @@ it being noted that these measures are
   that all costs are able to be accommodated within existing budgets. 
   (2014-L04A)
 
-# 19.&nbsp;&nbsp;&nbsp;Appointment of
   Consultant Design and Contract Administration Services for the New Southdale
   PS and Forcemain
 
@@ -858,7 +830,6 @@ e)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations.  (2014-A05)
 
-# 20.&nbsp;&nbsp;&nbsp;Landfill Gas
   Utilization - Request for Qualifications
 
 That, on the recommendation of the
@@ -891,7 +862,6 @@ e)         the
   Civic Administration BE AUTHORIZED to undertake all administrative acts in
   regard to this matter. (2014-F18)
 
-# 21.&nbsp;&nbsp;&nbsp;London Transit
   Commission 2013 Annual Report
 
 That the communication dated July 17, 2014,
@@ -901,7 +871,6 @@ That the communication dated July 17, 2014,
   overview from D. Winninger, Chair and L. Ducharme, General Manager, London
   Transit Commission, with respect to this matter.  (2014-C05)
 
-# 22.&nbsp;&nbsp;&nbsp;Installation of
   Sidewalks on Shavian Blvd.
 
 That the installation of sidewalks on
@@ -1013,7 +982,6 @@ Approve clauses 1 to 5, inclusive.
 
 ****
 
-# 23.&nbsp;&nbsp;&nbsp;Crosswalks on
   Belfeld
 
 That it BE NOTED that Councillor S. Orser
@@ -1021,14 +989,12 @@ That it BE NOTED that Councillor S. Orser
   Street.  The Civic Administration advised that there are plans to enhance the
   crosswalk pending the passing of provincial legislation.
 
-# 24.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Environmental and Ecological Planning Advisory Committee
 
 That Pooyan Rahimy BE APPOINTED as a Voting
   Member-at-Large on the Environmental and Ecological Planning Advisory Committee,
   for the term ending February 28, 2015.
 
-# 26.&nbsp;&nbsp;&nbsp;Election Campaign
   Sign By-law Update
 
 That, on the recommendation of the City
@@ -1038,7 +1004,6 @@ That, on the recommendation of the City
   By-law, in order to reflect current administrative job titles and to correct
   the numbering of the by-law sections.
 
-# 28.&nbsp;&nbsp;&nbsp;Development Charges
   and the Community Improvement Plan
 
 That, the communication dated July 26, 2014
@@ -1052,9 +1017,7 @@ That, the communication dated July 26, 2014
   businesses grow and to report back at a future meeting of the Planning and
   Environment Committee.   (2014-F21)
 
-# 29.&nbsp;&nbsp;&nbsp;Properties located at 51 and 99 Exeter Road
 
-# 10.&nbsp;&nbsp;&nbsp;Dundas Flexible
   Street Scoping Study Consulting Engineer Assignment Increase
 
 That, on the recommendation of the Managing
@@ -1077,7 +1040,6 @@ c)         the
   Civic Administration BE AUTHORIZED to undertake all the administrative acts
   that are necessary in connection with this work.  (2014-A05)
 
-# 27.&nbsp;&nbsp;&nbsp;RFP14-20 Customer
   Relationship Management Software Implementation Partner
 
 That on the recommendation of the Managing
@@ -1109,7 +1071,6 @@ e)         the
   work or other documents, if required, to give effect to these
   recommendations.
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
 At 9:17 PM Her Worship the Mayor places
   Councillor P. Hubert in the Chair and takes a seat at the Council Board.
@@ -1383,13 +1344,10 @@ Motion Passed
 
 ****
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -1953,7 +1911,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

@@ -22,11 +22,9 @@ March 2, 2021, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Lewis
 
@@ -209,7 +207,6 @@ That, on the recommendation of the Managing Director, Development and Compliance
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Update on the United Nations Safe Cities and Safe Public Spaces Initiative (Safe Cities London)
 
@@ -540,11 +537,9 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -568,11 +563,9 @@ That the Deferred Matters List for the Community and Protective Services Committ
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 None.
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 8:43 PM.
 

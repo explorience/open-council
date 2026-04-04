@@ -12,13 +12,11 @@ August 22, 2016, at  4:00 PM
 > [!abstract]- Also Present:
 > M. Cassidy, A. Hopkins, M. van Holst; J. Adema, G. Barrett, J. Braam, M. Corby, M. Elmadhoon, J.M. Fleming, S. Galloway, T. Grawey, M. Johnson, P. Kokkoros, G. Kotsifas, E. Ling, I. Listar, A. Macpherson, L. Maitland, L. Marshall, L. Pompilii, A. Salton, C. Saunders, C. Smith, S. Spring, M. Tomazincic, S. Wise, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;8th Report of the
   Advisory Committee on the Environment
 
 That the 8th Report of the Advisory Committee
@@ -41,7 +39,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;8th Report of the
   Environmental and Ecological Planning Advisory Committee
 
 That the 8th Report of the Environmental
@@ -65,7 +62,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Changes to the Planning
   Act through the Smart Growth for our Communities Act (Bill 73)
 
 That, on the recommendation of the Managing
@@ -113,7 +109,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Inclusionary Zoning
   in Bill 204, The Promoting Affordable Housing Act, 2016
 
 That, on the recommendation of the Managing
@@ -158,7 +153,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Property located at
   1192 Highbury Avenue North (OZ-8463)
 
 That, on the recommendation of the Managing
@@ -183,7 +177,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Proposed New Sign
   By-law and Amendments to Current Sign and Canopy By-law
 
 That, on the recommendation of the Managing
@@ -225,7 +218,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Property located at
   1061 Richmond Street (H-8657)
 
 That, on the recommendation of the Senior
@@ -255,7 +247,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Lots on Cranbrook
   Road and Thornley Street (H-8634)
 
 That, on the recommendation of the Senior
@@ -298,7 +289,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Properties located
   at 1175 and 1205 Hyde Park Road (H-8646)
 
 That, on the recommendation of the Senior
@@ -328,7 +318,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Silverfox Crescent
   (Part of Blocks 77 and 81 in Plan 33M-622) (P-8349)
 
 That, on the recommendation of the Senior
@@ -365,7 +354,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Submission from the
   Chippewas of the Thames First Nation - The London Plan (O-7938)
 
 That, on the recommendation of the Managing
@@ -393,7 +381,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Ontario Municipal
   Board Review
 
 That, on the recommendation of the Managing
@@ -461,7 +448,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Building Division
   Monthly Report for May 2016
 
 That the Building Division Monthly Report
@@ -484,7 +470,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Properties located
   at 891 and 895 Riverside Drive - Appeal to the Ontario Municipal Board -
   Provisional Consent Decision (B.005/16)
 
@@ -523,7 +508,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Property located at
   354 Boler Road (Z-8613)
 
 That, on the recommendation of the Managing
@@ -625,7 +609,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;Property located at
   1740 Richmond Street (Z-8632)
 
 That, on the recommendation of the Managing
@@ -728,7 +711,6 @@ Motion
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;Property located at
   493 Springbank Drive (Z-8611)
 
 That, on the recommendation of the Managing
@@ -856,7 +838,6 @@ Motion
 
 ****
 
-# 19.&nbsp;&nbsp;&nbsp;Property located at
   66 Byron Avenue East (Z-8616)
 
 That, on the recommendation of the Managing
@@ -1051,7 +1032,6 @@ Motion
 
 ****
 
-# 20.&nbsp;&nbsp;&nbsp;Wonderland Road
   South (Z-8564)
 
 That, on the recommendation of the Managing
@@ -1175,7 +1155,6 @@ Motion
 
 ****
 
-# 21.&nbsp;&nbsp;&nbsp;Property located at
   4425 Wellington Road South (Z-8573)
 
 That, on the recommendation of the Managing
@@ -1294,7 +1273,6 @@ Motion
 
 ****
 
-# 22.&nbsp;&nbsp;&nbsp;City Wide Official
   Plan and Zoning By-law Amendments - Secondary Dwelling Units (OZ-8053)
 
 That, on the recommendation of the Managing
@@ -1459,7 +1437,6 @@ Motion
 
 ****
 
-# 23.&nbsp;&nbsp;&nbsp;Beaufort/Irwin/Gunn/Saunby
   (BIGS) Neighbourhood Secondary Plan (O-8478)
 
 That, on the recommendation of the Managing
@@ -1743,7 +1720,6 @@ Motion
 
 ****
 
-# 25.&nbsp;&nbsp;&nbsp;Hamilton Road Area
   Community Improvement Plan Proposed Study Area and Terms of Reference
 
 That, on the recommendation of the Managing
@@ -1779,7 +1755,6 @@ Motion
 
 ****
 
-# 26.&nbsp;&nbsp;&nbsp;Lambeth Area
   Community Improvement Plan Proposed Study Area and Terms of Reference
 
 That, on the recommendation of the Managing
@@ -1819,7 +1794,6 @@ Motion
 
 ****
 
-# 27.&nbsp;&nbsp;&nbsp;Public Engagement
   Process for the Evaluation of Community Improvement Plan Incentives
 
 That, on the recommendation of the Managing
@@ -1888,7 +1862,6 @@ Motion
 
 ****
 
-# 28.&nbsp;&nbsp;&nbsp;Proposed Walkway on
   Clayton Walk
 
 That the following actions be taken with

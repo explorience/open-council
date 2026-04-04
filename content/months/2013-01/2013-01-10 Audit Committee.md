@@ -15,10 +15,8 @@ January 10, 2013, at  3:00 PM
 > [!abstract]- Also Present:
 > M. Hayward
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Election of Chair and
   Vice-Chair for the term ending November 30, 2013
 
 Recommendation:  That Councillor M. Brown BE

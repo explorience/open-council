@@ -15,7 +15,6 @@ March 4, 2013, at  4:14 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, V. McAlea Major, R. Sharpe, B. Westlake Power
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED
   that the following pecuniary interests were disclosed:
  
 a)         Councillor
@@ -38,7 +37,6 @@ ii)     clause 5 of this
   Public School is part of the Thames Valley District School Board system and
   that the Thames Valley District School Board is his employer.
 
-# 2.&nbsp;&nbsp;&nbsp;City of London and
   Thames Valley District School Board Liaison Committee
 
 Motion Passed
@@ -84,7 +82,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;London Transit
   Commission
 
 Recommendation: That the following actions

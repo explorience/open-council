@@ -9,15 +9,12 @@ February 25, 2016, at  4:00 PM
 > [!abstract]- Present:
 > M. Brown, M. van Holst, B. Armstrong, M. Salih, J. Helmer, M. Cassidy, P. Squire, J. Morgan, P. Hubert, A. Hopkins, V. Ridley, S. Turner, H.L. Usher, T. Park, J. Zaifman, L. Rowe (Secretary)
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
-# 2.&nbsp;&nbsp;&nbsp;CORPORATE OPERATING
   BUDGET
 (all amounts rounded to the nearest
   $1,000s)
 
-# 3.&nbsp;&nbsp;&nbsp;CORPORATE CAPITAL
   BUDGET
 (all amounts rounded to the nearest
   $1,000s)
@@ -481,13 +478,10 @@ Motion Passed
 Business Case #9 – Technology – Amanda 
   $1,000,000 funding source as noted in the Business Case.
 
-# 4.&nbsp;&nbsp;&nbsp;WATER AND
   WASTEWATER & TREATMENT BUDGETS
 
-# 5.&nbsp;&nbsp;&nbsp;ADDED - 2016-2019
   Budget - Public Input
 
-# 6.&nbsp;&nbsp;&nbsp;ADDED –
   Recommendation:  That pursuant to section 2.4 of the Council Procedure
   By-law, section 13.7 of the said by-law BE SUSPENDED to in order to
   facilitate the mandatory review of the annual budget and readoption of the
@@ -498,17 +492,13 @@ Business Case #9 – Technology – Amanda 
   2016-2019 Multi-Year Operating, Capital, Water and Wastewater & Treatment
   Budgets.
 
-# 7.&nbsp;&nbsp;&nbsp;ADDED - Absence
   from Meeting
 
-# 8.&nbsp;&nbsp;&nbsp;ADDED - 2016-2019
   Budget - Public Input
 
-# 9.&nbsp;&nbsp;&nbsp;ADDED - Not to be
   heard before 9:00 a.m. on Friday, February 19, 2016 - Amanda Stratton, Chair,
   Transportation Advisory Committee
 
-# 10.&nbsp;&nbsp;&nbsp;ADDED - 2016-2019
   Budget - Public Input
 
 ---

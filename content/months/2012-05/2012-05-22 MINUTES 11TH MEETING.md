@@ -18,7 +18,6 @@ May 22, 2012, at  5:02 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 5:02 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 B. Polhill
@@ -45,7 +44,6 @@ P.
   both having to do with Council-directed funding to non-profit organizations,
   by indicating that he is the Executive Director of a social services agency.
 
-# II.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE EIGHTH, NINTH AND TENTH MEETINGS HELD ON
   MAY 1 AND 2, 2012, MAY 8, 2012 AND MAY 17, 2012 RESPECTIVELY
 
@@ -95,25 +93,19 @@ Motion Passed
 
 ****
 
-# III.&nbsp;&nbsp;&nbsp;REVIEW
   OF CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# IV.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# V.&nbsp;&nbsp;&nbsp;MOTIONS
   OF WHICH NOTICE IS GIVEN
 
-# VI.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
-# 2.&nbsp;&nbsp;&nbsp;Public Nuisance
   By-law
 
 That, on the recommendation of the City
@@ -125,7 +117,6 @@ it being noted the enactment of the by-law
   becomes an operational matter under the jurisdiction of the London Police
   Service.
 
-# VII.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor J.L. Baechler
 
@@ -134,7 +125,6 @@ Approve clauses 1 to 12, inclusive, of the 15th Report of the Finance and
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;1st Report of the
   Town and Gown Committee
 
 > Moved by Councillor D. Brown
@@ -222,7 +212,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;London Convention
   Centre Corporation
 
 That, notwithstanding the recommendation of
@@ -243,7 +232,6 @@ it being pointed out that at the public
   consideration, in order to provide the LCC with a further opportunity to
   review the proposed by-law and submit comments.
 
-# 5.&nbsp;&nbsp;&nbsp;Establishing the
   Economic Baseline
 
 That the attached revised
@@ -256,7 +244,6 @@ it being noted that the Investment and
   and the President & CEO, London Economic Development Corporation with
   respect to these matters.
 
-# 6.&nbsp;&nbsp;&nbsp;Communications and
   Engagement Plan
 
 That the presentation entitled
@@ -327,7 +314,6 @@ Motion Passed
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Southwest
   Area Plan Servicing Strategy and The City's Growth Management Implementation
   Strategy (GMIS)
 
@@ -406,7 +392,6 @@ it being noted that the Strategic
   Finance, the Manager of Land Use Planning Policy and the Manager of
   Development Finance with respect to this matter.
 
-# 8.&nbsp;&nbsp;&nbsp;3rd
   Report of the Services Review Committee
 
 That the following actions be taken with
@@ -461,7 +446,6 @@ iv)          
 b)         clauses 2, 3 and 5 BE
   RECEIVED.
 
-# 9.&nbsp;&nbsp;&nbsp;Services
   Review Committee Terms of Reference
 
 That consideration of the report from the
@@ -470,7 +454,6 @@ That consideration of the report from the
   reference for the Services Review Committee, BE REFERRED to the next
   meeting of the Strategic Priorities and Policy Committee.
 
-# 10.&nbsp;&nbsp;&nbsp;London Public
   Library
 
 That the
@@ -481,7 +464,6 @@ That the
 That
   German Gutierrez BE APPOINTED to the London Public Library Board of Trustees.
 
-# 11.&nbsp;&nbsp;&nbsp;Middlesex-London
   Health Unit
 
 That the communication dated March 28,
@@ -551,7 +533,6 @@ Motion Passed
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Property located at
   751 Fanshawe Park Road West (39T-11505/Z-7994)
 
 That, the following actions be taken with
@@ -618,7 +599,6 @@ it being pointed
   park in the cul-de-sac and walk to the commercial development. 
   (2012-D11-07/D26-06)
 
-# 13.&nbsp;&nbsp;&nbsp;Properties located
   at 1431-1439 Oxford Street West (Z-8015)
 
 That, on the recommendation of the
@@ -649,7 +629,6 @@ it being pointed
   out that there were no oral submissions made at the public participation
   meeting held in connection with this matter. (2012-D11-05)
 
-# 14.&nbsp;&nbsp;&nbsp;Properties located
   at 3200 and 3260 Singleton Avenue (Z-8035)
 
 That, on the recommendation of the Senior
@@ -686,7 +665,6 @@ it being pointed
   quickly; and advising that a similar subdivision plan sold out quickly in
   Kitchener.   (2012-D11-02)
 
-# 15.&nbsp;&nbsp;&nbsp;Property located at
   890 Southdale Road West
 
 That, on the recommendation of the Senior
@@ -721,7 +699,6 @@ it being pointed
   Vyse, 967 Gabor Court – requesting a copy of the Senior Planner, Development
   Services, presentation.  (2012-W10-01)
 
-# 16.&nbsp;&nbsp;&nbsp;Properties located
   at 909 Southdale Road West and 3045 Pomeroy Lane
 
 That, on the recommendation of the
@@ -768,7 +745,6 @@ it being pointed out that at the public
   parcels; and advising that the larger lot is zoned high density
   residential.   (2012-D25-00)
 
-# 17.&nbsp;&nbsp;&nbsp;Old Victoria
   Proposed Development - Storm Water Management Issues
 
 That, the following actions be taken with
@@ -796,7 +772,6 @@ it being noted that the Planning and
   Jong and reviewed and received a communication, dated April 23, 2012, with
   respect to this matter.    (2012-W10-00)
 
-# 18.&nbsp;&nbsp;&nbsp;3rd Report of the
   Trees and Forests Advisory Committee
 
 That, on the recommendation of the Trees
@@ -917,7 +892,6 @@ Motion Passed
 
 ****
 
-# 19.&nbsp;&nbsp;&nbsp;5th Report of the
   Environmental and Ecological Planning Advisory Committee
 
 That, the following comments of the
@@ -996,7 +970,6 @@ Approve clauses 1 and 2.
 
 ****
 
-# 20.&nbsp;&nbsp;&nbsp;Winship Close and
   Methane Gas
 
 That the Civic Administration BE REQUESTED
@@ -1014,7 +987,6 @@ it being further noted that the Civic Works
   Director, Environmental Programs and Solid Waste, with respect to this
   matter.
 
-# 21.&nbsp;&nbsp;&nbsp;Shared Services
   Utility Model Review - May 2012 Status Update
 
 That, on the recommendation of the Interim
@@ -1040,7 +1012,6 @@ c)           
   being noted that a report on the completion of Phase 1 is anticipated by
   August 2012.
 
-# 22.&nbsp;&nbsp;&nbsp;Amendment of
   Contract for Engineering Fees - Southeast Pumping Station and Reservoir
   (Project EW3614)
 
@@ -1080,14 +1051,12 @@ d)           
   the Corporation previously entered into a formal contract with AECOM Canada
   Ltd. and this work is an extension of that contract.
 
-# 23.&nbsp;&nbsp;&nbsp;Request for Delegation
   Status
 
 That NO ACTION BE TAKEN with respect to the
   request for delegation status from M. Dankiewicz, 51 Shepherd Avenue,
   relating to drainage concerns on her property.
 
-# 24.&nbsp;&nbsp;&nbsp;Sidewalk Cafes
   Pilot Program
 
 That, on the recommendation of the Director
@@ -1230,21 +1199,17 @@ Approve clause 2.
 
 ****
 
-# VIII.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
 None
 
-# IX.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
 None
 
-# X.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
 None
 
-# XI.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -1415,7 +1380,6 @@ Approve 3rd Reading of Bill No.s 119
 
 ****
 
-# XII.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
 MOTION FOR IN CAMERA SESSION
@@ -1496,7 +1460,6 @@ That,
   to Civic Administration in order to facilitate presentations, from each of
   the three short-listed proponents, to the Civic Works Committee.
 
-# XIII.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

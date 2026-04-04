@@ -12,10 +12,8 @@ October 5, 2015, at  4:04 PM
 > [!abstract]- Also Present:
 > A. Hopkins, V. Ridley, M. Salih, H. Usher, M. van Holst, J. Zaifman, J. Adema, G. Barrett, P. Christiaans, E. Conway, M. Davis, B. Debbert, M. Elmadhoon, J.M. Fleming, S. Galloway, T. Grawey, G. Kotsifas, T. Macbeth, A. Macpherson, L. Pompilii, J. Ramsay, M. Ribera, C. Saunders, M. Tomazincic, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;8th Report of the
   Environmental and Ecological Planning Advisory Committee
 
 That the following actions be taken with
@@ -68,7 +66,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;3rd Report of the
   Agricultural Advisory Committee
 
 That the following actions be taken with
@@ -111,7 +108,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;6th Report of the
   Trees and Forests Advisory Committee
 
 That the following actions be taken with
@@ -152,7 +148,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Chelsea Green
   Meadows Subdivision (39T-02511)
 
 That, on the recommendation of the Manager,
@@ -197,7 +192,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Crestwood (Phase 3)
   Subdivision (39T-13503)
 
 That, on the recommendation of the Manager,
@@ -250,7 +244,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Properties located
   at 2525 and 2695 Dingman Drive (Z-8512)
 
 That, on the recommendation of the Managing
@@ -331,7 +324,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Property located at
   2150 Oxford Street East (OZ-8510)
 
 That, on the recommendation of the Managing
@@ -440,7 +432,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Properties located
   at 3313-3450 Wonderland Road South and 1789 Wharncliffe Road South
   (SP15-009327)
 
@@ -550,7 +541,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Review of the
   Community Facility Zone (Z-8479)
 
 That, on the recommendation of the Managing
@@ -627,7 +617,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Properties located
   at 598, 600, 604 and 608 Springbank Drive (Z-8374)
 
 That, on the recommendation of the Managing
@@ -756,7 +745,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Planning Services
   Two Year Work Program
 
 That the following actions be taken with

@@ -22,11 +22,9 @@ August 13, 2024, at  9:30 AM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Franke
 
@@ -238,11 +236,9 @@ b)    clauses 1.1, 3.1, 3.2 and 4.2 to 4.4 BE RECEIVED.
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Councillor S. Franke - Planned Green Municipal Fund Project Applications in the Next 12-24 Months Request
 
@@ -323,11 +319,9 @@ Motion to approve the motion, as amended.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 10:30 AM.
 ---

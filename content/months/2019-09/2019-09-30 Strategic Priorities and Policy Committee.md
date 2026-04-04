@@ -20,11 +20,9 @@ September 30, 2019, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that Councillor P. Van Meerbergen disclosed a pecuniary interest in item 3.1 of this Report, having to do with the Fanshawe College Innovation Village project, by indicating that he has two children attending the College.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;Service Review Initiatives 2019 Update
 
@@ -56,7 +54,6 @@ That, on the recommendation of the City Manager and the Managing Director, Corpo
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Not to be heard before 4:05 PM - Fanshawe College - Innovation Capital Grants Application
 
@@ -187,7 +184,6 @@ That it BE NOTED that the Strategic Priorities and Policy Committee received the
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;4th Report of the Governance Working Group
 
@@ -248,11 +244,9 @@ b)     clauses 1.1 and 1.2 BE RECEIVED for information.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 5:29 PM.
 

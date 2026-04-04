@@ -12,13 +12,11 @@ September 10, 2013, at  1:00 PM
 > [!abstract]- Also Present:
 > D.G. Henderson, H.L. Usher, P. Van Meerbergen; A. Zuidema, J.P. Barber, G. Barrett, J. Braam, K. Burnard, J. Clark, I. Collins, A. Dunbar, J. Freeman, L. Green, A. Hagan, M. Hayward, J. Jackson, P. Kokkoros, G. Kotsifas, V. McAlea Major, J. Page, L. Palarchio, A. Prince, J. Purser, C. Saunders, J. Senese, M. Turner
 
-# 1.&nbsp;&nbsp;&nbsp;Recommendation: 
   That it BE NOTED that Councillor J.B. Swan disclosed a pecuniary interest in
   clause 7 of this Report having to do with proposed changes to fees and
   charges related to Centennial Hall, by indicating that his employer,
   Orchestra London, rents space from Centennial Hall.
 
-# 2.&nbsp;&nbsp;&nbsp;2013 Operating
   Budget Status - Second Quarter Report
 
 Recommendation:  That, on the
@@ -95,7 +93,6 @@ i)          the
   $48,115 – water) to the Efficiency, Effectiveness and Economy reserves in
   2013.
 
-# 3.&nbsp;&nbsp;&nbsp;2013 Capital Budget
   Status - Second Quarter Report
 
 Recommendation:  That on the recommendation
@@ -119,7 +116,6 @@ ii)         pay-as-you-go
 iii)         debt
   financing of $747,433.94 BE USED to reduce authorized but unissued debt.
 
-# 4.&nbsp;&nbsp;&nbsp;Amendment to By-law
   to Establish Self Insurance Reserve Fund
 
 Recommendation:  That, on the
@@ -130,7 +126,6 @@ Recommendation:  That, on the
   make technical amendments resulting from administration title changes as a
   result of a new organizational structure.
 
-# 5.&nbsp;&nbsp;&nbsp;Amendment to
   Council Policy 5(16) - General Policy for Advisory Committees
 
 Recommendation:  That, on the
@@ -141,7 +136,6 @@ Recommendation:  That, on the
   order to delegate the acceptance and processing of resignations from Advisory
   Committees to the City Clerk.
 
-# 6.&nbsp;&nbsp;&nbsp;City of London
   Internship Program
 
 Recommendation:  That, on the
@@ -149,7 +143,6 @@ Recommendation:  That, on the
   Resources Officer, the staff report dated September 10, 2013 with respect to
   the City of London internship program  BE RECEIVED for information purposes.
 
-# 7.&nbsp;&nbsp;&nbsp;Amendments to Fees
   and Charges By-law A-46 to Amend Fees Related to Centennial Hall, Bid
   Documents, Telecommunication Towers Public Consultation Process, Display
   Fireworks Inspection/Permits and Records Research
@@ -178,7 +171,6 @@ it being pointed
   out that there were no oral submissions made at the public participation
   meeting held in connection with this matter.
 
-# 8.&nbsp;&nbsp;&nbsp;Tribunal re
   Development Charges Complaint - 75 Blackfriars Street
 
 Recommendation:  That
@@ -194,14 +186,12 @@ Recommendation:  That
   Municipal Council may dismiss the complaint, or rectify any incorrect
   determination or error that was the subject of the complaint.
 
-# 9.&nbsp;&nbsp;&nbsp;Cell Phone Usage by
   City of London Employees
 
 Recommendation: That the communication
   dated August 2013, from Councillor D. Henderson, regarding cell phone usage
   by City of London employees BE RECEIVED.
 
-# 10.&nbsp;&nbsp;&nbsp;Conservation Ontario
   - White Paper - Watershed Management Futures for Ontario
 
 Recommendation: That the communication
@@ -209,7 +199,6 @@ Recommendation: That the communication
   Municipalities Ontario (AMO), with respect to Conservation Ontario’s White
   Paper on Watershed Management Futures for Ontario BE NOTED AND FILED.
 
-# 11.&nbsp;&nbsp;&nbsp;Appointment to the
   Environmental and Ecological Planning Advisory Committee (Requires 1
   Member-at-Large)
 
@@ -217,7 +206,6 @@ Recommendation:  That Jeremy Bird BE
   APPOINTED to the Environmental and Ecological Planning Advisory Committee as
   a Voting Member-at-Large, for the term ending February 28, 2015.
 
-# 12.&nbsp;&nbsp;&nbsp;Appointment to the
   London Diversity and Race Relations Advisory Committee (Requires 3
   Members-at-Large)
 
@@ -232,7 +220,6 @@ Sharif Behruz (Member-at-Large)
 Florence Cassar (Member-at-Large)
 Clayon Hamilton (Member-at-Large)
 
-# 13.&nbsp;&nbsp;&nbsp;Resignation from
   the London Diversity and Race Relations Advisory Committee
 
 Recommendation:  That the communication
@@ -240,7 +227,6 @@ Recommendation:  That the communication
   London Diversity and  Race Relations Advisory Committee, BE ACCEPTED and Mr.
   Cardoso BE THANKED for participating on the Committee.
 
-# 14.&nbsp;&nbsp;&nbsp;Resignation from
   the London Advisory Committee on Heritage
 
 Recommendation:  That the communication

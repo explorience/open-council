@@ -15,7 +15,6 @@ September 12, 2016, at  4:04 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J. Braam, G. Bridge, K. Graham, M. Hayward, L. Livingstone, V. McAlea Major, J. Nolan, M. Ribera, C. Saunders, E. Soldo
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that Councillor J. Morgan
@@ -29,7 +28,6 @@ That it BE NOTED that Councillor J. Morgan
   employees of the Corporation, by indicating that he is employed by Western
   University.
 
-# 2.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Rapid Transit Implementation Working Group
 
 That, on the recommendation of the Managing
@@ -77,7 +75,6 @@ Motion Passed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;(ADDED) Resignation from Governance Working
   Group
 
 That the resignation of Councillor M.
@@ -107,7 +104,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;(ADDED) – Outlook Access – Councillors’
   Contract Assistants
 
 The Strategic Priorities and Policy

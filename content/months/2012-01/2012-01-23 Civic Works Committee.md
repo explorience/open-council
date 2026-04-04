@@ -12,17 +12,14 @@ January 23, 2012, at  4:03 PM
 > [!abstract]- Also Present:
 > J. L. Baechler, D. Brown; G. Belch, J. Braam, A. Drost, A. Dunbar, D. Huggins, O. Katolyk, B. Krichker, J. Lucas, S. Maguire, J. Simon, E. Soldo, J. Stanford
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;3rd Report of the Transportation Advisory
   Committee
 
 Recommendation:  That the 3rd Report of the
   Transportation Advisory Committee, from its meeting held on November 6, 2012,
   BE RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;Customer Request for Billing Reduction
 
 Recommendation:  That, notwithstanding the
   recommendation of the Director, Water and Wastewater and Treatment, a rebate of
@@ -30,7 +27,6 @@ Recommendation:  That, notwithstanding the
   to L. Stein, 475 McGarrell Dr., Unit 20, with respect to the water bill,
   issued to her on February 27, 2012, in the amount of $3,583.00.  (2012-W12-00)
 
-# 4.&nbsp;&nbsp;&nbsp;Amendments to the Traffic and Parking By-law
 
 Recommendation:  That, on the
   recommendation of the Managing Director, Environmental & Engineering
@@ -39,7 +35,6 @@ Recommendation:  That, on the
   December 11, 2012 for the purpose of amending the Traffic and Parking By-law
   (P.S. 111).  (2012-S09-00)
 
-# 5.&nbsp;&nbsp;&nbsp;Single Source Procurement of Positive
   Displacement Cold Water Meters with Encoder-Receiver-Transmitter Attached
 
 Recommendation:  That, on the
@@ -68,7 +63,6 @@ d)         the
   into a formal contract or having a purchase order, or contract record relating
   to the subject matter of this approval.  (2012-W12-00)
 
-# 6.&nbsp;&nbsp;&nbsp;Overnight Parking
 
 Recommendation:  That the report dated
   December 3, 2012, from the Managing Director, Environmental & Engineering
@@ -76,7 +70,6 @@ Recommendation:  That the report dated
   Compliance Services & Chief Building Official, with respect to overnight
   parking restrictions, BE REFERRED to the 2013 Budget process.  (2012-S04-00)
 
-# 7.&nbsp;&nbsp;&nbsp;Contract Award - Hyde Park No. 4 Stormwater
   Management Facility and Stanton Drain Remediation (ES3020-HP4/ES2487-STNDR)
   (Tender 12-60)
 
@@ -122,7 +115,6 @@ f)         the
   other documents, if required, to give effect to these recommendations.
   (2012-W05-00)
 
-# 8.&nbsp;&nbsp;&nbsp;Appointment of Consultant for Powell Drain
   Remediation Design (ES3020-UPNB2)
 
 Recommendation:  That, on the
@@ -156,7 +148,6 @@ e)         the
   other documents, if required, to give effect to these recommendations.
   (2012-A03-00)
 
-# 9.&nbsp;&nbsp;&nbsp;Construction Timing of Stormwater
   Management Facilities
 
 Recommendation:  That, on the
@@ -181,10 +172,8 @@ c)         Old
   consent to access adjacent lands for the purpose of constructing the facility
   and land development approvals.   (2012-D18-00)
 
-# 10.&nbsp;&nbsp;&nbsp;Election of Vice Chair for the term ending
   November 30, 2013
 
-# 11.&nbsp;&nbsp;&nbsp;2013 New Funding Model By-law for Water and
   Wastewater Services
 
 Recommendation:  That, on the recommendation
@@ -252,10 +241,8 @@ S. Harrington,
   pleased with the new progressive rate structure, stating that this may assist
   with more compact and better designed use of industrial lands.  (2012-W13-00)
 
-# 12.&nbsp;&nbsp;&nbsp;Meadowlily Footbridge Rehabilitation
   Municipal Class Environmental Assessment
 
-# 13.&nbsp;&nbsp;&nbsp;3rd Report of the LTC Long Term Growth Report
   Working Group
 
 Recommendation:  That the following actions
@@ -280,7 +267,6 @@ ii)         the
 b)         clauses
   2 through 4 BE RECEIVED.
 
-# 14.&nbsp;&nbsp;&nbsp;Tributary 'C' Storm/Drainage and Stormwater
   Management, Transportation and Sanitary Trunk Servicing Environmental Study
   Report Modifications
 
@@ -310,7 +296,6 @@ it being noted that the Civic Works
   Project Manager, Norquay Developments with respect to this matter. 
   (2012-F06-00)
 
-# 15.&nbsp;&nbsp;&nbsp;Temporary Overnight Parking Pass for
   Visitors of London
 
 Recommendation:  That the communications
@@ -319,7 +304,6 @@ Recommendation:  That the communications
   London BE REFERRED to the Civic Administration to investigate and
   report back at a future meeting of the Civic Works Committee.  (2012-S04-00)
 
-# 16.&nbsp;&nbsp;&nbsp;Trowbridge Avenue Parking Restrictions
 
 Recommendation:  That the communication
   dated November 23, 2012, from Councillor D. Brown, with respect Trowbridge
@@ -327,7 +311,6 @@ Recommendation:  That the communication
   investigate and report back at a future meeting of the Civic Works Committee. 
   (2012-S04-00)
 
-# 17.&nbsp;&nbsp;&nbsp;Material Recovery Facility Processing Blue
   Box Recyclables
 
 Recommendation:  That, on the

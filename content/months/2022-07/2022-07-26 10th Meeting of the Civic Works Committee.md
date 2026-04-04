@@ -22,11 +22,9 @@ July 26, 2022, at 12:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no disclosures of pecuniary interest were received.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by E. Holder
 
@@ -278,11 +276,9 @@ f)     the Mayor and the City Clerk BE AUTHORIZED to execute any contract or o
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Scanlan Street Connection
 
@@ -306,7 +302,6 @@ That the communications from Councillor M. van Holst, dated July 16, 2022 and Ju
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -330,7 +325,6 @@ That the Civic Works Committee Deferred Matters List as at July 18, 2022, BE REC
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by J. Fyfe-Millar
 

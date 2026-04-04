@@ -15,13 +15,11 @@ August 23, 2016, at 12:02 PM
 > [!abstract]- Also Present:
 > J. Helmer, P. Hubert, M. van Holst; A. Zuidema, R. Armistead, K. Graham, M. Hayward, L. Livingstone, J. Logan, V. McAlea Major, B. McLellan (Weir, Foulds), M. Ribera, J. Smout, S. Spring, J. Taylor, B. Warner, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Amendments to Council Policy Manual Review and Update of "Chapter 20 -
   Realty Services"
 
@@ -62,7 +60,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Declare Surplus - Closed Road Allowance - Part of Cedarpark Crescent and all
   of Kilcrest Way
 
@@ -96,7 +93,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Ontario150 Program Applications
 
 That, on the recommendation of the
@@ -124,7 +120,6 @@ b)         the
   Civic Administration BE DIRECTED to take all necessary steps to submit the
   City of London’s application for funding in advance of the program deadline.
 
-# 5.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Annual MP and MPP Meetings
 
 That, on the recommendation of the
@@ -149,7 +144,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Public
   Participation Meeting - Proposed Amendment to Council Procedure By-law -
   Acting Mayor
 
@@ -217,7 +211,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;PUBLIC SUBMISSION -
   London Brewing Co-operatives Liquor Sales Licence Application
 
 That the application of the London Brewing
@@ -241,7 +234,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;COUNCIL MEMBER
   SUBMISSION - Federation of the Canadian Municipalities
 
 That Councillor T. Park BE APPOINTED as
@@ -264,7 +256,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;ADDED - Appointment to the London Hydro
   Board of Directors
 
 That, on the recommendation of the

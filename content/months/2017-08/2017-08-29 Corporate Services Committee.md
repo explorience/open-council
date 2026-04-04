@@ -12,7 +12,6 @@ August 29, 2017, at 12:32 PM
 > [!abstract]- Also Present:
 > M. Cassidy, M. van Holst; M. Hayward, B. Baar, G. Bridge, B. Card, I. Collins, M. Daley, K. Graham, K. Kolton, M. Marcellin, J.P. McGonigle, M. Ribera, C. Saunders
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that Councillor J. Morgan
@@ -21,7 +20,6 @@ That it BE NOTED that Councillor J. Morgan
   City-owned conduit pathways, as he is employed by the University of Western
   Ontario.
 
-# 2.&nbsp;&nbsp;&nbsp;Annual Meeting
   Calendar
 
 That, on the recommendation of the City
@@ -47,7 +45,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Council Policy -
   Amendment of Flags at City Hall Policy
 
 That, on the recommendation of the City
@@ -93,7 +90,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;FCM Diverse Voices
   for Change Initiative
 
 That the following actions be taken in
@@ -143,7 +139,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Joint Use Agreement
   with Western University - Conduit Pathways
 
 That, on the recommendation of the
@@ -188,7 +183,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Appointment to the
   Animal Welfare Advisory Committee
 
 That Ann Hayes BE APPOINTED to the Animal
@@ -211,7 +205,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Feast Fest London -
   Request for Designation as a Municipally Significant Event
 
 That the Feast Fest London, to be held on
@@ -235,7 +228,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Annual Report of
   the Integrity Commissioner - May 17, 2016 to August 1, 2017
 
 That the communication dated August 15,
@@ -263,7 +255,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;ADDED - Appointment
   to the London Hydro Board of Directors
 
 Motion

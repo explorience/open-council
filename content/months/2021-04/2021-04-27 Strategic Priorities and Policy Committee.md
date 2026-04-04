@@ -20,11 +20,9 @@ April 27, 2021, at  4:00 PM
 
 The meeting is called to order at 4:00 PM; it being noted that the following Members were in remote attendance: Councillors M. van Holst, M. Salih, J. Helmer, M. Cassidy, J. Morgan, S. Lehman, A. Hopkins, P. Van Meerbergen, S. Turner, E. Peloza, A. Kayabaga and S. Hillier.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Councillor S. Turner discloses a pecuniary interest with item 5.1, having to do with an update on City services during COVID-19, by indicating that he is an employee of the Middlesex-London Health Unit.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;Update – Development of the Climate Emergency Action Plan
 
@@ -57,11 +55,9 @@ That, on the recommendation of the Managing Director, Environmental and Engineer
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;RBC Place London – COVID-19 Financial Impacts
 
@@ -356,7 +352,6 @@ That the communication dated April 8, 2021 from Michelle T. Faysal, Chair, Board
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) COVID-19 – City of London Services Update (Spring/Summer 2021)
 
@@ -388,7 +383,6 @@ That, on the recommendation of the City Manager, the staff report dated April 27
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by P. Van Meerbergen
 

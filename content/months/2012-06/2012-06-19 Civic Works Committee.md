@@ -15,7 +15,6 @@ June 19, 2012, at  4:05 PM
 > [!abstract]- Also Present:
 > J. Braam, P. Christiaans, A. Cook, A. Dunbar, M. Elmadhoon, M. Feldberg, J.M. Fleming, G. Hopcroft, B. Krichker, J. Lucas, D. MacRae, J. Simon, J. Stanford, J. Yanchula, R. Welker
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that Councillor
   J.L. Baechler disclosed a pecuniary interest in clause 4 of this Report
   having to do with a by-law for the abandonment of identified sections of the
   Stanton Municipal Main Drain, County Road #20 Drain, Branch ‘A’, Branch ‘A1’,
@@ -23,14 +22,12 @@ June 19, 2012, at  4:05 PM
   proximity to Fanshawe Park Road, Hyde Park Road and Gainsborough Road, by
   indicating that she has a business that operates out of an adjacent property.
 
-# 2.&nbsp;&nbsp;&nbsp;7th Report of the Transportation
   Advisory Committee
 
 Recommendation:  That the 7th Report of the
   Transportation Advisory Committee from its meeting held on June 5, 2012, BE
   RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;Phasing of
   Stormwater Management Facilities
 
 Recommendation:  That, on the
@@ -89,7 +86,6 @@ e)       Hyde Park SWM Facility #4 and the Stanton
   but land costs are not included in the estimate, as the land for
   this facility was purchased through the Urban Works Reserve Fund.
 
-# 4.&nbsp;&nbsp;&nbsp;By-Law of
   Abandonment for Identified Sections of the Stanton Municipal Drain
 
 Recommendation:  That, on the
@@ -103,7 +99,6 @@ Recommendation:  That, on the
   discharging to the Thames River, as identified in the attached Appendix
   'B'.
 
-# 5.&nbsp;&nbsp;&nbsp;Services Agreement
   Between Partner Municipalities and the Ontario Clean Water Agency for
   Contracted Operations at the Elgin-Middlesex Pumping Station
 
@@ -140,7 +135,6 @@ it being noted that the Boards of
   owner once planned improvements have been completed and the Services
   Agreement with the Ontario Clean Water Agency is implemented.
 
-# 6.&nbsp;&nbsp;&nbsp;2012 Pavement
   Markings for Various Locations
 
 Recommendation:  That, on the
@@ -174,7 +168,6 @@ e)       the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or
   other documents, if required, to give effect to the above recommendations.
 
-# 7.&nbsp;&nbsp;&nbsp;Stirling Bridge
   Rehabilitation Project (Tender 12-42)
 
 Recommendation:  That, on the
@@ -211,7 +204,6 @@ e)       the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or
   other documents, if required, to give effect to these recommendations.
 
-# 8.&nbsp;&nbsp;&nbsp;2012 Cathodic
   Protection Program (EW3765-12) (Tender 12-48)
 
 Recommendation:  That, on the
@@ -256,7 +248,6 @@ it being further noted that there are no
   challenges including watermain flushing, valve maintenance, and lead service
   replacements elsewhere in the City.
 
-# 9.&nbsp;&nbsp;&nbsp;2012 Warranted
   Sidewalk Program (Tender 12-67)
 
 Recommendation:  That, on the
@@ -296,7 +287,6 @@ e)       the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or
   other documents, if required, to give effect to these recommendations.
 
-# 10.&nbsp;&nbsp;&nbsp;2012 Arterial Road
   Rehabilitation - Contract B (Tender 12-68)
 
 Recommendation:  That, on the
@@ -335,7 +325,6 @@ e)       the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or
   other documents, if required, to give effect to these recommendations.
 
-# 11.&nbsp;&nbsp;&nbsp;Construction of
   Glanworth Municipal Drain (Tender 12-74)
 
 Recommendation:  That, on the
@@ -364,7 +353,6 @@ d)       the
   contract or issuing purchase orders or a contract record relating to the
   matters of this approval.
 
-# 12.&nbsp;&nbsp;&nbsp;2012 W12A Landfill
   Gas Collection System Expansion (Tender 12-77)
 
 Recommendation:  That,
@@ -406,7 +394,6 @@ f)        the Mayor and the City Clerk BE AUTHORIZED to
   execute any contract or other documents, if required, to give effect to these
   recommendations.
 
-# 13.&nbsp;&nbsp;&nbsp;Trunk Watermain
   Chamber Installation Program (Tender 12-78)
 
 Recommendation:  That, on the
@@ -450,7 +437,6 @@ f)        the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or
   other documents, if required, to give effect to these recommendations.
 
-# 14.&nbsp;&nbsp;&nbsp;By-Law for the
   Execution of the Occupancy Agreement with London Hydro for Ground-Mounted
   Automatic-Tracking Solar Photovoltaic Energy Systems
 
@@ -464,7 +450,6 @@ Recommendation:  That, on the
   authorize the Mayor and the City Clerk to execute the Agreement on the City's
   behalf.
 
-# 15.&nbsp;&nbsp;&nbsp;Removal of Buses
   from Dundas Street
 
 Recommendation:  That the communication
@@ -472,7 +457,6 @@ Recommendation:  That the communication
   Commission, with respect to the removal of buses from Dundas Street, BE
   RECEIVED.
 
-# 16.&nbsp;&nbsp;&nbsp;London 2030
   Transportation Master Plan
 
 Recommendation:  That, on the

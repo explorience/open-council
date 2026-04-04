@@ -18,11 +18,9 @@ March 1, 2021, at 12:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by E. Peloza
 
@@ -283,11 +281,9 @@ it being noted that the reviews outlined in b) and c) above would be undertaken 
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Application - Issuance of Proclamation - Sikh Heritage Month
 
@@ -312,11 +308,9 @@ That based on the application dated February 3, 2021, from Guru Nanak Mission So
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by E. Peloza
 
@@ -351,7 +345,6 @@ The Corporate Services Committee convenes, In Closed Session, from 1:08 PM to 1:
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by A. Kayabaga
 

@@ -20,11 +20,9 @@ February 28, 2022, at  4:00 PM
 
 The meeting was called to order at 4:01 PM, with Councillor A. Hopkins in the Chair, Councillors S. Lewis and S. Lehman present and all other members participating by remote attendance
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Lehman
 
@@ -196,7 +194,6 @@ That the Building Division Monthly report for January, 2022 BE RECEIVED for info
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;493 Springbank Drive - Demolition Request
 
@@ -430,7 +427,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;2nd Report of the London Advisory Committee on Heritage
 
@@ -496,11 +492,9 @@ g)  clauses 1.1, 2.2, 3.1 to 3.5, inclusive, 3.7 to 3.9, inclusive, 4.1, 5.3 an
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 4:50 PM
 ---

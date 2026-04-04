@@ -17,11 +17,9 @@ June 18, 2024, at  1:00 PM
 
 The meeting is called to order at 1:00 PM; it being noted that Councillors P. Van Meerbergen, S. Franke, E. Peloza (5:21 PM) and S. Hillier were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;Asset Management Plans for Agencies, Boards and Commissions
 
@@ -229,7 +227,6 @@ it being noted that the Strategic Priorities and Policy Committee received a com
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Not to be heard before 1:05 PM - London & Middlesex Community Housing - 2023 Annual General Meeting of the Shareholder Annual Resolutions
 
@@ -471,7 +468,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;London's Health & Homelessness Whole of Community System Response - Proposed Community Encampment Response Plan
 
@@ -1172,7 +1168,6 @@ That Councillor J. Pribil BE APPOINTED to RBC Place London Board of Directors fo
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) Appointment of Consultant for RFP 2024-113 Community Improvement Plan to Encourage Residential Development Near Transit
 
@@ -1215,7 +1210,6 @@ d)    the Mayor and City Clerk BE AUTHORIZED to execute any contract or other 
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential 
 
 ## 6.1&nbsp;&nbsp;&nbsp;Solicitor-Client Privilege/Land Acquisition 
 
@@ -1254,7 +1248,6 @@ That Strategic Priorities and Policy Committee convenes In Closed Session, from 
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by D. Ferreira
 

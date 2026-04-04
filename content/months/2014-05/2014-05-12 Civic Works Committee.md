@@ -15,13 +15,11 @@ May 12, 2014, at  4:02 PM
 > [!abstract]- Also Present:
 > J. Braam, J. Lucas, D. MacRae, M. Ribera, E. Soldo, J. Stanford, R. Welker
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;1st Report of LTC
   Long Term Growth Report Working Group
 
 Recommendation:  That the following actions
@@ -65,7 +63,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Appointment of
   Consulting Engineers for Inspection, Contract Administration and Engineering
   Services Associated with the Construction of 2014 Infrastructure Lifecycle
   Renewal Projects: Contracts #2, #3 and #10
@@ -115,7 +112,6 @@ e)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations.  (2014-A05)
 
-# 4.&nbsp;&nbsp;&nbsp;Sunningdale Road
   and Wonderland Road North Roundabout Construction Administration-Appointment
   of Consulting Engineer
 
@@ -148,7 +144,6 @@ e)         the
   documents, including purchase orders and agreements required to give effect
   to these recommendations.  (2014-A05)
 
-# 5.&nbsp;&nbsp;&nbsp;Southwest Area
   Trunk Sanitary Sewer Detailed Design-Appointment of Consulting Engineer:
   Phase 1- Wonderland Road South (Dingman Drive to Wharncliffe Road South) and
   Hamlyn Street (Wonderland Road South to Campbell Street)
@@ -181,7 +176,6 @@ e)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations.  (2014-A05)
 
-# 6.&nbsp;&nbsp;&nbsp;(ADDED) Funding for
   2014 Thames Region Ecological Association Bicycle Festival
 
 Motion
@@ -199,7 +193,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;(ADDED)  Wellington Road Sidewalk
 
 Recommendation:  That it BE NOTED that
     Councillor J.L. Baechler enquired about the possibility of installing a
@@ -208,7 +201,6 @@ Recommendation:  That it BE NOTED that
     consideration of this request would be taken when completing the Environmental
     Assessment for the Bus Rapid Transit.
 
-# 8.&nbsp;&nbsp;&nbsp;(ADDED)  Quebec Street Bridge Pedestrian
     Safety Rail
 
 Recommendation:  That it BE NOTED that

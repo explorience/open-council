@@ -18,17 +18,12 @@ May 30, 2017, at  4:03 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:03 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
-# II.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosure of Pecuniary Interest
 
-# III.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# IV.&nbsp;&nbsp;&nbsp;COUNCIL, IN
   CLOSED SESSION
 
 > Moved by Councillor B. Armstrong
@@ -40,7 +35,6 @@ Approve  that Council rise and go into
 
 ****
 
-# V.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE SIXTEENTH MEETING HELD ON MAY 16, 2017
 
 > Moved by Councillor H.L. Usher
@@ -76,7 +70,6 @@ Motion Passed
 
 ****
 
-# VI.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
 > Moved by Councillor H.L. Usher
@@ -88,9 +81,7 @@ Approve receipt and referral of
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Update on Service Review Initiatives
 
-# 2.&nbsp;&nbsp;&nbsp;Strategic Plan: Semi-Annual Progress Report
 
 Motion Passed
 
@@ -120,10 +111,8 @@ Approve clause 6.
 
 ****
 
-# VII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# VIII.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor M. Cassidy
 
@@ -168,7 +157,6 @@ Approve
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Consultations
   Regarding Arrangements for the City of London to Become a Sanctuary City
 
 That, on the recommendation of the Managing
@@ -305,10 +293,8 @@ Motion Passed
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Improving Collaboration with Local Boards
   and Commissions
 
-# 8.&nbsp;&nbsp;&nbsp;London Hydro Inc. -
   2016 Annual Meeting of the Shareholder - Annual Resolutions
 
 That, on the recommendation of the City
@@ -331,12 +317,9 @@ it being noted that the Strategic
   to the SPPC Agenda, from M. Mathur, Board Chair and V. Sharma, Chief
   Executive Officer, with respect to London Hydro Inc.
 
-# 5.&nbsp;&nbsp;&nbsp;London Music Industry Initiative Pilot
 
-# 4.&nbsp;&nbsp;&nbsp;Growing London’s Film and Multi-Media
   Industry
 
-# 10.&nbsp;&nbsp;&nbsp;London &
   Middlesex Housing Corporation
 
 That the following actions be taken with
@@ -363,10 +346,8 @@ d)         the
 it being noted that the above individuals
   were appointed in accordance with the attached ranked ballot.
 
-# 9.&nbsp;&nbsp;&nbsp;Special Events Policy and Procedure Manual
   – Potential for Reinstatement of Penalties and Procedure Changes
 
-# 12.&nbsp;&nbsp;&nbsp;Councillor V.
   Ridley - Absence from Meeting
 
 That the communication dated May 17, 2017,
@@ -397,7 +378,6 @@ Motion Passed
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;2nd Report of the
   Childcare Advisory Committee
 
 That the following actions be taken with
@@ -411,7 +391,6 @@ a)         the
 b)         clauses 1 to 7 and 9 to 14, BE
   RECEIVED.
 
-# 14.&nbsp;&nbsp;&nbsp;5th Report of the
   Animal Welfare Advisory Committee
 
 That the following actions be taken with
@@ -429,7 +408,6 @@ a)         the
 b)         clauses 1 to 3 and 5, BE
   RECEIVED.
 
-# 15.&nbsp;&nbsp;&nbsp;4th Report of the
   Accessibility Advisory Committee
 
 That the following actions be taken with
@@ -457,7 +435,6 @@ ii)          the
 c)         clauses 1 to 5 and 8 to 10, BE
   RECEIVED.
 
-# 16.&nbsp;&nbsp;&nbsp;2nd Report of the Town
   and Gown Committee
 
 That the following actions be taken with
@@ -490,14 +467,12 @@ c)         all
 d)         clauses 1 to 3 and 5 to 7, BE
   RECEIVED.
 
-# 18.&nbsp;&nbsp;&nbsp;Request for
   Renaming Carfrae Park West to Charles Hunt Park
 
 That, on the recommendation of the Civic
   Administration, the request to rename “Carfrae Park West” to “Charles Hunt
   Park”, BE APPROVED.
 
-# 20.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the May 2017 Deferred Matters List for
@@ -527,7 +502,6 @@ Motion Passed
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;6th Report of the
   London Advisory Committee on Heritage
 
 That the following action be taken with
@@ -724,7 +698,6 @@ Motion Passed
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;Museum London
   Endowment Funds Transfer Request
 
 That, on the recommendation of the City
@@ -775,7 +748,6 @@ Motion Passed
 
 ****
 
-# 19.&nbsp;&nbsp;&nbsp;London Optimist
   Sports Centre BMO Centre 295 Rectory Street - Grant Agreement (Relates to
   Bill No. 226)
 
@@ -816,15 +788,11 @@ Motion Passed
 
 ****
 
-# IX.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
 > Moved by Councillor H.L. Usher
@@ -860,7 +828,6 @@ Motion Passed
 
 ****
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -1072,7 +1039,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

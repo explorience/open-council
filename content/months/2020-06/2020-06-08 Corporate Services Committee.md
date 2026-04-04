@@ -17,11 +17,9 @@ June 8, 2020, at 12:00 PM
 
 The meeting is called to order at 12:02 PM; it being noted that the follow Members were in remote attendance:  Mayor E. Holder, J. Helmer, J. Morgan, A. Hopkins, A. Kayabaga
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;Agreement Between The City of London and Donald Jones Management Services Inc. - Management of Centennial Hall
 
@@ -77,11 +75,9 @@ That the matter of the Annual Meeting Calendar BE REFERRED to the next meeting o
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;1st Report of the County/City Liaison Committee
 
@@ -105,11 +101,9 @@ That the 1st Report of the County/City Liaison Committee, from its meeting held 
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by A. Hopkins
 
@@ -148,7 +142,6 @@ The Corporate Services Committee convenes, In Closed Session, from 12:32 PM to 1
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 12:59 PM.
 

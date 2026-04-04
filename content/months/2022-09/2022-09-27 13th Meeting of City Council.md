@@ -20,23 +20,18 @@ September 27, 2022, at  4:00 PM
 
 The meeting is called to order at 4:00 PM; it being noted that the following members were in remote attendance, Councillors M. Salih, J. Helmer,
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests are disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
 ## 5.1&nbsp;&nbsp;&nbsp;12th Meeting held on September 6, 2022
 
@@ -69,7 +64,6 @@ That the Minutes of the 12th Meeting BE APPROVED.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 ## 6.1&nbsp;&nbsp;&nbsp;1407-1427 Hyde Park Road (OZ-9438)
 
@@ -130,11 +124,9 @@ That no action BE TAKEN with respect to the communication from AM. Valastro, wit
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 None.
 
-# 8.&nbsp;&nbsp;&nbsp;Reports
 
 ## 8.1&nbsp;&nbsp;&nbsp;15th  Report of the Planning and Environment Committee
 
@@ -681,23 +673,18 @@ That the communication from MNP, with respect to the internal audit follow up ac
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 None.
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-# 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 Councillor M. van Holst enquires with respect to whether there may be a “municipal purpose” in allowing charitable groups to help house the homeless in temporary mobile shelters, and what can be done to facilitate this or what challenges it might pose.  The Deputy City Manager, Planning and Economic Development provides a response, including the notation that the Civic Administration works with organizations wherever feasible.
 
-# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 
 None.
 
-# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 > Motion made by P. Van Meerbergen
 
@@ -780,7 +767,6 @@ That Third Reading and Enactment of Bill No.’s 355 to 360, inclusive, BE APPRO
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by A. Hopkins
 
@@ -794,7 +780,6 @@ The meeting adjourns at 4:54 PM.
 
 ****
 
-# Appendix: New Bills
 
 > [!abstract]- The following Bills are enacted as By-laws of The Corporation of the City of London:
 > **Bill No. 355**

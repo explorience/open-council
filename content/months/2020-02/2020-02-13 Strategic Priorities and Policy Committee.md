@@ -18,17 +18,14 @@ February 13, 2020, at  6:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Councillor S. Turner discloses a pecuniary interest in matters associated with the funding for the Middlesex London Health Unit (MLHU), by indicating that the MLHU is his employer.  Councillor S. Turner further discloses a pecuniary interest in matters associated with children's services, specifically with funding for Childreach, by indicating that his spouse is employed by Childreach.
 
 Councillor J. Helmer discloses a pecuniary interest in the golf operating budget, by indicating that his father is an employee of the National Golf Course Owners Association, and the City is a member of the Association.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Not to be heard before 6:00 PM - Public Participation Meeting - 2020-2023 Multi-Year Budget
 
@@ -150,15 +147,12 @@ Motion to close the Public Participation Meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 8:07 PM.
 

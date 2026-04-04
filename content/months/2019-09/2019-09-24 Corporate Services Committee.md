@@ -20,11 +20,9 @@ September 24, 2019, at 12:30 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by A. Kayabaga
 
@@ -130,7 +128,6 @@ That, on the recommendation of the Managing Director Corporate Services and City
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Not to be heard before 12:45 PM - Tax Adjustment Agenda
 
@@ -154,15 +151,12 @@ That the recommendations contained in the Tax Adjustment Agenda dated September 
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by J. Helmer
 
@@ -200,7 +194,6 @@ The Corporate Services Committee convened, In Closed Session, from 12:40 PM to 1
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 1:20 PM.
 

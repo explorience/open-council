@@ -15,7 +15,6 @@ July 25, 2016, at  4:01 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, L. Barbon, J. Braam, M. Daley, S. Datars Bere, K. Dawtrey, J.M. Fleming, S. Galloway, S. Giustizia, K. Graham, N. Hall, M. Johnson, L. Livingstone, V. McAlea Major, J.P. McGonigle, D. Mounteer, M. Ribera, L. Rowe, C. Smith, J. Smout
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that Councillor S. Turner
@@ -24,7 +23,6 @@ That it BE NOTED that Councillor S. Turner
   indicating that his employer, the Middlesex-London Health Unit, is a partner
   with the London Food Policy Council.
 
-# 2.&nbsp;&nbsp;&nbsp;STAFF REPORT - RFP
   16-27 Smart City Strategy
 
 That, on the recommendation of the Managing
@@ -71,7 +69,6 @@ Motion Passed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   London Community Grants Program Multi-Year Funding Allocations (2017 - 2019)
 
 That the following actions be taken with
@@ -109,7 +106,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT - 2016
   Annual Community Survey
 
 That, on the recommendation of the City
@@ -139,7 +135,6 @@ Motion Passed
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Housing Development Corporation, London - Number and Composition of Directors
   for the Corporation
 
@@ -183,7 +178,6 @@ Motion Passed
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Housing Development
   Corporation, London - 2015 Annual Meeting of the Shareholder Annual Resolutions
 
 That the following actions be taken with
@@ -253,7 +247,6 @@ Motion Passed
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Request for
   Delegation Status at the August 29, 2016 Strategic Priorities and Policy
   Committee Meeting - London Police Services Board
 
@@ -300,7 +293,6 @@ Motion Failed
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the London & Middlesex Housing Corporation (Requires 1
   Member for the term ending November 30, 2016 and 1 Member for the term ending
   November 30, 2017)
@@ -388,7 +380,6 @@ Motion Passed
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;COUNCIL RESOLUTION
   - Municipal Council Resolution Adopted at its Meeting Held on June 23, 2016 with
   Respect to the Appointment of a Deputy Mayor
 
@@ -417,7 +408,6 @@ Motion Passed
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Annual Meeting
   Calendar
 
 That the following actions be taken with
@@ -566,7 +556,6 @@ Motion Passed
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;ADDED - COUNCIL
   MEMBER SUBMISSION - Consideration of Appointment to the Middlesex London Food
   Policy Council
 
@@ -596,7 +585,6 @@ Motion Passed
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;ADDED –Appointment to the Corporate
   Services Committee
 
 That Councillor T. Park BE APPOINTED to the
@@ -625,7 +613,6 @@ Motion Passed
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;ADDED – Potential Policy for Addressing
   Temporary Standing Committee Vacancies
 
 That the City Clerk BE REQUESTED to report

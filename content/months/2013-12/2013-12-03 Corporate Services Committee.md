@@ -12,13 +12,11 @@ December 3, 2013, at  1:32 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J. P. Barber, A.L. Barbon, S. Datars Bere, M. Hayward, J. Page, C. Saunders
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Election of
   Vice-Chair for the term ending November 30, 2014
 
 Recommendation:  That Councillor J.P.

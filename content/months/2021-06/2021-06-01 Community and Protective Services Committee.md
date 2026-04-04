@@ -22,11 +22,9 @@ June 1, 2021, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Lewis
 
@@ -173,7 +171,6 @@ That, on the recommendation of the Deputy City Manager, Social and Health Develo
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 3.1&nbsp;&nbsp;&nbsp;Post June 30, 2021 Strategy for High Acuity Homelessness - S. Campbell, Ark Aid Mission - REQUEST FOR DELEGATION STATUS
 
@@ -200,7 +197,6 @@ That the request for delegation from S. Campbell, Ark Aid Mission, with respect 
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 4.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -225,7 +221,6 @@ That the Deferred Matters List for the Community and Protective Services Committ
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 4:30 PM.
 ---

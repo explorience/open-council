@@ -12,7 +12,6 @@ May 23, 2017, at  4:01 PM
 > [!abstract]- Also Present:
 > M. Brown, J. Morgan, H.L. Usher; M. Elmadhoon, J.M. Fleming, S. Galloway, K. Gonyou, T. Grawey, K. Killen, P. Kokkoros, E. Ling, A. MacLean, L. Marshall, L. Pompilii, J. Ramsay, M. Ribera, A. Salton, C. Saunders, J. Smolarek, S. Spring, M. Tomazincic, S. Wise, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that Councillor S. Turner
@@ -22,7 +21,6 @@ That it BE NOTED that Councillor S. Turner
   municipal actions, by indicating that his employer has a regulatory role in
   this matter.
 
-# 2.&nbsp;&nbsp;&nbsp;6th Report of the
   Advisory Committee on the Environment
 
 That the 6th Report of the Advisory
@@ -45,7 +43,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Old Victoria East
   Subdivision - South Parcel - 1691 Hamilton Road (39T-13502)
 
 That, on the recommendation of the Manager,
@@ -99,7 +96,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Foxhollow North
   Kent Subdivision - Phase 1 - 1388 Sunningdale Road West (39T-04510)
 
 That, on the recommendation of the Manager,
@@ -146,7 +142,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Building Division Monthly Report - March 2017
 
 That the Building Division monthly report
@@ -169,7 +164,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Properties located at 345, 349 and 351 Ridout Street
   North - Demolition Request
 
@@ -271,7 +265,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Outdoor Patios in
   Association with Craft Brewery and Artisan Workshop Establishments, McCormick
   Area Secondary Plan Amendments, 521 Burbrook Place and 1017-1021 Princess
   Avenue (O-8764)
@@ -393,7 +386,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Property located at 8076 Longwoods Road (Z-8735)
 
 That, the following actions be taken with
@@ -659,7 +651,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING  - Proposed Revised Sign By-law and Amendments to
   Current Sign and Canopy By-law
 
@@ -751,7 +742,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Property located at 420 Fanshawe Park Road East -
   (OZ-8624)
 
@@ -992,7 +982,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;6th Report of the
   London Advisory Committee on Heritage
 
 That the following action be taken with

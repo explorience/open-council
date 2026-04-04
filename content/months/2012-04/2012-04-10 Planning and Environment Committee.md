@@ -15,9 +15,7 @@ April 10, 2012, at  3:00 PM
 > [!abstract]- Also Present:
 > J.F. Fontana, W.J. Armstrong, G. Kotsifas, J.M. Fleming, B. Henry, A. MacLean, D. Menard, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;None are disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Property located at
   160 Sunningdale Road West (39T-11504/OZ-7991)
 
 Recommendation:  That, the following actions
@@ -171,7 +169,6 @@ a)    Chris Callahan, by
 b)    Jason Enright, 2139
   Quarrier Road, by e-mail.
 
-# 3.&nbsp;&nbsp;&nbsp;Heritage
   Designation - 1576 Richmond Street
 
 Recommendation:  That, notwithstanding the

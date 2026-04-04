@@ -12,13 +12,11 @@ July 18, 2017, at 12:30 PM
 > [!abstract]- Also Present:
 > M. van Holst; M. Hayward, A.L. Barbon, B. Card, I. Collins, J. Edmunds, K. Graham, A. Hagan, J. Logan, V. McAlea Major, S. Miller, D. O’Brien, M. Ribera, B. Warner, J. Wills
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Mayors of Southwest Ontario (MOSO) Update
 
 That, on the recommendation of the
@@ -43,7 +41,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT - City
   of London Days at Budweiser Gardens - GoodLife Kids Foundation
 
 That, on the recommendation of the City
@@ -70,7 +67,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Modernizing Ontario's Municipal Legislation Act, 2017 (Bill 68)
 
 That, on the recommendation of the City
@@ -95,7 +91,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Expropriation of Lands - Main Street and Colonel Talbot Road - Intersection
   Improvements Project - TS-144616
 
@@ -145,7 +140,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Strategic Plan Progress Variance
 
 That, on the recommendation of the City
@@ -172,7 +166,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Apportionment of
   Taxes
 
 That, on the recommendation of the Managing
@@ -234,7 +227,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;COUNCIL MEMBER
   SUBMISSION - Request to Establish 126 Hamilton Road as a Location of a Social
   Enterprise
 
@@ -262,7 +254,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;COUNCIL MEMBER
   SUBMISSION - Thank You Letter regarding Communities in the
   Caribbean
 
@@ -289,7 +280,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Confirmation of
   Appointment to the Accessibility Advisory Committee
 
 That Jacquie Davison BE APPOINTED to the
@@ -314,7 +304,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Corporate Services
   Committee Deferred Matters List
 
 That the Corporate Services Committee
@@ -337,7 +326,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;ADDED - PUBLIC
   SUBMISSION - Forest City Beer Fest 2017 - Request for Designation as a
   Municipally Significant Event
 
@@ -364,7 +352,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;ADDED - COUNCIL
   MEMBER SUBMISSION - North American Free Trade Agreement (NAFTA)
 
 That the Government of Canada BE SUPPORTED
@@ -390,7 +377,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;ADDED - STAFF
   REPORT - Pre-Authorized Property Tax Payment Error
 
 That, on the recommendation of the Managing

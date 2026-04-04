@@ -20,11 +20,9 @@ November 1, 2022, at  4:00 PM
 
 The meeting was called to order at 4:00 PM; it being noted that the following Members were in remote attendance: Councillors M. Mamou, J. Helmer and S. Hillier.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that Councillor S. Hillier disclosed a pecuniary interest in clause 5.1 of this Report, having to do with the Deferred Matters List, specifically item number 1 on the list, by indicating that his family hosts a five day event.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by M. Hamou
 
@@ -93,15 +91,12 @@ That, on the recommendation of the Deputy City Manager, Environmental and Infras
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -148,7 +143,6 @@ Motion to receive the Deferred Matters List for the Community and Protective Ser
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 4:24 PM.
 ---

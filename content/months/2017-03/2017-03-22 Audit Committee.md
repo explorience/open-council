@@ -12,12 +12,10 @@ March 22, 2017, at  4:02 PM
 > [!abstract]- Also Present:
 > J. Helmer; M. Hayward, A.L. Barbon, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Deloitte - An
   Introduction to Internal Audit Services
 

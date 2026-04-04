@@ -17,11 +17,9 @@ April 8, 2025, at  1:00 PM
 
 The meeting was called to order at 1:02 PM.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Hillier
 
@@ -142,7 +140,6 @@ That the delegation request from K. Morrison, as appended to the Added Agenda, B
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;3095 Bostwick Road (Z-9791/O-25032)
 
@@ -880,7 +877,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Planning Fees and Review Recommendations
 
@@ -942,7 +938,6 @@ That the delegation request from M. Wallace, as appended to the Added Agenda, BE
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -967,7 +962,6 @@ That the April 2025, Deferred Matters List BE RECEIVED.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 That the meeting BE ADJOURNED.
 

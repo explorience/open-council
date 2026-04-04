@@ -12,13 +12,11 @@ August 25, 2014, at  4:03 PM
 > [!abstract]- Also Present:
 > M. Brown; G. Belch, J. Braam, C. Colvin, T. Copeland, L. Ducharme, A. Dunbar, D. Gough, P. Lupton, D. MacRae, K. Paleczny, L. Rowe, E. Soldo, J. Stanford, R. Welker, D. Winninger
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;2nd Report of the
   Cycling Advisory Committee
 
 Recommendation:  That the 2nd Report of the
@@ -41,7 +39,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Water Quality
   Evaluation of Waterways - Appointment of Consultant - Irregular Result
 
 Recommendation:  That, on the
@@ -136,7 +133,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Sifton Bog Surface
   Water Monitoring Program - Appointment of Consultant - Irregular Result
 
 Recommendation:  That, on the
@@ -187,7 +183,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Huron Industrial
   Park Stormwater Management Servicing Environmental Assessment - Consulting
   Engineer Assignment Increase
 
@@ -225,7 +220,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Fanshawe Park Road
   East Widening - Adelaide Street to McLean Drive Detailed Design and Tendering
   Appointment of Consulting Engineer
 
@@ -273,7 +267,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Southdale Road and
   Boler Road Intersection Improvements Environmental Assessment Study - Appointment
   of Consulting Engineer
 
@@ -323,7 +316,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Sarnia Road Widening
   - Wonderland Road North to Sleightholme Avenue - Detailed Design and
   Tendering Appointment of Consulting Engineer
 
@@ -370,7 +362,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Dundas Flexible
   Street Scoping Study - Consulting Engineer Assignment Increase
 
 Motion
@@ -389,7 +380,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Amendments to the
   Traffic and Parking By-law
 
 Recommendation:  That, on the
@@ -419,7 +409,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Amendments to the
   Traffic and Parking By-law to Address Safety Issues During the Western Fair
 
 Recommendation:  That, on the
@@ -446,7 +435,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Pollution
   Prevention and Control Plan - Infoworks Modelling Consultant Appointment
 
 Recommendation:  That, on the
@@ -519,7 +507,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Truck Mounted, High
   Pressure Sewer Jetters - RFP 14-43
 
 Recommendation:  That, on the
@@ -561,7 +548,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Boom Flail Mowers,
   Single Source Procurement
 
 Recommendation:  That, on the
@@ -629,7 +615,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;Single Source Cured
   in Place Pipe - Lining Supplies
 
 Recommendation:  That, on the
@@ -674,7 +659,6 @@ Motion
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;Thames Sydenham
   Region Source Water Protection Plan Risk Management Services Agreement
 
 Recommendation:  That, on the
@@ -719,7 +703,6 @@ Motion
 
 ****
 
-# 19.&nbsp;&nbsp;&nbsp;Appointment of
   Consultant - Design and Contract Administration Services for the New
   Southland Pumping Station and Forcemain
 
@@ -767,7 +750,6 @@ Motion
 
 ****
 
-# 20.&nbsp;&nbsp;&nbsp;Landfill Gas
   Utilization - Request for Qualifications
 
 Recommendation:  That, on the
@@ -817,7 +799,6 @@ Motion
 
 ****
 
-# 21.&nbsp;&nbsp;&nbsp;London Transit
   Commission 2013 Annual Report
 
 Recommendation:  That the communication
@@ -844,7 +825,6 @@ Motion
 
 ****
 
-# 22.&nbsp;&nbsp;&nbsp;Installation of
   Sidewalks
   on Shavian Boulevard
 
@@ -872,7 +852,6 @@ Motion
 
 ****
 
-# 23.&nbsp;&nbsp;&nbsp;Crosswalks on Belfield Street
 
 That it BE NOTED that Councillor S. Orser
   enquired about the possibility of upgrading the crosswalk on Belfield Street. 

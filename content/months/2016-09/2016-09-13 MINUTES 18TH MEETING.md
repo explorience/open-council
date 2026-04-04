@@ -18,7 +18,6 @@ September 13, 2016, at  4:02 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:02 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 Councillor M. van Holst discloses a
@@ -87,10 +86,8 @@ Motion Passed
 
 ****
 
-# VII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that Councillor J. Morgan
   disclosed a pecuniary interest in clause C-1 of the Confidential Appendix to
@@ -103,13 +100,11 @@ That it BE NOTED that Councillor J. Morgan
   employees of the Corporation, by indicating that he is employed by Western
   University.
 
-# 14.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the Civic Works Committee Deferred
   Matters List, as at August 30, 2016, BE RECEIVED.
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
 > Moved by Councillor M. Salih
 
@@ -182,10 +177,8 @@ Motion Passed
 
 ****
 
-# III.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# IV.&nbsp;&nbsp;&nbsp;COUNCIL, IN
   CLOSED SESSION
 
 MOTION FOR IN CAMERA SESSION
@@ -232,9 +225,7 @@ The Committee of the Whole rises at 6:17 PM
   Members present except Councillors M. Cassidy, V. Ridley, H.L.  Usher and J.
   Zaifman.
 
-# II.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# VIII.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor J. Morgan
 
@@ -242,7 +233,6 @@ Approve clauses 1 to 8.
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Rapid Transit Implementation Working Group
 
 That, on the recommendation of the Managing
   Director, Environmental and Engineering Services and City Engineer, the
@@ -266,13 +256,11 @@ it being further noted that Councillor B.
   Armstrong advised the City Clerk that he would also like to serve on the
   RTIWG.
 
-# 3.&nbsp;&nbsp;&nbsp;Resignation from Governance Working Group
 
 That the resignation of Councillor M.
   Cassidy from the Governance Working Group, due to scheduling considerations,
   BE ACCEPTED.
 
-# 4.&nbsp;&nbsp;&nbsp;Outlook Access – Councillors’ Contract
   Assistants
 
 That the Civic Administration BE DIRECTED
@@ -332,7 +320,6 @@ Motion Passed
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Subdivision
   Agreement Provisions Relating to School Blocks and Park Facilities
 
 That, on the recommendation of the Manager,
@@ -340,7 +327,6 @@ That, on the recommendation of the Manager,
   Agreement Provisions Relating to School Blocks and Park Facilities, meeting
   on September 6, 2016" BE RECEIVED for information.  (2016-D12)
 
-# 6.&nbsp;&nbsp;&nbsp;Claimable Works for
   1030 Coronation Drive, Hyde Park, Block 8 Reconstruction - Update to DC
   Claimable Works
 
@@ -380,7 +366,6 @@ Motion Passed
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Property located at
   1400 Riverbend Road (H-8631) (Relates to Bill No. 350)
 
 That, on the recommendation of the Senior
@@ -397,7 +382,6 @@ That, on the recommendation of the Senior
   Provision (R5-6(10)/R6-5(42)/R8-3(4) Zone to remove the holding (h) and
   (h-206) provisions.   (2016-D09)
 
-# 8.&nbsp;&nbsp;&nbsp;Foxwood Crossing
   Subdivision - Phase 3 (39T-14502)
 
 That, on the recommendation of the Manager,
@@ -430,7 +414,6 @@ d)        the
   amending agreements and all documents required to fulfill its conditions.  
   (2016-D12)
 
-# V.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE SEVENTHEENTH MEETING HELD ON AUGUST 30,
   2016
 
@@ -465,10 +448,8 @@ Motion Passed
 
 ****
 
-# VI.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
-# 10.&nbsp;&nbsp;&nbsp;Property located at
   25 Gower Street (Z-8648) (Relates to Bill No. 351)
 
 That, further to the direction of the
@@ -495,7 +476,6 @@ it being further noted that Municipal
   Council received comments from the applicant in support of the staff
   recommendation.   (2016-D09)
 
-# 12.&nbsp;&nbsp;&nbsp;Portion of Land
   Known Municipally as 1500 Dundas Street East (Z-8628) (Relates to Bill No.
   353)
 
@@ -539,7 +519,6 @@ it being further noted that Municipal
   Council received comments from the agent for the applicant in support of the
   staff recommendation.   (2016-D09)
 
-# 13.&nbsp;&nbsp;&nbsp;Property located at
   21 Wharncliffe Road South (OZ-8484) (Relates to Bill No.'s 344 and 354)
 
 That, on the recommendation of the Managing
@@ -619,13 +598,11 @@ it
   being further noted that Municipal Council received comments from the agent
   for the applicant in support of the staff recommendation.  (2016-D09)
 
-# 9.&nbsp;&nbsp;&nbsp;Building Division
   Monthly Report for July 2016
 
 That the Building Division Monthly Report
   for July 2016 BE RECEIVED.  (2016-A23)
 
-# 11.&nbsp;&nbsp;&nbsp;Property located on
   a portion of 1654 Highbury Avenue North (Edgevalley Subdivision) (Z-8618)
   (Relates to Bill No. 352)
 
@@ -665,14 +642,12 @@ it being noted that the Municipal Council
 it being further noted that no public input
   was received by Municipal Council with respect to this matter.  (2016-D09)
 
-# 15.&nbsp;&nbsp;&nbsp;Walkway at Clayton
   Walk
 
 That the delegation and communication from
   M. Fantegrossi, 7055 Clayton Walk, with respect to the walkway on Clayton
   Walk, BE RECEIVED.   (2016-T04)
 
-# 16.&nbsp;&nbsp;&nbsp;8th Report of the
   Trees and Forests Advisory Committee
 
 That the following actions be taken with
@@ -729,7 +704,6 @@ d)        the
 e)        
   clauses 1, 3 to 8, 10, 13 and 14, BE RECEIVED.
 
-# 17.&nbsp;&nbsp;&nbsp;Brownfield Incentive
   Application - Chelsea Green Meadows (33M-686)
 
 That delegation status BE GRANTED to D. de
@@ -742,7 +716,6 @@ That delegation status BE GRANTED to D. de
   a communication dated January 6, 2016, from D. de Jong, 2423652 Ontario Ltd,
   with respect to this matter.  (2016-D09)
 
-# 18.&nbsp;&nbsp;&nbsp;Dundas Flex Street
   - Programming
 
 That the Civic Administration BE DIRECTED
@@ -881,7 +854,6 @@ Motion Passed
 
 ****
 
-# IX.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
 > Moved by Councillor J. Morgan
@@ -890,10 +862,8 @@ Approve clauses 1 to 4.
 
 ****
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
 > Moved by Councillor V. Ridley
@@ -961,7 +931,6 @@ Motion Passed
 
 ****
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -1220,7 +1189,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

@@ -15,7 +15,6 @@ January 24, 2013, at  9:10 AM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, A.L. Barbon, J. Braam, G. Bridge, I. Collins, B. Coxhead, C. Cucksey, A. Dunbar, J.M. Fleming, P. Foto, A. Hagan, M. Hayward, O. Katolyk, G. Kotsifas, L. Livingstone, K. Paleczny, C. Saunders, J. Senese, R. Sharpe, B. Westlake-Power
 
-# 1.&nbsp;&nbsp;&nbsp;a)         That
   it BE NOTED that Councillor W.J. Armstrong disclosed a pecuniary
   interest in those matters pertaining to a proposed increase in fees for
   rental properties by indicating that he owns rental properties.
@@ -83,7 +82,6 @@ g)         That
   interest in clause 3f)iii) having to do with Children’s Services by
   indicating that his spouse owns and operates a child care facility.
 
-# 2.&nbsp;&nbsp;&nbsp;2013 Budget -
   Summary of Public Input.
 
 Recommendation:  That the report from the
@@ -121,7 +119,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Corporate Operating Budget
 
 Recommendation:  That it BE NOTED that
   the Director, Financial Planning and Policy and the Manager II,
@@ -1124,7 +1121,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;CORPORATE CAPITAL
   BUDGET
 
 > [!abstract]- Vote:

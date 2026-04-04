@@ -15,7 +15,6 @@ March 17, 2014, at  4:09 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J. Braam, A. Dunbar, K. Graham, T. Grawey, M. Hayward, G.T. Hopcroft, J. Lucas, T. Macbeth, D. Mounteer, R. Paynter, M. Ribera, C. Saunders, J. Smout, E. Soldo, J. Stanford, B. Warner
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that
@@ -24,7 +23,6 @@ Recommendation:  That it BE NOTED that
   Greater London International Airport Authority Board of Directors, by
   indicating that her spouse sits on that Board of Directors.
 
-# 2.&nbsp;&nbsp;&nbsp;Cycling Advisory
   Committee
 
 Recommendation:  That the following actions
@@ -153,7 +151,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Industrial Land
   Development Strategy
 
 Recommendation:  That, on the
@@ -221,7 +218,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Request for
   Nominees for Appointment to the Greater London International Airport
   Authority Board of Directors (One Upcoming Vacancy)
 

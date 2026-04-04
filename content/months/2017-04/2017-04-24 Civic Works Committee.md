@@ -15,13 +15,11 @@ April 24, 2017, at 12:02 PM
 > [!abstract]- Also Present:
 > J. Helmer, T. Park, H.L. Usher; B. Card, T. Copeland, A. Dunbar, J. Ford, J. Lucas, D. MacRae, S. Maguire, S. Mathers, K. Paleczny, M. Ribera, L. Rowe, E. Soldo, J. Stanford
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Patio Design Guidelines for On-Street Municipal Parking Spaces
 
 That, on the recommendation of the Managing
@@ -48,7 +46,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT - Rail
   Safety Week
 
 That, on the recommendation of the Managing
@@ -73,7 +70,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Confidentiality Agreement with the Association of Municipalities of Ontario
   (AMO) to Undertake Work Associated with the Resource Recovery and Circular
   Economy Act 2016
@@ -112,7 +108,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Contract Award: Tender No. 17-40 - 2017 Infrastructure Renewal Program - 
   Beachwood Avenue Reconstruction Project
 
@@ -163,7 +158,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Contract Award: Tender No. 17-32 -  Replacement of Sidewalks, Curb and Gutter
   And Hot Mix Asphalt -  Contract #1
 
@@ -214,7 +208,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Contract Award: Tender No. 17-57 - 2017 Bradley Avenue West Extension
 
 That, on the recommendation of the Managing
@@ -270,7 +263,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Contract Award: Tender No. 17-46 - Western Road / Wharncliffe Road North
   Improvements - Phase 1 - Canadian Pacific Railway Grade Separation
   Reconstruction
@@ -331,7 +323,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Partnering in Phosphorus Control: Achieving Phosphorous Reductions in Lake
   Erie From Canadian Sources (EBR Registry Number: 012-9971)
 
@@ -367,7 +358,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Environmental Programs Annual Update
 
 That, on the recommendation of the
@@ -399,7 +389,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;PUBLIC SUBMISSION
   -  London Transit Commission - Buses Off Dundas Street - Update
 
 That the communication dated April 13, 2017,
@@ -423,7 +412,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;4th Report of the
   Transportation Advisory Committee
 
 That the following actions be taken with
@@ -457,7 +445,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That

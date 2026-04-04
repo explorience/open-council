@@ -12,17 +12,14 @@ January 21, 2013, at  4:00 PM
 > [!abstract]- Also Present:
 > B. Armstrong, B. Polhill; J. Braam, A. Dunbar, A. Henry, G. Kotsifas, B. Kricher, S. Maguire, D. Simpson, E. Soldo, M. Turner
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED
   that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;1st Report of the
   Advisory Committee on the Environment
 
 Recommendation:  That the 1st Report of the
   Advisory Committee on the Environment, from its meeting held on January 9,
   2013,  BE RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;Trowbridge Avenue
   Parking Passes
 
 Recommendation:  That, on the
@@ -32,7 +29,6 @@ Recommendation:  That, on the
   being noted that the Council approved user fees being applied if the program
   is supported by the property owners.
 
-# 4.&nbsp;&nbsp;&nbsp;2013 Major
   Infrastructure Construction Program
 
 Recommendation:  That, on the recommendation
@@ -40,7 +36,6 @@ Recommendation:  That, on the recommendation
   with respect to the 2013 Major Infrastructure Construction Program BE
   RECEIVED.
 
-# 5.&nbsp;&nbsp;&nbsp;Veterans Memorial
   Parkway Noise Study
 
 Recommendation:  That, on the
@@ -48,7 +43,6 @@ Recommendation:  That, on the
   January 21, 2013 with respect to the Veterans Memorial Parkway Noise Study BE
   RECEIVED.
 
-# 6.&nbsp;&nbsp;&nbsp;Reflective Marking Material
   Single Source SS13-02
 
 Recommendation:  That, on the
@@ -76,7 +70,6 @@ d)          approval
   formal contract or having a purchase order relating to the subject matter of
   this approval.
 
-# 7.&nbsp;&nbsp;&nbsp;Supply And Installation
   of Sewer Liners - Cured in Place Pipe (CIPP) (Tender 13-03)
 
 Recommendation:  That, on the
@@ -106,7 +99,6 @@ d)         the
   into formal contract or issuing purchase orders or contract record relating
   to these matters of this approval.
 
-# 8.&nbsp;&nbsp;&nbsp;Amendments to the
   Traffic and Parking By-law
 
 Recommendation:  That, on the
@@ -116,7 +108,6 @@ Recommendation:  That, on the
   January 29, 2013 for the purpose of amending the Traffic and Parking By-law
   (P.S. 111).
 
-# 9.&nbsp;&nbsp;&nbsp;Service Level
   Agreement Amendment with London Hydro for Water Meter Reading and Water and
   Sewer Billing
 
@@ -128,7 +119,6 @@ Recommendation:  That, on the
   collection, and customer service of the City’s water and sewer accounts by
   London Hydro Inc.
 
-# 10.&nbsp;&nbsp;&nbsp;Ontario Power Generation
   Deep Geological Repository
 
 Recommendation:  That, on the
@@ -159,7 +149,6 @@ it being noted that the Civic Works
   Committee asked the Civic Administration to report back at a future meeting
   with respect to this matter.
 
-# 11.&nbsp;&nbsp;&nbsp;Rental of General
   Equipment with Operators (Tender 13-06)
 
 Recommendation:  That, on the
@@ -184,7 +173,6 @@ c)         approval
 it being noted that funding has been
   included in the 2013 Operating and Capital Budgets.
 
-# 12.&nbsp;&nbsp;&nbsp;Southern Ontario
   Water Consortium - London Wastewater Facility
 
 Recommendation:  That, on the
@@ -220,7 +208,6 @@ c)         the
   Facility BE APPROVED as set out in the Sources of Financing Report, as
   appended to the staff report dated January 21,2013.
 
-# 13.&nbsp;&nbsp;&nbsp;Tile Drain Loan - 731615
   Ontario Limited
 
 Recommendation:  That, on the
@@ -239,7 +226,6 @@ b)         the
   subject to the funding and approval of the loan being received from the
   Province of Ontario.
 
-# 14.&nbsp;&nbsp;&nbsp;Commemorative
   Street Naming Policy
 
 Recommendation:  That, on the recommendation

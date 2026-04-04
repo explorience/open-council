@@ -12,13 +12,11 @@ May 24, 2017, at  4:00 PM
 > [!abstract]- Also Present:
 > J. Helmer, J. Morgan, M. van Holst; J. Archer, D. Baxter, J. Carter, R. Craven, S. Datars Bere, P. D’Hollander, T. Fowler, O. Katolyk, J. Kobarda, T. Kyle, L. Livingstone, L. Marshall, D. Mounteer, K. Oldham, M. Ribera, W. Roberts, C. Saunders, C. Smith, J. Smout, B. Westlake-Power
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;5th Report of the
   London Housing Advisory Committee
 
 That it BE NOTED that the 5th Report of the
@@ -41,7 +39,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Healthy Kids Community Challenge - Update
 
 That, on the recommendation of the Managing
@@ -66,7 +63,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Council Policy for  Publicly  Releasing  Enforcement Information
 
 That, on the recommendation of the Fire
@@ -90,7 +86,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;STAFF REPORT - 38
   Berkshire Court  -  Naturalized Area
 
 That, on the recommendation of the
@@ -115,7 +110,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   2014-2017 Multi-Sector Service Accountability Agreement - Dearness Home Adult
   Day Program and the South West Local Health Integration Network - Declaration
   of Compliance - April 1, 2016- March 31, 2017
@@ -146,7 +140,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Dearness Home: Dietary Software Upgrade -  Synergy on Demand
 
 That, on the recommendation of the
@@ -198,7 +191,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;London's Child and
   Youth Agenda: 2017-2021
 
 That, on the recommendation of the Managing
@@ -243,7 +235,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;London
   Strengthening Neighbourhoods Strategy 2017-2020
 
 That, on the recommendation of the Managing
@@ -319,7 +310,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Business Licensing
   By-law Review – Food Premises,  Refreshment Vehicles and Automotive Service
   Establishments
 
@@ -400,7 +390,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;COUNCILLOR
   SUBMISSION - Parking Enforcement - Privately-Owned Parking Lots
 
 That the Civic Administration BE DIRECTED
@@ -426,7 +415,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;5th Report of the
   Diversity, Inclusion & Anti-Oppression Advisory Committee
 
 That the following actions be taken with
@@ -455,7 +443,6 @@ Motion Passed
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;2nd Report of the
   Childcare Advisory Committee
 
 That the following actions be taken with
@@ -486,7 +473,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;5th Report of the
   Animal Welfare Advisory Committee
 
 That the following actions be taken with
@@ -522,7 +508,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;4th Report of the
   Accessibility Advisory Committee
 
 That the following actions be taken with
@@ -567,7 +552,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;2nd Report of the
   Town and Gown Committee
 
 That the following actions be taken with
@@ -617,7 +601,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Museum London Endowment Funds Transfer Request
 
 That, on the recommendation of the City
@@ -651,7 +634,6 @@ Motion
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Request for Renaming Carfrae Park West to Charles Hunt Park
 
 That, on the recommendation of the Civic
@@ -674,7 +656,6 @@ Motion
 
 ****
 
-# 19.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   London Optimist Sports Centre BMO Centre 295 Rectory Street - Grant Agreement
 
 That, on the recommendation of the City
@@ -708,7 +689,6 @@ Motion
 
 ****
 
-# 20.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the May 2017 Deferred Matters List for

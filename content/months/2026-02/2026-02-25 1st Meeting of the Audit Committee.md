@@ -25,7 +25,6 @@ February 25, 2026, at 12:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Call to Order
 
 ## 1.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
@@ -43,15 +42,12 @@ That Councillor S. Stevenson BE APPOINTED Vice Chair for the term ending Novembe
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Request for Proposals for Internal Audit Services
 
@@ -211,15 +207,12 @@ That the communication dated February 25, 2026 from MNP with respect to the Hous
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 None.
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by S. Stevenson
 

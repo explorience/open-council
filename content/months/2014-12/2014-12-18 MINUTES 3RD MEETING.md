@@ -18,7 +18,6 @@ December 18, 2014, at  5:30 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 5:30 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 Councillor P. Hubert discloses a pecuniary
@@ -52,21 +51,16 @@ Councillor J. Zaifman disclosed a pecuniary
   Works Committee, having to do with the Wickerson Stormwater Management
   Facility, by indicating that his family has an interest in the matter.
 
-# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
-# IV.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That
   it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Strategic Plan
 
 That the following actions be taken with
   respect to the development of the Municipal Council’s Strategic Plan for 2015
@@ -92,12 +86,10 @@ it being noted that the Civic
   further noted that the SPPC received the attached presentation
   with respect to this matter.
 
-# V.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
 MOTION FOR IN CAMERA SESSION
 
-# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE SECOND MEETING HELD ON DECEMBER 9, 2014
 
 > Moved by Councillor P. Squire
@@ -134,13 +126,10 @@ Motion Passed
 
 ****
 
-# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
-# VIII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# IX.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor M. Cassidy
 
@@ -148,7 +137,6 @@ Approve clauses 1 to 17, excluding clauses 11, 14 and 16.
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Orchestra London
 
 That, on the recommendation of the Managing
   Director, Corporate Services and City Treasurer, Chief Financial Officer, the
@@ -190,7 +178,6 @@ f)         the
   communication from Joseph R. O’Neill, Chair Orchestra London Canada Inc.
   dated, December 15, 2014 BE RECEIVED for information.
 
-# 4.&nbsp;&nbsp;&nbsp;Request for
   Appointment to LTC Long-Term Growth Report Working Group
 
 That Councillor H.L. Usher BE APPOINTED to
@@ -264,7 +251,6 @@ Motion Passed
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Quarterly Report on
   Internal Audit Results - Engineering and Environmental Services: Solid Waste
   (Garbage) Collection and Recycling Process Review
 
@@ -312,19 +298,16 @@ Approve clauses 1 - 4, excluding part a) of clause 2.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Orientation
 
 That the attached orientation
   information, as presented by the Managing Director, Corporate Services and
   City Treasurer, Chief Financial Officer, BE RECEIVED.
 
-# 7.&nbsp;&nbsp;&nbsp;City Website
 
 That the Civic Administration BE DIRECTED
   to investigate options for the Audit Committee, to make the public internal
   audit reports more visible and readily accessible on the City website.
 
-# 8.&nbsp;&nbsp;&nbsp;Meeting Time
 
 That the Audit Committee meeting time BE
   CHANGED to a 4:00 PM start time; it being noted that additional amendments to
@@ -332,7 +315,6 @@ That the Audit Committee meeting time BE
   further noted that the Chair advised that an additional meeting (April 2015)
   may be required.
 
-# 9.&nbsp;&nbsp;&nbsp;2013 Emergency
   Management Program Update
 
 That, on the recommendation of the Managing
@@ -363,7 +345,6 @@ it being noted that the Civic
   not incorporated in the above-noted report, as well as additional proposed
   guidelines for Councillors and the new role of the Deputy Mayors.  (2014-P03)
 
-# 10.&nbsp;&nbsp;&nbsp;Single Source
   Procurement of Lifesaving and Literature
 
 That, on the recommendation of the Managing
@@ -386,7 +367,6 @@ c)         the
   formal contract or having a purchase order, or contract record relating to
   the subject matter of this approval.  (2014-F17)
 
-# 12.&nbsp;&nbsp;&nbsp;Orientation
 
 That the following orientation
   presentations, with respect to key committee matters, BE RECEIVED for
@@ -423,7 +403,6 @@ Approve clauses 1 to 8, excluding clause 5.
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Property located on
   a portion of 530 Sunningdale Road East (Lot 99, 39T-05510) (Z-8429)
 
 That, on the recommendation of the Senior
@@ -474,7 +453,6 @@ Approve clauses 1 to 12, inclusive.
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Property located at
   711 Oxford Street West (Z-8414)
 
 That, on the recommendation of the Managing
@@ -492,7 +470,6 @@ it being further pointed out that there
   were no oral submissions made at the public participation meeting associated
   with this matter.   (2014-D14)
 
-# 17.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Environmental and Ecological Planning Advisory Committee
   (Requires up to 5 Members at Large)
 
@@ -538,7 +515,6 @@ Motion Passed
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Properties located
   at 300 Colborne Street and 405-411 Bathurst Street (Z-8411)
 
 That, on the recommendation of the Managing
@@ -555,7 +531,6 @@ it being further pointed out that there
   were no oral submissions made at the public participation meeting associated
   with this matter.   (2014-D14)
 
-# 16.&nbsp;&nbsp;&nbsp;Property located on
   a portion of 120 Gideon Drive (OZ-8365)
 
 That, the application of Johnston Brothers
@@ -578,7 +553,6 @@ it being pointed out that at the public
   on the attached public participation meeting record made oral
   submissions in connection therewith.  (2014-D14)
 
-# 11.&nbsp;&nbsp;&nbsp;Ontario's Volunteer
   Recognition Programs for 2015
 
 That the communication dated November 2014,
@@ -586,15 +560,11 @@ That the communication dated November 2014,
   with respect to the Ontario's Volunteer Recognition Programs for 2015, BE
   RECEIVED. (2014-M11/C06)
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -900,7 +870,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

@@ -15,7 +15,6 @@ October 13, 2015
 The Council meets in Regular Session in the
   Council Chambers this day at 4:02 p.m.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 Councillor J. Helmer discloses a pecuniary
@@ -25,15 +24,11 @@ Councillor J. Helmer discloses a pecuniary
   the City providing public notice via Canada Post, by indicating that his
   spouse is employed by Canada Post.
 
-# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
-# IV.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that Councillor J. Helmer
@@ -43,7 +38,6 @@ That it BE NOTED that Councillor J. Helmer
   public notice via Canada Post, by indicating that his spouse is employed by
   Canada Post.
 
-# V.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
 MOTION FOR IN CAMERA SESSION
@@ -86,7 +80,6 @@ Motion Passed
 
 ****
 
-# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE TWENTY-SIXTH MEETING HELD ON SEPTEMBER 29,
   2015
 
@@ -124,13 +117,10 @@ Motion Passed
 
 ****
 
-# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
-# VIII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# IX.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor H.L. Usher
 
@@ -138,7 +128,6 @@ Approve clauses 1 to 16, excluding clauses 6, 8 and 11.
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Amendment to
   Council Policy 28(2) Council Members' Expense Account (Related to Bill
   No.344)
 
@@ -190,7 +179,6 @@ Motion Passed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Review of Municipal
   Act, 2001 and Municipal Conflict of Interest Act
 
 That, on the recommendation of the Director
@@ -296,7 +284,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Request for
   Proposal 15-21 - General Insurance Program
 
 That, on the recommendation of the Manager
@@ -318,7 +305,6 @@ c)         the
   approval hereby given BE CONDITIONAL upon the Corporation entering into a
   formal contract or issuing a purchase order relating to RFP15-21.
 
-# 5.&nbsp;&nbsp;&nbsp;Report of the
   Federation of Canadian Municipalities Board of Directors Meeting -
   Fredericton, NB, September 9-12, 2015
 
@@ -328,7 +314,6 @@ That, the communication dated September 22,
   Directors meeting held on September 9-12, 2015 in Fredericton, New Brunswick
   BE RECEIVED for information.
 
-# 7.&nbsp;&nbsp;&nbsp;Confirmation of
   Appointment to the Community Safety and Crime Prevention Advisory Committee
 
 That Muriel Abbott BE APPOINTED to the
@@ -336,7 +321,6 @@ That Muriel Abbott BE APPOINTED to the
   representing Child Safety Middlesex London, for the term ending February 28,
   2019.
 
-# 9.&nbsp;&nbsp;&nbsp;2015 Federal
   Election Questionnaire
 
 That, on the recommendation of the
@@ -344,7 +328,6 @@ That, on the recommendation of the
   6, 2015, with respect to the 2015 Federal Election questionnaire, BE RECEIVED
   for information.
 
-# 10.&nbsp;&nbsp;&nbsp;Review of the
   Community Facility Zone (Z-8479) (Related to Bill No. 352)
 
 That, on the recommendation of the Managing
@@ -361,7 +344,6 @@ it being pointed out that no individuals
   spoke at the public participation meeting associated with this matter.  
   (2015-D09)
 
-# 12.&nbsp;&nbsp;&nbsp;Planning Services
   Two Year Work Program
 
 That the following actions be taken with
@@ -379,7 +361,6 @@ it being noted that the Planning and
   Environment Committee reviewed and received a communication dated October 2,
   2015, from S. Levin, et. al., with respect to this matter.    (2015-D02)
 
-# 13.&nbsp;&nbsp;&nbsp;Kindness Meters
 
 That the Kindness Meter Project BE APPROVED
   IN PRINCIPLE and the Civic Administration BE REQUESTED to consult with L.
@@ -387,7 +368,6 @@ That the Kindness Meter Project BE APPROVED
   noted that the Civic Works Committee received a communication, as well as a
   verbal delegation, from L. McCardle, with respect to this matter.
 
-# 14.&nbsp;&nbsp;&nbsp;Winter Maintenance
   for Un-assumed Subdivisions
 
 That, on the recommendation of the Managing
@@ -411,7 +391,6 @@ c)         the
   Civic Administration BE AUTHORIZED to undertake all additional administrative
   acts necessary to effect these recommendations.  (2015-T06)
 
-# 15.&nbsp;&nbsp;&nbsp;Individual
   Environmental Assessment - Long Term Solid Waste Resource Recovery and
   Disposal Plan
 
@@ -428,7 +407,6 @@ b)         the
   Civic Administration BE AUTHORIZED to undertake all the administrative acts
   that are necessary in connection with this matter.  (2015-E20)
 
-# 16.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the Civic Works Committee (CWC)
@@ -436,14 +414,12 @@ That the Civic Works Committee (CWC)
   that the Civic Administration will review the “Expected Reply Dates” to
   ensure they remain relevant.
 
-# 6.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Accessibility Advisory Committee
 
 That Jon Higgins BE APPOINTED to the
   Accessibility Advisory Committee as a Voting Member for the term ending
   February 28, 2019.
 
-# 8.&nbsp;&nbsp;&nbsp;Corporate Services
   Committee Deferred Matters List
 
 That the following actions be taken with
@@ -466,7 +442,6 @@ b)         the
   Deferred Matters List BE PLACED on the Corporate Services Committee’s Agenda
   on a quarterly basis.
 
-# 11.&nbsp;&nbsp;&nbsp;Properties located
   at 598, 600, 604 and 608 Springbank Drive (Z-8374) (Related to Bill No. 353)
 
 That, on the recommendation of the Managing
@@ -558,15 +533,11 @@ Motion Passed
 
 ****
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND THIRD
   TIME:
@@ -865,7 +836,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

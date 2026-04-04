@@ -17,11 +17,9 @@ June 11, 2025, at 10:00 AM
 
 The meeting is called to order at 10:01 AM; it being noted that Deputy Mayor S. Lewis and Councillors P. Van Meerbergen, D. Ferreira, and S. Hillier; were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;2026 Annual Budget Update - Next Steps
 
@@ -56,11 +54,9 @@ That, on the recommendation of the Deputy City Manager, Finance Supports, the re
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 > Moved by C. Rahman
 
@@ -582,15 +578,12 @@ That it BE NOTED that the Budget Committee received a communication and presenta
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential 
 
 None.
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by S. Franke
 

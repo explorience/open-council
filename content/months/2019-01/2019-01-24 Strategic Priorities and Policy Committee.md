@@ -17,7 +17,6 @@ January 24, 2019, at 10:00 AM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Councillor S. Turner discloses a pecuniary interest with respect to any matter specific to EarlyON funding by indicating that his spouse is an employee of Childreach. Councillor S. Turner further discloses a pecuniary interest with respect to any matter specific to the Middlesex London Health Unit (MLHU), by indicating that the MLHU is his employer
 
@@ -29,7 +28,6 @@ Councillor A. Hopkins discloses a pecuniary interest in matters that may specifi
 
 Councillor S. Lehman discloses a pecuniary interest the discussion specific to proposed new Business Improvement Area (BIA) funds, by indicating that he is a member of the Downtown BIA.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;2019 Annual Budget Update - Public Engagement
 
@@ -66,7 +64,6 @@ b)            the verbal update from Councillor J. Morgan and the Ma
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Budget Overview
 
@@ -98,7 +95,6 @@ That the attached budget presentation from the Managing Director, Corporate Serv
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Review of Operating Budget Amendments (rounded to the closest $1,000)
 

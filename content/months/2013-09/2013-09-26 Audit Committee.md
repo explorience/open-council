@@ -12,12 +12,10 @@ September 26, 2013, at  4:03 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, G. Belch, N. Dowhonick (PwC), P. Foto, S. Gilfillan (PwC), M. Hayward, J. Logan, V. McAlea Major, J. Morgan (Chair, London Public Library Board), K. Owen, A. Prince, C. Shah (PwC), S. Swance, M. Turner
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Recommendation: That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Municipal
   Performance Measurement Program (MPMP) - Three Year Comparative Values 2010 -
   2012
 
@@ -33,7 +31,6 @@ b)    
       the Civic Administration BE DIRECTED to provide additional background             information
   in future reports with respect to the data provided.
 
-# 3.&nbsp;&nbsp;&nbsp;Potential
   Amendments to the 2013 Risk-Based Audit Plan and Scoping for 2014 Risk-Based
   Audit Plan
 
@@ -50,7 +47,6 @@ b)         the
   proposed 2013 Risk-Based Audit Plan and scoping for the 2014 Risk-            Based
   Audit Plan BE APPROVED.
 
-# 4.&nbsp;&nbsp;&nbsp;Quarterly Report on
   Internal Audit Results - Corporate Services - Finance: Facilities and
   Property Utilization and Corporate Services - Finance: Property Tax
   Assessments and Collections
@@ -82,7 +78,6 @@ e)         PricewaterhouseCoopers
   (PwC) BE REQUESTED to provide an update regarding the review of Information
   Technology governance and risk at the next meeting of the Audit Committee.
 
-# 5.&nbsp;&nbsp;&nbsp;Retention of
   Outside Consulting Services
 
 Recommendation:  That PriceWaterhouseCoopers
@@ -102,7 +97,6 @@ b)         opportunities
   to strengthen accountability and transparency with respect to the process
   followed to retain external consultants.
 
-# 6.&nbsp;&nbsp;&nbsp;PricewaterhouseCoopers
   LLP (PwC) Audit Services - Revenue
 
 Recommendation:  That the letter dated

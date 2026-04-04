@@ -17,11 +17,9 @@ February 6, 2024, at  1:00 PM
 
 The meeting is called to order at 1:00 PM; it being noted that Councillors S. Franke, P. Van Meerbergen and S. Hillier were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by P. Cuddy
 
@@ -263,15 +261,12 @@ it being noted that the Strategic Priorities and Policy received a communication
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
@@ -313,11 +308,9 @@ c)   that the communication on the Added Agenda, from Mayor Morgan, Councillor
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 None.
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by D. Ferreira
 

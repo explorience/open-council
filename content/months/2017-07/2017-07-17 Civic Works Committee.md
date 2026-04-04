@@ -15,7 +15,6 @@ July 17, 2017, at 12:01 PM
 > [!abstract]- Also Present:
 > J. Helmer, T. Park, S. Turner, H. L. Usher, J. Zaifman; T. Copeland, A. Drost, A. Dunbar, A. Macpherson, D. MacRae, S. Maguire, S. Mathers, C. McIntosh, K. Oudekerk, M. Ribera, L. Rowe, K. Scherr, E. Soldo, J. Stanford
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that Councillor V. Ridley
@@ -23,7 +22,6 @@ That it BE NOTED that Councillor V. Ridley
   Ontario Power Generation's Proposed Nuclear Waste Repository by indicating
   that she owns property in the area.
 
-# 2.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Amendments to the Traffic and Parking By-law
 
 That, on the recommendation of the Managing
@@ -67,7 +65,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Legal Limit Transfer - Wonderland Road South and Colonel Talbot Road
 
 That, on the recommendation of the Managing
@@ -111,7 +108,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Sunningdale Road Improvements Detailed Design and Tendering Appointment of
   Consulting Engineer
 
@@ -159,7 +155,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Appointment of Consulting Engineers Infrastructure Renewal Program 2017-2019
 
 That, on the recommendation of the Managing
@@ -294,7 +289,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Appointment of Consulting Engineer for Various Technical Studies as Part of
   the Environmental Assessment Process for the Proposed Expansion of the W12A
   Landfill Site
@@ -371,7 +365,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Downsizing Water Meters
 
 That the matter of downsizing water meters
@@ -395,7 +388,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Appointment of Consulting Engineers Growth Management Implementation Strategy
   Southwest Sanitary Servicing Projects
 
@@ -456,7 +448,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;STAFF REPORT - High
   Speed Rail
 
 That, on the recommendation of the Managing
@@ -500,7 +491,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Appointment of Consulting Engineer - Design and Construction Administration
   Services – Pottersburg - Vauxhall Wastewater Treatment Plants Interconnection
   Project
@@ -551,7 +541,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Comments on Environmental Bill of Rights Registry – Discussion Paper:
   Addressing Food and Organic Waste in Ontario
 
@@ -579,7 +568,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Water and Erosion Control Infrastructure (WECI) Program: 2017 Provincially-Approved
   Project Funding (Sole Sourced)
 
@@ -653,7 +641,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Shift Rapid Transit Additional Engineering and Legal Survey
 
 That, on the recommendation of the Managing
@@ -698,7 +685,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;STAFF REPORT - 2017 
   Ontario Municipal Commuter Cycling (OMCC) Program
 
 That, on the recommendation of the Managing
@@ -745,7 +731,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;7th Report of the
   Transportation Advisory Committee
 
 That the 7th Report of the Transportation
@@ -767,7 +752,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;2nd Report of the
   Waste Management Working Group
 
 That the 2nd Report of the Waste Management
@@ -789,7 +773,6 @@ Motion
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;7th Report of the
   Cycling Advisory Committee
 
 That the 7th Report of the Cycling Advisory
@@ -811,7 +794,6 @@ Motion
 
 ****
 
-# 19.&nbsp;&nbsp;&nbsp;COUNCILLOR
   SUBMISSION - J. Zaifman - Hydro One Beautification Fund
 
 That the Civic Administration BE REQUESTED
@@ -834,7 +816,6 @@ Motion
 
 ****
 
-# 20.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the Civic Works Committee Deferred
@@ -855,7 +836,6 @@ Motion
 
 ****
 
-# 21.&nbsp;&nbsp;&nbsp;(ADDED) – COUNCIL
   MEMBER SUBMISSION – Deferral of Tree Cutting on Trowbridge Avenue
 
 That NO ACTION BE TAKEN at this time to
@@ -881,7 +861,6 @@ Motion
 
 ****
 
-# 22.&nbsp;&nbsp;&nbsp;(ADDED) PUBLIC
   SUBMISSION - F. Fernandez - Ontario Power Generation's Proposed Nuclear Waste
   Repository
 
@@ -906,7 +885,6 @@ Motion
 
 ****
 
-# 23.&nbsp;&nbsp;&nbsp;(ADDED) COUNCILLOR SUBMISSION -  B.
   Armstrong
 
 That it BE NOTED that Councillor B. Armstrong

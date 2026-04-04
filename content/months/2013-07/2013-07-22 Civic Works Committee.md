@@ -12,7 +12,6 @@ July 22, 2013, at  4:04 PM
 > [!abstract]- Also Present:
 > J. Barber, J. Braam, T. Copeland, A. Dunbar, K. Grabowski, B. Haklander, J. Jackson, G. Kotsifas, B. Krichker, S. Maguire, J. Page, A. Rammeloo, L. Rowe, R. Sharpe, E. Soldo, J. Stanford
 
-# 2.&nbsp;&nbsp;&nbsp;Ontario's Safe
   Drinking Water Act, 2002 Standards of Care Provision
 
 Recommendation:  That the following actions
@@ -36,7 +35,6 @@ c)           
   2002 Standards of Care Provision, including the attached  document
   entitled “Safe Drinking Water and Standard of Care”, BE RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;Supply and Delivery
   of Crew Cab and Chassis (Tender 13-61)
 
 Recommendation:  That, on the
@@ -62,7 +60,6 @@ d)         the
   formal contract or issuing a purchase order relating to the subject matter of
   this approval.   (2013-L04)
 
-# 4.&nbsp;&nbsp;&nbsp;Supply and Delivery
   of Platform Type Dump Bodies (Tender 13-62)
 
 Recommendation:  That, on the
@@ -87,7 +84,6 @@ d)         approvals
   contract or issuing a purchase order relating to the subject matter of this
   approval.  (2013-L04)
 
-# 5.&nbsp;&nbsp;&nbsp;Gordon Sanitary
   Trunk Sewer Rehabilitation Project No. ES2473 - Irregular Result  (RFP No.
   13-21)
 
@@ -126,7 +122,6 @@ e)         the
   formal contract or issuing a purchase order for the material to be supplied
   and the work to be done with respect to these projects.  (2013-A05)
 
-# 6.&nbsp;&nbsp;&nbsp;Highway
   401/Highbury Avenue Interchange Reconstruction - Land Transfer Between the
   City of London and the Ministry of Transportation.
 
@@ -148,7 +143,6 @@ b)         the
   to the needs of the City and BE TRANSFERRED to the Ministry of
   Transportation.  (2013-L07)
 
-# 7.&nbsp;&nbsp;&nbsp;Amendments to the
   Traffic and Parking By-law
 
 Recommendation:  That, on the recommendation
@@ -157,7 +151,6 @@ Recommendation:  That, on the recommendation
   2013 BE INTRODUCED at the Municipal Council meeting to be held on July 30,
   2013 for the purpose of amending the Traffic and Parking By-law (P.S. 111).  (2013-C01)
 
-# 8.&nbsp;&nbsp;&nbsp;Amendments to the
   Traffic and Parking By-law to Address Safety Issues During the Western Fair
 
 Recommendation:  That, on the
@@ -167,7 +160,6 @@ Recommendation:  That, on the
   be held on July 30, 2013 for the purpose of amending the Traffic and Parking
   By-law (P.S. 111) to address safety concerns during the Western Fair. (2013-C01)
 
-# 9.&nbsp;&nbsp;&nbsp;Wilton Avenue and
   Oakland Avenue Watermain Emergency Improvements (EW3563-13)
 
 Recommendation:  That, on the
@@ -198,7 +190,6 @@ d)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations.   (2013-E08)
 
-# 10.&nbsp;&nbsp;&nbsp;Appointment of
   Consulting Engineer for the Contract Administration Services of the Old
   Victoria SWM Facility No. 2 (ES3020-OV2)
 
@@ -229,7 +220,6 @@ d)          the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations.
 
-# 11.&nbsp;&nbsp;&nbsp;Appointment of
   Consulting Engineer for the Functional Design for the Wickerson No. S-B SWM
   Facility (ESSWM-SB)
 
@@ -259,7 +249,6 @@ d)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations.   (2013-A05)
 
-# 12.&nbsp;&nbsp;&nbsp;Reprioritization of
   Growth Management Implementation Strategy (GMIS) Transportation Projects
 
 Recommendation:  That, on the
@@ -286,7 +275,6 @@ d)         a
   as set out in the Sources of Financing Report appended to the staff report
   dated July 22, 2013.  (2013-E02)
 
-# 13.&nbsp;&nbsp;&nbsp;Gore Road Bridge
   Replacement Municipal Class Environmental Assessment
 
 Recommendation:  That, on the
@@ -305,7 +293,6 @@ c)         the
   Gore Road Bridge Replacement Municipal Class Environmental Assessment Project
   File BE PLACED on public record for a 30 day review period.  (2013-T04)
 
-# 14.&nbsp;&nbsp;&nbsp;Status Report:
   Update of Road Map to Maximize Waste Diversion 2.0.
 
 Recommendation:  That, on the
@@ -315,7 +302,6 @@ Recommendation:  That, on the
   sale of these materials will offset most or all of the recycling costs. 
   (2013-E07)
 
-# 15.&nbsp;&nbsp;&nbsp;Packaging and
   Removal of Waste Electrical and Electronic Equipment from City of London
   Depots ( RFP13-15)
 
@@ -346,7 +332,6 @@ d)         approval
   contract or having a purchase order relating to the subject matter of this
   approval.  (2013-L04B)
 
-# 16.&nbsp;&nbsp;&nbsp;Update - Key Energy
   Stakeholder Engagement - Community Energy Action Plan
 
 Recommendation:  That, on the
@@ -354,7 +339,6 @@ Recommendation:  That, on the
   report dated July 22, 2013 with respect to the Key Energy Stakeholder
   Engagement – Community Energy Action Plan BE RECEIVED.  (2013-E19)
 
-# 17.&nbsp;&nbsp;&nbsp;Municipal Class
   Environmental Assessment Schedule 'B' Study for Pottersburg Creek Slope
   Stability South of Hamilton Road Bridge
 
@@ -395,7 +379,6 @@ it being pointed out that at the public
   emergency exits and suggesting that option #4 is in the best interest of the residents. 
   (2013-E20)
 
-# 18.&nbsp;&nbsp;&nbsp;Residential Parking
   Pass Program
 
 Recommendation:  That the Civic
@@ -405,7 +388,6 @@ Recommendation:  That the Civic
   initial pilot program area for the Residential Parking Pass Program. 
   (2013-T02)
 
-# 19.&nbsp;&nbsp;&nbsp;Sidewalk Repair
   Program
 
 Recommendation:  That the communication
@@ -413,7 +395,6 @@ Recommendation:  That the communication
   Repair Program, BE REFERRED to staff for a report back to the Civic Works
   Committee. (2013-t04)
 
-# 20.&nbsp;&nbsp;&nbsp;Highway 401/Colonel
   Talbot Intersection
 
 Recommendation:  That the communication
@@ -422,7 +403,6 @@ Recommendation:  That the communication
   Road BE REFERRED back to staff for a report back to the Civic Works
   Committee. (2013-T09)
 
-# 21.&nbsp;&nbsp;&nbsp;Increased Time on
   Wellington Street Parking Meters - St. Joseph's Hospital
 
 Recommendation:  That the communication
@@ -432,7 +412,6 @@ Recommendation:  That the communication
   report back to the Civic Works Committee to consider alternative solutions.
   (2013-T02)
 
-# 22.&nbsp;&nbsp;&nbsp;CN/CP Rail Safety
 
 Recommendation:  That the matter of railway
   safety BE BROUGHT forward to a future meeting of the appropriate Standing

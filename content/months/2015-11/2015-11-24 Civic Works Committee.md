@@ -15,7 +15,6 @@ November 24, 2015, at 11:41 AM
 > [!abstract]- Also Present:
 > J. Barber, G. Belch, J. Braam, T. Corbett (Advocates LLP), A. Henry, J. Lucas, P. Lupton, L. Rowe, R. Welker
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary

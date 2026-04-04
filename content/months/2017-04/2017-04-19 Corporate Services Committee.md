@@ -12,13 +12,11 @@ April 19, 2017, at  1:04 PM
 > [!abstract]- Also Present:
 > Kate Young, M.P, London West, Peter Fragiskatos, M.P, London North Centre, Irene Mathyssen, M.P, London-Fanshawe, Karen Vecchio, M.P, Elgin-Middlesex-London;  B. Armstrong, M. Cassidy, S. Turner, M. van Holst; L. Livingstone, A.L. Barbon, K. Graham, M. Marcellin, S. Spring, A. Thompson
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That
   it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Meeting with the Local
   Members of Parliament
 
 That it BE NOTED that the Corporate

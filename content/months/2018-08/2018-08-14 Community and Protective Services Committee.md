@@ -14,11 +14,9 @@ August 14, 2018, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;Age Friendly London Progress Report 2018
 
@@ -43,7 +41,6 @@ That it BE NOTED that the staff report dated August 14, 2018, with respect to th
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;London and Middlesex Housing Corporation Board of Directors 
 
@@ -250,7 +247,6 @@ c)            clauses 1.1, 3.1, 3.2, 4.1 and 5.1, BE RECEIVED.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;7th Report of the London Housing Advisory Committee
 
@@ -293,7 +289,6 @@ f)             clauses 1.1, 2.1, 3.1 to 3.4, 6.1 and 6.4, BE RECEIVE
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -353,7 +348,6 @@ b)            the remainder of the above-noted correspondence BE REFE
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 5:16 PM.
 

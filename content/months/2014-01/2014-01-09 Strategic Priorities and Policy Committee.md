@@ -15,7 +15,6 @@ January 9, 2014, at  4:10 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, A.L. Barbon, J. Braam, I. Collins, B. Coxhead, S. Datars Bere, J.M. Fleming, M. Hayward, G.T. Hopcroft, G. Kotsifas, L. Livingstone, V. McAlea Major, L. Palarchio, M. Ribera, C. Saunders, J. Senese, B. Westlake-Power
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that the
@@ -36,7 +35,6 @@ c)         Councillor
   Centennial Hall and Orchestra London by indicating that his employer is
   Orchestra London.
 
-# 2.&nbsp;&nbsp;&nbsp;2014 Tax-Supported
   Budget - General Overview
 
 Recommendation:      That the following presentations

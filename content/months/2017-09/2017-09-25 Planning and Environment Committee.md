@@ -12,7 +12,6 @@ September 25, 2017, at  4:00 PM
 > [!abstract]- Also Present:
 > M. Brown;  J. Morgan; I. Abushehada, G. Barrett, J.M. Fleming, L. Dent, M. Elmadhoon, S. Galloway, P. Kokkoros, J. Logan, J. MacKay, A. Macpherson, S. Mathers, L. Mottram, M. Pease, L. Pompilii, M. Ribera, C. Saunders, M. Tomazincic, J. Yanchula, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that the following
@@ -32,7 +31,6 @@ b)           
   Street (Colborne Building), by indicating that her family owns a neighbouring
   property.
 
-# 2.&nbsp;&nbsp;&nbsp;STAFF REPORT - Property
   located at 391 South Street (Colborne Building) - Request for Designation
 
 That, on the direction of the Municipal
@@ -71,7 +69,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Subdivision Special Provisions - Hajjar Subdivision (39T-15505)
 
 That, on the recommendation of the Manager,
@@ -124,7 +121,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Subdivision Special Provisions -  Lawson Meadows Subdivision Phase 2  (39T-14501)
 
 That, on the recommendation of the Manager,
@@ -174,7 +170,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Subdivision Special Provisions - Coronation Subdivision (39T-15502)
 
 That, on the recommendation of the Manager,
@@ -220,7 +215,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;STAFF REPORT - Property
   located at 1295 Riverbend Road (H-8784)
 
 That, on the recommendation of the Senior
@@ -251,7 +245,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Application by Speyside East Corporation re property located at 3105 Bostwick
   Road (Talbot Village Phase 5 - 39T-14506) (H-8781)
 
@@ -284,7 +277,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   London Invasive Plant Management Strategy
 
 That, on the recommendation of the Managing
@@ -328,7 +320,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Building Division Monthly Report for July 2017
 
 That the Building Division Monthly Report
@@ -352,7 +343,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Designation of an Improvement Area Under Section 204 of the Municipal Act,
   2001 – Hyde Park BIA
 
@@ -399,7 +389,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;DELEGATION - D.
   Dudek, Chair, London Advisory Committee on Heritage - 11th Report on the
   London Advisory Committee on Heritage
 
@@ -514,7 +503,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Properties located at 1635 Commissioners Road East
   and 2624 Jackson Road - Approval for Draft Plan Subdivisions Official Plan
   and Zoning By-law Amendments and Properties located at 1663, 1685
@@ -808,7 +796,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;STAFF REPORT - 
   Request from Municipality of Middlesex Centre: Arva Sanitary Servicing and
   Delaware Water Servicing
 

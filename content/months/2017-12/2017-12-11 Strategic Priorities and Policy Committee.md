@@ -12,13 +12,11 @@ December 11, 2017, at  4:02 PM
 > [!abstract]- Also Present:
 > M. Hayward, A.L. Barbon, G. Barrett, B. Card, I. Collins, B. Coxhead, S. Datars Bere, A. Hagan, G. Kotsifas, L. Livingstone, M. Marcellin, P. McKague, J. Smout, S. Spring, S. Stafford, B. Warner, R. Wilcox, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Financial and Other
   Resources Required to Host International Plowing Match 2020
 
 That the following actions be taken with
@@ -82,7 +80,6 @@ Motion Failed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Proposed Casino
   Expansion
 
 That the following actions be taken with
@@ -126,7 +123,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;2019 Development
   Charges (DC) Study - Growth Projections
 
 That the following actions be taken with
@@ -187,7 +183,6 @@ Motion Passed
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Appointment to the London
   Police Services Board
 
 That Councillor J. Helmer BE APPOINTED to
@@ -220,7 +215,6 @@ Motion Passed
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;London Convention
   Centre Corporation Board Appointment
 
 That Jennifer Diplock BE APPOINTED to the

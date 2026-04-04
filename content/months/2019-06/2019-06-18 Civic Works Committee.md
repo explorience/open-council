@@ -20,11 +20,9 @@ June 18, 2019, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Lewis
 
@@ -552,11 +550,9 @@ it being further noted that the attached presentation from A. Salton, Manager, 
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;5th Report of the Transportation Advisory Committee
 
@@ -603,7 +599,6 @@ That Civic Administration BE REQUESTED to develop a set of guidelines to evalu
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -626,7 +621,6 @@ That it BE NOTED that the Deferred Matters List as of June 17, 2019, was receive
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 5:48 PM.
 

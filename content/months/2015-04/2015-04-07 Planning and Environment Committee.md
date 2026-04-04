@@ -12,10 +12,8 @@ April 7, 2015, at  4:00 PM
 > [!abstract]- Also Present:
 > A. Hopkins, J. Morgan, V. Ridley, M. Salih, M. van Holst, G. Barrett, J. Braam, P. Christiaans, K. Dawtrey, M. Elmadhoon, J.M. Fleming, S. Galloway, K. Gonyou, T. Grawey, P. Kokkoros, G. Kotsifas, A. MacLean, A. Macpherson, D. Mounteer, C. Parker, J. Ramsay, M. Ribera, C. Saunders, C. Smith, M. Tomazincic, J. Yanchula, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;That
   it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;4th Report of the
   Environmental and Ecological Planning Advisory Committee
 
 That the 4th Report of the Environmental
@@ -39,7 +37,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;3rd Report of the
   Trees and Forests Advisory Committee
 
 That the 3rd Report of the Trees and
@@ -63,7 +60,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;2nd Report of the
   Agricultural Advisory Committee
 
 That the 2nd Report of the Agricultural
@@ -86,7 +82,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Evaluation of
   Community Improvement Plan Incentives
 
 That, on the recommendation of the Managing
@@ -134,7 +129,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Advisory Committee
   on the Environment Recommendations on the Provincial Pollinator Health
   Discussion Paper
 
@@ -161,7 +155,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;"Our Move
   Forward" London's Downtown Plan
 
 That, on the recommendation of the Managing
@@ -203,7 +196,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Building Division
   Monthly Report for February 2015
 
 That the Building Division Monthly Report
@@ -226,7 +218,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Delegation of
   Authority to Consent to or Grant Permits for Alterations to Heritage
   Designated Properties
 
@@ -331,7 +322,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Property located at
   161 Windermere Road
 
 That, on the recommendation of the Senior
@@ -441,7 +431,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Planning and
   Environment Committee Deferred Matters List
 
 That
@@ -483,7 +472,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Possible Amendments to the Tree
   Conservation By-law and Site Alteration By-law
 
 That Planning and Legal Staff BE DIRECTED

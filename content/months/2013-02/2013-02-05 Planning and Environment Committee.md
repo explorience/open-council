@@ -12,10 +12,8 @@ February 5, 2013, at  4:02 PM
 > [!abstract]- Also Present:
 > J.F. Fontana, J.P. Bryant, J. P. Barber, G. Barrett, M. Elmadhoon, J.M. Fleming, T. Grawey, G. Kotsifas, A. Macpherson, D. Menard, L. Mottram, N. Musicco, J. Page, J. Ramsay, R. Sharpe, J. Smout, B. Warner, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;2nd Report of the
   Environmental and Ecological Planning Advisory Committee
 
 Recommendation:  That the following actions
@@ -32,7 +30,6 @@ a)         the
 b)         that clauses 2 to 8, inclusive, of
   the 2nd Report of the EEPAC, BE RECEIVED AND NOTED.
 
-# 3.&nbsp;&nbsp;&nbsp;1st Report of the
   Trees and Forests Advisory Committee
 
 Recommendation:  That the following actions
@@ -80,7 +77,6 @@ c)         that
   clauses 3 to 6, inclusive, of the 1st Report of the TFAC, BE RECEIVED AND
   NOTED.
 
-# 4.&nbsp;&nbsp;&nbsp;Candidate Approval
   for the Urban Design Peer Review Panel
 
 Recommendation:  That, on the
@@ -97,7 +93,6 @@ b)         Tom Tillman – Position of
 c)         Andrew Wilson – Position of
   Landscape Architect.   (2013-C04)
 
-# 5.&nbsp;&nbsp;&nbsp;North Gren Land
   Corp. (Elron) 39T-00515 (33M-475) - 911690 Ontario Ltd. and Pacific &
   Western Bank of Canada (Gren) 39T-03515 (33M-483)
 
@@ -141,13 +136,11 @@ e)         the
   of Financing Report” provided as Appendix “A” to the associated staff report,
   dated February 5, 2013.  (2013-L04)
 
-# 6.&nbsp;&nbsp;&nbsp;Building Division
   Monthly Report for December 2012
 
 Recommendation:  That the Building Division
   Monthly Report for December 2012 BE RECEIVED.   (2013-D00)
 
-# 7.&nbsp;&nbsp;&nbsp;Properties located
   at a portion of 1956 Shore Road and a portion of 1585 Riverbend Road (Z-8113)
 
 Recommendation:  That, on the
@@ -174,7 +167,6 @@ it being pointed out that there were no
   oral submissions made at the public participation meeting associated with
   this matter.   (2013-D14A)
 
-# 8.&nbsp;&nbsp;&nbsp;Properties located
   at 1057, 1059 and 1061 Richmond Street (Z-8106)
 
 Recommendation:  That, notwithstanding the
@@ -358,7 +350,6 @@ it being pointed out that at the public
   where the 10% green space is; advising that there is no green space on the
   owner’s property, it’s all on the City’s property.    (2013-D14A)
 
-# 9.&nbsp;&nbsp;&nbsp;Property located at
   591 Maitland Street
 
 Recommendation:  That, on the
@@ -407,7 +398,6 @@ it being noted that the Planning and
   Chair, London Advisory Committee on Heritage and Don Menard, Heritage
   Planner, with respect to this matter.  (2013-R01)
 
-# 10.&nbsp;&nbsp;&nbsp;Property located at
   9345 Elviage Drive
 
 Recommendation:  That, the Civic

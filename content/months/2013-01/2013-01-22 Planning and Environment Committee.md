@@ -12,17 +12,14 @@ January 22, 2013, at  4:01 PM
 > [!abstract]- Also Present:
 > J.F. Fontana, J.L. Baechler, S. Andrews, A. Bush, M. Elmadhoon, J.M. Fleming, T. Grawey, P. Kokkoros, G. Kotsifas, B. Krichker, J. Leunissen, I. Listar, H. McNeely, D. Menard, J. Page, J. Ramsay, C. Saunders, R. Sharpe, C. Smith, P. Szabo, M. Tomazincic, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED
   that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;1st Report of the
   Environmental and Ecological Planning Advisory Committee
 
 Recommendation:  That the 1st Report of the
   Environmental and Ecological Planning Advisory Committee from its meeting
   held on December 20, 2012, BE RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;City Clerk - 1st
   Report of the Advisory Committee on the Environment
 
 Recommendation:  That the 1st Report of the
@@ -30,7 +27,6 @@ Recommendation:  That the 1st Report of the
   2013, BE WITHDRAWN as it was included on the Civic Works Committee
   Agenda at its meeting held on Monday, January 21, 2013.
 
-# 4.&nbsp;&nbsp;&nbsp;Properties located
   at 8 Fairview Court and 770 Whetter Avenue - Notice of Appeal to the Ontario
   Municipal Board (OZ-8055)
 
@@ -43,7 +39,6 @@ Recommendation:  That, on the
   Municipal Council has reviewed its decision relating to this matter and sees
   no reason to alter it. (2013-D14A)
 
-# 5.&nbsp;&nbsp;&nbsp;Property located at
   260 Sarnia Road - Notice of Appeal to the Ontario Municipal Board (Z-8075)
 
 Recommendation:  That, on the
@@ -56,7 +51,6 @@ Recommendation:  That, on the
   reviewed its decision relating to this matter and sees no reason to alter it.
   (2013-D14A)
 
-# 6.&nbsp;&nbsp;&nbsp;Southwest Area
   Secondary Plan - Notice of Appeal to the Ontario Municipal Board (O-7609)
 
 Recommendation:  That, on the
@@ -83,7 +77,6 @@ c)         the
   reviewed its decision relating to this matter and sees no reason to alter it.
   (2013-D09)
 
-# 7.&nbsp;&nbsp;&nbsp;Million Tree
   Challenge Status Update
 
 Recommendation:  That, on the
@@ -91,7 +84,6 @@ Recommendation:  That, on the
   report, dated January 22, 2013, relating to the status update on the Million
   Tree Challenge, BE RECEIVED. (2013-E04)
 
-# 8.&nbsp;&nbsp;&nbsp;Property located at
   642 Princess Avenue – Notice of Appeal to the Ontario Municipal Board (A.094/12)
 
 Recommendation:  That, on the
@@ -115,7 +107,6 @@ b)           
   Municipal Board Hearing to support the Municipal Council’s decision.
   (2013-D13)
 
-# 9.&nbsp;&nbsp;&nbsp;Property located at
   1647 Fanshawe Park Road East - Ontario Municipal Board Decision
   (39T-10503/Z-7785)
 
@@ -127,7 +118,6 @@ Recommendation:  That, on the
   Limited, c/o Global Vision Investments, concerning the property located at
   1647 Fanshawe Park Road East, BE RECEIVED. (2013-D14A)
 
-# 10.&nbsp;&nbsp;&nbsp;Property located at
   124 St. James Street - Notice
   of Appeal to the Ontario Municipal Board (A.106/12)
 
@@ -149,7 +139,6 @@ b)         the
   and planning representation at the Ontario Municipal Board Hearing to support
   the Committee of Adjustment’s decision. (2013-D13)
 
-# 11.&nbsp;&nbsp;&nbsp;Property located at
   19 Woodgate Court -
 Notice
   of Appeal to the Ontario Municipal Board (A.101/12)
@@ -172,7 +161,6 @@ b)         the
   and planning representation at the Ontario Municipal Board Hearing to support
   the Committee of Adjustment’s decision. (2013-D13)
 
-# 12.&nbsp;&nbsp;&nbsp;Property located at
   65 Heather Place -
 Notice
   of Appeal to the Ontario Municipal Board (A.108/12)
@@ -194,7 +182,6 @@ b)         the
   and planning representation at the Ontario Municipal Board Hearing to support
   the Committee of Adjustment’s decision. (2013-D13)
 
-# 13.&nbsp;&nbsp;&nbsp;Property located at
   1451 Wharncliffe Road South - Andover Trails Phase 4 (39T-07510)
 
 Recommendation:  That, on the
@@ -211,7 +198,6 @@ Recommendation:  That, on the
   served by a secondary collector road SUBJECT TO the conditions imposed
   by the Municipal Council at its meeting held on January 10, 2012. (2013-D12)
 
-# 14.&nbsp;&nbsp;&nbsp;Property located at
   160 Sunningdale Road West Ltd. - Tricar Subdivision Phase 1 (39T-11504)
 
 Recommendation:  That, on the
@@ -239,13 +225,11 @@ c)         the
   Costs and Revenues” provided as Schedule “B” to the associated staff report,
   dated January 22, 2013. (2013-D12)
 
-# 15.&nbsp;&nbsp;&nbsp;Building Division
   Monthly Report for November 2012
 
 Recommendation:  That the Building Division
   Monthly Report for the month of November, 2012 BE RECEIVED. (2013-D00)
 
-# 16.&nbsp;&nbsp;&nbsp;2nd Report of the
   London Advisory Committee on Heritage
 
 Recommendation:  That, the following
@@ -297,7 +281,6 @@ it being noted that
   the Planning and Environment Committee heard a verbal presentation from G.
   Goodlet, Chair, LACH, with respect to these matters.
 
-# 17.&nbsp;&nbsp;&nbsp;Properties located
   at 3841 Cheese Factory Road and 1605 Max Brose Drive (OZ-8126)
 
 Recommendation:  That, on the
@@ -340,7 +323,6 @@ it being pointed out that there were no
   oral submissions made at the public  participation meeting associated with
   this matter. (2013-D14A)
 
-# 18.&nbsp;&nbsp;&nbsp;Properties located
   at 1400 and 1440 North Wenige Drive (39CD-12514)
 
 Recommendation:  That, on the
@@ -363,7 +345,6 @@ it being pointed out that there
   were no oral submissions made at the public participation meeting associated
   with this matter. (2013-D07)
 
-# 19.&nbsp;&nbsp;&nbsp;Properties located
   at Wonderland Road North/Fanshawe Park Road West Neighbourhood Commercial
   Node and 1761 Wonderland Road North (O-8131)
 

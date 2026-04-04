@@ -15,19 +15,15 @@ February 18, 2015, at 12:00 PM
 > [!abstract]- Also Present:
 > M. Cassidy, J. Helmer; A. Zuidema, A.L. Barbon, C. DeForest, K. den Bok (KPMG), S. Gilfillan (PwC), M. Hayward, I. Jefferies (KPMG), O. Katolyk, G. Kotsifas, V. McAlea Major, D. O’Brien, C. Shah (PwC), E. Soldo, S. Swance
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
-# 2.&nbsp;&nbsp;&nbsp;Report on Specified
   Auditing Procedures
 
-# 3.&nbsp;&nbsp;&nbsp;Audit Planning
   Report for the Year Ending December 31, 2014
 
 Recommendation:  That the KPMG LLP Audit
   Planning Report, for the year ending December 31, 2014, BE APPROVED.
 
-# 4.&nbsp;&nbsp;&nbsp;Quarterly Report on
   Internal Audit Results - Development and Compliance Services - By-law
   Enforcement and Licensing
 

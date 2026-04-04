@@ -18,20 +18,15 @@ June 25, 2014, at  1:07 PM
 The Council meets in Special Session in the
   Council Chambers this day at 1:07 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 No pecuniary interests are disclosed.
 
-# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
-# IV.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# V.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE SEVENTEENTH MEETING HELD ON JUNE 24, 2014
 
 > Moved by Councillor P. Hubert
@@ -66,10 +61,8 @@ Motion Passed
 
 ****
 
-# VI.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
-# 1.&nbsp;&nbsp;&nbsp;Resolution from the
   Special Council Meeting of June 24, 2014 with respect to the filling of the
   vacancy of a Ward seat.
 
@@ -121,10 +114,8 @@ Motion Passed
 
 ****
 
-# VII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# VIII.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor H.L. Usher
 
@@ -246,10 +237,8 @@ Motion Passed
 
 ****
 
-# IX.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# X.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
 Councillor Usher enquired how the recent
   appointments to the Office of the Mayor and the office of Ward 5 Councillor
@@ -273,10 +262,8 @@ Councillor S.E. White enquired as to the
   letter of thanks to each of the nominees for their interest in letting their
   name stand for nomination.
 
-# XI.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
-# XII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -377,7 +364,6 @@ Motion Passed
 
 ****
 
-# XIII.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 > Moved by Councillor B. Polhill
 

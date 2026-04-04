@@ -20,11 +20,9 @@ February 18, 2025, at  1:00 PM
 
 The meeting was called to order at 1:00 PM.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by H. McAlister
 
@@ -366,7 +364,6 @@ That the motion be approved, as amended.
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;3rd Report of the Environmental Stewardship and Action Community Advisory Committee
 
@@ -397,15 +394,12 @@ it being noted that the communication, as appended to the Added Agenda, from Hum
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 > Moved by H. McAlister
 
@@ -430,7 +424,6 @@ The Community and Protective Services Committee convened In Closed Session from 
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 That the meeting BE ADJOURNED.
 

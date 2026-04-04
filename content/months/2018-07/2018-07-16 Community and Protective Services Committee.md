@@ -17,11 +17,9 @@ July 16, 2018, at 12:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that Councillor M. Salih disclosed a pecuniary interest in clause 5.4 of this Report, having to do with a request from the City of Toronto regarding shelter spaces for refugee/asylum claimants, by indicating that there is reference to border control and that may affect his employer.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by V. Ridley
 
@@ -241,7 +239,6 @@ That the 7th Report of the Animal Welfare Advisory Committee, from its meeting h
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;By-law Amendments to the Sound By-law, PW-12 and to the Public Nuisance By-law, PH-18, Public Messaging in the Community - Nuisances
 
@@ -274,7 +271,6 @@ b)            the proposed by-law, appended to the staff report dated
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Neighbourhood Equipment Access
 
@@ -330,7 +326,6 @@ c)            clauses 1.1, 2.1, 2.3, 3.1, 3.2, 5.2 and 5.3, BE RECEIV
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Middlesex-London Health Unit Office Space Fit-up Funding Request - RESUBMITTED
 
@@ -416,7 +411,6 @@ That the Civic Administration BE DIRECTED to share the communication, dated June
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 > Moved by M. Salih
 
@@ -445,7 +439,6 @@ The Community and Protective Services Committee convened in camera from 1:04 P
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 1:17 PM.
 

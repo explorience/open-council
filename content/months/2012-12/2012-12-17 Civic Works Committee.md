@@ -15,10 +15,8 @@ December 17, 2012, at  4:00 PM
 > [!abstract]- Also Present:
 > J. Braam, J. Lucas, E. Soldo, J. Stanford
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;1st Report of the Transportation
   Advisory Committee.
 
 Recommendation:  That the following actions
@@ -41,7 +39,6 @@ ii)         the
 b)         clauses 2 through 8 BE
   RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;Comments on
   Environmental Bill of Rights Registry Ontario Ministry of Transportation's
   Cycling Strategy.
 
@@ -53,7 +50,6 @@ Recommendation:  That, on the
   Rights Registry posting (EBR 011-7552) titled Ontario Ministry of Transportation
   Cycling Strategy.  (2012-S11-00)
 
-# 4.&nbsp;&nbsp;&nbsp;Update on Landfill
   Gas Utilization.
 
 Recommendation:  That, on the

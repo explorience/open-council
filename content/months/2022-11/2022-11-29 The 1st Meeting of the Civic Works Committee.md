@@ -17,7 +17,6 @@ November 29, 2022, at 12:00 PM
 
 The meeting was called to order at 12:00 PM with Councillor C. Rahman in the Chair; it being noted that P. Van Meerbergen was in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Call to Order
 
 ## 1.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
@@ -42,7 +41,6 @@ That Councillor H. McAlister BE ELECTED Vice-Chair of the Civic Works Committee 
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by P. Cuddy
 
@@ -201,11 +199,9 @@ f)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or ot
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Mobility Master Plan Update
 
@@ -250,11 +246,9 @@ Guiding Principles:
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 12:36 PM.
 

@@ -17,11 +17,9 @@ May 11, 2020, at 12:00 PM
 
 The meeting is called to order at 12:06 PM; it being noted that the following Members were in remote attendance: Mayor E. Holder; Councillors M. can Holst, J. Helmer, J. Morgan, A. Hopkins.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by E. Holder
 
@@ -211,15 +209,12 @@ it being noted that the reported year-end position is subject to completion of t
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Corporate Services Committee Deferred Matters List
 
@@ -244,7 +239,6 @@ That the Corporate Services Committee Deferred Matters List, as of May 4, 2020 B
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by A. Hopkins
 
@@ -291,7 +285,6 @@ The Corporate Services Committee convenes, In Closed Session, from 12:28 PM to 1
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The Meeting adjourned at 1:47 PM.
 

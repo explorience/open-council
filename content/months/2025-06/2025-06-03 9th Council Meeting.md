@@ -20,21 +20,17 @@ June 3, 2025, at  1:00 PM
 
 The meeting is called to order at 1:03 PM; it being noted that Deputy Mayor S. Lewis was in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED Councillor H. McAlister discloses a pecuniary interest in item 7, clause 2.6 of the 8th Report of the Planning and Environment Committee, having to do with the Heritage Alteration Permit Application by The Canada Life Assurance Company for 255 Dufferin Avenue, Downtown Heritage Conservation District HAP2 by indicating that he is on leave from his employer, Canada Life.
 
 That it BE FURTHER NOTED Councillor S. Franke discloses a pecuniary interest in item 13, clause 2.12 of the 8th Report of the Planning and Environment Committee, having to do with Surplus School Sites Expression of Interest: 70 Jacqueline Street (former G.A. Wheable Adult and Continuing Education Centre) and 1366 Huron Street (severance of surplus land from St. Anne Catholic School) by indicating that her spouse is employed by the TVDSB.
 
-# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
 
 > Motion made by S. Stevenson
 
@@ -135,7 +131,6 @@ That Council convenes in Closed Session from 4:22 PM to 4:41 PM.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
 ## 5.1&nbsp;&nbsp;&nbsp;8th Meeting held on May 13, 2025
 
@@ -169,7 +164,6 @@ That the Minutes of the 8th Meeting of the Municipal Council, held on May 13, 20
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 > Motion made by C. Rahman
 
@@ -377,11 +371,9 @@ d)    the City Clerk BE AUTHORIZED AND DIRECTED to execute and serve the notic
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 None.
 
-# 8.&nbsp;&nbsp;&nbsp;Reports
 
 ## 8.1&nbsp;&nbsp;&nbsp;8th Report of the Planning and Environment Committee
 
@@ -2777,19 +2769,15 @@ it being noted that the Budget Committee received a communication dated May 18, 
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 That it BE NOTED that Councillor C. Rahman presented the 9th Report of the Council in Closed Session, by noting progress was made with respect to the items noted on the Agenda.
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-# 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 Councillor S. Franke enquires with respect to the position of the Association of Municipalities of Ontario (AMO) on Bill No. 5, Protect Ontario by Unleashing our Economy Act. Councillor A. Hopkins provides information on AMO’s position.
 
-# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 
 > Motion made by S. Trosow
 
@@ -2814,7 +2802,6 @@ That pursuant to section 20.1 of the Council Procedure By-law, leave be granted 
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 > Motion made by P. Cuddy
 
@@ -3615,7 +3602,6 @@ That Third Reading and Enactment of Bill No.’s 180 to Revised Bill No. 245, ex
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by H. McAlister
 
@@ -3629,7 +3615,6 @@ The meeting adjourned at 5:36 PM.
 
 ****
 
-# Appendix: New Bills
 
 > [!abstract]- The following Bills are enacted as By-laws of The Corporation of the City of London:
 > **Bill No. 180**

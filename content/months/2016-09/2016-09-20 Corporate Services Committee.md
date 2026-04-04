@@ -15,7 +15,6 @@ September 20, 2016, at 12:03 PM
 > [!abstract]- Also Present:
 > J. Helmer; A. Zuidema, A.L. Barbon, I. Collins, A. Dunbar, J. Edmunds, J.M. Fleming, M. Hayward, G. Kotsifas, L. Livingstone, J. Logan, J. Lucas, V. McAlea Major, K. Murray, L. Palarchio, A. Ripepi, J. Senese, J. Smout, S. Spring, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that Councillor T. Park
@@ -23,7 +22,6 @@ That it BE NOTED that Councillor T. Park
   the Tax Adjustment Agenda, by indicating that her brother has an interest in
   the property related to Application No. 2016-9.
 
-# 2.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Community Safety and Crime Prevention Advisory Committee Amendment to Terms
   of Reference
 
@@ -49,7 +47,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT - City
   of London's Credit Rating
 
 That, on the recommendation of the Managing
@@ -73,7 +70,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT - 2016
   Operating Budget Mid-Year Monitoring Report - Property Tax, Water, Wastewater
   & Treatment Budgets
 
@@ -144,7 +140,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;STAFF REPORT - 2016
   Life-To-Date Capital Budget - 2016 Mid-Year Capital Monitoring Report
 
 That, on the recommendation of the Managing
@@ -188,7 +183,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;DELEGATION - Brenda
   Elliot, Eldon House
 
 That the attached presentation from Brenda
@@ -211,7 +205,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Tax Adjustment
   Agenda
 
 That the recommendations contained in the

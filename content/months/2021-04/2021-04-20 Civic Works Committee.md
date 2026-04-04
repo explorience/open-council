@@ -22,11 +22,9 @@ April 20, 2021, at 12:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by J. Helmer
 
@@ -277,7 +275,6 @@ c)        the Civic Administration BE DIRECTED to develop details and a back
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Street Renaming Portion of Blackwater Road (Plans 33M-764 and 33M-787) File MN-9313
 
@@ -399,11 +396,9 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -427,7 +422,6 @@ That the Civic Works Committee Deferred Matters List, as at April 12, 2021, BE R
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only)
 
 ## 6.1&nbsp;&nbsp;&nbsp;Litigation / Solicitor-Client Privileged Advice
 
@@ -445,7 +439,6 @@ The Civic Works Committee convenes, In Closed Session, from 1:46 PM to 2:17 PM.
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 2:19 PM.
 

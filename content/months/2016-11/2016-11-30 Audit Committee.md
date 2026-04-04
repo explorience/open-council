@@ -15,10 +15,8 @@ November 30, 2016, at  3:03 PM
 > [!abstract]- Also Present:
 > J. Helmer, A.L. Barbon
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
-# 2.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Verbal - Request for Proposal for Internal Audit Services
 
 That the following actions be taken with

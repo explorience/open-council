@@ -12,13 +12,11 @@ April 8, 2014, at  1:04 PM
 > [!abstract]- Also Present:
 > A. Zuidema, B. Baar, J.P. Barber, J. Braam, S. Corman, B. Coxhead, K. Dawtrey, A. Dunbar, J. Freeman, M. Hayward, G.T. Hopcroft, L. Livingstone, V. McAlea Major, D. Mounteer, L. Palarchio, R. Paynter, M. Ribera, A. Ripepi, C. Saunders, J. Senese, J. Smout, M. Turner, B. Warner
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;2014 Debenture
   Issuance
 
 Recommendation:  That the Managing
@@ -45,7 +43,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;2013 Operating
   Budget Status - Fourth Quarter Report
 
 Recommendation:  That the following actions
@@ -143,7 +140,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;2013 Capital Budget
   Status - Fourth Quarter Report
 
 Recommendation:  That, on the
@@ -167,7 +163,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;2013 Compliance
   Report in Accordance with the Procurement of Goods and Services Policy
 
 Recommendation:  That, on the
@@ -192,7 +187,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Procurement of
   Goods and Services Policy Revisions
 
 Recommendation:  That, on the
@@ -249,7 +243,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Advance Voting Days
   for the 2014 Municipal Election
 
 Recommendation:  That, on the recommendation
@@ -287,7 +280,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Apprenticeship
   Training Tax Credit
 
 Recommendation:  That, on the
@@ -322,7 +314,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Report of the Federation
   of Canadian Municipalities Board of Directors Meeting - Thunder Bay, ON -
   March 3-8, 2014
 
@@ -348,7 +339,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Application for Tourism Exemption - Retail Business
   Holiday Act, R.S.O. 1990, c.R.30 - Labatt Breweries of Canada LP
 
@@ -406,7 +396,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Spam Legislation
 
 Recommendation:  That the update from the
   Director, Communications, with respect to legislation regarding

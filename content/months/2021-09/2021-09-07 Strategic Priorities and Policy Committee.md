@@ -20,19 +20,15 @@ September 7, 2021, at  4:00 PM
 
 The meeting is called to order at 4:08 PM; it being noted that the following Members were in remote attendance: M. van Holst, M. Salih, J. Helmer, M. Cassidy, A. Hopkins, P. Van Meerbergen, S. Turner, E. Peloza and S. Hillier.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that Councillor S. Lehman disclosed a pecuniary interest in item 4.2, having to do with a proposed appointment to the London Downtown Business Association (LDBA), by indicating that he is a member of the LDBA.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Request for Delegation Status - 4 Pillars of Medical Ethics - Courtney Roddis
 
@@ -281,7 +277,6 @@ it being noted that Tania Goodine was selected for appointment to the London Hyd
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) Request of Appointment of Councillor Lehman to the Hyde Park BIA
 
@@ -376,7 +371,6 @@ That nominations be closed and Councillor S. Lehman BE APPOINTED to the Hyde Par
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by P. Van Meerbergen
 

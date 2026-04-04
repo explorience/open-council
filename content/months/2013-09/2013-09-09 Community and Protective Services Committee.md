@@ -12,26 +12,22 @@ September 9, 2013, at  7:10 PM
 > [!abstract]- Also Present:
 > S. Orser, B. Polhill, S.E. White;, H. Chapman, B. Coxhead, S. Datars Bere, J. Freeman, C. Guinty, J. Jessop, O. Katolyk, J. Kobarda, G. Kotsifas, D. O’Brien, D. Oke, M. Ribera, E. Schinbein, C. Smith, L. Stevens
 
-# 1.&nbsp;&nbsp;&nbsp;Recommendation:  That it BE NOTED that
   Councillor D. Brown disclosed a pecuniary interest in clauses 6 and 12 of
   this Report having to do with Taxi and Limousine Licensing By-law related
   issues, by indicating that her employer is a taxi business.
 
-# 2.&nbsp;&nbsp;&nbsp;1st Report of the
   City of London and Thames Valley District School Board Liaison Committee
 
 Recommendation:  That the 1st Report of the
   City of London and Thames Valley District School Board Liaison Committee,
   from its meeting held on June 24, 2013, BE RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;7th Report of the
   Accessibility Advisory Committee
 
 Recommendation:  That the 7th Report of the
   Accessibility Advisory Committee, from its meeting held on August 22, 2013,
   BE RECEIVED.
 
-# 4.&nbsp;&nbsp;&nbsp;93 Adelaide Street
   South - Property Standards Demolition
 
 Recommendation:  That on the recommendation
@@ -42,7 +38,6 @@ Recommendation:  That on the recommendation
   demolish all buildings and structures at 93 Adelaide Street South and leave
   the property in a graded and leveled condition.  (2013-P10D)
 
-# 5.&nbsp;&nbsp;&nbsp;Additional Unit for
   Affordable Housing Project at 129 Riverside Drive
 
 Recommendation:  That, on the
@@ -79,7 +74,6 @@ ii)            
   the Mayor and the City Clerk to execute the said amended Agreement.  
   (2013-S11)
 
-# 6.&nbsp;&nbsp;&nbsp;By-law No.
   L.-129-51 – Taxi and Limousine Licensing By-law
 
 Recommendation:  That a special meeting of
@@ -179,7 +173,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;A. Wilson, Licious
   Festivals Inc. – Request for Delegation Status - LondonLicious
 
 Recommendation: That the request of A.
@@ -203,7 +196,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Registry of Vacant
   Buildings By-law and Cost Recovery
 
 Recommendation: That the communication
@@ -230,7 +222,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Request for Exemption
   from the City's Noise By-law PW-12
 
 Recommendation:  That the communication
@@ -253,7 +244,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;RFP 12-28 Animal
   Welfare Services
 
 Recommendation:  That the following actions
@@ -307,7 +297,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Proposed
   Enhancements for Animal Welfare Services
 
 Recommendation: That, on the recommendation
@@ -362,7 +351,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Update on Taxi Business Transfers
 
 Recommendation:  That the verbal report
   from O. Katolyk, Chief, Municipal Law Enforcement Services, with respect to

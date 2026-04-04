@@ -12,10 +12,8 @@ March 9, 2015, at  2:03 PM
 > [!abstract]- Also Present:
 > M. Brown, B. Armstrong, A. Hopkins, V. Ridley, M. Salih, H.L. Usher, M. van Holst, J. Zaifman, J.P. Barber, G. Barrett, B. Coxhead, J.M. Fleming, S. Galloway, I. Gibb, M. Hayward, G. Kotsifas, L. Livingstone, T. MacBeth, H. McNeely, D. Menard, D. Mounteer, D. Popadic, L. Rowe, C. Saunders, S. Spring, B. Warner, J. Yanchula, A. Zuidema
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Old Victoria
   Hospital Lands
 
 That, the following actions be taken with

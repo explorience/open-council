@@ -18,21 +18,15 @@ June 24, 2014, at  8:00 PM
 The Council meets in Special Session in the
   Council Chambers this day at 8:00 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
-# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
-# IV.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# V.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
-# 1.&nbsp;&nbsp;&nbsp;Resolution from the
   Council Meeting of June 24, 2014 with respect to the declaration of a
   potential vacancy of a Ward seat.
 
@@ -184,20 +178,14 @@ Motion Passed
 
 ****
 
-# VI.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# VII.&nbsp;&nbsp;&nbsp;REPORTS
 
-# VIII.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# IX.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
-# X.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
-# XI.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -288,7 +276,6 @@ Motion Passed
 
 ****
 
-# XII.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

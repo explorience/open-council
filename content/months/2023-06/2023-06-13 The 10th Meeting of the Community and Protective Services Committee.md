@@ -17,11 +17,9 @@ June 13, 2023, at  4:00 PM
 
 The meeting was called to order at 4:00 PM.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 None.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by E. Peloza
 
@@ -307,7 +305,6 @@ Motion to approve part b) of the clause.
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Housekeeping Amendments - Administrative Monetary Penalty Systems and Business Licensing By-law
 
@@ -339,7 +336,6 @@ c)    the Civic Administration BE DIRECTED to provide a Draft Terms of Referen
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Occupant Noise Enforcement - Partnered Pilot Project Update
 
@@ -518,7 +514,6 @@ That the Civic Administration BE DIRECTED to include a year over year comparison
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -543,7 +538,6 @@ That the Deferred Matters List for the Community and Protective Services Committ
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 > Moved by C. Rahman
 
@@ -574,7 +568,6 @@ The Community and Protective Services Committee convened In Closed Session from 
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 9:18 PM.
 ---

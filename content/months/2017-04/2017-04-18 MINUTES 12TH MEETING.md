@@ -18,13 +18,10 @@ April 18, 2017, at  4:02 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:02 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
-# III.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# IV.&nbsp;&nbsp;&nbsp;COUNCIL, IN
   CLOSED SESSION
 
 > Moved by Councillor H.L. Usher
@@ -59,7 +56,6 @@ Motion Passed
 
 ****
 
-# V.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE ELEVENTH MEETING HELD ON APRIL 4, 2017
 
 > Moved by Councillor S. Turner
@@ -94,13 +90,10 @@ Motion Passed
 
 ****
 
-# VI.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
-# VII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# VIII.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor M. van Holst Approve
   clauses 1
@@ -109,7 +102,6 @@ Motion Passed
 
 ****
 
-# 1.&nbsp;&nbsp;&nbsp;Councillor T. Park
   and Councillor M. Cassidy - Emergent Motion – Change in Meeting Location- May
   23, 2017 Planning and Environment Committee Meeting
 
@@ -257,7 +249,6 @@ Motion Passed
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;2016 Operating
   Budget Year-End Monitoring Report – Property Tax, Water, Wastewater &
   Treatment Budgets
 
@@ -394,7 +385,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Expropriation of
   Land - Implementation of the Medway Valley Trail Master Plan - North of
   Fanshawe Park Road (Relates to By-law No. 160)
 
@@ -428,7 +418,6 @@ d)         the
   authorize the foregoing and direct the Civic Administration to carry out all
   necessary administrative actions.
 
-# 5.&nbsp;&nbsp;&nbsp;Report of the
   Federation of Canadian Municipalities Board of Directors Meeting - Whistler,
   BC March 13 - 17, 2017
 
@@ -437,7 +426,6 @@ That the communication dated March 30, 2017
   Municipalities Board of Directors meeting held March 13-17, 2017 in Whistler,
   B.C., BE RECEIVED for information.
 
-# 6.&nbsp;&nbsp;&nbsp;London Cycle Link
   and Squeaky Wheel Bike Co-Op - Request for Designation as a Municipally
   Significant Event
 
@@ -446,14 +434,12 @@ That the London Cycle Link and Squeaky
   4:00 p.m., at the UnLab, 792 Dundas Street, London, ON, BE DESIGNATED as an
   event of municipal significance in the City of London.
 
-# 7.&nbsp;&nbsp;&nbsp;Corporate Services
   Committee Deferred Matters List
 
 That the Corporate Services Committee
   Deferred Matters List, as of April 3, 2017, BE RECEIVED, with the addition of
   the previously-requested report back on ward boundaries.
 
-# 8.&nbsp;&nbsp;&nbsp;Board of Directors
   - Federation of Canadian Municipalities
 
 That the following actions be taken with
@@ -482,7 +468,6 @@ c)    
   seeking election to the Board of Directors, in an amount of up to $750, upon
   submission of eligible expenses.
 
-# 9.&nbsp;&nbsp;&nbsp;London Police
   Services Board Composition
 
 That the communication dated March 30,
@@ -491,7 +476,6 @@ That the communication dated March 30,
   request to increase the size of the London Police Services Board, BE
   RECEIVED.
 
-# 10.&nbsp;&nbsp;&nbsp;Canada 150
   Community Infrastructure Program Intake Two Contribution Agreement (Relates
   to Bill No. 173)
 
@@ -540,7 +524,6 @@ iii)         Appendix
 iv)        Appendix
   E – New Capital Project No. PD2139 Addition of Splash Pad at Queen’s Park.
 
-# 11.&nbsp;&nbsp;&nbsp;Vacancy - London
   Hydro Inc. Board of Directors
 
 That the Civic Administration BE REQUESTED
@@ -607,7 +590,6 @@ Motion Passed
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;A. Stratton - 4th
   Report of the Transportation Advisory Committee
 
 That the 4th Report of the Transportation
@@ -615,14 +597,12 @@ That the 4th Report of the Transportation
   meeting of the Civic Works Committee to allow additional time to review and
   consider the proposed 2017 Work Plan.
 
-# 13.&nbsp;&nbsp;&nbsp;Enquiry -
   Councillor B. Armstrong
 
 That it BE NOTED that Councillor B.
   Armstrong enquired about what authority the City has to require drive-through
   establishments to provide garbage receptacles.
 
-# 14.&nbsp;&nbsp;&nbsp;Potential Program
   to Downsize Water Meters
 
 That the Civic Administration BE REQUESTED
@@ -630,7 +610,6 @@ That the Civic Administration BE REQUESTED
   water meters at no cost to the owner where the property owner has been paying
   for an oversized water meter since 2013.
 
-# 3.&nbsp;&nbsp;&nbsp;2016 Life-To-Date
   Capital Budget – 2016 Year-End Capital Monitoring Report
 
 That on the recommendation of the Managing
@@ -679,9 +658,7 @@ iii)         other
   net non-rate supported funding sources of -$165,894 BE ADJUSTED in order to
   facilitate project closings.
 
-# II.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# IX.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
 > Moved by Councillor V. Ridley
@@ -826,10 +803,8 @@ Motion Passed
 
 ****
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
 Councillor Hubert enquires as to the timing
   of the Culture Districts report, noting it was scheduled to be within two
@@ -844,10 +819,8 @@ Councillor Ridley enquires as to whether
   difficulty hearing presentations and discussion.  The Mayor requests Members
   to be more conscientious at meetings.
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -939,7 +912,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

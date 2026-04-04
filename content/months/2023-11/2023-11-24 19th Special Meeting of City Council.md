@@ -20,19 +20,15 @@ November 24, 2023, at  9:00 AM
 
 The meeting is called to order at 9:02 AM; it being noted that Councillors P. Van Meerbergen, E. Peloza, D. Ferreira, S. Hillier were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That is BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
 
 > Motion made by P. Cuddy
 
@@ -80,19 +76,15 @@ That Council convenes In Closed Session, from 9:08 AM to 9:58 AM.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 None.
 
-# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 None.
 
-# 8.&nbsp;&nbsp;&nbsp;Reports
 
 ## 8.1&nbsp;&nbsp;&nbsp;20th Report of the Corporate Services Committee
 
@@ -176,7 +168,6 @@ That Jon Higgins BE APPOINTED to the Animal Welfare Community Advisory Committee
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 > Motion made by C. Rahman
 
@@ -206,19 +197,15 @@ b)    the financing for this acquisition BE APPROVED as set out in the Source 
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-# 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 None.
 
-# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 
 None.
 
-# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 > Motion made by P. Cuddy
 
@@ -370,7 +357,6 @@ That Third Reading and Enactment of Added Bill No. 416, BE APPROVED.
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by S. Stevenson
 
@@ -384,7 +370,6 @@ The meeting adjourned at 10:11 PM.
 
 ****
 
-# Appendix: New Bills
 
 > [!abstract]- The following Bills are enacted as By-laws of The Corporation of the City of London:
 > **Bill No. 413**

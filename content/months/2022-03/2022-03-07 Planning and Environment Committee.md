@@ -20,11 +20,9 @@ March 7, 2022, at  4:30 PM
 
 The meeting was called to order at 4:30 PM, with Councillor A. Hopkins in the Chair, Councillors S. Lewis and S. Lehman present and all other members participating by remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Lewis
 
@@ -204,7 +202,6 @@ xiii) that on notice from the applicant that a reference plan has been registere
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;3425 Grand Oak Crossing (39CD-21520)
 
@@ -570,15 +567,12 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 6:49 PM.
 

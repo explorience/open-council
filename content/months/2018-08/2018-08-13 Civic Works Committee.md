@@ -17,11 +17,9 @@ August 13, 2018, at 12:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by H. Usher
 
@@ -301,7 +299,6 @@ b)    the Civic Administration BE DIRECTED to take all necessary steps to imp
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp; Complete Streets Design Manual 
 
@@ -369,7 +366,6 @@ it being noted that the Civic Works Committee received the attached presentation
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Springhill Flowers Street Renaming Portion of Pleasantview Drive (From South Weinge Drive to Rollingacres) and Pleasantview Drive (South of Waterwheel Road) to Pleasantview Court
 
@@ -397,7 +393,6 @@ That, on the recommendation of the Director, Development Services,  a public me
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -425,7 +420,6 @@ That the Civic Works Committee Deferred List, as of August 2, 2018, BE RECEIVED.
 
 That it BE NOTED Councillor H. Usher enquired about the water break on Meg Drive and expressed concern with respect to communication, the Managing Director, Environmental & Engineering Services and City Engineer advised that staff will review the communication process to ensure that residents are notified in a timely manner.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 1:54PM.
 

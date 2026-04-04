@@ -12,7 +12,6 @@ February 6, 2017, at  4:00 PM
 > [!abstract]- Also Present:
 > P. Squire, H.L. Usher, M. van Holst; J. Adema, G. Bailey, A. DiCicco, M. Elmadhoon, J.M. Fleming, S. Galloway, T. Grawey, N. Hall, G. Kotsifas, A. Macpherson, L. Maitland, L. McDougall, H. McNeely, D. Popadic, C. Saunders, J. Smolarek, S. Spring, M. Tomazincic, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that Councillor A. Hopkins
@@ -21,7 +20,6 @@ That it BE NOTED that Councillor A. Hopkins
   dwelling units, by indicating that her son owns property that he rents in the
   Near Campus Neighbourhood.
 
-# 2.&nbsp;&nbsp;&nbsp;2nd Report of the
   Environmental and Ecological Planning Advisory Committee
 
 That the following actions be taken with
@@ -88,7 +86,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;2nd Report of the
   Trees and Forests Advisory Committee
 
 That it BE NOTED that the 2nd Report of the
@@ -112,7 +109,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Phase l Conservation Master Plan (CMP) for the Medway Valley Heritage Forest
   (MVHF) Environmentally Significant Area (ESA) (south)
 
@@ -169,7 +165,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Single Source Purchase for Complex Ecological Restoration Works in
   Westminster Ponds/Pond Mills Environmentally Significant Area
 
@@ -199,7 +194,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Properties located at 598, 600, 604 and 608 Springbank Drive (Z-8374)
 
 That, on the recommendation of the Managing
@@ -224,7 +218,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;STAFF REPORT - Properties
   located at 100 Fullarton Street and 93-95 Dufferin Avenue (Z-8617)
 
 That, on the recommendation of the Managing
@@ -252,7 +245,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Summerside Subdivision - Lands Located West of Meadowgate Boulevard and East
   of Highbury Avenue South  (39T-92020-D)
 
@@ -294,7 +286,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Property located at 1300 Fanshawe Park Road East  (39T-04512)
 
 That, on the recommendation of the Senior
@@ -337,7 +328,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Strategic Plan Progress Variance
 
 That, on the recommendation of the City
@@ -361,7 +351,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Ministers Modifications to the London Plan - Secondary Dwelling Units
 
 That, the following actions be taken with
@@ -422,7 +411,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;STAFF REPORT - The
   London Plan - Appeals to the Ontario Municipal Board
 
 That, on the recommendation of the Managing
@@ -447,7 +435,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Building Division
   Monthly Report - December 2016
 
 That the Building Division monthly report
@@ -469,7 +456,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Minimum Distance Separation (MDS) Zoning Review
   (Z-8718)
 
@@ -578,7 +564,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Property located at  1 Terrace Street – Brownfield Incentive
 
 That consideration of the application from
@@ -604,7 +589,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;PUBLIC SUBMISSIONS
   – Properties located at 946, 954 and 962 Longworth Road  (H8713)
 
 That delegation status BE GRANTED to C.
@@ -652,7 +636,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;(ADDED) STAFF
   REPORT - Use of New Technology for Engagement
 
 That, on the recommendation of the Managing
@@ -676,7 +659,6 @@ Motion
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;(ADDED) 1st Report
   of the Agricultural Advisory Committee
 
 That the following actions be taken with

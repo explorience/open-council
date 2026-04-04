@@ -17,11 +17,9 @@ April 9, 2024, at  1:00 PM
 
 The meeting is called to order at 1:01 PM; it being noted that Councillor S. Hillier was in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;4th Report of the Ecological Community Advisory Committee 
 
@@ -46,7 +44,6 @@ That the 4th Report of the Ecological Community Advisory Committee, from its mee
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;3696 & 3832 Scotland Drive - (Z-9705)
 
@@ -538,11 +535,9 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -588,7 +583,6 @@ Motion to change the order of business to deal with Item 5.1, Deferred Matters L
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 4:00 PM.
 ---

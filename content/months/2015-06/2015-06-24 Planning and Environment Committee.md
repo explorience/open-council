@@ -15,10 +15,8 @@ June 24, 2015, at  4:02 PM
 > [!abstract]- Also Present:
 > (June 24, 2015)  M. van Holst, M. Salih, J. Morgan, H.L Usher, J. Zaifman;, G. Barrett, D. Dobson, S. Galloway, T. Grawey, N. Hall, A. MacPherson, B. Westlake-Power, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
-# 2.&nbsp;&nbsp;&nbsp;The London Plan
   -  Second Draft - June 2015
 
 Motion

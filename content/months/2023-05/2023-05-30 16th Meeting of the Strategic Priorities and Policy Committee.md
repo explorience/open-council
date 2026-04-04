@@ -20,11 +20,9 @@ May 30, 2023, at  4:00 PM
 
 The meeting is called to order at 4:03 PM, it being noted that Councillors P. Van Meerbergen and S. Hillier were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.2&nbsp;&nbsp;&nbsp;Core Area Land and Building Vacancy Reduction Strategy
 
@@ -325,11 +323,9 @@ The 1st Report of the Governance Working Group, as amended, BE APPROVED.
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;2022 Climate Emergency Action Plan Progress Report
 
@@ -687,11 +683,9 @@ c)  the City Clerk BE DIRECTED to advertise in the usual manner to solicit appl
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by E. Peloza
 

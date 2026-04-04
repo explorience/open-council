@@ -20,19 +20,15 @@ September 10, 2025, at 12:00 PM
 
 The meeting is called to order at 1:00 PM.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Summary Update from Internal Audit - MNP
 
@@ -84,15 +80,12 @@ Nays: (1) S. Stevenson
 
 [2025-09-10 - Submission - Audit Committee - Hub Value for Money Audit - S. Stevenson](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=118898>)
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential 
 
 None.
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by S. Stevenson
 

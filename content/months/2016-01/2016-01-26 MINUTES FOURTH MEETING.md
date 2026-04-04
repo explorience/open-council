@@ -18,7 +18,6 @@ January 26, 2016
 The Council meets in Regular Session in the
   Council Chambers this day at 4:04 p.m.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 Councillor J. Helmer discloses a pecuniary interest
@@ -34,13 +33,10 @@ Councillor J. Morgan discloses a pecuniary interest
   Compensation Review Task Force, by indicating that one candidate is his
   direct supervisor at Western University.
 
-# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary interest
@@ -220,7 +216,6 @@ Motion Passed
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;2016-2019
   Multi-Year Budget - Public Participation Meeting #1
 
 That the delegations from the 2016-2019
@@ -233,9 +228,7 @@ it being pointed out that at the public
   on the attached public participation meeting record made oral
   submissions in connection therewith.
 
-# IV.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# V.&nbsp;&nbsp;&nbsp;COMMITTEE OF THE WHOLE (continued)
 
 The Council rises and goes into the
   Committee of the Whole, in camera, at 9:09 PM, with Mayor M. Brown in the
@@ -269,10 +262,8 @@ Motion Passed
 
 ****
 
-# VIII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# IX.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor B. Armstrong
 
@@ -310,7 +301,6 @@ Motion Passed
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Appointment of
   Acting Mayor
 
 That  the following actions be taken with
@@ -327,7 +317,6 @@ b)        the
   Acting Mayor to serve in the absence/unavailability of the Mayor and the
   Deputy Mayors.
 
-# 6.&nbsp;&nbsp;&nbsp;Public Question
   Session/Period
 
 That the Governance Working Group BE
@@ -420,7 +409,6 @@ Motion Passed
 
 ****
 
-# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE THIRD MEETING HELD ON JANUARY 12, 2016
 
 > Moved by Councillor M. Cassidy
@@ -432,7 +420,6 @@ Approve the Minutes of the Third Meeting
 
 ****
 
-# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
 > Moved by Councillor M. Cassidy
@@ -522,21 +509,18 @@ Approve clauses 1 to 11, excluding clauses 6 and 7.
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;2016-2019 Budget -
   F. Pontarelli
 
 That the communication dated January 14,
   2016, from Frank Pontarelli, regarding the 2016-2019 Multi-Year Budget BE
   RECEIVED.
 
-# 4.&nbsp;&nbsp;&nbsp;Absence from
   Meeting
 
 That the communication dated January 12,
   2016, from Councillor V. Ridley, advising of her absence from the January 21,
   2016 meeting of the Strategic Priorities and Policy Committee BE RECEIVED.
 
-# 8.&nbsp;&nbsp;&nbsp;Request for
   Approval of an Expense on an Exception Basis
 
 That the request by Councillor M. van Holst
@@ -561,7 +545,6 @@ Motion Passed
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Diversity,
   Integration and Inclusion in London
 
 That the Civic Administration BE DIRECTED
@@ -656,7 +639,6 @@ Approve clauses 1 to 4.
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Request for
   Designation of the International Food Festival as a Municipally Significant
   Event
 
@@ -664,21 +646,18 @@ That the International Food Festival, to be
   held June 24, 2016 to June 26, 2016, in Victoria Park, BE DESIGNATED as an
   event of municipal significance in the City of London.
 
-# 11.&nbsp;&nbsp;&nbsp;Request for
   Designation of the London Rib Fest as a Municipally Significant Event
 
 That the London Rib Fest, to be held July 28,
   2016 to August 1, 2016, in Victoria Park, BE DESIGNATED as an event of
   municipal significance in the City of London.
 
-# 7.&nbsp;&nbsp;&nbsp;Confirmation of
   Appointment to the London Advisory Committee on Heritage
 
 That Greg Thompson BE APPOINTED as a Voting
   Representative on the London Advisory Committee on Heritage, representing the
   Urban League of London, for the term ending February 28, 2019.
 
-# 12.&nbsp;&nbsp;&nbsp;Corporate Services
   Committee Deferred Matters List
 
 That the Corporate Services Committee
@@ -686,7 +665,6 @@ That the Corporate Services Committee
   this matter has been dealt with through the Community and Protective Services
   Committee.
 
-# 13.&nbsp;&nbsp;&nbsp;Provincial
   Dedicated Gas Tax Funds for Public Transportation Program (Relates to Bill
   No. 61)
 
@@ -699,22 +677,17 @@ That, on the recommendation of the Managing
   with respect to the Dedicated Gas Tax Funds for the Public Transportation
   Program.
 
-# 14.&nbsp;&nbsp;&nbsp;Absence from
   Meeting
 
 That the communication dated January 12,
   2016, from Councillor V. Ridley, advising of her absence from the January 19,
   2016 meeting of the Corporate Services Committee BE RECEIVED.
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -982,7 +955,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

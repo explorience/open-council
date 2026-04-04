@@ -15,13 +15,11 @@ May 5, 2015, at  4:03 PM
 > [!abstract]- Also Present:
 > A. Hopkins, J. Zaifman; J. Braam, T. Copeland, A. Dunbar, K. Grabowski, M. Hayward, J. Lucas, D. MacRae, S. Mathers, C. McIntosh, K. Murray, R. Pedlow, E. Soldo, S. Spring, J. Stanford, R. Welker, B. Westlake-Power
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;5th Report of the
   Cycling Advisory Committee
 
 That the 5th Report of the Cycling Advisory
@@ -43,7 +41,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;South Street and
   Grey Street Two Way Conversion
 
 That, on the recommendation of the Managing
@@ -72,7 +69,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Supervisory Control
   and Data Acquisition (SCADA) System Integration Services
 
 That, on the recommendation of the Managing
@@ -97,7 +93,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Pilot Project to
   Resolve Surface Icing Resulting from Sump Pump Discharge
 
 That, on the recommendation of the Managing
@@ -123,7 +118,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Appointment of
   Consulting Engineer for Inspection, Contract Administration and Engineering
   Services Associated with the Construction of 2015 Infrastructure Renewal
   Projects: Bruce and Brighton Reconstruction and Wellington Reconstruction
@@ -184,7 +178,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Appointment of
   Consulting Engineer Horton Sanitary Sewer Upgrades
 
 That, on the recommendation of the Managing
@@ -239,7 +232,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Update Water
   Service Area Financial Plan
 
 That, on the recommendation of the Managing
@@ -267,7 +259,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Greenbrier Crescent
   Emergency Sanitary Sewer Repair
 
 That, on the recommendation of the Managing
@@ -291,7 +282,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Stormwater
   Servicing and Tributary Works for the North Lambeth P9 Stormwater Management
   Facility Municipal Class Environmental Study
 
@@ -354,7 +344,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Dingman Creek No.
   B-4 Stormwater Management Facility and Tributary Channel
   Improvement/Modification Municipal Class Environmental Study
 
@@ -420,7 +409,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Update on Results
   of Sherwood Forest Weeping Tile Disconnect Pilot Project
 
 That, on the recommendation of the Managing
@@ -444,7 +432,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Community Energy
   Action Program - Update and Status
 
 That, on the recommendation of the
@@ -468,7 +455,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;2014 Community
   Energy and Greenhouse Gas Inventory: Challenges and Opportunities
 
 That, on the recommendation of the Director,
@@ -492,7 +478,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Active and Green
   Communities Engagement Strategy
 
 That, on the recommendation of the
@@ -516,7 +501,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Highway 401/Colonel
   Talbot Road/Highway 4 Interchange Reconstruction Ministry of Transportation
   Class Environmental Assessment Addendum
 

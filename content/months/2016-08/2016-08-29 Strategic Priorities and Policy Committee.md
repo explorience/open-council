@@ -15,7 +15,6 @@ August 29, 2016, at  4:02 PM
 > [!abstract]- Also Present:
 > A. Zuidema, G. Belch, J. Braam, P. Christiaans, K. Dawtrey, M. Feldberg, J.M. Fleming, K. Graham, N. Hall, M. Hayward, G. Kotsifas, V. McAlea Major, D. O’Brien, C. Parsons, A. Patis, M. Ribera, C. Saunders, J. Senese, E. Soldo
 
-# 2.&nbsp;&nbsp;&nbsp;STAFF REPORT - Debt
   Management Policy
 
 That, on the recommendation of the Managing
@@ -84,7 +83,6 @@ Motion Passed
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;DELEGATION - Heidi
   Currie, Manager, Argyle Business Improvement Area
 
 Motion Passed
@@ -182,11 +180,9 @@ Motion Passed
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;DELEGATION - Paul
   Paolatto, Budget Chair and John Pare, Chief of Police re London Police
   Services Board
 
-# 11.&nbsp;&nbsp;&nbsp;COUNCIL
   MEMBER SUBMISSION - Shift - London's Rapid Transit Initiative Business
   Case - February 2016
 

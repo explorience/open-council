@@ -17,11 +17,9 @@ May 26, 2020, at  4:00 PM
 
 The meeting was called to order at 4:00 PM; it being noted that the following Members were in remote attendance: Mayor E. Holder, Councillors S. Hillier, M. Salih, P. Squire and M. van Holst
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;Continuation of Federal Community Action Program for Children (CAPC) Funding in London: 2020-2024
 
@@ -46,11 +44,9 @@ That, on the recommendation of the Managing Director, Neighbourhood, Children an
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Food Security Pilot - Backyard Chickens - S. Eden
 
@@ -129,7 +125,6 @@ That the communication dated May 12, 2020, from Councillor S. Lewis, with respec
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -154,7 +149,6 @@ That the Deferred Matters List for the Community and Protective Services Committ
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 4:33 PM.
 

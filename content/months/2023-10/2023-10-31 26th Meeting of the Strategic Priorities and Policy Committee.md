@@ -17,13 +17,11 @@ October 31, 2023, at  2:00 PM
 
 The meeting is called to order at 2:05 PM; it being noted that Councillors S. Hillier, E. Peloza, S. Franke, and P. Van Meerbergen were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that Councillor J. Pribil disclosed a pecuniary interest related to item 2.2 regarding the October Progress Update – Health & Homelessness Whole of Community System Response report as it relates to funding for Downtown London Business Association as the Councillor indicated they are a member of the Association.
 
 That it BE NOTED that Councillor S. Lehman disclosed a pecuniary interest related to item 2.2 regarding the October Progress Update – Health & Homelessness Whole of Community System Response report as it relates to funding for Downtown London Business Association as the Councillor indicated they are a member of the Association.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Lewis
 
@@ -445,7 +443,6 @@ l)    the approval given herein BE CONDITIONAL upon the Corporation of the Cit
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Delegation - Bill Rayburn, CAO, Middlesex County and Neal Roberts, Middlesex-London Paramedic Service - Service Overview and Operating Pressures
 
@@ -516,7 +513,6 @@ That the presentation from Kelly Paleczny, General Manager and Sheryl Rooth, Com
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Confirmation of Appointments to RBC Place London
 
@@ -716,11 +712,9 @@ The Committee recesses at 4:33 PM and reconvenes at 4:51 PM
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by S. Lewis
 
@@ -806,7 +800,6 @@ That the following items BE REFERRED to the Council Meeting to be held on Novemb
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by P. Cuddy
 

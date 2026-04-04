@@ -18,7 +18,6 @@ December 10, 2020, at  9:30 AM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Councillor S. Turner discloses a pecuniary interest in matters associated with the funding for the Middlesex London Health Unit (MLHU), by indicating that the MLHU is his employer.  Councillor S. Turner further discloses a pecuniary interest in matters associated with children's services, specifically with funding for EarlyON, by indicating that his spouse is employed by Childreach.
 
@@ -26,11 +25,9 @@ Councillor P. Van Meerbergen discloses a pecuniary interest in matters associate
 
 Councillor J. Helmer discloses a pecuniary interest in the golf operating budget, by indicating that his father is an employee of the National Golf Course Owners Association, and the City is a member of the Association.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;2021 Budget Overview Presentation
 
@@ -38,7 +35,6 @@ None.
 
 That it BE NOTED that the 2021 Budget Overview presentation from the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer was received.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Review of Budget Amendments (2021 to 2023 totals: rounded to the closest $1,000)
 
@@ -942,7 +938,6 @@ That the reconciliation of the tabled budgets to the Public Sector Accounting Bo
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) Additional Budget Submissions
 
@@ -1016,7 +1011,6 @@ Following up on Municipal Council’s resolution on 16 June 2020, The London Pol
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 3:18 PM.
 

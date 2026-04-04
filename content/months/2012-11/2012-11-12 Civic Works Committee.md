@@ -15,10 +15,8 @@ November 12, 2012, at  4:00 PM
 > [!abstract]- Also Present:
 > M. Brown, P. Hubert, J. Braam, T. Copeland, A. Dunbar, M. Feldberg, B. Krichker, S. Maguire, E. Soldo, J. Stanford, R. Welker
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Amendments to the
   Traffic and Parking By-law
 
 Recommendation:  That, on the
@@ -28,7 +26,6 @@ Recommendation:  That, on the
   held on November 20, 2012, for the purpose of amending the Traffic and
   Parking By-law (P.S. 111).  (2012-G05-00)
 
-# 3.&nbsp;&nbsp;&nbsp;Amendments to the
   Traffic and Parking By-law - Perry Street and Horn Street
 
 Recommendation:  That, on the
@@ -39,7 +36,6 @@ Recommendation:  That, on the
   111) with respect to reverting Perry Street and Horn Street to one-way roads.
   (2012-G05-00)
 
-# 4.&nbsp;&nbsp;&nbsp;Tree
   Pruning/Removal Services (Tender 12-81)
 
 Recommendation:  That, on the
@@ -68,7 +64,6 @@ d)         the
   formal contract or having a purchase order, or contract record relating to
   the subject matter of this approval.  (2012-E05-00)
 
-# 5.&nbsp;&nbsp;&nbsp;Fox Hollow
   Development Area Stormwater Management Facilities Nos. 1 and 3
 
 Recommendation:  That, on the
@@ -108,14 +103,12 @@ e)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or
   other documents, if required, to give effect to these recommendations.  (2012-W10-00)
 
-# 6.&nbsp;&nbsp;&nbsp;Blackfriars Street
   - Traffic Study
 
 Recommendation:  That the information
   report dated November 12, 2012, from the Director, Roads and Transportation, with
   respect to the traffic study on Blackfriars Street BE RECEIVED.  (2012-S04-00)
 
-# 7.&nbsp;&nbsp;&nbsp;Dundas Street and
   Hale Street Intersection
 
 Recommendation:  That the Civic Administration
@@ -125,7 +118,6 @@ Recommendation:  That the Civic Administration
   the vacant building at the southwest corner of the above-noted intersection. 
   (2012-S09-00)
 
-# 8.&nbsp;&nbsp;&nbsp;New "Value
   Based" Funding Model for Water and Wastewater Services
 
 Recommendation:  That, on the
@@ -213,7 +205,6 @@ G. Brown, 59 Ridout Street, Unit 59A –
        if you want to pour drinking water on your lawn then you will have to
        pay for it; further indicating that this is an excellent plan.  (2012-F12-00)
 
-# 9.&nbsp;&nbsp;&nbsp;Proposed
   Designation for Highway #22
 
 Recommendation:   That the communication
@@ -226,7 +217,6 @@ Recommendation:   That the communication
   committee, with respect to what the necessary steps would be to fulfill the
   request from the 1st Hussars.  (2012-S00-00) (2012-P00-00)
 
-# 10.&nbsp;&nbsp;&nbsp;Summerside Traffic
   - Calming Measures
 
 Recommendation:  That the Managing Director
@@ -239,7 +229,6 @@ Recommendation:  That the Managing Director
   Summerside community; it being further noted that Ms. R. D’Andrea is to be
   given delegation status when the report comes back to the CWC.  (2012-S09-00)
 
-# 11.&nbsp;&nbsp;&nbsp;Beavers
 
 Recommendation:  That the Civic
   Administration BE DIRECTED to work with the Upper Thames River

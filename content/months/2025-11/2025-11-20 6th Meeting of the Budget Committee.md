@@ -17,11 +17,9 @@ November 20, 2025, at  9:30 AM
 
 The meeting is called to order at 9:31 AM.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;2026 Annual Budget Update Deliberations Introductory Presentation
 
@@ -56,7 +54,6 @@ That the Budget presentation from the Deputy City Manager, Finance and Supports 
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Mayor's Budget
 
@@ -89,7 +86,6 @@ That it BE NOTED that the Mayor's Proposed Budget was provided to each member of
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Amendment - Budget Case #P-6
 
@@ -1024,15 +1020,12 @@ That the Mayor’s Tabled 2026 Annual Budget Update BE AMENDED in order to fund 
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential 
 
 None.
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by S. Lewis
 

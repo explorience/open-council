@@ -15,7 +15,6 @@ February 11, 2014, at  4:05 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:05 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 Councillor D. Brown discloses a pecuniary interest
@@ -76,15 +75,11 @@ Councillor J.B. Swan discloses a pecuniary
   having to do with a proposal for a Downtown Arts and Entertainment District,
   by indicating that his employer, Orchestra London, is a proponent.
 
-# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
-# V.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# IV.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
 MOTION FOR IN CAMERA SESSION
@@ -103,7 +98,6 @@ The Council rises and goes into Committee
   of the Whole, in camera at 4:20 PM, with Mayor J. F. Fontana in the Chair and
   all Members present.
 
-# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE FOURTH MEETING HELD ON JANUARY 28, 2014
 
 > Moved by Councillor D. Brown
@@ -140,13 +134,10 @@ Motion Passed
 
 ****
 
-# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
-# VIII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# IX.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor J.P. Bryant
 
@@ -154,7 +145,6 @@ Approve clauses 1 to 12, inclusive.
 
 ****
 
-# 1.&nbsp;&nbsp;&nbsp;(ADDED) Councillor
   J. Baechler and Councillor N. Branscombe - Raising the Rainbow Flag on the
   Community Flag Pole for the Duration of the Olympics
 
@@ -230,7 +220,6 @@ Motion Passed
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;A Community Cultural Investment Proposal
   for a Downtown Arts and Entertainment District
 
 Motion Passed
@@ -333,7 +322,6 @@ Motion Passed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;London's Music
   Industry Strategy
 
 That on the recommendation of the Director,
@@ -351,7 +339,6 @@ b)         the
   consideration at a future meeting of the Investment and Economic Prosperity
   Committee.
 
-# 4.&nbsp;&nbsp;&nbsp;Western University
   and Western University Research Parks - Progress Report #1
 
 That, on the recommendation of the Managing
@@ -371,7 +358,6 @@ b)         the
   IN PRINCIPLE, in order to carry out the required road improvements and
   enhancements for Western Road from Huron College southerly to Sarnia Road.
 
-# 5.&nbsp;&nbsp;&nbsp;A Community Cultural Investment Proposal
   for a Downtown Arts and Entertainment District
 
 That the delegation from J. Caskey, Chair,
@@ -406,7 +392,6 @@ Motion Passed
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Strategic Funding
   Framework: Revised Grant Agreement
 
 That, on the recommendation of the Managing
@@ -431,7 +416,6 @@ c)         delegate
   Children & Fire Services, or their respective written designate, the
   authority to execute the said Agreements. (2014 - F11/L04)
 
-# 7.&nbsp;&nbsp;&nbsp;Property located at
   1602 Sunningdale Road West - Ontario Municipal Board Decision (39T-11503)
 
 That, on the recommendation of the Senior
@@ -441,7 +425,6 @@ That, on the recommendation of the Senior
   Oak Properties, relating to the draft plan of subdivision located at 1602
   Sunningdale Road West, BE RECEIVED. (2014-L01/2014-D12)
 
-# 8.&nbsp;&nbsp;&nbsp;Properties located
   at 255 South Carriage Road and 1331 Hyde Park Road - Ontario Municipal Board
   Decision (39T-08502)
 
@@ -452,13 +435,11 @@ That, on the recommendation of the Senior
   subdivision for the located at 255 South Carriage Road and 1331 Hyde Park
   Road, BE RECEIVED.  (2014-L01/2014-D12)
 
-# 9.&nbsp;&nbsp;&nbsp;Building Division
   Monthly Report for December 2013
 
 That the Building Division Monthly Report
   for the month of December 2013 BE RECEIVED.   (2014-D00)
 
-# 10.&nbsp;&nbsp;&nbsp;Properties located
   at 1920 and 1930 Blue Heron Drive (Z-8282)
 
 That, on the recommendation of the Managing
@@ -508,7 +489,6 @@ Motion Passed
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Property located at
   77 Tecumseh Avenue West (Z-8274)
 
 That, on the recommendation of the Managing
@@ -599,7 +579,6 @@ it being pointed out that at the public
   that it will be a very attractive addition to the affordable housing stock in
   London.   (2014-D14A)
 
-# 12.&nbsp;&nbsp;&nbsp;Boundary Expansion
   Request and By-law Amendment
 
 That the communication dated January 21,
@@ -651,15 +630,11 @@ Approve clauses 1, 3, 4 and 6.
 
 ****
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -963,7 +938,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

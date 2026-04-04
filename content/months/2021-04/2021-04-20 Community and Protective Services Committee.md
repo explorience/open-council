@@ -22,11 +22,9 @@ April 20, 2021, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Lewis
 
@@ -217,7 +215,6 @@ That, on the recommendation of the Managing Director, Development and Compliance
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Public Participation Meeting - Swimming Pool Fence By-law - Proposed Amendments
 
@@ -383,7 +380,6 @@ close ppm
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Councillor M. Cassidy - Animal By-law PH-3
 
@@ -408,7 +404,6 @@ That the communication, dated April 1, 2021, from Councillor M. Cassidy, with re
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -433,7 +428,6 @@ That the Deferred Matters List for the Community and Protective Services Committ
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 5:28 PM.
 ---

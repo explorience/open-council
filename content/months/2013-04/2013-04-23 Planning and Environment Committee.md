@@ -12,24 +12,20 @@ April 23, 2013, at  4:03 PM
 > [!abstract]- Also Present:
 > J.F. Fontana, J. Baechler, J.P. Bryant, J. Swan, H.L. Usher, G. Barrett, J. Braam, E. Conway, M. Elmadhoon, J.M. Fleming, T. Grawey, M. Henderson, B. Henry, G. Hopcroft, P. Kokkoros, B. Krichker, T. Macbeth, A. MacLean, N. McKee, D. Menard, S. Milanovic, N. Musicco, J. Page, J. Ramsay, M. Ribera, C. Saunders, C. Smith, J. Yanchula, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;3rd Report of the
   Trees and Forests Advisory Committee
 
 Recommendation:  That the 3rd Report of the
   Trees and Forests Advisory Committee from its meeting held on March 27, 2013 BE
   RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;4th Report of the
   Advisory Committee on the Environment
 
 Recommendation:  That the 4th Report of the
   Advisory Committee on the Environment from its meeting held on April 3, 2013 BE
   RECEIVED.
 
-# 4.&nbsp;&nbsp;&nbsp;Property located at
   1103 Adelaide Street North (OZ-7972)
 
 Recommendation:  That, on the
@@ -43,13 +39,11 @@ Recommendation:  That, on the
   Developments and A. Soufan, President, York Developments, with respect to
   this matter.  (2013-D14A)
 
-# 5.&nbsp;&nbsp;&nbsp;Building Division
   Monthly Report for February 2013
 
 Recommendation:  That the Building Division
   Monthly Report for February 2013 BE RECEIVED.   (2013-D00)
 
-# 6.&nbsp;&nbsp;&nbsp;5th Report of the
   London Advisory Committee on Heritage
 
 Recommendation:  That the following actions
@@ -167,7 +161,6 @@ it being noted that the
   Planning and Environment Committee heard a verbal presentation from George
   Goodlet, Chair, LACH, with respect to these matters.
 
-# 7.&nbsp;&nbsp;&nbsp;Various Streets
   Listed in Section 4.21 of Zoning By-law No. Z.-1 (Z-8142)
 
 Recommendation:  That, on the
@@ -194,7 +187,6 @@ it being pointed out that there were no
   oral submissions made at the public  participation meeting associated
   with this matter.    (2013-D14A)
 
-# 8.&nbsp;&nbsp;&nbsp;City Wide Stacked
   Parking (Z-8150)
 
 Recommendation:  That, on the
@@ -268,7 +260,6 @@ it being pointed out that there were no
   oral submissions made at the public  participation meeting associated
   with this matter.     (2013-D14A)
 
-# 9.&nbsp;&nbsp;&nbsp;Properties located
   at 325, 345, 365 and 385 Sugar Creek Trail (Formerly: 570, 572, 576 and 580
   Beaverbrook Avenue)
 
@@ -298,7 +289,6 @@ it being pointed out that there were no
   oral submissions made at the public  participation meeting associated
   with this matter.     (2013-D11)
 
-# 10.&nbsp;&nbsp;&nbsp;Property located at
   160 Sunningdale Road West (Z-8151)
 
 Recommendation:  That, on the
@@ -319,7 +309,6 @@ it being pointed out that there were no
   oral submissions made at the public  participation meeting associated
   with this matter.     (2013-D14A)
 
-# 11.&nbsp;&nbsp;&nbsp;Property located at
   736 Talbot Street (Z-8149)
 
 Recommendation:  That, on the
@@ -392,7 +381,6 @@ it being pointed out that there were no
   oral submissions made at the public  participation meeting associated
   with this matter.     (2013-D14A)
 
-# 12.&nbsp;&nbsp;&nbsp;Property located at
   655 Tennent Avenue (39T-13501/Z-8139)
 
 Recommendation:  That, on the
@@ -487,7 +475,6 @@ it
   concern; and advising that, with the increased traffic, there may be an
   accident involving kids.   (2013-D14A/D12)
 
-# 13.&nbsp;&nbsp;&nbsp;Properties located
   at 275, 277 and 281 Thames Street
 
 Recommendation:  That, on the
@@ -664,7 +651,6 @@ it being pointed out that at the public
   and great grandparents who went through the Chapel; and advising that the
   City needs to rediscover its history.     (2013-P10D/R01)
 
-# 14.&nbsp;&nbsp;&nbsp;Industrial Lands
   Review (O-8014)
 
 Recommendation:  That, on the
@@ -768,7 +754,6 @@ it being pointed out that
   this area will be; and requesting that the lands be included in the Urban
   Growth Boundary.    (2013-D08)
 
-# 15.&nbsp;&nbsp;&nbsp;Blackfriars
   Community Infill Projects
 
 Recommendation:  That, the following

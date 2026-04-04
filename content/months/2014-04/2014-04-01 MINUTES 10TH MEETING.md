@@ -18,7 +18,6 @@ April 1, 2014, at  4:02 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:02 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 Councillor J.B. Swan discloses a pecuniary
@@ -45,13 +44,10 @@ Councillor J.P. Bryant discloses a
   linked with Western University and her spouse sits on the faculty of Western
   University.
 
-# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
-# IV.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
 MOTION FOR IN CAMERA SESSION
@@ -90,9 +86,7 @@ Motion Passed
 
 ****
 
-# V.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that Councillor J.B. Swan
   disclosed a pecuniary interest in discussions pertaining to the potential
@@ -244,7 +238,6 @@ Motion Passed
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Orchestra London
 
 That, on the recommendation of the Deputy
   City Treasurer, the following actions be taken with respect to funding
@@ -298,14 +291,12 @@ Approve clause 1.
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;2013 Annual Update
   on Budweiser Gardens
 
 That, on the recommendation of the Deputy
   City Treasurer, the report dated March 31, 2014, with respect to the 2013
   Annual Update on the Budweiser Gardens, BE RECEIVED.
 
-# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE NINTH MEETING HELD ON MARCH 18, 2014
 
 > Moved by Councillor B. Polhill
@@ -342,7 +333,6 @@ Motion Passed
 
 ****
 
-# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
 > Moved by Councillor B. Polhill
@@ -354,7 +344,6 @@ Approve referral of Communication Nos.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Budweiser Gardens
   Contract Extensions
 
 That, on the recommendation of the Deputy
@@ -369,10 +358,8 @@ b)         the
   Civic Administration BE DIRECTED to confirm concurrence, in writing, for the
   contract extensions with New Era Tickets and Ovations Food Services.
 
-# VIII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# IX.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor M. Brown
 
@@ -381,7 +368,6 @@ Approve
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Hotel Room Tax - Resubmitted
 
 That the following actions be taken with
   respect to a potential levy related to hotel/motel rates:
@@ -417,7 +403,6 @@ it being noted that the Investment and
   March 31, 2014 from J. Winston, General Manager, Tourism London, with respect
   to this matter.
 
-# 6.&nbsp;&nbsp;&nbsp;2013 London Convention Centre Results
 
 That, on the recommendation of the London
   Convention Centre (LCC) Board of Directors, the LCC 2013 operational surplus
@@ -426,7 +411,6 @@ That, on the recommendation of the London
   a communication dated February 21, 2014, from the Board of Directors, LCC,
   with respect to this matter.
 
-# 7.&nbsp;&nbsp;&nbsp;London Medical
   Innovation and Commercialization Network Update
 
 That the following actions be taken with
@@ -445,7 +429,6 @@ b)         the
   Commercialization Network, BE PRESENTED to the Investment and Economic
   Prosperity Committee (IEPC), in two to three weeks.
 
-# 8.&nbsp;&nbsp;&nbsp;Music Task Force
   Update
 
 That the following actions be taken with
@@ -534,7 +517,6 @@ Motion Passed
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;4th Report of the
   London Advisory Committee on Heritage
 
 That, the following actions be taken with
@@ -558,7 +540,6 @@ it being pointed out that the Planning and
   communication from G. Bikas, with respect to the property located at 1266
   Riverside Drive.
 
-# 9.&nbsp;&nbsp;&nbsp;Blackfriars/Petersville
   Heritage Conservation District Draft Plan and Conservation Guidelines
 
 That, on the recommendation of the Managing
@@ -581,7 +562,6 @@ it being further noted that a review of the
   address issues related to intensification within areas that are susceptible
   to flood events.    (2014-R01)
 
-# 11.&nbsp;&nbsp;&nbsp;Property located at
   1796 Adelaide Street North (Z-8301)
 
 That, on the recommendation of the Managing
@@ -645,7 +625,6 @@ it being pointed out that there were no
   oral submissions made at the public participation meeting associated with
   this matter.      (2014-D14)
 
-# 12.&nbsp;&nbsp;&nbsp;Properties located at
   2348, 2356, 2362, 2370 and 2378 Meadowlands Way; 2337, 2345, 2353, 2361,
   2369, 2373, 2387 and 2395 Humerside Common; 137, 143, 149, 161, 177, 195,
   209, 215, 223, 231, 239, 247, 255, 261, 267, 275, 283 and 297 Bradwell Chase
@@ -698,7 +677,6 @@ it being pointed out that there were no
   oral submissions made at the public participation meeting associated with
   this matter.   (2014-D14)
 
-# 13.&nbsp;&nbsp;&nbsp;City-Wide Official
   Plan/Zoning By-law Review - City of London (OZ-8219)
 
 That, on the recommendation of the Managing
@@ -771,7 +749,6 @@ it being pointed out that there were no
   oral submissions made at the public participation meeting associated with
   this matter.    (2014-D14)
 
-# 14.&nbsp;&nbsp;&nbsp;Property located at
   457 Southdale Road West (Z-8314)
 
 That, on the recommendation of the Managing
@@ -793,7 +770,6 @@ it being pointed out that there were no
   oral submissions made at the public participation meeting associated with
   this matter.    (2014-D14)
 
-# 15.&nbsp;&nbsp;&nbsp;Properties located
   at 73, 77, 81 and 91 Southdale Road East and 3021 and 3033 White Oak Road
   (Z-8305)
 
@@ -818,7 +794,6 @@ it being pointed out that there were no
   oral submissions made at the public participation meeting associated with
   this matter.    (2014-D14)
 
-# 16.&nbsp;&nbsp;&nbsp;Properties located
   at 2250 Blackwater Road and 660 and 670 Garibaldi Avenue (Z-8190)
 
 That, on the recommendation of the Managing
@@ -974,7 +949,6 @@ it being pointed out that at the public
   on the attached public participation meeting record made oral
   submissions in connection therewith.  (2014-D14)
 
-# 17.&nbsp;&nbsp;&nbsp;Property located at
   1140 Southdale Road West (Z-8302/O-8303)
 
 That, on the recommendation of the Managing
@@ -1056,7 +1030,6 @@ it being pointed out that at the public
   on the attached public participation meeting record made oral
   submissions in connection therewith.  (2014-D14)
 
-# 18.&nbsp;&nbsp;&nbsp;Property located at
   1444 Adelaide Street North (OZ-8297)
 
 That, on the recommendation of the Managing
@@ -1129,7 +1102,6 @@ it being pointed out that at the public
   on the attached public participation meeting record made oral
   submissions in connection therewith.   (2014-D14)
 
-# 19.&nbsp;&nbsp;&nbsp;Draft Community
   Improvement Plan for Industrial Land Uses and Official Plan Amendment
   (O-8318)
 
@@ -1161,7 +1133,6 @@ it being noted that the Planning and
   2014, from L. Langdon, London Home Builders' Association, with respect to
   this matter.   (2014-D19/D08)
 
-# 20.&nbsp;&nbsp;&nbsp;Development Charges
   Grant Program for Downtown, Old East Village and SoHo CIP Areas
 
 That, on the recommendation of the Managing
@@ -1267,7 +1238,6 @@ Motion Passed
 
 ****
 
-# 21.&nbsp;&nbsp;&nbsp;Property located at
   3100 Colonel Talbot Road (39T-13504/Z-8243)
 
 That, on the recommendation of the Senior
@@ -1597,7 +1567,6 @@ Motion Passed
 
 ****
 
-# 22.&nbsp;&nbsp;&nbsp;Property located at
   447 Old Wonderland Road (Z-8228)
 
 That, the application of 2376563 Ontario
@@ -1724,7 +1693,6 @@ Approve clauses 1 to 12, excluding clause 3.
 
 ****
 
-# 23.&nbsp;&nbsp;&nbsp;Property located at
   545 Fanshawe Park Road West (OZ-8286)
 
 That, on the recommendation of the Managing
@@ -1946,10 +1914,8 @@ Approve clauses 1 to 8, excluding clause 2.
 
 ****
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
 Councillor N. Branscombe enquires about the
   work being done at the Greenway Pollution Control Plant, and how that work
@@ -1960,10 +1926,8 @@ Councillor N. Branscombe enquires about the
   the Managing Director, Planning and City Planner to advise Councillors N. Branscombe
   and D. Brown with respect to this matter.
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -2161,7 +2125,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

@@ -12,14 +12,12 @@ June 17, 2014, at  4:02 PM
 > [!abstract]- Also Present:
 > D. Brown, J. Bryant, G. Barrett, G. Belch, C. Colvin, E. Conway, M. Davis, M. Elmadhoon, J.M. Fleming, S. Galloway, T. Grawey, N. Hall, B. Henry, P. Kokkoros, G. Kotsifas, E. Lalande, J. Logan, T. MacBeth, A. MacLean, D. Menard, N. Musicco, C. Parker, L. Pompilii, J. Ramsay, C. Saunders, M. Tomazincic, J. Yanchula, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that Councillor P. Hubert
   disclosed a pecuniary interest in clause 3 of this Report having to do with
   the request for expansion of  the London Downtown Business Association
   Improvement Area, by indicating that he is the Executive Director of a social
   service agency that works in collaboration with the Downtown Business
   Improvement Association.
 
-# 2.&nbsp;&nbsp;&nbsp;7th Report of the
   Advisory Committee on the Environment
 
 Recommendation:  That the 7th Report of the
@@ -43,7 +41,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;By-law CP-2 -
   London Downtown Business Association Improvement Area
 
 Recommendation:  That, on the
@@ -101,7 +98,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Properties located
   at 15790 and 15890 Robins Hill Road, 1010 and 1030 Wilton Grove Road, 2079
   Huron Street, 2072 and 2080 Dundas Street, 1473 Dundas Street, 632, 646 and
   652 Hale Street, 2536 and 2544 Colonel Talbot Road and 947 Longworth Road -
@@ -138,7 +134,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Silverfox Crescent
   (Blocks 77, 79 and 81 in Plan 33M-622)
 
 Recommendation:  That, on the
@@ -239,7 +234,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Woodhull
   Subdivision - Request to Amend Special Provisions (39T-03511)
 
 Recommendation:  That, on the
@@ -269,7 +263,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Property located at
   2035 Pennyroyal Street (H-8349)
 
 Recommendation:  That, on the
@@ -300,7 +293,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Property located at
   3399 Castle Rock Place (H-8333)
 
 Recommendation:  That, on the
@@ -331,7 +323,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Property located at
   77 Tecumseh Avenue West (H-8328)
 
 Recommendation:  That, on the
@@ -362,7 +353,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Property located at
   1040 Wharncliffe Road South - White Oaks Subdivision - Phase 3C (H-8233)
 
 Recommendation:  That, on the
@@ -393,7 +383,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Property located at
   665 Wonderland Road North (H-8352)
 
 Recommendation:  That, on the
@@ -424,7 +413,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Properties located
   at 192-196 and 193-197 Central Avenue and 200 Albert Street (Z-8336)
 
 Recommendation:  That, on the
@@ -529,7 +517,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Residential
   Driveway Widths (Z-8316)
 
 Recommendation:  That, on
@@ -664,7 +651,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Properties located
   at 83, 85 and 89 Ridout Street South (Z-8330)
 
 Recommendation:  That, on the
@@ -796,7 +782,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Property located at
   96 Ridout Street South (Z-8332)
 
 Recommendation:      That, on
@@ -967,7 +952,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Properties located
   at 250, 268, 270 and 272 Springbank Drive (OZ-8279)
 
 Recommendation:      That, on
@@ -1178,7 +1162,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;Industrial Land
   Review: Urban Growth Boundary for Future Industrial Growth (O-8014)
 
 Recommendation:  That, the Industrial Land
@@ -1276,7 +1259,6 @@ Motion
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;Old Victoria
   Hospital Lands Secondary Plan and Associated Official Plan Amendments - Old
   Victoria Hospital Lands Zoning Study (O-8158/Z-8344)
 
@@ -1388,7 +1370,6 @@ Motion
 
 ****
 
-# 19.&nbsp;&nbsp;&nbsp;5th Report of the
   Trees and Forests Advisory Committee
 
 Recommendation:  That, the following

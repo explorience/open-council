@@ -17,11 +17,9 @@ October 2, 2024, at  1:00 PM
 
 The meeting is called to order at 1:00 PM; it being noted that Councillor S. Hillier was in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Franke
 
@@ -84,7 +82,6 @@ That the 9th Report of the Ecological Community Advisory Committee, from its mee
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;9th Report of the Community Advisory Committee on Planning
 
@@ -499,11 +496,9 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -528,7 +523,6 @@ That the August 19, 2024 Deferred Matters List BE RECEIVED.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 > Moved by S. Lewis
 
@@ -559,7 +553,6 @@ The Planning and Environment Committee convenes In Closed Session from 2:46 PM t
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by S. Lewis
 

@@ -12,13 +12,11 @@ March 25, 2014, at 12:00 PM
 > [!abstract]- Also Present:
 > J.L. Baechler, S. Orser; G. Belch, J. Braam, J. Edmunds, K. Graham, A. Hagan, M. Hayward, G.T. Hopcroft, L. Livingstone, J. Logan, V. McAlea Major, D. Mounteer, K. Owen, M. Ribera, C. Saunders, J. Senese, J. Smout, J. Stanford, M. Turner, B. Warner
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;City of London Days
   - Budweiser Gardens
 
 Recommendation:  That, on the
@@ -45,7 +43,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Elected Officials
   and Appointed Citizen Members - 2014 Remuneration
 
 Recommendation:  That, on the
@@ -96,7 +93,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Public Sector
   Salary Disclosure Act Report for Calendar Year 2013
 
 Recommendation:  That, on the
@@ -122,7 +118,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Amendment to
   Council Policy 28(2) - Council Members' Expense Account
 
 Recommendation:  That the following actions
@@ -205,7 +200,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;New Council Policy
   - Mayor's Expenses
 
 Recommendation:  That the following actions
@@ -240,7 +234,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Architect to Act as
   Prime Consultant for the Normal School Renovation Request for Proposal No.
   13-47 - Project #GG1558
 
@@ -291,7 +284,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Year 2014 Education
   Tax Rates
 
 Recommendation:  That, on the
@@ -317,7 +309,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Rooftop Solar PV
   Systems on Municipal Buildings Under the Fit 3.0 Program Rules Update
 
 Recommendation:  That, on the
@@ -351,7 +342,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Local Improvement
   Charges for Energy and Water Efficiency Improvements Update
 
 Recommendation:  That, on the
@@ -376,7 +366,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Old East Village
   Business Improvement Area - 2014 Proposed Budget - Municipal Special Levy
 
 Recommendation:  That, on the
@@ -423,7 +412,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;London Downtown
   Business Association - 2014 Proposed Budget - Municipal Special Levy
 
 Recommendation:  That, on the
@@ -470,7 +458,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Argyle Business
   Improvement Area - 2014 Proposed Budget - Municipal Special Levy
 
 Recommendation:  That, on the
@@ -517,7 +504,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;London Bid to Host
   AMO Annual General Meeting Conference and Trade Show 2018, 2019 and 2020
 
 Recommendation:  That, on the
@@ -559,7 +545,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Bill 69: The Prompt
   Payment Act 2013
 
 Recommendation:  That, on the
@@ -584,7 +569,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Apportionment of
   Taxes
 
 Recommendation:  That, on the
@@ -629,7 +613,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;Year 2014 Tax
   Policy
 
 Recommendation:  That, on the
@@ -711,7 +694,6 @@ Motion
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;Board of Directors
   - Federation of Canadian Municipalities
 
 Recommendation:  That the following actions
@@ -796,7 +778,6 @@ Motion
 
 ****
 
-# 19.&nbsp;&nbsp;&nbsp;Comprehensive
   Economic and Trade Agreement (CETA)
 
 That the following actions be taken with
@@ -830,7 +811,6 @@ Motion
 
 ****
 
-# 20.&nbsp;&nbsp;&nbsp;Changes to Canada
   Post Delivery
 
 That the following actions be taken with
@@ -865,7 +845,6 @@ Motion
 
 ****
 
-# 21.&nbsp;&nbsp;&nbsp;Request for
   Designation of the Forest City Beer Fest as a Municipally Significant Event
 
 Recommendation:  That the Forest City Beer
@@ -889,7 +868,6 @@ Motion
 
 ****
 
-# 22.&nbsp;&nbsp;&nbsp;Appointment to the
   Community Safety and Crime Prevention Advisory Committee (Requires 1
   Appointment from Middlesex London Child Safety)
 
@@ -915,7 +893,6 @@ Motion
 
 ****
 
-# 23.&nbsp;&nbsp;&nbsp;Environmental and
   Ecological Planning Advisory Committee (Requires up to 5 Members at Large)
 
 Recommendation:  That Jeff Smith BE

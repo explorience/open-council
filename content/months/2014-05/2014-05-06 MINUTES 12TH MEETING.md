@@ -18,7 +18,6 @@ May 6, 2014, at  4:06 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:06 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 Councillor N. Branscombe discloses a
@@ -41,13 +40,10 @@ Councillor M. Brown discloses a pecuniary
   Summerside neighbourhood, by indicating that the Thames Valley District
   School Board is his employer.
 
-# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that Councillor J.P.
@@ -55,19 +51,15 @@ That it BE NOTED that Councillor J.P.
   with the 2014 Ontario Provincial General Election Candidate Questionnaire, by
   indicating that she has declared herself a candidate in that Election.
 
-# IV.&nbsp;&nbsp;&nbsp;COMMITTEE OF THE WHOLE, IN
   CAMERA (continued)
 
-# 10.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Animal Welfare Advisory Committee
 
 That Kaylie MacIntosh BE APPOINTED as a
   Voting Member-at-Large on the Animal Welfare Advisory Committee, for the term
   ending February 28, 2015.
 
-# V.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE ELEVENTH MEETING HELD ON APRIL 15, 2014
 
 > Moved by Councillor B. Polhill
@@ -103,7 +95,6 @@ Motion Passed
 
 ****
 
-# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
 > Moved by Councillor P. Hubert
@@ -115,7 +106,6 @@ Approve referral of Communication Nos. 1,
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;City Initiated
   Assessment Appeals
 
 That, on the recommendation of the Managing
@@ -124,7 +114,6 @@ That, on the recommendation of the Managing
   for the properties as set out in Schedule “A”, appended to the staff report
   dated April 29, 2014.
 
-# 3.&nbsp;&nbsp;&nbsp;Vehicle Lease
   Agreement - Fleet Services and London Animal Care Centre and Services Policy
 
 That, on the recommendation of the Managing
@@ -154,10 +143,8 @@ b)         authorize
   the Mayor and the City Clerk to execute the lease agreement noted in a),
   above.
 
-# VIII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# IX.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor H.L. Usher
 
@@ -165,7 +152,6 @@ Approve clauses 1 to 16, excluding clauses 3, 12 and 15.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;2013 Compliance
   Report in Accordance with the Procurement of Goods and Services Policy
 
 That, on the recommendation of the Managing
@@ -174,7 +160,6 @@ That, on the recommendation of the Managing
   report in accordance with the Procurement of Goods and Services Policy, BE
   RECEIVED for information.
 
-# 5.&nbsp;&nbsp;&nbsp;Transfer of Donated
   Funds to Mayor's Sustainable Energy Council
 
 That, on the recommendation of the Director
@@ -183,7 +168,6 @@ That, on the recommendation of the Director
   Development Corporation to support the activities of the Mayor’s Sustainable
   Energy Council (MSEC).
 
-# 6.&nbsp;&nbsp;&nbsp;2014 Ontario
   Provincial General Election Candidate Questionnaire
 
 > Moved by Councillor H.L. Usher
@@ -354,7 +338,6 @@ Motion Passed
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;London Hosting of
   Federation of Canadian Municipalities (FCM) 2015 sustainable Communities
   Conference and Trade Show
 
@@ -366,7 +349,6 @@ That, on the recommendation of the Director
   any remaining balance can be accommodated within the 2014 and 2015 operating
   budgets.
 
-# 8.&nbsp;&nbsp;&nbsp;Request for Tender
   14-08: 2014 Infrastructure Lifecycle Renewal Program Contract #1, Simcoe
   Street and Henry Street
 
@@ -379,7 +361,6 @@ That, on the recommendation of the Managing
   a verbal delegation from Curtis Brekelmans and Chris Brekelmans, representing
   Bre-Ex Construction Inc., with respect to the appeal.
 
-# 9.&nbsp;&nbsp;&nbsp;Required
   Expenditure for HVAC Unit
 
 That Covent Garden Market Corporation BE
@@ -387,7 +368,6 @@ That Covent Garden Market Corporation BE
   roof-top heating/air conditioning units utilized by Covent Garden Market
   Corporation.
 
-# 11.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Community Safety and Crime Prevention Advisory Committee
 
 That Robert Barber, representative of
@@ -395,7 +375,6 @@ That Robert Barber, representative of
   Safety and Crime Prevention Advisory Committee, for the term ending February
   28, 2015.
 
-# 13.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the London Diversity and Race Relations Advisory Committee
 
 That Joseph Nsabimana, representative of
@@ -403,7 +382,6 @@ That Joseph Nsabimana, representative of
   Diversity and Race Relations Advisory Committee, for the term ending February
   28, 2015.
 
-# 14.&nbsp;&nbsp;&nbsp;Consideration of
   Appointments to the Cycling Advisory Committee
 
 That the following individuals BE APPOINTED
@@ -435,7 +413,6 @@ Non-Voting:
 -           Paul Dubniak (London Transit
   Commission)
 
-# 16.&nbsp;&nbsp;&nbsp;Ombudsman Ontario -
   Closing Letter re: Industrial Land Strategy
 
 That the communication dated April 24,
@@ -444,7 +421,6 @@ That the communication dated April 24,
   meeting held with respect to the City’s Industrial Land Development Strategy,
   BE RECEIVED.
 
-# 12.&nbsp;&nbsp;&nbsp;Consideration of
   Appointments to the Transportation Advisory Committee
 
 That the following individuals BE APPOINTED
@@ -456,7 +432,6 @@ That the following individuals BE APPOINTED
 -           Julian Pecchia (Representative
   of the Canadian Automobile Association (CAA))
 
-# 15.&nbsp;&nbsp;&nbsp;2014 Debenture
   Issue Update
 
 That, on the recommendation of the Managing
@@ -480,7 +455,6 @@ it being noted that the Corporate Services
   Capital Markets, regarding the debenture issuance and general market
   conditions and forecasts.
 
-# 17.&nbsp;&nbsp;&nbsp;Ombudsman Ontario -
   Closing Letter re: Fire Services
 
 That the communication dated April 24,
@@ -513,15 +487,11 @@ Motion Passed
 
 ****
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -624,7 +594,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

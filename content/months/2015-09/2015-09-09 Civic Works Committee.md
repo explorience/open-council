@@ -15,7 +15,6 @@ September 9, 2015, at  4:10 PM
 > [!abstract]- Also Present:
 > J. Braam, A. Dunbar, D. Huggins, S. Koshowski, J. Lucas, S. Maguire, L. Rowe, J. Simon, E. Soldo, S. Spring, J. Stanford
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that
@@ -24,7 +23,6 @@ Recommendation:  That it BE NOTED that
   to the Canada Post Community Mailbox Program, by indicating that his spouse
   is employed by Canada Post.
 
-# 2.&nbsp;&nbsp;&nbsp;7th Report of the
   Cycling Advisory Committee
 
 That the following actions be taken with
@@ -56,7 +54,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;EMCO Corporation
   Waterworks, Supply and Delivery of Itron® Electronic Radio Transmitters,
   Single Source Procurement (SS15-18)
 
@@ -140,7 +137,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Amendments to the
   Traffic and Parking By-law
 
 That, on the recommendation of the Managing
@@ -166,7 +162,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Proposed Regulatory
   Amendments to Update Ontario Drinking Water Quality Standards and Testing and
   Reporting Requirements
 
@@ -192,7 +187,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Kilally Road
   Improvements Phase 1, Appointment of Consulting Engineer
 
 That, on the recommendation of the Managing
@@ -238,7 +232,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the following actions be taken with
@@ -267,7 +260,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Canadian Urban
   Transit Association (CUTA) Federal Election Initiative
 
 That the following actions be taken with

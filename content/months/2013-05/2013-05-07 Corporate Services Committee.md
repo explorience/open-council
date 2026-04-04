@@ -12,12 +12,10 @@ May 7, 2013, at  1:11 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, A.L. Barbon, G. Belch, S. Datars Bere, E. Gamble, K. Graham, D. Gupta, M. Hayward, G.T. Hopcroft, L. Livingstone, J. Logan, V. McAlea Major, J. Page, R. Paynter, M. Ribera, C. Saunders, M. Turner
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that Councillor J.P.
   Bryant disclosed a pecuniary interest in clause 2 of this Report having to do
   with Western University’s Strategic Plan by indicating that her spouse is on
   the faculty of Western University.
 
-# 2.&nbsp;&nbsp;&nbsp;Western
   University's Strategic Plan
 
 Recommendation:  That the Mayor and the
@@ -28,7 +26,6 @@ Recommendation:  That the Mayor and the
   program; it being noted that the Corporate Services Committee received an
   information report from the City Manager with respect to this matter.
 
-# 3.&nbsp;&nbsp;&nbsp;City Initiated
   Assessment Appeals
 
 Recommendation:  That, on the
@@ -37,7 +34,6 @@ Recommendation:  That, on the
   appeals under the Assessment Act for the properties as set out in
   Schedule “A” appended to the staff report dated May 7, 2013.
 
-# 4.&nbsp;&nbsp;&nbsp;Voluntary Donations
   to
 the
   City of London
@@ -56,7 +52,6 @@ b)           
   website to make reference to the ability to make a donation to the City of
   London, in keeping with current practices.
 
-# 5.&nbsp;&nbsp;&nbsp;Annual Meeting
   Calendar
 
 Recommendation:  That, on the
@@ -66,7 +61,6 @@ Recommendation:  That, on the
   calendar may be required from time to time in order to accommodate special
   meetings or changes to governing legislation.
 
-# 6.&nbsp;&nbsp;&nbsp;City of London Days
   - Budweiser Gardens
 
 Recommendation:  That, on the
@@ -78,7 +72,6 @@ Recommendation:  That, on the
   London Day at the Budweiser Gardens; it being noted that only one other
   request has been received for 2013.
 
-# 7.&nbsp;&nbsp;&nbsp;Welcoming the World
   to London Campaign
 
 Recommendation:  That, on the
@@ -90,7 +83,6 @@ Recommendation:  That, on the
   Corporate Services Committee heard a verbal delegation from the Director of
   Corporate Communications with respect to this matter.
 
-# 8.&nbsp;&nbsp;&nbsp;Additional
   Information Regarding Training Expenditures for London Hydro Board Members
 
 Recommendation:  That the City Clerk BE

@@ -25,11 +25,9 @@ June 22, 2021, at 12:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by P. Van Meerbergen
 
@@ -341,15 +339,12 @@ d)        the funding for this purchase BE APPROVED as set out in the Source
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 > Moved by S. Turner
 
@@ -385,7 +380,6 @@ b)        clauses 1.1 to 3.8 and 5.1 to 6.1, BE RECEIVED.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 12:17 PM.
 

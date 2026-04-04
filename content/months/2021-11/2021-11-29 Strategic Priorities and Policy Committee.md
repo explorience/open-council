@@ -17,15 +17,12 @@ November 29, 2021, at  4:00 PM
 
 The meeting is called to order at 4:01 PM; it being noted that the following were in remote attendance:  Mayor E. Holder and Councillors M. van Holst, M. Salih, J. Helmer, J. Morgan, A. Hopkins, P. Van Meerbergen, S. Turner, S. Hillier.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Councillor S. Turner discloses a pecuniary interest with respect to any items related to the London Public Library (LPL), by indicating that his spouse is employed by the LPL.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Public Participation Meeting - Not to be heard before 4:00 PM - 2022 Budget
 
@@ -151,15 +148,12 @@ Motion to close the Public Participation Meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by S. Lewis
 

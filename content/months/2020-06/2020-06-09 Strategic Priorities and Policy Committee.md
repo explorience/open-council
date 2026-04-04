@@ -17,17 +17,14 @@ June 9, 2020, at  4:00 PM
 
 The meeting is called to order at 4:01 PM; it being noted that the following were in remote attendance: M. van Holst, M. Salih, J. Helmer, M. Cassidy, S. Lehman, A. Hopkins, P. Van Meerbergen, S. Turner, E. Peloza, A. Kayabaga, S. Hillier
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Councillor S. Turner discloses a pecuniary interest in Item 5.2 b), having to do with London Boards - Black Lives Matter Rally, specifically as it relates to the Middlesex London Health Unit (MLHU), by indicating that the MLHU is his employer.
 
 Councillor J. Morgan discloses a pecuniary interest in Item 4.1, having to do with an appointment to the London Library Board, by indicating that one of the applicants is a Board Member of his employer, Western University.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Housing Development Corporation, London - 2019 Annual Meeting of the Shareholder Annual Resolutions
 
@@ -188,7 +185,6 @@ c)      the 2019 Report on Finance for London Hydro Inc., BE RECEIVED.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Consideration of Appointment to the London Public Library (Requires 1 Member)
 
@@ -422,7 +418,6 @@ That the communication dated May 19, 2020 regarding the resignation of Kimble F.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Anti-Black, Anti-Indigenous, People of Colour Racism
 
@@ -541,7 +536,6 @@ That the Middlesex-London Health Unit Board BE REQUESTED to respond to the issue
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourns at 7:31 PM.
 

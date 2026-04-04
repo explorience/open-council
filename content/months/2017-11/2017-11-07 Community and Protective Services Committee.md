@@ -12,13 +12,11 @@ November 7, 2017, at  4:00 PM
 > [!abstract]- Also Present:
 > J. Helmer, M. van Holst; M. Hayward, J. Archer, I. Collins, S. Datars Bere, C. DeForest, L. Livingstone, Dr. C. Mackie (MLHU), M. Marcellin, D. Purdy, A. Small, C. Smith, S. Spring, S. Stafford, J. Westbrook, B. Westlake-Power, R. Wilcox
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Proposed Municipal
   Housing Facilities By-law
 
 That, on the recommendation of the Managing
@@ -44,7 +42,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Award Request for
   Proposal 17-11 Group Purchasing Organization Services
 
 That, on the recommendation of the Managing
@@ -98,7 +95,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Introduction of the
   By-law to Appoint Kevin Dickins to the Statutory Position of Ontario Works
   Administrator
 
@@ -137,7 +133,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Response to the
   Report of the Minister’s Expert Panel on Public Health
 
 That, on the recommendation of the City
@@ -179,7 +174,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Ontario Early Years
   Child and Family Centres  Ontario Transfer Payment Agreement and Ontario
   Early Years Child and Family Centres Funding Agreement Template
 
@@ -297,7 +291,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Request for
   Proposal 17-47 - "Early Years Programming - Parent and Family Literacy
   Centres and Lambeth Early Years Playgroup"
 
@@ -347,7 +340,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Taxi Plate Issuing
 
 That the delegation from Y. Barbin related
   to taxi plate issuing BE DEFERRED to a future meeting of the Community and
@@ -370,7 +362,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;10th Report of the
   Diversity Inclusion and Anti-Oppression Advisory Committee
 
 That the following actions be taken with
@@ -431,7 +422,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;6th Report of the
   Community Safety and Crime Prevention Advisory Committee
 
 That the following actions be taken with
@@ -476,7 +466,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;9th Report of
   London Housing Advisory Committee
 
 That the following actions be taken with
@@ -511,7 +500,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That it BE NOTED the September 2017
@@ -536,7 +524,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;(ADDED) Invitation
   to the London Police Services Board to Utilize City of London Meeting
   Supports
 

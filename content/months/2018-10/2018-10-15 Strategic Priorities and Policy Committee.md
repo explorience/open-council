@@ -14,13 +14,11 @@ October 15, 2018, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Councillor S. Turner advised of intent to disclose a pecuniary interest in Item 6.1, in Closed Session.
 
 Councillor P. Hubert advised of intent to disclose a pecuniary interest in Item 6.1, in Closed Session.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by H. Usher
 
@@ -146,11 +144,9 @@ Tony Soares - December 1, 2018 to November 30, 2021,  (Class 3)
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 > Moved by H. Usher
 
@@ -208,7 +204,6 @@ That Tom Delaney from Oxford Dodge on Hyde Park Road BE APPOINTED to the Hyde Pa
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;London Hydro – Request for BRT-related Information
 
@@ -237,7 +232,6 @@ That London Hydro be requested to provide to the shareholder, London City Counci
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by M. van Holst
 
@@ -280,7 +274,6 @@ The Strategic Priorities and Policy Committee convened in Closed Session from 4:
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned 6:54 PM.
 

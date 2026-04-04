@@ -12,9 +12,7 @@ January 9, 2012, at  4:06 PM
 > [!abstract]- Also Present:
 > J.A. Fielding, R.L. Fair, J.P. Barber, G. Barrett, J. Braam, T. Copeland, J.M. Fleming, E. Gamble, A. Macpherson, V. McAlea Major, B. Page, R. Paynter, C. Saunders, R. Sharpe, B. Turcotte
 
-# 1.&nbsp;&nbsp;&nbsp;None are disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Community
   Engagement Task Force - Final Report
 
 Recommendation:  That, on the
@@ -61,7 +59,6 @@ it being noted that the Strategic Priorities
   and Policy Committee heard a verbal presentation from the Managing Director
   of Corporate Communications with respect to this matter.
 
-# 3.&nbsp;&nbsp;&nbsp;Thames Valley
   Corridor Plan - Final Report
 
 Recommendation:  That, on the
@@ -146,7 +143,6 @@ it being pointed
   Ebury Crescent and G. Smith, Friends of Meadowlily Woods Community
   Association, to staff for consideration.
 
-# 4.&nbsp;&nbsp;&nbsp;Appointment
   Recommendation to the London Convention Centre Corporation Board of Directors
 
 Recommendation:

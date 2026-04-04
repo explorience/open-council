@@ -12,13 +12,11 @@ April 22, 2017, at 11:03 AM
 > [!abstract]- Also Present:
 > B. Armstrong, M. Cassidy, V. Ridley, P. Squire, S. Turner, M. van Holst, J. Zaifman; L. Livingstone, S. Corman, C. Dyck, D. O’Brien, C. Saunders, S. Smout, S. Spring, G. Tucker
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Ranked Ballot Model
 
 That the following actions be taken with

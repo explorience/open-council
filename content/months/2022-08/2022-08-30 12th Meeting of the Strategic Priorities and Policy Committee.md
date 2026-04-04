@@ -17,11 +17,9 @@ August 30, 2022, at  4:00 PM
 
 The meeting is called to order at 4:01 PM; it being noted that the following Members were in remote attendance: M. van Holst, M. Salih, J. Helmer, A. Hopkins, P. Van Meerbergen, S. Turner, E. Peloza and S. Hillier.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Councillor J. Helmer discloses a pecuniary interest with respect to Item 2.2, having to do with the Municipal Accommodation Tax and Short-term Accommodations, by indicating that he has rented home in past with AirBNB and may do so again in the future.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;3rd Report of the Diversity, Inclusion and Anti-Oppression Community Advisory Committee
 
@@ -86,11 +84,9 @@ That, on the recommendation of the Deputy City Manager, Finance Supports, the pr
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Allocation of Remaining London Community Recovery Network (LCRN) Funding
 
@@ -124,11 +120,9 @@ That the Civic Administration, including (but not limited to) staff in Social an
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by A. Hopkins
 

@@ -17,11 +17,9 @@ September 8, 2025, at  1:00 PM
 
 The meeting was called to order at 1:01 PM.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by P. Cuddy
 
@@ -224,7 +222,6 @@ c)    the Civic Administration BE DIRECTED to report back to a future meeting 
 
 That it BE NOTED that item 2.4, entitled Public Nuisance (PH-18) By-law and Administrative Monetary Penalty Systems (AMPs) By-law Amendments, was withdrawn from the agenda at the direction of the Deputy City Manager, Housing and Community Growth.
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;5th Report of the Environmental Stewardship and Action Community Advisory Committee
 
@@ -296,11 +293,9 @@ That the delegation request from B. Samuels BE APPROVED.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) Councillor S. Stevenson - Urgent Situation Within London's Housing Stability Program
 
@@ -308,7 +303,6 @@ None.
 
 That it BE NOTED that a communication, dated September 3, 2025, from Councillor S. Stevenson, with respect to an Urgent Situation Within London's Housing Stability Program, was submitted to the Community and Protective Services Committee Agenda.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by H. McAlister
 

@@ -17,11 +17,9 @@ April 16, 2019, at 12:30 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by J. Helmer
 
@@ -351,11 +349,9 @@ b)        the Civic Administration BE DIRECTED to prepare a policy for Co
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Council Member's Expense Account Policy
 
@@ -380,7 +376,6 @@ That the Governance Working Group BE DIRECTED to undertake a fulsome review of t
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Corporate Services Committee Public Deferred Matters List
 
@@ -405,7 +400,6 @@ That the Corporate Services Committee Deferred Matters List, as of April 8, 2019
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by P. Van Meerbergen
 
@@ -460,7 +454,6 @@ The Corporate Services Committee convened In Closed Session from 2:23 PM to 2:50
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 2:51 PM.
 

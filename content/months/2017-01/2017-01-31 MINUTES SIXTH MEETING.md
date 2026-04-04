@@ -15,12 +15,9 @@ January 31, 2017, at  4:05 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:05 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
-# II.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That is BE NOTED that the following
@@ -112,7 +109,6 @@ Motion Passed
 
 ****
 
-# III.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
 > Moved by Councillor P. Squire
@@ -148,7 +144,6 @@ Motion Passed
 
 ****
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
 > Moved by Councillor P. Squire
 
@@ -228,10 +223,8 @@ Motion Passed
 
 ****
 
-# IV.&nbsp;&nbsp;&nbsp;COUNCIL, IN CLOSED SESSION
   (continued)
 
-# VIII.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor M. Salih
 
@@ -239,7 +232,6 @@ Approve clauses 1 to 16, excluding clauses 3, 9 and 11.
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Request for Delegation Status - Richard
   Robson, Executive Director, London Police Association (continued)
 
 > Moved by Councillor P. Squire
@@ -309,13 +301,11 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Eldon House
 
 That the resignation of Mike Donachie from
   Eldon House BE ACCEPTED, and Marvin Recker BE APPOINTED to the Eldon House
   Board for a term ending November 30, 2018.
 
-# 5.&nbsp;&nbsp;&nbsp;1st Report of the
   Outstanding London Ambassador Award Committee
 
 That the following actions be taken with
@@ -335,13 +325,11 @@ b)         clauses
 c)         clauses 1 to 7 and clause 8a) BE
   RECEIVED.
 
-# 6.&nbsp;&nbsp;&nbsp;Request for London
   Police Services/City of London Liaison Committee
 
 That the communication dated January 30,
   2017, from Mayor M. Brown and Councillor S. Turner, BE NOTED AND FILED.
 
-# 7.&nbsp;&nbsp;&nbsp;Rapid Transit
   Implementation Working Group
 
 That the resignation of Councillor J.
@@ -371,7 +359,6 @@ Motion Passed
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Sanctuary City
 
 That the following actions be taken in
   response to the President of the United States of America’s executive order
@@ -513,10 +500,8 @@ Motion Passed
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Mushroom Farm
   Zoning Review (Z-8513) (Relates to Bill No. 85)
 
-# 12.&nbsp;&nbsp;&nbsp;Change in
   Representation on the London Advisory Committee on Heritage
 
 That the representation of Shawn Adamsson
@@ -524,7 +509,6 @@ That the representation of Shawn Adamsson
   representative of the Emerging Leaders to a voting representative of the
   Urban League of London.
 
-# 13.&nbsp;&nbsp;&nbsp;Funding Unclosed
   Projects
 
 That the Managing Director, Corporate
@@ -534,7 +518,6 @@ That the Managing Director, Corporate
   a proposed policy outlining when funding for unclosed projects should be
   transferred to surplus for utilization for other Council initiatives.
 
-# 14.&nbsp;&nbsp;&nbsp;Federation of
   Canadian Municipalities (FCM) Board of Directors
 
 That Councillor H.L. Usher BE AUTHORIZED to
@@ -543,13 +526,11 @@ That Councillor H.L. Usher BE AUTHORIZED to
   the 2016/2017 year, until June 2017, and to have his associated expenses covered
   by the City of London.
 
-# 15.&nbsp;&nbsp;&nbsp;Corporate Services
   Committee Deferred Matters List
 
 That the Corporate Services Committee
   Deferred Matters List, as of January 16, 2017, BE RECEIVED.
 
-# 16.&nbsp;&nbsp;&nbsp;Review of City of
   London Ward Boundaries
 
 That, on the recommendation of the City
@@ -559,7 +540,6 @@ That, on the recommendation of the City
   time that is later in the day, in order to receive public input on the
   proposed ward boundary changes.
 
-# 3.&nbsp;&nbsp;&nbsp;London Police
   Services Board
 
 That the resignation of Paul Paolatto from
@@ -601,7 +581,6 @@ Motion Passed
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Property Located at
   1245 Michael Street (39T-1506/Z-8664) (Relates to Bill No. 84)
 
 Motion Passed
@@ -626,7 +605,6 @@ Motion Passed
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Request for
   Designation of the Colombia Gastronomy Festival as a Municipally Significant
   Event
 
@@ -635,7 +613,6 @@ That the Colombian Gastronomy Festival
   Covent Garden Market, BE DESIGNATED as an event of municipal significance in
   the City of London.
 
-# 17.&nbsp;&nbsp;&nbsp;“No-cut” Employment
   Agreements
 
 That it BE NOTED that Councillor P. Hubert
@@ -669,7 +646,6 @@ Motion Passed
 
 ****
 
-# V.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE FIFTH MEETING HELD JANUARY 17, 2017
 
 > Moved by Councillor M. van Holst
@@ -703,7 +679,6 @@ Motion Passed
 
 ****
 
-# VI.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
 > Moved by Councillor J. Helmer
@@ -715,7 +690,6 @@ Approve the receipt and referral of the
 
 ****
 
-# VII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
 > Moved by Councillor T. Park
@@ -724,16 +698,12 @@ Approve clauses 1 to 10, excluding clauses 6 and 9.
 
 ****
 
-# IX.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:

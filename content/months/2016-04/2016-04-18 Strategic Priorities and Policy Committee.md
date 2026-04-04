@@ -15,13 +15,11 @@ April 18, 2016, at  4:04 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, P. Foto, K. Graham, M. Hayward, G. Kotsifas, L. Livingstone, V. McAlea Major, D. O’Brien, C. Saunders, S. Spring, E. White
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;2016 Council Compensation
   Review Task Force Terms of Reference - Revision
 
 That, on the recommendation of the City
@@ -52,7 +50,6 @@ Motion Passed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;2nd Report of the
   Outstanding London Ambassador Award Committee
 
 That the following actions be taken with
@@ -97,7 +94,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Follow-Up on
   Municipal Implications of the Truth and Reconciliation Commission Report
 
 That the following actions be taken with
@@ -142,7 +138,6 @@ Motion Passed
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Improving
   Collaboration with Local Boards and Commissions and Strategic Plan Alignment
 
 That, on the recommendation of the City
@@ -187,7 +182,6 @@ Motion Passed
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Mayor's Advisory
   Panel on Poverty Final Report: London For All: A Roadmap to End Poverty
 
 That the Municipal Council take the
@@ -323,10 +317,8 @@ Motion Passed
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Board of Directors
   - Federation of Canadian Municipalities - Councillor H.L. Usher
 
-# 8.&nbsp;&nbsp;&nbsp;Board of Directors
   - Federation of Canadian Municipalities - Deputy Mayor Cassidy
 
 That the following actions be taken with
@@ -398,7 +390,6 @@ Motion Passed
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Greater London
   International Airport Authority Board of Directors –  Nominations
 
 That the following actions be taken with

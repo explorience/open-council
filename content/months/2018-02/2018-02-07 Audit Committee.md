@@ -12,19 +12,16 @@ February 7, 2018, at 12:02 PM
 > [!abstract]- Also Present:
 > J. Helmer, D. Baldwin (KPMG), A.L. Barbon, B. Card, I. Collins, K. den Bok (KPMG), A. DiCicco, P. Kokkoros, D. O’Brien, J. Pryce (Deloitte), A. Ruffudeen (Deloitte), C. Saunders, E. Skalski, S. Spring, S. Swance
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Election of
   Vice-Chair for the term ending November 30, 2018
 
 That M. van Holst BE ELECTED Vice Chair of
   the Audit Committee for the term ending November 30, 2018.
 
-# 3.&nbsp;&nbsp;&nbsp;Audit Planning
   Report for the Year Ended December 31, 2017
 
 That the KPMG LLP Audit Planning Report,
@@ -32,7 +29,6 @@ That the KPMG LLP Audit Planning Report,
   Audit Committee received a verbal presentation from K. den Bok, with respect
   to this matter.
 
-# 4.&nbsp;&nbsp;&nbsp;London Downtown
   Closed Circuit Television Program – Report on the Results of Applied
   Specified Auditing Procedures for the Year Ending December 31, 2017
 
@@ -40,7 +36,6 @@ That the KPMG Report on Specified Auditing
   Procedures for the London Downtown Closed Circuit Television Program, for the
   year ending December 31, 2017, BE RECEIVED.
 
-# 5.&nbsp;&nbsp;&nbsp;Building Permit
   Review - Internal Audit Report
 
 That the following actions be taken with
@@ -78,7 +73,6 @@ it being noted that the attached
   documents related to the London Hydro service portal were circulated to
   committee members by Councillor M. van Holst.
 
-# 6.&nbsp;&nbsp;&nbsp;Freedom of
   Information Process Review - Final Internal Audit Report
 
 That the Internal Audit Report with respect
@@ -86,20 +80,17 @@ That the Internal Audit Report with respect
   January 2018, BE RECEIVED and the recommendations BE IMPLEMENTED as
   appropriate, and in accordance with applicable legislation.
 
-# 7.&nbsp;&nbsp;&nbsp;Internal Audit
   Summary Update Memo
 
 That the memo dated January 29, 2018, from
   Deloitte, with respect to the internal audit summary update BE RECEIVED.
 
-# 8.&nbsp;&nbsp;&nbsp;June 2017 -
   December 2018 Internal Audit Dashboard as at January 29, 2018
 
 That the communication from Deloitte,
   regarding the June 2017 - December 2018 internal audit dashboard as of
   January 29, 2018, BE RECEIVED.
 
-# 9.&nbsp;&nbsp;&nbsp;Observation Summary
   as at January 29, 2018
 
 That the Observation Summary from Deloitte,

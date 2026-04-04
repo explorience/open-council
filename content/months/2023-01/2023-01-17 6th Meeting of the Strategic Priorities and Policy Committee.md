@@ -17,11 +17,9 @@ January 17, 2023, at  4:00 PM
 
 The meeting is called to order at 4:03 PM; it being noted that Councillor P. Van Meerbergen was in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that Councillor S. Trosow disclosed a pecuniary interest in Item 4.3, having to do with consideration of appointments to the Lower Thames Valley Conservation Authority, by indicating that one of the candidates is his spouse.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.2&nbsp;&nbsp;&nbsp;1st Report of the Diversity, Inclusion and Anti-Oppression Community Advisory Committee
 
@@ -119,7 +117,6 @@ That the delegation request from Mr. M. Wallace, LDI, BE APPROVED to be heard at
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Public Participation Meeting - Not to be heard before 4:05 PM - 2023 Budget
 
@@ -364,7 +361,6 @@ That notwithstanding the Council Procedure By-law, the delegation BE PERMITTED t
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Confirmation of Appointment to the Old East Village Business Improvement Area
 
@@ -611,11 +607,9 @@ d)    the City Clerk BE DIRECTED to advertise the vacancy and bring forward ap
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 ## 6.1&nbsp;&nbsp;&nbsp;Solicitor-Client Privileged Advice
 
@@ -649,7 +643,6 @@ The Strategic Priorities and Policy Committee convened, In Closed Session, from 
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by A. Hopkins
 

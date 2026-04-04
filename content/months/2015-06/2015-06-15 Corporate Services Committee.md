@@ -15,10 +15,8 @@ June 15, 2015, at 12:05 PM
 > [!abstract]- Also Present:
 > J. Helmer, V. Ridley, M. van Holst; A. Zuidema, B. Baar, J.P. Barber, A.L. Barbon, J. Braam, D. Dobson, A. Dunbar, C. Dziedzic, K. Graham, J. Klingenberger, J. Lucas, S. MacDonald, S. Mathers, D. Mounteer, J. Stanford, R. Sutton, B. Warner, T. Wellhauser
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
-# 2.&nbsp;&nbsp;&nbsp;Signing Authority
   for Computer Lease Renewals
 
 Motion
@@ -69,7 +67,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Ranked Ballots for
   Municipal Elections in Ontario
 
 The communication from M. McAlpine, on
@@ -94,7 +91,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;ADDED - Request for
   Proposals Process for Land Leases for City-Owned Land in the Vicinity of the
   W12A Landfill and Resource Recovery Area
 

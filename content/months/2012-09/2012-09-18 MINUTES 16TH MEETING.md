@@ -18,20 +18,14 @@ September 18, 2012, at  5:01 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 5:01 PM.
 
-# I.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
-# 2.&nbsp;&nbsp;&nbsp;Governance Model
     Review
 
-# 3.&nbsp;&nbsp;&nbsp;Appointment of Jeff Gillies to the London
     Public Library Board
 
-# II.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
-# III.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE FIFTEENTH MEETING HELD ON AUGUST 28, 2012
 
 > Moved by Councillor B. Polhill
@@ -68,10 +62,8 @@ Motion Passed
 
 ****
 
-# IV.&nbsp;&nbsp;&nbsp;REVIEW
   OF CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# V.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
 > Moved by Councillor J.L. Baechler
@@ -83,25 +75,20 @@ Approve referral of the following
 
 ****
 
-# VI.&nbsp;&nbsp;&nbsp;MOTIONS
   OF WHICH NOTICE IS GIVEN
 
-# VII.&nbsp;&nbsp;&nbsp;ADDED REPORTS
 
-# VIII.&nbsp;&nbsp;&nbsp;REPORTS
 
 Motion
   made by Councillor H.L. Usher to Approve clauses 1 to 15, excluding clauses 2
   and 14.
 
-# 4.&nbsp;&nbsp;&nbsp;Digital Technology
   Adoption Pilot Program
 
 That the Digital Technology Adoption Pilot
   Program correspondence from S. L. McIntosh, Senior Project Developer, Editor,
   Research Fanshawe Magazine, Applied Research and Innovation BE RECEIVED.
 
-# 5.&nbsp;&nbsp;&nbsp;Museum London
   By-law to Revise the London Regional Art and Historical Museums Act 1989
 
 That, on the recommendation of the Director
@@ -125,7 +112,6 @@ it being pointed out that at the public
   Board should remain at 21, instead of 15; and, indicating that the membership
   on the Board should be broader based.
 
-# 6.&nbsp;&nbsp;&nbsp;Economic
   Initiatives
 
 That it BE NOTED that the Investment and
@@ -136,7 +122,6 @@ That it BE NOTED that the Investment and
   be providing a status report regarding these matters to the September 24,
   2012 meeting of the IEPC.
 
-# 7.&nbsp;&nbsp;&nbsp;2012 Capital Budget
   Status - Second Quarter Report
 
 That, on the recommendation of the Managing
@@ -144,7 +129,6 @@ That, on the recommendation of the Managing
   report dated September 4, 2012 regarding the 2012 Capital Budget Status -
   Second Quarter report BE RECEIVED for information.
 
-# 8.&nbsp;&nbsp;&nbsp;Additional
   Municipal Act Reporting Requirements Due to Implementation of Tangible
   Capital Assets
 
@@ -153,7 +137,6 @@ That, on the recommendation of the Deputy
   Municipal Act reporting requirements due to implementation of tangible
   capital assets BE RECEIVED for information.
 
-# 9.&nbsp;&nbsp;&nbsp;Ombudsman Ontario
 
 That the following communications from the
   Office of the Ontario Ombudsman BE RECEIVED: 
@@ -175,7 +158,6 @@ c)           
   Officer, with respect to a closed meeting complaint regarding a proposed
   development at 940 Springbank Drive.
 
-# 10.&nbsp;&nbsp;&nbsp;CBC/Radio-Canada
 
 That the following communications regarding
   the CBC Radio Canada shut down of its analog transmitter in London, Ontario
@@ -193,7 +175,6 @@ b)           
   and Official Languages, with respect to CBC/Radio-Canada Shutdown of Analog
   in London, Ontario.
 
-# 11.&nbsp;&nbsp;&nbsp;Integrity Commissioner, Council Code of
   Conduct, Voluntary Disclosure, and Lobbyist Registry
 
 At 6:12 PM the Mayor places Councillor M.
@@ -359,7 +340,6 @@ Motion Passed
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Questions for the
   2014 Municipal Election Ballot (Plebiscite)
 
 That NO ACTION BE TAKEN with respect to the
@@ -368,7 +348,6 @@ That NO ACTION BE TAKEN with respect to the
   pertaining to water fluoridation, full time Council Members and a 0% tax
   increase for the next four years.
 
-# 13.&nbsp;&nbsp;&nbsp;Waive/Reduce
   Licence Fee - Childreach - 265 Maitland Street
 
 That the annual license fee to be charged
@@ -376,21 +355,18 @@ That the annual license fee to be charged
   at 265 Maitland Street BE WAIVED, except for a nominal fee required to make
   such an arrangement legally binding.
 
-# 15.&nbsp;&nbsp;&nbsp;Resignation from
   the Community Safety and Crime Prevention Advisory Committee
 
 That the communication dated August 11,
   2012, from Kathy Mueller, resigning her appointment to the Community Safety
   and Crime Prevention Advisory Committee, BE ACCEPTED.
 
-# 14.&nbsp;&nbsp;&nbsp;Resignation from
   the Animal Welfare Advisory Committee
 
 That the communication dated August 13,
   2012, from Shannon Belt, resigning her appointment to the Animal Welfare
   Advisory Committee, BE ACCEPTED.
 
-# 16.&nbsp;&nbsp;&nbsp;Appointment to the
   London Advisory Committee on Heritage
 
 That the following individual BE APPOINTED
@@ -407,18 +383,14 @@ Voting:
  - Heather Garrett (Planning Representative
   - London Area Planning Consultants)
 
-# 17.&nbsp;&nbsp;&nbsp;Letter of Support
   for Childhood Cancer Awareness Month
 
 That the Mayor BE REQUESTED to write a
   letter to Childcan in support of Childhood Cancer Awareness Month. (See
   communication attached.)
 
-# IX.&nbsp;&nbsp;&nbsp;DEFERRED MATTERS
 
-# X.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
-# XI.&nbsp;&nbsp;&nbsp;EMERGENT MOTIONS
 
 > Moved by Councillor S. Orser
 
@@ -551,7 +523,6 @@ Motion Passed
 
 ****
 
-# XII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 Motion
   made by Councillor B. Polhill and seconded by Councillor D. Brown to Approve
@@ -637,10 +608,8 @@ Motion Passed
 
 ****
 
-# XIII.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

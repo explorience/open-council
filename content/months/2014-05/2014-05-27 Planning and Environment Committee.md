@@ -12,10 +12,8 @@ May 27, 2014, at  4:01 PM
 > [!abstract]- Also Present:
 > B. Armstrong, G. Barrett, M. Corby, J.M. Fleming, T. Grawey, B. Henry, P. Kokkoros, G. Kotsifas, A. MacLean, L. Maitland, D. Menard, B. Page, M. Ribera, C. Saunders, E. Soldo, M. Tomazincic, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;6th Report of the
   Advisory Committee on the Environment
 
 Recommendation:  That the 6th Report of the
@@ -39,7 +37,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;6th Report of the
   Environmental and Ecological Planning Advisory Committee
 
 Recommendation:  That the 6th Report of the
@@ -63,7 +60,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Properties located
   at 1183, 1191, 1199 and 1205 Westdel Bourne (H-8347)
 
 Recommendation:  That, on the
@@ -94,7 +90,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Property located at
   1128 Fanshawe Park Road West
 
 Recommendation:  That, on the
@@ -128,7 +123,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Property located on
   the north side of Bradley Avenue between Jackson Road and Meadowgate
   Boulevard - Request for Extension of Draft Approval (39T-07508)
 
@@ -170,7 +164,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Special Provisions
   - Claybar Subdivision - Phase 3 (39T-04503-3)
 
 Recommendation:  That, on the
@@ -214,7 +207,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Special Provisions
   - White Oaks Subdivision - Phase 3C (39T-02502-3C)
 
 Recommendation:  That, on the
@@ -258,7 +250,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Building Division
   Monthly Report for April 2014
 
 Recommendation:  That the Building Division
@@ -281,7 +272,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;6th Report of the
   London Advisory Committee on Heritage
 
 Recommendation:  The following actions be
@@ -377,7 +367,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Properties located
   at 360 Crumlin Sideroad and 3301 and 3345 Gore Road (OZ-8188)
 
 Recommendation:  That, on the
@@ -489,7 +478,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Property located at
   1565 North Routledge Park (Z-8338)
 
 Recommendation:  That, on the
@@ -567,7 +555,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Hyde Park
   Industrial Area (O-8340)
 
 Recommendation:  That, the application of
@@ -686,7 +673,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Properties located
   at 283 and 283/ South Street - Demolition Request
 
 Recommendation:  That, on the
@@ -763,7 +749,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Property located at
   491 Southdale Road West - Demolition Request
 
 Recommendation:  That, on the
@@ -840,7 +825,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Property located at 69 Trevithen Street
 
 Recommendation:  That the Civic Administration
   BE REQUESTED to determine the feasibility of saving the trees on the property

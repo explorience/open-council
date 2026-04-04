@@ -17,19 +17,15 @@ February 14, 2023, at  1:00 PM
 
 The meeting is called to order at 1:04 PM;  it being noted that Councillor S. Hillier was in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Councillor P. Van Meerbergen discloses a pecuniary interest in item 3, clause 4.1 b.), of the 8th Report of Strategic Priorities and Policy Committee, having to do with the Operating Budget Business Case #P-2 b, Ontario Works and Children’s Services, specific to the Children’s Services portion, by indicating that his wife owns and operates a day care.
 
-# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
 
 > Motion made by P. Cuddy
 
@@ -93,7 +89,6 @@ The Council convenes In Closed Session, from 1:24 PM to 1:45 PM.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
 > Motion made by P. Van Meerbergen
 
@@ -123,7 +118,6 @@ That the Minutes of the 4th Meeting of the Municipal Council, held on January 24
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 > Motion made by P. Van Meerbergen
 
@@ -163,11 +157,9 @@ That the Communications related to the following, BE RECEIVED and BE REFERRED as
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 None.
 
-# 8.&nbsp;&nbsp;&nbsp;Reports
 
 ## 8.1&nbsp;&nbsp;&nbsp;3rd Report of the Community and Protective Services Committee
 
@@ -2050,7 +2042,6 @@ b)    the Subject Property BE OFFERED for sale in accordance with the City’s
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 ## 9.1&nbsp;&nbsp;&nbsp;4th Report of Council in Closed Session
 
@@ -2141,19 +2132,15 @@ b)    the financing for this acquisition BE APPROVED as set out in the Source 
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-# 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 None.
 
-# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 
 None.
 
-# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 > Motion made by A. Hopkins
 
@@ -2641,7 +2628,6 @@ That Third Reading and Enactment of Added Bill No. 71, BE APPROVED.
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by S. Stevenson
 
@@ -2655,7 +2641,6 @@ The Council meeting adjourned at 5:05 PM.
 
 ****
 
-# Appendix: New Bills
 
 > [!abstract]- The following Bills are enacted as By-laws of The Corporation of the City of London:
 > **Bill No. 46**

@@ -15,7 +15,6 @@ August 31, 2015, at  4:03 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, J. Braam, K. Graham, G. Kotsifas, L. Livingstone, V. McAlea Major, D. O’Brien, K. Pawelec, M. Ribera, C. Saunders
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that Councillor J. Helmer
@@ -23,7 +22,6 @@ That it BE NOTED that Councillor J. Helmer
   the Canada Post Community Mailbox Program, by indicating that his spouse is
   employed by Canada Post.
 
-# 2.&nbsp;&nbsp;&nbsp;2015 Annual
   Community Survey
 
 That, on the recommendation of the City
@@ -56,9 +54,7 @@ Motion Passed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Canada Post Community Mailbox Program
 
-# 4.&nbsp;&nbsp;&nbsp;5th Report of the
   Governance Working Group
 
 That the following actions be taken with
@@ -154,7 +150,6 @@ Motion Passed
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Appointments to the
   Old East Village Business Improvement Area Board of Management
 
 That the following individuals BE APPOINTED
@@ -205,7 +200,6 @@ Motion Passed
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Appointments to the
   Argyle Business Improvement Area Board of Management
 
 That the following individuals BE APPOINTED

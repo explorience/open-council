@@ -15,10 +15,8 @@ October 29, 2013, at  4:32 PM
 > [!abstract]- Also Present:
 > J.F. Fontana, D. Brown, J.P. Barber, G. Barrett, J. Clark, M. Corby, J.M. Fleming, T. Grawey, N. Hall, B. Henry, O. Katolyk, P. Kokkoros, G. Kotsifas, B. Krichker, A. MacLean, D. Menard, J. Page, C. Saunders, R. Sharpe, M. Tomazincic, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;7th Report of the
   Trees and Forests Advisory Committee
 
 Recommendation:  That the 7th Report of the
@@ -41,7 +39,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;9th Report of the
   Advisory Committee on the Environment
 
 Recommendation:  That the 9th Report of the
@@ -64,7 +61,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;10th Report of the
   Environmental and Ecological Planning Advisory Committee
 
 Recommendation:  That the 10th Report of
@@ -87,7 +83,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Local Renewable
   Electricity Generation Projects Seeking Ontario Feed-In Tariff Contracts
 
 Recommendation:  That, on the
@@ -134,7 +129,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Woodhull Subdivision
   (39T-03511)
 
 Recommendation:  That, on the
@@ -186,7 +180,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Properties located
   at 404-408 Pall Mall Street and 660 Colborne Street    (Z-8152)
 
 Recommendation:  That, on the
@@ -213,7 +206,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Emerald Ash Borer
   Business Plan
 
 Recommendation:  That, the following
@@ -307,7 +299,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;10th Report of the
   London Advisory Committee on Heritage
 
 Recommendation:  That, the following
@@ -355,7 +346,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Extension of
   Enhanced Financial Incentive Programs for Downtown and Old East Village
 
 Recommendation:  That, on the
@@ -465,7 +455,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Property located at
   797 York Street (Z-8208)
 
 Recommendation:  That, on the
@@ -545,7 +534,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Review of Holding
   Provision Requirements in Zoning By-law Z-1 (Z-8172)
 
 Recommendation:  That, the report dated
@@ -636,7 +624,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Proposed Wortley
   Village - Old South Heritage Conservation District (O-8118)
 
 Recommendation:  That, on the

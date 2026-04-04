@@ -20,11 +20,9 @@ January 26, 2026, at  1:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by A. Hopkins
 
@@ -372,7 +370,6 @@ That the delegation request from S. Campbell, Ark Aid Street Mission, with respe
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;New London Children's Museum Update
 
@@ -398,7 +395,6 @@ That the presentation, as appended to the agenda, from K. Ledgley, London Childr
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Allocating the City of London Community Grants Annual Stream to Fund Capital Projects Only in the 2026 and 2027 Budget Cycles
 
@@ -846,11 +842,9 @@ That part e) vi) of the motion, as amended, BE APPROVED.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by S. Lewis (Acting Mayor)
 

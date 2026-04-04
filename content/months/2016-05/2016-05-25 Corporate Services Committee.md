@@ -12,13 +12,11 @@ May 25, 2016, at 12:02 PM
 > [!abstract]- Also Present:
 > J. Helmer, M. Salih, M. van Holst; A. Zuidema, R. Armistead, J.P. Barber, A.L. Barbon, D. Bordin, A. Dunbar, L. Green, A. Hagan, M. Hayward, M. Henderson, T. Jauniaux, J. Kobarda, K. Lakhotia, J. Lucas, V. McAlea Major, M. Ribera, A. Ripepi, C. Saunders, J. Senese, C. Smith, J. Smout, R. Sutton, B. Warner
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That
   it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Transfer of the
   Amelia Lucy Ronalds Little Trust Fund from Museum London to The Corporation
   of the City of London
 
@@ -58,7 +56,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Industrial Land
   Development Strategy - Annual Monitoring and Pricing Report - City of London
 
 That, on the recommendation of the Managing
@@ -108,7 +105,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;2015 Investment
   Report
 
 That, on the recommendation of the Managing
@@ -142,7 +138,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Update of Council
   Policies
 
 That, on the recommendation of the Managing
@@ -180,7 +175,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Councillor V.
   Ridley - Executive Summary of the Ontario Good Roads Association Board of
   Directors Meeting
 
@@ -206,7 +200,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Public Participation
   Meeting - Council Procedure By-law
 
 That the following actions be taken with
@@ -297,7 +290,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Standing Committee
   Agendas
 
 That the City Clerk BE DIRECTED to make the
@@ -322,7 +314,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Councillor J.
   Zaifman - Board of Directors - Association of Municipalities of Ontario
 
 That the following actions be taken with

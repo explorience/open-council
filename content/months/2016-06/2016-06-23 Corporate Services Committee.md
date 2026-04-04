@@ -15,13 +15,11 @@ June 23, 2016, at  2:02 PM
 > [!abstract]- Also Present:
 > J. Helmer, M. van Holst; A. Hagan
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Greater London International Airport
   Authority Board of Directors
 
 That the names and applications of the following

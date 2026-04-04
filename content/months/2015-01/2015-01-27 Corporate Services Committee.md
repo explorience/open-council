@@ -12,13 +12,11 @@ January 27, 2015, at  3:01 PM
 > [!abstract]- Also Present:
 > J. Helmer, P. Hubert, V. Ridley, P. Squire; A. Zuidema, J.P. Barber, S. Corman, P. Foto, V. McAlea Major, C. Saunders
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation: That it BE NOTED
   that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Accessibility of
   2014 Municipal Election
 
 Recommendation:  That, on the

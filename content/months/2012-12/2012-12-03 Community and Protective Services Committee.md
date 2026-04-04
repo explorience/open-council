@@ -12,17 +12,14 @@ December 3, 2012, at  7:00 PM
 > [!abstract]- Also Present:
 > I. Collins, B. Coxhead, O. Katolyk, B. Krichker, L. Livingstone, R. Sharpe, L. Stevens, E. White
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;3rd Report of the
   London Housing Advisory Committee.
 
 Recommendation:  That the 3rd Report of the
   London Housing Advisory Committee, from its meeting held on November 14, 2012,
   BE RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;Request for Capital
   Funding from the Social Housing Major Repairs and Upgrades Stabilization
   Reserve Fund for Andover Gardens Seniors Apartment Inc. 1 Andover Drive
   London.
@@ -41,7 +38,6 @@ b)         the
   Stabilization Reserve Fund as set out in the Sources of Financing, appended
   to the above-noted staff report, BE APPROVED.  (2012F12-00)
 
-# 4.&nbsp;&nbsp;&nbsp;Purchase of Service
   Agreements - Ontario Works Employment Assistance Services.
 
 Recommendation:  That, on the
@@ -110,14 +106,12 @@ c)         authorize
   the City Manager, or designate, to represent the City with respect to the
   Ontario Works Employment Assistance Services Agreements.  (2012-L03-00)
 
-# 5.&nbsp;&nbsp;&nbsp;4th Report of the
   London Diversity and Race Relations Advisory Committee
 
 That the 4th Report of the London Diversity
   and Race Relations Advisory Committee, from its meeting held on November 27,
   2012, BE RECEIVED.
 
-# 6.&nbsp;&nbsp;&nbsp;2013/14 Community
   Accountability Planning Submission (CAPS) for the Dearness Home - Adult Day
   Program and Homemaking Program.
 
@@ -130,7 +124,6 @@ Recommendation:  That, on the
   be approved by the Board of Directors of the Home which is London City
   Council.
 
-# 7.&nbsp;&nbsp;&nbsp;2013-2016 Long-Term
   Care Home Accountability Planning Submission (LAPS).
 
 Recommendation:  That, on the
@@ -141,14 +134,12 @@ Recommendation:  That, on the
   requirement of the LHIN that the Planning Submission be approved by the Board
   of Directors of the Home which is London City Council.
 
-# 8.&nbsp;&nbsp;&nbsp;Election of
   Vice-Chair for the Term Ending November 30, 2013
 
 That Councillor B. Armstrong BE ELECTED Vice
   Chair of the Community and Protective Services Committee, for the term ending
   November 30, 2013.
 
-# 9.&nbsp;&nbsp;&nbsp;3rd Report of the
   Community Safety and Crime Prevention Advisory Committee
 
 That the following actions be taken with
@@ -175,7 +166,6 @@ b)           
   clauses
   2 to 7, inclusive, BE RECEIVED.
 
-# 10.&nbsp;&nbsp;&nbsp;4th Report of the
   Animal Welfare Advisory Committee
 
 That the following actions be taken with
@@ -208,7 +198,6 @@ it being noted that the AWAC reviewed and received a report from
 b)           
   that clauses 2 to 10, inclusive, BE RECEIVED.
 
-# 11.&nbsp;&nbsp;&nbsp;Licensing Issues
   and By-law Enforcement
 
 That the inquiry of T. Vieira, with respect

@@ -15,7 +15,6 @@ October 24, 2017, at 12:31 PM
 > [!abstract]- Also Present:
 > M. Cassidy, M. van Holst; M. Hayward, A.L. Barbon, B. Card, H. Chapman, I. Collins, S. Corman, B. Coxhead, J. Edmunds, P. Kokkoros, G. Kotsifas, S. La Forge, S. Maguire, D. Mounteer, S. Raycroft, M. Ribera, C. Saunders, E. Soldo, B. Warner, B. Westlake-Power, P. Yeoman, G. Zhang
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that the following
@@ -35,7 +34,6 @@ b)           
   No. 2016-123, as he is involved in a separate property matter with the
   assessed party.
 
-# 2.&nbsp;&nbsp;&nbsp;Proposed Election
   Sign By-law
 
 That the attached revised proposed by-law
@@ -96,7 +94,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Tax Adjustment
   Agenda
 
 That the recommendations contained in the
@@ -198,7 +195,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Tribunal -
   Development Charge Complaint - 1030 Elias Street
 
 That, after convening as a tribunal under
@@ -271,7 +267,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Council Policy -
   Use of Corporate Resources During a Municipal Election Year
 
 That, on the recommendation of the City
@@ -295,7 +290,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;London I♥Beer
   Holiday Festival - Request for Designation as a Municipally Significant Event
 
 That the London I♥Beer Holiday
@@ -319,7 +313,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Corporate Services
   Committee Deferred Matters List
 
 That the revised Corporate Services

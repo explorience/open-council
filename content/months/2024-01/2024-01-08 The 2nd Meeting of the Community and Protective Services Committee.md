@@ -17,11 +17,9 @@ January 8, 2024, at  1:00 PM
 
 The meeting was called to order at 1:00 PM.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by D. Ferreira
 
@@ -91,11 +89,9 @@ d)     the Civic Administration BE AUTHORIZED to undertake all administrative 
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Byron Legion Monument Donation to Springbank Park
 
@@ -161,7 +157,6 @@ it being noted that this does not prevent the CPSC from considering additional m
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -187,7 +182,6 @@ That the Deferred Matters List, as at December 12, 2023, BE RECEIVED.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 1:41 PM.
 ---

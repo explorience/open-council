@@ -12,13 +12,11 @@ February 21, 2017, at  4:01 PM
 > [!abstract]- Also Present:
 > J. Helmer, A. Hopkins, H. L. Usher; G. Belch, S. Chambers, T. Copeland, A. Dunbar, K. Grabowski, J. Lucas, P. Lupton, A. Macpherson, D. MacRae, S. Maguire, S. Mathers, D. O’Brien, J. Parsons, N. Pasato, D. Popadic, A. Rozentals, L. Rowe, J. Simon, E. Soldo, S. Spring, J. Stanford
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;2nd Report of the
   Transportation Advisory Committee
 
 That the 2nd Report of the Transportation
@@ -41,7 +39,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;4th Report of the
   Rapid Transit Implementation Working Group
 
 That the 4th Report of the Rapid Transit
@@ -67,7 +64,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT - Sole
   Source Award - Acoustic Fiber Optic Monitoring Contract -  Project No. EW3538
 
 That, on the recommendation of the Managing
@@ -111,7 +107,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Contract Award: Tender No.17-06 - 2017 Infrastructure Renewal Program -
   Dundas Street Reconstruction Project
 
@@ -169,7 +164,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;STAFF REPORT - 2017
   Annual Warranted Sidewalk Program
 
 That the following actions be taken with
@@ -256,7 +250,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Wonderland Road Environmental Assessment - Southdale Road to Sarnia Road -
   Appointment of Consulting Engineer
 
@@ -304,7 +297,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Contract Award: Tender No. T16-117 Fox Hollow Stormwater Management Facility
   #3 (ES3020-FH3) and Trunk Sanitary Sewer (ES5236-16) Construction Phase 2
 
@@ -356,7 +348,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;STAFF REPORT - One
   River Master Plan Environmental Assessment - Appointment of Engineering
   Consultants
 
@@ -414,7 +405,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Forest City Road Race - Finish Line Request
 
 That, on the recommendation of the Managing
@@ -443,7 +433,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Contract Price Increase: Tender No. T09-50 - Southeast Pumping Station and
   Reservoir Project No. EW3614
 
@@ -488,7 +477,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Update: Local Improvements Charges (LIC's) for Energy Efficiency
   (Conservation) Improvements
 
@@ -529,7 +517,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Strategic Plan Process Variance
 
 That, on the recommendation of the City
@@ -553,7 +540,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Transportation Energy Optimization Plan (TEOP) - Phase 2 Contract Award
 
 That on the recommendation of the Managing
@@ -604,7 +590,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Cedar Hollow Developments Limited - Application for Street Renaming -
   Cedarpark Crescent - East of Cedarhollow Boulevard
 
@@ -634,7 +619,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;DELEGATION – V.
   Nantais, Ministry of Transportation and T. Cross, Dillon Consulting - Highway
   401 Improvements at Pond Mills Road and Veterans Memorial Parkway
 
@@ -661,7 +645,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;STAFF DELEGATION-
   Oakridge Area New Sidewalks in 2017 and 2018 - East Mile Road, Oban Crescent,
   West Mile Road, North Mile Road and Green Lane
 
@@ -794,7 +777,6 @@ Motion
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;Deferred Matters List
 
 That the following actions be taken with
   respect to the Civic Works Committee (CWC) Deferred Matters List, as at
@@ -823,7 +805,6 @@ Motion
 
 ****
 
-# 19.&nbsp;&nbsp;&nbsp;(ADDED) Basement Flooding Grant Program
   By-law
 
 That the Civic Administration BE DIRECTED

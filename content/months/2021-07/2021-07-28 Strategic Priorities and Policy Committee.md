@@ -20,7 +20,6 @@ July 28, 2021, at  4:00 PM
 
 The meeting is called to order at 4:00 PM; it being noted that the following Members were in remote attendance: M. van Holst, M. Salih, J. Helmer, M. Cassidy, S. Lehman, A. Hopkins, P. Van Meerbergen, E. Peloza, A. Kayabaga and S. Hillier.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
@@ -51,7 +50,6 @@ That, pursuant to section 27.6 of the Council Procedure By-law, the order of bus
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by J. Helmer
 
@@ -138,11 +136,9 @@ c) clauses 1.1, 1.2, 2.1, 2.2, 3.1, 4.1, 5.2, 5.3, 5.4, 5.5, 5.6, 5.7 and 6.1 of
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Request for Delegation Status - Roula Hawa, Mischa Mackie (Schlemmer) and Reeti Chopra - Housing and Homelessness Crisis
 
@@ -258,7 +254,6 @@ Appointment of a Council Member to the London and Middlesex Community Housing Bo
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) Consideration of Vaccine Mandates
 
@@ -326,7 +321,6 @@ b)   the Mayor BE REQUESTED to engage with the Southwest Ontario Transportatio
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by E. Peloza
 

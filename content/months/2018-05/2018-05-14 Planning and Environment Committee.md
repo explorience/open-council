@@ -14,11 +14,9 @@ May 14, 2018, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that Councillor S. Turner disclosed a pecuniary interest in clause 3.3 of this Report having to do with the location of potential Supervised Consumption Facilities in London, by indicating that his employer is the Middlesex-London Health Unit.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by Mayor M. Brown
 
@@ -71,7 +69,6 @@ That the Building Division Monthly Report for the month of March, 2018 BE RECEIV
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Public Participation Meeting - Technical Amendments to Setback Requirements for Low-Rise Residential Development in the Primary Transit Area (Z-8878)
 
@@ -371,7 +368,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;4th Report of the Trees and Forests Advisory Committee
 
@@ -513,11 +509,9 @@ That the request from C. Linton, Developro Land Services Inc., for delegation st
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 8:55 PM.
 

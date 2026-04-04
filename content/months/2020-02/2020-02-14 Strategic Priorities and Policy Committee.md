@@ -17,11 +17,9 @@ February 14, 2020, at  9:30 AM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no additional pecuniary interests were disclosed.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.7&nbsp;&nbsp;&nbsp;Social and Health Services
 
@@ -459,7 +457,6 @@ d)      the Managing Director, Corporate Services and City Treasurer, Chief F
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 2:58  PM.
 

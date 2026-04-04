@@ -22,7 +22,6 @@ December 1, 2020, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Call to Order
 
 ## 1.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
@@ -48,7 +47,6 @@ That Councillor S. Hillier BE ELECTED Vice-Chair of the Community and Protective
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Lewis
 
@@ -122,7 +120,6 @@ b)     the Managing Directors and designates BE DELEGATED authority in regula
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Proposed Amendment to the Noise/Sound By-law - D. Mailer
 
@@ -147,11 +144,9 @@ That the verbal delegation from D. Mailer and the written communication from A. 
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -203,7 +198,6 @@ b)     the Civic Administration BE DIRECTED to undertake all administrative a
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 5:11 PM.
 

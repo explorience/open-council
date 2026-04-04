@@ -17,35 +17,27 @@ March 28, 2023, at  3:00 PM
 
 The meeting was called to order at 3:00 PM; it being noted that Councillors S. Hillier, S. Lehman, P. Van Meerbergen were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That is BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 None.
 
-# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 None.
 
-# 8.&nbsp;&nbsp;&nbsp;Reports
 
 ## 8.1&nbsp;&nbsp;&nbsp;5th Report of the Special Community and Protective Services Committee
 
@@ -119,23 +111,18 @@ iv)    authorize the Deputy City Manager, Neighbourhood and Community-Wide Ser
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 None.
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-# 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 None.
 
-# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 
 None.
 
-# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 > Motion made by S. Franke
 
@@ -221,7 +208,6 @@ That Third Reading and Enactment of Bill No.'s 95 to 97 BE APPROVED.
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by E. Peloza
 
@@ -235,7 +221,6 @@ The meeting adjourned at 3:09 PM.
 
 ****
 
-# Appendix: New Bills
 
 > [!abstract]- The following Bills are enacted as By-laws of The Corporation of the City of London:
 > **Bill No. 95**

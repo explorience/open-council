@@ -17,19 +17,15 @@ December 19, 2023, at  1:00 PM
 
 The meeting is called to order at 1:02 PM; it being noted that Councillor S. Hillier was in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED Councillor S. Franke discloses a pecuniary interest in item 3, clause 2.1 of the 1st Report of the Community and Protective Services Committee having to do with Farquharson Arena Amending Agreement, by indicating that her partner is employed by the Thames Valley District School Board.
 
-# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
 
 > Motion made by H. McAlister
 
@@ -87,7 +83,6 @@ That Council convenes In Closed Session, from 1:11 PM to 1:32 PM.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
 > Motion made by P. Van Meerbergen
 
@@ -117,7 +112,6 @@ That the Minutes of the 19th and 20th Meetings of the Municipal Council, held on
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 ## 6.1&nbsp;&nbsp;&nbsp;Principles Integrity, City of London Integrity Commissioner - Recommendations Report to City Council: Complaints Against Councillor Stevenson
 
@@ -315,11 +309,9 @@ That the communications related to Amendment to the Streets By-law (S-1) to Regu
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 None.
 
-# 8.&nbsp;&nbsp;&nbsp;Reports
 
 ## 8.1&nbsp;&nbsp;&nbsp;1st Report of the Planning and Environment Committee
 
@@ -1426,7 +1418,6 @@ it being further noted that the Strategic Priorities and Policy Committee receiv
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 > Motion made by S. Lehman
 
@@ -1459,19 +1450,15 @@ That progress was made with respect to items 4.1 to 4.11, as noted on the public
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-# 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 None.
 
-# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 
 None.
 
-# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 > Motion made by P. Van Meerbergen
 
@@ -1886,7 +1873,6 @@ By-law No. A.-8444-12 - A by-law to authorize and approve a Lease Renewal Agreem
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by P. Van Meerbergen
 

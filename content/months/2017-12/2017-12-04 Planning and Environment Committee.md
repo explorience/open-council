@@ -12,7 +12,6 @@ December 4, 2017, at  3:30 PM
 > [!abstract]- Also Present:
 > M. Brown;  J. Morgan, M. van Holst, J. Zaifman; M. Hayward, J. Adema, G. Bailey, A.L. Barbon, G. Barrett, M. Campbell, M. Corby, B. Debbert, A. Drost, A. Dunbar, M. Elmadhoon, J.M. Fleming, S. Galloway, K. Gonyou, N. Hall, M. Knieriem, P. Kokkoros, G. Kotsifas, T. Macbeth, A. Macpherson, D. MacRae, L. Maitland, H. McNeely, B. Page, N. Pasato, M. Pease, L. Pompilii, D. Popadic, M. Ribera, V. Santos, C. Saunders, K. Scherr, E. Soldo, S. Wise, M. Tomazincic, J. Yanchula, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that the following
@@ -31,7 +30,6 @@ b)           
   do with the property located at 391 South Street (Colborne Building), by
   indicating that her family owns property in the area of the subject property.
 
-# 2.&nbsp;&nbsp;&nbsp;Election of
   Vice-Chair for term ending November 30, 2018
 
 That Councillor A. Hopkins BE ELECTED Vice
@@ -56,7 +54,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;12th Report of the
   Trees and Forests Advisory Committee
 
 That the following actions be taken with
@@ -107,7 +104,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;White Oak/Dingman
   Secondary Plan - Terms of Reference for Project  Initiation
 
 That, on the recommendation of the Managing
@@ -148,7 +144,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Lands located on
   the north side of Bradley Avenue between Jackson Road and Meadowgate
   Boulevard (39T-07508)
 
@@ -192,7 +187,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Michael Street
   Subdivision - Subdivision Special Provisions (39T-16506)
 
 That, on the recommendation of the Manager,
@@ -240,7 +234,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Properties located
   at 2313 and 2373 Callingham Drive ( P-8830)
 
 That, on the recommendation of the Senior
@@ -336,7 +329,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Property located at
   1357 Hyde Park Road (P-8821)
 
 That, on the recommendation of the Senior
@@ -450,7 +442,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Hunt Lands
   Subdivision - Subdivision Special Provisions (39T-12503)
 
 That, on the recommendation of the Manager,
@@ -503,7 +494,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Foxhollow North
   Kent Subdivision Phase 2 (39T-04510-2)
 
 That, on the recommendation of the Manager,
@@ -558,7 +548,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Planning for
   Non-therapeutic Cannabis in Retail Stores
 
 That, on the recommendation of the Managing
@@ -699,7 +688,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Property located at
   1880 Phillbrook Drive (H-8824)
 
 That, on the recommendation of the Managing
@@ -730,7 +718,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Passage of
   Designating By-law - property located at 329 Victoria Street
 
 That, on the recommendation of the Managing
@@ -762,7 +749,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Passage of
   Designating By-law - properties located at 93-95 Dufferin Avenue
 
 That, on the recommendation of the Managing
@@ -794,7 +780,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Passage of
   Designating By-law - property located at 391 South Street
 
 That, on the recommendation of the Managing
@@ -825,7 +810,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Candidate Approval
   for the Urban Design Peer Review Panel
 
 That, on the recommendation of the Managing
@@ -858,13 +842,11 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;Building Division
   Monthly Report for October 2017
 
 That the Building Division Monthly Report
   for the month of October, 2017 BE RECEIVED. (2017-D04)
 
-# 18.&nbsp;&nbsp;&nbsp;Updated Program
   Guidelines for Community Improvement Plan Financial Incentive Programs
 
 That, on the recommendation of the Managing
@@ -938,7 +920,6 @@ Motion
 
 ****
 
-# 19.&nbsp;&nbsp;&nbsp;Property located at
   1357 Hyde Park Road (Z-8816)
 
 That, on the recommendation of the Managing
@@ -1047,7 +1028,6 @@ Motion
 
 ****
 
-# 20.&nbsp;&nbsp;&nbsp;Properties located
   at 329-331 Richmond Street (Z-8812)
 
 That, on the recommendation of the Managing
@@ -1203,7 +1183,6 @@ Motion
 
 ****
 
-# 21.&nbsp;&nbsp;&nbsp;Brydges Street Area
   Review (O-8749)
 
 That, on the recommendation of the Managing
@@ -1323,7 +1302,6 @@ Motion
 
 ****
 
-# 22.&nbsp;&nbsp;&nbsp;Properties located
   at 770 Whetter Avenue/8 Fairview Court (SPA17-046)
 
 That on the recommendation of the Manager,
@@ -1442,7 +1420,6 @@ Motion
 
 ****
 
-# 23.&nbsp;&nbsp;&nbsp;Properties located
   at 467-469 Dufferin Avenue (OZ-8804)
 
 That, on the recommendation of the Managing
@@ -1739,7 +1716,6 @@ Motion
 
 ****
 
-# 24.&nbsp;&nbsp;&nbsp;Properties located
   at 790, 792 and 794 Quebec Street (Z-8819)
 
 That, on the recommendation of the Managing
@@ -1855,7 +1831,6 @@ Motion
 
 ****
 
-# 25.&nbsp;&nbsp;&nbsp;Properties located
   at 940 and 956 Wharncliffe Road South ( Z-8813)
 
 That, the application of Southside Group,
@@ -1922,7 +1897,6 @@ Motion
 
 ****
 
-# 26.&nbsp;&nbsp;&nbsp;Properties located
   at 1235-1295 Fanshawe Park Road West (O-8799/Z-8798)
 
 That, on the recommendation of the Managing
@@ -2190,7 +2164,6 @@ Motion
 
 ****
 
-# 27.&nbsp;&nbsp;&nbsp;Parking Strategy
   for Downtown London
 
 That, on the recommendation of the Managing
@@ -2276,7 +2249,6 @@ Motion
 
 ****
 
-# 28.&nbsp;&nbsp;&nbsp;Property located at
   324 York Street (TZ-8815)
 
 That, the application of Bradel Properties
@@ -2366,7 +2338,6 @@ Motion
 
 ****
 
-# 29.&nbsp;&nbsp;&nbsp;Downtown Temporary
   Commercial Parking Lots
 
 That, on the recommendation of the Managing
@@ -2413,7 +2384,6 @@ Motion
 
 ****
 
-# 30.&nbsp;&nbsp;&nbsp;11th Report of the
   Environmental and Ecological Planning Advisory Committee
 
 That, the following actions be taken with
@@ -2478,7 +2448,6 @@ Motion
 
 ****
 
-# 31.&nbsp;&nbsp;&nbsp;Draft Hamilton Road
   Area Community Improvement Plan
 
 That, on the recommendation of the Managing

@@ -18,7 +18,6 @@ March 18, 2014, at  4:05 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:05 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 Councillor N. Branscombe disclosed a
@@ -87,15 +86,11 @@ Councillor D. Brown disclosed a pecuniary
   Oxford Street East, by indicating that she is currently representing a
   company that may be involved in this project.
 
-# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
-# V.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# IV.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
 MOTION FOR IN CAMERA SESSION
@@ -123,7 +118,6 @@ Motion Passed
 
 ****
 
-# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE SIXTH, SEVENTH AND EIGHTH MEETINGS HELD ON
   FEBRUARY 25, 2014 AND FEBRUARY 27, 2014
 
@@ -161,13 +155,10 @@ Motion Passed
 
 ****
 
-# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
-# VIII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# IX.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor J.L. Baechler
 
@@ -175,16 +166,11 @@ Approve clauses 1 to 21, inclusive, except clause 6.
 
 ****
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosure of Pecuniary Interest
 
-# 2.&nbsp;&nbsp;&nbsp;Cycling Advisory Committee
 
-# 3.&nbsp;&nbsp;&nbsp;Industrial Land Development Strategy Annual
   Monitoring and Pricing Report – City of London.
 
-# 4.&nbsp;&nbsp;&nbsp;Industrial Land Development Strategy
 
-# 5.&nbsp;&nbsp;&nbsp;Request for Nominees for Appointment to the
   Greater London International Airport Authority Board of Directors (One
   Upcoming Vacancy)
 
@@ -218,7 +204,6 @@ Motion Passed
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;2nd Report of the
   Transportation Advisory Committee
 
 That the following actions be taken with
@@ -244,7 +229,6 @@ b)         clauses 2 to 14, inclusive, BE
 it being noted that the CWC heard a verbal
   update from F. Berry, Chair, TAC, with respect to this matter.
 
-# 8.&nbsp;&nbsp;&nbsp;Share the Road
   Project
 
 That the Share the Road Project BE ENDORSED
@@ -252,7 +236,6 @@ That the Share the Road Project BE ENDORSED
   noted that the CWC received a presentation from B. McCall, Public Health
   Nurse, Middlesex-London Health Unit, with respect to this matter.  (2014-S08)
 
-# 9.&nbsp;&nbsp;&nbsp;London Road Safety
   Strategy
 
 That, on the recommendation of the
@@ -269,7 +252,6 @@ b)         the
   the City-led road safety action items as identified in Appendix ‘B’ of the
   staff report dated March 3, 2014.  (2014-T08)
 
-# 10.&nbsp;&nbsp;&nbsp;Red Light Camera
   Program
 
 That, on the recommendation of the
@@ -292,7 +274,6 @@ it being noted that the Civic Works
   Committee received the attached presentation from the Director,
   Roads and Transportation, with respect to this matter.   (2014-T08)
 
-# 11.&nbsp;&nbsp;&nbsp;Carling Arena Road
   Safety
 
 That it BE NOTED that Councillor S. Orser
@@ -300,7 +281,6 @@ That it BE NOTED that Councillor S. Orser
   vicinity of Carling Arena and was advised that the Civic Administration will
   review traffic control in that area.
 
-# 12.&nbsp;&nbsp;&nbsp;Winter Maintenance
   Update
 
 That it BE NOTED that the Managing
@@ -465,14 +445,12 @@ Motion Passed
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Request for
   Designation of the London Rib Fest as a Municipally Significant Event
 
 That the London Rib Fest, to be held July
   31, 2014 to August 4, 2014, in Victoria Park, BE DESIGNATED as an event of
   municipal significance in the City of London.
 
-# 14.&nbsp;&nbsp;&nbsp;Request for
   Designation of the International Food Festival as a Municipally Significant
   Event
 
@@ -480,21 +458,18 @@ That the International Food Festival to be
   held June 20, 2014 to June 22, 2014, in Victoria Park, BE DESIGNATED as an
   event of municipal significance in the City of London.
 
-# 15.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the London Advisory Committee on Heritage
 
 That Doug Bricknell, from Western
   University, BE APPOINTED as a Non-Voting Member on the London Advisory
   Committee on Heritage for the term ending February 28, 2015.
 
-# 16.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Trees and Forests Advisory Committee
 
 That Chris Haindl, representative of the
   Urban League of London, BE APPOINTED as a Voting Member on the Trees and
   Forests Advisory Committee for the term ending February 28, 2015.
 
-# 17.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Child Care Advisory Committee
 
 That Ailene Wittstein BE APPOINTED as a
@@ -658,7 +633,6 @@ Motion Passed
 Motion made by Councillor J.P. Bryant
   Approve clause 1.
 
-# 18.&nbsp;&nbsp;&nbsp;Properties located
   on a portion of 2470 Colonel Talbot Road, 2536 Colonel Talbot Road, 2544
   Colonel Talbot Road and 947 Longworth Road (OZ-8271)
 
@@ -925,7 +899,6 @@ it being pointed out that at the public
   little yellow patch is great but is not big enough; and, requesting that
   Council please relook at it and protect some of the bigger trees.   (2014-D14)
 
-# 19.&nbsp;&nbsp;&nbsp;3rd Report of the
   London Advisory Committee on Heritage
 
 That, the following actions be taken with
@@ -958,7 +931,6 @@ b)         on
 c)         that clauses 3 to 10, inclusive,
   BE RECEIVED.
 
-# 20.&nbsp;&nbsp;&nbsp;2nd Report of the
   Trees and Forests Advisory Committee
 
 That, the following actions be taken with
@@ -973,7 +945,6 @@ a)         the
 b)         that clauses 2 to 6, inclusive,
   BE RECEIVED.
 
-# 21.&nbsp;&nbsp;&nbsp;Medway Valley
   Heritage Forest Environmentally Significant Area, Phase One, Conservation
   Master Plan
 
@@ -1017,7 +988,6 @@ Motion Passed
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Local Improvements
   Charges for Energy and Water Efficiency Improvements Update
 
 That the staff report dated March 3, 2014,
@@ -1025,15 +995,11 @@ That the staff report dated March 3, 2014,
   Efficiency Improvements BE REFERRED to the Corporate Services Committee.
   (2014-F21)
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -1333,7 +1299,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

@@ -15,10 +15,8 @@ May 28, 2013, at  4:01 PM
 > [!abstract]- Also Present:
 > J.F. Fontana, J.L. Baechler, G. Barrett, L. Claro, B. Debbert, M. Elmadhoon, J.M. Fleming, B. Henry, T. Karidas, P. Kokkoros, G. Kotsifas, B. Krichker, I. Listar, A. Macpherson, A. MacLean, D. Menard, J. Page, J. Ramsay, C. Saunders, R. Sharpe, A.B. Watson, J. Yanchula, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;4th Report of the
   Trees and Forests Advisory Committee
 
 Recommendation:  That the following actions
@@ -38,14 +36,12 @@ b)           
   clauses
   2 to 8, inclusive, BE RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;5th Report of the
   Advisory Committee on the Environment
 
 Recommendation:  That the 5th Report of the
   Advisory Committee on the Environment from its meeting held on May 1, 2013 BE
   RECEIVED.
 
-# 4.&nbsp;&nbsp;&nbsp;City of London
   Urban Design Awards Policy
 
 Recommendation:  That, on the
@@ -57,7 +53,6 @@ Recommendation:  That, on the
   Architecture Institute of Canada’s (RAIC) National Urban Design Awards
   program. (2013-C01)
 
-# 5.&nbsp;&nbsp;&nbsp;Technical Amendment
   to the Telecommunication Facilities Consultation Policy (O-7881)
 
 Recommendation:  That, on the recommendation
@@ -67,7 +62,6 @@ Recommendation:  That, on the recommendation
   Telecommunication Facilities Consultation Policy to provide an exemption for
   amateur radio antenna support structures. (2013-C01)
 
-# 6.&nbsp;&nbsp;&nbsp;Emerald Ash Borer
   Program Status Report
 
 Recommendation:      That the following
@@ -91,7 +85,6 @@ c)           
   of a program where the Development Industry may be required to plant two
   trees for every tree it removes and/or establish a cash-in-lieu fund.   (2013-E04)
 
-# 7.&nbsp;&nbsp;&nbsp;Property located at
   4448 Colonel Talbot Road (H-8085)
 
 Recommendation:  That, on the
@@ -106,7 +99,6 @@ Recommendation:  That, on the
   Provision (h-17-AC2(6)) Zone to remove the holding “h-5”, “h-18” and “h-42”
   provisions. (2013-D14B)
 
-# 8.&nbsp;&nbsp;&nbsp;Subdivision
   Assignment Agreement - 160 Sunningdale Road West Ltd. - Tricar Subdivision
   (Phase 2) (39T-11504)
 
@@ -134,7 +126,6 @@ c)         the
   that the owner has provided the City with a copy of the Transfer document as
   proof of the purchase and sale.   (2013-L04)
 
-# 9.&nbsp;&nbsp;&nbsp;Special Provisions
   - 160 Sunningdale Road West Ltd. - Tricar Subdivision (Phase 2) (39T-11504)
 
 Recommendation:  That, on the
@@ -170,7 +161,6 @@ d)           
   Committee meeting to be held on May 28, 2013, in a separate report.  
   (2013-L04)
 
-# 10.&nbsp;&nbsp;&nbsp;Subdivision
   Agreement - Old Victoria No. 2 SWM facility - Sifton Properties Limited
   (39T-09502)
 
@@ -210,7 +200,6 @@ i)          for
   ($100,000/acre) and 0.252 ha at $13,590/ hectare ($5,500/acre), plus
   applicable taxes.  (2013-L04)
 
-# 11.&nbsp;&nbsp;&nbsp;Special Provisions
   - Highland Green London Inc. - Highland Green Subdivision - 181-199
   Commissioners Road East (39T-08501)
 
@@ -243,7 +232,6 @@ c)           
   in part a), above, any amending agreements and all documents required to
   fulfill its conditions.   (2013-L04)
 
-# 12.&nbsp;&nbsp;&nbsp;Property located at
   3557 Colonel Talbot Road - North Lambeth Subdivision - Extension to Draft
   Plan of Subdivision Approval (39T-00510)
 
@@ -254,7 +242,6 @@ Recommendation:  That, on the
   Oliver and Associates Realty Inc., relating to the property located at 3557
   Colonel Talbot Road, SUBJECT TO the previously imposed conditions. (2013-D12)
 
-# 13.&nbsp;&nbsp;&nbsp;Riverbend South
   Secondary Plan
 
 Recommendation:  That, on the recommendation
@@ -286,7 +273,6 @@ e)         subdivision
   considered incomplete until such time as the Part II Order issues, relating
   to the Tributary ‘C’ Municipal Class EA, have been resolved.   (2013-D08)
 
-# 14.&nbsp;&nbsp;&nbsp;Wood Hull
   Subdivision (39T-03511)
 
 Recommendation:  That, on the recommendation
@@ -297,7 +283,6 @@ Recommendation:  That, on the recommendation
   Matthews) BE RECEIVED; it being noted that FHC plans to assume the
   development as approved. (2013-D12)
 
-# 15.&nbsp;&nbsp;&nbsp;Property located at
   1030 Elias Street (Z-8154)
 
 Recommendation:  That, on the
@@ -351,7 +336,6 @@ it being pointed out that at the public
   property currently has 43 parking spaces; and requesting the wording be
   changed to “not less than the current 43 parking spaces on the property”.    (2013-D14A)
 
-# 16.&nbsp;&nbsp;&nbsp;Properties located
   at 1930 and 1950 Hyde Park Road (Z-8155)
 
 Recommendation:  That, on the
@@ -386,7 +370,6 @@ it being pointed out that there were no oral
   submissions made at the public  participation meeting associated with this
   matter.   (2013-D14A)
 
-# 17.&nbsp;&nbsp;&nbsp;Properties located
   at 3 Front Street and 5 Front Street
 
 Recommendation:  That, on the
@@ -423,7 +406,6 @@ it being pointed out that at the public
   be above the 100 year flood line; noting that all of the openings will be above
   the 250 year flood line so everything should be safe.   (2013-D11)
 
-# 18.&nbsp;&nbsp;&nbsp;Property located at
   1206 Oxford Street East
 
 Recommendation:  That, on the recommendation
@@ -446,7 +428,6 @@ it being pointed out that there were no
   oral submissions made at the public  participation meeting associated with
   this matter.   (2013-D11)
 
-# 19.&nbsp;&nbsp;&nbsp;Property located at
   1464 Adelaide Street North (Z-8144)
 
 Recommendation:  That, on the
@@ -490,7 +471,6 @@ it being pointed out that there were no
   oral submissions made at the public  participation meeting associated with
   this matter.  (2013-D14A)
 
-# 20.&nbsp;&nbsp;&nbsp;Western Counties
   Health and Occupational Centre Grounds: Cultural Heritage Landscape -
   Official Plan Amendment (O-8170)
 
@@ -551,7 +531,6 @@ it being pointed out that there were no
   oral submissions made at the public  participation meeting associated with
   this matter.   (2013-R01)
 
-# 21.&nbsp;&nbsp;&nbsp;Properties located
   at 404-408 Pall Mall Street and 660 Colborne Street (Z-8152)
 
 Recommendation:  That, on the
@@ -702,7 +681,6 @@ it being pointed out that at the public
   to install an espresso bar; and advising that they do not believe that their
   application will exacerbate any safety issues that exist today.   (2013-D14A)
 
-# 22.&nbsp;&nbsp;&nbsp;Downtown Heritage
   Conservation District Plan - Ontario Heritage Act Appeal (O-8024)
 
 Recommendation:  That, on the

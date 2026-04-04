@@ -12,13 +12,11 @@ November 25, 2013, at  7:00 PM
 > [!abstract]- Also Present:
 > S. Datars Bere, S. Giustizia, O. Katolyk, L. Livingstone, C. Smith, S. Stafford, E. White
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;2014 Volunteer
   Service Awards Program
 
 Recommendation:  That the communication
@@ -26,21 +24,18 @@ Recommendation:  That the communication
   Immigration, with respect to the 2014 Volunteer Service Awards program, BE
   RECEIVED. (2013-M11)
 
-# 3.&nbsp;&nbsp;&nbsp;11th Report of the
   London Housing Advisory Committee
 
 Recommendation:  That the 11th Report of
   the London Housing Advisory Committee, from its meeting held on November 13,
   2013, BE RECEIVED.
 
-# 4.&nbsp;&nbsp;&nbsp;12th Report of the
   Animal Welfare Advisory Committee
 
 Recommendation:  That the 12th Report of
   the Animal Welfare Advisory Committee, from its meeting held on November 7,
   2013, BE RECEIVED.
 
-# 5.&nbsp;&nbsp;&nbsp;Animal Welfare Services
   Funding
 
 Recommendation:  That, on the recommendation
@@ -65,7 +60,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Provincial Social
   Assistance Service and Rate Structure Reviews
 
 Recommendation:  That, on the
@@ -91,7 +85,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Amendment to
   Purchase of Service Agreement - Ontario Works Employment Assistance Services
 
 Recommendation:  That, on the
@@ -106,7 +99,6 @@ a)         approve
 b)         authorize
   the Mayor and the City Clerk to execute the Amending Agreement.  (2013-L04)
 
-# 8.&nbsp;&nbsp;&nbsp;RFP 13-29 - Supply
   and Delivery of Automatic External Defibrillators
 
 Recommendation:  That, on the
@@ -138,7 +130,6 @@ d)           
   funding for this purchase BE APPROVED as set out in the Sources of Financing
   Report, as appended to the staff report dated November 25, 2013.  (2013-F18)
 
-# 9.&nbsp;&nbsp;&nbsp;2012 Emergency
   Management Program Update
 
 Recommendation:  That, on the
@@ -165,7 +156,6 @@ b)         the
   the details of 2012 Emergency Management Program BE     RECEIVED for
   information.  (2013-P03)
 
-# 10.&nbsp;&nbsp;&nbsp;A. Oudshoorn,
   Chair, London Homeless Coalition - London Homeless Coalition Advocacy
   Campaign
 
@@ -195,7 +185,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;5th Report of the
   Council Housing Leadership Committee
 
 Recommendation:  That the following actions

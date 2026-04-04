@@ -15,7 +15,6 @@ June 24, 2014, at  2:36 PM
 > [!abstract]- Also Present:
 > J.P. Barber, M. Hayward, D. Mounteer, B. Warner
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no

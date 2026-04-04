@@ -12,14 +12,12 @@ November 26, 2012, at  4:07 PM
 > [!abstract]- Also Present:
 > M. Brown, P. Hubert, G. Barrett, S. Bellaire, P. Christiaans, E. Conway, B. Debbert, M. Elmadhoon, J.M. Fleming, T. Grawey, T. Karidas, P. Kokkoros, J. Leunissen, G. Kotsifas, B. Krichker, A. MacLean, S. Meksula, D. Menard, N. Musicco, J. Ramsay, A. Riley, J. Shaughnessy, M. Tomazincic, S. Wise, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that Councillor B.
   Polhill disclosed a pecuniary interest in clause 21 of this Report having to
   do with the application of London Property Corporation, relating to the
   property located at 124 St. James Street, as the application was dealt with
   by the Committee of Adjustment, by indicating that his son is a member of the
   Committee of Adjustment.
 
-# 2.&nbsp;&nbsp;&nbsp;Near Campus
   Neighbourhoods Planning Amendments - Notice of Appeal to the Ontario Municipal Board (OZ-7663)
 
 Recommendation:  That, on the
@@ -37,7 +35,6 @@ Recommendation:  That, on the
   Council has reviewed its decision relating to these matters and sees no
   reason to alter it.  (2012-D11-02)
 
-# 3.&nbsp;&nbsp;&nbsp;Property located at
   75 Blackfriars Street - Notice of Appeal to the Ontario Municipal Board
   (OZ-8048)
 
@@ -49,7 +46,6 @@ Recommendation:  That, on the recommendation
   Municipal Board BE ADVISED that the Municipal Council has reviewed its
   decision relating to these matters and sees no reason to alter it.  (2012-D11-07)
 
-# 4.&nbsp;&nbsp;&nbsp;Property located at
   754 Maitland Street - Notice of Appeal to the Ontario Municipal Board  (Z-8065)
 
 Recommendation:  That, on the
@@ -78,7 +74,6 @@ it being noted that
   Kaplansky, Kapland Construction Management Ltd., with respect to this matter.
    (2012-D11-04)
 
-# 5.&nbsp;&nbsp;&nbsp;Property located at
   1103 Adelaide Street North - Notice of Appeal to the Ontario Municipal Board  (OZ-7972)
 
 Recommendation:  That, on the
@@ -91,7 +86,6 @@ Recommendation:  That, on the
   ADVISED that the Municipal Council has reviewed its decision relating to
   these matters and sees no reason to alter it.  (2012-D11-07)
 
-# 6.&nbsp;&nbsp;&nbsp;London Psychiatric
   Hospital - Resolution of Ontario Municipal Board Appeal (O-7668)
 
 Recommendation:  That, on the
@@ -114,7 +108,6 @@ c)         the
   rear portion of” and replacing them with the word “within”, in accordance
   with the above-noted Minutes of Settlement.   (2012-D11-09)
 
-# 7.&nbsp;&nbsp;&nbsp;Residential
   Intensification Policies (O-7970)
 
 Recommendation:  That, on the
@@ -150,7 +143,6 @@ it being further noted that the Planning
   21, 2012, from R. Zelinka, on behalf of the London Area Planning Consultants,
   with respect to this matter.  (2012-D11-09)
 
-# 8.&nbsp;&nbsp;&nbsp;Planning
   Division 18 Month Work Program
 
 Recommendation: 
@@ -159,7 +151,6 @@ Recommendation: 
   REFERRED to the Strategic Planning and Priorities Committee for
   consideration.   (2012-A08-05)
 
-# 9.&nbsp;&nbsp;&nbsp;Member Composition
   for the Urban Design Peer Review Panel
 
 Recommendation:  That, on the
@@ -179,7 +170,6 @@ ii)            
   other professional fields that influence the design of the built environment.
     (2012-G01-00)
 
-# 10.&nbsp;&nbsp;&nbsp;Provincial Policy
   Statement 5 Year Review - City of London - Response
 
 Recommendation:  That, on the
@@ -189,7 +179,6 @@ Recommendation:  That, on the
   FORWARDED to the Ministry of Municipal Affairs and Housing for their
   consideration. (2012-D02-00)
 
-# 11.&nbsp;&nbsp;&nbsp;Property located on
   a portion of 890 Southdale Road West - Phase Two of Highland Ridge
   (Crestwood) Subdivision (H-8124)
 
@@ -208,7 +197,6 @@ Recommendation:  That, on the
   Residential R1 Special Provision (R1-8(4)) Zone, to remove the “h” holding
   provision.  (2012-D11-03)
 
-# 12.&nbsp;&nbsp;&nbsp;Property located at
   1480 Riverbend Road and a portion of 1552 Riverbend Road (H-8123)
 
 Recommendation:  That, on the
@@ -223,7 +211,6 @@ Recommendation:  That, on the
   a holding Residential R1 (h-R1-4) Zone TO a Residential R1 (R1-4) Zone,
   to remove the holding provisions. (2012-D11-06)
 
-# 13.&nbsp;&nbsp;&nbsp;Properties located
   at 311-319 Wharncliffe Road North (H-8082)
 
 Recommendation:  That, on the
@@ -237,7 +224,6 @@ Recommendation:  That, on the
   Special Provision (R8-4(18)) Zone, to remove the “h” and “h-5” holding
   provisions. (2012-D11-08)
 
-# 14.&nbsp;&nbsp;&nbsp;Property located at
   3455 Morgan Crescent  (H-8061)
 
 Recommendation:  That, on the
@@ -251,7 +237,6 @@ Recommendation:  That, on the
   Residential R5/R6/R7 (R5-4/R6-5/R7-D100-H-30) Zone, to remove the holding
   provisions. (2012-D11-07)
 
-# 15.&nbsp;&nbsp;&nbsp;Property located at
   160 Sunningdale Road West (H-8084)
 
 Recommendation:  That, on the
@@ -285,7 +270,6 @@ b)         the
   Residential R4 (R4-6) Zone, BE DEFERRED until such time as the holding
   provisions have been addressed to the satisfaction of the City.   (2012-D11-07)
 
-# 16.&nbsp;&nbsp;&nbsp;Andover Trails
   Subdivision - Phase 4 - Special Provisions (39T-07510)
 
 Recommendation:  That, on the
@@ -328,14 +312,12 @@ it being further noted
   II Order on the Municipal Class EA Study for the Pincombe Drain
   Storm/Drainage and Drain Restoration.      (2012-D26-05)
 
-# 17.&nbsp;&nbsp;&nbsp;Fire at 1156 Dundas
   Street
 
 Recommendation:  That, on the
   recommendation of the Managing Director, Development and Compliance Services & Chief Building Official, the report, dated November 26, 2012, relating
   to the recent fire at 1156 Dundas Street, BE RECEIVED.   (2012-P09-00)
 
-# 18.&nbsp;&nbsp;&nbsp;4th Report of the
   Advisory Committee on the Environment
 
 Recommendation:  That, the following
@@ -353,7 +335,6 @@ b)         that
   clauses 2 through 6, inclusive, of the 4th Report of the ACE, BE RECEIVED
   AND NOTED.
 
-# 19.&nbsp;&nbsp;&nbsp;4th Report of the
   London Advisory Committee on Heritage
 
 Recommendation:  That, the following
@@ -469,7 +450,6 @@ it being noted that
   the Planning and Environment Committee heard a verbal presentation from G.
   Goodlet, Chair, LACH, with respect to these matters.
 
-# 20.&nbsp;&nbsp;&nbsp;3rd Report of the
   Environmental and Ecological Planning Advisory Committee
 
 Recommendation:  That, the following
@@ -501,7 +481,6 @@ it being noted that
   the Planning and Environment Committee did not hear a verbal presentation
   from D. Sheppard, Chair, EEPAC, with respect to these matters.
 
-# 21.&nbsp;&nbsp;&nbsp;Property located at
   124 St. James Street
 
 Recommendation:  That, on the
@@ -606,7 +585,6 @@ it being pointed out that at the public
   they were unable to stop the development; and advising that the Community
   Association does not represent everyone in the area.    (2012-D25-00)
 
-# 22.&nbsp;&nbsp;&nbsp;Property located at
   195 Dundas Street (TZ-8100)
 
 Recommendation:  That, on the
@@ -633,7 +611,6 @@ it being pointed out that at the public
   Patton, Patton, Cormier & Associates, on behalf of the applicant –
   expressing support for the application.   (2012-D11-05)
 
-# 23.&nbsp;&nbsp;&nbsp;Property located at
   129 Riverside Drive
 
 Recommendation:  That, on the
@@ -695,7 +672,6 @@ it being pointed out that at the public
   Dougherty, 162 Mount Pleasant Avenue – enquiring as to the status of the
   zoning variance.   (2012-D25-00)
 
-# 24.&nbsp;&nbsp;&nbsp;Request for
   Demolition – Property located at 1523 Bradley Avenue
 
 Recommendation:  That, on the
@@ -723,7 +699,6 @@ it being pointed out that there were no
   oral submissions made at the public  participation meeting associated with
   this matter.  (2012-D10-00)
 
-# 25.&nbsp;&nbsp;&nbsp;Properties located
   at 510, 518 and 526 Southdale Road East (Z-8092)
 
 Recommendation:  That, on the
@@ -816,7 +791,6 @@ it being pointed out that at the public
   build new houses; and indicating that if you allow this on one corner, you
   need to allow it all down the street.   (2012-D11-05)
 
-# 26.&nbsp;&nbsp;&nbsp;Property located at
   1205 Riverside Drive (39CD-12512/Z-8099)
 
 Recommendation:  That, on the
@@ -876,7 +850,6 @@ it being pointed out that at the public
   Administration for their efforts on this application; and advising that the
   applicant will make the development beautiful.   (2012-D11-06/D25-00)
 
-# 27.&nbsp;&nbsp;&nbsp;Property located at
   450 Oxford Street West
 
 Recommendation:  That, notwithstanding the
@@ -1018,7 +991,6 @@ it being pointed out that at the public
   advising that they will provide the floodplain information once they have it.  
   (2012-D11-01)
 
-# 28.&nbsp;&nbsp;&nbsp;Demolition Request
   – Property located at 75 Bathurst Street
 
 Recommendation:  That, on the recommendation
@@ -1049,7 +1021,6 @@ it being pointed out that at the public
   Park, 300 South Street, President, SOHO Community Association – expressing
   support for the application.  (2012-D10-00)
 
-# 29.&nbsp;&nbsp;&nbsp;Property located at
   2095 Coronation Drive (Z-8076)
 
 Recommendation:  That, on the
@@ -1223,7 +1194,6 @@ it being pointed out that at the public
   park; and indicating that if houses are built, they should be single family
   dwellings, not medium density attached homes.   (2012-D11-01)
 
-# 30.&nbsp;&nbsp;&nbsp;Beaufort/Irwin/Gunn/Saunby/Essex
   ("BIGS") Street Neighbourhood Plan
 
 Recommendation:  That, the Civic
@@ -1414,7 +1384,6 @@ it being pointed out that at the public
   Mills townhouse development; and requesting that the neighbourhood be rezoned
   from an R2-3 Zone to a R3-2 Zone.    (2012-D11-00)
 
-# 31.&nbsp;&nbsp;&nbsp;Old East Village
   Enhanced Incentives Program
 
 Recommendation:      That the Civic
@@ -1442,7 +1411,6 @@ it being pointed out that the Planning and
   Bryant, Board Member, Old East Village Business Improvement Area, with
   respect to this matter.   (2012-F12-00)
 
-# 32.&nbsp;&nbsp;&nbsp;Dalmagarry Road
 
 Recommendation:  That the Civic
   Administration BE REQUESTED to report to a future meeting of the Planning

@@ -17,13 +17,11 @@ February 15, 2022, at  3:00 PM
 
 The meeting is called to order at 3:00 PM; it being noted that the following members were in remote attendance: Councillors M. van Holst, M. Salih, J. Helmer, M. Cassidy, M. Hamou, J. Morgan, S. Lehman, A. Hopkins, P. Van Meerbergen, S. Turner, E. Peloza, S. Hillier.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;Streamline Development Approval Fund – Transfer Payment Agreement
 
@@ -85,25 +83,21 @@ b)    the Civic Administration BE AUTHORIZED to undertake all administrative a
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by M. van Holst
 

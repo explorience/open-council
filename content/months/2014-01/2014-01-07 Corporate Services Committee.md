@@ -12,7 +12,6 @@ January 7, 2014, at  1:05 PM
 > [!abstract]- Also Present:
 > S. Orser; A. Zuidema, J. Braam, L. Burgess, S. Corman, J. Davies, K. Dawtrey, A. Dunbar, J. Edward, A. Hagan, M. Hayward, G.T. Hopcroft, V. McAlea Major, K. Owen, M. Ribera, C. Saunders, K. Shehata, E. Soldo, M. Turner, J. Smout, B. Warner
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that Councillor
@@ -21,7 +20,6 @@ Recommendation:  That it BE NOTED that Councillor
   Centre by indicating that his employer, Orchestra London, is currently
   involved in the process with the City of London.
 
-# 2.&nbsp;&nbsp;&nbsp;Declare Surplus -
   City-Owned Property - 2532 Main Street, former London Police Service
   Substation in Lambeth
 
@@ -57,7 +55,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Letter of Agreement
   - Provincial Dedicated Gas Tax Funds for Public Transportation Program
 
 Recommendation:  That, on the
@@ -87,7 +84,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Enterprise License
   Agreement with ESRI Canada Inc.
 
 Recommendation:  That, on the
@@ -129,7 +125,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Public
   Participation Meeting – Introduction of Electronic Bingos in the City of
   London
 
@@ -294,7 +289,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;State of the
   Infrastructure Report 2013 
  
 (Secretary's Note: A copy of the State of
@@ -341,7 +335,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Funding of
   Performing Arts Centre - 2014 Municipal Election Ballot
 
 Recommendation:  That NO ACTION BE TAKEN
@@ -365,7 +358,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Federation of
   Canadian Municipalities Board of Directors Meeting - Ottawa, ON - November 26
   - 29, 2013
 
@@ -391,7 +383,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Consideration of
   Appointments to the Accessibility Advisory Committee
 
 Recommendation:  That the following
@@ -439,7 +430,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Consideration of
   Appointments to the Advisory Committee on the Environment
 
 Motion
@@ -458,7 +448,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Consideration of
   Appointments to the London Housing Advisory Committee
 
 Recommendation:  That the following
@@ -494,7 +483,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;ADDED - B. Hall,
   Chief Commissioner, Ontario Human Rights Commission - Municipal Regulation of
   Methadone Health Services in the City of London
 

@@ -12,13 +12,11 @@ March 3, 2015, at 12:04 PM
 > [!abstract]- Also Present:
 > J. Helmer, V. Ridley, M. Salih, M. van Holst; A. Zuidema, W. Abbott, J.P. Barber, J. Braam, A. Hagan, M. Hayward, M. Henderson, D. Mounteer, M. Ribera, A. Ripepi, C. Saunders, J. Senese, J. Stanford, B. Warner
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That
   it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Argyle Business
   Improvement Area 2015 Proposed Budget - Municipal Special Levy
 
 That, on the recommendation of the Managing
@@ -63,7 +61,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;London Downtown
   Business Association 2015 Proposed Budget - Municipal Special Levy
 
 That, on the recommendation of Managing
@@ -108,7 +105,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Old East Village
   Business Improvement Area 2015 Proposed Budget - Municipal Special Levy
 
 That, on the recommendation of the Managing
@@ -153,7 +149,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Outstanding London
   Ambassador Award
 
 That the following actions be taken with
@@ -191,7 +186,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Update on
   Discussions with a Greenhouse Operator That May Be Located on City-Owned Land
   in the Vicinity of the W12A Landfill and Resource Recovery Area
 
@@ -218,7 +212,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Request for
   Designation of the Forest City Beer Fest as a Municipally Significant Event
 
 That the Forest City Beer Fest to be held
@@ -242,7 +235,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;2014 London
   Convention Centre Operational Results
 
 That the 2014 London Convention Centre
@@ -276,7 +268,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;London Convention
   Centre Naming Rights Policy
 
 That the London Convention Centre
@@ -302,7 +293,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Confirmation of
   Appointment to the Cycling Advisory Committee
 
 That George Sinclair BE CONFIRMED as a
@@ -352,7 +342,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;ADDED - 2015
   Debenture Issue Update - Delegation - Karen Yeung, Director, Government Finance-Debt
   Capital Markets, CIBC World Markets Inc.
 
@@ -393,7 +382,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;ADDED - Council
   Policy 28(2) - Council Members' Expense Account
 
 That the City Clerk BE DIRECTED to
@@ -420,7 +408,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;ADDED – Potential Youth Award
 
 That the City Clerk BE DIRECTED to liaise with
   the London Youth Advisory Council, and other appropriate stakeholders, to

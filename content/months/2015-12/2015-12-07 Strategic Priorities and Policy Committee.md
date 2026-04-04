@@ -12,7 +12,6 @@ December 7, 2015, at  4:00 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, D. Bordin, J. Braam, I. Collins, B. Coxhead, M. Daley, S. Datars Bere, A. Dunbar, J.M. Fleming, S. Galloway, K. Graham, M. Hayward, M. Johnson, G. Kotsifas, L. Livingstone, J. Lucas, V. McAlea Major, J.P. McGonigle, L. Palarchio, K. Pawelec, M. Ribera, C. Saunders, C. Smith, E. Soldo, J. Tansley
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that Councillor J. Morgan
@@ -36,7 +35,6 @@ c)           
   communications necessary for that purpose, as it relates to the London
   Medical Innovation and Commercialization Network Contribution Agreement.
 
-# 2.&nbsp;&nbsp;&nbsp;Municipal
   Implications of the Truth and Reconciliation Commission Report
 
 That, on the recommendation of the
@@ -75,7 +73,6 @@ Motion Passed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Surplus/Deficit
   Policy
 
 That, on the recommendation of the Managing
@@ -175,7 +172,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Strategic Plan for
   The City of London 2015-2019: Proposed Reporting Process and Year One Update
 
 That, on the recommendation of the City
@@ -216,7 +212,6 @@ Motion Passed
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;City of London
   Community Grants Program: Proposed Evaluation Criteria and Revised Community
   Grants Policy and Grant Agreement
 
@@ -284,7 +279,6 @@ Motion Passed
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;London Medical
   Innovation and Commercialization Network
 
 That, on the recommendation of the Managing
@@ -328,7 +322,6 @@ Motion Passed
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;London Medical
   Innovation and Commercialization Network Update (Paul Paolatto and Peter
   White)
 
@@ -361,7 +354,6 @@ Motion Passed
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Public
   Participation Meeting - 2016 Water and Wastewater Rates
 
 That, on the recommendation of the Managing
@@ -483,7 +475,6 @@ Motion Passed
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Smart City Strategy
   Terms of Reference
 
 That, on the recommendation of the Managing
@@ -519,7 +510,6 @@ Motion Passed
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Consideration of
   Appointments to the County/City Liaison Committee
 
 That the following individuals BE APPOINTED
@@ -553,7 +543,6 @@ Motion Passed
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Confirmation of
   Appointment to the Outstanding London Ambassador Award Committee
 
 That Dan Doroshenko BE APPOINTED as the
@@ -584,7 +573,6 @@ Motion Passed
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;8th Report of the
   Governance Working Group
 
 That the following actions be taken with
@@ -622,7 +610,6 @@ Motion Passed
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Request for Delegation
   Status - Expansion of London Optimist Sports Centre (BMO Centre)
 
 That the Committee Secretary BE DIRECTED to

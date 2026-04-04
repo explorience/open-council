@@ -17,19 +17,15 @@ December 13, 2022, at  1:00 PM
 
 The meeting is called to order at 1:00 PM; it being noted that S. Hillier was in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that there were no disclosures of pecuniary interest.
 
-# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
 ## 2.1&nbsp;&nbsp;&nbsp;His Worship the Mayor recognizes the 2022 Diversity, Race Relations and Inclusivity Awards:  Airshow London / Amazon Delivery Station / ATN Access Inc. / Jess Jones Recreation Therapy Inc.
 
-# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
 
 > Motion made by S. Lewis
 
@@ -89,7 +85,6 @@ That Council convenes In Closed Session, from 1:19 PM to 1:49 PM.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
 ## 5.1&nbsp;&nbsp;&nbsp;2nd Meeting held on November 22, 2022
 
@@ -123,7 +118,6 @@ That the Minutes of the 2nd Meeting of the Municipal Council, held on November 2
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 > Motion made by P. Van Meerbergen
 
@@ -219,11 +213,9 @@ That the following communications and petitions BE RECEIVED and BE REFERRED as n
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 None.
 
-# 8.&nbsp;&nbsp;&nbsp;Reports
 
 ## 8.1&nbsp;&nbsp;&nbsp;1st Report of the Planning and Environment Committee
 
@@ -2016,7 +2008,6 @@ it being noted that the Strategic Priorities and Policy Committee heard a delega
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 ## 9.1&nbsp;&nbsp;&nbsp;2nd Report of Council in Closed Session
 
@@ -2103,19 +2094,15 @@ b)    the financing for this acquisition BE APPROVED as set out in the Source 
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-# 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 None.
 
-# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 
 None.
 
-# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 > Motion made by H. McAlister
 
@@ -2332,7 +2319,6 @@ That Third Reading and Enactment of Bill No. 26, BE APPROVED.
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by P. Cuddy
 
@@ -2346,7 +2332,6 @@ The meeting is adjourned at 4:26 PM.
 
 ****
 
-# Appendix: New Bills
 
 > [!abstract]- The following Bills are enacted as By-laws of The Corporation of the City of London:
 > **Bill No. 4**

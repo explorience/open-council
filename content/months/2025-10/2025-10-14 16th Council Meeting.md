@@ -17,7 +17,6 @@ October 14, 2025, at  1:00 PM
 
 The meeting is called to order at 1:02 PM.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 At 1:03 PM, Councillors S. Trosow and S. Hillier enter the meeting.
 
@@ -25,15 +24,12 @@ At 1:05 PM, Councillor P. Van Meerbergen enters the meeting.
 
 That it BE NOTED Councillor P. Van Meerbergen discloses a pecuniary interest in item 8, clause 2.5 of the 15th Report of the Infrastructure and Corporate Services Committee and related Bill No. 366 having to do with City/County Cost Apportionment & Agency Agreements for Land Ambulance, Ontario Works, Housing, Child Care and Homelessness Prevention Program by indicating that his wife owns and operates a day care.
 
-# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
 
 > Motion made by S. Lehman
 
@@ -98,7 +94,6 @@ The Council convenes In Closed Session, from 1:08 PM to 1:15 PM.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
 ## 5.1&nbsp;&nbsp;&nbsp;15th Meeting held on September 23, 2025
 
@@ -133,7 +128,6 @@ That the Minutes of the 15th Meeting of the Municipal Council, held on September
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 > Motion made by S. Hillier
 
@@ -243,7 +237,6 @@ That the communication dated October 2, 2025 from J. Paul Dube, Ombudsman regard
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 ## 7.1&nbsp;&nbsp;&nbsp;Mayor J. Morgan, Deputy Mayor S. Lewis, Councillors A. Hopkins and S. Franke - Automated Speed Enforcement (ASE) 
 
@@ -361,7 +354,6 @@ That pursuant to section 11.3 of the Council Procedure By-law, leave BE GRANTED 
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Reports
 
 ## 8.1&nbsp;&nbsp;&nbsp;12th Report of the Strategic Priorities and Policy Committee
 
@@ -2109,7 +2101,6 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 At 5:34 PM, Councillor S. Hillier enters the meeting.
 
@@ -2148,19 +2139,15 @@ That progress was made with respect to items 4.1, 4.3, 4.4, 4.5, 4.6, 4.7 and 4.
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-# 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 Councillor S. Stevenson enquires with respect to the number of overdose deaths reported as critical incidents in our hubs or supportive housing.  The Deputy City Manager, Social and Health Development responds to the enquiry.
 
-# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 
 None.
 
-# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 > Motion made by H. McAlister
 
@@ -2476,7 +2463,6 @@ That Third Reading and Enactment of Bill No.'s 358 to 378 and including the Adde
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by P. Van Meerbergen
 
@@ -2490,7 +2476,6 @@ The meeting adjourned at 5:47 PM.
 
 ****
 
-# Appendix: New Bills
 
 > [!abstract]- The following Bills are enacted as By-laws of The Corporation of the City of London:
 > **Bill No. 358**

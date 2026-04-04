@@ -12,10 +12,8 @@ October 9, 2012, at  2:00 PM
 > [!abstract]- Also Present:
 > J.F. Fontana, H.L. Usher, G. Barrett, T. Grawey, G. Kotsifas, J. Leunissen, J. Ramsay, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Property located at
   1461 Huron Street (H-8101)
 
 Recommendation:  That, on the
@@ -33,7 +31,6 @@ Recommendation:  That, on the
   2012, relating to the public site plan meeting held in association with this
   matter.
 
-# 3.&nbsp;&nbsp;&nbsp;Property located at
   4551 Wellington Road South (OZ-7319)
 
 Recommendation:  That, further to the

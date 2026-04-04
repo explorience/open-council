@@ -20,11 +20,9 @@ May 29, 2018, at 12:30 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by Mayor M. Brown
 
@@ -122,11 +120,9 @@ That, on the recommendation of the Managing Director, Corporate Services and Cit
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 > Moved by J. Zaifman
 
@@ -184,7 +180,6 @@ That Manmohan Bhavra BE APPOINTED as a Voting Representative of the Thames Reg
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;ADDED - Request for Designation of Canada Day London as a Municipally Significant Event
 
@@ -234,7 +229,6 @@ it being noted that the candidates were selected in accordance with the attached
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 ## 6.1&nbsp;&nbsp;&nbsp;Personal Matters/Identifiable Individual
 
@@ -280,7 +274,6 @@ The Corporate Services Committee convened in camera from 1:25 PM to 1:30 PM with
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 1:31 PM.
 

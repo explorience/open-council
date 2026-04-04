@@ -17,11 +17,9 @@ June 19, 2018, at 12:30 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 None.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by J. Zaifman
 
@@ -281,7 +279,6 @@ That, on the recommendation of the City Manager and Managing Director, Corporate
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Tax Adjustment Agenda
 
@@ -347,7 +344,6 @@ Motion to close the meeting to the public for comment.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Covent Garden Market
 
@@ -415,11 +411,9 @@ That the request by Crispin Colvin, Director, Ontario Federation of Agriculture
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by J. Zaifman
 
@@ -497,7 +491,6 @@ The Corporate Services Committee convened in camera from 2:45 PM to 3:25 PM with
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 3:26 PM.
 

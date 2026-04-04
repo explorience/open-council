@@ -12,7 +12,6 @@ December 8, 2014, at  4:01 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, J. Braam, K. Chambers, C. Colvin, B. Coxhead, S. Datars Bere, A. Dunbar, J.M. Fleming, M. Hayward, G.T. Hopcroft, G. Kotsifas, R. Lamon, L. Livingstone, J. Lucas, V. McAlea Major, J.P. McGonigle, C. Milne, D. O’Brien, R. Paynter, C. Saunders, M. Semeniuk, J. Senese, S. Spring, B. Westlake-Power
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that the
@@ -46,7 +45,6 @@ e)         Councillor
   do with the appointment of a Deputy Mayor selected by the Mayor, by
   indicating that he is the subject of the decision.
 
-# 2.&nbsp;&nbsp;&nbsp;Deputy Mayor Policy
 
 Recommendation:  That the following actions
   be taken regarding a Deputy Mayor Policy:
@@ -334,7 +332,6 @@ Motion Passed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Tabling of the 2015
   Draft Budgets (Annual Tax-Supported Operating, Capital, Water and Wastewater
   Treatment)
 
@@ -387,7 +384,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Public
   Participation Meeting - Amendments to Council Procedure By-law
 
 Recommendation:  That, on the
@@ -490,7 +486,6 @@ Motion Passed
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Investment and
   Economic Prosperity Committee
 
 Recommendation:  That the following actions
@@ -545,7 +540,6 @@ Motion Passed
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Civic Works Committee (Requires 5 Council Members, one of
   whom shall be Chair)
 
@@ -612,7 +606,6 @@ Motion Passed
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Community and Protective Services Committee (Requires 5
   Council Members, one of whom shall be Chair)
 
@@ -679,7 +672,6 @@ Motion Passed
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Corporate Services Committee (Requires 4 Council Members
   and the Municipal Council's section for the Deputy Mayor who shall serve as
   Chair)
@@ -721,7 +713,6 @@ Motion Passed
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Planning and Environment Committee (Requires 5 Council
   Members, one of whom shall be Chair)
 
@@ -785,7 +776,6 @@ Motion Passed
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Argyle Business
   Improvement Association
 
 Recommendation:  That the following actions
@@ -861,7 +851,6 @@ Motion Passed
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Audit Committee
 
 Recommendation:  That the following BE
@@ -926,7 +915,6 @@ Motion Passed
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the City of London and London District Catholic School Board
   Liaison Committee (Requires 3 Council Members and the Deputy Mayor selected
   by the Municipal Council)
@@ -964,7 +952,6 @@ Motion Passed
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the City of London and Thames Valley District School Board
   Liaison Committee (Requires 3 Council Members and the Deputy Mayor selected
   by the Municipal Council)
@@ -1002,7 +989,6 @@ Motion Passed
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Covent Garden Market Corporation Board of Directors
 
 Recommendation:  That the following BE
@@ -1069,7 +1055,6 @@ Motion Passed
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Dearness Home Committee of Management (Requires 5 Council
   Members)
 
@@ -1108,7 +1093,6 @@ Motion Passed
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Elgin Area Primary Water Supply System Joint Board of
   Management (Requires 3 Council Members and 3 Alternates)
 
@@ -1151,7 +1135,6 @@ Motion Passed
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Kettle Creek Conservation Authority - 3 Year Term
 
 Recommendation:  That the following BE
@@ -1187,7 +1170,6 @@ Motion Passed
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Lake Huron Primary Water Supply System Joint Board of Management
   (Requires 4 Council Members and 4 Alternates)
 
@@ -1230,7 +1212,6 @@ Motion Passed
 
 ****
 
-# 19.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the London and Middlesex Housing Corporation Board of
   Directors
 
@@ -1293,7 +1274,6 @@ Motion Passed
 
 ****
 
-# 20.&nbsp;&nbsp;&nbsp;London Convention
   Centre
 
 Recommendation:  That the following actions
@@ -1341,7 +1321,6 @@ Motion Passed
 
 ****
 
-# 21.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the London Downtown Business Association Board of Management
 
 Recommendation:  That Councillor T. Park BE
@@ -1375,7 +1354,6 @@ Motion Passed
 
 ****
 
-# 22.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the London Hydro Inc. Board of Directors
 
 Recommendation:  That Councillor M. van
@@ -1406,7 +1384,6 @@ Motion Passed
 
 ****
 
-# 23.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the London Police Services Board
 
 Recommendation:  That the following BE
@@ -1527,7 +1504,6 @@ Motion Passed
 
 ****
 
-# 24.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the London Public Library Board
 
 Recommendation:  That the following actions
@@ -1652,7 +1628,6 @@ Motion Passed
 
 ****
 
-# 25.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the London Transit Commission
 
 Recommendation:  That the following BE
@@ -1787,7 +1762,6 @@ Motion Passed
 
 ****
 
-# 26.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the London Transit Commission Long Term Growth Report Working
   Group (Requires any Council Members)
 
@@ -1825,7 +1799,6 @@ Motion Passed
 
 ****
 
-# 27.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Middlesex-London Health Unit Board of Health
 
 Recommendation:  That the following actions
@@ -1897,7 +1870,6 @@ Motion Passed
 
 ****
 
-# 28.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Museum London
 
 Recommendation:  That Councillor V. Ridley
@@ -1929,7 +1901,6 @@ Motion Passed
 
 ****
 
-# 29.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Old East Village Business Improvement Area Board of
   Management (Requires 1 Council Member and 14 Additional Members)
 
@@ -1964,7 +1935,6 @@ Motion Passed
 
 ****
 
-# 30.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Public Utility Commission of the City of London (Requires
   3 Council Members)
 
@@ -2001,7 +1971,6 @@ Motion Passed
 
 ****
 
-# 31.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Tourism London Board of Directors (Requires 2 Council
   Members)
 
@@ -2037,7 +2006,6 @@ Motion Passed
 
 ****
 
-# 32.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Town and Gown Committee (Requires 4 Council Members and
   the Deputy Mayor selected by the Municipal Council)
 
@@ -2104,7 +2072,6 @@ Motion Passed
 
 ****
 
-# 33.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Upper Thames River Conservation Authority - 3 Year Term
 
 Recommendation:  That the following BE
@@ -2140,7 +2107,6 @@ Motion Passed
 
 ****
 
-# 34.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Western Fair Association Board of Governors (Requires 1
   Council Member)
 
@@ -2209,7 +2175,6 @@ Motion Passed
 
 ****
 
-# 35.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Western Fair Association Programming Council (Requires 2
   Council Members)
 
@@ -2245,7 +2210,6 @@ Motion Passed
 
 ****
 
-# 36.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to Western University Board of Governors
 
 Recommendation:  That the following BE
@@ -2279,7 +2243,6 @@ Motion Passed
 
 ****
 
-# 37.&nbsp;&nbsp;&nbsp;1st Report of the
   Striking Committee
 
 Recommendation:  That the 1st Report of the
@@ -2311,7 +2274,6 @@ Motion Passed
 
 ****
 
-# 38.&nbsp;&nbsp;&nbsp;ADDED -
   Consideration of Appointment to the Committee of Adjustment (Requires 5
   Members)
 
@@ -2349,7 +2311,6 @@ Motion Passed
 
 ****
 
-# 39.&nbsp;&nbsp;&nbsp;ADDED -
   Consideration of Appointment to the Committee of Revision/Court of Revision
   (Requires 3 Members)
 
@@ -2383,7 +2344,6 @@ Motion Passed
 
 ****
 
-# 40.&nbsp;&nbsp;&nbsp;ADDED -
   Consideration of Appointment to Eldon House (Requires 9 Members)
 
 Recommendation:  That the following BE
@@ -2424,7 +2384,6 @@ Motion Passed
 
 ****
 
-# 41.&nbsp;&nbsp;&nbsp;ADDED -
   Consideration of Appointment to the London and Middlesex Heritage Museum
   Board of Directors (Requires 1 Member)
 
@@ -2457,7 +2416,6 @@ Motion Passed
 
 ****
 
-# 42.&nbsp;&nbsp;&nbsp;ADDED -
   Consideration of Appointment to the Council for Adult Education (Requires 1
   Member)
 
@@ -2489,7 +2447,6 @@ Motion Passed
 
 ****
 
-# 43.&nbsp;&nbsp;&nbsp;ADDED -
   Consideration of Appointment to the Lower Thames Valley Conservation
   Authority - 3 Year Term (Requires 1 Member)
 
@@ -2522,7 +2479,6 @@ Motion Passed
 
 ****
 
-# 44.&nbsp;&nbsp;&nbsp;ADDED -
   Consideration of Appointment to the Plumbers' and Drain Layers' Examining
   Board (Requires 3 Members)
 
@@ -2556,7 +2512,6 @@ Motion Passed
 
 ****
 
-# 45.&nbsp;&nbsp;&nbsp;ADDED – Striking Committee
 
 Recommendation:  That the Mayor BE
   REQUESTED to direct letters to the Members of the Striking Committee to

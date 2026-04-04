@@ -15,13 +15,11 @@ October 30, 2017, at  4:02 PM
 > [!abstract]- Also Present:
 > M. Hayward, A.L. Barbon, Card, B. Coxhead, Datars Bere, K. Dawtrey, J.M. Fleming, T. Gaffney, A. Hagan, L. Livingstone, M. Marcellin, S. Mathers, J. Millson, K. Murray, O’Brien, D. Popadic, A. Ripepi, C. Saunders, J. Senese, S. Spring, S. Stafford, T. Thomas, B. Westlake-Power
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that Councillor P. Hubert
   disclosed a pecuniary interest in those matters related to Ontario Works.
 
-# 2.&nbsp;&nbsp;&nbsp;Tabling of the 2018
   Budget (Tax Supported, Water and Waste Water Treatment)
 
 That the following actions be taken with

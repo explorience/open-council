@@ -17,11 +17,9 @@ November 19, 2018, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;2018 Annual Community Survey
 
@@ -112,7 +110,6 @@ That the communication dated November 2, 2018 from Councillor V. Ridley with res
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Appointments to the Striking Committee
 
@@ -219,11 +216,9 @@ That the communication from G. Macartney, CEO and General Manager, London Chambe
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 ## 6.1&nbsp;&nbsp;&nbsp;ADDED Personal Matters/Identifiable Individual
 
@@ -254,7 +249,6 @@ The Strategic Priorities and Policy Committee convened in Closed Session from 5:
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The Meeting adjourned at 5:46 PM.
 

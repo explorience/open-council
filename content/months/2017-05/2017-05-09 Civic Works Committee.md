@@ -15,13 +15,11 @@ May 9, 2017, at  4:01 PM
 > [!abstract]- Also Present:
 > J. Helmer, H.L. Usher; S. Chambers, T. Copeland, A. Dunbar, G. Irwin, S. Koshowski, J. Lucas, D. MacRae, S. Maguire, S. Mathers, R. Pedlow, M. Ribera, L. Rowe, K. Scherr, E. Soldo, J. Stanford
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Single Source for Pump Replacement at the Wonderland Pumping Station
 
 That, on the recommendation of the Managing
@@ -69,7 +67,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Gordon Trunk Sewer Rehabilitation - Project No. ES2473 -  RFP NO. 17-02
 
 That, on the recommendation of the Managing
@@ -123,7 +120,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT - Fox
   Hollow SWM Facility No. 3 (ES3020-FH3) - Contract Amendment to Phase 1
   Grading Tender (T16-47)
 
@@ -173,7 +169,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Changes to the Waste Discharge By-law WM-16 and the Wastewater and Storm
   water By-law WM-28
 
@@ -199,7 +194,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Basement Flooding Grant Program By-law Update
 
 That, on the recommendation of the Managing
@@ -315,7 +309,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Appointment of Consulting Engineer For Contract Administration Services
   Associated with the Construction of 2017 Infrastructure Renewal Projects - 
   Waterloo Street, Trowbridge Avenue
@@ -377,7 +370,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Installation of Water Meters Contract Award
 
 That, on the recommendation of the Managing
@@ -429,7 +421,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Clarke Road Widening Environmental Assessment - VMP North Extension to
   Fanshawe Park Road East - Appointment of Consulting Engineer
 
@@ -476,7 +467,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Single Source Procurements - Street Sweeper and Sidewalk Sweeper
 
 That, on the recommendation of the Managing
@@ -531,7 +521,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Vision Zero - London Road Safety Strategy
 
 That, on the recommendation of the Managing
@@ -563,7 +552,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;STAFF REPORT - Hyde
   Park Road Closing
 
 That, on the recommendation of the Managing
@@ -598,7 +586,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Amendments to the Traffic And Parking By-law
 
 That the attached revised proposed
@@ -628,7 +615,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;5th Report of the Transportation
   Advisory Committee
 
 That the 5th Report of the Transportation
@@ -650,7 +636,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;5th Report of the Cycling
   Advisory Committee
 
 That the following actions be taken with
@@ -687,7 +672,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;COUNCILLOR
   SUBMISSION - V. Ridley - Absence from Meeting
 
 That the communication dated April 24, 2017,
@@ -710,7 +694,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the Civic Works Committee Deferred
@@ -732,7 +715,6 @@ Motion
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;(ADDED) Councillor M. van Holst – Highbury
   Avenue Bridge Drainage
 
 That the Civic Administration BE REQUESTED
@@ -755,7 +737,6 @@ Motion
 
 ****
 
-# 19.&nbsp;&nbsp;&nbsp;(ADDED) Councillor M. van Holst – Proposed
   Strategy – BRT Rollout
 
 That the attached request from
@@ -779,7 +760,6 @@ Motion
 
 ****
 
-# 20.&nbsp;&nbsp;&nbsp;(ADDED) Enquiry – Councillor B. Armstrong –
   Basement Flooding – Third Street/CP Crossing
 
 That it BE NOTED that Councillor B. Armstrong
@@ -787,7 +767,6 @@ That it BE NOTED that Councillor B. Armstrong
   on the east side of Third Street at the CP Crossing and enquired about
   possible solutions to assist the affected homeowners.
 
-# 21.&nbsp;&nbsp;&nbsp;(ADDED) Enquiry – Councillor J. Helmer –
   Relocation of Railroad Lines
 
 That it BE NOTED that Councillor J. Helmer

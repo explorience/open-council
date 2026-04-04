@@ -17,21 +17,17 @@ January 24, 2023, at  1:00 PM
 
 The meeting was called to order at 1:08 PM; it being noted that the following members were in remove attendance: Councillors D. Ferreira, S. Hillier, and P. Van Meerbergen
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Councillor S. Trosow discloses a pecuniary interest in item 8, clause 4.3 of the 6th Report of the Strategic Priorities and Policy Committee, having to do with appointment to the Lower Thames Valley Conservation Authority, by indicating that his spouse is the recommended appointee.
 
-# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
 ## 2.1&nbsp;&nbsp;&nbsp;Mayor's New Year's Honour List
 
 His Worship the Mayor recognizes the contributions made to London by the following citizens who were named to the 2023 Mayor's New Year's Honour List in the categories indicated:  Ashton Forrest (Accessibility); Beverly Farrell (Age Friendly); Karen Schindler (Arts); Edward Medzon (Distinguished Londoner); Jason Rip (Distinguished Londoner); Sydney Vickers (Distinguished Londoner); Joe Cardillo (Distinguished Londoner); Charlene Doak-Gebauer (Distinguished Londoner); Padre Frank Mantz (Distinguished Londoner); Carl Cadogan (Diversity and Race Relations); Tom Cull (The Environment); John Manness (Heritage); Nawaz Tahir (Humanitarianism); and Roop Chanderdat (Sports).
 
-# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
 
 > Motion made by E. Peloza
 
@@ -74,7 +70,6 @@ The Council convenes In Closed Session, from 1:57 PM to 2:05 PM.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
 ## 5.1&nbsp;&nbsp;&nbsp;3rd Meeting held on December 13, 2022
 
@@ -108,7 +103,6 @@ That the Minutes of the 3rd Meeting of the Municipal Council, held on December 1
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 > Motion made by S. Trosow
 
@@ -138,11 +132,9 @@ That the Communication dated January 24, 2023, from Councillors S. Lewis and C. 
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 None.
 
-# 8.&nbsp;&nbsp;&nbsp;Reports
 
 ## 8.1&nbsp;&nbsp;&nbsp;2nd Report of the Corporate Services Committee
 
@@ -1529,7 +1521,6 @@ it being noted that the Municipal Council approves this application for the foll
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 ## 9.1&nbsp;&nbsp;&nbsp;3rd Report of Council in Closed Session
 
@@ -1563,19 +1554,15 @@ That, on the recommendation of the Deputy City Manager, Social and Health Develo
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-# 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 None.
 
-# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 
 None.
 
-# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 > Motion made by A. Hopkins
 
@@ -1661,7 +1648,6 @@ That Third Reading and Enactment of Bill No.’s Bill No.’s 28 to the revised 
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by S. Franke
 
@@ -1675,7 +1661,6 @@ The meeting adjourned at 2:40 PM.
 
 ****
 
-# Appendix: New Bills
 
 > [!abstract]- The following Bills are enacted as By-laws of The Corporation of the City of London:
 > **Bill No. 28**

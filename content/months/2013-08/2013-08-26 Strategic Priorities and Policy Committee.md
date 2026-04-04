@@ -15,12 +15,10 @@ August 26, 2013, at  4:10 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, G. Barrett, P. Christiaans, J.M. Fleming, P. Foto, G.T. Hopcroft, G. Kotsifas, S. Mathers, V. McAlea Major, H. McNeely, M. Ribera, C. Saunders, M. Turner, J. Yanchula, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;City Clerk - 2nd
   and 3rd Reports of the 2013 Council Compensation Review Task Force
 
 Recommendation:  That the 2nd and 3rd
@@ -53,7 +51,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Managing Director,
   Corporate Services and City Treasurer, Chief Financial Officer - Strategic
   Change in Delivery of Development Charge Exemptions and Incentives Policies
 
@@ -163,7 +160,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Managing Director,
   Planning and City Planner - ReThink London Discussion Papers - What We've
   Heard
 

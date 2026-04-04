@@ -17,11 +17,9 @@ June 20, 2022, at 12:00 PM
 
 The meeting is called to order at 12:00 PM: it being noted that Mayor E. Holder was in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by M. Cassidy
 
@@ -109,11 +107,9 @@ d)    the Civic Administration BE AUTHORIZED to take all actions necessary to 
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Application - Issuance of Proclamation - Make Canada Gold
 
@@ -161,7 +157,6 @@ That based on the application dated June 6, 2022 from Institute for Research of 
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) Restricted Acts of Council after Nomination Day and Voting Day
 
@@ -209,7 +204,6 @@ That, the attached revised by-law BE INTRODUCED at the Municipal Council meeting
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by J. Fyfe-Millar
 
@@ -280,7 +274,6 @@ The Corporate Services Committee convenes in Closed Session from 12:34 PM to 1:2
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by M. Cassidy
 

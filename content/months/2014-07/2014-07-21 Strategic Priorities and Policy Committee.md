@@ -15,7 +15,6 @@ July 21, 2014, at 11:05 AM
 > [!abstract]- Also Present:
 > A. Zuidema, K. Dawtrey, V. McAlea Major, M. Ribera, C. Saunders
 
-# 2.&nbsp;&nbsp;&nbsp;Filling of Council
   Appointments
 
 The

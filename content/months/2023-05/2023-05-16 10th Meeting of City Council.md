@@ -20,19 +20,15 @@ May 16, 2023, at  1:00 PM
 
 The meeting is called to order at 1:00 PM; it being noted that Councillor P. Van Meerbergen was in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Councillor S. Trosow discloses a pecuniary interest in item 5 (clause 2.4) of the 8th Report of the Civic Works Committee, having to do with the Broughdale Dyke Disaster Mitigation and Adaptation Funding - Contribution Agreement, by indicating that he owns property in the area of the project.
 
-# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
 His Worship the Mayor recognizes the recipient of the 2023 Tim Hickman Health and Safety Scholarship:  Melissa Norton
 
-# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
 
 > Motion made by A. Hopkins
 
@@ -79,7 +75,6 @@ The Council convenes, In Closed Session at 1:11 PM and reconvenes at 1:18 PM.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
 ## 5.1&nbsp;&nbsp;&nbsp;9th Meeting held on April 25, 2023
 
@@ -112,7 +107,6 @@ That the Minutes of the 9th Meeting held on April 25, 2023, BE APPROVED.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 > Motion made by S. Stevenson
 
@@ -145,11 +139,9 @@ That the following communications BE RECEIVED and BE REFERRED as noted on the Ad
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 None.
 
-# 8.&nbsp;&nbsp;&nbsp;Reports
 
 ## 8.1&nbsp;&nbsp;&nbsp;9th Report of the Corporate Services Committee
 
@@ -1136,23 +1128,18 @@ it being further noted that the Municipal Council approves this application for 
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 ## 9.1&nbsp;&nbsp;&nbsp;8th Report of Council in Closed Session
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-# 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 None.
 
-# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 
 None.
 
-# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 > Motion made by S. Trosow
 
@@ -1313,7 +1300,6 @@ That Third Reading and Enactment of Bill No. 147 BE APPROVED.
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by S. Stevenson
 
@@ -1327,7 +1313,6 @@ The meeting adjourned at 2:16 PM.
 
 ****
 
-# Appendix: New Bills
 
 > [!abstract]- The following Bills are enacted as By-laws of The Corporation of the City of London:
 > **Bill No. 144**

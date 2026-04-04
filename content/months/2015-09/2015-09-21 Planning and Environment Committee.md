@@ -12,10 +12,8 @@ September 21, 2015, at  4:00 PM
 > [!abstract]- Also Present:
 > J. Morgan, M. Salih, M. van Holst, G. Barrett, M. Corby, M. Elmadhoon, J.M. Fleming, S. Galloway, K. Gonyou, T. Grawey, P. Kokorros, G. Kotsifas, T. Koza, E. Lalande, J. MacKay, A. MacLean, L. Mottram, L. Pompilii, J. Ramsay, C. Saunders, S. Spring, M. Tomazincic, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;6th Report of the
   Advisory Committee on the Environment
 
 That the 6th Report of the Advisory
@@ -39,7 +37,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Notice of Appeal to
   the Ontario Municipal Board PL150688/PL150398 - 161 Windermere Road
   (39CD-14501/SP15-009524)
 
@@ -80,7 +77,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Victoria on the
   River Subdivision - Phases 1 & 2 (formerly 1603 Hamilton Road) (H-8471)
 
 That, on the recommendation of the Senior
@@ -115,7 +111,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;11th Report of the
   London Advisory Committee on Heritage
 
 That the following actions be taken with
@@ -283,7 +278,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Property located at
   648 Huron Street (Z-8495)
 
 That, on the recommendation of the Managing
@@ -363,7 +357,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Property located at
   1255 Kilally Road (OZ-8500)
 
 That, on the recommendation of the Managing
@@ -482,7 +475,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Property located at
   4342 McDougall Close - Request for Demolition
 
 That, on the recommendation of the Managing
@@ -563,7 +555,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the Deferred Matters List BE REVISED

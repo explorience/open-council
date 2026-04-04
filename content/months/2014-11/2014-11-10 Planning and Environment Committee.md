@@ -15,10 +15,8 @@ November 10, 2014, at  4:05 PM
 > [!abstract]- Also Present:
 > J.M. Fleming, T. Grawey, N. Hall, G. Kotsifas, D. Menard, M. Ribera, C. Saunders, S. Spring, M. Tomazincic, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Property located at
   420 Fanshawe Park Road East - Request for Demolition
 
 Recommendation:  That, on the recommendation

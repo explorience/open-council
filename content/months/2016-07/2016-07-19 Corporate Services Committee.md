@@ -15,13 +15,11 @@ July 19, 2016, at 12:00 PM
 > [!abstract]- Also Present:
 > J. Helmer, A. Hopkins, M. van Holst; A. Zuidema, P. Athanasiou, B. Baar, J.P. Barber, A.L. Barbon, J. Braam, S. Corman, M. Daley, L. DaSilva, J. DeVito, A. Dunbar, C. Dyck, J. Edmunds, L. Green, A. Hagan, V. McAlea Major, S. Miller, A. Ostrowski, C. Parsons, C. Saunders, S. Spring, T. Thompson, T. Wellhauser
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Promissory Note Between The City of London and London Convention Centre.
 
 That, on the recommendation of the Managing
@@ -54,7 +52,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Council Remuneration Reporting Process
 
 That the following actions be taken with
@@ -92,7 +89,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT - Standardization
   of Office Furniture and Moveable Wall Systems
 
 That, on the recommendation of the Managing
@@ -146,7 +142,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;STAFF REPORT - RFP
   16-03 Security Information and Event Management System Replacement
 
 That, on the recommendation of the
@@ -191,7 +186,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Offer to Purchase Industrial Lands - Bruder Realty Ltd. - Lot 7- River Road
   Industrial Park
 
@@ -229,7 +223,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;STAFF REPORT - Amendments
   to Municipal Elections Act
 
 That the following actions be taken in
@@ -289,7 +282,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Apportionment of Taxes
 
 That, on the recommendation of the Managing
@@ -354,7 +346,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;PUBLIC SUBMISSION -
   2015 Reserve/Reserve Fund Balances
 
 That the communication dated June 17, 2016,
@@ -377,7 +368,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Advisory Committee
   on the Environment
 
 That the following BE APPOINTED to the
@@ -429,7 +419,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Corporate Services
   Committee Deferred Matters List
 
 That the Deferred Matters List BE RECEIVED,

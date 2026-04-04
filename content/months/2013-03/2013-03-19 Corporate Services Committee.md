@@ -12,12 +12,10 @@ March 19, 2013, at  1:06 PM
 > [!abstract]- Also Present:
 > D.G. Henderson, A. Zuidema, F. Angeletti, B. Baar, J.P. Barber, G. Belch, J. Braam, B. Coxhead, A. Hagan, G.T. Hopcroft, J. Lajoie, J. Logan, V. McAlea Major, D. Mounteer, J. Page, C. Resendes, C. Saunders, M. Turner, B. Warner
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that Councillor
   J.P. Bryant disclosed a pecuniary interest in clause 7 of this Report having
   to do with corporate training initiatives by indicating that her spouse is on
   the faculty of the Ivey School of Business.
 
-# 2.&nbsp;&nbsp;&nbsp;Year 2013 Tax
   Policy
 
 Recommendation:  That, on the
@@ -79,7 +77,6 @@ h)         an
   Council Members about tax policy, in order to assist in future decisions
   pertaining to tax policy.
 
-# 3.&nbsp;&nbsp;&nbsp;Year 2013 Education
   Tax Rates
 
 Recommendation:  That, on the
@@ -88,7 +85,6 @@ Recommendation:  That, on the
   levy education tax rates for 2013 (Appendix A) BE INTRODUCED at the
   Council meeting of March 26, 2013.
 
-# 4.&nbsp;&nbsp;&nbsp;Procurement of
   Goods and Services Policy Revision
 
 Recommendation:  That, on the
@@ -105,7 +101,6 @@ b)         add a definition for EMERGENCY;
 c)         add an exemption in Schedule B
   item 11.
 
-# 5.&nbsp;&nbsp;&nbsp;Statement of
   Remuneration and Expenses - Elected and Appointed Officials
 
 Recommendation:  That, on the
@@ -137,7 +132,6 @@ d)         in
   Travel Expenses for Senior Administration Staff for 2012 BE RECEIVED
   for information.
 
-# 6.&nbsp;&nbsp;&nbsp;Public Sector
   Salary Disclosure Act - Report for Calendar Year 2012
 
 Recommendation:  That, on the
@@ -146,7 +140,6 @@ Recommendation:  That, on the
   2012 salaries, as required by the Public Sector Salary Disclosure Act,
   BE RECEIVED for information.
 
-# 7.&nbsp;&nbsp;&nbsp;Corporate Human
   Rights Program, Code of Conduct Program and Corporate Training Initiatives as
   of December 31, 2012
 
@@ -157,7 +150,6 @@ Recommendation:  That, on the
   Training Initiatives as at December 31, 2012 BE RECEIVED for
   information.
 
-# 8.&nbsp;&nbsp;&nbsp;Employee
   Absenteeism Update
 
 Recommendation:  That, on the
@@ -165,7 +157,6 @@ Recommendation:  That, on the
   Resources Officer, the report dated March 19, 2013 regarding employee
   absenteeism BE RECEIVED for information.
 
-# 9.&nbsp;&nbsp;&nbsp;Accessibility for
   Ontarians with Disabilities Act Update
 
 Recommendation:  That, on the
@@ -181,7 +172,6 @@ b)         the
   attached City of London Multi-Year Accessibility Plan 2013-2017
   required under the AODA Integrated Accessibility Standards BE APPROVED.
 
-# 10.&nbsp;&nbsp;&nbsp;Visiting Delegation
   from London's Sister City, Nanjing China - March 2013
 
 Recommendation: That, on the recommendation
@@ -189,7 +179,6 @@ Recommendation: That, on the recommendation
   March 19, 2013 on the visiting delegation from London’s Sister City, Nanjing,
   China, March 2013, BE RECEIVED.
 
-# 11.&nbsp;&nbsp;&nbsp;Canada Caribbean
   Local Economic Development Program
 
 Recommendation:  That, on the
@@ -197,7 +186,6 @@ Recommendation:  That, on the
   the report dated March 19, 2013 on the Canada Caribbean Local Economic
   Development Program BE RECEIVED.
 
-# 12.&nbsp;&nbsp;&nbsp;Canada Ukraine
   Local Economic Development Program
 
 Recommendation:  That, on the
@@ -205,7 +193,6 @@ Recommendation:  That, on the
   the report dated March 19, 2013 on the Canada Ukraine Local Economic
   Development Program BE RECEIVED.
 
-# 13.&nbsp;&nbsp;&nbsp;Expropriation of
   Lands - Hyde Park Road Widening - Phase 1 - TS1477-1
 
 Recommendation:  That, on the
@@ -238,7 +225,6 @@ d)         a
   direct the Civic Administration to carry out all necessary administrative
   actions.
 
-# 14.&nbsp;&nbsp;&nbsp;Declare Surplus and
   Transfer City Owned Lands - 83 Elliott Street
 
 Recommendation:  That, on the
@@ -263,7 +249,6 @@ c)         the
   and disposition, and to authorize the Mayor and the City Clerk to execute the
   Agreements of Purchase and Sale.
 
-# 15.&nbsp;&nbsp;&nbsp;Response to
   Emergency Medical Services and Middlesex-London Board of Health
 
 Recommendation: That the communication
@@ -271,7 +256,6 @@ Recommendation: That the communication
   Long-Term Care regarding the response to Emergency Medical Services and
   Middlesex-London Board of Health BE RECEIVED.
 
-# 16.&nbsp;&nbsp;&nbsp;Apportionment of
   Taxes
 
 Recommendation:  That, on the
@@ -282,14 +266,12 @@ Recommendation:  That, on the
   public hearing associated with this matter, to speak before the Corporate
   Services Committee.
 
-# 17.&nbsp;&nbsp;&nbsp;Request for
   Designation of the Forest City Beer Fest as a Municipally Significant Event
 
 Recommendation: 
   That the Forest City Beer Fest to be held Saturday, August 3, 2013, at Museum
   London, BE DESIGNATED as a municipally-significant event.
 
-# 18.&nbsp;&nbsp;&nbsp;Resignation from
   the Advisory Committee on the Environment and on the Environmental and
   Ecological Planning Advisory Committee
 
@@ -299,7 +281,6 @@ Recommendation: That
   Environmental and Ecological Planning Advisory Committee, BE ACCEPTED and
   Mr. Yousseff BE THANKED for participating on the Committees.
 
-# 19.&nbsp;&nbsp;&nbsp;Appointment to the
   Accessibility Advisory Committee
 
 Recommendation: That the following BE
@@ -314,7 +295,6 @@ Cindy
 Antoinette Dona (Parent of a Child
        with a Disability)
 
-# 20.&nbsp;&nbsp;&nbsp;Appointment to the
   Advisory Committee on the Environment
 
 Recommendation: That the following
@@ -327,7 +307,6 @@ Voting:
 Trevor
        Kolybaba (Member-at-Large)
 
-# 21.&nbsp;&nbsp;&nbsp;Appointment to the
   Environmental and Ecological Planning Advisory Committee
 
 Recommendation: That the following BE
@@ -348,7 +327,6 @@ Chris
 Brennan
        Vogel (Member-at-Large)
 
-# 22.&nbsp;&nbsp;&nbsp;Appointment to the
   Trees and Forests Advisory Committee
 
 Recommendation: That the following BE
@@ -362,7 +340,6 @@ Michael
        Janzen (Member-at-Large)
 Paul Williamson (Member-at-Large)
 
-# 23.&nbsp;&nbsp;&nbsp;Appointment to the
   Transportation Advisory Committee
 
 Recommendation: That the following BE
@@ -377,7 +354,6 @@ Henk
 Michael
        Clark (Old East Village BIA)
 
-# 24.&nbsp;&nbsp;&nbsp;Appointment to the
   Community Safety and Crime Prevention Advisory Committee
 
 Recommendation:  That the following
@@ -390,7 +366,6 @@ Voting:
 Bill Hall (London District Catholic
        School Board Representative)
 
-# 25.&nbsp;&nbsp;&nbsp;Request for Support
   re Bell Media and Astral Media Inc.
 
 Recommendation:  That the Director of
@@ -401,7 +376,6 @@ Recommendation:  That the Director of
   talent, production, content and artists in order to preserve the unique
   interests of local communities.
 
-# 26.&nbsp;&nbsp;&nbsp;Special
   Meeting – March 26, 2013
 
 Recommendation:  That the Committee

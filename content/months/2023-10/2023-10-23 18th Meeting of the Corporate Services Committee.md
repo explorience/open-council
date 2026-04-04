@@ -20,11 +20,9 @@ October 23, 2023, at 12:00 PM
 
 The meeting is called to order at 12:00 PM.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Stevenson
 
@@ -140,11 +138,9 @@ That the staff report dated October 23, 2023 regarding the declaration of surplu
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Delegation - Emily Williams, CEO and David Jansseune, Assistant Director, Finance, Middlesex-London Health Unit - Request for Redirection of 2022 Surplus Funds
 
@@ -214,11 +210,9 @@ That based on the application dated October 12, 2023 from Hindu Legacy, the mont
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by S. Stevenson
 
@@ -251,7 +245,6 @@ The Corporate Services Committee convenes In Closed Session from 12:30 PM to 12:
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by D. Ferreira
 

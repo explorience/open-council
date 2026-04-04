@@ -12,7 +12,6 @@ March 21, 2016, at  4:04 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, L. Bruni, A. Dunbar, J.M. Fleming, P. Foto, K. Graham, M. Hayward, G. Kotsifas, C. Parker, C. Saunders, S. Spring, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that Councillor J. Morgan
@@ -20,7 +19,6 @@ That it BE NOTED that Councillor J. Morgan
   relates to Council Policy 8(14) – Grants to U.W.O. and Fanshawe College, by
   indicating that he is employed by the University of Western Ontario.
 
-# 2.&nbsp;&nbsp;&nbsp;Music,
   Entertainment and Culture Districts Background Study Status Report
 
 That the staff BE DIRECTED to continue on
@@ -53,7 +51,6 @@ Motion Passed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Repeal Financial
   Services Policies
 
 That, on the recommendation of the Managing
@@ -100,7 +97,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Creating a Vibrant
   and Competitive Downtown
 
 That it BE NOTED that the Strategic
@@ -211,7 +207,6 @@ Motion Failed
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;10th Report of the
   Governance Working Group
 
 That the following actions be taken with

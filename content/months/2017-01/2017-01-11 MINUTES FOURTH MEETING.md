@@ -18,15 +18,11 @@ January 11, 2017, at  8:30 PM
 The Council meets in Special Session in the
   Council Chambers this day at 8:30 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
-# II.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# III.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# IV.&nbsp;&nbsp;&nbsp;COUNCIL, IN
   CLOSED SESSION
 
 > Moved by Councillor S. Turner
@@ -70,18 +66,13 @@ The Council, In Closed Session, rises at
   9:10 PM and Council reconvenes in public session at 9:17 PM, with Mayor M.
   Brown in the Chair and all Members present except Councillor Zaifman.
 
-# V.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES
 
-# VI.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
-# VII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# VIII.&nbsp;&nbsp;&nbsp;REPORTS
 
-# IX.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
 > Moved by Councillor P. Hubert
@@ -90,21 +81,16 @@ Approve clause 1.
 
 ****
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -193,7 +179,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

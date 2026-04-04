@@ -18,15 +18,11 @@ May 16, 2017, at  4:01 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:01 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
-# II.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# III.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
 > Moved by Councillor M. Salih
 
@@ -100,7 +96,6 @@ Motion Passed
 
 ****
 
-# IV.&nbsp;&nbsp;&nbsp;COUNCIL, IN CLOSED SESSION
   (CONTINUED)
 
 > Moved by Councillor J. Helmer
@@ -149,7 +144,6 @@ Motion Passed
 
 ****
 
-# V.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE FIFTEENTH MEEING HELD ON MAY 2, 2017.
 
 > Moved by Councillor H.L. Usher
@@ -183,7 +177,6 @@ Motion Passed
 
 ****
 
-# VI.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
 > Moved by Councillor H.L. Usher
@@ -195,11 +188,8 @@ Approve receipt and referral of the
 
 ****
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
-# 2.&nbsp;&nbsp;&nbsp;1st Report of the Governance Working Group
 
-# 3.&nbsp;&nbsp;&nbsp;Council Policy Manual Review of Chapters 1,
   2, 3, 4, 6 and 8
 
 > Moved by Councillor V. Ridley
@@ -281,7 +271,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Update on Municipal Implications of the
   Truth and Reconciliation Commission Report
 
 At 8:45 PM His Worship the Mayor places
@@ -490,7 +479,6 @@ Motion Passed
 
 ****
 
-# IX.&nbsp;&nbsp;&nbsp;ADDED REPORTS (continued)
 
 > Moved by Councillor P. Hubert
 
@@ -522,7 +510,6 @@ Motion Passed
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;5th Report of
   London Advisory Committee on Heritage
 
 That the following actions be taken with
@@ -599,10 +586,8 @@ it being noted that the Planning and
   Environment Committee did not hear a delegation from D. Dudek, Chair,
   London Advisory Committee on Heritage, with respect to these matters.
 
-# VII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# VIII.&nbsp;&nbsp;&nbsp;REPORTS (Continued)
 
 > Moved by Councillor M. van Holst
 
@@ -610,22 +595,16 @@ Approve clauses 1 to 21, excluding clauses 11, 13 and 15.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Growth Management Implementation Strategy
   (GMIS): 2018 Annual Review & Update
 
-# 6.&nbsp;&nbsp;&nbsp;London and Middlesex Housing Corporation
   (LMHC) – State of Infrastructure
 
-# 7.&nbsp;&nbsp;&nbsp;Request for a Shareholder’s Meeting for the
   London & Middlesex Housing Corporation
 
-# 8.&nbsp;&nbsp;&nbsp;Request for a Shareholder’s Meeting for the
   Housing Development Corporation, London
 
-# 9.&nbsp;&nbsp;&nbsp;Request for a Shareholder’s Meeting for
   London Hydro Inc.
 
-# 12.&nbsp;&nbsp;&nbsp;Property located at
   1992 Fanshawe Park Road West (TZ-8734) (Relates to Bill No. 215)
 
 That, on the recommendation of the Managing
@@ -688,7 +667,6 @@ Motion Passed
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Properties located
   at 560 and 562 Wellington Street (OZ-8462)
 
 That the application by GSP Group Inc. for
@@ -782,7 +760,6 @@ Motion Passed
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Request for
   Rescheduling of June 15 Public Participation Meeting
 
 The motion to Approve part a) of clause 16
@@ -866,20 +843,17 @@ Approve clauses 1 and 2.
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the Civic Works Committee Deferred
   Matters List, as of May 2nd, 2017, BE RECEIVED.
 
-# 18.&nbsp;&nbsp;&nbsp;Councillor M. van
   Holst - Highbury Bridge Drainage
 
 That the Civic Administration BE REQUESTED
   to review and report back with respect to current drainage issues and long
   term solutions for the bridge located at the Highbury Avenue extension.
 
-# 19.&nbsp;&nbsp;&nbsp;Councillor M. van
   Holst - Proposed Strategy - BRT Rollout
 
 That the attached request from
@@ -887,7 +861,6 @@ That the attached request from
   strategy for the roll out of the Bus Rapid Transit Strategy BE REFERRED to
   the Rapid Transit Implementation Working Group for consideration.
 
-# 20.&nbsp;&nbsp;&nbsp;Enquiry -
   Councillor B. Armstrong - Basement Flooding - Third Street/CP Crossing
 
 That it BE NOTED that Councillor B.
@@ -895,7 +868,6 @@ That it BE NOTED that Councillor B.
   homes located on the east side of Third Street at the CP Crossing and
   enquired about possible solutions to assist the affected homeowners.
 
-# 21.&nbsp;&nbsp;&nbsp;Enquiry -
   Councillor J. Helmer - Relocation of Railroad Lines
 
 That it BE NOTED that Councillor J. Helmer
@@ -904,10 +876,8 @@ That it BE NOTED that Councillor J. Helmer
   that he would arrange for a copy of a letter from CP Rail with respect to
   this matter to be posted on the FAQ website.
 
-# 11.&nbsp;&nbsp;&nbsp;Potential Additional Strategic Priorities
   and Policy Committee Meeting
 
-# 13.&nbsp;&nbsp;&nbsp;Property located at
   515 Richmond Street (Z-8704) (Relates to Bill No. 216)
 
 That, on the recommendation of the Managing
@@ -1056,7 +1026,6 @@ it being further noted that the Municipal
   and serves to implement, the use, intensity and form policies of the Downtown
   Place Type of the London Plan.    (2017-D09)
 
-# 15.&nbsp;&nbsp;&nbsp;5th Report of the
   Trees and Forests Advisory Committee
 
 That the following actions be taken with
@@ -1082,10 +1051,8 @@ ii)            
 b)       clauses 1 and 3 to 10, BE
   RECEIVED.
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -1273,7 +1240,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

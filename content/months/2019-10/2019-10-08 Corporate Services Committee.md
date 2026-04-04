@@ -17,11 +17,9 @@ October 8, 2019, at 12:30 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by A. Kayabaga
 
@@ -70,11 +68,9 @@ That the communication dated September 24, 2019, from Councillor A. Hopkins, reg
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Council Policy - Mayor New Year's Honour List Policy
 
@@ -99,7 +95,6 @@ That the proposed by-law as appended to the staff report dated October 8, 2019, 
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Issuance of Proclamation Policy
 
@@ -122,7 +117,6 @@ That the Civic Administration BE DIRECTED to review and report back to the Corpo
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by A. Kayabaga
 
@@ -161,7 +155,6 @@ The Corporate Services Committee convenes, In Closed Session, from 12:55 PM to 1
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 1:34 PM.
 

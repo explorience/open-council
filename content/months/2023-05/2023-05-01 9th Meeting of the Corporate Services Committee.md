@@ -20,11 +20,9 @@ May 1, 2023, at 12:00 PM
 
 The meeting is called to order at 12:00 PM; it being noted that Councillors D. Ferreira and S. Stevenson were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;Integrity Commissioner Appointment and Agreement
 
@@ -82,11 +80,9 @@ That, on the recommendation of the Deputy City Manager, Finance Supports, the pr
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 > Moved by H. McAlister
 
@@ -156,11 +152,9 @@ That the application dated April 9, 2023 from Operation Smile Canada for "Longes
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by S. Trosow
 
@@ -198,7 +192,6 @@ The Corporate Services Committee convenes In Closed Session from 12:20 PM to 12:
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by H. McAlister
 

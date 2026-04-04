@@ -18,13 +18,11 @@ September 28, 2021, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
 That it BE NOTED that the Chair and Committee recognized A. Kayabaga.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;Appointment of Councillor E. Peloza to the Brescia University College Housing and Gender-Based Violence Project 2021
 
@@ -57,11 +55,9 @@ That the communication dated August 16, 2021 from Councillor E. Peloza, with res
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Consideration of Appointment to the London Transit Commission (Requires 1 Member)
 
@@ -157,7 +153,6 @@ Appointment of a Member to the London Transit Commission - 4th selection
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) Deferral of Incentive Loan Repayments and Forgiving Interest-Free Loan to London Community Players - Councillor J. Helmer
 
@@ -261,7 +256,6 @@ b)  the Civic Administration BE AUTHORIZED to forgive the remaining balance of 
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by P. Van Meerbergen
 

@@ -18,7 +18,6 @@ January 29, 2013
 The Council meets in Regular Session in the
   Council Chambers this day at 4:00 p.m.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 Councillor P. Hubert discloses a pecuniary
@@ -48,18 +47,13 @@ Councillor N. Branscombe discloses a
   Park, by indicating that her spouse owns and operates a business in close
   proximity to the Skyway Industrial Park.
 
-# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
-# IV.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
-# V.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that Councillor J.B. Swan
@@ -67,7 +61,6 @@ That it BE NOTED that Councillor J.B. Swan
   and the use of Centennial Hall as Orchestra London is his employer and
   receives funding from the City of London.
 
-# 2.&nbsp;&nbsp;&nbsp;2013 Budget -
   Public Participation Meeting
 
 That the following presentations BE
@@ -176,7 +169,6 @@ Motion Passed
 
 ****
 
-# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE SECOND MEETING HELD ON JANUARY 15, 2013
 
 > Moved by Councillor P. Hubert
@@ -252,7 +244,6 @@ Motion Passed
 
 ****
 
-# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
 > Moved by Councillor B. Polhill
@@ -264,10 +255,8 @@ Approve referral of the following
 
 ****
 
-# VIII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# IX.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor D. Brown
 
@@ -275,7 +264,6 @@ Approve clauses 1 to 13, inclusive.
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;1st Report of the Advisory Committee on the
   Environment
 
 That the 1st Report of the Advisory
@@ -283,7 +271,6 @@ That the 1st Report of the Advisory
   WITHDRAWN as it was included on the Civic Works Committee Agenda at its
   meeting held on Monday, January 21, 2013.
 
-# 4.&nbsp;&nbsp;&nbsp;Properties located at 8 Fairview Court and
   770 Whetter Avenue - Notice of Appeal to the Ontario Municipal Board
   (OZ-8055)
 
@@ -295,7 +282,6 @@ That, on the recommendation of the Managing
   Board BE ADVISED that the Municipal Council has reviewed its decision relating
   to this matter and sees no reason to alter it.
 
-# 5.&nbsp;&nbsp;&nbsp;Property located at 260 Sarnia Road -
   Notice of Appeal to the Ontario Municipal Board (Z-8075)
 
 That, on the recommendation of the Managing
@@ -311,7 +297,6 @@ That, on the recommendation of the Managing
   Director, Planning and City Planner, the report, dated January 22, 2013,
   relating to the status update on the Million Tree Challenge, BE RECEIVED.
 
-# 6.&nbsp;&nbsp;&nbsp;Southwest Area Secondary Plan - Notice of
   Appeal to the Ontario Municipal Board (O-7609)
 
 That, on the recommendation of the Managing
@@ -388,7 +373,6 @@ Motion Passed
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Supply and Installation of Sewer Liners -
   Cured In Place Pipe (CIPP) (Tender 13-03)
 
 That, on the recommendation of the Managing
@@ -416,7 +400,6 @@ d)         the
   formal contract or issuing purchase orders or contract record relating to
   these matters of this approval.
 
-# 8.&nbsp;&nbsp;&nbsp;Property located at
   642 Princess Avenue - Notice of Appeal to the Ontario Municipal Board
   (A.094/12)
 
@@ -497,7 +480,6 @@ Motion Passed
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Property located at 1647 Fanshawe Park Road
   East - Ontario Municipal Board Decision (39T-10503/Z-7785)
 
 That, on the recommendation of the Senior
@@ -508,7 +490,6 @@ That, on the recommendation of the Senior
   Investments, concerning the property located at 1647 Fanshawe Park Road East,
   BE RECEIVED.
 
-# 10.&nbsp;&nbsp;&nbsp;Property located at 124 St. James Street -
   Notice of Appeal to the Ontario Municipal Board (A.106/12)
 
 That, on the recommendation of the Managing
@@ -529,7 +510,6 @@ b)           
   planning representation at the Ontario Municipal Board Hearing to support the
   Committee of Adjustment’s decision.
 
-# 11.&nbsp;&nbsp;&nbsp;Property located at
   19 Woodgate Court - Notice of Appeal to the Ontario Municipal Board
   (A.101/12)
 
@@ -617,7 +597,6 @@ Approve clauses 1 and 2
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Property located at 65 Heather Place -
   Notice of Appeal to the Ontario Municipal Board (A.108/12)
 
 That, on the recommendation of the Managing
@@ -637,7 +616,6 @@ b)         the
   planning representation at the Ontario Municipal Board Hearing to support the
   Committee of Adjustment’s decision.
 
-# 13.&nbsp;&nbsp;&nbsp;Property located at 1451 Wharncliffe Road
   South - Andover Trails Phase 4 (39T-07510)
 
 That, on the recommendation of the Senior
@@ -654,7 +632,6 @@ That, on the recommendation of the Senior
   collector road SUBJECT TO the conditions imposed by the Municipal Council at
   its meeting held on January 10, 2012.
 
-# 14.&nbsp;&nbsp;&nbsp;Property located at 160 Sunningdale Road
   West Ltd. - Tricar Subdivision (Phase 1) (39T-11504)
 
 That, on the recommendation of the Senior
@@ -682,13 +659,11 @@ c)         the
   and Revenues” provided as Schedule “B” to the associated staff report, dated
   January 22, 2013.
 
-# 15.&nbsp;&nbsp;&nbsp;Building Division Monthly Report for
   November 2012
 
 That the Building Division Monthly Report
   for the month of November, 2012 BE RECEIVED.
 
-# 16.&nbsp;&nbsp;&nbsp;2nd Report of the London Advisory Committee
   on Heritage
 
 That, the following actions be taken with
@@ -738,7 +713,6 @@ it being noted that the Planning and
   Environment Committee heard a verbal presentation from G. Goodlet, Chair,
   LACH, with respect to these matters.
 
-# 17.&nbsp;&nbsp;&nbsp;Properties located at 3841 Cheese Factory
   Road and 1605 Max Brose Drive (OZ-8126)
 
 That, on the recommendation of the Managing
@@ -779,7 +753,6 @@ it being pointed out that there were no
   oral submissions made at the public  participation meeting associated with
   this matter. (2013-D14A)
 
-# 18.&nbsp;&nbsp;&nbsp;Properties located at 1400 and 1440 North
   Wenige Drive (39CD-12514)
 
 Motion Passed
@@ -847,7 +820,6 @@ Motion Passed
 
 Motion to Approve clause 19 is put.
 
-# 19.&nbsp;&nbsp;&nbsp;Properties located at Wonderland Road
   North/Fanshawe Park Road West Neighbourhood Commercial Node and 1761
   Wonderland Road North (O-8131)
 
@@ -875,15 +847,11 @@ Motion Passed
 
 ****
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -1280,7 +1248,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

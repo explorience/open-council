@@ -14,11 +14,9 @@ May 1, 2018, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by M. Salih
 
@@ -167,7 +165,6 @@ That the 5th Report of the Diversity, Inclusion and Anti-Oppression Advisory Com
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;A Day in a Chair
 
@@ -293,7 +290,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;2nd Report of Childcare Advisory Committee
 
@@ -382,7 +378,6 @@ That the communication dated April 4, 2018, from C. Mackie, Medical Officer of H
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -428,7 +423,6 @@ That the delegation request from T. Nault, Schulich School of Medicine & Dentist
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 6:39 PM.
 

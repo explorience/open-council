@@ -17,11 +17,9 @@ January 20, 2020, at 12:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by E. Holder
 
@@ -234,15 +232,12 @@ That, on the recommendation of the Deputy City Manager, the staff report dated J
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) Application - Issuance of Proclamation - London Black History Month 2020
 
@@ -271,7 +266,6 @@ b)     February 2020 BE PROCLAIMED as Black History Month in the City of Lond
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by A. Hopkins
 
@@ -306,7 +300,6 @@ The Corporate Services Committee convenes, In Closed Session, from 12:18 PM to 2
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 2:19 PM.
 

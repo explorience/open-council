@@ -20,27 +20,21 @@ November 26, 2025, at  1:00 PM
 
 The meeting is called to order at 1:01 PM; it being noted that Councillor S. Stevenson was in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 > Motion made by D. Ferreira
 
@@ -74,11 +68,9 @@ That the following communication BE RECEIVED and BE REFERRED as noted on the Age
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 None.
 
-# 8.&nbsp;&nbsp;&nbsp;Reports
 
 ## 8.1&nbsp;&nbsp;&nbsp;4th Report of the Budget Committee
 
@@ -596,23 +588,18 @@ it being further noted that the Budget Committee considered an amendment to the 
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 None.
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-# 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 None.
 
-# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 
 None.
 
-# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 > Motion made by S. Hillier
 
@@ -704,7 +691,6 @@ By-law No. A.-8662-322 - A by-law to confirm the proceedings of the Special Coun
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by P. Van Meerbergen
 

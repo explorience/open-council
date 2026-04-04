@@ -12,7 +12,6 @@ June 23, 2014, at  4:01 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, A.L. Barbon, G. Barrett, J. Braam, P. Christiaans, B. Coxhead, S. Datars Bere, J.M. Fleming, S. Galloway, K. Graham, T. Grawey, G.T. Hopcroft, M. Johnson, G. Kotsifas, K. Lakhotia, L. Livingstone, S. Mathers, V. McAlea Major, H. McNeely, D. Mounteer, R. Paynter, M. Ribera, L.M. Rowe, B. Warner, P. Yeoman
 
-# 2.&nbsp;&nbsp;&nbsp;London Police
   Services Board Budget By-law
 
 Motion
@@ -67,7 +66,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Growth Management
   Implementation Strategy (GMIS): 2015 Annual Review and Update
 
 Recommendation:  That, on the
@@ -118,7 +116,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Advanced
   Manufacturing Park
 
 Recommendation:  That the request for the
@@ -160,10 +157,8 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;The London Plan – A New Official Plan for
   the City of London
 
-# 7.&nbsp;&nbsp;&nbsp;Economic
   Development Review
 
 Recommendation:  That, on the

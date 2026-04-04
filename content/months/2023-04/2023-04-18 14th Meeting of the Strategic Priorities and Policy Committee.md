@@ -17,11 +17,9 @@ April 18, 2023, at  4:00 PM
 
 The meeting is called to order at 4:00 PM; it being noted that Councillors P. Van Meerbergen and S. Hillier were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by E. Peloza
 
@@ -117,11 +115,9 @@ it being noted that the Civic Administration will continue to assess the health 
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;2024-2027 Multi-Year Budget
 
@@ -366,7 +362,6 @@ Consideration of appointment to the London Police Services Board
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) Request to Update London Hydro Inc. Board of Director Recruitment, Interview and Nomination Process
 
@@ -615,7 +610,6 @@ b)  clauses 1.1, 2.1, 2.2, 3.1, 3.2, 4.1 and 4.2 of the 4th Report of the Diver
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by A. Hopkins
 

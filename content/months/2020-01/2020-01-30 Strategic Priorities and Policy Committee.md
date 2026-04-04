@@ -17,7 +17,6 @@ January 30, 2020, at  9:30 AM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Councillor S. Turner discloses a pecuniary interest in matters associated with the funding for the Middlesex London Health Unit (MLHU), by indicating that the  MLHU is his employer.  Councillor S. Turner further discloses a pecuniary interest in matters associated with children's services, specifically with funding for Childreach, by indicating that his spouse is employed by Childreach.
 
@@ -25,7 +24,6 @@ Councillor P. Van Meerbergen discloses a pecuniary interest in matters associate
 
 Councillor J. Helmer discloses a pecuniary interest in the golf operating budget, by indicating that his father is an employee of the National Golf Course Owners Association, and the City is a member of the Association.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;2020-2023 Multi-Year Budget Public Engagement Feedback Update 
 
@@ -59,7 +57,6 @@ That, on the recommendation of the Managing Director, Corporate Services and Cit
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Introductory Presentation
 
@@ -117,7 +114,6 @@ That an extended recess from 10:45 AM to 1:00 PM, BE APPROVED for the January 30
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Culture
 
@@ -817,7 +813,6 @@ vii. Business Case 32 - Museum London - Exhibitions and Programs Reductions - 20
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 > Moved by M. van Holst
 
@@ -848,7 +843,6 @@ The Strategic Priorities and Policy Committee convened, In Closed Session, from 
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The Strategic Priorities and Policy Committee recessed at 4:28 PM; it being noted that the meeting will resume at 9:30 AM, Friday, January 31, 2020.
 

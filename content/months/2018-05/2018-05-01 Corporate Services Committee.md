@@ -20,11 +20,9 @@ May 1, 2018, at 12:30 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 None.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by M. van Holst
 
@@ -140,11 +138,9 @@ v)           the Source of Financing appended to the staff report date
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 > Moved by M. van Holst
 
@@ -184,7 +180,6 @@ That Andrew Powell BE APPOINTED to the Advisory Committee on the Environment as 
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;ADDED - Request for Designation of the 1st Annual Poutine Festival
 
@@ -208,7 +203,6 @@ That the 1st Annual Poutine Festival, to be held on May 24 to 26, 2018 from 11:0
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 ## 6.1&nbsp;&nbsp;&nbsp;Land Acquisition/Solicitor-Client Privileged Advice
 
@@ -224,7 +218,6 @@ The Corporate Services Committee convened in closed session from 12:49 PM to 1:2
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 1:24 PM.
 

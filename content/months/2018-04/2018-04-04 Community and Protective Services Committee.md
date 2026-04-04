@@ -17,11 +17,9 @@ April 4, 2018, at 12:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by P. Squire
 
@@ -149,7 +147,6 @@ d)            clauses 1, 2, 6, 7 and 8 BE RECEIVED.
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Community Gardens and the Mayor’s New Year’s Honour List Award for Accessibility
 
@@ -179,7 +176,6 @@ d)         the Civic Administration BE REQUESTED to report back at a fut
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 > Moved by M. Salih
 
@@ -315,7 +311,6 @@ f)             clauses 1.1, 2.1, 2.2, 4.1, 5.1, 5.3, 6.2, 7.3 and 7.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -339,11 +334,9 @@ That the Deferred Matters List for the Community and Protective Services Committ
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 None.
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 1:02 PM.
 

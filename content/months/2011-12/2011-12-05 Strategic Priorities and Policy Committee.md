@@ -15,7 +15,6 @@ December 5, 2011, at  4:08 PM
 > [!abstract]- Also Present:
 > J. A. Fielding, R. L. Fair, M. Hayward, P. McNally, J. P. Barber, J. Braam, R. Brown, J. Clark, I. Collins, A. Dunbar, J. M. Fleming, E. Gamble, K. Graham, G. T. Hopcroft, T. A. Johnson, V. McAlea Major, L. Palarchio, C. Saunders, R. Sharpe, J. Verhaege
 
-# 1.&nbsp;&nbsp;&nbsp;2012-2016 Operating
   Budget Targets
 
 Recommendation:
@@ -73,9 +72,7 @@ Recorded
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;DINNER BREAK
 
-# 3.&nbsp;&nbsp;&nbsp;Tabling of the 2012
   Draft Budget
 
 Recommendation:  That the 2012 Draft Budget
@@ -84,7 +81,6 @@ Recommendation:  That the 2012 Draft Budget
   presentation from the City Treasurer, Chief Financial Officer and the Director,
   Financial Planning and Policy, with respect to this matter.
 
-# 4.&nbsp;&nbsp;&nbsp;City of London
   Strategic Plan
 
 Recommendation:  That the verbal delegation

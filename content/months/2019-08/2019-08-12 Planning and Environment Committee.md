@@ -20,13 +20,11 @@ August 12, 2019, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by M. Cassidy
 
@@ -177,7 +175,6 @@ That the Building Division Monthly Report for the month of June, 2019 BE RECEIVE
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Lot 66, 1738 Hamilton Road 
 
@@ -479,11 +476,9 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Minor Variances Submitted Under Section 45(1.4) of the Planning Act
 
@@ -504,7 +499,6 @@ That the Civic Administration BE DIRECTED to report back with potential process 
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 5:37 PM
 

@@ -20,7 +20,6 @@ December 2, 2019, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Call to Order
 
 ## 1.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
@@ -49,7 +48,6 @@ That Councillor S. Turner BE ELECTED Vice Chair of the Planning and Environment 
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by E. Holder
 
@@ -273,7 +271,6 @@ That, on the recommendation of the Director, Development Services, the proposed 
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;448 Oxford Street East (Z-9104)
 
@@ -771,13 +768,11 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List 
 
@@ -802,7 +797,6 @@ That the Managing Director, Development and Compliance Services & Chief Building
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential 
 
 ## 6.1&nbsp;&nbsp;&nbsp;Solicitor-Client Privilege/Litigation or Potential Litigation 
 
@@ -827,7 +821,6 @@ The Planning and Environment Committee convenes, In Closed Session, from 7:07 PM
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 8:00 PM.
 

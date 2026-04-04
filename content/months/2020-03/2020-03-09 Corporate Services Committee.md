@@ -20,11 +20,9 @@ March 9, 2020, at 12:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by A. Hopkins
 
@@ -156,11 +154,9 @@ That the delegation request from M. Wallace, London Development Institute BE APP
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Application - Issuance of Proclamation - Guru Nanak Mission Society, London ON
 
@@ -302,11 +298,9 @@ e)      the By-law as appended to the staff report dated March 9, 2020, BE IN
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 12:59 PM.
 

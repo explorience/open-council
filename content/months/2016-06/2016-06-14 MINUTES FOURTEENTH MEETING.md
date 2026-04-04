@@ -18,15 +18,11 @@ June 14, 2016, at  4:02 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:02 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
-# II.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# III.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# IV.&nbsp;&nbsp;&nbsp;COUNCIL, IN
   CLOSED SESSION
 
 MOTION FOR IN CAMERA SESSION
@@ -61,7 +57,6 @@ Motion Passed
 
 ****
 
-# V.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE TWELFTH MEETING HELD ON MAY 31, 2016
 
 > Moved by Councillor J. Helmer
@@ -94,13 +89,10 @@ Motion Passed
 
 ****
 
-# VI.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
-# VII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# VIII.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor J. Morgan
 
@@ -108,9 +100,7 @@ Approve clauses 1 to 14, inclusive.
 
 ****
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
-# 2.&nbsp;&nbsp;&nbsp;Request for Proposal for Internal Audit
   Service
 
 Motion Passed
@@ -135,7 +125,6 @@ Motion Passed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;London Hydro Inc.
   Board of Director Appointment
 
 That the following individuals BE INVITED
@@ -152,7 +141,6 @@ it being noted that the applicants were
   Policy Committee received the a communication dated June 1, 2016 from M.
   Mathur, Chair, London Hydro Inc. Board of Directors.
 
-# 4.&nbsp;&nbsp;&nbsp;Request for a
   Shareholder's Meeting for the Housing Development Corporation, London (HDC)
 
 That the following actions be taken with
@@ -177,14 +165,12 @@ it being noted that the Strategic
   from A. Zuidema, Chair, Housing Development Corporation, London Board, with
   respect to this matter.
 
-# 5.&nbsp;&nbsp;&nbsp;3rd Report of the
   Outstanding London Ambassador Award Committee
 
 That the 3rd Report of the Outstanding
   London Ambassador Award Committee from its meeting held on June 6, 2016, BE
   RECEIVED.
 
-# 6.&nbsp;&nbsp;&nbsp;11th Report of the
   Governance Working Group
 
 That the following actions be taken with
@@ -212,7 +198,6 @@ c)       the
 d)         clauses 1 to 4, 6 and 9 BE
   RECEIVED.
 
-# 7.&nbsp;&nbsp;&nbsp;Wickerson Pumping
   Station Upgrades Additional Funding EW3653
 
 That, on the recommendation of the Managing
@@ -239,7 +224,6 @@ it being noted that this is a growth
   related project and is 86% funded from Development Charges and adequate funds
   are available in the project budget. (2016-A05)
 
-# 8.&nbsp;&nbsp;&nbsp;Amendments to the
   Traffic and Parking By-law to Support Mobile App Payments (Relates to Bill
   No. 228)
 
@@ -250,7 +234,6 @@ That, on the recommendation of the Managing
   June 14, 2016 for the purpose of amending the Traffic and Parking By-law
   (P.S. 111) with respect to mobile parking app payments.(2016-T02)
 
-# 9.&nbsp;&nbsp;&nbsp;Single Source Award
   - SCADA System Reporting Software
 
 That, on the recommendation of the Managing
@@ -274,7 +257,6 @@ c)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations.  (2016-F18)
 
-# 10.&nbsp;&nbsp;&nbsp;2015 Community
   Energy and Greenhouse Gas Inventory
 
 That, on the recommendation of the
@@ -282,7 +264,6 @@ That, on the recommendation of the
   Greenhouse Gas Inventory report and the staff report dated June 8, 2016 with
   respect to this matter BE RECEIVED for information.  (2016-E17)
 
-# 11.&nbsp;&nbsp;&nbsp;Community Energy
   Action Plan - Update and Status
 
 That, on the recommendation of the Director
@@ -290,7 +271,6 @@ That, on the recommendation of the Director
   with respect to an update on the status of the Community Energy Action Plan
   activities, BE RECEIVED for information.  (2016-E17)
 
-# 12.&nbsp;&nbsp;&nbsp;Review and Action
   at Selected Garbage Can, Needle Bins and Signage Areas - Downtown London
 
 That, on the recommendation of the
@@ -299,7 +279,6 @@ That, on the recommendation of the
   bins and signage areas in Downtown London, BE RECEIVED for information. 
   (2016-E07)
 
-# 13.&nbsp;&nbsp;&nbsp;Overnight Parking
   2016 and Beyond
 
 That, on the recommendation of the Managing
@@ -325,7 +304,6 @@ c)         the
   service areas as well as exploring overnight paid permit parking for 2017 and
   beyond.  (2016-T02)
 
-# 14.&nbsp;&nbsp;&nbsp;Computerized
   Maintenance Management System Acquisition – Esri Canada Limited Cityworks
 
 That, on the recommendation of the Managing
@@ -357,7 +335,6 @@ d)         the
   formal contract, service agreement(s) or having a purchase order or contract
   record relating to the subject matter of this approval.  (2016-A03)
 
-# 16.&nbsp;&nbsp;&nbsp;Flooding Matters
   Work Plan - Phase 1 (Investigation)
 
 That, on the recommendation of the Managing
@@ -382,7 +359,6 @@ it being noted that the Civic Works
   Engineering, S. Mathers, Manager, Stormwater Management and J. Lucas,
   Director, Water and Wastewater.  (2016-D03)
 
-# 17.&nbsp;&nbsp;&nbsp;London ON Bikes -
   Draft Cycling Master Plan
 
 That, on the recommendation of the Managing
@@ -405,7 +381,6 @@ it being noted that the Civic Works
   Committee received the attached presentation from D. MacRae,
   Division Manager, Transportation Planning and Design.  (2016-T05)
 
-# 18.&nbsp;&nbsp;&nbsp;6th Report of the
   Cycling Advisory Committee
 
 That the following actions be taken with
@@ -438,20 +413,17 @@ it being noted that the CAC previously
 b)         clauses 1 to 10, excluding
   clause 2, BE RECEIVED.
 
-# 19.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the Civic Works Committee Deferred
   Matters List, as at May 24, 2016, BE RECEIVED.
 
-# 20.&nbsp;&nbsp;&nbsp;Request for
   Colouring Pedestrian Crosswalks
 
 That the communication dated June 2, 2016,
   from B. Miller, with respect to the colouring of crosswalks, BE NOTED AND
   FILED.
 
-# 15.&nbsp;&nbsp;&nbsp;Proposed Changes to
   the Garbage Container Limit
 
 That on the recommendation of the Managing
@@ -563,7 +535,6 @@ Motion Passed
 
 ****
 
-# IX.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
 > Moved by Councillor T. Park
@@ -572,10 +543,8 @@ Approve clauses 1 to 6, inclusive.
 
 ****
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
 > Moved by Councillor M. Salih
 
@@ -644,7 +613,6 @@ Motion Passed
 
 ****
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
 > Moved by Councillor M. Cassidy
@@ -714,7 +682,6 @@ Motion Passed
 
 ****
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -906,7 +873,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

@@ -15,13 +15,11 @@ April 28, 2014, at  4:06 PM
 > [!abstract]- Also Present:
 > B. Polhill; G. Belch, J. Braam, A. Dunbar, B. Krichker, J. Lucas, D. MacRae, S. Maguire, M. Ribera, L. Rowe, E. Soldo, J. Stanford
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Changes to the
   Flood Deductible at Wastewater Facilities
 
 Recommendation:  That, on the
@@ -46,7 +44,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Gore Road Bridge
   Replacement (Tender No. 14-28)
 
 Recommendation:  That, notwithstanding the recommendation
@@ -107,7 +104,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Supply of Turbo
   Blower Systems for Vauxhall, Adelaide and Oxford Wastewater Treatment Plants
 
 Recommendation:  That, on the recommendation
@@ -149,7 +145,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Rail Safety Week
 
 Recommendation:  That, on the
   recommendation of the Director, Roads and Transportation, the staff report
@@ -172,7 +167,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Richmond Street
   North Pedestrian Crossing Environmental Assessment Study Appointment of
   Consulting Engineer
 
@@ -202,7 +196,6 @@ e)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations.  (2014-A05)
 
-# 7.&nbsp;&nbsp;&nbsp;Appointment of
   Consulting Engineer for Engineering Services for the Functional and Detailed
   Design of the Hyde Park No. 5 SWMF (ESSWM-HP5)
 
@@ -250,7 +243,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Transportation
   Energy Optimization Plan (TEOP)
 
 Recommendation:  That, on the
@@ -312,7 +304,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Amendments to the
   Traffic and Parking By-law
 
 Recommendation:  That, on the
@@ -342,7 +333,6 @@ Motion
 Motion
   to close public participation meeting.
 
-# 10.&nbsp;&nbsp;&nbsp;Amendments to the
   Streets By-law and the Various Fees and Charges By-law
 
 Recommendation:  That, on the
@@ -408,7 +398,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;4th Report of the
   Transportation Advisory Committee
 
 Motion
@@ -452,7 +441,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Council Resolution
   for Green Energy London Co-operative Inc. (GEL) goal to conduct a
   Neighbourhood Energy Reduction Action Plan Field Test in the City of London
 
@@ -480,7 +468,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Pedestrian Rail
   Safety
 
 Recommendation:  That the communication
@@ -505,7 +492,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;(Added)  Additional Sidewalks in the
   Sherwood Fox Public School Area
 
 That the Civic Administration BE REQUESTED
@@ -530,7 +516,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;(Added)  Proposed Improved Signage and Road
   Markings
 
 That it BE NOTED that Councillor S. Orser

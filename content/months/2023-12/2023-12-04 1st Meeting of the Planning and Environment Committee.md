@@ -17,7 +17,6 @@ December 4, 2023, at  4:00 PM
 
 The meeting is called to order at 4:01 PM; it being noted that Councillor S. Hillier was in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Call to Order
 
 ## 1.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
@@ -27,7 +26,6 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 That it BE NOTED that Councillor S. Lewis was appointed as Vice Chair to the Planning and Environment Committee by Mayoral Decision 2023-008
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Lewis
 
@@ -142,7 +140,6 @@ That the Building Division monthly report for the month of October, 2023 BE RECE
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;1350 Wharncliffe Road South (Z-9611)
 
@@ -674,11 +671,9 @@ motion to amend clause b) ii) to install a privacy fence around the parking are
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -703,7 +698,6 @@ That the Deferred Matters List dated November 27, 2023 BE RECEIVED; it being not
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members Only)
 
 > Moved by S. Lewis
 
@@ -734,7 +728,6 @@ The Planning and Environment Committee convened, in Closed Session, from 6:01 PM
 
 ## 6.1&nbsp;&nbsp;&nbsp;Solicitor-Client Privileged Advice / Litigation/Potential Litigation
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 6:29 PM.
 ---

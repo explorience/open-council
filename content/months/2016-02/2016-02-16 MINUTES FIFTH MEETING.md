@@ -18,24 +18,18 @@ February 16, 2016
 The Council meets in Regular Session in the
   Council Chambers this day at 4:05 p.m.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
-# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
-# IV.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Downtown
   Infrastructure Planning and Coordination
 
 That the following actions be taken with
@@ -104,7 +98,6 @@ it being noted that the Strategic
   Engineer, the Managing Director, Planning and City Planner and the Director
   of Roads and Transportation, with respect to these matters.
 
-# V.&nbsp;&nbsp;&nbsp;COMMITTEE OF THE WHOLE, IN
   CAMERA continued
 
 > Moved by Councillor M. van Holst
@@ -202,7 +195,6 @@ Motion Passed
 
 ****
 
-# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE FOURTH MEETING HELD ON JANUARY 26, 2016
 
 > Moved by Councillor J. Helmer
@@ -237,13 +229,10 @@ Motion Passed
 
 ****
 
-# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
-# VIII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# IX.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor M. Cassidy
 
@@ -251,7 +240,6 @@ Approve clauses 1 to 11, inclusive.
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Designation of the
   King Street Bridge Under the Ontario Heritage Act
 
 That, on the recommendation of the Managing
@@ -269,7 +257,6 @@ b)        Notice
   staff report dated February 1, 2016 under the provisions of subsection 29(3)
   of the Ontario Heritage Act, R.S.P. 1990, c. O. 18.   (2016-R01)
 
-# 4.&nbsp;&nbsp;&nbsp;Property located at
   1192 Highbury Avenue North - Ontario Municipal Board (OZ-8463)
 
 That, on the recommendation of the Managing
@@ -280,7 +267,6 @@ That, on the recommendation of the Managing
   Municipal Board BE ADVISED that the Municipal Council has reviewed its
   decision relating to this matter and sees no reason to alter it.   (2016-D09)
 
-# 5.&nbsp;&nbsp;&nbsp;Property located at
   275 Thames Street - Repeal of Designation (Relates to Bill No. 80)
 
 That, on the recommendation of the Managing
@@ -291,7 +277,6 @@ That, on the recommendation of the Managing
   Heritage and public notice has been completed with respect to the repeal in
   compliance with the requirements of the Ontario Heritage Act.   (2016-R01)
 
-# 6.&nbsp;&nbsp;&nbsp;Properties located
   at 130, 136, 146 and 164 Pond Mills Road and 925 Deveron Crescent
   (39T-12501/Z-8007)
 
@@ -383,7 +368,6 @@ it
   being pointed out that no individuals spoke at the public participation
   meeting associated with this matter.   (2016-L01/D09)
 
-# 7.&nbsp;&nbsp;&nbsp;2nd Report of the
   London Advisory Committee on Heritage
 
 That, the following actions be taken with
@@ -410,7 +394,6 @@ it being noted that the Planning and
   Environment Committee heard a verbal presentation from D. Dudek, Chair, LACH,
   with respect to these matters.
 
-# 8.&nbsp;&nbsp;&nbsp;2nd Report of the
   Trees and Forests Advisory Committee
 
 That, the following actions be taken with
@@ -432,7 +415,6 @@ it being noted that the Planning and
   from A. Cantell, Vice-Chair, Trees and Forests Advisory Committee, with
   respect to these matters.
 
-# 9.&nbsp;&nbsp;&nbsp;2nd Report of the
   Agricultural Advisory Committee
 
 That, the following actions be taken with
@@ -476,7 +458,6 @@ c)        the
 d)         clauses 1 to 5 and clause 7, BE
   RECEIVED.
 
-# 10.&nbsp;&nbsp;&nbsp;Evaluation of
   Community Improvement Plan Incentives
 
 That, on the recommendation of the Managing
@@ -623,7 +604,6 @@ Motion Passed
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Public Engagement
   Process – Glanworth Neighbourhood
 
 That the Civic Administration BE DIRECTED
@@ -636,7 +616,6 @@ That the Civic Administration BE DIRECTED
   communication dated January 26, 2016, from Councillor J. Zaifman, with
   respect to this matter.   (2016-D09)
 
-# 12.&nbsp;&nbsp;&nbsp;Bonus Policies –
   Draft London Plan
 
 That the Civic Administration BE DIRECTED
@@ -658,7 +637,6 @@ it being noted that the Planning and
   Environment Committee reviewed and received a communication dated January 27,
   2016, from Councillor J. Morgan, with respect to this matter.
 
-# 13.&nbsp;&nbsp;&nbsp;Contract Award:
   Tender No. 15-101, Sarnia Road Improvements, Wonderland Road North to
   Sleightholme Avenue
 
@@ -701,7 +679,6 @@ f)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations.  (2016-F18)
 
-# 14.&nbsp;&nbsp;&nbsp;Comments on
   Environmental Bill of Rights Registry - Proposed Waste Free Ontario Act and
   Draft Strategy for a Waste Free Ontario: Building the Circular Economy
 
@@ -713,7 +690,6 @@ That, on the recommendation of the Managing
   posting (EBR 012-5832) titled Waste Free Ontario Act; it being noted that the
   due date for comments is February 29, 2016.  (2016-E07)
 
-# 15.&nbsp;&nbsp;&nbsp;Update Interim
   Waste Diversion Plan (2014-2015) and Additions for 2016
 
 That, on the recommendation of the
@@ -750,7 +726,6 @@ d)        the
   result of 2016 Budget Deliberations, or legislative or regulatory
   developments.  (2016-E07)
 
-# 17.&nbsp;&nbsp;&nbsp;1st and 2nd Reports
   of the Cycling Advisory Committee
 
 That the 1st and 2nd Reports of the Cycling
@@ -760,7 +735,6 @@ That the 1st and 2nd Reports of the Cycling
   Stops” supersedes clause 8 of the 1st Report of the CAC in which the CAC
   supported “Idaho Stops”.
 
-# 18.&nbsp;&nbsp;&nbsp;Donation of Two
   Surplus Parking Meters for Fundraising Purposes
 
 That the request for delegation status from
@@ -768,7 +742,6 @@ That the request for delegation status from
   donation of two surplus parking meters for fundraising purposes, BE APPROVED
   for a future meeting of the Civic Works Committee.
 
-# 19.&nbsp;&nbsp;&nbsp;Springbank Dam
 
 That the following actions be taken with
   respect to the Springbank Dam:
@@ -812,13 +785,11 @@ it being pointed out that the individuals
   indicated on the attached delegation record made oral submissions with
   respect to this matter.  (2016-E21)
 
-# 20.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the Civic Works Committee Deferred
   Matters List, as at January 12, 2016, BE RECEIVED.
 
-# 16.&nbsp;&nbsp;&nbsp;Free Parking in
   December Update
 
 That, on the recommendation of the Managing
@@ -856,10 +827,8 @@ Approve clauses 1 to 12, excluding clause 10.
 
 ****
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
 Councillor B. Armstrong enquires with
   respect to a request for an update related to snow removal, particularly with
@@ -871,10 +840,8 @@ Councillor M. van Holst further enquires
   about the type of equipment being used in some areas.  The Managing Director,
   Environmental and Engineering Services and City Engineer provides a response.
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -975,7 +942,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

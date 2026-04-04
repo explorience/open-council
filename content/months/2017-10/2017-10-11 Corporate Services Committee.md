@@ -12,13 +12,11 @@ October 11, 2017, at 12:30 PM
 > [!abstract]- Also Present:
 > M. Cassidy, V. Ridley, M. van Holst; M. Hayward, A.L. Barbon, B. Card, I. Collins, S. Corman, B. Coxhead, G. Kotsifas, L. Livingstone, S. MacDonald, T. Purdy, M. Ribera, C. Saunders, K. Scherr, A. Thompson, B. Warner, T. Wellhauser, R. Wilcox, J. Wills
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Single Source Award
   of Contract for Phase 6 Facility Renewal and Energy Retrofit Program
 
 That, on the recommendation of the Managing
@@ -71,7 +69,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;City of London 2018
   Provincial and Federal Budget Submissions
 
 That, on the recommendation of the
@@ -109,7 +106,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Declare Surplus -
   Portion of Oxford Street West - Operations Centre at 1410-1450 Oxford Street
   West
 
@@ -150,7 +146,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Annual Report Risk
   Management Services
 
 That, on the recommendation of the Manager
@@ -176,7 +171,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;City of London -
   Experience with New Hours of Service
 
 That, on the recommendation of the City
@@ -201,7 +195,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Report of the
   Federation of Canadian Municipalities Board of Directors Meeting  - Wood
   Buffalo, AB, September 12-15, 2017
 
@@ -228,7 +221,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Review of Code of
   Conduct for Employees
 
 The City Manager BE DIRECTED to take the
@@ -272,7 +264,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Establishment of
   Policy - Concerns of Potential Fraud, Waste and Misuse of Assets and
   Resources of the Municipality
 
@@ -301,7 +292,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Tequila Expo Show
   2017 - Request for Designation as a Municipally Significant Event
 
 That the Tequila Expo Show 2017, to be held
@@ -325,7 +315,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Confirmation of
   Appointments to the Town and Gown Committee (Requires 1 Voting Representative
   from 1 of Westerns University's Affiliated Colleges and 1 Voting
   Representative from Fanshawe Student Union)
@@ -357,7 +346,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Confirmation of
   Appointments to the Community Safety and Crime Prevention Advisory Committee
   (Requires 1 Alternate Voting Representative from the Thames Valley Council of
   Home & School Associations and 1 Alternate Voting Member from the Thames
@@ -390,7 +378,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Request for Bus
   Rapid Transit to be put on the 2018 Municipal Election Ballot
 
 That

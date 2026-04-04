@@ -17,21 +17,17 @@ November 28, 2023, at  1:00 PM
 
 The meeting is called to order at 1:01 PM; it being noted that Councillors P. Van Meerbergen and S. Hillier were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that Councillor S. Lehman disclosed a pecuniary interest related to item 10, clause 2.4 of the 27th Report of the Strategic Priorities and Policy Committee, having to do with the 2023-2027 City of London Strategic Plan: Core Area, by indicating that it relates to funding for Downtown London Business Association and the Councillor indicated they are a member of the Association.
 
 That it BE NOTED that Councillor S. Franke disclosed a pecuniary interest related to item 12 Emergent Motions.
 
-# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
 His Worship the Mayor recognizes the recipients of the 2023 Diversity, Race Relations and Inclusivity Awards Recipients: Oakridge Presbyterian Church Mission and Outreach / Islamic Relief Canada London Regional Team / Project SEARCH / the London Track 3 Adaptive Snow School / Yesalihuni "They Will Teach You" Youth Initiative.
 
-# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Council, in Closed Session
 
 > Motion made by P. Cuddy
 
@@ -76,7 +72,6 @@ That Council convenes In Closed Session, from 1:23 PM to 1:33 PM.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
 ## 5.1&nbsp;&nbsp;&nbsp;18th Meeting Held on November 7, 2023
 
@@ -110,7 +105,6 @@ That the Minutes of the 18th Meeting of the Municipal Council, held on November 
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 > Motion made by A. Hopkins
 
@@ -174,11 +168,9 @@ That the following communications BE RECEIVED, and BE REFERRED as noted on the A
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 None.
 
-# 8.&nbsp;&nbsp;&nbsp;Reports
 
 ## 8.1&nbsp;&nbsp;&nbsp;27th Report of the Strategic Priorities and Policy Committee
 
@@ -1632,19 +1624,15 @@ That the communication dated November 1, 2023 from MNP with respect to the Commu
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 ## 9.1&nbsp;&nbsp;&nbsp;17th Report of Council in Closed Session
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-# 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 None.
 
-# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 
 At 5:00 PM, His Worship Mayor J. Morgan, places Councillor C. Rahman in the Chair.
 
@@ -1714,7 +1702,6 @@ That Council convenes In Closed Session, from 5:04 PM to 5:31 PM.
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 > Motion made by S. Stevenson
 
@@ -2059,7 +2046,6 @@ By-law No. Z.-1-233164 – A by-law to amend By-law No. Z.-1 to rezone an area o
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by P. Cuddy
 

@@ -17,19 +17,15 @@ September 26, 2023, at  1:00 PM
 
 The meeting is called to order at 1:03 PM; it being noted that the following were in remote attendance Councillors P. Van Meerbergen, S. Hillier and Councillors E. Peloza (after 4:01 PM) and D. Ferreira (after 4:01 PM).
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
 His Worship the Mayor Recognizes City of London Employees who have achieved 25 years of service during 2023.
 
-# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
 
 > Motion made by P. Cuddy
 
@@ -87,7 +83,6 @@ The Council convenes, In Closed Session, from 1:19 PM to 2:00 PM.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
 ## 5.1&nbsp;&nbsp;&nbsp;14th Meeting held on August 29, 2023
 
@@ -122,7 +117,6 @@ That the Minutes of the 14th Meeting held on August 29, 2023, BE APPROVED.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 > Motion made by E. Peloza
 
@@ -161,11 +155,9 @@ That the following communications BE RECEIVED and BE REFERRED as noted on the Ad
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 None.
 
-# 8.&nbsp;&nbsp;&nbsp;Reports
 
 ## 8.1&nbsp;&nbsp;&nbsp;16th Report of the Corporate Services Committee
 
@@ -1850,7 +1842,6 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 ## 9.1&nbsp;&nbsp;&nbsp;13th Report of Council in Closed Session
 
@@ -1886,19 +1877,15 @@ b)    the financing for this acquisition BE APPROVED as set out in the Source 
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-# 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 None.
 
-# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 
 None.
 
-# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 > Motion made by P. Van Meerbergen
 
@@ -2227,7 +2214,6 @@ That Third Reading and Enactment of Added Bill No. 365, BE APPROVED.
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by S. Stevenson
 
@@ -2241,7 +2227,6 @@ The Council meeting adjourned at 4:55 PM.
 
 ****
 
-# Appendix: New Bills
 
 > [!abstract]- The following Bills are enacted as By-laws of The Corporation of the City of London:
 > **Bill No. 334**

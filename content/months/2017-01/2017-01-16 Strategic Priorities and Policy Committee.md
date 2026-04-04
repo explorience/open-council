@@ -15,7 +15,6 @@ January 16, 2017, at  4:02 PM
 > [!abstract]- Also Present:
 > A. Zuidema, K. Graham, D. Mounteer, M. Ribera, C. Saunders, K. Scherr
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That

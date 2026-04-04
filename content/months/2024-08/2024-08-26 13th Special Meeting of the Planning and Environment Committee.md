@@ -20,15 +20,12 @@ August 26, 2024, at  1:00 PM
 
 The meeting is called to order at 1:00 PM; it being noted that Councillor S. Hillier was in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Not to be heard before 1:00 PM - Demolition Request for Heritage Listed Properties – 920-940 Dundas Street
 
@@ -476,11 +473,9 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 > Moved by C. Rahman
 
@@ -544,7 +539,6 @@ That the 8th Report of the Community Advisory Committee on Planning, from its me
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 > Moved by C. Rahman
 
@@ -570,7 +564,6 @@ The Planning and Environment Committee convenes In Closed Session from 1:42 PM t
 
 ## 6.1&nbsp;&nbsp;&nbsp;Solicitor-Client Privilege /Litigation/Potential Litigation
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 2:01 PM.
 ---

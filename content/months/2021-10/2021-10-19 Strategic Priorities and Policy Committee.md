@@ -21,7 +21,6 @@ October 19, 2021, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that the following pecuniary interests were disclosed:
 
@@ -29,7 +28,6 @@ a)   Councillor J. Morgan discloses a pecuniary interest in clause 4.1 having 
 
 a)   Councillor J. Helmer discloses a pecuniary interest in clause 4.1 having to do with an appointment to the University of Western Ontario (UWO) Board of Governors, by indicating that he is employed by UWO.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by M. van Holst
 
@@ -152,7 +150,6 @@ it being noted the Strategic Priorities and Policy Committee received a communic
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Public Participation Meeting - Amendments to the Various Fees and Charges By-law
 
@@ -253,7 +250,6 @@ Motion to close the Public Participation Meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;University of Western Ontario Board of Governors
 
@@ -339,11 +335,9 @@ iv) bring forward Councillor's names interested in appointment to the Covent Gar
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by P. Van Meerbergen
 

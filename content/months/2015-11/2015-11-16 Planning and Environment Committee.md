@@ -15,10 +15,8 @@ November 16, 2015, at  4:01 PM
 > [!abstract]- Also Present:
 > J. Morgan, T. Park, M. van Holst; G. Barrett, M. Elmadhoon, J.M. Fleming, S. Galloway, T. Grawey, P. Kokkoros, G. Kotsifas, A. MacLean, B. Page, L. Pompilii, J. Ramsay, C. Saunders, C. Smith, S. Spring, M. Tomazincic, J. Yanchula, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;8th Report of the
   Advisory Committee on the Environment
 
 That the following actions be taken with
@@ -77,7 +75,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;7th Report of the
   Trees and Forests Advisory Committee
 
 That the 7th Report of the Trees and
@@ -100,7 +97,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Byron Gravel Pits
   Secondary Plan - Information Update
 
 That, on the recommendation of the Managing
@@ -141,7 +137,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Properties located
   at 3294 Singleton Avenue and a portion of 3260 Singleton Avenue (H-8485)
 
 That, on the recommendation of the Senior
@@ -178,7 +173,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Building Division
   Monthly Report for May to September 2015
 
 That the Building Division Monthly Report
@@ -200,7 +194,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Property located at
   800 Sunningdale Road West - Draft Approved Plan 39T-05508 - Sunningdale Golf
   Club Limited (39T-05508/Z-8515)
 

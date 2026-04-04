@@ -15,13 +15,11 @@ April 12, 2016, at 12:02 PM
 > [!abstract]- Also Present:
 > J. Helmer, M. van Holst; A. Zuidema, B. Baar, J.P. Barber, A.L. Barbon, J. Braam, G. Bridge, M. Daley, A. Dunbar, J. Edmunds, J. Freeman, M. Hayward, J. Logan, D. Mounteer, K. Murray, D. O’Brien, L. Palarchio, M. Ribera, M. Ruddy, J. Senese, T. Thompson, T. Wellhauser
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;SS16-11 Single
   Source Corporate Technology Assets
 
 That, on the recommendation of the
@@ -84,7 +82,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Shamrock
   Subdivision - Agreement with Property Owner
 
 That, on the recommendation of the Deputy
@@ -110,7 +107,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;2015 Compliance
   Report in Accordance with the Procurement of Goods and Services Policy
 
 That, on the recommendation of the Managing
@@ -165,7 +161,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;2015 Operating
   Budget Status - Fourth Quarter Report
 
 That, on the
@@ -261,7 +256,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;2015 Capital Budget
   Status - Fourth Quarter Report
 
 That, on the recommendation of the Managing
@@ -285,7 +279,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;2016 Property
   Assessment Update - Carla Nell, VP, Municipal & Stakeholder Relations,
   Municipal Property Assessment Corporation (MPAC)
 
@@ -311,7 +304,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Apportionment of
   Taxes
 
 That, on the recommendation of the Managing
@@ -376,7 +368,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Corporate Services
   Committee Deferred Matters List
 
 That the Deferred Matters List BE RECEIVED

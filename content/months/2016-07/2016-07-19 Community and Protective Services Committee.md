@@ -15,20 +15,17 @@ July 19, 2016, at  4:00 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J. Braam, J. Bruin, B. Coxhead, P. D’Hollander, S. Datars Bere, M. Dellamora, A. Dunbar, C. Finn, J. Fleming, S. Giustizia, K. Graham, L. Hamer, Z. Jarvis, O. Katolyk, J. Kobarda, T. Kyle, L. Livingstone, A. Macpherson, L. Marshall, B. McLaughlin, J. McKay, J. Parsons, E. Skalski, J. Smout, E. Soldo, J. Winston
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests
   were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;4th Report of the
   Community Safety and Crime Prevention Advisory Committee
 
 That the 4th report of the Community Safety
   and Crime Prevention Advisory Committee, from its meeting held on June 23,
   2016, BE RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;Property Standards
   Related Demolitions
 
 That, on the recommendation of the Managing
@@ -41,7 +38,6 @@ That, on the recommendation of the Managing
   Grace Street; and 1474 Highbury Avenue North (two buildings) and leave the
   respective properties in a graded and levelled condition.  (2016-P01/P10D)
 
-# 4.&nbsp;&nbsp;&nbsp;Humane Urban
   Wildlife Conflict Policy: Forestry Operations Wildlife Protocol
 
 That, on the recommendation of the Managing
@@ -65,7 +61,6 @@ That, on the recommendation of the Managing
   principles of the proposed formal protocol are currently in general
   practice.  (2016-P14)
 
-# 5.&nbsp;&nbsp;&nbsp;Vacant Buildings
   Policy
 
 That, on the recommendation of the Managing
@@ -75,7 +70,6 @@ That, on the recommendation of the Managing
   City Personnel” to add proactive enforcement provisions with respect to
   vacant buildings.  (2016-P01/P06)
 
-# 6.&nbsp;&nbsp;&nbsp;Driver Training
   Program
 
 That, on the recommendation of the Fire
@@ -84,7 +78,6 @@ That, on the recommendation of the Fire
   London Fire Department Driver Training Program, BE RECEIVED for
   information.(2016-F18)
 
-# 7.&nbsp;&nbsp;&nbsp;Healthy Kids
   Community Challenge Project Funding Agreement - Template
 
 That, on the recommendation of the Managing
@@ -106,7 +99,6 @@ b)         severally
   that may be required in furtherance of the Project Funding Agreements. 
   (2016-S08)
 
-# 8.&nbsp;&nbsp;&nbsp;Response/Update to
   Resolutions Concerning Public Safety Matters
 
 That the Civic Administration BE DIRECTED
@@ -133,7 +125,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Compassionate
   Cities Initiative Update
 
 That, on the recommendation of the Managing
@@ -157,7 +148,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Approval of the
   Service Manager Administration Agreement for the 2016 Social Infrastructure
   Fund (SIF) and Pending Assignment to HDC
 
@@ -193,7 +183,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Business Licensing
   By-law Review - Proposed Public Participation Meeting Schedule
 
 That, on the recommendation of the Managing
@@ -222,7 +211,6 @@ it being noted that as the by-law
   amendments to the Business Licensing By-law to modify, eliminate or introduce
   new regulations. (2016-P09)
 
-# 12.&nbsp;&nbsp;&nbsp;Dr. C. Mackie,
   Medical Officer of Health and CEO, Middlesex London Health Unit
 
 That the presentation from Dr. C. Mackie,
@@ -245,7 +233,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;6th Report of the
   London Diversity and Race Relations Advisory Committee
 
 That the following actions be taken with
@@ -292,7 +279,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;6th Report of the
   Accessibility Advisory Committee
 
 That the following actions be taken with
@@ -354,7 +340,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Vehicle for Hire
   By-law - Proposed Regulations
 
 That the following actions be
@@ -496,7 +481,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Informal
   Residential Care Facility Licensing By-law
 
 That on the recommendation of the Managing
@@ -532,7 +516,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;Thames Valley
   Parkway North Branch Connection Class Environmental Assessment
 
 That, on the recommendation of the Managing
@@ -580,7 +563,6 @@ Motion
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;The Charter for
   Inclusive Communities
 
 That the attached Charter for
@@ -604,7 +586,6 @@ Motion
 
 ****
 
-# 19.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the July 2016 Deferred Matters List
@@ -626,7 +607,6 @@ Motion
 
 ****
 
-# 20.&nbsp;&nbsp;&nbsp;(ADDED) 7th Report
   of the London Housing Advisory Committee
 
 That the 7th Report of the London Housing
@@ -648,7 +628,6 @@ Motion
 
 ****
 
-# 21.&nbsp;&nbsp;&nbsp;(ADDED) STAFF
   REPORT - 2019 IIHF World Junior Ice Hockey Championship Joint Bid
   London/Windsor
 

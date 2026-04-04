@@ -12,13 +12,11 @@ September 22, 2015, at 12:05 PM
 > [!abstract]- Also Present:
 > J. Helmer, P. Hubert, V. Ridley, M. Salih, M. van Holst; A. Zuidema, J.P. Barber, A.L. Barbon, G. Belch, J. Braam, S. Corman, U. DeCandido, A. Hagan, M. Hayward, J. Logan, J. Lucas, V. McAlea Major, D. Popadic, J. Senese, S. Spring, L. Stevens, S. Swance
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That
   it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Residential Tax By-law for Investment in
   Affordable Housing Program Project at 189 Dundas Street
 
 That, on the recommendation of the Director
@@ -48,7 +46,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Residential Tax
   By-law for Investment in Affordable Housing Program Project at 77 Tecumseh
   Avenue
   West
@@ -80,7 +77,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Single Source
   Procurement 15-35 Custodial Services - South London Community Centre
 
 That, on the recommendation of the
@@ -119,7 +115,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;City of London’s
   Credit Rating
 
 That, on the recommendation of the Managing
@@ -144,7 +139,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Change in Property
   Ownership Fees
 
 That the Civic Administration BE REQUESTED

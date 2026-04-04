@@ -15,10 +15,8 @@ December 11, 2012, at  3:00 PM
 > [!abstract]- Also Present:
 > A. Zuidema, T. Dobbie (Tim L. Dobbie Consulting Inc.), J.P. Barber, A. Dunbar, M. Hayward, G.T. Hopcroft, V. McAlea Major
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Municipal
   Infrastructure Investment Initiative (Mlll) - Capital Program
 
 Recommendation:  That, on the
@@ -39,14 +37,12 @@ b)         the
   funding under the Municipal Infrastructure Investment Initiative (MIII) –
   Capital Program.
 
-# 3.&nbsp;&nbsp;&nbsp;Election of
   Vice-Chair for the term ending November 30, 2013
 
 Recommendation:  That Councillor J.P.
   Bryant BE ELECTED as Vice Chair of the Corporate Services Committee for the
   term ending November 30, 2013.
 
-# 4.&nbsp;&nbsp;&nbsp;Minutes of the 1st
   Meeting of the County/City Liaison Committee
 
 Recommendation:  That the following

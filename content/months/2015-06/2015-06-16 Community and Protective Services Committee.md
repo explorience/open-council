@@ -12,10 +12,8 @@ June 16, 2015, at  4:00 PM
 > [!abstract]- Also Present:
 > J. Helmer, M. van Holst, J. Zaifman; R. Armistead, G. Bridge, B. Coxhead, S. Datars Bere, D. Dobson, A. Dunbar, I. Gibb, K. Graham, J. Kobarda, L. Livingstone, B. McLaughlin, B. Warner, T. Wellhauser
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
-# 2.&nbsp;&nbsp;&nbsp;Interpretation
   Services and Written Translation Services RFP
 
 Motion
@@ -164,7 +162,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Construction
   Manager/General Contractor for the Southwest Community Centre, YMCA and
   Library - RFP No. 15-28
 
@@ -205,7 +202,6 @@ ii)         authorize
   the Mayor and the City Clerk to execute the Agreement forming Schedule “A” to
   the by-law appended hereto as Appendix “B”.
 
-# 7.&nbsp;&nbsp;&nbsp;D. Abdi, African
   Community Council - Request for Delegation Status, Re: Immigrants and the
   Labour Market, A London Perspective
 
@@ -242,7 +238,6 @@ Approve that the delegation from Mr. Abdi BE HEARD today, June 16,
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 (See Confidential Appendix to the 7th

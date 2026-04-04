@@ -20,11 +20,9 @@ February 7, 2022, at  4:00 PM
 
 The meeting was called to order at 4:01 PM, with Councillor A. Hopkins in the Chair, Councillors S. Lewis and S. Lehman present and all other members participating by remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 None.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Lewis
 
@@ -102,7 +100,6 @@ That, on the recommendation of the Director, Planning and Development, with resp
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;2624 Jackson Road and 1635 Commissioners Road East (Z-9449)
 
@@ -334,7 +331,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Inclusionary Zoning
 
@@ -396,7 +392,6 @@ Motion to grant delegation status to M. Wallace, Executive Director, London Deve
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) December, 2021 Building Division Monthly Report
 
@@ -420,7 +415,6 @@ That the Building Division Monthly Report for December, 2021 BE RECEIVED for inf
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 5:55 PM.
 

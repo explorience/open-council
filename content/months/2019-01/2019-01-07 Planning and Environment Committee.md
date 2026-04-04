@@ -20,11 +20,9 @@ January 7, 2019, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that Councillor S. Turner disclosed a pecuniary interest in clause 2.6 of this Report, having to do with Cannabis retail stores, by indicating that his employer, the Middlesex-London Health Unit, has commented on this matter in the past.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Turner
 
@@ -250,7 +248,6 @@ it being noted that the Planning and Environment Committee reviewed and received
 
 [2018-01-07 PS - J. Mutton - Caninabis Retail Stores](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=63454>)
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Public Participation Meeting - Application - 2475, 2506, 2555 Bonder Road, 2535 Advanced Avenue, 2575 Boyd Court (Z-8949)
 
@@ -755,7 +752,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;(ADDED) Councillor M. van Holst - Assist Smaller Business Improvement Areas
 
@@ -779,11 +775,9 @@ That the communication from Councillor M. van Holst with respect to potential f
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 10:20 PM.
 

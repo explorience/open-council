@@ -12,7 +12,6 @@ May 28, 2012, at  4:02 PM
 > [!abstract]- Also Present:
 > J.F. Fontana, J.L. Baechler, M. Brown, S. Orser, P. Van Meerbergen, J. Braam, J.M. Fleming, C. Saunders, G. Barrett, S. Bellaire, P. Christiaans, A. Dunbar, M. Elmadhoon, T. Grawey, N. Grzywa, B. Henry, T. Karidas, G. Kotsifas, B. Krichker, J. Leunissen, A. Macpherson, A. MacLean, N. McKee, D. Menard, B. Mercier, N. Musicco, J. Nethercott, M. Nickerson, C. Parker, J. Ramsay, A. Riley, L. Rowe, R. Sharpe, C. Smith, D. Swaenepoel, B. Westlake-Power, H. Woolsey, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that:
  
 a)           
   Councillor
@@ -30,7 +29,6 @@ b)           
   Street, by indicating that his son is a member of the Committee of
   Adjustment.
 
-# 2.&nbsp;&nbsp;&nbsp;Property located at
   1465 Richmond Street
 
 Recommendation:  That, notwithstanding the
@@ -40,7 +38,6 @@ Recommendation:  That, notwithstanding the
   to the property located at 1465 Richmond Street, the matter BE REFERRED
   back to the Civic Administration for further review.  (2012-D16-00)
 
-# 3.&nbsp;&nbsp;&nbsp;Sugar Creek Park
   and Area Design, Development and Maintenance Agreements with Old Oak
   Properties Incorporated
 
@@ -88,7 +85,6 @@ f)         Old
   project and for their commitment to the community by entering into the
   Adopt-a-Park and Adopt-a-Street Agreements.  (2012-E06-00)
 
-# 4.&nbsp;&nbsp;&nbsp;Property located at
   3071 Singleton Avenue (H-8058)
 
 Recommendation:  That, on the
@@ -100,7 +96,6 @@ Recommendation:  That, on the
   of the subject lands FROM a Holding Residential R1 (h.R1-5) Zone TO
   a Residential R1 (R1-5) Zone, to remove the holding provision.  (2012-D11-07)
 
-# 5.&nbsp;&nbsp;&nbsp;Special Provisions
   - Landea Developments Inc. - Landea Subdivision (39T-05512)
 
 Recommendation:  That, on the
@@ -132,7 +127,6 @@ it being noted that the Planning and
   2012, from K. McIntosh, Whitney Engineering Inc., with respect to this matter.  
   (2012-D26-04)
 
-# 6.&nbsp;&nbsp;&nbsp;Special Provisions
   - Phyllis Matthews - Woodhull Subdivision (39T-03511)
 
 Recommendation:  That, on the
@@ -153,7 +147,6 @@ b)         the
   to in clause a), above, any amending agreements and all documents required to
   fulfill its conditions.   (2012-D26-04)
 
-# 7.&nbsp;&nbsp;&nbsp;Request for
   Extension of Draft Approval - Auburn Developments Inc. - FoxField
   Subdivision (39T-02505)
 
@@ -180,7 +173,6 @@ b)           
   “Estimated Claims and Revenues Report” provided as Appendix ‘A’ to the
   associated staff report, dated May 28, 2012.  (2012-D26-01)
 
-# 8.&nbsp;&nbsp;&nbsp;Special Provisions
   - Sifton Properties Limited - Forest Hill (Phase 4B) Subdivision
   (39T-99515-4B)
 
@@ -207,13 +199,11 @@ c)         the
   referred to in clause a) above, any amending agreements and all documents
   required to fulfill its conditions.  (2012-D26-05)
 
-# 9.&nbsp;&nbsp;&nbsp;Building Division
   Monthly Report for April 2012
 
 Recommendation:  That the Building Division
   Monthly Report for April 2012 BE RECEIVED.  (2012-D05-00)
 
-# 10.&nbsp;&nbsp;&nbsp;6th Report of the
   London Advisory Committee on Heritage
 
 Recommendation:  The following actions be
@@ -341,7 +331,6 @@ it being noted that the Planning and
   Environment Committee heard a verbal delegation from G. Goodlet, Chair,
   LACH, with respect to these matters.
 
-# 11.&nbsp;&nbsp;&nbsp;Assumption
   Notification
 
 Recommendation:  That, the communication,
@@ -350,7 +339,6 @@ Recommendation:  That, the communication,
   the assumption of subdivisions BE REFERRED to the Civic Administration
   for discussion at the next Development Liaison Forum meeting.   (2012-G14-00)
 
-# 12.&nbsp;&nbsp;&nbsp;Property located at
   76 Gunn Street
 
 Recommendation:  That, on the
@@ -474,7 +462,6 @@ it being
   for duplex dwellings; advising that the application is going through the site
   plan process; and advising that the urban design has been approved.     (2012-D25-00)
 
-# 13.&nbsp;&nbsp;&nbsp;Property located at
   78 Gunn Street
 
 Recommendation:  That, on the
@@ -593,7 +580,6 @@ it being
   for duplex dwellings; advising that the application is going through the site
   plan process; and advising that the urban design has been approved.  (2012-D25-00)
 
-# 14.&nbsp;&nbsp;&nbsp;Properties located
   at 73, 77, 81 and 91 Southdale Road East, 3021 and 3033 White Oak Road
   (OZ-8047)
 
@@ -705,7 +691,6 @@ it being pointed
   the area; and, indicating that it is important that the community notice
   match what the Committee is voting on.   (2012-D11-02)
 
-# 15.&nbsp;&nbsp;&nbsp;Property located at
   3535 Settlement Trail (Z-8018)
 
 Recommendation:  That, on the recommendation
@@ -778,7 +763,6 @@ it being pointed
   placed with the zoning; it being noted that the staff responded to Mrs.
   Doornbosch’s concerns.   (2012-D11-07)
 
-# 16.&nbsp;&nbsp;&nbsp;Property located at
   493 Sunningdale Road East (39CD-12504)
 
 Recommendation:  That, on the
@@ -798,7 +782,6 @@ b)         the
   to address the development of this site; it being noted that this would be in
   place of a separate development agreement and condominium agreement.   (2012-D08-00)
 
-# 17.&nbsp;&nbsp;&nbsp;Properties located
   at 779, 781 Richmond Street and 783 Richmond Street (Z-8021/Z-8022)
 
 Recommendation:  That, on the
@@ -852,7 +835,6 @@ it being pointed
   recommendation is fair and equitable; and advising that his questions have
   been answered by Alanna Riley, Planner.   (2012-D11-02/D11-06)
 
-# 18.&nbsp;&nbsp;&nbsp;Properties located
   at 19-21 Wistow Street (Z-8017)
 
 Recommendation:  That, on the recommendation
@@ -958,7 +940,6 @@ it being pointed
   dealership moves; and expressing concern with the large trucks that unload
   the new vehicles.  (2012-D11-02)
 
-# 19.&nbsp;&nbsp;&nbsp;Properties located
   at 2310, 2330, 2350 and 2362 Dundas Street (39T-12502)
 
 Recommendation:  That, the following
@@ -1031,7 +1012,6 @@ it being pointed
   forward to seeing all the dealerships; and reiterating that he does not want
   his property landlocked.    (2012-D26-06)
 
-# 20.&nbsp;&nbsp;&nbsp;Properties located
   at 186-188 Huron Street and 2 Audrey Avenue (SP12-007186)
 
 Recommendation:  That, notwithstanding the
@@ -1131,7 +1111,6 @@ it being pointed
   generated $200,000 in development charges for the City; and advising that he
   is willing to remove the buildings to build townhouses.  (2012-D25-00)
 
-# 21.&nbsp;&nbsp;&nbsp;Property located at
   537 Crestwood Drive (OZ-7963/39CD-11519)
 
 Recommendation:  That, on the
@@ -1223,7 +1202,6 @@ it being pointed
   with no road; and advising that if you let one person do this, how do you
   deny the next person.    (2012-D11-07/D08-00)
 
-# 22.&nbsp;&nbsp;&nbsp;Heritage
   Designation - property located at 1576 Richmond Street
 
 Recommendation:  That,
@@ -1325,7 +1303,6 @@ it being pointed
   chance to work with the developer; and advising of the outcome of the Red
   Antiquities building.            (2012-D13-00)
 
-# 23.&nbsp;&nbsp;&nbsp;Property located
   at 72 Hamilton Road
 
 Recommendation:  That, on the
@@ -1339,7 +1316,6 @@ it being pointed out that there were no
   oral submissions made at the public participation meeting held in connection
   with this matter.   (2012-D13-00/D10-00)
 
-# 24.&nbsp;&nbsp;&nbsp;Property located at
   1451 Wharncliffe Road South
 
 Recommendation:  That, on the recommendation
@@ -1353,7 +1329,6 @@ it being pointed out that there were no
   oral submissions made at the public participation meeting held in connection
   with this matter.   (2012-D13-00/D10-00)
 
-# 25.&nbsp;&nbsp;&nbsp;Hyde Park
   Commercial Area Official Plan and Zoning By-law Review re properties located
   at 1331-1369 and 1364-1420 Hyde Park Road
 
@@ -1368,7 +1343,6 @@ it being noted that the Planning and
   Knutson Development Consultants Inc. and James Kozak, 8-40 Quinella Drive,
   with respect to this matter.  (2012-D11-04/D26-03)
 
-# 26.&nbsp;&nbsp;&nbsp;Properties located
   at 255 South Carriage Road and 1331 Hyde Park Road (39T-08502/OZ-7510)
 
 Recommendation:  That, notwithstanding the following actions be taken with
@@ -1510,7 +1484,6 @@ it being pointed
   Hudson, 4-1144 Coronation Drive – advising that if the developer is required
   to build one-storey houses on Lots 159 and 161, they will be grateful.   (2012-D11-04/D26-03)
 
-# 27.&nbsp;&nbsp;&nbsp;5th Report of the
   Advisory Committee on the Environment
 
 Recommendation:  That the 5th Report of the

@@ -15,10 +15,8 @@ May 23, 2013, at  4:00 PM
 > [!abstract]- Also Present:
 > S. Gillifilan (PwC), M. Hayward, D. O’Brien, I. Sadler (PwC), S. Swance, M. Turner, B. Whitelaw
 
-# 1.&nbsp;&nbsp;&nbsp;That It BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;2013 Risk-Based
   Audit Plan - Boards and Commissions
 
 Recommendation:  That the following actions
@@ -33,7 +31,6 @@ b)         the
   and London Transit Commission BE CONSIDERED for incorporation into the 2013
   Risk-Based Audit Plan.
 
-# 3.&nbsp;&nbsp;&nbsp;Engagement of
   PricewaterhouseCoopers (PwC) for Operational Reviews at Boards and
   Commissions
 
@@ -94,7 +91,6 @@ h)         future
 it being noted that on-going savings
   achieved should assist in providing sustainable annual budget requests.
 
-# 4.&nbsp;&nbsp;&nbsp;Engagement of KPMG
   for Procedure and Findings Report on the Downtown Camera Program
 
 Recommendation:  That, on the

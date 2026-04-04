@@ -12,7 +12,6 @@ July 17, 2017, at  4:01 PM
 > [!abstract]- Also Present:
 > M. Brown;  P. Squire, M. van Holst; E. Conway, A. Dunbar, M. Feldberg, J.M. Fleming, S. Galloway, K. Gonyou, P. Kokkoros, E. Ling, A. Macpherson, L. Maitland, L. Mottram, D. O’Brien, N. Pasato, M. Pease, L. Pompilii, J. M. Ribera, M. Tomazincic, B. Westlake-Power, S. Wise, Yanchula, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that the following
@@ -36,7 +35,6 @@ c)           
   Agriculture Strategy, (clause 11), however the client relationship was
   several years ago and there are not any current engagements.
 
-# 2.&nbsp;&nbsp;&nbsp;6th Report of the
   Environmental Ecological and Planning Advisory Committee
 
 That the following actions be taken with
@@ -79,7 +77,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT - Property
   located at 8076 Longwoods Road (Z-8735)
 
 That, on the recommendation of the Managing
@@ -173,7 +170,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT - Improved
   Planning Report Templates for the Planning and Environment Committee
 
 That, on the recommendation of the Managing
@@ -209,7 +205,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Property located at 2150 Oxford Street East (H-8686)
 
 That, on the recommendation of the Senior
@@ -240,7 +235,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Request for Designation of a Heritage Listed Property located at 93-95
   Dufferin Avenue
 
@@ -270,7 +264,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Staff Resourcing to Support the New Tree Protection By-law
 
 That, on the recommendation of the Managing
@@ -296,7 +289,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Development Charges (DC) Claimable Work for Westbury Subdivision M-641
 
 That, on the recommendation of the Managing
@@ -338,7 +330,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Riverbend Golf Community Phase 9 (P-8762)
 
 That, on the recommendation of the Senior
@@ -412,7 +403,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Proposed Amendment to the Tree Protection By-law C.P. - 1515-228
 
 That, on the recommendation of the Managing
@@ -441,7 +431,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Draft Urban Agriculture Strategy
 
 That, on the recommendation of the Managing
@@ -469,7 +458,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;DELEGATION - D.
   Dudek, Chair, London advisory Committee on Heritage – 7th and 8th Reports of
   the London Advisory Committee on Heritage
 
@@ -779,7 +767,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Amend the Zoning By-law for Industrial Land Uses with
   Regard to Height, Parking Rate, Access to Loading Areas and Maneuvering on
   City Streets (Z-8744)
@@ -949,7 +936,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Request for Demolition of Heritage Listed property
   located at 660 Sunningdale Road East
 
@@ -1073,7 +1059,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - City Wide Official Plan and Zoning By-law Amendments
   - Secondary Dwelling Units (OZ-8053)
 
@@ -1214,7 +1199,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Property located at 1355 Commissioners Road West
   (formerly 1349, 1351, 1357, 1361 Commissioners Road West) (SPA17-024)
 
@@ -1379,7 +1363,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Eagle Ridge Subdivision - Phase 2 - Properties
   located at 810, 1055 and 1079 Westdel Bourne and 1959 and 1997 Oxford Street
   West (39T-17501/Z-8725)
@@ -1637,7 +1620,6 @@ Motion
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;7th Report of Tress
   and Forests Advisory Committee
 
 That the following actions be taken with
@@ -1712,7 +1694,6 @@ Motion
 
 ****
 
-# 19.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Archaeological Management Plan (2017)
 
 That, on the recommendation of the Managing
@@ -1764,7 +1745,6 @@ Motion
 
 ****
 
-# 20.&nbsp;&nbsp;&nbsp;(ADDED) 6th Report
   of the Environmental and Ecological Planning Advisory Committee
 
 That the 6th Report of the EEPAC BE RECEIVED;

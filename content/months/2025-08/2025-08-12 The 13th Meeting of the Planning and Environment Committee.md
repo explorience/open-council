@@ -22,11 +22,9 @@ August 12, 2025, at  1:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 None.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by P. Cuddy
 
@@ -275,7 +273,6 @@ That the motion, as amended, BE APPROVED.
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;820 Blythwood Road (Z-25073)
 
@@ -1383,7 +1380,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Councillor S. Franke - Agricultural Land Offset Policy
 
@@ -1443,7 +1439,6 @@ That the submission from Councillors S. Franke and E. Peloza related to Supporti
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List 
 
@@ -1499,7 +1494,6 @@ That the motion as amended be approved
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 > Moved by S. Lewis
 
@@ -1526,7 +1520,6 @@ That Committee convenes In Closed Session, from 5:36 PM to 5:43 PM.
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by E. Peloza
 

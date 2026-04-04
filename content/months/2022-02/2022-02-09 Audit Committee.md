@@ -17,7 +17,6 @@ February 9, 2022, at 12:00 PM
 
 The meeting is called to order at 12:00 PM; it being noted that the following were in remote attendance: Councillors M. van Holst, J. Helmer, M. Cassidy, M. Hamou, S. Turner, J. Fyfe-Millar; and L. Higgs.
 
-# 1.&nbsp;&nbsp;&nbsp;Call to Order
 
 ## 1.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
@@ -31,17 +30,14 @@ That Councillor Helmer BE APPOINTED as Vice Chair for the term ending November 1
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Introduction of MNP - Deepak Jaswal, Senior Manager, Enterprise Risk Services, MNP
 
 That it BE NOTED that a verbal presentation from D. Jaswal, Senior Manager, Enterprise Risk Services, MNP, G. Rodrigues, Partner, National Leader, Internal Audit, MNP, J. Barbour, Partner, MNP, and P. Racco, Partner, MNP, with respect to an introduction to Internal Audit Services for the City of London, was received.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Audit Planning Report for the Year Ending December 31, 2021
 
@@ -123,11 +119,9 @@ That the Internal Audit Report from Deloitte with respect to Fleet Allocation an
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 That the meeting BE ADJOURNED.
 

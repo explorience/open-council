@@ -12,6 +12,5 @@ February 6, 2015, at  9:08 AM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, B. Coxhead, S. Datars Bere, J.M. Fleming, P. Foto, K. Graham, N. Hall, A. Hagan, M. Hayward, G. Kotsifas, L. Livingstone, V. McAlea Major, J.P. McGonigle, K. Pawelec, M. Ribera, C. Saunders, C. Smith, J. Stanford
 
-# 2.&nbsp;&nbsp;&nbsp;Strategic Plan -
   Discussion of Strategy
 

@@ -22,11 +22,9 @@ March 30, 2021, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Councillor J. Helmer discloses a pecuniary interest in Item 4.5 of the 6th Report of the Community and Protective Services Committee, having to do with the Capital and Operational Needs of Municipal Golf Courses in London, by indicating that his father is employed by the National Golf Course Owners Association.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;1st Report of the Childcare Advisory Committee
 
@@ -256,7 +254,6 @@ it being noted that a communication, dated March 25, 2021, from S. Levin, Nature
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;London's Housing First Emergency Youth Shelter
 
@@ -279,7 +276,6 @@ That the verbal delegation from T. Gillis, S. Cordes and M. Doucet, Youth Opport
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Update on Housing Issues from Mission Services of London - P. Rozeluk, Mission Services of London - REQUEST FOR DELEGATION STATUS
 
@@ -442,7 +438,6 @@ That the communication from Councillor M. van Holst, as appended to the agenda, 
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -467,7 +462,6 @@ That the Deferred Matters List for the Community and Protective Services Committ
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 5:23 PM.
 ---

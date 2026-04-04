@@ -25,11 +25,9 @@ June 1, 2021, at 12:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by J. Helmer
 
@@ -201,15 +199,12 @@ c)        the Mayor and the City Clerk BE AUTHORIZED to execute any contract
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -233,7 +228,6 @@ That the Civic Works Committee Deferred Matters List as at May 21, 2021, BE RECE
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 12:20 PM.
 ---

@@ -12,7 +12,6 @@ January 8, 2018, at  4:00 PM
 > [!abstract]- Also Present:
 > M. Brown;  M. van Holst, J. Zaifman; I. Abushehada, G. Barrett, M. Corby, A. Dunbar, M. Elmadhoon, M. Feldberg, J.M. Fleming, G. Kotsifas, A. Macpherson, H. McNeely, L. Mottram, N. Pasato, M. Pease, L. Pompilii, C. Saunders, S. Spring, M. Tomazincic, B. Westlake-Power, S. Wise, J. Yanchula, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that the following
@@ -31,7 +30,6 @@ b)           
   London, by indicating that his employer, Dr. C. Mackie, CEO and Medical Officer
   of Health, Middlesex-London Health Unit, is requesting delegation status.
 
-# 2.&nbsp;&nbsp;&nbsp;1st Report  of the
   Advisory Committee on the Environment
 
 That the 1st Report of the Advisory
@@ -56,7 +54,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Properties located
   at 1733 Hamilton Road and 2046 Commissioners Road East - Hajjar Subdivision
   (H-8841)
 
@@ -89,7 +86,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Property located at
   1691 Hamilton Road (H-8859)
 
 That, on the recommendation of the Senior
@@ -120,7 +116,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Edgevalley
   Subdivision (39T-05505)
 
 That, on the recommendation of the Manager,
@@ -174,7 +169,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Summerside
   Subdivision Phase 13A (39T-92020)
 
 That, on the recommendation of the Manager,
@@ -227,7 +221,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Property located at
   7 Annadale Drive (H-8855)
 
 That, on the recommendation of the Managing
@@ -261,7 +254,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Ontario Municipal
   Board (OMB) Reform Bill 139 Potential Regulations
 
 That, the staff report dated January 8,
@@ -287,7 +279,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Property located at
   1843 Frederick Crescent (Z-8836)
 
 That, on the recommendation of the Managing
@@ -382,7 +373,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Property located at
   653 Talbot Street (Z-8808)
 
 That, on the recommendation of the Managing
@@ -498,7 +488,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;1st Report of the
   London Advisory Committee on Heritage
 
 Motion
@@ -519,7 +508,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Notice of Intention
   to Designate - 440 Grey Street
 
 That, on the recommendation of the London
@@ -549,7 +537,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;(ADDED) C. Mackie -
   Middlesex-London Health Unit
 
 That delegation status BE GRANTED to Dr. C.
@@ -574,7 +561,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;(ADDED) 1st Report
   of the Environmental and Ecological Planning Advisory Committee
 
 That the following actions be taken with

@@ -12,10 +12,8 @@ July 22, 2014, at  1:00 PM
 > [!abstract]- Also Present:
 > M. Brown, P. Hubert, W.R. Monteith; A. Zuidema, F. Angeletti, B. Baar, M. Butnik, K. Dawtrey, A. Dunbar, J. Edmunds, J.M. Fleming, A. Hagan, M. Hayward, G.T. Hopcroft, J. Kobarda, V. McAlea Major, M. Ribera, C. Saunders, J. Senese, B. Warner, J. Wills, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
-# 2.&nbsp;&nbsp;&nbsp;Inclusion of London
   Convention Centre Funds in City of London's Investment Portfolio
 
 Motion
@@ -56,7 +54,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Canada Caribbean
   Local Economic Development Program (CARILED)
 
 Motion
@@ -75,7 +72,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Canada Ukraine
   Municipal Local Economic Development Program (MLED Ukraine)
 
 Recommendation:  That, on the
@@ -99,7 +95,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;London's Hosting of
   2014 Association of Municipalities of Ontario (AMO) Annual General Meeting,
   Conference and Trade Show
 
@@ -126,7 +121,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Supplemental
   Assessment Levied by Ontario Municipal Insurance Exchange
 
 Recommendation:  That, on the
@@ -153,7 +147,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Annual Meeting
   Calendar
 
 Recommendation:  That, on the
@@ -187,7 +180,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Request for Support
   for Fanshawe College London Downtown Campus - Phase ll
 
 Recommendation:  Based on the directions of
@@ -235,7 +227,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Apportionment of
   Taxes
 
 Recommendation:  That, on the
@@ -303,7 +294,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Tax Adjustment
   Agenda
 
 Recommendation:  That the recommendations
@@ -369,7 +359,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Appointment to the
   Environmental and Ecological Planning Advisory Committee
 
 Recommendation:  That Christian Tham BE
@@ -393,7 +382,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Appointment to the
   Trees and Forests Advisory Committee
 
 Recommendation:  That Gillian Barker BE

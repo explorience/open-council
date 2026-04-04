@@ -17,7 +17,6 @@ December 3, 2019, at 12:30 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Call to Order
 
 ## 1.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
@@ -44,7 +43,6 @@ That Councillor M. van Holst BE ELECTED Vice-Chair of the Corporate Services Com
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by A. Hopkins
 
@@ -115,11 +113,9 @@ b)     the subject property (“Surplus Lands”) BE TRANSFERRED to the abutt
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Issuance of Proclamations Policy
 
@@ -143,11 +139,9 @@ That the Civic Administration BE DIRECTED to bring forward a report to the Corpo
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by M. van Holst
 
@@ -182,7 +176,6 @@ The Corporate Services Committee convenes, In Closed Session, from 12:38 PM to 1
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 2:16 PM.
 

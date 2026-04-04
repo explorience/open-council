@@ -16,7 +16,6 @@ The Strategic Priorities and Policy Committee
 recesses at 7:05 PM and reconvenes at 7:55 PM with Mayor J.F. Fontana in the
 Chair and all Members present except Councillors J.P. Bryant and S.E. White.
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED
   that:
  
 a)           
@@ -32,7 +31,6 @@ b)           
   do with Council-directed funding to non-profit organizations, by indicating
   that he is the Executive Director of a social services agency.
 
-# 2.&nbsp;&nbsp;&nbsp;Initiation Report -
   2014 Development Charges Background Study and DC By-law Update
 
 Recommendation:  That the following actions
@@ -156,7 +154,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Assessment Growth
   Policy
 
 Recommendation:  That the following
@@ -227,7 +224,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;2013-2017 Operating
   Budget Targets
 
 Recommendation:  That, on the
@@ -594,7 +590,6 @@ Motion Passed
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Strategic Funding
   Framework: City Council Directed Funding to Non-Profit Organizations
 
 Recommendation:  That, on the
@@ -632,7 +627,6 @@ b)         the
   Environmental Services, or their respective written designate, the authority
   to execute the Agreements.
 
-# 6.&nbsp;&nbsp;&nbsp;KPMG - Rationale
   for Continuing your Service Delivery Review Process
 
 The Chair directed that the presentation by
@@ -640,7 +634,6 @@ The Chair directed that the presentation by
   London continuing its Service Delivery Review Process, be postponed to a
   future meeting.
 
-# 7.&nbsp;&nbsp;&nbsp;Southwest Area Plan
   Servicing Strategy and The City's Growth Management Implementation Strategy
   (GMIS)
 
@@ -722,7 +715,6 @@ it being noted that the Strategic
 Motion
   Passed
 
-# 8.&nbsp;&nbsp;&nbsp;3rd Report of the
   Services Review Committee
 
 Recommendation:      That the following
@@ -778,7 +770,6 @@ b)         clauses 2, 3 and 5 BE RECEIVED.
 Motion
   Passed
 
-# 9.&nbsp;&nbsp;&nbsp;Services Review
   Committee Terms of Reference
 
 Recommendation:  That consideration of the
@@ -789,7 +780,6 @@ Recommendation:  That consideration of the
  
 Motion Passed
 
-# 10.&nbsp;&nbsp;&nbsp;London Public
   Library
 
 Recommendation:
@@ -833,7 +823,6 @@ b)           
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Middlesex-London
   Health Unit
 
 Recommendation:  That the communication

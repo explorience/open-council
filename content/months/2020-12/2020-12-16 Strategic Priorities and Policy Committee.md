@@ -18,11 +18,9 @@ December 16, 2020, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Councillor S. Turner discloses a pecuniary interest in item 2.1 having to do with the Mandatory Face Coverings By-law Status Update, by indicating that he is an employee of the Middlesex London Health Unit.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Lehman
 
@@ -206,7 +204,6 @@ That the delegations, as noted on the committee agenda, BE APPROVED to be heard 
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Delegation - Megan Walker, Jessie Rodger and Dani Bartlett - London Coordinating Committee to End Women Abuse
 
@@ -275,7 +272,6 @@ b)      the Civic Administration BE DIRECTED to bring forward the necessary d
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Governance Functional Review - Housing Development Corporation, London (HDC)
 
@@ -362,7 +358,6 @@ c)      Melanated View (Open Tabs) BE AWARDED the 2020 Diversity, Race Relati
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) Protocol London Police Services Business Plan Timelines
 
@@ -395,7 +390,6 @@ That the communication dated November 17, 2020 from Dr. J. Sukhera, Chair, Londo
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 7:50 PM.
 

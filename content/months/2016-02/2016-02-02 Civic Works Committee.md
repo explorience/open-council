@@ -12,13 +12,11 @@ February 2, 2016, at  4:04 PM
 > [!abstract]- Also Present:
 > P. Hubert, T. Park, V. Ridley, P. Squire, J. Zaifman; G. Belch, J. Braam, T. Clayton, T. Copeland, A. Drost, A. Dunbar, J. Fleming, K. Graham, D. Huggins, G. Irwin, S. Koshowski, J. Lucas, A. Macpherson, D. MacRae, S. Maguire, S. Mathers, D. Popodic, M. Ribera, L. Rowe, J. Simon, J. Smout, E. Soldo, J. Stanford, R. Welker, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Gore Road Area
   Project, Braesyde and Dengate Infrastructure Replacement Repeal By-Law 3316
   and Removal of Easement
 
@@ -58,7 +56,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Initiation Report:
   Core Area Servicing Studies
 
 That, on the recommendation of the Managing
@@ -83,7 +80,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Service Level
   Agreement Amendment with London Hydro for Water Meter Reading and Water and
   Sewer Billing
 
@@ -122,7 +118,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Electricity
   Generation from Waste Heat at the Greenway Wastewater Treatment Plant -
   Update
 
@@ -150,7 +145,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;2015 Drinking Water
   Annual Report and Summary Report for the City of London Distribution System
 
 That, on the recommendation of the
@@ -176,7 +170,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;2015 Ministry of
   the Environment and Climate Change Inspection Report for the City of London
   Water Distribution System
 
@@ -204,7 +197,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Locate Services
 
 That, on the recommendation of the Managing
   Director, Environmental and Engineering Services and City Engineer, the
@@ -244,7 +236,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;West London Dyke
   Master Repair Plan Municipal Class Environmental Assessment Study
 
 That, on the recommendation of the Managing
@@ -285,7 +276,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Blackfriars Bridge
   Environmental Study Report
 
 That, on the recommendation of the Managing
@@ -324,7 +314,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;London ON Bikes
   Cycling Master Plan Status Report
 
 That, on the recommendation of the Managing
@@ -351,7 +340,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Field Marshal
   Wolseley Bridge (Quebec Street) Pedestrian Safety
 
 That consideration of the staff report
@@ -377,7 +365,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Contract Award:
   Tender No. 15-101, Sarnia Road Improvements, Wonderland Road North to
   Sleightholme Avenue
 
@@ -438,7 +425,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Comments on
   Environmental Bill of Rights Registry - Proposed Waste Free Ontario Act and
   Draft Strategy for a Waste Free Ontario: Building the Circular Economy
 
@@ -467,7 +453,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Update - Interim
   Waste Diversion Plan (2014-2015) and Additions for 2016
 
 That, on the recommendation of the
@@ -521,7 +506,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Free Parking in
   December Update
 
 That, on the recommendation of the Managing
@@ -548,7 +532,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;1st and 2nd Reports
   of the Cycling Advisory Committee
 
 That the 1st and 2nd Reports of the Cycling
@@ -576,7 +559,6 @@ Motion
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;Donation of Two
   Surplus Parking Meters for Fundraising Purposes
 
 That the request for delegation status from
@@ -602,7 +584,6 @@ Motion
 
 ****
 
-# 19.&nbsp;&nbsp;&nbsp;Springbank Dam
 
 That the following actions be taken with
   respect to the Springbank Dam:
@@ -691,7 +672,6 @@ Motion
 Motion
   to Approve the balance of clause 19.
 
-# 20.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the Civic Works Committee Deferred

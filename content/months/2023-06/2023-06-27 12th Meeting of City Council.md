@@ -17,21 +17,17 @@ June 27, 2023, at  1:00 PM
 
 The meeting is called to order at 1:00 PM; it being noted that Councillors E. Peloza and S. Hillier were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
 None.
 
 At 1:07 PM, Councillor S. Trosow enters the meeting.
 
-# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
 
 > Motion made by P. Cuddy
 
@@ -96,7 +92,6 @@ The Council convenes, In Closed Session, at 1:17 PM, and reconvenes in public se
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
 ## 5.1&nbsp;&nbsp;&nbsp;11th Meeting held on June 6, 2023
 
@@ -131,7 +126,6 @@ That the Minutes of the 11th Meeting held on June 6, 2023, BE APPROVED.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 > Motion made by P. Van Meerbergen
 
@@ -202,11 +196,9 @@ That NO ACTION BE TAKEN with respect to communication 6.1, item 4, as noted on t
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 None.
 
-# 8.&nbsp;&nbsp;&nbsp;Reports
 
 ## 8.1&nbsp;&nbsp;&nbsp;10th Meeting of the Civic Works Committee
 
@@ -3060,7 +3052,6 @@ That the communication dated June 1, 2023 from MNP, entitled PS 3280 - Asset Ret
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 ## 9.1&nbsp;&nbsp;&nbsp;10th Report of Council in Closed Session
 
@@ -3151,19 +3142,15 @@ c)    the Civic Administration BE DIRECTED to report back to the Community and
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-# 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 None.
 
-# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 
 None.
 
-# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 > Motion made by S. Lewis
 
@@ -3432,7 +3419,6 @@ By-law No. S.-6235-149 - A by-law to assume certain works and services in the Ci
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by H. McAlister
 

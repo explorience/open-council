@@ -25,11 +25,9 @@ January 26, 2021, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that Councillor S. Lehman disclosed a pecuniary interest in item 4.2, having to do with appointments to the Downtown London Business Association, by indicating that he is a member of the Association.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;London Community Grants Program Policy Update
 
@@ -144,11 +142,9 @@ That, on the recommendation of the City Manager, the staff report dated January 
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Comparison of Proposed London Hydro Restructuring Options
 
@@ -340,11 +336,9 @@ e)      the communications dated March 15, 2019 and January 4, 2021 from the 
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by P. Squire
 

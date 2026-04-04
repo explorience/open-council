@@ -12,13 +12,11 @@ August 25, 2014, at  7:04 PM
 > [!abstract]- Also Present:
 > S. Orser, H.L. Usher, C. Colvin, S. Datars Bere, S. Giustizia, O. Katolyk, A. Macpherson, P. Sauro, L. Stevens, E. White
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;RFP 14-13 Cat
   Adoption Centre Services Project Source of Funding
 
 Recommendation:  That, on the
@@ -39,7 +37,6 @@ c)         the
   approvals given herein BE CONDITIONAL upon the Corporation entering into a
   formal contract or issuing a purchase order with respect to this project.  (2014-F17/P14)
 
-# 3.&nbsp;&nbsp;&nbsp;Richmond to
   Adelaide Street North Thames Valley Parkway Environmental Assessment Study -
   Appointment of Consulting Engineer
 
@@ -73,7 +70,6 @@ e)         the
   documents, if required, to give effect to these recommendations. 
 (2014-A05)
 
-# 4.&nbsp;&nbsp;&nbsp;Recommendations for
   Proposals Under Investment in Affordable Housing (IAH) Program Year 4 and IAH
   2014 Extension
 
@@ -141,7 +137,6 @@ h)         in
   ii)      authorize the Mayor and the City Clerk to execute the said
   Agreements.  (2014-S11)
 
-# 5.&nbsp;&nbsp;&nbsp;Community-Based
   Ontario Works Service Delivery Plan Update
 
 Recommendation:  That, on the
@@ -150,7 +145,6 @@ Recommendation:  That, on the
   dated August 25, 2014, with respect to an update on the community-based
   Ontario Works Service Delivery Plan BE RECEIVED.  (2014-S04)
 
-# 6.&nbsp;&nbsp;&nbsp;London &
   Middlesex Local Immigration Partnership Strategic Plan 2013-2016 and Update
 
 Recommendation:  That, on the
@@ -177,7 +171,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;9th Report of the
   Animal Welfare Advisory Committee
 
 Recommendation:  That the following actions
@@ -269,7 +262,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;7th Report of the
   Accessibility Advisory Committee
 
 Recommendation:  That the following actions
@@ -300,7 +292,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Westminster Working
   Group - Community Connections Project, Ecological Studies and Conservation
   Master Plan Funding
 
@@ -327,7 +318,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;J. Kukurudiak,
   President, London Taxi Association - Fare Increase Request
 
 Recommendation:  That the communication

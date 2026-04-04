@@ -15,13 +15,11 @@ September 11, 2017, at  4:00 PM
 > [!abstract]- Also Present:
 > M. Brown;  J. Morgan, M. van Holst; I. Abushehada, G. Barrett, M. Corby, K. Dawtrey, L. Dent, A. Dunbar, H. El-Ayoubi, M. Elmadhoon, J.M. Fleming, S. Galloway, K. Gonyou, N. Hall, P. Kokkoros, G. Kotsifas, A. Macpherson, M. Pease, L. Pompilii, M. Ribera, C. Saunders, C. Smith, M. Tomazincic, J. Yanchula, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;9th Report of the
   Trees and Forests Advisory Committee
 
 That the 9th Report of the Trees and
@@ -45,7 +43,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;8th Report of the
   Environmental and Ecological Planning Advisory Committee
 
 That the 8th Report of the Environmental
@@ -69,7 +66,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Bierens (Westfield) Subdivision - Subdivision Special Provision  (39T-08502)
 
 That, on the recommendation of the Senior
@@ -115,7 +111,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;STAFF REPORT - Property
   located at a portion of 1284 and1388 Sunningdale Road West (H-8800)
 
 That, on the recommendation of the Senior
@@ -159,7 +154,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;STAFF REPORT - Property
   located at a portion of 995 Fanshawe Park Road West (H-8811)
 
 That, on the recommendation of the Senior
@@ -196,7 +190,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;STAFF REPORT - Property
   located at 1355 Commissioners Road West (Formerly 1349-1361 Commissioners
   Road West) (H-8782)
 
@@ -227,7 +220,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Silverleaf Subdivision - Subdivision Special Provision (39T-14504)
 
 That, on the recommendation of the Manager,
@@ -281,7 +273,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Building Division Monthly Report - June 2017
 
 That the Building Division Monthly Report
@@ -304,7 +295,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Properties located at 1175, 1185, 1195, 1205, 1215
   Fanshawe Park Road West and 2151 Dalmagarry Road (Z-8776/0-8792)
 
@@ -423,7 +413,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;STAFF REPORT - 
   Conservation Review Board Recommendation - Notice of Intent to Designate 4402
   Colonel Talbot Road
 
@@ -464,7 +453,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;PUBLIC SUBMISSION -
   EMCO Corporation Building- 1108 Dundas Street - Inventory of Heritage
   Resources
 
@@ -489,7 +477,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;(ADDED) DELEGATION
   – Benjamin Vasquez, Vice-Chair, London Advisory Committee on Heritage re 10th
   Report of the London Advisory Committee on Heritage
 
@@ -542,7 +529,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;(ADDED) 8th Report
   of the Advisory Committee on the Environment
 
 That the following actions be taken with

@@ -15,10 +15,8 @@ September 16, 2013, at  3:08 PM
 > [!abstract]- Also Present:
 > J.F. Fontana, J.P. Barber, T. Grawey, G. Kotsifas, B. Krichker, A. MacLean, C. Saunders, M. Tomazincic, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;City-Wide Zoning
   By-law Monitoring Amendments Pertaining to Near-Campus Neighbourhood
   Amendments (Z-8218)
 

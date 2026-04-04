@@ -20,11 +20,9 @@ August 11, 2020, at  4:00 PM
 
 The meeting is called to order at 4:03 PM, by Acting Mayor J. Morgan; it being noted that the following were in remote attendance: Councillors M. van Holst, M. Salih, M. Cassidy, S. Lehman, A. Hopkins, P. Van Meerbergen, S. Turner, E. Peloza, A. Kayabaga.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Lewis
 
@@ -108,11 +106,9 @@ That, on the recommendation of the Managing Director, Environmental and Engineer
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Request for Third Term Appointment to the Greater London International Airport Authority Board of Directors
 
@@ -175,7 +171,6 @@ c)    the Civic Administration BE DIRECTED to remove any barriers that raciali
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ****
 
@@ -208,7 +203,6 @@ That Councillor M. van Holst BE APPOINTED to the Middlesex-London Food Policy Co
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 5:18 PM.
 

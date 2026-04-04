@@ -12,13 +12,11 @@ January 25, 2012, at  7:04 PM
 > [!abstract]- Also Present:
 > M. Brown, D. Henderson, B. Polhill; J. Braam, D. Huggins, L. Marshall, D. O’Brien, R. Paynter, J. Simon, R. Welker, B. Westlake-Power, L. Wilcox
 
-# 1.&nbsp;&nbsp;&nbsp;That Councillor S. White disclosed a
   pecuniary interest in clause 3 of this Report relating to a communication
   from M. Ponti, Pediatrician, with respect to the City’s water fluoridation
   program, by indicating that Ms. Ponti’s communication is on her employer’s
   letterhead.
 
-# 2.&nbsp;&nbsp;&nbsp;Drinking Water
   Fluoridation in London
 
 Recommendation:  That following actions be
@@ -296,7 +294,6 @@ H. Dennison, 3380 Georgeheriot Lane –
        informed consent , you don’t have it, so please stop putting fluoride in
        our water.
 
-# 3.&nbsp;&nbsp;&nbsp;Continuation of the
   City's Water Fluoridation Program
 
 Recommendation: 
@@ -304,14 +301,12 @@ Recommendation: 
   Medical Director, London-Middlesex Children's Aid Society, with respect to
   the continuation of the City’s water fluoridation program, BE RECEIVED.
 
-# 4.&nbsp;&nbsp;&nbsp;Fluoridated Water
   Issue
 
 Recommendation:  That the communication
   dated December 20, 2011, from Pat S., Viscount Road, with respect to the
   fluoridated water issue, BE RECEIVED.
 
-# 5.&nbsp;&nbsp;&nbsp;Support for
   Continuing Water Fluoridation in the City of London
 
 Recommendation:  That the communication
@@ -320,14 +315,12 @@ Recommendation:  That the communication
   Dentistry, University of British Columbia, with respect to support for
   continuing water fluoridation for the City of London, BE RECEIVED.
 
-# 6.&nbsp;&nbsp;&nbsp;Scientific
   Evidence that Water Fluoridation is Dangerous, Unnecessary and Unethical
 
 Recommendation:  That the communication
   dated January 17, 2012, from Barry Wells, 408-109 Cherryhill Circle, with
   respect to the dangers of water fluoridation, BE RECEIVED.
 
-# 7.&nbsp;&nbsp;&nbsp;Water Fluoridation
 
 Recommendation: That the communication
   dated January 19, 2012, from Dr. Gerry Uswak, Dean, College of Dentistry,

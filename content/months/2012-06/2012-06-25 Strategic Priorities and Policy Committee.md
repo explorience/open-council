@@ -15,13 +15,11 @@ June 25, 2012, at  4:05 PM
 > [!abstract]- Also Present:
 > J.P. Barber, G. Barrett, J. Braam, R. Brown, I. Collins, A. Dunbar, E. Gamble, M. Hayward, G.T. Hopcroft, D. O’Brien, L. Palarchio, M. Ribera
 
-# 1.&nbsp;&nbsp;&nbsp;It BE NOTED that Councillor D. Brown
   disclosed a pecuniary interest in clause 2 of the 11th Report of the
   Strategic Priorities and Policy Committee, as it relates to those matters
   pertaining to the London Transit Commission, by indicating that her employer
   has a contract with the London Transit Commission.
 
-# 2.&nbsp;&nbsp;&nbsp;2013-2017 Budget
   Information Report
 
 Recommendation:  That the report dated June
@@ -36,7 +34,6 @@ Recommendation:  That the report dated June
   the City Treasurer, Chief Financial Officer gave the attached
   presentation with respect to this matter.  (2012-F05-00)
 
-# 3.&nbsp;&nbsp;&nbsp;Services Review
   Committee Terms of Reference
 
 Recommendation:  That, on the
@@ -45,7 +42,6 @@ Recommendation:  That, on the
   what amendments, if any, the Municipal Council wishes to make to the terms of
   reference for the Services Review Committee.  (2012-G07-00)
 
-# 4.&nbsp;&nbsp;&nbsp;Town and Gown
   Committee
 
 Recommendation:  That the following BE

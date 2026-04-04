@@ -12,13 +12,11 @@ October 18, 2016, at 12:01 PM
 > [!abstract]- Also Present:
 > M. Salih, M. van Holst, A. Zuidema, A.L. Barbon, L. Bruni, K. Dawtrey, A. Hagan, M. Hayward, J. Kobarda, L. Livingstone, V. McAlea Major, D. Mounteer, D. O’Brien, C. Saunders, J. Saunders (Outside Counsel), S. Spring, B. Warner, T. Wellhauser
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;STAFF REPORT - City
   of London Days - Budweiser Gardens
 
 That, on the recommendation of the City
@@ -45,7 +43,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT - City
   of London Days - Budweiser Gardens - Parkinson Society Southwestern Ontario
 
 That, on the recommendation of the City
@@ -74,7 +71,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Email Access - Council Members' Temporary Contract Assistants
 
 That, on the recommendation of the Managing
@@ -132,7 +128,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Tender 16-84 Irregular Bid for Stronach Arena Dehumidification Lifecycle
   Replacement
 
@@ -175,7 +170,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Tender 16-97 Supply, Delivery and Installation of Steelcase Inc., Tender
   16-98 Supply, Delivery and Installation of Dirtt Wall Systems, Tender 16-99
   Supply, Delivery and Installation of Herman Miller Inc. Irregular Results
@@ -227,7 +221,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Lease Agreement - City and Thames Valley District School Board - London
   Environmental Education Centre Wellington Road Tourist Information Centre
   Location
@@ -286,7 +279,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   2016-2019 Tax Calculator Web Tool
 
 That, on the recommendation of the Managing
@@ -316,7 +308,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;COUNCIL MEMBER
   SUBMISSION - Report of the Federation of Canadian Municipalities Board of
   Directors Meeting - Oakville, ON, September 13-16, 2016
 
@@ -343,7 +334,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;DELEGATION - Mike
   Woods, Chief Operating Officer and Kris Dinel, Chief Business
   Development Officer, Western Fair District
 
@@ -372,7 +362,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;PUBLIC SUBMISSION -
   Request for Delegation Status - Jason Timlick, President, London Professional
   Fire Fighters’ Association
 

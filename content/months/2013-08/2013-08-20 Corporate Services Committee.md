@@ -15,10 +15,8 @@ August 20, 2013, at  1:01 PM
 > [!abstract]- Also Present:
 > S. Orser; S. Axford, J. Braam, R. Gasparetto, A. Hagan, J. Logan, J. Page, C. Saunders, J. Smout, M. Turner, B. Warner, B. Whitelaw
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Sherwood Forest
   Public School
 
 Recommendation:  That the Civic
@@ -47,7 +45,6 @@ b)           
   Policy, should Council decide to proceed with the acquisition of the subject
   property.
 
-# 3.&nbsp;&nbsp;&nbsp;1156 Dundas Street
   - REOI and RFQUAL 13-03 for the Purchase and Re-Adaptive Use of Former
   McCormick Building
 
@@ -76,7 +73,6 @@ d)         investigations
   BACK UPON to Council, if necessary, after the Municipal Council has had an
   opportunity to consider proposals from the proponents noted in b), above.
 
-# 4.&nbsp;&nbsp;&nbsp;RFP 13-06 - Vote
   Tabulation System and Election Software
 
 Recommendation:  That, on the
@@ -101,7 +97,6 @@ d)         approval
   contract or issuing a purchase order relating to the subject matter of this
   approval.
 
-# 5.&nbsp;&nbsp;&nbsp;Amendment to
   Council Policy 3(8) - City of London Days
 
 Recommendation:  That, on the
@@ -115,7 +110,6 @@ Recommendation:  That, on the
   Days in accordance with the City of London’s agreement with the Budweiser
   Gardens.
 
-# 6.&nbsp;&nbsp;&nbsp;Residential Tax
   By-law for New Affordable Housing Program – Project at 205 Commissioners Road
   West
 
@@ -129,7 +123,6 @@ Recommendation:  That, on the
   of the by-law to the Municipal Property Assessment Corporation and the
   secretary of all area school boards.
 
-# 7.&nbsp;&nbsp;&nbsp;Residential Tax
   By-law for Investment in Affordable Housing Program - Project at 1461 Huron
   Street
 
@@ -143,7 +136,6 @@ Recommendation:  That, on the
   give written notice of the by-law to the Municipal Property Assessment
   Corporation and the secretary of all area school boards.
 
-# 8.&nbsp;&nbsp;&nbsp;Development Charge Complaint - 75
   Blackfriars Street
 
 Recommendation:  That the Municipal Council BE ADVISED that after
@@ -182,7 +174,6 @@ Exhibit
   in support of the City’s imposition of development charges for the
   development.
 
-# 9.&nbsp;&nbsp;&nbsp;Resignation from
   the London Diversity and Race Relations Advisory Committee
 
 Recommendation:  That the communication
@@ -190,7 +181,6 @@ Recommendation:  That the communication
   London Diversity and Race Relations Advisory Committee, BE ACCEPTED and Ms.
   Edwards BE THANKED for participating on the Committee.
 
-# 10.&nbsp;&nbsp;&nbsp;Resignation from
   the Environmental and Ecological Planning Advisory Committee
 
 Recommendation:  That the communication
@@ -198,7 +188,6 @@ Recommendation:  That the communication
   and Ecological Planning Advisory Committee, BE ACCEPTED and Dr. Vilks BE
   THANKED for participating on the Committee.
 
-# 11.&nbsp;&nbsp;&nbsp;Resignation from
   the Environmental and Ecological Planning Advisory Committee
 
 Recommendation:  That the communication dated

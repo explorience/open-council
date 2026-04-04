@@ -17,27 +17,21 @@ February 12, 2020, at  9:00 AM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 That the Strategic Priorities and Policy Committee convene, In Closed Session, for the purpose of considering matters pertaining to personal matters about identifiable individuals, including municipal or local board employees.
 
@@ -47,7 +41,6 @@ The Strategic Priorities and Policy Committee convenes, In Closed Session from 9
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 5:16 PM.
 

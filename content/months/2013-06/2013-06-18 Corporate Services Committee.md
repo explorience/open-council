@@ -15,10 +15,8 @@ June 18, 2013, at  1:00 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, G. Belch, J. Brown, A. Dunbar, J. Edward, M. Hayward, V. McAlea Major, D. Mounteer, K. Owen, J. Purser. C. Resendes, C. Saunders, M. Turner, B. Warner
 
-# 1.&nbsp;&nbsp;&nbsp;Recommendation: 
   That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;2013 Facility
   Renewal and Energy Retrofit Program - Phase lV
 
 Recommendation:  That, on the
@@ -62,7 +60,6 @@ ii)   authorize
   the Mayor and the City Clerk to execute the agreement forming Schedule “A” to
   the by-law appended hereto as Appendix “B”.
 
-# 3.&nbsp;&nbsp;&nbsp;Additional Municipal
   Act Reporting Requirements Due to Implementation of Tangible Capital
   Assets
 
@@ -71,7 +68,6 @@ Recommendation:  That, on the
   2013 with respect to additional Municipal Act reporting requirements
   due to implementation of tangible capital assets BE RECEIVED.
 
-# 4.&nbsp;&nbsp;&nbsp;Declare Surplus
   City Owned Land - Untraveled North South Section of Logans Way
 
 Recommendation:  That, on the
@@ -93,7 +89,6 @@ c)         Parts
   3 and 4 of the subject property BE CONVEYED to the abutting owners at fair
   market value.
 
-# 5.&nbsp;&nbsp;&nbsp;RFP12-36 - Records
   Management System
 
 Recommendation:  That, on the
@@ -126,7 +121,6 @@ e)         the
   Sources of Financing BE APPROVED as detailed in Appendix “A” of the
   associated staff report dated June 18, 2013.
 
-# 6.&nbsp;&nbsp;&nbsp;London Health
   Sciences Centre - South Street Campus Decommissioning
 
 Recommendation:  That, on the
@@ -145,7 +139,6 @@ b)           
   to the approval of a), above, authorize the Mayor and the City Clerk to
   execute the Lease Amending Agreement.
 
-# 7.&nbsp;&nbsp;&nbsp;Tax Adjustment
   Agenda
 
 Recommendation: That the recommendations
@@ -154,7 +147,6 @@ Recommendation: That the recommendations
   associated with the Tax Adjustment Agenda, in order to voice his support for
   the tax reduction related to Application No. 2013-53.
 
-# 8.&nbsp;&nbsp;&nbsp;Amendment to Terms
   of Reference - Town and Gown Committee
 
 Recommendation:  That the report dated June
@@ -164,20 +156,17 @@ Recommendation:  That the report dated June
   representation on the TGC is properly balanced and covers the appropriate stakeholders,
   including neighbourhood representation from Ward 13.
 
-# 9.&nbsp;&nbsp;&nbsp;Request to
   Designate the Pride London Festival as a Community Festival
 
 Recommendation: That the 2013 Pride
   London Festival to be held July 26-28, 2013 at Victoria Park BE DESIGNATED as
   a Community Festival in the City of London.
 
-# 10.&nbsp;&nbsp;&nbsp;Appointment to the
   Council Compensation Review Task Force
 
 Recommendation:  That Brian Orr BE
   APPOINTED to the 2013 Council Compensation Review Task Force.
 
-# 11.&nbsp;&nbsp;&nbsp;Appointment to the
   London Diversity and Race Relations Advisory Committee
 
 Recommendation: That Dunia Hamou BE

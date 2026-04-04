@@ -12,7 +12,6 @@ October 7, 2014, at  1:05 PM
 > [!abstract]- Also Present:
 > D.G. Henderson, S. Orser; A. Zuidema, J.P. Barber, P. Christiaans, C. Colvin, A. Dunbar, M. Hayward, T. Landry, V. McAlea Major, C. Saunders, B. Westlake-Power, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that
@@ -21,7 +20,6 @@ Recommendation:  That it BE NOTED that
   indicating that he provides automobile mechanic services for Councillor H.L.
   Usher.
 
-# 2.&nbsp;&nbsp;&nbsp;Amendment to
   Council Policy 28(2) - Council Members’ Expense Account and Mayor’s Expenses
   Policy 28(3)
 
@@ -138,7 +136,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Reserve Funds
   Housekeeping
 
 Recommendation:  That, on the
@@ -223,7 +220,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Report of the
   Federation of Canadian Municipalities Board of Directors Meeting - Saguenay,
   Quebec, September 3-6, 2014
 
@@ -250,7 +246,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Apportionment of
   Taxes
 
 Recommendation:  That, on the
@@ -312,7 +307,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Public
   Participation Meeting - Amendments to Council Procedure By-law
 
 Recommendation:  That the following actions

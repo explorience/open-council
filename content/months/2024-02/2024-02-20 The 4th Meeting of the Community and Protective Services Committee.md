@@ -17,11 +17,9 @@ February 20, 2024, at  1:00 PM
 
 The meeting was called to order at 1:01 PM.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;2nd Report of the Animal Welfare Community Advisory Committee
 
@@ -52,7 +50,6 @@ c)    clauses 1.1, 1.2, 3.1 and 5.3 BE RECEIVED.
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Housekeeping Amendments - Yard and Lot Maintenance By-law - Administrative Monetary Penalty System By-law
 
@@ -123,7 +120,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Regulation of the Display of Graphic Images
 
@@ -181,7 +177,6 @@ Motion to approve:
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) Councillor E. Peloza - Rescheduling of Community and Protective Services Committee Meeting - April 8, 2024
 
@@ -206,7 +201,6 @@ That the Community and Protective Services Committee meeting scheduled for April
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 > Moved by D. Ferreira
 
@@ -233,7 +227,6 @@ The Community and Protective Services Committee convened In Closed Session from 
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 3:34 PM.
 ---

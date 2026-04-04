@@ -12,26 +12,22 @@ July 22, 2013, at  7:00 PM
 > [!abstract]- Also Present:
 > S. Orser, A. Zuidema, J. Barber, A. Barbon, J. Braam, J. Browne, B. Coxhead, S. Daters Bere, S. Giustizia, M. Hayward, J. Jessop, J. Kobarda, L. Livingstone, S. Maguire, V. McAlea Major, D. Mounteer, D. O’Brien, R. Paynter, D. Popadic, C. Smith, E. Soldo, L. Stevens, E. White
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that Councillor D. Brown
   disclosed a pecuniary interest in item 24 of this Report having to do with a
   request for a limousine lifecycle extension, by indicating that her employer
   manages a limousine company.
 
-# 2.&nbsp;&nbsp;&nbsp;7th Report of the
   London Housing Advisory Committee
 
 Recommendation:  That the 7th Report of the
   London Housing Advisory Committee, from its meeting held on June 12, 2013, BE
   RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;5th Report of the
   Community Safety and Crime Prevention Advisory Committee
 
 Recommendation:  That the 5th Report of the
   Community Safety and Crime Prevention Advisory Committee, from its meeting
   held on June 27, 2013, BE RECEIVED.
 
-# 4.&nbsp;&nbsp;&nbsp;Homemakers Program
   Review - Dearness Home
 
 Recommendation:  That, on the
@@ -40,7 +36,6 @@ Recommendation:  That, on the
   implementation of a services and financial program review of the Homemakers
   Program at the Dearness Home BE RECEIVED for information. (2013-S02)
 
-# 5.&nbsp;&nbsp;&nbsp;Physiotherapy
   Services - Dearness Home
 
 Recommendation:  That, on the
@@ -83,7 +78,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Convert-to-Rent/Rehabilitation
   Program Proposal at 1048 Dundas Street East
 
 Recommendation:  That, on the
@@ -132,7 +126,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Convert-to-Rent/Rehabilitation
   Program at 343 Richmond Street (Phase 2)
 
 Recommendation:  That, on the
@@ -181,7 +174,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Local Standards
   Under the Housing Services Act
 
 Recommendation:  That, on the
@@ -210,7 +202,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Ontario Works
   Service Plan 2013-2014
 
 Recommendation:  That, on the
@@ -218,7 +209,6 @@ Recommendation:  That, on the
   Dearness Home, the report dated July 22, 2013 with respect to the Ontario
   Works Service Plan for  2013-2014 BE RECEIVED for information.   (2013-S04)
 
-# 10.&nbsp;&nbsp;&nbsp;Supply and Delivery
   of Fire Services Quint
 
 Recommendation:  That, on the
@@ -245,7 +235,6 @@ d)         the
   formal contract or having a purchase order, or contract record, relating to
   this matter.  (2013-A05)
 
-# 11.&nbsp;&nbsp;&nbsp;School Crossing
   Guard Program – One-Year Contract with Stinson Security Services Limited – Single Source
 
 Recommendation:  That, on the
@@ -285,7 +274,6 @@ d)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations.  (2013-L04)
 
-# 12.&nbsp;&nbsp;&nbsp;Architect to Act as
   Prime Consultant for Addition and Interior Alterations to the South London
   Community Centre – Request for Proposal No. 13-18 Project #P126-RC2751
 
@@ -322,7 +310,6 @@ Recommendation:  That, on the
   Mayor and City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations.  (2013-A05)
 
-# 13.&nbsp;&nbsp;&nbsp;Fire Safety
   Inspections
 
 Recommendation:  That,- outh London Community Centre t dated July 22, 2013,
@@ -349,7 +336,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;6th Report of the
   London Diversity and Race Relations Advisory Committee
 
 Recommendation:  That the following actions
@@ -460,7 +446,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;7th and 8th Reports
   of the Animal Welfare Advisory Committee
 
 Recommendation:  That the following actions
@@ -553,7 +538,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Distracted Driving
   Law: Municipal By-law to Allow Police to Issue Fine and Seize Cell Phone
 
 Recommendation:  That the Mayor BE
@@ -581,7 +565,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;2nd Report of the
   Town and Gown Committee
 
 Recommendation:  That the following actions
@@ -614,7 +597,6 @@ Motion
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;Proposed Dingman
   Dog Off-Leash Area
 
 Recommendation:  That, on the
@@ -654,7 +636,6 @@ Motion
 
 ****
 
-# 19.&nbsp;&nbsp;&nbsp;Automated External
   Defibrillators (AEDS) in City-Owned Facilities
 
 Recommendation:  That, on the
@@ -701,7 +682,6 @@ Motion
 
 ****
 
-# 20.&nbsp;&nbsp;&nbsp;Neighbourhood Watch
   London
 
 Recommendation:  That consideration of the City
@@ -727,7 +707,6 @@ Motion
 
 ****
 
-# 21.&nbsp;&nbsp;&nbsp;Public Notification
   System and Communication Plan for Emergencies
 
 Recommendation:  That, on the
@@ -752,7 +731,6 @@ Motion
 
 ****
 
-# 22.&nbsp;&nbsp;&nbsp;Ten-Year Review – Monitored
   Surveillance Camera Program
 
 Recommendation:  That, on the
@@ -786,7 +764,6 @@ Motion
 
 ****
 
-# 23.&nbsp;&nbsp;&nbsp;A. Balfe, Youth
   Create Healthy Communities – Request for Delegation Status
 
 Recommendation:  That, the following
@@ -819,7 +796,6 @@ Motion
 
 ****
 
-# 24.&nbsp;&nbsp;&nbsp;Request for
   consideration of lifecycle extension for limousines
 
 Recommendation:  That the communication

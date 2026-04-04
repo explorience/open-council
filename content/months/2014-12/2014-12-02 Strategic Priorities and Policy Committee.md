@@ -12,13 +12,11 @@ December 2, 2014, at  4:05 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, J. Braam, B. Coxhead, S. Datars Bere, J.M. Fleming, K. Graham, N. Hall, M. Hayward, G.T. Hopcroft, G. Kotsifas, L. Livingstone, V. McAlea Major, M. Ribera, C. Saunders, S. Spring, B. Westlake-Power, J. Wills
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Council Orientation
 
 Recommendation:  That the attached
   orientation presentations provided by the Senior Leadership Team and the City
@@ -49,7 +47,6 @@ Motion Passed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;(ADDED) Council Orientation
 
 Recommendation:  That the City Clerk BE
   REQUESTED to make the necessary arrangements to invite representatives of our

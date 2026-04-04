@@ -20,23 +20,18 @@ June 5, 2023, at 12:45 PM
 
 The meeting is called to order at 12:45 PM; it being noted that Councillors P. Van Meerbergen and E. Peloza were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Consideration of Appointment to the London Police Services Board
 
@@ -61,7 +56,6 @@ That the London Police Services Board appointment BE CONSIDERED at the Strategic
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by S. Lehman
 
@@ -95,7 +89,6 @@ The Corporate Services Committee convenes In Closed Session from 12:49 PM to 7:2
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by S. Lehman
 

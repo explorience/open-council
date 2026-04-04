@@ -15,7 +15,6 @@ June 11, 2013, at  3:01 PM
 > [!abstract]- Also Present:
 > D. Henderson, P. Hubert, S. Orser, H.L. Usher; A. Zuidema, J.P. Barber, D. Mounteer, C. Saunders, B. Warner
 
-# 1.&nbsp;&nbsp;&nbsp;Recommendation: 
   That it BE NOTED that Councillor J.B. Swan disclosed a pecuniary interest in
   clause C-1 of the Confidential Appendix to this Report having to do with a
   matter pertaining to instructions and directions to officers and employees of
@@ -39,7 +38,6 @@ June 11, 2013, at  3:01 PM
   negotiations carried on or to be carried on by or on behalf of the
   Corporation concerning the proposed acquisition.
 
-# 2.&nbsp;&nbsp;&nbsp;Councillor S. Orser
   - Request for Lawyer - Council Member Indemnification
 
 Recommendation:      That it BE NOTED that
@@ -53,7 +51,6 @@ Recommendation:      That it BE NOTED that
   with his investigation pursuant to s. 239.1 of the Municipal Act, 2001 and
   the Ombudsman Act.
 
-# 3.&nbsp;&nbsp;&nbsp;Councillor B.
   Polhill - Request for Lawyer - Council Member Indemnification
 
 Recommendation:      That it BE NOTED that
@@ -67,7 +64,6 @@ Recommendation:      That it BE NOTED that
   in connection with his investigation pursuant to s. 239.1 of the Municipal
   Act, 2001 and the Ombudsman Act.
 
-# 4.&nbsp;&nbsp;&nbsp;Councillor S. White
   - Request for Lawyer - Council Member Indemnification
 
 Recommendation:      That it BE NOTED that
@@ -81,7 +77,6 @@ Recommendation:      That it BE NOTED that
   Ombudsman in connection with his investigation pursuant to s. 239.1 of the Municipal
   Act, 2001 and the Ombudsman Act.
 
-# 5.&nbsp;&nbsp;&nbsp;Mayor J. F. Fontana
   - Request for Lawyer - Council Member Indemnification
 
 Recommendation:      That it BE NOTED that
@@ -95,7 +90,6 @@ Recommendation:      That it BE NOTED that
   Ombudsman in connection with his investigation pursuant to s. 239.1 of the Municipal
   Act, 2001 and the Ombudsman Act.
 
-# 6.&nbsp;&nbsp;&nbsp;Councillor D.
   Henderson - Request for Lawyer - Council Member Indemnification
 
 Recommendation:      That it BE NOTED that
@@ -109,7 +103,6 @@ Recommendation:      That it BE NOTED that
   Ombudsman in connection with his investigation pursuant to s. 239.1 of the Municipal
   Act, 2001 and the Ombudsman Act.
 
-# 7.&nbsp;&nbsp;&nbsp;ADDED - Councillor J.B. Swan - Request for
   Lawyer - Council Member Indemnification
 
 Recommendation:      That it BE NOTED that

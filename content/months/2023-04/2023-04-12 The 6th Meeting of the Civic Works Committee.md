@@ -20,11 +20,9 @@ April 12, 2023, at 12:00 PM
 
 The meeting was called to order at 12:01 PM.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by P. Cuddy
 
@@ -237,15 +235,12 @@ c)    the Environmental Study Report BE PLACED on the public record for a 30-d
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Councillor S.Trosow - Verbal - Gas-Powered Leaf Blowers 
 
@@ -267,7 +262,6 @@ That it BE NOTED that the Civic Works Committee heard a verbal update from J. St
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 12:47 PM.
 

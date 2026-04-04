@@ -18,7 +18,6 @@ November 24, 2015, at  4:11 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:11 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 Councillor P. Hubert discloses a pecuniary
@@ -65,13 +64,10 @@ Councillor A. Hopkins discloses a pecuniary
   employees of the Corporation, relating to section 106 of the Municipal Act,
   2001, as contained under Part V of the Council Agenda as Item c).
 
-# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Motion Passed
 
@@ -190,15 +186,12 @@ Motion Passed
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;6th Report of the
   London Housing Advisory Committee
 
 That the 6th Report of the London Housing
   Advisory Committee from its meeting held on October 14, 2015 BE RECEIVED.
 
-# IV.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# V.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
 MOTION FOR IN CAMERA SESSION
@@ -241,7 +234,6 @@ The Committee of the Whole rises at 5:23
   PM, and Council reconvenes at 5:30 PM, with Mayor M. Brown in the Chair and
   all Members present, except Councillors S. Turner and H.L. Usher.
 
-# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE TWENTY-NINTH MEETING HELD ON NOVEMBER 10,
   2015
 
@@ -278,7 +270,6 @@ Motion Passed
 
 ****
 
-# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
 > Moved by Councillor M. Salih
@@ -290,10 +281,8 @@ Approve referral of the following communication,
 
 ****
 
-# VIII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# IX.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor P. Squire
 
@@ -301,14 +290,12 @@ Approve clauses 1 to 6, inclusive.
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;10th Report of the London
   Diversity and Race Relations Advisory Committee
 
 That the 10th Report of the London
   Diversity and Race Relations Advisory Committee from its meeting held on
   October 15, 2015 BE RECEIVED.
 
-# 4.&nbsp;&nbsp;&nbsp;6th Report of the
   Accessibility Advisory Committee
 
 That the following actions be taken with
@@ -332,32 +319,27 @@ c)         clauses 1 to 9 and 11, BE
 c)         clauses 1 to 9 and 11, BE
   RECEIVED.
 
-# 5.&nbsp;&nbsp;&nbsp;4th Report of the
   Town and Gown Committee
 
 That the 4th Report of the Town and Gown
   Committee from its meeting held on October 27, 2015 BE RECEIVED.
 
-# 6.&nbsp;&nbsp;&nbsp;7th Report of the
   Animal Welfare Advisory Committee
 
 That the 7th Report of the Animal Welfare
   Advisory Committee from its meeting held on November 5, 2015 BE RECEIVED.
 
-# 7.&nbsp;&nbsp;&nbsp;3rd Report of the
   Childcare Advisory Committee
 
 That the 3rd Report of the Childcare
   Advisory Committee from its meeting held on October 29, 2015 BE RECEIVED.
 
-# 8.&nbsp;&nbsp;&nbsp;5th and 6th Reports
   of Community Safety and Crime Prevention Advisory Committee
 
 That the 5th and 6th Reports from the
   Community Safety and Crime Prevention Advisory Committee from its meetings
   held on November 3 and 6, 2015, respectively, BE RECEIVED.
 
-# 9.&nbsp;&nbsp;&nbsp;Architect to Act as
   Prime Consultant for the New No. 11 Fire Station
 
 That, on the recommendation of the Managing
@@ -395,7 +377,6 @@ d)        the
   Mayor and the City Clerk BE AUTHORIZED to execute a contract or any other
   documents, if required, to give effect to these recommendations.  (2015-A05)
 
-# 10.&nbsp;&nbsp;&nbsp;Assumption
   Agreement Regarding the Transfer of Ownership for the Affordable Housing
   Project at 343 Richmond Street, London (Relates to Bill No. 392)
 
@@ -415,7 +396,6 @@ a)        authorize
 b)         authorize the Mayor and the City
   Clerk to execute the said Agreement.  (2015-L04A)
 
-# 11.&nbsp;&nbsp;&nbsp;Licence Agreement
   Between City of London and Urban Animal Management Inc. (Relates to Bill No.
   393)
 
@@ -436,13 +416,11 @@ b)        authorize
   the Mayor and the City Clerk to execute the said licence Agreement. 
   (2015-L04A/P09)
 
-# 14.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the Community and Protective Services
   Committee (CPSC) Deferred Matters List, as at November 2015, BE RECEIVED.
 
-# 12.&nbsp;&nbsp;&nbsp;Single Source
   Procurement - Municipal Parking Enforcement Service (T 15-38)
 
 That, on the recommendation of the Managing
@@ -487,7 +465,6 @@ Motion Passed
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Radio System Update
   Onevoice 2.0 (Relates to Bill No. 394)
 
 That, on the recommendation of the Managing
@@ -557,15 +534,11 @@ Approve clause 1.
 
 ****
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -988,7 +961,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

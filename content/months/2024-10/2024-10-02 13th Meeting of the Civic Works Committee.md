@@ -20,11 +20,9 @@ October 2, 2024, at  9:30 AM
 
 The meeting was called to order at 9:31 AM.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by D. Ferreira
 
@@ -203,7 +201,6 @@ e)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or ot
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;9th Report of the Environmental Stewardship and Action Community Advisory Committee
 
@@ -263,15 +260,12 @@ it being noted that a verbal delegation from G. Henderson, London Chamber of Com
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 > Moved by D. Ferreira
 
@@ -296,7 +290,6 @@ The Civic Works Committee convened In Closed Session from 10:29 AM to 10:33 AM.
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by J. Pribil
 

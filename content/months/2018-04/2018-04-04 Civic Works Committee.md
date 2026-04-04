@@ -17,11 +17,9 @@ April 4, 2018, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that Councillor V. Ridley disclosed a pecuniary interest in clauses 2.4 and 6.1 of this Report, having to do with the Outcome of Ontario Municipal Greenhouse Gas (GHG) Challenge Fund Applications and a Position, Plan, Procedure, Criteria or Instruction to be Applied to Any Negotiations/Confidential Trade Secret or Scientific, Technical, Commercial or Financial Information Belonging to the City, respectively, by indicating that her spouse works for Union Gas.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by H. Usher
 
@@ -152,11 +150,9 @@ c)            clauses 1.1, 3.2, 3.3, 3.4, 3.5, 3.6, 5.2, 5.3 and 6.1 
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Paratransit
 
@@ -204,7 +200,6 @@ That the communication from R. Millard and M. Ratcliffe with respect to pedestri
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -226,7 +221,6 @@ That the Civic Works Committee Deferred List, as at March 26, 2018, BE RECEIVED.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 ## 6.1&nbsp;&nbsp;&nbsp;Position, Plan, Procedure, Criteria or Instruction to be Applied to Any Negotiations/Confidential Trade Secret or Scientific, Technical, Commercial or Financial Information Belonging to the City
 
@@ -248,7 +242,6 @@ The Civic Works Committee convened in camera from 4:48 PM to 5:22 PM.
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting stood adjourned at 5:22 PM due to a lack of quorum.
 

@@ -12,7 +12,6 @@ October 26, 2015, at  4:04 PM
 > [!abstract]- Also Present:
 > A. Zuidema, R. Armistead, J.P. Barber, J. Braam, S. Datars Bere, J. Fleming, S. Giustizia, K. Graham, A. Hagan, M. Hayward, K. Huner, G. Kotsifas, L. Livingstone, V. McAlea Major, C. Parker, M. Ribera, C. Saunders, C. Smith, J. Smout, L. Stevens, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that Councillor P. Hubert
@@ -22,7 +21,6 @@ That it BE NOTED that Councillor P. Hubert
   divisions, Clean Works, which provides cleaning services in the Downtown
   area.
 
-# 2.&nbsp;&nbsp;&nbsp;Potential Culture
   District in the City of London - Study Terms of Reference
 
 That, on the recommendation of the Managing
@@ -77,7 +75,6 @@ Motion Passed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Remuneration for
   Members of Council - Budgetary Implications of Opting Out of the One-Third
   Tax Exemption
 
@@ -126,7 +123,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Governance Working
   Group Review of Council Compensation Matters
 
 That the staff report dated October 26,
@@ -220,7 +216,6 @@ Motion Passed
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;City of London
   Community Arts Investment Program (CAIP) Policy and Funding Amendment
 
 That, on the recommendation of the Director
@@ -308,7 +303,6 @@ Motion Passed
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Consideration of a
   Request to the London Arts Council to Amend its Membership to Include a
   Council Member
 
@@ -342,7 +336,6 @@ Motion Passed
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Modernizing the
   Municipal Granting Process for Non-Profit Organizations
 
 That, on the recommendation of the Managing
@@ -474,7 +467,6 @@ Motion Passed
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Housing Development
   Corporation, London Incorporation and Initial Corporate Organization
 
 That, on the recommendation of the Managing
@@ -539,7 +531,6 @@ Motion Passed
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;6th Report of the
   Governance Working Group
 
 That the 6th Report of the Governance
@@ -570,7 +561,6 @@ Motion Passed
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Appointment to the
   Outstanding London Ambassador Award Committee
 
 That the following actions be taken with
@@ -695,7 +685,6 @@ Motion Passed
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;London Convention
   Centre Board Appointments
 
 That the following actions be taken with
@@ -738,7 +727,6 @@ Motion Passed
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Creating a Vibrant
   and Competitive Downtown – Downtown London – Request for Funding
 
 That the communication dated September 24,

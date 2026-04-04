@@ -17,11 +17,9 @@ December 17, 2018, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;Future Capital Budget Impacts
 
@@ -55,7 +53,6 @@ That, on the recommendation of the Chief of Police, the report dated December 17
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Tabling of the 2019 Annual Budget Update (Tax Supported, Water and Wastewater and Treatment)
 
@@ -131,7 +128,6 @@ That, on the recommendation of the City Manager, the staff report dated Decembe
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;2019 Development Charges Study - Update on Draft Rates
 
@@ -459,7 +455,6 @@ That Councillors A. Kayabaga and S. Lewis BE APPOINTED to the Tourism Londo
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) Appointments
 
@@ -549,7 +544,6 @@ That S. Lewis BE APPOINTED as a member on the Middlesex-London Food Policy Counc
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 ## 6.1&nbsp;&nbsp;&nbsp;Labour Relations/Employee Negotiations
 
@@ -583,7 +577,6 @@ The Strategic Priorities and Policy Committee convened In Closed Session from 6:
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 6:48 PM.
 

@@ -12,7 +12,6 @@ September 24, 2012, at  4:06 PM
 > [!abstract]- Also Present:
 > J.F. Fontana, S. Orser, H.L. Usher, G. Barrett, S. Bellaire, B. Bergsma, J. Braam, P. Christiaans, M. Corby, B. Debbert, A. Dunbar, M. Elmadhoon, J.M. Fleming, T. Grawey, P. Kokkoros, G. Kotsifas, B. Krichker, J. Leunissen, E. Ling, D. Menard, C. Parker, J. Ramsay, R. Sharpe, J. Shaughnessy, M. Tomazincic
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that:
  
 a)     Councillor B. Polhill
   disclosed a pecuniary interest in clause 20 of this Report having to do with the
@@ -27,14 +26,12 @@ b)     Councillor J.P. Bryant
   Sarnia Road, by indicating that her husband is employed by The University of
   Western Ontario.
 
-# 2.&nbsp;&nbsp;&nbsp;2nd Report of the
   Advisory Committee on the Environment
 
 Recommendation:  That the 2nd Report of the
   Advisory Committee on the Environment from its meeting held on September 5,
   2012, BE RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;Implementation of
   New Trail Standards in Environmentally Significant Areas
 
 Recommendation:  That, on the
@@ -51,7 +48,6 @@ Recommendation:  That, on the
   from G. Smith, Friends of Meadowlily Woods Community Association, with
   respect to this matter.  (2012-E04-00)
 
-# 4.&nbsp;&nbsp;&nbsp;McCormick Area
   Study
    (OZ-7601)
 
@@ -63,7 +59,6 @@ Recommendation:  That, on the
   south and Ashland Avenue and McCormick Boulevard along the east, BE
   RECEIVED. (2012-D07-00)
 
-# 5.&nbsp;&nbsp;&nbsp;Property located at
   995 Fanshawe Park Road West  (39T-05512/H-8089)
 
 Recommendation:  That, on the
@@ -104,7 +99,6 @@ d)         the
   DEFERRED until such time as the easement in favour of the City has been
   removed from these lots.   (2012-D26-04)
 
-# 6.&nbsp;&nbsp;&nbsp;Property located at
   1196 Sunningdale Road West  (39T-05511)
 
 Recommendation:  That, on the
@@ -129,7 +123,6 @@ b)         the
   “Estimated Claims and  Revenues Report” provided as Appendix ‘39T-05511-A’
   to the associated staff report, dated September 24, 2012.   (2012-D26-01)
 
-# 7.&nbsp;&nbsp;&nbsp;Properties located
   at 1284 and 1388 Sunningdale Road West and the Northerly Portion of 1139
   Fanshawe Park Road West   (39T-04510)
 
@@ -156,7 +149,6 @@ b)         the
   Claims and  Revenues Report” provided as Appendix ‘39T-04510-A’ to the associated
   staff report, dated September 24, 2012.  (2012-D26-01)
 
-# 8.&nbsp;&nbsp;&nbsp;Property located at
   1139 Fanshawe Park Road West   (39T-04503)
 
 Recommendation:  That, on the
@@ -181,7 +173,6 @@ b)         the
   “Estimated Claims and  Revenues Report” provided as Appendix ‘39T-04503-A’
   to the associated staff report, dated September 24, 2012. (2012-D26-01)
 
-# 9.&nbsp;&nbsp;&nbsp;Claybar Subdivision
   - Phase 2 (39T-04503-2)
 
 Recommendation:  That, on the
@@ -208,7 +199,6 @@ c)         the
   “Estimated Claims and  Revenues Report” provided as Appendix
   ‘39T-99515-A’ to the associated staff report, dated September 24, 2012. (2012-D26-01)
 
-# 10.&nbsp;&nbsp;&nbsp;Warbler Woods
   Subdivision (39T-04507 and 39T-08506)
 
 Recommendation:  That, on the
@@ -231,7 +221,6 @@ b)         the
   for the Tributary ‘C’ Storm/Drainage and SWM, Transportation and Sanitary
   Servicing Works is accepted and the 30 day review period has expired.   (2012-D26-05)
 
-# 11.&nbsp;&nbsp;&nbsp;Riverbend Meadows
   Phase 3 (39T-10504)
 
 Recommendation:  That, on the
@@ -261,7 +250,6 @@ c)         the
   Report” provided as Appendix ‘39T-99515-A’ and ‘Schedule “B”, to the associated
   staff report, dated September 24, 2012.   (2012-D26-05)
 
-# 12.&nbsp;&nbsp;&nbsp;Fencing Standards in Plans of
   Subdivision
 
 Recommendation:  That, on the
@@ -296,13 +284,11 @@ d)         Sifton
   the cost of replacing the parkland fence installed earlier than the current standard
   practice.   (2012-D26-00)
 
-# 13.&nbsp;&nbsp;&nbsp;Building Division
   Monthly Report for August 2012
 
 Recommendation:  That the Building Division
   Monthly Report for August 2012 BE RECEIVED.  (2012-D05-00)
 
-# 14.&nbsp;&nbsp;&nbsp;2nd Report of the
   London Advisory Committee on Heritage
 
 Recommendation:  That, the following
@@ -396,7 +382,6 @@ it being noted that
   the Planning and Environment Committee heard a verbal presentation from W.
   Kinghorn, Vice-Chair, LACH, with respect to these matters.
 
-# 15.&nbsp;&nbsp;&nbsp;Property located at
   4448 Colonel Talbot Road
 
 Recommendation:  That, on the
@@ -420,7 +405,6 @@ c)         the
   and Revenues Report”, provided as Schedule “B” to the associated staff
   report, dated September 24, 2012.   (2012-D25-00)
 
-# 16.&nbsp;&nbsp;&nbsp;Property located at
   1461 Huron Street
 
 Recommendation:  That, on the
@@ -458,7 +442,6 @@ it being pointed
   receive a report from the Civic Administration with respect to the removal of
   the holding provisions.
 
-# 17.&nbsp;&nbsp;&nbsp;Properties located
   at 707 & 711 Waterloo Street (Z-8038)
 
 Recommendation:  That, on the
@@ -491,7 +474,6 @@ it being pointed
   are expected by Montessori; and advising that the school supports the Civic
   Administration’s recommendation.  (2012-D11-02)
 
-# 18.&nbsp;&nbsp;&nbsp;Property located at
   299 King Street (TZ-8066)
 
 Recommendation:  That, on the
@@ -531,7 +513,6 @@ it being pointed out that there were no
   oral submissions made at the public  participation meeting associated with
   this matter.   (2012-D11-05)
 
-# 19.&nbsp;&nbsp;&nbsp;Property located at
   4551 Wellington Road South (OZ-7319)
 
 Recommendation:  That, the following
@@ -658,7 +639,6 @@ it being pointed
   and no impact to the creek if it floods; and requesting the OS4 Zone, as it
   allows for the parking of the transport trailers on the property.   (2012-D11-03)
 
-# 20.&nbsp;&nbsp;&nbsp;Property located at
   260 Sarnia Road (Z-8075)
 
 Recommendation:  That, notwithstanding the
@@ -730,7 +710,6 @@ it
   the problems associated with this property were raised before his clients’
   ownership of the property.   (2012-D11-07)
 
-# 21.&nbsp;&nbsp;&nbsp;Property located at
   754 Maitland Street (Z-8065)
 
 Recommendation:  That, notwithstanding the
@@ -786,7 +765,6 @@ it
   Kaplansky, applicant – advising that there were two houses for sale and the
   deal was jeopardized.   (2012-D11-04)
 
-# 22.&nbsp;&nbsp;&nbsp;Residential
   Intensification in Flood Plains in the City of London
 
 Recommendation:  That the communication,
@@ -796,7 +774,6 @@ Recommendation:  That the communication,
   Committee recommendation relating to residential intensification in flood
   plains in the City of London, BE RECEIVED.  (2012-E07-00)
 
-# 23.&nbsp;&nbsp;&nbsp;Property located at
   199 Queens Avenue
 
 Recommendation:  That, notwithstanding the
@@ -909,7 +886,6 @@ it
   Kaplansky, 599 Maitland Street – advising that for the future of economic
   prosperity, you need to give up some history.  (2012-D10-00/D13-00)
 
-# 24.&nbsp;&nbsp;&nbsp;Local Renewable
   Electricity Generation Projects Seeking Ontario Feed-In Tariff Contracts
 
 Recommendation:  That, on the
@@ -1007,7 +983,6 @@ e)         the
   Standing Committee.  
   (2012-W12-00)
 
-# 25.&nbsp;&nbsp;&nbsp;Request for
   Neighbourhood Plan - Oxford Park
 
 Recommendation:  That the communication,
@@ -1016,7 +991,6 @@ Recommendation:  That the communication,
   REFERRED to the Civic Administration to determine the placement of the
   request in the Planning Department Work Program.  (2012-D20-00)
 
-# 26.&nbsp;&nbsp;&nbsp;Crestwood
   Subdivision - Phase 2
 
 Recommendation:  That the delegation
@@ -1025,7 +999,6 @@ Recommendation:  That the delegation
   Environment Committee meeting; it being noted that the Civic Administration
   will prepare a report with respect to this matter.   (2012-D11-07)
 
-# 27.&nbsp;&nbsp;&nbsp;Special Meeting – Proposed Methadone Clinic
   – 425 Wharncliffe Road South
 
 Pursuant to Section

@@ -15,10 +15,8 @@ September 27, 2012, at  3:35 PM
 > [!abstract]- Also Present:
 > S. Bahm, G. Bridge, S. Gillfilan (PwC), M. Hayward, G. Kotsifas, L. Loubert, I. Sadler (PwC), C. Shah (PwC), S. Stafford, S. Swance, M. Turner, B. Whitelaw
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Engagement of PricewaterhouseCoopers
   for Advisory Services
 
 Recommendation:  That, on the
@@ -29,7 +27,6 @@ Recommendation:  That, on the
   by the Finance Division to provide advisory services to the JD Edwards
   Upgrade Project.
 
-# 3.&nbsp;&nbsp;&nbsp;Municipal
   Performance Measurement Program (MPMP) Three Year Comparative Values 2009 -
   2011
 
@@ -38,7 +35,6 @@ Recommendation:  That, on the
   2012 outlining the MPMP comparative measures for the three years ending
   December 31, 2009, 2010 and 2011, BE RECEIVED for information.
 
-# 4.&nbsp;&nbsp;&nbsp;Quarterly Report on
   Internal Audit Results
 
 Recommendation:  That the following actions

@@ -17,11 +17,9 @@ May 31, 2021, at  4:00 PM
 
 The meeting is called to order at 4:00 PM, with Councillor P. Squire in the Chair, Councillor S. Lewis present and all other Members participating by remote attendance
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Lewis
 
@@ -141,7 +139,6 @@ That the 4th Report of the Environmental and Ecological Planning Advisory Commit
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;349 Southdale Road East - (Z-9308 / 39CD-20501)
 
@@ -1218,7 +1215,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;5th Report of the London Advisory Committee on Heritage
 
@@ -1446,7 +1442,6 @@ d)  clauses 1.1, 2.1, 3.1 and 3.2, inclusive,  and 4.1 BE RECEIVED for informa
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -1528,7 +1523,6 @@ e)        clauses 1.1, 2.1 and 2.2, inclusive, 4.1, 4.2 and 4.4, BE RECEIVED
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 8:40 PM.
 ---

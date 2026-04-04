@@ -18,7 +18,6 @@ September 30, 2014, at  4:02 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:02 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 Councillor W.R. Monteith discloses a
@@ -33,21 +32,16 @@ Councillor J.P. Bryant discloses a
   Heritage Report, as it relates to the property located at 317 Hyman Street,
   by indicating that her residence is in close proximity.
 
-# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
-# V.&nbsp;&nbsp;&nbsp;RECOGNITIONS, continued
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# IV.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
 MOTION FOR IN CAMERA SESSION
@@ -84,7 +78,6 @@ Motion Passed
 
 ****
 
-# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE TWENTY-SECOND MEETING HELD ON SEPTEMBER 16,
   2014
 
@@ -121,7 +114,6 @@ Motion Passed
 
 ****
 
-# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
 > Moved by Councillor B. Polhill
@@ -133,7 +125,6 @@ Approve receipt and referral of the
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Single Source
   Supply and Delivery of Motorized Riding Golf Carts
 
 That consideration of the report dated
@@ -141,7 +132,6 @@ That consideration of the report dated
   with respect to the single source supply and delivery of motorized riding
   golf carts, BE DEFERRED to a meeting in the next Council year.   (2014-F17)
 
-# 4.&nbsp;&nbsp;&nbsp;Investment in
   Affordable Housing for Ontario (2014 Extension) - Approval of Administration
   Agreement
 
@@ -158,7 +148,6 @@ a)         authorize
 b)         authorize the Mayor and the City
   Clerk to execute the said Agreement.  (2014-L04A)
 
-# 5.&nbsp;&nbsp;&nbsp;8th Report of the
   London Housing Advisory Committee
 
 That, on the recommendation of the London
@@ -173,7 +162,6 @@ a)          the
  
 b)         clauses 2 to 6 BE RECEIVED.
 
-# 6.&nbsp;&nbsp;&nbsp;Review of Noise
   Exemption Permits
 
 That the communication from Councillor D.
@@ -181,10 +169,8 @@ That the communication from Councillor D.
   Permits on Sunday nights, BE REFERRED to the Civic Administration for a
   report back in 2015.   (2014-M04A)
 
-# VIII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# IX.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor J.P. Bryant
 
@@ -192,7 +178,6 @@ Approve clauses 1 to 6.
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;At 6:20 PM Her
   Worship the Mayor and the Municipal Council recognize of City of London
   employees who have achieved 25 years of service during 2014 including:
  
@@ -250,7 +235,6 @@ Diana Van Belois
 Sue White
 Ulrike Williams
 
-# 7.&nbsp;&nbsp;&nbsp;By-law Amendments
   for Expanded Animal Welfare Initiatives
 
 That the following actions be taken to
@@ -371,7 +355,6 @@ Motion Passed
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Property located at
   1959 Mallard Road (Z-8377)
 
 That, on the recommendation of the Managing
@@ -388,7 +371,6 @@ it being pointed out that there were no
   oral submissions made at the public participation meeting associated with
   these matters.   (2014-D14)
 
-# 9.&nbsp;&nbsp;&nbsp;Sanitary Sewage
   Servicing Policies for Southwest London (O-7971)
 
 That, on the recommendation of the Managing
@@ -426,7 +408,6 @@ it being pointed out that there were no
   oral submissions made at the public participation meeting associated with
   this matter.   (2014-D08)
 
-# 10.&nbsp;&nbsp;&nbsp;Properties located
   on part of 3080 Bostwick Road and 491 and 499 Southdale Road West (Z-8386)
 
 That, on the recommendation of the Managing
@@ -460,7 +441,6 @@ it being further pointed out that at the
   indicated on the attached public participation meeting record made an
   oral submission in connection therewith.    (2014-D14)
 
-# 12.&nbsp;&nbsp;&nbsp;Properties located
   at 321 Central Avenue and 585 and 581 Waterloo Street (OZ-8371)
 
 That, on the recommendation of the Managing
@@ -595,7 +575,6 @@ it
   public participation meeting record made oral submissions in connection
   therewith.   (2014-D14)
 
-# 13.&nbsp;&nbsp;&nbsp;Properties located
   at 471-473 Elizabeth Street
 
 That, on the recommendation of the Managing
@@ -609,7 +588,6 @@ it being pointed out that there were no
   oral submissions made at the public participation meeting associated with
   this matter.   (2014-P10D)
 
-# 15.&nbsp;&nbsp;&nbsp;Industrial Land
   Review: Recommended Urban Growth Boundary Expansion for Future Industrial
   Growth and Official Plan Amendment (O-8014)
 
@@ -658,7 +636,6 @@ it being further pointed out that at the
   indicated on the attached public participation meeting record made an
   oral submission in connection therewith.    (2014-D08)
 
-# 17.&nbsp;&nbsp;&nbsp;Application of
   Bonusing Regulations
 
 That, the Civic Administration BE REQUESTED
@@ -667,7 +644,6 @@ That, the Civic Administration BE REQUESTED
   bonusing has been applied at the next Planning and Environment Committee
   meeting.  (2014-F21)
 
-# 18.&nbsp;&nbsp;&nbsp;Regulations
   Limiting Greenhouses
 
 That, the Civic Administration BE REQUESTED
@@ -699,7 +675,6 @@ Motion Passed
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Property located at
   1300 Fanshawe Park Road East (OZ-8358)
 
 That, the application of 1849259 Ontario
@@ -819,7 +794,6 @@ Motion Passed
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Blackfriars/Petersville
   Official Plan/Zoning Study (OZ-8373)
 
 > Moved by Councillor B. Polhill
@@ -874,7 +848,6 @@ Approve clause 1, and clauses 3 to 6.
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Property located at
   2118 Richmond Street (OZ-7890)
 
 > Moved by Councillor B. Polhill
@@ -1275,15 +1248,11 @@ Motion Passed
 
 ****
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -1384,7 +1353,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

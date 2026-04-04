@@ -17,11 +17,9 @@ October 8, 2024, at  1:00 PM
 
 The meeting is called to order at 1:00 PM; it being noted that Councillors S. Trosow, P. Van Meerbergen and S. Hillier were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by P. Cuddy
 
@@ -83,7 +81,6 @@ b)  clauses 1.1, 3.2 and 4.1 BE RECEIVED.
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Delegation - Kapil Lakhotia, President and Chief Executive Officer - London Economic Development Corporation
 
@@ -613,7 +610,6 @@ That pursuant to section 33.8 of the Council Procedure By-law, the Strategic Pri
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Whole of Community System Response - Evaluation Framework Reporting Template
 
@@ -753,7 +749,6 @@ That N. Lippay and L. Heffernan BE APPOINTED to the Animal Welfare Community Adv
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) Standing Committees and Realignment to Committee Mandates
 
@@ -786,7 +781,6 @@ That it BE NOTED that the Strategic Priorities and Policy Committee received a c
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by A. Hopkins
 
@@ -823,7 +817,6 @@ The Strategic Priorities and Policy Committee convenes In Closed Session from 6:
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by S. Stevenson
 

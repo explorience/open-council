@@ -12,7 +12,6 @@ November 24, 2015, at  3:17 PM
 > [!abstract]- Also Present:
 > J. Helmer, T. Park, V. Ridley, M. van Holst; A. Zuidema, J.P. Barber, M. Hayward, V. McAlea Major, C. Saunders, J. Smout
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary

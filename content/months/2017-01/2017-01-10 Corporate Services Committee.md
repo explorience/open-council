@@ -12,7 +12,6 @@ January 10, 2017, at 12:00 PM
 > [!abstract]- Also Present:
 > M. van Holst; A.L. Barbon, L. Burgess, S. Corman, B. Coxhead, K. Graham, M. Hayward, L. Kolodiazny, L. Livingstone, J. Logan, V. McAlea Major, D. Mounteer, K. Murray, J. Nolan, D. O’Brien, J. Rodrigues, C. Saunders, K. Scherr, S. Spring, A. Thompson, D. Thompson, B. Warner, T. Wellhauser
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that the following pecuniary
@@ -51,7 +50,6 @@ b)           
   Committee, by indicating that one of the candidates is a close friend and
   also provides her family with babysitting services from time to time.
 
-# 2.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Proposed Election Sign By-law
 
 That the proposed by-law included as
@@ -80,7 +78,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   RFP16-52 Microsoft Dynamics CRM Implementation Partner 2017 – 2019
 
 That, on the recommendation of the Managing
@@ -137,7 +134,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT - Biannual
   Meetings with MPs and MPPs - Proposal and Update
 
 That, on the recommendation of the Director
@@ -161,7 +157,6 @@ Motion Passed
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;STAFF REPORT - City
   of London Representation on Various Municipal Associations
 
 That, on the recommendation of the
@@ -187,7 +182,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Corporate Asset Management Plan 2016 Review
 
 That, on the recommendation of the Managing
@@ -214,7 +208,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Assessment Growth for 2017, Changes in Taxable Phase-In Values, and Shifts in
   Taxation as a Result of Reassessment
 
@@ -242,7 +235,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Provincial Dedicated Gas Tax Funds for Public Transportation Program
 
 That, on the recommendation of the Managing
@@ -272,7 +264,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;COUNCILLOR
   SUBMISSION - Report of the Federation of Canadian Municipalities Board of
   Directors Meeting - Ottawa, ON, November 21-25, 2016
 
@@ -299,7 +290,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;PUBLIC PARTICIPATION MEETING - Review of
   City of London Ward Boundaries
 
 That the City Clerk BE DIRECTED to report
@@ -386,7 +376,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Agricultural Advisory Committee
 
 That Louise Hollingsworth BE APPOINTED to
@@ -410,7 +399,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;PUBLIC SUBMISSION -
   Forest City Beer Fest Winter Pop Up - Request for Designation as a
   Municipally Significant Event
 
@@ -437,7 +425,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;ADDED - STAFF
   REPORT - Leasehold Improvements Update - Citi Plaza 355 Wellington Street
 
 That, on the recommendation of the Managing
@@ -480,7 +467,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;ADDED - COUNCIL
   MEMBER SUBMISSION - Holocaust Remembrance Day Banners
 
 That the City Clerk BE AUTHORIZED to make

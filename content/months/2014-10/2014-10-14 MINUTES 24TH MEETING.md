@@ -18,7 +18,6 @@ October 14, 2014, at  5:04 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 5:04 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 Councillor P. Hubert discloses a pecuniary
@@ -37,21 +36,16 @@ Councillor J.B. Swan discloses a pecuniary
   site, by indicating that he is employed by Orchestra London, which has an
   interest in a performing arts centre.
 
-# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED no pecuniary interests
   were disclosed.
 
-# V.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# 2.&nbsp;&nbsp;&nbsp;Internal and
   External Audit Services
 
 That, on the recommendation of the Managing
@@ -68,7 +62,6 @@ b)         the
   it would recommend to Municipal Council to be undertaken to retain future
   external and internal audit services.
 
-# IV.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
 MOTION FOR IN CAMERA SESSION
@@ -108,7 +101,6 @@ Motion Passed
 
 ****
 
-# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE TWENTY-THIRD MEETING HELD ON SEPTEMBER 30,
   2014
 
@@ -145,7 +137,6 @@ Motion Passed
 
 ****
 
-# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
 > Moved by Councillor S.E. White
@@ -157,7 +148,6 @@ Approve receipt and referral of Communication
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Municipal
   Performance Measurement Program (MPMP) Three-Year Comparative Values
   2011-2013
 
@@ -226,10 +216,8 @@ Motion Passed
 
 ****
 
-# VIII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# IX.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor H.L. Usher
 
@@ -237,7 +225,6 @@ Approve clauses 1 to 10, excluding clause 6.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Report of the
   Federation of Canadian Municipalities Board of Directors Meeting - Saguenay,
   Quebec, September 3-6, 2014
 
@@ -246,7 +233,6 @@ That the communication dated September 16,
   Federation of Canadian Municipalities Board of Directors meeting held on
   September 3-6, 2014 in Saguenay, Quebec BE RECEIVED for information.
 
-# 5.&nbsp;&nbsp;&nbsp;Apportionment of
   Taxes
 
 That, on the recommendation of the Deputy
@@ -257,7 +243,6 @@ That, on the recommendation of the Deputy
   at the public hearing associated with this matter, to speak before the
   Corporate Services Committee.
 
-# 7.&nbsp;&nbsp;&nbsp;Taxicab and
   Limousine Licensing By-law Fare Review
 
 That, on the recommendation of the Managing
@@ -291,7 +276,6 @@ Motion Passed
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Properties located
   at 3718, 3766 and 3812 Dingman Drive and 437 Exeter Road (39T-06504)
 
 That, on the recommendation of the Managing
@@ -322,7 +306,6 @@ c)         the
   Industrial” to “Urban Reserve Community Growth” (City of London file O-8362)
   comes into force and effect.  (2014-D12)
 
-# 9.&nbsp;&nbsp;&nbsp;Properties located
   at 55 and 60 Chalkstone Drive (39T-06508)
 
 That, on the recommendation of the Managing
@@ -351,7 +334,6 @@ c)         the
   Industrial” to “Urban Reserve Community Growth” (City of London file O-8362)
   comes into force and effect.  (2014-D12)
 
-# 10.&nbsp;&nbsp;&nbsp;Properties located
   at 3854 Dingman Drive and 4112-4432 White Oak Road (39T-05513)
 
 That, on the recommendation of the Managing
@@ -383,7 +365,6 @@ c)         the
   Industrial” to “Urban Reserve Community Growth” (City of London file O-8362)
   comes into force and effect.  (2014-D12)
 
-# 6.&nbsp;&nbsp;&nbsp;Properties located at 51 and 99 Exeter Road
   (OZ-8324)
 
 That, on the recommendation
@@ -553,7 +534,6 @@ Council Hubert advises that the Committee
   of the Whole made progress with respect to the two matters for which it went
   in camera.
 
-# 11.&nbsp;&nbsp;&nbsp;Parking Section
   4.19 of the Z.-1 By-law and Amendments to the Site Plan Control Area By-law
   (Z-8331)
 
@@ -583,7 +563,6 @@ it being pointed out that there were no
   oral submissions made at the public participation meeting associated with
   this matter.  (2014-C01)
 
-# 12.&nbsp;&nbsp;&nbsp;Old Victoria
   Hospital Lands Zoning Study (Z-8344)
 
 That, on the recommendation of the Managing
@@ -635,7 +614,6 @@ it being pointed out that at the public
   indicated on the attached public participation meeting record made oral
   submissions in connection therewith.  (2014-D14)
 
-# 14.&nbsp;&nbsp;&nbsp;Properties located
   at 1643, 1649 and 1653 Richmond Street (OZ-8310)
 
 That, on the recommendation of the Managing
@@ -691,7 +669,6 @@ it being pointed out that at the public
   indicated on the attached public participation record made oral submissions
   in connection therewith.  (2014-D14)
 
-# 15.&nbsp;&nbsp;&nbsp;Property located at
   175 Fanshawe Park Road West (Z-8397)
 
 That the following actions be taken with
@@ -738,7 +715,6 @@ it being pointed out that at the public
   McGarrell Dr. Unit #2, made the attached submission in connection therewith. 
   (2014-D14)
 
-# 16.&nbsp;&nbsp;&nbsp;Property located at
   7 Annadale Drive (Z-8334)
 
 That, on the recommendation of the Managing
@@ -821,7 +797,6 @@ it being further pointed out that there
   were no oral submissions made at the public participation meeting associated
   with this matter;  (2014-D14)
 
-# 18.&nbsp;&nbsp;&nbsp;Properties located
   at 510 Central Avenue and 609 William Street (Z-8141)
 
 That the application of 2353034 Ontario
@@ -853,14 +828,12 @@ it being pointed out that at the public
   indicated on the attached public participation meeting record made oral
   submissions in connection therewith. (2014-D14)
 
-# 19.&nbsp;&nbsp;&nbsp;Bonusing
   Regulations
 
 That the attached presentation from the
   Managing Director, Planning and City Planner, with respect to the application
   of bonusing regulations, BE RECEIVED.
 
-# 20.&nbsp;&nbsp;&nbsp;Property located at
   1040 Coronation Drive (H-8376)
 
 That, on the recommendation of the Managing
@@ -898,7 +871,6 @@ Motion Passed
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Property located at
   946 Longworth Road (Z-8293)
 
 That, on the recommendation of the Managing
@@ -944,7 +916,6 @@ Motion Passed
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;Property located at
   50 King Street (Z-8372)
 
 That the application by the Corporation of
@@ -1032,10 +1003,8 @@ Approve clauses 1,2, 4, 6, and 7.
 
 ****
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
 Councillor D.G. Henderson enquires about
   the potential for the installation of a cenotaph in the west-end of
@@ -1107,10 +1076,8 @@ Motion Passed
 
 ****
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -1289,7 +1256,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

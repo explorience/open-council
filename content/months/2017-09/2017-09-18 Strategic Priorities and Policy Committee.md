@@ -12,7 +12,6 @@ September 18, 2017, at  4:02 PM
 > [!abstract]- Also Present:
 > M. Hayward, A.L. Barbon, G. Barrett, B. Card, I. Collins, B. Coxhead, S. Datars Bere, K. Dickins, A. Dunbar, J.M. Fleming, T. Gaffney, C. Jaimes, G. Kotsifas, L. Livingstone, M. Marcellin, H. McNeely, J. Ramsay, A. Rosebrugh, C. Saunders, J. Smit, C. Smith, E. Soldo, S. Spring, S. Stafford, J. Tansley, A. Thompson, R. Wilcox
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that the following
@@ -34,7 +33,6 @@ b)           
   an appointment to the UWO’s Board of Governors by indicating that he is
   employed by UWO.
 
-# 2.&nbsp;&nbsp;&nbsp;London Community
   Grants Program Innovation and Capital Funding Allocations (2018)
 
 That the following actions be taken with
@@ -99,7 +97,6 @@ Motion Passed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Service Review
   Initiatives 2017 Update
 
 That, on the recommendation of the City
@@ -130,7 +127,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;2019 JUNO Week Bid
 
 That, on the recommendation of the General
   Manager of Tourism London and the Director of Culture and Entertainment
@@ -168,7 +164,6 @@ Motion Passed
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Dr. Christopher
   Mackie, Medical Officer of Health & CEO, Middlesex-London Health Unit re
   Opioid Crisis in London
 
@@ -238,7 +233,6 @@ Motion Passed
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Amendments to
   Consolidated Fees and Charges By-law
 
 That, on the recommendation of the City
@@ -325,7 +319,6 @@ Motion Passed
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Shift Rapid Transit
   Environmental Assessment Project Management Plan, Communications Plan and
   Consulting Fees Amendment
 
@@ -440,7 +433,6 @@ Motion Passed
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;4th Report of the
   Governance Working Group
 
 That the following actions be taken with
@@ -652,7 +644,6 @@ Motion Passed
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;5th Report of the
   Governance Working Group
 
 That the following actions be taken with
@@ -733,7 +724,6 @@ Motion Passed
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Request for a
   Second Term Appointment to the Greater London International Airport
   Authority Board of Directors - Bill Graham
 
@@ -764,7 +754,6 @@ Motion Passed
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Request for a
   Second Term Appointment to the University of Western Ontario's Board of
   Governors - Michael Lerner
 
@@ -793,7 +782,6 @@ Motion Passed
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Request for 1 Year
   Reappointment to the Lower Thames Valley Conservation Authority - Stan
   Caveney
 
@@ -824,7 +812,6 @@ Motion Passed
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Request for 1 Year
   Reappointment to the Kettle Creek Conservation Authority - Councillor J.
   Zaifman, Bill Mackie and Ralph Winfield
 
@@ -859,7 +846,6 @@ Motion Passed
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Request for 1 Year
   Reappointment to the Upper Thames River Conservation Authority - Councillor
   A. Hopkins, Marie Blosh, Sandy Levin and Murray Blackie
 
@@ -895,7 +881,6 @@ Motion Passed
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Establishment of
   Working Group - Strengthening Relationships with Indigenous Peoples
 
 That a Working Group comprised of Members
@@ -928,7 +913,6 @@ Motion Passed
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Amazon HQ2 Request
   for Proposal
 
 That the Civic Administration BE REQUESTED

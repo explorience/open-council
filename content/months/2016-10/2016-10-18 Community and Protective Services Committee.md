@@ -12,13 +12,11 @@ October 18, 2016, at  4:02 PM
 > [!abstract]- Also Present:
 > M. van Holst, J. Helmer, P. Squire; H. Chapman, B. Coxhead, S. Datars Bere, M. Espinoza, S. Giustizia, A. Khan, G. Kotsifas, L. Livingstone, V. McAlea Major, A. Prince, J. Richardson, S. Spring, B. Warner
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;9th Report of the
   Accessibility Advisory Committee
 
 That the 9th Report of the Accessibility
@@ -41,7 +39,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;3rd Report of the
   Town and Gown Committee
 
 That the following actions be taken with
@@ -80,7 +77,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;8th Report of
   London Housing Advisory Committee
 
 That the 8th Report of the London Housing
@@ -103,7 +99,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;9th Report of the
   London Diversity and Race Relations Advisory Committee
 
 That the following actions be taken with
@@ -153,7 +148,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;5th Report of the
   Community Safety and Crime Prevention Advisory Committee
 
 That the following actions be taken with
@@ -230,7 +224,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;10th Report of the
   Animal Welfare Advisory Committee
 
 That the 10th Report of the Animal Welfare
@@ -253,7 +246,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   London's Homelessness Prevention System Enumeration Results and London's
   Emergency Shelters Progress Report - 2011-2015
 
@@ -279,7 +271,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;STAFF REPORT - 
   Recommendations for Construction-Ready Proposals Under the Investment in
   Affordable Housing for Ontario 2016 Social Infrastructure Fund
 
@@ -349,7 +340,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;STAFF REPORT - City
   of London Cat Adoption Centre
 
 That, on the recommendation of the Managing
@@ -383,7 +373,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;DELEGATION - Brian
   Meehan, Executive Director, Museum London - Share New Innovations or Ways to
   Improve Collaboration with Council
 
@@ -408,7 +397,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;PUBLIC SUBMISSION -
   Petition - "Nature Restoration Site" Berkshire Court
 
 That the following actions be taken with
@@ -442,7 +430,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;REQUEST FOR
   DELEGATION - M. Tahir, London Youth Advisory Council - London Transit
   Commission Discounted Buss Pass Petition and Plan
 
@@ -468,7 +455,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;PUBLIC SUBMISSION -
   I. Mathyssen, Member of Parliament for London-Fanshawe - Poverty Reduction
   Strategies in Canada.
 
@@ -549,7 +535,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;ADDED – Workplace Diversity
 
 That the following actions be taken with
   respect to workforce diversity:

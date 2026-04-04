@@ -15,13 +15,11 @@ April 26, 2016, at 12:11 PM
 > [!abstract]- Also Present:
 > J. Helmer, A. Hopkins, T. Park, M. Salih, M. van Holst; A. Zuidema, R. Armistead, A.L. Barbon, J. Braam, A. Dunbar, P. Foto, K. Graham, N. Hall, M. Hayward, J. Logan, V. McAlea Major, D. Mounteer, M. Ribera, J. Smout, J. Stanford, B. Warner, T. Wellhauser
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Ontario Police
   Services Act Review - London Submission
 
 That, on the recommendation of the
@@ -45,7 +43,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Canada 150
   Community Infrastructure Program Contribution Agreement
 
 That, on the recommendation of the Director,
@@ -99,7 +96,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Southwest Ontario
   Urban Mayors Caucus (SOUMC) - Update
 
 That, on the recommendation of the
@@ -124,7 +120,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Canada Ukraine
   Partnership for Local Economic Development and Democratic Governance (PLEDDG
   Ukraine)
 
@@ -159,7 +154,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;New Council Policy
   - Asset Transfers to Municipal Services Corporations
 
 That, on the recommendation of the Managing
@@ -185,7 +179,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Council Resolution
   on Future Tax Policy Report
 
 That, on the recommendation of the Managing
@@ -209,7 +202,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Pre-Authorized Tax
   Payment Plan By-law Amendment
 
 That, on the recommendation of the Managing
@@ -237,7 +229,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Year 2016 Tax
   Policy
 
 That, on the recommendation of the Managing
@@ -299,7 +290,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Year 2016 Education
   Tax Rates
 
 That, on the recommendation of the Managing
@@ -323,7 +313,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Application of a
   Gender Lens - L. N. Garrison
 
 That the attached presentation from
@@ -348,7 +337,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Municipal Council Resolution
   - Appointment of M. McAlpine to the Agricultural Advisory Committee
 
 That M. McAlpine BE APPOINTED to the
@@ -372,7 +360,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Legalization of
   Assisted Suicide and Euthanasia
 
 That the communication from John S. Bulsza,
@@ -395,7 +382,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;(ADDED) Change in Meeting Date
 
 That the May 10, 2016  meeting of the
   Corporate Services Committee (CSC) BE CANCELLED and a Special Meeting of the
@@ -418,7 +404,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;(ADDED) Request for Legal Advice – London
   Police Services’ Notice of Application to the Ontario Civilian Police
   Commission
 

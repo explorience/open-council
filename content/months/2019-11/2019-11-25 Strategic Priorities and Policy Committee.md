@@ -20,7 +20,6 @@ November 25, 2019, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that the following pecuniary interests were disclosed:
 
@@ -28,7 +27,6 @@ a)    Councillor S. Turner discloses a pecuniary interest in clause 4.2 of thi
 
 b)     Councillor S. Lehman discloses a pecuniary interest in clause 4.5 of this Report, having to do with appointments to the London Downtown Business Association, by indicating that he is a member of the Association.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by M. Cassidy
 
@@ -259,7 +257,6 @@ c) the Civic Administration BE DIRECTED to develop Business Cases for considerat
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Public Participation Meeting - Not to be heard before 4:05 PM - 2020 Water and Wastewater Rates
 
@@ -412,7 +409,6 @@ a) the proposed by-law appended to the staff report dated November 25, 2019 as A
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Climate Change Emergency Update
 
@@ -845,11 +841,9 @@ That the communication from B. Brock BE RECEIVED.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 7:59 PM.
 

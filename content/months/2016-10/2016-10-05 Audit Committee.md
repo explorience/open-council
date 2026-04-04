@@ -12,10 +12,8 @@ October 5, 2016, at  4:00 PM
 > [!abstract]- Also Present:
 > A. Zuidema, A.L. Barbon, A. DeCicco, C. DeForest, P. Foto, M. Hayward, G. Kotsifas, V. McAlea Major, D. McLean (PwC), C. Shah (PwC), T. Wellhauser
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
-# 2.&nbsp;&nbsp;&nbsp;STAFF REPORT - RFP
   16-31 External Audit Services
 
 That, on the recommendation of the Managing
@@ -38,7 +36,6 @@ b)          approve
 c)          authorize
   the Mayor and the City Clerk to execute the Agreement approved in b), above.
 
-# 3.&nbsp;&nbsp;&nbsp;SUBMISSION -
   Quarterly Report on Internal Audit Results
 
 (See Confidential Appendix to the 8th

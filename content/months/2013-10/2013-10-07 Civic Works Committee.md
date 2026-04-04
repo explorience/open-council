@@ -12,12 +12,10 @@ October 7, 2013, at  4:10 PM
 > [!abstract]- Also Present:
 > B. Armstrong, J. Baechler, D. Brown, B. Polhill;, G. Belch, J. Braam, B. Coxhead, L. Ducharme, A. Dunbar, M. Elmahood, J. Fleming, S. Galloway, M. Hayward, G. T. Hopcroft, D. MacRae, S. Maguire, J. Parsons, M. Ribera, L. Rowe, E. Soldo, E. Southern, J. Stanford
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Traffic Calming
   Program - 10 Year Annual Plan
 
 Recommendation:  That, on the
@@ -55,7 +53,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Sidewalk
   Maintenance Program
 
 Recommendation:  That the report dated
@@ -114,7 +111,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Local Improvement
   Initiation Hyde Park Industrial Subdivision
 
 Recommendation:  That, on the
@@ -178,7 +174,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Amendments to the
   Traffic and Parking By-law
 
 Recommendation:  That, on the
@@ -206,7 +201,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Update on Corporate
   Energy Management and Report Requirements
 
 Recommendation:  That, on the
@@ -253,7 +247,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Transportation
   Infrastructure Gap
 
 Recommendation:  That, on the
@@ -301,7 +294,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Bus Rapid Transit Strategy
 
 Recommendation:  That, on the
   recommendations of the Managing Director, Environmental and Engineering
@@ -372,7 +364,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Veterans Memorial
   Parkway Noise Study
 
 Recommendation:  That, on the
@@ -415,7 +406,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Railway Pedestrian
   Crossing Safety
 
 Recommendation:  That, on the
@@ -458,7 +448,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Removal of Fluoride
   from London's Drinking Water
 
 Recommendation:  That the communication
@@ -520,7 +509,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Active Transportation
   (AT) and Transportation Demand Management (TDM) - Updates and the Next Steps
 
 Recommendation:  That, on the
@@ -545,7 +533,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Provincial Minimum
   Maintenance Standards 2013 Update
 
 Recommendation:  That, on the
@@ -580,7 +567,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Meadowlily
   Bridge
 
 That the following actions be taken with

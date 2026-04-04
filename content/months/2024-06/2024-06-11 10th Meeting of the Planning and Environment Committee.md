@@ -17,11 +17,9 @@ June 11, 2024, at  1:00 PM
 
 The meeting is called to order at 1:02 PM; it being noted that Mayor J. Morgan and Councillor S. Hillier were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by C. Rahman
 
@@ -152,7 +150,6 @@ That G. Keane BE GRANTED delegation status with respect to the Heritage Alterati
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Community Improvement Plans Review for Increasing Affordable Housing
 
@@ -1226,7 +1223,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;(ADDED) School Block Acquisitions
 
@@ -1260,7 +1256,6 @@ a communication dated June 4, 2024 from B. Mai, Chair of the Board, Thames Valle
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -1306,7 +1301,6 @@ That the 6th Report of the Community Advisory Committee on Planning, from its me
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 6:13 PM.
 ---

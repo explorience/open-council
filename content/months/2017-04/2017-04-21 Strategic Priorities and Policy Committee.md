@@ -15,7 +15,6 @@ April 21, 2017, at  5:00 PM
 > [!abstract]- Also Present:
 > L. Livingstone, L. Bruni, B. Card, A. Hagan, J. Kobarda, V. McAlea Major, L. Palarchio, A. Patis, C. Saunders, J. Saunders (Outside Counsel), S. Spring
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That

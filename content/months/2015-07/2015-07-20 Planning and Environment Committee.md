@@ -12,10 +12,8 @@ July 20, 2015, at  4:06 PM
 > [!abstract]- Also Present:
 > A. Hopkins, T. Park, M. van Holst, J. Zaifman;, G. Barrett, P. Christiaans, D. Dobson, J.M. Fleming, S. Galloway, T. Grawey, G. Kotsifas, A. MacPherson, D. MacRae, J. Ramsey, M. Tomaszincic, B. Westlake-Power, J. Yanchula, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary interests
   were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Edge Valley
   Subdivision (39T-05505) Extension of Draft Approval
 
 That, on the recommendation of the Manager,
@@ -49,7 +47,6 @@ c)       the
   the claims and revenues appended as Appendix “B” to the staff report dated
   July 20, 2015.
 
-# 3.&nbsp;&nbsp;&nbsp;Victoria on the
   River Phase 2 (39T-09502) Subdivision Agreement Special Provisions
 
 That, on the recommendation of the Manager,
@@ -96,7 +93,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;North Longwoods
   Phase IV (39T-02502) Subdivision Agreement Special Provisions
 
 That, on the recommendation of the Manager,
@@ -126,7 +122,6 @@ d)         the
   above, any amending agreements and all related documents required to fulfill their
   conditions.
 
-# 5.&nbsp;&nbsp;&nbsp;Speyside East
   Corporation - 3100 Colonel Talbot Road - Removal of Holding Provision
   (H-8503)
 
@@ -139,7 +134,6 @@ That, on the recommendation of the Manager,
   of the subject lands FROM a Holding Residential R1(h. R1-5) Zone TO a
   Residential R1 (R1-5) Zone to remove the “h”  holding provision.
 
-# 6.&nbsp;&nbsp;&nbsp;Sifton Properties
   Limited - 1230 Riverbend Road - Removal of Holding Provisions (H8481)
 
 That, on the recommendation of the Manager
@@ -152,7 +146,6 @@ That, on the recommendation of the Manager
   (h-h-54-R5-4(13)) Zone TO a Residential R5 Special Provision (R5-4(13)) Zone,
   to remove the “h” and “h-54” holding provisions.
 
-# 7.&nbsp;&nbsp;&nbsp;FIT (Feed-in
   Tariff) Program - Council Support Blanket Resolution for Projects Approved
   under FIT Version 3.1
 
@@ -171,7 +164,6 @@ b)         the
   Resolution using the Municipal Council Blanket Support Resolution appended to
   the staff report dated July 20, 2015 with respect to this matter.
 
-# 8.&nbsp;&nbsp;&nbsp;Municipality of
   Thames Centre Official Plan Review (Official Plan Amendment No. 12) - Notice
   of Decision
 
@@ -197,7 +189,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Application by
   Tridon, re 510 Central Avenue (SP15-005948) - Site Plan
 
 Motion
@@ -233,7 +224,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Application by
   Hully Gully Limited re property located at 1659 Wharncliffe Road South -
   Request for Demolition
 
@@ -273,7 +263,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Application by
   David Tuckey re property located at 136A and 138 Wortley Road - Request for
   Demolition
 
@@ -294,7 +283,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Application by 505
   Talbot Limited re properties located at 505, 507 and 511 Talbot Street -
   Request for Demolition
 
@@ -329,7 +317,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Proposed Addition
   of Mid-Century Modern Properties to London's Inventory of Heritage Resources
 
 That, on the recommendation of the Managing
@@ -362,7 +349,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Potential
   Application of the HER Zone
 
 That, on the recommendation of the Managing
@@ -387,7 +373,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;(ADDED) 9th Report
   of the London Advisory Committee on Heritage
 
 Motion

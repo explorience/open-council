@@ -17,13 +17,11 @@ November 16, 2020, at  4:00 PM
 
 The meeting is called to order at 4:04 PM, with Councillor M. Cassidy in the Chair; it being noted that the following Members were in remote attendance: Councillors A. Hopkins, J. Helmer, A. Kayabaga and S. Turner
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by E. Holder
 
@@ -104,7 +102,6 @@ That, on the recommendation of the Director, Development Services, with respect 
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Public Participation Meeting - Not to be heard before 4:00 PM - Application -16035 Robins Hill Road (Z-9225)
 
@@ -274,7 +271,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;7th Report of the London Advisory Committee on Heritage 183 and 197 Ann Street
 
@@ -327,7 +323,6 @@ it being pointed out that the Planning and Environment Committee reviewed and re
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
@@ -570,7 +565,6 @@ c)  clauses 1.1, 3.1 and 3.2 BE RECEIVED for information.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential 
 
 ## 6.1&nbsp;&nbsp;&nbsp;Solicitor-Client Privilege
 
@@ -599,7 +593,6 @@ The Planning and Environment Committee convenes, In Closed Session, from 6:07 PM
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 6:26 PM.
 

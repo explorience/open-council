@@ -18,15 +18,12 @@ February 16, 2021, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Councillor J. Helmer discloses a pecuniary interest in Item 3.1 - City of London Service Review: Recommended Closure of River Road Golf Course, by indicating that his father is employed by the National Golf Course Owners Association, whose member fees could be affected by the decision associated with this matter.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Public Participation Meeting - Not to be heard before 4:05 PM - City of London Service Review: Recommended Closure of River Road Golf Course
 
@@ -326,7 +323,6 @@ Motion to receive the communications and verbal submissions.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Consideration of Appointment to the RBC Place London Board
 
@@ -360,11 +356,9 @@ That Garrett Vanderwyst (sustainability business), Class 2, BE REAPPOINTED to th
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by A. Hopkins
 
@@ -396,7 +390,6 @@ The Strategic Priorities and Policy Committee convenes, In Closed Session, from 
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by S. Lehman
 

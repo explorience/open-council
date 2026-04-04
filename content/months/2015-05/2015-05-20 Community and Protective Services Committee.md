@@ -12,13 +12,11 @@ May 20, 2015, at  4:03 PM
 > [!abstract]- Also Present:
 > J. Helmer, H.L. Usher, M. van Holst; B. Coxhead, S. Datar Bere, S. Giustizia, O. Katolyk, L. Livingstone, D. O’Brien, S. Spring, L. Stevens, B. Westlake-Power, E. White
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests
   were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;1st Report of the City
   of London and London District Catholic School Board Liaison Committee
 
 That the 1st Report of the City of London
@@ -42,7 +40,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;2nd Report of the Childcare
   Advisory Committee
 
 That the 2nd Report of the Childcare
@@ -65,7 +62,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;4th Report of the Accessibility
   Advisory Committee
 
 That the 4th Report of the Accessibility
@@ -88,7 +84,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;4th Report of the
   Animal Welfare Advisory Committee
 
 That the 4th Report of the Animal Welfare
@@ -111,7 +106,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Investment in
   Affordable Housing (IAH) Program (2014 Extension) Recommendation for
   Proposals Under RFP 15-14
 
@@ -177,7 +171,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Immigrants and the
   Labour Market - A London Perspective
 
 That the following actions be taken with
@@ -212,7 +205,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;2014-2017
   Multi-Sector Service Accountability Agreement Dearness Home Adult Day Program
   and the South West LHIN Declaration of Compliance
 
@@ -256,7 +248,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;RZONE Policy -
   Implementation Update
 
 That, on the recommendation of the Managing
@@ -281,7 +272,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Update on Responses
   to Unsafe Housing Conditions of Vulnerable Persons
 
 That, on the recommendation of the Managing
@@ -311,7 +301,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;5th Report of the London
   Diversity and Race Relations Advisory Committee
 
 That the following actions be taken with
@@ -367,7 +356,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That

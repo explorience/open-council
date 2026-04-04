@@ -22,7 +22,6 @@ January 27, 2025, at  1:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
@@ -44,7 +43,6 @@ That, pursuant to section 27.6 of the Council Procedure By-law, a change in orde
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by H. McAlister
 
@@ -254,7 +252,6 @@ Motion to approve the delegation request from S. Campbell to be heard at this me
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;2nd Report of the Environmental Stewardship and Action Community Advisory Committee
 
@@ -286,7 +283,6 @@ it being noted that the delegation request from B. Samuels was withdrawn prior t
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Bob Hayward YMCA at 1050 Hamilton Road
 
@@ -310,7 +306,6 @@ That the Civic Administration BE DIRECTED to explore affordable housing developm
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) Framework for the Provision of Overnight Warming Centres and Resting Spaces for Cold Weather
 
@@ -372,7 +367,6 @@ That the motion, as amended, BE APPROVED
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 That the meeting BE ADJOURNED.
 

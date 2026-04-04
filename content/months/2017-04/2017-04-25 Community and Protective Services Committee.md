@@ -12,13 +12,11 @@ April 25, 2017, at  4:03 PM
 > [!abstract]- Also Present:
 > J. Helmer, T. Park, M. van Holst; S. Datars Bere, T. Gattney, T. Fowler, O. Katolyk, J. Kobarda, L. Livingstone, E. Low, D. O’Brien, D. Pavletic (MLHU), J. Skimming, C. Smith, J. Stanford, J. Taylor, B. Westlake-Power
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;STAFF REPORT - 4th
   Report of the London Housing Advisory Committee
 
 That it BE NOTED that the 4th Report of the
@@ -40,7 +38,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Community Action Program for Children (CAPC) Funding in London:  2017-2020
 
 That, on the recommendation of the Managing
@@ -125,7 +122,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT - Lead
   Agency to Oversee the Implementation of London For All:  A Roadmap to End
   Poverty Request for Proposal 17-10
 
@@ -166,7 +162,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Supporting the Community Response to Syrian Newcomers - Update on Potential
   Survey Questions or Other Means of Gathering Information
 
@@ -191,7 +186,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Agreement with the Province of Ontario to Support the Development of an
   Immigration Strategy
 
@@ -225,7 +219,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Short Term Accommodations
 
 That, on the recommendation of the Managing
@@ -251,7 +244,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;STAFF REPORT - 
   Anti-Contraband Tobacco Campaign Funded by Tobacco Industry Front Groups
   Intend to Block Tobacco Control Measures
 
@@ -297,7 +289,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Community Diversity
   and Inclusion Strategy
 
 That the communication from B. Hill with
@@ -320,7 +311,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Open Air Burning
 
 That it BE NOTED that the Community and
   Protective Services Committee (CPSC) heard delegations from the following,
@@ -356,7 +346,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Business Licensing
   By-Law Review - Commercial Parking Facilities, Pet Shops, Public Halls and
   Seasonal Sales Businesses
 
@@ -436,7 +425,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;4th Report of the
   Animal Welfare Advisory Committee
 
 That the following actions be taken with
@@ -474,7 +462,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;File No. 16-260872
   - Naturalization Project - London Condominium Corporation No. 11
 
 That Civic Administration BE REQUESTED to
@@ -501,7 +488,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;STAFF REPORT - City
   Council and Standing Committee Pre-Recorded Video Content - City Website and
   YouTube Channel
 
@@ -529,7 +515,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the April 2017 Deferred Matters List
@@ -551,7 +536,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;(ADDED) COUNCILLOR
   SUBMISSION - Withdrawal Renaming Proposal - Mildred Barons Park to Vimy Ridge
   Park
 

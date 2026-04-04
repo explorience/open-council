@@ -15,13 +15,11 @@ September 25, 2014, at  4:01 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, J. Braam, S. Gilfillan (PwC) I. Jefferies (KPMG), M. Turner
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation: That it BE NOTED no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Internal and
   External Audit Services
 
 Recommendation:  That, on the
@@ -39,7 +37,6 @@ b)         the
   processes it would recommend to Municipal Council to be undertaken to retain future
   external and internal audit services.
 
-# 3.&nbsp;&nbsp;&nbsp;Municipal
   Performance Measurement Program (MPMP) Three-Year Comparative Values
   2011-2013
 

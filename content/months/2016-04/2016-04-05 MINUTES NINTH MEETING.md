@@ -18,18 +18,13 @@ April 5, 2016
 The Council meets in Regular Session in the
   Council Chambers this day at 4:00 p.m.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
-# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
-# IV.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# V.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
 MOTION FOR IN CAMERA SESSION
@@ -53,7 +48,6 @@ The Committee of the Whole rises at 4:43 PM
   and all Members present except Mayor M. Brown, and Councillors B. Armstrong,
   M. Cassidy, J. Morgan and V. Ridley.
 
-# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE EIGHTH MEETING HELD ON MARCH 22, 2016
 
 > Moved by Councillor J. Zaifman
@@ -85,7 +79,6 @@ Motion Passed
 
 ****
 
-# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
 > Moved by Councillor J. Helmer
@@ -97,7 +90,6 @@ Approve that the following
 
 ****
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that Councillor J. Helmer
@@ -105,7 +97,6 @@ That it BE NOTED that Councillor J. Helmer
   the Community Mail Boxes, by indicating that his wife is employed by Canada
   Post.
 
-# 2.&nbsp;&nbsp;&nbsp;Amendments to the
   Traffic and Parking By-law PS-111 with Respect to Off Street Accessible
   Parking Stalls (Relates to Bill No. 139)
 
@@ -116,7 +107,6 @@ That, on the recommendation of the Managing
   2016 for the purpose of amending the Traffic and Parking By-law PS-111 with
   respect to off-street accessible parking stalls. (2016-T02)
 
-# 3.&nbsp;&nbsp;&nbsp;Amendments to the
   Traffic and Parking By-law
 
 That, on the recommendation of the Managing
@@ -205,7 +195,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Leasing of Highway
   Tractors for Sludge Hauling
 
 That, on the recommendation of the Managing
@@ -234,10 +223,8 @@ e)         the
   formal contract or issuing a purchase order, or contract record relating to
   the subject matter of this approval.  (2016-L04/F18)
 
-# VIII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# IX.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor P. Squire
 
@@ -246,7 +233,6 @@ Approve
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Contract Award:
   Tender No. 16-02 - 2016 Infrastructure Renewal Program - South, Waterloo and
   Hill Streets Reconstruction Project (Relates to Bill no. 141)
 
@@ -318,7 +304,6 @@ Motion Passed
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Contract Award:
   Tender No. 16-37 - 2016 Infrastructure Lifecycle Renewal Program Contract 5:
   Landor Street
 
@@ -363,7 +348,6 @@ f)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations.  (2016-F18)
 
-# 7.&nbsp;&nbsp;&nbsp;2016 Renew London
   Infrastructure Construction Project
 
 That, on the recommendation of the Managing
@@ -374,7 +358,6 @@ That, on the recommendation of the Managing
   presentation from the Director, Roads and Transportation with respect to this
   matter. (2016-T10)
 
-# 8.&nbsp;&nbsp;&nbsp;2016 Annual Warranted
   Sidewalk Program
 
 That, on the recommendation of the
@@ -382,7 +365,6 @@ That, on the recommendation of the
   with respect to the 2016 Annual Warranted Sidewalk Program BE APPROVED for
   implementation.  (2016-T04)
 
-# 9.&nbsp;&nbsp;&nbsp;Transport Canada -
   Grade Crossing Regulations
 
 That, on the recommendation of the
@@ -391,7 +373,6 @@ That, on the recommendation of the
   (Grade Crossing Regulations) pursuant to the Railway Safety Act, BE RECEIVED
   for information. (2016-P15)
 
-# 10.&nbsp;&nbsp;&nbsp;Contract Award:
   Tender No. 16-14 - Veterans Memorial Parkway Resurfacing
 
 That, on the recommendation of the Managing
@@ -431,7 +412,6 @@ f)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations.   (2016-F18)
 
-# 11.&nbsp;&nbsp;&nbsp;Appointment of
   Contractor to Complete Maintenance on Dingman Creek Municipal Drain
   (ES4834-14)
 
@@ -463,7 +443,6 @@ e)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations.  (2016-A05)
 
-# 12.&nbsp;&nbsp;&nbsp;Update on Community
   Carshare in London
 
 That, on the recommendation of the
@@ -471,7 +450,6 @@ That, on the recommendation of the
   29, 2016, with respect to an update on Community Carshare in London, BE
   RECEIVED for information. (2016-D19)
 
-# 13.&nbsp;&nbsp;&nbsp;Responding to the
   Provincial Public Electric Vehicle (EV) Charging Stations Application Process
   and Related Updates
 
@@ -481,7 +459,6 @@ That, on the recommendation of the
   Vehicle (EV) Charging Stations Application Process and related updates, BE
   RECEIVED for information.  (2016-E17)
 
-# 15.&nbsp;&nbsp;&nbsp;Veterans Memorial
   Parkway Community Program - 2015 Summary and 2016 Planning Report
 
 That, on the recommendation of the Managing
@@ -493,7 +470,6 @@ That, on the recommendation of the Managing
   for the Veterans Memorial Parkway Community Program has been extended into
   2017.  (2016-D19)
 
-# 16.&nbsp;&nbsp;&nbsp;Landfill Gas
   Utilization - Status of Opportunities and Next Steps
 
 That, on the recommendation of the
@@ -543,7 +519,6 @@ c)         the
   2016; it being noted that the Business Case will include how Option 1 impacts
   Options 2 through 5 as noted in parts ii) through v), above.  (2016-E17)
 
-# 17.&nbsp;&nbsp;&nbsp;Kindness Meters
 
 That the Civic Administration BE DIRECTED
   to dispose of 2 surplus parking meters, at no cost to the Lions Club (London
@@ -554,13 +529,11 @@ That the Civic Administration BE DIRECTED
   Committee received a communication and a verbal delegation from W. Grieves
   with respect to this matter.  (2016-C06A)
 
-# 19.&nbsp;&nbsp;&nbsp;4th Report of the
   Cycling Advisory Committee
 
 That the 4th Report of the Cycling Advisory
   Committee, from its meeting held on March 16, 2016, BE RECEIVED.
 
-# 20.&nbsp;&nbsp;&nbsp;Field Marshal
   Wolseley Bridge (Quebec Street)
 
 That consideration of potential
@@ -571,7 +544,6 @@ That consideration of potential
   8, 2016 from C. Beal, Superintendent, Organizational Support Services, Thames
   Valley District School Board, with respect to this matter.
 
-# 21.&nbsp;&nbsp;&nbsp;Deferred Matter
   List
 
 That the following actions be taken with
@@ -587,7 +559,6 @@ b)         the
   Civic Administration will review all “Expected Reply Dates” to ensure they
   remain current.
 
-# 22.&nbsp;&nbsp;&nbsp;Canada Post
   Community Mail Box Program
 
 That the Civic Administration BE REQUESTED
@@ -695,7 +666,6 @@ Motion Passed
 
 ****
 
-# 23.&nbsp;&nbsp;&nbsp;Additional
   Community and Protective Services Committee
 
 That the City Clerk BE DIRECTED to provide
@@ -703,7 +673,6 @@ That the City Clerk BE DIRECTED to provide
   the Community and Protective Services Committee, in order to assist with the
   facilitation of meeting/agenda management.
 
-# 14.&nbsp;&nbsp;&nbsp;Appointment of
   Consulting Engineer for the Monitoring of Stormwater Management Facilities
 
 That, on the recommendation of the Managing
@@ -735,21 +704,16 @@ e)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations.  (2016-A05)
 
-# 18.&nbsp;&nbsp;&nbsp;2nd Report of the
   Transportation Advisory Committee
 
 That the 3rd Report of the Transportation
   Advisory Committee, from its meeting held on March 1, 2016, BE RECEIVED.
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -1070,7 +1034,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

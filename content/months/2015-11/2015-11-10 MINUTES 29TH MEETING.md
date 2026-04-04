@@ -15,7 +15,6 @@ November 10, 2015, at  4:05 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:05 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 Councillor B. Armstrong discloses a
@@ -58,17 +57,12 @@ Mayor M. Brown discloses a pecuniary
   Gainsborough Road, by indicating that he owns property within the vicinity of
   the subject properties.
 
-# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosure of Pecuniary Interest
 
-# IV.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# V.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
 MOTION FOR IN CAMERA SESSION
@@ -83,7 +77,6 @@ Approve that Council rise and go into
 
 ****
 
-# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE TWENTY-EIGHTH MEETING HELD ON OCTOBER 27,
   2015
 
@@ -121,7 +114,6 @@ Motion Passed
 
 ****
 
-# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
 > Moved by Councillor J. Helmer
@@ -133,13 +125,10 @@ Approve referral of the following
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;2014 Annual Report – Development Charges
   Reserve Funds
 
-# VIII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# IX.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor M. Cassidy
 
@@ -147,10 +136,8 @@ Approve clauses 1, 4, 5, 7, 9 and 10.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Ontario Cultural Strategy Discussion Paper
   Submission
 
-# 5.&nbsp;&nbsp;&nbsp;Public Participation Meeting – Amendments
   to Consolidated Fees and Charges By-law
 
 > Moved by Councillor M. Cassidy
@@ -231,12 +218,9 @@ Motion Passed
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Shift Rapid Transit Update
 
-# 9.&nbsp;&nbsp;&nbsp;Appointment of Deputy Mayor Appointed by
   Municipal Council
 
-# 10.&nbsp;&nbsp;&nbsp;Committee Appointment Preferences submitted
   by Council Members
 
 Motion Passed
@@ -264,15 +248,11 @@ Motion Passed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Development Charges Rate Monitoring – 2015
   Review
 
-# 6.&nbsp;&nbsp;&nbsp;London Community Economic Road Map
 
-# 8.&nbsp;&nbsp;&nbsp;London & Middlesex Housing Corporation
   Board of Directors
 
-# 11.&nbsp;&nbsp;&nbsp;7th Report of the Governance Working Group
 
 Motion Passed
 
@@ -296,7 +276,6 @@ Motion Passed
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;2015 External Audit
   of London's Drinking Water Quality Management System and 2015 Management
   Review
 
@@ -306,7 +285,6 @@ That, on the recommendation of the
   Management System, and the subsequent 2015 Management Review meeting, BE
   RECEIVED for information. (2015-E05)
 
-# 17.&nbsp;&nbsp;&nbsp;Endorsement of
   Revised Operational Plan for London's Drinking Water System
 
 That, on the recommendation of the
@@ -320,7 +298,6 @@ b)         the
   current Operational Plan for the City of London Water System BE ENDORSED by
   Council as per the requirements of O. Reg. 188/07.  (2015-E05)
 
-# 18.&nbsp;&nbsp;&nbsp;Renewal of the Lead
   Service Extension Replacement Loan Program (Related to Bill No. 376)
 
 That, on the recommendation of the Managing
@@ -331,7 +308,6 @@ That, on the recommendation of the Managing
   as Appendix 'A', BE INTRODUCED at the Municipal Council meeting on November
   10, 2015.  (2015-E08)
 
-# 12.&nbsp;&nbsp;&nbsp;Additional “As Needed” SPPC Meeting Dates
 
 Motion Passed
 
@@ -358,7 +334,6 @@ Motion Passed
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Parking Strategy
   for Downtown London: Appointment of Consulting Engineer
 
 That, on the recommendation of the Managing
@@ -413,7 +388,6 @@ Motion Passed
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;RFP-15-42 Yard
   Material Waste Composting - Irregular Bid
 
 That, on the recommendation of the Managing
@@ -488,7 +462,6 @@ Motion Passed
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Winter Maintenance
   Program Enhancements
 
 That, on the recommendation of the Managing
@@ -535,7 +508,6 @@ Motion Passed
 
 ****
 
-# 19.&nbsp;&nbsp;&nbsp;Free Parking in
   December
 
 That, on the recommendation of the Managing
@@ -579,7 +551,6 @@ Motion Passed
 
 ****
 
-# 20.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the following actions be taken with
@@ -616,12 +587,9 @@ Motion Passed
 
 ****
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
 > Moved by Councillor J. Helmer
@@ -697,7 +665,6 @@ Motion Passed
 
 ****
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND THIRD
   TIME:
@@ -1196,7 +1163,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

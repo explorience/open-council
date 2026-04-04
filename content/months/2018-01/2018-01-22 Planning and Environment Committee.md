@@ -12,7 +12,6 @@ January 22, 2018, at  4:00 PM
 > [!abstract]- Also Present:
 > M. Brown;  J. Morgan, M. van Holst, J. Zaifman; I. Abushehada, A. Anderson, M. Campbell, M. Corby, M. Elmadhoon, M. Feldberg, J.M. Fleming, K. Gonyou, M. Knieriem, G. Kotsifas, P. Kokkoros, L. Livingstone, A. Macpherson, L. Maitland, H. McNeely, B. O’Hagan, N. Pasato, M. Pease, L. Pompilii, A. Riley, C. Saunders, S. Spring, M. Tomazincic, B. Westlake-Power, J. Yanchula, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary
   Interest
 
 That it BE NOTED that Councillor S. Turner
@@ -21,7 +20,6 @@ That it BE NOTED that Councillor S. Turner
   indicating that his supervisor, Dr. C. Mackie, CEO and Medical Officer of
   Health, Middlesex-London Health Unit, has delegation status at this meeting.
 
-# 2.&nbsp;&nbsp;&nbsp;Property located at
   510 Central Avenue (H-8460)
 
 That, on the recommendation of the Planner
@@ -51,7 +49,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Property located at
   895 Fanshawe Park Road West (H-8842)
 
 That, on the recommendation of the Senior
@@ -90,7 +87,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Property located at
   3040 Pomeroy Lane (H-8863)
 
 That, on the recommendation of the Senior
@@ -128,7 +124,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Property located at
   1080 Westdel Bourne (H-8840)
 
 That, on the recommendation of the Senior
@@ -160,7 +155,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Building Division
   Monthly Report for November 2017
 
 That the Building Division Monthly Report
@@ -183,7 +177,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Proposed
   Regulations Promoting Affordable Housing Act 2016 (Inclusionary Zoning)
 
 That, on the recommendation of the Managing
@@ -277,7 +270,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Property located at
   3 Glenroy Road (Z-8833)
 
 That, on the recommendation of the Managing
@@ -385,7 +377,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Property located at
   660 Sunningdale Road East - Applewood Subdivision 
   (39T-09501/Z-8818)
 
@@ -625,7 +616,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Properties located
   at 940 and 956 Wharncliffe Road South (Z-8813)
 
 That, on the recommendation of the Managing
@@ -741,7 +731,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Properties located
   at 1090, 1092 and 1096 Hamilton Road (Z-8827)
 
 That, on the recommendation of the Managing
@@ -936,7 +925,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;2nd Report of the
   London Advisory Committee on Heritage
 
 That, the following actions be taken with
@@ -1039,7 +1027,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Properties located
   at 467-469 Dufferin Avenue, East Woodfield Heritage Conservation District -
   Request for Demolition
 
@@ -1154,7 +1141,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Planning for
   Supervised Consumption Facilities and Temporary Overdose Prevention Sites
   (OZ-8852)
 
@@ -1240,7 +1226,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;2nd Report of the
   Advisory Committee on the Environment
 
 That, the following actions be taken with
@@ -1273,7 +1258,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Brownfield CIP
   Incentives – Properties located at 32, 36 and 40 York Street
 
 That, on the recommendation of the Managing
@@ -1324,7 +1308,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the Managing Director, Planning and
@@ -1348,7 +1331,6 @@ Motion
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;(ADDED) 1st Report
   of the Agricultural Advisory Committee
 
 That, the following actions be taken with

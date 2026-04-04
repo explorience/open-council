@@ -12,7 +12,6 @@ April 7, 2015, at 12:07 PM
 > [!abstract]- Also Present:
 > J. Helmer, V. Ridley, M. Salih, M. van Holst; A. Zuidema, J.P. Barber, A.L. Barbon, J. Braam, S. Corman, A. Dunbar, J. Freeman, K. Graham, M. Hayward, R. Lamon, J. Logan, V. McAlea Major, D. O’Brien, L. Palarchio, M. Ribera, C. Saunders, J. Senese, J. Tansley, B. Warner, B. Westlake-Power
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
@@ -103,7 +102,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Canada Caribbean
   Local Economic Development Program (CARILED)
 
 Motion
@@ -157,7 +155,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;London Youth
   Advisory Council - Advisory Committee Appointments
 
 That the submission dated March 18, 2015
@@ -185,7 +182,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Board of Directors
   - Federation of Canadian Municipalities
 
 Motion

@@ -21,11 +21,9 @@ February 4, 2020, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Councillor J. Helmer discloses a pecuniary interest in Item 2.2 having to do with a review of service delivery for municipal golf, by indicating that his father is employed by the National Golf Course Owners Association of which The Corporation of the City of London is a member.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;City of London Service Review: Review of Municipal User Fees
 
@@ -96,7 +94,6 @@ it being noted that Option 1 includes a review of all possible options for the f
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Confirmation of Appointment to the Argyle BIA
 
@@ -176,11 +173,9 @@ d) the Civic Administration BE DIRECTED to find an appropriate one-time source o
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by A. Hopkins
 

@@ -17,11 +17,9 @@ July 19, 2023, at  4:00 PM
 
 The meeting is called to order at 4:01 PM; it being noted that Councillors P. Van Meerbergen, E. Peloza and S. Hillier were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;London Community Grants Program Policy Update
 
@@ -106,11 +104,9 @@ b)    the report BE RECEIVED for information."
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Master Accommodation Plan - Alternate Work Strategies Update
 
@@ -552,11 +548,9 @@ it being noted that the Strategic Priorities and Policy Committee received a com
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by S. Franke
 
@@ -611,7 +605,6 @@ The Strategic Priorities and Policy Committee convenes in Closed Session from 6:
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by P. Van Meerbergen
 

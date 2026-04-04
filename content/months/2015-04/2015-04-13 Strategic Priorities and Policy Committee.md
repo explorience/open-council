@@ -15,7 +15,6 @@ April 13, 2015, at  4:06 PM
 > [!abstract]- Also Present:
 > A. Zuidema, R. Armistead, J.P. Barber, J. Braam, B. Coxhead, M. Daley, C. DeForest, J.M. Fleming, S. Giustizia, A. Hagan, M. Hayward, G. Kotsifas, L. Livingstone, J. Logan, M. Ribera, E. Soldo, J. Stanford, L. Stevens, M. Tomazincic, B. Westlake-Power, R. Wilcox
 
-# 2.&nbsp;&nbsp;&nbsp;Service London
   Update Report
 
 That, on the recommendation of the Managing
@@ -49,7 +48,6 @@ Motion Passed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Orientation and
   Update on Housing Development Corporation (HDC)
 
 That the orientation presentation and
@@ -81,7 +79,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Development Charges
   Orientation
 
 That the orientation presentation with
@@ -112,7 +109,6 @@ Motion Passed
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Investing in the
   Arts - Building a New Collaborative Orchestra Model - We Play on Performance
   Fund and Reallocation of Community Arts Investment Program (CAIP) Arts
   Funding
@@ -224,7 +220,6 @@ Motion Passed
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;London &
   Middlesex Housing Corporation 2015 Shareholder's Meeting Request
 
 That the following actions be taken with respect
@@ -275,7 +270,6 @@ Motion Passed
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;London Hydro's
   Annual General Meeting (AGM) Request
 
 That the following actions be taken with
@@ -322,7 +316,6 @@ Motion Passed
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Nomination of
   Individuals for Appointment to the London Downtown Business Association for
   the term ending November 30, 2018
 
@@ -373,7 +366,6 @@ Motion Passed
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;City Budget 2015
   Comments - London Chamber of Commerce
 
 That the communication dated March 5, 2015
@@ -403,7 +395,6 @@ Motion Passed
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;1st Report of the
   Governance Working Group
 
 That the following actions be taken with
@@ -686,7 +677,6 @@ Motion Passed
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;ADDED - Orientation
   - Tax Policy
 
 That the attached orientation

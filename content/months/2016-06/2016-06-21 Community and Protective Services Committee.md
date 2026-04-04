@@ -15,13 +15,11 @@ June 21, 2016, at  4:01 PM
 > [!abstract]- Also Present:
 > J. Helmer, T. Park; B. Baar, B. Coxhead, S. Datars Bere, A. Dunbar, S. Giustizia, O. Katolyk, J. Kobarda, G. Kotsifas, L. Livingstone, B. McLaughlin, D. Mounteer, D. O’Brien, M. Ribera, J. Richardson, J. Smout, S. Stafford, B. Warner, T. Wellhauser, B. Westlake Power, E. White, J. Winston
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;5th Report of the
   London Housing Advisory Committee
 
 That the 5th Report of the London Housing
@@ -43,7 +41,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;5th Report of the
   London Diversity and Race Relations Advisory Committee
 
 That the 5th report of the London Diversity
@@ -66,7 +63,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Southwest Community
   Centre Joint Venture Agreement
 
 That, on the recommendation of the Managing
@@ -102,7 +98,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Phase 2 - Award of
   Construction Contract for the Southwest Community Centre - YMCA and Library
 
 That, on the recommendation of the Managing
@@ -147,7 +142,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;London's Homeless
   Prevention System Contract Award
 
 That, on the recommendation of the Managing
@@ -194,7 +188,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Amendment to the
   Fireworks By-law
 
 That, on the recommendation of the Fire
@@ -219,7 +212,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Purchase of Service
   Agreement - Addiction Services of Thames Valley to Deliver Addiction Services
 
 That, on the recommendation of the Managing
@@ -255,7 +247,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Amendment to
   Purchase of Service Agreement - Ontario Works Employment Assistance Services
 
 That, on the recommendation of the Managing
@@ -286,7 +277,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Amendment to PH-7
   Dogs Off Leash Area By-Law
 
 That, on the recommendation of the Managing
@@ -295,7 +285,6 @@ That, on the recommendation of the Managing
   be held on June 23, 2016, to repeal and replace Schedule “A” of By-law No.
   PH-7 entitled, “Dogs Off-Leash Areas By-law”.  (2016-R04)
 
-# 11.&nbsp;&nbsp;&nbsp;Extension of Hours
   for Amplified Sound a Country Music Week
 
 That, on the recommendation of the Managing
@@ -340,7 +329,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;3rd Report of the
   Community Safety and Crime Prevention Advisory Committee
 
 That the following actions be taken with
@@ -398,7 +386,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;5th Report of the
   Accessibility Advisory Committee
 
 Motion
@@ -417,7 +404,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;7th Report of the
   Animal Welfare Advisory Committee
 
 That the following actions be taken with
@@ -470,7 +456,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;6th Report of the
   London Housing Advisory Committee
 
 That the following actions be taken with
@@ -518,7 +503,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Existing Vehicle-for-Hire Industry
 
 That, on the recommendation of the Managing
   Director, Development and Compliance Services and Chief Building Official,
@@ -587,7 +571,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;Business Licensing
   By-law - New Categories and Proposed Regulations
 
 That the following actions be taken with
@@ -628,7 +611,6 @@ Motion
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the June 2016 Deferred Matters List
@@ -650,7 +632,6 @@ Motion
 
 ****
 
-# 19.&nbsp;&nbsp;&nbsp;Syrian Refugee
   Initiatives
 
 That it BE NOTED that the Community and

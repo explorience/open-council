@@ -20,11 +20,9 @@ January 21, 2019, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by J. Helmer
 
@@ -166,7 +164,6 @@ That the Building Division Monthly Report for the month of November, 2018 BE REC
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Delegation - J. Plutino, Mainline Planning Services Inc. - 6188 Colonel Talbot Road - Obtain a Section 45(1.4) Council Resolution 
 
@@ -341,7 +338,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Councillor S. Lewis - Argyle Business Improvement Association
 
@@ -364,11 +360,9 @@ That the communication dated January 12, 2019 from Councillor S. Lewis, with res
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential 
 
 > Moved by M. Cassidy
 
@@ -401,7 +395,6 @@ A personal matter pertaining to litigation or potential litigation with respect 
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 5:26 PM
 

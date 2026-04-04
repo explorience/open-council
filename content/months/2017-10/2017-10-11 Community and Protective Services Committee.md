@@ -12,13 +12,11 @@ October 11, 2017, at  4:00 PM
 > [!abstract]- Also Present:
 > J. Helmer, M. van Holst; A.L. Barbon, K. Dickins, A. Dunbar, O. Katolyk, J. Kobarda, G. Kotsifas, L. Livingstone, L. Loubert, L. Marshall, A. Mohile, K. Murray, K. Paleczny (LTC), M. Ribera, J. Richardson, C. Smith, S. Stafford, T. Wellhauser, B. Westlake-Power
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;3rd Report of the
   Town and Gown Committee
 
 That it BE NOTED that the 3rd Report of the
@@ -42,7 +40,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;8th Report of the
   London Housing Advisory Committee
 
 That it BE NOTED that the 8th Report of the
@@ -66,7 +63,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;RFP 17-06 - Cold
   Beverage Vending
 
 That, on the recommendation of the Acting
@@ -102,7 +98,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Veterinary Services
 
 That, on the recommendation of the Managing
   Director, Development and Compliance Services and the Chief Building
@@ -141,7 +136,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;East Community
   Centre - Tender 17-67 - Project #P015-RC2756
 
 That, on the recommendation of the Acting
@@ -194,7 +188,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adults 18 and Over
   Income-Related Subsidized  Public Transit Program Council By-Law, Agreement
   and Administration Process
 
@@ -248,7 +241,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Automatic Aid
   Agreement with Central Elgin
 
 That, on the recommendation of the Fire
@@ -283,7 +275,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;London’s Homeless
   Prevention System - Contract Award Request For Proposal 17-39 - London
   Homeless Prevention Allowance Program
 
@@ -340,7 +331,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;9th Report of the
   Accessibility Advisory Committee
 
 That the following actions be taken with
@@ -470,7 +460,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;By-Law Amendments
   to Dog Licensing & Control By-law, Animal Control By-law, Pit Bull Dog
   Licensing By-law, and Public Pound By-law
 
@@ -564,7 +553,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Request for
   Information – London Police Services Cost - August 26, 2017 and September 23,
   2017 Protests
 
@@ -590,7 +578,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;8th and 9th Reports
   of the Animal Welfare Advisory Committee
 
 That the following actions be taken with
@@ -648,7 +635,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;9th Report of the
   Diversity, Inclusion and Anti-Oppression Advisory Committee
 
 That the following actions be taken with
@@ -682,7 +668,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;5th Report of the
   Community Safety & Crime Prevention Advisory Committee
 
 That the following actions be taken with
@@ -754,7 +739,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the September 2017 Deferred Matters
@@ -777,7 +761,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;(ADDED) Youth and
   Low Income Bus Passes
 
 That the Managing Director, Neighbourhood,

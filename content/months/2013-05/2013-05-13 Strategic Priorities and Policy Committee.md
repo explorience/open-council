@@ -15,7 +15,6 @@ May 13, 2013, at  4:04 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, J. Braam, P. Christiaans, J.M. Fleming, P. Foto, M. Hayward, G.T. Hopcroft, G. Kotsifas, B. Krichker, S. Mathers, V. McAlea Major, R. Paynter, C. Saunders, G. Scandlan (Consultant), R. Sharpe, J. Smout, L. Townsend (Consultant), P. Yeoman
 
-# 2.&nbsp;&nbsp;&nbsp;City of London At
   Your Service
   Video
 
@@ -52,7 +51,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;London Hydro Inc. -
   2012 Annual Meeting of the Shareholder Annual Resolutions
 
 Recommendation:  That the following actions
@@ -156,7 +154,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;London &
   Middlesex Housing Corporation - 2012 Annual Meeting of the Shareholder Annual
   Resolutions
 
@@ -212,7 +209,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Development Charges
   Policy Review - Local Services Policy
 
 Recommendation:  That the following
@@ -286,7 +282,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Managing Director,
   Corporate Services and City Treasurer, Chief Financial Officer - Development
   Charge Policy - DC Area Specific Charges
 

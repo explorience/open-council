@@ -17,11 +17,9 @@ January 23, 2024, at  1:00 PM
 
 The meeting is called to order at 1:02 PM; it being noted that Councillors P. Van Meerbergen and S. Hillier were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that Councillor S. Franke disclosed a pecuniary interest related to Council In Closed Session, the 2nd Report of Council in Closed Session, and Added Bill No. 44, by indicating that her spouse is employed by the Thames Valley District School Board.
 
-# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
 ## 2.1&nbsp;&nbsp;&nbsp;2024 Mayor's New Year's Honour List
 
@@ -31,11 +29,9 @@ At 1:32 PM, Councillor P. Van Meerbergen leaves the meeting.
 
 At 1:36 PM, Councillor P. Van Meerbergen joins the meeting.
 
-# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
 
 > Motion made by P. Cuddy
 
@@ -100,7 +96,6 @@ That Council convenes In Closed Session, from 1:37 PM to 1:51 PM.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
 ## 5.1&nbsp;&nbsp;&nbsp;1st Meeting Held on December 19, 2023
 
@@ -135,7 +130,6 @@ That the Minutes of the 1st Meeting of the Municipal Council, held on December 1
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 > Motion made by Mayor J. Morgan
 
@@ -257,11 +251,9 @@ That the following communications BE RECEIVED, and BE REFERRED as noted on the A
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 None.
 
-# 8.&nbsp;&nbsp;&nbsp;Reports
 
 ## 8.1&nbsp;&nbsp;&nbsp;2nd Report of the Corporate Services Committee
 
@@ -1552,7 +1544,6 @@ At 3:36 PM, Councillor P. Van Meerbergen joins the meeting.
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 ## 9.1&nbsp;&nbsp;&nbsp;2nd Report of Council in Closed Session
 
@@ -1688,19 +1679,15 @@ That progress was made with respect to items 4.7 and 4.8, as noted on the public
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-# 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 None.
 
-# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 
 None.
 
-# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 > Motion made by P. Cuddy
 
@@ -1951,7 +1938,6 @@ That Third Reading and Enactment of Added Bill No. 44, BE APPROVED.
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by H. McAlister
 
@@ -1965,7 +1951,6 @@ The meeting adjourned at 3:36 PM.
 
 ****
 
-# Appendix: New Bills
 
 > [!abstract]- The following Bills are enacted as By-laws of The Corporation of the City of London:
 > **Bill No. 19**

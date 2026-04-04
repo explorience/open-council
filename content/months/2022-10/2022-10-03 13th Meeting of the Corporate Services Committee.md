@@ -20,11 +20,9 @@ October 3, 2022, at 12:00 PM
 
 The meeting is called to order at 12:00 PM; it being noted that the Members were in remote attendance, Councillors M. Cassidy, M. Hamou and J. Morgan.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;Appointments and Updates to the Joint Venture Management Committee for the 4-Pad Arena Complex
 
@@ -56,11 +54,9 @@ b)    the Western Fair Association’s Chief Executive Officer, and the Direct
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 > Moved by M. Hamou
 
@@ -124,7 +120,6 @@ That the application dated August 25, 2022 from Rainbows For All Children Canada
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) Application - Issuance of Proclamation - Treaties Recognition Week
 
@@ -148,7 +143,6 @@ That based on the application dated September 22, 2022 from Oneida Nation of the
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by J. Fyfe-Millar
 

@@ -17,11 +17,9 @@ February 8, 2021, at  4:00 PM
 
 The meeting is called to order at 4:01 PM, with Councillor P. Squire in the Chair, Councillor S. Lewis present and all other Members participating by remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That Councillor S. Lehman disclosed a pecuniary interest in clause 2.8 of this Report, having to do with the London Recovery Network - Ideas for Action by Municipal Council, as it relates to increase grant funding/building code for façade upgrades, by indicating that he is a tenant in the downtown area under construction.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Lewis
 
@@ -318,7 +316,6 @@ Motion to approve clause a) 3.5, which reads as follows:
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Application - 3195 White Oak Road (Z-9204)
 
@@ -572,15 +569,12 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 ## 6.1&nbsp;&nbsp;&nbsp;Solicitor-Client Privilege / Litigation or Potential Litigation
 
@@ -610,7 +604,6 @@ The Planning and Environment Committee convenes, In Closed Session, from 6:01 PM
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 6:13 PM.
 

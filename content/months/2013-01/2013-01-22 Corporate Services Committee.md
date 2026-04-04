@@ -12,12 +12,10 @@ January 22, 2013, at  1:08 PM
 > [!abstract]- Also Present:
 > D. Henderson, H.L. Usher; A. Zuidema, B. Baar, J.P. Barber, J. Braam, H. Filger, A. Hagan, M. Hayward, G.T. Hopcroft, J. Jackson, J. Logan, C. Saunders, M. Turner, B. Warner
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that Councillor N.
   Branscombe disclosed a pecuniary interest in clause 4 of this report, having
   to do with the Skyway Industrial Park, by indicating that her spouse owns and
   operates a business in close proximity to the Skyway Industrial Park.
 
-# 2.&nbsp;&nbsp;&nbsp;Assessment Growth
   for 2013, Changes in Taxable Phase-In Values, and Shifts in Taxation as a
   Result of the 2013 Reassessment
 
@@ -28,7 +26,6 @@ Recommendation:  That, on the
   in taxable phase-in values and shifts in taxation as a result of the 2013
   reassessment BE RECEIVED for information.
 
-# 3.&nbsp;&nbsp;&nbsp;2013 General
   Insurance Renewal
 
 Recommendation:  That, on the
@@ -41,7 +38,6 @@ Recommendation:  That, on the
   Middlesex-London Health Unit for a total annual premium of $2,476,212.32
   inclusive of sales tax.
 
-# 4.&nbsp;&nbsp;&nbsp;Request from London
   Machinery Inc. to Extend its Option on Parts 15 to 19, Plan 33R-17397 -
   Skyway Industrial Park
 
@@ -62,7 +58,6 @@ b)         the
   request and to authorize the Mayor and the City Clerk to execute the amended
   Option Agreement.
 
-# 5.&nbsp;&nbsp;&nbsp;Request for
   Designation of the International Food Festival as an Event of
   Municipal Significance
 
@@ -70,14 +65,12 @@ Recommendation: That the International Food
   Festival to be held June 21-23, 2013, in Victoria Park, BE DESIGNATED as
   an event of municipal significance in the City of London.
 
-# 6.&nbsp;&nbsp;&nbsp;Request for
   Designation of the London Rib Fest as an Event of Municipal Significance
 
 Recommendation:  That the London Rib Fest
   to be held August 1-5, 2013, in Victoria Park, BE DESIGNATED as an
   event of municipal significance in the City of London.
 
-# 7.&nbsp;&nbsp;&nbsp;Request for
   Designation of Rock the Road 10k as an Event of Municipal Significance
 
 Recommendation:  That the Rock the Road 10K
@@ -85,7 +78,6 @@ Recommendation:  That the Rock the Road 10K
   beer garden in the parking lot of Masonville Mall, BE DESIGNATED as an
   event of municipal significance in the City of London.
 
-# 8.&nbsp;&nbsp;&nbsp;Request for
   Delegation Status at the Corporate Services Committee re Use of Local
   Improvement Charges
 
@@ -108,7 +100,6 @@ b)           
   Committee Secretary BE DIRECTED to invite Mr. Hobson to appear as a
   delegation when the staff report comes forward to the CSC.
 
-# 9.&nbsp;&nbsp;&nbsp;Resignation from
   the London Advisory Committee on Heritage
 
 Recommendation:  That
@@ -116,7 +107,6 @@ Recommendation:  That
   Advisory Committee on Heritage, BE ACCEPTED and Ms. Nelson BE
   THANKED for participating on the London Advisory Committee on Heritage.
 
-# 10.&nbsp;&nbsp;&nbsp;Appointment to the
   London Diversity and Race Relations Advisory Committee
 
 Recommendation:  That the following
@@ -129,7 +119,6 @@ Non-Voting:
 Carlen Costa (London Urban Services
        Organization)
 
-# 11.&nbsp;&nbsp;&nbsp;Councillor D. Henderson Proposal –
   Charitable Donations for Civic Purposes
 
 Recommendation:  That the attached

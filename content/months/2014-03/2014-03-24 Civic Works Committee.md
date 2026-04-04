@@ -15,13 +15,11 @@ March 24, 2014, at  4:02 PM
 > [!abstract]- Also Present:
 > J. Braam, T. Copeland, A. Dunbar, J. Lucas, D. MacRae, R. Pedlow, M. Ribera, L. Rowe, E. Soldo, J. Stanford, R. Welker
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Irregular Result for
   Tree Pruning/Removal Services (Tender No. 14-10)
 
 Recommendation:  That, on the
@@ -68,7 +66,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Granular Materials
   - Area "A" and Area "B" (Tender No. 13-113)
 
 Motion
@@ -88,7 +85,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Contract Award:
   2014 Growth Management Implementation Strategy (GMIS) Hyde Park Road Widening
   Phase 1 North of Oxford Street to North of CPR (Tender N0. T14-12)
 
@@ -149,7 +145,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Contract Award:
   2014 Infrastructure Lifecycle Renewal Program Contract 7: Fairview Avenue and
   Weston Street Reconstruction (Tender No. 14-04)
 
@@ -217,7 +212,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Contract Award:
   2014 Infrastructure Lifecycle Renewal Program Contract 8: Trafalgar Street
   Reconstruction (Tender No. 14-01)
 
@@ -287,7 +281,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Permanent Sewer
   Flow Monitoring Equipment Selection and Purchase (ES4422)
 
 Recommendation:  That, on the
@@ -339,7 +332,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Hyde Park No. 4
   Stormwater Management Facility Transitional Project - Engineering Consulting
   Fees
 
@@ -377,7 +369,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;2014 Annual
   Warranted Sidewalk Program (TS1165-14)
 
 Recommendation:  That, on the
@@ -402,7 +393,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;2014 Major
   Infrastructure Construction Program
 
 Recommendation:  That, on the
@@ -431,7 +421,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Appointment of
   Consulting Engineer - Gordon Sanitary Trunk Sewer Rehabilitation Project No. ES2473
 
 Recommendation:  That, on the
@@ -481,7 +470,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;3rd Report of the
   Transportation Advisory Committee
 
 Recommendation:  That the following actions

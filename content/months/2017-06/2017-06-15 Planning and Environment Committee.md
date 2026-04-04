@@ -15,13 +15,11 @@ June 15, 2017, at  4:00 PM
 > [!abstract]- Also Present:
 > M. Brown, M. van Holst; M. Hayward, G. Barrett, J.M. Fleming, S. Galloway, T. Grawey, N. Hall, A. MacLean, H. McNeely, D. Popadic, C. Saunders, S. Spring, M. Tomazincic
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;STAFF REPORT - Property
   located at 3105 Bostwick Road (H-8781)
 
 That, on the recommendation of the Senior
@@ -60,7 +58,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;4:00 PM - PUBLIC
   PARTICIPATION MEETING - Proposed Changes to the London Plan (O-7938)
 
 That, on the recommendation of the Managing

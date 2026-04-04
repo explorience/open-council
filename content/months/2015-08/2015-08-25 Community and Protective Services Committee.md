@@ -12,13 +12,11 @@ August 25, 2015, at  4:02 PM
 > [!abstract]- Also Present:
 > J. Helmer, M. van Holst; G. Barrett, B. Coxhead, S. Datars Bere, T. Kyle, L. Livingstone, K. Murray, C. Smith, S. Spring, S. Stafford, B. Westlake-Power
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;London Community
   Garden Program Strategic Plan (2015-2019)
 
 That the following actions be taken with
@@ -67,7 +65,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Healthy Kids
   Community Challenge and Transfer Payment Agreement
 
 That, on the recommendation of the Managing
@@ -109,7 +106,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Middlesex-London in
   motion™ Community Challenge
 
 That, on the recommendation of the Managing
@@ -137,7 +133,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;1st Report of the
   City of London and Thames Valley District School Board Liaison Committee
 
 Motion
@@ -157,7 +152,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the Deferred Matters List for the
@@ -180,14 +174,12 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Playground Vandalism
 
 That it BE NOTED that the Managing Director
   of Parks and Recreation provided a verbal update to the Community and
   Protective Services Committee, with respect to the recent playground
   vandalism.
 
-# 8.&nbsp;&nbsp;&nbsp;Pesticide Use
 
 That it BE NOTED that the Managing Director
   of Parks and Recreation provided a verbal update to the Community and

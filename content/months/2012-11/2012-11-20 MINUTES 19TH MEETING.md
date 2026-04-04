@@ -18,15 +18,12 @@ November 20, 2012, at  5:00 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 5:00 PM.
 
-# I.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Investment and Economic Prosperity
     Proposal Assessment Process
 
 Pursuant to section 12.3 of the Council
@@ -78,7 +75,6 @@ Motion Passed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Westminster Working
   Group - Community Connection
 
 That the report dated November 12, 2012
@@ -87,7 +83,6 @@ That the report dated November 12, 2012
   from Parliament Crescent to Commissioners Road East, BE RECEIVED for
   information. (2012-C06-00)
 
-# 4.&nbsp;&nbsp;&nbsp;The Board of Health of the Middlesex-London
   Health Unit
 
 Motion Passed
@@ -176,7 +171,6 @@ Motion Passed
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Child and Youth
   Agenda ll "The Best for Children Youth and Families ll - The Next Three
   Years of London's Child and Youth Agenda to 2015."
 
@@ -222,7 +216,6 @@ Secretary’s Note – copies of the report
   Office for viewing.  
   (2012-C06-00)
 
-# II.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 Councillor B. Polhill discloses a pecuniary
@@ -238,7 +231,6 @@ Councillor D. Henderson discloses a
   Wellington Road South, by indicating that he is a professional engineer and
   is working on solving the odour problem at the property.
 
-# III.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE EIGHTEENTH MEETING HELD ON OCTOBER 30, 2012
 
 > Moved by Councillor B. Polhill
@@ -272,10 +264,8 @@ Motion Passed
 
 ****
 
-# IV.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# V.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
 > Moved by Councillor B. Polhill
@@ -287,10 +277,8 @@ Approve referral of the following
 
 ****
 
-# VI.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# VII.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
 30th  Report of the Finance and
@@ -307,7 +295,6 @@ Approve referral of the following
 19th Report of the Strategic Priorities and
   Policy Committee
 
-# VIII.&nbsp;&nbsp;&nbsp;REPORTS
 
 At 5:22 PM, Councillor Branscombe enters
   the meeting.
@@ -318,7 +305,6 @@ Approve clauses 1 to 9.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;1st Report of the
   Child Care Advisory Committee
 
 That the following actions be taken with
@@ -334,7 +320,6 @@ a)         the
  
 b)         clauses 2 to 10, BE RECEIVED.
 
-# 7.&nbsp;&nbsp;&nbsp;London's Municipal
   Golf System
 
 That, on the recommendation of the Managing
@@ -377,7 +362,6 @@ it being noted that the Community Services
   Manager, Parks and Community Sports, with respect to this matter.
   (2012-A09-05)
 
-# 8.&nbsp;&nbsp;&nbsp;Sole Source
   Purchases of a License for Centralized Child Care Waitlist Application
 
 > Moved by Councillor P. Hubert
@@ -439,7 +423,6 @@ Approve clauses 1 to 5.
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Property located at
   7 Holiday Avenue (H-7964)
 
 > Moved by Councillor B. Polhill
@@ -459,7 +442,6 @@ Approve that, on the recommendation of the Managing Director, Planning &
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Property located at
   181 Skyline Avenue
 
 > Moved by Councillor S.E. White
@@ -712,7 +694,6 @@ Motion Passed
 Motion
   made by Councillor B. Polhill to Approve clauses 1 and 2.
 
-# 11.&nbsp;&nbsp;&nbsp;2nd Report of the
   Environmental and Ecological Planning Advisory Committee
 
 That the 2nd Report of the Environmental
@@ -721,7 +702,6 @@ That the 2nd Report of the Environmental
   Environment Committee did not hear a verbal presentation from D. Sheppard,
   Chair, EEPAC.
 
-# 12.&nbsp;&nbsp;&nbsp;3rd Report of the
   London Advisory Committee on Heritage
 
 That, the following actions be taken with
@@ -773,7 +753,6 @@ it being noted that the Planning and
   Environment Committee heard a verbal presentation from W. Kinghorn,
   Vice-Chair, LACH, with respect to these matters.
 
-# 13.&nbsp;&nbsp;&nbsp;Properties located
   at 1351-1369 Hyde Park Road (O-8077)
 
 > Moved by Councillor B. Polhill
@@ -834,7 +813,6 @@ R. Knutson, Knutson Development
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Property located at
   2079 Huron Street
 
 That, on the recommendation of the Managing
@@ -859,7 +837,6 @@ it being pointed out that there were no
   oral submissions made at the public participation meeting associated with
   this matter.    (2012-D10-00)
 
-# 15.&nbsp;&nbsp;&nbsp;Grosvenor Gate
   Neighbourhood Character Statement and Compatibility Guidelines (O-8102)
 
 > Moved by Councillor B. Polhill
@@ -917,7 +894,6 @@ it being pointed out that at the public
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Property located at
   2371 Highbury Avenue North (Z-8078)
 
 That, notwithstanding the recommendation of
@@ -927,7 +903,6 @@ That, notwithstanding the recommendation of
   meeting of the Planning and Environment Committee, at the request of the
   applicant;
 
-# 17.&nbsp;&nbsp;&nbsp;Property located at
   390 Princess Avenue (OZ-8088)
 
 a)         the
@@ -1090,7 +1065,6 @@ it being pointed out that at the public
   they are supportive of the application as it does not require the removal of
   a heritage structure.    (2012-D11-08)
 
-# 18.&nbsp;&nbsp;&nbsp;Property located at
   591 Maitland Street
 
 > Moved by Councillor B. Polhill
@@ -1269,7 +1243,6 @@ advising that the
 
 ****
 
-# 19.&nbsp;&nbsp;&nbsp;Property located at
   450 Oxford Street West (OZ-8003)
 
 That the delegation request from A.R.
@@ -1279,21 +1252,18 @@ That the delegation request from A.R.
   Committee meeting; it being noted that the application will be coming forward
   at a public participation meeting at that meeting.   (2012-D11-09/2)
 
-# 20.&nbsp;&nbsp;&nbsp;3rd Report of the
   Advisory Committee on the Environment
 
 That the 3rd Report of the Advisory
   Committee on the Environment from its meeting held on October 3, 2012, BE
   RECEIVED.
 
-# 21.&nbsp;&nbsp;&nbsp;2nd Report of the
   Trees and Forests Advisory Committee
 
 That the 2nd Report of the Trees and
   Forests Advisory Committee from its meeting held on October 24, 2012, BE
   RECEIVED.
 
-# 22.&nbsp;&nbsp;&nbsp;Performance
   Indicators
 
 > Moved by Councillor B. Polhill
@@ -1349,10 +1319,8 @@ Motion Passed
 
 ****
 
-# IX.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# X.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
 Councillor H.L. Usher enquires if Council
   Members are making nominations for the Queen's Diamond Jubilee Medal.  The
@@ -1370,7 +1338,6 @@ Councillor J.B. Swan enquired about the
   effectively as possible and report back to the Municipal Council so that this
   matter can be finalized.
 
-# XI.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
 > Moved by Councillor P. Van Meerbergen
@@ -1445,7 +1412,6 @@ Motion Passed
 
 ****
 
-# XII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 > Moved by Councillor P. Van Meerbergen
 
@@ -1775,13 +1741,11 @@ Motion Passed
 
 ****
 
-# XIII.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
 MOTION
   FOR IN CAMERA SESSION
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

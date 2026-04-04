@@ -20,11 +20,9 @@ March 1, 2022, at  4:00 PM
 
 The meeting was called to order at 4:01 PM; it being noted that the following Members were in remote attendance: Mayor E. Holder; Councillors M. Hamou, J. Helmer and S. Hillier
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by E. Holder
 
@@ -241,11 +239,9 @@ Motion to restrict the number of and types of rescue animals in foster homes to 
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;K. Pihlak, Executive Director, Oak Park Co-operative Children's Centre - REQUEST FOR DELEGATION STATUS
 
@@ -359,7 +355,6 @@ it being noted that the communications, as appended to the Added Agenda, from J.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -405,7 +400,6 @@ That the 1st Report of the Community Safety and Crime Prevention Advisory Commit
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 > Moved by M. Hamou
 
@@ -431,7 +425,6 @@ The Community and Protective Services Committee convened In Closed Session from 
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 7:39 PM.
 ---

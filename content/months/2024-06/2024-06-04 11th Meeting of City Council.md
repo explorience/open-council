@@ -20,19 +20,15 @@ June 4, 2024, at  1:00 PM
 
 The meeting is called to order at 1:05 PM; it being noted that Councillors P. Van Meerbergen and S. Hillier were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED Councillor P. Van Meerbergen discloses a pecuniary interest in item 7, clause 2.7, having to do with London-Middlesex Child Care and Early Years Service System Plan 2024-2028, by indicating that his wife owns and operates a day care.
 
-# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
 His Worship the Mayor recognizes the recipient of the 2024 Tim Hickman Health and Safety Scholarship: Lindsay Townsend.
 
-# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
 
 > Motion made by C. Rahman
 
@@ -80,7 +76,6 @@ Council convenes In Closed Session, from 1:25 PM to 1:50 PM.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
 > Motion made by D. Ferreira
 
@@ -110,7 +105,6 @@ That the Minutes of the 10th Meeting of the Municipal Council, held on May 14, 2
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 > Motion made by C. Rahman
 
@@ -200,11 +194,9 @@ That the following communications BE RECEIVED, and BE REFERRED as noted on the A
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 None.
 
-# 8.&nbsp;&nbsp;&nbsp;Reports
 
 ## 8.1&nbsp;&nbsp;&nbsp;7th Report of the Community and Protective Services Committee 
 
@@ -2053,7 +2045,6 @@ b)    the Civic Administration BE DIRECTED to review the current Issuance of P
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 ## 9.1&nbsp;&nbsp;&nbsp;11th Report of Council in Closed Session
 
@@ -2095,21 +2086,17 @@ That the 9th Report of the Special Planning and Environment Committee BE APPROVE
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-# 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 Councillor E. Peloza enquires with respect to the process of the property tax bill insert from the Mayor's Office. The Mayor provides information about the mailout and costing and the Deputy City Manager, Financial Services provides a response related to Council Policy.
 
 Councillor P. Van Meerbergen enquires with respect to grass cutting.  The Deputy City Manager, Environment and Infrastructure provides a response with respect to the operations of grass cutting in city parks and alongside roads.
 
-# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 
 None.
 
-# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 > Motion made by P. Cuddy
 
@@ -2507,7 +2494,6 @@ By-law No. Z.-1-243218 – A by-law to amend By-law No. Z.-1 to rezone an area o
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by D. Ferreira
 

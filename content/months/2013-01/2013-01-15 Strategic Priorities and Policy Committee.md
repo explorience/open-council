@@ -12,10 +12,8 @@ January 15, 2013, at  3:32 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, J. Braam, B. Campbell, B. Coxhead, H. Filger, J.M. Fleming, P. Foto, M. Hayward, G. Kotsifas, L. Livingstone, S. MacDonald, V. McAlea Major, D. Mounteer, M. Ribera, C. Saunders, V. Sharma, J. Smout, J. Stanford, B. Westlake-Power
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Joint Venture - Fit
   Program
 
 Recommendation: 

@@ -12,13 +12,11 @@ October 8, 2013, at  1:02 PM
 > [!abstract]- Also Present:
 > S. Orser, A. Zuidema, J.P. Barber, J. Braam, L. Burgess, M. Hayward, G.T. Hopcroft, D. Huggins, V. McAlea Major, M. Ribera, M. Turner
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Deputy City
   Treasurer - Corporate Asset Management System Assessment and Program Pilot
   Trials
 
@@ -62,7 +60,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Director of
   Intergovernmental and Community Liaison - Ministerial Delegations, AMO Annual
   General Meeting, Conference and Trade Show 2013
 
@@ -89,7 +86,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Councillor H.L.
   Usher and Councillor J.L. Baechler - Federation of Canadian Municipalities
   Board of Directors Meeting - St. John's, Newfoundland - September 4-7, 2013
 
@@ -116,7 +112,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Councillor J.B.
   Swan - Councillor Expense Reports
 
 Recommendation:  That the following actions
@@ -154,7 +149,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Councillor J.B.
   Swan - Participation at Committee Meetings via Technology
 
 Recommendation:  That the communication dated
@@ -180,7 +174,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Councillor S. Orser
   - Allow Free Vote on Fluoride - 2014 Municipal Election Ballot (Plebiscite)
 
 Recommendation:  That NO ACTION BE TAKEN to
@@ -206,7 +199,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;G. Macartney, CEO,
   London Chamber of Commerce - Bill 73 - Fair and Open Tendering Act
 
 Recommendation:  That the communication
@@ -233,7 +225,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;B. Warder, Trustee,
   Animalert Pet Adoptions - Appointment of Carole Dutton as a Voting
   Representative of an Animal Rescue Group to the Animal Welfare Advisory
   Committee (Requires 1 Member of an Animal Rescue Group)
@@ -259,7 +250,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;V. Marochko,
   Executive Director, London Cross Cultural Learner Centre - Appointment of
   Rifat Hussain as a Non-Voting Representative of the Cross Cultural Learner
   Centre to the London Diversity and Race Relations Advisory Committee
@@ -286,7 +276,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;S. Hogarth,
   Executive Director, Neighbourhood Watch London - Appointment of Jon Ferreira
   as a Voting Representative of Neighbourhood Watch to the Community Safety and
   Crime Prevention Advisory Committee

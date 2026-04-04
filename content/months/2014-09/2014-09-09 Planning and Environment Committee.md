@@ -12,10 +12,8 @@ September 9, 2014, at  4:10 PM
 > [!abstract]- Also Present:
 > D. Brown, G. Barrett, P. Christiaans, C. Colvin, M. Corby, M. Elmadhoon, J.M. Fleming, S. Galloway, T. Grawey, M. Johnson, P. Kokkoros, G. Kotsifas, E. Lalande, A. MacLean, S. Meksula, D. Menard, N. Pasato, J. Ramsay, C. Saunders, M. Tomazincic, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Properties located
   at 360 Crumlin Sideroad and 3301 and 3345 Gore Road - Notice of Appeal to the
   Ontario Municipal Board (OZ-8188)
 
@@ -46,7 +44,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Properties located
   at 1195 Fanshawe Park Road West and 2151 Dalmagarry Road (H-8388)
 
 Recommendation:  That, on the
@@ -78,7 +75,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Property located at
   1057 Richmond Street
 
 Recommendation:  That, on the
@@ -105,7 +101,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Victoria on the
   River Subdivision - Phase 1 (formerly 1603 Hamilton Road) (H-8403)
 
 Recommendation:  That, on the
@@ -137,7 +132,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Property located at
   1959 Wharncliffe Road South (Foxwood Crossing - Phase 2) - Request for
   Extension - Draft Plan (39T-07507)
 
@@ -182,7 +176,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Properties located
   at 181 and 199 Commissioners Road East - Highland Green Subdivision -
   Extension to Draft Plan of Subdivision Approval (39T-08501)
 
@@ -224,7 +217,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Property located at
   1070 Gainsborough Road (H-8398)
 
 Recommendation:  That, on the
@@ -254,7 +246,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Property located at
   1139 Fanshawe Park Road West (H-8337)
 
 Recommendation:  That, on the recommendation
@@ -303,7 +294,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Property located at
   312 Sunningdale Road West - Request for Extension of Draft Approval
   (39T-10502)
 
@@ -347,7 +337,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Cedarhollow
   Subdivision - Phase 3 (39T-03518)
 
 Recommendation:  That, on the
@@ -395,7 +384,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Powell-Uplands
   North Subdivision - Phase 3 (39T-05510)
 
 Recommendation:  That, on the
@@ -445,7 +433,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Property located at
   312 Oxford Street East
 
 Recommendation:  That, the written
@@ -529,7 +516,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Property located at
   720 Proudfoot Lane (OZ-8375)
 
 Recommendation:  That, on the
@@ -619,7 +605,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Wortley Village -
   Old South Heritage Conservation District
 
 Recommendation:  That, on the
@@ -753,7 +738,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Property located at
   915 Queens Avenue
 
 Recommendation:  That, on the
@@ -829,7 +813,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;Property located at
   2054 Adelaide Street North (39T-11502/OZ-7921)
 
 Recommendation:      That, on the
@@ -1020,7 +1003,6 @@ Motion
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;Lands south of
   Exeter Road, north of Dingman Drive, east of White Oak Road and west of the
   Marr Drain (O-8362)
 
@@ -1185,7 +1167,6 @@ Motion
 
 ****
 
-# 19.&nbsp;&nbsp;&nbsp;Property located at
   2151 Dalmagarry Road and 1195 Fanshawe Park Road West (Z-8387)
 
 Recommendation:  That, on the

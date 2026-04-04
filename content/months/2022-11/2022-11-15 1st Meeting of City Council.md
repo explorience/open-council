@@ -11,31 +11,25 @@ November 15, 2022, at  6:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Processional
 
 The Council-Elect is led into the Meeting by the London Police Service Piper, London Police Service Colour Guard and London's Sergeant-at-Arms.
 
 ## 1.1&nbsp;&nbsp;&nbsp;London Police Services Piper - Pipe Major Scott Shaw
 
-# 2.&nbsp;&nbsp;&nbsp;Traditional Land Recognition
 
 The Mayor-Elect, J. Morgan, provides the Traditional Land Recognition.
 
-# 3.&nbsp;&nbsp;&nbsp;National Anthem
 
 The National Anthem is led by the Grade 11 Vocal Class from Catholic Central High School Vocal Program.
 
-# 4.&nbsp;&nbsp;&nbsp;Communications
 
 The City Clerk acknowledges, with thanks, the communications received from P. Fragiskatos, MP London North Centre and R. Flack MPP Elgin-Middlesex-London.
 
 Ms. A. Kayabaga, MP London West, brings greetings.
 
-# 5.&nbsp;&nbsp;&nbsp;Appreciation to Government and Community Representatives
 
 Mayor-Elect J. Morgan extends appreciation to the Federal Government representatives, Provincial Government representatives, past Municipal Council Members and community representatives and to all in attendance.
 
-# 6.&nbsp;&nbsp;&nbsp;Declarations of Office
 
 The City Clerk, Michael Schulthess, administers the Declaration of Office to His Worship Mayor Josh Morgan.
 
@@ -67,23 +61,18 @@ The City Clerk, Michael Schulthess, administers the Declaration of Office to Cou
 
 The City Clerk, Michael Schulthess, administers the Declaration of Office to Councillor S. Hillier.
 
-# 7.&nbsp;&nbsp;&nbsp;Investiture of the Mayor's Chain of Office
 
 Ann Bigelow, Retired Faculty, Management and Organizational Studies, Western University invests His Worship Josh Morgan with the Mayor's Chain of Office.
 
-# 8.&nbsp;&nbsp;&nbsp;Raising of the Mace
 
 Sergeant-at-Arms Daytanyon Wood raises the Mace.
 
-# 9.&nbsp;&nbsp;&nbsp;The Mayor's Inaugural Address
 
 His Worship Mayor Josh Morgan calls the meeting to order and delivers the Inaugural Address.
 
-# 10.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 11.&nbsp;&nbsp;&nbsp;Appointment of Deputy Mayor
 
 At 6:59 PM, His Worship Mayor Morgan places Councillor A. Hopkins in the Chair.
 
@@ -99,7 +88,6 @@ That on the recommendation of the Mayor, the appointment of Councillor Shawn Lew
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;(ADDED) Appointment of Budget Chair
 
 At 7:02 PM, His Worship Mayor Morgan places Councillor A. Hopkins in the Chair.
 
@@ -115,7 +103,6 @@ That Councillor Elizabeth Peloza BE APPOINTED as the Council lead for the Budget
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 > Motion made by A. Hopkins
 
@@ -177,7 +164,6 @@ That Third Reading and Enactment of Bill No. 2, BE APPROVED.
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by S. Lewis
 
@@ -191,7 +177,6 @@ The meeting adjourned at 7:09 PM.
 
 ****
 
-# Appendix: New Bills
 
 > [!abstract]- The following Bills are enacted as By-laws of The Corporation of the City of London:
 > **Bill No. 1**

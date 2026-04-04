@@ -20,7 +20,6 @@ May 7, 2018, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Councillor S. Turner disclosed a pecuniary interest with respect to Item 3.2 of this Report, having to do with the Bus Rapid Transit Project, specifically as it relates to that portion of the proposed Rapid Transit route that passes between the Thames River and Baseline Road East, as contained in the South Leg of the proposed route.
 
@@ -34,7 +33,6 @@ Councillor J. Morgan further disclosed a pecuniary interest with respect to Item
 
 Councillor J. Zaifman disclosed an interest with respect to Item 3.1 of this Report, having to do with the Growth Management Implementation Strategy (GMIS), by indicating that his family owns property in the vicinity of the Parker Drain.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;Strategic Plan: Semi-Annual Progress Report
 
@@ -67,7 +65,6 @@ That, on the recommendation of the City Manager, the Semi-Annual Progress Report
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Public Participation Meeting - Not to be heard before 4:15 PM - Growth Management Implementation Strategy (GMIS)
 
@@ -393,7 +390,6 @@ That the 2017 Annual Report and Financial Statements for the London Convention 
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;8th Report of the Governance Working Group
 
@@ -544,7 +540,6 @@ c)         clauses 1, 2 and 5 BE RECEIVED.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) London Middlesex Housing Corporation Board of Directors Vacancies
 
@@ -585,7 +580,6 @@ b)           the following individuals BE INTERVIEWED by the Corporate
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for members only.)
 
 ## 6.1&nbsp;&nbsp;&nbsp;(ADDED) Land Acquisition/Solicitor-Client Privileged Advice
 
@@ -601,7 +595,6 @@ A matter pertaining to instructions and directions to officers and employees of 
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 9:31 PM.
 

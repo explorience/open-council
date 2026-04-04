@@ -18,18 +18,13 @@ January 30, 2018, at  4:06 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:03 P.M.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
-# II.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# 1.&nbsp;&nbsp;&nbsp;Property Acquisition – W12A Landfill Buffer
   – 5725 White Oak Road
 
-# III.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# IV.&nbsp;&nbsp;&nbsp;COUNCIL, IN
   CLOSED SESSION
 
 > Moved by Councillor J. Helmer
@@ -64,7 +59,6 @@ Motion Passed
 
 ****
 
-# V.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE SECOND MEETING HELD ON JANUARY 16, 2018
 
 > Moved by Councillor J. Helmer
@@ -98,13 +92,10 @@ Motion Passed
 
 ****
 
-# VI.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
-# 2.&nbsp;&nbsp;&nbsp;Offer to Purchase Industrial Lands –
   1803299 Ontario Inc. – Lot 12, Plan 33M-415 – River Road Industrial Park
 
-# 3.&nbsp;&nbsp;&nbsp;Property Disposition – Former Sherwood
   Forest Public School Located at 7 Annadale Drive
 
 Motion Passed
@@ -128,7 +119,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;2019 Development Charges Study Policy
   Matters Update
 
 Motion Passed
@@ -160,16 +150,12 @@ Approve clause 1 through 3:
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Development Charges:  Core Area Servicing
   Studies
 
-# 6.&nbsp;&nbsp;&nbsp;2019 Development Charges (DC) Study – DC
   Area Rating Policy Review
 
-# VII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# VIII.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor S. Turner
 
@@ -177,17 +163,12 @@ Approve clauses 1 through 8, 10 through 12 and 15 through 18, inclusive.
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Appointment to the Committee of Adjustment
 
-# 8.&nbsp;&nbsp;&nbsp;London Transit Commission Chair and Vice
   Chair
 
-# 10.&nbsp;&nbsp;&nbsp;Resignation from the Rapid Transit
   Implementation Working Group
 
-# 11.&nbsp;&nbsp;&nbsp;International Plowing Match
 
-# 12.&nbsp;&nbsp;&nbsp;Declare Surplus -
   City-Owned Land Abutting 740 Dundas Street
 
 That, on the recommendation of the Managing
@@ -204,7 +185,6 @@ b)         the
   subject property BE TRANSFERRED to Terrasan 744 Ltd. for nominal
   consideration.
 
-# 15.&nbsp;&nbsp;&nbsp;Request for
   Designation of the Latin Gastronomy Festival as a Municipally Significant
   Event
 
@@ -212,7 +192,6 @@ That the Latin Gastronomy Festival 2018, to
   be held on Saturday, March 3, 2018 from 6:00 p.m. to 1:00 a.m. at Hassan Law,
   BE DESIGNATED as an event of municipal significance in the City of London.
 
-# 16.&nbsp;&nbsp;&nbsp;United States of
   America - Canada Strong Cities Exchange Program and the United States of
   America Conference of Mayors 86th Winter Meeting - January 23 -27, 2018 -
   Washington
@@ -232,7 +211,6 @@ b)         Mayor
   Washington, DC, from January 23 to 27, 2018, as part of the Canadian Strong
   Cities Exchange Program delegation.
 
-# 17.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the Managing Director, Planning and
@@ -240,7 +218,6 @@ That the Managing Director, Planning and
   & Chief Building Official BE DIRECTED to update the Deferred Matters List
   to remove any items that have been addressed by the Civic Administration.
 
-# 18.&nbsp;&nbsp;&nbsp;1st Report of the
   Agricultural Advisory Committee
 
 That, the following actions be taken with
@@ -287,10 +264,8 @@ iii)         the
  
 e)         clauses 1 to 5 BE RECEIVED.
 
-# 9.&nbsp;&nbsp;&nbsp;Hyde Park Business Improvement Association
   Board of Management – Change to Membership
 
-# 13.&nbsp;&nbsp;&nbsp;Award of Construction
   Contract to Demolish 280 York Street/340 Wellington Street
 
 That, on the recommendation of the Managing
@@ -320,7 +295,6 @@ e)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations.
 
-# 14.&nbsp;&nbsp;&nbsp;LGBTQ2 Community
   Apology
 
 Whereas on January 12, 2018 the Mayor of
@@ -409,7 +383,6 @@ Motion Passed
 
 ****
 
-# IX.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
 > Moved by Councillor P. Hubert
@@ -418,15 +391,11 @@ Approve clauses 1, 2 and 5 through 11.
 
 ****
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -696,7 +665,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

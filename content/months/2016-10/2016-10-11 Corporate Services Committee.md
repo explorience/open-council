@@ -12,13 +12,11 @@ October 11, 2016, at 12:12 PM
 > [!abstract]- Also Present:
 > M. Cassidy, A. Hopkins, M. van Holst; A. Zuidema, K. Graham, D. O’Brien, M. Ribera, A. Thompson
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That
   it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Meeting with the Members of Parliament
 
 That the verbal presentations from the
   following individuals with respect to the collective efforts of federal,

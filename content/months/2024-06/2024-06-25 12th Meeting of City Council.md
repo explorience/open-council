@@ -20,21 +20,17 @@ June 25, 2024, at  1:00 PM
 
 The meeting is called to order at 1:03 PM; it being noted that Councillors P. Van Meerbergen and S. Hillier were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED Councillor P. Cuddy discloses a pecuniary interest in item 5, (2.1) of the 11th Report of the Corporate Services Committee having to do with Declaring Surplus, City-owned Property - Part of Pine Street, by indicating that he has previously leased land to Sofina Foods Inc.
 
 That it BE NOTED that Councillor A. Hopkins discloses a pecuniary interest in item 4.2, (6.1) of the 11th Report of the Corporate Services Committee by indicating that her son is employed by The Corporation of the City of London and represented by CUPE 107.
 
-# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
 
 > Motion made by C. Rahman
 
@@ -78,7 +74,6 @@ That Council convenes In Closed Session, from 1:15 PM to 1:46 PM.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
 > Motion made by D. Ferreira
 
@@ -108,7 +103,6 @@ That the Minutes of the 11th Meeting held on June 4, 2024, BE APPROVED.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 > Motion made by C. Rahman
 
@@ -172,11 +166,9 @@ That the following communications BE RECEIVED, and BE REFERRED as noted on the A
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 None.
 
-# 8.&nbsp;&nbsp;&nbsp;Reports
 
 ## 8.1&nbsp;&nbsp;&nbsp;9th Report of the Civic Works Committee  
 
@@ -2257,7 +2249,6 @@ At 6:00 PM Councillors A. Hopkins and S. Stevenson leave the meeting.
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 ## 9.1&nbsp;&nbsp;&nbsp;12th Report of Council in Closed Session
 
@@ -2297,17 +2288,13 @@ That progress was made with respect to items 4.1 and 4.3 as noted on the public 
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-# 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 None.
 
-# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 
-# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 > Motion made by P. Cuddy
 
@@ -2580,7 +2567,6 @@ By-law No. Z.-1-243226 – A by-law to amend By-law No. Z.-1 to rezone an area o
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by C. Rahman
 

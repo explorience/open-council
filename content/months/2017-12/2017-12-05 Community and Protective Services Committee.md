@@ -12,13 +12,11 @@ December 5, 2017, at  4:00 PM
 > [!abstract]- Also Present:
 > J. Helmer, M. van Holst; B. Coxhead, S. Datars Bere, C. DeForest, O. Katolyk, G. Kotsifas, L. Livingstone, J. Millson, D. O’Brien, M. Ribera, J. Smout, S. Stafford, J. Tansley, A. Thompson, B. Westlake-Power
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Election of Vice
   Chair for the Term Ending November 30, 2018
 
 That Councillor V. Ridley BE ELECTED
@@ -42,7 +40,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Museum London
   Operating Endowment Fund Transfer Request
 
 That, on the recommendation of the Managing
@@ -78,7 +75,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;2017 Annual
   Emergency Management Program Update
 
 That, on the recommendation of the Managing
@@ -110,7 +106,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Memorandums of
   Understanding with St. John Ambulance and London Intercommunity Health Centre
 
 That, on the recommendation of the Division
@@ -161,7 +156,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Supply Chain Group
   Approval Purchasing and Revenue Share Agreements
 
 That, on the recommendation of the Managing
@@ -221,7 +215,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;4th Report of the
   Town and Gown Committee
 
 That it BE NOTED that the 4th Report of the
@@ -246,7 +239,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;10th Report of the
   London Housing Advisory Committee
 
 That it BE NOTED that the 10th Report of
@@ -271,7 +263,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Community Mental
   Health and Addiction Strategy for London: Moving Forward Together
 
 That, on the recommendation of the Managing
@@ -365,7 +356,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Taxi Operating
   Expenses
 
 That the communication from F. Bander with
@@ -393,7 +383,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Taxi Issues
 
 That the communication from H. Savehilaghi,
   Yellow London Taxi Inc., with respect to taxi issues BE REFERRED to the
@@ -420,7 +409,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Business Licensing
   By-law Review - New and Revised Regulations
 
 That, on the recommendation of the Managing
@@ -449,7 +437,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;10th Report of the
   Accessibility Advisory Committee
 
 That the following actions be taken with
@@ -492,7 +479,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;11th Report of the
   Diversity, Inclusion & Anti-Oppression Advisory Committee
 
 That the following actions be taken with
@@ -530,7 +516,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the December 2017 Deferred Matters
@@ -553,7 +538,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Council Chamber Doors
 
 The City Clerk BE REQUESTED to investigate
   and give a verbal report back to the Community and Protective Services

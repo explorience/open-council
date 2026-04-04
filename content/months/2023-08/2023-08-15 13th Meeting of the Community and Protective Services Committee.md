@@ -20,11 +20,9 @@ August 15, 2023, at  4:00 PM
 
 The meeting was called to order at 4:02 PM.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by D. Ferreira
 
@@ -72,7 +70,6 @@ That, on the recommendation of the Deputy City Manager, Social and Health Develo
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Fireworks By-law Options
 
@@ -383,7 +380,6 @@ That the motion, as amended, BE APPROVED.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Inter Faith Homes (London) Transition Strategy: Appointment of London-Middlesex Community Housing
 
@@ -423,11 +419,9 @@ c)    the Deputy City Manager, Planning and Economic Development, or their wri
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 8:12 PM.
 ---

@@ -22,11 +22,9 @@ November 2, 2021, at 12:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by P. Van Meerbergen
 
@@ -217,11 +215,9 @@ e)        the Mayor and the City Clerk BE AUTHORIZED to execute any contract
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Initiation of the Mobility Master Plan Development
 
@@ -292,7 +288,6 @@ That, on the recommendation of the Deputy City Manager, Environment and Infrastr
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 > Moved by S. Turner
 
@@ -400,7 +395,6 @@ it being noted that the Civic Works Committee was made aware of the attached on
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 1:29 PM.
 

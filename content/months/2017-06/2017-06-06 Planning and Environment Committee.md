@@ -12,13 +12,11 @@ June 6, 2017, at  4:02 PM
 > [!abstract]- Also Present:
 > J. Adema, G. Barrett, M. Campbell, H. Chapman, C. Crossman, A. DeCicco, M. Elmadhoon, J.M. Fleming, S. Galloway, T. Grawey, N. Hall, A. MacLean, A. Macpherson, C. Parker, R. Patterson, L. Pompilii, M. Ribera, J-A. Spence, M. Tomazincic, B. Westlake-Power, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;5th Report of the
   Environmental and Ecological Planning Advisory Committee
 
 That, the following actions be taken with
@@ -85,7 +83,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;6th  Report of the
   Trees and Forests Advisory Committee
 
 That the following actions be taken with
@@ -121,7 +118,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Planning Services 18-24 Month Work Program
 
 That, the following actions be taken with
@@ -163,7 +159,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Cedar Hollow Subdivision - Portion of 1800 Cedarhollow Boulevard (39T-03518)
 
 That, on the recommendation of the Senior
@@ -274,7 +269,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Building Division Monthly Report - April 2017
 
 That the Building Division monthly report
@@ -297,7 +291,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Amendments to the Z-1 Zoning By-law - Shipping
   Containers and Trailers - City Wide (Z-8623)
 
@@ -389,7 +382,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Property located at 905 Adelaide Street North
   (Z-8743)
 
@@ -505,7 +497,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Property located at 510 Central Avenue (SPA17-021)
 
 That, on the recommendation of the Manager,
@@ -598,7 +589,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Properties located at 3350 and 3460 Morgan Avenue
   (Z-8738)
 
@@ -744,7 +734,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Deleting Section 4.18.5 of Zoning By-law Z-1 to
   permit Amplified Music, Dancing on Patios City Wide (Z-8763)
 
@@ -882,7 +871,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;PUBLIC PARTICIPATION
   MEETING - Wonderland Road Community Enterprise Corridor Land Use Designation
   in the Southwest Area Secondary Plan (O-8731)
 

@@ -15,13 +15,11 @@ September 9, 2014, at  2:00 PM
 > [!abstract]- Also Present:
 > W.R. Monteith; J.P. Barber, P. Christiaans, C. Colvin, N. Hall, M. Hayward, M. Henderson, P. Kokkoros, G. Kotsifas
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation: That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Tribunal -
   Development Charge Complaint - 1030 Elias Street
 
 Recommendation:  That

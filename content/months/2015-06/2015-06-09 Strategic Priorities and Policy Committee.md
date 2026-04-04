@@ -15,7 +15,6 @@ June 9, 2015, at  4:02 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, J. Braam, B. Coxhead, S. Datars Bere, D. Dobson, C. Dziedzic, J.M. Fleming, K. Graham, L. Green, M. Henderson, G. Kotsifas, K. Lakhotia, L. Livingstone, J. Lucas, V. McAlea Major, D. Mounteer, D. O’Brien, A. Ostrowski, B. Warner, B. Westlake-Power
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that Councillor P. Hubert
@@ -28,7 +27,6 @@ That it BE NOTED that Councillor P. Hubert
   that he is the Executive Director of a social services agency that has a
   contract with Ontario Works.
 
-# 2.&nbsp;&nbsp;&nbsp;Industrial Land
   Development Strategy Update
 
 That, on the recommendation of the City
@@ -73,7 +71,6 @@ Motion Passed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Agreement Between
   the City of London and The London Economic Development Corporation (LEDC)
   2015-2019
 
@@ -127,7 +124,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;London Hydro Inc.
 
 That, on the recommendation of the City
   Manager, the by-law appended to the staff report dated June 9, 2015 as Attachment
@@ -170,7 +166,6 @@ Motion Passed
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Resignation from
   the Town and Gown Committee
 
 That the resignation of Councillor J.
@@ -199,7 +194,6 @@ Motion Passed
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Advisory Committee
   Terms of Reference
 
 That the Civic Administration BE DIRECTED
@@ -230,7 +224,6 @@ Motion Passed
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Request for
   Appointment to the London Transit Commission Long Term Growth Report Working
   Group
 
@@ -260,7 +253,6 @@ Motion Passed
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;3rd Report of the
   Governance Working Group
 
 That the following actions be taken with
@@ -345,7 +337,6 @@ Motion Passed
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;ADDED - Orchestra
   London Bankruptcy
 
 That, on the recommendation of the Managing

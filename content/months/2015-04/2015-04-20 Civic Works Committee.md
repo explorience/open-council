@@ -15,13 +15,11 @@ April 20, 2015, at  1:03 PM
 > [!abstract]- Also Present:
 > A. Hopkins, M. Salih, S. Turner, J. Zaifman; J. Braam, A. Drost, T. Landry, J. Lucas, S. Maguire, L. Rowe, E. Soldo, S. Spring, J. Stanford, R. Welker
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;2nd Report of the
   Transportation Advisory Committee Meeting
 
 That the 2nd Report of the Transportation
@@ -43,7 +41,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;2015 Infrastructure
   Renewal Program - Burlington Crescent Reconstruction Project - T15-42
 
 That, on the recommendation of the Managing
@@ -91,7 +88,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;2015 Infrastructure
   Renewal Program - Dufferin Avenue Reconstruction Project - T15-21
 
 That, on the recommendation of the Managing
@@ -149,7 +145,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Amendments to the
   Traffic and Parking By-law
 
 That, on the recommendation of the Managing
@@ -175,7 +170,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Amendments to the
   Traffic and Parking By-law - Refreshment Vehicles
 
 That, on the recommendation of the Managing
@@ -201,7 +195,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Proposed Revision
   to the W12A Landfill Designated Haul Route
 
 That, on the recommendation of the Managing
@@ -226,7 +219,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;W12A Landfill -
   Proposal and Process to Accept Waste from Three Facilities Outside of London
 
 That, on the recommendation of the
@@ -260,7 +252,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Regional Rideshare
   Program Update
 
 That, on the recommendation of the
@@ -296,7 +287,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Community Research
   Snapshot - How Green Is London?
 
 That, on the recommendation of the
@@ -320,7 +310,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Bike (Cycling) Program
   Update
 
 That, on the recommendation of the Director,
@@ -344,7 +333,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Environmental
   Programs Update
 
 That, on the recommendation of the
@@ -368,7 +356,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Waste Diversion - 
   Update on Examination of Residential Organics Waste (Food Scraps) and Next
   Steps
 
@@ -414,7 +401,6 @@ Motion
 
 None
 
-# 14.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the Deferred Matters list BE REFERRED

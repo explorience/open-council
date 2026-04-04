@@ -20,11 +20,9 @@ January 30, 2023, at  4:00 PM
 
 The meeting is called to order at 4:00 PM
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by A. Hopkins
 
@@ -132,7 +130,6 @@ c)  clauses 1.1, 3.1, 3.4,  3.5, 3.6, 5.1, 5.2 and 5.3 BE RECEIVED for informa
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;2nd Report of the Ecological Community Advisory Committee
 
@@ -623,15 +620,12 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 7:49 PM.
 ---

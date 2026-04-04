@@ -15,13 +15,11 @@ May 13, 2014, at  1:04 PM
 > [!abstract]- Also Present:
 > B. Baar, J. Braam, S. Corman, K. Dawtrey, J. Freeman, L. Livingstone, V. McAlea Major, D. Mounteer, M. Ribera, C. Saunders, J. Smout, M. Turner, B. Warner
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Declare Surplus and
   Transfer to Abutting Property Owner Two Metre Strip of Road Allowance
   Abutting 2627 and 2633 Asima Drive and Reserve Block 116
 
@@ -54,7 +52,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Declare Surplus -
   City-Owned Property - 1192 Highbury Avenue, Former Fire Station #7
 
 Recommendation:  That, on the recommendation
@@ -87,7 +84,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Properties Beyond
   Useful Economic Life
 
 Recommendation:  That, on the
@@ -118,7 +114,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;2013 Compliance
   Report in Accordance with the Procurement of Goods and Services Policy
 
 Recommendation:  That, on the
@@ -175,7 +170,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Residential Tax
   By-law for Affordable Housing Program - Project at 219 St. George Street
 
 Motion
@@ -193,7 +187,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Residential Tax
   By-law for Affordable Housing Program - Project at 392 Richmond Street
 
 Recommendation:  That, on the
@@ -221,7 +214,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Accessible Voting
   Machines, Vote Counting Equipment, Voting by Mail, Advance and Proxy Voting
 
 Recommendation:  That, on the recommendation
@@ -247,7 +239,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Sale of VQA Wine at
   Eligible Ontario Farmers' Markets
 
 Recommendation:  That the following actions

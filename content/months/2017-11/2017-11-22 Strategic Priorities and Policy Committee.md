@@ -15,13 +15,11 @@ November 22, 2017, at  4:00 PM
 > [!abstract]- Also Present:
 > M. Hayward, A.L. Barbon, D. Bordin, B. Card, B. Coxhead, A. Dunbar, T. Gaffney, G. Kotsifas, L. Livingstone, J.P. McGonigle, J. Millson, K. Murray, K. Pawelec, D. Purdy, M. Ribera, A. Rozentals, C. Saunders, K. Scherr, J. Senese, C. Smith; S. Stafford, R. Wilcox, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;1st Report of the
   Outstanding London Ambassador Award Committee
 
 That the 1st Report of the Outstanding
@@ -51,7 +49,6 @@ Motion Passed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Strategic Plan:
   Semi-Annual Progress Report and 2017 Report to the Community
 
 That, on the recommendation of the City
@@ -84,7 +81,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;2018 PUBLIC
   PARTICIPATION MEETING - 2016-2019 Multi-Year Budget
 
 That the following written submissions for
@@ -250,7 +246,6 @@ Motion Passed
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;London &
   Middlesex Housing Corporation (LMHC) Board Members' Service Term Request
   for Extension
 
@@ -283,7 +278,6 @@ Motion Passed
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;6th Report of the
   Governance Working Group
 
 That the following actions be taken with
@@ -355,7 +349,6 @@ Motion Passed
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Hyde Park
   Business Improvement Area Board of Director Appointments
 
 That the following individuals BE APPOINTED
@@ -396,7 +389,6 @@ Motion Passed
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Resignation from
   the London Police Services Board
 
 That the resignation from Councillor S.

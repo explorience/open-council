@@ -20,13 +20,11 @@ May 27, 2019, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that Councillor M. Cassidy disclosed a pecuniary interest in clause 3.6 of this Report, having to do with  the property located at 307 Fanshawe Park Road East, by indicating that her family owns property in the area.
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by M. Cassidy
 
@@ -115,7 +113,6 @@ it being further noted that the Civic Administration will report back to the Mun
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Public Participation Meeting - 146 Exeter Road (Blocks 36 and 37, Richardson Subdivision) 39T-15501 (Z-9034)
 
@@ -595,7 +592,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Request for Delegation Status - S. Allen, MHBC Planning Urban Design and Landscape Architecture - 3080 Bostwick Road (Site 5)
 
@@ -619,13 +615,11 @@ That S. Allen, MHBC, BE GRANTED delegation status at the June 17, 2019 Planning 
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 9:44 PM.
 

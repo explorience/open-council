@@ -17,7 +17,6 @@ October 29, 2018, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
@@ -25,7 +24,6 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by A. Hopkins
 
@@ -198,7 +196,6 @@ d)            the Applicant BE ADVISED that the cost of registration 
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Delegation - S. Levin, Chair, A. Boyer and S. Hall, Environmental and Ecological Planning Advisory Committee - 11th Report of the  Environmental and Ecological Planning Advisory Committee
 
@@ -671,7 +668,6 @@ That D. Park, et. al. BE GRANTED an additional three minutes for their delegatio
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;10th Report of the London Advisory Committee on Heritage
 
@@ -731,11 +727,9 @@ b)            the Civic Administration BE DIRECTED to research and re
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential Appendix (Enclosed for Members only.)
 
 ## 6.1&nbsp;&nbsp;&nbsp;Personal Matters/Identifiable Individual
 
@@ -760,7 +754,6 @@ The Planning and Environment Committee convened in camera from 7:24 PM to 7:27 P
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 7:28 PM.
 

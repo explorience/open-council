@@ -15,13 +15,11 @@ March 20, 2017, at  4:28 PM
 > [!abstract]- Also Present:
 > M. Hayward, B. Card, B. Coxhead, C. Crawford, K. Graham, O. Katolyk, L. Killen, G. Kotsifas, D. O’Brien, C. Parker, C. Saunders, S. Spring, S. Stafford, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That
   it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;STAFF REPORT - 2017
   Rock the Park One-Time Exemption Request
 
 That the by-law included as Appendix A to
@@ -49,7 +47,6 @@ Motion Passed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Annual Review - 2017 Special Events Policies and Procedures Manual
 
 That the following actions be taken with
@@ -72,7 +69,6 @@ b)           
   reinstating escalating fines for repeated noise infractions and also options
   pertaining to insurance requirements.
 
-# 4.&nbsp;&nbsp;&nbsp;PUBLIC PARTICIPATION
   MEETING - Music, Entertainment and Culture District Feasibility Study and
   Strategy
 

@@ -15,7 +15,6 @@ February 28, 2013, at  4:07 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:07 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 Councillor P. Hubert discloses a pecuniary
@@ -66,13 +65,10 @@ Councillor P. Van Meerbergen discloses a
   to Children’s Services, by indicating that his wife owns and operates a day
   care center.
 
-# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
-# IV.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
 > Moved by Councillor B. Polhill
@@ -110,12 +106,9 @@ Motion Passed
 
 ****
 
-# V.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# VI.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 a)         That
@@ -129,12 +122,9 @@ b)         That
   those matters pertaining to residential rental licensing by indicating that
   he owns rental properties.
 
-# VII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# VIII.&nbsp;&nbsp;&nbsp;REPORTS
 
-# 2.&nbsp;&nbsp;&nbsp;2013 Service Change
   Business Cases
 
 > Moved by Councillor N. Branscombe
@@ -481,12 +471,10 @@ Motion Passed
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;B. Brock, email
 
 The attached communication dated
   January 28, 2013 from B. Brock BE RECEIVED.
 
-# 6.&nbsp;&nbsp;&nbsp;Additional Meeting
   Dates
 
 > Moved by Councillor D. Brown
@@ -523,7 +511,6 @@ Motion Passed
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;G. Macartney, CEO,
   London Chamber of Commerce - City Budget Priorities Balanced with the Need
   for Growth
 
@@ -531,7 +518,6 @@ The attached communication from G.
   Macartney, CEO, London Chamber of Commerce with respect to the City budget
   priorities balanced with the need for growth BE RECEIVED.
 
-# 8.&nbsp;&nbsp;&nbsp;J. Kennedy,
   President, London Development Institute - City of London 2013 Draft Budget
 
 The attached communication dated
@@ -916,7 +902,6 @@ Motion Passed
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Overnight Parking
   Restrictions
 
 > Moved by Councillor D. Brown
@@ -950,7 +935,6 @@ Motion Passed
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Fire Station No. 1
   – Interior Alterations
 
 > Moved by Councillor D. Brown
@@ -1004,7 +988,6 @@ Motion Passed
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Development Charges
 
 > Moved by Councillor S. Orser
 
@@ -1077,7 +1060,6 @@ Motion Passed
 At 4:48 PM the Mayor places Councillor H.L.
   Usher in the Chair, and takes a seat at the Council Board.
 
-# 3.&nbsp;&nbsp;&nbsp;J. Schlemmer,
   Director, M. Laliberte, Staff Lawyer and S. Dickson, Staff Lawyer,
   Neighbourhood Legal Services
 
@@ -1085,21 +1067,16 @@ The attached communication dated
   January 29, 2013 from J. Schlemmer, Director, M. Laliberte, Staff Lawyer and
   S. Dickson, Staff Lawyer, Neighbourhood Legal Services BE RECEIVED.
 
-# 4.&nbsp;&nbsp;&nbsp;K. and W. Dow,
   email
 
 The attached communication dated
   January 29, 2013 from K. and W. Dow BE RECEIVED.
 
-# IX.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# X.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
-# XI.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
-# XII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 > Moved by Councillor P. Hubert
 
@@ -1176,7 +1153,6 @@ Approve 3rd reading and enactment of of
 
 ****
 
-# XIII.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

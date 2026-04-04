@@ -17,11 +17,9 @@ January 21, 2020, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by M. van Holst
 
@@ -218,7 +216,6 @@ c)            the summary of Housing-related 2020-2023 Multi-Year Bud
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Policies and Funding - Arts and Culture
 
@@ -268,7 +265,6 @@ b)            the above-noted delegation BE RECEIVED. (2020-S02)
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Councillor S. Lewis - Parade Permits
 
@@ -313,7 +309,6 @@ That the communication, dated January 12, 2020, from Councillor M. van Holst, wi
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) Deferred Matters List 
 
@@ -357,7 +352,6 @@ That the Advisory Committees that report to the Community and Protective Service
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 5:44 PM.
 

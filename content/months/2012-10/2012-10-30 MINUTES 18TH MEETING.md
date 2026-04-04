@@ -18,12 +18,9 @@ October 30, 2012
 The Council meets in Regular Session in the
   Council Chambers this day at 5:01 p.m.
 
-# I.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
-# 2.&nbsp;&nbsp;&nbsp;2013 Budget
   Development Process and Community Engagement Plan
 
 a)         That
@@ -42,7 +39,6 @@ b)         That,
   Corporate Services and City Treasurer, Chief Financial Officer with respect
   to this matter.
 
-# II.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 Councillor B.
@@ -125,7 +121,6 @@ Councillor J.B. Swan discloses a pecuniary
   indicating that his employer, Orchestra London, in all cases leases property
   from the proponent.
 
-# III.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE SEVENTEENTH MEETING HELD ON OCTOBER 9, 2012
 
 > Moved by Councillor B. Polhill
@@ -160,10 +155,8 @@ Motion Passed
 
 ****
 
-# IV.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# V.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
 Motion
@@ -171,7 +164,6 @@ Motion
   to Approve referral of the following communications for consideration with
   the clauses noted:
 
-# 3.&nbsp;&nbsp;&nbsp;Tabling of the 2013
   Water and Wastewater Budgets
 
 That, on the recommendation of the Managing
@@ -191,7 +183,6 @@ it being noted that the Managing Director,
   Engineering and City Engineer gave a verbal overview with respect to this
   matter.
 
-# 4.&nbsp;&nbsp;&nbsp;Service London
   Implementation Plan
 
 Recommendation:  That further consideration
@@ -204,10 +195,8 @@ Recommendation:  That further consideration
   Director of Neighbourhood, Children’s and Fire Services with respect to this
   matter.
 
-# VI.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# VII.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
 > Moved by Councillor D. Brown
@@ -246,9 +235,7 @@ Motion Passed
 
 ****
 
-# VIII.&nbsp;&nbsp;&nbsp;REPORTS
 
-# 6.&nbsp;&nbsp;&nbsp;Appointment to the
   Eldon House Board of Directors
 
 Recommendation:  That the following
@@ -258,7 +245,6 @@ Recommendation:  That the following
 -           John Richard Lisowski
   (background in and experience with law)
 
-# 7.&nbsp;&nbsp;&nbsp;Committee
   Appointment Preferences submitted by Council Members
 
 a)         That
@@ -455,7 +441,6 @@ Motion Passed
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Sign and Canopy
   By-law for the London Knights Hockey Club
 
 That the request from G. Hare, London
@@ -464,7 +449,6 @@ That the request from G. Hare, London
   meeting of the PSC; it being noted that the PSC received a presentation from
   G. Hare, with respect to this matter.
 
-# 10.&nbsp;&nbsp;&nbsp;Inquiry on the
   Topic of Graffiti Double Victimization/Proposed Pilot Project
 
 That the proposal from Councillor M. Brown
@@ -473,7 +457,6 @@ That the proposal from Councillor M. Brown
   being noted that the Public Safety Committee received a communication from
   Shmuel Farhi with respect to this matter.
 
-# 11.&nbsp;&nbsp;&nbsp;Banner Signs
 
 That the Civic Administration BE REQUESTED
   to report back to the appropriate standing committee with respect to a review
@@ -492,7 +475,6 @@ Approve clause 1.
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Property located at
   699 Village Green Avenue (Z-8072)
 
 That, on the recommendation of the Managing
@@ -514,7 +496,6 @@ it being pointed out that there were no
   oral submissions made at the public participation meeting associated with
   this matter.  (2012-D11-03)
 
-# 13.&nbsp;&nbsp;&nbsp;Property located at
   3278 Colonel Talbot Road (39CD-12511)
 
 That, on the recommendation of the Manager,
@@ -548,7 +529,6 @@ it being pointed out that there were no
   oral submissions made at the public participation meeting associated with
   this matter.   (2012-D11-05)
 
-# 5.&nbsp;&nbsp;&nbsp;Rationale for
   Continuing the Service Delivery Review Process
 
 Recommendation: That the presentation by
@@ -556,7 +536,6 @@ Recommendation: That the presentation by
   process BE DEFERRED until a future meeting of the Strategic Priorities and
   Policy Committee.
 
-# 9.&nbsp;&nbsp;&nbsp;Pool Fence By-law
   for Steve Taylor Installations
 
 That the request from S. Taylor, Taylor
@@ -565,7 +544,6 @@ That the request from S. Taylor, Taylor
   the Public Safety Committee (PSC); it being noted that the PSC received a
   communication and a delegation from S. Taylor, with respect to this matter.
 
-# 14.&nbsp;&nbsp;&nbsp;Property located at
   205 Commissioners Road West
 
 That, on the recommendation of the Manager,
@@ -588,7 +566,6 @@ it being pointed out that there were no
   oral submissions made at the public participation meeting associated with
   this matter. (2012-D25-00)
 
-# 15.&nbsp;&nbsp;&nbsp;Property located at
   2332 Main Street
 
 That, on the recommendation of the
@@ -613,7 +590,6 @@ it being pointed out that there were no
   oral submissions made at the public participation meeting associated with
   this matter.    (2012-D10-00)
 
-# 16.&nbsp;&nbsp;&nbsp;Property located at
   1476 Aldersbrook Road (OZ-8069)
 
 > Moved by Councillor B. Polhill
@@ -703,7 +679,6 @@ Motion Passed
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;City of London
   Growth Projections 2011-2041
 
 That, on the recommendation of the Managing
@@ -724,7 +699,6 @@ it being pointed out that the Planning and
   Norman, Altus Group Economic Consulting, with respect to this matter.  
   (2012-D18-00)
 
-# 18.&nbsp;&nbsp;&nbsp;Highland Ridge
   Subdivision - Phase 2 (39T-07503)
 
 That, on the recommendation of the Manager
@@ -757,7 +731,6 @@ it
   verbal presentation from C. Linton, Norquay Developments, with respect to
   this matter.   (2012-D26-03)
 
-# 19.&nbsp;&nbsp;&nbsp;Properties located
   at 8 Fairview Court and 770 Whetter Avenue (OZ-8055)
 
 That, on the recommendation of the Managing
@@ -950,7 +923,6 @@ it
   Joyce Zimmer, 118 Fairview Avenue - enquiring where the children
   are going to play.    (2012-D11-06)
 
-# 20.&nbsp;&nbsp;&nbsp;Southwest Area
   Secondary Plan (O-7609)
 
 That, the Civic Administration BE ASKED to
@@ -1271,7 +1243,6 @@ Motion Passed
 
 ****
 
-# 21.&nbsp;&nbsp;&nbsp;Resignation of
   Emily Marcoccia from the Town and Gown Committee
 
 > Moved by Councillor P. Hubert
@@ -1312,15 +1283,11 @@ Approve clauses 1 to 11, excluding clause 7.
 
 ****
 
-# IX.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# X.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
-# XI.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
-# XII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 > Moved by Councillor D. Brown
 
@@ -1505,7 +1472,6 @@ Motion Passed
 The following by-laws are passed and
   enacted as by-laws of The Corporation of the City of London:
 
-# XIII.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
 MOTION
@@ -1543,7 +1509,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

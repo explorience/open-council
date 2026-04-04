@@ -20,11 +20,9 @@ May 9, 2022, at  4:00 PM
 
 The meeting was called to order at 4:01 PM, with Councillor A. Hopkins in the Chair, Councillors S. Lewis and S. Lehman present and all other members participating by remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Lehman
 
@@ -160,7 +158,6 @@ c) the Civic Administration BE DIRECTED to report back at a future meeting with 
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;3101 Petty Road and 3047 White Oak Road (39CD-22501)
 
@@ -642,11 +639,9 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters
 
@@ -669,7 +664,6 @@ That the Deferred Matters List for the Planning and Environment Committee, as at
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 6:37 PM.
 ---

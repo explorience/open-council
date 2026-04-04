@@ -12,16 +12,13 @@ April 23, 2012, at  4:00 PM
 > [!abstract]- Also Present:
 > D. Brown, J.P. Bryant, D.G. Henderson, P. Hubert, B. Polhill, J. Braam, J. Buchanan, T. Copeland, U. DeCandido, A. Dunbar, J. Fleming, K. Grabowski, A. Henry, D. Huggins, G. Irwin, B. Krichker, D. MacRae, L. Marshall, J. Simon, J. Stanford, M. Tomazincic, R. Welker, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;No pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;5th Report of the
   Transportation Advisory Committee
 
 Recommendation:  That the 5th report of the
   Transportation Advisory Committee from its meeting held on April 3, 2012, BE
   RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;Drinking Water
   Fluoridation in London
 
 Recommendation:  That, the Report dated
@@ -146,7 +143,6 @@ N. Greenhow, 70 Cottonwood Crescent,
 K. Deyong, by e-mail, dated April 21,
        2012.  (2012-W13-00)
 
-# 4.&nbsp;&nbsp;&nbsp;Amendments to the
   Traffic and Parking By-law Related to Changes in the Various Fees and Charges
   By-law
 
@@ -157,7 +153,6 @@ Recommendation:  That, on the recommendation
   1, 2012, for the purpose of amending the Traffic and Parking By-law (P.S.
   111) with respect to parking fees.  (2012-S09-00)
 
-# 5.&nbsp;&nbsp;&nbsp;Hyde Park Road
   Closing
 
 Recommendation:  That, on the
@@ -170,7 +165,6 @@ Recommendation:  That, on the
   north of Firehall No. 14 at 2225 Hyde Park Road, BE APPROVED. 
   (2012-S06-00)
 
-# 6.&nbsp;&nbsp;&nbsp;Water Technology
   Centre Pre-Design and Design Consultant Appointment
 
 Recommendation:  That, on the
@@ -199,7 +193,6 @@ d)         the
   formal contract or issuing a purchase order relating to the subject matter of
   this approval. (2012-A03-00/W10-00)
 
-# 7.&nbsp;&nbsp;&nbsp;Highway
   401/Wonderland Road Interchange - Ministry of Transportation Provincial Class
   Environmental Assessment
 
@@ -209,7 +202,6 @@ Recommendation:  That, on the
   Provincial Transportation Environmental Study Report for the New Interchange
   at Highway 401 and Wonderland Road South, BE ENDORSED.
 
-# 8.&nbsp;&nbsp;&nbsp;Veterans Memorial
   Parkway South Extension - Environmental Assessment Consultant Assignment
   Scope Change (TS1325)
 
@@ -231,7 +223,6 @@ b)         the
   Financing Report included as Appendix “A” to the associated staff report,
   dated April 23, 2012.
 
-# 9.&nbsp;&nbsp;&nbsp;2012 Infrastructure
   Lifecycle Renewal Program, Contract #3: Centre Street/ Centre Crescent
   Reconstruction (Tender No. T12-09)
 
@@ -285,7 +276,6 @@ g)         the
   other documents, if required, to give effect to these recommendations. 
   (2012-S07-00)
 
-# 10.&nbsp;&nbsp;&nbsp;2012 Infrastructure
   Lifecycle Renewal Program, Contract #1: Maitland Street North Reconstruction
   (Tender No. T12-10)
 
@@ -338,7 +328,6 @@ g)         the Mayor and the City Clerk BE
   AUTHORIZED to execute any contract or other documents, if required, to
   give effect to these recommendations.  (2012-S07-00)
 
-# 11.&nbsp;&nbsp;&nbsp;Replacement of
   Sidewalks, Curb and Gutter and Hot Mix Asphalt (Tender 12-21)
 
 Recommendation: 
@@ -367,7 +356,6 @@ d)         the approval hereby BE
   CONDITIONAL upon the Corporation entering into formal contract or issuing
   a purchase order relating to these matters of this approval.
 
-# 12.&nbsp;&nbsp;&nbsp;Fanshawe Park Road
   and Highbury Avenue Intersection Widening (Tender No. 12-28)
 
 Recommendation:  That, on
@@ -422,7 +410,6 @@ h)         the Mayor and the City Clerk BE
   AUTHORIZED to execute any contract or other documents, if required, to
   give effect to the above recommendations.  (2012-S09-02)
 
-# 13.&nbsp;&nbsp;&nbsp;2012 Infrastructure
   Lifecycle Renewal Program, Contract #5: Talbot and Barton Streets
   Reconstruction (Tender No. 12-33)
 
@@ -471,7 +458,6 @@ f)          the Mayor and the City Clerk BE
   AUTHORIZED to execute any contract or other documents, if required, to
   give effect to these recommendations. (2012-S07-00)
 
-# 14.&nbsp;&nbsp;&nbsp;A.J. Tyler Water and
   Sewer Building Interior Fit Out - Project No. TS6200-12/ES2071/ES5164/EW3105
   (Tender No. 12-34)
 
@@ -507,7 +493,6 @@ e)         future
   priority from available assessment growth in 2013 subject to final budget
   approval.  (2012-A09-00)
 
-# 15.&nbsp;&nbsp;&nbsp;2012 Infrastructure
   Lifecycle Renewal Program, Contract #9: Burnside Drive Reconstruction (Tender
   No. 12-49)
 
@@ -545,7 +530,6 @@ e)         the Mayor and the City Clerk BE
   AUTHORIZED to execute any contract or other documents, if required, to
   give effect to these recommendations. 2012-S07-00)
 
-# 16.&nbsp;&nbsp;&nbsp;2012 Infrastructure
   Lifecycle Renewal Program, Phase ll Horton Reconstruction (Tender No. 12-29)
 
 Recommendation:  That, on the
@@ -632,7 +616,6 @@ N. Hamm, by e-mail, dated April 20,
 J. Verdam-Woodward, 142 Waterloo
        Street, dated April 23, 2012. (2012-S07-00)
 
-# 17.&nbsp;&nbsp;&nbsp;Solid Waste
   Management Updates
 
 Recommendation:  That the report dated
@@ -668,7 +651,6 @@ it being noted that the Civic Works
   C. Johnson, Chair, London Hydro Inc., with respect to this matter. 
   (2012-W12-00)
 
-# 19.&nbsp;&nbsp;&nbsp;Traffic Concerns in
   the Blackacres Boulevard and Yew Tree Gardens Area
 
 Recommendation:  That, the request for
@@ -678,7 +660,6 @@ Recommendation:  That, the request for
   the Civic Administration meet with Mr. Craig and the neighbourhood group to
   address this matter.  (2012-S09-00
 
-# 20.&nbsp;&nbsp;&nbsp;Central
   Thames Subwatershed Study Update
 
 Recommendation:  That a verbal report from

@@ -12,13 +12,11 @@ November 1, 2016, at  4:14 PM
 > [!abstract]- Also Present:
 > P. Hubert, T. Park, H. L. Usher; T. Copeland, J. Lucas, A. Macpherson, D. MacRae, S. Mathers, L. Rowe, K. Scherr, J. Simon, E. Soldo, S. Spring, J. Stanford
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;9th Report of the
   Transportation Advisory Committee
 
 That the following actions be taken with
@@ -99,7 +97,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   South Street and Grey Street Two-Way Conversion
 
 That, on the recommendation of the Managing
@@ -159,7 +156,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Victoria Bridge - Environmental Assessment - Appointment of Consulting
   Engineer
 
@@ -206,7 +202,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Amendments to the Traffic and Parking By-law
 
 That, on the recommendation of the Managing
@@ -233,7 +228,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Update on the Provincial Public Electric Vehicle (EV) Charging Application
   Process and Next Steps
 
@@ -277,7 +271,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Utility-Issued Alternate Locate Agreements
 
 That, on the recommendation of the Managing
@@ -305,7 +298,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;STAFF REPORT - 2016
   External Audit of London's Drinking Water Quality Management System and 2016
   Management Review
 
@@ -332,7 +324,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Appointment of Consultants - Clean Water and Wastewater Fund Projects
 
 That, on the recommendation of the Managing
@@ -399,7 +390,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Commercial
   Boulevard Parking Application - 472 Ridout Street North
 
 That, on the recommendation of the Managing
@@ -480,7 +470,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;DELEGATION - S.
   Mathers, Manager, Stormwater - One River-Master Plan Environmental Assessment
   Terms of Reference
 
@@ -557,7 +546,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That
@@ -581,7 +569,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;(ADDED) Downtown Parking Study
 
 That the Downtown Parking Study BE EXPANDED
   to include a review of commercial downtown boulevard parking fees.

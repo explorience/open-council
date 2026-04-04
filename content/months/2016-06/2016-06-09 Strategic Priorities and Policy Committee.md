@@ -15,13 +15,11 @@ June 9, 2016, at  4:04 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, G. Barrett, J. Braam, P. Christiaans, M. Feldberg, T. Grawey, A. Hagan, M. Hayward, A. Langmuir, V. McAlea Major, S. Miller, J. Ramsay, M. Ribera, C. Saunders, C. Smith, B. Westlake-Power, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That
   it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Public
   Participation Meeting - Growth Management Implementation Strategy (GMIS): 
   2017 Annual Review and Update
 
@@ -254,7 +252,6 @@ Motion Passed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;London Hydro Inc.
   Board of Director Appointment
 
 That the following individuals BE INVITED
@@ -300,7 +297,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Request for a
   Shareholder's Meeting for the Housing Development Corporation, London (HDC)
 
 That the following actions be taken with respect
@@ -348,7 +344,6 @@ Motion Passed
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;ADDED - 3rd Report
   of the Outstanding London Ambassador Award Committee
 
 That the 3rd Report of the Outstanding
@@ -378,7 +373,6 @@ Motion Passed
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;ADDED - 11th Report
   of the Governance Working Group
 
 That the following actions be taken with

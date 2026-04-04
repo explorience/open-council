@@ -22,11 +22,9 @@ October 1, 2025, at  1:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by P. Cuddy
 
@@ -126,7 +124,6 @@ it being further noted that should an appeal to the passage of the heritage desi
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;6th Report of the Community Advisory Committee on Planning
 
@@ -854,15 +851,12 @@ That the motion, as amended, BE APPROVED.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 ## 6.1&nbsp;&nbsp;&nbsp;Personal Matter / Identifiable Individual
 
@@ -891,7 +885,6 @@ The Committee convenes In Closed Session, from 3:56 PM to 4:01 PM.
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by E. Peloza
 

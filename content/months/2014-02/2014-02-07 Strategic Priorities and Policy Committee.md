@@ -12,7 +12,6 @@ February 7, 2014, at  9:13 AM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, A.L. Barbon, J. Braam, G. Bridge, I. Collins, B. Coxhead, S. Datars Bere, K. Darling (London Police Service), K. Dawtrey, M. Deeb (London Police Services Board), A. Dunbar, B. Duncan (London Police Service), J. Eberhard (London Police Services Board), J.M. Fleming, P. Foto, K. Graham, A. Hagan, M. Hayward, O. Katolyk, J. Kobarda, L. Livingstone, V. McAlea Major, D. Mounteer, D. O’Brien, L. Palarchio, J. Pare (London Police Service), P. Paulatto (London Police Services Board), M. Ribera, C. Saunders, J. Senese, B. Westlake-Power
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Councillor S.E. White discloses a pecuniary
@@ -42,7 +41,6 @@ Councillor J.P. Bryant discloses a
   Innovation and Commercialization Network by indicating that her spouse is on
   the faculty of Western University.
 
-# 2.&nbsp;&nbsp;&nbsp;CORPORATE OPERATING BUDGET
 
 Motion
   Passed
@@ -1764,7 +1762,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;CORPORATE CAPITAL BUDGET
 Thursday,
   February 6, 2014 at 9:00 AM and Friday, February 7, 2014 at 9:00 AM (if
   required)
@@ -2579,7 +2576,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Recommendation:
   That the additional Business Case for the Municipal Tree Planting Fund -
   "Tree Bank" in the amount of $50,000 BE APPROVED for inclusion in
   the 2014 Budget and the 2014 Budget BE ADJUSTED accordingly.
@@ -2608,7 +2604,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;ADDED -
   Recommendation: That the additional Business Case for  Community Planning -
   Urban Regeneration, in the amount of $85K BE APPROVED for inclusion in the 2014
   Budget and the 2014 Budget BE ADJUSTED accordingly.
@@ -2663,7 +2658,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;ADDED - Recommendation: That the following
   measures be taken to for tax mitigation purposes:
  
 a)            unallocated

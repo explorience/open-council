@@ -17,11 +17,9 @@ April 16, 2018, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that Councillor S. Turner disclosed a pecuniary interest in clause 4.2 of this Report, having to do with the request for delegation status by Dr. C. Mackie, Medical Officer of Health and Chief Executive Officer, Middlesex-London Health Unit, with respect to the proposed supervised consumption facilities, by indicating that the Middlesex-London Health Unit is his employer.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by Mayor M. Brown
 
@@ -112,7 +110,6 @@ That the Building Division Monthly Report for the month of February, 2018 BE REC
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Public Participation Meeting - Demolition Request of Heritage Designated Property at 660 Sunningdale Road East 
 
@@ -454,7 +451,6 @@ Motion to refer the matter back for staff to undertake further consultation w
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;3rd Report of the Trees and Forests Advisory Committee
 
@@ -515,7 +511,6 @@ it being noted that the Planning and Environment Committee reviewed and received
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) 5th Report of the London Advisory Committee on Heritage
 
@@ -564,7 +559,6 @@ it being noted that the Planning and Environment Committee reviewed and received
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential 
 
 The Planning and Environment Committee convened in Committee, In Closed Session, from 4:19 PM to 4:33 PM and from 11:37 PM to 11:57 PM, with respect to the following matters:
 
@@ -572,7 +566,6 @@ The Planning and Environment Committee convened in Committee, In Closed Session,
 
 6.2   A matter pertaining to advice that is subject to solicitor-client privilege, including communications necessary for that purpose; the subject matter pertains to litigation or potential litigation with respect to an appeal at the Ontario Municipal Board, and for the purpose of providing instructions and directions to officers and employees of the Corporation.
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 11:57 PM.
 

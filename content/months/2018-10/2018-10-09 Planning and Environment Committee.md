@@ -17,11 +17,9 @@ October 9, 2018, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that Councillor T. Park disclosed a pecuniary interest in clause 3.6 of this Report, having to do with the properties located at 147-149 Wellington Street and 253-257 Grey Street, by indicating that her family owns property within half a kilometer and this is on a rapid transit corridor.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by T. Park
 
@@ -148,7 +146,6 @@ That the Building Division Monthly Report for the month of August, 2018 BE RECEI
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Delegation - S. Levin, Chair, Environmental and Ecological Planning Advisory Committee - 10th Report of the Environmental and Ecological Planning Advisory Committee
 
@@ -796,7 +793,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Neighbourhood School Strategy - Evaluation and Acquisition of Surplus School Sites (17 CLO)
 
@@ -867,7 +863,6 @@ That the City Clerk BE DIRECTED to bring forward to a future meeting of Municipa
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) 10th Report of the Advisory Committee on the Environment
 
@@ -925,7 +920,6 @@ b) clauses 1.1, 3.1, 3.2 and 5.1 to 5.4 BE RECEIVED for information.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 8:24 PM.
 

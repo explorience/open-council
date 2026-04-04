@@ -12,13 +12,11 @@ December 1, 2015, at  4:01 PM
 > [!abstract]- Also Present:
 > V. Ridley, H. L. Usher; J. Braam, M. Bushby, T. Copeland, A. Dunbar, G. Irwin, O. Katolyk, J. Lucas, D. MacRae, S. Maguire, S. Mathers, D. Mounteer, R. Pedlow, L. Rowe, M. Schulthess, E. Soldo, S. Spring, J. Stanford, Frank Vanhie
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Election of
   Vice-Chair for the term ending November 30, 2016
 
 That
@@ -42,7 +40,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;10th Report of the
   Cycling Advisory Committee
 
 That the 10th Report of the Cycling
@@ -65,7 +62,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;6th Report of the
   Transportation Advisory Committee
 
 That the 6th Report of the Transportation
@@ -88,7 +84,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;3rd Report of the
   LTC Long Term Growth Report Working Group
 
 That the 3rd Report of the LTC Long Term
@@ -112,7 +107,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Proposed Street Encroachment
   Policy
 
 Motion
@@ -132,7 +126,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Supply and Delivery
   of Light Duty Replacement Vehicles
 
 That, on the recommendation of the Managing
@@ -172,7 +165,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Appointment of
   Consultant for Environmental Assessment, Design, and Contract Administration
   for the Colonel Talbot Pumping Station and Sanitary Servicing Works
 
@@ -222,7 +214,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Red Light Camera
   Program Update
 
 That, on the recommendation of the
@@ -246,7 +237,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Flooding Matters
   Work Plan Proposal
 
 That, on the recommendation of the Managing
@@ -274,7 +264,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Supply and Delivery
   of Pre-Wetting and Anti-Icing Liquids for Road Surfaces
 
 That, on the recommendation of the Managing
@@ -316,7 +305,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Appointment of
   Consulting Engineers for Design and Construction of Stormwater Management
   Facilities
 
@@ -395,7 +383,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Bradley Avenue West
   Extension - Wharncliffe Road South to Wonderland Road South - Detailed Design
   - Appointment of Consulting Engineer
 
@@ -443,7 +430,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Sarnia Road
   Improvements Phase 3 - Hyde Park Road to Oakcrossing Gate - Detailed Design
   -  Appointment of Consulting Engineer
 
@@ -491,7 +477,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Veterans Memorial
   Parkway North Extension - Huron Street to Clarke Road - Detailed Design -
   Appointment of Consulting Engineer
 
@@ -540,7 +525,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Kindness Meters
 
 That, on the recommendation of the Managing
   Director, Development and Compliance Services, the Civic Administration BE
@@ -567,7 +551,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;9th Report of the
   Cycling Advisory Committee
 
 That
@@ -591,7 +574,6 @@ Motion
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That

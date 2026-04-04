@@ -15,7 +15,6 @@ December 5, 2016, at  4:00 PM
 > [!abstract]- Also Present:
 > A. Zuidema, G. Bridge, B. Coxhead, J.M. Fleming, K. Graham, A. Hagan, M. Hayward, L. Livingstone, B.P. MacDonald (Outside Counsel), V. McAlea Major, D. Mounteer, J. Nolan, M. Ribera, C. Saunders, K. Scherr, J. Smout, J. Stanford
 
-# 3.&nbsp;&nbsp;&nbsp;Establishment of
   the New Governance Working Group
 
 That the following Council Members BE
@@ -67,7 +66,6 @@ That Councillor P. Hubert BE APPOINTED to
   November 30, 2018; it being noted that Councillor P. Hubert was selected in
   accordance with the attached ranked ballot.
 
-# 5.&nbsp;&nbsp;&nbsp;ADDED - DELEGATION
   - Vinay Sharma, Chief Executive Officer, London Hydro re Hydro Industry
   Consolidation
 
@@ -159,7 +157,6 @@ Motion Passed
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;ADDED - COUNCIL
   MEMBER SUBMISSION - Council Reconfiguration
 
 That the communication dated December 2,
@@ -216,7 +213,6 @@ Motion Failed
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;ADDED - PUBLIC
   SUBMISSION - London Transit Commission Chair and Vice-Chair
 
 That the communication dated December 1,

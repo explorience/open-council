@@ -12,7 +12,6 @@ June 20, 2017, at 12:30 PM
 > [!abstract]- Also Present:
 > M. van Holst, M. Cassidy; M. Hayward, R. Andrusevich, G. Bailey, A.L. Barbon, B. Barr, D. Bordin, C. Brydon (Scotia Bank), B. Card, S. Corman, K. Dawtrey, J. Freeman, S. Galloway, K. Graham, A. Hagan, M. Henderson, P. Kokkoros, S. Mollon, M. Ribera, A. Ripepi, A. Salton, K. Scherr, J. Senese, G. Smith, J. Smout, A. Thompson, M. Tomazincic, B. Warner, T. Wellhauser, B. Westlake-Power, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Councillor P. Hubert discloses a pecuniary
@@ -25,7 +24,6 @@ Councillor P. Hubert discloses a pecuniary
   is the Executive Director of a social services agency which has a purchase of
   service agreement which includes employees of CUPE 101.
 
-# 2.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Update on Federal and Provincial Budget Advocacy
 
 That, on the recommendation of the
@@ -49,7 +47,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Billboard Advertising Tender
 
 That, on the recommendation of the Managing
@@ -74,7 +71,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Electronic Procurement Solution for Solicitation of Bids for City Procurement
 
 That, on the recommendation of the Managing
@@ -118,7 +114,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Federation of Canadian Municipalities (FCM) Green Municipal Fund Study -
   Municipal Tools for Catalyzing Net-Zero Energy Development
 
@@ -156,7 +151,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Industrial Land Development Strategy - Annual Monitoring and Pricing Report -
   City of London
 
@@ -233,7 +227,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Approval to Demolish City-Owned Properties - 5615 Wellington Road South, 6712
   James Street and 5861 White Oak Road
 
@@ -280,7 +273,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;STAFF REPORT - 2016
   Investment Report
 
 That, on the recommendation of the Managing
@@ -305,7 +297,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Lorne Avenue Public School Update
 
 That, on the recommendation of the Managing
@@ -351,7 +342,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;SUBMISSION - Grape
   Leaf Wine & Beer Gardens - Request for Designation as a Municipally
   Significant Event
 
@@ -360,7 +350,6 @@ That the Grape Leaf Wine & Beer Garden,
   of TD Sunfest at Victoria Park,  BE DESIGNATED as a municipally significant
   event in the City of London.
 
-# 12.&nbsp;&nbsp;&nbsp;SUBMISSION - Pride
   London Festival - Request for Designation as a Municipally Significant
   Event
 
@@ -368,7 +357,6 @@ That the Pride London Festival, to be held
   on July 28, 2017 to July 30, 2017, in Victoria Park, BE DESIGNATED as an
   event of municipal significance in the City of London.
 
-# 13.&nbsp;&nbsp;&nbsp;SUBMISSION -
   Anderson Craft Ales - Request for Designation as a Municipally Significant
   Event
 
@@ -377,7 +365,6 @@ That the Anderson Craft Ales 1st
   PM at 1030 Elias Street parking lot, London, ON, BE DESIGNATED as an event of
   municipal significance.
 
-# 14.&nbsp;&nbsp;&nbsp;Confirmation of
   Appointments to the Town and Gown Committee (Requires 1 Voting Administrative
   Representative from Fanshawe College and 1 Voting Representative from Western
   University Students' Council) University
@@ -404,7 +391,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;COUNCIL MEMBER
   SUBMISSION - Council Expense Policy
 
 That the communication dated June 12, 2017
@@ -431,7 +417,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;COUNCIL MEMBER
   SUBMISSION - Committee Meals When Attending Afternoon Meetings
 
 That the communication dated June 11, 2017,
@@ -455,7 +440,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;ADDED -
   Consideration of Appointment to the Environmental and Ecological Planning
   Advisory Committee (Requires up to 6 Extra Members at Large)
 

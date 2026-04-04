@@ -12,7 +12,6 @@ September 8, 2015, at 12:02 PM
 > [!abstract]- Also Present:
 > J. Helmer, V. Ridley, M. Salih, M. van Holst; A. Zuidema, J.P. Barber, A.L. Barbon, S. Corman, K. Graham, A. Hagan, M. Hayward, V. McAlea Major, S. Miller, Saunders, S. Spring, T. Wellhauser
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Councillor J. Helmer disclosed a pecuniary
@@ -25,7 +24,6 @@ Councillor J. Helmer disclosed a pecuniary
   municipality, by indicating that the Service Employees International Union
   (SEIU) is a client of his company.
 
-# 2.&nbsp;&nbsp;&nbsp;Architect to Act as Prime Consultant for
   the Southcrest Pool and Bath House Life Cycle Renewal Project
 
 That, on the recommendation of the Managing
@@ -77,7 +75,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;County/City Liaison
   Committee
 
 That, on the recommendation of the City
@@ -108,7 +105,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Request for Approval of an Expense on an
   Exemption Basis
 
 That, notwithstanding Council Policy 28(2)
@@ -132,7 +128,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Consideration of Appointment to the
   Environmental and Ecological Planning Advisory Committee.
 
 That Michael Thorn BE APPOINTED as a Voting
@@ -179,7 +174,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Community Event Funding Mechanisms
 
 That the Civic Administration BE REQUESTED
   to review and report back on innovative funding mechanisms for the funding of
@@ -203,7 +197,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Rescheduling the November 17, 2015 Meeting
   of the Corporate Services Committee to November 16, 2015
 
 That the Corporate Services Committee meeting

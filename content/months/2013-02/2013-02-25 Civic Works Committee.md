@@ -15,10 +15,8 @@ February 25, 2013, at  4:03 PM
 > [!abstract]- Also Present:
 > B. Armstrong, J. Braam, A. Dunbar, N. Hall, A. Henry, G. Irwin, O. Katolyk, B. Kricher, J. Lucas, S. Maguire, J. Page, J. Stanford
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;2nd Report of the
   Advisory Committee on the Environment
 
 Recommendation:  That the 2nd Report of the
@@ -26,7 +24,6 @@ Recommendation:  That the 2nd Report of the
   2013, BE WITHDRAWN as it was included on the February 26, 2013 Planning
   and Environment Committee Agenda.
 
-# 3.&nbsp;&nbsp;&nbsp;Timeline for Major
   Environmental & Engineering Reports
 
 Recommendation:  That, on the
@@ -35,7 +32,6 @@ Recommendation:  That, on the
   to the timeline for major environmental & engineering reports BE
   RECEIVED.  2013-C08
 
-# 4.&nbsp;&nbsp;&nbsp;Update on Rethink
   Energy London - Celebrating Progress - Sustainable Energy London
 
 Recommendation:  That, on the
@@ -44,7 +40,6 @@ Recommendation:  That, on the
   London - Celebrating Progress - Sustainable Energy London” BE RECEIVED.
   2013-E19
 
-# 5.&nbsp;&nbsp;&nbsp;World Figure
   Skating Championships - Parking
 
 Recommendation:  That, on the
@@ -53,7 +48,6 @@ Recommendation:  That, on the
   respect to parking during the World Figure Skating Championships BE
   RECEIVED.  2013-M18
 
-# 6.&nbsp;&nbsp;&nbsp;Valastro v. The
   Corporation of the City of London - Application to the Ontario Superior Court
   of Justice - Court File No. 8937-12
 
@@ -63,7 +57,6 @@ Recommendation:  That, on the recommendation
   injunction to restrain work being done by the Municipality under By-law
   DR-102-207 BE RECEIVED. 2013-L02
 
-# 7.&nbsp;&nbsp;&nbsp;Amendments to the
   Traffic and Parking By-law
 
 Recommendation:  That, on the
@@ -73,7 +66,6 @@ Recommendation:  That, on the
   March 5, 2013 for the purpose of amending the Traffic and Parking By-law
   (P.S. 111). 2013-C01
 
-# 8.&nbsp;&nbsp;&nbsp;Contract Award: 
   Tender No. 13-04 2013 Infrastructure Lifecycle Renewal Program Contract 7: 
   Price Street and Dakin Street Reconstruction
 
@@ -127,7 +119,6 @@ g)         the
   other documents, if required, to give effect to these recommendations.
   2013-L04
 
-# 9.&nbsp;&nbsp;&nbsp;Appointment of Consultant
   for the Relocation and Construction of Branch 'B' of the Avenue Municipal
   Drain ES 4825-11
 
@@ -166,7 +157,6 @@ e)         the
   other documents, if required, to give effect to these recommendations.
   2013-A05
 
-# 10.&nbsp;&nbsp;&nbsp;Southwest Area
   Sanitary Servicing Master Plan:  Appointment of Consulting Engineer (ES5260)
 
 Recommendation:  That, on the
@@ -198,7 +188,6 @@ e)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or
   other documents, if required, to give effect to these recommendations. 2013-A05
 
-# 11.&nbsp;&nbsp;&nbsp;Appointment of
   Consultant for the Reconstruction of the Bannister Drain-Branch 1 Remediation
   Design ES 4825-11
 
@@ -235,7 +224,6 @@ e)         the
   other documents, if required, to give effect to these recommendations.
   2013-A05
 
-# 12.&nbsp;&nbsp;&nbsp;2nd Report of the
   Transportation Advisory Committee
 
 Recommendation: 
@@ -262,7 +250,6 @@ b)         clause 2
 c)         that
   clauses 3 to 9, inclusive BE RECEIVED AND NOTED.
 
-# 13.&nbsp;&nbsp;&nbsp;Railway Row
   Crossing Fee Policy
 
 Recommendation:  That, on the
@@ -273,7 +260,6 @@ Recommendation:  That, on the
   would be $64,000 and $55,000 (excluding HST), respectively, from the 2013
   Water and Wastewater Operating Budgets. 2013-F11
 
-# 14.&nbsp;&nbsp;&nbsp;Ontario
   Water/Wastewater Agency Response Network
 
 Recommendation:  That, on the
@@ -289,7 +275,6 @@ b)         the
   Mayor and the City Clerk BE AUTHORIZED to execute the above-noted
   agreement. 2013-E08
 
-# 15.&nbsp;&nbsp;&nbsp;Railway Pedestrian
   Crossing Safety
 
 Recommendation:  That, on the
@@ -306,7 +291,6 @@ b)         the
   Civic Works Committee with respect to the use of locomotive whistles within
   the City of London. 2013-D24
 
-# 16.&nbsp;&nbsp;&nbsp;Rental of General
   Equipment with Operators (Tender 13-06) - Revised
 
 Recommendation:  That, the

@@ -17,7 +17,6 @@ October 22, 2024, at  9:30 AM
 
 The meeting was called to order at 9:32 AM; it being noted that Councillors J. Pribil, S. Trosow, and D. Ferreira were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
@@ -40,7 +39,6 @@ That, pursuant to section 27.6 of the Council Procedure By-law, a change in orde
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential 
 
 > Moved by D. Ferreira
 
@@ -58,7 +56,6 @@ The Civic Works Committee convened In Closed Session from 9:35 AM to 9:53 AM.
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Franke
 
@@ -193,7 +190,6 @@ d)     the Civic Administration BE AUTHORIZED to undertake all the administrat
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.2&nbsp;&nbsp;&nbsp;Reassessment of the CB Smith No. 2 Municipal Drain
 
@@ -297,15 +293,12 @@ it being noted that a verbal delegation from B. Samuels, Chair, ESACAC, with res
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 That the meeting BE ADJOURNED.
 

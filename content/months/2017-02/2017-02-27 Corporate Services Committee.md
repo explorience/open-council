@@ -15,13 +15,11 @@ February 27, 2017, at  5:03 PM
 > [!abstract]- Also Present:
 > P. Squire, J. Zaifman; M. Hayward, B. Card, S. Corman, D. O’Brien, M. Ribera, B. Westlake-Power
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Proposed By-law to Amend City of London Ward
   Boundaries
 

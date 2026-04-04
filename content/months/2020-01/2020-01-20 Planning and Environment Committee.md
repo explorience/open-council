@@ -20,13 +20,11 @@ January 20, 2020, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by A. Hopkins
 
@@ -201,7 +199,6 @@ That the Building Division Monthly Report for the month of November, 2019 BE REC
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Delegation - D. Dudek, Chair of London Advisory Committee on Heritage - 2nd Report of the London Advisory Committee on Heritage 
 
@@ -614,7 +611,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Application - 536 and 542 Windermere Road 
 
@@ -672,13 +668,11 @@ That the communication dated January 12, 2020, from Councillor M. van Holst with
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 6:26 PM.
 

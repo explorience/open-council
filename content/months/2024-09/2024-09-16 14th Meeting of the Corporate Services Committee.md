@@ -17,11 +17,9 @@ September 16, 2024, at  1:00 PM
 
 The meeting is called to order at 1:00 PM; it being noted that Councillors P. Van Meerbergen, S. Trosow, E. Peloza, and S. Hillier were in remote attendance
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED Councillor H. McAlister discloses a pecuniary interest in item 2.3 having to do with Downtown London Entertainment and Sports Centre Naming Rights by indicating that he is on leave from his employer, Canada Life.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by P. Cuddy
 
@@ -260,11 +258,9 @@ That the motion, as amended, BE APPROVED
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Issuance of Proclamations
 
@@ -293,11 +289,9 @@ b)    the report dated September 16, 2024 with respect to this matter, BE RECE
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by P. Cuddy
 
@@ -328,7 +322,6 @@ The Corporate Services Committee convenes In Closed Session from 1:11 PM to 1:13
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by S. Stevenson
 

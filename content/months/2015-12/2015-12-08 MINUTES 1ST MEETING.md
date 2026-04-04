@@ -18,7 +18,6 @@ December 8, 2015, at  4:00 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:00 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 Councillor B. Armstrong discloses a
@@ -59,15 +58,11 @@ Councillor J. Zaifman discloses a pecuniary
   J. Zaifman further discloses a pecuniary interest in clause 12 of the 1st
   Report of the Civic Works Committee.
 
-# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
-# 2.&nbsp;&nbsp;&nbsp;Municipal Implications of the Truth and
   Reconciliation Commission Report
 
 Motion
@@ -134,11 +129,8 @@ Motion Passed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Surplus/Deficit Policy
 
-# IV.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# V.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
 > Moved by Councillor J. Helmer
@@ -179,7 +171,6 @@ The Council rises and goes into the
   Committee of the Whole, in camera, at 4:24 PM, with Mayor M. Brown in the
   Chair and all Members present, except Councillor V. Ridley.
 
-# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE THIRTIETH MEETING HELD ON NOVEMBER 24, 2015
 
 > Moved by Councillor J. Morgan
@@ -216,7 +207,6 @@ Motion Passed
 
 ****
 
-# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
 > Moved by Councillor M. Cassidy
@@ -228,10 +218,8 @@ Approve referral of the following
 
 ****
 
-# VIII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# IX.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor J. Helmer
 
@@ -239,17 +227,13 @@ Approve clauses 1 to 18, excluding clauses 8, 9, 12 and 13.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Strategic Plan for The City of London
   2015-2019:  Proposed Reporting Process and Year One Update
 
-# 5.&nbsp;&nbsp;&nbsp;City of London Community Grants Program
   Proposed Evaluate Criteria and Revised Community Grants Policy and Grant
   Agreement
 
-# 6.&nbsp;&nbsp;&nbsp;London Medical Innovation and
   Commercialization Network
 
-# 7.&nbsp;&nbsp;&nbsp;London Medical Innovation and
   Commercialization Network Update (Paul Paolatto and Peter White)
 
 Motion Passed
@@ -276,13 +260,10 @@ Motion Passed
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Consideration of Appointments to the
   County/City Liaison Committee
 
-# 11.&nbsp;&nbsp;&nbsp;Confirmation of Appointment to the
   Outstanding London Ambassador Award Committee
 
-# 14.&nbsp;&nbsp;&nbsp;Sarnia Road
   Improvements Phase 3 - Hyde Park Road to Oakcrossing Gate - Detailed Design
   -  Appointment of Consulting Engineer
 
@@ -341,7 +322,6 @@ e)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations.  (2015-A05)
 
-# 16.&nbsp;&nbsp;&nbsp;Kindness Meters
 
 That, on the recommendation of the Managing
   Director, Development and Compliance Services, the Civic Administration BE
@@ -351,27 +331,21 @@ That, on the recommendation of the Managing
   b. iv. of Schedule “E” of the City of London’s Procurement of Goods and
   Services Policy.  (2015-T02)
 
-# 17.&nbsp;&nbsp;&nbsp;9th Report of the
   Cycling Advisory Committee
 
 That the 9th Report of the Cycling Advisory
   Committee, from its meeting held on October 22, 2015, BE RECEIVED.
 
-# 18.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the Civic Works Committee Deferred
   Matters List, as at November 10, 2015, BE RECEIVED.
 
-# 8.&nbsp;&nbsp;&nbsp;Public Participation Meeting – 2016 Water
   and Wastewater Rates
 
-# 9.&nbsp;&nbsp;&nbsp;Small City Strategy Terms of Reference
 
-# 12.&nbsp;&nbsp;&nbsp;8th Report of the Governance
   Working Group
 
-# 13.&nbsp;&nbsp;&nbsp;Request for Delegation Status – Expansion
   of London Optimist Sports Centre (BMO Centre)
 
 Motion Passed
@@ -459,12 +433,9 @@ Motion Passed
 
 ****
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
 > Moved by Councillor T. Park
@@ -532,7 +503,6 @@ Motion Passed
 
 ****
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -888,7 +858,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

@@ -15,20 +15,17 @@ December 5, 2013, at  3:30 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J. P. Barber, D. Bunce (PwC), S. Gilfillan (PwC), M. Hayward, L. Loubert, V. Major McAlea, C. Shah (PwC), S. Stafford, S. Swance, M. Turner, B. Whitelaw
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Election of Chair
   and Vice-Chair for the term ending November 30, 2014
 
 Recommendation:  That Councillor M. Brown
   BE ELECTED Chair and Councillor P. Hubert BE ELECTED Vice Chair of the Audit
   Committee for the term ending November 30, 2014.
 
-# 3.&nbsp;&nbsp;&nbsp;Chief Technology
   Officer - TSD (ITS) IT Governance and JDE IT General Controls - Progress
   Update to Audit Committee
 
@@ -36,7 +33,6 @@ Recommendation:  That the report dated
   December 5, 2013, from the Chief Technology Officer, regarding the progress
   ITS has made to date on IT governance, BE RECEIVED for information.
 
-# 4.&nbsp;&nbsp;&nbsp;PricewaterhouseCoopers
   - Quarterly Report on Internal Audit Result - Parks and Recreation - Revenue
   Strategies
 
@@ -54,7 +50,6 @@ b)     
   of the PricewaterhouseCoopers’ (PwC) report dated December 5, 2013, BE
   RECEIVED.
 
-# 5.&nbsp;&nbsp;&nbsp;PricewaterhouseCoopers
   - Proposed Risk Assessment and 2014 - 2016 Risk-Based Audit Plan
 
 Recommendation:  That the following actions

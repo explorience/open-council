@@ -18,30 +18,23 @@ February 24, 2015, at  4:06 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:06 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
-# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
-# IV.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Report on Specified
   Auditing Procedures
 
 That the KPMG Report on Specified Auditing
   Procedures, dated July 23, 2014, BE RECEIVED.
 
-# V.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
 MOTION FOR IN CAMERA SESSION
@@ -79,7 +72,6 @@ Motion Passed
 
 ****
 
-# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE SIXTH MEETING HELD ON FEBRUARY 9, 2015
 
 > Moved by Councillor J. Helmer
@@ -115,7 +107,6 @@ Motion Passed
 
 ****
 
-# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
 > Moved by Councillor J. Helmer
@@ -127,10 +118,8 @@ Approve Receipt and Referral of the
 
 ****
 
-# VIII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# IX.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor M. Cassidy
 
@@ -138,13 +127,11 @@ Approve clauses 1 to 10, inclusive.
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Audit Planning
   Report for the Year Ending December 31, 2014
 
 That the KPMG LLP Audit Planning Report,
   for the year ending December 31, 2014, BE APPROVED.
 
-# 4.&nbsp;&nbsp;&nbsp;Quarterly Report on
   Internal Audit Results - Development and Compliance Services - By-law
   Enforcement and Licensing
 
@@ -280,7 +267,6 @@ Motion Passed
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Architect to Act
   as  Prime Consultant for the Southwest Multi-Purposed Recreation Centre (RFP
   14-61) (Project # RC2755)
 
@@ -339,7 +325,6 @@ Motion Passed
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Recreation Activity
   Management System (RFP 14-48)
 
 That, on the recommendation of the Managing
@@ -370,7 +355,6 @@ d)         the
 it being noted that the above-noted
   additional costs will be reflected in the 2016 operating budget.  (2015-F18)
 
-# 7.&nbsp;&nbsp;&nbsp;Agreement to
   Approve a Management Contract (AAMC) Regarding the Long Term Care and Adult
   Day Program Management Consulting and Administrator Services Contract for
   the  Dearness Homes
@@ -398,7 +382,6 @@ b)         the
   Civic Administration BE AUTHORIZED to undertake all the administrative acts
   that are necessary in connection with the above-noted Agreement.  (2015-S02)
 
-# 8.&nbsp;&nbsp;&nbsp;Housing
   Collaborative Initiative (HCI) Update
 
 That, on the recommendation of the Director
@@ -408,7 +391,6 @@ That, on the recommendation of the Director
   Administration, through the Housing Collaborative Initiative, BE RECEIVED for
   information.(2015-S11)
 
-# 9.&nbsp;&nbsp;&nbsp;Changes to
   Proposals Under Investment in Affordable Housing (IAH) Program (RFP14-36)
 
 That, on the recommendation of the Director
@@ -458,7 +440,6 @@ ii)         the
   Mayor and the City Clerk BE AUTHORIZED to execute the said Amendment
   Agreement.  (2015-F18)
 
-# 10.&nbsp;&nbsp;&nbsp;Investment in
   Affordable Housing (IAH) Program (2014 Extension) Funding Years 2 to 6 and
   Recommendation for Additional Proposal Under (RFP 14-36)
 
@@ -500,7 +481,6 @@ ii)         the
   Mayor and the City Clerk BE AUTHORIZED to execute the said Agreement. 
   (2015-F18)
 
-# 11.&nbsp;&nbsp;&nbsp;End of Operation
   Agreement (EOA) for Social Housing Providers in London and Middlesex County
 
 That, on the recommendation of the Director
@@ -525,7 +505,6 @@ b)         in
   Services Corporation (HSC), the City of London BE ENGAGED with senior levels
   of government for shared solutions.  (2015-S11)
 
-# 13.&nbsp;&nbsp;&nbsp;General Orientation
   – Key Committee Matters
 
 That the Age Friendly Network and Child and
@@ -533,7 +512,6 @@ That the Age Friendly Network and Child and
   Director, Neighbourhood and Children and Fire Services, BE RECEIVED. 
   (2015-S12)
 
-# 14.&nbsp;&nbsp;&nbsp;2nd Report of the
   Animal Welfare Advisory Committee
 
 That the following actions be taken with
@@ -584,7 +562,6 @@ it being noted that the Animal Welfare
 e)         clauses 1 to 2, 4 to 6, 8 and 10
   BE RECEIVED.
 
-# 15.&nbsp;&nbsp;&nbsp;1st Report of the
   Community Safety and Crime Prevention Advisory Committee
 
 That the following actions be taken with
@@ -625,7 +602,6 @@ c)         the
 d)         clauses 1 to 6 and 8 and 10 BE
   RECEIVED.
 
-# 16.&nbsp;&nbsp;&nbsp;2nd Report of the
   London Housing Advisory Committee
 
 That the following actions be taken with
@@ -660,7 +636,6 @@ it being noted that the London Housing
 b)         clauses 1, 2, 4 and 5 BE
   RECEIVED.
 
-# 12.&nbsp;&nbsp;&nbsp;Food Trucks
 
 That on the recommendation of the Managing
   Director, Development and Compliance Services and the Chief Building
@@ -847,7 +822,6 @@ Motion Passed
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;1st Report of the
   Town and Gown Committee
 
 That the following actions be taken with
@@ -980,15 +954,11 @@ Motion Passed
 
 ****
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -1095,7 +1065,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

@@ -22,7 +22,6 @@ December 5, 2023, at 12:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Call to Order
 
 ## 1.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
@@ -32,7 +31,6 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 That it BE NOTED that Councillor S. Trosow was appointed as Vice Chair to the Civic Works Committee by Mayoral Decision 2023-008.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Franke
 
@@ -171,19 +169,15 @@ f)    the Civic Administration BE AUTHORIZED to undertake all the administrati
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 12:34 PM.
 ---

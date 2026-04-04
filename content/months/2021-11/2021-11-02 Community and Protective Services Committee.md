@@ -22,11 +22,9 @@ November 2, 2021, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Lewis
 
@@ -234,7 +232,6 @@ Motion to approve the delegation request, as appended to the Added Agenda, from 
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Flyer Deliveries to Residential Properties
 
@@ -357,7 +354,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;9th Report of the Animal Welfare Advisory Committee
 
@@ -399,7 +395,6 @@ it being noted that a verbal delegation from W. Brown, Chair, Animal Welfare Adv
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -423,7 +418,6 @@ That the Deferred Matters List for the Community and Protective Services Committ
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 > Moved by S. Lewis
 
@@ -449,7 +443,6 @@ The Community and Protective Services Committee convened, In Closed Session, fro
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 8:42 PM.
 ---

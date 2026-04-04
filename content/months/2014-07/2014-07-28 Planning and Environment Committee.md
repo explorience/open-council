@@ -15,10 +15,8 @@ July 28, 2014, at  3:00 PM
 > [!abstract]- Also Present:
 > T. Grawey, N. Pasato, J. Ramsay, C. Saunders
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Property located at
   660 Sunningdale Road East  (39T-09501/OZ-7638)
 
 Recommendation:      That, on the

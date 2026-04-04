@@ -12,7 +12,6 @@ March 5, 2013, at  3:00 PM
 > [!abstract]- Also Present:
 > J.F. Fontana, J.P. Bryant, J.P. Barber, J.M. Fleming, T. Grawey, J. Page, C. Smith, B. Warner, J. Yanchula, A. Zuidema
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED
   that no pecuniary interests were disclosed.
 
 (Confidential Appendix to the 6th Report of

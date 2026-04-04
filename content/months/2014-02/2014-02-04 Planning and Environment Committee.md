@@ -15,10 +15,8 @@ February 4, 2014, at  4:00 PM
 > [!abstract]- Also Present:
 > J.F. Fontana, D. Brown, G. Barrett, M. Davis, J.M. Fleming, T. Grawey, B. Henry, P. Kokkoros, I. Listar, M. Ribera, C. Saunders, M. Tomazincic, A-B. Watson
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;2nd Report of the
   Environmental and Ecological Planning Advisory Committee
 
 Recommendation:  That the 2nd Report of the
@@ -43,7 +41,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;1st Report of the
   Trees and Forests Advisory Committee
 
 Recommendation:  That the 1st Report of the
@@ -66,7 +63,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Response to Land
   Use Planning and Appeal System Review for the Ministry of Municipal Affairs
   and Housing
 
@@ -95,7 +91,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Properties located
   at 3185 Jinnies Street, 3406 Jinnies Way and 3527 Singleton Avenue (H-8287)
 
 Recommendation:  That, on the recommendation
@@ -124,7 +119,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Forest Hill (Phase
   5) Subdivision (39T-10501)
 
 Recommendation:  That, on the
@@ -168,7 +162,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Property located at
   1602 Sunningdale Road West - Ontario Municipal Board Decision (39T-11503)
 
 Recommendation:  That, on the
@@ -195,7 +188,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Properties located
   at 255 South Carriage Road and 1331 Hyde Park Road - Ontario Municipal Board
   Decision (39T-08502)
 
@@ -222,7 +214,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Building Division
   Monthly Report for December 2013
 
 Recommendation:  That the Building Division
@@ -244,7 +235,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Properties located
   at 1920 and 1930 Blue Heron Drive (Z-8282)
 
 Recommendation:  That, on the
@@ -327,7 +317,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Property located at
   77 Tecumseh Avenue West (Z-8274)
 
 Recommendation:  That, on the
@@ -481,7 +470,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Boundary Expansion
   Request and By-law Amendment
 
 Recommendation:  That the communication

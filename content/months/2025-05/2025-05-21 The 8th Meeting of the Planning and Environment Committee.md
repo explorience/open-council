@@ -20,11 +20,9 @@ May 21, 2025, at  1:00 PM
 
 This meeting was called to order at 1:06 PM.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by P. Cuddy
 
@@ -373,7 +371,6 @@ That the delegation requests from J.M. Metrailler and M. Wallace, as appended to
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;20 Clarke Road (Z-25038)
 
@@ -1296,9 +1293,7 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -1322,7 +1317,6 @@ That the Deferred Matters List BE REVEIVED.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by S. Hillier
 

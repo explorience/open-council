@@ -15,11 +15,9 @@ July 27, 2015, at  4:06 PM
 > [!abstract]- Also Present:
 > A. Zuidema, R. Armistead, J. Braam, P. Christiaans, S. Datars Bere, P. Foto, K. Graham, C. Saunders, S. Spring, A. Vandervoort, P. Yeoman
 
-# 2.&nbsp;&nbsp;&nbsp;Proposed Amendments
   to the Development Charges Act, 1997 (Bill 73: Smart Growth for Our
   Communities Act) Second Reading
 
-# 3.&nbsp;&nbsp;&nbsp;London Arts Council
 
 That the matter of requesting the London
   Arts Council to consider amending its membership to include a Council Member
@@ -51,7 +49,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;4th Report of the
   Governance Working Group
 
 That the following actions be taken with

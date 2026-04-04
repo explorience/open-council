@@ -18,7 +18,6 @@ July 30, 2013
 The Council meets in Regular Session in the
   Council Chambers this day at 4:02 p.m.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 Councillor M. Brown discloses a pecuniary
@@ -85,18 +84,14 @@ Councillor J.P. Bryant discloses a
   and Commercialization Network vision, by indicating that her spouse is on the
   faculty of Western University.
 
-# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures Of Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Managing Director,
   Corporate Services and City Treasurer, Chief Financial Officer - Development
   Charges Policy Review - Major Policies Covering Report
 
@@ -183,14 +178,12 @@ it being
   noted that the Strategic Priorities and Policy Committee heard the attached
   presentation from L. Townsend with respect to this matter.
 
-# 3.&nbsp;&nbsp;&nbsp;City Clerk - 1st
   Report of the 2013 Council Compensation Review Task Force
 
 That the 1st Report of the 2013 Council
   Compensation Review Task Force from its meeting held on June 26, 2013 BE
   RECEIVED.
 
-# 4.&nbsp;&nbsp;&nbsp;Special Strategic Priorities and Policy
   Committee Meeting – Council Member Training and Education Session
 
 That a Special Meeting of the Strategic
@@ -222,7 +215,6 @@ Motion Passed
 
 ****
 
-# IV.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
 MOTION FOR IN CAMERA SESSION
@@ -259,9 +251,7 @@ Motion Passed
 
 ****
 
-# V.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE TWELFTH MEETING HELD ON JUNE 25, 2013
 
 > Moved by Councillor H.L. Usher
@@ -295,13 +285,10 @@ Motion Passed
 
 ****
 
-# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
-# VIII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# IX.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor H.L. Usher
 
@@ -309,7 +296,6 @@ Approve clauses 1, 3 to 16, 19 and 20.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Solar Project
   Proposal on the Pottersburg Creek Brownfield Property
 
 That David Webb BE GRANTED delegation
@@ -318,7 +304,6 @@ That David Webb BE GRANTED delegation
   Brownfield property, subject to the satisfactory review of the proposal by
   the Civic Administration.
 
-# 6.&nbsp;&nbsp;&nbsp;Succession Plan
 
 That, the Managing Director, Corporate
   Services and Chief Human Resources Officer BE DIRECTED to provide a written
@@ -355,7 +340,6 @@ Approve clause 1.
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;RFP 13-01 - Print
   Optimization
 
 That, on the recommendation of the Chief
@@ -389,7 +373,6 @@ it being noted that the annual cost of this
   contract is within the existing operating budget for printing services, and
   there are no increases over the four year term.
 
-# 8.&nbsp;&nbsp;&nbsp;Declare Surplus -
   City Owned Property - 337 Ridgewood Avenue
 
 That, on the recommendation of the Manager
@@ -429,7 +412,6 @@ Motion Passed
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Declare Surplus and
   Transfer City-Owned Land - 57 Tecumseh Avenue West
 
 That, on the recommendation of the Manager,
@@ -455,7 +437,6 @@ c)         the
   authorize the Mayor and the City Clerk to execute the Agreement of Purchase
   and Sale.
 
-# 10.&nbsp;&nbsp;&nbsp;Request from Brose
   Canada Inc. to Extend the Reconveyance Period Over Parts 5 and 6 of Plan 33R-15347
   and to Negotiate a New Option Agreement on Parts 7 and 8 of Plan 33R-15347 -
   Forest City Industrial Park
@@ -478,7 +459,6 @@ b)         the
   the location map as appended to the staff report dated July 23, 2013 as
   Parcel 3 on Schedule “A”.
 
-# 11.&nbsp;&nbsp;&nbsp;Metrolinx Report
 
 That, on the recommendation of the Director
   of Intergovernmental and Community Liaison, the report dated July 23, 2013
@@ -488,7 +468,6 @@ That, on the recommendation of the Director
   from outside the Greater Toronto and Hamilton Area (GTHA) should be directed
   to areas outside the GTHA.
 
-# 12.&nbsp;&nbsp;&nbsp;AMO Annual General
   Meeting Conference and Trade Show 2014
 
 That, on the recommendation of the Director
@@ -496,7 +475,6 @@ That, on the recommendation of the Director
   with respect to the AMO Annual General Meeting, Conference and Trade Show for
   2014 BE RECEIVED for information.
 
-# 13.&nbsp;&nbsp;&nbsp;August 1, 2013
   Ontario Provincial By-Election Candidate Questionnaire
 
 That, on the recommendation of the Director
@@ -504,7 +482,6 @@ That, on the recommendation of the Director
   with respect to the August 1st Ontario Provincial London West By-Election
   Candidate Questionnaire BE RECEIVED.
 
-# 14.&nbsp;&nbsp;&nbsp;Employee Suggestion
   Program
 
 That, on the recommendation of the Managing
@@ -512,7 +489,6 @@ That, on the recommendation of the Managing
   dated July 23, 2013 with respect to the employee suggestion program BE
   RECEIVED for information.
 
-# 15.&nbsp;&nbsp;&nbsp;Workplace Diversity
   Statement and Plan Update
 
 That, on the recommendation of the Managing
@@ -595,7 +571,6 @@ Motion Passed
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Vehicle Lease
   Agreement - Fleet Services and Tourism London
 
 That, on the recommendation of the Managing
@@ -613,21 +588,18 @@ b)         authorize
   the Mayor and the City Clerk to execute the lease agreement noted in a),
   above.
 
-# 19.&nbsp;&nbsp;&nbsp;Partners in Employment
   (Pie) Representative on the Accessibility Advisory Committee
 
 That Jewel Hartviksen BE APPOINTED to the
   Accessibility Advisory Committee for the term ending February 28, 2015, as a
   non-voting resource member representing Partners in Employment (PIE).
 
-# 20.&nbsp;&nbsp;&nbsp;Appointment to the
   London Advisory Committee on Heritage
 
 That Hazel Elmslie BE APPOINTED to the
   London Advisory Committee on Heritage for the term ending February 28, 2015,
   as a Voting Member representing the Historical Sector.
 
-# 17.&nbsp;&nbsp;&nbsp;Council Members'
   Expense Account - Funds to Support Local Youth
 
 That the request by Councillor H.L. Usher
@@ -635,14 +607,12 @@ That the request by Councillor H.L. Usher
   youth with the cost of her participation in the Children’s International
   Summer Villages, BE APPROVED on a one-time basis.
 
-# 18.&nbsp;&nbsp;&nbsp;Request for
   Designation of Fall Fest as a Municipally Significant Event
 
 That the Fall Fest to be held August 30 –
   September 2, 2013 in Victoria Park BE DESIGNATED a Municipally Significant
   Event in the City of London.
 
-# 21.&nbsp;&nbsp;&nbsp;Appointment to the
   London Diversity and Race Relations Advisory Committee
 
 That Janet Tufts BE APPOINTED to the London
@@ -677,7 +647,6 @@ Approve clauses 1 to 6.
 
 ****
 
-# 22.&nbsp;&nbsp;&nbsp;Resignation from the
   Accessibility Advisory Committee
 
 That the communication dated June 21, 2013
@@ -706,7 +675,6 @@ Motion Passed
 
 ****
 
-# 23.&nbsp;&nbsp;&nbsp;A. Balfe, Youth
   Create Healthy Communities - Request for Delegation Status
 
 That, the following actions be taken with
@@ -723,7 +691,6 @@ a)         pursuant
 b)         delegation status at a future
   meeting of the CPSC BE APPROVED.
 
-# 24.&nbsp;&nbsp;&nbsp;Request for
   Consideration of Lifecycle Extension for Limousines
 
 That the communication dated July 18, 2013,
@@ -752,7 +719,6 @@ Motion Passed
 
 ****
 
-# 25.&nbsp;&nbsp;&nbsp;Properties Located
   at 754 and 764 Waterloo Street and 354 Oxford Street East (Oz-8121)
 
 That, on the recommendation of the Managing
@@ -1297,7 +1263,6 @@ Motion Passed
 
 ****
 
-# 26.&nbsp;&nbsp;&nbsp;Land Needs
   Background Study for the 2011 Official Plan Review (O-7938)
 
 That, the following actions be taken with
@@ -2376,7 +2341,6 @@ Approve clauses 27 and 28
 
 ****
 
-# 27.&nbsp;&nbsp;&nbsp;Council Committee
   Recommendations Source Identification
 
 That the communication from Councillor M.
@@ -2384,7 +2348,6 @@ That the communication from Councillor M.
   source identification BE REFERRED to the Civic Administration for
   consideration.   (2013-C03C)
 
-# 28.&nbsp;&nbsp;&nbsp;Property Located at
   13 Blackfriars Street - Request for Delegation Status
 
 That B. Storonianski, 13 Blackfriars Street
@@ -2420,10 +2383,8 @@ Approve clauses 1 to 4, 6 to 8, 10, 12, 13, 15, and 17 to 21.
 
 ****
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
 Councillor
   D. Brown enquired about how the methadone clinic at 425 Wharncliffe Road
@@ -2439,7 +2400,6 @@ Councillor W.J. Armstrong enquired about
   that a report on this matter will be coming forward in late September, in
   keeping with the advice he had previously provided to the Councillor.
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
 > Moved by Councillor N. Branscombe
@@ -2570,7 +2530,6 @@ Motion Passed
 
 ****
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -2757,7 +2716,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

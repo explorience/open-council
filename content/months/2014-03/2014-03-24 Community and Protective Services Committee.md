@@ -15,7 +15,6 @@ March 24, 2014, at  7:04 PM
 > [!abstract]- Also Present:
 > B. Coxhead, S. Datars Bere, I. Gibb, S. Giustizia, J. Kobarda, L. Livingstone, C. Saunders, S. Stafford, L. Stevens
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that Councillor
@@ -24,14 +23,12 @@ Recommendation:  That it BE NOTED that Councillor
   School, by indicating that his employer is the Thames Valley District School
   Board.
 
-# 2.&nbsp;&nbsp;&nbsp;4th Report of the
   London Housing Advisory Committee
 
 Recommendation:  That the 4th Report of the
   London Housing Advisory Committee, from its meeting held on March 12, 2014,
   BE RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;MPAC Assessments of
   Social and Affordable Housing
 
 Recommendation:  That, on the
@@ -42,7 +39,6 @@ Recommendation:  That, on the
   report back to the Community and Protective Services Committee, following a
   meeting with relevant provincial authorities.  (2014-F22A)
 
-# 4.&nbsp;&nbsp;&nbsp;Municipal Golf -
   Agreement with London Golf Club
 
 Recommendation:  That, on the
@@ -86,7 +82,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Request for
   Proposal - Fire Training - Live Fire Training Props RFP No. 13-33 - Project
   No. PP1091
 
@@ -118,7 +113,6 @@ d)         the
   contract with the contractor for the work through the issuance of a purchase
   order.  (2014-F17)
 
-# 6.&nbsp;&nbsp;&nbsp;Amendment to Fees
   and Charges By-law A-47 Adult Day Program - Dearness Home
 
 Recommendation:  That, on the
@@ -174,7 +168,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;4th Report of the
   Animal Welfare Advisory Committee
 
 Recommendation:  That the following actions
@@ -254,7 +247,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;2nd Report of the
   Accessibility Advisory Committee
 
 Recommendation:  That the following actions
@@ -299,7 +291,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Neighbourhood Family
   Centre - Thames Valley District School Board - Lord Nelson Public School
 
 Recommendation:  That, on the
@@ -345,7 +336,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Extension of Hours
   for Amplified Sound at the Memorial Cup
 
 Recommendation:  That, on the

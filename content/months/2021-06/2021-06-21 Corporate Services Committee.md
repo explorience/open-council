@@ -17,11 +17,9 @@ June 21, 2021, at 12:00 PM
 
 The meeting is called to order at 12:02 PM; it being noted that the following Members were in remote attendance: Mayor E. Holder; Councillors M. van Holst, J. Morgan, E. Peloza and A. Kayabaga.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;Issuance of Proclamations – Pilot Program Review
 
@@ -110,11 +108,9 @@ d)      the proposed by-law as appended to the staff report dated June 21, 20
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Application – Issuance of Proclamation – World Patient Safety Day
 
@@ -168,11 +164,9 @@ b)      subject to Councillor M. Cassidy's successful application to serve on
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by E. Peloza
 
@@ -226,7 +220,6 @@ The Corporate Services Committee convenes in closed session from 12:59 PM to 1:3
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by M. van Holst
 

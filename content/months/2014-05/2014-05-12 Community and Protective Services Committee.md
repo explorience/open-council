@@ -15,10 +15,8 @@ May 12, 2014, at  7:03 PM
 > [!abstract]- Also Present:
 > B. Coxhead, G. Kotsifas, L. Livingstone, M. Ribera
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
-# 2.&nbsp;&nbsp;&nbsp;4th Report of the
   Accessibility Advisory Committee
 
 Recommendation:  That the 4th Report of the
@@ -40,7 +38,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Animal Welfare
   Advisory Committee
 
 Recommendation:  That, on the
@@ -118,7 +115,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;2nd Report of the
   London Diversity and Race Relations Advisory Committee
 
 Recommendation:  That the following actions
@@ -173,7 +169,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Request to Have
   By-law PW-11 (Fireworks) Revised to Include the Weekend Before Canada Day
 
 Recommendation:  That the communication

@@ -15,13 +15,11 @@ January 6, 2015, at  4:00 PM
 > [!abstract]- Also Present:
 > J. Morgan, M. Salih; J. Braam, T. Copeland, M. Daley, U. DeCandido, D. Dobson, A. Drost, A. Dunbar, L. Kolodiazny, G. Kotsifas, J. Lucas, D. MacRae, S. Maguire, M. Ribera, L. Rowe, E. Soldo, J. Stanford
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;1st Report of the
   Cycling Advisory Committee
 
 Recommendation:  That the 1st Report of the
@@ -46,7 +44,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;2015 Burbrook Trunk
   Storm Sewer Project Initiation
 
 Recommendation:  That, on the
@@ -104,7 +101,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;SS12-27 Single
   Source Contract of the Supply and Delivery of Chemical Lime
 
 Recommendation:  That, on the
@@ -154,7 +150,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;London Cycling
   Master Plan - Appointment of Consulting Engineer
 
 Recommendation:  That, on the
@@ -204,7 +199,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Western Road and
   Sarnia Road / Philip Aziz Avenue Environmental Assessment - Appointment of
   Consulting Engineer
 
@@ -252,7 +246,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Accessible
   Pedestrian Signals Single Source
 
 Recommendation:  That, on the
@@ -297,7 +290,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Parking Application
   Renewal
 
 Recommendation:  That, on the

@@ -15,13 +15,11 @@ July 26, 2016, at  3:02 PM
 > [!abstract]- Also Present:
 > J. Helmer, P. Hubert, T. Park, M. van Holst; A. Zuidema, J.P. Barber, K. Dawtrey, V. McAlea Major, D. Popadic, C. Saunders
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary
   Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Policy for Processing - Ontario Ombudsman Investigations
 
 That, on the recommendation of the City

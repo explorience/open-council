@@ -15,13 +15,11 @@ December 3, 2014, at  4:06 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, J. Braam, B. Coxhead, S. Datars Bere, J.M. Fleming, K. Graham, M. Hayward, G. Kotsifas, L. Livingstone, V. McAlea Major, J.P. McGonigle, K. Pawelek, M. Ribera, C. Saunders, C. Smith, S. Spring, B. Westlake-Power
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Strategic Plan -
   Initial Discussions
 
 That the following actions be taken with

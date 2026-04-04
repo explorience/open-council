@@ -20,7 +20,6 @@ July 17, 2018, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
@@ -28,7 +27,6 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by P. Hubert
 
@@ -215,7 +213,6 @@ That, on the recommendation of Corporation Counsel, the staff report dated July
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;60% Waste Diversion Action Plan
 
@@ -252,7 +249,6 @@ d)    that a public participation meeting on the 60% Waste Diversion Action P
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;King Street Bike Lanes - Public Submissions
 
@@ -468,7 +464,6 @@ it being noted that Civic Works received a communication from Councillor V. Ri
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -512,7 +507,6 @@ That it BE NOTED that the 3rd Report of the Waste Management Working Group, from
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 6:05PM.
 

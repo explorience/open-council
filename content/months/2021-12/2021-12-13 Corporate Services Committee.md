@@ -17,7 +17,6 @@ December 13, 2021, at 12:00 PM
 
 The meeting is called to order at 12:01 PM; it being noted that the following members were in remote attendance: Mayor E. Holder and Councillors M. Cassidy and J. Morgan.
 
-# 1.&nbsp;&nbsp;&nbsp;Call to Order
 
 ## 1.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
@@ -44,7 +43,6 @@ That Councillor J. Fyfe-Millar BE APPOINTED Vice Chair for the term ending Novem
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;Restricted Acts of Council After Nomination Day and Voting Day
 
@@ -69,11 +67,9 @@ That, on the recommendation of the City Clerk, the staff report with respect to 
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;(ADDED) WITHDRAWN - Request for Delegation Status - AM Valastro - Public Notice Amendment
 
@@ -121,7 +117,6 @@ Motion to Approve the delegation of B. Benedict, to be heard at this time.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) 2021 Accessibility Compliance Report
 
@@ -146,7 +141,6 @@ That, on the recommendation of the Director, Anti-Racism and Anti-Oppression, an
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by J. Fyfe-Millar
 
@@ -177,7 +171,6 @@ The Corporate Services Committee convenes, In Closed Session, from 12:35 PM to 1
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by J. Fyfe-Millar
 

@@ -12,19 +12,16 @@ October 7, 2013, at  7:00 PM
 > [!abstract]- Also Present:
 > B. Coxhead, S. Datars Bere, L. Livingstone, J. Richardson, L. Stevens
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;4th Report of the
   Council Housing Leadership Committee.
 
 Recommendation:  That the 4th Report of the
   Council Housing Leadership Committee, from its meeting held on September 23,
   2013, BE RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;London  CAReS -
   Transitioning to the London Homeless Prevention System
 
 Recommendation:  That, on the
@@ -33,7 +30,6 @@ Recommendation:  That, on the
   London CAReS to the London Homeless Prevention System, BE RECEIVED for
   information. (2013-S14)
 
-# 4.&nbsp;&nbsp;&nbsp;Homeless
   Individuals and Families Information System (HFIS) Human Resources and Skills
   Development Canada ( HRSDC) Contract
 
@@ -64,7 +60,6 @@ b)           
   accordance with section 39 of the Agreement referenced in paragraph a),
   above.
 
-# 5.&nbsp;&nbsp;&nbsp;8th Report of the
   London Diversity and Race Relations Advisory Committee
 
 Recommendation:  That the following actions
@@ -100,7 +95,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Dillon Consulting
   Contract
 
 Recommendation:  That, on the
@@ -140,7 +134,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Call for Board
   Nominations - Housing Services Corporation Board
 
 Recommendation:  That the City Clerk BE
@@ -165,7 +158,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Amethyst Award
   Nomination Letter of Support
 
 That the Mayor BE REQUESTED to provide a

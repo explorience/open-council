@@ -17,11 +17,9 @@ May 22, 2024, at  1:00 PM
 
 The meeting is called to order at 1:04 PM; it being noted that Councillor S. Hillier was in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by C. Rahman
 
@@ -108,7 +106,6 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Changes to the Conservation Act
 
@@ -653,11 +650,9 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters list 
 
@@ -682,7 +677,6 @@ That the April 30, 2024 Deferred Matters List BE RECEIVED.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 4:16 PM.
 ---

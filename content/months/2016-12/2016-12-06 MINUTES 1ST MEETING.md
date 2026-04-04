@@ -18,12 +18,9 @@ December 6, 2016, at  4:02 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:02 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
-# II.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
@@ -189,7 +186,6 @@ Motion Passed
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Request for
   Proposal for Internal Audit Services
 
 That the following actions be taken with
@@ -222,10 +218,8 @@ it being noted that the Audit Committee
   received a verbal report from A.L. Barbon, Director, Financial Services, with
   respect to this matter.
 
-# III.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
 > Moved by Councillor P. Hubert
 
@@ -338,7 +332,6 @@ Motion Passed
 
 ****
 
-# IV.&nbsp;&nbsp;&nbsp;COUNCIL, IN CLOSED SESSION
   (CONTINUED)
 
 > Moved by Councillor M. van Holst
@@ -495,7 +488,6 @@ Motion Passed
 
 ****
 
-# V.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE TWENTY -THIRD AND THE TWENTY-FOURTH
   MEETINGS HELD ON NOVEMBER 18, 2016 AND NOVEMBER 22, 2016
 
@@ -532,13 +524,10 @@ Motion Passed
 
 ****
 
-# VI.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
-# VII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# VIII.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor J. Helmer
 
@@ -546,11 +535,9 @@ Approve clauses 1 to 25, excluding clauses 4, 5, 13 and 19.
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Water and
   Wastewater and Treatment Budgets
 (rounded to the closest $1,000)
 
-# 6.&nbsp;&nbsp;&nbsp;2017 Annual Budget Update
   - Public Input
 
 That, on the recommendation of the
@@ -558,7 +545,6 @@ That, on the recommendation of the
   24, 2016, regarding public input for the 2017 Multi-Year Budget, BE RECEIVED
   for information.
 
-# 7.&nbsp;&nbsp;&nbsp;Absence from
   Meetings
 
 That the communication dated November 20,
@@ -572,7 +558,6 @@ Approve clauses 1 and 2.
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;London Police
   Services Board Composition
 
 That it BE NOTED that Councillor J. Morgan
@@ -604,7 +589,6 @@ Motion Passed
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Ontario Municipal
   Board Review 2016
 
 That, the following actions be taken with
@@ -710,13 +694,11 @@ Motion Passed
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Building Division
   Monthly Report for September 2016
 
 That the Building Division monthly report
   for September 2016 BE RECEIVED. (2016-A23)
 
-# 11.&nbsp;&nbsp;&nbsp;Property located at
   545 Fanshawe Park Road West (Z-8633) (Relates to Bill No. 15)
 
 That, based on the application of 2403290
@@ -852,7 +834,6 @@ it being noted that the Municipal Council
   recommended Zoning By-law amendment serves to retain the natural heritage
   area located in the north half of the property.  (2016-D09)
 
-# 12.&nbsp;&nbsp;&nbsp;Property located at
   2156 Highbury Avenue North (Z-8688) (Relates to Bill No. 16)
 
 That, on the recommendation of the Managing
@@ -886,7 +867,6 @@ it being noted that the Municipal Council
   the severance and creation of three residential lots for non-farm
   dwellings.   (2016-D09)
 
-# 14.&nbsp;&nbsp;&nbsp;Southwest Area
   Secondary Plan (O-8680)
 
 That, the application of Old Oak Properties
@@ -906,7 +886,6 @@ it being noted that the Municipal Council
   referred this application back to the Civic Administration after hearing
   significant public comments relating to this matter.    (2016-D09)
 
-# 15.&nbsp;&nbsp;&nbsp;Property located at
   2619 Sheffield Boulevard - Application for Vacant Land Condominium
   (39CD-16513)
 
@@ -954,7 +933,6 @@ it being further noted that Municipal
   Council received comments from the agent for the applicant in support of the
   staff recommendation.    (2016-D07)
 
-# 16.&nbsp;&nbsp;&nbsp;Property located at
   4166 Scotland Drive (Z-8669) (Relates to Bill No. 18)
 
 That, on the recommendation of the Managing
@@ -986,7 +964,6 @@ it being noted that the Municipal Council
   proposed development is appropriate and will support existing local farm
   operations.   (2016-D09)
 
-# 17.&nbsp;&nbsp;&nbsp;Industrial
   Operations Shaver-Brockley Area
 
 The Civic Administration BE DIRECTED to
@@ -1067,7 +1044,6 @@ Approve clauses 1, 2, 3, and 5.
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;Comments on
   Ministry of Transportation Ontario (MTO) Discussion Paper on Cycling Initiatives
   for Submission to the Environmental Bill of Rights (EBR) Registry
 
@@ -1079,7 +1055,6 @@ That, on the recommendation of the Managing
   posting (EBR 012-8772) titled MTO Discussion Paper on Cycling Initiatives; it
   being noted that the due date for comments is November 30, 2016.  (2016-T05)
 
-# 20.&nbsp;&nbsp;&nbsp;Lake Erie
   Bi-National Phosphorous Reduction Target
 
 That, on the recommendation of the Managing
@@ -1092,7 +1067,6 @@ That, on the recommendation of the Managing
   and the attached presentation and revised Appendix 'B' from J. Lucas,
   Director, Water and Wastewater, with respect to this matter.  (2016-E13)
 
-# 21.&nbsp;&nbsp;&nbsp;1st Report of the
   Rapid Transit Implementation Working Group
 
 That the following actions be taken with
@@ -1108,7 +1082,6 @@ a)         the
  
 b)         clauses 1 to 8 BE RECEIVED.
 
-# 22.&nbsp;&nbsp;&nbsp;S. Ryall, Race
   Director, Forest City Road Races -  Request for Permanent Finish Line on the
   North side of Dufferin Avenue, between Clarence Street and Wellington Street
 
@@ -1119,20 +1092,17 @@ That the communication dated October 25,
   Administration for report back on what might be done to accommodate their
   request, including the associated costs.
 
-# 23.&nbsp;&nbsp;&nbsp;L. Mckenzie, Gleed
   Inc., Broker - Disabled Street Parking
 
 That the delegation and a communication
   dated November 10, 2016, from L. McKenzie, with respect to disabled street
   parking, BE RECEIVED. (2016-T02)
 
-# 24.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the Civic Works Committee Deferred
   Matters List, as at November 8, 2016, BE RECEIVED.
 
-# 25.&nbsp;&nbsp;&nbsp;Terms of Reference
   and Public Consultation Process - Environmental Assessment
 
 That the Civic Administration BE DIRECTED
@@ -1151,7 +1121,6 @@ b)         pending
   public meetings relative to the EA Process with respect to the One River
   Master Plan.
 
-# 4.&nbsp;&nbsp;&nbsp;2016-2019
   Multi-Year Budget - 2017 Annual Budget Update - Financing Options to Mitigate
   Tax Rate Increases
 
@@ -1160,7 +1129,6 @@ That, on the recommendation of the Managing
   options to mitigate tax levy pressures contained in the tabled 2017 Annual
   Budget Update BE RECEIVED for information.
 
-# 5.&nbsp;&nbsp;&nbsp;2016-2019
   Multi-Year Budget Amendment Form - Case #21
 
 That free public transit ridership, for all
@@ -1168,7 +1136,6 @@ That free public transit ridership, for all
   with the source of financing to be a permanent budget transfer, in 2017, from
   Corporate Revenues and Expenses.
 
-# 13.&nbsp;&nbsp;&nbsp;Property located at
   551 Knights Hill Road (Z-8675) (Relates to Bill No. 17)
 
 That, on the recommendation of the Managing
@@ -1215,7 +1182,6 @@ it being further noted that Municipal
   Council received comments from the agent for the applicant in support of the
   staff recommendation.   (2016-D09)
 
-# 19.&nbsp;&nbsp;&nbsp;Application by
   Cedar Hollow Developments Limited - Street Renaming - Cedarpark Crescent
   (East of Cedarhollow Boulevard) (Relates to Bill No. 5)
 
@@ -1254,7 +1220,6 @@ Motion Passed
 
 ****
 
-# 26.&nbsp;&nbsp;&nbsp;Traffic Calming
 
 That the Civic Administration BE DIRECTED
   to investigate and report back on a potential educational campaign for the
@@ -1291,16 +1256,12 @@ Approve clauses 1 to 16, excluding clauses 6 and 9.
 
 ****
 
-# IX.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND THIRD
   TIME:
@@ -1493,7 +1454,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

@@ -17,11 +17,9 @@ October 22, 2024, at  1:00 PM
 
 The meeting is called to order at 1:00 PM; it being noted that Councillor S. Hillier was in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Franke
 
@@ -134,7 +132,6 @@ That the staff report dated October 22, 2024 entitled "Reducing Off-the-Clock Pe
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;763-773 Dundas Street (Z-9777)
 
@@ -847,7 +844,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Hyde Park BIA Boundary Expansion Request
 
@@ -891,7 +887,6 @@ That D. Szpakowski and T. Delaney, Hyde Park Business Improvement Association BE
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -960,7 +955,6 @@ That A. Badillo, Executive Director, Urban Roots BE GRANTED delegation status; i
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by S. Lewis
 

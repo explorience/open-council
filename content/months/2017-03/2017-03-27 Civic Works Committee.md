@@ -15,13 +15,11 @@ March 27, 2017, at 12:00 PM
 > [!abstract]- Also Present:
 > M. Cassidy, J. Helmer, T. Park, H. L. Usher; M. Hayward, S. Chambers, T. Copeland, A. Dunbar, M. Elmadhoon, J. M. Fleming, J. Ford, S. Galloway, G. Gauld, K. Graham, J. Lucas, D. MacRae, S. Maguire, S. Mathers, K. Palcezny, M. Ribera, L. Rowe, K. Scherr, E. Soldo, J. Stanford
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Appointment of Consulting Engineer for Construction Administration of Old
   Victoria Stormwater Management Facility No. 1 (ESSWM-OV1)
 
@@ -71,7 +69,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT - New
   2017 Traffic Signals
 
 That, on the recommendation of the Managing
@@ -103,7 +100,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Emergency Repair - Greenway Wastewater Treatment Plant Incinerator Heat
   Exchangers and Dome Replacement
 
@@ -132,7 +128,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Contract Award Tender 17-23 - Veterans Memorial Parkway Resurfacing - Gore
   Road to Oxford Street East
 
@@ -188,7 +183,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Contract Award Tender 17-21 - Sarnia Road Improvements Phase 3 - Hyde Park
   Road to Oakcrossing Gate
 
@@ -245,7 +239,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Appointment of Consulting Engineer for Contract Administration Services
   Associated with the Construction of 2017 Infrastructure Renewal Projects -
   Emery Street, East Mile Road/Oban Crescent/Glen Crescent/Hyman Street/Victor
@@ -321,7 +314,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Contract Award: Tender No. 17-15 - 2017 Infrastructure Renewal Program -
   Byron Baseline Road Reconstruction Project
 
@@ -380,7 +372,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Contract Award: Tender No. 17-11 -  2017 Infrastructure Lifecycle Renewal
   Program - Contract 2: St. George Street, Cheapside Street and Bridport Street
 
@@ -439,7 +430,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;3rd Report of the
   Transportation Advisory Committee
 
 That the 3rd Report of the Transportation
@@ -462,7 +452,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;3rd and 4th Reports
   of the Cycling Advisory Committee
 
 That the 3rd and 4th Reports of the Cycling
@@ -486,7 +475,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;5th Report of the
   Rapid Transit Implementation Working Group
 
 That the following actions be taken with
@@ -541,7 +529,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the Civic Works Committee Deferred

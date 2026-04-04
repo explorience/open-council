@@ -18,7 +18,6 @@ May 2, 2017, at  4:00 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:00 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 Councillor S. Turner discloses a pecuniary
@@ -30,12 +29,9 @@ Councillor S. Turner discloses a pecuniary
   employer, the Middlesex London Health Unit, has a regulatory capacity in each
   of these matters.
 
-# II.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# III.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# IV.&nbsp;&nbsp;&nbsp;COUNCIL, IN
   CLOSED SESSION
 
 > Moved by Councillor H.L. Usher
@@ -78,7 +74,6 @@ The Council, in Closed Session, rises at
   and all Members present except Councillors M. Salih, M. Cassidy and J.
   Zaifman.
 
-# V.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE TWELFTH , THIRTEENTH and fourteenth
   MEETINGS HELD ON APRIL 18, APRIL 21 and May 1 2017 RESPECTIVELY
 
@@ -114,7 +109,6 @@ Motion Passed
 
 ****
 
-# VI.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
 > Moved by Councillor T. Park
@@ -126,16 +120,13 @@ Approve receipt and referral of the
 
 ****
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# VII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# VIII.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor T. Park
 
@@ -143,7 +134,6 @@ Approve clauses 1 to 3, 5 to 12 and clause 14.
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Patio Design
   Guidelines for On-Street Municipal Parking Spaces
 
 That, on the recommendation of the Managing
@@ -153,14 +143,12 @@ That, on the recommendation of the Managing
   noted that the Patio Design Guidelines will be included in the Urban Design
   Guidelines. (2017-P15)
 
-# 3.&nbsp;&nbsp;&nbsp;Rail Safety Week
 
 That, on the recommendation of the Managing
   Director, Environmental and Engineering Services and City Engineer, the staff
   report dated April 24, 2017, with respect to National Public Rail Safety Week,
   BE RECEIVED for information.  (2017-P15)
 
-# 5.&nbsp;&nbsp;&nbsp;Contract Award:
   Tender No. 17-40 - 2017 Infrastructure Renewal Program -  Beachwood Avenue
   Reconstruction Project
 
@@ -194,7 +182,6 @@ e)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations.  (2017-T04)
 
-# 6.&nbsp;&nbsp;&nbsp;Contract Award:
   Tender No. 17-32 -  Replacement of Sidewalks, Curb and Gutter and Hot Mix
   Asphalt -  Contract #1
 
@@ -228,7 +215,6 @@ e)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations.  (2017-T06)
 
-# 7.&nbsp;&nbsp;&nbsp;Contract Award:
   Tender No. 17-57 - 2017 Bradley Avenue West Extension
 
 That, on the recommendation of the Managing
@@ -267,7 +253,6 @@ f)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations.  (2017-T04)
 
-# 8.&nbsp;&nbsp;&nbsp;Contract Award:
   Tender No. 17-46 - Western Road / Wharncliffe Road North Improvements - Phase
   1 - Canadian Pacific Railway Grade Separation Reconstruction
 
@@ -309,7 +294,6 @@ f)         the
   documents including rail-related agreements, if required, to give effect to
   these recommendations.  (2017-T04)
 
-# 9.&nbsp;&nbsp;&nbsp;Partnering in
   Phosphorus Control: Achieving Phosphorous Reductions in Lake Erie From
   Canadian Sources (EBR Registry Number: 012-9971)
 
@@ -328,7 +312,6 @@ b)         the
   comments on EBR Registry Number 012-9971, appended to the staff report dated
   April 24, 2017 as Appendix ‘B’, BE ENDORSED.  (2017-E05)
 
-# 10.&nbsp;&nbsp;&nbsp;Environmental
   Programs Annual Update
 
 That, on the recommendation of the
@@ -342,17 +325,14 @@ b)         the
   staff report dated April 24, 2017 BE FORWARDED to the Advisory Committee on
   the Environment (ACE) for information.  (2017-C08)
 
-# 11.&nbsp;&nbsp;&nbsp;London Transit
   Commission - Buses Off Dundas Street - Update
 
 That the communication dated April 13,
   2017, from K. Paleczny, General Manager, London Transit Commission, with
   respect to an update on the removal of buses from Dundas Street, BE RECEIVED.
 
-# 12.&nbsp;&nbsp;&nbsp;4th Report of the
   Transportation Advisory Committee
 
-# 14.&nbsp;&nbsp;&nbsp;City Council and
   Standing Committee Pre-Recorded Video Content - City Website and YouTube Channel
 
 That Civic Administration BE DIRECTED to
@@ -363,7 +343,6 @@ That Civic Administration BE DIRECTED to
   further noted that additional information will be provided to
   Committee/Council, following this pilot.
 
-# 4.&nbsp;&nbsp;&nbsp;Confidentiality
   Agreement with the Association of the Municipalities of Ontario (AMO) to the
   Undertake Work Associated with the Resource Recovery and Circular Economy Act
   2016. (Relates to Bill No. 182)
@@ -386,7 +365,6 @@ b)         authorize
   the Mayor and the City Clerk to execute the Confidentiality Agreement
   authorized and approved in a), above.  (2017-E07/A01)
 
-# 13.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 > Moved by Councillor P. Hubert
@@ -395,14 +373,12 @@ Approve clause 1.
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the April 2017 Deferred Matters List
   for the Community and Protective Services Committee BE UPDATED and BE
   RECEIVED.
 
-# 16.&nbsp;&nbsp;&nbsp;Withdrawal Renaming
   Proposal - Mildred Barons Park to Vimy Ridge Park
 
 That the following actions be taken with
@@ -424,7 +400,6 @@ c)         the
   Added Agenda, BE REFERRED to staff for consideration related to the
   establishment of a permanent memorial.
 
-# IX.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
 > Moved by Councillor P. Hubert
@@ -469,15 +444,11 @@ Motion Passed
 
 ****
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -578,7 +549,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

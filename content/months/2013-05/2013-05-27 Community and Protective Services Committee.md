@@ -15,26 +15,22 @@ May 27, 2013, at  7:01 PM
 > [!abstract]- Also Present:
 > B. Coxhead, S. Datars Bere, M. Henderson, O. Katolyk, G. Kotsifas, E. Lalonde, L. Livingstone, J. Smout, R. Sharpe
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that Councillor B.
   Armstrong disclosed a pecuniary interest in clause 9 of this Report, having
   to do with residential rental units licensing fees, by indicating that he
   owns rental properties.
 
-# 2.&nbsp;&nbsp;&nbsp;4th Report of the
   Accessibility Advisory Committee
 
 Recommendation:  That the 4th Report of the
   Accessibility Advisory Committee, from its meeting held on April 25, 2013, BE
   RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;6th Report of the
   London Housing Advisory Committee
 
 Recommendation:  That the 6th Report of the
   London Housing Advisory Committee, from its meeting held on May 8, 2013, BE
   RECEIVED.
 
-# 4.&nbsp;&nbsp;&nbsp;Approval of
   Standard Form Facility Rental Contract and Delegation of Authority to Execute
   Facility Rental Contracts
 
@@ -46,7 +42,6 @@ Recommendation:  That, on the
   Director, Parks and Recreation, or Designate(s), to insert information and
   execute contracts which employ the form.
 
-# 5.&nbsp;&nbsp;&nbsp;6th Report of the
   Animal Welfare Advisory Committee
 
 Recommendation:  That the following actions
@@ -86,7 +81,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Licensing of
   Methadone Pharmacies and Clinics
 
 Recommendation:  That, on the recommendation
@@ -113,7 +107,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Food Truck Proposal
 
 Recommendation:  That consideration of the
   food truck pilot program BE REFERRED to a special meeting of the Community
@@ -202,7 +195,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;5th Report of the
   London Diversity and Race Relations Advisory Committee
 
 Recommendation:  That  the following
@@ -238,7 +230,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Residential Rental
   Units Licensing Fees
 
 That, on the recommendation of the Managing

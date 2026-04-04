@@ -17,11 +17,9 @@ June 17, 2019, at 12:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Councillor M. Salih discloses pecuniary interests in Items 4.1 and 4.2 of this Report, having to do with the Impact of Social Assistance Changes on the Community and the City of London Budget and the Impact of Cuts to Legal Aid on the Community and the City of London Budget, respectively, by indicating that he works for the federal government.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by E. Peloza
 
@@ -297,7 +295,6 @@ Motion to approve a cap on NDM funding to an individual project at $30,000.
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;M. Wills - Homelessness Crisis in London
 
@@ -419,7 +416,6 @@ it being further noted that verbal delegations from S. Levin, EEPAC and J. Madde
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Impact of Social Assistance Changes on the Community and the City of London Budget
 
@@ -578,7 +574,6 @@ it being noted that the above-noted submission, dated June 4, 2019 with respect 
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -632,7 +627,6 @@ Motion to approve part b).
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 ## 6.1&nbsp;&nbsp;&nbsp;Solicitor-Client Privilege - Litigation/Potential Litigation
 
@@ -660,7 +654,6 @@ The Community and Protective Services Committee convened In Closed Session from 
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 3:37 PM.
 

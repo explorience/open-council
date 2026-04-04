@@ -20,19 +20,15 @@ June 4, 2019, at  2:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;1st Report of the Striking Committee
 
@@ -979,7 +975,6 @@ it being noted that the above recommendation is in accordance with the attache
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;ADDED - Community Safety and Crime Prevention Advisory Committee Referral
 
@@ -1009,7 +1004,6 @@ That clause 5.2 of the 4th Report of the Community Safety and Crime Prevention 
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 3:47 PM.
 

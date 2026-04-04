@@ -22,11 +22,9 @@ March 1, 2022, at 12:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by E. Holder
 
@@ -163,11 +161,9 @@ That, on the recommendation of the Deputy City Manager, Environment and Infrastr
 
 [2022-03-01 SR - Erosion and Sediment Controls MECP Great Lakes(2of2)](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=90387>)
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Active Transportation Fund 
 
@@ -194,7 +190,6 @@ it being noted that the communications from S. Levin, with respect to this matte
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 > Moved by M. van Holst
 
@@ -241,7 +236,6 @@ b)        and clauses 1.1, 2.2, and 3.1 BE RECEIVED.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by P. Van Meerbergen
 

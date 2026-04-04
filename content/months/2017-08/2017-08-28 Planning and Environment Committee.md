@@ -15,7 +15,6 @@ August 28, 2017, at  4:00 PM
 > [!abstract]- Also Present:
 > J. Morgan, H.L. Usher, J. Zaifman, G. Barrett, L. Dent, M. Elmadhoon, J.M. Fleming, S. Galloway, K. Gonyou, O. Katolyk, P. Kokkoros, G. Kotsifas, J. MacKay, A. Macpherson, M. Marcellin, L. Mottram, D. Mounteer, D. O’Brien, B. Page, N. Pasato, M. Pease, L. Pompilii, M. Ribera, C. Saunders, K. Scherr, C. Smith, J.-A. Spence, J. Stanford, S. Wise, J. Yanchula, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that Councillor S. Turner
@@ -28,7 +27,6 @@ That it BE NOTED that Councillor S. Turner
   his employer deals with regulatory parameters which may relate to these
   matters.
 
-# 2.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Development Charges (DC) Claimable Works for 3080 Bostwick Road - Amend
   Consent Agreement
 
@@ -64,7 +62,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT - Property
   located at 1647 Fanshawe Park Road East (O' Hanlan Subdivision - 39T-10503) 
   (H-8806)
 
@@ -105,7 +102,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT - Property
   located at 2603 Holbrook Drive (H-8772)
 
 That, on the recommendation of the Senior
@@ -137,7 +133,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;STAFF REPORT - Property
   located at Silverleaf Subdivision - Subdivision Special Provisions
   (39T-14504)
 
@@ -168,7 +163,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;STAFF REPORT - Properties
   Located at 1237, 1241, 1249, 1254 and 1258 Thornley Street (H-8634)
 
 That, on the recommendation of the Senior
@@ -198,7 +192,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;STAFF REPORT - Property
   located at 2810 Sheffield Place (H-8767)
 
 That, on
@@ -230,7 +223,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;STAFF REPORT - Property
   located at 58 Sunningdale Road West (39T-16503/OZ-8637)
 
 That, on the recommendation of the Senior
@@ -518,7 +510,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;DELEGATION - D.
   Dudek, Chair, London advisory Committee on Heritage - 9th Report of the
   London Advisory Committee on Heritage
 
@@ -674,7 +665,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;DELEGATION – Sandy
   Levin, Chair, Environmental and Ecological Planning Advisory Committee - 7th
   Report of the Environmental and Ecological Planning Advisory Committee
 
@@ -722,7 +712,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Property located at 2426 Wickerson Road (OZ-8783)
 
 That, on the recommendation of the Managing
@@ -858,7 +847,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Property located at 2603 Holbrook Drive - Application
   for Vacant Land Condominium  (39CD-17504/SPA17-013)
 
@@ -940,7 +928,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Property located at 2810 Sheffield Place -
   Application for Vacant Land Condominium  (39CD-17503/SPA17-026)
 
@@ -1026,7 +1013,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Amendments to the Official Plan and Zoning By-law -
   Lands Located West of Hamilton Road and North of Commissioners Road East
 
@@ -1154,7 +1140,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Property located at 639 York Street (Z-8787)
 
 That, on the recommendation of the Managing
@@ -1318,7 +1303,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Review of Impacts from Industrial Sources (Focus on
   Odour) and Potential Municipal Actions (Primarily South of Highway 401)
 
@@ -1476,7 +1460,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Property located at 723 Lorne Ave. (Lorne Avenue
   Public School) - Demolition Request
 
@@ -1605,7 +1588,6 @@ Motion
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Properties located at 36 and 40 York Street -
   Demolition Request
 
@@ -1702,7 +1684,6 @@ Motion
 
 ****
 
-# 19.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Property located at 440 Grey Street - Demolition
   Request
 
@@ -1776,7 +1757,6 @@ Motion
 
 ****
 
-# 20.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Properties located at 598, 600, 604 and 608
   Springbank Drive (SPA17-028)
 
@@ -1866,7 +1846,6 @@ Motion
 
 ****
 
-# 21.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Properties located at 32, 36 and 40 York Street and
   Part of 330 Thames Street (Z-8789)
 
@@ -2289,7 +2268,6 @@ Motion
 
 ****
 
-# 22.&nbsp;&nbsp;&nbsp;COUNCILOR MEMBER
   SUBMISSION – Enforcement in Unassumed Subdivisions
 
 That the Managing Director, Development and
@@ -2385,7 +2363,6 @@ Motion
 
 ****
 
-# 23.&nbsp;&nbsp;&nbsp;PUBLIC SUBMISSION -
   Definition of Supervised Injection Sites
 
 That the Managing Director, Planning and
@@ -2422,7 +2399,6 @@ Motion
 
 ****
 
-# 24.&nbsp;&nbsp;&nbsp;8th Report of the
   Trees and Forests Advisory Committee
 
 That the following actions be taken with

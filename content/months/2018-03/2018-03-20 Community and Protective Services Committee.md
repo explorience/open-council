@@ -14,11 +14,9 @@ March 20, 2018, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by B. Armstrong
 
@@ -251,7 +249,6 @@ That the 2nd Report of the Accessibility Advisory Committee, from its meeting he
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Request for Support for UN Safe Cities Initiative - ANOVA
 
@@ -295,7 +292,6 @@ That the communication dated March 20, 2018, from ANOVA, with respect to a reque
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Special Events Fee - Indigenous Bands and Indigenous Organizations
 
@@ -397,7 +393,6 @@ f)             clauses 1, 2, 5 to 8 and 12, BE RECEIVED.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -431,7 +426,6 @@ b)            clauses 1.1 to 5.3 BE RECEIVED.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 5:51 PM.
 

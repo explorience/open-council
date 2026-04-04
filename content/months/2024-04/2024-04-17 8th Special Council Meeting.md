@@ -20,21 +20,16 @@ April 17, 2024, at  5:00 PM
 
 The meeting is called to order at 5:22 PM; it being noted that the 8th Special Council Meeting was held at the Oneida Community Centre, 2017 Ball Park Rd, Oneida Nation of the Thames
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That is BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
 Mayor J. Morgan presented a white pine sapling which represents peace and a traditional gift of tobacco. Chief T. Cornelius presented a woven Haudenosaunee Wampum Belt which represents a historic peace agreement between four First Nations.
 
-# 3.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
-# 5.&nbsp;&nbsp;&nbsp;Items for Discussion 
 
 ## 5.1&nbsp;&nbsp;&nbsp;Shared Environmental Concerns 
 
@@ -68,27 +63,21 @@ b) the Mayor BE REQUESTED to advocate via the Ontario Big City Mayors Caucus and
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Reports
 
 None.
 
-# 7.&nbsp;&nbsp;&nbsp;Added Reports
 
 None.
 
-# 8.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-# 9.&nbsp;&nbsp;&nbsp;Enquiries
 
 None.
 
-# 10.&nbsp;&nbsp;&nbsp;Emergent Motions
 
 None.
 
-# 11.&nbsp;&nbsp;&nbsp;By-laws
 
 > Motion made by C. Rahman
 
@@ -126,7 +115,6 @@ By-law No. A.-8484-85 - A by-law to confirm the proceedings of the Council Meeti
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by P. Cuddy
 

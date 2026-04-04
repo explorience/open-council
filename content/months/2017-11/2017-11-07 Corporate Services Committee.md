@@ -15,13 +15,11 @@ November 7, 2017, at 12:31 PM
 > [!abstract]- Also Present:
 > M. Cassidy, M. van Holst; M. Hayward, A.L. Barbon, G. Bridge, B. Card, H. Chapman, I. Collins, S. Corman, B. Coxhead, C. Da Silva, A. Dunbar, S. Khan, J. Klingenberger, G. La Forge, A. Langmuir, J. Logan, S. Maguire, S. Mathers, S. Miller, D. Mounteer, A. Patis, J. Raycroft, C. Saunders, S. Spring, B. Warner, T. Wellhauser, R. Wilcox, P. Yeoman, G. Zhang
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary
   Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Advisory Committee
   Member Recognition
 
 That, on the recommendation of the City
@@ -48,7 +46,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;FCM Diverse Voices
   for Change Update
 
 That, on the recommendation of the City
@@ -92,7 +89,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Development Charges
   Rate Monitoring - 2017 Review
 
 That, on the recommendation of the Managing
@@ -117,7 +113,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;2016 Annual Report -
   Development Charges Reserve Funds
 
 That, on the recommendation of the Managing
@@ -145,7 +140,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Pre-Authorized Tax
   Payment Plan By-law and Collection of Property Taxes By-law
 
 That, on the recommendation of the Managing
@@ -184,7 +178,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Master
   Accommodation Plan
 
 That, on the recommendation of the City
@@ -209,7 +202,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;2017 Accessibility
   Compliance Report
 
 That, on the recommendation of the Managing
@@ -234,7 +226,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Equity and
   Inclusion Lens for the Development of Policies, Procedures and Programs
 
 That, on the recommendation of the Managing
@@ -271,7 +262,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Confirmation of
   Appointment to the Child Care Advisory Committee
 
 That Julie Frederick BE APPOINTED to the
@@ -295,7 +285,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Confirmation of
   Appointment to the Town and Gown Committee
 
 That Vanessa Lilly BE APPOINTED to the Town
@@ -319,7 +308,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Confirmation of
   Appointment to the Community Safety and Crime Prevention Advisory Committee
 
 That Julie Brandl BE APPOINTED to the
@@ -344,7 +332,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Proposed Election
   Sign By-law
 
 That, notwithstanding the recommendation of

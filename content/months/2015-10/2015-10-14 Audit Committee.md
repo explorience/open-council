@@ -12,10 +12,8 @@ October 14, 2015, at 12:04 PM
 > [!abstract]- Also Present:
 > A.L. Barbon, J. Braam, B. Coxhead, K. Dawtrey, I. Jefferies (KPMG), V. McAlea Major, D. McLean (PwC), C. Shah (PwC), J. Stanford
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
-# 2.&nbsp;&nbsp;&nbsp;Quarterly Report on
   Internal Audit Results - Parks and Recreation: Cost Structure and Delivery
   Model
 

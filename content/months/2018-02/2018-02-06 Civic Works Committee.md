@@ -15,13 +15,11 @@ February 6, 2018, at  4:00 PM
 > [!abstract]- Also Present:
 > J. Helmer, A. Hopkins, M. van Holst; J. Ackworth, T. Copeland, A. Dunbar, T. Koza, H. Lysynski, D. MacRae, S. Mathers, D. Popadic, A. Rozentals, K. Scherr, E. Soldo, S. Spring, J. Stanford, B. Westlake-Power, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;COUNCIL MEMBER
   SUBMISSION – Absent From Meeting
 
 That it BE NOTED that a communication dated
@@ -43,7 +41,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Contract Award  -  T17-130 Wonderland Road South Two-Lane Upgrade
 
 That, on the recommendation of the Managing
@@ -97,7 +94,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Amendments to the Traffic and Parking By-law
 
 That, on the recommendation of the Managing
@@ -121,7 +117,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Hamilton Road Infrastructure Lifecycle Renewal -  Chesley Avenue to Egerton
   Street -  Hydro and Telecommunication Utility Locations
 
@@ -156,7 +151,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;STAFF REPORT - 
   Contract Award -  Tender No. 17-129 Western Road/Wharncliffe Road North
   Improvements Phase 2
 
@@ -217,7 +211,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Consultant Assignments -  Southeast Pressure Zone Development -  Construction
   Administration
 
@@ -259,7 +252,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;STAFF REPORT - Sole
   Source Award - Acoustic Fiber Optic Monitoring Contract Project No. EW3538
 
 That, on the recommendation of the Managing
@@ -302,7 +294,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Appointment of Consulting Engineer for Detailed Design and Contract Administration
   of the Fox Hollow Stormwater Management Facility No. 1-North Cell (ESSWM-FH1)
 
@@ -350,7 +341,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Contract Award  - T17-56 North Lambeth P9 Stormwater Management Facility
   (ESSWM  - DCNLP9)
 
@@ -403,7 +393,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Weeping Tile Disconnection Promotional Canvassing Campaign
 
 That, on the recommendation of the Managing
@@ -426,7 +415,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;STAFF REPORT - 
   2017 Ministry of the Environment and Climate Change Inspection Report for the
   City of London Water Distribution System
 
@@ -451,7 +439,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Contract Price Increase -  Tender T17-15 Infrastructure Renewal Program -
   Byron Baseline Road Reconstruction Project
 
@@ -493,7 +480,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Strategic Plan Variance Report
 
 That, on the recommendation of the City
@@ -516,7 +502,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;1st Report of the
   Waste Management Working Group
 
 That the 1st Report of the Waste Management
@@ -537,7 +522,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;1st Report of the
   Transportation Advisory Committee
 
 That the 1st Report of the Transportation
@@ -558,7 +542,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;Wharncliffe Road
   South Environmental Study Report
 
 That, on the recommendation of the Managing
@@ -628,7 +611,6 @@ Motion
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;2nd Report of the
   Cycling Advisory Committee
 
 That the following actions be taken with
@@ -688,7 +670,6 @@ Motion
 
 ****
 
-# 19.&nbsp;&nbsp;&nbsp;COUNCIL MEMBER
   SUBMISSION – Underground Utilities on Hamilton Road
 
 That
@@ -711,7 +692,6 @@ Motion
 
 ****
 
-# 20.&nbsp;&nbsp;&nbsp;COUNCIL MEMBER
   SUBMISSION – Private Drain Connection (PDC) Projects
 
 That the Director of Water and Wastewater
@@ -738,7 +718,6 @@ Motion
 
 ****
 
-# 21.&nbsp;&nbsp;&nbsp;PUBLIC SUBMISSION -
   Pedestrian Sidewalk  - Pack Road and Colonel Talbot Road
 
 That the communication from J. Burns
@@ -763,7 +742,6 @@ Motion
 
 ****
 
-# 22.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the Civic Works Committee deferred

@@ -12,10 +12,8 @@ February 18, 2014, at  4:02 PM
 > [!abstract]- Also Present:
 > J.F. Fontana, D. Brown, J.P. Bryant, G. Barrett, M. Davis, B. Debbert, M. Elmadhoon, J.M. Fleming, T. Grawey, B. Henry, P. Kokkoros, G. Kotsifas, B. Krichker, A. Macpherson, L. McDougall, C. Saunders, R. Sharpe, M. Tomazincic, A.B. Watson, S. Wilson, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Property located at
   2263 Dundas Street (Z-8273)
 
 Recommendation:  That, on the
@@ -116,7 +114,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Property located at
   350 Oxford Street East
 
 Recommendation:  That, on the recommendation
@@ -431,7 +428,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Properties located
   at 100 Fullarton Street and 475 Talbot Street (Z-8285)
 
 Recommendation:  That, on the
@@ -803,7 +799,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Property located at
   9345 Elviage Drive (OZ-8280)
 
 Recommendation:  That, on the

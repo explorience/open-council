@@ -12,7 +12,6 @@ February 5, 2015, at  9:02 AM
 > [!abstract]- Also Present:
 > (January 29, 2015) A. Zuidema, J.P. Barber, A.L. Barbon, J. Braam, I. Collins, B. Coxhead, S. Datars Bere, A. Dunbar, J.M. Fleming, T. Grawey, A. Hagan, M. Hayward, M. Hicks, O. Katolyk, J. Kobarda, P. Kokkoros, G. Kotsifas, L. Livingstone, D. O’Brien, L. Palarchio, J. Ramsay, M. Ribera, C. Saunders, J. Senese, J. Stanford, B. Westlake-Power
 
-# 2.&nbsp;&nbsp;&nbsp;CORPORATE OPERATING
   BUDGET
 (Secretary’s Note:  All amounts are rounded
   to the nearest $1,000)
@@ -1023,7 +1022,6 @@ Motion Failed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;CORPORATE
     CAPITAL BUDGET
 
 Recommendation:  That the attached

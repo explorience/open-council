@@ -12,9 +12,7 @@ October 26, 2016, at  4:03 PM
 > [!abstract]- Also Present:
 > M. Brown, J. Helmer, T. Park, P. Squire; Sgt. P. Burke (LPS), C. DeForest, A. Drost, T. Gaffney, O. Katolyk, G. Kotsifas, M. Kryworuk, H. Lysynski, D. Popadic, M. Ribera, J. Smout
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
-# 2.&nbsp;&nbsp;&nbsp;Vehicle for Hire
   By-law
 

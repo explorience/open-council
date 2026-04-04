@@ -17,11 +17,9 @@ May 20, 2025, at  1:00 PM
 
 The meeting was called to order at 1:01 PM.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by P. Cuddy
 
@@ -104,11 +102,9 @@ That, on the recommendation of the Deputy City Manager, Neighbourhood and Commun
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Whole of Community System Response Overview
 
@@ -270,11 +266,9 @@ That the delegation request from D. Astolfi, as appended to the added agenda, BE
 
 It being noted that the staff report, dated May 20, 2025, with respect to the 2023-2024 Long-Term Care Home Service Accountability Agreement between The Corporation of the City of London (Dearness Home) and Ontario Health - Declaration of Compliance 2024, was withdrawn from the agenda by the Civic Administration.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by S. Trosow
 

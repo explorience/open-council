@@ -15,13 +15,11 @@ September 22, 2014, at  4:05 PM
 > [!abstract]- Also Present:
 > J. Braam, K. Chambers, C. Colvin, A. Dunbar, G. Gauld, J. Lucas, D. MacRae, R. Pedlow, L. Rowe, E. Soldo, S. Spring, J. Stanford
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;7th Report of the
   Transportation Advisory Committee
 
 Recommendation:  That the 7th Report of the
@@ -43,7 +41,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Appointment of
   Consulting Engineer for the Detailed Design of Wickerson No. S-B SWM Facility
 
 Recommendation:  That, on the
@@ -89,7 +86,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;UV Disinfection
   Equipment Parts and Service Single Source
 
 Recommendation:  That, on the
@@ -112,7 +108,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Active Transportation
   (AT) and Transportation Demand Management (TDM) - Status Report and the Next
   Steps
 
@@ -145,7 +140,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Short Term Cycling
   Lane Implementation Plan
 
 Recommendation:  That, on the recommendation
@@ -153,7 +147,6 @@ Recommendation:  That, on the recommendation
   22, 2014, with respect to the Short Term Cycling Lane Implementation Plan BE
   RECEIVED.  (2014-T05)
 
-# 7.&nbsp;&nbsp;&nbsp;Optimization of
   London Wastewater Treatment Plants – A Strategy and Road Map
 
 Recommendation:  That, on the
@@ -180,7 +173,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;3rd Report of the
   Cycling Advisory Committee
 
 Recommendation:  That the following actions
@@ -209,7 +201,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Update on Rainfall
   Event on September 10, 2014
 
 Recommendation:  That, on the

@@ -17,7 +17,6 @@ December 17, 2024, at  1:00 PM
 
 The meeting is called to order at 1:04 PM; it being noted that Councillors P. Van Meerbergen, E. Peloza (4:48 PM) and S. Hillier were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED Councillor S. Stevenson discloses a pecuniary interest in item 6.1, Communications and Petitions, having to do with the Integrity Commissioner's Recommendation Report Regarding Councillor S. Stevenson by indicating that the recommendation consists of a suspension in pay.
 
@@ -25,15 +24,12 @@ That it BE NOTED Councillor E. Peloza discloses a pecuniary interest in item 17,
 
 That it BE NOTED Councillor J. Pribil discloses a pecuniary interest in item 4, clause 2.1 of the 1st Report of the Strategic Priorities and Policy Committee having to do with Film London - LEDC Purchase of Service Agreement Amendment by indicating that his son is contemplating seeking project support from Film London.
 
-# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
 
 > Motion made by A. Hopkins
 
@@ -84,7 +80,6 @@ That Council convenes In Closed Session from 1:12 PM to 1:19 PM.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
 > Motion made by S. Franke
 
@@ -118,7 +113,6 @@ At 1:25 PM, Deputy Mayor enters the meeting.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 > Motion made by E. Peloza
 
@@ -310,11 +304,9 @@ it being noted that the communications as appended to the Added Agenda, from Cou
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 None.
 
-# 8.&nbsp;&nbsp;&nbsp;Reports
 
 ## 8.1&nbsp;&nbsp;&nbsp;1st Report of the Planning and Environment Committee
 
@@ -2332,7 +2324,6 @@ it being pointed out that the following individuals made a verbal presentation a
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 ## 9.1&nbsp;&nbsp;&nbsp;1st Report of Council In Closed Session
 
@@ -2377,19 +2368,15 @@ That progress was made with respect to item 4.3 as noted on the public agenda, (
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-# 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 None.
 
-# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 
 None.
 
-# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 > Motion made by P. Cuddy
 
@@ -3031,7 +3018,6 @@ That Third Reading and Enactment of Bill No. 42 BE APPROVED.
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by S. Lewis
 
@@ -3045,7 +3031,6 @@ The meeting adjourned at 5:39 PM.
 
 ****
 
-# Appendix: New Bills
 
 > [!abstract]- The following Bills are enacted as By-laws of The Corporation of the City of London:
 > **Bill No. 1**

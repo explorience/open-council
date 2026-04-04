@@ -18,7 +18,6 @@ June 23, 2016, at  4:02 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:02 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 Councillor P. Hubert discloses a pecuniary
@@ -62,15 +61,12 @@ Councillor M. Salih discloses a pecuniary
   Area Secondary Plans, by indicating that an affected property is owned by the
   Department of National Defence, which is his employer.
 
-# II.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;2015 Financial
   Audit
 
 That the following actions be taken with
@@ -89,17 +85,14 @@ it being noted that the Audit Committee
   received the attached presentation from the Director, Financial Services
   and a verbal presentation from KPMG with respect to these matters.
 
-# 3.&nbsp;&nbsp;&nbsp;London Downtown
   Closed Circuit Television Program - Report on Specified Auditing Procedures
 
 That the KPMG Report on Specified Auditing
   Procedures for the London Downtown Closed Circuit Television Program, dated
   March 31, 2016, BE RECEIVED.
 
-# III.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# IV.&nbsp;&nbsp;&nbsp;COUNCIL, IN
   CLOSED SESSION
 
 MOTION FOR IN CAMERA SESSION
@@ -180,7 +173,6 @@ The Council rises and goes into Council, in
   closed session, at 4:18 PM, with Mayor M. Brown in the Chair and all Members
   present except Councillors M. Cassidy and J. Zaifman.
 
-# V.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE FOURTEENTH MEETING HELD ON JUNE 14, 2016
 
 > Moved by Councillor J. Helmer
@@ -215,9 +207,7 @@ Motion Passed
 
 ****
 
-# VI.&nbsp;&nbsp;&nbsp;COMMUNICATIONS AND PETITIONS (continued)
 
-# 4.&nbsp;&nbsp;&nbsp;Consultant Contract
   Award and Payment Reporting Processes
 
 That the following actions be taken with
@@ -233,7 +223,6 @@ b)         the
   recommendations and related action plans, as noted in the above-noted
   communication.
 
-# VII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
 > Moved by Councillor P. Hubert
@@ -266,9 +255,7 @@ Motion Failed
 
 ****
 
-# VIII.&nbsp;&nbsp;&nbsp;REPORTS
 
-# IX.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
 > Moved by Councillor J. Morgan
@@ -277,7 +264,6 @@ Approve clauses 1 to 8, excluding clause 6.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;(ADDED) G.F.
   Stewart, Integrity Commissioner, City of London - Report to City Council -
   Code of Conduct: Mayor Matt Brown and Deputy Mayor Maureen Cassidy
 
@@ -332,7 +318,6 @@ Motion Passed
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Amendment to the
   Fireworks By-law (Relates to hill No. 245)
 
 That, on the recommendation of the Fire
@@ -341,7 +326,6 @@ That, on the recommendation of the Fire
   report dated June 21, 2016 BE INTRODUCED at the Municipal Council meeting to
   be held on June 23, 2016, to amend the Fireworks By-law (PW-11).  (2016-C01A)
 
-# 8.&nbsp;&nbsp;&nbsp;Purchase of Service
   Agreement - Addiction Services of Thames Valley to Deliver Addiction Services
   (Relates to Bill No. 236)
 
@@ -362,7 +346,6 @@ c)         delegate
   designate, the authority to act as the City’s representative with respect to
   the Agreement.  (2016-F17)
 
-# 6.&nbsp;&nbsp;&nbsp;Request for Inquiry
   by the Integrity Commissioner
 
 That the communication dated June 16, 2016,
@@ -391,7 +374,6 @@ Motion Passed
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Amendment to
   Purchase of Service Agreement - Ontario Works Employment Assistance Services 
   (Relates to Bill No. 237)
 
@@ -407,7 +389,6 @@ a)         approve
 b)         authorize
   the Mayor and the City Clerk to execute the amending Agreement. (2016-S04)
 
-# 10.&nbsp;&nbsp;&nbsp;Amendment to PH-7
   Dogs Off Leash Area By-Law (Relates to Bill No. 244)
 
 That, on the recommendation of the Managing
@@ -416,7 +397,6 @@ That, on the recommendation of the Managing
   be held on June 23, 2016, to repeal and replace Schedule “A” of By-law No.
   PH-7 entitled, “Dogs Off-Leash Areas By-law”.  (2016-R04)
 
-# 11.&nbsp;&nbsp;&nbsp;Extension of Hours
   for Amplified Sound at Country Music Week (Relates to bill No. 238)
 
 That, on the recommendation of the Managing
@@ -442,7 +422,6 @@ it being pointed out that at the public
   in the attached public participation meeting record made oral
   submissions in connection herewith.  (2016-M02)
 
-# 12.&nbsp;&nbsp;&nbsp;3rd Report of the
   Community Safety and Crime Prevention Advisory Committee
 
 That the following actions be taken with
@@ -484,7 +463,6 @@ d)         the
 e)         clauses
   1, 2, 5 and 8 to 11, BE RECEIVED.
 
-# 13.&nbsp;&nbsp;&nbsp;5th Report of the
   Accessibility Advisory Committee
 
 That the following actions be taken with
@@ -537,7 +515,6 @@ it being noted that the Accessibility
 d)         clauses 1, 2, 4 to 8, 10 to 12
   and 14 and 15, BE RECEIVED.
 
-# 14.&nbsp;&nbsp;&nbsp;7th Report of the
   Animal Welfare Advisory Committee
 
 That the following actions be taken with
@@ -574,7 +551,6 @@ d)         the
 e)         clauses
   1 and 3 to 10, BE RECEIVED.
 
-# 15.&nbsp;&nbsp;&nbsp;6th Report of the
   London Housing Advisory Committee
 
 That the following actions be taken with
@@ -606,7 +582,6 @@ c)         the
 d)         clauses
   1 and 3 to 7, BE RECEIVED.
 
-# 16.&nbsp;&nbsp;&nbsp;Existing
   Vehicles-for-Hire Industry
 
 That, on the recommendation of the Managing
@@ -733,7 +708,6 @@ Motion Passed
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;Business Licensing
   By-law - New Categories and Proposed Regulations
 
 That the following actions be taken with
@@ -819,13 +793,11 @@ Approve clauses 1 to 5.
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the June 2016 Deferred Matters List
   for the Community and Protective Services Committee BE RECEIVED.
 
-# 20.&nbsp;&nbsp;&nbsp;Properties located
   at 1057, 1059 and 1061 Richmond Street (SP15-030856)
 
 That, on the recommendation of the Manager,
@@ -854,7 +826,6 @@ it being pointed out that at the public
   on the attached public participation meeting record made oral
   submissions regarding this matter. (SPA16-001)
 
-# 22.&nbsp;&nbsp;&nbsp;Property located at
   4680 Wellington Road South (Z-8603) (Relates to Bill No. 251)
 
 That,  based on the recommendation of the
@@ -871,7 +842,6 @@ it being pointed out that no individuals
   spoke at the public participation meeting associated with this matter.
   (2016-D09)
 
-# 23.&nbsp;&nbsp;&nbsp;Property located at
   5221 Cook Road
 
 That, on the recommendation of the Managing
@@ -894,7 +864,6 @@ it being pointed out that no individuals
   spoke at the public participation meeting associated with this matter.
   (2016-P10D/R01)
 
-# 25.&nbsp;&nbsp;&nbsp;Property located at
   1691 Hamilton Road - Application for Approval of Draft Plan of Subdivision,
   Official Plan and Zoning By-law Amendments (39T-13502/OZ-8147) (Relates to
   Bill No. 239 and Bill No. 253)
@@ -983,7 +952,6 @@ it
   this matter, the individual indicated on the attached public
   participation meeting record made an oral submission regarding this matter.  (2016-D09/D12)
 
-# 26.&nbsp;&nbsp;&nbsp;Properties located
   at 175, 179 and 181 King Street
 
 That, on recommendation of the Managing
@@ -1013,7 +981,6 @@ it being pointed out that at the public
   on the attached public participation meeting record made oral
   submissions regarding this matter.  (2016-P10D)
 
-# 27.&nbsp;&nbsp;&nbsp;Properties located
   at 1179 and 1185 Riverside Drive (39CD-16503/Z-8594) (Relates to Bill No.
   254)
 
@@ -1117,7 +1084,6 @@ it being
   matter, the individuals indicated on the attached public
   participation meeting record made oral submissions regarding this matter.  (2016-D09/D07)
 
-# 28.&nbsp;&nbsp;&nbsp;Properties located
   at 704 and 706 Boler Road (39T-15503/Z-8505)
 
 That,
@@ -1232,7 +1198,6 @@ it
   this matter, the individuals indicated on the attached public
   participation meeting record made oral submissions regarding this matter.  (2016-D09/L01)
 
-# 29.&nbsp;&nbsp;&nbsp;Properties located
   at 240 Waterloo Street and 358 Horton Street East (OZ-8598) (Relates to Bill
   No. 240 and Bill No. 255)
 
@@ -1301,7 +1266,6 @@ it being pointed
   individual indicated on the attached public participation
   meeting record made an oral submission regarding this matter.  (2016-D09)
 
-# 30.&nbsp;&nbsp;&nbsp;Beaufort/Irwin/Gunn/Saunby
   (BIGS) Neighbourhood Secondary Plan (O-8478)
 
 The Beaufort/Irwin/Gunn/Saunby
@@ -1321,12 +1285,10 @@ it being pointed out that at the public
   on the attached public participation meeting record made oral
   submissions regarding this matter.  (2016-D09)
 
-# 31.&nbsp;&nbsp;&nbsp;PEC Deferred List
 
 The Planning and Environment Committee
   reviewed and received the PEC Deferred List as of March 22, 2016.
 
-# 19.&nbsp;&nbsp;&nbsp;Syrian Refugee
   Initiatives
 
 That it BE NOTED that the Community and
@@ -1334,7 +1296,6 @@ That it BE NOTED that the Community and
   Director of Housing, Social Services and Dearness Home, with respect to
   Syrian Refugee Initiatives.
 
-# 21.&nbsp;&nbsp;&nbsp;Blackfriars/Petersville
   Area (Z-8602) (Relates to Bill No. 250)
 
 That, on the recommendation of the Managing
@@ -1383,7 +1344,6 @@ Motion Passed
 
 ****
 
-# 24.&nbsp;&nbsp;&nbsp;Property located at
   455 Clarence Street (Z-8560) (Relates to Bill No. 252)
 
 That, on the recommendation of the Managing
@@ -1534,12 +1494,9 @@ Approve clauses 1 to 19, excluding clauses 16 and 17.
 
 ****
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
 > Moved by Councillor P. Squire
@@ -1761,7 +1718,6 @@ Motion Passed
 
 ****
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -1862,7 +1818,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

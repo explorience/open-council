@@ -17,21 +17,17 @@ February 29, 2024, at  1:30 PM
 
 The meeting is called to order at 1:33 PM; it being noted that Councillors S. Lehman, P. Van Meerbergen and S. Hillier were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
 At 1:37 PM, Councillor C. Rahman enters the meeting.
 
-# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
 
 > Motion made by S. Stevenson
 
@@ -110,11 +106,9 @@ That Council convenes In Closed Session, from 2:18 PM to 2:47 PM.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 > Motion made by S. Stevenson
 
@@ -175,7 +169,6 @@ That, pursuant to section 6.4 of the Council Procedure By-law, a change in order
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 ## 7.1&nbsp;&nbsp;&nbsp;Councillor A. Hopkins - Amendment - Business Cases: #P-L8, #P-L9, #P-28, #P-29, #P-57
 
@@ -233,7 +226,6 @@ That the correspondence dated February 21, 2024 from Councillor A. Hopkins with 
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 
 ## 12.1&nbsp;&nbsp;&nbsp;(ADDED) Councillor S. Trosow - Amendment - Business Case #P-8
 
@@ -290,7 +282,6 @@ That the correspondence dated February 22, 2024 from Councillor S. Trosow with r
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Reports
 
 ## 8.1&nbsp;&nbsp;&nbsp;1st Report of the Budget Committee
 
@@ -1950,23 +1941,19 @@ it being noted that at the public participation meeting associated with this mat
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 ## 9.1&nbsp;&nbsp;&nbsp;4th Report of Council in Closed Session
 
 That it BE NOTED that Councillor C. Rahman presented the 4th Report of the Council in Closed Session, by noting progress was made with respect to the three items noted on the Agenda and one additional item as noted in the Minutes.
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-# 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 Councillor E. Peloza enquired with respect to the timing of the Mayoral Decision for the Mayor to veto an amendment passed by Council to the Mayor’s proposed budget.  His Worship Mayor J. Morgan provides information to the Council with respect to this matter.
 
 Councillor S. Trosow enquired with respect to the property tax deferment program.  The Deputy City Manager, Finance Supports provides information to the Council with respect to this matter.
 
-# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 > Motion made by E. Peloza
 
@@ -2050,7 +2037,6 @@ That Third Reading and Enactment of Bill No. 73, BE APPROVED.
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by S. Stevenson
 

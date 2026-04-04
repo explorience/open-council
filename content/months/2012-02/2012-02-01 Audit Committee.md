@@ -12,15 +12,11 @@ February 1, 2012, at  3:02 PM
 > [!abstract]- Also Present:
 > J. Braam, R.L. Fair, J. Brown, M. Bushby, C. Clendenning (PwC), K. denBok (KPMG), D. Fawcett, B. Galloway, S. Gilfillan (PwC), S. Houde, I. Jeffries (KPMG), J. Keen, M.J. Mastandrea (PwC), C. Shah (PwC), J. Stanford, L. Stevens, S. Swance, M. Turner
 
-# 1.&nbsp;&nbsp;&nbsp;No pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;1st Report of the
   Audit Committee
 
-# 3.&nbsp;&nbsp;&nbsp;PricewaterhouseCoopers,
   Internal Auditors - Quarterly Report on Internal  Audit Results
 
-# 4.&nbsp;&nbsp;&nbsp;KPMG LLP - Audit
   Planning Report for the year ending December 31, 2011
 

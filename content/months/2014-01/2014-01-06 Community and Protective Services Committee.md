@@ -15,13 +15,11 @@ January 6, 2014, at  7:05 PM
 > [!abstract]- Also Present:
 > B. Baar, A. Barbon, B. Coxhead, S. Datars Bere, L. Livingstone, D. Mounteer, J. Richardson, M. Ribera, P. Sauro, B. Warner
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;1st Report of the
   London Housing Advisory Committee
 
 Recommendation:  That the 1st Report of the
@@ -43,7 +41,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Ontario Medal for
   Young Volunteers
 
 Recommendation:  That the communication
@@ -67,7 +64,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;4th Report of the
   Town and Gown Committee
 
 Recommendation:  That the following actions
@@ -385,7 +381,6 @@ it
 b)         clause 2 of the 4th
   report of the Town and Gown Committee BE RECEIVED.
 
-# 5.&nbsp;&nbsp;&nbsp;Request for
   Delegation Status - S. Milos, Executive Director, London Housing Registry -
   30 Year Anniversary of the London Housing Registry
 
@@ -410,7 +405,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;2014 - 2017
   Community Accountability Planning Submission (CAPS)  for the Dearness Home -
   Adult Day Program
 
@@ -423,7 +417,6 @@ Recommendation:  That, on the
   requirement of the LHIN that the Planning Submission be approved by the Board
   of Directors (City Council).  (2013-S02)
 
-# 7.&nbsp;&nbsp;&nbsp;Contract Award RFP
   13-48 London CAReS
 
 Recommendation:  That, on the
@@ -458,7 +451,6 @@ c)         the
             -           Unity
   Project for the Relief of Homelessness in London in the amount of $246,002.  (2013-L04)
 
-# 8.&nbsp;&nbsp;&nbsp;(ADDED) Additional Discussion – Capital
   Recreation Facility Projects and Severe Weather Activities
 
 Recommendation:  (Added)   That

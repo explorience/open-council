@@ -15,7 +15,6 @@ June 1, 2015, at  5:00 PM
 > [!abstract]- Also Present:
 > M. van Holst, V. Ridley, G. Barrett, M. Elmadhoon, J.M. Fleming, S. Galloway, T. Grawey, P. Kokkoros, G. Kotsifas, A. MacLean, A. Macpherson, J. Ramsay, E. Soldo, M. Tomazincic, B. Westlake-Power, J. Yanchula
 
-# 3.&nbsp;&nbsp;&nbsp;Back to the River -
   Single Source Approval Request
 
 That the matter of the Back to the River
@@ -26,7 +25,6 @@ That the matter of the Back to the River
   and report back to a future meeting of the Planning and Environment
   Committee.
 
-# 4.&nbsp;&nbsp;&nbsp;Properties located
   at 1080 Westdel Bourne; the north side of Oxford Street West, east of Westdel
   Bourne and west of the future extension of Riverbend Road (H-8472)
 
@@ -41,14 +39,12 @@ That, on the recommendation of the Senior
   Community Shopping Area  (h-h-25-CSA5) Zone TO a Community Shopping Area
   (CSA5) Zone to remove the holding (h) and (h-25) provisions.
 
-# 5.&nbsp;&nbsp;&nbsp;Bill 73 Amendments to the Planning Act
 
 That, on the recommendation of the Managing
   Director, Planning and City Planner, the report dated June 1, 2015 with
   respect to Bill 73, amendments to the Planning Act, BE RECEIVED for
   information.
 
-# 6.&nbsp;&nbsp;&nbsp;Victoria on the
   River Subdivision - Phase 1 - 2346, 2350 and 2354 Leeds Crossing (formerly
   1603 Hamilton Road) (H-8403)
 
@@ -63,14 +59,12 @@ That, on the recommendation of the Senior
   Residential R1 (h-h100-R1-4) Zone TO a holding Residential R1 (h-100-R1-4)
   Zone to remove the holding (h) provision.
 
-# 7.&nbsp;&nbsp;&nbsp;Building Division
   Monthly Report for April 2015
 
 That, on the recommendation of the Managing
   Director, Development & Compliance Services and Chief Building Official,
   the monthly report for April 2015, BE RECEIVED for information.
 
-# 8.&nbsp;&nbsp;&nbsp;Local Renewable
   Electricity Generation Projects Seeking Ontario Feed-in Tariff Contracts
 
 That, on the recommendation of the Manager
@@ -112,7 +106,6 @@ c)         for
   “D” to the staff report dated June 1, 2015 BE APPROVED for exemptions that
   have been endorsed by Municipal Council.
 
-# 9.&nbsp;&nbsp;&nbsp;7th Report of the
   London Advisory Committee on Heritage
 
 That the following actions be taken with
@@ -173,7 +166,6 @@ it being noted that the Planning and
   Environment Committee heard a verbal presentation from W. Kinghorn, Chair,
   LACH, with respect to these matters.
 
-# 10.&nbsp;&nbsp;&nbsp;Properties located
   at 460-500 Berkshire Drive (Z-8467)
 
 That, on the recommendation of the Managing
@@ -192,7 +184,6 @@ it being pointed out that at the public
   the attached public participation meeting record made an oral
   submission in connection therewith.
 
-# 11.&nbsp;&nbsp;&nbsp;Review of
   Greenhouse Regulations (Z-8458)
 
 That, on the recommendation of the Managing
@@ -242,7 +233,6 @@ it being further noted that the Planning
   and Environment Committee received a presentation from the Manager, Long
   Range Planning and Research regarding this matter.
 
-# 12.&nbsp;&nbsp;&nbsp;Properties located
   at 895 and 905 Sarnia Road south portion (39CD-15502/Z-8445)
 
 That, on the recommendation of the Senior
@@ -304,7 +294,6 @@ it being pointed out that at the public
   on the attached public participation meeting record made an oral
   submission in connection therewith.
 
-# 13.&nbsp;&nbsp;&nbsp;Property located at
   104 Commissioners Road East - Request for Demolition
 
 That, on the recommendation of the Managing
@@ -327,7 +316,6 @@ it being pointed out that at the public
   on the attached public participation meeting record made an oral
   submission in connection therein.
 
-# 14.&nbsp;&nbsp;&nbsp;Properties located
   at 462-472 Springbank Drive (OZ-8459)
 
 That, on the recommendation of the Managing
@@ -379,7 +367,6 @@ it being pointed out that at the public
   on the attached public participation meeting record made an oral
   submission in connection therewith.
 
-# 15.&nbsp;&nbsp;&nbsp;Downtown Office Guidelines
 
 That Civic Administration BE DIRECTED to
   review the City’s office policies, to ensure that the intent of those

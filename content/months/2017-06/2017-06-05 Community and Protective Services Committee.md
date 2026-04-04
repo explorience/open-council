@@ -12,13 +12,11 @@ June 5, 2017, at  4:00 PM
 > [!abstract]- Also Present:
 > J. Helmer, T. Park, M. van Holst; J. Browne (LMHC), L. Cornish, B. Coxhead, C. Crossman, K. Darling, S. Datars Bere, S. Guistizia (HDC), O. Katolyk, G. Kotsifas, L. Livingstone, J. Pare, C. Parker, D. Purdy, M. Ribera, J. Richardson, B. Westlake-Power
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Safer Communities - 1000 Officers Partnership Program
 
 That, on the recommendation of the Chief of
@@ -53,7 +51,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Community Policing Partnership Program
 
 That, on the recommendation of the Chief of
@@ -89,7 +86,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Homeless Prevention
   and Housing Orientation
 
 That the Mayor BE REQUESTED to:
@@ -126,7 +122,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Noise By-law Amendment
   - Temporary Noise Permits - Outdoor Patios
 
 That the following actions be taken with
@@ -217,7 +212,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;6th Report of the
   Diversity, Inclusion and Anti-oppression Advisory Committee
 
 That the following actions be taken with
@@ -261,7 +255,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Deferred Matters List
 
 That June 2017 Deferred Matters List for
   the Community and Protective Services Committee (CPSC) BE RECEIVED; it being
@@ -285,7 +278,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;(ADDED) 5th Report
   of the Accessibility Advisory Committee
 
 That the following actions be taken with

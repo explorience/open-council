@@ -15,10 +15,8 @@ May 22, 2012, at  3:02 PM
 > [!abstract]- Also Present:
 > J.P. Barber, A. Dunbar, G. Gauld, J. Stanford, M. Turner, R. Welker
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Greenway Pollution
   Control Centre Dewatering (Project ES2095) (Tender 12-46)
 
 Recommendation:  That, on the
@@ -61,7 +59,6 @@ it
   being noted that the Civic Works Committee received a verbal update from D.
   Evans, R.V. Anderson Associates Limited, with respect to this matter.
 
-# 3.&nbsp;&nbsp;&nbsp;Consultant
   Appointment - Greenway Wastewater Treatment Plant Expansion (Project ES2685)
 
 Recommendation: 

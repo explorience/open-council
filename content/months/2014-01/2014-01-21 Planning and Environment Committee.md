@@ -12,13 +12,11 @@ January 21, 2014, at  4:00 PM
 > [!abstract]- Also Present:
 > W.J. Armstrong, D. Brown, M. Brown, J.P. Barber, M. Corby, M. Davis, M. Elmadhoon, J.M. Fleming, T. Grawey, N. Hall, B. Henry, P. Kokkoros, G. Kotsifas, B. Krichker, I. Listar, D. Menard, N. Musicco, M. Ribera, C. Saunders, M. Tomazincic, A.B. Watson, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that Councillor S. White
   disclosed a pecuniary interest in part c) of clause 12 of the 1st Report of
   the London Advisory Committee on Heritage, having to do with the application
   by The Tricar Group, relating to the property located at 1030 Coronation
   Drive, by indicating that she owns property in the area.
 
-# 2.&nbsp;&nbsp;&nbsp;1st Report of the
   Environmental and Ecological Planning Advisory Committee
 
 Recommendation:      That the 1st Report of
@@ -41,7 +39,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Million Tree
   Challenge Status Update
 
 Recommendation:      That the following
@@ -74,7 +71,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Properties located
   at 1776-1896 Sumac Way (HZ-7745)
 
 Recommendation:      That, on the
@@ -103,7 +99,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Building Division
   Monthly Report for November 2013
 
 Recommendation:      That the Building
@@ -125,7 +120,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;1st and 2nd Reports
   of the London Advisory Committee on Heritage
 
 Recommendation:      That, the following
@@ -236,7 +230,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Property located at
   1221 Dundas Street (Z-8277)
 
 Recommendation:      That, on the
@@ -312,7 +305,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Property located at
   797 York Street (Z-8208)
 
 Recommendation:      That, on
@@ -393,7 +385,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Property located at
   193 Clarke Road (Z-8143)
 
 Recommendation:      That, on the recommendation
@@ -599,7 +590,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Property located at
   122 Wortley Road (Z-8183)
 
 Recommendation:      That, on the
@@ -867,7 +857,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Properties located
   at 1607, 1609, 1611, 1615, 1619, 1623, 1627, 1631, 1635, 1639, 1643, 1649 and
   1653 Richmond Street (OZ-7965)
 
@@ -1231,7 +1220,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;1st and 2nd Reports
   of the Advisory Committee on the Environment
 
 Recommendation:      That, the following
@@ -1269,7 +1257,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;1st Report of the
   Agricultural Advisory Committee
 
 Recommendation:      That, the following
@@ -1309,7 +1296,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Trees on Private
   Property
 
 Recommendation:      That the
@@ -1335,7 +1321,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Infill
 
 Recommendation:      That, the following
   actions be taken with respect to Civic Administration’s procedures relating

@@ -22,7 +22,6 @@ December 5, 2023, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Call to Order
 
 ## 1.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
@@ -32,7 +31,6 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 That it BE NOTED that Councillor D. Ferreira was appointed as Vice Chair to the Community and Protective Services Committee by Mayoral Decision 2023-008.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by D. Ferreira
 
@@ -113,15 +111,12 @@ That it BE NOTED that item 2.3, entitled Winter Response Contract Between The Co
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) Councillor S. Trosow – Amendment to the Streets By-law (S-1) to Regulate the Display of Graphic Images on the Streets in the City of London
 
@@ -167,7 +162,6 @@ That pursuant to section 31.6 of the Council Procedure By-law, Councillor S. Tro
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 4:37 PM.
 ---

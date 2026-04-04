@@ -15,13 +15,11 @@ February 12, 2018, at  4:02 PM
 > [!abstract]- Also Present:
 > A.L. Barbon, B. Card, B. Coxhead, S. Datars Bere, A. Dunbar, K. Edwards, J.M. Fleming, G. Kotsifas, L. Livingstone, J. Millson, K. Murray, M. Ribera, C. Saunders, K. Scherr, J. Senese, S. Stafford, J. Stanford, B. Westlake-Power, R. Wilcox, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;STAFF REPORT - 2018
   Assessment Growth Funding Allocation
 
 That, on the recommendation of the Managing
@@ -51,7 +49,6 @@ Motion Passed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Strategic Plan Progress Variance
 
 That, on the recommendation of the City
@@ -83,7 +80,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT - 2019
   Development Charges (DC) Study - Growth Projections
 
 That, on the recommendation of the Managing
@@ -130,7 +126,6 @@ Motion Passed
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;STAFF REPORT - 2019
   Development Charges Background Study: Interim Financing for Growth
   Infrastructure Projects
 

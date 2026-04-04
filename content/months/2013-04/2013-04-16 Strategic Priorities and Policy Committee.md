@@ -15,14 +15,12 @@ April 16, 2013, at  3:10 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, V. McAlea Major, C. Saunders, R. Sharpe, B. Westlake-Power
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Recommendation:  That it BE NOTED that Councillor
   M. Brown disclosed a pecuniary interest in clause 3 of this Report having to
   do with an Accommodation Review Committee for the Thames Valley District
   School Board (TVDSB) by indicating that he is employed by the TVDSB.
 
-# 2.&nbsp;&nbsp;&nbsp;City Manager -
   Council Compensation Review Task Force - Terms of Reference
 
 Recommendation:  That, on the
@@ -57,7 +55,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;J. Bennett, Chair,
   Board of Trustees, Thames Valley District School Board - Consideration of
   Councillor Appointment to the Accommodation Review Committee (ARC) for
   Aberdeen Public School, Ealing Public School and Trafalgar Public School
@@ -90,7 +87,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;City of London and
   London District Catholic School Board Liaison Committee
 
 Recommendation:  That the following
@@ -131,7 +127,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;P. C. Johnson,
   Chair, London Hydro Inc. (LHI) - Request for Delegation Status at the
   May 13, 2013 Strategic Priorities and Policy Committee Meeting re LHI
   Annual General Meeting
@@ -182,7 +177,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;S. Matthew, Interim
   Executive Director, London & Middlesex Housing Corporation (LMHC) -
   Request for Delegation Status at the May 13, 2013 Strategic Priorities and
   Policy Committee re LMHC Annual General Meeting

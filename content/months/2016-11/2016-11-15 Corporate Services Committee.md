@@ -12,7 +12,6 @@ November 15, 2016, at 12:00 PM
 > [!abstract]- Also Present:
 > A. Zuidema, R. Armistead, A.L. Barbon, K. Graham, M. Hayward, V. McAlea Major, D. Mounteer, C. Saunders, K. Scherr, J. Smout, S. Spring, A. Thompson, B. Warner, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that Councillor J. Morgan
@@ -22,7 +21,6 @@ That it BE NOTED that Councillor J. Morgan
   indicating that he is an employee of Western University, which has an
   interest in both of these matters.
 
-# 2.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Offer to Purchase Industrial Lands - PTN Holdings Limited - Part of Lot 4 -
   Trafalgar Industrial Park, Phase lll
 
@@ -70,7 +68,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Signing Authority By-law
 
 That, on the recommendation of the
@@ -100,7 +97,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Subordination Agreement Request: Libro Credit Union and London Community
   Players
 
@@ -156,7 +152,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;STAFF REPORT - City
   of London 2017 Federal Budget Submission – City Building is Nation Building
 
 That, on the recommendation of the
@@ -189,7 +184,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;STAFF REPORT - Expropriation
   of Land - Western Road Widening and Improvement Project TS 1489-1
 
 That, on the recommendation of the Managing
@@ -238,7 +232,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Proposed Amendments to Council Procedure By-law -
   Acting Mayor and Council Policy 5(1) Appointment of Deputy Mayors
 
@@ -325,7 +318,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;DELEGATION - Canada
   150 London Celebration
 
 That the following actions be taken with
@@ -390,7 +382,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;COUNCIL MEMBER
   SUBMISSION - Bill 46 - Municipal Statute Law Amendment Act (Councillor
   Pregnancy and Parental Leave) 2016
 
@@ -417,7 +408,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;ADDED – Community Investment Reserve Fund
 
 That the Civic Administration BE DIRECTED
   to solicit input from Council Members and report back to the Corporate

@@ -12,7 +12,6 @@ April 14, 2014, at  3:00 PM
 > [!abstract]- Also Present:
 > S. Orser, A. Zuidema, B. Baar, J.M. Fleming, M. Hayward, L. Livingstone, D. Mounteer, K. Owen, R. Paynter, B. Warner
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no

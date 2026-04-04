@@ -3,7 +3,6 @@ title: "2026-03-09 - Community and Protective Services Committee"
 date: 2026-03-09
 ---
 
-# 2026-03-09 - Community and Protective Services Committee
 
 > **Note:** Official minutes for this meeting have not yet been published. This page currently shows the meeting transcript only. Once official minutes are available, this page will be updated with full meeting details including agenda items, motions, and votes.
 

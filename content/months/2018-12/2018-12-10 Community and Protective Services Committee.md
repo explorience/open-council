@@ -17,7 +17,6 @@ December 10, 2018, at 12:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Call to Order
 
 ## 1.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
@@ -43,7 +42,6 @@ That Councillor S. Lewis BE ELECTED Vice-Chair of the Community and Protective S
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Lewis
 
@@ -408,7 +406,6 @@ it being noted that the Province of Ontario has established a deadline of Januar
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Administrative Monetary Penalty By-law
 
@@ -581,7 +578,6 @@ That the 10th Report of the Accessibility Advisory Committee, from its meeting h
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;580 Talbot Street - Sign By-law S.-5868-183
 
@@ -605,7 +601,6 @@ That Civic Administration BE DIRECTED not to enforce the Sign By-law with respec
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -629,7 +624,6 @@ That the Deferred Matters List for the Community and Protective Services Committ
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 ## 6.1&nbsp;&nbsp;&nbsp;Personal Matters/Identifiable Individual
 
@@ -651,7 +645,6 @@ The Community and Protective Services Committee convened in camera from 2:22 PM 
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 2:26 PM.
 

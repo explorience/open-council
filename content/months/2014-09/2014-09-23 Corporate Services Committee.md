@@ -12,13 +12,11 @@ September 23, 2014, at  1:00 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, G. Barrett, J. Braam, C. Colvin, A. Dunbar, M. Hayward, M. Henderson, G.T. Hopcroft, G. Kotsifas, V. McAlea Major, J. Stanford, M. Turner, B. Warner
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Proposed Process
   for Land Leases for City-Owned Land in the Vicinity of the W12A Landfill and
   Resource Recovery Area
 
@@ -55,7 +53,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Employee
   Absenteeism 2014 Mid-Year Review Update
 
 Recommendation:  That, on the
@@ -81,7 +78,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Ministerial
   Delegations, AMO Annual General Meeting, Conference and Trade Show 2014
 
 Recommendation:  That, on the
@@ -107,7 +103,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Pre-Budget
   Submission to the Federal Standing Committee on Finance
 
 Recommendation:  That, on the
@@ -133,7 +128,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Consideration of
   Appointments to the Accessibility Advisory Committee
 
 Recommendation:  That the following

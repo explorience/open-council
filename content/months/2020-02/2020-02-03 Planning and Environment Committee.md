@@ -20,13 +20,11 @@ February 3, 2020, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by A. Hopkins
 
@@ -146,7 +144,6 @@ That the Civic Administration BE DIRECTED to include in future Annual Developmen
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;1st Report of the Environmental and Ecological Planning Advisory Committee  
 
@@ -406,7 +403,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Councillor A. Hopkins  - Review of Bill 108 at it relates to Conservation Authorities 
 
@@ -494,13 +490,11 @@ c)  clauses 1.1, 1.2, 2.1, 3.1, and 4.2 BE RECEIVED for information.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential 
 
 > Moved by A. Hopkins
 
@@ -520,7 +514,6 @@ The Planning and Environment Committee convenes, In Closed Session, from 7:25 PM
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 8:01 PM.
 

@@ -17,11 +17,9 @@ September 25, 2018, at 12:30 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Councillor J. Morgan discloses a pecuniary interest in Item 2.1, having to do with the City of London 2019 Provincial and Federal Budget Submissions, specific to those matters related to Bus Rapid Transit, as his employer, Western University, has an interest in the project.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 That Items 2.3, 2.5 and 2.7 BE APPROVED.
 
@@ -341,7 +339,6 @@ b)    the Civic Administration BE AUTHORIZED to exceed Council approved spend
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Tax Adjustment Agenda
 
@@ -403,15 +400,12 @@ Motion to close the meeting to the public for comment.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by P. Hubert
 
@@ -433,7 +427,6 @@ The Corporate Services Committee convened in closed session from 2:07 PM to 2:12
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 2:13 PM.
 

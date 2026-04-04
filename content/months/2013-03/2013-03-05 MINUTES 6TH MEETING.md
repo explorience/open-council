@@ -15,7 +15,6 @@ March 5, 2013, at  4:02 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:02 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 Councillor N. Branscombe discloses a
@@ -64,13 +63,10 @@ Councillor D. Brown discloses a pecuniary
   to do with the rental of general equipment with operators, by indicating that
   her son-in-law is employed by one of the approved companies.
 
-# II.&nbsp;&nbsp;&nbsp;REVIEW
   OF CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
-# IV.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
 MOTION FOR IN CAMERA SESSION
@@ -117,30 +113,20 @@ The Council rises and goes into Committee
 The Committee of the Whole rises and
   Council resumes in regular session at 4:27 PM, with all Members present.
 
-# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE FOURTH MEETING HELD ON FEBRUARY 12, 2013
 
-# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
-# 2.&nbsp;&nbsp;&nbsp;City of London and Thames Valley District
   School Board Liaison Committee
 
-# 3.&nbsp;&nbsp;&nbsp;Re-appointment of Ken Kalopsis to the
   London International Airport Board of Directors
 
-# VIII.&nbsp;&nbsp;&nbsp;MOTIONS
   OF WHICH NOTICE IS GIVEN
 
-# IX.&nbsp;&nbsp;&nbsp;REPORTS
 
-# 4.&nbsp;&nbsp;&nbsp;London Transit Commission
 
-# 5.&nbsp;&nbsp;&nbsp;Sherwood Forest Public School
 
-# 7.&nbsp;&nbsp;&nbsp;Amendments to the
   Traffic and Parking By-law
 
 That, on the recommendation of the Managing
@@ -196,7 +182,6 @@ g)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations. 2013-L04
 
-# 8.&nbsp;&nbsp;&nbsp;Food Truck Proposal
 
 That on the recommendation of the Managing
   Director, Development & Compliance Services and the Chief Building
@@ -205,7 +190,6 @@ That on the recommendation of the Managing
   meeting on amendments to the Business Licensing By-law to implement a pilot
   program of permitting food trucks in the downtown area.
 
-# 9.&nbsp;&nbsp;&nbsp;Appointment of
   Consultant for the Relocation and Construction of Branch 'B' of the Avenue
   Municipal Drain ES 4825-11
 
@@ -240,7 +224,6 @@ e)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations. 2013-A05
 
-# 10.&nbsp;&nbsp;&nbsp;Southwest Area
   Sanitary Servicing Master Plan: Appointment of Consulting Engineer (ES5260)
 
 That, on the recommendation of the Director
@@ -272,7 +255,6 @@ e)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations. 2013-A05
 
-# 11.&nbsp;&nbsp;&nbsp;Appointment of
   Consultant for the Reconstruction of the Bannister Drain-Branch 1 Remediation
   Design ES 4825-11
 
@@ -305,7 +287,6 @@ e)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations. 2013-A05
 
-# 14.&nbsp;&nbsp;&nbsp;Ontario
   Water/Wastewater Agency Response Network
 
 That, on the recommendation of the Managing
@@ -321,7 +302,6 @@ b)         the
   Mayor and the City Clerk BE AUTHORIZED to execute the above-noted agreement.
   2013-E08
 
-# 12.&nbsp;&nbsp;&nbsp;2nd Report of the Transportation
   Advisory Committee
 
 That the following actions be taken with
@@ -347,7 +327,6 @@ b)         clause 2 BE REFERRED to the 2013
 c)         that clauses 3 to 9, inclusive
   BE RECEIVED AND NOTED.
 
-# 13.&nbsp;&nbsp;&nbsp;Railway Row
   Crossing Fee Policy
 
 That, on the recommendation of the Managing
@@ -358,7 +337,6 @@ That, on the recommendation of the Managing
   (excluding HST), respectively, from the 2013 Water and Wastewater Operating
   Budgets. 2013-F11
 
-# 6.&nbsp;&nbsp;&nbsp;Valastro v. The
   Corporation of the City of London - Application to the Ontario Superior Court
   of Justice - Court File No. 8937-12
 
@@ -368,9 +346,7 @@ That, on the recommendation of the City
   to restrain work being done by the Municipality under By-law DR-102-207 BE
   RECEIVED. 2013-L02
 
-# V.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# 15.&nbsp;&nbsp;&nbsp;Railway Pedestrian
   Crossing Safety
 
 That, on the recommendation of the
@@ -387,7 +363,6 @@ b)         the
   Works Committee with respect to the use of locomotive whistles within the City
   of London. 2013-D24
 
-# 16.&nbsp;&nbsp;&nbsp;Rental of General
   Equipment with Operators (Tender 13-06) - Revised
 
 That, the previously-approved bids for the
@@ -398,17 +373,12 @@ That, the previously-approved bids for the
   1G4”; it being noted that the affected parties have been notified of the
   administrative error.
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

@@ -15,13 +15,11 @@ June 25, 2014, at  3:30 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, J. Braam, M. Daly, K. denBok (KPMG), S. Gilfillan (PwC), S. Giustizia, M. Hawyard, I. Jefferies (KPMG), V. McAlea Major, T. McCoomb, K. Paleczny, C. Shah (PwC), J. Stanford, S. Swance, M. Turner
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;2013 Financial
   Audit
 
 Recommendation:  That the following actions
@@ -38,7 +36,6 @@ it being noted that the Audit Committee
   received the attached presentation from the Deputy City Treasurer and
   a verbal presentation from KPMG with respect to these matters.
 
-# 3.&nbsp;&nbsp;&nbsp;Engagement of PwC
   for Election Audit
 
 Recommendation:  That, on the
@@ -46,7 +43,6 @@ Recommendation:  That, on the
   Treasurer, Chief Financial Officer, PwC LLP BE ENGAGED to complete an audit
   of the 2014 Election process at a cost of $7,000 plus expenses and HST.
 
-# 4.&nbsp;&nbsp;&nbsp;RFP 10-24 -
   Internal Audit Services
 
 Recommendation:  That, on the
@@ -74,7 +70,6 @@ d)       
   of Council, a recommended Request for Proposal process for Internal Audit
   Services that would then be forwarded to the next term of Council for consideration.
 
-# 5.&nbsp;&nbsp;&nbsp;PricewaterhouseCoopers
   Audit Services - London Public Library
 
 Recommendation:  That the following actions
@@ -92,7 +87,6 @@ b)  
   money lens and determine the cost to undertake the proposed review, and
   report back thereon.
 
-# 6.&nbsp;&nbsp;&nbsp;Internal Audit
   Engagement - London Police Service
 
 Recommendation:  That the following actions
@@ -107,7 +101,6 @@ b)   
        PricewaterhouseCoopers (PwC) BE DIRECTED to proceed with an internal
   audit of the three areas identified in the letter noted in a) above.
 
-# 7.&nbsp;&nbsp;&nbsp;Quarterly Report on
   Internal Audit Results - Housing, Social Services & Dearness Home:
   Housing Access Centre Process Review and Environmental and Engineering Services:
   Solid Waste-Landfill Process Review

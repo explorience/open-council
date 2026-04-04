@@ -22,11 +22,9 @@ March 29, 2021, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Lehman
 
@@ -311,7 +309,6 @@ That the Building Division Monthly Report for January 2021 BE RECEIVED for infor
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Downtown Community Improvement Plan - Performance Measures and Indicators of Success  (O-9286)
 
@@ -1329,7 +1326,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;3rd Report of the London Advisory Committee on Heritage
 
@@ -1425,11 +1421,9 @@ g)        clauses 1.1, 2.1, 3.1 to 3.3, inclusive, 4.4, 5.2 and 5.5, BE RECE
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 9:49 PM.
 ---

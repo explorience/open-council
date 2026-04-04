@@ -15,24 +15,20 @@ February 25, 2013, at  7:07 PM
 > [!abstract]- Also Present:
 > I. Collins, B. Coxhead, M. Henderson, O. Katolyk, L. Livingstone, A. Macpherson, S. Stafford, E. White
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED
   that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;1st Report of the
   Accessibility Advisory Committee
 
 Recommendation:  That the 1st Report of the
   Accessibility Advisory Committee,  from its meeting held on January 31,
   2013,  BE RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;3rd Report of the
   Animal Welfare Advisory Committee
 
 Recommendation:  That the 3rd Report of the
   Animal Welfare Advisory Committee, from its meeting held on February 7, 2013,
   BE RECEIVED.
 
-# 4.&nbsp;&nbsp;&nbsp;Prohibiting Smoking
   Near Recreation Amenities and Entrances By-law
 
 Recommendation:  That, on the
@@ -42,7 +38,6 @@ Recommendation:  That, on the
   smoking within 9 meters of playgrounds and recreation amenities in Municipal
   parks and entrances to Municipally-owned buildings.
 
-# 5.&nbsp;&nbsp;&nbsp;Community-Led Parks
   Projects, 2012 Update
 
 Recommendation:  That, on the
@@ -50,7 +45,6 @@ Recommendation:  That, on the
   report dated February 25, 2013 with respect to Community-led Parks Projects
   in 2012 BE RECEIVED.
 
-# 6.&nbsp;&nbsp;&nbsp;Noise By-law -
   Temporary Noise Permits 2012
 
 Recommendation:  That on the recommendation
@@ -58,7 +52,6 @@ Recommendation:  That on the recommendation
   Building Official, the report dated February 25, 2013 in compliance with the
   reporting requirements of the Noise By-law, BE RECEIVED.  2013-C01-P11
 
-# 7.&nbsp;&nbsp;&nbsp;Ontario Works
   Caseload Annual Update, 2012
 
 Recommendation:  That, on the
@@ -67,7 +60,6 @@ Recommendation:  That, on the
   dated February 25, 2013 with respect to the annual Ontario Works caseload, BE
   RECEIVED. 2013-S05
 
-# 8.&nbsp;&nbsp;&nbsp;Food Truck Proposal
 
 Recommendation:  That on the Recommendation
   of the Managing Director, Development & Compliance Services and the Chief
@@ -76,7 +68,6 @@ Recommendation:  That on the Recommendation
   Committee meeting on amendments to the Business Licensing By-law to implement
   a pilot program of permitting food trucks in the downtown area.
 
-# 9.&nbsp;&nbsp;&nbsp;Annual Review, 2013
   Special Events Policies and Procedures Manual
 
 Recommendation:  That, on the
@@ -85,7 +76,6 @@ Recommendation:  That, on the
   at the Municipal Council meeting of March 5, 2013 to approve the 2013 Special
   Events Policies and Procedures Manual. 2013-C01/M02
 
-# 10.&nbsp;&nbsp;&nbsp;Purchase of Service
   Agreements - Ontario Works Employment Assistance Services
 
 Recommendation:  That, on the

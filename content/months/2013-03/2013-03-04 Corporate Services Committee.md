@@ -12,7 +12,6 @@ March 4, 2013, at  3:33 PM
 > [!abstract]- Also Present:
 > A. Zuidema, V. McAlea Major
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
 (See Confidential Appendix to the 7th

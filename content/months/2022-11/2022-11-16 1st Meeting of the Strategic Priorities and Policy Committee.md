@@ -17,21 +17,17 @@ November 16, 2022, at  4:00 PM
 
 The meeting is called to order at 4:08 PM; it being noted that Councillor P. Van Meerbergen was in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Mayor J. Morgan discloses a pecuniary interest in Item  4.21, having to do with appointments to the University of Western Ontario (UWO) Board of Governors, by indicating that he is currently employed by UWO, but also noting that he has submitted his resignation from UWO effective December 1, 2022.
 
 Councillor S. Trosow discloses a pecuniary interest in Item  4.21, having to do with appointments to the University of Western Ontario (UWO) Board of Governors, by indicating that he is currently employed by UWO.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Consideration of Appointment to the Civic Works Committee 
 
@@ -2556,11 +2552,9 @@ That the City Clerk BE DIRECTED to bring forward applications to be considered t
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 > Moved by S. Hillier
 
@@ -2574,7 +2568,6 @@ The Strategic Priorities and Policy Committee convenes, in closed session, from 
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by P. Van Meerbergen
 

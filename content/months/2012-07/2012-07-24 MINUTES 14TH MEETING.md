@@ -15,21 +15,15 @@ July 24, 2012, at  5:00 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 5:00 PM on July 24, 2012.
 
-# I.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# 1.&nbsp;&nbsp;&nbsp;Contract – Tim L.
   Dobbie Ltd.
 
-# 2.&nbsp;&nbsp;&nbsp;Queen Elizabeth
   Scholarships
 
-# 3.&nbsp;&nbsp;&nbsp;Update on 2011 Internal Audit of
     Community Services – Housing Division
 
-# II.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
-# III.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE THIRTEENTH MEETING HELD ON JUNE 26 and 27,
   2012
 
@@ -67,10 +61,8 @@ Motion Passed
 
 ****
 
-# IV.&nbsp;&nbsp;&nbsp;REVIEW
   OF CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# V.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
 > Moved by Councillor N. Branscombe
@@ -82,9 +74,7 @@ Approve Consideration with items,
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Brownfield Administration Policy Project
 
-# 5.&nbsp;&nbsp;&nbsp;Engagement of PricewaterhouseCoopers for
     Operational Review
 
 That, on the recommendation of the Deputy
@@ -161,10 +151,8 @@ Motion Passed
 
 ****
 
-# VI.&nbsp;&nbsp;&nbsp;MOTIONS
   OF WHICH NOTICE IS GIVEN
 
-# VII.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
 > Moved by Councillor S. Orser
@@ -328,41 +316,28 @@ Motion Passed
 
 ****
 
-# VIII.&nbsp;&nbsp;&nbsp;REPORTS
 
-# 6.&nbsp;&nbsp;&nbsp;Ontario Municipal Board Decision – 1240
   Richmond Street (Z-7949)
 
-# 7.&nbsp;&nbsp;&nbsp;Notice of Completion of Provincial
   Environmental Assessment for Disposition of the London Psychiatric Hospital
   Lands (O-7668)
 
-# 8.&nbsp;&nbsp;&nbsp;Meadowlily Secondary Plan – Status Report
   (O-7614)
 
-# 9.&nbsp;&nbsp;&nbsp;Airport Area Tax Increment Grant Program –
   2480 Huron Street
 
-# 10.&nbsp;&nbsp;&nbsp;Telecommunication Facilities Consultation
   Policy (O-7881)
 
-# 11.&nbsp;&nbsp;&nbsp;Properties located at 603, 609 and 611
   Oxford Street West (Z-7578)
 
-# 12.&nbsp;&nbsp;&nbsp;Properties located at 981 and 983
   Wonderland Road South (OZ-8043)
 
-# 13.&nbsp;&nbsp;&nbsp;Property located at 7 Greenfield Court
 
-# 14.&nbsp;&nbsp;&nbsp;Forest City Industrial Stormwater
   Management Facility and Westminster Wetland Complex
 
-# 15.&nbsp;&nbsp;&nbsp;Property located at 1365 Dundas Street
 
-# 16.&nbsp;&nbsp;&nbsp;Properties located at 1197 York Street and
   1201-1203 York Street (Z-8046)
 
-# 17.&nbsp;&nbsp;&nbsp;Bradley Avenue Underpass Tunnel
 
 That the Civic Administration BE REQUESTED
   to review and report back to the Civic Works Committee with respect to the
@@ -372,7 +347,6 @@ That the Civic Administration BE REQUESTED
   heard a verbal delegation from Mr. Fenton, with respect to this matter.
   (2012-C06-00)
 
-# 18.&nbsp;&nbsp;&nbsp;Sewer Back-Up - 25 Prince of Wales Gate
 
 That NO ACTION BE TAKEN with respect to a
   request from J. Harkins, 25 Prince of Wales Gate to reverse a City sewer
@@ -380,7 +354,6 @@ That NO ACTION BE TAKEN with respect to a
   heard a verbal delegation from Mr. Harkins, with respect to this matter.
   (2012-W10-00)
 
-# 19.&nbsp;&nbsp;&nbsp;Review of Policies and Practices for Major
   City Projects
 
 That the communication dated June 25, 2012,
@@ -546,19 +519,14 @@ Motion Passed
 
 ****
 
-# 20.&nbsp;&nbsp;&nbsp;Appointment to the Accessibility Advisory
   Committee
 
-# 21.&nbsp;&nbsp;&nbsp;Appointment to the London Housing Advisory
   Committee
 
-# 22.&nbsp;&nbsp;&nbsp;Appointment to the Agricultural Advisory
   Committee
 
-# 23.&nbsp;&nbsp;&nbsp;Use of Local Improvement Charges Regulation
   for the Purpose of Acquiring Surplus School Sites
 
-# 24.&nbsp;&nbsp;&nbsp;London Gateway – 401 Corridor
 
 > Moved by Councillor P. Hubert
 
@@ -724,7 +692,6 @@ Motion Passed
 
 ****
 
-# X.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
 Councillor J.L. Baechler enquires about the
   possibility of Council Members voluntarily disclosing sources of income,
@@ -733,10 +700,8 @@ Councillor J.L. Baechler enquires about the
   matter, with the report to include the January 19, 2011 report from the City
   Solicitor on this matter.
 
-# XI.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
-# XII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS
   TO BE READ A FIRST, SECOND AND THIRD TIME:
@@ -914,7 +879,6 @@ Approve 3rd Reading of Bill No. 314.
 
 ****
 
-# XIII.&nbsp;&nbsp;&nbsp;COMMITTEE OF THE WHOLE, IN CAMERA
 
 MOTION
   FOR IN CAMERA SESSION
@@ -924,7 +888,6 @@ MOTION
                        
   Councillor P. Hubert presents.
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

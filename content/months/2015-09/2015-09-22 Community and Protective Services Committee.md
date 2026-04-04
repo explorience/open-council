@@ -12,7 +12,6 @@ September 22, 2015, at  4:13 PM
 > [!abstract]- Also Present:
 > J. Helmer, A. Hopkins, P. Squire, M. Van holst, H. Usher, S. Datars Bere, S. Giustizia, O. Katolyk, G. Kotsifas, L. Livingstone, D. Mounteer, J. Richardson, J. Smout, S. Spring, L. Stevens, B. Westlake-Power
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that Councillor Armstrong disclosed
@@ -20,7 +19,6 @@ That it BE NOTED that Councillor Armstrong disclosed
   loans and cheque cashing services, by indicating that he has business
   interests relating to this matter.
 
-# 2.&nbsp;&nbsp;&nbsp;5th Report of the
   Animal Welfare Advisory Committee
 
 That the following actions be taken with
@@ -54,7 +52,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;5th Report of the
   London Housing Advisory Committee
 
 That the 5th Report of the London Housing
@@ -77,7 +74,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;London's Homeless
   Prevention System - Progress Report and Update
 
 That, on the recommendation of the Managing
@@ -102,7 +98,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;London's Homeless
   Prevention System - Housing Stability Bank
 
 That, on the recommendation of the Managing
@@ -144,7 +139,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Approval of By-law
   for Amendment to the 189 Dundas Developments Inc. Municipal Contribution
   Agreement
 
@@ -180,7 +174,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Assignment of
   Rental Component of Administration Agreement for the Investment in Affordable
   Housing for Ontario (2014 Extension) to the Housing Development Corporation,
   London
@@ -202,7 +195,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;7th and 8th Reports
   of the London Diversity and Race Relations Advisory Committee
 
 That the following actions be taken with
@@ -369,7 +361,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Vehicles for Hire -
   New Technologies
 
 That the following actions be taken with
@@ -434,7 +425,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Status Report -
   Category 7 Refreshment Vehicles - Food Trucks
 
 That, on the recommendation of the Managing
@@ -470,7 +460,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;E-bikes on Sidewalks
 
 That the request for delegation status from
   Brenda Fuhrman, with respect to e-bikes on sidewalks, BE APPROVED and that
@@ -494,7 +483,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the September 2015 Deferred Matters
@@ -517,7 +505,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Pay Day Loan and
   Cheque Cashing Services
 
 That, the Civic

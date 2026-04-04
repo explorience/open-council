@@ -12,7 +12,6 @@ October 20, 2015, at 12:00 PM
 > [!abstract]- Also Present:
 > J. Helmer, P. Squire, M. van Holst; A. Zuidema, J. Barber, A. Barbon, J. Braam, M. Daley, J. Devito, A. Dunbar, J. Fleming, J. Freeman, P. Gardner, K. Graham, M. Hayward, P. Kokkoros, S. Mathers, V. McAlea Major, D. Mounteer, L. Palarchio, M. Ruddy, S. Spring, T. Thompson, B. Warner, T. Wellhauser, B. Westlake-Power
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that Councillor J. Helmer
@@ -22,7 +21,6 @@ That it BE NOTED that Councillor J. Helmer
   public notice via Canada Post, by indicating that his spouse is employed by
   Canada Post.
 
-# 2.&nbsp;&nbsp;&nbsp;Normal School
   Renovations - Capital Budget Update Project #GG1558
 
 That, on the recommendation of the Managing
@@ -139,7 +137,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Request for
   Proposal 15-02 Telecommunications Fibre and Cable Installation and Repair
   Vendor of Record
 
@@ -179,7 +176,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;SS15-40 Single
   Source for the Computer Equipment Leasing Services
 
 That, on the recommendation of the Managing
@@ -225,7 +221,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Approval to
   Demolish - City-Owned Property - 6 Oxford Street East, 51 Wharncliffe Road
   South, 5067 Cook Road and 3290 Manning Drive
 
@@ -262,7 +257,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;ADDED - Provincial
   Review of the Municipal Act, 2001 and the Municipal Conflict of Interest Act,
   2009
 

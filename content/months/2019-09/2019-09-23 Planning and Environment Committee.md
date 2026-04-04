@@ -20,13 +20,11 @@ September 23, 2019, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that Councillor M. Cassidy disclosed a pecuniary interest in clause 3.3 of this Report, having to do with the property located at 307 Fanshawe Park Road East, by indicating that her family owns property in the area.
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Turner
 
@@ -106,7 +104,6 @@ That the Building Division Monthly Report for the month of July, 2019 BE RECEIVE
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Public Participation Meeting - Application - 585 Third Street (OZ-9028) 
 
@@ -611,7 +608,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;9th Report of the London Advisory Committee on Heritage 
 
@@ -667,7 +663,6 @@ e)         clauses 1.1, 2.1, 3.1 to 3.5, inclusive, 4.1, and 5.3, BE REC
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List 
 
@@ -691,7 +686,6 @@ That the Managing Director, Development and Compliance Services & Chief Building
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential 
 
 The Planning and Environment Committee convene, In Closed Session, for the purpose of considering the following:
 
@@ -715,7 +709,6 @@ The Planning and Environment Committee convened, In Closed Session, from 4:24 PM
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 9:37 PM.
 

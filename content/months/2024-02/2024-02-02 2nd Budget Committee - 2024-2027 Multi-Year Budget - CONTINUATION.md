@@ -17,13 +17,10 @@ February 2, 2024, at  9:30 AM
 
 The meeting is called to order at 9:32 AM; it being noted that Councillors S. Franke, P. Van Meerbergen, and S. Hillier were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.4&nbsp;&nbsp;&nbsp;Amendment - Adj. #4
 
@@ -635,7 +632,6 @@ That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED by adjusting funding t
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by D. Ferreira
 

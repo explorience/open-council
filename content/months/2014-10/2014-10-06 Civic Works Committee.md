@@ -15,20 +15,17 @@ October 6, 2014, at  4:00 PM
 > [!abstract]- Also Present:
 > P. Hubert, B. Polhill; J. Braam, C. Colvin, A. Dunbar, J. Lucas, D. MacRae, L. Rowe, E. Soldo, S. Spring, J. Stanford
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;2nd Report of the
   LTC Long Term Growth Report Working Group
 
 Recommendation:  That the 2nd Report of the
   LTC Long Term Growth Report Working Group, from its meeting held on September
   16, 2014, BE RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;4th Report of the
   Cycling Advisory Committee
 
 Recommendation:  That the 4th Report of the
@@ -51,7 +48,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;London Wastewater
   Facility Update, Operating Agreement and Next Steps
 
 Recommendation:  That, on the
@@ -94,7 +90,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Single Source
   Procurement Supply and Installation of Diesel Exhaust Fluid (DEF) Storage
   Kiosks and Dispensers
 
@@ -140,7 +135,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Hamilton Road and
   Highbury Avenue Intersection Improvements Environmental Assessment Study-Appointment
   of Consulting Engineer
 
@@ -188,7 +182,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Wharncliffe Road
   South Environmental Assessment Study-Appointment of Consulting Engineer
 
 Recommendation:  That, on the
@@ -235,7 +228,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Greenway Wastewater
   Treatment Plant Rotating Drum Thickener Engineering Project ES5084-11
 
 Recommendation:  That, on the
@@ -285,7 +277,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Riverside Drive and
   Beaverbrook Avenue Intersection Improvement
 
 Recommendation:  That the matter of the
@@ -309,7 +300,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Minor Revisions to
   the W12A Landfill Site Community Enhancement and Mitigative Measures Program
 
 Recommendation:  That, on the

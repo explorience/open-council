@@ -15,10 +15,8 @@ August 26, 2014, at  4:05 PM
 > [!abstract]- Also Present:
 > J. Baechler, B. Armstrong, N. Branscombe, D. Brown, M. Brown, J.P. Bryant, J.P. Barber, G. Belch, P. Christiaans, C. Colvin, M. Davis, A. Dunbar, M. Elmadhoon, J.M. Fleming, S. Galloway, T. Grawey, K. Gonyou, B. Henry, G. Kotsifas, E. Lalande, I. Listar, J. MacKay, A. MacLean, A. Macpherson, L. Maitland, L. McDougall, D. Menard, N. Musicco, J. Ramsay, C. Saunders, E. Soldo, M. Tomazincic, A.B. Watson, J. Yanchula, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Properties located
   at 3130 and 3260 Dingman Drive and 4397/4407 Wellington Road South – Ontario
   Municipal Board Decision
 
@@ -44,7 +42,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Property located at
   122 Wortley Road (H-8383)
 
 Recommendation:  That, on the
@@ -74,7 +71,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Property located at
   1800 Sumac Way (H-8356)
 
 Recommendation:  That, on the
@@ -103,7 +99,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Foxwood Subdivision
   (39T-11503)
 
 Recommendation:  That, on the
@@ -156,7 +151,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Corporate Campus
   Subdivision (39T-78066)
 
 Recommendation:  That, on the
@@ -268,7 +262,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Building Division
   Monthly Reports for June and July 2014
 
 Recommendation:  That the Building Division
@@ -290,7 +283,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Property located at
   450 Oxford Street West - Notice of Appeal to the Ontario Municipal Board
   (OZ-8003)
 
@@ -404,7 +396,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Urban Forest
   Strategy and Implementation Plan Update
 
 Recommendation:  That, on the
@@ -461,7 +452,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;2013 State of the
   Downtown Report
 
 Recommendation:  That, on the recommendation
@@ -486,7 +476,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Stoney Creek Open
   Space Pathway Development East of Trossacks Avenue
 
 Recommendation:  That, on the
@@ -510,7 +499,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Commitments for Financial
   Incentive Programs at 121-123 Dundas Street, 471 Richmond Street, 242 Dundas
   Street and 192-194 Dundas Street
 
@@ -550,7 +538,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Heritage
   Conservation District Status Report
 
 Recommendation:  That, the following
@@ -596,7 +583,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Environmental
   Impact Study - Performance Evaluation for the City of London
 
 Recommendation:  That, on the
@@ -622,7 +608,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;9th Report of the
   London Advisory Committee on Heritage
 
 Recommendation:  That, the following
@@ -681,7 +666,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;8th Report of the
   Environmental and Ecological Planning Advisory Committee
 
 Recommendation:  The following actions be
@@ -737,7 +721,6 @@ Motion
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;8th Report of the
   Advisory Committee on the Environment
 
 Recommendation:  The following actions be
@@ -823,7 +806,6 @@ Motion
 
 ****
 
-# 19.&nbsp;&nbsp;&nbsp;Proposed Amendments
   to the Site Plan By-law
 
 Recommendation:  That, on the recommendation
@@ -912,7 +894,6 @@ Motion
 
 ****
 
-# 20.&nbsp;&nbsp;&nbsp;Property located at
   877 Medway Park Drive (Z-8357)
 
 Recommendation:  That, on the
@@ -989,7 +970,6 @@ Motion
 
 ****
 
-# 21.&nbsp;&nbsp;&nbsp;Proposed Agreement
   for the Continuation of the use of the Boulevard and Proposed Amendment to
   the Fees By-law
 
@@ -1076,7 +1056,6 @@ Motion
 
 ****
 
-# 22.&nbsp;&nbsp;&nbsp;Properties located
   at 1-34 Barberry Court, 35-48 Ivy Court, 49-81 Vinewood Court and 82-100
   Primrose Court (TZ-8353)
 
@@ -1151,7 +1130,6 @@ Motion
 
 ****
 
-# 23.&nbsp;&nbsp;&nbsp;Properties located
   at 931-1127 Southdale Road East and 551-605 Millbank Drive (TZ-8354)
 
 Recommendation:  That, on the
@@ -1224,7 +1202,6 @@ Motion
 
 ****
 
-# 24.&nbsp;&nbsp;&nbsp;Properties located
   at 940 and 956 Wharncliffe Road South (OZ-8359)
 
 Recommendation:  That, on the
@@ -1318,7 +1295,6 @@ Motion
 
 ****
 
-# 25.&nbsp;&nbsp;&nbsp;Properties located
   at 447 Old Wonderland Road (Z-8228)
 
 Recommendation:  That, on the
@@ -1457,7 +1433,6 @@ Motion
 
 ****
 
-# 26.&nbsp;&nbsp;&nbsp;Property located at
   299 Tartan Drive (O-8381/Z-8311)
 
 Recommendation:  That, on the
@@ -1561,7 +1536,6 @@ Motion
 
 ****
 
-# 27.&nbsp;&nbsp;&nbsp;Property located at
   164 Sherwood Forest Square (Z-8327)
 
 Recommendation:  That, on the
@@ -1674,7 +1648,6 @@ Motion
 
 ****
 
-# 28.&nbsp;&nbsp;&nbsp;Development Charges
   and the Community Improvement Plan
 
 Recommendation:  That, the communication
@@ -1704,7 +1677,6 @@ Motion
 
 ****
 
-# 29.&nbsp;&nbsp;&nbsp;Properties located
   at 51 and 99 Exeter Road
 
 Recommendation:  That the Civic

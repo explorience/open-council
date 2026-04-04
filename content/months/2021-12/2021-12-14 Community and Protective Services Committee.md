@@ -20,7 +20,6 @@ December 14, 2021, at  4:00 PM
 
 The meeting was called to order at 4:06 PM; it being noted that the following Members were in remote attendance: Mayor E. Holder; Councillors J. Helmer and S. Hillier
 
-# 1.&nbsp;&nbsp;&nbsp;Call to Order
 
 ## 1.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
@@ -46,7 +45,6 @@ That Councillor J. Helmer BE ELECTED Vice-Chair of the Community and Protective 
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Hillier
 
@@ -182,15 +180,12 @@ c)    the approval given, herein, BE CONDITIONAL upon The Corporation of the C
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -214,11 +209,9 @@ That the Deferred Matters List for the Community and Protective Services Committ
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 None.
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 4:14 PM.
 ---

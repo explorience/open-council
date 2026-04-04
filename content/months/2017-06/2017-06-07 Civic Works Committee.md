@@ -15,13 +15,11 @@ June 7, 2017, at  4:01 PM
 > [!abstract]- Also Present:
 > J. Helmer; S. Chambers, I. Collins, T. Copeland, A. Drost, A. Dunbar, G. Gauld, J. Lucas, J. MacKay, D. MacRae, S. Maguire, S. Mathers, B. Nourse, M. Ribera, L. Rowe, K. Scherr, J. Senese, E. Soldo, J. Stanford
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Amendments to the Traffic and Parking By-law
 
 That the attached revised proposed
@@ -47,7 +45,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Traffic on Aldersbrook Gate
 
 That, on the recommendation of the Managing
@@ -74,7 +71,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Blackfriars Bridge Project Status Update
 
 That, on the recommendation of the Managing
@@ -112,7 +108,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Memorandum of the Understanding with Bio-Techfar Inc. as part of the London
   Waste to Resources Innovation Centre
 
@@ -150,7 +145,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Memorandum of Understanding With Hawthorne Green Key Group Inc. as Part of
   the London Waste To Resources Innovation Centre
 
@@ -188,7 +182,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Memorandum of Understanding With Try Recycling Inc. as Part of the London
   Waste To Resources Innovation Centre
 
@@ -226,7 +219,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Permission for GE Water and Process Technologies to Pilot Test at the Oxford
   Wastewater Treatment Plant
 
@@ -260,7 +252,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Clean Water and Wastewater Fund - Single Source Purchase of Inlet Screens for
   the Adelaide and Pottersburg Wastewater Treatment Plants
 
@@ -309,7 +300,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;STAFF REPORT  Clean
   Water and Wastewater Fund - Single Source Purchase of Odour Control, Air
   Handling and Heat Recovery Units for  Wastewater Facilities
 
@@ -360,7 +350,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Clean Water and Wastewater Fund - Purchase of Major Organic Rankine Cycle
   System Components for Power Generation at the Greenway Wastewater Treatment
   Plant
@@ -429,7 +418,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;STAFF REPORT - Mud
   Creek Subwatershed Schedule B - Municipal Class Environmental Assessment
   Notice of Completion
 
@@ -470,7 +458,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Clean Water and Wastewater Fund -  Appointment of Consulting Engineers for
   the 2017 Projects for Stormwater Engineering
 
@@ -527,7 +514,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;STAFF REPORT - 2016
   Renew London Infrastrastructure Post Construction Overview Report
 
 That, on the recommendation of the Managing
@@ -552,7 +538,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Clean Water and Wastewater Fund  -  Irregular Result   -  Arva Pumping
   Station Optimization and Energy Efficiency Study
 
@@ -594,7 +579,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Infrastructure Canada – Phase One Investments -  Clean Water and Wastewater
   Fund – Approved Projects
 
@@ -660,7 +644,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Clean Water and Wastewater Fund Contract Award -   2017 Infrastructure
   Renewal Program -  Frances Street, Margaret Street and Ethel Street
   Reconstruction
@@ -722,7 +705,6 @@ Motion
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;STAFF REPORT - Overnight 
   Parking 2016/2017 Experience
 
 That, on the recommendation of the Managing
@@ -756,7 +738,6 @@ Motion
 
 ****
 
-# 19.&nbsp;&nbsp;&nbsp;STAFF REPORT - 
   Staff Resourcing to Meet the Demands of the Clean Water and Waste Water Fund
   Program
 
@@ -825,7 +806,6 @@ Motion
 
 ****
 
-# 20.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Veresen District Energy Partnership - Municipal Access Agreement
 
 That, on the recommendation of the Managing
@@ -854,7 +834,6 @@ Motion
 
 ****
 
-# 21.&nbsp;&nbsp;&nbsp;6th Report of the
   Cycling Advisory Committee
 
 That the 6th Report of the Cycling Advisory
@@ -876,7 +855,6 @@ Motion
 
 ****
 
-# 22.&nbsp;&nbsp;&nbsp;6th Report of the
   Transportation Advisory Committee
 
 That the following actions be taken with
@@ -915,7 +893,6 @@ Motion
 
 ****
 
-# 23.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the following actions be taken with
@@ -954,7 +931,6 @@ Motion
 
 ****
 
-# 24.&nbsp;&nbsp;&nbsp;(ADDED) COUNCILLOR SUBMISSION - Councillor
   V. Ridley – Vision Zero
 
 That the Civic Administration BE DIRECTED

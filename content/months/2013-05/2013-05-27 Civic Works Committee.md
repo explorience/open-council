@@ -12,17 +12,14 @@ May 27, 2013, at  4:00 PM
 > [!abstract]- Also Present:
 > D. Brown, A. Dunbar, J. Lucas, S. Maguire, L. Pompilii, L. Rowe, C. Saunders, R. Sharpe, E. Soldo, J. Stanford
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;4th Report of the
   Transportation Advisory Committee
 
 Recommendation:  That the 4th Report of the
   Transportation Advisory Committee, from its meeting held on May 7, 2013, BE
   RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;Bradley Avenue
   Pedestrian Tunnel Illumination
 
 Recommendation:  That, on the
@@ -30,7 +27,6 @@ Recommendation:  That, on the
   TAKEN with respect to replacing the lighting in the vicinity of the Bradley
   Avenue pedestrian tunnel. (2013-T01)
 
-# 4.&nbsp;&nbsp;&nbsp;Household Special
   Waste Program Update
 
 Recommendation:  That, on the
@@ -55,7 +51,6 @@ c)         Civic
   Administration BE AUTHORIZED to undertake all the administrative acts that
   are necessary in connection with this matter. (2013-E07)
 
-# 5.&nbsp;&nbsp;&nbsp;W12A Landfill
   Community Mitigative Measures Fund - Glanworth Library
 
 Recommendation:  That, on the
@@ -65,7 +60,6 @@ Recommendation:  That, on the
   Library Revitalization Project, subject to the project resulting in a
   continuation of library services in Glanworth.  (2013-F11)
 
-# 6.&nbsp;&nbsp;&nbsp;Environmental
   Activity and Sector Registry (EASR) Regulation for Landfill Gas Power Generating
   Facilities
 
@@ -82,7 +76,6 @@ Recommendation:  That, on the
   comments will be forwarded to the Ministry immediately, with a formal Council
   resolution to follow after the June 11, 2013 Council meeting.  (2013-E02)
 
-# 7.&nbsp;&nbsp;&nbsp;2013 Infrastructure
   Lifecycle Renewal Program Contract #1 - Grosvenor Street Reconstruction
   (Contract Award: Tender 13-34)
 
@@ -133,7 +126,6 @@ g)          the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations.  (2013-L04)
 
-# 8.&nbsp;&nbsp;&nbsp;Ontario One Call
   and Utility Locates
 
 Recommendation:  That, on the recommendation
@@ -149,7 +141,6 @@ b)         future
   estimated in the amount of $22,000, BE APPROVED as a first priority from
   available assessment growth in 2014, subject to Budget approval.  (2013-E06)
 
-# 9.&nbsp;&nbsp;&nbsp;Amendments to the
   Traffic and Parking By-law
 
 Recommendation:  That, on the
@@ -170,7 +161,6 @@ b)         the
   with respect to temporary changes on Bruce Street effective September 20,
   2013.  (2013-C01)
 
-# 10.&nbsp;&nbsp;&nbsp;Trowbridge Avenue
   Parking Passes/Residential
   Parking Pass Pilot Program
 
@@ -190,7 +180,6 @@ b)         the
   the Program’s discontinuation to those areas currently participating in the
   Residential Parking Pass Pilot Program.  (2013-T02)
 
-# 11.&nbsp;&nbsp;&nbsp;T13-56 Supply and
   Delivery of Polymers - Wastewater Treatment
 
 Recommendation:  That, on the
@@ -215,7 +204,6 @@ c)         approval
   contract or issuing a purchase order relating to the subject matter of this
   approval.  (2013-E07)
 
-# 12.&nbsp;&nbsp;&nbsp;Traffic Marking
   Paint Single Source SS13-24
 
 Recommendation:  That, on the
@@ -237,7 +225,6 @@ c)         approval
   contract or having a purchase order relating to the subject matter of this
   approval.  (2013-L04B)
 
-# 13.&nbsp;&nbsp;&nbsp;Appointment of
   Consulting Engineers Infrastructure-Lifecycle Renewal Program 2014-2015
 
 Recommendation:  That, on the recommendation
@@ -320,7 +307,6 @@ e)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations.  (2013-A05)
 
-# 14.&nbsp;&nbsp;&nbsp;Amendments to Fees
   and Charges By-law A-46 to Include a Fee Related to Permits for Approved
   Works and an Application Fee for Commemorative Streets Requests
 
@@ -335,7 +321,6 @@ Recommendation:  That, on the
   that there were no oral submissions made at the public participation meeting
   associated with this matter.  (2013-C01)
 
-# 15.&nbsp;&nbsp;&nbsp;Added
   - Southwest Area Plan - Service Policies and Plans
 
 Recommendation:  That the Civic

@@ -12,40 +12,28 @@ December 19, 2011, at  4:03 PM
 > [!abstract]- Also Present:
 > W. J. Armstrong, M. Brown, P. Hubert, B. Polhill, P. McNally, J. Braam, A. Dunbar, B. Krichker, J. Lucas, D. MacRae, S. Maguire, R. Standish, J. Stanford, R. Welker, B. Westlake-Power
 
-# 1.&nbsp;&nbsp;&nbsp;None are disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Election of Vice Chair for the term ending
   November 30, 2012
 
-# 3.&nbsp;&nbsp;&nbsp;No Parking Zone Designations in Forest City Industrial
   Park
 
-# 4.&nbsp;&nbsp;&nbsp;Hyde Park Road
   Improvements Environmental Study Report: Project Number TS1477
 
-# 5.&nbsp;&nbsp;&nbsp;Committee Orientation
 
-# 6.&nbsp;&nbsp;&nbsp;Fox Hollow
   Development Area Stormwater Management Facility #2 Depressurization Wells and
   Groundwater Works
 
-# 7.&nbsp;&nbsp;&nbsp;Communication and
   Duration for Maintenance Work
 
-# 8.&nbsp;&nbsp;&nbsp;Request to Extend
   the US Peroxide PRI-SC™ Odour Control System Trial on the Dingman, Wonderland
   and Gordon Avenue Sewer System
 
-# 9.&nbsp;&nbsp;&nbsp;Status Report for
   Environmental Assessment Study for Tributary 'C' Drainage Area
 
-# 10.&nbsp;&nbsp;&nbsp;Appointment of
   Consulting Engineer for Functional and Detailed Design of the Dingman Creek
   Stormwater Management Erosion Control Wetland Facility (ES2682)
 
-# 11.&nbsp;&nbsp;&nbsp;Water and Sewer Revenue Audit: Staff Response
 
-# 12.&nbsp;&nbsp;&nbsp;Amendments to the
   Traffic and Parking By-law
 
 Recommendation:  That, on the
@@ -54,13 +42,10 @@ Recommendation:  That, on the
   meeting to be held on January 10, 2012 for the purpose of amending the
   Traffic and Parking By-law (PS-111).
 
-# 13.&nbsp;&nbsp;&nbsp;1st Report of the
   Transportation Advisory Committee
 
-# 14.&nbsp;&nbsp;&nbsp;Civic Works
   Committee Membership for the term December 1, 2011 to November 30, 2012
 
-# 15.&nbsp;&nbsp;&nbsp;Request to Increase
   the Scope of RV Anderson and Associates’ Preliminary Work on the Expansion of
   the Greenway Wastewater Treatment Plant (ES 2685)
 
@@ -83,7 +68,6 @@ b)           
   financing for this work BE APPROVED as set out in the attached
   Sources of Financing Report (Appendix A).
 
-# 16.&nbsp;&nbsp;&nbsp;Public
   Participation Meeting Regarding Water Fluoridation in London
 
 Recommendation:  That, on the
@@ -99,7 +83,6 @@ b)         in
   order to accommodate all parties who may wish to speak, the meeting BE
   HELD at Centennial Hall.
 
-# 17.&nbsp;&nbsp;&nbsp;Street Lighting
   Request, Lord Nelson School Area - Crime and Safety Concerns
 
 Recommendation:  That NO ACTION BE TAKEN
@@ -107,7 +90,6 @@ Recommendation:  That NO ACTION BE TAKEN
   Armstrong, with respect to a request for street lighting in the area from
   Castle Drive to Wexford Avenue.
 
-# 18.&nbsp;&nbsp;&nbsp;Veterans Memorial
   Parkway Noise Study
 
 Recommendation:  That the Civic

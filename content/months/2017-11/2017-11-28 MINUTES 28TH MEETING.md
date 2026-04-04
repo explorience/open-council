@@ -18,7 +18,6 @@ November 28, 2017, at  4:00 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:00 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 Councillor J. Zaifman discloses a pecuniary
@@ -27,12 +26,9 @@ Councillor J. Zaifman discloses a pecuniary
   located at 1635, 1663 and 1685 Commissioners Road East and 2624 and 2652 Jackson
   Road, by indicating that his family has interest in the lands.
 
-# II.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# III.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# IV.&nbsp;&nbsp;&nbsp;COUNCIL, IN
   CLOSED SESSION
 
 > Moved by Councillor A. Hopkins
@@ -45,7 +41,6 @@ Approve that Council rise and go into
 
 ****
 
-# V.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE TWENTY-SEVENTH MEETING HELD ON NOVEMBER 14,
   2017
 
@@ -83,13 +78,10 @@ Motion Passed
 
 ****
 
-# VI.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
-# VII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# VIII.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor P. Hubert
 
@@ -97,19 +89,16 @@ Approve clauses 1 and 2.
 
 ****
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Internal Audit
   Summary Update
 
 That the memo dated November 15, 2017, from
   Deloitte, with respect to the internal audit summary update, BE RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;The Corporation of
   the City of London - June 2017-December 2018 Internal Audit Dashboard as at
   November 15, 2017
 
@@ -117,7 +106,6 @@ That the communication from Deloitte, with
   respect to the June 2017 - December 2018 internal audit dashboard, as of
   November 15, 2017, BE RECEIVED.
 
-# 5.&nbsp;&nbsp;&nbsp;Enquiry
 
 That it BE NOTED that Councillor M. van
   Holst enquired about the potential to include an audit specific to the
@@ -169,7 +157,6 @@ Motion Passed
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;6th Report of the
   Governance Working Group
 
 That the following actions be taken with
@@ -217,7 +204,6 @@ C)        Additional
 d)         clauses 1, 2, 3 and 6 BE
   RECEIVED.
 
-# 7.&nbsp;&nbsp;&nbsp;Hyde Park
   Business Improvement Area Board of Director Appointments
 
 That the following individuals BE APPOINTED
@@ -232,7 +218,6 @@ Luca Cosentino
 Lorean Pritchard
 Councillor J. Morgan
 
-# 8.&nbsp;&nbsp;&nbsp;Resignation from
   the London Police Services Board
 
 That the resignation from Councillor S.
@@ -248,7 +233,6 @@ Approve clauses 1 to 5, inclusive.
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Property located at
   255 South Carriage Road Phase 2 (H-8791)
 
 That, on the recommendation of the Senior
@@ -275,7 +259,6 @@ That, on the recommendation of the Senior
   Special Provision (R4-4 (1)) Zone and a Residential R4 (R4-4) Zone to remove
   the h. and h-100 holding provisions.   (2017-D09)
 
-# 10.&nbsp;&nbsp;&nbsp;Property located at
   275 Callaway Road (H-8820) (Relates to Bill No.678)
 
 That, on the recommendation of the Senior
@@ -289,14 +272,12 @@ That, on the recommendation of the Senior
   Zone TO a Residential R6 Special Provision/ Residential R7 Special Provision
   (R6-5 (26)/R7 (10)) Zone to remove the h-100 holding provision.  (2017-D09)
 
-# 11.&nbsp;&nbsp;&nbsp;Highland Ridge
   Sanitary Trunk Sewer Post Construction Restoration Works and Monitoring
 
 That, the staff report dated November 20,
   2017, entitled "Highland Ridge Sanitary Trunk Sewer Post Construction
   Restoration Works and Monitoring plan, BE RECEIVED for information.
 
-# 12.&nbsp;&nbsp;&nbsp;Properties located
   at 1635 Commissioners Road East and 2624 Jackson Road -  Application by The
   Corporation of The City of London re properties located at 1663, 1685
   Commissioners Road East and 2652 Jackson Road - (39T-06507/OZ-7176/O-7178)
@@ -538,7 +519,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;The Corporation of
   the City of London - Parks & Recreation Cash Handling Process Review
   Internal Audit Report
 
@@ -548,13 +528,11 @@ That the Internal Audit Report with respect
   IMPLEMENTED as appropriate; it being noted that there was Management
   agreement noted for each recommendation in the above-noted report.
 
-# 13.&nbsp;&nbsp;&nbsp;Building Division
   Monthly Report for September 2017
 
 That the Building Division Monthly Report
   for the month of September, 2017 BE RECEIVED.
 
-# 14.&nbsp;&nbsp;&nbsp;13th and 14th
   Reports of the London Advisory Committee on Heritage
 
 That, the following actions be taken with
@@ -648,7 +626,6 @@ g)   
   clause 1 of the 14th Report of the London Advisory Committee on Heritage BE
   RECEIVED.
 
-# 16.&nbsp;&nbsp;&nbsp;Property located at
   447 Old Wonderland Road (555 Teeple Terrace) (SPA17-031)
 
 That on the recommendation of the Manager,
@@ -725,20 +702,17 @@ it being pointed out that at the public
   on the attached public participation meeting record made oral
   submissions regarding these matters.  (2017-D11)
 
-# 18.&nbsp;&nbsp;&nbsp;Tree Protection
   By-law - Implementation Review (C.P. 1515-228)
 
 That, the staff report dated November 20,
   2017, entitled "The City of London Tree Protection By-Law C.P.-1515-228
   Implementation Review" BE RECEIVED for information.   (2017-E04)
 
-# 19.&nbsp;&nbsp;&nbsp;Atlantis Realty
   Services
 
 That delegation status BE GRANTED to M.
   Zucchet, Vice President, Property Management, Atlantis.
 
-# 15.&nbsp;&nbsp;&nbsp;Property located at
   491 Base Line Road East - Request for Demolition of Heritage Listed Property
 
 That, on the recommendation of the Managing
@@ -769,7 +743,6 @@ it being further noted that the Planning
   November 3, 2017, from K. Denkers, 495 Base Line Road East, with respect to
   this matter.   (2017-R01)
 
-# 17.&nbsp;&nbsp;&nbsp;Dundas Place
   Management and Dundas Field House
 
 > Moved by Councillor M. Salih
@@ -854,7 +827,6 @@ Motion Passed
 
 ****
 
-# 20.&nbsp;&nbsp;&nbsp;4th Report of the
   Agricultural Advisory Committee
 
 That the following actions be taken with
@@ -886,7 +858,6 @@ b)         support
 c)         clauses 1 to 4 and 7, BE
   RECEIVED.
 
-# IX.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
 > Moved by Councillor P. Hubert
@@ -895,15 +866,11 @@ Approve clauses 1 to 8, inclusive.
 
 ****
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 > Moved by Councillor M. van Holst
 
@@ -1109,7 +1076,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

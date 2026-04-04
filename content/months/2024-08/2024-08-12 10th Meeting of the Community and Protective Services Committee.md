@@ -17,11 +17,9 @@ August 12, 2024, at  1:00 PM
 
 The meeting was called to order at 1:00 PM; it being noted that Councillor E. Peloza was in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Trosow
 
@@ -199,19 +197,15 @@ Motion to approve parts a), b) and d) of the amended motion.
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 1:36 PM.
 ---

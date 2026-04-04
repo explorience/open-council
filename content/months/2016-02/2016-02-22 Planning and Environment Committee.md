@@ -12,10 +12,8 @@ February 22, 2016, at  4:00 PM
 > [!abstract]- Also Present:
 > A. Hopkins, P. Christiaans, E. Conway, M. Elmadhoon, J.M. Fleming, S. Galloway, T. Grawey, N. Hall, T. Karidas, G. Kotsifas, A. MacLean, A. Macpherson, N. Pasato, L. Pompilii, J. Ramsay, A. Riley, C. Saunders, S. Spring, M. Tomazincic, S. Wise, J. Yanchula, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;3rd Report of the
   Advisory Committee on the Environment
 
 That the following actions be taken with
@@ -116,7 +114,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Property located at
   1196 Sunningdale Road West - Request for Extension of Draft Approval
   (39T-05511)
 
@@ -159,7 +156,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Property located at
   995 Fanshawe Park Road West - Request for Extension of Draft Approval
   (39T-05512)
 
@@ -202,7 +198,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Properties located
   at 895-905 Sarnia Road (H-8565)
 
 That, on the recommendation of the Senior
@@ -231,7 +226,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Property located at
   7 Annadale Drive
 
 That, on the recommendation of the Senior
@@ -275,7 +269,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Properties located
   at 3313-3405 Wonderland Road South and 1789 Wharncliffe Road South (H-8527)
 
 That, on the recommendation of the Managing
@@ -323,7 +316,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Hyde Park Meadows
   Subdivision - Phase 2 - Drewlo Holdings Inc. (39T-02509)
 
 That, on the recommendation of the Manager,
@@ -364,7 +356,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Claimable Works for
   3080 Bostwick Road Consent Agreement
 
 That, on the recommendation of the Managing
@@ -402,7 +393,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Summerside
   Subdivision - Phase 12B (39T-07508)
 
 That, on the recommendation of the Manager,
@@ -448,7 +438,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Fanshawe Ridge
   (Phase 3) Subdivision (39T-08504)
 
 That, on the recommendation of the Manager,
@@ -511,7 +500,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Property located at
   1040 Wharncliffe Road South - Paulpeel Avenue Extension (Z-8553)
 
 That, on the recommendation of the Senior
@@ -587,7 +575,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Properties located
   at 3924 and 4138 Colonel Talbot Road (Z-8541/39T-12503)
 
 That, on the recommendation of the Senior
@@ -693,7 +680,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Property located at
   7186 Isaac Drive (39CD-15508/SP15-018076)
 
 That, on the recommendation of the Senior
@@ -787,7 +773,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Property located on
   a portion of 530 Sunningdale Road East (north of Superior Drive) - Powell
   Phase 3 (39T-15504/Z-8539)
 
@@ -915,7 +900,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Property located at
   2946 Bateman Trail (Z-8537)
 
 That, on the recommendation of the Managing
@@ -1001,7 +985,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;3rd Report of the
   London Advisory Committee on Heritage
 
 That the following actions be taken with

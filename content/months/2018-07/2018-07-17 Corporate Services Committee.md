@@ -21,11 +21,9 @@ July 17, 2018, at 12:30 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by P. Hubert
 
@@ -223,7 +221,6 @@ That, on the recommendation of the Managing Director, Corporate Services and Cit
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Tribunal - Development Charge Complaint - 84 Dennis Avenue
 
@@ -291,7 +288,6 @@ That the presentation from Crispin Colvin, Director, Ontario Federation of Agric
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Confirmation of Appointment to the Community Safety and Crime Prevention Advisory Committee (Requires 1 Non-Voting Representative from Active & Safe Routes to School)
 
@@ -337,11 +333,9 @@ That the communication dated July 8, 2018, from Councillor M. van Holst BE RECEI
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 The Corporate Services Committee convened as the Tribunal, In Closed Session, from 2:01 PM to 2:10 PM, to consider the following:
 
@@ -381,7 +375,6 @@ The Corporate Services Committee convened in closed session from 2:57 PM to 3:08
 
 ## 6.2&nbsp;&nbsp;&nbsp;Personal Matters/Identifiable Individual/Litigation/Potential Litigation/Solicitor-Client Privileged Advice
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 3:09 PM.
 

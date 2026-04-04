@@ -17,11 +17,9 @@ November 10, 2025, at  1:00 PM
 
 The meeting was called to order at 1:00 PM, it being noted that Councillor S. Trosow was in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 None.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by J. Pribil
 
@@ -314,7 +312,6 @@ That pursuant to section 31.6 of the Council Procedure By-law, Councillor S. Ste
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Item not to be heard before 1:05 PM - PUBLIC PARTICIPATION MEETING - Lambeth Neighbourhood Connectivity Plan
 
@@ -385,7 +382,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Councillor H. McAlister - Dumpsters in Residential Areas
 
@@ -540,11 +536,9 @@ it being further noted that Western University, Museum London, Wolseley Barracks
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 ## 6.1&nbsp;&nbsp;&nbsp;Solicitor-Client Privilege
 
@@ -573,7 +567,6 @@ That Committee convenes In Closed Session, from 3:21 PM to 4:05 PM.
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by H. McAlister
 

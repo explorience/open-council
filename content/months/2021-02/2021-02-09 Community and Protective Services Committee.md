@@ -22,11 +22,9 @@ February 9, 2021, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 None.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Lewis
 
@@ -342,11 +340,9 @@ Motion to approve the balance of the staff recommendation.
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Business Case for Lighting Dog Parks - Councillor M. van Holst 
 
@@ -371,7 +367,6 @@ That the communication from Councillor M. van Holst, as appended to the agenda, 
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -419,7 +414,6 @@ That the communication, dated February 8, 2021, from Councillors A. Kayabaga and
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 5:57 PM.
 

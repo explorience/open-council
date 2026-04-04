@@ -12,13 +12,11 @@ December 9, 2013, at  4:00 PM
 > [!abstract]- Also Present:
 > M. Brown, B. Polhill; J. Braam, S. Byron, A. Dunbar, D. Huggins, B. Krichker, J. Lucas, D. MacRae, S. Maguire, L. Rowe, R. Sharpe, J. Simon, J. Skimming, E. Soldo, J. Stanford, R. Welker
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Election of
   Vice-Chair for the Term Ending November 30, 2014
 
 Recommendation: 
@@ -43,7 +41,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Hamilton Road and
   Clarke Road Intersection Improvements Construction Contract Amendment -
   Emergency Situation
 
@@ -71,7 +68,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Amendments to the
   Traffic and Parking By-law
 
 Recommendation:  That, on the
@@ -99,7 +95,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Irregular Bid-Supply
   of High Performance Cold Mix Asphalt (Tender T13-104)
 
 Recommendation:  That, on the
@@ -140,7 +135,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;2014 Infrastructure
   Renewal Projects - Trees
 
 That, on the recommendation of Director,
@@ -192,7 +186,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Ministry of the
   Environment Inspection Report for the City of London Water Distribution
   System - 2013
 
@@ -219,7 +212,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Community Energy
   Action Plan - Final Draft for Community Engagement
 
 Recommendation:  That, on the
@@ -271,7 +263,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Intersection
   Improvements - Richmond Street and Fanshawe Park Road
 
 Recommendation:  That the following actions
@@ -316,7 +307,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;1st Report of the
   Transportation Advisory Committee
 
 Recommendation:  That the following actions

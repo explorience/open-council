@@ -17,7 +17,6 @@ December 14, 2020, at  4:00 PM
 
 The meeting is called to order at 4:00 PM, with Councillor P. Squire in the Chair, Councillors S. Lewis, S. Lehman and A. Hopkins present and all other Members participating by remote attendance
 
-# 1.&nbsp;&nbsp;&nbsp;Call to Order
 
 ## 1.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
@@ -46,7 +45,6 @@ That Councillor Hopkins BE ELECTED as Vice Chair of the Planning and Environment
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Lehman
 
@@ -175,7 +173,6 @@ That the Building Division Monthly Report for October 2020 BE RECEIVED for infor
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Application - Draft Plan of Vacant Land Condominium - 3542 Emilycarr Lane 39CD-19516
 
@@ -418,11 +415,9 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List 
 
@@ -522,7 +517,6 @@ g)  clauses 1.1 and 2.1 and 3.1 to 3.3, inclusive, BE RECEIVED for information.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 4:51 PM.
 

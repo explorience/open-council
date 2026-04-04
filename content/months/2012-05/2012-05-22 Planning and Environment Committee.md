@@ -15,10 +15,8 @@ May 22, 2012, at  4:04 PM
 > [!abstract]- Also Present:
 > J.F. Fontana, J. Page, C. Saunders, C. Smith, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests are disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Properties located
   at 73, 77, 81 and 91 Southdale Road East and 3021 and 3033 White Oak Road
 
 Recommendation:  That, on the

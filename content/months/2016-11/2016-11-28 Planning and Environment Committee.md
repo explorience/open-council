@@ -12,7 +12,6 @@ November 28, 2016, at  4:00 PM
 > [!abstract]- Also Present:
 > J. Morgan, H.L. Usher, J. Adema, G. Barrett, P. Christiaans, M. Corby, A. Dunbar, M. Elmadhoon, J.M. Fleming, S. Galloway, T. Grawey, P. Kokkoros, G. Kotsifas, T. Macbeth, A. MacLean, A. Macpherson, L. Mottram, A. Ostrowski, J. Ramsay, C. Saunders, E. Soldo, S. Spring, J. Stanford, M. Tomazincic, B. Turcotte
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that Councillor S. Turner
@@ -23,7 +22,6 @@ That it BE NOTED that Councillor S. Turner
   by indicating that his employer deals with regulatory parameters which may
   relate to these matters.
 
-# 2.&nbsp;&nbsp;&nbsp;12th Report of the
   Environmental and Ecological Planning Advisory Committee
 
 That, the following actions be taken with
@@ -137,7 +135,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;6th Report of the
   Agricultural Advisory Committee
 
 That the following actions be taken with
@@ -204,7 +201,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT - River
   Bend South Subdivision (Phase 1) and River Bend Trib C Facilities SWM Land
   (Facilities F and G) (39T-14505 and 39T-14503)
 
@@ -272,7 +268,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;STAFF REPORT - Properties
   located at 2211, 2217, 2221, 2225, 2229, 2244, 2252 and 2258 Wateroak Drive
   (H-8337)
 
@@ -315,7 +310,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;STAFF REPORT - Property
   located at 1960 Dalmagarry Road (H-8707)
 
 That, on the recommendation of the Senior
@@ -346,7 +340,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Victoria on the River Subdivision - Phase 3 (H-8622)
 
 That, on the recommendation of the Senior
@@ -382,7 +375,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;STAFF REPORT - Property
   located at 2506 Bonder Road (H-8708)
 
 That, on the recommendation of the Senior
@@ -413,7 +405,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Ontario Municipal Board Review 2016
 
 That, the following actions be taken with
@@ -456,7 +447,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Building Division Monthly Report for September 2016
 
 That the Building Division monthly report
@@ -479,7 +469,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Property located at 545 Fanshawe Park Road West
   (Z-8633)
 
@@ -675,7 +664,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Property located at 2156 Highbury Avenue North
   (Z-8688)
 
@@ -774,7 +762,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Property located at 551 Knights Hill Road (Z-8675)
 
 That, on the recommendation of the Managing
@@ -886,7 +873,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Southwest Area Secondary Plan (O-8680)
 
 That, the application of Old Oak Properties
@@ -966,7 +952,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Property located at 2619 Sheffield Boulevard -
   Application for Vacant Land Condominium (39CD-16513)
 
@@ -1078,7 +1063,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Property located at 4166 Scotland Drive (Z-8669)
 
 That, on the recommendation of the Managing
@@ -1174,7 +1158,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;COUNCIL MEMBER
   SUBMISSION - Industrial Operations Shaver-Brockley Area
 
 The Civic Administration BE DIRECTED to report

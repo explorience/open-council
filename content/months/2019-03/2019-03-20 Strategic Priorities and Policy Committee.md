@@ -17,7 +17,6 @@ March 20, 2019, at  3:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it be noted that the following pecuniary interests were disclosed:
 
@@ -29,11 +28,9 @@ c)     Councillor S. Lehman advises that he is currently in consultation wit
 
 d)     Councillor S. Turner advises that he is currently in consultation with the Integrity Commissioner as to whether he has a pecuniary interest in item 3.1, specifically related to project 2 - Wellington Road Gateway, and will confirm any pecuniary interest as appropriate.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Investing in Canada Infrastructure Program Public Transit Stream Transportation Project List for Consideration
 
@@ -157,15 +154,12 @@ Motion to close the Public Participation Meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 7:50 PM.
 

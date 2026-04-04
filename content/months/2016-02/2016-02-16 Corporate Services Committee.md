@@ -12,13 +12,11 @@ February 16, 2016, at  9:00 AM
 > [!abstract]- Also Present:
 > J. Helmer, A. Hopkins, M. Salih, P. Squire; A. Zuidema, J.P. Barber, S. Datars Bere, P. Foto, M. Hayward, V. McAlea Major, A. Prince, M. Ribera
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Additional
   Municipal Act Reporting Requirements Due to Implementation of Tangible
   Capital Assets
 
@@ -44,7 +42,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Workplace and
   Community Diversity and Inclusion Update
 
 That, on the recommendation of the Managing
@@ -93,7 +90,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Outstanding London
   Ambassador Award
 
 That the following actions be taken with
@@ -127,7 +123,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;ADDED - Anderson
   Craft Ales Ltd. Manufacturer's Limited Liquor Sales Licence Application
 
 That the application of Anderson Craft Ales

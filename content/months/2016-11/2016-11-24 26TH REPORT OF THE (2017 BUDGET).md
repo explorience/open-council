@@ -15,7 +15,6 @@ November 24, 2016, at  1:02 PM
 > [!abstract]- Also Present:
 > A. Zuidema, L. Bruni, I. Collins, B. Coxhead, S. Datars Bere, A. Dunbar, J.M. Fleming, M. Hayward, G. Kotsifas, L. Livingstone, D. Mounteer, K. Murray, L. Palarchio, C. Parsons, A. Patis, M. Ribera, C. Saunders, K. Scherr, J. Senese, B. Westlake-Power, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That
@@ -41,7 +40,6 @@ ii)            
   matters pertaining to the Middlesex-London Health Unit (MLHU) by indicating
   that he is an employee of the MLHU.
 
-# 2.&nbsp;&nbsp;&nbsp;CORPORATE OPERATING
   AND CAPITAL BUDGETS
   (rounded to the closest $1,000)
 
@@ -919,7 +917,6 @@ Motion Passed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;WATER AND
   WASTEWATER & TREATMENT BUDGETS
   (rounded to the closest $1,000)
 
@@ -1063,7 +1060,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;ADDED - STAFF
   REPORT - 2016-2019 Multi-Year Budget - 2017 Annual Budget Update - Financing
   Options to Mitigate Tax Rate Increases
 
@@ -1093,7 +1089,6 @@ Motion Passed
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;ADDED - STAFF
   REPORT - 2016-2019 Multi-Year Budget Amendment Form - Case #21
 
 That free public transit ridership, for all
@@ -1122,7 +1117,6 @@ Motion Passed
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;ADDED - STAFF
   REPORT - 2017 Annual Budget Update - Public Input
 
 That, on the recommendation of the
@@ -1149,7 +1143,6 @@ Motion Passed
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;ADDED - COUNCIL
   MEMBER SUBMISSION - Absence from Meetings
 
 That the communication dated November 20,

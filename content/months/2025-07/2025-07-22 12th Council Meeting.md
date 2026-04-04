@@ -17,21 +17,17 @@ July 22, 2025, at  1:00 PM
 
 The meeting is called to order at 1:03 PM; it being noted that Councillor E. Peloza (at 5:58 PM) was in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that Councillor C. Rahman disclosed a pecuniary interest in item 8, clause 2.8, of the 11th Report of the Community and Protective Services Committee, having to do with RFT 2025-041 Bridging Supports - Housing Stability Services, by indicating that Fanshawe College is her employer.
 
 That it BE NOTED Councillor S. Lehman discloses a pecuniary interest in item 15, clause 5.2, of the 11th Report of the Community and Protective Services Committee, having to do with the Funding Request for Hamilton Road BIA and the Old East Village, by indicating that he is a member of the Downtown London Business Association.
 
-# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
 
 > Motion made by D. Ferreira
 
@@ -168,7 +164,6 @@ That Council convenes In Closed Session, from 1:13 PM to 1:48 PM.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
 ## 5.1&nbsp;&nbsp;&nbsp;11th Meeting held on June 24, 2025
 
@@ -203,7 +198,6 @@ That the Minutes of the 11th Meeting of the Municipal Council, held on June 24, 
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 > Motion made by A. Hopkins
 
@@ -362,11 +356,9 @@ That the following communications BE RECEIVED, and BE REFERRED as noted on the A
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 None.
 
-# 8.&nbsp;&nbsp;&nbsp;Reports
 
 ## 8.1&nbsp;&nbsp;&nbsp;12th Report of Infrastructure and Corporate Services Committee
 
@@ -2516,7 +2508,6 @@ it being noted that the Strategic Priorities and Policy Committee received a pre
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 At 7:00 PM, Councillor S. Stevenson leaves the meeting.
 
@@ -2608,19 +2599,15 @@ That progress was made with respect to items 4.5, 4.6, 4.8, 4.9, 4.10. 4.11 and 
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-# 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 None.
 
-# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 
 None.
 
-# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 > Motion made by S. Lewis
 
@@ -2991,7 +2978,6 @@ That Third Reading and Enactment of Bill No. 275 to Bill No. 301, and Added Bill
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by D. Ferreira
 
@@ -3005,7 +2991,6 @@ The meeting adjourned at 7:16 PM.
 
 ****
 
-# Appendix: New Bills
 
 > [!abstract]- The following Bills are enacted as By-laws of The Corporation of the City of London:
 > **Bill No. 275**

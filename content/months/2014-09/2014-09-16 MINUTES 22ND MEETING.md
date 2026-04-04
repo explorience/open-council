@@ -18,22 +18,17 @@ September 16, 2014, at  5:04 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 5:04 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
-# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE TWENTY-FIRST MEETING HELD ON SEPTEMBER 2,
   2014
 
@@ -69,10 +64,8 @@ Motion Passed
 
 ****
 
-# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
-# 2.&nbsp;&nbsp;&nbsp;Installation of
   Sidewalks  on Shavian Blvd.
 
 That, on the recommendation of Managing
@@ -121,12 +114,9 @@ Motion Passed
 
 ****
 
-# VIII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# IX.&nbsp;&nbsp;&nbsp;REPORTS
 
-# IV.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
 MOTION FOR IN CAMERA SESSION
@@ -227,9 +217,7 @@ Motion Passed
 
 ****
 
-# V.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# 3.&nbsp;&nbsp;&nbsp;Properties located
   at 1195 Fanshawe Park Road West and 2151 Dalmagarry Road (H-8388)
 
 That, on the recommendation of the Manager,
@@ -244,7 +232,6 @@ That, on the recommendation of the Manager,
   Provision (NSA5 (6)) Zone to remove the holding “h-120 and h-171”
   provisions.   (2014-D14)
 
-# 4.&nbsp;&nbsp;&nbsp;Property located at
   1057 Richmond Street
 
 That, on the recommendation of the Managing
@@ -254,7 +241,6 @@ That, on the recommendation of the Managing
   designation under the Ontario Heritage Act for the property located at 1057
   Richmond Street. (2014-P10D)
 
-# 5.&nbsp;&nbsp;&nbsp;Victoria on the
   River Subdivision - Phase 1 (formerly 1603 Hamilton Road) (H-8403)
 
 That, on the recommendation of the Senior
@@ -269,7 +255,6 @@ That, on the recommendation of the Senior
   TO a holding Residential R1 (h-100-R1-4) Zone to remove the holding (h)
   provision. (2014-D14)
 
-# 6.&nbsp;&nbsp;&nbsp;Property located at
   1959 Wharncliffe Road South (Foxwood Crossing - Phase 2) - Request for
   Extension - Draft Plan (39T-07507)
 
@@ -295,7 +280,6 @@ b)         the
   Estimated Costs and Revenues" as appended to the staff report dated
   September 9, 2014, as Appendix “A”.   (2014-D12)
 
-# 7.&nbsp;&nbsp;&nbsp;Properties located
   at 181 and 199 Commissioners Road East - Highland Green Subdivision -
   Extension to Draft Plan of Subdivision Approval (39T-08501)
 
@@ -319,7 +303,6 @@ b)         the
   Estimated Costs and Revenues" as appended to the staff report dated
   September 9, 2014, as Schedule “B”.   (2014-D12)
 
-# 8.&nbsp;&nbsp;&nbsp;Property located at
   1070 Gainsborough Road (H-8398)
 
 That, on the recommendation of the Senior
@@ -332,7 +315,6 @@ That, on the recommendation of the Senior
   Commercial (h-17*BDC) Zone TO a Business District Commercial (BDC) Zone to
   remove the holding “h-17” provision. (2014-D14)
 
-# 9.&nbsp;&nbsp;&nbsp;Property located at
   1139 Fanshawe Park Road West (H-8337)
 
 That, on the recommendation of the Senior
@@ -362,7 +344,6 @@ b)         the
   stormwater management pond outlet channel located within this parcel is
   decommissioned.   (2014-D14)
 
-# 10.&nbsp;&nbsp;&nbsp;Property located at
   312 Sunningdale Road West - Request for Extension of Draft Approval
   (39T-10502)
 
@@ -387,7 +368,6 @@ b)         the
   Estimated Costs and Revenues" as appended to the staff report dated
   September 9, 2014, as Appendix “A”.   (2014-D12)
 
-# 11.&nbsp;&nbsp;&nbsp;Cedarhollow
   Subdivision - Phase 3 (39T-03518)
 
 That, on the recommendation of the Senior
@@ -414,7 +394,6 @@ c)         the
   amending agreements and all related documents required to fulfill its
   conditions.   (2014-D12)
 
-# 12.&nbsp;&nbsp;&nbsp;Powell-Uplands
   North Subdivision - Phase 3 (39T-05510)
 
 That, on the recommendation of the Senior
@@ -447,7 +426,6 @@ d)         the
   amending agreements and all related documents required to fulfill its
   conditions.   (2014-D12)
 
-# 13.&nbsp;&nbsp;&nbsp;Property located at
   312 Oxford Street East
 
 That, the written objection submitted by
@@ -465,7 +443,6 @@ it being further pointed out that at the
   indicated on the attached public participation meeting record made
   oral submissions in connection therewith.   (2014-D17)
 
-# 14.&nbsp;&nbsp;&nbsp;Property located at
   720 Proudfoot Lane (OZ-8375)
 
 That, on the recommendation of the Managing
@@ -492,7 +469,6 @@ it being pointed out that there were no
   oral submissions made at the public participation meeting associated with
   these matters.   (2014-D14)
 
-# 15.&nbsp;&nbsp;&nbsp;Wortley Village -
   Old South Heritage Conservation District
 
 That, on the recommendation of the Managing
@@ -551,7 +527,6 @@ it being further pointed out that at the
   indicated on the attached public participation meeting record made
   oral submissions in connection therewith.    (2014-D08)
 
-# 16.&nbsp;&nbsp;&nbsp;Property located at
   915 Queens Avenue
 
 That, on the recommendation of the Managing
@@ -567,7 +542,6 @@ it being pointed out that there were no
   oral submissions made at the public participation meeting associated with
   these matters.    (2014-P10D)
 
-# 19.&nbsp;&nbsp;&nbsp;Property located at
   2151 Dalmagarry Road and 1195 Fanshawe Park Road West (Z-8387)
 
 That, on the recommendation of the Managing
@@ -632,7 +606,6 @@ Motion Passed
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;Property located at
   2054 Adelaide Street North (39T-11502/OZ-7921)
 
 That, on the recommendation of the Senior
@@ -954,7 +927,6 @@ it being pointed out that there were no
   oral submissions made at the public participation meeting associated with
   these matters.   (2014-D12/D14)
 
-# 18.&nbsp;&nbsp;&nbsp;Lands south of
   Exeter Road, north of Dingman Drive, east of White Oak Road and west of the
   Marr Drain (O-8362)
 
@@ -1085,15 +1057,11 @@ Approve clauses 1 and 2.
 
 ****
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -1267,7 +1235,6 @@ Approve Third Reading and Enactment of
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

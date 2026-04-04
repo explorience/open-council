@@ -12,13 +12,11 @@ March 8, 2016, at  4:01 PM
 > [!abstract]- Also Present:
 > B. Armstrong, P. Hubert, T. Park, V. Ridley, M. Salih, P. Squire, H.L. Usher, J. Zaifman; G. Belch, J. Braam, T. Copeland, M. Elmadhoon, J. Fleming, T. Gaffney, J. Lucas, J. MacKay, D. MacRae, S. Mathers, D. O’Brien, D. Popodic, L. Rowe, J. Simon, J. Smout, E. Soldo, S. Spring, J. Stanford, A. Zuidema
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;3rd Report of the
   Cycling Advisory Committee
 
 That the 3rd Report of the Cycling Advisory
@@ -41,7 +39,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;W12A Landfill Site
   - Completion of the Environmental Screening Process
 
 That, on the recommendation of the Director
@@ -66,7 +63,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Contract Award:
   Tender No.16-05 - 2016 Infrastructure Renewal Program - Florence Street and
   Kellogg Lane Reconstruction Project
 
@@ -126,7 +122,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Contract Award:
   Tender No. 16-04 - 2016 Infrastructure Lifecycle Renewal Program - Contract
   10: Victoria Street
 
@@ -188,7 +183,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Subsurface Utility
   Engineering Investigation for the Downtown York and King Street Corridors
 
 That, on the recommendation of the Managing
@@ -239,7 +233,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Contract Award:
   Tender No. 15-102 - Fanshawe Park Road East Improvements - Adelaide Street
   North to McLean Drive
 
@@ -260,7 +253,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Hamilton Road and
   Highbury Avenue Intersection Improvements Environmental Assessment Update
 
 That, on the recommendation of the Managing
@@ -295,7 +287,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Roadmatrix Pavement
   Management System Services Award
 
 That, on the recommendation of the Managing
@@ -348,7 +339,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Bostwick Road
   Environmental Assessment - Wharncliffe Road West to Pack Road -  Appointment
   of Consulting Engineer
 
@@ -400,7 +390,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Pollution
   Prevention and Control Plan - Infoworks Modelling Consultant Appointments
 
 That, on the recommendation of the Managing
@@ -466,7 +455,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;"One
   River" - Master Plan Environmental Assessment
 
 That the following actions be taken with
@@ -751,7 +739,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;2nd Report of the
   Transportation Advisory Committee
 
 That the following actions be taken with
@@ -817,7 +804,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Landscape Materials
   on Boulevard Areas
 
 That the Civic Administration BE REQUESTED
@@ -843,7 +829,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;London's Neglected
   Sewer Infrastructure
 
 That the communication dated February 27,
@@ -867,7 +852,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the following actions be taken with

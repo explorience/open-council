@@ -12,13 +12,11 @@ February 29, 2016, at  3:00 PM
 > [!abstract]- Also Present:
 > A. Zuidema, A.L. Barbon, D. Bordin, M. Hayward, L. Peterdy (TD Securities) A. Ripepi, J. Senese
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests
   were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;2016 Debenture
   Issue Update
 
 That, on the recommendation of the Managing

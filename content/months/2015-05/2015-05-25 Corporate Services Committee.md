@@ -12,13 +12,11 @@ May 25, 2015, at  3:34 PM
 > [!abstract]- Also Present:
 > J. Helmer, P. Hubert, M. Salih, M. van Holst; A. Zuidema, R. Armistead, A.L. Barbon, K. Graham, K. Pawelec
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Canada 150 Funding
   Programs
 
 That, on the recommendation of the

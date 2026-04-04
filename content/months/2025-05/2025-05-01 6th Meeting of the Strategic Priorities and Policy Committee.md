@@ -20,11 +20,9 @@ May 1, 2025, at  1:00 PM
 
 The meeting is called to order at 1:00 PM; it being noted that Councillors S. Lehman and P. Van Meerbergen were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;Request for a Shareholder's Meeting - London Hydro Inc.
 
@@ -138,11 +136,9 @@ b)    that Civic Administration BE DIRECTED to forward the ReconciliAction Pla
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;London & Middlesex Community Housing Board of Directors Request for Extension of Terms
 
@@ -324,7 +320,6 @@ That the delegation requests from J. Salisbury and A. Roberts BE APPROVED to be 
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) 1st Report of the Governance Working Group
 
@@ -408,7 +403,6 @@ b)    the proposed by-law, as appended to the staff report dated May 1, 2025 a
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Provided to Members only.)
 
 > Moved by D. Ferreira
 
@@ -452,7 +446,6 @@ The Strategic Priorities and Policy Committee convenes In Closed Session from 2:
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by A. Hopkins
 

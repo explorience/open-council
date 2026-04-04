@@ -12,7 +12,6 @@ March 27, 2017, at  4:00 PM
 > [!abstract]- Also Present:
 > M. van Holst, J. Zaifman; G. Bailey, M. Corby, M. Elmadhoon, J.M. Fleming, K. Gonyou, T. Grawey, P. Kokkoros, G. Kotsifas, J. MacKay, A. MacLean, A. Macpherson, J. Ramsay, M. Ribera, A. Riley, C. Saunders, M. Tomazincic, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that Councillor A. Hopkins
@@ -20,7 +19,6 @@ That it BE NOTED that Councillor A. Hopkins
   the property located at 581 Ross Street, by indicating that her son owns rental
   property in the Near Campus Neighbourhood.
 
-# 2.&nbsp;&nbsp;&nbsp;3rd Report of the
   Trees and Forests Advisory Committee
 
 That the 3rd Report of the Trees and
@@ -44,7 +42,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Powell Subdivision - Phase 4 (38T-15504)
 
 That, on the recommendation of the Manager,
@@ -91,7 +88,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT -  Properties
   located at 2870 and 2900 Tokala Trail (H-8717)
 
 That, on the recommendation of the Senior
@@ -121,7 +117,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Subdivision and Development Agreement Security Policy - 2016 Update
 
 That, on the recommendation of the Manager,
@@ -149,7 +144,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Annual Report on Building Permit Fees
 
 That, on the recommendation of the Managing
@@ -174,7 +168,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Building Division Monthly Report - February 2017
 
 That the Building Division monthly report
@@ -197,7 +190,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;DELEGATION - 4th
   Report of the London Advisory Committee on Heritage
 
 That the following actions be taken with
@@ -281,7 +273,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;DELEGATION - 3rd
   Report of the Environmental and Ecological Planning Advisory Committee
 
 That the following actions be taken with
@@ -353,7 +344,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;PUBLIC PARTICIPATION
   MEETING – Property located at 581 Ross Street (Z-8695)
 
 That, on the recommendation of the Managing
@@ -458,7 +448,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Property located at 34 Muir Street - Demolition
   Request
 
@@ -539,7 +528,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING  - Properties located at 1013, 1133, 1170 and 1250
   Meadowlark Ridge (Z-8726/P-8727)
 
@@ -692,7 +680,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;DELEGATION - Property
   located at  300 Dundas Street - Retroactive Tax Grant Incentive Program
 
 That, on the recommendation of the Managing
@@ -721,7 +708,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Trail Planning in
   the Riverbend South Area
 
 That the verbal presentation from A.
@@ -745,7 +731,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;4th Report of the
   Advisory Committee on the Environment
 
 That the following actions be taken with
@@ -792,7 +777,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;STAFF REPORT - Properties
   located at 100 Fullarton Street, 475-501 Talbot Street and 93-95 Dufferin
   Avenue - Brownfield CIP Incentives
 
@@ -822,7 +806,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the Civic Administration BE DIRECTED

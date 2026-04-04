@@ -22,11 +22,9 @@ January 6, 2026, at  1:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;HL General Partner Inc. - Application of Brownfield Community Improvement Plan Incentives
 
@@ -79,7 +77,6 @@ v)   the City of London receives any additional information requested in the ab
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;574 First Street - Z-25142
 
@@ -1140,7 +1137,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;School Block Status Update Report.
 
@@ -1204,11 +1200,9 @@ That the delegation request from B. Puzanov, Thames Valley District School Board
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by P. Cuddy
 

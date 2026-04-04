@@ -12,10 +12,8 @@ March 2, 2015, at  4:02 PM
 > [!abstract]- Also Present:
 > M. Brown, B. Armstrong, A. Hopkins, J. Morgan, T. Park, V. Ridley, M. Salih, H. Usher, M. van Holst, J. Zaifman, G. Barrett, G. Belch, P. Christiaans, M. Corby, M. Elmadhoon, J.M. Fleming, S. Galloway, K. Gonyou, T. Grawey, M. Hayward, G. Kotsifas, T. MacBeth, A. MacLean, A. Macpherson, S. Meksula, D. Menard, D. Mounteer, N. Pasato, D. Popadic, J. Ramsay, M. Ribera, C. Saunders, C. Smith, M. Tomazincic, B. Warner, A-B Watson, J. Yanchula, A. Zuidema
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;3rd Report of the
   Environmental and Ecological Planning Advisory Committee
 
 Recommendation:  That the 3rd Report of the
@@ -39,7 +37,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;3rd Report of the
   Advisory Committee on the Environment
 
 Recommendation:  That the 3rd Report of the
@@ -63,7 +60,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;"Our Move
   Forward" London's Downtown Plan
 
 Recommendation:  That, “Our Move Forward”
@@ -87,7 +83,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Property located at
   2054 Adelaide Street North - Appeal of Official Plan and Zoning By-law
   Amendments to the Ontario Municipal Board (OZ-7921)
 
@@ -131,7 +126,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Property located at
   8477 Longwoods Road (Z-8111)
 
 Recommendation:  That, on the
@@ -208,7 +202,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Property located at
   3446 Gore Road (Z-8428)
 
 Recommendation:  That, on the
@@ -286,7 +279,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Property located at
   2040 Shore Road (39CD-14522)
 
 Recommendation:  That, on the
@@ -370,7 +362,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Development Charges
   Grant Program for Downtown and Old East Village Community Improvement Plan
   (CIP) Areas
 
@@ -482,7 +473,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;3rd Report of the
   London Advisory Committee on Heritage
 
 Recommendation:  That, the following
@@ -592,7 +582,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Heritage Building
   Retention - Old Victoria Hospital Lands
 
 Recommendation:  That, the following
@@ -770,7 +759,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Property located at
   161 Windermere Road (Z-8167)
 
 Recommendation:  That, the application of
@@ -824,7 +812,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Commercial Corridor
   Along Commissioners Road East
 
 Recommendation:  That, the communication

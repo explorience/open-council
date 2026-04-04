@@ -18,7 +18,6 @@ January 7, 2020, at 12:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Call to Order
 
 ## 1.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
@@ -45,7 +44,6 @@ That Councillor E. Peloza BE ELECTED Vice-Chair of the Civic Works Committee for
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by M. Cassidy
 
@@ -308,11 +306,9 @@ That, on the recommendation of the Managing Director, Development and Compliance
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Traffic Calming Measures
 
@@ -410,7 +406,6 @@ Motion to receive the presentation from A.M. Valastro.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -485,7 +480,6 @@ That the 1st report of the Cycling Advisory Committee BE REFERRED back to the CA
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by P. Van Meerbergen
 

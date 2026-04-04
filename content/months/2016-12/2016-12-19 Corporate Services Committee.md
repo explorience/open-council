@@ -12,7 +12,6 @@ December 19, 2016, at  3:15 PM
 > [!abstract]- Also Present:
 > M. Cassidy, A. Hopkins, V. Ridley, P. Squire, M. van Holst; D. Mounteer, C. Saunders
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary

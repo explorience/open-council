@@ -17,11 +17,9 @@ December 12, 2023, at  4:00 PM
 
 The meeting is called to order at 4:03 PM; it being noted that Councillor S. Hillier was in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by H. McAlister
 
@@ -407,7 +405,6 @@ Pursuant to section 33.4 of the Council Procedure By-law and at the joint reques
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Not to be heard before 4:00 PM - Release of the Draft 2024 - 2027 Multi-Year Budget
 
@@ -448,7 +445,6 @@ it being noted that the following document was provided to the Members, and is a
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Deputy Mayor S. Lewis and Councillor S. Franke - Submission Regarding Progress Update - Health and Homelessness Whole of Community System Response
 
@@ -570,11 +566,9 @@ it being noted that the Strategic Priorities and Policy Committee received a com
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by C. Rahman
 
@@ -624,7 +618,6 @@ The Strategic Priorities and Policy Committee convenes In Closed Session from 10
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by P. Van Meerbergen
 

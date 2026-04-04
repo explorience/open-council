@@ -22,11 +22,9 @@ June 9, 2025, at  1:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by P. Cuddy
 
@@ -271,11 +269,9 @@ That the staff report dated June 9, 2025 with respect to the Updated Highly Supp
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Communication - City of London's Municipal Rent Assistance Program (MRAP) - Councillor D. Ferreira
 
@@ -384,11 +380,9 @@ That the Civic Administration BE DIRECTED to prepare an update for the August 11
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by S. Trosow
 

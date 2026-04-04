@@ -12,10 +12,8 @@ April 22, 2013, at  4:02 PM
 > [!abstract]- Also Present:
 > B. Armstrong, B. Polhill; G. Belch, J. Braam, A. Dunbar, J. Emeljanow (Valcoustics Canada Ltd.), K. Grabowski, A. Henry, J. Matthews (Dillon Consulting), D. MacRae, M. Ribera, L. Rowe, E. Soldo, J. Stanford, S. Stanlake (Dillon Consulting)
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Dundas Street and
   Hale Street Intersection Modifications
 
 Recommendation:  That, on the
@@ -23,7 +21,6 @@ Recommendation:  That, on the
   dated April 22, 2013 with respect to the Dundas Street and Hale Street
   intersection modifications BE RECEIVED for information.
 
-# 3.&nbsp;&nbsp;&nbsp;2013 Infrastructure
   Lifecycle Renewal Program Contract 6: Clemens, Rabb and Landor Streets
   Reconstruction (Tender No. 13-37)
 
@@ -71,7 +68,6 @@ e)         the
   other documents, if required, to give effect to these recommendations.  
   (2013-L04)
 
-# 4.&nbsp;&nbsp;&nbsp;West Brough's
   Bridge Rehabilitation ( Tender No. 13-17 )
 
 Recommendation:  That, on the
@@ -119,7 +115,6 @@ g)         the
   other documents, if required, to give effect to these recommendations.  
   (2013-L04)
 
-# 5.&nbsp;&nbsp;&nbsp;2013 Infrastructure
   Lifecycle Renewal Program Contract 9: Burbrook Place Reconstruction (Tender
   No. 13-20)
 
@@ -172,7 +167,6 @@ g)         the
   other documents, if required, to give effect to these recommendations.  
   (2013-L04)
 
-# 6.&nbsp;&nbsp;&nbsp;W12A Landfill Site
   - Cell 7 Landfill Base and Leachate Collection System Construction (Tender
   No. 13-48 )
 
@@ -217,7 +211,6 @@ f)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or
   other documents, if required, to give effect to these recommendations.  (2013-L04)
 
-# 7.&nbsp;&nbsp;&nbsp;Hyde Park No. 4
   Stormwater Management Facility and Stanton Drain Remediation Contract
 
 Recommendation:  That, on the
@@ -257,7 +250,6 @@ f)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or
   other documents, if required, to give effect to these recommendations.  (2013-L04)
 
-# 8.&nbsp;&nbsp;&nbsp;Municipal Class
   Environmental Assessment Schedule 'B ' Study for the Dayus Creek Drainage
   Area Storm/Drainage and Stormwater Management Remediation/Servicing Works
 
@@ -279,7 +271,6 @@ c)         the
   Area Storm/Drainage and SWM Remediation/Servicing Works BE PLACED on
   public record for a 30-day review period.  (2013-E20)
 
-# 9.&nbsp;&nbsp;&nbsp;Veterans Memorial
   Parkway Noise Study
 
 Recommendation:  That, on the recommendation
@@ -444,7 +435,6 @@ it being pointed out that at the public
 it being noted that L. Munds, 28-511
   Admiral Avenue, was not in attendance to speak to this matter.  (2013-T04A)
 
-# 10.&nbsp;&nbsp;&nbsp;Sarnia Road to
   Sleightholme Avenue Environmental Study Report
 
 Recommendation:  That, on the recommendation
@@ -488,7 +478,6 @@ it being pointed out that at the public
   Treveithick, 557 Leyton Crescent - providing comments as outlined in the attached
   communication.  (2013-E20)
 
-# 11.&nbsp;&nbsp;&nbsp;Hamilton Road Old-Victoria
   Road to Veterans Memorial Parkway Environmental Study Report.
 
 Recommendation:  That, on the
@@ -526,7 +515,6 @@ it being pointed out that at the public
   asking how the proposed widening will affect the north side and 1814 Hamilton
   Road.  (2013-E20/T04B)
 
-# 12.&nbsp;&nbsp;&nbsp;3rd Report of the
   Transportation Advisory Committee
 
 Recommendation:  That, the following

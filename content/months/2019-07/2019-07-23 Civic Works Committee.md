@@ -20,11 +20,9 @@ July 23, 2019, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Lehman
 
@@ -286,7 +284,6 @@ e)            the Mayor and the City Clerk BE AUTHORIZED to execute a
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Sewer Private Drain Connection Policy Review Results: Proposed Drainage By-law (WM-4) and Wastewater & Stormwater By-law (WM-28) Amendments
 
@@ -366,7 +363,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Parking By-law Amendment - S. Kohn, 553 Pall Mall Street
 
@@ -459,7 +455,6 @@ That the report dated July 23, 2019 relating to winter maintenance program supp
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -527,7 +522,6 @@ That it BE NOTED that the 7th Report of the Cycling Advisory Committee, from its
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 > Moved by S. Lewis
 
@@ -555,7 +549,6 @@ The Civic Works Committee convened in Closed Session from 5:25 PM to 6:12 PM.
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 6:49 PM.
 

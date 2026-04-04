@@ -12,7 +12,6 @@ November 26, 2013, at  1:06 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, A.L. Barbon, G. Belch, U. Bos, J. Edward, A. Hagan, M. Hayward, J. Logan, V. McAlea Major, J. Page, C. Saunders, R. Sharpe, T. Thompson, M. Turner, B. Warner
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that Councillor
@@ -21,7 +20,6 @@ Recommendation:  That it BE NOTED that Councillor
   Ecological Planning Advisory Committee, by indicating that the applicant is a
   neighbour and a friend.
 
-# 2.&nbsp;&nbsp;&nbsp;Lease Agreement -
   London Police Services Board - 42 St. Julien Street
 
 Recommendation:  That, on the
@@ -59,7 +57,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Extension of Realty
   Services - Agency of Record Agreement
 
 Recommendation:  That consideration of the
@@ -88,7 +85,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;City of London
   Community Suite
 
 Recommendation:  That the following actions
@@ -128,7 +124,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;City of London Days
   - Budweiser Gardens
 
 Recommendation:  That, on the
@@ -156,7 +151,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Council Service
   London Team
 
 Recommendation: 
@@ -191,7 +185,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;RFP 13-09 - Network
   Modernization
 
 Recommendation:  That, on the
@@ -238,7 +231,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;RFP 13-14 - Storage
   Area Network, Back-Up and Recovery Renewal
 
 Recommendation:  That, on the
@@ -286,7 +278,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Apportionment of
   Taxes
 
 That, on the recommendation of the Deputy
@@ -336,7 +327,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Appointment to the
   Environmental and Ecological Planning Advisory Committee
 
 Recommendation:  That Derek Ellis BE

@@ -17,35 +17,27 @@ November 27, 2024, at  1:00 PM
 
 The meeting is called to order at 1:03 PM; it being noted that Councillors S. Trosow, P. Van Meerbergen, D. Ferreira and S. Hillier were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED Councillor S. Lehman discloses a pecuniary interest in item 18, clause 3.12 of the 6th Report of the Budget Committee having to do with the Amendment  "Grant - Economic Development Reserve Fund - Councillor D. Ferreira - LDBA for Improving Safety/Security, Property Damage Grants", by indicating that it relates to grants for Downtown London Business Association and the Councillor indicates they are member of the association.
 
-# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 None.
 
-# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 None.
 
-# 8.&nbsp;&nbsp;&nbsp;Reports
 
 ## 8.1&nbsp;&nbsp;&nbsp;4th Report of the Budget Committee
 
@@ -659,23 +651,18 @@ That it BE NOTED that the Budget Committee considered an amendment to the Mayor'
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 None.
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-# 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 None.
 
-# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 
 None.
 
-# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 > Motion made by P. Cuddy
 
@@ -761,7 +748,6 @@ That Third Reading of Bill No. 398, BE APPROVED.
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by P. Cuddy
 

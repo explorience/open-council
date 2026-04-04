@@ -12,10 +12,8 @@ May 13, 2014, at  4:30 PM
 > [!abstract]- Also Present:
 > J.F. Fontana, D. Brown, S. Orser, M. Elmadhoon, J.M. Fleming, S. Galloway, T. Grawey, M. Henderson, B. Henry, G. Kotsifas, B. Krichker, A. MacLean, L. Pompilii, M. Ribera, C. Saunders, M. Tomazincic, S. Wilson, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;5th Report of the
   Environmental and Ecological Planning Advisory Committee
 
 Recommendation:  That the 5th Report of the
@@ -37,7 +35,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Properties located
   at 56-82 Wellington Street, 283-323 South Street and 69-77 Waterloo Street
   (OZ-8114)
 
@@ -67,7 +64,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Property located at
   1671 Fanshawe Park Road East - Cedarhollow Draft Plan - Request for Extension
   of Draft Approval (39T-03518)
 
@@ -103,7 +99,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Properties located
   at 3924 and 4138 Colonel Talbot Road (39T-12503/OZ-8052)
 
 Recommendation:  That, on the
@@ -129,7 +124,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Southside
   Construction of Companies - 3804 South Winds Drive – Appeal to the
   Ontario Municipal Board
 
@@ -174,7 +168,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Properties located
   at 583, 585 and 589 Oxford Street East
 
 Recommendation:  That, on the
@@ -270,7 +263,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Entertainment on
   Outdoor Patios (Z-8335)
 
 Recommendation:  That, on the
@@ -362,7 +354,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;4th Report of the
   Trees and Forests Advisory Committee
 
 Recommendation:  The following actions be
@@ -403,7 +394,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Property located at
   1103 Adelaide Street North
 
 Recommendation:  That, the Civic
@@ -437,7 +427,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Property located at
   230 Victoria Street
 
 Recommendation:  That the attached

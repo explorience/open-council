@@ -12,7 +12,6 @@ November 10, 2015, at  8:34 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, V. McAlea Major
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary

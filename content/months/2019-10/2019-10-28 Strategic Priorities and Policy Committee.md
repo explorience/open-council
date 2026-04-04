@@ -17,11 +17,9 @@ October 28, 2019, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Councillor M. Salih disclosed a pecuniary interest in Item 2.1 of this Report, having to do with the Free of Fear Services for All Policy, by indicating that he is employed by the Federal Government.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by J. Helmer
 
@@ -164,7 +162,6 @@ e) section 9 by adding the wording, “or the Labour Market Index, whichever of 
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Public Participation Meeting - Not to be heard before 4:05 PM - Amendments to Consolidated Fees and Charges By-law
 
@@ -286,7 +283,6 @@ That the implementation of a user fee for Electric Vehicle Charging BE REMOVED f
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Request for Second Term Appointments to the Greater London International Airport Authority Board of Directors
 
@@ -706,7 +702,6 @@ That Councillor S. Lewis BE APPOINTED Chair of the Community and Protective Serv
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) City Manager Search Committee - Terms of Reference
 
@@ -740,7 +735,6 @@ That, on the recommendation of the City Clerk, the Terms of Reference for the Ci
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 8:02 PM.
 

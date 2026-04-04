@@ -17,11 +17,9 @@ June 24, 2019, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Councillor J. Morgan discloses a pecuniary interest in Item 3.3 e) having to do with consideration of appointments to the London Hydro Inc. Board of Directors, by indicating that one of the applicants has role in his employment performance assessment with Western University.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;London Economic Development Corporation Purchase of Services Amending Agreement
 
@@ -69,7 +67,6 @@ b)            the Civic Administration BE DIRECTED to continue to wor
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Housing Development Corporation, London - 2018 Annual Meeting of the Shareholder Annual Resolutions
 
@@ -406,7 +403,6 @@ That the interviews, noted in part e), above, BE CONDUCTED by the Corporate Serv
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;3rd Report of the Governance Working Group
 
@@ -494,11 +490,9 @@ That the communication dated June 24, 2019 from Councillor Shawn Lewis resigning
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by E. Peloza
 
@@ -531,7 +525,6 @@ The Strategic Priorities and Policy Committee convened In Closed Session from 6:
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 7:13 PM.
 

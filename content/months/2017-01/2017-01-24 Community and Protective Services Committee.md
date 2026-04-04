@@ -12,13 +12,11 @@ January 24, 2017, at  4:00 PM
 > [!abstract]- Also Present:
 > J. Helmer, P. Hubert, M. van Holst; D. Baxter, G. Bridge, B. Coxhead, S. Datars Bere, C. Da Silva, C. Deforest, T. Gaffney, O. Katolyk, J. Kobarda, L. Livingstone, A. Macpherson, S. Oldham, J. Richardson, J. Smout
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary interest
   were disclosed
 
-# 2.&nbsp;&nbsp;&nbsp;1st Report of the
   Diversity, Inclusion and Anti-Oppression Advisory Committee
 
 That the 1st Report of the Diversity,
@@ -42,7 +40,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Update on Mental Health and Addictions Strategy
 
 That, on the recommendation of the Managing
@@ -67,7 +64,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Ontario Early Years Child and Family Centres Planning and Transfer Payment
   Agreement
 
@@ -111,7 +107,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   London's Homeless Prevention System, Homelessness Partnering Strategy Funding
   Agreement Amendment 3
 
@@ -153,7 +148,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   London's Homeless Prevention System, Contract Award Request for Proposal
   16-57, Housing First Emergency Shelter for Youth Operator
 
@@ -211,7 +205,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   London's Homeless Prevention System, Contract Award Request for Proposal
   16-56 Homeless Management Information System Implementation Consultant
 
@@ -262,7 +255,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   London's Homeless Prevention System Community Homelessness Prevention
   Initiative Funding Allocation
 
@@ -288,7 +280,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;STAFF REPORT - Cold
   Beverage Vending Machines in City of London Recreation Facilities and City
   Hall
 
@@ -314,7 +305,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Parks and Recreation Strategic  Master Plan Interim Update
 
 That, on the recommendation of the Managing
@@ -340,7 +330,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Vehicle for Hire By-law
 
 That it BE NOTED that the Community and
@@ -418,7 +407,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Business Licensing
   By-law Review - General Provisions, Payday Loan Businesses and Door-to-Door
   Sales Business
 
@@ -541,7 +529,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;1st and 2nd Reports
   of the Animal Welfare Advisory Committee
 
 That the following actions be taken with
@@ -603,7 +590,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;1st Report of the
   London Housing Advisory Committee
 
 That the following actions be taken with
@@ -643,7 +629,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Ban on Outdoor Wood
   Burning
 
 That the delegation requests by M. Luce and
@@ -666,7 +651,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the January 2017 Deferred Matters List
@@ -689,7 +673,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;(ADDED) STAFF
   REPORT - Alternative Formats for Council and Standing Committee Agendas to
   Support Greater Participation in Local Government
 

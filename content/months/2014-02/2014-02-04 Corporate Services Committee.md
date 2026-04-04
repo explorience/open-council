@@ -12,13 +12,11 @@ February 4, 2014, at  1:07 PM
 > [!abstract]- Also Present:
 > J.L. Baechler; A. Zuidema, R. Armistead, B. Baar, J.P. Barber, S. Corman, J.M. Fleming, K. Graham, M. Hayward, G.T. Hopcroft, L. Livingstone, V. McAlea Major, D. Menard, D. Mounteer, M. Ribera, C. Saunders, S. Swance, M. Turner, B. Warner
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Additional
   Municipal Act Reporting Requirements Due to Implementation of Tangible
   Capital Assets
 
@@ -45,7 +43,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Licence Agreement
   Renewal - Management of Grosvenor Lodge - 1017 Western Road
 
 Recommendation:  That, on the
@@ -87,7 +84,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Licence Agreement
   Renewal - Management of the Elsie Perrin Williams Estate
 
 Recommendation:  That, on the
@@ -130,7 +126,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Hours of Voting at
   Certain Institutions and Retirement Homes
 
 Recommendation:  That, on the
@@ -155,7 +150,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Municipal Election
   Compliance Audit Committee
 
 Recommendation:  That, on the
@@ -200,7 +194,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Tax Adjustment
   Agenda
 
 Recommendation:  That the recommendations
@@ -249,7 +242,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Labatt Breweries -
   Tourism Exemption
 
 That the following actions be taken with
@@ -290,7 +282,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Consideration for
   Appointment to the Agricultural Advisory Committee
 
 Recommendation:  That Vince Trudell BE
@@ -314,7 +305,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;ADDED -
   Consideration of Appointment to the London Diversity and Race Relations
   Advisory Committee (Requires 1 Post-Secondary Student)
 
@@ -340,7 +330,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;ADDED
   – City-Owned Heritage Facilities
 
 Recommendation:  That the Managing
@@ -366,7 +355,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;ADDED – Disposition of City-Owned Lands
   Adjacent to 25 to 57 Stoneycreek Crescent
 
 Recommendation:  That the following actions

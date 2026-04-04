@@ -12,10 +12,8 @@ July 16, 2012, at  4:05 PM
 > [!abstract]- Also Present:
 > J. Braam, A. Dunbar, J.M. Fleming, B. Henry, P. Kokkoros, G. Kotsifas, B. Krichker, J. Leunissen, N. Mussico, D. O’Brien, J. Ramsay, M. Ribera, C. Smith, M. Tomazincic, B. Warner, J. Yanchula, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED no pecuniary interests were
   disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Processes Underway
   Relating to the South Street Campus Lands
 
 Recommendation:  That, on the
@@ -25,7 +23,6 @@ Recommendation:  That, on the
   westernmost block of these lands and the disposition process relating to
   surplus city-owned lands on this block, BE RECEIVED. (2012-A09-07)
 
-# 3.&nbsp;&nbsp;&nbsp;Forest Hill
   Subdivision (39T-99515)
 
 Recommendation:  That, on the
@@ -48,7 +45,6 @@ b)         the
   “Estimated Claims and  Revenues Report” provided as Appendix
   ‘39T-99515-A’ to the associated staff report, dated July 16, 2012.  (2012-D26-06)
 
-# 4.&nbsp;&nbsp;&nbsp;Property located at
   1602 Sunningdale Road West (OZ-7985)
 
 Recommendation:  That, on the
@@ -61,7 +57,6 @@ Recommendation:  That, on the
   reviewed its position relating to this matter and maintains its original
   position. (2012-D11-03)
 
-# 5.&nbsp;&nbsp;&nbsp;Delegation of
   Authority - Appointment of Deputy Chief Building Official
 
 Recommendation:  That, on the
@@ -73,13 +68,11 @@ Recommendation:  That, on the
   enforcement of the said Act”, to add one additional Deputy Chief Building
   Official in order to ensure continuity of service. (2012-G03-00)
 
-# 6.&nbsp;&nbsp;&nbsp;Building Division
   Monthly Report for May 2012
 
 Recommendation:  That the Building Division
   Monthly Report for May 2012 BE RECEIVED.   (2012-D05-00)
 
-# 7.&nbsp;&nbsp;&nbsp;Property located at
   75 Blackfriars Street (OZ-8048)
 
 Recommendation:  That, on the
@@ -255,7 +248,6 @@ it being
   Zone; and recommending that the zoning be appropriate for a residential area. 
    (2012-D11-07)
 
-# 8.&nbsp;&nbsp;&nbsp;Property located at
   1761 Wonderland Road North (OZ-7825)
 
 Recommendation:  That, on the
@@ -351,7 +343,6 @@ it being
   Developments application; and advising that this is part of a food store war.  
   (2012-D11-06)
 
-# 9.&nbsp;&nbsp;&nbsp;Properties located
   at 1197 York Street and 1201-1203 York Street (Z-8046)
 
 Recommendation:  That, notwithstanding the
@@ -387,7 +378,6 @@ it being
   Provincial Policy Statement; and advising that this application provides
   nothing new and is not a complicated issue.
 
-# 10.&nbsp;&nbsp;&nbsp;Property located at
   189 Langarth Street East
 
 Recommendation:  That on the recommendation
@@ -465,7 +455,6 @@ it being
   porch will meet people, not the driveway; and noting that they are not
   requesting an amendment to the Zoning By-law.    (2012-D25-00)
 
-# 11.&nbsp;&nbsp;&nbsp;Property located at
   191 Langarth Street East
 
 Recommendation:  That on the recommendation
@@ -543,7 +532,6 @@ it being
   porch will meet people, not the driveway; and noting that they are not
   requesting an amendment to the Zoning By-law.    (2012-D25-00)
 
-# 12.&nbsp;&nbsp;&nbsp;Building By-law
   Amendment
 
 Recommendation:  That, on the
@@ -555,7 +543,6 @@ Recommendation:  That, on the
   submissions made at the public participation meeting associated with this
   matter.  (2012-G05-00)
 
-# 13.&nbsp;&nbsp;&nbsp;Highbury Ford -
   1365 Dundas Street
 
 Recommendation:  That the Committee
@@ -564,7 +551,6 @@ Recommendation:  That the Committee
   of Highbury Ford, relating to the property located at 1365 Dundas Street, at
   the Planning and Environment Committee meeting to be held on July 23, 2012.  (2012-D25-00)
 
-# 14.&nbsp;&nbsp;&nbsp;Residential
   Policies in Flood Plain
 
 Recommendation:  The Civic Administration BE

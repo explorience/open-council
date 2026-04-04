@@ -17,11 +17,9 @@ March 19, 2025, at 10:00 AM
 
 The meeting is called to order at 10:02 AM; it being noted that Councillors S. Hillier and P. Van Meerbergen were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by P. Cuddy
 
@@ -349,15 +347,12 @@ That the motion, as amended, BE APPROVED.
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Strategic Opportunities Review Working Group Deferred Matters List
 
@@ -392,11 +387,9 @@ That the March 10, 2025 Deferred Matters List BE RECEIVED.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential 
 
 None.
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by S. Trosow
 

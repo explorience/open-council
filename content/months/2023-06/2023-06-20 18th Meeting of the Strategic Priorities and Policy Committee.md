@@ -20,11 +20,9 @@ June 20, 2023, at  4:00 PM
 
 The meeting is called to order at 4:02 PM; it being noted that Councillors P. Van Meerbergen and E. Peloza were in remoted attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;June Progress Update - Health and Homelessness Whole of Community System Response
 
@@ -174,7 +172,6 @@ it being noted that the Strategic Priorities and Policy Committee received a com
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Not to be heard before 4:05 PM - London Hydro Inc. - 2022 Annual General Meeting of the Shareholder Annual Resolutions
 
@@ -441,7 +438,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Lower Thames Valley Conservation Authority (LTVCA) and Kettle Creek Conservation Authority (KCCA) - Ministry of Natural Resources and Forestry
 
@@ -544,11 +540,9 @@ That Councillor P. Van Meerbergen BE APPOINTED to the Kettle Creek Conservation 
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by D. Ferreira
 

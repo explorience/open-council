@@ -18,16 +18,12 @@ April 30, 2013, at  4:05 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:05 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
-# II.&nbsp;&nbsp;&nbsp;REVIEW
   OF CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
@@ -137,7 +133,6 @@ Motion Passed
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Introduction of
   By-law to Appoint Ms. Sandra Datars Bere to the Statutory Position of Ontario
   Works Administrator
 
@@ -181,12 +176,10 @@ Motion Passed
 
 ****
 
-# IV.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
 MOTION FOR IN CAMERA SESSION
 
-# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE EIGHTH MEETING HELD ON APRIL 16, 2013
 
 > Moved by Councillor B. Polhill
@@ -223,10 +216,8 @@ Motion Passed
 
 ****
 
-# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
-# VIII.&nbsp;&nbsp;&nbsp;MOTIONS
   OF WHICH NOTICE IS GIVEN
 
 > Moved by Councillor B. Polhill
@@ -305,7 +296,6 @@ Motion Passed
 
 ****
 
-# IX.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor W.J. Armstrong
   clauses 1
@@ -314,7 +304,6 @@ Motion Passed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;2012 Compliance
   Report in Accordance with the Procurement of Goods and Services Policy
 
 That, on the recommendation of the Managing
@@ -343,7 +332,6 @@ c)         the
   have been reviewed for compliance to the Procurement of Goods and Services
   Policy, BE RECEIVED for information.
 
-# 4.&nbsp;&nbsp;&nbsp;Advisory Committee
   Policy Update
 
 That the following actions be taken with
@@ -361,7 +349,6 @@ b)         the
   amendments to the Advisory Committee Policy with respect to the use of social
   media by Advisory Committees, having considered that input.
 
-# 6.&nbsp;&nbsp;&nbsp;Report on a
   Visiting Delegation from Nanjing, China - March 2013
 
 That, on the recommendation of the Director
@@ -369,7 +356,6 @@ That, on the recommendation of the Director
   2013 regarding the March 2013 visit by a delegation from London’s sister
   city, Nanjing, China, BE RECEIVED.
 
-# 7.&nbsp;&nbsp;&nbsp;Report on a
   Visiting Delegation from Chongqing, China - March 2013
 
 That, on the recommendation of the Director
@@ -377,7 +363,6 @@ That, on the recommendation of the Director
   2013 regarding the March 2013 visit by a delegation from Chongqing, China, BE
   RECEIVED.
 
-# 8.&nbsp;&nbsp;&nbsp;Dearness Home:
   Consulting and Administrator Services Single Source
 
 That, on the recommendation of Tim Dobbie,
@@ -420,7 +405,6 @@ c)          the
   at a total maximum cost of $285 000, BE APPROVED as a drawdown from the
   Operating Budget Contingency Reserve.
 
-# 9.&nbsp;&nbsp;&nbsp;Tax Adjustment
   Agenda
 
 That the recommendations contained in the
@@ -429,7 +413,6 @@ That the recommendations contained in the
   Services Committee, at the public hearing associated with the Tax Adjustment
   Agenda.
 
-# 10.&nbsp;&nbsp;&nbsp;Nomination of
   Councillor H. L. Usher for Re-Election to the FCM Board of Directors
 
 That the following actions be taken with
@@ -631,7 +614,6 @@ Motion Passed
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Request for Support
   to Pass a Resolution re Contractors
 
 That the communication dated April 4, 2013,
@@ -639,7 +621,6 @@ That the communication dated April 4, 2013,
   Association of Canada and I. DeWaard, Regional Director, Christian Labour
   Association of Canada, BE RECEIVED.
 
-# 12.&nbsp;&nbsp;&nbsp;Appointment to the
   London Diversity and Race Relations Advisory Committee
 
 That the following individual BE APPOINTED
@@ -651,7 +632,6 @@ Non-Voting:
 -           Michelle Lynne Goodfellow (London
   & Middlesex Housing Corporation Representative)
 
-# 13.&nbsp;&nbsp;&nbsp;Appointment to the
   London Advisory Committee on Heritage
 
 That the following individual BE APPOINTED
@@ -663,7 +643,6 @@ Voting:
 -           Kira Westby (Emerging Leaders
   Initiative Representative)
 
-# 14.&nbsp;&nbsp;&nbsp;Appointments to the
   the Community Safety & Crime Prevention Advisory Committee
 
 That the following individuals BE APPOINTED
@@ -680,7 +659,6 @@ Non-Voting:
 -           Maureen O'Halloran (Block
   Parent Office Representative)
 
-# 15.&nbsp;&nbsp;&nbsp;Appointment to the
   Accessibility Advisory Committee
 
 That the following individual BE APPOINTED
@@ -692,7 +670,6 @@ Voting:
 -           Martha Dyer (Person with a
   Disability)
 
-# 5.&nbsp;&nbsp;&nbsp;Code of Conduct for
   Municipal Council and Lobbyist Registry Update
 
 That the following
@@ -957,7 +934,6 @@ Approve clause 1.
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Appointment to the
   Animal Welfare Advisory Committee
 
 That the following individual BE APPOINTED
@@ -968,7 +944,6 @@ Voting:
  
 -           Tracy Satchell (Veterinarian)
 
-# 17.&nbsp;&nbsp;&nbsp;Resignation of D.
   Fortney from the Animal Welfare Advisory Committee
 
 That the communication dated April 3, 2013
@@ -976,9 +951,7 @@ That the communication dated April 3, 2013
   Committee, BE ACCEPTED and Ms. Fortney BE THANKED for participating on the
   Committee.
 
-# V.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# 18.&nbsp;&nbsp;&nbsp;Resignation of M.
   Rabi from the London Diversity and Race Relations Advisory Committee
 
 That the communication dated April 8, 2013
@@ -986,7 +959,6 @@ That the communication dated April 8, 2013
   Relations Advisory Committee, BE ACCEPTED and Mr. Rabi BE THANKED for
   participating on the Committee.
 
-# 19.&nbsp;&nbsp;&nbsp;Reimbursement of
   Councillor J.L. Baechler's expenses to serve on Federation of Canadian
   Municipalities' Standing Committee(s)
 
@@ -1031,15 +1003,11 @@ Motion Passed
 
 ****
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -1228,7 +1196,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

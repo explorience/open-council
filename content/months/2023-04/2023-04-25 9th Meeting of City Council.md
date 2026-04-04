@@ -17,19 +17,15 @@ April 25, 2023, at  1:00 PM
 
 The meeting is called to order at 1:00 PM; it being noted that Councillors P. Van Meerbergen and S. Hillier were in remote attendance; it being further noted that Councillor E. Peloza was in remote attendance after 4:41 PM.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
 
 > Motion made by A. Hopkins
 
@@ -81,7 +77,6 @@ The Council convenes, in closed session, at 1:09 PM and reconvenes at 1:23 PM.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
 > Motion made by C. Rahman
 
@@ -111,7 +106,6 @@ That the Minutes of the 8th Meeting held on April 4, 2023, BE APPROVED.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 ## 6.1&nbsp;&nbsp;&nbsp;Expropriation of Lands - Wellington Gateway Project - Phase I (As the "Approving Authority") 
 
@@ -283,11 +277,9 @@ That the communication from London Area Planning Consultants BE RECEIVED and BE 
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 None.
 
-# 8.&nbsp;&nbsp;&nbsp;Reports
 
 ## 8.1&nbsp;&nbsp;&nbsp;7th Report of the Planning and Environment Committee
 
@@ -1760,7 +1752,6 @@ b)  clauses 1.1, 2.1, 2.2, 3.1, 3.2, 4.1 and 4.2 of the 4th Report of the Diver
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 ## 9.1&nbsp;&nbsp;&nbsp;7th Report of Council in Closed Session
 
@@ -1918,19 +1909,15 @@ c)    Civic Administration BE DIRECTED to report back at a future Civic Works 
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-# 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 None.
 
-# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 
 None.
 
-# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 > Motion made by P. Van Meerbergen
 
@@ -2016,7 +2003,6 @@ That Third Reading and Enactment of Bill No.’s 117 to 138, including the revis
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by S. Franke
 
@@ -2030,7 +2016,6 @@ The meeting adjourns at 4:49 PM.
 
 ****
 
-# Appendix: New Bills
 
 > [!abstract]- The following Bills are enacted as By-laws of The Corporation of the City of London:
 > **Bill No. 117**

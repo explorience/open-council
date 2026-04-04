@@ -15,10 +15,8 @@ March 7, 2016, at  4:00 PM
 > [!abstract]- Also Present:
 > V. Ridley, M. Salih, J. Zaifman; G. Barrett, P. Christiaans, M. Davis, M. Elmadhoon, J.M. Fleming, S. Galloway, T. Grawey, N. Hall, P. Kokkoros, G. Kotsifas, A. MacLean, L. Maitland, J. Ramsay, A. Riley, C. Saunders, C. Smith, S. Spring, M. Tomazincic, B. Turcotte
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;3rd Report of the
   Environmental and Ecological Planning Advisory Committee
 
 That, the following actions be taken with
@@ -114,7 +112,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Building Division
   Monthly Reports for December 2015 and January 2016
 
 That the Building Division Monthly Reports
@@ -136,7 +133,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Properties located
   at 1235, 1250, 1415, 1422 and 1603 Thornley Street, 1200, 1203 and 1206
   Cranbrook Road, Block 205 in 33M-394, Block 82 in 33M-428 and Part 10 in
   33R-16180 (Z-8561)
@@ -215,7 +211,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Mushroom Farm
   Zoning Review (Z-8513)
 
 That, the application of City of London, to
@@ -288,7 +283,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Property located at
   925 Wonderland Road South (Z-8576)
 
 That, on the recommendation of the Managing
@@ -362,7 +356,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Property located at
   585 Third Street (TZ-8563)
 
 That, on the recommendation of the Managing
@@ -435,7 +428,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Properties located
   at 1065, 1069 and 1093 Margaret Street (Z-8575)
 
 That, on the recommendation of the Managing
@@ -522,7 +514,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Properties located
   at 1284 and 1388 Sunningdale Road West (39T-04510/Z-8521)
 
 That, on the recommendation of the Senior
@@ -693,7 +684,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;3rd Report of the
   Trees and Forests Advisory Committee
 
 That the following actions be taken with
@@ -768,7 +758,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;PEC Deferred List
 
 That the following actions be taken with
   respect to the Planning and Environment Committee Deferred Matters List:  

@@ -15,13 +15,11 @@ May 27, 2014, at  1:00 PM
 > [!abstract]- Also Present:
 > S. Orser, J.P. Barber, A. Dunbar, J.M. Fleming, G.T. Hopcroft, V. McAlea Major, D. Mounteer, M. Ribera, C. Saunders, M. Turner, B. Warner, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That
   it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Municipal Funding
   Agreement Related to the Transfer of Federal Gas Tax Funds
 
 Recommendation:  That, on the
@@ -48,7 +46,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Request for Amendments
   - London Diversity and Race Relations Advisory Committee Terms of Reference
 
 Recommendation:  That the following actions
@@ -92,7 +89,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Agreement with the
   Province of Ontario to Participate in the Ontario Certified Site Program with
   the Ministry of Economic Development, Trade and Employment for 2475 Bonder
   Road - Innovation Park, Phase IV
@@ -130,7 +126,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Residential Tax
   By-law for Investment in Affordable Housing Program Project at 129 Riverside
   Drive
 
@@ -159,7 +154,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Community Safety and Crime Prevention Advisory Committee
   (Requires 1 Member at Large)
 
@@ -182,7 +176,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Cycling Advisory Committee (Requires 1 Appointment from
   the London Middlesex Road Safety Committee)
 

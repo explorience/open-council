@@ -22,13 +22,11 @@ March 29, 2022, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that Councillor S. Hillier disclosed a pecuniary interest in clause 4.2 of this Report, having to do with the 2022 Rock the Park One-Time Policy Exemption Request, by indicating that his family puts on a five day event.
 
 That it BE NOTED that Councillor J. Helmer disclosed a pecuniary interest in clause 3.1 of this Report, having to do with Short Term Accommodations, by indicating that he has used Airbnb to rent out his home in the past.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Hillier
 
@@ -179,7 +177,6 @@ e)    confirm that the Deputy City Manager, Social and Health Development, or 
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Public Participation Meeting - Short Term Accommodations 
 
@@ -288,7 +285,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;A. Valastro - Light Pollution By-law - REQUEST FOR DELEGATION STATUS
 
@@ -379,7 +375,6 @@ it being noted that the communications, as appended to the Added Agenda, from R.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -402,7 +397,6 @@ That the Deferred Matters List for the Community and Protective Services Committ
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 > Moved by J. Helmer
 
@@ -427,7 +421,6 @@ The Community and Protective Services Committee convened In Closed Session from 
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 8:18 PM.
 

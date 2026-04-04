@@ -15,13 +15,11 @@ July 21, 2014, at  4:04 PM
 > [!abstract]- Also Present:
 > J. Braam, A. Dunbar, M. Feldberg, K. Graham, J. Lucas, M. Ribera, L. Rowe, J. Skimming, J. Stanford, R. Welker
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;1st Report of the
   Cycling Advisory Committee
 
 Motion
@@ -69,7 +67,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;2014 Ridout Street
   Brick Sewer Rehabilitation RFP No. 14-23 - Irregular Result
 
 Recommendation:  That, on the
@@ -113,7 +110,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Long-Term Large
   Diameter Pipe Inspection Strategy and Single Source Procurement EW3717-13,
   EW3717-14
 
@@ -170,7 +166,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Commissioners Road
   West Reconstruction: Contract 10 - 2014 Infrastructure Lifecycle Renewal
   Program (Tender No. T14-07)
 
@@ -202,7 +197,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Commissioners Road
   West Widening-Wonderland Road South to Viscount Road-Consulting Engineer
   Assignment Increase
 
@@ -241,7 +235,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Geotechnical and
   Hydrogeotechnical Investigations for Old Victoria Hospital Lands Secondary
   Plan Study Area
 
@@ -284,7 +277,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Large Diameter
   Watermain Inspection: Renewal of Monitoring Contract EW3538
 
 Recommendation:  That, on the
@@ -327,7 +319,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Custom Steel
   Fabrication-Joseph Adamou Steel Works Contract-Single Source Procurement
 
 Recommendation:  That, on the
@@ -367,7 +358,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;PCP - Hauling of
   Biosolids - Irregular Bid  (Tender T14-55)
 
 Recommendation:  That, on the recommendation
@@ -406,7 +396,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Rapid Transit
   Corridors Environmental Assessment Study-Appointment of Consulting Engineer
 
 Recommendation:  That, on the
@@ -466,7 +455,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Appointment of
   Consulting Engineer for the Functional and Detailed Design of the Old
   Victoria No. 1 Stormwater Management Facility
 
@@ -514,7 +502,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Blue Box Recycling
   Collection and Processing Contracts
 
 Recommendation:  That, on the
@@ -582,7 +569,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Community Energy
   Action Program
 
 Recommendation:  That, on the
@@ -641,7 +627,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;Updates: Corporate
   Energy Management Program and Conservation and Demand Management (CDM) Plan
 
 Recommendation:  That, on the
@@ -678,7 +663,6 @@ Motion
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;Interim Waste
   Diversion Plan 2014-2015
 
 Recommendation:  That, on the

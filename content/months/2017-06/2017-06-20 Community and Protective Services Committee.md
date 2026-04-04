@@ -12,13 +12,11 @@ June 20, 2017, at  4:00 PM
 > [!abstract]- Also Present:
 > J. Helmer, A. Hopkins, J. Morgan, M. van Holst; D. Baxter, B. Coxhead, S. Datars Bere, C. DeForest, M. Dellamora, P. D’Hollander, O. Katolyk, G. Kotsifas, L. Livingstone, D. O’Brien, M. Ribera, C. Smith, J. Smout, J. Walter, T. Wellhauser, B. Westlake-Power
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   London Strengthening Neighbourhoods Strategy 2017-2020 - Implementation of
   New Initiatives
 
@@ -81,7 +79,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT - Update
   on East Community Centre Project #RC2756
 
 That it BE NOTED that the report dated June
@@ -107,7 +104,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Amendment to By-law A.-7116-206 (Dearness Home Agreements)
 
 That, on the recommendation of the Managing
@@ -134,7 +130,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;STAFF REPORT - Long
   Term Care Service Agreement with Lifelabs for the Provision of Laboratory
   Services at the Dearness Home
 
@@ -167,7 +162,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Outdoor Dogs - Extreme Weather Protocol
 
 That, on the recommendation of the Managing
@@ -191,7 +185,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Ontario Medal of
   Good Citizenship
 
 That the communication dated May, 2017,
@@ -214,7 +207,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Age Friendly London
   Action Plan 2017-2020
 
 That, on the recommendation of the Managing
@@ -252,7 +244,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Business Licensing
   By-law Review - Adult Entertainment Establishments
 
 That, on the recommendation of the Managing
@@ -332,7 +323,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;PUBLIC SUBMISSION -
   Taxi Plate Issuing
 
 That the delegation request of Y. Barbin,
@@ -355,7 +345,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the June 2017 Deferred Matters List
@@ -377,7 +366,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;(ADDED) COUNCILLORS
   SUBMISSION - Business Licensing By-law L- 6 – Second-Hand Dealers
 
 That the Civic Administration BE REQUESTED
@@ -405,7 +393,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;(ADDED) PUBLIC
   SUBMISSION - City London By-law Heating for Apartment
 
 That Civic Administration BE DIRECTED to
@@ -430,7 +417,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;(ADDED) 6th Report
   of the Animal Welfare Advisory Committee
 
 That the 6th Report of the Animal Welfare

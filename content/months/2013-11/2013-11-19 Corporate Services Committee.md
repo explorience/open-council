@@ -12,7 +12,6 @@ November 19, 2013, at  2:00 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J. P. Barber, G. Belch, A. Hagan, M. Hayward, J. Kobarda, L. Livingstone, V. McAlea Major, J. Saunders
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no

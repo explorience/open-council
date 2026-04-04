@@ -11,13 +11,11 @@ May 13, 2019, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by P. Squire
 
@@ -155,7 +153,6 @@ That the Building Division Monthly Report for the month of March, 2019 BE RECEIV
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Delegation - S. Ratz, Chair and A. Tipping, Vice-Chair, Advisory Committee on the Environment - 5th Report of the Advisory Committee on the Environment
 
@@ -943,11 +940,9 @@ b) the installation of a four-way stop at the intersection of St. James Street a
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) D. Dudek, Chair, London Advisory Committee on Heritage - 6th Report of the London Advisory Committee on Heritage 
 
@@ -999,7 +994,6 @@ f)          clauses 1.1, 3.1 to 3.5, inclusive, 3.7, 5.4 and 6.1, BE RE
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 8:45 PM
 

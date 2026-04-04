@@ -15,31 +15,26 @@ August 19, 2013, at  7:00 PM
 > [!abstract]- Also Present:
 > P. Hubert, S. Orser, S. Datars Bere, O. Katolyk, L. Livingstone, R. Sharpe, S. Stafford
 
-# 1.&nbsp;&nbsp;&nbsp;Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;6th Report of the
   Accessibility Advisory Committee
 
 Recommendation:  That the 6th Report of the
   Accessibility Advisory Committee, from its meeting held on June 27, 2013, BE
   RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;7th Report of the
   London Diversity and Race Relations Advisory Committee
 
 Recommendation:  That the 7th Report of the
   London Diversity and Race Relations Advisory Committee, from its meeting held
   on July 18, 2013, BE RECEIVED
 
-# 4.&nbsp;&nbsp;&nbsp;8th Report of the
   London Housing Advisory Committee
 
 Recommendation:  That the 8th Report of the
   London Housing Advisory Committee, from its meeting held on July 10, 2013, BE
   RECEIVED.
 
-# 5.&nbsp;&nbsp;&nbsp;Neighbourhood Watch
   London
 
 Recommendation:  That, on the
@@ -48,7 +43,6 @@ Recommendation:  That, on the
   amount of $19,105 from the remaining 3rd installment of funds to
   Neighbourhood Watch London, for the 2013 budget year. (2013-P15)
 
-# 6.&nbsp;&nbsp;&nbsp;Request for Proposal
   10-13 - Supply and Delivery of Incontinence Products
 
 Recommendation:  That, on the
@@ -70,7 +64,6 @@ c)         the
   contract or having a purchase order relating to the subject matter of this
   approval.  (2013-L04B)
 
-# 7.&nbsp;&nbsp;&nbsp;9th Report of the
   Animal Welfare Advisory Committee
 
 Recommendation: That the following actions
@@ -154,7 +147,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Surveillance Cameras -
   Dundas Street between Adelaide Street and Rectory Street
 
 Recommendation: That the Civic
@@ -196,7 +188,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;E-Bikes
 
 Recommendation: That the communication
   dated August 2, 2013, from Councillor D. Brown, with respect to an expanded
@@ -221,7 +212,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Music on Patios
 
 Recommendation: That the communication
   dated July 30, 2013, from Councillor D. Brown, with respect to possible

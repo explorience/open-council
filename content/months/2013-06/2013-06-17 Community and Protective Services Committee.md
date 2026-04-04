@@ -12,19 +12,16 @@ June 17, 2013, at  7:00 PM
 > [!abstract]- Also Present:
 > B. Polhill, S. Orser; J. Braam, B. Coxhead, P. D’Hollander, S. Datars Bere, S. Giustizia, O. Katolyk, G. Kotsifas, T. Kyle, M. Ribera, P. Sauro, J. Smout, L. Stevens, E. White
 
-# 1.&nbsp;&nbsp;&nbsp;a)         Councillor
   J.P. Bryant discloses a pecuniary interest in clause 14 of this report,
   having to do with residential rental unit licensing fees, by indicating that
   she has a rental unit within her residence.
 
-# 2.&nbsp;&nbsp;&nbsp;2nd Report of the
   Child Care Advisory Committee
 
 Recommendation:  That the 2nd Report of the
   Child Care Advisory Committee, from its meeting held on May 22, 2013, BE
   RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;Licence Agreement -
   Crouch Neighbourhood Resource Centre
 
 Recommendation:  That, on the
@@ -40,7 +37,6 @@ a)         approve
 b)         authorize
   the Mayor and the City Clerk to execute the above-noted Licence Agreement.     (2013-L04)
 
-# 4.&nbsp;&nbsp;&nbsp;Sponsorship Agreement
   - The Optimist Club of Fanshawe, London Constitution Park - Children and
   Youth Facilities
 
@@ -76,7 +72,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;“in motiontm”-
   Community Challenge
 
 Recommendation:  That, on the
@@ -102,7 +97,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Housing Services
   Act Requirements Related to a Local Housing and Homelessness Plan
 
 Recommendation:  That, on the recommendation
@@ -113,7 +107,6 @@ Recommendation:  That, on the recommendation
   2011 requirements for a local housing and homelessness plan, BE RECEIVED. 
   (2013-S11/S14)
 
-# 7.&nbsp;&nbsp;&nbsp;Ontario Works
   Decentralization Update
 
 Recommendation:  That, on the
@@ -121,7 +114,6 @@ Recommendation:  That, on the
   Dearness Home, the staff report dated June 17, 2013, with respect to an
   update on Ontario Works decentralization, BE RECEIVED.  (2013-S04)
 
-# 8.&nbsp;&nbsp;&nbsp;Managing Director,
   Housing, Social Services and Dearness Home - Purchase of Service Agreement -
   Addiction Services of Thames Valley to Deliver Addiction Services
 
@@ -178,7 +170,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Residential Tax
   By-law for New Affordable Housing Program - Project at 590 Grosvenor Street
 
 Recommendation:  That, on the
@@ -200,7 +191,6 @@ c)         the
   Property Assessment Corporation and the secretary of all area school boards. 
   (2013-C11)
 
-# 10.&nbsp;&nbsp;&nbsp;Graffiti Removal
   Partnership
 
 Recommendation:  That, on the recommendation
@@ -209,7 +199,6 @@ Recommendation:  That, on the recommendation
   graffiti removal partnership with The Color Company – Para Paints,  BE
   RECEIVED for information. (2013-P20)
 
-# 11.&nbsp;&nbsp;&nbsp;Request for
   Proposal 13-20 Consultant to Conduct an Environmental Study to Determine a
   Viable Pedestrian Connection Across Federally-Owned Canadian National Railway
   Lands in Kiwanis Park
@@ -241,7 +230,6 @@ d)         the
   formal contract or issuing purchase orders or contract record relating to
   these matters of this approval.  (2013-F18)
 
-# 12.&nbsp;&nbsp;&nbsp;Use of Automated
   External Defibrillators in Police Vehicles
 
 Recommendation:  That the correspondence
@@ -249,7 +237,6 @@ Recommendation:  That the correspondence
   with respect to the use of automated external defibrillators in police
   vehicles, BE RECEIVED.
 
-# 13.&nbsp;&nbsp;&nbsp;Taxi Update
 
 Recommendation: That the following actions
   be taken with respect to an update on issues related to the Taxicab and
@@ -297,7 +284,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Residential Rental
   Units Licensing Fees - Second Public Participation Meeting
 
 Recommendation:  That, on the recommendation
@@ -396,7 +382,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;4th Report of the
   Community Safety and Crime Prevention Advisory Committee
 
 Recommendation:  That the following actions
@@ -435,7 +420,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;5th Report of the
   Accessibility Advisory Committee
 
 Recommendation: That the following actions
@@ -490,7 +474,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;School Crossing
   Guard Program Implementation Single Source
 
 Recommendation:  That, on the
@@ -559,7 +542,6 @@ Motion
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;Parks and
   Recreation Area By-law PR-2 Amendments
 
 Recommendation:  That the matter of
@@ -588,7 +570,6 @@ Motion
 
 ****
 
-# 19.&nbsp;&nbsp;&nbsp;Changes to Existing By-laws for Fostering
   Animals
 
 Recommendation:  The request for delegation
@@ -614,7 +595,6 @@ Motion
 
 ****
 
-# 20.&nbsp;&nbsp;&nbsp;3rd Report of the
   Council Housing Leadership Committee
 
 Recommendation:  That the following actions

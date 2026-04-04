@@ -18,12 +18,9 @@ October 11, 2016, at  4:01 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:01 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
-# II.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# III.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
 > Moved by Councillor M. van Holst
@@ -61,10 +58,8 @@ Motion Passed
 
 ****
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# 1.&nbsp;&nbsp;&nbsp;(ADDED) Councillor
   J. Zaifman - Payment of Stipend During Period of Approved Medical Leave
 
 > Moved by Councillor J. Morgan
@@ -138,7 +133,6 @@ Motion Passed
 
 ****
 
-# IV.&nbsp;&nbsp;&nbsp;COUNCIL, IN
   CLOSED SESSION
 
 MOTION FOR IN CAMERA SESSION
@@ -160,7 +154,6 @@ The Council, In Closed Session, rises at
   4:20 PM and Council reconvenes in public session at 4:23 PM, with Mayor M.
   Brown in the Chair and all Members present except Councillor Zaifman.
 
-# V.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE NINETEENTH MEETING HELD ON SEPTEMBER 27,
   2016
 
@@ -197,7 +190,6 @@ Motion Passed
 
 ****
 
-# VI.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
 > Moved by Councillor B. Armstrong
@@ -209,10 +201,8 @@ Approve receipt and referral of the
 
 ****
 
-# VII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# VIII.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor J. Helmer
 
@@ -220,7 +210,6 @@ Approve clauses 1 to 20, excluding clauses 7 and 13.
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;RFP 16-31 External
   Audit Services (Relates to Bill No. 370)
 
 That, on the recommendation of the Managing
@@ -243,7 +232,6 @@ b)         approve
 c)         authorize
   the Mayor and the City Clerk to execute the Agreement approved in b), above.
 
-# 3.&nbsp;&nbsp;&nbsp;Quarterly Report on
   Internal Audit Results
 
 That, on the recommendation of
@@ -315,7 +303,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Lots on Cranbrook
   Road and Thornley Street (H-8634-2) (Relates to Bill No. 373)
 
 That, on the recommendation of the Senior
@@ -337,7 +324,6 @@ b)         the
   subdivision BE DEFERRED until such time as the lands are consolidated.  
   (2016-D09)
 
-# 5.&nbsp;&nbsp;&nbsp;Victoria on the
   River Subdivision (Phase 3) (39T-09502)
 
 That, on the recommendation of the Manager,
@@ -365,7 +351,6 @@ c)         the
   amending agreements and all documents required to fulfill its conditions.  
   (2016-D12)
 
-# 6.&nbsp;&nbsp;&nbsp;Property located at
   4206 Perkins Road (H-8677) (Relates to Bill No. 374)
 
 That, on the recommendation of the Senior
@@ -378,7 +363,6 @@ That, on the recommendation of the Senior
   (h-17.LI1/LI7) Zone TO a Light Industrial (LI1/LI7) Zone to remove the “h-17”
   holding provision.   (2016-D09)
 
-# 8.&nbsp;&nbsp;&nbsp;Funding Request for
   the Hyde Park Business Association/Business Improvement Area (BIA)
   Designation
 
@@ -398,7 +382,6 @@ it being noted that the Planning and
   Environment Committee received the attached presentation from D.
   Szpakowski, President, Hyde Park Business Association.   (2016-F11A)
 
-# 9.&nbsp;&nbsp;&nbsp;Properties located
   at 479-485, 487 and 489 Talbot Street
 
 That, on the recommendation of the Managing
@@ -535,7 +518,6 @@ Approve clauses 1 and 3.
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Tender 16-94 -
   Invasive Species Management - Irregular Result
 
 That, on the recommendation of the Managing
@@ -563,7 +545,6 @@ d)         approval
   contract, or having a purchase order or contract record relating to this
   matter.   (2016-F18)
 
-# 11.&nbsp;&nbsp;&nbsp;Increased
   Assessment of Property Taxes at 300 Dundas Street
 
 That delegation status BE GRANTED to K.
@@ -577,7 +558,6 @@ That delegation status BE GRANTED to K.
   and General Manager, Downtown London with respect to this matter.  
   (2016-F11A)
 
-# 12.&nbsp;&nbsp;&nbsp;CTV London/Jack FM
   Signage Removal - Files 16001285 & 16001286
 
 That delegation status BE GRANTED to D.
@@ -590,7 +570,6 @@ That delegation status BE GRANTED to D.
   and Local TV Bell Media London, Windsor/Detroit, Barrie/Toronto, with respect
   to this matter.   (2016-P01)
 
-# 14.&nbsp;&nbsp;&nbsp;Appointment of
   Consulting Engineer for the Master Servicing Study for the Huron Industrial 
   Area
 
@@ -627,7 +606,6 @@ e)         the
   Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
   documents, if required, to give effect to these recommendations.  (2016-A05)
 
-# 15.&nbsp;&nbsp;&nbsp;Tender 12-76 Supply
   and Delivery of Highway Salt - 2016-2017 Contract Renewal
 
 That, on the recommendation of the Managing
@@ -649,7 +627,6 @@ d)         the
   formal contract or issuing purchase orders or contract record relating to
   these matters of this approval.  (2016-F18)
 
-# 16.&nbsp;&nbsp;&nbsp;Winter Maintenance
   Program- Salt Management Plan Update
 
 That, on the recommendation of the Managing
@@ -657,7 +634,6 @@ That, on the recommendation of the Managing
   report dated October 4, 2016 with respect to the Winter Maintenance Program -
   Salt Management Plan Update BE RECIEVED for information.(2016-T06)
 
-# 17.&nbsp;&nbsp;&nbsp;Mud Creek Municipal
   Class Environmental Assessment - Status Update and Scope Change
 
 That, on the recommendation of the Managing
@@ -697,7 +673,6 @@ it being noted that the Civic Works
   Stormwater, and a communication dated September 30, 2016 from M. Hannay, the
   MBTW Group, with respect to this matter.  (2016-A05)
 
-# 18.&nbsp;&nbsp;&nbsp;8th Report of the
   Transportation Advisory Committee
 
 That the following actions be taken with
@@ -728,7 +703,6 @@ ii)         the
 c)         clauses 1 to 6 and 9 to 12, BE
   RECEIVED.
 
-# 19.&nbsp;&nbsp;&nbsp;Road Hockey –
   Letting Kids Play
 
 That the Mayor BE REQUESTED to correspond
@@ -738,13 +712,11 @@ That the Mayor BE REQUESTED to correspond
   communication dated September 8, 2016, from Councillor M. van Holst, with
   respect to Road Hockey – Letting Kits Play. (2016-T08)
 
-# 20.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the Civic Works Committee Deferred
   Matters List, as at September 13, 2016, BE RECEIVED.
 
-# 7.&nbsp;&nbsp;&nbsp;Chelsea Green
   Meadows Delegation
 
 That the following actions be taken with
@@ -794,16 +766,13 @@ Motion Passed
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;PEC Deferred List
 
 That the Deferred Matters List dated
   September 6, 2016, BE UPDATED and items that have been addressed by the Civic
   Administration BE REMOVED.
 
-# IX.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
 Councillor M. Salih
   enquires if the Civic Administration could provide an update at the October
@@ -816,10 +785,8 @@ The City Manager
   agreed to provide an update at the October 18, 2016 Community and Protective
   Services Committee meeting.
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -1018,7 +985,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

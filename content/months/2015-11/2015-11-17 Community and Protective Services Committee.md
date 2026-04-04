@@ -15,13 +15,11 @@ November 17, 2015, at  4:06 PM
 > [!abstract]- Also Present:
 > J. Helmer, S. Turner, J. Zaifman; B. Baar, J. Braam, M. Bushby, I. Collins, A. Drost, S. Giustizia, M. Hayward, O. Katolyk, J. Kobarda, D. Lazenby, L. Livingstone, D. O’Brien, J. Pare, P. Sauro, S. Spring, B. Warner, T. Wellhauser, B. Westlake-Power, E. White, S. Williams
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;6th Report of the
   London Housing Advisory Committee
 
 That the 6th Report of the London Housing
@@ -43,7 +41,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;10th Report of the
   London Diversity and Race Relations Advisory Committee
 
 That the 10th Report of the London
@@ -66,7 +63,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;6th Report of the
   Accessibility Advisory Committee
 
 That the following actions be taken with
@@ -121,7 +117,6 @@ Motion Passed
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;7th Report of the
   Animal Welfare Advisory Committee
 
 That the 7th Report of the Animal Welfare
@@ -141,7 +136,6 @@ Motion Passed
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;3rd Report of the
   Childcare Advisory Committee
 
 That the 3rd Report of the Childcare
@@ -161,7 +155,6 @@ Motion Passed
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;5th and 6th Reports
   of Community Safety and Crime Prevention Advisory Committee
 
 That the 5th and 6th Reports from the
@@ -182,7 +175,6 @@ Motion Passed
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Architect to Act as
   Prime Consultant for the New No. 11 Fire Station
 
 That, on the recommendation of the Managing
@@ -235,7 +227,6 @@ Motion Passed
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Assumption
   Agreement Regarding the Transfer of Ownership for the Affordable Housing
   Project at 343 Richmond Street, London
 
@@ -270,7 +261,6 @@ Motion Passed
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Licence Agreement
   Between City of London and Urban Animal Management Inc.
 
 That, on the recommendation of the Managing
@@ -303,7 +293,6 @@ Motion Passed
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Single Source
   Procurement - Municipal Parking Enforcement Service       (T 15-38)
 
 That, on the recommendation of the Managing
@@ -343,7 +332,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Radio System Update
   Onevoice 2.0
 
 That, on the recommendation of the Managing
@@ -400,7 +388,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the Community and Protective Services

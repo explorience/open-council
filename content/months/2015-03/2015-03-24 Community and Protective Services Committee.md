@@ -12,13 +12,11 @@ March 24, 2015, at  4:02 PM
 > [!abstract]- Also Present:
 > J. Helmer, P. Hubert, H.L. Usher, M. Van Holst, J. Zaifman, J. Braam, B. Coxhead, S. Datars Bere, O. Katolyk, L. Livingstone, J. MacKay, A. Macpherson, S. Mathers, D. Mounteer, M. Ribera, J. Riddell, E. Soldo, S. Stafford, B. Westlake-Power, E. White
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests
   were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;2nd Report of the
   Accessibility Advisory Committee
 
 That the 2nd Report of the Accessibility
@@ -42,7 +40,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;1st Report of the
   Childcare Advisory Committee
 
 That the 1st Report of the Childcare
@@ -65,7 +62,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;2nd Report of the
   Community Safety and Crime Prevention Advisory Committee
 
 That the 2nd Report of the Community Safety
@@ -89,7 +85,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;3rd Report of the
   London Diversity and Race Relations Advisory Committee
 
 That the 3rd Report of the London Diversity
@@ -114,7 +109,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Homemakers Program
   Update
 
 Motion
@@ -134,7 +128,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Municipal Golf
   System - 2013/2014 Performance Update
 
 That, on the recommendation of the Managing
@@ -159,7 +152,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Annual Review -
   2015 Special Events Policies and Procedures Manual
 
 That, on the recommendation of the Managing
@@ -185,7 +177,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Transfer of Farm
   Animals from Storybook Gardens and Go-Forward Business Strategy
 
 That, on the recommendation of the Managing
@@ -231,7 +222,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;African Canadian
   Federation of London and Area - Level of Unemployment of Local African
   Immigrants
 
@@ -257,7 +247,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Social Services:
   Supporting Employment, Workforce Development and Inclusion
 
 That the presentation from E. White,
@@ -282,7 +271,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Business Licensing
   By-law L-6 Fees
 
 That the matter of a proposed reduced
@@ -310,7 +298,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;2nd Report of the
   Town and Gown Committee
 
 That the following actions be taken with
@@ -366,7 +353,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;London Diversity
   and Race Relations Advisory Committee
 
 That the following actions be taken with
@@ -403,7 +389,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Humane Urban
   Wildlife Conflict Policy: Beaver Protocol
 
 That, on the recommendation of the Managing
@@ -441,7 +426,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Request For
   Delegation Status
 
 That request for delegation status from
@@ -467,7 +451,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;Community and Protective Services Committee
   Meeting – April 21, 2015
 
 That the April 21, 2015 meeting of the Community

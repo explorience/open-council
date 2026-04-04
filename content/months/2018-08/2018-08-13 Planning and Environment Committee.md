@@ -20,11 +20,9 @@ August 13, 2018, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that Councillor T. Park disclosed a pecuniary interest in clause 3.4 of this Report, having to do with the property located at 391 South Street, by indicating that her family owns property in the area.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by J. Helmer
 
@@ -320,7 +318,6 @@ That, on the recommendation of the Senior Planner, Development Services, based o
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Delegation - L. Kirkness, Kirkness Consulting Inc. - Application - 2156 Highbury Avenue North
 
@@ -775,7 +772,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;7th Report of the Trees and Forests Advisory Committee
 
@@ -873,11 +869,9 @@ c)            clauses 1.1, 3.1, 3.2, 5.3, 5.4, 6.1 and 6.2 BE RECEIVE
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 Solicitor-Client Privilege/Litigation/Potential Litigation
 
@@ -889,7 +883,6 @@ The Planning and Environment Committee convened in Committee, In Closed Session,
 
 A matter pertaining to advice that is subject to solicitor-client privilege, including communications necessary for that purpose; the subject matter pertains to litigation or potential litigation with respect to an appeal at the Local Planning Appeal Tribunal, and for the purpose of providing instructions and directions to officers and employees of the Corporation.
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 7:51 PM.
 

@@ -22,11 +22,9 @@ March 10, 2026, at  1:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Hillier
 
@@ -103,7 +101,6 @@ That the 2nd Report of the Community Advisory Committee on Planning from its mee
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Demolition Request for Heritage Listed Property - 174 Wellington Road
 
@@ -1138,11 +1135,9 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List 
 
@@ -1167,7 +1162,6 @@ That the Deferred Matters List BE RECEIVED.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 > Moved by S. Stevenson
 
@@ -1192,7 +1186,6 @@ That Committee convenes In Closed Session, from 3:05 PM to 4:09 PM.
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by P. Cuddy
 

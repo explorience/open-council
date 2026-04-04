@@ -25,11 +25,9 @@ May 10, 2022, at 12:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Councillor J. Helmer discloses a pecuniary interest with respect to Item 2.4, having to do with the Appointment of Consulting Engineers for Contract Administration Services and Temporary Easement Agreement with the University of Western Ontario: Huron Street Watermain Remediation, by indicating that Western University is his employer.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by P. Van Meerbergen
 
@@ -294,7 +292,6 @@ g)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or ot
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Amendments to Consolidated Fees and Charges By-law
 
@@ -358,11 +355,9 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -386,7 +381,6 @@ That the Civic Works Committee Deferred Matters List as at May 2, 2022, BE RECEI
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 > Moved by J. Fyfe-Millar
 
@@ -416,7 +410,6 @@ The Civic Works Committee convenes, in Closed Session, from 12:44 PM to 1:06 PM.
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by P. Van Meerbergen
 

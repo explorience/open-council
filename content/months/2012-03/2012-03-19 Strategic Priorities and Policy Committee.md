@@ -12,12 +12,10 @@ March 19, 2012, at  4:05 PM
 > [!abstract]- Also Present:
 > J. Braam, J.P. Barber, J.M. Fleming, T.A. Johnson, R. Sharpe, C. Smith, R. Sutton, P. White, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;Councillor M. Brown disclosed a pecuniary
   interest in Item # 6 of this Report having to do with appointments to Thames
   Valley District School Board (TVDSB) Accommodation Review Committees by
   indicating that the TVDSB is his employer.
 
-# 2.&nbsp;&nbsp;&nbsp;Green Municipal
   Incentives Project
 
 Recommendation:  That, on the
@@ -35,7 +33,6 @@ b)         the
   municipality, including what has been done and what can be done, together
   with a financing, communication and education strategy.  (2012-W11-00)
 
-# 3.&nbsp;&nbsp;&nbsp;Status of 2011
   Industrial Land Development Strategy
 
 Recommendation:  That, on the
@@ -47,7 +44,6 @@ Recommendation:  That, on the
   costs will be considered through the Investment and Economic Prosperity
   Committee, for recommendation to the Municipal Council.  (2012-G06-00)
 
-# 4.&nbsp;&nbsp;&nbsp;Assessment of the
   Board of Health for the Middlesex-London Health Unit
 
 Recommendation: That the following actions
@@ -65,13 +61,11 @@ b)         the
   ratio for the MLHU; it being noted that every effort will be made to work
   together with the MLHU to achieve a mutually satisfactory outcome.
 
-# 5.&nbsp;&nbsp;&nbsp;Resignation
   - Services Review Committee
 
 Recommendation: That the resignation of
   Councillor B. Polhill from the Services Review Committee BE ACCEPTED.
 
-# 6.&nbsp;&nbsp;&nbsp;Consideration of
   Councillor Appointments to the Accommodation Review Committees (ARC)
 
 Recommendation:  That the following actions

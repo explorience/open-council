@@ -17,19 +17,15 @@ April 4, 2023, at  1:00 PM
 
 The meeting is called to order at 1:00 PM; it being noted that Mayor J. Morgan and Councillor P. Van Meerbergen were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
 
 > Motion made by S. Hillier
 
@@ -73,7 +69,6 @@ Council convenes, in closed session, at 1:18 PM and reconvenes at 1:31 PM.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
 > Motion made by S. Lehman
 
@@ -103,7 +98,6 @@ That the Minutes of the 6th and 7th Meetings held on March 7, 2023 and March 28,
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 > Motion made by S. Hillier
 
@@ -139,11 +133,9 @@ That the communications  BE RECEIVED and BE REFERRED, as noted on the Added Cou
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 None.
 
-# 8.&nbsp;&nbsp;&nbsp;Reports
 
 ## 8.1&nbsp;&nbsp;&nbsp;11th Report of the Strategic Priorities and Policy Committee
 
@@ -1970,25 +1962,20 @@ b)    the Civic Administration BE DIRECTED to establish appropriate priority o
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 ## 9.1&nbsp;&nbsp;&nbsp;6th Report of Council in Closed Session
 
 That it BE NOTED that Councillor P. Cuddy presented the 6th Report of the Council in Closed Session, by noting progress was made with respect to the three items noted on the Agenda.
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-# 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 None.
 
-# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 
 None.
 
-# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 > Motion made by A. Hopkins
 
@@ -2176,7 +2163,6 @@ That Third Reading and Enactment of Bill No. 116, BE APPROVED.
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by C. Rahman
 
@@ -2190,7 +2176,6 @@ The Council meeting adjourns at 3:35 PM.
 
 ****
 
-# Appendix: New Bills
 
 > [!abstract]- The following Bills are enacted as By-laws of The Corporation of the City of London:
 > **Bill No. 98**

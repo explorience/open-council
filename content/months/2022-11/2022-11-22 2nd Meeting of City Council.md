@@ -17,21 +17,17 @@ November 22, 2022, at  1:00 PM
 
 The meeting was called to order at 1:19 PM.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Councillor S. Trosow discloses a pecuniary interest in Item 22, clause 4.21 of the 1st Report of the Strategic Priorities and Policy Committee, having to do with appointments to the Western University Board of Governors, by indicating that Western University is his employer.
 
 Mayor Morgan discloses a pecuniary interest in Item 22, clause 4.21 of the 1st Report of the Strategic Priorities and Policy Committee, having to do with appointments to the Western University Board of Governors, by indicating that Western University is his employer until November 30, 2022.
 
-# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Council, in Closed Session
 
 ## 4.1&nbsp;&nbsp;&nbsp;Solicitor-Client Privileged Advice
 
@@ -69,7 +65,6 @@ The Council convenes In Closed Session, from 1:28 PM to 1:32 PM.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
 > Motion made by S. Lehman
 
@@ -98,7 +93,6 @@ That the Minutes of the 15th Meeting and 1st Meeting of the Municipal Council, h
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 > Motion made by S. Hillier
 
@@ -141,11 +135,9 @@ At 1:40 PM, Councillor P. Van Meerbergen enters the meeting.
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 None.
 
-# 8.&nbsp;&nbsp;&nbsp;Reports
 
 ## 8.1&nbsp;&nbsp;&nbsp;1st Report of the Strategic Priorities and Policy Committee
 
@@ -1149,7 +1141,6 @@ it being noted that the Strategic Priorities and Policy Committee received a com
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 ## 9.1&nbsp;&nbsp;&nbsp;2nd Report of the Special Strategic Priorities and Policy Committee
 
@@ -1229,19 +1220,15 @@ it being pointed out that the Strategic Priorities and Policy Committee heard a 
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-# 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 None.
 
-# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 
 None.
 
-# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 > Motion made by S. Lewis
 
@@ -1333,7 +1320,6 @@ By-law No. A.-8304-3 - A by-law to confirm the proceedings of the Council Meetin
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by P. Van Meerbergen
 

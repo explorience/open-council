@@ -15,13 +15,11 @@ November 25, 2013, at  4:03 PM
 > [!abstract]- Also Present:
 > D. Brown, P. Hubert; W. Abbott, G. Belch, J. Braam, A. Dunbar, D. Huggins, B. Krichker, J. Lucas, J. Parsons, D. Popadic, L. Rowe, R. Sharpe, J. Simon, E. Soldo, J. Stanford, R. Welker
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;8th Report of the
   Transportation Advisory Committee
 
 Recommendation:  That the 8th Report of the
@@ -45,7 +43,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Hyde Park Nos. 5 and
   6 Stormwater Management Facilities
 
 Recommendation:  That, on the
@@ -109,7 +106,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Non-Disclosure
   Agreement with London Hydro for Utilizing Electricity Use Data
 
 Recommendation:  That, on the
@@ -139,7 +135,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Endorsement of New
   Operational Plan for the Elgin-Middlesex Pumping Station (London Portion)
 
 Recommendation:  That, on the
@@ -164,7 +159,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;2013 External Audit
   of London's Drinking Water Quality Management System and 2013 Management
   Review
 
@@ -201,7 +195,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Waste Diversion and
   Garbage Collection Updates
 
 Recommendation:  That the following actions
@@ -308,7 +301,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Management of Traffic on Richmond Street
 
 Recommendation:  That it BE NOTED that
   Mayor J. F. Fontana enquired about the possibility of utilizing three lanes

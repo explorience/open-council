@@ -15,13 +15,11 @@ April 12, 2016, at  4:01 PM
 > [!abstract]- Also Present:
 > G. Belch, J. Braam, K. Chambers, T. Copeland, A. Dunbar, K. Grabowski, J. Lucas, D. MacRae, D. Popadic, M. Ribera, L. Rowe, E. Soldo, J. Stanford
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests
   were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Purchase of a
   Skalar Continuous Flow Analyser for the Greenway Laboratory
 
 That, on the recommendation of the Managing
@@ -69,7 +67,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Contract Award:
   Tender 16-27 - Replacement of Sidewalks, Curb and Gutter and Hot Mix Asphalt
 
 That, on the recommendation of the Managing
@@ -117,7 +114,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Contract Award
   Tender T16-13 - Growth Management Implementation Strategy (GMIS) Campbell
   Street Improvements - Southwest Area Trunk Sanitary Sewer - Phase 2
 
@@ -176,7 +172,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Contract Award: Tender
   No. 16-32 - Arterial Road Rehabilitation Project - Contract No.1
 
 That, on the recommendation of the Managing
@@ -224,7 +219,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Windermere Road
   Over Stoney Creek Bridge Rehabilitation - Construction Administration of
   Tender No. 16-36 - Appointment of Consulting Engineer
 
@@ -244,7 +238,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Contract Award:
   Tender No. 16-21- 2016 Infrastructure Renewal Program Contract 4 - McCormick
   Area Reconstruction
 
@@ -335,7 +328,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Field Marshal
   Wolseley Bridge (Quebec Street) Pedestrian Safety
 
 That, on the recommendation of the Managing
@@ -373,7 +365,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 Motion

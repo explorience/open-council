@@ -15,13 +15,11 @@ November 21, 2016, at  4:03 PM
 > [!abstract]- Also Present:
 > A. Zuidema, G. Bridge, L. Bruni, B. Coxhead, S. Datars Bere, K. Dawtrey, A. Dunbar, J.M. Fleming, K. Graham, A. Hagan, M. Hayward, G. Kotsifas, L. Livingstone, J. Lucas, J.P. McGonigle, S. Miller, D. Mounteer, L. Palarchio, C. Parsons, K. Pawelec, C. Saunders, K. Scherr, J. Senese, C. Smith, S. Spring, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Reconciliation of Tabled Budget to Public Sector Accounting Board (PSAB)
   Financial Statement Budget
 
@@ -52,7 +50,6 @@ Motion Passed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Housing Development Corporation, London (HDC) Shareholder Declaration
 
 That, on the recommendation of the Managing
@@ -95,7 +92,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;STAFF REPORT - London
   Hydro Inc. - Appointment of Auditors Resolution of the Shareholder
 
 That, on the recommendation of the City
@@ -133,7 +129,6 @@ Motion Passed
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;COUNCIL MEMBER
   SUBMISSION - Absence from Meeting
 
 That the communication dated November 14,
@@ -162,7 +157,6 @@ Motion Passed
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Multi-Year Budget
 
 That the verbal delegations and the
@@ -282,7 +276,6 @@ Motion Passed
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;PUBLIC
   PARTICIPATION MEETING - Multi-Year Water and Wastewater Rates
 
 That, on the recommendation of the Managing
@@ -398,7 +391,6 @@ Motion Passed
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;DELEGATION -
   Strategic Plan: Semi-Annual Progress Report and 2016 Report to the Community
 
 That, on the recommendation of the City
@@ -447,7 +439,6 @@ Motion Passed
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;DELEGATION - Jeff
   Wright, Vice President, Corporate Strategy and Business Development, Fanshawe
   College, Titus Ferguson, Executive Director, UnLondon Digital Media
   Association, Larry MacKinnon - London Economic Development Corporation,
@@ -487,7 +478,6 @@ Motion Passed
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;PUBLIC SUBMISSION -
   London Convention Centre Corporation Board Appointments
 
 That the following actions be taken with respect

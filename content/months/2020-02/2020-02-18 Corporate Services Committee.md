@@ -17,11 +17,9 @@ February 18, 2020, at 12:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by J. Helmer
 
@@ -213,11 +211,9 @@ d) the Civic Administration BE DIRECTED to undertake a City initiated Zoning By-
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Voluntary Climate Change Contributions
 
@@ -242,7 +238,6 @@ That the Civic Administration BE REQUESTED to investigate the possibility of gen
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by M. van Holst
 
@@ -277,7 +272,6 @@ The Corporate Services Committee convened, In Closed Session, from 1:39 PM to 2:
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by J. Helmer
 

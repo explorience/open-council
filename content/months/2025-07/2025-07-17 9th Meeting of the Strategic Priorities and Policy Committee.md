@@ -17,11 +17,9 @@ July 17, 2025, at  1:00 PM
 
 The meeting is called to order at 1:00 PM; it being noted that Councillors S. Stevenson, P. Van Meerbergen and D. Ferreira were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by C. Rahman
 
@@ -152,11 +150,9 @@ b)    the Civic Administration BE REQUESTED to report back to a future meeting
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Delegation - Kelly Paleczny, General Manager, London Transit Commission (LTC) 2024 Annual Report
 
@@ -429,11 +425,9 @@ That the delegation request from M. Shannon and M. Sye, Enbridge Gas Ontario BE 
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Provided to Members only.)
 
 > Moved by P. Cuddy
 
@@ -509,7 +503,6 @@ The Strategic Priorities and Policy Committee convenes In Closed Session from 1:
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by P. Cuddy
 

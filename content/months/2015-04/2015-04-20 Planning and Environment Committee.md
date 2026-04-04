@@ -12,13 +12,11 @@ April 20, 2015, at  4:02 PM
 > [!abstract]- Also Present:
 > A. Hopkins, H.L. Usher, M. van Host, P. Christiaans, M. Corby, M. Elmadhoon, J.M. Fleming, K. Gonyou, T. Grawey, N. Hall, P. Kokkoros, G. Kotsifas, E. Lalande, A. MacLean, B. Page, J. Ramsay, A. Riley, C. Saunders, S. Spring, M. Tomazincic, S. Wise
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that Councillor S. Turner
   disclosed a pecuniary interest in clause 3 of this Report, having to do with
   the application by Tara and John Winspear, relating to the property located
   at 878 Hellmuth Avenue, by indicating that he has an employment relationship
   with the applicant.
 
-# 2.&nbsp;&nbsp;&nbsp;4th Report of the
   Advisory Committee on the Environment
 
 That the 4th Report of the Advisory
@@ -42,7 +40,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Property located at
   878 Hellmuth Avenue - Committee of Adjustment Decision on Minor Variance
   Application (A.009/15)
 
@@ -80,7 +77,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Properties located
   at 2179 and 2201 Hyde Park Road (H-8442)
 
 That, on the recommendation of the Senior
@@ -112,7 +108,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;6th Report of the
   London Advisory Committee on Heritage
 
 That the following actions be taken with
@@ -345,7 +340,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Properties located
   at 85 and 91 Meg Drive (Z-8451)
 
 That, on the recommendation of the Managing
@@ -450,7 +444,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Properties located
   at 1070, 1072, 1080 and 1088 Adelaide Street North and 621-623 Huron Street
   (Z-8452)
 
@@ -709,7 +702,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Back to the River
   Design Competition
   – London Community Foundation
 
@@ -734,7 +726,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Property located at
   3804 Southwinds Drive
 
 That the communication dated April 10,
@@ -760,7 +751,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Planning and
   Environment Committee Deferred Matters List
 
 That the following actions be taken with

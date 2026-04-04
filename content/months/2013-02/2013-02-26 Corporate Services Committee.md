@@ -12,10 +12,8 @@ February 26, 2013, at  1:05 PM
 > [!abstract]- Also Present:
 > D.G. Henderson, A. Zuidema, J.P. Barber, G. Belch, J. Braam, B. Campbell, K. Dawtrey, E. Gamble, A. Hagan, M. Hayward, G.T. Hopcroft, V. McAlea Major, L. Palarchio, C. Resendes, M. Turner, B. Warner
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Single Source -
   Supply and Install - Replacement Rooftop Unit for J. Allyn Taylor Building
 
 Recommendation:  That, on the
@@ -26,7 +24,6 @@ Recommendation:  That, on the
   required work will be carried out by the current service provider Climate
   Control and a Purchase Order has been issued relating to the subject matter.
 
-# 3.&nbsp;&nbsp;&nbsp;Voluntary Donations
   to Municipality
 
 Recommendation:  That the following actions
@@ -50,7 +47,6 @@ c)           
   administrative costs related to the implementation of a voluntary donations
   program.
 
-# 4.&nbsp;&nbsp;&nbsp;Agreement with the
   Province of Ontario to Market the London and Middlesex Immigration Portal
 
 Recommendation:  That, on the
@@ -62,7 +58,6 @@ Recommendation:  That, on the
   Middlesex Immigration Portal and to authorize the Mayor and City Clerk to
   execute the Agreement.
 
-# 5.&nbsp;&nbsp;&nbsp;Agreement with the
   Province of Ontario to Enhance the London and Middlesex Immigration Portal
   Labour Market Section
 
@@ -75,7 +70,6 @@ Recommendation:  That, on the
   and Middlesex Immigration Portal by enhancing the section on the local labour
   market and to authorize the Mayor and City Clerk to execute the Agreement.
 
-# 6.&nbsp;&nbsp;&nbsp;Tax Adjustment
   Agenda
 
 Recommendation: That the
@@ -84,7 +78,6 @@ Recommendation: That the
   public in attendance to speak to the Corporate Services Committee, at the
   public hearing associated with the Tax Adjustment Agenda.
 
-# 7.&nbsp;&nbsp;&nbsp;Request for a
   Letter of Support for Public Safety TV Channel
 
 Recommendation:  That the following actions

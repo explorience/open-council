@@ -17,11 +17,9 @@ February 10, 2026, at  1:00 PM
 
 The meeting is called to order at 1:01 PM; it being noted that Councillors S. Hillier and P. Cuddy (at 2:31 PM) were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED Councillor S. Franke discloses a pecuniary interest in item 4, clause 2.3 of the 3rd Report of the Strategic Priorities and Policy Committee, having to do with the Secondary School Transit Pass Pilot Program Update by indicating that her spouse is employed by the TVDSB.
 
-# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
 None.
 
@@ -29,11 +27,9 @@ At 1:23 PM, Councillor S. Lehman leaves the meeting.
 
 At 1:25 PM, Councillor S. Lehman enters the meeting.
 
-# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
 
 > Motion made by P. Van Meerbergen
 
@@ -86,7 +82,6 @@ That Council convenes In Closed Session, from 1:06 PM to 1:17 PM.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
 ## 5.1&nbsp;&nbsp;&nbsp;2nd Meeting held on January 20, 2026
 
@@ -121,7 +116,6 @@ That the Minutes of the 2nd Meeting of the Municipal Council, held on January 20
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 > Motion made by D. Ferreira
 
@@ -394,11 +388,9 @@ That the following communications BE RECEIVED, and BE REFERRED as noted on the A
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 None.
 
-# 8.&nbsp;&nbsp;&nbsp;Reports
 
 ## 8.1&nbsp;&nbsp;&nbsp;3rd Report of the Infrastructure and Corporate Services Committee
 
@@ -2850,7 +2842,6 @@ That the Creation of an Affordable Home Ownership Incentive Program BE REFERRED 
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 > Motion made by C. Rahman
 
@@ -2903,19 +2894,15 @@ That progress was made with respect to items 4.3 (6.3/3/ICSC), 4.4 (6.4/3/ICSC),
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-# 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 None.
 
-# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 
 None.
 
-# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 > Motion made by S. Lewis
 
@@ -3845,7 +3832,6 @@ By-law No. CPOL.-38(c)-65 - A by-law to amend By-law No. CPOL.-38-234, as amende
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by S. Stevenson
 

@@ -16,11 +16,9 @@ February 7, 2020, at  9:30 AM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Councillor S. Lehman discloses a pecuniary interest in item 4.13 iii), Business Case 7B - Core Area Action Plan, specifically those initiatives within the Business Case that will provide funding to the London Downtown Business Association (LDBA), by indicating that he is a member of the LDBA.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.12&nbsp;&nbsp;&nbsp;Business Cases for Additional Investment - Administratively Prioritized
 
@@ -911,7 +909,6 @@ x. Business Case 21 – Regeneration of Public Housing – 2020-2023 Total: Inve
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The Strategic Priorities and Policy Committee recessed at 5:06 PM; it being noted that the meeting will resume at 9:30 AM, Thursday, February 13, 2020.
 

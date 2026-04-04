@@ -18,7 +18,6 @@ June 25, 2013, at  4:04 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:04 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 Councillor P. Hubert discloses a pecuniary
@@ -89,13 +88,10 @@ Councillor M. Brown discloses a pecuniary
   crossing guard program, by indicating that he is employed by the Thames
   Valley District School Board.
 
-# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
-# IV.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
 MOTION FOR IN CAMERA SESSION
@@ -134,14 +130,11 @@ Motion Passed
 
 ****
 
-# V.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosure of Pecuniary Interest
 
 That it BE NOTED that no pecuniary
     interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Orchestra London Business Plan
 
 > Moved by Councillor J.B. Swan
 
@@ -336,7 +329,6 @@ Motion Passed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Properties located at 3313-3405
       Wonderland Road South and 1789 Wharncliffe Road South (OZ-7072/OZ-7073)
 
 Motion Passed
@@ -365,7 +357,6 @@ Motion Passed
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE ELEVENTH MEETING HELD ON JUNE 11, 2013
 
 > Moved by Councillor B. Polhill
@@ -402,7 +393,6 @@ Motion Passed
 
 ****
 
-# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
 > Moved by Councillor D. Brown
@@ -414,7 +404,6 @@ Approve referral of the following
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Future Options for
   London Hydro Inc.
 
 That the following actions be taken with
@@ -437,10 +426,8 @@ c)        the
   Civic Administration BE AUTHORIZED to engage any third party consultants
   required to assist with the process.
 
-# VIII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# IX.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor D. Brown
 
@@ -478,7 +465,6 @@ Motion Passed
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Property located at
   590 Gainsborough Road (Z-8162)
 
 That, on the recommendation of the Managing
@@ -566,7 +552,6 @@ it being pointed out that at the public participation
   will be demolishing the church, which allows both areas to have more common
   space.   (2013-D14A)
 
-# 14.&nbsp;&nbsp;&nbsp;Special Planning
   and Environment Committee Meeting - July 25, 2013
 
 That the communication, dated June 10,
@@ -587,7 +572,6 @@ That, on the recommendation of the Managing
   received a communication, dated June 18, 2013, from C. Kulchycki, Planner,
   Zelinka Priamo Ltd., with respect to this matter.   (2013-D14A)
 
-# 17.&nbsp;&nbsp;&nbsp;Properties located
   at 56-82 Wellington Street, 283-323 South Street and 69-77 Waterloo Street
   (OZ-8114)
 
@@ -827,7 +811,6 @@ Motion Passed
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Properties located
   at 3313-3405 Wonderland Road South and 1789 Wharncliffe Road South
   (OZ-7072/OZ-7073)
 
@@ -989,7 +972,6 @@ Approve clauses 11 to 17, inclusive.
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Property located at
   450 Oxford Street West (OZ-8003)
 
 That, the Civic Administration BE DIRECTED
@@ -1009,7 +991,6 @@ it being pointed out that the Planning and
   Snowsell, Land Use Regulations Officer, Upper Thames River Conservation
   Authority, with respect to this matter. (2013-D14A)
 
-# 5.&nbsp;&nbsp;&nbsp;Status of ReThink
   London Key Directions and Discussion Papers
 
 That, on the recommendation of the Managing
@@ -1049,7 +1030,6 @@ Motion Passed
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Property located at
   1956 Shore Road (Z-8180)
 
 That, on the recommendation of the Senior
@@ -1071,7 +1051,6 @@ it being pointed out that there were no
   oral submissions made at the public  participation meeting associated
   with this matter.    (2013-D14A)
 
-# 8.&nbsp;&nbsp;&nbsp;Property located at
   1069 Clarke Road (Z-8165)
 
 That, on the recommendation of the Managing
@@ -1100,7 +1079,6 @@ it being pointed out that at the public participation
   R. Patton, Patton Cormier & Associates, on behalf of the applicant –
   expressing support for the recommendation.    (2013-D14A)
 
-# 11.&nbsp;&nbsp;&nbsp;Properties located
   at 1311, 1363 and 1451 Wharncliffe Road South (OZ-8087)
 
 That, the following actions be taken with
@@ -1229,7 +1207,6 @@ it being pointed out that at the public participation
   City’s planning process should be used in any way to regulate competition.  
   (2013-D14A)
 
-# 12.&nbsp;&nbsp;&nbsp;North Routledge
   Park Industrial Area
 
 That, the communication, dated June 6,
@@ -1237,7 +1214,6 @@ That, the communication, dated June 6,
   Industrial Area BE REFERRED to the Civic Administration for consideration and
   to respond directly to Councillor M. Brown.   (2013-D14)
 
-# 15.&nbsp;&nbsp;&nbsp;Property located at
   2237 Wharncliffe Road South (Z-8163)
 
 That, on the recommendation of the Managing
@@ -1293,7 +1269,6 @@ it being pointed out that there were no
   oral submissions made at the public  participation meeting associated
   with this matter.  (2013-D14A)
 
-# 16.&nbsp;&nbsp;&nbsp;Heritage Inventory
   Addition
 
 That, on the recommendation of the Managing
@@ -1301,7 +1276,6 @@ That, on the recommendation of the Managing
   AMENDED to delete the property located at 131 Pond Mills Road and to add the
   property located at 130 Pond Mills Road.  (2013-R01)
 
-# 18.&nbsp;&nbsp;&nbsp;Properties located
   at 3130 and 3260 Dingman Drive and the rear portion of 4397 and 4407
   Wellington Road South (OZ-8120)
 
@@ -1652,7 +1626,6 @@ Motion Passed
 
 ****
 
-# 19.&nbsp;&nbsp;&nbsp;Draft Downtown
   Master Plan
 
 That, on the recommendation of the Managing
@@ -2076,7 +2049,6 @@ Approve clauses 1 to 9, inclusive.
 
 ****
 
-# 20.&nbsp;&nbsp;&nbsp;3rd Report of the Council Housing
   Leadership Committee
 
 That the following actions be taken with
@@ -2184,7 +2156,6 @@ Approve clauses 1 to 6, inclusive.
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Draft Old Victoria
   Hospital Lands Secondary Plan
 
 Motion Passed
@@ -2212,10 +2183,8 @@ Motion Passed
 
 ****
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
 Councillor N. Branscombe enquires as to
   when a report will be coming forward with respect to how the City of London
@@ -2223,10 +2192,8 @@ Councillor N. Branscombe enquires as to
   occurring in Calgary, Alberta.  The Civic Administration indicates that a report
   will be presented to the Civic Works Committee in September.
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -2529,7 +2496,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

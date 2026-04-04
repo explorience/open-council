@@ -20,11 +20,9 @@ January 27, 2026, at  1:00 PM
 
 The meeting was called to order at 1:01 PM.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 None.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Lewis
 
@@ -90,7 +88,6 @@ That, on the recommendation of the Director, Planning and Development, the staff
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;1st Report of the Community Advisory Committee on Planning
 
@@ -1189,7 +1186,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Councillor E. Peloza - Brownfield Community Improvement Plan Update Request 
 
@@ -1219,7 +1215,6 @@ it being noted that the Planning and Environment Committee received the followin
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -1243,7 +1238,6 @@ That the January Deferred Matters List, BE RECEIVED.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by P. Cuddy
 

@@ -18,11 +18,9 @@ November 17, 2020, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 S. Turner discloses a pecuniary interest in any budgetary item regarding the Middlesex-London Health Unit by indicating that he is an employee of that organization and any item pertaining to funding for the Early ON program as his spouse is an employee of an organization dependent on that funding, as these may be addressed in item 4.1 - Tabling of the 2021 Budget Update.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;Master Accommodation Plan Update and Procurement Process
 
@@ -136,7 +134,6 @@ it being noted that the Strategic Priorities and Policy Committee received a com
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;TechAlliance - Annual Update
 
@@ -231,7 +228,6 @@ That it BE NOTED that the Strategic Priorities and Policy Committee received the
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Tabling of the 2021 Budget Update
 
@@ -539,7 +535,6 @@ That it BE NOTED that no nominations were submitted for the 2020 Diversity, Race
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) 2nd Report of the Governance Working Group from its meeting held on November 10, 2020
 
@@ -609,7 +604,6 @@ c)     clauses 1.1 and 2.1 BE RECEIVED for information.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by P. Van Meerbergen
 
@@ -649,7 +643,6 @@ The Strategic Priorities and Policy Committee convened, In Closed Session, from 
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 9:02 PM.
 

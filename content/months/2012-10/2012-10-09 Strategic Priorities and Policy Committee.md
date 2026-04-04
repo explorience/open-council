@@ -12,7 +12,6 @@ October 9, 2012, at  2:35 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, J. Clark, A. Hagan, M. Hayward, J. Kobarda, D. Lazenby, L. Livingstone, P. Malone, L. Palarchio, V. McAlea Major, C. Saunders
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
 (See Confidential Appendix to the 14th

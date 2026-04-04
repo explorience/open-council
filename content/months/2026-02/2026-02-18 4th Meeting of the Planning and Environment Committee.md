@@ -25,11 +25,9 @@ February 18, 2026, at  1:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;Update on Implementation Potential for Servicing Improvements using Housing Accelerator Funding
 
@@ -103,7 +101,6 @@ it being noted that the Planning and Environment Committee received the followin
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Upper Thames River Conservation Authority Service Level Review - Update Report 
 
@@ -674,7 +671,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Deputy Mayor S. Lewis, Councillors P. Cuddy and C. Rahman - Zoning By-law Amendment - Parking Changes
 
@@ -782,7 +778,6 @@ it being noted that the Planning and Environment Committee received the followin
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -806,7 +801,6 @@ That the Deferred Matters List BE RECEIVED.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 > Moved by S. Hillier
 
@@ -830,7 +824,6 @@ That Committee convenes In Closed Session, from 5:02 PM to 5:06 PM.
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by S. Lewis
 

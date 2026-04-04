@@ -12,13 +12,11 @@ August 29, 2017, at  4:00 PM
 > [!abstract]- Also Present:
 > J. Helmer, A. Hopkins, H.L. Usher; Rob Andrusevich, I. Collins, T. Copeland, Tom Gaffney, G. Gauld, K. Grabowski, S. Maguire, S. Mathers, A. Rammeloo, M. Ribera, L. Rowe, K. Scherr, E. Soldo, J. Stanford
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Wenige Expressway
   Bridge Drainage - Highbury Avenue South over Thames River South Branch
 
 That, on the recommendation of the Managing
@@ -44,7 +42,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Amendments to the
   Traffic and Parking By-Law
 
 That, on the recommendation of the Managing
@@ -71,7 +68,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Thames Valley
   Parkway North Branch Connection -  Detailed Design & Tendering -
   Appointment of Consulting Engineer
 
@@ -121,7 +117,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Contract Award:
   Tender No. 17-72 - Blackfriars Bridge Rehabilitation
 
 That, on the recommendation of the Managing
@@ -176,7 +171,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Wonderland Road
   South Improvements - Phases 1 & 2 Contract Administration - Appointment
   of Consulting Engineer
 
@@ -227,7 +221,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Low Impact
   Development Stormwater Management Guidance Manual (EBR Registry Number:
   012-9080)
 
@@ -254,7 +247,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Appointment of
   Consulting Engineer - South London Wastewater Servicing Municipal Class
   Environmental Assessment
 
@@ -306,7 +298,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Single Source Purchase
   for Wastewater Facility - Channel Grinder Repairs
 
 That, on the recommendation of the Managing
@@ -332,7 +323,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Single Source
   Electrical and Mechanical Services for the Turbo Blower Installations at the
   Greenway Wastewater Treatment Plant
 
@@ -389,7 +379,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Community Energy
   Action Plan - Status Update
 
 That, on the recommendation of the Director
@@ -414,7 +403,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;2016 Community
   Energy and Greenhouse Gas Inventory
 
 That, on the recommendation of the
@@ -438,7 +426,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Contract Award
   T17-102 - Intersection AODA Upgrades - Irregular Result
 
 That, on the recommendation of the Managing
@@ -485,7 +472,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;One River
   Environmental Assessment Update: Technical Memorandum Stage One Work Plan and
   Community Consultation Plan
 
@@ -527,7 +513,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the Civic Works Committee Deferred
@@ -594,7 +579,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;(ADDED) ENQUIRY – Councillor M. van Holst –
   Traffic Calming
 
 That it BE NOTED that Councillor M. van Holst

@@ -12,21 +12,18 @@ August 20, 2012, at  4:04 PM
 > [!abstract]- Also Present:
 > A. Zudema, S. Bellaire, J. Braam, P. Christiaans, A. Dunbar, M. Elmadhoon, J.M. Fleming, B. Henry, T. Karidas, P. Kokkoros, G. Kotsifas, B. Krichker, S. Meksula, H. McNeely, D. Menard, N. Musicco, J. Page, J. Ramsay, M. Ribera, C. Saunders, J. Stanford, M. Tomazincic, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that Councillor D.
   Henderson disclosed a pecuniary interest with respect to clause 19 of this
   Report, having to do with the communication dated August 8, 2012, from
   Councillor H.L. Usher and S. White, relating to OrgaWorld Canada Limited on
   Wellington Road South, by indicating that he has had proposed business
   dealings with ATL International and Phytoceuticals International.
 
-# 2.&nbsp;&nbsp;&nbsp;1st Report of the
   Advisory Committee on the Environment
 
 Recommendation:  That the 1st Report of the
   Advisory Committee on the Environment from its meeting held on August 1, 2012,
   BE RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;Properties located
   at 186-188 Huron Street and 2 Audrey Avenue
 
 Recommendation:  That, on the
@@ -35,7 +32,6 @@ Recommendation:  That, on the
   INC, relating to the property located at 186-188 Huron Street and 2 Audrey
   Avenue, BE RECEIVED. (2012-D11-04)
 
-# 4.&nbsp;&nbsp;&nbsp;Property located at
   1812 Wonderland Road North
 
 Recommendation:  That, on the
@@ -50,7 +46,6 @@ Recommendation:  That, on the
   Residential R1 Special Provision (R1-7(13)) Zone, to remove the h. holding
   provision.  (2012-D11-02)
 
-# 5.&nbsp;&nbsp;&nbsp;Elgin County
   Official Plan Adoption
 
 Recommendation:  That, on the
@@ -58,7 +53,6 @@ Recommendation:  That, on the
   report dated August 20, 2012, relating to the adoption of an Official Plan by
   Elgin County BE RECEIVED.   (2012-D11-09/02)
 
-# 6.&nbsp;&nbsp;&nbsp;King Street and
   Talbot Street - Silva Cell Tree Planting Project
 
 Recommendation:  That, on the
@@ -88,7 +82,6 @@ d)         the
   into a formal contract or having a purchase order, or contract record
   relating to the subject matter of this approval.   (2012-E05-00)
 
-# 7.&nbsp;&nbsp;&nbsp;Properties Located
   at 1631, 1635 and 1639 Richmond Street Development and Residential
   Intensification on Richmond Street
 
@@ -102,13 +95,11 @@ Recommendation:  That, on the
   for the above-noted properties and a development agreement has been entered
   into with the City of London.  (2012-W10-02)
 
-# 8.&nbsp;&nbsp;&nbsp;Building Division
   Monthly Report for June, 2012
 
 Recommendation:  That the Building Division
   Monthly Report for June 2012 BE RECEIVED.  (2012-D05-00)
 
-# 9.&nbsp;&nbsp;&nbsp;1st Report of the
   London Advisory Committee on Heritage
 
 Recommendation:  That the following actions
@@ -149,7 +140,6 @@ it being noted that
   the Planning and Environment Committee heard a verbal presentation from G.
   Goodlet, Chair, LACH, with respect to this matter.
 
-# 10.&nbsp;&nbsp;&nbsp;Property located at
   915 Southdale Road West
 
 Recommendation:  That, on the
@@ -188,7 +178,6 @@ it being pointed
   the holding provisions be dealt with during the site plan approval stage to
   allow them to start construction this year.  (2012-D11-08)
 
-# 11.&nbsp;&nbsp;&nbsp;Properties located
   at 311 & 319 Wharncliffe Road North
 
 Recommendation:  That, on the
@@ -213,7 +202,6 @@ it being pointed out that there were no
   oral submissions made at the public participation meeting held in connection
   with this matter.     (2012-D11-05)
 
-# 12.&nbsp;&nbsp;&nbsp;Zoning By-law
   Amendments to Implement Commercial Policy Changes Arising from 2006 Official
   Plan Review
 
@@ -246,7 +234,6 @@ it being pointed
   Design Guidelines; and indicating that the Civic Administration is not close
   to implementing OPA 438.   (2012-G05-00)
 
-# 13.&nbsp;&nbsp;&nbsp;Access Management
   Guidelines and Transportation Impact Assessment Guidelines - Official Plan
   Amendment
 
@@ -273,7 +260,6 @@ it being pointed
   out that there were no oral submissions made at the public participation
   meeting held in connection with this matter.   (2012-D11-09/02)
 
-# 14.&nbsp;&nbsp;&nbsp;Residential
   Intensification Policies
 
 Recommendation:  That, notwithstanding the
@@ -346,7 +332,6 @@ it being pointed out that at
   PEC made with respect to his properties located at 186-188 Huron Street and 2
   Audrey Avenue, relating to infill.  (2012-D11-02)
 
-# 15.&nbsp;&nbsp;&nbsp;Property located at
   230 Adelaide Street North
 
 Recommendation:  That, on the
@@ -370,7 +355,6 @@ it being pointed out that there were no
   oral submissions made at the public participation meeting held in connection
   with this matter.  (2012-D11-05)
 
-# 16.&nbsp;&nbsp;&nbsp;Building By-law
   Amendment
 
 Recommendation:  That, on the
@@ -382,7 +366,6 @@ Recommendation:  That, on the
   being pointed out that there were no oral submissions made at the public
   participation meeting held in connection with this matter.  (2012-G05-00)
 
-# 17.&nbsp;&nbsp;&nbsp;Forest City
   Industrial Stormwater Management Facility and Westminster Wetland Complex
 
 Recommendation:  That, on the
@@ -395,7 +378,6 @@ Recommendation:  That, on the
   the attached presentation and received a communication, dated July 26,
   2012, from James R. Keron, with respect to this matter.   (2012-W10-00)
 
-# 18.&nbsp;&nbsp;&nbsp;Properties located
   at 1697 Hamilton Road, 1742 Hamilton Road and 1990 Commissioners Road East
 
 Recommendation:  That, notwithstanding the
@@ -428,7 +410,6 @@ it being noted that the Planning and
   communication, dated August 14, 2012 from D. de Jong, and P. Hinde, Thames
   Village Joint Venture, with respect to this matter.  (2012-W10-02)
 
-# 19.&nbsp;&nbsp;&nbsp;Orgaworld Canada
   Ltd. - Wellington Road South
 
 Recommendation:  That the following actions
@@ -471,7 +452,6 @@ it being noted that the Planning and
   2012, from Councillors H.L. Usher and S. White, with respect to this
   matter.   (2012-P07-00)
 
-# 20.&nbsp;&nbsp;&nbsp;Property located at
   1255 Brydges Street
 
 Recommendation:  That the delegation

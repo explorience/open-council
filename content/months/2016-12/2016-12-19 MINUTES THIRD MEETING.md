@@ -18,7 +18,6 @@ December 19, 2016, at  4:01 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:01 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 Councillor P. Hubert discloses a pecuniary
@@ -59,10 +58,8 @@ Councillor S. Turner discloses a pecuniary
   to do with the Business Licensing By-law Review, by indicating that his
   employer is involved in the enforcement of this By-law.
 
-# III.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
 > Moved by Councillor J. Morgan
 
@@ -177,7 +174,6 @@ Motion Passed
 
 ****
 
-# IV.&nbsp;&nbsp;&nbsp;COUNCIL, IN CLOSED SESSION
   (COntinued)
 
 > Moved by Councillor P. Hubert
@@ -213,7 +209,6 @@ Motion Passed
 
 ****
 
-# V.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE FIRST MEETING HELD ON DECEMBER 6, 2016 AND
   THE SECOND MEETING HELD ON DECEMBER 13, 2016
 
@@ -250,7 +245,6 @@ Motion Passed
 
 ****
 
-# VI.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
 > Moved by Councillor M. van Holst
@@ -262,7 +256,6 @@ Approve receipt and referral of the
 
 ****
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosure of Pecuniary Interest
 
 Motion Passed
 
@@ -287,13 +280,11 @@ Motion Passed
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Election of
   Vice-Chair for the term ending November 30, 2017
 
 That M. van Holst BE ELECTED Vice Chair of
   the Audit Committee for the term ending November 30, 2017.
 
-# 3.&nbsp;&nbsp;&nbsp;Request for the
   City of London to Engage PricewaterhouseCoopers LLP on Behalf of the London
   & Middlesex Housing Corporation
 
@@ -306,10 +297,8 @@ That the request dated November 2, 2016,
   will be referred to the new outsourced internal auditor for the City of
   London, for incorporation into the new audit work plan.
 
-# VII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# VIII.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor T. Park
 
@@ -317,7 +306,6 @@ Approve clauses 1 to 15, excluding clauses 7 and 12.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Quarterly Report on
   the Internal Audit Results
 
 That, on the recommendation of
@@ -333,7 +321,6 @@ b)         the
   By-law Enforcement & Licensing, Facilities Design & Construction,
   Development & Compliance Services and Corporate Services) BE RECEIVED.
 
-# 5.&nbsp;&nbsp;&nbsp;Adelaide
   Street/Canadian Pacific Railway Grade Separation Environmental Assessment
   Update
 
@@ -367,7 +354,6 @@ Motion Passed
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Options for
   Increased Recycling in the Downtown Core
 
 That, on the recommendation of the
@@ -402,7 +388,6 @@ iv)        the
   recommended approach for increasing recycling in the Downtown area. 
   (2016-E07)
 
-# 8.&nbsp;&nbsp;&nbsp;Memorandum of
   Understanding with the University of Western Ontario (Institute for Chemicals
   and Fuels from Alternative Resources) as Part of the London Waste to
   Resources Innovation Centre (Relates to Bill No. 33)
@@ -427,7 +412,6 @@ b)         authorize
   the Mayor and the City Clerk to execute the Memorandum of Understanding
   authorized and approved in a), above.  (2016-E07)
 
-# 9.&nbsp;&nbsp;&nbsp;J. Matthews, P.
   Eng., Dillon Consulting  -  Dundas Place - Environmental Study Report
 
 That, on the recommendation of the Managing
@@ -449,13 +433,11 @@ it being noted that the Civic Works
   Committee received the attached presentation from S. Stanlake-Wong,
   Dillon Consulting, with respect to this matter.   (2016-D19)
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the Civic Works Committee Deferred
   Matters List, as at December 6, 2016, BE RECEIVED.
 
-# 11.&nbsp;&nbsp;&nbsp;Rapid Transit
   Corridor Traffic Flow
 
 That the Civic Administration BE DIRECTED
@@ -465,7 +447,6 @@ That the Civic Administration BE DIRECTED
   businesses in the Downtown area and, in particular, along the proposed rapid
   transit corridors.
 
-# 13.&nbsp;&nbsp;&nbsp;London Police
   Service Board - Application to Increase Board Size from Five to Seven Members
 
 hat the following actions be taken with
@@ -486,7 +467,6 @@ c)         the
   London Police Services Board communication dated December 5, 2016 BE RECEIVED
   for information.
 
-# 14.&nbsp;&nbsp;&nbsp;Review of Corporate
   Assets: Initial Scoping Report
 
 That, on the recommendation of the Managing
@@ -541,7 +521,6 @@ h)         the
 i)          the communication dated
   December 9, 2016 from C. Butler, BE RECEIVED.
 
-# 15.&nbsp;&nbsp;&nbsp;Request for
   Designation of the International Food Festival as a Municipally Significant
   Event
 
@@ -549,7 +528,6 @@ That the International Food Festival, to be
   held June 23, 2017 to June 25, 2017 in Victoria Park, BE DESIGNATED as an
   event of municipal significance in the City of London.
 
-# 7.&nbsp;&nbsp;&nbsp;Comments of the
   Ministry of Energy's Discussion Paper on Ontario's Long-Term Energy Plan for
   Submission to the Environmental Bill of Rights (EBR) Registry
 
@@ -578,7 +556,6 @@ Approve clauses 1 to 4, inclusive.
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Community Safety
   and Crime Prevention Advisory Committee Amendment to Terms of Reference
 
 That, on the recommendation of the City
@@ -588,26 +565,22 @@ That, on the recommendation of the City
   Members-at-Large from 4 to 5 and by deleting the Non-Voting Resource position
   representing the Block Parent Office.
 
-# 22.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the December 2016 Deferred Matters
   List for the Community and Protective Services Committee BE RECEIVED.
 
-# 23.&nbsp;&nbsp;&nbsp;11th Report of the
   Accessibility Advisory Committee
 
 That the Confidential Appendix to the 11th
   Report of the Accessibility Advisory Committee BE RECEIVED.
 
-# 16.&nbsp;&nbsp;&nbsp;Request for
   Designation of the London Rib Fest as a Municipally Significant Event
 
 That the London Rib Fest, to be held August
   3, 2017 to August 7, 2017, in Victoria Park, BE DESIGNATED as an event of
   municipal significance in the City of London.
 
-# 18.&nbsp;&nbsp;&nbsp;Court Security and
   Prisoner Transportation ProgramTransfer Payment Agreement (Relates to Bill
   No. 34)
 
@@ -620,9 +593,7 @@ That, on the recommendation of the Managing
   and Her Majesty the Queen in Right of Ontario; and to authorize the Mayor and
   the City Clerk to execute the Agreement.
 
-# II.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# 19.&nbsp;&nbsp;&nbsp;Section 18(14)
   Council Policy Manual (Relates to Bill No. 43)
 
 That, on the recommendation of the Managing
@@ -640,10 +611,8 @@ a)         the
 b)         the remainder of the above-noted
   staff report BE RECEIVED for information.
 
-# 20.&nbsp;&nbsp;&nbsp;Affordable Access to City-Owned Community
   Centres and Recreation Facilities
 
-# 21.&nbsp;&nbsp;&nbsp;Business Licensing
   By-law Review - Status Update
 
 That, on the recommendation of the Managing
@@ -681,7 +650,6 @@ Approve clauses 1 to 5, 8, 9, 12 to 16, 18 and 19.
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;Repeal and Amendment of Financial Services
   Policies (Relates to Bill Nos. 41 and 42)
 
 That, on the recommendation of the Managing
@@ -707,16 +675,12 @@ b)         the
   Council Policy 8(21) entitled “Property Tax Relief for Legions” and replacing
   it with a revised Council Policy 8(21).
 
-# IX.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS (continued)
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -1092,7 +1056,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

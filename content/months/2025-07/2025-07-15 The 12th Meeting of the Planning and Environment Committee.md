@@ -22,11 +22,9 @@ July 15, 2025, at  1:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by E. Peloza
 
@@ -84,7 +82,6 @@ b)    the Civic Administration BE DIRECTED to forward the above-mentioned staf
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;15 Capulet Walk (O-25061)
 
@@ -937,15 +934,12 @@ That the motion, as amended, BE APPROVED.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 > Moved by S. Hillier
 
@@ -975,7 +969,6 @@ That committee convene In Closed Session, from 4:32 PM to 4:55 PM.
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by S. Hillier
 

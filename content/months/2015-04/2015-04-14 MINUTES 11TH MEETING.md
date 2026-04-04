@@ -15,7 +15,6 @@ April 14, 2015, at  4:03 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:03 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 Councillor P. Hubert discloses a pecuniary
@@ -37,19 +36,13 @@ Councillor J. Helmer discloses a pecuniary
   by indicating that he has a service contract with the London Youth Advisory
   Council.
 
-# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
-# IV.&nbsp;&nbsp;&nbsp;RECOGNITIONS (Continued)
 
-# 2.&nbsp;&nbsp;&nbsp;Service London Update Report
 
-# V.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
 MOTION FOR IN CAMERA SESSION
@@ -77,7 +70,6 @@ Motion Passed
 
 ****
 
-# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE TENTH MEETING HELD ON MARCH 31, 2015
 
 > Moved by Councillor H.L. Usher
@@ -112,13 +104,10 @@ Motion Passed
 
 ****
 
-# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
-# VIII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# IX.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor M. Cassidy
 
@@ -126,7 +115,6 @@ Approve clauses 1 to 16, excluding clauses 2, 6, 8 and 11.
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;In recognition of
   the community contributions made by students attending London's
   post-secondary educational institutions, His Worship the Mayor and Members of
   Council welcome and recognize representatives of the Students' Councils from
@@ -148,9 +136,7 @@ King's University College Students'
 Fanshawe Student Union: Matt Stewart,
   President and Alan Bushell, President-Elect
 
-# 4.&nbsp;&nbsp;&nbsp;Development Charges Orientation
 
-# 5.&nbsp;&nbsp;&nbsp;Investing in the Arts – Building a New
   Collaborative Orchestra Model – “WE PLAY ON” Performance Fund and
   Reallocation of Community Arts Investment Program (CAIP) Arts Funding
 
@@ -173,15 +159,11 @@ Motion Passed
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;London Hydro’s Annual General Meeting (AGM)
   Request
 
-# 9.&nbsp;&nbsp;&nbsp;City Budget 2015 Comments – London Chamber
   of Commerce
 
-# 10.&nbsp;&nbsp;&nbsp;1st Report of the Governance Working Group
 
-# 12.&nbsp;&nbsp;&nbsp;Possible Amendments
   to the Tree Conservation By-law and Site Alteration By-law
 
 That Planning and Legal Staff BE DIRECTED
@@ -189,7 +171,6 @@ That Planning and Legal Staff BE DIRECTED
   bring forward changes to the Tree Conservation By-law and the Site Alteration
   By-law, as soon as possible.
 
-# 13.&nbsp;&nbsp;&nbsp;London Clean and
   Green Updates
 
 That, on the recommendation of the Director
@@ -197,14 +178,12 @@ That, on the recommendation of the Director
   with respect to the London Clean and Green Update, BE RECEIVED for
   information. (2015-E07)
 
-# 14.&nbsp;&nbsp;&nbsp;Parking Sign at 35
   Stirrup Court
 
 That NO ACTION BE TAKEN with respect to the
   request for delegation status from M. D'Andrea with respect to the parking
   sign at 35 Stirrup Court.
 
-# 15.&nbsp;&nbsp;&nbsp;Confirmation of
   Appointment to the Accessibility Advisory Committee
 
 That Ashfaq Husain representing Ontarians
@@ -212,7 +191,6 @@ That Ashfaq Husain representing Ontarians
   to the Accessibility Advisory Committee for the term ending February 28,
   2019.
 
-# 16.&nbsp;&nbsp;&nbsp;Confirmation of
   Appointment to the Community Safety and Crime Prevention Advisory Committee
 
 That Sheila Amri representing Youth between
@@ -220,10 +198,8 @@ That Sheila Amri representing Youth between
   and Crime Prevention Advisory Committee for the term ending February 28,
   2019.
 
-# 6.&nbsp;&nbsp;&nbsp;London & Middlesex Housing Corporation
   2015 Shareholder’s Meeting Request
 
-# 8.&nbsp;&nbsp;&nbsp;Nomination of Individuals for Appointment
   to the London Downtown Business Association for the term ending November 30,
   2018
 
@@ -279,7 +255,6 @@ Motion Passed
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Orientation – Tax Policy
 
 Motion Passed
 
@@ -303,10 +278,8 @@ Motion Passed
 
 ****
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
 Councillor Morgan enquires if the Civic
   Administration could investigate and report back on the appropriate
@@ -315,7 +288,6 @@ Councillor Morgan enquires if the Civic
   committee meetings, as opposed to at the Council meeting.  His Worship the Mayor
   advises that this matter will be considered by the Governance Working Group.
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
 > Moved by Councillor M. Cassidy
@@ -402,7 +374,6 @@ Motion Passed
 
 ****
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -623,7 +594,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

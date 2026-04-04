@@ -17,7 +17,6 @@ December 11, 2018, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Call to Order
 
 ## 1.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
@@ -43,7 +42,6 @@ That Councillor S. Lehman BE ELECTED Vice Chair of the Civic Works Committee for
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by M. van Holst
 
@@ -91,7 +89,6 @@ That it BE NOTED that the 9th Report of the Transportation Advisory Committee, f
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Application by - The Corporation of the City of London Street Renaming Portion of Third Street ( From Oxford Street East to Cheapside Street) To Baransway Drive
 
@@ -163,7 +160,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;11th Meeting of the Cycling Advisory Committee
 
@@ -237,7 +233,6 @@ That an expert in the field of autonomous vehicles and ride sharing BE INVITED 
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -303,7 +298,6 @@ That the request for delegation from K. Miller and C. Gupta with respect to Safe
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 4:35 PM.
 

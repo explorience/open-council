@@ -17,11 +17,9 @@ March 21, 2023, at  4:15 PM
 
 The special meeting was called to order at 4:15 PM.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Stevenson
 
@@ -290,11 +288,9 @@ Motion to approve the delegation request by C. Smith to be heard at this meeting
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;REQUEST FOR DELEGATION STATUS - J. Salisbury - Subsidized Bus Pass Program
 
@@ -374,11 +370,9 @@ it being noted that a copy of this motion will be sent to the Minister of Munici
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 5:59 PM.
 ---

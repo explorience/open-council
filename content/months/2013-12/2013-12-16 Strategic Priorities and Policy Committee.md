@@ -12,7 +12,6 @@ December 16, 2013, at  4:06 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, J. Braam, B. Coxhead, M. Daley, K. Graham, M. Hayward, G.T. Hopcroft, G. Kotsifas, L. Livingstone, R. Paynter, M. Ribera, C. Saunders, E. Soldo, J. Stanford, R. Wilcox
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that Councillor
@@ -20,7 +19,6 @@ Recommendation:  That it BE NOTED that Councillor
   specifically having to do with the Residential Rental Licensing Fees, by
   indicating that he is a landlord.
 
-# 2.&nbsp;&nbsp;&nbsp;2013 Community
   Survey
 
 Recommendation:  That, on the
@@ -28,7 +26,6 @@ Recommendation:  That, on the
   with respect to a survey of Londoners as conducted by Environics Research
   Group BE RECEIVED for information.
 
-# 3.&nbsp;&nbsp;&nbsp;Service London
   Update Report
 
 Recommendation:  That, on the
@@ -37,7 +34,6 @@ Recommendation:  That, on the
   progress associated with the Service London Implementation Plan BE RECEIVED
   for information.
 
-# 4.&nbsp;&nbsp;&nbsp;Public
   Participation Meeting - Amendments to Consolidated Fees and Charges By-law
 
 Recommendation:  That the following actions
@@ -114,14 +110,12 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;2013 Report to the
   Community
 
 Recommendation:  That the presentation from
   the City Manager and the Manager, Corporate Initiatives, with respect to the
   2013 Report to the Community BE RECEIVED.
 
-# 6.&nbsp;&nbsp;&nbsp;Cycling Advisory
   Committee
 
 Recommendation:  That the following actions

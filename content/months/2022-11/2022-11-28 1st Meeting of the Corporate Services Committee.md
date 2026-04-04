@@ -17,7 +17,6 @@ November 28, 2022, at 12:00 PM
 
 The meeting is called to order at 12:00 PM.
 
-# 1.&nbsp;&nbsp;&nbsp;Call to Order
 
 ## 1.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
@@ -44,7 +43,6 @@ That Councillor S. Trosow BE APPOINTED Vice Chair for the term ending November 1
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by H. McAlister
 
@@ -233,11 +231,9 @@ d)    the approval hereby given BE CONDITIONAL upon the City of London (The Co
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Not to be heard before 12:05 PM - Tribunal - Development Charge Appeal
 
@@ -302,11 +298,9 @@ That the meeting of the Tribunal, under Section 26 of By-law C.P.-1551-337 BE AD
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by S. Stevenson
 
@@ -369,7 +363,6 @@ The Corporate Services Committee convenes in Closed Session from 1:07 PM to 1:39
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by D. Ferreira
 

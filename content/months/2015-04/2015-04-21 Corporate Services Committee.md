@@ -12,13 +12,11 @@ April 21, 2015, at 12:07 PM
 > [!abstract]- Also Present:
 > J. Helmer, V. Ridley, M. Salih, M. van Holst; A. Zuidema, G. Belch, H. Chapman, A. Drost, A. Dunbar, J. Edmunds, K. Graham, M. Hayward, C. Keller, G. Kotsifas, L. Marshall, K. Pawelec, M. Schulthess, J. Smout, S. Spring, J. Tansley, B. Warner, T. Wellhauser
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Phase ll - Award of
   Construction Contract for the Renovations to the Normal School Project
   #GG1558
 
@@ -123,7 +121,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Apportionment of
   Taxes
 
 That, on the recommendation of the Managing

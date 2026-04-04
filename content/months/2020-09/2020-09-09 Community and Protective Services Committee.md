@@ -22,11 +22,9 @@ September 9, 2020, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Hillier
 
@@ -110,7 +108,6 @@ f)     the Civic Administration BE DIRECTED to provide an update to Municipal
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;2020 Parkland Dedication By-law CP-9 Update 
 
@@ -202,7 +199,6 @@ That, on the recommendation of the Managing Director, Neighbourhood, Children an
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Taxi Licensing Fees - Hasan Savehilaghi, Yellow London Taxi Inc. - Request for Delegation Status 
 
@@ -258,7 +254,6 @@ Motion to approve the verbal delegation by H. Savehilaghi, Yellow London Taxi In
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -306,7 +301,6 @@ That NO ACTION BE TAKEN with respect to the communication dated August 26, 2020,
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 6:03 PM.
 

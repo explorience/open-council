@@ -17,11 +17,9 @@ November 12, 2018, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by A. Hopkins
 
@@ -248,7 +246,6 @@ That the Building Division Monthly Report for the month of September, 2018 BE RE
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Public Participation Meeting - Application - 1175 Blackwell Boulevard (Z-8954)  
 
@@ -1245,7 +1242,6 @@ d)  the Civic Administration BE REQUESTED to investigate and report to the Civ
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;D. Broostad, Hamilton Road Area Business Association - Request for Amendment to Hamilton Road BIA By-laws 
 
@@ -1268,7 +1264,6 @@ That the City Clerk BE DIRECTED to bring forward to a future meeting of Municipa
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) 11th Report of the Advisory Committee on the Environment
 
@@ -1301,7 +1296,6 @@ c)            clauses 1.1, 3.1, 3.2, 5.1 to 5.3, inclusive, 6.2, 6.3 
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential 
 
 > Moved by T. Park
 
@@ -1340,7 +1334,6 @@ A personal matter pertaining to identifiable individuals, including municipal em
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 10:58 PM
 

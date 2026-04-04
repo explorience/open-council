@@ -17,19 +17,15 @@ March 3, 2026, at  1:00 PM
 
 The meeting is called to order at 1:00 PM; it being noted that His Worship J. Morgan and Councillor S. Hillier were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
 
 > Motion made by P. Van Meerbergen
 
@@ -77,7 +73,6 @@ That Council convenes In Closed Session, from 1:08 PM to 1:16 PM.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
 At 1:17 PM, His Worship Mayor J. Morgan enters the meeting remotely.
 
@@ -114,7 +109,6 @@ That the Minutes of the 3rd Meeting of the Municipal Council, held on February 1
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 > Motion made by A. Hopkins
 
@@ -365,11 +359,9 @@ it being further noted that Councillor E. Peloza will no longer remain appointed
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 None.
 
-# 8.&nbsp;&nbsp;&nbsp;Reports
 
 ## 8.1&nbsp;&nbsp;&nbsp;4th Report of the Planning and Environment Committee
 
@@ -2286,23 +2278,18 @@ b) MNP BE DIRECTED to change the submission date for the Privacy Audit from Dece
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 That it BE NOTED progress was made with respect to the 4th Report of the Council, In Closed with items 4.1 (6.1/4/PEC), 4.2 (6.1/4/SPPC), 4.3 (6.1/4/ICSC), 4.4 (6.2/4/ICSC) as noted on the public agenda.
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-# 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 None.
 
-# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 
 None.
 
-# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 > Motion made by S. Lehman
 
@@ -2730,7 +2717,6 @@ That Third Reading and Enactment of Bill No.’s 95 to Bill No. 122, BE APPROVED
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by H. McAlister
 
@@ -2744,7 +2730,6 @@ The meeting adjourned at 6:35 PM.
 
 ****
 
-# Appendix: New Bills
 
 > [!abstract]- The following Bills are enacted as By-laws of The Corporation of the City of London:
 > **Bill No. 95**

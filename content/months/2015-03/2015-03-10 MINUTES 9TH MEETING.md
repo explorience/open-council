@@ -18,7 +18,6 @@ March 10, 2015, at  4:07 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:07 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 Councillor P. Hubert discloses a pecuniary
@@ -110,27 +109,19 @@ Councillor T. Park discloses a pecuniary
   to a proposed or pending acquisition or disposition of land by the
   municipality or local board as she owns a neighbouring property.
 
-# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
-# 2.&nbsp;&nbsp;&nbsp;Industrial Land
   Development Strategy - Annual Monitoring and Pricing Report - City of London
 
-# IV.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# 3.&nbsp;&nbsp;&nbsp;Allocation of 2015
   Assessment Growth Funding
 
-# 4.&nbsp;&nbsp;&nbsp;Performing Arts
   Centre
 
-# V.&nbsp;&nbsp;&nbsp;COMMITTEE OF THE WHOLE, IN
   CAMERA (continued)
 
 MOTION FOR IN CAMERA SESSION
@@ -304,7 +295,6 @@ Motion Passed
 
 ****
 
-# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE SEVENTH AND EIGHTH MEETINGS HELD ON
   FEBRUARY 24, 2015 AND FEBRUARY 26, 2015, RESPECTIVELY
 
@@ -342,7 +332,6 @@ Motion Passed
 
 ****
 
-# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
 > Moved by Councillor H.L. Usher
@@ -354,10 +343,8 @@ Approve the Receipt and Referral of the
 
 ****
 
-# VIII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# IX.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor H.L. Usher
 
@@ -365,19 +352,14 @@ Approve clauses 1 to 11, excluding clause 4.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;The London Plan -
   Overview and Status Update
 
-# 6.&nbsp;&nbsp;&nbsp;Industrial Land
   Development Strategy Update
 
-# 7.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Middlesex-London Health Unit Board of Health
 
-# 8.&nbsp;&nbsp;&nbsp;Music and
   Entertainment District for London, Ontario
 
-# 9.&nbsp;&nbsp;&nbsp;Delegation by the
   African Canadian Federation of London and Area
 
 Motion Passed
@@ -404,14 +386,12 @@ Motion Passed
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Confirmation of
   Appointment to the Cycling Advisory Committee
 
 That George Sinclair BE CONFIRMED as a
   Voting Member on the Cycling Advisory Committee, representing the Urban
   League of London, for the term ending February 28, 2019.
 
-# 11.&nbsp;&nbsp;&nbsp;Confirmation of
   Appointment to the London Diversity and Race Relations Advisory Committee
 
 That the following individuals BE CONFIRMED
@@ -423,7 +403,6 @@ Michelle Lynne Goodfellow – representing
 Fae Andrighetti – representing Faith-Based
   Community Groups
 
-# 13.&nbsp;&nbsp;&nbsp;Council Policy
   28(2) - Council Members' Expense Account
 
 That the City Clerk BE DIRECTED to
@@ -505,7 +484,6 @@ Motion Passed
 Motion made by Councillor P. Hubert Approve
   clause 1.
 
-# 12.&nbsp;&nbsp;&nbsp;2015 Debenture
   Issue Update - Delegation - Karen Yeung, Director, Government Finance-Debt
   Capital Markets, CIBC World Markets Inc.
 
@@ -530,7 +508,6 @@ it being noted that the Corporate Services
   Finance-Debt Capital Markets, CIBC World Markets Inc., regarding the
   debenture issuance and general market conditions and forecasts.
 
-# 14.&nbsp;&nbsp;&nbsp;Potential Youth
   Award
 
 That the City Clerk BE DIRECTED to liaise
@@ -538,15 +515,11 @@ That the City Clerk BE DIRECTED to liaise
   to explore the establishment of an award that recognizes the contributions of
   the local youth population to the community.
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -716,7 +689,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

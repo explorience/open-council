@@ -15,13 +15,11 @@ September 6, 2016, at 12:00 PM
 > [!abstract]- Also Present:
 > B. Armstrong, M. Cassidy, J. Helmer, A. Hopkins, M. Salih, P. Squire, S. Turner, M. van Holst; Deputy Premier, The Honourable D. Matthews, Minister of Advanced Education, Skills Development, Minister Responsible for Digital Government, P. Sattler, M.P.P, London West, T. Armstrong, M.P.P. London-Fanshawe, J. Yurek, M.P.P. Elgin-Middlesex-London, A. Zuidema, A.L. Barbon, G. Belch, J. Braam, C. Dyck, P. Foto, J. Freeman, K. Graham, A. Hagan, J. Kobarda, L. Livingstone, V. McAlea Major, D. O’Brien, L. Palarchio, M. Ribera, S. Spring, A. Thompson, B. Warner
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Expropriation of Land - Western Road Widening and Improvements Project
   (TS1489-1)
 
@@ -40,7 +38,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Employee Absenteeism 2016 Mid-Year Review Update
 
 That, on the recommendation of the Managing
@@ -81,7 +78,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;COUNCIL MEMBER
   SUBMISSION - Pay Equity
 
 That the Civic Administration BE REQUESTED
@@ -93,14 +89,12 @@ That the Civic Administration BE REQUESTED
   the timelines to address those gaps; it being noted that the City of London
   must demonstrate leadership in this area for employers across the city.
 
-# 7.&nbsp;&nbsp;&nbsp;ADDED - The Roast -
   Request for Designation as a Municipally Significant Event
 
 That the Roast, an annual outdoor BBQ to be
   held on Friday, October 7, 2016, in Old East Village at 792 Dundas Street, BE
   DESIGNATED as an event of municipal significance in the City of London.
 
-# 8.&nbsp;&nbsp;&nbsp;ADDED – London Township Treaty –
     Anniversary Recognition
 
 (See Confidential Appendix to the 20th

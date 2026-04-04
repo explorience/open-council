@@ -20,11 +20,9 @@ August 14, 2023, at 12:00 PM
 
 The meeting is called to order at 12:00 PM.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;Council Policy Review - Flags at City Hall and Illumination of City of London Buildings and Amenities
 
@@ -98,11 +96,9 @@ vii)    December: red and green for the holidays”
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Application - Issuance of Proclamation - Orange Shirt Day/National Day for Truth and Reconciliation 
 
@@ -184,11 +180,9 @@ That Items 4.2, Application for National Children's Grief Awareness Day, and 4.3
 
 [2023-08-14 Submission - Proclamation - 23rd Annual Child Care Worker](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=101997>)
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by H. McAlister
 
@@ -291,7 +285,6 @@ The Corporate Services Committee convenes in Closed Session from 12:12 PM to 12:
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by D. Ferreira
 

@@ -22,11 +22,9 @@ July 14, 2020, at 12:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by E. Peloza
 
@@ -220,11 +218,9 @@ e)       the Mayor and the City Clerk BE AUTHORIZED to execute any contrac
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Contract Award: RFT 20-59 - 2020 Infrastructure Renewal Program Contract 12 - Highway Avenue and Lambeth Avenue
 
@@ -307,7 +303,6 @@ That, pursuant to Section 27.6 of the Council Procedure By-law, the order of bus
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -331,7 +326,6 @@ That the deferred matters list, as at July 6, 2020, BE RECEIVED.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 12:56 PM.
 

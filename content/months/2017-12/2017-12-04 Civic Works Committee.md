@@ -15,13 +15,11 @@ December 4, 2017, at 12:00 PM
 > [!abstract]- Also Present:
 > J. Helmer, M. van Holst; T. Copeland, A. Dunbar, G. Gauld, D. Huggins, G. Kotsifas, A. Macpherson, D. MacRae, S. Maguire, R. Pedlow, M. Ribera, K. Scherr, E. Soldo, J. Stanford
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That
   it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Election of Vice
   Chair for the Term Ending November 30, 2018
 
 That Councillor T. Park BE ELECTED Vice
@@ -42,7 +40,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Veterans Memorial
   Parkway – Community Program for Landscape Enhancements - Final Report
 
 That, on the recommendation of the Managing
@@ -105,7 +102,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Updates -  Proposed
   Food and Organic Waste Framework - Blue Box Program Plan Amendment and Waste
   Free Ontario Act - Update
 
@@ -130,7 +126,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Amendments to the
   Traffic And Parking By-Law
 
 That, on the recommendation of the Managing
@@ -155,7 +150,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Public Education
   And Communication Program: Toilets Are Not Garbage Cans
 
 That, on the recommendation of the Managing
@@ -179,7 +173,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Flooding Matters
   Weeping Tile Connection Charge Feasibility Analysis
 
 That the following actions be taken with
@@ -216,7 +209,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Local Improvement
   Policy Review
 
 That, on the recommendation of the Managing
@@ -247,7 +239,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;2017 External Audit
   of London’s Drinking Water Quality Management System and 2017 Management
   Review
 
@@ -272,7 +263,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;11th Report of the
   Cycling Advisory Committee
 
 That the 11th Report of the Cycling
@@ -293,7 +283,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Report on Private
   Works Impacting
 the
   Transportation Network
@@ -348,7 +337,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;10th Report of the
   Transportation Advisory Committee
 
 That the 10th Report of the Transportation
@@ -369,7 +357,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the Deferred Matters List for the

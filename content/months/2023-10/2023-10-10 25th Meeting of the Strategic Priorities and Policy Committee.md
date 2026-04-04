@@ -20,11 +20,9 @@ October 10, 2023, at  4:00 PM
 
 The meeting is called to order at 4:00 PM; it being noted that Councillors S. Hillier, E. Peloza and P. Van Meerbergen were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Councillor S. Franke discloses a pecuniary interest in Item 4.2, having to do with appointments to the London Transit Commission by indicating that her brother is an applicant.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by C. Rahman
 
@@ -122,11 +120,9 @@ c)  clauses 1.1 and 5.1 BE RECEIVED for information.
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;2023 Corporate Asset Management Plan
 
@@ -376,15 +372,12 @@ Part c), as amended, BE APPROVED.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 None.
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by S. Franke
 

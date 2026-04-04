@@ -12,10 +12,8 @@ November 2, 2015, at  4:02 PM
 > [!abstract]- Also Present:
 > H.L. Usher, M. van Holst, J. Zaifman; G. Barrett, M. Elmadhoon, J.M. Fleming, S. Galloway, K. Gonyou, T. Grawey, P. Kokkoros, G. Kotsifas, E. Lalande, A. MacLean, A. Macpherson, D. Menard, M. Pease, J. Ramsay, S. Spring, M. Tomazincic, B. Westlake-Power, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Property located at
   275 Thames Street
 
 That, on the recommendation of the Managing
@@ -50,7 +48,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Property located at
   510 Central Avenue (SP15-005948)
 
 That, on the recommendation of the Manager,
@@ -80,7 +77,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;12th Report of the
   London Advisory Committee on Heritage
 
 That, the following actions be taken with respect
@@ -250,7 +246,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Properties located
   at 2095 Coronation Drive and 955 Gainsborough Road (39T-15502/Z-8477)
 
 That, on the recommendation of the Planner
@@ -367,7 +362,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Property located at
   2170 Wharncliffe Road South (TZ-8520)
 
 That, on the recommendation of the Managing
@@ -445,7 +439,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Property located at
   759 Elizabeth Street - Request for Demolition
 
 That the following actions be taken with

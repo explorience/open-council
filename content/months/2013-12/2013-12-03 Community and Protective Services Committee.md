@@ -15,10 +15,8 @@ December 3, 2013, at 12:04 PM
 > [!abstract]- Also Present:
 > J.P. Barber, S. Datars Bere, L. Marshall, C. Saunders
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
-# 2.&nbsp;&nbsp;&nbsp;Election of
   Vice-Chair for the term ending November 30, 2014
 
 Recommendation:
@@ -40,7 +38,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Long Term Care and
   Adult Day Program Management Consulting and Administrator Services Contract
   Amendment
 

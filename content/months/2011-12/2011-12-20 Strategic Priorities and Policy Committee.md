@@ -15,7 +15,6 @@ December 20, 2011, at  4:03 PM
 > [!abstract]- Also Present:
 > J.A. Fielding, R.L. Fair, M. Hayward, J.P. Barber, A. Barbon, G. Barrett, J. Braam, P. Christiaans, J. Clark, I. Collins, L. Ducharme, A. Dunbar, J. Edward, M. Elmadhoon, E. Gamble, K. Graham, L. Green, G.T. Hopcroft, J. Lucas, A. Macpherson, V. McAlea Major, B. Masuch, D. O’Brien, L. Palarchio, A. Ripepi, C. Saunders, J. Stanford
 
-# 1.&nbsp;&nbsp;&nbsp;a)         Councillor
   D. Brown disclosed a pecuniary interest in clause 4 of this Report having to
   do with the London 2030 Transportation Master Plan as it relates to London
   Transit by indicating that her employer has a contract with London Transit.
@@ -25,7 +24,6 @@ b)         Councillor
   do with Accommodation Review Committees for the Thames Valley District School
   Board (TVDSB) by indicating that he is employed by the TVDSB.
 
-# 2.&nbsp;&nbsp;&nbsp;Budget App Winner
   Announcement
 
 Recommendation:
@@ -43,7 +41,6 @@ Best Team Submission:     Do it
 
 Grand Prize: Steven Shelby
 
-# 3.&nbsp;&nbsp;&nbsp;Budget Orientation
 
 Recommendation:  That the attached
   presentation from the Director of Financial Planning and Policy BE
@@ -52,7 +49,6 @@ Recommendation:  That the attached
   consideration and recommendation to the Municipal Council as part of the 2012
   Budget process.
 
-# 4.&nbsp;&nbsp;&nbsp;London 2030
   Transportation Master Plan Evaluation of Growth and Intensification Factors
 
 Recommendation:
@@ -95,7 +91,6 @@ it being noted that
   presentations from the Acting Director of Roads and Transportation and D.
   Gordon, AECOM regarding this matter.
 
-# 5.&nbsp;&nbsp;&nbsp;Accommodation
   Review Committees
 
 Recommendation:  That the City Clerk BE
@@ -106,7 +101,6 @@ Recommendation:  That the City Clerk BE
   TVDSB, with the Members of Council whose wards will be directly impacted
   having first right of refusal.
 
-# 6.&nbsp;&nbsp;&nbsp;Councillor J.P. Bryant – Resignation –
   Services Review Committee
 
 Recommendation:  That the resignation of

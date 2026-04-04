@@ -18,7 +18,6 @@ December 11, 2012
 The Council meets in Regular Session in the
   Council Chambers this day at 4:00 p.m.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 Councillor D. Brown discloses a pecuniary
@@ -165,12 +164,10 @@ Motion Passed
 
 ****
 
-# II.&nbsp;&nbsp;&nbsp;REVIEW OF CONFIDENTIAL MATTERS
   TO BE CONSIDERED IN PUBLIC
  
 None.
 
-# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
 > Moved by Councillor S.E. White
@@ -208,7 +205,6 @@ Motion Passed
 
 ****
 
-# IV.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
 > Moved by Councillor B. Polhill
@@ -245,9 +241,7 @@ Motion Passed
 
 ****
 
-# V.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-# 1.&nbsp;&nbsp;&nbsp;Organizational Matters Update
 
 > Moved by Councillor H.L. Usher  that,
   as a procedural matter pursuant
@@ -270,7 +264,6 @@ it being noted that the Finance and
 
 ****
 
-# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE NINETEENTH MEETING HELD ON NOVEMBER 20,
   2012
 
@@ -307,7 +300,6 @@ Motion Passed
 
 ****
 
-# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
 > Moved by Councillor P. Hubert
@@ -319,7 +311,6 @@ Approve referral of the following communications
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Update Dearness Matters
 
 Motion Passed
 
@@ -345,7 +336,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Minutes of the 1st
   Meeting of the County/City Liaison Committee
 
 That the following
@@ -406,23 +396,19 @@ Motion Passed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Election of Vice-Chair for the term ending
   November 30, 2013
 
 That Councillor J.P. Bryant BE ELECTED as
   Vice Chair of the Corporate Services Committee for the term ending
   November 30, 2013.
 
-# IX.&nbsp;&nbsp;&nbsp;REPORTS
 
-# 13.&nbsp;&nbsp;&nbsp;Extension of Term
   for Jeff Brown to the London International Airport Board of Directors
 
 That, on the recommendation of the London
   International Airport Board of Directors, the current appointment of Jeff
   Brown BE EXTENDED for two years effective August, 2014.
 
-# 5.&nbsp;&nbsp;&nbsp;Audit Planning
   Report for the year ending December 31, 2012
 
 That the attached KPMG LLP
@@ -438,7 +424,6 @@ Approve clauses 1 to 4, inclusive.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Ontario Concrete Pipe Association
 
 That it BE NOTED that Councillor D.G.
   Henderson advised the Investment and Economic Prosperity Committee that he is
@@ -446,7 +431,6 @@ That it BE NOTED that Councillor D.G.
   forward to add to the list of investment and economic prosperity proposals,
   at no cost to the City, in order to further London’s economic position.
 
-# 7.&nbsp;&nbsp;&nbsp;Grand Theatre Proposal
 
 That the communication dated November 15,
   2012, with respect to the Grand Theatre’s proposal for a Downtown concert
@@ -454,7 +438,6 @@ That the communication dated November 15,
   developing its report back on the various investment and economic prosperity
   proposals.
 
-# 9.&nbsp;&nbsp;&nbsp;Industrial Lands
   Review O-8014
 
 That, on the recommendation of the Managing
@@ -477,7 +460,6 @@ it being noted that the Strategic
   from Managing Director, Planning and City Planner and the Manager III, Land
   Use Planning Policy with respect to this matter.
 
-# 10.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Argyle BIA Board of Management
 
 That the following individuals BE APPOINTED
@@ -498,7 +480,6 @@ That the following individuals BE APPOINTED
   Canada Inc
 -           Bill Ross - M&M Meat Shops
 
-# 11.&nbsp;&nbsp;&nbsp;Appointment Recommendations for the London
   Convention Centre Board of Directors
 
 That the following actions be taken with
@@ -548,7 +529,6 @@ Approve clauses 1 – 10, except clauses 7 and 8.
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;London Police
   Services Board
 
 That the following actions be taken with
@@ -564,7 +544,6 @@ b)         Councillor
   D. Brown BE APPOINTED to fill the vacancy on the London Police Services Board
   arising from the resignation of Mayor J.F. Fontana
 
-# 14.&nbsp;&nbsp;&nbsp;Property located at
   3455 Morgan Crescent (H-8061)
 
 That, on the recommendation of the Manager
@@ -577,7 +556,6 @@ That, on the recommendation of the Manager
   (h-h-53-R5-4/R6-5/R7-D100-H-30) Zone TO a Residential R5/R6/R7
   (R5-4/R6-5/R7-D100-H-30) Zone, to remove the holding provisions.  (2012-D11-07)
 
-# VIII.&nbsp;&nbsp;&nbsp;MOTIONS OF WHICH NOTICE IS
   GIVEN
 
 > Moved by Councillor S.E. White
@@ -613,7 +591,6 @@ Motion Passed
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Music London Initiative
 
 That the communication dated November 22,
   2012, with respect to Orchestra London’s proposal for a Downtown concert
@@ -627,7 +604,6 @@ Approve clauses 1 to 5, inclusive.
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Property located at
   160 Sunningdale Road West (H-8084)
 
 That, on the recommendation of the Senior
@@ -661,7 +637,6 @@ b)         the
   Residential R4 (R4-6) Zone, BE DEFERRED until such time as the holding
   provisions have been addressed to the satisfaction of the City.   (2012-D11-07)
 
-# 16.&nbsp;&nbsp;&nbsp;Andover Trails
   Subdivision - Phase 4 - Special Provisions (39T-07510)
 
 That, on the recommendation of the Manager,
@@ -703,7 +678,6 @@ it being further
   request for a Part II Order on the Municipal Class EA Study for the Pincombe
   Drain Storm/Drainage and Drain Restoration.      (2012-D26-05)
 
-# 17.&nbsp;&nbsp;&nbsp;Fire at 1156 Dundas
   Street
 
 That, on the recommendation of the Managing
@@ -711,7 +685,6 @@ That, on the recommendation of the Managing
   the report, dated November 26, 2012, relating to the recent fire at 1156
   Dundas Street, BE RECEIVED. (2012-P09-00)
 
-# 18.&nbsp;&nbsp;&nbsp;4th Report of the
   Advisory Committee on the Environment
 
 That, the following actions be taken with
@@ -728,7 +701,6 @@ b)         that
   clauses 2 through 6, inclusive, of the 4th Report of the ACE, BE RECEIVED AND
   NOTED.
 
-# 19.&nbsp;&nbsp;&nbsp;4th Report of the
   London Advisory Committee on Heritage
 
 That, the following actions be taken with
@@ -841,7 +813,6 @@ it being noted that
   the Planning and Environment Committee heard a verbal presentation from G.
   Goodlet, Chair, LACH, with respect to these matters.
 
-# 20.&nbsp;&nbsp;&nbsp;3rd Report of the
   Environmental and Ecological Planning Advisory Committee
 
 That, the following actions be taken with
@@ -873,7 +844,6 @@ it being noted that
   the Planning and Environment Committee did not hear a verbal presentation
   from D. Sheppard, Chair, EEPAC, with respect to these matters.
 
-# 22.&nbsp;&nbsp;&nbsp;Property located at
   195 Dundas Street (TZ-8100)
 
 That, on the recommendation of the Managing
@@ -899,7 +869,6 @@ it being pointed out that at the public
   Patton, Patton, Cormier & Associates, on behalf of the applicant –
   expressing support for the application.  (2012-D11-05)
 
-# 23.&nbsp;&nbsp;&nbsp;Property located at
   129 Riverside Drive
 
 That, on the recommendation of the Manager,
@@ -957,7 +926,6 @@ it being pointed out that at the public
   Dougherty, 162 Mount Pleasant Avenue – enquiring as to the status of the
   zoning variance.   (2012-D25-00)
 
-# 24.&nbsp;&nbsp;&nbsp;Request for Demolition - Property located
   at 1523 Bradley Avenue
 
 That, on the recommendation of the Managing
@@ -985,7 +953,6 @@ it being pointed out that there were no
   oral submissions made at the public  participation meeting associated with
   this matter.  (2012-D10-00)
 
-# 27.&nbsp;&nbsp;&nbsp;Property located at 450 Oxford Street West
   (OZ-8003)
 
 That, notwithstanding the recommendation of
@@ -1128,7 +1095,6 @@ it being pointed out that at the public
   advising that they will provide the floodplain information once they have
   it.   (2012-D11-01)
 
-# 28.&nbsp;&nbsp;&nbsp;Demolition Request - Property located at 75
   Bathurst Street
 
 That, on the recommendation of the Managing
@@ -1159,7 +1125,6 @@ it being pointed out that at the public
   Park, 300 South Street, President, SOHO Community Association – expressing
   support for the application.  (2012-D10-00)
 
-# 30.&nbsp;&nbsp;&nbsp;Beaufort/Irwin/Gunn/Saunby/Essex
   ("BIGS") Street Neighbourhood Plan
 
 That, the Civic Administration BE REQUESTED
@@ -1344,7 +1309,6 @@ it being pointed out that at the public
   the Varsity Mills townhouse development; and requesting that the
   neighbourhood be rezoned from an R2-3 Zone to a R3-2 Zone.    (2012-D11-00)
 
-# 31.&nbsp;&nbsp;&nbsp;Old East Village Enhanced Incentives
   Programs
 
 That the Civic Administration BE REQUESTED
@@ -1371,14 +1335,12 @@ it being pointed out that the Planning and
   Clark Bryant, Board Member, Old East Village Business Improvement Area, with
   respect to this matter.   (2012-F12-00)
 
-# 32.&nbsp;&nbsp;&nbsp;Dalmagarry Road
 
 That the Civic Administration BE REQUESTED
   to report to a future meeting of the Planning and Environment Committee with
   respect to an update on the status of the completion of Dalmagarry Road and
   the reason for the delay.
 
-# 21.&nbsp;&nbsp;&nbsp;Property located at 124 St. James Street
 
 That, on the recommendation of the Manager,
   Development Planning, the following actions be taken with respect to the site
@@ -1536,7 +1498,6 @@ Motion Passed
 
 ****
 
-# 25.&nbsp;&nbsp;&nbsp;Properties located at 510, 518 and 526
   Southdale Road East (Z-8092)
 
 That, on the recommendation of the Managing
@@ -1653,7 +1614,6 @@ Motion Passed
 
 ****
 
-# 26.&nbsp;&nbsp;&nbsp;Property located at 1205 Riverside Drive
   (39CD-12512/Z-8099)
 
 Motion Passed
@@ -1680,7 +1640,6 @@ Motion Passed
 
 ****
 
-# 29.&nbsp;&nbsp;&nbsp;Property located at 2095 Coronation Drive
   (Z-8076)
 
 Motion Passed
@@ -1711,12 +1670,9 @@ Approve clauses 1 to 11, inclusive.
 
 ****
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
 > Moved by Councillor B. Polhill
@@ -1787,7 +1743,6 @@ Motion Passed
 
 ****
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -2100,7 +2055,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

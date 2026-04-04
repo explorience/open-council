@@ -12,12 +12,10 @@ October 21, 2013, at  4:05 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, J. Braam, P. Christiaans, I. Collins, J.M. Fleming, M. Hayward, G.T. Hopcroft, J. Lucas, V. McAlea Major, J.P. McGonigle, K. Murray, D. O’Brien, M. Ribera, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;City Manager -
   Strategic Plan Progress Report
 
 Recommendation:  That, on the
@@ -56,7 +54,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;2013 Council
   Compensation Review Task Force
 
 Recommendation:  That the following actions
@@ -748,7 +745,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Managing Director,
   Environmental and Engineering Services and City Engineer - Tabling of the
   2014 Water and Wastewater Budgets
 
@@ -788,7 +784,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Managing Director,
   Corporate Services and City Treasurer, Chief Financial Officer - Proposed
   Public Education, Dialogue and Consultation Plan for Future of London Hydro
   Inc.
@@ -885,7 +880,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Managing Director,
   Corporate Services and City Treasurer, Chief Financial Officer - 2014
   Development Charges Study: Proposed Changes to Development Charges
   Non-Residential Building Conversion and Demolition Policies
@@ -929,7 +923,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;London Convention
   Centre Board of Directors - Appointment Recommendations for the London
   Convention Centre Board of Directors
 
@@ -973,7 +966,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;S. Pineda -
   Resignation from the Covent Garden Market Corporation Board of Directors
 
 Recommendation:  That the communication
@@ -1006,7 +998,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Shine the Light Purple for the Month of
   November 2014
 
 Recommendation:  That Shine the Light

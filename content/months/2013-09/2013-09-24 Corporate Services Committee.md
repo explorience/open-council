@@ -12,12 +12,10 @@ September 24, 2013, at  1:06 PM
 > [!abstract]- Also Present:
 > J.P. Barber, G. Belch, B. Coxhead, A. Dunbar, J. Edward, M. Hayward, G.T. Hopcroft, R. Lamon, V. McAlea Major, T. McCoomb, D. Mounteer, L. Palarchio, R. Paynter, D. Popadic, M. Ribera, A. Ripepi, C. Saunders, J. Senese, M. Turner, B. Warner
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Recommendation: 
   That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Engaging
   Post-Secondary Students in Local Government
 
 Recommendation:  That, on the
@@ -40,7 +38,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Increased
   Engagement of Post-Secondary Students in Local Government - Advisory
   Committee Participation
 
@@ -107,7 +104,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;2012 Investment
   Report
 
 Recommendation:  That, on the
@@ -139,7 +135,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;2012 Annual Report
   - Development Charges Reserve Funds
 
 Recommendation:  That on the recommendation
@@ -172,7 +167,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;London Health
   Sciences Centre - South Street Campus Decommissioning
 
 Recommendation:  That, on the
@@ -209,7 +203,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Canada Caribbean
   Local Economic Development Program
 
 Recommendation:  That, on the
@@ -232,7 +225,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;City of London -
   Website Modernization Project
 
 Recommendation:  That the following actions
@@ -269,7 +261,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;1:30 PM Tax
   Adjustment Agenda
 
 Recommendation:  That the recommendations
@@ -295,7 +286,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Appointment to the
   London Advisory Committee on Heritage
 
 Recommendation:  That Carson Rennick BE

@@ -12,13 +12,11 @@ December 15, 2015, at 12:06 PM
 > [!abstract]- Also Present:
 > J. Helmer, A. Hopkins, T. Park, M. Salih, M. van Holst; A. Zuidema, J.P. Barber, A.L. Barbon, G. Belch, J. Braam, J. Freeman, K. Graham, M. Hayward, V. McAlea Major, D. O’Brien, C. Saunders, J. Smout, E. Soldo, S. Spring, S. Swance, B. Warner, J. Wills
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Request for Write
   Off of Accounts Receivable
 
 That, on the recommendation of the Managing
@@ -44,7 +42,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;2014 Annual Update
   on Budweiser Gardens
 
 That, on the recommendation of the Managing
@@ -84,7 +81,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Appointments to the
   Joint Venture Management Committee for the 4-Pad Arena Complex
 
 That, on the recommendation of the Managing
@@ -111,7 +107,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Standing Committee
   Meetings with MPs and MPPs
 
 That, on the recommendation of the Director
@@ -144,7 +139,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Annual Report -
   Risk Management Services
 
 That, on the recommendation of the Managing
@@ -169,7 +163,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Claim Handling Agreement
   Between The Corporation of the City of London and Frank Cowan Company Limited
   and Indemnity Agreement Between The Corporation of the City of London and The
   Guarantee Company of North America
@@ -200,7 +193,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Report of the
   Federation of Canadian Municipalities Board of Directors Meeting – Ottawa, ON
   - November 17-20, 2015
 
@@ -227,7 +219,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Council Members’
   Seating at Municipal Council Meetings and Strategic Priorities and Policy
   Committee Meetings
 
@@ -251,7 +242,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Confirmation of
   Appointment to the Transportation Advisory Committee
 
 That George Bikas BE APPOINTED as a Voting
@@ -275,7 +265,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Confirmation of
   Appointment to the Accessibility Advisory Committee
 
 That Laurie Lalonde BE APPOINTED as a
@@ -300,7 +289,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Consideration of
   Appointments to the Environmental and Ecological Planning Advisory Committee
 
 That the following individuals BE APPOINTED
@@ -333,7 +321,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Confirmation of Appointment
   to the Advisory Committee on the Environment
 
 That Anne Arnotte BE APPOINTED as a Voting
@@ -358,7 +345,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;(ADDED) Appeal
   Under Section 2.9 of the Procurement of Goods and Services Policy
 
 That the appeal under Section 2.9 of the

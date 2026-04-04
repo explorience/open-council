@@ -25,13 +25,11 @@ August 10, 2020, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that Mayor E. Holder disclosed a pecuniary interest in clause 4.1 of this Report, having to do with the property located at 745-747 Waterloo Street, by indicating that his wife and daughter own the bakery and chocolate shops at that location.
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by E. Holder
 
@@ -213,7 +211,6 @@ it being noted that an Official Plan Amendment to add PMTSA policies to the Lond
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Remove References to 1989 Official Plan from Zoning By-law Z.-1 (Z-8909)
 
@@ -629,7 +626,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Request for Council Resolution, under section 45(1.4) of the Planning Act, R.S.O. 1990, c.P.13 – 745-747 Waterloo Street
 
@@ -753,13 +749,11 @@ Motion to receive the communications and delegation request:
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 7:57 PM.
 

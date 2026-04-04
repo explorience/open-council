@@ -12,16 +12,13 @@ November 29, 2016, at 12:02 PM
 > [!abstract]- Also Present:
 > M. Cassidy, P. Hubert; A. Zuidema, B. Baar, A.L. Barbon, K. Graham, M. Hayward, P. Kokkoros, A. Macpherson, S. Mathers, V. McAlea Major, D. Mounteer, A. Ostrowski, C. Saunders, K. Scherr, B. Warner, P. Yeoman
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Alternatives for Billboard Advertising
 
-# 3.&nbsp;&nbsp;&nbsp;12:30 PM - Tax
   Adjustment Agenda
 
 That the recommendations contained in the
@@ -51,7 +48,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;COUNCIL MEMBER
   SUBMISSION - Association of Municipalities of Ontario - Health Task Force
 
 That the request of Councillor J. Helmer to
@@ -61,7 +57,6 @@ That the request of Councillor J. Helmer to
   budget approval process, and in accordance with the Municipal Council’s Travel
   and Business Expense Policy 28(1).
 
-# 5.&nbsp;&nbsp;&nbsp;ADDED - STAFF
   REPORT - Amending Agreement - London Community Players Loan Agreement
 
 That, on the recommendation of the Managing
@@ -112,7 +107,6 @@ That each meeting
   Indigenous peoples. This territory is covered by the Upper Canada Treaties,
   including Treaty 6, The London Township Treaty.’”
 
-# 7.&nbsp;&nbsp;&nbsp;ADDED – STAFF REPORT – Council Policy
     18(17)
 
 That the attached report dated November
@@ -120,7 +114,6 @@ That the attached report dated November
     RECEIVED; it being noted that the Corporate Services Committee received a
     verbal overview from the City Manager with respect to this matter.
 
-# 8.&nbsp;&nbsp;&nbsp;ADDED – COUNCILLOR ENQUIRY – London
     Police Services Board Composition
 
 That it BE NOTED

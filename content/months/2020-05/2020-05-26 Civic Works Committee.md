@@ -22,11 +22,9 @@ May 26, 2020, at 12:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Mayor E. Holder discloses a pecuniary interest with respect to agenda Item 5.1 - deferred matter #5 - having to do with the property located at 745 Waterloo Street, by indicating that his spouse and daughter operate a business at this location.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by P. Van Meerbergen
 
@@ -159,15 +157,12 @@ b)         authorize the Mayor and the City Clerk to execute the above-n
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -218,7 +213,6 @@ That Deferred Matters List, as at May 15, 2020, item #5 – 745-747 Waterloo Str
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 12:35 PM.
 

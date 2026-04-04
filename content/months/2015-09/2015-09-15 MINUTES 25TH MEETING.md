@@ -15,7 +15,6 @@ September 15, 2015, at  4:02 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:02 PM.
 
-# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 Councillor J. Helmer discloses a pecuniary
@@ -31,13 +30,10 @@ Councillor J. Helmer discloses a pecuniary
   tribunals, affecting the municipally, by indicating that the Service
   Employees International Union (SEIU) is a client of his company.
 
-# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
-# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
-# 1.&nbsp;&nbsp;&nbsp;Councillor M. van
   Holst - City-Owned Billboards
 
 Councillor M. van Holst withdraws his
@@ -45,13 +41,10 @@ Councillor M. van Holst withdraws his
   has indicated that they will be reporting back on this matter in the near
   future.
 
-# IV.&nbsp;&nbsp;&nbsp;RECOGNITIONS, CONTINUED
 
-# 2.&nbsp;&nbsp;&nbsp;Community and
   Development Industry Stakeholder Consultation Regarding Proposed Amendments
   to the Development Charges Act, 1997
 
-# 3.&nbsp;&nbsp;&nbsp;Community Mailbox
   Installation Agreement
 
 > Moved by Councillor J. Morgan
@@ -85,7 +78,6 @@ Motion Passed
 
 ****
 
-# V.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
 MOTION FOR IN CAMERA SESSION
@@ -131,7 +123,6 @@ Motion Passed
 
 ****
 
-# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE TWENTY-FOURTH MEETING HELD ON SEPTEMBER 1,
   2015
 
@@ -169,7 +160,6 @@ Motion Passed
 
 ****
 
-# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
 > Moved by Councillor M. van Holst
@@ -181,10 +171,8 @@ Approve referral of the following
 
 ****
 
-# VIII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
-# IX.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor M. Cassidy
 
@@ -202,12 +190,9 @@ Councillor J. Helmer disclosed a pecuniary
   municipality, by indicating that the Service Employees International Union
   (SEIU) is a client of his company.
 
-# 5.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Town and Gown Committee
 
-# 6.&nbsp;&nbsp;&nbsp;Provincial Transportation Modes
 
-# 4.&nbsp;&nbsp;&nbsp;His Worship the
   Mayor and the Municipal Council recognizes the following City of London
   Employees who have achieved 25 years of service during 2015:
  
@@ -226,10 +211,8 @@ From Legal and Corporate Services: Barbara
 From Parks and Recreation: Brent Hoppe,
   Krista Kearns, Steven Simmonds
 
-# 7.&nbsp;&nbsp;&nbsp;Councillor J. Helmer Enquiry – Moving
   Ontario Forward Consultation
 
-# 8.&nbsp;&nbsp;&nbsp;Hyde Park Road
   Industrial Subdivision (H-8449) (Related to Bill No. 326)
 
 That, on the recommendation of the Planner
@@ -254,7 +237,6 @@ That, on the recommendation of the Planner
   (LI1(3)*LI7) Zone and a Light Industrial Special Provision (LI1(3)*LI7(5))
   Zone to remove the “h-17” holding provision.   (2015-D09)
 
-# 9.&nbsp;&nbsp;&nbsp;Property located at
   1602 Sunningdale Road West (H-8517) (Related to Bill No. 327)
 
 That, on the recommendation of the Manager,
@@ -269,7 +251,6 @@ That, on the recommendation of the Manager,
   Provision (R1-4 (26)) Zone and a Residential R1 (R1-13) Zone to remove the
   holding h and h-100 provisions.   (2015-D09)
 
-# 10.&nbsp;&nbsp;&nbsp;Property located at
   1959 Wharncliffe Road South (H-8494) (Related to Bill No. 328)
 
 That, on the recommendation of the Senior
@@ -282,7 +263,6 @@ That, on the recommendation of the Senior
   Holding Residential R1 (h. R1-4) Zone TO a Residential R1 (R1-4) Zone to
   remove the “h.” holding provision.  (2015-D09)
 
-# 11.&nbsp;&nbsp;&nbsp;Amendments to
   Various Planning Related By-laws (Related to Bill No. 312, Bill No. 313, Bill
   No. 314, Bill No. 315, Bill No. 316 and Bill No. 317)
 
@@ -405,7 +385,6 @@ ix)        delete
   section 3.1 in its entirety and replace it with a new section 3.1 to reflect
   the title changes noted in i) to viii), above.            (2015-C01)
 
-# 13.&nbsp;&nbsp;&nbsp;Property located at
   2760 Sunningdale Road East (OZ-8488) (Related to Bill No. 311 and Bill No. 330)
 
 That, on the recommendation of the Managing
@@ -434,7 +413,6 @@ it being pointed out that at the public
   on the attached public participation meeting record made oral
   submissions in connection therewith.   (2015-D09)
 
-# 15.&nbsp;&nbsp;&nbsp;Redevelopment in
   London's Downtown
 
 That the following actions be taken to
@@ -459,7 +437,6 @@ c)         the
   appropriate Committee as how best to expedite the creation and implementation
   of a downtown parking strategy.  (2015-D09)
 
-# 12.&nbsp;&nbsp;&nbsp;Property located at
   356 Dundas Street (Z-8483) (Related to Bill No. 329)
 
 That, on the recommendation of the Managing
@@ -552,7 +529,6 @@ it being pointed out that at the public
   on the attached public participation meeting record made oral
   submissions in connection therewith.    (2015-D09)
 
-# 14.&nbsp;&nbsp;&nbsp;Residential
   Development
 
 That the following actions be taken with
@@ -607,15 +583,11 @@ Approve clauses 1 to 7, excluding clause 3.
 
 ****
 
-# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
-# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
-# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
-# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -722,7 +694,6 @@ Motion Passed
 
 ****
 
-# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 ---
 

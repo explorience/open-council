@@ -12,7 +12,6 @@ May 19, 2015, at 12:05 PM
 > [!abstract]- Also Present:
 > J. Helmer, M. Salih, P. Squire, V. Ridley, M. van Holst; J.P. Barber, A.L. Barbon, J. Braam, A. Dunbar, M. Hayward, J. Logan, V. McAlea Major, S. Matthews, M. McErlain, S. Miller, S. Spring, C. Saunders, S. Swance, B . Warner
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that Councillor A. Hopkins
@@ -20,7 +19,6 @@ That it BE NOTED that Councillor A. Hopkins
   the Employee Absenteeism 2014 Update as her son is employed by The
   Corporation of the City of London.
 
-# 2.&nbsp;&nbsp;&nbsp;Outstanding London
   Ambassador Award
 
 That the following actions be taken with
@@ -77,7 +75,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Employee
     Absenteeism 2014 Update
 
 That, on the recommendation of the
@@ -207,7 +204,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Required
   Expenditure - HVAC Units/Caps on Outside Stairwells - Covent Garden Market
   Corporation
 
@@ -281,7 +277,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;(ADDED) Reg Cooper Square
 
 That the Civic Administration BE REQUESTED
   to undertake a review of the by-law which governs the use of Reg Cooper Square

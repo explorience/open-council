@@ -17,11 +17,9 @@ November 18, 2025, at  1:00 PM
 
 The meeting is called to order at 1:02 PM; it being noted that Councillors S. Stevenson, E. Peloza and S. Hillier were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;Strategic Plan Implementation Update: November 2025
 
@@ -88,11 +86,9 @@ That on the recommendation of the City Manager, report including the 2025 Reside
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Downtown Plan - Phase l Background Study
 
@@ -389,15 +385,12 @@ That Mayor J. Morgan BE ENDORSED to seek membership on the Great Lakes and St. L
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential 
 
 None.
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by P. Van Meerbergen
 

@@ -20,11 +20,9 @@ October 3, 2023, at  4:00 PM
 
 The meeting is called to order at 4:01 PM.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;Delegation of Authority - Part Lot Control
 
@@ -47,7 +45,6 @@ That, on the recommendation of the Director, Planning and Development, the propo
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;10th Report of the Ecological Community Advisory Committee
 
@@ -514,7 +511,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Urban Design Peer Review Panel
 
@@ -561,7 +557,6 @@ That the communication related to the Urban Design Peer Review Panel (4.1) and t
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -602,7 +597,6 @@ That the communication related to the Urban Design Peer Review Panel (4.1) and t
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members Only)
 
 ## 6.1&nbsp;&nbsp;&nbsp;689 Oxford Street West - OLT Appeal and Instructions
 
@@ -625,7 +619,6 @@ A matter pertaining to advice that is subject to solicitor-client privilege, inc
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 6:46 PM.
 ---

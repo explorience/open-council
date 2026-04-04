@@ -21,11 +21,9 @@ December 3, 2024, at  1:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED Councillor E. Peloza discloses a pecuniary interest in item 3.9 having to do with the property located at 1922 Highland Heights and 205 Commissioners Road East by indicating that she resides within the notification area of the subject lands.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by P. Cuddy
 
@@ -161,7 +159,6 @@ That the 11th Report of the Ecological Community Advisory Committee, from its me
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;11th Report of the Community Advisory Committee on Planning
 
@@ -1236,7 +1233,6 @@ Pursuant to Section 2.3 of the Council Procedure By-law, Section 33.8 of the sai
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -1252,11 +1248,9 @@ That the Deferred List BE RECEIVED.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 ## 6.1&nbsp;&nbsp;&nbsp;Solicitor-Client Privileged Advice / Litigation/Potential Litigation
 
@@ -1274,7 +1268,6 @@ The Planning and Environment Committee convenes In Closed Session from 6:10 PM t
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by S. Lewis
 

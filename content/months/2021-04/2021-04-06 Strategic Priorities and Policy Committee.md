@@ -18,11 +18,9 @@ April 6, 2021, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 Councillor S. Turner discloses a pecuniary interest in item 4.3, having to do with a request for research on the effects of public health restrictions in London during the COVID emergency, by indicating that he is an employee of the Middlesex London Health Unit.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Lewis
 
@@ -131,11 +129,9 @@ That, on the recommendation of the Director, City Planning and City Planner, and
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Nomination of a New Budget Chair
 
@@ -261,11 +257,9 @@ That the Governance Working Group BE DIRECTED to consider, in consultation with 
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by P. Van Meerbergen
 

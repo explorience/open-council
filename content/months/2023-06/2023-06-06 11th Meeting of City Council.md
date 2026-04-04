@@ -20,19 +20,15 @@ June 6, 2023, at  1:00 PM
 
 The meeting is called to order at 1:02 PM; it being noted that Councillor P. Van Meerbergen was in remote attendance and Councillor E. Peloza was in remote attendance after 2:27 PM
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
 
 > Motion made by P. Cuddy
 
@@ -84,7 +80,6 @@ The Council convenes, In Closed Session at 1:19 PM and reconvenes at 1:38 PM.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
 ## 5.1&nbsp;&nbsp;&nbsp;10th Meeting held on May 16, 2023
 
@@ -118,15 +113,12 @@ That the Minutes of the 10th Meeting held on May 16, 2023, BE APPROVED.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 None.
 
-# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 None.
 
-# 8.&nbsp;&nbsp;&nbsp;Reports
 
 ## 8.1&nbsp;&nbsp;&nbsp;9th Report of the Community and Protective Services Committee
 
@@ -2091,7 +2083,6 @@ That the 11th Report of the Corporate Services Committee BE APPROVED.
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 ## 9.1&nbsp;&nbsp;&nbsp;9th Report of Council in Closed Session
 
@@ -2122,19 +2113,15 @@ That, on the recommendation of the Deputy City Manager, Finance Supports, with t
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-# 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 Councillor P. Van Meerbergen enquiries with respect to the Bell Fibre Internet installation project and restoration of boulevards.  Deputy City Manager, Environment and Infrastructure provides information to the Council with respect to the matter.
 
-# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 
 None.
 
-# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 > Motion made by A. Hopkins
 
@@ -2295,7 +2282,6 @@ That Third Reading and Enactment of Bill No.'s 170 and 171 BE APPROVED.
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by S. Trosow
 
@@ -2309,7 +2295,6 @@ The meeting adjourned at 4:09 PM.
 
 ****
 
-# Appendix: New Bills
 
 > [!abstract]- The following Bills are enacted as By-laws of The Corporation of the City of London:
 > **Bill No. 164**

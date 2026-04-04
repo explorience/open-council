@@ -12,10 +12,8 @@ August 19, 2013, at  4:04 PM
 > [!abstract]- Also Present:
 > J. Braam, A. Dunbar, J. Lucas, D. MacRae, S. Maguire, A. Rammeloo, L. Rowe, R. Sharpe, E. Soldo, J. Stanford
 
-# 1.&nbsp;&nbsp;&nbsp;Recommendation:  That it BE NOTED that no
   pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Comments on
   Environmental Bill of Rights Registry - Making Choices: Reviewing Ontario's
   Long-Term Energy Plan
 
@@ -44,7 +42,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Comments on
   Environmental Bill of Rights Registry - Conservation First: A Renewed Vision
   for  Energy Conservation in Ontario
 
@@ -73,7 +70,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Comments on
   Environmental Bill of Rights Registry - Waste Reduction Act and Waste
   Reduction Strategy
 
@@ -102,7 +98,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Watermain
   Realignment Around Westminster Road Bridge-Agreement with Ministry of
   Transportation for Cost Sharing
 
@@ -156,7 +151,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Trunk Sewer
   Inspection Irregular Result (Tender 13-69)
 
 Recommendation:  That, on the
@@ -202,7 +196,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Ridout Street Brick
   Sewer Rehabilitation Project No. ES2693 RFP No. 13-22 - Irregular Result
 
 Recommendation:  That, on the
@@ -251,7 +244,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Contract Award:
   York Street/Richmond Street and York Street/Talbot Street Traffic Signal
   Rebuilds Single Source and Irregular Bid (Tender No. T13-71)
 
@@ -303,7 +295,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Greenway Wastewater
   Treatment Plant Rotating Drum Thickener Engineering Project No. ES5084-11
 
 Recommendation:  That, on the
@@ -358,7 +349,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Gore Road Bridge
   Replacement Detailed Design and Tendering Appointment of Consulting Engineer
 
 Recommendation:  That, on the
@@ -409,7 +399,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Highbury Avenue
   Over CN Rail Bridge Rehabilitation Detailed Design and Tendering-Appointment
   of Consulting Engineer
 
@@ -460,7 +449,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Amendments to the
   Traffic and Parking By-law
 
 Recommendation:  That, on the
@@ -491,7 +479,6 @@ None
 
 None
 
-# 13.&nbsp;&nbsp;&nbsp;The Great Lakes Sewage Report Card 2013
 
 Recommendation:  That the Civic Works
   Committee received a presentation from the Managing Director, Environmental

@@ -17,11 +17,9 @@ June 20, 2022, at  4:00 PM
 
 The meeting was called to order at 4:02 PM, with Councillor A. Hopkins in the Chair, Councillors S. Lewis and S. Lehman present and all other members participating by remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Hillier
 
@@ -156,7 +154,6 @@ That the Building Division Monthly report for April, 2022 BE RECEIVED for inform
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;911 and 945 Kleinburg Drive (Formerly 660 Sunningdale Road East) (Z-9321)
 
@@ -974,11 +971,9 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) 2nd Report of the Community Advisory Committee on Planning
 
@@ -1012,7 +1007,6 @@ c)  clauses 1.1, 3.1, 3.3, 4.1, 5.2 and 65.1 BE RECEIVED for information.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 9:15 PM.
 

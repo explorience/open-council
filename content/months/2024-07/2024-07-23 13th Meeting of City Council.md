@@ -17,7 +17,6 @@ July 23, 2024, at  1:00 PM
 
 The meeting is called to order at 1:02 PM; it being noted that Councillors S. Trosow, P. Van Meerbergen and S. Hillier were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED Councillor J. Pribil discloses a pecuniary interest in item 2, clause 2.1 of the 12th Report of the Corporate Services Committee, having to do with Film London Review and Next Steps, by indicating that his son is contemplating seeking project support from Film London.
 
@@ -33,15 +32,12 @@ That it BE NOTED Councillor P. Cuddy discloses a pecuniary interest in item 10, 
 
 That it BE NOTED Councillor P. Cuddy discloses a pecuniary interest in item 4.1, clause 6.1 of the Confidential 12th Report of the Corporate Services Committee, having to do with Offer to Purchase City-Owned Lands, Sofina Foods Inc. - Part of Pine Street by indicating that he has previously leased land to Sofina Foods Inc.
 
-# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
 
 > Motion made by A. Hopkins
 
@@ -122,7 +118,6 @@ That Council convenes In Closed Session, from 1:10 PM to 1:33 PM.
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
 > Motion made by P. Cuddy
 
@@ -153,7 +148,6 @@ That the Minutes of the 12th Meeting of the Municipal Council, held on June 25, 
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 > Motion made by C. Rahman
 
@@ -240,11 +234,9 @@ That the following communications BE RECEIVED, and BE REFERRED as noted on the A
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 None.
 
-# 8.&nbsp;&nbsp;&nbsp;Reports
 
 ## 8.1&nbsp;&nbsp;&nbsp;12th Report of the Strategic Priorities and Policy Committee
 
@@ -2789,7 +2781,6 @@ That the Civic Administration BE DIRECTED to setup a request button on the Servi
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 ## 9.1&nbsp;&nbsp;&nbsp;13th Report of Council in Closed Session
 
@@ -3088,19 +3079,15 @@ That progress was made with respect to items 4.8, 4.9, 4.10, and 4.12 as noted o
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-# 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 Councillor E. Peloza enquiries with respect to recent flooding events. The Deputy City Manager, Environment and Infrastructure provides a response related to operations and the Basement Flooding Program.
 
-# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 
 None.
 
-# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 > Motion made by S. Lehman
 
@@ -3549,7 +3536,6 @@ By-law No. A.-8528-193 - A by-law to authorize and approve a Settlement Agreemen
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by S. Stevenson
 

@@ -20,11 +20,9 @@ May 24, 2023, at 12:00 PM
 
 The meeting was called to order at 12:01 PM; it being noted that Councillor P. Van Meerbergen was in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by P. Cuddy
 
@@ -147,11 +145,9 @@ h)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or ot
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Downtown Bike Locker Pilot Project Results
 
@@ -259,11 +255,9 @@ g)    that Civic Administration BE DIRECTED to investigate and implement addit
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 > Moved by P. Cuddy
 
@@ -288,7 +282,6 @@ The Civic Works Committee convened In Closed Session from 1:00 PM to 1:05 PM.
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 1:08 PM.
 ---

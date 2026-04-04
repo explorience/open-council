@@ -12,10 +12,8 @@ March 4, 2014, at  4:00 PM
 > [!abstract]- Also Present:
 > M. Corby, B. Debbert, M. Elmadhoon, J.M. Fleming, T. Grawey, B. Henry, G. Kotsifas, A. MacLean, A. Macpherson, L. McDougall, N. Musicco, C. Saunders, M. Tomazincic, A-B. Watson, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;3rd Report of the
   Environmental and Ecological Planning Advisory Committee
 
 Recommendation:  That the 3rd Report of the
@@ -37,7 +35,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;3rd Report of the
   Advisory Committee on the Environment
 
 Recommendation:  That the 3rd Report of the
@@ -59,7 +56,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Property located at
   1570 Highbury Avenue North (H-8242)
 
 Recommendation:  That, on the
@@ -89,7 +85,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Property located at
   312 Sunningdale Road West (H-8292)
 
 Recommendation:  That, on the
@@ -118,7 +113,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Property located at
   350 Oxford Street East (H-8296)
 
 Recommendation:  That, on the
@@ -148,7 +142,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Property located at
   1103 Adelaide Street North (H-8240)
 
 Recommendation:  That, on the
@@ -177,7 +170,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Building Division Monthly
   Report for January 2014
 
 Recommendation:  The Building Division
@@ -198,7 +190,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Property located at
   103 Elmwood Avenue East - Appeal to Provisional Consent Decision
 
 Recommendation:  That, on the
@@ -236,7 +227,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Property located at
   1040 Coronation Drive (Z-8201)
 
 Recommendation:  That, on the
@@ -415,7 +405,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Property located at
   1992 Fanshawe Park Road West (TZ-8307)
 
 Recommendation:  That, on the
@@ -492,7 +481,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Property located at
   2090 Hyde Park Road (Z-8290)
 
 Recommendation:  That, on the
@@ -621,7 +609,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Unevaluated
   Vegetation Patches (OZ-8271)
 
 Recommendation:  
@@ -962,7 +949,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;Property located on
   a portion of 290 Hale Street (OZ-8271)
 
 Recommendation:  That, on the
@@ -1049,7 +1035,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;Property located on
   a portion of 2339 Dundas Street and 2347 Dundas Street (OZ-8271)
 
 Recommendation:  That, on the
@@ -1143,7 +1128,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;Properties located on
   a portion of 1424 Clarke Road, 2120 Huron Street, 2204 Huron Street and 16090
   Robins Hill Road (OZ-8271)
 
@@ -1249,7 +1233,6 @@ Motion
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;Properties located
   on a portion of 2470 Colonel Talbot Road, 2536 Colonel Talbot Road, 2544
   Colonel Talbot Road and 947 Longworth Road (OZ-8271)
 
@@ -1581,7 +1564,6 @@ Motion
 
 ****
 
-# 19.&nbsp;&nbsp;&nbsp;3rd Report of the
   London Advisory Committee on Heritage
 
 Recommendation:  That, the following
@@ -1634,7 +1616,6 @@ Motion
 
 ****
 
-# 20.&nbsp;&nbsp;&nbsp;2nd Report of the
   Trees and Forests Advisory Committee
 
 Recommendation:  That, the following
@@ -1668,7 +1649,6 @@ Motion
 
 ****
 
-# 21.&nbsp;&nbsp;&nbsp;Medway Valley Heritage Forest
   Environmentally Significant Area, Phase One, Conservation Master Plan
 
 The Civic Administration BE REQUESTED to

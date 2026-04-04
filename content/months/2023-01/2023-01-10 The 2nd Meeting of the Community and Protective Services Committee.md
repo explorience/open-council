@@ -20,11 +20,9 @@ January 10, 2023, at  4:00 PM
 
 The meeting was called to order at 4:00 PM.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by C. Rahman
 
@@ -198,11 +196,9 @@ d)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or ot
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;A. Johnson, Greenspace Alliance - Greenspace Protection at the Former River Road Golf Course, Ward 1
 
@@ -246,11 +242,9 @@ Motion to approve the delegation request from M.A. Hodge, with respect to Greens
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 > Moved by S. Stevenson
 
@@ -276,7 +270,6 @@ The Community and Protective Services Committee convened In Closed Session from 
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 5:20 PM.
 

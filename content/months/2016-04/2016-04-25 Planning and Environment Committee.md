@@ -12,10 +12,8 @@ April 25, 2016, at  4:00 PM
 > [!abstract]- Also Present:
 > J. Morgan, M. van Holst; G. Barrett, P. Christiaans, A. DiCicco, A. Dunbar, M. Elmadhoon, J.M. Fleming, S. Galloway, K. Gonyou, T. Grawey, N. Hall, E. Lalande, A. MacLean, A. Macpherson, L. Maitland, L. Pompilii, J. Ramsay, M. Ribera, C. Saunders, E. Soldo, M. Tomazincic, J. Yanchula
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;5th Report of the
   Advisory Committee on the Environment
 
 That, the following actions be taken with
@@ -57,7 +55,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Property located at
   27 Centre Street
 
 That, on the recommendation of the Managing
@@ -101,7 +98,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Property located at
   68 Bruce Street
 
 That, on the recommendation of the Managing
@@ -137,7 +133,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Properties located
   at 75, 77, 81 and 91 Southdale Road East and 3021 White Oak Road (H-8586)
 
 That, on the recommendation of the Manager,
@@ -168,7 +163,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Property located at
   2280 Wickerson Road - Wickerson Woods Subdivision - Extension to Draft Plan
   of Subdivision Approval (39T-00519)
 
@@ -209,7 +203,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Property located at
   2332 Wickerson Road - Wickerson Hills Subdivision - Extension to Draft Plan
   of Subdivision Approval (39T-08507)
 
@@ -261,7 +254,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Property located at
   7 Annadale Drive
 
 That, on the recommendation of the Manager,
@@ -307,7 +299,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;5th Report of the
   London Advisory Committee on Heritage
 
 That the following actions be taken with
@@ -482,7 +473,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Mushroom Farm
   Zoning Review (Z-8513)
 
 That, the following actions be taken with
@@ -563,7 +553,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;Properties located
   at 276 Highbury Avenue North, 281 and 285 Short Avenue and 1325 Trafalgar
   Street (OZ-8579)
 
@@ -689,7 +678,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;Property located at
   80 Oxford Street West
 
 That, on the recommendation of the Managing
@@ -801,7 +789,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Property located at
   1656 Hyde Park Road
 
 That, on the recommendation of the Managing

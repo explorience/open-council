@@ -17,11 +17,9 @@ August 13, 2019, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by E. Peloza
 
@@ -320,7 +318,6 @@ it being noted that funding was established by Council in 2017 to complete the b
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;4th Report of the Diversity, Inclusion and Anti-Oppression Advisory Committee and the 2019 City of London Diversity, Race Relations and Inclusivity Award
 
@@ -489,7 +486,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;London’s Film and Multi-Media Industry Update
 
@@ -567,7 +563,6 @@ That the communication from Councillor M. van Holst, with respect to new Models 
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -591,7 +586,6 @@ That the Deferred Matters List for the Community and Protective Services Committ
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 5:54 PM.
 

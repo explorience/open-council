@@ -25,11 +25,9 @@ September 27, 2021, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;995 Fanshawe Park Road West - Request for Extension of Draft Plan Approval (39T-05512)
 
@@ -52,7 +50,6 @@ That, on the recommendation of the Director, Planning and Development, based on 
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;1235 Fanshawe Park Road West (39CD-21510)
 
@@ -212,7 +209,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;2631 Hyde Park Road and 1521 Sunningdale Road West
 
@@ -255,11 +251,9 @@ it being pointed out that the Planning and Environment Committee reviewed and re
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 5:33 PM.
 ---

@@ -12,13 +12,11 @@ February 22, 2017, at  4:00 PM
 > [!abstract]- Also Present:
 > J. Helmer, T. Park, M. van Holst; J. Archer, R. Armistead, B. Barr, H. Chapman, B. Coxhead, S. Datars Bere, C. Deforest, T. Fowler, G. Kotsifas, L. Livingstone, D. MacRae, J. Richardson, C. Saunders, A. Small, S. Spring, J. Tansley, B. Westlake-Power
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;1st Report of the
   Town and Gown Committee
 
 That the following actions be taken with
@@ -51,7 +49,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;1st Report of the
   Community Safety and Crime Prevention Advisory Committee
 
 That the following actions be taken with
@@ -85,7 +82,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;1st Report of the
   Accessibility Advisory Committee
 
 That the following actions be taken with
@@ -161,7 +157,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;2nd and 3rd Reports
   of the London Housing Advisory Committee
 
 That the 1st and 2nd Reports of the London
@@ -185,7 +180,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;2nd Report of the
   Diversity Inclusivity and Anti-Oppression Advisory Committee
 
 That the Diversity Inclusivity and
@@ -212,7 +206,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;3rd Report of the
   Animal Welfare Advisory Committee
 
 That the 3rd Report of the Animal Welfare
@@ -235,7 +228,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Immigration Strategy Update
 
 That, on the recommendation of the Managing
@@ -263,7 +255,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Supporting Community Response to Syrian Newcomers - Update
 
 That, the Civic Administration BE DIRECTED
@@ -293,7 +284,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Strategic Plan Progress Variance
 
 That, on the recommendation of the City
@@ -317,7 +307,6 @@ Motion
 
 ****
 
-# 11.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Single Source 17-03 - Single Source Procurement  of Lifeguard Qualifications
   Literature/Manuals and  Associated Registration Fees/Documents
 
@@ -360,7 +349,6 @@ Motion
 
 ****
 
-# 12.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Journey Together Early Years Transfer Payment Agreement
 
 That, on the recommendation of the Managing
@@ -403,7 +391,6 @@ Motion
 
 ****
 
-# 13.&nbsp;&nbsp;&nbsp;Business Licensing
   By-law Review Contractors - Donation Bins, Personal Service Establishment and
   Tobacco and Electronic Cigarette Retailers
 
@@ -485,7 +472,6 @@ Motion
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Public Nuisance
   By-law - Use of Roofs/Social Gatherings
 
 That, on the recommendation of the Managing
@@ -559,7 +545,6 @@ Motion
 
 ****
 
-# 15.&nbsp;&nbsp;&nbsp;1st Report of the
   Childcare Advisory Committee
 
 The following actions be taken with respect
@@ -592,7 +577,6 @@ Motion
 
 ****
 
-# 16.&nbsp;&nbsp;&nbsp;COUNCILLOR
   SUBMISSION - Assist Community Organizations in Distribution of Food to
   Individuals in Need
 
@@ -626,7 +610,6 @@ Motion
 
 ****
 
-# 17.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Request for Naming of Vimy Ridge Park
 
 That the following actions be taken with
@@ -696,7 +679,6 @@ Motion
 
 ****
 
-# 18.&nbsp;&nbsp;&nbsp;STAFF REPORT -
   Request for Renaming Mildred Barons Park to "Vimy Ridge Park"
 
 That the request to rename Mildred Barons
@@ -721,7 +703,6 @@ Motion
 
 ****
 
-# 19.&nbsp;&nbsp;&nbsp;Housing and ODSP
   Residents
 
 That the delegation request by R.
@@ -745,7 +726,6 @@ Motion
 
 ****
 
-# 20.&nbsp;&nbsp;&nbsp;100In1Day London
 
 That the delegation request by N. St. John,
   Lead Organizer, 100In1Day London with respect to 100In1Day London BE APPROVED
@@ -768,7 +748,6 @@ Motion
 
 ****
 
-# 21.&nbsp;&nbsp;&nbsp;Deferred Matters
   List
 
 That the February 2017 Deferred Matters

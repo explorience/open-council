@@ -12,13 +12,11 @@ November 3, 2015, at 12:02 PM
 > [!abstract]- Also Present:
 > J. Helmer, V. Ridley, M. van Holst; A. Zuidema, J.P. Barber, A.L. Barbon, J. Braam, M. Daley, M. Hayward, L. Kolodiazny, L. Livingstone, J. Logan, V. McAlea Major, J. Skimming, S. Spring, J. Stanford, R. Wilcox
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that no pecuniary
   interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Joining the Compact
   of Mayors
 
 That, on the recommendation of the Director
@@ -42,7 +40,6 @@ Motion
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Customer
   Relationship Management (CRM) Software Implementation Partner - Phase Two
 
 That, on the recommendation of the Managing
@@ -91,7 +88,6 @@ Motion
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Pre-authorized Tax
   Payment Plan By-law and Collection of Property Taxes By-law
 
 That, on the recommendation of the Managing
@@ -133,7 +129,6 @@ Motion
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Amendment to
   Council Policy 5(16) - General Policy for Advisory Committees
 
 That, on the recommendation of the City
@@ -161,7 +156,6 @@ Motion
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Request for
   Approval of an Expense on an Exception Basis
 
 That, notwithstanding Council Policy 28(2)
@@ -185,7 +179,6 @@ Motion
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Revisions to Tax
   Bill
 
 That the enquiry by Councillor V. Ridley regarding
@@ -214,7 +207,6 @@ Motion
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Advisory Committee
   Review
 
 That the Civic Administration BE REQUESTED
@@ -242,7 +234,6 @@ Motion
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Asset Management
 
 That the Civic Administration BE REQUESTED
   to review and report back with a scoping report, as part of the Multi-Year
@@ -269,7 +260,6 @@ Motion
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;(ADDED) FCM – Women in Local Government  -
   Diverse Voices for Change Initiative
 
 That the Federation of Canadian

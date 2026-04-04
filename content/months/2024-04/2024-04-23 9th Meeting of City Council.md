@@ -20,23 +20,18 @@ April 23, 2024, at  1:00 PM
 
 The meeting is called to order at 1:03 PM; it being noted that Councillors S. Stevenson, S. Lehman, P. Van Meerbergen and S. Hillier were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that Councillor C. Rahman disclosed a pecuniary interest in item 6, clause 2.1 of the 7th Report of the Corporate Services Committee having to do with expropriation of lands and the East London Link Project Phase 4, by indicating that Fanshawe College is her employer.
 
-# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
 None.
 
-# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
 
 None.
 
-# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
 > Motion made by P. Cuddy
 
@@ -66,7 +61,6 @@ That the Minutes of the 7th Meeting of the Municipal Council, held on April 2, 2
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
 > Motion made by A. Hopkins
 
@@ -138,11 +132,9 @@ That the following communications BE RECEIVED, and BE REFERRED as noted on the A
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
 None.
 
-# 8.&nbsp;&nbsp;&nbsp;Reports
 
 ## 8.1&nbsp;&nbsp;&nbsp;6th Report of the Planning and Environment Committee
 
@@ -1581,7 +1573,6 @@ At 4:25 PM, Councillor A. Hopkins leaves the meeting.
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Added Reports
 
 ## 9.1&nbsp;&nbsp;&nbsp;8th Special Report of the Corporate Services Committee
 
@@ -1636,19 +1627,15 @@ b)    the proposed by-law as appended to the staff report dated April 22, 2024
 
 ****
 
-# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
 
 None.
 
-# 11.&nbsp;&nbsp;&nbsp;Enquiries
 
 Councillor C. Rahman enquires with respect to the Canadian Pacific Kansas City Railway (CPKCR) train fire in the area of Richmond Street and Pall Mall Street.  The Deputy City Manager, Enterprise Supports and Deputy Fire Chief R. Hayes provides information about the emergency management response.
 
-# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
 
 None.
 
-# 13.&nbsp;&nbsp;&nbsp;By-laws
 
 > Motion made by P. Van Meerbergen
 
@@ -1878,7 +1865,6 @@ That Third Reading and Enactment of Bill No. 134, BE APPROVED.
 
 ****
 
-# 14.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Motion made by D. Ferreira
 
@@ -1892,7 +1878,6 @@ The meeting adjourned at 4:53 PM.
 
 ****
 
-# Appendix: New Bills
 
 > [!abstract]- The following Bills are enacted as By-laws of The Corporation of the City of London:
 > **Bill No. 124**

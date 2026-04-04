@@ -17,11 +17,9 @@ November 21, 2023, at  4:00 PM
 
 The meeting is called to order at 4:03 PM; it being noted that Councillors S. Lehman (10:05 PM), P. Van Meerbergen, S. Franke, E. Peloza, and S. Hillier were in remote attendance.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that Councillor S. Lehman disclosed a pecuniary interest related to item 2.4 regarding the 2023-2027 City of London Strategic Plan: Core Area report as it relates to funding for Downtown London Business Association and the Councillor indicated they are a member of the Association.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by P. Cuddy
 
@@ -361,7 +359,6 @@ Motion to receive a communication dated November 19, 2023 from B. Maly, Executiv
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Not to be heard before 4:05 PM - Public Participation Meeting - 2024-2027 Consolidated Fees and Charges By-law
 
@@ -699,7 +696,6 @@ That it BE NOTED that the Strategic Priorities and Policy Committee received the
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Committee Appointment Preferences Submitted by Council Members
 
@@ -1294,7 +1290,6 @@ it being noted that the Strategic Priorities and Policy Committee received a com
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) Request for Term Extension of the Community Advisory Committees
 
@@ -1424,7 +1419,6 @@ b)  clauses 1.1, 2.1 and 2.2 BE RECEIVED for information.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by S. Stevenson
 
@@ -1453,7 +1447,6 @@ That item 2.1 and items 6.1 to 6.4 BE REFERRED to a Special Meeting of Strategic
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 > Moved by S. Stevenson
 

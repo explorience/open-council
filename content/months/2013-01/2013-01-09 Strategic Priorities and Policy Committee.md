@@ -15,7 +15,6 @@ January 9, 2013, at  4:10 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, A.L. Barbon, J. Braam, I. Collins, B. Coxhead, L. Ducharme, A. Dunbar, J.M. Fleming, B. George, M. Hayward, G.T. Hopcroft, J. Kobarda, G. Kotsifas, L. Livingstone, S. Matthew, V. McAlea Major, M. Mitchell, K. Paleczny, L. Palarchio, C. Saunders, J. Senese, R. Sharpe, E. Soldo, B. Westlake-Power, R. Wilcox
 
-# 1.&nbsp;&nbsp;&nbsp;That it BE NOTED that the following
   pecuniary interests were disclosed:
  
 a)           
@@ -42,14 +41,12 @@ d)           
   pertaining to fees for rental properties as he owns a number of rental
   properties.
 
-# 2.&nbsp;&nbsp;&nbsp;General Overview
 
 Recommendation:      That the attached
   presentation by the Managing Director, Corporate Services & City
   Treasurer/Chief Financial Officer and the Director, Financial Planning and
   Policy, BE RECEIVED.
 
-# 3.&nbsp;&nbsp;&nbsp;Budget Targets
 
 Recommendation:      That the attached
   presentations as contained in the attachment noted in clause 2, above, from
@@ -58,7 +55,6 @@ Recommendation:      That the attached
   presentation from B. Duncan, London Police Service BE RECEIVED for
   information.
 
-# 4.&nbsp;&nbsp;&nbsp;London Public
   Library 2013 Operating Budget - Impact of 0% Budget
 
 Recommendation:  That the
@@ -66,7 +62,6 @@ Recommendation:  That the
   Library Board and S. Hubbard Krimmer, CEO and Chief Librarian, London Public
   Library regarding the 2013 Operating Budget BE RECEIVED.
 
-# 5.&nbsp;&nbsp;&nbsp;Joint Venture - Fit
   Program
 
 Recommendation:      That the communication

@@ -22,11 +22,9 @@ July 18, 2023, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by C. Rahman
 
@@ -271,11 +269,9 @@ c)    the Civic Administration BE AUTHORIZED to undertake all administrative a
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 None.
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Revised Process for City Board Representative on Museum London Board
 
@@ -368,7 +364,6 @@ it being further noted that the communications, as appended to the Added Agenda,
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) 7th Report of the Animal Welfare Community Advisory Committee
 
@@ -408,7 +403,6 @@ c)    clauses 1.1, 3.1, 5.1, 5.3, 5.4 and 5.5, BE RECEIVED.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 > Moved by C. Rahman
 
@@ -435,7 +429,6 @@ The Community and Protective Services Committee convened In Closed Session from 
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 7:54 PM.
 ---

@@ -20,13 +20,11 @@ February 18, 2020, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by S. Turner
 
@@ -98,7 +96,6 @@ b) the proposed by-law amendment appended to the staff report dated February 18,
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Request for Council Resolution, under section 45(1.4) of the Planning Act, 1990 - 1331 Hyde Park Road
 
@@ -312,7 +309,6 @@ it being noted that the Planning and Environment Committee heard a verbal delega
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;3rd Report of the Advisory Committee on the Environment 
 
@@ -374,13 +370,11 @@ Motion to refer clause d) to the Advisory Committee review being undertaken; it 
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 5:08 PM.
 

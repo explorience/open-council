@@ -22,11 +22,9 @@ January 11, 2022, at 12:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that there were no pecuniary interests disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by J. Fyfe-Millar
 
@@ -209,7 +207,6 @@ That, on the recommendation of the Deputy City Manager, Environment and Infrastr
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Environmental Assessment Study Report for the Environmental Assessment of the Proposed W12A Landfill Expansion
 
@@ -280,7 +277,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Investing in Canada Infrastructure Program: Public Transit Stream Intake 3 
 
@@ -307,7 +303,6 @@ it being noted that the communication from A. Oudshoorn, with respect to this ma
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;Deferred Matters List
 
@@ -332,7 +327,6 @@ That the Civic Works Committee Deferred Matters List as at December 23, 2021, BE
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 1:38 PM.
 ---

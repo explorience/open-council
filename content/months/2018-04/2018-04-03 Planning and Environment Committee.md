@@ -17,11 +17,9 @@ April 3, 2018, at  4:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 None.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by Mayor M. Brown
 
@@ -111,7 +109,6 @@ That, on the recommendation of the Managing Director, Planning and City Planner,
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;S. Levin and A. Boyer - 4th Report of the Environmental and Ecological Planning Advisory Committee
 
@@ -273,7 +270,6 @@ b)            clauses 1.1 and 3.1 to 3.4 BE RECEIVED.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Neighbourhood School Strategy - Evaluation and Acquisition of Surplus School Sites
 
@@ -302,11 +298,9 @@ c)            the draft Surplus School Sites Evaluation and Acquisiti
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 6:02 PM.
 

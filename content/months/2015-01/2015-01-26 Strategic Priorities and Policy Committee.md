@@ -15,7 +15,6 @@ January 26, 2015, at  4:05 PM
 > [!abstract]- Also Present:
 > A. Zuidema, J.P. Barber, J. Braam, S. Datars Bere, C. Dziedzic, J.M. Fleming, K. Graham, G. Kotsifas, K. Lakhotia, L. Livingstone, K. Pawelec, M. Ribera, C. Saunders, C. Smith
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 Recommendation:  That it BE NOTED that
@@ -24,7 +23,6 @@ Recommendation:  That it BE NOTED that
   Conservation Authority, as he has a working relationship with one of the
   applicants.
 
-# 2.&nbsp;&nbsp;&nbsp;Establishment of a Governance
   Working Group
 
 Recommendation:  That, on the
@@ -78,7 +76,6 @@ Motion Passed
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;4:00 PM -
   Investment and Economic Prosperity Committee
 
 Recommendation:  That the following actions
@@ -260,7 +257,6 @@ Motion Passed
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Community Economic
   Strategy - Verbal (Lauren Millier, Millier Dickinson Blais)
 
 Recommendation:  That the attached presentation
@@ -291,7 +287,6 @@ Motion Passed
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Strategic Plan -
   Verbal
 
 Recommendation:  That the summary of public
@@ -327,7 +322,6 @@ Motion Passed
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Appointment to the
   Middlesex-London Health Unit (Requires 1)
 
 Recommendation:  That the filling of the
@@ -360,7 +354,6 @@ Motion Passed
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Appointment to the
   Upper Thames River Conservation Authority (Requires 1)
 
 Recommendation:  That Murray M. Blackie BE
@@ -388,7 +381,6 @@ Motion Passed
 
 ****
 
-# 8.&nbsp;&nbsp;&nbsp;Argyle BIA Composition
 
 Recommendation:  That NO FURTHER ACTION BE
   TAKEN at this time to expand the membership of the Argyle BIA from 9 to 10.
@@ -416,7 +408,6 @@ Motion Passed
 
 ****
 
-# 9.&nbsp;&nbsp;&nbsp;Request for
   Orientation by Boards and Commissions
 
 Recommendation:  That the City Clerk BE

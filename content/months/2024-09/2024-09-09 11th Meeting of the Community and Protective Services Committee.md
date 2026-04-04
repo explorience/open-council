@@ -22,11 +22,9 @@ September 9, 2024, at  1:00 PM
 
 
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that no pecuniary interests were disclosed.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 > Moved by H. McAlister
 
@@ -347,7 +345,6 @@ Motion to approve the motion, as amended.
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;Amendments to the Vehicle-for-Hire By-law (L.-130-71)
 
@@ -429,7 +426,6 @@ Motion to close the public participation meeting.
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;Life*Spin - Property Standards and Tenant Support - REQUEST FOR DELEGATION STATUS
 
@@ -455,11 +451,9 @@ That the request for delegation status from Life*Spin, as appended to the agenda
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 None.
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential
 
 > Moved by E. Peloza
 
@@ -509,7 +503,6 @@ The Community and Protective Services Committee convened In Closed Session from 
 
 ****
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 5:12 PM.
 ---

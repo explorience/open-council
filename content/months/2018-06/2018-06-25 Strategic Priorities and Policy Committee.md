@@ -17,7 +17,6 @@ June 25, 2018, at  4:00 PM
 
 The meeting was called to order at 4:02 PM.
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
 That it BE NOTED that the following pecuniary interests were disclosed:
 
@@ -25,7 +24,6 @@ a)     Councillor M. Salih disclosed a pecuniary interest in item 2.3 of thi
 
 b)     Councillor S. Turner disclosed a pecuniary interest in item 2.2 of this Report, having to do with the Municipal Accommodation Tax and the related confidential item 6.2, by indicating that he has a supervisory role with CUPE 101 staff at the Middlesex-London Health Unit. Councillor S. Turner further discloses a pecuniary interest in items 4.2 of this Report, specifically related to the proposed policies Siting of Cannabis Retails Stores in London and Siting of Safe Consumption Facilitiies and Temporary Overdose Prevention Sites in London, as included in the 10th Report of the Governance Working Group, by indicating that his employer is the Middlesex-London Health Unit, which has these matters as areas of focus. Councillor S. Turner also discloses a pecuniary interest item 4.1 of this Report, specifically related to the proposed Child Care Policy included in the 9th Report of the Governance Working Group, by indicating that his spouse is employed by Childreach, which receives funding from the City of London.
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
 
 ## 2.1&nbsp;&nbsp;&nbsp;2019 Budget Schedule
 
@@ -264,7 +262,6 @@ Motion to approve part e).
 
 ****
 
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
 
 ## 3.1&nbsp;&nbsp;&nbsp;London Hydro Inc. - 2017 Annual Meeting of the Shareholder Annual Resolutions
 
@@ -550,7 +547,6 @@ That the presentation from J. Browne, CEO, London & Middlesex Housing Corporatio
 
 ****
 
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
 
 ## 4.1&nbsp;&nbsp;&nbsp;9th Report of the Governance Working Group
 
@@ -1069,7 +1065,6 @@ That on the recommendation of the Managing Director, Environmental and Engineeri
 
 ****
 
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
 
 ## 5.1&nbsp;&nbsp;&nbsp;(ADDED) Indigenous Relations Working Group
 
@@ -1127,7 +1122,6 @@ That pursuant to section 2.3 of the Council Procedure By-law, section 11.10 of t
 
 ****
 
-# 6.&nbsp;&nbsp;&nbsp;Confidential (Enclosed for Members only.)
 
 > Moved by J. Helmer
 
@@ -1175,7 +1169,6 @@ The Strategic Priorities and Policy Committee convened in closed session from 10
 
 ## 6.3&nbsp;&nbsp;&nbsp;Personal Matters/Identifiable Individual
 
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 10:44 PM.
 
