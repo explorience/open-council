@@ -66,6 +66,10 @@ export default ((userOpts?: Partial<NavDropdownsOptions>) => {
             Votes
           </a>
 
+          <a href="/topics" class="nav-link">
+            Topics
+          </a>
+
           <button class="nav-link nav-recent-meetings" aria-label="Show recent meetings" aria-expanded="false">
             Recent Meetings
           </button>

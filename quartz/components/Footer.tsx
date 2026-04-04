@@ -21,6 +21,7 @@ export default ((opts?: Options) => {
             <strong>Explore</strong>
             <a href="/councillors">Councillors</a>
             <a href="/votes">Votes</a>
+            <a href="/topics">Topics</a>
             <a href="/councillors/alignment">Voting Alignment</a>
             <a href="/committees">Committees</a>
           </div>
