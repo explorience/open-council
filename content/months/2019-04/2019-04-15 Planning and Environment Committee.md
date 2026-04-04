@@ -1019,3 +1019,123 @@ h)           clauses 1.1, 3.1 to 3.4, inclusive, 4.1 and 5.3 BE RECEIV
 
 The meeting adjourned at 8:43 PM.
 
+---
+
+## Votes
+
+*12 substantive votes at this meeting (2 contested, 10 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.6, inclusive, and 2.8 BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 3.1. Delegation - S. Levin, Chair, Environmental and Ecological Planning Advisory Committee - 4th Report of the Environmental and Ecological Planning Advisory Committee
+
+> That, the following actions be taken with respect to the 4th Report of the Environmental and Ecological Planning Advisory Committee from its meeting held on March 21, 2019: a)            the Civic Administration BE ASKED to involve the  Environmental and Ecological Planning Advisory Committee in ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.2. Public Participation Meeting - Application - 3425 Emily Carr Lane (North Portion) - Draft Plan of Subdivision Approval and Zoning By-law Amendment 39T-18506 (Z-8988)
+
+> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application of 2557727 Ontario Inc., relating to the property located at 3425 Emily Carr Lane: a)            the proposed by-law appended to the staff report dated April 15, 2019 ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.3. Public Participation Meeting - Application - 2170 Wharncliffe Road South (TZ-8999)
+
+> That, on the recommendation of the Director, Development Services, with respect to the application of Cedar Auto London Limited, relating to the property located at 2170 Wharncliffe Road South, the proposed by-law appended to the staff report dated April 15, 2019 BE INTRODUCED at the Municipal Co...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.4. Delegation - A. Tipping, Vice-Chair and M. A. Hodge, Advisory Committee on the Environment - 4th Report of the Advisory Committee on the Environment
+
+> Motion to approve clause a), which reads as follows: a)            the following actions be taken with clause 2.1, relating to Chippewas of the Thames First Nations: i)             clause 2.1 BE REFERRED to the City Clerk for consideration with the Advisory Committee review; and, ii)            G...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.4. Delegation - A. Tipping, Vice-Chair and M. A. Hodge, Advisory Committee on the Environment - 4th Report of the Advisory Committee on the Environment
+
+> Motion to approve clause b), which reads as follows: "b)  the following actions be taken with respect to Climate Change: i)  the Civic Administration BE REQUESTED to report back on tangible actions that the municipality can undertake with respect to Climate Change at a future meeting of the appro...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.4. Delegation - A. Tipping, Vice-Chair and M. A. Hodge, Advisory Committee on the Environment - 4th Report of the Advisory Committee on the Environment
+
+> Motion to move clause ii), which reads as follows: ii)   the following Declaration of a Climate Emergency BE APPROVED: "Whereas climate change is currently contributing to billions of dollars in property and infrastructure damage worldwide, stressing local and international economies; Whereas cli...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer)
+
+**Nay (1):** [Phil Squire](/councillors/current/p-squire)
+
+**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+
+</details>
+
+### 3.5. Public Participation Meeting- Application - 1201 Huron Street (Z-8985)
+
+> That, on the recommendation of the Director, Development Services, based on the application by Agathos Dentistry, relating to the property located at 1201 Huron Street, the proposed by-law appended to the staff report dated April 15, 2019 BE INTRODUCED at the Municipal Council meeting to be held ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.6. Public Participation Meeting - Demolition Request for Heritage Listed Property - 160 Oxford Street East
+
+> That, on the recommendation of the Managing Director, Planning and City Planner, with the advice of the Heritage Planner, the following actions be taken with respect to the demolition request for the heritage listed property located at 160 Oxford Street East: a)    the Chief Building Official BE ...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer)
+
+**Nay (1):** [Phil Squire](/councillors/current/p-squire)
+
+**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+
+</details>
+
+### 3.7. Public Participation Meeting - 6682 Fisher Lane (Z-9002)
+
+> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application of Joe Marche and Monique Rodriguez, relating to the property located at 6682 Fisher Lane: a)         the proposed by-law appended to the staff report dated April 15, ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.2. Request for Delegation Status - R. Sidhu, Argyle Business Improvement Area - Community Improvement Plan (CIP) Study Request for the Argyle BIA and Surrounding Area
+
+> That R. Sidhu, Executive Director, Argyle Business Improvement Area, BE GRANTED delegation status at a future Planning and Environment Committee meeting with respect to the request for a Community Improvement Plan study for the Argyle Business Improvement Area and surrounding area.   (2019-D09)
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (1-0)
+
+### 5.1. (ADDED) 5th Report of the London Advisory Committee on Heritage
+
+> That, the following actions be taken with respect to the 5th Report of the London Advisory Committee on Heritage: a)         on the recommendation of the Director of Development Services, with the advice of the Heritage Planner, the application made under Section 42 of the Ontario Heritage Act to...
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (1-0)
+

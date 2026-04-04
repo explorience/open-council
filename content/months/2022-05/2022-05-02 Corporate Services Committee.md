@@ -82,3 +82,17 @@ The meeting adjourned at 12:10 PM.
 
 ****
 
+---
+
+## Votes
+
+*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
+
+### 4.1. 2022 Debenture Issuance Update
+
+> That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to the 2022 Debenture Issuance:    a)    the issuance of serial debentures for a total of $21,000,000 BE APPROVED, noting the average all-in rate is 3.563% over a 10-year term; an...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+

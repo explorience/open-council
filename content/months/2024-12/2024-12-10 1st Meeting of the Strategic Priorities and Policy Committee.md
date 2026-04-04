@@ -1569,3 +1569,167 @@ Moved by Councillor Hopkins and seconded by Councillor Frank. We can do this by 
 Colleagues, we are, is a Christmas dinner for us this evening. It was scheduled for a 5.30 break. I understand it will be ready a little bit early, but you have about 20 to 25 minutes. And if you'd like to make your way up to the 12th floor, we will take a little bit of holiday festivity together before we adjourn informally for the evening to head home.
 
 </details>
+
+---
+
+## Votes
+
+*12 substantive votes at this meeting (7 contested, 5 unanimous). Procedural motions excluded.*
+
+### 2.1. Film London - LEDC Purchase of Service Agreement Amendment
+
+> That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the proposed amending by-law as appended to the staff report dated December 9, 2024 as Appendix “A” BE INTRODUCED at the Municipal Council meeting to be held on December 17, 2024 to amend By-law No. A.-8441...
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+**Absent (1):** [Jerry Pribil](/councillors/current/j-pribil)
+
+</details>
+
+### 3.1. Not to be heard before 1:00 PM - Public Participation Meeting - Final Report - 2024 Ward Boundary Review
+
+> That the motion be amended to read as follows: That Final Option 1 BE APPROVED in principle, with a minor amendment to the boundary between the proposed Ward 1 and proposed Ward 14 so that the area contained between Clarke Rd, Canadian National Railway, the Eastern City Limit, Hamilton Rd to the ...
+
+**❌ Motion Failed (6 to 9) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Skylar Franke](/councillors/current/s-franke)
+
+**Nay (9):** [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 3.1. Not to be heard before 1:00 PM - Public Participation Meeting - Final Report - 2024 Ward Boundary Review
+
+> That the motion be amended by adding a new part to read as follows: the fifteen (15) homes on the north side of Springbank Dr — between The Coves, Greenside Ave, and the Canadian National Railway — BE RETAINED with proposed Ward 11 as a minor amendment to retain a community of interest.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 3.1. Not to be heard before 1:00 PM - Public Participation Meeting - Final Report - 2024 Ward Boundary Review
+
+> That Final Option 1 BE APPROVED in principle, with a minor amendment to the boundary between proposed Ward 1 and proposed Ward 11 so that the area contained between Wellington Rd S and the Canadian National Railway adjacent to Adelaide St S (Rowntree Area) south to Commissioner Rd E be incorporat...
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
+
+</details>
+
+### 3.1. Not to be heard before 1:00 PM - Public Participation Meeting - Final Report - 2024 Ward Boundary Review
+
+> That Final Option 1 BE APPROVED in principle, with a minor amendment to the boundary between proposed Ward 1 and proposed Ward 4 so that the area contained within Oxford St E, to Highbury Ave N, to Canadian Pacific Railway, to Adelaide St N be incorporated into proposed Ward 4 to better reflect c...
+
+**✅ Motion Passed (11 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (3):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
+
+</details>
+
+### 3.1. Not to be heard before 1:00 PM - Public Participation Meeting - Final Report - 2024 Ward Boundary Review
+
+> That the motion be amended by adding a new part to read as follows: following the adoption of ward boundaries by by-law and the completion of the appeal period, or a decision by the Ontario Land Tribunal (OLT), Civic Administration BE DIRECTED to explore naming convention options for the final wa...
+
+**❌ Motion Failed (2 to 12)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (12):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
+
+</details>
+
+### 3.1. Not to be heard before 1:00 PM - Public Participation Meeting - Final Report - 2024 Ward Boundary Review
+
+> That the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Corrine Rahman](/councillors/current/c-rahman)
+
+**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
+
+</details>
+
+### 4.1. London Convention Centre Corporation (RBC Place London) By-law Update and Appointments
+
+> That the following actions be taken with respect to London Convention Centre Corporation (RBC Place) By-law Update and Appointments: a)    the proposed by-law appended as Appendix ‘B’ to the staff report dated December 10, 2024 A by-law to amend By-law No. A-6866-270, as amended, respecting the L...
+
+**✅ Motion Passed (11 to 0)**
+
+Unanimous (11-0)
+
+### 4.2. Growth Management Implementation Strategy and Municipal Service and Financing Agreements Policy Amendments
+
+> That the delegation request from M. Wallace, Executive Director, London Development Institute BE APPROVED to be heard at this time.
+
+**✅ Motion Passed (12 to 0)**
+
+Unanimous (12-0)
+
+### 4.2. Growth Management Implementation Strategy and Municipal Service and Financing Agreements Policy Amendments
+
+> That the motion be amended to include a new part to read as follows: the correspondence from Zelinka Priamo regarding 3095 and 3105 Bostwick Road (Talbot Village) BE REFERRED for consideration during the 2026 Growth Management Implementation Strategy process.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 4.2. Growth Management Implementation Strategy and Municipal Service and Financing Agreements Policy Amendments
+
+> That the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 4.3. Housing Accelerator Fund - First Annual Update
+
+> That the delegation request from M. Wallace, Executive Director, London Development Institute BE APPROVED to be heard at this time.
+
+**✅ Motion Passed (12 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+**Absent (2):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+

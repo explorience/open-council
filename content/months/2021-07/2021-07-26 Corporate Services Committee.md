@@ -510,3 +510,70 @@ The Corporate Services Committee convenes, In Closed Session, from 12:50 PM to 1
 
 The meeting adjourned at 1:10 PM.
 
+---
+
+## Votes
+
+*7 substantive votes at this meeting (1 contested, 6 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That items 2.1 to 2.6 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. Consideration of Applications to the London Hydro Inc. Board of Directors (Requires 1 Member)
+
+> That interviews BE ARRANGED with the following applicants for consideration of appointment to the London Hydro Inc. Board of Directors for the current Board vacancy:    Tania Goodine Margaret Parks Steven Stefanko
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. Consideration of Applications to the London Hydro Inc. Board of Directors (Requires 1 Member)
+
+> That the Corporate Services Committee members select up to three candidates for the purpose of interviews for an appointment to the London Hydro Board of Directors.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. Consideration of Applications to the London Hydro Inc. Board of Directors (Requires 1 Member)
+
+> London Hydro Inc. Board of Directors - selection of three candidates for interviews
+
+**❌ Majority Winner: Tania Goodine; Margaret Parks; Steven Stefanko 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (6):** [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+</details>
+
+### 4.2. Application - Issuance of Proclamation - Bullying Elimination Week
+
+> That the proclamation requests, Items 4.2 and 4.3, BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.2. Application - Issuance of Proclamation - Bullying Elimination Week
+
+> That based on the application dated June 14, 2021 from Bullying Elimination Week, May 23 - 30, 2022 BE PROCLAIMED as Bullying Elimination Week.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.3. Application - Issuance of Proclamation - October is Caribbean Heritage Month in Canada
+
+> That based on the application dated June 18, 2021 from Caribbean Women's Society, October 1-31, 2021 BE PROCLAIMED as October is Caribbean Heritage Month in Canada.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

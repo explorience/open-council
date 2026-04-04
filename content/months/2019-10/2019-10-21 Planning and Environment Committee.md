@@ -548,3 +548,73 @@ The meeting adjourned at 5:59 PM.
 
 ****
 
+---
+
+## Votes
+
+*8 substantive votes at this meeting (0 contested, 8 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Item 2.2 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.1. Draft City-Wide Urban Design Guidelines
+
+> That M. Wallace, Executive Director, London Development Institute, BE GRANTED delegation status at the October 21, 2019 Planning and Environment Committee meeting with respect to the draft City-Wide Urban Design Guidelines.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.1. Public Participation Meeting – Demolition Request for Dwelling on Heritage Listed Property - 6100 White Oak Road
+
+> That, on the recommendation of the Managing Director, Planning and City Planner, with the advice of the Heritage Planner, with respect to the demolition request for the existing dwelling on the heritage listed property located at 6100 White Oak Road, the Chief Building Official BE ADVISED that Mu...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.2. Public Participation Meeting – Draft Plan of Vacant Land Condominium – 3400 Singleton Avenue (39CD-19510)
+
+> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by 1967172 Ontario Inc., relating to the property located at 3400 Singleton Avenue: a)         the Approval Authority BE ADVISED that no issues were raised at the publ...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.3. Public Participation Meeting – 200 Callaway Road (SPA19-086)
+
+> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by 2682207 Ontario Limited / Domus Developments (London) Inc., relating to the property located at 200 Callaway Road: a)  the Approval Authority BE ADVISED that no iss...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.4. Public Participation Meeting – Not to be heard before 5:30 PM – 676-700 Beaverbrook Avenue and 356 Oxford Street West (OZ-9041)
+
+> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application of Summit Properties Ltd., relating to the property located at 676-700 Beaverbrook Avenue and 356 Oxford Street West: a)         the proposed by-law appended to the st...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. 9th Report of the Advisory Committee on the Environment
+
+> That the following actions be taken with respect to the 9th Report of the Advisory Committee on the Environment, from its meeting held on October 2, 2019: a)         the expenditure of $250.00 from the 2019 Advisory Committee on the Environment (ACE) budget BE APPROVED for R. Sirois to attend the...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.2. 10th Report of the London Advisory Committee on Heritage
+
+> That the following actions be taken with respect to the 10th Report of the London Advisory Committee on Heritage from its meeting held on October 9, 2019: a)         the following actions be taken with respect to the Public Meeting Notice, dated October 2, 2019, from L. Mottram, Senior Planner, w...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

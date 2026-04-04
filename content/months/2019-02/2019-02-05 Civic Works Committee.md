@@ -209,3 +209,25 @@ b)       the City Engineer, in consultation with the Middlesex London Heal
 
 The meeting adjourned at 5:50 PM
 
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> Approve items 2.1 to 2.5
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.1. Community Water Fluoridation
+
+> The additional requests for Delegation Status with respect to the above matter from the following BE GRANTED : - P. Killen - L. Cianchino - N. Kuzmanovich - L.Timler, School of Health Sciences, Fanshawe College - M.Czechowicz
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

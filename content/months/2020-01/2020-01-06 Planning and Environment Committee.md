@@ -887,3 +887,97 @@ The meeting adjourned at 7:29 PM.
 
 ****
 
+---
+
+## Votes
+
+*11 substantive votes at this meeting (0 contested, 11 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.3, inclusive and 2.5 to 2.8, inclusive, BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.4. Candidate Approval for the Urban Design Peer Review Panel
+
+> That, on the recommendation of the Director, Development Services, the following candidates BE APPROVED for the positions, listed below, on the Urban Design Peer Review Panel: a) Tim Wickens – Position of Architect; b) Leo Xuan-Yi Lin– Position of Architect; and, c) Michael Davis – Position of Pl...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.4. Candidate Approval for the Urban Design Peer Review Panel
+
+> That M. Wallace, Executive Director, London Development Institute, BE GRANTED delegation status with respect to candidate approval for the Urban Design Peer Review Panel.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.1. Demolition Request and Heritage Alteration Permit Application - 88 Blackfriars Street, Blackfriars/Petersville Heritage Conservation District
+
+> That, on the recommendation of the Managing Director, City Planning and City Planner, with the advice of the Heritage Planner, the application under Section 42 of the Ontario Heritage Act seeking approval for the demolition of the existing building and approval for a proposed building, as describ...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.2. Demolition Request for Heritage Listed Property at 2325 Sunningdale Road East
+
+> That, on the recommendation of the Managing Director, City Planning and City Planner, with the advice of the Heritage Planner, the following actions be taken with respect to the request for the demolition of the heritage listed property located at 2325 Sunningdale Road East: a)    the Chief Build...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.3. Application - 1830 Wharncliffe Road South (Z-9107)
+
+> That, on the recommendation of the Director, Development Services, based on the application by 2594722 Ontario Inc., relating to the property located at 1830 Wharncliffe Road South, the proposed by-law appended to the staff report dated January 6, 2020 BE INTRODUCED at the Municipal Council meeti...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.4. Application - 1297 Wharncliffe Road South (Z-9106)
+
+> That, on the recommendation of the Director, Development Services, based on the application by Dalmar Motors Volkswagen, relating to the property located at 1297 Wharncliffe Road South, the proposed by-law appended to the staff report dated January 6, 2020 BE INTRODUCED at the Municipal Council m...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.5. Application - 635 Wilton Grove Road (Z-9110)
+
+> That, on the recommendation of the Director, Development Services, based on the application by LIUNA 1059 Training Fund Management Inc., relating to the property located at 635 Wilton Grove Road, the proposed by-law appended to the staff report dated January 6, 2020 BE INTRODUCED at the Municipal...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.6. Lots 50, 51 and 61 and Lots 62 through 89, inclusive, Registered Plan 33M-768 (Formerly 810  Westdel Bourne) (Z-9123)
+
+> That, on the recommendation of the Director, Development Services, based on the application by Colin McClure (Norquay Developments), relating to lands described as Lots 50, 51 and 61 & Lots 62 through 89, inclusive, Registered Plan No. 33M-768 (formerly 810 Westdel Bourne), the proposed by-law ap...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.7. Hamilton Road Corridor Planning Study (OZ-8997)
+
+> That, on the recommendation of the Managing Director, Planning and City Planner, the following actions be taken with respect to the Official Plan and Zoning By-law amendment application by The Corporation of the City of London, relating to the properties located near the Hamilton Road Corridor, g...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. 1st Report of the Advisory Committee on the Environment
+
+> That, the following actions be taken with respect to the 1st Report of the Advisory Committee on the Environment, from its meeting held on December 4, 2019: a)   A. Lockwood, Urban Designer, BE ADVISED that the City of London Climate Change Action Plan should be incorporated into this and any fut...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

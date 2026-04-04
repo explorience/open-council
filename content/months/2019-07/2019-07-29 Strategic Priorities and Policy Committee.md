@@ -497,3 +497,183 @@ The Strategic Priorities and Policy Committee convened In Closed Session from 7
 
 The meeting adjourned at 10:45 PM.
 
+---
+
+## Votes
+
+*15 substantive votes at this meeting (6 contested, 9 unanimous). Procedural motions excluded.*
+
+### 4.1. Review of City Services for Potential Reductions and Eliminations
+
+> That the following BE ADDED to the service review list for consideration: Rescinding the Tree Protection By-law, with report back on possible cost savings that may result from the repeal of the By-law
+
+**❌ Motion Failed (4 to 8)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Steve Lehman](/councillors/current/s-lehman), [Ed Holder](/councillors/current/e-holder)
+
+**Nay (6):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+**Absent (1):** [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+</details>
+
+### 4.1. Review of City Services for Potential Reductions and Eliminations
+
+> That the following BE ADDED to the service review list for consideration: Opportunities for a phased-in Tourism London funding reduction from the municipal levy, in light of new funding transferred to Tourism London from the Municipal Accommodation Tax.
+
+**✅ Motion Passed (8 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Josh Morgan](/councillors/current/j-morgan), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Michael van Holst](/councillors/current/m-van-holst), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire)
+
+**Nay (2):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman)
+
+**Absent (1):** [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+</details>
+
+### 4.1. Review of City Services for Potential Reductions and Eliminations
+
+> That the following BE ADDED to the service review list for consideration: A review of reserve funds with uncommitted balances, (excluding capital asset renewal/replacement funds, and capital asset growth funds) for an analysis of funding contributions to those funds where the annual contributions...
+
+**✅ Motion Passed (12 to 0)**
+
+Unanimous (10-0)
+
+### 4.1. Review of City Services for Potential Reductions and Eliminations
+
+> Motion that Part a) of the clause BE APPROVED.
+
+**✅ Motion Passed (12 to 0)**
+
+Unanimous (10-0)
+
+### 4.1. Review of City Services for Potential Reductions and Eliminations
+
+> Motion that Part b) i) of the clause BE APPROVED.
+
+**✅ Motion Passed (12 to 0)**
+
+Unanimous (10-0)
+
+### 4.1. Review of City Services for Potential Reductions and Eliminations
+
+> Motion that Part b) iii) of the clause BE APPROVED.
+
+**✅ Motion Passed (8 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Josh Morgan](/councillors/current/j-morgan), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Michael van Holst](/councillors/current/m-van-holst), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire)
+
+**Nay (2):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman)
+
+**Absent (1):** [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+</details>
+
+### 4.1. Review of City Services for Potential Reductions and Eliminations
+
+> Motion that Part b) iv) of the clause BE APPROVED.
+
+**✅ Motion Passed (12 to 0)**
+
+Unanimous (10-0)
+
+### 4.1. Review of City Services for Potential Reductions and Eliminations
+
+> Motion that the balance of the clause BE APPROVED.
+
+**✅ Motion Passed (12 to 0)**
+
+Unanimous (10-0)
+
+### 4.1. Review of City Services for Potential Reductions and Eliminations
+
+> That the delegation request from C. Butler BE APPROVED to be heard at this time.
+
+**✅ Motion Passed (9 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire)
+
+**Nay (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Absent (1):** [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+</details>
+
+### 4.1. Review of City Services for Potential Reductions and Eliminations
+
+> That the following BE ADDED to the service review list for consideration: Information Technology, with a report back summary and potential future review tools
+
+**✅ Motion Passed (8 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire)
+
+**Nay (2):** [Elizabeth Peloza](/councillors/current/e-peloza), [Jesse Helmer](/councillors/current/j-helmer)
+
+**Absent (1):** [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+</details>
+
+### 4.1. Review of City Services for Potential Reductions and Eliminations
+
+> Motion that Part b) ii) of the clause BE APPROVED.
+
+**✅ Motion Passed (7 to 5) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier), [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire)
+
+**Nay (3):** [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/current/e-holder), [Jesse Helmer](/councillors/current/j-helmer)
+
+**Absent (1):** [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+</details>
+
+### 4.2. Resignation from Councillor S. Hillier from the London Convention Centre Board of Directors
+
+> That the following actions be taken with respect to the London Convention Centre Board: a)     the resignation of Councillor S. Hiller, dated July 22, 2019, BE ACCEPTED; and b)     Councillor S. Lehman BE APPOINTED to the above-noted Board for the term ending November 15, 2022, in accordance with...
+
+**✅ Motion Passed (12 to 0)**
+
+Unanimous (10-0)
+
+### 4.2. Resignation from Councillor S. Hillier from the London Convention Centre Board of Directors
+
+> That Stephen Turner and Steve Lehman, BE CONSIDERED for appointment to the London Convention Centre Board.
+
+**✅ Motion Passed (11 to 0)**
+
+Unanimous (9-0)
+
+### 4.3. Confirmation of Appointments to the Old East Village Business Improvement Area
+
+> That the following individuals BE APPOINTED to the Old East Village Business Improvement Area Board of Management for the term ending November 15, 2022:    Maria Drangova, Board Chair  Ken Keane, Board Treasurer  Henry Eastabrook, BIA Director  Rob Campbell, BIA Director  Heather Blackwell, BIA D...
+
+**✅ Motion Passed (11 to 0)**
+
+Unanimous (9-0)
+
+### 5.1. Middlesex-London Food Policy Council (Requires 1 Council Member)
+
+> That the matter of an appointment to the Middlesex London Food Policy Council BE REFERRED to a future meeting of the SPPC.
+
+**✅ Motion Passed (11 to 0)**
+
+Unanimous (9-0)
+

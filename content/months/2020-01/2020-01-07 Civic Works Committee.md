@@ -506,3 +506,121 @@ The meeting adjourned at 1:00 PM.
 
 ****
 
+---
+
+## Votes
+
+*11 substantive votes at this meeting (4 contested, 7 unanimous). Procedural motions excluded.*
+
+### 1.2. Election of Vice-Chair for the term ending November 30, 2020
+
+> That Councillor E. Peloza BE ELECTED Vice-Chair of the Civic Works Committee for the term ending November 30, 2020.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2. Consent
+
+> That items 2.2 to 2.4, 2.6, 2.8 and 2.9 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.1. 11th Report of the Cycling Advisory Committee
+
+> That the 11th report of the Cycling Advisory Committee (CAC) BE REFERRED back to the CAC for re-submission to the Civic Works Committee with a completed 2020 work plan for Council consideration and approval.
+
+**✅ Motion Passed (4 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Shawn Lewis](/councillors/current/s-lewis), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 2.5. Downtown Loop and Municipal Infrastructure Improvements - Appointment of Consulting Engineer
+
+> That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the following actions be taken with respect to the appointment of a Consulting Engineer for the Downtown Loop and Municipal Infrastructure Improvements:    a)       AECOM Canada Ltd. BE...
+
+**✅ Motion Passed (5 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 2.7. Amendments to the Traffic and Parking By-Law Related School Community Safety Zones
+
+> That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the proposed by-law, as appended to the staff report dated January 7, 2020, to amend By-law PS-113 entitled, “A by-law to regulate traffic and the parking of motor vehicles in the City ...
+
+**✅ Motion Passed (5 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 2.10. Amendments to the Traffic and Parking By-Law Related to Lot 10
+
+> That, on the recommendation of the Managing Director, Development and Compliance Services and Chief Building Official, the proposed by-law, as appended to the staff report dated January 7, 2020, to amend By-law PS-113 entitled, “A by-law to regulate traffic and the parking of motor vehicles in th...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.3. Municipal Parking Lot 10 - Delegation
+
+> Motion to approve the delegation request from A.M. Valastro.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.3. Municipal Parking Lot 10 - Delegation
+
+> Motion to receive the presentation from A.M. Valastro.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 5.2. (ADDED) 1st Report of the Waste Management Working Group
+
+> That the following actions be taken with respect to the 1st Report of the Waste Management Working Group, from its meeting held on December 18, 2019:    a)       that, on the recommendation of the Director, Environment, Fleet and Solid Waste, the three Alternative Methods for the proposed expansi...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 5.3. (ADDED) 1st Report of the Cycling Advisory Committee
+
+> That the 1st report of the Cycling Advisory Committee BE REFERRED back to the CAC for re-submission to the Civic Works Committee with a completed 2020 work plan for Council consideration and approval.
+
+**✅ Motion Passed (4 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Shawn Lewis](/councillors/current/s-lewis), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 6. Adjournment
+
+> The meeting adjourned at 1:00 PM.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

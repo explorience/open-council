@@ -138,3 +138,17 @@ The meeting is adjourned at 4:47 PM.
 
 ****
 
+---
+
+## Votes
+
+*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
+
+### 4. Items for Direction
+
+> That items 4.1 and 4.2 BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+

@@ -275,3 +275,118 @@ The meeting adjourned at 5:29 PM.
 
 ****
 
+---
+
+## Votes
+
+*8 substantive votes at this meeting (7 contested, 1 unanimous). Procedural motions excluded.*
+
+### 4.1. Consideration of Appointment to the London Transit Commission (Requires 1 Member)
+
+> That Stephanie Marentette BE APPOINTED to the London Transit Commission for the term ending November 15, 2022.
+
+**✅ Motion Passed (12 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire)
+
+**Absent (1):** [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+</details>
+
+### 4.1. Consideration of Appointment to the London Transit Commission (Requires 1 Member)
+
+> Appointment of a Member to the London Transit Commission - 1st selection
+
+**❌ Majority Winner: No majority 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (7):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Mo Salih](/councillors/current/m-salih), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+</details>
+
+### 4.1. Consideration of Appointment to the London Transit Commission (Requires 1 Member)
+
+> Appointment of a Member to the London Transit Commission - 2nd selection
+
+**❌ Majority Winner: No majority 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (7):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Anna Hopkins](/councillors/current/a-hopkins), [Steve Hillier](/councillors/current/s-hillier), [Mo Salih](/councillors/current/m-salih), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+</details>
+
+### 4.1. Consideration of Appointment to the London Transit Commission (Requires 1 Member)
+
+> Appointment of a Member to the London Transit Commission - 3rd selection
+
+**❌ Majority Winner: No majority 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (7):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Anna Hopkins](/councillors/current/a-hopkins), [Steve Hillier](/councillors/current/s-hillier), [Mo Salih](/councillors/current/m-salih), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+</details>
+
+### 4.1. Consideration of Appointment to the London Transit Commission (Requires 1 Member)
+
+> Appointment of a Member to the London Transit Commission - 4th selection
+
+**❌ Majority Winner: Stephanie Marentette 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+</details>
+
+### 5.1. (ADDED) Deferral of Incentive Loan Repayments and Forgiving Interest-Free Loan to London Community Players - Councillor J. Helmer
+
+> That part b) BE REFERRED to the multi-year budget process for consideration; it being noted that part b) reads as follows: b)       the Civic Administration BE AUTHORIZED to forgive the remaining balance of the interest-free loan to the London Community Players, in the amount of $78,749.83.
+
+**❌ Motion Failed (7 to 7) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier), [Phil Squire](/councillors/current/p-squire)
+
+**Nay (5):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+**Absent (1):** [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+</details>
+
+### 5.1. (ADDED) Deferral of Incentive Loan Repayments and Forgiving Interest-Free Loan to London Community Players - Councillor J. Helmer
+
+> Motion to approve part a) That the following actions be taken with respect to the deferral of incentive loan repayments and forgiving interest-free loan to the London Community Players:    a)  the Civic Administration BE AUTHORIZED to further extend the deferral period, on Community Improvement P...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 5.1. (ADDED) Deferral of Incentive Loan Repayments and Forgiving Interest-Free Loan to London Community Players - Councillor J. Helmer
+
+> Motion to approve part b) b)  the Civic Administration BE AUTHORIZED to forgive the remaining balance of the interest-free loan to the London Community Players, in the amount of $78,749.83.
+
+**✅ Motion Passed (8 to 6) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+**Nay (4):** [Shawn Lewis](/councillors/current/s-lewis), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier), [Phil Squire](/councillors/current/p-squire)
+
+**Absent (1):** [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+</details>
+

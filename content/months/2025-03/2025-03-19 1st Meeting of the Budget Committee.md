@@ -1013,3 +1013,72 @@ Seconded by Deputy Mayor Lewis. A hand vote of all in favor. Motion carries. Tha
 We are adjourned.
 
 </details>
+
+---
+
+## Votes
+
+*6 substantive votes at this meeting (2 contested, 4 unanimous). Procedural motions excluded.*
+
+### 2.1. 2026 Annual Budget Update Process
+
+> That the amendment be amended to include a new part iii) to read as follows: iii)  the Mayor BE REQUESTED to advocate to the Provincial government to provide funding to help offset the London Police Service’s operating budget, not dissimilar to financial supports provided in 2024 to 330 small and...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 2.1. 2026 Annual Budget Update Process
+
+> That the motion be amended to read as follows: the Mayor and the London Police Services Board BE REQUESTED to advocate to the Provincial government with regards to the London Police Services budget on the following items: i)    contribute Provincial funding to the Emergency Services training cent...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 2.1. 2026 Annual Budget Update Process
+
+> That the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 2.2. Surplus/Deficit Policy Update
+
+> That the delegation request from C. Butler BE APPROVED to be heard at this time.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 2.2. Surplus/Deficit Policy Update
+
+> The motion be amended to include a new part that reads as follows: That the proposed By-law No. CPOL.-46-242 being “Surplus/Deficit Policy” BE FURTHER AMENDED to reduce the contribution to the Unfunded Liability Reserve Fund to 17% and dedicate 3% to the Community Investment Reserve Fund
+
+**✅ Motion Passed (13 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 2.2. Surplus/Deficit Policy Update
+
+> That the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Jerry Pribil](/councillors/current/j-pribil)
+
+</details>
+

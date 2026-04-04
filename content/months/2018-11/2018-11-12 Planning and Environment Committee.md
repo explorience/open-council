@@ -1344,3 +1344,214 @@ A personal matter pertaining to identifiable individuals, including municipal em
 
 The meeting adjourned at 10:58 PM
 
+---
+
+## Votes
+
+*18 substantive votes at this meeting (9 contested, 9 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.12, inclusive, BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.1. Public Participation Meeting - Application - 1175 Blackwell Boulevard (Z-8954)
+
+> That, on the recommendation of the Manager, Development Planning, with respect to the application of 700531 Ontario Ltd., c/o Tony Marsman Construction, relating to the property located at 1175 Blackwell Boulevard, the proposed by-law appended to the staff report dated November 12, 2018 BE INTROD...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.3. Public Participation Meeting - Heritage Places 2.0: A Description of Potential Heritage Conservation Districts in the City of London (O-8965)
+
+> That, on the recommendation of the Managing Director, Planning and City Planner, with the advice of the Heritage Planner, the following actions be taken with respect to the application of The Corporation of the City of London to update and replace the Heritage Places guideline document which appl...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.4. Public Participation Meeting - Application - 131 King Street (Z-8902)
+
+> That, on the recommendation of the Managing Director, Planning and City Planner, the following actions be taken with respect to the application of York Development, relating to the property located at 131 King Street: a)            the proposed by-law appended to the staff report dated November 1...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.5. Public Participation Meeting - Application - 3080 Bostwick Road (Site 1) (OZ-8941)
+
+> That the applications submitted by 31675 Ontario Limited (York Developments), relating to Sites 1, 3 and 5, 3080 Bostwick Road BE REFERRED back to the Civic Administration to work with the applicant to complete the technical review and, where appropriate, prepare a Bonus Zone that would ‘lock in’...
+
+**❌ Motion Failed (3 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Stephen Turner](/councillors/current/s-turner)
+
+**Nay (1):** [Maureen Cassidy](/councillors/current/m-cassidy)
+
+</details>
+
+### 3.5. Public Participation Meeting - Application - 3080 Bostwick Road (Site 1) (OZ-8941)
+
+> That the following actions be taken with respect to the application of 31675 Ontario Ltd (York Developments Inc.), relating to the property located at 3080 Bostwick Road, referred to as Site 1: a)            the request to amend the Official Plan to add the site to the list of preferred locations...
+
+**❌ Motion Failed (3 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Maureen Cassidy](/councillors/current/m-cassidy)
+
+**Nay (1):** [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 3.6. Public Participation Meeting - Application - 3080 Bostwick Road (Site 3) (Z-8942)
+
+> That the applications submitted by 31675 Ontario Limited (York Developments), relating to Sites 1, 3 and 5, 3080 Bostwick Road BE REFERRED back to the Civic Administration to work with the applicant to complete the technical review and, where appropriate, prepare a Bonus Zone that would ‘lock in’...
+
+**❌ Motion Failed (3 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Stephen Turner](/councillors/current/s-turner)
+
+**Nay (1):** [Maureen Cassidy](/councillors/current/m-cassidy)
+
+</details>
+
+### 3.6. Public Participation Meeting - Application - 3080 Bostwick Road (Site 3) (Z-8942)
+
+> That, on the recommendation of the Senior Planner, Development Services, the following actions be taken with respect to the application of 31675 Ontario Ltd. (York Developments Inc.), relating to the property located at 3080 Bostwick Road referred to as Site 3: a)            the request to amend ...
+
+**❌ Motion Failed (3 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Maureen Cassidy](/councillors/current/m-cassidy)
+
+**Nay (1):** [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 3.7. Public Participation Meeting - Application - 3080 Bostwick Road (Site 5) (OZ-8943)
+
+> That the applications submitted by 31675 Ontario Limited (York Developments), relating to Sites 1, 3 and 5, 3080 Bostwick Road BE REFERRED back to the Civic Administration to work with the applicant to complete the technical review and, where appropriate, prepare a Bonus Zone that would ‘lock in’...
+
+**❌ Motion Failed (3 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Stephen Turner](/councillors/current/s-turner)
+
+**Nay (1):** [Maureen Cassidy](/councillors/current/m-cassidy)
+
+</details>
+
+### 3.7. Public Participation Meeting - Application - 3080 Bostwick Road (Site 5) (OZ-8943)
+
+> That the following actions be taken with respect to the application of 31675 Ontario Ltd (York Developments Inc.), relating to the property located at 3080 Bostwick Road referred to as Site 5: a)            the request to amend the Official Plan to add the site to the list of preferred locations ...
+
+**❌ Motion Failed (3 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Maureen Cassidy](/councillors/current/m-cassidy)
+
+**Nay (1):** [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 3.8. Public Participation Meeting - Application - 809 Dundas Street (Z-8875)
+
+> That, on the recommendation of the Managing Director, Planning and City Planner, the following actions be taken with respect to the application of Paramount Development (London) Inc., relating to the property located at 809 Dundas Street: a)            the proposed by-law appended to the staff re...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 3.9. Public Participation Meeting - Application - 230 North Centre Road (OZ-8874)
+
+> d)  the Civic Administration BE REQUESTED to investigate and report to the Civic Works Committee on the potential installation of a pedestrian crossover on North Centre Road;
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.9. Public Participation Meeting - Application - 230 North Centre Road (OZ-8874)
+
+> That, on the recommendation of the Managing Director, Planning and City Planner, the following actions be taken with respect to the application of The Tricar Group, relating to the property located at 230 North Centre Road: a)         the proposed by-law appended to the staff report dated Novembe...
+
+**✅ Motion Passed (3 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Stephen Turner](/councillors/current/s-turner)
+
+**Absent (1):** [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 3.9. Public Participation Meeting - Application - 230 North Centre Road (OZ-8874)
+
+> Referral to Staff to reduce the massing.
+
+**❌ Motion Failed (2 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Nay (1):** [Stephen Turner](/councillors/current/s-turner)
+
+**Absent (1):** [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 3.9. Public Participation Meeting - Application - 230 North Centre Road (OZ-8874)
+
+> Grant G. McGinn-McTeer an extension beyond 5 minutes.
+
+**✅ Motion Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (1):** [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 4.1. D. Broostad, Hamilton Road Area Business Association - Request for Amendment to Hamilton Road BIA By-laws
+
+> That the City Clerk BE DIRECTED to bring forward to a future meeting of Municipal Council a by-law to incorporate the proposed amendments to the Hamilton Road Business Improvement Area By-law as requested by the Hamilton Road Business Improvement Area Board of Management as outlined in the commun...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 5.1. (ADDED) 11th Report of the Advisory Committee on the Environment
+
+> That the following actions be taken with respect to the 11th Report of the Advisory Committee on the Environment from its meeting held on November 7, 2018: a)            the following actions be taken with respect to recycling: i)             the Civic Administration BE REQUESTED to consider a vo...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 6. Confidential
+
+> (Confidential Appendix enclosed for Members only.) The Planning and Environment Committee convened in camera from 4:03 PM to 4:43 PM after having passed a motion to do so, with respect to the following matters: 6.1.  Litigation or Potential Litigation/Solicitor-Client Privilege     A matter perta...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

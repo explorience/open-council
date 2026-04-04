@@ -162,3 +162,87 @@ Motion
 
 ****
 
+---
+
+## Votes
+
+*5 substantive votes at this meeting (5 contested, 0 unanimous). Procedural motions excluded.*
+
+### 2. Letter of Agreement
+  - Provincial Dedicated Gas Tax Funds for Public Transportation Program
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/current/m-cassidy), [Jared Zaifman](/councillors/current/j-zaifman)
+
+</details>
+
+### 3. Pre-Budget
+  Submission to the Provincial Standing Committee on Finance and Economic
+  Affairs
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/current/m-cassidy), [Jared Zaifman](/councillors/current/j-zaifman)
+
+</details>
+
+### 4. Orientation
+  Planning - Verbal (City Manager)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/current/m-cassidy), [Jared Zaifman](/councillors/current/j-zaifman)
+
+</details>
+
+### 5. Request for
+  Delegation Status - Agreement between The Corporation of the City of London
+  and Fanshawe College of Applied Arts and Technology
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/current/m-cassidy), [Jared Zaifman](/councillors/current/j-zaifman)
+
+</details>
+
+### 6. Access to
+  Refreshments for Members of the Public Attending Council and Standing
+  Committee Meetings
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/current/m-cassidy), [Jared Zaifman](/councillors/current/j-zaifman)
+
+</details>
+

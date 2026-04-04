@@ -271,3 +271,49 @@ That it BE NOTED that the Civic Works Committee heard a verbal update from J. St
 
 The meeting adjourned at 12:47 PM.
 
+---
+
+## Votes
+
+*3 substantive votes at this meeting (2 contested, 1 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That items 2.1 to 2.7, and 2.9 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.8. Western Road and Sarnia Road/Philip Aziz Avenue Corridor and Intersection Improvements - Environmental Study Report, Notice of Completion
+
+> That the Western Road and Sarnia Road/Philip Aziz Avenue Corridor and Intersection Improvements and Environmental Study Report, Notice of Completion, BE REFERRED back to Civic Administration, in order to consider the concerns raised by the Civic Works Committee, including but not limited to pedes...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 2.8. Western Road and Sarnia Road/Philip Aziz Avenue Corridor and Intersection Improvements - Environmental Study Report, Notice of Completion
+
+> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report dated April 12, 2023, related to the Western Road and Sarnia Road/Philip Aziz Avenue Corridor and Intersection Improvements Environmental Study R...
+
+**❌ Motion Failed (2 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Nay (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+

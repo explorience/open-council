@@ -786,3 +786,34 @@ Thank you, and through you, I'm happy to report out that we made progress on the
 Motion carries. Have a good evening.
 
 </details>
+
+---
+
+## Votes
+
+*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
+
+### 4.1. 1st Report of the Integrated Transportation Community Advisory Committee
+
+> That the delegation request from R. Buchal, Member, Integrated Transportation Community Advisory Committee and Chair of the Mobility Master Plan Subcommittee, BE APPROVED to be heard at this time.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 4.3. Eldon House Board of Directors Change of Governance Structure Request
+
+> That the request from the Board of Directors Eldon House BE REFERRED to the Civic Administration to draft a revised Eldon House by-law and report back to the February 4, 2025 meeting of Strategic Priorities and Policy Committee; it being noted that the Strategic Priorities and Policy Committee re...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 4.4. Confirmation of Appointment to the Hamilton Road BIA
+
+> That Jim Dean, of Jim Dean Law BE APPOINTED to the Hamilton Road BIA for the term ending November 14, 2026; it being noted that the Strategic Priorities and Policy Committee received a communication dated December 18, 2024 from C. Luistro, Executive Director, Hamilton Road BIA with respect to thi...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+

@@ -3110,3 +3110,181 @@ And our silent heroes are our tech folks who we never say thank you to officiall
 I see Councillor Hopkins, I see second of bite. Councillor Hamou, let's do a big show of hands, those in favor. And that motion carries. Thanks very much, meeting adjourned.
 
 </details>
+
+---
+
+## Votes
+
+*16 substantive votes at this meeting (7 contested, 9 unanimous). Procedural motions excluded.*
+
+### 8.1. 12th Report of the Planning and Environment Committee
+
+> That the 12th Report of the Planning and Environment Committee, BE APPROVED, excluding Items 13 (3.5) and 14 (3.6).
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (11-0)
+
+### 8.1.13. (3.5) 84-86 St. George Street and 175-197 Ann Street (OZ-9127) (Relates to Bill No.'s 284 and 301)
+
+> That Item 13, clause 3.5, BE AMENDED to include the following at the end of the clause: "it being noted that the Municipal Council approves this application for the following reasons: - consistent with the Province Policy Statement promoting intensification and redevelopment in appropriate locati...
+
+**✅ Motion Passed (11 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+</details>
+
+### 8.1.13. (3.5) 84-86 St. George Street and 175-197 Ann Street (OZ-9127) (Relates to Bill No.'s 284 and 301)
+
+> That Item 13, clause 3.5, as amended, BE APPROVED.
+
+**✅ Motion Passed (11 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+</details>
+
+### 8.1.14. (3.6) 689 Oxford Street West (Z-9199 & O-9206)
+
+> That, the application by 2399731 Ontario Ltd, c/o Westdell Development Corporation BE REFERRED back to the Civic Administration to work with the developer to improve the proposed transition from high density towers to the existing low density abutting residential neighbourhoods with specific atte...
+
+**❌ Motion Failed (4 to 9)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (7):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+</details>
+
+### 8.1.14. (3.6) 689 Oxford Street West (Z-9199 & O-9206)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 2399731 Ontario Ltd. c/o Westdell Development Corporation relating to the property located at 689 Oxford Street West:  a)    the request to amend Zoning No. Z.-...
+
+**✅ Motion Passed (11 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+</details>
+
+### 8.2. 8th Report of the Community and Protective Services Committee
+
+> That the 8th Report of the Community and Protective Services Committee, BE APPROVED, excluding Items 6 (2.4) and 8 (5.1).
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (11-0)
+
+### 8.2.6. (2.4) "RentSafeTO" Program and Complaint Process Improvements
+
+> That clause 2.4, BE AMENDED, by adding the following new part b): “b) Civic Administration BE DIRECTED to develop and bring forward a business case for a RentSafe London program for consideration during deliberations on the next multi-year budget.  it being noted that: i) RentSafeTO employed 33 f...
+
+**❌ Motion Failed (3 to 10)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Jesse Helmer](/councillors/current/j-helmer)
+
+**Nay (8):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst)
+
+</details>
+
+### 8.2.6. (2.4) "RentSafeTO" Program and Complaint Process Improvements
+
+> Motion to approve clause 2.4.
+
+**✅ Motion Passed (10 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+
+### 8.2.8. (5.1) Deferred Matters List
+
+> Motion to approve item 1 of the Deferred Matters List.
+
+**✅ Motion Passed (12 to 0)**
+
+Unanimous (10-0)
+
+### 8.2.8. (5.1) Deferred Matters List
+
+> Motion that the remainder of the Deferred Matters List, BE APPROVED.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (11-0)
+
+### 8.3. 10th Report of the Strategic Priorities and Policy Committee
+
+> That the 10th Report of the Strategic Priorities and Policy Committee, BE APPROVED.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (11-0)
+
+### 8.4. 10th Report of the Corporate Services Committee
+
+> That the 10th Report of the Corporate Services Committee BE APPROVED.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (11-0)
+
+### 8.5. 9th Report of the Civic Works Committee
+
+> That the 9th Report of the Civic Works Committee, BE APPROVED. At 7:03 PM, His Worship the Mayor places Deputy Mayor J. Morgan in the Chair. At 7:07 PM, His Worship the Mayor resumes the Chair.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (11-0)
+
+### 8.6. 3rd Report of the Audit Committee
+
+> That the 3rd Report of the Audit Committee, BE APPROVED.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (11-0)
+
+### 9.1. 10th Report of Council in Closed Session
+
+> 1.    Tourism Relief Fund – Contribution Agreement That, on the recommendation of the Deputy City Manager, Finance Supports, the Civic Administration BE DIRECTED to take the following actions with respect to the staff report, dated June 21, 2022, related to the Tourism Relief Fund – Contribution ...
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (11-0)
+
+### 9.1. 10th Report of Council in Closed Session
+
+> 2.    Property Acquisition – 19 Raywood Avenue – Wellington Gateway Project That, on the recommendation of the Deputy City Manager, Finance Supports, with the concurrence of the Director, Construction and Infrastructure Services, on the advice of the Director, Realty Services, with respect to the...
+
+**✅ Motion Passed (12 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+

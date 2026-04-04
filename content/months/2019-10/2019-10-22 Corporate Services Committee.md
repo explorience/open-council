@@ -283,3 +283,33 @@ The Corporate Services Committee convenes, In Closed Session, from 1:00 PM to 1:
 
 The meeting adjourned at 1:48 PM.
 
+---
+
+## Votes
+
+*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That items 2.1, 2.2 and 2.4 to 2.7 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.3. Vacant/Excess Land Subclass Tax Reductions and Other Tax Policy Issues
+
+> That, on the recommendation of the Managing Director Corporate Services and City Treasurer, Chief Financial Officer, the following actions be taken with respect to vacant/excess land subclass tax reductions in the commercial and industrial property classes and other tax policies noted in the atta...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 5.1. Corporate Services Committee Deferred Matters List
+
+> That the Corporate Services Committee Deferred Matters List, BE AMENDED by removing item 1.1 - City of London involvement in partnerships with other cities.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

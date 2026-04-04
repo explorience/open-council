@@ -262,3 +262,17 @@ That the Civic Works Committee Deferred Matters List, as at October 9, 2020, BE 
 
 The meeting adjourned at 12:12 PM.
 
+---
+
+## Votes
+
+*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.7 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

@@ -312,3 +312,64 @@ The Community and Protective Services Committee convened In Closed Session from 
 
 The meeting adjourned at 6:22 PM.
 
+---
+
+## Votes
+
+*6 substantive votes at this meeting (1 contested, 5 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> Motion to approve Items 2.1, 2.2 and 2.5.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.4. "RentSafeTO" Program and Complaint Process Improvements
+
+> Motion to approve the delegation request from D. Devine, to be heard at this meeting.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.4. "RentSafeTO" Program and Complaint Process Improvements
+
+> That the Civic Administration BE DIRECTED to bring forward a business case that would provide for the implementation of a Rent Safe London Housing Enforcement Program, for consideration during the next multi-year budget development.
+
+**❌ Motion Failed (3 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Mo Salih](/councillors/current/m-salih)
+
+**Nay (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.1. REQUEST FOR DELEGATION STATUS - Permission to Use Gibbons Park for an Event - J. Scott-Pearse
+
+> Motion to approve the delegation request from J. Scott-Pearse to be heard at this meeting.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 5.1. Deferred Matters List
+
+> Motion to receive Item number 1 on the Deferred Matters List for the Community and Protective Services Committee, as at June 13, 2022.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 5.1. Deferred Matters List
+
+> Motion to receive the Deferred Matters List for the Community and Protective Services Committee, as at June 13, 2022, with the exception of Item Number 1.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+

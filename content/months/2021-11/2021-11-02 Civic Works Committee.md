@@ -404,3 +404,54 @@ it being noted that the Civic Works Committee was made aware of the attached on
 
 The meeting adjourned at 1:29 PM.
 
+---
+
+## Votes
+
+*5 substantive votes at this meeting (1 contested, 4 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.2, 2.4, 2.5, and 2.6 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.7. Meadowlily Road Area Environmental Assessment and Servicing Study
+
+> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report dated November 2, 2021, related to the Appointment of Consulting Engineer for RFP 21-59 Meadowlily Road Area Environmental Assessment and Servici...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. Initiation of the Mobility Master Plan Development
+
+> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report dated November 2, 2021, related to the development of the Mobility Master Plan: a)        the following Draft Vision and Guiding Principles for t...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 5. Deferred Matters/Additional Business
+
+> That Items 5.1 to 5.3 BE APPROVED
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 5.4. (ADDED) Blackfriars Bridge
+
+> That the following actions be taken with respect to the Blackfriars Bridge: a)        the Civic Administration BE DIRECTED to leave Blackfriars Bridge closed to vehicles at this time and commence the review of the bridge operations as required by the Ministry of the Environment, Conservation and ...
+
+**✅ Motion Passed (4 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+</details>
+

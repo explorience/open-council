@@ -2198,3 +2198,206 @@ Closing the vote. The motion carries. 4-0. Okay, we made it.
 All those in favor? We are adjourned. Thank you, everyone.
 
 </details>
+
+---
+
+## Votes
+
+*18 substantive votes at this meeting (6 contested, 12 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.3, 2.4, 2.5, 2.7 and 2.8 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.2. Primary Care Recruitment and Retention Program Report
+
+> That the motion be amended to add a new part to read as follows: The Mayor BE REQUESTED to write a letter to Middlesex County Mayors requesting that the county contribute a percentage of the $80,000 London is contributing for the recruitment of doctors to London Middlesex and surrounding area.
+
+**✅ Motion Passed (4 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (2):** [Josh Morgan](/councillors/current/j-morgan), [Jerry Pribil](/councillors/current/j-pribil)
+
+</details>
+
+### 2.2. Primary Care Recruitment and Retention Program Report
+
+> That the amendment, as amended, be approved.
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Jerry Pribil](/councillors/current/j-pribil)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 2.2. Primary Care Recruitment and Retention Program Report
+
+> That the motion, as amended, be approved.
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Jerry Pribil](/councillors/current/j-pribil)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 2.2. Primary Care Recruitment and Retention Program Report
+
+> Motion to approve the delegation request from A. Loewen, Middlesex London Ontario Health Team to be heard at this meeting.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.6. One Year Update: Green Bin and Biweekly Collection Program - Part One: Program Monitoring and Community Feedback
+
+> That the motion be amended to include a new part b) iv) to read as follows: iv) options and cost estimates on how the green bin program can be extended to churches and non-profits offering food services for hospitality meals.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 2.6. One Year Update: Green Bin and Biweekly Collection Program - Part One: Program Monitoring and Community Feedback
+
+> That the motion, as amended, be approved.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 2.9. Provision of Outdoor Basic Needs
+
+> That the motion be amended to include a new part g) to read as follows: The Civic Administration BE DIRECTED to present a report at a future meeting of the Community and Protective Services Committee, providing the above noted executed contracts for information.
+
+**✅ Motion Passed (3 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil)
+
+**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+**Absent (2):** [Josh Morgan](/councillors/current/j-morgan), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 2.9. Provision of Outdoor Basic Needs
+
+> That the motion, as amended, be approved.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 2.9. Provision of Outdoor Basic Needs
+
+> That the motion be amended to add a new part h) to read as follows: h)     That the following actions be taken with respect to the communication, dated March 14, 2025, from Councillor H. McAlister: i)    the Mayor and the Civic Administration BE DIRECTED to request from the Provincial Government ...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 2.10. Emergency Treatment Fund (ETF) Approval of Federal Contribution Agreement
+
+> That the motion be amended to include a new part g) to read as follows: The Civic Administration BE DIRECTED to present a report at a future meeting of the Community and Protective Services Committee, providing the above noted executed contracts for information.
+
+**✅ Motion Passed (3 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil)
+
+**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+**Absent (2):** [Josh Morgan](/councillors/current/j-morgan), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 2.10. Emergency Treatment Fund (ETF) Approval of Federal Contribution Agreement
+
+> That the motion, as amended, be approved.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 2.11. Additional Emergency Shelter and Day Drop-in Space Update Report
+
+> That the delegation request from S. Campbell BE HEARD at this meeting.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 2.11. Additional Emergency Shelter and Day Drop-in Space Update Report
+
+> That part c) of the motion BE APPROVED.
+
+**❌ Motion Failed (2 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow)
+
+**Nay (2):** [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil)
+
+**Absent (2):** [Josh Morgan](/councillors/current/j-morgan), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 2.11. Additional Emergency Shelter and Day Drop-in Space Update Report
+
+> That parts a) and b) of the motion BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 3.1. 4th Report of the Environmental Stewardship and Action Community Advisory Committee
+
+> That the following actions be taken with respect to the 4th Report of the Environmental Stewardship and Action Community Advisory Committee, from the meeting held on March 5, 2025: a)    the Mayor's New Years Honour List Working Group recommendations, as appended to the Agenda, BE FORWARDED to th...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 5.1. (ADDED) Short-Term Rental Enforcement Fund
+
+> That, on the recommendation of Deputy City Manager, Housing and Community Growth the proposed by-law, as appended to the staff report dated March 17, 2025, BE INTRODUCED at the Municipal Council meeting to be held on April 1, 2025, to: a)         ratify the Short-Term Rental Enforcement Fund Agre...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 5.2. (ADDED) Interim Housing Assistance Program (IHAP) for Costs Incurred Between April 1 and December 31, 2024
+
+> That, on the recommendation of the Deputy City Manager, Social and Health Development, the proposed by-law, as appended to the staff report dated March 17, 2025, BE INTRODUCED at the Council meeting to be held on April 1, 2025, to: a)         severally delegate the authority to the City Manager a...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+

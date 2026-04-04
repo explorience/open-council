@@ -397,3 +397,33 @@ b)         the remaining clauses of the above-noted CAC report BE REFERR
 
 The meeting adjourned at 4:39 PM.
 
+---
+
+## Votes
+
+*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.12 BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 4.1. 9th Report of the Cycling Advisory Committee
+
+> That the 9th Report of the Cycling Advisory Committee, from its meeting held on September 18, 2019, BE REFERRED to the Civic Administration for consideration and action, as appropriate.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 5.2. (ADDED) 10th Report of the Cycling Advisory Committee
+
+> That the following actions be taken with respect to the 10th Report of the Cycling Advisory Committee (CAC), from its meeting held on October 16, 2019: a)         the following actions be taken with respect to the 2019 CAC Work Plan: i)          the following expenditure from the 2019 CAC budget ...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+

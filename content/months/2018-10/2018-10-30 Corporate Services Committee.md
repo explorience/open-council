@@ -270,3 +270,33 @@ The Corporate Services Committee convened in closed session from 12:53 PM to 1:0
 
 The meeting adjourned at 1:02 PM.
 
+---
+
+## Votes
+
+*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.7, excluding 2.3, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.3. Land Allocation - Fire Station No. 15 - Innovation Drive
+
+> That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, with the concurrence of the Fire Chief and the Managing Director, Neighbourhood, Children and Fire Services, on the advice of the Manager of Realty Services, with respect to a por...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.1. Amendments to the Council Procedure By-law Striking Committee
+
+> That the following actions be taken with respect to proposed amendments to the Council Procedure By-law: a)       on the recommendation of the City Clerk, proposed by-law appended to the staff report dated October 30, 2018 as Appendix “A” BE INTRODUCED at the Municipal Council meeting to be held ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+

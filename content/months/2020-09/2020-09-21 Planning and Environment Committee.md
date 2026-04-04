@@ -1176,3 +1176,111 @@ The meeting adjourned at 10:23 PM.
 
 ****
 
+---
+
+## Votes
+
+*11 substantive votes at this meeting (2 contested, 9 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 and 2.3 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.1. Application - 733 Wellington Street (Z-9222)
+
+> That, on the recommendation of the Director, City Planning and City Planner, based on the application by McIver Holdings Inc., relating to the property located at 733 Wellington Street, the proposed by-law appended to the staff report dated September 21, 2020 BE INTRODUCED at the Municipal Counci...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.2. Application - 666-670 Wonderland Road North (Z-9241)
+
+> That, on the recommendation of the Director, Development Services, based on the application by JFK Holdings, relating to the property located at 666-670 Wonderland Road North, the proposed by-law appended to the staff report dated September 21, 2020, BE INTRODUCED at the Municipal Council meeting...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.3. Application - 820 Cabell Street (Z-9196)
+
+> That the following actions be taken with respect to the application by Bruce Sworik, relating to the property located at 820 Cabell Street: a) the application BE REFERRED to a future Planning and Environment Committee meeting; and, b)  the Civic Administration BE REQUESTED to work with the applic...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.4. Application - 122 Base Line Road West (OZ-9200)
+
+> That, on the recommendation of the Director, City Planning and City Planner, the following actions be taken with respect to the application by Housing Development Corporation London, relating to the property located at 122 Base Line Road West: a) the proposed by-law appended to the staff report d...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.5. Application - 1093 Westdel Bourne (Z-9186)
+
+> That, on the recommendation of the Director, Development Services, based on the application by Norquay Developments, relating to a portion of the property located at 1093 Westdel Bourne, the proposed by-law appended to the staff report dated September 21, 2020 BE INTRODUCED at the Municipal Counc...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.6. Application - 799 Southdale Road West (OZ-9188)
+
+> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by Speyside East Corporation, relating to the property located at 799 Southdale Road West: a) the proposed by-law appended to the staff report dated September 21, 2020...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.7. Application - Demolition Request for Heritage Designated Property - 120 York Street
+
+> That, on the recommendation of the Director, Development Services, with the advice of the Heritage Planner, the request to demolish the building on the heritage designated property at 120 York Street, within the Downtown Heritage Conservation District, BE PERMITTED, and the following actions BE T...
+
+**❌ Motion Failed (3 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Ed Holder](/councillors/current/e-holder)
+
+**Nay (1):** [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+</details>
+
+### 3.9. Application - Old Victoria Hospital Lands Secondary Plan (O-9223) and 124 Colborne Street and the Block Bounded by Hill Street, Colborne Street, South Street and Waterloo Street (Z-9224)
+
+> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the applications by The Corporation of the City of London relating to The Old Victoria Hospital Lands Secondary Plan Area and the properties located at 124 Colborne Street and the Blo...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. 6th Report of the London Advisory Committee on Heritage
+
+> That the following actions be taken with respect to the 6th Report of the London Advisory Committee on Heritage from its meeting held on September 10, 2020: a)  on the recommendation of the Director, Development Services, with the advice of the Heritage Planner, the application under Section 42 o...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. 6th Report of the London Advisory Committee on Heritage
+
+> Motion to approve part a), which reads as follows: a)  on the recommendation of the Director, Development Services, with the advice of the Heritage Planner, the application under Section 42 of the Ontario Heritage Act to construct two high-rise buildings on the property located at 556 Wellington ...
+
+**✅ Motion Passed (5 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (1):** [Ed Holder](/councillors/current/e-holder)
+
+</details>
+

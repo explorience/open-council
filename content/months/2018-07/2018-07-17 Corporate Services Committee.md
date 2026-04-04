@@ -385,3 +385,57 @@ The Corporate Services Committee convened in closed session from 2:57 PM to 3:08
 
 The meeting adjourned at 3:09 PM.
 
+---
+
+## Votes
+
+*6 substantive votes at this meeting (0 contested, 6 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.2, 2.4 and 2.7 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.5. FCM Grant Funding Agreement & RFP 18-23 Award for Corporate Asset Management Plan and Policy
+
+> That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, with the advice of the Manager III, Corporate Asset Management, the following actions be taken with respect to the Corporate Asset Management Plan and Policy:    a)            the...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.6. Industrial Land Development Strategy Annual Monitoring and Pricing Report - City-Owned Industrial Land
+
+> That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, on the advice of the Manager of Realty Services with respect to the City of London’s Industrial Land Development Strategy, the following actions be taken with respect to the annua...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.1. Tribunal - Development Charge Complaint - 84 Dennis Avenue
+
+> That, after convening as a tribunal under section 27 of Part IV of By-law C.P.-1496-244 to hear a complaint under section 20 of the Development Charges Act 1997, S.O. 1997, c. 27, by Janice and Patrick Greenside, the owners of the property located at 84 Dennis Avenue, regarding the development ch...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.1. Tribunal - Development Charge Complaint - 84 Dennis Avenue
+
+> That the Corporate Services Committee now convene as a tribunal under section 27 of Part IV of By-law C.P.-1496-244 to hear a complaint under section 20 of the Development Charges Act, 1997 and provide the complainant an opportunity to make representations.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.1. Confirmation of Appointment to the Community Safety and Crime Prevention Advisory Committee (Requires 1 Non-Voting Representative from Active & Safe Routes to School)
+
+> That Tara MacDaniel BE APPOINTED as a Non-Voting Representative from Active & Safe Routes to School to the Community Safety and Crime Prevention Advisory Committee for the term ending February 28, 2019.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+

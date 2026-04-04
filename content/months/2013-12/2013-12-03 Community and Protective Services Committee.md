@@ -74,3 +74,42 @@ Motion
 
 ****
 
+---
+
+## Votes
+
+*2 substantive votes at this meeting (2 contested, 0 unanimous). Procedural motions excluded.*
+
+### 2. Election of
+  Vice-Chair for the term ending November 30, 2014
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Nancy Branscombe](/councillors/current/n-branscombe)
+
+</details>
+
+### 3. Long Term Care and
+  Adult Day Program Management Consulting and Administrator Services Contract
+  Amendment
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Matt Brown](/councillors/current/m-brown), [Nancy Branscombe](/councillors/current/n-branscombe)
+
+**Nay (1):** [Bill Armstrong](/councillors/current/b-armstrong)
+
+</details>
+

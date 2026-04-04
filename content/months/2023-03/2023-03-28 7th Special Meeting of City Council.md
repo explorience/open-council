@@ -307,3 +307,18 @@ Motion carries. Thank you. We're adjourned. I'll just make one final reminder fo
 The meeting that you're, I think you're planning on being here for is the SPPC meeting which starts at four. That was a special council meeting for a one-on-one item agenda. So that meeting will begin at four p.m.
 
 </details>
+
+---
+
+## Votes
+
+*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
+
+### 8.1. 5th Report of the Special Community and Protective Services Committee
+
+> That items 1 to 2 (2.1) of 5th Report of the Special Community and Protective Services Committee, BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+

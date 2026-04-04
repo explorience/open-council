@@ -333,3 +333,17 @@ That the Deferred Matters List for the Community and Protective Services Committ
 
 The meeting adjourned at 5:08 PM.
 
+---
+
+## Votes
+
+*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.7, 2.11 and 2.12 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

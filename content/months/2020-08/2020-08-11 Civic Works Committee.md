@@ -409,3 +409,55 @@ That the Deferred Matters List, as of July 31, 2020, BE RECEIVED.
 
 The meeting adjourned at 12:51 PM.
 
+---
+
+## Votes
+
+*4 substantive votes at this meeting (2 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That items 2.2 to 2.4 and 2.7 to 2.12 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.1. Kilally South, East Basin Municipal Class Environmental Assessment: Notice of Completion
+
+> That, on the recommendation of the Managing Director Environmental and Engineering Services and City Engineer, the following actions be taken with respect to the Kilally South, East Basin Municipal Class Environmental Assessment: a)       the Kilally South, East Basin Municipal Class Assessment E...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.5. Wellington Gateway Transit and Municipal Infrastructure Improvements - Appointment of Consulting Engineer
+
+> That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the following actions be taken with respect to the appointment of a Consulting Engineer for the Wellington Gateway Transit and Infrastructure Improvements: a)       AECOM Consulting Ltd...
+
+**✅ Motion Passed (5 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 2.6. East London Link Transit and Municipal Infrastructure Improvements Appointment of Consulting Engineer
+
+> That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the following actions be taken with respect to the appointment of a Consulting Engineer for the East London Link Transit and Municipal Infrastructure Improvements: a)       DILLON Consu...
+
+**✅ Motion Passed (5 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+

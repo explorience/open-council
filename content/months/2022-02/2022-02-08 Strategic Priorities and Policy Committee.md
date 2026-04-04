@@ -1915,3 +1915,117 @@ Colleagues moved by Councillor Vameerberg and seconded by Councillor Hillier. Al
 We're adjourned. Thank you for a great evening.
 
 </details>
+
+---
+
+## Votes
+
+*10 substantive votes at this meeting (3 contested, 7 unanimous). Procedural motions excluded.*
+
+### 4.3. A London For Everyone: An Action Plan to Disrupt Islamophobia
+
+> That on the recommendation of the City Manager, the following action be taken with respect to ending Islamophobia in London:    a) the report of the Anti-Islamophobia Working Group, A London for Everyone: An Action Plan to Disrupt Islamophobia (Action Plan), attached to the staff report dated Feb...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 4.4. London and Middlesex Community Housing
+
+> That Anne-Marie Mitchell BE APPOINTED to the London & Middlesex Community Housing Board of Directors for the term ending December 31, 2025 (Third Class); it being noted that the Strategic Priorities and Policy Committee received a communication from A. Anderson, Board of Directors, London & Middl...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 4.5. Consideration of Appointment to the Waste Management Working Group (Requires a Minimum of 3 Council Members)
+
+> That the following BE APPOINTED to the Waste Management Working Group for the term ending November 14, 2022 or when the City's Resource Recovery Plan and Residual Waste Disposal Plan are approved by Council, whichever comes first:    Councillor S. Turner  Councillor M. van Holst  Councillor E. Pe...
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (11-0)
+
+### 4.6. Appointment to the London Downtown Business Association
+
+> That Councillor J. Fyfe-Millar BE APPOINTED to the London Downtown Business Association for the term ending November 14, 2022; it being noted that the Strategic Priorities and Policy Committee received a communication dated January 20, 2022 from Councillor J. Helmer with respect to this matter.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (11-0)
+
+### 4.8. 2nd Report of the Diversity, Inclusion and Anti-Oppression Advisory Committee
+
+> That the following actions be taken with respect to the 2nd Report of the Diversity, Inclusion and Anti-Oppression Advisory Committee from its meeting held on January 20, 2022:    a) the Civic Administration BE REQUESTED to include a template for the Acknowledgement of Indigenous Lands on all fut...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 4.9. 7th Report of the Governance Working Group
+
+> That Part a) vi) BE APPROVED as follows: the Childcare Advisory Committee BE DISSOLVED and no new related committee be established BE APPROVED.
+
+**✅ Motion Passed (12 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner)
+
+**Nay (1):** [Mo Salih](/councillors/current/m-salih)
+
+**Absent (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Ed Holder](/councillors/current/e-holder)
+
+</details>
+
+### 4.9. 7th Report of the Governance Working Group
+
+> That Part a) i) BE APPROVED as follows: the attached revised Terms of Reference for the London Community Advisory Committees (LCAC) BE APPROVED for enactment; and    ii)    the Civic Administration BE DIRECTED to recruit for the membership appointments for all of the LCACs, included in part a) ab...
+
+**✅ Motion Passed (11 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+**Nay (1):** [Jesse Helmer](/councillors/current/j-helmer)
+
+**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+
+</details>
+
+### 4.9. 7th Report of the Governance Working Group
+
+> That Part a) iii) BE APPROVED as follows:     the Civic Administration BE DIRECTED to report back to a future meeting of the GWG with respect to an updated General Terms of Reference for all Advisory Committees to support the approved new structure, including but not limited to the feedback colle...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 4.10. Unique Part-Time Role of Council
+
+> That the Governance Working Group BE REQUESTED to discuss and report back to the Strategic Priorities and Policy Committee with their recommendations about Council continuing as a unique-part-time-role versus transitioning to a unique-full-time-role.
+
+**✅ Motion Passed (10 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Shawn Lewis](/councillors/current/s-lewis), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner)
+
+**Nay (2):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins)
+
+**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+
+</details>
+
+### 5.1. (ADDED) Audit and Accountability Fund - Intake 3 - Transfer Payment Agreement and Single Source Contract Award
+
+> That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken:    a)    the proposed by-law as appended to the staff report dated February 8, 2022 as Appendix “A” BE INTRODUCED at the Municipal Council meeting on February 15, 2022, to:  ...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+

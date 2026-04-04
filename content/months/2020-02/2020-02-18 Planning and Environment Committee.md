@@ -391,3 +391,70 @@ The meeting adjourned at 5:08 PM.
 
 ****
 
+---
+
+## Votes
+
+*7 substantive votes at this meeting (1 contested, 6 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.3, inclusive, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.1. Request for Council Resolution, under section 45(1.4) of the Planning Act, 1990 - 1331 Hyde Park Road
+
+> Motion to grant delegation status to Mr. L. Kirkness, Kirkness Consulting.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.2. Application - 1600/1622 Hyde Park Road and 1069 Gainsborough Road (Z-9067)
+
+> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by Hyde Park Investments Inc., relating to the property located at 1600/1622 Hyde Park Road and 1069 Gainsborough Road: a)  the proposed by-law appended to the staff r...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.3. 3rd Report of the London Advisory Committee on Heritage
+
+> That, the following actions be taken with respect to the 3rd Report of the London Advisory Committee on Heritage, from its meeting held on February 12, 2020: a) the Civic Administration BE ADVISED that the London Advisory Committee on Heritage (LACH) supports the proposed Property Standards Amend...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.1. 3rd Report of the Advisory Committee on the Environment
+
+> That, the following actions be taken with respect to the 3rd Report of the Advisory Committee on the Environment, from its meeting held on February 5, 2020: a) the attached Energy Sub-Committee Report BE FORWARDED to the Planning and Environment Committee and the Cycling Advisory Committee for co...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.1. 3rd Report of the Advisory Committee on the Environment
+
+> Motion to refer clause d) to the Advisory Committee review being undertaken; it being noted that clause 5.6 reads as follows: "the City Clerk BE REQUESTED to change the non-voting membership positions for the Institute of Catastrophic Research (Western University) and the Biodrome (Western Univer...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 6. Adjournment
+
+> The meeting adjourned at 5:08 PM.
+
+**❌  🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+
+</details>
+

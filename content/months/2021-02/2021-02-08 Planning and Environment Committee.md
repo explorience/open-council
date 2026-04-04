@@ -614,3 +614,83 @@ The Planning and Environment Committee convenes, In Closed Session, from 6:01 PM
 
 The meeting adjourned at 6:13 PM.
 
+---
+
+## Votes
+
+*8 substantive votes at this meeting (2 contested, 6 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.2 to 2.7, inclusive, and Item 2.9 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.8. London Community Recovery Network - Ideas for Action by Municipal Council
+
+> That, on the recommendation of the Managing Director, Development & Compliance Services and Chief Building Official, the following actions be taken with respect to the London Community Recovery Network: a)  the implementation plans for the following ideas for action submitted from the London Comm...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.8. London Community Recovery Network - Ideas for Action by Municipal Council
+
+> Motion to approve clause a) 1.3, which reads as follows: "a)  the implementation plans for the following ideas for action submitted from the London Community Recovery Network and received by Municipal Council BE APPROVED: - 1.3 A Break in the Clouds;"
+
+**❌ Motion Failed (2 to 4) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Nay (2):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 2.8. London Community Recovery Network - Ideas for Action by Municipal Council
+
+> Motion to approve clause a) section 2.5 which reads as follows: "a)  the implementation plans for the following ideas for action submitted from the London Community Recovery Network and received by Municipal Council BE APPROVED: - 2.5 Increase grant funding/building code for façade upgrades;"
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.8. London Community Recovery Network - Ideas for Action by Municipal Council
+
+> Motion to approve clause a) 3.5, which reads as follows: "a)  the implementation plans for the following ideas for action submitted from the London Community Recovery Network and received by Municipal Council BE APPROVED: - 3.5 Provide better market data to attract new businesses;"
+
+**❌ Motion Failed (2 to 4) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Nay (2):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 3.1. Application - 3195 White Oak Road (Z-9204)
+
+> That, on the recommendation of the Director, Development Services with respect to the application by 2748714 Ontario Inc., relating to the property located at 3195 White Oak Road, the proposed by-law appended to the staff report dated February 8, 2021 BE INTRODUCED at the Municipal Council meetin...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.2. Draft Plan of Vacant Land Condominium - 3087 White Oak Road 39CD-20511
+
+> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by Whiterock Village Inc., relating to the property located at 3087 White Oak Road: a)  the Approval Authority BE ADVISED that no issues were raised at the public meet...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.3. Application - 185 Horton Street East
+
+> That, on the recommendation of the Director, Development Services, with respect to the application by 1524400 Ontario Inc., relating to the property located at 185 Horton Street East, the proposed revised, attached, by-law BE INTRODUCED at the Municipal Council meeting to be held on February 23, ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+

@@ -516,3 +516,73 @@ That it BE NOTED that the 3rd Report of the Waste Management Working Group, from
 
 The meeting adjourned at 6:05PM.
 
+---
+
+## Votes
+
+*8 substantive votes at this meeting (0 contested, 8 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> Approve items 2.1 to 2.9
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 3.1. 60% Waste Diversion Action Plan
+
+> That, on the recommendation of the Managing Director, Environmental & Engineering Services and City Engineer, the following actions be taken: a)    the action plan included in the staff report dated July 17, 2018, containing programs and initiatives to be phased in between 2019 and 2022 to achiev...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 4.1. King Street Bike Lanes - Public Submissions
+
+> That, the following actions be taken with respect to the cycle tracks located on King Street between Ridout Street and Colborne Street and the new north-south cycle track: a) the Managing Director, Environmental and Engineering Services and City Engineer BE DIRECTED to report back to the Civic Wo...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 4.2. Request for Delegation - D. Davis, Filthy Rebena Vintage
+
+> That D. Davis BE GRANTED delegation status, with respect to the Dundas Street Construction.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 4.4. Presentation – Canadian Urban Transit Research and Innovation Consortium (CUTRIC)
+
+> That the City Clerk BE DIRECTED to make the necessary arrangements to invite Dr. Josipa Petrunic, Executive director and Chief Executive Officer of the Canadian Urban Transit Research and Innovation Consortium as a delegate before the September 17, 2018 meeting of the Strategic Priorities and Pol...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 4.5. Traffic Light - South Carriage Road and Hyde Park Road
+
+> That staff BE DIRECTED to install traffic lights at South Carriage road and Hyde Park Road as soon as possible and identify a source of funding for the installation; it being noted that verbal presentations from D. Foster and D. Szapakowski were received, with respect to this matter.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 4.5. Traffic Light - South Carriage Road and Hyde Park Road
+
+> That D. Foster and D. Szpakowski BE Granted delegation status with respect to the Traffic Light-South Carriage Road and Hyde Park Road.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 4.6. Residential Damage - Storm Water Discharge
+
+> That the following actions be taken with respect to storm sewer connections in residential areas: a)   the Civic Administration BE DIRECTED to report back to the Civic Works Committee providing an update with respect to the voluntary pilot project currently underway on Guildwood Boulevard to exte...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+

@@ -382,3 +382,48 @@ The meeting adjourned at 12:48 PM.
 
 ****
 
+---
+
+## Votes
+
+*4 substantive votes at this meeting (1 contested, 3 unanimous). Procedural motions excluded.*
+
+### 4.1. Application - Issuance of Proclamation - Economic Abuse Awareness Day
+
+> That based on the application dated August 23, 2021 from Canadian Centre for Women's Empowerment, November 26, 2021 BE PROCLAIMED as Economic Abuse Awareness Day.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 4.2. Application - Issuance of Proclamation - Light the Night Day for the Leukemia & Lymphoma Society of Canada
+
+> That based on the application dated August 27, 2021 from the Leukemia & Lymphoma Society of Canada, October 23, 2021 BE PROCLAIMED as Light the Night Day for the Leukemia & Lymphoma Society of Canada.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 5.1. (ADDED) Members of Council Proof of COVID-19 Vaccination Policy
+
+> That on the recommendation of the City Clerk, the proposed by-law as appended to the staff report dated September 20, 2021 as Appendix “A” being “A by-law to adopt “Members of Council Proof of COVID-19 Vaccination Policy”, BE INTRODUCED at the Municipal Council Meeting to be held on October 5, 20...
+
+**✅ Motion Passed (3 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Maureen Cassidy](/councillors/current/m-cassidy)
+
+**Nay (1):** [Michael van Holst](/councillors/current/m-van-holst)
+
+</details>
+
+### 6. Confidential (Enclosed for Members only.)
+
+> 6.1    Land Disposition / Solicitor-Client Privileged Advice / Position, Plan, Procedure, Criteria or Instruction to be Applied to Any Negotiations A matter pertaining to the disposition of land by the municipality, including communications necessary for that purpose; advice that is subject to so...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+

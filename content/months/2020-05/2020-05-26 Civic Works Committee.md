@@ -222,3 +222,17 @@ That Deferred Matters List, as at May 15, 2020, item #5 – 745-747 Waterloo Str
 
 The meeting adjourned at 12:35 PM.
 
+---
+
+## Votes
+
+*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That items 2.1 to 2.5 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

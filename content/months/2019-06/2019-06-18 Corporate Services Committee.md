@@ -376,3 +376,56 @@ The Corporate Services Committee convened In Closed Session from 1:00 PM to 2:11
 
 The meeting adjourned at 2:12 PM.
 
+---
+
+## Votes
+
+*5 substantive votes at this meeting (1 contested, 4 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That items 2.2 to 2.7, excluding 2.6, BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.6. 4G+ / 5G Small Cell Pilot Project
+
+> That, on the recommendation of the Director of Information Technology Services, the Managing Director, Environmental and Engineering Services and City Engineer, the Managing Director, Planning and City Planner, the Manager of Information Technology Services and the Director of Community and Econo...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.8. Expropriation of Land – Wharncliffe Road Widening and Improvements Project
+
+> That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, with the concurrence of the Director, Roads and Transportation and on the advice of the Manager of Realty Services, the following actions be taken with respect to the Wharncliffe Road W...
+
+**✅ Motion Passed (5 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder)
+
+**Nay (1):** [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+</details>
+
+### 2.8. Expropriation of Land – Wharncliffe Road Widening and Improvements Project
+
+> That a delegation from N. Finlayson BE APPROVED to be heard at this time.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.1. Public Participation Meeting - Not to be heard before 12:30 PM - Council Procedure By-law
+
+> That, on the recommendation of the City Clerk, the proposed by-law appended to the staff report dated June 18, 2019 as Appendix “A” being “A by-law to amend By-law A-50, as amended, being “A by-law to provide for the Rules of Order and Procedure for the Council of The Corporation of the City of L...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

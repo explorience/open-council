@@ -359,3 +359,40 @@ That the Civic Works Committee Deferred Matters List, as at November 9, 2020, BE
 
 The meeting adjourned at 1:34 PM.
 
+---
+
+## Votes
+
+*3 substantive votes at this meeting (1 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.8 and 2.10 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.9. Active Transportation Infrastructure Plan
+
+> That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer and the Managing Director, Parks and Recreation, the following actions be taken with respect to the staff report dated November 17, 2020, related to the Active Transportation Infrastruct...
+
+**✅ Motion Passed (3 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+
+</details>
+
+### 4.1. Blue Community Project/Movement - L. Brown, Blue Community Committee - Request for Delegation Status
+
+> That the request for delegation status from L. Brown, Blue Community Committee, with respect to the Blue Community Project/Movement BE APPROVED for a future meeting of the Civic Works Committee; it being noted that the Civic Administration will bring forward a staff report to coincide with the ab...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+

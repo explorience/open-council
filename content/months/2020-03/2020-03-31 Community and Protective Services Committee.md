@@ -217,3 +217,57 @@ Motion to approve parts b), c) and d), above.
 
 The meeting adjourned at 1:10 PM.
 
+---
+
+## Votes
+
+*6 substantive votes at this meeting (0 contested, 6 unanimous). Procedural motions excluded.*
+
+### 2.1. Contract Award Recommendation for Housing Stability Services - Request for Proposal 20-07
+
+> That, on the recommendation of the Managing Director, Housing, Social Services and Dearness Home, with the concurrence of the Director, Financial Services, the following actions be taken with respect to the award of the contract for Request for Proposal (RFP) 20-07 Housing Stability Services for ...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.2. Single Source 20-04 - Agreement for London and Middlesex Local Immigration Partnership with WIL Counselling and Training for Employment
+
+> That, on the recommendation of the Managing Director, Housing, Social Services and Dearness Home, the proposed by-law, as appended to the staff report dated March 31, 2020, BE INTRODUCED at the Municipal Council meeting to be held on April 7, 2020, to: a)     authorize and approve the Purchase of...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.3. Canada-Ontario Housing Benefit (COHB) - Approval of Ontario Transfer Payment Agreement
+
+> That, on the recommendation of the Managing Director, Housing, Social Services and Dearness Home the proposed by-law, as appended to the staff report dated March 31, 2020, BE INTRODUCED at the Municipal Council meeting to be held on April 7, 2020, to: a)     approve a Transfer Payment Agreement, ...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.4. Homeless Prevention Standard Form Occupancy Agreement for Head Lease Units
+
+> That, on the recommendation of the Managing Director of Housing, Social Services and Dearness Home, the proposed by-law, as appended to the staff report dated March 31, 2020, BE INTRODUCED at the Municipal Council meeting to be held on April 7, 2020, to: a)     authorize and approve a standard fo...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 5.1. (ADDED) Councillor M. Salih - New Licensing and Licensing Renewal Requirements
+
+> Motion to approve part a), above.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 5.1. (ADDED) Councillor M. Salih - New Licensing and Licensing Renewal Requirements
+
+> Motion to approve parts b), c) and d), above.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

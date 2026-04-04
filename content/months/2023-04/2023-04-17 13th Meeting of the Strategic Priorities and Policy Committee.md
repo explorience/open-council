@@ -151,3 +151,25 @@ The meeting adjourned at 4:18 PM.
 
 ****
 
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 4.1. Council's 2023-2027 Strategic Plan
+
+> That Wellbeing and Safety section 1.3, Londoners have safe access to public spaces, services, and supports that increase wellbeing and quality of life, part f) BE AMENDED from "f) Improve communication and collaboration with community resource centres and neighbourhood organizations." to "f) Impr...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 4.1. Council's 2023-2027 Strategic Plan
+
+> That Mobility and Transportation outcome 1, expected result 1.4 (Improved ridership and rider satisfaction) BE AMENDED from, "c)   Support initiatives identified through Voice of the Customer surveys to improve rider satisfaction.” to "c)  Support transit rider survey initiatives to improve rider...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+

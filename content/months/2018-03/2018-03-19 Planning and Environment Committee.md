@@ -1040,3 +1040,133 @@ k)            clauses 1.1, 3.1 and 5.2 BE RECEIVED.
 
 The meeting adjourned at 9:34 PM.
 
+---
+
+## Votes
+
+*14 substantive votes at this meeting (2 contested, 12 unanimous). Procedural motions excluded.*
+
+### 3.1. Public Participation Meeting - Not to be heard before 4:00 PM - Planning Application - 50 Charterhouse Crescent  (Z-8834)
+
+> That, on the recommendation of the Managing Director, Planning and City Planner, based on the application by Active Wellness Products Inc., relating to the property located at 50 Charterhouse Crescent, the proposed by-law appended to the staff report dated March 19, 2018 BE INTRODUCED at the Muni...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.2. Public Participation Meeting - Not to be heard before 4:00 PM - Planning Application - 825 Commissioners Road East (Z-8860)
+
+> That, on the recommendation of the Managing Director, Planning and City Planner, the following actions be taken with respect to the application by London Health Science Centre, relating to the property located at 825 Commissioners Road East: a)            the attached, revised, proposed by-law BE...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.3. Public Participation Meeting - Not to be heard before 4:30 PM - Planning Application -  1176, 1200 and 1230 Hyde Park Road (O-8822)
+
+> That, on the recommendation of the Managing Director, Planning and City Planner, the following actions be taken with respect to the application of Dave Tennant Urban Concepts relating to the properties located at 1176, 1200 and 1230 Hyde Park Road: a)            the revised, , proposed by-law BE ...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.4. Public Participation Meeting - Not to be heard before 5:00 PM - Wonderland Road Community Enterprise Corridor
+
+> That, on the recommendation of the Managing Director, Planning and City Planner, based on the application by The Corporation of the City of London, relating to the Wonderland Road Community Enterprise Corridor land use designation within the Southwest Area Secondary Plan, the proposed by-law appe...
+
+**✅ Motion Passed (4 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+</details>
+
+### 3.5. Public Participation Meeting - Not to be heard before 5:30 PM - Planning Application - Hamilton Road Area Community Improvement Plan (O-8866)
+
+> That, on the recommendation of the Managing Director, Planning and City Planner, the following actions be taken with respect to the application by The Corporation of the City of London, relating to a Community Improvement Plan for the Hamilton Road Area: Adoption of the Community Improvement Plan...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.5. Public Participation Meeting - Not to be heard before 5:30 PM - Planning Application - Hamilton Road Area Community Improvement Plan (O-8866)
+
+> f) that forgivable loans similar to those provided in downtown and Old East Village BE APPROVED IN PRINCIPLE for the Hamilton Road Community Improvement Area, it being noted that the balance of the Community Investment Reserve Fund is sufficient to cover the estimated budget of $118,000 for 2018 ...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+**Nay (1):** [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 3.6. Public Participation Meeting - Not to be heard before 6:00 PM - Planning Application - 504 English Street - Demolition Request and Heritage Alteration Permit Application
+
+> That, on the recommendation of the Managing Director, Planning and City Planner, with the advice of the Heritage Planner, the application made under Section 42 of the Ontario Heritage Act to demolish the existing building and to erect a new building on the property located at 504 English Street, ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.7. Public Participation Meeting - Not to be heard before 6:00 PM - Planning Application - 491 English Street - Demolition Request and Heritage Alteration Permit Application
+
+> That, on the recommendation of the Managing Director, Planning and City Planner, with the advice of the Heritage Planner, the application made under Section 42 of the Ontario Heritage Act to demolish the existing building and to erect a new building on the property located at 491 English Street, ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.1. 3rd Report of the Environmental and Ecological Planning Advisory Committee
+
+> That the following actions be taken with respect to the 3rd Report of the Environmental and Ecological Planning Advisory Committee from its meeting held on February 15, 2018: a)            a Working Group consisting of S. Levin, B. Krichker, S. Sivakumar and C. Therrien BE ESTABLISHED to review t...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.2. Planning Application - 499 Sophia Crescent (H-8791)
+
+> That, on the recommendation of the Senior Planner, Development Planning, based on the application of West Coronation Developments Limited, relating to the property located at 499 Sophia Crescent the following actions be taken: a)            the proposed by-law appended to the staff report dated M...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.2. Planning Application - 499 Sophia Crescent (H-8791)
+
+> That M. Palumbo BE GRANTED delegation status.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.3. Old East Village Business Improvement Area (BIA) Request for Boundary Expansion
+
+> That, on the recommendation of the Managing Director, Planning and City Planner, the Civic Administration BE DIRECTED to take the necessary steps in 2018 to expand the boundary of the Old East Village Business Improvement Area in response to the communication dated December 19, 2016 from Jennifer...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 5.1. PEC Deferred List
+
+> That the Managing Director, Planning and City Planner and the Managing Director, Development and Compliance Services & Chief Building Official BE DIRECTED to update the Deferred Matters List to remove any items that have been addressed by the Civic Administration.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 5.2. (ADDED) Not to be heard before 6:00 PM - D. Dudek, Chair of the London Advisory Committee on Heritage - 4th Report of the London Advisory Committee on Heritage
+
+> That the following actions be taken with respect to the 4th Report of the London Advisory Committee on Heritage from its meeting held on March 14, 2018: a)            on the recommendation of the Managing Director, Planning and City Planner, with the advice of the Heritage Planner, the applicatio...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+

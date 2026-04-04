@@ -255,3 +255,33 @@ The meeting adjourned at 12:19 PM.
 
 ****
 
+---
+
+## Votes
+
+*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.2, 2.3, 2.4, 2.5, and 2.6 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. Active Transportation Fund
+
+> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the Civic Administration BE DIRECTED to submit the projects identified in the staff report dated March 1, 2022, to the Government of Canada’s Active Transportation Fund; it being noted that the communications ...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 5. Deferred Matters/Additional Business
+
+> That Items 5.1 and 5.2 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

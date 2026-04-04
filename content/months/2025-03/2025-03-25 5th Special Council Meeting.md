@@ -292,3 +292,18 @@ We'll do that by hand. All those in favor of adjournment? No motion carries. The
 Deputy Mayor, this afternoon. I will not rise to that challenge.
 
 </details>
+
+---
+
+## Votes
+
+*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
+
+### 9.1. 6th Special Report of the Community and Protective Services Committee
+
+> That the 6th Report of the Community and Protective Services Committee BE APPROVED
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+

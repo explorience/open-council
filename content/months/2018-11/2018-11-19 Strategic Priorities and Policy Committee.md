@@ -258,3 +258,25 @@ The Strategic Priorities and Policy Committee convened in Closed Session from 5:
 
 The Meeting adjourned at 5:46 PM.
 
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 4.1. Appointments to the Striking Committee
+
+> That the following individuals BE APPOINTED to the Striking Committee for the 2018-2022 Council term: Dharshi Lacey (Pillar Nonprofit Network) Shawna Lewkowitz (Urban League of London) Patti Dalton (London and District Labour Council) Laurie Lashbrook (London Chamber of Commerce) Chad Callander (...
+
+**✅ Motion Passed (12 to 0)**
+
+Unanimous (10-0)
+
+### 4.2. Inaugural Council Meeting
+
+> That pursuant to section 2.6 of the Council Procedure By-law, authorization BE GIVEN for the December 3, 2018 Inaugural Municipal Council Meeting for the 2018-2022 term, to be held at the London Convention Centre to commence at 6:00 PM, in order to provide sufficient capacity to permit members of...
+
+**✅ Motion Passed (12 to 0)**
+
+Unanimous (10-0)
+

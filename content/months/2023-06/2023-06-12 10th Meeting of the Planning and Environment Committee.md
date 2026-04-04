@@ -530,3 +530,79 @@ That the Deferred Matters List for the Planning and Environment Committee, as at
 
 The meeting adjourned at 7:33 PM.
 
+---
+
+## Votes
+
+*7 substantive votes at this meeting (2 contested, 5 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 and 2.2 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 3.1. 221 Queens Avenue (TZ-9598)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Sifton Properties Limited, relating to the property located at 221 Queens Avenue: a) the request to amend Zoning By-law No. Z.-1 to change the zoning of the sub...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 3.2. Community Improvement Plans and Financial Incentive Programs (Final)
+
+> That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to the evaluation of Community Improvement Plan and Financial Incentives Programs:     a)    the recommendations identified through the 5-Year Community Improveme...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 3.2. Community Improvement Plans and Financial Incentive Programs (Final)
+
+> Motion to amend clause a) ii) to read as follows: "a) ii) the Community Improvement Plan for Industrial Land Uses BE AMENDED to remove ‘businesses that develop computer software or hardware for license or sale to end users that are on land zoned for industrial uses’ and to remove ‘enhanced transp...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 3.2. Community Improvement Plans and Financial Incentive Programs (Final)
+
+> Motion to amend clause b) i) to read as follows: "b) i) the Industrial Land Corridor Enhancement Grant Program BE DELETED from the Community Improvement Plan for Industrial Land Uses;"
+
+**✅ Motion Passed (5 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+
+### 3.2. Community Improvement Plans and Financial Incentive Programs (Final)
+
+> Motion to amend clause d) iii) to read as follows: "d) iii) that Civic Administration BE DIRECTED to investigate the feasibility of amending the Upgrade to Building Code Loan Program offered in the Downtown and Old East Village Community Improvement Project Plans to increase the amount of the for...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 3.2. Community Improvement Plans and Financial Incentive Programs (Final)
+
+> Motion to amend clause d) xi) to read as follows: "d) xi) that Civic Administration BE DIRECTED to amend the Downtown Residential Development Charges Grant Program to require that applicants accessing this CIP are required to include 10% affordable units (80% AMR or better) to access the Resident...
+
+**❌ Motion Failed (2 to 4) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke)
+
+**Nay (4):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+

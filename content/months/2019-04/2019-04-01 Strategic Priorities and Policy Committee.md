@@ -153,3 +153,33 @@ None.
 
 The meeting adjourned at 8:37 PM.
 
+---
+
+## Votes
+
+*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
+
+### 3.1. Council's Strategic Plan 2019-2023: Draft Outcomes, Expected Results, Strategies, Metrics, Targets and Preliminary Cost Estimates
+
+> Motion to approve Parts (a), (b), (c), and (f).
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (11-0)
+
+### 3.1. Council's Strategic Plan 2019-2023: Draft Outcomes, Expected Results, Strategies, Metrics, Targets and Preliminary Cost Estimates
+
+> Motion to approve Part (d).
+
+**✅ Motion Passed (11 to 0)**
+
+Unanimous (9-0)
+
+### 3.1. Council's Strategic Plan 2019-2023: Draft Outcomes, Expected Results, Strategies, Metrics, Targets and Preliminary Cost Estimates
+
+> Motion to approve Part (e).
+
+**✅ Motion Passed (12 to 0)**
+
+Unanimous (10-0)
+

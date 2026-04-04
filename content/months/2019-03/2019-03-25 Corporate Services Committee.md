@@ -100,3 +100,25 @@ None.
 
 The meeting adjourned at 3:18 PM.
 
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2.1. 2019 Debenture Issuance Update
+
+> That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the following actions be taken:    a)        the issuance of serial debentures for a total of $49,380,000 BE APPROVED; it being noted the average all-in rate is 2.655% over a 10-y...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.2. Court Security and Prisoner Transportation Program Transfer Payment Agreement
+
+> That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the proposed by-law appended to the staff report dated March 25, 2019 as Appendix “A” BE INTRODUCED at the Municipal Council meeting on March 26, 2019 to approve the Ontario Trans...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+

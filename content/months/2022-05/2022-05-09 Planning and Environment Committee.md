@@ -1386,3 +1386,66 @@ Seconded by Councillor Lehman. Can we do a hand vote on this one? Hand vote, eve
 But thank you very much, committee. Good work.
 
 </details>
+
+---
+
+## Votes
+
+*7 substantive votes at this meeting (0 contested, 7 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.3 and 2.4 BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 3.1. 3101 Petty Road and 3047 White Oak Road (39CD-22501)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by 2831570 Ontario Inc., relating to the property located at 3101 Petty Road and 3047 White Oak Road: a)  the Approval Authority BE ADVISED that no issues were rai...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 3.2. 3557 Colonel Talbot Road (39CD-21519)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by 2749282 Ontario Inc., relating to the property located at 3557 Colonel Talbot Road: a)    the Approval Authority BE ADVISED that issues were raised at the publi...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 3.3. 1345 Cranbrook Road and 1005 Longworth Road (Z-9487)
+
+> That, on the recommendation of the Director, Planning and Development, based on the application by Craig Linton (Norquay Developments), relating to lands located at 1345 Cranbrook Road and 1005 Longworth Road, the proposed by-law appended to the staff report dated May 9, 2022 as Appendix “A” BE I...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 3.4. 346, 370 and 392 South Street and 351, 373 and 385 Hill Street - Revised Draft Plan of Vacant Land Condominium (39CD-21522)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Vision SoHo Alliance relating to the properties located at 346, 370 and 392 South Street and 351, 373 and 385 Hill Street: a)    the Approval Authority BE ADVIS...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 3.5. 1140 Fanshawe Park Road East (39T-07502 / OZ-9473)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Drewlo Holdings Inc, relating to the property located at 1140 Fanshawe Park Road East: a)  the request to amend the 1989 Official Plan to change the designation...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 3.6. Revised Victoria Park Secondary Plan (O-8978)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the Victoria Park Secondary Plan: a) the proposed by-law appended to the staff report dated May 9, 2022 as Appendix “A” BE INTRODUCED at the Municipal Council meeting to be held o...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+

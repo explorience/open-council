@@ -1934,3 +1934,149 @@ There are no deferred matters. I don't see any additional business, okay. We'll 
 All those in favor by hand for adjournment. Motion's passed. Okay, thank you, we're adjourned.
 
 </details>
+
+---
+
+## Votes
+
+*10 substantive votes at this meeting (7 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2.2. Core Area Land and Building Vacancy Reduction Strategy
+
+> Motion to approve part e) of the clause: e)  the above-noted Core Area Land and Building Vacancy Reduction Strategy BE REVISED to include the following: i)    for buildings with floor plates that are deemed feasible for conversion to residential use, immediate actions be undertaken to facilitate ...
+
+**❌ Motion Failed (4 to 8)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins)
+
+**Nay (6):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 2.4. 1st Report of the Governance Working Group
+
+> That the motion BE AMENDED, in part a) i), and part h) as follows: That the following actions be taken with respect to the 1st Report of the Governance Working Group from its meeting held on May 17, 2023: a)  the following actions be taken with respect to the 2024 Standing Committee and Council C...
+
+**✅ Motion Passed (11 to 0)**
+
+Unanimous (9-0)
+
+### 2.4. 1st Report of the Governance Working Group
+
+> The 1st Report of the Governance Working Group, as amended, BE APPROVED.
+
+**✅ Motion Passed (11 to 0)**
+
+Unanimous (9-0)
+
+### 4.1. 2022 Climate Emergency Action Plan Progress Report
+
+> Motion to approve part b) b)  the Civic Administration BE DIRECTED to include the following specific actions as part of the implementation of the Climate Emergency Action Plan (CEAP): i)    develop and deliver CEAP training to all current and future staff through the onboarding and continued lear...
+
+**✅ Motion Passed (11 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 4.2. Request for a Shareholder's Meeting - Housing Development Corporation London (HDC)
+
+> That the following actions be taken with respect to the 2022 Annual General Meeting of the Shareholder for the Housing Development Corporation, London (HDC): a)      the 2022 Annual General Meeting of the Shareholder for the Housing Development Corporation, London (HDC) BE HELD at a meeting of th...
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (11-0)
+
+### 4.3. Request for Business Cases for the Multi-Year Budget
+
+> That part b) i), related to the request for a business case for a purchasing natural heritage lands strategy (including compensation requirements for infrastructure projects) BE REFERRED to the Civic Administration in order to report back to the appropriate standing committee with additional scop...
+
+**✅ Motion Passed (11 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+**Absent (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 4.3. Request for Business Cases for the Multi-Year Budget
+
+> Motion to approve part a) i) That the Civic Administration BE DIRECTED to prepare business cases for the following for consideration during the Multi-Year Budget deliberations:    a) New Funding, Existing Strategies related to:    i)   Coves Silver Creek Restoration Project;
+
+**✅ Motion Passed (11 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Absent (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 4.3. Request for Business Cases for the Multi-Year Budget
+
+> Motion to approve a) ii) ii)  Invasive Species Management Plan;
+
+**❌ Motion Failed (3 to 9)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+**Nay (7):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 4.3. Request for Business Cases for the Multi-Year Budget
+
+> Motion to approve a) iii) iii) Climate Emergency Action Plan;
+
+**❌ Motion Failed (3 to 9)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+**Nay (7):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 4.3. Request for Business Cases for the Multi-Year Budget
+
+> Motion to approve part c) ii) c) Reduction Cases:    ii)  Reduction in frequency of grass cutting on city property;    it being noted that the Strategic Priorities and Policy Committee received a communication dated May 19, 2023 from A. Wasylko, Chair, Board of Directors and M. Miksa, Executive D...
+
+**❌ Motion Failed (6 to 6) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [Skylar Franke](/councillors/current/s-franke)
+
+**Nay (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+

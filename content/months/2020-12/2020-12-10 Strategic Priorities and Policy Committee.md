@@ -1020,3 +1020,244 @@ Following up on Municipal Council’s resolution on 16 June 2020, The London Pol
 
 The meeting adjourned at 3:18 PM.
 
+---
+
+## Votes
+
+*21 substantive votes at this meeting (9 contested, 12 unanimous). Procedural motions excluded.*
+
+### 4.1. Review of Budget Amendments (2021 to 2023 totals: rounded to the closest $1,000)
+
+> That the following actions be taken with respect to the 2021 Annual Budget Update: a) Case #1 - RBC Place London - Promissory Note Forgiveness - Operating Expenditure ($72,000); Net Levy $0, BE APPROVED; b) Case #2 - RBC Place - Revised Capital Plan - Capital Expenditure $166,000; Net Levy $0, BE...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.1. Review of Budget Amendments (2021 to 2023 totals: rounded to the closest $1,000)
+
+> c) Case #3 - Recycling and Composting - Repair of Material Recovery Facility Fire Suppressant System - Capital Expenditure $800,000; Net Levy $0, BE APPROVED;
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.1. Review of Budget Amendments (2021 to 2023 totals: rounded to the closest $1,000)
+
+> Motion to approve part a) of the amendment, as follows: That the following actions be taken with respect to Business Case #9: a)       the attached document entitled “London Community Ideas for Film Industry Development” BE REFFERED to the Civic Administration for consideration; and,
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.1. Review of Budget Amendments (2021 to 2023 totals: rounded to the closest $1,000)
+
+> j) Case #10 - Revised Implementation - 60% Waste Diversion Action Plan - Operating Expenditure ($3,750,000); Net Levy ($3,750,000), BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.1. Review of Budget Amendments (2021 to 2023 totals: rounded to the closest $1,000)
+
+> d) Case #4 - Children's Services - Reduction in Required Investment in 2021 due to impacts of COVID-19 - Operating Expenditure ($1,630,000); Net Levy ($1,630,000), BE APPROVED;
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (11-0)
+
+### 4.1. Review of Budget Amendments (2021 to 2023 totals: rounded to the closest $1,000)
+
+> e) Case #5 - Middlesex-London Health Unit - Increased Funding by the Ministry of Health in 2021 - Operating Expenditure ($610,000); Net Levy ($610,000), BE APPROVED;
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 4.1. Review of Budget Amendments (2021 to 2023 totals: rounded to the closest $1,000)
+
+> Motion to approve part b) of the amendment as follows: b)       Business Case #9 (ADDED) – Parks and Recreation – Implementation of Strategic Objectives Related to Growing a Film Sector in London” BE AMENDED to increase the annual funding allocation to $300,000
+
+**✅ Motion Passed (11 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+**Nay (2):** [Jesse Helmer](/councillors/current/j-helmer), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+</details>
+
+### 4.1. Review of Budget Amendments (2021 to 2023 totals: rounded to the closest $1,000)
+
+> 
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (19):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (5):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.1. Review of Budget Amendments (2021 to 2023 totals: rounded to the closest $1,000)
+
+> Approve Business Case #9, as further amended.
+
+**✅ Motion Passed (13 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+</details>
+
+### 4.1. Review of Budget Amendments (2021 to 2023 totals: rounded to the closest $1,000)
+
+> Approve the revision to BC #4B, as amended.
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (1):** [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 4.1. Review of Budget Amendments (2021 to 2023 totals: rounded to the closest $1,000)
+
+> That Business Case 7B: Core Area Action Plan, BE AMENDED by reducing the annual allocation for 2021, 2022 and 2023, in the amount of $825 K, to eliminate the 4 year Core Area Ambassador Pilot Program.
+
+**❌ Motion Failed (2 to 11)**
+
+<details>
+<summary>View roll call</summary>
+
+**Nay (9):** [Shawn Lewis](/councillors/current/s-lewis), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+</details>
+
+### 4.2. Reserves and Reserve Funds Overview
+
+> That the recommendations for items 4.2, 4.3 and 4.4 BE APPROVED.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (11-0)
+
+### 4.5. Operating Budget
+
+> Motion to approve part a) That in accordance with section 291(4)(c) of the Municipal Act, 2001, as amended, the following actions be taken with respect to the operating budget (Appendix A): a)      Middlesex-London Health Unit i)      the revised 2021 budget for Middlesex-London Health Unit BE AP...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 4.5. Operating Budget
+
+> Motion to approve part b) b)      Golf       i)       the revised 2021 budget for Golf BE APPROVED in the gross amount of $3,695,630 and net amount of $40,255;        ii)      the revised 2022 to 2023 budget for Golf BE APPROVED in the gross amount of $7,528,799 and net amount of $132,626.
+
+**✅ Motion Passed (12 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire)
+
+**Nay (1):** [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Absent (2):** [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 4.5. Operating Budget
+
+> Motion to approve part c) c)      Children’s Services       i)      the revised 2021 budget for Children’s Services BE APPROVED in the gross amount of $60,972,901 and net amount of $9,902,857;       ii)      the revised 2022 to 2023 budget for Children’s Services BE APPROVED in the gross amount o...
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (11-0)
+
+### 4.5. Operating Budget
+
+> Motion to approve part d) d)      All Other Areas       i)      the revised 2021 budget, excluding Middlesex-London Health Unit, Golf, and Children’s Services BE APPROVED in the net amount of $657,542,662 after recognizing $8,852,749 of increased taxation from assessment growth; and 2021 gross ex...
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (1):** [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 4.5. Operating Budget
+
+> Motion to approve part e) e)      Total Budget       i)      it being noted that the revised total 2021 tax levy is the net amount of $673,580,833 after recognizing $8,852,749 of increased taxation from assessment growth; and total 2021 gross expenditures equal to $1,039,162,202; and,        ii) ...
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (1):** [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 4.6. Capital Budget
+
+> That, in accordance with section 291(4)(c) of the Municipal Act 2001, as amended, the following actions be taken with respect to the capital budget (Appendix B), it being noted the 2021, 2022 and 2023 budget figures reflect the exclusion of the Master Accommodation Plan as approved via the “Maste...
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (1):** [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 4.7. By-laws regarding Tax Levy, Operating and Capital Budgets
+
+> That the Civic Administration BE DIRECTED to bring forward any necessary by-laws regarding tax levy, the operating and capital budgets for introduction at Municipal Council.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 4.8. Water and Wastewater and Treatment Services
+
+> That in accordance with section 291(4)(c) of the Municipal Act, 2001, as amended, the following actions be taken with respect to the 2021 to 2023 operating budgets and 2021 to 2023 capital budgets and associated forecasts for Water and Wastewater and Treatment Services:    a)     the 2021 to 2023...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 5.2. Update Re: London Police Service
+
+> Following up on Municipal Council’s resolution on 16 June 2020, The London Police Services Board BE REQUESTED to update Municipal Council on how it has responded and is responding to the issues raised during the Black Lives Matter protest; it being noted that London Police Services Board reduced ...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+

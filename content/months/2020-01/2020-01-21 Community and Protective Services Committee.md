@@ -361,3 +361,82 @@ That the Advisory Committees that report to the Community and Protective Service
 
 The meeting adjourned at 5:44 PM.
 
+---
+
+## Votes
+
+*6 substantive votes at this meeting (3 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.2, 2.4, 2.5 and 2.7, BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 2.1. 8th, 1st and 2nd Reports of the Diversity, Inclusion and Anti-Oppression Advisory Committee
+
+> That the following actions be taken with respect to the 8th, 1st and 2nd Reports of the Diversity, Inclusion and Anti-Oppression Advisory Committee (DIAAC), from the meetings held on November 21, 2019, December 19, 2019 and January 16, 2020, respectively: a)            that the following actions ...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Mo Salih](/councillors/current/m-salih)
+
+**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+
+</details>
+
+### 3.1. Policies and Funding - Arts and Culture
+
+> That the information provided in the delegation from K. O’Neill, with respect to policies and funding related to arts and culture in the City of London, BE REFERRED to the Civic Administration for review and a report back at a future meeting of the Community and Protective Services Committee; it ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.2. Local Health Care Services
+
+> That the following actions be taken with respect to a delegation from P. Bergmanis, Ontario Health Coalition: a)            the Mayor BE REQUESTED to call upon the Provincial Government to do the following with respect to health care funding: i)             halt any mergers or reductions of fundi...
+
+**✅ Motion Passed (3 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+
+</details>
+
+### 4.1. Councillor S. Lewis - Parade Permits
+
+> That the Civic Administration BE DIRECTED to bring forward a policy to restrict the issuance of parade permits on public streets, from November 1 to November 11, to those activities which are directly related to the honouring of Canada’s veterans and organized in partnership with veterans organiz...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Mo Salih](/councillors/current/m-salih)
+
+**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+
+</details>
+
+### 5.2. (ADDED) Advisory Committee Work Plans
+
+> That the Advisory Committees that report to the Community and Protective Services Committee (CPSC) BE DIRECTED to submit a 2020 Work Plan for review and approval at the meeting of the CPSC directly following the next meeting of each Advisory Committee.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+

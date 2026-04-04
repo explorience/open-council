@@ -1016,3 +1016,140 @@ c)  clauses 1.1, 3.1, 3.3, 4.1, 5.2 and 65.1 BE RECEIVED for information.
 
 The meeting adjourned at 9:15 PM.
 
+---
+
+## Votes
+
+*13 substantive votes at this meeting (5 contested, 8 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.7, inclusive, BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.1. 911 and 945 Kleinburg Drive (Formerly 660 Sunningdale Road East) (Z-9321)
+
+> That, on the recommendation of the Director, Planning and Development, based on the application by Applewood Market Place Inc., relating to portions of the lands located at 911 and 945 Kleinburg Drive (formerly 660 Sunningdale Road East), the proposed by-law appended to the Added Agenda as Append...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.2. Housekeeping Amendment to Southwest Area Secondary Plan
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to housekeeping amendment to the Southwest Area Secondary Plan, the proposed by-law appended to the staff report dated June 20, 2022 as Appendix "A" BE INTRODUCED at the Municipal Co...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.3. Delegated Authority (Bill 13) and Alternative Notice Measures for Minor Amendments (O-9492)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to Bill 13, Supporting People and Businesses Act, 2021: a)    the proposed by-law appended to the staff report dated June 20, 2022 as Appendix “A” BE INTRODUCED at the Municipal Coun...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.4. 991 Sunningdale Road West (Z-9472)
+
+> That, on the recommendation of the Director, Planning and Development, based on the application by Nasser and Suzan Aljarousha, relating to the property located at 991 Sunningdale Road West, the proposed by-law appended to the staff report dated June 20, 2022 as Appendix “A” BE INTRODUCED at the ...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.5. 84-86 St. George Street and 175-197 Ann Street (OZ-9127)
+
+> That, the following actions be taken with respect to the application by St. George and Ann Block Limited, relating to the property located at 84-86 St. George Street and 175-197 Ann Street: a)    the proposed, attached, by-law (Appendix A) BE INTRODUCED at the Municipal Council meeting to be held...
+
+**✅ Motion Passed (4 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 3.5. 84-86 St. George Street and 175-197 Ann Street (OZ-9127)
+
+> Motion to amend the motion to replace the by-law reference in part b) to introduce the draft by-law appended as Appendix B to the staff report, the alternative by-law from Planning and Development
+
+**❌ Motion Failed (2 to 4) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Nay (2):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 3.6. 689 Oxford Street West (Z-9199 & O-9206)
+
+> That, the application by 2399731 Ontario Ltd, c/o Westdell Development Corporation BE REFERRED back to the Civic Administration to work with the developer to improve the proposed transition from high density towers to the existing low density abutting residential neighbourhoods with specific atte...
+
+**✅ Motion Passed (4 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 3.6. 689 Oxford Street West (Z-9199 & O-9206)
+
+> That Mr. L. Kirkness's delegation BE EXTENDED beyond five minutes.
+
+**✅ Motion Passed (5 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Anna Hopkins](/councillors/current/a-hopkins), [Stephen Turner](/councillors/current/s-turner)
+
+**Nay (1):** [Steve Lehman](/councillors/current/s-lehman)
+
+</details>
+
+### 3.6. 689 Oxford Street West (Z-9199 & O-9206)
+
+> Shall the ruling of the Chair BE SUSTAINED.
+
+**❌ Motion Failed (2 to 4) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Nay (2):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 3.7. 599-601 Richmond Street (Z-9367)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Westell Development Corp., relating to the property located at 599-601 Richmond Street: a)    the proposed by-law appended to the staff report dated June 20, 20...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.8. 801 Sarnia Road (O-9475 & Z-9476)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by 2425293 Ontario Inc., relating to the property located at 801 Sarnia Road: a)    the proposed, attached, revised by-law (Appendix "A") BE INTRODUCED at the Muni...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 5.1. (ADDED) 2nd Report of the Community Advisory Committee on Planning
+
+> That, the following actions be taken with respect to the 2nd Report of the Community Advisory Committee on Planning, from its meeting held on June 15, 2021: a)  the Planning and Environment Committee BE ADVISED of the following with respect to the Public Meeting and Revised Application Notice, da...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+

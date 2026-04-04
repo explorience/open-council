@@ -493,3 +493,90 @@ At 7:45 PM, Councillor M. Salih leaves the meeting.
 
 The meeting adjourns at 7:54 PM.
 
+---
+
+## Votes
+
+*7 substantive votes at this meeting (3 contested, 4 unanimous). Procedural motions excluded.*
+
+### 2.3. COVID-19 Financial Impacts - Update
+
+> The Civic Administration BE DIRECTED to remove Item 10 “Golf” from Table 3 (as included in the staff report dated June 23, 2020) – Additional Proposed Service Adjustments – related to the closure of River Road Golf for the 2020 season, and the Civic Administration BE DIRECTED to open the River Ro...
+
+**❌ Motion Failed (4 to 10)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (8):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/current/e-holder), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Absent (1):** [Jesse Helmer](/councillors/current/j-helmer)
+
+</details>
+
+### 2.3. COVID-19 Financial Impacts - Update
+
+> Item 10 - Golf operating service adjustments identified in the above-noted Table 3 BE APPROVED, noting the anticipated service impacts associated with these actions;
+
+**✅ Motion Passed (10 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/current/e-holder), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Jesse Helmer](/councillors/current/j-helmer)
+
+</details>
+
+### 2.3. COVID-19 Financial Impacts - Update
+
+> The Civic Administration BE AUTHORIZED to further extend the deferral period, on Community Improvement Plan loan repayments, on an interest-free basis for a further period of 90 days, being June, July and August 2020, where the applicant has requested a further deferral in writing; it being noted...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 2.3. COVID-19 Financial Impacts - Update
+
+> The Civic Administration BE AUTHORIZED to further extend the deferral period for the loan payments on the interest-free loan to the London Community Players until January 2021; it being noted that the January loan repayments will be cashed as planned.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 2.4. 2020 Assessment Growth Funding Allocation
+
+> Motion to approve part b)i): b)      notwithstanding Council’s Assessment Growth Policy, for 2020, the following actions be taken:       i) recognizing that the London Police Services Board has voted to defer three police positions provided for in its original 2020 Assessment Growth Business Case...
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 2.4. 2020 Assessment Growth Funding Allocation
+
+> Motion to approve part b)ii) ii) subject to the approval of part b)i) above, the proposed 2020 funding for the three positions BE REALLOCATED to support the 2020 Assessment Growth Business Case #13 Homeless Prevention - Homeless Prevention Allowances.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 5.1. (ADDED) Community Recovery Plan
+
+> That the Civic Administration BE DIRECTED to develop and report back as soon as possible with a proposed model to bring together community partners in the development of a community recovery plan in response to the COVID-19 crisis, included therein the ability for such a model to capture short te...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+

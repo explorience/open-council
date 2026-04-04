@@ -194,3 +194,25 @@ None.
 
 The meeting adjourned at 1:00 PM.
 
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That items 2.3 to 2.5, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.2. Council Policy Manual
+
+> That, on the recommendation of the City Clerk, the following actions be taken with respect to the “Policy for the Establishment and Maintenance of Council Polices”: a)         the proposed by-laws appended to the staff report dated May 28, 2019 as Appendices B1 and B2 BE INTRODUCED at the Municip...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+

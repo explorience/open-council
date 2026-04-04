@@ -647,3 +647,84 @@ That the Civic Works Committee Deferred Matters List, as at February 22, 2021, B
 
 The meeting adjourned at 3:04 PM.
 
+---
+
+## Votes
+
+*7 substantive votes at this meeting (3 contested, 4 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.2, 2.4 to 2.7, 2.9, 2.12 and 2.13 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.3. Wharncliffe Road South Improvements: 100 Stanley Street Update
+
+> Motion to approve that the Civic Administration take the necessary actions to submit an amendment to the Environmental Assessment for item 2.3 Wharncliffe Road South improvements: 100 Stanley Street Update, to permit the demolition of the residence at 100 Stanley Street and any other necessary ad...
+
+**❌ Motion Failed (2 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Nay (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Absent (1):** [Maureen Cassidy](/councillors/current/m-cassidy)
+
+</details>
+
+### 2.8. Dundas Place - Temporary Bicycle Lanes and Revised Parking Limits
+
+> Motion to approve parts a) and c) of the clause.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.8. Dundas Place - Temporary Bicycle Lanes and Revised Parking Limits
+
+> Motion to approve part b) of the clause.
+
+**✅ Motion Passed (5 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/current/e-holder)
+
+**Nay (1):** [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 2.8. Dundas Place - Temporary Bicycle Lanes and Revised Parking Limits
+
+> Motion to approve part d) of the clause.
+
+**✅ Motion Passed (4 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Elizabeth Peloza](/councillors/current/e-peloza), [Jesse Helmer](/councillors/current/j-helmer)
+
+</details>
+
+### 2.10. Community Employment Benefits
+
+> Motion to approve the delegation requests from S. Middleton and M. Courey, to be heard at this time.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.2. New Sidewalks in 2021 Infrastructure Reconstruction Projects
+
+> That the following actions be taken with respect to the New Sidewalks in 2021 Infrastructure Reconstruction Projects: a)     the requests for delegation by the following individuals, with respect to this matter, BE APPROVED for the Special Civic Works Committee meeting to be held on March 15, 202...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

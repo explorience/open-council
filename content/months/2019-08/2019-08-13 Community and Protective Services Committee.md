@@ -595,3 +595,57 @@ That the Deferred Matters List for the Community and Protective Services Committ
 
 The meeting adjourned at 5:54 PM.
 
+---
+
+## Votes
+
+*6 substantive votes at this meeting (0 contested, 6 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.2, 2.3, 2.4, 2.7, 2.8, 2.9, 2.10, 2.11, 2.12, 2.13 and 2.14 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.5. Information Report - Parks Winter Garbage Collection
+
+> That the following actions be taken with respect to Parks Winter Garbage Collection: a)            the Civic Administration BE REQUESTED to report back to the Community and Protective Services Committee, at a future meeting, with respect to a list of parks within the City of London that currently...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.6. Vimy Ridge Park - Permanent Park Site - Deferred Matter 1
+
+> That, on the recommendation of the Managing Director, Parks and Recreation, the following actions be taken with respect to the selection of the permanent location for Vimy Ridge Park: a)            based on stakeholder consultations, the temporary Vimy Ridge Park site at the south-east corner of ...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.2. Adult Live Entertainment Parlour Location - 2190 Dundas Street
+
+> That, on the recommendation of the Managing Director, Development and Compliance Services and Chief Building Official, the proposed by-law, as appended to the staff report dated August 13, 2019, BE INTRODUCED at the Municipal Council meeting to be held on August 27, 2019, to amend By-law No. L.-1...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.3. Public Nuisance By-law Amendments - Nuisance Party Cost Recovery and Fees
+
+> That, on the recommendation of the Managing Director, Development and Compliance Services and Chief Building Official, the proposed by-law, as appended to the staff report dated August 13, 2019, BE INTRODUCED at the Municipal Council meeting to be held on August 27, 2019, to amend By-law PH-18 en...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. London’s Film and Multi-Media Industry Update
+
+> Motion to approve the request for delegation, dated July 15, 2019, by K. Peckham, Forest City Film Festival, as appended to the agenda, with respect to London’s Film and Multi-Media Industry.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

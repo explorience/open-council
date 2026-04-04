@@ -624,3 +624,64 @@ The adjournment. I would need a mover. Councillor Ferra, a seconder and Councill
 That's carried, thank you. Have a good afternoon. We are adjourned.
 
 </details>
+
+---
+
+## Votes
+
+*5 substantive votes at this meeting (2 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2.1. 2nd Report of the Animal Welfare Community Advisory Committee
+
+> That the following actions be taken with respect to the 2nd Report of the Animal Welfare Community Advisory Committee, from the meeting held on February 1, 2024: a)    any discussion of the coexistence strategies for Canada Geese and ducks BE FORWARDED to the Co-Existence with Geese Animal Welfar...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.1. Housekeeping Amendments - Yard and Lot Maintenance By-law - Administrative Monetary Penalty System By-law
+
+> That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to the staff report, dated February 20, 2024, related to the Yard and Lot Maintenance By-law and Administrative Monetary Penalty System By-law: a)    the revised ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.1. Regulation of the Display of Graphic Images
+
+> Motion to approve: "That the staff report, dated February 20, 2024, BE REFERRED back to the Civic Administration and the Civic Administration BE DIRECTED to bring forward a draft by-law with respect to the Regulation of the Display of Graphic Images to a future meeting of the Community and Protec...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Jerry Pribil](/councillors/current/j-pribil)
+
+</details>
+
+### 4.1. Regulation of the Display of Graphic Images
+
+> Motion to approve: "it being noted that the communications, as appended to the Added Agenda, from J. Gunnarson, A. Polizogopoulos, A. Honner, M. McCann and J. Jeffs, with respect to this matter, were received."
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Jerry Pribil](/councillors/current/j-pribil)
+
+</details>
+
+### 5.1. (ADDED) Councillor E. Peloza - Rescheduling of Community and Protective Services Committee Meeting - April 8, 2024
+
+> That the Community and Protective Services Committee meeting scheduled for April 8, 2024 at 1:00 PM BE RESCHEDULED to commence at 10:00 AM on April 8, 2024. (2024-C04)
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

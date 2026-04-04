@@ -252,3 +252,33 @@ The Civic Works Committee convened in camera from 4:48 PM to 5:22 PM.
 
 The meeting stood adjourned at 5:22 PM due to a lack of quorum.
 
+---
+
+## Votes
+
+*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2.1. 2018 Annual Warranted Sidewalk Program
+
+> That, on the recommendation of the Managing Director, Environmental & Engineering Services and City Engineer, the following actions be taken with respect to the staff report dated April 4, 2018 with respect to the 2018 Annual Warranted Sidewalk Program: a)            the proposed new sidewalks id...
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (1-0)
+
+### 4.1. Paratransit
+
+> That the following actions be taken with respect to the delegation request by M. Markiton: a)            the London Transit Commission BE REQUESTED to make contact with M. Markiton with respect to her issues with Paratransit; and, b)            the request for delegation status BE APPROVED for a ...
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (1-0)
+
+### 4.2. Pedestrian Safety
+
+> That the communication from R. Millard and M. Ratcliffe with respect to pedestrian safety and keeping bicycles off of City sidewalks BE REFERRED to the Cycling Advisory Committee for review and comment.
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (1-0)
+

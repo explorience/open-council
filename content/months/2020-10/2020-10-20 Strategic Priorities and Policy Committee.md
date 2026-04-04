@@ -1059,3 +1059,254 @@ None.
 
 The meeting adjourned at 8:46 PM.
 
+---
+
+## Votes
+
+*22 substantive votes at this meeting (11 contested, 11 unanimous). Procedural motions excluded.*
+
+### 2.1. 2021 Development Charges Update Covering Report and Proposed By-law
+
+> That, on the recommendation of the Managing Director, Corporate Services & City Treasurer, Chief Financial Officer, the following actions be taken with respect to the 2021 Development Charges Update: a)      the 2021 Development Charges Background Study Update BE APPROVED; b)      the proposed by...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 2.4. Amendment - Terms of Reference Committee of Management for the Dearness Home
+
+> That, on the recommendation of the City Clerk, the proposed by-law appended to the staff report dated October 20, 2020 as Appendix “A", being “A by-law to amend By-law No. A.-6582-255 being “A By-law to establish a Committee of Management for the Dearness Home in accordance with section 132 of th...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 2.5. Rapid Transit Implementation Working Group
+
+> That, on the recommendation of the Managing Director, Environmental & Engineering Services and City Engineer and the City Clerk, the “Rapid Transit Implementation Working Group” (RTIWG) BE DISSOLVED as the mandate of the RTIWG has been completed; it being noted that the Terms of Reference of the ...
+
+**✅ Motion Passed (11 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (2):** [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih)
+
+</details>
+
+### 3.1. Amendments to Consolidated Fees and Charges By-law
+
+> That, on the recommendation of the City Clerk, with the concurrence of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the proposed by-law, appended to the staff report dated October 20, 2020 as Appendix “A” BE INTRODUCED at the Municipal Council meeting to ...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 3.2. 2021-2023 Water and Wastewater Rates
+
+> That, on the recommendation of the Managing Director, Environmental and Engineering Services & City Engineer, and the Managing Director, Corporate Services & City Treasurer, Chief Financial Officer the following actions be taken with respect to the 2021-2023 Water and Wastewater rates and charges...
+
+**✅ Motion Passed (12 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 4.2. Appointment of Deputy Mayor
+
+> That pursuant to section 31.6 of the Council Procedure By-law, permission for Councillor A. Hopkins to speak for longer than 5 minutes BE GRANTED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.2. Appointment of Deputy Mayor
+
+> That the amendment, BE AMENDED, by deleting the following from part c) of the proposed amendment, “that would limit the appointment period of the Deputy Mayor to a maximum of one year and”, with part c) reading as follows: c)      the City Clerk BE DIRECTED to bring forward to a future meeting of...
+
+**✅ Motion Passed (9 to 6) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst)
+
+**Nay (4):** [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+</details>
+
+### 4.2. Appointment of Deputy Mayor
+
+> That the proposed new part c), as amended, BE APPROVED.
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+
+### 4.2. Appointment of Deputy Mayor
+
+> Motion to approve the following amended parts a) and b) as follows:    That, the following actions be taken with respect to the appointment of the Deputy Mayor: a)      the appointment of Councillor Josh Morgan, as Deputy Mayor for the City of London, for a term commencing on December 1, 2020 and...
+
+**❌ Motion Failed (6 to 9) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (7):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst)
+
+</details>
+
+### 4.2. Appointment of Deputy Mayor
+
+> Motion to approve the original parts a) and b) as follows: That, on the recommendation of the Mayor, the following actions be taken with respect to the appointment of the Deputy Mayor: a)      the appointment of Councillor Josh Morgan as Deputy Mayor for the City of London, for a term commencing ...
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (1):** [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 4.3. Committee Appointment Preferences submitted by Council Members
+
+> Appointment to the Planning and Environment Committee - Ballot #1
+
+**❌ Majority Winner: P. Squire; S. Hillier; S. Lehman; S. Lewis; A. Hopkins 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (59):** [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Shawn Lewis](/councillors/current/s-lewis), [Shawn Lewis](/councillors/current/s-lewis), [Shawn Lewis](/councillors/current/s-lewis), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Lehman](/councillors/current/s-lehman), [Steve Lehman](/councillors/current/s-lehman), [Steve Lehman](/councillors/current/s-lehman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/current/e-holder), [Ed Holder](/councillors/current/e-holder), [Ed Holder](/councillors/current/e-holder), [Ed Holder](/councillors/current/e-holder), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Mo Salih](/councillors/current/m-salih), [Mo Salih](/councillors/current/m-salih), [Mo Salih](/councillors/current/m-salih), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 4.3. Committee Appointment Preferences submitted by Council Members
+
+> Appointment to the Planning and Environment Committee - Ballot #2
+
+**❌ Majority Winner: Hopkins; Squire; Hillier; Lehman; Lewis 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (57):** [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Shawn Lewis](/councillors/current/s-lewis), [Shawn Lewis](/councillors/current/s-lewis), [Shawn Lewis](/councillors/current/s-lewis), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Lehman](/councillors/current/s-lehman), [Steve Lehman](/councillors/current/s-lehman), [Steve Lehman](/councillors/current/s-lehman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Elizabeth Peloza](/councillors/current/e-peloza), [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/current/e-holder), [Ed Holder](/councillors/current/e-holder), [Ed Holder](/councillors/current/e-holder), [Ed Holder](/councillors/current/e-holder), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Mo Salih](/councillors/current/m-salih), [Mo Salih](/councillors/current/m-salih), [Mo Salih](/councillors/current/m-salih), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 4.3. Committee Appointment Preferences submitted by Council Members
+
+> That the following BE APPOINTED to the Corporate Services Committee for the term December 1, 2020 to November 30, 2021: Councillors Morgan, van Holst, Cassidy, Kayabaga and Peloza.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.3. Committee Appointment Preferences submitted by Council Members
+
+> That Councillor M. Cassidy BE APPOINTED as Chair of the Corporate Services Committee for the term December 1, 2020 to November 30, 2021.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.3. Committee Appointment Preferences submitted by Council Members
+
+> That the following BE APPOINTED to the Civic Works Committee for the term December 1, 2020 to November 30, 2021: Councillors: E. Peloza, J. Helmer, P. Van Meerbergen, S. Turner and M. Cassidy.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.3. Committee Appointment Preferences submitted by Council Members
+
+> That Councillor E. Peloza BE APPOINTED Chair of the Civic Works Committee for the term December 1, 2020 to November 30, 2021.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.3. Committee Appointment Preferences submitted by Council Members
+
+> That the following BE APPOINTED to the Community and Protective Services Committee for the term December 1, 2020 to November 30, 2021: Councillors: S. Lewis, M. Salih, S. Hillier, A. Kayabaga and J. Helmer.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.3. Committee Appointment Preferences submitted by Council Members
+
+> That Councillor J. Helmer BE APPOINTED as Chair of the Community and Protective Services Committee for the term December 1, 2020 to November 30, 2021.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.3. Committee Appointment Preferences submitted by Council Members
+
+> That the following BE APPOINTED to the Planning and Environment Committee for the term December 1, 2020 to November 30, 2021:    Councillors: P. Squire, S. Hillier, A. Hopkins, S. Lehman and S. Lewis.
+
+**✅ Motion Passed (13 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire)
+
+</details>
+
+### 4.3. Committee Appointment Preferences submitted by Council Members
+
+> That Councillor P. Squire BE APPOINTED as Chair of the Planning and Environment Committee for the term December 1, 2020 to November 30, 2021.
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (1):** [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 4.3. Committee Appointment Preferences submitted by Council Members
+
+> Appointment of Chair to the Corporate Services Committee
+
+**❌ Majority Winner: M. Cassidy 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (11):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+</details>
+
+### 4.4. Master Accommodation Plan - Councillors Morgan and Salih
+
+> That the Civic Administration BE DIRECTED to initiate an update of the Master Accommodation Plan taking into account the potential for alternate work strategies and long term impacts on work space requirements resulting from the COVID-19 Pandemic.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+

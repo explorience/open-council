@@ -356,3 +356,49 @@ b)     the above-noted Deferred Matters List BE RECEIVED.
 
 The meeting adjourned at 4:59 PM.
 
+---
+
+## Votes
+
+*5 substantive votes at this meeting (0 contested, 5 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 and 2.4 to 2.7 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.3. Single Source Procurement of Resting Spaces (Single Source #SS20-29) and Programs (Single Source #SS20-37) for Indigenous Individuals Experiencing Homelessness
+
+> That, on the recommendation of the Acting Managing Director, Housing, Social Services and Dearness Home, with the concurrence of the Director, Financial Services, the following actions be taken with respect to the staff report dated December 15, 2020, related to the Single Source Procurement of R...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. Core Area Free Parking - Request for Delegation Status - A. Valastro
+
+> Motion to approve the delegation request.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. Core Area Free Parking - Request for Delegation Status - A. Valastro
+
+> Motion to receive the communication and delegation.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.2. Eldon House Board of Directors Membership - M. Donachie, Board Chair
+
+> That the City Clerk BE DIRECTED to bring forward to a future meeting of the Municipal Council a by-law to incorporate the proposed amendments to the Eldon House Corporation by-law, as requested by the Eldon House Corporation Board of Directors as outlined in the communication dated November 24, 2...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

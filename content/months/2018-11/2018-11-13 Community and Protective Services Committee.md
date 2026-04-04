@@ -341,3 +341,33 @@ The Community and Protective Services Committee convened in camera from 4:48 PM
 
 The meeting adjourned at 4:55 PM.
 
+---
+
+## Votes
+
+*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.9 BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 3.1. 9th Report of the Accessibility Advisory Committee
+
+> That the following actions be taken with respect to the 9th Report of the Accessibility Advisory Committee from its meeting held on October 25, 2018: a)            the request for A. Salton, Manager, Zoning and Public Property Compliance, to forward any zoning applications with accessibility impl...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 3.2. 7th Report of the Community Safety and Crime Prevention Advisory Committee
+
+> That the following actions be taken with respect to the 7th Report of the Community Safety and Crime Prevention Advisory Committee, from its meeting held on October 25, 2018: a)            the following actions be taken with respect to Informed Response: i)             M. Hayward, City Manager, o...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+

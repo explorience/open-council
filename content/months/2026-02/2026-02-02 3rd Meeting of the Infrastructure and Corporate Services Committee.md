@@ -723,3 +723,72 @@ I'll ask Councilor McAllister to report out please. Thank you, through the chair
 Everyone have a great day. Recording stopped.
 
 </details>
+
+---
+
+## Votes
+
+*6 substantive votes at this meeting (2 contested, 4 unanimous). Procedural motions excluded.*
+
+### 2.1. Update on Tourism Infrastructure Reserve Fund
+
+> That the motion BE AMENDED to include a new part that reads as follows: b)   the Civic Administration BE DIRECTED to report annually to the Infrastructure and Corporate Services Committee on any draws of up to $100,000.00 from the Tourism Infrastructure Reserve Fund.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.1. Update on Tourism Infrastructure Reserve Fund
+
+> That the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.2. Green Municipal Fund Grant Agreement - CBR-23-0154 Establishing a Roadmap to Net Zero Emissions for Nine Community Facilities in London, Ontario
+
+> that the motion BE AMENDED to add a new part that reads as follows: c)   the Civic Administration BE DIRECTED to bring forward to the Infrastructure and Corporate Services Committee the feasibility report as soon as it is received.
+
+**✅ Motion Passed (3 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Susan Stevenson](/councillors/current/s-stevenson), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Nay (2):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Skylar Franke](/councillors/current/s-franke)
+
+</details>
+
+### 2.2. Green Municipal Fund Grant Agreement - CBR-23-0154 Establishing a Roadmap to Net Zero Emissions for Nine Community Facilities in London, Ontario
+
+> That the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.3. Sunningdale Road West Improvements – Pipeline Decommissioning and New Pipeline Agreement
+
+> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to an oil pipeline relocation agreement with Imperial Oil for the Sunningdale Road Improvements from Wonderland Road to Blackwater Road: a)    the financing for this...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Nay (1):** [Skylar Franke](/councillors/current/s-franke)
+
+</details>
+
+### 2.6. Smart Commute Association Memorandum of Understanding Extension
+
+> That the staff report dated February 2, 2026 - Smart Commute MOU Extension, BE REFERRED to a future meeting of the Infrastructure and Corporate Services Committee to allow Civic Administration to provide more information to the Committee with respect to this program.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

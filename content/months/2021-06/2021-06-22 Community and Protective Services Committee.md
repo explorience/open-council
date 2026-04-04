@@ -643,3 +643,42 @@ Mr. Lewis. I will vote yes. Closing the vote.
 The motion carries six to zero.
 
 </details>
+
+---
+
+## Votes
+
+*4 substantive votes at this meeting (0 contested, 4 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.7 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. 5th Report of the Animal Welfare Advisory Committee
+
+> That the following actions be taken with respect to the 5th Report of the Animal Welfare Advisory Committee, from its meeting held on June 3, 2021: a)     the following actions be taken with respect to the Sub-Committee Update: i)     the attached document, with respect to the proposal to limit t...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.2. School Planning
+
+> That the Civic Administration BE DIRECTED to provide an information report at a future meeting of the Community and Protective Services Committee with respect to the roles and responsibilities of the local school boards and how the City of London interacts with the boards related to the items lis...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.3. London's Climate Emergency Declaration - Fireworks - REQUEST FOR DELEGATION STATUS
+
+> Motion to approve the delegation request from R. Amendola BE APPROVED to be heard at this meeting.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

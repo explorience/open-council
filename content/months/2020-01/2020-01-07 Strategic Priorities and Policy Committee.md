@@ -332,3 +332,56 @@ The Strategic Priorities and Policy Committee convened, In Closed Session, from 
 
 The meeting adjourned at 8:30 PM.
 
+---
+
+## Votes
+
+*5 substantive votes at this meeting (1 contested, 4 unanimous). Procedural motions excluded.*
+
+### 4.1. Enhanced Transit Services - Richmond Street and Western Road
+
+> That the following actions be taken with respect to the transit routes along Richmond Street and Western Road between the Masonville Transit Hub, Western University and the Downtown:    a)      the Civic Administration BE DIRECTED to work with London Transit Commission to identify:          i)   ...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 5.1. (ADDED) Appointment to the London Police Services Board
+
+> That consideration of an appointment to the Police Services Board BE REFERRED to the Council meeting of January 14, 2020, for consideration.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 5.1. (ADDED) Appointment to the London Police Services Board
+
+> That the resignation of Councillor Salih, from the Police Services Board BE ACCEPTED, effective January 16, 2020.
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+</details>
+
+### 5.2. (ADDED) Confirmation of Appointment to the Argyle BIA
+
+> That Melanie O'Brien, Owner of Madison's Boutique & Consignment, BE APPOINTED to the Argyle BIA for the term ending November 15, 2022.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 5.3. (ADDED) RBC Place London Board Appointment Recommendations
+
+> That the following actions be taken with respect to the appointments to the RBC Place London Board of Directors:    a)      Murphy Pettypiece (digital/business) and Susan Judd (agriculture/agrifoods/tourism), Class 1, BE APPOINTED for the term ending November 15, 2023; and,    b)      Garret Vand...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+

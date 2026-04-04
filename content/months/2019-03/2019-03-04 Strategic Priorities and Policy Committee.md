@@ -748,3 +748,156 @@ The Strategic Priorities and Policy Committee recesses at 7:35 PM, and reconvene
 
 The meeting adjourns at 10:02 PM.
 
+---
+
+## Votes
+
+*14 substantive votes at this meeting (5 contested, 9 unanimous). Procedural motions excluded.*
+
+### 2.2. Response to London Middlesex Housing Corporation (LMHC) Requested Changes to the Articles of Incorporation and PricewaterhouseCoopers Internal Audit Report
+
+> That the request for delegation status from London & Middlesex Community Housing BE APPROVED to be heard at this time.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 2.2. Response to London Middlesex Housing Corporation (LMHC) Requested Changes to the Articles of Incorporation and PricewaterhouseCoopers Internal Audit Report
+
+> To ensure it is maximizing its investment in housing, civic administration BE DIRECTED to undertake a review of the delivery of housing programs and services that are specific to the shareholder agreement between the City and London Middlesex Community Housing Corporation (“LMCH”) as well as the ...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 3.1. Council's Strategic Plan 2019-2023: Draft Outcomes, Expected Results, Strategies, Metrics, Targets and Preliminary Cost Estimates
+
+> That the following vision statement BE APPROVED for the 2019-2023 Strategic Plan: "A leader in commerce, culture, and innovation - our region’s connection to the World".
+
+**✅ Motion Passed (12 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire)
+
+**Absent (1):** [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 3.1. Council's Strategic Plan 2019-2023: Draft Outcomes, Expected Results, Strategies, Metrics, Targets and Preliminary Cost Estimates
+
+> That the following proposed mission statement BE APPROVED for the 2019-2023 Strategic Plan: "A responsive and modern public service partner that fosters change to build a better London for all."
+
+**✅ Motion Passed (11 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire)
+
+**Nay (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 3.1. Council's Strategic Plan 2019-2023: Draft Outcomes, Expected Results, Strategies, Metrics, Targets and Preliminary Cost Estimates
+
+> That the following proposed values BE APPROVED for the 2019-2023 Strategic Plan: “Good governance, driven by community, acting with compassion, moving forward through innovation.”
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire)
+
+**Nay (1):** [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 3.1. Council's Strategic Plan 2019-2023: Draft Outcomes, Expected Results, Strategies, Metrics, Targets and Preliminary Cost Estimates
+
+> That staff be directed to work with the London Abused Women’s Centre, in follow-up to the attached letter of March 4th, to add a draft outcome and strategies to support  efforts to reduce violence against women in our community and support victims of violence, for council’s consideration in the S...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.1. 1st Report of the Governance Working Group
+
+> That the following actions be taken with respect to the 1st Report of the Governance Working Group from its meeting held on January 14, 2019:    a)         the City Clerk BE DIRECTED to make the appropriate arrangements to schedule future meetings of the Governance Working Group (GWG) to be held ...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.2. Resignation from Councillor A. Kayabaga from the London Public Library Board and the Elgin Area Primary Water Supply Board
+
+> That the following actions be taken with respect to the resignation of Councillor A. Kayabaga from the London Public Library Board and the Elgin Area Primary Water Supply System Joint Board of Management: a)    the resignations BE ACCEPTED;
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.2. Resignation from Councillor A. Kayabaga from the London Public Library Board and the Elgin Area Primary Water Supply Board
+
+> b)    Councillor S. Lewis BE APPOINTED to the London Public Library Board, for the term ending November 15, 2022;
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.2. Resignation from Councillor A. Kayabaga from the London Public Library Board and the Elgin Area Primary Water Supply Board
+
+> c)    Councillor S. Lehman BE APPOINTED as an Alternate member to the Elgin Area Primary Water Supply System Joint Board of Management, for the term ending November 15, 2022.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.3. Request for a Shareholder's Meeting - Housing Development Corporation, London
+
+> That the following actions be taken with respect to the 2018 Annual General Meeting of the Shareholder for the Housing Development Corporation, London: a)         the 2018 Annual General Meeting of the Shareholder for the Housing Development Corporation, London BE HELD at a meeting of the Strateg...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.4. Confirmation of Appointment to the Old East Village Business Improvement Area
+
+> That Robert Campbell BE APPOINTED to the Old East Village Business Improvement Area Board of Management until April 2019 or until the successors are appointed.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.5. Confirmation of Appointments to the London Downtown Business Association Board of Directors
+
+> That consideration of appointments to the London Downtown Business Association Board of Directors, as outlined on the correspondence dated January 31, 2019 with respect to this matter, BE DEFERRED to a future meeting of the Strategic Priorities and Policy Committee.
+
+**✅ Motion Passed (10 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire)
+
+**Nay (2):** [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+**Absent (1):** [Steve Lehman](/councillors/current/s-lehman)
+
+</details>
+
+### 4.6. Request for Rapid Transit and Other Transportation Seeking Public Transit Infrastructure Stream (PTIS) Funding be Directed to the Strategic Priorities and Policy Committee
+
+> The Civic Administration BE DIRECTED to:    a)       consign to meetings of the Strategic Priorities and Policy Committee (SPPC) all major Bus Rapid Transit (BRT) related matters, including but not limited to reports, presentations and Councillor submissions that have regard to Rapid Transit or a...
+
+**✅ Motion Passed (13 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+

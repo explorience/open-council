@@ -405,3 +405,65 @@ A personal matter pertaining to litigation or potential litigation with respect 
 
 The meeting adjourned at 5:26 PM
 
+---
+
+## Votes
+
+*7 substantive votes at this meeting (0 contested, 7 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.5, inclusive, BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 2.1. 2nd Report of the London Advisory Committee on Heritage
+
+> That the following actions be taken with respect to the 2nd Report of the London Advisory Committee on Heritage (LACH), from its meeting held on January 9, 2019: a)            on the recommendation of the Managing Director, Planning and City Planner, with the advice of the Heritage Planner, the p...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 2.3. Application - 1522 Kilally Road and 1654 Highbury North - Edgevalley Subdivision (39T-05505) (H-8892)
+
+> That, on the recommendation of the Senior Planner, Development Services, the following actions be taken with respect to the application by Drewlo Holdings Inc., relating to the properties located at 1522 Kilally Road and 1654 Highbury Avenue North, the proposed by-law appended to the staff report...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 2.4. Priority Levels on the Register (Inventory of Heritage Resources)
+
+> That, on the recommendation of the Managing Director, Planning and City Planner, with the advice of the Heritage Planner, the priority levels on the Register (Inventory of Heritage Resources) BE REMOVED. (2019-R01)
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 3.2. Application - Portion of 146 Exeter Road (Richardson Subdivision 39T-15501, Block 30 and a Portion of Block 31, Wharncliffe Road Frontage) (Z-8969)
+
+> That, on the recommendation of the Senior Planner, Development Services, based on the application by Sifton Properties Limited, relating to the property located at 146 Exeter Road, the proposed by-law appended to the staff report dated January 21, 2019 BE INTRODUCED at the Municipal Council meeti...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 3.3. Application - 2156 Highbury Avenue North (OZ-8956)
+
+> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by Chinmaya Mission (Canada), relating to the property located at 2156 Highbury Avenue North: a)            the proposed by-law appended to the staff report dated Janu...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 6. Confidential
+
+> (Confidential Appendix enclosed for Members only.) The Planning and Environment Committee convened in camera from 5:07 PM to 5:25 PM after having passed a motion to do so, with respect to the following matters: 6.1.  Solicitor-Client Privileged Advice/Litigation or Potential Litigation     A matt...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+

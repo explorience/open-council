@@ -473,3 +473,26 @@ Thanks for your patience, everyone, with that last addition to the motion. With 
 I hope you have a great, a good rest of your afternoon, and I hope to see some of you in committee later. Thanks.
 
 </details>
+
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 and 2.4 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 5.2. (ADDED) 1st Report of the Integrated Transportation Advisory Committee
+
+> That the following actions be taken with respect to the 1st Report of the Integrated Transportation Community Advisory Committee, from its meeting held on December 21, 2022: a)    the Municipal Council BE REQUESTED to direct the Civic Administration to establish a hybrid meeting process for Integ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+

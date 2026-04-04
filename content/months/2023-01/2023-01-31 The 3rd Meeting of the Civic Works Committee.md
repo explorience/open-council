@@ -453,3 +453,42 @@ That the 2nd Report of the Integrated Transportation Community Advisory Committe
 
 The meeting adjourned at 2:03 PM.
 
+---
+
+## Votes
+
+*3 substantive votes at this meeting (1 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.2, 2.3, 2.4, 2.6 and 2.7 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.5. Contract Award: Tender No. RFT-2022-248 Rapid Transit Implementation – Wellington Street from Queens Avenue to the Thames River (South Branch) – Irregular Result
+
+> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report, dated January 31, 2023, related to the award of contracts for Rapid Transit Implementation – Wellington Street from Queens Avenue to the Thames ...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 4.2. REQUEST FOR DELEGATION STATUS – J. Preston, London Transit Commission Specialized Transit for Disabled Londoners
+
+> That the request for delegation, from J. Preston, London Transit Commission, with respect to Specialized Transit for Disabled Londoners, BE APPROVED to be heard at the next meeting of the Civic Works Committee. (2023-T03)
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+

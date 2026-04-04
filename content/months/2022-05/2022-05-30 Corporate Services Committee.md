@@ -234,3 +234,43 @@ The meeting adjourned at 12:45 PM.
 
 ****
 
+---
+
+## Votes
+
+*3 substantive votes at this meeting (2 contested, 1 unanimous). Procedural motions excluded.*
+
+### 4.1. Consideration of Appointment to the Ecological Community Advisory Committee (Requires up to 2 Members)
+
+> That the following BE APPOINTED as Voting Members to the Ecological Community Advisory Committee for the term ending on or before February 2024:    Patricia Almost Girsh Sankar
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. Consideration of Appointment to the Ecological Community Advisory Committee (Requires up to 2 Members)
+
+> Appointment to the Ecological Community Advisory Committee
+
+**❌ Majority Winner: Patricia Almost; Girish Sankar 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (6):** [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Ed Holder](/councillors/current/e-holder), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+</details>
+
+### 4.1. Consideration of Appointment to the Ecological Community Advisory Committee (Requires up to 2 Members)
+
+> THAT notwithstanding the Terms of Reference for the Ecological Community Advisory Committee, Patricia Almost, Eric Dusenge, and Girish Sankar BE APPOINTED to the Ecological Community Advisory Committee.
+
+**❌ Motion Failed (2 to 4) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Nay (2):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis)
+
+</details>
+

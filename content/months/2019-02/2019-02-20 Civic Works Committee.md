@@ -523,3 +523,89 @@ The Civic Works Committee convenes, In Closed Session from 5:46 PM to 6:08 PM.
 
 The meeting adjourned at 7:06 PM
 
+---
+
+## Votes
+
+*8 substantive votes at this meeting (2 contested, 6 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That items 2.2, 2.3. 2.6-2.11, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.1. Southdale Road West and Wickerson Road Improvements Environmental Study Report
+
+> That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the following actions be taken with respect to the Southdale Road West / Wickerson Road Improvements Environmental Assessment: a)    Southdale Road West / Wickerson Road Improvements En...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.4. Contract Award - Tender No. 19-15 - 2019 Infrastructure Renewal Program - Downtown Sewer Separation Phase 2 Project
+
+> That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the following actions be taken with respect to the award of contracts for the 2019 Infrastructure Renewal Program Downtown Sewer Separation Phase 2 Project: a)       the bid submitted b...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.5. Agreement Extension with Trojan Technologies for the Use of the Decommissioned Westminster Wastewater Plant
+
+> That, on the recommendation of the Managing Director Environmental and Engineering Services and City Engineer, the proposed By-law as appended to the staff report dated February 20, 2019 BE INTRODUCED at the Municipal Council Meeting of March 5, 2019 to: a)      approve the Amending Agreement wit...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.1. Street Light Local Improvements Process
+
+> That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, an annual New Street Light Local Improvement Program with a 50% cost sharing, 100% City and 1/3 property owner with abutting property owners BE CONSIDERED alongside other investment pri...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.2. Downtown OEV East - West Bikeway Corridor Evaluation
+
+> That D. Hall, J. Pastorius and G. Gallacher BE GRANTED delegation status.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.2. Downtown OEV East - West Bikeway Corridor Evaluation
+
+> That the temporary bike lane for King Street, scheduled for installation in 2019, BE DEFERRED until such time as the Municipal Council has made decisions regarding the rapid transit project, pending the above-noted Council decisions related to transit projects, the matter of temporary King Street...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Shawn Lewis](/councillors/current/s-lewis), [Phil Squire](/councillors/current/p-squire)
+
+**Nay (1):** [Michael van Holst](/councillors/current/m-van-holst)
+
+**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+
+</details>
+
+### 4.2. Downtown OEV East - West Bikeway Corridor Evaluation
+
+> That the matter of the Downtown OEV East-West Bikeway BE REFERRED back to the staff in order to have further consultation related to a viable Dundas Street corridor solution.
+
+**✅ Motion Passed (3 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+
+</details>
+

@@ -203,3 +203,41 @@ The Corporate Services Committee convened in confidential session from 12:45 PM 
 
 The meeting adjourned at  1:54 PM.
 
+---
+
+## Votes
+
+*4 substantive votes at this meeting (0 contested, 4 unanimous). Procedural motions excluded.*
+
+### 2.2. Declare Surplus and Sale - City-Owned Land Abutting 995 Hargrieve Road
+
+> That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, on the advice of the Manager of Realty Services, the following actions be taken with respect to the City-owned properties described as Part Block A and Part Block F, Plan 950, abu...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 4.1. Request for Designation of the Anderson Craft Ales 2nd Anniversary Celebration as a Municipally Significant Event
+
+> That the Anderson Craft Ales 2nd Anniversary Celebration, to be held on August 25, 2018, at the parking lot located at 1030 Elias Street, from no earlier than 11:00 AM to no later than 10:00 PM, BE DESIGNATED as an event of municipal significance in the City of London.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.2. Mayor's New Year's Honour List - Age Friendly London
+
+> That the City Clerk BE DIRECTED to report back to the Corporate Services Committee with a draft proposed by-law to amend the Mayor's New Year's Honour List Policy to incorporate a new category entitled "Age Friendly", to recognize individuals for their long standing contributions to empowering ol...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 6. Confidential (Enclosed for Members only.)
+
+> That the Corporate Services Committee BE CONVENED in Confidential Session for the purpose of considering the following matters: 6.1.     Personal Matters/Identifiable Individual     A matter pertaining to personal matters about an identifiable individual, including communications necessary for th...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+

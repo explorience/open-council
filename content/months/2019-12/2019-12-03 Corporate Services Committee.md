@@ -186,3 +186,40 @@ The Corporate Services Committee convenes, In Closed Session, from 12:38 PM to 1
 
 The meeting adjourned at 2:16 PM.
 
+---
+
+## Votes
+
+*3 substantive votes at this meeting (1 contested, 2 unanimous). Procedural motions excluded.*
+
+### 1.2. Election of Vice-Chair for the term ending November 30, 2020
+
+> That Councillor M. van Holst BE ELECTED Vice-Chair of the Corporate Services Committee for the term ending November 30, 2020.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2. Consent
+
+> That items 2.1 to 2.3, BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. Issuance of Proclamations Policy
+
+> That the Civic Administration BE DIRECTED to bring forward a report to the Corporate Services Committee meeting to be held on January 6, 2020, with a revised draft proclamation policy that is similar to the policy of the City of Toronto and that would provide for the authority for municipal procl...
+
+**✅ Motion Passed (5 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Ed Holder](/councillors/current/e-holder), [Jesse Helmer](/councillors/current/j-helmer), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (1):** [Michael van Holst](/councillors/current/m-van-holst)
+
+</details>
+

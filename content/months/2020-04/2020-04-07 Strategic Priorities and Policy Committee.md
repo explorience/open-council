@@ -103,3 +103,32 @@ None.
 
 The meeting adjourned at 6:11 PM.
 
+---
+
+## Votes
+
+*2 substantive votes at this meeting (1 contested, 1 unanimous). Procedural motions excluded.*
+
+### 2.1. London & Middlesex Community Housing Inc. Meeting of the Shareholder Resolutions Regarding Interim Board Appointments
+
+> That, on the recommendation of the City Manager, with concurrence of the Managing Director, Housing, Social Services and Dearness Home the following actions be taken with respect to London & Middlesex Community Housing Inc.: a)      the “Terms of Reference Interim Board of Directors London & Midd...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 2.1. London & Middlesex Community Housing Inc. Meeting of the Shareholder Resolutions Regarding Interim Board Appointments
+
+> That the proposed composition of the interim Board for the London & Middlesex Community Housing Inc. include a Member of City of London Council and a Member of Middlesex County Council.
+
+**❌ Motion Failed (4 to 11)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Michael van Holst](/councillors/current/m-van-holst), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (9):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire)
+
+</details>
+

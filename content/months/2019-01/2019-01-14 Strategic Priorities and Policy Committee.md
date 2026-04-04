@@ -138,3 +138,32 @@ The Strategic Priorities and Policy Committee convened In Closed Session from 6:
 
 The meeting adjourned at 6:44 PM.
 
+---
+
+## Votes
+
+*2 substantive votes at this meeting (1 contested, 1 unanimous). Procedural motions excluded.*
+
+### 3.1. Council’s Strategic Plan 2019-2023: Setting the Vision, Mission, and Values
+
+> That the attached draft Vision, Mission and Values statements, for Council’s Strategic Plan 2019 – 2023 BE CONSIDERED and BE SHARED with the community to seek feedback; it being noted that the Strategic Priorities and Policy Committee broke into working groups to develop the above-noted drafts an...
+
+**✅ Motion Passed (10 to 5)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire)
+
+**Nay (3):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 4.1. 2019 Budget Process
+
+> That Councillor J. Morgan BE APPOINTED as the Council lead for the 2019 Budget process, acting as Budget Chair with duties including coordination of 2019 Budget activities with the Civic Administration and the Chairing of the Strategic Priorities and Policy Committee meetings where discussion and...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+

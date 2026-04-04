@@ -95,3 +95,25 @@ None.
 
 The meeting adjourned at 5:37 PM.
 
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 4.1. History of London's Rapid Transit Initiative
+
+> Motion to approve part a).
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. History of London's Rapid Transit Initiative
+
+> Motion to approve part b).
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

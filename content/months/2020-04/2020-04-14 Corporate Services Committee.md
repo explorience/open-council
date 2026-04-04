@@ -296,3 +296,49 @@ None.
 
 The meeting adjourned at 1:30 PM.
 
+---
+
+## Votes
+
+*5 substantive votes at this meeting (0 contested, 5 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.2 and 2.6 BE APPROVED, it being noted that there is an attached revised by-law for Item 2.2.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.3. Year 2020 Tax Policy
+
+> That the following actions be taken with respect to property taxation for 2020: a) the attached proposed by-law BE INTRODUCED at the Municipal Council meeting to be held on April 21, 2020, reflective of Committee recommendations in accordance with Sub-sections 308(4) and 308.1(4) of the Municipal...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.4. Year 2020 Education Tax Rates
+
+> That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the following actions be taken: a) the by-law to levy education tax rates for 2020 appended as Appendix “A” to the staff report dated April 14, 2020 BE INTRODUCED at the Municipal...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.5. Property Tax Deferral Options
+
+> That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the Civic Administration BE DIRECTED to set final billings for the 2020 taxation year based on Option 1 as outlined in the staff report dated April 14, 2020,  with the following d...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4. Items for Direction
+
+> That Items 4.1 (FCM) and 4.2 (AMO) BE APPROVED, as presented.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

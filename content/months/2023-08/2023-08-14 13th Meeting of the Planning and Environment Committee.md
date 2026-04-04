@@ -1007,3 +1007,82 @@ So that concludes the business at hand. I'll look for a motion to adjourned. Cou
 Thank you. Motion. Committee is adjourned.
 
 </details>
+
+---
+
+## Votes
+
+*9 substantive votes at this meeting (0 contested, 9 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.3 and 2.4 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.2. Heritage Alteration Permit Application - 520 Ontario Street - Old East Heritage Conservation District
+
+> That, on the recommendation of the Director, Planning and Development, the application made under Section 42 of the Ontario Heritage Act to erect a new house on the property located at 520 Ontario Street, within the Old East Heritage Conservation District, BE PERMITTED as proposed in the drawings...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.2. Heritage Alteration Permit Application - 520 Ontario Street - Old East Heritage Conservation District
+
+> That the request for delegation status by U. Hecht relating to the property located at 520 Ontario Street BE GRANTED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.1. Demolition Request for Heritage Property - 763-769 Dundas Street
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the demolition request for the building on the heritage listed property located at 763-769 Dundas Street: a)    the Chief Building Official BE ADVISED that Municipal Council conse...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.2. Demolition Request and Alteration Permit for Heritage Property - 320 King Street
+
+> That, on the recommendation of the Director, Planning and Development, the application made under Section 42 of the Ontario Heritage Act seeking approval to demolish the existing parking garage and erect a new high-rise building on the subject property located at 320 King Street, within the Downt...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.4. 341 Southdale Road East (Z-9626)
+
+> That, on the recommendation of the Director, Planning and Development, based on the application by Sam Singh, relating to the property located at 341 Southdale Road East, the proposed by-law appended to the staff report dated August 14, 2023 as Appendix "A" BE INTRODUCED at the Municipal Council ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.5. 2550 Sheffield Boulevard (Z-9420)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Sifton Properties Limited, relating to a portion of the lands located at 2550 Sheffield Boulevard: a)    the proposed by-law appended to the staff report dated ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.1. Facilitation of London as a Bird Friendly City by Nature Canada - B. Samuels, Coordinator, Bird Friendly London
+
+> Whereas bird populations in North America are declining at alarming rates due to human factors that require urgent corrective actions to address; Whereas the City of London and its surrounding region are home to many species of birds that migrate through or occur here throughout the year; Whereas...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 5.1. (ADDED) 9th Report of the Community Advisory Committee on Planning
+
+> That the following actions be taken with respect to the 9th Report of the Community Advisory Committee on Planning, from its meeting held on August 9, 2023:     a)    the revised Working Group comments appended to the Community Advisory Committee on Planning Report, with respect to the property l...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

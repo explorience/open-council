@@ -160,3 +160,25 @@ The Corporate Services Committee convened, In Closed Session, from 12:38 PM to 1
 
 The meeting adjourned at 1:05 PM
 
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 4.1. Consideration of Appointment for the Accessibility Advisory Committee
+
+> That Alicia McGaw BE APPOINTED as a Voting Member to the Accessibility Advisory Committee for the term ending June 30, 2021.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.2. Request for Delegation Status - Advisory Committees - Dharshi Lacey, Director, Equity, Inclusion and Governance, Pillar Nonprofit Network
+
+> That the requested delegations, as identified on the public agenda D. Lacey (4.2) and S. Lewkowitz (4.3), BE APPROVED to be heard at this time.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

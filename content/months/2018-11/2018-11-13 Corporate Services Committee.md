@@ -221,3 +221,25 @@ The Corporate Services Committee convened in Closed Session from 1:30 PM to 1:39
 
 The meeting adjourned at 1:39 PM.
 
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.3, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.4. Advisory Committee Review - Interim Report
+
+> That the following actions be taken with respect to the recruitment and appointment of Advisory Committee members for the up-coming term: a)            the recruitment for voting members, BE UNDERTAKEN; b)            the appointments for the above-noted recruitment BE LIMITED to a term from June ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+

@@ -209,3 +209,46 @@ The Strategic Priorities and Policy Committee convened in Committee, In Closed S
 
 The Meeting adjourned at 8:07 PM.
 
+---
+
+## Votes
+
+*4 substantive votes at this meeting (1 contested, 3 unanimous). Procedural motions excluded.*
+
+### 4.1. London Hydro - Request for a Shareholder's Meeting
+
+> That the following actions be taken with respect to the 2017 Annual General Meeting of the Shareholder for London Hydro Inc.: a)         the 2017 Annual General Meeting of the Shareholder for London Hydro Inc. BE HELD at a meeting of the Strategic Priorities and Policy Committee on June 25, 2018,...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 5.1. ADDED - London and Middlesex Housing Corporation
+
+> Motion to approve the request for delegation status from J. Peaire, at a future meeting of the appropriate committee.
+
+**✅ Motion Passed (13 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
+
+</details>
+
+### 5.1. ADDED - London and Middlesex Housing Corporation
+
+> Motion to receive the communication from the London & Middlesex Housing Corporation (LMHC) Board of Directors regarding clarification and information relating to the selection and appointment of the LMHC Board Members.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 5.1. ADDED - London and Middlesex Housing Corporation
+
+> Motion to approve interviews with three applicants for appointment to the LMHC Board, as per the ranked ballot.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+

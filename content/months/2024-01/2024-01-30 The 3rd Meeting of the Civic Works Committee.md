@@ -446,3 +446,34 @@ I wanna thank staff for always being there and answering the questions and the c
 And can we do a hand vote? Hand vote, with that, we adjourn. Thanks, everyone.
 
 </details>
+
+---
+
+## Votes
+
+*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.3 and 2.5 to 2.7 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.4. Contract Award - Tender No. RFT-2023-264 - East London Link Phase 3A West - Dundas Street
+
+> That on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report, dated January 30, 2024, related to a Contract Award for Tender No. RFT-2023-264 for the East London Link Phase 3A West Dundas Street: a)    the b...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.1. Jenkens Municipal Drain Improvements
+
+> That on the recommendation of Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report, dated January 30, 2024, related to the Jenkens Municipal Drain Improvements: a)    the drainage report, as appended to the above-noted staff report, ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

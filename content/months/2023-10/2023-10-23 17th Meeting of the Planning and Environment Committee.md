@@ -2212,3 +2212,179 @@ And thank you committee members and clerk for doing the hard work and keeping me
 Thank you.
 
 </details>
+
+---
+
+## Votes
+
+*20 substantive votes at this meeting (1 contested, 19 unanimous). Procedural motions excluded.*
+
+### 2.2. Contract Renewal for Management of Environmentally Significant Areas
+
+> That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to the Contract Renewal for the Management of Environmentally Significant Areas; a)  approval BE GIVEN under Section 14.3 (c) of the Procurement of Goods and Serv...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.2. Contract Renewal for Management of Environmentally Significant Areas
+
+> That a change in order BE APPROVED to allow consent item 2.3 to be heard before item 2.2.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.3. Conservation Authority Cost Apportioning Agreements
+
+> That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to the Conservation Authority Cost Apportioning Agreements: a) the proposed by-law appended to the staff report dated October 23, 2023 as Appendix “A” BE INTRODUC...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.1. Demolition Request for Heritage Listed Property - 5200 Wellington Road South
+
+> That, on the recommendation of the Director, Planning and Development, with respect to the demolition request for the building on the heritage listed property at 5200 Wellington Road South: a)    the Chief Building Official BE ADVISED that Municipal Council consents to the demolition of the build...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.2. Demolition Request for Heritage Listed Property - 7056 Pack Road
+
+> That, on the recommendation of the Director, Planning and Development, with the advice of the Heritage Planner, the following actions be taken with respect to the demolition request for the building on the heritage listed property at 7056 Pack Road: a)    the Chief Building Official BE ADVISED th...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.3. 1958 Duluth Crescent (OZ-9638 / 39T-23504)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Monteith Brown Planning Consultants, relating to the property located at 1958 Duluth Crescent: a)    the proposed by-law appended to the staff report dated Octo...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.4. 3317 White Oak Road (Z-9645)
+
+> That, on the recommendation of the Director, Planning and Development, based on the application by 3317 White Oak Road Inc., (c/o MHBC), relating to the property located at 3317 White Oak Road, the proposed by-law appended to the staff report dated October 23, 2023 as Appendix "A" BE INTRODUCED a...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.5. 764, 772, and 774 Crumlin Sideroad (OZ-9642)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by New London Group Ltd., (c/o Zelinka Priamo Ltd.), relating to the properties located at 764, 772 and 774 Crumlin Sideroad: a)    the proposed by-law appended to...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.6. 1901 Jalna Boulevard (Z-9633)
+
+> That, notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Kindred Works, (c/o Zelinka Priamo Ltd.), relating to the property located at 1901 Jalna Boulevard: a)    the proposed, revised, attached by-law as...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.6. 1901 Jalna Boulevard (Z-9633)
+
+> Motion to include part d), which reads as follows: “d)    that pursuant to Section 34(17) of the Planning Act, as determined by the Municipal Council, no further notice BE GIVEN in respect of the proposed by-law as the changes related to the calculation of parking requirements is minor in nature ...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 3.6. 1901 Jalna Boulevard (Z-9633)
+
+> That the motion BE APPROVED, as amended.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 3.7. 610-620 Beaverbrook Avenue (OZ-9517)
+
+> Motion to amend clause b) as follows: “the proposed by-law appended to the staff report as Appendix ‘B’, being a by-law to amendment Zoning Bylaw Z.-1, BE REVISED by DELETING part 2) a) v) Landscaped Open Space (minimum): 24%, it being noted the Landscaped Open Space (minimum) in the R8-4 Zone is...
+
+**❌ Motion Failed (2 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke)
+
+**Nay (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 3.7. 610-620 Beaverbrook Avenue (OZ-9517)
+
+> Motion to amend clause c) by adding the following: “xvi)    additional tree plantings on the property or nearby properties will be required to compensate for loss of trees and exceed the minimum tree planting requirements; and,  xvii)    investigate a solar installation along top of the parking g...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.7. 610-620 Beaverbrook Avenue (OZ-9517)
+
+> That the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.8. 135 Villagewalk Boulevard (Z-9644)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by 2560334 Ontario Limited, (c/o York Developments), relating to the property located at 135 Villagewalk Boulevard: a)    the proposed, revised by-law, as appended...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.9. 30 and 100 Villagewalk Boulevard (SPA22-049 / SPA21-119)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Cridon Investments Inc. relating to the property located at 30 & 100 Villagewalk Boulevard; a)    the Approval Authority BE ADVISED that no issues were raised a...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.10. 1407 and 1427 Hyde Park Road (OZ-9438)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by 2134325 Ontario Inc., (York Developments), relating to the property located at 1407-1427 Hyde Park Road: a)    the proposed by-law appended to the staff report ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.1. ReThink Zoning - Progress Update
+
+> Motion to approve delegation status to A. Johnson, Greenspace Alliance and M. Wallace, London Development Institute, with respect to ReThink Zoning.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.2. 11th Report of the Community Advisory Committee on Planning
+
+> That, the following actions be taken with respect to the 11th Report of the Community Advisory Committee on Planning, from its meeting held on October 11, 2023: b) (5.3) an expenditure from the 2023 Community Advisory Committee on Planning (CACP) Budget BE APPROVED for security services and refre...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 5.1. (ADDED) Deferred Matters List
+
+> That the Committee Clerk BE DIRECTED to update the Deferred Matters List to remove any items that have been addressed by the Civic Administration.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

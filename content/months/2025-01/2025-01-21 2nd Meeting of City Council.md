@@ -1889,3 +1889,75 @@ I'll look for someone to move a motion to adjourn. Moved by Councillor van Mirbe
 All right, thank you, we are adjourned. Appreciate your time today.
 
 </details>
+
+---
+
+## Votes
+
+*7 substantive votes at this meeting (1 contested, 6 unanimous). Procedural motions excluded.*
+
+### 6.1. Council Resourcing Review Task Force Memo - City Clerk
+
+> That on the recommendation of the City Clerk, the following actions be taken with respect to the 2025 Council Resourcing Review Task Force; a) the following individuals BE APPOINTED to the Council Resourcing Review Task Force: i)   Dane Ferry;  ii)  Mariam Hamou;  iii) Martin Horak;  iv) Jennifer...
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 8.1. 2nd Report of the Infrastructure and Corporate Services Committee
+
+> That the 2nd Report of the Infrastructure and Corporate Services Committee BE APPROVED with the exception of item 11 (2.6)
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 8.1.11. (2.6) Contract Award: Tender No. RFT-2024-315 - East London Link and Municipal Infrastructure Improvements - Phase 4 - Oxford Street East (Relates to Bill No. 52)
+
+> That on the recommendation of the Deputy City Manager, Environment & Infrastructure, the following actions be taken with respect to the East London Link and Municipal Infrastructure Improvements Phase 4 project;    a)    the following actions BE TAKEN with respect to the award of the contract for...
+
+**✅ Motion Passed (12 to 0)**
+
+Unanimous (12-0)
+
+### 8.2. 2nd Report of the Community and Protective Services Committee
+
+> That the 2nd Report of the Community and Protective Services Committee BE APPROVED
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 8.3. 2nd Report of the Strategic Priorities and Policy Committee
+
+> That the 2nd Report of the Strategic Priorities and Policy Committee BE APPROVED with the exception of item 5 (4.1)
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 8.4. 2nd Report of the Planning and Environment Committee
+
+> That the 2nd Report of the Planning and Environment Committee BE APPROVED
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 11. Enquiries
+
+> That pursuant to section 18.4 of the Council Procedure By-law, leave BE GRANTED to permit Councillor S. Trosow to move a motion related to the City of London's warming centres.
+
+**❌ Motion Failed (7 to 7) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (7):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
+

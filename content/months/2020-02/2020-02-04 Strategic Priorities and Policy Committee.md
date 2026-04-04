@@ -194,3 +194,25 @@ The meeting adjourned at 4:51 PM.
 
 ****
 
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 4.1. Confirmation of Appointment to the Argyle BIA
+
+> That Donna Moerenhout, Owner of Razor's Barber Shop BE APPOINTED to the Argyle Business Improvement Area for the term ending November 15, 2022.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 4.2. (ADDED) Electric Buses
+
+> That the following actions be taken with respect to electrification of buses:    a) the London Transit Commission BE THANKED for initiating a study of electrifying its fleet of buses;    b) the Civic Administration BE DIRECTED to work with the London Transit Commission (LTC), the provincial gover...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+

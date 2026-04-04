@@ -432,3 +432,61 @@ That the delegation request from T. Nault, Schulich School of Medicine & Dentist
 
 The meeting adjourned at 6:39 PM.
 
+---
+
+## Votes
+
+*5 substantive votes at this meeting (2 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.2 and 2.4 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.1. Short Term Accommodations
+
+> Motion to approve part a).
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.1. Short Term Accommodations
+
+> Motion to approve parts b) and c).
+
+**✅ Motion Passed (4 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Maureen Cassidy](/councillors/current/m-cassidy), [Bill Armstrong](/councillors/current/b-armstrong)
+
+</details>
+
+### 3.3. Public Participation Meeting - Adult Live Entertainment Parlour - Location Substitution Request
+
+> That NO AMENDMENT BE MADE to the Business Licensing By-law L.-131-16 with respect to the application made to substitute an existing licensed Adult Entertainment Parlour location at 2010 Dundas Street to a proposed location at 802 Exeter Road; it being noted that the attached presentation from O. ...
+
+**✅ Motion Passed (5 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Virginia Ridley](/councillors/current/v-ridley)
+
+**Nay (1):** [Bill Armstrong](/councillors/current/b-armstrong)
+
+</details>
+
+### 5.2. (ADDED) Request for Delegation - T. Nault - Naloxone Kits
+
+> That the delegation request from T. Nault, Schulich School of Medicine & Dentistry, with respect to the a proposal to implement naloxone kits at city owned AED machines in London, BE APPROVED for the May 29, 2018 meeting of the Community and Protective Services Committee; it being noted that a co...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+

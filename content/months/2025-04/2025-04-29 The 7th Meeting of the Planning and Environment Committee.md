@@ -1325,3 +1325,98 @@ Felberg and the work that's happening at Duluth Crescent that will see some seni
 chair i don't have any particular comments about that one uh the one thing i would also add that's also contributing to this and i probably should have mentioned it last time was student housing and the fact that western and fanta are starting to build some residences they're able to open up some space within the neighborhoods near uh near the campuses so that also helps with the issue that we have but that's something we can take back and we can do a little bit of research and we can incorporate that into our future plans on where we want to target uh around the city is around the two bedroom i mean deputy mayor great again i i'm very helpful i know this is a very layered complex moving targets and moving pieces all the time uh i know a lot of work went into this uh you know certainly i appreciate the consultations that we're had with with other partners at uh you know when i first started reading it and saw you know the 2021 census and i thought well this is going to not be all that helpful because the city has changed dramatically since 2021 but then i looked at all the the industry partners that were involved all the other data sets that were being taken into account and i i think this gives us a good blueprint i i think there's probably some changes that can be made along the way as we move forward but i'm already hearing from staff that those things are being considered uh here that i've given them some more food for thought to look at moving forward as well so um you know i i'm supportive of where we're going here i just think there's there may be some more nuanced situations and and certainly um cmhc's need to consider some more nuanced situations as a conversation i'll take up with our federal members now that the election is over and there will be some sworn in soon for other comments or questions we have a motion to receive that's been moved in second i'll call a vote closing the vote the motion carries five to zero thank you uh moving on to 2.6 this is regarding housing salary or fun initiative five city land disposal process review for increasing affordable housing and i'll go to staff again for a brief verbal presentation on this thank you uh mr chair so this is another one of the housing accelerator uh initiatives that we had to deliver on so i'm going to pass it over to megs undercock and she'll provide a summary of what you've got before you and then we also have mr. Warner here if you have any questions specific to realty and we're happy to answer any questions you might have thank you very much so what you have in front of you is the land disposal policy process review this report is part of this report is part of an ongoing process improvement in the way that the city disposes of land assets for the purpose of affordable housing as a continuation of housing accelerator fund initiative number five to streamline the disposal and development process so the report was developed through an environmental scan of the city's current policies as well as consultations with the cities of hamilton auto and calgary uh who each have interesting and unique land disposal and affordable housing strategies through which call yours project leaders our consultant has extrapolated best practices and included in the report as recommendations for consideration in refining our process many of the best practices that we observed are already activities that city staff have implemented to simplify the disposition process and in further support of simplification we are recommending the immediate implementation of the recommendation to amend the sale and other disposition of land policy to include lands to be disposed of by municipal housing and industrial development to align with the existing policy exempting industrial lands from the process we are also recommending further investigation of the cash flow model to compare different land use options by revenues and cost and the corporate benefits model to weigh municipal needs and interests to guide decision-making thank you thank you and i'll go to committee members right now for discussion uh council closing sorry i'll put on the floor to start with thank you i'll look for a seconder deputy mayor seconds i'll look for comments or questions deputy mayor uh so again just a couple questions for staff um this is one of those planning committee meetings where the consent agenda is taking longer than the items for direction but that's okay uh these are some important items uh for our consideration um i guess my main question uh through staff and it's reflected and i believe it was the hamilton model and i don't see it necessarily reflected yet knowing that there's some investigation to to deal and come back with a couple of different uh recommendations but what i don't see yet is the involvement of the word counselor which hamilton has and which i don't see reflected as a recommended process for us here and i know uh cherry yourself and and counselor ramen uh have certainly on many occasions raise some concerns about municipal lands perhaps being better suited for open space or or community center space or many space um because there are multiple uses for municipal surplus lands obviously affordable housing is our primary um driver right now because that's the largest area of need obviously when we're talking about you know parklands or things like that there are um different budgets involved in in parks uh and recreation program budgets and and the operations of those um but i do think that the word counselors bring um a unique neighborhood perspectives to things uh you know i referenced in the earlier report the seniors buildings uh that were happening uh on diluth crescent and you know certainly that is something that i brought to mr fellberg very very early on with a lot of community feedback to share with him already um that when the land was going to be acquired the number one ask of arga residents was seniors units please and we're delivering on that um but i'm not sure that that would have been captured in the same way um frankly had i not stuck my nose in a little bit um it may still have been captured but perhaps not with the same prioritization and so i see that reflected in another community's model that we've looked at i don't see it reflected um right now in terms of where we may be moving so i i'm looking for some staff comments on where if they will be considering the direct counselor consultation involvement uh when they bring back recommendations for us both staff thank you and through you mr chair uh it's a very good point and a very good question um i what i would point to is uh recommendation a to a corporate benefits model so that's where we would go and look at the different properties that we're proposing for disposition and we would work with our colleagues around the organization to ensure that uh everybody's needs are being met and we're considering that when we bring that report back we can include something around that how do we have political decision-making and how does council get to weigh in on some of that and then that would be something that committee would be able to consider and then provide direction on the deputy mayor satisfied with that answer sounds good other comments or questions now just a brief comment from the chair committee permits you know these two things that we spoke of um what's the needs assessment and the disposal process brought forward by you know uh required by housing and selling fund but probably good uh good exercise to go through for sure and uh you know i agree with uh deputy mayor's comments about involving maybe local counselors at some point because we do have a pretty in-depth um view of our of our particular words however i understand as well the city has uh a broad plan of of where certain amenities go housing needs etc that might not drive with what we want particularly in our uh in our area so thank you very much for both reports uh i know a lot of work has gone into them and i hope i hope um that they're used quite frankly by not just our playing department by other departments uh in at city hall um because it's very good information here that uh other than just that we had to do it that um we benefit from it so thank you okay we have a motion to receive moved and seconded don't see any further comments so i'll call the question losing the vote the motion carries back to zero so i think that is the end of the agenda thank you very much all the promotion uh to stop thank you uh counselor kai seconded bye councilor hand vote motion carries thank you everyone i go a lot faster if you want to stop you can hit remind i accept it but i'm sorry i'll be a little bit longer i'll be right up
 
 </details>
+
+---
+
+## Votes
+
+*11 substantive votes at this meeting (0 contested, 11 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.2 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.3. Communication - D. R. Schmidt - Referred to PEC (SPPC/4/4.1)
+
+> That the delegation request from D. R. Schmidt, as appended to the Added Agenda BE APPROVED, to be heard at this time.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.3. Communication - D. R. Schmidt - Referred to PEC (SPPC/4/4.1)
+
+> That the motion be amendment to include a new part b) to read as follows: b) that Civic Administration BE DIRECTED to report back to a future meeting of the Planning and Environment Committee with respect to existing traffic calming policy standards through the design specification guidelines thr...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.3. Communication - D. R. Schmidt - Referred to PEC (SPPC/4/4.1)
+
+> That the motion, as amended, be approved.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.4. Fast-Tracking Housing - Mayoral Direction 2025-001
+
+> That the delegation request from M. Wallace, as appended to the Added Agenda BE APPROVED, to be heard at this time.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.6. Housing Accelerator Fund Initiative 5: City Land Disposal Process Review for Increasing Affordable Housing
+
+> That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the following actions be taken with respect to the staff report dated April 29, 2025, related to the continued improvement of initiatives associated with the Housing Accelerator Fund and the City’s Land Disposal...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.1. 3095 Bostwick Road (OZ-25018)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Southside Construction Management Ltd. relating to the property located at 3095 Bostwick Road, Talbot Village Phase 9: a)    the proposed by-law as appended to ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.2. 1176 Crumlin Side Road (Z-9601)
+
+> That, on the recommendation of the Director, Planning and Development, the following action be taken with respect to the application of Peter Drankowski and Daniel Drankowski (c/o Strik Baldinelli Moniz Ltd.), relating to the property located at 1176 Crumlin Sideroad, the proposed by-law as appen...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.3. 1140 Fanshawe Park Road East (Z-25027)
+
+> That, on the recommendation of the Director, Planning and Development, the following action be taken with respect to the application of Drewlo Holdings Inc. relating to the property located at 1140 Fanshawe Park Road East, the proposed by-law as appended to the staff report dated April 29, 2025, ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.4. 459 Hales Street (Z-25026)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Grand Oak Homes relating to the property located at 459 Hale Street, the proposed by-law as appended to the staff report dated April 29, 2025, as Appendix "A" B...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.5. 3849 Campbell Street North (Z-9614)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Colonel Talbot Developments relating to the property located at 3849 Campbell Street North: a)    the proposed by-law as appended to the staff report dated Apri...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

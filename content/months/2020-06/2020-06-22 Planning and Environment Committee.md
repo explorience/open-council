@@ -592,3 +592,72 @@ The meeting adjourned at 6:08 PM.
 
 ****
 
+---
+
+## Votes
+
+*7 substantive votes at this meeting (1 contested, 6 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.2 to 2.4, inclusive, BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.1. ReThink Zoning Phase One Update
+
+> That the staff report dated June 22, 2020 entitled "ReThink Zoning Phase One Update" BE REFERRED back to the Civic Administration to report back at a future Planning and Environment Committee meeting.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.1. Application - 1919 and 1929 Oxford Street West (Z-9115)
+
+> That, on the recommendation of the Director, Development Services, based on the application by Oxford Westdel Centre Inc., relating to the properties located at 1919 and 1929 Oxford Street West, the proposed by-law appended to the staff report dated June 22, 2020 BE INTRODUCED at the Municipal Co...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.2. Application - 584 and 588 Wonderland Road North (OZ-9114)
+
+> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application of Wasan Holdings Ltd relating to the property located at 584 and 588 Wonderland Road North: a) the proposed by-law appended to the staff report dated June 22, 2020 as...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.3. Application - 944 Hamilton Road (Z-9151)
+
+> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by York Developments, relating to the property located at 944 Hamilton Road: a)  consistent with Policy 19.1.1. of the Official Plan, the subject lands, representing a...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.4. Application - 754-760 Baseline Road (OZ-9148)
+
+> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by Canadian Commercial Management Inc. relating to the property located at 754-760 Base Line Road East: a) the proposed by-law appended to the staff report dated June ...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.5. Application 1992 Fanshawe Park Road West (TZ-9177)
+
+> That, on the recommendation of the Director, Development Services, based on the application by Southside Construction Management Limited, relating to the property located at 1992 Fanshawe Park Road West, the proposed by-law attached hereto as Appendix "A" BE INTRODUCED at the Municipal Council me...
+
+**❌ Motion Failed (3 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Ed Holder](/councillors/current/e-holder)
+
+**Nay (1):** [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+</details>
+

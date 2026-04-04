@@ -365,3 +365,25 @@ The meeting adjourned at 1:24 PM.
 
 ****
 
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2.2. Single Source Procurement SS21-08 Infrastructure Managed Services and Core Upgrade for Emergency Communications System
+
+> That, on the recommendation of the City Manager, the following actions be taken, with respect to the Infrastructure Managed Services and Lifecycle Maintenance for the Emergency Communications System;    a)       the proposal submitted by L3 Harris Technologies, 5-2895 Argentia Road, Mississauga, ...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. Application - Issuance of Proclamation - Sikh Heritage Month
+
+> That based on the application dated February 3, 2021, from Guru Nanak Mission Society, the month of April, 2021 BE PROCLAIMED Sikh Heritage Month.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

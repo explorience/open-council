@@ -366,3 +366,25 @@ That the 2nd Report of the Animal Welfare Advisory Committee, from its meeting h
 
 The meeting adjourned at 2:42 PM.
 
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.4 and 2.8 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.1. Sound By-Law - Outdoor Patio Time Exemption and Housekeeping Amendments
+
+> That, on the recommendation of the Managing Director, Development and Compliance Services and Chief Building Official, the proposed by-law, as appended to the staff report dated February 20, 2019, BE INTRODUCED at the Municipal Council meeting to be held on March 5, 2019, to amend the Sound By-la...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

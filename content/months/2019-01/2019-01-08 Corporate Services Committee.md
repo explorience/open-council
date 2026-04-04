@@ -226,3 +226,48 @@ That the nomination of Councillor J. Morgan for appointment as the Third-Vice Pr
 
 The meeting adjourned at 1:07 PM.
 
+---
+
+## Votes
+
+*4 substantive votes at this meeting (1 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That items 2.1 and 2.2 BE APPROVED.
+
+**✅ Motion Passed (5 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 4.1. Consideration of Appointment to the Environmental and Ecological Planning Advisory Committee
+
+> That the following BE APPOINTED as Voting Members to the Environmental and Ecological Planning Advisory Committee for the term ending May 31, 2019:    R. Doyle  A. Galvao Duarte  I. Mohamed
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.2. Confirmation of Appointment to the Community Safety and Crime Prevention Advisory Committee
+
+> That Lori-Ann Pizzolato BE APPOINTED as an Alternate Voting Member representing the Thames Valley District School Board to the Community Safety and Crime Prevention Advisory Committee for the term ending May 31, 2019.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 5.3. ADDED - Federation of Canadian Municipalities (FCM) - Third Vice-President Vacancy
+
+> That the nomination of Councillor J. Morgan for appointment as the Third-Vice President for the Federation of Canadian Municipalities (FCM) BE ENDORSED by the Municipal Council and in the event that Councillor J. Morgan is elected to this position that the Councillor BE REIMBURSED by The Corporat...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

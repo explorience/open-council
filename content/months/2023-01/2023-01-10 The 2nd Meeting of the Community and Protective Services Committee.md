@@ -280,3 +280,25 @@ The Community and Protective Services Committee convened In Closed Session from 
 
 The meeting adjourned at 5:20 PM.
 
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.7 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.1. A. Johnson, Greenspace Alliance - Greenspace Protection at the Former River Road Golf Course, Ward 1
+
+> Motion to approve the delegation request from M.A. Hodge, with respect to Greenspace Protection at the Former River Road Golf Course, Ward 1, to be heard at this meeting.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+

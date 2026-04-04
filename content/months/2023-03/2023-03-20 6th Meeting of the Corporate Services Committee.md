@@ -302,3 +302,33 @@ The meeting adjourned at 1:12 PM.
 
 ****
 
+---
+
+## Votes
+
+*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2.4. 2022 Annual Update on Budweiser Gardens
+
+> Item 2.4 BE AMENDED to include the following: That the Civic Administration BE DIRECTED to include the following as part of a future report for Corporate Services Committee for review and consideration: a)    final approved Memorandum of Understanding (MOU) and final agreement identified in MOU; ...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.4. 2022 Annual Update on Budweiser Gardens
+
+> Item 2.4 as amended.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4. Items for Direction
+
+> That Items 4.1 to 4.5 BE APPROVED
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

@@ -842,3 +842,120 @@ The meeting adjourned at 8:44 PM.
 
 ****
 
+---
+
+## Votes
+
+*13 substantive votes at this meeting (1 contested, 12 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.2, and 2.3 BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 3.1. Council's Strategic Plan 2019-2023: Draft Outcomes, Expected Results, Strategies, Metrics, Targets and Preliminary Cost Estimates
+
+> That the request for delegation status from the London Community Foundation BE GRANTED for 10 Minutes. Voting Record
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 3.1. Council's Strategic Plan 2019-2023: Draft Outcomes, Expected Results, Strategies, Metrics, Targets and Preliminary Cost Estimates
+
+> That the request for delegation status from Robert Huber, President, Thames River Anglers Association, BE APPROVED to be heard at this time.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 3.1. Council's Strategic Plan 2019-2023: Draft Outcomes, Expected Results, Strategies, Metrics, Targets and Preliminary Cost Estimates
+
+> That the Strategic Plan section, Building a Sustainable City, Outcome 2, BSC-20 BE AMENDED to read: “Bring Londoners Back to the River by revitalizing the Thames River", deleting “radiating from the Forks”; and by deleting metric #1, "% of inaugural project at the Forks completed".
+
+**❌ Motion Failed (6 to 9) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Phil Squire](/councillors/current/p-squire)
+
+**Nay (7):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+</details>
+
+### 3.1. Council's Strategic Plan 2019-2023: Draft Outcomes, Expected Results, Strategies, Metrics, Targets and Preliminary Cost Estimates
+
+> That the request for delegation status from Dani Bartlett, Labour Programs & Services Coordinator, United Way Elgin Middlesex, BE APPROVED to be heard at this time.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 3.1. Council's Strategic Plan 2019-2023: Draft Outcomes, Expected Results, Strategies, Metrics, Targets and Preliminary Cost Estimates
+
+> That the attached strategic area of focus "Creating a Safe London for Women and Girls" BE INCLUDED in the Council Strategic Plan.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 3.1. Council's Strategic Plan 2019-2023: Draft Outcomes, Expected Results, Strategies, Metrics, Targets and Preliminary Cost Estimates
+
+> The motion to approve parts a) b) c) and e) of the above-noted proposed amendment is put.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 3.1. Council's Strategic Plan 2019-2023: Draft Outcomes, Expected Results, Strategies, Metrics, Targets and Preliminary Cost Estimates
+
+> The motion to approve part d) of the above-noted proposed amendment is put.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 3.1. Council's Strategic Plan 2019-2023: Draft Outcomes, Expected Results, Strategies, Metrics, Targets and Preliminary Cost Estimates
+
+> The motion to approve part c) of Item 3.1 is put. "c)    Strategies SOC-12 and SOC-13 BE APPROVED;"
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (11-0)
+
+### 3.1. Council's Strategic Plan 2019-2023: Draft Outcomes, Expected Results, Strategies, Metrics, Targets and Preliminary Cost Estimates
+
+> The motion to approve part d) of Item 3.1 is put. "d)    Strategy GOE-21 BE APPROVED;"
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 3.1. Council's Strategic Plan 2019-2023: Draft Outcomes, Expected Results, Strategies, Metrics, Targets and Preliminary Cost Estimates
+
+> The motion to approve part e) of Item 3.1 is put. "e)   the new Strategy under "Building a Sustainable City" for the "replacement of surface parking with efficient, convenient and cost-effective public parking resources to support business, personal and social activity in the Downtown (Downtown P...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 4. Items for Direction
+
+> That Items 4.2 through 4.7 BE APPROVED
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.1. Request for Councillor J. Morgan to be Appointed as Council Lead for the 2020-2023 Multi-Year Budget
+
+> That Councillor J. Morgan BE APPOINTED as the Council lead for the upcoming four-year Budget process (2020 to 2023 referred hereafter as the "Multi-Year Budget"), acting as Budget Chair with duties including coordination of Multi-Year Budget activities with the Civic Administration and the Chairi...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+

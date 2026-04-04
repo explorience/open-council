@@ -216,3 +216,33 @@ That the Deferred Matters List, as at June 15, 2020, BE RECEIVED.
 
 The meeting adjourned at 12:18 PM.
 
+---
+
+## Votes
+
+*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That items 2.1 to 2.4 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. (ADDED) Active Transportation Manager - Councillors E. Peloza and S. Lewis
+
+> That the following actions be taken with respect to the upcoming review of the City's Cycling Master Plan in 2021: a)       the Civic Administration BE DIRECTED to develop a plan for the creation of an Active Transportation Manager under Environmental and Engineering Services and the City Enginee...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.2. (ADDED) Removal of Trees on Lambeth Avenue - H. Sanderson - Request for Delegation Status
+
+> That the request for delegation status made by H. Sanderson, dated June 22, 2020, with respect to the Lambeth Avenue infrastructure renewal project and associated tree removal, BE APPROVED for the July 14, 2020 Civic Works Committee meeting.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

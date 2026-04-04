@@ -287,3 +287,25 @@ The Corporate Services Committee convened, In Closed Session, from 1:22 PM to 1:
 
 The meeting adjourned at 1:40 PM.
 
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 4.1. Request for Delegation Status - Jacqueline Madden and Michael Dawthorne
+
+> That the requested delegation, as identified on the public agenda, BE APPROVED to heard at this time.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 5.3. Small Business Support
+
+> That the following actions be taken to assist London businesses in mitigating financial losses as a result of Public Health regulations put in place with respect to COVID-19: a)      the Province of Ontario BE ADVISED that the City of London supports the measures being put in place to assist loca...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

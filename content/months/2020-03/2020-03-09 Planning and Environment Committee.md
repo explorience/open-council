@@ -649,3 +649,96 @@ The meeting adjourned at 6:40 PM.
 
 ****
 
+---
+
+## Votes
+
+*10 substantive votes at this meeting (1 contested, 9 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.5, inclusive, BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 3.1. Application - 2701 Hyde Park Road (Z-9152)
+
+> That, on the recommendation of the Director, Development Services, based on the application by Paul and Marie Miszczak, relating to the property located at 2701 Hyde Park Road, the proposed by-law appended to the staff report dated March 9, 2020 BE INTRODUCED at the Municipal Council meeting to b...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 3.2. 699 Village Green Avenue (Z-9134)
+
+> That, on the recommendation of the Director, Development Services, based on the application by 2193302 Ontario Inc., relating to the property located at 699 Village Green Avenue, the proposed by-law appended to the staff report dated March 9, 2020 BE INTRODUCED at the Municipal Council meeting to...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 3.3. Residential Boulevard Parking Application - 279 Regent Street (B-9154)
+
+> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application of Neil Shaw, (“the Applicant”) relating to the property located at 279 Regent Street: a) the City Clerk’s Office BE DIRECTED to prepare a Residential Boulevard Parkin...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 3.4. 1674 Hyde Park Road and Part of 1712 Hyde Park Road (Z-9109)
+
+> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by 1674 Hyde Park Inc., relating to the property located at 1674 Hyde Park Road and Part of 1712 Hyde Park Road: a) the proposed by-law appended to the staff report da...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 3.5. 84-86 St. George and 175-197 Ann Street (OZ-9127)
+
+> Motion to grant the delegation by Mr. A. Soufan, York Developments, an additional three minutes to speak to the application pertaining to the properties located at 84-86 St. George Street and 175-197 Ann Street.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 3.5. 84-86 St. George and 175-197 Ann Street (OZ-9127)
+
+> Motion to grant Ms. A-M. Valastro an additional minute to speak to the application pertaining to the properties located at 84-86 St. George Street and 175-197 Ann Street.
+
+**✅ Motion Passed (3 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Jesse Helmer](/councillors/current/j-helmer)
+
+**Nay (1):** [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 4.1. 2nd Report of the Environmental and Ecological Planning Advisory Committee
+
+> That, the following actions be taken with respect to the 2nd Report of the Environmental and Ecological Planning Advisory Committee, from its meeting held on February 20, 2020: a)   the  Kilbourne Road Working Group comments BE FORWARDED to the Civic Administration for consideration; b)  the revi...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 4.2. 2nd Report of the Trees and Forests Advisory Committee
+
+> That, the following actions be taken with respect to the 2nd Report of the Trees and Forests Advisory Committee, from its meeting held on February 26, 2020: a)  the following actions be taken with respect to the Education and Outreach sub-committee: i) the Civic Administration BE REQUESTED to imp...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 5.1. (ADDED) 4th Report of the Advisory Committee on the Environment
+
+> That, the following actions be taken with respect to the 4th Report of the Advisory Committee on the Environment, from its meeting held on March 4, 2020: a)    the following actions be taken with respect to the attached presentations from the Council of Canadians, the Blue Community Project and A...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+

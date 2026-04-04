@@ -250,3 +250,25 @@ The Corporate Services Committee convened, In Closed Session, from 1:04 PM to 1:
 
 The meeting adjourned at 1:56 PM.
 
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2.1. 2019 Annual Report on Write-Off of Provincial Offences Act (POA) Accounts Receivable
+
+> That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the Civic Administration BE AUTHORIZED to write-off $52,411.25 in the outstanding Provincial Offences Act (POA) Accounts Receivable, in accordance with the Ministry of the Attorne...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 5.3. (ADDED) Proposed Change to Municipal Council Meeting to Adopt Budget - March 3, 2020 to March 2, 2020
+
+> That the Annual Council and Standing Committee Meeting Calendar BE AMENDED by changing the Municipal Council Meeting, currently scheduled to be held on Tuesday, March 3, 2020 at 4:00 PM, to Monday, March 2, 2020 at 4:00 PM; it being noted that the statutory advertising related to this meeting has...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

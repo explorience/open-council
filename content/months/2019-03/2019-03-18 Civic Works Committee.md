@@ -519,3 +519,56 @@ That it BE NOTED that the Deferred Matters List as amended, be received.
 
 The meeting adjourned at 1:07 pm
 
+---
+
+## Votes
+
+*5 substantive votes at this meeting (1 contested, 4 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That items 2.1 - 2.8, 2.10 - 2.13, 2.15, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.9. Blue Communities Program Feasibility
+
+> That Civic Administration Be REQUESTED to report back to Civic Works Committee with respect to the feasibility of implementing the Blue Communities Program, including the financial impacts of this implementation.
+
+**❌ Motion Failed (2 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Nay (1):** [Phil Squire](/councillors/current/p-squire)
+
+**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+
+</details>
+
+### 2.14. Appointment of Consulting Engineer for the Detailed Design & Tendering of the Churchill Avenue Infrastructure Renewal Project
+
+> That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the following actions be taken with respect to the appointment of a Consulting Engineer for the Churchill Avenue Reconstruction Project: a)         Dillon Consulting Limited BE APPOINTE...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.1. Items not to be heard before 12:10 PM and 12:15 PM - PUBLIC PARTICIPATION MEETING - Proposed Water By-law (W-8) and Wastewater & Stormwater By-law (W-28) Amendments
+
+> That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the following actions be taken with respect to the Water By-law (W-8) and the Wastewater and Stormwater By-law (WM-28): a)         the attached revised by-law BE INTRODUCED at the Munic...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.1. Stopping and Parking in Dedicated Bicycle Lanes
+
+> That the following actions be taken with respect to stopping and parking in dedicated bicycles lanes: a)         the Civic Administration BE REQUESTED to report back to the Civic Works Committee with respect to improved enforcement options related to the prohibition of stopping and parking in bic...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+

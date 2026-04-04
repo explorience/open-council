@@ -524,3 +524,34 @@ All those in favor, okay. Thank you, we're adjourned. Thank you, Chair. Thank yo
 Chair. Thank you, Chair.
 
 </details>
+
+---
+
+## Votes
+
+*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.9 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. Cosmetic Lawn Care - J. Morton
+
+> Motion to approve the delegation request from J. Morton with respect to Cosmetic Lawn Care to be heard at this meeting.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. Cosmetic Lawn Care - J. Morton
+
+> Motion to approve part b) of the clause.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

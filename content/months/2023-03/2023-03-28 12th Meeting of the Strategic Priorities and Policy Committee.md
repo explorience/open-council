@@ -460,3 +460,103 @@ The meeting adjourned at 10:09 PM.
 
 ****
 
+---
+
+## Votes
+
+*8 substantive votes at this meeting (4 contested, 4 unanimous). Procedural motions excluded.*
+
+### 1. Disclosures of Pecuniary Interest
+
+> That pursuant to section 27.6 of the Council Procedure by-law, the Committee BE PERMITTED to change the order of business to deal with Item 5.1 prior to Item 4.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 2. Consent
+
+> That Items 2.1 and 2.2, BE APPROVED
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.1. Council's Draft 2023-2027 Strategic Plan
+
+> That, the Strategic Area of Focus: Housing and Homelessness, Outcome 3, Expected Result 3.1, BE AMENDED in the 2023-2027 Strategic Plan, to add a new Draft Strategy e) "apply the equity tool considering the people experiencing mobility poverty, consistent with The London Plan". ADDITIONAL VOTES:
+
+**✅ Motion Passed (9 to 5)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 4.1. Council's Draft 2023-2027 Strategic Plan
+
+> That, the Strategic Area of Focus: Economic Growth, Culture and Prosperity, Outcome 4, Expected Result 4.3, Metric b) "sq. ft of commercial space occupied vs vacant, ground level and upper floors, BE REMOVED from the 2023-2027 Strategic Plan".
+
+**❌ Motion Failed (7 to 7) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (5):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke)
+
+**Absent (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 4.2. Consideration of Appointment to the London Police Services Board (Requires 1 Member)
+
+> That Ryan Gauss BE APPOINTED to the London Police Services Board for the term ending November 14, 2026.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 4.2. Consideration of Appointment to the London Police Services Board (Requires 1 Member)
+
+> Consideration of appointment to the London Police Services Board.
+
+**❌ Majority Winner: No majority 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (22):** [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.3. Request for a Shareholder's Meeting - London & Middlesex Community Housing
+
+> That the following actions be taken with respect to the 2022 Annual General Meeting of the Shareholder for the London & Middlesex Community Housing: a)      the 2022 Annual General Meeting of the Shareholder for the London & Middlesex Community Housing BE HELD at a meeting of the Strategic Priori...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 5.1. (ADDED) Request to Declare a State of Emergency regarding Housing
+
+> That the delegations regarding housing BE APPROVED to be heard at this time. ADDITIONAL VOTES:
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Peter Cuddy](/councillors/current/p-cuddy)
+
+</details>
+

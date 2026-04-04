@@ -605,3 +605,240 @@ Recommendation:  That the request of
 
 ****
 
+---
+
+## Votes
+
+*16 substantive votes at this meeting (16 contested, 0 unanimous). Procedural motions excluded.*
+
+### 2. 3rd Report of the
+  Community Safety and Crime Prevention Advisory Committee
+
+> 
+
+**❌  🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Bill Armstrong](/councillors/current/b-armstrong), [Joni Baechler](/councillors/current/j-l-baechler), [Judy Bryant](/councillors/current/j-p-bryant)
+
+</details>
+
+### 3. Fence By-law
+  Amendments
+
+> 
+
+**❌  🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Bill Armstrong](/councillors/current/b-armstrong), [Joni Baechler](/councillors/current/j-l-baechler), [Judy Bryant](/councillors/current/j-p-bryant)
+
+</details>
+
+### 4. Tender 13-46 Supply
+  and Installation of Playgrounds, Pathways, Parking Lots and Site Amenities in
+  City Parks
+
+> 
+
+**❌  🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Bill Armstrong](/councillors/current/b-armstrong), [Joni Baechler](/councillors/current/j-l-baechler), [Judy Bryant](/councillors/current/j-p-bryant)
+
+</details>
+
+### 5. Early Childhood
+  Educators (ECE) Labour Market Partnership (LMP) Research Project
+
+> 
+
+**❌  🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Bill Armstrong](/councillors/current/b-armstrong), [Joni Baechler](/councillors/current/j-l-baechler), [Judy Bryant](/councillors/current/j-p-bryant)
+
+</details>
+
+### 6. Homeless
+  Prevention  System for London Three-Year Implementation Plan
+
+> 
+
+**❌  🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Bill Armstrong](/councillors/current/b-armstrong), [Joni Baechler](/councillors/current/j-l-baechler), [Judy Bryant](/councillors/current/j-p-bryant)
+
+</details>
+
+### 7. Public Monument for
+  Individuals Experiencing Homelessness
+
+> 
+
+**❌  🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Bill Armstrong](/councillors/current/b-armstrong), [Joni Baechler](/councillors/current/j-l-baechler), [Judy Bryant](/councillors/current/j-p-bryant)
+
+</details>
+
+### 8. Rzone: Respect and
+  Responsibility in the City of London Recreation Program Locations, Facilities
+  and Properties
+
+> 
+
+**❌  🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Bill Armstrong](/councillors/current/b-armstrong), [Joni Baechler](/councillors/current/j-l-baechler), [Judy Bryant](/councillors/current/j-p-bryant)
+
+</details>
+
+### 9. Fire Safety Plan
+  Boxes
+
+> 
+
+**❌  🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Bill Armstrong](/councillors/current/b-armstrong), [Joni Baechler](/councillors/current/j-l-baechler), [Judy Bryant](/councillors/current/j-p-bryant)
+
+</details>
+
+### 10. Housing
+  Collaborative Initiative Service Manager Consortium Agreement: Expression of
+  Interest for the Development of an Information System for Social Housing
+  Administration
+
+> 
+
+**❌  🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Bill Armstrong](/councillors/current/b-armstrong), [Joni Baechler](/councillors/current/j-l-baechler), [Judy Bryant](/councillors/current/j-p-bryant)
+
+</details>
+
+### 11. Request for Capital
+  Funding from the Social Housing Major Repairs and Upgrades Stabilization
+  Reserve Fund for Columbus Non-Profit Housing of Strathroy Inc., 305 Oak
+  Street, Strathroy
+
+> 
+
+**❌  🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Bill Armstrong](/councillors/current/b-armstrong), [Joni Baechler](/councillors/current/j-l-baechler), [Judy Bryant](/councillors/current/j-p-bryant)
+
+</details>
+
+### 12. S. McCutcheon,
+  Access to Care Lead - Engagement of Council
+
+> 
+
+**❌  🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Bill Armstrong](/councillors/current/b-armstrong), [Joni Baechler](/councillors/current/j-l-baechler), [Judy Bryant](/councillors/current/j-p-bryant)
+
+</details>
+
+### 13. 5th Report of the
+  Animal Welfare Advisory Committee
+
+> 
+
+**❌  🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Bill Armstrong](/councillors/current/b-armstrong), [Joni Baechler](/councillors/current/j-l-baechler), [Judy Bryant](/councillors/current/j-p-bryant)
+
+</details>
+
+### 14. 2nd Report of the
+  Council Housing Leadership Committee
+
+> 
+
+**❌  🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Bill Armstrong](/councillors/current/b-armstrong), [Joni Baechler](/councillors/current/j-l-baechler), [Judy Bryant](/councillors/current/j-p-bryant)
+
+</details>
+
+### 15. 1st Report of the
+  Town and Gown Committee
+
+> 
+
+**❌  🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Bill Armstrong](/councillors/current/b-armstrong), [Joni Baechler](/councillors/current/j-l-baechler), [Judy Bryant](/councillors/current/j-p-bryant)
+
+</details>
+
+### 16. Abandoned Shopping
+  Cart By-law
+
+> 
+
+**❌ **
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher), [Joni Baechler](/councillors/current/j-l-baechler), [Judy Bryant](/councillors/current/j-p-bryant)
+
+</details>
+
+### 17. Youth Create
+  Healthy Communities, Middlesex-London Health Unit – Request for
+  Delegation Status
+
+> 
+
+**❌ **
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher), [Joni Baechler](/councillors/current/j-l-baechler), [Judy Bryant](/councillors/current/j-p-bryant)
+
+</details>
+

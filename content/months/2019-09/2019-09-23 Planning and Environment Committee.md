@@ -726,3 +726,78 @@ The meeting adjourned at 9:37 PM.
 
 ****
 
+---
+
+## Votes
+
+*8 substantive votes at this meeting (1 contested, 7 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.4, inclusive, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.1. Public Participation Meeting - Application - 585 Third Street (OZ-9028)
+
+> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application of Tricor Contracting Limited, relating to the property located at 585 Third Street: a)         the proposed by-law appended to the staff report dated September 23, 20...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.2. Public Participation Meeting - Application - 115 Bessemer Road (Z-9084)
+
+> That, on the recommendation of the Director, Development Services, with respect to the application by Barnim Property Holdings Inc., relating to the property located at 115 Bessemer Road, the proposed by-law appended to the staff report dated September 23, 2019 BE INTRODUCED at the Municipal Coun...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.4. Public Participation Meeting - Application - 3700 Colonel Talbot Road and 3645 Bostwick Road 39T-17503 (OZ-8838)
+
+> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by W-3 Lambeth Farms Inc., relating to the properties located at 3700 Colonel Talbot Road and 3645 Bostwick Road: a)         the proposed by-law appended to the staff ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.5. Public Participation Meeting - Proposed New City of London Tree Protection By-law
+
+> That, on the recommendation of the Managing Director, Environmental & Engineering Services and City Engineer, the following actions be taken with respect to the Tree Protection By-law C.P.-1515-228: a)         the public input provided at the September 23, 2019 Planning and Environment Committee ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.1. 9th Report of the London Advisory Committee on Heritage
+
+> That, the following actions be taken with respect to the 9th Report of the London Advisory Committee on Heritage, from its meeting held on September 11, 2019: a)         on the recommendation of the Managing Director, City Planning and City Planner, with the advice of the Heritage Planner, the ap...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 5.1. Deferred Matters List
+
+> That the Managing Director, Development and Compliance Services & Chief Building Official and the Managing Director, Planning and City Planner, BE DIRECTED to update the Deferred Matters List to remove any items that have been addressed by the Civic Administration.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 7. Adjournment
+
+> The meeting adjourned at 9:37 PM.
+
+**❌  🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+
+</details>
+

@@ -212,3 +212,49 @@ That Councillor M. van Holst BE APPOINTED to the Middlesex-London Food Policy Co
 
 The meeting adjourned at 5:18 PM.
 
+---
+
+## Votes
+
+*3 substantive votes at this meeting (2 contested, 1 unanimous). Procedural motions excluded.*
+
+### 4.1. Request for Third Term Appointment to the Greater London International Airport Authority Board of Directors
+
+> That Bill Graham BE APPOINTED for a third and final term to the Greater London International Airport Authority Board of Directors for the term ending July 31, 2023; it being noted that the Strategic Priorities and Policy Committee received a communication dated July 10, 2020 from Michelle T. Fays...
+
+**✅ Motion Passed (10 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire)
+
+**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.2. London Community Grants Program Allocations
+
+> That the following actions be taken with respect to the London Community Grants Program, related Council Policy and funding allocation: a)     for the Multi-Year Funding Allocation for the period 2024-2027, the Civic Administration BE DIRECTED to provide for a minimum of 25% ($500,000) of the tot...
+
+**✅ Motion Passed (11 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (1):** [Stephen Turner](/councillors/current/s-turner)
+
+**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 5.1. (ADDED) Confirmation of Appointment to the Middlesex-London Food Policy Council
+
+> That Councillor M. van Holst BE APPOINTED to the Middlesex-London Food Policy Council for the term ending November 15, 2022.
+
+**✅ Motion Passed (12 to 0)**
+
+Unanimous (10-0)
+

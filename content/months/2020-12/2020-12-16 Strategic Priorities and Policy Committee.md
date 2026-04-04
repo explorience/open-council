@@ -399,3 +399,48 @@ That the communication dated November 17, 2020 from Dr. J. Sukhera, Chair, Londo
 
 The meeting adjourned at 7:50 PM.
 
+---
+
+## Votes
+
+*4 substantive votes at this meeting (1 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2.1. Mandatory Face Coverings By-law Status Update
+
+> That the delegations, as noted on the committee agenda, BE APPROVED to be heard at this time.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 3.2. Delegation - Paul Yeoman, Chair and Rosanna Wilcox, Vice Chair, London Middlesex Community Housing Board of Directors - London and Middlesex Community Housing
+
+> That the following actions be taken with respect to the governance review of London & Middlesex Community Housing (LMCH): a)      the recommendations of the LMCH Board, as outlined in their presentation and report dated December 16, 2020, BE ENDORSED; b)      the Civic Administration BE DIRECTED ...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.1. Governance Functional Review - Housing Development Corporation, London (HDC)
+
+> That, on the recommendation of the Acting Managing Director, Housing, Social Services and Dearness Home, the Managing Director, Corporate Services and the City Treasurer, Chief Financial Officer and with the concurrence of the City Manager, that the following actions be taken with respect to the ...
+
+**✅ Motion Passed (12 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire)
+
+**Nay (1):** [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+</details>
+
+### 4.2. Diversity, Race Relations and Inclusivity Award Nominations
+
+> That the following actions be taken with respect to the 2020 Diversity, Race Relations and Inclusivity Award:    a)     Immploy BE AWARDED the 2020 Diversity, Race Relations and Inclusivity Award, in the Social/Community Services (including Not-for-Profits) (49 or fewer employees/members);    b) ...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+

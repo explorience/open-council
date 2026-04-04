@@ -431,3 +431,41 @@ The Community and Protective Services Committee convened In Closed Session from 
 
 The meeting adjourned at 8:18 PM.
 
+---
+
+## Votes
+
+*4 substantive votes at this meeting (0 contested, 4 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.7 BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 4.1. A. Valastro - Light Pollution By-law - REQUEST FOR DELEGATION STATUS
+
+> That the request for delegation from A.M. Valastro, with respect to a light pollution by-law BE APPROVED for a future meeting of the Community and Protective Services Committee; it being noted that the communications, dated December 7, 2021 and March 18, 2022, from A.M. Valastro, with respect to ...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 4.2. 2022 Rock the Park One-Time Policy Exemption Request
+
+> That the proposed by-law, as appended to the staff report, dated March 29, 2022, BE INTRODUCED at the Municipal Council meeting to be held on April 12, 2022, to amend By-law No. CPOL-142-394 being a by-law for a Council policy entitled Special Events Policies and Procedures Manual, to provide for...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 4.3. 2nd Report of the Animal Welfare Advisory Committee
+
+> That the following actions be taken with respect to the 2nd Report of the Animal Welfare Advisory Committee (AWAC), from the meeting held on March 3, 2022: a)    clause 4.2 of the above-noted AWAC Report BE DEFERRED to the April 20, 2022 meeting of the Community and Protective Services Committee ...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+

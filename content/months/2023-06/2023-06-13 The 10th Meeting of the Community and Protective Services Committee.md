@@ -611,3 +611,115 @@ Dickens uh counselor dribble just i'm just going to make a comment now thank you
 Dickens counselor purple yes i just think that by end of august is sorry by the meeting in august that would be fine thank you i'm looking for a seconder counselor stevenson and i will ask for any speakers on the speakers list to speak to this no speakers i will call the question closing the vote the motion carries four to one okay that is the last of the public session oh sorry we have uh section five deferred matters additional business five point one i'm looking for a mover and seconder to receive that uh deferred matters list so robin moving counselor stevenson seconding okay looking for speakers list speakers okay call the question closing the vote the motion carries five to zero okay and counselor stevenson is just informing that she has something for additional business so counselor stevenson thank you and i don't know if i have a seconder but i'm going to ask for one i'd like to put forward a motion that dates that none of the first five hubs will be in the core area do i have a seconder for that thing to committee for a seconder for counselor stevenson's motion also purple i'm not planning to second it right now or i'm not but uh i will wait i see what the counselor and i i know what she means and she means well and i would agree with her but i'm gonna first wait for the report from the staff and then if i feel that there are no better proposed sites then i think we can come back to it thank you thank you and i'll speak to the chair um from what i understand is negotiations or um a review of where encampments are going to be and where encampments are not going to be and it's happening right now so maybe i should go to mr dickens if you'd like to speak to that mr dickens uh thank you chair through you so as we outlined in the note to counsel uh the invite uh through counsel uh the online information page is we are asking the business community individuals of lived experience the general community neighborhood associations um to provide us criteria for which they think is important about where hubs are located so to your assumption yes that is correct that work is happening in real time to inform the plan what the plan will produce is a community informed through many different voices uh some criteria but where hubs should be located it will not come back and say the first hub is going here they'll say this is a criteria we should be using when it comes time to select where the hubs will go that will also make up part of the expression of interest to look for lead agencies to say you must follow this plan as it's been endorsed whatever that looks like by counsel that these are the criteria you use for where they go and where they don't go and then all of the service standards and the like so i think that work will happen uh down the road thank you mr dickens and i'll just ask from the chair as well if you can look into your crystal ball and maybe tell us a time frame of when we might be expecting that as mentioned chair that comes to the july sppc which is why we're moving so quickly thank you i miss that thank you mr dickens um counsel stevens thank you and i'd just like to remind too that there was a council approved poor area action plan number 69 that said there was a perceived over saturation of social services in the core that there was to be a mapping uh an investigation as to whether um that was necessary and if so how to manage that and that is a necessary part of this i'm hoping it's part of what this process is but that was already a council approved thing that was not done thank you counselor stevenson um okay we will move on to the confidential items uh so i will look for a mover to move us into in-camera counselor ramen seconder counselor stevenson hand vote okay let's do a physical vote as per the clerk closing the vote the motion carries five to zero to everyone online uh who is going to be in this in-camera session the clerk has asked for a few moments to just set up recording in progress okay we are back in public session i will look to counselor ramen to report out uh of our in-camera session counselor ramen thank you and through you presiding officer i'm happy to report the progress was made on item 6.1 and 6.2 thank you counselor ramen and that is everything on the agenda so i'm looking for a motion to adjourn counselor ramen seconded by deputy mayor i don't know if you can second this one seconded by student c or counselor stevenson all in favor to adjourn that motion is carried
 
 </details>
+
+---
+
+## Votes
+
+*10 substantive votes at this meeting (3 contested, 7 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.3 and 2.5 to 2.10 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 2.4. Delegation of Authority for Municipal Contribution Agreements for Affordable Housing
+
+> Motion to approve the delegation request, as appended to the Added Agenda, from G. Playford, with respect to this matter, to be heard at this time.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 2.4. Delegation of Authority for Municipal Contribution Agreements for Affordable Housing
+
+> Motion to approve part a) of the clause.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 2.4. Delegation of Authority for Municipal Contribution Agreements for Affordable Housing
+
+> Motion to approve part b) of the clause.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 3.1. Housekeeping Amendments - Administrative Monetary Penalty Systems and Business Licensing By-law
+
+> That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to the staff report dated June 13, 2023, related to Housekeeping Amendments to the Administrative Monetary Penalty Systems and Business Licensing By-law: a)    th...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 4.1. Occupant Noise Enforcement - Partnered Pilot Project Update
+
+> Motion to amend part c) of the staff recommendation to read: c)     the Civic Administration BE DIRECTED to bring forward as part of a multi-year budget a business case that provides funding to continue and improve the intake of the partnered Occupant Noise Enforcement program or other service im...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 4.2. Fireworks By-Law Options Report
+
+> Motion to approve parts a) and b) of the clause.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 4.2. Fireworks By-Law Options Report
+
+> Motion to approve part c) of the clause.
+
+**✅ Motion Passed (5 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (1):** [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 4.3. Encampment Response Update
+
+> That, on the recommendation of the Deputy City Manager, Social and Health Development, the following actions be taken with respect to the staff report, dated June 13, 2023, related to the Encampment Response Update: a)    the funding allocation, from the Social Services Reserve Fund, for the tota...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+**Absent (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 4.4. (ADDED) Councillor J. Pribil - Winter Response Program
+
+> That the Civic Administration BE DIRECTED to include a year over year comparison, for the past three years (2020-2021, 2021-2022, 2022-2023), on the number of bed days available/occupied, number of bed nights available/occupied, number of hours service bed facility, number of hours service non-be...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+**Absent (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+

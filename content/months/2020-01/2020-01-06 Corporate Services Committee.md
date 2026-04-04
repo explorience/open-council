@@ -165,3 +165,32 @@ The Corporate Services Committee convenes, In Closed Session, from 12:34 PM to 1
 
 The meeting adjourns at 12:46 PM.
 
+---
+
+## Votes
+
+*2 substantive votes at this meeting (1 contested, 1 unanimous). Procedural motions excluded.*
+
+### 2.1. Demolition - City-Owned Properties - 74 Wellington Road and 78 Wellington Road
+
+> That, on the recommendation of the Managing Director of Corporate Services and City Treasurer, Chief Financial Officer, with the concurrence of the Director, Rapid Transit, on the advice of the Manager of Realty Services, the following actions be taken with respect to the City-owned properties at...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. Issuance of Proclamations Policy
+
+> That the proposed by-law, as appended to the staff report dated January 6, 2020 BE INTRODUCED at the Municipal Council meeting to be held on January 14, 2020 to repeal Council Policy By-law No. CPOL.-115-367, as amended by By-law No. CPOL.115(a)-418, being "Issuance of Proclamations Policy" and r...
+
+**✅ Motion Passed (5 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Ed Holder](/councillors/current/e-holder), [Jesse Helmer](/councillors/current/j-helmer), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (1):** [Michael van Holst](/councillors/current/m-van-holst)
+
+</details>
+

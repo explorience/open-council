@@ -485,3 +485,58 @@ None.
 
 The meeting adjourned at 7:00 PM.
 
+---
+
+## Votes
+
+*5 substantive votes at this meeting (1 contested, 4 unanimous). Procedural motions excluded.*
+
+### 3.1. 7098-7118 Kilborne Road (39CD-19518)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Bluestone Properties Inc., relating to the properties located at 7098-7118 Kilbourne Road: a) the proposed by-law appended to the staff report dated October 5, ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.2. 4452 Wellington Road South (OZ-9497)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by MHBC Planning, on behalf of 2858637 Ontario Inc., relating to the property located at 4452 Wellington Road South: a) the proposed by-law appended to the staff r...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Shawn Lewis](/councillors/current/s-lewis), [Anna Hopkins](/councillors/current/a-hopkins)
+
+**Nay (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 3.3. 1033 Dundas Street (Z-9513)
+
+> That, on the recommendation of the Director, Planning & Development, based on the application by Drygas Properties Inc., relating to the property located at 1033 Dundas Street, the proposed by-law appended to the staff report dated October 5, 2022 as Appendix "A" BE INTRODUCED at the Municipal Co...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 3.4. 366 Hill Street (Z-9511)
+
+> That, on the recommendation of the Director, Planning and Development, based on the application by Drygas Properties Inc., relating to the property located at 1033 Dundas Street, the proposed by-law appended to the staff report dated October 5, 2022 as Appendix "A" BE INTRODUCED at the Municipal ...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 3.5. 1156 Dundas Street (39T-21508 / Z-9524 / O-9545)
+
+> That the following actions be taken with respect to the application by McCormick Villages Inc., relating to lands located at 1156 Dundas Street: a) the proposed by-law appended to the staff report dated October 5, 2022 as Appendix "B" BE INTRODUCED at the Municipal Council meeting to be held on O...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+

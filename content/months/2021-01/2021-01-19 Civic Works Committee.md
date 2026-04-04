@@ -364,3 +364,41 @@ That the Civic Works Committee Deferred Matters List, as at January 7, 2021, BE 
 
 The meeting adjourned at 12:44 PM.
 
+---
+
+## Votes
+
+*4 substantive votes at this meeting (0 contested, 4 unanimous). Procedural motions excluded.*
+
+### 1.2. Election of Vice Chair for the term ending November 30, 2021
+
+> That Councillor S. Turner BE ELECTED Vice-Chair of the Civic Works Committee for the term ending November 30, 2021.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2. Consent
+
+> That Items 2.1, 2.2, 2.3, 2.5, 2.6, 2.7 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.4. Ministry of Transportation Road Closures for the Highway 401/Highway 4 (Colonel Talbot Road) Interchange Improvements
+
+> That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the required municipal road closures related to the Highway 401 / Highway 4 (Colonel Talbot Road) interchange improvements and the Highway 4 and Glanworth Drive underpass bridge replace...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.8. RFP 20-72 Supply and Delivery of Medium Duty Crew Cab Trucks
+
+> That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the following actions be taken with respect to the staff report dated January 19, 2021, related to RFP20-72 for the Supply and Delivery of Medium Duty Crew Cab Trucks: a)     the submis...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

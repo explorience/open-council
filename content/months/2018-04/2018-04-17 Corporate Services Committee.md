@@ -346,3 +346,17 @@ The Corporate Services Committee convened in camera from 1:18 PM to 1:25 PM.
 
 The meeting adjourned at 1:26 PM.
 
+---
+
+## Votes
+
+*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
+
+### 4.1. Year 2018 Tax Policy
+
+> That the following actions be taken with respect to property taxation for 2018: a)         the Civic Administration BE DIRECTED to bring forward a proposed by-law for introduction and enactment at the Municipal Council meeting to be held on April 24, 2018, reflective of the Corporate Services Com...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+

@@ -2148,3 +2148,99 @@ Opposed in the vote, motion carries 13 to one. Okay, that brings us to adjournme
 All those in favor of adjournment today? No, no motion carries. We are adjourned. Happy birthday, Skylar.
 
 </details>
+
+---
+
+## Votes
+
+*10 substantive votes at this meeting (1 contested, 9 unanimous). Procedural motions excluded.*
+
+### 8.1. 4th Report of the Civic Works Committee
+
+> That the 4th Report of the Civic Works Committee, excluding items 5 (2.4) and 11 (3.1), BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 8.1.5. (2.4) Results of the 2022 Bike Share Request for Proposal Process and Next Steps
+
+> Motion to approve part b) b)    the Civic Administration BE DIRECTED to develop a micromobility services business case, including bike share services, for inclusion in the 2024-2027 Multi-Year Budget process;
+
+**✅ Motion Passed (8 to 6) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+</details>
+
+### 8.1.11. (3.1) J. Preston - London Transit Commission Specialized Transit for Disabled Londoners
+
+> That item 11, clause 3.1, BE AMENDED by adding a new part d), as follows: “d)   enhance customer feedback mechanisms by tasking a third party to complete research and reports that are compliant with peer-reviewed research methodology and AODA, by 2023/2024.”
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 8.1.11. (3.1) J. Preston - London Transit Commission Specialized Transit for Disabled Londoners
+
+> That item 11, clause 3.1, as amended, BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 8.2. 10th Report of the Strategic Priorities and Policy Committee
+
+> That the 10th Report of the Strategic Priorities and Policy Committee, BE APPROVED, excluding item 2 (2.1).
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 8.3. 4th Report of the Planning and Environment Committee
+
+> That the 4th Report of the Planning and Environment Committee, BE APPROVED, it being noted that any and all written submissions relating to application(s) that were made to the Planner on file, the Planning and Environment Committee and to the Municipal Council, as well as oral submissions made a...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 8.4. 4th Report of the Corporate Services Committee
+
+> That the 4th Report of the Corporate Services Committee, BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 8.5. 4th Report of the Community and Protective Services Committee
+
+> That the 4th Report of the Community and Protective Services Committee, BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 8.6. 1st Report of the Audit Committee
+
+> That the 1st Report of the Audit Committee, BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 9.2. 5th Meeting of the Corporate Services Committee
+
+> That the 5th Report of the Corporate Services Committee, BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+

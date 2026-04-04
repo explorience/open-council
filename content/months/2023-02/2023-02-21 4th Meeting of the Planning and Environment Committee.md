@@ -907,3 +907,58 @@ I really do appreciate, he's very frank sometimes, and I do agree, we have a num
 Thank you, we have no deferred matters or additional business, and I'll look for a motion for adjournment. Councillor Frank, second. All right, Councillor Lewis, hand vote, on favor. Thank you, adjourned, thanks folks.
 
 </details>
+
+---
+
+## Votes
+
+*6 substantive votes at this meeting (0 contested, 6 unanimous). Procedural motions excluded.*
+
+### 2.8. 864 Hellmuth Avenue - Heritage Alteration Permit Application (HAP22-081-L)
+
+> That the application under Section 42 of the Ontario Heritage Act seeking approval to pave a portion of the front yard for parking on the heritage designated property at 864 Hellmuth Avenue, within the Bishop Hellmuth Heritage Conservation District, BE REFERRED back to the Civic Administration to...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.8. 864 Hellmuth Avenue - Heritage Alteration Permit Application (HAP22-081-L)
+
+> That P. McCulloch-Squires BE GRANTED delegation status with respect to the property located at 864 Hellmuth Avenue.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.1. 1930-1940 Oxford Street East (Z-9571)
+
+> That, on the recommendation of the Director, Planning and Development, based on the application by Oxford Seven Inc., relating to the property located at 1930-1940 Oxford Street East, the proposed by-law appended to the staff report dated February 21, 2023 as Appendix "A" BE INTRODUCED at the Mun...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.1. Arva Sanitary Servicing Agreement
+
+> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, and the Deputy City Manager, Planning and Economic Development, regarding the request by the Municipality of Middlesex Centre for an amendment to the servicing agreement between the Municipality and the City o...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.2. Hyde Park Business Improvement Association - Community Improvement Plans
+
+> That the communication dated January 31, 2023 from the Hyde Park Business Improvement Association, BE REFERRED to the Community Improvement Plan (CIP) And Financial Incentives Program 5-Year Review being undertaken by Civic Administration, to assess the feasibility of the Hyde Park Hamlet as a ca...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.2. Hyde Park Business Improvement Association - Community Improvement Plans
+
+> The request for delegation status by D. Szpakowski, Hyde Park Business Improvement Association, BE GRANTED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+

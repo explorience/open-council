@@ -231,3 +231,51 @@ The Strategic Priorities and Policy Committee convenes, In Closed Session, from 
 
 The meeting adjourned at 9:14 PM.
 
+---
+
+## Votes
+
+*3 substantive votes at this meeting (2 contested, 1 unanimous). Procedural motions excluded.*
+
+### 4.1. Additional Legislated Measures to Reduce the Risk of Further COVID-19 Infections in the City of London
+
+> That the draft by-law BE AMENDED in section 25 by adding the following after "until December 31, 2020", "or until such time as the regulation O. Reg 364/20: Rules for Areas in Stage 3, made under the  Emergency Management and Civil Protection Act, R.S.O. 1990, c. E.9. is revoked."
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (1):** [Jesse Helmer](/councillors/current/j-helmer)
+
+**Absent (1):** [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 4.1. Additional Legislated Measures to Reduce the Risk of Further COVID-19 Infections in the City of London
+
+> That, on the recommendation of the City Manager, with the concurrence of the Medical Officer of Health, Middlesex-London, the revised attached by-law BE INTRODUCED at the Municipal Council meeting to be held on July 21, 2020, to temporarily require the use of face coverings within enclosed public...
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (1):** [Michael van Holst](/councillors/current/m-van-holst)
+
+**Absent (1):** [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 4.1. Additional Legislated Measures to Reduce the Risk of Further COVID-19 Infections in the City of London
+
+> That the Civic Administration, in conjunction with appropriate stakeholders, BE DIRECTED to report back to the Strategic Priorities and Policy Committee in sixty-day increments, with respect to the proposed by-law related to mandatory face covering.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+

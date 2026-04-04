@@ -449,3 +449,73 @@ The Community and Protective Services Committee convened in camera from 1:04 P
 
 The meeting adjourned at 1:17 PM.
 
+---
+
+## Votes
+
+*8 substantive votes at this meeting (0 contested, 8 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.2, 2.3, 2.6 and 2.7, BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 2.5. 5th Report of the Community Safety and Crime Prevention Advisory Committee
+
+> That the following actions be taken with respect to the 5th Report of the Community Safety and Crime Prevention Advisory Committee, from its meeting held on June 28, 2018: a)            the request for a report and draft by-law to the appropriate standing committee, to provide for the requirement...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.1. By-law Amendments to the Sound By-law, PW-12 and to the Public Nuisance By-law, PH-18, Public Messaging in the Community - Nuisances
+
+> That, on the recommendation of the Managing Director, Development and Compliance Services and Chief Building Official, the following actions be taken to amend various City of London by-law: a)            the proposed by-law, appended to the staff report July 16, 2018, BE INTRODUCED at the Municip...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 4.1. Neighbourhood Equipment Access
+
+> That the Civic Administration BE REQUESTED to review the Neighbourhood Event Equipment Lending Program and report back to the Community and Protective Services Committee with respect to adding church groups to the list of organizations available to request use of City of London equipment to host ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.2. 6th Report of the Accessibility Advisory Committee
+
+> That the following actions be taken with respect to the 6th Report of the Accessibility Advisory Committee, from its meeting held on June 28, 2018: a)            a representative from Parks and Recreation BE REQUESTED to attend a future meeting of the Accessibility Advisory Committee to update th...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 5.1. Middlesex-London Health Unit Office Space Fit-up Funding Request - RESUBMITTED
+
+> That the Civic Administration BE DIRECTED to negotiate terms of financing with the Middlesex-London Health Unit (MLHU) for the fit-up costs of MLHU’s new office space, and that an appropriate agreement outlining the terms of the financing be brought forward for Municipal Council’s consideration.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 5.2. Municipal Council Resolution regarding the 5th Report of Accessibility Advisory Committee
+
+> That the Civic Administration BE DIRECTED to review the “Green Standards for Light Pollution and Bird-Friendly Development” document from the Environmental and Ecological Planning Advisory Committee and report back to a future meeting of the Accessibility Advisory Committee with respect to how th...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 5.4. (ADDED) Request from City of Toronto regarding Shelter Spaces for Refugee/Asylum Claimants
+
+> That the Civic Administration BE DIRECTED to share the communication, dated June 29, 2018, from G. Carbone, Interim City Manager, City of Toronto, with respect to a request regarding shelter spaces for refugee/asylum claimants, with other communities and community organizations in order to acquir...
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (1-0)
+

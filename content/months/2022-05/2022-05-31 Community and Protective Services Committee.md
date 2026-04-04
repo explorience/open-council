@@ -469,3 +469,57 @@ None.
 
 The meeting adjourned at 5:29 PM.
 
+---
+
+## Votes
+
+*6 substantive votes at this meeting (0 contested, 6 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.5, 2.7, 2.8, 2.10 and 2.11 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.9. Housing Stability for All Plan 2021 Update
+
+> That, on the recommendation of the Deputy City Manager, Planning and Economic Development, and with the concurrence of the Deputy City Manager, Social and Health Development, the following actions be taken with respect to the staff report, dated May 31, 2022, related to a Housing Stability for Al...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.2. D. Devine - Affordable Housing Community Improvement Plan  - REQUEST FOR DELEGATION STATUS
+
+> Motion to approve the request for delegation status from D. Devine to be heard at this meeting.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.3. Short-term Accommodations - Proposed Amendments
+
+> That on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to the staff report dated May 31, 2022 related to Short-term Accommodations – licensing and regulations: a)    the proposed by-law, as appended to the above-noted ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.4. Deputy Mayor J. Morgan - Supporting More Licensed Childcare Spaces
+
+> That the Civic Administration BE DIRECTED to provide a report related to options to increase the accessibility and number of licensed child care spaces as part of the implementation of the Canada-Wide Early Learning and Child Care Agreement, to the appropriate standing committee; it being noted t...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.5. Deputy Mayor J. Morgan - Pandemic-Related Outdoor Patio Rules
+
+> The Civic Administration BE DIRECTED to review the temporary pandemic-related flexibility in business by-law regulations and report back to the appropriate standing committee on which provisions Municipal Council could consider making permanent; it being noted that the Civic Administration alread...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

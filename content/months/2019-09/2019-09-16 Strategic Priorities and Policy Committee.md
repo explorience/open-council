@@ -239,3 +239,25 @@ The meeting adjourned at 6:43 PM.
 
 ****
 
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 4.1. City of London Housing Service Review: Proposed Action Plan
+
+> That Civic Administration BE DIRECTED to report back to Corporate Services Committee on the feasibility of using the same approach taken for affordable housing to reduce the effective tax rate for London Middlesex Community Housing (LMCH) buildings to be equivalent to the residential tax rate, in...
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (11-0)
+
+### 6. Adjournment
+
+> Motion to adjourn.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (11-0)
+

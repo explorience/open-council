@@ -352,3 +352,25 @@ The meeting adjourned at 12:51 PM.
 
 ****
 
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.11, excluding 2.5, BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.5. Appointment for Consulting Engineer and Drainage Superintendent By-Law Update Under the Drainage Act
+
+> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report dated July 26, 2022, related to the appointment of consulting services and the appointment of a Drainage Superintendent pursuant to the Drainage ...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

@@ -526,3 +526,65 @@ g)  clauses 1.1 and 2.1 and 3.1 to 3.3, inclusive, BE RECEIVED for information.
 
 The meeting adjourned at 4:51 PM.
 
+---
+
+## Votes
+
+*7 substantive votes at this meeting (0 contested, 7 unanimous). Procedural motions excluded.*
+
+### 1.2. Election of Vice Chair for the term ending November 30, 2021
+
+> That Councillor Hopkins BE ELECTED as Vice Chair of the Planning and Environment Committee for the term ending November 30, 2021.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2. Consent
+
+> That Items 2.1 to 2.6, inclusive, BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.1. Application - Draft Plan of Vacant Land Condominium - 3542 Emilycarr Lane 39CD-19516
+
+> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by Goldfield Ltd., relating to the property located at 3542 Emilycarr Lane: a)   the Approval Authority BE ADVISED that no issues were raised at the public meeting wit...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.2. Application - 260 Sarnia Road (Z-9246)
+
+> That, on the recommendation of the Director, Development Services, based on the application by Shana’a Holdings Inc., relating to the property located at 260 Sarnia Road, the proposed by-law appended to the staff report dated December 14, 2020 BE INTRODUCED at the Municipal Council meeting to be ...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.3. Application - Applewood Subdivision - 660 Sunningdale Road East - Application for Zoning By-law Amendment - Request for Revisions to Draft Plan Subdivision 39T-09501 (Z-9243)
+
+> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by Auburn Developments Ltd., relating to portions of the lands located at 660 Sunningdale Road East: a) the proposed by-law appended to the staff report dated December...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 5.1. Deferred Matters List
+
+> That the Director, City Planning and City Planner and the Managing Director, Development and Compliance Services & Chief Building Official BE DIRECTED to update the Deferred Matters List to remove any items that have been addressed by the Civic Administration.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 5.2. (ADDED) 1st Report of the London Advisory Committee on Heritage
+
+> That the following actions be taken with respect to the 1st Report of the London Advisory Committee on Heritage, from its meeting held on December 9, 2020: a) on the recommendation of the Director, City Planning and City Planner, with the advice of the Heritage Planner, with respect to the herita...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

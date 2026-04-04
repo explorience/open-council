@@ -875,3 +875,66 @@ And I just want to, working with councillor Frank too, I know she's been watchin
 Thank you, that moved us into deferred matters and additional business, I haven't been made aware of any, but checking to see if there is any. Okay, seeing none, that would move us into an adjournment, which I would need a mover and a seconder, moved by councillor Stevenson, seconded by councillor Pribble, hand vote of all in favour of adjournment. I was told yes, that counts. So thank you and have a wonderful day, and we'll see you again soon.
 
 </details>
+
+---
+
+## Votes
+
+*7 substantive votes at this meeting (0 contested, 7 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.2, 2.3, 2.5 and 2.7 to 2.9 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.4. Unity Project Relocation Capital Support Contract Amendment
+
+> That, on the recommendation of the Deputy City Manager, Social and Health Development, the following actions be taken with respect the staff report, dated March 21, 2023, related to the Unity Project Relocation Capital Support Contract Amendment: a)    a one-time contract amendment, as per The Co...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.4. Unity Project Relocation Capital Support Contract Amendment
+
+> Motion to approve the delegation request by C. Lazenby, Unity Project, to be heard at this meeting.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.6. Infrastructure Update - Thames Outdoor Pool
+
+> That the Civic Administration BE DIRECTED to do the following with respect to the Thames Outdoor Pool Infrastructure Update: a)    provide a report by the end of June 2023 to the Community and Protective Services Committee (CPSC) to identify options and associated costs to re-open the Thames Pool...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.6. Infrastructure Update - Thames Outdoor Pool
+
+> Motion to approve the delegation request by C. Smith to be heard at this meeting.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. REQUEST FOR DELEGATION STATUS - J. Salisbury - Subsidized Bus Pass Program
+
+> Motion to approve the request for delegation by J. Salisbury to be heard at this meeting.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.2. Mayor J. Morgan, Councillors A. Hopkins and S. Franke - Support for Resolutions to End Homelessness from OBCM (Ontario's Big City Mayors) and AMO (Association of Municipalities Ontario)
+
+> That the Mayor BE DIRECTED to call upon the Provincial Government to urgently: a)    acknowledge that homelessness in Ontario is a social, economic and health crisis; b)    commit to ending homelessness in Ontario; and, c)    work with the Association of Municipalities Ontario (AMO) and a broad r...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

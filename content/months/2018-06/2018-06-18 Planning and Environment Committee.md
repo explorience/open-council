@@ -1059,3 +1059,145 @@ The Planning and Environment Committee convened in Committee, In Closed Session,
 
 The meeting adjourned at 10:34 PM
 
+---
+
+## Votes
+
+*15 substantive votes at this meeting (2 contested, 13 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.3, 2.4, 2.8 to 2.10, inclusive, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.2. Hamilton Road Area CIP Forgivable Loan Program
+
+> That, on the recommendation of the Managing Director, Planning and City Planner, with respect to the Hamilton Road Area Community Improvement Plan Forgivable Loan Program, the proposed by-law appended to the staff report dated June 18, 2018 BE INTRODUCED at the Municipal Council meeting to be hel...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+**Nay (1):** [Stephen Turner](/councillors/current/s-turner)
+
+**Absent (1):** [Matt Brown](/councillors/current/m-brown)
+
+</details>
+
+### 2.5. Capital Works Budget Cost Sharing for 164 Sherwood Forest Square
+
+> That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the attached, revised, Source of Financing Report BE APPROVED with respect to the site plan development agreement between The Corporation of the City of London and Futurelands Ltd...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.6. Application - 1900 Kilgorman Way (H-8854)
+
+> That, on the recommendation of the Senior Planner, Development Services, based on the application by Harasym Homes Inc., relating to the lands located at 1900 Kilgorman Way, comprising Lot 9 Registered Plan No. 33M-682, the request to amend Zoning By-law Z.-1 to change the zoning of the lands FRO...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.6. Application - 1900 Kilgorman Way (H-8854)
+
+> Motion to approve the delegation request.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.1. S. Ratz, Chair, Advisory Committee on the Environment - 7th Report of the Advisory Committee on the Environment
+
+> That, the following actions be taken with respect to the 7th Report of the Advisory Committee on the Environment from its meeting held on June 6, 2018: a)           the Managing Director, Environmental and Engineering Services & City Engineer BE REQUESTED to review the presentation appended to th...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.2. Public Participation Meeting - Demolition Request for Heritage Listed Property - 2154 Richmond Street
+
+> That, on the recommendation of the Managing Director, Planning and City Planner, with the advice of the Heritage Planner, the following actions be taken with respect to the request for the demolition of the heritage listed property located at 2154 Richmond Street: a)         the Chief Building Of...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.3. Public Participation Meeting - Parkland Dedication By-law CP-9 Update
+
+> That, on the recommendation of the Managing Director, Planning and City Planner, the following actions be taken as a result of the Parkland Dedication Requirements, Policies and Procedures Review: a)            the proposed attached, revised, by-law BE INTRODUCED at the Municipal Council meeting ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.4. Public Participation Meeting - Application - 335-385 and 340-390 Saskatoon Street (OZ-8883)
+
+> That, on the recommendation of the Managing Director, Planning and City Planner, the following actions be taken with respect to the application of 1616958 Ontario Inc., relating to the properties located at 335-385 and 340-390 Saskatoon Street: a)            the proposed by-law appended to the st...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.6. Public Participation Meeting - Application - 1738, 1742, 1752 and 1756 Hamilton Road (39T-17502/OZ-8147)
+
+> That, on the recommendation of the Senior Planner, Development Services, the following actions be taken with respect to the application of Thames Village Joint Venture Corporation, relating to the properties located at 1738, 1742, 1752 and 1756 Hamilton Road: a)         the proposed by-law append...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.8. Public Participation Meeting - Application - 420 Fanshawe Park Road East (SPA18-024)
+
+> That, on the recommendation of the Manger, Development Planning, the following actions be taken with respect to the application of Westdell Development Corporation, relating to the property located at 420 Fanshawe Park Road East: a)             the Approval Authority BE ADVISED that the following...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.2. The Dundas Place Manager Purchase of Service Agreement
+
+> That, on the recommendation of the Managing Director, Planning and City Planner, the following actions be taken with respect to the Dundas Place Manager Purchase of Service Agreement: a)    the proposed by-law appended to the staff report dated June 18, 2018 BE INTRODUCED at the Municipal Council...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.3. Subdivision Application Procedure - 3080 Bostwick Road; 3700 Colonel Talbot Road and 3645 Bostwick Road
+
+> Motion to part a) which reads as follows: "a)  the Civic Administration BE AUTHORIZED to accept and process applications by York Developments for the properties located at 3080 Bostwick Road, 3700 Colonel Talbot Road and 3645 Bostwick Road; it being noted that these applications may require amend...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.3. Subdivision Application Procedure - 3080 Bostwick Road; 3700 Colonel Talbot Road and 3645 Bostwick Road
+
+> 
+
+**✅ Motion Passed (3 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Anna Hopkins](/councillors/current/a-hopkins)
+
+**Absent (1):** [Matt Brown](/councillors/current/m-brown)
+
+</details>
+
+### 5.1. (ADDED) 7th Report of the London Advisory Committee on Heritage
+
+> That, the following actions be taken with respect to the 7th Report of the London Advisory Committee on Heritage from its meeting held on June 13, 2018: a)         on the recommendation of the Managing Director, Planning & City Planner, with the advice of the Heritage Planner, the following actio...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+

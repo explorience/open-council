@@ -317,3 +317,33 @@ That it BE NOTED that the Civic Works Committee received an update from the Civi
 
 The meeting adjourned at 1:47 PM.
 
+---
+
+## Votes
+
+*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That items 2.1 to 2.3 and 2.5 to 2.8 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.4. Contract Award: RFT20-31 2020 Infrastructure Renewal Program Contract 7 - Devonshire Phase 2
+
+> That part a) above BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.4. Contract Award: RFT20-31 2020 Infrastructure Renewal Program Contract 7 - Devonshire Phase 2
+
+> That part b) above BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

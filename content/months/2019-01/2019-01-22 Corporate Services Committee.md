@@ -352,3 +352,46 @@ The Corporate Services Committee convenes, In Closed Session from 1:32 PM to 2:2
 
 The meeting adjourned at 2:27 PM.
 
+---
+
+## Votes
+
+*4 substantive votes at this meeting (1 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2.2. Authorization for Temporary Borrowing
+
+> That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the proposed by-law appended to the staff report dated January 22, 2019 as Appendix “A” BE INTRODUCED at the Municipal Council meeting on January 29, 2019, to authorize the tempor...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.3. Declare Surplus - City-Owned Land Abutting 891 and 893 Adelaide Street North
+
+> That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, on the advice of the Manager of Realty Services, with respect to the City-owned land on Adelaide Street North, described as Part of Lots 8, 9, and 10 Registered Plan 256(E) design...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. Consideration of Appointments to the Accessibility Advisory Committee (Requires 1 Voting Person with a Disability and 3 Voting Members at Large)
+
+> That the following BE APPOINTED as Voting Members to the Accessibility Advisory Committee for the term ending May 31, 2019:    Guy Ashford-Smith (Person with a Disability)  Ayo Abiola (Member at Large)  Derek Smith (Member at Large)  Jeanette Wilson (Member at Large)
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 5.2. Consideration of Appointments to the London Council for Adult Education
+
+> That D. Vanden Booman BE APPOINTED to the London Council for Adult Education, for the term December 1, 2018 to November 15, 2022, based on the interviews conducted by the Corporate Services Committee on January 22, 2019, and the attached ranked ballot.
+
+**✅ Motion Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (4):** [Josh Morgan](/councillors/current/j-morgan), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Jesse Helmer](/councillors/current/j-helmer), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+</details>
+

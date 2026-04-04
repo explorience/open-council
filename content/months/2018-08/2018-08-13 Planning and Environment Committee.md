@@ -893,3 +893,102 @@ A matter pertaining to advice that is subject to solicitor-client privilege, in
 
 The meeting adjourned at 7:51 PM.
 
+---
+
+## Votes
+
+*11 substantive votes at this meeting (1 contested, 10 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.3, inclusive and 2.5 to 2.8, inclusive and 2.10 to 2.15, inclusive, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.4. Application - 1631-1649 Richmond Street
+
+> That, the Civic Administration BE AUTHORIZED to accept and process Zoning By-law Amendment and Official Plan Amendment applications submitted by Zelinka Priamo Ltd., for the properties located at 1631 to 1649 Richmond Street; it being noted that the Planning and Environment Committee heard a verb...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.4. Application - 1631-1649 Richmond Street
+
+> That H. Froussios, Zelinka Priamo Ltd., BE GRANTED delegation status with respect to this matter.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.9. Application - 2427 Daisy Bend and 3025 Doyle Drive - Removal of Holding Provisions (H-8907)
+
+> That, on the recommendation of the Senior Planner, Development Services, based on the application by Sifton Properties Limited, relating to lands located at 2427 Daisy Bend and 3025 Doyle Drive, the proposed by-law appended to the staff report dated August 13, 2018 as Appendix “A”BE INTRODUCED at...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.1. Delegation - L. Kirkness, Kirkness Consulting Inc. - Application - 2156 Highbury Avenue North
+
+> That, the Civic Administration BE AUTHORIZED to accept and process Zoning By-law Amendment and Official Plan Amendment applications by Chinmaya Mission (Canada), for the property located at 2156 Highbury Avenue North, to add a Neighbourhood Facility zone to the subject property in order to permit...
+
+**✅ Motion Passed (3 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Maureen Cassidy](/councillors/current/m-cassidy)
+
+</details>
+
+### 3.2. Delegation - C. Linton, Developro - Capital Works Claim - Riverbend Meadows Phase 3 (33M-654)
+
+> That, on the recommendation of the Director, Development Services, the request for additional payment on the Capital Works Budget claim under 33M-654 Riverbend Meadows Phase 3 BE DISMISSED and no further action BE TAKEN as the original claim amount has been paid out in accordance with the Subdivi...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.4. Public Participation Meeting - 391 South Street (Z-8803)
+
+> That, on the recommendation of the Managing Director, Planning and City Planner, with respect to the application by The Corporation of the City of London, relating to the property located at 391 South Street, the proposed by-law appended to the staff report dated August 13, 2018 as Appendix "A" B...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 3.5. Public Participation Meeting - 2427 Daisy Bend and 3025 Doyle (39CD-18509)
+
+> That, on the recommendation of the Senior Planner, Development Services, the following actions be taken with respect to the application of Sifton Properties Limited, relating to the lands located at 2427 Daisy Bend and 3025 Doyle Drive: a)            the Approval Authority BE ADVISED that the fol...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.6. Public Participation Meeting - 1146-1156 Byron Baseline Road (Z-8847)
+
+> That, on the recommendation of the Managing Director, Planning and City Planner, the following actions be taken with respect to the application of 2186121 Ontario Inc., relating to the properties located at 1146-1156 Byron Baseline Road: a)            the Local Planning Appeal Tribunal BE ADVISED...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.1. 7th Report of the Trees and Forests Advisory Committee
+
+> That, the following actions be taken with respect to the 7th Report of the Trees and Forests Advisory Committee from its meeting held on July 25, 2018: a)            the Civic Administration BE ADVISED of the following comments from the Trees and Forests Advisory Committee with respect to the Par...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.2. 8th Report of the Environmental and Ecological Planning Advisory Committee
+
+> That, the following actions be taken with respect to the 8th Report of the Environmental and Ecological Planning Advisory Committee, from its meeting held on July 19, 2018: a)            the Working Group comments appended to the 8th Report of the Environmental and Ecological Planning Advisory Co...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+

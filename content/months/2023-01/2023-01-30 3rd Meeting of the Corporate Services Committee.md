@@ -286,3 +286,32 @@ The meeting adjourned at 1:33 PM.
 
 ****
 
+---
+
+## Votes
+
+*2 substantive votes at this meeting (1 contested, 1 unanimous). Procedural motions excluded.*
+
+### 2.4. Declare Surplus - City-Owned Property - Part of 641 Queens Avenue
+
+> That the matter of the declaration of the property located at Part of 641 Queens Avenue as surplus, BE REFERRED back to the Civic Administration in order to provide notice to agencies within the City that have not been notified about the potential disposition, with a report back to a future meeti...
+
+**✅ Motion Passed (3 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 4. Items for Direction
+
+> That Items 4.1 and 4.2 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+

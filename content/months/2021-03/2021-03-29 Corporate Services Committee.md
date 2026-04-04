@@ -291,3 +291,56 @@ The meeting adjourned at 1:16 PM.
 
 ****
 
+---
+
+## Votes
+
+*5 substantive votes at this meeting (1 contested, 4 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That items 2.1 and 2.2 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.1. Request for Delegation Status - Public Notice Policy - AnnaMaria Valastro
+
+> That the Civic Administration BE DIRECTED to report back, as a part of the scheduled Council Policy review, with respect to the addition of a notice provision related to the establishment of city-management of newly created private parking lots in the Public Notice Policy; it being noted that the...
+
+**✅ Motion Passed (5 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/current/e-holder), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 4.1. Request for Delegation Status - Public Notice Policy - AnnaMaria Valastro
+
+> Motion to Approve the delegation request to be heard at this time.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.2. Application – Issuance of Proclamation – Guillain-Barré Syndrome (GBS) and Chronic Inflammatory
+
+> That Items 4.2 to 4.4 BE APPROVED. 4.2 Application – Issuance of Proclamation – Guillain-Barré Syndrome (GBS) and Chronic Inflammatory     That based on the application dated March 1, 2021, from GBS-CIDP Foundation of Canada, the month of May, 2021 BE PROCLAIMED Guillain-Barré Syndrome (GBS) and ...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.5. Application - Issuance of Proclamation - World Press Freedom Day 2021
+
+> That the following actions be taken with respect to World Press Freedom Day:    a)      based on the application dated March 17, 2021, from ink-stainedwretches.org, May 3, 2021 BE PROCLAIMED World Press Freedom Day;     b)      the London City Council RECOGNIZE that a healthy, professional news m...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

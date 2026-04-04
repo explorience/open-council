@@ -2608,3 +2608,139 @@ I'm saying the vote, the motion carries 4-0. Thank you, so that leaves the Germa
 Thank you, Moshe, or adjourned. Just before.
 
 </details>
+
+---
+
+## Votes
+
+*15 substantive votes at this meeting (1 contested, 14 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.3, BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 3.1. 1st Report of the Community Advisory Committee on Planning
+
+> That the 1st Report of the Community Advisory Committee on Planning, from its meeting held on January 15, 2026, was received; it being noted that the verbal delegation from J. M. Metrailler, Chair, Community Advisory Committee on Planning, with respect to this matter, was received.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 3.2. 233 Cambridge Street - Z-25155
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Distinctive Homes London Ltd. (c/o Zelinka Priamo Ltd.) relating to the property located at 233 Cambridge Street, the proposed by-law as appended to the staff r...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 3.3. 644 - 664 Southdale Road East and 821 Nadine Avenue - Z-25153
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Southside Construction Management Limited, relating to the property located at 644-664 Southdale Road East and 821 Nadine Avenue: a)    consistent with Policy 4...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 3.4. 767 Fanshawe Park Road East and 679 Dunboyne Crescent - Z-25151
+
+> Notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Northbound Development Corporation relating to the property located at 767 Fanshawe Park Road East & 679 Dunboyne Crescent: a)    the proposed attached b...
+
+**✅ Motion Passed (3 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman)
+
+**Nay (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
+
+### 3.5. 3334-3354 Wonderland Road South - OZ-25140
+
+> Notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 111473 Ontario Limited (c/o MHBC Planning) relating to the property located at 3334 & 3354 Wonderland Road South: a)    the proposed attached by-law BE I...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 3.6. 965 Adelaide Street South - Z-35144
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of God's Favourite House Canada (c/o Siv-ik Planning & Design) relating to the property located at 965 Adelaide Street South, the proposed by-law as appended to th...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 3.7. 68-76 Commissioners Road East - 25147
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Faith Quais (c/o Monteith Brown Planning Consultants) relating to the property located at 68-76 Commissioners Road East: a)    the proposed by-law as appended t...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 3.8. 80 Commissioners Rd East - Z-25146
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Utopia Homes Inc. (c/o Monteith Brown Planning Consultants) relating to the property located at 80 Commissioners Road East: a)    the proposed by-law as appende...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 3.9. 610 Princess Avenue - Z-25154
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Iron Door Properties c/o Siv-ik Planning & Design Inc. relating to the property located at 610 Princess Avenue, the proposed by-law as appended to the staff rep...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 3.10. 732 Wellington Street and 282 Piccadilly Street - Z-25148
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 732 Wellington Street Inc. & London Bridge Childcare Services relating to the properties located at 732 Wellington Street and 282 Piccadilly Street, the propose...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 3.11. 5150 Wellington Road South - OZ-25135
+
+> Notwithstanding the staff recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Roman Catholic Episcopal Corporation of the Diocese of London in Ontario relating to the property located at 5150 Wellington Road South:    a)     ...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 3.12. 3680 Wonderland Road - OZ-25128
+
+> That pursuant to section 33.8 of the Council Procedure by-law, the Committee BE PERMITTED to proceed beyond 6:00 PM.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 3.12. 3680 Wonderland Road - OZ-25128
+
+> Notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 1001320818 Ontario Inc. (c/o Miami Developments) relating to the property located at 3680 Wonderland Road South: a)    the proposed attached by-law BE AP...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. Councillor E. Peloza - Brownfield Community Improvement Plan Update Request
+
+> That the Civic Administration BE DIRECTED to report back to a future meeting of the Planning and Environment Committee in Q2 2026 with a list of current Brownfield CIP approvals including the municipal funding allocation, project status updates for each site, and recommendations for any inactive ...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+

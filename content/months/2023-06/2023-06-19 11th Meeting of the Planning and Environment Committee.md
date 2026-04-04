@@ -1738,3 +1738,84 @@ Thank you, folks. Interesting items today. I need a motion to conclude today's c
 Thank you, we are adjourned. Too many mistakes. Thank you.
 
 </details>
+
+---
+
+## Votes
+
+*7 substantive votes at this meeting (2 contested, 5 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.2, 2.4 and 2.5 BE APPROVED
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.3. Request for Heritage Designation - 599-601 Richmond Street
+
+> Motion to approve the staff recommendation, which reads as follows: "That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the designation of the property at 599-601 Richmond Street: a)    Notice BE GIVEN under the provisions of Sect...
+
+**❌ Motion Failed (2 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke)
+
+**Nay (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 3.1. 568 Second Street Zoning By-law Amendment (Z-9522)
+
+> That, notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Parkit Enterprises relating to the property located at 568 Second Street: a)    the revised, attached, proposed by-law as Appendix "A" BE INTRODUCE...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.2. 1176, 1180, 1182 and 1186 Huron Street and 294 Briarhill Avenue Official Plan and Zoning By-law Amendment (OZ-9596)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by 2864876 Ontario Inc., relating to the properties located at 1176, 1180, 1182 and 1186 Huron Street & 294 Briarhill Avenue: a)    the proposed by-law appended to...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.3. 954 Gainsborough Road - Draft Plan of Subdivision and Zoning By-law Amendment (OZ-9502)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Royal Premier Homes, relating to the property located at 954 Gainsborough Road: a)    the request to amend Zoning By-law No. Z.-1 to change the zoning of the su...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.4. 755, 785 & 815 Wonderland Road South (OZ-9565)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by 785 Wonderland Road Inc., relating to the property located at 755, 785 and 815 Wonderland Road South: a)    Municipal Council supports refusal of the request to...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 5.1. (ADDED) Not to be Heard before 4:00 PM - Delegation - S. Bergman, Chair, Community Advisory Committee on Planning - 7th Report of the Community Advisory Committee on Planning
+
+> That, the following actions be taken with respect to the 7th Report of the Community Advisory Committee on Planning, from its meeting held on June 14, 2023:     a)    the communication, from B. Boughner, London Majors Alumni Association, as appended to the June 14, 2023 Community Advisory Committ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

@@ -2423,3 +2423,224 @@ I vote yes, vote yes. Councillor van Merebergen. Councillor van Merebergen, mark
 Thank you, I'll see you here at 9.30 to continue with item 3.11.
 
 </details>
+
+---
+
+## Votes
+
+*16 substantive votes at this meeting (12 contested, 4 unanimous). Procedural motions excluded.*
+
+### 3.2. Amendment - Budget Case #P-31 - Councillor and Budget Chair E. Peloza and Councillor S. Franke
+
+> That the motion be amended by adding another part to read as follows: That the budget impact to this Business Case P-31 - Parks Operations Service Delivery Enhancements BE OFFSET by a reduction in the annual contribution to the Climate Change Reserve Fund.
+
+**✅ Motion Passed (9 to 6) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (6):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 3.2. Amendment - Budget Case #P-31 - Councillor and Budget Chair E. Peloza and Councillor S. Franke
+
+> That, pursuant to section 32.5 of the Council Procedure By-law, “shall the ruling of the Chair BE SUSTAINED?”
+
+**✅ Motion Passed (9 to 6) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (6):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 3.2. Amendment - Budget Case #P-31 - Councillor and Budget Chair E. Peloza and Councillor S. Franke
+
+> That the Mayor’s 2025 Annual Budget Update BE AMENDED to include Parks Maintenance Service Enhancements and Supports based on Action 1 in 2024-2027 Multi-Year Budget Business Case #P-31 – Parks Operations Service Delivery Enhancements (5 permanent staff, $613,000): 2025 Operating Expenditures:  $...
+
+**✅ Motion Passed (11 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (4):** [Jerry Pribil](/councillors/current/j-pribil), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 3.2. Amendment - Budget Case #P-31 - Councillor and Budget Chair E. Peloza and Councillor S. Franke
+
+> That the Mayor’s 2025 Annual Budget Update BE AMENDED to include Parks Maintenance Service Enhancements and Supports based on Action 1 in 2024-2027 Multi-Year Budget Business Case #P-31 – Parks Operations Service Delivery Enhancements (2 permanent staff, $214,000): 2025 Operating Expenditures:  $...
+
+**✅ Motion Passed (8 to 7) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (7):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 3.2. Amendment - Budget Case #P-31 - Councillor and Budget Chair E. Peloza and Councillor S. Franke
+
+> That the Mayor’s 2025 Annual Budget Update BE AMENDED to include Parks Maintenance Service Enhancements and Supports based on Action 1 in 2024-2027 Multi-Year Budget Business Case #P-31 – Parks Operations Service Delivery Enhancements (4 temporary staff, $149,000): 2025 Operating Expenditures:  $...
+
+**❌ Motion Failed (5 to 10)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 3.2. Amendment - Budget Case #P-31 - Councillor and Budget Chair E. Peloza and Councillor S. Franke
+
+> That the Mayor’s 2025 Annual Budget Update BE AMENDED to include Parks Maintenance Service Enhancements and Supports based on Action 1 in 2024-2027 Multi-Year Budget Business Case #P-31 – Parks Operations Service Delivery Enhancements (6 temporary staff, $276,000): 2025 Operating Expenditures:  $...
+
+**❌ Motion Failed (2 to 13)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Sam Trosow](/councillors/current/s-trosow), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 3.3. Amendment - Budget Case #P-13 - Councillor C. Rahman
+
+> That the Mayor’s 2025 Annual Budget Update BE AMENDED to include one-time funding of up to $947,000 to support Ark Aid’s Cronyn-Warner location from one-time 2024 surplus in the Housing Stability Services operating budget and that Civic Administration BE DIRECTED to contribute $947,000 from the H...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 3.3. Amendment - Budget Case #P-13 - Councillor C. Rahman
+
+> That the Mayor’s 2025 Annual Budget Update BE AMENDED to include one-time funding of up to $205,000 to support Ark Aid from previously approved one-time funding from the Operating Budget Contingency Reserve (approved by Council on February 13, 2024):                2025 Operating Expenditures:  $...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 3.4. (ADDED) Amendment - Budget Case #P-2 - Councillor S. Franke
+
+> That the Mayor’s 2025 Annual Budget Update BE AMENDED to remove Budget Amendment #P-2 – “Pause Current City of London Annual Community Grants Program and Implement Reduced Program based on Availability of Funding” ($496,000) and the annual contribution to the Economic Development Reserve Fund be ...
+
+**❌ Motion Failed (5 to 10)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 3.5. (ADDED) Amendment - Budget Case #P-3 - Councillor A. Hopkins
+
+> That the Mayor’s 2025 Annual Budget Update BE AMENDED to remove Budget Amendment #P-3 – “Pause Neighbourhood Decision Making Program”: 2025 Operating Expenditures:  $250,000        2025 Tax Levy:  $250,000          2025 Capital Expenditures:  $0  2026 Operating Expenditures:  $250,000        2026...
+
+**❌ Motion Failed (6 to 9) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (9):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 3.6. (ADDED) Amendment - Budget Case #P-15 - Councillor S. Trosow and Councillor D. Ferreira
+
+> That the Mayor’s 2025 Annual Budget Update BE AMENDED to include funding for the London Extreme Clean and Hoarding program based on 2024-2027 Multi-Year Budget Business Case #P-15 – “Hoarding/Extreme Clean Program” to be funded from the Life Stabilization Operating Budget: 2025 Operating Expendit...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 3.7. (ADDED) Amendment - Budget Case #P-16 - Councillor S. Trosow
+
+> That the Mayor’s 2025 Annual Budget Update BE AMENDED to include funding for the Housing Stability Bank Expansion based on 2024-2027 Multi-Year Budget Business Case #P-16 – “Housing Stability Bank Expansion”: 2025 Operating Expenditures:  $700,000           2025 Tax Levy:  $700,000            202...
+
+**❌ Motion Failed (6 to 9) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (9):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 3.8. (ADDED) Amendment - Budget Case #P-51 - Councillor C. Rahman
+
+> That the Mayor’s 2025 Annual Budget Update BE AMENDED by reducing the London Transit Commission budget for the 2026 Budget Update. To reinstate this funding, LTC must submit an amendment for the 2026 Budget Update, the online booking system be operational and that a plan for implementing the 10,0...
+
+**❌ Motion Failed (5 to 10)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Nay (10):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 3.9. (ADDED) Amendment - Budget Case #WWT-1 - Mayor J. Morgan and Budget Chair E. Peloza
+
+> That the Mayor’s 2025 Annual Budget Update BE AMENDED to remove Budget Amendment #WWT-1 (Budget Increase for Stormwater Management Facility (SWM) Land Acquisition): 2025 Operating Expenditures:  $0          2025 Rate Impact:  $0          2025 Capital Expenditures: -$1,964,000  2026 Operating Expe...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 3.10. (ADDED) Amendment - London Police Services Operating Budget - Councillor S. Franke
+
+> That the Mayor’s 2025 Annual Budget Update BE AMENDED by reducing the London Police Service operating budget: 2025 Operating Expenditures:  -$1,616,600                     2025 Tax Levy:  -$1,616,600                   2025 Capital Expenditures:  $0 2026 Operating Expenditures:  -$1,616,600       ...
+
+**❌ Motion Failed (4 to 11)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke)
+
+**Nay (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 7. Adjournment
+
+> That the meeting BE RECESSED
+
+**✅ Motion Passed (12 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy)
+
+**Absent (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+

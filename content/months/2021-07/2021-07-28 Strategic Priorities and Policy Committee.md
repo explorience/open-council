@@ -693,3 +693,72 @@ It feels a little interesting too, because as we thank our staff, because it fee
 But that creates challenges as well as opportunities. So with that, Ms. Livingston, please, again, from all of us as council members, thank you and your team for helping us get through this summer. We appreciate it very kindly at this meeting's adjourned.
 
 </details>
+
+---
+
+## Votes
+
+*6 substantive votes at this meeting (2 contested, 4 unanimous). Procedural motions excluded.*
+
+### 1. Disclosures of Pecuniary Interest
+
+> That, pursuant to section 27.6 of the Council Procedure By-law, the order of business be changed to allow for consideration of item 4.2 at this time.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 2. Consent
+
+> That items 2.1 to 2.3 BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 4.1. Request for Delegation Status - Roula Hawa, Mischa Mackie (Schlemmer) and Reeti Chopra - Housing and Homelessness Crisis
+
+> That the requested delegation status for Roula Hawa, Mischa Mackie (Schlemmer) and Reeti Chopra BE APPROVED to be heard at this time.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 4.2. Consideration of Appointment to the London & Middlesex Community Housing Board (Requires 1 Council Member)
+
+> That Councillor J. Morgan BE APPOINTED to the London & Middlesex Community Housing Board for the term ending November 15, 2022.
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (1):** [Jesse Helmer](/councillors/current/j-helmer)
+
+**Absent (1):** [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 4.2. Consideration of Appointment to the London & Middlesex Community Housing Board (Requires 1 Council Member)
+
+> Appointment of a Council Member to the London and Middlesex Community Housing Board
+
+**❌ Majority Winner: J. Morgan 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 5.2. (ADDED) Regional Transportation and Mobility Across Southwestern Ontario
+
+> That, the following actions be taken with respect to the communication dated July 27, 2021 from Mayor E. Holder and Deputy Mayor J. Morgan regarding the Regional Transportation and Mobility across Southwestern Ontario :    a)    the Civic Administration BE DIRECTED to develop a conceptual framewo...
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (11-0)
+

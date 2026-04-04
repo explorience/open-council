@@ -2847,3 +2847,194 @@ Motion carries 14 to 0 with 1 with 1 with 2. Okay, that concludes the by-laws, w
 All right, thank you. We are adjourned.
 
 </details>
+
+---
+
+## Votes
+
+*16 substantive votes at this meeting (8 contested, 8 unanimous). Procedural motions excluded.*
+
+### 8.1. 4th Report of the Civic Works Committee
+
+> That the 4th Report of the Civic Works Committee BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.2. 4th Report of the Planning and Environment Committee
+
+> That the 4th Report of the Planning and Environment Committee BE APPROVED with the exception of item 8 (3.3).
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.2.8. (3.3) 1494 Commissioners Road West (Z-9689)
+
+> That, based on the application by David Moubarak (c/o Strik Baldinelli Moniz Ltd.), relating to the property located at 1494 Commissioners Road West, the request to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan for the City of London, 2016), to change the zoning of the subje...
+
+**✅ Motion Passed (8 to 7) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (7):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 8.3. 4th Report of the Corporate Services Committee
+
+> That the 4th Report of the Corporate Services Committee BE APPROVED with the exception of item 4 (2.3).
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.3.4. (2.3) 2024 Tax Policy Expectations
+
+> That the following actions be taken with respect to the 2024 Tax Policy Expectations: a) that the direction to Civic Administration to include an individual line item on the 2024 City of London final property tax billing and their accompanying property tax pamphlet identifying the impact of legis...
+
+**❌ Motion Failed (3 to 12)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins)
+
+**Nay (12):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 8.4. 4th Report of the Community and Protectives Services Committee
+
+> That the 4th Report of the Community and Protectives Services Committee BE APPROVED with the exception of item 4 (4.1)
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.4.4. (4.1) Regulation of the Display of Graphic Images
+
+> That the staff report, dated February 20, 2024, BE REFERRED back to the Civic Administration and the Civic Administration BE DIRECTED to bring forward a draft by-law with respect to the Regulation of the Display of Graphic Images to a future meeting of the Community and Protective Services Commit...
+
+**✅ Motion Passed (9 to 6) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (6):** [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 8.5. 1st Report of the Audit Committee
+
+> That the 1st Report of the Audit Committee BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.6. 5th Special Report of the Corporate Services Committee
+
+> That the 5th Report of the Corporate Services Committee BE APPROVED with the exception of item 4 (2.3)
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.6.4. (2.3) Government Relations Consulting Assignment
+
+> That, on the recommendation of the City Manager, in accordance with section 15.1 (c) of the Procurement of Goods and Services Policy, that Coriano Capital BE APPROVED to continue to provide consulting services for government relations, strategic advisory services, and advocacy in addressing local...
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Corrine Rahman](/councillors/current/c-rahman)
+
+</details>
+
+### 8.7. 6th Special Report of the Strategic Priorities and Policy Committee
+
+> That the 6th Report of the Special Strategic Priorities and Policy Committee BE APPROVED with the exception of item 2 (2.1).
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.7.2. (2.1) Contract Amendments to Maintain Day and Overnight Spaces for Unsheltered Londoners
+
+> Motion to approve part a) to read as follows: a)    an extension to the existing Municipal Purchase of Service Agreement with London Cares at a total estimated increase of up to $139,600 (excluding HST) for the period of April 1, 2024, to May 31, 2024 BE APPROVED, to continue temporary drop-in sp...
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+</details>
+
+### 8.7.2. (2.1) Contract Amendments to Maintain Day and Overnight Spaces for Unsheltered Londoners
+
+> Motion to approve part b) to read as follows: b)    an extension to the existing Municipal Purchase of Service Agreement with Safe Space London at a total estimated increase of up to $129,000 (excluding HST) for the period of April 1, 2024, to May 31, 2024 BE APPROVED, to continue temporary day a...
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
+
+### 8.7.2. (2.1) Contract Amendments to Maintain Day and Overnight Spaces for Unsheltered Londoners
+
+> Motion to approve parts c) and d): c)    the Civic Administration BE AUTHORIZED to undertake all administrative acts which are necessary in connection with the contracts noted in a) and b); and d)    approval given herein BE CONDITIONAL upon the Corporation of the City of London amending existing...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 12. Emergent Motions
+
+> That pursuant to section 13.2 of the Council Procedure by-law, the Council decision with respect to item 4 (2.3) of the 4th Report of the Corporate Services Committee with respect to 2024 Tax Policy Expectations BE RECONSIDERED to provide an alternate direction for Civic Administration.
+
+**✅ Motion Passed (11 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 12. Emergent Motions
+
+> That the following actions be taken with respect to the 2024 Tax Policy Expectations: a) the Civic Administration BE DIRECTED to include an individual line item on the 2024 City of London final property tax billing and their accompanying property tax pamphlet identifying the impact of legislative...
+
+**❌ Motion Failed (7 to 8) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (8):** [Josh Morgan](/councillors/current/j-morgan), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+

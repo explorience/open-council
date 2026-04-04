@@ -163,3 +163,40 @@ The Corporate Services Committee convenes, In Closed Session from 1:16 PM to 2:0
 
 The meeting adjourns at 2:04 PM.
 
+---
+
+## Votes
+
+*3 substantive votes at this meeting (1 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Consent items 2.1 and 2.2 BE APPROVED.
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (1-0)
+
+### 3.1. Apportionment of Taxes
+
+> That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the taxes on the blocks of land described in the Schedules appended to the staff report dated February 5, 2019 BE APPORTIONED as indicated on the Schedules, pursuant to Section 35...
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (1-0)
+
+### 4.1. London Convention Centre Investment
+
+> That the request of London Convention Centre for financial support in the amount of $500,000, for the London Convention Centre 2nd Floor Renovation Project, BE APPROVED, with the source of funding being the Economic Development Reserve Fund; it being noted that the Corporate Services Committee re...
+
+**✅ Motion Passed (3 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+**Nay (1):** [Jesse Helmer](/councillors/current/j-helmer)
+
+</details>
+

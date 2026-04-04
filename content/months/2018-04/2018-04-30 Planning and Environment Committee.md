@@ -667,3 +667,65 @@ None.
 
 The meeting adjourned at 7:06 PM.
 
+---
+
+## Votes
+
+*7 substantive votes at this meeting (0 contested, 7 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.7, inclusive, BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.1. Public Participation Meeting - Application - Archaeological Management Plan (OZ-8771)
+
+> That, on the recommendation of the Managing Director, Planning and City Planner, with the advice of the Heritage Planner, the following actions be taken with respect to the application of the City of London relating to the Archaeological Management Plan for all properties in the City of London: a...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.2. Public Participation Meeting - Application - 200 Villagewalk Boulevard (Z-8867)
+
+> That, on the recommendation of the Managing Director, Planning and City Planner, with respect to the application of 1904812 Ontario Ltd., c/o Domus Development London Inc., relating to the property located at 200 Villagewalk Boulevard, the proposed by-law appended to the staff report dated April ...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.3. Public Participation Meeting - Official Plan, The London Plan and Downtown Plan Criteria for Downtown Temporary Surface Commercial Parking Lots (O-8876)
+
+> That, on the recommendation of the Managing Director, Planning and City Planner, the following actions be taken with respect to the application of The Corporation of the City of London relating to the properties located within the boundaries of the Downtown as defined by the Official Plan: a)    ...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.5. Public Participation Meeting - Application - 100 Kellogg Lane (Z-8893)
+
+> That, on the recommendation of the Managing Director, Planning and City Planner, based on the application by the Corporation of the City of London, relating to the property located at 100 Kellogg Lane (south portion), the proposed by-law appended to the staff report dated April 30, 2018, as Appen...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.6. Delegation - Dr. C. Mackie, Middlesex London Health Unit - Supervised Consumption Facility Location
+
+> That, the following actions be taken with respect to supervised consumption facility locations: a)              the provision of supervised consumption facilities in London BE ENDORSED; b)             the provision of supervised consumption services at 241 Simcoe St and 446 York St BE ENDORSED su...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.6. Delegation - Dr. C. Mackie, Middlesex London Health Unit - Supervised Consumption Facility Location
+
+> Motion to grant Dr. C. Mackie an extension of his delegation beyond five minutes.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+

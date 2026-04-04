@@ -391,3 +391,57 @@ That the Civic Administration BE DIRECTED to report back to a future meeting of 
 
 The meeting adjourned at 1:44 PM.
 
+---
+
+## Votes
+
+*6 substantive votes at this meeting (0 contested, 6 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That items 2.2 to 2.5, and 2.7 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.1. 2nd Report of the Cycling Advisory Committee
+
+> That parts a) and b) BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.1. 2nd Report of the Cycling Advisory Committee
+
+> That parts c), d) and e) BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.6. Dingman Creek Subwatershed: Stormwater Servicing Strategy for Stage 1 Lands - Municipal Class Environmental Assessment: Notice of Completion
+
+> That, on the recommendation of the Managing Director of Environmental and Engineering Services and City Engineer, the following actions be taken with respect to the Dingman Creek Subwatershed: Stormwater Servicing Strategy Municipal Class Environmental Assessment: a)       the Dingman Creek Subwa...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 5.2. (ADDED) 1st Report of the Transportation Advisory Committee
+
+> That the following actions be taken with respect to the 1st Report of the Transportation Advisory Committee, from its meeting held on January 28, 2020:    a)       the following actions be taken with respect to the Transportation Advisory Committee (TAC) 2020 Work Plan:    i)       D. Doroshenko ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 5.3. Tree Replacement Options
+
+> That the Civic Administration BE DIRECTED to report back to a future meeting of Civic Works Committee with respect to how options can be provided to residents in terms a choice of species on tree replacements following tree removals for the purpose of infrastructure renewal, which may include opt...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+

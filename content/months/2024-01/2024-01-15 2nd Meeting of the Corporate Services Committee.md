@@ -693,3 +693,26 @@ Councillor Stevenson, seconder. Councillor ramen. and we'll do a hand vote, all 
 Motion carries.
 
 </details>
+
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 4. Items for Direction
+
+> That items 4.2 and 4.3 BE APPROVED
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. Application - Issuance of Proclamation - World Thinking Day
+
+> That based on the application dated December 5, 2023 from Girl Guides of Canada, February 22, 2024 the proclamation request BE REFERRED to the January 23, 2024 Council meeting for consideration.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+

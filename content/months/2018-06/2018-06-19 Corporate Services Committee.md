@@ -501,3 +501,98 @@ The Corporate Services Committee convened in camera from 2:45 PM to 3:25 PM with
 
 The meeting adjourned at 3:26 PM.
 
+---
+
+## Votes
+
+*10 substantive votes at this meeting (1 contested, 9 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.3, 2.4, 2.6, 2.7, 2.8 and 2.11 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.2. Designation of Municipally Significant Events
+
+> That, on the recommendation of the City Clerk, with the concurrence of the Managing Director, Corporate Services and City Solicitor, the proposed by-law included as Appendix “A” to the staff report dated June 19, 2018 BE INTRODUCED at the Municipal Council meeting to be held on June 26, 2018 to i...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst)
+
+**Nay (1):** [Jesse Helmer](/councillors/current/j-helmer)
+
+**Absent (1):** [Paul Hubert](/councillors/current/p-hubert)
+
+</details>
+
+### 2.5. Southwestern Integrated Fibre Technology (SWIFT) Network Project
+
+> That, on the recommendation of the Director of Information Technology Services, and the Director of Community and Economic Innovation, with the concurrence of the Managing Director,  Corporate Services & City Treasurer, Chief Financial Officer, the following actions be taken with respect to the S...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.9. Taxation of Railway Rights of Way - High Tonnage
+
+> That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the Minister of Finance BE REQUESTED to impose a high tonnage rate for railway rights of way in the City of London where such a rate is appropriately based on the data available t...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.1. Tax Adjustment Agenda
+
+> That the recommendations contained in the Tax Adjustment Agenda appended to the June 19, 2018 agenda of the Corporate Services Committee, BE APPROVED; it being noted that the following members of the public were in attendance to speak before the Corporate Services Committee with respect to the Ta...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.1. Tax Adjustment Agenda
+
+> Motion to open the meeting to the public for comment.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.1. Tax Adjustment Agenda
+
+> Motion to close the meeting to the public for comment.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.1. Covent Garden Market
+
+> That representatives of the Covent Garden Market BE INVITED to work with the City of London's Facilities and Transportation staff to investigate possible improvements to access points and procedures for garbage collection and the delivery of goods at the Covent Garden Market.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.2. Confirmation of Appointment to the Transportation Advisory Committee and the London Housing Advisory Committee
+
+> That Danny Chang BE APPOINTED as a Non-Voting Post-Secondary Student Representative to the Transportation Advisory Committee and the London Housing Advisory Committee, for the term ending February 28, 2019.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.3. Request for Delegation Status at the July 17, 2018 Corporate Services Committee - Ontario Federation of Agriculture - Producing Prosperity in Ontario
+
+> That the request by Crispin Colvin, Director, Ontario Federation of Agriculture, for delegation status  at the July 17, 2018 Corporate Services Committee (CSC) meeting, with respect to the Ontario Federation of Agriculture - Producing Prosperity in Ontario, BE APPROVED for the July 17, 2018 CSC m...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+

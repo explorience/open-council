@@ -630,3 +630,80 @@ The meeting adjourned at 7:11 PM.
 
 ****
 
+---
+
+## Votes
+
+*8 substantive votes at this meeting (1 contested, 7 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.3, inclusive, BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.1. Public Participation Meeting - Allowing "Farm Gate Sales" on Lands within the Urban Growth Boundary (Z-9060)
+
+> That, on the recommendation of the Managing Director, City Planning and City Planner, the following actions be taken with respect to the City-wide zoning by-law amendment initiated by the City of London:  a) the proposed by-law appended to the staff report dated November 18, 2019 as Appendix "A" ...
+
+**✅ Motion Passed (5 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire)
+
+**Nay (1):** [Ed Holder](/councillors/current/e-holder)
+
+</details>
+
+### 3.2. Public Participation Meeting - Application - 2498, 2500, 2510 Main Street (Z-9105)
+
+> That, on the recommendation of the Director, Development Services, based on the application by 9398562 Canada Inc., relating to the properties located at 2498, 2500, 2510 Main Street, the proposed by-law appended to the staff report dated November 18, 2019 BE INTRODUCED at the Municipal Council m...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.3. Public Participation Meeting - Application - 666-670 Wonderland Road North (Z-9093)
+
+> That, on the recommendation of the Director, Development Services, based on the application by JFK Holdings, relating to the property located at 666-670 Wonderland Road North, the proposed by law appended to the staff report dated November 18, 2019  BE INTRODUCED at the Municipal Council meeting ...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.4. Public Participation Meeting - Bird Friendly Development
+
+> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to bird-friendly development and instituting a limited light period for the City of London: a)the proposed by-law appended to the staff report dated November 18, 2019 BE INTRODUCED at th...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. 11th Report of the Advisory Committee on the Environment
+
+> That the following actions be taken with respect to the 11th Report of the Advisory Committee on the Environment, from its meeting held on November 6, 2019: a) the following actions be taken with respect to Gas Tax Distribution: i) the '8.0 - Recommendations' section of the Cycling Master Plan Re...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. 11th Report of the Advisory Committee on the Environment
+
+> Motion to refer clause b) ii) back to the Advisory Committee on the Environment for further consideration; it being noted that clause b) ii) reads as follows: "ii) the City Clerk BE REQUESTED to remove the non-voting membership positions for the Institute of Catastrophic Research (Western Univers...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 5.1. (ADDED) 11th Report of the London Advisory Committee on Heritage
+
+> That, the following actions be taken with respect to the 11th Report of the London Advisory Committee on Heritage, from its meeting held on November 13, 2019: a) on the recommendation of the Managing Director, City Planning and City Planner, with the advice of the Heritage Planner, the applicatio...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

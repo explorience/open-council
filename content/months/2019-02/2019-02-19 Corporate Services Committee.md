@@ -316,3 +316,41 @@ The Corporate Services Committee convenes, In Closed Session from 12:33 to 12:43
 
 The meeting adjourned at 2:43 PM.
 
+---
+
+## Votes
+
+*4 substantive votes at this meeting (0 contested, 4 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That items 2.3 - 2.6, inclusive, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.1. Budweiser Gardens: City Approval of Zamboni Capital Lease Agreement
+
+> That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the capital lease for two new Zamboni ice resurfacing machines at Budweiser Gardens BE APPROVED to replace the previous two Zamboni ice resurfacing machines, that are no longer in...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.1. Grand Theatre - Municipal Accommodation Tax Funding Request
+
+> That the following actions be taken with respect to the Grand Theatre – Municipal Accommodation Tax Funding request: a)            the request from the Grand Theatre BE APPROVED, in the amount of $2 million, with the first source of financing being the Tourism Infrastructure Reserve Fund and a se...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 5.1. Consideration of Appointments to the Eldon House Board of Directors
+
+> That the following BE APPOINTED to the Eldon House Board of Directors for the term ending November 15, 2022, based on the interviews conducted by the Corporate Services Committee on January 21, 22, February 12 and 19, respectively, and the attached ranked ballot: Louanne Henderson  Theresa Regnie...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+

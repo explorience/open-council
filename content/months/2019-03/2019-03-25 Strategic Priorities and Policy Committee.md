@@ -770,3 +770,237 @@ None.
 
 The meeting adjourned at 11:16 PM.
 
+---
+
+## Votes
+
+*16 substantive votes at this meeting (14 contested, 2 unanimous). Procedural motions excluded.*
+
+### 3.2. Council's Strategic Plan 2019-2023: Draft Outcomes, Expected Results, Strategies, Metrics, Targets and Preliminary Cost Estimates
+
+> That the following actions be taken with respect to the Council’s Strategic Plan 2019-2023: a)         the staff report dated March 25, 2019 entitled “Council’s Strategic Plan 2019-2023: Draft Outcomes, Expected Results, Strategies, Metrics, Targets and Preliminary Cost Estimates” BE REFERRED to ...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.1. Investing in Canada Infrastructure Program Public Transit Stream Transportation Projects for Submission
+
+> That the motion to approve Project 2, Wellington Road Gateway, BE AMENDED as follows: That the application for transit funding shall not use the term “dedicated” bus lanes but rather “priority” transit lanes with the following definition: “Priority transit lanes may take the form of dedicated lan...
+
+**❌ Motion Failed (4 to 10)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire)
+
+**Nay (8):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Ed Holder](/councillors/current/e-holder), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+**Absent (1):** [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 4.1. Investing in Canada Infrastructure Program Public Transit Stream Transportation Projects for Submission
+
+> That the motion to approve Project 3. East London Link, BE AMENDED as follows: b) London Transit Commission BE THANKED for implementing a new express bus service to Argyle Mall, Route 94, to start in Fall 2019; and c) London Transit Commission BE REQUESTED to consider the following as priorities ...
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner)
+
+**Nay (1):** [Phil Squire](/councillors/current/p-squire)
+
+</details>
+
+### 4.1. Investing in Canada Infrastructure Program Public Transit Stream Transportation Projects for Submission
+
+> That pursuant to section 2.3 of the Council Procedure By-law, section 31.0 of the said By-law be suspended for the purpose of permitting a revised format for debate and conduct at this meeting, generally revised to be as follows: -         statements from each Member, who chooses to do so, in rel...
+
+**✅ Motion Passed (10 to 5)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner)
+
+**Nay (3):** [Shawn Lewis](/councillors/current/s-lewis), [Mo Salih](/councillors/current/m-salih), [Phil Squire](/councillors/current/p-squire)
+
+</details>
+
+### 4.1. Investing in Canada Infrastructure Program Public Transit Stream Transportation Projects for Submission
+
+> Motion to approve that Committee recess until 7:00 PM.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.1. Investing in Canada Infrastructure Program Public Transit Stream Transportation Projects for Submission
+
+> That consideration of the following projects BE REFERRED to a future meeting, in order to allow for the preparation of additional business cases for consideration: - Project 1. The Downtown Loop - Project 3. East London Link - Project 5. West Connection - Project 6. Intelligent Traffic Signals (T...
+
+**❌ Motion Failed (3 to 12)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Michael van Holst](/councillors/current/m-van-holst)
+
+**Nay (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Ed Holder](/councillors/current/e-holder), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 4.1. Investing in Canada Infrastructure Program Public Transit Stream Transportation Projects for Submission
+
+> That the Managing Director, Environmental & Engineering Services and City Engineer BE REQUESTED to make a funding submission with respect to the $204 million allocated to London under the Federal Public Transit Infrastructure Stream (PTIS) and the $170 million Provincial funding that includes: Pr...
+
+**❌ Motion Failed (5 to 8) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner)
+
+**Nay (6):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Phil Squire](/councillors/current/p-squire)
+
+**Absent (2):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer)
+
+</details>
+
+### 4.1. Investing in Canada Infrastructure Program Public Transit Stream Transportation Projects for Submission
+
+> That the Managing Director, Environmental & Engineering Services and City Engineer BE REQUESTED to make a funding submission with respect to the $204 million allocated to London under the Federal Public Transit Infrastructure Stream (PTIS) and the $170 million Provincial funding that includes: Pr...
+
+**✅ Motion Passed (10 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Ed Holder](/councillors/current/e-holder), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+**Nay (2):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire)
+
+**Absent (1):** [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 4.1. Investing in Canada Infrastructure Program Public Transit Stream Transportation Projects for Submission
+
+> a) That the Managing Director, Environmental & Engineering Services and City Engineer BE REQUESTED to make a funding submission with respect to the $204 million allocated to London under the Federal Public Transit Infrastructure Stream (PTIS) and the $170 million Provincial funding that includes:...
+
+**✅ Motion Passed (11 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Ed Holder](/councillors/current/e-holder), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner)
+
+**Nay (2):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire)
+
+</details>
+
+### 4.1. Investing in Canada Infrastructure Program Public Transit Stream Transportation Projects for Submission
+
+> That the Managing Director, Environmental & Engineering Services and City Engineer BE REQUESTED to make a funding submission with respect to the $204 million allocated to London under the Federal Public Transit Infrastructure Stream (PTIS) and the $170 million Provincial funding that includes: Pr...
+
+**❌ Motion Failed (7 to 8) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Anna Hopkins](/councillors/current/a-hopkins), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner)
+
+**Nay (6):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire)
+
+</details>
+
+### 4.1. Investing in Canada Infrastructure Program Public Transit Stream Transportation Projects for Submission
+
+> That the Managing Director, Environmental & Engineering Services and City Engineer BE REQUESTED to make a funding submission with respect to the $204 million allocated to London under the Federal Public Transit Infrastructure Stream (PTIS) and the $170 million Provincial funding that includes: Pr...
+
+**✅ Motion Passed (10 to 5)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Anna Hopkins](/councillors/current/a-hopkins), [Ed Holder](/councillors/current/e-holder), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner)
+
+**Nay (3):** [Steve Lehman](/councillors/current/s-lehman), [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire)
+
+</details>
+
+### 4.1. Investing in Canada Infrastructure Program Public Transit Stream Transportation Projects for Submission
+
+> That the Managing Director, Environmental & Engineering Services and City Engineer BE REQUESTED to make a funding submission with respect to the $204 million allocated to London under the Federal Public Transit Infrastructure Stream (PTIS) and the $170 million Provincial funding that includes: Pr...
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner)
+
+**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+
+### 4.1. Investing in Canada Infrastructure Program Public Transit Stream Transportation Projects for Submission
+
+> That pursuant to section 2.3 of the Council Procedure By-law, section 11.10 of the said by-law BE SUSPENDED for the purpose of permitting the meeting to proceed beyond 11:00 PM.
+
+**✅ Motion Passed (13 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 4.1. Investing in Canada Infrastructure Program Public Transit Stream Transportation Projects for Submission
+
+> That consideration of the following projects BE REFERRED to a future meeting: Project 8. On-Board Information Screens Project 10. Pedestrian Street Connectivity Improvements to the Transit Network Project 11. New Sidewalks Project 13. Active Transportation Improvements across Transit Route Bridge...
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 4.1. Investing in Canada Infrastructure Program Public Transit Stream Transportation Projects for Submission
+
+> That the Managing Director, Environmental & Engineering Services and City Engineer BE REQUESTED to make a funding submission with respect to the $204 million allocated to London under the Federal Public Transit Infrastructure Stream (PTIS) and the $170 million Provincial funding that includes: Pr...
+
+**✅ Motion Passed (13 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 4.1. Investing in Canada Infrastructure Program Public Transit Stream Transportation Projects for Submission
+
+> That the motion to approve the inclusion of Project 4 North Connection, BE AMENDED to revise the proposed design to have mixed traffic, and remove the requirement for designated lanes between Central Avenue and the Western University Gate on Richmond Street.
+
+**❌ Motion Failed (5 to 8) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner)
+
+**Nay (6):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Phil Squire](/councillors/current/p-squire)
+
+</details>
+

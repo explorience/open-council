@@ -1466,3 +1466,97 @@ Councillor ramen seconded by Councillor Frank. Hand vote. Closing the vote. Moti
 Thank you, everybody. Check it out.
 
 </details>
+
+---
+
+## Votes
+
+*10 substantive votes at this meeting (1 contested, 9 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.5 with the exception of items 2.2 and 2.4 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.2. 4th Report of the Community Advisory Committee on Planning
+
+> That the following actions be taken with respect to the 4th Report of the Community Advisory Committee on Planning, from its meeting held on April 10, 2024: a)   Civic Administration BE DIRECTED to develop a more a more permissive set of guidelines for the use of synthetic materials (including co...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.1. 1560 Dundas Street (Z-9715)
+
+> That, on the recommendation of the Director, Planning and Development, based on the application by London Plaza Inc., relating to the property located at 1560 Dundas Street, the proposed by-law appended to the staff report dated April 30, 2024 as Appendix "A" BE INTRODUCED at the Municipal Counci...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.2. 4023-4500 Meadowbrook Drive and 169-207 Exeter Road (OZ-9706)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Bluestone Properties Inc. (c/o Zelinka Priamo Ltd., relating to the property located at 4023-4500 Meadowbrook Drive and 169-207 Exeter Road:  a)    the proposed...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.3. 6555 and 6595 Royal Magonlia Avenue (OZ-9702)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by W3 Lambeth Farms Inc. (c/o Strik Baldinelli Moniz (SMB) Ltd.), relating to the property located at 6555 and 6595 Royal Magnolia Avenue: a) the following actions...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.4. 1170 Fanshawe Park Road East (Z-9713)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by 1170 Fanshawe Park Road East Inc. (c/o Brock Development Group Inc.), relating to the property located at 1170 Fanshawe Park Road East: a)    the proposed by-la...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.5. 379-390 Hewitt Street and 748 King Street (Z-9718)
+
+> That, the following actions be taken with respect to the application of East Village Holdings Limited relating to the property located at 376, 378, 380, 382, 386 & 390 Hewitt Street and 748 King Street: a) the proposed by-law attached hereto as Appendix "A" BE INTRODUCED at the Municipal Council ...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Skylar Franke](/councillors/current/s-franke)
+
+</details>
+
+### 3.6. 2331 Kilally Road and 1588 Clarke Road (39T-20502/OZ-9244)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Sifton Properties Limited, relating to the properties located at 2331 Kilally Road and 1588 Clarke Road: a)    the proposed by-law appended to the staff report ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.1. Upper Thames River Conservation Authority Service Level Review
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the Upper Thames River Conservation Authority Service Level Review: a) the Service Level Review Consultant and Upper Thames River Conservation Authority (UTRCA) Senior Staff BE RE...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.1. Upper Thames River Conservation Authority Service Level Review
+
+> That the following individuals BE GRANTED delegation status with respect to the UTRCA Service Level review: - M. Wallace, London Development Institute; - T. Annett, General Manager Upper Thames River Conservation Authority (UTRCA); - B. Petrie, Chair, UTRCA Board of Directors; and, - J. Allain, M...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

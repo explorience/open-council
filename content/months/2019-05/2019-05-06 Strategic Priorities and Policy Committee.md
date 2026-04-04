@@ -399,3 +399,101 @@ None.
 
 The meeting adjourned at 6:50 PM.
 
+---
+
+## Votes
+
+*8 substantive votes at this meeting (4 contested, 4 unanimous). Procedural motions excluded.*
+
+### 2.1. TechAlliance 2019-2023 Grant
+
+> That, on the recommendation of the City Manager, the by-law appended to the staff report dated May 6, 2019 as Appendix A, BE INTRODUCED at the Municipal Council meeting of May 21, 2019 to:    a)            approve a grant Agreement with the TechAlliance of Southwestern Ontario from 2019 to 2023; ...
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (1):** [Steve Lehman](/councillors/current/s-lehman)
+
+</details>
+
+### 2.2. Small Business Centre 2019-2023 Grant
+
+> That, on the recommendation of the City Manager, the by-law appended to the staff report dated May 6, 2019 as Appendix A, BE INTRODUCED at the Municipal Council meeting of May 21, 2019 to:    a)            approve a grant Agreement with the London Community Small Business Centre from 2019 to 2023...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 2.3. Approval of the 2019 Development Charges By-law and Background Study
+
+> That, on the recommendation of the Managing Director, Development & Compliance Services & Chief Building Official, with the concurrence of the Managing Director, Corporate Services & City Treasurer, Chief Financial Officer, the following actions be taken:    a)            the 2019 Development Cha...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 2.3. Approval of the 2019 Development Charges By-law and Background Study
+
+> That the delegation request from London Development Institute BE APPROVED to be heard at this meeting.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.1. 2020-2023 Multi-Year Budget
+
+> That part b), BE APPROVED: “b)            a 2020-2023 total, average annual tax levy increase of approximately 2.7% BE ENDORSED for planning purposes; it being noted that this is intended to address costs of maintaining existing service levels (estimated to be 2.2% per year) and provide some addi...
+
+**✅ Motion Passed (12 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.1. 2020-2023 Multi-Year Budget
+
+> Add a new part f) to read as follows: “f)           that the matter of service reviews for specific service areas BE ADDED to a future agenda of the Strategic Priorities and Policy Committee (SPPC) in order for the SPPC to provide direction to the Civic Administration for additional reviews that ...
+
+**✅ Motion Passed (12 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (1):** [Mo Salih](/councillors/current/m-salih)
+
+</details>
+
+### 4.2. Appointments/Affirmations of London Hydro's Board of Directors
+
+> That the City Clerk BE DIRECTED to recruit for applicants for the vacancy on the London Hydro Board of Directors, created with the retirement of Mohan Mathur; it being noted that the Strategic Priorities and Policy Committee received a communication dated April 12, 2019 with respect to this matter.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.2. Appointments/Affirmations of London Hydro's Board of Directors
+
+> The Clerk BE DIRECTED to undertake the recruitment of applicants for the London Hydro Board vacancies.
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (1):** [Jesse Helmer](/councillors/current/j-helmer)
+
+</details>
+

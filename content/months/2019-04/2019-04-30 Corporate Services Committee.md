@@ -181,3 +181,25 @@ The Corporate Services Committee convened In Closed Session from 1:36 PM to 2:38
 
 The meeting adjourned at 2:39 PM.
 
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That items 2.2 and 2.3 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.1. Year 2019 Tax Policy
+
+> That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the following actions be taken with respect to property taxation for 2019: a)         the by-law, as appended to the staff report dated April 30, 2019 as Appendix A, BE INTRODUCED...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

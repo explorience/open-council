@@ -827,3 +827,78 @@ Now we have no scheduled items, no items for direction, no deferred matters or a
 Motion carries. And you have an hour and 27 minutes before we reconvene for council.
 
 </details>
+
+---
+
+## Votes
+
+*5 substantive votes at this meeting (4 contested, 1 unanimous). Procedural motions excluded.*
+
+### 2.1. Contract Amendments to Maintain Day and Overnight Spaces for Unsheltered Londoners
+
+> That the following actions BE TAKEN with respect to the Contract Amendments to Maintain Day and Overnight Spaces for Unsheltered Londoners report: a)    an extension to the existing Municipal Purchase of Service agreement with London Cares at a total estimated increase of up to $139,600 (excludin...
+
+**❌ Motion Failed (2 to 13)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil)
+
+**Nay (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 2.1. Contract Amendments to Maintain Day and Overnight Spaces for Unsheltered Londoners
+
+> Motion to amend part a) to change the contract extension end date to be June 30, 2024 and increase funding to $209,400 and part b) to change the contract extension end date to be June 30, 2024 and increase funding to $193,500
+
+**❌ Motion Failed (4 to 11)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke)
+
+**Nay (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 2.1. Contract Amendments to Maintain Day and Overnight Spaces for Unsheltered Londoners
+
+> Motion to approve part a) to read as follows: a)    an extension to the existing Municipal Purchase of Service Agreement with London Cares at a total estimated increase of up to $139,600 (excluding HST) for the period of April 1, 2024, to May 31, 2024 BE APPROVED, to continue temporary drop-in sp...
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+</details>
+
+### 2.1. Contract Amendments to Maintain Day and Overnight Spaces for Unsheltered Londoners
+
+> Motion to approve part b) to read as follows: b)    an extension to the existing Municipal Purchase of Service Agreement with Safe Space London at a total estimated increase of up to $129,000 (excluding HST) for the period of April 1, 2024, to May 31, 2024 BE APPROVED, to continue temporary day a...
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
+
+### 2.1. Contract Amendments to Maintain Day and Overnight Spaces for Unsheltered Londoners
+
+> Motion to approve parts c) and d): c)    the Civic Administration BE AUTHORIZED to undertake all administrative acts which are necessary in connection with the contracts noted in a) and b); and d)    approval given herein BE CONDITIONAL upon the Corporation of the City of London amending existing...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+

@@ -917,3 +917,66 @@ Staff and committee and visiting Councillors, we had a pretty full house today a
 All those in favor, I'm seeing everybody clerk. That motion carries, we are adjourned, thank you.
 
 </details>
+
+---
+
+## Votes
+
+*7 substantive votes at this meeting (0 contested, 7 unanimous). Procedural motions excluded.*
+
+### 2.1. Request for Proposal 2022-054 - New Play Equipment at Gibbons Park and Greenway Park
+
+> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report, dated April 20, 2022, related to a Request for Proposal 2022-054 for New Play Equipment at Gibbons Park and Greenway Park: a)    the bid submitt...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.3. Irregular Result RFP 21-74: Dental Program Administration Single Bid Award Recommendation
+
+> That, on the recommendation of the Deputy City Manager, Social and Health Development and with the concurrence of the Director, Financial Services, the following actions be taken with respect to the staff report, dated April 20, 2022, related to an Irregular Result RFP 21-74 Dental Program Admini...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 5.2. Clause 4.2 of the 2nd Report of the Animal Welfare Advisory Committee
+
+> Motion to approve the delegation requests, as appended to the Added Agenda, from M. Hamer, R. Murphy and B. Child to be heard at this meeting.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 5.2. Clause 4.2 of the 2nd Report of the Animal Welfare Advisory Committee
+
+> Motion to receive the verbal delegations from R. Laidlaw, W. Brown, M. Lerner, J. Van-Daele, F. Morrison, M. Hamer, R. Murphy and B. Child.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 5.3. "Graphic" Flyer Deliveries to Residential Properties
+
+> That the following actions be taken with respect to the staff report, dated April 20, 2022, with respect to “Graphic” Flyer Deliveries to Residential Properties: a)    the proposed by-law, as appended to the above-noted staff report, BE INTRODUCED at the Municipal Council meeting to be held on Ma...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 5.4. Deferred Matters List
+
+> Motion to receive Item number 2 on the Deferred Matters List for the Community and Protective Services Committee, as at April 11, 2022.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 5.4. Deferred Matters List
+
+> Motion to receive the Deferred Matters List for the Community and Protective Services Committee, as at April 11, 2022, with the exception of item 2.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+

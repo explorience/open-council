@@ -200,3 +200,17 @@ The meeting adjourned at 4:18 PM.
 
 ****
 
+---
+
+## Votes
+
+*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
+
+### 4.1. 7th Report of the Diversity, Inclusion and Anti-Oppression Community Advisory Committee
+
+> That the following actions be taken with respect to the 7th Report of the Diversity, Inclusion and Anti-Oppression Community Advisory Committee from its meeting held on October 17, 2022:    a)  the following actions be taken with respect to the 2022 Diversity, Race Relations and Inclusivity Award...
+
+**✅ Motion Passed (12 to 0)**
+
+Unanimous (10-0)
+

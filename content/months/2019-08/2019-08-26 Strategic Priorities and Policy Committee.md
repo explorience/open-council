@@ -547,3 +547,115 @@ The Strategic Priorities and Policy Committee convenes, In Closed Session, from 
 
 The meeting adjourned at 9:21 PM.
 
+---
+
+## Votes
+
+*10 substantive votes at this meeting (4 contested, 6 unanimous). Procedural motions excluded.*
+
+### 2.2. City of London Service Review: Review of Service Delivery for Housing
+
+> That part c) BE APPROVED, as follows: c) the Civic Administration BE DIRECTED to work with London Middlesex Community Housing (LMCH) to investigate, address and reduce the vacancy rate within their housing portfolio;
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 2.2. City of London Service Review: Review of Service Delivery for Housing
+
+> That part d) BE APPROVED, as follows: d) the requested changes to the Shareholder Declaration and Articles of Incorporation for LMCH, NO ACTION be taken;
+
+**❌ Motion Failed (6 to 9) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Ed Holder](/councillors/current/e-holder)
+
+**Nay (7):** [Josh Morgan](/councillors/current/j-morgan), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+</details>
+
+### 2.2. City of London Service Review: Review of Service Delivery for Housing
+
+> That, notwithstanding the staff report submitted to the Strategic Priorities and Policy Committee on March 4, 2019 in response to the request from the London & Middlesex Community Housing (LMCH) for changes to shareholder agreement and given the recent report from KPMG regarding LMCH, the Civic A...
+
+**❌ Motion Failed (5 to 10)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (8):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+</details>
+
+### 4.1. London Medical Network
+
+> Approve parts a, b and c, as follows: That, on the recommendation of the City Manager, the following actions be taken with respect to the London Medical Network (LMN) grant: a)      the investments made to-date by the LMN BE ACCEPTED; b)      the LMN Governing Council BE REQUESTED to return the r...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.1. London Medical Network
+
+> Motion that part d), as amended, BE APPROVED.
+
+**✅ Motion Passed (13 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+</details>
+
+### 4.1. London Medical Network
+
+> That part d) be amended to read as follows: d)         the Civic Administration BE DIRECTED to report back with a strategy for investing the approximate $7.3m in developing permanent housing with supports for mental health and addictions, noting this will support all services dealing with the cri...
+
+**✅ Motion Passed (9 to 6) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Shawn Lewis](/councillors/current/s-lewis), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (4):** [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Jesse Helmer](/councillors/current/j-helmer)
+
+</details>
+
+### 4.2. Delegation - V. Sharma, CEO, London Hydro Inc. - London Hydro Corporate Restructuring
+
+> That the Civic Administration BE DIRECTED to provide a report to the Strategic Priorities and Policy Committee with respect to the corporate structure and applicable associated risk to the Corporation that would be associated with the proposed corporate restructuring, as outlined in the communica...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.2. Delegation - V. Sharma, CEO, London Hydro Inc. - London Hydro Corporate Restructuring
+
+> Approve the Delegation request of London Hydro.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.3. 2019 Corporate Asset Management Plan
+
+> That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, with the advice of the Manager III, Corporate Asset Management, the City of London (City) 2019 Corporate Asset Management Plan, as outlined in the staff report dated August 26, 20...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 5.1. Middlesex-London Food Policy Council (Requires 1 Council Member)
+
+> That the City Clerk BE DIRECTED to advertise for applications of interested persons to be appointed by London City Council, to the Middlesex-London Food Policy Council.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+

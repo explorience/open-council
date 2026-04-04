@@ -438,3 +438,25 @@ The meeting adjourned at 1:08 PM.
 
 ****
 
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.2, 2.3, 2.5, 2.6, 2.7, 2.8, 2.9, and 2.10 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.4. Appointment of Consulting Engineers for Contract Administration Services and Temporary Easement Agreement with the University of Western Ontario: Huron Street Watermain Remediation
+
+> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report dated May 10, 2022 related to the Huron Street Watermain Remediation Project (EW3580): a)    Stantec Consulting Ltd., 600-171 Queens Avenue, Lond...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+

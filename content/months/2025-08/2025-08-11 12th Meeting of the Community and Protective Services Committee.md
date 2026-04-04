@@ -1380,3 +1380,141 @@ We wanna look at what are the other amenities there. We may be if this is where 
 Chairman. Okay, but I wanna...
 
 </details>
+
+---
+
+## Votes
+
+*13 substantive votes at this meeting (3 contested, 10 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.9 BE APPROVED with the exception of Item 2.7.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.7. Thames Pool Update
+
+> That part a) of the motion BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 2.7. Thames Pool Update
+
+> That part b) of the motion BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 4.2. Seasonal Time Period of Overnight Parking Bans in Comparable Municipalities
+
+> That the motion BE AMENDED to include a new part that reads as follows: The Civic Administration BE DIRECTED to bring forward the option to eliminate the 15 day limit on overnight parking passes as part of the report back with respect to this matter; it being noted that individuals would continue...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.2. Seasonal Time Period of Overnight Parking Bans in Comparable Municipalities
+
+> The motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.3. Business Licensing By-law as it relates to Short Term Rental Accommodations
+
+> That the following actions be taken with respect to the communication, dated July 31, 2025, from Councillor J. Pribil, related to the Business Licensing By-law as it relates to Short Term Rental Accommodations: a)    the Civic Administration BE DIRECTED to review Schedule 21 of the Business Licen...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 4.3. Business Licensing By-law as it relates to Short Term Rental Accommodations
+
+> That the delegation request from D. Lanteigne-Mignault, as appended to the Added Agenda, BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 4.4. Protection of Animals Left Unattended in Motor Vehicles
+
+> That the Civic Administration BE DIRECTED to report back by end of Q2 2026 to the Community and Protective Services Committee with recommendations on the protection of animals left unattended in a motor vehicle, including but not limited to amendments to existing or a new municipal by-law; it bei...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 4.5. Enhancements to Dog Licensing and Control By‑law – Focus on Public Safety Risk Dogs
+
+> The motion BE AMENDED to add a new part to read as follows: The Mayor BE REQUESTED to write a letter to the solicitor general, with respect to this matter, to suggest changes to provincial legislation related to dangerous dogs and public safety.
+
+**✅ Motion Passed (3 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+**Absent (2):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister)
+
+</details>
+
+### 4.5. Enhancements to Dog Licensing and Control By‑law – Focus on Public Safety Risk Dogs
+
+> That part a) of the motion BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 4.5. Enhancements to Dog Licensing and Control By‑law – Focus on Public Safety Risk Dogs
+
+> That part b) of the motion BE APPROVED.
+
+**✅ Motion Passed (3 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+**Absent (2):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister)
+
+</details>
+
+### 4.6. Residential Rental Unit Licensing By-law
+
+> That the motion BE AMENDED to include a new part to read as follows: The Civic Administration BE DIRECTED to report back with the potential of including signage which could include information about whether or not the property and the units in the property are in compliance with municipal standards.
+
+**✅ Motion Passed (3 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Jerry Pribil](/councillors/current/j-pribil)
+
+**Absent (2):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister)
+
+</details>
+
+### 4.6. Residential Rental Unit Licensing By-law
+
+> That the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+

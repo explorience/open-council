@@ -1152,3 +1152,81 @@ I look for a motion to adjourn. Right, Councillor Homue, seconded by Councillor 
 We are adjourned, thanks everybody.
 
 </details>
+
+---
+
+## Votes
+
+*8 substantive votes at this meeting (1 contested, 7 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.2, 2.4 and 2.5 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.3. Licensing Agreement for the Creation of a Food Hub in Cavendish Park, 136 Cavendish Crescent
+
+> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the proposed by-law, as appended to the staff report, dated March 1, 2022, BE INTRODUCED at the Municipal Council meeting to be held on March 22, 2022, to: a)    authorize and approve the Agreement between The...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.6. Pet Limits for Approved Foster Organizations
+
+> Motion to approve the delegation requests from W. Brown and M. Blosh, Animal Welfare Advisory Committee, with respect to this matter.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.6. Pet Limits for Approved Foster Organizations
+
+> Motion to restrict the number of and types of rescue animals in foster homes to be the number of animals allowed in private homes.
+
+**❌ Motion Failed (2 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Nay (1):** [Jesse Helmer](/councillors/current/j-helmer)
+
+**Absent (1):** [Mo Salih](/councillors/current/m-salih)
+
+</details>
+
+### 4.1. K. Pihlak, Executive Director, Oak Park Co-operative Children's Centre - REQUEST FOR DELEGATION STATUS
+
+> That the following actions be taken with respect to the delegation from K. Pihlak, Oak Park Co-Operative Children’s Centre, related to the Bi-Lateral Child Care Agreement: a)    the Mayor BE REQUESTED to call on the Provincial Government to: -    sign the Bi-Lateral Child Care Agreement before Ma...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.1. K. Pihlak, Executive Director, Oak Park Co-operative Children's Centre - REQUEST FOR DELEGATION STATUS
+
+> Motion to approve the delegation request from K. Pihlak, Oak Park Co-operative Children’s Centre, with respect to the Bi-Lateral Child Care Agreement.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.2. COVID-19 Response Update and Program Funding Wind-down
+
+> That, on the recommendation of the Deputy City Manager, Social and Health Development, the following actions be taken with respect to the staff report, dated March 1, 2022, with respect to a COVID-19 Response Update and Program Funding Wind-down: a)    the Mayor BE DIRECTED to write a letter to t...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.3. Draft By-laws: Program Regulating Distribution of Flyers By-law and Distribution of Graphic Flyers to Residential Properties By-law
+
+> That the following actions be taken with respect to the staff report, dated March 1, 2022, related to a Program Regulating Distribution of Flyers and Distribution of Graphic Flyer Deliveries to Residential Properties: a)    the proposed by-law, as appended to the above-noted staff report (Appendi...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+

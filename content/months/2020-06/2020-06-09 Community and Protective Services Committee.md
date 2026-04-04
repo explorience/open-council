@@ -98,3 +98,17 @@ That the Deferred Matters List for the Community and Protective Services Committ
 
 The meeting adjourned at 12:15 PM.
 
+---
+
+## Votes
+
+*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
+
+### 2.1. Kiwanis Park Natural Playground RFP 20-25
+
+> That on the recommendation of the Managing Director, Parks and Recreation, the following actions be taken with respect to the Kiwanis Park Natural Playground RFP 20-25: a)     the bid submitted by Earthscape, 7215 Wellington Rd 86, Wallenstein, Ontario, N0B 2S0, to construct the Kiwanis Park Natu...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

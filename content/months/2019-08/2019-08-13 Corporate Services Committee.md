@@ -235,3 +235,33 @@ The Corporate Services Committee convened, In Closed Session, from 12:48 PM to 2
 
 The meeting adjourned at 2:36 PM.
 
+---
+
+## Votes
+
+*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That items 2.1 to 2.3 BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 2.4. Demolition - UTRCA Owned - City Managed Property - 1318 Old Bridge Road
+
+> That, on the recommendation of the Managing Director of Corporate Services and City Treasurer, Chief Financial Officer, on the advice of the Manager of Realty Services, with respect to the property owned by the Upper Thames River Conservation Authority (UTRCA) and managed by the City, located at ...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 5.1. Appointment to the London Hydro Board of Directors
+
+> That, on the recommendation of the Corporate Services Committee, the attached proposed by-law BE INTRODUCED at the Municipal Council meeting to be held August 27, 2019 to: a)         ratify and confirm the Resolution of the Shareholder of London Hydro Inc., appended as Schedule “A” to the by-law;...
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (1-0)
+

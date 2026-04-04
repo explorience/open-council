@@ -508,3 +508,57 @@ That the Civic Administration BE DIRECTED to report back with potential process 
 
 The meeting adjourned at 5:37 PM
 
+---
+
+## Votes
+
+*6 substantive votes at this meeting (0 contested, 6 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.7, inclusive, BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 3.2. Public Participation Meeting - Application - 79 Meg Drive (Z-9036)
+
+> That, on the recommendation of the Director, Development Services, based on the application by Almehdi Almuntathar Union, relating to a portion of the property located at 79 Meg Drive, the proposed by-law appended to the staff report dated August 12, 2019 BE INTRODUCED at the Municipal Council me...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 3.3. Public Participation Meeting - Application - Draft Plan of Vacant Land Condominium - 6990 Clayton Walk (39CD-19511)
+
+> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application of 2219008 Ontario Ltd. (York Developments), relating to the property located at 6990 Clayton Walk: a)            the Approval Authority BE ADVISED that no issuers wer...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 3.4. Public Participation Meeting - Heritage Places 2.0: A Description of Potential Heritage Conservation Districts in the City of London
+
+> That, on the recommendation of the Managing Director, Planning and City Planner, with advice of the Heritage Planner, the following actions be taken with respect to the application of The Corporation of the City of London to update and replace the “Heritage Places” guideline document which applie...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 3.5. Public Participation Meeting - Application - Southern Portion of 3086 Tillman Road (Z-8926)
+
+> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application of Westfield Village Estates Inc., relating to the property located at the southern portion of 3086 Tillmann Road: a)            the proposed attached, revised, by-law...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 5.1. Minor Variances Submitted Under Section 45(1.4) of the Planning Act
+
+> That the Civic Administration BE DIRECTED to report back with potential process options in response to applications for minor variances submitted under section 45.1.4) of the Planning Act.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+

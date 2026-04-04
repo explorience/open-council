@@ -126,3 +126,33 @@ The meeting adjourned at 12:17 PM.
 
 ****
 
+---
+
+## Votes
+
+*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That items 2.1 and 2.2 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4. Items for Direction
+
+> Approve items 4.1 and 4.2.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 6. Adjournment
+
+> That the meeting adjourn.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+

@@ -820,3 +820,142 @@ None.
 
 The meeting adjourns at 8:50 PM.
 
+---
+
+## Votes
+
+*11 substantive votes at this meeting (7 contested, 4 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That items 2.2, 2.3 and 2.5 BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.1. Mandatory Face Coverings By-law Status Update
+
+> That the requested delegations, as identified on the public added agenda, BE APPROVED to be heard at this time.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 4.2. Community Diversity and Inclusion Strategy Update
+
+> That the motion be amended in parts b) and c) to add the words "in principle" following the words BE ENDORSED, with the amended parts to read as follows: b)       the recommendations of the CDIS outlined in Appendix A (page 251 of the Agenda), to end anti-Black and anti-indigenous racism in Londo...
+
+**✅ Motion Passed (9 to 6) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst)
+
+**Nay (4):** [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+</details>
+
+### 4.3. 1st Report of the Governance Working Group
+
+> The Civic Administration BE DIRECTED to post to the City Website the agendas and reports of the Working Groups as established by Council; it being noted that these would be included on the “Advisory and Other Committee Meetings” page;
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.3. 1st Report of the Governance Working Group
+
+> That the following actions be taken with respect to the 1st Report of the Governance Working Group from its meeting held on August 24, 2020:    a)       the Civic Administration BE DIRECTED to report back to the Governance Working Group (GWG), with respect to the advisory committee review, as it ...
+
+**✅ Motion Passed (10 to 5)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih)
+
+**Nay (3):** [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+</details>
+
+### 4.4. Request for Referral to the Governance Working Group
+
+> That the Governance Working Group BE DIRECTED to consider how London might be better served by changes to the structure and operations of the next council.
+
+**❌ Motion Failed (5 to 9)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Elizabeth Peloza](/councillors/current/e-peloza), [Michael van Holst](/councillors/current/m-van-holst)
+
+**Nay (7):** [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Absent (1):** [Mo Salih](/councillors/current/m-salih)
+
+</details>
+
+### 4.5. Resubmitting - Consideration of Appointment to the London Public Library Board (Requires 1 Member)
+
+> That Chelsea Smith BE APPOINTED to the London Public Library Board for the term ending November 15, 2022;    it being noted that the Strategic Priorities and Policy Committee received the following written submissions with respect to this matter: - a communication dated July 3, 2020 from M. B. Mc...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 4.5. Resubmitting - Consideration of Appointment to the London Public Library Board (Requires 1 Member)
+
+> Appointment to the London Public Library Board - Round 1
+
+**❌ Majority Winner: No majority 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (9):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+</details>
+
+### 4.5. Resubmitting - Consideration of Appointment to the London Public Library Board (Requires 1 Member)
+
+> Appointment to the London Public Library Board - Round 2
+
+**❌ Majority Winner: No majority 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (9):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+</details>
+
+### 4.5. Resubmitting - Consideration of Appointment to the London Public Library Board (Requires 1 Member)
+
+> Appointment to the London Public Library Board - Round 3
+
+**❌ Majority Winner: Chelsea Smith 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+</details>
+
+### 4.5. Resubmitting - Consideration of Appointment to the London Public Library Board (Requires 1 Member)
+
+> Test motion to confirm the voting capability of remote attendees.
+
+**✅ Motion Passed (10 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Absent (1):** [Mo Salih](/councillors/current/m-salih)
+
+</details>
+

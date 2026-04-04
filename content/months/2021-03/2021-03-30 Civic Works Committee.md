@@ -648,3 +648,95 @@ That the Civic Works Committee Deferred Matters List, as at March 22, 2021, BE R
 
 The meeting adjourned at 2:53 PM.
 
+---
+
+## Votes
+
+*9 substantive votes at this meeting (2 contested, 7 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.7, 2.9 to 2.11, 2.15 and 2.16 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.8. Automated Speed Enforcement - Spring 2021 Update
+
+> That the Civic Administration BE DIRECTED to proceed with the implementation of the Automated Speed Enforcement (ASE) program; it being noted that the staff report, dated March 30, 2021, with respect to this matter, was received. (2021-T08)
+
+**✅ Motion Passed (5 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/current/e-holder), [Jesse Helmer](/councillors/current/j-helmer)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 2.13. Green Bin Program Design - Community Engagement Feedback
+
+> Motion to approve part a) of the clause.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.13. Green Bin Program Design - Community Engagement Feedback
+
+> Motion to approve the remainder of the clause, parts b) to f), inclusive.
+
+**✅ Motion Passed (5 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/current/e-holder), [Jesse Helmer](/councillors/current/j-helmer)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 2.17. Dundas Place - Temporary Bicycle Lanes
+
+> Motion to approve part a) of the clause.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 2.17. Dundas Place - Temporary Bicycle Lanes
+
+> Motion to approve part b) of the clause.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 4.1. 2nd Report of the Cycling Advisory Committee
+
+> That the following actions be taken with respect to the 2nd Report of the Cycling Advisory Committee, from its meeting held on March 17, 2021: a)     the following actions be taken with respect to the Notice of Revised Application and Notice of Public Meeting, dated March 11, 2021, from L. Davies...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 4.2. (ADDED) Imperial Road Sidewalk - Councillor M. Cassidy
+
+> That the Civic Administration BE DIRECTED to report back to a future meeting of the Civic Works Committee with the results of the photometric study on Imperial Road and the detailed design of the proposed sidewalk on the east side of Imperial Road prior to tendering or commencing work; it being n...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 4.3. (ADDED) Reallocation of Sidewalk Construction Funds - Councillor M. van Holst
+
+> That the Civic Administration BE DIRECTED to transfer any budgetary savings resulting from proposed sidewalk infrastructure being removed from the related 2021 road reconstruction projects to the new sidewalk construction program; it being noted that a communication, appended to the Added Agenda,...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+

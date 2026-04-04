@@ -787,3 +787,90 @@ None.
 
 The meeting adjourned at 10:20 PM.
 
+---
+
+## Votes
+
+*9 substantive votes at this meeting (1 contested, 8 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.2, 2.3 and 2.7 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.1. 1st Report of the London Advisory Committee on Heritage
+
+> That, the following actions be taken with respect to the 1st Report of the London Advisory Committee on Heritage, from its meeting held on December 12, 2018: a)         the London Advisory Committee on Heritage 2019 Membership with Community Heritage Ontario BE APPROVED; it being noted that the C...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.3. Application - 852 Commissioners Road East
+
+> That, on the recommendation of the Senior Planner, Development Planning, based on the application by Escalade Property Corporation, relating to the property located at 852 Commissioners Road East, the proposed by-law appended to the staff report dated January 7, 2019 BE INTRODUCED at the Municipa...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.5. Bill 66, "Restoring Ontario's Competitiveness Act 2018"
+
+> Motion to add a new part c) which reads: the Premier and the Ministers of Finance, and Municipal Affairs and Housing BE INFORMED that the City of London would request that any proposed legislation protect the public's right to community based land use planning, health and environmental protection...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer)
+
+**Nay (1):** [Phil Squire](/councillors/current/p-squire)
+
+**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+
+</details>
+
+### 2.6. Cannabis Retail Stores
+
+> That, on the recommendation of the Managing Director, City Planning and City Planner, with the concurrence of the Managing Director, Development and Compliance Services and Chief Building Official, the following actions be taken with respect to the review of potential locations for Cannabis Retai...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 2.7. Candidate Approval for the Urban Design Peer Review Panel
+
+> That, on the recommendation of the Director, Development Services, the following candidates BE APPROVED for the positions listed below on the Urban Design Peer Review Panel: a)         Andrew Bousfield – Position of Architect/Urban Designer; b)         Tim O’Brien – Position of Landscape Architec...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.1. Public Participation Meeting - Application - 2475, 2506, 2555 Bonder Road, 2535 Advanced Avenue, 2575 Boyd Court (Z-8949)
+
+> That, on the recommendation of the Director, Development Services, with respect to the application by The Corporation of the City of London, Fanshawe College, Western University, relating to the properties located at 2475, 2506, 2555 Bonder Road, 2535 Advanced Avenue, 2575 Boyd Court,the proposed...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.2. Public Participation Meeting - Application - 470 Colborne Street (OZ-8948)
+
+> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by Peter and Janice Denomme, relating to the property located at 470 Colborne Street: a)          the proposed by-law appended to the staff report dated January 7, 201...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.3. Public Participation Meeting - Application - 2835 Sheffield Place - Zoning By-law Amendment - Revisions to Draft Plan of Subdivision - Draft Plan of Vacant Land Condominium (Z-8793 / 39T-09502 / 39CD-18502)
+
+> That, on the recommendation of the Senior Planner, Development Services, the following actions be taken with respect to the application by Sifton Properties Limited, relating to the lands located at 2835 Sheffield Place (also known as Block 153 within the Victoria on the River Draft Plan of Subdi...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+

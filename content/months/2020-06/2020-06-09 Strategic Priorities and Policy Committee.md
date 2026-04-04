@@ -545,3 +545,104 @@ That the Middlesex-London Health Unit Board BE REQUESTED to respond to the issue
 
 The meeting adjourns at 7:31 PM.
 
+---
+
+## Votes
+
+*9 substantive votes at this meeting (3 contested, 6 unanimous). Procedural motions excluded.*
+
+### 4.1. Consideration of Appointment to the London Public Library (Requires 1 Member)
+
+> That the matter of the ballot appointment of a member to the London Public Library Board, BE REFERRED to a future meeting of the Strategic Priorities and Policy Committee, at such time when all the members are able to vote simultaneously.
+
+**✅ Motion Passed (12 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 4.1. Consideration of Appointment to the London Public Library (Requires 1 Member)
+
+> The the appointment process which would proceed with a 26 name slate for consideration of appointment to the London Public Library Board, BE APPROVED.
+
+**✅ Motion Passed (9 to 5)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst)
+
+**Nay (3):** [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 4.1. Consideration of Appointment to the London Public Library (Requires 1 Member)
+
+> Shall the ruling of the Chair to proceed with consideration of a referral of the appointment process motion, BE SUSTAINED?
+
+**✅ Motion Passed (12 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 4.2. Resignation from the Argyle Business Improvement Association
+
+> That the communication dated May 22, 2020 from R. Sidhu, Executive Director, Argyle BIA with respect to the resignation of Dale Irwin BE ACCEPTED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.3. Resignation and Confirmation of Appointment to the Hyde Park Business Improvement Association
+
+> That the following actions be taken with respect to the Hyde Park Business Improvement Association:    a)      the resignation of Mandi Hurst dated May 21, 2020 from the Hyde Park Business Improvement Association BE ACCEPTED; and,    b)      Jean Coles BE APPOINTED to the Hyde Park Business Impro...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.4. Resignation from the Lower Thames Valley Conservation Authority
+
+> That the communication dated May 19, 2020 regarding the resignation of Kimble F. Ainslie from the Lower Thames Valley Conservation Authority BE ACCEPTED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 5.1. Anti-Black, Anti-Indigenous, People of Colour Racism
+
+> WHEREAS the Municipal Council of The Corporation of the City of London acknowledges that systemic anti-Black, anti-Indigenous and people of colour racism exists in London; AND WHEREAS the Municipal Council unequivocally condemns racism in all of its forms: AND WHEREAS the Municipal Council acknow...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 5.2. London Boards - Black Lives Matter Rally
+
+> That the London Police Services Board and all School Boards operating in London BE REQUESTED to respond to the issues raised by Londoners during the Black Lives Matter Rally held on June 6, 2020.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 5.2. London Boards - Black Lives Matter Rally
+
+> That the Middlesex-London Health Unit Board BE REQUESTED to respond to the issues raised by Londoners during the Black Lives Matter Rally held on June 6, 2020.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+

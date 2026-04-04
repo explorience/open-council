@@ -266,3 +266,32 @@ The meeting adjourned at 5:03 PM.
 
 ****
 
+---
+
+## Votes
+
+*2 substantive votes at this meeting (1 contested, 1 unanimous). Procedural motions excluded.*
+
+### 5.1. Merrymount Children's Centre Funding Request
+
+> That the following actions be taken with respect to the request for funding from Merrymount Family Support and Crisis Centre: a)      the request for 2019 funding in the amount of $368,704 BE REFERRED to the 2019 Budget process for consideration; b)      the Budget Chair BE REQUESTED to work with...
+
+**✅ Motion Passed (11 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/current/e-holder), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire)
+
+**Absent (2):** [Michael van Holst](/councillors/current/m-van-holst), [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 6. Adjournment
+
+> That the meeting Adjourn.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+

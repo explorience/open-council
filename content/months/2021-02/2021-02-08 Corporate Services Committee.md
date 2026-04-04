@@ -291,3 +291,41 @@ The meeting adjourned at 1:23 PM.
 
 ****
 
+---
+
+## Votes
+
+*4 substantive votes at this meeting (0 contested, 4 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That items 2.1 to 2.7, excluding item 2.5, BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.5. London Community Recovery Network – Ideas for Action by Municipal Council
+
+> That, on the recommendation of the City Manager and the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the following actions be taken with respect to the London Community Recovery Network:    a)   the implementation plans for the following ideas for action subm...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. Application - Issuance of Proclamation - Personal Support Worker Day
+
+> That based on the application dated January 14, 2021, from the Canadian PSW Network, May 19, 2021 BE PROCLAIMED Personal Support Worker (PSW) Day.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 5.1. Paid Sick Leave Enhancement
+
+> That the Federal and Provincial Governments BE ADVISED that the Municipal Council of The Corporation of the City of London requests the two levels of government to work together, as soon as possible, to enhance paid sick leave for all, in order to ensure that individuals are not forced to attend ...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

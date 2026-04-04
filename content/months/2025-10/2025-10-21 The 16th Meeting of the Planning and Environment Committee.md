@@ -1000,3 +1000,73 @@ Thank you. I'll look for a motion to adjourn. Councillor Cudi, seconded by Counc
 Motion carries. Meetings adjourned.
 
 </details>
+
+---
+
+## Votes
+
+*7 substantive votes at this meeting (1 contested, 6 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.3 and 2.4, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.2. Update on Bill 17 and Green Development Guidelines (Framework)
+
+> That the staff report dated October 21, 2025, related to Update on Bill 17 and Green Development Guidelines (Framework) BE REFERRED back to the Civic Administration to report back to a future meeting of the Planning and Environment on the following: i)          a terms of reference for consultati...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 2.2. Update on Bill 17 and Green Development Guidelines (Framework)
+
+> That the delegation request from M. Wallace, London Development Institute, as appended to the added agenda BE APPROVED, to be heard at this time.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.1. 34 Adelaide Street South - Z-25100
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Scott Wilson (c/o MHBC Planning) relating to the property located at 34 Adelaide Street South, the proposed by-law as appended to the staff report dated October...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.2. 4680 Wellington Road South - TZ-25097
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 761030 Ontario Ltd. (c/o Navdeep Jim Grewal) relating to the property located at 4680 Wellington Road South, the proposed by-law as appended to the staff report...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.1. Deputy Mayor S. Lewis and Councillor C. Rahman - Proposal to Limit Bedroom Count in Additional Residential Units
+
+> That the Civic Administration BE DIRECTED bring forward a city initiated Zoning By-law amendment to the current Zoning By-law No. Z-1 to: a)    establish a maximum of two (2) bedrooms for any Additional Residential Unit (ARU);  b)    provide that no more than three (3) bedrooms in total may be co...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.1. Deputy Mayor S. Lewis and Councillor C. Rahman - Proposal to Limit Bedroom Count in Additional Residential Units
+
+> That the delegation requests from M. Wallace, London Development Institute, J. Gray and E. Granillo as appended to the added agenda BE APPROVED, to be heard at this time.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
