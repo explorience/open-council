@@ -5,15 +5,15 @@ slug: "h-mcalister"
 meetingCount: 217
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 3439
-votesYea: 2728
-votesNay: 245
+totalVotes: 3708
+votesYea: 2971
+votesNay: 271
 votesAbsent: 466
-attendanceRate: 93.9
-participationRate: 86.4
-yeaRate: 91.8
-contestedDissentRate: 15.1
-contestedVotes: 1217
+attendanceRate: 94.2
+participationRate: 87.4
+yeaRate: 91.6
+contestedDissentRate: 14.7
+contestedVotes: 1370
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -30,10 +30,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 3,439 |
-| Voted Yea | 2,728 (79.3%) |
-| Voted Nay | 245 (7.1%) |
-| Absent | 466 (13.6%) |
+| Total Votes | 3,708 |
+| Voted Yea | 2,971 (80.1%) |
+| Voted Nay | 271 (7.3%) |
+| Absent | 466 (12.6%) |
 
 
 ### Substantive Votes
@@ -42,17 +42,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,207 |
-| Voted Yea | 1,619 (88.1%) |
-| Voted Nay | 218 (11.9%) |
+| Substantive Votes | 2,364 |
+| Voted Yea | 1,752 (87.9%) |
+| Voted Nay | 242 (12.1%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 15.1%
-- **Contested Votes**: 1,217
+- **Dissent Rate**: 14.7%
+- **Contested Votes**: 1,370
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -63,37 +63,37 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 376 |
-| Voted Yea | 295 (84.0%) |
-| Voted Nay | 56 (16.0%) |
+| Budget Votes | 385 |
+| Voted Yea | 303 (84.2%) |
+| Voted Nay | 57 (15.8%) |
 | Absent | 25 |
 
 
 ## Attendance
 
-- **Attendance Rate**: 93.9%
-- **Meetings Attended**: 200 of 213
+- **Attendance Rate**: 94.2%
+- **Meetings Attended**: 213 of 226
 - **Meetings Missed**: 13
 - **Trend**: Stable -
 
 **Attendance by Year:**
-  - 2022: 100.0% (9/9 meetings)
   - 2023: 90.9% (70/77 meetings)
   - 2024: 93.4% (71/76 meetings)
-  - 2025: 98.0% (50/51 meetings)
+  - 2025: 98.2% (54/55 meetings)
+  - 2026: 100.0% (9/9 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
-- Skylar Franke (95.5%)
-- Anna Hopkins (94.2%)
-- Josh Morgan (94.2%)
+- Skylar Franke (94.8%)
+- Josh Morgan (94.3%)
+- Anna Hopkins (93.6%)
 
 **Least aligned with:**
-- Susan Stevenson (85.4%)
-- Paul Van Meerbergen (87.4%)
-- Sam Trosow (89.9%)
+- Susan Stevenson (85.1%)
+- Paul Van Meerbergen (87.8%)
+- Sam Trosow (89.0%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -102,101 +102,98 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 1,756 | 1,475 | 120 | 90.8% |
-| Strategic Priorities and Policy Committee | 974 | 679 | 62 | 76.1% |
+| Council | 1,942 | 1,648 | 133 | 91.7% |
+| Strategic Priorities and Policy Committee | 1,019 | 717 | 69 | 77.1% |
 | Community and Protective Services Committee | 266 | 228 | 14 | 91.0% |
 | Budget Committee | 189 | 135 | 39 | 92.1% |
 | Corporate Services Committee | 164 | 130 | 1 | 79.9% |
 | Civic Works Committee | 90 | 81 | 9 | 100.0% |
+| Infrastructure and Corporate Services Committee | 38 | 32 | 6 | 100.0% |
 
 
 ## Notable Dissenting Votes
 
 *Recent split votes where Hadleigh McAlister voted against the final outcome:*
 
-### 2025-11-20: Amendment - Budget Case #P-2 - Councillor S. Stevenson
+### 2026-03-03: (4.1) Deputy Mayor S. Lewis, Councillors P. Cuddy and C. Rahman - Zoning By-law Amendment - Parking Changes
 
-[6th Meeting of the Budget Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English)
+[4th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
 
-> That Business Case #P-2 Middlesex-London Health Unit Debt Retirement – BE EXCLUDED from the Mayor’s Tabled 2026 Annual Budget Update:
+> That part b) and c) of the motion BE AMENDED to read as follows: b) amend section 4.19.6) h) I) as it applies to lands outside of Western University Near Campus Neighbourhood to allow a maximum drivew...
 
- 
+Voted **Nay** - Motion Passed (11 to 3)
 
-2026 Operating Expenditures: -$2,366,000          2026 Tax Lev...
+### 2026-03-03: (2.4) Residential Rental Unit Licensing (RRUL) License Display
 
-Voted **Yea** - Motion Failed (5 to 10)
+[4th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
 
-### 2025-11-20: (ADDED) Amendment - Councillors C. Rahman and S. Stevenson
+> That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the findings of Civic Administration regarding the advisability of amending the Residential Rental Unit Licensing ...
 
-[6th Meeting of the Budget Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English)
+Voted **Nay** - Motion Passed (7 to 6)
 
-> That the amendment BE AMENDED to change three (3) years to two (2) years.
+### 2026-03-03: (4.4) Summary Update from Internal Audit
 
-Voted **Nay** - Motion Passed (10 to 5)
+[4th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
 
-### 2025-11-20: (ADDED) Amendment - Councillors C. Rahman and S. Stevenson
+> That the motion BE AMENDED to add a new part to read as follows: MNP BE DIRECTED to change the submission date for the Privacy Audit from December 9, 2026 to October 7, 2026 and the submission date fo...
 
-[6th Meeting of the Budget Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English)
+Voted **Nay** - Motion Passed (8 to 3)
 
-> That the amendment, as amended, BE APPROVED.
+### 2026-02-23: Restricted Acts of Council after Nomination Day and Voting Day
+
+[4th Meeting of the Infrastructure and Corporate Services Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=e7317b73-f2ee-4a30-a66e-a583fad79467&Agenda=PostMinutes&lang=English)
+
+> That the staff report dated February 23, 2026 to delegate certain authority, should Municipal Council’s actions be restricted after Nomination Day and/or Voting Day in 2026 BE REFERRED to the Civic Ad...
+
+Voted **Nay** - Motion Passed (3 to 2)
+
+### 2026-02-23: Update to Council Policy - Travel and Business Expenses
+
+[4th Meeting of the Infrastructure and Corporate Services Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=e7317b73-f2ee-4a30-a66e-a583fad79467&Agenda=PostMinutes&lang=English)
+
+> That the motion BE AMENDED to include a new part that reads as follows: the Civic Administration BE DIRECTED to prepare two separate policies: one governing Travel and Business Expenses for Civic Admi...
+
+Voted **Nay** - Motion Passed (3 to 2)
+
+### 2026-02-10: (2.2) Good Neighbour Agreements
+
+[3rd Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English)
+
+> That part a) of the motion BE AMENDED as follows: i) the Civic Administration BE DIRECTED to provide a one-year contract renewal for the procurement framework with an option to renew for one-year; At ...
 
 Voted **Nay** - Motion Passed (8 to 7)
 
-### 2025-11-20: (ADDED) Amendment - Budget Case #P-12 - Councillor S. Stevenson
+### 2026-02-10: (4.1) Allocating the City of London Community Grants Annual Stream to Fund Capital Projects Only in the 2026 and 2027 Budget Cycles
 
-[6th Meeting of the Budget Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English)
+[3rd Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English)
 
-> That Business Case #P-12 Resident Satisfaction Survey Frequency - BE EXCLUDED from the Mayor’s Tabled 2026 Annual Budget: 2026 Operating Expenditures: $0                         2026 Tax Levy: $0     ...
+> That the motion BE AMENDED to read as follows: That the attached by-law being a by-law to amend By-law No. CPOL.-38-234, as amended, to limit the City of London Community Grants Annual Program to the ...
 
 Voted **Nay** - Motion Passed (10 to 5)
 
-### 2025-11-20: (ADDED) Amendment - Councillor D. Ferreira
+### 2026-02-10: (4.2) Temporary Warming Centres
 
-[6th Meeting of the Budget Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English)
+[3rd Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English)
 
-> That the motion BE AMENDED to include the following: the free two-hour parking program through the Honk App, including two-hour free on-street parking in the Core Area (Midtown, Downtown, and Old East...
-
-Voted **Yea** - Motion Failed (7 to 8)
-
-### 2025-11-20: (ADDED) Amendment – Councillor H. McAlister 
-
-[6th Meeting of the Budget Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English)
-
-> That the Mayor’s Tabled 2026 Annual Budget Update BE AMENDED in order to fund the Housing Stability Bank Program $500,000 ($250,000 for 2026 and $250,000 for 2027) from the Community Investment Reserv...
-
-Voted **Yea** - Motion Failed (7 to 8)
-
-### 2025-11-18: Consideration of Appointments to Western University Board of Governors 
-
-[14th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=01f83737-b25c-48a3-a2a4-1cc3dca73e95&Agenda=PostMinutes&lang=English)
-
-> That the communication dated November 7, 2025 from A. Bryson, University Secretary, Western with respect to appointment to the Western University Board of Governors BE RECEIVED and that Civic Administ...
-
-Voted **Yea** - Motion Failed (5 to 10)
-
-### 2025-11-04: (4.1) Deputy Mayor S. Lewis and Councillor C. Rahman - Proposal to Limit Bedroom Count in Additional Residential Units 
-
-[17th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bf0722a2-1914-45fb-8838-6e75627dd764&Agenda=PostMinutes&lang=English)
-
-> That the proposed Interim Control by-law BE AMENDED to increase the gross floor area (GFA) limit from eighty percent (80%) to ninety-five percent (95%) of the GFA of the primary dwelling unit.
+> That part b) BE FURTHER AMENDED: or when Environment Canada issues an extreme weather alert (yellow, orange, red) with respect to ice.
 
 Voted **Yea** - Motion Failed (6 to 9)
 
-### 2025-11-04: (4.1) 2025 Council Resourcing Review Task Force Final Report
+### 2026-02-10: (3.4) 767 Fanshawe Park Road East and 679 Dunboyne Crescent - Z-25151 (Relates to Bill No. 82)
 
-[17th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bf0722a2-1914-45fb-8838-6e75627dd764&Agenda=PostMinutes&lang=English)
+[3rd Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English)
 
-> That the Final Report of the 2025 Council Resourcing Review Task Force dated October 3, 2025 BE REFERRED to Civic Administration to report back to the December 9, 2025 meeting of the Strategic Priorit...
+> vi) the sidewalk and/or access on/through 679 Dunboyne Crescent from the apartment complex development at 767 Fanshawe Park Road East to Dunboyne Crescent shall be prohibited.
 
-Voted **Yea** - Motion Failed (6 to 9)
+Voted **Nay** - Motion Passed (10 to 5)
 
-### 2025-11-04: (4.1) 2025 Council Resourcing Review Task Force Final Report
+### 2026-02-03: Diversity, Inclusion and Anti-Oppression Community Advisory Committee (DIACAC) - Request for Direction
 
-[17th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bf0722a2-1914-45fb-8838-6e75627dd764&Agenda=PostMinutes&lang=English)
+[3rd Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=48f12c8d-c951-44dc-905b-05acf0df5b10&Agenda=PostMinutes&lang=English)
 
-> That part g) of the motion BE APPROVED: g) a mechanism to compensate Standing Committee Chairs for their additional responsibilities BE IMPLEMENTED, with compensation to be set at 4% of the base annua...
+> That the report dated February 3, 2026, titled “Diversity, Inclusion and Anti-Oppression Community Advisory Committee (DIACAC) – Request for Direction” BE REFERRED to Civic Administration to consult f...
 
-Voted **Yea** - Motion Failed (7 to 8)
+Voted **Yea** - Motion Failed (4 to 10)
 
 
 ## Committees Served

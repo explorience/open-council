@@ -5,15 +5,15 @@ slug: "j-morgan"
 meetingCount: 666
 yearsActive: "2014 - 2026"
 isCurrent: true
-totalVotes: 10581
-votesYea: 8772
-votesNay: 541
-votesAbsent: 1268
-attendanceRate: 92.0
-participationRate: 88.0
-yeaRate: 94.2
+totalVotes: 10841
+votesYea: 8960
+votesNay: 564
+votesAbsent: 1317
+attendanceRate: 92.2
+participationRate: 87.9
+yeaRate: 94.1
 contestedDissentRate: 5.3
-contestedVotes: 5245
+contestedVotes: 5365
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -31,10 +31,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 10,581 |
-| Voted Yea | 8,772 (82.9%) |
-| Voted Nay | 541 (5.1%) |
-| Absent | 1,268 (12.0%) |
+| Total Votes | 10,841 |
+| Voted Yea | 8,960 (82.6%) |
+| Voted Nay | 564 (5.2%) |
+| Absent | 1,317 (12.1%) |
 
 
 ### Substantive Votes
@@ -43,9 +43,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 7,747 |
-| Voted Yea | 6,372 (92.6%) |
-| Voted Nay | 508 (7.4%) |
+| Substantive Votes | 7,898 |
+| Voted Yea | 6,475 (92.4%) |
+| Voted Nay | 530 (7.6%) |
 
 
 ### Dissent on Contested Votes
@@ -53,7 +53,7 @@ prefillQuestions:
 *Only counts non-unanimous votes where the councillor participated*
 
 - **Dissent Rate**: 5.3%
-- **Contested Votes**: 5,245
+- **Contested Votes**: 5,365
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -64,37 +64,37 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 1,400 |
-| Voted Yea | 1,204 (86.7%) |
-| Voted Nay | 184 (13.3%) |
+| Budget Votes | 1,409 |
+| Voted Yea | 1,213 (86.8%) |
+| Voted Nay | 184 (13.2%) |
 | Absent | 12 |
 
 
 ## Attendance
 
-- **Attendance Rate**: 92.0%
-- **Meetings Attended**: 706 of 767
+- **Attendance Rate**: 92.2%
+- **Meetings Attended**: 718 of 779
 - **Meetings Missed**: 61
 - **Trend**: Improving ^
 
 **Attendance by Year:**
-  - 2022: 98.2% (54/55 meetings)
   - 2023: 56.2% (59/105 meetings)
   - 2024: 100.0% (61/61 meetings)
-  - 2025: 100.0% (48/48 meetings)
+  - 2025: 100.0% (52/52 meetings)
+  - 2026: 100.0% (8/8 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
-- Steve Lehman (96.4%)
-- Shawn Lewis (96.0%)
-- Elizabeth Peloza (95.6%)
+- Steve Lehman (96.5%)
+- Shawn Lewis (96.1%)
+- Peter Cuddy (95.2%)
 
 **Least aligned with:**
-- Sam Trosow (85.9%)
-- Susan Stevenson (86.6%)
-- David Ferreira (90.9%)
+- Sam Trosow (85.3%)
+- Susan Stevenson (86.7%)
+- David Ferreira (89.8%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -103,99 +103,99 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 5,002 | 4,669 | 253 | 98.4% |
-| Strategic Priorities and Policy Committee | 3,030 | 2,382 | 176 | 84.4% |
+| Council | 5,188 | 4,805 | 265 | 97.7% |
+| Strategic Priorities and Policy Committee | 3,075 | 2,419 | 184 | 84.7% |
 | Corporate Services Committee | 1,069 | 964 | 19 | 92.0% |
-| Planning and Environment Committee | 634 | 161 | 3 | 25.9% |
+| Planning and Environment Committee | 640 | 162 | 4 | 25.9% |
 | Civic Works Committee | 348 | 285 | 2 | 82.5% |
-| Community and Protective Services Committee | 282 | 175 | 13 | 66.7% |
+| Community and Protective Services Committee | 296 | 181 | 14 | 65.9% |
 | Budget Committee | 189 | 115 | 74 | 100.0% |
-| Infrastructure and Corporate Services Committee | 27 | 21 | 1 | 81.5% |
+| Infrastructure and Corporate Services Committee | 36 | 29 | 2 | 86.1% |
 
 
 ## Notable Dissenting Votes
 
 *Recent split votes where Josh Morgan voted against the final outcome:*
 
-### 2025-11-20: Amendment - Budget Case #P-6
+### 2026-03-09: Request to Expedite the Review of the Property Standards By-law CP-24 as it Pertains to Property Conditions that Enable Rat Infestations
 
-[6th Meeting of the Budget Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English)
+[4th Meeting of the Community and Protective Services Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=0f86effb-a62a-473d-a937-36ca9a9f4d4a&Agenda=PostMinutes&lang=English)
 
-> That Business Case #P-6 - Reduced Road Network Improvements - BE EXCLUDED from the Mayor’s Tabled 2026 Annual Update Budget: 2026 Operating Expenditures:  $114,000          2026 Tax Levy:  $114,000   ...
+> That the motion BE AMENDED to add a new part d) to read as follows: The Civic Administration BE DIRECTED to consult with the Environmental Stewardship and Action Community Advisory Committee about the...
 
-Voted **Nay** - Motion Passed (11 to 4)
+Voted **Nay** - Motion Passed (5 to 1)
 
-### 2025-11-20: (ADDED) Amendment - Budget Case #P-12 - Councillor S. Stevenson
+### 2026-02-10: (2.3) System Area Update: Supports for Those Living Unsheltered: Basic Needs and Pathway Options
 
-[6th Meeting of the Budget Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English)
+[3rd Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English)
 
-> That Business Case #P-12 Resident Satisfaction Survey Frequency - BE EXCLUDED from the Mayor’s Tabled 2026 Annual Budget: 2026 Operating Expenditures: $0                         2026 Tax Levy: $0     ...
+> That, the staff report dated January 26, 2026 with respect to the System Area Update: Supports for Those Living Unsheltered: Basic Needs and Pathway Options, BE REFERRED to a future meeting of the Com...
+
+Voted **Nay** - Motion Passed (8 to 7)
+
+### 2026-02-10: (3.4) 767 Fanshawe Park Road East and 679 Dunboyne Crescent - Z-25151 (Relates to Bill No. 82)
+
+[3rd Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English)
+
+> vi) the sidewalk and/or access on/through 679 Dunboyne Crescent from the apartment complex development at 767 Fanshawe Park Road East to Dunboyne Crescent shall be prohibited.
 
 Voted **Nay** - Motion Passed (10 to 5)
 
-### 2025-11-20: (ADDED) Amendment - Councillor D. Ferreira
+### 2026-02-10: (3.4) 767 Fanshawe Park Road East and 679 Dunboyne Crescent - Z-25151 (Relates to Bill No. 82)
 
-[6th Meeting of the Budget Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English)
+[3rd Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English)
 
-> That the Mayor’s 2026 Annual Budget Update BE AMENDED by increasing the budget to provide a continuation of the free one-hour parking program through the Honk App, including one-hour free on-street pa...
+> vii) the Civic Administration BE DIRECTED to hold a public participation meeting with respect to the site plan process.
 
-Voted **Yea** - Motion Failed (7 to 8)
+Voted **Nay** - Motion Passed (8 to 7)
 
-### 2025-11-04: (4.1) Deputy Mayor S. Lewis and Councillor C. Rahman - Proposal to Limit Bedroom Count in Additional Residential Units 
+### 2026-02-10: (2.4) Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program
 
-[17th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bf0722a2-1914-45fb-8838-6e75627dd764&Agenda=PostMinutes&lang=English)
+[3rd Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English)
 
-> That, pursuant to section 10.5 of the Council Procedure By-law, “shall the ruling of the Chair BE SUSTAINED?”
-
-Voted **Yea** - Motion Failed (5 to 10)
-
-### 2025-11-04: (4.1) 2025 Council Resourcing Review Task Force Final Report
-
-[17th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bf0722a2-1914-45fb-8838-6e75627dd764&Agenda=PostMinutes&lang=English)
-
-> That part g) of the motion BE APPROVED: g) a mechanism to compensate Standing Committee Chairs for their additional responsibilities BE IMPLEMENTED, with compensation to be set at 4% of the base annua...
+> That part b) of the motion BE AMENDED by deleting the words “the term of the loan is extended from five years to ten years” and substituting “and be further revised to a loan term of five years,” it b...
 
 Voted **Yea** - Motion Failed (7 to 8)
 
-### 2025-10-28: 2025 Council Resourcing Review Task Force Final Report
+### 2026-02-03: Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program
 
-[13th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=82e5fae3-d639-432a-9b68-c3549aebbdb7&Agenda=PostMinutes&lang=English)
+[3rd Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=48f12c8d-c951-44dc-905b-05acf0df5b10&Agenda=PostMinutes&lang=English)
 
-> Motion to approve part n): n) the Civic Administration BE DIRECTED to take the necessary steps to establish a severance package for Members of Council who are unsuccessful in re-election, calculated a...
+> That the motion BE FURTHER AMENDED to extend the term of the loan from five years to ten years.
 
-Voted **Nay** - Motion Passed (9 to 6)
+Voted **Nay** - Motion Passed (12 to 2)
 
-### 2025-10-14: Councillor S. Franke - Revisiting the Urban Growth Boundary Review Using Updated Population Projections
+### 2026-01-13: Mayoral Direction 2024-001 – City-Owned Parking Lot Redevelopment 199 Ridout Street North and 84 Horton Street East
 
-[16th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=2e9c2bbf-90ec-4081-ab98-6a0f215eab1c&Agenda=PostMinutes&lang=English)
+[2nd Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=3ff44bea-1732-40f8-a0be-0bb3b886e41b&Agenda=PostMinutes&lang=English)
 
-> That pursuant to section 11.3 of the Council Procedure By-law, leave BE GRANTED to permit Councillor S. Franke to move a motion related to item 7.2 on the Council Agenda related to Revisiting the Urba...
+> b)    the Civic Administration BE DIRECTED to take no further action on a procurement process to solicit development proposals from qualified firms that can redevelop City-owned parking lots for high-...
 
-Voted **Yea** - Motion Failed (7 to 8)
+Voted **Nay** - Motion Passed (11 to 4)
 
-### 2025-10-14: (3.5) 1511 Clarke Road - 39T-24505 (Relates to Bill No.'s 369 and 379)
+### 2025-12-02: Public Participation Meeting - Not to be heard before 1:15 PM - Official Plan Review: Final Urban Growth Boundary Review - O-9595
 
-[16th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=2e9c2bbf-90ec-4081-ab98-6a0f215eab1c&Agenda=PostMinutes&lang=English)
+[The 1st Meeting of the Planning and Environment Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=8d91b1ee-f4a7-4907-b940-3c3769649180&Agenda=PostMinutes&lang=English)
 
-> That item 9, clause 3.5, as amended, BE APPROVED.
+> That Schedule 1 to Appendix “A” of the proposed by-law as appended to the staff report dated December 2, 2025, to adopt the Urban Growth Boundary for The London Plan as part of the Section 26 Official...
 
-Voted **Nay** - Motion Passed (10 to 4)
+Voted **Nay** - Motion Passed (4 to 2)
 
-### 2025-10-14: By-laws
+### 2025-11-25: (2.5) Blue Box Transition Final Year - Part B Update
 
-[16th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=2e9c2bbf-90ec-4081-ab98-6a0f215eab1c&Agenda=PostMinutes&lang=English)
+[18th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=884a7d5b-61ac-4fa6-92cd-79ba0d612538&Agenda=PostMinutes&lang=English)
 
-> That Introduction and First Reading of Bill No.'s 369 and 379 BE APPROVED.
+> Motion to approve part b): b) the Civic Administration BE DIRECTED to investigate and report back to a future meeting of the Infrastructure and Corporate Services Committee on potential interim measur...
 
-Voted **Nay** - Motion Passed (10 to 3)
+Voted **Nay** - Motion Passed (11 to 4)
 
-### 2025-10-14: By-laws
+### 2025-11-25: (2.5) Blue Box Transition Final Year - Part B Update
 
-[16th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=2e9c2bbf-90ec-4081-ab98-6a0f215eab1c&Agenda=PostMinutes&lang=English)
+[18th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=884a7d5b-61ac-4fa6-92cd-79ba0d612538&Agenda=PostMinutes&lang=English)
 
-> That Second Reading of Bill No.'s 369 and 379 BE APPROVED.
+> Motion to approve part c): c) the Civic Administration BE DIRECTED to request the Ministry of Environment, Conservation and Parks amend the Blue Box Regulation (Reg 210/25) to include non-profit organ...
 
-Voted **Nay** - Motion Passed (10 to 3)
+Voted **Nay** - Motion Passed (8 to 7)
 
 
 ## Committees Served

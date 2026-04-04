@@ -5,15 +5,15 @@ slug: "d-ferreira"
 meetingCount: 222
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 2884
-votesYea: 2308
-votesNay: 309
-votesAbsent: 267
-attendanceRate: 97.2
-participationRate: 90.7
-yeaRate: 88.2
-contestedDissentRate: 26.2
-contestedVotes: 1151
+totalVotes: 3181
+votesYea: 2504
+votesNay: 377
+votesAbsent: 300
+attendanceRate: 97.3
+participationRate: 90.6
+yeaRate: 86.9
+contestedDissentRate: 28.4
+contestedVotes: 1295
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -30,10 +30,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 2,884 |
-| Voted Yea | 2,308 (80.0%) |
-| Voted Nay | 309 (10.7%) |
-| Absent | 267 (9.3%) |
+| Total Votes | 3,181 |
+| Voted Yea | 2,504 (78.7%) |
+| Voted Nay | 377 (11.9%) |
+| Absent | 300 (9.4%) |
 
 
 ### Substantive Votes
@@ -42,17 +42,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 1,854 |
-| Voted Yea | 1,366 (84.1%) |
-| Voted Nay | 259 (15.9%) |
+| Substantive Votes | 2,036 |
+| Voted Yea | 1,498 (83.4%) |
+| Voted Nay | 299 (16.6%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 26.2%
-- **Contested Votes**: 1,151
+- **Dissent Rate**: 28.4%
+- **Contested Votes**: 1,295
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -63,37 +63,37 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 318 |
-| Voted Yea | 235 (75.8%) |
-| Voted Nay | 75 (24.2%) |
+| Budget Votes | 329 |
+| Voted Yea | 241 (75.1%) |
+| Voted Nay | 80 (24.9%) |
 | Absent | 8 |
 
 
 ## Attendance
 
-- **Attendance Rate**: 97.2%
-- **Meetings Attended**: 205 of 211
+- **Attendance Rate**: 97.3%
+- **Meetings Attended**: 218 of 224
 - **Meetings Missed**: 6
-- **Trend**: Declining v
+- **Trend**: Stable -
 
 **Attendance by Year:**
-  - 2022: 100.0% (9/9 meetings)
   - 2023: 98.7% (76/77 meetings)
   - 2024: 98.6% (73/74 meetings)
-  - 2025: 92.2% (47/51 meetings)
+  - 2025: 92.7% (51/55 meetings)
+  - 2026: 100.0% (9/9 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
-- Anna Hopkins (94.0%)
-- Skylar Franke (93.6%)
-- Hadleigh McAlister (93.3%)
+- Anna Hopkins (93.3%)
+- Skylar Franke (92.7%)
+- Hadleigh McAlister (91.9%)
 
 **Least aligned with:**
-- Susan Stevenson (79.1%)
-- Paul Van Meerbergen (82.0%)
-- Steve Hillier (85.7%)
+- Susan Stevenson (78.4%)
+- Paul Van Meerbergen (81.0%)
+- Steve Hillier (85.0%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -102,9 +102,9 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 1,547 | 1,338 | 170 | 97.5% |
-| Strategic Priorities and Policy Committee | 695 | 445 | 66 | 73.5% |
-| Community and Protective Services Committee | 323 | 288 | 23 | 96.3% |
+| Council | 1,733 | 1,450 | 223 | 96.5% |
+| Strategic Priorities and Policy Committee | 740 | 475 | 73 | 74.1% |
+| Community and Protective Services Committee | 389 | 342 | 31 | 95.9% |
 | Budget Committee | 189 | 139 | 50 | 100.0% |
 | Corporate Services Committee | 75 | 46 | 0 | 61.3% |
 | Civic Works Committee | 55 | 52 | 0 | 94.5% |
@@ -114,85 +114,85 @@ prefillQuestions:
 
 *Recent split votes where David Ferreira voted against the final outcome:*
 
-### 2025-11-20: Amendment - Budget Case #P-6
+### 2026-03-03: (3.5) 550 Ridout Street North & 82-90 Kent Street - OZ-25152 (Relates to Bill No. 105 and 123)
 
-[6th Meeting of the Budget Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English)
+[4th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
 
-> That Business Case #P-6 - Reduced Road Network Improvements - BE EXCLUDED from the Mayor’s Tabled 2026 Annual Update Budget: 2026 Operating Expenditures:  $114,000          2026 Tax Levy:  $114,000   ...
-
-Voted **Nay** - Motion Passed (11 to 4)
-
-### 2025-11-20: Amendment - Budget Case #P-2 - Councillor S. Stevenson
-
-[6th Meeting of the Budget Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English)
-
-> That the following part BE APPROVED: the Middlesex London Health Unit BE REQUESTED to submit an additional funding request for 2026 onwards for permanent base funding for an additional 2.0 FTE.
-
-Voted **Yea** - Motion Failed (7 to 8)
-
-### 2025-11-20: (ADDED) Amendment - Councillors C. Rahman and S. Stevenson
-
-[6th Meeting of the Budget Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English)
-
-> That the amendment BE AMENDED to change three (3) years to two (2) years.
-
-Voted **Nay** - Motion Passed (10 to 5)
-
-### 2025-11-20: (ADDED) Amendment - Councillors C. Rahman and S. Stevenson
-
-[6th Meeting of the Budget Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English)
-
-> That the amendment, as amended, BE APPROVED.
-
-Voted **Nay** - Motion Passed (8 to 7)
-
-### 2025-11-20: (ADDED) Amendment - Budget Case #P-20
-
-[6th Meeting of the Budget Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English)
-
-> That the Mayor’s Tabled 2026 Annual Budget Update BE AMENDED by re-directing a portion of Business Case #P-20 (2024 Surplus Allocation for Tax Mitigation) to increase funding for the Housing Stability...
-
-Voted **Yea** - Motion Failed (5 to 10)
-
-### 2025-11-20: (ADDED) Amendment - Budget Case #P-13 - Councillor S. Stevenson
-
-[6th Meeting of the Budget Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English)
-
-> That the motion BE AMENDED to read as follows: That the Mayor’s Tabled 2026 Annual Budget Update BE AMENDED to utilize previously budgeted 2025 tax supported funding for statutory Development Charges ...
+> That item 10, clause 3.5, as amended, BE APPROVED. At 2:56 PM, Chair Deputy Mayor S. Lewis, places Councillor H. McAlister in the Chair. At 3:00 PM, Chair Deputy Mayor S. Lewis resumes the Chair.
 
 Voted **Nay** - Motion Passed (11 to 4)
 
-### 2025-11-20: (ADDED) Amendment - Budget Case #P-13 - Councillor S. Stevenson
+### 2026-03-03: (4.1) Deputy Mayor S. Lewis, Councillors P. Cuddy and C. Rahman - Zoning By-law Amendment - Parking Changes
 
-[6th Meeting of the Budget Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English)
+[4th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
 
-> That the motion, as amended, BE APPROVED.
+> That the motion BE AMENDED by adding a new part e) and f) to read as follows: e) to map the relative availability of on-street parking in different parts of the city and evaluate on street parking cap...
 
-Voted **Nay** - Motion Passed (12 to 3)
+Voted **Yea** - Motion Failed (4 to 10)
 
-### 2025-11-20: (ADDED) Amendment - Councillor D. Ferreira
+### 2026-03-03: (4.1) Deputy Mayor S. Lewis, Councillors P. Cuddy and C. Rahman - Zoning By-law Amendment - Parking Changes
 
-[6th Meeting of the Budget Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English)
+[4th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
 
-> That the motion BE AMENDED to include the following: the free two-hour parking program through the Honk App, including two-hour free on-street parking in the Core Area (Midtown, Downtown, and Old East...
+> That parts a) and d), as amended, BE APPROVED.
 
-Voted **Yea** - Motion Failed (7 to 8)
+Voted **Nay** - Motion Passed (11 to 3)
 
-### 2025-11-20: (ADDED) Amendment - Budget Case #P25 - Mayor J. Morgan
+### 2026-03-03: (2.4) Residential Rental Unit Licensing (RRUL) License Display
 
-[6th Meeting of the Budget Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English)
+[4th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
 
-> That Business Case #P-25 - Stop Collecting Blue Box Materials from Non-Eligible Sources - BE INCLUDED in the Mayor’s Tabled 2026 Annual Update Budget: 2026 Operating Expenditures: -$250,000     2026 T...
+> That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the findings of Civic Administration regarding the advisability of amending the Residential Rental Unit Licensing ...
 
-Voted **Nay** - Motion Passed (13 to 2)
+Voted **Nay** - Motion Passed (7 to 6)
 
-### 2025-11-20: (ADDED) Amendment – Councillor H. McAlister 
+### 2026-03-03: (4.1) Request for Reimbursement for Private Property Cleaning and Graffiti Removal Services
 
-[6th Meeting of the Budget Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English)
+[4th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
 
-> That the Mayor’s Tabled 2026 Annual Budget Update BE AMENDED in order to fund the Housing Stability Bank Program $500,000 ($250,000 for 2026 and $250,000 for 2027) from the Community Investment Reserv...
+> That the communication dated February 5, 2026, from K. Morrison, Old East Village Business Improvement Area, with respect to a Request for Reimbursement for Private Property Cleaning and Graffiti Remo...
 
-Voted **Yea** - Motion Failed (7 to 8)
+Voted **Yea** - Motion Failed (5 to 8)
+
+### 2026-03-03: (4.1) Request for Reimbursement for Private Property Cleaning and Graffiti Removal Services
+
+[4th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
+
+> That the Civic Administration BE DIRECTED to immediately reimburse the Old East Village BIA in the amount of $14,152.33 from the Community Investment Reserve Fund for previously expended costs related...
+
+Voted **Nay** - Motion Passed (10 to 3)
+
+### 2026-03-03: (4.4) Summary Update from Internal Audit
+
+[4th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
+
+> That the motion BE AMENDED to add a new part to read as follows: MNP BE DIRECTED to change the submission date for the Privacy Audit from December 9, 2026 to October 7, 2026 and the submission date fo...
+
+Voted **Nay** - Motion Passed (8 to 3)
+
+### 2026-03-03: (4.4) Summary Update from Internal Audit
+
+[4th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
+
+> That item 6, clause 4.4, as amended, BE APPROVED.
+
+Voted **Nay** - Motion Passed (10 to 1)
+
+### 2026-03-03: By-laws
+
+[4th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
+
+> That Introduction and First Reading of Bill No.’s 105 and 123, BE APPROVED.
+
+Voted **Nay** - Motion Passed (8 to 3)
+
+### 2026-03-03: By-laws
+
+[4th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
+
+> That Second Reading of Bill No.’s 105 and 123, BE APPROVED.
+
+Voted **Nay** - Motion Passed (8 to 3)
 
 
 ## Committees Served

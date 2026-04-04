@@ -5,15 +5,15 @@ slug: "s-hillier"
 meetingCount: 468
 yearsActive: "2018 - 2026"
 isCurrent: true
-totalVotes: 7404
-votesYea: 6374
-votesNay: 457
-votesAbsent: 573
+totalVotes: 7799
+votesYea: 6730
+votesNay: 480
+votesAbsent: 589
 attendanceRate: 93.6
-participationRate: 92.3
+participationRate: 92.4
 yeaRate: 93.3
-contestedDissentRate: 15.2
-contestedVotes: 1923
+contestedDissentRate: 15.1
+contestedVotes: 2060
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -30,10 +30,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 7,404 |
-| Voted Yea | 6,374 (86.1%) |
-| Voted Nay | 457 (6.2%) |
-| Absent | 573 (7.7%) |
+| Total Votes | 7,799 |
+| Voted Yea | 6,730 (86.3%) |
+| Voted Nay | 480 (6.2%) |
+| Absent | 589 (7.6%) |
 
 
 ### Substantive Votes
@@ -42,17 +42,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 4,213 |
-| Voted Yea | 3,359 (89.2%) |
-| Voted Nay | 406 (10.8%) |
+| Substantive Votes | 4,405 |
+| Voted Yea | 3,523 (89.3%) |
+| Voted Nay | 421 (10.7%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 15.2%
-- **Contested Votes**: 1,923
+- **Dissent Rate**: 15.1%
+- **Contested Votes**: 2,060
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -63,37 +63,37 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 671 |
-| Voted Yea | 509 (81.2%) |
-| Voted Nay | 118 (18.8%) |
+| Budget Votes | 681 |
+| Voted Yea | 518 (81.3%) |
+| Voted Nay | 119 (18.7%) |
 | Absent | 44 |
 
 
 ## Attendance
 
 - **Attendance Rate**: 93.6%
-- **Meetings Attended**: 410 of 438
-- **Meetings Missed**: 28
-- **Trend**: Stable -
+- **Meetings Attended**: 422 of 451
+- **Meetings Missed**: 29
+- **Trend**: Declining v
 
 **Attendance by Year:**
-  - 2022: 93.5% (58/62 meetings)
   - 2023: 86.7% (52/60 meetings)
   - 2024: 95.2% (60/63 meetings)
-  - 2025: 96.0% (48/50 meetings)
+  - 2025: 96.3% (52/54 meetings)
+  - 2026: 88.9% (8/9 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
-- Shawn Lewis (96.3%)
-- Steve Lehman (96.2%)
-- Peter Cuddy (94.9%)
+- Shawn Lewis (96.4%)
+- Steve Lehman (96.4%)
+- Peter Cuddy (95.3%)
 
 **Least aligned with:**
-- Sam Trosow (81.3%)
-- David Ferreira (85.7%)
-- Susan Stevenson (88.2%)
+- Sam Trosow (80.8%)
+- David Ferreira (85.0%)
+- Anna Hopkins (88.2%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -102,9 +102,9 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 3,545 | 3,143 | 235 | 95.3% |
-| Strategic Priorities and Policy Committee | 1,668 | 1,192 | 122 | 78.8% |
-| Planning and Environment Committee | 1,623 | 1,552 | 35 | 97.8% |
+| Council | 3,731 | 3,312 | 252 | 95.5% |
+| Planning and Environment Committee | 1,787 | 1,713 | 38 | 98.0% |
+| Strategic Priorities and Policy Committee | 1,713 | 1,218 | 125 | 78.4% |
 | Community and Protective Services Committee | 328 | 314 | 1 | 96.0% |
 | Budget Committee | 189 | 125 | 64 | 100.0% |
 | Corporate Services Committee | 51 | 48 | 0 | 94.1% |
@@ -114,93 +114,85 @@ prefillQuestions:
 
 *Recent split votes where Steve Hillier voted against the final outcome:*
 
-### 2025-11-20: Amendment - Budget Case #P-2 - Councillor S. Stevenson
+### 2026-03-03: (4.1) Request for Reimbursement for Private Property Cleaning and Graffiti Removal Services
 
-[6th Meeting of the Budget Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English)
+[4th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
 
-> That the following part BE APPROVED: the Middlesex London Health Unit BE REQUESTED to submit an additional funding request for 2026 onwards for permanent base funding for an additional 2.0 FTE.
+> That the communication dated February 5, 2026, from K. Morrison, Old East Village Business Improvement Area, with respect to a Request for Reimbursement for Private Property Cleaning and Graffiti Remo...
 
-Voted **Yea** - Motion Failed (7 to 8)
+Voted **Yea** - Motion Failed (5 to 8)
 
-### 2025-11-20: Amendment - Budget Case #P-2 - Councillor S. Stevenson
+### 2026-02-18: 550 Ridout Street North & 82-90 Kent Street - OZ-25152
 
-[6th Meeting of the Budget Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English)
+[4th Meeting of the Planning and Environment Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=0ebd81b2-188b-4979-9eca-a7dec1dba21d&Agenda=PostMinutes&lang=English)
 
-> That Business Case #P-2 Middlesex-London Health Unit Debt Retirement – BE EXCLUDED from the Mayor’s Tabled 2026 Annual Budget Update:
+> Notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Ridout and Kent Block Inc. relating to the property loca...
 
- 
+Voted **Nay** - Motion Passed (3 to 1)
 
-2026 Operating Expenditures: -$2,366,000          2026 Tax Lev...
+### 2026-02-10: (2.2) Good Neighbour Agreements
 
-Voted **Yea** - Motion Failed (5 to 10)
+[3rd Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English)
 
-### 2025-11-20: Amendment - Budget Case #P-2 - Councillor S. Stevenson
-
-[6th Meeting of the Budget Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English)
-
-> That Business Case #P-2 Middlesex-London Health Unit Debt Retirement – BE EXCLUDED from the Mayor’s Tabled 2026 Annual Budget Update:
-
- 
-
-2026 Operating Expenditures: -$2,366,000          2026 Tax Lev...
-
-Voted **Yea** - Motion Failed (5 to 10)
-
-### 2025-11-20: (ADDED) Amendment - Councillor D. Ferreira
-
-[6th Meeting of the Budget Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English)
-
-> That the motion BE AMENDED to include the following: the free two-hour parking program through the Honk App, including two-hour free on-street parking in the Core Area (Midtown, Downtown, and Old East...
+> ii) that Civic Administration BE DIRECTED to review existing housing stability contracts to assess alignment with current operational needs, including transitions from emergency and highly supportive ...
 
 Voted **Yea** - Motion Failed (7 to 8)
 
-### 2025-11-20: (ADDED) Amendment - Budget Case #P-24 - Councillor S. Stevenson
+### 2026-02-10: (2.2) Good Neighbour Agreements
 
-[6th Meeting of the Budget Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English)
+[3rd Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English)
 
-> That Business Case #P-24 – Eliminate Climate Change Reserve Fund Contribution – BE INCLUDED in the Mayor’s Tabled 2026 Annual Budget Update: 2026 Operating Expenditures: -$192,000          2026 Tax Le...
-
-Voted **Yea** - Motion Failed (4 to 11)
-
-### 2025-11-18: Consideration of Appointments to Western University Board of Governors 
-
-[14th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=01f83737-b25c-48a3-a2a4-1cc3dca73e95&Agenda=PostMinutes&lang=English)
-
-> That the communication dated November 7, 2025 from A. Bryson, University Secretary, Western with respect to appointment to the Western University Board of Governors BE RECEIVED and that Civic Administ...
-
-Voted **Yea** - Motion Failed (5 to 10)
-
-### 2025-11-04: (4.1) 2025 Council Resourcing Review Task Force Final Report
-
-[17th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bf0722a2-1914-45fb-8838-6e75627dd764&Agenda=PostMinutes&lang=English)
-
-> That part g) of the motion BE APPROVED: g) a mechanism to compensate Standing Committee Chairs for their additional responsibilities BE IMPLEMENTED, with compensation to be set at 4% of the base annua...
+> i) the Civic Administration BE DIRECTED to provide a one-year contract renewal for the procurement framework with an option to renew for one-year;
 
 Voted **Yea** - Motion Failed (7 to 8)
 
-### 2025-10-28: Consideration of City Appointees to Western University's Board of Governors
+### 2026-02-10: (3.4) 767 Fanshawe Park Road East and 679 Dunboyne Crescent - Z-25151 (Relates to Bill No. 82)
 
-[13th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=82e5fae3-d639-432a-9b68-c3549aebbdb7&Agenda=PostMinutes&lang=English)
+[3rd Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English)
 
-> That the motion to appoint Lori Higgs and Marlene McGrath to the Western University's Board of Governors BE REFERRED to the next meeting of Strategic Priorities and Policy Committee to allow for more ...
+> vii) the Civic Administration BE DIRECTED to hold a public participation meeting with respect to the site plan process.
 
 Voted **Nay** - Motion Passed (8 to 7)
 
-### 2025-10-14: (2.5) Part Two: Green Bin and Biweekly Garbage Collection Program - Next Steps 
+### 2026-02-10: (2.4) Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program
 
-[16th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=2e9c2bbf-90ec-4081-ab98-6a0f215eab1c&Agenda=PostMinutes&lang=English)
+[3rd Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English)
 
-> Motion to approve part d): d)    the Civic Administration BE DIRECTED to take no action on expanding the materials collected in the Green Bin Program at this time;
+> That part b) of the motion BE AMENDED by deleting the words “the term of the loan is extended from five years to ten years” and substituting “and be further revised to a loan term of five years,” it b...
 
 Voted **Yea** - Motion Failed (7 to 8)
 
-### 2025-10-14: (3.1) Health and Homelessness Whole of Community System Response Research and Evaluation Report
+### 2026-02-10: By-laws
 
-[16th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=2e9c2bbf-90ec-4081-ab98-6a0f215eab1c&Agenda=PostMinutes&lang=English)
+[3rd Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English)
 
-> That the motion be amended to include a new part that reads as follows: The Civic Administration BE DIRECTED to report back to a future meeting of the Community and Protective Services Committee with ...
+> That Introduction and First Reading of Revised Bill No. 82, BE APPROVED.
 
-Voted **Yea** - Motion Failed (6 to 9)
+Voted **Nay** - Motion Passed (13 to 2)
+
+### 2026-02-10: By-laws
+
+[3rd Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English)
+
+> That Second Reading of Revised Bill No. 82, BE APPROVED.
+
+Voted **Nay** - Motion Passed (13 to 2)
+
+### 2026-02-10: By-laws
+
+[3rd Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English)
+
+> That Third Reading and Enactment of Revised Bill No. 82, BE APPROVED.
+
+Voted **Nay** - Motion Passed (13 to 2)
+
+### 2026-01-27: 767 Fanshawe Park Road East and 679 Dunboyne Crescent - Z-25151
+
+[3rd Meeting of the Planning and Environment Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=556b24da-acd2-47ff-80b3-c913bbbea2ba&Agenda=PostMinutes&lang=English)
+
+> Notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Northbound Development Corporation relating to the prope...
+
+Voted **Nay** - Motion Passed (3 to 1)
 
 
 ## Committees Served

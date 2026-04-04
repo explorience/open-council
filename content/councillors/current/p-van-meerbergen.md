@@ -5,15 +5,15 @@ slug: "p-van-meerbergen"
 meetingCount: 513
 yearsActive: "2010 - 2026"
 isCurrent: true
-totalVotes: 8331
-votesYea: 6511
-votesNay: 982
-votesAbsent: 838
-attendanceRate: 95.2
+totalVotes: 8600
+votesYea: 6721
+votesNay: 1008
+votesAbsent: 871
+attendanceRate: 95.4
 participationRate: 89.9
-yeaRate: 86.9
-contestedDissentRate: 22.9
-contestedVotes: 3841
+yeaRate: 87.0
+contestedDissentRate: 22.7
+contestedVotes: 3971
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -31,10 +31,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 8,331 |
-| Voted Yea | 6,511 (78.2%) |
-| Voted Nay | 982 (11.8%) |
-| Absent | 838 (10.1%) |
+| Total Votes | 8,600 |
+| Voted Yea | 6,721 (78.2%) |
+| Voted Nay | 1,008 (11.7%) |
+| Absent | 871 (10.1%) |
 
 
 ### Substantive Votes
@@ -43,17 +43,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 5,909 |
-| Voted Yea | 4,521 (85.0%) |
-| Voted Nay | 796 (15.0%) |
+| Substantive Votes | 6,066 |
+| Voted Yea | 4,646 (85.1%) |
+| Voted Nay | 815 (14.9%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 22.9%
-- **Contested Votes**: 3,841
+- **Dissent Rate**: 22.7%
+- **Contested Votes**: 3,971
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -64,37 +64,37 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 1,347 |
-| Voted Yea | 959 (73.4%) |
-| Voted Nay | 348 (26.6%) |
+| Budget Votes | 1,356 |
+| Voted Yea | 968 (73.6%) |
+| Voted Nay | 348 (26.4%) |
 | Absent | 40 |
 
 
 ## Attendance
 
-- **Attendance Rate**: 95.2%
-- **Meetings Attended**: 541 of 568
+- **Attendance Rate**: 95.4%
+- **Meetings Attended**: 554 of 581
 - **Meetings Missed**: 27
 - **Trend**: Stable -
 
 **Attendance by Year:**
-  - 2022: 97.9% (47/48 meetings)
   - 2023: 98.3% (57/58 meetings)
   - 2024: 98.4% (62/63 meetings)
-  - 2025: 96.1% (49/51 meetings)
+  - 2025: 96.4% (53/55 meetings)
+  - 2026: 100.0% (9/9 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
-- Steve Lehman (93.5%)
-- Shawn Lewis (92.7%)
-- Steve Hillier (92.6%)
+- Steve Lehman (93.6%)
+- Shawn Lewis (92.8%)
+- Steve Hillier (92.7%)
 
 **Least aligned with:**
-- Sam Trosow (78.2%)
-- David Ferreira (82.0%)
-- Skylar Franke (84.2%)
+- Sam Trosow (77.9%)
+- David Ferreira (81.0%)
+- Skylar Franke (84.3%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -103,97 +103,97 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 4,849 | 4,001 | 527 | 93.4% |
-| Strategic Priorities and Policy Committee | 2,605 | 1,769 | 340 | 81.0% |
+| Council | 5,035 | 4,141 | 541 | 93.0% |
+| Strategic Priorities and Policy Committee | 2,650 | 1,806 | 347 | 81.2% |
 | Civic Works Committee | 451 | 409 | 31 | 97.6% |
 | Budget Committee | 189 | 118 | 68 | 98.4% |
 | Corporate Services Committee | 154 | 144 | 6 | 97.4% |
-| Infrastructure and Corporate Services Committee | 83 | 70 | 10 | 96.4% |
+| Infrastructure and Corporate Services Committee | 121 | 103 | 15 | 97.5% |
 
 
 ## Notable Dissenting Votes
 
 *Recent split votes where Paul Van Meerbergen voted against the final outcome:*
 
-### 2025-11-20: (ADDED) Amendment - Budget Case #P-12 - Councillor S. Stevenson
+### 2026-02-23: Restricted Acts of Council after Nomination Day and Voting Day
 
-[6th Meeting of the Budget Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English)
+[4th Meeting of the Infrastructure and Corporate Services Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=e7317b73-f2ee-4a30-a66e-a583fad79467&Agenda=PostMinutes&lang=English)
 
-> That Business Case #P-12 Resident Satisfaction Survey Frequency - BE EXCLUDED from the Mayor’s Tabled 2026 Annual Budget: 2026 Operating Expenditures: $0                         2026 Tax Levy: $0     ...
+> That the staff report dated February 23, 2026 to delegate certain authority, should Municipal Council’s actions be restricted after Nomination Day and/or Voting Day in 2026 BE REFERRED to the Civic Ad...
 
-Voted **Nay** - Motion Passed (10 to 5)
+Voted **Nay** - Motion Passed (3 to 2)
 
-### 2025-11-20: (ADDED) Amendment - Budget Case #P-20
+### 2026-02-23: Contract Award: Tender No. RFT-2025-223 Wellington Gateway and Municipal Infrastructure Improvements Phase 2A – Wilkins Street to Baseline Road
 
-[6th Meeting of the Budget Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English)
+[4th Meeting of the Infrastructure and Corporate Services Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=e7317b73-f2ee-4a30-a66e-a583fad79467&Agenda=PostMinutes&lang=English)
 
-> That it BE NOTED that the Budget Committee considered an amendment to the Mayor's 2026 Annual Budget Update to redirect a portion of Business Case #P-20 (2024 Surplus Allocation for Tax Mitigation) to...
+> That on the recommendation of the Deputy City Manager, Environment & Infrastructure, the following actions be taken with respect to the award of contracts for Wellington Gateway and Municipal Infrastr...
 
-Voted **Nay** - Motion Passed (14 to 1)
+Voted **Nay** - Motion Passed (3 to 2)
 
-### 2025-11-20: (ADDED) Amendment - Councillor D. Ferreira
+### 2026-02-23: Limited Tendering and Cooperative Procurement - LTC Purchase of Nine New Buses
 
-[6th Meeting of the Budget Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English)
+[4th Meeting of the Infrastructure and Corporate Services Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=e7317b73-f2ee-4a30-a66e-a583fad79467&Agenda=PostMinutes&lang=English)
 
-> That the motion BE AMENDED to include the following: the free two-hour parking program through the Honk App, including two-hour free on-street parking in the Core Area (Midtown, Downtown, and Old East...
+> That on the recommendation of the Deputy City Manager, Environment & Infrastructure, the following actions be taken with respect to funding for the purchase of new London Transit Commission buses: a) ...
+
+Voted **Nay** - Motion Passed (4 to 1)
+
+### 2026-02-10: (2.2) Good Neighbour Agreements
+
+[3rd Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English)
+
+> ii) that Civic Administration BE DIRECTED to review existing housing stability contracts to assess alignment with current operational needs, including transitions from emergency and highly supportive ...
 
 Voted **Yea** - Motion Failed (7 to 8)
 
-### 2025-11-20: (ADDED) Amendment - Budget Case #P-24 - Councillor S. Stevenson
+### 2026-02-10: (2.2) Good Neighbour Agreements
 
-[6th Meeting of the Budget Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English)
+[3rd Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English)
 
-> That Business Case #P-24 – Eliminate Climate Change Reserve Fund Contribution – BE INCLUDED in the Mayor’s Tabled 2026 Annual Budget Update: 2026 Operating Expenditures: -$192,000          2026 Tax Le...
+> i) the Civic Administration BE DIRECTED to provide a one-year contract renewal for the procurement framework with an option to renew for one-year;
 
-Voted **Yea** - Motion Failed (4 to 11)
+Voted **Yea** - Motion Failed (7 to 8)
 
-### 2025-11-04: (3.1) Proposed Changes to the W12A Landfill Community Enhancement and Mitigative Measures Program 
+### 2026-02-10: (2.3) System Area Update: Supports for Those Living Unsheltered: Basic Needs and Pathway Options
 
-[17th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bf0722a2-1914-45fb-8838-6e75627dd764&Agenda=PostMinutes&lang=English)
+[3rd Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English)
 
-> That the following part c) BE APPROVED c)    the proposed change to impose a cap of one million dollars (Appendix “A” #6 “Community Mitigative Measures Fund”) BE REMOVED;
+> That, the staff report dated January 26, 2026 with respect to the System Area Update: Supports for Those Living Unsheltered: Basic Needs and Pathway Options, BE REFERRED to a future meeting of the Com...
 
-Voted **Yea** - Motion Failed (6 to 9)
+Voted **Nay** - Motion Passed (8 to 7)
 
-### 2025-11-04: (4.1) 2025 Council Resourcing Review Task Force Final Report
+### 2026-02-10: (3.5) 3334-3354 Wonderland Road South - OZ-25140 (Relates to Bill No. 66 and No. 83)
 
-[17th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bf0722a2-1914-45fb-8838-6e75627dd764&Agenda=PostMinutes&lang=English)
+[3rd Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English)
 
-> That part a) of the motion BE APPROVED: a) recognizing London’s growth and the public expectation of full-time hours for this role, the annual compensation for Councillors BE INDEXED to the 70th perce...
+> Notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 111473 Ontario Limited (c/o MHBC Planning) relating to t...
 
-Voted **Nay** - Motion Passed (9 to 6)
+Voted **Nay** - Motion Passed (11 to 4)
 
-### 2025-11-04: (4.1) 2025 Council Resourcing Review Task Force Final Report
+### 2026-02-10: (2.4) Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program
 
-[17th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bf0722a2-1914-45fb-8838-6e75627dd764&Agenda=PostMinutes&lang=English)
+[3rd Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English)
 
-> That part d) of the motion BE APPROVED: d) the Council base compensation and the annual adjustment formula BE UPDATED in 2027 to reflect data from the 2021 – 2026 census period, and that the new data ...
+> That part b) of the motion BE AMENDED by deleting the words “the term of the loan is extended from five years to ten years” and substituting “and be further revised to a loan term of five years,” it b...
 
-Voted **Nay** - Motion Passed (10 to 5)
+Voted **Yea** - Motion Failed (7 to 8)
 
-### 2025-11-04: (4.1) 2025 Council Resourcing Review Task Force Final Report
+### 2026-02-10: By-laws
 
-[17th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bf0722a2-1914-45fb-8838-6e75627dd764&Agenda=PostMinutes&lang=English)
+[3rd Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English)
 
-> That part h) of the motion BE APPROVED: h) Council undertake the following actions with respect to additional compensation and related matters for the Deputy Mayor and Budget Chair positions, and that...
-
-Voted **Nay** - Motion Passed (12 to 3)
-
-### 2025-10-28: 2025 Council Resourcing Review Task Force Final Report
-
-[13th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=82e5fae3-d639-432a-9b68-c3549aebbdb7&Agenda=PostMinutes&lang=English)
-
-> Motion to approve part a): a) recognizing London’s growth and the public expectation of full-time hours for this role, the annual compensation for Councillors BE INDEXED to the 70th percentile 2020 me...
+> That Introduction and First Reading of Bill No.'s 66 and 83, BE APPROVED.
 
 Voted **Nay** - Motion Passed (12 to 3)
 
-### 2025-10-28: 2025 Council Resourcing Review Task Force Final Report
+### 2026-02-10: By-laws
 
-[13th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=82e5fae3-d639-432a-9b68-c3549aebbdb7&Agenda=PostMinutes&lang=English)
+[3rd Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English)
 
-> Motion to approve part d): d) the Council base compensation and the annual adjustment formula BE UPDATED in 2027 to reflect data from the 2021 – 2026 census period, and that the new data be used to ca...
+> That Second Reading of Bill No.'s 66 and 83, BE APPROVED.
 
-Voted **Nay** - Motion Passed (13 to 2)
+Voted **Nay** - Motion Passed (12 to 3)
 
 
 ## Committees Served

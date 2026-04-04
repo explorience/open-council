@@ -5,15 +5,15 @@ slug: "j-pribil"
 meetingCount: 228
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 3363
-votesYea: 2828
-votesNay: 283
+totalVotes: 3660
+votesYea: 3101
+votesNay: 307
 votesAbsent: 252
-attendanceRate: 96.8
-participationRate: 92.5
-yeaRate: 90.9
+attendanceRate: 97.0
+participationRate: 93.1
+yeaRate: 91.0
 contestedDissentRate: 12.6
-contestedVotes: 1278
+contestedVotes: 1440
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -30,10 +30,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 3,363 |
-| Voted Yea | 2,828 (84.1%) |
-| Voted Nay | 283 (8.4%) |
-| Absent | 252 (7.5%) |
+| Total Votes | 3,660 |
+| Voted Yea | 3,101 (84.7%) |
+| Voted Nay | 307 (8.4%) |
+| Absent | 252 (6.9%) |
 
 
 ### Substantive Votes
@@ -42,9 +42,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,162 |
-| Voted Yea | 1,685 (87.0%) |
-| Voted Nay | 251 (13.0%) |
+| Substantive Votes | 2,344 |
+| Voted Yea | 1,846 (87.2%) |
+| Voted Nay | 272 (12.8%) |
 
 
 ### Dissent on Contested Votes
@@ -52,7 +52,7 @@ prefillQuestions:
 *Only counts non-unanimous votes where the councillor participated*
 
 - **Dissent Rate**: 12.6%
-- **Contested Votes**: 1,278
+- **Contested Votes**: 1,440
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -63,37 +63,37 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 379 |
-| Voted Yea | 292 (78.1%) |
-| Voted Nay | 82 (21.9%) |
+| Budget Votes | 390 |
+| Voted Yea | 303 (78.7%) |
+| Voted Nay | 82 (21.3%) |
 | Absent | 5 |
 
 
 ## Attendance
 
-- **Attendance Rate**: 96.8%
-- **Meetings Attended**: 212 of 219
+- **Attendance Rate**: 97.0%
+- **Meetings Attended**: 227 of 234
 - **Meetings Missed**: 7
-- **Trend**: Declining v
+- **Trend**: Stable -
 
 **Attendance by Year:**
-  - 2022: 100.0% (8/8 meetings)
   - 2023: 100.0% (62/62 meetings)
   - 2024: 98.7% (78/79 meetings)
-  - 2025: 91.4% (64/70 meetings)
+  - 2025: 92.0% (69/75 meetings)
+  - 2026: 100.0% (10/10 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
-- Steve Lehman (95.3%)
-- Peter Cuddy (94.9%)
-- Josh Morgan (94.8%)
+- Steve Lehman (95.2%)
+- Peter Cuddy (94.8%)
+- Josh Morgan (94.7%)
 
 **Least aligned with:**
-- Sam Trosow (86.0%)
-- Susan Stevenson (89.3%)
-- David Ferreira (89.6%)
+- Sam Trosow (85.4%)
+- David Ferreira (88.7%)
+- Susan Stevenson (89.1%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -102,9 +102,9 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 1,748 | 1,563 | 147 | 97.8% |
-| Strategic Priorities and Policy Committee | 934 | 684 | 49 | 78.5% |
-| Community and Protective Services Committee | 354 | 314 | 32 | 97.7% |
+| Council | 1,934 | 1,739 | 157 | 98.0% |
+| Strategic Priorities and Policy Committee | 979 | 722 | 56 | 79.5% |
+| Community and Protective Services Committee | 420 | 373 | 39 | 98.1% |
 | Budget Committee | 189 | 141 | 48 | 100.0% |
 | Infrastructure and Corporate Services Committee | 83 | 72 | 6 | 94.0% |
 | Civic Works Committee | 55 | 54 | 1 | 100.0% |
@@ -114,85 +114,85 @@ prefillQuestions:
 
 *Recent split votes where Jerry Pribil voted against the final outcome:*
 
-### 2025-11-20: Amendment - Budget Case #P-2 - Councillor S. Stevenson
+### 2026-03-09: Short Term Accommodation Licensing and Penalties
 
-[6th Meeting of the Budget Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English)
+[4th Meeting of the Community and Protective Services Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=0f86effb-a62a-473d-a937-36ca9a9f4d4a&Agenda=PostMinutes&lang=English)
 
-> That the following part BE APPROVED: the Middlesex London Health Unit BE REQUESTED to submit an additional funding request for 2026 onwards for permanent base funding for an additional 2.0 FTE.
+> That the motion BE AMENDED to add a new part that reads as follows: Notwithstanding the adoption of this motion, the Community and Protective Services Committee may at a future time request a staff re...
+
+Voted **Nay** - Motion Passed (3 to 2)
+
+### 2026-03-09: Short Term Accommodation Licensing and Penalties
+
+[4th Meeting of the Community and Protective Services Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=0f86effb-a62a-473d-a937-36ca9a9f4d4a&Agenda=PostMinutes&lang=English)
+
+> That part b) BE AMENDED to read as follows: the proposed by-law, as appended to the above-noted staff report, to be introduced at the Municipal Council meeting on March 31, 2026, to amend By.-law No. ...
+
+Voted **Yea** - Motion Failed (2 to 3)
+
+### 2026-03-09: (ADDED) Community Housing Financial Challenges
+
+[4th Meeting of the Community and Protective Services Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=0f86effb-a62a-473d-a937-36ca9a9f4d4a&Agenda=PostMinutes&lang=English)
+
+> That, pursuant to section 32.5 of the Council Procedure By-law, “shall the ruling of the Chair BE SUSTAINED?”
+
+Voted **Yea** - Motion Failed (2 to 3)
+
+### 2026-02-17: Residential Rental Unit Licensing (RRUL) License Display
+
+[3rd Meeting of the Community and Protective Services Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=afc2a2c5-249f-437f-aa19-87ef83af95ca&Agenda=PostMinutes&lang=English)
+
+> That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the findings of Civic Administration regarding the advisability of amending the Residential Rental Unit Licensing ...
+
+Voted **Yea** - Motion Failed (2 to 2)
+
+### 2026-02-10: (2.2) Good Neighbour Agreements
+
+[3rd Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English)
+
+> i) the Civic Administration BE DIRECTED to provide a one-year contract renewal for the procurement framework with an option to renew for one-year;
 
 Voted **Yea** - Motion Failed (7 to 8)
 
-### 2025-11-20: (ADDED) Amendment - Councillor D. Ferreira
+### 2026-02-10: (4.2) Temporary Warming Centres
 
-[6th Meeting of the Budget Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English)
+[3rd Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English)
 
-> That the Mayor’s 2026 Annual Budget Update BE AMENDED by increasing the budget to provide a continuation of the free one-hour parking program through the Honk App, including one-hour free on-street pa...
-
-Voted **Yea** - Motion Failed (7 to 8)
-
-### 2025-11-04: (4.1) 2025 Council Resourcing Review Task Force Final Report
-
-[17th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bf0722a2-1914-45fb-8838-6e75627dd764&Agenda=PostMinutes&lang=English)
-
-> That the Final Report of the 2025 Council Resourcing Review Task Force dated October 3, 2025 BE REFERRED to Civic Administration to report back to the December 9, 2025 meeting of the Strategic Priorit...
+> That part b) BE FURTHER AMENDED: or when Environment Canada issues an extreme weather alert (yellow, orange, red) with respect to ice.
 
 Voted **Yea** - Motion Failed (6 to 9)
 
-### 2025-10-28: 2025 Council Resourcing Review Task Force Final Report
+### 2026-02-10: (3.4) 767 Fanshawe Park Road East and 679 Dunboyne Crescent - Z-25151 (Relates to Bill No. 82)
 
-[13th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=82e5fae3-d639-432a-9b68-c3549aebbdb7&Agenda=PostMinutes&lang=English)
+[3rd Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English)
 
-> Motion to approve part g): g) a mechanism to compensate Standing Committee Chairs for their additional responsibilities BE IMPLEMENTED, with compensation to be set at 4% of the base annual Councillor ...
+> iii. Building Height (maximum): 24.5 metres;
 
-Voted **Nay** - Motion Passed (9 to 6)
+Voted **Yea** - Motion Failed (2 to 13)
 
-### 2025-10-28: 2025 Council Resourcing Review Task Force Final Report
+### 2026-02-10: (2.3) Secondary School Transit Pass Pilot Program Update (Relates to Bill No. 64)
 
-[13th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=82e5fae3-d639-432a-9b68-c3549aebbdb7&Agenda=PostMinutes&lang=English)
+[3rd Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English)
 
-> Motion to approve part n): n) the Civic Administration BE DIRECTED to take the necessary steps to establish a severance package for Members of Council who are unsuccessful in re-election, calculated a...
+> That item 5, clause 2.3, as amended, BE APPROVED.
 
-Voted **Nay** - Motion Passed (9 to 6)
+Voted **Nay** - Motion Passed (9 to 5)
 
-### 2025-10-28: Consideration of City Appointees to Western University's Board of Governors
+### 2026-02-10: By-laws
 
-[13th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=82e5fae3-d639-432a-9b68-c3549aebbdb7&Agenda=PostMinutes&lang=English)
+[3rd Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English)
 
-> That the motion to appoint Lori Higgs and Marlene McGrath to the Western University's Board of Governors BE REFERRED to the next meeting of Strategic Priorities and Policy Committee to allow for more ...
+> That Introduction and First Reading of Bill No. 64, BE APPROVED.
 
-Voted **Nay** - Motion Passed (8 to 7)
+Voted **Nay** - Motion Passed (9 to 5)
 
-### 2025-10-14: (2.5) Part Two: Green Bin and Biweekly Garbage Collection Program - Next Steps 
+### 2026-02-10: By-laws
 
-[16th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=2e9c2bbf-90ec-4081-ab98-6a0f215eab1c&Agenda=PostMinutes&lang=English)
+[3rd Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English)
 
-> That the motion be amended to include a new part that reads as follows: The Civic Administration BE DIRECTED to report back to a future meeting of the Community and Protective Services Committee with ...
+> That Second Reading of Bill No. 64, BE APPROVED.
 
-Voted **Yea** - Motion Failed (4 to 11)
-
-### 2025-09-29: Adequate and Suitable Cooling By-law and Maximum Temperature Amendments to the AMPs By-law (A-54)
-
-[14th Meeting of the Community and Protective Services Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=46f1a202-1cdd-40e8-b86a-b77420ab4566&Agenda=PostMinutes&lang=English)
-
-> That, on the recommendation of the Deputy City Manager, Planning and Economic Development the following actions be taken with respect to the staff report, dated September 29, 2025, related to the Adeq...
-
-Voted **Nay** - Motion Passed (4 to 2)
-
-### 2025-08-26: (2.7) Medway Valley Heritage Forest Environmentally Significant Area (South) Conservation Master Plan
-
-[14th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=24c307af-3e5a-46e2-adc3-7b048d51d6bb&Agenda=PostMinutes&lang=English)
-
-> That the motion be amended by including a new part b) to read as follows: b)         the Civic Administration BE DIRECTED to report back with options addressing property encroachments, including relat...
-
-Voted **Nay** - Motion Passed (9 to 6)
-
-### 2025-08-26: (2.7) Medway Valley Heritage Forest Environmentally Significant Area (South) Conservation Master Plan
-
-[14th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=24c307af-3e5a-46e2-adc3-7b048d51d6bb&Agenda=PostMinutes&lang=English)
-
-> That the motion be amended by including a new part c) to read as follows: c)         the Civic Administration BE DIRECTED, as part of the Conservation Master Plan review, to include passive recreation...
-
-Voted **Nay** - Motion Passed (9 to 6)
+Voted **Nay** - Motion Passed (9 to 5)
 
 
 ## Committees Served

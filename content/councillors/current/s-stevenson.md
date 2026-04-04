@@ -5,15 +5,15 @@ slug: "s-stevenson"
 meetingCount: 198
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 3138
-votesYea: 2217
-votesNay: 481
-votesAbsent: 440
-attendanceRate: 88.5
-participationRate: 86.0
-yeaRate: 82.2
-contestedDissentRate: 35.7
-contestedVotes: 1160
+totalVotes: 3571
+votesYea: 2555
+votesNay: 537
+votesAbsent: 479
+attendanceRate: 88.7
+participationRate: 86.6
+yeaRate: 82.6
+contestedDissentRate: 35.2
+contestedVotes: 1317
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -30,10 +30,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 3,138 |
-| Voted Yea | 2,217 (70.7%) |
-| Voted Nay | 481 (15.3%) |
-| Absent | 440 (14.0%) |
+| Total Votes | 3,571 |
+| Voted Yea | 2,555 (71.5%) |
+| Voted Nay | 537 (15.0%) |
+| Absent | 479 (13.4%) |
 
 
 ### Substantive Votes
@@ -42,17 +42,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 1,980 |
-| Voted Yea | 1,338 (81.3%) |
-| Voted Nay | 308 (18.7%) |
+| Substantive Votes | 2,201 |
+| Voted Yea | 1,511 (81.6%) |
+| Voted Nay | 341 (18.4%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 35.7%
-- **Contested Votes**: 1,160
+- **Dissent Rate**: 35.2%
+- **Contested Votes**: 1,317
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -63,37 +63,37 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 367 |
-| Voted Yea | 274 (76.8%) |
-| Voted Nay | 83 (23.2%) |
+| Budget Votes | 378 |
+| Voted Yea | 285 (77.4%) |
+| Voted Nay | 83 (22.6%) |
 | Absent | 10 |
 
 
 ## Attendance
 
-- **Attendance Rate**: 88.5%
-- **Meetings Attended**: 170 of 192
-- **Meetings Missed**: 22
+- **Attendance Rate**: 88.7%
+- **Meetings Attended**: 188 of 212
+- **Meetings Missed**: 24
 - **Trend**: Declining v
 
 **Attendance by Year:**
-  - 2022: 100.0% (9/9 meetings)
   - 2023: 88.6% (70/79 meetings)
   - 2024: 89.4% (59/66 meetings)
-  - 2025: 84.2% (32/38 meetings)
+  - 2025: 86.4% (38/44 meetings)
+  - 2026: 85.7% (12/14 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
-- Paul Van Meerbergen (90.1%)
-- Jerry Pribil (89.3%)
+- Paul Van Meerbergen (89.8%)
+- Jerry Pribil (89.1%)
 - Peter Cuddy (89.0%)
 
 **Least aligned with:**
-- Sam Trosow (77.7%)
-- David Ferreira (79.1%)
-- Anna Hopkins (81.5%)
+- Sam Trosow (77.0%)
+- David Ferreira (78.4%)
+- Anna Hopkins (81.1%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -102,104 +102,98 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 1,755 | 1,255 | 337 | 90.7% |
-| Strategic Priorities and Policy Committee | 918 | 621 | 84 | 76.8% |
+| Council | 1,941 | 1,399 | 379 | 91.6% |
+| Strategic Priorities and Policy Committee | 963 | 659 | 91 | 77.9% |
 | Budget Committee | 189 | 137 | 45 | 96.3% |
 | Corporate Services Committee | 184 | 126 | 8 | 72.8% |
+| Planning and Environment Committee | 164 | 124 | 2 | 76.8% |
 | Community and Protective Services Committee | 92 | 78 | 7 | 92.4% |
+| Infrastructure and Corporate Services Committee | 38 | 32 | 5 | 97.4% |
 
 
 ## Notable Dissenting Votes
 
 *Recent split votes where Susan Stevenson voted against the final outcome:*
 
-### 2025-11-20: Amendment - Budget Case #P-2 - Councillor S. Stevenson
+### 2026-03-03: (4.1) Deputy Mayor S. Lewis, Councillors P. Cuddy and C. Rahman - Zoning By-law Amendment - Parking Changes
 
-[6th Meeting of the Budget Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English)
+[4th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
 
-> That the following part BE APPROVED: the Middlesex London Health Unit BE REQUESTED to submit an additional funding request for 2026 onwards for permanent base funding for an additional 2.0 FTE.
+> That part b) and c) of the motion BE AMENDED to read as follows: b) amend section 4.19.6) h) I) as it applies to lands outside of Western University Near Campus Neighbourhood to allow a maximum drivew...
 
-Voted **Yea** - Motion Failed (7 to 8)
+Voted **Nay** - Motion Passed (11 to 3)
 
-### 2025-11-20: Amendment - Budget Case #P-2 - Councillor S. Stevenson
+### 2026-03-03: (2.5) Affordable and Community Housing Update
 
-[6th Meeting of the Budget Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English)
+[4th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
 
-> That Business Case #P-2 Middlesex-London Health Unit Debt Retirement – BE EXCLUDED from the Mayor’s Tabled 2026 Annual Budget Update:
+> That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the staff report, dated February 17, 2026, updating Municipal Council on affordable and community housing within t...
 
- 
+Voted **Nay** - Motion Passed (11 to 1)
 
-2026 Operating Expenditures: -$2,366,000          2026 Tax Lev...
+### 2026-03-03: (2.6) 2025 Ontario Works Participant and Service Delivery Profile
 
-Voted **Yea** - Motion Failed (5 to 10)
+[4th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
 
-### 2025-11-20: Amendment - Budget Case #P-2 - Councillor S. Stevenson
+> That, on the recommendation of the Deputy City Manager, Social and Health Development, the staff report dated February 17, 2026, with respect to the 2025 Ontario Works Participant and Service Delivery...
 
-[6th Meeting of the Budget Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English)
+Voted **Nay** - Motion Passed (12 to 1)
 
-> That Business Case #P-2 Middlesex-London Health Unit Debt Retirement – BE EXCLUDED from the Mayor’s Tabled 2026 Annual Budget Update:
+### 2026-03-03: (2.2) Federation of Canadian Municipalities: Green Municipal Fund Agreement for Accelerating Community Energy Systems (Relates to Bill No. 97)
 
- 
+[4th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
 
-2026 Operating Expenditures: -$2,366,000          2026 Tax Lev...
+> That on the recommendation of the Deputy City Manager, Environment & Infrastructure, the proposed by-law, as appended to the staff report dated February 23, 2026 as Appendix “A” BE INTRODUCED at the M...
 
-Voted **Yea** - Motion Failed (5 to 10)
+Voted **Nay** - Motion Passed (11 to 1)
 
-### 2025-11-20: (ADDED) Amendment - Councillors C. Rahman and S. Stevenson
+### 2026-03-03: (2.3) Federation of Canadian Municipalities: Green Municipal Fund Agreement for Municipal Fleet Decarbonization Feasibility Study (Relates to Bill No. 98)
 
-[6th Meeting of the Budget Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English)
+[4th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
 
-> That the amendment, as amended, BE APPROVED.
+> That on the recommendation of the Deputy City Manager, Environment & Infrastructure, the proposed by-law, as appended to the staff report dated February 23, 2026 as Appendix “A”, BE INTRODUCED at the ...
 
-Voted **Nay** - Motion Passed (8 to 7)
+Voted **Nay** - Motion Passed (11 to 1)
 
-### 2025-11-20: (ADDED) Amendment - Budget Case #P-13 - Councillor S. Stevenson
+### 2026-03-03: (2.9) Contract Award: Tender No. RFT-2025-223 Wellington Gateway and Municipal Infrastructure Improvements Phase 2A – Wilkins Street to Baseline Road
 
-[6th Meeting of the Budget Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English)
+[4th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
 
-> That the motion BE AMENDED to read as follows: That the Mayor’s Tabled 2026 Annual Budget Update BE AMENDED to utilize previously budgeted 2025 tax supported funding for statutory Development Charges ...
+> That on the recommendation of the Deputy City Manager, Environment & Infrastructure, the following actions be taken with respect to the award of contracts for Wellington Gateway and Municipal Infrastr...
 
-Voted **Nay** - Motion Passed (11 to 4)
+Voted **Nay** - Motion Passed (11 to 1)
 
-### 2025-11-20: (ADDED) Amendment - Councillor D. Ferreira
+### 2026-03-03: By-laws
 
-[6th Meeting of the Budget Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English)
+[4th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
 
-> That the motion BE AMENDED to include the following: the free two-hour parking program through the Honk App, including two-hour free on-street parking in the Core Area (Midtown, Downtown, and Old East...
+> That Introduction and First Reading of Bill No.’s 97 and 98, BE APPROVED.
 
-Voted **Yea** - Motion Failed (7 to 8)
+Voted **Nay** - Motion Passed (10 to 1)
 
-### 2025-11-20: (ADDED) Amendment - Councillor D. Ferreira
+### 2026-03-03: By-laws
 
-[6th Meeting of the Budget Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English)
+[4th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
 
-> That pursuant to section 33.15 of the Council Procedure By-law, the question be now put.
+> That Second Reading of Bill No.’s 97 and 98, BE APPROVED.
 
-Voted **Nay** - Motion Passed (13 to 2)
+Voted **Nay** - Motion Passed (10 to 1)
 
-### 2025-11-20: (ADDED) Amendment - Councillor D. Ferreira
+### 2026-03-03: By-laws
 
-[6th Meeting of the Budget Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English)
+[4th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
 
-> That the Mayor’s 2026 Annual Budget Update BE AMENDED by increasing the budget to provide a continuation of the free one-hour parking program through the Honk App, including one-hour free on-street pa...
+> That Third Reading and Enactment of Bill No.’s 97 and 98, BE APPROVED.
 
-Voted **Yea** - Motion Failed (7 to 8)
+Voted **Nay** - Motion Passed (10 to 1)
 
-### 2025-11-20: (ADDED) Amendment - Budget Case #P-24 - Councillor S. Stevenson
+### 2026-03-03: By-laws
 
-[6th Meeting of the Budget Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English)
+[4th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
 
-> That Business Case #P-24 – Eliminate Climate Change Reserve Fund Contribution – BE INCLUDED in the Mayor’s Tabled 2026 Annual Budget Update: 2026 Operating Expenditures: -$192,000          2026 Tax Le...
+> That Introduction and First Reading of Bill No.108, BE APPROVED.
 
-Voted **Yea** - Motion Failed (4 to 11)
-
-### 2025-11-20: (ADDED) Amendment – Councillor H. McAlister 
-
-[6th Meeting of the Budget Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=772c384a-05a5-44a2-baaa-72aedacdb751&Agenda=PostMinutes&lang=English)
-
-> That the Mayor’s Tabled 2026 Annual Budget Update BE AMENDED in order to fund the Housing Stability Bank Program $500,000 ($250,000 for 2026 and $250,000 for 2027) from the Community Investment Reserv...
-
-Voted **Yea** - Motion Failed (7 to 8)
+Voted **Nay** - Motion Passed (9 to 2)
 
 
 ## Committees Served
