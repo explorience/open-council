@@ -1293,3 +1293,284 @@ Motion
 The
   meeting adjourned at 6:30 PM.
 
+---
+
+## Votes
+
+*18 substantive votes at this meeting (18 contested, 0 unanimous). Procedural motions excluded.*
+
+### 2. Properties located
+  at 360 Crumlin Sideroad and 3301 and 3345 Gore Road - Notice of Appeal to the
+  Ontario Municipal Board (OZ-8188)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Paul Hubert](/councillors/current/p-hubert), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
+
+</details>
+
+### 3. Properties located
+  at 1195 Fanshawe Park Road West and 2151 Dalmagarry Road (H-8388)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Paul Hubert](/councillors/current/p-hubert), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
+
+</details>
+
+### 4. Property located at
+  1057 Richmond Street
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Paul Hubert](/councillors/current/p-hubert), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
+
+</details>
+
+### 5. Victoria on the
+  River Subdivision - Phase 1 (formerly 1603 Hamilton Road) (H-8403)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Paul Hubert](/councillors/current/p-hubert), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
+
+</details>
+
+### 6. Property located at
+  1959 Wharncliffe Road South (Foxwood Crossing - Phase 2) - Request for
+  Extension - Draft Plan (39T-07507)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Paul Hubert](/councillors/current/p-hubert), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
+
+</details>
+
+### 7. Properties located
+  at 181 and 199 Commissioners Road East - Highland Green Subdivision -
+  Extension to Draft Plan of Subdivision Approval (39T-08501)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Paul Hubert](/councillors/current/p-hubert), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
+
+</details>
+
+### 8. Property located at
+  1070 Gainsborough Road (H-8398)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Paul Hubert](/councillors/current/p-hubert), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
+
+</details>
+
+### 9. Property located at
+  1139 Fanshawe Park Road West (H-8337)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Paul Hubert](/councillors/current/p-hubert), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
+
+</details>
+
+### 10. Property located at
+  312 Sunningdale Road West - Request for Extension of Draft Approval
+  (39T-10502)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Paul Hubert](/councillors/current/p-hubert), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
+
+</details>
+
+### 11. Cedarhollow
+  Subdivision - Phase 3 (39T-03518)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Paul Hubert](/councillors/current/p-hubert), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
+
+</details>
+
+### 12. Powell-Uplands
+  North Subdivision - Phase 3 (39T-05510)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Paul Hubert](/councillors/current/p-hubert), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
+
+</details>
+
+### 13. Property located at
+  312 Oxford Street East
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white)
+
+</details>
+
+### 14. Property located at
+  720 Proudfoot Lane (OZ-8375)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white)
+
+</details>
+
+### 15. Wortley Village -
+  Old South Heritage Conservation District
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white)
+
+</details>
+
+### 16. Property located at
+  915 Queens Avenue
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white)
+
+</details>
+
+### 17. Property located at
+  2054 Adelaide Street North (39T-11502/OZ-7921)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white)
+
+</details>
+
+### 18. Lands south of
+  Exeter Road, north of Dingman Drive, east of White Oak Road and west of the
+  Marr Drain (O-8362)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white)
+
+</details>
+
+### 19. Property located at
+  2151 Dalmagarry Road and 1195 Fanshawe Park Road West (Z-8387)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white)
+
+</details>
+

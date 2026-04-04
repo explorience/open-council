@@ -401,3 +401,70 @@ Motion
 
 ****
 
+---
+
+## Votes
+
+*4 substantive votes at this meeting (4 contested, 0 unanimous). Procedural motions excluded.*
+
+### 6. DELEGATION - M.
+  Dawthorne, J. Sanders and M. Cairns - 7th Report of the Accessibility
+  Advisory Committee
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher)
+
+</details>
+
+### 7. PUBLIC PARTICIPATION
+  MEETING - Informal Residential Care Facility Licensing By-law
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Bill Armstrong](/councillors/current/b-armstrong), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher)
+
+</details>
+
+### 8. Deferred Matters
+  List
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher)
+
+</details>
+
+### 9. (ADDED) 8th Report
+  of the Animal Welfare Advisory Committee
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher)
+
+</details>
+

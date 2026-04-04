@@ -546,3 +546,255 @@ The Corporate Services Committee convened
   in camera from 2:08 PM to 4:10 PM after having passed a motion to do so, with
   respect to the following matters:
 
+---
+
+## Votes
+
+*16 substantive votes at this meeting (16 contested, 0 unanimous). Procedural motions excluded.*
+
+### 2. City-Initiated
+  Assessment Appeals
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
+
+</details>
+
+### 3. Vehicle Lease
+  Agreement - Fleet Services and London Animal Care Centre
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
+
+</details>
+
+### 4. 2013 Compliance
+  Report in Accordance with the Procurement of Goods and Services Policy
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
+
+</details>
+
+### 5. Transfer of Donated
+  Funds to Mayor's Sustainable Energy Council
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
+
+</details>
+
+### 6. 2014 Ontario
+  Provincial General Election Candidate Questionnaire
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill)
+
+</details>
+
+### 7. London Hosting of
+  Federation of Canadian Municipalities (FCM) 2015 Sustainable Communities
+  Conference and Trade Show
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
+
+</details>
+
+### 8. Appeal - Request
+  for Tender 14-08: 2014 Infrastructure Lifecycle Renewal Program Contract #1,
+  Simcoe Street and Henry Street
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Judy Bryant](/councillors/current/j-p-bryant)
+
+**Nay (2):** [Joe Fontana](/councillors/current/j-f-fontana), [Bud Polhill](/councillors/current/b-polhill)
+
+</details>
+
+### 9. Required
+  Expenditure for HVAC Unit – Covent Garden Market Corporation
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
+
+</details>
+
+### 10. Appointment to the
+  Animal Welfare Advisory Committee
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
+
+</details>
+
+### 11. Appointment to the
+  Community Safety and Crime Prevention Advisory Committee
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
+
+</details>
+
+### 12. Appointments to the
+  Transportation Advisory Committee
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
+
+</details>
+
+### 13. Appointment to the
+  London Diversity and Race Relations Advisory Committee
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
+
+</details>
+
+### 14. Consideration of
+  Appointments to the Cycling Advisory Committee
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
+
+**Nay (2):** [Judy Bryant](/councillors/current/j-p-bryant), [Judy Bryant](/councillors/current/j-p-bryant)
+
+</details>
+
+### 15. ADDED - 2014
+  Debenture Issue Update
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
+
+</details>
+
+### 16. ADDED - Ombudsman
+  Ontario - Closed Meeting - Industrial Land Strategy
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
+
+</details>
+
+### 17. ADDED - Ombudsman
+  Ontario - Closed Meeting - Fire Services
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
+
+</details>
+

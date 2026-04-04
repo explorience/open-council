@@ -1189,3 +1189,230 @@ Motion
 
 The meeting adjourned at 8:18 PM.
 
+---
+
+## Votes
+
+*14 substantive votes at this meeting (14 contested, 0 unanimous). Procedural motions excluded.*
+
+### 2. 5th Report of the
+  Advisory Committee on the Environment
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 3. STAFF REPORT - Property
+  located at 807 Colborne Street (Fire Hall No. 4)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 4. STAFF REPORT -
+  Review of Impacts from Industrial Sources (Focus on Odour) and Potential
+  Municipal Actions (South of Highway 401)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 5. STAFF REPORT - Property
+  located at 530 Sunningdale Road East (Powell Subdivision Phase 4) (H-8758)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 6. STAFF REPORT - Property
+  located at 801 Sarnia Road (H-8736)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 8. STAFF REPORT - Property
+  located at 4166 Scotland Drive
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 9. PUBLIC
+  PARTICIPATION MEETING - Property located at 10 Hawthorne Road (Z-8723)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (15):** [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 10. 4th Report of the
+  Trees and Forests Advisory Committee
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 11. PUBLIC
+  PARTICIPATION MEETING - Properties located at  555-557 Ridout Street North
+  (TZ-8673)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (15):** [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 12. PUBLIC
+  PARTICIPATION MEETING - Low-rise Residential Development in Existing
+  Neighbourhoods (Infill Study) (Z-8701)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (15):** [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 13. PUBLIC
+  PARTICIPATION MEETING - Public Engagement Process for the Evaluation of
+  Community Improvement Plan Incentives
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (15):** [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 14. STAFF REPORT - Property
+  located at 1156 Dundas Street - Community Improvement Plan for
+  Brownfield Incentives
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 15. STAFF REPORT - Properties
+  located at 100 Fullarton Street, 475-501 Talbot Street and 93-95 Dufferin Ave
+  -  Brownfield Incentives
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Tanya Park](/councillors/current/t-park)
+
+**Nay (1):** [Jesse Helmer](/councillors/current/j-helmer)
+
+</details>
+
+### 15. STAFF REPORT - Properties
+  located at 100 Fullarton Street, 475-501 Talbot Street and 93-95 Dufferin Ave
+  -  Brownfield Incentives
+
+> Motion   Failed
+
+**❌ Motion
+  Failed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Jesse Helmer](/councillors/current/j-helmer)
+
+**Nay (4):** [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Tanya Park](/councillors/current/t-park)
+
+</details>
+

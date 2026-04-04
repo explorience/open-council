@@ -1230,3 +1230,125 @@ Motion Passed
 
 # XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
+---
+
+## Votes
+
+*8 substantive votes at this meeting (8 contested, 0 unanimous). Procedural motions excluded.*
+
+### VI. CONFIRMATION
+  AND SIGNING OF THE MINUTES OF THE EIGHTH MEETING HELD ON APRIL 16, 2013
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+</details>
+
+### VIII. MOTIONS
+  OF WHICH NOTICE IS GIVEN
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (28):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown), [Denise Brown](/councillors/current/d-brown)
+
+</details>
+
+### XIII. BY-LAWS
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (60):** [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Stephen Orser](/councillors/current/s-orser), [Stephen Orser](/councillors/current/s-orser), [Stephen Orser](/councillors/current/s-orser), [Stephen Orser](/councillors/current/s-orser), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Nancy Branscombe](/councillors/current/n-branscombe), [Nancy Branscombe](/councillors/current/n-branscombe), [Nancy Branscombe](/councillors/current/n-branscombe), [Nancy Branscombe](/councillors/current/n-branscombe), [Nancy Branscombe](/councillors/current/n-branscombe), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Judy Bryant](/councillors/current/j-p-bryant), [Judy Bryant](/councillors/current/j-p-bryant), [Judy Bryant](/councillors/current/j-p-bryant), [Judy Bryant](/councillors/current/j-p-bryant), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown), [Denise Brown](/councillors/current/d-brown), [Denise Brown](/councillors/current/d-brown), [Denise Brown](/councillors/current/d-brown), [Denise Brown](/councillors/current/d-brown), [Denise Brown](/councillors/current/d-brown)
+
+</details>
+
+### 1. Disclosures of Pecuniary Interest
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (25):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown), [Denise Brown](/councillors/current/d-brown)
+
+</details>
+
+### 2. Introduction of
+  By-law to Appoint Ms. Sandra Datars Bere to the Statutory Position of Ontario
+  Works Administrator
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+</details>
+
+### 5. Code of Conduct for
+  Municipal Council and Lobbyist Registry Update
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (50):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Nancy Branscombe](/councillors/current/n-branscombe), [Nancy Branscombe](/councillors/current/n-branscombe), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Judy Bryant](/councillors/current/j-p-bryant), [Judy Bryant](/councillors/current/j-p-bryant), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown), [Denise Brown](/councillors/current/d-brown), [Denise Brown](/councillors/current/d-brown), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (6):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Stephen Orser](/councillors/current/s-orser), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill)
+
+</details>
+
+### 10. Nomination of
+  Councillor H. L. Usher for Re-Election to the FCM Board of Directors
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (28):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown), [Denise Brown](/councillors/current/d-brown)
+
+</details>
+
+### 19. Reimbursement of
+  Councillor J.L. Baechler's expenses to serve on Federation of Canadian
+  Municipalities' Standing Committee(s)
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (1):** [Harold Usher](/councillors/current/h-l-usher)
+
+</details>
+

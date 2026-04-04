@@ -196,3 +196,25 @@ The Community and Protective Services Committee convened, In Closed Session, fro
 
 The meeting adjourned at 4:43 PM.
 
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That items 2.2 to 2.4 BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 2.1. Single Source Procurement - Vehicle Exhaust Capture Systems (VECS) in City of London Fire Stations
+
+> That consideration of the single source procurement of a vehicle exhaust capture system in City of London fire stations BE REFERRED to the next meeting of the Community and Protective Services Committee, to be held September 9, 2020, in order for staff to investigate additional options. (2020-V08)
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+

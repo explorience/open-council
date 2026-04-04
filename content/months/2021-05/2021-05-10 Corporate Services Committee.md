@@ -434,3 +434,54 @@ The meeting adjourned at 1:57 PM.
 
 ****
 
+---
+
+## Votes
+
+*5 substantive votes at this meeting (1 contested, 4 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That items 2.1, 2.5 and 2.7 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.2. 2021 Council Compensation Review Task Force
+
+> That the following actions be taken with respect to the 2021 Council Compensation Review Task Force:    a)      the City Clerk BE DIRECTED to commence the 2021 Council Compensation Review Task Force review based on the Terms of Reference as appended to the staff report as Appendix “A”; and,    b)...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.3. Court Security and Prisoner Transportation Program Transfer Payment Agreement
+
+> That, on the recommendation of the Deputy City Manager, Finance Supports the proposed by-law as appended to the staff report dated May 10, 2021 as Appendix “A” BE INTRODUCED at the Municipal Council meeting on May 25, 2021 to:    a)      approve the Ontario Transfer Payment Agreement between Her ...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.6. Elected Officials and Appointed Citizen Members 2021 Remuneration
+
+> That, notwithstanding the provisions of the Council Policy "Remuneration for Elected Officials and Appointed Citizen Members", the remuneration for elected officials and appointed citizens, NO INCREASE to remuneration for elected officials for appointed citizens be made for 2021; it being noted t...
+
+**❌ Motion Failed (2 to 4) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Nay (2):** [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/current/e-holder)
+
+</details>
+
+### 5.1. (ADDED) Application - Issuance of Proclamation - June is Deafblind Awareness Month
+
+> That based on the application dated May 6, 2021 from Sensity Deafblind and Sensory Support Network of Canada, the month of June, 2021 BE PROCLAIMED June is Deafblind Awareness Month.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

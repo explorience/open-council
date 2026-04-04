@@ -172,3 +172,52 @@ The meeting adjourned at 4:33 PM.
 
 ****
 
+---
+
+## Votes
+
+*3 substantive votes at this meeting (3 contested, 0 unanimous). Procedural motions excluded.*
+
+### 4.1. Consideration of Filling of Ward 6 Vacancy
+
+> That the following actions be taken with respect to filling the vacancy of the Office of Ward 6:    a)   Mariam Hamou BE APPOINTED to the Office of Ward 6 for the term commencing November 16, 2021 and ending November 15, 2022, pursuant to section 263(1)(a) of the Municipal Act, 2001;    b)    the...
+
+**✅ Motion Passed (10 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih)
+
+**Nay (1):** [Jesse Helmer](/councillors/current/j-helmer)
+
+**Absent (1):** [Maureen Cassidy](/councillors/current/m-cassidy)
+
+</details>
+
+### 4.1. Consideration of Filling of Ward 6 Vacancy
+
+> Appointment to Ward 6
+
+**❌ Majority Winner: No majority 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (20):** [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Shawn Lewis](/councillors/current/s-lewis), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier), [Steve Hillier](/councillors/current/s-hillier), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [John Fyfe-Millar](/councillors/current/j-fyfe-millar)
+
+</details>
+
+### 4.1. Consideration of Filling of Ward 6 Vacancy
+
+> Appointment to the office of Ward 6 Councillor
+
+**❌ Majority Winner: Mariam Hamou 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+

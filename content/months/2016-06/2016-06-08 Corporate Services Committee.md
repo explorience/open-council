@@ -275,3 +275,82 @@ The Corporate Services Committee convened
   in camera from 1:50 PM to 3:27 PM after having passed a motion to do so, with
   respect to the following matters:
 
+---
+
+## Votes
+
+*5 substantive votes at this meeting (5 contested, 0 unanimous). Procedural motions excluded.*
+
+### 2. Corporate Asset
+  Management System Acquisition - Assetic Canada Holdings
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Jared Zaifman](/councillors/current/j-zaifman)
+
+</details>
+
+### 4. Appointments to the
+  Animal Welfare Advisory Committee
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Virginia Ridley](/councillors/current/v-ridley), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Jared Zaifman](/councillors/current/j-zaifman)
+
+</details>
+
+### 6. Consideration of
+  Appointments to the London Housing Advisory Committee
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (15):** [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Virginia Ridley](/councillors/current/v-ridley), [Virginia Ridley](/councillors/current/v-ridley), [Virginia Ridley](/councillors/current/v-ridley), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Jared Zaifman](/councillors/current/j-zaifman), [Jared Zaifman](/councillors/current/j-zaifman), [Jared Zaifman](/councillors/current/j-zaifman), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (1):** [Harold Usher](/councillors/current/h-l-usher)
+
+</details>
+
+### 11. ADDED - Picaro
+  Enterprises Inc. - Request for Designation as a Municipally Significant Event
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Virginia Ridley](/councillors/current/v-ridley), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Jared Zaifman](/councillors/current/j-zaifman), [Jared Zaifman](/councillors/current/j-zaifman)
+
+</details>
+
+### 11. ADDED - Picaro
+  Enterprises Inc. - Request for Designation as a Municipally Significant Event
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Jared Zaifman](/councillors/current/j-zaifman)
+
+</details>
+

@@ -527,3 +527,26 @@ I'm pleased to report that progress was made for the items for which we went in 
 Thanks everyone.
 
 </details>
+
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2.5. City/County Cost Apportionment & Agency Agreements for Land Ambulance, Ontario Works, Housing, Child Care and Homelessness Prevention Program
+
+> That parts a), b), c), and e) of the motion BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 2.5. City/County Cost Apportionment & Agency Agreements for Land Ambulance, Ontario Works, Housing, Child Care and Homelessness Prevention Program
+
+> That part d) of the motion BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

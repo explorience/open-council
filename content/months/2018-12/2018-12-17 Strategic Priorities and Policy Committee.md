@@ -587,3 +587,103 @@ The Strategic Priorities and Policy Committee convened In Closed Session from 6:
 
 The meeting adjourned at 6:48 PM.
 
+---
+
+## Votes
+
+*10 substantive votes at this meeting (2 contested, 8 unanimous). Procedural motions excluded.*
+
+### 4.1. 2019 Development Charges Study - Update on Draft Rates
+
+> That the following delegations, related to the 2019 Development Charges Study, BE APPROVED to be heard at this time: a)    S. Levin, A. Beaton and A. Stratton; b)    B. Veitch, London Development Institute; and, c)    L. Langdon; it being noted that L. Langdon was not in attendance.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 4.1. 2019 Development Charges Study - Update on Draft Rates
+
+> That questions from Committee Members, to the delegates BE PERMITTED, with respect to Development Charges Study.
+
+**✅ Motion Passed (12 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner)
+
+**Nay (1):** [Ed Holder](/councillors/current/e-holder)
+
+</details>
+
+### 4.2. 2019 Development Charges Study - Non-Residential Rate Review
+
+> That, on the recommendation of the Managing Director, Development and Compliance Services & Chief Building Official, with the concurrence of the Managing Director, Corporate Services & City Treasurer, Chief Financial Officer, the following actions be taken:    a)    the Institutional, Commercial,...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.3. Confirmation of Appointments to the Hyde Park Business Improvement Association
+
+> That the following individuals BE APPOINTED to the Hyde Park Business Improvement Area for the term ending November 15, 2022;    Nancy Moffatt Quinn  Christine Buchanan  Terryanne Daniel  Lorean Pritchard  Tom Delaney  Mandi Hurst
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.4. Consideration of Appointments to the Plumbers' and Drain Layers' Examining Board
+
+> That D. Brouwer and M. Salliss BE APPOINTED to the Plumbers' and Drain Layers' Examining Board for the term ending November 15, 2022.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.5. Consideration of Appointment to the Committee of Revision/Court of Revision
+
+> That K. May BE APPOINTED to the Committee of Revision/Court of Revision for the term ending November 15, 2022.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.6. Ranked Ballot Results for the London Transit Commission
+
+> That T. Park, S.L. Rooth and T. Khan BE APPOINTED to the London Transit Commission for the term ending November 15, 2022, in accordance with the ranked ballot appended to the meeting agenda.
+
+**✅ Motion Passed (11 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Ed Holder](/councillors/current/e-holder), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner)
+
+**Nay (2):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire)
+
+</details>
+
+### 4.7. Ranked Ballot Results for the Tourism London Board of Directors
+
+> That Councillors A. Kayabaga and S. Lewis BE APPOINTED to the Tourism London Board of Directors for the term ending November 15, 2022, in accordance with the ranked ballot appended to the meeting agenda.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 5.1. (ADDED) Appointments
+
+> That the following actions be taken with respect to appointments to the Lake Huron Primary Water Supply System Joint Board of Management, the Kettle Creek Conservation Authority and the Middlesex-London Food Policy Council: a)         the resignation of Councillor E. Peloza from the Lake Huron Pr...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 5.1. (ADDED) Appointments
+
+> That S. Lewis BE APPOINTED as a member on the Middlesex-London Food Policy Council for the term ending November 30, 2020.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+

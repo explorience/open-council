@@ -1454,3 +1454,285 @@ Motion
 The
   meeting adjourned at 10:04 PM.
 
+---
+
+## Votes
+
+*18 substantive votes at this meeting (18 contested, 0 unanimous). Procedural motions excluded.*
+
+### 2. 7th Report of the
+  Advisory Committee on the Environment
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Paul Hubert](/councillors/current/p-hubert), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
+
+</details>
+
+### 3. By-law CP-2 -
+  London Downtown Business Association Improvement Area
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
+
+</details>
+
+### 4. Properties located
+  at 15790 and 15890 Robins Hill Road, 1010 and 1030 Wilton Grove Road, 2079
+  Huron Street, 2072 and 2080 Dundas Street, 1473 Dundas Street, 632, 646 and
+  652 Hale Street, 2536 and 2544 Colonel Talbot Road and 947 Longworth Road -
+  Notice of Appeal to the Ontario Municipal Board (OZ-8271)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Paul Hubert](/councillors/current/p-hubert), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
+
+</details>
+
+### 5. Silverfox Crescent
+  (Blocks 77, 79 and 81 in Plan 33M-622)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Paul Hubert](/councillors/current/p-hubert), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
+
+</details>
+
+### 6. Woodhull
+  Subdivision - Request to Amend Special Provisions (39T-03511)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Paul Hubert](/councillors/current/p-hubert), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
+
+</details>
+
+### 7. Property located at
+  2035 Pennyroyal Street (H-8349)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Paul Hubert](/councillors/current/p-hubert), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
+
+</details>
+
+### 8. Property located at
+  3399 Castle Rock Place (H-8333)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Paul Hubert](/councillors/current/p-hubert), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
+
+</details>
+
+### 9. Property located at
+  77 Tecumseh Avenue West (H-8328)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Paul Hubert](/councillors/current/p-hubert), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
+
+</details>
+
+### 10. Property located at
+  1040 Wharncliffe Road South - White Oaks Subdivision - Phase 3C (H-8233)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Paul Hubert](/councillors/current/p-hubert), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
+
+</details>
+
+### 11. Property located at
+  665 Wonderland Road North (H-8352)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Paul Hubert](/councillors/current/p-hubert), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
+
+</details>
+
+### 12. Properties located
+  at 192-196 and 193-197 Central Avenue and 200 Albert Street (Z-8336)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (15):** [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white)
+
+</details>
+
+### 13. Residential
+  Driveway Widths (Z-8316)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (15):** [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white)
+
+</details>
+
+### 14. Properties located
+  at 83, 85 and 89 Ridout Street South (Z-8330)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (15):** [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white)
+
+</details>
+
+### 15. Property located at
+  96 Ridout Street South (Z-8332)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (15):** [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white)
+
+</details>
+
+### 16. Properties located
+  at 250, 268, 270 and 272 Springbank Drive (OZ-8279)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white)
+
+**Nay (1):** [Bud Polhill](/councillors/current/b-polhill)
+
+</details>
+
+### 17. Industrial Land
+  Review: Urban Growth Boundary for Future Industrial Growth (O-8014)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (15):** [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white)
+
+</details>
+
+### 18. Old Victoria
+  Hospital Lands Secondary Plan and Associated Official Plan Amendments - Old
+  Victoria Hospital Lands Zoning Study (O-8158/Z-8344)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (15):** [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white)
+
+</details>
+
+### 19. 5th Report of the
+  Trees and Forests Advisory Committee
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white)
+
+</details>
+

@@ -643,3 +643,34 @@ Looking for a motion to adjourn. Councillor Frank seconded by. Councillor Pribbl
 Thank you, Councillor Ferreira. And with that, I adjourn the meeting.
 
 </details>
+
+---
+
+## Votes
+
+*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.8 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 5.1. (ADDED) 8th Report of the Environmental Stewardship and Action Community Advisory Committee
+
+> That the following actions be taken with respect to the 8th Report of the Environmental Stewardship and Action Community Advisory Committee (ESACAC), from the meeting held on July 10, 2024: a)    the following actions be taken with respect to the Neighbourhood Decision Making program: i)    the M...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 5.2. (ADDED) Service London Portal Request
+
+> That the Civic Administration BE DIRECTED to report back to a future meeting of the Community and Protective Services Committee on the feasibility of having a request button on the Service London Portal to report property standards violations and/or property naturalization violations.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

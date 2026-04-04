@@ -202,3 +202,17 @@ The Corporate Services Committee convenes, In Closed Session, from 12:25 PM to 1
 
 The meeting adjourned at 12:39 PM.
 
+---
+
+## Votes
+
+*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
+
+### 4. Items for Direction
+
+> That items 4.1 and 4.2 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+

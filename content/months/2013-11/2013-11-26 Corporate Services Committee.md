@@ -359,3 +359,150 @@ Motion
 
 ****
 
+---
+
+## Votes
+
+*9 substantive votes at this meeting (9 contested, 0 unanimous). Procedural motions excluded.*
+
+### 2. Lease Agreement -
+  London Police Services Board - 42 St. Julien Street
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Nancy Branscombe](/councillors/current/n-branscombe), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
+
+</details>
+
+### 3. Extension of Realty
+  Services - Agency of Record Agreement
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Nancy Branscombe](/councillors/current/n-branscombe), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
+
+</details>
+
+### 4. City of London
+  Community Suite
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Nancy Branscombe](/councillors/current/n-branscombe), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
+
+</details>
+
+### 5. City of London Days
+  - Budweiser Gardens
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Nancy Branscombe](/councillors/current/n-branscombe), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
+
+</details>
+
+### 6. Council Service
+  London Team
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
+
+**Nay (1):** [Nancy Branscombe](/councillors/current/n-branscombe)
+
+</details>
+
+### 7. RFP 13-09 - Network
+  Modernization
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Joe Swan](/councillors/current/j-b-swan), [Nancy Branscombe](/councillors/current/n-branscombe), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
+
+**Nay (1):** [Joe Fontana](/councillors/current/j-f-fontana)
+
+</details>
+
+### 8. RFP 13-14 - Storage
+  Area Network, Back-Up and Recovery Renewal
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Joe Swan](/councillors/current/j-b-swan), [Nancy Branscombe](/councillors/current/n-branscombe), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
+
+**Nay (1):** [Joe Fontana](/councillors/current/j-f-fontana)
+
+</details>
+
+### 9. Apportionment of
+  Taxes
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Joe Fontana](/councillors/current/j-f-fontana), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Nancy Branscombe](/councillors/current/n-branscombe), [Nancy Branscombe](/councillors/current/n-branscombe), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant), [Judy Bryant](/councillors/current/j-p-bryant)
+
+</details>
+
+### 10. Appointment to the
+  Environmental and Ecological Planning Advisory Committee
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Nancy Branscombe](/councillors/current/n-branscombe)
+
+</details>
+

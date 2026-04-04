@@ -853,3 +853,218 @@ None.
 
 The meeting adjourned at 7:59 PM.
 
+---
+
+## Votes
+
+*17 substantive votes at this meeting (11 contested, 6 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That items 2.1, 2.3 and 2.4 BE APPROVED.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (11-0)
+
+### 2.2. London Community Grants Program Allocations
+
+> That part c) BE APPROVED, as follows:  c) the Civic Administration BE DIRECTED to develop Business Cases for consideration during the 2020-2023 Multi-Year Budget process that provide for potential reductions related to the “London Community Grants Program”.
+
+**❌ Motion Failed (5 to 8) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (6):** [Josh Morgan](/councillors/current/j-morgan), [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/current/e-holder), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+</details>
+
+### 2.2. London Community Grants Program Allocations
+
+> That part b) i) BE APPROVED, as follows:  b) the Civic Administration BE DIRECTED to review the London Community Grants Policy and report back on policy amendments that would:  i) identify if the municipality is the appropriate source of funding for requests, potentially limiting or removing elig...
+
+**✅ Motion Passed (7 to 6) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (4):** [Ed Holder](/councillors/current/e-holder), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+</details>
+
+### 2.2. London Community Grants Program Allocations
+
+> That part b) ii) BE APPROVED, as follows:  ii) limit the eligibility for special events; including one day events, that could submit requests for consideration under the Neighbourhood Decision Making process; and
+
+**❌ Motion Failed (5 to 8) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (6):** [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+</details>
+
+### 2.2. London Community Grants Program Allocations
+
+> That part b) iii) BE APPROVED, as follows:  iii) tighten the current eligibility criteria for capital funding requests; and,
+
+**❌ Motion Failed (6 to 7) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (5):** [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+</details>
+
+### 3.1. Public Participation Meeting - Not to be heard before 4:05 PM - 2020 Water and Wastewater Rates
+
+> That part b) BE APPROVED, as follows: b) the proposed by-law as appended to the staff report dated November 25, 2019, being “A by-law to amend By-law W-8 being “ A by-law to provide for the Regulation of Water Supply in the City of London”, as amended by providing for an increase in the rates and...
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (11-0)
+
+### 3.1. Public Participation Meeting - Not to be heard before 4:05 PM - 2020 Water and Wastewater Rates
+
+> That part a) BE APPROVED, as follows: That, on the recommendation of the Managing Director, Environmental and Engineering Services & City Engineer, and the Managing Director, Corporate Services & City Treasurer, Chief Financial Officer the following actions be taken with respect to the 2020 Water...
+
+**❌ Motion Failed (6 to 7) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Mo Salih](/councillors/current/m-salih)
+
+**Nay (5):** [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer)
+
+</details>
+
+### 3.1. Public Participation Meeting - Not to be heard before 4:05 PM - 2020 Water and Wastewater Rates
+
+> That, on the recommendation of the Managing Director, Environmental and Engineering Services & City Engineer, and the Managing Director, Corporate Services & City Treasurer, Chief Financial Officer the following actions be taken with respect to the 2020 Water and Wastewater rates and charges: a) ...
+
+**✅ Motion Passed (10 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer)
+
+**Nay (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 4.1. Climate Change Emergency Update
+
+> That the matter of Climate Change Emergency Update and the associated recommendations BE REFERRED back to the Civic Administration, in order to allow for the gathering of additional information specific to the London experience and related data with respect to this matter.
+
+**❌ Motion Failed (2 to 11)**
+
+<details>
+<summary>View roll call</summary>
+
+**Nay (9):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+</details>
+
+### 4.1. Climate Change Emergency Update
+
+> The motion to approve parts a)vi), b)ii), b)iii), b)iv, b)v), c)i), c)ii), c)v) and d)i) is put.
+
+**✅ Motion Passed (11 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+</details>
+
+### 4.1. Climate Change Emergency Update
+
+> Motion to approve the balance of the recommendation is put.
+
+**✅ Motion Passed (12 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+**Nay (1):** [Michael van Holst](/councillors/current/m-van-holst)
+
+</details>
+
+### 4.2. Appointment to the Middlesex-London Health Unit Board of Directors (Requires 1 Member of Council)
+
+> That Councillor A. Kayabaga BE APPOINTED to the Middlesex-London Health Unit Board of Directors for the term ending November 15, 2022.
+
+**✅ Motion Passed (11 to 0)**
+
+Unanimous (9-0)
+
+### 4.2. Appointment to the Middlesex-London Health Unit Board of Directors (Requires 1 Member of Council)
+
+> Appointment to Middlesex-London Health Unit Board of Directors
+
+**❌ Majority Winner: Councillor A. Kayabaga 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (9):** [Shawn Lewis](/councillors/current/s-lewis), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+</details>
+
+### 4.3. Appointment to the County/City Liaison Committee (Requires the Mayor, 2 Members of Council and 1 Alternate Member of Council)
+
+> That the following BE APPOINTED to the County/City Liaison Committee for the term ending November 15, 2022:  Mayor E. Holder  Councillor J. Morgan  Councillor S. Turner  Councillor J. Helmer (Alternate)
+
+**✅ Motion Passed (12 to 0)**
+
+Unanimous (10-0)
+
+### 4.4. Confirmation of Appointments to the Argyle BIA
+
+> That Dale Irwin BE APPOINTED to the Argyle Business Improvement Area for the term ending November 15, 2022.
+
+**✅ Motion Passed (12 to 0)**
+
+Unanimous (10-0)
+
+### 4.5. Confirmation of Appointments to the London Downtown Business Association
+
+> That the following BE APPOINTED to London Downtown Business Association for the term ending November 15, 2022:    Andrew McClenaghan - Digital Echidna   Asaad Naeeli - Dos Tacos   Bonnie Wludyka - Citi Plaza/IF Propco Holdings   David E White - David E White Clothier   David Kirwin - Kirwin Fryda...
+
+**✅ Motion Passed (11 to 0)**
+
+Unanimous (9-0)
+
+### 4.6. West Transit Motion
+
+> That the Civic Administration BE REQUESTED to review and report back with recommendations for providing higher order transit service and/or transit improvement projects to West London, including but not limited to potential modifications of the West Connection project that address:    a)      opt...
+
+**✅ Motion Passed (11 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+**Nay (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+</details>
+

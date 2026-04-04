@@ -1108,3 +1108,103 @@ Dickens is alluding to that it's not part of it's not our information it's actua
 Card and and understand where we need to take this for sure thank you i'd really appreciate that especially as we embark upon this enormous costing project i think we need to understand before we say yes to anything what the what we can expect thank you uh counselor treso i think it's important to recognize through the chair that and the the mfipa regime is statutory and there's certain jurisdictional requirements in it um the mfipa regime only applies to certain types of records and if a record is not within the custody and control of of of of the of the agency there is no discussion with the head or with city council or with or with the city solicitor about about about violating the basic premise of the jurisdiction of mfipa now maybe i'm getting too technical about this and i've been around the block with a couple of mfipa requests with the city over the years but i can i can tell you we we have designated a head and we have designated a head to whom we we have the head typically as somebody who works in the city clerk's office but not the city clerk and we designate to the head all of the statutory authority on behalf of a fipa so i think it's really as it's really unusual i think to be making a request to to city council to figure out if there's some way of bending the rules now it might be that legally it might be that legally these contractors who enter into contracts with the city the city might legally have a custody and control over those documents but the problem for that and my big big big concern about a city councilor pursuing this is really the way this is going to be determined is the the mfipa commissioner is going to make a decision and then there's judicial review and i don't think any member of this council wants to find themselves in a situation where they're in where they're in litigation as an unsuccessful applicant let me just finish uh with with with the city councilor because that that is that is clearly a conflict and i think that we have to understand that in making that delegation to the head we have as a council and in fact the city clerk doesn't have a lot of jurisdiction over the head either because the the head is a statutory i'm using the head as a um statutory person they they have a lot of authority here so i really think that we can't change the rules because we bring it to city council and it would be nice for the public to have the information i just think we have to be very careful about this thank you i will recognize um i don't believe the councilor's taught speaking about bending the rules but just rather access to information what's in the public realm and can actually be expected in our procurement policies and when we do our rfps and what can come back to us councilor stevenson yeah no thank you i want to be really clear i've had excellent service in terms of the mfipa like the communication everything has been excellent i have zero complaints about the mfipa process i don't mind spending the five dollars i don't mind waiting it's the city tax dollars five dollars i did put it through the expense um but i i've had no problem with the mfipa process my concern is that i am being told that a three point eight million dollar contract was signed with no financial schedules as part of that contract so maybe it's a procurement question maybe i don't know but i want to know is that true is that what we do that what we see is all there is i i want to know thank you um and i believe mr sultez has uh joined us this evening and said he will follow up on that request is he was not the one who personally handed it handled it and uh we'll get back directly to you with more information so i have no doubt that would be done by our staff behind the scenes um and knowing that you had no more information giving you to this evening does that satisfy your additional business i am tonight okay okay looking to committee see if there's anything other additional seeing none we do have one item for closed session we will need a few minutes to shuffle the chairs around but we're just going to stay in this room since the public gallery is already vacant so just stay oh we need a motion to move into closed move by council roman second by councilor stevenson hand vote okay it's going to open an e-scribe for moving closed session for the one item for personal matters identify individual as listed on the public agenda posing the vote the motion carries five to zero okay um we're coming back out of closed session i turn to councilor roman thank you and i'm happy to report progress on the item that we went in camera thank you that concludes our confidential and our entire agenda for the 12th meeting and the community and protected services committee i'm looking to committee for a motion to adjourn moved by councilor stevenson seconded by councilor preble a hand vote of all in favor that motion and carries, have a wonderful evening.
 
 </details>
+
+---
+
+## Votes
+
+*9 substantive votes at this meeting (3 contested, 6 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.2 and 2.5 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 2.3. Housing Stability Services 2023-24 Contract Amendments
+
+> That the motion BE AMENDED in part b) to read as follows: "b)      the matter of a one-time funding allocation of up to $374,210 to London Cares Homeless Response Services BE REFERRED back to the Civic Administration to provide information as to how the concerns raised as part of the neighbourhoo...
+
+**✅ Motion Passed (5 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Shawn Lewis](/councillors/current/s-lewis), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 2.3. Housing Stability Services 2023-24 Contract Amendments
+
+> Motion to approve parts a), c), and d) of the clause.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 2.4. Primary Care Recruitment, Transition into Practice and Retention Program Funding Request
+
+> Motion to approve the following: "the Civic Administration BE DIRECTED to review opportunities through the Rethink Zoning process to facilitate the establishment of Team Based Family Care facilities, not withstanding our policies locating major office uses in the downtown core, and consistent wit...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 2.4. Primary Care Recruitment, Transition into Practice and Retention Program Funding Request
+
+> Motion to approve part b) and c) of the staff recommendation, as follows: "b)    the City’s financial contribution BE APPROVED from the Economic Development Reserve Fund in the amount of $80,000 per year for 3 years, and, c)    the Civic Administration BE AUTHORIZED to undertake all administrativ...
+
+**❌ Motion Failed (2 to 4) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Jerry Pribil](/councillors/current/j-pribil), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (4):** [Shawn Lewis](/councillors/current/s-lewis), [Susan Stevenson](/councillors/current/s-stevenson), [Corrine Rahman](/councillors/current/c-rahman), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 4.1. Revised Process for City Board Representative on Museum London Board
+
+> That the matter of a City of London representative on the Museum London Board BE REFERRED to a future meeting of the Strategic Priorities and Policy Committee for consideration of an appointment; it being noted that the members of Council will be advised of the opportunity; it being further noted...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 4.1. Revised Process for City Board Representative on Museum London Board
+
+> Motion to approve delegation status for representatives from Museum London to be heard at this meeting.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 4.2. Thames Pool Condition Update and Repair Options
+
+> That the Civic Administration BE DIRECTED to take the following actions with respect to the Thames Pool: a)    proceed with the process to decommission Thames Pool; b)    undertake a community consultation with respect to implementing potential new amenities in Thames Park, including but not limi...
+
+**✅ Motion Passed (5 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Shawn Lewis](/councillors/current/s-lewis), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
+
+### 5.1. (ADDED) 7th Report of the Animal Welfare Community Advisory Committee
+
+> That the following actions be taken with respect to the 7th Report of the Animal Welfare Community Advisory Committee, from its meeting held on July 6, 2023: a)    the Civic Administration BE REQUESTED to provide the Animal Welfare Community Advisory Committee with an update on zoning for zoos an...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+

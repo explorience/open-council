@@ -852,3 +852,264 @@ The Strategic Priorities and Policy Committee convened, In Closed Session, from 
 
 The Strategic Priorities and Policy Committee recessed at 4:28 PM; it being noted that the meeting will resume at 9:30 AM, Friday, January 31, 2020.
 
+---
+
+## Votes
+
+*20 substantive votes at this meeting (13 contested, 7 unanimous). Procedural motions excluded.*
+
+### 3.1. Introductory Presentation
+
+> That an extended recess from 10:45 AM to 1:00 PM, BE APPROVED for the January 30, 2020 meeting; it being noted that there is a funeral scheduled for a former Member of Council during that time.
+
+**✅ Motion Passed (13 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+</details>
+
+### 4.1. Culture
+
+> a) the net 2020-2023 Multi-Year Operating Budget for the following services within Culture BE ADOPTED: i. Page 60 - Centennial Hall - $764,000  ii. Page 60 - Arts, Culture and Heritage Advisory and Funding - $9,869,000    v. Page 60 - Eldon House - $1,206,000  vi. Page 60 - Heritage - $844,000  v...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.1. Culture
+
+> a)  the net 2020-2023 Multi-Year Operating Budget for the following service within Culture BE ADOPTED: iii. Page 60 - Museum London excluding provincial impacts - $7,499,000
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.1. Culture
+
+> b) the 2020-2023 Multi-Year Capital Budget for Culture BE ADOPTED:    i. Page 62 – Lifecycle Renewal Capital Budget - $7,984,000  ii. Page 62 – Growth Capital Budget - $6,186,000  iii. Page 62 – Service Improvement Capital Budget - $0
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.1. Culture
+
+> c) the 2024-2029 Multi-Year Capital Forecast for Culture BE ADOPTED in principle:    i. Page 62 – Lifecycle Renewal Capital Forecast - $15,331,000  ii. Page 62 – Growth Capital Forecast - $0  iii. Page 62 – Service Improvement Capital Forecast - $0.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.1. Culture
+
+> That the following 2020-2023 Multi-Year business cases for potential levy reductions BE CONSIDERED at this time: ii. Business Case 27 - London Public Library - Eliminate Planned Security Enhancements - 2020-2023 Total Investments ($107,000); Net Levy ($107,000) iii. Business Case 28 - London Publ...
+
+**✅ Motion Passed (9 to 6) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Michael van Holst](/councillors/current/m-van-holst), [Maureen Cassidy](/councillors/current/m-cassidy), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (4):** [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Mo Salih](/councillors/current/m-salih)
+
+</details>
+
+### 4.1. Culture
+
+> a)  the net 2020-2023 Multi-Year Operating Budget for the following service within Culture BE ADOPTED: iv. Page 60 - Museum London provincial impacts for consideration - $54,000
+
+**❌ Motion Failed (5 to 10)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Elizabeth Peloza](/councillors/current/e-peloza), [Mo Salih](/councillors/current/m-salih), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (8):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire)
+
+</details>
+
+### 4.2. Economic Prosperity
+
+> That the following actions be taken with respect to Economic Prosperity:    a) the net 2020-2023 Multi-Year Operating Budget for the following services within Economic Prosperity BE ADOPTED:    i. Page 71 - Economic Development - $29,792,000  ii. Page 71 - Community Improvement/Business Improveme...
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (11-0)
+
+### 4.2. Economic Prosperity
+
+> a)  the net 2020-2023 Multi-Year Operating Budget for the following service within Economic Prosperity BE ADOPTED: iv. Page 71 - Tourism & Sports Attraction - $8,254,000
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (1):** [Maureen Cassidy](/councillors/current/m-cassidy)
+
+**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+
+</details>
+
+### 4.2. Economic Prosperity
+
+> b) the 2020-2023 Multi-Year Capital Budget for Economic Prosperity BE ADOPTED:    i. Page 72 – Lifecycle Renewal Capital Budget - $3,565,000  ii. Page 72 – Growth Capital Budget - $5,150,000  iii. Page 72 – Service Improvement Capital Budget - $23,467,000
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 4.2. Economic Prosperity
+
+> c) the 2024-2029 Multi-Year Capital Forecast for Economic Prosperity BE ADOPTED in principle: i. Page 72 – Lifecycle Renewal Capital Forecast - $5,092,000  ii. Page 72 – Growth Capital Forecast - $0  iii. Page 72 – Service Improvement Capital Forecast - $32,995,000
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 4.2. Economic Prosperity
+
+> That the annual base allocation to the Operating Budget of Tourism London, including in part 4.2 a)iv) BE REDUCED by $200,000.
+
+**❌ Motion Failed (3 to 11)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Maureen Cassidy](/councillors/current/m-cassidy)
+
+**Nay (9):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+
+</details>
+
+### 4.11. Business Cases for Potential Net Levy Reductions
+
+> Pursuant to section 32.5 of the Council Procedural By-law, shall the ruling of the Chair BE SUSTAINED?
+
+**❌ Motion Failed (7 to 8) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Mo Salih](/councillors/current/m-salih), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Arielle Kayabaga](/councillors/current/a-kayabaga), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (12):** [Shawn Lewis](/councillors/current/s-lewis), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst)
+
+</details>
+
+### 4.11. Business Cases for Potential Net Levy Reductions
+
+> Reconsideration of the vote with respect to the upholding the decision of the Chair.
+
+**✅ Motion Passed (13 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+</details>
+
+### 4.11. Business Cases for Potential Net Levy Reductions
+
+> Pursuant to section 31.18 Disorderly conduct - member to be removed - "Shall the member be ordered to leave his/her seat for the duration of the meeting?"
+
+**❌ Motion Failed (4 to 11)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Shawn Lewis](/councillors/current/s-lewis), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Nay (9):** [Josh Morgan](/councillors/current/j-morgan), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+</details>
+
+### 4.11. Business Cases for Potential Net Levy Reductions
+
+> That the following BE APPROVED: ii. Business Case 27 - London Public Library - Eliminate Planned Security Enhancements – 2020-2023 Total Investment ($107,000); Net Levy ($107,000)
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (1):** [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 4.11. Business Cases for Potential Net Levy Reductions
+
+> That the following BE APPROVED: iii. Business Case 28 - London Public Library - Eliminate Planned Staffing Increase – 2020-2023 Total Investment ($42,000); Net Levy ($42,000)
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (1):** [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 4.11. Business Cases for Potential Net Levy Reductions
+
+> That the following BE APPROVED: iv. Business Case 29 - London Public Library – Promissory Note Forgiveness - 2020- 2023 Total Investment ($912,000); Net Levy ($717,000)
+
+**✅ Motion Passed (8 to 6) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+**Nay (4):** [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Absent (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 4.11. Business Cases for Potential Net Levy Reductions
+
+> That the following BE APPROVED: v. Business Case 30 - London Public Library - Wi-Fi Hotspot Lending Program – 2020-2023 Total Investment ($188,000); Net Levy ($188,000)
+
+**✅ Motion Passed (9 to 6) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst)
+
+**Nay (4):** [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+</details>
+
+### 4.11. Business Cases for Potential Net Levy Reductions
+
+> That the following BE APPROVED: vii. Business Case 32 - Museum London - Exhibitions and Programs Reductions - 2020-2023 Total revised Investment ($182,000); Net Levy ($182,000)
+
+**❌ Motion Failed (7 to 7) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Michael van Holst](/councillors/current/m-van-holst), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+**Nay (5):** [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+
+</details>
+

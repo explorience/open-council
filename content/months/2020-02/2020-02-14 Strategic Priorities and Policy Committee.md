@@ -463,3 +463,145 @@ d)      the Managing Director, Corporate Services and City Treasurer, Chief F
 
 The meeting adjourned at 2:58  PM.
 
+---
+
+## Votes
+
+*10 substantive votes at this meeting (8 contested, 2 unanimous). Procedural motions excluded.*
+
+### 4.7. Social and Health Services
+
+> Motion to approve part b) of the amended motion.
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 4.7. Social and Health Services
+
+> That the motion related to the Land Ambulance Budget BE AMENDED by adding the following new part b): b)    a meeting of the City-County Liaison Committee BE CONVENED forthwith and prior to the finalization of the City budget, in order to provide the opportunity for further discussion with respect...
+
+**✅ Motion Passed (13 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+</details>
+
+### 4.7. Social and Health Services
+
+> That part a) of the amended motion BE ADOPTED.  Part A) reads as follows: "That the net 2020-2023 Multi-Year Operating Budget for the following service within Social and Health Services BE ADOPTED: v.  Page 121 - Land Ambulance $91,2550,00"
+
+**✅ Motion Passed (13 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+</details>
+
+### 4.12. Business Cases for Additional Investment - Administratively Prioritized
+
+> That Business Case 3A BE REFERRED to a future update of the 2020-2023 Multi-Year Budget; it being noted that the London Community Foundation provided the attached communication related to this matter.
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+</details>
+
+### 4.12. Business Cases for Additional Investment - Administratively Prioritized
+
+> That the following 2020-2023 Multi-Year Budget business cases for additional investment that the Civic Administration has prioritized BE APPROVED: iv. Business Case 3B – Back to the River – One River Environmental Assessment Management Implementation – 2020-2023 Total: Investment $1,250,000; Net ...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 4.12. Business Cases for Additional Investment - Administratively Prioritized
+
+> That the following 2020-2023 Multi-Year Budget business cases for additional investment that the Civic Administration has prioritized BE APPROVED: x. Business Case 8 – Dearness Home Auditorium Expansion - 2020-2023 Total: Investment $2,456,000; Net Levy $518,000
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 4.12. Business Cases for Additional Investment - Administratively Prioritized
+
+> That the motion related to Business Case 9, Fanshawe College Innovation Village, BE AMENDED to reflect a funding amount of $2,500,000, with the funding to be paid over ten years ($250,000 annually from the reserve fund).
+
+**✅ Motion Passed (9 to 5)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (3):** [Shawn Lewis](/councillors/current/s-lewis), [Elizabeth Peloza](/councillors/current/e-peloza), [Michael van Holst](/councillors/current/m-van-holst)
+
+**Absent (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 4.12. Business Cases for Additional Investment - Administratively Prioritized
+
+> Main motion, as amended, with respect to Business Case 9 in the amount of $2,500,000, over ten years.
+
+**✅ Motion Passed (10 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (2):** [Shawn Lewis](/councillors/current/s-lewis), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Absent (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 4.13. Business Cases for Additional Investment - For Consideration
+
+> That the following contributions BE APPROVED, with respect to Business Case 4B - City of London Infrastructure Gap: 2020      $750,000 2021    $1,500,000 2022     $2,250,000 2023     $3,000,000; it being noted that the Net Levy Investment for the 2020-2023 Multi-Year Budget will be $7,500,000.
+
+**✅ Motion Passed (11 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Ed Holder](/councillors/current/e-holder)
+
+</details>
+
+### 4.16. 2020-2023 Multi-Year Budget - Additional Recommendations
+
+> That the following actions be taken with respect to the 2020-2023 Multi-Year Budget: a)      the 2020-2023 corporate tax levy BE ADOPTED in the amount of $2,684,600,789, which represents an approximate average annual increase of 3.9% from rates; and 2020-2023 gross expenditures equal to $4,197,07...
+
+**✅ Motion Passed (12 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+

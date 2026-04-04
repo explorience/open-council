@@ -168,3 +168,69 @@ The Corporate Services Committee convened
   in camera from 1:18 PM to 1:30 PM after having passed a motion to do so, with
   respect to the following matters:
 
+---
+
+## Votes
+
+*4 substantive votes at this meeting (4 contested, 0 unanimous). Procedural motions excluded.*
+
+### 2. Proposed Election
+  Sign By-law
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Paul Hubert](/councillors/current/p-hubert)
+
+</details>
+
+### 3. By-law to Establish
+  Tax Ratio for New Multi-Residential Property Class
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Paul Hubert](/councillors/current/p-hubert)
+
+</details>
+
+### 4. 2016 Annual
+  Reporting of Lease Financing Agreements
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Paul Hubert](/councillors/current/p-hubert)
+
+</details>
+
+### 5. Declare Surplus -
+  39 Redwood Lane
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Paul Hubert](/councillors/current/p-hubert)
+
+</details>
+

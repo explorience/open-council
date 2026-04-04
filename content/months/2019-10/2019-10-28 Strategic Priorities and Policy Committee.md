@@ -744,3 +744,102 @@ That, on the recommendation of the City Clerk, the Terms of Reference for the Ci
 
 The meeting adjourned at 8:02 PM.
 
+---
+
+## Votes
+
+*11 substantive votes at this meeting (1 contested, 10 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.3 and 2.4 BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 2.2. London Economic Development Corporation Purchase of Services Agreement 2020-2023
+
+> That the following potential amendments to the Purchase of Services Agreement with the London Economic Development Corporation (LEDC) BE REFERRED back to staff in order to consult with the LEDC, with a report back to a future meeting of the Strategic Priorities and Policy Committee: a) section 3....
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 3.1. Public Participation Meeting - Not to be heard before 4:05 PM - Amendments to Consolidated Fees and Charges By-law
+
+> That, on the recommendation of the City Clerk, with the concurrence of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the attached, revised by-law BE INTRODUCED at the Municipal Council meeting on November 12, 2019 for the purpose of repealing By-law No. A-...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 3.1. Public Participation Meeting - Not to be heard before 4:05 PM - Amendments to Consolidated Fees and Charges By-law
+
+> That the implementation of a user fee for Electric Vehicle Charging BE REMOVED from the proposed Fees and Charges By-law at this time, and the matter BE REFERRED back to staff for a future report related to Climate Change and the city's action plan.
+
+**✅ Motion Passed (13 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+</details>
+
+### 4.1. Request for Second Term Appointments to the Greater London International Airport Authority Board of Directors
+
+> That Maureen O'Leary-Pickard and Gus Kotsiomitis BE APPOINTED for a second term to the Greater London International Airport Authority Board of Directors, it being noted that this second term will end July 31, 2022.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.4. Committee Appointment Preferences submitted by Council Members
+
+> That the following appointments BE MADE to the Planning and Environment Committee of the Municipal Council for the term December 1, 2019 to November 30, 2020: Councillor M. Cassidy  Councillor J. Helmer  Councillor A. Hopkins  Councillor A. Kayabaga  Councillor S. Turner That Councillor M. Cassid...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.4. Committee Appointment Preferences submitted by Council Members
+
+> That the following slate BE APPROVED for appointment consideration to the Civic Works Committee: Councillor M. Cassidy  Councillor S. Lehman  Councillor E. Peloza  Councillor P. van Meerbergen  Councillor S. Lewis Councillor S. Hillier
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.4. Committee Appointment Preferences submitted by Council Members
+
+> That the following appointments BE MADE to the Civic Works Committee of the Municipal Council for the term December 1, 2019 to November 30, 2020: Councillor M. Cassidy  Councillor S. Lehman  Councillor E. Peloza  Councillor P. van Meerbergen  Councillor S. Lewis it being noted that Councillor S. ...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.4. Committee Appointment Preferences submitted by Council Members
+
+> That the following appointments BE MADE to the Corporate Services Committee of the Municipal Council for the term December 1, 2019 to November 30, 2020: Councillor J. Helmer  Councillor A. Kayabaga  Councillor J. Morgan  Councillor M. van Holst  Councillor A. Hopkins That Councillor A. Kayabaga B...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.4. Committee Appointment Preferences submitted by Council Members
+
+> That the following appointments BE MADE to the Community and Protective Services Committee of the Municipal Council for the term December 1, 2019 to November 30, 2020: Councillor S. Hillier  Councillor S. Lewis  Councillor P. Squire  Councillor M. van Holst  Councillor M. Salih That Councillor S....
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 5.1. (ADDED) City Manager Search Committee - Terms of Reference
+
+> That, on the recommendation of the City Clerk, the Terms of Reference for the City Manager Search Committee, attached as Appendix “A” to the staff report dated October 22, 2019 with respect to this matter, BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+

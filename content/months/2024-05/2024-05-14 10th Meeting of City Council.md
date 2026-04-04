@@ -2685,3 +2685,177 @@ We're on to German, I look for a motion to adjourn. Moved by Deputy Mayor Lewis,
 Great, we're adjourned. Thank you.
 
 </details>
+
+---
+
+## Votes
+
+*13 substantive votes at this meeting (7 contested, 6 unanimous). Procedural motions excluded.*
+
+### 8.1. 9th Report of the Corporate Services Committee
+
+> That the 9th Report of the Corporate Services Committee BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.2. 6th Report of the Community and Protective Services Committee
+
+> That the 6th Report of the Community and Protective Services Committee BE APPROVED with the exception of item 7(2.5).
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.2.7. (2.5) Core Area Parking Incentives Extension
+
+> That the motion BE AMENDED to include the following new parts: c) the Civic Administration BE DIRECTED to implement a free 1-hour on-street parking program for the Core Area until the end of 2024; d) the financing for a free 1-hour on-street parking program for the Core Area, in the estimated amo...
+
+**✅ Motion Passed (11 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (3):** [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Skylar Franke](/councillors/current/s-franke)
+
+**Absent (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 8.2.7. (2.5) Core Area Parking Incentives Extension
+
+> That parts c), d), e) and f) BE APPROVED to read as follows: c) the Civic Administration BE DIRECTED to implement a free 1-hour on-street parking program for the Core Area until the end of 2024; d) the financing for a free 1-hour on-street parking program for the Core Area, in the estimated amoun...
+
+**✅ Motion Passed (11 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (3):** [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Skylar Franke](/councillors/current/s-franke)
+
+**Absent (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 8.3. 7th Report of the Civic Works Committee
+
+> That the 7th Report of the Civic Works Committee BE APPROVED with the exception of items 6 (2.5), 7 (2.6 ), 8 (2.7) and 11 (4.1).
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.3.6. (2.5) Contract Award: Tender No. RFT-2024-094 - Wellington Gateway and Municipal Infrastructure Improvements Phase 4 - Harlech Gate to Wellington Commons Entrance
+
+> That items 6 (2.5), 7 (2.6) and 8 (2.7) BE APPROVED 6 (2.5)   That on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report, dated April 30, 2024, related to a Contract Award: Tender No. RFT-2024-094 for Well...
+
+**✅ Motion Passed (12 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 8.4. 9th Report of the Strategic Priorities and Policy Committee
+
+> That the 9th Report of the Strategic Priorities and Policy Committee BE APPROVED with exception of item 8(5.1).
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.4.8. (5.1) Request for One-Time Funding for Ark Aid
+
+> That part a) of the motion BE APPROVED to read as follows: a)  Civic Administration BE DIRECTED to extend one-time funding in the amount of $687,000 to Ark Aid Street Mission Inc. for an additional 61 days until July 31, 2024 to be funded through the Community Investment Reserve Fund and for staf...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.4.8. (5.1) Request for One-Time Funding for Ark Aid
+
+> That part b) of the motion BE APPROVED to read as follows: b)   that consideration of the existing Municipal Purchase of Service Agreement with Safe Space London for a total estimated increase of up to $130,000 (excluding HST) for the period of June 1, 2024 to July 31, 2024, to continue temporary...
+
+**❌ Motion Failed (7 to 7) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (7):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 8.5. 7th Report of the Planning and Environment Committee
+
+> That the 7th Report of the Planning and Environment Committee BE APPROVED with the exception of item 11 (3.5)
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.5.11. (3.5) 379-390 Hewitt Street and 748 King Street (Z-9718) (Relates to Bill No. 164)
+
+> That the motion BE AMENDED to include the following: It being further noted, that as SPA23-097 for parking lot works has been received by the city, and should the applicant enter into a signed development agreement and demonstrate progress on the parking lot improvements before the expiration of ...
+
+**✅ Motion Passed (11 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 8.5.11. (3.5) 379-390 Hewitt Street and 748 King Street (Z-9718) (Relates to Bill No. 164)
+
+> That the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (12 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke)
+
+**Absent (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 8.5.11. (3.5) 379-390 Hewitt Street and 748 King Street (Z-9718) (Relates to Bill No. 164)
+
+> That the motion, as amended, BE REFERRED to a future meeting of the Planning and Environment Committee to consider an amendment to the by-law to read as follows: the proposed by-law attached hereto as Appendix "A" BE INTRODUCED at the Municipal Council meeting to be held on May 14, 2024, to amend...
+
+**❌ Motion Failed (4 to 10)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+

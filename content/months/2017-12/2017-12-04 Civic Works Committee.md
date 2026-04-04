@@ -390,3 +390,193 @@ Motion
 
 ****
 
+---
+
+## Votes
+
+*12 substantive votes at this meeting (12 contested, 0 unanimous). Procedural motions excluded.*
+
+### 2. Election of Vice
+  Chair for the Term Ending November 30, 2018
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Phil Squire](/councillors/current/p-squire), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 3. Veterans Memorial
+  Parkway – Community Program for Landscape Enhancements - Final Report
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Phil Squire](/councillors/current/p-squire), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 4. Updates -  Proposed
+  Food and Organic Waste Framework - Blue Box Program Plan Amendment and Waste
+  Free Ontario Act - Update
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Phil Squire](/councillors/current/p-squire), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 5. Amendments to the
+  Traffic And Parking By-Law
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Phil Squire](/councillors/current/p-squire), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 6. Public Education
+  And Communication Program: Toilets Are Not Garbage Cans
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Phil Squire](/councillors/current/p-squire), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 7. Flooding Matters
+  Weeping Tile Connection Charge Feasibility Analysis
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Phil Squire](/councillors/current/p-squire), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 8. Local Improvement
+  Policy Review
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Phil Squire](/councillors/current/p-squire), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 9. 2017 External Audit
+  of London’s Drinking Water Quality Management System and 2017 Management
+  Review
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Phil Squire](/councillors/current/p-squire), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 10. 11th Report of the
+  Cycling Advisory Committee
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Phil Squire](/councillors/current/p-squire), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 11. Report on Private
+  Works Impacting
+the
+  Transportation Network
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Phil Squire](/councillors/current/p-squire), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 12. 10th Report of the
+  Transportation Advisory Committee
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Phil Squire](/councillors/current/p-squire), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 13. Deferred Matters
+  List
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Phil Squire](/councillors/current/p-squire), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+
+</details>
+

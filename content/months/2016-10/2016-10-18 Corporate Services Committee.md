@@ -459,3 +459,169 @@ The
   Corporate Services Committee convened in camera from 12:43 PM to 1:20 PM
   after having passed a motion to do so, with respect to the following matters:
 
+---
+
+## Votes
+
+*10 substantive votes at this meeting (10 contested, 0 unanimous). Procedural motions excluded.*
+
+### 2. STAFF REPORT - City
+  of London Days - Budweiser Gardens
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 3. STAFF REPORT - City
+  of London Days - Budweiser Gardens - Parkinson Society Southwestern Ontario
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 4. STAFF REPORT -
+  Email Access - Council Members' Temporary Contract Assistants
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 5. STAFF REPORT -
+  Tender 16-84 Irregular Bid for Stronach Arena Dehumidification Lifecycle
+  Replacement
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 6. STAFF REPORT -
+  Tender 16-97 Supply, Delivery and Installation of Steelcase Inc., Tender
+  16-98 Supply, Delivery and Installation of Dirtt Wall Systems, Tender 16-99
+  Supply, Delivery and Installation of Herman Miller Inc. Irregular Results
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 7. STAFF REPORT -
+  Lease Agreement - City and Thames Valley District School Board - London
+  Environmental Education Centre Wellington Road Tourist Information Centre
+  Location
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 8. STAFF REPORT -
+  2016-2019 Tax Calculator Web Tool
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 9. COUNCIL MEMBER
+  SUBMISSION - Report of the Federation of Canadian Municipalities Board of
+  Directors Meeting - Oakville, ON, September 13-16, 2016
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 10. DELEGATION - Mike
+  Woods, Chief Operating Officer and Kris Dinel, Chief Business
+  Development Officer, Western Fair District
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 11. PUBLIC SUBMISSION -
+  Request for Delegation Status - Jason Timlick, President, London Professional
+  Fire Fighters’ Association
+
+> Motion   Failed
+
+**❌ Motion
+  Failed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Virginia Ridley](/councillors/current/v-ridley), [Virginia Ridley](/councillors/current/v-ridley), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park)
+
+**Nay (11):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+</details>
+

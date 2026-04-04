@@ -681,3 +681,90 @@ b)          the Heritage Alteration Permit be displayed in a location v
 
 The meeting adjourned at 7:01 PM.
 
+---
+
+## Votes
+
+*9 substantive votes at this meeting (1 contested, 8 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.6, inclusive, 2.8 to 2.10, inclusive, and 2.12 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.1. Public Participation Meeting - Not to be heard before 4:00 PM - Application - 555 Wellington Road (Z-8990)
+
+> That, on the recommendation of the Director, Development Services, based on the application by Werger Realty Limited, relating to the property located at 555 Wellington Road, the proposed by-law appended to the staff report dated March 18, 2019 BE INTRODUCED at the Municipal Council meeting to be...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.2. Public Participation Meeting - Not to be heard before 4:00 PM - Request to Repeal Heritage Designating By-law No. L.S.P - 3227-417 - 429 William Street
+
+> That, on the recommendation of the Managing Director, Planning and City Planner, with the advice of the Heritage Planner, the request to repeal  heritage designating By-law No. L.S.P.-3227-417 for the property locaated at 429 William Street BE REFUSED and that notice of this decision BE GIVEN to ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.3. Public Participation Meeting - Not to heard before 4:00 PM - Demolition Request for Heritage Listed Property - 1588 Clarke Road
+
+> That, on the recommendation of the Heritage Planner, Development Services, the following actions be taken with respect to the request for the demolition of the barn on the heritage listed property located at 1588 Clarke Road: a)    the Chief Building Official BE ADVISED that the Municipal Council...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.3. Public Participation Meeting - Not to heard before 4:00 PM - Demolition Request for Heritage Listed Property - 1588 Clarke Road
+
+> Motion to move part a), which reads as follows: "a)    the Chief Building Official BE ADVISED that the Municipal Council consents to the demolition of the barn on this property; and,"
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+**Nay (1):** [Jesse Helmer](/councillors/current/j-helmer)
+
+**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+
+</details>
+
+### 4.1. 2nd Report of the Environmental and Ecological Planning Advisory Committee
+
+> That the following actions be taken with respect to the 2nd Report of the Environmental and Ecological Planning Advisory Committee from its meeting held on February 21, 2019: a)   the Civic Administration BE ADVISED that the Environmental and Ecological Planning Advisory Committee (EEPAC) agrees,...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 5.1. Deferred Matters List
+
+> That the Managing Director, Planning and City Planner and the Managing Director, Development and Compliance Services & Chief Building Official BE DIRECTED to update the Deferred Matters List to remove any items that have been addressed by the Civic Administration.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 5.2. (ADDED) 4th Report of the London Advisory Committee on Heritage
+
+> Motion to grant delegation status to G. Priamo
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 5.3. (ADDED)  195 Dundas Street
+
+> That the application made under Section 42 of the Ontario Heritage Act to construct a new apartment building and associated site development on the property located at 195 Dundas Street, within the Downtown Heritage Conservation District, BE PERMITTED as proposed in the drawings appended to the p...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+

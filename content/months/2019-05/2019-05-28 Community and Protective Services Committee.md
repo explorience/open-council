@@ -618,3 +618,165 @@ The Community and Protective Services Committee convened In Closed Session from 
 
 The meeting adjourned at 6:21 PM.
 
+---
+
+## Votes
+
+*15 substantive votes at this meeting (4 contested, 11 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.3, 2.5, 2.6, 2.7 and 2.8 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.2. 4th and 5th Reports of the London Housing Advisory Committee
+
+> Motion to approve part a) i).
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.2. 4th and 5th Reports of the London Housing Advisory Committee
+
+> Motion to receive the remainder of the 4th Report of the London Housing Advisory Committee.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.2. 4th and 5th Reports of the London Housing Advisory Committee
+
+> Motion to receive the 5th Report of the London Housing Advisory Committee.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.4. London Strengthening Neighbourhoods Strategy: Neighbourhood Decision Making Program
+
+> Motion to approve part a).
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+
+</details>
+
+### 2.4. London Strengthening Neighbourhoods Strategy: Neighbourhood Decision Making Program
+
+> Motion to approve part b).
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+
+</details>
+
+### 2.4. London Strengthening Neighbourhoods Strategy: Neighbourhood Decision Making Program
+
+> Motion to approve part c).
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.4. London Strengthening Neighbourhoods Strategy: Neighbourhood Decision Making Program
+
+> Motion to receive the staff report dated May 28, 2019.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.1. 3rd, 4th and 5th Reports of the Accessibility Advisory Committee
+
+> That the following actions be taken with respect to the 3rd, 4th and 5th Reports of the Accessibility Advisory Committee (ACCAC), from the meetings held on March 28, 2019, April 25, 2019 and May 23, 2019, respectively: a)            that the following actions be taken with respect to the 3rd Repo...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.3. 3rd and 4th Reports of the Community Safety and Crime Prevention Advisory Committee
+
+> Motion to approve part a) and part b) ii).
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.3. 3rd and 4th Reports of the Community Safety and Crime Prevention Advisory Committee
+
+> Motion to approve part b) i).
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+
+</details>
+
+### 4.4. Councillor E. Peloza - Garbage Collection in City of London Parks
+
+> That the Civic Administration BE DIRECTED to report back at the August 13, 2019 meeting of the Community and Protective Services Committee with the costing related to resuming year round garbage collection in city parks; it being noted that a communication, dated April 4, 2019, from Councillor E....
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.5. Unsanctioned and Unsafe Street Parties Policy Amendments - Public Nuisance By-law: Cost Recovery
+
+> That the Civic Administration BE DIRECTED to prepare a further revised draft amending by-law to the Public Nuisance By-law regarding Nuisance Party cost recovery and fees and report back to the Community and Protective Services Committee meeting to be held on August 13, 2019. (2019-P01)
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.6. Homelessness Crisis - M. Wills - REQUEST FOR DELEGATION STATUS
+
+> That the delegation request from M. Wills, with respect to a homelessness crisis, BE APPROVED for the June 17, 2019 meeting of the Community and Protective Services Committee. (2019-S14)
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 5.2. (ADDED) Councillor S. Lewis – Neighbourhood Event Equipment Lending Policy
+
+> That the Civic Administration BE REQUESTED to consider and report back, before the beginning of the 2019-2020 school year, with respect to the viability of extending the definition of eligible groups in the current equipment lending policy (defined as groups of neighbours working to build communi...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Maureen Cassidy](/councillors/current/m-cassidy)
+
+**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+
+</details>
+

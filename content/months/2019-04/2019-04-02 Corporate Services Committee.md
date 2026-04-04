@@ -260,3 +260,64 @@ The Corporate Services Committee convened In Closed Session from 12:55 PM to 1:
 
 The meeting adjourned at 1:00 PM.
 
+---
+
+## Votes
+
+*6 substantive votes at this meeting (1 contested, 5 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That items 2.1 and 2.3 BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 2.2. Annual Meeting Calendar
+
+> That, on the recommendation of the City Clerk, the annual meeting calendar appended to the staff report dated April 2. 2019 for the period January 1, 2020 to December 31, 2020 BE APPROVED; it being noted that reports from Regular SPPC meetings would move forward to a subsequent Council meeting, a...
+
+**✅ Motion Passed (3 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+**Nay (1):** [Jesse Helmer](/councillors/current/j-helmer)
+
+</details>
+
+### 3.1. Not to be heard before 12:45 PM - Tax Adjustment Agenda
+
+> That the recommendations contained in the Tax Adjustment Agenda dated April 2, 2019 BE APPROVED; it being noted that there were no members of the public in attendance to speak to the Corporate Services Committee at the public hearing associated with this matter.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 3.2. Not to be heard before 12:45 PM - Apportionment of Taxes
+
+> That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the taxes on the blocks of land described in the Schedules appended to the staff report dated April 2, 2019 BE APPORTIONED as indicated on those Schedules, pursuant to Section 356...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 4.1. London Convention Centre 2018 Operational Results
+
+> That the transfer of 100% of the 2018 London Convention Centre Operational surplus, in the amount of $193,000 based upon the 2018 Unaudited Financial Statements, to the London Convention Centre Capital Reserve held by the City of London, BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 5.1. ADDED - Board of Directors - Federation of Canadian Municipalities
+
+> That the following actions be taken with respect to the communication dated March 25, 2019 from Councillor J. Morgan regarding standing for election to the Federation of Canadian Municipalities’ Board of Directors and his associated expenses: a)         the following resolution BE ADOPTED: WHEREA...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+

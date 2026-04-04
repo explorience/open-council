@@ -939,3 +939,26 @@ And with that, I'll look for motion to adjourn. Councilor Turner, second by Coun
 Thank you, colleagues, staff meeting adjourned.
 
 </details>
+
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 3.2. Not to be heard before 4:05 PM - London and Middlesex Community Housing Inc. (LMCH) - 2021 Annual General Meeting of the Shareholder Annual Resolutions
+
+> That the following actions be taken with respect to the London & Middlesex Community Housing:    a)  on the recommendation of the City Manager, the proposed by-law as appended to the staff report dated June 22, 2022 as Appendix “A” entitled “A by-law to ratify and confirm the Annual Resolutions o...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 5.1. (ADDED) Delegation - London: A Place to Call Home - Mike Wallace, Executive Director, London Development Institute (LDI)
+
+> That the presentation, and associated report, from M. Wallace and J. Zaifman, of London Development Institute and London Home Builders Association, respectively, with respect to “London: A Place to Call Home”, BE FORWARDED to the Civic Administration for review, with a request to provide a report...
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (11-0)
+

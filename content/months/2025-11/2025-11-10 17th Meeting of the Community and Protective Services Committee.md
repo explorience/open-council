@@ -1314,3 +1314,99 @@ Chair so obviously a number of lessons learned over this the it is a significant
 We're adjourned.
 
 </details>
+
+---
+
+## Votes
+
+*10 substantive votes at this meeting (1 contested, 9 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That, pursuant to section 27.6 of the Council Procedure By-law, a change in order of the Community and Protective Services Committee Agenda BE APPROVED, to provide for Item 2.8 in Stage 2, Consent, to be considered after Stage 6, Confidential.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2. Consent
+
+> That Items 2.1-2.4, 2.6, 2.7, and 2.9, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.5. Blue Box Transition Final Year - Part B Update
+
+> That the motion BE AMENDED to add a new part that reads as follows; d) the Mayor, and the Association of Municipalities of Ontario (AMO), BE REQUESTED to advocate the Ministry of Environment, Conservation and Parks to amend the Blue Box Regulation (Reg 210/25) to include non-profit organizations,...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.5. Blue Box Transition Final Year - Part B Update
+
+> That the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.8. Housing Collaborative Initiative - Updated Financials and Project Conclusion
+
+> That pursuant to section 31.6 of the Council Procedure By-law, Councillor S. Stevenson BE PERMITTED to speak an additional 2 minutes with respect to this matter.
+
+**✅ Motion Passed (3 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+**Absent (1):** [Peter Cuddy](/councillors/current/p-cuddy)
+
+</details>
+
+### 4.1. Councillor H. McAlister - Dumpsters in Residential Areas
+
+> That Civic Administration BE DIRECTED to review the Property Standards By-law- CP-24, as it pertains to residential dumpsters, and report back to a future meeting of the Community and Protective Services Committee with potential recommendations to strengthen the by-law, with a particular focus on...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.2. Councillor H. McAlister - Garbage Along the Highbury Avenue South Corridor (Between Hamilton Road and Bradley Avenue)
+
+> That the motion BE FURTHER AMENDED to read as follows That the following actions be taken with respect to the garbage along the Highbury Avenue South Corridor between Hamilton Road and Bradley Avenue: a)    the Civic Administration BE DIRECTED to report back to a future meeting of the Community a...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.2. Councillor H. McAlister - Garbage Along the Highbury Avenue South Corridor (Between Hamilton Road and Bradley Avenue)
+
+> That the amendment, as amended, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.2. Councillor H. McAlister - Garbage Along the Highbury Avenue South Corridor (Between Hamilton Road and Bradley Avenue)
+
+> That the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.3. Councillor H. McAlister - Veteran Public Art Display
+
+> That the Civic Administration BE DIRECTED to report back to a future meeting of Community and Protective Services Committee with options for Veteran supported or created public art displays; which would include potential locations, partnerships and may include complete or partial sponsorship by t...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

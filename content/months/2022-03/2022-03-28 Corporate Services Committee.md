@@ -647,3 +647,50 @@ Thank you, Councillor Hamou. That leaves just a motion to adjourn as our final i
 And we can do that by hand, all those in favor. Thank you colleagues, we're adjourned.
 
 </details>
+
+---
+
+## Votes
+
+*5 substantive votes at this meeting (0 contested, 5 unanimous). Procedural motions excluded.*
+
+### 4.1. Application - Issuance of Proclamation - Guillain-Barre Syndrome (GBS) and Chronic Inflammatory Demyelinating Polyneuropathy (CIDP) Awareness Month
+
+> That based on the application dated March 1, 2022, from GBS-CIDP Foundation of Canada, the month of May, 2022 BE PROCLAIMED Guillain-Barré Syndrome (GBS) and Chronic Inflammatory Demyelinating Polyneuropathy (CIDP) Awareness Month.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.2. Application - Issuance of Proclamation - Falun Dafa Week 2022
+
+> That based on the application dated March 15, 2022 from Falun Dafa Association Canada, May 13, 2022 BE PROCLAIMED as Falun Dafa Week 2022.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 5.1. (ADDED) Application - Issuance of Proclamation - World Press Freedom Day
+
+> That based on the application dated March 22, 2022 from ink-stainedwretches.org, May 3, 2022 BE PROCLAIMED World Press Freedom Day.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 5.2. (ADDED) Court Security and Prisoner Transportation Program Transfer Payment Agreement
+
+> That on the recommendation of the Deputy City Manager, Finance Supports, the proposed by-law as appended to the staff report dated March 28, 2022 as Appendix “A” BE INTRODUCED at the Municipal Council meeting on April 12, 2022 to:    a)    approve the Ontario Transfer Payment Agreement between He...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 5.3. (ADDED) Election Sign By-law Update
+
+> That, on the recommendation of the City Clerk, the proposed by-law as appended to the staff report dated March 28, 2022 as Appendix “A” BE INTRODUCED at the Municipal Council meeting to be held on April 12, 2022 to repeal By-law No. E-185-537, being the “Election Sign By-law” and to replace it wi...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

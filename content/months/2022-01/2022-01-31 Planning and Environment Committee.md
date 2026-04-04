@@ -1167,3 +1167,65 @@ Okay as we make a change to that I think the clerk has that information if I can
 I would say that we can at least receive the the report or receive the letter from the community that doesn't preclude us from doing anything at a future time. Thank you with that I would that is a motion to receive the secondary Councillor Layman I'll go around the table to receive the correspondence Councillor Turner yes Councillor Hillyer yes Mr. Mayor yes Councillor Lewis yes Councillor Layman yes and I vote yes closing the vote the motion carries six to zero and with that I'll go to five deferred matters additional business committee members I see none and I will look for an adjournment in Councillor Turner seconded by Councillor Hillyer can we do a hand vote or do we need a verbal hand vote everyone thanks I vote yes thank you Mr. Mayor thanks everyone good night
 
 </details>
+
+---
+
+## Votes
+
+*6 substantive votes at this meeting (1 contested, 5 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 and 2.2, inclusive, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.1. Housekeeping Amendment to Secondary Plans (O-9346)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to housekeeping amendments to approved Secondary Plans: a) the proposed by-law appended to the staff report dated January 31, 2022 as Appendix "A" BE INTRODUCED at the Municipal Coun...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.2. 3207 Woodhull Road (O-9429/Z-9430)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Karen and Eric Auzins, relating to the property located at 3207 Woodhull Road: a) the proposed by-law appended to the staff report dated January 31, 2022 as App...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.3. 755-785 Wonderland Road South (O-9409/Z-9410)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the applications by The Corporation of the City of London and McCorr Management (East) Inc., relating to the property located at 755-785 Wonderland Road South: a) the proposed by-...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.4. 345 Sylvan Street (SPA21-112)
+
+> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by the Housing Development Corporation, London, relating to the property located at 345 Sylvan Street: a)    the Approval Authority BE ADVISED that the following issue...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. Secondary Plan for Meadowlilly Road Area
+
+> That the communication BE REFERRED to the Civic Administration for review and for consideration in the development of Special Area Policies for Meadowlily Road South and to report back at a future meeting of the Planning and Environment Committee.
+
+**❌ Motion Failed (3 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+

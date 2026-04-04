@@ -356,3 +356,38 @@ The meeting adjourned at 2:23 PM.
 
 ****
 
+---
+
+## Votes
+
+*3 substantive votes at this meeting (1 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.3, and 2.4 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.2. Considerations and Viability to Implement a Vacant Home Tax in London
+
+> 
+
+**✅ Motion Passed (4 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Josh Morgan](/councillors/current/j-morgan), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+</details>
+
+### 4.1. Application - Issuance of Proclamation - Parental Alienation Awareness Day
+
+> That pursuant to section 35.8 of the Council Procedure By-law that item 4.1 BE RECONSIDERED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+

@@ -410,3 +410,76 @@ The meeting adjourned at 7:17 PM.
 
 ****
 
+---
+
+## Votes
+
+*5 substantive votes at this meeting (3 contested, 2 unanimous). Procedural motions excluded.*
+
+### 3.1. Public Participation Meeting - Not to be heard before 4:05 PM - City of London Service Review: Recommended Closure of River Road Golf Course
+
+> Motion to receive the communications and verbal submissions.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 3.1. Public Participation Meeting - Not to be heard before 4:05 PM - City of London Service Review: Recommended Closure of River Road Golf Course
+
+> That the following actions be taken with respect to the River Road Golf Course: a)      the Civic Administration BE DIRECTED to proceed with the operation of River Road Golf Course for the 2021 season, in order to evaluate the municipal golf operations more holistically, in a “post-COVID” environ...
+
+**❌ Motion Failed (5 to 9)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (7):** [Shawn Lewis](/councillors/current/s-lewis), [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/current/e-holder), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Absent (1):** [Jesse Helmer](/councillors/current/j-helmer)
+
+</details>
+
+### 3.1. Public Participation Meeting - Not to be heard before 4:05 PM - City of London Service Review: Recommended Closure of River Road Golf Course
+
+> Motion to approve parts a) and b) of the staff recommendation: That, on the recommendation of the Managing Director, Parks and Recreation and the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the following actions be taken: a)     the Civic Administration BE D...
+
+**✅ Motion Passed (9 to 5)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Shawn Lewis](/councillors/current/s-lewis), [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/current/e-holder), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (3):** [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Jesse Helmer](/councillors/current/j-helmer)
+
+</details>
+
+### 3.1. Public Participation Meeting - Not to be heard before 4:05 PM - City of London Service Review: Recommended Closure of River Road Golf Course
+
+> Motion to approve part c) of the staff recommendation: c)     notwithstanding the Municipal Council's approved Sale of Major Assets Policy, the proceeds from any partial or full disposition of River Road Golf Course lands BE ALLOCATED to the municipal golf reserve fund;
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (1):** [Stephen Turner](/councillors/current/s-turner)
+
+**Absent (1):** [Jesse Helmer](/councillors/current/j-helmer)
+
+</details>
+
+### 4.1. Consideration of Appointment to the RBC Place London Board
+
+> That Garrett Vanderwyst (sustainability business), Class 2, BE REAPPOINTED to the RBC Place London Board of Directors for a two-year term ending November 15, 2022.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+

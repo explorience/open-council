@@ -1001,3 +1001,111 @@ Okay, we have no deferred matters or additional business. There's no confidentia
 We could do this one by hand, all those in favor of adjournment. Motion carries. I wasn't sure how long the meeting would go, so there are some snacks if you wanna grab them before they depart for the day and the council's lunch.
 
 </details>
+
+---
+
+## Votes
+
+*7 substantive votes at this meeting (5 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2.1. Investing in Canada Infrastructure Program Public Transit Stream Funding Reallocation
+
+> That on the recommendation of the Deputy City Manager, Environment and Infrastructure and the Deputy City Manager, Finance Supports, the following actions be taken regarding recent changes to the Investing in Canada Infrastructure Program (ICIP) Public Transit Stream (PTS) as communicated by the ...
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (1):** [Steve Lehman](/councillors/current/s-lehman)
+
+</details>
+
+### 4.1. RBC Place London Board By-law Recommendations
+
+> That the Civic Administration BE DIRECTED to bring forward to a future meeting of Municipal Council a by-law to incorporate the changes to the London Convention Centre Corporation By-law as requested in the communication dated December 18, 2023 from L. Da Silva, CEO, RBC Place London, provided th...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 4.4. Mayor J. Morgan - Deputy Mayor and Budget Chair Positions
+
+> Motion to amend part b) to read as follows: b)    a pay increase of 12.5% to the annual base Councillor salary for the position of Budget Chair effective January 2024; and,
+
+**✅ Motion Passed (11 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (3):** [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman)
+
+**Absent (1):** [Steve Lehman](/councillors/current/s-lehman)
+
+</details>
+
+### 4.4. Mayor J. Morgan - Deputy Mayor and Budget Chair Positions
+
+> That the motion BE REFERRED to a future meeting of the Governance Working Group.
+
+**❌ Motion Failed (6 to 8) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (8):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Steve Lehman](/councillors/current/s-lehman)
+
+</details>
+
+### 4.4. Mayor J. Morgan - Deputy Mayor and Budget Chair Positions
+
+> That part a) be approved as follows: a)    a pay increase of 12.5% to the annual base Councillor salary for the Deputy Mayor position effective January 2024;
+
+**✅ Motion Passed (9 to 5)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (5):** [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (1):** [Steve Lehman](/councillors/current/s-lehman)
+
+</details>
+
+### 4.4. Mayor J. Morgan - Deputy Mayor and Budget Chair Positions
+
+> That part b) be approved as follows: b)    a pay increase of 12.5% to the annual base Councillor salary for the position of Budget Chair effective January 2024; and,
+
+**✅ Motion Passed (9 to 5)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (5):** [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (1):** [Steve Lehman](/councillors/current/s-lehman)
+
+</details>
+
+### 4.4. Mayor J. Morgan - Deputy Mayor and Budget Chair Positions
+
+> That part c) be approved as follows: c)    the Governance Working Group BE DIRECTED to review this as part of its larger review of Remuneration for Elected Officials and Appointed Citizen Members Policy on its Deferred Matters list, and provide any recommendations on further changes to the Strate...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+

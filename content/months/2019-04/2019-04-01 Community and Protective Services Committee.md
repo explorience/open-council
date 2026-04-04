@@ -351,3 +351,49 @@ That the Deferred Matters List for the Community and Protective Services Committ
 
 The meeting adjourned at 1:20 PM.
 
+---
+
+## Votes
+
+*5 substantive votes at this meeting (0 contested, 5 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.2, 2.4, 2.5, 2.6 and 2.7 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.3. Property Standards Related Demolitions
+
+> That, on the recommendation of the Managing Director, Development and Compliance Services and Chief Building Official, the attached revised proposed by-law BE INTRODUCED at the Municipal Council meeting to be held on April 9, 2019, to approve the demolition of abandoned buildings at the municipal...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.3. Property Standards Related Demolitions
+
+> That the delegation request from T. Cuzzocrea BE APPROVED with respect to the above noted matter.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.1. Unsanctioned and Unsafe Street Parties Policy Amendments - Public Nuisance By-law - Cost Recovery
+
+> That the Unsanctioned and Unsafe Street Parties Policy Amendments – Public Nuisance By-law and Cost Recovery item BE REFERRED back to the Civic Administration for consultation with stakeholders and a report back to the Community and Protective Services Committee meeting to be held on May 28, 2019...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.2. 3rd Report of the Diversity, Inclusion and Anti-Oppression Advisory Committee
+
+> That the following actions be taken with respect to the 3rd Report of the Diversity, Inclusion and Anti-Oppression Advisory Committee, from its meeting held on March 21, 2019: a)            the following actions be taken with respect to menstrual products distribution free of charge: i)          ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+

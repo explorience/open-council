@@ -228,3 +228,25 @@ The Corporate Services Committee convened in closed session from 12:49 PM to 1:2
 
 The meeting adjourned at 1:24 PM.
 
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.3 and 2.4 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 5.1. ADDED - Request for Designation of the 1st Annual Poutine Festival
+
+> That the 1st Annual Poutine Festival, to be held on May 24 to 26, 2018 from 11:00 AM to 9:00 PM and May 27, 2018 from 11:00 AM to 8:00 PM, at Victoria Park, BE DESIGNATED as an event of municipal significance in the City of London.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+

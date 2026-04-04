@@ -324,3 +324,46 @@ The meeting adjourned at 1:21 PM.
 
 ****
 
+---
+
+## Votes
+
+*4 substantive votes at this meeting (1 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.5, and 2.8, BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 2.7. Ontario Transfer Payment Agreement - Bill 218, Supporting Ontario's Recovery and Municipal Elections Act, 2020
+
+> That, on the recommendation of the City Clerk, the proposed by-law as appended to the staff report dated January 18, 2021 as Appendix “A”, being a by-law to approve and authorize the Ontario Transfer Payment Agreement between Her Majesty the Queen in right of Ontario as represented by the Ministe...
+
+**✅ Motion Passed (4 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst)
+
+</details>
+
+### 4.1. Application - Issuance of Proclamation - London Black History Month 2021
+
+> That based on the application dated December 17, 2020, from London Black History Coordinating Committee, the month of February BE PROCLAIMED as Black History Month 2021.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 5.1. (ADDED) Application– Issuance of Proclamation – International Day of Zero Tolerance for Female Genital Mutilation
+
+> That based on the application dated January 13, 2021, from the End FGM Canada Network, February 6, 2021 BE PROCLAIMED International Day of Zero Tolerance for Female Genital Mutilation.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+

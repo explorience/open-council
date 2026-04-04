@@ -204,3 +204,25 @@ The Corporate Services Committee convened, In Closed Session, from 12:40 PM to 1
 
 The meeting adjourned at 1:20 PM.
 
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That items 2.1 to 2.5 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.1. Not to be heard before 12:45 PM - Tax Adjustment Agenda
+
+> That the recommendations contained in the Tax Adjustment Agenda dated September 24, 2019 BE APPROVED; it being noted that there were no members of the public in attendance to speak to the Corporate Services Committee at the public hearing associated with this matter.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+

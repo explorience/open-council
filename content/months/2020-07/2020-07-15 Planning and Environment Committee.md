@@ -599,3 +599,87 @@ The meeting adjourned at 7:52 PM.
 
 ****
 
+---
+
+## Votes
+
+*8 substantive votes at this meeting (2 contested, 6 unanimous). Procedural motions excluded.*
+
+### 2.1. Request for Council Resolution, under section 45(1.4) of the Planning Act, R.S.O. 1990, c. P.13 - 307 Fanshawe Park Road East
+
+> That D. Hannam, Zelinka Priamo Ltd., BE GRANTED delegation status relating to the request for a minor variance application for the property located at 307 Fanshawe Park Road East.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.1. London Plan Housekeeping Amendment (O-9173)
+
+> That, on the recommendation of the Director, City Planning and City Planner, with respect to the proposed amendment to The London Plan to correct errors and omissions and to add Council-approved, in-force amendments to the 1989 Official Plan to The London Plan, the proposed by-law appended to the...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.2. Amend Section 4.11 (Household Sales) in Zoning By-law Z-1 (Z-9166)
+
+> That, on the recommendation of the Director, City Planning and City Planner, based on the application by The Corporation of the City of London, relating to a City-wide review to permit the sale of agricultural products grown on a premises, the proposed by-law appended to the staff report dated Ju...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.3. Part of 65 Brisbin Street (Z-9195)
+
+> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by The Corporation of the City of London, relating to a part of the property located at 65 Brisbin Street: a) Consistent with Policy 43_1 of The London Plan, the subje...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.4. 1146-1156 Byron Baseline Road (Z-9172)
+
+> That, on the recommendation of the Director, Development Services, based on the application by 2186121 Ontario Inc., relating to the property located at 1146-1156 Byron Baseline Road: a) the revised, attached, proposed by-law BE INTRODUCED at the Municipal Council meeting to be held on July 21, 2...
+
+**✅ Motion Passed (5 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Ed Holder](/councillors/current/e-holder), [Jesse Helmer](/councillors/current/j-helmer), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+
+### 3.4. 1146-1156 Byron Baseline Road (Z-9172)
+
+> Motion to change the order of business pursuant to Section 27.6 of the Council Procedure By-law to deal with Item 4.1 prior to Item 3.5.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.5. 307 Fanshawe Park Road East (SPA20-029)
+
+> Motion to add a new part c) which reads as follows: "c) a special provision BE INCLUDED in the Development Agreement  to deal with the removal of the snow onsite to lessen the effect of the spring thaw;"
+
+**❌ Motion Failed (2 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Nay (1):** [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Absent (1):** [Maureen Cassidy](/councillors/current/m-cassidy)
+
+</details>
+
+### 4.1. (ADDED) Silverleaf Subdivision Sidewalk Installation
+
+> That R. Galizia BE GRANTED delegation status with respect to the proposed sidewalks to be installed in Silverleaf subdivision.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

@@ -284,3 +284,73 @@ The Corporate Services Committee convened in camera from 1:25 PM to 1:30 PM with
 
 The meeting adjourned at 1:31 PM.
 
+---
+
+## Votes
+
+*8 substantive votes at this meeting (0 contested, 8 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.3 and 2.4 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.1. Restricted Acts of Council After Nomination Day and Voting Day
+
+> That, on the recommendation of the City Solicitor’s Office, the proposed by-law appended to the staff report dated May 29, 2018 BE INTRODUCED at the Municipal Council meeting of June 12, 2018, to delegate certain authorities should the Municipal Council’s acts be restricted after Nomination Day o...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.2. 2018 Reserve Fund Housekeeping Report
+
+> That on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the following actions be taken: a)            the proposed by-law appended to the staff report dated May 29, 2018 as Appendix B BE INTRODUCED at the Municipal Council meeting to be...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4. Items for Direction
+
+> That Items 4.1 and 4.2 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 5.1. ADDED - Request for Designation of Canada Day London as a Municipally Significant Event
+
+> That the Canada Day London, to be held on July 1, 2018, at Harris Park,  from 11:00 AM to 11:00 PM, BE DESIGNATED as an event of municipal significance in the City of London.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 5.2. ADDED - Appointment to the London and Middlesex Housing Corporation Board of Directors
+
+> That the following actions be taken with respect to the filling of current vacancies on the London and Middlesex Housing Corporation Board of Directors: a)          Deborah J. Peckham BE APPOINTED as a Director, First Class, for a term ending November 30, 2019; b)          Anna-Marie Evans BE APP...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 6.1. Personal Matters/Identifiable Individual
+
+> That the Corporate Services Committee BE CONVENED in camera with respect to Item 6.1, being a matter pertaining to personal matters about an identifiable individual, including communications necessary for that purpose, as it relates to interviews for nomination to the London and Middlesex Housing...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 6.2. Land Acquisition/Solicitor-Client Privileged Advice
+
+> That the Corporate Services Committee BE CONVENED in camera with respect to Item 6.2, being a matter pertaining to instructions and directions to officers and employees of the Corporation pertaining to a lease amendment; advice that is subject to solicitor-client privilege, including communicatio...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+

@@ -1066,3 +1066,66 @@ Please go ahead, just to clarify, there's the vote in supporting the staff's rec
 Council Hopkins, all in favor? Thank you, have a great day, everyone. Motion carries.
 
 </details>
+
+---
+
+## Votes
+
+*5 substantive votes at this meeting (2 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.2, 2.5, 2.6 and 2.7 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 2.4. Residential Rental Unit Licensing (RRUL) License Display
+
+> That the delegation request from S. Mcfarlane, as appended to the Added Agenda, BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 2.4. Residential Rental Unit Licensing (RRUL) License Display
+
+> That the Civic Administration BE DIRECTED to review and report back to a future meeting of the Community and Protective Services Committee the feasibility of posting on the City of London website the professional or business contact information of rental property owners; it being noted that commu...
+
+**❌ Motion Failed (2 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (2):** [Jerry Pribil](/councillors/current/j-pribil), [Anna Hopkins](/councillors/current/a-hopkins)
+
+**Absent (2):** [Shawn Lewis](/councillors/current/s-lewis), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 2.4. Residential Rental Unit Licensing (RRUL) License Display
+
+> That pursuant to section 31.6 of the Council Procedure By-law, Councillor S. Trosow BE PERMITTED to speak an additional 2 minutes with respect to this matter.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. Request for Reimbursement for Private Property Cleaning and Graffiti Removal Services
+
+> That the communication dated February 5, 2026, from K. Morrison, Old East Village Business Improvement Area, with respect to a Request for Reimbursement for Private Property Cleaning and Graffiti Removal Services BE REFERRED to the next Infrastructure and Corporate Services Committee meeting for ...
+
+**✅ Motion Passed (5 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Shawn Lewis](/councillors/current/s-lewis), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (1):** [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+

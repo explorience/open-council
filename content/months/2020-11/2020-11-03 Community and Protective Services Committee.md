@@ -407,3 +407,65 @@ That the Deferred Matters List for the Community and Protective Services Committ
 
 The meeting adjourned at 5:32 PM.
 
+---
+
+## Votes
+
+*7 substantive votes at this meeting (0 contested, 7 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.7 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.2. Proposed Amendment to the Sign By-law - Petition - D. Ronson, Pro-choice London
+
+> Motion to approve part a).
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.2. Proposed Amendment to the Sign By-law - Petition - D. Ronson, Pro-choice London
+
+> Motion to approve part b).
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.2. Proposed Amendment to the Sign By-law - Petition - D. Ronson, Pro-choice London
+
+> Motion to approve part c).
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.2. Proposed Amendment to the Sign By-law - Petition - D. Ronson, Pro-choice London
+
+> Motion to approve part d).
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.3. Proposed Amendment to the Noise/Sound By-law - High Frequency Noise - Request for Delegation Status - D. Mailer
+
+> That the request for delegation by D. Mailer with respect to amending the City of London Noise/Sound By-law to prohibit the use of outdoor high frequency sound emitting devices within city limits BE APPROVED for the December 1, 2020 Community and Protective Services Committee meeting; it being no...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.4. (ADDED) Canada Mortgage and Housing Corporation (CMHC) - Rapid Housing Initiative (RHI)
+
+> That, on the recommendation of the Acting Managing Director, Housing, Social Services and Dearness Home the proposed by-law, as appended to the staff report dated November 3, 2020, BE INTRODUCED at the Municipal Council Meeting to be held November 10, 2020, to: a)     authorize and approve the st...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

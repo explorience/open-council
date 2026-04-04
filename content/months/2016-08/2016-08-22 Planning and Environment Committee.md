@@ -1928,3 +1928,440 @@ Motion
 The
   meeting adjourned at 11:37 PM.
 
+---
+
+## Votes
+
+*28 substantive votes at this meeting (28 contested, 0 unanimous). Procedural motions excluded.*
+
+### 2. 8th Report of the
+  Advisory Committee on the Environment
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 3. 8th Report of the
+  Environmental and Ecological Planning Advisory Committee
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 4. Changes to the Planning
+  Act through the Smart Growth for our Communities Act (Bill 73)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 5. Inclusionary Zoning
+  in Bill 204, The Promoting Affordable Housing Act, 2016
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 6. Property located at
+  1192 Highbury Avenue North (OZ-8463)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 7. Proposed New Sign
+  By-law and Amendments to Current Sign and Canopy By-law
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 8. Property located at
+  1061 Richmond Street (H-8657)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 9. Lots on Cranbrook
+  Road and Thornley Street (H-8634)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 10. Properties located
+  at 1175 and 1205 Hyde Park Road (H-8646)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 11. Silverfox Crescent
+  (Part of Blocks 77 and 81 in Plan 33M-622) (P-8349)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 12. Submission from the
+  Chippewas of the Thames First Nation - The London Plan (O-7938)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 13. Ontario Municipal
+  Board Review
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 14. Building Division
+  Monthly Report for May 2016
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 15. Properties located
+  at 891 and 895 Riverside Drive - Appeal to the Ontario Municipal Board -
+  Provisional Consent Decision (B.005/16)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 16. Property located at
+  354 Boler Road (Z-8613)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (15):** [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 17. Property located at
+  1740 Richmond Street (Z-8632)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 18. Property located at
+  493 Springbank Drive (Z-8611)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (15):** [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 19. Property located at
+  66 Byron Avenue East (Z-8616)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (15):** [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 19. Property located at
+  66 Byron Avenue East (Z-8616)
+
+> Motion   Failed
+
+**❌ Motion
+  Failed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Stephen Turner](/councillors/current/s-turner), [Tanya Park](/councillors/current/t-park)
+
+**Nay (3):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Paul Hubert](/councillors/current/p-hubert)
+
+</details>
+
+### 20. Wonderland Road
+  South (Z-8564)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 21. Property located at
+  4425 Wellington Road South (Z-8573)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 22. City Wide Official
+  Plan and Zoning By-law Amendments - Secondary Dwelling Units (OZ-8053)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (18):** [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park)
+
+**Nay (1):** [Phil Squire](/councillors/current/p-squire)
+
+</details>
+
+### 22. City Wide Official
+  Plan and Zoning By-law Amendments - Secondary Dwelling Units (OZ-8053)
+
+> Motion   Failed
+
+**❌ Motion
+  Failed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner)
+
+**Nay (3):** [Jesse Helmer](/councillors/current/j-helmer), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 23. Beaufort/Irwin/Gunn/Saunby
+  (BIGS) Neighbourhood Secondary Plan (O-8478)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (29):** [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park)
+
+**Nay (1):** [Phil Squire](/councillors/current/p-squire)
+
+</details>
+
+### 25. Hamilton Road Area
+  Community Improvement Plan Proposed Study Area and Terms of Reference
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner)
+
+**Nay (1):** [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 26. Lambeth Area
+  Community Improvement Plan Proposed Study Area and Terms of Reference
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 27. Public Engagement
+  Process for the Evaluation of Community Improvement Plan Incentives
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 28. Proposed Walkway on
+  Clayton Walk
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Tanya Park](/councillors/current/t-park)
+
+</details>
+

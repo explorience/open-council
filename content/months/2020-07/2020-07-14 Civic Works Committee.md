@@ -335,3 +335,67 @@ That the deferred matters list, as at July 6, 2020, BE RECEIVED.
 
 The meeting adjourned at 12:56 PM.
 
+---
+
+## Votes
+
+*5 substantive votes at this meeting (2 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That items 2.1 to 2.3, and 2.5 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.4. Dundas Place - Thames Valley Parkway Active Transportation Connection - Appointment of Consulting Engineer
+
+> That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the following actions be taken with respect to the appointment of a Consulting Engineer for the construction administration of Dundas Place - Thames Valley Parkway Active Transportation...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Shawn Lewis](/councillors/current/s-lewis), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+
+</details>
+
+### 2.6. (ADDED) Contract Award: Tender No. 20-87 Dundas Street Cycle Track
+
+> That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the following actions be taken with respect to the award of Dundas Street Cycle Track construction contract: a)       the bid submitted by Dufferin Construction Company, A division of C...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Shawn Lewis](/councillors/current/s-lewis), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+
+</details>
+
+### 4.1. Contract Award: RFT 20-59 - 2020 Infrastructure Renewal Program Contract 12 - Highway Avenue and Lambeth Avenue
+
+> That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the following actions be taken with respect to the award of contracts for the 2020 Infrastructure Renewal Program, Contract 12 – Highway Avenue and Lambeth Avenue: a)       the bid subm...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.2. MADD Canada Memorial Sign Request
+
+> That the following actions be taken with respect to the memorial sign request submitted by Shauna and David Andrews, dated June 1, 2020, and supported by Mothers Against Drunk Driving (MADD) Canada: a)       the Civic Administration BE DIRECTED to engage in discussions with MADD Canada regarding ...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

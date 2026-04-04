@@ -69,3 +69,24 @@ The
 The
     meeting adjourned at 3:18 PM.
 
+---
+
+## Votes
+
+*1 substantive vote at this meeting (1 contested, 0 unanimous). Procedural motions excluded.*
+
+### 2. Installation of
+  Sidewalks  on Shavian Blvd.
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/current/h-l-usher)
+
+</details>
+

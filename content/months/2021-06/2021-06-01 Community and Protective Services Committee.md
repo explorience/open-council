@@ -382,3 +382,26 @@ We're going to open up the vote using the vote. The motion carries six to zero. 
 That's earlier. Seconded by Councillor Lewis. All those in favor in favor for adjourned. Thank you.
 
 </details>
+
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.7 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.1. Post June 30, 2021 Strategy for High Acuity Homelessness - S. Campbell, Ark Aid Mission - REQUEST FOR DELEGATION STATUS
+
+> That the request for delegation from S. Campbell, Ark Aid Mission, with respect to a post June 30, 2021 strategy for high acuity homelessness, BE APPROVED for a future meeting of the Community and Protective Services Committee; it being noted that a communication from S. Campbell, as appended to ...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

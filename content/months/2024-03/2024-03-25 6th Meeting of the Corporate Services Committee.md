@@ -368,3 +368,26 @@ So looking for a vote in terms of adjournment of motion. Okay, Councillor Cudi, 
 Okay, thank you, everyone. Motion carries.
 
 </details>
+
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 4. Items for Direction
+
+> That items 4.1 to 4.6 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.7. Consideration of Appointment to the Animal Welfare Community Advisory Committee (Requires up to 6 New Members)
+
+> That Michael Rist BE APPOINTED as a voting member to the Animal Welfare Community Advisory Committee for the term ending March 31, 2025.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

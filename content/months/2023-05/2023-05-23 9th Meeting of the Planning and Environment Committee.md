@@ -1760,3 +1760,112 @@ As always, Chair, I'm happy to report out that on item 6.1, confidential item on
 Deputy Mayor, seconded by Councillor Frank, all in favor, and we are adjourned. Thank you, folks.
 
 </details>
+
+---
+
+## Votes
+
+*11 substantive votes at this meeting (2 contested, 9 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.8 BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 3.1. 340-390 Saskatoon Street (Z-9599 / O-9600)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Four99 Inc., relating to the properties located at 340-390 Saskatoon Street: a) the proposed by-law appended to the staff report dated May 23, 2023 as Appendix ...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 3.2. 847-851 Wonderland Road South (Z-9597)
+
+> That, on the recommendation of the Director, Planning and Development, based on the  application by 1216571 Ontario Inc., relating to the property located at 847-851 Wonderland Road South, the proposed by-law appended to the staff report dated May 23, 2023 as Appendix "A" BE INTRODUCED at the Mun...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 3.3. 135 Villagewalk Boulevard (SPA23-005) - Public Site Plan Meeting
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Uptown Commercial Centre c/o Carlos Ramirez, relating to the property located at 135 Villagewalk Boulevard: a)    the Approval Authority BE ADVISED that no issu...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 3.4. Additional Residential Unit Amendments as a Result of More Homes Built Faster Act, 2022 (Bill 23) (OZ-9581)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the Official Plan and Zoning By-law requirements for additional residential units: a)    the proposed by-law appended to the Planning and Environment Committee Added Agenda as App...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 3.4. Additional Residential Unit Amendments as a Result of More Homes Built Faster Act, 2022 (Bill 23) (OZ-9581)
+
+> Motion to add a new clause d) which reads as follows: "d)  the Civic Administration BE DIRECTED to undertake a review of the current parking and driveway width policies in additional residential units;"
+
+**✅ Motion Passed (3 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+**Nay (1):** [Skylar Franke](/councillors/current/s-franke)
+
+</details>
+
+### 3.5. 327 Thompson Road (Z-9579)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Emvy Group Inc., relating to the property located at 327 Thompson Road: a)    the proposed by-law appended to the staff report dated May 23, 2023 as Appendix "A...
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (1-0)
+
+### 3.6. 644-646 Huron Street (OZ-9580)
+
+> That, notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 2614442 Ontario Inc. relating to the property located at 644-646 Huron Street: a)    the attached, revised, proposed by-law to amend the Official P...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 3.7. 1120-1126 Oxford Street East and 2 & 6 Clemens Street (Z-9560)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by 2863382 Ontario Inc. c/o Royal Premier Developments, relating to the properties located at 1120-1126 Oxford Street East and 2 and 6 Clemens Street: a)    consis...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 3.8. 129-131 Base Line Road West (Z-9578)
+
+> That, notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by 2796538 Ontario Inc. c/o RPH Developments, relating to the properties located at 129-131 Base Line Road West: a) the attached, revised, proposed by...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 3.8. 129-131 Base Line Road West (Z-9578)
+
+> Motion to separate clause a) from the recommendation to be voted on separately: "a) the revised, attached, proposed by-law appended to the staff report dated May 23, 2023 as Appendix "A" BE INTRODUCED at the Municipal Council meeting on June 6, 2023, to amend Zoning By-law No. Z.-1, (in conformit...
+
+**✅ Motion Passed (3 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+**Nay (1):** [Steve Lehman](/councillors/current/s-lehman)
+
+</details>
+

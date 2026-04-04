@@ -501,3 +501,192 @@ Motion
 
 The meeting adjourned at 4:30 PM.
 
+---
+
+## Votes
+
+*12 substantive votes at this meeting (12 contested, 0 unanimous). Procedural motions excluded.*
+
+### 2. Single Source
+  Purchase of One Turbo Blower for the Greenway Wastewater Treatment Plant
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Phil Squire](/councillors/current/p-squire), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 3. Greenway Wastewater
+  Treatment Plant Expansion Project Consulting Fee Increase
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Phil Squire](/councillors/current/p-squire), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 4. 2017 Drinking Water
+  Annual Report and Summary Report for the City of London Distribution System
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Phil Squire](/councillors/current/p-squire), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 5. Colonel Talbot
+  Pumping Station Consulting Fee Increase
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Phil Squire](/councillors/current/p-squire), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 6. Contract Award -
+  Tender No. 17-128 - Dundas Place
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Phil Squire](/councillors/current/p-squire), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 7. Ontario Municipal
+  Commuter Cycling (OMCC) Program -  Transfer Payment Agreement
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Phil Squire](/councillors/current/p-squire), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 8. 2nd Report of the
+  Rapid Transit Implementation Working Group
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Phil Squire](/councillors/current/p-squire), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 9. Comments on
+  Environmental Bill of Rights (EBR) Registry-Ontario’s Guideline on Community
+  Emissions Reduction Planning
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Phil Squire](/councillors/current/p-squire), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 10. Memorandum of
+  Understanding with the Canadian Plastics Industry Association as Part of the
+  London Waste to Resources Innovation Centre
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Phil Squire](/councillors/current/p-squire), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 11. Memorandum of
+  Understanding with Resource Energy Development of Canada Ltd. as Part of the
+  London Waste to Resources Innovation Centre
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Phil Squire](/councillors/current/p-squire), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 12. Municipal Class
+  Environmental Assessment Reform
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Phil Squire](/councillors/current/p-squire), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 13. Deferred Matters
+  List
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Phil Squire](/councillors/current/p-squire), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+</details>
+

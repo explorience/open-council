@@ -358,3 +358,57 @@ The meeting adjourned at 6:25 PM.
 
 ****
 
+---
+
+## Votes
+
+*4 substantive votes at this meeting (2 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2.1. London Community Grants Program Policy Update
+
+> Motion to approve parts a) and b): That, on the recommendation of the Managing Director, Neighbourhood, Children and Fire Services, the following actions be taken with respect to the London Community Grants Policy: a)      the proposed by-law as appended to the staff report dated January 26, 2021...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 2.1. London Community Grants Program Policy Update
+
+> Motion to approve part c): c)     the Civic Administration BE DIRECTED to bring back recommendations for the potential introduction of an anonymized application process for the London Community Grants Program that could be implemented for 2022 funding allocations and be used going forward.
+
+**✅ Motion Passed (12 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+**Absent (1):** [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+</details>
+
+### 4.1. Comparison of Proposed London Hydro Restructuring Options
+
+> Motion to approve part c): c)      the Civic Administration BE DIRECTED to advise the Board of London Hydro Inc. that the Municipal Council will not be proceeding with the proposed "Holdco Option"; and,
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire)
+
+**Nay (1):** [Michael van Holst](/councillors/current/m-van-holst)
+
+**Absent (1):** [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+</details>
+
+### 4.2. Confirmation of Appointments to Downtown London
+
+> That the following BE APPOINTED to the London Downtown Business Association for the term ending November 15, 2022:    Jerry Pribil - Marienbad Restaurant  Scott Collyer - Empyrean Communication Resources.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (11-0)
+

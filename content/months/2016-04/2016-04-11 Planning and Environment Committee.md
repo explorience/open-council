@@ -491,3 +491,133 @@ Motion
 The
   meeting adjourned at 6:18 PM.
 
+---
+
+## Votes
+
+*8 substantive votes at this meeting (8 contested, 0 unanimous). Procedural motions excluded.*
+
+### 2. Richmond North
+  (Phase 2) Subdivision (39T-04513)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Paul Hubert](/councillors/current/p-hubert)
+
+</details>
+
+### 3. West Coronation
+  Subdivision (39T-13505)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Paul Hubert](/councillors/current/p-hubert)
+
+</details>
+
+### 4. Properties located
+  at 181 and 199 Commissioners Road East - Extension to Draft Plan of
+  Subdivision Approval (39T-08501)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Paul Hubert](/councillors/current/p-hubert)
+
+</details>
+
+### 5. Building Division
+  Monthly Report for February 2016
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Paul Hubert](/councillors/current/p-hubert)
+
+</details>
+
+### 6. Properties located
+  at 232 to 240 Oakland Avenue (Z-8578)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 7. 4th Report of the
+  Trees and Forests Advisory Committee
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 8. Properties located
+  on a portion of 1800 Cedarhollow Boulevard and 776-802 Killarney Road
+  (Cedarhollow Subdivision) (Z-8596)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park)
+
+**Nay (1):** [Jesse Helmer](/councillors/current/j-helmer)
+
+</details>
+
+### 9. Community Urban
+  Agriculture Opportunities
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
+
+</details>
+

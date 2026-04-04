@@ -284,3 +284,40 @@ The Strategic Priorities and Policy Committee convened in Closed Session from 4:
 
 The meeting adjourned 6:54 PM.
 
+---
+
+## Votes
+
+*3 substantive votes at this meeting (1 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That items 2.1 to 2.4 BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4. Items for Direction
+
+> That Items 4.1 and 4.2 BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 5.1. London Hydro – Request for BRT-related Information
+
+> That London Hydro be requested to provide to the shareholder, London City Council, a breakdown of the estimated costs London Hydro will absorb for the work required to be undertaken for the bus rapid transit project; and further, if those costs will impact London Hydro ratepayers.
+
+**✅ Motion Passed (12 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher)
+
+**Nay (1):** [Matt Brown](/councillors/current/m-brown)
+
+</details>
+

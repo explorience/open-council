@@ -435,3 +435,40 @@ b)            clauses 1.1 to 5.3 BE RECEIVED.
 
 The meeting adjourned at 5:51 PM.
 
+---
+
+## Votes
+
+*3 substantive votes at this meeting (1 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.9 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.1. Request for Support for UN Safe Cities Initiative - ANOVA
+
+> That the communication dated March 20, 2018, from ANOVA, with respect to a request for support related to the UN Safe Cities Initiative BE REFERRED to the City Manager for further refinement regarding the proposal , including resource sourcing.
+
+**❌ Motion Failed (3 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Virginia Ridley](/councillors/current/v-ridley)
+
+**Nay (1):** [Maureen Cassidy](/councillors/current/m-cassidy)
+
+</details>
+
+### 4.5. 2nd Report of the Community Safety and Crime Prevention Advisory Committee
+
+> That the following actions be taken with respect to the 2nd Report of the Community Safety and Crime Prevention Advisory Committee, from its meeting held on February 22, 3018: a)            that the following actions be taken with respect to Community Safety Week: i)            Councillor M. Cass...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+

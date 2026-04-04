@@ -1103,3 +1103,94 @@ Thank you. I'll go to Councillor Frank to report out from in camera. Thank you, 
 Councillor Frank and Councillor Hopkins, Remember in seconder and by hand. All in favor, thanks everyone. Motion carries.
 
 </details>
+
+---
+
+## Votes
+
+*7 substantive votes at this meeting (4 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2.10. Declare Surplus - City-Owned Property - Part of Belvedere Park
+
+> That, on the recommendation of the Deputy City Manager, Finance Supports, on the advice of the Director, Realty Services, with concurrence of the Director, Parks and Forestry, with respect to City-owned property, the following actions be taken: a)    the subject property outlined on Location Map ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.10. Declare Surplus - City-Owned Property - Part of Belvedere Park
+
+> That the delegation requests from L. Patterson, T. Young, B. Deleeuw, A. Deleeuw, and J. Matsui, BE APPROVED to be heard at this time.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.12. Consideration for an Updated Low-Income Seniors and Low-Income Persons with Disabilities Tax Deferral Program
+
+> That the delegation request from D. Pollock, President, Navigating Retirement BE APPROVED to be heard at this time.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.12. Consideration for an Updated Low-Income Seniors and Low-Income Persons with Disabilities Tax Deferral Program
+
+> That the staff report dated March 24, 2025, “Consideration for an updated low-income seniors and low-income persons with disabilities Tax Deferral Program” BE REFERRED to a future meeting of the Infrastructure and Corporate Services Committee, pending the Province's announcement regarding its tax...
+
+**❌ Motion Failed (1 to 4) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Nay (4):** [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke)
+
+</details>
+
+### 2.12. Consideration for an Updated Low-Income Seniors and Low-Income Persons with Disabilities Tax Deferral Program
+
+> That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to an expanded Property Tax Deferral Program for low-income seniors and low-income persons with disabilities in London: b)    the Civic Administration BE DIRECTED to take no furth...
+
+**❌ Motion Failed (2 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Nay (3):** [Jerry Pribil](/councillors/current/j-pribil), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke)
+
+</details>
+
+### 2.12. Consideration for an Updated Low-Income Seniors and Low-Income Persons with Disabilities Tax Deferral Program
+
+> That the following actions be taken with respect to the staff report dated March 24, 2025, “Consideration for an updated low-income seniors and low-income persons with disabilities Tax Deferral Program”: the Civic Administration BE DIRECTED to prepare a Business Case for the implementation of an ...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Jerry Pribil](/councillors/current/j-pribil), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke)
+
+**Nay (1):** [Corrine Rahman](/councillors/current/c-rahman)
+
+</details>
+
+### 4.1. Municipal Autonomy and Revenue Generation - Councillor S. Franke, Councillor A. Hopkins and Mayor J. Morgan
+
+> That Councillor Anna Hopkins BE REQUESTED to bring forward the issue of municipal right-of-way fees for natural gas utilities to the Association of Municipalities of Ontario (AMO), requesting that AMO: a)    advocate for provincial regulatory changes to allow municipalities to charge utilities fo...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+

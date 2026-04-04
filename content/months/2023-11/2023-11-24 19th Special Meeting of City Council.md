@@ -494,3 +494,35 @@ We'll do this one by hand. All those in favor of adjournment. Motion carries. Al
 And if you celebrate going Black Friday shopping, I hope you have a good time doing that today too. So thanks so much and we'll see you next time.
 
 </details>
+
+---
+
+## Votes
+
+*2 substantive votes at this meeting (1 contested, 1 unanimous). Procedural motions excluded.*
+
+### 8.1. 20th Report of the Corporate Services Committee
+
+> That the 20th Report of the Corporate Services Committee BE APPROVED.
+
+**✅ Motion Passed (12 to 0)**
+
+Unanimous (12-0)
+
+### 9. Added Reports
+
+> 1.    Property Acquisition – 1462 Westminster Drive That, on the recommendation of the Deputy City Manager, Finance Supports, with the concurrence of the Deputy City Manager, Planning and Economic Development, on the advice of the Director, Realty Services, with respect to the property located at...
+
+**✅ Motion Passed (10 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow)
+
+**Absent (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+

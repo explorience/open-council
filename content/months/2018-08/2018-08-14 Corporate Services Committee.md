@@ -179,3 +179,25 @@ The Corporate Services Committee convened in closed session from 12:36 PM to 12:
 
 The meeting adjourned at 12:51 PM.
 
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That items 2.1 and 2.2 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.1. Federation of Canadian Municipalities - Standing Committees
+
+> That Councillor V. Ridley BE REIMBURSED for her associated expenses, outside of her annual expense allocation, subject to the annual budget approval process, and in accordance with Council's Travel & Business Expenses Policy for her attendance as an appointed Federation of Canadian Municipalities...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+

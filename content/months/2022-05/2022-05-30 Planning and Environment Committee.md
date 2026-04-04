@@ -1353,3 +1353,81 @@ Opposed in the vote. The motion carries five to zero. Thank you. Everyone, good 
 Good night.
 
 </details>
+
+---
+
+## Votes
+
+*8 substantive votes at this meeting (1 contested, 7 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.6, inclusive, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.2. 537 Crestwood Drive (Z-9333)
+
+> That, on the recommendation of the Director, Planning and Development, based on the application by Middlesex Vacant Land Condominium 816, relating to the property located at 537 Crestwood Drive, the proposed by-law appended to the staff report dated May 30, 2022 as Appendix "A" BE INTRODUCED at t...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.4. 258 Richmond Street (Z-9465)
+
+> That, on the recommendation of the Director, Planning and Development, based on the application by Siv-ik Planning and Design Inc., relating to the property located at 258 Richmond Street, the proposed revised by-law appended to the Added Agenda, BE INTRODUCED at the Municipal Council meeting to ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.5. 850 Highbury Avenue North - Request for Demolition
+
+> That, on the recommendation of the Director, Planning and Development with the  advice of the Heritage Planner, the demolition request for the removal of (8) non-designated built resources on the heritage designated property at 850 Highbury Avenue North, BE PERMITTED pursuant to Section 34(1) of ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.5. 850 Highbury Avenue North - Request for Demolition
+
+> Motion to add a new part d), which reads as follows: "d)  the applicant BE REQUESTED to photographically document and chronical, to the degree possible, the north and south pavilion and the connecting building."
+
+**❌ Motion Failed (2 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Nay (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+**Absent (1):** [Steve Lehman](/councillors/current/s-lehman)
+
+</details>
+
+### 3.6. 1503 Hyde Park Road (Z-9425)
+
+> That, on the recommendation of the Director, Planning and Development, based on the application by 2575707 Ontario Corp. (c/o Business Network Associates), relating to the property located at 1503 Hyde Park Road, the proposed by-law appended to the staff report dated May 30, 2022 as Appendix "A" ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.7. 850 Highbury Avenue (OZ-9324)
+
+> That, on the recommendation of the Deputy City Manager, Planning and Economic Development, based on the application by Old Oak Properties Inc., relating to the property located at 850 Highbury Avenue North, and with respect to housekeeping amendments to the approved London Psychiatric Hospital Se...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 5.1. (ADDED) 1st Report of the Community Advisory Committee on Planning
+
+> That, the following actions be taken with respect to the 1st Report of the Community Advisory Committee on Planning from its meeting held on May 26, 2022: a)  the Planning and Environment Committee BE ADVISED that the London Community Advisory Committee on Planning (CACP) received a report, dated...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+

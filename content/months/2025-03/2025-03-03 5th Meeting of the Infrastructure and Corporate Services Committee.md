@@ -319,3 +319,34 @@ Sorry, Councilor Hopkins, go ahead. Oh, just for motion to observe, okay. Counci
 Motion carries. Thanks everyone, have a great day.
 
 </details>
+
+---
+
+## Votes
+
+*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Consent Item 2.2 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.1. 2024 Statement of Remuneration and Expenses for Elected and Appointed Officials
+
+> That the motion be amended to include a new part a) i) to read as follows: i) Civic Administration BE DIRECTED to change the format of all future reports to show remuneration, benefits and expense amounts separately (without totaling these distinct items) and that Civic Administration report bene...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.1. 2024 Statement of Remuneration and Expenses for Elected and Appointed Officials
+
+> That the motion, as amended, BE APPROVED
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

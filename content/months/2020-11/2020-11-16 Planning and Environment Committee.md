@@ -603,3 +603,49 @@ The Planning and Environment Committee convenes, In Closed Session, from 6:07 PM
 
 The meeting adjourned at 6:26 PM.
 
+---
+
+## Votes
+
+*5 substantive votes at this meeting (0 contested, 5 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.4, inclusive, BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.1. Public Participation Meeting - Not to be heard before 4:00 PM - Application -16035 Robins Hill Road (Z-9225)
+
+> That, on the recommendation of the Director, City Planning and City Planner, the proposed by-law appended to the staff report dated November 16, 2020 with respect to the application by Dancor Construction Ltd., relating to the property located at 16035 Robin’s Hill Road, BE INTRODUCED at the Muni...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.2. Public Participation Meeting - Not to be heard before 4:00 PM - New Proposed City of London Tree Protection By-law
+
+> That, on the recommendation of the Managing Director, Environmental & Engineering Services and City Engineer, the  following actions be taken with respect to the proposed new Tree Protection By-law: a) the proposed by-law appended to the staff report dated November 16, 2020 as Appendix “A” BE INT...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. 7th Report of the London Advisory Committee on Heritage 183 and 197 Ann Street
+
+> That on the recommendation of the Director, Development Services, the following actions be taken with respect to the properties located at 183 Ann Street and 197 Ann Street: a) pursuant to section 35.2 of the Council Procedure By-law, the resolution of the Municipal Council meeting held on Octobe...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 5.1. (ADDED) 8th report of the London Advisory Committee on Heritage
+
+> That the following actions be taken with respect to the 8th Report of the London Advisory Committee on Heritage from its meeting held on November 11, 2020: a)  the following actions be taken with respect to the Stewardship Sub-Committee Report, from its meeting held on October 28, 2020: i) the fo...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

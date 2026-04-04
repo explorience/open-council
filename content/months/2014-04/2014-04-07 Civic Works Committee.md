@@ -671,3 +671,211 @@ Motion
 The
   meeting adjourned at 4:53 PM.
 
+---
+
+## Votes
+
+*13 substantive votes at this meeting (13 contested, 0 unanimous). Procedural motions excluded.*
+
+### 2. Single Source
+  Procurement of Positive Displacement Cold Water Meters with
+  Encoder-Receiver-Transmitter Attached
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe)
+
+</details>
+
+### 3. Timeline for Major
+  Environmental and Engineering Reports
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe)
+
+</details>
+
+### 4. Community Carshare
+  in London
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe)
+
+</details>
+
+### 5. Supply and Delivery
+  of Diesel, Biodiesel and Gasoline (Elgin, Middlesex, Oxford Purchasing
+  Co-operative) (Tender No. 14-53)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe)
+
+</details>
+
+### 6. Contract Award:
+  Replacement of Sidewalks, Curb and Gutter and Hot Mix Asphalt (Tender 14-22)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe)
+
+</details>
+
+### 7. Contract Award:
+  2014 Hyde Park Industrial Subdivision (Tender No. 14-34)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe)
+
+</details>
+
+### 8. Southdale Road West
+  Widening contract - 2013 Growth Management Implementation Strategy (GMIS)
+  (Tender No. T13-32)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe)
+
+</details>
+
+### 9. Appointment of
+  Consulting Engineers for Inspection, Contract Administration and Engineering
+  Services Associated with the Construction of 2014 Infrastructure Lifecycle
+  Renewal Projects: Contracts #4, #6, #9 and Victoria Street Area Storm Sewer
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe)
+
+</details>
+
+### 10. Contract Award:
+  2014 Arterial Road Rehabilitation (Tender No. 14-28)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe)
+
+</details>
+
+### 11. Appointment of
+  Consulting Engineer for Engineering Services for the Functional Design of the
+  Tributary "C" Stormwater Management Servicing Works (ES3020-RVBTC)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe)
+
+</details>
+
+### 12. Appointment of
+  Consulting Engineer for Engineering Services for the Functional and Detailed
+  Design of the Hyde Park No. 6 SWMF (ES3020-HP6)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe)
+
+</details>
+
+### 13. Closing of Asima
+  Drive
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe)
+
+</details>
+
+### 14. Street Renaming of
+  Tennent Avenue (East Leg)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [Stephen Orser](/councillors/current/s-orser), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Nancy Branscombe](/councillors/current/n-branscombe), [Nancy Branscombe](/councillors/current/n-branscombe)
+
+</details>
+

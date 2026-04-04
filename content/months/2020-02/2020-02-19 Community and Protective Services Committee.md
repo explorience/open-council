@@ -561,3 +561,89 @@ The Community and Protective Services Committee convened, In Closed Session, fro
 
 The meeting adjourned at 6:44 PM.
 
+---
+
+## Votes
+
+*8 substantive votes at this meeting (2 contested, 6 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.2, 2.3, 2.4, 2.5, 2.6, 2.7, 2.8, 2.9, 2.11 and 2.12 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.10. Suppressing Crime Through Business Licensing Regulations - Theft of Gasoline and Scrap Metal
+
+> Motion to approve parts a), c) and d), above.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.10. Suppressing Crime Through Business Licensing Regulations - Theft of Gasoline and Scrap Metal
+
+> Motion to approve part b), above.
+
+**✅ Motion Passed (5 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier), [Michael van Holst](/councillors/current/m-van-holst)
+
+**Nay (1):** [Ed Holder](/councillors/current/e-holder)
+
+</details>
+
+### 2.10. Suppressing Crime Through Business Licensing Regulations - Theft of Gasoline and Scrap Metal
+
+> Motion to approve part e), above.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. Councillor E. Peloza - Cost Recovery for Fire Services - Third Party Cost Recovery - Fire Marque
+
+> That the Civic Administration BE DIRECTED to investigate and report back to a future meeting of the Community and Protective Services Committee in Q2 2020 with respect to opportunities for, and the viability of, cost recovery for fire-related responses through property owners’ insurance; it being...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Mo Salih](/councillors/current/m-salih)
+
+**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+
+</details>
+
+### 4.2. Councillor M. van Holst - Conestoga Hut Pilot
+
+> That the Civic Administration BE DIRECTED to report back to the Community and Protective Services Committee, by April 28, 2020, with respect to a plan to pilot a small number of Conestoga Huts; it being noted that a communication, dated February 9, 2020, from Councillor M. van Holst, with respect...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 5.2. (ADDED) 3rd Report of the Animal Welfare Advisory Committee
+
+> That the following actions be taken with respect to the 3rd Report of the Animal Welfare Advisory Committee, from its meeting held on February 6, 2020: a)            the Civic Administration BE ENCOURAGED to meet with representatives from the rescue organizations operating in London in order to d...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 5.3. (ADDED) Agreement for London and Middlesex Local Immigration Partnership with Immigration, Refugees and Citizenship Canada
+
+> That, on the recommendation of the Managing Director, Housing, Social Services and Dearness Home, the proposed by-law, as appended to the staff report dated February 19, 2020, BE INTRODUCED at the Municipal Council meeting to be held on March 2, 2020, to: a)            authorize and approve the C...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+

@@ -1,0 +1,85 @@
+{
+  "years": {
+    "2026": {
+      "count": 212,
+      "file": "votes-2026.json",
+      "sizeKB": 160
+    },
+    "2025": {
+      "count": 854,
+      "file": "votes-2025.json",
+      "sizeKB": 697
+    },
+    "2024": {
+      "count": 915,
+      "file": "votes-2024.json",
+      "sizeKB": 744
+    },
+    "2023": {
+      "count": 879,
+      "file": "votes-2023.json",
+      "sizeKB": 680
+    },
+    "2022": {
+      "count": 654,
+      "file": "votes-2022.json",
+      "sizeKB": 499
+    },
+    "2021": {
+      "count": 813,
+      "file": "votes-2021.json",
+      "sizeKB": 544
+    },
+    "2020": {
+      "count": 791,
+      "file": "votes-2020.json",
+      "sizeKB": 542
+    },
+    "2019": {
+      "count": 836,
+      "file": "votes-2019.json",
+      "sizeKB": 563
+    },
+    "2018": {
+      "count": 853,
+      "file": "votes-2018.json",
+      "sizeKB": 550
+    },
+    "2017": {
+      "count": 1213,
+      "file": "votes-2017.json",
+      "sizeKB": 668
+    },
+    "2016": {
+      "count": 1173,
+      "file": "votes-2016.json",
+      "sizeKB": 718
+    },
+    "2015": {
+      "count": 945,
+      "file": "votes-2015.json",
+      "sizeKB": 580
+    },
+    "2014": {
+      "count": 1040,
+      "file": "votes-2014.json",
+      "sizeKB": 677
+    },
+    "2013": {
+      "count": 586,
+      "file": "votes-2013.json",
+      "sizeKB": 365
+    },
+    "2012": {
+      "count": 289,
+      "file": "votes-2012.json",
+      "sizeKB": 209
+    },
+    "2011": {
+      "count": 128,
+      "file": "votes-2011.json",
+      "sizeKB": 72
+    }
+  },
+  "totalSubstantive": 12181
+}

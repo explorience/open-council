@@ -68,3 +68,17 @@ None.
 
 The meeting adjourned at 1:20 PM.
 
+---
+
+## Votes
+
+*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
+
+### 2.1. Updates: Blue Box Transition
+
+> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report dated April 24, 2023, related to Updates on the Blue Box Transition: a)    the proposed by-law, as appended to the above noted staff report BE IN...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+

@@ -3035,3 +3035,314 @@ And I will need a motion to adjourn if you wish to part waste. Moved by Councill
 Thank you so much. And tomorrow is now your day to reallocate as you wish. Thank you kindly.
 
 </details>
+
+---
+
+## Votes
+
+*27 substantive votes at this meeting (10 contested, 17 unanimous). Procedural motions excluded.*
+
+### 4.1. Review of Recommended Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)
+
+> That the following actions be taken with respect to the 2023 Annual Budget Update: c)    Case #P-3 - Housing Stability Services - Roadmap to 3,000 Affordable Units - Portable Benefits and Staff Resources - Operating Expenditure $1,794,000; Tax Levy $1,794,000 BE APPROVED;          d)    Case #P-4...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 4.1. Review of Recommended Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)
+
+> That Budget Amendment #P-1 BE AMENDED to re-allocate the $225,000 for Downtown Tree Planting and retain for tree planting efforts across the city: it being noted that the amendment would have the following affect: Case #P-1 Excluding downtown tree planting - Various Services  - Budget Right-Sizin...
+
+**❌ Motion Failed (7 to 7) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (5):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.1. Review of Recommended Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)
+
+> That the following actions be taken with respect to the 2023 Annual Budget Update: a)    Case #P-1 - Various Services - Budget Right-Sizing - Operating Expenditure ($2,900,000); Tax Levy ($6,581,000); Capital Expenditure ($475,000) BE APPROVED;
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 4.1. Review of Recommended Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)
+
+> That the following related to Business Case Amendment #P-2, BE APPROVED: Case #P-2a - Reduction in Life Stabilization Investment in 2023 due to COVID-19 Impacts – Operating Expenditure ($388,000); Tax Levy ($388,000)
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 4.1. Review of Recommended Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)
+
+> That the following related to Business Case Amendment #P-2, BE APPROVED: Case #P-2b - Reduction in Child Care Investment in 2023 due to Transitional Funding Availability, Case #P-2c - Partial Deferral of Expansion Child Care Investment in 2023 due to COVID-19 Impacts - Operating Expenditure ($232...
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (11-0)
+
+### 4.2. Review of Recommended Property Tax Capital Budget Amendments (2023 totals rounded to the closest $1,000)
+
+> That the following actions be taken with respect to the 2023 Annual Budget Update:    a)    Case #P-8 - Transportation - Capital Project Adjustments - Capital Expenditure ($10,225,000); Tax Levy $0 BE APPROVED; and,           b)    Case #P-9 - London and Middlesex Community Housing (LMCH) - Capit...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 4.3. Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)
+
+> That the source of financing for Budget Amendment #P-14 Humane Society of London & Middlesex New Comprehensive Animal Campus BE REVISED from the Community Investment Reserve Fund to the Operating Budget Contingency Reserve.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 4.3. Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)
+
+> That the motion, as amended, BE APPROVED. That the following actions be taken with respect to the 2023 Annual Budget Update: e)    Case #P-14 - Neighbourhood Strategic Initiatives and Funding - Humane Society of London and Middlesex Animal Campus - Operating Expenditure $3,000,000; Tax Levy $0 BE...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 4.3. Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)
+
+> Motion to approve Budget Amendment Case #P-10a – Reduce previously approved additional investment in local improvement for streetlights – Operating Expenditure ($136,000); Tax Levy ($136,000); Capital Expenditure ($200,000).
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 4.3. Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)
+
+> Motion to approve Budget Amendment Case #P-10b – Reduce annual walkway maintenance – Operating Expenditure ($60,000); Tax Levy ($60,000)
+
+**✅ Motion Passed (9 to 5)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Nay (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.3. Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)
+
+> Motion to approve Budget Amendment Case #P-10c – Reduce previously approved additional investment in winter maintenance – Operating Expenditure ($740,000); Tax Levy ($740,000)
+
+**❌ Motion Failed (5 to 9)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins)
+
+**Nay (7):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.3. Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)
+
+> That the following actions be taken with respect to the 2023 Annual Budget Update: b)    Case #P-11 - Parks and Horticulture - Reduction in Horticulture Aesthetics - Operating Expenditure ($200,000); Tax Levy ($200,000) BE APPROVED;
+
+**✅ Motion Passed (11 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.3. Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)
+
+> That the following actions be taken with respect to the 2023 Annual Budget Update: c)    Case #P-12 - Community Recreation and Leisure Programs - Reduction to Neighbourhood Playground Program - Operating Expenditure ($250,000); Tax Levy ($250,000) BE APPROVED;
+
+**❌ Motion Failed (0 to 14)**
+
+<details>
+<summary>View roll call</summary>
+
+**Nay (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.3. Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)
+
+> That consideration of Business Case #P-13 - Information Technology - Eliminate Printing of Council Agenda Materials - Operating Expenditure ($8,000); Tax Levy ($8,000) BE REFERRED to the next multi-year budget process, 2024.to 2027.
+
+**✅ Motion Passed (11 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.3. Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)
+
+> That consideration of Budget Amendment P-15 BE REFERRED to the next multi-year budget process 2024-2027 Case #P-15 - Neighbourhood Strategic Initiatives and Funding - Increase to Neighbourhood Decision Making Program - Operating Expenditure $250,000; Tax Levy $250,000
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.3. Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)
+
+> That the motion to approve Budget Amendment Case #P-16, BE AMENDED to include the following wording: "and that the property tax levy funding to Business Improvement Areas BE REVIEWED in conjunction with the consideration of future multi-year budget updates, and during this term of Council in 2026"
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 4.3. Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)
+
+> That the motion related to the approval of Budget Amendment Case #P-16, as amended, BE APPROVED: “That the following actions be taken with respect to the 2023 Annual Budget Update: g)    Case #P-16 - Community Improvement/BIA - Funding for the Hamilton Road BIA - Operating Expenditure $100,000; T...
+
+**✅ Motion Passed (11 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke)
+
+**Nay (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.3. Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)
+
+> That Budget Amendment Case #P-17 BE AMENDED to be in the amount of ($ 475,000).
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
+
+**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.3. Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)
+
+> That the amended Budget Amendment Case #P-17, in the amount of ($475,00), BE APPROVED h)    Case #P-17 - Capital Financing - Reduction to Previously Approved "For Consideration" Business Case - Infrastructure Gap RF Contribution - Operating Expenditure ($475,000); Tax Levy ($475,000).
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
+
+**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.4. Review of For Consideration Property Tax Capital Budget Amendment (2023 totals rounded to the closest $1,000)
+
+> That the following actions be taken with respect to the 2023 Annual Budget Update:    a)     Case #P-18 - Community Improvement/BIA - Streetscape Master Plan for Dundas Street - Argyle BIA - Capital Expenditure $150,000; Tax Levy $0 BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 4.8. Operating Budget
+
+> That in accordance with section 291(4)(c) of the Municipal Act, 2001, as amended, the amended 2023 operating budget (Appendix A) BE READOPTED in the gross expenditure amount of $1,117,281,244 and the tax levy amount of $736,457,801 after recognizing $12,773,658 of increased taxation from assessme...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 4.9. Capital Budget
+
+> That in accordance with section 291(4)(c) of the Municipal Act 2001, as amended, the following actions be taken with respect to the capital budget (Appendix B): a) the amended 2023 capital budget BE READOPTED in the amount of $447,680,000; and, b) the amended 2024 to 2029 capital forecast BE APPR...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 4.10. By-laws Regarding Tax Levy, Operating and Capital Budgets
+
+> That the Civic Administration BE DIRECTED to bring forward any necessary by-laws regarding the tax levy, the operating and capital budgets for introduction at Municipal Council.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 4.11. Review of Recommended Water Budget Amendments (2023 totals rounded to the closest $1,000)
+
+> That the following actions be taken with respect to the 2023 Annual Water Budget Update:    a)    Case #W-1 - Schedule Change for Springbank #2 Water Reservoir Replacement and Expansion - Operating Expenditure $0; Operating Revenue $0; Capital Expenditure ($37,581,000) BE APPROVED; and,          ...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 4.14. Water Services
+
+> That in accordance with section 291(4)(c) of the Municipal Act 2001, as amended, the following actions be taken with respect to the 2023 operating budget and the 2023 capital budget and associated forecasts for Water Services: a)    the amended 2023 operating budget for Water Services BE READOPTE...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 4.15. Review of Recommended Wastewater and Treatment Budget Amendments (2023 totals rounded to the closest $1,000)
+
+> That the following actions be taken with respect to the 2023 Annual Wastewater and Treatment Budget Update:    a)    Case #WWT-1 - Mud Creek East Branch Phase 2 Budget Increase - Operating Expenditure $0; Operating Revenue $0; Capital Expenditure $1,657,000 BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 4.18. Wastewater and Treatment Services
+
+> That in accordance with section 291(4)(c) of the Municipal Act 2001, as amended, the following actions be taken with respect to the 2023 operating budget and the 2023 capital budget and associated forecasts for Wastewater and Treatment Services:    a) the amended 2023 operating budget for Wastewa...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+

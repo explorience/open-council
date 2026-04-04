@@ -411,3 +411,33 @@ Thank you, and I would like to report it. We went into a camera to deal with con
 Motion carries. Great day.
 
 </details>
+
+---
+
+## Votes
+
+*2 substantive votes at this meeting (1 contested, 1 unanimous). Procedural motions excluded.*
+
+### 2.4. Consultant Contract Price Increase: Rapid Transit Implementation - Wellington Street from Queens Avenue to the Thames River (South Branch)
+
+> That on the recommendation of the Deputy City Manager, Environment & Infrastructure, the following actions be taken with respect to the Rapid Transit Implementation – Wellington Street from Queens Avenue to the Thames River (South Branch) project: a)   the contract with AECOM Canada ULC for const...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 5. Deferred Matters/Additional Business
+
+> The Civic Administration BE DIRECTED to advance the timing of pedestrian crossover improvements planned for implementation in 2026 at Viscount Rd and Steeplechase Dr to 2025 and the value of the 2025 pedestrian crossover contract BE INCREASED to accommodate this additional work.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

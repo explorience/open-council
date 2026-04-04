@@ -1318,3 +1318,86 @@ Moved by Councilor McAllister, seconded by Councilor Stevenson. But we can do th
 Okay, we're adjourned, thank you very much.
 
 </details>
+
+---
+
+## Votes
+
+*6 substantive votes at this meeting (4 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2.1. 2023 Industrial Land Development Strategy
+
+> That the motion be amended in part d) by removing, " which shall include the use of the Climate Emergency Screening Tool;"
+
+**❌ Motion Failed (6 to 9) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (7):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 2.1. 2023 Industrial Land Development Strategy
+
+> Motion to approve, excluding part d):  That the following actions be taken with respect to the 2023 Industrial Land Development Strategy: a)    the 2023 Industrial Land Development Strategy, as appended to the staff report dated May 9, 2023 as Appendix "A", BE ADOPTED as City Council’s strategy f...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 2.1. 2023 Industrial Land Development Strategy
+
+> Motion to approve part d): d)    the Civic Administration BE DIRECTED to undertake an Industrial Land Needs Assessment, which shall include the use of the Climate Emergency Screening Tool; and,
+
+**✅ Motion Passed (12 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.2. London Police Services Board Candidates Interview Process
+
+> That the interview questions BE PROVIDED to candidates, in advance of the scheduled interviews.
+
+**✅ Motion Passed (8 to 7) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (5):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.2. London Police Services Board Candidates Interview Process
+
+> That interview questions BE PRESENTED to candidates by individual councillors, through a set rotation.
+
+**✅ Motion Passed (11 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Josh Morgan](/councillors/current/j-morgan), [Steve Lehman](/councillors/current/s-lehman)
+
+</details>
+
+### 4.4. (ADDED) Confirmation of Appointment to the Governance Working Group
+
+> That Councillor S. Franke BE APPOINTED to the Governance Working Group for the term ending November 14, 2026.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+

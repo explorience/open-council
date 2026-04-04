@@ -3465,3 +3465,204 @@ The meeting adjourns at 9:59 PM.
 
 ****
 
+---
+
+## Votes
+
+*20 substantive votes at this meeting (5 contested, 15 unanimous). Procedural motions excluded.*
+
+### 8.2. 11th Report of the Planning and Environment Committee
+
+> That the 11th Report of the Planning & Environment Committee BE APPROVED, excluding items 8 (2.2), 13 (3.2) and 23 (5.1).
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 8.3. 10th Report of the Community and Protective Services Committee
+
+> That the 10th Report of the Community and Protective Services Committee BE APPROVED, excluding items 14 (2.1), 17 (4.1) and 18 (4.2).
+
+**✅ Motion Passed (12 to 0)**
+
+Unanimous (12-0)
+
+### 8.3.17. (4.1) 5th Report of the Accessibility Advisory Committee
+
+> The motion to approve part e) of Item 17, relating to the 5th Report of the ACCAC is put. e)            the following recommendation of the ACCAC BE REFERRED to the next meeting of the CPSC for consideration: "the Managing Director, Corporate Services and City Solicitor BE REQUESTED to seek a leg...
+
+**❌ Motion Failed (6 to 6) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (6):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 8.3.17. (4.1) 5th Report of the Accessibility Advisory Committee
+
+> The motion to approve the remainder of Item 17, the 5th Report of the ACCAC, is put. That the following actions be taken with respect to the 5th Report of the Accessibility Advisory Committee from its meeting held on May 24, 2018: a)            the Civic Administration BE ADVISED that the Accessi...
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 8.3.18. (4.2) Middlesex-London Health Unit Office Space Fit-up Funding Request
+
+> That the communication, dated June 18, 2018, from Dr. C. Mackie, Medical Officer of Heath/CEO from the Middlesex-London Heath Unit, with respect to the Middlesex-London Heath Unit office space fit-up funding request, BE REFERRED to the next meeting of the Community and Protective Services Committ...
+
+**✅ Motion Passed (12 to 0)**
+
+Unanimous (12-0)
+
+### 8.4. 13th Report of the Corporate Services Committee
+
+> That the 13th Report of the Corporate Services Committee BE APPROVED.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 9.1. 13th Report of Council In Closed Session
+
+> 1.            Property Acquisition – Bus Rapid Transit Project – 78 Oxford Street West That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, with the concurrence of the Managing Director of Environmental and Engineering Services and ...
+
+**✅ Motion Passed (10 to 0)**
+
+Unanimous (10-0)
+
+### 9.2. 2nd Report of the Audit Committee
+
+> Approve the 2nd Report of the Audit Committee.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 9.3. 8th Report of the Strategic Priorities and Policy Committee
+
+> That the following items from the 8th Report of the Strategic Priorities and Policy Committee BE REFERRED to the July 24, 2018 meeting of the Municipal Council to provide the members of the public an opportunity to review the items prior to Municipal Council's consideration: 2.1 - 2019 Budget Sch...
+
+**❌ Motion Failed (5 to 8) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
+
+**Nay (8):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+</details>
+
+### 9.3.4. (2.3)  Free of Fear Services for All Policy
+
+> 
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 9.3.4. (2.3)  Free of Fear Services for All Policy
+
+> That parts a), b) and c), as amended, BE APPROVED: That, on the recommendation of the Managing Director, Housing, Social Services and Dearness Home, the following actions be taken with respect to London adopting a Free of Fear Services for All Policy: a)            the commitment to ensuring acce...
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 9.3.4. (2.3)  Free of Fear Services for All Policy
+
+> That part d) BE APPROVED: d)            the Civic Administration BE DIRECTED to implement Option #2 as outlined in the staff report date June 25, 2018; it being noted that the cost of this option will be accommodated within the approved operating budget; and,
+
+**✅ Motion Passed (7 to 6) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
+
+**Nay (6):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Virginia Ridley](/councillors/current/v-ridley), [Jared Zaifman](/councillors/current/j-zaifman)
+
+</details>
+
+### 9.3.4. (2.3)  Free of Fear Services for All Policy
+
+> That part e) BE APPROVED: e)            the Civic Administration BE DIRECTED to report back on the results of research and any anticipated long-term program costs as a result of implementing this policy.
+
+**✅ Motion Passed (9 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (4):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Virginia Ridley](/councillors/current/v-ridley)
+
+</details>
+
+### 9.3.6. (3.3) London & Middlesex Housing Corporation - 2017 Annual Meeting of the Shareholder Annual Resolutions
+
+> Motion to approve clause 3.3, excluding parts c) and e). That the following actions be taken with respect to the 2017 Annual Meeting of the Shareholder for the London & Middlesex Housing Corporation: a)    the proposed by-law appended to the staff report dated June 25, 2018, BE INTRODUCED at the ...
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 9.3.6. (3.3) London & Middlesex Housing Corporation - 2017 Annual Meeting of the Shareholder Annual Resolutions
+
+> Motion to approve part c) of clause 3.3: c)      the attached proposed changes to the LMHC Articles of Incorporation to provide expanded flexibility required to better serve their clients, BE REFERRED to the Civic Administration to work with the LMHC and report back to a future meeting of the Str...
+
+**✅ Motion Passed (11 to 0)**
+
+Unanimous (11-0)
+
+### 9.3.6. (3.3) London & Middlesex Housing Corporation - 2017 Annual Meeting of the Shareholder Annual Resolutions
+
+> Motion to approve part e). e)      the delegation request of Ashton Forrest BE REFERRED to the Board of the London Middlesex Housing Corporation for consideration.
+
+**✅ Motion Passed (9 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley)
+
+**Nay (4):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+</details>
+
+### 9.3.8. (4.1) 9th Report of the Governance Working Group
+
+> Motion to approve clause 4.1, the 9th Report of the Governance Working Group, excluding: part a)i)10 - Child Care Policies; and, part c) Annual meeting Calendar That the following actions be taken with respect to the 9th Report of the Governance Working Group from its meeting held on May 28, 2018...
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 9.3.8. (4.1) 9th Report of the Governance Working Group
+
+> Motion to approve part a)I) 10. Child Care Policies.
+
+**✅ Motion Passed (12 to 0)**
+
+Unanimous (12-0)
+
+### 9.3.9. (4.2)  10th Report of the Governance Working Group
+
+> That clause 4.2, the 10th Report of the Governance Working Group, excluding parts a) i) 44 (Siting of Cannabis Retail Stores in London) and 45 (Siting of Safe Consumption Facilities and Temporary Overdose Prevention Sites in London), and clauses 4.3, Review of the Function of the Public Utility C...
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 9.3.9. (4.2)  10th Report of the Governance Working Group
+
+> Motion to approve clause 4.2 parts a) i 44 (Siting of Cannabis Retail Stores in London) and 45 (Siting of Safe Consumption Facilities and Temporary Overdose Prevention Sites in London), as well as the disclosures of pecuniary interest from the 8th Report of the Strategic Priorities and Policy Com...
+
+**✅ Motion Passed (12 to 0)**
+
+Unanimous (12-0)
+

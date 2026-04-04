@@ -2405,3 +2405,146 @@ I'll look for motion to adjourn. Deputy Mayor Lewis, seconded by Councillor Rame
 You guys, thanks.
 
 </details>
+
+---
+
+## Votes
+
+*17 substantive votes at this meeting (0 contested, 17 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.6 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.1. Incentivizing Office-to-Residential Conversions in Downtown
+
+> That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to offering financial incentives to support office-to-residential conversions in downtown: a) the Civic Administration BE DIRECTED to amend the Downtown Community...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.1. Incentivizing Office-to-Residential Conversions in Downtown
+
+> That M. Wallace, Executive Director, London Development Institute, BE GRANTED delegation status with respect to these matters.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.2. 1 Fallons Lane (Z-9728)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Roman Catholic Episcopal Corporation of the Diocese of London Ontario, (c/o Zelinka Priamo Ltd., relating to the property located at 1 Fallons Lane: a)  the pro...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.3. 3614, 3630 Colonel Talbot Road and 6621 Pack Road (Z-8720)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Sifton Properties Limited, relating to the property located at 3614, 3630 Colonel Talbot Road and 6621 Pack Road: a)    the proposed by-law appended to the staf...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.4. 3392 Wonderland Road South (OZ-9730)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Old Oak Properties Inc., (c/o Siv-ik Planning & Design), relating to the property located at 3392 Wonderland Road South: a)    the proposed by-law appended to t...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.5. 1458 Huron Street (Z-9743)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by OMNI Developments Inc., (c/o Zelinka Priamo Ltd.), relating to the property located at 1458 Huron Street & 39 Redwood Lane: a) the proposed by-law appended to t...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.6. 1105 Wellington Road (OZ-9725)
+
+> That the following actions be taken with respect to the application by White Oaks Shopping Centre Inc., relating to the property located at 1105 Wellington Road: a) the proposed attached, revised by-law as Appendix "A" BE INTRODUCED at the Municipal Council meeting to be held on July 23, 2024, to...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.7. 934 Oxford Street West (Z-9733)
+
+> That, on the recommendation of the Director, Planning and Development, based on the application by 2419361 Ontario Inc., relating to the property located at 934 Oxford Street West, the proposed by-law appended to the staff report dated July 16, 2024 as Appendix "A" BE INTRODUCED at the Municipal ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.8. 359 Wellington Road and 657 Base Line Road East (Z-9719)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by LJM Developments Ltd., (c/o A.J. Clarke & Associates Ltd.), relating to the property located at 359 Wellington Road and 657 Base Line Road East: a) the proposed...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.9. 1725-1737 Richmond Street (Z-9741)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Richmond Hyland Inc. c/o Paul Kitson, Westdell Development Corporation, relating to the property located at 1727-1737 Richmond Street: a) the proposed by-law ap...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.1. Requests for Delegation – Centennial Central Public School Sanitary Service Connection
+
+> That the following actions be taken with respect to the request from the Municipality of Middlesex Centre and the Thames Valley District School Board regarding sanitary servicing for Centennial Central Public School: a)    authority BE DELEGATED to the Deputy City Manager, Environment and Infrast...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.1. Requests for Delegation – Centennial Central Public School Sanitary Service Connection
+
+> That G. Vogt, Superintendent, Facility Services and Capital Planning, Thames Valley District School Board and R. Cascaden, Director of Public Works and Engineering, Municipality of Middlesex Centre, BE GRANTED delegation status with respect to the Centennial Central Public School sanitary service...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.2. Request for Delegation - Middlesex Centre Sanitary Servicing Agreement, 2000
+
+> That the Deputy City Manager, Environment and Infrastructure, BE REQUESTED to report back with an analysis of the Sanitary Servicing Agreement request made by the Municipality of Middlesex Centre, including planning, technical, and financial considerations; it being pointed out that the Planning ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.2. Request for Delegation - Middlesex Centre Sanitary Servicing Agreement, 2000
+
+> That S. Bergman  Middlesex Centre, BE GRANTED delegation status with respect to the Middlesex Centre Sanitary Servicing Agreement, 2000.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.3. Urban Forest Canopy - Councillor S. Franke and Councillor C. Rahman
+
+> That, the following matters be included on the Planning and Environment Committee Deferred Matters List: a)  the Civic Administration BE DIRECTED to provide information and associated recommended actions on the following matters in Q4 of 2024: i) Urban Forestry Strategy Monitoring Report: A) a st...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 6. Adjournment
+
+> The meeting adjourned at 4:59 PM.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

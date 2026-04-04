@@ -1179,3 +1179,191 @@ The Strategic Priorities and Policy Committee convened in closed session from 10
 
 The meeting adjourned at 10:44 PM.
 
+---
+
+## Votes
+
+*17 substantive votes at this meeting (6 contested, 11 unanimous). Procedural motions excluded.*
+
+### 2.2. Municipal Accommodation Tax - Required Agreements and By-laws
+
+> That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the following actions be taken with respect to implementing the new Municipal Accommodation Tax:    a)            the proposed by-law appended to the staff report dated June 25, 2...
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher)
+
+**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+
+### 2.3. Free of Fear Services for All Policy
+
+> Motion to approve parts a), b) and c).
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 2.3. Free of Fear Services for All Policy
+
+> Motion to approve part d).
+
+**✅ Motion Passed (8 to 6) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert)
+
+**Nay (4):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire)
+
+**Absent (1):** [Mo Salih](/councillors/current/m-salih)
+
+</details>
+
+### 2.3. Free of Fear Services for All Policy
+
+> Motion to approve part e).
+
+**✅ Motion Passed (9 to 5)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert)
+
+**Nay (3):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire)
+
+**Absent (1):** [Mo Salih](/councillors/current/m-salih)
+
+</details>
+
+### 3.3. London & Middlesex Housing Corporation - 2017 Annual Meeting of the Shareholder Annual Resolutions
+
+> Motion to approve part b).
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 3.3. London & Middlesex Housing Corporation - 2017 Annual Meeting of the Shareholder Annual Resolutions
+
+> Motion to approve part c).
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 3.3. London & Middlesex Housing Corporation - 2017 Annual Meeting of the Shareholder Annual Resolutions
+
+> Motion to approve part d).
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 3.3. London & Middlesex Housing Corporation - 2017 Annual Meeting of the Shareholder Annual Resolutions
+
+> Motion to approve part e).
+
+**✅ Motion Passed (10 to 5)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley)
+
+**Nay (3):** [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Phil Squire](/councillors/current/p-squire)
+
+</details>
+
+### 3.3. London & Middlesex Housing Corporation - 2017 Annual Meeting of the Shareholder Annual Resolutions
+
+> Motion to approve part a).
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.1. 9th Report of the Governance Working Group
+
+> Motion to approve the 9th Report of the Governance Working Group  excluding items 3. a) 10. (Child Care Policies) and 5 (Annual Meeting Calendar).
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (11-0)
+
+### 4.1. 9th Report of the Governance Working Group
+
+> Motion to approve item 3. a) 10. Child Care Policies.
+
+**✅ Motion Passed (12 to 0)**
+
+Unanimous (10-0)
+
+### 4.1. 9th Report of the Governance Working Group
+
+> Motion to refer part c), having to do with a revised Annual Meeting Calendar, BE REFERRED to the 2018-2022 Council for consideration; it being noted that the City Clerk will be required to bring forward a report prior to September 2018, based on the current meeting schedule format for the coming ...
+
+**❌ Motion Failed (5 to 8) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert)
+
+**Nay (6):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
+
+</details>
+
+### 4.1. 9th Report of the Governance Working Group
+
+> Motion to approve part c), with the addition to direct the City Clerk to consult with the Civic Administration on the draft calendars.
+
+**✅ Motion Passed (8 to 5) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong)
+
+**Nay (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Phil Squire](/councillors/current/p-squire), [Paul Hubert](/councillors/current/p-hubert)
+
+</details>
+
+### 4.2. 10th Report of the Governance Working Group
+
+> Motion to approve the 10th Report of the Governance Working Group, excluding a) parts 37 (Parkland Accounts), 44 (Siting of Cannabis Retail Stores in London) and 45 (Siting of Safe Consumption Facilities and Temporary Overdose Prevention Sites in London).
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (11-0)
+
+### 4.2. 10th Report of the Governance Working Group
+
+> Motion to refer item 37 - Parkland Accounts policy back to staff for additional work, and a report back to the GWG.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (11-0)
+
+### 4.2. 10th Report of the Governance Working Group
+
+> Motion to approve parts 44 (Siting of Cannabis Retail Stores in London) and 45 (Siting of Safe Consumption Facilities and Temporary Overdose Prevention Sites in London.
+
+**✅ Motion Passed (12 to 0)**
+
+Unanimous (10-0)
+
+### 4.3. Review of the Function of the Public Utility Commission of the City of London
+
+> That on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the Civic Administration BE DIRECTED to undertake all the administrative acts that are necessary to dissolve the corporate entity known as The Public Utility Commission of the City of Lo...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+

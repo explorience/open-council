@@ -398,3 +398,41 @@ The Community and Protective Services Committee convened, In Closed Session, fro
 
 The meeting adjourned at 5:21 PM.
 
+---
+
+## Votes
+
+*4 substantive votes at this meeting (0 contested, 4 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.4 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.1. Public Participation Meeting - Request for Input Regarding the Proposed Name of the "Community Centre on Wavell" - 1731 Churchill Avenue
+
+> That the name "East Lions Community Centre" BE APPROVED for the new east community centre located at 1731 Churchill Avenue; it being noted that the proposed name is in compliance with Council-approved naming preferences; it being further noted that the Community and Protective Services Committee ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.1. 6th Report of the Community Safety and Crime Prevention Advisory Committee
+
+> That the following actions be taken with respect to the 6th Report of the Community Safety and Crime Prevention Advisory Committee (CSCP), from its meeting held on September 26, 2019: a)         clause 5.2 BE REFERRED back to the CSCP for further clarification of the information being requested; ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.2. Short Term Accommodations - Councillor A. Hopkins
+
+> That the Civic Administration BE REQUESTED to report back to the Community and Protective Services Committee with respect to potential regulatory options that could be put in place to address short term rental accommodations in London; it being noted that the communication dated September 26, 201...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+

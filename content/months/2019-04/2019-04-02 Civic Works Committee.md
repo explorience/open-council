@@ -275,3 +275,34 @@ That HOV lanes BE ASSESSED at a network level in the next update to the Transpo
 
 The meeting adjourned at 4:22 PM.
 
+---
+
+## Votes
+
+*2 substantive votes at this meeting (1 contested, 1 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That items 2.1-2.6, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 5.3. (ADDED) High-Occupancy Vehicle (HOV) in Next Transportation Master Plan (TMP) Update
+
+> That HOV lanes BE ASSESSED at a network level in the next update to the Transportation Master Plan; it being noted that they provide a potential new option for transit prioritization; it being further noted that the communication dated March 30, 2019 from Councillor M. van Holst with respect to t...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire)
+
+**Nay (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+
+</details>
+

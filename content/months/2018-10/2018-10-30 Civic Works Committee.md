@@ -295,3 +295,33 @@ The Civic Works Committee convened in Closed Session from 4:25 PM to 5:45 PM.
 
 The meeting adjourned at 5:46 PM.
 
+---
+
+## Votes
+
+*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That items 2.1 to 2.6 BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 4.1. Request for Delegation - K. Miller and C. Gupta, Safe Water London
+
+> That the request for delegation from K. Miller and C. Gupta with respect to Safe Water London BE REFERRED to incoming council for consideration. (2018-E13)
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 4.2. Sanitary and Stormwater Flooding
+
+> The City Solicitor BE REQUESTED to provide the Civic Works Committee with an opinion as to the appropriated ownership of the Pine Valley Condominium, sewer taking into consideration the previous decision to divest the sewer back to the Condominium Corporation and the properties previous history o...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+

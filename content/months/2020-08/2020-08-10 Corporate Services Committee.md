@@ -338,3 +338,72 @@ The Corporate Services Committee convenes, In Closed Session, from 1:27 PM to 2:
 
 The meeting adjourned at 2:14 PM.
 
+---
+
+## Votes
+
+*5 substantive votes at this meeting (3 contested, 2 unanimous). Procedural motions excluded.*
+
+### 3.1. Not to be heard before 12:05 PM - Public Participation Meeting - Council Procedure By-law
+
+> That, on the recommendation of the City Clerk, the following actions be taken with respect to Council Procedure By-law: a)      the proposed by-law appended to the staff report dated August 10, 2020 as Appendix “A” being “A by-law to amend By-law A-50, as amended, being “A by-law to provide for t...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.1. Representation on the Municipal Service Board for the Provision of Land Ambulance Services
+
+> That the following actions be taken with respect to the Middlesex-London Service Board for the Provision of Land Ambulance: a)     the County of Middlesex BE REQUESTED to provide for a voting representative of the City of London Council, on the Municipal Service Board for the Provision of Land Am...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Ed Holder](/councillors/current/e-holder), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
+
+**Absent (1):** [Jesse Helmer](/councillors/current/j-helmer)
+
+</details>
+
+### 4.2. Application - Issuance of Proclamation - Terry Fox Run London
+
+> That based on the application dated July 7, 2020, from Terry Fox Run London, the week of September 13 - 20, 2020 BE PROCLAIMED as Terry Fox Week.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.3. Application - Issuance of Proclamation - World Patient Safety Day
+
+> That based on the application dated July 28, 2020, from Patients for Patient Safety Canada, the day of September 17, 2020 BE PROCLAIMED as World Patient Safety Day.
+
+**✅ Motion Passed (3 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Absent (1):** [Jesse Helmer](/councillors/current/j-helmer)
+
+</details>
+
+### 4.4. Application - Issuance of Proclamation - Mitochondrial Disease Awareness Week
+
+> That based on the application dated July 30, 2020, from MitoCanada, the week of September 13 - 19, 2020 BE PROCLAIMED as Mitochondrial Disease Awareness Week.
+
+**✅ Motion Passed (3 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Absent (1):** [Jesse Helmer](/councillors/current/j-helmer)
+
+</details>
+

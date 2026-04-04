@@ -1426,3 +1426,145 @@ Just before adjournment, I just wanna make sure that because this is a little bi
 Okay, we have a motion to adjourn, a hand vote. Thank you. Motion carries.
 
 </details>
+
+---
+
+## Votes
+
+*12 substantive votes at this meeting (5 contested, 7 unanimous). Procedural motions excluded.*
+
+### 2.1. Delegation of Authority - Part Lot Control
+
+> That, on the recommendation of the Director, Planning and Development, the proposed by-law appended to the staff report dated October 3, 2023 as Appendix “A” BE INTRODUCED at the Municipal Council meeting to be held on October 17, 2023 to amend By-law CP-17 being “A by-law to delegate certain por...
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (3-0)
+
+### 3.1. 10th Report of the Ecological Community Advisory Committee
+
+> That the following actions be taken with respect to the 10th Report of the Ecological Community Advisory Committee, from its meeting held on September 21, 2023: a) the Ecological Community Advisory Committee Working Group comments on the Environmental Impact Statement relating to the property loc...
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (3-0)
+
+### 3.2. 3480 Morgan Avenue (OZ-9100 / 39T-22503)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Sifton Properties Limited, relating to the property located at 3480 Morgan Avenue: a)    the request to amend Zoning By-law No. Z.-1 to change the zoning of the...
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (3-0)
+
+### 3.3. 1236 Southdale Road East (Z-9634)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Aun Holdings Inc., relating to the property located at 1236 Southdale Road East:   a)    the proposed by-law appended to the staff report dated October 3, 2023 ...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 3.4. Amendment to Increase Additional Residential Unit Permissions (OZ-9651)
+
+> That, on the recommendation of the Director, Planning and Development, with respect to the Official Plan and Zoning By-law requirements for additional residential units, the following actions be taken: a)    the proposed by-law appended to the staff report dated October 3, 2023 as Appendix "A" BE...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 3.4. Amendment to Increase Additional Residential Unit Permissions (OZ-9651)
+
+> Motion to direct staff to remove the bedroom limit city-wide, except Near Campus Neighbourhoods, and report back on possible limits to Near Campus Neighbourhoods (NCN); it being noted that the Civic Administration has been directed to undertake a review of the current five-bedroom limit and to re...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 3.5. 50 King Street and 399 Ridout Street (OZ-9622)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by 50 King Street London Limited, relating to the property located at 50 King Street & 399 Ridout Street North: a)    the proposed by-law appended to the staff rep...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. Urban Design Peer Review Panel
+
+> That the communication from Deputy Mayor S. Lewis and Councillor S. Lehman with respect to the Urban Design Peer Review Panel BE REFERRED to the October 17, 2023 Council meeting for a decision; it being noted that the Planning and Environment Committee received the following communications with r...
+
+**✅ Motion Passed (3 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman)
+
+**Nay (1):** [Skylar Franke](/councillors/current/s-franke)
+
+**Absent (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.1. Urban Design Peer Review Panel
+
+> That the communication related to the Urban Design Peer Review Panel (4.1) and the Deferred Matters List dated September 28, 2023 (5.1) BE REFERRED to the October 23, 2023 Planning and Environment Committee meeting for a decision.
+
+**❌ Motion Failed (2 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Josh Morgan](/councillors/current/j-morgan), [Skylar Franke](/councillors/current/s-franke)
+
+**Nay (2):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman)
+
+**Absent (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 5.1. Deferred Matters List
+
+> That the Deferred Matters List dated September 26, 2023 BE REFERRED to the October 17, 2023 Council meeting for a decision.
+
+**✅ Motion Passed (3 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman)
+
+**Nay (1):** [Skylar Franke](/councillors/current/s-franke)
+
+</details>
+
+### 5.1. Deferred Matters List
+
+> That the communication related to the Urban Design Peer Review Panel (4.1) and the Deferred Matters List dated September 28, 2023 (5.1) BE REFERRED to the October 23, 2023 Planning and Environment Committee meeting for a decision.
+
+**❌ Motion Failed (2 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Josh Morgan](/councillors/current/j-morgan), [Skylar Franke](/councillors/current/s-franke)
+
+**Nay (2):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman)
+
+</details>
+
+### 6.1. 689 Oxford Street West - OLT Appeal and Instructions
+
+> That the item relating to 689 Oxford Street West BE REFERRED to the October 17, 2023 Council meeting for a decision. A matter pertaining to advice that is subject to solicitor-client privilege, including communications necessary for that purpose from the solicitor and officers and employees of th...
+
+**❌ (3 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman)
+
+**Nay (1):** [Skylar Franke](/councillors/current/s-franke)
+
+</details>
+

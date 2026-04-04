@@ -653,3 +653,62 @@ The Strategic Priorities and Policy Committee convened, In Closed Session, from 
 
 The meeting adjourned at 9:02 PM.
 
+---
+
+## Votes
+
+*6 substantive votes at this meeting (1 contested, 5 unanimous). Procedural motions excluded.*
+
+### 2.1. Master Accommodation Plan Update and Procurement Process
+
+> Motion to approve part b) b)      the consulting and design services budget no longer required of $13 Million previously approved through the 2020-2023 Multi-Year Budget BE RELEASED back to the City Facilities Renewal Reserve Fund; and,
+
+**✅ Motion Passed (13 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+</details>
+
+### 4.1. Tabling of the 2021 Budget Update
+
+> That the Strategic Priorities and Policy Committee RECESS, until 7 PM.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.2. Strategic Plan 2019-2023: Semi-Annual Progress Report
+
+> That the requested delegation, as identified on the public agenda from S. Yeo and D. Bartlett, LCCEWA, BE APPROVED to be heard at the December 16, 2020 Strategic Priorities and Policy Committee meeting.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (11-0)
+
+### 4.3. Consideration of Appointment to the Audit Committee (Requires 1 Council Member)
+
+> That Councillor J. Helmer BE APPOINTED to the Audit Committee for the term ending November 15, 2022.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.4. Resignation from the Elgin Area Primary Water Supply  System Joint Board of Management
+
+> That the resignation from Councillor S. Lewis from the Elgin Area Primary Water Supply System Joint Board of Management BE ACCEPTED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.5. Confirmation of Appointments to the Old East Village Business Improvement Area
+
+> That the following individuals BE APPOINTED to the Old East Village Business Improvement Area Board of Management for the term ending November 15, 2022: Maria Drangova, Board Chair - London Clay Art Centre (returning)  Henry Eastabrook, Board Vice Chair - London Intercommunity Health Centre (retu...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+

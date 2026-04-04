@@ -4023,3 +4023,395 @@ which is a 2 V which is Appendix C reference number 2 V.I. which is Appendix C r
 appendix b number five quatix waiting pools and v.i.i. appendix c reference four parks and horticulture maintenance of local traffic circles we do all those together yeah i see okay i see nuts okay we'll open that for voting then those in the vote motion carries 14 to 0 okay so those unanimously stand uh now we have to deal with everything that was remaining the other clauses of uh 4.1 in the report which are options be received um directed to continue with budget right sizing opportunities business case for inclusion in the mayor's budget that's the approximately six million that staff are working towards finding proceed with implementing the user fee changes yet being noted uh from the correspondence those are all together open that for voting then those in the vote motion carries 14 to 0 made councilor paloza thank you i would uh that concludes this report i will note the next budget committee report agenda is out so have a look at it and if you want i think in it this is your chance thank you okay i'll have council rummon uh under added reports reported from our closed session thank you uh this is the ninth report of council in closed session uh the progress was made with respect to item 4.1 is noted on public agenda 6.1 10 i c s c as well as the additional reasons uh for sppc 7 4.2 and cpsc uh item 8 4.3 okay thank you um deferred matters we have none inquiries i'm aware of one from council frank thank you yes and it's my understanding that amo has um prepared some summary information about bill five and i was hoping to hear from our representative a little bit more regarding that yes um i have councilor hopkins if you're willing to uh address that you could answer that uh inquiry thank you um your worship and thank you councilor frank uh amo did uh present a submission uh to the standing committee on um lon um bill five protect ontario unleashing our economy i uh will make sure i will be brief uh amo did uh amo commends the provincial government for its strong decisive leadership regarding the threat of terrorists uh this is a critical opportunity for ontario to demonstrate its commitment to reconciliation and stronger relationships with indigenous holders it also is ensuring continued protection for the environment including species of risk and natural habitats it also included in its submission ensuring the use of special economic zones to override local bylaws should only occur with host municipal support and in cases of extraordinary need seses would allow the province to unilaterally override municipal decision-making by exempting seses from municipal bylaws and should not be used to exempt projects from bylaws that impact municipal revenue including these seas in conclusion amo asked that the province commit to respecting municipal autonomy and working with amo thank you for allowing me to speak on uh behalf of amo's submission thank you um any other inquiries see yes councilor trossa this is out of order i'm sure i'll find out really soon but pursuant to rule 18.4 following an inquiry i'd like to make a motion to adopt for the london city council to endorse the amo position and that is that is directly in response to an inquiry question which i think was very clearly answered and i think it's appropriate for us to show support for amo by doing this so um just a couple things for you to consider council um yes 18.4 does allow for a motion to be made after uh an inquiry um does not prescribe that the person who did the inquiry is required to make the motion so i'm allow another member of council to do that so um it does include a note that says oh well get the clerk's notes which i always read um that this is related this is because it's emergent at the council it would fall under the emergent motions parameters of passing the motion which would require two thirds of members present um to pass so you'd be putting a motion on the floor that would be required two thirds of the members of council to pass it for it to be approved so i just want you to have that context um and then you can decide if you want to put the motion on the floor so yes you need a seconder as well so would you like to do that yes you would yeah so let me just the clerk wants me to clarify why i'm why i'm ruling it to be emergent and not able to be referred to a future meeting uh the legislature was expected to rise on Thursday this is a bill that's before the legislature expected to be fast-tracked this is pretty much the only time that the the council could carve out a position on this before um that legislation would likely be passed so that's why i'm deeming it to be emergent um and and why falls under the emergent piece of this and why it will require two thirds and why it can be dealt with today and not referred to a standing committee as we would normally do in most cases under an inquiry that requires an action just so colleagues are clear so council you also have to seek leave to actually introduce the motion um so that's the first step what we're going to do so pursuant to section 20.1 of the procedure bylaw that leave be granted to allow councilor estrosa to move emotion related to amos submission related to bill five direct Ontario by unleashing our economy act 2025 can you seconder for that council process moving it not amenable or not debatable requires two thirds so a seconder for that councilor hopkins you're willing to second okay all right not amenable not debatable this is just on the leave piece uh we'll open that for voting closing the vote motion fails nine to five okay so that did not reach the two thirds required to provide leave so you cannot make the motion counselor so we won't deal with that matter today before council as an emergent matter yeah we we can't know you didn't you didn't achieve leave and you don't get to debate can i ask a question no well as long as it's a point of order be okay uh so we've done inquiries uh emergent motions we've pretty much done that now bylaws okay bylaws going to let you know colleagues based on everybody giving feedback on the things they want separate we have 30 votes on bylaws which are going to be 10 separate groups of voting um i'm gonna i'm going to attempt to speed this up um so i'm going to tell you how i'm going to do this believe or not councilor cutty and i have agreed pretty much everything through the through the course of the meeting so i'm just going to make councilor cutty the mover and me the seconder for all of these things if you're okay with that councilor cutty because we didn't we weren't against anything today yes you know i i think we agree a lot of times but thank you you're okay so that'll speed things up because we got the same mover and seconder for everything that we're about to go through um and then i'm going to do it uh and these will be recorded both still but because there were only two or three people who are on who wanted these pulled i'm going to uh basically one second also we're going to do this in the system if we start to get bogged down like e-scribe was before i'm going to switch to hand votes we're just going to record the people against everybody who isn't against is four that way we still have the recorded votes but we're but we're going to try it in the system we should be able to go quick because they're preloaded in but if e-scribe brogs down or people start to get problems i'm not going to wait to fix it we're just going to switch to hand vote and get this wrapped up okay i see nods all right so we're going to start with uh bills 181 and 182 together i'm going to read these as that people know what they're voting on these are the contribution agreements for affordable housing uh and the contribution agreements for highly supportive housing from the cpsc report so these two are together moved in the first reading is uh moved and seconded by myself our counselor cutting myself will open first reading for voting closing the vote motion carries 13 okay and second reading same mover and seconder any debate on second reading okay we'll open that for voting closing the vote motion carries 13 to 1 third reading same mover and seconder will open that for voting and carries 13 to 1 all right the next uh vote will be um bill 183 which is the annual shareholder resolutions for london hydro first reading same mover and seconder will open that for voting closing the vote motion carries 14 to 0 second reading is there any debate on second reading same mover and seconder she carries 14 to 0 third reading um same mover and seconder will open that for voting she carries 14 to 0 okay next so our third vote will be uh two different bills uh it's uh bill 184 and 192 it's the community efficiency retrofit programs reserve fund and the establishment of a dc incentive program uh property tax supported reserve fund so those two reserve fund pieces together um else are cutting and i will move in second we'll open first reading for voting closing the vote motion carries 14 to 0 second reading any debate same mover and seconder seeing none we'll open that for voting carries 14 to 0 third and final reading same mover and seconder will open that for voting and carries 14 to 0 right the fourth vote that we'll do is bills 198 and 217 that includes the one the policies uh access and privacy policy as well as the uh free of fear services for all policies so those two will be together answer cutting and i will move in second we'll open first reading for voting carries 13 to 1 second reading any debate same mover and seconder seeing none we'll open second reading he carries 13 to 1 third and final reading same mover and seconder we'll open that for voting he carries 13 to 1 okay the next uh will be bill 240 which is 20 clerk road council cutting i will move and second it uh we'll open first reading for voting motion carries 11 to 3 second reading uh same mover and seconder any discussion seeing none we'll open this for voting motion carries 10 to 4 third and final reading we'll open that for voting same mover and seconder and carries 10 to 4 okay the next vote will be bills 196 and 243 this is the official plan amendment in zoning by-law at 168 meadow lily road south council cutting i will move in second to we'll open first reading carries 10 to 4 second reading uh same mover and seconder any discussion seeing none we'll open that for voting motion carries 10 to 4 third and final reading else for cutting i will move in second we'll open that for voting carries 10 to 4 right the next vote is the zoning by-law amendment debt 1890 and 1900 uh killed kill gorman way that's bill 242 mover and second we'll open first reading and carries 11 to 3 second reading any discussion same mover and seconder seeing none we'll open that for voting and carries 11 to 3 third and final reading of this bill same mover and seconder we'll open that for voting carries 11 to 3 next is the housekeeping zba at 801 sarnia this is bill 246 council cutting i will move in second we'll open that for voting and carries 14 to 0 i wouldn't need to be separate um we'll go to second reading on that any discussion seeing none we'll open that for voting carries 14 to 0 third and final reading of this item we'll open that for voting motion carries 14 to 0 right the next one that's separate is the uh bill related to the expropriation for the wellington gateway project that's vote number nine that's bill 247 we'll open that for voting and carries 13 to 1 second reading any discussion on second reading for this one seeing none we'll open that for voting motion carries 13 to 1 third reading uh bill 247 same mover and seconder we'll open that for voting and carries 13 to 1 okay we're at everything else so hopefully everybody got their votes separated they wanted yes counselor mccallister i'm sorry i just wanted to confirm was there one associated with the heritage designation okay perfect don't check yeah there's no bylaws associated with the conflict yeah all right good questions to ask though that's why that's why i put it okay uh so this is everything else then and um yeah so i'll it's counselor cutting i will move in second we're on first reading so open that for voting motion carries 14 to 0 second reading of all these bills any discussion on them seeing none we'll open that for voting carries 14 to 0 third and final reading of these bills cutting i will move in second we'll open third reading and enactment for voting motion carries 14 to 0 and that concludes the bylaws which means we're left with adjournment so i'll look for a motion to adjourn counselor mccallister seconded by counselor ferrera they'll do this by hand all those in favor of adjournment motion carries we are adjourned thank
 
 </details>
+
+---
+
+## Votes
+
+*29 substantive votes at this meeting (17 contested, 12 unanimous). Procedural motions excluded.*
+
+### 6.1. Expropriation of Lands - Wellington Gateway Project Civil Works - Phase 2 (As the "Approving Authority")
+
+> That Council convene as the Approving Authority pursuant to the provisions of the Expropriations Act, R.S.O. 1990, c.E.26, as amended, for the purpose of considering Communication No. 1 from the Deputy City Manager, Environment and Infrastructure with respect to the expropriation of the lands as ...
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+**Absent (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 6.1. Expropriation of Lands - Wellington Gateway Project Civil Works - Phase 2 (As the "Approving Authority")
+
+> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, with the concurrence of the Director, Construction and Infrastructure Services, on the advice of the Director, Realty Services, the following actions be taken with respect to the expropriation of lands as may ...
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+**Absent (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 6.2. Expropriation of Lands - Wellington Gateway Project Civil Works - Phase 2 (As the "Expropriating Authority") (Relates to Bill No. 247)
+
+> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, with the concurrence of the Director, Construction and Infrastructure Services, on the advice of the Director, Realty Services, the following actions be taken with respect to the expropriation of lands as may ...
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+**Absent (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 8.1. 8th Report of the Planning and Environment Committee
+
+> That the 8th Report of the Planning and Environment Committee BE APPROVED with the exception of items 7 (2.6), 12 (2.11), 13 (2.12), 15 (3.1), and 17 (3.3) to 21 (3.7)
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.1.7. (2.6) Heritage Alteration Permit Application by The Canada Life Assurance Company for 255 Dufferin Avenue, Downtown Heritage Conservation District (HAP25-024-L)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the staff report dated May 21, 2025, related to the application under Section 42 of the Ontario Heritage Act seeking approval for window replacement on the heritage designated pro...
+
+**✅ Motion Passed (12 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
+
+**Absent (2):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 8.1.12. (2.11) Update on Green Development Guidelines (Framework)
+
+> That the Green Development Guidelines Framework BE REFERRED to Civic Administration for an additional report back to the Planning and Environment Committee on scope and feasibility following a decision on provincial legislation Bill 17, Protect Ontario by Building Faster and Smarter Act, 2025, cu...
+
+**✅ Motion Passed (8 to 6) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (6):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 8.1.13. (2.12) Surplus School Sites Expression of Interest: 70 Jacqueline Street (former G.A. Wheable Adult and Continuing Education Centre) and 1366 Huron Street (severance of surplus land from St. Anne Catholic School)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the staff report dated May 21, 2025, related to the communication from the Ministry of Municipal Affairs & Housing for the surplus school sites at 70 Jacqueline Street and 1366 Hu...
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 8.1.15. (3.1) 20 Clarke Road (Z-25038) (Relates to Bill No. 240)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 2823522 Ontario Inc. (c/o Randy Mackay) relating to the property located at 20 Clarke Road: a)    the proposed by-law as appended to the staff report dated May ...
+
+**✅ Motion Passed (10 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke)
+
+**Absent (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 8.1.17. (3.3) 1890 & 1900 Kilgorman Way (Z-25045) (Relates to Bill No. 242)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Farhi Holdings Corporation relating to the property located at 1890 & 1900 Kilgorman Way, the proposed by-law as appended to the staff report dated May 21, 2025...
+
+**✅ Motion Passed (10 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke)
+
+**Absent (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 8.1.18. (3.4) 168 Meadowlily Road South (OZ-9763) (Relates to Bill No.'s 196 and 243)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Forever Homes Meadowlily Limited Partnership, relating to the property located at 168 Meadowlily Road South: a)    the proposed by-law as appended to the staff ...
+
+**✅ Motion Passed (9 to 5)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (5):** [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 8.1.19. (3.5) 1206 Oxford Street East & 17-19 Wistow Street (Z-25036) (Relates to Bill No. 244)
+
+> That the motion be amended to read as follows: That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 509482 Ontario Ltd. relating to the properties located at 1206 Oxford Street East and 17-19 Wistow Street:  a)   ...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.1.19. (3.5) 1206 Oxford Street East & 17-19 Wistow Street (Z-25036) (Relates to Bill No. 244)
+
+> That the motion, as amended, BE APPROVED
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.1.20. (3.6) Demolition Request - 197, 183, 179, 175 Ann Street, 86, 84 St. George Street, on Heritage Designated Property by Street George and Ann Block
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the staff report dated May 21, 2025, regarding the application under Section 34(1)(2) of the Ontario Heritage Act seeking to demolish the buildings known as the Kent Brewery (197 ...
+
+**✅ Motion Passed (11 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (3):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 8.1.21. (3.7) 299-307 Sarnia Road (Z-25039) (Relates to Bill No. 245)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Kimko Inc. and 20223388 Holdings Inc. (c/o Zelinka Priamo) relating to the properties located at 299-307 Sarnia Road: a)    the revised by-law, attached as Appe...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.2. 7th Report of the Strategic Priorities and Policy Committee
+
+> That the 7th Report of the Strategic Priorities and Policy Committee BE APPROVED with the exception of items 3 (2.2) and 7 (4.2)
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.3. 10th Report of the Infrastructure and Corporate Services Committee
+
+> That the 10th Report of the Infrastructure and Corporate Services Committee BE APPROVED with the exception of items 5 (2.4), 6 (2.5), 13 (4.1), 14 (4.2), and 16 (5.2)
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.3.13. (4.1) 2025 Council Policy Review (Relates to Bill No.'s 186 to 190, 197 to 237)
+
+> That, on the recommendation of the City Clerk, the following actions be taken with respect to the Policy for the Establishment and Maintenance of Council Polices:    a)    the proposed by-law (as appended to the staff report dated May 26, 2025 as Appendix "B") BE INTRODUCED at the Municipal Counc...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.3.16. (5.2) Concern Regarding an Infrastructure Renewal Project - Councillor S. Stevenson
+
+> That pursuant to section 13.6 of the Council Procedure By-law, the Council decision with respect to item 16 (5.2) having to do with Councillor Stevenson's Communication BE RECONSIDERED to provide for Councillor Stevenson to recast her vote.
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 8.4. 9th Report of the Community and Protective Services Committee
+
+> That the 9th Report of the Community and Protective Services Committee BE APPROVED with the exception of items 6 (4.1), 7 (4.2), and 8 (4.3).
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.4.7. (4.2) Memo - Affordable and Supportive Housing Agreement Templates (Relates to Bill No. 181)
+
+> That the motion BE AMENDED to include a new part that reads as follows: The Civic Administration BE DIRECTED to seek Council approval for contribution agreements, including loan agreements under the Affordable Housing Community Improvement Plan, for any highly supportive housing projects.
+
+**✅ Motion Passed (10 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (4):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins)
+
+**Absent (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 8.4.7. (4.2) Memo - Affordable and Supportive Housing Agreement Templates (Relates to Bill No. 181)
+
+> That the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.4.8. (4.3) RFP-2024-227 Approval of the Template Contribution Agreement for Highly Supportive Housing Projects at 248-256 Hill Street and 644-646 Huron Street (Relates to Bill No. 182)
+
+> That, on the recommendation of the Deputy City Manager, Housing and Community Growth the following actions be taken with respect to the staff report, dated May 20, 2025, related to RFP-2024-227 Approval of the Template Contribution Agreement for Highly Supportive Housing Projects at 248-256 Hill ...
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+**Absent (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 8.4.8. (4.3) RFP-2024-227 Approval of the Template Contribution Agreement for Highly Supportive Housing Projects at 248-256 Hill Street and 644-646 Huron Street (Relates to Bill No. 182)
+
+> That the motion BE AMENDED to include a new part that reads as follows: The Civic Administration BE DIRECTED to include provisions in all future agreements related to forgivable loans for highly supportive housing that allow Council to require repayment of the loan or impose other consequences if...
+
+**❌ Motion Failed (4 to 10)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Corrine Rahman](/councillors/current/c-rahman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 8.5. 2nd Report of the Budget Committee
+
+> That the 2nd Report of the Budget Committee BE APPROVED with the exception of item 4 (4.1).
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.5.4. (4.1) 2026 Annual Budget Update - Status Update
+
+> d)   the Civic Administration BE DIRECTED to exclude the following business cases in the 2026 Budget Update: ii)   Appendix B, Ref # - 2    Roadway Planning & Design – Reduced Road Network Improvements  v)   Appendix C, Ref # - 2    Recycling & Composting - Stop Multi-Residential Green Bin Cart P...
+
+**❌ Motion Failed (7 to 7) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (7):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 8.5.4. (4.1) 2026 Annual Budget Update - Status Update
+
+> d)   the Civic Administration BE DIRECTED to exclude the following business cases in the 2026 Budget Update: i)    Appendix B, Ref # - 1    Roadway Maintenance – Reduced Summer Sidewalk Maintenance
+
+**✅ Motion Passed (9 to 5)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (5):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins)
+
+**Absent (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 8.5.4. (4.1) 2026 Annual Budget Update - Status Update
+
+> d)   the Civic Administration BE DIRECTED to exclude the following business cases in the 2026 Budget Update:  iii)  Appendix B, Ref # - 3    Urban Forestry - Reduction in Pathway and Trail Edge Brush Mulching  iv)  Appendix B, Ref # - 5    Aquatics – Closure of 5 Wading Pools vii)  Appendix C, Re...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 12. Emergent Motions
+
+> That pursuant to section 20.1 of the Council Procedure By-law, leave be granted to allow Councillor S. Trosow to move a motion related to AMO's submission related to Bill 5, Protect Ontario by Unleashing our Economy Act, 2025.
+
+**❌ Motion Failed (9 to 5)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (5):** [Shawn Lewis](/councillors/current/s-lewis), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 13. By-laws
+
+> That Third and Enactment of Bill No. 198 and 217  BE APPROVED.
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+**Absent (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+

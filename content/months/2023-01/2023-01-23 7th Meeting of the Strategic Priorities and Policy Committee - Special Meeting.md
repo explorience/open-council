@@ -231,3 +231,59 @@ The meeting adjourned at 11:45 PM.
 
 ****
 
+---
+
+## Votes
+
+*4 substantive votes at this meeting (2 contested, 2 unanimous). Procedural motions excluded.*
+
+### 4.1. Developing the 2023-2027 Strategic Plan: Setting the Strategic Areas of Focus, Outcomes and Expected Results
+
+> That pursuant to section 33.8 of the Council Procedure by-law, the Committee BE PERMITTED to proceed beyond 11:00 PM.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 4.1. Developing the 2023-2027 Strategic Plan: Setting the Strategic Areas of Focus, Outcomes and Expected Results
+
+> That the draft "Wellbeing and Safety" strategic focus BE AMENDED in Outcome 1, Expected Results, part e) by removing the words "noise reduction".
+
+**✅ Motion Passed (10 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins)
+
+**Absent (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 4.1. Developing the 2023-2027 Strategic Plan: Setting the Strategic Areas of Focus, Outcomes and Expected Results
+
+> That the draft strategic area of focus, Wellbeing and Safety, including draft outcomes and expected results, BE CONSIDERED and BE SHARED with the community to seek feedback., excluding part e) of Expected Results. London has safe, vibrant, and healthy neighbourhoods and communities. Expected Resu...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 4.1. Developing the 2023-2027 Strategic Plan: Setting the Strategic Areas of Focus, Outcomes and Expected Results
+
+> That the draft "Wellbeing and Safety" strategic focus Outcome 1, Expected Results, part e) of Outcome 1, BE APPROVED. e)  Improved traffic safety, traffic calming
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+**Absent (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+

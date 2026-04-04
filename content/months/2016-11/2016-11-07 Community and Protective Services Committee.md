@@ -134,3 +134,26 @@ Motion
 
 ****
 
+---
+
+## Votes
+
+*1 substantive vote at this meeting (1 contested, 0 unanimous). Procedural motions excluded.*
+
+### 2. Vehicle for Hire
+  By-law - Action Items From Public Participation Meeting
+
+> Motion   Passed    Voting   Record:   Motion   to Approve part a) i).   Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
+
+**Nay (2):** [Matt Brown](/councillors/current/m-brown), [Virginia Ridley](/councillors/current/v-ridley)
+
+</details>
+

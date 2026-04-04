@@ -90,6 +90,22 @@ interface CouncillorVotesFile {
   votes: VoteRecord[]
 }
 
+// Check if a motion is procedural (routine/administrative) vs substantive
+function isProcedural(motionText: string | undefined): boolean {
+  if (!motionText) return false
+  const text = motionText.toLowerCase()
+  return (
+    /be received/i.test(text) ||
+    /be noted/i.test(text) ||
+    /minutes.*be approved/i.test(text) ||
+    /be adjourned/i.test(text) ||
+    /closed session/i.test(text) ||
+    /public participation meeting/i.test(text) ||
+    /first reading|second reading|third reading/i.test(text) ||
+    /consent items/i.test(text)
+  )
+}
+
 // Extract motion text from content item
 function extractMotionText(content: ContentItem): string {
   const parts: string[] = []
@@ -351,12 +367,114 @@ async function main() {
     console.log(`   ✓ ${registry[canonicalName].displayName}: ${votes.length} votes`)
   }
 
+  // ─── Phase 1: Aggregate all councillor votes into _all-motions.json ───
+  console.log("\n📊 Aggregating all motions...")
+
+  const motionMap = new Map<string, {
+    date: string
+    meetingSlug: string
+    meetingTitle: string
+    meetingType: string
+    meetingUrl: string
+    itemNumber: string
+    itemTitle: string
+    motionText: string
+    result: string
+    passed: boolean
+    unanimous: boolean
+    procedural: boolean
+    yeas: string[]
+    nays: string[]
+    absent: string[]
+  }>()
+
+  // Read all councillor vote files and aggregate
+  for (const [slug, votes] of Object.entries(councillorVotes)) {
+    if (votes.length === 0) continue
+
+    // Find display name for this councillor
+    const canonicalName = Object.keys(registry).find(
+      name => registry[name].slug === slug
+    )!
+    const displayName = registry[canonicalName].displayName
+
+    for (const vote of votes) {
+      // Create a unique key for each motion
+      const motionKey = `${vote.date}|${vote.meetingSlug}|${vote.itemNumber}|${vote.motionText}`
+
+      if (!motionMap.has(motionKey)) {
+        motionMap.set(motionKey, {
+          date: vote.date,
+          meetingSlug: vote.meetingSlug,
+          meetingTitle: vote.meetingTitle,
+          meetingType: vote.meetingType,
+          meetingUrl: vote.meetingUrl,
+          itemNumber: vote.itemNumber,
+          itemTitle: vote.itemTitle,
+          motionText: vote.motionText,
+          result: vote.result,
+          passed: vote.passed,
+          unanimous: vote.unanimous,
+          procedural: isProcedural(vote.motionText),
+          yeas: [],
+          nays: [],
+          absent: [],
+        })
+      }
+
+      const motion = motionMap.get(motionKey)!
+      if (vote.vote === "yea") motion.yeas.push(displayName)
+      else if (vote.vote === "nay") motion.nays.push(displayName)
+      else if (vote.vote === "absent") motion.absent.push(displayName)
+    }
+  }
+
+  // Convert to array with IDs, sorted by date descending then item number
+  const allMotions = Array.from(motionMap.values())
+    .map(m => ({
+      id: crypto.createHash("sha256")
+        .update(`${m.date}|${m.meetingSlug}|${m.itemNumber}|${m.motionText}`)
+        .digest("hex")
+        .slice(0, 12),
+      ...m,
+      margin: Math.abs(m.yeas.length - m.nays.length),
+    }))
+    .sort((a, b) => {
+      const dateCompare = b.date.localeCompare(a.date)
+      if (dateCompare !== 0) return dateCompare
+      return a.itemNumber.localeCompare(b.itemNumber)
+    })
+
+  const substantiveCount = allMotions.filter(m => !m.procedural).length
+  const contestedCount = allMotions.filter(m => !m.procedural && !m.unanimous).length
+
+  const allMotionsFile = {
+    generatedAt: new Date().toISOString(),
+    sourceHash,
+    totalMotions: allMotions.length,
+    substantiveMotions: substantiveCount,
+    contestedMotions: contestedCount,
+    motions: allMotions,
+  }
+
+  await fs.writeFile(
+    path.join(outputDir, "_all-motions.json"),
+    JSON.stringify(allMotionsFile)
+  )
+
+  console.log(`   Total motions: ${allMotions.length}`)
+  console.log(`   Substantive: ${substantiveCount}`)
+  console.log(`   Contested: ${contestedCount}`)
+
   // Write metadata file
   const metaFile = {
     generatedAt: new Date().toISOString(),
     sourceHash,
     totalMeetings,
     councillorsWithVotes,
+    totalMotions: allMotions.length,
+    substantiveMotions: substantiveCount,
+    contestedMotions: contestedCount,
   }
   await fs.writeFile(
     path.join(outputDir, "_meta.json"),
@@ -366,6 +484,7 @@ async function main() {
   console.log(`\n✅ Vote extraction complete!`)
   console.log(`   Meetings processed: ${totalMeetings}`)
   console.log(`   Councillors with votes: ${councillorsWithVotes}`)
+  console.log(`   All motions aggregated: ${allMotions.length}`)
 }
 
 // Find votes and attribute to councillors

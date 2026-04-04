@@ -477,3 +477,56 @@ The meeting adjourned at 12:40 PM.
 
 ****
 
+---
+
+## Votes
+
+*5 substantive votes at this meeting (1 contested, 4 unanimous). Procedural motions excluded.*
+
+### 2.4. Delegation of Authority By-law: Environment and Infrastructure Approvals and Agreements
+
+> That the staff report regarding Delegating of Authority By-law: Environment and Infrastructure Approvals and Agreements BE REFERRED to the May 1, 2023 Corporate Services Committee for consideration; it being noted that additional work on the proposed by-law is required.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.8. Members of Council Proof of COVID-19 Vaccination Policy
+
+> That on the recommendation of the City Clerk, the by-law as appended to the staff report dated April 11, 2023 as Appendix “A” BE INTRODUCED at the Municipal Council meeting to be held on April 25, 2023 to repeal By-law No. CPOL.-407-321, and any amendments thereto, being “A by-law to adopt Member...
+
+**✅ Motion Passed (5 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis)
+
+**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+</details>
+
+### 2.9. Standing Committee Meetings and Annual Meeting Calendar
+
+> That the 2024 Standing Committee Meetings and Annual Meeting Calendar Report BE REFERRED to the Governance Working Group for consideration of moving standing committee meetings to regular City Hall business hours for all standing committees, effective December 1, 2023.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4. Items for Direction
+
+> That Items 4.1 to 4.4 BE APPROVED, as submitted.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.5. Board of Directors - Federation of Canadian Municipalities (FCM)
+
+> That the following actions be taken with respect to the communication dated March 29, 2023 from Councillor S. Franke regarding standing for election to the Federation of Canadian Municipalities' Board of Directors and her associated expenses:    WHEREAS the Federation of Canadian Municipalities (...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

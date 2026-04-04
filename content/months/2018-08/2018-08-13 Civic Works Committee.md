@@ -429,3 +429,41 @@ That it BE NOTED Councillor H. Usher enquired about the water break on Meg Drive
 
 The meeting adjourned at 1:54PM.
 
+---
+
+## Votes
+
+*4 substantive votes at this meeting (0 contested, 4 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> Approve items 2.1 to 2.13
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.1. Complete Streets Design Manual
+
+> That, on the recommendation of the Managing Director, Environmental & Engineering Services and City Engineer, the following actions be taken with respect to the City of London Complete Streets Design Manual: (a)  the Complete Streets Design Manual, as summarized in the Executive Summary included ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.2. Adelaide Street North - Canadian Pacific Railway Grade Separation - Environmental Study Report
+
+> That, on the recommendation of the Managing Director, Environmental & Engineering Services and City Engineer, the following actions BE TAKEN with respect to the Adelaide Street North/Canadian Pacific Railway Grade Separation Municipal Class Environmental Assessment: a)  the Adelaide Street North/...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.1. Springhill Flowers Street Renaming Portion of Pleasantview Drive (From South Weinge Drive to Rollingacres) and Pleasantview Drive (South of Waterwheel Road) to Pleasantview Court
+
+> That, on the recommendation of the Director, Development Services,  a public meeting for the proposed renaming of the portion of Pleasantview Drive (between South Wenige Drive and Rollingacres Drive) to Rollingacres Drive and the portion of Pleasantview Drive (south of Waterwheel Drive) to Pleasa...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+

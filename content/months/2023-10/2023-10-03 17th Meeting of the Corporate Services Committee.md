@@ -676,3 +676,18 @@ I'm just gonna ask Councilor Stevenson to report out from our confidential sessi
 And that concludes our agenda today. So I just need a motion to adjourn. Moved by Councilor Stevenson, seconded by everybody, all those in favor. Motion carries.
 
 </details>
+
+---
+
+## Votes
+
+*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
+
+### 4.3. (ADDED) Application - Issuance of Proclamation - Turkish Republic Day
+
+> That based on the application dated September 29, 2023 from the Federation of Canadian Turkish Associations, October 29, 2023 BE PROCLAIMED Turkish Republic Day.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+

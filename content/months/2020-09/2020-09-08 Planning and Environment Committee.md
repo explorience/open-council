@@ -700,3 +700,72 @@ The meeting adjourned at 6:13 PM.
 
 ****
 
+---
+
+## Votes
+
+*7 substantive votes at this meeting (1 contested, 6 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.3, inclusive, and 2.5 to 2.7, inclusive BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 2.4. Application - 230 North Centre Road (H-9234)
+
+> That, on the recommendation of the Director, Development Services, based on the application by Tricar Properties Limited, relating to the property located at 230 North Centre Road, the proposed by-law appended to the staff report dated September 8, 2020 BE INTRODUCED at the Municipal Council meet...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.1. Application - 1176, 1200, 1230 Hyde Park Road and Portion of 1150 Gainsborough Road 39T-19502 (Z-9040)
+
+> That, on the recommendation of the Director, Development Services, the application by Northwest Crossing London Limited, relating to the property located at 1176, 1200, 1230 Hyde Park Road and a portion of 1150 Gainsborough Road, the proposed revised, attached, by-law BE INTRODUCED at the Municip...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.2. Application - 3557 Colonel Talbot Road (Z-9003)
+
+> That, the following actions be taken with respect to the application by 1423197 Ontario Inc. (Royal Premier Homes), relating to the property located at 3557 Colonel Talbot Road: a) the proposed, revised, attached by-law BE INTRODUCED at the Municipal Council meeting to be held on September 15, 20...
+
+**✅ Motion Passed (5 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (1):** [Ed Holder](/councillors/current/e-holder)
+
+</details>
+
+### 3.3. Removing References to 1989 Official Plan from Zoning By-law Z.-1 (Z-8909)
+
+> That, on the recommendation of the Director, City Planning and City Planner, the proposed by-law appended to the staff report dated September 8, 2020 as Appendix "B" BE INTRODUCED at the Municipal Council meeting to be held on September 15, 2020 to amend Zoning By-law No. Z.-1 by deleting certain...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. 5th Report of the London Advisory Committee on Heritage
+
+> That the following actions be taken with respect to the 5th Report of the London Advisory Committee on Heritage from its meeting held on August 12, 2020: a)  that the following actions be taken with respect to the Notice of Planning Application, dated May 19, 2020, from L. Davies Snyder, Planner ...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 5.1. Deferred Matters List
+
+> That the Managing Director, Planning and City Planner and the Managing Director, Development and Compliance Services & Chief Building Official BE DIRECTED to update the Deferred Matters List to remove any items that have been addressed by the Civic Administration, with the exception of Item 4, In...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

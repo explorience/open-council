@@ -315,3 +315,33 @@ The Civic Works Committee convened, In Closed Session, from 4:18 PM to 4:28 PM.
 
 The meeting adjourned at 4:29 PM.
 
+---
+
+## Votes
+
+*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.6 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.7. By-law and Vehicle Lease Agreements - Urban Animal Management Inc. and Tourism London
+
+> That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the following actions be taken with respect to Vehicle Lease Agreements for the London Animal Care Centre and Tourism London: a)           the proposed by-law, as appended to the staff ...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.8. Kilally Fields - Closing of Elgin Street on Registered Plan 325(C)
+
+> That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the proposed by-law, as appended to the staff report dated November 19, 2019, being "A By-law to stop up and close Elgin Street on Registered Plan 325(C), East of Adelaide", BE INTRODUC...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

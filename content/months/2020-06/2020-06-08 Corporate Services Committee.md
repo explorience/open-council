@@ -152,3 +152,25 @@ The Corporate Services Committee convenes, In Closed Session, from 12:32 PM to 1
 
 The meeting adjourned at 12:59 PM.
 
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2.1. Agreement Between The City of London and Donald Jones Management Services Inc. - Management of Centennial Hall
+
+> That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the proposed by-law appended to the staff report dated June 8, 2020 as Appendix “A” BE INTRODUCED at the Municipal Council meeting to be held on June 16, 2020 to:    a)     approv...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.2. Standing Committee Meetings and Annual Meeting Calendar
+
+> That the matter of the Annual Meeting Calendar BE REFERRED to the next meeting of the Corporate Services Committee for additional discussion.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

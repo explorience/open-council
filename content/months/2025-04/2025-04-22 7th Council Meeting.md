@@ -3221,3 +3221,261 @@ Motion carries 13 to two. That concludes by-laws. That means I'm just looking fo
 Motion carries. That carries, we're adjourned.
 
 </details>
+
+---
+
+## Votes
+
+*20 substantive votes at this meeting (13 contested, 7 unanimous). Procedural motions excluded.*
+
+### 8.1. 7th Report of the Infrastructure and Corporate Services Committee
+
+> That the 7th Report of the Infrastructure and Corporate Services Committee BE APPROVED with the exception of items 9 (2.1), and 10 (4.1).
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.1.9. (2.1) 2026 Municipal and School Board Elections Update (Relates to Bill No. 139)
+
+> That, on the recommendation of the City Clerk, the following actions be taken with respect to the 2026 Municipal Election: a)    the City Clerk BE DIRECTED to request local school boards to consider scheduling a Professional Activity Day (PA Day) on Voting Day, October 26, 2026, as elementary and...
+
+**✅ Motion Passed (8 to 7) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (7):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 8.1.9. (2.1) 2026 Municipal and School Board Elections Update (Relates to Bill No. 139)
+
+> That, on the recommendation of the City Clerk, the following actions be taken with respect to the 2026 Municipal Election: b)    the proposed by-law, as appended to the staff report dated April 9, 2025 as Appendix ‘A’ BE INTRODUCED at the Council meeting to be held on April 22, 2025 to authorize ...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.1.10. (4.1) Review of Winter Maintenance Performance Regarding Snow and Ice Removal - Councillors S. Franke and C. Rahman
+
+> That part b) iii) of the motion be amended to read as follows: b) iii)  investigating alternative options for snow and ice removals on roads, laneways, and sidewalks; and
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.1.10. (4.1) Review of Winter Maintenance Performance Regarding Snow and Ice Removal - Councillors S. Franke and C. Rahman
+
+> That the following actions be taken with respect to the Review of Winter Maintenance Performance regarding Snow and Ice Removal: a)    the Civic Administration BE DIRECTED to report back to a future meeting of the Infrastructure and Corporate Services Committee regarding amendments to the Minimum...
+
+**✅ Motion Passed (10 to 5)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (5):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 8.1.10. (4.1) Review of Winter Maintenance Performance Regarding Snow and Ice Removal - Councillors S. Franke and C. Rahman
+
+> That the following actions be taken with respect to the Review of Winter Maintenance Performance regarding Snow and Ice Removal: b)   the City’s 2024/2025 winter maintenance performance, challenges and opportunities for potential service improvements BE REVIEWED, including but not limited to: i) ...
+
+**✅ Motion Passed (12 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (3):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 8.2. 7th Report of the Community and Protective Services Committee
+
+> That the 7th Report of the Community and Protective Services Committee BE APPROVED with the exception of items 8 (2.7) and 9 (5.1).
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.2.8. (2.7) Emergency Treatment Fund (ETF) Approval of Federal Contribution Agreement (Reducing Substance Use Harms Through Basic Needs and Healthcare at 602 Queens "The Commons") (Relates to Bill No. 132)
+
+> That the following actions be taken with respect to the staff report, dated April 7, 2025, related to the Emergency Treatment Fund (ETF) Approval of Federal Contribution Agreement (Reducing Substance Use Harms Through Basic Needs and Healthcare at 602 Queens “The Commons”): a)    the proposed by-...
+
+**✅ Motion Passed (13 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 8.2.9. (5.1) Watson Park
+
+> That part a) be amended to read as follows: a)   the Civic Administration BE DIRECTED to assist with the relocation of those living unhoused in Watson Park, to ensure that Watson Park is in compliance with established encampment protocols, and connect them with appropriate service supports, inclu...
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+</details>
+
+### 8.2.9. (5.1) Watson Park
+
+> That the following actions be taken with respect to Watson Park: a)   the Civic Administration BE DIRECTED to assist with the relocation of those living unhoused in Watson Park, to ensure that Watson Park is in compliance with established encampment protocols, and connect them with appropriate se...
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+</details>
+
+### 8.2.9. (5.1) Watson Park
+
+> That the following actions be taken with respect to Watson Park: b)    the Civic Administration BE DIRECTED to cease the operation of the Watson Park depot and move to the recently approved mobile service model as soon as possible and that, in the interim period, depot resources be reallocated to...
+
+**✅ Motion Passed (9 to 6) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (6):** [Josh Morgan](/councillors/current/j-morgan), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 8.3. 6th Report of the Planning and Environment Committee
+
+> That the 6th Report of the Planning and Environment Committee BE APPROVED with the exception of items 4 (3.1), 6 (3.3), and 10 (3.7).
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.3.4. (3.1) 3095 Bostwick Road (Z-9791/O-25032) (Relates to Bill No.'s 136 and 146)
+
+> that part c) be amended to include i) to read as follows: i)    The subdivision approval authority include a draft plan condition specific to natural heritage compensation for the 1.27 hectares of feature removal, consisting of 0.57 ha of wetlands and 0.70 ha of woodlands, to demonstrate no net l...
+
+**❌ Motion Failed (5 to 10)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 8.3.4. (3.1) 3095 Bostwick Road (Z-9791/O-25032) (Relates to Bill No.'s 136 and 146)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Southside Construction Management Ltd. relating to the property located at 3095 Bostwick Road:    a)     the proposed by-law as appended to the staff report dat...
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+</details>
+
+### 8.3.6. (3.3) 1622 Evans Boulevard (OZ-25010) (Relates to Bill No.'s 137 and 148)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Drewlo Holdings Inc. relating to the property located at 1620 Evans Boulevard (formerly 1622 Evans Boulevard): a)    the proposed by-law as appended to the staf...
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 8.3.10. (3.7) 801 Sarnia Road (OZ-25017)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Royal Premier Homes (c/o Siv-ik Planning and Design Inc.) relating to the property located at 801 Sarnia Road:    a)    the request to amend the Official Plan f...
+
+**❌ Motion Failed (5 to 10)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 8.3.10. (3.7) 801 Sarnia Road (OZ-25017)
+
+> that the motion be amended to add a new e) part that reads as follows: e)   the applicant BE REQUESTED to meet with Municipal Housing and Industrial Development (MHID) to explore viable contributions Royal Premier Homes can make to affordable housing initiatives in the city. At 4:09 PM, His Worsh...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.3.10. (3.7) 801 Sarnia Road (OZ-25017)
+
+> Notwithstanding the recommendation of the Director, Planning and Development, the following actions, as amended, be taken with respect to the application of Royal Premiere Homes relating to the property located at 801 Sarnia Road: a)    the proposed by-law (attached as Appendix A) BE INTRODUCED a...
+
+**✅ Motion Passed (13 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+
+### 8.4. 5th Report of the Strategic Priorities and Policy Committee
+
+> That the 5th Report of the Strategic Priorities and Policy Committee BE APPROVED with the exception of item 2 (2.1).
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.4.2. (2.1) Economic Development Strategy: Appointment of Consultant for RFP 2025-004
+
+> That, on the recommendation of the City Manager, the following actions be taken with respect to the appointment of a consultant for the development of the Economic Development Strategy:    a)    Deloitte LLP BE APPOINTED as the Consultant to undertake the development of the Economic Development S...
+
+**✅ Motion Passed (13 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow)
+
+</details>
+

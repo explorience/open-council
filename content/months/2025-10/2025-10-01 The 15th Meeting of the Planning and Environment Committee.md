@@ -1708,3 +1708,112 @@ That brings us to the end of the agenda. I'll look for a motion to adjourn. Coun
 Motion carries. Means adjourned. Thank you.
 
 </details>
+
+---
+
+## Votes
+
+*11 substantive votes at this meeting (2 contested, 9 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.2 to 2.3 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.1. Heritage Designation of the Property at 1511 Clarke Road
+
+> That, on the recommendation of the Director, Planning and Development, with respect to the property at 1511 Clarke Road, the following actions be taken: a)    notice BE GIVEN under the provisions of Section 29(3) of the Ontario Heritage Act R.S.O 1990, c. O. 18, of the Municipal Council’s intenti...
+
+**❌ Motion Failed (1 to 4) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (4):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 3.1. 6th Report of the Community Advisory Committee on Planning
+
+> That the motion be amended to add a new part that reads as follows: the Civic Administration BE DIRECTED to prioritize the Priority Listed Properties identified in the Report of the Community Advisory Committee on Planning (CACP).
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.1. 6th Report of the Community Advisory Committee on Planning
+
+> That the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.2. Demolition Request for 533 Clarence Street, West Woodfield Heritage Conservation District
+
+> That, on the recommendation of the Director, Planning and Development, the application made under Section 42 of the Ontario Heritage Act seeking approval to demolish the existing building on the heritage designated property at 533 Clarence Street, within the West Woodfield Heritage Conservation D...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.3. 590 Gainsborough Road - Z-25093
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Heikal Group Inc. – Mostafa Heikal (c/o Monteith Brown Planning Consultants) relating to the property located at 590 Gainsborough Road: a)    the proposed by-la...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.4. 3317 White Oak Road - OZ-25088
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 3317 White Oak Rd Inc. c/o KLM Planning Partners Inc. relating to the property located at 3317 White Oak Road: a)    the request to amend The Official Plan for ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.5. 1511 Clarke Road - 39T-24505
+
+> Notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Sifton Properties Limited relating to the property located at 1511 Clarke Road (Caverhill West): a)    The proposed attached by-law BE INTRODUCED at the ...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 3.6. 1887 Kilally Road - Official Plan Amendment (City Initiated)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by the City of London relating to 1887 Kilally Road Official Plan Amendments to Map 7 – Specific Policy Areas and Map 3 – Street Classifications: a)    the propose...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.7. Official Plan Review of The London Plan: Final Industrial Land Needs Assessment, Urban Growth Boundary Review Update, and Process Updates
+
+> That the motion BE AMENDED to include a new part that reads as follows: the Civic Administration BE DIRECTED to include in the final Official Plan Review of The London Plan: Urban Growth Boundary Review report a summary table of the net developable land area for landowner submissions received in ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.7. Official Plan Review of The London Plan: Final Industrial Land Needs Assessment, Urban Growth Boundary Review Update, and Process Updates
+
+> That the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

@@ -1259,3 +1259,138 @@ We have two items by which we are going in camera, and those items are outlined 
 Reporting that Committee went into closed session, that progress was made on all items for which we went into camera. Thank you, with that, I'll look for a motion to adjourn. Councillor Stevenson, Councillor Frank, thank you, all those in favor by hand, motion carries. Thanks everyone.
 
 </details>
+
+---
+
+## Votes
+
+*11 substantive votes at this meeting (6 contested, 5 unanimous). Procedural motions excluded.*
+
+### 2.2. Federation of Canadian Municipalities: Green Municipal Fund Agreement for Accelerating Community Energy Systems
+
+> That on the recommendation of the Deputy City Manager, Environment & Infrastructure, the proposed by-law, as appended to the staff report dated February 23, 2026 as Appendix “A” BE INTRODUCED at the Municipal Council meeting to be held on March 3, 2026, to: a)    APPROVE the Green Municipal Fund ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.3. Federation of Canadian Municipalities: Green Municipal Fund Agreement for Municipal Fleet Decarbonization Feasibility Study
+
+> That on the recommendation of the Deputy City Manager, Environment & Infrastructure, the proposed by-law, as appended to the staff report dated February 23, 2026 as Appendix “A”, BE INTRODUCED at the Municipal Council meeting to be held  on March 3, 2026, to: a)    APPROVE the Green Municipal Fun...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
+
+### 2.8. Restricted Acts of Council after Nomination Day and Voting Day
+
+> That the staff report dated February 23, 2026 to delegate certain authority, should Municipal Council’s actions be restricted after Nomination Day and/or Voting Day in 2026 BE REFERRED to the Civic Administration to report back to a future meeting of the Infrastructure and Corporate Services Comm...
+
+**✅ Motion Passed (3 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Susan Stevenson](/councillors/current/s-stevenson), [Corrine Rahman](/councillors/current/c-rahman), [Skylar Franke](/councillors/current/s-franke)
+
+**Nay (2):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 2.9. Contract Award: Tender No. RFT-2025-223 Wellington Gateway and Municipal Infrastructure Improvements Phase 2A – Wilkins Street to Baseline Road
+
+> That on the recommendation of the Deputy City Manager, Environment & Infrastructure, the following actions be taken with respect to the award of contracts for Wellington Gateway and Municipal Infrastructure Improvements Phase 2A – Wilkins Street to Baseline Road; it being noted that in accordance...
+
+**✅ Motion Passed (3 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Corrine Rahman](/councillors/current/c-rahman), [Skylar Franke](/councillors/current/s-franke)
+
+**Nay (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 2.10. Limited Tendering and Cooperative Procurement - LTC Purchase of Nine New Buses
+
+> That on the recommendation of the Deputy City Manager, Environment & Infrastructure, the following actions be taken with respect to funding for the purchase of new London Transit Commission buses: a)    approval BE GIVEN to finance the London Transit Commission purchase of nine 60-foot buses requ...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson), [Corrine Rahman](/councillors/current/c-rahman), [Skylar Franke](/councillors/current/s-franke)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 2.13. Update to Council Policy - Travel and Business Expenses
+
+> That the staff report dated February 23, 2026 to amend By-law No. CPOL.-227-479, being “A by-law to revoke and repeal Council policy related to Travel & Business Expenses and replace it with a new Council policy entitled Travel & Business Expenses,” to repeal and replace Schedule “A” to the by-la...
+
+**❌ Motion Failed (0 to 5)**
+
+<details>
+<summary>View roll call</summary>
+
+**Nay (5):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke)
+
+</details>
+
+### 2.13. Update to Council Policy - Travel and Business Expenses
+
+> That the motion BE AMENDED to include a new part that reads as follows: the Civic Administration BE DIRECTED to prepare two separate policies: one governing Travel and Business Expenses for Civic Administration, and a second governing Travel and Business Expenses for Members of Council, and to re...
+
+**✅ Motion Passed (3 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Susan Stevenson](/councillors/current/s-stevenson), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Nay (2):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Skylar Franke](/councillors/current/s-franke)
+
+</details>
+
+### 2.13. Update to Council Policy - Travel and Business Expenses
+
+> That the motion, as amended, BE APPROVED
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.1. Traffic Calming - Councillor C. Rahman
+
+> That the delegation requests from B. Samuels; D. Cameron, Advocates for Calmer Traffic in Old North (ACTION); and C. L. Mitchell, Associate Professor, School of Planning, University of Waterloo, Fellow, Balsillie School of International Affairs, BE APPROVED to be heard at this time.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.1. Traffic Calming - Councillor C. Rahman
+
+> That the motion BE AMENDED to add a new part c) that reads as follows: that Civic Administration BE DIRECTED to report back on any recommendations for additional resources.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.1. Traffic Calming - Councillor C. Rahman
+
+> That the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

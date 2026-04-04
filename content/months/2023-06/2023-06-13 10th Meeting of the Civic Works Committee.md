@@ -418,3 +418,42 @@ That the communication as appended to the Added Agenda, from B. Samuels, Chair, 
 
 The meeting adjourned at 3:00 PM.
 
+---
+
+## Votes
+
+*3 substantive votes at this meeting (1 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.6 BE APPROVED; it being noted that clause 5.1 of the 6th Report of the Integrated Transportation Community Advisory Committee (ITCAC), was noted to require additional review by the Civic Administration with the ITCAC.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.1. Blackfriars Bridge - Long Term Use
+
+> Motion to approve parts a) and b) of the motion.
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 4.1. Core Area Parking Initiatives
+
+> That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to the staff report dated June 13, 2023, related to the Core Area Parking Initiatives: a)    the Civic Administration BE DIRECTED to bring forward a business case...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

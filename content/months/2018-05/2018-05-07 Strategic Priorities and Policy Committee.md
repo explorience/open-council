@@ -605,3 +605,38 @@ A matter pertaining to instructions and directions to officers and employees of 
 
 The meeting adjourned at 9:31 PM.
 
+---
+
+## Votes
+
+*3 substantive votes at this meeting (1 contested, 2 unanimous). Procedural motions excluded.*
+
+### 3.1. Public Participation Meeting - Not to be heard before 4:15 PM - Growth Management Implementation Strategy (GMIS)
+
+> That, on the recommendation of the Managing Director, Development and Compliance Services & Chief Building Official, the following actions be taken with regard to the implementation of the Official Plan growth management policies applicable to the financing of growth-related infrastructure works:...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 3.3. Not to be heard before 7:00 PM - Municipal Accommodation Tax - Implementation
+
+> That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the following actions be taken with respect to implementing the new Municipal Accommodation Tax (formerly “transient accommodation tax”):    a)            a four percent (4%) Muni...
+
+**✅ Motion Passed (12 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher)
+
+</details>
+
+### 4.1. 8th Report of the Governance Working Group
+
+> That the following actions be taken with respect to the 8th Report of the Governance Working Group from its meeting held on April 23, 2018:    a)         on the recommendation of the City Manager, the following actions be taken with respect to the Council Policy Manual Modernization:    i)       ...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+

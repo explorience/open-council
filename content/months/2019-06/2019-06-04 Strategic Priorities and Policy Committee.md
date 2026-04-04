@@ -1013,3 +1013,87 @@ That clause 5.2 of the 4th Report of the Community Safety and Crime Prevention 
 
 The meeting adjourned at 3:47 PM.
 
+---
+
+## Votes
+
+*6 substantive votes at this meeting (4 contested, 2 unanimous). Procedural motions excluded.*
+
+### 4.1. 1st Report of the Striking Committee
+
+> That the following actions be taken with respect to the 1st Report of the Striking Committee from its meeting held on May 9, 2019:    a)         B. Mackinnon BE ELECTED Chair and J. Hodge BE ELECTED Vice Chair of the Striking Committee;    b)         the following actions be taken with respect to...
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (11-0)
+
+### 4.1. 1st Report of the Striking Committee
+
+> That the following individuals BE APPOINTED to the Community Safety and Crime Prevention Advisory Committee for the term ending June 30, 2021: Izabela Bielaska  James A. Campbell  Luthra Devinder  Lorraine Fay  Bessie Fragis  Brian Gibson  Zygmunt M. Gorski  Montanna Hackett  Tariq Khan  Lauren K...
+
+**✅ Motion Passed (10 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+</details>
+
+### 4.1. 1st Report of the Striking Committee
+
+> That Jamieson Roberts be included on the slate of nominees for consideration for appointment to the Cycling Advisory Committee.
+
+**✅ Motion Passed (8 to 5) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Shawn Lewis](/councillors/current/s-lewis), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (3):** [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/current/e-holder)
+
+</details>
+
+### 4.1. 1st Report of the Striking Committee
+
+> That the following actions be taken with respect to the appointments to the Diversity, Inclusion and Anti-Oppression Advisory Committee for the term ending June 30, 2021: i)          the following individuals BE APPOINTED: Janice Braithwaite  Michael Buzzelli  Florence Cassar  Cori DuHasky  Zeba ...
+
+**✅ Motion Passed (11 to 0)**
+
+Unanimous (9-0)
+
+### 4.1. 1st Report of the Striking Committee
+
+> That only ballots for the Cycling Advisory Committee nominees, that are complete with full rankings of all nominees BE COUNTED on the preferred ballot for consideration of appointments.
+
+**✅ Motion Passed (9 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire)
+
+**Absent (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Ed Holder](/councillors/current/e-holder)
+
+</details>
+
+### 4.1. 1st Report of the Striking Committee
+
+> That the following individuals BE APPOINTED to the Cycling Advisory Committee for the term ending June 30, 2021: Kate Brawn  Ben Cowie  Christopher DeGroot  Rebecca Henderson  Benjamin Hill  Jason Jordan  Craig Linton  Chris Pollett  Ernie L. Raftis  Jamieson Roberts  Olivia Toth it being noted t...
+
+**✅ Motion Passed (6 to 5) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (3):** [Elizabeth Peloza](/councillors/current/e-peloza), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih)
+
+**Absent (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Ed Holder](/councillors/current/e-holder)
+
+</details>
+

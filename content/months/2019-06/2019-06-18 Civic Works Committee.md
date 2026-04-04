@@ -630,3 +630,71 @@ That it BE NOTED that the Deferred Matters List as of June 17, 2019, was receive
 
 The meeting adjourned at 5:48 PM.
 
+---
+
+## Votes
+
+*6 substantive votes at this meeting (2 contested, 4 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That all items except 2.4, 2.8, 2.9 and 2.19, BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 2.4. Single Source Procurement - Greenway Reheater
+
+> That, on the recommendation of the Managing Director of Environmental and Engineering Services and City Engineer, the following actions be taken with respect to the procurement of a replacement reheater at the Greenway Wastewater Treatment Plant: a)            the approval hereby BE GIVEN to ente...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 2.8. Amendments to the Traffic and Parking By-law
+
+> That on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the proposed by-laws appended to the staff report dated June 18, 2019 as Appendix ‘A’ and ‘B’ BE INTRODUCED at the Municipal Council meeting to be held on June 25, 2019, for the purpose ...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 2.9. 2020 Annual New Sidewalk Program
+
+> That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the sidewalk candidates proposed for the 2020 Annual New Sidewalk Program BE ENDORSED for implementation in 2020; it being noted that the Civic Works Committee received a communication ...
+
+**✅ Motion Passed (3 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+**Nay (1):** [Michael van Holst](/councillors/current/m-van-holst)
+
+</details>
+
+### 2.19. Work Approval Permit Program Enhancements
+
+> That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer and Managing Director, Development and Compliance Services and Chief Building Official, the Work Approval Permit Program BE MODIFIED in general accordance with the recommendations contai...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 4.2. Councillor M. van Holst - Best Practices for Investing in Energy Efficiency and Greenhouse Gas Reduction
+
+> That Civic Administration BE REQUESTED to develop a set of guidelines to evaluate efficiency and Greenhouse Gas reduction investments and provide some suggested best practices. (2019-E17)
+
+**✅ Motion Passed (3 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+**Nay (1):** [Phil Squire](/councillors/current/p-squire)
+
+</details>
+

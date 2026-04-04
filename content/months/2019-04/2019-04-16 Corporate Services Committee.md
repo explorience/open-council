@@ -464,3 +464,69 @@ The Corporate Services Committee convened In Closed Session from 2:23 PM to 2:50
 
 The meeting adjourned at 2:51 PM.
 
+---
+
+## Votes
+
+*6 substantive votes at this meeting (2 contested, 4 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That items 2.3, 2.5, 2.6 and 2.7 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.4. Elected Officials and Appointed Citizen Members - 2019 Remuneration
+
+> That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer and the City Clerk, the 2018 remuneration for elected officials and appointed citizen members of local boards and commissions, where stipends are paid, BE ADJUSTED by 2.3% over 201...
+
+**❌ Motion Failed (3 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Jesse Helmer](/councillors/current/j-helmer)
+
+**Nay (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 2.4. Elected Officials and Appointed Citizen Members - 2019 Remuneration
+
+> That the following actions be taken with respect to 2019 remuneration: a)    notwithstanding the “Remuneration for Elected Officials and Appointed Citizen Members” policy NO ACTION BE TAKEN with respect to the 2019 remuneration for elected officials; and,
+
+**✅ Motion Passed (4 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Josh Morgan](/councillors/current/j-morgan), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 2.4. Elected Officials and Appointed Citizen Members - 2019 Remuneration
+
+> b)    the remuneration and stipends for appointed citizen members of local boards and commissions BE ADJUSTED in accordance with the existing, above-noted policy, for the year 2019.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.8. Development Charges Deferred Payment Agreement Italian Seniors' Project - 1090 Hamilton Road
+
+> That, on the recommendation of the Managing Director, Development & Compliance Services & Chief Building Official, with the concurrence of the Managing Director, Corporate Services & City Treasurer, Chief Financial Officer, the following actions be taken:    a)        the proposed by-law included...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. Council Member's Expense Account Policy
+
+> That the Governance Working Group BE DIRECTED to undertake a fulsome review of the Council Member's Expense Account Policy, including the amount of the annual allocation, during its review in the first quarter of 2020; it being noted that the Corporate Services Committee received a communication ...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

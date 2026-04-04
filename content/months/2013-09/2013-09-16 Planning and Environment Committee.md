@@ -76,3 +76,25 @@ Motion
 The
   meeting adjourned at 3:22 PM
 
+---
+
+## Votes
+
+*1 substantive vote at this meeting (1 contested, 0 unanimous). Procedural motions excluded.*
+
+### 2. City-Wide Zoning
+  By-law Monitoring Amendments Pertaining to Near-Campus Neighbourhood
+  Amendments (Z-8218)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Paul Hubert](/councillors/current/p-hubert), [Joe Fontana](/councillors/current/j-f-fontana), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill)
+
+</details>
+

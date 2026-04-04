@@ -213,3 +213,104 @@ The Corporate Services Committee convened
   in camera from 1:38 PM to 2:05 PM after having passed a motion to do so, with
   respect to the following matters:
 
+---
+
+## Votes
+
+*6 substantive votes at this meeting (6 contested, 0 unanimous). Procedural motions excluded.*
+
+### 2. Municipal Funding
+  Agreement Related to the Transfer of Federal Gas Tax Funds
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill)
+
+</details>
+
+### 3. Request for Amendments
+  - London Diversity and Race Relations Advisory Committee Terms of Reference
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill)
+
+</details>
+
+### 4. Agreement with the
+  Province of Ontario to Participate in the Ontario Certified Site Program with
+  the Ministry of Economic Development, Trade and Employment for 2475 Bonder
+  Road - Innovation Park, Phase IV
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill)
+
+</details>
+
+### 5. Residential Tax
+  By-law for Investment in Affordable Housing Program Project at 129 Riverside
+  Drive
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill)
+
+</details>
+
+### 6. Consideration of
+  Appointment to the Community Safety and Crime Prevention Advisory Committee
+  (Requires 1 Member at Large)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill)
+
+</details>
+
+### 7. Consideration of
+  Appointment to the Cycling Advisory Committee (Requires 1 Appointment from
+  the London Middlesex Road Safety Committee)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill)
+
+</details>
+

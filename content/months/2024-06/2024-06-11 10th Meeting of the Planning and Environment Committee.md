@@ -1875,3 +1875,153 @@ Norman touched on a couple of key things but that's being offered as a PPM contr
 Councilor ramen seconded by deputy mayor lewis closing the vote the motion carries four to zero go to committee deputy mayor lewis uh thank you chair i i suspect it's not in order for me to add an additional fee for every time mr walla speaks at a PPM so instead i will move the staff recommendation that could i have a seconder please councilor robin uh any comments or questions councilor ramen thank you i'd like deputy mayor lewis to bring that to swore going he has a chance please unanimous any other questions or comments i just have a question those um when you will permit i just want to concern about the effect of affordability how is this going to affect like small builders and um you know individual homeowners uh when they go to uh get building permits through the chair so um a lot of the the small builders they not necessarily but a lot of them are in that single family home class so we're not proposing any kind of increase to a single family home at medium density uh we are uh proposing a 2.1 percent increase but again like uh that increase will be less than uh in the 30 dollars approximately per uh bill per building so we don't think it's cost prohibitive on the overall value of a home that they're selling thank you um you know the costs go up and um we have to adjust accordingly um i'm confident knowing that we still fare well compared to uh other municipalities competitively um so i will we'll support this there's no other questions or comments um i'll call the vote closing the vote the motion carries four to zero there are no items for direction so we'll move on to minute please um you're right we have a consent item i apologize must be six o'clock okay um we have 2.4 that was pulled um by the deputy mayor so we will go to the consent item 2.4 regarding heritage alteration permit application at 332 St. James street um i'll go to deputy mayor Lewis uh thank you chair and i'll just add we've got uh items for direction uh that councilor ramen and the mayor uh submitted a communication on as well um but i i would like to deal with 2.4 first as we do still have uh some members of the public in the gallery uh for that item uh and i pulled that uh this because the staff recommendation is to recommend refusal uh i am going to recommend that we approve um the heritage alteration permit uh which would be consistent with uh the earlier direction we provided to staff to start developing a plan for substitute materials on heritage properties i know staff still have to make the recommendation they have to make because the policy hasn't officially changed yet there's still work to be done on it but i think moving approval of this would be consistent with the direction that council has provided i'll look for a seconder councilor ramen seconds property owner has requested uh delegation status so i will look to uh committee um a look for motion to accept that deputy mayor Lewis seconded by councilor ramen and we'll uh vote on that closing the vote the motion carries forward to zero um please sir um your delegation status has been approved so you're welcome to address the committee please go as your name and you have five minutes my name is Greg keen thank you so much for having me today um i'd just like to talk about my front porch at three three three two st james street i built it in 2010 i tried to make it look heritage i built it out of wood it deteriorated over the years i've replaced the decking boards and i've replaced the railing i've replaced the railing uh spindles down the front steps twice already they did they were already rotten agandos will be the third time um the products nowadays are just not the same products that we had years ago they are laminated pieces of wood they're substandard we don't have oil paint anymore it is substandard it is not standing up over time i just feel that more and more people are going to be moving forward with this um it's become a major problem i believe in our neighborhood where posts and beams and everything is just rotting away so i'd just like to please hear me out and and know that things need to change thank you thank you i'll look for a motion um okay so we have a motion moved and seconded i'll look for any comments or questions for our call a vote i'll just make a brief comment from the chair i think this is a classic example of why we need this reviewed materials have changed dramatically um you know the applicant uh replaces railing a couple times rotting out uh he's he's going on with a spirit of the heritage so i will support the motion here do you know their comments or questions i'll call the vote closing the vote the motion carries four to zero thank you and now we will move on to deferred matters um for matters list i'll put that on the floor sorry oh hold on a second please clerk wants me again counselor ramen i apologize i'm going from my old i'm not going for the current one my apologies i am for direction uh there has been an added um and so i will go to you uh thank you and through you so this is a letter that's been submitted uh by um mayor morgan and myself and i want to thank staff for their input and discussion around this topic um so in october 2023 we heard from tems valley district school board they wrote to council and asked for a review of the city's timelines for reserving land for schools and new developments um they've since done that again and there's a letter here on the added as well um and so what the motion that is included in the letter reads as follows that civic administration be directed to provide information and associated recommended actions on the following matters in quarter four of 2024 uh provided report to the planning and environment committee that includes a background on the acquisition of blocks for the purpose of a school in the context of the planning act applications uh be a status update on all unacquired blocks in identified and approved in approved planning act applications identified for possible school blocks and see provide options for council's consideration to provide the school boards with additional flexibility in acquiring school blocks in future planning act applications um so it is our desire that uh colleagues support the motion that's in front of you today to go on the deferred matters list to be able to uh address these items in quarter four twenty twenty four um or before i know there's a lot on our staff's plate so again uh just trying to set a reasonable expectation but uh i do think this is an opportunity for us again to um show that we're working in partnership and i appreciate tems valley has brought this forward but of course it's applicable to all four school boards um it's it's timely it's something that we need to be doing and uh i do think uh based on what we we're seeing in terms of the growth in the area um we have to really start to think about how we're going to set this land aside um as we continue to build our city and ensure that we're working within the same timelines and timeframes that the school board is working within uh i know one of the additional challenges now with tems valley is with having to set aside larger parcels of land with this whole eight acres to be able to support the types of schools that we need larger schools and in some cases um it also possess present some challenges so we have an upcoming meeting with tems valley district school board that we've been invited to that's the community planning and facility collaboration opportunities meeting and i think this is uh timely that we're bringing this forward here so that we can have this discussion here and they know that this is something that uh planning environment committee had a chance to discuss earlier this week before we met with them so thanks again to the mayor for for his support with this as well i know he's had productive conversations with tems valley district school board and thank you to staff for their help i'm and do you have a seconder for this motion the deputy mayor loris is seconded um so any comments or questions deputy mayor thank you chair so through you uh my first question is uh to our staff in regard to uh the queue for timeline uh we've got rethink zoning going on we've got half applications we've we've got a lot of different things going on so is that timeline reasonable or is this something where uh you might need a little bit longer runway uh to to bring back uh a report to us on uh the updates on status and and some options because i particularly with clause c and the options i wonder if that timeline is something that can be met or if it's perhaps ambitious not good enough through the chair so we are we are comfortable with the timeline mostly because it it uh very much complements some of the other work that we're doing including like our land needs work and and the work we're doing on zoning as well in general so um we don't think it's overly ambitious for that queue for and then we provide you with an update it and update that timing and the deferred matters if that's uh that is required extra time um deputy mayor thank you for that i appreciate it i uh i'm unfortunately already uh booked with a ward item that i can't move so i'm not going to be able to attend the joint meeting um but i'm glad that it's happening uh and i know that uh counselor ramen and counselor cuddy having been at that board before will likely have some insights to share with us i my other question and and comment i guess they're kind of a little bit of both um and i'm going to uh through you chair ask staff but i would welcome any thoughts that counselor ramen might be able to share with us as well on this is do we need another clause or could there be can it be interpreted in terms of options for council under clause c um where we're considering additional flexibility for the school boards can we also um as part of this start engaging in some more thorough discussions with our school board partners around co-build opportunities for neighborhood amenities um you know i'm cognizant of the the budget pressures that the library has been facing yet we have very serviceable library spaces in our schools i'm cognizant of the pressures that our parks and recreation department are facing with the parks and rec master plan and the funding for that and i know we already have some shared use agreements with the school boards around we get to use their gymnasiums and some of their sports fields and they get to use some of our pools and arenas and that's great but i think there's a tremendous opportunity for more efficiencies and more more frankly more complete neighborhoods if we're investigating co-builds a little more aggressively and so i just wonder if we can if both the councilor and staff could provide a little bit of comment on that and whether further direction is needed or whether that can be taken as part of the the clause c how good staff counselor would you like to go first okay go ahead thank you and through you so i do know that that's been part of very recent conversations i know you've been involved in those as well and then these conversations have been going on for a very long time but how we do that better is part of it part of that and i do know there's willingness on the school board side to sign an agreement to facilitate more of those discussions going forward so that's uh another discussion i know that is very timely i believe thursday will that looking at the agenda for that meaning there there's that's part of what we'll be discussing as well as how do we work as better partners as we're building things out and i do think one of the great things that i have seen is that on the school board side we've a really great back and forth in relationship with staff and so when projects are coming forward that there is that discussion but as budgets are getting tighter i agree with you that's something that we need to put more attention into i'm not sure if it fits in with part c here but i do think it could be a separate um it's a separate discussion that we then bring forward so that we have an indication from the school boards what they are looking for in terms of their specifications around what they're able to get funded through a co-build as well um so i think we might need a little bit more flushing out with that but perhaps that's something we can talk about uh at the meeting this week and then bring back and i'm happy to update you when that meeting happens very good with that type of repair too uh i mean that's that all sounds very positive i i wouldn't mind hearing if staff has any comments to share if they don't that's okay too i certainly didn't uh uh tee this up so that they didn't know this was coming this is coming kind of on the fly um and i do appreciate and agree with what Councillor ramen was saying this has been going on for years um and yet i see other communities advancing co-build a lot more proactively than we are in london and so i it's a concern for me that we keep talking about it just as we're talking about being good partners with them on transit and looking for options for secondary school students i also want to look for options to help with their builds and and sharing library spaces and gym spaces and all those sorts of things so i don't know if there's uh any any comments staff can share as well but i am certainly going to take Councillor ramen up on the opportunity to sit down and uh last time i think i came towards seven for lunch so maybe i can have you out toward two for lunch and you can update me on how the the meeting goes but uh if staff has anything to share i'd like to hear their thoughts too i'll go staff through the chair um uh this of course crosses several different service areas of the city so and i know this has been a topic that at our senior leadership table that we've discussed so this is definitely something that i know that as as a senior leadership team here that we're very supportive of and uh of course would want to talk a lot with uh with uh Cheryl smith and the neighborhoods and community wide services area because a lot of these might toucher area might be other areas as well but uh i know that s uh that the senior leadership team is very much engaged on this and uh happy to provide any kind of support and uh or engagement that does uh that's not definitely where thanks appreciate that and and i think i'm hearing uh from part of that response that it's something i may want to work with Councillor ramen on to bring something to sppc where all of our service areas are present rather than come through planning committee so i'll wrap it up with that and i can be very supportive of this motion thank you any other comments or questions i'll just uh like me will permit um it's interesting that we're all kind of coming at that conversation from different angles i have had extensive conversations with the chair of tems valley um chair mary and she's also our local trustee of our ward on how to think outside the box um as we both mentioned face uh challenges with uh costs space um how can we coordinate um with our schools and the city um as we do now with our various facilities would to take it to the next step but it does require some thinking that's not the norm um which i would think makes would make for some interesting discussion so i look forward to more work being done on that um thank you Councillor ramen for bringing this motion forward we've seen uh the consequences of um and frustration quite frankly of planning in school locations because funding doesn't come from the province at the right time and land has to be let go unfortunately and it causes problems retroactively down the road when we all of a sudden have needs for for school locations so as much as we can do in coordinating our our teams um to mitigate the impacts of that i think is terrific so i will support this for sure um seeing no their comments or questions i'll call the vote closing the vote the motion carries four to zero because advise me i now may move on to different matters um so we have different matters list i'll look for a motion to receive that deputy mary louis seconded by Councillor ramen any comments or questions i'll call the vote closing the vote the motion carries four to zero we had a long meaning today folks a very complex agenda and i just want to say thank you what no when we already say okay so i keep getting these added every time i came into my office today we had another added on top of the added on top of the added we haven't added and this is dealing with the six meeting the community advisory committee on planning so i'll look for motion received that Councillor ramen second by deputy mary louis any comments or questions now i'll call that vote send the vote the motion carries four to zero now i think that's it looking at the clerk she says okay so we had a heavy agenda today i want to thank everyone on committee visiting councilors and staff especially for letting us work through this complex agenda as well um in the best way forward i think we uh we did a good job at getting to where we need to come so thank you i'll look for motion to adjourn how so ramen second by deputy mary louis and vote closing the vote the motion carries four to zero. We are adjourned.
 
 </details>
+
+---
+
+## Votes
+
+*17 substantive votes at this meeting (1 contested, 16 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.2, 2.3 and 2.5 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.4. Heritage Alteration Permit Application – 332 St. James Street – Bishop 	Hellmuth Heritage Conservation District (HAP23-107-L)
+
+> That the Heritage Alteration Permit application under Section 42 of the Ontario Heritage Act relating to the property located at 332 St. James Street BE APPROVED; it being noted that the Planning and Environment Committee heard a verbal delegation from G. Keene, with respect to these matters; it ...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 2.4. Heritage Alteration Permit Application – 332 St. James Street – Bishop 	Hellmuth Heritage Conservation District (HAP23-107-L)
+
+> That G. Keane BE GRANTED delegation status with respect to the Heritage Alteration Permit application relating to the property located at 332 St. James Street.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 3.1. Community Improvement Plans Review for Increasing Affordable Housing
+
+> That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to the Community Improvement Plans Review for Increasing Affordable Housing: a)    the Civic Administration BE DIRECTED to amend the Affordable Housing Community ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.1. Community Improvement Plans Review for Increasing Affordable Housing
+
+> Motion to approve #15 -    #15 requires no action because introducing affordable housing minimums would have a negative impact on the existing housing-related financial incentive programs; and,
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Skylar Franke](/councillors/current/s-franke)
+
+</details>
+
+### 3.1. Community Improvement Plans Review for Increasing Affordable Housing
+
+> Motion to approve clauses c) i), ii) and d) ii) c) the Civic Administration BE DIRECTED to undertake the following recommendations to support the Affordable Housing CIP’s implementation and the construction of affordable housing: i) review and report back on the coordination and program delivery ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.2. 1944 Bradley Avenue (Z-9724)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Martin Quarcoopome c/o Weston Consulting, relating to the property located at 1944 Bradley Avenue: a)    the proposed by-law appended to the staff report dated ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.3. 1806 Avalon Street (Z-8283)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Darryl Neville, relating to the property located at 1806 Avalon Street, known legally as Concession 1, Part Lot 5 Registered Plan No. 33R6847 Parts 2 to 4: a)  ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.4. Demolition Request for Heritage Listed Property – 520 South Street
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the demolition request for the house on the heritage listed property at 520 South Street: a)    the Chief Building Official BE ADVISED that Municipal Council consents to the demol...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.5. 367 Springbank Drive (Z-9722)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Kanwal Dentistry Professional Corporation, relating to the property located at 367 Springbank Drive: a)    the proposed by-law appended to the staff report date...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.7. 735 Southdale Road West (OZ-9567)
+
+> That the following actions be taken with respect to the application by Royal Premier Homes, relating to the property located at 735 Southdale Road West: a)    the proposed attached, revised by-law as Appendix “A” BE INTRODUCED at the Municipal Council meeting to be held on June 25, 2024,  to amen...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.8. 323 Oxford St West, 92 and 825 Proudfoot Lane (Z-9416)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Sam Katz Holdings Inc., relating to the properties located at 323 Oxford Street West, 92 and 825 Proudfoot Lane: a)    the proposed by-law appended to the staff...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.8. 323 Oxford St West, 92 and 825 Proudfoot Lane (Z-9416)
+
+> Motion to amend clause to read as follows: d) the Site Plan Approval Authority BE REQUESTED to consider the following design issues through the site plan process: iv) consider providing an enhanced landscaped view corridor and amenity space south of Westfield Drive; and,
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.8. 323 Oxford St West, 92 and 825 Proudfoot Lane (Z-9416)
+
+> Motion to approve the recommendation, as amended.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.9. Draft Land Needs Assessment of The London Plan (O-9595)
+
+> That, the following actions be taken with respect to the Section 26 Official Plan Review of The London Plan and Land Needs Assessment: a)    the proposed attached, revised by-law as Schedules 3 to 10, in Appendix "A" and related mapping in Appendix “F” to adopt the schedules as part of the Sectio...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 3.10. Amendments to Fees Under the Building Code Act, Building Permit Fees By-law B-7 Amendment
+
+> That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to Amendments to Fees and Charges under the Building Code Act, Building Permit Fees By-law Amendment: a)    the proposed by-law appended to the staff report dated...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. (ADDED) School Block Acquisitions
+
+> That the Civic Administration BE DIRECTED to provide information and associated recommended actions on school block acquisitions and report back to the Planning and Environment Committee in Q4 of 2024, including, but not limited to: a) background on the acquisition of blocks for the purposes of a...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+

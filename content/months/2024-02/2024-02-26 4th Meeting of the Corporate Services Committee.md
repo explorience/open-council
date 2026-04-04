@@ -355,3 +355,18 @@ Councillor ramen. Thank you. Once again, everyone. That was a super efficient me
 Thank you. vote those in favor any opposed now we're good thank you thank you
 
 </details>
+
+---
+
+## Votes
+
+*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
+
+### 4. Items for Direction
+
+> That Items for Direction 4.1 and 4.2 BE APPROVED
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+

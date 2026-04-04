@@ -137,3 +137,39 @@ The Corporate Services Committee convened
   in camera from 1:22 PM to 2:12 PM after having passed a motion to do so, with
   respect to the following matters:
 
+---
+
+## Votes
+
+*2 substantive votes at this meeting (2 contested, 0 unanimous). Procedural motions excluded.*
+
+### 3. 12:30 PM - Tax
+  Adjustment Agenda
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Matt Brown](/councillors/current/m-brown), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 5. ADDED - STAFF
+  REPORT - Amending Agreement - London Community Players Loan Agreement
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Matt Brown](/councillors/current/m-brown), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+</details>
+

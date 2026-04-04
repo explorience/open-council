@@ -237,3 +237,33 @@ The Community and Protective Services Committee convened In Closed Session from 
 
 The meeting adjourned at 12:52 PM.
 
+---
+
+## Votes
+
+*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.4 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. Joan's Place New Addition Campaign - S. Cordes, Youth Opportunities Unlimited - Request for Council Endorsement
+
+> That the Mayor BE REQUESTED to advocate the capital campaign of the Youth Opportunities Unlimited Joan’s Place New Addition to the Provincial and Federal governments; it being noted that the communication from S. Cordes, Youth Opportunities Unlimited, dated June 23, 2020, with respect to this mat...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.2. Residential Video Surveillance By-law - D. Johnstone - Request for Delegation Status
+
+> That the communication, dated July 2020, from D. Johnstone, with respect to a by-law to protect individuals being video recorded in their own private residential backyards BE REFERRED to the Civic Administration for review and a report back at a future meeting of the Community and Protective Serv...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

@@ -2376,3 +2376,163 @@ So I look for a motion to adjourn. Moved by Councillor Ramen, seconded by. Counc
 All right, we're adjourned. Thank you very much.
 
 </details>
+
+---
+
+## Votes
+
+*13 substantive votes at this meeting (7 contested, 6 unanimous). Procedural motions excluded.*
+
+### 8.1. 3rd Report of the Community and Protective Services Committee
+
+> That the 3rd Report of the Community and Protective Services Committee BE APPROVED with the exception of item 7 (2.6)
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.2. 3rd Report of the Civic Works Committee
+
+> That the 3rd Report of the Civic Works Committee BE APPROVED with the exception of items 5 (2.5), 6(2.6) and 8 (2.4)
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.2.5. (2.5) Contract Award - Tender No. RFT-2023-241 - East London Link and Municipal Infrastructure Improvements Phase 3C - Highbury Avenue
+
+> That on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report, dated January 30, 2024, related to a Contract Award for Tender No. RFT-2023-241 for the East London Link and Municipal Infrastructure Improvement...
+
+**✅ Motion Passed (13 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 8.2.6. (2.6) Contract Award - Tender No. RFT-2022-314 - Rapid Transit Implementation - Clarks Bridge and Wellington Road from Thames River to Watson Street
+
+> That on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report, dated January 30, 2024, related to a Contract Award for Tender No. RFT-2022-314 for Rapid Transit Implementation at Clarks Bridge and Wellington ...
+
+**✅ Motion Passed (13 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 8.2.8. (2.4) Contract Award - Tender No. RFT-2023-264 - East London Link Phase 3A West - Dundas Street
+
+> That on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report, dated January 30, 2024, related to a Contract Award for Tender No. RFT-2023-264 for the East London Link Phase 3A West Dundas Street: a)    the b...
+
+**✅ Motion Passed (13 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 8.3. 5th Report of the Strategic Priorities and Policy Committee
+
+> That the 4th Report of the Strategic Priorities and Policy Committee BE APPROVED with the exception of item 4 (2.2).
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.3.4. (2.2) SS-2024-042: Housing Stability Services Single Source
+
+> That the Housing Stability Services Municipal Purchase of Service Agreements BE REFERRED back to Civic Administration to meet with the service providers and review the proposed budgets to identify savings based on the two-year rather than one-year renewal agreements and report back to a future me...
+
+**❌ Motion Failed (3 to 12)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Nay (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 8.4. 3rd Report of the Planning and Environment Committee
+
+> That the 3rd Report of the Planning and Environment Committee BE APPROVED with the exception of items 13 (3.8); and 14 (3.9).
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.4.13. (3.8) City-Wide 5-Bedroom Limits and Increased Permissions for Additional Residential Units (OZ-9661) (Relates to Bills No. 57, 69, and 70)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the Official Plan and Zoning By-law requirements for 5-bedroom limits and additional residential units: a)     the proposed by-law appended to the staff report dated January 30, 2...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.4.14. (3.9) 1310 Adelaide Street North and 795 Windermere Road (OZ-8709) (Relates to Bill No. 58 and Bill No. 71)
+
+> That the following amendment BE APPROVED to the associated by-law (Bill No. 71) as it relates to an area of land located at 1310 Adelaide Street North and 795 Windermere Road: amend by adding a regulation to the zoning by-law (Bill No. 71) to allow for a maximum of three (3) commercial units on t...
+
+**✅ Motion Passed (11 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (4):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 8.4.14. (3.9) 1310 Adelaide Street North and 795 Windermere Road (OZ-8709) (Relates to Bill No. 58 and Bill No. 71)
+
+> Pursuant to Section 34(17) of the Planning Act, as determined by the Municipal Council, that further notice BE GIVEN in respect of the proposed by-law.
+
+**❌ Motion Failed (4 to 11)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 8.4.14. (3.9) 1310 Adelaide Street North and 795 Windermere Road (OZ-8709) (Relates to Bill No. 58 and Bill No. 71)
+
+> That item 14, clause 3.9, as amended, BE APPROVED.
+
+**✅ Motion Passed (10 to 5)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (5):** [Josh Morgan](/councillors/current/j-morgan), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 8.5. 3rd Report of the Corporate Services Committee
+
+> That the 3rd Report of the Corporate Services Committee BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+

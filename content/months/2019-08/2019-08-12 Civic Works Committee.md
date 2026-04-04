@@ -398,3 +398,17 @@ The Civic Works Committee convened in Closed Session from 12:04 PM to 12:32 PM.
 
 The meeting adjourned at 1:58 PM.
 
+---
+
+## Votes
+
+*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That items 2.1 to 2.4 and 2.6 to 2.10 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+

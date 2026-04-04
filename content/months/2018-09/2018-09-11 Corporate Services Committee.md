@@ -183,3 +183,25 @@ The Corporate Services Committee convened in closed session from 1:30 PM to 2:14
 
 The meeting adjourned at 2:15 PM.
 
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2.1. Access and Privacy Policy
+
+> That, on the recommendation of the City Clerk the proposed by-law appended to the staff report dated September 11, 2018 as Appendix “A” BE INTRODUCED at the Municipal Council meeting to be held on September 18, 2018, to adopt a Council Policy with respect to Access and Privacy under the Municipal...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.1. Request of a Vehicle Donation to ReForest London
+
+> That the request of ReForest London for the donation of a used City of London truck BE REFERRED to the Civic Administration for a report back with respect to the necessary sources of financing for the costs associated with the request.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+

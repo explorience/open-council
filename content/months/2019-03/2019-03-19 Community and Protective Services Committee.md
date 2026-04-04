@@ -363,3 +363,41 @@ That the Deferred Matters List for the Community and Protective Services Committ
 
 The meeting adjourned at 4:22 PM.
 
+---
+
+## Votes
+
+*4 substantive votes at this meeting (0 contested, 4 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.5 and 2.7 and 2.8 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.6. The London Arts Council Agreement 2019-2023
+
+> That, on the recommendation of the Managing Director, Parks and Recreation, the proposed by-law, as appended to the staff report dated March 19, 2019, BE INTRODUCED at the Municipal Council meeting to be held on March 26, 2019, to: a)            to approve the Purchase of Service Agreement, as ap...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. Request for Dedication of Fire Station #4 - 870 Colborne Street - In Memory of Deputy Chief W. Peter Harding
+
+> That the request to dedicate Fire Station #4, located at 870 Colborne Street, in memory of Deputy Chief W. Peter Harding, BE APPROVED. (2019-R01)
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.2. 2nd Report of the Community Safety & Crime Prevention Advisory Committee Report
+
+> That the following actions be taken with respect to the 2nd Report of the Community Safety and Crime Prevention Advisory Committee, from its meeting held on February 28, 2019: a)            the Municipal Council BE REQUESTED to adopt the recommendations in the Middlesex-London Community Drug and ...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

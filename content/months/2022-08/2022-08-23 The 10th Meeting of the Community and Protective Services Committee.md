@@ -1211,3 +1211,75 @@ And there are no confidential items, so I just need a motion to adjourn. Moved b
 All those in favor, and that motion carries. Thanks everybody. Have a good afternoon. Thank you.
 
 </details>
+
+---
+
+## Votes
+
+*7 substantive votes at this meeting (1 contested, 6 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.4 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.1. Adult Live Entertainment Parlour - Relocation Request (from 2010 Dundas Street to 238 Dundas Street)
+
+> Motion to approve parts a) and b) of the clause.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.1. Adult Live Entertainment Parlour - Relocation Request (from 2010 Dundas Street to 238 Dundas Street)
+
+> Motion to approve part c) of the clause.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.2. Adult Entertainment Body-Rub Parlour - Relocation Request (from 802 Exeter Road to 232 Dundas Street)
+
+> Motion to approve part a) of the clause.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.2. Adult Entertainment Body-Rub Parlour - Relocation Request (from 802 Exeter Road to 232 Dundas Street)
+
+> Motion to approve part b) of the clause.
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+**Nay (1):** [Jesse Helmer](/councillors/current/j-helmer)
+
+**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+
+</details>
+
+### 5.1. Deferred Matters List
+
+> Motion to receive Item Number 1 on the Deferred Matters List for the Community and Protective Services Committee, as at August 15, 2022.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 5.1. Deferred Matters List
+
+> Motion to receive the Deferred Matters List for the Community and Protective Services Committee, as at August 15, 2022, with the exception of Item Number 1.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+

@@ -833,3 +833,81 @@ The meeting adjourned at 8:00 PM.
 
 ****
 
+---
+
+## Votes
+
+*9 substantive votes at this meeting (0 contested, 9 unanimous). Procedural motions excluded.*
+
+### 1.2. Election of Vice Chair for the term ending November 30, 2020
+
+> That Councillor S. Turner BE ELECTED Vice Chair of the Planning and Environment Committee for the term ending November 30, 2020.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2. Consent
+
+> That Items 2.1 to 2.3, 2.5 to  2.12, inclusive, BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.4. Delegated Authority for Consent
+
+> That, on the recommendation of the Director, Development Services, the proposed by-law appended to the staff report dated December 2, 2019, being “A by-law to provide for the Committee of Adjustment and Consent Authority and to repeal By-law CP-7, as amended” BE INTRODUCED at the Municipal Counci...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.1. 448 Oxford Street East (Z-9104)
+
+> That, on the recommendation of the Director, Development Services, based on the application by Dr. Riyad Khamis, relating to the property located at 448 Oxford Street East, the proposed by-law appended to the staff report dated December 2, 2019 BE INTRODUCED at the Municipal Council meeting to be...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.3. 21 Norlan Avenue (Z-9111)
+
+> That, on the recommendation of the Managing Director, City Planning and City Planner, based on the application by The Corporation of the City of London, on behalf of Urban Roots London, relating to the property located at 21 Norlan Avenue, the proposed by-law appended to the staff report dated De...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.4. 943 Fanshawe Park West and 1800 Aldersbrook Gate (Z-9108)
+
+> That, on the recommendation of the Director, Development Services, based on the application by Loco Holdings Ltd., relating to a portion of the property located at 943 Fanshawe Park Road West and 1800 Aldersbrook Gate, the proposed by-law appended to the staff report dated December 2, 2019 BE INT...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.5. 1395 Riverbend Road - Zoning By-law Amendment (Z-9098)
+
+> That, on the recommendation of the Director, Development Services based on the application of EVE Park London GP Inc. relating to the lands located at 1395 Riverbend Road, described as part of Block 1, Plan 33M-743: a) the proposed by-law appended to the staff report dated December 2, 2019 BE INT...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.6. 1018 and 1028 Gainsborough Road (Z-9079)
+
+> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application of Copia Developments relating to the lands located at 1018 and 1028 Gainsborough Road: a) the proposed by-law appended to the staff report dated December 2, 2019 as A...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 5.1. Deferred Matters List
+
+> That the Managing Director, Development and Compliance Services & Chief Building Official and the Managing Director, Planning and City Planner, BE DIRECTED to update the Deferred Matters List to remove any items that have been addressed by the Civic Administration.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

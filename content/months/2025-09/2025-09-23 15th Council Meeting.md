@@ -3831,3 +3831,320 @@ I just need a motion to adjourn. I'll look for a mover and a seconder for that. 
 Close the votes, yes. Motion carries. All right, thank you.
 
 </details>
+
+---
+
+## Votes
+
+*25 substantive votes at this meeting (14 contested, 11 unanimous). Procedural motions excluded.*
+
+### 7.1. Councillor S. Stevenson - Urgent Situation Within London's Housing Stability Program
+
+> That pursuant to section 11.3 of the Council Procedure By-law, leave BE GRANTED to permit Councillor S. Stevenson to move a motion related to item 7.1 on the Council Agenda related to Urgent situation within London’s Housing Stability program - (Federal Reaching Home / Ontario Housing Prevention ...
+
+**✅ Motion Passed (12 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (3):** [Sam Trosow](/councillors/current/s-trosow), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 7.1. Councillor S. Stevenson - Urgent Situation Within London's Housing Stability Program
+
+> That the motion be amended to remove the October 20, 2025 date and indicate "future meeting" instead
+
+**✅ Motion Passed (13 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 7.1. Councillor S. Stevenson - Urgent Situation Within London's Housing Stability Program
+
+> That the motion be amended to include a new part e) to read as follows: e)    pause any new placements of “high acuity” individuals through the “Project Home” program until the report back is received and reviewed by committee and council.
+
+**❌ Motion Failed (5 to 10)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 7.1. Councillor S. Stevenson - Urgent Situation Within London's Housing Stability Program
+
+> That Civic Administration BE DIRECTED to take the following steps and report back to a future meeting of the Community and Protective Services Committee: a)    provide an overview of any issues identified by partner social agencies that are creating a barrier or challenge to individual placement ...
+
+**✅ Motion Passed (11 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 7.1. Councillor S. Stevenson - Urgent Situation Within London's Housing Stability Program
+
+> That Civic Administration BE DIRECTED to take the following steps and report back to a future meeting of the Community and Protective Services Committee: b)   propose recommendations to amend the existing contracts to address the issues identified in a) that are creating a barrier or challenge to...
+
+**❌ Motion Failed (3 to 12)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Susan Stevenson](/councillors/current/s-stevenson), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Nay (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 7.1. Councillor S. Stevenson - Urgent Situation Within London's Housing Stability Program
+
+> That Civic Administration BE DIRECTED to take the following steps and report back to a future meeting of the Community and Protective Services Committee: c)    provide an update of overall success rates of tenants maintaining stability, and any trends related to those who are not maintaining stab...
+
+**✅ Motion Passed (11 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 7.1. Councillor S. Stevenson - Urgent Situation Within London's Housing Stability Program
+
+> That Civic Administration BE DIRECTED to take the following steps and report back to a future meeting of the Community and Protective Services Committee: d)    provide any recommendations for strengthening tenant placement processes and success rates, including both service delivery by partner ag...
+
+**✅ Motion Passed (12 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (3):** [Sam Trosow](/councillors/current/s-trosow), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 7.2. Deputy Mayor S. Lewis and Councillor D. Ferreira - Contribution Agreement with Chelsea Green Community Homes Society
+
+> That pursuant to section 11.3 of the Council Procedure By-law, leave BE GRANTED to permit Councillor Ferreira to move a motion related to item 7.2 on the Council Agenda related to the Contribution Agreement with Chelsea Green Community Homes Society.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 7.2. Deputy Mayor S. Lewis and Councillor D. Ferreira - Contribution Agreement with Chelsea Green Community Homes Society
+
+> That notwithstanding the Council resolution dated July 23, 2024, the Civic Administration BE DIRECTED to proceed with an amendment under the existing delegation of authority to the Contribution Agreement with Chelsea Green Homes Society to fill 18 units from the City’s housing waitlist, increase ...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.1. 14th Report of the Planning and Environment Committee
+
+> That the 14th Report of the Planning and Environment Committee BE APPROVED with the exception of items 9 (3.4), 13 (3.8), 14 (3.9), and 15 (4.1). At 3:33 PM, Councillor H. McAlister leaves the meeting.  At 3:35 PM, Councillors H. McAlister and C. Rahman enter the meeting.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.1.13. (3.8) 767 Southdale Road East - Z-25083 (Relates to Bill No. 355)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 1000077448 Ontario Inc. (c/o Siv-ik Planning & Design Inc.) relating to the property located at 767 Southdale Road East:    a) the proposed by-law as appended t...
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Corrine Rahman](/councillors/current/c-rahman)
+
+</details>
+
+### 8.1.14. (3.9) 100 Kellogg Lane, 1080-1108 & 1079-1127 Dundas Street, 420 Burbrook Place, 351 Eleanor Street & 1101 King Street and 1151 York Street - OZ-25070 (Relates to Bill No.'s 344, 345 and 356)
+
+> That part j) iii) a motion BE AMENDED to reads as follows: “(j) (iii) Implement the recommendations from the Path Loss Study to ensure acceptable service levels and to establish any required agreements for installation, maintenance and access to required new telecommunications infrastructure to t...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.1.14. (3.9) 100 Kellogg Lane, 1080-1108 & 1079-1127 Dundas Street, 420 Burbrook Place, 351 Eleanor Street & 1101 King Street and 1151 York Street - OZ-25070 (Relates to Bill No.'s 344, 345 and 356)
+
+> That the motion, as amended, BE APPROVED. At 3:55 PM, His Worship Mayor J. Morgan, places Deputy Mayor S. Lewis in the Chair.   At 3:57 PM, His Worship Mayor J. Morgan resumes the Chair.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.1.15. (4.1) Hyde Park BIA Expansion Project - Additional Consultation Reporting
+
+> That the staff report dated September 9, 2025, related to the request from the Hyde Park BIA to expand its boundaries, BE REFERRED to a meeting of the Planning and Environment Committee in Q1 2026, to allow the Hyde Park Business Improvement Association to appear before the Committee. At 4:05 PM,...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.1.15. (4.1) Hyde Park BIA Expansion Project - Additional Consultation Reporting
+
+> That the Council recess at this time, for 10 minutes.
+
+**✅ Motion Passed (9 to 5)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (5):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 8.2. 11th Report of the Strategic Priorities and Policy Committee
+
+> That the 11th Report of the Strategic Priorities and Policy Committee BE APPROVED
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 8.3. 14th Report of the Infrastructure and Corporate Services Committee
+
+> That the 14th Report of the Infrastructure and Corporate Services Committee BE APPROVED with the exception of item 3 (2.1) At 4:22 PM, Councillor E. Peloza enters the meeting.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.3.3. (2.1) Design Contract Price Increase: Wellington Gateway Transit and Municipal Infrastructure Improvements RFP20-29
+
+> That on the recommendation of the Deputy City Manager, Environment & Infrastructure, the following actions be taken with respect to the Wellington Gateway Transit and Municipal Infrastructure Improvements project:    a)    the contract with AECOM Canada ULC for detailed design for RFP20-29 – Cons...
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+**Absent (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 8.4. 13th Report of the Community and Protective Services Committee
+
+> That the 13th Report of the Community and Protective Services Committee BE APPROVED with the exception of items 3 (2.2), 4 (2.5), 5 (2.6), and 8 (3.1).
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.4.4. (2.5) Project and Funding Agreement for Construction or Renovation for Licensed Child Care and Early Years Programs (Relates to Bill No. 341)
+
+> That, on the recommendation of the Deputy City Manager, Social and Health Development, the proposed by-law (“Appendix A”), as appended to the staff report dated September 8, 2025, BE INTRODUCED at the Municipal Council meeting to be held on September 23, 2025, to: a)    authorize and approve the ...
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+**Absent (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 8.4.5. (2.6) Interim Housing Assistance Program (IHAP) Agreement 2025-2027 (Relates to Bill No. 342)
+
+> That, on the recommendation of the Deputy City Manager, Social and Health Development, the proposed by-law (“Appendix C”), as appended to the staff report dated September 8, 2025, BE INTRODUCED at the Municipal Council meeting to be held on September 23, 2025 to: a)    ratify the agreement betwee...
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+**Absent (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 8.4.8. (3.1) 5th Report of the Environmental Stewardship and Action Community Advisory Committee
+
+> That part f) i) to iii) of the 5th Report of the Environmental Stewardship and Action Community Advisory Committee, from the meeting held on August 28, 2025, BE REFERRED to a future meeting of the Planning and Environment Committee for consideration.
+
+**❌ Motion Failed (7 to 7) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (7):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 8.4.8. (3.1) 5th Report of the Environmental Stewardship and Action Community Advisory Committee
+
+> That part f) i) to iii) of the motion BE APPROVED
+
+**❌ Motion Failed (4 to 10)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 8.4.8. (3.1) 5th Report of the Environmental Stewardship and Action Community Advisory Committee
+
+> That the balance of the 5th Report of the Environmental Stewardship and Action Community Advisory Committee, from the meeting held on August 28, 2025, BE APPROVED
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.5. 3rd Report of the Audit Committee
+
+> That the 3rd Report of the Audit Committee BE APPROVED with the exception of item 4 (4.3).
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+

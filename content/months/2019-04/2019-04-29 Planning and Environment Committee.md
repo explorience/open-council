@@ -407,3 +407,50 @@ None.
 
 The meeting adjourned at 7:00 PM.
 
+---
+
+## Votes
+
+*4 substantive votes at this meeting (1 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 and 2.3 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.1. Delegation - R. Sidhu, Argyle Business Improvement Area - Community Improvement Plan (CIP) Study Request for the Argyle BIA and Surrounding Area
+
+> That the delegation by R. Sidhu, Executive Director, Argyle Business Improvement Area, with respect to their request for a Community Improvement Plan study to be undertaken for the Argyle Business Improvement Area and surrounding areas BE POSTPONED to a future Planning and Environment Committee m...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.2. Public Participation Meeting - Application - 3900 Scotland Drive, 3777 Westminister Drive and 5110 White Oak Road (Z-8992)
+
+> That, on the recommendation of the Director, Development Services, with respect to the application by John Aarts Group, relating to the properties located at 3900 Scotland Drive, 3777 Westminster Drive and 5110 White Oak Road, the proposed by-law appended to the staff report dated April 29, 2019 ...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.3. Public Participation Meeting - Victoria Park Secondary Plan - Status Update and Draft Secondary Plan Principles (O-8978)
+
+> That, on the recommendation of the Managing Director, Planning and City Planner, the Draft Principles for the Victoria Park Secondary Plan be ENDORSED; it being noted that staff will continue to work with consultants, stakeholders, property owners, and other interested parties to develop the Seco...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+**Nay (1):** [Ed Holder](/councillors/current/e-holder)
+
+**Absent (1):** [Phil Squire](/councillors/current/p-squire)
+
+</details>
+

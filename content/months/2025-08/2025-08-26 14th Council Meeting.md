@@ -3313,3 +3313,240 @@ We'll do that by hand. Okay, we're doing it by hand. All those in favor of a Ger
 Okay, thank you. We're adjourned.
 
 </details>
+
+---
+
+## Votes
+
+*20 substantive votes at this meeting (10 contested, 10 unanimous). Procedural motions excluded.*
+
+### 8.1. 12th Report of the Community and Protective Services Committee
+
+> That the 12th Report of the Community and Protective Services Committee BE APPROVED, with the exception of items 6 (2.5), 9 (2.9), 11 (4.1), and 16 (4.6).
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.1.6. (2.5) 2025-2028 Canada-Ontario Community Housing Initiative and Ontario Priorities Housing Initiative Approval of Ontario Transfer Payment Agreement and Investment Plan (Relates to Bill No. 313)
+
+> That, on the recommendation of the Deputy City Manager, Housing and Community Growth, that the following actions be taken with respect to the staff report dated August 11, 2025, related to the 2025 – 2028 Canada-Ontario Community Housing Initiative and Ontario Priorities Housing Initiative Approv...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.1.9. (2.9) Standard form Agreement for Approval of Infrastructure Grant Application, and Conditional Approval to Enter into a “Child Care and Early Years Funding Agreement” (Relates to Bill No. 314)
+
+> That, on the recommendation of the Deputy City Manager, Social and Health Development, the proposed by-law, as appended to the staff report dated August 11, 2025, as Appendix “A” BE INTRODUCED at the Municipal Council meeting to be held on August 26, 2025, to: a)    approve the standard form Agre...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.1.16. (4.6) Residential Rental Unit Licensing By-law
+
+> That part a) of the motion be approved: That the following actions be taken with respect to the communication, dated August 1, 2025, related to the Residential Rental Unit Licensing By-law: a)    the Civic Administration BE REQUESTED to report back to the Community and Protective Services Committ...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.1.16. (4.6) Residential Rental Unit Licensing By-law
+
+> That part b) of the motion be approved: b)    the Civic Administration BE DIRECTED to report back to the Community and Protective Services Committee with the potential of including signage which could include information about whether or not the property and the units in the property are in compl...
+
+**❌ Motion Failed (0 to 15)**
+
+<details>
+<summary>View roll call</summary>
+
+**Nay (15):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 8.2. 13th Report of the Planning and Environment Committee
+
+> That the 13th Report of the Planning and Environment Committee BE APPROVED, with the exception of items 8 (2.7), 12 (3.3), 14 (3.5), 19 (3.10), 20 (3.11), and 22 (4.1).
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.2.8. (2.7) Medway Valley Heritage Forest Environmentally Significant Area (South) Conservation Master Plan
+
+> That the motion be amended by including a new part b) to read as follows: b)         the Civic Administration BE DIRECTED to report back with options addressing property encroachments, including related considerations and impacts, for the properties at 1634 to 1786 Attawandaron Rd; and
+
+**✅ Motion Passed (9 to 6) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (6):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 8.2.8. (2.7) Medway Valley Heritage Forest Environmentally Significant Area (South) Conservation Master Plan
+
+> That the motion be amended by including a new part c) to read as follows: c)         the Civic Administration BE DIRECTED, as part of the Conservation Master Plan review, to include passive recreation consistent with the historical use of Attawandaron Road Park, defined as the area between the pa...
+
+**✅ Motion Passed (9 to 6) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (6):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 8.2.8. (2.7) Medway Valley Heritage Forest Environmentally Significant Area (South) Conservation Master Plan
+
+> That the proposed changes to the Medway Valley Heritage Forest Environmentally Significant Area (South) Conservation Master Plan BE REFERRED to Civic Administration to report back at a future meeting of the Planning and Environment Committee, including consideration of potential design alternativ...
+
+**❌ Motion Failed (4 to 11)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke)
+
+**Nay (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 8.2.8. (2.7) Medway Valley Heritage Forest Environmentally Significant Area (South) Conservation Master Plan
+
+> That the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (10 to 5)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (5):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 8.2.12. (3.3) 1204 Richmond Street (Z-25065) (Relates to Bill No. 331)
+
+> That the motion be amended to read as follows: That, on the recommendation of the Director, Planning and Development, the following action be taken with respect to the application of The Incorporated Synod of the Diocese of Huron (c/o Siv-ik Planning & Design) relating to the property located at ...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.2.12. (3.3) 1204 Richmond Street (Z-25065) (Relates to Bill No. 331)
+
+> That the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.2.14. (3.5) 514-520 South Street (Z-25068) (Relates to Bill No. 333)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Amnoor Homes Inc. (c/o Strik, Baldinelli, Moniz Ltd.) relating to the property located at 514-520 South Street: a)    the proposed by-law as appended to the sta...
+
+**✅ Motion Passed (12 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (1):** [Skylar Franke](/councillors/current/s-franke)
+
+</details>
+
+### 8.2.19. (3.10) 1196 Sunningdale Road West (OZ-25052) (Relates to Bill No.'s 317 and 338)
+
+> Motion to approve part e) to read as follows: e)    the Subdivision Approval Authority BE REQUESTED to consider amending the draft plan of subdivision to require the subject lands to be reserved for 3 years for permitted uses within the Community Facility (CF2) zone until the draft plan of subdiv...
+
+**❌ Motion Failed (0 to 14)**
+
+<details>
+<summary>View roll call</summary>
+
+**Nay (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+</details>
+
+### 8.2.19. (3.10) 1196 Sunningdale Road West (OZ-25052) (Relates to Bill No.'s 317 and 338)
+
+> Motion to approve the balance of item 19, clause 3.10.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.2.20. (3.11) City-Wide: Zoning By-law Amendment to Stacked Townhouse Definition (Z-25071) (Relates to Bill No. 339)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by the Corporation of the City of London relating to the definition of stacked townhouse: a)    the proposed by-law as appended to the staff report dated August 12...
+
+**✅ Motion Passed (13 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman)
+
+</details>
+
+### 8.2.22. (4.1) Agricultural Land Offset Policy
+
+> That the motion to receive be amended by adding the following: That the Civic Administration BE DIRECTED to bring forward a report to a future meeting of the Planning and Environment Committee examining; a)    the feasibility of developing an Agricultural Offset Policy, including best practices f...
+
+**❌ Motion Failed (7 to 8) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (8):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 8.3. 10th Report of the Strategic Priorities and Policy Committee
+
+> That the 10th Report of the Strategic Priorities and Policy Committee BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.4. 13th Report of the Infrastructure and Corporate Services Committee
+
+> That the 13th Report of the Infrastructure and Corporate Services Committee BE APPROVED, with the exception of item 7 (2.4).
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.4.7. (2.4) Consultant Contract Price Increase: Rapid Transit Implementation - Wellington Street from Queens Avenue to the Thames River (South Branch)
+
+> That on the recommendation of the Deputy City Manager, Environment & Infrastructure, the following actions be taken with respect to the Rapid Transit Implementation – Wellington Street from Queens Avenue to the Thames River (South Branch) project: a)   the contract with AECOM Canada ULC for const...
+
+**✅ Motion Passed (13 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+

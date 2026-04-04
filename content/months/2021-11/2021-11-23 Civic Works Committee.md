@@ -385,3 +385,49 @@ b)        clauses 1.1, 2.1 to 2.6 and 3.1 to 3.3, BE RECEIVED.
 
 The meeting adjourned at 12:47 PM.
 
+---
+
+## Votes
+
+*5 substantive votes at this meeting (0 contested, 5 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.2, 2.3, 2.4, 2.5, and 2.6 BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 4.1. New Sidewalks in Established Neighbourhoods
+
+> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the Civic Administration BE DIRECTED to develop a Neighbourhood Sidewalk Connectivity Plan approach, including a community engagement strategy, for new sidewalks on neighbourhood road and underground reconstru...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 4.2. New Sidewalk Project List 2022
+
+> Motion to approve part a) of the clause.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 4.2. New Sidewalk Project List 2022
+
+> Motion to approve part b) of the clause.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 5.2. (ADDED) 10th Report of the Cycling Advisory Committee
+
+> That the following actions be taken with respect to the 10th Report of the Cycling Advisory Committee, from its meeting held on November 17, 2021: a)        the following actions be taken with respect to the Notice of Public Information Centre #2, dated October 28, 2021, from P. Yanchuk, City of ...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+

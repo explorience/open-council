@@ -1,6 +1,9 @@
 {
-  "generatedAt": "2026-04-04T06:49:13.643Z",
+  "generatedAt": "2026-04-04T07:59:05.400Z",
   "sourceHash": "de181d59ea0d59e2",
   "totalMeetings": 1650,
-  "councillorsWithVotes": 42
+  "councillorsWithVotes": 42,
+  "totalMotions": 17369,
+  "substantiveMotions": 12181,
+  "contestedMotions": 7697
 }

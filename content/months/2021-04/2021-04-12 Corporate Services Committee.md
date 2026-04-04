@@ -78,3 +78,17 @@ The meeting adjourned at 12:10 PM.
 
 ****
 
+---
+
+## Votes
+
+*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
+
+### 4.1. 2021 Debenture Issuance Report #2
+
+> That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the following actions be taken with respect to the 2021 Debenture Issuance:    a)      the issuance of serial debentures for a total of $23,000,000 BE APPROVED, noting the average...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

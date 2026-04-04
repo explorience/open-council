@@ -1485,3 +1485,82 @@ Thanks very much. Great work tonight, committee. Appreciated the debate. See you
 Thanks, Mr. Chair.
 
 </details>
+
+---
+
+## Votes
+
+*6 substantive votes at this meeting (4 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.2 to 2.8, inclusive, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.1. 192-196 Central Avenue, 193-197 Central Avenue, and 200 Albert Street (TZ-9316)
+
+> That, on the recommendation of the Director, Development Services, with respect to the application of Farhi Holdings Corporation relating to the properties located at 192-196 Central Avenue, 193-197 Central Avenue, and 200 Albert Street, the proposed by-law appended to the staff report dated May ...
+
+**✅ Motion Passed (5 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+
+### 3.2. 2631 Hyde Park Road and 1521 Sunningdale Road West – (O-9190)
+
+> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by Auburn Developments Inc., relating to the property located at 2631 Hyde Park Road and 1521 Sunningdale Road West: a) the proposed by-law appended to the staff repor...
+
+**✅ Motion Passed (4 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 3.2. 2631 Hyde Park Road and 1521 Sunningdale Road West – (O-9190)
+
+> That, notwithstanding the recommendation of the Director, Development Services, the application by Auburn Developments Inc., relating to the property located at 2631 Hyde Park Road and 1521 Sunningdale Road West BE REFERRED back to the Civic Administration to accept an application by Auburn Devel...
+
+**❌ Motion Failed (2 to 4) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Nay (2):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 3.3. 3557 Colonel Talbot Road (SPA20-063)
+
+> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application of 2749282 Ontario Inc., relating to the property located at 3557 Colonel Talbot Road: a) the Approval Authority BE ADVISED that the following issues were raised at th...
+
+**✅ Motion Passed (5 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Ed Holder](/councillors/current/e-holder)
+
+</details>
+
+### 5.1. (ADDED) 3rd Report of the Trees and Forests Advisory Committee
+
+> That, the following actions be taken with respect to the 3rd Report of the Trees and Forests Advisory Committee from its meeting held on April 28, 2021: a)  Municipal Council BE ADVISED that the Trees and Forests Advisory Committee recommends that road narrowing be a priority for the Neighbourhoo...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

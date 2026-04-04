@@ -721,3 +721,73 @@ That the Civic Works Committee Deferred List, as at September 17, 2018, BE RECEI
 
 The meeting adjourned at 7:36 PM.
 
+---
+
+## Votes
+
+*8 substantive votes at this meeting (0 contested, 8 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That items 2.1-2.16, excluding items 2.3, 2.4, 2.7 and 2.12 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.4. Byron South Neighbourhood Sidewalk Connectivity Plan
+
+> That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the Byron South Neighbourhood Sidewalk Connectivity Plan BE ENDORSED for implementation in the 2019 Annual New Sidewalk Program. it being noted that the Civic Works Committee heard a ve...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.12. Business Case - Switching to Compressed Natural Gas (CNG) Waste Collection Vehicles
+
+> That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the following actions be taken with respect to switching to compressed natural gas (CNG) Waste Collection Vehicles: a)    the Civic Administration BE AUTHORIZED to proceed with the Comp...
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (1-0)
+
+### 3.1. Proposed Terms of Reference - Environmental Assessment of the Proposed W12A Landfill Expansion
+
+> That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, with the support of the Waste Management Working Group,  the following actions be taken with respect to the Proposed Terms of Reference for the Environmental Assessment of the Proposed ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.2. 60% Waste Diversion Action Plan
+
+> That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the following actions be taken, with respect to the 60% Waste Diverson Action Plan: a)    the 60% Waste Diversion Action Plan (Action Plan) containing programs and initiatives to be pha...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.1. 8th Report of the Cycling Advisory Committee
+
+> That the following actions be taken with respect to the 8th Report of the Cycling Advisory Committee, from its meeting held on August 15, 2018: a)    the Civic Administration BE REQUESTED to designate Highbury Avenue South of Hamilton Road as a no bicycle lane with proper signage: it being noted ...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 4.2. Traffic Signalization at Priority Intersections
+
+> That the Civic Administration BE DIRECTED take the following actions with respect to traffic signalization at priority intersections: a)  conduct detailed design work on the following intersections of Pack Road and Colonel Talbot Road; Blackwater Rad and Adelaide Street; and Sunningdale Road and ...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 4.3. Unassumed Laneways
+
+> That Staff BE REQUESTED to report back to the appropriate standing committee with respect to the current process, and potential improvements, with respect to unassumed laneways, and the request for delegation from M. Koch Denomme BE APPROVED and BE REFERRED to the meeting when this matter will be...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+

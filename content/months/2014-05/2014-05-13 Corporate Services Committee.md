@@ -291,3 +291,130 @@ The Corporate Services Committee convened
   in camera from 1:19 PM to 1:40 PM after having passed a motion to do so, with
   respect to the following matters:
 
+---
+
+## Votes
+
+*8 substantive votes at this meeting (8 contested, 0 unanimous). Procedural motions excluded.*
+
+### 2. Declare Surplus and
+  Transfer to Abutting Property Owner Two Metre Strip of Road Allowance
+  Abutting 2627 and 2633 Asima Drive and Reserve Block 116
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Bud Polhill](/councillors/current/b-polhill)
+
+</details>
+
+### 3. Declare Surplus -
+  City-Owned Property - 1192 Highbury Avenue, Former Fire Station #7
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Bud Polhill](/councillors/current/b-polhill)
+
+</details>
+
+### 4. Properties Beyond
+  Useful Economic Life
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Bud Polhill](/councillors/current/b-polhill)
+
+</details>
+
+### 5. 2013 Compliance
+  Report in Accordance with the Procurement of Goods and Services Policy
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Bud Polhill](/councillors/current/b-polhill)
+
+</details>
+
+### 6. Residential Tax
+  By-law for Affordable Housing Program - Project at 219 St. George Street
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Bud Polhill](/councillors/current/b-polhill)
+
+</details>
+
+### 7. Residential Tax
+  By-law for Affordable Housing Program - Project at 392 Richmond Street
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Bud Polhill](/councillors/current/b-polhill)
+
+</details>
+
+### 8. Accessible Voting
+  Machines, Vote Counting Equipment, Voting by Mail, Advance and Proxy Voting
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Bud Polhill](/councillors/current/b-polhill)
+
+</details>
+
+### 9. Sale of VQA Wine at
+  Eligible Ontario Farmers' Markets
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Bud Polhill](/councillors/current/b-polhill)
+
+</details>
+

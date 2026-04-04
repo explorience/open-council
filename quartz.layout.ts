@@ -121,6 +121,11 @@ export const defaultContentPageLayout: PageLayout = {
       component: Component.AlertsFeed(),
       condition: (page) => page.fileData.slug === "alerts",
     }),
+    // Vote Explorer page
+    Component.ConditionalRender({
+      component: Component.VoteExplorer(),
+      condition: (page) => page.fileData.slug === "votes",
+    }),
     // Councillor page components (self-filter by page type)
     Component.Scorecard(),
     Component.ComparisonChart(),

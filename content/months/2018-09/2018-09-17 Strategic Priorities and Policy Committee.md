@@ -476,3 +476,90 @@ The Strategic Priorities and Policy Committee convened in closed session from 9:
 
 The meeting adjourned at 9:42 PM.
 
+---
+
+## Votes
+
+*7 substantive votes at this meeting (3 contested, 4 unanimous). Procedural motions excluded.*
+
+### 2.1. London Community Grants Program Innovation and Capital Funding Allocations (2019)
+
+> Motion to direct the Mayor to communicate Council's thanks to each of the panel members.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 3.1. Amendments to Consolidated Fees and Charges By-law
+
+> That, on the recommendation of the City Clerk, with the concurrence of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the proposed by-law appended to the staff report dated September 17, 2018 as Appendix “A” BE INTRODUCED at the Municipal Council meeting on...
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher)
+
+**Nay (1):** [Mo Salih](/councillors/current/m-salih)
+
+</details>
+
+### 3.2. Dr. Josipa Petrunic, Executive Director and Chief Executive Officer, Canadian Urban Transit Research and Innovation Consortium - Rapid Transit
+
+> b)    based on the financial and environmental benefits shown by the modelling done by CUTRIC, electrification of London’s Bus Rapid Transit system BE ENDORSED-IN-PRINCIPLE;
+
+**✅ Motion Passed (9 to 5)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley)
+
+**Nay (3):** [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Phil Squire](/councillors/current/p-squire)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 3.2. Dr. Josipa Petrunic, Executive Director and Chief Executive Officer, Canadian Urban Transit Research and Innovation Consortium - Rapid Transit
+
+> c)    the Civic Administration BE DIRECTED to continue working with the London Transit Commission and  Canadian Urban Transit Research & Innovation Consortium (CUTRIC) on economic modelling for electrification, including maintenance; and,
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 3.2. Dr. Josipa Petrunic, Executive Director and Chief Executive Officer, Canadian Urban Transit Research and Innovation Consortium - Rapid Transit
+
+> d)     the Civic Administration BE DIRECTED to work with the London Transit Commission and the Canadian Urban Transit Research & Innovation Consortium (CUTRIC) on securing funding and partnerships that would allow London to implement electric buses as part of London’s Bus Rapid Transit.
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Anna Hopkins](/councillors/current/a-hopkins), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher)
+
+**Nay (1):** [Michael van Holst](/councillors/current/m-van-holst)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 4.1. London Convention Centre Board Appointments
+
+> That the City Clerk BE DIRECTED to bring forward to a future meeting of Municipal Council a by-law to incorporate the changes to the London Convention Centre Corporation By-law as requested in the communication dated September 5, 2018 from L. Da Silva.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 5.2. ADDED - 12th Report of the Governance Working Group
+
+> That the following actions be taken with respect to the 12th Report of the Governance Working Group from its meeting held on September 17, 2018: a)           the following actions be taken with respect to updating the terms of reference and mandate of the Striking Committee:    i)            the ...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+

@@ -236,3 +236,115 @@ Motion
 The
   meeting adjourned at 4:57 PM.
 
+---
+
+## Votes
+
+*7 substantive votes at this meeting (7 contested, 0 unanimous). Procedural motions excluded.*
+
+### 2. 7th Report of the
+  Transportation Advisory Committee
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Harold Usher](/councillors/current/h-l-usher), [Nancy Branscombe](/councillors/current/n-branscombe)
+
+</details>
+
+### 3. Appointment of
+  Consulting Engineer for the Detailed Design of Wickerson No. S-B SWM Facility
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Harold Usher](/councillors/current/h-l-usher), [Nancy Branscombe](/councillors/current/n-branscombe)
+
+</details>
+
+### 4. UV Disinfection
+  Equipment Parts and Service Single Source
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Harold Usher](/councillors/current/h-l-usher), [Nancy Branscombe](/councillors/current/n-branscombe)
+
+</details>
+
+### 5. Active Transportation
+  (AT) and Transportation Demand Management (TDM) - Status Report and the Next
+  Steps
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Harold Usher](/councillors/current/h-l-usher), [Nancy Branscombe](/councillors/current/n-branscombe)
+
+</details>
+
+### 7. Optimization of
+  London Wastewater Treatment Plants – A Strategy and Road Map
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/current/h-l-usher), [Nancy Branscombe](/councillors/current/n-branscombe)
+
+</details>
+
+### 8. 3rd Report of the
+  Cycling Advisory Committee
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/current/h-l-usher), [Nancy Branscombe](/councillors/current/n-branscombe)
+
+</details>
+
+### 9. Update on Rainfall
+  Event on September 10, 2014
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/current/h-l-usher), [Nancy Branscombe](/councillors/current/n-branscombe)
+
+</details>
+

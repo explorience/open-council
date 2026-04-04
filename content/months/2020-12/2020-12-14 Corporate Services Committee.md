@@ -158,3 +158,25 @@ The Corporate Services Committee convenes, In Closed Session, from 12:05 PM to 1
 
 The meeting adjourned at 12:53 PM.
 
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 1.2. Election of Vice Chair for the term ending November 30, 2021
+
+> That Councillor Michael van Holst BE ELECTED Vice Chair of the Corporate Services Committee for the term ending November 30, 2021.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2. Consent
+
+> That items 2.1 and 2.2 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+

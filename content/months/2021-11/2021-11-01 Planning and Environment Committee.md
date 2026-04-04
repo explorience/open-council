@@ -868,3 +868,96 @@ None.
 
 The meeting adjourned at 8:34 PM.
 
+---
+
+## Votes
+
+*10 substantive votes at this meeting (1 contested, 9 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.9, inclusive, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.2. Hamilton Road Community Improvement Plan - Performance Measures and Indicators of Success (O-9330)
+
+> That, on the recommendation of the Director, Planning and Development, the proposed by-law appended to the staff report dated November 1, 2021 as Appendix “A” BE INTRODUCED at the Municipal Council meeting to be held on November 16, 2021 to ADD an Appendix that sets out performance measures and i...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.4. 235 Kennington Way (39CD-21514)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Sifton Properties Limited, relating to the property located at 235 Kennington Way: a)    the Approval Authority BE ADVISED that no issues were raised at the pub...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.5. 704-706 Boler Road (39CD-21511)
+
+> That, on the recommendation of the Deputy City Manager, Planning and Economic Development, based on the application by Southside Construction Management Ltd., relating to the property located at 704-706 Boler Road: a)    the Approval Authority BE ADVISED that no issues were raised at the public m...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.6. 512 McCormick Boulevard (Z-9374)
+
+> That, on the recommendation of the Director, Planning and Development, based on the application by Derek Panzer, relating to the property located at 512 McCormick Boulevard, the proposed by-law appended to the staff report dated November 1, 2021 as Appendix "A" BE INTRODUCED at the Municipal Coun...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 3.7. 560 & 562 Wellington Street (OZ-8462)
+
+> That, based on the application of 560 Wellington Holdings Inc., relating to the property located at 560 and 562 Wellington Street: a) the proposed attached by-law BE INTRODUCED at the Municipal Council meeting to be held on November 16, 2021 to amend the Official Plan (1989) to change the designa...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+
+### 4.1. 10th Report of the London Advisory Committee on Heritage
+
+> That, the following actions be taken with respect to the 10th Report of the London Advisory Committee on Heritage, from its meeting held on October 20, 2021: a)   the Civic Administration and T. Jenkins and G. McDonald of AECOM BE ADVISED that the London Advisory Committee on Heritage (LACH) supp...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.2. Food Security and Home-Based Food Business
+
+> That the Civic Administration BE DIRECTED to bring forward a report that identifies recommended zoning amendments or other next steps regarding the regulations in Zoning By-law No. Z.-1 for home occupations as they relate to food based businesses, taking into consideration recent Provincial chang...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.3. Global Bird Rescue
+
+> That the following actions be taken with respect to Global Bird Rescue: a)  the request to update the Site Control By-law and Guidelines for bird-friendly building design in all new site plans BE ADDED to the Planning and Environment Committee (PEC) Deferred List; and, b)  the Civic Administratio...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.3. Global Bird Rescue
+
+> Motion to approve delegation status for B. Samuels, Coordinator, London Bird Team, BE GRANTED delegation status with respect to the Global Bird Rescue 2021.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+

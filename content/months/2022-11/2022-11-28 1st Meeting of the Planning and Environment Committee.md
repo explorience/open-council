@@ -1225,3 +1225,132 @@ That the communication dated November 21, 2022 from K. Redman, Chair, Mayors and
 
 The meeting adjourned at 9:50 PM.
 
+---
+
+## Votes
+
+*13 substantive votes at this meeting (3 contested, 10 unanimous). Procedural motions excluded.*
+
+### 1.2. Election of Vice-Chair
+
+> That  Deputy Mayor Lewis BE APPOINTED Vice Chair for the term ending November 14, 2023.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 1.2. Election of Vice-Chair
+
+> Election of Vice Chair
+
+**❌ Majority Winner: S. Lewis 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (2):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis)
+
+</details>
+
+### 2. Consent
+
+> That Items 2.1 to 2.8 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.1. 3195, 3207 White Oak Road and 2927 Petty Road (Z-9350 / 39CD-21505)
+
+> That, on the recommendation of the Acting Director, Planning and Development, the following actions be taken with respect to the application by Whiterock Village Inc., relating to the lands located at 3195, 3207 White Oak Road and 2927 Petty Road: a) the proposed by-law appended to the Planning a...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.2. 2846-2870 Tokala Trail (Z-9523)
+
+> That, on the recommendation of the Acting Director, Planning and Development, based on the application by Foxwood Developments Inc., relating to the property located at 2846 and 2870 Tokala Trail, the proposed by-law appended to the staff report dated November 28, 2022 as Appendix "A" BE INTRODUC...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.3. 870-922 Medway Park Drive (Z-9533)
+
+> That, on the recommendation of the Acting Director, Planning and Development, the following actions be taken with respect to the application by Dillon Consulting Limited., relating to the property located at 870-922 Medway Park Drive: a) the proposed by-law appended to the staff report dated Nove...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.4. 338 Boler Road (Z-9510)
+
+> That, on the recommendation of the Acting Director, Planning and Development, the following actions be taken with respect to the application by Alma Village Inc., relating to the property located at 338 Boler Road: a) the proposed by-law appended to the staff report dated November 28, 2022 as App...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.5. 6092 Pack Road (Z-9493)
+
+> That, on the recommendation of the Acting Director, Planning and Development, the following actions be taken with respect to the application by Magnificent Homes and Royal Premier Homes, relating to the property located at 6092 Pack Road, the proposed attached, revised, by-law (Appendix “A”) BE I...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.6. 931-1225 Southdale Road East (Z-9544)
+
+> That, on the recommendation of the Acting Director, Planning and Development, based on the application by London & Middlesex Community Housing, relating to the property located at 931-1225 Southdale Road East, the proposed by-law appended to the staff report dated November 28, 2022 as Appendix "A...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.8. 307 Sunningdale Road East (Z-9498)
+
+> That, on the recommendation of the Acting Director, Planning and Development, the following actions be taken with respect to the application by Margrit Johnson, relating to the property located at 307 Sunningdale Road East: a) the proposed, attached, revised, by-law (Appendix "A") BE INTRODUCED a...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.9. 4452 Wellington Road South (OZ-9497)
+
+> That, on the recommendation of the Acting Director, Planning and Development, the following actions be taken with respect to the application by MHBC Planning on behalf of 2858637 Ontario Inc., relating to the property located at 4452 Wellington Road South: a) the proposed by-law appended to the s...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Shawn Lewis](/councillors/current/s-lewis), [Anna Hopkins](/councillors/current/a-hopkins)
+
+**Nay (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 3.10. 952 Southdale Road West (OZ-9431)
+
+> That the following actions be taken with respect to the application by 1739626 Ontario Limited, relating to the property located at 952 Southdale Road West: a) the proposed by-law appended to the staff report dated November 28, 2022 as Appendix “A” BE INTRODUCED at the Municipal Council meeting t...
+
+**✅ Motion Passed (4 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis)
+
+</details>
+
+### 4.1. Planning Application Process Changes Due to Bill 109, the More Homes For Everyone Act, 2022
+
+> That M. Wallace, Executive Director, London Development Institute, BE GRANTED delegation status with respect to the planning application process changes due to Bill 109, the More Homes for Everyone Act, 2022.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

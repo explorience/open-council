@@ -929,3 +929,104 @@ b) clauses 1.1, 3.1, 3.2 and 5.1 to 5.4 BE RECEIVED for information.
 
 The meeting adjourned at 8:24 PM.
 
+---
+
+## Votes
+
+*11 substantive votes at this meeting (1 contested, 10 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.7, inclusive, BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.1. Delegation - S. Levin, Chair, Environmental and Ecological Planning Advisory Committee - 10th Report of the Environmental and Ecological Planning Advisory Committee
+
+> That, the following actions be taken with respect to the 10th Report of the Environmental and Ecological Planning Advisory Committee, from its meeting held on September 20, 2018: a)            the Working Group comments appended to the 10th Report of the Environmental and Ecological Planning Advi...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.1. Delegation - S. Levin, Chair, Environmental and Ecological Planning Advisory Committee - 10th Report of the Environmental and Ecological Planning Advisory Committee
+
+> Motion to add part c) which reads as follows: "c)            the Civic Administration BE REQUESTED to work with the Environmental and Ecological Planning Advisory Committee with respect to natural heritage and stormwater management on a system basis, particularly in the southwest area of the city...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.6. Public Participation Meeting - Application - 147-149 Wellington Street and 253-257 Grey Street (Z-8905)
+
+> That, on the recommendation of the Managing Director, Planning and City Planner, with respect to the application of JAM Properties Inc., relating to the property located at 147-149 Wellington Street and 253-257 Grey Street: a)            the proposed by-law appended to the staff report dated Octo...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.7. Public Participation Meeting - Amendments to Section 4.10 (Home Occupations) (Z-8946)
+
+> That the application by The Corporation of the City of London, with respect to the proposed Zoning By-law for Home Occupations to add day sitting for dogs and domestic cats as a permitted use BE REFERRED back to the Civic Administration for further consideration, providing direction on issues rai...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+**Nay (1):** [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 3.8. Public Participation Meeting - Application - 3130 and 3260 Dingman Drive and 4213 Wellington Road South (SPA17-109, SPA17-111, SPA17-117)
+
+> That, on the recommendation of the Manager, Development Planning, the following actions be taken with respect to the application of PenEquity / Goal Ventures Inc., relating to the properties located at 3130 and 3260 Dingman Drive and 4313 Wellington Road South: a)          the Approval Authority ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.1. Neighbourhood School Strategy - Evaluation and Acquisition of Surplus School Sites (17 CLO)
+
+> That, on the recommendation of the Managing Director, Planning and City Planner, the following actions be taken to describe the City’s approach to the evaluation and acquisition of school sites identified as surplus to School Boards’ needs: a)            the proposed by-law appended to the revise...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 4.2. Hyde Parks Business Association Board of Management By-laws
+
+> That the City Clerk BE DIRECTED to bring forward to a future meeting of Municipal Council a by-law to incorporate the proposed amendments to the Hyde Park Business Improvement Area By-law as requested by the Hyde Park Business Improvement Area Board of Management as outlined in the communication ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.3. Argyle Business Improvement Area Board of Management By-laws
+
+> That the City Clerk BE DIRECTED to bring forward to a future meeting of Municipal Council a by-law to incorporate the proposed amendments to the Argyle Business Improvement Area By-law as requested by the Argyle Business Improvement Area Board of Management as outlined in the communication dated ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 5.1. (ADDED) 10th Report of the Advisory Committee on the Environment
+
+> That, the following actions be taken with respect to the 10th Report of the Advisory Committee on the Environment, from its meeting held on October 3, 2018: a)            clause 5.1 BE REFERRED to the 2019 Budget process for consideration; it being noted that clause 5.1 reads as follows: “Municip...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 5.2. (ADDED) 9th Report of the Trees and Forests Advisory Committee
+
+> That, the following actions be taken with respect to the 9th Report of the Trees and Forests Advisory Committee, from its meeting held on September 26, 2018: a)          the following action be taken with respect to the Boulevard Tree Protection By-law: i)             the Trees and Forests Adviso...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+

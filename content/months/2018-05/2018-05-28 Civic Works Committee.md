@@ -401,3 +401,70 @@ That the Civic Administration BE DIRECTED to investigate and report back with a
 
 The meeting adjourned at 1:39 PM.
 
+---
+
+## Votes
+
+*7 substantive votes at this meeting (1 contested, 6 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.2, 2.4, 2.5, 2.11 and 2.13 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.3. Hamilton Road and Highbury Avenue Intersection Improvements -  Environmental Study Report
+
+> That, on the recommendation of the Managing Director, Environmental & Engineering Services and City Engineer, the following actions be taken with respect to the Hamilton Road and Highbury Avenue Intersection Improvements Environmental Assessment: a)            the Hamilton Road and Highbury Avenu...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.6. High Speed Rail
+
+> That, on the recommendation of the Managing Director, Environmental & Engineering Services and City Engineer, the following actions be taken with respect to the High Speed Rail initiative: a)            the Civic Administration BE DIRECTED to undertake a High Speed Rail Corridor Protection Study ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.7. Railway Rationalization
+
+> That, on the recommendation of the Managing Director, Environmental & Engineering Services and City Engineer, the following actions be taken with respect to Railway Rationalization initiative: a)            a strategy of strategic grade separations combined with the implementation of technologies...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.9. Updates - Proposed Amended Blue Box Program Plan - Food and Organic Waste Framework & Policy Statement - Next Steps
+
+> That Items 2.9, 2.10 and 2.12 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 5.2. (ADDED) 6th Report of the Cycling Advisory Committee
+
+> That the following actions be taken with respect to the 6th Report of the Cycling Advisory Committee, from its meeting held on May 16, 2018: a)            the Civic Administration BE ADVISED that the Cycling Advisory Committee supports the option of a raised cycle track, with the appropriate mark...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 5.3. (ADDED) Clear Garbage Bags
+
+> That the Civic Administration BE DIRECTED to investigate and report back with a potential implementation strategy regarding the use of clear garbage bags as part of the 60% Waste Diversion and Action Plan.
+
+**✅ Motion Passed (4 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
+
+</details>
+

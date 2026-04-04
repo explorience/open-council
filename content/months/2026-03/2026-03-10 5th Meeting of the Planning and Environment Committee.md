@@ -1206,3 +1206,112 @@ The meeting adjourned at 4:11 PM.
 
 ****
 
+---
+
+## Votes
+
+*12 substantive votes at this meeting (1 contested, 11 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.4, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.1. Demolition Request for Heritage Listed Property - 174 Wellington Road
+
+> That, on the recommendation of the Director, Planning and Development, with respect to the staff report dated March 10, 2026, with respect to the demolition request, the property located at 174 Wellington Road BE REMOVED from the Register of Cultural Heritage Resources;     it being noted that do...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.3. Request to Remove the Heritage Listed Property at 535-537 Talbot Street/105 Kent Street from the Register of Cultural Heritage Resources
+
+> That on the recommendation of the Director, Planning and Development, the staff report dated March 10, 2026, with respect to the property located at 535-537 Talbot Street/105 Kent Street BE REMOVED from the Register of Cultural Heritage Resources;     it being noted that the property owner be enc...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.4. Amendment to Heritage Designating By-law - 513-531 Talbot Street
+
+> That, on the recommendation of the Director, Planning and Development, with respect to the staff report dated March 10, 2026, related to the heritage designated property at 513-531 Talbot Street, the following actions be taken: a)    notice BE GIVEN under the provisions of Section 30.1(4) of the ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.5. 325 Grey Street - Z-26010
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Blue Cactus Holdings Inc. (Zelinka Priamo Ltd.) relating to the property located at 325 Grey Street, the proposed by-law as appended to the staff report dated M...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.6. 6712 James Street - Z-26001
+
+> That the motion BE AMENDED to add a new part that reads as follows: the Civic Administration BE DIRECTED to use best efforts to offset the anticipated tree loss resulting from the development of 6712 James Street by undertaking enhanced tree planting initiatives on suitable City owned lands assoc...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.6. 6712 James Street - Z-26001
+
+> That the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.7. 724 York Street - Z-26007
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 724 York Street Inc. relating to the property located at 724 York Street: a)    the proposed by-law as appended to the staff report dated March 10, 2026, as App...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.8. 929 Cheapside Street - Z-26003
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 929 Cheapside Inc. (c/o Monteith Brown Planning Consultants) relating to the property located at 929 Cheapside Street: a)    the proposed by-law as appended to ...
+
+**❌ Motion Failed (1 to 4) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+**Nay (4):** [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 3.9. 50 Southbridge Drive - OZ-26002
+
+> That, notwithstanding the recommendation of the Director, Planning and Development, part b) of the motion BE AMENDED to remove parts 2 a) ix) and x), Section Number 13.4 of the R9-7 Zone Special Provisions, from the proposed by-law as appended to the above-noted staff report as Appendix "B", to a...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.9. 50 Southbridge Drive - OZ-26002
+
+> That the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.10. Modification to Flood Plain and Two Zone Concept - Amendments to The London Plan - OZ-25102
+
+> That the staff report dated March 10, 2026, with respect to Modification to Flood Plain and Two Zone Concept – Amendments to The London Plan, BE REFERRED back to the Civic Administration for further engagement with relevant stakeholders with regard to the change in direction proposed, for additio...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

@@ -457,3 +457,48 @@ The Strategic Priorities and Policy Committee convened in closed session from 4:
 
 The meeting adjourned at 6:24 PM.
 
+---
+
+## Votes
+
+*4 substantive votes at this meeting (1 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.3, inclusive, BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.1. Review of Council Established Task Forces, Working Groups and Special Committees
+
+> The Civic Administration BE DIRECTED to undertake a comprehensive review of all of Council’s Advisory Committees, Task Forces, Working Groups and Special Committee and report back to the Governance Working Group with recommendations that would address the utility of the Committees, any potential ...
+
+**✅ Motion Passed (12 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher)
+
+**Nay (1):** [Jesse Helmer](/councillors/current/j-helmer)
+
+</details>
+
+### 4.3. 11th Report of the Governance Working Group
+
+> That the following actions be taken with respect to the 11th Report of the Governance Working Group from its meeting held on June 25, 2018: a)         on the recommendation of the City Manager, the following actions be taken with respect to the Council Policy Manual Modernization: i)          the...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.4. Acting Mayor - Wednesday, July 25, 2018 to Tuesday, August 14, 2018
+
+> That Councillor H.L. Usher BE APPOINTED Acting Mayor for the period commencing 9 AM on Wednesday, July 25, 2018 until approximately noon on Monday, August 13, 2018.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+

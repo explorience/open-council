@@ -704,3 +704,58 @@ There are no items for no deferred matters of additional business, so I just nee
 Thank you. - Thank you.
 
 </details>
+
+---
+
+## Votes
+
+*6 substantive votes at this meeting (0 contested, 6 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.2 to 2.6, inclusive, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.1. 420 Fanshawe Park Road East (H-9320)
+
+> That, on the recommendation of the Director, Development Services, with respect to the application by 2431602 Ontario Limited, relating to the property located at 420 Fanshawe Park Road East, the proposed by-law appended to the staff report dated April 26, 2021 as Appendix “A” BE INTRODUCED at th...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.1. 3rd Report of the Environmental and Ecological Planning Advisory Committee
+
+> That, the following actions be taken with respect to the 3rd Report of the Environmental and Ecological Planning Advisory Committee, from its meeting held on April 15, 2021: a) the 3095 Bostwick Road Working Group comments, appended to the Environmental and Ecological Planning Advisory Committee ...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.1. 3rd Report of the Environmental and Ecological Planning Advisory Committee
+
+> Motion to approve the following: "c) the Civic Administration BE REQUESTED to report back at a future Planning and Environment Committee meeting with respect to the feasibility of continuing with the homeowner education package as part of Special Provisions or to replace it with a requirement to ...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.2. 526 Oxford Street East (OZ-9303)
+
+> That, on the recommendation of the Director, City Planning and City Planner the following actions be taken with respect to the application by 2773070 Ontario Inc. and The Corporation of the City of London, relating to the property located at 526 Oxford Street East: a) the proposed by-law appended...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.3. 1701-1737 Richmond Street (Z-9291)
+
+> That, on the recommendation of the Director, Development Services, with respect to the application by Richmond Hyland Centre Inc. c/o Westdell Development Corporation, relating to the property located at 1701-1737 Richmond Street, the proposed by-law appended to the staff report dated April 26, 2...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

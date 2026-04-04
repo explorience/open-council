@@ -223,3 +223,39 @@ Recommendation:  That it BE NOTED that
 The
   meeting adjourned at 4:13 PM.
 
+---
+
+## Votes
+
+*2 substantive votes at this meeting (2 contested, 0 unanimous). Procedural motions excluded.*
+
+### 2. 1st Report of LTC
+  Long Term Growth Report Working Group
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler)
+
+</details>
+
+### 6. (ADDED) Funding for
+  2014 Thames Region Ecological Association Bicycle Festival
+
+> Motion     Passed
+
+**✅ Motion
+    Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler)
+
+</details>
+

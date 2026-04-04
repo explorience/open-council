@@ -436,3 +436,51 @@ And this one we can call by hand, all those in favor. Closing the vote, motion p
 with the Planning and Environment Committee.
 
 </details>
+
+---
+
+## Votes
+
+*4 substantive votes at this meeting (1 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2.3. Declare Surplus - City-Owned Property - Public Walkway South of 10 Rossmore Court
+
+> That the staff report dated October 23, 2023 regarding the declaration of surplus city owned property – Public Walkway South of 10 Rossmore Court, BE REFERRED to a future meeting of Corporate Services Committee for consideration to allow for community engagement.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.1. Delegation - Emily Williams, CEO and David Jansseune, Assistant Director, Finance, Middlesex-London Health Unit - Request for Redirection of 2022 Surplus Funds
+
+> That the application of the City of London’s share of Middlesex-London Health Unit's (MLHU) 2022 surplus in the amount of $423,548 to reduce the outstanding amount of MLHU’s variable bank loan for the fit-out of the Citi Plaza office space BE APPROVED; it being noted that the Corporate Services C...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 4.1. Delegation - Emily Williams, CEO and David Jansseune, Assistant Director, Finance, Middlesex-London Health Unit - Request for Redirection of 2022 Surplus Funds
+
+> Motion to receive the delegation from Emily Williams, CEO, Middlesex-London Health Unit
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.2. Application - Issuance of Proclamation - Hindu Heritage Month
+
+> That based on the application dated October 12, 2023 from Hindu Legacy, the month of November 2023 BE PROCLAIMED Hindu Heritage Month.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

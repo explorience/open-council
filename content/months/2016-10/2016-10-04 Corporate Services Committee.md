@@ -73,3 +73,39 @@ The Corporate Services Committee convened
   in camera from 12:23 PM to 12:40 PM after having passed a motion to do so,
   with respect to the following matters:
 
+---
+
+## Votes
+
+*2 substantive votes at this meeting (2 contested, 0 unanimous). Procedural motions excluded.*
+
+### 2. COUNCIL MEMBER
+  SUBMISSION - Recording of In Closed Session Meetings
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Harold Usher](/councillors/current/h-l-usher)
+
+</details>
+
+### 3. Corporate Services
+  Committee Deferred Matters List
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Harold Usher](/councillors/current/h-l-usher)
+
+</details>
+

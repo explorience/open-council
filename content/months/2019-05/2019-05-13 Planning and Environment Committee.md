@@ -1003,3 +1003,113 @@ f)          clauses 1.1, 3.1 to 3.5, inclusive, 3.7, 5.4 and 6.1, BE RE
 
 The meeting adjourned at 8:45 PM
 
+---
+
+## Votes
+
+*13 substantive votes at this meeting (0 contested, 13 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.7, inclusive, BE APPROVED.
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (1-0)
+
+### 3.2. Public Participation Meeting - Application - 1081 Riverside Drive (Z-9017)
+
+> That, on the recommendation of the Director, Development Services, based on the application by Hajar Properties Inc., relating to the property located at 1081 Riverside Drive, the proposed by-law appended to the staff report dated May 13, 2019 BE INTRODUCED at the Municipal Council meeting to be ...
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (1-0)
+
+### 3.3. Public Participation Meeting - Summerside Subdivision - 2910 and 3229 Turner Crescent (Phase 12B) - Request for Revisions to Draft Plan of Subdivision 39T-07508 (Z-9021)
+
+> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by Greengate Village Limited, relating to the lands located at 2910 to 3229 Turner Crescent (also known as Lots 1 - 38 and Blocks 97 - 108 within the Summerside Draft ...
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (1-0)
+
+### 3.4. Public Participation Meeting - Application - 462, 468, 470 and 472 Springbank Drive (OZ-8995)
+
+> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by Atlas Springbank Developments Ltd., relating to the properties located at 462, 468, 470, 472 Springbank Drive: a)          the proposed by-law appended to the staff...
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (1-0)
+
+### 3.5. Public Participation Meeting - Application - 4680 Wellington Road South (TZ-9027)
+
+> That, on the recommendation of the Director, Development Services, based on the application by 761030 Ontario Limited, relating to the property located at 4680 Wellington Road South, the proposed by-law appended to the staff report dated May 13, 2019 as Appendix "A” BE INTRODUCED at the Municipal...
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (1-0)
+
+### 3.6. Public Participation Meeting - Demolition Request for Heritage Designated Property - 123 Queens Avenue
+
+> That the request to demolish the heritage designated property located at 123 Queens Avenue BE REFERRED to a future meeting of the Planning and Environment Committee to allow for a structural assessment of the building to be undertaken; it being noted that the Planning and Environment Committee re...
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (1-0)
+
+### 3.7. Public Participation Meeting - Demolition Request for Heritage Listed Property - 3303 Westdel Bourne
+
+> That, on the recommendation of the Managing Director, Planning and City Planner, with the advice of the Heritage Planner, relating to the request for the designation of the heritage listed property at 3303 Westdel Bourne, that the following actions be taken: a)    notice BE GIVEN under the provis...
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (1-0)
+
+### 3.9. Public Participation Meeting - 2096 Wonderland Road North (Z-9010)
+
+> Motion to grant Mr. Kirkness an extension to his presentation.
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (1-0)
+
+### 3.9. Public Participation Meeting - 2096 Wonderland Road North (Z-9010)
+
+> That, on the recommendation of the Director, Development Services, based on the application by Invest Group Ltd., relating to the property located at 2096 Wonderland Road North, the proposed by-law appended to the staff report dated May 13, 2019 BE INTRODUCED at the Municipal Council meeting to b...
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (1-0)
+
+### 3.10. Public Participation Meeting - Public Site Plan Meeting - 112 St. James Street SPA18-140
+
+> Motion to allow Mr. Owen an extension of time.
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (1-0)
+
+### 3.10. Public Participation Meeting - Public Site Plan Meeting - 112 St. James Street SPA18-140
+
+> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by St. James Development Corp. relating to the property located at 112 St. James Street: a)          the Approval Authority BE ADVISED that the following issues were r...
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (1-0)
+
+### 3.10. Public Participation Meeting - Public Site Plan Meeting - 112 St. James Street SPA18-140
+
+> Motion to approve the following: "the Site Plan Approval Authority BE REQUESTED to consider the following with respect to this application: a)  a masonry enclosure for the temporary storage of external garbage; and, b) the installation of a four-way stop at the intersection of St. James Street an...
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (1-0)
+
+### 5.1. (ADDED) D. Dudek, Chair, London Advisory Committee on Heritage - 6th Report of the London Advisory Committee on Heritage
+
+> That the following actions be taken with respect to the 6th Report of the London Advisory Committee on Heritage, from its meeting held on May 8, 2019: a)            J.M. Fleming, Managing Director, Planning and City Planner and L. Davies Snyder, Planner II, Urban Regeneration BE ADVISED that the ...
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (1-0)
+

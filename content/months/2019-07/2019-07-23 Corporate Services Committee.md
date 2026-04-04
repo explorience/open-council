@@ -332,3 +332,49 @@ The Corporate Services Committee convened In Closed Session from 1:03 PM to 2:36
 
 The meeting adjourned at 2:37 PM.
 
+---
+
+## Votes
+
+*5 substantive votes at this meeting (0 contested, 5 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.6 BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 3.1. Tax Adjustment Agenda
+
+> That the recommendations contained in the amended Tax Adjustment Agenda dated July 23, 2019, BE APPROVED; it being noted that the Application No.'s 2017-175 and 2018-90 for the property known as 234 Dundas Street were removed; it being further noted that there were no members of the public in att...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.1. Additional Honourees for Mayor's New Year's Honour List
+
+> That the communication dated July 11, 2019 from Mayor E. Holder with respect to the request for four additional honourees to be recommended at the selection of the Mayor and Council BE REFERRED to the Civic Administration in order to report back to the Corporate Services Committee at a future dat...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 5.2. ADDED - Use of Council Chambers for Sovereign's Medal Ceremony
+
+> That the use of the City of London Municipal Council Chambers for a Sovereign's Medal presentation ceremony by the Mayor, to be undertaken at the request of the Governor General, BE APPROVED, in accordance with the communication of the Mayor dated July 18, 2019.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 5.3. ADDED - Appointment to the London Hydro Board of Directors
+
+> That, on the recommendation of the Corporate Services Committee, the attached proposed by-law BE INTRODUCED at the Municipal Council meeting to be held July 30, 2019 to:    a)         ratify and confirm the Resolution of the Shareholder of London Hydro Inc., attached as Schedule “A” to the by-law...
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (1-0)
+

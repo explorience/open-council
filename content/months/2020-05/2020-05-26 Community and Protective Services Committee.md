@@ -158,3 +158,25 @@ That the Deferred Matters List for the Community and Protective Services Committ
 
 The meeting adjourned at 4:33 PM.
 
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 4.1. Food Security Pilot - Backyard Chickens - S. Eden
+
+> That NO ACTION BE TAKEN with respect to the communication dated April 21, 2020, from S. Eden, with respect to a pilot program to allow citizens to raise chickens in order to secure a supply of eggs and hens for their own consumption. (2020-P14)
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.2. Holy Roller Tank Memorial - Councillor S. Lewis
+
+> That the following actions be taken with respect to the communication dated May 8, 2020 from Lt. Col. A. Finney, 1st Hussars and the communication from Councillor S. Lewis, appended to the agenda, with respect to the restoration of the Holy Roller tank memorial in Victoria Park: a)     the concur...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

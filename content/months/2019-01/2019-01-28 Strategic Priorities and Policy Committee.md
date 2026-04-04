@@ -164,3 +164,40 @@ The meeting adjourned at 4:39 PM.
 
 ****
 
+---
+
+## Votes
+
+*3 substantive votes at this meeting (1 contested, 2 unanimous). Procedural motions excluded.*
+
+### 5.1. ADDED - Public Wi-Fi in Recreation Facilities
+
+> That the public provision of Wi-Fi in recreation facilities, particularly in areas with existing appropriate network connectivity, BE INCLUDED in the draft 2019-2023 Strategic Plan.
+
+**✅ Motion Passed (12 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire)
+
+**Nay (1):** [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 5.2. ADDED - Enhanced Winter Maintenance
+
+> That a new strategy entitled “Improve Residents’ Satisfaction with winter road and sidewalk maintenance” BE ADDED to Leading in Public Service (LPS) Outcome 2 - Londoners experience exceptional and valued customer service, subsection C - Increase efficiency and effectiveness of service delivery, ...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 6. Adjournment
+
+> That the meeting adjourn.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+

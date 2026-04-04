@@ -272,3 +272,33 @@ The Corporate Services Committee convenes, In Closed Session, from 12:57 PM to 1
 
 The meeting adjourned at 1:07 pm.
 
+---
+
+## Votes
+
+*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2.1. Capital Asset Renewal and Replacement Reserve Fund Rationalization Report
+
+> That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the following actions be taken: a)      the Capital Asset Renewal and Replacement Reserve Funds by-law appended to the staff report dated September 8, 2020 as Appendix C, which in...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.2. 2020 Reserve Fund Housekeeping Report
+
+> That on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the following actions be taken: a)      the following proposed by-laws appended as Appendix A to the above-noted staff report BE INTRODUCED at the Municipal Council meeting to be h...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. Application - Issuance of Proclamation - Respiratory Therapy Week
+
+> That based on the application dated August 25, 2020, from the Canadian Society of Respiratory Therapists, the week of October 25 - 31, 2020 BE PROCLAIMED as Respiratory Therapy Week.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

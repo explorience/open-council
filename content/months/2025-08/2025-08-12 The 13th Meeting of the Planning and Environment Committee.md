@@ -2805,3 +2805,169 @@ Motion to adjourn. Councillor Palazzo seconded with 10 fingers, well, nine and a
 Motion carries. Thanks, folks.
 
 </details>
+
+---
+
+## Votes
+
+*19 substantive votes at this meeting (1 contested, 18 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That, pursuant to section 27.6 of the Council Procedure By-law, a change in order of the Planning and Environment Committee Agenda BE APPROVED, to provide for Item 2.7 in Stage 2, Consent, to be remain in Consent.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2. Consent
+
+> That Items 2.1-2.6 and 2.8, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.7. Medway Valley Heritage Forest Environmentally Significant Area (South) Conservation Master Plan
+
+> That the delegation requests from P. McLean, B. Vogel and P. Schmidt, as appended to the added agenda BE APPROVED, to be heard at this time.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.7. Medway Valley Heritage Forest Environmentally Significant Area (South) Conservation Master Plan
+
+> That the motion BE AMENDED to read as follows: That the Civic Administration BE DIRECTED to undertake a review of the CMP and update it to remove the trail section of Attawandaron Road Park and take no further action on the implementation and construction of this trail.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.7. Medway Valley Heritage Forest Environmentally Significant Area (South) Conservation Master Plan
+
+> That the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.2. 430 First Street (Z-25086)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 2741943 Ontario Inc. c/o Europa Foods relating to the property located at 430 First Street, the proposed by-law as appended to the staff report dated August 12,...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 3.3. 1204 Richmond Street (Z-25065)
+
+> That, on the recommendation of the Director, Planning and Development, the following action be taken with respect to the application of The Incorporated Synod of the Diocese of Huron (c/o Siv-ik Planning & Design of) relating to the property located at 1204 Richmond Street, the proposed by-law as...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.4. 180 Simcoe Street and 214-230 Richmond Street (O-25063) (Z-25062)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the applications of The Corporation of the City of London (O-25063) and GCTel and Fowad Zarify (c/o Zelinka Priamo Ltd.) (Z-25062) relating to the properties located at 180 Simcoe...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.5. 514-520 South Street (Z-25068)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Amnoor Homes Inc. (c/o Strik, Baldinelli, Moniz Ltd.) relating to the property located at 514-520 South Street: a)    the proposed by-law as appended to the sta...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.6. 35-45 Southdale Road East (Z-25074)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Finch Real Property ll Ltd. relating to the property located at 35-45 Southdale Road East, the proposed by-law as appended to the staff report dated August 12, ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.7. 180-186 Commissioners Road West and 548 Viscount Road (Z-25077)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Alora Homes c/o Creative Structures relating to the property located at 180-186 Commissioners Road West and 548 Viscount Road:    a)    the proposed by-law as a...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.8. 116-118 Adelaide Street North (Z-25060)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Tristone Partners Inc. relating to the property located at 116-118 Adelaide Street North: a)    the proposed by-law as appended to the staff report dated August...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.9. 1736, 1796 & 1814 Commissioners Road East (Z-25057)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Auburn Developments Inc. relating to the property located at 1736, 1796 & 1814 Commissioners Road East: a)    the proposed by-law as appended to the staff repor...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.10. 1196 Sunningdale Road West (OZ-25052)
+
+> That the motion BE AMENDED to add a new part e) to read as follows: e) the Subdivision Approval Authority BE REQUESTED to consider amending the draft plan of subdivision to require the subject lands to be reserved for 3 years for permitted uses within the Community Facility (CF2) zone until the d...
+
+**✅ Motion Passed (3 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy)
+
+</details>
+
+### 3.10. 1196 Sunningdale Road West (OZ-25052)
+
+> That the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.11. City-Wide: Zoning By-law Amendment to Stacked Townhouse Definition (Z-25071)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by the Corporation of the City of London relating to the definition of stacked townhouse: a)    the proposed by-law as appended to the staff report dated August 12...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.12. City-Wide: Minor Zoning By-law Amendments Delegation and Approval (O-25064)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by the City of London relating to the Delegation and Approval of Minor Zoning By-law Amendments: a)    the proposed by-law as appended to the staff report dated Au...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 5.1. Deferred Matters List
+
+> That the Deferred Matters list BE AMENDED to remove item 1 from the list.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 5.1. Deferred Matters List
+
+> That the motion as amended be approved
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

@@ -1,0 +1,251 @@
+.vote-explorer {
+  max-width: 900px;
+  margin: 0 auto;
+
+  .ve-header {
+    margin-bottom: 1.5rem;
+
+    h1 {
+      margin: 0 0 0.5rem;
+    }
+
+    .ve-subtitle {
+      color: var(--gray);
+      font-size: 0.95rem;
+      margin: 0;
+    }
+  }
+
+  .ve-controls {
+    position: sticky;
+    top: 0;
+    background: var(--light);
+    z-index: 10;
+    padding: 0.75rem 0;
+    border-bottom: 1px solid var(--lightgray);
+    margin-bottom: 1rem;
+  }
+
+  .ve-search {
+    margin-bottom: 0.75rem;
+
+    input {
+      width: 100%;
+      padding: 0.6rem 0.8rem;
+      border: 1px solid var(--lightgray);
+      border-radius: 6px;
+      font-size: 0.95rem;
+      background: var(--light);
+      color: var(--dark);
+
+      &:focus {
+        outline: none;
+        border-color: var(--secondary);
+      }
+
+      &::placeholder {
+        color: var(--gray);
+      }
+    }
+  }
+
+  .ve-filters {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+
+    select {
+      padding: 0.4rem 0.6rem;
+      border: 1px solid var(--lightgray);
+      border-radius: 4px;
+      font-size: 0.85rem;
+      background: var(--light);
+      color: var(--dark);
+      cursor: pointer;
+
+      &:focus {
+        outline: none;
+        border-color: var(--secondary);
+      }
+    }
+  }
+
+  .ve-stats {
+    margin-top: 0.5rem;
+    font-size: 0.85rem;
+    color: var(--gray);
+  }
+
+  .ve-loading {
+    text-align: center;
+    padding: 2rem;
+    color: var(--gray);
+  }
+
+  // Individual vote card
+  .ve-vote {
+    border: 1px solid var(--lightgray);
+    border-radius: 8px;
+    padding: 1rem;
+    margin-bottom: 0.75rem;
+    transition: border-color 0.15s;
+
+    &:hover {
+      border-color: var(--secondary);
+    }
+
+    &.ve-close {
+      border-left: 3px solid #e67e22;
+    }
+
+    &.ve-failed {
+      .ve-result-badge {
+        background: #fde8e8;
+        color: #c0392b;
+      }
+    }
+
+    &.ve-passed {
+      .ve-result-badge {
+        background: #e8f8e8;
+        color: #27ae60;
+      }
+    }
+  }
+
+  .ve-vote-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 0.75rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .ve-vote-meta {
+    font-size: 0.8rem;
+    color: var(--gray);
+
+    a {
+      color: var(--secondary);
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+
+  .ve-result-badge {
+    font-size: 0.8rem;
+    font-weight: 600;
+    padding: 0.2rem 0.5rem;
+    border-radius: 4px;
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+
+  .ve-item-title {
+    font-weight: 600;
+    font-size: 0.95rem;
+    margin-bottom: 0.25rem;
+    line-height: 1.3;
+  }
+
+  .ve-motion-text {
+    font-size: 0.85rem;
+    color: var(--darkgray);
+    line-height: 1.4;
+    margin-bottom: 0.5rem;
+
+    // Truncate long text
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+
+    &.expanded {
+      -webkit-line-clamp: unset;
+    }
+  }
+
+  .ve-expand-text {
+    font-size: 0.8rem;
+    color: var(--secondary);
+    cursor: pointer;
+    background: none;
+    border: none;
+    padding: 0;
+    margin-bottom: 0.5rem;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  // Roll call
+  .ve-rollcall {
+    margin-top: 0.5rem;
+
+    summary {
+      font-size: 0.85rem;
+      color: var(--secondary);
+      cursor: pointer;
+      user-select: none;
+      padding: 0.25rem 0;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+
+    .ve-rollcall-body {
+      padding: 0.5rem 0;
+      font-size: 0.85rem;
+      line-height: 1.6;
+    }
+  }
+
+  .ve-vote-group {
+    margin-bottom: 0.25rem;
+
+    .ve-vote-label {
+      font-weight: 600;
+      margin-right: 0.25rem;
+    }
+
+    &.ve-yeas .ve-vote-label { color: #27ae60; }
+    &.ve-nays .ve-vote-label { color: #c0392b; }
+    &.ve-absent .ve-vote-label { color: #95a5a6; }
+
+    a {
+      color: var(--dark);
+      text-decoration: none;
+
+      &:hover {
+        color: var(--secondary);
+        text-decoration: underline;
+      }
+    }
+  }
+
+  .ve-unanimous {
+    font-size: 0.85rem;
+    color: var(--gray);
+    font-style: italic;
+  }
+
+  // Responsive
+  @media (max-width: 600px) {
+    .ve-filters {
+      flex-direction: column;
+
+      select {
+        width: 100%;
+      }
+    }
+
+    .ve-vote-header {
+      flex-direction: column;
+    }
+  }
+}

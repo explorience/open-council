@@ -373,3 +373,90 @@ None.
 
 The meeting adjourned at 10:16 PM.
 
+---
+
+## Votes
+
+*6 substantive votes at this meeting (5 contested, 1 unanimous). Procedural motions excluded.*
+
+### 3.1. Public Participation Meeting - Not to be heard before 4:00 PM - Public Consultation - Proposed Expansion of a Gaming Site
+
+> Motion to approve that part b) commence with the words "the expansion of a gaming site to include entertainment options that would allow for up to 1,200 slots at a casino, and up to 50 live table games, within the jurisdiction of The Corporation of the City of London, BE ENDORSED;"
+
+**✅ Motion Passed (7 to 5) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Virginia Ridley](/councillors/current/v-ridley)
+
+**Nay (3):** [Michael van Holst](/councillors/current/m-van-holst), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert)
+
+</details>
+
+### 3.1. Public Participation Meeting - Not to be heard before 4:00 PM - Public Consultation - Proposed Expansion of a Gaming Site
+
+> Motion to approve the addition of the words "it being noted that The Corporation of the City of London prefers an expanded location at the Western Fair District;" to the end of part b).
+
+**✅ Motion Passed (11 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley)
+
+**Nay (1):** [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 3.1. Public Participation Meeting - Not to be heard before 4:00 PM - Public Consultation - Proposed Expansion of a Gaming Site
+
+> Motion to approve the following part c) c)         the Civic Administration BE DIRECTED to report back on how some or all of the incremental revenues from expanded gaming, paid to The Corporation of the City of London according to the contribution agreement with the Ontario Lottery and Gaming Cor...
+
+**✅ Motion Passed (11 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley)
+
+**Nay (1):** [Phil Squire](/councillors/current/p-squire)
+
+</details>
+
+### 3.1. Public Participation Meeting - Not to be heard before 4:00 PM - Public Consultation - Proposed Expansion of a Gaming Site
+
+> Motion to approve the following part d): d)                the Province of Ontario and the Alcohol and Gaming Commission of Ontario BE REQUESTED to flow the additional revenues from expanded gaming in London back into the community in a more significant way than the current funding arrangement; a...
+
+**✅ Motion Passed (12 to 0)**
+
+Unanimous (10-0)
+
+### 4.1. Bus Rapid Transit – Environmental Assessment Initiative
+
+> That the following actions be taken with respect to the Bus Rapid Transit Environmental Assessment Initiative: a)               the staff report dated April 23, 2018, entitled “Bus Rapid Transit – Environmental Assessment Initiative”, together with the associated presentation made by the Project ...
+
+**✅ Motion Passed (10 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert)
+
+</details>
+
+### 4.1. Bus Rapid Transit – Environmental Assessment Initiative
+
+> That the order of business BE CHANGED in order to permit Item 4.1 to be dealt with prior to Item 3.1.
+
+**❌ Motion Failed (3 to 9)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Bill Armstrong](/councillors/current/b-armstrong)
+
+**Nay (7):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert)
+
+</details>
+

@@ -528,3 +528,26 @@ Seconded. I said that you could speak at the next meeting if you submitted your 
 Motion is carried for adjournment. We're adjourned.
 
 </details>
+
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 and 2.3 to 2.7 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.2. Neighbourhood Decision Making: 2024 Update
+
+> Motion to approve the request for delegation from B. Samuels, to be heard at this meeting.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

@@ -894,3 +894,58 @@ Is that up on the screen or maybe we'll vote by hand, see a lot of, yeah, that's
 Chair.
 
 </details>
+
+---
+
+## Votes
+
+*6 substantive votes at this meeting (0 contested, 6 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.2, 2.4, 2.6 and 2.7 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.3. Update - City of London 2020-2021 Winter Response Program for Unsheltered Individuals
+
+> That, on the recommendation of the Acting Managing Director, Housing, Social Services and Dearness Home, the following actions be taken with respect to the staff report dated April 20, 2021 related to an Update on the City of London 2020-2021 Winter Response Program for Unsheltered Individuals: a...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.2. Public Participation Meeting - Administrative Monetary Penalties - Application to Municipal By-laws
+
+> That, on the recommendation of the Managing Director, Development & Compliance Services and Chief Building Official, the following actions be taken with respect to the staff report dated April 20, 2021, related to the Administrative Monetary Penalties System: a)     the proposed by-law, as append...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.2. Public Participation Meeting - Administrative Monetary Penalties - Application to Municipal By-laws
+
+> open ppm
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.2. Public Participation Meeting - Administrative Monetary Penalties - Application to Municipal By-laws
+
+> close ppm
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. Councillor M. Cassidy - Animal By-law PH-3
+
+> That the communication, dated April 1, 2021, from Councillor M. Cassidy, with respect to By-law PH-3, being "A by-law to provide for the regulation, restriction and prohibition of the keeping of animals in the City of London", BE REFERRED to the Civic Administration for review and a report back a...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

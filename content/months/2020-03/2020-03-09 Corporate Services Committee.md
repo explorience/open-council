@@ -310,3 +310,74 @@ None.
 
 The meeting adjourned at 12:59 PM.
 
+---
+
+## Votes
+
+*7 substantive votes at this meeting (1 contested, 6 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That items 2.1, 2.2, 2.4 and 2.5, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.3. Development Charges Housekeeping Matters Related To Bill 108
+
+> That on the recommendation of the Managing Director, Corporate Services & City Treasurer, Chief Financial Officer, the following actions be taken:    a) the proposed by-law appended to the staff report dated March 9, 2020 as Appendix “A” being “A by-law to adopt a new Council Policy entitled “Dev...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.3. Development Charges Housekeeping Matters Related To Bill 108
+
+> That the delegation request from M. Wallace, London Development Institute BE APPROVED to be heard at this time.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.1. Application - Issuance of Proclamation - Guru Nanak Mission Society, London ON
+
+> That, based on the application dated February 13, 2020, April 2020 BE PROCLAIMED as Sikh Heritage Month in the City of London; it being noted that every April Sikhs across Canada participate in Sikh Heritage Month festivities and events that honour the birth of Khalsa and the rich heritage of the...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.2. Application - Issuance of Proclamation - GBS/CIDP Foundation of Canada Day
+
+> That, based on the application dated February 19, 2020, the day of May 5, 2020 BE PROCLAIMED as Guillain-Barre Syndrome-Chronic Inflammatory Demyelinating Polyneuropathy Foundation of Canada Day in London, as it falls within Neuropathy Awareness Month.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.3. Application - Issuance of Proclamation - Amputee Coalition of Toronto
+
+> That, based on the application dated February 24, 2020, from the Amputee Coalition of Toronto, the month of April 2020 BE PROCLAIMED as Limb Loss Awareness Month in London.
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer)
+
+**Nay (1):** [Ed Holder](/councillors/current/e-holder)
+
+**Absent (1):** [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+</details>
+
+### 4.4. (ADDED) Resolution Regarding Banking Ontario Works Royal Bank of Canada Right Pay Reloadable Payment Card Program Agreement
+
+> That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the following actions be taken with respect to the agreements associated with the Ontario Works Royal Bank of Canada Right Pay Reloadable Payment Card Program Agreement: a)      t...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+

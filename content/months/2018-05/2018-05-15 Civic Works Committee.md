@@ -364,3 +364,25 @@ That the Civic Works Committee Deferred List, as at April 23, 2018, BE RECEIVED.
 
 The meeting adjourned at 4:28 PM.
 
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.10 BE APPROVED.
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (1-0)
+
+### 4.1. Automated Speed Enforcement
+
+> That the Civic Administration BE DIRECTED to undertake the following actions with respect to automated speed enforcement: a)            consult with the London Road Safety Coalition, appropriate Advisory Committees, local school boards and other stakeholders with respect to the potential implemen...
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (1-0)
+

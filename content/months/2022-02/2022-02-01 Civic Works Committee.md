@@ -373,3 +373,33 @@ The meeting adjourned at 12:40 PM.
 
 ****
 
+---
+
+## Votes
+
+*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
+
+### 1. Disclosures of Pecuniary Interest
+
+> That pursuant to section 27.6 of the Council Procedure By-law, a change in order of the Civic Works Committee Agenda BE APPROVED to provide for Stage 6, Confidential to be considered before Stage 2, Consent.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2. Consent
+
+> That Items 2.1, 2.2, 2.3, 2.4, 2.5, 2.6, 2.7, and 2.8 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 5. Deferred Matters/Additional Business
+
+> That Items 5.1, 5.2, and 5.3 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

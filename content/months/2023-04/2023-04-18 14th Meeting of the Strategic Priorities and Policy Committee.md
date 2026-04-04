@@ -1724,3 +1724,100 @@ I don't see any. With that, I'll entertain a motion to adjourn. Moved by Council
 That motion's passed. Thank you, we are adjourned.
 
 </details>
+
+---
+
+## Votes
+
+*8 substantive votes at this meeting (4 contested, 4 unanimous). Procedural motions excluded.*
+
+### 4.1. 2024-2027 Multi-Year Budget
+
+> That part b) BE AMENDED to read as follows: b)  the Civic Administration BE ADVISED of the Council desire for Civic Administration to bring forward a draft 2024 to 2027 Multi-year budget with an average annual tax levy increase in the range of approximately 2.9% – 3.9% as identified to maintain e...
+
+**✅ Motion Passed (12 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 4.2. Request for a Shareholder's Meeting - London Hydro Inc.
+
+> That the following actions be taken with respect to the 2022 Annual General Meeting of the Shareholder for London Hydro Inc.:    a)      the 2022 Annual General Meeting of the Shareholder for London Hydro Inc. BE HELD at a meeting of the Strategic Priorities and Policy Committee on June 20, 2023,...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.3. Consideration of Appointment to the London Police Services Board (Requires 1 Member)
+
+> That the following actions be taken with respect to the appointment consideration to a member of the London Police Services Board: a)  interviews BE CONDUCTED with the following individuals: - Michele Anderson - Gita Canaran - Stephen D'Amelio - Ryan Gauss - Joseph Wabegijig b)   the above-noted ...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.3. Consideration of Appointment to the London Police Services Board (Requires 1 Member)
+
+> Consideration of appointment to the London Police Services Board
+
+**❌ Majority Winner: Gita Canaran; Joseph Wabegijig; Ryan Gauss; Stephen D Amelio; Michele Anderson 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (56):** [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Hadleigh McAlister](/councillors/current/h-mcalister), [Hadleigh McAlister](/councillors/current/h-mcalister), [Hadleigh McAlister](/councillors/current/h-mcalister), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Shawn Lewis](/councillors/current/s-lewis), [Shawn Lewis](/councillors/current/s-lewis), [Shawn Lewis](/councillors/current/s-lewis), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Peter Cuddy](/councillors/current/p-cuddy), [Peter Cuddy](/councillors/current/p-cuddy), [Peter Cuddy](/councillors/current/p-cuddy), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Susan Stevenson](/councillors/current/s-stevenson), [Susan Stevenson](/councillors/current/s-stevenson), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Jerry Pribil](/councillors/current/j-pribil), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Sam Trosow](/councillors/current/s-trosow), [Sam Trosow](/councillors/current/s-trosow), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Steve Lehman](/councillors/current/s-lehman), [Steve Lehman](/councillors/current/s-lehman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Elizabeth Peloza](/councillors/current/e-peloza), [Elizabeth Peloza](/councillors/current/e-peloza), [Elizabeth Peloza](/councillors/current/e-peloza), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier), [Steve Hillier](/councillors/current/s-hillier), [Steve Hillier](/councillors/current/s-hillier), [Steve Hillier](/councillors/current/s-hillier), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 5.1. (ADDED) Request to Update London Hydro Inc. Board of Director Recruitment, Interview and Nomination Process
+
+> That the Civic Administration BE DIRECTED to take the following actions be taken with respect to the communications dated April 11, 2023, from the Chair of the London Hydro Board, related to Board recruitment and appointment process, and the impending Board vacancies: a)     the impending London ...
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+</details>
+
+### 5.2. (ADDED) Request a Governance Working Group Meeting
+
+> Motion to approve parts a) and b): That the Civic Administration BE DIRECTED to call the first meeting of the Governance Working Group no later than May 18, 2023 and the following matters BE REFERRED to the Governance Working Group for discussion and for potential recommendation(s) back to the St...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 5.2. (ADDED) Request a Governance Working Group Meeting
+
+> Motion to approve parts c), d) and e) That the Civic Administration BE DIRECTED to call the first meeting of the Governance Working Group no later than May 18, 2023 and the following matters BE REFERRED to the Governance Working Group for discussion and for potential recommendation(s) back to the...
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 5.3. (ADDED) 4th Report of the Diversity, Inclusion and Anti-Oppression Community Advisory Committee
+
+> That the following actions be taken with respect to the 4th Report of the Diversity, Inclusion and Anti-Oppression Community Advisory Committee from it's meeting held on April 13, 2023:    a)  the creation of a sub-committee of the Diversity, Inclusion and Anti-Oppression Community Advisory Commi...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+

@@ -230,3 +230,25 @@ The Corporate Services Committee convenes, In Closed Session, from 12:55 PM to 1
 
 The meeting adjourned at 1:07 PM.
 
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That items 2.1 to 2.6 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.1. Parkinson Society Southwestern Ontario - Request for Exemption and Policy Amendment - City of London Days at Budweiser Gardens
+
+> That the following actions be taken with respect to the request of the Parkinson Society Southwestern Ontario for an additional City of London day at the Budweiser Gardens: a)     notwithstanding the existing policy, the request for the Parkinson Society of Southwestern Ontario for a City of Lond...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+

@@ -514,3 +514,65 @@ That the Managing Director, Planning and City Planner and the Managing Director,
 
 The meeting adjourned at 5:57 PM.
 
+---
+
+## Votes
+
+*7 substantive votes at this meeting (0 contested, 7 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 and 2.2, inclusive, BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 3.1. Delegation - S. Levin, Chair, Environmental and Ecological Planning Advisory Committee - 6th Report of the Environmental and Ecological Planning Advisory Committee
+
+> That, the following actions be taken with respect to the 6th Report of the Environmental and Ecological Planning Advisory Committee, from its meeting held on May 16, 2019: a)            the Working Group comments appended to the 6th Report of the Environmental and Ecological Planning Advisory Com...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 3.3. Public Participation Meeting - Application - 1170 Wellington Road (Z-9013)
+
+> That, on the recommendation of the Director, Development Services,  based on the application by WLR Capital Inc., c/o Zelinka Priamo Ltd., relating to the property located at 1170 Wellington Road, the proposed by-law appended to the staff report dated June 4, 2019 BE INTRODUCED at the Municipal C...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 3.4. Public Participation Meeting - Application - 3087 White Oak Road - 39T-18505 (Z-8980)
+
+> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by Whiterock Village Inc., relating to the property located at 3087 White Oak Road (legally described as Adams St PL 643 London; Reserve PL 643 London; PT LT 31 CON 2 ...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 3.5. Public Participation Meeting - Repeal of Building By-law B-6 and Proposed Building By-law B-7
+
+> That on the recommendation of the Managing Director, Development and Compliance Services & Chief Building Official, the proposed by-law appended to the staff report dated June 4, 2019, being “A By-law to provide for the construction, demolition, change of use, occupancy permits, transfer of permi...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 4.1. M. Rivard, Stantec - Application - 123 Queens Avenue - Demolition Request Extension
+
+> That, the applicant BE ADVISED that pursuant to Section 42(4) of the Ontario Heritage Act, the Municipal Council approves the request for an extension until July 31, 2019, relating to the Demolition Permit application for the property located at 123 Queens Avenue to allow the Structural Engineeri...
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (1-0)
+
+### 5.1. Deferred Matters List
+
+> That the Managing Director, Planning and City Planner and the Managing Director, Development and Compliance Services & Chief Building Official BE DIRECTED to update the Deferred Matters List to remove any items that have been addressed by the Civic Administration.
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (1-0)
+

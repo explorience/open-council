@@ -251,3 +251,33 @@ That the Deferred Matters List for the Community and Protective Services Committ
 
 The meeting adjourned at 4:41 PM.
 
+---
+
+## Votes
+
+*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.2, 2.3 and 2.4 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.1. Extension of Hours for Sound from Outdoor Stage During 2019 Juno Week
+
+> That, on the recommendation of the Managing Director, Parks & Recreation, the following actions be taken with respect to the extension of hours for sound from an outdoor stage during the 2019 Juno week: a)            the revised attached proposed by-law, as appended to the staff report dated Janu...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. Towing Services Review
+
+> That the communication, as appended to the agenda, from Councillor S. Lewis, with respect to a request for a draft by-law related to the towing industry, BE REFERRED to the Civic Administration for a review and consultation with the industry as well as with law enforcement agencies, including the...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

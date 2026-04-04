@@ -165,3 +165,17 @@ That the Civic Works Committee Deferred Matters List as at September 13, 2021, B
 
 The meeting adjourned at 12:36 PM.
 
+---
+
+## Votes
+
+*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.2, and 2.4, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+

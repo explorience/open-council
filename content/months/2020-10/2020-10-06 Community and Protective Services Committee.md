@@ -352,3 +352,32 @@ The Community and Protective Services Committee convened, In Closed Session, fro
 
 The meeting adjourned at 6:16 PM
 
+---
+
+## Votes
+
+*2 substantive votes at this meeting (1 contested, 1 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.2, 2.3 and 2.5 to 2.8 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.1. RFP 20-54 Municipal Parking Enforcement Services
+
+> That, on the recommendation of the Managing Director, Development and Compliance Services and Chief Building Official, the following actions be taken with respect to the Municipal Parking Enforcement Services contract, RFP 20-54: a)     the Submission from Imperial Parking Canada Corporation – Pa...
+
+**❌ Motion Failed (3 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Ed Holder](/councillors/current/e-holder)
+
+**Nay (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+</details>
+

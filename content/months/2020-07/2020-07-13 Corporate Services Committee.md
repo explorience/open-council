@@ -332,3 +332,41 @@ The Corporate Services Committee convenes, In Closed Session, from 1:01 PM to 1:
 
 The meeting adjourned at 1:19 PM.
 
+---
+
+## Votes
+
+*4 substantive votes at this meeting (0 contested, 4 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That items 2.1 to 2.7, excluding items 2.3 and 2.6, BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.6. Industrial Land Development Strategy - Annual Monitoring and Pricing Report - City-Owned Industrial Land
+
+> That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, on the advice of the Manager of Realty Services with respect to the City of London’s Industrial Land Development Strategy, the following actions be taken with respect to the annua...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 5.1. (ADDED) Remuneration for Elected Officials and Appointed Citizens
+
+> That, notwithstanding the provisions of the Council Policy "Remuneration for Elected Officials and Appointed Citizen Members", the remuneration for elected officials and appointed citizens, NO INCREASE to remuneration for elected officials for appointed citizens be made for 2020.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 5.2. (ADDED) Declaration of Mutual Commitment and Friendship with Ontario Federation of Indigenous Friendship Centres
+
+> WHEREAS London is working with the N’Amerind Friendship Centre;     WHEREAS the N’Amerind Friendship Centre has been an active contributor to the well being of residents in the community;    WHEREAS London has a good and ongoing relationship with the N’Amerind Friendship Centre and wants to set a...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

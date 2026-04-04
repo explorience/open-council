@@ -325,3 +325,46 @@ The meeting adjourned at 5:54 PM.
 
 ****
 
+---
+
+## Votes
+
+*4 substantive votes at this meeting (1 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.6, inclusive, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.1. Application - 1150 Fanshawe Park Road East (OZ-9215)
+
+> That, on the recommendation of the Director, City Planning and City Planner, the following actions be taken with respect to the application by Stackhouse Developments Inc., relating to the property located at 1150 Fanshawe Park Road East: a) the proposed by-law appended to the staff report dated ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.1. Brendon Samuels - Request for Delegation Status - Bird Friendly Skies By-law
+
+> Motion to approve the delegation request of Brendon Samuels with respect to the Bird Friendly Skies by-law.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 6. Adjournment
+
+> The meeting adjourned at 5:54 PM.
+
+**❌  🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+
+</details>
+

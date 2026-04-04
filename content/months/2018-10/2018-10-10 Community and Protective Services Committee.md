@@ -340,3 +340,40 @@ The Community and Protective Services Committee convened in camera from 1:52 PM 
 
 The meeting adjourned at 1:55 PM.
 
+---
+
+## Votes
+
+*3 substantive votes at this meeting (1 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.2, 2.3, 2.4, 2.6, 2.7 and 2.8 BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 3.2. Community Diversity and Inclusion Strategy (CDIS) Update
+
+> Motion to approve part a).
+
+**✅ Motion Passed (3 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Maureen Cassidy](/councillors/current/m-cassidy)
+
+**Nay (1):** [Mo Salih](/councillors/current/m-salih)
+
+</details>
+
+### 3.2. Community Diversity and Inclusion Strategy (CDIS) Update
+
+> Motion to approve part b).
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+

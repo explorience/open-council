@@ -2159,3 +2159,74 @@ MOTION FOR IN CAMERA SESSION
 
 304.
 
+---
+
+## Votes
+
+*4 substantive votes at this meeting (4 contested, 0 unanimous). Procedural motions excluded.*
+
+### 9. Recorded Vote -
+  Investment and Economic Prosperity Committee
+
+> The Committee of the Whole (CW) held a   recorded vote on the appointments to the Investment and Economic Prosperity   Committee.  The motion carried, the Members voting as follows:
+
+**✅ motion carried 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Denise Brown](/councillors/current/d-brown)
+
+**Nay (1):** [Matt Brown](/councillors/current/m-brown)
+
+</details>
+
+### 18. Special Provisions
+  – Cedarhollow Developments Limited and Auburn Homes Inc. – Cedarhollow
+  Subdivision – Phase 2 (39T-03518)
+
+> The motion to adopt clause 19 is put.    Motion Passed on a recorded vote, the   Members voting as follows:
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (3):** [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Judy Bryant](/councillors/current/j-p-bryant)
+
+</details>
+
+### 27. KAP Holdings Inc. –
+  186-188 Huron Street and 2 Audrey Avenue (OZ-7912)
+
+> Motion Failed on a recorded vote, the   Members voting as follows:
+
+**❌ Motion Failed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Sandy White](/councillors/current/s-white)
+
+**Nay (11):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+</details>
+
+### 27. KAP Holdings Inc. –
+  186-188 Huron Street and 2 Audrey Avenue (OZ-7912)
+
+> Motion Passed on a recorded vote, the   Members voting as follows:
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (2):** [Stephen Orser](/councillors/current/s-orser), [Sandy White](/councillors/current/s-white)
+
+</details>
+

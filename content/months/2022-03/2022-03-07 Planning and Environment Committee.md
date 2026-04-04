@@ -582,3 +582,49 @@ None.
 
 The meeting adjourned at 6:49 PM.
 
+---
+
+## Votes
+
+*5 substantive votes at this meeting (0 contested, 5 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.6, inclusive, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.1. 3425 Grand Oak Crossing (39CD-21520)
+
+> That, on the recommendation of the Deputy City Manager, Planning and Economic Development, based on the application of 2219008 Ontario Ltd. (York Developments), relating to the property located at 3425 Grand Oak Crossing: a)    the Approval Authority BE ADVISED that no issues were raised at the p...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.2. 600 Oxford Street West (OZ-9437)
+
+> That, on the recommendation of the Director, Planning & Development, the following actions be taken with respect to the application by Maverick Real Estate Inc., relating to the property located at 600 Oxford Street West: a)    the proposed by-law appended to the staff report dated March 7, 2022 ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.3. 1420 Hyde Park Road (O-9422/Z-9423)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Hyde Construction (c/o Pete Hyde), relating to the property located at 1420 Hyde Park Road: a) the proposed by-law appended to the staff report dated March 7, 2...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 3.4. 6756 James Street (Z-9401)
+
+> That, on the recommendation of the Director, Planning and Development, based on the application by Domus Development London Inc., relating to the property located at 6756 James Street, the proposed by-law appended to the staff report dated March 7, 2022 as Appendix "A" BE INTRODUCED at the Munici...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+

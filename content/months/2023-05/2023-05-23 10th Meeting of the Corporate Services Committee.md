@@ -419,3 +419,79 @@ The meeting adjourned at 2:37 PM.
 
 ****
 
+---
+
+## Votes
+
+*7 substantive votes at this meeting (2 contested, 5 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That, pursuant to section 27.6 of the Council Procedure By-law, a change in order of the Corporate Services Committee Agenda BE APPROVED, to provide for Items 6.1 and 6.2 in Stage 6, Confidential, to be considered after Stage 1, Disclosures of Pecuniary Interest.
+
+**✅ Motion Passed (3 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+**Nay (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+</details>
+
+### 2.5. Expropriation of Lands - East London Link Project Phase 3
+
+> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, with the concurrence of the Director, Construction and Infrastructure Services, and on the advice of the Director, Realty Services, approval BE GIVEN to the expropriation of land as may be required for the Eas...
+
+**✅ Motion Passed (3 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
+
+### 2.6. Expropriation of Lands - Wellington Gateway Project Phase 3 and 4
+
+> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, with the concurrence of the Director, Construction and Infrastructure Services, on the advice of the Director, Realty Services, approval BE GIVEN to the expropriation of land as may be required for the Welling...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 4.1. Budweiser Gardens Expansion and Renovation Proposal
+
+> That the delegation requests from P. Luukko, Co-Chairman OVG360, B. Ohl, General Manager, Budweiser Gardens and C. Finn, Tourism London, BE APPROVED to be heard at this time. ADDITIONAL VOTES:
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.2. Application - Issuance of Proclamation - Azerbajian Democratic Republican
+
+> That based on the application dated April 28, 2023 from Network of Azerbaijani Canadians, June 7, 2023 BE PROCLAIMED Azerbaijan Democratic Republic.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 4.3. Application - Issuance of Proclamation - Action Anxiety Day
+
+> That based on the application dated April 7, 2023 from Anxiety Canada, BE REFERRED back to the Civic Administration for further information regarding the organization's connection to London.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 4.4. Application - Issuance of Proclamation - World Sickle Cell Day 2023
+
+> That based on the application dated May 10, 2023 from Sickle Cell Awareness Group of Ontario, BE REFERRED back to the Civic Administration for further information regarding the organization's connection to London.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+

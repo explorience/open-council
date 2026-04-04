@@ -152,3 +152,24 @@ The meeting adjourned at 4:23 PM.
 
 ****
 
+---
+
+## Votes
+
+*1 substantive vote at this meeting (1 contested, 0 unanimous). Procedural motions excluded.*
+
+### 4.1. Temporary Reintroduction of Mask By-law to Limit the Spread of COVID-19 - Councillors Helmer, Turner and Cassidy
+
+> That the attached by-law BE INTRODUCED at the Council meeting to be held on March 22, 2022 to temporarily require the use of face coverings within enclosed publicly-accessible spaces in the City of London.
+
+**❌ Motion Failed (3 to 10)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Jesse Helmer](/councillors/current/j-helmer)
+
+**Nay (8):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Michael van Holst](/councillors/current/m-van-holst)
+
+</details>
+

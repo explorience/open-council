@@ -256,3 +256,17 @@ None.
 
 The meeting adjourned at 5:29 PM.
 
+---
+
+## Votes
+
+*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
+
+### 4.1. 4th Report of the Governance Working Group
+
+> That the following actions be taken with respect to the 4th Report of the Governance Working Group, from its meeting held on August 26, 2019:    a)     the City Clerk BE DIRECTED to bring forward to the next meeting of the Governance Working Group a revised proposed Policy providing for procedure...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+

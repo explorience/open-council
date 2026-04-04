@@ -351,3 +351,54 @@ The meeting adjourned at 6:08 PM.
 
 ****
 
+---
+
+## Votes
+
+*5 substantive votes at this meeting (1 contested, 4 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.2 and 2.3, inclusive, and Item 2.5 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.1. 2019 State of the Downtown Report
+
+> Motion to approve the following: "The Civic Administration BE DIRECTED to submit future reports relating to the State of the Downtown to the Strategic Priorities and Polices Committee."
+
+**❌ Motion Failed (2 to 4) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Nay (2):** [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder)
+
+</details>
+
+### 2.4. Application - 307 Fanshawe Park Road East (H-9255)
+
+> That, on the recommendation of the Director, Development Services, based on the application by 1423197 Ontario Inc. (Royal Premier Homes), relating to the property located at 307 Fanshawe Park Road East, the proposed by-law appended to the staff report dated January 18, 2021 BE INTRODUCED at the ...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.1. Application - 690, 696, 698, 700 King Street, 400 Lyle Street, 701, 725, 729, 735, 737 Dundas Street and 389, 391, 393 Hewitt Street
+
+> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by East Village Holdings Limited, relating to the properties located at 690, 696, 698, 700 King Street, 400 Lyle Street, 701, 725, 729, 735, 737 Dundas Street, and 389...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. R. Pinheiro, Chairman, Hamilton Road Business Improvement Area - Request for Amendment to our Hamilton Road Business Improvement Area By-laws
+
+> That the City Clerk BE DIRECTED to bring forward to a future meeting of Municipal Council a by-law to incorporate the proposed amendments to the Hamilton Road Business Improvement Area By-law as requested by the Hamilton Road Business Improvement Area Board of Management as outlined in the commun...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

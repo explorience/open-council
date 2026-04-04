@@ -629,3 +629,57 @@ None.
 
 The meeting adjourned at 9:44 PM.
 
+---
+
+## Votes
+
+*6 substantive votes at this meeting (0 contested, 6 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 and 2.2, inclusive, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.1. Public Participation Meeting - 146 Exeter Road (Blocks 36 and 37, Richardson Subdivision) 39T-15501 (Z-9034)
+
+> That, on the recommendation of the Director, Development Services, based on the application by 110312 Ontario Limited, relating to the property located on a portion of 146 Exeter Road, (Block 36 and 37, Richardson Subdivision 39T-15501), the proposed by-law appended to the staff report dated May ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.2. Public Participation Meeting - Application - 146 Exeter Road (OZ-9038)
+
+> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by The Corporation of the City of London, relating to the property located at 146 Exeter Road: a)            the proposed by-law appended to the staff report dated May...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.3. Public Participation Meeting - Application -1350 Trafalgar Street (Z-9009)
+
+> That, on the recommendation of the Director, Development Services, based on the application by Yardigans Estate Liquidation Services, relating to the property located at 1350 Trafalgar Street, the proposed by-law appended to the staff report dated May 27, 2019 BE INTRODUCED at the Municipal Counc...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 3.5. Public Participation Meeting - Application - 126 Oxford Street West (Z-9007)
+
+> That, on the recommendation of the Director, Development Services, based on the application by Underhill Holdings London Inc., relating to the property located at 126 Oxford Street West, the request to amend Zoning By-law No. Z.-1 to change the zoning of the subject property FROM a Residential R2...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.1. Request for Delegation Status - S. Allen, MHBC Planning Urban Design and Landscape Architecture - 3080 Bostwick Road (Site 5)
+
+> That S. Allen, MHBC, BE GRANTED delegation status at the June 17, 2019 Planning and Environment Committee meeting relating the application by 731675 Ontario Limited (c/o York Developments), with respect to the property located at 3080 Bostwick Road.  (2019-D09)
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+

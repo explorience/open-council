@@ -315,3 +315,18 @@ Those in the vote, motion carries 14 to zero. Okay, that concludes bylaws. I jus
 Mad motion carries. All right, we're adjourned. Thank you.
 
 </details>
+
+---
+
+## Votes
+
+*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
+
+### 8.1. 4th Special Report of the Strategic Priorities and Policy Committee
+
+> That the 4th Report of the Strategic Priorities and Policy Committee BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+

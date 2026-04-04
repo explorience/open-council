@@ -680,3 +680,57 @@ We have motion as we moved and seconded, I will call the vote. Opposing the vote
 All in favor, hand vote, meeting is adjourned, thank you everyone.
 
 </details>
+
+---
+
+## Votes
+
+*5 substantive votes at this meeting (1 contested, 4 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.5, inclusive, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.6. 864 Hellmuth Avenue - Heritage Alteration Permit Application (HAP22-081-L)
+
+> That, notwithstanding the previous recommendation of the Director, Planning and Development, with the advice of the Heritage Planner, the application under Section 42 of the Ontario Heritage Act seeking approval to pave a portion of the front yard for parking on the heritage designated property a...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.6. 864 Hellmuth Avenue - Heritage Alteration Permit Application (HAP22-081-L)
+
+> Motion to approve the staff recommendation with a revised part a): "a) the applicant be required to use a permeable option, such as gravel or permeable pavers, for the paving material to reduce the environmental and heritage landscape impact of the new driveway; and,"
+
+**❌ Motion Failed (2 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Nay (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 3.1. 455 Highbury Avenue North (Z-9564)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Highbury Self Storage Equities Limited, relating to the property located at 455 Highbury Avenue North, the proposed by-law appended to the staff report dated Ma...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.2. 247 Halls Mill Road - Demolition Request to Remove Heritage Attributes
+
+> That, on the recommendation of the Director, Planning and Development, with the advice of the Heritage Planner, the request to remove heritage attributes from the property at 247 Halls Mill Road, pursuant to Section 34(1) of the Ontario Heritage Act, BE APPROVED subject to the following terms and...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+

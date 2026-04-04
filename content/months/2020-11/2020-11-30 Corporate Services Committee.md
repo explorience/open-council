@@ -189,3 +189,40 @@ The Corporate Services Committee convened, In Closed Session, from 1:25 PM until
 
 The meeting adjourned at 2:14 PM
 
+---
+
+## Votes
+
+*3 substantive votes at this meeting (1 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That the Corporate Services Committee recess for 10 minutes, due to technical issues.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.1. Taxation of Properties Owned by London Middlesex Community Housing Inc.
+
+> That Civic Administration BE DIRECTED to report back to Corporate Services Committee with a phased approach of reducing the effective tax rate for London Middlesex Community Housing Inc. (LMCH) buildings, over a period of four years, to be equivalent to the residential tax rate.
+
+**❌ Motion Failed (3 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (1):** [Ed Holder](/councillors/current/e-holder)
+
+</details>
+
+### 4.1. Consideration of Appointment to the Accessibility Advisory Committee
+
+> That Madison Bush BE APPOINTED as a Voting Member to the Accessibility Advisory Committee for the term ending June 30, 2021.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

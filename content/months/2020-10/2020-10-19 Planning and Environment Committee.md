@@ -1083,3 +1083,77 @@ The meeting adjourned at 8:30 PM.
 
 ****
 
+---
+
+## Votes
+
+*7 substantive votes at this meeting (2 contested, 5 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.10 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.2. Application - 355 Marconi Boulevard - Draft Plan of Subdivision and Zoning By-law Amendments 39T-20501 (Z-9210)
+
+> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by JNF Group Inc., relating to the property located at 355 Marconi Boulevard:    a) the proposed by-law appended to the staff report dated October 19, 2020 as Appendix...
+
+**✅ Motion Passed (5 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Ed Holder](/councillors/current/e-holder), [Maureen Cassidy](/councillors/current/m-cassidy), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (1):** [Jesse Helmer](/councillors/current/j-helmer)
+
+</details>
+
+### 3.3. Demolition Request for Heritage Listed Property - 954 Gainsborough Road
+
+> That, on the recommendation of the Director, Development Services, with the advice of the Heritage Planner, the request to demolish the buildings on the heritage listed property located at 954 Gainsborough Road BE PERMITTED, and the following actions be taken: a) the Chief Building Official BE AD...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.4. Meadowlily Environmentally Significant Area - Conservation Master Plan (Z-9245)
+
+> That, on the recommendation of the Director, City Planning and City Planner, the following actions be taken with respect to the application by The Corporation of the City of London, relating to the Meadowlily Woods Environmentally Significant Area: a)  the proposed revised, attached by-law (Appen...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.5. Application - 348 Sunningdale Road East (Z-9011)
+
+> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by Westchester Homes Ltd., relating to the property located at 348 Sunningdale Road East: a) the proposed by-law appended to the staff report dated October 19, 2020 BE...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. (ADDED) 7th Report of the London Advisory Committee on Heritage
+
+> Motion to grant delegation status to S. Allen, MHBC Planning, Urban Design and Landscape Architecture; A.M. Valastro and M. Tovey, with respect to the 7th Report of the London Advisory Committee on Heritage, specifically relating to the properties located at 183 and 197 Ann Street.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. (ADDED) 7th Report of the London Advisory Committee on Heritage
+
+> That, the following actions be taken with respect to the 7th Report of the London Advisory Committee on Heritage, from its meeting held on October 14, 2020: a)  clause 4.1 c) and d) of the 7th Report of the LACH BE REFERRED to the Civic Administration to prepare a report for the November 30, 2020...
+
+**✅ Motion Passed (4 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+

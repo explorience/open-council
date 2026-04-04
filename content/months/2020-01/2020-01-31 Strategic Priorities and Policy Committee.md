@@ -1350,3 +1350,339 @@ That consideration of item 4.7 a) v) Page 121 – Land Ambulance - $91,255,000 B
 
 The Strategic Priorities and Policy Committee recessed at 4:51 PM; it being noted that the meeting will resume at 9:30 AM, Thursday, February 6, 2020.
 
+---
+
+## Votes
+
+*32 substantive votes at this meeting (10 contested, 22 unanimous). Procedural motions excluded.*
+
+### 4.3. Environmental Services
+
+> a) the net 2020-2023 Multi-Year Operating Budget for the following services within Environmental Services BE ADOPTED:    i. Page 81 – Kettle Creek Conservation Authority excluding provincial impacts - $2,199,000    iii. Page 81 – Lower Thames Valley Conservation Authority excluding provincial imp...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.3. Environmental Services
+
+> a) the net 2020-2023 Multi-Year Operating Budget for the following service within Environmental Services BE ADOPTED: vii)  Environmental Action Programs and Reporting $3,330,000
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.3. Environmental Services
+
+> a) the net 2020-2023 Multi-Year Operating Budget for the following services within Environmental Services BE ADOPTED:    viii. Page 80 – Garbage Recycling and Composting - $82,011,000
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (1):** [Jesse Helmer](/councillors/current/j-helmer)
+
+</details>
+
+### 4.3. Environmental Services
+
+> b) the 2020-2023 Multi-Year Capital Budget for Environmental Services BE ADOPTED:    i. Page 82 – Lifecycle Renewal Capital Budget - $8,790,00
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (1):** [Michael van Holst](/councillors/current/m-van-holst)
+
+</details>
+
+### 4.3. Environmental Services
+
+> b) the 2020-2023 Multi-Year Capital Budget for Environmental Services BE ADOPTED:    ii. Page 82 – Growth Capital Budget - $0  iii. Page 82 – Service Improvement Capital Budget - $51,500,000
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (1):** [Michael van Holst](/councillors/current/m-van-holst)
+
+</details>
+
+### 4.3. Environmental Services
+
+> c) the 2024-2029 Multi-Year Capital Forecast for Environmental Services BE ADOPTED in principle: i. Page 82 – Lifecycle Renewal Capital Forecast - $9,315,000  ii. Page 82 – Growth Capital Forecast - $20,000,000  iii. Page 82 – Service Improvement Capital Forecast - $8,000,000
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (1):** [Jesse Helmer](/councillors/current/j-helmer)
+
+</details>
+
+### 4.3. Environmental Services
+
+> a) the net 2020-2023 Multi-Year Operating Budget for the following services within Environmental Services BE ADOPTED:    ii. Page 81 – Kettle Creek Conservation Authority provincial impacts for consideration - $133,000    iv. Page 81 – Lower Thames Valley Conservation Authority provincial impacts...
+
+**✅ Motion Passed (12 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 4.4. Parks, Recreation and Neighbourhood Services
+
+> a) the net 2020-2023 Multi-Year Operating Budget for the following services within Parks, Recreation and Neighbourhood Services BE ADOPTED:       i. Page 90 – Neighbourhood and Recreation Services excluding provincial impacts - $95,041,000             A) Neighbourhood and Recreation Services excl...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.4. Parks, Recreation and Neighbourhood Services
+
+> Motion to approve part a) of the amendment: That the following actions be taken with regard to the London Community Grants Program in order to reduce the overall tax levy and keep public spending focused on areas of municipal responsibility: a) that funding set out in the draft Multi-Year Budget ...
+
+**❌ Motion Failed (4 to 11)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (9):** [Josh Morgan](/councillors/current/j-morgan), [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+</details>
+
+### 4.4. Parks, Recreation and Neighbourhood Services
+
+> a) the net 2020-2023 Multi-Year Operating Budget for the following service within Parks, Recreation and Neighbourhood Services BE ADOPTED: i. C) Golf within Neighbourhood and Recreation Services excluding provincial impacts: $0
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire)
+
+**Nay (1):** [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Absent (1):** [Jesse Helmer](/councillors/current/j-helmer)
+
+</details>
+
+### 4.4. Parks, Recreation and Neighbourhood Services
+
+> a)  the net 2020-2023 Multi-Year Operating Budget for the following service within Parks, Recreation and Neighbourhood Services BE ADOPTED: iii. A) Neighbourhood and Recreation Services provincial impacts for consideration (excluding children’s services): $300,000;
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.4. Parks, Recreation and Neighbourhood Services
+
+> a) the net 2020-2023 Multi-Year Operating Budget for the following service within Parks, Recreation and Neighbourhood Services BE ADOPTED: iii. B) Neighbourhood and Recreation Services provincial impacts for consideration - Child Care Expansion Funding Municipal Cost Sharing Changes (related to c...
+
+**✅ Motion Passed (12 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Absent (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 4.4. Parks, Recreation and Neighbourhood Services
+
+> a)  the net 2020-2023 Multi-Year Operating Budget for the following service within Parks, Recreation and Neighbourhood Services BE ADOPTED: a) iv. Page 90 – Parks and Urban Forestry - $54,488,000
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.4. Parks, Recreation and Neighbourhood Services
+
+> b) the 2020-2023 Multi-Year Capital Budget for Parks, Recreation and Neighbourhood Services BE ADOPTED: i. Page 91 – Lifecycle Renewal Capital Budget - $39,673,000
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.4. Parks, Recreation and Neighbourhood Services
+
+> b) the 2020-2023 Multi-Year Capital Budget for Parks, Recreation and Neighbourhood Services BE ADOPTED: ii. Page 91 – Growth Capital Budget - $77,738,000
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.4. Parks, Recreation and Neighbourhood Services
+
+> b)  the 2020-2023 Multi-Year Capital Budget for Parks, Recreation and Neighbourhood Services BE ADOPTED: iii. Page 91 – Service Improvement Capital Budget - $11,026,000
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 4.4. Parks, Recreation and Neighbourhood Services
+
+> c) the 2024-2029 Multi-Year Capital Forecast for Parks, Recreation and Neighbourhood Services BE ADOPTED in principle: i. Page 91 – Lifecycle Renewal Capital Forecast - $63,504,000  ii. Page 91 – Growth Capital Forecast - $36,766,000  iii. Page 91 – Service Improvement Capital Forecast - $13,200,...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 4.4. Parks, Recreation and Neighbourhood Services
+
+> Motion to approve part b) of the amendment: b) the capital funding program BE SUSPENDED after 2020; and,
+
+**❌ Motion Failed (6 to 9) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Ed Holder](/councillors/current/e-holder)
+
+**Nay (7):** [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+</details>
+
+### 4.4. Parks, Recreation and Neighbourhood Services
+
+> a)  the net 2020-2023 Multi-Year Operation Budget for the following service within Parks, Recreation and Neighbourhood Services BE ADOPTED: i. B) Children’s Service’s within Neighbourhood and Recreation Services excluding provincial impacts: $31,423,000
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (11-0)
+
+### 4.4. Parks, Recreation and Neighbourhood Services
+
+> a)  the net 2020-2023 Multi-Year Operating Budget for the following service within Parks, Recreation and Neighbourhood Services BE ADOPTED: ii. Page 90 – Neighbourhood and Recreation Services recommended provincial impacts (Child Care Administrative Municipal cost Sharing Changes) - $1,206,000
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (11-0)
+
+### 4.5. Planning and Development Services
+
+> a) the net 2020-2023 Multi-Year Operating Budget for the following services within Planning and Development Services BE ADOPTED: i. Page 99 – Building Approvals - $(1,821,000)  ii. Page 99 – Planning Services - $18,311,000  iii. Page 99 – Development Services - $20,277,000
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.5. Planning and Development Services
+
+> b) the 2020-2023 Multi-Year Capital Budget for Planning and Development Services BE ADOPTED: i. Page 100 – Lifecycle Renewal Capital Budget - $880,000  ii. Page 100 – Growth Capital Budget - $8,344,000  iii. Page 100 – Service Improvement Capital Budget - $552,000
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 4.5. Planning and Development Services
+
+> c) the 2024-2029 Multi-Year Capital Forecast for Planning and Development Services BE ADOPTED in principle: i. Page 100 – Lifecycle Renewal Capital Forecast - $1,320,000  ii. Page 100 – Growth Capital Forecast - $1,918,000  iii. Page 100 – Service Improvement Capital Forecast - $600,000.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.6. Protective Services
+
+> a) the net 2020-2023 Multi-Year Operating Budget for the following services within Protective Services BE ADOPTED: i. Page 108 – Animal Services - $7,819,000  ii. Page 108 – By-Law Enforcement and Property Standards - $6,974,000  iii. Page 108 – Corporate Security and Emergency Management - $10,9...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.6. Protective Services
+
+> a) the net 2020-2023 Multi-Year Operating Budget for the following services within Protective Services BE ADOPTED:    iv. Page 108 – Fire Services - $269,934,000
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 4.6. Protective Services
+
+> b) the 2020-2023 Multi-Year Capital Budget for Protective Services, excluding Fire Services BE ADOPTED: i. Page 110 – Lifecycle Renewal Capital Budget - $26,796,000  ii. Page 110 – Growth Capital Budget - $40,206,000  iii. Page 110 – Service Improvement Capital Budget - $3,908,000
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.6. Protective Services
+
+> b) the 2020-2023 Multi-Year Capital Budget for Fire Services component BE ADOPTED: i. Page 110 – Lifecycle Renewal Capital Budget - $10,377,000  ii. Page 110 – Growth Capital Budget - $6,183,000  iii. Page 110 – Service Improvement Capital Budget - $4,503,000
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (1):** [Jesse Helmer](/councillors/current/j-helmer)
+
+**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+
+</details>
+
+### 4.6. Protective Services
+
+> c)  the 2024-2029 Multi-Year Capital Forecast for Protective Services, excluding Fire Services BE ADOPTED in principle: i. Page 110 – Lifecycle Renewal Capital Forecast - $39,854,000  ii. Page 110 – Growth Capital Forecast - $40,258,000  iii. Page 110 – Service Improvement Capital Forecast - $0
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.6. Protective Services
+
+> c) the 2024-2029 Multi-Year Capital Forecast for Fire Services BE ADOPTED in principle: i. Page 110 – Lifecycle Renewal Capital Forecast - $23,994,000  ii. Page 110 – Growth Capital Forecast – $0  iii. Page 110 – Service Improvement Capital Forecast – $6,696,000
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 4.7. Social and Health Services
+
+> a) the net 2020-2023 Multi-Year Operating Budget for the following services within Social and Health Services BE ADOPTED: i. Page 121 – Housing Services - $47,721,000  ii. Page 121 – Housing Development Corporation - $9,689,000  iii. Page 121 – London and Middlesex Community Housing - $47,923,000...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.7. Social and Health Services
+
+> a) the net 2020-2023 Multi-Year Operating Budget for the following services within Social and Health Services BE ADOPTED: iv. Page 121 – Long Term Care - $21,494,000
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.7. Social and Health Services
+
+> That consideration of item 4.7 a) v) Page 121 – Land Ambulance - $91,255,000 BE REFERRED to later in the meeting agenda, to be considered following the Committee’s consideration of item 4.13, Business cases for Additional Investment – For Consideration.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+

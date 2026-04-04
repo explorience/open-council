@@ -2071,3 +2071,106 @@ All that remains is an item to move for adjournment. I'd look for a mover, Counc
 No, motion carries. We are adjourned.
 
 </details>
+
+---
+
+## Votes
+
+*12 substantive votes at this meeting (0 contested, 12 unanimous). Procedural motions excluded.*
+
+### 8.1. 2nd Report of the Corporate Services Committee
+
+> That the 2nd Report of the Corporate Services Committee BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 8.2. 2nd Report of the Community and Protective Services Committee
+
+> That the 2nd Report of the Community and Protective Services Committee BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 8.3. 2nd Report of the Civic Works Committee
+
+> That the 2nd Report of the Civic Works Committee BE APPROVED, excluding item 7 (clause 5.2).
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 8.3.7. (5.2) 1st Report of the Integrated Transportation Advisory Committee
+
+> That item 7 (clause 5.2) of the 2nd Report of Civic Works Committee with respect to actions on the report from Integrated Transportation Community Advisory Committees BE REFERRED to the next regular meeting of Strategic Priorities and Policy Committee for consideration.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 8.4. 4th Report of the Strategic Priorities and Policy Committee
+
+> That the 4th Report of the Strategic Priorities and Policy Committee BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 8.5. 5th Report of the Strategic Priorities and Policy Committee
+
+> That the 5th Report of the Strategic Priorities and Policy Committee BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 8.6. 6th Report of the Strategic Priorities and Policy Committee
+
+> That the 6th Report of the Strategic Priorities and Policy Committee BE APPROVED, excluding item 8 (clause 4.3).
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 8.6.8. (4.3) Consideration of Appointment to the Lower Thames Valley Conservation Authority
+
+> That Marie Blosh BE APPOINTED to the Lower Thames Valley Conservation Authority for the term ending November 14, 2026; it being noted that approval from the Minister of Environment Conservation and Parks (MECP) is required.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 8.7. 2nd Report of the Planning and Environment Committee
+
+> That the 2nd Report of the Planning and Environment Committee BE APPROVED, excluding item 16 (clause 3.7); it being noted that any and all written submissions relating to application(s) that were made to the Planner on file, the Planning and Environment Committee and to the Municipal Council, as ...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 8.7.16. (3.7) 942 Westminster Drive (Relates to Bill No. 44)
+
+> That item 16, clause 3.7, BE AMENDED to read as follows: That, on the recommendation of the Acting Director, Planning and Development, based on the application by Jim Rimmelzewaan, relating to the property located at 942 Westminster Drive, the proposed attached, revised, by-law as Appendix "A" BE...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 8.7.16. (3.7) 942 Westminster Drive (Relates to Bill No. 44)
+
+> That item 16, clause 3.7, as amended, BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 9.1. 3rd Report of Council in Closed Session
+
+> 1.    Integrated Employment Services – Ontario Transfer Payment Agreement That, on the recommendation of the Deputy City Manager, Social and Health Development, the Civic Administration BE DIRECTED to take all necessary actions with respect to delegation of authority to negotiate with His Majesty...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+

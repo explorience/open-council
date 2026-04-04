@@ -2062,3 +2062,104 @@ Thank you. I'll look for a motion to adjourn. Councillor Hillier, second by Coun
 Motion carries.
 
 </details>
+
+---
+
+## Votes
+
+*10 substantive votes at this meeting (2 contested, 8 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 and 2.2 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 3.1. 15 Capulet Walk (O-25061)
+
+> That, on the recommendation of the Director, Planning and Development, the following action be taken with respect to the application of Paul Kitson relating to the property located at 15 Capulet Walk, the proposed by-law as appended to the staff report dated July 15, 2025, as Appendix "A" BE INTR...
+
+**✅ Motion Passed (5 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Steve Lehman](/councillors/current/s-lehman)
+
+</details>
+
+### 3.2. 555 - 559 & 567 Commissioners Road West (Z-25058)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Tricar Properties Ltd. (c/o Siv-ik Planning and Design) relating to the properties located at 555-559 & 567 Commissioners Rd W: a)    the proposed by-law as app...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 3.3. 1658-1678 Evangeline Street (Z-25049)
+
+> That, on the recommendation of the Director, Planning and Development, the following action be taken with respect to the application of Younger Homes Holding Inc. (c/o Monteith Brown Planning Consultants) relating to the properties located at 1658-1678 Evangeline Street, the proposed by-law as ap...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 3.4. 523 First Street (Z-25053)
+
+> That, on the recommendation of the Director, Planning and Development, the following action be taken with respect to the application of Chryssoulis Holdings Inc. (c/o MHBC Planning) relating to the property located at 523 First Street, the proposed by-law as appended to the staff report dated Jul...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 3.5. 376-390 Hewitt Street and 748 King Street (Z-25054)
+
+> That, notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Stantec Consulting Ltd. relating to the property located at 376, 378, 380, 382, 386 & 390 Hewitt Street and 748 King Street, the request to amend Z...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 3.6. 2034 Wilton Grove Road (Z-25051)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Mt. Elgin Dairy Farms Ltd. (c/o Zelinka Priamo Ltd.) relating to the property located at 2034 Wilton Grove Road, the proposed by-law as appended to the staff re...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 3.7. 1225 Wonderland Road North (OZ-25050)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Canadian Commercial Development (c/o Zelinka Priamo Ltd.) relating to the property located at 1225 Wonderland Road North: a)    the proposed by-law as appended ...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 3.8. 6309 Pack Road (39T-25502/OZ-25023)
+
+> That the motion BE AMENDED to include a new part d) iv) that reads as follows:     iv) an updated shadow study for each block as it develops to assess and further minimize potential impacts on surrounding properties.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 3.8. 6309 Pack Road (39T-25502/OZ-25023)
+
+> That the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (5 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+

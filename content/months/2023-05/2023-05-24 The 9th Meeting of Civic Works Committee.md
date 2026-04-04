@@ -553,3 +553,42 @@ Thank you. Okay, with that, we'll move on to item number seven, which is adjourn
 Have a great rest of your day, everyone.
 
 </details>
+
+---
+
+## Votes
+
+*4 substantive votes at this meeting (0 contested, 4 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.2, 2.3, 2.4 and 2.5 BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 4.1. Downtown Bike Locker Pilot Project Results
+
+> That, on the on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report dated May 24, 2023, related to the Downtown Bike Locker Pilot Project Results: a)    the Civic Administration BE DIRECTED to end the curre...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 4.2. Final Connected and Automated Vehicle Plan
+
+> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report dated May 24, 2023, related to the Final Connected and Automated Vehicle Plan: a)    the final Connected and Automated Vehicle Plan, as summarize...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 4.3. Automated Enforcement Program Expansion Single Source 2023-142
+
+> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report dated May 24, 2023, related to the Automated Enforcement Program Expansion Single Source 2023-142: a)    that Traffipax LLC, BE AWARDED the contr...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+

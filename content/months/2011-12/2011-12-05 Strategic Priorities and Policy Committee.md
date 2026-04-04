@@ -94,3 +94,23 @@ Recommendation:  That the verbal delegation
 
 The meeting adjourned at 7:55 p.m.
 
+---
+
+## Votes
+
+*1 substantive vote at this meeting (1 contested, 0 unanimous). Procedural motions excluded.*
+
+### 1. 2012-2016 Operating
+  Budget Targets
+
+> Recommendation:   (a)       That   all Boards and Commissions BE ADVISED that it is the Municipal   Council’s expectation that their budget submissions adhere to a 1.4% target.   (b)       That   the following actions be taken with respect to the 2012 Budget target:   (i)              the   ceili...
+
+**❌ **
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
+
+</details>
+

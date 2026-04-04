@@ -735,3 +735,81 @@ That the Managing Director, Development and Compliance Services & Chief Building
 
 The meeting adjourned at 6:32 PM.
 
+---
+
+## Votes
+
+*9 substantive votes at this meeting (0 contested, 9 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.4, inclusive and 2.6 to 2.9, inclusive, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.5. Application - 89 York Street (H-8861)
+
+> That, consideration of the application by Endri Poletti Architect Inc., relating to the request to remove the h-1 and h--3 holding provisions on the property located at 89 York Street, BE POSTPONED to a future Planning and Environment Committee meeting.   (2018-D09)
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.1. Public Participation Meeting - Swimming Pool Fence By-law Amendments - City Initiated
+
+> That on the recommendation of the Managing Director, Development and Compliance Services and Chief Building Official, the proposed by-law appended to the staff report dated September 10, 2018 BE INTRODUCED at the Municipal Council meeting to be held on September 18, 2018 to amend By-law No. PS-5,...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.3. Public Participation Meeting - Application - 1196 Sunningdale Road West - Zoning By-law Amendment (Z-8916)
+
+> That, on the recommendation of the Senior Planner, Development Services, based on the application by Landea Developments Inc., relating to the property located at 1196 Sunningdale Road West, the proposed by-law appended to the staff report dated September 10, 2018 BE INTRODUCED at the Municipal C...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.4. Public Participation Meeting - 3493 Colonel Talbot Road (Z-8922)
+
+> That, on the recommendation of the Manager, Development Planning, based on the application by the 2219008 Ontario Ltd., c/o MHBC Planning Ltd., relating to the properties located at 3493 Colonel Talbot Road, 3418 to 3538 Silverleaf Chase, 3428 to 3556 Grand Oak Cross, 7392 to 7578 Silver Creek Cr...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.5. Public Participation Meeting - Application for Draft Plan of  Vacant Land Condominium Zoning By-law Amendment - 459 Hale Street (39-CD-18503/Z-8886)
+
+> That, on the recommendation of the Senior Planner, Development Services, the following actions be taken with respect to the application by Artisan Homes Inc., relating to the lands located at 459 Hale Street: a)         the proposed by-law appended to the staff report dated September 10, 2018 BE ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.1. 9th Report of the Environmental and Ecological Planning Advisory Committee
+
+> That the following action be taken with respect to the 9th report of the Environmental and Ecological Planning Advisory Committee from its meeting held on August 16, 2018: a)         C. Smith, Senior Planner, BE ADVISED of the following comments with respect to the application by Sifton Propertie...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.3. Reinstatement of Demolition Control By-law
+
+> That the communication dated August 21, 2018, from J. Grainger, President, London Region Branch, Architectural Conservancy of Ontario, with respect to their request to reinstate the Demolition Control By-law BE REFERRED to the Managing Director, Development and Compliance Services & Chief Buildin...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 5.1. Deferred Matters List
+
+> That the Managing Director, Development and Compliance Services & Chief Building Official and the Managing Director, Planning and City Planner, BE DIRECTED to update the Deferred Matters List to remove any items that have been addressed by the Civic Administration.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+

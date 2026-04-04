@@ -389,3 +389,17 @@ b)        clauses 1.1 to 3.8 and 5.1 to 6.1, BE RECEIVED.
 
 The meeting adjourned at 12:17 PM.
 
+---
+
+## Votes
+
+*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.13, inclusive, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+

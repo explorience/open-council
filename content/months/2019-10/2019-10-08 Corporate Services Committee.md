@@ -165,3 +165,33 @@ The Corporate Services Committee convenes, In Closed Session, from 12:55 PM to 1
 
 The meeting adjourned at 1:34 PM.
 
+---
+
+## Votes
+
+*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That items 2.1 and 2.2 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. Council Policy - Mayor New Year's Honour List Policy
+
+> That the proposed by-law as appended to the staff report dated October 8, 2019, BE INTRODUCED at the Municipal Council Meeting to be held on October 15, 2019, to amend By-law No. CPOL.-18-214, as amended, being “Mayor’s New Year’s Honour List Policy” to add a new category of nomination, being “Di...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 5.1. Issuance of Proclamation Policy
+
+> That the Civic Administration BE DIRECTED to review and report back to the Corporate Services Committee with respect to the City of London Issuance of Proclamation Policy, specifically in terms of acknowledging nationally recognized proclamations.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

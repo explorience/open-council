@@ -1091,3 +1091,18 @@ The motion to adjourn was purple moved by Deputy Mayor Lewis. Seconded by counse
 Motion carries. Okay good night everyone. Look forward to my email coming to your inbox as soon.
 
 </details>
+
+---
+
+## Votes
+
+*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
+
+### 3.1. Public Participation Meeting - Not to be heard before 4:00 PM - Budget
+
+> That pursuant to section 33.8 of the Council Procedure By-law, the Committee BE PERMITTED to proceed beyond 6:00 PM.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+

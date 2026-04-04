@@ -323,3 +323,33 @@ That the resignation of Councillor M. Cassidy, dated January 20, 2020, from the 
 
 The meeting adjourned at 6:51 PM.
 
+---
+
+## Votes
+
+*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
+
+### 4.1. London Hydro Proposed Corporate Restructuring
+
+> That, on the recommendation of the City Manager with the concurrence of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the following actions be taken with respect to London Hydro proposed restructuring:    a)      the staff report including the proposal fro...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 5.1. (ADDED) Proposed Changes to the City Manager Search Committee Terms of Reference
+
+> That the following actions be taken with respect to the “City Manager Search Committee Terms of Reference”:    a)      pursuant to section 13.3 of the Council Procedure By-law the Municipal Council decision of November 12, 2019 with respect to clause 5.1 of the 20th Report of the Strategic Priori...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 5.2. (ADDED) Resignation of Councillor M. Cassidy from the RBC Place London Board of Directors
+
+> That the resignation of Councillor M. Cassidy, dated January 20, 2020, from the RBC Place London Board of Directors BE ACCEPTED, and consideration of an appointment to the RBC Place London Board of Directors BE REFERRED to the Council meeting to be held on January 28, 2020.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+

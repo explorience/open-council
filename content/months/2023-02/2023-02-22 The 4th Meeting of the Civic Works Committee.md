@@ -273,3 +273,48 @@ That the 3rd Report of the Integrated Transportation Community Advisory Committe
 
 The meeting adjourned at 1:46 PM.
 
+---
+
+## Votes
+
+*4 substantive votes at this meeting (1 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.2, 2.5, 2.6, 2.7, 2.8, 2.9 BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 2.3. Electric Kick-Scooter and Cargo Power-assisted Bicycle Pilot Project By-law and By-law Amendments
+
+> Motion to approve the Delegation Request from A. Petre and M. Miksa to be heard at this meeting.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 2.3. Electric Kick-Scooter and Cargo Power-assisted Bicycle Pilot Project By-law and By-law Amendments
+
+> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report dated February 22, 2023, related to the Electric Kick-Scooter and Cargo Power-assisted Bicycle pilot projects: a)   the proposed by-law, as appen...
+
+**✅ Motion Passed (3 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+</details>
+
+### 3.1. Delegation - J. Preston - London Transit Commission Specialized Transit for Disabled Londoners
+
+> That the following recommendations related to paratransit BE FORWARDED to the London Transit Commission, with a request for an update back to the Civic Works Committee with respect to proposed implementation: a)    same-day booking options, smart card access in all busses and sensitivity training...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+

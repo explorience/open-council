@@ -1449,3 +1449,174 @@ Bell's proposal. Okay uh thank you um obviously uh museum background myself just
 Frigious and i were talking and again he said he's keeping his word and his client is also in agreement with the idea of a public site plan the the big reason is uh from a neighborhood perspective this is the first of a new development that's going to take place on sarnia road there will be other similar developments frankly i think you want people to get comfortable with the notion and a public site plan meeting is one of the ways to do that so in by nature it's changes scary change can be under-communicated having a public site plan meeting i think would be a positive so you've got a neighborhood association executive you've got a proponent who are supportive of it appreciative peck and council would join that in including the holding provision my understanding again as well from talking with mr. Frigious that it would not delay the development of the site at all so there's no downside to the idea of having a public site plan meeting because as you notice in your recommendations there is already another holding provision they ask to be cleared anyway so i'd appreciate if committee would agree with including that in what's coming forward to council thank you thank you i look for other members of public like to address please ma'am give us your name and you have five minutes thank you um my name is uh hui sie i'm in the neighborhood i live in the neighborhood so this project for me i think it's the footprint is too large and so that it's effect of public safety and so from public safety perspective i want to stay two points one is a fair safety and so this building holds like 150 units and hundreds maybe like 300 to 400 people in this large building there's a no fair truck route going into the building if there's a fire um like fair truck wouldn't be get in there because the the yard actually is a landscape it's like soft yard so if they do the hard route allow the fair truck get in and then the road coverage will be uh largely exist the current standard the current standard is 30 uh coverage um they put in four hundred uh 40 percent because they say we we have all the land landscaped but if they put in fair route later and that's coverage that the low coverage exists 60 percent and it's kind of like more than double of the allowed minimum coverage so that's one point another one is the traffic this uh sonya road is already very heavy traffic leading to university there's lots of speeding cars and so this property without route um guiding into the sonya they just kind of like in the building like in the middle of the road uh there's a probably like 160 car parking and they could get into a route in the middle of the traffic I feel this is a accent accent meeting for hyphen if this building be able to like this scale and so I just uh urge counselor like the community consider this a safety restrictions and then I think that's uh should be reduced 30 seconds yeah um another thing I'm thinking of is uh like in overall um how does it is this housing market it's like up and down right now university already have a limited uh restrict uh student number like foreign student number um building this building by the end it probably wouldn't have the effect of this uh in time the purpose i'm gonna have to ask it to to wind it up yeah uh so also this building is not affordable building um I don't think this one it's kind of aligned with the overall requirements for the affordable building okay thank thank you very much thank you I'll ask the clerk if there's anyone online no one online um please uh go ahead you have five minutes hello again members of peck uh my name is charmark metray speaking only as a resident of this neighborhood um I will say I'm generally supportive of the um the staff recommendation um one thought I always have and I think it's um shared by at least some in the neighborhood is that there is a shortage of appropriate student housing um and the more students in buildings like this high quality apartments I know it's not going to be all students but probably a good chunk of it will be students um generally means hopefully less low quality conversions of single family homes in our neighborhood um and I think we know this this stretch of sarnia is um is a uh an appropriate spot for at least some level of intensification from what it is now um I did want to just speak um and echo uh sandy leaven's views on the h 101 I think there's a bit of a practical um consideration you could have here where here we've got a neighborhood association that I think has been pretty realistic pretty practical has um been in pretty constant communication with the developer hasn't come with an unreasonable ask uh and so I'd encourage this committee um when we're when you're thinking about incentives for how neighborhoods participate um when a neighborhood comes to you with a what I think is a pretty reasonable ask um versus an unreasonable one I think it should be considered um I know staff didn't didn't love the idea of the public um site plan process noting that it involves technical reports things like that um but I do think the public has an interest especially the neighbors immediately nearby into things like um preservation of trees location of landscaping the grading of the site there's a big hill there um maybe even the question of where the levi goes I think those are all things that um are not just technical I think real people have um thoughts on those or at least should be informed about them um so I don't I don't think it's an unreasonable request to ask for the h101 and I support um mr. 11's comments on that thank you thank you I was wondering if what a heritage aspect I was missing on uh this particular thread cloud it is miss something um okay I don't see anyone else uh going to the mic uh understand there's no one online so I look for a motion to close with pbm counselor earlier second by counselor saying about the motion carries 4 to 0 okay I'll put this item on the floor looking for a motion counselor earlier I'll move the staff recommendation okay counselor cut are you seconding it okay we have motion moved in second I'll look for our conversation also earlier I'd like to add an amendment the h101 holding provision has introduced by sandy levi in the audience thank you uh just second I'm just seeing if we have to make an amendment here if you can just make it part of your original motion make it part of the original if we could I'll second all right so we're going to include the original motion we'll need a new bylaw when it comes to council but but that'll be that so that is part of the original motion you're the mover a secondary you go with that okay great so we have the motion which includes the holding provision on the floor uh I'll look for conversation questions etc seeing none I'll just quickly comment there's someone on the sorry counselor trous so I do I missed you on the screen there you you're a very small little portion of my my screen please go ahead yes thank you very much um I'm just going to be very brief um I really appreciate the flexibility that the applicant has shown here and I think that this was a very good model of an applicant working productively doing things that they did not legally have to do working with the neighborhood association so as a counselor who usually finds myself in a more difficult position with this amendment um I'm going to be very very happy and I think that this is going to be a very reasonable development I know I know that anything we put there is going to be a change but we're going to be seeing a lot of change coming down sarnia road and I think that having this process especially with the public site plan session which which will allow some flexibility I think sets a very good precedent so I just want to leave it with that and thank you for letting me speak thank you other comments or questions the committee will allow just a quick comment from the chair I totally agree with you counselor trousau um this you know infills challenging as we've seen numerous times at this committee and the applicant thank you for working with the neighbors and the neighbors working with the applicant to find a way forward I'm interested in seeing how this public site plan proceeds because I don't run the face it I think it's not a bad thing so I'm fully supportive of this motion going forward okay um there's no other comments or questions on this item we got motion moved in second I'll call the vote hold on okay the clerk is just getting confirmation on our wording which will be updated to each crime that's uploaded to each crime okay so I'm going to open the vote the wording has been adjusted so I think the vote the motion carries 4 to 0 thank you moving on to 3.8 and I'm going to need some direction here my understanding from staff is that the applicant is withdrawn this and I just want staff to confirm that through the chair that is correct the application has been formally excuse me withdrawn however because there was insufficient time to give notice of cancellation uh the public participation meeting is still required to be held okay so I'll look for motion to open ppm counselor hillier second by counselor cutty we'll vote on that posting the vote the motion carries 4 to 0 look for anyone that would like to address a committee on this item ask clerk there's anyone online there's no one online I don't see anyone looking to speak to us so I'll offer motion to close ppm counselor hillier counselor cutty seconds we'll call hosting the vote the motion carries 4 to 0 okay my next question is and maybe to the clerk do you need some sort of direction from committee on this okay so we have an alternate motion available to us on e-scribe I'll look for committee to look at that over and hopefully someone will move that also hillier moving this counselor cutty is seconding in counselor poloza thank you a question do we need to include there that a public participation meeting was had just administratively to tie tie it back into what we just did despite the fact no one joined us yeah any further conversation we're good okay I'll open the vote on that closing the vote the motion carries 4 to 0 we have no items for direction um deferred matters list I'll look for uh to move uh receded that counselor cutty second by counselor hillier a discussion seeing none I'll call the vote closing the vote the motion carries part to 0 thank you uh leads to a germinal promotion new adjourned counselor hillier second my counselor cutty hand vote motion carries thank you folks thank you committee and visiting counselor we got through a heavy one thank you
 
 </details>
+
+---
+
+## Votes
+
+*16 substantive votes at this meeting (4 contested, 12 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.5 and 2.7 to 2.12 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2. Consent
+
+> That, pursuant to section 27.6 of the Council Procedure By-law, a change in order of the Planning and Environment Committee Agenda BE APPROVED, to provide for Items 2.6 and 2.13 in Stage 2, Consent, remain in Stage 2.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.6. Heritage Alteration Permit application by The Canada Life Assurance Company for 255 Dufferin Avenue, Downtown Heritage Conservation District (HAP25-024-L)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the staff report dated May 21, 2025, related to the application under Section 42 of the Ontario Heritage Act seeking approval for window replacement on the heritage designated pro...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.6. Heritage Alteration Permit application by The Canada Life Assurance Company for 255 Dufferin Avenue, Downtown Heritage Conservation District (HAP25-024-L)
+
+> That the delegation requests from D. Lecuyer and E. van der Maarel, as appended to the Added Agenda BE APPROVED, to be heard at this time.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.13. (ADDED) 2nd Report of the Community Advisory Committee on Planning
+
+> That the delegation requests from J.M. Metrailler and M. Wallace, as appended to the Added Agenda BE APPROVED, to be heard at this time.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.1. 20 Clarke Road (Z-25038)
+
+> That the motion be amended to include new subclauses iv) and v) to part b) to read as follows: iv)    a road access to Clarke Road from the western limit of the draft plan and that the road access arrangements be reviewed by the Applicant to determine if a full access or restricted access is perm...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Absent (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+</details>
+
+### 3.1. 20 Clarke Road (Z-25038)
+
+> That the motion, as amended, be approved.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.2. 3510-3524 Colonel Talbot Road (OZ-25033)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 2857082 Ontario Inc. (c/o Strik, Baldinelli, Moniz Ltd.) relating to the property located at 3510-3524 Colonel Talbot  Road: a)    the revised by-law, attached ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.3. 1890 & 1900 Kilgorman Way (Z-25045)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Farhi Holdings Corporation relating to the property located at 1890 & 1900 Kilgorman Way, the proposed by-law as appended to the staff report dated May 21, 2025...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Absent (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+</details>
+
+### 3.4. 168 Meadowlily Road South (OZ-9763)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Forever Homes Meadowlily Limited Partnership, relating to the property located at 168 Meadowlily Road South: a)    the proposed by-law as appended to the staff ...
+
+**✅ Motion Passed (3 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Josh Morgan](/councillors/current/j-morgan), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman)
+
+**Nay (2):** [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+</details>
+
+### 3.5. 1206 Oxford Street East & 17-19 Wistow Street (Z-25036)
+
+> That the motion be amended to include a new subclause vi) in part c), and a new part d) to read as follows: vi)    Explore opportunities for fencing, including the retention or repair of existing fencing, along mutual property lines and designated snow storage areas. d)    The applicant BE REQUES...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 3.5. 1206 Oxford Street East & 17-19 Wistow Street (Z-25036)
+
+> That the motion, as amended, be approved.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 3.6. Demolition Request - 197, 183, 179, 175 Ann Street, 86, 84 St. George Street, on Heritage Designated Property by Street George and Ann Block
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the staff report dated May 21, 2025, regarding the application under Section 34(1)(2) of the Ontario Heritage Act seeking to demolish the buildings known as the Kent Brewery (197 ...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Absent (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+</details>
+
+### 3.7. 299-307 Sarnia Road (Z-25039)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Kimko Inc. and 20223388 Holdings Inc. (c/o Zelinka Priamo) relating to the properties located at 299-307 Sarnia Road: a)    the revised by-law, attached as Appe...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 3.8. 3334-3354 Wonderland Road South (OZ-25034)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 111473 Ontario Limited (c/o MHBC) relating to the property located at 3334 & 3354 Wonderland South: a)    that the Civic Administration BE DIRECTRED to work wit...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 5.1. Deferred Matters List
+
+> That the Deferred Matters List BE REVEIVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+

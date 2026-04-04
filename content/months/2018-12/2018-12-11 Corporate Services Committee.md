@@ -308,3 +308,72 @@ The Corporate Services Committee convened In Closed Session from 12:51 PM to 1:1
 
 The meeting adjourned at 1:26 PM.
 
+---
+
+## Votes
+
+*7 substantive votes at this meeting (1 contested, 6 unanimous). Procedural motions excluded.*
+
+### 1.2. Election of Vice-Chair for the term ending November 30, 2019
+
+> That Councillor A. Kayabaga BE ELECTED Vice Chair of the Corporate Services Committee for the term ending November 30, 2019.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.2. Request for Proposal 18-41: Fiscal Agent Services
+
+> That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the following actions be taken with respect to Request for Proposal, 18-41, Fiscal Agent Services:    a)      the proposals submitted by the following recommended proponents BE AC...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.3. Request for Funding - 2019 Juno Awards
+
+> That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, $150,000 BE ALLOCATED from the Tourism Infrastructure Reserve Fund to partially fund the construction of temporary outdoor programming space surrounding Budweiser Gardens as outli...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.1. Not to be heard before 1:00 PM - Tax Adjustment Agenda
+
+> That the recommendations contained in the Tax Adjustment Agenda dated December 11, 2018 BE APPROVED; it being noted that J. Caranci made a verbal presentation to the Corporate Services Committee with respect to her application relating to the property at 7620 Longwoods Road, at the public hearing...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.1. Not to be heard before 1:00 PM - Tax Adjustment Agenda
+
+> Motion to open the meeting to the public for comment.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.1. Not to be heard before 1:00 PM - Tax Adjustment Agenda
+
+> Motion to close the meeting to public comment.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.1. Request for Items to be Referred to the Governance Working Group
+
+> That the following matters BE REFERRED to the Governance Working Group for consideration, as contained in the submission dated November 30, 2018, from Councillor M. van Holst: a)      Council expense restrictions; and b)      Council policy for debate at standing committee meetings.
+
+**✅ Motion Passed (3 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+
+</details>
+

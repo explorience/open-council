@@ -253,3 +253,48 @@ The Corporate Services Committee convened in closed session from 1:20 PM to 1:30
 
 The meeting adjourned at 1:31 PM.
 
+---
+
+## Votes
+
+*4 substantive votes at this meeting (1 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That items 2.2, 2.3, 2.5 and 2.6 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.1. London Health Sciences Centre South Street Campus Decommissioning (Phase B)
+
+> That, on the recommendation of City Solicitor’s Office, the following actions be taken with respect to the City owned South Street Campus lands under lease to LHSC and LHSC owned lands: a)            the Mayor and City Clerk BE AUTHORIZED to execute the Lease Amending Agreement appended to the st...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.4. Elected Officials Remuneration - One-Third Non Taxable Allowance
+
+> Part a) That the following actions be taken with respect to Elected Officials Remuneration: a)     the proposed by-law appended to the staff report dated October 9, 2018 as Appendix “A” BE INTRODUCED at the October 16, 2018 meeting of the Municipal Council to eliminate the “one-third tax free” al...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.4. Elected Officials Remuneration - One-Third Non Taxable Allowance
+
+> Motion to approve part b) b)     the Mayor’s salary at January 1, 2019, BE INCREASED to $138,025 annually, in order to accommodate for the elimination of the allowance noted in part a), above and maintain the “take home” pay at the current level.
+
+**✅ Motion Passed (3 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Jesse Helmer](/councillors/current/j-helmer)
+
+**Absent (1):** [Matt Brown](/councillors/current/m-brown)
+
+</details>
+

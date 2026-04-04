@@ -408,3 +408,57 @@ That the Deputy City Manager, Planning and Economic Development, BE DIRECTED to 
 
 The meeting adjourned at 5:30 PM.
 
+---
+
+## Votes
+
+*6 substantive votes at this meeting (0 contested, 6 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.3 to 2.7, inclusive, BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.2. Draft Masonville Secondary Plan
+
+> That, the following actions be taken with respect to the draft Masonville Secondary Plan: a)  the draft Masonville Secondary Plan BE REVISED as follows: i)    any future redevelopment of 109 Fanshawe park Road should provide enhanced buffering, screening and landscaping along the western boundary...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.1. 6th Report of the Environmental and Ecological Planning Advisory Committee
+
+> That the following actions be taken with respect to the 6th Report of the Environmental and Ecological Planning Advisory Committee (EEPAC), from its meeting held on August 19, 2021: a)  the following Climate Emergency Action Plan Working Group recommendations BE FORWARDED to the Civic Administrat...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.2. 496 Dundas Street
+
+> That, on the recommendation of the Director, Planning and Development, with respect to the application by Amiraco Properties Inc., relating to the property located at 496 Dundas Street, the proposed by-law appended to the staff report dated August 30, 20201 as Appendix "A" BE INTRODUCED at the Mu...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.2. 8th Report of the London Advisory Committee on Heritage
+
+> That the following actions be taken with respect to the 8th Report of the London Advisory Committee on Heritage, from its meeting held on August 11, 2021: a)    on the recommendation of the Director, Planning and Development, with the advice of the Heritage Planner, the application under Section ...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 5.1. Deferred Matters List
+
+> That the Deputy City Manager, Planning and Economic Development, BE DIRECTED to update the Deferred Matters List to remove any items that have been addressed by the Civic Administration.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

@@ -497,3 +497,48 @@ Thank you. All those in favor of adjournment? Any opposed? Motion carries.
 Thank you. Everyone have a good afternoon.
 
 </details>
+
+---
+
+## Votes
+
+*3 substantive votes at this meeting (2 contested, 1 unanimous). Procedural motions excluded.*
+
+### 2.3. Expropriation of Lands - Wellington Gateway Project - Clark's Bridge Civil Works
+
+> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, with the concurrence of the Director, Construction and Infrastructure Services, on the advice of the Director, Realty Services, approval BE GIVEN to the expropriation of land as may be required for the Welling...
+
+**✅ Motion Passed (3 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Corrine Rahman](/councillors/current/c-rahman)
+
+**Nay (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 4.1. Request of Removal of Glass Barrier in Council Chambers - Councillor E. Peloza
+
+> That the Civic Administration BE DIRECTED to take the necessary steps to remove the temporary barrier and all associated supports from the public gallery of the Council Chambers; it being noted that the Corporate Services Committee received a communication dated May 9, 2024 from Councilor E. Pelo...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.2. Application - Issuance of Proclamation - Shine the Light on Woman Abuse
+
+> That the following actions be taken with respect to the proclamation requests listed on the agenda for the May 27, 2024 Corporate Services Committee: a)    the issuance of proclamations BE REFERRED to a future meeting of the Corporate Services Committee; and  b)    the Civic Administration BE DIR...
+
+**✅ Motion Passed (3 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Corrine Rahman](/councillors/current/c-rahman)
+
+**Nay (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+

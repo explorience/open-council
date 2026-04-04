@@ -1036,3 +1036,112 @@ The meeting adjourned at 7:11 PM.
 
 ****
 
+---
+
+## Votes
+
+*12 substantive votes at this meeting (1 contested, 11 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.5, inclusive and 2.7 to 2.12, inclusive, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.6. Application - 1615 North Routledge Park 39T-78066
+
+> That, on the recommendation of the Director, Development Services, based on the application by Doman Development Inc., relating to the property located on the north side of North Routledge Park, west of Hyde Park Road (1615 North Routledge Park), the Approval Authority BE REQUESTED to approve a t...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.1. Delegation - A. Cantell, Vice-Chair,Trees and Forests Advisory Committee - 8th Report of the Trees and Forests Advisory Committee
+
+> That, the following actions be taken with respect to the 8th Report of the Trees and Forests Advisory Committee, from its meeting held on August 28, 2019: a)         the following actions be taken with respect to the draft Tree Protection By-law: i)          that the Civic Administration BE ADVIS...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.2. Public Participation Meeting - Application - 915, 965, 1031 and 1095 Upperpoint Avenue - Application for Zoning By-law Amendment (Z-9057)
+
+> That, on the recommendation of the Director, Development Services, based on the application by Sifton Properties Limited, relating to the lands located at 915, 965, 1031 and 1095 Upperpoint Avenue (Blocks 132, 133, 134 and 135 Registered Plan No. 33M-754), the proposed by-law appended to the staf...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.3. Public Participation Meeting - Application - 220 and 244 Adelaide Street South  (Z-9061 and O-9066)
+
+> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the applications by the Glen Cairn Community Resource Centre and The Corporation of the City of London, relating to the properties located at 220 and 244 Adelaide Street South: a)    ...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 3.4. Public Participation Meeting - 324 York Street (TZ-9069)
+
+> That, on the recommendation of the Director, Development Services, with respect to the application by McKenzie Lake Lawyers LLP c/o Patrick Clancy, relating to the property located at 324 York Street, the request to amend Zoning By-law No. Z.-1 to change the zoning of the subject property by exte...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.5. Public Participation Meeting - 551 Knights Hill Road (Z-9062)
+
+> That, on the recommendation of the Director, Development Services, based on the application by Yasmina Balaska, relating to the property located at 551 Knights Hill Road, the proposed by-law appended to the staff report dated September 9, 2019 BE INTRODUCED at the Municipal Council meeting to be ...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.6. Public Participation Meeting - 3493 Colonel  Talbot Road (OZ-9049)
+
+> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application of 2219008 Ontario Ltd, relating to the property located at 3493 Colonel Talbot Road: a)         the proposed by-law appended to the staff report dated September 9, 20...
+
+**✅ Motion Passed (5 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Ed Holder](/councillors/current/e-holder), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+
+### 3.7. Public Participation Meeting - Revise Wording of the Existing h-18 Holding Provision (Archaeological Assessment) (Z-9059)
+
+> That, on the recommendation of the Managing Director, City Planning and City Planner, based on the application by The Corporation of the City of London, relating to all lands within the City of London, the proposed by-law appended to the staff report dated September 9, 2019 BE INTRODUCED at the M...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.8. Public Participation Meeting - Application - 475 and 480 Edgevalley Road (Z-9068)
+
+> That, on the recommendation of the Director, Development Services, the proposed by-law appended to the staff report dated September 9, 2019 BE INTRODUCED at the Municipal Council meeting to be held on September 17, 2019 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to: ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.1. 7th Report of the Advisory Committee on the Environment
+
+> That, the following actions be taken with respect to the 7th Report of the Advisory Committee on the Environment, from its meeting held on August 7, 2019: a)         the City Clerk BE DIRECTED to forward Advisory Committee reports from the Environmental and Ecological Planning Advisory Committee,...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.2. 8th Report of the London Advisory Committee on Heritage
+
+> That, the following actions be taken with respect to the 8th Report of the London Advisory Committee on Heritage, from its meeting held on August 15, 2019: a)         on the recommendation of the Managing Director, City Planning and City Planner, with the advice of the Heritage Planner, the appli...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+

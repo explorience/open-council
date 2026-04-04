@@ -427,3 +427,41 @@ That it BE NOTED Councillor M. Vanholst enquired about the reason for the deteri
 
 The meeting adjourned at 5:14 PM
 
+---
+
+## Votes
+
+*4 substantive votes at this meeting (0 contested, 4 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That items 2.1, 2.3-2.8 and 2.10 BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 2.2. Amendments to the Traffic and Parking By-law
+
+> That, on the recommendation of the Managing Director, Environmental & Engineering Services and City Engineer, the following actions be taken with respect to the Traffic and Parking By-law (PS-113): a)    the proposed by-law appended to the staff report dated June 19, 2018 as Appendix A BE INTRODU...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 4.1. Innovate4Cities - A Global Climate Action Accelerator - Edmonton Declaration
+
+> That the Managing Director, Environmental Services & Engineering and City Engineer BE DIRECTED to: a)      investigate the City of London becoming a signatory to the Edmonton Declaration which calls on all the governments to recognize the immediate and urgent need for coordinated action on climat...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 4.2. Cycling Advisory Committee and Transportation Advisory Committee
+
+> That consideration of  amending the Terms of Reference for the Cycling Advisory Committee and the Transportation Advisory Committee BE DEFERRED for consideration as part of the broader review of Advisory Committees. (2018-C12)
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+

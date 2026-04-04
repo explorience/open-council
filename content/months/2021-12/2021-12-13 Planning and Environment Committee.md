@@ -2171,3 +2171,145 @@ Councillor Layman, seconded by Councillor Lewis. Chair, I'll vote yes. Closing t
 Make some changes.
 
 </details>
+
+---
+
+## Votes
+
+*16 substantive votes at this meeting (1 contested, 15 unanimous). Procedural motions excluded.*
+
+### 1.2. Election of Vice-Chair for the Term ending November 14, 2022
+
+> That Councillor S. Lehman BE ELECTED as Vice-Chair for the term ending November 14, 2022.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2. Consent
+
+> That Items 2.1 to 2.5, inclusive, and 2.7 to 2.11, inclusive, BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.6. Transit-Oriented Secondary Plan Prioritization
+
+> That, on the recommendation of the Director, Planning and Development, the Transit-Oriented Secondary Plan Priority Areas, appended to the staff report dated December 13, 2021 as Appendix “A”, BE ENDORSED.  (2021-D09)
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.1. 876 Wellington Road (Z-9380)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by 1985798 Ontario Inc., relating to the property located at 876 Wellington Road: a) the proposed by-law appended to the staff report dated December 13, 2021 as Ap...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.2. 4270 Lismer Lane (Z-9494)
+
+> That, on the recommendation of the Director, Planning and Development, based on the application by Goldfield Limited, relating to the property located at 4270 Lismer Lane, the proposed by-law appended to the staff report dated December 13, 2021 as Appendix "A" BE INTRODUCED at the Municipal Counc...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.3. 1955 Jim Hebb Way (Z-9382)
+
+> That, on the recommendation of the Director, Planning and Development, based on the application by Foxwood Developments (London) Inc., relating to the lands located at 1955 Jim Hebb Way, the proposed by-law appended to the Planning and Environment Committee Added Agenda as Appendix ‘A’ BE INTRODU...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.4. 506 Oxford Street East (OZ-9397)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Sidhu McDowall Medicine Professional Corporation, relating to the property located at 506 Oxford Street East: a)    the proposed by-law appended to the staff re...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.5. 1408 Ernest Avenue (Z-9385)
+
+> That, on the recommendation of the Director, Planning & Development, based on the application by Paner House Inc., relating to the property located at 1408 Ernest Avenue, the proposed by-law appended to the staff report dated December 13, 2021, as Appendix "A" BE INTRODUCED at the Municipal Counc...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.6. 978 Gainsborough Road (Z-9247)
+
+> That the application by Highland Communities Limited, relating to the property located at 978 Gainsborough Road BE REFERRED back to the Civic Administration for further consideration; it being pointed out that the Planning and Environment Committee reviewed and received the following communicatio...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.7. 414-418 Old Wonderland Road (SPA20-103)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Four Fourteen Inc., relating to the property located at 414-418 Old Wonderland Road: a)  the Approval Authority BE ADVISED that no issues were raised at the pub...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.8. Environmental Management Guidelines
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the Environmental Management Guidelines Update: a)    the Environmental Management Guidelines appended to the staff report dated December 13, 2021 as Appendix 1 to Appendix “A”, B...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.8. Environmental Management Guidelines
+
+> Motion to add a new part c) which reads as follows: c)  the bi-annual review as outlined in the Environmental Management Guidelines BE ADDED to the Planning and Environment Committee Deferred Matters List;
+
+**❌ Motion Failed (3 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Anna Hopkins](/councillors/current/a-hopkins)
+
+**Nay (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+</details>
+
+### 3.9. 50 King Street - Demolition Request
+
+> That, on the recommendation of the Deputy City Manager, Planning and Economic Development with the advice of the Heritage Planner, the demolition request for the heritage designated property at 50 King Street, located in the Downtown Heritage Conservation District, BE PERMITTED pursuant to Sectio...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. 1st Report of the Advisory Committee on the Environment
+
+> That, the following actions be taken with respect to the 10th report of the Advisory Committee on the Environment, from its meeting held on December 1, 2021: a)  the following comments, from the Advisory Committee on the Environment (ACE), BE FORWARDED to the Municipal Council through the Plannin...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 5.1. Deferred Matters List
+
+> That the Deputy City Manager, Planning and Economic Development BE DIRECTED to provide current information related to the items on the Deferred Matters List to the Committee Clerk in order to update the List.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 5.2. (ADDED) 1st Report of the London Advisory Committee on Heritage
+
+> That, the following actions be taken with respect to the 1st Report of the London Advisory Committee on Heritage, from its meeting held on December 8, 2021: a)  on the recommendation of the Deputy City Manager, Planning and Economic Development, with the advice of the Heritage Planner, the demoli...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+

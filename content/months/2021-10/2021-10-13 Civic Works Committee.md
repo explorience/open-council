@@ -207,3 +207,34 @@ That the Civic Works Committee Deferred Matters List as at October 4, 2021, BE R
 
 The meeting adjourned at 12:39 PM.
 
+---
+
+## Votes
+
+*2 substantive votes at this meeting (1 contested, 1 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.2, 2.3, and 2.4 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.1. 100 Stanley Street - Delegation
+
+> That the delegation request from K. McKeating, ACO London BE APPROVED to be heard at this time.
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+
+</details>
+

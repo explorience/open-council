@@ -39,6 +39,7 @@ import UnifiedHeader from "./UnifiedHeader"
 import ComparisonChart from "./ComparisonChart"
 import WatchButton from "./WatchButton"
 import WatchlistPage from "./WatchlistPage"
+import VoteExplorer from "./VoteExplorer"
 import AlertsFeed from "./AlertsFeed"
 import AuthButton from "./AuthButton"
 
@@ -84,6 +85,7 @@ export {
   ComparisonChart,
   WatchButton,
   WatchlistPage,
+  VoteExplorer,
   AlertsFeed,
   AuthButton,
 }

@@ -1389,3 +1389,128 @@ The meeting adjourned at 10:49 PM.
 
 ****
 
+---
+
+## Votes
+
+*14 substantive votes at this meeting (1 contested, 13 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to. 213, 2.15, 2.17 to 2.19, inclusive, BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 3.2. Delegation - D. Dudek, Chair, London Advisory Committee on Heritage - 7th Report of the London Advisory Committee on Heritage
+
+> That, the following actions be taken with respect to the 7th Report of the London Advisory Committee on Heritage, from its meeting held on July 10, 2019: a)            on the recommendation of the Managing Director, City Planning and City Planner, with the advice of the Heritage Planner, the appl...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 3.3. Public Participation Meeting - Application - 1631 - 1649 Richmond Street (OZ-9019)
+
+> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by 1635 Richmond (London) Corporation, relating to the property located at 1631-1649 Richmond Street: a)         the proposed by-law appended to the staff report dated...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 3.4. Public Participation Meeting - Demolition Request for Heritage Listed Property at 567 King Street
+
+> That, on the recommendation of the Managing Director, City Planning and City Planner, with the advice of the Heritage Planner, the following actions be taken with respect to the request for the demolition of the heritage listed property located at 567 King Street: a)    the property owner BE REQU...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 3.5. Public Participation Meeting - Application - Part of 124 St. James Street (OZ-9012)
+
+> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application of Grosvenor Development Corporation, relating to the property located at 124 St. James Street: a)          the proposed by-law appended to the staff report dated July...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 3.6. Public Participation Meeting - Application - Residential Plan of Subdivision and Zoning By-law Amendment - 600 Sunningdale Road West 39T-18501 (Z-8888)
+
+> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by Sunningdale Golf and Country Club, relating to the property located at 600 Sunningdale Road West (legally described as RCP 1028 PT Lot 16 RP 33R13891, PT Part 1  RP...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 3.7. Public Participation Meeting - Application - 3080 Bostwick Road (O-9025)
+
+> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by 731675 Ontario Ltd., relating to the property located at 3080 Bostwick Road: a)         The Urban Design Guidelines for 3080 Bostwick Road appended to the staff rep...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 3.8. Public Participation Meeting - Application - 1076 Gainsborough Road (Z-9035)
+
+> That, on the recommendation of the Director, Development Services, based on the application by 2648822 Ontario Inc., relating to the property located at 1076 Gainsborough Road, the proposed by-law appended to the staff report dated July 22, 2019 as Appendix "A" BE INTRODUCED at the Municipal Coun...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 3.9. Public Participation Meeting - 447 Old Wonderland Road - SPA19-021
+
+> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by Beco Developments, relating to the property located at 447 Old Wonderland Road: a)            the Approval Authority BE ADVISED that the following issues were raise...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 3.10. Public Participation Meeting - Not to be heard before 5:30 PM - Lambeth Area Community Improvement Plan (O-9044)
+
+> That, on the recommendation of the Managing Director, Planning and City Planner, the following actions be taken with respect to the Lambeth Area Community Improvement Plan: a)         the proposed by-law appended to the staff report dated July 22, 2019 as Appendix "A" BE INTRODUCED at the Municip...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 3.11. Public Participation Meeting - 3334 and 3354 Wonderland Road South (OZ-9043)
+
+> Motion to grant Mr. S. Allen, MHBC, an extension beyond five minutes for his delegation.
+
+**✅ Motion Passed (3 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Anna Hopkins](/councillors/current/a-hopkins)
+
+**Nay (1):** [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 3.12. Public Participation Meeting - 8076 Longwoods Road - SPA19-022
+
+> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application of London Quality Meat, relating to the property located at 8076 Longwoods Road: a)            the Approval Authority BE ADVISED that the following issues were raised ...
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (1-0)
+
+### 4.1. Demolition Request for Heritage Designated Property at 123 Queens Avenue
+
+> That the demolition request for the heritage designated property at 123 Queens Avenue, located in the Downtown Heritage Conservation District, BE PERMITTED pursuant to Section 42(1) of the Ontario Heritage Act subject to the following terms and conditions: a)    prior to any demolition, the prope...
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (1-0)
+
+### 4.2. Request for Delegation Status - P. Derakhshan, Thames Valley Joint Venture - Lot 66 - 1738-1754 Hamilton Road
+
+> That P. Derakhshan, Planner, Thames Village Joint Venture, BE GRANTED delegation status at the August 12, 2019 Planning and Environment Committee meeting relating to the application by Thames Village Joint Venture, with respect to the property located at Lott 66, 1738 Hamilton Road, in the Old Vi...
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (1-0)
+

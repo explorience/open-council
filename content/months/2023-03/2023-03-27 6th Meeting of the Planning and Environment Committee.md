@@ -1351,3 +1351,74 @@ What have we got? How have we got six votes? We only have five people here. (lau
 Thanks, folks. Thank you.
 
 </details>
+
+---
+
+## Votes
+
+*8 substantive votes at this meeting (0 contested, 8 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Item 2.1 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.1. 6019 Hamlyn Street (Z-9565)
+
+> That, on the recommendation of the Director, Planning and Development, based on the application by The Corporation of the City of London, relating to lands located at 6019 Hamlyn Street, the proposed by-law appended to the staff report dated March 27, 2023 as Appendix “A” BE INTRODUCED at the Mun...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.2. 1154 Hamilton Road (Z-9569)
+
+> That, on the recommendation of the Director, Planning and Development, based on the application by Lynphyl Homes Limited, (c/o Monteith Brown Planning Consultants), relating to the property located at 1154 Hamilton Road, the proposed by-law appended to the staff report dated March 27, 2023 as App...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.3. 955 Commissioners Road East (Z-9572)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by 2833257 Ontario Inc., (c/o Siv-ik Planning and Design Inc.), relating to the property located at 955 Commissioners Road East: a)    the proposed, revised, attac...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.4. 376, 378, 380, 382, 386 & 390 Hewitt Street and 748 King Street (Z-9576)
+
+> That, the following actions be taken with respect to the application by East Village Holdings Limited, relating to the properties located at 376, 378, 380, 382, 386 & 390 Hewitt Street and 748 King Street: a)  the application BE REFERRED back to the Civic Administration to report back at the next...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.5. 161 Bonaventure Drive (Z-9574)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Bonaventure Crossings (London) Limited, (c/o Effort Trust), relating to the property located at 161 Bonaventure Drive: a)    the proposed, revised, attached, by...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.6. 1407 and 1427 Hyde Park Road (OZ-9438)
+
+> That, the following actions be taken with respect to the application by York Developments, relating to the property located at 1407-1427 Hyde Park Road: a) the application BE REFERRED back to Civic Administration to work with the applicant to look at design alternatives, to resolve site plan issu...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.7. 614 Westmount Crescent (Z-9553)
+
+> That, the following actions be taken with respect to the application by LA-Rosa Community Ltd., relating to the property located at 614 Westmount Crescent: a)   the proposed, revised, attached, by-law (Appendix "A") BE INTRODUCED at the Municipal Council meeting to be held on April 4, 2023 to ame...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+

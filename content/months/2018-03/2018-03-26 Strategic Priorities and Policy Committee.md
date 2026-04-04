@@ -535,3 +535,92 @@ The meeting adjourned at 10:34 PM.
 
 ****
 
+---
+
+## Votes
+
+*8 substantive votes at this meeting (3 contested, 5 unanimous). Procedural motions excluded.*
+
+### 2.1. Arrangements for The City of London to Become a Sanctuary City/Access to Service Without Fear City
+
+> That the staff report dated March 26, 2018, entitled “Arrangements for the City of London to Become a Sanctuary City/Access to Service Without Fear City” BE REFERRED back to the Civic Administration in order for the Civic Administration to report back on next steps for London to become a Sanctuar...
+
+**✅ Motion Passed (8 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley)
+
+</details>
+
+### 2.3. RFP 18-04: City of London Service Review - Consulting Services
+
+> That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the following actions be taken with respect to the selection of a consultant to undertake the City of London Service Review (RFP 18-04):    a)          the proposal submitted by K...
+
+**✅ Motion Passed (7 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Stephen Turner](/councillors/current/s-turner), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert)
+
+**Nay (1):** [Jesse Helmer](/councillors/current/j-helmer)
+
+</details>
+
+### 3.1. Not to be heard before 4:00 PM - London's Community Economic Road Map Update
+
+> That, on the recommendation of the City Manager, the recommended next steps associated with the Community Economic Road Map, as outlined in the staff report dated March 26, 2018, BE ENDORSED; it being noted that the Strategic Priorities and Policy Committee heard the attached update from the Dire...
+
+**✅ Motion Passed (8 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley)
+
+**Nay (2):** [Mo Salih](/councillors/current/m-salih), [Bill Armstrong](/councillors/current/b-armstrong)
+
+</details>
+
+### 4.1. London and Middlesex Housing Corporation
+
+> c)         selection of a member to fill the current vacancy on the London Middlesex Housing Corporation BE REFERRED to the next meeting of the Strategic Priorities and Policy Committee in order to allow time for the Council Members to receive additional information regarding eligibility of certa...
+
+**✅ Motion Passed (10 to 0)**
+
+Unanimous (8-0)
+
+### 4.2. London and Middlesex Housing Corporation - Request for a Shareholder's Meeting
+
+> That the following actions be taken with respect to the 2017 Annual General Meeting of the Shareholder for the London & Middlesex Housing Corporation:    a)         the 2018 Annual General Meeting of the Shareholder for the London & Middlesex Housing Corporation BE HELD at a meeting of the Strate...
+
+**✅ Motion Passed (10 to 0)**
+
+Unanimous (8-0)
+
+### 4.3. Housing Development Corporation, London - Request for a Shareholder's Meeting
+
+> That the following actions be taken with respect to the 2017 Annual General Meeting of the Shareholder for the Housing Development Corporation, London: a)         the 2017 Annual General Meeting of the Shareholder for the Housing Development Corporation, London BE HELD at a meeting of the Strateg...
+
+**✅ Motion Passed (10 to 0)**
+
+Unanimous (8-0)
+
+### 4.4. London Convention Centre Corporation Board Appointment Recommendation
+
+> That David Smith BE APPOINTED to the London Convention Centre Board of Directors as the Health Care Representative, effective April 1, 2018 to November 30, 2018.
+
+**✅ Motion Passed (10 to 0)**
+
+Unanimous (8-0)
+
+### 4.5. 7th Report of the Governance Working Group
+
+> That the following actions be taken with respect to the 7th Report of the Governance Working Group, from its meeting held on March 5, 2018:    a)         the actions outlined in the revised Council Policy Index appended to the Governance Working Group report dated March 5, 2018 as Appendix “A”, w...
+
+**✅ Motion Passed (10 to 0)**
+
+Unanimous (8-0)
+

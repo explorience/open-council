@@ -607,3 +607,50 @@ Okay, we're back. I'm going to just go to Deputy Mayor Lewis to report out pleas
 So I'll move to her, Lewis seconded by Councillor Cutty and we'll have a hand vote on that. Motion carries. Thank you, and we'll see you back here in 45 minutes.
 
 </details>
+
+---
+
+## Votes
+
+*5 substantive votes at this meeting (0 contested, 5 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 and 2.2 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 3.2. 2026 Growth Management Implementation Strategy (GMIS) Update
+
+> That, on the recommendation of the Deputy City Manager, Housing and Community Growth regarding the implementation of The London Plan growth management policies applicable to the financing of growth-related infrastructure works, the following actions be taken: a)    the 2026 Growth Management Impl...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 3.3. Environmental Management Guidelines Update
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken: a)    the Environmental Management Guidelines as appended to the staff report dated June 23, 2025, as Appendix 1 to Appendix “A”, BE ADOPTED as a Municipal Guideline Document; and, b)    the pro...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 3.4. 3680 & 3700 Colonel Talbot Road (OZ-25013)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of MHBC Planning Ltd. relating to the property located at 3680 and 3700 Colonel Talbot Road: a)    the proposed by-law as appended to the staff report dated June 2...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 5.1. Deferred Matters List
+
+> That the June Deferred Matters List, BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+

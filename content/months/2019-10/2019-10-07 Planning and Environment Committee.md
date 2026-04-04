@@ -543,3 +543,104 @@ The meeting adjourned at 7:05 PM.
 
 ****
 
+---
+
+## Votes
+
+*9 substantive votes at this meeting (3 contested, 6 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.2, 2.4, 2.5 and 2.7, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.1. 10th Report of the Environmental and Ecological Planning Advisory Committee
+
+> That, the following actions be taken with respect to the 10th Report of the Environmental and Ecological Planning Advisory Committee, from its meeting held on September 19, 2019: a)         a Working Group BE ESTABLISHED consisting of S. Heuchan, I. Mohamed, R. Doyle, S. Esan, L. Banks, S. Levin ...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 3.2. Delegation - A. Morrison, Member-at-Large, Trees and Forests Advisory Committee - 9th Report of the Trees and Forests Advisory Committee
+
+> That, the following actions be taken with respect to the 9th Report of the Trees and Forests Advisory Committee, from its meeting held on September 25, 2019: a)         clause 5.3 BE AMENDED as follows: i)          part a) BE REFERRED to the Budget review for consideration; it being noted that pa...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.3. Public Participation Meeting - Application - 800, 805 and 810 Chelton Road - Application for Zoning By-law Amendment (Z-9089)
+
+> That, on the recommendation of the Director, Development Services, based on the application by The Ironstone Building Company Inc., relating to the lands located at 800, 805 and 810 Chelton Road, the proposed by-law appended to the staff report dated October 7, 2019 BE INTRODUCED at the Municipal...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.4. Public Participation Meeting - Application - 1339-1347 Commissioners Road West (Z-9081/O-9082)
+
+> Motion to approve parts a) and b), which read as follows: That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by Milan Starcevic, relating to the properties located at 1339 – 1347 Commissioners Road West: a)         the...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire)
+
+**Nay (1):** [Maureen Cassidy](/councillors/current/m-cassidy)
+
+**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+
+</details>
+
+### 3.4. Public Participation Meeting - Application - 1339-1347 Commissioners Road West (Z-9081/O-9082)
+
+> Motion to approve part c) i) to iii), inclusive, which reads as follows: c)         IT BEING NOTED the following Site Plan matters have been raised through the application review process for consideration by the Site Plan Approval Authority with regard to the mitigation of potential impacts on th...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.4. Public Participation Meeting - Application - 1339-1347 Commissioners Road West (Z-9081/O-9082)
+
+> Motion to approve part c), iv) and v) to include the following matters during site plan: iv)        the protection and preservation of trees along the northerly boundary (both shared and within the boundary vegetation) of the subject property, with the exception of invasive species or hazard tree...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+**Nay (1):** [Stephen Turner](/councillors/current/s-turner)
+
+**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+
+</details>
+
+### 4.1. G. Gallacher, Chair of the Board, London Downtown Business Association - Request to Amend City By-law CP-2
+
+> That the City Clerk BE DIRECTED to bring forward to a future meeting of Municipal Council a by-law to incorporate the proposed amendments to the London Downtown Business Association (LDBA) and MainStreet London By-law CP-2 as requested by the LDBA and MainStreet London Board of Management as outl...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 6. Adjournment
+
+> The meeting adjourned at 7:05 PM.
+
+**❌  🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+
+</details>
+

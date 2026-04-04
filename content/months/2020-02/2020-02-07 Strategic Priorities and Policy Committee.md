@@ -915,3 +915,427 @@ x. Business Case 21 – Regeneration of Public Housing – 2020-2023 Total: Inve
 
 The Strategic Priorities and Policy Committee recessed at 5:06 PM; it being noted that the meeting will resume at 9:30 AM, Thursday, February 13, 2020.
 
+---
+
+## Votes
+
+*29 substantive votes at this meeting (22 contested, 7 unanimous). Procedural motions excluded.*
+
+### 4.12. Business Cases for Additional Investment - Administratively Prioritized
+
+> That consideration of item 4.12 k) Fanshawe College Innovation Village (Business Case 9) BE REFERRED to be the first item of the Thursday, February 13th session.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 4.12. Business Cases for Additional Investment - Administratively Prioritized
+
+> That Initiative 23 of Business Case 7A (Operating), Expand case management approach for helping vulnerable populations, in the amount of $3,300,000 BE APPROVED.
+
+**✅ Motion Passed (12 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (2):** [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 4.12. Business Cases for Additional Investment - Administratively Prioritized
+
+> That Initiative 29 of Business Case 7A (Operating), proactive by-law enforcement, in the amount of $600,000 BE APPROVED.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (11-0)
+
+### 4.12. Business Cases for Additional Investment - Administratively Prioritized
+
+> That Initiative 42 of Business Case 7A (Operating), Fund four-year Core Area “construction dollars” pilot program, in the amount of $200,000 BE APPROVED.
+
+**✅ Motion Passed (12 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 4.12. Business Cases for Additional Investment - Administratively Prioritized
+
+> That “new” Initiative of Business Case 7A (Operating), Invest in Dundas Place, in the amount of $1,200,000 BE APPROVED.
+
+**✅ Motion Passed (10 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (2):** [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 4.12. Business Cases for Additional Investment - Administratively Prioritized
+
+> That Initiative 22 of Business Case 7A (Capital), Create new housing units with supportive living arrangements, in the amount of $5,000,000 BE APPROVED.
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 4.12. Business Cases for Additional Investment - Administratively Prioritized
+
+> That Initiative 29 of Business Case 7A (Capital), proactive by-law enforcement, in the amount of $50,000 BE APPROVED.
+
+**✅ Motion Passed (12 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Absent (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 4.12. Business Cases for Additional Investment - Administratively Prioritized
+
+> That “new” Initiative of Business Case 7A (Capital), Invest in Dundas Place, in the amount of $200,000 BE APPROVED.
+
+**✅ Motion Passed (11 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 4.12. Business Cases for Additional Investment - Administratively Prioritized
+
+> That the Balance of Business Case 7A – Administratively Prioritized Balance of Full Core Action Plan in the amounts of $3,620,000 (Operating) and $2,015,000 (Capital) BE APPROVED.
+
+**✅ Motion Passed (12 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Absent (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 4.12. Business Cases for Additional Investment - Administratively Prioritized
+
+> That the following 2020-2023 Multi-Year Budget business cases for additional investment that the Civic Administration has prioritized and Business Cases for additional investment for Council's consideration, be dealt with at this time: 4.12 (Administratively prioritized) xii. Business Case 10A – ...
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+**Absent (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 4.12. Business Cases for Additional Investment - Administratively Prioritized
+
+> That the following 2020-2023 Multi-Year Budget business cases for additional investment that the Civic Administration has prioritized BE APPROVED: xv. Business Case 12 – LMCH Infrastructure Gap – 2020-2023 Total: Investment $15,518,000; Net Levy $5,000,000
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 4.12. Business Cases for Additional Investment - Administratively Prioritized
+
+> That the following 2020-2023 Multi-Year Budget business cases for additional investment that the Civic Administration has prioritized BE APPROVED: xii. Business Case 10A – HDC Funding for Affordable Housing - 2020-2023 Total: Investment $850,000; Net Levy $850,000
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 4.12. Business Cases for Additional Investment - Administratively Prioritized
+
+> That Initiative 45 of Business Case 7A (Operating), Activate spaces and places with bistro chairs and tables, in the amount of $200,000 BE APPROVED.
+
+**✅ Motion Passed (9 to 5)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Steve Lehman](/councillors/current/s-lehman), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (3):** [Shawn Lewis](/councillors/current/s-lewis), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 4.12. Business Cases for Additional Investment - Administratively Prioritized
+
+> That this session of the meeting continue until 5:00 PM, at which time the committee will recess.
+
+**✅ Motion Passed (10 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.13. Business Cases for Additional Investment - For Consideration
+
+> That Initiative 25 (Operating), of Business Case 7B (Operating), four-year Core Area Ambassador pilot program, in the amount of $2.875 million, BE AMENDED to be funded from the 2019 operating budget surplus.
+
+**✅ Motion Passed (12 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Absent (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 4.13. Business Cases for Additional Investment - For Consideration
+
+> That Initiative 42 of Business Case 7B (Operating), Fund four-year Core Area “construction dollars” pilot program, in the amount of $200,000 BE AMENDED, to be funded from the Economic Development Reserve Fund.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (11-0)
+
+### 4.13. Business Cases for Additional Investment - For Consideration
+
+> That Initiative 23 of Business Case 7B (Operating), Expand case management approach for helping vulnerable populations, in the amount of $700,000 BE APPROVED.
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 4.13. Business Cases for Additional Investment - For Consideration
+
+> That Initiative 25, of Business Case 7B (Operating), Core Area Ambassador Pilot Program, in the amount of $2,875,000, as amended (revised source of funding) BE APPROVED.
+
+**✅ Motion Passed (10 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (2):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 4.13. Business Cases for Additional Investment - For Consideration
+
+> That Initiative 42, as amended, be approved.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (11-0)
+
+### 4.13. Business Cases for Additional Investment - For Consideration
+
+> That Initiative 55 of Business Case 7B (Operating), Implement safety audit recommendations on public property, in the amount of $600,000 BE APPROVED.
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+**Absent (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 4.13. Business Cases for Additional Investment - For Consideration
+
+> That the following 2020-2023 Multi-Year Budget business cases for additional investment for Council’s consideration BE APPROVED: iv. Business Case 10B – HDC Funding for Affordable Housing – 2020-2023 Total: Investment $2,800,000; Net Levy $2,800,000
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 4.13. Business Cases for Additional Investment - For Consideration
+
+> That the following 2020-2023 Multi-Year Budget business cases for additional investment for Council’s consideration BE APPROVED: vii. Business Case 18 – LMCH Co-Investment with CMHC – 2020-2023 Total: Investment $20,229,000; Net Levy $7,777,000
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 4.13. Business Cases for Additional Investment - For Consideration
+
+> That the following 2020-2023 Multi-Year Budget business cases for additional investment for Council’s consideration BE APPROVED: viii. Business Case 19 – LMCH Operating Staffing & Security – 2020-2023 Total: Investment $6,941,000; Net Levy $5,675,000
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 4.13. Business Cases for Additional Investment - For Consideration
+
+> That the following 2020-2023 Multi-Year Budget business cases for additional investment for Council’s consideration BE APPROVED x. Business Case 21 – Regeneration of Public Housing – 2020-2023 Total: Investment $5,250,000; Net Levy $5,250,000
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 4.13. Business Cases for Additional Investment - For Consideration
+
+> That Initiative 43 of Business Case 7B (Operating), Experiment with temporary free municipal parking, in the amount of $600,000 BE AMENDED to fund the four-year initiative from the 2019 Operating Budget Surplus.
+
+**✅ Motion Passed (12 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Absent (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 4.13. Business Cases for Additional Investment - For Consideration
+
+> That Initiative 43, as amended, BE APPROVED.
+
+**✅ Motion Passed (10 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Shawn Lewis](/councillors/current/s-lewis), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (2):** [Steve Lehman](/councillors/current/s-lehman), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+**Absent (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 4.13. Business Cases for Additional Investment - For Consideration
+
+> That Initiative 50 of Business Case 7B (Operating), Establish new Core Area garbage and recycling collection program, in the amount of $100,000 BE APPROVED.
+
+**✅ Motion Passed (11 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 4.13. Business Cases for Additional Investment - For Consideration
+
+> That Initiative 54 of Business Case 7B (Operating), Provide grants to implement safety audit recommendations on privately-owned property through Core Area Community Improvement Plan, in the amount of $300,000 BE APPROVED.
+
+**✅ Motion Passed (9 to 5)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Steve Lehman](/councillors/current/s-lehman), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (3):** [Shawn Lewis](/councillors/current/s-lewis), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 4.13. Business Cases for Additional Investment - For Consideration
+
+> That the Balance of Business Case 7B – For Consideration Balance of Full Core Action Plan in the amounts of $2,900,000 (Operating) and $1,5000,000 (Capital) BE APPROVED.
+
+**❌ Motion Failed (6 to 8) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Ed Holder](/councillors/current/e-holder), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (6):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier), [Michael van Holst](/councillors/current/m-van-holst), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+**Absent (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
