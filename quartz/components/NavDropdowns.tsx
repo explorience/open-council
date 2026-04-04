@@ -74,6 +74,10 @@ export default ((userOpts?: Partial<NavDropdownsOptions>) => {
             Guide
           </a>
 
+          <a href="/feedback" class="nav-link">
+            Feedback
+          </a>
+
           <a href="/watchlist" class="nav-link nav-login-link">
             Login
           </a>

@@ -374,6 +374,79 @@ app.post('/api/regenerate', async (req, res) => {
   }
 });
 
+// Feedback form endpoint
+app.post('/api/feedback', async (req, res) => {
+  try {
+    const { email, name, type, message } = req.body;
+
+    // Validate required fields
+    if (!email || !type || !message) {
+      return res.status(400).json({ error: 'Email, type, and message are required' });
+    }
+
+    // Basic email validation
+    if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
+      return res.status(400).json({ error: 'Invalid email address' });
+    }
+
+    // Rate limiting: max 5 submissions per IP per hour (simple in-memory)
+    const ip = req.ip || req.headers['x-forwarded-for'] || 'unknown';
+    const now = Date.now();
+    if (!feedbackRateLimits.has(ip as string)) {
+      feedbackRateLimits.set(ip as string, []);
+    }
+    const attempts = feedbackRateLimits.get(ip as string)!;
+    const recentAttempts = attempts.filter(t => now - t < 3600000); // last hour
+    feedbackRateLimits.set(ip as string, recentAttempts);
+
+    if (recentAttempts.length >= 5) {
+      return res.status(429).json({ error: 'Too many submissions. Please try again later.' });
+    }
+    recentAttempts.push(now);
+
+    const feedback = {
+      email,
+      name: name || 'Anonymous',
+      type,
+      message,
+      timestamp: new Date().toISOString(),
+      ip: ip as string,
+    };
+
+    // Log to file
+    const feedbackDir = './data/feedback';
+    const fs = await import('fs/promises');
+    await fs.mkdir(feedbackDir, { recursive: true });
+    const feedbackFile = `${feedbackDir}/feedback.jsonl`;
+    await fs.appendFile(feedbackFile, JSON.stringify(feedback) + '\n');
+
+    console.log(`📝 Feedback received: [${type}] from ${email}`);
+
+    // Send Discord webhook notification if configured
+    const webhookUrl = process.env.FEEDBACK_WEBHOOK_URL;
+    if (webhookUrl) {
+      try {
+        await fetch(webhookUrl, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            content: `**New Open Council Feedback**\n**Type:** ${type}\n**From:** ${name || 'Anonymous'} (${email})\n**Message:** ${message.slice(0, 1500)}`,
+          }),
+        });
+      } catch (webhookErr) {
+        console.error('Webhook notification failed:', webhookErr);
+      }
+    }
+
+    res.json({ success: true, message: 'Thank you for your feedback!' });
+  } catch (error) {
+    console.error('Feedback error:', error);
+    res.status(500).json({ error: 'Failed to submit feedback' });
+  }
+});
+
+const feedbackRateLimits = new Map<string, number[]>();
+
 // Start server
 async function start() {
   try {
@@ -388,6 +461,7 @@ async function start() {
       console.log(`  POST /api/context     - Get relevant context`);
       console.log(`  POST /api/chat        - Chat with streaming`);
       console.log(`  POST /api/regenerate  - Add embeddings for new meetings`);
+      console.log(`  POST /api/feedback    - Submit feedback`);
     });
   } catch (error) {
     console.error('Failed to start server:', error);
