@@ -91,8 +91,8 @@ function renderMotion(motion: Motion): string {
   const badge = motion.p ? "✅ " + motion.r : "❌ " + motion.r
   const closeIcon = !motion.u && motion.m <= 3 ? " 🔥" : ""
 
-  // Meeting link
-  const meetingLink = `/${motion.ms}`
+  // Meeting link - Quartz converts spaces to hyphens in URLs
+  const meetingLink = `/${motion.ms.replace(/ /g, "-")}`
   const dateStr = new Date(motion.d + "T12:00:00").toLocaleDateString("en-CA", {
     year: "numeric",
     month: "short",
