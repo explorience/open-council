@@ -1220,12 +1220,27 @@ export class RAGService {
       { pattern: /e-?scooter|kick scooter/i, keywords: ['scooter', 'electric', 'kick', 'pilot'] },
       // PA Day motion - match various phrasings (2026 Municipal Election PA Day on Voting Day)
       { pattern: /pa day/i, keywords: ['professional', 'activity', 'day', 'pa', 'day', 'election', 'voting', 'october', '2026', 'municipal'] },
+      { pattern: /integrity commissioner/i, keywords: ['integrity', 'commissioner', 'code', 'conduct'] },
+      { pattern: /ridout.*development|ridout.*street|550 ridout/i, keywords: ['ridout', 'development', 'kent', 'street', '550'] },
+      { pattern: /oev.*bia|old east village.*bia|oev.*reimburs/i, keywords: ['oev', 'bia', 'reimbursement', 'cleaning', 'graffiti'] },
+      { pattern: /telus|municipal access agreement/i, keywords: ['telus', 'municipal', 'access', 'agreement'] },
+      { pattern: /housing stability/i, keywords: ['housing', 'stability', 'report'] },
+      { pattern: /bill\s*(?:no\.?\s*)?\d+/i, keywords: [] },  // handled separately below - extract bill number
+      { pattern: /extend.*(?:meeting|session|past\s*(?:6|six))/i, keywords: ['extend', 'meeting', 'past', '6pm'] },
+      { pattern: /parking.*(?:study|amendment|minimum)/i, keywords: ['parking', 'study', 'amendment', 'minimum'] },
+      { pattern: /peloza.*(?:appoint|committee|icsc)|icsc.*(?:appoint)/i, keywords: ['peloza', 'appointment', 'infrastructure', 'corporate'] },
     ];
 
     for (const { pattern, keywords } of knownMotions) {
       if (pattern.test(lowerQuery) && /(pass|fail|approved|rejected|result|vote|outcome|margin|close|motion)/i.test(lowerQuery)) {
-        console.log(`📋 Detected motion outcome query (known motion): "${keywords.join(' ')}"`);
-        return { isMotionOutcome: true, motionKeywords: keywords };
+        // Special handling for bill number pattern: extract the bill number from query
+        let resolvedKeywords = keywords;
+        if (keywords.length === 0) {
+          const billMatch = query.match(/bill\s*(?:no\.?\s*)?(\d+)/i);
+          resolvedKeywords = billMatch ? ['bill', billMatch[1]] : ['bill'];
+        }
+        console.log(`📋 Detected motion outcome query (known motion): "${resolvedKeywords.join(' ')}"`);
+        return { isMotionOutcome: true, motionKeywords: resolvedKeywords };
       }
     }
 
@@ -1385,6 +1400,109 @@ export class RAGService {
     ];
 
     return mayorMinorityPatterns.some(p => p.test(lowerQuery));
+  }
+
+  /**
+   * Detect if a query mentions ANY vote-related terms (catch-all)
+   * Used as a fallback to route queries to structured vote lookup even when
+   * specific detectors (motion outcome, vote count, councillor voting) don't fire.
+   *
+   * Matches:
+   * - vote/voted/voting/ballot
+   * - pass/fail/approve/reject/defeat/carry near a topic
+   * - yea/nay/dissent/oppose/support/favour/favor/against
+   * - bill/motion/amendment/by-law/bylaw
+   * - unanimous/split/divided/controversial
+   * - councillor name + any of the above
+   * - vote count patterns like "11-4", "14-1", "15-0"
+   */
+  private detectAnyVoteQuery(query: string): boolean {
+    const lowerQuery = query.toLowerCase();
+
+    const voteTermPatterns = [
+      // Core vote terms
+      /\bvote[ds]?\b|\bvoting\b|\bballot\b/,
+      // Outcome terms
+      /\bpass(?:ed)?\b|\bfail(?:ed)?\b|\bapprove[ds]?\b|\bapproval\b|\breject(?:ed)?\b|\bdefeat(?:ed)?\b|\bcarr(?:ied|y)\b/,
+      // Position/side terms
+      /\byea\b|\bnay\b|\bdissent(?:ed)?\b|\boppos(?:e[ds]?|ing)\b|\bsupport(?:ed|s)?\b|\bfavou?r(?:ed|s)?\b|\bagainst\b/,
+      // Document/motion types
+      /\bbill\b|\bmotion\b|\bamendment\b|\bby-?law\b|\bbylaw\b/,
+      // Consensus terms
+      /\bunanimous(?:ly)?\b|\bsplit\b|\bdivided\b|\bcontroversial\b/,
+      // Vote count patterns like "11-4", "14-1", "15-0"
+      /\b\d{1,2}-\d{1,2}\b/,
+    ];
+
+    return voteTermPatterns.some(p => p.test(lowerQuery));
+  }
+
+  /**
+   * Extract meaningful search keywords from a vote-related query.
+   * Strips stop words and vote-related terms themselves, keeping nouns/proper nouns
+   * and date terms as the signal for structured vote lookup.
+   */
+  private extractVoteKeywords(query: string): string[] {
+    const lowerQuery = query.toLowerCase();
+
+    // Words to strip: stop words + vote-related terms that are too generic
+    const stopWords = new Set([
+      // English stop words
+      'the', 'a', 'an', 'is', 'are', 'was', 'were', 'be', 'been', 'being',
+      'have', 'has', 'had', 'do', 'does', 'did', 'will', 'would', 'could',
+      'should', 'may', 'might', 'shall', 'can', 'to', 'of', 'in', 'for',
+      'on', 'with', 'at', 'by', 'from', 'as', 'into', 'through', 'during',
+      'about', 'against', 'between', 'out', 'off', 'over', 'under', 'again',
+      'then', 'once', 'here', 'there', 'when', 'where', 'why', 'how', 'all',
+      'both', 'each', 'few', 'more', 'most', 'other', 'some', 'such', 'than',
+      'too', 'very', 'just', 'but', 'and', 'or', 'nor', 'so', 'yet', 'it',
+      'its', 'this', 'that', 'these', 'those', 'what', 'which', 'who', 'whom',
+      'my', 'your', 'his', 'her', 'our', 'their', 'me', 'him', 'us', 'them',
+      'i', 'we', 'you', 'he', 'she', 'they', 'any', 'not', 'no', 'up',
+      // Vote-related terms (too generic as keywords)
+      'vote', 'voted', 'voting', 'votes', 'ballot',
+      'pass', 'passed', 'fail', 'failed', 'approve', 'approved', 'reject', 'rejected',
+      'defeat', 'defeated', 'carry', 'carried',
+      'yea', 'nay', 'dissent', 'oppose', 'opposed', 'support', 'favour', 'favor',
+      'unanimous', 'split', 'divided', 'controversial',
+      'motion', 'result', 'outcome', 'count', 'breakdown', 'tally',
+      'councillor', 'councillors', 'council', 'mayor',
+      'did', 'does', 'get', 'got', 'go', 'went', 'happen', 'happened',
+    ]);
+
+    // Extract date terms (keep these as keywords)
+    const datePatterns = [
+      /\b(january|february|march|april|may|june|july|august|september|october|november|december)\s+\d{4}\b/gi,
+      /\b(20\d{2})\b/g,
+      /\b\d{4}-\d{2}-\d{2}\b/g,
+    ];
+
+    const dateTerms: string[] = [];
+    for (const datePattern of datePatterns) {
+      const matches = lowerQuery.match(datePattern);
+      if (matches) dateTerms.push(...matches);
+    }
+
+    // Tokenize and filter
+    const tokens = lowerQuery
+      .replace(/[^\w\s-]/g, ' ')   // remove punctuation except hyphens
+      .replace(/\s+/g, ' ')
+      .trim()
+      .split(' ');
+
+    const keywords = tokens.filter(token => {
+      if (!token || token.length < 3) return false;
+      if (stopWords.has(token)) return false;
+      // Skip pure numbers (unless they look like vote counts)
+      if (/^\d+$/.test(token) && token.length < 4) return false;
+      return true;
+    });
+
+    // Combine with date terms and deduplicate
+    const all = [...new Set([...keywords, ...dateTerms])];
+
+    // Limit to most useful keywords (first 8)
+    return all.slice(0, 8);
   }
 
   /**
@@ -2077,6 +2195,31 @@ export class RAGService {
       return finalResults.slice(0, topK);
     }
 
+    // Strategy 3.9: Catch-all vote query
+    // If the query mentions any vote-related terms and wasn't caught by specific detectors above,
+    // try the structured vote lookup anyway before falling back to pure semantic search.
+    // This catches queries like "did the integrity commissioner motion pass?" that slip through
+    // the rigid regex patterns in detectMotionOutcomeQuery.
+    {
+      let catchAllVoteContext = '';
+      if (this.detectAnyVoteQuery(query) && !isMotionOutcomeQuery && !isVoteCountQuery && !isCouncillorVotingQuery && !isCloseVoteQuery && !isMayorMinorityQuery && !isAlignmentQuery) {
+        const keywords = this.extractVoteKeywords(query);
+        if (keywords.length > 0 && this.voteLookupInitialized) {
+          console.log(`🔍 Catch-all vote query: trying structured lookup for keywords "${keywords.join(' ')}"`);
+          const motionResult = voteLookupService.findMotionVotes(keywords);
+          if (motionResult) {
+            catchAllVoteContext = voteLookupService.formatMotionVotesForContext(motionResult);
+            console.log(`   ✅ Catch-all found VERIFIED motion vote breakdown: ${motionResult.yeas.length} yea, ${motionResult.nays.length} nay`);
+          } else {
+            console.log(`   ⚠️ Catch-all: no matching motion found in structured data`);
+          }
+        }
+      }
+      if (catchAllVoteContext) {
+        (this as any)._verifiedVoteContext = catchAllVoteContext;
+      }
+    }
+
     // Strategy 4: Hybrid search with optional meeting type filter
     // For topic-based queries like "housing decisions" or "budget discussions"
     // Uses hybrid search (vector + BM25) to catch both semantic concepts and specific terms
@@ -2580,7 +2723,7 @@ ${result.text}
 
   // Smart routing constants
   private static readonly SIMPLE_MODEL: OpenRouterModel = 'gemini-3-flash';
-  private static readonly COMPLEX_MODEL: OpenRouterModel = 'claude-sonnet-4';
+  private static readonly COMPLEX_MODEL: OpenRouterModel = 'gemini-3-flash';  // was claude-sonnet-4 ($0.17-0.46/query); gemini-3-flash costs ~$0.02/query
   private static readonly COMPLEXITY_THRESHOLD = 150; // TOP_K >= 150 → complex model
 
   // Context budget per model (in characters, ~4 chars per token)
