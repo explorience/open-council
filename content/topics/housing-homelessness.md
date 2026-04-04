@@ -2,8 +2,6 @@
 title: "Housing & Homelessness"
 ---
 
-# Housing & Homelessness
-
 Shelters, warming centres, affordable housing, encampments, rental licensing, and supportive housing.
 
 [View all Housing & Homelessness votes in the Vote Explorer →](/votes?topic=Housing%20%26%20Homelessness)

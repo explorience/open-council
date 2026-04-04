@@ -2,8 +2,6 @@
 title: "Budget & Taxes"
 ---
 
-# Budget & Taxes
-
 Property tax rates, city spending, reserve funds, user fees, and annual budget deliberations.
 
 [View all Budget & Taxes votes in the Vote Explorer →](/votes?topic=Budget%20%26%20Taxes)

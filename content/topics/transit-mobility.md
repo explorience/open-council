@@ -2,8 +2,6 @@
 title: "Transit & Mobility"
 ---
 
-# Transit & Mobility
-
 London Transit, BRT, bus routes, the Mobility Master Plan, cycling infrastructure, and active transportation.
 
 [View all Transit & Mobility votes in the Vote Explorer →](/votes?topic=Transit%20%26%20Mobility)

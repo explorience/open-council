@@ -2,8 +2,6 @@
 title: "Infrastructure"
 ---
 
-# Infrastructure
-
 Roads, bridges, sewers, water mains, stormwater management, and road reconstruction projects.
 
 [View all Infrastructure votes in the Vote Explorer →](/votes?topic=Infrastructure)

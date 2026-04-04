@@ -2,8 +2,6 @@
 title: "Fireworks Bylaw"
 ---
 
-# Fireworks Bylaw
-
 Regulations on fireworks use, bylaw amendments, and enforcement in London.
 
 [View all Fireworks Bylaw votes in the Vote Explorer →](/votes?topic=Fireworks%20Bylaw)

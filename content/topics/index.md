@@ -2,8 +2,6 @@
 title: Topics
 ---
 
-# Topics
-
 Browse council votes by topic. Each topic page shows vote statistics and links to the full vote data in the [Vote Explorer](/votes).
 
 ## Hot Button Issues
@@ -31,7 +29,6 @@ London Transit, BRT, bus routes, the Mobility Master Plan, cycling infrastructur
 Official plan amendments, rezoning, building heights, urban growth boundary, site plans, and intensification.
 
 **974 votes** (346 contested, 36% split) | [View in Vote Explorer](/votes?topic=Housing%20%26%20Homelessness)
-
 
 ## Major Services
 
@@ -64,7 +61,6 @@ Parks, playgrounds, trails, community centres, arenas, aquatics, and sports fiel
 School board matters, library services, student transit passes, and education-related council decisions.
 
 **271 votes** (169 contested, 62% split) | [View in Vote Explorer](/votes?topic=Housing%20%26%20Homelessness)
-
 
 ## London-Specific
 

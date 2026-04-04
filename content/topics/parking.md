@@ -2,8 +2,6 @@
 title: "Parking"
 ---
 
-# Parking
-
 Parking minimums, on-street parking, parking studies, and parking meter policies.
 
 [View all Parking votes in the Vote Explorer →](/votes?topic=Parking)
