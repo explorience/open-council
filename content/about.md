@@ -18,6 +18,10 @@ Open Council was created by volunteers at the [Institute for Community Sustainab
 
 The site scrapes publicly available meeting data from London's eScribe system, processes it into searchable formats, and uses AI (Retrieval Augmented Generation) to let you ask natural language questions about council discussions from 2011 to present.
 
+## How up-to-date is the data?
+
+Our data is only as current as the City of London's published minutes. The City Clerk's office typically publishes official meeting minutes **several weeks after** a meeting takes place. Until the minutes are published on eScribe, we cannot extract vote breakdowns or agenda item details for that meeting. We check for new data regularly and update the site as soon as it becomes available. If you notice a recent meeting is missing vote data, that's almost certainly because the city hasn't published the minutes yet — not because of an issue on our end.
+
 ## Help us improve
 
 This project is still in active development. We need your help to make it better!
