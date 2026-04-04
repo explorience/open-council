@@ -1,5 +1,5 @@
 footer {
-  text-align: left;
+  text-align: center;
   margin-bottom: 4rem;
   opacity: 0.7;
   border-top: 1px solid var(--lightgray);
@@ -16,6 +16,7 @@ footer {
     gap: 2rem;
     margin: 1rem 0;
     flex-wrap: wrap;
+    justify-content: center;
   }
 
   .footer-col {
@@ -23,6 +24,7 @@ footer {
     flex-direction: column;
     gap: 0.3rem;
     min-width: 120px;
+    align-items: center;
 
     strong {
       font-size: 0.85rem;
@@ -48,6 +50,7 @@ footer {
     flex-direction: row;
     gap: 1rem;
     margin-top: 0.5rem;
+    justify-content: center;
   }
 
   @media (max-width: 600px) {
