@@ -6,7 +6,7 @@ title: "Infrastructure"
 
 Roads, bridges, sewers, water mains, stormwater management, and road reconstruction projects.
 
-[View all Infrastructure votes in the Vote Explorer →](/votes)
+[View all Infrastructure votes in the Vote Explorer →](/votes?topic=Infrastructure)
 
 ## At a Glance
 
@@ -45,4 +45,4 @@ Roads, bridges, sewers, water mains, stormwater management, and road reconstruct
 - ✅ **2025-05-22** — [4.1. 2026 Annual Budget Update - Status Update](/months/2025-05/2025-05-22-2nd-Meeting-of-the-Budget-Committee) — Motion Passed (9 to 5)
 - ✅ **2024-12-17** — [8.1.18. (3.10) 21-41 Meadowlily Road North and 20 Norlan Avenue (Relates to Bill No. 37)](/months/2024-12/2024-12-17-1st-Meeting-of-City-Council) — Motion Passed (13 to 2)
 
-[See all contested votes →](/votes)
+[See all contested votes →](/votes?topic=Infrastructure)

@@ -6,7 +6,7 @@ title: "Education & Libraries"
 
 School board matters, library services, student transit passes, and education-related council decisions.
 
-[View all Education & Libraries votes in the Vote Explorer →](/votes)
+[View all Education & Libraries votes in the Vote Explorer →](/votes?topic=Education%20%26%20Libraries)
 
 ## At a Glance
 
@@ -44,4 +44,4 @@ School board matters, library services, student transit passes, and education-re
 - ❌ **2025-07-22** — [8.2.14. (5.1) Request to Review the School Crossing Guard Program](/months/2025-07/2025-07-22-12th-Council-Meeting) — Motion Failed (5 to 10)
 - ✅ **2025-07-22** — [8.2.14. (5.1) Request to Review the School Crossing Guard Program](/months/2025-07/2025-07-22-12th-Council-Meeting) — Motion Passed (13 to 2)
 
-[See all contested votes →](/votes)
+[See all contested votes →](/votes?topic=Education%20%26%20Libraries)

@@ -6,7 +6,7 @@ title: "Parks & Recreation"
 
 Parks, playgrounds, trails, community centres, arenas, aquatics, and sports fields.
 
-[View all Parks & Recreation votes in the Vote Explorer →](/votes)
+[View all Parks & Recreation votes in the Vote Explorer →](/votes?topic=Parks%20%26%20Recreation)
 
 ## At a Glance
 
@@ -45,4 +45,4 @@ Parks, playgrounds, trails, community centres, arenas, aquatics, and sports fiel
 - ✅ **2025-11-25** — [8.1.9. (2.5) Blue Box Transition Final Year - Part B Update](/months/2025-11/2025-11-25-18th-Council-Meeting) — Motion Passed (8 to 7)
 - ❌ **2025-11-25** — [8.1.9. (2.5) Blue Box Transition Final Year - Part B Update](/months/2025-11/2025-11-25-18th-Council-Meeting) — Motion Failed (4 to 11)
 
-[See all contested votes →](/votes)
+[See all contested votes →](/votes?topic=Parks%20%26%20Recreation)

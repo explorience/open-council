@@ -6,7 +6,7 @@ title: "Budget & Taxes"
 
 Property tax rates, city spending, reserve funds, user fees, and annual budget deliberations.
 
-[View all Budget & Taxes votes in the Vote Explorer →](/votes)
+[View all Budget & Taxes votes in the Vote Explorer →](/votes?topic=Budget%20%26%20Taxes)
 
 ## At a Glance
 
@@ -45,4 +45,4 @@ Property tax rates, city spending, reserve funds, user fees, and annual budget d
 - ✅ **2025-11-26** — [8.3.8. (4.9) Amendment - Councillor D. Ferreira](/months/2025-11/2025-11-26-19th-Special-Meeting-of-City-Council---BUDGET) — Motion Passed (11 to 3)
 - ✅ **2025-11-20** — [4.1. Amendment - Budget Case #P-6](/months/2025-11/2025-11-20-6th-Meeting-of-the-Budget-Committee) — Motion Passed (11 to 4)
 
-[See all contested votes →](/votes)
+[See all contested votes →](/votes?topic=Budget%20%26%20Taxes)

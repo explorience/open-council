@@ -6,7 +6,7 @@ title: "Heritage"
 
 Heritage designations, cultural heritage conservation, heritage register, and heritage impact assessments.
 
-[View all Heritage votes in the Vote Explorer →](/votes)
+[View all Heritage votes in the Vote Explorer →](/votes?topic=Heritage)
 
 ## At a Glance
 
@@ -45,4 +45,4 @@ Heritage designations, cultural heritage conservation, heritage register, and he
 - ✅ **2025-08-26** — [8.2.8. (2.7) Medway Valley Heritage Forest Environmentally Significant Area (South) Con](/months/2025-08/2025-08-26-14th-Council-Meeting) — Motion Passed (10 to 5)
 - ❌ **2025-06-11** — [4.3. Communication - Cost Saving Opportunities within Heritage - Councillor S. Steven](/months/2025-06/2025-06-11-3rd-Meeting-of-the-Budget-Committee) — Motion Failed (3 to 12)
 
-[See all contested votes →](/votes)
+[See all contested votes →](/votes?topic=Heritage)

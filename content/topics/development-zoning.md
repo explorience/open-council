@@ -6,7 +6,7 @@ title: "Development & Zoning"
 
 Official plan amendments, rezoning, building heights, urban growth boundary, site plans, and intensification.
 
-[View all Development & Zoning votes in the Vote Explorer →](/votes)
+[View all Development & Zoning votes in the Vote Explorer →](/votes?topic=Development%20%26%20Zoning)
 
 ## At a Glance
 
@@ -45,4 +45,4 @@ Official plan amendments, rezoning, building heights, urban growth boundary, sit
 - ✅ **2026-02-10** — [8.3.6. (3.2) 233 Cambridge Street - Z-25155 (Relates to Bill No. 80)](/months/2026-02/2026-02-10-3rd-Council-Meeting) — Motion Passed (12 to 3)
 - ❌ **2026-02-10** — [8.3.8. (3.4) 767 Fanshawe Park Road East and 679 Dunboyne Crescent - Z-25151 (Relates t](/months/2026-02/2026-02-10-3rd-Council-Meeting) — Motion Failed (2 to 13)
 
-[See all contested votes →](/votes)
+[See all contested votes →](/votes?topic=Development%20%26%20Zoning)

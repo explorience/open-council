@@ -6,7 +6,7 @@ title: "Housing & Homelessness"
 
 Shelters, warming centres, affordable housing, encampments, rental licensing, and supportive housing.
 
-[View all Housing & Homelessness votes in the Vote Explorer →](/votes)
+[View all Housing & Homelessness votes in the Vote Explorer →](/votes?topic=Housing%20%26%20Homelessness)
 
 ## At a Glance
 
@@ -44,4 +44,4 @@ Shelters, warming centres, affordable housing, encampments, rental licensing, an
 - ✅ **2026-02-10** — [8.2.9. (4.2) Temporary Warming Centres](/months/2026-02/2026-02-10-3rd-Council-Meeting) — Motion Passed (14 to 1)
 - ❌ **2026-01-26** — [2.2. Good Neighbour Agreements](/months/2026-01/2026-01-26-2nd-Meeting-of-the-Community-and-Protective-Services-Committee) — Motion Failed (2 to 4)
 
-[See all contested votes →](/votes)
+[See all contested votes →](/votes?topic=Housing%20%26%20Homelessness)

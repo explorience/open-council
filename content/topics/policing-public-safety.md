@@ -6,7 +6,7 @@ title: "Policing & Public Safety"
 
 London Police Service, police budget, public safety initiatives, enforcement, and the integrity commissioner.
 
-[View all Policing & Public Safety votes in the Vote Explorer →](/votes)
+[View all Policing & Public Safety votes in the Vote Explorer →](/votes?topic=Policing%20%26%20Public%20Safety)
 
 ## At a Glance
 
@@ -45,4 +45,4 @@ London Police Service, police budget, public safety initiatives, enforcement, an
 - ✅ **2025-03-25** — [3.1. Integrity Commissioner's Annual Report - Resubmitted](/months/2025-03/2025-03-25-4th-Meeting-of-the-Strategic-Priorities-and-Policy-Committee) — Motion Passed (9 to 6)
 - ✅ **2025-03-25** — [3.1. Integrity Commissioner's Annual Report - Resubmitted](/months/2025-03/2025-03-25-4th-Meeting-of-the-Strategic-Priorities-and-Policy-Committee) — Motion Passed (11 to 4)
 
-[See all contested votes →](/votes)
+[See all contested votes →](/votes?topic=Policing%20%26%20Public%20Safety)
