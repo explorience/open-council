@@ -250,6 +250,16 @@ async function init(): Promise<void> {
       if (latestEl) latestEl.textContent = ` The most recent vote data available is from ${formatted}.`
     }
 
+    // Read URL params and pre-set filters
+    const urlParams = new URLSearchParams(window.location.search)
+    const topicParam = urlParams.get("topic")
+    if (topicParam && topicEl) {
+      // Find matching option (case-insensitive)
+      const options = Array.from(topicEl.options)
+      const match = options.find(o => o.value.toLowerCase() === topicParam.toLowerCase())
+      if (match) topicEl.value = match.value
+    }
+
     // Apply initial filters
     applyFilters()
 

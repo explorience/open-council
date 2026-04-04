@@ -6,7 +6,7 @@ title: "Parking"
 
 Parking minimums, on-street parking, parking studies, and parking meter policies.
 
-[View all Parking votes in the Vote Explorer →](/votes)
+[View all Parking votes in the Vote Explorer →](/votes?topic=Parking)
 
 ## At a Glance
 
@@ -45,4 +45,4 @@ Parking minimums, on-street parking, parking studies, and parking meter policies
 - ✅ **2025-11-20** — [4.9. (ADDED) Amendment - Councillor D. Ferreira](/months/2025-11/2025-11-20-6th-Meeting-of-the-Budget-Committee) — Motion Passed (11 to 4)
 - ❌ **2025-11-20** — [4.9. (ADDED) Amendment - Councillor D. Ferreira](/months/2025-11/2025-11-20-6th-Meeting-of-the-Budget-Committee) — Motion Failed (7 to 8)
 
-[See all contested votes →](/votes)
+[See all contested votes →](/votes?topic=Parking)

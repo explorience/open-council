@@ -6,7 +6,7 @@ title: "Fireworks Bylaw"
 
 Regulations on fireworks use, bylaw amendments, and enforcement in London.
 
-[View all Fireworks Bylaw votes in the Vote Explorer →](/votes)
+[View all Fireworks Bylaw votes in the Vote Explorer →](/votes?topic=Fireworks%20Bylaw)
 
 ## At a Glance
 
@@ -35,4 +35,4 @@ Regulations on fireworks use, bylaw amendments, and enforcement in London.
 - ❌ **2024-03-18** — [2.6. Business Licensing By-law and Fireworks By-law – Amendments](/months/2024-03/2024-03-18-The-5th-Meeting-of-the-Community-and-Protective-Services-Committee) — Motion Failed (2 to 3)
 - ✅ **2024-03-18** — [2.6. Business Licensing By-law and Fireworks By-law – Amendments](/months/2024-03/2024-03-18-The-5th-Meeting-of-the-Community-and-Protective-Services-Committee) — Motion Passed (3 to 2)
 
-[See all contested votes →](/votes)
+[See all contested votes →](/votes?topic=Fireworks%20Bylaw)

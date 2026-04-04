@@ -6,7 +6,7 @@ title: "Environment & Climate"
 
 Climate action, tree protection, conservation, emissions targets, waste diversion, and natural heritage.
 
-[View all Environment & Climate votes in the Vote Explorer →](/votes)
+[View all Environment & Climate votes in the Vote Explorer →](/votes?topic=Environment%20%26%20Climate)
 
 ## At a Glance
 
@@ -45,4 +45,4 @@ Climate action, tree protection, conservation, emissions targets, waste diversio
 - ✅ **2026-02-23** — [2.3. Federation of Canadian Municipalities: Green Municipal Fund Agreement for Munici](/months/2026-02/2026-02-23-4th-Meeting-of-the-Infrastructure-and-Corporate-Services-Committee) — Motion Passed (4 to 1)
 - ✅ **2026-02-23** — [2.9. Contract Award: Tender No. RFT-2025-223 Wellington Gateway and Municipal Infrast](/months/2026-02/2026-02-23-4th-Meeting-of-the-Infrastructure-and-Corporate-Services-Committee) — Motion Passed (3 to 2)
 
-[See all contested votes →](/votes)
+[See all contested votes →](/votes?topic=Environment%20%26%20Climate)

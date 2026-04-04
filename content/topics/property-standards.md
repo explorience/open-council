@@ -6,7 +6,7 @@ title: "Property Standards & Yard Maintenance"
 
 Yard maintenance bylaws, property standards enforcement, boulevard maintenance, and weed control.
 
-[View all Property Standards & Yard Maintenance votes in the Vote Explorer →](/votes)
+[View all Property Standards & Yard Maintenance votes in the Vote Explorer →](/votes?topic=Property%20Standards%20%26%20Yard%20Maintenance)
 
 ## At a Glance
 
@@ -38,4 +38,4 @@ Yard maintenance bylaws, property standards enforcement, boulevard maintenance, 
 - ✅ **2024-10-21** — [3.1. Life*Spin - Property Standards and Tenant Support](/months/2024-10/2024-10-21-13th-Meeting-of-the-Community-and-Protective-Services-Committee) — Motion Passed (3 to 2)
 - ✅ **2024-10-21** — [3.1. Life*Spin - Property Standards and Tenant Support](/months/2024-10/2024-10-21-13th-Meeting-of-the-Community-and-Protective-Services-Committee) — Motion Passed (3 to 2)
 
-[See all contested votes →](/votes)
+[See all contested votes →](/votes?topic=Property%20Standards%20%26%20Yard%20Maintenance)

@@ -6,7 +6,7 @@ title: "Transit & Mobility"
 
 London Transit, BRT, bus routes, the Mobility Master Plan, cycling infrastructure, and active transportation.
 
-[View all Transit & Mobility votes in the Vote Explorer →](/votes)
+[View all Transit & Mobility votes in the Vote Explorer →](/votes?topic=Transit%20%26%20Mobility)
 
 ## At a Glance
 
@@ -43,4 +43,4 @@ London Transit, BRT, bus routes, the Mobility Master Plan, cycling infrastructur
 - ❌ **2026-01-13** — [4.2. Request for an Amendment to the London Transit Commission Board Member Compositi](/months/2026-01/2026-01-13-2nd-Meeting-of-the-Strategic-Priorities-and-Policy-Committee) — Motion Failed (5 to 10)
 - ❌ **2025-12-09** — [2.1. Micro-Modular Shelter Site Update](/months/2025-12/2025-12-09-1st-Meeting-of-the-Strategic-Priorities-and-Policy-Committee) — Motion Failed (5 to 9)
 
-[See all contested votes →](/votes)
+[See all contested votes →](/votes?topic=Transit%20%26%20Mobility)

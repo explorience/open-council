@@ -6,7 +6,7 @@ title: "Neighbourhoods"
 
 Neighbourhood connectivity plans, community improvement areas, ward-level decisions, and local initiatives.
 
-[View all Neighbourhoods votes in the Vote Explorer →](/votes)
+[View all Neighbourhoods votes in the Vote Explorer →](/votes?topic=Neighbourhoods)
 
 ## At a Glance
 
@@ -44,4 +44,4 @@ Neighbourhood connectivity plans, community improvement areas, ward-level decisi
 - ✅ **2025-04-30** — [2.2. Commemorative Naming of Streets and City Assets - Status Update](/months/2025-04/2025-04-30-8th-Meeting-of-the-Infrastructure-and-Corporate-Services-Committee) — Motion Passed (4 to 1)
 - ❌ **2025-04-22** — [8.3.10. (3.7) 801 Sarnia Road (OZ-25017)](/months/2025-04/2025-04-22-7th-Council-Meeting) — Motion Failed (5 to 10)
 
-[See all contested votes →](/votes)
+[See all contested votes →](/votes?topic=Neighbourhoods)
