@@ -15,6 +15,11 @@ const VoteExplorer: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
         <p class="ve-subtitle">
           Every substantive vote by London City Council since 2011. Procedural motions excluded.
         </p>
+        <div class="ve-freshness-notice" id="ve-freshness">
+          <strong>Note:</strong> Vote data depends on the City of London publishing official meeting minutes.
+          There is often a delay of several weeks between a meeting and the minutes being posted.
+          <span id="ve-latest-date"></span>
+        </div>
       </div>
 
       <div class="ve-controls">

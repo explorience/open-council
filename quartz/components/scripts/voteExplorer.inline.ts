@@ -231,6 +231,16 @@ async function init(): Promise<void> {
     // Remove loading indicator
     if (loadingEl) loadingEl.remove()
 
+    // Show latest date in freshness notice
+    if (allMotions.length > 0) {
+      const latestDate = allMotions[0].d
+      const formatted = new Date(latestDate + "T12:00:00").toLocaleDateString("en-CA", {
+        year: "numeric", month: "long", day: "numeric",
+      })
+      const latestEl = document.getElementById("ve-latest-date")
+      if (latestEl) latestEl.textContent = ` The most recent vote data available is from ${formatted}.`
+    }
+
     // Apply initial filters
     applyFilters()
 
