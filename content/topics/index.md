@@ -1,5 +1,7 @@
 ---
 title: Topics
+cssclasses:
+  - hide-folder-listing
 ---
 
 Browse council votes by topic. Each topic page shows vote statistics and links to the full vote data in the [Vote Explorer](/votes).
