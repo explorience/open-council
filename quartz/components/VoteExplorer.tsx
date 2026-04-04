@@ -76,6 +76,24 @@ const VoteExplorer: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
             <option value="all">All Votes</option>
             <option value="close">Close Votes (≤3 margin)</option>
           </select>
+
+          <select id="ve-topic">
+            <option value="all">All Topics</option>
+            <option value="Housing & Homelessness">Housing & Homelessness</option>
+            <option value="Budget & Taxes">Budget & Taxes</option>
+            <option value="Transit & Mobility">Transit & Mobility</option>
+            <option value="Development & Zoning">Development & Zoning</option>
+            <option value="Policing & Public Safety">Policing & Public Safety</option>
+            <option value="Infrastructure">Infrastructure</option>
+            <option value="Environment & Climate">Environment & Climate</option>
+            <option value="Parks & Recreation">Parks & Recreation</option>
+            <option value="Education & Libraries">Education & Libraries</option>
+            <option value="Parking">Parking</option>
+            <option value="Neighbourhoods">Neighbourhoods</option>
+            <option value="Fireworks Bylaw">Fireworks Bylaw</option>
+            <option value="Property Standards & Yard Maintenance">Property Standards</option>
+            <option value="Heritage">Heritage</option>
+          </select>
         </div>
 
         <div class="ve-stats" id="ve-stats">
