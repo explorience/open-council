@@ -445,6 +445,59 @@ The Community and Protective Services Committee convened, In Closed Session, fro
 
 
 The meeting adjourned at 8:42 PM.
+
+---
+
+## Votes
+
+*5 substantive votes at this meeting (1 contested, 4 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.2, 2.3, 2.4, 2.6 and 2.7 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.5. (REVISED REPORT) The City of London 2021-22 Winter Response Program for Unsheltered Individuals (SS21-40, SS21-41, SS21-42, SS21-43)
+
+> That, on the recommendation of the Deputy City Manager, Social and Health Development, the following actions be taken with respect to the staff report dated November 2, 2021, related to The City of London 2021-22 Winter Response Program for Unsheltered Individuals (SS21-40, SS21-41, SS21-42, SS21...
+
+**✅ Motion Passed (5 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier), [Jesse Helmer](/councillors/current/j-helmer)
+
+**Nay (1):** [Mo Salih](/councillors/current/m-salih)
+
+</details>
+
+### 2.5. (REVISED REPORT) The City of London 2021-22 Winter Response Program for Unsheltered Individuals (SS21-40, SS21-41, SS21-42, SS21-43)
+
+> Motion to approve the delegation request, as appended to the Added Agenda, from J. Duckitt, with respect to this matter.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.1. Flyer Deliveries to Residential Properties
+
+> That the draft by-law, as appended to the staff report dated September 21, 2021, with respect to Flyer Deliveries to Residential Properties BE REFERRED back to the Civic Administration for revisions that include enforcement measures in cases where compliance is not respected; it being pointed out...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. 9th Report of the Animal Welfare Advisory Committee
+
+> That the following actions be taken with respect to the 9th Report of the Animal Welfare Advisory Committee, from its meeting held on October 7, 2021: a)    the following actions be taken with respect to the recycling depots and fishing line: i)     the Civic Administration BE REQUESTED to obtain...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
 ---
 
 ## Full Transcript
@@ -1651,57 +1704,3 @@ Mr. Lewis, seconded by Councillor Fife Miller. All those in favor, adjourned. Th
 Thank you all. Thanks, Chair.
 
 </details>
-
----
-
-## Votes
-
-*5 substantive votes at this meeting (1 contested, 4 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1, 2.2, 2.3, 2.4, 2.6 and 2.7 BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 2.5. (REVISED REPORT) The City of London 2021-22 Winter Response Program for Unsheltered Individuals (SS21-40, SS21-41, SS21-42, SS21-43)
-
-> That, on the recommendation of the Deputy City Manager, Social and Health Development, the following actions be taken with respect to the staff report dated November 2, 2021, related to The City of London 2021-22 Winter Response Program for Unsheltered Individuals (SS21-40, SS21-41, SS21-42, SS21...
-
-**✅ Motion Passed (5 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier), [Jesse Helmer](/councillors/current/j-helmer)
-
-**Nay (1):** [Mo Salih](/councillors/current/m-salih)
-
-</details>
-
-### 2.5. (REVISED REPORT) The City of London 2021-22 Winter Response Program for Unsheltered Individuals (SS21-40, SS21-41, SS21-42, SS21-43)
-
-> Motion to approve the delegation request, as appended to the Added Agenda, from J. Duckitt, with respect to this matter.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.1. Flyer Deliveries to Residential Properties
-
-> That the draft by-law, as appended to the staff report dated September 21, 2021, with respect to Flyer Deliveries to Residential Properties BE REFERRED back to the Civic Administration for revisions that include enforcement measures in cases where compliance is not respected; it being pointed out...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 4.1. 9th Report of the Animal Welfare Advisory Committee
-
-> That the following actions be taken with respect to the 9th Report of the Animal Welfare Advisory Committee, from its meeting held on October 7, 2021: a)    the following actions be taken with respect to the recycling depots and fishing line: i)     the Civic Administration BE REQUESTED to obtain...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-

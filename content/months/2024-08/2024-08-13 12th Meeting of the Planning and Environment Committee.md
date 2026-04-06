@@ -996,6 +996,125 @@ The meeting adjourned at 3:42 PM.
 > **Motion Passed (5 to 0)**
 
 ****
+
+---
+
+## Votes
+
+*13 substantive votes at this meeting (1 contested, 12 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Item 2.1 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 3.1. 379 Southdale Road West (Z-9746)
+
+> That, on the recommendation of the Director, Planning and Development, based on the application by 1787377 Ontario Inc., relating to the property located at 379 Southdale Road West, the proposed by-law appended to the staff report dated August 13, 2024 as Appendix “A” BE INTRODUCED at the Municip...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.2. 553-557 Upper Queen Street (Z-9747)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by John MacArthur and Derek Sloan, (c/o Zelinka Priamo Ltd.), relating to the properties located at 553 and 557 Upper Queen Street: a) the proposed by-law appended...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.3. 455 Highbury Avenue North - (OZ-9739)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Highbury Self Storage Equities Limited, (c/o Zelinka Priamo Ltd.), relating to the property located at 455 Highbury Avenue North: a)    the request to amend the...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.4. 4452 Wellington Road South (Z-9729)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by 2858637 Ontario Inc., relating to the property located at 4452 Wellington Road South: a) the proposed by-law appended to the staff report dated August 13, 2024 ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.5. 757 Southdale Road East (OZ-9742)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Judy Kojlak, c/o Zelinka Priamo Ltd. (c/o Matt Campbell) relating to the property located at 757 Southdale Road East: a) the proposed by-law appended to the sta...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.6. 267 York Street (OZ-9736)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Citi Plaza London Inc., (c/o Zelinka Priamo Ltd.), relating to the property located at 267 York Street: a) the proposed by-law appended to the staff report date...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.7. 1368 Oxford Street East (Z-9745)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Ashishkumar Patel, Hetalben Sevantilal Patel, (c/o Siv-ik Planning & Design Inc.), relating to the property located at 1368 Oxford Street East: a) the proposed ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.8. 539 and 543 Topping Lane (OZ-9737)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by South London Investments Inc., (c/o Siv-ik Planning & Design Inc.), relating to the property located at 539 & 543 Topping Lane: a) the proposed by-law appended ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.9. Not to be heard before 1:30 PM – 2060 Dundas Street (Z-9547)
+
+> That, the following actions be taken with respect to the application by 2783142 Ontario Inc., (c/o Zelinka Priamo Ltd.), relating to a portion of the property located at 2060 Dundas Street: a)    the proposed revised, attached by-law BE INTRODUCED at the Municipal Council meeting to be held on Au...
+
+**✅ Motion Passed (3 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Corrine Rahman](/councillors/current/c-rahman), [Skylar Franke](/councillors/current/s-franke)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 4.1. Communication from the Upper Thames River Conservation Authority Board of Directors – Extension of Minister’s Direction for Conservation Authorities Regarding Fee Changes Associated with Planning, Development and Permitting Fees
+
+> That the Mayor BE ASKED to write a letter requesting the decision of the Minister of Natural Resources and Forestry of Ontario, Graydon Smith, to reverse the decision to freeze the fees conservation authorities can charge in regard to planning, development, and permitting fees; it being noted tha...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.1. Communication from the Upper Thames River Conservation Authority Board of Directors – Extension of Minister’s Direction for Conservation Authorities Regarding Fee Changes Associated with Planning, Development and Permitting Fees
+
+> Motion to approve delegation status to B. Petrie, Mayor, Town of Ingersoll, with respect to these matters.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 7. Adjournment
+
+> The meeting adjourned at 3:42 PM.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -1226,123 +1345,3 @@ Schulte's hello you hear me we can you have five minutes please go ahead thank y
 Mayor Lewis thank you chair uh if you'll allow i just want to um through you see if our delegates um can respond to just a couple of quick questions um i know that we uh approved a uh service review uh funding piece uh for upper tems uh i i i just wonder if he can provide any information on how far along we are with that um i believe we provided two hundred thousand dollars for a service review for efficiencies um i am certainly not opposed to asking the province to uh lift the fee freeze um and and i just wonder because we've got a budget allocation i know it's not lost on you as i mean this poor representative that property tax dollars are few and far between and it's much better if we can get income and consumer taxes from the province so can you tell us how things are proceeding we may be too early in the process but is there any opportunity to provide us an update on where the service review is um and whether uh you're you're currently expecting to come back with yet another uh budget ask of the partner municipalities or with the service review and potentially getting these uh fee freezes lifted if you'll be in better shape that way Mr. Petrie certainly to answer the first part of the question i know it's uh at staff levels right now uh the board does not meet in in july and so we'll be meeting in august and i expect we'll see the update on that so certainly uh still willing to move forward with uh uh always trying to make us a streamline as possible and be as efficient as possible that way we we value that uh investment uh with the second part you know these have a chance to have really significant amounts of dollars come into our coffers which can save your coffers so we're not talking ten thousand dollars we're talking hundreds of thousands of dollars and you're the biggest uh you're the biggest shareholder if that's put that way and uh you'll be the biggest benefitter because uh that's just the way it works so certainly we're looking at staff and the board are looking at every stone to go okay how do we make it more efficient we didn't like coming nobody around that table we're all elected officials we didn't like coming to our member municipalities with a large increase that we did we certainly don't want to repeat that this year i don't think we will but it's it's all pieces of the puzzle to make it uh come together step together um thank you i appreciate that um and i i hope you want this year because we do a multi-year budget i know other municipalities uh may not be in that boat but uh and i appreciate that the board doesn't meet in july i wish more boards wouldn't meet in july um honestly i think we can all use a break now and then but i do appreciate knowing that it's at the staff level and that things are moving forward there um through you chair i'm prepared to move the uh request um that the mayor be directed to uh on council's behalf uh communicate to the province a need to lift the fee freeze for the conservation authorities now look for a seconder councilor frank any further discussion we have a motion moved in second i'll call the vote closing the vote the motion carries five to zero okay we don't have any deferred matters or additional business uh to discuss so we'll move to the confidential side of things to all ask staff to prepare the room for that question so uh we have to vote to go on camera my apologies um moved by council ramen seconded by deputy mayor Lewis and i'll call that vote closing the vote the motion carries five to zero okay we're back um i'll look to uh the deputy mayor to report uh thank you chair and through you i am happy to report out the progress was made on the item for which we went into two confidential session thank you um that brings us to a german i'll look for a motion to adjourn councilor frank second by councilor robin handbook the motion carries five to zero thanks everyone
 
 </details>
-
----
-
-## Votes
-
-*13 substantive votes at this meeting (1 contested, 12 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Item 2.1 BE APPROVED.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 3.1. 379 Southdale Road West (Z-9746)
-
-> That, on the recommendation of the Director, Planning and Development, based on the application by 1787377 Ontario Inc., relating to the property located at 379 Southdale Road West, the proposed by-law appended to the staff report dated August 13, 2024 as Appendix “A” BE INTRODUCED at the Municip...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.2. 553-557 Upper Queen Street (Z-9747)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by John MacArthur and Derek Sloan, (c/o Zelinka Priamo Ltd.), relating to the properties located at 553 and 557 Upper Queen Street: a) the proposed by-law appended...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.3. 455 Highbury Avenue North - (OZ-9739)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Highbury Self Storage Equities Limited, (c/o Zelinka Priamo Ltd.), relating to the property located at 455 Highbury Avenue North: a)    the request to amend the...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.4. 4452 Wellington Road South (Z-9729)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by 2858637 Ontario Inc., relating to the property located at 4452 Wellington Road South: a) the proposed by-law appended to the staff report dated August 13, 2024 ...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.5. 757 Southdale Road East (OZ-9742)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Judy Kojlak, c/o Zelinka Priamo Ltd. (c/o Matt Campbell) relating to the property located at 757 Southdale Road East: a) the proposed by-law appended to the sta...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.6. 267 York Street (OZ-9736)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Citi Plaza London Inc., (c/o Zelinka Priamo Ltd.), relating to the property located at 267 York Street: a) the proposed by-law appended to the staff report date...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.7. 1368 Oxford Street East (Z-9745)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Ashishkumar Patel, Hetalben Sevantilal Patel, (c/o Siv-ik Planning & Design Inc.), relating to the property located at 1368 Oxford Street East: a) the proposed ...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.8. 539 and 543 Topping Lane (OZ-9737)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by South London Investments Inc., (c/o Siv-ik Planning & Design Inc.), relating to the property located at 539 & 543 Topping Lane: a) the proposed by-law appended ...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.9. Not to be heard before 1:30 PM – 2060 Dundas Street (Z-9547)
-
-> That, the following actions be taken with respect to the application by 2783142 Ontario Inc., (c/o Zelinka Priamo Ltd.), relating to a portion of the property located at 2060 Dundas Street: a)    the proposed revised, attached by-law BE INTRODUCED at the Municipal Council meeting to be held on Au...
-
-**✅ Motion Passed (3 to 2) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (2):** [Corrine Rahman](/councillors/current/c-rahman), [Skylar Franke](/councillors/current/s-franke)
-
-**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
-
-</details>
-
-### 4.1. Communication from the Upper Thames River Conservation Authority Board of Directors – Extension of Minister’s Direction for Conservation Authorities Regarding Fee Changes Associated with Planning, Development and Permitting Fees
-
-> That the Mayor BE ASKED to write a letter requesting the decision of the Minister of Natural Resources and Forestry of Ontario, Graydon Smith, to reverse the decision to freeze the fees conservation authorities can charge in regard to planning, development, and permitting fees; it being noted tha...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 4.1. Communication from the Upper Thames River Conservation Authority Board of Directors – Extension of Minister’s Direction for Conservation Authorities Regarding Fee Changes Associated with Planning, Development and Permitting Fees
-
-> Motion to approve delegation status to B. Petrie, Mayor, Town of Ingersoll, with respect to these matters.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 7. Adjournment
-
-> The meeting adjourned at 3:42 PM.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-

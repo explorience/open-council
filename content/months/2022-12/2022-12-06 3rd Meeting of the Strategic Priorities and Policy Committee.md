@@ -457,6 +457,59 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 7:00 PM.
 
 ****
+
+---
+
+## Votes
+
+*5 substantive votes at this meeting (1 contested, 4 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That items 2.1 to 2.6 BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.1. Request for Delegation Status - Valerie Terejko - Bill 5 - Stopping Harassment and Abuse by Local Leaders Act, 2022
+
+> That the Mayor BE DIRECTED to write to local MPPs, Premier Doug Ford and the Minister of Municipal Affairs and Housing, on behalf of the municipal council, in support of the proposed Bill 5; it being noted that the Association of Municipalities of Ontario will also be copied on this letter.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.1. Request for Delegation Status - Valerie Terejko - Bill 5 - Stopping Harassment and Abuse by Local Leaders Act, 2022
+
+> That the delegation request from Valerie Terejko BE APPROVED to be heard at this time.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.2. City of London Corporate Growth Projections 2021-2051
+
+> That the delegation requests BE APPROVED to be heard at this meeting.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.3. Application of Equity Lens for Citizen Appointment Process
+
+> That the following actions be taken with respect to the application of the Equity Tool, under the Anti-Racism and Anti-Oppression Framework, as it relates to appointments to Advisory Committee, Boards and Commissions: a)  the Civic Administration BE DIRECTED to take the necessary steps to ensure ...
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
 ---
 
 ## Full Transcript
@@ -1191,57 +1244,3 @@ We'll look for a motion to adjourn. Moved by Councillor Ferrer and seconded by C
 Thank you everyone. Thank you everyone.
 
 </details>
-
----
-
-## Votes
-
-*5 substantive votes at this meeting (1 contested, 4 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That items 2.1 to 2.6 BE APPROVED.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (13-0)
-
-### 4.1. Request for Delegation Status - Valerie Terejko - Bill 5 - Stopping Harassment and Abuse by Local Leaders Act, 2022
-
-> That the Mayor BE DIRECTED to write to local MPPs, Premier Doug Ford and the Minister of Municipal Affairs and Housing, on behalf of the municipal council, in support of the proposed Bill 5; it being noted that the Association of Municipalities of Ontario will also be copied on this letter.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (13-0)
-
-### 4.1. Request for Delegation Status - Valerie Terejko - Bill 5 - Stopping Harassment and Abuse by Local Leaders Act, 2022
-
-> That the delegation request from Valerie Terejko BE APPROVED to be heard at this time.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (13-0)
-
-### 4.2. City of London Corporate Growth Projections 2021-2051
-
-> That the delegation requests BE APPROVED to be heard at this meeting.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (13-0)
-
-### 4.3. Application of Equity Lens for Citizen Appointment Process
-
-> That the following actions be taken with respect to the application of the Equity Tool, under the Anti-Racism and Anti-Oppression Framework, as it relates to appointments to Advisory Committee, Boards and Commissions: a)  the Civic Administration BE DIRECTED to take the necessary steps to ensure ...
-
-**✅ Motion Passed (14 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-</details>
-

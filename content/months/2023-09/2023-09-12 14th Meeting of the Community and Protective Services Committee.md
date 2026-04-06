@@ -367,6 +367,93 @@ Motion to move in camera for advice that is subject to solicitor-client privileg
 
 
 The meeting adjourned at 6:56 PM.
+
+---
+
+## Votes
+
+*7 substantive votes at this meeting (3 contested, 4 unanimous). Procedural motions excluded.*
+
+### 3.1. Business Licensing By-law Amendment to Schedule 2 Adult Entertainment Body-Rub Parlour - 609 Clarke Road
+
+> That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the revised attached proposed by-law BE INTRODUCED at the Municipal Council meeting to be held on September 26, 2023, to amend By-law No. L.-131-16, being “A by-law to provide for the Licensing and Regulati...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.2. Vehicle for Hire By-law - Amendments/Information Report
+
+> That the following actions be taken with respect to the staff report, dated September 12, 2023, related to the Vehicle for Hire By-law: a)    the proposed by-law, as appended to the above-noted staff report, BE INTRODUCED at the Municipal Council meeting to be held on September 26, 2023, to amend...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.2. Vehicle for Hire By-law - Amendments/Information Report
+
+> Motion to refer the staff report, dated September 12, 2023, with respect to the Vehicle for Hire By-law, back to the Civic Administration.
+
+**❌ Motion Failed (0 to 5)**
+
+<details>
+<summary>View roll call</summary>
+
+**Nay (5):** [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 4.1. Community and Neighbourhood Safety and Security Concerns Options for Agencies, Staff, Volunteers and those Accessing Services
+
+> Motion to approve part c) of the clause.
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (1):** [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 4.1. Community and Neighbourhood Safety and Security Concerns Options for Agencies, Staff, Volunteers and those Accessing Services
+
+> Motion to approve parts a) b) d) and e) of the clause.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 5.1. (ADDED) Request for Funding for Soil Remediation - Vision SoHo (West Block)
+
+> That the following actions be taken with respect to the request from members of the Vision SOHO Alliance for funding for soil remediation; it being noted that a conditional grant of $13,876,000 was approved by Council on August 3, 2022 for the Vision SOHO Alliance to provide up to 400 affordable ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 5.1. (ADDED) Request for Funding for Soil Remediation - Vision SoHo (West Block)
+
+> Motion to move in camera for advice that is subject to solicitor-client privilege, including communications necessary for that purpose, related to this matter.
+
+**❌ Motion Failed (2 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Jerry Pribil](/councillors/current/j-pribil), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (3):** [Susan Stevenson](/councillors/current/s-stevenson), [Corrine Rahman](/councillors/current/c-rahman), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
 ---
 
 ## Full Transcript
@@ -1077,91 +1164,3 @@ Looking for a motion to adjourn. Moved by Councillor Raman, seconded by Councill
 Have a wonderful evening.
 
 </details>
-
----
-
-## Votes
-
-*7 substantive votes at this meeting (3 contested, 4 unanimous). Procedural motions excluded.*
-
-### 3.1. Business Licensing By-law Amendment to Schedule 2 Adult Entertainment Body-Rub Parlour - 609 Clarke Road
-
-> That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the revised attached proposed by-law BE INTRODUCED at the Municipal Council meeting to be held on September 26, 2023, to amend By-law No. L.-131-16, being “A by-law to provide for the Licensing and Regulati...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.2. Vehicle for Hire By-law - Amendments/Information Report
-
-> That the following actions be taken with respect to the staff report, dated September 12, 2023, related to the Vehicle for Hire By-law: a)    the proposed by-law, as appended to the above-noted staff report, BE INTRODUCED at the Municipal Council meeting to be held on September 26, 2023, to amend...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.2. Vehicle for Hire By-law - Amendments/Information Report
-
-> Motion to refer the staff report, dated September 12, 2023, with respect to the Vehicle for Hire By-law, back to the Civic Administration.
-
-**❌ Motion Failed (0 to 5)**
-
-<details>
-<summary>View roll call</summary>
-
-**Nay (5):** [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
-
-</details>
-
-### 4.1. Community and Neighbourhood Safety and Security Concerns Options for Agencies, Staff, Volunteers and those Accessing Services
-
-> Motion to approve part c) of the clause.
-
-**✅ Motion Passed (4 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Nay (1):** [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
-
-</details>
-
-### 4.1. Community and Neighbourhood Safety and Security Concerns Options for Agencies, Staff, Volunteers and those Accessing Services
-
-> Motion to approve parts a) b) d) and e) of the clause.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 5.1. (ADDED) Request for Funding for Soil Remediation - Vision SoHo (West Block)
-
-> That the following actions be taken with respect to the request from members of the Vision SOHO Alliance for funding for soil remediation; it being noted that a conditional grant of $13,876,000 was approved by Council on August 3, 2022 for the Vision SOHO Alliance to provide up to 400 affordable ...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 5.1. (ADDED) Request for Funding for Soil Remediation - Vision SoHo (West Block)
-
-> Motion to move in camera for advice that is subject to solicitor-client privilege, including communications necessary for that purpose, related to this matter.
-
-**❌ Motion Failed (2 to 3) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Jerry Pribil](/councillors/current/j-pribil), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (3):** [Susan Stevenson](/councillors/current/s-stevenson), [Corrine Rahman](/councillors/current/c-rahman), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
-
-</details>
-

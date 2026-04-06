@@ -1020,6 +1020,105 @@ Motion to change the order of business to hear the delegation by S. Levin, Chair
 
 
 The meeting adjourned at 7:56 PM.
+
+---
+
+## Votes
+
+*11 substantive votes at this meeting (1 contested, 10 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.13 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.1. 3103 Petty Road and 3047 White Oak Road (Z-9383)
+
+> That, on the recommendation of the Director, Planning and Development, based on the application by 2831570 Ontario Inc., relating to the property located at 3047 White Oak Road, the proposed by-law appended to the staff report dated November 22, 2021 as Appendix "A" BE INTRODUCED at the Municipal...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.2. City Wide - Encouraging the Growing of Food in Urban Areas (OZ-9332)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the Official Plan and Zoning By-law relating to policies and regulations for the growing of food in urban areas: a)    the proposed by-law appended to the staff report dated Novem...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.3. 99 Southdale Road West (Z-9162)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Southdale West Holdings Inc., relating to the property located at 99 Southdale Road West: a)    the proposed by-law appended to the staff report dated November ...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.4. 370 South Street and 124 Colborne Street (OZ-9418)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Vision SoHo Alliance, relating to the properties located at 370 South Street and 124 Colborne Street: a)    the proposed by-law appended to the staff report dat...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.5. 370 South Street and 124 Colborne Street (SPA21-081)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Vision SoHo Alliance, relating to the property located at 370 South Street and 124 Colborne Street: a)    the Approval Authority BE ADVISED that no issues were ...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.6. 3095 & 3105 Bostwick Road (39T-21502 & Z-9322)
+
+> That, on the recommendation of the Deputy City Manager, Planning and Economic Development, based on the application by Southside Construction Management Ltd., relating to the property located at 3095 and 3105 Bostwick Road: a)    the proposed by-law appended to the staff report dated November 22,...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.7. 1453-1459 Oxford Street East and 648-656 Ayreswood Avenue
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Red Maple Properties, relating to the property located at 1453-1459 Oxford Street East and 648-656 Ayreswood Avenue: a)    the request to amend The London Plan ...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.7. 1453-1459 Oxford Street East and 648-656 Ayreswood Avenue
+
+> That the application by Red Maple Properties, relating to the properties located at 1453 to 1459 Oxford Street East and 648 to 656 Ayerswood Avenue BE REFERRED to the Civic Administration to undertake the following actions and to report back to a future meeting of the Planning and Environment Com...
+
+**❌ Motion Failed (2 to 4) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Nay (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.1. 11th Report of the London Advisory Committee on Heritage
+
+> That, the following actions be taken with respect to the 11th Report of the London Advisory Committee on Heritage, from its meeting held on November 10, 2021: a)    the London Advisory Committee on Heritage (LACH) 2022 membership with the Community Heritage Ontario BE APPROVED; it being noted tha...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 5.1. (ADDED) 8th Report of the Environmental and Ecological Planning Advisory Committee
+
+> Motion to change the order of business to hear the delegation by S. Levin, Chair, Environmental and Ecological Planning Advisory Committee.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
 ---
 
 ## Full Transcript
@@ -1918,103 +2017,3 @@ And with that, do we do a hand vote? Or we can do a hand vote? I want to thank t
 And I will call the vote. Closing the vote, the motion carries six to zero.
 
 </details>
-
----
-
-## Votes
-
-*11 substantive votes at this meeting (1 contested, 10 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 to 2.13 BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.1. 3103 Petty Road and 3047 White Oak Road (Z-9383)
-
-> That, on the recommendation of the Director, Planning and Development, based on the application by 2831570 Ontario Inc., relating to the property located at 3047 White Oak Road, the proposed by-law appended to the staff report dated November 22, 2021 as Appendix "A" BE INTRODUCED at the Municipal...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.2. City Wide - Encouraging the Growing of Food in Urban Areas (OZ-9332)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the Official Plan and Zoning By-law relating to policies and regulations for the growing of food in urban areas: a)    the proposed by-law appended to the staff report dated Novem...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 3.3. 99 Southdale Road West (Z-9162)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Southdale West Holdings Inc., relating to the property located at 99 Southdale Road West: a)    the proposed by-law appended to the staff report dated November ...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 3.4. 370 South Street and 124 Colborne Street (OZ-9418)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Vision SoHo Alliance, relating to the properties located at 370 South Street and 124 Colborne Street: a)    the proposed by-law appended to the staff report dat...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 3.5. 370 South Street and 124 Colborne Street (SPA21-081)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Vision SoHo Alliance, relating to the property located at 370 South Street and 124 Colborne Street: a)    the Approval Authority BE ADVISED that no issues were ...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 3.6. 3095 & 3105 Bostwick Road (39T-21502 & Z-9322)
-
-> That, on the recommendation of the Deputy City Manager, Planning and Economic Development, based on the application by Southside Construction Management Ltd., relating to the property located at 3095 and 3105 Bostwick Road: a)    the proposed by-law appended to the staff report dated November 22,...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 3.7. 1453-1459 Oxford Street East and 648-656 Ayreswood Avenue
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Red Maple Properties, relating to the property located at 1453-1459 Oxford Street East and 648-656 Ayreswood Avenue: a)    the request to amend The London Plan ...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 3.7. 1453-1459 Oxford Street East and 648-656 Ayreswood Avenue
-
-> That the application by Red Maple Properties, relating to the properties located at 1453 to 1459 Oxford Street East and 648 to 656 Ayerswood Avenue BE REFERRED to the Civic Administration to undertake the following actions and to report back to a future meeting of the Planning and Environment Com...
-
-**❌ Motion Failed (2 to 4) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Nay (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 4.1. 11th Report of the London Advisory Committee on Heritage
-
-> That, the following actions be taken with respect to the 11th Report of the London Advisory Committee on Heritage, from its meeting held on November 10, 2021: a)    the London Advisory Committee on Heritage (LACH) 2022 membership with the Community Heritage Ontario BE APPROVED; it being noted tha...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 5.1. (ADDED) 8th Report of the Environmental and Ecological Planning Advisory Committee
-
-> Motion to change the order of business to hear the delegation by S. Levin, Chair, Environmental and Ecological Planning Advisory Committee.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-

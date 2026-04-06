@@ -1700,6 +1700,91 @@ The meeting adjourned at 2:59 PM.
 > **Bill No. 353**
 > 
 > By-law No. A.-8544-251 - A by-law to authorize and approve a Settlement Agreement between The Corporation of the City of London and 829872 Ontario Limited, for the property rights expropriated from the property at 670 First Street, in the City of London, for the East London Link Project, and to authorize the Mayor and the City Clerk to execute the Agreement. (6.1/15/CSC)
+
+---
+
+## Votes
+
+*9 substantive votes at this meeting (1 contested, 8 unanimous). Procedural motions excluded.*
+
+### 8.1. 12th Report of the Community and Protective Services Committee
+
+> That the 12th Report of the Community and Protective Services Committee BE APPROVED, with the exception of item 6 (5.1).
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.1.6. (5.1) Award of RFP-2024-233 - Municipal Land for Affordable Housing Development at 1958 Duluth Crescent, Block 5
+
+> That the motion BE AMENDED in part e) to remove “from the Housing Development Corporation, London”.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.1.6. (5.1) Award of RFP-2024-233 - Municipal Land for Affordable Housing Development at 1958 Duluth Crescent, Block 5
+
+> That item 6, clause 5.1, as amended, BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.2. 13th Report of the Civic Works Committee
+
+> That the 13th Report of the Civic Works Committee BE APPROVED, with the exception of item 10 (3.2).
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.2.10. (3.2) Memorandum of Understanding with the London Chamber of Commerce for Action on Climate Change (Relates to Bill No. 341)
+
+> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the proposed by-law, as appended to the staff report dated October 2, 2024, BE INTRODUCED at the Municipal Council meeting to be held on October 15, 2024 to: a)    authorize and approve a Memorandum of Underst...
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
+
+### 8.3. 15th Report of the Strategic Priorities and Policy Committee
+
+> That the 15th Report of the Strategic Priorities and Policy Committee BE APPROVED, with the exception of item 4 (3.1).
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.4. 15th Report of the Planning and Environment Committee
+
+> That the 15th Report of the Planning and Environment Committee BE APPROVED, with the exception of item 5 (3.1).
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.5. 15th Report of the Corporate Services Committee
+
+> That the 15th Report of the Corporate Services Committee BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.6. 3rd Report of the Audit Committee
+
+> That the 3rd Report of the Audit Committee BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
 ---
 
 ## Full Transcript
@@ -2078,89 +2163,3 @@ Okay, and that only leaves us with motion to adjourn. I have Councilor Ferrer wi
 Any opposed? Got motion to turn. Okay, thank you, we're adjourned.
 
 </details>
-
----
-
-## Votes
-
-*9 substantive votes at this meeting (1 contested, 8 unanimous). Procedural motions excluded.*
-
-### 8.1. 12th Report of the Community and Protective Services Committee
-
-> That the 12th Report of the Community and Protective Services Committee BE APPROVED, with the exception of item 6 (5.1).
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.1.6. (5.1) Award of RFP-2024-233 - Municipal Land for Affordable Housing Development at 1958 Duluth Crescent, Block 5
-
-> That the motion BE AMENDED in part e) to remove “from the Housing Development Corporation, London”.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.1.6. (5.1) Award of RFP-2024-233 - Municipal Land for Affordable Housing Development at 1958 Duluth Crescent, Block 5
-
-> That item 6, clause 5.1, as amended, BE APPROVED.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.2. 13th Report of the Civic Works Committee
-
-> That the 13th Report of the Civic Works Committee BE APPROVED, with the exception of item 10 (3.2).
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.2.10. (3.2) Memorandum of Understanding with the London Chamber of Commerce for Action on Climate Change (Relates to Bill No. 341)
-
-> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the proposed by-law, as appended to the staff report dated October 2, 2024, BE INTRODUCED at the Municipal Council meeting to be held on October 15, 2024 to: a)    authorize and approve a Memorandum of Underst...
-
-**✅ Motion Passed (14 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
-
-</details>
-
-### 8.3. 15th Report of the Strategic Priorities and Policy Committee
-
-> That the 15th Report of the Strategic Priorities and Policy Committee BE APPROVED, with the exception of item 4 (3.1).
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.4. 15th Report of the Planning and Environment Committee
-
-> That the 15th Report of the Planning and Environment Committee BE APPROVED, with the exception of item 5 (3.1).
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.5. 15th Report of the Corporate Services Committee
-
-> That the 15th Report of the Corporate Services Committee BE APPROVED.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.6. 3rd Report of the Audit Committee
-
-> That the 3rd Report of the Audit Committee BE APPROVED.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-

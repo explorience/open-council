@@ -353,6 +353,58 @@ The Community and Protective Services Committee convened, In Closed Session, fro
 
 
 The meeting adjourned at 6:46 PM.
+
+---
+
+## Votes
+
+*4 substantive votes at this meeting (2 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.9 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.1. Exotic Animal Establishments
+
+> Motion to approve a proposed amendment to By-law PH-3, part a) to read, “a)  up to 35,000 square feet indoors of the property located at 785 Wonderland Road South.
+
+**✅ Motion Passed (3 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 4.1. Exotic Animal Establishments
+
+> Motion to approve a proposed amendment to By-law L.-131-16, under “Regulations” to add, “or the Zoological Association of America.”
+
+**✅ Motion Passed (3 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 4.1. Exotic Animal Establishments
+
+> Motion to hear the delegation from W. Brown, Chair, Animal Welfare Community Advisory Committee, to be heard at this meeting.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
 ---
 
 ## Full Transcript
@@ -773,56 +825,3 @@ We flex that during the winter months, we have resting spaces, but we do not cur
 Seeing none, we've already dealt with confidential section 6.1 that moves us to seven for adjournments, I need a mover. Councillor ramen, seconder, Councillor Prabble, a hand vote of all those in favor of adjourning for the today, the clerk advised me it's carried. Thank you and have a lovely evening.
 
 </details>
-
----
-
-## Votes
-
-*4 substantive votes at this meeting (2 contested, 2 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 to 2.9 BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 4.1. Exotic Animal Establishments
-
-> Motion to approve a proposed amendment to By-law PH-3, part a) to read, “a)  up to 35,000 square feet indoors of the property located at 785 Wonderland Road South.
-
-**✅ Motion Passed (3 to 2) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (1):** [Susan Stevenson](/councillors/current/s-stevenson)
-
-**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
-
-</details>
-
-### 4.1. Exotic Animal Establishments
-
-> Motion to approve a proposed amendment to By-law L.-131-16, under “Regulations” to add, “or the Zoological Association of America.”
-
-**✅ Motion Passed (3 to 2) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (1):** [Susan Stevenson](/councillors/current/s-stevenson)
-
-**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
-
-</details>
-
-### 4.1. Exotic Animal Establishments
-
-> Motion to hear the delegation from W. Brown, Chair, Animal Welfare Community Advisory Committee, to be heard at this meeting.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-

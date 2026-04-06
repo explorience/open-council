@@ -762,6 +762,68 @@ That the Building Division Monthly Report for July, 2021 BE RECEIVED for informa
 
 
 The meeting adjourned at 7:24 PM.
+
+---
+
+## Votes
+
+*7 substantive votes at this meeting (0 contested, 7 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.2, 2.3, 2.4 and 2.7 BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 3.1. 415 Oxford Street West (O-9335)
+
+> That, on the recommendation of the Director, Planning and Development, with respect to the application by Edmar Land Ltd., relating to the property located at 415 Oxford Street West, the proposed by-law appended to the staff report dated October 18, 2021 as Appendix "A" BE INTRODUCED at the Munic...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.2. 1 Commissioners Road East (O-9339/Z-9340)
+
+> That, on the recommendation of the Director, Planning & Development, the following actions be taken with respect to the application of One Commissioners Road Inc., relating to the property located at 1 Commissioners Road East: a)    the  proposed by-law appended to the staff report dated October ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.3. 14 Gideon Drive and 2012 Oxford Street West (39T-21501/OZ-9295)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by 2515060 & 2539427 Ontario Inc., relating to the property located at 14 Gideon Drive and 2012 Oxford Street West: a)    the proposed by-law appended to the staff...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.4. 584 Commissioners Road West (Z-9357)
+
+> That, on the recommendation of the Director, Planning and Development, with respect to the application by Foxwood Developments (London) Inc., relating to the property located at 584 Commissioners Road West, the proposed by-law appended to the staff report dated October 18, 2021 as Appendix "A" BE...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (2-0)
+
+### 3.5. Masonville (Final) Secondary Plan (O-8991)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the draft Masonville Secondary Plan: a)    the proposed by-law appended to the staff report dated October 18, 2021 as Appendix “A” BE INTRODUCED at the Municipal Council meeting t...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.1. 250-272 Springbank Drive (Application for Brownfield CIP Incentives)
+
+> That, on the recommendation of the Director, Economic Services and Supports, the following actions be taken with respect to the application by 2355440 Ontario Inc., relating to the property located at 250-272 Springbank Drive: a)    a total expenditure of up to a maximum of $2,895,020 in municipa...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
 ---
 
 ## Full Transcript
@@ -1718,66 +1780,3 @@ Thank you, Madam Chair. And Councillor Hill here, seconding. I guess can we rais
 Have a nice evening.
 
 </details>
-
----
-
-## Votes
-
-*7 substantive votes at this meeting (0 contested, 7 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1, 2.2, 2.3, 2.4 and 2.7 BE APPROVED.
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (2-0)
-
-### 3.1. 415 Oxford Street West (O-9335)
-
-> That, on the recommendation of the Director, Planning and Development, with respect to the application by Edmar Land Ltd., relating to the property located at 415 Oxford Street West, the proposed by-law appended to the staff report dated October 18, 2021 as Appendix "A" BE INTRODUCED at the Munic...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.2. 1 Commissioners Road East (O-9339/Z-9340)
-
-> That, on the recommendation of the Director, Planning & Development, the following actions be taken with respect to the application of One Commissioners Road Inc., relating to the property located at 1 Commissioners Road East: a)    the  proposed by-law appended to the staff report dated October ...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.3. 14 Gideon Drive and 2012 Oxford Street West (39T-21501/OZ-9295)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by 2515060 & 2539427 Ontario Inc., relating to the property located at 14 Gideon Drive and 2012 Oxford Street West: a)    the proposed by-law appended to the staff...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.4. 584 Commissioners Road West (Z-9357)
-
-> That, on the recommendation of the Director, Planning and Development, with respect to the application by Foxwood Developments (London) Inc., relating to the property located at 584 Commissioners Road West, the proposed by-law appended to the staff report dated October 18, 2021 as Appendix "A" BE...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (2-0)
-
-### 3.5. Masonville (Final) Secondary Plan (O-8991)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the draft Masonville Secondary Plan: a)    the proposed by-law appended to the staff report dated October 18, 2021 as Appendix “A” BE INTRODUCED at the Municipal Council meeting t...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 4.1. 250-272 Springbank Drive (Application for Brownfield CIP Incentives)
-
-> That, on the recommendation of the Director, Economic Services and Supports, the following actions be taken with respect to the application by 2355440 Ontario Inc., relating to the property located at 250-272 Springbank Drive: a)    a total expenditure of up to a maximum of $2,895,020 in municipa...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-

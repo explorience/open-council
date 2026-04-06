@@ -403,6 +403,69 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 3:24 PM.
 
 ****
+
+---
+
+## Votes
+
+*4 substantive votes at this meeting (3 contested, 1 unanimous). Procedural motions excluded.*
+
+### 4.1. Downtown Plan - Phase l Background Study
+
+> That the delegation requests from G. Henderson, CEO, London Chamber of Commerce and V. Smith, Interim Executive Director, London Downtown Business Association, BE APPROVED to be heard at this time.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 4.2. Consideration of Appointments to Western University Board of Governors
+
+> That Lori Higgs and Marlene McGrath BE APPOINTED to Western University’s Board of Governors for the term July 1, 2026 to June 30, 2030; it being noted that the Strategic Priorities and Policy Committee received a communication dated November 7, 2025 from A. Bryson, University Secretary, Western w...
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+</details>
+
+### 4.4. Request for Support for Elect Respect Campaign and the Association of Municipalities of Ontario's Healthy Democracy Project - Councillor A. Hopkins and Mayor J. Morgan
+
+> That the following actions BE ADOPTED with respect to the communication dated November 4, 2025 from Councillor A. Hopkins and Mayor J. Morgan regarding support for the Elected Respect Campaign and the Association of Municipalities of Ontario's Healthy Democracy Project: WHEREAS democracy is healt...
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+**Absent (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 4.5. Request for Support for Membership in the Great Lakes and St. Lawrence Cities Initiative - Mayor J. Morgan
+
+> That Mayor J. Morgan BE ENDORSED to seek membership on the Great Lakes and St. Lawrence Cities Initiative (GLSCLCI); it being noted that the Strategic Priorities and Policy Committee received a communication dated November 3, 2025 from Mayor J. Morgan with respect to this matter.
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+**Absent (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
 ---
 
 ## Full Transcript
@@ -867,67 +930,3 @@ Okay for any other speakers seeing none I will ask the clerk to open the vote vo
 I sort of hear but I just wanted to say there's a couple significant birthdays in the room and I just wanted to request maybe a happy birthday for Mr. Parity and a belated birthday from this standard date over there. They both asked they both asked for a short budget meeting tonight.
 
 </details>
-
----
-
-## Votes
-
-*4 substantive votes at this meeting (3 contested, 1 unanimous). Procedural motions excluded.*
-
-### 4.1. Downtown Plan - Phase l Background Study
-
-> That the delegation requests from G. Henderson, CEO, London Chamber of Commerce and V. Smith, Interim Executive Director, London Downtown Business Association, BE APPROVED to be heard at this time.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 4.2. Consideration of Appointments to Western University Board of Governors
-
-> That Lori Higgs and Marlene McGrath BE APPOINTED to Western University’s Board of Governors for the term July 1, 2026 to June 30, 2030; it being noted that the Strategic Priorities and Policy Committee received a communication dated November 7, 2025 from A. Bryson, University Secretary, Western w...
-
-**✅ Motion Passed (14 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
-
-</details>
-
-### 4.4. Request for Support for Elect Respect Campaign and the Association of Municipalities of Ontario's Healthy Democracy Project - Councillor A. Hopkins and Mayor J. Morgan
-
-> That the following actions BE ADOPTED with respect to the communication dated November 4, 2025 from Councillor A. Hopkins and Mayor J. Morgan regarding support for the Elected Respect Campaign and the Association of Municipalities of Ontario's Healthy Democracy Project: WHEREAS democracy is healt...
-
-**✅ Motion Passed (13 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Shawn Lewis](/councillors/current/s-lewis)
-
-**Absent (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
-
-</details>
-
-### 4.5. Request for Support for Membership in the Great Lakes and St. Lawrence Cities Initiative - Mayor J. Morgan
-
-> That Mayor J. Morgan BE ENDORSED to seek membership on the Great Lakes and St. Lawrence Cities Initiative (GLSCLCI); it being noted that the Strategic Priorities and Policy Committee received a communication dated November 3, 2025 from Mayor J. Morgan with respect to this matter.
-
-**✅ Motion Passed (13 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
-
-**Absent (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
-
-</details>
-

@@ -511,6 +511,75 @@ None.
 
 
 The meeting adjourned at 5:12 PM.
+
+---
+
+## Votes
+
+*7 substantive votes at this meeting (1 contested, 6 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.3 and 2.4 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.2. Recovery Grant Program
+
+> That, on the recommendation of the Director, Planning and City Planner, the following actions be taken with respect to the Recovery Grant Program: a) the attached, revised, proposed by-law (Appendix “A”) being “A by-law to amend C.P.-1467-175, as amended, being “A by-law to establish financial in...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.2. Recovery Grant Program
+
+> Motion to add a new part h), which reads as follows: "the Civic Administration BE REQUESTED to accept retroactive applications commencing May 4, 2021 if immediate repairs to damage by vandalism are necessary for securing the premises; it being noted that noted that the revised by-laws noted in a)...
+
+**✅ Motion Passed (5 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+
+### 3.3. Kilally South, East Basin Environmentally Significant Area - 1918 to 2304 and 2005 to 2331 Kilally Road (OZ-9275)
+
+> That, on the recommendation of the Director, City Planning and City Planner, the following actions be taken with respect to the application of the City of London relating to the Kilally South, East Basin Environmentally Significant Area (1918 to 2304 and 2005 to 2331 Kilally Road, excluding 2065 ...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. 2nd Report of the Trees and Forests Advisory Committee
+
+> That, the following actions be taken with respect to the 2nd Report of the Trees and Forests Advisory Committee from its meeting held on March 24, 2021:    a) the following actions be taken with respect to the Notice of Planning Application, dated February 10, 2021, from S. Meksula, Senior Planne...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.2. 3rd Report of the Advisory Committee on the Environment
+
+> That, the following actions be taken with respect to the 3rd Report of the Advisory Committee on the Environment from its meeting held on April 7, 2021: a)  the following actions be taken with respect to the National Earth Day Event and the 2040 Film: i) Asha Hodura, London Chapter of the Interna...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.3. (ADDED)  4th Report of the London Advisory Committee on Heritage
+
+> That, the following actions be taken with respect to the 4th Report of the London Advisory Committee on Heritage from its meeting held on April 14, 2021: a)  a Working Group BE CREATED to review the Notice of Planning Application, dated March 10, 2021, from M. Corby, Senior Planner, with respect ...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
 ---
 
 ## Full Transcript
@@ -867,73 +936,3 @@ And it's really quite an exciting awards opportunity for us to acknowledge the g
 Not aware of any other matters unless anyone has something then I'll just need someone to move and second adjournment moved by Councillor Lewis, seconded by Councillor Hillyer and we can just do a hand vote please. Thank you very much everyone and have a wonderful evening. Thank you. Thanks, good night.
 
 </details>
-
----
-
-## Votes
-
-*7 substantive votes at this meeting (1 contested, 6 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1, 2.3 and 2.4 BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 2.2. Recovery Grant Program
-
-> That, on the recommendation of the Director, Planning and City Planner, the following actions be taken with respect to the Recovery Grant Program: a) the attached, revised, proposed by-law (Appendix “A”) being “A by-law to amend C.P.-1467-175, as amended, being “A by-law to establish financial in...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 2.2. Recovery Grant Program
-
-> Motion to add a new part h), which reads as follows: "the Civic Administration BE REQUESTED to accept retroactive applications commencing May 4, 2021 if immediate repairs to damage by vandalism are necessary for securing the premises; it being noted that noted that the revised by-laws noted in a)...
-
-**✅ Motion Passed (5 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
-
-</details>
-
-### 3.3. Kilally South, East Basin Environmentally Significant Area - 1918 to 2304 and 2005 to 2331 Kilally Road (OZ-9275)
-
-> That, on the recommendation of the Director, City Planning and City Planner, the following actions be taken with respect to the application of the City of London relating to the Kilally South, East Basin Environmentally Significant Area (1918 to 2304 and 2005 to 2331 Kilally Road, excluding 2065 ...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 4.1. 2nd Report of the Trees and Forests Advisory Committee
-
-> That, the following actions be taken with respect to the 2nd Report of the Trees and Forests Advisory Committee from its meeting held on March 24, 2021:    a) the following actions be taken with respect to the Notice of Planning Application, dated February 10, 2021, from S. Meksula, Senior Planne...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 4.2. 3rd Report of the Advisory Committee on the Environment
-
-> That, the following actions be taken with respect to the 3rd Report of the Advisory Committee on the Environment from its meeting held on April 7, 2021: a)  the following actions be taken with respect to the National Earth Day Event and the 2040 Film: i) Asha Hodura, London Chapter of the Interna...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 4.3. (ADDED)  4th Report of the London Advisory Committee on Heritage
-
-> That, the following actions be taken with respect to the 4th Report of the London Advisory Committee on Heritage from its meeting held on April 14, 2021: a)  a Working Group BE CREATED to review the Notice of Planning Application, dated March 10, 2021, from M. Corby, Senior Planner, with respect ...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-

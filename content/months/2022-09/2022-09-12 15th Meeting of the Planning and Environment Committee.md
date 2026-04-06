@@ -217,6 +217,36 @@ That the Deputy City Manager, Planning and Economic Development BE DIRECTED to u
 
 
 The meeting adjourned at 4:38 PM.
+
+---
+
+## Votes
+
+*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
+
+### 3.1. 4680 Wellington Road South (TZ-9509)
+
+> That, on the recommendation of the Director, Planning and Development, based on the application by 761030 Ontario Limited, relating to the property located at 4680 Wellington Road South, the proposed by-law appended to the staff report dated September 12, 2022 as Appendix 'A' BE INTRODUCED at the...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.2. Public Participation Meeting - Not to be Heard before 4:00 PM - 1407-1427 Hyde Park Road (OZ-9438)
+
+> That the application by York Developments, relating to the properties located at 1407-1427 Hyde Park Road BE REFERRED back to the Civic Administration for further discussions with the applicant to address the outstanding concerns and to report back at a future meeting of the Planning and Environm...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 5.1. Deferred Matters List
+
+> That the Deputy City Manager, Planning and Economic Development BE DIRECTED to update the Deferred Matters List to remove any items that have been addressed by the Civic Administration.   (2022-D19)
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
 ---
 
 ## Full Transcript
@@ -393,34 +423,3 @@ Opposing the vote, the motion carries five to zero. Being two members to adjourn
 Hand vote. The motion carries. Thanks, everyone. Yeah, compared to last time, that's for sure.
 
 </details>
-
----
-
-## Votes
-
-*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
-
-### 3.1. 4680 Wellington Road South (TZ-9509)
-
-> That, on the recommendation of the Director, Planning and Development, based on the application by 761030 Ontario Limited, relating to the property located at 4680 Wellington Road South, the proposed by-law appended to the staff report dated September 12, 2022 as Appendix 'A' BE INTRODUCED at the...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.2. Public Participation Meeting - Not to be Heard before 4:00 PM - 1407-1427 Hyde Park Road (OZ-9438)
-
-> That the application by York Developments, relating to the properties located at 1407-1427 Hyde Park Road BE REFERRED back to the Civic Administration for further discussions with the applicant to address the outstanding concerns and to report back at a future meeting of the Planning and Environm...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 5.1. Deferred Matters List
-
-> That the Deputy City Manager, Planning and Economic Development BE DIRECTED to update the Deferred Matters List to remove any items that have been addressed by the Civic Administration.   (2022-D19)
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-

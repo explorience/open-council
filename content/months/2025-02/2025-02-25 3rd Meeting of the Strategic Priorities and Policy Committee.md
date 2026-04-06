@@ -391,6 +391,79 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 3:54 PM.
 
 ****
+
+---
+
+## Votes
+
+*6 substantive votes at this meeting (3 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Consent Item 2.2 BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 2.3. Eldon House Board of Directors – By-law Update
+
+> That the following actions be taken with respect to Eldon House Corporation By-law Update: a)    the proposed by-law appended as Appendix ‘B’ to the staff report dated February 25, 2025, being A by-law to amend By-law A.-6825-162, as amended, respecting the Eldon House operation and management BE...
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+**Absent (1):** [Jerry Pribil](/councillors/current/j-pribil)
+
+</details>
+
+### 4.1. Consideration of Appointment to the Eldon House Board of Directors (Requires 1 Member)
+
+> That Robert Fraser BE APPOINTED to the Eldon House Board of Directors for the term ending November 14, 2026.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 4.1. Consideration of Appointment to the Eldon House Board of Directors (Requires 1 Member)
+
+> Appointment to the Eldon House Board of Directors (Requires 1 Member)
+
+**❌ Majority Winner: Robert Fraser 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (30):** [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.2. London Public Library Board of Directors Vacancy
+
+> Appointment to the London Public Library Board of Directors (Requires 1 Member of Council)
+
+**❌ Majority Winner: Josh Morgan 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (15):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.3. Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)
+
+> That the consideration of Appointments to the Accessibility Community Advisory Committee, Community Advisory Committee on Planning, Environmental Stewardship and Action Community Advisory Committee BE REFERRED to a future meeting of Strategic Priorities and Policy Committee to allow for Civic Adm...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
 ---
 
 ## Full Transcript
@@ -719,77 +792,3 @@ A few colleagues, that brings us to the end of our deferred matters, that leaves
 Thank you and pleased to report that progress was made on the matters of which we win camera. And with that colleagues, we are at the end of our agenda, so I will look for a mover and a seconder for adjournment, Councillor Stevenson and Ferreira, and by hand, all those in favor. Motion carries. Thank you everyone.
 
 </details>
-
----
-
-## Votes
-
-*6 substantive votes at this meeting (3 contested, 3 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Consent Item 2.2 BE APPROVED.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 2.3. Eldon House Board of Directors – By-law Update
-
-> That the following actions be taken with respect to Eldon House Corporation By-law Update: a)    the proposed by-law appended as Appendix ‘B’ to the staff report dated February 25, 2025, being A by-law to amend By-law A.-6825-162, as amended, respecting the Eldon House operation and management BE...
-
-**✅ Motion Passed (13 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
-
-**Absent (1):** [Jerry Pribil](/councillors/current/j-pribil)
-
-</details>
-
-### 4.1. Consideration of Appointment to the Eldon House Board of Directors (Requires 1 Member)
-
-> That Robert Fraser BE APPOINTED to the Eldon House Board of Directors for the term ending November 14, 2026.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 4.1. Consideration of Appointment to the Eldon House Board of Directors (Requires 1 Member)
-
-> Appointment to the Eldon House Board of Directors (Requires 1 Member)
-
-**❌ Majority Winner: Robert Fraser 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Absent (30):** [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 4.2. London Public Library Board of Directors Vacancy
-
-> Appointment to the London Public Library Board of Directors (Requires 1 Member of Council)
-
-**❌ Majority Winner: Josh Morgan 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Absent (15):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 4.3. Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)
-
-> That the consideration of Appointments to the Accessibility Community Advisory Committee, Community Advisory Committee on Planning, Environmental Stewardship and Action Community Advisory Committee BE REFERRED to a future meeting of Strategic Priorities and Policy Committee to allow for Civic Adm...
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-

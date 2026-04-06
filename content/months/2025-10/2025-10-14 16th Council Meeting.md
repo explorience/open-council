@@ -2569,6 +2569,343 @@ The meeting adjourned at 5:47 PM.
 > **Bill No. 380**
 > 
 > By-law No. A.-8649-284 - A by-law to approve the limited tendering procurement process for the renewal of banking services with the Bank of Nova Scotia and delegate authority to approve and execute the renewal agreement. (6.1/15/ICSC)
+
+---
+
+## Votes
+
+*29 substantive votes at this meeting (13 contested, 16 unanimous). Procedural motions excluded.*
+
+### 7.1. Mayor J. Morgan, Deputy Mayor S. Lewis, Councillors A. Hopkins and S. Franke - Automated Speed Enforcement (ASE)
+
+> That pursuant to section 11.3 of the Council Procedure By-law, leave BE GRANTED to permit Mayor J. Morgan, Deputy Mayor S. Lewis, Councillors A. Hopkins and S. Franke to move a motion related to item 7.1 on the Council Agenda related to Automated Speed Enforcement (ASE).
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 7.1. Mayor J. Morgan, Deputy Mayor S. Lewis, Councillors A. Hopkins and S. Franke - Automated Speed Enforcement (ASE)
+
+> That, the following resolution BE ADOPTED and BE FORWARDED to the Premier of Ontario, the Minister of Municipal Affairs and Housing, the Minister of Transportation, and the Association of Municipalities of Ontario Policy Centre: WHEREAS reducing vehicle speeds helps create calmer, safer neighbour...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 7.2. Councillor S. Franke - Revisiting the Urban Growth Boundary Review Using Updated Population Projections
+
+> That pursuant to section 11.3 of the Council Procedure By-law, leave BE GRANTED to permit Councillor S. Franke to move a motion related to item 7.2 on the Council Agenda related to Revisiting the Urban Boundary Review Using Updated Population Projections.
+
+**❌ Motion Failed (7 to 8) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (8):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 8.1. 12th Report of the Strategic Priorities and Policy Committee
+
+> That the 12th Report of the Strategic Priorities and Policy Committee BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.2. 15th Report of the Infrastructure and Corporate Services Committee
+
+> That the 15th Report of the Infrastructure and Corporate Services Committee BE APPROVED, with the exception of items 4 (2.3) and 8 (2.5).
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.2.8. (2.5) City/County Cost Apportionment & Agency Agreements for Land Ambulance, Ontario Works, Housing, Child Care and Homelessness Prevention Programs (Relates to Bill No.'s 363 to 367)
+
+> That part d) be approved: d)    the proposed by-law, as appended to the staff report dated October 6, 2025 as Appendix “D”, BE INTRODUCED at the Municipal Council meeting to be held on October 14, 2025 to approve the Child Care Services Cost Apportionment and Agency Agreement (“Schedule D”) betwe...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.2.8. (2.5) City/County Cost Apportionment & Agency Agreements for Land Ambulance, Ontario Works, Housing, Child Care and Homelessness Prevention Programs (Relates to Bill No.'s 363 to 367)
+
+> That the balance of item 8, clause 2.5, be approved: That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken: a)    the proposed by-law, as appended to the staff report dated October 6, 2025 as Appendix “A”, BE INTRODUCED at the Municipal Council m...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.3. 14th Report of the Community and Protective Services Committee
+
+> That the 14th Report of the Community and Protective Services Committee BE APPROVED, with the exception of items 3 (2.4), 4 (2.5), 7 (2.3), 9 (3.1), and 10 (3.2).
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.3.4. (2.5) Part Two: Green Bin and Biweekly Garbage Collection Program - Next Steps
+
+> That the motion be amended to include a new part that reads as follows: The Civic Administration BE DIRECTED to report back to a future meeting of the Community and Protective Services Committee with further evaluation and associated cost analysis regarding the implementation of weekly garbage co...
+
+**❌ Motion Failed (4 to 11)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Nay (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 8.3.4. (2.5) Part Two: Green Bin and Biweekly Garbage Collection Program - Next Steps
+
+> Motion to approve part d): d)    the Civic Administration BE DIRECTED to take no action on expanding the materials collected in the Green Bin Program at this time;
+
+**❌ Motion Failed (7 to 8) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (8):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 8.3.4. (2.5) Part Two: Green Bin and Biweekly Garbage Collection Program - Next Steps
+
+> That, pursuant to section 10.5 of the Council Procedure By-law, “shall the ruling of the Chair BE SUSTAINED?”
+
+**✅ Motion Passed (12 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (3):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
+
+### 8.3.4. (2.5) Part Two: Green Bin and Biweekly Garbage Collection Program - Next Steps
+
+> That the motion be further amended by adding "menstrual products" to the list of materials included in the Green Bin Program.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.3.4. (2.5) Part Two: Green Bin and Biweekly Garbage Collection Program - Next Steps
+
+> That part d), as amended, be approved: That Civic Administration BE DIRECTED to report back to the Community and Protective Services Committee on the feasibility of including diaper and menstrual product waste in the Green Bin Program;
+
+**❌ Motion Failed (3 to 12)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Susan Stevenson](/councillors/current/s-stevenson), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Nay (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 8.3.4. (2.5) Part Two: Green Bin and Biweekly Garbage Collection Program - Next Steps
+
+> That item 4, clause 2.5, as amended, BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.3.7. (2.3) Proposed Temporary Warming Centre Framework
+
+> That pursuant to section 13.6 of the Council Procedure By-law, the Council decision with respect to item 7, clause 2.3 having to do with the Proposed Temporary Warming Centre Framework BE RECONSIDERED to provide for Councillor S. Trosow to correct his vote.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.3.9. (3.1) Health and Homelessness Whole of Community System Response Research and Evaluation Report
+
+> That the motion be amended to include a new part that reads as follows: The Civic Administration BE DIRECTED to report back to a future meeting of the Community and Protective Services Committee with the requested metrics as presented and discussed at the October 8, 2024 meeting of the Strategic ...
+
+**❌ Motion Failed (6 to 9) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Shawn Lewis](/councillors/current/s-lewis), [Susan Stevenson](/councillors/current/s-stevenson), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (9):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 8.3.9. (3.1) Health and Homelessness Whole of Community System Response Research and Evaluation Report
+
+> That part b) be approved: b)    the Mayor and Municipal Council BE REQUESTED to continue to prioritize advocacy efforts with the Federal and Provincial governments to secure ongoing operating funding in support of the provision of related services;
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.3.10. (3.2) Adequate and Suitable Cooling By-law and Maximum Temperature Amendments to the AMPs By-law (A-54)
+
+> That, on the recommendation of the Deputy City Manager, Planning and Economic Development the following actions be taken with respect to the staff report, dated September 29, 2025, related to the Adequate and Suitable Cooling By-law and Maximum Temperature Amendments to the AMPs By-law (A-54): a)...
+
+**❌ Motion Failed (7 to 8) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (8):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 8.4. 15th Report of the Community and Protective Services Committee
+
+> That the 15th Report of the Community and Protective Services Committee BE APPROVED, with the exception of item 2 (4.1).
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.4.2. (4.1) Micro-Modular Shelter Site
+
+> That the motion be amended by adding the following parts: i) the Civic Administration BE DIRECTED to bring forward a Briefing Note on the public agenda of the Community and Protective Services Committee regarding agreements and contracts as they are finalized; j) the Civic Administration BE DIREC...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.4.2. (4.1) Micro-Modular Shelter Site
+
+> That the motion be further amended in part i) by changing "regarding" to "with the" before the text "agreements and contracts as they are finalized;"
+
+**❌ Motion Failed (6 to 9) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (9):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 8.4.2. (4.1) Micro-Modular Shelter Site
+
+> That part d) of the motion, as amended, BE APPROVED. At 5:07 PM, His Worship Mayor J. Morgan, places Deputy Mayor S. Lewis in the Chair. At 5:12 PM, His Worship Mayor J. Morgan resumes the Chair.
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
+
+### 8.4.2. (4.1) Micro-Modular Shelter Site
+
+> That the balance of the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.5. 15th Report of the Planning and Environment Committee
+
+> That the 15th Report of the Planning and Environment Committee BE APPROVED, with the exception of items 9 (3.5) and 11 (3.7).
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.5.9. (3.5) 1511 Clarke Road - 39T-24505 (Relates to Bill No.'s 369 and 379)
+
+> That the motion be amended to read as follows: Notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Sifton Properties Limited relating to the property located at 1511 Clarke Road (Caverhill West): a) the pr...
+
+**✅ Motion Passed (11 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Absent (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+</details>
+
+### 8.5.9. (3.5) 1511 Clarke Road - 39T-24505 (Relates to Bill No.'s 369 and 379)
+
+> That item 9, clause 3.5, as amended, BE APPROVED.
+
+**✅ Motion Passed (10 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Absent (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+</details>
+
+### 8.5.11. (3.7) Official Plan Review of The London Plan: Final Industrial Land Needs Assessment, Urban Growth Boundary Review Update, and Process Updates
+
+> That the motion be amended by adding a new part i): i) the Civic Administration BE DIRECTED to include, as an appendix to the final Official Plan Review of The London Plan: Urban Growth Boundary Review report, mapping of a boundary expansion encompassing 1,054 hectares of developable land, for in...
+
+**❌ Motion Failed (5 to 8) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (8):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (2):** [Sam Trosow](/councillors/current/s-trosow), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 8.5.11. (3.7) Official Plan Review of The London Plan: Final Industrial Land Needs Assessment, Urban Growth Boundary Review Update, and Process Updates
+
+> That part b) of the motion be approved.
+
+**✅ Motion Passed (10 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Absent (2):** [Sam Trosow](/councillors/current/s-trosow), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 8.5.11. (3.7) Official Plan Review of The London Plan: Final Industrial Land Needs Assessment, Urban Growth Boundary Review Update, and Process Updates
+
+> The balance of item 11, clause 3.7, be approved.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
 ---
 
 ## Full Transcript
@@ -3841,341 +4178,3 @@ Okay, third and final reading of these package bills. We'll open that. Closing t
 So I'll look for a motion to adjourn. Councilor Vamevergan, seconded by Councilor Ilier, by hand, all those in favor? Motion carries. We are adjourned.
 
 </details>
-
----
-
-## Votes
-
-*29 substantive votes at this meeting (13 contested, 16 unanimous). Procedural motions excluded.*
-
-### 7.1. Mayor J. Morgan, Deputy Mayor S. Lewis, Councillors A. Hopkins and S. Franke - Automated Speed Enforcement (ASE)
-
-> That pursuant to section 11.3 of the Council Procedure By-law, leave BE GRANTED to permit Mayor J. Morgan, Deputy Mayor S. Lewis, Councillors A. Hopkins and S. Franke to move a motion related to item 7.1 on the Council Agenda related to Automated Speed Enforcement (ASE).
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 7.1. Mayor J. Morgan, Deputy Mayor S. Lewis, Councillors A. Hopkins and S. Franke - Automated Speed Enforcement (ASE)
-
-> That, the following resolution BE ADOPTED and BE FORWARDED to the Premier of Ontario, the Minister of Municipal Affairs and Housing, the Minister of Transportation, and the Association of Municipalities of Ontario Policy Centre: WHEREAS reducing vehicle speeds helps create calmer, safer neighbour...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 7.2. Councillor S. Franke - Revisiting the Urban Growth Boundary Review Using Updated Population Projections
-
-> That pursuant to section 11.3 of the Council Procedure By-law, leave BE GRANTED to permit Councillor S. Franke to move a motion related to item 7.2 on the Council Agenda related to Revisiting the Urban Boundary Review Using Updated Population Projections.
-
-**❌ Motion Failed (7 to 8) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (7):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (8):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 8.1. 12th Report of the Strategic Priorities and Policy Committee
-
-> That the 12th Report of the Strategic Priorities and Policy Committee BE APPROVED.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.2. 15th Report of the Infrastructure and Corporate Services Committee
-
-> That the 15th Report of the Infrastructure and Corporate Services Committee BE APPROVED, with the exception of items 4 (2.3) and 8 (2.5).
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.2.8. (2.5) City/County Cost Apportionment & Agency Agreements for Land Ambulance, Ontario Works, Housing, Child Care and Homelessness Prevention Programs (Relates to Bill No.'s 363 to 367)
-
-> That part d) be approved: d)    the proposed by-law, as appended to the staff report dated October 6, 2025 as Appendix “D”, BE INTRODUCED at the Municipal Council meeting to be held on October 14, 2025 to approve the Child Care Services Cost Apportionment and Agency Agreement (“Schedule D”) betwe...
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.2.8. (2.5) City/County Cost Apportionment & Agency Agreements for Land Ambulance, Ontario Works, Housing, Child Care and Homelessness Prevention Programs (Relates to Bill No.'s 363 to 367)
-
-> That the balance of item 8, clause 2.5, be approved: That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken: a)    the proposed by-law, as appended to the staff report dated October 6, 2025 as Appendix “A”, BE INTRODUCED at the Municipal Council m...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.3. 14th Report of the Community and Protective Services Committee
-
-> That the 14th Report of the Community and Protective Services Committee BE APPROVED, with the exception of items 3 (2.4), 4 (2.5), 7 (2.3), 9 (3.1), and 10 (3.2).
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.3.4. (2.5) Part Two: Green Bin and Biweekly Garbage Collection Program - Next Steps
-
-> That the motion be amended to include a new part that reads as follows: The Civic Administration BE DIRECTED to report back to a future meeting of the Community and Protective Services Committee with further evaluation and associated cost analysis regarding the implementation of weekly garbage co...
-
-**❌ Motion Failed (4 to 11)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-**Nay (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 8.3.4. (2.5) Part Two: Green Bin and Biweekly Garbage Collection Program - Next Steps
-
-> Motion to approve part d): d)    the Civic Administration BE DIRECTED to take no action on expanding the materials collected in the Green Bin Program at this time;
-
-**❌ Motion Failed (7 to 8) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (7):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (8):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-</details>
-
-### 8.3.4. (2.5) Part Two: Green Bin and Biweekly Garbage Collection Program - Next Steps
-
-> That, pursuant to section 10.5 of the Council Procedure By-law, “shall the ruling of the Chair BE SUSTAINED?”
-
-**✅ Motion Passed (12 to 3)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (3):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson)
-
-</details>
-
-### 8.3.4. (2.5) Part Two: Green Bin and Biweekly Garbage Collection Program - Next Steps
-
-> That the motion be further amended by adding "menstrual products" to the list of materials included in the Green Bin Program.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.3.4. (2.5) Part Two: Green Bin and Biweekly Garbage Collection Program - Next Steps
-
-> That part d), as amended, be approved: That Civic Administration BE DIRECTED to report back to the Community and Protective Services Committee on the feasibility of including diaper and menstrual product waste in the Green Bin Program;
-
-**❌ Motion Failed (3 to 12)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Susan Stevenson](/councillors/current/s-stevenson), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-**Nay (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 8.3.4. (2.5) Part Two: Green Bin and Biweekly Garbage Collection Program - Next Steps
-
-> That item 4, clause 2.5, as amended, BE APPROVED.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.3.7. (2.3) Proposed Temporary Warming Centre Framework
-
-> That pursuant to section 13.6 of the Council Procedure By-law, the Council decision with respect to item 7, clause 2.3 having to do with the Proposed Temporary Warming Centre Framework BE RECONSIDERED to provide for Councillor S. Trosow to correct his vote.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.3.9. (3.1) Health and Homelessness Whole of Community System Response Research and Evaluation Report
-
-> That the motion be amended to include a new part that reads as follows: The Civic Administration BE DIRECTED to report back to a future meeting of the Community and Protective Services Committee with the requested metrics as presented and discussed at the October 8, 2024 meeting of the Strategic ...
-
-**❌ Motion Failed (6 to 9) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Shawn Lewis](/councillors/current/s-lewis), [Susan Stevenson](/councillors/current/s-stevenson), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (9):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-</details>
-
-### 8.3.9. (3.1) Health and Homelessness Whole of Community System Response Research and Evaluation Report
-
-> That part b) be approved: b)    the Mayor and Municipal Council BE REQUESTED to continue to prioritize advocacy efforts with the Federal and Provincial governments to secure ongoing operating funding in support of the provision of related services;
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.3.10. (3.2) Adequate and Suitable Cooling By-law and Maximum Temperature Amendments to the AMPs By-law (A-54)
-
-> That, on the recommendation of the Deputy City Manager, Planning and Economic Development the following actions be taken with respect to the staff report, dated September 29, 2025, related to the Adequate and Suitable Cooling By-law and Maximum Temperature Amendments to the AMPs By-law (A-54): a)...
-
-**❌ Motion Failed (7 to 8) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (7):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (8):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 8.4. 15th Report of the Community and Protective Services Committee
-
-> That the 15th Report of the Community and Protective Services Committee BE APPROVED, with the exception of item 2 (4.1).
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.4.2. (4.1) Micro-Modular Shelter Site
-
-> That the motion be amended by adding the following parts: i) the Civic Administration BE DIRECTED to bring forward a Briefing Note on the public agenda of the Community and Protective Services Committee regarding agreements and contracts as they are finalized; j) the Civic Administration BE DIREC...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.4.2. (4.1) Micro-Modular Shelter Site
-
-> That the motion be further amended in part i) by changing "regarding" to "with the" before the text "agreements and contracts as they are finalized;"
-
-**❌ Motion Failed (6 to 9) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (9):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-</details>
-
-### 8.4.2. (4.1) Micro-Modular Shelter Site
-
-> That part d) of the motion, as amended, BE APPROVED. At 5:07 PM, His Worship Mayor J. Morgan, places Deputy Mayor S. Lewis in the Chair. At 5:12 PM, His Worship Mayor J. Morgan resumes the Chair.
-
-**✅ Motion Passed (14 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
-
-</details>
-
-### 8.4.2. (4.1) Micro-Modular Shelter Site
-
-> That the balance of the motion, as amended, BE APPROVED.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.5. 15th Report of the Planning and Environment Committee
-
-> That the 15th Report of the Planning and Environment Committee BE APPROVED, with the exception of items 9 (3.5) and 11 (3.7).
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.5.9. (3.5) 1511 Clarke Road - 39T-24505 (Relates to Bill No.'s 369 and 379)
-
-> That the motion be amended to read as follows: Notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Sifton Properties Limited relating to the property located at 1511 Clarke Road (Caverhill West): a) the pr...
-
-**✅ Motion Passed (11 to 3)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Absent (1):** [Sam Trosow](/councillors/current/s-trosow)
-
-</details>
-
-### 8.5.9. (3.5) 1511 Clarke Road - 39T-24505 (Relates to Bill No.'s 369 and 379)
-
-> That item 9, clause 3.5, as amended, BE APPROVED.
-
-**✅ Motion Passed (10 to 4)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (10):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Absent (1):** [Sam Trosow](/councillors/current/s-trosow)
-
-</details>
-
-### 8.5.11. (3.7) Official Plan Review of The London Plan: Final Industrial Land Needs Assessment, Urban Growth Boundary Review Update, and Process Updates
-
-> That the motion be amended by adding a new part i): i) the Civic Administration BE DIRECTED to include, as an appendix to the final Official Plan Review of The London Plan: Urban Growth Boundary Review report, mapping of a boundary expansion encompassing 1,054 hectares of developable land, for in...
-
-**❌ Motion Failed (5 to 8) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (8):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-**Absent (2):** [Sam Trosow](/councillors/current/s-trosow), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 8.5.11. (3.7) Official Plan Review of The London Plan: Final Industrial Land Needs Assessment, Urban Growth Boundary Review Update, and Process Updates
-
-> That part b) of the motion be approved.
-
-**✅ Motion Passed (10 to 3)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Absent (2):** [Sam Trosow](/councillors/current/s-trosow), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 8.5.11. (3.7) Official Plan Review of The London Plan: Final Industrial Land Needs Assessment, Urban Growth Boundary Review Update, and Process Updates
-
-> The balance of item 11, clause 3.7, be approved.
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-

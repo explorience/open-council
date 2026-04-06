@@ -579,6 +579,77 @@ The Planning and Environment Committee convenes In Closed Session from 3:56 PM t
 
 
 The meeting adjourned at 4:48 PM.
+
+---
+
+## Votes
+
+*7 substantive votes at this meeting (1 contested, 6 unanimous). Procedural motions excluded.*
+
+### 2.4. Heritage Easement Agreement for 39 Carfrae Street
+
+> That, the following actions be taken with respect to the proposed updated Schedule “C” and Schedule “D” for the Heritage Easement Agreement pursuant to Section 37 of the Ontario Heritage Act for the property located at 39 Carfrae Street: a)    the proposed updated Schedule “C” and Schedule “D” ap...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 2.4. Heritage Easement Agreement for 39 Carfrae Street
+
+> That J. Gard BE GRANTED delegation status with respect to the property located at 39 Carfrae Street.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 3.1. 1160 Wharncliffe Road South and 234 Exeter Road (OZ-9450/39T-21507)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by 2793774 Ontario Inc. and Goldfield 1 Ltd., relating to the property located at 1160 Wharncliffe Road South and 234 Exeter Road: a)    the proposed by-law append...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 3.2. 475 Wharncliffe Road South (Z-9687)
+
+> That, on the recommendation of the Director, Planning and Development, based on the application by Michael Clark Construction (c/o Strik Baldinelli Moniz Ltd.), relating to the property located at 475 Wharncliffe Road South, the proposed by-law appended to the staff report dated February 21, 2024...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 3.3. 1494 Commissioners Road West (Z-9689)
+
+> That, based on the application by David Moubarak (c/o Strik Baldinelli Moniz Ltd.), relating to the property located at 1494 Commissioners Road West, the request to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan for the City of London, 2016), to change the zoning of the subje...
+
+**✅ Motion Passed (3 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Corrine Rahman](/councillors/current/c-rahman), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+**Absent (2):** [Josh Morgan](/councillors/current/j-morgan), [Steve Lehman](/councillors/current/s-lehman)
+
+</details>
+
+### 3.4. 1467 Wharncliffe Road South (OZ-9680)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Nabataeans Homes, relating to the property located at 1467 Wharncliffe Road South: a)    the proposed by-law appended to the staff report dated February 21, 202...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 3.5. Gloucester Deferred Trail Segment – Medway Valley Heritage Forest (South) Conservation Master Plan
+
+> hat, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to the Gloucester Deferred Trail Segment of the Medway Valley Heritage Forest (South) Conservation Master Plan: a)    the portion of the pathway and trail system f...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
 ---
 
 ## Full Transcript
@@ -1555,75 +1626,3 @@ Councilor Frank and Councilor Hillier move in second. And we can do this by hand
 Thank you, everyone. Have a great evening.
 
 </details>
-
----
-
-## Votes
-
-*7 substantive votes at this meeting (1 contested, 6 unanimous). Procedural motions excluded.*
-
-### 2.4. Heritage Easement Agreement for 39 Carfrae Street
-
-> That, the following actions be taken with respect to the proposed updated Schedule “C” and Schedule “D” for the Heritage Easement Agreement pursuant to Section 37 of the Ontario Heritage Act for the property located at 39 Carfrae Street: a)    the proposed updated Schedule “C” and Schedule “D” ap...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 2.4. Heritage Easement Agreement for 39 Carfrae Street
-
-> That J. Gard BE GRANTED delegation status with respect to the property located at 39 Carfrae Street.
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 3.1. 1160 Wharncliffe Road South and 234 Exeter Road (OZ-9450/39T-21507)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by 2793774 Ontario Inc. and Goldfield 1 Ltd., relating to the property located at 1160 Wharncliffe Road South and 234 Exeter Road: a)    the proposed by-law append...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 3.2. 475 Wharncliffe Road South (Z-9687)
-
-> That, on the recommendation of the Director, Planning and Development, based on the application by Michael Clark Construction (c/o Strik Baldinelli Moniz Ltd.), relating to the property located at 475 Wharncliffe Road South, the proposed by-law appended to the staff report dated February 21, 2024...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 3.3. 1494 Commissioners Road West (Z-9689)
-
-> That, based on the application by David Moubarak (c/o Strik Baldinelli Moniz Ltd.), relating to the property located at 1494 Commissioners Road West, the request to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan for the City of London, 2016), to change the zoning of the subje...
-
-**✅ Motion Passed (3 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Corrine Rahman](/councillors/current/c-rahman), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Shawn Lewis](/councillors/current/s-lewis)
-
-**Absent (2):** [Josh Morgan](/councillors/current/j-morgan), [Steve Lehman](/councillors/current/s-lehman)
-
-</details>
-
-### 3.4. 1467 Wharncliffe Road South (OZ-9680)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Nabataeans Homes, relating to the property located at 1467 Wharncliffe Road South: a)    the proposed by-law appended to the staff report dated February 21, 202...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 3.5. Gloucester Deferred Trail Segment – Medway Valley Heritage Forest (South) Conservation Master Plan
-
-> hat, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to the Gloucester Deferred Trail Segment of the Medway Valley Heritage Forest (South) Conservation Master Plan: a)    the portion of the pathway and trail system f...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-

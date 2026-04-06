@@ -829,6 +829,109 @@ That the meeting BE ADJOURNED.
 The meeting Adjourned at 3:09 PM.
 
 ****
+
+---
+
+## Votes
+
+*11 substantive votes at this meeting (1 contested, 10 unanimous). Procedural motions excluded.*
+
+### 3.1. 1484 Gore Road (Z-25002)
+
+> That the motion be amended to read as follows: the Site Plan Authority BE REQUESTED to consider limiting western-facing windows to the ground floor only;
+
+**✅ Motion Passed (3 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Absent (1):** [Steve Lehman](/councillors/current/s-lehman)
+
+</details>
+
+### 3.1. 1484 Gore Road (Z-25002)
+
+> That the motion be approved, as amended.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 3.2. 1390 Dundas Street  (Z-9817)
+
+> That, on the recommendation of the Director, Planning and Development, the following action be taken with respect to the application of Southbridge Healthcare LP (c/o Zelinka Priamo Ltd.), relating to the property located at 1390 Dundas Street, the proposed by-law appended to the staff report dat...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 3.3. 4023-4096 Meadowbrook Drive, 4474-4500 Blakie Road, 169-207 Exeter Road (Z-25001)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Bluestone Properties Inc. (c/o Zelinka Priamo Ltd.), relating to the property located at 4023-4096 Meadowbrook Drive, 4474- 4500 Blakie Road, and 169-207 Exeter...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 3.4. Holding Provision Symbol Review - Property Update (Z-25011)
+
+> That, on the recommendation of the Director, Planning and Development, the based on the application for the City of London relating to the Holding Provision Symbol Review Property Update the proposed by-law appended to the staff report dated February 19, 2025, as Appendix “A” BE INTRODUCED at the...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 3.5. 1782 Kilally Road (OZ-9811)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Drewlo Holdings Inc. relating to the property located at 1782 Kilally Road: a)    the proposed by-law appended to the staff report dated February 19, 2025, as A...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 3.6. 1378-1398 Commissioners Road West (Z-9815)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Tricar Properties Limited (c/o Zelinka Priamo Ltd.), relating to the property located at 1378 - 1398 Commissioners Road West: a)    the proposed by-law appended...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. Councillor S. Hillier - Minister’s Zoning Order (MZO) for the lands municipally known as 4423 Highbury Avenue South
+
+> That the following actions be taken with respect to a Minister’s Zoning Order (MZO) for the lands municipally known as 4423 Highbury Avenue South: a)    the request to the Minister of Municipal Affairs and Housing to issue a Minister’s Zoning Order (MZO) for the lands municipally known as 4423 Hi...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. Councillor S. Hillier - Minister’s Zoning Order (MZO) for the lands municipally known as 4423 Highbury Avenue South
+
+> That the delegation request from M. Cory, as appended to the Added Agenda, BE APPROVED to be heard at this meeting.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 4.2. Councillors E. Peloza and A. Hopkins - Motion to update Business Improvement Area by-laws
+
+> That the Civic Administration BE DIRECTED to review and update the Business Improvement Area By-Laws, including the addition of a mechanism to encourage Business Improvement Areas to submit their annual reports on a more timely basis, and report back to a future meeting of the Planning and Enviro...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 5.1. (ADDED) Deputy Mayor S. Lewis - Motion for immediate need for road rehabilitation of Dundas Street between Burdick Place and Beatrice Street
+
+> That the Civic Administration BE DIRECTED to suspend any further considerations of the “Dundas Streetscape Master Plan for the Argyle Core Area” with regard to the immediate need for road rehabilitation in 2025 of Dundas Street between Burdick Place and Beatrice St. due to extremely poor pavement...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
 ---
 
 ## Full Transcript
@@ -1469,107 +1572,3 @@ I see no further hands in chambers or online, so calling the vote of all in favo
 And I see that from Councillor Hillier, seconded by Councillor Cuddy and by hand, all those in favor. All in favor. That carries, we are adjourned, thank you everyone. Have a great rest of your day.
 
 </details>
-
----
-
-## Votes
-
-*11 substantive votes at this meeting (1 contested, 10 unanimous). Procedural motions excluded.*
-
-### 3.1. 1484 Gore Road (Z-25002)
-
-> That the motion be amended to read as follows: the Site Plan Authority BE REQUESTED to consider limiting western-facing windows to the ground floor only;
-
-**✅ Motion Passed (3 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Absent (1):** [Steve Lehman](/councillors/current/s-lehman)
-
-</details>
-
-### 3.1. 1484 Gore Road (Z-25002)
-
-> That the motion be approved, as amended.
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 3.2. 1390 Dundas Street  (Z-9817)
-
-> That, on the recommendation of the Director, Planning and Development, the following action be taken with respect to the application of Southbridge Healthcare LP (c/o Zelinka Priamo Ltd.), relating to the property located at 1390 Dundas Street, the proposed by-law appended to the staff report dat...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 3.3. 4023-4096 Meadowbrook Drive, 4474-4500 Blakie Road, 169-207 Exeter Road (Z-25001)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Bluestone Properties Inc. (c/o Zelinka Priamo Ltd.), relating to the property located at 4023-4096 Meadowbrook Drive, 4474- 4500 Blakie Road, and 169-207 Exeter...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 3.4. Holding Provision Symbol Review - Property Update (Z-25011)
-
-> That, on the recommendation of the Director, Planning and Development, the based on the application for the City of London relating to the Holding Provision Symbol Review Property Update the proposed by-law appended to the staff report dated February 19, 2025, as Appendix “A” BE INTRODUCED at the...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 3.5. 1782 Kilally Road (OZ-9811)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Drewlo Holdings Inc. relating to the property located at 1782 Kilally Road: a)    the proposed by-law appended to the staff report dated February 19, 2025, as A...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 3.6. 1378-1398 Commissioners Road West (Z-9815)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Tricar Properties Limited (c/o Zelinka Priamo Ltd.), relating to the property located at 1378 - 1398 Commissioners Road West: a)    the proposed by-law appended...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 4.1. Councillor S. Hillier - Minister’s Zoning Order (MZO) for the lands municipally known as 4423 Highbury Avenue South
-
-> That the following actions be taken with respect to a Minister’s Zoning Order (MZO) for the lands municipally known as 4423 Highbury Avenue South: a)    the request to the Minister of Municipal Affairs and Housing to issue a Minister’s Zoning Order (MZO) for the lands municipally known as 4423 Hi...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 4.1. Councillor S. Hillier - Minister’s Zoning Order (MZO) for the lands municipally known as 4423 Highbury Avenue South
-
-> That the delegation request from M. Cory, as appended to the Added Agenda, BE APPROVED to be heard at this meeting.
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 4.2. Councillors E. Peloza and A. Hopkins - Motion to update Business Improvement Area by-laws
-
-> That the Civic Administration BE DIRECTED to review and update the Business Improvement Area By-Laws, including the addition of a mechanism to encourage Business Improvement Areas to submit their annual reports on a more timely basis, and report back to a future meeting of the Planning and Enviro...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 5.1. (ADDED) Deputy Mayor S. Lewis - Motion for immediate need for road rehabilitation of Dundas Street between Burdick Place and Beatrice Street
-
-> That the Civic Administration BE DIRECTED to suspend any further considerations of the “Dundas Streetscape Master Plan for the Argyle Core Area” with regard to the immediate need for road rehabilitation in 2025 of Dundas Street between Burdick Place and Beatrice St. due to extremely poor pavement...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-

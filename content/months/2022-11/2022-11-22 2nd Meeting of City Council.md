@@ -1332,6 +1332,128 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 2:34 PM.
 
 ****
+
+---
+
+## Votes
+
+*11 substantive votes at this meeting (4 contested, 7 unanimous). Procedural motions excluded.*
+
+### 8.1. 1st Report of the Strategic Priorities and Policy Committee
+
+> That the 1st Report of the Strategic Priorities and Policy Committee BE APPROVED, excluding Items 22 (4.21), 32 (4.31), 37 (4.36), 40 (4.39), 41 (4.40) and 42 (4.41).
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 8.1.22. (4.21) Consideration of Appointment to the University of Western Ontario Board of Governors
+
+> That Mayor Morgan BE APPOINTED to the University of Western Ontario Board of Governors for the term commencing December 1, 2022 to November 14, 2026.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (11-0)
+
+### 8.1.32. (4.31) Consideration of Appointment to the Kettle Creek Conservation Authority
+
+> That the motion BE AMENDED by adding the following to the clause: d)   that Councillor S. Trosow BE APPOINTED to the Kettle Creek Conservation Authority for the term ending November 14, 2026.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 8.1.32. (4.31) Consideration of Appointment to the Kettle Creek Conservation Authority
+
+> That item 32 (4.31), as amended, BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 8.1.37. (4.36) Consideration of Appointment to the Committee of Adjustment
+
+> That the following BE APPOINTED to the Committee of Adjustment for the term ending November 14, 2026: Mohamed Mohamed El Hadary Steve Polhill      Daniela Schmidt         John Fyfe-Millar
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+
+### 8.1.37. (4.36) Consideration of Appointment to the Committee of Adjustment
+
+> That the following BE APPOINTED to the Committee of Adjustment for the term ending November 14, 2026: Cheryl Miller
+
+**✅ Motion Passed (10 to 5)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+
+### 8.1.40. (4.39) Consideration of Appointment to Eldon House
+
+> That Item 40 (4.39) BE AMENDED to add the following individual for appointment to the Eldon House Board – Bruce Duncan; it being noted that part b) of the original recommendation be deleted.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 8.1.40. (4.39) Consideration of Appointment to Eldon House
+
+> That Item 40 (4.39), as amended, BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 8.1.41. (4.40) Consideration of Appointment to the London Police Services Board
+
+> That Susan Toth BE APPOINTED to the London Police Services Board for the term ending November 14, 2026.
+
+**✅ Motion Passed (11 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 8.1.42. (4.41) Consideration of Appointment to the London Public Library
+
+> That the following BE APPOINTED to the London Public Library Board for the term ending November 14, 2026: Brian Gibson       Zeba Hashmi          Heather Jack  Beth Allison     Scott Andrew Collyer        Jeremy McCall  Sharon Desserud it being noted that the Strategic Priorities and Policy Commi...
+
+**✅ Motion Passed (9 to 6) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke)
+
+**Nay (4):** [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 9.1. 2nd Report of the Special Strategic Priorities and Policy Committee
+
+> That the 2nd Report of the Strategic Priorities and Policy Committee, BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
 ---
 
 ## Full Transcript
@@ -1664,126 +1786,3 @@ With that, I'll entertain a motion to adjourn. Moved by Councillor Ben Mirbergen
 My motion carries. We're adjourned.
 
 </details>
-
----
-
-## Votes
-
-*11 substantive votes at this meeting (4 contested, 7 unanimous). Procedural motions excluded.*
-
-### 8.1. 1st Report of the Strategic Priorities and Policy Committee
-
-> That the 1st Report of the Strategic Priorities and Policy Committee BE APPROVED, excluding Items 22 (4.21), 32 (4.31), 37 (4.36), 40 (4.39), 41 (4.40) and 42 (4.41).
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (13-0)
-
-### 8.1.22. (4.21) Consideration of Appointment to the University of Western Ontario Board of Governors
-
-> That Mayor Morgan BE APPOINTED to the University of Western Ontario Board of Governors for the term commencing December 1, 2022 to November 14, 2026.
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (11-0)
-
-### 8.1.32. (4.31) Consideration of Appointment to the Kettle Creek Conservation Authority
-
-> That the motion BE AMENDED by adding the following to the clause: d)   that Councillor S. Trosow BE APPOINTED to the Kettle Creek Conservation Authority for the term ending November 14, 2026.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (13-0)
-
-### 8.1.32. (4.31) Consideration of Appointment to the Kettle Creek Conservation Authority
-
-> That item 32 (4.31), as amended, BE APPROVED.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (13-0)
-
-### 8.1.37. (4.36) Consideration of Appointment to the Committee of Adjustment
-
-> That the following BE APPOINTED to the Committee of Adjustment for the term ending November 14, 2026: Mohamed Mohamed El Hadary Steve Polhill      Daniela Schmidt         John Fyfe-Millar
-
-**✅ Motion Passed (14 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
-
-</details>
-
-### 8.1.37. (4.36) Consideration of Appointment to the Committee of Adjustment
-
-> That the following BE APPOINTED to the Committee of Adjustment for the term ending November 14, 2026: Cheryl Miller
-
-**✅ Motion Passed (10 to 5)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins)
-
-</details>
-
-### 8.1.40. (4.39) Consideration of Appointment to Eldon House
-
-> That Item 40 (4.39) BE AMENDED to add the following individual for appointment to the Eldon House Board – Bruce Duncan; it being noted that part b) of the original recommendation be deleted.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (13-0)
-
-### 8.1.40. (4.39) Consideration of Appointment to Eldon House
-
-> That Item 40 (4.39), as amended, BE APPROVED.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (13-0)
-
-### 8.1.41. (4.40) Consideration of Appointment to the London Police Services Board
-
-> That Susan Toth BE APPOINTED to the London Police Services Board for the term ending November 14, 2026.
-
-**✅ Motion Passed (11 to 4)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Nay (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 8.1.42. (4.41) Consideration of Appointment to the London Public Library
-
-> That the following BE APPOINTED to the London Public Library Board for the term ending November 14, 2026: Brian Gibson       Zeba Hashmi          Heather Jack  Beth Allison     Scott Andrew Collyer        Jeremy McCall  Sharon Desserud it being noted that the Strategic Priorities and Policy Commi...
-
-**✅ Motion Passed (9 to 6) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (7):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke)
-
-**Nay (4):** [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 9.1. 2nd Report of the Special Strategic Priorities and Policy Committee
-
-> That the 2nd Report of the Strategic Priorities and Policy Committee, BE APPROVED.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (13-0)
-

@@ -566,6 +566,152 @@ None.
 
 
 The meeting adjourned at 3:50 PM.
+
+---
+
+## Votes
+
+*12 substantive votes at this meeting (6 contested, 6 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That items 2.1 to 2.6 and 2.8 to 2.11 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 2.7. Adelaide Street North Improvements Environmental Study Report, Notice of Completion
+
+> Motion to approve that the Adelaide Street North Improvements Environmental Study Report BE REFERRED back to the Civic Administration to include a no widening option as well as a discussion for a downstream mitigation option.
+
+**❌ Motion Failed (1 to 5)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+**Nay (5):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 2.7. Adelaide Street North Improvements Environmental Study Report, Notice of Completion
+
+> Motion to approve parts a), b) and c) of the clause.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 2.7. Adelaide Street North Improvements Environmental Study Report, Notice of Completion
+
+> Motion to add the following to the end of the clause: it being noted that a corridor widening of Adelaide Street North be subject to the recommendation of the Master Mobility Plan and future Development Charges By-laws.
+
+**✅ Motion Passed (4 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow)
+
+**Nay (2):** [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 4.2. London Transit 2022 Annual Report
+
+> Motion to approve part a) of the clause.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 4.2. London Transit 2022 Annual Report
+
+> Motion to approve part b) of the clause.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 4.2. London Transit 2022 Annual Report
+
+> Motion to approve the addition of the following to the clause: "it being noted that the communication, as appended to the Added Agenda, from J. Preston, with respect to the matter, was received."
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 4.3. Mobility Master Plan Update Strategies, Mode Share Target Options and Project Evaluation Frameworks
+
+> Motion to approve the request for delegation, from M. Wallace, London development Institute, with respect to this matter, to be heard at this meeting.
+
+**✅ Motion Passed (5 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+</details>
+
+### 4.3. Mobility Master Plan Update Strategies, Mode Share Target Options and Project Evaluation Frameworks
+
+> Motion to approve part b) of the clause.
+
+**✅ Motion Passed (5 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 4.3. Mobility Master Plan Update Strategies, Mode Share Target Options and Project Evaluation Frameworks
+
+> Motion to approve part a) of the clause.
+
+**✅ Motion Passed (5 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 4.3. Mobility Master Plan Update Strategies, Mode Share Target Options and Project Evaluation Frameworks
+
+> Motion to approve part c) of the clause.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 4.4. (ADDED) Councillor S. Franke - Climate Emergency Action Plan - Phase Out Gas
+
+> That the communications included on the Added Agenda from Councillor S. Franke, related to Climate Emergency Action Plan - Phase Out Gas, BE REFERRED to the Civic Administration for review.
+
+**✅ Motion Passed (3 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Peter Cuddy](/councillors/current/p-cuddy), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Nay (2):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow)
+
+**Absent (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+</details>
 ---
 
 ## Full Transcript
@@ -1510,150 +1656,3 @@ So that deals with the final item on our agenda. And with that, I'll look for a 
 Thank you to staff for the very long meeting.
 
 </details>
-
----
-
-## Votes
-
-*12 substantive votes at this meeting (6 contested, 6 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That items 2.1 to 2.6 and 2.8 to 2.11 BE APPROVED.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 2.7. Adelaide Street North Improvements Environmental Study Report, Notice of Completion
-
-> Motion to approve that the Adelaide Street North Improvements Environmental Study Report BE REFERRED back to the Civic Administration to include a no widening option as well as a discussion for a downstream mitigation option.
-
-**❌ Motion Failed (1 to 5)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (1):** [Sam Trosow](/councillors/current/s-trosow)
-
-**Nay (5):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-</details>
-
-### 2.7. Adelaide Street North Improvements Environmental Study Report, Notice of Completion
-
-> Motion to approve parts a), b) and c) of the clause.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 2.7. Adelaide Street North Improvements Environmental Study Report, Notice of Completion
-
-> Motion to add the following to the end of the clause: it being noted that a corridor widening of Adelaide Street North be subject to the recommendation of the Master Mobility Plan and future Development Charges By-laws.
-
-**✅ Motion Passed (4 to 2) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow)
-
-**Nay (2):** [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-</details>
-
-### 4.2. London Transit 2022 Annual Report
-
-> Motion to approve part a) of the clause.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 4.2. London Transit 2022 Annual Report
-
-> Motion to approve part b) of the clause.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 4.2. London Transit 2022 Annual Report
-
-> Motion to approve the addition of the following to the clause: "it being noted that the communication, as appended to the Added Agenda, from J. Preston, with respect to the matter, was received."
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 4.3. Mobility Master Plan Update Strategies, Mode Share Target Options and Project Evaluation Frameworks
-
-> Motion to approve the request for delegation, from M. Wallace, London development Institute, with respect to this matter, to be heard at this meeting.
-
-**✅ Motion Passed (5 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
-
-</details>
-
-### 4.3. Mobility Master Plan Update Strategies, Mode Share Target Options and Project Evaluation Frameworks
-
-> Motion to approve part b) of the clause.
-
-**✅ Motion Passed (5 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman)
-
-**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-</details>
-
-### 4.3. Mobility Master Plan Update Strategies, Mode Share Target Options and Project Evaluation Frameworks
-
-> Motion to approve part a) of the clause.
-
-**✅ Motion Passed (5 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman)
-
-**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-</details>
-
-### 4.3. Mobility Master Plan Update Strategies, Mode Share Target Options and Project Evaluation Frameworks
-
-> Motion to approve part c) of the clause.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 4.4. (ADDED) Councillor S. Franke - Climate Emergency Action Plan - Phase Out Gas
-
-> That the communications included on the Added Agenda from Councillor S. Franke, related to Climate Emergency Action Plan - Phase Out Gas, BE REFERRED to the Civic Administration for review.
-
-**✅ Motion Passed (3 to 2) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Peter Cuddy](/councillors/current/p-cuddy), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-**Nay (2):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow)
-
-**Absent (1):** [Shawn Lewis](/councillors/current/s-lewis)
-
-</details>
-

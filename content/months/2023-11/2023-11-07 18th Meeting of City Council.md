@@ -2049,6 +2049,133 @@ The meeting adjourned at 3:56 PM.
 > **Bill No. 412**
 > 
 > By-law No. A.-8430-313 – A by-law to appoint Tara Pollitt as Deputy City Manager, Legal Services and to repeal By-law No. A.-8102-153 being “A by-law to appoint Barry Card as Deputy City Manager, Legal Services. (6.1/19/CSC)
+
+---
+
+## Votes
+
+*12 substantive votes at this meeting (3 contested, 9 unanimous). Procedural motions excluded.*
+
+### 8.1. 15th Report of the Civic Works Committee
+
+> That the 15th Report of the Civic Works Committee BE APPROVED, with the exception of item 9 (2.5).
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.1.9. (2.5) Mobility Master Plan 2050 Mode Share Target
+
+> Motion to approve part a)
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.1.9. (2.5) Mobility Master Plan 2050 Mode Share Target
+
+> Motion to approve parts b) and c)
+
+**✅ Motion Passed (11 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (3):** [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
+
+</details>
+
+### 8.2. 26th Report of the Strategic Priorities and Policy Committee
+
+> That the 26th Report of the Strategic Priorities and Policy Committee BE APPROVED, with the exception of items 4 (2.1), 5 (2.2), 6 (2.3), and 11 (4.3).
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.2.6. (2.3) Community Cold Weather Response
+
+> Motion to approve item 6 (2.3) parts c), d), e), g), h), j), as amended.
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
+
+### 8.2.6. (2.3) Community Cold Weather Response
+
+> Motion to approve item 6 (2.3) parts a), b), f), i), k), l), as amended.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.3. 17th Report of the Planning and Environment Committee
+
+> That the 17th Report of the Planning and Environment Committee BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.4. 18th Report of the Corporate Services Committee
+
+> That the 18th Report of the Corporate Services Committee BE APPROVED, with exception of item 7 (4.1).
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.4.7. (4.1) Request for Redirection of 2022 Surplus Funds - Middlesex-London Health Unit
+
+> That the application of the City of London’s share of Middlesex-London Health Unit's (MLHU) 2022 surplus in the amount of $423,548 to reduce the outstanding amount of MLHU’s variable bank loan for the fit-out of the Citi Plaza office space BE APPROVED; it being noted that the Corporate Services C...
+
+**✅ Motion Passed (10 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (4):** [Susan Stevenson](/councillors/current/s-stevenson), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
+
+</details>
+
+### 8.5. 19th Report of the Special Corporate Services Committee
+
+> That the 19th Report of the Special Corporate Services Committee BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.6. 16th Report of the Community and Protective Services Committee
+
+> That the 16th Report of the Community and Protective Services Committee BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 9. Added Reports
+
+> 1.  Office Lease Extension and Amending Agreement – 220 Dundas Street That, on the recommendation of the Deputy City Manager, Finance Supports, on the advice of the Director, Realty Services, with respect to the Lease Extension and Amending Agreement for the lease of office space at 220 Dundas St...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
 ---
 
 ## Full Transcript
@@ -2573,131 +2700,3 @@ Okay, two hands up over there. Go to Councillor van Mirbergen. All those in favo
 Motion carries. All right, thank you very much. We're adjourned.
 
 </details>
-
----
-
-## Votes
-
-*12 substantive votes at this meeting (3 contested, 9 unanimous). Procedural motions excluded.*
-
-### 8.1. 15th Report of the Civic Works Committee
-
-> That the 15th Report of the Civic Works Committee BE APPROVED, with the exception of item 9 (2.5).
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.1.9. (2.5) Mobility Master Plan 2050 Mode Share Target
-
-> Motion to approve part a)
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.1.9. (2.5) Mobility Master Plan 2050 Mode Share Target
-
-> Motion to approve parts b) and c)
-
-**✅ Motion Passed (11 to 3)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (3):** [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
-
-</details>
-
-### 8.2. 26th Report of the Strategic Priorities and Policy Committee
-
-> That the 26th Report of the Strategic Priorities and Policy Committee BE APPROVED, with the exception of items 4 (2.1), 5 (2.2), 6 (2.3), and 11 (4.3).
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.2.6. (2.3) Community Cold Weather Response
-
-> Motion to approve item 6 (2.3) parts c), d), e), g), h), j), as amended.
-
-**✅ Motion Passed (14 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
-
-</details>
-
-### 8.2.6. (2.3) Community Cold Weather Response
-
-> Motion to approve item 6 (2.3) parts a), b), f), i), k), l), as amended.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.3. 17th Report of the Planning and Environment Committee
-
-> That the 17th Report of the Planning and Environment Committee BE APPROVED.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.4. 18th Report of the Corporate Services Committee
-
-> That the 18th Report of the Corporate Services Committee BE APPROVED, with exception of item 7 (4.1).
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.4.7. (4.1) Request for Redirection of 2022 Surplus Funds - Middlesex-London Health Unit
-
-> That the application of the City of London’s share of Middlesex-London Health Unit's (MLHU) 2022 surplus in the amount of $423,548 to reduce the outstanding amount of MLHU’s variable bank loan for the fit-out of the Citi Plaza office space BE APPROVED; it being noted that the Corporate Services C...
-
-**✅ Motion Passed (10 to 4)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (4):** [Susan Stevenson](/councillors/current/s-stevenson), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
-
-</details>
-
-### 8.5. 19th Report of the Special Corporate Services Committee
-
-> That the 19th Report of the Special Corporate Services Committee BE APPROVED.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.6. 16th Report of the Community and Protective Services Committee
-
-> That the 16th Report of the Community and Protective Services Committee BE APPROVED.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 9. Added Reports
-
-> 1.  Office Lease Extension and Amending Agreement – 220 Dundas Street That, on the recommendation of the Deputy City Manager, Finance Supports, on the advice of the Director, Realty Services, with respect to the Lease Extension and Amending Agreement for the lease of office space at 220 Dundas St...
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-

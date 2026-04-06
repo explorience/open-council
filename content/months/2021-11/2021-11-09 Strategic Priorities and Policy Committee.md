@@ -583,6 +583,97 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 8:11 PM.
 
 ****
+
+---
+
+## Votes
+
+*8 substantive votes at this meeting (3 contested, 5 unanimous). Procedural motions excluded.*
+
+### 2.2. LMCH - CMHC Co-Investment - Loan Agreement
+
+> That, on the recommendation of the Deputy City Manager, Finance Supports the following actions be taken:    a)  the proposed by-law as appended to the staff report dated November 9, 2021 as Appendix “A” BE INTRODUCED to:    i)    approve the Credit Agreement, substantially in the form attached, b...
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (11-0)
+
+### 4.1. London Small Business Centre - Business Case Submission
+
+> That the Civic Administration BE DIRECTED to work with the Small Business Centre to support an application to the Local Business Accelerator Program and that a municipal contribution of $57,500 BE AUTHORIZED from the earmarked London Community Recovery Network funding, noting that Municipal Counc...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 4.2. Hamilton Road BIA 2022 Budget Request
+
+> That the motion BE AMENDED to add the following new part c): "c)   that a one time grant of $30,000 be provided to the Hamilton Road BIA from the Community Investment Reserve Fund to establish an operating reserve."
+
+**✅ Motion Passed (11 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+**Absent (1):** [Mo Salih](/councillors/current/m-salih)
+
+</details>
+
+### 4.2. Hamilton Road BIA 2022 Budget Request
+
+> That the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (12 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+**Nay (1):** [Stephen Turner](/councillors/current/s-turner)
+
+**Absent (1):** [Mo Salih](/councillors/current/m-salih)
+
+</details>
+
+### 4.3. Consideration of Appointment to the Covent Garden Market Board (Requires 1 Member)
+
+> That Justin Dias BE APPOINTED to the Covent Garden Market Board for the term ending November 15, 2022.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (11-0)
+
+### 4.3. Consideration of Appointment to the Covent Garden Market Board (Requires 1 Member)
+
+> Appointment of a member to the Covent Garden Market Board.
+
+**❌ Majority Winner: Justin W. Dias 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (8):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 5.1. (ADDED) RBC Place London Board Appointment Recommendations for 2022
+
+> That the following actions be taken with respect to the appointments to the RBC Place London Board of Directors: a)      David Smith (Public Health) and Jenny Diplock (Business), Class 3, BE APPOINTED for the term ending November 15, 2023; and, b)      Dr. C. Schlachta (Health Care), Nora Fisher ...
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (11-0)
+
+### 5.2. (ADDED) Committee of Adjustment - Member Vacancy
+
+> That the resignation of John Fyfe-Millar from the Committee of Adjustment BE ACCEPTED and the City Clerk BE DIRECTED to publicly advertise for a replacement appointment with applications to be considered at the next meeting of the Strategic Priorities and Policy Committee.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (11-0)
 ---
 
 ## Full Transcript
@@ -1525,95 +1616,3 @@ So with that, and I'm talking about incidents as it relates to River Road, among
 And colleagues, let me also say thank you to you. It's been busy and it's been trying, but I'm extremely grateful for the work that you all do on behalf of the city, with that meeting adjourned.
 
 </details>
-
----
-
-## Votes
-
-*8 substantive votes at this meeting (3 contested, 5 unanimous). Procedural motions excluded.*
-
-### 2.2. LMCH - CMHC Co-Investment - Loan Agreement
-
-> That, on the recommendation of the Deputy City Manager, Finance Supports the following actions be taken:    a)  the proposed by-law as appended to the staff report dated November 9, 2021 as Appendix “A” BE INTRODUCED to:    i)    approve the Credit Agreement, substantially in the form attached, b...
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (11-0)
-
-### 4.1. London Small Business Centre - Business Case Submission
-
-> That the Civic Administration BE DIRECTED to work with the Small Business Centre to support an application to the Local Business Accelerator Program and that a municipal contribution of $57,500 BE AUTHORIZED from the earmarked London Community Recovery Network funding, noting that Municipal Counc...
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (12-0)
-
-### 4.2. Hamilton Road BIA 2022 Budget Request
-
-> That the motion BE AMENDED to add the following new part c): "c)   that a one time grant of $30,000 be provided to the Hamilton Road BIA from the Community Investment Reserve Fund to establish an operating reserve."
-
-**✅ Motion Passed (11 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
-
-**Absent (1):** [Mo Salih](/councillors/current/m-salih)
-
-</details>
-
-### 4.2. Hamilton Road BIA 2022 Budget Request
-
-> That the motion, as amended, BE APPROVED.
-
-**✅ Motion Passed (12 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
-
-**Nay (1):** [Stephen Turner](/councillors/current/s-turner)
-
-**Absent (1):** [Mo Salih](/councillors/current/m-salih)
-
-</details>
-
-### 4.3. Consideration of Appointment to the Covent Garden Market Board (Requires 1 Member)
-
-> That Justin Dias BE APPOINTED to the Covent Garden Market Board for the term ending November 15, 2022.
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (11-0)
-
-### 4.3. Consideration of Appointment to the Covent Garden Market Board (Requires 1 Member)
-
-> Appointment of a member to the Covent Garden Market Board.
-
-**❌ Majority Winner: Justin W. Dias 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Absent (8):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner)
-
-</details>
-
-### 5.1. (ADDED) RBC Place London Board Appointment Recommendations for 2022
-
-> That the following actions be taken with respect to the appointments to the RBC Place London Board of Directors: a)      David Smith (Public Health) and Jenny Diplock (Business), Class 3, BE APPOINTED for the term ending November 15, 2023; and, b)      Dr. C. Schlachta (Health Care), Nora Fisher ...
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (11-0)
-
-### 5.2. (ADDED) Committee of Adjustment - Member Vacancy
-
-> That the resignation of John Fyfe-Millar from the Committee of Adjustment BE ACCEPTED and the City Clerk BE DIRECTED to publicly advertise for a replacement appointment with applications to be considered at the next meeting of the Strategic Priorities and Policy Committee.
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (11-0)
-

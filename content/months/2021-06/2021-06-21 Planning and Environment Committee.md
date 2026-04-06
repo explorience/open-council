@@ -875,6 +875,111 @@ d)  clauses 1.1, 2.1 BE RECEIVED for information.
 
 
 The meeting adjourned at 6:14 PM.
+
+---
+
+## Votes
+
+*10 substantive votes at this meeting (3 contested, 7 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.3 to 2.13, inclusive, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.2. Memorandum of Understanding for Development and/or Planning Act Application Review Between the City of London and UTRCA
+
+> That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to updating the Development Memorandum of Understanding between The Corporation of the City of London and the Upper Thames Conservation Authority with respect to ...
+
+**✅ Motion Passed (5 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+
+### 2.2. Memorandum of Understanding for Development and/or Planning Act Application Review Between the City of London and UTRCA
+
+> That the staff report dated June 21, 2021 entitled "Memorandum of Understanding for Development and/or Planning Act Application Review between The Corporation of the City of London and Upper Thames River Conservation Authority" BE REFERRED back to the Civic Administration to obtain comments from ...
+
+**❌ Motion Failed (2 to 4) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Nay (2):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman)
+
+</details>
+
+### 3.1. 915 - 919 Commissioners Road East (Z-9334)
+
+> That, on the recommendation of the Director, Planning and Development, based on the application by 2781033 Ontario Inc., relating to the property located at 915-919 Commissioners Road East, the proposed by-law appended to the staff report dated June 21, 2021 as Appendix "A" BE INTRODUCED at the M...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.2. 193 Queens Avenue (Z-9327)
+
+> That, on the recommendation of the Director, Planning and Development, with respect to the application of Farhi Holdings Corporation, relating to the property located at 193 Queens Avenue, the proposed by-law appended to the staff report dated June 21, 2021 as Appendix "A" BE INTRODUCED at the Mu...
+
+**✅ Motion Passed (5 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+
+### 3.3. 1830 Adelaide Street North (1810, 1820, 1840 and 1850 Adelaide Street North) (Z-9312)
+
+> That, on the recommendation of the Director, Planning and Development, with respect to the application by Stoney Creek Commercial Centre c/o York Developments, relating to the property located at 1810, 1820, 1840 and 1850 Adelaide Street North, the proposed by-law appended to the staff report dat...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 3.4. 1146-1156 Byron Baseline Road (SPA21-009)
+
+> That, on the recommendation of the Director, Planning & Development, the following actions be taken with respect to the application by 21816121 Ontario Inc., relating to the property located at 1146-1156 Byron Baseline Road: a) the Approval Authority BE ADVISED that issues were raised relating to...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.2. 5th Report of the Advisory Committee on the Environment
+
+> That, the following actions be taken with respect to the 5th Report of the Advisory Committee on the Environment, from its meeting held on June 2, 2021: a)  clause 2.1 BE REFERRED to the Civic Administration for consideration; it being noted that clause 2.1 reads as follows: "That the City of Lon...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.3. 6th Report of the London Advisory Committee on Heritage
+
+> That the following actions be taken with respect to the 6th Report of the London Adviosry Committee on Heritage, from its meeting held on June 9, 2021: a)  the following actions be taken with respect to the Arva Pumping Station to the Notice of Study Commencement and Resident Townhall, dated June...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 5.1. (ADDED)  5th Report of the Environmental and Ecological Planning Advisory Committee
+
+> That, the following actions be taken with respect to the 5th Report of the Environmental and Ecological Planning Advisory Committee, from its meeting held on June 17, 2021: a)  the following recommendations of the Environmental and Ecological Planning Advisory Committee, with respect to the Advis...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
 ---
 
 ## Full Transcript
@@ -1665,109 +1770,3 @@ For adjournment, and we're going to do this by hand. Move by Councillor Lewis, s
 Thank you very much. Great meeting everyone, take care. We will see you at SPPC on Wednesday. Great job, Chair Mayor.
 
 </details>
-
----
-
-## Votes
-
-*10 substantive votes at this meeting (3 contested, 7 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.3 to 2.13, inclusive, BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 2.2. Memorandum of Understanding for Development and/or Planning Act Application Review Between the City of London and UTRCA
-
-> That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to updating the Development Memorandum of Understanding between The Corporation of the City of London and the Upper Thames Conservation Authority with respect to ...
-
-**✅ Motion Passed (5 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
-
-</details>
-
-### 2.2. Memorandum of Understanding for Development and/or Planning Act Application Review Between the City of London and UTRCA
-
-> That the staff report dated June 21, 2021 entitled "Memorandum of Understanding for Development and/or Planning Act Application Review between The Corporation of the City of London and Upper Thames River Conservation Authority" BE REFERRED back to the Civic Administration to obtain comments from ...
-
-**❌ Motion Failed (2 to 4) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Nay (2):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman)
-
-</details>
-
-### 3.1. 915 - 919 Commissioners Road East (Z-9334)
-
-> That, on the recommendation of the Director, Planning and Development, based on the application by 2781033 Ontario Inc., relating to the property located at 915-919 Commissioners Road East, the proposed by-law appended to the staff report dated June 21, 2021 as Appendix "A" BE INTRODUCED at the M...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 3.2. 193 Queens Avenue (Z-9327)
-
-> That, on the recommendation of the Director, Planning and Development, with respect to the application of Farhi Holdings Corporation, relating to the property located at 193 Queens Avenue, the proposed by-law appended to the staff report dated June 21, 2021 as Appendix "A" BE INTRODUCED at the Mu...
-
-**✅ Motion Passed (5 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
-
-</details>
-
-### 3.3. 1830 Adelaide Street North (1810, 1820, 1840 and 1850 Adelaide Street North) (Z-9312)
-
-> That, on the recommendation of the Director, Planning and Development, with respect to the application by Stoney Creek Commercial Centre c/o York Developments, relating to the property located at 1810, 1820, 1840 and 1850 Adelaide Street North, the proposed by-law appended to the staff report dat...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 3.4. 1146-1156 Byron Baseline Road (SPA21-009)
-
-> That, on the recommendation of the Director, Planning & Development, the following actions be taken with respect to the application by 21816121 Ontario Inc., relating to the property located at 1146-1156 Byron Baseline Road: a) the Approval Authority BE ADVISED that issues were raised relating to...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 4.2. 5th Report of the Advisory Committee on the Environment
-
-> That, the following actions be taken with respect to the 5th Report of the Advisory Committee on the Environment, from its meeting held on June 2, 2021: a)  clause 2.1 BE REFERRED to the Civic Administration for consideration; it being noted that clause 2.1 reads as follows: "That the City of Lon...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 4.3. 6th Report of the London Advisory Committee on Heritage
-
-> That the following actions be taken with respect to the 6th Report of the London Adviosry Committee on Heritage, from its meeting held on June 9, 2021: a)  the following actions be taken with respect to the Arva Pumping Station to the Notice of Study Commencement and Resident Townhall, dated June...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 5.1. (ADDED)  5th Report of the Environmental and Ecological Planning Advisory Committee
-
-> That, the following actions be taken with respect to the 5th Report of the Environmental and Ecological Planning Advisory Committee, from its meeting held on June 17, 2021: a)  the following recommendations of the Environmental and Ecological Planning Advisory Committee, with respect to the Advis...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-

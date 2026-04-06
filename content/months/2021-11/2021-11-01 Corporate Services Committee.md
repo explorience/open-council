@@ -293,6 +293,52 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 12:57 PM.
 
 ****
+
+---
+
+## Votes
+
+*5 substantive votes at this meeting (0 contested, 5 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.3, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.1. Application - Issuance of Proclamation - International Day for the Elimination of Violence Against Women
+
+> That based on the application dated October 4, 2021 from Anova: A Future Without Violence, November 25, 2021 BE PROCLAIMED as International Day for the Elimination of Violence Against Women.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.2. Application - Issuance of Proclamation - Salvation Army Week
+
+> That based on the application dated October 19, 2021 from The Governing Council of The Salvation Army, December 17, 2021 BE PROCLAIMED as Salvation Army Week.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.3. Deferred Council Directions Concerning Indigenous Relations
+
+> That the City Council directions as mentioned below BE REFERRED to the Indigenous Community Liaison Advisor for a report back with respect to these matters: December 6, 2016 “That clause 6 [concerning a land acknowledgement at meetings of City Council] BE REFERRED back for further consultation wi...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.4. Standing and Council Meeting Procedures
+
+> That the City Clerk BE DIRECTED to bring forward to a future meeting of the Corporate Services Committee for consideration, a draft policy with respect to the participation in hybrid electronic meetings by Council Members, staff and the public.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
 ---
 
 ## Full Transcript
@@ -475,50 +521,3 @@ With that, I will look for a motion to adjourn moved by. Councilor Vanholz, seco
 Good afternoon, everyone. Have a great one, see you later. Thank you, Chair.
 
 </details>
-
----
-
-## Votes
-
-*5 substantive votes at this meeting (0 contested, 5 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 to 2.3, BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 4.1. Application - Issuance of Proclamation - International Day for the Elimination of Violence Against Women
-
-> That based on the application dated October 4, 2021 from Anova: A Future Without Violence, November 25, 2021 BE PROCLAIMED as International Day for the Elimination of Violence Against Women.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 4.2. Application - Issuance of Proclamation - Salvation Army Week
-
-> That based on the application dated October 19, 2021 from The Governing Council of The Salvation Army, December 17, 2021 BE PROCLAIMED as Salvation Army Week.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 4.3. Deferred Council Directions Concerning Indigenous Relations
-
-> That the City Council directions as mentioned below BE REFERRED to the Indigenous Community Liaison Advisor for a report back with respect to these matters: December 6, 2016 “That clause 6 [concerning a land acknowledgement at meetings of City Council] BE REFERRED back for further consultation wi...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 4.4. Standing and Council Meeting Procedures
-
-> That the City Clerk BE DIRECTED to bring forward to a future meeting of the Corporate Services Committee for consideration, a draft policy with respect to the participation in hybrid electronic meetings by Council Members, staff and the public.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-

@@ -317,6 +317,28 @@ None.
 
 
 The meeting adjourned at 10:02 AM.
+
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.9 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.2. Gold Seal and Fournie Municipal Drain Improvements
+
+> That on the recommendation of Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report, dated February 21, 2024, related to the Gold Seal and Fournie Municipal Drain Improvements: a)    the drainage report, as appended to the above-noted...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -479,26 +501,3 @@ Holding the vote the motion carries 5 to 0. Moving on to items for direction I d
 Thanks everyone.
 
 </details>
-
----
-
-## Votes
-
-*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 to 2.9 BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.2. Gold Seal and Fournie Municipal Drain Improvements
-
-> That on the recommendation of Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report, dated February 21, 2024, related to the Gold Seal and Fournie Municipal Drain Improvements: a)    the drainage report, as appended to the above-noted...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-

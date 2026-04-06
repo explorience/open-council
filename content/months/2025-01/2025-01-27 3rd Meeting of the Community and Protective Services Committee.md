@@ -375,6 +375,84 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 2:33 PM.
 
 ****
+
+---
+
+## Votes
+
+*9 substantive votes at this meeting (0 contested, 9 unanimous). Procedural motions excluded.*
+
+### 1. Disclosures of Pecuniary Interest
+
+> That, pursuant to section 27.6 of the Council Procedure By-law, a change in order of the Community and Protective Services Committee Agenda BE APPROVED, to provide for Item 5.1 in Stage 5, Deferred Matters/Additional Business, to be considered after Stage 1, Disclosures of Pecuniary Interest.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 2. Consent
+
+> That Items 2.1, 2.2 and 2.3 BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 2.4. Whole of Community System Response - Q4 Quarterly Report
+
+> Motion to approve the delegation request from N. Stuckey to be heard at this meeting.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 2.5. Unsheltered Homelessness Encampment Initiative and Incremental Reaching Home Funding Allocations
+
+> That, on the recommendation of the Deputy City Manager, Social and Health Development, that the following actions be taken with respect to the staff report, dated January 27, 2025, related to amending existing contracts to implement the Unsheltered Homelessness and Encampment Initiative (UHEI) an...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 2.5. Unsheltered Homelessness Encampment Initiative and Incremental Reaching Home Funding Allocations
+
+> Motion to approve the delegation request from S. Campbell to be heard at this meeting.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 3.1. 2nd Report of the Environmental Stewardship and Action Community Advisory Committee
+
+> That the following actions be taken with respect to the 2nd Report of the Environmental Stewardship and Action Community Advisory Committee (ESACAC), from the meeting held on January 8, 2025: a)    an expenditure from the 2025 ESACAC Budget BE APPROVED, up to $375.00, for speaker gifts and refres...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. Bob Hayward YMCA at 1050 Hamilton Road
+
+> That the Civic Administration BE DIRECTED to explore affordable housing development opportunities with the YMCA of Southwestern Ontario regarding their property at 1050 Hamilton Road; it being noted that these discussions and any partnerships or property acquisitions that come from them would be ...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 5.1. (ADDED) Framework for the Provision of Overnight Warming Centres and Resting Spaces for Cold Weather
+
+> Motion to amend parts a), b) and c) to read as follows: a)     a review of climate conditions required for opening additional emergency overnight warming centers and resting spaces during circumstances such as extreme weather events. Consider alternatives to community centre spaces with respect t...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 5.1. (ADDED) Framework for the Provision of Overnight Warming Centres and Resting Spaces for Cold Weather
+
+> That the motion, as amended, BE APPROVED
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
 ---
 
 ## Full Transcript
@@ -851,82 +929,3 @@ Okay, that leads us to adjournment, so I'm looking for a mover to adjourn. Counc
 Motion carries, we're adjourned. Thank you.
 
 </details>
-
----
-
-## Votes
-
-*9 substantive votes at this meeting (0 contested, 9 unanimous). Procedural motions excluded.*
-
-### 1. Disclosures of Pecuniary Interest
-
-> That, pursuant to section 27.6 of the Council Procedure By-law, a change in order of the Community and Protective Services Committee Agenda BE APPROVED, to provide for Item 5.1 in Stage 5, Deferred Matters/Additional Business, to be considered after Stage 1, Disclosures of Pecuniary Interest.
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 2. Consent
-
-> That Items 2.1, 2.2 and 2.3 BE APPROVED.
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 2.4. Whole of Community System Response - Q4 Quarterly Report
-
-> Motion to approve the delegation request from N. Stuckey to be heard at this meeting.
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 2.5. Unsheltered Homelessness Encampment Initiative and Incremental Reaching Home Funding Allocations
-
-> That, on the recommendation of the Deputy City Manager, Social and Health Development, that the following actions be taken with respect to the staff report, dated January 27, 2025, related to amending existing contracts to implement the Unsheltered Homelessness and Encampment Initiative (UHEI) an...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 2.5. Unsheltered Homelessness Encampment Initiative and Incremental Reaching Home Funding Allocations
-
-> Motion to approve the delegation request from S. Campbell to be heard at this meeting.
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 3.1. 2nd Report of the Environmental Stewardship and Action Community Advisory Committee
-
-> That the following actions be taken with respect to the 2nd Report of the Environmental Stewardship and Action Community Advisory Committee (ESACAC), from the meeting held on January 8, 2025: a)    an expenditure from the 2025 ESACAC Budget BE APPROVED, up to $375.00, for speaker gifts and refres...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 4.1. Bob Hayward YMCA at 1050 Hamilton Road
-
-> That the Civic Administration BE DIRECTED to explore affordable housing development opportunities with the YMCA of Southwestern Ontario regarding their property at 1050 Hamilton Road; it being noted that these discussions and any partnerships or property acquisitions that come from them would be ...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 5.1. (ADDED) Framework for the Provision of Overnight Warming Centres and Resting Spaces for Cold Weather
-
-> Motion to amend parts a), b) and c) to read as follows: a)     a review of climate conditions required for opening additional emergency overnight warming centers and resting spaces during circumstances such as extreme weather events. Consider alternatives to community centre spaces with respect t...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 5.1. (ADDED) Framework for the Provision of Overnight Warming Centres and Resting Spaces for Cold Weather
-
-> That the motion, as amended, BE APPROVED
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-

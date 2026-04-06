@@ -315,6 +315,36 @@ The Community and Protective Services Committee convened, In Closed Session, fro
 
 
 The meeting adjourned at 4:44 PM.
+
+---
+
+## Votes
+
+*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.7 BE APPROVED.
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (1-0)
+
+### 4.1. 4th Report of the London Housing Advisory Committee
+
+> That the following actions be taken with respect to the 4th Report of the London Housing Advisory Committee, from its meeting held on July 14, 2021: a)    the following actions be taken with respect to the Notice of Planning Application dated May 12, 2021 from C. Maton, Planner II, related to an ...
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (1-0)
+
+### 4.2. London's Opioid Crisis
+
+> Motion to approve the delegation request from C. Ryan and J. Scott to be heard at this meeting.
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (1-0)
 ---
 
 ## Full Transcript
@@ -501,34 +531,3 @@ Thank you very much. All those in favor of adjourning? That's carried, three zer
 Recording stopped.
 
 </details>
-
----
-
-## Votes
-
-*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 to 2.7 BE APPROVED.
-
-**✅ Motion Passed (3 to 0)**
-
-Unanimous (1-0)
-
-### 4.1. 4th Report of the London Housing Advisory Committee
-
-> That the following actions be taken with respect to the 4th Report of the London Housing Advisory Committee, from its meeting held on July 14, 2021: a)    the following actions be taken with respect to the Notice of Planning Application dated May 12, 2021 from C. Maton, Planner II, related to an ...
-
-**✅ Motion Passed (3 to 0)**
-
-Unanimous (1-0)
-
-### 4.2. London's Opioid Crisis
-
-> Motion to approve the delegation request from C. Ryan and J. Scott to be heard at this meeting.
-
-**✅ Motion Passed (3 to 0)**
-
-Unanimous (1-0)
-

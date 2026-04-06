@@ -230,6 +230,20 @@ That the Civic Works Committee Deferred Matters List as at May 21, 2021, BE RECE
 
 
 The meeting adjourned at 12:20 PM.
+
+---
+
+## Votes
+
+*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.2, 2.3, 2.4, 2.5, 2.6, and 2.7, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
 ---
 
 ## Full Transcript
@@ -342,18 +356,3 @@ Councillor Van Merbergen, if you want to start six and state your vote now, plea
 Concludes our official agenda for today, recognizing it's also in Indigenous History Month and Pride as it's now June. I wish everyone a good day and I will see you all again soon. Thank you.
 
 </details>
-
----
-
-## Votes
-
-*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1, 2.2, 2.3, 2.4, 2.5, 2.6, and 2.7, BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-

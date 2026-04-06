@@ -673,6 +673,141 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 11:07 PM.
 
 ****
+
+---
+
+## Votes
+
+*12 substantive votes at this meeting (5 contested, 7 unanimous). Procedural motions excluded.*
+
+### 4.1. London's Housing Pledge: A Path to 47,000 Units by 2031
+
+> That the delegation request from Mr. M. Wallace, London Development Institute (LDI), BE APPROVED to be heard at this time.
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+**Absent (1):** [Steve Lehman](/councillors/current/s-lehman)
+
+</details>
+
+### 4.1. London's Housing Pledge: A Path to 47,000 Units by 2031
+
+> That part d) BE AMENDED to include the following: "it being noted that the Housing Supply Reference Group may expand to include additional members as may be appropriate, including but not limited to a member from the not-for-profit housing sector and a member involved in housing supply/housing re...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 4.2. Developing the 2023-2027 Strategic Plan: Continuing to Set Key Elements of the Strategic Plan
+
+> Delegation request from J. Rodger, Executive Director, Anova and J. Dunn, Executive Director, London Abused Women's Centre BE APPROVED to be heard at this time.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 4.2. Developing the 2023-2027 Strategic Plan: Continuing to Set Key Elements of the Strategic Plan
+
+> Consideration of Vision Statement
+
+**❌ Majority Winner: 1. London is a sustainable city within a thriving region, committed to innovation and overcoming challenges to provide a safe, affordable, welcoming, and healthy future for today and for the next generation. 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.2. Developing the 2023-2027 Strategic Plan: Continuing to Set Key Elements of the Strategic Plan
+
+> That the Draft Vision Statement BE AMENDED to remove the words "and overcoming challenges" to read as follows: London is a sustainable city within a thriving region, committed to innovation and providing a safe, affordable, welcoming, and healthy future for today and for the next generation.
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+**Absent (1):** [Steve Lehman](/councillors/current/s-lehman)
+
+</details>
+
+### 4.2. Developing the 2023-2027 Strategic Plan: Continuing to Set Key Elements of the Strategic Plan
+
+> Consideration of Mission Statement
+
+**❌ Majority Winner: 1. The mission of the City of London is to improve quality of life through bold, proactive, responsive, and accountable public services and administration. 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (9):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 4.2. Developing the 2023-2027 Strategic Plan: Continuing to Set Key Elements of the Strategic Plan
+
+> That the Draft Mission Statement BE AMENDED to add "and build a strong and vibrant community through" and replacing the word "public" with "city" to read as follows: "Our mission is to improve the quality of life and build a strong and vibrant community through bold, proactive, and accountable ci...
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (11-0)
+
+### 4.2. Developing the 2023-2027 Strategic Plan: Continuing to Set Key Elements of the Strategic Plan
+
+> Consideration of Draft Values
+
+**❌ Majority Winner: No majority 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (16):** [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.2. Developing the 2023-2027 Strategic Plan: Continuing to Set Key Elements of the Strategic Plan
+
+> That all three Draft Value sets BE REFERRED to the Municipal Council meeting of February 14, for consideration.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (11-0)
+
+### 4.2. Developing the 2023-2027 Strategic Plan: Continuing to Set Key Elements of the Strategic Plan
+
+> That the following Draft Vision and Mission BE ACCEPTED for additional consultation with the public: Vision London is a sustainable city within a thriving region, committed to innovation and providing a safe, affordable, welcoming, and healthy future for today and for the next generation. Mission...
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (11-0)
+
+### 4.2. Developing the 2023-2027 Strategic Plan: Continuing to Set Key Elements of the Strategic Plan
+
+> That the attached, revised draft Strategic Areas of Focus, Outcomes and Expected Results BE SHARED with the community to continue to seek feedback.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (11-0)
+
+### 4.7. Municipal Council resolution from its meeting held on January 24, 2023 with respect to the Integrated Transportation Community Advisory Committee
+
+> That the following actions be taken with respect to the Municipal Council resolution from its meeting held on January 24, 2023 regarding the Integrated Transportation Community Advisory Committee (ITCAC): a)  the Civic Administration BE DIRECTED to make necessary arrangements for hybrid meeting a...
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (11-0)
 ---
 
 ## Full Transcript
@@ -2253,139 +2388,3 @@ I don't see any. I'll look for a motion to adjourn by Councillor Hopkins, second
 That motion's carried. Okay, we're adjourned. Thank you for your time today.
 
 </details>
-
----
-
-## Votes
-
-*12 substantive votes at this meeting (5 contested, 7 unanimous). Procedural motions excluded.*
-
-### 4.1. London's Housing Pledge: A Path to 47,000 Units by 2031
-
-> That the delegation request from Mr. M. Wallace, London Development Institute (LDI), BE APPROVED to be heard at this time.
-
-**✅ Motion Passed (13 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
-
-**Absent (1):** [Steve Lehman](/councillors/current/s-lehman)
-
-</details>
-
-### 4.1. London's Housing Pledge: A Path to 47,000 Units by 2031
-
-> That part d) BE AMENDED to include the following: "it being noted that the Housing Supply Reference Group may expand to include additional members as may be appropriate, including but not limited to a member from the not-for-profit housing sector and a member involved in housing supply/housing re...
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (12-0)
-
-### 4.2. Developing the 2023-2027 Strategic Plan: Continuing to Set Key Elements of the Strategic Plan
-
-> Delegation request from J. Rodger, Executive Director, Anova and J. Dunn, Executive Director, London Abused Women's Centre BE APPROVED to be heard at this time.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (12-0)
-
-### 4.2. Developing the 2023-2027 Strategic Plan: Continuing to Set Key Elements of the Strategic Plan
-
-> Consideration of Vision Statement
-
-**❌ Majority Winner: 1. London is a sustainable city within a thriving region, committed to innovation and overcoming challenges to provide a safe, affordable, welcoming, and healthy future for today and for the next generation. 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Absent (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 4.2. Developing the 2023-2027 Strategic Plan: Continuing to Set Key Elements of the Strategic Plan
-
-> That the Draft Vision Statement BE AMENDED to remove the words "and overcoming challenges" to read as follows: London is a sustainable city within a thriving region, committed to innovation and providing a safe, affordable, welcoming, and healthy future for today and for the next generation.
-
-**✅ Motion Passed (13 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
-
-**Absent (1):** [Steve Lehman](/councillors/current/s-lehman)
-
-</details>
-
-### 4.2. Developing the 2023-2027 Strategic Plan: Continuing to Set Key Elements of the Strategic Plan
-
-> Consideration of Mission Statement
-
-**❌ Majority Winner: 1. The mission of the City of London is to improve quality of life through bold, proactive, responsive, and accountable public services and administration. 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Absent (9):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-</details>
-
-### 4.2. Developing the 2023-2027 Strategic Plan: Continuing to Set Key Elements of the Strategic Plan
-
-> That the Draft Mission Statement BE AMENDED to add "and build a strong and vibrant community through" and replacing the word "public" with "city" to read as follows: "Our mission is to improve the quality of life and build a strong and vibrant community through bold, proactive, and accountable ci...
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (11-0)
-
-### 4.2. Developing the 2023-2027 Strategic Plan: Continuing to Set Key Elements of the Strategic Plan
-
-> Consideration of Draft Values
-
-**❌ Majority Winner: No majority 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Absent (16):** [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 4.2. Developing the 2023-2027 Strategic Plan: Continuing to Set Key Elements of the Strategic Plan
-
-> That all three Draft Value sets BE REFERRED to the Municipal Council meeting of February 14, for consideration.
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (11-0)
-
-### 4.2. Developing the 2023-2027 Strategic Plan: Continuing to Set Key Elements of the Strategic Plan
-
-> That the following Draft Vision and Mission BE ACCEPTED for additional consultation with the public: Vision London is a sustainable city within a thriving region, committed to innovation and providing a safe, affordable, welcoming, and healthy future for today and for the next generation. Mission...
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (11-0)
-
-### 4.2. Developing the 2023-2027 Strategic Plan: Continuing to Set Key Elements of the Strategic Plan
-
-> That the attached, revised draft Strategic Areas of Focus, Outcomes and Expected Results BE SHARED with the community to continue to seek feedback.
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (11-0)
-
-### 4.7. Municipal Council resolution from its meeting held on January 24, 2023 with respect to the Integrated Transportation Community Advisory Committee
-
-> That the following actions be taken with respect to the Municipal Council resolution from its meeting held on January 24, 2023 regarding the Integrated Transportation Community Advisory Committee (ITCAC): a)  the Civic Administration BE DIRECTED to make necessary arrangements for hybrid meeting a...
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (11-0)
-

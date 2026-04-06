@@ -260,6 +260,36 @@ The Community and Protective Services Committee convened In Closed Session from 
 
 
 The meeting adjourned at 5:16 PM.
+
+---
+
+## Votes
+
+*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.3 and 2.5 to 2.7 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.4. Housing Collaborative Initiative Follow-Up and Next Steps
+
+> Motion to amend the staff recommendation to add the following: "d)    the Civic Administration BE DIRECTED to report back on the financial costs (by municipality and the total cost); and, e)    the Civic Administration BE DIRECTED to report back on monies collected and the details on any that rem...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.4. Housing Collaborative Initiative Follow-Up and Next Steps
+
+> Motion to approve the motion, as amended.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -632,34 +662,3 @@ Seconded by Councillor Ramen. A hand vote of all in favor of adjournment. The cl
 Thank you.
 
 </details>
-
----
-
-## Votes
-
-*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 to 2.3 and 2.5 to 2.7 BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 2.4. Housing Collaborative Initiative Follow-Up and Next Steps
-
-> Motion to amend the staff recommendation to add the following: "d)    the Civic Administration BE DIRECTED to report back on the financial costs (by municipality and the total cost); and, e)    the Civic Administration BE DIRECTED to report back on monies collected and the details on any that rem...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 2.4. Housing Collaborative Initiative Follow-Up and Next Steps
-
-> Motion to approve the motion, as amended.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-

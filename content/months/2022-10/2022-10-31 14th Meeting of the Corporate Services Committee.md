@@ -200,6 +200,44 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 12:47 PM.
 
 ****
+
+---
+
+## Votes
+
+*4 substantive votes at this meeting (0 contested, 4 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That items 2.1 and 2.2 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.1. Not to be heard before 12:05 PM - Tribunal - Development Charge Appeal - 2050 Linkway Boulevard
+
+> That, after convening as a tribunal under section 26 of By-law C.P.-1551-337 to hear a complaint under section 20 of the Development Charges Act 1997, S.O. 1997, c. 27, by Derek Satnik, Vice President of Technology of EVE Park London LP, of the property located at 2050 Linkway Boulevard, regardin...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.1. Not to be heard before 12:05 PM - Tribunal - Development Charge Appeal - 2050 Linkway Boulevard
+
+> That the Corporate Services Committee now convene as a tribunal under section 26 of By-law C.P.-1551-337 to hear a complaint under section 20 of the Development Charges Act, 1997 and provide the complainant an opportunity to make representations.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.1. Not to be heard before 12:05 PM - Tribunal - Development Charge Appeal - 2050 Linkway Boulevard
+
+> That the complaint under section 20 of the Development Charges Act 1997, S.O. 1997, c. 27, by Derek Satnik, Vice President of Technology of EVE Park London LP, of the property located at 2050 Linkway Boulevard, regarding the development charges being appealed, for the incorrect DC rates used for ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
 ---
 
 ## Full Transcript
@@ -414,42 +452,3 @@ And that's moved by Councillor Fife-Milar and seconded by Councillor Hamou. And 
 This is normally the point in the meeting where I say if you're looking for another committee, PEC starts at four, but there's no PEC tonight. So happy Halloween.
 
 </details>
-
----
-
-## Votes
-
-*4 substantive votes at this meeting (0 contested, 4 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That items 2.1 and 2.2 BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.1. Not to be heard before 12:05 PM - Tribunal - Development Charge Appeal - 2050 Linkway Boulevard
-
-> That, after convening as a tribunal under section 26 of By-law C.P.-1551-337 to hear a complaint under section 20 of the Development Charges Act 1997, S.O. 1997, c. 27, by Derek Satnik, Vice President of Technology of EVE Park London LP, of the property located at 2050 Linkway Boulevard, regardin...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.1. Not to be heard before 12:05 PM - Tribunal - Development Charge Appeal - 2050 Linkway Boulevard
-
-> That the Corporate Services Committee now convene as a tribunal under section 26 of By-law C.P.-1551-337 to hear a complaint under section 20 of the Development Charges Act, 1997 and provide the complainant an opportunity to make representations.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.1. Not to be heard before 12:05 PM - Tribunal - Development Charge Appeal - 2050 Linkway Boulevard
-
-> That the complaint under section 20 of the Development Charges Act 1997, S.O. 1997, c. 27, by Derek Satnik, Vice President of Technology of EVE Park London LP, of the property located at 2050 Linkway Boulevard, regarding the development charges being appealed, for the incorrect DC rates used for ...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-

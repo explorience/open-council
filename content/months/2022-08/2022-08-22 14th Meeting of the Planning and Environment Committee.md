@@ -1322,6 +1322,123 @@ The Planning and Environment Committee convenes, in Closed Session, from 11:06 P
 
 
 The meeting adjourned at 11:16 PM.
+
+---
+
+## Votes
+
+*13 substantive votes at this meeting (1 contested, 12 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.3 and 2.4 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2.2. 3493 Colonel Talbot Road - Request for Extension of Draft Plan Approval (39T-14504)
+
+> That, on the recommendation of the Director, Planning and Development, based on the application by 2219008 Ontario Limited (York Developments), relating to the lands located at 3493 Colonel Talbot Road, the Approval Authority BE ADVISED that the Municipal Council supports issuing a three (3) year...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.1. Zoning By-law:  Patio Restrictions
+
+> That the application by The Corporation of the City of London, relating to outdoor patios BE REFERRED back to the Civic Administration to report back at a future meeting of the Planning and Environment Committee with a revised by-law removing the seasonal patio time restrictions time in section 4...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.2. 3700 Colonel Talbot Road and 3645 Bostwick Road (Z-9521)
+
+> That the following actions be taken with respect to the application by MHBC Planning (Scott Allen, Partner), relating to lands located at 3700 Colonel Talbot Road and 3645 Bostwick Road: a)    the proposed revised, attached, by-law (Appendix “A”) BE INTRODUCED at the Municipal Council meeting to ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.4. Demolition Request for Heritage Designated Property at 520 Ontario Street, Old East Heritage Conservation District
+
+> That, on the recommendation of the Director, Planning and Development, with the advice of the Heritage Planner, the request to demolish the building on the heritage designated property at 520 Ontario Street, within the Old East Heritage Conservation District, BE PERMITTED pursuant to Section 42(1...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.5. 767 Fanshawe Park Road East (Z-9499)
+
+> That, on the recommendation of the Director, Planning and Development, based on the application by Phuc Minh Tran, relating to the property located at 767 Fanshawe Park Road East, the proposed by-law appended to the staff report dated August 22, 2022 as Appendix "A" BE INTRODUCED at the Municipal...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.6. A Portion of 4519, 4535 & 4557 Colonel Talbot Road (Z-9433)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Farhi Holdings Corp., relating to a portion of the properties located at 4519, 4535 and 4557 Colonel Talbot Road: a)    the proposed revised, attached, by-law (...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.7. 604 Beaverbrook Avenue (OZ-9483)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by 604 Beaverbrook Developments Inc. relating to the property located at 604 Beaverbrook Avenue: a)    the proposed by-law appended to the staff report dated Augus...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.8. 712 Base Line Road East (Z-9474)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Wellington Gate Inc., c/o Westdell Development Corporation, relating to the property located at 712 Base Line Road East: a)    the proposed by-law appended to t...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.9. 1737 Richmond Street (Z-9470)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Richmond Hyland Inc., c/o Westdell Development Corporation, relating to the property located at 1737 Richmond Street: a)    the proposed by-law appended to the ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.10. 21-41 Meadowlily Road North and 20 Norlan Avenue (OZ-9500)
+
+> hat, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Royal Premier Homes, relating to properties located at 21-41 Meadowlily Road North and 20 Norlan Avenue: a)    the proposed by-law appended to the staff report d...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.1. 183 and 197 Ann Street - Proposed Designation By-laws Under Part IV, Section 29 of the Ontario Heritage Act - Consideration of Objections
+
+> That A. Soufan, York Developments, BE GRANTED delegation status with respect to the proposed designation of the properties located at 183 and 197 Ann Street.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 4.1. 183 and 197 Ann Street - Proposed Designation By-laws Under Part IV, Section 29 of the Ontario Heritage Act - Consideration of Objections
+
+> That, on the recommendation of the Director, Planning and Development, with the advice of the Heritage Planner, with respect to the designation of built resources located at municipal addresses 183 Ann Street and 197 Ann Street, located on the consolidated parcel legally described as – LOTS 4, 5,...
+
+**✅ Motion Passed (3 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Anna Hopkins](/councillors/current/a-hopkins)
+
+**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+
+</details>
 ---
 
 ## Full Transcript
@@ -3030,121 +3147,3 @@ Thank you, and I see no further questions, we can proceed to vote, it was Counci
 Through the chair, the reason for going in camera tonight is a matter pertaining to advice that is subject to solicitor client privilege, including communications necessary for that purpose, from the solicitor and officers and employees of the corporation. The subject matter pertains to litigation or potential litigation with respect to an appeal at the Ontario Land Tribunal, and for the purpose of providing instructions and directions to officers and employees of the corporation. And I am looking for a motion to go in camera, moved by Councillor Lehman, seconded by Councillor Lewis, And do we need a-- can we do a--
 
 </details>
-
----
-
-## Votes
-
-*13 substantive votes at this meeting (1 contested, 12 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1, 2.3 and 2.4 BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 2.2. 3493 Colonel Talbot Road - Request for Extension of Draft Plan Approval (39T-14504)
-
-> That, on the recommendation of the Director, Planning and Development, based on the application by 2219008 Ontario Limited (York Developments), relating to the lands located at 3493 Colonel Talbot Road, the Approval Authority BE ADVISED that the Municipal Council supports issuing a three (3) year...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.1. Zoning By-law:  Patio Restrictions
-
-> That the application by The Corporation of the City of London, relating to outdoor patios BE REFERRED back to the Civic Administration to report back at a future meeting of the Planning and Environment Committee with a revised by-law removing the seasonal patio time restrictions time in section 4...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.2. 3700 Colonel Talbot Road and 3645 Bostwick Road (Z-9521)
-
-> That the following actions be taken with respect to the application by MHBC Planning (Scott Allen, Partner), relating to lands located at 3700 Colonel Talbot Road and 3645 Bostwick Road: a)    the proposed revised, attached, by-law (Appendix “A”) BE INTRODUCED at the Municipal Council meeting to ...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.4. Demolition Request for Heritage Designated Property at 520 Ontario Street, Old East Heritage Conservation District
-
-> That, on the recommendation of the Director, Planning and Development, with the advice of the Heritage Planner, the request to demolish the building on the heritage designated property at 520 Ontario Street, within the Old East Heritage Conservation District, BE PERMITTED pursuant to Section 42(1...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.5. 767 Fanshawe Park Road East (Z-9499)
-
-> That, on the recommendation of the Director, Planning and Development, based on the application by Phuc Minh Tran, relating to the property located at 767 Fanshawe Park Road East, the proposed by-law appended to the staff report dated August 22, 2022 as Appendix "A" BE INTRODUCED at the Municipal...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.6. A Portion of 4519, 4535 & 4557 Colonel Talbot Road (Z-9433)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Farhi Holdings Corp., relating to a portion of the properties located at 4519, 4535 and 4557 Colonel Talbot Road: a)    the proposed revised, attached, by-law (...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.7. 604 Beaverbrook Avenue (OZ-9483)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by 604 Beaverbrook Developments Inc. relating to the property located at 604 Beaverbrook Avenue: a)    the proposed by-law appended to the staff report dated Augus...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.8. 712 Base Line Road East (Z-9474)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Wellington Gate Inc., c/o Westdell Development Corporation, relating to the property located at 712 Base Line Road East: a)    the proposed by-law appended to t...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.9. 1737 Richmond Street (Z-9470)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Richmond Hyland Inc., c/o Westdell Development Corporation, relating to the property located at 1737 Richmond Street: a)    the proposed by-law appended to the ...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.10. 21-41 Meadowlily Road North and 20 Norlan Avenue (OZ-9500)
-
-> hat, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Royal Premier Homes, relating to properties located at 21-41 Meadowlily Road North and 20 Norlan Avenue: a)    the proposed by-law appended to the staff report d...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 4.1. 183 and 197 Ann Street - Proposed Designation By-laws Under Part IV, Section 29 of the Ontario Heritage Act - Consideration of Objections
-
-> That A. Soufan, York Developments, BE GRANTED delegation status with respect to the proposed designation of the properties located at 183 and 197 Ann Street.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 4.1. 183 and 197 Ann Street - Proposed Designation By-laws Under Part IV, Section 29 of the Ontario Heritage Act - Consideration of Objections
-
-> That, on the recommendation of the Director, Planning and Development, with the advice of the Heritage Planner, with respect to the designation of built resources located at municipal addresses 183 Ann Street and 197 Ann Street, located on the consolidated parcel legally described as – LOTS 4, 5,...
-
-**✅ Motion Passed (3 to 2) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (1):** [Anna Hopkins](/councillors/current/a-hopkins)
-
-**Absent (1):** [Ed Holder](/councillors/current/e-holder)
-
-</details>
-

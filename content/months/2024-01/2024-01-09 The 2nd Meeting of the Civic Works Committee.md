@@ -203,6 +203,28 @@ That the Deferred Matters List, as at December 12, 2023, BE RECEIVED.
 
 
 The meeting adjourned at 10:14 AM
+
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.5 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.1. 1st and 2nd Reports of the Environmental Stewardship and Action Community Advisory Committee
+
+> That the following actions be taken with respect to the 1st and 2nd Reports of the Environmental Stewardship and Action Community Advisory Committee (ESACAC), from the meetings held on December 6, 2023 and January 3, 2024, respectively: a)    with respect to the 1st Report of the ESACAC: i)    th...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -441,26 +463,3 @@ Councillor votes, yes. Housing the vote, the motion carries five to zero. Moving
 And we can do a hand vote for that. everyone is carried and thank you.
 
 </details>
-
----
-
-## Votes
-
-*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 to 2.5 BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.1. 1st and 2nd Reports of the Environmental Stewardship and Action Community Advisory Committee
-
-> That the following actions be taken with respect to the 1st and 2nd Reports of the Environmental Stewardship and Action Community Advisory Committee (ESACAC), from the meetings held on December 6, 2023 and January 3, 2024, respectively: a)    with respect to the 1st Report of the ESACAC: i)    th...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-

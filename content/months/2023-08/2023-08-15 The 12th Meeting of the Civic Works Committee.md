@@ -432,6 +432,94 @@ Motion to approve the addition of the following clauses:
 
 
 The meeting adjourned at 1:36 PM.
+
+---
+
+## Votes
+
+*8 substantive votes at this meeting (2 contested, 6 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That items 2.1 to 2.8 BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. REQUEST FOR DELEGATION STATUS - M. Judson, Springbank Park Recreational Dam
+
+> Motion to approve Delegation Request from M. Judson to be heard at this meeting. (2023-R04)
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 4.2. Green Bin and Collection Program Changes
+
+> That the following motion BE APPROVED: That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report dated August 15, 2023, related to the Green Bin and Collection Program Changes: a)    the Civic Administra...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.2. Green Bin and Collection Program Changes
+
+> Motion to add the following to the clause as part d): the Garbage Tag fee for use at the curb for extra bags or containers of garbage or for Bagged Residential Garbage brought to the EnviroDepots be increased from $1.50 to $2.00 as part of the upcoming Fees and Charges By-law review as part of th...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 4.2. Green Bin and Collection Program Changes
+
+> Motion to amend part d) to include an it being noted clause that will delay the increase by 6 months.
+
+**❌ Motion Failed (2 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Sam Trosow](/councillors/current/s-trosow), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Nay (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Corrine Rahman](/councillors/current/c-rahman)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 4.3. 9th Report of the Environmental Stewardship and Action Community Advisory Committee
+
+> That the following actions be taken with respect to the 9th Report of the Environmental Stewardship and Action Community Advisory Committee, from its meeting held on August 2, 2023: a)    the Municipal Council BE ADVISED that the Environmental Stewardship and Action Community Advisory Committee (...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 5.1. Referred by Municipal Council on July 25th - Clause 5.1 of the 8th Report of the Environmental Stewardship and Action Community Advisory Committee
+
+> That the following motion BE APPROVED:     That the Civic Administration BE DIRECTED to prepare an information brochure to assist Municipal Law Enforcement Officers to explain the Council Policy on Naturalized Areas and Wildflower Meadows in response to community complaints and with respect to th...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 5.1. Referred by Municipal Council on July 25th - Clause 5.1 of the 8th Report of the Environmental Stewardship and Action Community Advisory Committee
+
+> Motion to approve the addition of the following clauses:    "that a verbal delegation from B. Samuels, and the staff report dated August 15, 2023, with respect to this matter, were received" "it being noted that the communication, as appended to the Added Agenda from L. Johnson, with respect to t...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -874,92 +962,3 @@ There are no further items under deferred matters in additional business. We'll 
 Vocal for Councilor Vameerbergen. I vote yes. Thank you, everyone. Have a great rest of your day.
 
 </details>
-
----
-
-## Votes
-
-*8 substantive votes at this meeting (2 contested, 6 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That items 2.1 to 2.8 BE APPROVED.
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 4.1. REQUEST FOR DELEGATION STATUS - M. Judson, Springbank Park Recreational Dam
-
-> Motion to approve Delegation Request from M. Judson to be heard at this meeting. (2023-R04)
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 4.2. Green Bin and Collection Program Changes
-
-> That the following motion BE APPROVED: That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report dated August 15, 2023, related to the Green Bin and Collection Program Changes: a)    the Civic Administra...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 4.2. Green Bin and Collection Program Changes
-
-> Motion to add the following to the clause as part d): the Garbage Tag fee for use at the curb for extra bags or containers of garbage or for Bagged Residential Garbage brought to the EnviroDepots be increased from $1.50 to $2.00 as part of the upcoming Fees and Charges By-law review as part of th...
-
-**✅ Motion Passed (4 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman)
-
-**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
-
-</details>
-
-### 4.2. Green Bin and Collection Program Changes
-
-> Motion to amend part d) to include an it being noted clause that will delay the increase by 6 months.
-
-**❌ Motion Failed (2 to 3) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Sam Trosow](/councillors/current/s-trosow), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-**Nay (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Corrine Rahman](/councillors/current/c-rahman)
-
-**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
-
-</details>
-
-### 4.3. 9th Report of the Environmental Stewardship and Action Community Advisory Committee
-
-> That the following actions be taken with respect to the 9th Report of the Environmental Stewardship and Action Community Advisory Committee, from its meeting held on August 2, 2023: a)    the Municipal Council BE ADVISED that the Environmental Stewardship and Action Community Advisory Committee (...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 5.1. Referred by Municipal Council on July 25th - Clause 5.1 of the 8th Report of the Environmental Stewardship and Action Community Advisory Committee
-
-> That the following motion BE APPROVED:     That the Civic Administration BE DIRECTED to prepare an information brochure to assist Municipal Law Enforcement Officers to explain the Council Policy on Naturalized Areas and Wildflower Meadows in response to community complaints and with respect to th...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 5.1. Referred by Municipal Council on July 25th - Clause 5.1 of the 8th Report of the Environmental Stewardship and Action Community Advisory Committee
-
-> Motion to approve the addition of the following clauses:    "that a verbal delegation from B. Samuels, and the staff report dated August 15, 2023, with respect to this matter, were received" "it being noted that the communication, as appended to the Added Agenda from L. Johnson, with respect to t...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-

@@ -135,6 +135,28 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 4:12 PM.
 
 ****
+
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2.2. Municipal Accommodation Tax - Amended By-law to Include Short-Term Accommodations
+
+> That, on the recommendation of the Deputy City Manager, Finance Supports, the proposed by-law as appended to the staff report dated August 30, 2022 as Appendix ‘A’, BE INTRODUCED at the Municipal Council meeting on September 6, 2022, with respect to the by-law entitled “A By-law to Impose a Munic...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 4.1. Allocation of Remaining London Community Recovery Network (LCRN) Funding
+
+> That the Civic Administration, including (but not limited to) staff in Social and Health Development BE DIRECTED to work together with Community Partners to develop London Community Recovery Network (LCRN) business cases with a focus on addressing London’s social recovery, especially in mitigatin...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
 ---
 
 ## Full Transcript
@@ -195,26 +217,3 @@ With that, can we do a show of hands, Clerk? So we need you to shine, we need to
 Meeting is adjourned. We will see you at the next committee meetings council before.
 
 </details>
-
----
-
-## Votes
-
-*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
-
-### 2.2. Municipal Accommodation Tax - Amended By-law to Include Short-Term Accommodations
-
-> That, on the recommendation of the Deputy City Manager, Finance Supports, the proposed by-law as appended to the staff report dated August 30, 2022 as Appendix ‘A’, BE INTRODUCED at the Municipal Council meeting on September 6, 2022, with respect to the by-law entitled “A By-law to Impose a Munic...
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (12-0)
-
-### 4.1. Allocation of Remaining London Community Recovery Network (LCRN) Funding
-
-> That the Civic Administration, including (but not limited to) staff in Social and Health Development BE DIRECTED to work together with Community Partners to develop London Community Recovery Network (LCRN) business cases with a focus on addressing London’s social recovery, especially in mitigatin...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (13-0)
-

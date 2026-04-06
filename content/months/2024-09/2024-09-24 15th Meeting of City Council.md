@@ -2854,6 +2854,169 @@ The meeting adjourned at 5:15 PM.
 > **Bill No. 335**
 > 
 > By-law No. A.-8537-239 - A by-law to repeal C.P.-1584-80, as amended, being “A by-law to approve and authorize the use of the Office-to-Residential Conversion Loan Agreement template between The Corporation of the City of London (the “City”) and a Registered Owner (the “Borrower”) and to approve an Office-to Residential Conversion Loan Agreement template to encourage the conversion of vacant office space into residential units, and to delegate the authority to enter into such Agreements to the Deputy City Manager, Planning and Economic Development or their written designate” (Mayor)
+
+---
+
+## Votes
+
+*14 substantive votes at this meeting (5 contested, 9 unanimous). Procedural motions excluded.*
+
+### 8.1. 14th Report of the Corporate Services Committee
+
+> That the 14th Report of the Corporate Services Committee BE APPROVED with the exception of item 6 (2.3).
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.1.6. (2.3) Downtown London Entertainment and Sports Centre Naming Rights
+
+> That, on the recommendation of the Deputy City Manager, Finance Supports, the name change for the Downtown London Entertainment and Sports Centre BE APPROVED from Budweiser Gardens to Canada Life Place.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 8.2. 11th Report of the Community and Protective Services Committee
+
+> That the 11th Report of the Community and Protective Services Committee BE APPROVED, with the exception of items 4 (2.2) and 5 (2.3)
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.2.4. (2.2) Renovictions - Amendments to the Business Licensing By-law to Introduce a Rental Unit Repair Licence (Relates to Bills No. 307, 308 and 320)
+
+> That the proposed by-law to amend By-law A-54, as appended to the staff report dated September 9, 2024, BE AMENDED to reflect the following changes in Schedule A-5 Penalty Schedule for Business Licensing By-law: a)    Item # 143 being Rental Unit Repair Licence – Fail to apply for Licence BE AMEN...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.2.4. (2.2) Renovictions - Amendments to the Business Licensing By-law to Introduce a Rental Unit Repair Licence (Relates to Bills No. 307, 308 and 320)
+
+> That the motion, as amended, BE APPROVED At 2:41 PM, His Worship Mayor J. Morgan, places Deputy Mayor S. Lewis in the Chair.   At 2:44 PM, His Worship Mayor J. Morgan resumes the Chair.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.2.4. (2.2) Renovictions - Amendments to the Business Licensing By-law to Introduce a Rental Unit Repair Licence (Relates to Bills No. 307, 308 and 320)
+
+> That the staff report related to Renovictions and Amendments to the Business Licensing By-law to Introduce a Rental Unit Repair Licence BE REFERRED to the next meeting of Community and Protective Services Committee to include temporary alternative accommodation for displaced tenants and short-ter...
+
+**❌ Motion Failed (5 to 9)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke)
+
+**Nay (9):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Steve Lehman](/councillors/current/s-lehman)
+
+</details>
+
+### 8.3. 12th Report of the Civic Works Committee
+
+> That the 12th Report of the Civic Works Committee BE APPROVED It being noted that Councillor P. Van Meerbergen re-enters the meeting at 2:49 PM
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.4. 14th Report of the Strategic Priorities and Policy Committee
+
+> That the 14th Report of the Strategic Priorities and Policy Committee BE APPROVED with the exception of item 6 (2.2) It being noted that Councillor S. Trosow leaves the meeting at 2:57 PM
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 8.5. 13th Special Report of the Planning and Environment Committee
+
+> That the 13th Special Report of the Planning and Environment Committee BE APPROVED
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.6. 14th Report of the Planning and Environment Committee
+
+> That the 14th Report of the Planning and Environment Committee BE APPROVED with the exception of items 4 (3.1) and 9 (3.6) It being noted that Councillor S. Trosow leaves the meeting at 3:03 PM It being noted that Councillor S. Trosow re-enters the meeting at 3:04 PM
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 8.6.4. (3.1) 2-4 Audrey Avenue and 186-188 Huron Street (Z-9755) (Relates to Bill No. 327)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by KAP Holdings Inc. (c/o Zelinka Priamo Ltd.), relating to the properties located at 2-4 Audrey Avenue and 186-188 Huron Street: a)    the proposed by-law appende...
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+**Absent (1):** [Steve Lehman](/councillors/current/s-lehman)
+
+</details>
+
+### 8.6.9. (3.6) Heights Review/Transit Village/Major Shopping Area (OZ-9726, OZ-9727, O-9752 and O-9753) (Relates to Bills No. 311 and 332)
+
+> That the motion with respect to Phase 2 of the Section 26 Official Plan Review of The London Plan be amended as follows: a)    the Official Plan amendment is revised by removing changes to where stacked townhouses are permitted along Neighbourhood Connector street classifications, and maintaining...
+
+**❌ Motion Failed (6 to 8) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (8):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Steve Lehman](/councillors/current/s-lehman)
+
+</details>
+
+### 8.6.9. (3.6) Heights Review/Transit Village/Major Shopping Area (OZ-9726, OZ-9727, O-9752 and O-9753) (Relates to Bills No. 311 and 332)
+
+> That the Council recess at this time, for 10 minutes.
+
+**✅ Motion Passed (12 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy)
+
+**Absent (1):** [Steve Lehman](/councillors/current/s-lehman)
+
+</details>
+
+### 8.6.9. (3.6) Heights Review/Transit Village/Major Shopping Area (OZ-9726, OZ-9727, O-9752 and O-9753) (Relates to Bills No. 311 and 332)
+
+> That the motion, as amended, BE APPROVED
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+**Absent (1):** [Steve Lehman](/councillors/current/s-lehman)
+
+</details>
 ---
 
 ## Full Transcript
@@ -3948,167 +4111,3 @@ We're gonna do that by hand. All those in favor of adjournment. Close the vote y
 All right, thank you, we're adjourned.
 
 </details>
-
----
-
-## Votes
-
-*14 substantive votes at this meeting (5 contested, 9 unanimous). Procedural motions excluded.*
-
-### 8.1. 14th Report of the Corporate Services Committee
-
-> That the 14th Report of the Corporate Services Committee BE APPROVED with the exception of item 6 (2.3).
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.1.6. (2.3) Downtown London Entertainment and Sports Centre Naming Rights
-
-> That, on the recommendation of the Deputy City Manager, Finance Supports, the name change for the Downtown London Entertainment and Sports Centre BE APPROVED from Budweiser Gardens to Canada Life Place.
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 8.2. 11th Report of the Community and Protective Services Committee
-
-> That the 11th Report of the Community and Protective Services Committee BE APPROVED, with the exception of items 4 (2.2) and 5 (2.3)
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.2.4. (2.2) Renovictions - Amendments to the Business Licensing By-law to Introduce a Rental Unit Repair Licence (Relates to Bills No. 307, 308 and 320)
-
-> That the proposed by-law to amend By-law A-54, as appended to the staff report dated September 9, 2024, BE AMENDED to reflect the following changes in Schedule A-5 Penalty Schedule for Business Licensing By-law: a)    Item # 143 being Rental Unit Repair Licence – Fail to apply for Licence BE AMEN...
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.2.4. (2.2) Renovictions - Amendments to the Business Licensing By-law to Introduce a Rental Unit Repair Licence (Relates to Bills No. 307, 308 and 320)
-
-> That the motion, as amended, BE APPROVED At 2:41 PM, His Worship Mayor J. Morgan, places Deputy Mayor S. Lewis in the Chair.   At 2:44 PM, His Worship Mayor J. Morgan resumes the Chair.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.2.4. (2.2) Renovictions - Amendments to the Business Licensing By-law to Introduce a Rental Unit Repair Licence (Relates to Bills No. 307, 308 and 320)
-
-> That the staff report related to Renovictions and Amendments to the Business Licensing By-law to Introduce a Rental Unit Repair Licence BE REFERRED to the next meeting of Community and Protective Services Committee to include temporary alternative accommodation for displaced tenants and short-ter...
-
-**❌ Motion Failed (5 to 9)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke)
-
-**Nay (9):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (1):** [Steve Lehman](/councillors/current/s-lehman)
-
-</details>
-
-### 8.3. 12th Report of the Civic Works Committee
-
-> That the 12th Report of the Civic Works Committee BE APPROVED It being noted that Councillor P. Van Meerbergen re-enters the meeting at 2:49 PM
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.4. 14th Report of the Strategic Priorities and Policy Committee
-
-> That the 14th Report of the Strategic Priorities and Policy Committee BE APPROVED with the exception of item 6 (2.2) It being noted that Councillor S. Trosow leaves the meeting at 2:57 PM
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 8.5. 13th Special Report of the Planning and Environment Committee
-
-> That the 13th Special Report of the Planning and Environment Committee BE APPROVED
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.6. 14th Report of the Planning and Environment Committee
-
-> That the 14th Report of the Planning and Environment Committee BE APPROVED with the exception of items 4 (3.1) and 9 (3.6) It being noted that Councillor S. Trosow leaves the meeting at 3:03 PM It being noted that Councillor S. Trosow re-enters the meeting at 3:04 PM
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 8.6.4. (3.1) 2-4 Audrey Avenue and 186-188 Huron Street (Z-9755) (Relates to Bill No. 327)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by KAP Holdings Inc. (c/o Zelinka Priamo Ltd.), relating to the properties located at 2-4 Audrey Avenue and 186-188 Huron Street: a)    the proposed by-law appende...
-
-**✅ Motion Passed (13 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
-
-**Absent (1):** [Steve Lehman](/councillors/current/s-lehman)
-
-</details>
-
-### 8.6.9. (3.6) Heights Review/Transit Village/Major Shopping Area (OZ-9726, OZ-9727, O-9752 and O-9753) (Relates to Bills No. 311 and 332)
-
-> That the motion with respect to Phase 2 of the Section 26 Official Plan Review of The London Plan be amended as follows: a)    the Official Plan amendment is revised by removing changes to where stacked townhouses are permitted along Neighbourhood Connector street classifications, and maintaining...
-
-**❌ Motion Failed (6 to 8) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (8):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (1):** [Steve Lehman](/councillors/current/s-lehman)
-
-</details>
-
-### 8.6.9. (3.6) Heights Review/Transit Village/Major Shopping Area (OZ-9726, OZ-9727, O-9752 and O-9753) (Relates to Bills No. 311 and 332)
-
-> That the Council recess at this time, for 10 minutes.
-
-**✅ Motion Passed (12 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (2):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy)
-
-**Absent (1):** [Steve Lehman](/councillors/current/s-lehman)
-
-</details>
-
-### 8.6.9. (3.6) Heights Review/Transit Village/Major Shopping Area (OZ-9726, OZ-9727, O-9752 and O-9753) (Relates to Bills No. 311 and 332)
-
-> That the motion, as amended, BE APPROVED
-
-**✅ Motion Passed (13 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
-
-**Absent (1):** [Steve Lehman](/councillors/current/s-lehman)
-
-</details>
-

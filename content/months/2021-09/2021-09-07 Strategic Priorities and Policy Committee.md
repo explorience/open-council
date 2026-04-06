@@ -383,6 +383,90 @@ That the meeting be adjourned.
 The meeting adjourned at 5:13 PM.
 
 ****
+
+---
+
+## Votes
+
+*8 substantive votes at this meeting (2 contested, 6 unanimous). Procedural motions excluded.*
+
+### 4.2. Downtown Business Improvement Association Appointment
+
+> That consideration of an interim Councillor appointment to the London Downtown Business Association Board of Directors BE REFERRED to a future meeting of the Strategic Priorities and Policy Committee in order to allow for members of Council to express their interest in the appointment.
+
+**❌ Motion Failed (4 to 9)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Shawn Lewis](/councillors/current/s-lewis), [Phil Squire](/councillors/current/p-squire)
+
+**Nay (7):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner)
+
+**Absent (2):** [Steve Lehman](/councillors/current/s-lehman), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+</details>
+
+### 4.2. Downtown Business Improvement Association Appointment
+
+> Interim Appointment to the London Downtown Business Association
+
+**❌ Majority Winner: J. Helmer 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+</details>
+
+### 4.2. Downtown Business Improvement Association Appointment
+
+> That Councillor J. Helmer BE APPOINTED as the Municipal Council representative on the Downtown Business Area Board to replace Councillor A. Kayabaga, on an interim basis until such time as the leave of Councillor Kayabaga is resolved.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (11-0)
+
+### 4.4. London Transit Commission Vacancy
+
+> That the resignation of Tanya Park from the London Transit Commission as of October 22, 2021 BE ACCEPTED and the City Clerk BE DIRECTED to publicly advertise for a replacement appointment with applications to be considered at the next meeting of the Strategic Priorities and Policy Committee.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 4.5. Appointment to the London Hydro Inc. Board of Directors
+
+> That, on the recommendation of the Corporate Services Committee, the attached proposed by-law (Appendix “A”) BE INTRODUCED at the Municipal Council meeting to be held September 14, 2021 to: a)     ratify and confirm the Resolution of the Shareholder of London Hydro Inc., attached as Schedule “A” ...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 5.1. (ADDED) Request of Appointment of Councillor Lehman to the Hyde Park BIA
+
+> That the resignation of Councillor J. Morgan from the Hyde Park BIA, BE ACCEPTED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 5.1. (ADDED) Request of Appointment of Councillor Lehman to the Hyde Park BIA
+
+> That nominations for an appointment to the Hyde Park BIA be opened.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 5.1. (ADDED) Request of Appointment of Councillor Lehman to the Hyde Park BIA
+
+> That nominations be closed and Councillor S. Lehman BE APPOINTED to the Hyde Park Business Improvement Association Board of Directors, for the term ending November 15, 2022.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
 ---
 
 ## Full Transcript
@@ -701,88 +785,3 @@ I see Councillor and Mirberg and seconded by Councillor Hopkins. Let's just do a
 Colleagues, thanks very much. We'll see you all soon.
 
 </details>
-
----
-
-## Votes
-
-*8 substantive votes at this meeting (2 contested, 6 unanimous). Procedural motions excluded.*
-
-### 4.2. Downtown Business Improvement Association Appointment
-
-> That consideration of an interim Councillor appointment to the London Downtown Business Association Board of Directors BE REFERRED to a future meeting of the Strategic Priorities and Policy Committee in order to allow for members of Council to express their interest in the appointment.
-
-**❌ Motion Failed (4 to 9)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Shawn Lewis](/councillors/current/s-lewis), [Phil Squire](/councillors/current/p-squire)
-
-**Nay (7):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner)
-
-**Absent (2):** [Steve Lehman](/councillors/current/s-lehman), [Arielle Kayabaga](/councillors/current/a-kayabaga)
-
-</details>
-
-### 4.2. Downtown Business Improvement Association Appointment
-
-> Interim Appointment to the London Downtown Business Association
-
-**❌ Majority Winner: J. Helmer 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Absent (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Arielle Kayabaga](/councillors/current/a-kayabaga)
-
-</details>
-
-### 4.2. Downtown Business Improvement Association Appointment
-
-> That Councillor J. Helmer BE APPOINTED as the Municipal Council representative on the Downtown Business Area Board to replace Councillor A. Kayabaga, on an interim basis until such time as the leave of Councillor Kayabaga is resolved.
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (11-0)
-
-### 4.4. London Transit Commission Vacancy
-
-> That the resignation of Tanya Park from the London Transit Commission as of October 22, 2021 BE ACCEPTED and the City Clerk BE DIRECTED to publicly advertise for a replacement appointment with applications to be considered at the next meeting of the Strategic Priorities and Policy Committee.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (12-0)
-
-### 4.5. Appointment to the London Hydro Inc. Board of Directors
-
-> That, on the recommendation of the Corporate Services Committee, the attached proposed by-law (Appendix “A”) BE INTRODUCED at the Municipal Council meeting to be held September 14, 2021 to: a)     ratify and confirm the Resolution of the Shareholder of London Hydro Inc., attached as Schedule “A” ...
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (12-0)
-
-### 5.1. (ADDED) Request of Appointment of Councillor Lehman to the Hyde Park BIA
-
-> That the resignation of Councillor J. Morgan from the Hyde Park BIA, BE ACCEPTED.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (12-0)
-
-### 5.1. (ADDED) Request of Appointment of Councillor Lehman to the Hyde Park BIA
-
-> That nominations for an appointment to the Hyde Park BIA be opened.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (12-0)
-
-### 5.1. (ADDED) Request of Appointment of Councillor Lehman to the Hyde Park BIA
-
-> That nominations be closed and Councillor S. Lehman BE APPOINTED to the Hyde Park Business Improvement Association Board of Directors, for the term ending November 15, 2022.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (12-0)
-

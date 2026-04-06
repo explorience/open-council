@@ -596,6 +596,114 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 1:24 PM.
 
 ****
+
+---
+
+## Votes
+
+*9 substantive votes at this meeting (4 contested, 5 unanimous). Procedural motions excluded.*
+
+### 4. Items for Direction
+
+> That, pursuant to section 27.6 of the Council Procedure By-law, a change in order of the Budget Committee Agenda BE APPROVED, to provide for Items 4.5 and 4.6 in Stage 4, Items for Direction, to be considered after Item 4.2 of the Budget Committee Agenda.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 4.1. Communication - Museum London - J. Bevan, Executive Director
+
+> That the delegation request from J. Bevan, Executive Director, Museum London BE APPROVED to be heard at this time.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 4.2. Communication - Middlesex-London Health Unit - E. Williams, Chief Executive Officer
+
+> That the delegation request from E. Williams, Chief Executive Officer, Middlesex-London Health Unit BE APPROVED to be heard at this time.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 4.3. Communication - Cost Saving Opportunities within Heritage - Councillor S. Stevenson
+
+> That the Civic Administration BE DIRECTED to prepare a Business Case for Council's consideration reducing the annual budget of the Heritage Department. This report will include the options available to Council and the related cost savings and staffing impacts; it being noted that the Budget Commi...
+
+**❌ Motion Failed (3 to 12)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 4.3. Communication - Cost Saving Opportunities within Heritage - Councillor S. Stevenson
+
+> That this matter BE REFERRED to Civic Administration to bring forward a report to a future meeting of the Planning and Environment Committee after the Community Advisory Committee on Planning has completed their review of the Heritage Property List.
+
+**❌ Motion Failed (5 to 10)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Nay (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.4. Communication - Cost Savings Opportunities within Advisory Committee Budget - Councillor S. Stevenson
+
+> That the Civic Administration BE DIRECTED to prepare a Business Case for Council’s consideration that reduces the annual budget for the Advisory Committees. This report will include a detailed breakdown of the new recommended budget amount and any options available for cost savings; it being note...
+
+**❌ Motion Failed (3 to 11)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+</details>
+
+### 4.5. (ADDED) Communication and Presentation - Kettle Creek Conservation Authority - E. VanHooren, General Manager/Secretary Treasurer and T. Noble, Chair
+
+> That the delegation request from E. VanHooren, General Manager/Secretary Treasurer, Kettle Creek Conservation Authority BE APPROVED to be heard at this time.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 4.6. (ADDED) Budget Updates Requested by the Mayor and the Budget Chair
+
+> That the delegation request from C. Finn, General Manager, Tourism London BE APPROVED to be heard at this time.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 4.6. (ADDED) Budget Updates Requested by the Mayor and the Budget Chair
+
+> That the motion BE AMENDED to add a new part that reads as follows: That the London & Middlesex Housing Corporation BE REQUESTED to prepare a business case to consider pros, cons, costs, and available sources of funding for additional investment in London & Middlesex Housing Corporation properties.
+
+**❌ Motion Failed (1 to 14)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+**Nay (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
 ---
 
 ## Full Transcript
@@ -1536,112 +1644,3 @@ I have a mover and Councillor Frank, a Councillor and a seconder and Councillor 
 Madam budget chair, do you want to ship some tacos out my way?
 
 </details>
-
----
-
-## Votes
-
-*9 substantive votes at this meeting (4 contested, 5 unanimous). Procedural motions excluded.*
-
-### 4. Items for Direction
-
-> That, pursuant to section 27.6 of the Council Procedure By-law, a change in order of the Budget Committee Agenda BE APPROVED, to provide for Items 4.5 and 4.6 in Stage 4, Items for Direction, to be considered after Item 4.2 of the Budget Committee Agenda.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 4.1. Communication - Museum London - J. Bevan, Executive Director
-
-> That the delegation request from J. Bevan, Executive Director, Museum London BE APPROVED to be heard at this time.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 4.2. Communication - Middlesex-London Health Unit - E. Williams, Chief Executive Officer
-
-> That the delegation request from E. Williams, Chief Executive Officer, Middlesex-London Health Unit BE APPROVED to be heard at this time.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 4.3. Communication - Cost Saving Opportunities within Heritage - Councillor S. Stevenson
-
-> That the Civic Administration BE DIRECTED to prepare a Business Case for Council's consideration reducing the annual budget of the Heritage Department. This report will include the options available to Council and the related cost savings and staffing impacts; it being noted that the Budget Commi...
-
-**❌ Motion Failed (3 to 12)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-</details>
-
-### 4.3. Communication - Cost Saving Opportunities within Heritage - Councillor S. Stevenson
-
-> That this matter BE REFERRED to Civic Administration to bring forward a report to a future meeting of the Planning and Environment Committee after the Community Advisory Committee on Planning has completed their review of the Heritage Property List.
-
-**❌ Motion Failed (5 to 10)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-**Nay (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 4.4. Communication - Cost Savings Opportunities within Advisory Committee Budget - Councillor S. Stevenson
-
-> That the Civic Administration BE DIRECTED to prepare a Business Case for Council’s consideration that reduces the annual budget for the Advisory Committees. This report will include a detailed breakdown of the new recommended budget amount and any options available for cost savings; it being note...
-
-**❌ Motion Failed (3 to 11)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (1):** [Shawn Lewis](/councillors/current/s-lewis)
-
-</details>
-
-### 4.5. (ADDED) Communication and Presentation - Kettle Creek Conservation Authority - E. VanHooren, General Manager/Secretary Treasurer and T. Noble, Chair
-
-> That the delegation request from E. VanHooren, General Manager/Secretary Treasurer, Kettle Creek Conservation Authority BE APPROVED to be heard at this time.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 4.6. (ADDED) Budget Updates Requested by the Mayor and the Budget Chair
-
-> That the delegation request from C. Finn, General Manager, Tourism London BE APPROVED to be heard at this time.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 4.6. (ADDED) Budget Updates Requested by the Mayor and the Budget Chair
-
-> That the motion BE AMENDED to add a new part that reads as follows: That the London & Middlesex Housing Corporation BE REQUESTED to prepare a business case to consider pros, cons, costs, and available sources of funding for additional investment in London & Middlesex Housing Corporation properties.
-
-**❌ Motion Failed (1 to 14)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (1):** [Sam Trosow](/councillors/current/s-trosow)
-
-**Nay (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-

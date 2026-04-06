@@ -560,6 +560,68 @@ The Planning and Environment Committee convened, in Closed Session, from 4:53 PM
 
 
 The meeting adjourned at 5:34 PM.
+
+---
+
+## Votes
+
+*7 substantive votes at this meeting (0 contested, 7 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.3, inclusive, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.1. 2060 Jetstream (Z-9592)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by The Corporation of the City of London, relating to the property located at 2060 Jetstream Road: a)    consistent with Policy 43_1 of the Official Plan for the C...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.2. 595 Proudfoot Lane (Z-9591)
+
+> That, on the recommendation of the Director, Planning and Development, based on the application by Old Oak Properties Inc., relating to the property located at 595 Proudfoot Lane, the proposed by-law appended to the staff report dated May 1, 2023 as Appendix "A" BE INTRODUCED at the Municipal Cou...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.3. 3480 Morgan Avenue (Z-9531)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Sifton Properties Limited, relating to the property located at 3480 Morgan Avenue:     a)    the request to amend Zoning By-law No. Z.-1 to change the zoning of...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.4. Delegation of Authority - Subdivisions and Condominiums, and Official Plan Amendment Policies for Public Meetings (O-9606)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application regarding Delegation of Authority – Subdivisions and Condominiums: a)    the proposed by-law appended to the Planning and Environment Committee Added Agenda as App...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 3.5. 614 Westmount Crescent (Z-9553)
+
+> That, on the recommendation of the Director, Planning and Development, based on the application by LA-Rosa Community Ltd., relating to the property located at 614 Westmount Crescent, the Site Plan Approval Authority BE REQUESTED to consider adding clauses relating to the access alignment across f...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 6. Confidential
+
+> Motion to go in camera at 453
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
 ---
 
 ## Full Transcript
@@ -870,66 +932,3 @@ Thank you. I'll look for a motion to adjourn. Councillor Frank, seconded by Coun
 We are adjourned. Thank you.
 
 </details>
-
----
-
-## Votes
-
-*7 substantive votes at this meeting (0 contested, 7 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 to 2.3, inclusive, BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.1. 2060 Jetstream (Z-9592)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by The Corporation of the City of London, relating to the property located at 2060 Jetstream Road: a)    consistent with Policy 43_1 of the Official Plan for the C...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.2. 595 Proudfoot Lane (Z-9591)
-
-> That, on the recommendation of the Director, Planning and Development, based on the application by Old Oak Properties Inc., relating to the property located at 595 Proudfoot Lane, the proposed by-law appended to the staff report dated May 1, 2023 as Appendix "A" BE INTRODUCED at the Municipal Cou...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.3. 3480 Morgan Avenue (Z-9531)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Sifton Properties Limited, relating to the property located at 3480 Morgan Avenue:     a)    the request to amend Zoning By-law No. Z.-1 to change the zoning of...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.4. Delegation of Authority - Subdivisions and Condominiums, and Official Plan Amendment Policies for Public Meetings (O-9606)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application regarding Delegation of Authority – Subdivisions and Condominiums: a)    the proposed by-law appended to the Planning and Environment Committee Added Agenda as App...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.5. 614 Westmount Crescent (Z-9553)
-
-> That, on the recommendation of the Director, Planning and Development, based on the application by LA-Rosa Community Ltd., relating to the property located at 614 Westmount Crescent, the Site Plan Approval Authority BE REQUESTED to consider adding clauses relating to the access alignment across f...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 6. Confidential
-
-> Motion to go in camera at 453
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-

@@ -224,6 +224,44 @@ That the Civic Works Committee Deferred Matters List as at December 6, 2021, BE 
 
 
 The meeting adjourned at 12:55 PM.
+
+---
+
+## Votes
+
+*4 substantive votes at this meeting (0 contested, 4 unanimous). Procedural motions excluded.*
+
+### 1.2. Election of Vice-Chair for the term ending November 14, 2022
+
+> That Councillor J. Fyfe-Millar BE ELECTED Vice-Chair of the Civic Works Committee for the term ending November 14, 2022.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 2. Consent
+
+> That Items 2.1 and 2.3 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.2. Supply and Delivery of Transit Signal Priority and Emergency Vehicle Preemption System
+
+> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report dated December 14, 2021, related to RFP21-08 Transit Signal Priority and Emergency Vehicle Preemption System: a)        Applied Information Inc. ...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. A Conceptual Framework for Regional Transportation in London
+
+> That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to the staff report dated December 14, 2021, related to regional transportation in Southwestern Ontario: a)        the conceptual framework for regional transport...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
 ---
 
 ## Full Transcript
@@ -484,42 +522,3 @@ Thank you. Closing the vote, the motion carries, six to zero. This on to adjourn
 So all in favor of adjournment and parting ways today, the motion is passed. Thank you, that concludes the first meeting of the Civic Risk Committee and wishing you all a wonderful day.
 
 </details>
-
----
-
-## Votes
-
-*4 substantive votes at this meeting (0 contested, 4 unanimous). Procedural motions excluded.*
-
-### 1.2. Election of Vice-Chair for the term ending November 14, 2022
-
-> That Councillor J. Fyfe-Millar BE ELECTED Vice-Chair of the Civic Works Committee for the term ending November 14, 2022.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 2. Consent
-
-> That Items 2.1 and 2.3 BE APPROVED.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 2.2. Supply and Delivery of Transit Signal Priority and Emergency Vehicle Preemption System
-
-> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report dated December 14, 2021, related to RFP21-08 Transit Signal Priority and Emergency Vehicle Preemption System: a)        Applied Information Inc. ...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 4.1. A Conceptual Framework for Regional Transportation in London
-
-> That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to the staff report dated December 14, 2021, related to regional transportation in Southwestern Ontario: a)        the conceptual framework for regional transport...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-

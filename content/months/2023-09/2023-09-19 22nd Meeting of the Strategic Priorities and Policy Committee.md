@@ -588,6 +588,127 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 8:20 PM.
 
 ****
+
+---
+
+## Votes
+
+*10 substantive votes at this meeting (5 contested, 5 unanimous). Procedural motions excluded.*
+
+### 1. Disclosures of Pecuniary Interest
+
+> That, pursuant to section 27.6 of the Council Procedure By-law, a change in order of the Strategic Priorities and Policy Committee Agenda BE APPROVED, to provide for Item 5.1 in Stage 5, Appointment to the London Hydro Board of Directors, to be considered after Stage 6, Confidential.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 2.1. Development Charge Exemptions and Discounts
+
+> Motion to add a new part c) that the Mayor and Councillor Hopkins will continue advocacy on this matter through both AMO and OBCM. ADDITIONAL VOTES:
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 2.1. Development Charge Exemptions and Discounts
+
+> The recommendation as amended, BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 4.1. City Manager, Recruitment and Selection Process
+
+> Appointment to the Recruitment and Selection Committee
+
+**❌ Majority Winner: Shawn Lewis; Corrine Rahman; Steve Lehman; Jerry Pribil; Susan Stevenson 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (75):** [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Hadleigh McAlister](/councillors/current/h-mcalister), [Hadleigh McAlister](/councillors/current/h-mcalister), [Hadleigh McAlister](/councillors/current/h-mcalister), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Shawn Lewis](/councillors/current/s-lewis), [Shawn Lewis](/councillors/current/s-lewis), [Shawn Lewis](/councillors/current/s-lewis), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Peter Cuddy](/councillors/current/p-cuddy), [Peter Cuddy](/councillors/current/p-cuddy), [Peter Cuddy](/councillors/current/p-cuddy), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Susan Stevenson](/councillors/current/s-stevenson), [Susan Stevenson](/councillors/current/s-stevenson), [Susan Stevenson](/councillors/current/s-stevenson), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Jerry Pribil](/councillors/current/j-pribil), [Jerry Pribil](/councillors/current/j-pribil), [Jerry Pribil](/councillors/current/j-pribil), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Sam Trosow](/councillors/current/s-trosow), [Sam Trosow](/councillors/current/s-trosow), [Sam Trosow](/councillors/current/s-trosow), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Corrine Rahman](/councillors/current/c-rahman), [Corrine Rahman](/councillors/current/c-rahman), [Corrine Rahman](/councillors/current/c-rahman), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Steve Lehman](/councillors/current/s-lehman), [Steve Lehman](/councillors/current/s-lehman), [Steve Lehman](/councillors/current/s-lehman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Skylar Franke](/councillors/current/s-franke), [Skylar Franke](/councillors/current/s-franke), [Skylar Franke](/councillors/current/s-franke), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Elizabeth Peloza](/councillors/current/e-peloza), [Elizabeth Peloza](/councillors/current/e-peloza), [Elizabeth Peloza](/councillors/current/e-peloza), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [David Ferreira](/councillors/current/d-ferreira), [David Ferreira](/councillors/current/d-ferreira), [David Ferreira](/councillors/current/d-ferreira), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier), [Steve Hillier](/councillors/current/s-hillier), [Steve Hillier](/councillors/current/s-hillier), [Steve Hillier](/councillors/current/s-hillier), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.2. Consideration of Appointment to the London and Middlesex Community Housing Board of Directors (Requires 1 Member)
+
+> That the following actions be taken with respect to the appointment to the London and Middlesex Community Housing Board of Directors: a)  Kathleen Savoy BE APPOINTED to the London and Middlesex Community Housing Board of Directors as a Second Class Tenant Member for the term ending December 31, 2...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 5.1. Consideration of Appointments to the London Hydro Board of Directors (Requires 2 Members)
+
+> That the following actions be taken with respect to appointments to the London Hydro Board of Directors: a)  Tim Watson and Tracy Gustafson BE APPOINTED to the London Hydro Board of Directors as First Class Members for the term ending the close of the annual meeting of the shareholders to be held...
+
+**✅ Motion Passed (13 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow)
+
+</details>
+
+### 5.1. Consideration of Appointments to the London Hydro Board of Directors (Requires 2 Members)
+
+> That the following actions be taken with respect to appointments to the London Hydro Board of Directors: a)  Tim Watson and Cedric Gomes BE APPOINTED to the London Hydro Board of Directors as First Class Members for the term ending the close of the annual meeting of the shareholders to be held in...
+
+**❌ Motion Failed (4 to 11)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins)
+
+**Nay (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 5.1. Consideration of Appointments to the London Hydro Board of Directors (Requires 2 Members)
+
+> That the appointments to the London Hydro Board of Directors BE REFERRED to a future meeting of Strategic Priorities and Policy Committee to conduct interviews for the seven candidates as noted on the agenda.
+
+**❌ Motion Failed (4 to 11)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 5.3. (ADDED) 5th Report of the Governance Working Group
+
+> Motion TO APPROVE Governance Working Group recommendation, except part a ii) and iii). ADDITIONAL VOTES:
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 5.3. (ADDED) 5th Report of the Governance Working Group
+
+> Motion TO APPROVE Governance Working Group recommendation parts a ii) and iii).
+
+**✅ Motion Passed (11 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (3):** [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins)
+
+**Absent (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
 ---
 
 ## Full Transcript
@@ -1280,125 +1401,3 @@ Councillor Stevenson, seconded by Councillor ramen. All those in favor? Motion c
 Thank you very much, everyone.
 
 </details>
-
----
-
-## Votes
-
-*10 substantive votes at this meeting (5 contested, 5 unanimous). Procedural motions excluded.*
-
-### 1. Disclosures of Pecuniary Interest
-
-> That, pursuant to section 27.6 of the Council Procedure By-law, a change in order of the Strategic Priorities and Policy Committee Agenda BE APPROVED, to provide for Item 5.1 in Stage 5, Appointment to the London Hydro Board of Directors, to be considered after Stage 6, Confidential.
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 2.1. Development Charge Exemptions and Discounts
-
-> Motion to add a new part c) that the Mayor and Councillor Hopkins will continue advocacy on this matter through both AMO and OBCM. ADDITIONAL VOTES:
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 2.1. Development Charge Exemptions and Discounts
-
-> The recommendation as amended, BE APPROVED.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 4.1. City Manager, Recruitment and Selection Process
-
-> Appointment to the Recruitment and Selection Committee
-
-**❌ Majority Winner: Shawn Lewis; Corrine Rahman; Steve Lehman; Jerry Pribil; Susan Stevenson 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Absent (75):** [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Hadleigh McAlister](/councillors/current/h-mcalister), [Hadleigh McAlister](/councillors/current/h-mcalister), [Hadleigh McAlister](/councillors/current/h-mcalister), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Shawn Lewis](/councillors/current/s-lewis), [Shawn Lewis](/councillors/current/s-lewis), [Shawn Lewis](/councillors/current/s-lewis), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Peter Cuddy](/councillors/current/p-cuddy), [Peter Cuddy](/councillors/current/p-cuddy), [Peter Cuddy](/councillors/current/p-cuddy), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Susan Stevenson](/councillors/current/s-stevenson), [Susan Stevenson](/councillors/current/s-stevenson), [Susan Stevenson](/councillors/current/s-stevenson), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Jerry Pribil](/councillors/current/j-pribil), [Jerry Pribil](/councillors/current/j-pribil), [Jerry Pribil](/councillors/current/j-pribil), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Sam Trosow](/councillors/current/s-trosow), [Sam Trosow](/councillors/current/s-trosow), [Sam Trosow](/councillors/current/s-trosow), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Corrine Rahman](/councillors/current/c-rahman), [Corrine Rahman](/councillors/current/c-rahman), [Corrine Rahman](/councillors/current/c-rahman), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Steve Lehman](/councillors/current/s-lehman), [Steve Lehman](/councillors/current/s-lehman), [Steve Lehman](/councillors/current/s-lehman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Skylar Franke](/councillors/current/s-franke), [Skylar Franke](/councillors/current/s-franke), [Skylar Franke](/councillors/current/s-franke), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Elizabeth Peloza](/councillors/current/e-peloza), [Elizabeth Peloza](/councillors/current/e-peloza), [Elizabeth Peloza](/councillors/current/e-peloza), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [David Ferreira](/councillors/current/d-ferreira), [David Ferreira](/councillors/current/d-ferreira), [David Ferreira](/councillors/current/d-ferreira), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier), [Steve Hillier](/councillors/current/s-hillier), [Steve Hillier](/councillors/current/s-hillier), [Steve Hillier](/councillors/current/s-hillier), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 4.2. Consideration of Appointment to the London and Middlesex Community Housing Board of Directors (Requires 1 Member)
-
-> That the following actions be taken with respect to the appointment to the London and Middlesex Community Housing Board of Directors: a)  Kathleen Savoy BE APPOINTED to the London and Middlesex Community Housing Board of Directors as a Second Class Tenant Member for the term ending December 31, 2...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 5.1. Consideration of Appointments to the London Hydro Board of Directors (Requires 2 Members)
-
-> That the following actions be taken with respect to appointments to the London Hydro Board of Directors: a)  Tim Watson and Tracy Gustafson BE APPOINTED to the London Hydro Board of Directors as First Class Members for the term ending the close of the annual meeting of the shareholders to be held...
-
-**✅ Motion Passed (13 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow)
-
-</details>
-
-### 5.1. Consideration of Appointments to the London Hydro Board of Directors (Requires 2 Members)
-
-> That the following actions be taken with respect to appointments to the London Hydro Board of Directors: a)  Tim Watson and Cedric Gomes BE APPOINTED to the London Hydro Board of Directors as First Class Members for the term ending the close of the annual meeting of the shareholders to be held in...
-
-**❌ Motion Failed (4 to 11)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins)
-
-**Nay (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 5.1. Consideration of Appointments to the London Hydro Board of Directors (Requires 2 Members)
-
-> That the appointments to the London Hydro Board of Directors BE REFERRED to a future meeting of Strategic Priorities and Policy Committee to conduct interviews for the seven candidates as noted on the agenda.
-
-**❌ Motion Failed (4 to 11)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 5.3. (ADDED) 5th Report of the Governance Working Group
-
-> Motion TO APPROVE Governance Working Group recommendation, except part a ii) and iii). ADDITIONAL VOTES:
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 5.3. (ADDED) 5th Report of the Governance Working Group
-
-> Motion TO APPROVE Governance Working Group recommendation parts a ii) and iii).
-
-**✅ Motion Passed (11 to 3)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (3):** [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins)
-
-**Absent (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
-
-</details>
-

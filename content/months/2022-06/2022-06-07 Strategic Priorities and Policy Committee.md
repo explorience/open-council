@@ -569,6 +569,52 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 8:10 PM.
 
 ****
+
+---
+
+## Votes
+
+*5 substantive votes at this meeting (0 contested, 5 unanimous). Procedural motions excluded.*
+
+### 3.1. Not to be heard before 4:05 PM - London Hydro Inc. - 2021 Annual General Meeting of the Shareholder Annual Resolutions
+
+> That the following actions be taken with respect to London Hydro Inc.:    a)  the recommendation of the City Manager, the proposed by-law as appended to the staff report dated June 7, 2022 as Appendix “A” entitled “A by-law to ratify and confirm the Annual Resolutions of the Shareholder of London...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 3.2. Not to be heard before 4:30 PM - Public Participation Meeting - 2023 Growth Management Implementation Strategy (GMIS) Update
+
+> That, on the recommendation of the Deputy City Manager, Planning and Economic Development regarding the implementation of the London Plan growth management policies applicable to the financing of growth-related infrastructure works, the following actions be taken:    a)    the 2023 Growth Managem...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.1. London Community Recovery Network – Recovery Funding Business Cases
+
+> Motion to approve Business Case #4: iv) Business Case #4: Talent Attraction and Labour Force Growth for Sustainable Economic Recovery
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 4.2. Consideration of Appointment to Western University Board of Governors (Requires 2 Members)
+
+> That the following BE APPOINTED to Western University Board of Governors for the term July 1, 2022 to June 30, 2026:    Lori Higgs  Marlene McGrath    it being noted that the Strategic Priorities and Policy Committee received a communication dated June 3, 2022 from R. Konrad, Chair and K. Gibbons...
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (11-0)
+
+### 5.1. (ADDED) Recruitment for the London and Middlesex Community Housing
+
+> That the application process BE RE-ADVERTISED to allow for additional outreach for applicants for the 2 vacant positions for the Board of Directors for the London and Middlesex Community Housing; it being noted that the Strategic Priorities and Policy Committee received a communication dated May ...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
 ---
 
 ## Full Transcript
@@ -1711,50 +1757,3 @@ Screen's on please. All those in favor? Councillor Turner. That motion's carried
 Thank you. Motion to adjourn is a successful meeting adjourned.
 
 </details>
-
----
-
-## Votes
-
-*5 substantive votes at this meeting (0 contested, 5 unanimous). Procedural motions excluded.*
-
-### 3.1. Not to be heard before 4:05 PM - London Hydro Inc. - 2021 Annual General Meeting of the Shareholder Annual Resolutions
-
-> That the following actions be taken with respect to London Hydro Inc.:    a)  the recommendation of the City Manager, the proposed by-law as appended to the staff report dated June 7, 2022 as Appendix “A” entitled “A by-law to ratify and confirm the Annual Resolutions of the Shareholder of London...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (13-0)
-
-### 3.2. Not to be heard before 4:30 PM - Public Participation Meeting - 2023 Growth Management Implementation Strategy (GMIS) Update
-
-> That, on the recommendation of the Deputy City Manager, Planning and Economic Development regarding the implementation of the London Plan growth management policies applicable to the financing of growth-related infrastructure works, the following actions be taken:    a)    the 2023 Growth Managem...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (13-0)
-
-### 4.1. London Community Recovery Network – Recovery Funding Business Cases
-
-> Motion to approve Business Case #4: iv) Business Case #4: Talent Attraction and Labour Force Growth for Sustainable Economic Recovery
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (12-0)
-
-### 4.2. Consideration of Appointment to Western University Board of Governors (Requires 2 Members)
-
-> That the following BE APPOINTED to Western University Board of Governors for the term July 1, 2022 to June 30, 2026:    Lori Higgs  Marlene McGrath    it being noted that the Strategic Priorities and Policy Committee received a communication dated June 3, 2022 from R. Konrad, Chair and K. Gibbons...
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (11-0)
-
-### 5.1. (ADDED) Recruitment for the London and Middlesex Community Housing
-
-> That the application process BE RE-ADVERTISED to allow for additional outreach for applicants for the 2 vacant positions for the Board of Directors for the London and Middlesex Community Housing; it being noted that the Strategic Priorities and Policy Committee received a communication dated May ...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (13-0)
-

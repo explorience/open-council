@@ -1960,6 +1960,196 @@ The meeting adjourned at 2:41 PM.
 > **Bill No. 397**
 > 
 > By-law No. A.-8553-280 - A by-law to authorize and approve an Agreement of Purchase and Sale between The Corporation of the City of London and MSS Group Ltd. for the sale of the City owned industrial land located in Innovation Park, being composed of Part of Lot 4 Concession 3, more specifically Parts 5 and 6 on Plan 33R-21778, City of London and being part of PIN 08147-0337, containing an area of 4 acres, and to authorize the Mayor and the City Clerk to execute the Agreement. (6.1/17/CSC)
+
+---
+
+## Votes
+
+*14 substantive votes at this meeting (8 contested, 6 unanimous). Procedural motions excluded.*
+
+### 8.1. 17th Report of the Strategic Priorities and Policy Committee
+
+> That the 17th Report of the Strategic Priorities and Policy Committee BE APPROVED with the exception of items 12 (4.5) and 13 (4.6)
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.1.12. (4.5) Community Advisory Committee Motion - Councillor C. Rahman and Deputy Mayor S. Lewis
+
+> That the Civic Administration BE DIRECTED to undertake the following actions regarding the Community Advisory Committees (CACs): a)     the Accessibility Community Advisory Committee’s Terms of Reference BE AMENDED to align with the Accessibility, Inclusion, and Anti-Racism and Anti-Oppression (A...
+
+**✅ Motion Passed (12 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Anna Hopkins](/councillors/current/a-hopkins), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+</details>
+
+### 8.1.13. (4.6) Amendments to the Council Procedure By-law Motion - Deputy Mayor S. Lewis, Budget Chair E. Peloza and Councillors S. Lehman and C. Rahman
+
+> That part v) of the motion be approved and reads as follows:  v)     Efficient Meeting Management: Provide for the option to “Put the Question” at committees where all of Council constitutes the membership;
+
+**✅ Motion Passed (8 to 6) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (6):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+</details>
+
+### 8.1.13. (4.6) Amendments to the Council Procedure By-law Motion - Deputy Mayor S. Lewis, Budget Chair E. Peloza and Councillors S. Lehman and C. Rahman
+
+> That the balance of the motion be approved and reads as follows: That the Civic Administration BE DIRECTED to bring forward a by-law to a future meeting of Municipal Council to amend the Council Procedure By-law as follows: i)     Communications and Petitions: Clarify that public communications a...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.2. 17th Report of the Planning and Environment Committee
+
+> That the 17th Report of the Planning and Environment Committee BE APPROVED with the exception of items 6 (3.4) and 9 (3.7).
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.2.6. (3.4) 145 Base Line Road West (Z-9783) (Relates to Bill No. 394)
+
+> That the motion be amended to read as follows: That, the following actions be taken with respect to the application of 1000915350 Ontario Inc., (c/o Siv-ik), relating to the property located at 145 Base Line Road West: a)    the proposed attached by-law BE INTRODUCED at the Municipal Council meet...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.2.6. (3.4) 145 Base Line Road West (Z-9783) (Relates to Bill No. 394)
+
+> That the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (11 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke)
+
+**Absent (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+</details>
+
+### 8.2.9. (3.7) 1408 and 1412 Commissioners Road West (Z-9780) (Relates to Bill No. 396)
+
+> That the motion be amended to read as follows: That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Domday Developments, (c/o Zelinka Priamo Ltd.), relating to the property located at 1408 and 1412 Commissioners R...
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
+
+**Absent (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+</details>
+
+### 8.2.9. (3.7) 1408 and 1412 Commissioners Road West (Z-9780) (Relates to Bill No. 396)
+
+> That the motion, as amended, be approved.
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
+
+**Absent (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+</details>
+
+### 8.3. 17th Report of the Corporate Services Committee
+
+> That the 17th Report of the Corporate Services Committee BE APPROVED
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (27):** [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (2):** [Sam Trosow](/councillors/current/s-trosow), [Sam Trosow](/councillors/current/s-trosow)
+
+</details>
+
+### 8.3. 17th Report of the Corporate Services Committee
+
+> That pursuant to section 13.6 of the Council Procedure by-law, the Council decision with respect to the approval of the 17th Report of the Corporate Services Committee BE RECONSIDERED
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Absent (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+</details>
+
+### 8.4. 14th Report of the Community and Protective Services Committee
+
+> That the 14th Report of the Community and Protective Services Committee BE APPROVED with the exception of item 5 (3.1).
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.5. 15th Report of the Civic Works Committee
+
+> That the 15th Report of the Civic Works Committee BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.6. 4th Report of the Audit Committee
+
+> That the 4th Report of the Audit Committee BE APPROVED.
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Corrine Rahman](/councillors/current/c-rahman)
+
+**Absent (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+</details>
 ---
 
 ## Full Transcript
@@ -2268,194 +2458,3 @@ We're done, I just need a motion to adjourn. I'll go by Councillor Cuddy and Cou
 All right, thank you, we're adjourned.
 
 </details>
-
----
-
-## Votes
-
-*14 substantive votes at this meeting (8 contested, 6 unanimous). Procedural motions excluded.*
-
-### 8.1. 17th Report of the Strategic Priorities and Policy Committee
-
-> That the 17th Report of the Strategic Priorities and Policy Committee BE APPROVED with the exception of items 12 (4.5) and 13 (4.6)
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.1.12. (4.5) Community Advisory Committee Motion - Councillor C. Rahman and Deputy Mayor S. Lewis
-
-> That the Civic Administration BE DIRECTED to undertake the following actions regarding the Community Advisory Committees (CACs): a)     the Accessibility Community Advisory Committee’s Terms of Reference BE AMENDED to align with the Accessibility, Inclusion, and Anti-Racism and Anti-Oppression (A...
-
-**✅ Motion Passed (12 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (2):** [Anna Hopkins](/councillors/current/a-hopkins), [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (1):** [Sam Trosow](/councillors/current/s-trosow)
-
-</details>
-
-### 8.1.13. (4.6) Amendments to the Council Procedure By-law Motion - Deputy Mayor S. Lewis, Budget Chair E. Peloza and Councillors S. Lehman and C. Rahman
-
-> That part v) of the motion be approved and reads as follows:  v)     Efficient Meeting Management: Provide for the option to “Put the Question” at committees where all of Council constitutes the membership;
-
-**✅ Motion Passed (8 to 6) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (6):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (1):** [Sam Trosow](/councillors/current/s-trosow)
-
-</details>
-
-### 8.1.13. (4.6) Amendments to the Council Procedure By-law Motion - Deputy Mayor S. Lewis, Budget Chair E. Peloza and Councillors S. Lehman and C. Rahman
-
-> That the balance of the motion be approved and reads as follows: That the Civic Administration BE DIRECTED to bring forward a by-law to a future meeting of Municipal Council to amend the Council Procedure By-law as follows: i)     Communications and Petitions: Clarify that public communications a...
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.2. 17th Report of the Planning and Environment Committee
-
-> That the 17th Report of the Planning and Environment Committee BE APPROVED with the exception of items 6 (3.4) and 9 (3.7).
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.2.6. (3.4) 145 Base Line Road West (Z-9783) (Relates to Bill No. 394)
-
-> That the motion be amended to read as follows: That, the following actions be taken with respect to the application of 1000915350 Ontario Inc., (c/o Siv-ik), relating to the property located at 145 Base Line Road West: a)    the proposed attached by-law BE INTRODUCED at the Municipal Council meet...
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.2.6. (3.4) 145 Base Line Road West (Z-9783) (Relates to Bill No. 394)
-
-> That the motion, as amended, BE APPROVED.
-
-**✅ Motion Passed (11 to 3)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke)
-
-**Absent (1):** [Sam Trosow](/councillors/current/s-trosow)
-
-</details>
-
-### 8.2.9. (3.7) 1408 and 1412 Commissioners Road West (Z-9780) (Relates to Bill No. 396)
-
-> That the motion be amended to read as follows: That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Domday Developments, (c/o Zelinka Priamo Ltd.), relating to the property located at 1408 and 1412 Commissioners R...
-
-**✅ Motion Passed (13 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
-
-**Absent (1):** [Sam Trosow](/councillors/current/s-trosow)
-
-</details>
-
-### 8.2.9. (3.7) 1408 and 1412 Commissioners Road West (Z-9780) (Relates to Bill No. 396)
-
-> That the motion, as amended, be approved.
-
-**✅ Motion Passed (13 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
-
-**Absent (1):** [Sam Trosow](/councillors/current/s-trosow)
-
-</details>
-
-### 8.3. 17th Report of the Corporate Services Committee
-
-> That the 17th Report of the Corporate Services Committee BE APPROVED
-
-**✅ Motion Passed (13 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (27):** [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-**Absent (2):** [Sam Trosow](/councillors/current/s-trosow), [Sam Trosow](/councillors/current/s-trosow)
-
-</details>
-
-### 8.3. 17th Report of the Corporate Services Committee
-
-> That pursuant to section 13.6 of the Council Procedure by-law, the Council decision with respect to the approval of the 17th Report of the Corporate Services Committee BE RECONSIDERED
-
-**✅ Motion Passed (13 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Absent (1):** [Sam Trosow](/councillors/current/s-trosow)
-
-</details>
-
-### 8.4. 14th Report of the Community and Protective Services Committee
-
-> That the 14th Report of the Community and Protective Services Committee BE APPROVED with the exception of item 5 (3.1).
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.5. 15th Report of the Civic Works Committee
-
-> That the 15th Report of the Civic Works Committee BE APPROVED.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.6. 4th Report of the Audit Committee
-
-> That the 4th Report of the Audit Committee BE APPROVED.
-
-**✅ Motion Passed (13 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Corrine Rahman](/councillors/current/c-rahman)
-
-**Absent (1):** [Sam Trosow](/councillors/current/s-trosow)
-
-</details>
-

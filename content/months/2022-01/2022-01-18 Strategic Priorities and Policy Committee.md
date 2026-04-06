@@ -285,6 +285,33 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 4:51 PM.
 
 ****
+
+---
+
+## Votes
+
+*2 substantive votes at this meeting (1 contested, 1 unanimous). Procedural motions excluded.*
+
+### 4.1. London Public Library Board
+
+> That the following actions be taken with respect to Council appointments to the London Public Library Board:    a)     the resignation of Councillor S. Lewis, from the London Public Library Board BE ACCEPTED; and,    b)     Councillor J. Fyfe-Millar BE APPOINTED to the London Public Library Board...
+
+**✅ Motion Passed (12 to 0)**
+
+Unanimous (10-0)
+
+### 4.2. Resubmitting - London Public Library Board Vacancy
+
+> Appointment to the London Public Library Board
+
+**❌ Majority Winner: No majority 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (18):** [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/current/e-holder), [Ed Holder](/councillors/current/e-holder), [Mo Salih](/councillors/current/m-salih), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner)
+
+</details>
 ---
 
 ## Full Transcript
@@ -427,31 +454,3 @@ All those in favor with a hand vote? That motion's passed. Colleagues, thanks fo
 Bye for now.
 
 </details>
-
----
-
-## Votes
-
-*2 substantive votes at this meeting (1 contested, 1 unanimous). Procedural motions excluded.*
-
-### 4.1. London Public Library Board
-
-> That the following actions be taken with respect to Council appointments to the London Public Library Board:    a)     the resignation of Councillor S. Lewis, from the London Public Library Board BE ACCEPTED; and,    b)     Councillor J. Fyfe-Millar BE APPOINTED to the London Public Library Board...
-
-**✅ Motion Passed (12 to 0)**
-
-Unanimous (10-0)
-
-### 4.2. Resubmitting - London Public Library Board Vacancy
-
-> Appointment to the London Public Library Board
-
-**❌ Majority Winner: No majority 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Absent (18):** [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/current/e-holder), [Ed Holder](/councillors/current/e-holder), [Mo Salih](/councillors/current/m-salih), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner)
-
-</details>
-

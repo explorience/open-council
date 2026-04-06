@@ -323,6 +323,58 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 2:53 PM.
 
 ****
+
+---
+
+## Votes
+
+*4 substantive votes at this meeting (2 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2.2. SS-2024-042: Housing Stability Services Single Source
+
+> Motion TO AMEND parts b) and c) to remove the costs related "compensation and diversity recruitment consultant" at $14,970,  "fundraising supports" at $5,717, and "security needs consultant" at $3,000.  Parts b) and c) to read as follows: b)    one-time funding requests of up to $273,204 (with co...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 2.2. SS-2024-042: Housing Stability Services Single Source
+
+> That item 2.2, as amended, BE APPROVED.
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
+
+### 2.3. Community Advisory Committee on Planning (CACP) - Terms of Reference
+
+> That the report entitled Community Advisory Committee on Planning (CACP) Terms of Reference BE REFERRED to the Community Advisory Committee on Planning for consultation on the amended Terms of Reference. it being noted that the Strategic Priorities and Policy received a communication from S. Berg...
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 5.1. (ADDED) Capital Project Overruns - Mayor J. Morgan, Councillor S. Franke, Councillor A. Hopkins
+
+> That, with respect to the resolution from the Association of Municipalities of Ontario (AMO), the following actions be taken: a)   that the attached resolution from the Association of Municipalities of Ontario, requesting the Province of Ontario to undertake a comprehensive social and economic pr...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
 ---
 
 ## Full Transcript
@@ -825,56 +877,3 @@ By Councillor Ferrera and seconded by Councillor Cudi. We can do this by hand. A
 Thank you, everyone. Have a great rest of your day.
 
 </details>
-
----
-
-## Votes
-
-*4 substantive votes at this meeting (2 contested, 2 unanimous). Procedural motions excluded.*
-
-### 2.2. SS-2024-042: Housing Stability Services Single Source
-
-> Motion TO AMEND parts b) and c) to remove the costs related "compensation and diversity recruitment consultant" at $14,970,  "fundraising supports" at $5,717, and "security needs consultant" at $3,000.  Parts b) and c) to read as follows: b)    one-time funding requests of up to $273,204 (with co...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 2.2. SS-2024-042: Housing Stability Services Single Source
-
-> That item 2.2, as amended, BE APPROVED.
-
-**✅ Motion Passed (14 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
-
-</details>
-
-### 2.3. Community Advisory Committee on Planning (CACP) - Terms of Reference
-
-> That the report entitled Community Advisory Committee on Planning (CACP) Terms of Reference BE REFERRED to the Community Advisory Committee on Planning for consultation on the amended Terms of Reference. it being noted that the Strategic Priorities and Policy received a communication from S. Berg...
-
-**✅ Motion Passed (14 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-</details>
-
-### 5.1. (ADDED) Capital Project Overruns - Mayor J. Morgan, Councillor S. Franke, Councillor A. Hopkins
-
-> That, with respect to the resolution from the Association of Municipalities of Ontario (AMO), the following actions be taken: a)   that the attached resolution from the Association of Municipalities of Ontario, requesting the Province of Ontario to undertake a comprehensive social and economic pr...
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-

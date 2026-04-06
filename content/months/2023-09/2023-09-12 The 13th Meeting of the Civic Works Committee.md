@@ -208,6 +208,28 @@ The Civic Works Committee convened In Closed Session from 12:45 PM to 12:50 PM.
 
 
 The meeting adjourned at 12:51 PM.
+
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That items 2.1 to 2.3 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.1. 9th Report of the Integrated Transportation Community Advisory Committee
+
+> That pursuant to the Council Procedure By-law, the delegate BE PERMITTED to speak an additional 5 minutes with respect to this matter.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -416,26 +438,3 @@ We are now on item seven, which is adjournment. We get a motion to adjourn, Coun
 Could I get the hands? Motion to adjourn. We are adjourned, thank you.
 
 </details>
-
----
-
-## Votes
-
-*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That items 2.1 to 2.3 BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 4.1. 9th Report of the Integrated Transportation Community Advisory Committee
-
-> That pursuant to the Council Procedure By-law, the delegate BE PERMITTED to speak an additional 5 minutes with respect to this matter.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-

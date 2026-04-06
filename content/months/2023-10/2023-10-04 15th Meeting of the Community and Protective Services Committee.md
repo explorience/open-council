@@ -182,6 +182,36 @@ The Community and Protective Services Committee convened In Closed Session from 
 
 
 The meeting adjourned at 4:39 PM.
+
+---
+
+## Votes
+
+*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 and 2.2 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.3. Canada-Ontario Community Housing Initiative and Ontario Priorities Housing Initiative Approval of Ontario Transfer Payment Agreement
+
+> That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the proposed by-law, as appended to the staff report, dated October 4, 2023, BE INTRODUCED at the Municipal Council meeting to be held on October 17, 2023 to: a)    approve the Ontario Transfer Payment Agre...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.1. Alignment of Rent Supplement and Housing Allowance Programs to a Portable Benefit System
+
+> That, on the recommendation of the Deputy City Manager of Social and Health Development, the following actions be taken with respect to the staff report, dated October 4, 2023, related to the Alignment of Rent Supplement and Housing Allowance Programs to a Portable Benefit System: a)    the Civic...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -370,34 +400,3 @@ Thank you and through you. I'd like to report that progress is made on the items
 Moved by Councillor Stevenson, seconded by Councillor ramen. A hand vote of all in favor of adjournment. Okay, that's carried unanimously. Thank you very much and have a lovely evening.
 
 </details>
-
----
-
-## Votes
-
-*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 and 2.2 BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 2.3. Canada-Ontario Community Housing Initiative and Ontario Priorities Housing Initiative Approval of Ontario Transfer Payment Agreement
-
-> That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the proposed by-law, as appended to the staff report, dated October 4, 2023, BE INTRODUCED at the Municipal Council meeting to be held on October 17, 2023 to: a)    approve the Ontario Transfer Payment Agre...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 4.1. Alignment of Rent Supplement and Housing Allowance Programs to a Portable Benefit System
-
-> That, on the recommendation of the Deputy City Manager of Social and Health Development, the following actions be taken with respect to the staff report, dated October 4, 2023, related to the Alignment of Rent Supplement and Housing Allowance Programs to a Portable Benefit System: a)    the Civic...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-

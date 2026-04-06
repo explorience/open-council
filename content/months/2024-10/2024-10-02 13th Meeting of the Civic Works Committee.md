@@ -302,6 +302,28 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 10:35 AM.
 
 ****
+
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.7 BE APPROVED.
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (3-0)
+
+### 3.2. Memorandum of Understanding with the London Chamber of Commerce for Action on Climate Change
+
+> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the proposed by-law, as appended to the staff report dated October 2, 2024, BE INTRODUCED at the Municipal Council meeting to be held on October 15, 2024 to: a)    authorize and approve a Memorandum of Underst...
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (3-0)
 ---
 
 ## Full Transcript
@@ -592,26 +614,3 @@ And I can report that progress has made in our in-camera session. Thank you for 
 Can we do a hand vote on that? Hand vote. Thanks everyone.
 
 </details>
-
----
-
-## Votes
-
-*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 to 2.7 BE APPROVED.
-
-**✅ Motion Passed (3 to 0)**
-
-Unanimous (3-0)
-
-### 3.2. Memorandum of Understanding with the London Chamber of Commerce for Action on Climate Change
-
-> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the proposed by-law, as appended to the staff report dated October 2, 2024, BE INTRODUCED at the Municipal Council meeting to be held on October 15, 2024 to: a)    authorize and approve a Memorandum of Underst...
-
-**✅ Motion Passed (3 to 0)**
-
-Unanimous (3-0)
-

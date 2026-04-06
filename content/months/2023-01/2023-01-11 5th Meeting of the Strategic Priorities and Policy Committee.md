@@ -153,6 +153,20 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 8:15 PM.
 
 ****
+
+---
+
+## Votes
+
+*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
+
+### 4.1. Developing the 2023-2027 Strategic Plan: Setting the Vision, Mission, Values, Strategic Areas of Focus, Outcomes and Expected Results
+
+> That next steps, including consideration of strategic areas of focus, outcomes and expected results, with respect to the work for the 2023 - 2027 Strategic Plan BE REFERRED to a special meeting of the Strategic Priorities and Policy Committee, to be held on Monday, January 23, 2023 at 4:00 PM.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
 ---
 
 ## Full Transcript
@@ -775,18 +789,3 @@ Okay, seeing no additional business, we have a German to look for a motion to ad
 Thanks for your work today.
 
 </details>
-
----
-
-## Votes
-
-*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
-
-### 4.1. Developing the 2023-2027 Strategic Plan: Setting the Vision, Mission, Values, Strategic Areas of Focus, Outcomes and Expected Results
-
-> That next steps, including consideration of strategic areas of focus, outcomes and expected results, with respect to the work for the 2023 - 2027 Strategic Plan BE REFERRED to a special meeting of the Strategic Priorities and Policy Committee, to be held on Monday, January 23, 2023 at 4:00 PM.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (12-0)
-

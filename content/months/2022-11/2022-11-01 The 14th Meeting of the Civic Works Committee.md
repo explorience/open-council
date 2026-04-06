@@ -157,6 +157,28 @@ That, prior to the end of Q1 of 2023, the Civic Administration BE DIRECTED to re
 
 
 The meeting adjourned at 12:16 PM.
+
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.2 and 2.3 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
+
+### 5.2. (ADDED) Councillor M. van Holst - Roadway Improvements at Hamilton Road and Highbury Avenue
+
+> That, prior to the end of Q1 of 2023, the Civic Administration BE DIRECTED to report back to the Civic Works Committee with respect to options to advance the timing of improvements to the intersection of Hamilton Road and Highbury Avenue, along with potential measures to reduce the number of seve...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (3-0)
 ---
 
 ## Full Transcript
@@ -239,26 +261,3 @@ I would need a mover and a seconder. We just hang out, which I'm also good with.
 The committee clerk has said, we're good to go. I wish you a wonderful day and some of you, I will see this evening as it's the shine the light on a women's abuse kickoff in Victoria Park. Have a good day.
 
 </details>
-
----
-
-## Votes
-
-*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1, 2.2 and 2.3 BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 5.2. (ADDED) Councillor M. van Holst - Roadway Improvements at Hamilton Road and Highbury Avenue
-
-> That, prior to the end of Q1 of 2023, the Civic Administration BE DIRECTED to report back to the Civic Works Committee with respect to options to advance the timing of improvements to the intersection of Hamilton Road and Highbury Avenue, along with potential measures to reduce the number of seve...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-

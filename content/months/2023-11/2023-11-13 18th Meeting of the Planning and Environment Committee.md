@@ -750,6 +750,93 @@ The Planning and Environment Committee convened, in Closed Session, from 6:00 PM
 
 
 The meeting adjourned at 6:11 PM.
+
+---
+
+## Votes
+
+*9 substantive votes at this meeting (1 contested, 8 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 and 2.2 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.1. 6019 Hamlyn Street (Z-9654)
+
+> That, on the recommendation of the Director, Planning and Development, based on the application by Sifton Properties Ltd., relating to the property located at 6019 Hamlyn Street, the proposed by-law appended to the staff report dated November 13, 2023 as Appendix "A" BE INTRODUCED at the Municipa...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.2. Demolition Request and Heritage Alteration Permit - 187 Wharncliffe Road North (HAP23-074-L)
+
+> That, on the recommendation of the Director, Planning and Development, the application under Section 42 of the Ontario Heritage Act seeking approval for the demolition of the existing building and approval for a proposed new mixed use building comprised of office and residential, as described her...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.3. 607 Queens Avenue (Z-9650)
+
+> That, on the recommendation of the Director, Planning and Development, based on the application by 1934643 Ontario Inc., c/o Zelinka Priamo Ltd., relating to the property located at 607 Queens Avenue, the proposed by-law appended to the staff report dated November 13, 2023 as Appendix "A" BE INTR...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.4. 1990 Commissioners Road East and 2767 Doyle Drive (Z-9656)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Lux Homes Design & Build, (c/o SBM Ltd.), relating to the property located at 1990 Commissioners Road East & 2767 Doyle Drive: a) the proposed by-law appended t...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.5. 978 Gainsborough Road (Z-9247)
+
+> That, notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Highland Communities Ltd., relating to the property located at 978 Gainsborough Road: a) the request to amend the Official Plan, The London Plan, f...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 3.6. 200 Albert Street (Z-9561)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by 200 Albert London Incorporated, relating to the property located at 200 Albert Street: a) the proposed by-law appended to the staff report dated November 13, 20...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 5.1. Deferred Matters List
+
+> Motion to receive clauses 5.1 and 5.2
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 5.1. Deferred Matters List
+
+> That the Committee Clerk BE DIRECTED to update the Deferred Matters List to remove any items that have been addressed by the Civic Administration.  (2023-D09)
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -1318,91 +1405,3 @@ Thank you, Deputy Mayor. brings us to a general of promotion to adjourn. Council
 Thank you for the remaining staff who are here. As always and for committee members for your work this evening.
 
 </details>
-
----
-
-## Votes
-
-*9 substantive votes at this meeting (1 contested, 8 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 and 2.2 BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.1. 6019 Hamlyn Street (Z-9654)
-
-> That, on the recommendation of the Director, Planning and Development, based on the application by Sifton Properties Ltd., relating to the property located at 6019 Hamlyn Street, the proposed by-law appended to the staff report dated November 13, 2023 as Appendix "A" BE INTRODUCED at the Municipa...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.2. Demolition Request and Heritage Alteration Permit - 187 Wharncliffe Road North (HAP23-074-L)
-
-> That, on the recommendation of the Director, Planning and Development, the application under Section 42 of the Ontario Heritage Act seeking approval for the demolition of the existing building and approval for a proposed new mixed use building comprised of office and residential, as described her...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.3. 607 Queens Avenue (Z-9650)
-
-> That, on the recommendation of the Director, Planning and Development, based on the application by 1934643 Ontario Inc., c/o Zelinka Priamo Ltd., relating to the property located at 607 Queens Avenue, the proposed by-law appended to the staff report dated November 13, 2023 as Appendix "A" BE INTR...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.4. 1990 Commissioners Road East and 2767 Doyle Drive (Z-9656)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Lux Homes Design & Build, (c/o SBM Ltd.), relating to the property located at 1990 Commissioners Road East & 2767 Doyle Drive: a) the proposed by-law appended t...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.5. 978 Gainsborough Road (Z-9247)
-
-> That, notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Highland Communities Ltd., relating to the property located at 978 Gainsborough Road: a) the request to amend the Official Plan, The London Plan, f...
-
-**✅ Motion Passed (4 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
-
-**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
-
-</details>
-
-### 3.6. 200 Albert Street (Z-9561)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by 200 Albert London Incorporated, relating to the property located at 200 Albert Street: a) the proposed by-law appended to the staff report dated November 13, 20...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 5.1. Deferred Matters List
-
-> Motion to receive clauses 5.1 and 5.2
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 5.1. Deferred Matters List
-
-> That the Committee Clerk BE DIRECTED to update the Deferred Matters List to remove any items that have been addressed by the Civic Administration.  (2023-D09)
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-

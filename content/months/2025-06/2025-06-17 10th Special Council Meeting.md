@@ -213,6 +213,20 @@ The meeting adjourned at 11:20 AM.
 > By-law No. A.-8612-193       
 > 
 > A by-law to approve a template Contribution Agreement between The Corporation of the City of London and Indwell Community Homes for the highly supportive housing project located at 346 South Street.
+
+---
+
+## Votes
+
+*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
+
+### 6.1. Highly Supportive Housing Contribution Agreement for Indwell Community Homes Development at 346 South Street, London
+
+> That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the following actions be taken: a)    a grant of $3,152,410, in the form of a forgivable loan, to Indwell Community Homes for the development and operation of ninety-six (96) highly supportive housing units at 3...
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
 ---
 
 ## Full Transcript
@@ -313,18 +327,3 @@ Thank you, closing the vote, motion carries 13-0. Okay, that concludes by-laws, 
 All those in favor of adjournment by hand. That motion carries. Thank you very much, a 20-minute meeting.
 
 </details>
-
----
-
-## Votes
-
-*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
-
-### 6.1. Highly Supportive Housing Contribution Agreement for Indwell Community Homes Development at 346 South Street, London
-
-> That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the following actions be taken: a)    a grant of $3,152,410, in the form of a forgivable loan, to Indwell Community Homes for the development and operation of ninety-six (96) highly supportive housing units at 3...
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-

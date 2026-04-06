@@ -2380,6 +2380,332 @@ The meeting adjourned at 4:09 PM.
 > **Bill No. 184**
 > 
 > By-law No. A.-8371-129 - A by-law to authorize and approve a Lease Agreement between The Corporation of the City of London and Upper Thames River Conservation Authority for the lease agreement of the Fanshawe Golf Course lands being comprised of Part 1, Reference Plan 33R-14008, containing an area of approximately 7.07 acres (2.86 hectares) and Part 4, Reference Plan 33R-14008, containing an area of approximately 65.98 acres (26.70 hectares), in the City of London, and to authorize the Mayor and the City Clerk to execute the Agreement. (6.1/10/CSC)
+
+---
+
+## Votes
+
+*29 substantive votes at this meeting (10 contested, 19 unanimous). Procedural motions excluded.*
+
+### 8.1. 9th Report of the Community and Protective Services Committee
+
+> That the 9th Report of the Community and Protective Services Committee BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.2. 9th Report of the Civic Works Committee
+
+> That the 9th Report of the Civic Works Committee BE APPROVED, excluding Item 9 (clause 4.3).
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 8.2.9. (4.3) Automated Enforcement Program Expansion Single Source 2023-142
+
+> Motion to amend by adding a part g) as follows: "g)   the Civic Administration BE DIRECTED to investigate and implement additional Red Light Camera locations as may be feasible."
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 8.2.9. (4.3) Automated Enforcement Program Expansion Single Source 2023-142
+
+> That Item 9, clause 4.3, as amended, BE APPROVED.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 8.3. 16th Report of the Strategic Priorities and Policy Committee
+
+> That the 16th Report of the Strategic Priorities and Policy Committee BE APPROVED, excluding Item 4 (clause 4.1) and Item 9 (clause 2.4).
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 8.3.4. (4.1) 2022 Climate Emergency Action Plan Progress Report
+
+> Motion to approve Item 4, clause 4.1, part a).
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 8.3.4. (4.1) 2022 Climate Emergency Action Plan Progress Report
+
+> Motion to approve Item 4, clause 4.1, part b).
+
+**✅ Motion Passed (11 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 8.3.9. (2.4) 1st Report of the Governance Working Group
+
+> That the following actions be taken with respect to the 1st Report of the Governance Working Group from its meeting held on May 17, 2023: a)  the following actions be taken with respect to the 2024 Standing Committee and Council Calendar: i)   the Civic Administration BE DIRECTED to draft a 2024 ...
+
+**✅ Motion Passed (12 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 8.4. 9th Report of the Planning and Environment Committee
+
+> That the 9th Report of the Planning and Environment Committee BE APPROVED, excluding Item 7 (clause 2.6), Item 10 (clause 3.1), Item 13 (clause 3.4), and Item 15 (clause 3.6). it being noted that any and all written submissions relating to application(s) that were made to the Planner on file, the...
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 8.4.7. (2.6) Heritage Alteration Permit - 27 Bruce Street - Wortley Village-Old South Conservation District (HAP23-015-L)
+
+> That, on the recommendation of the Director, Planning and Development, the application under Section 42 of the Ontario Heritage Act seeking retroactive approval for the replacement of the front porch on the heritage designated property at 27 Bruce Street, within the Wortley Village-Old South Heri...
+
+**❌ Motion Failed (7 to 7) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (7):** [Shawn Lewis](/councillors/current/s-lewis), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
+
+### 8.4.7. (2.6) Heritage Alteration Permit - 27 Bruce Street - Wortley Village-Old South Conservation District (HAP23-015-L)
+
+> That, notwithstanding the recommendation of the Director, Planning and Development, the application under Section 42 of the Ontario Heritage Act seeking retroactive approval for the replacement of the front porch on the heritage designated property at 27 Bruce Street, within the Wortley Village-O...
+
+**✅ Motion Passed (9 to 5)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (5):** [Josh Morgan](/councillors/current/j-morgan), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
+
+### 8.4.10. (3.1) 340-390 Saskatoon Street (Z-9599 / O-9600) (Relates to Bill No. 177)
+
+> That Item 10, clause 3.1, BE AMENDED to read as follows: "That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Four99 Inc., relating to the properties located at 340-390 Saskatoon Street: a)    the proposed by-law...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.4.10. (3.1) 340-390 Saskatoon Street (Z-9599 / O-9600) (Relates to Bill No. 177)
+
+> That Item 10, clause 3.1 as amended, BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.4.13. (3.4) Additional Residential Unit Amendments as a Result of More Homes Built Faster Act, 2022 (Bill23) (OZ-9581) (Relates to Bill No.'s 166 and 179)
+
+> That Item 13, clause 3.4, BE AMENDED to read as follows: "That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the Official Plan and Zoning By-law requirements for additional residential units: a)    the attached, revised proposed b...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.4.13. (3.4) Additional Residential Unit Amendments as a Result of More Homes Built Faster Act, 2022 (Bill23) (OZ-9581) (Relates to Bill No.'s 166 and 179)
+
+> That Item 13, clause 3.4, part c), BE REFERRED to a future Planning and Environment Committee for further discussion.
+
+**❌ Motion Failed (7 to 7) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (7):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
+
+### 8.4.13. (3.4) Additional Residential Unit Amendments as a Result of More Homes Built Faster Act, 2022 (Bill23) (OZ-9581) (Relates to Bill No.'s 166 and 179)
+
+> That Item 13, clause 3.4, part c), BE AMENDED to read as follows: "c)    the Civic Administration BE DIRECTED to undertake a review of the current five-bedroom limit, with the review to include consideration of the Residential Licensing By-law and the Business Licensing By-law as it pertains to L...
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
+
+### 8.4.13. (3.4) Additional Residential Unit Amendments as a Result of More Homes Built Faster Act, 2022 (Bill23) (OZ-9581) (Relates to Bill No.'s 166 and 179)
+
+> That Item 13, clause 3.4, part c), as amended BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.4.13. (3.4) Additional Residential Unit Amendments as a Result of More Homes Built Faster Act, 2022 (Bill23) (OZ-9581) (Relates to Bill No.'s 166 and 179)
+
+> That Item 13, clause 3.4, as amended, excluding part c), BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.4.15. (3.6) 644-646 Huron Street (OZ-9580) (Relates to Bill No.'s 167 and 181)
+
+> That Item 15, clause 3.6, BE AMENDED to read as follows: "That, notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by 2614442 Ontario Inc., relating to the property located at 644-646 Huron Street: a)    the...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.4.15. (3.6) 644-646 Huron Street (OZ-9580) (Relates to Bill No.'s 167 and 181)
+
+> That Item 15, clause 3.6, as amended BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.5. 10th Report of the Corporate Services Committee
+
+> That the 10th Report of the Corporate Services Committee BE APPROVED, with the exception of Item 7 (clause 2.5), Item 8 (clause 2.6), Item 9 (clause 4.1), Item 11 (clause 4.3), Item 12 (clause 4.4).
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.5.7. (2.5) Expropriation of Lands - East London Link Project Phase 3 (Relates to Bill No. 170)
+
+> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, with the concurrence of the Director, Construction and Infrastructure Services, and on the advice of the Director, Realty Services, approval BE GIVEN to the expropriation of land as may be required for the Eas...
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
+
+### 8.5.8. (2.6) Expropriation of Lands - Wellington Gateway Project Phase 3 and 4 (Relates to Bill No. 171)
+
+> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, with the concurrence of the Director, Construction and Infrastructure Services, on the advice of the Director, Realty Services, approval BE GIVEN to the expropriation of land as may be required for the Welling...
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
+
+### 8.5.9. (4.1) Budweiser Gardens Expansion and Renovation Proposal
+
+> That the recommendation BE AMENDED by adding a new part e), as follows: "e)  in support of our Climate Emergency Action Plan and net zero goal, Civic Administration BE DIRECTED to work with OVG360 to bring forward existing and contemplated plans for energy efficiency retrofits to Budweiser Garden...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.5.9. (4.1) Budweiser Gardens Expansion and Renovation Proposal
+
+> That Item 9, clause 4.1 as amended, BE APPROVED.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 8.5.11. (4.3) Application - Issuance of Proclamation - Action Anxiety Day
+
+> That based on the application dated April 7, 2023 from Anxiety Canada, BE REFERRED back to the Civic Administration for further information regarding the organization's connection to London.
+
+**❌ Motion Failed (0 to 13)**
+
+<details>
+<summary>View roll call</summary>
+
+**Nay (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 8.5.12. (4.4) Application - Issuance of Proclamation - World Sickle Cell Day 2023
+
+> That based on the application dated May 10, 2023 from Sickle Cell Awareness Group of Ontario, BE REFERRED back to the Civic Administration for further information regarding the organization's connection to London.
+
+**❌ Motion Failed (2 to 11)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins)
+
+**Nay (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 8.6. 11th Report of the Corporate Services Committee
+
+> That the 11th Report of the Corporate Services Committee BE APPROVED.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 9.1. 9th Report of Council in Closed Session
+
+> 1.    Lease Agreement – Upper Thames River Conservation Authority Fanshawe Golf Course That, on the recommendation of the Deputy City Manager, Finance Supports, with the concurrence of Deputy City Manager, Neighbourhood and Community-Wide Service, on the advice of the Director, Realty Services, w...
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
 ---
 
 ## Full Transcript
@@ -3066,330 +3392,3 @@ Moved by Councillor Troceau, seconded by Councillor McAllister. We do this by ha
 Hope to see you at the vigil tonight.
 
 </details>
-
----
-
-## Votes
-
-*29 substantive votes at this meeting (10 contested, 19 unanimous). Procedural motions excluded.*
-
-### 8.1. 9th Report of the Community and Protective Services Committee
-
-> That the 9th Report of the Community and Protective Services Committee BE APPROVED.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.2. 9th Report of the Civic Works Committee
-
-> That the 9th Report of the Civic Works Committee BE APPROVED, excluding Item 9 (clause 4.3).
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 8.2.9. (4.3) Automated Enforcement Program Expansion Single Source 2023-142
-
-> Motion to amend by adding a part g) as follows: "g)   the Civic Administration BE DIRECTED to investigate and implement additional Red Light Camera locations as may be feasible."
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 8.2.9. (4.3) Automated Enforcement Program Expansion Single Source 2023-142
-
-> That Item 9, clause 4.3, as amended, BE APPROVED.
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 8.3. 16th Report of the Strategic Priorities and Policy Committee
-
-> That the 16th Report of the Strategic Priorities and Policy Committee BE APPROVED, excluding Item 4 (clause 4.1) and Item 9 (clause 2.4).
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 8.3.4. (4.1) 2022 Climate Emergency Action Plan Progress Report
-
-> Motion to approve Item 4, clause 4.1, part a).
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 8.3.4. (4.1) 2022 Climate Emergency Action Plan Progress Report
-
-> Motion to approve Item 4, clause 4.1, part b).
-
-**✅ Motion Passed (11 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-</details>
-
-### 8.3.9. (2.4) 1st Report of the Governance Working Group
-
-> That the following actions be taken with respect to the 1st Report of the Governance Working Group from its meeting held on May 17, 2023: a)  the following actions be taken with respect to the 2024 Standing Committee and Council Calendar: i)   the Civic Administration BE DIRECTED to draft a 2024 ...
-
-**✅ Motion Passed (12 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-**Absent (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-</details>
-
-### 8.4. 9th Report of the Planning and Environment Committee
-
-> That the 9th Report of the Planning and Environment Committee BE APPROVED, excluding Item 7 (clause 2.6), Item 10 (clause 3.1), Item 13 (clause 3.4), and Item 15 (clause 3.6). it being noted that any and all written submissions relating to application(s) that were made to the Planner on file, the...
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 8.4.7. (2.6) Heritage Alteration Permit - 27 Bruce Street - Wortley Village-Old South Conservation District (HAP23-015-L)
-
-> That, on the recommendation of the Director, Planning and Development, the application under Section 42 of the Ontario Heritage Act seeking retroactive approval for the replacement of the front porch on the heritage designated property at 27 Bruce Street, within the Wortley Village-Old South Heri...
-
-**❌ Motion Failed (7 to 7) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (7):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (7):** [Shawn Lewis](/councillors/current/s-lewis), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (1):** [Susan Stevenson](/councillors/current/s-stevenson)
-
-</details>
-
-### 8.4.7. (2.6) Heritage Alteration Permit - 27 Bruce Street - Wortley Village-Old South Conservation District (HAP23-015-L)
-
-> That, notwithstanding the recommendation of the Director, Planning and Development, the application under Section 42 of the Ontario Heritage Act seeking retroactive approval for the replacement of the front porch on the heritage designated property at 27 Bruce Street, within the Wortley Village-O...
-
-**✅ Motion Passed (9 to 5)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (9):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (5):** [Josh Morgan](/councillors/current/j-morgan), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (1):** [Susan Stevenson](/councillors/current/s-stevenson)
-
-</details>
-
-### 8.4.10. (3.1) 340-390 Saskatoon Street (Z-9599 / O-9600) (Relates to Bill No. 177)
-
-> That Item 10, clause 3.1, BE AMENDED to read as follows: "That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Four99 Inc., relating to the properties located at 340-390 Saskatoon Street: a)    the proposed by-law...
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.4.10. (3.1) 340-390 Saskatoon Street (Z-9599 / O-9600) (Relates to Bill No. 177)
-
-> That Item 10, clause 3.1 as amended, BE APPROVED.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.4.13. (3.4) Additional Residential Unit Amendments as a Result of More Homes Built Faster Act, 2022 (Bill23) (OZ-9581) (Relates to Bill No.'s 166 and 179)
-
-> That Item 13, clause 3.4, BE AMENDED to read as follows: "That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the Official Plan and Zoning By-law requirements for additional residential units: a)    the attached, revised proposed b...
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.4.13. (3.4) Additional Residential Unit Amendments as a Result of More Homes Built Faster Act, 2022 (Bill23) (OZ-9581) (Relates to Bill No.'s 166 and 179)
-
-> That Item 13, clause 3.4, part c), BE REFERRED to a future Planning and Environment Committee for further discussion.
-
-**❌ Motion Failed (7 to 7) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (7):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (7):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (1):** [Susan Stevenson](/councillors/current/s-stevenson)
-
-</details>
-
-### 8.4.13. (3.4) Additional Residential Unit Amendments as a Result of More Homes Built Faster Act, 2022 (Bill23) (OZ-9581) (Relates to Bill No.'s 166 and 179)
-
-> That Item 13, clause 3.4, part c), BE AMENDED to read as follows: "c)    the Civic Administration BE DIRECTED to undertake a review of the current five-bedroom limit, with the review to include consideration of the Residential Licensing By-law and the Business Licensing By-law as it pertains to L...
-
-**✅ Motion Passed (13 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-**Absent (1):** [Susan Stevenson](/councillors/current/s-stevenson)
-
-</details>
-
-### 8.4.13. (3.4) Additional Residential Unit Amendments as a Result of More Homes Built Faster Act, 2022 (Bill23) (OZ-9581) (Relates to Bill No.'s 166 and 179)
-
-> That Item 13, clause 3.4, part c), as amended BE APPROVED.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.4.13. (3.4) Additional Residential Unit Amendments as a Result of More Homes Built Faster Act, 2022 (Bill23) (OZ-9581) (Relates to Bill No.'s 166 and 179)
-
-> That Item 13, clause 3.4, as amended, excluding part c), BE APPROVED.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.4.15. (3.6) 644-646 Huron Street (OZ-9580) (Relates to Bill No.'s 167 and 181)
-
-> That Item 15, clause 3.6, BE AMENDED to read as follows: "That, notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by 2614442 Ontario Inc., relating to the property located at 644-646 Huron Street: a)    the...
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.4.15. (3.6) 644-646 Huron Street (OZ-9580) (Relates to Bill No.'s 167 and 181)
-
-> That Item 15, clause 3.6, as amended BE APPROVED.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.5. 10th Report of the Corporate Services Committee
-
-> That the 10th Report of the Corporate Services Committee BE APPROVED, with the exception of Item 7 (clause 2.5), Item 8 (clause 2.6), Item 9 (clause 4.1), Item 11 (clause 4.3), Item 12 (clause 4.4).
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.5.7. (2.5) Expropriation of Lands - East London Link Project Phase 3 (Relates to Bill No. 170)
-
-> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, with the concurrence of the Director, Construction and Infrastructure Services, and on the advice of the Director, Realty Services, approval BE GIVEN to the expropriation of land as may be required for the Eas...
-
-**✅ Motion Passed (13 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-**Absent (1):** [Susan Stevenson](/councillors/current/s-stevenson)
-
-</details>
-
-### 8.5.8. (2.6) Expropriation of Lands - Wellington Gateway Project Phase 3 and 4 (Relates to Bill No. 171)
-
-> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, with the concurrence of the Director, Construction and Infrastructure Services, on the advice of the Director, Realty Services, approval BE GIVEN to the expropriation of land as may be required for the Welling...
-
-**✅ Motion Passed (13 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-**Absent (1):** [Susan Stevenson](/councillors/current/s-stevenson)
-
-</details>
-
-### 8.5.9. (4.1) Budweiser Gardens Expansion and Renovation Proposal
-
-> That the recommendation BE AMENDED by adding a new part e), as follows: "e)  in support of our Climate Emergency Action Plan and net zero goal, Civic Administration BE DIRECTED to work with OVG360 to bring forward existing and contemplated plans for energy efficiency retrofits to Budweiser Garden...
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.5.9. (4.1) Budweiser Gardens Expansion and Renovation Proposal
-
-> That Item 9, clause 4.1 as amended, BE APPROVED.
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 8.5.11. (4.3) Application - Issuance of Proclamation - Action Anxiety Day
-
-> That based on the application dated April 7, 2023 from Anxiety Canada, BE REFERRED back to the Civic Administration for further information regarding the organization's connection to London.
-
-**❌ Motion Failed (0 to 13)**
-
-<details>
-<summary>View roll call</summary>
-
-**Nay (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-</details>
-
-### 8.5.12. (4.4) Application - Issuance of Proclamation - World Sickle Cell Day 2023
-
-> That based on the application dated May 10, 2023 from Sickle Cell Awareness Group of Ontario, BE REFERRED back to the Civic Administration for further information regarding the organization's connection to London.
-
-**❌ Motion Failed (2 to 11)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins)
-
-**Nay (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-</details>
-
-### 8.6. 11th Report of the Corporate Services Committee
-
-> That the 11th Report of the Corporate Services Committee BE APPROVED.
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 9.1. 9th Report of Council in Closed Session
-
-> 1.    Lease Agreement – Upper Thames River Conservation Authority Fanshawe Golf Course That, on the recommendation of the Deputy City Manager, Finance Supports, with the concurrence of Deputy City Manager, Neighbourhood and Community-Wide Service, on the advice of the Director, Realty Services, w...
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-

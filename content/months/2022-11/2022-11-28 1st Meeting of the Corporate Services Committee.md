@@ -375,6 +375,36 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 1:42 PM.
 
 ****
+
+---
+
+## Votes
+
+*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
+
+### 1.2. Election of Vice Chair
+
+> That Councillor S. Trosow BE APPOINTED Vice Chair for the term ending November 14, 2023.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. Not to be heard before 12:05 PM - Tribunal - Development Charge Appeal
+
+> That, after convening as a tribunal under section 26 of By-law C.P.-1551-337 to hear a complaint under section 20 of the Development Charges Act 1997, S.O. 1997, c. 27, by Neil M. Smiley, Fasken Martineau DuMoulin LLP of the property located at 2365 Innovation Drive, regarding the development cha...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. Not to be heard before 12:05 PM - Tribunal - Development Charge Appeal
+
+> That the Corporate Services Committee now convene as a tribunal under section 26 of By-law C.P.-1551-337 to hear a complaint under section 20 of the Development Charges Act, 1997 and provide the complainant an opportunity to make representations.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
 ---
 
 ## Full Transcript
@@ -691,34 +721,3 @@ Yes. Can you just use the mic, Councillor Ferrera, so the clerk can move on it. 
 We'll just need a moment to prepare for in camera. The clerk will need to make sure that the right people are in the Zoom meeting and then we'll be ready.
 
 </details>
-
----
-
-## Votes
-
-*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
-
-### 1.2. Election of Vice Chair
-
-> That Councillor S. Trosow BE APPOINTED Vice Chair for the term ending November 14, 2023.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 4.1. Not to be heard before 12:05 PM - Tribunal - Development Charge Appeal
-
-> That, after convening as a tribunal under section 26 of By-law C.P.-1551-337 to hear a complaint under section 20 of the Development Charges Act 1997, S.O. 1997, c. 27, by Neil M. Smiley, Fasken Martineau DuMoulin LLP of the property located at 2365 Innovation Drive, regarding the development cha...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 4.1. Not to be heard before 12:05 PM - Tribunal - Development Charge Appeal
-
-> That the Corporate Services Committee now convene as a tribunal under section 26 of By-law C.P.-1551-337 to hear a complaint under section 20 of the Development Charges Act, 1997 and provide the complainant an opportunity to make representations.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-

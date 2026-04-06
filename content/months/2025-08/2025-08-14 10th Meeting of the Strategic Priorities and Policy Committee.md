@@ -197,6 +197,57 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 1:56 PM.
 
 ****
+
+---
+
+## Votes
+
+*5 substantive votes at this meeting (1 contested, 4 unanimous). Procedural motions excluded.*
+
+### 4.1. Code of Conduct for Members of Council and Local Boards
+
+> That the Code of Conduct for Members of Council and Local Boards and the Council and Staff Relations Policy BE REFERRED to a future meeting of the Governance Working Group for further review, with an invitation extended to the Integrity Commissioner to attend and respond to questions; it being no...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 4.2. Delegation - Ysni Semsedini, CEO and Tanya Goodine, Board Chair, London Hydro - Affiliated Proposal
+
+> That, with respect to the London Hydro Inc. Affiliate Proposal, the Civic Administration BE DIRECTED to work with London Hydro Inc. and report back to a future meeting of the Strategic Priorities and Policy Committee with the necessary by-laws and supporting documentation to implement the propose...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 4.2. Delegation - Ysni Semsedini, CEO and Tanya Goodine, Board Chair, London Hydro - Affiliated Proposal
+
+> That the delegation request from Y. Semsedini, CEO and T. Goodine, Board Chair, London Hydro, BE APPROVED to be heard at this time.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 4.3. Consideration of Appointment to the Eldon House Board of Directors (Requires 1 Member)
+
+> That Michelle Southern BE APPOINTED to the Eldon House Board of Directors for the term ending November 14, 2026.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 4.3. Consideration of Appointment to the Eldon House Board of Directors (Requires 1 Member)
+
+> Consideration of Appointment to the Eldon House Board of Directors.
+
+**❌ Majority Winner: Michelle Southern 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (15):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
 ---
 
 ## Full Transcript
@@ -519,55 +570,3 @@ or looking for a motion to adjourn. Moved by Councillors Van Mirberg and Ferra, 
 Thank you, everyone. Have a great one. And for those who want to see the mayor lose in basketball, I believe he's going to be playing some horse with shade and sharp over at LMCH's facility later this afternoon.
 
 </details>
-
----
-
-## Votes
-
-*5 substantive votes at this meeting (1 contested, 4 unanimous). Procedural motions excluded.*
-
-### 4.1. Code of Conduct for Members of Council and Local Boards
-
-> That the Code of Conduct for Members of Council and Local Boards and the Council and Staff Relations Policy BE REFERRED to a future meeting of the Governance Working Group for further review, with an invitation extended to the Integrity Commissioner to attend and respond to questions; it being no...
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 4.2. Delegation - Ysni Semsedini, CEO and Tanya Goodine, Board Chair, London Hydro - Affiliated Proposal
-
-> That, with respect to the London Hydro Inc. Affiliate Proposal, the Civic Administration BE DIRECTED to work with London Hydro Inc. and report back to a future meeting of the Strategic Priorities and Policy Committee with the necessary by-laws and supporting documentation to implement the propose...
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 4.2. Delegation - Ysni Semsedini, CEO and Tanya Goodine, Board Chair, London Hydro - Affiliated Proposal
-
-> That the delegation request from Y. Semsedini, CEO and T. Goodine, Board Chair, London Hydro, BE APPROVED to be heard at this time.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 4.3. Consideration of Appointment to the Eldon House Board of Directors (Requires 1 Member)
-
-> That Michelle Southern BE APPOINTED to the Eldon House Board of Directors for the term ending November 14, 2026.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 4.3. Consideration of Appointment to the Eldon House Board of Directors (Requires 1 Member)
-
-> Consideration of Appointment to the Eldon House Board of Directors.
-
-**❌ Majority Winner: Michelle Southern 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Absent (15):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-

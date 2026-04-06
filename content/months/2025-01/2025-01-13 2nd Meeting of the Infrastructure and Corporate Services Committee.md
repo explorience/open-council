@@ -409,6 +409,37 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 2:30 PM.
 
 ****
+
+---
+
+## Votes
+
+*2 substantive votes at this meeting (1 contested, 1 unanimous). Procedural motions excluded.*
+
+### 2.6. Contract Award: Tender No. RFT-2024-315 - East London Link and Municipal Infrastructure Improvements - Phase 4 - Oxford Street East
+
+> That on the recommendation of the Deputy City Manager, Environment & Infrastructure, the following actions be taken with respect to the East London Link and Municipal Infrastructure Improvements Phase 4 project; a)    the following actions BE TAKEN with respect to the award of the contract for th...
+
+**✅ Motion Passed (3 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Jerry Pribil](/councillors/current/j-pribil), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (2):** [Shawn Lewis](/councillors/current/s-lewis), [Corrine Rahman](/councillors/current/c-rahman)
+
+</details>
+
+### 2.9. Assessment Growth for 2025, Changes in Taxable Phase-In Values and Shifts in Taxation as a Result of Reassessments
+
+> That the delegation request by C. Butler BE APPROVED to be heard at this time.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -659,35 +690,3 @@ Thank you, we are back from in camera, I'll go to Councilor Frank to report out.
 Thank you, we are adjourned.
 
 </details>
-
----
-
-## Votes
-
-*2 substantive votes at this meeting (1 contested, 1 unanimous). Procedural motions excluded.*
-
-### 2.6. Contract Award: Tender No. RFT-2024-315 - East London Link and Municipal Infrastructure Improvements - Phase 4 - Oxford Street East
-
-> That on the recommendation of the Deputy City Manager, Environment & Infrastructure, the following actions be taken with respect to the East London Link and Municipal Infrastructure Improvements Phase 4 project; a)    the following actions BE TAKEN with respect to the award of the contract for th...
-
-**✅ Motion Passed (3 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Jerry Pribil](/councillors/current/j-pribil), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke)
-
-**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-**Absent (2):** [Shawn Lewis](/councillors/current/s-lewis), [Corrine Rahman](/councillors/current/c-rahman)
-
-</details>
-
-### 2.9. Assessment Growth for 2025, Changes in Taxable Phase-In Values and Shifts in Taxation as a Result of Reassessments
-
-> That the delegation request by C. Butler BE APPROVED to be heard at this time.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-

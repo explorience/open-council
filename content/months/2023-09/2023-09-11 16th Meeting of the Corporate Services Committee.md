@@ -318,6 +318,28 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 12:24 PM.
 
 ****
+
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 4. Items for Direction
+
+> That Items 4.1 to 4.3 BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 4.4. Application - Issuance of Proclamation - National British Home Child Day
+
+> That based on the application dated August 15, 2023 from Home Child Canada, September 28, 2023 BE PROCLAIMED National British Home Child Day.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -382,26 +404,3 @@ The September 11th, 2023, meeting of the Corporate Services Committee, the commi
 Moved by Councilor Stevenson, seconded by Councilor Ferreira. Are you sure you wanna adjourn, Councilor? Okay, and by hand, then all those in favor. Closing the vote.
 
 </details>
-
----
-
-## Votes
-
-*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
-
-### 4. Items for Direction
-
-> That Items 4.1 to 4.3 BE APPROVED.
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 4.4. Application - Issuance of Proclamation - National British Home Child Day
-
-> That based on the application dated August 15, 2023 from Home Child Canada, September 28, 2023 BE PROCLAIMED National British Home Child Day.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-

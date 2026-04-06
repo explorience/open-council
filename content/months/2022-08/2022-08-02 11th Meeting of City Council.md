@@ -2833,6 +2833,217 @@ That the meeting be adjourned.
 The meeting adjourned at 8:37 PM
 
 ****
+
+---
+
+## Votes
+
+*19 substantive votes at this meeting (7 contested, 12 unanimous). Procedural motions excluded.*
+
+### 8.1. 9th Report of the Community and Protective Services Committee
+
+> That the 9th Report of the Community and Protective Services Committee BE APPROVED, excluding items 11 (4.3), 13 (4.5) and 15 (5.1).
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 8.1.11. (4.3) Water for Dogs at Pottersburg Dog Park
+
+> That the following actions be taken with respect to the installation of a water supply for dogs at the Pottersburg Dog Park: a) the Civic Administration BE DIRECTED to report back, in advance of the 2024-2027 multi year budget process, with respect to extending water services to parks, including ...
+
+**✅ Motion Passed (12 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner)
+
+**Absent (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 8.1.13. (4.5) Councillor M. van Holst - Neighbourhood Decision Making Business Case
+
+> That item 13, clause 4.5 be amended by adding the following new part b): b)     that staff BE DIRECTED to include in the 2023 annual budget deliberations, a business case for expanding the neighbourhood decision making program, by doubling the tax levy funding.
+
+**✅ Motion Passed (8 to 6) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+**Nay (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/current/e-holder)
+
+**Absent (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 8.1.13. (4.5) Councillor M. van Holst - Neighbourhood Decision Making Business Case
+
+> That clause 4.5 as amended, BE APPROVED
+
+**✅ Motion Passed (11 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Steve Hillier](/councillors/current/s-hillier), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner)
+
+**Nay (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+**Absent (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 8.2. 11th Report of the Strategic Priorities and Policy Committee
+
+> That the 11th Report of the Strategic Priorities and Policy Committee BE APPROVED, excluding items 6 (3.1) and 7 (4.1).
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 8.2.6. (3.1) Municipal Accommodation Tax on Short-Term Accommodations - Single Source Procurement 2022-211 (Relates to Bill No.'s 315 and 316)
+
+> That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to collecting Municipal Accommodation Tax on Short-term Accommodations: a)    the proposed by-law as appended to the staff report dated July 27, 2022 as Appendix "A" BE INTRODUCED...
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (11-0)
+
+### 8.2.7. (4.1) London Community Recovery Network – Recovery Funding Business Cases
+
+> Motion to approve part b) iii) - Business Case #3 b)     the following funding requests BE APPROVED: iii) Business Case # 3: Argyle BIA Currency Pilot Program;
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 8.2.7. (4.1) London Community Recovery Network – Recovery Funding Business Cases
+
+> Motion to approve part b) iv) - Business Case #4 b)     the following funding requests BE APPROVED: iv) Business Case # 4: London Public Library Reading Garden Access from Dundas Place Flex Street;
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (11-0)
+
+### 8.2.7. (4.1) London Community Recovery Network – Recovery Funding Business Cases
+
+> Motion to approve part b) vi) - Business Case #6 b)     the following funding requests BE APPROVED: vi) Business Case # 6: London Tech Talent Growth;
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 8.3. 11th Report of the Corporate Services Committee
+
+> That the 11th Report of the Corporate Services Committee, BE APPROVED, excluding item 14 (4.3).
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 8.3.14. (4.3) Application - Issuance of Proclamation - 230th Anniversary: Black Loyalist Exodus: 15 Ships to Sierra Leone
+
+> That based on the application dated July 4, 2022 from #1792Project, the month of September 2022 BE PROCLAIMED as 230th Anniversary: Black Loyalist Exodus: 15 Ships to Sierra Leone.
+
+**✅ Motion Passed (12 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner)
+
+**Absent (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 8.4. 10th Report of the Civic Works Committee
+
+> That the 10th Report of the Civic Works Committee, BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 8.5. 13th Report of the Planning and Environment Committee
+
+> That the 13th Report of the Planning and Environment Committee BE APPROVED, excluding items 14 (3.6) and 18 (3.10); it being noted that any and all written submissions relating to application(s) that were made to the Planner on file, the Planning and Environment Committee and to the Municipal Cou...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 8.5.14. (3.6) Parking Standards Review (OZ-9520) (Relates to Bill No.'s 318 and 328)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the Parking Standards Review: a)    the proposed by-law appended to the staff report dated July 25, 2022 as Appendix B, BE INTRODUCED at the Municipal Council meeting to be held o...
+
+**✅ Motion Passed (12 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+**Absent (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 8.5.18. (3.10) 1067, 1069 and 1071 Wellington Road (OZ-9263 / Z-9264)
+
+> That, the following actions be taken with respect to the application by Century Centre Developments Inc., relating to the properties located at 1067-1071 Wellington Road: a)  the application BE REFERRED back to allow the Civic Administration and the Applicant give further consideration to  the 10...
+
+**❌ Motion Failed (2 to 12)**
+
+<details>
+<summary>View roll call</summary>
+
+**Nay (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner)
+
+**Absent (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 8.5.18. (3.10) 1067, 1069 and 1071 Wellington Road (OZ-9263 / Z-9264)
+
+> That the motion of Councillors E. Peloza and S. Lewis, and the associated by-laws, related to the applications for the properties located at 1067, 1069 and 1071 Wellington Road (OZ-6263/ Z-9264), BE REFERRED back to the Civic Administration in order to review and that this matter may be brought f...
+
+**✅ Motion Passed (12 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+**Absent (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 9.1. 11th Report of Council in Closed Session
+
+> Motion to approve items 3 and 4, 3.    Property Acquisition – Wellington Gateway Project – 253-255 Wellington Road – Wellington Gateway Project That, on the recommendation of the Deputy City Manager, Finance Supports, with the concurrence of the Director, Construction and Infrastructure Services,...
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (11-0)
+
+### 9.1. 11th Report of Council in Closed Session
+
+> Motion to approve parts 1 and 2 1.    Awarding of the 2022 Queen Elizabeth Scholarships That, on the recommendation of the City Clerk, the following actions be taken in connection with the awarding of the 2022 Queen Elizabeth Scholarships: a)    in recognition of achieving the highest scholastic ...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 13. By-laws
+
+> That reconsideration of the voting on the readings of Bill No.'s 315 and 316, BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
 ---
 
 ## Full Transcript
@@ -3821,215 +4032,3 @@ And with that, I'm going to look for a motion to adjourn. See Councilor Fife Mil
 So screen's on and since it's okay, those who want to adjourn. And that motion carries. Thanks very much. We will see you as we see you.
 
 </details>
-
----
-
-## Votes
-
-*19 substantive votes at this meeting (7 contested, 12 unanimous). Procedural motions excluded.*
-
-### 8.1. 9th Report of the Community and Protective Services Committee
-
-> That the 9th Report of the Community and Protective Services Committee BE APPROVED, excluding items 11 (4.3), 13 (4.5) and 15 (5.1).
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (12-0)
-
-### 8.1.11. (4.3) Water for Dogs at Pottersburg Dog Park
-
-> That the following actions be taken with respect to the installation of a water supply for dogs at the Pottersburg Dog Park: a) the Civic Administration BE DIRECTED to report back, in advance of the 2024-2027 multi year budget process, with respect to extending water services to parks, including ...
-
-**✅ Motion Passed (12 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner)
-
-**Absent (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-</details>
-
-### 8.1.13. (4.5) Councillor M. van Holst - Neighbourhood Decision Making Business Case
-
-> That item 13, clause 4.5 be amended by adding the following new part b): b)     that staff BE DIRECTED to include in the 2023 annual budget deliberations, a business case for expanding the neighbourhood decision making program, by doubling the tax levy funding.
-
-**✅ Motion Passed (8 to 6) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
-
-**Nay (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/current/e-holder)
-
-**Absent (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-</details>
-
-### 8.1.13. (4.5) Councillor M. van Holst - Neighbourhood Decision Making Business Case
-
-> That clause 4.5 as amended, BE APPROVED
-
-**✅ Motion Passed (11 to 3)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Steve Hillier](/councillors/current/s-hillier), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner)
-
-**Nay (1):** [Shawn Lewis](/councillors/current/s-lewis)
-
-**Absent (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-</details>
-
-### 8.2. 11th Report of the Strategic Priorities and Policy Committee
-
-> That the 11th Report of the Strategic Priorities and Policy Committee BE APPROVED, excluding items 6 (3.1) and 7 (4.1).
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (12-0)
-
-### 8.2.6. (3.1) Municipal Accommodation Tax on Short-Term Accommodations - Single Source Procurement 2022-211 (Relates to Bill No.'s 315 and 316)
-
-> That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to collecting Municipal Accommodation Tax on Short-term Accommodations: a)    the proposed by-law as appended to the staff report dated July 27, 2022 as Appendix "A" BE INTRODUCED...
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (11-0)
-
-### 8.2.7. (4.1) London Community Recovery Network – Recovery Funding Business Cases
-
-> Motion to approve part b) iii) - Business Case #3 b)     the following funding requests BE APPROVED: iii) Business Case # 3: Argyle BIA Currency Pilot Program;
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (12-0)
-
-### 8.2.7. (4.1) London Community Recovery Network – Recovery Funding Business Cases
-
-> Motion to approve part b) iv) - Business Case #4 b)     the following funding requests BE APPROVED: iv) Business Case # 4: London Public Library Reading Garden Access from Dundas Place Flex Street;
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (11-0)
-
-### 8.2.7. (4.1) London Community Recovery Network – Recovery Funding Business Cases
-
-> Motion to approve part b) vi) - Business Case #6 b)     the following funding requests BE APPROVED: vi) Business Case # 6: London Tech Talent Growth;
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (12-0)
-
-### 8.3. 11th Report of the Corporate Services Committee
-
-> That the 11th Report of the Corporate Services Committee, BE APPROVED, excluding item 14 (4.3).
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (12-0)
-
-### 8.3.14. (4.3) Application - Issuance of Proclamation - 230th Anniversary: Black Loyalist Exodus: 15 Ships to Sierra Leone
-
-> That based on the application dated July 4, 2022 from #1792Project, the month of September 2022 BE PROCLAIMED as 230th Anniversary: Black Loyalist Exodus: 15 Ships to Sierra Leone.
-
-**✅ Motion Passed (12 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner)
-
-**Absent (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-</details>
-
-### 8.4. 10th Report of the Civic Works Committee
-
-> That the 10th Report of the Civic Works Committee, BE APPROVED.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (12-0)
-
-### 8.5. 13th Report of the Planning and Environment Committee
-
-> That the 13th Report of the Planning and Environment Committee BE APPROVED, excluding items 14 (3.6) and 18 (3.10); it being noted that any and all written submissions relating to application(s) that were made to the Planner on file, the Planning and Environment Committee and to the Municipal Cou...
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (12-0)
-
-### 8.5.14. (3.6) Parking Standards Review (OZ-9520) (Relates to Bill No.'s 318 and 328)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the Parking Standards Review: a)    the proposed by-law appended to the staff report dated July 25, 2022 as Appendix B, BE INTRODUCED at the Municipal Council meeting to be held o...
-
-**✅ Motion Passed (12 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
-
-**Absent (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-</details>
-
-### 8.5.18. (3.10) 1067, 1069 and 1071 Wellington Road (OZ-9263 / Z-9264)
-
-> That, the following actions be taken with respect to the application by Century Centre Developments Inc., relating to the properties located at 1067-1071 Wellington Road: a)  the application BE REFERRED back to allow the Civic Administration and the Applicant give further consideration to  the 10...
-
-**❌ Motion Failed (2 to 12)**
-
-<details>
-<summary>View roll call</summary>
-
-**Nay (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner)
-
-**Absent (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-</details>
-
-### 8.5.18. (3.10) 1067, 1069 and 1071 Wellington Road (OZ-9263 / Z-9264)
-
-> That the motion of Councillors E. Peloza and S. Lewis, and the associated by-laws, related to the applications for the properties located at 1067, 1069 and 1071 Wellington Road (OZ-6263/ Z-9264), BE REFERRED back to the Civic Administration in order to review and that this matter may be brought f...
-
-**✅ Motion Passed (12 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
-
-**Absent (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-</details>
-
-### 9.1. 11th Report of Council in Closed Session
-
-> Motion to approve items 3 and 4, 3.    Property Acquisition – Wellington Gateway Project – 253-255 Wellington Road – Wellington Gateway Project That, on the recommendation of the Deputy City Manager, Finance Supports, with the concurrence of the Director, Construction and Infrastructure Services,...
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (11-0)
-
-### 9.1. 11th Report of Council in Closed Session
-
-> Motion to approve parts 1 and 2 1.    Awarding of the 2022 Queen Elizabeth Scholarships That, on the recommendation of the City Clerk, the following actions be taken in connection with the awarding of the 2022 Queen Elizabeth Scholarships: a)    in recognition of achieving the highest scholastic ...
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (12-0)
-
-### 13. By-laws
-
-> That reconsideration of the voting on the readings of Bill No.'s 315 and 316, BE APPROVED.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (12-0)
-

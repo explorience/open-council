@@ -272,6 +272,59 @@ That the meeting Adjourn.
 The meeting adjourned at 5:26 PM.
 
 ****
+
+---
+
+## Votes
+
+*5 substantive votes at this meeting (1 contested, 4 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.2 and 2.3 BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (12-0)
+
+### 2.1. London Small Business Centre – Board Governance Structure Updates
+
+> That, on the recommendation of the Director, City Planning and City Planner, and as requested by the Small Business Centre, Councillors S. Hillier and P. Van Meerbergen BE APPOINTED to the Small Business Centre for a special meeting (date to be determined) to undertake the actions required to ame...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.1. Nomination of a New Budget Chair
+
+> That Councillor E. Peloza BE APPOINTED as the Council lead for the Budget process, acting as Budget Chair with duties including coordination of all Budget activities with the Civic Administration and the Chairing of the Strategic Priorities and Policy Committee meetings where discussion and consi...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.2. Kettle Creek Conservation Authority Membership
+
+> That the current membership of the Kettle Creek Conservation Authority allocating one (1) member each to the Municipality of Central Elgin, the Municipality of Middlesex Centre, the Municipality of Thames Centre, the Township of Malahide, and the Township of Southwold; and two (2) members to the ...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (13-0)
+
+### 4.4. Operation of City Council
+
+> That the Governance Working Group BE DIRECTED to consider, in consultation with the Civic Administration, how the operations of council may be changed to potentially realize efficiencies in line with the corporate reorganization, while better serving London, including but not limited to: hours of...
+
+**✅ Motion Passed (12 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
 ---
 
 ## Full Transcript
@@ -682,57 +735,3 @@ So look for a motion to adjourn. I see a Councillor Van Mirberg and I see Counci
 Motion's carried. Meeting adjourned at 526. Thank you all.
 
 </details>
-
----
-
-## Votes
-
-*5 substantive votes at this meeting (1 contested, 4 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.2 and 2.3 BE APPROVED.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (12-0)
-
-### 2.1. London Small Business Centre – Board Governance Structure Updates
-
-> That, on the recommendation of the Director, City Planning and City Planner, and as requested by the Small Business Centre, Councillors S. Hillier and P. Van Meerbergen BE APPOINTED to the Small Business Centre for a special meeting (date to be determined) to undertake the actions required to ame...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (13-0)
-
-### 4.1. Nomination of a New Budget Chair
-
-> That Councillor E. Peloza BE APPOINTED as the Council lead for the Budget process, acting as Budget Chair with duties including coordination of all Budget activities with the Civic Administration and the Chairing of the Strategic Priorities and Policy Committee meetings where discussion and consi...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (13-0)
-
-### 4.2. Kettle Creek Conservation Authority Membership
-
-> That the current membership of the Kettle Creek Conservation Authority allocating one (1) member each to the Municipality of Central Elgin, the Municipality of Middlesex Centre, the Municipality of Thames Centre, the Township of Malahide, and the Township of Southwold; and two (2) members to the ...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (13-0)
-
-### 4.4. Operation of City Council
-
-> That the Governance Working Group BE DIRECTED to consider, in consultation with the Civic Administration, how the operations of council may be changed to potentially realize efficiencies in line with the corporate reorganization, while better serving London, including but not limited to: hours of...
-
-**✅ Motion Passed (12 to 3)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (10):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Arielle Kayabaga](/councillors/current/a-kayabaga)
-
-**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-</details>
-

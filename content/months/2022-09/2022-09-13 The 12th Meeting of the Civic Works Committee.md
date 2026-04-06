@@ -244,6 +244,36 @@ That the Civic Works Committee Deferred Matters List as at August 15, 2022, BE R
 
 
 The meeting adjourned at 1:04 PM.
+
+---
+
+## Votes
+
+*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.2, 2.4, 2.5, 2.7 and 2.8 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.3. Windermere Road Improvements - Environmental Study Report
+
+> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report, dated September 13, 2022, related to the Windermere Road Improvements Municipal Class Schedule C Environmental Assessment: a)    the Windermere ...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
+
+### 2.6. Oxford Street West Improvements - Environmental Assessment Study
+
+> That the staff report, dated September 13, 2022, with respect to an Environmental Assessment Study related to the Oxford Street West Improvements, BE REFERRED back to the Civic Administration to determine how to proceed with the matter. (2022-E05)
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (4-0)
 ---
 
 ## Full Transcript
@@ -542,34 +572,3 @@ So to the end of the 12th meeting, the Civic Works Committee looking for a motio
 Thank you very much, and I wish you a wonderful week.
 
 </details>
-
----
-
-## Votes
-
-*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1, 2.2, 2.4, 2.5, 2.7 and 2.8 BE APPROVED.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 2.3. Windermere Road Improvements - Environmental Study Report
-
-> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report, dated September 13, 2022, related to the Windermere Road Improvements Municipal Class Schedule C Environmental Assessment: a)    the Windermere ...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 2.6. Oxford Street West Improvements - Environmental Assessment Study
-
-> That the staff report, dated September 13, 2022, with respect to an Environmental Assessment Study related to the Oxford Street West Improvements, BE REFERRED back to the Civic Administration to determine how to proceed with the matter. (2022-E05)
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-

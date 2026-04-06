@@ -829,6 +829,84 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 6:37 PM.
 
 ****
+
+---
+
+## Votes
+
+*9 substantive votes at this meeting (0 contested, 9 unanimous). Procedural motions excluded.*
+
+### 3.4. Not to be heard before 1:05 PM - Public Participation Meeting - 2025 Amendments to Consolidated Fees and Charges By-law
+
+> That, on the recommendation of the City Clerk, with the concurrence of the Deputy City Manager, Finance Supports, the proposed by-law as appended to the staff report dated October 8, 2024 as Appendix “B”, BE INTRODUCED at the Municipal Council meeting to be held on October 15, 2024, for the purpo...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 3.6. Not to be heard before 1:45 PM - Public Participation Meeting - 2025 Water and Wastewater Rates
+
+> That, on the recommendation of the Deputy City Manager, Environment & Infrastructure and the Deputy City Manager, Finance Supports, the following actions be taken with respect to the 2025 Water and Wastewater rates and charges: a)    the proposed by-law as appended to the staff report dated Octob...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 3.7. Delegation - Chief T. Truong, Chief of Police
+
+> That pursuant to section 36.3 of the Council Procedure By-law, Chief T. Truong, Chief of Police, London Police Services BE PERMITTED to speak an additional five (5) minutes with respect to this matter.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 3.7. Delegation - Chief T. Truong, Chief of Police
+
+> That the motion BE AMENDED to include "attached community policing statistics".
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 3.7. Delegation - Chief T. Truong, Chief of Police
+
+> That the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 3.7. Delegation - Chief T. Truong, Chief of Police
+
+> That pursuant to section 33.8 of the Council Procedure By-law, the Strategic Priorities and Policy Committee BE PERMITTED to proceed beyond 6:00 PM.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 4.2. Consideration of Appointment to the Greater London International Airport Authority Board
+
+> That Larry Weir BE APPOINTED to the Greater London International Airport Authority Board of Directors for the term ending July 31, 2027; it being noted that the Strategic Priorities and Policy Committee received a communication dated September 10, 2024 from G. Kotsiomitis, Chair and M. Campbell, ...
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 4.3. RBC Place London Board Appointment Recommendations
+
+> That the request from the Board of Directors RBC Place London BE REFERRED to Civic Administration to draft a revised London Convention Centre Corporation by-law and report back to the November 19, 2024 meeting of Strategic Priorities and Policy Committee. it being noted that the Strategic Priorit...
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 4.4. Consideration of Appointment to the Animal Welfare Community Advisory Committee (Requires up to 5 New Members)
+
+> That N. Lippay and L. Heffernan BE APPOINTED to the Animal Welfare Community Advisory Committee for the term ending March 31, 2025.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
 ---
 
 ## Full Transcript
@@ -1631,82 +1709,3 @@ With that, I'll look for motion to adjourn. Councilor Stevenson, Councilor Cuddy
 Good day.
 
 </details>
-
----
-
-## Votes
-
-*9 substantive votes at this meeting (0 contested, 9 unanimous). Procedural motions excluded.*
-
-### 3.4. Not to be heard before 1:05 PM - Public Participation Meeting - 2025 Amendments to Consolidated Fees and Charges By-law
-
-> That, on the recommendation of the City Clerk, with the concurrence of the Deputy City Manager, Finance Supports, the proposed by-law as appended to the staff report dated October 8, 2024 as Appendix “B”, BE INTRODUCED at the Municipal Council meeting to be held on October 15, 2024, for the purpo...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 3.6. Not to be heard before 1:45 PM - Public Participation Meeting - 2025 Water and Wastewater Rates
-
-> That, on the recommendation of the Deputy City Manager, Environment & Infrastructure and the Deputy City Manager, Finance Supports, the following actions be taken with respect to the 2025 Water and Wastewater rates and charges: a)    the proposed by-law as appended to the staff report dated Octob...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 3.7. Delegation - Chief T. Truong, Chief of Police
-
-> That pursuant to section 36.3 of the Council Procedure By-law, Chief T. Truong, Chief of Police, London Police Services BE PERMITTED to speak an additional five (5) minutes with respect to this matter.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 3.7. Delegation - Chief T. Truong, Chief of Police
-
-> That the motion BE AMENDED to include "attached community policing statistics".
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 3.7. Delegation - Chief T. Truong, Chief of Police
-
-> That the motion, as amended, BE APPROVED.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 3.7. Delegation - Chief T. Truong, Chief of Police
-
-> That pursuant to section 33.8 of the Council Procedure By-law, the Strategic Priorities and Policy Committee BE PERMITTED to proceed beyond 6:00 PM.
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 4.2. Consideration of Appointment to the Greater London International Airport Authority Board
-
-> That Larry Weir BE APPOINTED to the Greater London International Airport Authority Board of Directors for the term ending July 31, 2027; it being noted that the Strategic Priorities and Policy Committee received a communication dated September 10, 2024 from G. Kotsiomitis, Chair and M. Campbell, ...
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 4.3. RBC Place London Board Appointment Recommendations
-
-> That the request from the Board of Directors RBC Place London BE REFERRED to Civic Administration to draft a revised London Convention Centre Corporation by-law and report back to the November 19, 2024 meeting of Strategic Priorities and Policy Committee. it being noted that the Strategic Priorit...
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 4.4. Consideration of Appointment to the Animal Welfare Community Advisory Committee (Requires up to 5 New Members)
-
-> That N. Lippay and L. Heffernan BE APPOINTED to the Animal Welfare Community Advisory Committee for the term ending March 31, 2025.
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
