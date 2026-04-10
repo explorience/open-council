@@ -2,12 +2,12 @@
 title: "David Ferreira"
 type: councillor
 slug: "d-ferreira"
-meetingCount: 222
+meetingCount: 223
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 3181
-votesYea: 2504
-votesNay: 377
+totalVotes: 3192
+votesYea: 2514
+votesNay: 378
 votesAbsent: 300
 attendanceRate: 97.3
 participationRate: 90.6
@@ -30,9 +30,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 3,181 |
-| Voted Yea | 2,504 (78.7%) |
-| Voted Nay | 377 (11.9%) |
+| Total Votes | 3,192 |
+| Voted Yea | 2,514 (78.8%) |
+| Voted Nay | 378 (11.8%) |
 | Absent | 300 (9.4%) |
 
 
@@ -197,17 +197,18 @@ Voted **Nay** - Motion Passed (8 to 3)
 
 ## Committees Served
 
+- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [City Council](/committees/city-council)
-- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Planning and Environment Committee](/committees/planning-environment)
 - [Budget Committee](/committees/budget)
 - [Civic Works Committee](/committees/civic-works)
 - [Community Protective Services Committee](/committees/community-protective-services-committee)
 - [Corporate Services Committee](/committees/corporate-services)
 
-## Recent Meetings (222 total)
+## Recent Meetings (223 total)
 
+- [5th Meeting of the Strategic Priorities and Policy Committee](</months/2026-03/2026-03-24 5th Meeting of the Strategic Priorities and Policy Committee>) - Tue Mar 24 2026
 - [5th Special Meeting of the Community and Protective Services Committee](</months/2026-03/2026-03-13 5th Special Meeting of the Community and Protective Services Committee>) - Fri Mar 13 2026
 - [4th Meeting of the Community and Protective Services Committee](</months/2026-03/2026-03-09 4th Meeting of the Community and Protective Services Committee>) - Mon Mar 9 2026
 - [4th Council Meeting](</months/2026-03/2026-03-03 4th Council Meeting>) - Tue Mar 3 2026
@@ -217,4 +218,3 @@ Voted **Nay** - Motion Passed (8 to 3)
 - [3rd Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-03 3rd Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 3 2026
 - [3rd Meeting of the Planning and Environment Committee](</months/2026-01/2026-01-27 3rd Meeting of the Planning and Environment Committee>) - Tue Jan 27 2026
 - [2nd Meeting of the Community and Protective Services Committee](</months/2026-01/2026-01-26 2nd Meeting of the Community and Protective Services Committee>) - Mon Jan 26 2026
-- [2nd Meeting of the Strategic Priorities and Policy Committee](</months/2026-01/2026-01-13 2nd Meeting of the Strategic Priorities and Policy Committee>) - Tue Jan 13 2026

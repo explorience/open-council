@@ -5,10 +5,10 @@ slug: "s-lehman"
 meetingCount: 399
 yearsActive: "2018 - 2026"
 isCurrent: true
-totalVotes: 7538
+totalVotes: 7549
 votesYea: 6494
 votesNay: 412
-votesAbsent: 632
+votesAbsent: 643
 attendanceRate: 96.5
 participationRate: 91.6
 yeaRate: 94.0
@@ -30,10 +30,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 7,538 |
-| Voted Yea | 6,494 (86.2%) |
+| Total Votes | 7,549 |
+| Voted Yea | 6,494 (86.0%) |
 | Voted Nay | 412 (5.5%) |
-| Absent | 632 (8.4%) |
+| Absent | 643 (8.5%) |
 
 
 ### Substantive Votes
