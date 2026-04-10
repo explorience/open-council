@@ -54,7 +54,7 @@ jobs:
           git push
 
       - name: Send success notification
-        if: steps.changes.outputs.has_changes == 'true'
+        if: steps.changes.outputs.has_changes == 'true' && vars.EMAIL_CONFIGURED == 'true'
         uses: dawidd6/action-send-mail@v3
         with:
           server_address: smtp.gmail.com
@@ -72,7 +72,7 @@ jobs:
             View the changes: https://github.com/${{ github.repository }}/commits/main
 
       - name: Send failure notification
-        if: failure()
+        if: failure() && vars.EMAIL_CONFIGURED == 'true'
         uses: dawidd6/action-send-mail@v3
         with:
           server_address: smtp.gmail.com
