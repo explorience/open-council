@@ -1,0 +1,139 @@
+{
+  "generatedAt": "2026-04-13T20:20:14.952Z",
+  "matrix": {
+    "j-morgan": {
+      "s-lewis": 93.33333333333333,
+      "p-cuddy": 97.14285714285714,
+      "s-lehman": 96,
+      "a-hopkins": 100,
+      "s-franke": 93.33333333333333,
+      "e-peloza": 88.23529411764706,
+      "s-hillier": 97.87234042553192
+    },
+    "h-mcalister": {},
+    "s-lewis": {
+      "j-morgan": 93.33333333333333,
+      "p-cuddy": 100,
+      "s-stevenson": 100,
+      "c-rahman": 98.7878787878788,
+      "s-lehman": 98.67424242424242,
+      "a-hopkins": 95.22388059701493,
+      "s-franke": 97.58064516129032,
+      "e-peloza": 95.91836734693877,
+      "s-hillier": 99.023709902371
+    },
+    "p-cuddy": {
+      "j-morgan": 97.14285714285714,
+      "s-lewis": 100,
+      "s-stevenson": 100,
+      "s-lehman": 98.99497487437185,
+      "e-peloza": 96.15384615384616,
+      "s-hillier": 100
+    },
+    "s-stevenson": {
+      "s-lewis": 100,
+      "p-cuddy": 100,
+      "s-lehman": 100,
+      "s-hillier": 100
+    },
+    "j-pribil": {},
+    "s-trosow": {},
+    "c-rahman": {
+      "s-lewis": 98.7878787878788,
+      "s-lehman": 100,
+      "s-franke": 98.75776397515527,
+      "s-hillier": 100
+    },
+    "s-lehman": {
+      "j-morgan": 96,
+      "s-lewis": 98.67424242424242,
+      "p-cuddy": 98.99497487437185,
+      "s-stevenson": 100,
+      "c-rahman": 100,
+      "a-hopkins": 90.625,
+      "s-franke": 96.80365296803653,
+      "e-peloza": 95.30201342281879,
+      "s-hillier": 98.67924528301887
+    },
+    "a-hopkins": {
+      "j-morgan": 100,
+      "s-lewis": 95.22388059701493,
+      "s-lehman": 90.625,
+      "s-franke": 100,
+      "s-hillier": 94.37751004016064
+    },
+    "p-van-meerbergen": {},
+    "s-franke": {
+      "j-morgan": 93.33333333333333,
+      "s-lewis": 97.58064516129032,
+      "c-rahman": 98.75776397515527,
+      "s-lehman": 96.80365296803653,
+      "a-hopkins": 100,
+      "s-hillier": 97.91666666666666
+    },
+    "e-peloza": {
+      "j-morgan": 88.23529411764706,
+      "s-lewis": 95.91836734693877,
+      "p-cuddy": 96.15384615384616,
+      "s-lehman": 95.30201342281879,
+      "s-hillier": 96.22641509433963
+    },
+    "d-ferreira": {},
+    "s-hillier": {
+      "j-morgan": 97.87234042553192,
+      "s-lewis": 99.023709902371,
+      "p-cuddy": 100,
+      "s-stevenson": 100,
+      "c-rahman": 100,
+      "s-lehman": 98.67924528301887,
+      "a-hopkins": 94.37751004016064,
+      "s-franke": 97.91666666666666,
+      "e-peloza": 96.22641509433963
+    }
+  },
+  "councillors": [
+    {
+      "slug": "j-morgan",
+      "name": "Josh Morgan"
+    },
+    {
+      "slug": "s-lewis",
+      "name": "Shawn Lewis"
+    },
+    {
+      "slug": "p-cuddy",
+      "name": "Peter Cuddy"
+    },
+    {
+      "slug": "s-stevenson",
+      "name": "Susan Stevenson"
+    },
+    {
+      "slug": "c-rahman",
+      "name": "Corrine Rahman"
+    },
+    {
+      "slug": "s-lehman",
+      "name": "Steve Lehman"
+    },
+    {
+      "slug": "a-hopkins",
+      "name": "Anna Hopkins"
+    },
+    {
+      "slug": "s-franke",
+      "name": "Skylar Franke"
+    },
+    {
+      "slug": "e-peloza",
+      "name": "Elizabeth Peloza"
+    },
+    {
+      "slug": "s-hillier",
+      "name": "Steve Hillier"
+    }
+  ],
+  "type": "committee",
+  "motionCount": 2583,
+  "committeeName": "Planning and Environment Committee"
+}

@@ -2,11 +2,11 @@
   "councillor": "Steve Lehman",
   "slug": "s-lehman",
   "attendance": {
-    "totalMeetings": 405,
+    "totalMeetings": 406,
     "present": 391,
-    "absent": 14,
+    "absent": 15,
     "remote": 3,
-    "attendanceRate": 96.54320987654322,
+    "attendanceRate": 96.30541871921181,
     "trend": [
       {
         "period": "2018",
@@ -58,33 +58,33 @@
       },
       {
         "period": "2026",
-        "attendanceRate": 100,
+        "attendanceRate": 90,
         "meetingsAttended": 9,
-        "meetingsTotal": 9
+        "meetingsTotal": 10
       }
     ],
-    "trendDirection": "stable"
+    "trendDirection": "declining"
   },
   "voting": {
-    "totalVotes": 7538,
+    "totalVotes": 7549,
     "yeas": 6494,
     "nays": 412,
-    "absent": 632,
-    "participationRate": 91.61581321305387,
+    "absent": 643,
+    "participationRate": 91.48231553848191,
     "yeaRate": 94.03417318273965,
     "contestedDissentRate": 10.09216589861751,
     "contestedVotes": 2170,
-    "substantiveVotes": 4426,
+    "substantiveVotes": 4434,
     "substantiveYeas": 3555,
     "substantiveNays": 379,
-    "substantiveParticipationRate": 88.88386805241754,
+    "substantiveParticipationRate": 88.72350022552999,
     "substantiveYeaRate": 90.36603965429589
   },
   "budgetVoting": {
-    "totalBudgetVotes": 717,
+    "totalBudgetVotes": 718,
     "budgetYeas": 584,
     "budgetNays": 112,
-    "budgetAbsent": 21
+    "budgetAbsent": 22
   },
   "topAlignments": [
     {
@@ -252,10 +252,10 @@
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 1941,
+      "totalVotes": 1952,
       "yeas": 1416,
       "nays": 113,
-      "participationRate": 78.77382792375064
+      "participationRate": 78.32991803278688
     },
     {
       "committee": "Planning and Environment Committee",

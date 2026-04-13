@@ -1,0 +1,173 @@
+{
+  "generatedAt": "2026-04-13T20:20:14.947Z",
+  "matrix": {
+    "j-morgan": {
+      "h-mcalister": 94.11764705882352,
+      "p-cuddy": 90.9090909090909,
+      "s-stevenson": 86.66666666666667,
+      "j-pribil": 95,
+      "s-trosow": 90.9090909090909,
+      "c-rahman": 84.61538461538461,
+      "e-peloza": 95.45454545454545,
+      "d-ferreira": 85.29411764705883
+    },
+    "h-mcalister": {
+      "j-morgan": 94.11764705882352,
+      "p-cuddy": 96,
+      "j-pribil": 92.91338582677166,
+      "s-trosow": 90.625,
+      "e-peloza": 96,
+      "d-ferreira": 96.06299212598425
+    },
+    "s-lewis": {
+      "s-stevenson": 90.9090909090909,
+      "j-pribil": 94.73684210526315,
+      "s-trosow": 87.5,
+      "c-rahman": 100,
+      "a-hopkins": 87.5,
+      "e-peloza": 98.55072463768117,
+      "d-ferreira": 84.21052631578947,
+      "s-hillier": 99.48453608247422
+    },
+    "p-cuddy": {
+      "j-morgan": 90.9090909090909,
+      "h-mcalister": 96,
+      "j-pribil": 93.22033898305084,
+      "s-trosow": 85.96491228070175,
+      "d-ferreira": 90.56603773584906
+    },
+    "s-stevenson": {
+      "j-morgan": 86.66666666666667,
+      "s-lewis": 90.9090909090909,
+      "j-pribil": 91.37931034482759,
+      "c-rahman": 94.11764705882352,
+      "e-peloza": 96,
+      "d-ferreira": 85.29411764705883
+    },
+    "j-pribil": {
+      "j-morgan": 95,
+      "h-mcalister": 92.91338582677166,
+      "s-lewis": 94.73684210526315,
+      "p-cuddy": 93.22033898305084,
+      "s-stevenson": 91.37931034482759,
+      "s-trosow": 86.53846153846155,
+      "c-rahman": 93.33333333333333,
+      "a-hopkins": 94.44444444444444,
+      "e-peloza": 94.26229508196722,
+      "d-ferreira": 90.72164948453609
+    },
+    "s-trosow": {
+      "j-morgan": 90.9090909090909,
+      "h-mcalister": 90.625,
+      "s-lewis": 87.5,
+      "p-cuddy": 85.96491228070175,
+      "j-pribil": 86.53846153846155,
+      "c-rahman": 75,
+      "a-hopkins": 88.88888888888889,
+      "e-peloza": 87.3015873015873,
+      "d-ferreira": 94.15584415584416
+    },
+    "c-rahman": {
+      "j-morgan": 84.61538461538461,
+      "s-lewis": 100,
+      "s-stevenson": 94.11764705882352,
+      "j-pribil": 93.33333333333333,
+      "s-trosow": 75,
+      "a-hopkins": 87.5,
+      "e-peloza": 100,
+      "d-ferreira": 88.37209302325581
+    },
+    "s-lehman": {},
+    "a-hopkins": {
+      "s-lewis": 87.5,
+      "j-pribil": 94.44444444444444,
+      "s-trosow": 88.88888888888889,
+      "c-rahman": 87.5,
+      "e-peloza": 88.88888888888889,
+      "d-ferreira": 87.5
+    },
+    "p-van-meerbergen": {},
+    "s-franke": {},
+    "e-peloza": {
+      "j-morgan": 95.45454545454545,
+      "h-mcalister": 96,
+      "s-lewis": 98.55072463768117,
+      "s-stevenson": 96,
+      "j-pribil": 94.26229508196722,
+      "s-trosow": 87.3015873015873,
+      "c-rahman": 100,
+      "a-hopkins": 88.88888888888889,
+      "d-ferreira": 87.75510204081633,
+      "s-hillier": 100
+    },
+    "d-ferreira": {
+      "j-morgan": 85.29411764705883,
+      "h-mcalister": 96.06299212598425,
+      "s-lewis": 84.21052631578947,
+      "p-cuddy": 90.56603773584906,
+      "s-stevenson": 85.29411764705883,
+      "j-pribil": 90.72164948453609,
+      "s-trosow": 94.15584415584416,
+      "c-rahman": 88.37209302325581,
+      "a-hopkins": 87.5,
+      "e-peloza": 87.75510204081633
+    },
+    "s-hillier": {
+      "s-lewis": 99.48453608247422,
+      "e-peloza": 100
+    }
+  },
+  "councillors": [
+    {
+      "slug": "j-morgan",
+      "name": "Josh Morgan"
+    },
+    {
+      "slug": "h-mcalister",
+      "name": "Hadleigh McAlister"
+    },
+    {
+      "slug": "s-lewis",
+      "name": "Shawn Lewis"
+    },
+    {
+      "slug": "p-cuddy",
+      "name": "Peter Cuddy"
+    },
+    {
+      "slug": "s-stevenson",
+      "name": "Susan Stevenson"
+    },
+    {
+      "slug": "j-pribil",
+      "name": "Jerry Pribil"
+    },
+    {
+      "slug": "s-trosow",
+      "name": "Sam Trosow"
+    },
+    {
+      "slug": "c-rahman",
+      "name": "Corrine Rahman"
+    },
+    {
+      "slug": "a-hopkins",
+      "name": "Anna Hopkins"
+    },
+    {
+      "slug": "e-peloza",
+      "name": "Elizabeth Peloza"
+    },
+    {
+      "slug": "d-ferreira",
+      "name": "David Ferreira"
+    },
+    {
+      "slug": "s-hillier",
+      "name": "Steve Hillier"
+    }
+  ],
+  "type": "committee",
+  "motionCount": 1323,
+  "committeeName": "Community and Protective Services Committee"
+}

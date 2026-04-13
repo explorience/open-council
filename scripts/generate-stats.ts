@@ -462,13 +462,19 @@ async function main() {
   // ============================================
   console.log("\n🗳️ Loading voting data...")
 
-  // Map: motionKey -> councillorSlug -> vote
-  const motionVotes: Map<string, Map<string, "yea" | "nay" | "absent">> =
-    new Map()
+  // Map: motionKey -> { vote: "yea"|"nay", meetingType, itemTitle, motionText }
+  // This stores full metadata so we can filter by committee and topic
+  interface MotionMeta {
+    vote: "yea" | "nay" | "absent"
+    meetingType: string
+    itemTitle: string
+    motionText?: string
+  }
+  const motionVotes: Map<string, Map<string, MotionMeta>> = new Map()
 
   const voteFiles = await fs.readdir(votesDir)
   for (const file of voteFiles) {
-    if (file === "_meta.json" || !file.endsWith(".json")) continue
+    if (file === "_meta.json" || file === "_all-motions.json" || !file.endsWith(".json")) continue
 
     const filePath = path.join(votesDir, file)
     const content = await fs.readFile(filePath, "utf-8")
@@ -607,7 +613,7 @@ async function main() {
     dissents.sort((a, b) => b.date.localeCompare(a.date))
     councillorStats[slug].notableDissents = dissents.slice(0, 10)
 
-    // Build motion vote map for alignment analysis
+    // Build motion vote map for alignment analysis (with metadata for filtering)
     for (const vote of data.votes) {
       if (vote.vote === "absent") continue // Skip absent for alignment
 
@@ -616,7 +622,12 @@ async function main() {
       if (!motionVotes.has(motionKey)) {
         motionVotes.set(motionKey, new Map())
       }
-      motionVotes.get(motionKey)!.set(slug, vote.vote)
+      motionVotes.get(motionKey)!.set(slug, {
+        vote: vote.vote,
+        meetingType: vote.meetingType,
+        itemTitle: vote.itemTitle,
+        motionText: vote.motionText,
+      })
     }
   }
 
@@ -664,7 +675,7 @@ async function main() {
         if (!counts) continue
 
         counts.shared++
-        if (votes.get(voters[i]) === votes.get(voters[j])) {
+        if (votes.get(voters[i])!.vote === votes.get(voters[j])!.vote) {
           counts.agreed++
         }
       }
@@ -728,6 +739,195 @@ async function main() {
   console.log(`   Calculated ${allAlignments.length} councillor pair alignments`)
 
   // ============================================
+  // PART 3B: Generate Committee & Topic-Specific Alignment Matrices
+  // ============================================
+  console.log("\n📊 Generating committee & topic-specific alignment matrices...")
+
+  // Topic keyword definitions for filtering
+  const TOPIC_KEYWORDS: Record<string, string[]> = {
+    housing: ["housing", "affordable housing", "social housing", "homeless", "shelter", "rent", "rent supplement", "supportive housing", "london middlesex community housing", "lmch", "housing accelerator", "haf", "encampment", "housing crisis", "rgi"],
+    transit: ["transit", "bus", "brt", "rapid transit", "london transit", "ltc", "bus route", "shift", "east london link", "wellington gateway", "public transportation", "mass transit"],
+    climate: ["climate", "environment", "ceap", "climate emergency", "greenhouse gas", "emissions", "net zero", "sustainability", "renewable", "carbon"],
+    budget: ["budget", "tax", "levy", "fiscal", "appropriation", "property tax", "spending", "allocation"],
+    policing: ["police", "lps", "london police", "policing", "law enforcement", "police budget", "police services board", "lpsb", "community safety", "carding"],
+    development: ["development", "zoning", "subdivision", "official plan", "ocp", "land use", "sprawl", "intensification", "heritage", "heritage designation"],
+    infrastructure: ["infrastructure", "roads", "sewer", "water", "stormwater", "facilities", "capital", "construction", "bridge", "road network"],
+    environment: ["environment", "tree", "park", "green space", "conservation", "flood", "watershed", "environmental"],
+  }
+
+  // Committee slug mapping
+  const COMMITTEE_SLUGS: Record<string, string> = {
+    "Council": "council",
+    "Budget Committee": "budget",
+    "Civic Works Committee": "civic-works",
+    "Community and Protective Services Committee": "community-protective",
+    "Corporate Services Committee": "corporate-services",
+    "Infrastructure and Corporate Services Committee": "infrastructure-corporate",
+    "Planning and Environment Committee": "planning-environment",
+    "Strategic Priorities and Policy Committee": "strategic-priorities",
+  }
+
+  // Function to compute alignment matrix from filtered motions
+  function computeFilteredAlignment(
+    filterFn: (meta: MotionMeta) => boolean
+  ): Record<string, Record<string, number>> {
+    const filteredCounts: Map<string, { shared: number; agreed: number }> = new Map()
+
+    // Initialize pairs
+    for (let i = 0; i < allSlugs.length; i++) {
+      for (let j = i + 1; j < allSlugs.length; j++) {
+        const pairKey = [allSlugs[i], allSlugs[j]].sort().join("::")
+        filteredCounts.set(pairKey, { shared: 0, agreed: 0 })
+      }
+    }
+
+    // Count alignments only for filtered motions
+    for (const [motionKey, votes] of motionVotes) {
+      // Check if this motion passes the filter (all voters' metadata must match)
+      const voteMetas = Array.from(votes.values())
+      if (!voteMetas.some(m => filterFn(m))) continue
+
+      const voters = Array.from(votes.keys())
+      for (let i = 0; i < voters.length; i++) {
+        for (let j = i + 1; j < voters.length; j++) {
+          const pairKey = [voters[i], voters[j]].sort().join("::")
+          const counts = filteredCounts.get(pairKey)
+          if (!counts) continue
+          counts.shared++
+          if (votes.get(voters[i])!.vote === votes.get(voters[j])!.vote) {
+            counts.agreed++
+          }
+        }
+      }
+    }
+
+    // Build matrix
+    const matrix: Record<string, Record<string, number>> = {}
+    for (const slug of allSlugs) matrix[slug] = {}
+
+    for (const [pairKey, counts] of filteredCounts) {
+      if (counts.shared < 5) continue // Minimum votes threshold
+      const [slug1, slug2] = pairKey.split("::")
+      const rate = (counts.agreed / counts.shared) * 100
+      matrix[slug1][slug2] = rate
+      matrix[slug2][slug1] = rate
+    }
+
+    return matrix
+  }
+
+  // Generate committee-specific matrices
+  const committeeMatrices: Record<string, { matrix: Record<string, Record<string, number>>; count: number }> = {}
+  for (const [committeeName, slug] of Object.entries(COMMITTEE_SLUGS)) {
+    const matrix = computeFilteredAlignment(meta => meta.meetingType === committeeName)
+    // Count motions that have at least one vote for this committee
+    const voteCount = Array.from(motionVotes.values()).filter(votes =>
+      Array.from(votes.values()).some(m => m.meetingType === committeeName)
+    ).length
+    committeeMatrices[slug] = { matrix, count: voteCount }
+    console.log(`   Committee ${committeeName}: ${Object.keys(matrix).length} councillors with data, ${voteCount} motions`)
+  }
+
+  // Generate topic-specific matrices
+  const topicMatrices: Record<string, { matrix: Record<string, Record<string, number>>; count: number }> = {}
+  for (const [topicName, keywords] of Object.entries(TOPIC_KEYWORDS)) {
+    const pattern = new RegExp(keywords.join("|"), "i")
+    const matrix = computeFilteredAlignment(meta =>
+      pattern.test(meta.itemTitle) || (meta.motionText && pattern.test(meta.motionText))
+    )
+    const voteCount = Array.from(motionVotes.entries()).filter(([_, votes]) =>
+      Array.from(votes.values()).some(m => pattern.test(m.itemTitle) || (m.motionText && pattern.test(m.motionText)))
+    ).length
+    topicMatrices[topicName] = { matrix, count: voteCount }
+    console.log(`   Topic ${topicName}: ${Object.keys(matrix).length} councillors with data, ${voteCount} motions`)
+  }
+
+  // ============================================
+  // PART 3C: Generate Ward Comparison Data
+  // ============================================
+  console.log("\n🗳️ Generating ward comparison data...")
+
+  // Get current councillors' wards
+  const councillorWards: Record<string, number> = {}
+  for (const slug of allSlugs) {
+    const canonical = Object.keys(registry).find(n => getSlug(n) === slug)
+    if (canonical) {
+      const info = registry[canonical]
+      const currentTerm = info.terms.find(t => t.end >= 2024 || t.end === 0)
+      if (currentTerm?.ward) {
+        councillorWards[slug] = currentTerm.ward
+      }
+    }
+  }
+
+  // Build ward comparison: for each ward, how does their councillor vote vs city average
+  const wardComparisons: Record<number, {
+    councillor: string
+    slug: string
+    wardVotes: number
+    cityYeaRate: number
+    wardYeaRate: number
+    difference: number
+    contestedAgreement: number
+    motionsWithWardFocus: number
+  }> = {}
+
+  for (const [wardStr, wardNum] of Object.entries(councillorWards)) {
+    const slug = wardStr
+    const wardVotes: { ward: "yea" | "nay"; city: "yea" | "nay" }[] = []
+
+    for (const [motionKey, votes] of motionVotes) {
+      const wardVote = votes.get(slug)
+      if (!wardVote || wardVote.vote === "absent") continue
+
+      // Count city-wide yea rate for this motion
+      const cityYeas = Array.from(votes.values()).filter(v => v.vote === "yea").length
+      const cityTotal = Array.from(votes.values()).filter(v => v.vote !== "absent").length
+      if (cityTotal === 0) continue
+
+      const cityYeaRate = cityYeas / cityTotal
+      const wardYea = wardVote.vote === "yea" ? 1 : 0
+
+      // Check if this motion mentions the ward (ward-specific item)
+      const mentionsWard = Array.from(votes.values()).some(v =>
+        v.itemTitle.includes(`Ward ${wardNum}`) ||
+        v.motionText?.includes(`Ward ${wardNum}`) ||
+        v.itemTitle.includes(`Ward ${wardNum}`) ||
+        v.motionText?.includes(`${wardNum}`)
+      )
+
+      wardVotes.push({
+        ward: wardVote.vote,
+        city: cityYeaRate >= 0.5 ? "yea" : "nay",
+      })
+
+      if (mentionsWard) {
+        // Track ward-specific motions
+      }
+    }
+
+    if (wardVotes.length > 0) {
+      const wardYeaRate = wardVotes.filter(v => v.ward === "yea").length / wardVotes.length
+      const cityYeaRate = wardVotes.filter(v => v.city === "yea").length / wardVotes.length
+      const contestedAgreement = wardVotes.filter(v => v.ward === v.city).length / wardVotes.length
+
+      const canonical = Object.keys(registry).find(n => getSlug(n) === slug)
+      wardComparisons[wardNum] = {
+        councillor: canonical ? registry[canonical].displayName : slug,
+        slug,
+        wardVotes: wardVotes.length,
+        cityYeaRate: Math.round(cityYeaRate * 100) / 100,
+        wardYeaRate: Math.round(wardYeaRate * 100) / 100,
+        difference: Math.round((wardYeaRate - cityYeaRate) * 100) / 100,
+        contestedAgreement: Math.round(contestedAgreement * 100),
+        motionsWithWardFocus: 0,
+      }
+    }
+  }
+
+  console.log(`   Generated ward comparisons for ${Object.keys(wardComparisons).length} wards`)
+
+  // ============================================
   // PART 4: Write Output Files
   // ============================================
   console.log("\n📝 Writing stats files...")
@@ -768,9 +968,62 @@ async function main() {
 
   await fs.writeFile(path.join(outputDir, "alignment-matrix.json"), alignmentMatrixData)
 
-  // Also copy to static directory for Quartz build
+  // Set up static directory for Quartz build
   const staticDir = path.join(process.cwd(), "quartz", "static", "data", "stats")
   await fs.mkdir(staticDir, { recursive: true })
+
+  // Write committee-specific alignment matrices
+  for (const [slug, data] of Object.entries(committeeMatrices)) {
+    const councillors = allSlugs
+      .filter(s => Object.keys(data.matrix[s] || {}).length > 0)
+      .map(s => ({ slug: s, name: councillorStats[s]?.councillor || s }))
+
+    const matrixData = JSON.stringify({
+      generatedAt: new Date().toISOString(),
+      matrix: data.matrix,
+      councillors,
+      type: "committee",
+      motionCount: data.count,
+      committeeName: Object.entries(COMMITTEE_SLUGS).find(([, s]) => s === slug)?.[0] || slug,
+    }, null, 2)
+
+    await fs.writeFile(path.join(outputDir, `alignment-committee-${slug}.json`), matrixData)
+    await fs.writeFile(path.join(staticDir, `alignment-committee-${slug}.json`), matrixData)
+    console.log(`   Written alignment-committee-${slug}.json (${councillors.length} councillors)`)
+  }
+
+  // Write topic-specific alignment matrices
+  for (const [topicName, data] of Object.entries(topicMatrices)) {
+    const councillors = allSlugs
+      .filter(s => Object.keys(data.matrix[s] || {}).length > 0)
+      .map(s => ({ slug: s, name: councillorStats[s]?.councillor || s }))
+
+    const matrixData = JSON.stringify({
+      generatedAt: new Date().toISOString(),
+      matrix: data.matrix,
+      councillors,
+      type: "topic",
+      topicName,
+      motionCount: data.count,
+    }, null, 2)
+
+    await fs.writeFile(path.join(outputDir, `alignment-topic-${topicName}.json`), matrixData)
+    await fs.writeFile(path.join(staticDir, `alignment-topic-${topicName}.json`), matrixData)
+    console.log(`   Written alignment-topic-${topicName}.json (${councillors.length} councillors, ${data.count} motions)`)
+  }
+
+  // Write ward comparison data
+  const wardData = JSON.stringify({
+    generatedAt: new Date().toISOString(),
+    wards: wardComparisons,
+    totalWards: Object.keys(wardComparisons).length,
+  }, null, 2)
+
+  await fs.writeFile(path.join(outputDir, "ward-comparison.json"), wardData)
+  await fs.writeFile(path.join(staticDir, "ward-comparison.json"), wardData)
+  console.log(`   Written ward-comparison.json (${Object.keys(wardComparisons).length} wards)`)
+
+  // Also copy main files to static directory for Quartz build
   await fs.writeFile(path.join(staticDir, "alignment-matrix.json"), alignmentMatrixData)
   await fs.writeFile(
     path.join(staticDir, "councillor-stats.json"),
@@ -779,7 +1032,10 @@ async function main() {
 
   console.log("\n✅ Statistics generation complete!")
   console.log(`   Councillor stats: ${Object.keys(councillorStats).length}`)
-  console.log(`   Alignment pairs: ${allAlignments.length}`)
+  console.log(`   Alignment pairs (overall): ${allAlignments.length}`)
+  console.log(`   Committee matrices: ${Object.keys(committeeMatrices).length}`)
+  console.log(`   Topic matrices: ${Object.keys(topicMatrices).length}`)
+  console.log(`   Ward comparisons: ${Object.keys(wardComparisons).length}`)
 
   // Print some interesting stats
   const currentCouncillors = Object.values(councillorStats).filter(

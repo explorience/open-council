@@ -2,11 +2,11 @@
   "councillor": "David Ferreira",
   "slug": "d-ferreira",
   "attendance": {
-    "totalMeetings": 224,
-    "present": 218,
+    "totalMeetings": 225,
+    "present": 219,
     "absent": 6,
     "remote": 1,
-    "attendanceRate": 97.32142857142857,
+    "attendanceRate": 97.33333333333334,
     "trend": [
       {
         "period": "2022",
@@ -35,83 +35,83 @@
       {
         "period": "2026",
         "attendanceRate": 100,
-        "meetingsAttended": 9,
-        "meetingsTotal": 9
+        "meetingsAttended": 10,
+        "meetingsTotal": 10
       }
     ],
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 3181,
-    "yeas": 2504,
-    "nays": 377,
+    "totalVotes": 3192,
+    "yeas": 2514,
+    "nays": 378,
     "absent": 300,
-    "participationRate": 90.56900345803206,
-    "yeaRate": 86.91426587990281,
-    "contestedDissentRate": 28.416988416988413,
-    "contestedVotes": 1295,
-    "substantiveVotes": 2036,
-    "substantiveYeas": 1498,
-    "substantiveNays": 299,
-    "substantiveParticipationRate": 88.26129666011788,
-    "substantiveYeaRate": 83.36115748469672
+    "participationRate": 90.6015037593985,
+    "yeaRate": 86.92946058091286,
+    "contestedDissentRate": 28.406466512702078,
+    "contestedVotes": 1299,
+    "substantiveVotes": 2044,
+    "substantiveYeas": 1505,
+    "substantiveNays": 300,
+    "substantiveParticipationRate": 88.30724070450098,
+    "substantiveYeaRate": 83.37950138504155
   },
   "budgetVoting": {
-    "totalBudgetVotes": 329,
-    "budgetYeas": 241,
+    "totalBudgetVotes": 330,
+    "budgetYeas": 242,
     "budgetNays": 80,
     "budgetAbsent": 8
   },
   "topAlignments": [
     {
       "councillor": "Anna Hopkins",
-      "sharedVotes": 1230,
-      "agreedVotes": 1147,
-      "alignmentRate": 93.2520325203252
+      "sharedVotes": 1237,
+      "agreedVotes": 1154,
+      "alignmentRate": 93.29021827000808
     },
     {
       "councillor": "Skylar Franke",
-      "sharedVotes": 1184,
-      "agreedVotes": 1098,
-      "alignmentRate": 92.73648648648648
+      "sharedVotes": 1191,
+      "agreedVotes": 1105,
+      "alignmentRate": 92.7791771620487
     },
     {
       "councillor": "Hadleigh McAlister",
-      "sharedVotes": 1280,
-      "agreedVotes": 1176,
-      "alignmentRate": 91.875
+      "sharedVotes": 1287,
+      "agreedVotes": 1183,
+      "alignmentRate": 91.91919191919192
     },
     {
       "councillor": "Sam Trosow",
-      "sharedVotes": 1354,
-      "agreedVotes": 1234,
-      "alignmentRate": 91.1373707533235
+      "sharedVotes": 1361,
+      "agreedVotes": 1241,
+      "alignmentRate": 91.18295371050698
     },
     {
       "councillor": "Josh Morgan",
-      "sharedVotes": 1213,
-      "agreedVotes": 1089,
-      "alignmentRate": 89.77741137675186
+      "sharedVotes": 1220,
+      "agreedVotes": 1095,
+      "alignmentRate": 89.75409836065575
     }
   ],
   "bottomAlignments": [
     {
       "councillor": "Susan Stevenson",
-      "sharedVotes": 1158,
-      "agreedVotes": 908,
-      "alignmentRate": 78.41105354058722
+      "sharedVotes": 1165,
+      "agreedVotes": 914,
+      "alignmentRate": 78.4549356223176
     },
     {
       "councillor": "Paul Van Meerbergen",
-      "sharedVotes": 1087,
-      "agreedVotes": 880,
-      "alignmentRate": 80.95676172953083
+      "sharedVotes": 1094,
+      "agreedVotes": 887,
+      "alignmentRate": 81.07861060329068
     },
     {
       "councillor": "Steve Hillier",
-      "sharedVotes": 1142,
-      "agreedVotes": 971,
-      "alignmentRate": 85.02626970227671
+      "sharedVotes": 1147,
+      "agreedVotes": 976,
+      "alignmentRate": 85.09154315605929
     },
     {
       "councillor": "Steve Lehman",
@@ -121,12 +121,21 @@
     },
     {
       "councillor": "Peter Cuddy",
-      "sharedVotes": 1238,
-      "agreedVotes": 1074,
-      "alignmentRate": 86.75282714054927
+      "sharedVotes": 1245,
+      "agreedVotes": 1080,
+      "alignmentRate": 86.74698795180723
     }
   ],
   "notableDissents": [
+    {
+      "date": "2026-03-24",
+      "meetingTitle": "5th Meeting of the Strategic Priorities and Policy Committee",
+      "itemTitle": "Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program - Report Back on Program Options",
+      "motionText": "That part a) ii) BE APPROVED: ii) partial (or full) development charge rebate options for new residential development, including options that could be targeted by unit type and ability to meet HAF tim...",
+      "vote": "nay",
+      "result": "Motion Passed (10 to 4)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=5b8ccf34-419e-4480-af6f-4160e9259405&Agenda=PostMinutes&lang=English"
+    },
     {
       "date": "2026-03-03",
       "meetingTitle": "4th Council Meeting",
@@ -207,15 +216,6 @@
       "vote": "nay",
       "result": "Motion Passed (8 to 3)",
       "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-03-03",
-      "meetingTitle": "4th Council Meeting",
-      "itemTitle": "By-laws",
-      "motionText": "That Second Reading of Bill No.’s 105 and 123, BE APPROVED.",
-      "vote": "nay",
-      "result": "Motion Passed (8 to 3)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English"
     }
   ],
   "committeeActivity": [
@@ -228,10 +228,10 @@
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 740,
-      "yeas": 475,
-      "nays": 73,
-      "participationRate": 74.05405405405405
+      "totalVotes": 751,
+      "yeas": 485,
+      "nays": 74,
+      "participationRate": 74.43408788282291
     },
     {
       "committee": "Community and Protective Services Committee",

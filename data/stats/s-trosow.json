@@ -2,11 +2,11 @@
   "councillor": "Sam Trosow",
   "slug": "s-trosow",
   "attendance": {
-    "totalMeetings": 224,
-    "present": 215,
+    "totalMeetings": 225,
+    "present": 216,
     "absent": 9,
     "remote": 0,
-    "attendanceRate": 95.98214285714286,
+    "attendanceRate": 96,
     "trend": [
       {
         "period": "2022",
@@ -35,98 +35,116 @@
       {
         "period": "2026",
         "attendanceRate": 100,
-        "meetingsAttended": 9,
-        "meetingsTotal": 9
+        "meetingsAttended": 10,
+        "meetingsTotal": 10
       }
     ],
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 3562,
-    "yeas": 2580,
-    "nays": 585,
+    "totalVotes": 3573,
+    "yeas": 2589,
+    "nays": 587,
     "absent": 397,
-    "participationRate": 88.85457608085345,
-    "yeaRate": 81.51658767772511,
-    "contestedDissentRate": 45.900439238653,
-    "contestedVotes": 1366,
-    "substantiveVotes": 2277,
-    "substantiveYeas": 1619,
-    "substantiveNays": 395,
-    "substantiveParticipationRate": 88.44971453667105,
-    "substantiveYeaRate": 80.38728897715987
+    "participationRate": 88.88888888888889,
+    "yeaRate": 81.5176322418136,
+    "contestedDissentRate": 45.91240875912409,
+    "contestedVotes": 1370,
+    "substantiveVotes": 2285,
+    "substantiveYeas": 1626,
+    "substantiveNays": 396,
+    "substantiveParticipationRate": 88.49015317286653,
+    "substantiveYeaRate": 80.41543026706232
   },
   "budgetVoting": {
-    "totalBudgetVotes": 380,
-    "budgetYeas": 286,
+    "totalBudgetVotes": 381,
+    "budgetYeas": 287,
     "budgetNays": 85,
     "budgetAbsent": 9
   },
   "topAlignments": [
     {
       "councillor": "Anna Hopkins",
-      "sharedVotes": 1429,
-      "agreedVotes": 1328,
-      "alignmentRate": 92.93212036389083
+      "sharedVotes": 1436,
+      "agreedVotes": 1335,
+      "alignmentRate": 92.96657381615599
     },
     {
       "councillor": "David Ferreira",
-      "sharedVotes": 1354,
-      "agreedVotes": 1234,
-      "alignmentRate": 91.1373707533235
+      "sharedVotes": 1361,
+      "agreedVotes": 1241,
+      "alignmentRate": 91.18295371050698
     },
     {
       "councillor": "Skylar Franke",
-      "sharedVotes": 1334,
-      "agreedVotes": 1204,
-      "alignmentRate": 90.25487256371814
+      "sharedVotes": 1341,
+      "agreedVotes": 1211,
+      "alignmentRate": 90.30574198359433
     },
     {
       "councillor": "Hadleigh McAlister",
-      "sharedVotes": 1515,
-      "agreedVotes": 1349,
-      "alignmentRate": 89.04290429042905
+      "sharedVotes": 1522,
+      "agreedVotes": 1356,
+      "alignmentRate": 89.09329829172142
     },
     {
       "councillor": "Elizabeth Peloza",
-      "sharedVotes": 1320,
-      "agreedVotes": 1140,
-      "alignmentRate": 86.36363636363636
+      "sharedVotes": 1327,
+      "agreedVotes": 1147,
+      "alignmentRate": 86.43556895252449
     }
   ],
   "bottomAlignments": [
     {
       "councillor": "Susan Stevenson",
-      "sharedVotes": 1315,
-      "agreedVotes": 1012,
-      "alignmentRate": 76.95817490494296
+      "sharedVotes": 1322,
+      "agreedVotes": 1018,
+      "alignmentRate": 77.00453857791226
     },
     {
       "councillor": "Paul Van Meerbergen",
-      "sharedVotes": 1296,
-      "agreedVotes": 1010,
-      "alignmentRate": 77.9320987654321
+      "sharedVotes": 1303,
+      "agreedVotes": 1017,
+      "alignmentRate": 78.05065234075211
     },
     {
       "councillor": "Steve Hillier",
-      "sharedVotes": 1294,
-      "agreedVotes": 1046,
-      "alignmentRate": 80.83462132921174
+      "sharedVotes": 1299,
+      "agreedVotes": 1051,
+      "alignmentRate": 80.90839107005388
     },
     {
       "councillor": "Peter Cuddy",
-      "sharedVotes": 1464,
-      "agreedVotes": 1206,
-      "alignmentRate": 82.37704918032787
+      "sharedVotes": 1471,
+      "agreedVotes": 1212,
+      "alignmentRate": 82.39292997960571
     },
     {
       "councillor": "Shawn Lewis",
-      "sharedVotes": 1421,
-      "agreedVotes": 1172,
-      "alignmentRate": 82.47712878254751
+      "sharedVotes": 1428,
+      "agreedVotes": 1178,
+      "alignmentRate": 82.49299719887955
     }
   ],
   "notableDissents": [
+    {
+      "date": "2026-03-24",
+      "meetingTitle": "5th Meeting of the Strategic Priorities and Policy Committee",
+      "itemTitle": "Draft Economic Development Strategy (2026-2030) and Implementation Plan",
+      "motionText": "That, on the recommendation of the City Manager, the City of London Draft Economic Development Strategy (2026-2030) and Implementation Plan, as appended to the staff report dated March 24, 2026 as App...",
+      "vote": "nay",
+      "result": "Motion Passed (12 to 2)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=5b8ccf34-419e-4480-af6f-4160e9259405&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2026-03-24",
+      "meetingTitle": "5th Meeting of the Strategic Priorities and Policy Committee",
+      "itemTitle": "Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program - Report Back on Program Options",
+      "motionText": "That part a) ii) BE APPROVED: ii) partial (or full) development charge rebate options for new residential development, including options that could be targeted by unit type and ability to meet HAF tim...",
+      "vote": "nay",
+      "result": "Motion Passed (10 to 4)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=5b8ccf34-419e-4480-af6f-4160e9259405&Agenda=PostMinutes&lang=English"
+    },
     {
       "date": "2026-03-09",
       "meetingTitle": "4th Meeting of the Community and Protective Services Committee",
@@ -198,24 +216,6 @@
       "vote": "yea",
       "result": "Motion Failed (2 to 2)",
       "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=afc2a2c5-249f-437f-aa19-87ef83af95ca&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-02-10",
-      "meetingTitle": "3rd Council Meeting",
-      "itemTitle": "(2.3) Sunningdale Road West Improvements – Pipeline Decommissioning and New Pipeline Agreement (Relates to Bill No. 63)",
-      "motionText": "That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to an oil pipeline relocation agreement with Imperial Oil for the Su...",
-      "vote": "nay",
-      "result": "Motion Passed (10 to 5)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-02-10",
-      "meetingTitle": "3rd Council Meeting",
-      "itemTitle": "(2.2) Good Neighbour Agreements",
-      "motionText": "That part a) of the motion BE AMENDED as follows: i) the Civic Administration BE DIRECTED to provide a one-year contract renewal for the procurement framework with an option to renew for one-year; At ...",
-      "vote": "nay",
-      "result": "Motion Passed (8 to 7)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English"
     }
   ],
   "committeeActivity": [
@@ -228,10 +228,10 @@
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 920,
-      "yeas": 628,
-      "nays": 121,
-      "participationRate": 81.41304347826087
+      "totalVotes": 931,
+      "yeas": 637,
+      "nays": 123,
+      "participationRate": 81.63265306122449
     },
     {
       "committee": "Community and Protective Services Committee",

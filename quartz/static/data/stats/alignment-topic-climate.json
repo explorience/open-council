@@ -1,0 +1,310 @@
+{
+  "generatedAt": "2026-04-13T20:20:14.957Z",
+  "matrix": {
+    "j-morgan": {
+      "h-mcalister": 96.52777777777779,
+      "s-lewis": 95.12987012987013,
+      "p-cuddy": 96.7948717948718,
+      "s-stevenson": 77.53623188405797,
+      "j-pribil": 94.90445859872611,
+      "s-trosow": 86.61971830985915,
+      "c-rahman": 93.75,
+      "s-lehman": 95.66666666666667,
+      "a-hopkins": 92.87925696594426,
+      "p-van-meerbergen": 84.6938775510204,
+      "s-franke": 90.44585987261146,
+      "e-peloza": 94.86301369863014,
+      "d-ferreira": 90.69767441860465,
+      "s-hillier": 93.79310344827586
+    },
+    "h-mcalister": {
+      "j-morgan": 96.52777777777779,
+      "s-lewis": 91.78082191780823,
+      "p-cuddy": 92.7710843373494,
+      "s-stevenson": 73.28767123287672,
+      "j-pribil": 94.77124183006535,
+      "s-trosow": 92.10526315789474,
+      "c-rahman": 90.78014184397163,
+      "s-lehman": 92.90780141843972,
+      "a-hopkins": 94.48275862068965,
+      "p-van-meerbergen": 71.34146341463415,
+      "s-franke": 92.66666666666666,
+      "e-peloza": 95.19999999999999,
+      "d-ferreira": 95.38461538461539,
+      "s-hillier": 87.76978417266187
+    },
+    "s-lewis": {
+      "j-morgan": 95.12987012987013,
+      "h-mcalister": 91.78082191780823,
+      "p-cuddy": 98.20359281437125,
+      "s-stevenson": 79.16666666666666,
+      "j-pribil": 95.45454545454545,
+      "s-trosow": 83.33333333333334,
+      "c-rahman": 91.72413793103448,
+      "s-lehman": 97.20101781170484,
+      "a-hopkins": 87.64044943820225,
+      "p-van-meerbergen": 85.66978193146417,
+      "s-franke": 88.57142857142857,
+      "e-peloza": 91.74041297935102,
+      "d-ferreira": 86.71875,
+      "s-hillier": 94.68085106382979
+    },
+    "p-cuddy": {
+      "j-morgan": 96.7948717948718,
+      "h-mcalister": 92.7710843373494,
+      "s-lewis": 98.20359281437125,
+      "s-stevenson": 80,
+      "j-pribil": 96.81528662420382,
+      "s-trosow": 83.66013071895425,
+      "c-rahman": 92.7007299270073,
+      "s-lehman": 98.15950920245399,
+      "a-hopkins": 88.88888888888889,
+      "p-van-meerbergen": 79.51807228915662,
+      "s-franke": 89.26174496644296,
+      "e-peloza": 89.33333333333333,
+      "d-ferreira": 87.78625954198473,
+      "s-hillier": 92.72727272727272
+    },
+    "s-stevenson": {
+      "j-morgan": 77.53623188405797,
+      "h-mcalister": 73.28767123287672,
+      "s-lewis": 79.16666666666666,
+      "p-cuddy": 80,
+      "j-pribil": 78.72340425531915,
+      "s-trosow": 65.89147286821705,
+      "c-rahman": 73.84615384615385,
+      "s-lehman": 80.57553956834532,
+      "a-hopkins": 69.50354609929079,
+      "p-van-meerbergen": 87.32394366197182,
+      "s-franke": 68.24324324324324,
+      "e-peloza": 73.38709677419355,
+      "d-ferreira": 65.51724137931035,
+      "s-hillier": 80.2919708029197
+    },
+    "j-pribil": {
+      "j-morgan": 94.90445859872611,
+      "h-mcalister": 94.77124183006535,
+      "s-lewis": 95.45454545454545,
+      "p-cuddy": 96.81528662420382,
+      "s-stevenson": 78.72340425531915,
+      "s-trosow": 88.19875776397515,
+      "c-rahman": 92.7007299270073,
+      "s-lehman": 94.73684210526315,
+      "a-hopkins": 90.28571428571428,
+      "p-van-meerbergen": 72.54901960784314,
+      "s-franke": 90.47619047619048,
+      "e-peloza": 90.51094890510949,
+      "d-ferreira": 90,
+      "s-hillier": 92
+    },
+    "s-trosow": {
+      "j-morgan": 86.61971830985915,
+      "h-mcalister": 92.10526315789474,
+      "s-lewis": 83.33333333333334,
+      "p-cuddy": 83.66013071895425,
+      "s-stevenson": 65.89147286821705,
+      "j-pribil": 88.19875776397515,
+      "c-rahman": 84.0909090909091,
+      "s-lehman": 83.68794326241135,
+      "a-hopkins": 95.42483660130719,
+      "p-van-meerbergen": 63.57142857142857,
+      "s-franke": 94.5945945945946,
+      "e-peloza": 91.93548387096774,
+      "d-ferreira": 96.47887323943662,
+      "s-hillier": 81.29496402877699
+    },
+    "c-rahman": {
+      "j-morgan": 93.75,
+      "h-mcalister": 90.78014184397163,
+      "s-lewis": 91.72413793103448,
+      "p-cuddy": 92.7007299270073,
+      "s-stevenson": 73.84615384615385,
+      "j-pribil": 92.7007299270073,
+      "s-trosow": 84.0909090909091,
+      "s-lehman": 93.57142857142857,
+      "a-hopkins": 89.85507246376811,
+      "p-van-meerbergen": 71.72413793103448,
+      "s-franke": 89.80891719745223,
+      "e-peloza": 85.96491228070175,
+      "d-ferreira": 89.51612903225806,
+      "s-hillier": 92.95774647887323
+    },
+    "s-lehman": {
+      "j-morgan": 95.66666666666667,
+      "h-mcalister": 92.90780141843972,
+      "s-lewis": 97.20101781170484,
+      "p-cuddy": 98.15950920245399,
+      "s-stevenson": 80.57553956834532,
+      "j-pribil": 94.73684210526315,
+      "s-trosow": 83.68794326241135,
+      "c-rahman": 93.57142857142857,
+      "a-hopkins": 87.66519823788546,
+      "p-van-meerbergen": 87.82894736842105,
+      "s-franke": 87.71929824561403,
+      "e-peloza": 91.6923076923077,
+      "d-ferreira": 87.3015873015873,
+      "s-hillier": 94.25287356321839
+    },
+    "a-hopkins": {
+      "j-morgan": 92.87925696594426,
+      "h-mcalister": 94.48275862068965,
+      "s-lewis": 87.64044943820225,
+      "p-cuddy": 88.88888888888889,
+      "s-stevenson": 69.50354609929079,
+      "j-pribil": 90.28571428571428,
+      "s-trosow": 95.42483660130719,
+      "c-rahman": 89.85507246376811,
+      "s-lehman": 87.66519823788546,
+      "p-van-meerbergen": 73.77777777777777,
+      "s-franke": 95.97701149425288,
+      "e-peloza": 92.3076923076923,
+      "d-ferreira": 96.45390070921985,
+      "s-hillier": 85.35564853556485
+    },
+    "p-van-meerbergen": {
+      "j-morgan": 84.6938775510204,
+      "h-mcalister": 71.34146341463415,
+      "s-lewis": 85.66978193146417,
+      "p-cuddy": 79.51807228915662,
+      "s-stevenson": 87.32394366197182,
+      "j-pribil": 72.54901960784314,
+      "s-trosow": 63.57142857142857,
+      "c-rahman": 71.72413793103448,
+      "s-lehman": 87.82894736842105,
+      "a-hopkins": 73.77777777777777,
+      "s-franke": 67.08860759493672,
+      "e-peloza": 83.53293413173652,
+      "d-ferreira": 64.16666666666667,
+      "s-hillier": 88.09523809523809
+    },
+    "s-franke": {
+      "j-morgan": 90.44585987261146,
+      "h-mcalister": 92.66666666666666,
+      "s-lewis": 88.57142857142857,
+      "p-cuddy": 89.26174496644296,
+      "s-stevenson": 68.24324324324324,
+      "j-pribil": 90.47619047619048,
+      "s-trosow": 94.5945945945946,
+      "c-rahman": 89.80891719745223,
+      "s-lehman": 87.71929824561403,
+      "a-hopkins": 95.97701149425288,
+      "p-van-meerbergen": 67.08860759493672,
+      "e-peloza": 92.36641221374046,
+      "d-ferreira": 95.58823529411765,
+      "s-hillier": 85.11904761904762
+    },
+    "e-peloza": {
+      "j-morgan": 94.86301369863014,
+      "h-mcalister": 95.19999999999999,
+      "s-lewis": 91.74041297935102,
+      "p-cuddy": 89.33333333333333,
+      "s-stevenson": 73.38709677419355,
+      "j-pribil": 90.51094890510949,
+      "s-trosow": 91.93548387096774,
+      "c-rahman": 85.96491228070175,
+      "s-lehman": 91.6923076923077,
+      "a-hopkins": 92.3076923076923,
+      "p-van-meerbergen": 83.53293413173652,
+      "s-franke": 92.36641221374046,
+      "d-ferreira": 92.72727272727272,
+      "s-hillier": 91.14754098360656
+    },
+    "d-ferreira": {
+      "j-morgan": 90.69767441860465,
+      "h-mcalister": 95.38461538461539,
+      "s-lewis": 86.71875,
+      "p-cuddy": 87.78625954198473,
+      "s-stevenson": 65.51724137931035,
+      "j-pribil": 90,
+      "s-trosow": 96.47887323943662,
+      "c-rahman": 89.51612903225806,
+      "s-lehman": 87.3015873015873,
+      "a-hopkins": 96.45390070921985,
+      "p-van-meerbergen": 64.16666666666667,
+      "s-franke": 95.58823529411765,
+      "e-peloza": 92.72727272727272,
+      "s-hillier": 84.12698412698413
+    },
+    "s-hillier": {
+      "j-morgan": 93.79310344827586,
+      "h-mcalister": 87.76978417266187,
+      "s-lewis": 94.68085106382979,
+      "p-cuddy": 92.72727272727272,
+      "s-stevenson": 80.2919708029197,
+      "j-pribil": 92,
+      "s-trosow": 81.29496402877699,
+      "c-rahman": 92.95774647887323,
+      "s-lehman": 94.25287356321839,
+      "a-hopkins": 85.35564853556485,
+      "p-van-meerbergen": 88.09523809523809,
+      "s-franke": 85.11904761904762,
+      "e-peloza": 91.14754098360656,
+      "d-ferreira": 84.12698412698413
+    }
+  },
+  "councillors": [
+    {
+      "slug": "j-morgan",
+      "name": "Josh Morgan"
+    },
+    {
+      "slug": "h-mcalister",
+      "name": "Hadleigh McAlister"
+    },
+    {
+      "slug": "s-lewis",
+      "name": "Shawn Lewis"
+    },
+    {
+      "slug": "p-cuddy",
+      "name": "Peter Cuddy"
+    },
+    {
+      "slug": "s-stevenson",
+      "name": "Susan Stevenson"
+    },
+    {
+      "slug": "j-pribil",
+      "name": "Jerry Pribil"
+    },
+    {
+      "slug": "s-trosow",
+      "name": "Sam Trosow"
+    },
+    {
+      "slug": "c-rahman",
+      "name": "Corrine Rahman"
+    },
+    {
+      "slug": "s-lehman",
+      "name": "Steve Lehman"
+    },
+    {
+      "slug": "a-hopkins",
+      "name": "Anna Hopkins"
+    },
+    {
+      "slug": "p-van-meerbergen",
+      "name": "Paul Van Meerbergen"
+    },
+    {
+      "slug": "s-franke",
+      "name": "Skylar Franke"
+    },
+    {
+      "slug": "e-peloza",
+      "name": "Elizabeth Peloza"
+    },
+    {
+      "slug": "d-ferreira",
+      "name": "David Ferreira"
+    },
+    {
+      "slug": "s-hillier",
+      "name": "Steve Hillier"
+    }
+  ],
+  "type": "topic",
+  "topicName": "climate",
+  "motionCount": 1017
+}
