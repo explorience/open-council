@@ -13,6 +13,7 @@ import {
   getSlug,
   normalizeCouncillorName,
 } from "../lib/councillors/index.js"
+import { getAllTopics } from "../lib/topics/index.js"
 
 // Types
 interface Meeting {
@@ -743,17 +744,8 @@ async function main() {
   // ============================================
   console.log("\n📊 Generating committee & topic-specific alignment matrices...")
 
-  // Topic keyword definitions for filtering
-  const TOPIC_KEYWORDS: Record<string, string[]> = {
-    housing: ["housing", "affordable housing", "social housing", "homeless", "shelter", "rent", "rent supplement", "supportive housing", "london middlesex community housing", "lmch", "housing accelerator", "haf", "encampment", "housing crisis", "rgi"],
-    transit: ["transit", "bus", "brt", "rapid transit", "london transit", "ltc", "bus route", "shift", "east london link", "wellington gateway", "public transportation", "mass transit"],
-    climate: ["climate", "environment", "ceap", "climate emergency", "greenhouse gas", "emissions", "net zero", "sustainability", "renewable", "carbon"],
-    budget: ["budget", "tax", "levy", "fiscal", "appropriation", "property tax", "spending", "allocation"],
-    policing: ["police", "lps", "london police", "policing", "law enforcement", "police budget", "police services board", "lpsb", "community safety", "carding"],
-    development: ["development", "zoning", "subdivision", "official plan", "ocp", "land use", "sprawl", "intensification", "heritage", "heritage designation"],
-    infrastructure: ["infrastructure", "roads", "sewer", "water", "stormwater", "facilities", "capital", "construction", "bridge", "road network"],
-    environment: ["environment", "tree", "park", "green space", "conservation", "flood", "watershed", "environmental"],
-  }
+  // Topic definitions from the proper topics module
+  const topics = getAllTopics()
 
   // Committee slug mapping
   const COMMITTEE_SLUGS: Record<string, string> = {
@@ -828,18 +820,18 @@ async function main() {
     console.log(`   Committee ${committeeName}: ${Object.keys(matrix).length} councillors with data, ${voteCount} motions`)
   }
 
-  // Generate topic-specific matrices
+  // Generate topic-specific matrices using the proper topics module
   const topicMatrices: Record<string, { matrix: Record<string, Record<string, number>>; count: number }> = {}
-  for (const [topicName, keywords] of Object.entries(TOPIC_KEYWORDS)) {
-    const pattern = new RegExp(keywords.join("|"), "i")
+  for (const topic of topics) {
+    const pattern = new RegExp(topic.keywords.join("|"), "i")
     const matrix = computeFilteredAlignment(meta =>
       pattern.test(meta.itemTitle) || (meta.motionText && pattern.test(meta.motionText))
     )
     const voteCount = Array.from(motionVotes.entries()).filter(([_, votes]) =>
       Array.from(votes.values()).some(m => pattern.test(m.itemTitle) || (m.motionText && pattern.test(m.motionText)))
     ).length
-    topicMatrices[topicName] = { matrix, count: voteCount }
-    console.log(`   Topic ${topicName}: ${Object.keys(matrix).length} councillors with data, ${voteCount} motions`)
+    topicMatrices[topic.slug] = { matrix, count: voteCount }
+    console.log(`   Topic ${topic.name} (${topic.slug}): ${Object.keys(matrix).length} councillors with data, ${voteCount} motions`)
   }
 
   // ============================================
