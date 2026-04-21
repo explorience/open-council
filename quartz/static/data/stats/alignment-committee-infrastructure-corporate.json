@@ -1,0 +1,113 @@
+{
+  "generatedAt": "2026-04-13T22:18:01.554Z",
+  "matrix": {
+    "j-morgan": {
+      "h-mcalister": 100,
+      "s-stevenson": 80,
+      "j-pribil": 92.3076923076923,
+      "c-rahman": 100,
+      "a-hopkins": 84.61538461538461,
+      "p-van-meerbergen": 88.88888888888889,
+      "s-franke": 100
+    },
+    "h-mcalister": {
+      "j-morgan": 100,
+      "s-stevenson": 80,
+      "c-rahman": 92,
+      "p-van-meerbergen": 84.61538461538461,
+      "s-franke": 88.46153846153845
+    },
+    "s-lewis": {},
+    "p-cuddy": {},
+    "s-stevenson": {
+      "j-morgan": 80,
+      "h-mcalister": 80,
+      "c-rahman": 88,
+      "p-van-meerbergen": 88,
+      "s-franke": 84
+    },
+    "j-pribil": {
+      "j-morgan": 92.3076923076923,
+      "c-rahman": 94.44444444444444,
+      "a-hopkins": 96.22641509433963,
+      "p-van-meerbergen": 81.48148148148148,
+      "s-franke": 96
+    },
+    "s-trosow": {},
+    "c-rahman": {
+      "j-morgan": 100,
+      "h-mcalister": 92,
+      "s-stevenson": 88,
+      "j-pribil": 94.44444444444444,
+      "a-hopkins": 94.73684210526315,
+      "p-van-meerbergen": 85.54216867469879,
+      "s-franke": 97.46835443037975
+    },
+    "s-lehman": {},
+    "a-hopkins": {
+      "j-morgan": 84.61538461538461,
+      "j-pribil": 96.22641509433963,
+      "c-rahman": 94.73684210526315,
+      "p-van-meerbergen": 84.21052631578947,
+      "s-franke": 98.11320754716981
+    },
+    "p-van-meerbergen": {
+      "j-morgan": 88.88888888888889,
+      "h-mcalister": 84.61538461538461,
+      "s-stevenson": 88,
+      "j-pribil": 81.48148148148148,
+      "c-rahman": 85.54216867469879,
+      "a-hopkins": 84.21052631578947,
+      "s-franke": 83.75
+    },
+    "s-franke": {
+      "j-morgan": 100,
+      "h-mcalister": 88.46153846153845,
+      "s-stevenson": 84,
+      "j-pribil": 96,
+      "c-rahman": 97.46835443037975,
+      "a-hopkins": 98.11320754716981,
+      "p-van-meerbergen": 83.75
+    },
+    "e-peloza": {},
+    "d-ferreira": {},
+    "s-hillier": {}
+  },
+  "councillors": [
+    {
+      "slug": "j-morgan",
+      "name": "Josh Morgan"
+    },
+    {
+      "slug": "h-mcalister",
+      "name": "Hadleigh McAlister"
+    },
+    {
+      "slug": "s-stevenson",
+      "name": "Susan Stevenson"
+    },
+    {
+      "slug": "j-pribil",
+      "name": "Jerry Pribil"
+    },
+    {
+      "slug": "c-rahman",
+      "name": "Corrine Rahman"
+    },
+    {
+      "slug": "a-hopkins",
+      "name": "Anna Hopkins"
+    },
+    {
+      "slug": "p-van-meerbergen",
+      "name": "Paul Van Meerbergen"
+    },
+    {
+      "slug": "s-franke",
+      "name": "Skylar Franke"
+    }
+  ],
+  "type": "committee",
+  "motionCount": 86,
+  "committeeName": "Infrastructure and Corporate Services Committee"
+}

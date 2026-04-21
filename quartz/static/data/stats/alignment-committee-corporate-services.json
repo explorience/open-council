@@ -1,0 +1,138 @@
+{
+  "generatedAt": "2026-04-13T22:18:01.552Z",
+  "matrix": {
+    "j-morgan": {
+      "h-mcalister": 100,
+      "s-lewis": 98.87640449438202,
+      "p-cuddy": 100,
+      "s-stevenson": 95,
+      "s-trosow": 75,
+      "c-rahman": 94.11764705882352,
+      "a-hopkins": 98.3739837398374,
+      "p-van-meerbergen": 96.61016949152543,
+      "d-ferreira": 100
+    },
+    "h-mcalister": {
+      "j-morgan": 100,
+      "s-lewis": 100,
+      "p-cuddy": 100,
+      "s-stevenson": 95.78947368421052,
+      "s-trosow": 92.3076923076923,
+      "c-rahman": 98.18181818181819,
+      "p-van-meerbergen": 94.91525423728814,
+      "d-ferreira": 100
+    },
+    "s-lewis": {
+      "j-morgan": 98.87640449438202,
+      "h-mcalister": 100,
+      "s-stevenson": 98.33333333333333,
+      "s-trosow": 93.54838709677419,
+      "d-ferreira": 100
+    },
+    "p-cuddy": {
+      "j-morgan": 100,
+      "h-mcalister": 100,
+      "s-stevenson": 93.47826086956522,
+      "c-rahman": 98.0392156862745,
+      "p-van-meerbergen": 94.54545454545455
+    },
+    "s-stevenson": {
+      "j-morgan": 95,
+      "h-mcalister": 95.78947368421052,
+      "s-lewis": 98.33333333333333,
+      "p-cuddy": 93.47826086956522,
+      "s-trosow": 95.45454545454545,
+      "c-rahman": 89.58333333333334,
+      "p-van-meerbergen": 94.23076923076923,
+      "d-ferreira": 100
+    },
+    "j-pribil": {},
+    "s-trosow": {
+      "j-morgan": 75,
+      "h-mcalister": 92.3076923076923,
+      "s-lewis": 93.54838709677419,
+      "s-stevenson": 95.45454545454545,
+      "d-ferreira": 100
+    },
+    "c-rahman": {
+      "j-morgan": 94.11764705882352,
+      "h-mcalister": 98.18181818181819,
+      "p-cuddy": 98.0392156862745,
+      "s-stevenson": 89.58333333333334,
+      "p-van-meerbergen": 94.73684210526315
+    },
+    "s-lehman": {},
+    "a-hopkins": {
+      "j-morgan": 98.3739837398374
+    },
+    "p-van-meerbergen": {
+      "j-morgan": 96.61016949152543,
+      "h-mcalister": 94.91525423728814,
+      "p-cuddy": 94.54545454545455,
+      "s-stevenson": 94.23076923076923,
+      "c-rahman": 94.73684210526315,
+      "s-hillier": 96.875
+    },
+    "s-franke": {},
+    "e-peloza": {},
+    "d-ferreira": {
+      "j-morgan": 100,
+      "h-mcalister": 100,
+      "s-lewis": 100,
+      "s-stevenson": 100,
+      "s-trosow": 100
+    },
+    "s-hillier": {
+      "p-van-meerbergen": 96.875
+    }
+  },
+  "councillors": [
+    {
+      "slug": "j-morgan",
+      "name": "Josh Morgan"
+    },
+    {
+      "slug": "h-mcalister",
+      "name": "Hadleigh McAlister"
+    },
+    {
+      "slug": "s-lewis",
+      "name": "Shawn Lewis"
+    },
+    {
+      "slug": "p-cuddy",
+      "name": "Peter Cuddy"
+    },
+    {
+      "slug": "s-stevenson",
+      "name": "Susan Stevenson"
+    },
+    {
+      "slug": "s-trosow",
+      "name": "Sam Trosow"
+    },
+    {
+      "slug": "c-rahman",
+      "name": "Corrine Rahman"
+    },
+    {
+      "slug": "a-hopkins",
+      "name": "Anna Hopkins"
+    },
+    {
+      "slug": "p-van-meerbergen",
+      "name": "Paul Van Meerbergen"
+    },
+    {
+      "slug": "d-ferreira",
+      "name": "David Ferreira"
+    },
+    {
+      "slug": "s-hillier",
+      "name": "Steve Hillier"
+    }
+  ],
+  "type": "committee",
+  "motionCount": 1331,
+  "committeeName": "Corporate Services Committee"
+}

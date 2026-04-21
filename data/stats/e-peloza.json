@@ -2,11 +2,11 @@
   "councillor": "Elizabeth Peloza",
   "slug": "e-peloza",
   "attendance": {
-    "totalMeetings": 431,
-    "present": 423,
+    "totalMeetings": 432,
+    "present": 424,
     "absent": 8,
     "remote": 1,
-    "attendanceRate": 98.14385150812065,
+    "attendanceRate": 98.14814814814815,
     "trend": [
       {
         "period": "2018",
@@ -58,46 +58,46 @@
       },
       {
         "period": "2026",
-        "attendanceRate": 88.88888888888889,
-        "meetingsAttended": 8,
-        "meetingsTotal": 9
+        "attendanceRate": 90,
+        "meetingsAttended": 9,
+        "meetingsTotal": 10
       }
     ],
     "trendDirection": "declining"
   },
   "voting": {
-    "totalVotes": 7236,
-    "yeas": 5877,
-    "nays": 510,
+    "totalVotes": 7247,
+    "yeas": 5886,
+    "nays": 512,
     "absent": 849,
-    "participationRate": 88.2669983416252,
-    "yeaRate": 92.01503053076561,
-    "contestedDissentRate": 17.113095238095237,
-    "contestedVotes": 2016,
-    "substantiveVotes": 4455,
-    "substantiveYeas": 3320,
-    "substantiveNays": 450,
-    "substantiveParticipationRate": 84.6240179573513,
-    "substantiveYeaRate": 88.06366047745358
+    "participationRate": 88.28480750655444,
+    "yeaRate": 91.99749921850578,
+    "contestedDissentRate": 17.17821782178218,
+    "contestedVotes": 2020,
+    "substantiveVotes": 4463,
+    "substantiveYeas": 3326,
+    "substantiveNays": 452,
+    "substantiveParticipationRate": 84.65157965494062,
+    "substantiveYeaRate": 88.0359978824775
   },
   "budgetVoting": {
-    "totalBudgetVotes": 715,
-    "budgetYeas": 570,
+    "totalBudgetVotes": 716,
+    "budgetYeas": 571,
     "budgetNays": 117,
     "budgetAbsent": 28
   },
   "topAlignments": [
     {
       "councillor": "Josh Morgan",
-      "sharedVotes": 2788,
-      "agreedVotes": 2654,
-      "alignmentRate": 95.19368723098995
+      "sharedVotes": 2795,
+      "agreedVotes": 2660,
+      "alignmentRate": 95.16994633273703
     },
     {
       "councillor": "Shawn Lewis",
-      "sharedVotes": 3209,
-      "agreedVotes": 3053,
-      "alignmentRate": 95.13867248363977
+      "sharedVotes": 3216,
+      "agreedVotes": 3059,
+      "alignmentRate": 95.1181592039801
     },
     {
       "councillor": "Steve Lehman",
@@ -107,50 +107,68 @@
     },
     {
       "councillor": "Steve Hillier",
-      "sharedVotes": 2800,
-      "agreedVotes": 2620,
-      "alignmentRate": 93.57142857142857
+      "sharedVotes": 2805,
+      "agreedVotes": 2625,
+      "alignmentRate": 93.58288770053476
     },
     {
       "councillor": "Hadleigh McAlister",
-      "sharedVotes": 1326,
-      "agreedVotes": 1232,
-      "alignmentRate": 92.91101055806938
+      "sharedVotes": 1333,
+      "agreedVotes": 1239,
+      "alignmentRate": 92.94823705926481
     }
   ],
   "bottomAlignments": [
     {
       "councillor": "Susan Stevenson",
-      "sharedVotes": 1317,
-      "agreedVotes": 1118,
-      "alignmentRate": 84.88990129081245
+      "sharedVotes": 1324,
+      "agreedVotes": 1124,
+      "alignmentRate": 84.89425981873111
     },
     {
       "councillor": "Sam Trosow",
-      "sharedVotes": 1320,
-      "agreedVotes": 1140,
-      "alignmentRate": 86.36363636363636
+      "sharedVotes": 1327,
+      "agreedVotes": 1147,
+      "alignmentRate": 86.43556895252449
     },
     {
       "councillor": "David Ferreira",
-      "sharedVotes": 1159,
-      "agreedVotes": 1028,
-      "alignmentRate": 88.69715271786023
+      "sharedVotes": 1166,
+      "agreedVotes": 1035,
+      "alignmentRate": 88.76500857632934
     },
     {
       "councillor": "Corrine Rahman",
-      "sharedVotes": 1164,
-      "agreedVotes": 1048,
-      "alignmentRate": 90.03436426116839
+      "sharedVotes": 1171,
+      "agreedVotes": 1055,
+      "alignmentRate": 90.09393680614859
     },
     {
       "councillor": "Paul Van Meerbergen",
-      "sharedVotes": 2883,
-      "agreedVotes": 2609,
-      "alignmentRate": 90.49601109954908
+      "sharedVotes": 2890,
+      "agreedVotes": 2616,
+      "alignmentRate": 90.51903114186851
     }
   ],
   "notableDissents": [
+    {
+      "date": "2026-03-24",
+      "meetingTitle": "5th Meeting of the Strategic Priorities and Policy Committee",
+      "itemTitle": "Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program - Report Back on Program Options",
+      "motionText": "That part a) ii) BE APPROVED: ii) partial (or full) development charge rebate options for new residential development, including options that could be targeted by unit type and ability to meet HAF tim...",
+      "vote": "nay",
+      "result": "Motion Passed (10 to 4)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=5b8ccf34-419e-4480-af6f-4160e9259405&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2026-03-24",
+      "meetingTitle": "5th Meeting of the Strategic Priorities and Policy Committee",
+      "itemTitle": "Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program - Report Back on Program Options",
+      "motionText": "That the balance of the motion BE APPROVED: That, the following actions be taken with respect to Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program - Report Back on...",
+      "vote": "nay",
+      "result": "Motion Passed (13 to 1)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=5b8ccf34-419e-4480-af6f-4160e9259405&Agenda=PostMinutes&lang=English"
+    },
     {
       "date": "2026-02-24",
       "meetingTitle": "4th Meeting of the Strategic Priorities and Policy Committee",
@@ -222,24 +240,6 @@
       "vote": "nay",
       "result": "Motion Passed (8 to 7)",
       "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-02-10",
-      "meetingTitle": "3rd Council Meeting",
-      "itemTitle": "(3.11) 5150 Wellington Road South - OZ-25135 (Relates to Bill No. 67 and No. 89)",
-      "motionText": "Notwithstanding the staff recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Roman Catholic Episcopal Corporation of the Dioces...",
-      "vote": "nay",
-      "result": "Motion Passed (11 to 4)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-02-10",
-      "meetingTitle": "3rd Council Meeting",
-      "itemTitle": "(2.4) Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program",
-      "motionText": "That the referral, as amended, BE APPROVED. At 8:42 PM, His Worship Mayor J. Morgan, places Deputy Mayor S. Lewis in the Chair. \n\nAt 8:45 PM, His Worship Mayor J. Morgan resumes the Chair.",
-      "vote": "nay",
-      "result": "Motion Passed (12 to 3)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English"
     }
   ],
   "committeeActivity": [
@@ -252,10 +252,10 @@
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 2039,
-      "yeas": 1368,
-      "nays": 130,
-      "participationRate": 73.46738597351643
+      "totalVotes": 2050,
+      "yeas": 1377,
+      "nays": 132,
+      "participationRate": 73.60975609756098
     },
     {
       "committee": "Planning and Environment Committee",
