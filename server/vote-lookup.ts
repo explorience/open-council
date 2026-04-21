@@ -460,7 +460,10 @@ export class VoteLookupService {
       const label = i === 0 ? 'ORIGINAL MOTION' : `ALTERNATIVE MOTION #${i}`;
       const outcomeWord = r.passed ? 'PASSED' : 'FAILED';
       context += `### ${label}\n`;
-      context += `**Motion Text:** ${r.motionText.substring(0, 300)}...\n`;
+      context += `**Motion:** ${r.motionTitle}\n`;
+      context += `**Full Motion Text:** ${r.motionText}\n`;
+      context += `**Date:** ${r.date}\n`;
+      context += `**Meeting:** ${r.meetingTitle}\n`;
       context += `**Outcome:** ${outcomeWord} - ${r.result}\n`;
       context += `**Voted YEA (${r.yeas.length}):** ${r.yeas.join(', ')}\n`;
       context += `**Voted NAY (${r.nays.length}):** ${r.nays.join(', ')}\n`;
@@ -936,6 +939,7 @@ ${sections.join('\n')}
     return `
 ## VERIFIED VOTE BREAKDOWN (from structured data - USE THIS)
 **Motion:** ${result.motionTitle}
+**Full Motion Text:** ${result.motionText}
 **Date:** ${result.date}
 **Meeting:** ${result.meetingTitle}
 **Outcome:** ${outcomeWord} - ${result.result}
@@ -944,7 +948,7 @@ ${sections.join('\n')}
 **Voted NAY (${result.nays.length}):** ${result.nays.join(', ') || 'None'}
 **Absent (${result.absent.length}):** ${result.absent.join(', ') || 'None'}
 
-⚠️ This is verified structured data. Use these exact details in your response.
+⚠️ This is verified structured data. Use these exact details in your response. When reporting this vote, include the motion text so users understand what was decided.
 `;
   }
 }

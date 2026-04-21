@@ -98,7 +98,7 @@ export class EmbeddingGenerator {
     }
 
     if (content.motion_texts?.length) {
-      text += this.extractText(content.motion_texts) + '\n';
+      text += `Motion Text: ${this.extractText(content.motion_texts)}\n`;
     }
 
     if (content.vote) {
@@ -106,7 +106,7 @@ export class EmbeddingGenerator {
     }
 
     if (content.result) {
-      text += this.extractText(content.result);
+      text += `Result: ${this.extractText(content.result)}`;
     }
 
     return text.trim();
