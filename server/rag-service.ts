@@ -2424,7 +2424,7 @@ export class RAGService {
 
         // Add warning for transcript-only data (no official vote records)
         const transcriptWarning = meta.has_official_minutes === false
-          ? `\n⚠️ **TRANSCRIPT ONLY - NO VOTE RECORDS:** This meeting only has transcript data. DO NOT state how individual councillors voted - you can only report what they SAID. If someone "agreed with colleagues" who opposed something, report that, but don't claim to know their actual vote.`
+          ? `\n⚠️ **TRANSCRIPT ONLY - OFFICIAL MINUTES PENDING:** This meeting only has transcript data; official minutes have not yet been published (they typically take 2–4 weeks). DO NOT state how individual councillors voted based on transcript text alone. If transcript_votes data is present, surface those outcomes but clearly label them as "(from transcript, official minutes pending)".`
           : '';
 
         return `

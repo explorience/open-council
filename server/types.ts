@@ -18,11 +18,19 @@ export interface Meeting {
   transcript_duration?: string;  // Human-readable duration, e.g., "1 hour, 43 minutes"
   transcript_source?: string;
   transcript_source_url?: string;
+  transcript_votes?: TranscriptVote[];  // Vote outcomes parsed from transcript (for meetings without official minutes)
   data_sources?: {
     official_minutes: boolean;
     transcript: boolean;
   };
   news_coverage?: NewsCoverage[];
+}
+
+export interface TranscriptVote {
+  item: string;         // Detected agenda item or description from surrounding context
+  outcome: 'Carried' | 'Failed';  // Vote outcome
+  vote_count: string;   // e.g. "13-2" or "unanimous"
+  source: 'transcript'; // Always "transcript" to distinguish from official minutes
 }
 
 export interface NewsCoverage {
@@ -84,7 +92,7 @@ export interface EmbeddingChunk {
     meeting_url: string | null;
     item_number?: string;
     item_title?: string;
-    chunk_type: 'motion' | 'content' | 'bill' | 'attendance' | 'transcript' | 'news_coverage';
+    chunk_type: 'motion' | 'content' | 'bill' | 'attendance' | 'transcript' | 'news_coverage' | 'transcript_votes';
     file_path: string;
     transcript_chunk_index?: number;  // Index of this chunk within the transcript
     has_official_minutes?: boolean;  // false = transcript-only, no vote records
