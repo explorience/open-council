@@ -209,7 +209,7 @@ export class EmbeddingGenerator {
         text: tvoteText,
         metadata: {
           ...baseMetadata,
-          chunk_type: 'transcript_votes' as any,
+          chunk_type: 'transcript_votes',
           item_title: 'Transcript Vote Outcomes (unofficial)',
         },
       });

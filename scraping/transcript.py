@@ -1116,13 +1116,13 @@ def parse_transcript_votes(transcript: str) -> List[Dict[str, Any]]:
     outcome_pattern = re.compile(
         r'motion\s+'
         r'(?:'
-        r'carries?'           # "motion carries" / "motion carry"
-        r'|passed?'           # "motion passes" / "motion passed"
-        r'|is\s+carried'      # "motion is carried"
-        r'|failed?'           # "motion fails" / "motion failed"
-        r'|is\s+failed?'      # "motion is failed"
-        r'|defeated'          # "motion defeated"
-        r'|is\s+defeated'     # "motion is defeated"
+        r'carries?'               # "motion carries" / "motion carry"
+        r'|pass(?:ed|es)?'        # "motion passes" / "motion passed" / "motion pass"
+        r'|is\s+carried'          # "motion is carried"
+        r'|fail(?:s|ed)?'         # "motion fails" / "motion failed" / "motion fail"
+        r'|is\s+fail(?:ed)?'      # "motion is failed" / "motion is fail"
+        r'|defeated'              # "motion defeated"
+        r'|is\s+defeated'         # "motion is defeated"
         r')',
         re.IGNORECASE
     )
@@ -1165,7 +1165,7 @@ def parse_transcript_votes(transcript: str) -> List[Dict[str, Any]]:
         lower_sent = sentence.lower()
         if any(w in lower_sent for w in ['carries', 'carry', 'passed', 'passes', 'is carried', 'unanimous']):
             outcome = 'Carried'
-        elif any(w in lower_sent for w in ['fails', 'failed', 'defeated', 'is failed', 'is defeated']):
+        elif any(w in lower_sent for w in ['fails', 'fail', 'failed', 'defeated', 'is failed', 'is defeated']):
             outcome = 'Failed'
         else:
             outcome = 'Carried'  # Default if ambiguous
