@@ -39,6 +39,13 @@
   }
 }
 
+.alignment-count {
+  display: none;
+  font-size: 0.8rem;
+  color: var(--gray);
+  margin-bottom: 0.5rem;
+}
+
 .alignment-legend {
   display: flex;
   align-items: center;

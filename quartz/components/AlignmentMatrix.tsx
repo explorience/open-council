@@ -15,6 +15,18 @@ export default (() => {
       <div class="alignment-matrix-container">
         <div class="alignment-controls">
           <label>
+            <span>View:</span>
+            <select id="alignment-view">
+              <option value="overall">Overall</option>
+              <option value="committee">By Committee</option>
+              <option value="topic">By Topic</option>
+            </select>
+          </label>
+          <label id="alignment-sub-label" style="display: none">
+            <span>Filter:</span>
+            <select id="alignment-sub"></select>
+          </label>
+          <label>
             <span>Sort by:</span>
             <select id="alignment-sort">
               <option value="name">Name</option>
@@ -22,6 +34,7 @@ export default (() => {
             </select>
           </label>
         </div>
+        <div id="alignment-count" class="alignment-count"></div>
         <div class="alignment-legend">
           <span class="legend-label">Low alignment</span>
           <div class="legend-gradient"></div>
