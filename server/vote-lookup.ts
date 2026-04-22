@@ -460,7 +460,10 @@ export class VoteLookupService {
       const label = i === 0 ? 'ORIGINAL MOTION' : `ALTERNATIVE MOTION #${i}`;
       const outcomeWord = r.passed ? 'PASSED' : 'FAILED';
       context += `### ${label}\n`;
-      context += `**Motion Text:** ${r.motionText.substring(0, 300)}...\n`;
+      context += `**Motion:** ${r.motionTitle}\n`;
+      if (r.motionText) context += `**Full Motion Text:** ${r.motionText}\n`;
+      context += `**Date:** ${r.date}\n`;
+      context += `**Meeting:** ${r.meetingTitle}\n`;
       context += `**Outcome:** ${outcomeWord} - ${r.result}\n`;
       context += `**Voted YEA (${r.yeas.length}):** ${r.yeas.join(', ')}\n`;
       context += `**Voted NAY (${r.nays.length}):** ${r.nays.join(', ')}\n`;
@@ -913,18 +916,21 @@ ${sections.join('\n')}
     const voteWord = v.vote === 'yea' ? 'IN FAVOR (YEA)' : v.vote === 'nay' ? 'AGAINST (NAY)' : 'ABSENT';
     const outcomeWord = v.passed ? 'PASSED' : 'FAILED';
 
-    return `
-## VERIFIED VOTE RECORD (from structured data - USE THIS)
-**Councillor:** ${result.councillor}
-**Motion:** ${v.itemTitle}
-**Date:** ${v.date}
-**Meeting:** ${v.meetingTitle}
-**Vote:** ${voteWord}
-**Outcome:** ${outcomeWord} - ${v.result}
-**Match Confidence:** ${result.confidence}
+    const lines = [
+      '## VERIFIED VOTE RECORD (from structured data - USE THIS)',
+      `**Councillor:** ${result.councillor}`,
+      `**Motion:** ${v.itemTitle}`,
+      ...(v.motionText ? [`**Full Motion Text:** ${v.motionText}`] : []),
+      `**Date:** ${v.date}`,
+      `**Meeting:** ${v.meetingTitle}`,
+      `**Vote:** ${voteWord}`,
+      `**Outcome:** ${outcomeWord} - ${v.result}`,
+      `**Match Confidence:** ${result.confidence}`,
+      '',
+      '⚠️ This is verified structured data. Use these exact details in your response. When reporting this vote, include a plain-language summary of what was being voted on.',
+    ];
 
-⚠️ This is verified structured data. Use these exact details in your response.
-`;
+    return '\n' + lines.join('\n') + '\n';
   }
 
   /**
@@ -933,19 +939,22 @@ ${sections.join('\n')}
   formatMotionVotesForContext(result: MotionVotesResult): string {
     const outcomeWord = result.passed ? 'PASSED' : 'FAILED';
 
-    return `
-## VERIFIED VOTE BREAKDOWN (from structured data - USE THIS)
-**Motion:** ${result.motionTitle}
-**Date:** ${result.date}
-**Meeting:** ${result.meetingTitle}
-**Outcome:** ${outcomeWord} - ${result.result}
+    const lines = [
+      '## VERIFIED VOTE BREAKDOWN (from structured data - USE THIS)',
+      `**Motion:** ${result.motionTitle}`,
+      ...(result.motionText ? [`**Full Motion Text:** ${result.motionText}`] : []),
+      `**Date:** ${result.date}`,
+      `**Meeting:** ${result.meetingTitle}`,
+      `**Outcome:** ${outcomeWord} - ${result.result}`,
+      '',
+      `**Voted YEA (${result.yeas.length}):** ${result.yeas.join(', ') || 'None'}`,
+      `**Voted NAY (${result.nays.length}):** ${result.nays.join(', ') || 'None'}`,
+      `**Absent (${result.absent.length}):** ${result.absent.join(', ') || 'None'}`,
+      '',
+      '⚠️ This is verified structured data. Use these exact details in your response. When reporting this vote, include the motion text so users understand what was decided.',
+    ];
 
-**Voted YEA (${result.yeas.length}):** ${result.yeas.join(', ') || 'None'}
-**Voted NAY (${result.nays.length}):** ${result.nays.join(', ') || 'None'}
-**Absent (${result.absent.length}):** ${result.absent.join(', ') || 'None'}
-
-⚠️ This is verified structured data. Use these exact details in your response.
-`;
+    return '\n' + lines.join('\n') + '\n';
   }
 }
 
