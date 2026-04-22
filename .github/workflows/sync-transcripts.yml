@@ -75,6 +75,17 @@ jobs:
           cat sync_output.txt >> $GITHUB_OUTPUT
           echo "EOF" >> $GITHUB_OUTPUT
 
+      - name: Parse transcript vote outcomes
+        id: parse_votes
+        working-directory: scraping
+        env:
+          VERBOSE: "1"
+        run: |
+          uv run python transcript.py --parse-votes 2>&1 | tee parse_votes_output.txt
+          echo "output<<EOF" >> $GITHUB_OUTPUT
+          cat parse_votes_output.txt >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+
       - name: Generate pages for transcript-only meetings
         run: npx tsx scripts/generate-transcript-pages.ts
 

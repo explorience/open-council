@@ -187,6 +187,34 @@ export class EmbeddingGenerator {
       chunks.push(...transcriptChunks);
     }
 
+    // Transcript vote chunks (vote outcomes extracted from transcript for recent meetings without official minutes)
+    if (meeting.transcript_votes?.length) {
+      const tvoteLines = meeting.transcript_votes.map((tv, idx) => {
+        const countStr = tv.vote_count ? ` (${tv.vote_count})` : '';
+        const itemStr = tv.item ? `\nContext: ${tv.item}` : '';
+        return `Vote ${idx + 1}: ${tv.outcome}${countStr}${itemStr}`;
+      });
+      const tvoteText = [
+        `[TRANSCRIPT VOTE OUTCOMES - source: transcript, official minutes pending]`,
+        `⚠️ These vote outcomes were extracted from the meeting transcript. They are preliminary — official minutes with full vote records have not yet been published.`,
+        ``,
+        `Meeting: ${meeting.title}`,
+        `Date: ${meeting.datetime}`,
+        ``,
+        ...tvoteLines,
+      ].join('\n');
+
+      chunks.push({
+        id: `${filePath}:transcript_votes`,
+        text: tvoteText,
+        metadata: {
+          ...baseMetadata,
+          chunk_type: 'transcript_votes',
+          item_title: 'Transcript Vote Outcomes (unofficial)',
+        },
+      });
+    }
+
     // News coverage chunks (supplements transcript-only meetings with vote info)
     if (meeting.news_coverage?.length) {
       meeting.news_coverage.forEach((article, idx) => {

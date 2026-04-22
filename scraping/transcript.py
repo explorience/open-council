@@ -1078,6 +1078,203 @@ def fetch_transcript(date: datetime, meeting_type: str, verbose: bool = False) -
     return None
 
 
+def parse_transcript_votes(transcript: str) -> List[Dict[str, Any]]:
+    """
+    Parse vote outcomes from a meeting transcript text.
+
+    Looks for the Mayor/Chair announcing vote results, e.g.:
+      "Motion carries 13 to 2"
+      "Closing the vote, motion carries 15 to 0"
+      "Motion fails 2 to 13"
+      "Motion carried unanimously"
+
+    For each vote outcome found, attempts to identify the agenda item or
+    description from the surrounding sentences (typically a councillor
+    putting an item "on the floor" a few sentences before the result).
+
+    Args:
+        transcript: Consolidated transcript text string
+
+    Returns:
+        List of transcript_votes dicts:
+          {
+            "item": str,         # Detected agenda item or description
+            "outcome": str,      # "Carried" | "Failed"
+            "vote_count": str,   # e.g. "13-2" or "unanimous"
+            "source": "transcript"
+          }
+    """
+    if not transcript:
+        return []
+
+    votes = []
+
+    # Split transcript into sentences for context analysis
+    sentences = re.split(r'(?<=[.!?])\s+', transcript)
+
+    # Pattern for vote outcome announcements (covers common transcript phrasings)
+    outcome_pattern = re.compile(
+        r'motion\s+'
+        r'(?:'
+        r'carries?'               # "motion carries" / "motion carry"
+        r'|pass(?:ed|es)?'        # "motion passes" / "motion passed" / "motion pass"
+        r'|is\s+carried'          # "motion is carried"
+        r'|fail(?:s|ed)?'         # "motion fails" / "motion failed" / "motion fail"
+        r'|is\s+fail(?:ed)?'      # "motion is failed" / "motion is fail"
+        r'|defeated'              # "motion defeated"
+        r'|is\s+defeated'         # "motion is defeated"
+        r')',
+        re.IGNORECASE
+    )
+
+    # Pattern to extract vote count from outcome sentence or nearby sentences
+    vote_count_pattern = re.compile(
+        r'(\d+)\s*(?:to|-)\s*(\d+)'
+        r'|unanimously'
+        r'|unanimous',
+        re.IGNORECASE
+    )
+
+    # Patterns that identify a meaningful agenda item mention.
+    # Priority 1 (highest): councillor putting a specific named item on the floor.
+    # Priority 2: item/report numbers mentioned.
+    # Priority 3: generic opening-to-vote phrase (fallback).
+    item_substantive_pattern = re.compile(
+        r'(?:put|place)\s+(?:item|report|motion|recommendation)\s'  # "put item 15 on the floor"
+        r'|I\'ll put\s+(?:item|report|the)'                          # "I'll put the ..."
+        r'|on\s+the\s+floor\b'                                       # "...on the floor"
+        r'|\bitem\s+(?:number\s+)?\d'                                # "item 15", "item number 3"
+        r'|\bpoint\s+(?:number\s+)?\d'                               # "point 3"
+        r'|\bmotion\s+(?:number\s+)?\d',                             # "motion 5"
+        re.IGNORECASE
+    )
+
+    # Generic open-to-vote phrases (least informative; used as last resort)
+    generic_voting_pattern = re.compile(
+        r'open\s+(?:that|the vote|this)\s+for\s+voting'
+        r'|open\s+(?:that|the)\s+for\s+voting'
+        r'|we\'ll\s+(?:open|take)\s+(?:that|the)?\s+(?:vote|voting)',
+        re.IGNORECASE
+    )
+
+    for i, sentence in enumerate(sentences):
+        if not outcome_pattern.search(sentence):
+            continue
+
+        # --- Determine outcome ---
+        lower_sent = sentence.lower()
+        if any(w in lower_sent for w in ['carries', 'carry', 'passed', 'passes', 'is carried', 'unanimous']):
+            outcome = 'Carried'
+        elif any(w in lower_sent for w in ['fails', 'fail', 'failed', 'defeated', 'is failed', 'is defeated']):
+            outcome = 'Failed'
+        else:
+            outcome = 'Carried'  # Default if ambiguous
+
+        # --- Extract vote count ---
+        # Try the outcome sentence first, then nearby preceding sentences
+        vote_count = ''
+        for search_sent in [sentence] + sentences[max(0, i-2):i]:
+            count_match = vote_count_pattern.search(search_sent)
+            if count_match:
+                matched_text = count_match.group(0).lower()
+                if 'unanimous' in matched_text:
+                    vote_count = 'unanimous'
+                else:
+                    a, b = count_match.group(1), count_match.group(2)
+                    vote_count = f'{a}-{b}'
+                break
+
+        # --- Identify agenda item from context (look back up to 15 sentences) ---
+        # Prefer sentences that mention a specific item/report/motion over generic ones.
+        item_desc = ''
+        context_window = sentences[max(0, i - 15):i]
+        best_substantive = ''
+        best_generic = ''
+
+        for ctx_sent in reversed(context_window):
+            stripped = ctx_sent.strip()
+            if not stripped:
+                continue
+            # Skip very short sentences and generic vote-open phrases for first pass
+            if item_substantive_pattern.search(stripped) and len(stripped) > 20:
+                best_substantive = stripped
+                break
+            elif not best_generic and generic_voting_pattern.search(stripped):
+                best_generic = stripped
+
+        item_desc = best_substantive or best_generic
+
+        # Truncate very long descriptions
+        if len(item_desc) > 250:
+            item_desc = item_desc[:250] + '...'
+
+        votes.append({
+            'item': item_desc,
+            'outcome': outcome,
+            'vote_count': vote_count,
+            'source': 'transcript',
+        })
+
+    return votes
+
+
+def extract_transcript_votes_for_meeting(json_path: Path, verbose: bool = False) -> bool:
+    """
+    Extract transcript vote outcomes and store them in the meeting JSON file.
+
+    Only processes meetings that:
+    1. Have a transcript
+    2. Lack structured motions data (i.e. transcript-only or placeholder meetings)
+    3. Don't already have transcript_votes
+
+    Args:
+        json_path: Path to the meeting JSON file
+        verbose: Whether to print detailed logging
+
+    Returns:
+        True if transcript_votes were added/updated, False otherwise
+    """
+    try:
+        with open(json_path, 'r') as f:
+            meeting = json.load(f)
+    except (json.JSONDecodeError, IOError) as e:
+        print(f"  Error reading {json_path}: {e}")
+        return False
+
+    transcript = meeting.get('transcript', '')
+    if not transcript:
+        return False  # Nothing to parse
+
+    # Skip if already has transcript_votes
+    if meeting.get('transcript_votes') is not None:
+        return False
+
+    # Only process meetings without official minutes (transcript-only)
+    has_official_minutes = meeting.get('data_sources', {}).get('official_minutes', True)
+    if has_official_minutes and not meeting.get('placeholder'):
+        # Has official minutes — skip (official motions data is more reliable)
+        return False
+
+    # Parse vote outcomes from transcript
+    transcript_votes = parse_transcript_votes(transcript)
+
+    if not transcript_votes:
+        # Still store an empty list to mark that we've processed this meeting
+        meeting['transcript_votes'] = []
+    else:
+        meeting['transcript_votes'] = transcript_votes
+        if verbose:
+            print(f"    → Extracted {len(transcript_votes)} vote outcomes from transcript")
+
+    try:
+        with open(json_path, 'w') as f:
+            json.dump(meeting, f, indent=2)
+        return bool(transcript_votes)
+    except IOError as e:
+        print(f"  Error writing {json_path}: {e}")
+        return False
+
+
 def add_transcript_to_meeting(json_path: Path, verbose: bool = False) -> bool:
     """
     Add transcript data to an existing meeting JSON file.
@@ -1123,10 +1320,19 @@ def add_transcript_to_meeting(json_path: Path, verbose: bool = False) -> bool:
         return False
 
     # Add consolidated transcript to meeting data
-    meeting['transcript'] = consolidate_transcript(transcript_segments)
+    consolidated = consolidate_transcript(transcript_segments)
+    meeting['transcript'] = consolidated
     meeting['transcript_duration'] = get_transcript_duration(transcript_segments)
     meeting['transcript_source'] = 'lillian_skinner_archive'
     meeting['transcript_source_url'] = build_transcript_url(meeting_date, meeting_type)
+
+    # Extract vote outcomes from transcript (for transcript-only meetings)
+    has_official_minutes = meeting.get('data_sources', {}).get('official_minutes', True)
+    if not has_official_minutes or meeting.get('placeholder'):
+        transcript_votes = parse_transcript_votes(consolidated)
+        meeting['transcript_votes'] = transcript_votes
+        if verbose and transcript_votes:
+            print(f"    → Extracted {len(transcript_votes)} vote outcomes from transcript")
 
     # Save updated meeting
     try:
@@ -1208,6 +1414,56 @@ def sync_all_transcripts(data_dir: Path = None, verbose: bool = False, limit: in
                 stats['added'] += 1
             else:
                 stats['skipped'] += 1
+
+    return stats
+
+
+def parse_all_transcript_votes(data_dir: Path = None, verbose: bool = False) -> Dict[str, int]:
+    """
+    Parse transcript vote outcomes for all transcript-only meetings that don't have them yet.
+
+    Scans recent meeting files, and for those that have a transcript but lack
+    structured motions data (placeholder or transcript-only meetings), extracts
+    vote outcomes and stores them in the `transcript_votes` field.
+
+    Args:
+        data_dir: Directory containing meeting data
+        verbose: Whether to print detailed logging
+
+    Returns:
+        Dict with counts: parsed, skipped, errors
+    """
+    if data_dir is None:
+        data_dir = Path(__file__).parent.parent / 'data'
+
+    stats = {'parsed': 0, 'skipped': 0, 'errors': 0}
+
+    TRANSCRIPT_CUTOFF = "2024-06"
+
+    all_month_dirs = sorted(
+        [d for d in data_dir.iterdir() if d.is_dir() and re.match(r'\d{4}-\d{2}', d.name)],
+        key=lambda x: x.name,
+        reverse=True
+    )
+    month_dirs = [d for d in all_month_dirs if d.name >= TRANSCRIPT_CUTOFF]
+
+    print(f"Parsing transcript votes for {len(month_dirs)} month directories...")
+
+    for month_dir in month_dirs:
+        json_files = sorted(month_dir.glob('*.json'), key=lambda x: x.name, reverse=True)
+        for json_path in json_files:
+            try:
+                result = extract_transcript_votes_for_meeting(json_path, verbose=verbose)
+                if result:
+                    stats['parsed'] += 1
+                    if verbose:
+                        print(f"  ✓ Parsed votes: {json_path.name}")
+                else:
+                    stats['skipped'] += 1
+            except Exception as e:
+                stats['errors'] += 1
+                if verbose:
+                    print(f"  Error processing {json_path.name}: {e}")
 
     return stats
 
@@ -1298,13 +1554,20 @@ def create_transcript_only_meeting(
                 print(f"  Meeting already has transcript: {existing.name}")
                 return None
 
-            meeting_data['transcript'] = consolidate_transcript(transcript_segments)
+            consolidated = consolidate_transcript(transcript_segments)
+            meeting_data['transcript'] = consolidated
             meeting_data['transcript_source'] = 'lillian_skinner_archive'
             meeting_data['transcript_source_url'] = build_transcript_url(date, meeting_type)
             meeting_data['transcript_duration'] = get_transcript_duration(transcript_segments)
             if 'data_sources' not in meeting_data:
                 meeting_data['data_sources'] = {}
             meeting_data['data_sources']['transcript'] = True
+
+            # Extract vote outcomes from transcript for transcript-only / placeholder meetings
+            if not meeting_data.get('data_sources', {}).get('official_minutes', True) \
+                    or meeting_data.get('placeholder'):
+                transcript_votes = parse_transcript_votes(consolidated)
+                meeting_data['transcript_votes'] = transcript_votes
 
             with open(existing, 'w') as f:
                 json.dump(meeting_data, f, indent=2)
@@ -1333,6 +1596,9 @@ def create_transcript_only_meeting(
             print(f"  ✓ Found {len(news_coverage)} news article(s) with vote info")
 
     # Create meeting structure with transcript only
+    consolidated_transcript = consolidate_transcript(transcript_segments)
+    transcript_votes = parse_transcript_votes(consolidated_transcript)
+
     meeting_data = {
         "title": f"{meeting_type} Meeting",
         "datetime": date.strftime('%Y-%m-%d'),
@@ -1343,10 +1609,11 @@ def create_transcript_only_meeting(
             "transcript": True,
             "news_coverage": bool(news_coverage)
         },
-        "transcript": consolidate_transcript(transcript_segments),
+        "transcript": consolidated_transcript,
         "transcript_source": "lillian_skinner_archive",
         "transcript_source_url": build_transcript_url(date, meeting_type),
         "transcript_duration": get_transcript_duration(transcript_segments),
+        "transcript_votes": transcript_votes,
         "news_coverage": news_coverage,
         # Empty placeholders for official minutes data
         "present": [],
@@ -1456,6 +1723,16 @@ if __name__ == '__main__':
         print(f"   Created: {stats['created']}")
         print(f"   Already exist: {stats['already_exist']}")
         print(f"   Not available: {stats['not_available']}")
+
+    elif len(sys.argv) >= 2 and sys.argv[1] == '--parse-votes':
+        # Parse transcript vote outcomes for all transcript-only meetings
+        print("🗳️  Parsing Transcript Vote Outcomes\n")
+        stats = parse_all_transcript_votes(verbose=verbose)
+
+        print(f"\n📊 Results:")
+        print(f"   Parsed: {stats['parsed']}")
+        print(f"   Skipped: {stats['skipped']}")
+        print(f"   Errors: {stats['errors']}")
 
     elif len(sys.argv) >= 2 and sys.argv[1] == '--create':
         # Create transcript-only meeting for specific date/type
