@@ -113,11 +113,16 @@ async function renderMatrix() {
     const sortBy = sortSelect?.value || "name"
 
     // For overall view, filter to current council only.
-    // Committee/topic files already only include councillors who voted in that context.
+    // For committee/topic views, filter out councillors with no co-vote data with
+    // anyone else (they're in the file but not actual committee members).
     let councillors =
       view === "overall"
         ? data.councillors.filter((c) => CURRENT_COUNCIL.has(c.slug))
-        : [...data.councillors]
+        : data.councillors.filter((c) =>
+            data.councillors.some(
+              (other) => other.slug !== c.slug && data.matrix[c.slug]?.[other.slug] !== undefined,
+            ),
+          )
 
     // Update vote count label
     if (countEl) {
@@ -158,8 +163,9 @@ async function renderMatrix() {
       .attr("transform", `translate(${margin.left},${margin.top})`)
 
     // Color scale (red = low alignment, green = high alignment)
-    // Actual data range is ~77-98%, so we use that for even color distribution
-    const colorScale = d3.scaleSequential(d3.interpolateRdYlGn).domain([77, 98])
+    // Clamp so values outside [50, 98] don't extrapolate into unexpected colors.
+    // Domain starts at 50 rather than 77 to handle contentious committee votes.
+    const colorScale = d3.scaleSequential(d3.interpolateRdYlGn).domain([50, 98]).clamp(true)
 
     // Create cells - only lower-left triangle (row > col) plus diagonal
     councillors.forEach((row, i) => {
