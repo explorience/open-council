@@ -13,7 +13,7 @@ attendanceRate: 96.0
 participationRate: 88.9
 yeaRate: 81.5
 contestedDissentRate: 45.9
-contestedVotes: 1366
+contestedVotes: 1370
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -42,9 +42,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,277 |
-| Voted Yea | 1,619 (80.4%) |
-| Voted Nay | 395 (19.6%) |
+| Substantive Votes | 2,285 |
+| Voted Yea | 1,626 (80.4%) |
+| Voted Nay | 396 (19.6%) |
 
 
 ### Dissent on Contested Votes
@@ -52,7 +52,7 @@ prefillQuestions:
 *Only counts non-unanimous votes where the councillor participated*
 
 - **Dissent Rate**: 45.9%
-- **Contested Votes**: 1,366
+- **Contested Votes**: 1,370
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -63,16 +63,16 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 380 |
-| Voted Yea | 286 (77.1%) |
-| Voted Nay | 85 (22.9%) |
+| Budget Votes | 381 |
+| Voted Yea | 287 (77.2%) |
+| Voted Nay | 85 (22.8%) |
 | Absent | 9 |
 
 
 ## Attendance
 
 - **Attendance Rate**: 96.0%
-- **Meetings Attended**: 215 of 224
+- **Meetings Attended**: 216 of 225
 - **Meetings Missed**: 9
 - **Trend**: Stable -
 
@@ -80,20 +80,20 @@ prefillQuestions:
   - 2023: 94.8% (73/77 meetings)
   - 2024: 93.2% (69/74 meetings)
   - 2025: 100.0% (55/55 meetings)
-  - 2026: 100.0% (9/9 meetings)
+  - 2026: 100.0% (10/10 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
-- Anna Hopkins (92.9%)
-- David Ferreira (91.1%)
+- Anna Hopkins (93.0%)
+- David Ferreira (91.2%)
 - Skylar Franke (90.3%)
 
 **Least aligned with:**
 - Susan Stevenson (77.0%)
-- Paul Van Meerbergen (77.9%)
-- Steve Hillier (80.8%)
+- Paul Van Meerbergen (78.1%)
+- Steve Hillier (80.9%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -103,7 +103,7 @@ prefillQuestions:
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
 | Council | 1,934 | 1,383 | 373 | 90.8% |
-| Strategic Priorities and Policy Committee | 920 | 628 | 121 | 81.4% |
+| Strategic Priorities and Policy Committee | 931 | 637 | 123 | 81.6% |
 | Community and Protective Services Committee | 332 | 288 | 34 | 97.0% |
 | Budget Committee | 189 | 141 | 44 | 97.9% |
 | Civic Works Committee | 113 | 98 | 10 | 95.6% |
@@ -113,6 +113,22 @@ prefillQuestions:
 ## Notable Dissenting Votes
 
 *Recent split votes where Sam Trosow voted against the final outcome:*
+
+### 2026-03-24: Draft Economic Development Strategy (2026-2030) and Implementation Plan
+
+[5th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=5b8ccf34-419e-4480-af6f-4160e9259405&Agenda=PostMinutes&lang=English)
+
+> That, on the recommendation of the City Manager, the City of London Draft Economic Development Strategy (2026-2030) and Implementation Plan, as appended to the staff report dated March 24, 2026 as App...
+
+Voted **Nay** - Motion Passed (12 to 2)
+
+### 2026-03-24: Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program - Report Back on Program Options
+
+[5th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=5b8ccf34-419e-4480-af6f-4160e9259405&Agenda=PostMinutes&lang=English)
+
+> That part a) ii) BE APPROVED: ii) partial (or full) development charge rebate options for new residential development, including options that could be targeted by unit type and ability to meet HAF tim...
+
+Voted **Nay** - Motion Passed (10 to 4)
 
 ### 2026-03-09: (ADDED) Request to Update Municipal Compliance By-law - Amendment to Section 4.7 and Creation of a Public Rental Licence Lookup Tool
 
@@ -177,22 +193,6 @@ Voted **Nay** - Motion Passed (10 to 3)
 > That the Civic Administration BE DIRECTED to review and report back to a future meeting of the Community and Protective Services Committee the feasibility of posting on the City of London website the ...
 
 Voted **Yea** - Motion Failed (2 to 2)
-
-### 2026-02-10: (2.3) Sunningdale Road West Improvements – Pipeline Decommissioning and New Pipeline Agreement (Relates to Bill No. 63)
-
-[3rd Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English)
-
-> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to an oil pipeline relocation agreement with Imperial Oil for the Su...
-
-Voted **Nay** - Motion Passed (10 to 5)
-
-### 2026-02-10: (2.2) Good Neighbour Agreements
-
-[3rd Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English)
-
-> That part a) of the motion BE AMENDED as follows: i) the Civic Administration BE DIRECTED to provide a one-year contract renewal for the procurement framework with an option to renew for one-year; At ...
-
-Voted **Nay** - Motion Passed (8 to 7)
 
 
 ## Committees Served

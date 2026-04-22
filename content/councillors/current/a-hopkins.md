@@ -13,7 +13,7 @@ attendanceRate: 96.8
 participationRate: 94.1
 yeaRate: 92.1
 contestedDissentRate: 12.9
-contestedVotes: 4938
+contestedVotes: 4942
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -42,8 +42,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 6,969 |
-| Voted Yea | 5,898 (90.9%) |
+| Substantive Votes | 6,977 |
+| Voted Yea | 5,906 (90.9%) |
 | Voted Nay | 594 (9.1%) |
 
 
@@ -52,7 +52,7 @@ prefillQuestions:
 *Only counts non-unanimous votes where the councillor participated*
 
 - **Dissent Rate**: 12.9%
-- **Contested Votes**: 4,938
+- **Contested Votes**: 4,942
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -63,8 +63,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 1,098 |
-| Voted Yea | 926 (84.5%) |
+| Budget Votes | 1,099 |
+| Voted Yea | 927 (84.5%) |
 | Voted Nay | 170 (15.5%) |
 | Absent | 2 |
 
@@ -72,7 +72,7 @@ prefillQuestions:
 ## Attendance
 
 - **Attendance Rate**: 96.8%
-- **Meetings Attended**: 704 of 727
+- **Meetings Attended**: 705 of 728
 - **Meetings Missed**: 23
 - **Trend**: Stable -
 
@@ -80,7 +80,7 @@ prefillQuestions:
   - 2023: 91.7% (55/60 meetings)
   - 2024: 98.4% (60/61 meetings)
   - 2025: 96.4% (53/55 meetings)
-  - 2026: 100.0% (9/9 meetings)
+  - 2026: 100.0% (10/10 meetings)
 
 
 ## Voting Alignment
@@ -92,7 +92,7 @@ prefillQuestions:
 
 **Least aligned with:**
 - Susan Stevenson (81.1%)
-- Paul Van Meerbergen (85.8%)
+- Paul Van Meerbergen (85.9%)
 - Peter Cuddy (88.1%)
 
 [View full voting alignment →](/councillors/alignment)
@@ -103,7 +103,7 @@ prefillQuestions:
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
 | Council | 4,277 | 3,793 | 400 | 98.0% |
-| Strategic Priorities and Policy Committee | 2,692 | 2,035 | 208 | 83.3% |
+| Strategic Priorities and Policy Committee | 2,703 | 2,046 | 208 | 83.4% |
 | Planning and Environment Committee | 1,830 | 1,773 | 39 | 99.0% |
 | Civic Works Committee | 318 | 313 | 5 | 100.0% |
 | Budget Committee | 189 | 138 | 49 | 98.9% |

@@ -13,7 +13,7 @@ attendanceRate: 98.2
 participationRate: 91.5
 yeaRate: 90.8
 contestedDissentRate: 11.2
-contestedVotes: 1414
+contestedVotes: 1418
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -42,9 +42,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,412 |
-| Voted Yea | 1,830 (85.6%) |
-| Voted Nay | 309 (14.4%) |
+| Substantive Votes | 2,420 |
+| Voted Yea | 1,837 (85.6%) |
+| Voted Nay | 310 (14.4%) |
 
 
 ### Dissent on Contested Votes
@@ -52,7 +52,7 @@ prefillQuestions:
 *Only counts non-unanimous votes where the councillor participated*
 
 - **Dissent Rate**: 11.2%
-- **Contested Votes**: 1,414
+- **Contested Votes**: 1,418
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -63,16 +63,16 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 385 |
-| Voted Yea | 278 (72.6%) |
-| Voted Nay | 105 (27.4%) |
+| Budget Votes | 386 |
+| Voted Yea | 279 (72.7%) |
+| Voted Nay | 105 (27.3%) |
 | Absent | 2 |
 
 
 ## Attendance
 
 - **Attendance Rate**: 98.2%
-- **Meetings Attended**: 213 of 217
+- **Meetings Attended**: 214 of 218
 - **Meetings Missed**: 4
 - **Trend**: Declining v
 
@@ -80,19 +80,19 @@ prefillQuestions:
   - 2023: 100.0% (61/61 meetings)
   - 2024: 100.0% (67/67 meetings)
   - 2025: 97.2% (69/71 meetings)
-  - 2026: 80.0% (8/10 meetings)
+  - 2026: 81.8% (9/11 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
-- Shawn Lewis (97.6%)
+- Shawn Lewis (97.7%)
 - Steve Lehman (96.1%)
-- Steve Hillier (95.3%)
+- Josh Morgan (95.2%)
 
 **Least aligned with:**
 - Sam Trosow (82.4%)
-- David Ferreira (86.8%)
+- David Ferreira (86.7%)
 - Anna Hopkins (88.1%)
 
 [View full voting alignment →](/councillors/alignment)
@@ -103,7 +103,7 @@ prefillQuestions:
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
 | Council | 1,939 | 1,709 | 158 | 96.3% |
-| Strategic Priorities and Policy Committee | 1,025 | 727 | 78 | 78.5% |
+| Strategic Priorities and Policy Committee | 1,036 | 737 | 79 | 78.8% |
 | Planning and Environment Committee | 549 | 509 | 8 | 94.2% |
 | Budget Committee | 189 | 116 | 73 | 100.0% |
 | Community and Protective Services Committee | 122 | 101 | 13 | 93.4% |
@@ -114,6 +114,14 @@ prefillQuestions:
 ## Notable Dissenting Votes
 
 *Recent split votes where Peter Cuddy voted against the final outcome:*
+
+### 2026-03-24: Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program - Report Back on Program Options
+
+[5th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=5b8ccf34-419e-4480-af6f-4160e9259405&Agenda=PostMinutes&lang=English)
+
+> That the motion BE AMENDED to have the report back to the Strategic Priorities and Policy Committee.
+
+Voted **Nay** - Motion Passed (10 to 4)
 
 ### 2026-03-03: (2.4) Residential Rental Unit Licensing (RRUL) License Display
 
@@ -184,14 +192,6 @@ Voted **Nay** - Motion Passed (8 to 6)
 [18th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=884a7d5b-61ac-4fa6-92cd-79ba0d612538&Agenda=PostMinutes&lang=English)
 
 > That the motion be amended in part a) to read as follows: a) the revised by-law attached hereto as Appendix “A” BE INTRODUCED at the Municipal Council meeting to be held on November 25, 2025, to amend...
-
-Voted **Nay** - Motion Passed (8 to 7)
-
-### 2025-11-25: (2.6) City's Response to MTO Annual Electric Kick-Scooter Pilot Extension (Relates to Bill No. 405)
-
-[18th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=884a7d5b-61ac-4fa6-92cd-79ba0d612538&Agenda=PostMinutes&lang=English)
-
-> That the motion, as amended, BE APPROVED.
 
 Voted **Nay** - Motion Passed (8 to 7)
 

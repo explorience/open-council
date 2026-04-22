@@ -12,8 +12,8 @@ votesAbsent: 1317
 attendanceRate: 92.2
 participationRate: 87.9
 yeaRate: 94.1
-contestedDissentRate: 5.3
-contestedVotes: 5365
+contestedDissentRate: 5.4
+contestedVotes: 5369
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -43,17 +43,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 7,898 |
-| Voted Yea | 6,475 (92.4%) |
-| Voted Nay | 530 (7.6%) |
+| Substantive Votes | 7,906 |
+| Voted Yea | 6,482 (92.4%) |
+| Voted Nay | 531 (7.6%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 5.3%
-- **Contested Votes**: 5,365
+- **Dissent Rate**: 5.4%
+- **Contested Votes**: 5,369
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -64,8 +64,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 1,409 |
-| Voted Yea | 1,213 (86.8%) |
+| Budget Votes | 1,410 |
+| Voted Yea | 1,214 (86.8%) |
 | Voted Nay | 184 (13.2%) |
 | Absent | 12 |
 
@@ -73,7 +73,7 @@ prefillQuestions:
 ## Attendance
 
 - **Attendance Rate**: 92.2%
-- **Meetings Attended**: 718 of 779
+- **Meetings Attended**: 719 of 780
 - **Meetings Missed**: 61
 - **Trend**: Improving ^
 
@@ -81,7 +81,7 @@ prefillQuestions:
   - 2023: 56.2% (59/105 meetings)
   - 2024: 100.0% (61/61 meetings)
   - 2025: 100.0% (52/52 meetings)
-  - 2026: 100.0% (8/8 meetings)
+  - 2026: 100.0% (9/9 meetings)
 
 
 ## Voting Alignment
@@ -93,7 +93,7 @@ prefillQuestions:
 
 **Least aligned with:**
 - Sam Trosow (85.3%)
-- Susan Stevenson (86.7%)
+- Susan Stevenson (86.8%)
 - David Ferreira (89.8%)
 
 [View full voting alignment →](/councillors/alignment)
@@ -104,7 +104,7 @@ prefillQuestions:
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
 | Council | 5,188 | 4,805 | 265 | 97.7% |
-| Strategic Priorities and Policy Committee | 3,075 | 2,419 | 184 | 84.7% |
+| Strategic Priorities and Policy Committee | 3,086 | 2,429 | 185 | 84.7% |
 | Corporate Services Committee | 1,069 | 964 | 19 | 92.0% |
 | Planning and Environment Committee | 640 | 162 | 4 | 25.9% |
 | Civic Works Committee | 348 | 285 | 2 | 82.5% |
@@ -116,6 +116,14 @@ prefillQuestions:
 ## Notable Dissenting Votes
 
 *Recent split votes where Josh Morgan voted against the final outcome:*
+
+### 2026-03-24: Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program - Report Back on Program Options
+
+[5th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=5b8ccf34-419e-4480-af6f-4160e9259405&Agenda=PostMinutes&lang=English)
+
+> That the motion BE AMENDED to have the report back to the Strategic Priorities and Policy Committee.
+
+Voted **Nay** - Motion Passed (10 to 4)
 
 ### 2026-03-09: Request to Expedite the Review of the Property Standards By-law CP-24 as it Pertains to Property Conditions that Enable Rat Infestations
 
@@ -188,14 +196,6 @@ Voted **Nay** - Motion Passed (4 to 2)
 > Motion to approve part b): b) the Civic Administration BE DIRECTED to investigate and report back to a future meeting of the Infrastructure and Corporate Services Committee on potential interim measur...
 
 Voted **Nay** - Motion Passed (11 to 4)
-
-### 2025-11-25: (2.5) Blue Box Transition Final Year - Part B Update
-
-[18th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=884a7d5b-61ac-4fa6-92cd-79ba0d612538&Agenda=PostMinutes&lang=English)
-
-> Motion to approve part c): c) the Civic Administration BE DIRECTED to request the Ministry of Environment, Conservation and Parks amend the Blue Box Regulation (Reg 210/25) to include non-profit organ...
-
-Voted **Nay** - Motion Passed (8 to 7)
 
 
 ## Committees Served

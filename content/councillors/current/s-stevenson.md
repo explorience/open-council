@@ -12,8 +12,8 @@ votesAbsent: 479
 attendanceRate: 88.7
 participationRate: 86.6
 yeaRate: 82.6
-contestedDissentRate: 35.2
-contestedVotes: 1317
+contestedDissentRate: 35.3
+contestedVotes: 1321
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -42,17 +42,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,201 |
-| Voted Yea | 1,511 (81.6%) |
-| Voted Nay | 341 (18.4%) |
+| Substantive Votes | 2,209 |
+| Voted Yea | 1,518 (81.6%) |
+| Voted Nay | 342 (18.4%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 35.2%
-- **Contested Votes**: 1,317
+- **Dissent Rate**: 35.3%
+- **Contested Votes**: 1,321
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -63,36 +63,36 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 378 |
-| Voted Yea | 285 (77.4%) |
-| Voted Nay | 83 (22.6%) |
+| Budget Votes | 379 |
+| Voted Yea | 286 (77.5%) |
+| Voted Nay | 83 (22.5%) |
 | Absent | 10 |
 
 
 ## Attendance
 
 - **Attendance Rate**: 88.7%
-- **Meetings Attended**: 188 of 212
+- **Meetings Attended**: 189 of 213
 - **Meetings Missed**: 24
-- **Trend**: Declining v
+- **Trend**: Stable -
 
 **Attendance by Year:**
   - 2023: 88.6% (70/79 meetings)
   - 2024: 89.4% (59/66 meetings)
   - 2025: 86.4% (38/44 meetings)
-  - 2026: 85.7% (12/14 meetings)
+  - 2026: 86.7% (13/15 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
 - Paul Van Meerbergen (89.8%)
-- Jerry Pribil (89.1%)
 - Peter Cuddy (89.0%)
+- Jerry Pribil (89.0%)
 
 **Least aligned with:**
 - Sam Trosow (77.0%)
-- David Ferreira (78.4%)
+- David Ferreira (78.5%)
 - Anna Hopkins (81.1%)
 
 [View full voting alignment →](/councillors/alignment)
@@ -103,7 +103,7 @@ prefillQuestions:
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
 | Council | 1,941 | 1,399 | 379 | 91.6% |
-| Strategic Priorities and Policy Committee | 963 | 659 | 91 | 77.9% |
+| Strategic Priorities and Policy Committee | 974 | 668 | 93 | 78.1% |
 | Budget Committee | 189 | 137 | 45 | 96.3% |
 | Corporate Services Committee | 184 | 126 | 8 | 72.8% |
 | Planning and Environment Committee | 164 | 124 | 2 | 76.8% |
@@ -114,6 +114,22 @@ prefillQuestions:
 ## Notable Dissenting Votes
 
 *Recent split votes where Susan Stevenson voted against the final outcome:*
+
+### 2026-03-24: Draft Economic Development Strategy (2026-2030) and Implementation Plan
+
+[5th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=5b8ccf34-419e-4480-af6f-4160e9259405&Agenda=PostMinutes&lang=English)
+
+> That, on the recommendation of the City Manager, the City of London Draft Economic Development Strategy (2026-2030) and Implementation Plan, as appended to the staff report dated March 24, 2026 as App...
+
+Voted **Nay** - Motion Passed (12 to 2)
+
+### 2026-03-24: Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program - Report Back on Program Options
+
+[5th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=5b8ccf34-419e-4480-af6f-4160e9259405&Agenda=PostMinutes&lang=English)
+
+> That the motion BE AMENDED to have the report back to the Strategic Priorities and Policy Committee.
+
+Voted **Nay** - Motion Passed (10 to 4)
 
 ### 2026-03-03: (4.1) Deputy Mayor S. Lewis, Councillors P. Cuddy and C. Rahman - Zoning By-law Amendment - Parking Changes
 
@@ -178,22 +194,6 @@ Voted **Nay** - Motion Passed (10 to 1)
 > That Second Reading of Bill No.’s 97 and 98, BE APPROVED.
 
 Voted **Nay** - Motion Passed (10 to 1)
-
-### 2026-03-03: By-laws
-
-[4th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
-
-> That Third Reading and Enactment of Bill No.’s 97 and 98, BE APPROVED.
-
-Voted **Nay** - Motion Passed (10 to 1)
-
-### 2026-03-03: By-laws
-
-[4th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
-
-> That Introduction and First Reading of Bill No.108, BE APPROVED.
-
-Voted **Nay** - Motion Passed (9 to 2)
 
 
 ## Committees Served

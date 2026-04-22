@@ -10,10 +10,10 @@ votesYea: 2896
 votesNay: 345
 votesAbsent: 253
 attendanceRate: 100.0
-participationRate: 92.7
-yeaRate: 89.3
-contestedDissentRate: 17.5
-contestedVotes: 1323
+participationRate: 92.8
+yeaRate: 89.4
+contestedDissentRate: 17.4
+contestedVotes: 1327
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -42,17 +42,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,085 |
-| Voted Yea | 1,572 (84.4%) |
-| Voted Nay | 290 (15.6%) |
+| Substantive Votes | 2,093 |
+| Voted Yea | 1,580 (84.5%) |
+| Voted Nay | 290 (15.5%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 17.5%
-- **Contested Votes**: 1,323
+- **Dissent Rate**: 17.4%
+- **Contested Votes**: 1,327
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -63,8 +63,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 342 |
-| Voted Yea | 256 (74.9%) |
+| Budget Votes | 343 |
+| Voted Yea | 257 (74.9%) |
 | Voted Nay | 86 (25.1%) |
 | Absent | 0 |
 
@@ -72,7 +72,7 @@ prefillQuestions:
 ## Attendance
 
 - **Attendance Rate**: 100.0%
-- **Meetings Attended**: 207 of 207
+- **Meetings Attended**: 208 of 208
 - **Meetings Missed**: 0
 - **Trend**: Stable -
 
@@ -80,20 +80,20 @@ prefillQuestions:
   - 2023: 100.0% (72/72 meetings)
   - 2024: 100.0% (61/61 meetings)
   - 2025: 100.0% (55/55 meetings)
-  - 2026: 100.0% (10/10 meetings)
+  - 2026: 100.0% (11/11 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
-- Josh Morgan (93.1%)
+- Josh Morgan (93.0%)
 - Steve Lehman (92.7%)
 - Steve Hillier (92.3%)
 
 **Least aligned with:**
-- Sam Trosow (84.5%)
 - Susan Stevenson (84.5%)
-- Paul Van Meerbergen (87.4%)
+- Sam Trosow (84.6%)
+- Paul Van Meerbergen (87.5%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -103,7 +103,7 @@ prefillQuestions:
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
 | Council | 1,733 | 1,476 | 192 | 96.2% |
-| Strategic Priorities and Policy Committee | 822 | 572 | 72 | 78.3% |
+| Strategic Priorities and Policy Committee | 833 | 583 | 72 | 78.6% |
 | Planning and Environment Committee | 417 | 405 | 8 | 99.0% |
 | Budget Committee | 189 | 136 | 53 | 100.0% |
 | Infrastructure and Corporate Services Committee | 120 | 112 | 7 | 99.2% |

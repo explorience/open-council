@@ -13,7 +13,7 @@ attendanceRate: 99.0
 participationRate: 93.4
 yeaRate: 94.1
 contestedDissentRate: 10.6
-contestedVotes: 2393
+contestedVotes: 2397
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -42,9 +42,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 5,242 |
-| Voted Yea | 4,253 (90.1%) |
-| Voted Nay | 466 (9.9%) |
+| Substantive Votes | 5,250 |
+| Voted Yea | 4,260 (90.1%) |
+| Voted Nay | 467 (9.9%) |
 
 
 ### Dissent on Contested Votes
@@ -52,7 +52,7 @@ prefillQuestions:
 *Only counts non-unanimous votes where the councillor participated*
 
 - **Dissent Rate**: 10.6%
-- **Contested Votes**: 2,393
+- **Contested Votes**: 2,397
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -63,16 +63,16 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 750 |
-| Voted Yea | 595 (82.6%) |
-| Voted Nay | 125 (17.4%) |
+| Budget Votes | 751 |
+| Voted Yea | 596 (82.7%) |
+| Voted Nay | 125 (17.3%) |
 | Absent | 30 |
 
 
 ## Attendance
 
 - **Attendance Rate**: 99.0%
-- **Meetings Attended**: 479 of 484
+- **Meetings Attended**: 480 of 485
 - **Meetings Missed**: 5
 - **Trend**: Stable -
 
@@ -80,20 +80,20 @@ prefillQuestions:
   - 2023: 100.0% (84/84 meetings)
   - 2024: 98.4% (62/63 meetings)
   - 2025: 96.3% (52/54 meetings)
-  - 2026: 100.0% (11/11 meetings)
+  - 2026: 100.0% (12/12 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
-- Peter Cuddy (97.6%)
+- Peter Cuddy (97.7%)
 - Steve Lehman (97.2%)
 - Steve Hillier (96.4%)
 
 **Least aligned with:**
 - Sam Trosow (82.5%)
 - David Ferreira (87.1%)
-- Susan Stevenson (88.3%)
+- Susan Stevenson (88.4%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -103,7 +103,7 @@ prefillQuestions:
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
 | Council | 4,044 | 3,748 | 241 | 98.6% |
-| Strategic Priorities and Policy Committee | 2,059 | 1,500 | 135 | 79.4% |
+| Strategic Priorities and Policy Committee | 2,070 | 1,510 | 136 | 79.5% |
 | Planning and Environment Committee | 1,974 | 1,891 | 36 | 97.6% |
 | Community and Protective Services Committee | 374 | 356 | 11 | 98.1% |
 | Civic Works Committee | 196 | 188 | 3 | 97.4% |
@@ -115,6 +115,14 @@ prefillQuestions:
 ## Notable Dissenting Votes
 
 *Recent split votes where Shawn Lewis voted against the final outcome:*
+
+### 2026-03-24: Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program - Report Back on Program Options
+
+[5th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=5b8ccf34-419e-4480-af6f-4160e9259405&Agenda=PostMinutes&lang=English)
+
+> That the motion BE AMENDED to have the report back to the Strategic Priorities and Policy Committee.
+
+Voted **Nay** - Motion Passed (10 to 4)
 
 ### 2026-03-10: 929 Cheapside Street - Z-26003 
 
@@ -187,14 +195,6 @@ Voted **Yea** - Motion Failed (7 to 8)
 > That part a) of the motion BE AMENDED as follows: i)     the Civic Administration BE DIRECTED to provide a one year contract renewal for the procurement framework  with an option to renew for one year...
 
 Voted **Yea** - Motion Failed (2 to 4)
-
-### 2026-01-26: Good Neighbour Agreements
-
-[2nd Meeting of the Community and Protective Services Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=1e80fd12-e2bc-4cc5-8474-ad872ed16738&Agenda=PostMinutes&lang=English)
-
-> That part a) of the motion BE APPROVED.
-
-Voted **Nay** - Motion Passed (4 to 2)
 
 
 ## Committees Served

@@ -12,8 +12,8 @@ votesAbsent: 252
 attendanceRate: 97.0
 participationRate: 93.1
 yeaRate: 91.0
-contestedDissentRate: 12.6
-contestedVotes: 1440
+contestedDissentRate: 12.5
+contestedVotes: 1444
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -42,8 +42,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,344 |
-| Voted Yea | 1,846 (87.2%) |
+| Substantive Votes | 2,352 |
+| Voted Yea | 1,854 (87.2%) |
 | Voted Nay | 272 (12.8%) |
 
 
@@ -51,8 +51,8 @@ prefillQuestions:
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 12.6%
-- **Contested Votes**: 1,440
+- **Dissent Rate**: 12.5%
+- **Contested Votes**: 1,444
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -63,16 +63,16 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 390 |
-| Voted Yea | 303 (78.7%) |
-| Voted Nay | 82 (21.3%) |
+| Budget Votes | 391 |
+| Voted Yea | 304 (78.8%) |
+| Voted Nay | 82 (21.2%) |
 | Absent | 5 |
 
 
 ## Attendance
 
 - **Attendance Rate**: 97.0%
-- **Meetings Attended**: 227 of 234
+- **Meetings Attended**: 228 of 235
 - **Meetings Missed**: 7
 - **Trend**: Stable -
 
@@ -80,7 +80,7 @@ prefillQuestions:
   - 2023: 100.0% (62/62 meetings)
   - 2024: 98.7% (78/79 meetings)
   - 2025: 92.0% (69/75 meetings)
-  - 2026: 100.0% (10/10 meetings)
+  - 2026: 100.0% (11/11 meetings)
 
 
 ## Voting Alignment
@@ -91,9 +91,9 @@ prefillQuestions:
 - Josh Morgan (94.7%)
 
 **Least aligned with:**
-- Sam Trosow (85.4%)
-- David Ferreira (88.7%)
-- Susan Stevenson (89.1%)
+- Sam Trosow (85.5%)
+- David Ferreira (88.8%)
+- Susan Stevenson (89.0%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -103,7 +103,7 @@ prefillQuestions:
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
 | Council | 1,934 | 1,739 | 157 | 98.0% |
-| Strategic Priorities and Policy Committee | 979 | 722 | 56 | 79.5% |
+| Strategic Priorities and Policy Committee | 990 | 733 | 56 | 79.7% |
 | Community and Protective Services Committee | 420 | 373 | 39 | 98.1% |
 | Budget Committee | 189 | 141 | 48 | 100.0% |
 | Infrastructure and Corporate Services Committee | 83 | 72 | 6 | 94.0% |

@@ -9,8 +9,8 @@ totalVotes: 7549
 votesYea: 6494
 votesNay: 412
 votesAbsent: 643
-attendanceRate: 96.5
-participationRate: 91.6
+attendanceRate: 96.3
+participationRate: 91.5
 yeaRate: 94.0
 contestedDissentRate: 10.1
 contestedVotes: 2170
@@ -42,7 +42,7 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 4,426 |
+| Substantive Votes | 4,434 |
 | Voted Yea | 3,555 (90.4%) |
 | Voted Nay | 379 (9.6%) |
 
@@ -63,24 +63,24 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 717 |
+| Budget Votes | 718 |
 | Voted Yea | 584 (83.9%) |
 | Voted Nay | 112 (16.1%) |
-| Absent | 21 |
+| Absent | 22 |
 
 
 ## Attendance
 
-- **Attendance Rate**: 96.5%
-- **Meetings Attended**: 391 of 405
-- **Meetings Missed**: 14
-- **Trend**: Stable -
+- **Attendance Rate**: 96.3%
+- **Meetings Attended**: 391 of 406
+- **Meetings Missed**: 15
+- **Trend**: Declining v
 
 **Attendance by Year:**
   - 2023: 96.7% (58/60 meetings)
   - 2024: 90.5% (57/63 meetings)
   - 2025: 96.3% (52/54 meetings)
-  - 2026: 100.0% (9/9 meetings)
+  - 2026: 90.0% (9/10 meetings)
 
 
 ## Voting Alignment
@@ -103,7 +103,7 @@ prefillQuestions:
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
 | Council | 3,882 | 3,572 | 215 | 97.6% |
-| Strategic Priorities and Policy Committee | 1,941 | 1,416 | 113 | 78.8% |
+| Strategic Priorities and Policy Committee | 1,952 | 1,416 | 113 | 78.3% |
 | Planning and Environment Committee | 1,415 | 1,268 | 25 | 91.4% |
 | Budget Committee | 189 | 130 | 58 | 99.5% |
 | Civic Works Committee | 111 | 108 | 1 | 98.2% |

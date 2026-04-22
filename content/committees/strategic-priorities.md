@@ -2,7 +2,7 @@
 title: "Strategic Priorities and Policy Committee"
 type: committee
 slug: "strategic-priorities"
-meetingCount: 282
+meetingCount: 283
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -11,6 +11,7 @@ prefillQuestions:
 
 ## Recent Meetings
 
+- [Strategic Priorities and Policy Committee](</months/2026-04/2026-04-21 - Strategic Priorities and Policy Committee>) - Tue Apr 21 2026
 - [2026-03-24 - Strategic Priorities and Policy Committee](</months/2026-03/2026-03-24 - Strategic Priorities and Policy Committee>) - Tue Mar 24 2026
 - [5th Meeting of the Strategic Priorities and Policy Committee](</months/2026-03/2026-03-24 5th Meeting of the Strategic Priorities and Policy Committee>) - Tue Mar 24 2026
 - [Strategic Priorities and Policy Committee Meeting](</months/2026-03/2026-03-24-Strategic Priorities and Policy Committee>) - Tue Mar 24 2026
@@ -20,8 +21,7 @@ prefillQuestions:
 - [Strategic Priorities and Policy Committee Meeting](</months/2026-01/2026-01-13-Strategic Priorities and Policy Committee>) - Tue Jan 13 2026
 - [1st Meeting of the Strategic Priorities and Policy Committee](</months/2025-12/2025-12-09 1st Meeting of the Strategic Priorities and Policy Committee>) - Tue Dec 9 2025
 - [14th Meeting of the Strategic Priorities and Policy Committee](</months/2025-11/2025-11-18 14th Meeting of the Strategic Priorities and Policy Committee>) - Tue Nov 18 2025
-- [13th Meeting of the Strategic Priorities and Policy Committee](</months/2025-10/2025-10-28 13th Meeting of the Strategic Priorities and Policy Committee>) - Tue Oct 28 2025
 
 
-[View all 282 meetings →](#)
+[View all 283 meetings →](#)
 

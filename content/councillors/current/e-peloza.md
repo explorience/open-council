@@ -12,8 +12,8 @@ votesAbsent: 849
 attendanceRate: 98.1
 participationRate: 88.3
 yeaRate: 92.0
-contestedDissentRate: 17.1
-contestedVotes: 2016
+contestedDissentRate: 17.2
+contestedVotes: 2020
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -42,17 +42,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 4,455 |
-| Voted Yea | 3,320 (88.1%) |
-| Voted Nay | 450 (11.9%) |
+| Substantive Votes | 4,463 |
+| Voted Yea | 3,326 (88.0%) |
+| Voted Nay | 452 (12.0%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 17.1%
-- **Contested Votes**: 2,016
+- **Dissent Rate**: 17.2%
+- **Contested Votes**: 2,020
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -63,8 +63,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 715 |
-| Voted Yea | 570 (83.0%) |
+| Budget Votes | 716 |
+| Voted Yea | 571 (83.0%) |
 | Voted Nay | 117 (17.0%) |
 | Absent | 28 |
 
@@ -72,7 +72,7 @@ prefillQuestions:
 ## Attendance
 
 - **Attendance Rate**: 98.1%
-- **Meetings Attended**: 423 of 431
+- **Meetings Attended**: 424 of 432
 - **Meetings Missed**: 8
 - **Trend**: Declining v
 
@@ -80,7 +80,7 @@ prefillQuestions:
   - 2023: 98.3% (57/58 meetings)
   - 2024: 95.3% (61/64 meetings)
   - 2025: 96.6% (56/58 meetings)
-  - 2026: 88.9% (8/9 meetings)
+  - 2026: 90.0% (9/10 meetings)
 
 
 ## Voting Alignment
@@ -93,7 +93,7 @@ prefillQuestions:
 **Least aligned with:**
 - Susan Stevenson (84.9%)
 - Sam Trosow (86.4%)
-- David Ferreira (88.7%)
+- David Ferreira (88.8%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -103,7 +103,7 @@ prefillQuestions:
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
 | Council | 3,945 | 3,426 | 263 | 93.5% |
-| Strategic Priorities and Policy Committee | 2,039 | 1,368 | 130 | 73.5% |
+| Strategic Priorities and Policy Committee | 2,050 | 1,377 | 132 | 73.6% |
 | Planning and Environment Committee | 385 | 364 | 19 | 99.5% |
 | Community and Protective Services Committee | 320 | 270 | 22 | 91.3% |
 | Civic Works Committee | 284 | 274 | 8 | 99.3% |
@@ -114,6 +114,22 @@ prefillQuestions:
 ## Notable Dissenting Votes
 
 *Recent split votes where Elizabeth Peloza voted against the final outcome:*
+
+### 2026-03-24: Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program - Report Back on Program Options
+
+[5th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=5b8ccf34-419e-4480-af6f-4160e9259405&Agenda=PostMinutes&lang=English)
+
+> That part a) ii) BE APPROVED: ii) partial (or full) development charge rebate options for new residential development, including options that could be targeted by unit type and ability to meet HAF tim...
+
+Voted **Nay** - Motion Passed (10 to 4)
+
+### 2026-03-24: Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program - Report Back on Program Options
+
+[5th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=5b8ccf34-419e-4480-af6f-4160e9259405&Agenda=PostMinutes&lang=English)
+
+> That the balance of the motion BE APPROVED: That, the following actions be taken with respect to Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program - Report Back on...
+
+Voted **Nay** - Motion Passed (13 to 1)
 
 ### 2026-02-24: London UNESCO City of Music Action Plan 2021-2025 Update
 
@@ -178,24 +194,6 @@ Voted **Nay** - Motion Passed (10 to 5)
 > vii) the Civic Administration BE DIRECTED to hold a public participation meeting with respect to the site plan process.
 
 Voted **Nay** - Motion Passed (8 to 7)
-
-### 2026-02-10: (3.11) 5150 Wellington Road South - OZ-25135 (Relates to Bill No. 67 and No. 89)
-
-[3rd Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English)
-
-> Notwithstanding the staff recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Roman Catholic Episcopal Corporation of the Dioces...
-
-Voted **Nay** - Motion Passed (11 to 4)
-
-### 2026-02-10: (2.4) Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program
-
-[3rd Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English)
-
-> That the referral, as amended, BE APPROVED. At 8:42 PM, His Worship Mayor J. Morgan, places Deputy Mayor S. Lewis in the Chair. 
-
-At 8:45 PM, His Worship Mayor J. Morgan resumes the Chair.
-
-Voted **Nay** - Motion Passed (12 to 3)
 
 
 ## Committees Served

@@ -12,8 +12,8 @@ votesAbsent: 306
 attendanceRate: 96.4
 participationRate: 92.0
 yeaRate: 90.9
-contestedDissentRate: 23.5
-contestedVotes: 1359
+contestedDissentRate: 23.6
+contestedVotes: 1363
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -42,17 +42,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,231 |
-| Voted Yea | 1,716 (86.4%) |
-| Voted Nay | 270 (13.6%) |
+| Substantive Votes | 2,239 |
+| Voted Yea | 1,723 (86.4%) |
+| Voted Nay | 271 (13.6%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 23.5%
-- **Contested Votes**: 1,359
+- **Dissent Rate**: 23.6%
+- **Contested Votes**: 1,363
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -63,16 +63,16 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 380 |
-| Voted Yea | 294 (80.5%) |
-| Voted Nay | 71 (19.5%) |
+| Budget Votes | 381 |
+| Voted Yea | 295 (80.6%) |
+| Voted Nay | 71 (19.4%) |
 | Absent | 15 |
 
 
 ## Attendance
 
 - **Attendance Rate**: 96.4%
-- **Meetings Attended**: 187 of 194
+- **Meetings Attended**: 188 of 195
 - **Meetings Missed**: 7
 - **Trend**: Stable -
 
@@ -80,7 +80,7 @@ prefillQuestions:
   - 2023: 98.4% (60/61 meetings)
   - 2024: 97.0% (65/67 meetings)
   - 2025: 91.8% (45/49 meetings)
-  - 2026: 100.0% (9/9 meetings)
+  - 2026: 100.0% (10/10 meetings)
 
 
 ## Voting Alignment
@@ -88,11 +88,11 @@ prefillQuestions:
 **Most aligned with:**
 - Hadleigh McAlister (94.8%)
 - Anna Hopkins (94.6%)
-- David Ferreira (92.7%)
+- David Ferreira (92.8%)
 
 **Least aligned with:**
 - Susan Stevenson (81.7%)
-- Paul Van Meerbergen (84.3%)
+- Paul Van Meerbergen (84.4%)
 - Steve Hillier (89.0%)
 
 [View full voting alignment →](/councillors/alignment)
@@ -103,7 +103,7 @@ prefillQuestions:
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
 | Council | 1,933 | 1,682 | 173 | 96.0% |
-| Strategic Priorities and Policy Committee | 889 | 616 | 67 | 76.8% |
+| Strategic Priorities and Policy Committee | 900 | 626 | 68 | 77.1% |
 | Planning and Environment Committee | 632 | 600 | 22 | 98.4% |
 | Budget Committee | 189 | 142 | 47 | 100.0% |
 | Infrastructure and Corporate Services Committee | 121 | 102 | 11 | 93.4% |
@@ -113,6 +113,14 @@ prefillQuestions:
 ## Notable Dissenting Votes
 
 *Recent split votes where Skylar Franke voted against the final outcome:*
+
+### 2026-03-24: Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program - Report Back on Program Options
+
+[5th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=5b8ccf34-419e-4480-af6f-4160e9259405&Agenda=PostMinutes&lang=English)
+
+> That part a) ii) BE APPROVED: ii) partial (or full) development charge rebate options for new residential development, including options that could be targeted by unit type and ability to meet HAF tim...
+
+Voted **Nay** - Motion Passed (10 to 4)
 
 ### 2026-03-03: (3.6) Additional Residential Unit Permissions - Z-25159 (Relates to Bill No. 124)
 
@@ -185,14 +193,6 @@ Voted **Nay** - Motion Passed (10 to 1)
 > That the motion BE AMENDED to include a new part that reads as follows: the Civic Administration BE DIRECTED to prepare two separate policies: one governing Travel and Business Expenses for Civic Admi...
 
 Voted **Nay** - Motion Passed (3 to 2)
-
-### 2026-02-10: (2.3) Sunningdale Road West Improvements – Pipeline Decommissioning and New Pipeline Agreement (Relates to Bill No. 63)
-
-[3rd Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English)
-
-> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to an oil pipeline relocation agreement with Imperial Oil for the Su...
-
-Voted **Nay** - Motion Passed (10 to 5)
 
 
 ## Committees Served

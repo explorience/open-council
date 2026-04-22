@@ -13,7 +13,7 @@ attendanceRate: 97.3
 participationRate: 90.6
 yeaRate: 86.9
 contestedDissentRate: 28.4
-contestedVotes: 1295
+contestedVotes: 1299
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -42,9 +42,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,036 |
-| Voted Yea | 1,498 (83.4%) |
-| Voted Nay | 299 (16.6%) |
+| Substantive Votes | 2,044 |
+| Voted Yea | 1,505 (83.4%) |
+| Voted Nay | 300 (16.6%) |
 
 
 ### Dissent on Contested Votes
@@ -52,7 +52,7 @@ prefillQuestions:
 *Only counts non-unanimous votes where the councillor participated*
 
 - **Dissent Rate**: 28.4%
-- **Contested Votes**: 1,295
+- **Contested Votes**: 1,299
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -63,16 +63,16 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 329 |
-| Voted Yea | 241 (75.1%) |
-| Voted Nay | 80 (24.9%) |
+| Budget Votes | 330 |
+| Voted Yea | 242 (75.2%) |
+| Voted Nay | 80 (24.8%) |
 | Absent | 8 |
 
 
 ## Attendance
 
 - **Attendance Rate**: 97.3%
-- **Meetings Attended**: 218 of 224
+- **Meetings Attended**: 219 of 225
 - **Meetings Missed**: 6
 - **Trend**: Stable -
 
@@ -80,20 +80,20 @@ prefillQuestions:
   - 2023: 98.7% (76/77 meetings)
   - 2024: 98.6% (73/74 meetings)
   - 2025: 92.7% (51/55 meetings)
-  - 2026: 100.0% (9/9 meetings)
+  - 2026: 100.0% (10/10 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
 - Anna Hopkins (93.3%)
-- Skylar Franke (92.7%)
+- Skylar Franke (92.8%)
 - Hadleigh McAlister (91.9%)
 
 **Least aligned with:**
-- Susan Stevenson (78.4%)
-- Paul Van Meerbergen (81.0%)
-- Steve Hillier (85.0%)
+- Susan Stevenson (78.5%)
+- Paul Van Meerbergen (81.1%)
+- Steve Hillier (85.1%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -103,7 +103,7 @@ prefillQuestions:
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
 | Council | 1,733 | 1,450 | 223 | 96.5% |
-| Strategic Priorities and Policy Committee | 740 | 475 | 73 | 74.1% |
+| Strategic Priorities and Policy Committee | 751 | 485 | 74 | 74.4% |
 | Community and Protective Services Committee | 389 | 342 | 31 | 95.9% |
 | Budget Committee | 189 | 139 | 50 | 100.0% |
 | Corporate Services Committee | 75 | 46 | 0 | 61.3% |
@@ -113,6 +113,14 @@ prefillQuestions:
 ## Notable Dissenting Votes
 
 *Recent split votes where David Ferreira voted against the final outcome:*
+
+### 2026-03-24: Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program - Report Back on Program Options
+
+[5th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=5b8ccf34-419e-4480-af6f-4160e9259405&Agenda=PostMinutes&lang=English)
+
+> That part a) ii) BE APPROVED: ii) partial (or full) development charge rebate options for new residential development, including options that could be targeted by unit type and ability to meet HAF tim...
+
+Voted **Nay** - Motion Passed (10 to 4)
 
 ### 2026-03-03: (3.5) 550 Ridout Street North & 82-90 Kent Street - OZ-25152 (Relates to Bill No. 105 and 123)
 
@@ -183,14 +191,6 @@ Voted **Nay** - Motion Passed (10 to 1)
 [4th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
 
 > That Introduction and First Reading of Bill No.’s 105 and 123, BE APPROVED.
-
-Voted **Nay** - Motion Passed (8 to 3)
-
-### 2026-03-03: By-laws
-
-[4th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
-
-> That Second Reading of Bill No.’s 105 and 123, BE APPROVED.
 
 Voted **Nay** - Motion Passed (8 to 3)
 

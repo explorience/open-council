@@ -12,8 +12,8 @@ votesAbsent: 871
 attendanceRate: 95.4
 participationRate: 89.9
 yeaRate: 87.0
-contestedDissentRate: 22.7
-contestedVotes: 3971
+contestedDissentRate: 22.6
+contestedVotes: 3975
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -43,8 +43,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 6,066 |
-| Voted Yea | 4,646 (85.1%) |
+| Substantive Votes | 6,074 |
+| Voted Yea | 4,654 (85.1%) |
 | Voted Nay | 815 (14.9%) |
 
 
@@ -52,8 +52,8 @@ prefillQuestions:
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 22.7%
-- **Contested Votes**: 3,971
+- **Dissent Rate**: 22.6%
+- **Contested Votes**: 3,975
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -64,8 +64,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 1,356 |
-| Voted Yea | 968 (73.6%) |
+| Budget Votes | 1,357 |
+| Voted Yea | 969 (73.6%) |
 | Voted Nay | 348 (26.4%) |
 | Absent | 40 |
 
@@ -73,7 +73,7 @@ prefillQuestions:
 ## Attendance
 
 - **Attendance Rate**: 95.4%
-- **Meetings Attended**: 554 of 581
+- **Meetings Attended**: 555 of 582
 - **Meetings Missed**: 27
 - **Trend**: Stable -
 
@@ -81,20 +81,20 @@ prefillQuestions:
   - 2023: 98.3% (57/58 meetings)
   - 2024: 98.4% (62/63 meetings)
   - 2025: 96.4% (53/55 meetings)
-  - 2026: 100.0% (9/9 meetings)
+  - 2026: 100.0% (10/10 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
 - Steve Lehman (93.6%)
-- Shawn Lewis (92.8%)
+- Shawn Lewis (92.7%)
 - Steve Hillier (92.7%)
 
 **Least aligned with:**
-- Sam Trosow (77.9%)
-- David Ferreira (81.0%)
-- Skylar Franke (84.3%)
+- Sam Trosow (78.1%)
+- David Ferreira (81.1%)
+- Skylar Franke (84.4%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -104,7 +104,7 @@ prefillQuestions:
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
 | Council | 5,035 | 4,141 | 541 | 93.0% |
-| Strategic Priorities and Policy Committee | 2,650 | 1,806 | 347 | 81.2% |
+| Strategic Priorities and Policy Committee | 2,661 | 1,817 | 347 | 81.3% |
 | Civic Works Committee | 451 | 409 | 31 | 97.6% |
 | Budget Committee | 189 | 118 | 68 | 98.4% |
 | Corporate Services Committee | 154 | 144 | 6 | 97.4% |
