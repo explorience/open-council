@@ -2,11 +2,11 @@
   "councillor": "Hadleigh McAlister",
   "slug": "h-mcalister",
   "attendance": {
-    "totalMeetings": 227,
-    "present": 214,
+    "totalMeetings": 228,
+    "present": 215,
     "absent": 13,
     "remote": 0,
-    "attendanceRate": 94.27312775330397,
+    "attendanceRate": 94.2982456140351,
     "trend": [
       {
         "period": "2022",
@@ -35,26 +35,26 @@
       {
         "period": "2026",
         "attendanceRate": 100,
-        "meetingsAttended": 10,
-        "meetingsTotal": 10
+        "meetingsAttended": 11,
+        "meetingsTotal": 11
       }
     ],
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 3719,
-    "yeas": 2982,
-    "nays": 271,
+    "totalVotes": 3735,
+    "yeas": 2997,
+    "nays": 272,
     "absent": 466,
-    "participationRate": 87.46974993277763,
-    "yeaRate": 91.66922840454966,
-    "contestedDissentRate": 14.628820960698691,
-    "contestedVotes": 1374,
-    "substantiveVotes": 2372,
-    "substantiveYeas": 1760,
-    "substantiveNays": 242,
-    "substantiveParticipationRate": 84.40134907251264,
-    "substantiveYeaRate": 87.91208791208791
+    "participationRate": 87.52342704149933,
+    "yeaRate": 91.67941266442338,
+    "contestedDissentRate": 14.605929139551698,
+    "contestedVotes": 1383,
+    "substantiveVotes": 2380,
+    "substantiveYeas": 1767,
+    "substantiveNays": 243,
+    "substantiveParticipationRate": 84.45378151260505,
+    "substantiveYeaRate": 87.91044776119404
   },
   "budgetVoting": {
     "totalBudgetVotes": 386,
@@ -65,15 +65,15 @@
   "topAlignments": [
     {
       "councillor": "Skylar Franke",
-      "sharedVotes": 1344,
-      "agreedVotes": 1274,
-      "alignmentRate": 94.79166666666666
+      "sharedVotes": 1356,
+      "agreedVotes": 1285,
+      "alignmentRate": 94.76401179941003
     },
     {
       "councillor": "Josh Morgan",
-      "sharedVotes": 1451,
-      "agreedVotes": 1368,
-      "alignmentRate": 94.27980702963474
+      "sharedVotes": 1460,
+      "agreedVotes": 1377,
+      "alignmentRate": 94.31506849315069
     },
     {
       "councillor": "Anna Hopkins",
@@ -97,15 +97,15 @@
   "bottomAlignments": [
     {
       "councillor": "Susan Stevenson",
-      "sharedVotes": 1454,
-      "agreedVotes": 1237,
-      "alignmentRate": 85.07565337001375
+      "sharedVotes": 1466,
+      "agreedVotes": 1245,
+      "alignmentRate": 84.924965893588
     },
     {
       "councillor": "Paul Van Meerbergen",
-      "sharedVotes": 1421,
-      "agreedVotes": 1249,
-      "alignmentRate": 87.89584799437016
+      "sharedVotes": 1433,
+      "agreedVotes": 1261,
+      "alignmentRate": 87.99720865317515
     },
     {
       "councillor": "Sam Trosow",
@@ -127,6 +127,15 @@
     }
   ],
   "notableDissents": [
+    {
+      "date": "2026-03-23",
+      "meetingTitle": "6th Meeting of the Infrastructure and Corporate Services Committee",
+      "itemTitle": "Pollution Prevention and Control Plan Update Study - Notice of Completion",
+      "motionText": "That the following part BE APPROVED: d)    the Civic Administration BE DIRECTED to report back to a future meeting of the Infrastructure and Corporate Services Committee with a proposed implementation...",
+      "vote": "yea",
+      "result": "Motion Failed (2 to 4)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=e9890bd1-3ebf-47fa-8198-25a144b6365d&Agenda=PostMinutes&lang=English"
+    },
     {
       "date": "2026-03-03",
       "meetingTitle": "4th Council Meeting",
@@ -207,15 +216,6 @@
       "vote": "nay",
       "result": "Motion Passed (10 to 5)",
       "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-02-03",
-      "meetingTitle": "3rd Meeting of the Strategic Priorities and Policy Committee",
-      "itemTitle": "Diversity, Inclusion and Anti-Oppression Community Advisory Committee (DIACAC) - Request for Direction",
-      "motionText": "That the report dated February 3, 2026, titled “Diversity, Inclusion and Anti-Oppression Community Advisory Committee (DIACAC) – Request for Direction” BE REFERRED to Civic Administration to consult f...",
-      "vote": "yea",
-      "result": "Motion Failed (4 to 10)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=48f12c8d-c951-44dc-905b-05acf0df5b10&Agenda=PostMinutes&lang=English"
     }
   ],
   "committeeActivity": [
@@ -263,9 +263,9 @@
     },
     {
       "committee": "Infrastructure and Corporate Services Committee",
-      "totalVotes": 38,
-      "yeas": 32,
-      "nays": 6,
+      "totalVotes": 54,
+      "yeas": 47,
+      "nays": 7,
       "participationRate": 100
     }
   ]

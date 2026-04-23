@@ -2,11 +2,11 @@
   "councillor": "Elizabeth Peloza",
   "slug": "e-peloza",
   "attendance": {
-    "totalMeetings": 432,
-    "present": 424,
+    "totalMeetings": 433,
+    "present": 425,
     "absent": 8,
     "remote": 1,
-    "attendanceRate": 98.14814814814815,
+    "attendanceRate": 98.15242494226328,
     "trend": [
       {
         "period": "2018",
@@ -58,27 +58,27 @@
       },
       {
         "period": "2026",
-        "attendanceRate": 90,
-        "meetingsAttended": 9,
-        "meetingsTotal": 10
+        "attendanceRate": 90.9090909090909,
+        "meetingsAttended": 10,
+        "meetingsTotal": 11
       }
     ],
     "trendDirection": "declining"
   },
   "voting": {
-    "totalVotes": 7247,
-    "yeas": 5886,
-    "nays": 512,
+    "totalVotes": 7263,
+    "yeas": 5899,
+    "nays": 515,
     "absent": 849,
-    "participationRate": 88.28480750655444,
-    "yeaRate": 91.99749921850578,
-    "contestedDissentRate": 17.17821782178218,
-    "contestedVotes": 2020,
-    "substantiveVotes": 4463,
-    "substantiveYeas": 3326,
-    "substantiveNays": 452,
-    "substantiveParticipationRate": 84.65157965494062,
-    "substantiveYeaRate": 88.0359978824775
+    "participationRate": 88.31061544816193,
+    "yeaRate": 91.97068911755535,
+    "contestedDissentRate": 17.24987678659438,
+    "contestedVotes": 2029,
+    "substantiveVotes": 4471,
+    "substantiveYeas": 3332,
+    "substantiveNays": 454,
+    "substantiveParticipationRate": 84.6790427197495,
+    "substantiveYeaRate": 88.00845219228738
   },
   "budgetVoting": {
     "totalBudgetVotes": 716,
@@ -89,9 +89,9 @@
   "topAlignments": [
     {
       "councillor": "Josh Morgan",
-      "sharedVotes": 2795,
-      "agreedVotes": 2660,
-      "alignmentRate": 95.16994633273703
+      "sharedVotes": 2804,
+      "agreedVotes": 2668,
+      "alignmentRate": 95.14978601997147
     },
     {
       "councillor": "Shawn Lewis",
@@ -113,17 +113,17 @@
     },
     {
       "councillor": "Hadleigh McAlister",
-      "sharedVotes": 1333,
-      "agreedVotes": 1239,
-      "alignmentRate": 92.94823705926481
+      "sharedVotes": 1345,
+      "agreedVotes": 1249,
+      "alignmentRate": 92.8624535315985
     }
   ],
   "bottomAlignments": [
     {
       "councillor": "Susan Stevenson",
-      "sharedVotes": 1324,
-      "agreedVotes": 1124,
-      "alignmentRate": 84.89425981873111
+      "sharedVotes": 1336,
+      "agreedVotes": 1132,
+      "alignmentRate": 84.73053892215569
     },
     {
       "councillor": "Sam Trosow",
@@ -145,9 +145,9 @@
     },
     {
       "councillor": "Paul Van Meerbergen",
-      "sharedVotes": 2890,
-      "agreedVotes": 2616,
-      "alignmentRate": 90.51903114186851
+      "sharedVotes": 2902,
+      "agreedVotes": 2626,
+      "alignmentRate": 90.48931771192281
     }
   ],
   "notableDissents": [
@@ -168,6 +168,33 @@
       "vote": "nay",
       "result": "Motion Passed (13 to 1)",
       "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=5b8ccf34-419e-4480-af6f-4160e9259405&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2026-03-23",
+      "meetingTitle": "6th Meeting of the Infrastructure and Corporate Services Committee",
+      "itemTitle": "Smart Commute London: Additional Details and Memorandum of Understanding (MOU) Extension",
+      "motionText": "That part b) BE AMENDED to read as follows: b)    the Deputy City Manager of Environment and Infrastructure BE AUTHORIZED to approve and execute the upcoming Smart Commute Memorandum of Understanding ...",
+      "vote": "yea",
+      "result": "Motion Failed (3 to 3)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=e9890bd1-3ebf-47fa-8198-25a144b6365d&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2026-03-23",
+      "meetingTitle": "6th Meeting of the Infrastructure and Corporate Services Committee",
+      "itemTitle": "Local and Regional Food Producers and Processors in City Managed Facilities - Councillors S. Franke and H. McAlister",
+      "motionText": "That the Civic Administration BE DIRECTED to report back to a future meeting of the Infrastructure and Corporate Services Committee on policy compliant actions that could be taken to support increased...",
+      "vote": "nay",
+      "result": "Motion Passed (4 to 2)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=e9890bd1-3ebf-47fa-8198-25a144b6365d&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2026-03-23",
+      "meetingTitle": "6th Meeting of the Infrastructure and Corporate Services Committee",
+      "itemTitle": "Request for Update on Potential Funding Gaps - Councillor S. Stevenson",
+      "motionText": "That the communication dated March 16, 2026 from Councillor S. Stevenson with respect to a Request for an Update on Potential Funding Gaps, BE RECEIVED.",
+      "vote": "nay",
+      "result": "Motion Passed (4 to 1)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=e9890bd1-3ebf-47fa-8198-25a144b6365d&Agenda=PostMinutes&lang=English"
     },
     {
       "date": "2026-02-24",
@@ -212,33 +239,6 @@
       "motionText": "That item 7, clause 3.3, as amended, BE APPROVED.",
       "vote": "nay",
       "result": "Motion Passed (13 to 2)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-02-10",
-      "meetingTitle": "3rd Council Meeting",
-      "itemTitle": "(3.4) 767 Fanshawe Park Road East and 679 Dunboyne Crescent - Z-25151 (Relates to Bill No. 82)",
-      "motionText": "vi. Rooftop amenity shall be prohibited; and",
-      "vote": "nay",
-      "result": "Motion Passed (11 to 4)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-02-10",
-      "meetingTitle": "3rd Council Meeting",
-      "itemTitle": "(3.4) 767 Fanshawe Park Road East and 679 Dunboyne Crescent - Z-25151 (Relates to Bill No. 82)",
-      "motionText": "vi) the sidewalk and/or access on/through 679 Dunboyne Crescent from the apartment complex development at 767 Fanshawe Park Road East to Dunboyne Crescent shall be prohibited.",
-      "vote": "nay",
-      "result": "Motion Passed (10 to 5)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-02-10",
-      "meetingTitle": "3rd Council Meeting",
-      "itemTitle": "(3.4) 767 Fanshawe Park Road East and 679 Dunboyne Crescent - Z-25151 (Relates to Bill No. 82)",
-      "motionText": "vii) the Civic Administration BE DIRECTED to hold a public participation meeting with respect to the site plan process.",
-      "vote": "nay",
-      "result": "Motion Passed (8 to 7)",
       "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English"
     }
   ],
@@ -291,6 +291,13 @@
       "yeas": 53,
       "nays": 1,
       "participationRate": 72.97297297297297
+    },
+    {
+      "committee": "Infrastructure and Corporate Services Committee",
+      "totalVotes": 16,
+      "yeas": 13,
+      "nays": 3,
+      "participationRate": 100
     }
   ]
 }

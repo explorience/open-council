@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-04-22T08:15:11.105Z",
+  "generatedAt": "2026-04-23T08:19:22.606Z",
   "councillorStats": {
     "j-morgan": {
       "councillor": "Josh Morgan",
       "slug": "j-morgan",
       "attendance": {
-        "totalMeetings": 780,
-        "present": 719,
+        "totalMeetings": 781,
+        "present": 720,
         "absent": 61,
         "remote": 1,
-        "attendanceRate": 92.17948717948717,
+        "attendanceRate": 92.18950064020487,
         "trend": [
           {
             "period": "2014",
@@ -86,26 +86,26 @@
           {
             "period": "2026",
             "attendanceRate": 100,
-            "meetingsAttended": 9,
-            "meetingsTotal": 9
+            "meetingsAttended": 10,
+            "meetingsTotal": 10
           }
         ],
         "trendDirection": "improving"
       },
       "voting": {
-        "totalVotes": 10852,
-        "yeas": 8970,
-        "nays": 565,
-        "absent": 1317,
-        "participationRate": 87.86398820493918,
-        "yeaRate": 94.0744625065548,
-        "contestedDissentRate": 5.364127398025703,
-        "contestedVotes": 5369,
-        "substantiveVotes": 7906,
-        "substantiveYeas": 6482,
-        "substantiveNays": 531,
-        "substantiveParticipationRate": 88.7047811788515,
-        "substantiveYeaRate": 92.4283473549123
+        "totalVotes": 10868,
+        "yeas": 8981,
+        "nays": 567,
+        "absent": 1320,
+        "participationRate": 87.85425101214574,
+        "yeaRate": 94.06158357771261,
+        "contestedDissentRate": 5.357142857142857,
+        "contestedVotes": 5376,
+        "substantiveVotes": 7914,
+        "substantiveYeas": 6487,
+        "substantiveNays": 533,
+        "substantiveParticipationRate": 88.70356330553449,
+        "substantiveYeaRate": 92.4074074074074
       },
       "budgetVoting": {
         "totalBudgetVotes": 1410,
@@ -134,9 +134,9 @@
         },
         {
           "councillor": "Elizabeth Peloza",
-          "sharedVotes": 2795,
-          "agreedVotes": 2660,
-          "alignmentRate": 95.16994633273703
+          "sharedVotes": 2804,
+          "agreedVotes": 2668,
+          "alignmentRate": 95.14978601997147
         },
         {
           "councillor": "Jerry Pribil",
@@ -154,9 +154,9 @@
         },
         {
           "councillor": "Susan Stevenson",
-          "sharedVotes": 1416,
-          "agreedVotes": 1229,
-          "alignmentRate": 86.79378531073446
+          "sharedVotes": 1425,
+          "agreedVotes": 1234,
+          "alignmentRate": 86.59649122807018
         },
         {
           "councillor": "David Ferreira",
@@ -166,15 +166,15 @@
         },
         {
           "councillor": "Paul Van Meerbergen",
-          "sharedVotes": 2764,
-          "agreedVotes": 2542,
-          "alignmentRate": 91.96816208393632
+          "sharedVotes": 2773,
+          "agreedVotes": 2551,
+          "alignmentRate": 91.99423007573026
         },
         {
           "councillor": "Skylar Franke",
-          "sharedVotes": 1404,
-          "agreedVotes": 1295,
-          "alignmentRate": 92.23646723646723
+          "sharedVotes": 1413,
+          "agreedVotes": 1304,
+          "alignmentRate": 92.28591648973816
         }
       ],
       "notableDissents": [
@@ -321,10 +321,10 @@
         },
         {
           "committee": "Infrastructure and Corporate Services Committee",
-          "totalVotes": 36,
-          "yeas": 29,
-          "nays": 2,
-          "participationRate": 86.11111111111111
+          "totalVotes": 52,
+          "yeas": 40,
+          "nays": 4,
+          "participationRate": 84.61538461538461
         }
       ]
     },
@@ -332,11 +332,11 @@
       "councillor": "Hadleigh McAlister",
       "slug": "h-mcalister",
       "attendance": {
-        "totalMeetings": 227,
-        "present": 214,
+        "totalMeetings": 228,
+        "present": 215,
         "absent": 13,
         "remote": 0,
-        "attendanceRate": 94.27312775330397,
+        "attendanceRate": 94.2982456140351,
         "trend": [
           {
             "period": "2022",
@@ -365,26 +365,26 @@
           {
             "period": "2026",
             "attendanceRate": 100,
-            "meetingsAttended": 10,
-            "meetingsTotal": 10
+            "meetingsAttended": 11,
+            "meetingsTotal": 11
           }
         ],
         "trendDirection": "stable"
       },
       "voting": {
-        "totalVotes": 3719,
-        "yeas": 2982,
-        "nays": 271,
+        "totalVotes": 3735,
+        "yeas": 2997,
+        "nays": 272,
         "absent": 466,
-        "participationRate": 87.46974993277763,
-        "yeaRate": 91.66922840454966,
-        "contestedDissentRate": 14.628820960698691,
-        "contestedVotes": 1374,
-        "substantiveVotes": 2372,
-        "substantiveYeas": 1760,
-        "substantiveNays": 242,
-        "substantiveParticipationRate": 84.40134907251264,
-        "substantiveYeaRate": 87.91208791208791
+        "participationRate": 87.52342704149933,
+        "yeaRate": 91.67941266442338,
+        "contestedDissentRate": 14.605929139551698,
+        "contestedVotes": 1383,
+        "substantiveVotes": 2380,
+        "substantiveYeas": 1767,
+        "substantiveNays": 243,
+        "substantiveParticipationRate": 84.45378151260505,
+        "substantiveYeaRate": 87.91044776119404
       },
       "budgetVoting": {
         "totalBudgetVotes": 386,
@@ -395,15 +395,15 @@
       "topAlignments": [
         {
           "councillor": "Skylar Franke",
-          "sharedVotes": 1344,
-          "agreedVotes": 1274,
-          "alignmentRate": 94.79166666666666
+          "sharedVotes": 1356,
+          "agreedVotes": 1285,
+          "alignmentRate": 94.76401179941003
         },
         {
           "councillor": "Josh Morgan",
-          "sharedVotes": 1451,
-          "agreedVotes": 1368,
-          "alignmentRate": 94.27980702963474
+          "sharedVotes": 1460,
+          "agreedVotes": 1377,
+          "alignmentRate": 94.31506849315069
         },
         {
           "councillor": "Anna Hopkins",
@@ -427,15 +427,15 @@
       "bottomAlignments": [
         {
           "councillor": "Susan Stevenson",
-          "sharedVotes": 1454,
-          "agreedVotes": 1237,
-          "alignmentRate": 85.07565337001375
+          "sharedVotes": 1466,
+          "agreedVotes": 1245,
+          "alignmentRate": 84.924965893588
         },
         {
           "councillor": "Paul Van Meerbergen",
-          "sharedVotes": 1421,
-          "agreedVotes": 1249,
-          "alignmentRate": 87.89584799437016
+          "sharedVotes": 1433,
+          "agreedVotes": 1261,
+          "alignmentRate": 87.99720865317515
         },
         {
           "councillor": "Sam Trosow",
@@ -457,6 +457,15 @@
         }
       ],
       "notableDissents": [
+        {
+          "date": "2026-03-23",
+          "meetingTitle": "6th Meeting of the Infrastructure and Corporate Services Committee",
+          "itemTitle": "Pollution Prevention and Control Plan Update Study - Notice of Completion",
+          "motionText": "That the following part BE APPROVED: d)    the Civic Administration BE DIRECTED to report back to a future meeting of the Infrastructure and Corporate Services Committee with a proposed implementation...",
+          "vote": "yea",
+          "result": "Motion Failed (2 to 4)",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=e9890bd1-3ebf-47fa-8198-25a144b6365d&Agenda=PostMinutes&lang=English"
+        },
         {
           "date": "2026-03-03",
           "meetingTitle": "4th Council Meeting",
@@ -537,15 +546,6 @@
           "vote": "nay",
           "result": "Motion Passed (10 to 5)",
           "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English"
-        },
-        {
-          "date": "2026-02-03",
-          "meetingTitle": "3rd Meeting of the Strategic Priorities and Policy Committee",
-          "itemTitle": "Diversity, Inclusion and Anti-Oppression Community Advisory Committee (DIACAC) - Request for Direction",
-          "motionText": "That the report dated February 3, 2026, titled “Diversity, Inclusion and Anti-Oppression Community Advisory Committee (DIACAC) – Request for Direction” BE REFERRED to Civic Administration to consult f...",
-          "vote": "yea",
-          "result": "Motion Failed (4 to 10)",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=48f12c8d-c951-44dc-905b-05acf0df5b10&Agenda=PostMinutes&lang=English"
         }
       ],
       "committeeActivity": [
@@ -593,9 +593,9 @@
         },
         {
           "committee": "Infrastructure and Corporate Services Committee",
-          "totalVotes": 38,
-          "yeas": 32,
-          "nays": 6,
+          "totalVotes": 54,
+          "yeas": 47,
+          "nays": 7,
           "participationRate": 100
         }
       ]
@@ -1179,11 +1179,11 @@
       "councillor": "Susan Stevenson",
       "slug": "s-stevenson",
       "attendance": {
-        "totalMeetings": 213,
-        "present": 189,
+        "totalMeetings": 214,
+        "present": 190,
         "absent": 24,
         "remote": 1,
-        "attendanceRate": 88.73239436619718,
+        "attendanceRate": 88.78504672897196,
         "trend": [
           {
             "period": "2022",
@@ -1211,27 +1211,27 @@
           },
           {
             "period": "2026",
-            "attendanceRate": 86.66666666666667,
-            "meetingsAttended": 13,
-            "meetingsTotal": 15
+            "attendanceRate": 87.5,
+            "meetingsAttended": 14,
+            "meetingsTotal": 16
           }
         ],
         "trendDirection": "stable"
       },
       "voting": {
-        "totalVotes": 3582,
-        "yeas": 2564,
-        "nays": 539,
+        "totalVotes": 3598,
+        "yeas": 2574,
+        "nays": 545,
         "absent": 479,
-        "participationRate": 86.62758235622557,
-        "yeaRate": 82.62971318079279,
-        "contestedDissentRate": 35.27630582891749,
-        "contestedVotes": 1321,
-        "substantiveVotes": 2209,
-        "substantiveYeas": 1518,
-        "substantiveNays": 342,
-        "substantiveParticipationRate": 84.20099592575826,
-        "substantiveYeaRate": 81.61290322580645
+        "participationRate": 86.68704836020011,
+        "yeaRate": 82.52645078550817,
+        "contestedDissentRate": 35.48872180451128,
+        "contestedVotes": 1330,
+        "substantiveVotes": 2217,
+        "substantiveYeas": 1520,
+        "substantiveNays": 348,
+        "substantiveParticipationRate": 84.25800631483988,
+        "substantiveYeaRate": 81.37044967880087
       },
       "budgetVoting": {
         "totalBudgetVotes": 379,
@@ -1242,9 +1242,9 @@
       "topAlignments": [
         {
           "councillor": "Paul Van Meerbergen",
-          "sharedVotes": 1339,
-          "agreedVotes": 1202,
-          "alignmentRate": 89.76848394324122
+          "sharedVotes": 1351,
+          "agreedVotes": 1210,
+          "alignmentRate": 89.56328645447816
         },
         {
           "councillor": "Peter Cuddy",
@@ -1292,9 +1292,9 @@
         },
         {
           "councillor": "Skylar Franke",
-          "sharedVotes": 1333,
-          "agreedVotes": 1089,
-          "alignmentRate": 81.695423855964
+          "sharedVotes": 1345,
+          "agreedVotes": 1096,
+          "alignmentRate": 81.48698884758365
         },
         {
           "councillor": "Corrine Rahman",
@@ -1323,6 +1323,60 @@
           "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=5b8ccf34-419e-4480-af6f-4160e9259405&Agenda=PostMinutes&lang=English"
         },
         {
+          "date": "2026-03-23",
+          "meetingTitle": "6th Meeting of the Infrastructure and Corporate Services Committee",
+          "itemTitle": "Revised Respectful Workplace Policy (Anti-Harassment/Anti-Discrimination) ",
+          "motionText": "That, on the recommendation of the Deputy City Manager, Enterprise Supports, and with the concurrence of the City Manager, the following actions be taken with respect to the Respectful Workplace Polic...",
+          "vote": "nay",
+          "result": "Motion Passed (5 to 1)",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=e9890bd1-3ebf-47fa-8198-25a144b6365d&Agenda=PostMinutes&lang=English"
+        },
+        {
+          "date": "2026-03-23",
+          "meetingTitle": "6th Meeting of the Infrastructure and Corporate Services Committee",
+          "itemTitle": "Final Program Design for BetterHomes London ",
+          "motionText": "That on the recommendation of the Deputy City Manager, Environment & Infrastructure, the following actions be taken; a)    the proposed by-law, as appended to the staff report dated March 23, 2026 as ...",
+          "vote": "nay",
+          "result": "Motion Passed (5 to 1)",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=e9890bd1-3ebf-47fa-8198-25a144b6365d&Agenda=PostMinutes&lang=English"
+        },
+        {
+          "date": "2026-03-23",
+          "meetingTitle": "6th Meeting of the Infrastructure and Corporate Services Committee",
+          "itemTitle": "Meadowlily Environmental Assessment – Notice of Completion",
+          "motionText": "That the delegation request from J. Ross, Director, Project Manager, Development Engineering (London) Limited BE APPROVED to be heard at this time.",
+          "vote": "nay",
+          "result": "Motion Passed (5 to 1)",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=e9890bd1-3ebf-47fa-8198-25a144b6365d&Agenda=PostMinutes&lang=English"
+        },
+        {
+          "date": "2026-03-23",
+          "meetingTitle": "6th Meeting of the Infrastructure and Corporate Services Committee",
+          "itemTitle": "Smart Commute London: Additional Details and Memorandum of Understanding (MOU) Extension",
+          "motionText": "That part b) BE AMENDED to read as follows: b)    the Deputy City Manager of Environment and Infrastructure BE AUTHORIZED to approve and execute the upcoming Smart Commute Memorandum of Understanding ...",
+          "vote": "yea",
+          "result": "Motion Failed (3 to 3)",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=e9890bd1-3ebf-47fa-8198-25a144b6365d&Agenda=PostMinutes&lang=English"
+        },
+        {
+          "date": "2026-03-23",
+          "meetingTitle": "6th Meeting of the Infrastructure and Corporate Services Committee",
+          "itemTitle": "Smart Commute London: Additional Details and Memorandum of Understanding (MOU) Extension",
+          "motionText": "That the following part BE APPROVED b)    the Deputy City Manager of Environment and Infrastructure BE AUTHORIZED to approve and execute the upcoming Smart Commute Memorandum of Understanding (MOU) Am...",
+          "vote": "nay",
+          "result": "Motion Passed (5 to 1)",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=e9890bd1-3ebf-47fa-8198-25a144b6365d&Agenda=PostMinutes&lang=English"
+        },
+        {
+          "date": "2026-03-23",
+          "meetingTitle": "6th Meeting of the Infrastructure and Corporate Services Committee",
+          "itemTitle": "Local and Regional Food Producers and Processors in City Managed Facilities - Councillors S. Franke and H. McAlister",
+          "motionText": "That the Civic Administration BE DIRECTED to report back to a future meeting of the Infrastructure and Corporate Services Committee on policy compliant actions that could be taken to support increased...",
+          "vote": "nay",
+          "result": "Motion Passed (4 to 2)",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=e9890bd1-3ebf-47fa-8198-25a144b6365d&Agenda=PostMinutes&lang=English"
+        },
+        {
           "date": "2026-03-03",
           "meetingTitle": "4th Council Meeting",
           "itemTitle": "(4.1) Deputy Mayor S. Lewis, Councillors P. Cuddy and C. Rahman - Zoning By-law Amendment - Parking Changes",
@@ -1338,60 +1392,6 @@
           "motionText": "That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the staff report, dated February 17, 2026, updating Municipal Council on affordable and community housing within t...",
           "vote": "nay",
           "result": "Motion Passed (11 to 1)",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English"
-        },
-        {
-          "date": "2026-03-03",
-          "meetingTitle": "4th Council Meeting",
-          "itemTitle": "(2.6) 2025 Ontario Works Participant and Service Delivery Profile",
-          "motionText": "That, on the recommendation of the Deputy City Manager, Social and Health Development, the staff report dated February 17, 2026, with respect to the 2025 Ontario Works Participant and Service Delivery...",
-          "vote": "nay",
-          "result": "Motion Passed (12 to 1)",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English"
-        },
-        {
-          "date": "2026-03-03",
-          "meetingTitle": "4th Council Meeting",
-          "itemTitle": "(2.2) Federation of Canadian Municipalities: Green Municipal Fund Agreement for Accelerating Community Energy Systems (Relates to Bill No. 97)",
-          "motionText": "That on the recommendation of the Deputy City Manager, Environment & Infrastructure, the proposed by-law, as appended to the staff report dated February 23, 2026 as Appendix “A” BE INTRODUCED at the M...",
-          "vote": "nay",
-          "result": "Motion Passed (11 to 1)",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English"
-        },
-        {
-          "date": "2026-03-03",
-          "meetingTitle": "4th Council Meeting",
-          "itemTitle": "(2.3) Federation of Canadian Municipalities: Green Municipal Fund Agreement for Municipal Fleet Decarbonization Feasibility Study (Relates to Bill No. 98)",
-          "motionText": "That on the recommendation of the Deputy City Manager, Environment & Infrastructure, the proposed by-law, as appended to the staff report dated February 23, 2026 as Appendix “A”, BE INTRODUCED at the ...",
-          "vote": "nay",
-          "result": "Motion Passed (11 to 1)",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English"
-        },
-        {
-          "date": "2026-03-03",
-          "meetingTitle": "4th Council Meeting",
-          "itemTitle": "(2.9) Contract Award: Tender No. RFT-2025-223 Wellington Gateway and Municipal Infrastructure Improvements Phase 2A – Wilkins Street to Baseline Road",
-          "motionText": "That on the recommendation of the Deputy City Manager, Environment & Infrastructure, the following actions be taken with respect to the award of contracts for Wellington Gateway and Municipal Infrastr...",
-          "vote": "nay",
-          "result": "Motion Passed (11 to 1)",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English"
-        },
-        {
-          "date": "2026-03-03",
-          "meetingTitle": "4th Council Meeting",
-          "itemTitle": "By-laws",
-          "motionText": "That Introduction and First Reading of Bill No.’s 97 and 98, BE APPROVED.",
-          "vote": "nay",
-          "result": "Motion Passed (10 to 1)",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English"
-        },
-        {
-          "date": "2026-03-03",
-          "meetingTitle": "4th Council Meeting",
-          "itemTitle": "By-laws",
-          "motionText": "That Second Reading of Bill No.’s 97 and 98, BE APPROVED.",
-          "vote": "nay",
-          "result": "Motion Passed (10 to 1)",
           "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English"
         }
       ],
@@ -1440,10 +1440,10 @@
         },
         {
           "committee": "Infrastructure and Corporate Services Committee",
-          "totalVotes": 38,
-          "yeas": 32,
-          "nays": 5,
-          "participationRate": 97.36842105263158
+          "totalVotes": 54,
+          "yeas": 42,
+          "nays": 11,
+          "participationRate": 98.14814814814815
         }
       ]
     },
@@ -2869,11 +2869,11 @@
       "councillor": "Paul Van Meerbergen",
       "slug": "p-van-meerbergen",
       "attendance": {
-        "totalMeetings": 582,
-        "present": 555,
+        "totalMeetings": 583,
+        "present": 556,
         "absent": 27,
         "remote": 6,
-        "attendanceRate": 95.36082474226805,
+        "attendanceRate": 95.36878216123499,
         "trend": [
           {
             "period": "2011",
@@ -2950,26 +2950,26 @@
           {
             "period": "2026",
             "attendanceRate": 100,
-            "meetingsAttended": 10,
-            "meetingsTotal": 10
+            "meetingsAttended": 11,
+            "meetingsTotal": 11
           }
         ],
         "trendDirection": "stable"
       },
       "voting": {
-        "totalVotes": 8611,
-        "yeas": 6732,
-        "nays": 1008,
+        "totalVotes": 8627,
+        "yeas": 6747,
+        "nays": 1009,
         "absent": 871,
-        "participationRate": 89.88503077459063,
-        "yeaRate": 86.9767441860465,
-        "contestedDissentRate": 22.641509433962266,
-        "contestedVotes": 3975,
-        "substantiveVotes": 6074,
-        "substantiveYeas": 4654,
-        "substantiveNays": 815,
-        "substantiveParticipationRate": 90.03951267698386,
-        "substantiveYeaRate": 85.09782409946975
+        "participationRate": 89.9037904254086,
+        "yeaRate": 86.99071686436307,
+        "contestedDissentRate": 22.615461847389557,
+        "contestedVotes": 3984,
+        "substantiveVotes": 6082,
+        "substantiveYeas": 4661,
+        "substantiveNays": 816,
+        "substantiveParticipationRate": 90.05261427162118,
+        "substantiveYeaRate": 85.10133284644878
       },
       "budgetVoting": {
         "totalBudgetVotes": 1357,
@@ -3004,9 +3004,9 @@
         },
         {
           "councillor": "Josh Morgan",
-          "sharedVotes": 2764,
-          "agreedVotes": 2542,
-          "alignmentRate": 91.96816208393632
+          "sharedVotes": 2773,
+          "agreedVotes": 2551,
+          "alignmentRate": 91.99423007573026
         }
       ],
       "bottomAlignments": [
@@ -3024,9 +3024,9 @@
         },
         {
           "councillor": "Skylar Franke",
-          "sharedVotes": 1345,
-          "agreedVotes": 1135,
-          "alignmentRate": 84.38661710037175
+          "sharedVotes": 1357,
+          "agreedVotes": 1146,
+          "alignmentRate": 84.45099484156226
         },
         {
           "councillor": "Anna Hopkins",
@@ -3042,6 +3042,15 @@
         }
       ],
       "notableDissents": [
+        {
+          "date": "2026-03-23",
+          "meetingTitle": "6th Meeting of the Infrastructure and Corporate Services Committee",
+          "itemTitle": "Smart Commute London: Additional Details and Memorandum of Understanding (MOU) Extension",
+          "motionText": "That part b) BE AMENDED to read as follows: b)    the Deputy City Manager of Environment and Infrastructure BE AUTHORIZED to approve and execute the upcoming Smart Commute Memorandum of Understanding ...",
+          "vote": "yea",
+          "result": "Motion Failed (3 to 3)",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=e9890bd1-3ebf-47fa-8198-25a144b6365d&Agenda=PostMinutes&lang=English"
+        },
         {
           "date": "2026-02-23",
           "meetingTitle": "4th Meeting of the Infrastructure and Corporate Services Committee",
@@ -3122,15 +3131,6 @@
           "vote": "nay",
           "result": "Motion Passed (12 to 3)",
           "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English"
-        },
-        {
-          "date": "2026-02-10",
-          "meetingTitle": "3rd Council Meeting",
-          "itemTitle": "By-laws",
-          "motionText": "That Second Reading of Bill No.'s 66 and 83, BE APPROVED.",
-          "vote": "nay",
-          "result": "Motion Passed (12 to 3)",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English"
         }
       ],
       "committeeActivity": [
@@ -3171,10 +3171,10 @@
         },
         {
           "committee": "Infrastructure and Corporate Services Committee",
-          "totalVotes": 121,
-          "yeas": 103,
-          "nays": 15,
-          "participationRate": 97.52066115702479
+          "totalVotes": 137,
+          "yeas": 118,
+          "nays": 16,
+          "participationRate": 97.8102189781022
         }
       ]
     },
@@ -3182,11 +3182,11 @@
       "councillor": "Skylar Franke",
       "slug": "s-franke",
       "attendance": {
-        "totalMeetings": 195,
-        "present": 188,
+        "totalMeetings": 196,
+        "present": 189,
         "absent": 7,
         "remote": 0,
-        "attendanceRate": 96.41025641025641,
+        "attendanceRate": 96.42857142857143,
         "trend": [
           {
             "period": "2022",
@@ -3215,26 +3215,26 @@
           {
             "period": "2026",
             "attendanceRate": 100,
-            "meetingsAttended": 10,
-            "meetingsTotal": 10
+            "meetingsAttended": 11,
+            "meetingsTotal": 11
           }
         ],
         "trendDirection": "stable"
       },
       "voting": {
-        "totalVotes": 3830,
-        "yeas": 3203,
-        "nays": 321,
+        "totalVotes": 3846,
+        "yeas": 3217,
+        "nays": 323,
         "absent": 306,
-        "participationRate": 92.01044386422976,
-        "yeaRate": 90.89103291713961,
-        "contestedDissentRate": 23.5509904622157,
-        "contestedVotes": 1363,
-        "substantiveVotes": 2239,
-        "substantiveYeas": 1723,
-        "substantiveNays": 271,
-        "substantiveParticipationRate": 89.05761500669942,
-        "substantiveYeaRate": 86.40922768304915
+        "participationRate": 92.04368174726989,
+        "yeaRate": 90.87570621468927,
+        "contestedDissentRate": 23.542274052478135,
+        "contestedVotes": 1372,
+        "substantiveVotes": 2247,
+        "substantiveYeas": 1730,
+        "substantiveNays": 272,
+        "substantiveParticipationRate": 89.09657320872275,
+        "substantiveYeaRate": 86.41358641358642
       },
       "budgetVoting": {
         "totalBudgetVotes": 381,
@@ -3245,9 +3245,9 @@
       "topAlignments": [
         {
           "councillor": "Hadleigh McAlister",
-          "sharedVotes": 1344,
-          "agreedVotes": 1274,
-          "alignmentRate": 94.79166666666666
+          "sharedVotes": 1356,
+          "agreedVotes": 1285,
+          "alignmentRate": 94.76401179941003
         },
         {
           "councillor": "Anna Hopkins",
@@ -3263,29 +3263,29 @@
         },
         {
           "councillor": "Josh Morgan",
-          "sharedVotes": 1404,
-          "agreedVotes": 1295,
-          "alignmentRate": 92.23646723646723
+          "sharedVotes": 1413,
+          "agreedVotes": 1304,
+          "alignmentRate": 92.28591648973816
         },
         {
-          "councillor": "Elizabeth Peloza",
-          "sharedVotes": 1259,
-          "agreedVotes": 1160,
-          "alignmentRate": 92.13661636219221
+          "councillor": "Corrine Rahman",
+          "sharedVotes": 1409,
+          "agreedVotes": 1298,
+          "alignmentRate": 92.1220723917672
         }
       ],
       "bottomAlignments": [
         {
           "councillor": "Susan Stevenson",
-          "sharedVotes": 1333,
-          "agreedVotes": 1089,
-          "alignmentRate": 81.695423855964
+          "sharedVotes": 1345,
+          "agreedVotes": 1096,
+          "alignmentRate": 81.48698884758365
         },
         {
           "councillor": "Paul Van Meerbergen",
-          "sharedVotes": 1345,
-          "agreedVotes": 1135,
-          "alignmentRate": 84.38661710037175
+          "sharedVotes": 1357,
+          "agreedVotes": 1146,
+          "alignmentRate": 84.45099484156226
         },
         {
           "councillor": "Steve Hillier",
@@ -3315,6 +3315,24 @@
           "vote": "nay",
           "result": "Motion Passed (10 to 4)",
           "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=5b8ccf34-419e-4480-af6f-4160e9259405&Agenda=PostMinutes&lang=English"
+        },
+        {
+          "date": "2026-03-23",
+          "meetingTitle": "6th Meeting of the Infrastructure and Corporate Services Committee",
+          "itemTitle": "Pollution Prevention and Control Plan Update Study - Notice of Completion",
+          "motionText": "That the following part BE APPROVED: d)    the Civic Administration BE DIRECTED to report back to a future meeting of the Infrastructure and Corporate Services Committee with a proposed implementation...",
+          "vote": "yea",
+          "result": "Motion Failed (2 to 4)",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=e9890bd1-3ebf-47fa-8198-25a144b6365d&Agenda=PostMinutes&lang=English"
+        },
+        {
+          "date": "2026-03-23",
+          "meetingTitle": "6th Meeting of the Infrastructure and Corporate Services Committee",
+          "itemTitle": "Enhanced Reporting for Procurement Disqualifications and Bids and Tender Issues - Councillor S. Stevenson",
+          "motionText": "That the communication dated March 16, 2026, from Councillor S. Stevenson, with respect to Enhanced Reporting for Procurement Disqualifications and Bids & Tender Issues, BE RECEIVED.",
+          "vote": "nay",
+          "result": "Motion Passed (4 to 1)",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=e9890bd1-3ebf-47fa-8198-25a144b6365d&Agenda=PostMinutes&lang=English"
         },
         {
           "date": "2026-03-03",
@@ -3378,24 +3396,6 @@
           "vote": "nay",
           "result": "Motion Passed (10 to 1)",
           "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English"
-        },
-        {
-          "date": "2026-03-03",
-          "meetingTitle": "4th Council Meeting",
-          "itemTitle": "By-laws",
-          "motionText": "That Third Reading and Enactment of Revised Bill No.124 and Added Bill No. 125, BE APPROVED.",
-          "vote": "nay",
-          "result": "Motion Passed (10 to 1)",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English"
-        },
-        {
-          "date": "2026-02-23",
-          "meetingTitle": "4th Meeting of the Infrastructure and Corporate Services Committee",
-          "itemTitle": "Update to Council Policy - Travel and Business Expenses",
-          "motionText": "That the motion BE AMENDED to include a new part that reads as follows: the Civic Administration BE DIRECTED to prepare two separate policies: one governing Travel and Business Expenses for Civic Admi...",
-          "vote": "nay",
-          "result": "Motion Passed (3 to 2)",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=e7317b73-f2ee-4a30-a66e-a583fad79467&Agenda=PostMinutes&lang=English"
         }
       ],
       "committeeActivity": [
@@ -3429,10 +3429,10 @@
         },
         {
           "committee": "Infrastructure and Corporate Services Committee",
-          "totalVotes": 121,
-          "yeas": 102,
-          "nays": 11,
-          "participationRate": 93.38842975206612
+          "totalVotes": 137,
+          "yeas": 116,
+          "nays": 13,
+          "participationRate": 94.16058394160584
         },
         {
           "committee": "Civic Works Committee",
@@ -3447,11 +3447,11 @@
       "councillor": "Elizabeth Peloza",
       "slug": "e-peloza",
       "attendance": {
-        "totalMeetings": 432,
-        "present": 424,
+        "totalMeetings": 433,
+        "present": 425,
         "absent": 8,
         "remote": 1,
-        "attendanceRate": 98.14814814814815,
+        "attendanceRate": 98.15242494226328,
         "trend": [
           {
             "period": "2018",
@@ -3503,27 +3503,27 @@
           },
           {
             "period": "2026",
-            "attendanceRate": 90,
-            "meetingsAttended": 9,
-            "meetingsTotal": 10
+            "attendanceRate": 90.9090909090909,
+            "meetingsAttended": 10,
+            "meetingsTotal": 11
           }
         ],
         "trendDirection": "declining"
       },
       "voting": {
-        "totalVotes": 7247,
-        "yeas": 5886,
-        "nays": 512,
+        "totalVotes": 7263,
+        "yeas": 5899,
+        "nays": 515,
         "absent": 849,
-        "participationRate": 88.28480750655444,
-        "yeaRate": 91.99749921850578,
-        "contestedDissentRate": 17.17821782178218,
-        "contestedVotes": 2020,
-        "substantiveVotes": 4463,
-        "substantiveYeas": 3326,
-        "substantiveNays": 452,
-        "substantiveParticipationRate": 84.65157965494062,
-        "substantiveYeaRate": 88.0359978824775
+        "participationRate": 88.31061544816193,
+        "yeaRate": 91.97068911755535,
+        "contestedDissentRate": 17.24987678659438,
+        "contestedVotes": 2029,
+        "substantiveVotes": 4471,
+        "substantiveYeas": 3332,
+        "substantiveNays": 454,
+        "substantiveParticipationRate": 84.6790427197495,
+        "substantiveYeaRate": 88.00845219228738
       },
       "budgetVoting": {
         "totalBudgetVotes": 716,
@@ -3534,9 +3534,9 @@
       "topAlignments": [
         {
           "councillor": "Josh Morgan",
-          "sharedVotes": 2795,
-          "agreedVotes": 2660,
-          "alignmentRate": 95.16994633273703
+          "sharedVotes": 2804,
+          "agreedVotes": 2668,
+          "alignmentRate": 95.14978601997147
         },
         {
           "councillor": "Shawn Lewis",
@@ -3558,17 +3558,17 @@
         },
         {
           "councillor": "Hadleigh McAlister",
-          "sharedVotes": 1333,
-          "agreedVotes": 1239,
-          "alignmentRate": 92.94823705926481
+          "sharedVotes": 1345,
+          "agreedVotes": 1249,
+          "alignmentRate": 92.8624535315985
         }
       ],
       "bottomAlignments": [
         {
           "councillor": "Susan Stevenson",
-          "sharedVotes": 1324,
-          "agreedVotes": 1124,
-          "alignmentRate": 84.89425981873111
+          "sharedVotes": 1336,
+          "agreedVotes": 1132,
+          "alignmentRate": 84.73053892215569
         },
         {
           "councillor": "Sam Trosow",
@@ -3590,9 +3590,9 @@
         },
         {
           "councillor": "Paul Van Meerbergen",
-          "sharedVotes": 2890,
-          "agreedVotes": 2616,
-          "alignmentRate": 90.51903114186851
+          "sharedVotes": 2902,
+          "agreedVotes": 2626,
+          "alignmentRate": 90.48931771192281
         }
       ],
       "notableDissents": [
@@ -3613,6 +3613,33 @@
           "vote": "nay",
           "result": "Motion Passed (13 to 1)",
           "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=5b8ccf34-419e-4480-af6f-4160e9259405&Agenda=PostMinutes&lang=English"
+        },
+        {
+          "date": "2026-03-23",
+          "meetingTitle": "6th Meeting of the Infrastructure and Corporate Services Committee",
+          "itemTitle": "Smart Commute London: Additional Details and Memorandum of Understanding (MOU) Extension",
+          "motionText": "That part b) BE AMENDED to read as follows: b)    the Deputy City Manager of Environment and Infrastructure BE AUTHORIZED to approve and execute the upcoming Smart Commute Memorandum of Understanding ...",
+          "vote": "yea",
+          "result": "Motion Failed (3 to 3)",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=e9890bd1-3ebf-47fa-8198-25a144b6365d&Agenda=PostMinutes&lang=English"
+        },
+        {
+          "date": "2026-03-23",
+          "meetingTitle": "6th Meeting of the Infrastructure and Corporate Services Committee",
+          "itemTitle": "Local and Regional Food Producers and Processors in City Managed Facilities - Councillors S. Franke and H. McAlister",
+          "motionText": "That the Civic Administration BE DIRECTED to report back to a future meeting of the Infrastructure and Corporate Services Committee on policy compliant actions that could be taken to support increased...",
+          "vote": "nay",
+          "result": "Motion Passed (4 to 2)",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=e9890bd1-3ebf-47fa-8198-25a144b6365d&Agenda=PostMinutes&lang=English"
+        },
+        {
+          "date": "2026-03-23",
+          "meetingTitle": "6th Meeting of the Infrastructure and Corporate Services Committee",
+          "itemTitle": "Request for Update on Potential Funding Gaps - Councillor S. Stevenson",
+          "motionText": "That the communication dated March 16, 2026 from Councillor S. Stevenson with respect to a Request for an Update on Potential Funding Gaps, BE RECEIVED.",
+          "vote": "nay",
+          "result": "Motion Passed (4 to 1)",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=e9890bd1-3ebf-47fa-8198-25a144b6365d&Agenda=PostMinutes&lang=English"
         },
         {
           "date": "2026-02-24",
@@ -3657,33 +3684,6 @@
           "motionText": "That item 7, clause 3.3, as amended, BE APPROVED.",
           "vote": "nay",
           "result": "Motion Passed (13 to 2)",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English"
-        },
-        {
-          "date": "2026-02-10",
-          "meetingTitle": "3rd Council Meeting",
-          "itemTitle": "(3.4) 767 Fanshawe Park Road East and 679 Dunboyne Crescent - Z-25151 (Relates to Bill No. 82)",
-          "motionText": "vi. Rooftop amenity shall be prohibited; and",
-          "vote": "nay",
-          "result": "Motion Passed (11 to 4)",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English"
-        },
-        {
-          "date": "2026-02-10",
-          "meetingTitle": "3rd Council Meeting",
-          "itemTitle": "(3.4) 767 Fanshawe Park Road East and 679 Dunboyne Crescent - Z-25151 (Relates to Bill No. 82)",
-          "motionText": "vi) the sidewalk and/or access on/through 679 Dunboyne Crescent from the apartment complex development at 767 Fanshawe Park Road East to Dunboyne Crescent shall be prohibited.",
-          "vote": "nay",
-          "result": "Motion Passed (10 to 5)",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English"
-        },
-        {
-          "date": "2026-02-10",
-          "meetingTitle": "3rd Council Meeting",
-          "itemTitle": "(3.4) 767 Fanshawe Park Road East and 679 Dunboyne Crescent - Z-25151 (Relates to Bill No. 82)",
-          "motionText": "vii) the Civic Administration BE DIRECTED to hold a public participation meeting with respect to the site plan process.",
-          "vote": "nay",
-          "result": "Motion Passed (8 to 7)",
           "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English"
         }
       ],
@@ -3736,6 +3736,13 @@
           "yeas": 53,
           "nays": 1,
           "participationRate": 72.97297297297297
+        },
+        {
+          "committee": "Infrastructure and Corporate Services Committee",
+          "totalVotes": 16,
+          "yeas": 13,
+          "nays": 3,
+          "participationRate": 100
         }
       ]
     },
@@ -9466,34 +9473,34 @@
   },
   "alignmentMatrix": {
     "j-morgan": {
-      "h-mcalister": 94.27980702963474,
+      "h-mcalister": 94.31506849315069,
       "s-lewis": 96.06797734088637,
       "p-cuddy": 95.23809523809523,
-      "s-stevenson": 86.79378531073446,
+      "s-stevenson": 86.59649122807018,
       "j-pribil": 94.6949602122016,
       "s-trosow": 85.26690391459076,
       "c-rahman": 93.0178432893716,
       "s-lehman": 96.4735516372796,
       "a-hopkins": 93.57182783678032,
-      "p-van-meerbergen": 91.96816208393632,
-      "s-franke": 92.23646723646723,
-      "e-peloza": 95.16994633273703,
+      "p-van-meerbergen": 91.99423007573026,
+      "s-franke": 92.28591648973816,
+      "e-peloza": 95.14978601997147,
       "d-ferreira": 89.75409836065575,
       "s-hillier": 94.1062427297402
     },
     "h-mcalister": {
-      "j-morgan": 94.27980702963474,
+      "j-morgan": 94.31506849315069,
       "s-lewis": 93.11050477489769,
       "p-cuddy": 92.95323510570147,
-      "s-stevenson": 85.07565337001375,
+      "s-stevenson": 84.924965893588,
       "j-pribil": 93.18925998690243,
       "s-trosow": 89.09329829172142,
       "c-rahman": 92.02453987730061,
       "s-lehman": 93.050475493782,
       "a-hopkins": 93.63376251788269,
-      "p-van-meerbergen": 87.89584799437016,
-      "s-franke": 94.79166666666666,
-      "e-peloza": 92.94823705926481,
+      "p-van-meerbergen": 87.99720865317515,
+      "s-franke": 94.76401179941003,
+      "e-peloza": 92.8624535315985,
       "d-ferreira": 91.91919191919192,
       "s-hillier": 90.66059225512528
     },
@@ -9530,8 +9537,8 @@
       "s-hillier": 95.23510971786834
     },
     "s-stevenson": {
-      "j-morgan": 86.79378531073446,
-      "h-mcalister": 85.07565337001375,
+      "j-morgan": 86.59649122807018,
+      "h-mcalister": 84.924965893588,
       "s-lewis": 88.36120401337793,
       "p-cuddy": 89.04109589041096,
       "j-pribil": 89.03631284916202,
@@ -9539,9 +9546,9 @@
       "c-rahman": 84.50704225352112,
       "s-lehman": 88.47262247838617,
       "a-hopkins": 81.0948905109489,
-      "p-van-meerbergen": 89.76848394324122,
-      "s-franke": 81.695423855964,
-      "e-peloza": 84.89425981873111,
+      "p-van-meerbergen": 89.56328645447816,
+      "s-franke": 81.48698884758365,
+      "e-peloza": 84.73053892215569,
       "d-ferreira": 78.4549356223176,
       "s-hillier": 88.43283582089553
     },
@@ -9626,50 +9633,50 @@
       "s-hillier": 88.22138126773889
     },
     "p-van-meerbergen": {
-      "j-morgan": 91.96816208393632,
-      "h-mcalister": 87.89584799437016,
+      "j-morgan": 91.99423007573026,
+      "h-mcalister": 87.99720865317515,
       "s-lewis": 92.73972602739727,
       "p-cuddy": 92.38160603980783,
-      "s-stevenson": 89.76848394324122,
+      "s-stevenson": 89.56328645447816,
       "j-pribil": 89.90694345025054,
       "s-trosow": 78.05065234075211,
       "c-rahman": 87.5,
       "s-lehman": 93.61010830324909,
       "a-hopkins": 85.85178055822907,
-      "s-franke": 84.38661710037175,
-      "e-peloza": 90.51903114186851,
+      "s-franke": 84.45099484156226,
+      "e-peloza": 90.48931771192281,
       "d-ferreira": 81.07861060329068,
       "s-hillier": 92.6734216679657
     },
     "s-franke": {
-      "j-morgan": 92.23646723646723,
-      "h-mcalister": 94.79166666666666,
+      "j-morgan": 92.28591648973816,
+      "h-mcalister": 94.76401179941003,
       "s-lewis": 90.78057775046096,
       "p-cuddy": 89.48513415518492,
-      "s-stevenson": 81.695423855964,
+      "s-stevenson": 81.48698884758365,
       "j-pribil": 91.40730717185386,
       "s-trosow": 90.30574198359433,
       "c-rahman": 92.1220723917672,
       "s-lehman": 90.61901723037651,
       "a-hopkins": 94.61388708630759,
-      "p-van-meerbergen": 84.38661710037175,
-      "e-peloza": 92.13661636219221,
+      "p-van-meerbergen": 84.45099484156226,
+      "e-peloza": 91.9748229740362,
       "d-ferreira": 92.7791771620487,
       "s-hillier": 89.01170351105333
     },
     "e-peloza": {
-      "j-morgan": 95.16994633273703,
-      "h-mcalister": 92.94823705926481,
+      "j-morgan": 95.14978601997147,
+      "h-mcalister": 92.8624535315985,
       "s-lewis": 95.1181592039801,
       "p-cuddy": 92.45033112582782,
-      "s-stevenson": 84.89425981873111,
+      "s-stevenson": 84.73053892215569,
       "j-pribil": 91.76954732510289,
       "s-trosow": 86.43556895252449,
       "c-rahman": 90.09393680614859,
       "s-lehman": 94.68227424749163,
       "a-hopkins": 92.4914675767918,
-      "p-van-meerbergen": 90.51903114186851,
-      "s-franke": 92.13661636219221,
+      "p-van-meerbergen": 90.48931771192281,
+      "s-franke": 91.9748229740362,
       "d-ferreira": 88.76500857632934,
       "s-hillier": 93.58288770053476
     },

@@ -2,11 +2,11 @@
   "councillor": "Josh Morgan",
   "slug": "j-morgan",
   "attendance": {
-    "totalMeetings": 780,
-    "present": 719,
+    "totalMeetings": 781,
+    "present": 720,
     "absent": 61,
     "remote": 1,
-    "attendanceRate": 92.17948717948717,
+    "attendanceRate": 92.18950064020487,
     "trend": [
       {
         "period": "2014",
@@ -83,26 +83,26 @@
       {
         "period": "2026",
         "attendanceRate": 100,
-        "meetingsAttended": 9,
-        "meetingsTotal": 9
+        "meetingsAttended": 10,
+        "meetingsTotal": 10
       }
     ],
     "trendDirection": "improving"
   },
   "voting": {
-    "totalVotes": 10852,
-    "yeas": 8970,
-    "nays": 565,
-    "absent": 1317,
-    "participationRate": 87.86398820493918,
-    "yeaRate": 94.0744625065548,
-    "contestedDissentRate": 5.364127398025703,
-    "contestedVotes": 5369,
-    "substantiveVotes": 7906,
-    "substantiveYeas": 6482,
-    "substantiveNays": 531,
-    "substantiveParticipationRate": 88.7047811788515,
-    "substantiveYeaRate": 92.4283473549123
+    "totalVotes": 10868,
+    "yeas": 8981,
+    "nays": 567,
+    "absent": 1320,
+    "participationRate": 87.85425101214574,
+    "yeaRate": 94.06158357771261,
+    "contestedDissentRate": 5.357142857142857,
+    "contestedVotes": 5376,
+    "substantiveVotes": 7914,
+    "substantiveYeas": 6487,
+    "substantiveNays": 533,
+    "substantiveParticipationRate": 88.70356330553449,
+    "substantiveYeaRate": 92.4074074074074
   },
   "budgetVoting": {
     "totalBudgetVotes": 1410,
@@ -131,9 +131,9 @@
     },
     {
       "councillor": "Elizabeth Peloza",
-      "sharedVotes": 2795,
-      "agreedVotes": 2660,
-      "alignmentRate": 95.16994633273703
+      "sharedVotes": 2804,
+      "agreedVotes": 2668,
+      "alignmentRate": 95.14978601997147
     },
     {
       "councillor": "Jerry Pribil",
@@ -151,9 +151,9 @@
     },
     {
       "councillor": "Susan Stevenson",
-      "sharedVotes": 1416,
-      "agreedVotes": 1229,
-      "alignmentRate": 86.79378531073446
+      "sharedVotes": 1425,
+      "agreedVotes": 1234,
+      "alignmentRate": 86.59649122807018
     },
     {
       "councillor": "David Ferreira",
@@ -163,15 +163,15 @@
     },
     {
       "councillor": "Paul Van Meerbergen",
-      "sharedVotes": 2764,
-      "agreedVotes": 2542,
-      "alignmentRate": 91.96816208393632
+      "sharedVotes": 2773,
+      "agreedVotes": 2551,
+      "alignmentRate": 91.99423007573026
     },
     {
       "councillor": "Skylar Franke",
-      "sharedVotes": 1404,
-      "agreedVotes": 1295,
-      "alignmentRate": 92.23646723646723
+      "sharedVotes": 1413,
+      "agreedVotes": 1304,
+      "alignmentRate": 92.28591648973816
     }
   ],
   "notableDissents": [
@@ -318,10 +318,10 @@
     },
     {
       "committee": "Infrastructure and Corporate Services Committee",
-      "totalVotes": 36,
-      "yeas": 29,
-      "nays": 2,
-      "participationRate": 86.11111111111111
+      "totalVotes": 52,
+      "yeas": 40,
+      "nays": 4,
+      "participationRate": 84.61538461538461
     }
   ]
 }

@@ -2,11 +2,11 @@
   "councillor": "Susan Stevenson",
   "slug": "s-stevenson",
   "attendance": {
-    "totalMeetings": 213,
-    "present": 189,
+    "totalMeetings": 214,
+    "present": 190,
     "absent": 24,
     "remote": 1,
-    "attendanceRate": 88.73239436619718,
+    "attendanceRate": 88.78504672897196,
     "trend": [
       {
         "period": "2022",
@@ -34,27 +34,27 @@
       },
       {
         "period": "2026",
-        "attendanceRate": 86.66666666666667,
-        "meetingsAttended": 13,
-        "meetingsTotal": 15
+        "attendanceRate": 87.5,
+        "meetingsAttended": 14,
+        "meetingsTotal": 16
       }
     ],
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 3582,
-    "yeas": 2564,
-    "nays": 539,
+    "totalVotes": 3598,
+    "yeas": 2574,
+    "nays": 545,
     "absent": 479,
-    "participationRate": 86.62758235622557,
-    "yeaRate": 82.62971318079279,
-    "contestedDissentRate": 35.27630582891749,
-    "contestedVotes": 1321,
-    "substantiveVotes": 2209,
-    "substantiveYeas": 1518,
-    "substantiveNays": 342,
-    "substantiveParticipationRate": 84.20099592575826,
-    "substantiveYeaRate": 81.61290322580645
+    "participationRate": 86.68704836020011,
+    "yeaRate": 82.52645078550817,
+    "contestedDissentRate": 35.48872180451128,
+    "contestedVotes": 1330,
+    "substantiveVotes": 2217,
+    "substantiveYeas": 1520,
+    "substantiveNays": 348,
+    "substantiveParticipationRate": 84.25800631483988,
+    "substantiveYeaRate": 81.37044967880087
   },
   "budgetVoting": {
     "totalBudgetVotes": 379,
@@ -65,9 +65,9 @@
   "topAlignments": [
     {
       "councillor": "Paul Van Meerbergen",
-      "sharedVotes": 1339,
-      "agreedVotes": 1202,
-      "alignmentRate": 89.76848394324122
+      "sharedVotes": 1351,
+      "agreedVotes": 1210,
+      "alignmentRate": 89.56328645447816
     },
     {
       "councillor": "Peter Cuddy",
@@ -115,9 +115,9 @@
     },
     {
       "councillor": "Skylar Franke",
-      "sharedVotes": 1333,
-      "agreedVotes": 1089,
-      "alignmentRate": 81.695423855964
+      "sharedVotes": 1345,
+      "agreedVotes": 1096,
+      "alignmentRate": 81.48698884758365
     },
     {
       "councillor": "Corrine Rahman",
@@ -146,6 +146,60 @@
       "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=5b8ccf34-419e-4480-af6f-4160e9259405&Agenda=PostMinutes&lang=English"
     },
     {
+      "date": "2026-03-23",
+      "meetingTitle": "6th Meeting of the Infrastructure and Corporate Services Committee",
+      "itemTitle": "Revised Respectful Workplace Policy (Anti-Harassment/Anti-Discrimination) ",
+      "motionText": "That, on the recommendation of the Deputy City Manager, Enterprise Supports, and with the concurrence of the City Manager, the following actions be taken with respect to the Respectful Workplace Polic...",
+      "vote": "nay",
+      "result": "Motion Passed (5 to 1)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=e9890bd1-3ebf-47fa-8198-25a144b6365d&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2026-03-23",
+      "meetingTitle": "6th Meeting of the Infrastructure and Corporate Services Committee",
+      "itemTitle": "Final Program Design for BetterHomes London ",
+      "motionText": "That on the recommendation of the Deputy City Manager, Environment & Infrastructure, the following actions be taken; a)    the proposed by-law, as appended to the staff report dated March 23, 2026 as ...",
+      "vote": "nay",
+      "result": "Motion Passed (5 to 1)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=e9890bd1-3ebf-47fa-8198-25a144b6365d&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2026-03-23",
+      "meetingTitle": "6th Meeting of the Infrastructure and Corporate Services Committee",
+      "itemTitle": "Meadowlily Environmental Assessment – Notice of Completion",
+      "motionText": "That the delegation request from J. Ross, Director, Project Manager, Development Engineering (London) Limited BE APPROVED to be heard at this time.",
+      "vote": "nay",
+      "result": "Motion Passed (5 to 1)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=e9890bd1-3ebf-47fa-8198-25a144b6365d&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2026-03-23",
+      "meetingTitle": "6th Meeting of the Infrastructure and Corporate Services Committee",
+      "itemTitle": "Smart Commute London: Additional Details and Memorandum of Understanding (MOU) Extension",
+      "motionText": "That part b) BE AMENDED to read as follows: b)    the Deputy City Manager of Environment and Infrastructure BE AUTHORIZED to approve and execute the upcoming Smart Commute Memorandum of Understanding ...",
+      "vote": "yea",
+      "result": "Motion Failed (3 to 3)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=e9890bd1-3ebf-47fa-8198-25a144b6365d&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2026-03-23",
+      "meetingTitle": "6th Meeting of the Infrastructure and Corporate Services Committee",
+      "itemTitle": "Smart Commute London: Additional Details and Memorandum of Understanding (MOU) Extension",
+      "motionText": "That the following part BE APPROVED b)    the Deputy City Manager of Environment and Infrastructure BE AUTHORIZED to approve and execute the upcoming Smart Commute Memorandum of Understanding (MOU) Am...",
+      "vote": "nay",
+      "result": "Motion Passed (5 to 1)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=e9890bd1-3ebf-47fa-8198-25a144b6365d&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2026-03-23",
+      "meetingTitle": "6th Meeting of the Infrastructure and Corporate Services Committee",
+      "itemTitle": "Local and Regional Food Producers and Processors in City Managed Facilities - Councillors S. Franke and H. McAlister",
+      "motionText": "That the Civic Administration BE DIRECTED to report back to a future meeting of the Infrastructure and Corporate Services Committee on policy compliant actions that could be taken to support increased...",
+      "vote": "nay",
+      "result": "Motion Passed (4 to 2)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=e9890bd1-3ebf-47fa-8198-25a144b6365d&Agenda=PostMinutes&lang=English"
+    },
+    {
       "date": "2026-03-03",
       "meetingTitle": "4th Council Meeting",
       "itemTitle": "(4.1) Deputy Mayor S. Lewis, Councillors P. Cuddy and C. Rahman - Zoning By-law Amendment - Parking Changes",
@@ -161,60 +215,6 @@
       "motionText": "That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the staff report, dated February 17, 2026, updating Municipal Council on affordable and community housing within t...",
       "vote": "nay",
       "result": "Motion Passed (11 to 1)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-03-03",
-      "meetingTitle": "4th Council Meeting",
-      "itemTitle": "(2.6) 2025 Ontario Works Participant and Service Delivery Profile",
-      "motionText": "That, on the recommendation of the Deputy City Manager, Social and Health Development, the staff report dated February 17, 2026, with respect to the 2025 Ontario Works Participant and Service Delivery...",
-      "vote": "nay",
-      "result": "Motion Passed (12 to 1)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-03-03",
-      "meetingTitle": "4th Council Meeting",
-      "itemTitle": "(2.2) Federation of Canadian Municipalities: Green Municipal Fund Agreement for Accelerating Community Energy Systems (Relates to Bill No. 97)",
-      "motionText": "That on the recommendation of the Deputy City Manager, Environment & Infrastructure, the proposed by-law, as appended to the staff report dated February 23, 2026 as Appendix “A” BE INTRODUCED at the M...",
-      "vote": "nay",
-      "result": "Motion Passed (11 to 1)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-03-03",
-      "meetingTitle": "4th Council Meeting",
-      "itemTitle": "(2.3) Federation of Canadian Municipalities: Green Municipal Fund Agreement for Municipal Fleet Decarbonization Feasibility Study (Relates to Bill No. 98)",
-      "motionText": "That on the recommendation of the Deputy City Manager, Environment & Infrastructure, the proposed by-law, as appended to the staff report dated February 23, 2026 as Appendix “A”, BE INTRODUCED at the ...",
-      "vote": "nay",
-      "result": "Motion Passed (11 to 1)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-03-03",
-      "meetingTitle": "4th Council Meeting",
-      "itemTitle": "(2.9) Contract Award: Tender No. RFT-2025-223 Wellington Gateway and Municipal Infrastructure Improvements Phase 2A – Wilkins Street to Baseline Road",
-      "motionText": "That on the recommendation of the Deputy City Manager, Environment & Infrastructure, the following actions be taken with respect to the award of contracts for Wellington Gateway and Municipal Infrastr...",
-      "vote": "nay",
-      "result": "Motion Passed (11 to 1)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-03-03",
-      "meetingTitle": "4th Council Meeting",
-      "itemTitle": "By-laws",
-      "motionText": "That Introduction and First Reading of Bill No.’s 97 and 98, BE APPROVED.",
-      "vote": "nay",
-      "result": "Motion Passed (10 to 1)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-03-03",
-      "meetingTitle": "4th Council Meeting",
-      "itemTitle": "By-laws",
-      "motionText": "That Second Reading of Bill No.’s 97 and 98, BE APPROVED.",
-      "vote": "nay",
-      "result": "Motion Passed (10 to 1)",
       "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English"
     }
   ],
@@ -263,10 +263,10 @@
     },
     {
       "committee": "Infrastructure and Corporate Services Committee",
-      "totalVotes": 38,
-      "yeas": 32,
-      "nays": 5,
-      "participationRate": 97.36842105263158
+      "totalVotes": 54,
+      "yeas": 42,
+      "nays": 11,
+      "participationRate": 98.14814814814815
     }
   ]
 }

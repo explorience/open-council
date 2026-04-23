@@ -2,11 +2,11 @@
   "councillor": "Paul Van Meerbergen",
   "slug": "p-van-meerbergen",
   "attendance": {
-    "totalMeetings": 582,
-    "present": 555,
+    "totalMeetings": 583,
+    "present": 556,
     "absent": 27,
     "remote": 6,
-    "attendanceRate": 95.36082474226805,
+    "attendanceRate": 95.36878216123499,
     "trend": [
       {
         "period": "2011",
@@ -83,26 +83,26 @@
       {
         "period": "2026",
         "attendanceRate": 100,
-        "meetingsAttended": 10,
-        "meetingsTotal": 10
+        "meetingsAttended": 11,
+        "meetingsTotal": 11
       }
     ],
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 8611,
-    "yeas": 6732,
-    "nays": 1008,
+    "totalVotes": 8627,
+    "yeas": 6747,
+    "nays": 1009,
     "absent": 871,
-    "participationRate": 89.88503077459063,
-    "yeaRate": 86.9767441860465,
-    "contestedDissentRate": 22.641509433962266,
-    "contestedVotes": 3975,
-    "substantiveVotes": 6074,
-    "substantiveYeas": 4654,
-    "substantiveNays": 815,
-    "substantiveParticipationRate": 90.03951267698386,
-    "substantiveYeaRate": 85.09782409946975
+    "participationRate": 89.9037904254086,
+    "yeaRate": 86.99071686436307,
+    "contestedDissentRate": 22.615461847389557,
+    "contestedVotes": 3984,
+    "substantiveVotes": 6082,
+    "substantiveYeas": 4661,
+    "substantiveNays": 816,
+    "substantiveParticipationRate": 90.05261427162118,
+    "substantiveYeaRate": 85.10133284644878
   },
   "budgetVoting": {
     "totalBudgetVotes": 1357,
@@ -137,9 +137,9 @@
     },
     {
       "councillor": "Josh Morgan",
-      "sharedVotes": 2764,
-      "agreedVotes": 2542,
-      "alignmentRate": 91.96816208393632
+      "sharedVotes": 2773,
+      "agreedVotes": 2551,
+      "alignmentRate": 91.99423007573026
     }
   ],
   "bottomAlignments": [
@@ -157,9 +157,9 @@
     },
     {
       "councillor": "Skylar Franke",
-      "sharedVotes": 1345,
-      "agreedVotes": 1135,
-      "alignmentRate": 84.38661710037175
+      "sharedVotes": 1357,
+      "agreedVotes": 1146,
+      "alignmentRate": 84.45099484156226
     },
     {
       "councillor": "Anna Hopkins",
@@ -175,6 +175,15 @@
     }
   ],
   "notableDissents": [
+    {
+      "date": "2026-03-23",
+      "meetingTitle": "6th Meeting of the Infrastructure and Corporate Services Committee",
+      "itemTitle": "Smart Commute London: Additional Details and Memorandum of Understanding (MOU) Extension",
+      "motionText": "That part b) BE AMENDED to read as follows: b)    the Deputy City Manager of Environment and Infrastructure BE AUTHORIZED to approve and execute the upcoming Smart Commute Memorandum of Understanding ...",
+      "vote": "yea",
+      "result": "Motion Failed (3 to 3)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=e9890bd1-3ebf-47fa-8198-25a144b6365d&Agenda=PostMinutes&lang=English"
+    },
     {
       "date": "2026-02-23",
       "meetingTitle": "4th Meeting of the Infrastructure and Corporate Services Committee",
@@ -255,15 +264,6 @@
       "vote": "nay",
       "result": "Motion Passed (12 to 3)",
       "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-02-10",
-      "meetingTitle": "3rd Council Meeting",
-      "itemTitle": "By-laws",
-      "motionText": "That Second Reading of Bill No.'s 66 and 83, BE APPROVED.",
-      "vote": "nay",
-      "result": "Motion Passed (12 to 3)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English"
     }
   ],
   "committeeActivity": [
@@ -304,10 +304,10 @@
     },
     {
       "committee": "Infrastructure and Corporate Services Committee",
-      "totalVotes": 121,
-      "yeas": 103,
-      "nays": 15,
-      "participationRate": 97.52066115702479
+      "totalVotes": 137,
+      "yeas": 118,
+      "nays": 16,
+      "participationRate": 97.8102189781022
     }
   ]
 }
