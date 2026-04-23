@@ -2,18 +2,18 @@
 title: "Elizabeth Peloza"
 type: councillor
 slug: "e-peloza"
-meetingCount: 465
+meetingCount: 467
 yearsActive: "2018 - 2026"
 isCurrent: true
-totalVotes: 7247
-votesYea: 5886
-votesNay: 512
+totalVotes: 7263
+votesYea: 5899
+votesNay: 515
 votesAbsent: 849
-attendanceRate: 98.1
+attendanceRate: 98.2
 participationRate: 88.3
 yeaRate: 92.0
 contestedDissentRate: 17.2
-contestedVotes: 2020
+contestedVotes: 2029
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -30,9 +30,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 7,247 |
-| Voted Yea | 5,886 (81.2%) |
-| Voted Nay | 512 (7.1%) |
+| Total Votes | 7,263 |
+| Voted Yea | 5,899 (81.2%) |
+| Voted Nay | 515 (7.1%) |
 | Absent | 849 (11.7%) |
 
 
@@ -42,9 +42,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 4,463 |
-| Voted Yea | 3,326 (88.0%) |
-| Voted Nay | 452 (12.0%) |
+| Substantive Votes | 4,471 |
+| Voted Yea | 3,332 (88.0%) |
+| Voted Nay | 454 (12.0%) |
 
 
 ### Dissent on Contested Votes
@@ -52,7 +52,7 @@ prefillQuestions:
 *Only counts non-unanimous votes where the councillor participated*
 
 - **Dissent Rate**: 17.2%
-- **Contested Votes**: 2,020
+- **Contested Votes**: 2,029
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -71,8 +71,8 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 98.1%
-- **Meetings Attended**: 424 of 432
+- **Attendance Rate**: 98.2%
+- **Meetings Attended**: 425 of 433
 - **Meetings Missed**: 8
 - **Trend**: Declining v
 
@@ -80,18 +80,18 @@ prefillQuestions:
   - 2023: 98.3% (57/58 meetings)
   - 2024: 95.3% (61/64 meetings)
   - 2025: 96.6% (56/58 meetings)
-  - 2026: 90.0% (9/10 meetings)
+  - 2026: 90.9% (10/11 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
-- Josh Morgan (95.2%)
+- Josh Morgan (95.1%)
 - Shawn Lewis (95.1%)
 - Steve Lehman (94.7%)
 
 **Least aligned with:**
-- Susan Stevenson (84.9%)
+- Susan Stevenson (84.7%)
 - Sam Trosow (86.4%)
 - David Ferreira (88.8%)
 
@@ -109,6 +109,7 @@ prefillQuestions:
 | Civic Works Committee | 284 | 274 | 8 | 99.3% |
 | Budget Committee | 189 | 122 | 67 | 100.0% |
 | Corporate Services Committee | 74 | 53 | 1 | 73.0% |
+| Infrastructure and Corporate Services Committee | 16 | 13 | 3 | 100.0% |
 
 
 ## Notable Dissenting Votes
@@ -130,6 +131,30 @@ Voted **Nay** - Motion Passed (10 to 4)
 > That the balance of the motion BE APPROVED: That, the following actions be taken with respect to Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program - Report Back on...
 
 Voted **Nay** - Motion Passed (13 to 1)
+
+### 2026-03-23: Smart Commute London: Additional Details and Memorandum of Understanding (MOU) Extension
+
+[6th Meeting of the Infrastructure and Corporate Services Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=e9890bd1-3ebf-47fa-8198-25a144b6365d&Agenda=PostMinutes&lang=English)
+
+> That part b) BE AMENDED to read as follows: b)    the Deputy City Manager of Environment and Infrastructure BE AUTHORIZED to approve and execute the upcoming Smart Commute Memorandum of Understanding ...
+
+Voted **Yea** - Motion Failed (3 to 3)
+
+### 2026-03-23: Local and Regional Food Producers and Processors in City Managed Facilities - Councillors S. Franke and H. McAlister
+
+[6th Meeting of the Infrastructure and Corporate Services Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=e9890bd1-3ebf-47fa-8198-25a144b6365d&Agenda=PostMinutes&lang=English)
+
+> That the Civic Administration BE DIRECTED to report back to a future meeting of the Infrastructure and Corporate Services Committee on policy compliant actions that could be taken to support increased...
+
+Voted **Nay** - Motion Passed (4 to 2)
+
+### 2026-03-23: Request for Update on Potential Funding Gaps - Councillor S. Stevenson
+
+[6th Meeting of the Infrastructure and Corporate Services Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=e9890bd1-3ebf-47fa-8198-25a144b6365d&Agenda=PostMinutes&lang=English)
+
+> That the communication dated March 16, 2026 from Councillor S. Stevenson with respect to a Request for an Update on Potential Funding Gaps, BE RECEIVED.
+
+Voted **Nay** - Motion Passed (4 to 1)
 
 ### 2026-02-24: London UNESCO City of Music Action Plan 2021-2025 Update
 
@@ -171,45 +196,23 @@ Voted **Nay** - Motion Passed (8 to 7)
 
 Voted **Nay** - Motion Passed (13 to 2)
 
-### 2026-02-10: (3.4) 767 Fanshawe Park Road East and 679 Dunboyne Crescent - Z-25151 (Relates to Bill No. 82)
-
-[3rd Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English)
-
-> vi. Rooftop amenity shall be prohibited; and
-
-Voted **Nay** - Motion Passed (11 to 4)
-
-### 2026-02-10: (3.4) 767 Fanshawe Park Road East and 679 Dunboyne Crescent - Z-25151 (Relates to Bill No. 82)
-
-[3rd Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English)
-
-> vi) the sidewalk and/or access on/through 679 Dunboyne Crescent from the apartment complex development at 767 Fanshawe Park Road East to Dunboyne Crescent shall be prohibited.
-
-Voted **Nay** - Motion Passed (10 to 5)
-
-### 2026-02-10: (3.4) 767 Fanshawe Park Road East and 679 Dunboyne Crescent - Z-25151 (Relates to Bill No. 82)
-
-[3rd Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English)
-
-> vii) the Civic Administration BE DIRECTED to hold a public participation meeting with respect to the site plan process.
-
-Voted **Nay** - Motion Passed (8 to 7)
-
 
 ## Committees Served
 
+- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
+- [Corporate Services Committee](/committees/corporate-services)
 - [City Council](/committees/city-council)
 - [Audit Committee](/committees/audit)
-- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [Planning and Environment Committee](/committees/planning-environment)
 - [Budget Committee](/committees/budget)
-- [Corporate Services Committee](/committees/corporate-services)
 - [Civic Works Committee](/committees/civic-works)
 - [Community Protective Services Committee](/committees/community-protective-services-committee)
 
-## Recent Meetings (465 total)
+## Recent Meetings (467 total)
 
+- [5th Meeting of the Strategic Priorities and Policy Committee](</months/2026-03/2026-03-24 5th Meeting of the Strategic Priorities and Policy Committee>) - Tue Mar 24 2026
+- [6th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-03/2026-03-23 6th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Mar 23 2026
 - [4th Council Meeting](</months/2026-03/2026-03-03 4th Council Meeting>) - Tue Mar 3 2026
 - [1st Meeting of the Audit Committee](</months/2026-02/2026-02-25 1st Meeting of the Audit Committee>) - Wed Feb 25 2026
 - [4th Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-24 4th Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 24 2026
@@ -218,5 +221,3 @@ Voted **Nay** - Motion Passed (8 to 7)
 - [3rd Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-03 3rd Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 3 2026
 - [3rd Meeting of the Planning and Environment Committee](</months/2026-01/2026-01-27 3rd Meeting of the Planning and Environment Committee>) - Tue Jan 27 2026
 - [2nd Meeting of the Community and Protective Services Committee](</months/2026-01/2026-01-26 2nd Meeting of the Community and Protective Services Committee>) - Mon Jan 26 2026
-- [2nd Meeting of the Strategic Priorities and Policy Committee](</months/2026-01/2026-01-13 2nd Meeting of the Strategic Priorities and Policy Committee>) - Tue Jan 13 2026
-- [1st Meeting of the Strategic Priorities and Policy Committee](</months/2025-12/2025-12-09 1st Meeting of the Strategic Priorities and Policy Committee>) - Tue Dec 9 2025

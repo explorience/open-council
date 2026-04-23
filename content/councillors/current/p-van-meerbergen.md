@@ -2,18 +2,18 @@
 title: "Paul Van Meerbergen"
 type: councillor
 slug: "p-van-meerbergen"
-meetingCount: 513
+meetingCount: 515
 yearsActive: "2010 - 2026"
 isCurrent: true
-totalVotes: 8611
-votesYea: 6732
-votesNay: 1008
+totalVotes: 8627
+votesYea: 6747
+votesNay: 1009
 votesAbsent: 871
 attendanceRate: 95.4
 participationRate: 89.9
 yeaRate: 87.0
 contestedDissentRate: 22.6
-contestedVotes: 3975
+contestedVotes: 3984
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -31,9 +31,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 8,611 |
-| Voted Yea | 6,732 (78.2%) |
-| Voted Nay | 1,008 (11.7%) |
+| Total Votes | 8,627 |
+| Voted Yea | 6,747 (78.2%) |
+| Voted Nay | 1,009 (11.7%) |
 | Absent | 871 (10.1%) |
 
 
@@ -43,9 +43,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 6,074 |
-| Voted Yea | 4,654 (85.1%) |
-| Voted Nay | 815 (14.9%) |
+| Substantive Votes | 6,082 |
+| Voted Yea | 4,661 (85.1%) |
+| Voted Nay | 816 (14.9%) |
 
 
 ### Dissent on Contested Votes
@@ -53,7 +53,7 @@ prefillQuestions:
 *Only counts non-unanimous votes where the councillor participated*
 
 - **Dissent Rate**: 22.6%
-- **Contested Votes**: 3,975
+- **Contested Votes**: 3,984
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -73,7 +73,7 @@ prefillQuestions:
 ## Attendance
 
 - **Attendance Rate**: 95.4%
-- **Meetings Attended**: 555 of 582
+- **Meetings Attended**: 556 of 583
 - **Meetings Missed**: 27
 - **Trend**: Stable -
 
@@ -81,7 +81,7 @@ prefillQuestions:
   - 2023: 98.3% (57/58 meetings)
   - 2024: 98.4% (62/63 meetings)
   - 2025: 96.4% (53/55 meetings)
-  - 2026: 100.0% (10/10 meetings)
+  - 2026: 100.0% (11/11 meetings)
 
 
 ## Voting Alignment
@@ -94,7 +94,7 @@ prefillQuestions:
 **Least aligned with:**
 - Sam Trosow (78.1%)
 - David Ferreira (81.1%)
-- Skylar Franke (84.4%)
+- Skylar Franke (84.5%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -108,12 +108,20 @@ prefillQuestions:
 | Civic Works Committee | 451 | 409 | 31 | 97.6% |
 | Budget Committee | 189 | 118 | 68 | 98.4% |
 | Corporate Services Committee | 154 | 144 | 6 | 97.4% |
-| Infrastructure and Corporate Services Committee | 121 | 103 | 15 | 97.5% |
+| Infrastructure and Corporate Services Committee | 137 | 118 | 16 | 97.8% |
 
 
 ## Notable Dissenting Votes
 
 *Recent split votes where Paul Van Meerbergen voted against the final outcome:*
+
+### 2026-03-23: Smart Commute London: Additional Details and Memorandum of Understanding (MOU) Extension
+
+[6th Meeting of the Infrastructure and Corporate Services Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=e9890bd1-3ebf-47fa-8198-25a144b6365d&Agenda=PostMinutes&lang=English)
+
+> That part b) BE AMENDED to read as follows: b)    the Deputy City Manager of Environment and Infrastructure BE AUTHORIZED to approve and execute the upcoming Smart Commute Memorandum of Understanding ...
+
+Voted **Yea** - Motion Failed (3 to 3)
 
 ### 2026-02-23: Restricted Acts of Council after Nomination Day and Voting Day
 
@@ -187,27 +195,21 @@ Voted **Yea** - Motion Failed (7 to 8)
 
 Voted **Nay** - Motion Passed (12 to 3)
 
-### 2026-02-10: By-laws
-
-[3rd Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English)
-
-> That Second Reading of Bill No.'s 66 and 83, BE APPROVED.
-
-Voted **Nay** - Motion Passed (12 to 3)
-
 
 ## Committees Served
 
-- [City Council](/committees/city-council)
-- [Corporate Services Committee](/committees/corporate-services)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
+- [Corporate Services Committee](/committees/corporate-services)
+- [City Council](/committees/city-council)
 - [Planning and Environment Committee](/committees/planning-environment)
 - [Budget Committee](/committees/budget)
 - [Civic Works Committee](/committees/civic-works)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 
-## Recent Meetings (513 total)
+## Recent Meetings (515 total)
 
+- [5th Meeting of the Strategic Priorities and Policy Committee](</months/2026-03/2026-03-24 5th Meeting of the Strategic Priorities and Policy Committee>) - Tue Mar 24 2026
+- [6th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-03/2026-03-23 6th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Mar 23 2026
 - [4th Council Meeting](</months/2026-03/2026-03-03 4th Council Meeting>) - Tue Mar 3 2026
 - [5th Special Meeting of the Infrastructure and Corporate Services Committee](</months/2026-03/2026-03-02 5th Special Meeting of the Infrastructure and Corporate Services Committee>) - Mon Mar 2 2026
 - [4th Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-24 4th Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 24 2026
@@ -216,5 +218,3 @@ Voted **Nay** - Motion Passed (12 to 3)
 - [3rd Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-03 3rd Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 3 2026
 - [3rd Meeting of the Infrastructure and Corporate Services Committee](</months/2026-02/2026-02-02 3rd Meeting of the Infrastructure and Corporate Services Committee>) - Mon Feb 2 2026
 - [3rd Meeting of the Planning and Environment Committee](</months/2026-01/2026-01-27 3rd Meeting of the Planning and Environment Committee>) - Tue Jan 27 2026
-- [2nd Meeting of the Strategic Priorities and Policy Committee](</months/2026-01/2026-01-13 2nd Meeting of the Strategic Priorities and Policy Committee>) - Tue Jan 13 2026
-- [2nd Meeting of the Infrastructure and Corporate Services Committee](</months/2026-01/2026-01-12 2nd Meeting of the Infrastructure and Corporate Services Committee>) - Mon Jan 12 2026

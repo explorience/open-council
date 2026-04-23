@@ -2,18 +2,18 @@
 title: "Hadleigh McAlister"
 type: councillor
 slug: "h-mcalister"
-meetingCount: 217
+meetingCount: 219
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 3719
-votesYea: 2982
-votesNay: 271
+totalVotes: 3735
+votesYea: 2997
+votesNay: 272
 votesAbsent: 466
 attendanceRate: 94.3
 participationRate: 87.5
 yeaRate: 91.7
 contestedDissentRate: 14.6
-contestedVotes: 1374
+contestedVotes: 1383
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -30,9 +30,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 3,719 |
-| Voted Yea | 2,982 (80.2%) |
-| Voted Nay | 271 (7.3%) |
+| Total Votes | 3,735 |
+| Voted Yea | 2,997 (80.2%) |
+| Voted Nay | 272 (7.3%) |
 | Absent | 466 (12.5%) |
 
 
@@ -42,9 +42,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,372 |
-| Voted Yea | 1,760 (87.9%) |
-| Voted Nay | 242 (12.1%) |
+| Substantive Votes | 2,380 |
+| Voted Yea | 1,767 (87.9%) |
+| Voted Nay | 243 (12.1%) |
 
 
 ### Dissent on Contested Votes
@@ -52,7 +52,7 @@ prefillQuestions:
 *Only counts non-unanimous votes where the councillor participated*
 
 - **Dissent Rate**: 14.6%
-- **Contested Votes**: 1,374
+- **Contested Votes**: 1,383
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -72,7 +72,7 @@ prefillQuestions:
 ## Attendance
 
 - **Attendance Rate**: 94.3%
-- **Meetings Attended**: 214 of 227
+- **Meetings Attended**: 215 of 228
 - **Meetings Missed**: 13
 - **Trend**: Stable -
 
@@ -80,7 +80,7 @@ prefillQuestions:
   - 2023: 90.9% (70/77 meetings)
   - 2024: 93.4% (71/76 meetings)
   - 2025: 98.2% (54/55 meetings)
-  - 2026: 100.0% (10/10 meetings)
+  - 2026: 100.0% (11/11 meetings)
 
 
 ## Voting Alignment
@@ -91,8 +91,8 @@ prefillQuestions:
 - Anna Hopkins (93.6%)
 
 **Least aligned with:**
-- Susan Stevenson (85.1%)
-- Paul Van Meerbergen (87.9%)
+- Susan Stevenson (84.9%)
+- Paul Van Meerbergen (88.0%)
 - Sam Trosow (89.1%)
 
 [View full voting alignment →](/councillors/alignment)
@@ -108,12 +108,20 @@ prefillQuestions:
 | Budget Committee | 189 | 135 | 39 | 92.1% |
 | Corporate Services Committee | 164 | 130 | 1 | 79.9% |
 | Civic Works Committee | 90 | 81 | 9 | 100.0% |
-| Infrastructure and Corporate Services Committee | 38 | 32 | 6 | 100.0% |
+| Infrastructure and Corporate Services Committee | 54 | 47 | 7 | 100.0% |
 
 
 ## Notable Dissenting Votes
 
 *Recent split votes where Hadleigh McAlister voted against the final outcome:*
+
+### 2026-03-23: Pollution Prevention and Control Plan Update Study - Notice of Completion
+
+[6th Meeting of the Infrastructure and Corporate Services Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=e9890bd1-3ebf-47fa-8198-25a144b6365d&Agenda=PostMinutes&lang=English)
+
+> That the following part BE APPROVED: d)    the Civic Administration BE DIRECTED to report back to a future meeting of the Infrastructure and Corporate Services Committee with a proposed implementation...
+
+Voted **Yea** - Motion Failed (2 to 4)
 
 ### 2026-03-03: (4.1) Deputy Mayor S. Lewis, Councillors P. Cuddy and C. Rahman - Zoning By-law Amendment - Parking Changes
 
@@ -187,26 +195,20 @@ Voted **Yea** - Motion Failed (6 to 9)
 
 Voted **Nay** - Motion Passed (10 to 5)
 
-### 2026-02-03: Diversity, Inclusion and Anti-Oppression Community Advisory Committee (DIACAC) - Request for Direction
-
-[3rd Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=48f12c8d-c951-44dc-905b-05acf0df5b10&Agenda=PostMinutes&lang=English)
-
-> That the report dated February 3, 2026, titled “Diversity, Inclusion and Anti-Oppression Community Advisory Committee (DIACAC) – Request for Direction” BE REFERRED to Civic Administration to consult f...
-
-Voted **Yea** - Motion Failed (4 to 10)
-
 
 ## Committees Served
 
-- [City Council](/committees/city-council)
-- [Corporate Services Committee](/committees/corporate-services)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
+- [Corporate Services Committee](/committees/corporate-services)
+- [City Council](/committees/city-council)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [Budget Committee](/committees/budget)
 - [Civic Works Committee](/committees/civic-works)
 
-## Recent Meetings (217 total)
+## Recent Meetings (219 total)
 
+- [5th Meeting of the Strategic Priorities and Policy Committee](</months/2026-03/2026-03-24 5th Meeting of the Strategic Priorities and Policy Committee>) - Tue Mar 24 2026
+- [6th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-03/2026-03-23 6th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Mar 23 2026
 - [4th Council Meeting](</months/2026-03/2026-03-03 4th Council Meeting>) - Tue Mar 3 2026
 - [5th Special Meeting of the Infrastructure and Corporate Services Committee](</months/2026-03/2026-03-02 5th Special Meeting of the Infrastructure and Corporate Services Committee>) - Mon Mar 2 2026
 - [4th Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-24 4th Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 24 2026
@@ -215,5 +217,3 @@ Voted **Yea** - Motion Failed (4 to 10)
 - [3rd Council Meeting](</months/2026-02/2026-02-10 3rd Council Meeting>) - Tue Feb 10 2026
 - [3rd Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-03 3rd Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 3 2026
 - [3rd Meeting of the Infrastructure and Corporate Services Committee](</months/2026-02/2026-02-02 3rd Meeting of the Infrastructure and Corporate Services Committee>) - Mon Feb 2 2026
-- [2nd Meeting of the Strategic Priorities and Policy Committee](</months/2026-01/2026-01-13 2nd Meeting of the Strategic Priorities and Policy Committee>) - Tue Jan 13 2026
-- [2nd Meeting of the Infrastructure and Corporate Services Committee](</months/2026-01/2026-01-12 2nd Meeting of the Infrastructure and Corporate Services Committee>) - Mon Jan 12 2026

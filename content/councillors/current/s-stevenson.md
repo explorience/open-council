@@ -2,18 +2,18 @@
 title: "Susan Stevenson"
 type: councillor
 slug: "s-stevenson"
-meetingCount: 198
+meetingCount: 200
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 3582
-votesYea: 2564
-votesNay: 539
+totalVotes: 3598
+votesYea: 2574
+votesNay: 545
 votesAbsent: 479
-attendanceRate: 88.7
-participationRate: 86.6
-yeaRate: 82.6
-contestedDissentRate: 35.3
-contestedVotes: 1321
+attendanceRate: 88.8
+participationRate: 86.7
+yeaRate: 82.5
+contestedDissentRate: 35.5
+contestedVotes: 1330
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -30,10 +30,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 3,582 |
-| Voted Yea | 2,564 (71.6%) |
-| Voted Nay | 539 (15.0%) |
-| Absent | 479 (13.4%) |
+| Total Votes | 3,598 |
+| Voted Yea | 2,574 (71.5%) |
+| Voted Nay | 545 (15.1%) |
+| Absent | 479 (13.3%) |
 
 
 ### Substantive Votes
@@ -42,17 +42,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,209 |
-| Voted Yea | 1,518 (81.6%) |
-| Voted Nay | 342 (18.4%) |
+| Substantive Votes | 2,217 |
+| Voted Yea | 1,520 (81.4%) |
+| Voted Nay | 348 (18.6%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 35.3%
-- **Contested Votes**: 1,321
+- **Dissent Rate**: 35.5%
+- **Contested Votes**: 1,330
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -71,8 +71,8 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 88.7%
-- **Meetings Attended**: 189 of 213
+- **Attendance Rate**: 88.8%
+- **Meetings Attended**: 190 of 214
 - **Meetings Missed**: 24
 - **Trend**: Stable -
 
@@ -80,13 +80,13 @@ prefillQuestions:
   - 2023: 88.6% (70/79 meetings)
   - 2024: 89.4% (59/66 meetings)
   - 2025: 86.4% (38/44 meetings)
-  - 2026: 86.7% (13/15 meetings)
+  - 2026: 87.5% (14/16 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
-- Paul Van Meerbergen (89.8%)
+- Paul Van Meerbergen (89.6%)
 - Peter Cuddy (89.0%)
 - Jerry Pribil (89.0%)
 
@@ -108,7 +108,7 @@ prefillQuestions:
 | Corporate Services Committee | 184 | 126 | 8 | 72.8% |
 | Planning and Environment Committee | 164 | 124 | 2 | 76.8% |
 | Community and Protective Services Committee | 92 | 78 | 7 | 92.4% |
-| Infrastructure and Corporate Services Committee | 38 | 32 | 5 | 97.4% |
+| Infrastructure and Corporate Services Committee | 54 | 42 | 11 | 98.1% |
 
 
 ## Notable Dissenting Votes
@@ -131,6 +131,54 @@ Voted **Nay** - Motion Passed (12 to 2)
 
 Voted **Nay** - Motion Passed (10 to 4)
 
+### 2026-03-23: Revised Respectful Workplace Policy (Anti-Harassment/Anti-Discrimination) 
+
+[6th Meeting of the Infrastructure and Corporate Services Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=e9890bd1-3ebf-47fa-8198-25a144b6365d&Agenda=PostMinutes&lang=English)
+
+> That, on the recommendation of the Deputy City Manager, Enterprise Supports, and with the concurrence of the City Manager, the following actions be taken with respect to the Respectful Workplace Polic...
+
+Voted **Nay** - Motion Passed (5 to 1)
+
+### 2026-03-23: Final Program Design for BetterHomes London 
+
+[6th Meeting of the Infrastructure and Corporate Services Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=e9890bd1-3ebf-47fa-8198-25a144b6365d&Agenda=PostMinutes&lang=English)
+
+> That on the recommendation of the Deputy City Manager, Environment & Infrastructure, the following actions be taken; a)    the proposed by-law, as appended to the staff report dated March 23, 2026 as ...
+
+Voted **Nay** - Motion Passed (5 to 1)
+
+### 2026-03-23: Meadowlily Environmental Assessment – Notice of Completion
+
+[6th Meeting of the Infrastructure and Corporate Services Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=e9890bd1-3ebf-47fa-8198-25a144b6365d&Agenda=PostMinutes&lang=English)
+
+> That the delegation request from J. Ross, Director, Project Manager, Development Engineering (London) Limited BE APPROVED to be heard at this time.
+
+Voted **Nay** - Motion Passed (5 to 1)
+
+### 2026-03-23: Smart Commute London: Additional Details and Memorandum of Understanding (MOU) Extension
+
+[6th Meeting of the Infrastructure and Corporate Services Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=e9890bd1-3ebf-47fa-8198-25a144b6365d&Agenda=PostMinutes&lang=English)
+
+> That part b) BE AMENDED to read as follows: b)    the Deputy City Manager of Environment and Infrastructure BE AUTHORIZED to approve and execute the upcoming Smart Commute Memorandum of Understanding ...
+
+Voted **Yea** - Motion Failed (3 to 3)
+
+### 2026-03-23: Smart Commute London: Additional Details and Memorandum of Understanding (MOU) Extension
+
+[6th Meeting of the Infrastructure and Corporate Services Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=e9890bd1-3ebf-47fa-8198-25a144b6365d&Agenda=PostMinutes&lang=English)
+
+> That the following part BE APPROVED b)    the Deputy City Manager of Environment and Infrastructure BE AUTHORIZED to approve and execute the upcoming Smart Commute Memorandum of Understanding (MOU) Am...
+
+Voted **Nay** - Motion Passed (5 to 1)
+
+### 2026-03-23: Local and Regional Food Producers and Processors in City Managed Facilities - Councillors S. Franke and H. McAlister
+
+[6th Meeting of the Infrastructure and Corporate Services Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=e9890bd1-3ebf-47fa-8198-25a144b6365d&Agenda=PostMinutes&lang=English)
+
+> That the Civic Administration BE DIRECTED to report back to a future meeting of the Infrastructure and Corporate Services Committee on policy compliant actions that could be taken to support increased...
+
+Voted **Nay** - Motion Passed (4 to 2)
+
 ### 2026-03-03: (4.1) Deputy Mayor S. Lewis, Councillors P. Cuddy and C. Rahman - Zoning By-law Amendment - Parking Changes
 
 [4th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
@@ -147,68 +195,22 @@ Voted **Nay** - Motion Passed (11 to 3)
 
 Voted **Nay** - Motion Passed (11 to 1)
 
-### 2026-03-03: (2.6) 2025 Ontario Works Participant and Service Delivery Profile
-
-[4th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
-
-> That, on the recommendation of the Deputy City Manager, Social and Health Development, the staff report dated February 17, 2026, with respect to the 2025 Ontario Works Participant and Service Delivery...
-
-Voted **Nay** - Motion Passed (12 to 1)
-
-### 2026-03-03: (2.2) Federation of Canadian Municipalities: Green Municipal Fund Agreement for Accelerating Community Energy Systems (Relates to Bill No. 97)
-
-[4th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
-
-> That on the recommendation of the Deputy City Manager, Environment & Infrastructure, the proposed by-law, as appended to the staff report dated February 23, 2026 as Appendix “A” BE INTRODUCED at the M...
-
-Voted **Nay** - Motion Passed (11 to 1)
-
-### 2026-03-03: (2.3) Federation of Canadian Municipalities: Green Municipal Fund Agreement for Municipal Fleet Decarbonization Feasibility Study (Relates to Bill No. 98)
-
-[4th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
-
-> That on the recommendation of the Deputy City Manager, Environment & Infrastructure, the proposed by-law, as appended to the staff report dated February 23, 2026 as Appendix “A”, BE INTRODUCED at the ...
-
-Voted **Nay** - Motion Passed (11 to 1)
-
-### 2026-03-03: (2.9) Contract Award: Tender No. RFT-2025-223 Wellington Gateway and Municipal Infrastructure Improvements Phase 2A – Wilkins Street to Baseline Road
-
-[4th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
-
-> That on the recommendation of the Deputy City Manager, Environment & Infrastructure, the following actions be taken with respect to the award of contracts for Wellington Gateway and Municipal Infrastr...
-
-Voted **Nay** - Motion Passed (11 to 1)
-
-### 2026-03-03: By-laws
-
-[4th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
-
-> That Introduction and First Reading of Bill No.’s 97 and 98, BE APPROVED.
-
-Voted **Nay** - Motion Passed (10 to 1)
-
-### 2026-03-03: By-laws
-
-[4th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
-
-> That Second Reading of Bill No.’s 97 and 98, BE APPROVED.
-
-Voted **Nay** - Motion Passed (10 to 1)
-
 
 ## Committees Served
 
+- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
+- [Corporate Services Committee](/committees/corporate-services)
 - [Planning and Environment Committee](/committees/planning-environment)
 - [City Council](/committees/city-council)
 - [Audit Committee](/committees/audit)
-- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
-- [Corporate Services Committee](/committees/corporate-services)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [Budget Committee](/committees/budget)
 - [Community Protective Services Committee](/committees/community-protective-services-committee)
 
-## Recent Meetings (198 total)
+## Recent Meetings (200 total)
 
+- [5th Meeting of the Strategic Priorities and Policy Committee](</months/2026-03/2026-03-24 5th Meeting of the Strategic Priorities and Policy Committee>) - Tue Mar 24 2026
+- [6th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-03/2026-03-23 6th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Mar 23 2026
 - [5th Meeting of the Planning and Environment Committee](</months/2026-03/2026-03-10 5th Meeting of the Planning and Environment Committee>) - Tue Mar 10 2026
 - [4th Council Meeting](</months/2026-03/2026-03-03 4th Council Meeting>) - Tue Mar 3 2026
 - [1st Meeting of the Audit Committee](</months/2026-02/2026-02-25 1st Meeting of the Audit Committee>) - Wed Feb 25 2026
@@ -217,5 +219,3 @@ Voted **Nay** - Motion Passed (10 to 1)
 - [4th Meeting of the Planning and Environment Committee](</months/2026-02/2026-02-18 4th Meeting of the Planning and Environment Committee>) - Wed Feb 18 2026
 - [3rd Meeting of the Community and Protective Services Committee](</months/2026-02/2026-02-17 3rd Meeting of the Community and Protective Services Committee>) - Tue Feb 17 2026
 - [3rd Council Meeting](</months/2026-02/2026-02-10 3rd Council Meeting>) - Tue Feb 10 2026
-- [3rd Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-03 3rd Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 3 2026
-- [3rd Meeting of the Infrastructure and Corporate Services Committee](</months/2026-02/2026-02-02 3rd Meeting of the Infrastructure and Corporate Services Committee>) - Mon Feb 2 2026

@@ -2,18 +2,18 @@
 title: "Skylar Franke"
 type: councillor
 slug: "s-franke"
-meetingCount: 195
+meetingCount: 197
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 3830
-votesYea: 3203
-votesNay: 321
+totalVotes: 3846
+votesYea: 3217
+votesNay: 323
 votesAbsent: 306
 attendanceRate: 96.4
 participationRate: 92.0
 yeaRate: 90.9
-contestedDissentRate: 23.6
-contestedVotes: 1363
+contestedDissentRate: 23.5
+contestedVotes: 1372
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -30,9 +30,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 3,830 |
-| Voted Yea | 3,203 (83.6%) |
-| Voted Nay | 321 (8.4%) |
+| Total Votes | 3,846 |
+| Voted Yea | 3,217 (83.6%) |
+| Voted Nay | 323 (8.4%) |
 | Absent | 306 (8.0%) |
 
 
@@ -42,17 +42,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,239 |
-| Voted Yea | 1,723 (86.4%) |
-| Voted Nay | 271 (13.6%) |
+| Substantive Votes | 2,247 |
+| Voted Yea | 1,730 (86.4%) |
+| Voted Nay | 272 (13.6%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 23.6%
-- **Contested Votes**: 1,363
+- **Dissent Rate**: 23.5%
+- **Contested Votes**: 1,372
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -72,7 +72,7 @@ prefillQuestions:
 ## Attendance
 
 - **Attendance Rate**: 96.4%
-- **Meetings Attended**: 188 of 195
+- **Meetings Attended**: 189 of 196
 - **Meetings Missed**: 7
 - **Trend**: Stable -
 
@@ -80,7 +80,7 @@ prefillQuestions:
   - 2023: 98.4% (60/61 meetings)
   - 2024: 97.0% (65/67 meetings)
   - 2025: 91.8% (45/49 meetings)
-  - 2026: 100.0% (10/10 meetings)
+  - 2026: 100.0% (11/11 meetings)
 
 
 ## Voting Alignment
@@ -91,8 +91,8 @@ prefillQuestions:
 - David Ferreira (92.8%)
 
 **Least aligned with:**
-- Susan Stevenson (81.7%)
-- Paul Van Meerbergen (84.4%)
+- Susan Stevenson (81.5%)
+- Paul Van Meerbergen (84.5%)
 - Steve Hillier (89.0%)
 
 [View full voting alignment →](/councillors/alignment)
@@ -106,7 +106,7 @@ prefillQuestions:
 | Strategic Priorities and Policy Committee | 900 | 626 | 68 | 77.1% |
 | Planning and Environment Committee | 632 | 600 | 22 | 98.4% |
 | Budget Committee | 189 | 142 | 47 | 100.0% |
-| Infrastructure and Corporate Services Committee | 121 | 102 | 11 | 93.4% |
+| Infrastructure and Corporate Services Committee | 137 | 116 | 13 | 94.2% |
 | Civic Works Committee | 55 | 51 | 0 | 92.7% |
 
 
@@ -121,6 +121,22 @@ prefillQuestions:
 > That part a) ii) BE APPROVED: ii) partial (or full) development charge rebate options for new residential development, including options that could be targeted by unit type and ability to meet HAF tim...
 
 Voted **Nay** - Motion Passed (10 to 4)
+
+### 2026-03-23: Pollution Prevention and Control Plan Update Study - Notice of Completion
+
+[6th Meeting of the Infrastructure and Corporate Services Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=e9890bd1-3ebf-47fa-8198-25a144b6365d&Agenda=PostMinutes&lang=English)
+
+> That the following part BE APPROVED: d)    the Civic Administration BE DIRECTED to report back to a future meeting of the Infrastructure and Corporate Services Committee with a proposed implementation...
+
+Voted **Yea** - Motion Failed (2 to 4)
+
+### 2026-03-23: Enhanced Reporting for Procurement Disqualifications and Bids and Tender Issues - Councillor S. Stevenson
+
+[6th Meeting of the Infrastructure and Corporate Services Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=e9890bd1-3ebf-47fa-8198-25a144b6365d&Agenda=PostMinutes&lang=English)
+
+> That the communication dated March 16, 2026, from Councillor S. Stevenson, with respect to Enhanced Reporting for Procurement Disqualifications and Bids & Tender Issues, BE RECEIVED.
+
+Voted **Nay** - Motion Passed (4 to 1)
 
 ### 2026-03-03: (3.6) Additional Residential Unit Permissions - Z-25159 (Relates to Bill No. 124)
 
@@ -178,35 +194,21 @@ Voted **Nay** - Motion Passed (10 to 1)
 
 Voted **Nay** - Motion Passed (10 to 1)
 
-### 2026-03-03: By-laws
-
-[4th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
-
-> That Third Reading and Enactment of Revised Bill No.124 and Added Bill No. 125, BE APPROVED.
-
-Voted **Nay** - Motion Passed (10 to 1)
-
-### 2026-02-23: Update to Council Policy - Travel and Business Expenses
-
-[4th Meeting of the Infrastructure and Corporate Services Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=e7317b73-f2ee-4a30-a66e-a583fad79467&Agenda=PostMinutes&lang=English)
-
-> That the motion BE AMENDED to include a new part that reads as follows: the Civic Administration BE DIRECTED to prepare two separate policies: one governing Travel and Business Expenses for Civic Admi...
-
-Voted **Nay** - Motion Passed (3 to 2)
-
 
 ## Committees Served
 
-- [City Council](/committees/city-council)
-- [Corporate Services Committee](/committees/corporate-services)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
+- [Corporate Services Committee](/committees/corporate-services)
+- [City Council](/committees/city-council)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [Planning and Environment Committee](/committees/planning-environment)
 - [Budget Committee](/committees/budget)
 - [Civic Works Committee](/committees/civic-works)
 
-## Recent Meetings (195 total)
+## Recent Meetings (197 total)
 
+- [5th Meeting of the Strategic Priorities and Policy Committee](</months/2026-03/2026-03-24 5th Meeting of the Strategic Priorities and Policy Committee>) - Tue Mar 24 2026
+- [6th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-03/2026-03-23 6th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Mar 23 2026
 - [4th Council Meeting](</months/2026-03/2026-03-03 4th Council Meeting>) - Tue Mar 3 2026
 - [5th Special Meeting of the Infrastructure and Corporate Services Committee](</months/2026-03/2026-03-02 5th Special Meeting of the Infrastructure and Corporate Services Committee>) - Mon Mar 2 2026
 - [4th Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-24 4th Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 24 2026
@@ -215,5 +217,3 @@ Voted **Nay** - Motion Passed (3 to 2)
 - [3rd Council Meeting](</months/2026-02/2026-02-10 3rd Council Meeting>) - Tue Feb 10 2026
 - [3rd Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-03 3rd Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 3 2026
 - [3rd Meeting of the Infrastructure and Corporate Services Committee](</months/2026-02/2026-02-02 3rd Meeting of the Infrastructure and Corporate Services Committee>) - Mon Feb 2 2026
-- [3rd Meeting of the Planning and Environment Committee](</months/2026-01/2026-01-27 3rd Meeting of the Planning and Environment Committee>) - Tue Jan 27 2026
-- [2nd Meeting of the Strategic Priorities and Policy Committee](</months/2026-01/2026-01-13 2nd Meeting of the Strategic Priorities and Policy Committee>) - Tue Jan 13 2026
