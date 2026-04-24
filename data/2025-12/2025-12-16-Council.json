@@ -145,5 +145,211 @@
   "present": [],
   "absent": [],
   "also_present": [],
-  "items": {}
+  "items": {},
+  "transcript_votes": [
+    {
+      "item": "Seeing none, we'll open that for voting.",
+      "outcome": "Carried",
+      "vote_count": "12-0",
+      "source": "transcript"
+    },
+    {
+      "item": "All right, we're on to Item 5, which is confirmation and signing of the minutes of previous meetings.",
+      "outcome": "Carried",
+      "vote_count": "12-0",
+      "source": "transcript"
+    },
+    {
+      "item": "Seeing none, we'll open that for voting.",
+      "outcome": "Carried",
+      "vote_count": "12-0",
+      "source": "transcript"
+    },
+    {
+      "item": "So we're just going to open that for voting.",
+      "outcome": "Carried",
+      "vote_count": "11-1",
+      "source": "transcript"
+    },
+    {
+      "item": "We'll open that for voting.",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "And so we're going to open that for voting.",
+      "outcome": "Failed",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "Then we'll open that for voting.",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "We'll open that for voting.",
+      "outcome": "Failed",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "So as it came through committee, we'll open that for voting.",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "",
+      "outcome": "Failed",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "We'll open that for voting now.",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "That motion is on the floor.",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "Okay, we're going to open that for voting.",
+      "outcome": "Carried",
+      "vote_count": "12-0",
+      "source": "transcript"
+    },
+    {
+      "item": "Okay, so the as amended motion is now on the floor, moved and seconded any discussion on that.",
+      "outcome": "Carried",
+      "vote_count": "12-0",
+      "source": "transcript"
+    },
+    {
+      "item": "Okay, that's now separate and on the floor by the Chair.",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "So I'm going to put that on the floor.",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "We'll open that for voting.",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "I would like to present the first report of the committee and protective service committee, and currently I did have a request for 0.4589 pulled, so if there are no additional requests, I would like to put on the floor 1, 2, 3, 6, 7, and 10 for this.",
+      "outcome": "Carried",
+      "vote_count": "12-0",
+      "source": "transcript"
+    },
+    {
+      "item": "",
+      "outcome": "Carried",
+      "vote_count": "11-1",
+      "source": "transcript"
+    },
+    {
+      "item": "Councillor, you're bringing up properties unrelated to the motion on the floor before us.",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "We'll open that for voting.",
+      "outcome": "Failed",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "I'll open that for voting.",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "Seeing none, we'll open that for voting.",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "Everybody's spoken, so we're going to open that for voting.",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "",
+      "outcome": "Failed",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "",
+      "outcome": "Failed",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "Okay, we're going to open this for voting.",
+      "outcome": "Failed",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "You have that on the floor.",
+      "outcome": "Carried",
+      "vote_count": "12-0",
+      "source": "transcript"
+    },
+    {
+      "item": "Councilor Stevenson's putting the whole thing on the floor.",
+      "outcome": "Carried",
+      "vote_count": "12-0",
+      "source": "transcript"
+    },
+    {
+      "item": "So that's on the floor.",
+      "outcome": "Carried",
+      "vote_count": "12-0",
+      "source": "transcript"
+    },
+    {
+      "item": "We'll open that for voting.",
+      "outcome": "Carried",
+      "vote_count": "11-1",
+      "source": "transcript"
+    },
+    {
+      "item": "So everything else including the addeds will now be on the floor.",
+      "outcome": "Carried",
+      "vote_count": "12-0",
+      "source": "transcript"
+    },
+    {
+      "item": "So we're going to open that for voting.",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    }
+  ]
 }

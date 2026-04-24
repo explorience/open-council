@@ -19,5 +19,211 @@
   "transcript_duration": "2 hours, 52 minutes",
   "data_sources": {
     "transcript": true
-  }
+  },
+  "transcript_votes": [
+    {
+      "item": "OK, we'll open the vote to go into closed session.",
+      "outcome": "Carried",
+      "vote_count": "15-0",
+      "source": "transcript"
+    },
+    {
+      "item": "OK, so those are on the floor.",
+      "outcome": "Carried",
+      "vote_count": "15-0",
+      "source": "transcript"
+    },
+    {
+      "item": "OK, we'll open that for voting.",
+      "outcome": "Carried",
+      "vote_count": "15-0",
+      "source": "transcript"
+    },
+    {
+      "item": "Thank you, I'll put that on the floor.",
+      "outcome": "Carried",
+      "vote_count": "15-0",
+      "source": "transcript"
+    },
+    {
+      "item": "",
+      "outcome": "Failed",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "I'll go to speakers on the staff recommendation, which is on the floor by the chair.",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "Okay, that part's referred, but we have the original staff recommendations still on the floor by the chair.",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "Okay, we'll open that for voting.",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "I wanna open that for voting.",
+      "outcome": "Failed",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "Okay, so back to the item as it came through committee, which is put on the floor by Councillor ramen and the other speakers to that.",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "All right, those items are on the floor.",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "All right, that's on the floor.",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "",
+      "outcome": "Carried",
+      "vote_count": "14-0",
+      "source": "transcript"
+    },
+    {
+      "item": "I see no one else so we'll open that for voting.",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "Nope, we're gonna open that for voting.",
+      "outcome": "Carried",
+      "vote_count": "14-0",
+      "source": "transcript"
+    },
+    {
+      "item": "Nope, we're gonna open that for voting.",
+      "outcome": "Carried",
+      "vote_count": "14-0",
+      "source": "transcript"
+    },
+    {
+      "item": "Okay, that's on the floor.",
+      "outcome": "Carried",
+      "vote_count": "13-1",
+      "source": "transcript"
+    },
+    {
+      "item": "Okay, that's on the floor.",
+      "outcome": "Carried",
+      "vote_count": "13-1",
+      "source": "transcript"
+    },
+    {
+      "item": "All right, that's on the floor, any discussion?",
+      "outcome": "Carried",
+      "vote_count": "13-1",
+      "source": "transcript"
+    },
+    {
+      "item": "Okay, that's on the floor, I'll look for any speakers.",
+      "outcome": "Carried",
+      "vote_count": "12-2",
+      "source": "transcript"
+    },
+    {
+      "item": "I just wanted to make a comment on item 10 for 325 Grey Street, just a thanks from the residents, one of the sweetest human beings around.",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "We're gonna open that for voting.",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "So you get to stay there and that's on the floor.",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "Seeing none, we'll open that for voting.",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "Seeing none, we'll open that for voting.",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "Third reading of those bills, we'll open that for voting.",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "Third reading of those bills, we'll open that for voting.",
+      "outcome": "Carried",
+      "vote_count": "14-0",
+      "source": "transcript"
+    },
+    {
+      "item": "Okay, seeing none, we'll open that for voting.",
+      "outcome": "Carried",
+      "vote_count": "14-0",
+      "source": "transcript"
+    },
+    {
+      "item": "We will open that for voting.",
+      "outcome": "Carried",
+      "vote_count": "13-1",
+      "source": "transcript"
+    },
+    {
+      "item": "We will open that for voting.",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    }
+  ]
 }

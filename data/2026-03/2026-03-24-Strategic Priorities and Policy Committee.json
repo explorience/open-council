@@ -16,5 +16,85 @@
   "present": [],
   "absent": [],
   "also_present": [],
-  "items": {}
+  "items": {},
+  "transcript_votes": [
+    {
+      "item": "",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "Moving on item 4.2 is the mayoral direction 2026001, creation of affordable home ownership incentive program, report back on program options.",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "So now it's on the floor and we'll just give the clerk a moment to get it written up to move it from a planning committee to SPPC.",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "So appreciate my other colleagues' desire to put this on the floor for your consideration and looking forward to your thoughts.",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    }
+  ]
 }

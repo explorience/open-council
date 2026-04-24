@@ -117,5 +117,67 @@
   "present": [],
   "absent": [],
   "also_present": [],
-  "items": {}
+  "items": {},
+  "transcript_votes": [
+    {
+      "item": "Seeing none we'll open the vote.",
+      "outcome": "Carried",
+      "vote_count": "15-0",
+      "source": "transcript"
+    },
+    {
+      "item": "Seeing none we'll open that for voting.",
+      "outcome": "Carried",
+      "vote_count": "15-0",
+      "source": "transcript"
+    },
+    {
+      "item": "Okay we're going to open that for voting.",
+      "outcome": "Carried",
+      "vote_count": "14-1",
+      "source": "transcript"
+    },
+    {
+      "item": "Okay we're going to open that for voting.",
+      "outcome": "Carried",
+      "vote_count": "387-395",
+      "source": "transcript"
+    },
+    {
+      "item": "Council of the Corporation of City of London acting as the approving authority pursuant to the expropriations act RSO 1990 CE 26 as amended hereby approves the proposed expropriation of lands described in schedule A as appended to the staff report da...",
+      "outcome": "Carried",
+      "vote_count": "12-3",
+      "source": "transcript"
+    },
+    {
+      "item": "Mary Lewis okay seconded as amended all right so we're on the as amended motion now which includes the additional direction to the site plan authority any discussion on this go ahead Councilor ramen thank you and through you so although we did make t...",
+      "outcome": "Carried",
+      "vote_count": "12-2",
+      "source": "transcript"
+    },
+    {
+      "item": "Mary Lewis okay seconded as amended all right so we're on the as amended motion now which includes the additional direction to the site plan authority any discussion on this go ahead Councilor ramen thank you and through you so although we did make t...",
+      "outcome": "Carried",
+      "vote_count": "13-1",
+      "source": "transcript"
+    },
+    {
+      "item": "Mathers do you through the chair yeah that's a part of our standard subdivision process so absolutely that is accurate go ahead thank you any other speakers to the as amended motion right seeing none we'll open that for voting closing the vote motion...",
+      "outcome": "Carried",
+      "vote_count": "11-3",
+      "source": "transcript"
+    },
+    {
+      "item": "Wallace is something that could be done on the developer side as well so there are options the developer can exercise and and through my understanding is through impact in order to be able to recoup some of that cost is the lancet's vacant even if al...",
+      "outcome": "Carried",
+      "vote_count": "13-2",
+      "source": "transcript"
+    },
+    {
+      "item": "Joseph health care London and London Health Sciences the vendor to sell the subject property to the city for the sum of a hundred thirty thousand and grant a temporary easement for the sum of eight thousand for a term of two years with an option to e...",
+      "outcome": "Carried",
+      "vote_count": "13-2",
+      "source": "transcript"
+    }
+  ]
 }

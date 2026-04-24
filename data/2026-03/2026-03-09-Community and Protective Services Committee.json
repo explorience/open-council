@@ -16,5 +16,157 @@
   "present": [],
   "absent": [],
   "also_present": [],
-  "items": {}
+  "items": {},
+  "transcript_votes": [
+    {
+      "item": "",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "That's item 3.1, which includes a public participation meeting.",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "",
+      "outcome": "Failed",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "Our first item for direction is item 4.1, which is a communication from Councilor McAllister.",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "Okay, looking for speakers online, seeing none, looking for those in Chamber, seeing none, we'll open the vote on the amendment.",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "So I'll put it on the floor.",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "What I'd like to do is I'd like to hear the delegation request first, and then I'd look for a motion or an alternate motion to be put on the floor for a discussion.",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "Okay, would I be able to come back and re-ask this if it gets on the floor?",
+      "outcome": "Failed",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "Thank you and I will look for any final speakers on this item, seeing none online, seeing none in chambers, we'll open the vote.",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "Thank you and I will look for any final speakers on this item, seeing none online, seeing none in chambers, we'll open the vote.",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "This is on item 5.2, the community housing financial challenges.",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "",
+      "outcome": "Failed",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "",
+      "outcome": "Failed",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    }
+  ]
 }

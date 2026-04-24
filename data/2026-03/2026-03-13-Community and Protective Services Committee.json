@@ -16,5 +16,13 @@
   "present": [],
   "absent": [],
   "also_present": [],
-  "items": {}
+  "items": {},
+  "transcript_votes": [
+    {
+      "item": "",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    }
+  ]
 }

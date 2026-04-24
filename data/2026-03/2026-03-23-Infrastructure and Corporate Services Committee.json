@@ -16,5 +16,109 @@
   "present": [],
   "absent": [],
   "also_present": [],
-  "items": {}
+  "items": {},
+  "transcript_votes": [
+    {
+      "item": "",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "",
+      "outcome": "Failed",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "",
+      "outcome": "Failed",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "So we're gonna do B first and we'll open that for voting.",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "Okay, we'll open the vote on that.",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "Okay, thank you, okay, the motion's on the floor, any other comments or questions about this, okay?",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "Seeing any, we'll open the vote.",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "I'll second that and that's on the floor, looking for speakers.",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "Seeing any, we'll open the vote on this.",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "Councilor Van Mirbergen, okay, we'll open that for voting.",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "Councilor Van Mirbergen, okay, we'll open that for voting.",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    }
+  ]
 }

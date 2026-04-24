@@ -16,5 +16,67 @@
   "present": [],
   "absent": [],
   "also_present": [],
-  "items": {}
+  "items": {},
+  "transcript_votes": [
+    {
+      "item": "",
+      "outcome": "Carried",
+      "vote_count": "15-0",
+      "source": "transcript"
+    },
+    {
+      "item": "",
+      "outcome": "Carried",
+      "vote_count": "15-0",
+      "source": "transcript"
+    },
+    {
+      "item": "",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "We do still colleagues have two items on the agenda deal with 4.2, which is an amendment to the London Transit Commission board member composition, and then item 2.1 from consent, which was pulled at the start of the meeting.",
+      "outcome": "Carried",
+      "vote_count": "15-0",
+      "source": "transcript"
+    },
+    {
+      "item": "",
+      "outcome": "Failed",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    },
+    {
+      "item": "",
+      "outcome": "Carried",
+      "vote_count": "11-4",
+      "source": "transcript"
+    },
+    {
+      "item": "",
+      "outcome": "Carried",
+      "vote_count": "14-1",
+      "source": "transcript"
+    },
+    {
+      "item": "That concludes item 2.1 from our deferred from the consent agenda earlier.",
+      "outcome": "Carried",
+      "vote_count": "",
+      "source": "transcript"
+    }
+  ]
 }
