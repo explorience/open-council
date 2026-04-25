@@ -2,8 +2,8 @@
   "councillor": "Corrine Rahman",
   "slug": "c-rahman",
   "attendance": {
-    "totalMeetings": 208,
-    "present": 208,
+    "totalMeetings": 210,
+    "present": 210,
     "absent": 0,
     "remote": 0,
     "attendanceRate": 100,
@@ -35,98 +35,107 @@
       {
         "period": "2026",
         "attendanceRate": 100,
-        "meetingsAttended": 11,
-        "meetingsTotal": 11
+        "meetingsAttended": 13,
+        "meetingsTotal": 13
       }
     ],
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 3494,
-    "yeas": 2896,
-    "nays": 345,
+    "totalVotes": 3519,
+    "yeas": 2920,
+    "nays": 346,
     "absent": 253,
-    "participationRate": 92.75901545506584,
-    "yeaRate": 89.35513730330145,
-    "contestedDissentRate": 17.407686510926904,
-    "contestedVotes": 1327,
-    "substantiveVotes": 2093,
-    "substantiveYeas": 1580,
-    "substantiveNays": 290,
-    "substantiveParticipationRate": 89.34543717152414,
-    "substantiveYeaRate": 84.49197860962568
+    "participationRate": 92.81045751633987,
+    "yeaRate": 89.40600122473974,
+    "contestedDissentRate": 17.44360902255639,
+    "contestedVotes": 1330,
+    "substantiveVotes": 2110,
+    "substantiveYeas": 1596,
+    "substantiveNays": 291,
+    "substantiveParticipationRate": 89.43127962085308,
+    "substantiveYeaRate": 84.57869634340223
   },
   "budgetVoting": {
-    "totalBudgetVotes": 343,
-    "budgetYeas": 257,
+    "totalBudgetVotes": 344,
+    "budgetYeas": 258,
     "budgetNays": 86,
     "budgetAbsent": 0
   },
   "topAlignments": [
     {
       "councillor": "Josh Morgan",
-      "sharedVotes": 1289,
-      "agreedVotes": 1199,
-      "alignmentRate": 93.0178432893716
+      "sharedVotes": 1302,
+      "agreedVotes": 1212,
+      "alignmentRate": 93.08755760368663
     },
     {
       "councillor": "Steve Lehman",
-      "sharedVotes": 1359,
-      "agreedVotes": 1260,
-      "alignmentRate": 92.71523178807946
+      "sharedVotes": 1368,
+      "agreedVotes": 1269,
+      "alignmentRate": 92.76315789473685
     },
     {
       "councillor": "Steve Hillier",
-      "sharedVotes": 1367,
-      "agreedVotes": 1262,
-      "alignmentRate": 92.31894659839064
+      "sharedVotes": 1376,
+      "agreedVotes": 1271,
+      "alignmentRate": 92.36918604651163
     },
     {
       "councillor": "Jerry Pribil",
-      "sharedVotes": 1346,
-      "agreedVotes": 1242,
-      "alignmentRate": 92.27340267459138
+      "sharedVotes": 1361,
+      "agreedVotes": 1257,
+      "alignmentRate": 92.35855988243938
     },
     {
-      "councillor": "Shawn Lewis",
-      "sharedVotes": 1430,
-      "agreedVotes": 1318,
-      "alignmentRate": 92.16783216783216
+      "councillor": "Skylar Franke",
+      "sharedVotes": 1418,
+      "agreedVotes": 1307,
+      "alignmentRate": 92.17207334273625
     }
   ],
   "bottomAlignments": [
     {
       "councillor": "Susan Stevenson",
-      "sharedVotes": 1278,
-      "agreedVotes": 1080,
-      "alignmentRate": 84.50704225352112
+      "sharedVotes": 1287,
+      "agreedVotes": 1088,
+      "alignmentRate": 84.53768453768454
     },
     {
       "councillor": "Sam Trosow",
-      "sharedVotes": 1238,
-      "agreedVotes": 1047,
-      "alignmentRate": 84.5718901453958
+      "sharedVotes": 1253,
+      "agreedVotes": 1061,
+      "alignmentRate": 84.67677573822824
     },
     {
       "councillor": "Paul Van Meerbergen",
-      "sharedVotes": 1312,
-      "agreedVotes": 1148,
-      "alignmentRate": 87.5
+      "sharedVotes": 1321,
+      "agreedVotes": 1156,
+      "alignmentRate": 87.50946252838759
     },
     {
       "councillor": "David Ferreira",
-      "sharedVotes": 1231,
-      "agreedVotes": 1098,
-      "alignmentRate": 89.19577579203899
+      "sharedVotes": 1246,
+      "agreedVotes": 1113,
+      "alignmentRate": 89.32584269662921
     },
     {
       "councillor": "Anna Hopkins",
-      "sharedVotes": 1304,
-      "agreedVotes": 1173,
-      "alignmentRate": 89.95398773006134
+      "sharedVotes": 1310,
+      "agreedVotes": 1179,
+      "alignmentRate": 90
     }
   ],
   "notableDissents": [
+    {
+      "date": "2026-04-21",
+      "meetingTitle": "6th Meeting of the Strategic Priorities and Policy Committee",
+      "itemTitle": "Housing Accelerator Fund – 2026 Mid-Year Update",
+      "motionText": "That part a) BE APPROVED and reads as follows: That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the following actions be taken with respect to current initiatives ...",
+      "vote": "nay",
+      "result": "Motion Passed (9 to 4)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b5334fb8-e3e2-4e5b-b0c6-9e30a6392c59&Agenda=PostMinutes&lang=English"
+    },
     {
       "date": "2026-03-09",
       "meetingTitle": "4th Meeting of the Community and Protective Services Committee",
@@ -207,15 +216,6 @@
       "vote": "nay",
       "result": "Motion Passed (8 to 3)",
       "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-03-03",
-      "meetingTitle": "4th Council Meeting",
-      "itemTitle": "By-laws",
-      "motionText": "That Introduction and First Reading of Bill No.108, BE APPROVED.",
-      "vote": "nay",
-      "result": "Motion Passed (9 to 2)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English"
     }
   ],
   "committeeActivity": [
@@ -228,10 +228,10 @@
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 833,
-      "yeas": 583,
-      "nays": 72,
-      "participationRate": 78.63145258103242
+      "totalVotes": 847,
+      "yeas": 596,
+      "nays": 73,
+      "participationRate": 78.98465171192444
     },
     {
       "committee": "Planning and Environment Committee",
@@ -256,8 +256,8 @@
     },
     {
       "committee": "Community and Protective Services Committee",
-      "totalVotes": 78,
-      "yeas": 73,
+      "totalVotes": 89,
+      "yeas": 84,
       "nays": 5,
       "participationRate": 100
     },

@@ -2,11 +2,11 @@
   "councillor": "Susan Stevenson",
   "slug": "s-stevenson",
   "attendance": {
-    "totalMeetings": 214,
-    "present": 190,
+    "totalMeetings": 217,
+    "present": 193,
     "absent": 24,
     "remote": 1,
-    "attendanceRate": 88.78504672897196,
+    "attendanceRate": 88.94009216589862,
     "trend": [
       {
         "period": "2022",
@@ -34,78 +34,78 @@
       },
       {
         "period": "2026",
-        "attendanceRate": 87.5,
-        "meetingsAttended": 14,
-        "meetingsTotal": 16
+        "attendanceRate": 89.47368421052632,
+        "meetingsAttended": 17,
+        "meetingsTotal": 19
       }
     ],
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 3598,
-    "yeas": 2574,
-    "nays": 545,
+    "totalVotes": 3653,
+    "yeas": 2626,
+    "nays": 548,
     "absent": 479,
-    "participationRate": 86.68704836020011,
-    "yeaRate": 82.52645078550817,
-    "contestedDissentRate": 35.48872180451128,
-    "contestedVotes": 1330,
-    "substantiveVotes": 2217,
-    "substantiveYeas": 1520,
-    "substantiveNays": 348,
-    "substantiveParticipationRate": 84.25800631483988,
-    "substantiveYeaRate": 81.37044967880087
+    "participationRate": 86.88748973446482,
+    "yeaRate": 82.73471959672338,
+    "contestedDissentRate": 35.6071964017991,
+    "contestedVotes": 1334,
+    "substantiveVotes": 2239,
+    "substantiveYeas": 1540,
+    "substantiveNays": 350,
+    "substantiveParticipationRate": 84.41268423403305,
+    "substantiveYeaRate": 81.48148148148148
   },
   "budgetVoting": {
-    "totalBudgetVotes": 379,
-    "budgetYeas": 286,
-    "budgetNays": 83,
+    "totalBudgetVotes": 382,
+    "budgetYeas": 288,
+    "budgetNays": 84,
     "budgetAbsent": 10
   },
   "topAlignments": [
     {
       "councillor": "Paul Van Meerbergen",
-      "sharedVotes": 1351,
-      "agreedVotes": 1210,
-      "alignmentRate": 89.56328645447816
+      "sharedVotes": 1364,
+      "agreedVotes": 1222,
+      "alignmentRate": 89.58944281524927
     },
     {
       "councillor": "Peter Cuddy",
-      "sharedVotes": 1460,
-      "agreedVotes": 1300,
-      "alignmentRate": 89.04109589041096
+      "sharedVotes": 1486,
+      "agreedVotes": 1325,
+      "alignmentRate": 89.16554508748318
     },
     {
       "councillor": "Jerry Pribil",
-      "sharedVotes": 1432,
-      "agreedVotes": 1275,
-      "alignmentRate": 89.03631284916202
+      "sharedVotes": 1441,
+      "agreedVotes": 1283,
+      "alignmentRate": 89.03539208882721
     },
     {
       "councillor": "Steve Lehman",
-      "sharedVotes": 1388,
-      "agreedVotes": 1228,
-      "alignmentRate": 88.47262247838617
+      "sharedVotes": 1414,
+      "agreedVotes": 1253,
+      "alignmentRate": 88.61386138613861
     },
     {
       "councillor": "Steve Hillier",
-      "sharedVotes": 1340,
-      "agreedVotes": 1185,
-      "alignmentRate": 88.43283582089553
+      "sharedVotes": 1349,
+      "agreedVotes": 1193,
+      "alignmentRate": 88.43587842846553
     }
   ],
   "bottomAlignments": [
     {
       "councillor": "Sam Trosow",
-      "sharedVotes": 1322,
-      "agreedVotes": 1018,
-      "alignmentRate": 77.00453857791226
+      "sharedVotes": 1331,
+      "agreedVotes": 1026,
+      "alignmentRate": 77.08489857250188
     },
     {
       "councillor": "David Ferreira",
-      "sharedVotes": 1165,
-      "agreedVotes": 914,
-      "alignmentRate": 78.4549356223176
+      "sharedVotes": 1174,
+      "agreedVotes": 922,
+      "alignmentRate": 78.53492333901193
     },
     {
       "councillor": "Anna Hopkins",
@@ -115,18 +115,45 @@
     },
     {
       "councillor": "Skylar Franke",
-      "sharedVotes": 1345,
-      "agreedVotes": 1096,
-      "alignmentRate": 81.48698884758365
+      "sharedVotes": 1358,
+      "agreedVotes": 1107,
+      "alignmentRate": 81.51693667157585
     },
     {
       "councillor": "Corrine Rahman",
-      "sharedVotes": 1278,
-      "agreedVotes": 1080,
-      "alignmentRate": 84.50704225352112
+      "sharedVotes": 1287,
+      "agreedVotes": 1088,
+      "alignmentRate": 84.53768453768454
     }
   ],
   "notableDissents": [
+    {
+      "date": "2026-04-21",
+      "meetingTitle": "6th Meeting of the Strategic Priorities and Policy Committee",
+      "itemTitle": "London Transit Rapid Transit Operational Readiness Review",
+      "motionText": "That part b) BE APPROVED and reads as follows: b) the London Transit Commission BE DIRECTED to review the following opportunities and report back to Council on implementation, including timing, operat...",
+      "vote": "nay",
+      "result": "Motion Passed (11 to 2)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b5334fb8-e3e2-4e5b-b0c6-9e30a6392c59&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2026-04-20",
+      "meetingTitle": "7th Meeting of the Infrastructure and Corporate Services Committee",
+      "itemTitle": "2025 Year-End Operating Budget Monitoring Report",
+      "motionText": "That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to the 2025 Year-End Operating Budget Monitoring Report: a)   the 2025 Operating B...",
+      "vote": "nay",
+      "result": "Motion Passed (5 to 1)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=37b21bb0-d952-4107-8eb0-8e2ecddfc877&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2026-04-14",
+      "meetingTitle": "The 6th Meeting of the Planning and Environment Committee",
+      "itemTitle": "Councillor S. Franke - Tenant Assistance and Relocation Program ",
+      "motionText": "That the Civic Administration BE DIRECTED to explore and report back on the feasibility of establishing a Tenant Assistance and Relocation Program for the City of London by end of Q1 2027; it being no...",
+      "vote": "nay",
+      "result": "Motion Passed (2 to 1)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=af274368-f7ca-49b6-8d4f-aeba8a207974&Agenda=PostMinutes&lang=English"
+    },
     {
       "date": "2026-03-24",
       "meetingTitle": "5th Meeting of the Strategic Priorities and Policy Committee",
@@ -189,33 +216,6 @@
       "vote": "nay",
       "result": "Motion Passed (5 to 1)",
       "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=e9890bd1-3ebf-47fa-8198-25a144b6365d&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-03-23",
-      "meetingTitle": "6th Meeting of the Infrastructure and Corporate Services Committee",
-      "itemTitle": "Local and Regional Food Producers and Processors in City Managed Facilities - Councillors S. Franke and H. McAlister",
-      "motionText": "That the Civic Administration BE DIRECTED to report back to a future meeting of the Infrastructure and Corporate Services Committee on policy compliant actions that could be taken to support increased...",
-      "vote": "nay",
-      "result": "Motion Passed (4 to 2)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=e9890bd1-3ebf-47fa-8198-25a144b6365d&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-03-03",
-      "meetingTitle": "4th Council Meeting",
-      "itemTitle": "(4.1) Deputy Mayor S. Lewis, Councillors P. Cuddy and C. Rahman - Zoning By-law Amendment - Parking Changes",
-      "motionText": "That part b) and c) of the motion BE AMENDED to read as follows: b) amend section 4.19.6) h) I) as it applies to lands outside of Western University Near Campus Neighbourhood to allow a maximum drivew...",
-      "vote": "nay",
-      "result": "Motion Passed (11 to 3)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-03-03",
-      "meetingTitle": "4th Council Meeting",
-      "itemTitle": "(2.5) Affordable and Community Housing Update",
-      "motionText": "That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the staff report, dated February 17, 2026, updating Municipal Council on affordable and community housing within t...",
-      "vote": "nay",
-      "result": "Motion Passed (11 to 1)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English"
     }
   ],
   "committeeActivity": [
@@ -228,10 +228,17 @@
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 974,
-      "yeas": 668,
-      "nays": 93,
-      "participationRate": 78.13141683778234
+      "totalVotes": 988,
+      "yeas": 681,
+      "nays": 94,
+      "participationRate": 78.4412955465587
+    },
+    {
+      "committee": "Planning and Environment Committee",
+      "totalVotes": 201,
+      "yeas": 160,
+      "nays": 3,
+      "participationRate": 81.09452736318407
     },
     {
       "committee": "Budget Committee",
@@ -248,13 +255,6 @@
       "participationRate": 72.82608695652173
     },
     {
-      "committee": "Planning and Environment Committee",
-      "totalVotes": 164,
-      "yeas": 124,
-      "nays": 2,
-      "participationRate": 76.82926829268293
-    },
-    {
       "committee": "Community and Protective Services Committee",
       "totalVotes": 92,
       "yeas": 78,
@@ -263,10 +263,10 @@
     },
     {
       "committee": "Infrastructure and Corporate Services Committee",
-      "totalVotes": 54,
-      "yeas": 42,
-      "nays": 11,
-      "participationRate": 98.14814814814815
+      "totalVotes": 58,
+      "yeas": 45,
+      "nays": 12,
+      "participationRate": 98.27586206896551
     }
   ]
 }

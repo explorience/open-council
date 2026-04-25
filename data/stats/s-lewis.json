@@ -2,11 +2,11 @@
   "councillor": "Shawn Lewis",
   "slug": "s-lewis",
   "attendance": {
-    "totalMeetings": 485,
+    "totalMeetings": 487,
     "present": 480,
-    "absent": 5,
+    "absent": 7,
     "remote": 2,
-    "attendanceRate": 98.96907216494846,
+    "attendanceRate": 98.56262833675564,
     "trend": [
       {
         "period": "2018",
@@ -58,33 +58,33 @@
       },
       {
         "period": "2026",
-        "attendanceRate": 100,
+        "attendanceRate": 85.71428571428571,
         "meetingsAttended": 12,
-        "meetingsTotal": 12
+        "meetingsTotal": 14
       }
     ],
-    "trendDirection": "stable"
+    "trendDirection": "declining"
   },
   "voting": {
-    "totalVotes": 9050,
+    "totalVotes": 9101,
     "yeas": 7953,
     "nays": 501,
-    "absent": 596,
-    "participationRate": 93.41436464088397,
+    "absent": 647,
+    "participationRate": 92.89089111086693,
     "yeaRate": 94.07381121362668,
     "contestedDissentRate": 10.638297872340425,
     "contestedVotes": 2397,
-    "substantiveVotes": 5250,
+    "substantiveVotes": 5272,
     "substantiveYeas": 4260,
     "substantiveNays": 467,
-    "substantiveParticipationRate": 90.03809523809524,
+    "substantiveParticipationRate": 89.66236722306526,
     "substantiveYeaRate": 90.12058387983922
   },
   "budgetVoting": {
-    "totalBudgetVotes": 751,
+    "totalBudgetVotes": 752,
     "budgetYeas": 596,
     "budgetNays": 125,
-    "budgetAbsent": 30
+    "budgetAbsent": 31
   },
   "topAlignments": [
     {
@@ -252,17 +252,17 @@
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 2070,
+      "totalVotes": 2084,
       "yeas": 1510,
       "nays": 136,
-      "participationRate": 79.5169082125604
+      "participationRate": 78.9827255278311
     },
     {
       "committee": "Planning and Environment Committee",
-      "totalVotes": 1974,
+      "totalVotes": 2011,
       "yeas": 1891,
       "nays": 36,
-      "participationRate": 97.61904761904762
+      "participationRate": 95.82297364495275
     },
     {
       "committee": "Community and Protective Services Committee",

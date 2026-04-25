@@ -2,11 +2,11 @@
   "councillor": "Sam Trosow",
   "slug": "s-trosow",
   "attendance": {
-    "totalMeetings": 225,
-    "present": 216,
+    "totalMeetings": 227,
+    "present": 218,
     "absent": 9,
     "remote": 0,
-    "attendanceRate": 96,
+    "attendanceRate": 96.0352422907489,
     "trend": [
       {
         "period": "2022",
@@ -35,98 +35,116 @@
       {
         "period": "2026",
         "attendanceRate": 100,
-        "meetingsAttended": 10,
-        "meetingsTotal": 10
+        "meetingsAttended": 12,
+        "meetingsTotal": 12
       }
     ],
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 3573,
-    "yeas": 2589,
-    "nays": 587,
+    "totalVotes": 3598,
+    "yeas": 2612,
+    "nays": 589,
     "absent": 397,
-    "participationRate": 88.88888888888889,
-    "yeaRate": 81.5176322418136,
-    "contestedDissentRate": 45.91240875912409,
-    "contestedVotes": 1370,
-    "substantiveVotes": 2285,
-    "substantiveYeas": 1626,
-    "substantiveNays": 396,
-    "substantiveParticipationRate": 88.49015317286653,
-    "substantiveYeaRate": 80.41543026706232
+    "participationRate": 88.96609227348526,
+    "yeaRate": 81.59950015620119,
+    "contestedDissentRate": 45.9577567370721,
+    "contestedVotes": 1373,
+    "substantiveVotes": 2302,
+    "substantiveYeas": 1641,
+    "substantiveNays": 398,
+    "substantiveParticipationRate": 88.57515204170286,
+    "substantiveYeaRate": 80.48062775870525
   },
   "budgetVoting": {
-    "totalBudgetVotes": 381,
-    "budgetYeas": 287,
+    "totalBudgetVotes": 382,
+    "budgetYeas": 288,
     "budgetNays": 85,
     "budgetAbsent": 9
   },
   "topAlignments": [
     {
       "councillor": "Anna Hopkins",
-      "sharedVotes": 1436,
-      "agreedVotes": 1335,
-      "alignmentRate": 92.96657381615599
+      "sharedVotes": 1442,
+      "agreedVotes": 1340,
+      "alignmentRate": 92.92649098474341
     },
     {
       "councillor": "David Ferreira",
-      "sharedVotes": 1361,
-      "agreedVotes": 1241,
-      "alignmentRate": 91.18295371050698
+      "sharedVotes": 1376,
+      "agreedVotes": 1255,
+      "alignmentRate": 91.2063953488372
     },
     {
       "councillor": "Skylar Franke",
-      "sharedVotes": 1341,
-      "agreedVotes": 1211,
-      "alignmentRate": 90.30574198359433
+      "sharedVotes": 1350,
+      "agreedVotes": 1220,
+      "alignmentRate": 90.37037037037037
     },
     {
       "councillor": "Hadleigh McAlister",
-      "sharedVotes": 1522,
-      "agreedVotes": 1356,
-      "alignmentRate": 89.09329829172142
+      "sharedVotes": 1531,
+      "agreedVotes": 1365,
+      "alignmentRate": 89.15741345525801
     },
     {
       "councillor": "Elizabeth Peloza",
-      "sharedVotes": 1327,
-      "agreedVotes": 1147,
-      "alignmentRate": 86.43556895252449
+      "sharedVotes": 1331,
+      "agreedVotes": 1151,
+      "alignmentRate": 86.4763335837716
     }
   ],
   "bottomAlignments": [
     {
       "councillor": "Susan Stevenson",
-      "sharedVotes": 1322,
-      "agreedVotes": 1018,
-      "alignmentRate": 77.00453857791226
+      "sharedVotes": 1331,
+      "agreedVotes": 1026,
+      "alignmentRate": 77.08489857250188
     },
     {
       "councillor": "Paul Van Meerbergen",
-      "sharedVotes": 1303,
-      "agreedVotes": 1017,
-      "alignmentRate": 78.05065234075211
+      "sharedVotes": 1312,
+      "agreedVotes": 1025,
+      "alignmentRate": 78.125
     },
     {
       "councillor": "Steve Hillier",
-      "sharedVotes": 1299,
-      "agreedVotes": 1051,
-      "alignmentRate": 80.90839107005388
-    },
-    {
-      "councillor": "Peter Cuddy",
-      "sharedVotes": 1471,
-      "agreedVotes": 1212,
-      "alignmentRate": 82.39292997960571
+      "sharedVotes": 1308,
+      "agreedVotes": 1060,
+      "alignmentRate": 81.03975535168195
     },
     {
       "councillor": "Shawn Lewis",
       "sharedVotes": 1428,
       "agreedVotes": 1178,
       "alignmentRate": 82.49299719887955
+    },
+    {
+      "councillor": "Peter Cuddy",
+      "sharedVotes": 1480,
+      "agreedVotes": 1221,
+      "alignmentRate": 82.5
     }
   ],
   "notableDissents": [
+    {
+      "date": "2026-04-21",
+      "meetingTitle": "6th Meeting of the Strategic Priorities and Policy Committee",
+      "itemTitle": "Housing Accelerator Fund – 2026 Mid-Year Update",
+      "motionText": "That part a) BE APPROVED and reads as follows: That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the following actions be taken with respect to current initiatives ...",
+      "vote": "nay",
+      "result": "Motion Passed (9 to 4)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b5334fb8-e3e2-4e5b-b0c6-9e30a6392c59&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2026-04-13",
+      "meetingTitle": "6th Meeting of the Community and Protective Services Committee",
+      "itemTitle": "Tolpuddle Co-operative Inc. Capital and Operational Transition Plan",
+      "motionText": "That part e) of the motion BE APPROVED.",
+      "vote": "nay",
+      "result": "Motion Passed (4 to 1)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=ff4c9b98-bee7-4b0e-a830-f6cdabe087ea&Agenda=PostMinutes&lang=English"
+    },
     {
       "date": "2026-03-24",
       "meetingTitle": "5th Meeting of the Strategic Priorities and Policy Committee",
@@ -198,24 +216,6 @@
       "vote": "yea",
       "result": "Motion Failed (5 to 8)",
       "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-03-03",
-      "meetingTitle": "4th Council Meeting",
-      "itemTitle": "(4.1) Request for Reimbursement for Private Property Cleaning and Graffiti Removal Services",
-      "motionText": "That the Civic Administration BE DIRECTED to immediately reimburse the Old East Village BIA in the amount of $14,152.33 from the Community Investment Reserve Fund for previously expended costs related...",
-      "vote": "nay",
-      "result": "Motion Passed (10 to 3)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-02-17",
-      "meetingTitle": "3rd Meeting of the Community and Protective Services Committee",
-      "itemTitle": "Residential Rental Unit Licensing (RRUL) License Display",
-      "motionText": "That the Civic Administration BE DIRECTED to review and report back to a future meeting of the Community and Protective Services Committee the feasibility of posting on the City of London website the ...",
-      "vote": "yea",
-      "result": "Motion Failed (2 to 2)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=afc2a2c5-249f-437f-aa19-87ef83af95ca&Agenda=PostMinutes&lang=English"
     }
   ],
   "committeeActivity": [
@@ -228,17 +228,17 @@
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 931,
-      "yeas": 637,
-      "nays": 123,
-      "participationRate": 81.63265306122449
+      "totalVotes": 945,
+      "yeas": 650,
+      "nays": 124,
+      "participationRate": 81.9047619047619
     },
     {
       "committee": "Community and Protective Services Committee",
-      "totalVotes": 332,
-      "yeas": 288,
-      "nays": 34,
-      "participationRate": 96.98795180722891
+      "totalVotes": 343,
+      "yeas": 298,
+      "nays": 35,
+      "participationRate": 97.08454810495627
     },
     {
       "committee": "Budget Committee",

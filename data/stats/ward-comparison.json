@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-04-24T08:31:02.087Z",
+  "generatedAt": "2026-04-25T07:52:04.807Z",
   "wards": {
     "1": {
       "councillor": "Hadleigh McAlister",
       "slug": "h-mcalister",
-      "wardVotes": 1770,
+      "wardVotes": 1783,
       "cityYeaRate": 0.95,
       "wardYeaRate": 0.95,
       "difference": 0,
@@ -24,7 +24,7 @@
     "3": {
       "councillor": "Peter Cuddy",
       "slug": "p-cuddy",
-      "wardVotes": 1875,
+      "wardVotes": 1901,
       "cityYeaRate": 0.95,
       "wardYeaRate": 0.93,
       "difference": -0.02,
@@ -34,7 +34,7 @@
     "4": {
       "councillor": "Susan Stevenson",
       "slug": "s-stevenson",
-      "wardVotes": 1656,
+      "wardVotes": 1686,
       "cityYeaRate": 0.95,
       "wardYeaRate": 0.88,
       "difference": -0.08,
@@ -44,7 +44,7 @@
     "5": {
       "councillor": "Jerry Pribil",
       "slug": "j-pribil",
-      "wardVotes": 1808,
+      "wardVotes": 1823,
       "cityYeaRate": 0.95,
       "wardYeaRate": 0.94,
       "difference": -0.01,
@@ -54,7 +54,7 @@
     "6": {
       "councillor": "Sam Trosow",
       "slug": "s-trosow",
-      "wardVotes": 1667,
+      "wardVotes": 1682,
       "cityYeaRate": 0.95,
       "wardYeaRate": 0.88,
       "difference": -0.07,
@@ -64,7 +64,7 @@
     "7": {
       "councillor": "Corrine Rahman",
       "slug": "c-rahman",
-      "wardVotes": 1653,
+      "wardVotes": 1668,
       "cityYeaRate": 0.95,
       "wardYeaRate": 0.93,
       "difference": -0.02,
@@ -74,7 +74,7 @@
     "8": {
       "councillor": "Steve Lehman",
       "slug": "s-lehman",
-      "wardVotes": 3600,
+      "wardVotes": 3626,
       "cityYeaRate": 0.97,
       "wardYeaRate": 0.96,
       "difference": -0.01,
@@ -84,7 +84,7 @@
     "9": {
       "councillor": "Anna Hopkins",
       "slug": "a-hopkins",
-      "wardVotes": 4709,
+      "wardVotes": 4715,
       "cityYeaRate": 0.98,
       "wardYeaRate": 0.95,
       "difference": -0.03,
@@ -94,7 +94,7 @@
     "10": {
       "councillor": "Paul Van Meerbergen",
       "slug": "p-van-meerbergen",
-      "wardVotes": 4192,
+      "wardVotes": 4205,
       "cityYeaRate": 0.98,
       "wardYeaRate": 0.93,
       "difference": -0.05,
@@ -104,7 +104,7 @@
     "11": {
       "councillor": "Skylar Franke",
       "slug": "s-franke",
-      "wardVotes": 1782,
+      "wardVotes": 1795,
       "cityYeaRate": 0.96,
       "wardYeaRate": 0.94,
       "difference": -0.02,
@@ -114,7 +114,7 @@
     "12": {
       "councillor": "Elizabeth Peloza",
       "slug": "e-peloza",
-      "wardVotes": 3598,
+      "wardVotes": 3606,
       "cityYeaRate": 0.97,
       "wardYeaRate": 0.95,
       "difference": -0.02,
@@ -124,7 +124,7 @@
     "13": {
       "councillor": "David Ferreira",
       "slug": "d-ferreira",
-      "wardVotes": 1482,
+      "wardVotes": 1497,
       "cityYeaRate": 0.94,
       "wardYeaRate": 0.91,
       "difference": -0.03,
@@ -134,7 +134,7 @@
     "14": {
       "councillor": "Steve Hillier",
       "slug": "s-hillier",
-      "wardVotes": 3785,
+      "wardVotes": 3794,
       "cityYeaRate": 0.97,
       "wardYeaRate": 0.95,
       "difference": -0.02,

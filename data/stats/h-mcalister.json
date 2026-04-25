@@ -2,11 +2,11 @@
   "councillor": "Hadleigh McAlister",
   "slug": "h-mcalister",
   "attendance": {
-    "totalMeetings": 228,
-    "present": 215,
+    "totalMeetings": 230,
+    "present": 217,
     "absent": 13,
     "remote": 0,
-    "attendanceRate": 94.2982456140351,
+    "attendanceRate": 94.34782608695652,
     "trend": [
       {
         "period": "2022",
@@ -35,45 +35,45 @@
       {
         "period": "2026",
         "attendanceRate": 100,
-        "meetingsAttended": 11,
-        "meetingsTotal": 11
+        "meetingsAttended": 13,
+        "meetingsTotal": 13
       }
     ],
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 3735,
-    "yeas": 2997,
+    "totalVotes": 3753,
+    "yeas": 3015,
     "nays": 272,
     "absent": 466,
-    "participationRate": 87.52342704149933,
-    "yeaRate": 91.67941266442338,
-    "contestedDissentRate": 14.605929139551698,
-    "contestedVotes": 1383,
-    "substantiveVotes": 2380,
-    "substantiveYeas": 1767,
+    "participationRate": 87.58326671995736,
+    "yeaRate": 91.7249771828415,
+    "contestedDissentRate": 14.574314574314574,
+    "contestedVotes": 1386,
+    "substantiveVotes": 2387,
+    "substantiveYeas": 1774,
     "substantiveNays": 243,
-    "substantiveParticipationRate": 84.45378151260505,
-    "substantiveYeaRate": 87.91044776119404
+    "substantiveParticipationRate": 84.49937159614579,
+    "substantiveYeaRate": 87.95240456122954
   },
   "budgetVoting": {
-    "totalBudgetVotes": 386,
-    "budgetYeas": 304,
+    "totalBudgetVotes": 389,
+    "budgetYeas": 307,
     "budgetNays": 57,
     "budgetAbsent": 25
   },
   "topAlignments": [
     {
       "councillor": "Skylar Franke",
-      "sharedVotes": 1356,
-      "agreedVotes": 1285,
-      "alignmentRate": 94.76401179941003
+      "sharedVotes": 1369,
+      "agreedVotes": 1298,
+      "alignmentRate": 94.81373265157049
     },
     {
       "councillor": "Josh Morgan",
-      "sharedVotes": 1460,
-      "agreedVotes": 1377,
-      "alignmentRate": 94.31506849315069
+      "sharedVotes": 1473,
+      "agreedVotes": 1390,
+      "alignmentRate": 94.3652410047522
     },
     {
       "councillor": "Anna Hopkins",
@@ -83,9 +83,9 @@
     },
     {
       "councillor": "Jerry Pribil",
-      "sharedVotes": 1527,
-      "agreedVotes": 1423,
-      "alignmentRate": 93.18925998690243
+      "sharedVotes": 1536,
+      "agreedVotes": 1432,
+      "alignmentRate": 93.22916666666666
     },
     {
       "councillor": "Shawn Lewis",
@@ -97,33 +97,33 @@
   "bottomAlignments": [
     {
       "councillor": "Susan Stevenson",
-      "sharedVotes": 1466,
-      "agreedVotes": 1245,
-      "alignmentRate": 84.924965893588
+      "sharedVotes": 1479,
+      "agreedVotes": 1256,
+      "alignmentRate": 84.92224475997295
     },
     {
       "councillor": "Paul Van Meerbergen",
-      "sharedVotes": 1433,
-      "agreedVotes": 1261,
-      "alignmentRate": 87.99720865317515
+      "sharedVotes": 1446,
+      "agreedVotes": 1273,
+      "alignmentRate": 88.03596127247579
     },
     {
       "councillor": "Sam Trosow",
-      "sharedVotes": 1522,
-      "agreedVotes": 1356,
-      "alignmentRate": 89.09329829172142
+      "sharedVotes": 1531,
+      "agreedVotes": 1365,
+      "alignmentRate": 89.15741345525801
     },
     {
       "councillor": "Steve Hillier",
-      "sharedVotes": 1317,
-      "agreedVotes": 1194,
-      "alignmentRate": 90.66059225512528
+      "sharedVotes": 1326,
+      "agreedVotes": 1203,
+      "alignmentRate": 90.72398190045249
     },
     {
       "councillor": "David Ferreira",
-      "sharedVotes": 1287,
-      "agreedVotes": 1183,
-      "alignmentRate": 91.91919191919192
+      "sharedVotes": 1296,
+      "agreedVotes": 1192,
+      "alignmentRate": 91.9753086419753
     }
   ],
   "notableDissents": [
@@ -228,10 +228,10 @@
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 1030,
-      "yeas": 728,
+      "totalVotes": 1044,
+      "yeas": 742,
       "nays": 69,
-      "participationRate": 77.37864077669903
+      "participationRate": 77.68199233716476
     },
     {
       "committee": "Community and Protective Services Committee",
@@ -263,8 +263,8 @@
     },
     {
       "committee": "Infrastructure and Corporate Services Committee",
-      "totalVotes": 54,
-      "yeas": 47,
+      "totalVotes": 58,
+      "yeas": 51,
       "nays": 7,
       "participationRate": 100
     }

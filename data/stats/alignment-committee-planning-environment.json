@@ -1,10 +1,11 @@
 {
-  "generatedAt": "2026-04-24T08:31:02.080Z",
+  "generatedAt": "2026-04-25T07:52:04.799Z",
   "matrix": {
     "j-morgan": {
       "s-lewis": 93.33333333333333,
-      "p-cuddy": 97.14285714285714,
-      "s-lehman": 96,
+      "p-cuddy": 97.72727272727273,
+      "s-stevenson": 100,
+      "s-lehman": 96.61016949152543,
       "a-hopkins": 100,
       "s-franke": 93.33333333333333,
       "e-peloza": 88.23529411764706,
@@ -23,14 +24,15 @@
       "s-hillier": 99.023709902371
     },
     "p-cuddy": {
-      "j-morgan": 97.14285714285714,
+      "j-morgan": 97.72727272727273,
       "s-lewis": 100,
       "s-stevenson": 100,
-      "s-lehman": 98.99497487437185,
+      "s-lehman": 99.07407407407408,
       "e-peloza": 96.15384615384616,
       "s-hillier": 100
     },
     "s-stevenson": {
+      "j-morgan": 100,
       "s-lewis": 100,
       "p-cuddy": 100,
       "s-lehman": 100,
@@ -45,9 +47,9 @@
       "s-hillier": 100
     },
     "s-lehman": {
-      "j-morgan": 96,
+      "j-morgan": 96.61016949152543,
       "s-lewis": 98.67424242424242,
-      "p-cuddy": 98.99497487437185,
+      "p-cuddy": 99.07407407407408,
       "s-stevenson": 100,
       "c-rahman": 100,
       "a-hopkins": 90.625,
@@ -134,6 +136,6 @@
     }
   ],
   "type": "committee",
-  "motionCount": 2583,
+  "motionCount": 2600,
   "committeeName": "Planning and Environment Committee"
 }

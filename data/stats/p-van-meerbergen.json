@@ -2,11 +2,11 @@
   "councillor": "Paul Van Meerbergen",
   "slug": "p-van-meerbergen",
   "attendance": {
-    "totalMeetings": 583,
-    "present": 556,
+    "totalMeetings": 585,
+    "present": 558,
     "absent": 27,
     "remote": 6,
-    "attendanceRate": 95.36878216123499,
+    "attendanceRate": 95.38461538461539,
     "trend": [
       {
         "period": "2011",
@@ -83,39 +83,39 @@
       {
         "period": "2026",
         "attendanceRate": 100,
-        "meetingsAttended": 11,
-        "meetingsTotal": 11
+        "meetingsAttended": 13,
+        "meetingsTotal": 13
       }
     ],
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 8627,
-    "yeas": 6747,
-    "nays": 1009,
+    "totalVotes": 8645,
+    "yeas": 6764,
+    "nays": 1010,
     "absent": 871,
-    "participationRate": 89.9037904254086,
-    "yeaRate": 86.99071686436307,
-    "contestedDissentRate": 22.615461847389557,
-    "contestedVotes": 3984,
-    "substantiveVotes": 6082,
-    "substantiveYeas": 4661,
-    "substantiveNays": 816,
-    "substantiveParticipationRate": 90.05261427162118,
-    "substantiveYeaRate": 85.10133284644878
+    "participationRate": 89.92481203007519,
+    "yeaRate": 87.00797530228968,
+    "contestedDissentRate": 22.623526460998246,
+    "contestedVotes": 3987,
+    "substantiveVotes": 6089,
+    "substantiveYeas": 4667,
+    "substantiveNays": 817,
+    "substantiveParticipationRate": 90.06404992609623,
+    "substantiveYeaRate": 85.10211524434719
   },
   "budgetVoting": {
-    "totalBudgetVotes": 1357,
-    "budgetYeas": 969,
+    "totalBudgetVotes": 1360,
+    "budgetYeas": 972,
     "budgetNays": 348,
     "budgetAbsent": 40
   },
   "topAlignments": [
     {
       "councillor": "Steve Lehman",
-      "sharedVotes": 2770,
-      "agreedVotes": 2593,
-      "alignmentRate": 93.61010830324909
+      "sharedVotes": 2779,
+      "agreedVotes": 2601,
+      "alignmentRate": 93.59481827995681
     },
     {
       "councillor": "Shawn Lewis",
@@ -125,41 +125,41 @@
     },
     {
       "councillor": "Steve Hillier",
-      "sharedVotes": 2566,
-      "agreedVotes": 2378,
-      "alignmentRate": 92.6734216679657
+      "sharedVotes": 2575,
+      "agreedVotes": 2386,
+      "alignmentRate": 92.66019417475728
     },
     {
       "councillor": "Peter Cuddy",
-      "sharedVotes": 1457,
-      "agreedVotes": 1346,
-      "alignmentRate": 92.38160603980783
+      "sharedVotes": 1466,
+      "agreedVotes": 1354,
+      "alignmentRate": 92.36016371077763
     },
     {
       "councillor": "Josh Morgan",
-      "sharedVotes": 2773,
-      "agreedVotes": 2551,
-      "alignmentRate": 91.99423007573026
+      "sharedVotes": 2786,
+      "agreedVotes": 2563,
+      "alignmentRate": 91.99569274946158
     }
   ],
   "bottomAlignments": [
     {
       "councillor": "Sam Trosow",
-      "sharedVotes": 1303,
-      "agreedVotes": 1017,
-      "alignmentRate": 78.05065234075211
+      "sharedVotes": 1312,
+      "agreedVotes": 1025,
+      "alignmentRate": 78.125
     },
     {
       "councillor": "David Ferreira",
-      "sharedVotes": 1094,
-      "agreedVotes": 887,
-      "alignmentRate": 81.07861060329068
+      "sharedVotes": 1103,
+      "agreedVotes": 895,
+      "alignmentRate": 81.14233907524931
     },
     {
       "councillor": "Skylar Franke",
-      "sharedVotes": 1357,
-      "agreedVotes": 1146,
-      "alignmentRate": 84.45099484156226
+      "sharedVotes": 1370,
+      "agreedVotes": 1158,
+      "alignmentRate": 84.52554744525548
     },
     {
       "councillor": "Anna Hopkins",
@@ -169,12 +169,21 @@
     },
     {
       "councillor": "Corrine Rahman",
-      "sharedVotes": 1312,
-      "agreedVotes": 1148,
-      "alignmentRate": 87.5
+      "sharedVotes": 1321,
+      "agreedVotes": 1156,
+      "alignmentRate": 87.50946252838759
     }
   ],
   "notableDissents": [
+    {
+      "date": "2026-04-21",
+      "meetingTitle": "6th Meeting of the Strategic Priorities and Policy Committee",
+      "itemTitle": "London Transit Rapid Transit Operational Readiness Review",
+      "motionText": "That part b) BE APPROVED and reads as follows: b) the London Transit Commission BE DIRECTED to review the following opportunities and report back to Council on implementation, including timing, operat...",
+      "vote": "nay",
+      "result": "Motion Passed (11 to 2)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b5334fb8-e3e2-4e5b-b0c6-9e30a6392c59&Agenda=PostMinutes&lang=English"
+    },
     {
       "date": "2026-03-23",
       "meetingTitle": "6th Meeting of the Infrastructure and Corporate Services Committee",
@@ -255,15 +264,6 @@
       "vote": "yea",
       "result": "Motion Failed (7 to 8)",
       "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-02-10",
-      "meetingTitle": "3rd Council Meeting",
-      "itemTitle": "By-laws",
-      "motionText": "That Introduction and First Reading of Bill No.'s 66 and 83, BE APPROVED.",
-      "vote": "nay",
-      "result": "Motion Passed (12 to 3)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English"
     }
   ],
   "committeeActivity": [
@@ -276,10 +276,10 @@
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 2661,
-      "yeas": 1817,
-      "nays": 347,
-      "participationRate": 81.3228109733183
+      "totalVotes": 2675,
+      "yeas": 1830,
+      "nays": 348,
+      "participationRate": 81.42056074766356
     },
     {
       "committee": "Civic Works Committee",
@@ -304,10 +304,10 @@
     },
     {
       "committee": "Infrastructure and Corporate Services Committee",
-      "totalVotes": 137,
-      "yeas": 118,
+      "totalVotes": 141,
+      "yeas": 122,
       "nays": 16,
-      "participationRate": 97.8102189781022
+      "participationRate": 97.87234042553192
     }
   ]
 }

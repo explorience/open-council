@@ -2,11 +2,11 @@
   "councillor": "Elizabeth Peloza",
   "slug": "e-peloza",
   "attendance": {
-    "totalMeetings": 433,
-    "present": 425,
+    "totalMeetings": 435,
+    "present": 427,
     "absent": 8,
     "remote": 1,
-    "attendanceRate": 98.15242494226328,
+    "attendanceRate": 98.16091954022988,
     "trend": [
       {
         "period": "2018",
@@ -58,40 +58,40 @@
       },
       {
         "period": "2026",
-        "attendanceRate": 90.9090909090909,
-        "meetingsAttended": 10,
-        "meetingsTotal": 11
+        "attendanceRate": 92.3076923076923,
+        "meetingsAttended": 12,
+        "meetingsTotal": 13
       }
     ],
     "trendDirection": "declining"
   },
   "voting": {
-    "totalVotes": 7263,
-    "yeas": 5899,
-    "nays": 515,
-    "absent": 849,
-    "participationRate": 88.31061544816193,
-    "yeaRate": 91.97068911755535,
-    "contestedDissentRate": 17.24987678659438,
-    "contestedVotes": 2029,
-    "substantiveVotes": 4471,
-    "substantiveYeas": 3332,
-    "substantiveNays": 454,
-    "substantiveParticipationRate": 84.6790427197495,
-    "substantiveYeaRate": 88.00845219228738
+    "totalVotes": 7281,
+    "yeas": 5909,
+    "nays": 516,
+    "absent": 856,
+    "participationRate": 88.24337316302706,
+    "yeaRate": 91.96887159533074,
+    "contestedDissentRate": 17.273622047244093,
+    "contestedVotes": 2032,
+    "substantiveVotes": 4478,
+    "substantiveYeas": 3334,
+    "substantiveNays": 455,
+    "substantiveParticipationRate": 84.61366681554266,
+    "substantiveYeaRate": 87.99155449986804
   },
   "budgetVoting": {
-    "totalBudgetVotes": 716,
-    "budgetYeas": 571,
+    "totalBudgetVotes": 719,
+    "budgetYeas": 573,
     "budgetNays": 117,
-    "budgetAbsent": 28
+    "budgetAbsent": 29
   },
   "topAlignments": [
     {
       "councillor": "Josh Morgan",
-      "sharedVotes": 2804,
-      "agreedVotes": 2668,
-      "alignmentRate": 95.14978601997147
+      "sharedVotes": 2812,
+      "agreedVotes": 2676,
+      "alignmentRate": 95.16358463726885
     },
     {
       "councillor": "Shawn Lewis",
@@ -101,56 +101,65 @@
     },
     {
       "councillor": "Steve Lehman",
-      "sharedVotes": 2990,
-      "agreedVotes": 2831,
-      "alignmentRate": 94.68227424749163
+      "sharedVotes": 2994,
+      "agreedVotes": 2835,
+      "alignmentRate": 94.68937875751503
     },
     {
       "councillor": "Steve Hillier",
-      "sharedVotes": 2805,
-      "agreedVotes": 2625,
-      "alignmentRate": 93.58288770053476
+      "sharedVotes": 2809,
+      "agreedVotes": 2629,
+      "alignmentRate": 93.59202563189747
     },
     {
       "councillor": "Hadleigh McAlister",
-      "sharedVotes": 1345,
-      "agreedVotes": 1249,
-      "alignmentRate": 92.8624535315985
+      "sharedVotes": 1353,
+      "agreedVotes": 1257,
+      "alignmentRate": 92.90465631929047
     }
   ],
   "bottomAlignments": [
     {
       "councillor": "Susan Stevenson",
-      "sharedVotes": 1336,
-      "agreedVotes": 1132,
-      "alignmentRate": 84.73053892215569
+      "sharedVotes": 1344,
+      "agreedVotes": 1138,
+      "alignmentRate": 84.67261904761905
     },
     {
       "councillor": "Sam Trosow",
-      "sharedVotes": 1327,
-      "agreedVotes": 1147,
-      "alignmentRate": 86.43556895252449
+      "sharedVotes": 1331,
+      "agreedVotes": 1151,
+      "alignmentRate": 86.4763335837716
     },
     {
       "councillor": "David Ferreira",
-      "sharedVotes": 1166,
-      "agreedVotes": 1035,
-      "alignmentRate": 88.76500857632934
+      "sharedVotes": 1170,
+      "agreedVotes": 1039,
+      "alignmentRate": 88.8034188034188
     },
     {
       "councillor": "Corrine Rahman",
-      "sharedVotes": 1171,
-      "agreedVotes": 1055,
-      "alignmentRate": 90.09393680614859
+      "sharedVotes": 1175,
+      "agreedVotes": 1059,
+      "alignmentRate": 90.12765957446808
     },
     {
       "councillor": "Paul Van Meerbergen",
-      "sharedVotes": 2902,
-      "agreedVotes": 2626,
-      "alignmentRate": 90.48931771192281
+      "sharedVotes": 2910,
+      "agreedVotes": 2633,
+      "alignmentRate": 90.48109965635739
     }
   ],
   "notableDissents": [
+    {
+      "date": "2026-04-21",
+      "meetingTitle": "6th Meeting of the Strategic Priorities and Policy Committee",
+      "itemTitle": "Housing Accelerator Fund – 2026 Mid-Year Update",
+      "motionText": "That part a) BE APPROVED and reads as follows: That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the following actions be taken with respect to current initiatives ...",
+      "vote": "nay",
+      "result": "Motion Passed (9 to 4)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b5334fb8-e3e2-4e5b-b0c6-9e30a6392c59&Agenda=PostMinutes&lang=English"
+    },
     {
       "date": "2026-03-24",
       "meetingTitle": "5th Meeting of the Strategic Priorities and Policy Committee",
@@ -231,15 +240,6 @@
       "vote": "nay",
       "result": "Motion Passed (8 to 7)",
       "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-02-10",
-      "meetingTitle": "3rd Council Meeting",
-      "itemTitle": "(3.3) 644 - 664 Southdale Road East and 821 Nadine Avenue - Z-25153 (Relates to Bill No. 81)",
-      "motionText": "That item 7, clause 3.3, as amended, BE APPROVED.",
-      "vote": "nay",
-      "result": "Motion Passed (13 to 2)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English"
     }
   ],
   "committeeActivity": [
@@ -252,10 +252,10 @@
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 2050,
-      "yeas": 1377,
-      "nays": 132,
-      "participationRate": 73.60975609756098
+      "totalVotes": 2064,
+      "yeas": 1383,
+      "nays": 133,
+      "participationRate": 73.44961240310077
     },
     {
       "committee": "Planning and Environment Committee",
@@ -294,8 +294,8 @@
     },
     {
       "committee": "Infrastructure and Corporate Services Committee",
-      "totalVotes": 16,
-      "yeas": 13,
+      "totalVotes": 20,
+      "yeas": 17,
       "nays": 3,
       "participationRate": 100
     }
