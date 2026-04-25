@@ -5,12 +5,12 @@ slug: "s-lewis"
 meetingCount: 515
 yearsActive: "2018 - 2026"
 isCurrent: true
-totalVotes: 9050
+totalVotes: 9101
 votesYea: 7953
 votesNay: 501
-votesAbsent: 596
-attendanceRate: 99.0
-participationRate: 93.4
+votesAbsent: 647
+attendanceRate: 98.6
+participationRate: 92.9
 yeaRate: 94.1
 contestedDissentRate: 10.6
 contestedVotes: 2397
@@ -30,10 +30,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 9,050 |
-| Voted Yea | 7,953 (87.9%) |
+| Total Votes | 9,101 |
+| Voted Yea | 7,953 (87.4%) |
 | Voted Nay | 501 (5.5%) |
-| Absent | 596 (6.6%) |
+| Absent | 647 (7.1%) |
 
 
 ### Substantive Votes
@@ -42,7 +42,7 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 5,250 |
+| Substantive Votes | 5,272 |
 | Voted Yea | 4,260 (90.1%) |
 | Voted Nay | 467 (9.9%) |
 
@@ -63,24 +63,24 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 751 |
+| Budget Votes | 752 |
 | Voted Yea | 596 (82.7%) |
 | Voted Nay | 125 (17.3%) |
-| Absent | 30 |
+| Absent | 31 |
 
 
 ## Attendance
 
-- **Attendance Rate**: 99.0%
-- **Meetings Attended**: 480 of 485
-- **Meetings Missed**: 5
-- **Trend**: Stable -
+- **Attendance Rate**: 98.6%
+- **Meetings Attended**: 480 of 487
+- **Meetings Missed**: 7
+- **Trend**: Declining v
 
 **Attendance by Year:**
   - 2023: 100.0% (84/84 meetings)
   - 2024: 98.4% (62/63 meetings)
   - 2025: 96.3% (52/54 meetings)
-  - 2026: 100.0% (12/12 meetings)
+  - 2026: 85.7% (12/14 meetings)
 
 
 ## Voting Alignment
@@ -103,8 +103,8 @@ prefillQuestions:
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
 | Council | 4,044 | 3,748 | 241 | 98.6% |
-| Strategic Priorities and Policy Committee | 2,070 | 1,510 | 136 | 79.5% |
-| Planning and Environment Committee | 1,974 | 1,891 | 36 | 97.6% |
+| Strategic Priorities and Policy Committee | 2,084 | 1,510 | 136 | 79.0% |
+| Planning and Environment Committee | 2,011 | 1,891 | 36 | 95.8% |
 | Community and Protective Services Committee | 374 | 356 | 11 | 98.1% |
 | Civic Works Committee | 196 | 188 | 3 | 97.4% |
 | Corporate Services Committee | 194 | 164 | 5 | 87.1% |

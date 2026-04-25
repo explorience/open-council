@@ -2,18 +2,18 @@
 title: "Paul Van Meerbergen"
 type: councillor
 slug: "p-van-meerbergen"
-meetingCount: 515
+meetingCount: 517
 yearsActive: "2010 - 2026"
 isCurrent: true
-totalVotes: 8627
-votesYea: 6747
-votesNay: 1009
+totalVotes: 8645
+votesYea: 6764
+votesNay: 1010
 votesAbsent: 871
 attendanceRate: 95.4
 participationRate: 89.9
 yeaRate: 87.0
 contestedDissentRate: 22.6
-contestedVotes: 3984
+contestedVotes: 3987
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -31,9 +31,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 8,627 |
-| Voted Yea | 6,747 (78.2%) |
-| Voted Nay | 1,009 (11.7%) |
+| Total Votes | 8,645 |
+| Voted Yea | 6,764 (78.2%) |
+| Voted Nay | 1,010 (11.7%) |
 | Absent | 871 (10.1%) |
 
 
@@ -43,9 +43,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 6,082 |
-| Voted Yea | 4,661 (85.1%) |
-| Voted Nay | 816 (14.9%) |
+| Substantive Votes | 6,089 |
+| Voted Yea | 4,667 (85.1%) |
+| Voted Nay | 817 (14.9%) |
 
 
 ### Dissent on Contested Votes
@@ -53,7 +53,7 @@ prefillQuestions:
 *Only counts non-unanimous votes where the councillor participated*
 
 - **Dissent Rate**: 22.6%
-- **Contested Votes**: 3,984
+- **Contested Votes**: 3,987
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -64,8 +64,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 1,357 |
-| Voted Yea | 969 (73.6%) |
+| Budget Votes | 1,360 |
+| Voted Yea | 972 (73.6%) |
 | Voted Nay | 348 (26.4%) |
 | Absent | 40 |
 
@@ -73,7 +73,7 @@ prefillQuestions:
 ## Attendance
 
 - **Attendance Rate**: 95.4%
-- **Meetings Attended**: 556 of 583
+- **Meetings Attended**: 558 of 585
 - **Meetings Missed**: 27
 - **Trend**: Stable -
 
@@ -81,7 +81,7 @@ prefillQuestions:
   - 2023: 98.3% (57/58 meetings)
   - 2024: 98.4% (62/63 meetings)
   - 2025: 96.4% (53/55 meetings)
-  - 2026: 100.0% (11/11 meetings)
+  - 2026: 100.0% (13/13 meetings)
 
 
 ## Voting Alignment
@@ -104,16 +104,24 @@ prefillQuestions:
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
 | Council | 5,035 | 4,141 | 541 | 93.0% |
-| Strategic Priorities and Policy Committee | 2,661 | 1,817 | 347 | 81.3% |
+| Strategic Priorities and Policy Committee | 2,675 | 1,830 | 348 | 81.4% |
 | Civic Works Committee | 451 | 409 | 31 | 97.6% |
 | Budget Committee | 189 | 118 | 68 | 98.4% |
 | Corporate Services Committee | 154 | 144 | 6 | 97.4% |
-| Infrastructure and Corporate Services Committee | 137 | 118 | 16 | 97.8% |
+| Infrastructure and Corporate Services Committee | 141 | 122 | 16 | 97.9% |
 
 
 ## Notable Dissenting Votes
 
 *Recent split votes where Paul Van Meerbergen voted against the final outcome:*
+
+### 2026-04-21: London Transit Rapid Transit Operational Readiness Review
+
+[6th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b5334fb8-e3e2-4e5b-b0c6-9e30a6392c59&Agenda=PostMinutes&lang=English)
+
+> That part b) BE APPROVED and reads as follows: b) the London Transit Commission BE DIRECTED to review the following opportunities and report back to Council on implementation, including timing, operat...
+
+Voted **Nay** - Motion Passed (11 to 2)
 
 ### 2026-03-23: Smart Commute London: Additional Details and Memorandum of Understanding (MOU) Extension
 
@@ -187,14 +195,6 @@ Voted **Nay** - Motion Passed (11 to 4)
 
 Voted **Yea** - Motion Failed (7 to 8)
 
-### 2026-02-10: By-laws
-
-[3rd Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English)
-
-> That Introduction and First Reading of Bill No.'s 66 and 83, BE APPROVED.
-
-Voted **Nay** - Motion Passed (12 to 3)
-
 
 ## Committees Served
 
@@ -206,8 +206,10 @@ Voted **Nay** - Motion Passed (12 to 3)
 - [Civic Works Committee](/committees/civic-works)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 
-## Recent Meetings (515 total)
+## Recent Meetings (517 total)
 
+- [6th Meeting of the Strategic Priorities and Policy Committee](</months/2026-04/2026-04-21 6th Meeting of the Strategic Priorities and Policy Committee>) - Tue Apr 21 2026
+- [7th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-04/2026-04-20 7th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Apr 20 2026
 - [5th Meeting of the Strategic Priorities and Policy Committee](</months/2026-03/2026-03-24 5th Meeting of the Strategic Priorities and Policy Committee>) - Tue Mar 24 2026
 - [6th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-03/2026-03-23 6th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Mar 23 2026
 - [4th Council Meeting](</months/2026-03/2026-03-03 4th Council Meeting>) - Tue Mar 3 2026
@@ -216,5 +218,3 @@ Voted **Nay** - Motion Passed (12 to 3)
 - [4th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-02/2026-02-23 4th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Feb 23 2026
 - [3rd Council Meeting](</months/2026-02/2026-02-10 3rd Council Meeting>) - Tue Feb 10 2026
 - [3rd Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-03 3rd Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 3 2026
-- [3rd Meeting of the Infrastructure and Corporate Services Committee](</months/2026-02/2026-02-02 3rd Meeting of the Infrastructure and Corporate Services Committee>) - Mon Feb 2 2026
-- [3rd Meeting of the Planning and Environment Committee](</months/2026-01/2026-01-27 3rd Meeting of the Planning and Environment Committee>) - Tue Jan 27 2026

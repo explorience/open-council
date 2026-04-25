@@ -2,18 +2,18 @@
 title: "Corrine Rahman"
 type: councillor
 slug: "c-rahman"
-meetingCount: 234
+meetingCount: 236
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 3494
-votesYea: 2896
-votesNay: 345
+totalVotes: 3519
+votesYea: 2920
+votesNay: 346
 votesAbsent: 253
 attendanceRate: 100.0
 participationRate: 92.8
 yeaRate: 89.4
 contestedDissentRate: 17.4
-contestedVotes: 1327
+contestedVotes: 1330
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -30,9 +30,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 3,494 |
-| Voted Yea | 2,896 (82.9%) |
-| Voted Nay | 345 (9.9%) |
+| Total Votes | 3,519 |
+| Voted Yea | 2,920 (83.0%) |
+| Voted Nay | 346 (9.8%) |
 | Absent | 253 (7.2%) |
 
 
@@ -42,9 +42,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,093 |
-| Voted Yea | 1,580 (84.5%) |
-| Voted Nay | 290 (15.5%) |
+| Substantive Votes | 2,110 |
+| Voted Yea | 1,596 (84.6%) |
+| Voted Nay | 291 (15.4%) |
 
 
 ### Dissent on Contested Votes
@@ -52,7 +52,7 @@ prefillQuestions:
 *Only counts non-unanimous votes where the councillor participated*
 
 - **Dissent Rate**: 17.4%
-- **Contested Votes**: 1,327
+- **Contested Votes**: 1,330
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -63,16 +63,16 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 343 |
-| Voted Yea | 257 (74.9%) |
-| Voted Nay | 86 (25.1%) |
+| Budget Votes | 344 |
+| Voted Yea | 258 (75.0%) |
+| Voted Nay | 86 (25.0%) |
 | Absent | 0 |
 
 
 ## Attendance
 
 - **Attendance Rate**: 100.0%
-- **Meetings Attended**: 208 of 208
+- **Meetings Attended**: 210 of 210
 - **Meetings Missed**: 0
 - **Trend**: Stable -
 
@@ -80,19 +80,19 @@ prefillQuestions:
   - 2023: 100.0% (72/72 meetings)
   - 2024: 100.0% (61/61 meetings)
   - 2025: 100.0% (55/55 meetings)
-  - 2026: 100.0% (11/11 meetings)
+  - 2026: 100.0% (13/13 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
-- Josh Morgan (93.0%)
-- Steve Lehman (92.7%)
-- Steve Hillier (92.3%)
+- Josh Morgan (93.1%)
+- Steve Lehman (92.8%)
+- Steve Hillier (92.4%)
 
 **Least aligned with:**
 - Susan Stevenson (84.5%)
-- Sam Trosow (84.6%)
+- Sam Trosow (84.7%)
 - Paul Van Meerbergen (87.5%)
 
 [View full voting alignment →](/councillors/alignment)
@@ -103,11 +103,11 @@ prefillQuestions:
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
 | Council | 1,733 | 1,476 | 192 | 96.2% |
-| Strategic Priorities and Policy Committee | 833 | 583 | 72 | 78.6% |
+| Strategic Priorities and Policy Committee | 847 | 596 | 73 | 79.0% |
 | Planning and Environment Committee | 417 | 405 | 8 | 99.0% |
 | Budget Committee | 189 | 136 | 53 | 100.0% |
 | Infrastructure and Corporate Services Committee | 120 | 112 | 7 | 99.2% |
-| Community and Protective Services Committee | 78 | 73 | 5 | 100.0% |
+| Community and Protective Services Committee | 89 | 84 | 5 | 100.0% |
 | Corporate Services Committee | 67 | 61 | 2 | 94.0% |
 | Civic Works Committee | 57 | 50 | 6 | 98.2% |
 
@@ -115,6 +115,14 @@ prefillQuestions:
 ## Notable Dissenting Votes
 
 *Recent split votes where Corrine Rahman voted against the final outcome:*
+
+### 2026-04-21: Housing Accelerator Fund – 2026 Mid-Year Update
+
+[6th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b5334fb8-e3e2-4e5b-b0c6-9e30a6392c59&Agenda=PostMinutes&lang=English)
+
+> That part a) BE APPROVED and reads as follows: That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the following actions be taken with respect to current initiatives ...
+
+Voted **Nay** - Motion Passed (9 to 4)
 
 ### 2026-03-09: Short Term Accommodation Licensing and Penalties
 
@@ -188,14 +196,6 @@ Voted **Nay** - Motion Passed (8 to 3)
 
 Voted **Nay** - Motion Passed (8 to 3)
 
-### 2026-03-03: By-laws
-
-[4th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
-
-> That Introduction and First Reading of Bill No.108, BE APPROVED.
-
-Voted **Nay** - Motion Passed (9 to 2)
-
 
 ## Committees Served
 
@@ -209,8 +209,10 @@ Voted **Nay** - Motion Passed (9 to 2)
 - [Civic Works Committee](/committees/civic-works)
 - [Community Protective Services Committee](/committees/community-protective-services-committee)
 
-## Recent Meetings (234 total)
+## Recent Meetings (236 total)
 
+- [6th Meeting of the Strategic Priorities and Policy Committee](</months/2026-04/2026-04-21 6th Meeting of the Strategic Priorities and Policy Committee>) - Tue Apr 21 2026
+- [6th Meeting of the Community and Protective Services Committee](</months/2026-04/2026-04-13 6th Meeting of the Community and Protective Services Committee>) - Mon Apr 13 2026
 - [5th Meeting of the Strategic Priorities and Policy Committee](</months/2026-03/2026-03-24 5th Meeting of the Strategic Priorities and Policy Committee>) - Tue Mar 24 2026
 - [5th Special Meeting of the Community and Protective Services Committee](</months/2026-03/2026-03-13 5th Special Meeting of the Community and Protective Services Committee>) - Fri Mar 13 2026
 - [4th Meeting of the Community and Protective Services Committee](</months/2026-03/2026-03-09 4th Meeting of the Community and Protective Services Committee>) - Mon Mar 9 2026
@@ -219,5 +221,3 @@ Voted **Nay** - Motion Passed (9 to 2)
 - [4th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-02/2026-02-23 4th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Feb 23 2026
 - [3rd Meeting of the Community and Protective Services Committee](</months/2026-02/2026-02-17 3rd Meeting of the Community and Protective Services Committee>) - Tue Feb 17 2026
 - [3rd Council Meeting](</months/2026-02/2026-02-10 3rd Council Meeting>) - Tue Feb 10 2026
-- [3rd Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-03 3rd Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 3 2026
-- [3rd Meeting of the Infrastructure and Corporate Services Committee](</months/2026-02/2026-02-02 3rd Meeting of the Infrastructure and Corporate Services Committee>) - Mon Feb 2 2026

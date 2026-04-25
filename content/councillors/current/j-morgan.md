@@ -2,18 +2,18 @@
 title: "Josh Morgan"
 type: councillor
 slug: "j-morgan"
-meetingCount: 668
+meetingCount: 672
 yearsActive: "2014 - 2026"
 isCurrent: true
-totalVotes: 10868
-votesYea: 8981
+totalVotes: 10934
+votesYea: 9027
 votesNay: 567
-votesAbsent: 1320
+votesAbsent: 1340
 attendanceRate: 92.2
-participationRate: 87.9
+participationRate: 87.7
 yeaRate: 94.1
 contestedDissentRate: 5.4
-contestedVotes: 5376
+contestedVotes: 5379
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -31,10 +31,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 10,868 |
-| Voted Yea | 8,981 (82.6%) |
+| Total Votes | 10,934 |
+| Voted Yea | 9,027 (82.6%) |
 | Voted Nay | 567 (5.2%) |
-| Absent | 1,320 (12.1%) |
+| Absent | 1,340 (12.3%) |
 
 
 ### Substantive Votes
@@ -43,8 +43,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 7,914 |
-| Voted Yea | 6,487 (92.4%) |
+| Substantive Votes | 7,946 |
+| Voted Yea | 6,507 (92.4%) |
 | Voted Nay | 533 (7.6%) |
 
 
@@ -53,7 +53,7 @@ prefillQuestions:
 *Only counts non-unanimous votes where the councillor participated*
 
 - **Dissent Rate**: 5.4%
-- **Contested Votes**: 5,376
+- **Contested Votes**: 5,379
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -64,16 +64,16 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 1,410 |
-| Voted Yea | 1,214 (86.8%) |
-| Voted Nay | 184 (13.2%) |
+| Budget Votes | 1,413 |
+| Voted Yea | 1,217 (86.9%) |
+| Voted Nay | 184 (13.1%) |
 | Absent | 12 |
 
 
 ## Attendance
 
 - **Attendance Rate**: 92.2%
-- **Meetings Attended**: 720 of 781
+- **Meetings Attended**: 724 of 785
 - **Meetings Missed**: 61
 - **Trend**: Improving ^
 
@@ -81,7 +81,7 @@ prefillQuestions:
   - 2023: 56.2% (59/105 meetings)
   - 2024: 100.0% (61/61 meetings)
   - 2025: 100.0% (52/52 meetings)
-  - 2026: 100.0% (10/10 meetings)
+  - 2026: 100.0% (14/14 meetings)
 
 
 ## Voting Alignment
@@ -89,12 +89,12 @@ prefillQuestions:
 **Most aligned with:**
 - Steve Lehman (96.5%)
 - Shawn Lewis (96.1%)
-- Peter Cuddy (95.2%)
+- Peter Cuddy (95.3%)
 
 **Least aligned with:**
-- Sam Trosow (85.3%)
-- Susan Stevenson (86.6%)
-- David Ferreira (89.8%)
+- Sam Trosow (85.4%)
+- Susan Stevenson (86.7%)
+- David Ferreira (89.9%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -104,13 +104,13 @@ prefillQuestions:
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
 | Council | 5,188 | 4,805 | 265 | 97.7% |
-| Strategic Priorities and Policy Committee | 3,086 | 2,429 | 185 | 84.7% |
+| Strategic Priorities and Policy Committee | 3,100 | 2,443 | 185 | 84.8% |
 | Corporate Services Committee | 1,069 | 964 | 19 | 92.0% |
-| Planning and Environment Committee | 640 | 162 | 4 | 25.9% |
+| Planning and Environment Committee | 677 | 183 | 4 | 27.6% |
 | Civic Works Committee | 348 | 285 | 2 | 82.5% |
-| Community and Protective Services Committee | 296 | 181 | 14 | 65.9% |
+| Community and Protective Services Committee | 307 | 188 | 14 | 65.8% |
 | Budget Committee | 189 | 115 | 74 | 100.0% |
-| Infrastructure and Corporate Services Committee | 52 | 40 | 4 | 84.6% |
+| Infrastructure and Corporate Services Committee | 56 | 44 | 4 | 85.7% |
 
 
 ## Notable Dissenting Votes
@@ -202,22 +202,22 @@ Voted **Nay** - Motion Passed (11 to 4)
 
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Corporate Services Committee](/committees/corporate-services)
+- [Planning and Environment Committee](/committees/planning-environment)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [City Council](/committees/city-council)
-- [Planning and Environment Committee](/committees/planning-environment)
 - [Budget Committee](/committees/budget)
 - [Civic Works Committee](/committees/civic-works)
 - [Audit Committee](/committees/audit)
 
-## Recent Meetings (668 total)
+## Recent Meetings (672 total)
 
+- [6th Meeting of the Strategic Priorities and Policy Committee](</months/2026-04/2026-04-21 6th Meeting of the Strategic Priorities and Policy Committee>) - Tue Apr 21 2026
+- [7th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-04/2026-04-20 7th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Apr 20 2026
+- [The 6th Meeting of the Planning and Environment Committee](</months/2026-04/2026-04-14 The 6th Meeting of the Planning and Environment Committee>) - Tue Apr 14 2026
+- [6th Meeting of the Community and Protective Services Committee](</months/2026-04/2026-04-13 6th Meeting of the Community and Protective Services Committee>) - Mon Apr 13 2026
 - [5th Meeting of the Strategic Priorities and Policy Committee](</months/2026-03/2026-03-24 5th Meeting of the Strategic Priorities and Policy Committee>) - Tue Mar 24 2026
 - [6th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-03/2026-03-23 6th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Mar 23 2026
 - [5th Special Meeting of the Community and Protective Services Committee](</months/2026-03/2026-03-13 5th Special Meeting of the Community and Protective Services Committee>) - Fri Mar 13 2026
 - [4th Meeting of the Community and Protective Services Committee](</months/2026-03/2026-03-09 4th Meeting of the Community and Protective Services Committee>) - Mon Mar 9 2026
 - [4th Council Meeting](</months/2026-03/2026-03-03 4th Council Meeting>) - Tue Mar 3 2026
 - [4th Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-24 4th Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 24 2026
-- [3rd Council Meeting](</months/2026-02/2026-02-10 3rd Council Meeting>) - Tue Feb 10 2026
-- [3rd Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-03 3rd Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 3 2026
-- [2nd Meeting of the Strategic Priorities and Policy Committee](</months/2026-01/2026-01-13 2nd Meeting of the Strategic Priorities and Policy Committee>) - Tue Jan 13 2026
-- [2nd Meeting of the Infrastructure and Corporate Services Committee](</months/2026-01/2026-01-12 2nd Meeting of the Infrastructure and Corporate Services Committee>) - Mon Jan 12 2026

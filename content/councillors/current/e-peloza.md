@@ -2,18 +2,18 @@
 title: "Elizabeth Peloza"
 type: councillor
 slug: "e-peloza"
-meetingCount: 467
+meetingCount: 470
 yearsActive: "2018 - 2026"
 isCurrent: true
-totalVotes: 7263
-votesYea: 5899
-votesNay: 515
-votesAbsent: 849
+totalVotes: 7281
+votesYea: 5909
+votesNay: 516
+votesAbsent: 856
 attendanceRate: 98.2
-participationRate: 88.3
+participationRate: 88.2
 yeaRate: 92.0
-contestedDissentRate: 17.2
-contestedVotes: 2029
+contestedDissentRate: 17.3
+contestedVotes: 2032
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -30,10 +30,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 7,263 |
-| Voted Yea | 5,899 (81.2%) |
-| Voted Nay | 515 (7.1%) |
-| Absent | 849 (11.7%) |
+| Total Votes | 7,281 |
+| Voted Yea | 5,909 (81.2%) |
+| Voted Nay | 516 (7.1%) |
+| Absent | 856 (11.8%) |
 
 
 ### Substantive Votes
@@ -42,17 +42,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 4,471 |
-| Voted Yea | 3,332 (88.0%) |
-| Voted Nay | 454 (12.0%) |
+| Substantive Votes | 4,478 |
+| Voted Yea | 3,334 (88.0%) |
+| Voted Nay | 455 (12.0%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 17.2%
-- **Contested Votes**: 2,029
+- **Dissent Rate**: 17.3%
+- **Contested Votes**: 2,032
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -63,16 +63,16 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 716 |
-| Voted Yea | 571 (83.0%) |
+| Budget Votes | 719 |
+| Voted Yea | 573 (83.0%) |
 | Voted Nay | 117 (17.0%) |
-| Absent | 28 |
+| Absent | 29 |
 
 
 ## Attendance
 
 - **Attendance Rate**: 98.2%
-- **Meetings Attended**: 425 of 433
+- **Meetings Attended**: 427 of 435
 - **Meetings Missed**: 8
 - **Trend**: Declining v
 
@@ -80,19 +80,19 @@ prefillQuestions:
   - 2023: 98.3% (57/58 meetings)
   - 2024: 95.3% (61/64 meetings)
   - 2025: 96.6% (56/58 meetings)
-  - 2026: 90.9% (10/11 meetings)
+  - 2026: 92.3% (12/13 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
-- Josh Morgan (95.1%)
+- Josh Morgan (95.2%)
 - Shawn Lewis (95.1%)
 - Steve Lehman (94.7%)
 
 **Least aligned with:**
 - Susan Stevenson (84.7%)
-- Sam Trosow (86.4%)
+- Sam Trosow (86.5%)
 - David Ferreira (88.8%)
 
 [View full voting alignment →](/councillors/alignment)
@@ -103,18 +103,26 @@ prefillQuestions:
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
 | Council | 3,945 | 3,426 | 263 | 93.5% |
-| Strategic Priorities and Policy Committee | 2,050 | 1,377 | 132 | 73.6% |
+| Strategic Priorities and Policy Committee | 2,064 | 1,383 | 133 | 73.4% |
 | Planning and Environment Committee | 385 | 364 | 19 | 99.5% |
 | Community and Protective Services Committee | 320 | 270 | 22 | 91.3% |
 | Civic Works Committee | 284 | 274 | 8 | 99.3% |
 | Budget Committee | 189 | 122 | 67 | 100.0% |
 | Corporate Services Committee | 74 | 53 | 1 | 73.0% |
-| Infrastructure and Corporate Services Committee | 16 | 13 | 3 | 100.0% |
+| Infrastructure and Corporate Services Committee | 20 | 17 | 3 | 100.0% |
 
 
 ## Notable Dissenting Votes
 
 *Recent split votes where Elizabeth Peloza voted against the final outcome:*
+
+### 2026-04-21: Housing Accelerator Fund – 2026 Mid-Year Update
+
+[6th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b5334fb8-e3e2-4e5b-b0c6-9e30a6392c59&Agenda=PostMinutes&lang=English)
+
+> That part a) BE APPROVED and reads as follows: That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the following actions be taken with respect to current initiatives ...
+
+Voted **Nay** - Motion Passed (9 to 4)
 
 ### 2026-03-24: Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program - Report Back on Program Options
 
@@ -188,29 +196,24 @@ Voted **Nay** - Motion Passed (8 to 7)
 
 Voted **Nay** - Motion Passed (8 to 7)
 
-### 2026-02-10: (3.3) 644 - 664 Southdale Road East and 821 Nadine Avenue - Z-25153 (Relates to Bill No. 81)
-
-[3rd Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English)
-
-> That item 7, clause 3.3, as amended, BE APPROVED.
-
-Voted **Nay** - Motion Passed (13 to 2)
-
 
 ## Committees Served
 
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Corporate Services Committee](/committees/corporate-services)
+- [Community and Protective Services Committee](/committees/community-protective-services)
 - [City Council](/committees/city-council)
 - [Audit Committee](/committees/audit)
-- [Community and Protective Services Committee](/committees/community-protective-services)
 - [Planning and Environment Committee](/committees/planning-environment)
 - [Budget Committee](/committees/budget)
 - [Civic Works Committee](/committees/civic-works)
 - [Community Protective Services Committee](/committees/community-protective-services-committee)
 
-## Recent Meetings (467 total)
+## Recent Meetings (470 total)
 
+- [6th Meeting of the Strategic Priorities and Policy Committee](</months/2026-04/2026-04-21 6th Meeting of the Strategic Priorities and Policy Committee>) - Tue Apr 21 2026
+- [7th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-04/2026-04-20 7th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Apr 20 2026
+- [6th Meeting of the Community and Protective Services Committee](</months/2026-04/2026-04-13 6th Meeting of the Community and Protective Services Committee>) - Mon Apr 13 2026
 - [5th Meeting of the Strategic Priorities and Policy Committee](</months/2026-03/2026-03-24 5th Meeting of the Strategic Priorities and Policy Committee>) - Tue Mar 24 2026
 - [6th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-03/2026-03-23 6th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Mar 23 2026
 - [4th Council Meeting](</months/2026-03/2026-03-03 4th Council Meeting>) - Tue Mar 3 2026
@@ -218,6 +221,3 @@ Voted **Nay** - Motion Passed (13 to 2)
 - [4th Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-24 4th Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 24 2026
 - [3rd Meeting of the Community and Protective Services Committee](</months/2026-02/2026-02-17 3rd Meeting of the Community and Protective Services Committee>) - Tue Feb 17 2026
 - [3rd Council Meeting](</months/2026-02/2026-02-10 3rd Council Meeting>) - Tue Feb 10 2026
-- [3rd Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-03 3rd Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 3 2026
-- [3rd Meeting of the Planning and Environment Committee](</months/2026-01/2026-01-27 3rd Meeting of the Planning and Environment Committee>) - Tue Jan 27 2026
-- [2nd Meeting of the Community and Protective Services Committee](</months/2026-01/2026-01-26 2nd Meeting of the Community and Protective Services Committee>) - Mon Jan 26 2026

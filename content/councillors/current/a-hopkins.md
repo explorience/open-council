@@ -2,18 +2,18 @@
 title: "Anna Hopkins"
 type: councillor
 slug: "a-hopkins"
-meetingCount: 652
+meetingCount: 653
 yearsActive: "2014 - 2026"
 isCurrent: true
-totalVotes: 9640
-votesYea: 8358
+totalVotes: 9665
+votesYea: 8369
 votesNay: 715
-votesAbsent: 567
-attendanceRate: 96.8
-participationRate: 94.1
+votesAbsent: 581
+attendanceRate: 96.7
+participationRate: 94.0
 yeaRate: 92.1
 contestedDissentRate: 12.9
-contestedVotes: 4942
+contestedVotes: 4943
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -30,10 +30,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 9,640 |
-| Voted Yea | 8,358 (86.7%) |
+| Total Votes | 9,665 |
+| Voted Yea | 8,369 (86.6%) |
 | Voted Nay | 715 (7.4%) |
-| Absent | 567 (5.9%) |
+| Absent | 581 (6.0%) |
 
 
 ### Substantive Votes
@@ -42,8 +42,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 6,977 |
-| Voted Yea | 5,906 (90.9%) |
+| Substantive Votes | 6,994 |
+| Voted Yea | 5,916 (90.9%) |
 | Voted Nay | 594 (9.1%) |
 
 
@@ -52,7 +52,7 @@ prefillQuestions:
 *Only counts non-unanimous votes where the councillor participated*
 
 - **Dissent Rate**: 12.9%
-- **Contested Votes**: 4,942
+- **Contested Votes**: 4,943
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -63,24 +63,24 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 1,099 |
+| Budget Votes | 1,100 |
 | Voted Yea | 927 (84.5%) |
 | Voted Nay | 170 (15.5%) |
-| Absent | 2 |
+| Absent | 3 |
 
 
 ## Attendance
 
-- **Attendance Rate**: 96.8%
-- **Meetings Attended**: 705 of 728
-- **Meetings Missed**: 23
-- **Trend**: Stable -
+- **Attendance Rate**: 96.7%
+- **Meetings Attended**: 706 of 730
+- **Meetings Missed**: 24
+- **Trend**: Declining v
 
 **Attendance by Year:**
   - 2023: 91.7% (55/60 meetings)
   - 2024: 98.4% (60/61 meetings)
   - 2025: 96.4% (53/55 meetings)
-  - 2026: 100.0% (10/10 meetings)
+  - 2026: 91.7% (11/12 meetings)
 
 
 ## Voting Alignment
@@ -103,13 +103,13 @@ prefillQuestions:
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
 | Council | 4,277 | 3,793 | 400 | 98.0% |
-| Strategic Priorities and Policy Committee | 2,703 | 2,046 | 208 | 83.4% |
+| Strategic Priorities and Policy Committee | 2,717 | 2,046 | 208 | 83.0% |
 | Planning and Environment Committee | 1,830 | 1,773 | 39 | 99.0% |
 | Civic Works Committee | 318 | 313 | 5 | 100.0% |
 | Budget Committee | 189 | 138 | 49 | 98.9% |
 | Corporate Services Committee | 174 | 169 | 2 | 98.3% |
 | Infrastructure and Corporate Services Committee | 83 | 76 | 5 | 97.6% |
-| Community and Protective Services Committee | 66 | 50 | 7 | 86.4% |
+| Community and Protective Services Committee | 77 | 61 | 7 | 88.3% |
 
 
 ## Notable Dissenting Votes
@@ -199,8 +199,8 @@ Voted **Nay** - Motion Passed (8 to 3)
 
 ## Committees Served
 
-- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Community and Protective Services Committee](/committees/community-protective-services)
+- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [City Council](/committees/city-council)
 - [Budget Committee](/committees/budget)
 - [Corporate Services Committee](/committees/corporate-services)
@@ -208,8 +208,9 @@ Voted **Nay** - Motion Passed (8 to 3)
 - [Planning and Environment Committee](/committees/planning-environment)
 - [Audit Committee](/committees/audit)
 
-## Recent Meetings (652 total)
+## Recent Meetings (653 total)
 
+- [6th Meeting of the Community and Protective Services Committee](</months/2026-04/2026-04-13 6th Meeting of the Community and Protective Services Committee>) - Mon Apr 13 2026
 - [5th Meeting of the Strategic Priorities and Policy Committee](</months/2026-03/2026-03-24 5th Meeting of the Strategic Priorities and Policy Committee>) - Tue Mar 24 2026
 - [5th Special Meeting of the Community and Protective Services Committee](</months/2026-03/2026-03-13 5th Special Meeting of the Community and Protective Services Committee>) - Fri Mar 13 2026
 - [4th Meeting of the Community and Protective Services Committee](</months/2026-03/2026-03-09 4th Meeting of the Community and Protective Services Committee>) - Mon Mar 9 2026
@@ -219,4 +220,3 @@ Voted **Nay** - Motion Passed (8 to 3)
 - [3rd Council Meeting](</months/2026-02/2026-02-10 3rd Council Meeting>) - Tue Feb 10 2026
 - [3rd Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-03 3rd Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 3 2026
 - [2nd Meeting of the Community and Protective Services Committee](</months/2026-01/2026-01-26 2nd Meeting of the Community and Protective Services Committee>) - Mon Jan 26 2026
-- [2nd Meeting of the Strategic Priorities and Policy Committee](</months/2026-01/2026-01-13 2nd Meeting of the Strategic Priorities and Policy Committee>) - Tue Jan 13 2026

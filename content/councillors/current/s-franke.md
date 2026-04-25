@@ -2,18 +2,18 @@
 title: "Skylar Franke"
 type: councillor
 slug: "s-franke"
-meetingCount: 197
+meetingCount: 199
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 3846
-votesYea: 3217
-votesNay: 323
+totalVotes: 3864
+votesYea: 3234
+votesNay: 324
 votesAbsent: 306
-attendanceRate: 96.4
-participationRate: 92.0
+attendanceRate: 96.5
+participationRate: 92.1
 yeaRate: 90.9
-contestedDissentRate: 23.5
-contestedVotes: 1372
+contestedDissentRate: 23.6
+contestedVotes: 1375
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -30,10 +30,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 3,846 |
-| Voted Yea | 3,217 (83.6%) |
-| Voted Nay | 323 (8.4%) |
-| Absent | 306 (8.0%) |
+| Total Votes | 3,864 |
+| Voted Yea | 3,234 (83.7%) |
+| Voted Nay | 324 (8.4%) |
+| Absent | 306 (7.9%) |
 
 
 ### Substantive Votes
@@ -42,17 +42,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,247 |
-| Voted Yea | 1,730 (86.4%) |
-| Voted Nay | 272 (13.6%) |
+| Substantive Votes | 2,254 |
+| Voted Yea | 1,736 (86.4%) |
+| Voted Nay | 273 (13.6%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 23.5%
-- **Contested Votes**: 1,372
+- **Dissent Rate**: 23.6%
+- **Contested Votes**: 1,375
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -63,16 +63,16 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 381 |
-| Voted Yea | 295 (80.6%) |
-| Voted Nay | 71 (19.4%) |
+| Budget Votes | 384 |
+| Voted Yea | 298 (80.8%) |
+| Voted Nay | 71 (19.2%) |
 | Absent | 15 |
 
 
 ## Attendance
 
-- **Attendance Rate**: 96.4%
-- **Meetings Attended**: 189 of 196
+- **Attendance Rate**: 96.5%
+- **Meetings Attended**: 191 of 198
 - **Meetings Missed**: 7
 - **Trend**: Stable -
 
@@ -80,7 +80,7 @@ prefillQuestions:
   - 2023: 98.4% (60/61 meetings)
   - 2024: 97.0% (65/67 meetings)
   - 2025: 91.8% (45/49 meetings)
-  - 2026: 100.0% (11/11 meetings)
+  - 2026: 100.0% (13/13 meetings)
 
 
 ## Voting Alignment
@@ -93,7 +93,7 @@ prefillQuestions:
 **Least aligned with:**
 - Susan Stevenson (81.5%)
 - Paul Van Meerbergen (84.5%)
-- Steve Hillier (89.0%)
+- Steve Hillier (89.1%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -103,16 +103,24 @@ prefillQuestions:
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
 | Council | 1,933 | 1,682 | 173 | 96.0% |
-| Strategic Priorities and Policy Committee | 900 | 626 | 68 | 77.1% |
+| Strategic Priorities and Policy Committee | 914 | 639 | 69 | 77.5% |
 | Planning and Environment Committee | 632 | 600 | 22 | 98.4% |
 | Budget Committee | 189 | 142 | 47 | 100.0% |
-| Infrastructure and Corporate Services Committee | 137 | 116 | 13 | 94.2% |
+| Infrastructure and Corporate Services Committee | 141 | 120 | 13 | 94.3% |
 | Civic Works Committee | 55 | 51 | 0 | 92.7% |
 
 
 ## Notable Dissenting Votes
 
 *Recent split votes where Skylar Franke voted against the final outcome:*
+
+### 2026-04-21: Housing Accelerator Fund – 2026 Mid-Year Update
+
+[6th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b5334fb8-e3e2-4e5b-b0c6-9e30a6392c59&Agenda=PostMinutes&lang=English)
+
+> That part a) BE APPROVED and reads as follows: That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the following actions be taken with respect to current initiatives ...
+
+Voted **Nay** - Motion Passed (9 to 4)
 
 ### 2026-03-24: Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program - Report Back on Program Options
 
@@ -186,14 +194,6 @@ Voted **Nay** - Motion Passed (7 to 6)
 
 Voted **Nay** - Motion Passed (10 to 1)
 
-### 2026-03-03: By-laws
-
-[4th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
-
-> That Second Reading of Revised Bill No.124 and Added Bill No. 125, BE APPROVED.
-
-Voted **Nay** - Motion Passed (10 to 1)
-
 
 ## Committees Served
 
@@ -205,8 +205,10 @@ Voted **Nay** - Motion Passed (10 to 1)
 - [Budget Committee](/committees/budget)
 - [Civic Works Committee](/committees/civic-works)
 
-## Recent Meetings (197 total)
+## Recent Meetings (199 total)
 
+- [6th Meeting of the Strategic Priorities and Policy Committee](</months/2026-04/2026-04-21 6th Meeting of the Strategic Priorities and Policy Committee>) - Tue Apr 21 2026
+- [7th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-04/2026-04-20 7th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Apr 20 2026
 - [5th Meeting of the Strategic Priorities and Policy Committee](</months/2026-03/2026-03-24 5th Meeting of the Strategic Priorities and Policy Committee>) - Tue Mar 24 2026
 - [6th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-03/2026-03-23 6th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Mar 23 2026
 - [4th Council Meeting](</months/2026-03/2026-03-03 4th Council Meeting>) - Tue Mar 3 2026
@@ -215,5 +217,3 @@ Voted **Nay** - Motion Passed (10 to 1)
 - [4th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-02/2026-02-23 4th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Feb 23 2026
 - [3rd Meeting of the Community and Protective Services Committee](</months/2026-02/2026-02-17 3rd Meeting of the Community and Protective Services Committee>) - Tue Feb 17 2026
 - [3rd Council Meeting](</months/2026-02/2026-02-10 3rd Council Meeting>) - Tue Feb 10 2026
-- [3rd Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-03 3rd Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 3 2026
-- [3rd Meeting of the Infrastructure and Corporate Services Committee](</months/2026-02/2026-02-02 3rd Meeting of the Infrastructure and Corporate Services Committee>) - Mon Feb 2 2026
