@@ -2,11 +2,11 @@
   "councillor": "Elizabeth Peloza",
   "slug": "e-peloza",
   "attendance": {
-    "totalMeetings": 435,
+    "totalMeetings": 436,
     "present": 427,
-    "absent": 8,
+    "absent": 9,
     "remote": 1,
-    "attendanceRate": 98.16091954022988,
+    "attendanceRate": 97.93577981651376,
     "trend": [
       {
         "period": "2018",
@@ -58,26 +58,26 @@
       },
       {
         "period": "2026",
-        "attendanceRate": 92.3076923076923,
+        "attendanceRate": 85.71428571428571,
         "meetingsAttended": 12,
-        "meetingsTotal": 13
+        "meetingsTotal": 14
       }
     ],
     "trendDirection": "declining"
   },
   "voting": {
-    "totalVotes": 7281,
+    "totalVotes": 7282,
     "yeas": 5909,
     "nays": 516,
-    "absent": 856,
-    "participationRate": 88.24337316302706,
+    "absent": 857,
+    "participationRate": 88.23125514968415,
     "yeaRate": 91.96887159533074,
     "contestedDissentRate": 17.273622047244093,
     "contestedVotes": 2032,
-    "substantiveVotes": 4478,
+    "substantiveVotes": 4479,
     "substantiveYeas": 3334,
     "substantiveNays": 455,
-    "substantiveParticipationRate": 84.61366681554266,
+    "substantiveParticipationRate": 84.59477561955794,
     "substantiveYeaRate": 87.99155449986804
   },
   "budgetVoting": {
@@ -294,10 +294,10 @@
     },
     {
       "committee": "Infrastructure and Corporate Services Committee",
-      "totalVotes": 20,
+      "totalVotes": 21,
       "yeas": 17,
       "nays": 3,
-      "participationRate": 100
+      "participationRate": 95.23809523809523
     }
   ]
 }

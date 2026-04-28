@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-04-27T09:04:34.476Z",
+  "generatedAt": "2026-04-28T08:43:00.094Z",
   "wards": {
     "1": {
       "councillor": "Hadleigh McAlister",
       "slug": "h-mcalister",
-      "wardVotes": 1783,
+      "wardVotes": 1784,
       "cityYeaRate": 0.95,
       "wardYeaRate": 0.95,
       "difference": 0,
@@ -34,7 +34,7 @@
     "4": {
       "councillor": "Susan Stevenson",
       "slug": "s-stevenson",
-      "wardVotes": 1686,
+      "wardVotes": 1687,
       "cityYeaRate": 0.95,
       "wardYeaRate": 0.88,
       "difference": -0.08,
@@ -94,7 +94,7 @@
     "10": {
       "councillor": "Paul Van Meerbergen",
       "slug": "p-van-meerbergen",
-      "wardVotes": 4205,
+      "wardVotes": 4206,
       "cityYeaRate": 0.98,
       "wardYeaRate": 0.93,
       "difference": -0.05,
@@ -104,7 +104,7 @@
     "11": {
       "councillor": "Skylar Franke",
       "slug": "s-franke",
-      "wardVotes": 1795,
+      "wardVotes": 1796,
       "cityYeaRate": 0.96,
       "wardYeaRate": 0.94,
       "difference": -0.02,

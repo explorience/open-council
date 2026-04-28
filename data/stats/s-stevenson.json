@@ -2,11 +2,11 @@
   "councillor": "Susan Stevenson",
   "slug": "s-stevenson",
   "attendance": {
-    "totalMeetings": 217,
-    "present": 193,
+    "totalMeetings": 218,
+    "present": 194,
     "absent": 24,
     "remote": 1,
-    "attendanceRate": 88.94009216589862,
+    "attendanceRate": 88.9908256880734,
     "trend": [
       {
         "period": "2022",
@@ -34,27 +34,27 @@
       },
       {
         "period": "2026",
-        "attendanceRate": 89.47368421052632,
-        "meetingsAttended": 17,
-        "meetingsTotal": 19
+        "attendanceRate": 90,
+        "meetingsAttended": 18,
+        "meetingsTotal": 20
       }
     ],
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 3653,
-    "yeas": 2626,
+    "totalVotes": 3654,
+    "yeas": 2627,
     "nays": 548,
     "absent": 479,
-    "participationRate": 86.88748973446482,
-    "yeaRate": 82.73471959672338,
+    "participationRate": 86.8910782703886,
+    "yeaRate": 82.74015748031496,
     "contestedDissentRate": 35.6071964017991,
     "contestedVotes": 1334,
-    "substantiveVotes": 2239,
-    "substantiveYeas": 1540,
+    "substantiveVotes": 2240,
+    "substantiveYeas": 1541,
     "substantiveNays": 350,
-    "substantiveParticipationRate": 84.41268423403305,
-    "substantiveYeaRate": 81.48148148148148
+    "substantiveParticipationRate": 84.41964285714286,
+    "substantiveYeaRate": 81.49127445795875
   },
   "budgetVoting": {
     "totalBudgetVotes": 382,
@@ -65,9 +65,9 @@
   "topAlignments": [
     {
       "councillor": "Paul Van Meerbergen",
-      "sharedVotes": 1364,
-      "agreedVotes": 1222,
-      "alignmentRate": 89.58944281524927
+      "sharedVotes": 1365,
+      "agreedVotes": 1223,
+      "alignmentRate": 89.5970695970696
     },
     {
       "councillor": "Peter Cuddy",
@@ -115,9 +115,9 @@
     },
     {
       "councillor": "Skylar Franke",
-      "sharedVotes": 1358,
-      "agreedVotes": 1107,
-      "alignmentRate": 81.51693667157585
+      "sharedVotes": 1359,
+      "agreedVotes": 1108,
+      "alignmentRate": 81.53053715967623
     },
     {
       "councillor": "Corrine Rahman",
@@ -263,10 +263,10 @@
     },
     {
       "committee": "Infrastructure and Corporate Services Committee",
-      "totalVotes": 58,
-      "yeas": 45,
+      "totalVotes": 59,
+      "yeas": 46,
       "nays": 12,
-      "participationRate": 98.27586206896551
+      "participationRate": 98.30508474576271
     }
   ]
 }

@@ -1,16 +1,30 @@
 {
   "councillor": "P. Van Meerbergen",
   "slug": "p-van-meerbergen",
-  "generatedAt": "2026-04-27T09:04:28.797Z",
-  "sourceHash": "e48cecf25efcfb7d",
+  "generatedAt": "2026-04-28T08:42:53.685Z",
+  "sourceHash": "6d59c3cae4caf664",
   "summary": {
-    "totalMeetings": 503,
-    "totalVotes": 8645,
-    "yeas": 6764,
+    "totalMeetings": 504,
+    "totalVotes": 8646,
+    "yeas": 6765,
     "nays": 1010,
     "absent": 871
   },
   "votes": [
+    {
+      "date": "2026-04-27",
+      "meetingSlug": "months/2026-04/2026-04-27 8th Special Meeting of the Infrastructure and Corporate Services Committee",
+      "meetingTitle": "8th Special Meeting of the Infrastructure and Corporate Services Committee",
+      "meetingType": "Infrastructure and Corporate Services Committee",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=33796857-08f2-4288-b175-487334dc17bd&Agenda=PostMinutes&lang=English",
+      "itemNumber": "2.1",
+      "itemTitle": "2026 Debenture Issuance Update",
+      "motionText": "That, on the recommendation of the Deputy City Manager, Finance Supports, the proposed by-law, as appended to the staff report dated April 27, 2026 as Appendix \"A\", BE INTRODUCED at the Municipal Council meeting to be held on April 28, 2026 to execute the borrowing upon serial debentures in the aggregate principal amount of $20,000,000 towards the cost of certain capital works of the Corporation of the City of London, it being noted that the City’s debenture issuance has been placed with investo",
+      "vote": "yea",
+      "result": "Motion Passed (4 to 0)",
+      "passed": true,
+      "unanimous": true
+    },
     {
       "date": "2026-04-21",
       "meetingSlug": "months/2026-04/2026-04-21 6th Meeting of the Strategic Priorities and Policy Committee",

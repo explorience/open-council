@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-27T09:04:34.465Z",
+  "generatedAt": "2026-04-28T08:43:00.086Z",
   "matrix": {
     "j-morgan": {
       "h-mcalister": 100,
@@ -13,20 +13,20 @@
     },
     "h-mcalister": {
       "j-morgan": 100,
-      "s-stevenson": 75.60975609756098,
+      "s-stevenson": 76.19047619047619,
       "c-rahman": 92,
-      "p-van-meerbergen": 90.47619047619048,
-      "s-franke": 90.47619047619048,
+      "p-van-meerbergen": 90.69767441860465,
+      "s-franke": 90.69767441860465,
       "e-peloza": 87.5
     },
     "s-lewis": {},
     "p-cuddy": {},
     "s-stevenson": {
       "j-morgan": 66.66666666666666,
-      "h-mcalister": 75.60975609756098,
+      "h-mcalister": 76.19047619047619,
       "c-rahman": 88,
-      "p-van-meerbergen": 80.48780487804879,
-      "s-franke": 75.60975609756098,
+      "p-van-meerbergen": 80.95238095238095,
+      "s-franke": 76.19047619047619,
       "e-peloza": 68.75
     },
     "j-pribil": {
@@ -56,22 +56,22 @@
     },
     "p-van-meerbergen": {
       "j-morgan": 93.54838709677419,
-      "h-mcalister": 90.47619047619048,
-      "s-stevenson": 80.48780487804879,
+      "h-mcalister": 90.69767441860465,
+      "s-stevenson": 80.95238095238095,
       "j-pribil": 81.48148148148148,
       "c-rahman": 85.54216867469879,
       "a-hopkins": 84.21052631578947,
-      "s-franke": 85.41666666666666,
+      "s-franke": 85.56701030927834,
       "e-peloza": 87.5
     },
     "s-franke": {
       "j-morgan": 100,
-      "h-mcalister": 90.47619047619048,
-      "s-stevenson": 75.60975609756098,
+      "h-mcalister": 90.69767441860465,
+      "s-stevenson": 76.19047619047619,
       "j-pribil": 96,
       "c-rahman": 97.46835443037975,
       "a-hopkins": 98.11320754716981,
-      "p-van-meerbergen": 85.41666666666666,
+      "p-van-meerbergen": 85.56701030927834,
       "e-peloza": 81.25
     },
     "e-peloza": {
@@ -123,6 +123,6 @@
     }
   ],
   "type": "committee",
-  "motionCount": 102,
+  "motionCount": 103,
   "committeeName": "Infrastructure and Corporate Services Committee"
 }

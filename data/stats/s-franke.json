@@ -2,11 +2,11 @@
   "councillor": "Skylar Franke",
   "slug": "s-franke",
   "attendance": {
-    "totalMeetings": 198,
-    "present": 191,
+    "totalMeetings": 199,
+    "present": 192,
     "absent": 7,
     "remote": 0,
-    "attendanceRate": 96.46464646464646,
+    "attendanceRate": 96.4824120603015,
     "trend": [
       {
         "period": "2022",
@@ -35,26 +35,26 @@
       {
         "period": "2026",
         "attendanceRate": 100,
-        "meetingsAttended": 13,
-        "meetingsTotal": 13
+        "meetingsAttended": 14,
+        "meetingsTotal": 14
       }
     ],
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 3864,
-    "yeas": 3234,
+    "totalVotes": 3865,
+    "yeas": 3235,
     "nays": 324,
     "absent": 306,
-    "participationRate": 92.08074534161491,
-    "yeaRate": 90.89376053962901,
+    "participationRate": 92.08279430789133,
+    "yeaRate": 90.89631919078393,
     "contestedDissentRate": 23.563636363636363,
     "contestedVotes": 1375,
-    "substantiveVotes": 2254,
-    "substantiveYeas": 1736,
+    "substantiveVotes": 2255,
+    "substantiveYeas": 1737,
     "substantiveNays": 273,
-    "substantiveParticipationRate": 89.13043478260869,
-    "substantiveYeaRate": 86.41114982578398
+    "substantiveParticipationRate": 89.13525498891353,
+    "substantiveYeaRate": 86.41791044776119
   },
   "budgetVoting": {
     "totalBudgetVotes": 384,
@@ -65,9 +65,9 @@
   "topAlignments": [
     {
       "councillor": "Hadleigh McAlister",
-      "sharedVotes": 1369,
-      "agreedVotes": 1298,
-      "alignmentRate": 94.81373265157049
+      "sharedVotes": 1370,
+      "agreedVotes": 1299,
+      "alignmentRate": 94.81751824817518
     },
     {
       "councillor": "Anna Hopkins",
@@ -97,15 +97,15 @@
   "bottomAlignments": [
     {
       "councillor": "Susan Stevenson",
-      "sharedVotes": 1358,
-      "agreedVotes": 1107,
-      "alignmentRate": 81.51693667157585
+      "sharedVotes": 1359,
+      "agreedVotes": 1108,
+      "alignmentRate": 81.53053715967623
     },
     {
       "councillor": "Paul Van Meerbergen",
-      "sharedVotes": 1370,
-      "agreedVotes": 1158,
-      "alignmentRate": 84.52554744525548
+      "sharedVotes": 1371,
+      "agreedVotes": 1159,
+      "alignmentRate": 84.53683442742523
     },
     {
       "councillor": "Steve Hillier",
@@ -249,10 +249,10 @@
     },
     {
       "committee": "Infrastructure and Corporate Services Committee",
-      "totalVotes": 141,
-      "yeas": 120,
+      "totalVotes": 142,
+      "yeas": 121,
       "nays": 13,
-      "participationRate": 94.32624113475178
+      "participationRate": 94.36619718309859
     },
     {
       "committee": "Civic Works Committee",
