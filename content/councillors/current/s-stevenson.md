@@ -2,14 +2,14 @@
 title: "Susan Stevenson"
 type: councillor
 slug: "s-stevenson"
-meetingCount: 201
+meetingCount: 202
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 3653
-votesYea: 2626
+totalVotes: 3654
+votesYea: 2627
 votesNay: 548
 votesAbsent: 479
-attendanceRate: 88.9
+attendanceRate: 89.0
 participationRate: 86.9
 yeaRate: 82.7
 contestedDissentRate: 35.6
@@ -30,8 +30,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 3,653 |
-| Voted Yea | 2,626 (71.9%) |
+| Total Votes | 3,654 |
+| Voted Yea | 2,627 (71.9%) |
 | Voted Nay | 548 (15.0%) |
 | Absent | 479 (13.1%) |
 
@@ -42,8 +42,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,239 |
-| Voted Yea | 1,540 (81.5%) |
+| Substantive Votes | 2,240 |
+| Voted Yea | 1,541 (81.5%) |
 | Voted Nay | 350 (18.5%) |
 
 
@@ -71,8 +71,8 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 88.9%
-- **Meetings Attended**: 193 of 217
+- **Attendance Rate**: 89.0%
+- **Meetings Attended**: 194 of 218
 - **Meetings Missed**: 24
 - **Trend**: Stable -
 
@@ -80,7 +80,7 @@ prefillQuestions:
   - 2023: 88.6% (70/79 meetings)
   - 2024: 89.4% (59/66 meetings)
   - 2025: 86.4% (38/44 meetings)
-  - 2026: 89.5% (17/19 meetings)
+  - 2026: 90.0% (18/20 meetings)
 
 
 ## Voting Alignment
@@ -108,7 +108,7 @@ prefillQuestions:
 | Budget Committee | 189 | 137 | 45 | 96.3% |
 | Corporate Services Committee | 184 | 126 | 8 | 72.8% |
 | Community and Protective Services Committee | 92 | 78 | 7 | 92.4% |
-| Infrastructure and Corporate Services Committee | 58 | 45 | 12 | 98.3% |
+| Infrastructure and Corporate Services Committee | 59 | 46 | 12 | 98.3% |
 
 
 ## Notable Dissenting Votes
@@ -198,17 +198,18 @@ Voted **Nay** - Motion Passed (5 to 1)
 
 ## Committees Served
 
+- [Corporate Services Committee](/committees/corporate-services)
 - [Planning and Environment Committee](/committees/planning-environment)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
-- [Corporate Services Committee](/committees/corporate-services)
 - [City Council](/committees/city-council)
 - [Audit Committee](/committees/audit)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [Budget Committee](/committees/budget)
 - [Community Protective Services Committee](/committees/community-protective-services-committee)
 
-## Recent Meetings (201 total)
+## Recent Meetings (202 total)
 
+- [8th Special Meeting of the Infrastructure and Corporate Services Committee](</months/2026-04/2026-04-27 8th Special Meeting of the Infrastructure and Corporate Services Committee>) - Mon Apr 27 2026
 - [The 6th Meeting of the Planning and Environment Committee](</months/2026-04/2026-04-14 The 6th Meeting of the Planning and Environment Committee>) - Tue Apr 14 2026
 - [5th Meeting of the Strategic Priorities and Policy Committee](</months/2026-03/2026-03-24 5th Meeting of the Strategic Priorities and Policy Committee>) - Tue Mar 24 2026
 - [6th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-03/2026-03-23 6th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Mar 23 2026
@@ -218,4 +219,3 @@ Voted **Nay** - Motion Passed (5 to 1)
 - [4th Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-24 4th Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 24 2026
 - [4th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-02/2026-02-23 4th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Feb 23 2026
 - [4th Meeting of the Planning and Environment Committee](</months/2026-02/2026-02-18 4th Meeting of the Planning and Environment Committee>) - Wed Feb 18 2026
-- [3rd Meeting of the Community and Protective Services Committee](</months/2026-02/2026-02-17 3rd Meeting of the Community and Protective Services Committee>) - Tue Feb 17 2026

@@ -2,11 +2,11 @@
 title: "Paul Van Meerbergen"
 type: councillor
 slug: "p-van-meerbergen"
-meetingCount: 515
+meetingCount: 516
 yearsActive: "2010 - 2026"
 isCurrent: true
-totalVotes: 8645
-votesYea: 6764
+totalVotes: 8646
+votesYea: 6765
 votesNay: 1010
 votesAbsent: 871
 attendanceRate: 95.4
@@ -31,8 +31,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 8,645 |
-| Voted Yea | 6,764 (78.2%) |
+| Total Votes | 8,646 |
+| Voted Yea | 6,765 (78.2%) |
 | Voted Nay | 1,010 (11.7%) |
 | Absent | 871 (10.1%) |
 
@@ -43,8 +43,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 6,089 |
-| Voted Yea | 4,667 (85.1%) |
+| Substantive Votes | 6,090 |
+| Voted Yea | 4,668 (85.1%) |
 | Voted Nay | 817 (14.9%) |
 
 
@@ -73,7 +73,7 @@ prefillQuestions:
 ## Attendance
 
 - **Attendance Rate**: 95.4%
-- **Meetings Attended**: 558 of 585
+- **Meetings Attended**: 559 of 586
 - **Meetings Missed**: 27
 - **Trend**: Stable -
 
@@ -81,7 +81,7 @@ prefillQuestions:
   - 2023: 98.3% (57/58 meetings)
   - 2024: 98.4% (62/63 meetings)
   - 2025: 96.4% (53/55 meetings)
-  - 2026: 100.0% (13/13 meetings)
+  - 2026: 100.0% (14/14 meetings)
 
 
 ## Voting Alignment
@@ -108,7 +108,7 @@ prefillQuestions:
 | Civic Works Committee | 451 | 409 | 31 | 97.6% |
 | Budget Committee | 189 | 118 | 68 | 98.4% |
 | Corporate Services Committee | 154 | 144 | 6 | 97.4% |
-| Infrastructure and Corporate Services Committee | 141 | 122 | 16 | 97.9% |
+| Infrastructure and Corporate Services Committee | 142 | 123 | 16 | 97.9% |
 
 
 ## Notable Dissenting Votes
@@ -198,16 +198,17 @@ Voted **Yea** - Motion Failed (7 to 8)
 
 ## Committees Served
 
-- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Corporate Services Committee](/committees/corporate-services)
+- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [City Council](/committees/city-council)
 - [Planning and Environment Committee](/committees/planning-environment)
 - [Budget Committee](/committees/budget)
 - [Civic Works Committee](/committees/civic-works)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 
-## Recent Meetings (515 total)
+## Recent Meetings (516 total)
 
+- [8th Special Meeting of the Infrastructure and Corporate Services Committee](</months/2026-04/2026-04-27 8th Special Meeting of the Infrastructure and Corporate Services Committee>) - Mon Apr 27 2026
 - [5th Meeting of the Strategic Priorities and Policy Committee](</months/2026-03/2026-03-24 5th Meeting of the Strategic Priorities and Policy Committee>) - Tue Mar 24 2026
 - [6th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-03/2026-03-23 6th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Mar 23 2026
 - [4th Council Meeting](</months/2026-03/2026-03-03 4th Council Meeting>) - Tue Mar 3 2026
@@ -217,4 +218,3 @@ Voted **Yea** - Motion Failed (7 to 8)
 - [3rd Council Meeting](</months/2026-02/2026-02-10 3rd Council Meeting>) - Tue Feb 10 2026
 - [3rd Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-03 3rd Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 3 2026
 - [3rd Meeting of the Infrastructure and Corporate Services Committee](</months/2026-02/2026-02-02 3rd Meeting of the Infrastructure and Corporate Services Committee>) - Mon Feb 2 2026
-- [3rd Meeting of the Planning and Environment Committee](</months/2026-01/2026-01-27 3rd Meeting of the Planning and Environment Committee>) - Tue Jan 27 2026

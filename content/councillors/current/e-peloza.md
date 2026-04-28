@@ -5,11 +5,11 @@ slug: "e-peloza"
 meetingCount: 468
 yearsActive: "2018 - 2026"
 isCurrent: true
-totalVotes: 7281
+totalVotes: 7282
 votesYea: 5909
 votesNay: 516
-votesAbsent: 856
-attendanceRate: 98.2
+votesAbsent: 857
+attendanceRate: 97.9
 participationRate: 88.2
 yeaRate: 92.0
 contestedDissentRate: 17.3
@@ -30,10 +30,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 7,281 |
-| Voted Yea | 5,909 (81.2%) |
+| Total Votes | 7,282 |
+| Voted Yea | 5,909 (81.1%) |
 | Voted Nay | 516 (7.1%) |
-| Absent | 856 (11.8%) |
+| Absent | 857 (11.8%) |
 
 
 ### Substantive Votes
@@ -42,7 +42,7 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 4,478 |
+| Substantive Votes | 4,479 |
 | Voted Yea | 3,334 (88.0%) |
 | Voted Nay | 455 (12.0%) |
 
@@ -71,16 +71,16 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 98.2%
-- **Meetings Attended**: 427 of 435
-- **Meetings Missed**: 8
+- **Attendance Rate**: 97.9%
+- **Meetings Attended**: 427 of 436
+- **Meetings Missed**: 9
 - **Trend**: Declining v
 
 **Attendance by Year:**
   - 2023: 98.3% (57/58 meetings)
   - 2024: 95.3% (61/64 meetings)
   - 2025: 96.6% (56/58 meetings)
-  - 2026: 92.3% (12/13 meetings)
+  - 2026: 85.7% (12/14 meetings)
 
 
 ## Voting Alignment
@@ -109,7 +109,7 @@ prefillQuestions:
 | Civic Works Committee | 284 | 274 | 8 | 99.3% |
 | Budget Committee | 189 | 122 | 67 | 100.0% |
 | Corporate Services Committee | 74 | 53 | 1 | 73.0% |
-| Infrastructure and Corporate Services Committee | 20 | 17 | 3 | 100.0% |
+| Infrastructure and Corporate Services Committee | 21 | 17 | 3 | 95.2% |
 
 
 ## Notable Dissenting Votes

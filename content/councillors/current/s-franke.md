@@ -2,11 +2,11 @@
 title: "Skylar Franke"
 type: councillor
 slug: "s-franke"
-meetingCount: 197
+meetingCount: 198
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 3864
-votesYea: 3234
+totalVotes: 3865
+votesYea: 3235
 votesNay: 324
 votesAbsent: 306
 attendanceRate: 96.5
@@ -30,8 +30,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 3,864 |
-| Voted Yea | 3,234 (83.7%) |
+| Total Votes | 3,865 |
+| Voted Yea | 3,235 (83.7%) |
 | Voted Nay | 324 (8.4%) |
 | Absent | 306 (7.9%) |
 
@@ -42,8 +42,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,254 |
-| Voted Yea | 1,736 (86.4%) |
+| Substantive Votes | 2,255 |
+| Voted Yea | 1,737 (86.4%) |
 | Voted Nay | 273 (13.6%) |
 
 
@@ -72,7 +72,7 @@ prefillQuestions:
 ## Attendance
 
 - **Attendance Rate**: 96.5%
-- **Meetings Attended**: 191 of 198
+- **Meetings Attended**: 192 of 199
 - **Meetings Missed**: 7
 - **Trend**: Stable -
 
@@ -80,7 +80,7 @@ prefillQuestions:
   - 2023: 98.4% (60/61 meetings)
   - 2024: 97.0% (65/67 meetings)
   - 2025: 91.8% (45/49 meetings)
-  - 2026: 100.0% (13/13 meetings)
+  - 2026: 100.0% (14/14 meetings)
 
 
 ## Voting Alignment
@@ -106,7 +106,7 @@ prefillQuestions:
 | Strategic Priorities and Policy Committee | 914 | 639 | 69 | 77.5% |
 | Planning and Environment Committee | 632 | 600 | 22 | 98.4% |
 | Budget Committee | 189 | 142 | 47 | 100.0% |
-| Infrastructure and Corporate Services Committee | 141 | 120 | 13 | 94.3% |
+| Infrastructure and Corporate Services Committee | 142 | 121 | 13 | 94.4% |
 | Civic Works Committee | 55 | 51 | 0 | 92.7% |
 
 
@@ -197,16 +197,17 @@ Voted **Nay** - Motion Passed (10 to 1)
 
 ## Committees Served
 
-- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Corporate Services Committee](/committees/corporate-services)
+- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [City Council](/committees/city-council)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [Planning and Environment Committee](/committees/planning-environment)
 - [Budget Committee](/committees/budget)
 - [Civic Works Committee](/committees/civic-works)
 
-## Recent Meetings (197 total)
+## Recent Meetings (198 total)
 
+- [8th Special Meeting of the Infrastructure and Corporate Services Committee](</months/2026-04/2026-04-27 8th Special Meeting of the Infrastructure and Corporate Services Committee>) - Mon Apr 27 2026
 - [5th Meeting of the Strategic Priorities and Policy Committee](</months/2026-03/2026-03-24 5th Meeting of the Strategic Priorities and Policy Committee>) - Tue Mar 24 2026
 - [6th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-03/2026-03-23 6th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Mar 23 2026
 - [4th Council Meeting](</months/2026-03/2026-03-03 4th Council Meeting>) - Tue Mar 3 2026
@@ -216,4 +217,3 @@ Voted **Nay** - Motion Passed (10 to 1)
 - [3rd Meeting of the Community and Protective Services Committee](</months/2026-02/2026-02-17 3rd Meeting of the Community and Protective Services Committee>) - Tue Feb 17 2026
 - [3rd Council Meeting](</months/2026-02/2026-02-10 3rd Council Meeting>) - Tue Feb 10 2026
 - [3rd Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-03 3rd Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 3 2026
-- [3rd Meeting of the Infrastructure and Corporate Services Committee](</months/2026-02/2026-02-02 3rd Meeting of the Infrastructure and Corporate Services Committee>) - Mon Feb 2 2026

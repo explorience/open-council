@@ -2,14 +2,14 @@
 title: "Hadleigh McAlister"
 type: councillor
 slug: "h-mcalister"
-meetingCount: 220
+meetingCount: 221
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 3753
-votesYea: 3015
+totalVotes: 3754
+votesYea: 3016
 votesNay: 272
 votesAbsent: 466
-attendanceRate: 94.3
+attendanceRate: 94.4
 participationRate: 87.6
 yeaRate: 91.7
 contestedDissentRate: 14.6
@@ -30,8 +30,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 3,753 |
-| Voted Yea | 3,015 (80.3%) |
+| Total Votes | 3,754 |
+| Voted Yea | 3,016 (80.3%) |
 | Voted Nay | 272 (7.2%) |
 | Absent | 466 (12.4%) |
 
@@ -42,8 +42,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,387 |
-| Voted Yea | 1,774 (88.0%) |
+| Substantive Votes | 2,388 |
+| Voted Yea | 1,775 (88.0%) |
 | Voted Nay | 243 (12.0%) |
 
 
@@ -71,8 +71,8 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 94.3%
-- **Meetings Attended**: 217 of 230
+- **Attendance Rate**: 94.4%
+- **Meetings Attended**: 218 of 231
 - **Meetings Missed**: 13
 - **Trend**: Stable -
 
@@ -80,7 +80,7 @@ prefillQuestions:
   - 2023: 90.9% (70/77 meetings)
   - 2024: 93.4% (71/76 meetings)
   - 2025: 98.2% (54/55 meetings)
-  - 2026: 100.0% (13/13 meetings)
+  - 2026: 100.0% (14/14 meetings)
 
 
 ## Voting Alignment
@@ -108,7 +108,7 @@ prefillQuestions:
 | Budget Committee | 189 | 135 | 39 | 92.1% |
 | Corporate Services Committee | 164 | 130 | 1 | 79.9% |
 | Civic Works Committee | 90 | 81 | 9 | 100.0% |
-| Infrastructure and Corporate Services Committee | 58 | 51 | 7 | 100.0% |
+| Infrastructure and Corporate Services Committee | 59 | 52 | 7 | 100.0% |
 
 
 ## Notable Dissenting Votes
@@ -198,15 +198,16 @@ Voted **Nay** - Motion Passed (10 to 5)
 
 ## Committees Served
 
+- [Corporate Services Committee](/committees/corporate-services)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
-- [Corporate Services Committee](/committees/corporate-services)
 - [City Council](/committees/city-council)
 - [Budget Committee](/committees/budget)
 - [Civic Works Committee](/committees/civic-works)
 
-## Recent Meetings (220 total)
+## Recent Meetings (221 total)
 
+- [8th Special Meeting of the Infrastructure and Corporate Services Committee](</months/2026-04/2026-04-27 8th Special Meeting of the Infrastructure and Corporate Services Committee>) - Mon Apr 27 2026
 - [6th Meeting of the Community and Protective Services Committee](</months/2026-04/2026-04-13 6th Meeting of the Community and Protective Services Committee>) - Mon Apr 13 2026
 - [5th Meeting of the Strategic Priorities and Policy Committee](</months/2026-03/2026-03-24 5th Meeting of the Strategic Priorities and Policy Committee>) - Tue Mar 24 2026
 - [6th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-03/2026-03-23 6th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Mar 23 2026
@@ -216,4 +217,3 @@ Voted **Nay** - Motion Passed (10 to 5)
 - [4th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-02/2026-02-23 4th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Feb 23 2026
 - [3rd Meeting of the Community and Protective Services Committee](</months/2026-02/2026-02-17 3rd Meeting of the Community and Protective Services Committee>) - Tue Feb 17 2026
 - [3rd Council Meeting](</months/2026-02/2026-02-10 3rd Council Meeting>) - Tue Feb 10 2026
-- [3rd Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-03 3rd Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 3 2026
