@@ -2,7 +2,7 @@
 title: "City Council"
 type: committee
 slug: "city-council"
-meetingCount: 177
+meetingCount: 178
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -11,6 +11,7 @@ prefillQuestions:
 
 ## Recent Meetings
 
+- [Council](</months/2026-04/2026-04-28 - Council>) - Tue Apr 28 2026
 - [Council](</months/2026-03/2026-03-31 - Council>) - Tue Mar 31 2026
 - [Council](</months/2026-03/2026-03-13 - Council>) - Fri Mar 13 2026
 - [2026-03-03 - Council](</months/2026-03/2026-03-03 - Council>) - Tue Mar 3 2026
@@ -20,8 +21,7 @@ prefillQuestions:
 - [Council Meeting](</months/2025-12/2025-12-16-Council>) - Tue Dec 16 2025
 - [18th Council Meeting](</months/2025-11/2025-11-25 18th Council Meeting>) - Tue Nov 25 2025
 - [17th Council Meeting](</months/2025-11/2025-11-04 17th Council Meeting>) - Tue Nov 4 2025
-- [16th Council Meeting](</months/2025-10/2025-10-14 16th Council Meeting>) - Tue Oct 14 2025
 
 
-[View all 177 meetings →](#)
+[View all 178 meetings →](#)
 
