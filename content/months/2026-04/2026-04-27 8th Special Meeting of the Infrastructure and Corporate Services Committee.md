@@ -1,80 +1,40 @@
 ---
-title: 8th Special Meeting of the Infrastructure and Corporate Services Committee
+title: "8th Special Meeting of the Infrastructure and Corporate Services Committee"
 date: 2026-04-27
 ---
-April 27, 2026, at  1:00 PM
+April 27, 2026
 
 [Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=33796857-08f2-4288-b175-487334dc17bd&Agenda=PostMinutes&lang=English)
 
-> [!abstract]- Present:
-> H. McAlister, S. Stevenson, P. Van Meerbergen, S. Franke
+## Meeting Transcript
 
-> [!abstract]- Absent:
-> E. Peloza
+Duration: 23 minutes
 
-> [!abstract]- Also Present:
-> J. Pribil, S. Datars Bere, A. Abraham, A. Barbon, K. Murray, E. Skalski.
+Source: [Lillian Skinner's London Council Archive](https://london.lillianskinner.ca/Meetings/Infrastructure%20and%20Corporate%20Services%20Committee/2026/04-27/.transcript.srt)
 
-> [!abstract]- Remote Attendance:
-> M. Galczynski, P. Lupa, K. Yeung.
+> [!example]- Full Transcript
+> Okay, good afternoon, everyone. We do have quorum, there are two members online. This is the eighth special meeting of the Infrastructure and Corporate Services Committee. Please check the city's website for additional meeting, detail, information. The city of London is situated on the traditional lands of the Anishinaabak, the Honoshone, Leno Empak, and the Adawandran. We honor our respect, the history, languages, and culture, the diverse indigenous people who call this territory home. The city of London is currently home to many First Nations, MÃ©tis and Inuit today, as representatives of the people of the city London. We are grateful to have the opportunity to work and live in this territory. I am here in Chambers, Councillor Frank's online, Councill or Ben Mirbergen, so thank you for joining me. We'll wait to see if any other members join us. And then Councillor Pribola is here as a visiting Councillor. City of London is committed to making every effort to provide alternate formats and communication supports for meetings upon request. To make a request specific to this meeting, please contact ICSC at London.ca or 519-661-2489 extension 2425 as this is a special meeting we do just have the one member with the one consent item but I will look for any disclosures of community interests not seeing any okay we are on to the consent item which is 2.1 this is the 2026th adventure issuance update for a mover and seconder get that on the floor okay Councillor Mr. Mayor Wriggen, Councillor Frank, thank you. Okay, that is on the floor, looking for any questions or comments. We once, going twice. No one wants to talk about dead today, okay? That's good, it'll be a quick meeting. All right, we'll open the vote on that. Councillor Stevenson votes yes. Closing the vote, motion carries four to zero. Okay, great, thank you everyone. We don't have any other items, just looking for a motion to adjourn. Okay, Councillor Frank, Councillor Stevenson, thank you. All those in favor, any opposed? Motion carries. Okay, thanks everyone, have a good day. Thank you.
+---
 
-The meeting is called to order at 1:00 PM; it being noted that Councillors S. Stevenson, S. Franke, and P. Van Meerbergen were in remote attendance.
+## Full Transcript
 
-# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
+> Transcript provided by [Lillian Skinner's London Council Archive](https://london.lillianskinner.ca). Note: This is an automated speech-to-text transcript and may contain errors. Speaker names are not identified.
 
-That it BE NOTED that no pecuniary interests were disclosed.
+<details>
+<summary>View full transcript (23 minutes)</summary>
 
-# 2.&nbsp;&nbsp;&nbsp;Consent
+Okay, good afternoon, everyone. We do have quorum, there are two members online. This is the eighth special meeting of the Infrastructure and Corporate Services Committee. Please check the city's website for additional meeting, detail, information.
 
-## 2.1&nbsp;&nbsp;&nbsp;2026 Debenture Issuance Update
+The city of London is situated on the traditional lands of the Anishinaabak, the Honoshone, Leno Empak, and the Adawandran. We honor our respect, the history, languages, and culture, the diverse indigenous people who call this territory home. The city of London is currently home to many First Nations, MÃ©tis and Inuit today, as representatives of the people of the city London. We are grateful to have the opportunity to work and live in this territory.
 
-[2026-04-27 Staff Report - 2026 Debenture Issuance Update](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=123453>)
+I am here in Chambers, Councillor Frank's online, Councill or Ben Mirbergen, so thank you for joining me. We'll wait to see if any other members join us. And then Councillor Pribola is here as a visiting Councillor. City of London is committed to making every effort to provide alternate formats and communication supports for meetings upon request.
 
-> Moved by P. Van Meerbergen
+To make a request specific to this meeting, please contact ICSC at London.ca or 519-661-2489 extension 2425 as this is a special meeting we do just have the one member with the one consent item but I will look for any disclosures of community interests not seeing any okay we are on to the consent item which is 2.1 this is the 2026th adventure issuance update for a mover and seconder get that on the floor okay Councillor Mr. Mayor Wriggen, Councillor Frank, thank you. Okay, that is on the floor, looking for any questions or comments. We once, going twice.
 
-> Seconded by S. Franke
+No one wants to talk about dead today, okay? That's good, it'll be a quick meeting. All right, we'll open the vote on that. Councillor Stevenson votes yes.
 
-That, on the recommendation of the Deputy City Manager, Finance Supports, the proposed by-law, as appended to the staff report dated April 27, 2026 as Appendix "A", BE INTRODUCED at the Municipal Council meeting to be held on April 28, 2026 to execute the borrowing upon serial debentures in the aggregate principal amount of $20,000,000 towards the cost of certain capital works of the Corporation of the City of London, it being noted that the City’s debenture issuance has been placed with investors and priced within the capital markets at an average all-in rate of 3.831% over a 10-year term.
+Closing the vote, motion carries four to zero. Okay, great, thank you everyone. We don't have any other items, just looking for a motion to adjourn. Okay, Councillor Frank, Councillor Stevenson, thank you.
 
-> [!abstract]- Vote:
-> |Yeas:|Absent:|
-> |-|-|
-> |P. Van Meerbergen|E. Peloza|
-> |H. McAlister||
-> |S. Stevenson||
-> |S. Franke||
+All those in favor, any opposed? Motion carries. Okay, thanks everyone, have a good day. Thank you.
 
-> **Motion Passed (4 to 0)**
-
-****
-
-# 3.&nbsp;&nbsp;&nbsp;Scheduled Items
-
-None.
-
-# 4.&nbsp;&nbsp;&nbsp;Items for Direction
-
-None.
-
-# 5.&nbsp;&nbsp;&nbsp;Deferred Matters/Additional Business
-
-None.
-
-# 6.&nbsp;&nbsp;&nbsp;Confidential 
-
-None.
-
-# 7.&nbsp;&nbsp;&nbsp;Adjournment
-
-> Moved by S. Franke
-
-> Seconded by S. Stevenson
-
-That the meeting BE ADJOURNED.
-
-> **Motion Passed**
-
-The meeting adjourned at 1:02 PM.
-
-****
-
+</details>
