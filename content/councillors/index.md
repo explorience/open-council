@@ -11,8 +11,8 @@ Browse London City Council members by their meeting attendance and voting record
 
 - [Josh Morgan](/councillors/current/j-morgan) - 670 meetings
 - [Anna Hopkins](/councillors/current/a-hopkins) - 653 meetings
-- [Paul Van Meerbergen](/councillors/current/p-van-meerbergen) - 516 meetings
 - [Shawn Lewis](/councillors/current/s-lewis) - 515 meetings
+- [Paul Van Meerbergen](/councillors/current/p-van-meerbergen) - 515 meetings
 - [Steve Hillier](/councillors/current/s-hillier) - 469 meetings
 - [Elizabeth Peloza](/councillors/current/e-peloza) - 468 meetings
 - [Steve Lehman](/councillors/current/s-lehman) - 400 meetings
@@ -20,10 +20,10 @@ Browse London City Council members by their meeting attendance and voting record
 - [Jerry Pribil](/councillors/current/j-pribil) - 231 meetings
 - [David Ferreira](/councillors/current/d-ferreira) - 225 meetings
 - [Sam Trosow](/councillors/current/s-trosow) - 224 meetings
-- [Hadleigh McAlister](/councillors/current/h-mcalister) - 221 meetings
 - [Peter Cuddy](/councillors/current/p-cuddy) - 220 meetings
-- [Susan Stevenson](/councillors/current/s-stevenson) - 202 meetings
-- [Skylar Franke](/councillors/current/s-franke) - 198 meetings
+- [Hadleigh McAlister](/councillors/current/h-mcalister) - 220 meetings
+- [Susan Stevenson](/councillors/current/s-stevenson) - 201 meetings
+- [Skylar Franke](/councillors/current/s-franke) - 197 meetings
 
 ## Former Councillors
 
