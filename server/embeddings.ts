@@ -3,6 +3,7 @@
 import { readdir, readFile } from 'fs/promises';
 import { join } from 'path';
 import OpenAI from 'openai';
+import { hashChunkText, type ExistingChunkInfo } from './vector-store.js';
 import type { Meeting, EmbeddingChunk, Content } from './types.js';
 
 const EMBEDDING_MODEL = 'text-embedding-3-small';
@@ -576,38 +577,81 @@ export class EmbeddingGenerator {
   }
 
   /**
-   * Generate embeddings only for new chunks (incremental update)
-   * @param existingChunkIds - Set of chunk IDs that already exist in the database
-   * @param onBatchComplete - Optional callback called after each batch with the completed chunks
+   * Generate embeddings for chunks that are new OR whose content has changed
+   * since the last run, and report orphan ids that should be deleted.
+   *
+   * Detection logic:
+   *   - id missing in DB                 → new (needs embed)
+   *   - id present, text hash differs    → changed (needs re-embed; upsert overwrites)
+   *   - id present, text hash matches    → skip
+   *   - id present in DB but absent from
+   *     freshly-loaded chunks AND its
+   *     file_path is still on disk       → orphan (to delete)
+   *   - id present in DB but its file
+   *     is no longer on disk             → leave alone (defensive: avoid
+   *                                         nuking the index if a partial
+   *                                         scrape temporarily loses files)
+   *
+   * @param existingChunkInfo - Map of id → { textHash, filePath } from the DB
+   * @param onBatchComplete   - Optional callback per embedding batch
    */
   async generateIncremental(
-    existingChunkIds: Set<string>,
+    existingChunkInfo: Map<string, ExistingChunkInfo>,
     onBatchComplete?: (batchChunks: EmbeddingChunk[]) => Promise<void>
-  ): Promise<EmbeddingChunk[]> {
+  ): Promise<{ chunks: EmbeddingChunk[]; orphanIds: string[] }> {
     console.log('🔄 Loading meetings from', this.dataDir);
     const meetings = await this.loadMeetings();
     console.log(`Loaded ${meetings.length} meetings`);
 
     console.log('Creating chunks...');
     const allChunks: EmbeddingChunk[] = [];
+    const freshIds = new Set<string>();
+    const freshFilePaths = new Set<string>();
     for (const { meeting, filePath } of meetings) {
+      freshFilePaths.add(filePath);
       const chunks = this.createChunks(meeting, filePath);
+      for (const c of chunks) freshIds.add(c.id);
       allChunks.push(...chunks);
     }
     console.log(`Created ${allChunks.length} total chunks`);
 
-    // Filter out chunks that already exist
-    const newChunks = allChunks.filter(chunk => !existingChunkIds.has(chunk.id));
-    console.log(`Found ${newChunks.length} new chunks (${existingChunkIds.size} already exist)`);
-
-    if (newChunks.length === 0) {
-      console.log('✅ No new meetings to process. Database is up to date!');
-      return [];
+    // Partition: new vs changed vs unchanged
+    let newCount = 0;
+    let changedCount = 0;
+    const toEmbed: EmbeddingChunk[] = [];
+    for (const chunk of allChunks) {
+      const existing = existingChunkInfo.get(chunk.id);
+      if (!existing) {
+        newCount++;
+        toEmbed.push(chunk);
+      } else if (existing.textHash !== hashChunkText(chunk.text)) {
+        changedCount++;
+        toEmbed.push(chunk);
+      }
     }
 
-    console.log(`Generating embeddings for ${newChunks.length} new chunks...`);
-    const chunksWithEmbeddings = await this.generateEmbeddings(newChunks, onBatchComplete);
+    // Orphans: in DB, not in fresh set, but file is still on disk.
+    const orphanIds: string[] = [];
+    for (const [id, info] of existingChunkInfo) {
+      if (!freshIds.has(id) && freshFilePaths.has(info.filePath)) {
+        orphanIds.push(id);
+      }
+    }
 
-    return chunksWithEmbeddings;
+    console.log(
+      `Incremental plan: ${newCount} new, ${changedCount} changed, ` +
+      `${allChunks.length - newCount - changedCount} unchanged, ` +
+      `${orphanIds.length} orphans to delete`
+    );
+
+    if (toEmbed.length === 0) {
+      console.log('✅ No content changes. Database is up to date!');
+      return { chunks: [], orphanIds };
+    }
+
+    console.log(`Generating embeddings for ${toEmbed.length} chunks...`);
+    const chunksWithEmbeddings = await this.generateEmbeddings(toEmbed, onBatchComplete);
+
+    return { chunks: chunksWithEmbeddings, orphanIds };
   }
 }
