@@ -264,7 +264,7 @@ For meetings in roughly the last 4 weeks, you may encounter one of three situati
 **Situation A — Official minutes ARE available** (context shows vote records, motions, councillor names in Yeas/Nays):
 - Treat this as normal. Report vote outcomes and who voted how.
 
-**Situation B — No official minutes yet, but `transcript_votes` ARE present in context** (labelled "[TRANSCRIPT VOTE OUTCOMES - source: transcript, official minutes pending]"):
+**Situation B — No official minutes yet, but \`transcript_votes\` ARE present in context** (labelled "[TRANSCRIPT VOTE OUTCOMES - source: transcript, official minutes pending]"):
 - Surface these results, but ALWAYS label them clearly:
   - Use language like: "According to the meeting transcript (official minutes are not yet published)..."
   - "The transcript indicates this motion **carried 13–1** — but note this comes from the audio transcript, not the official published minutes."
