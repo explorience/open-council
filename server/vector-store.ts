@@ -1,7 +1,22 @@
 // Vector store using LanceDB for semantic search
 
 import { connect, Table, Index, rerankers } from '@lancedb/lancedb';
+import { createHash } from 'node:crypto';
 import type { EmbeddingChunk, SearchResult } from './types.js';
+
+/**
+ * Stable content hash used to detect when a chunk's text has changed
+ * even though its (positional) id has not. 64-bit truncation is plenty
+ * for collision avoidance at our scale (~64k chunks).
+ */
+export function hashChunkText(text: string): string {
+  return createHash('sha256').update(text, 'utf8').digest('hex').slice(0, 16);
+}
+
+export interface ExistingChunkInfo {
+  textHash: string;
+  filePath: string;
+}
 
 const { RRFReranker } = rerankers;
 
@@ -446,38 +461,45 @@ export class VectorStore {
   }
 
   /**
-   * Get all existing chunk IDs from the database
+   * Get all existing chunks' id, text-hash, and file_path from the database.
+   * The hash is computed in JS over the stored `text` column so we can detect
+   * when a re-scrape changed a chunk's content even though its positional id
+   * stayed the same.
    */
-  async getExistingChunkIds(): Promise<Set<string>> {
+  async getExistingChunkInfo(): Promise<Map<string, ExistingChunkInfo>> {
     if (!this.table) {
-      return new Set();
+      return new Map();
     }
 
     try {
-      // First, get the total count to set appropriate limit
       const totalCount = await this.table.countRows();
-      console.log(`Retrieving ${totalCount} existing chunk IDs...`);
+      console.log(`Retrieving ${totalCount} existing chunk records...`);
 
-      // Use a dummy vector to retrieve all IDs
-      // Add buffer to handle any concurrent additions
+      // Use a dummy vector to retrieve all rows. Buffer for concurrent writes.
       const dummyVector = new Array(1536).fill(0); // text-embedding-3-small dimension
 
       const results = await this.table
         .vectorSearch(dummyVector)
-        .limit(totalCount + 1000) // Add 1000 buffer for safety
-        .select(['id'])
+        .limit(totalCount + 1000)
+        .select(['id', 'text', 'file_path'])
         .toArray();
 
-      console.log(`Retrieved ${results.length} chunk IDs from database`);
-      return new Set(results.map((r: any) => r.id));
+      const map = new Map<string, ExistingChunkInfo>();
+      for (const r of results as Array<{ id: string; text: string; file_path: string }>) {
+        map.set(r.id, { textHash: hashChunkText(r.text ?? ''), filePath: r.file_path ?? '' });
+      }
+      console.log(`Retrieved ${map.size} chunk records from database`);
+      return map;
     } catch (error) {
-      console.error('Error fetching existing chunk IDs:', error);
-      return new Set();
+      console.error('Error fetching existing chunk info:', error);
+      return new Map();
     }
   }
 
   /**
-   * Add new chunks to the existing table (incremental update)
+   * Upsert chunks into the table. Rows whose `id` already exists are
+   * replaced (vector + text + metadata refreshed); rows with new ids are
+   * inserted. Use `deleteChunksByIds` to remove orphans separately.
    */
   async addChunks(chunks: EmbeddingChunk[]): Promise<void> {
     if (!this.db) {
@@ -485,7 +507,7 @@ export class VectorStore {
     }
 
     if (chunks.length === 0) {
-      console.log('No new chunks to add');
+      console.log('No chunks to upsert');
       return;
     }
 
@@ -505,16 +527,47 @@ export class VectorStore {
     }));
 
     if (!this.table) {
-      // If table doesn't exist, create it
       console.log(`Creating new table with ${records.length} records...`);
       this.table = await this.db.createTable(TABLE_NAME, records);
       console.log(`Table ${TABLE_NAME} created successfully`);
-    } else {
-      // Add to existing table
-      console.log(`Adding ${records.length} new records to existing table...`);
-      await this.table.add(records);
-      console.log(`Successfully added ${records.length} new records`);
+      return;
     }
+
+    console.log(`Upserting ${records.length} records into existing table...`);
+    await this.table
+      .mergeInsert(['id'])
+      .whenMatchedUpdateAll()
+      .whenNotMatchedInsertAll()
+      .execute(records);
+    console.log(`Successfully upserted ${records.length} records`);
+  }
+
+  /**
+   * Delete chunks by id. Used to clean up orphans whose positional id no
+   * longer appears in the freshly-built chunk set (e.g. when a meeting
+   * agenda is amended and an item is removed or renumbered).
+   *
+   * Returns the number of ids that were submitted for deletion.
+   */
+  async deleteChunksByIds(ids: string[]): Promise<number> {
+    if (!this.table) return 0;
+    if (ids.length === 0) return 0;
+
+    // SQL injection: chunk ids are derived from file paths (e.g. "data/.../Mayor's Meeting.json:item:3")
+    // so we must escape single quotes.
+    const escape = (s: string) => s.replace(/'/g, "''");
+
+    // Batch to keep predicate strings short.
+    const BATCH = 500;
+    let total = 0;
+    for (let i = 0; i < ids.length; i += BATCH) {
+      const batch = ids.slice(i, i + BATCH);
+      const predicate = `id IN (${batch.map(id => `'${escape(id)}'`).join(', ')})`;
+      await this.table.delete(predicate);
+      total += batch.length;
+    }
+    console.log(`Deleted ${total} orphan chunks`);
+    return total;
   }
 
   /**

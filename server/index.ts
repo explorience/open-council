@@ -343,19 +343,23 @@ app.post('/api/regenerate', async (req, res) => {
           const dataDir = resolve(process.cwd(), 'data');
           const generator = new EmbeddingGenerator(openaiKey, dataDir);
 
-          // Get existing chunk IDs
-          const existingIds = await vectorStore.getExistingChunkIds();
-          console.log(`Found ${existingIds.size} existing chunks`);
+          // Get existing chunk info (id → text-hash + file_path) so we can
+          // detect content changes, not just brand-new chunks.
+          const existingInfo = await vectorStore.getExistingChunkInfo();
+          console.log(`Found ${existingInfo.size} existing chunks`);
 
-          // Generate embeddings for new chunks only
-          const newChunks = await generator.generateIncremental(existingIds);
+          // Generate embeddings for new + content-changed chunks
+          const result = await generator.generateIncremental(existingInfo);
 
-          if (newChunks.length > 0) {
-            // Add new chunks to vector store
-            await vectorStore.addChunks(newChunks);
-            console.log(`✅ Added ${newChunks.length} new embeddings to database`);
-          } else {
-            console.log('✅ No new meetings to process');
+          if (result.chunks.length > 0) {
+            await vectorStore.addChunks(result.chunks);
+            console.log(`✅ Upserted ${result.chunks.length} embeddings`);
+          }
+          if (result.orphanIds.length > 0) {
+            await vectorStore.deleteChunksByIds(result.orphanIds);
+          }
+          if (result.chunks.length === 0 && result.orphanIds.length === 0) {
+            console.log('✅ No changes to process');
           }
 
           const stats = await vectorStore.getStats();
