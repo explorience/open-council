@@ -2,7 +2,7 @@
 title: "Planning and Environment Committee"
 type: committee
 slug: "planning-environment"
-meetingCount: 295
+meetingCount: 296
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -11,6 +11,7 @@ prefillQuestions:
 
 ## Recent Meetings
 
+- [Planning and Environment Committee](</months/2026-05/2026-05-05 - Planning and Environment Committee>) - Tue May 5 2026
 - [Planning and Environment Committee](</months/2026-04/2026-04-14 - Planning and Environment Committee>) - Tue Apr 14 2026
 - [The 6th Meeting of the Planning and Environment Committee](</months/2026-04/2026-04-14 The 6th Meeting of the Planning and Environment Committee>) - Tue Apr 14 2026
 - [2026-03-10 - Planning and Environment Committee](</months/2026-03/2026-03-10 - Planning and Environment Committee>) - Tue Mar 10 2026
@@ -20,8 +21,7 @@ prefillQuestions:
 - [3rd Meeting of the Planning and Environment Committee](</months/2026-01/2026-01-27 3rd Meeting of the Planning and Environment Committee>) - Tue Jan 27 2026
 - [2nd Meeting of the Planning and Environment Committee](</months/2026-01/2026-01-06 2nd Meeting of the Planning and Environment Committee>) - Tue Jan 6 2026
 - [The 1st Meeting of the Planning and Environment Committee](</months/2025-12/2025-12-02 The 1st Meeting of the Planning and Environment Committee>) - Tue Dec 2 2025
-- [The 17th Meeting of the Planning and Environment Committee](</months/2025-11/2025-11-12 The 17th Meeting of the Planning and Environment Committee>) - Wed Nov 12 2025
 
 
-[View all 295 meetings →](#)
+[View all 296 meetings →](#)
 
