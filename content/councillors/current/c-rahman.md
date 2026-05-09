@@ -2,11 +2,11 @@
 title: "Corrine Rahman"
 type: councillor
 slug: "c-rahman"
-meetingCount: 235
+meetingCount: 236
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 3519
-votesYea: 2920
+totalVotes: 3521
+votesYea: 2922
 votesNay: 346
 votesAbsent: 253
 attendanceRate: 100.0
@@ -30,8 +30,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 3,519 |
-| Voted Yea | 2,920 (83.0%) |
+| Total Votes | 3,521 |
+| Voted Yea | 2,922 (83.0%) |
 | Voted Nay | 346 (9.8%) |
 | Absent | 253 (7.2%) |
 
@@ -42,8 +42,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,110 |
-| Voted Yea | 1,596 (84.6%) |
+| Substantive Votes | 2,111 |
+| Voted Yea | 1,597 (84.6%) |
 | Voted Nay | 291 (15.4%) |
 
 
@@ -72,7 +72,7 @@ prefillQuestions:
 ## Attendance
 
 - **Attendance Rate**: 100.0%
-- **Meetings Attended**: 210 of 210
+- **Meetings Attended**: 211 of 211
 - **Meetings Missed**: 0
 - **Trend**: Stable -
 
@@ -80,7 +80,7 @@ prefillQuestions:
   - 2023: 100.0% (72/72 meetings)
   - 2024: 100.0% (61/61 meetings)
   - 2025: 100.0% (55/55 meetings)
-  - 2026: 100.0% (13/13 meetings)
+  - 2026: 100.0% (14/14 meetings)
 
 
 ## Voting Alignment
@@ -88,7 +88,7 @@ prefillQuestions:
 **Most aligned with:**
 - Josh Morgan (93.1%)
 - Steve Lehman (92.8%)
-- Steve Hillier (92.4%)
+- Jerry Pribil (92.4%)
 
 **Least aligned with:**
 - Susan Stevenson (84.5%)
@@ -107,7 +107,7 @@ prefillQuestions:
 | Planning and Environment Committee | 417 | 405 | 8 | 99.0% |
 | Budget Committee | 189 | 136 | 53 | 100.0% |
 | Infrastructure and Corporate Services Committee | 120 | 112 | 7 | 99.2% |
-| Community and Protective Services Committee | 89 | 84 | 5 | 100.0% |
+| Community and Protective Services Committee | 91 | 86 | 5 | 100.0% |
 | Corporate Services Committee | 67 | 61 | 2 | 94.0% |
 | Civic Works Committee | 57 | 50 | 6 | 98.2% |
 
@@ -209,8 +209,9 @@ Voted **Nay** - Motion Passed (8 to 3)
 - [Civic Works Committee](/committees/civic-works)
 - [Community Protective Services Committee](/committees/community-protective-services-committee)
 
-## Recent Meetings (235 total)
+## Recent Meetings (236 total)
 
+- [7th Meeting of the Community and Protective Services Committee](</months/2026-05/2026-05-04 7th Meeting of the Community and Protective Services Committee>) - Mon May 4 2026
 - [6th Meeting of the Community and Protective Services Committee](</months/2026-04/2026-04-13 6th Meeting of the Community and Protective Services Committee>) - Mon Apr 13 2026
 - [5th Meeting of the Strategic Priorities and Policy Committee](</months/2026-03/2026-03-24 5th Meeting of the Strategic Priorities and Policy Committee>) - Tue Mar 24 2026
 - [5th Special Meeting of the Community and Protective Services Committee](</months/2026-03/2026-03-13 5th Special Meeting of the Community and Protective Services Committee>) - Fri Mar 13 2026
@@ -220,4 +221,3 @@ Voted **Nay** - Motion Passed (8 to 3)
 - [4th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-02/2026-02-23 4th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Feb 23 2026
 - [3rd Meeting of the Community and Protective Services Committee](</months/2026-02/2026-02-17 3rd Meeting of the Community and Protective Services Committee>) - Tue Feb 17 2026
 - [3rd Council Meeting](</months/2026-02/2026-02-10 3rd Council Meeting>) - Tue Feb 10 2026
-- [3rd Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-03 3rd Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 3 2026

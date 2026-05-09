@@ -2,18 +2,18 @@
 title: "Steve Hillier"
 type: councillor
 slug: "s-hillier"
-meetingCount: 469
+meetingCount: 471
 yearsActive: "2018 - 2026"
 isCurrent: true
-totalVotes: 7861
-votesYea: 6753
+totalVotes: 7872
+votesYea: 6764
 votesNay: 480
 votesAbsent: 628
 attendanceRate: 93.4
 participationRate: 92.0
 yeaRate: 93.4
-contestedDissentRate: 15.1
-contestedVotes: 2066
+contestedDissentRate: 15.0
+contestedVotes: 2067
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -30,8 +30,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 7,861 |
-| Voted Yea | 6,753 (85.9%) |
+| Total Votes | 7,872 |
+| Voted Yea | 6,764 (85.9%) |
 | Voted Nay | 480 (6.1%) |
 | Absent | 628 (8.0%) |
 
@@ -42,8 +42,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 4,435 |
-| Voted Yea | 3,537 (89.4%) |
+| Substantive Votes | 4,439 |
+| Voted Yea | 3,541 (89.4%) |
 | Voted Nay | 421 (10.6%) |
 
 
@@ -51,8 +51,8 @@ prefillQuestions:
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 15.1%
-- **Contested Votes**: 2,066
+- **Dissent Rate**: 15.0%
+- **Contested Votes**: 2,067
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -72,7 +72,7 @@ prefillQuestions:
 ## Attendance
 
 - **Attendance Rate**: 93.4%
-- **Meetings Attended**: 424 of 454
+- **Meetings Attended**: 425 of 455
 - **Meetings Missed**: 30
 - **Trend**: Declining v
 
@@ -80,7 +80,7 @@ prefillQuestions:
   - 2023: 86.7% (52/60 meetings)
   - 2024: 95.2% (60/63 meetings)
   - 2025: 96.3% (52/54 meetings)
-  - 2026: 83.3% (10/12 meetings)
+  - 2026: 84.6% (11/13 meetings)
 
 
 ## Voting Alignment
@@ -103,7 +103,7 @@ prefillQuestions:
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
 | Council | 3,731 | 3,312 | 252 | 95.5% |
-| Planning and Environment Committee | 1,824 | 1,713 | 38 | 96.0% |
+| Planning and Environment Committee | 1,835 | 1,724 | 38 | 96.0% |
 | Strategic Priorities and Policy Committee | 1,738 | 1,241 | 125 | 78.6% |
 | Community and Protective Services Committee | 328 | 314 | 1 | 96.0% |
 | Budget Committee | 189 | 125 | 64 | 100.0% |
@@ -197,16 +197,18 @@ Voted **Nay** - Motion Passed (3 to 1)
 
 ## Committees Served
 
-- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Planning and Environment Committee](/committees/planning-environment)
-- [City Council](/committees/city-council)
 - [Community and Protective Services Committee](/committees/community-protective-services)
+- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
+- [City Council](/committees/city-council)
 - [Corporate Services Committee](/committees/corporate-services)
 - [Budget Committee](/committees/budget)
 - [Civic Works Committee](/committees/civic-works)
 
-## Recent Meetings (469 total)
+## Recent Meetings (471 total)
 
+- [The 7th Meeting of the Planning and Environment Committee](</months/2026-05/2026-05-05 The 7th Meeting of the Planning and Environment Committee>) - Tue May 5 2026
+- [7th Meeting of the Community and Protective Services Committee](</months/2026-05/2026-05-04 7th Meeting of the Community and Protective Services Committee>) - Mon May 4 2026
 - [5th Meeting of the Strategic Priorities and Policy Committee](</months/2026-03/2026-03-24 5th Meeting of the Strategic Priorities and Policy Committee>) - Tue Mar 24 2026
 - [5th Meeting of the Planning and Environment Committee](</months/2026-03/2026-03-10 5th Meeting of the Planning and Environment Committee>) - Tue Mar 10 2026
 - [4th Council Meeting](</months/2026-03/2026-03-03 4th Council Meeting>) - Tue Mar 3 2026
@@ -215,5 +217,3 @@ Voted **Nay** - Motion Passed (3 to 1)
 - [3rd Meeting of the Community and Protective Services Committee](</months/2026-02/2026-02-17 3rd Meeting of the Community and Protective Services Committee>) - Tue Feb 17 2026
 - [3rd Council Meeting](</months/2026-02/2026-02-10 3rd Council Meeting>) - Tue Feb 10 2026
 - [3rd Meeting of the Planning and Environment Committee](</months/2026-01/2026-01-27 3rd Meeting of the Planning and Environment Committee>) - Tue Jan 27 2026
-- [2nd Meeting of the Strategic Priorities and Policy Committee](</months/2026-01/2026-01-13 2nd Meeting of the Strategic Priorities and Policy Committee>) - Tue Jan 13 2026
-- [2nd Meeting of the Infrastructure and Corporate Services Committee](</months/2026-01/2026-01-12 2nd Meeting of the Infrastructure and Corporate Services Committee>) - Mon Jan 12 2026

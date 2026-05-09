@@ -2,18 +2,18 @@
 title: "Shawn Lewis"
 type: councillor
 slug: "s-lewis"
-meetingCount: 515
+meetingCount: 516
 yearsActive: "2018 - 2026"
 isCurrent: true
-totalVotes: 9101
-votesYea: 7953
+totalVotes: 9112
+votesYea: 7964
 votesNay: 501
 votesAbsent: 647
 attendanceRate: 98.6
 participationRate: 92.9
 yeaRate: 94.1
 contestedDissentRate: 10.6
-contestedVotes: 2397
+contestedVotes: 2398
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -30,8 +30,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 9,101 |
-| Voted Yea | 7,953 (87.4%) |
+| Total Votes | 9,112 |
+| Voted Yea | 7,964 (87.4%) |
 | Voted Nay | 501 (5.5%) |
 | Absent | 647 (7.1%) |
 
@@ -42,8 +42,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 5,272 |
-| Voted Yea | 4,260 (90.1%) |
+| Substantive Votes | 5,276 |
+| Voted Yea | 4,264 (90.1%) |
 | Voted Nay | 467 (9.9%) |
 
 
@@ -52,7 +52,7 @@ prefillQuestions:
 *Only counts non-unanimous votes where the councillor participated*
 
 - **Dissent Rate**: 10.6%
-- **Contested Votes**: 2,397
+- **Contested Votes**: 2,398
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -72,7 +72,7 @@ prefillQuestions:
 ## Attendance
 
 - **Attendance Rate**: 98.6%
-- **Meetings Attended**: 480 of 487
+- **Meetings Attended**: 481 of 488
 - **Meetings Missed**: 7
 - **Trend**: Declining v
 
@@ -80,7 +80,7 @@ prefillQuestions:
   - 2023: 100.0% (84/84 meetings)
   - 2024: 98.4% (62/63 meetings)
   - 2025: 96.3% (52/54 meetings)
-  - 2026: 85.7% (12/14 meetings)
+  - 2026: 86.7% (13/15 meetings)
 
 
 ## Voting Alignment
@@ -104,7 +104,7 @@ prefillQuestions:
 |-----------|------:|----:|----:|--------------:|
 | Council | 4,044 | 3,748 | 241 | 98.6% |
 | Strategic Priorities and Policy Committee | 2,084 | 1,510 | 136 | 79.0% |
-| Planning and Environment Committee | 2,011 | 1,891 | 36 | 95.8% |
+| Planning and Environment Committee | 2,022 | 1,902 | 36 | 95.8% |
 | Community and Protective Services Committee | 374 | 356 | 11 | 98.1% |
 | Civic Works Committee | 196 | 188 | 3 | 97.4% |
 | Corporate Services Committee | 194 | 164 | 5 | 87.1% |
@@ -199,17 +199,18 @@ Voted **Yea** - Motion Failed (2 to 4)
 
 ## Committees Served
 
+- [Planning and Environment Committee](/committees/planning-environment)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Corporate Services Committee](/committees/corporate-services)
-- [Planning and Environment Committee](/committees/planning-environment)
 - [City Council](/committees/city-council)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [Budget Committee](/committees/budget)
 - [Audit Committee](/committees/audit)
 - [Civic Works Committee](/committees/civic-works)
 
-## Recent Meetings (515 total)
+## Recent Meetings (516 total)
 
+- [The 7th Meeting of the Planning and Environment Committee](</months/2026-05/2026-05-05 The 7th Meeting of the Planning and Environment Committee>) - Tue May 5 2026
 - [5th Meeting of the Strategic Priorities and Policy Committee](</months/2026-03/2026-03-24 5th Meeting of the Strategic Priorities and Policy Committee>) - Tue Mar 24 2026
 - [6th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-03/2026-03-23 6th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Mar 23 2026
 - [5th Meeting of the Planning and Environment Committee](</months/2026-03/2026-03-10 5th Meeting of the Planning and Environment Committee>) - Tue Mar 10 2026
@@ -219,4 +220,3 @@ Voted **Yea** - Motion Failed (2 to 4)
 - [3rd Meeting of the Community and Protective Services Committee](</months/2026-02/2026-02-17 3rd Meeting of the Community and Protective Services Committee>) - Tue Feb 17 2026
 - [3rd Council Meeting](</months/2026-02/2026-02-10 3rd Council Meeting>) - Tue Feb 10 2026
 - [3rd Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-03 3rd Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 3 2026
-- [3rd Meeting of the Infrastructure and Corporate Services Committee](</months/2026-02/2026-02-02 3rd Meeting of the Infrastructure and Corporate Services Committee>) - Mon Feb 2 2026

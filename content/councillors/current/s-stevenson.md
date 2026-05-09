@@ -2,18 +2,18 @@
 title: "Susan Stevenson"
 type: councillor
 slug: "s-stevenson"
-meetingCount: 201
+meetingCount: 202
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 3654
-votesYea: 2627
-votesNay: 548
+totalVotes: 3665
+votesYea: 2637
+votesNay: 549
 votesAbsent: 479
 attendanceRate: 89.0
 participationRate: 86.9
-yeaRate: 82.7
-contestedDissentRate: 35.6
-contestedVotes: 1334
+yeaRate: 82.8
+contestedDissentRate: 35.7
+contestedVotes: 1335
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -30,9 +30,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 3,654 |
-| Voted Yea | 2,627 (71.9%) |
-| Voted Nay | 548 (15.0%) |
+| Total Votes | 3,665 |
+| Voted Yea | 2,637 (72.0%) |
+| Voted Nay | 549 (15.0%) |
 | Absent | 479 (13.1%) |
 
 
@@ -42,17 +42,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,240 |
-| Voted Yea | 1,541 (81.5%) |
-| Voted Nay | 350 (18.5%) |
+| Substantive Votes | 2,244 |
+| Voted Yea | 1,544 (81.5%) |
+| Voted Nay | 351 (18.5%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 35.6%
-- **Contested Votes**: 1,334
+- **Dissent Rate**: 35.7%
+- **Contested Votes**: 1,335
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -72,7 +72,7 @@ prefillQuestions:
 ## Attendance
 
 - **Attendance Rate**: 89.0%
-- **Meetings Attended**: 194 of 218
+- **Meetings Attended**: 195 of 219
 - **Meetings Missed**: 24
 - **Trend**: Stable -
 
@@ -80,7 +80,7 @@ prefillQuestions:
   - 2023: 88.6% (70/79 meetings)
   - 2024: 89.4% (59/66 meetings)
   - 2025: 86.4% (38/44 meetings)
-  - 2026: 90.0% (18/20 meetings)
+  - 2026: 90.5% (19/21 meetings)
 
 
 ## Voting Alignment
@@ -104,7 +104,7 @@ prefillQuestions:
 |-----------|------:|----:|----:|--------------:|
 | Council | 1,941 | 1,399 | 379 | 91.6% |
 | Strategic Priorities and Policy Committee | 988 | 681 | 94 | 78.4% |
-| Planning and Environment Committee | 201 | 160 | 3 | 81.1% |
+| Planning and Environment Committee | 212 | 170 | 4 | 82.1% |
 | Budget Committee | 189 | 137 | 45 | 96.3% |
 | Corporate Services Committee | 184 | 126 | 8 | 72.8% |
 | Community and Protective Services Committee | 92 | 78 | 7 | 92.4% |
@@ -114,6 +114,14 @@ prefillQuestions:
 ## Notable Dissenting Votes
 
 *Recent split votes where Susan Stevenson voted against the final outcome:*
+
+### 2026-05-05: 945 Bluegrass Drive - OZ-26019
+
+[The 7th Meeting of the Planning and Environment Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=9e867ca5-1f00-4f56-a35c-30252605ddb9&Agenda=PostMinutes&lang=English)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Bluegrass Long Term Care Centre – Division of “Meadow Park” (Lo...
+
+Voted **Nay** - Motion Passed (3 to 2)
 
 ### 2026-04-21: London Transit Rapid Transit Operational Readiness Review
 
@@ -187,14 +195,6 @@ Voted **Nay** - Motion Passed (5 to 1)
 
 Voted **Yea** - Motion Failed (3 to 3)
 
-### 2026-03-23: Smart Commute London: Additional Details and Memorandum of Understanding (MOU) Extension
-
-[6th Meeting of the Infrastructure and Corporate Services Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=e9890bd1-3ebf-47fa-8198-25a144b6365d&Agenda=PostMinutes&lang=English)
-
-> That the following part BE APPROVED b)    the Deputy City Manager of Environment and Infrastructure BE AUTHORIZED to approve and execute the upcoming Smart Commute Memorandum of Understanding (MOU) Am...
-
-Voted **Nay** - Motion Passed (5 to 1)
-
 
 ## Committees Served
 
@@ -207,8 +207,9 @@ Voted **Nay** - Motion Passed (5 to 1)
 - [Budget Committee](/committees/budget)
 - [Community Protective Services Committee](/committees/community-protective-services-committee)
 
-## Recent Meetings (201 total)
+## Recent Meetings (202 total)
 
+- [The 7th Meeting of the Planning and Environment Committee](</months/2026-05/2026-05-05 The 7th Meeting of the Planning and Environment Committee>) - Tue May 5 2026
 - [The 6th Meeting of the Planning and Environment Committee](</months/2026-04/2026-04-14 The 6th Meeting of the Planning and Environment Committee>) - Tue Apr 14 2026
 - [5th Meeting of the Strategic Priorities and Policy Committee](</months/2026-03/2026-03-24 5th Meeting of the Strategic Priorities and Policy Committee>) - Tue Mar 24 2026
 - [6th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-03/2026-03-23 6th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Mar 23 2026
@@ -218,4 +219,3 @@ Voted **Nay** - Motion Passed (5 to 1)
 - [4th Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-24 4th Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 24 2026
 - [4th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-02/2026-02-23 4th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Feb 23 2026
 - [4th Meeting of the Planning and Environment Committee](</months/2026-02/2026-02-18 4th Meeting of the Planning and Environment Committee>) - Wed Feb 18 2026
-- [3rd Meeting of the Community and Protective Services Committee](</months/2026-02/2026-02-17 3rd Meeting of the Community and Protective Services Committee>) - Tue Feb 17 2026

@@ -2,16 +2,16 @@
 title: "David Ferreira"
 type: councillor
 slug: "d-ferreira"
-meetingCount: 225
+meetingCount: 226
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 3217
-votesYea: 2539
+totalVotes: 3219
+votesYea: 2541
 votesNay: 378
 votesAbsent: 300
 attendanceRate: 97.4
 participationRate: 90.7
-yeaRate: 87.0
+yeaRate: 87.1
 contestedDissentRate: 28.3
 contestedVotes: 1302
 prefillQuestions:
@@ -30,9 +30,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 3,217 |
-| Voted Yea | 2,539 (78.9%) |
-| Voted Nay | 378 (11.8%) |
+| Total Votes | 3,219 |
+| Voted Yea | 2,541 (78.9%) |
+| Voted Nay | 378 (11.7%) |
 | Absent | 300 (9.3%) |
 
 
@@ -42,8 +42,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,061 |
-| Voted Yea | 1,522 (83.5%) |
+| Substantive Votes | 2,062 |
+| Voted Yea | 1,523 (83.5%) |
 | Voted Nay | 300 (16.5%) |
 
 
@@ -72,7 +72,7 @@ prefillQuestions:
 ## Attendance
 
 - **Attendance Rate**: 97.4%
-- **Meetings Attended**: 221 of 227
+- **Meetings Attended**: 222 of 228
 - **Meetings Missed**: 6
 - **Trend**: Stable -
 
@@ -80,7 +80,7 @@ prefillQuestions:
   - 2023: 98.7% (76/77 meetings)
   - 2024: 98.6% (73/74 meetings)
   - 2025: 92.7% (51/55 meetings)
-  - 2026: 100.0% (12/12 meetings)
+  - 2026: 100.0% (13/13 meetings)
 
 
 ## Voting Alignment
@@ -104,7 +104,7 @@ prefillQuestions:
 |-----------|------:|----:|----:|--------------:|
 | Council | 1,733 | 1,450 | 223 | 96.5% |
 | Strategic Priorities and Policy Committee | 765 | 499 | 74 | 74.9% |
-| Community and Protective Services Committee | 400 | 353 | 31 | 96.0% |
+| Community and Protective Services Committee | 402 | 355 | 31 | 96.0% |
 | Budget Committee | 189 | 139 | 50 | 100.0% |
 | Corporate Services Committee | 75 | 46 | 0 | 61.3% |
 | Civic Works Committee | 55 | 52 | 0 | 94.5% |
@@ -206,8 +206,9 @@ Voted **Nay** - Motion Passed (8 to 3)
 - [Civic Works Committee](/committees/civic-works)
 - [Community Protective Services Committee](/committees/community-protective-services-committee)
 
-## Recent Meetings (225 total)
+## Recent Meetings (226 total)
 
+- [7th Meeting of the Community and Protective Services Committee](</months/2026-05/2026-05-04 7th Meeting of the Community and Protective Services Committee>) - Mon May 4 2026
 - [6th Meeting of the Community and Protective Services Committee](</months/2026-04/2026-04-13 6th Meeting of the Community and Protective Services Committee>) - Mon Apr 13 2026
 - [5th Meeting of the Strategic Priorities and Policy Committee](</months/2026-03/2026-03-24 5th Meeting of the Strategic Priorities and Policy Committee>) - Tue Mar 24 2026
 - [6th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-03/2026-03-23 6th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Mar 23 2026
@@ -217,4 +218,3 @@ Voted **Nay** - Motion Passed (8 to 3)
 - [4th Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-24 4th Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 24 2026
 - [3rd Meeting of the Community and Protective Services Committee](</months/2026-02/2026-02-17 3rd Meeting of the Community and Protective Services Committee>) - Tue Feb 17 2026
 - [3rd Council Meeting](</months/2026-02/2026-02-10 3rd Council Meeting>) - Tue Feb 10 2026
-- [3rd Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-03 3rd Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 3 2026

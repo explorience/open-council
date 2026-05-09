@@ -2,14 +2,14 @@
 title: "Sam Trosow"
 type: councillor
 slug: "s-trosow"
-meetingCount: 224
+meetingCount: 225
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 3598
-votesYea: 2612
+totalVotes: 3600
+votesYea: 2614
 votesNay: 589
 votesAbsent: 397
-attendanceRate: 96.0
+attendanceRate: 96.1
 participationRate: 89.0
 yeaRate: 81.6
 contestedDissentRate: 46.0
@@ -30,8 +30,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 3,598 |
-| Voted Yea | 2,612 (72.6%) |
+| Total Votes | 3,600 |
+| Voted Yea | 2,614 (72.6%) |
 | Voted Nay | 589 (16.4%) |
 | Absent | 397 (11.0%) |
 
@@ -42,8 +42,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,302 |
-| Voted Yea | 1,641 (80.5%) |
+| Substantive Votes | 2,303 |
+| Voted Yea | 1,642 (80.5%) |
 | Voted Nay | 398 (19.5%) |
 
 
@@ -71,8 +71,8 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 96.0%
-- **Meetings Attended**: 218 of 227
+- **Attendance Rate**: 96.1%
+- **Meetings Attended**: 219 of 228
 - **Meetings Missed**: 9
 - **Trend**: Stable -
 
@@ -80,7 +80,7 @@ prefillQuestions:
   - 2023: 94.8% (73/77 meetings)
   - 2024: 93.2% (69/74 meetings)
   - 2025: 100.0% (55/55 meetings)
-  - 2026: 100.0% (12/12 meetings)
+  - 2026: 100.0% (13/13 meetings)
 
 
 ## Voting Alignment
@@ -104,7 +104,7 @@ prefillQuestions:
 |-----------|------:|----:|----:|--------------:|
 | Council | 1,934 | 1,383 | 373 | 90.8% |
 | Strategic Priorities and Policy Committee | 945 | 650 | 124 | 81.9% |
-| Community and Protective Services Committee | 343 | 298 | 35 | 97.1% |
+| Community and Protective Services Committee | 345 | 300 | 35 | 97.1% |
 | Budget Committee | 189 | 141 | 44 | 97.9% |
 | Civic Works Committee | 113 | 98 | 10 | 95.6% |
 | Corporate Services Committee | 74 | 42 | 3 | 60.8% |
@@ -206,8 +206,9 @@ Voted **Yea** - Motion Failed (5 to 8)
 - [Corporate Services Committee](/committees/corporate-services)
 - [Audit Committee](/committees/audit)
 
-## Recent Meetings (224 total)
+## Recent Meetings (225 total)
 
+- [7th Meeting of the Community and Protective Services Committee](</months/2026-05/2026-05-04 7th Meeting of the Community and Protective Services Committee>) - Mon May 4 2026
 - [6th Meeting of the Community and Protective Services Committee](</months/2026-04/2026-04-13 6th Meeting of the Community and Protective Services Committee>) - Mon Apr 13 2026
 - [5th Meeting of the Strategic Priorities and Policy Committee](</months/2026-03/2026-03-24 5th Meeting of the Strategic Priorities and Policy Committee>) - Tue Mar 24 2026
 - [5th Special Meeting of the Community and Protective Services Committee](</months/2026-03/2026-03-13 5th Special Meeting of the Community and Protective Services Committee>) - Fri Mar 13 2026
@@ -217,4 +218,3 @@ Voted **Yea** - Motion Failed (5 to 8)
 - [3rd Meeting of the Community and Protective Services Committee](</months/2026-02/2026-02-17 3rd Meeting of the Community and Protective Services Committee>) - Tue Feb 17 2026
 - [3rd Council Meeting](</months/2026-02/2026-02-10 3rd Council Meeting>) - Tue Feb 10 2026
 - [3rd Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-03 3rd Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 3 2026
-- [2nd Meeting of the Community and Protective Services Committee](</months/2026-01/2026-01-26 2nd Meeting of the Community and Protective Services Committee>) - Mon Jan 26 2026

@@ -2,14 +2,14 @@
 title: "Jerry Pribil"
 type: councillor
 slug: "j-pribil"
-meetingCount: 231
+meetingCount: 232
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 3696
-votesYea: 3137
+totalVotes: 3698
+votesYea: 3139
 votesNay: 307
 votesAbsent: 252
-attendanceRate: 97.0
+attendanceRate: 97.1
 participationRate: 93.2
 yeaRate: 91.1
 contestedDissentRate: 12.5
@@ -30,8 +30,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 3,696 |
-| Voted Yea | 3,137 (84.9%) |
+| Total Votes | 3,698 |
+| Voted Yea | 3,139 (84.9%) |
 | Voted Nay | 307 (8.3%) |
 | Absent | 252 (6.8%) |
 
@@ -42,8 +42,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,369 |
-| Voted Yea | 1,871 (87.3%) |
+| Substantive Votes | 2,370 |
+| Voted Yea | 1,872 (87.3%) |
 | Voted Nay | 272 (12.7%) |
 
 
@@ -71,8 +71,8 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 97.0%
-- **Meetings Attended**: 230 of 237
+- **Attendance Rate**: 97.1%
+- **Meetings Attended**: 231 of 238
 - **Meetings Missed**: 7
 - **Trend**: Stable -
 
@@ -80,7 +80,7 @@ prefillQuestions:
   - 2023: 100.0% (62/62 meetings)
   - 2024: 98.7% (78/79 meetings)
   - 2025: 92.0% (69/75 meetings)
-  - 2026: 100.0% (13/13 meetings)
+  - 2026: 100.0% (14/14 meetings)
 
 
 ## Voting Alignment
@@ -104,7 +104,7 @@ prefillQuestions:
 |-----------|------:|----:|----:|--------------:|
 | Council | 1,934 | 1,739 | 157 | 98.0% |
 | Strategic Priorities and Policy Committee | 1,004 | 747 | 56 | 80.0% |
-| Community and Protective Services Committee | 431 | 384 | 39 | 98.1% |
+| Community and Protective Services Committee | 433 | 386 | 39 | 98.2% |
 | Budget Committee | 189 | 141 | 48 | 100.0% |
 | Infrastructure and Corporate Services Committee | 83 | 72 | 6 | 94.0% |
 | Civic Works Committee | 55 | 54 | 1 | 100.0% |
@@ -206,8 +206,9 @@ Voted **Nay** - Motion Passed (9 to 5)
 - [Civic Works Committee](/committees/civic-works)
 - [Community Protective Services Committee](/committees/community-protective-services-committee)
 
-## Recent Meetings (231 total)
+## Recent Meetings (232 total)
 
+- [7th Meeting of the Community and Protective Services Committee](</months/2026-05/2026-05-04 7th Meeting of the Community and Protective Services Committee>) - Mon May 4 2026
 - [6th Meeting of the Community and Protective Services Committee](</months/2026-04/2026-04-13 6th Meeting of the Community and Protective Services Committee>) - Mon Apr 13 2026
 - [5th Meeting of the Strategic Priorities and Policy Committee](</months/2026-03/2026-03-24 5th Meeting of the Strategic Priorities and Policy Committee>) - Tue Mar 24 2026
 - [6th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-03/2026-03-23 6th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Mar 23 2026
@@ -217,4 +218,3 @@ Voted **Nay** - Motion Passed (9 to 5)
 - [1st Meeting of the Audit Committee](</months/2026-02/2026-02-25 1st Meeting of the Audit Committee>) - Wed Feb 25 2026
 - [4th Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-24 4th Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 24 2026
 - [3rd Meeting of the Community and Protective Services Committee](</months/2026-02/2026-02-17 3rd Meeting of the Community and Protective Services Committee>) - Tue Feb 17 2026
-- [3rd Council Meeting](</months/2026-02/2026-02-10 3rd Council Meeting>) - Tue Feb 10 2026
