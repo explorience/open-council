@@ -2,8 +2,8 @@
   "councillor": "Corrine Rahman",
   "slug": "c-rahman",
   "attendance": {
-    "totalMeetings": 210,
-    "present": 210,
+    "totalMeetings": 211,
+    "present": 211,
     "absent": 0,
     "remote": 0,
     "attendanceRate": 100,
@@ -35,26 +35,26 @@
       {
         "period": "2026",
         "attendanceRate": 100,
-        "meetingsAttended": 13,
-        "meetingsTotal": 13
+        "meetingsAttended": 14,
+        "meetingsTotal": 14
       }
     ],
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 3519,
-    "yeas": 2920,
+    "totalVotes": 3521,
+    "yeas": 2922,
     "nays": 346,
     "absent": 253,
-    "participationRate": 92.81045751633987,
-    "yeaRate": 89.40600122473974,
+    "participationRate": 92.81454132348765,
+    "yeaRate": 89.41248470012239,
     "contestedDissentRate": 17.44360902255639,
     "contestedVotes": 1330,
-    "substantiveVotes": 2110,
-    "substantiveYeas": 1596,
+    "substantiveVotes": 2111,
+    "substantiveYeas": 1597,
     "substantiveNays": 291,
-    "substantiveParticipationRate": 89.43127962085308,
-    "substantiveYeaRate": 84.57869634340223
+    "substantiveParticipationRate": 89.43628612032212,
+    "substantiveYeaRate": 84.58686440677965
   },
   "budgetVoting": {
     "totalBudgetVotes": 344,
@@ -76,16 +76,16 @@
       "alignmentRate": 92.76315789473685
     },
     {
+      "councillor": "Jerry Pribil",
+      "sharedVotes": 1363,
+      "agreedVotes": 1259,
+      "alignmentRate": 92.36977256052825
+    },
+    {
       "councillor": "Steve Hillier",
       "sharedVotes": 1376,
       "agreedVotes": 1271,
       "alignmentRate": 92.36918604651163
-    },
-    {
-      "councillor": "Jerry Pribil",
-      "sharedVotes": 1361,
-      "agreedVotes": 1257,
-      "alignmentRate": 92.35855988243938
     },
     {
       "councillor": "Skylar Franke",
@@ -103,9 +103,9 @@
     },
     {
       "councillor": "Sam Trosow",
-      "sharedVotes": 1253,
-      "agreedVotes": 1061,
-      "alignmentRate": 84.67677573822824
+      "sharedVotes": 1255,
+      "agreedVotes": 1063,
+      "alignmentRate": 84.7011952191235
     },
     {
       "councillor": "Paul Van Meerbergen",
@@ -115,15 +115,15 @@
     },
     {
       "councillor": "David Ferreira",
-      "sharedVotes": 1246,
-      "agreedVotes": 1113,
-      "alignmentRate": 89.32584269662921
+      "sharedVotes": 1248,
+      "agreedVotes": 1115,
+      "alignmentRate": 89.34294871794873
     },
     {
       "councillor": "Anna Hopkins",
-      "sharedVotes": 1310,
-      "agreedVotes": 1179,
-      "alignmentRate": 90
+      "sharedVotes": 1312,
+      "agreedVotes": 1181,
+      "alignmentRate": 90.01524390243902
     }
   ],
   "notableDissents": [
@@ -256,8 +256,8 @@
     },
     {
       "committee": "Community and Protective Services Committee",
-      "totalVotes": 89,
-      "yeas": 84,
+      "totalVotes": 91,
+      "yeas": 86,
       "nays": 5,
       "participationRate": 100
     },

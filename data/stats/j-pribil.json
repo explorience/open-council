@@ -2,11 +2,11 @@
   "councillor": "Jerry Pribil",
   "slug": "j-pribil",
   "attendance": {
-    "totalMeetings": 237,
-    "present": 230,
+    "totalMeetings": 238,
+    "present": 231,
     "absent": 7,
     "remote": 0,
-    "attendanceRate": 97.0464135021097,
+    "attendanceRate": 97.05882352941177,
     "trend": [
       {
         "period": "2022",
@@ -35,26 +35,26 @@
       {
         "period": "2026",
         "attendanceRate": 100,
-        "meetingsAttended": 13,
-        "meetingsTotal": 13
+        "meetingsAttended": 14,
+        "meetingsTotal": 14
       }
     ],
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 3696,
-    "yeas": 3137,
+    "totalVotes": 3698,
+    "yeas": 3139,
     "nays": 307,
     "absent": 252,
-    "participationRate": 93.18181818181817,
-    "yeaRate": 91.08594657375146,
+    "participationRate": 93.18550567874527,
+    "yeaRate": 91.09112013929193,
     "contestedDissentRate": 12.508638562543192,
     "contestedVotes": 1447,
-    "substantiveVotes": 2369,
-    "substantiveYeas": 1871,
+    "substantiveVotes": 2370,
+    "substantiveYeas": 1872,
     "substantiveNays": 272,
-    "substantiveParticipationRate": 90.46010975094977,
-    "substantiveYeaRate": 87.30751283247783
+    "substantiveParticipationRate": 90.46413502109705,
+    "substantiveYeaRate": 87.31343283582089
   },
   "budgetVoting": {
     "totalBudgetVotes": 392,
@@ -97,15 +97,15 @@
   "bottomAlignments": [
     {
       "councillor": "Sam Trosow",
-      "sharedVotes": 1589,
-      "agreedVotes": 1360,
-      "alignmentRate": 85.5884203901825
+      "sharedVotes": 1591,
+      "agreedVotes": 1362,
+      "alignmentRate": 85.60653676932746
     },
     {
       "councillor": "David Ferreira",
-      "sharedVotes": 1438,
-      "agreedVotes": 1278,
-      "alignmentRate": 88.87343532684284
+      "sharedVotes": 1440,
+      "agreedVotes": 1280,
+      "alignmentRate": 88.88888888888889
     },
     {
       "councillor": "Susan Stevenson",
@@ -121,9 +121,9 @@
     },
     {
       "councillor": "Anna Hopkins",
-      "sharedVotes": 1571,
-      "agreedVotes": 1425,
-      "alignmentRate": 90.7065563335455
+      "sharedVotes": 1573,
+      "agreedVotes": 1427,
+      "alignmentRate": 90.71837253655436
     }
   ],
   "notableDissents": [
@@ -235,10 +235,10 @@
     },
     {
       "committee": "Community and Protective Services Committee",
-      "totalVotes": 431,
-      "yeas": 384,
+      "totalVotes": 433,
+      "yeas": 386,
       "nays": 39,
-      "participationRate": 98.14385150812065
+      "participationRate": 98.15242494226328
     },
     {
       "committee": "Budget Committee",

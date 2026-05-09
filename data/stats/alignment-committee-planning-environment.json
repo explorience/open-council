@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-08T07:04:09.633Z",
+  "generatedAt": "2026-05-09T07:16:49.661Z",
   "matrix": {
     "j-morgan": {
       "s-lewis": 93.33333333333333,
@@ -17,17 +17,17 @@
       "p-cuddy": 100,
       "s-stevenson": 100,
       "c-rahman": 98.7878787878788,
-      "s-lehman": 98.67424242424242,
+      "s-lehman": 98.68667917448406,
       "a-hopkins": 95.22388059701493,
       "s-franke": 97.58064516129032,
       "e-peloza": 95.91836734693877,
-      "s-hillier": 99.023709902371
+      "s-hillier": 99.03047091412742
     },
     "p-cuddy": {
       "j-morgan": 97.72727272727273,
       "s-lewis": 100,
       "s-stevenson": 100,
-      "s-lehman": 99.07407407407408,
+      "s-lehman": 99.09502262443439,
       "e-peloza": 96.15384615384616,
       "s-hillier": 100
     },
@@ -48,14 +48,14 @@
     },
     "s-lehman": {
       "j-morgan": 96.61016949152543,
-      "s-lewis": 98.67424242424242,
-      "p-cuddy": 99.07407407407408,
+      "s-lewis": 98.68667917448406,
+      "p-cuddy": 99.09502262443439,
       "s-stevenson": 100,
       "c-rahman": 100,
       "a-hopkins": 90.625,
       "s-franke": 96.80365296803653,
       "e-peloza": 95.30201342281879,
-      "s-hillier": 98.67924528301887
+      "s-hillier": 98.69158878504672
     },
     "a-hopkins": {
       "j-morgan": 100,
@@ -83,11 +83,11 @@
     "d-ferreira": {},
     "s-hillier": {
       "j-morgan": 97.87234042553192,
-      "s-lewis": 99.023709902371,
+      "s-lewis": 99.03047091412742,
       "p-cuddy": 100,
       "s-stevenson": 100,
       "c-rahman": 100,
-      "s-lehman": 98.67924528301887,
+      "s-lehman": 98.69158878504672,
       "a-hopkins": 94.37751004016064,
       "s-franke": 97.91666666666666,
       "e-peloza": 96.22641509433963
@@ -136,6 +136,6 @@
     }
   ],
   "type": "committee",
-  "motionCount": 2600,
+  "motionCount": 2605,
   "committeeName": "Planning and Environment Committee"
 }

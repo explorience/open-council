@@ -2,11 +2,11 @@
   "councillor": "Peter Cuddy",
   "slug": "p-cuddy",
   "attendance": {
-    "totalMeetings": 220,
-    "present": 216,
+    "totalMeetings": 221,
+    "present": 217,
     "absent": 4,
     "remote": 0,
-    "attendanceRate": 98.18181818181819,
+    "attendanceRate": 98.19004524886877,
     "trend": [
       {
         "period": "2022",
@@ -34,27 +34,27 @@
       },
       {
         "period": "2026",
-        "attendanceRate": 84.61538461538461,
-        "meetingsAttended": 11,
-        "meetingsTotal": 13
+        "attendanceRate": 85.71428571428571,
+        "meetingsAttended": 12,
+        "meetingsTotal": 14
       }
     ],
     "trendDirection": "declining"
   },
   "voting": {
-    "totalVotes": 4051,
-    "yeas": 3376,
+    "totalVotes": 4062,
+    "yeas": 3387,
     "nays": 337,
     "absent": 338,
-    "participationRate": 91.65638114045915,
-    "yeaRate": 90.92378130891461,
-    "contestedDissentRate": 11.18930330752991,
-    "contestedVotes": 1421,
-    "substantiveVotes": 2442,
-    "substantiveYeas": 1859,
+    "participationRate": 91.67897587395372,
+    "yeaRate": 90.95059076262085,
+    "contestedDissentRate": 11.181434599156118,
+    "contestedVotes": 1422,
+    "substantiveVotes": 2446,
+    "substantiveYeas": 1863,
     "substantiveNays": 310,
-    "substantiveParticipationRate": 88.82063882063882,
-    "substantiveYeaRate": 85.70769940064545
+    "substantiveParticipationRate": 88.83892068683565,
+    "substantiveYeaRate": 85.73400828347906
   },
   "budgetVoting": {
     "totalBudgetVotes": 387,
@@ -65,15 +65,15 @@
   "topAlignments": [
     {
       "councillor": "Shawn Lewis",
-      "sharedVotes": 1666,
-      "agreedVotes": 1627,
-      "alignmentRate": 97.65906362545019
+      "sharedVotes": 1671,
+      "agreedVotes": 1632,
+      "alignmentRate": 97.66606822262118
     },
     {
       "councillor": "Steve Lehman",
-      "sharedVotes": 1652,
-      "agreedVotes": 1589,
-      "alignmentRate": 96.1864406779661
+      "sharedVotes": 1657,
+      "agreedVotes": 1594,
+      "alignmentRate": 96.19794809897405
     },
     {
       "councillor": "Josh Morgan",
@@ -83,9 +83,9 @@
     },
     {
       "councillor": "Steve Hillier",
-      "sharedVotes": 1604,
-      "agreedVotes": 1528,
-      "alignmentRate": 95.26184538653366
+      "sharedVotes": 1609,
+      "agreedVotes": 1533,
+      "alignmentRate": 95.27656929770043
     },
     {
       "councillor": "Jerry Pribil",
@@ -115,9 +115,9 @@
     },
     {
       "councillor": "Susan Stevenson",
-      "sharedVotes": 1486,
-      "agreedVotes": 1325,
-      "alignmentRate": 89.16554508748318
+      "sharedVotes": 1491,
+      "agreedVotes": 1330,
+      "alignmentRate": 89.2018779342723
     },
     {
       "councillor": "Skylar Franke",
@@ -235,10 +235,10 @@
     },
     {
       "committee": "Planning and Environment Committee",
-      "totalVotes": 586,
-      "yeas": 546,
+      "totalVotes": 597,
+      "yeas": 557,
       "nays": 8,
-      "participationRate": 94.53924914675767
+      "participationRate": 94.63986599664992
     },
     {
       "committee": "Budget Committee",

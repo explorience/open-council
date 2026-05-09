@@ -2,11 +2,11 @@
   "councillor": "Josh Morgan",
   "slug": "j-morgan",
   "attendance": {
-    "totalMeetings": 785,
-    "present": 724,
+    "totalMeetings": 786,
+    "present": 725,
     "absent": 61,
     "remote": 1,
-    "attendanceRate": 92.22929936305732,
+    "attendanceRate": 92.23918575063614,
     "trend": [
       {
         "period": "2014",
@@ -83,8 +83,8 @@
       {
         "period": "2026",
         "attendanceRate": 100,
-        "meetingsAttended": 14,
-        "meetingsTotal": 14
+        "meetingsAttended": 15,
+        "meetingsTotal": 15
       }
     ],
     "trendDirection": "improving"

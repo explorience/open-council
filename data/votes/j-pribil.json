@@ -1,16 +1,44 @@
 {
   "councillor": "J. Pribil",
   "slug": "j-pribil",
-  "generatedAt": "2026-05-08T07:04:03.400Z",
-  "sourceHash": "6d59c3cae4caf664",
+  "generatedAt": "2026-05-09T07:16:43.897Z",
+  "sourceHash": "15b4f55cf4781f06",
   "summary": {
-    "totalMeetings": 222,
-    "totalVotes": 3696,
-    "yeas": 3137,
+    "totalMeetings": 223,
+    "totalVotes": 3698,
+    "yeas": 3139,
     "nays": 307,
     "absent": 252
   },
   "votes": [
+    {
+      "date": "2026-05-04",
+      "meetingSlug": "months/2026-05/2026-05-04 7th Meeting of the Community and Protective Services Committee",
+      "meetingTitle": "7th Meeting of the Community and Protective Services Committee",
+      "meetingType": "Community and Protective Services Committee",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=25f3b550-fb7f-44bf-9078-84c2fd95b0c7&Agenda=PostMinutes&lang=English",
+      "itemNumber": "2",
+      "itemTitle": "Consent",
+      "motionText": "That Items 2.1 to 2.4 BE APPROVED.",
+      "vote": "yea",
+      "result": "Motion Passed (5 to 0)",
+      "passed": true,
+      "unanimous": true
+    },
+    {
+      "date": "2026-05-04",
+      "meetingSlug": "months/2026-05/2026-05-04 7th Meeting of the Community and Protective Services Committee",
+      "meetingTitle": "7th Meeting of the Community and Protective Services Committee",
+      "meetingType": "Community and Protective Services Committee",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=25f3b550-fb7f-44bf-9078-84c2fd95b0c7&Agenda=PostMinutes&lang=English",
+      "itemNumber": "6",
+      "itemTitle": "Confidential",
+      "motionText": "That the Community and Protective Services Committee convene In Closed Session for the purpose of considering the following: 6.1    Trade Secret, Scientific, Technical, Commercial, Financial Information of the Corporation with Monetary or Potential Monetary Value / Position, Plan, Procedure, Criteria or Instruction for Negotiation Purposes       \n\n\n\nA matter pertaining to a trade secret or scientific, technical, commercial or financial information that belongs to the municipality or local board ",
+      "vote": "yea",
+      "result": "Motion Passed (5 to 0)",
+      "passed": true,
+      "unanimous": true
+    },
     {
       "date": "2026-04-21",
       "meetingSlug": "months/2026-04/2026-04-21 6th Meeting of the Strategic Priorities and Policy Committee",

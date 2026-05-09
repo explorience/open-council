@@ -2,11 +2,11 @@
   "councillor": "Susan Stevenson",
   "slug": "s-stevenson",
   "attendance": {
-    "totalMeetings": 218,
-    "present": 194,
+    "totalMeetings": 219,
+    "present": 195,
     "absent": 24,
     "remote": 1,
-    "attendanceRate": 88.9908256880734,
+    "attendanceRate": 89.04109589041096,
     "trend": [
       {
         "period": "2022",
@@ -34,27 +34,27 @@
       },
       {
         "period": "2026",
-        "attendanceRate": 90,
-        "meetingsAttended": 18,
-        "meetingsTotal": 20
+        "attendanceRate": 90.47619047619048,
+        "meetingsAttended": 19,
+        "meetingsTotal": 21
       }
     ],
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 3654,
-    "yeas": 2627,
-    "nays": 548,
+    "totalVotes": 3665,
+    "yeas": 2637,
+    "nays": 549,
     "absent": 479,
-    "participationRate": 86.8910782703886,
-    "yeaRate": 82.74015748031496,
-    "contestedDissentRate": 35.6071964017991,
-    "contestedVotes": 1334,
-    "substantiveVotes": 2240,
-    "substantiveYeas": 1541,
-    "substantiveNays": 350,
-    "substantiveParticipationRate": 84.41964285714286,
-    "substantiveYeaRate": 81.49127445795875
+    "participationRate": 86.93042291950887,
+    "yeaRate": 82.7683615819209,
+    "contestedDissentRate": 35.655430711610485,
+    "contestedVotes": 1335,
+    "substantiveVotes": 2244,
+    "substantiveYeas": 1544,
+    "substantiveNays": 351,
+    "substantiveParticipationRate": 84.44741532976828,
+    "substantiveYeaRate": 81.47757255936675
   },
   "budgetVoting": {
     "totalBudgetVotes": 382,
@@ -71,9 +71,9 @@
     },
     {
       "councillor": "Peter Cuddy",
-      "sharedVotes": 1486,
-      "agreedVotes": 1325,
-      "alignmentRate": 89.16554508748318
+      "sharedVotes": 1491,
+      "agreedVotes": 1330,
+      "alignmentRate": 89.2018779342723
     },
     {
       "councillor": "Jerry Pribil",
@@ -83,15 +83,15 @@
     },
     {
       "councillor": "Steve Lehman",
-      "sharedVotes": 1414,
-      "agreedVotes": 1253,
-      "alignmentRate": 88.61386138613861
+      "sharedVotes": 1419,
+      "agreedVotes": 1258,
+      "alignmentRate": 88.6539816772375
     },
     {
       "councillor": "Steve Hillier",
-      "sharedVotes": 1349,
-      "agreedVotes": 1193,
-      "alignmentRate": 88.43587842846553
+      "sharedVotes": 1354,
+      "agreedVotes": 1198,
+      "alignmentRate": 88.47858197932054
     }
   ],
   "bottomAlignments": [
@@ -127,6 +127,15 @@
     }
   ],
   "notableDissents": [
+    {
+      "date": "2026-05-05",
+      "meetingTitle": "The 7th Meeting of the Planning and Environment Committee",
+      "itemTitle": "945 Bluegrass Drive - OZ-26019",
+      "motionText": "That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Bluegrass Long Term Care Centre – Division of “Meadow Park” (Lo...",
+      "vote": "nay",
+      "result": "Motion Passed (3 to 2)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=9e867ca5-1f00-4f56-a35c-30252605ddb9&Agenda=PostMinutes&lang=English"
+    },
     {
       "date": "2026-04-21",
       "meetingTitle": "6th Meeting of the Strategic Priorities and Policy Committee",
@@ -207,15 +216,6 @@
       "vote": "yea",
       "result": "Motion Failed (3 to 3)",
       "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=e9890bd1-3ebf-47fa-8198-25a144b6365d&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-03-23",
-      "meetingTitle": "6th Meeting of the Infrastructure and Corporate Services Committee",
-      "itemTitle": "Smart Commute London: Additional Details and Memorandum of Understanding (MOU) Extension",
-      "motionText": "That the following part BE APPROVED b)    the Deputy City Manager of Environment and Infrastructure BE AUTHORIZED to approve and execute the upcoming Smart Commute Memorandum of Understanding (MOU) Am...",
-      "vote": "nay",
-      "result": "Motion Passed (5 to 1)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=e9890bd1-3ebf-47fa-8198-25a144b6365d&Agenda=PostMinutes&lang=English"
     }
   ],
   "committeeActivity": [
@@ -235,10 +235,10 @@
     },
     {
       "committee": "Planning and Environment Committee",
-      "totalVotes": 201,
-      "yeas": 160,
-      "nays": 3,
-      "participationRate": 81.09452736318407
+      "totalVotes": 212,
+      "yeas": 170,
+      "nays": 4,
+      "participationRate": 82.0754716981132
     },
     {
       "committee": "Budget Committee",

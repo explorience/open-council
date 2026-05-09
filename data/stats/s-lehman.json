@@ -2,11 +2,11 @@
   "councillor": "Steve Lehman",
   "slug": "s-lehman",
   "attendance": {
-    "totalMeetings": 408,
-    "present": 393,
+    "totalMeetings": 409,
+    "present": 394,
     "absent": 15,
     "remote": 3,
-    "attendanceRate": 96.32352941176471,
+    "attendanceRate": 96.33251833740832,
     "trend": [
       {
         "period": "2018",
@@ -58,27 +58,27 @@
       },
       {
         "period": "2026",
-        "attendanceRate": 91.66666666666666,
-        "meetingsAttended": 11,
-        "meetingsTotal": 12
+        "attendanceRate": 92.3076923076923,
+        "meetingsAttended": 12,
+        "meetingsTotal": 13
       }
     ],
-    "trendDirection": "declining"
+    "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 7600,
-    "yeas": 6545,
-    "nays": 412,
+    "totalVotes": 7611,
+    "yeas": 6555,
+    "nays": 413,
     "absent": 643,
-    "participationRate": 91.53947368421052,
-    "yeaRate": 94.07790714388385,
-    "contestedDissentRate": 10.078232857800277,
-    "contestedVotes": 2173,
-    "substantiveVotes": 4456,
-    "substantiveYeas": 3577,
-    "substantiveNays": 379,
-    "substantiveParticipationRate": 88.77917414721723,
-    "substantiveYeaRate": 90.4196157735086
+    "participationRate": 91.55170148469321,
+    "yeaRate": 94.07290470723306,
+    "contestedDissentRate": 10.119595216191353,
+    "contestedVotes": 2174,
+    "substantiveVotes": 4460,
+    "substantiveYeas": 3580,
+    "substantiveNays": 380,
+    "substantiveParticipationRate": 88.78923766816143,
+    "substantiveYeaRate": 90.40404040404042
   },
   "budgetVoting": {
     "totalBudgetVotes": 719,
@@ -89,9 +89,9 @@
   "topAlignments": [
     {
       "councillor": "Shawn Lewis",
-      "sharedVotes": 3516,
-      "agreedVotes": 3417,
-      "alignmentRate": 97.18430034129693
+      "sharedVotes": 3521,
+      "agreedVotes": 3422,
+      "alignmentRate": 97.18829877875604
     },
     {
       "councillor": "Josh Morgan",
@@ -101,15 +101,15 @@
     },
     {
       "councillor": "Steve Hillier",
-      "sharedVotes": 3133,
-      "agreedVotes": 3019,
-      "alignmentRate": 96.3613150335142
+      "sharedVotes": 3138,
+      "agreedVotes": 3024,
+      "alignmentRate": 96.36711281070745
     },
     {
       "councillor": "Peter Cuddy",
-      "sharedVotes": 1652,
-      "agreedVotes": 1589,
-      "alignmentRate": 96.1864406779661
+      "sharedVotes": 1657,
+      "agreedVotes": 1594,
+      "alignmentRate": 96.19794809897405
     },
     {
       "councillor": "Jerry Pribil",
@@ -133,9 +133,9 @@
     },
     {
       "councillor": "Susan Stevenson",
-      "sharedVotes": 1414,
-      "agreedVotes": 1253,
-      "alignmentRate": 88.61386138613861
+      "sharedVotes": 1419,
+      "agreedVotes": 1258,
+      "alignmentRate": 88.6539816772375
     },
     {
       "councillor": "Anna Hopkins",
@@ -151,6 +151,15 @@
     }
   ],
   "notableDissents": [
+    {
+      "date": "2026-05-05",
+      "meetingTitle": "The 7th Meeting of the Planning and Environment Committee",
+      "itemTitle": "945 Bluegrass Drive - OZ-26019",
+      "motionText": "That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Bluegrass Long Term Care Centre – Division of “Meadow Park” (Lo...",
+      "vote": "nay",
+      "result": "Motion Passed (3 to 2)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=9e867ca5-1f00-4f56-a35c-30252605ddb9&Agenda=PostMinutes&lang=English"
+    },
     {
       "date": "2026-03-03",
       "meetingTitle": "4th Council Meeting",
@@ -231,15 +240,6 @@
       "vote": "yea",
       "result": "Motion Failed (7 to 7)",
       "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=48f12c8d-c951-44dc-905b-05acf0df5b10&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-02-03",
-      "meetingTitle": "3rd Meeting of the Strategic Priorities and Policy Committee",
-      "itemTitle": "Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program",
-      "motionText": "That the motion BE FURTHER AMENDED to extend the term of the loan from five years to ten years.",
-      "vote": "nay",
-      "result": "Motion Passed (12 to 2)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=48f12c8d-c951-44dc-905b-05acf0df5b10&Agenda=PostMinutes&lang=English"
     }
   ],
   "committeeActivity": [
@@ -259,10 +259,10 @@
     },
     {
       "committee": "Planning and Environment Committee",
-      "totalVotes": 1452,
-      "yeas": 1305,
-      "nays": 25,
-      "participationRate": 91.59779614325069
+      "totalVotes": 1463,
+      "yeas": 1315,
+      "nays": 26,
+      "participationRate": 91.66097060833903
     },
     {
       "committee": "Budget Committee",

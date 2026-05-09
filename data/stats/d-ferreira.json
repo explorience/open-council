@@ -2,11 +2,11 @@
   "councillor": "David Ferreira",
   "slug": "d-ferreira",
   "attendance": {
-    "totalMeetings": 227,
-    "present": 221,
+    "totalMeetings": 228,
+    "present": 222,
     "absent": 6,
     "remote": 1,
-    "attendanceRate": 97.3568281938326,
+    "attendanceRate": 97.36842105263158,
     "trend": [
       {
         "period": "2022",
@@ -35,26 +35,26 @@
       {
         "period": "2026",
         "attendanceRate": 100,
-        "meetingsAttended": 12,
-        "meetingsTotal": 12
+        "meetingsAttended": 13,
+        "meetingsTotal": 13
       }
     ],
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 3217,
-    "yeas": 2539,
+    "totalVotes": 3219,
+    "yeas": 2541,
     "nays": 378,
     "absent": 300,
-    "participationRate": 90.67454149829032,
-    "yeaRate": 87.04148097360302,
+    "participationRate": 90.68033550792171,
+    "yeaRate": 87.05035971223022,
     "contestedDissentRate": 28.341013824884794,
     "contestedVotes": 1302,
-    "substantiveVotes": 2061,
-    "substantiveYeas": 1522,
+    "substantiveVotes": 2062,
+    "substantiveYeas": 1523,
     "substantiveNays": 300,
-    "substantiveParticipationRate": 88.40368753032509,
-    "substantiveYeaRate": 83.53457738748628
+    "substantiveParticipationRate": 88.40931134820562,
+    "substantiveYeaRate": 83.54360943499725
   },
   "budgetVoting": {
     "totalBudgetVotes": 331,
@@ -65,9 +65,9 @@
   "topAlignments": [
     {
       "councillor": "Anna Hopkins",
-      "sharedVotes": 1243,
-      "agreedVotes": 1160,
-      "alignmentRate": 93.32260659694288
+      "sharedVotes": 1245,
+      "agreedVotes": 1162,
+      "alignmentRate": 93.33333333333333
     },
     {
       "councillor": "Skylar Franke",
@@ -83,9 +83,9 @@
     },
     {
       "councillor": "Sam Trosow",
-      "sharedVotes": 1376,
-      "agreedVotes": 1255,
-      "alignmentRate": 91.2063953488372
+      "sharedVotes": 1378,
+      "agreedVotes": 1257,
+      "alignmentRate": 91.21915820029028
     },
     {
       "councillor": "Josh Morgan",
@@ -235,10 +235,10 @@
     },
     {
       "committee": "Community and Protective Services Committee",
-      "totalVotes": 400,
-      "yeas": 353,
+      "totalVotes": 402,
+      "yeas": 355,
       "nays": 31,
-      "participationRate": 96
+      "participationRate": 96.01990049751244
     },
     {
       "committee": "Budget Committee",

@@ -2,11 +2,11 @@
   "councillor": "Sam Trosow",
   "slug": "s-trosow",
   "attendance": {
-    "totalMeetings": 227,
-    "present": 218,
+    "totalMeetings": 228,
+    "present": 219,
     "absent": 9,
     "remote": 0,
-    "attendanceRate": 96.0352422907489,
+    "attendanceRate": 96.05263157894737,
     "trend": [
       {
         "period": "2022",
@@ -35,26 +35,26 @@
       {
         "period": "2026",
         "attendanceRate": 100,
-        "meetingsAttended": 12,
-        "meetingsTotal": 12
+        "meetingsAttended": 13,
+        "meetingsTotal": 13
       }
     ],
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 3598,
-    "yeas": 2612,
+    "totalVotes": 3600,
+    "yeas": 2614,
     "nays": 589,
     "absent": 397,
-    "participationRate": 88.96609227348526,
-    "yeaRate": 81.59950015620119,
+    "participationRate": 88.97222222222221,
+    "yeaRate": 81.61098969715891,
     "contestedDissentRate": 45.9577567370721,
     "contestedVotes": 1373,
-    "substantiveVotes": 2302,
-    "substantiveYeas": 1641,
+    "substantiveVotes": 2303,
+    "substantiveYeas": 1642,
     "substantiveNays": 398,
-    "substantiveParticipationRate": 88.57515204170286,
-    "substantiveYeaRate": 80.48062775870525
+    "substantiveParticipationRate": 88.58011289622232,
+    "substantiveYeaRate": 80.49019607843138
   },
   "budgetVoting": {
     "totalBudgetVotes": 382,
@@ -65,15 +65,15 @@
   "topAlignments": [
     {
       "councillor": "Anna Hopkins",
-      "sharedVotes": 1442,
-      "agreedVotes": 1340,
-      "alignmentRate": 92.92649098474341
+      "sharedVotes": 1444,
+      "agreedVotes": 1342,
+      "alignmentRate": 92.93628808864266
     },
     {
       "councillor": "David Ferreira",
-      "sharedVotes": 1376,
-      "agreedVotes": 1255,
-      "alignmentRate": 91.2063953488372
+      "sharedVotes": 1378,
+      "agreedVotes": 1257,
+      "alignmentRate": 91.21915820029028
     },
     {
       "councillor": "Skylar Franke",
@@ -235,10 +235,10 @@
     },
     {
       "committee": "Community and Protective Services Committee",
-      "totalVotes": 343,
-      "yeas": 298,
+      "totalVotes": 345,
+      "yeas": 300,
       "nays": 35,
-      "participationRate": 97.08454810495627
+      "participationRate": 97.10144927536231
     },
     {
       "committee": "Budget Committee",
