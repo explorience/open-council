@@ -2,11 +2,11 @@
   "councillor": "Elizabeth Peloza",
   "slug": "e-peloza",
   "attendance": {
-    "totalMeetings": 436,
-    "present": 427,
+    "totalMeetings": 437,
+    "present": 428,
     "absent": 9,
     "remote": 1,
-    "attendanceRate": 97.93577981651376,
+    "attendanceRate": 97.94050343249427,
     "trend": [
       {
         "period": "2018",
@@ -58,27 +58,27 @@
       },
       {
         "period": "2026",
-        "attendanceRate": 85.71428571428571,
-        "meetingsAttended": 12,
-        "meetingsTotal": 14
+        "attendanceRate": 86.66666666666667,
+        "meetingsAttended": 13,
+        "meetingsTotal": 15
       }
     ],
     "trendDirection": "declining"
   },
   "voting": {
-    "totalVotes": 7282,
-    "yeas": 5909,
+    "totalVotes": 7287,
+    "yeas": 5914,
     "nays": 516,
     "absent": 857,
-    "participationRate": 88.23125514968415,
-    "yeaRate": 91.96887159533074,
-    "contestedDissentRate": 17.273622047244093,
-    "contestedVotes": 2032,
-    "substantiveVotes": 4479,
-    "substantiveYeas": 3334,
+    "participationRate": 88.23933031425827,
+    "yeaRate": 91.9751166407465,
+    "contestedDissentRate": 17.265125430398427,
+    "contestedVotes": 2033,
+    "substantiveVotes": 4482,
+    "substantiveYeas": 3337,
     "substantiveNays": 455,
-    "substantiveParticipationRate": 84.59477561955794,
-    "substantiveYeaRate": 87.99155449986804
+    "substantiveParticipationRate": 84.60508701472557,
+    "substantiveYeaRate": 88.00105485232066
   },
   "budgetVoting": {
     "totalBudgetVotes": 719,
@@ -113,9 +113,9 @@
     },
     {
       "councillor": "Hadleigh McAlister",
-      "sharedVotes": 1353,
-      "agreedVotes": 1257,
-      "alignmentRate": 92.90465631929047
+      "sharedVotes": 1357,
+      "agreedVotes": 1261,
+      "alignmentRate": 92.92557111274871
     }
   ],
   "bottomAlignments": [
@@ -145,9 +145,9 @@
     },
     {
       "councillor": "Paul Van Meerbergen",
-      "sharedVotes": 2910,
-      "agreedVotes": 2633,
-      "alignmentRate": 90.48109965635739
+      "sharedVotes": 2914,
+      "agreedVotes": 2636,
+      "alignmentRate": 90.4598490048044
     }
   ],
   "notableDissents": [
@@ -294,10 +294,10 @@
     },
     {
       "committee": "Infrastructure and Corporate Services Committee",
-      "totalVotes": 21,
-      "yeas": 17,
+      "totalVotes": 26,
+      "yeas": 22,
       "nays": 3,
-      "participationRate": 95.23809523809523
+      "participationRate": 96.15384615384616
     }
   ]
 }

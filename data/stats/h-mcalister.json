@@ -2,11 +2,11 @@
   "councillor": "Hadleigh McAlister",
   "slug": "h-mcalister",
   "attendance": {
-    "totalMeetings": 231,
-    "present": 218,
+    "totalMeetings": 232,
+    "present": 219,
     "absent": 13,
     "remote": 0,
-    "attendanceRate": 94.37229437229438,
+    "attendanceRate": 94.39655172413794,
     "trend": [
       {
         "period": "2022",
@@ -35,26 +35,26 @@
       {
         "period": "2026",
         "attendanceRate": 100,
-        "meetingsAttended": 14,
-        "meetingsTotal": 14
+        "meetingsAttended": 15,
+        "meetingsTotal": 15
       }
     ],
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 3754,
-    "yeas": 3016,
+    "totalVotes": 3759,
+    "yeas": 3021,
     "nays": 272,
     "absent": 466,
-    "participationRate": 87.58657432072457,
-    "yeaRate": 91.72749391727494,
-    "contestedDissentRate": 14.574314574314574,
-    "contestedVotes": 1386,
-    "substantiveVotes": 2388,
-    "substantiveYeas": 1775,
+    "participationRate": 87.60308592710827,
+    "yeaRate": 91.74005466140298,
+    "contestedDissentRate": 14.563806777217014,
+    "contestedVotes": 1387,
+    "substantiveVotes": 2391,
+    "substantiveYeas": 1778,
     "substantiveNays": 243,
-    "substantiveParticipationRate": 84.50586264656617,
-    "substantiveYeaRate": 87.9583746283449
+    "substantiveParticipationRate": 84.52530322040988,
+    "substantiveYeaRate": 87.97624938149431
   },
   "budgetVoting": {
     "totalBudgetVotes": 389,
@@ -103,9 +103,9 @@
     },
     {
       "councillor": "Paul Van Meerbergen",
-      "sharedVotes": 1447,
-      "agreedVotes": 1274,
-      "alignmentRate": 88.04422944022114
+      "sharedVotes": 1451,
+      "agreedVotes": 1277,
+      "alignmentRate": 88.00827015851137
     },
     {
       "councillor": "Sam Trosow",
@@ -263,8 +263,8 @@
     },
     {
       "committee": "Infrastructure and Corporate Services Committee",
-      "totalVotes": 59,
-      "yeas": 52,
+      "totalVotes": 64,
+      "yeas": 57,
       "nays": 7,
       "participationRate": 100
     }

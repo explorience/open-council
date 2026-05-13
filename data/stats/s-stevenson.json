@@ -2,11 +2,11 @@
   "councillor": "Susan Stevenson",
   "slug": "s-stevenson",
   "attendance": {
-    "totalMeetings": 219,
+    "totalMeetings": 220,
     "present": 195,
-    "absent": 24,
+    "absent": 25,
     "remote": 1,
-    "attendanceRate": 89.04109589041096,
+    "attendanceRate": 88.63636363636364,
     "trend": [
       {
         "period": "2022",
@@ -34,26 +34,26 @@
       },
       {
         "period": "2026",
-        "attendanceRate": 90.47619047619048,
+        "attendanceRate": 86.36363636363636,
         "meetingsAttended": 19,
-        "meetingsTotal": 21
+        "meetingsTotal": 22
       }
     ],
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 3665,
+    "totalVotes": 3670,
     "yeas": 2637,
     "nays": 549,
-    "absent": 479,
-    "participationRate": 86.93042291950887,
+    "absent": 484,
+    "participationRate": 86.81198910081744,
     "yeaRate": 82.7683615819209,
     "contestedDissentRate": 35.655430711610485,
     "contestedVotes": 1335,
-    "substantiveVotes": 2244,
+    "substantiveVotes": 2247,
     "substantiveYeas": 1544,
     "substantiveNays": 351,
-    "substantiveParticipationRate": 84.44741532976828,
+    "substantiveParticipationRate": 84.33466844681799,
     "substantiveYeaRate": 81.47757255936675
   },
   "budgetVoting": {
@@ -263,10 +263,10 @@
     },
     {
       "committee": "Infrastructure and Corporate Services Committee",
-      "totalVotes": 59,
+      "totalVotes": 64,
       "yeas": 46,
       "nays": 12,
-      "participationRate": 98.30508474576271
+      "participationRate": 90.625
     }
   ]
 }

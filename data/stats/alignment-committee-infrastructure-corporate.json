@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T07:28:23.042Z",
+  "generatedAt": "2026-05-13T07:35:01.418Z",
   "matrix": {
     "j-morgan": {
       "h-mcalister": 100,
@@ -15,9 +15,9 @@
       "j-morgan": 100,
       "s-stevenson": 76.19047619047619,
       "c-rahman": 92,
-      "p-van-meerbergen": 90.69767441860465,
+      "p-van-meerbergen": 89.36170212765957,
       "s-franke": 90.69767441860465,
-      "e-peloza": 87.5
+      "e-peloza": 90
     },
     "s-lewis": {},
     "p-cuddy": {},
@@ -56,13 +56,13 @@
     },
     "p-van-meerbergen": {
       "j-morgan": 93.54838709677419,
-      "h-mcalister": 90.69767441860465,
+      "h-mcalister": 89.36170212765957,
       "s-stevenson": 80.95238095238095,
       "j-pribil": 81.48148148148148,
       "c-rahman": 85.54216867469879,
       "a-hopkins": 84.21052631578947,
       "s-franke": 85.56701030927834,
-      "e-peloza": 87.5
+      "e-peloza": 85
     },
     "s-franke": {
       "j-morgan": 100,
@@ -76,9 +76,9 @@
     },
     "e-peloza": {
       "j-morgan": 92.3076923076923,
-      "h-mcalister": 87.5,
+      "h-mcalister": 90,
       "s-stevenson": 68.75,
-      "p-van-meerbergen": 87.5,
+      "p-van-meerbergen": 85,
       "s-franke": 81.25
     },
     "d-ferreira": {},
@@ -123,6 +123,6 @@
     }
   ],
   "type": "committee",
-  "motionCount": 103,
+  "motionCount": 107,
   "committeeName": "Infrastructure and Corporate Services Committee"
 }

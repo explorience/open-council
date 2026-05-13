@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T07:28:23.023Z",
+  "generatedAt": "2026-05-13T07:35:01.399Z",
   "councillorStats": {
     "j-morgan": {
       "councillor": "Josh Morgan",
@@ -332,11 +332,11 @@
       "councillor": "Hadleigh McAlister",
       "slug": "h-mcalister",
       "attendance": {
-        "totalMeetings": 231,
-        "present": 218,
+        "totalMeetings": 232,
+        "present": 219,
         "absent": 13,
         "remote": 0,
-        "attendanceRate": 94.37229437229438,
+        "attendanceRate": 94.39655172413794,
         "trend": [
           {
             "period": "2022",
@@ -365,26 +365,26 @@
           {
             "period": "2026",
             "attendanceRate": 100,
-            "meetingsAttended": 14,
-            "meetingsTotal": 14
+            "meetingsAttended": 15,
+            "meetingsTotal": 15
           }
         ],
         "trendDirection": "stable"
       },
       "voting": {
-        "totalVotes": 3754,
-        "yeas": 3016,
+        "totalVotes": 3759,
+        "yeas": 3021,
         "nays": 272,
         "absent": 466,
-        "participationRate": 87.58657432072457,
-        "yeaRate": 91.72749391727494,
-        "contestedDissentRate": 14.574314574314574,
-        "contestedVotes": 1386,
-        "substantiveVotes": 2388,
-        "substantiveYeas": 1775,
+        "participationRate": 87.60308592710827,
+        "yeaRate": 91.74005466140298,
+        "contestedDissentRate": 14.563806777217014,
+        "contestedVotes": 1387,
+        "substantiveVotes": 2391,
+        "substantiveYeas": 1778,
         "substantiveNays": 243,
-        "substantiveParticipationRate": 84.50586264656617,
-        "substantiveYeaRate": 87.9583746283449
+        "substantiveParticipationRate": 84.52530322040988,
+        "substantiveYeaRate": 87.97624938149431
       },
       "budgetVoting": {
         "totalBudgetVotes": 389,
@@ -433,9 +433,9 @@
         },
         {
           "councillor": "Paul Van Meerbergen",
-          "sharedVotes": 1447,
-          "agreedVotes": 1274,
-          "alignmentRate": 88.04422944022114
+          "sharedVotes": 1451,
+          "agreedVotes": 1277,
+          "alignmentRate": 88.00827015851137
         },
         {
           "councillor": "Sam Trosow",
@@ -593,8 +593,8 @@
         },
         {
           "committee": "Infrastructure and Corporate Services Committee",
-          "totalVotes": 59,
-          "yeas": 52,
+          "totalVotes": 64,
+          "yeas": 57,
           "nays": 7,
           "participationRate": 100
         }
@@ -1179,11 +1179,11 @@
       "councillor": "Susan Stevenson",
       "slug": "s-stevenson",
       "attendance": {
-        "totalMeetings": 219,
+        "totalMeetings": 220,
         "present": 195,
-        "absent": 24,
+        "absent": 25,
         "remote": 1,
-        "attendanceRate": 89.04109589041096,
+        "attendanceRate": 88.63636363636364,
         "trend": [
           {
             "period": "2022",
@@ -1211,26 +1211,26 @@
           },
           {
             "period": "2026",
-            "attendanceRate": 90.47619047619048,
+            "attendanceRate": 86.36363636363636,
             "meetingsAttended": 19,
-            "meetingsTotal": 21
+            "meetingsTotal": 22
           }
         ],
         "trendDirection": "stable"
       },
       "voting": {
-        "totalVotes": 3665,
+        "totalVotes": 3670,
         "yeas": 2637,
         "nays": 549,
-        "absent": 479,
-        "participationRate": 86.93042291950887,
+        "absent": 484,
+        "participationRate": 86.81198910081744,
         "yeaRate": 82.7683615819209,
         "contestedDissentRate": 35.655430711610485,
         "contestedVotes": 1335,
-        "substantiveVotes": 2244,
+        "substantiveVotes": 2247,
         "substantiveYeas": 1544,
         "substantiveNays": 351,
-        "substantiveParticipationRate": 84.44741532976828,
+        "substantiveParticipationRate": 84.33466844681799,
         "substantiveYeaRate": 81.47757255936675
       },
       "budgetVoting": {
@@ -1440,10 +1440,10 @@
         },
         {
           "committee": "Infrastructure and Corporate Services Committee",
-          "totalVotes": 59,
+          "totalVotes": 64,
           "yeas": 46,
           "nays": 12,
-          "participationRate": 98.30508474576271
+          "participationRate": 90.625
         }
       ]
     },
@@ -2869,11 +2869,11 @@
       "councillor": "Paul Van Meerbergen",
       "slug": "p-van-meerbergen",
       "attendance": {
-        "totalMeetings": 586,
-        "present": 559,
+        "totalMeetings": 587,
+        "present": 560,
         "absent": 27,
         "remote": 6,
-        "attendanceRate": 95.39249146757679,
+        "attendanceRate": 95.40034071550255,
         "trend": [
           {
             "period": "2011",
@@ -2950,26 +2950,26 @@
           {
             "period": "2026",
             "attendanceRate": 100,
-            "meetingsAttended": 14,
-            "meetingsTotal": 14
+            "meetingsAttended": 15,
+            "meetingsTotal": 15
           }
         ],
         "trendDirection": "stable"
       },
       "voting": {
-        "totalVotes": 8646,
-        "yeas": 6765,
-        "nays": 1010,
+        "totalVotes": 8651,
+        "yeas": 6769,
+        "nays": 1011,
         "absent": 871,
-        "participationRate": 89.92597733055749,
-        "yeaRate": 87.00964630225081,
-        "contestedDissentRate": 22.623526460998246,
-        "contestedVotes": 3987,
-        "substantiveVotes": 6090,
-        "substantiveYeas": 4668,
-        "substantiveNays": 817,
-        "substantiveParticipationRate": 90.06568144499178,
-        "substantiveYeaRate": 85.10483135824978
+        "participationRate": 89.93179979193157,
+        "yeaRate": 87.0051413881748,
+        "contestedDissentRate": 22.642928786359075,
+        "contestedVotes": 3988,
+        "substantiveVotes": 6093,
+        "substantiveYeas": 4670,
+        "substantiveNays": 818,
+        "substantiveParticipationRate": 90.07057278844576,
+        "substantiveYeaRate": 85.09475218658892
       },
       "budgetVoting": {
         "totalBudgetVotes": 1360,
@@ -3042,6 +3042,15 @@
         }
       ],
       "notableDissents": [
+        {
+          "date": "2026-05-06",
+          "meetingTitle": "9th Meeting of the Infrastructure and Corporate Services Committee",
+          "itemTitle": "Findings and Next Steps for Provincial Electric Kick-Scooter Pilot",
+          "motionText": "That parts b), c), and d) BE APPROVED.",
+          "vote": "nay",
+          "result": "Motion Passed (2 to 1)",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=f4b7018c-720f-48d4-b5cd-932ec1ba354b&Agenda=PostMinutes&lang=English"
+        },
         {
           "date": "2026-04-21",
           "meetingTitle": "6th Meeting of the Strategic Priorities and Policy Committee",
@@ -3122,15 +3131,6 @@
           "vote": "nay",
           "result": "Motion Passed (11 to 4)",
           "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English"
-        },
-        {
-          "date": "2026-02-10",
-          "meetingTitle": "3rd Council Meeting",
-          "itemTitle": "(2.4) Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program",
-          "motionText": "That part b) of the motion BE AMENDED by deleting the words “the term of the loan is extended from five years to ten years” and substituting “and be further revised to a loan term of five years,” it b...",
-          "vote": "yea",
-          "result": "Motion Failed (7 to 8)",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English"
         }
       ],
       "committeeActivity": [
@@ -3171,10 +3171,10 @@
         },
         {
           "committee": "Infrastructure and Corporate Services Committee",
-          "totalVotes": 142,
-          "yeas": 123,
-          "nays": 16,
-          "participationRate": 97.88732394366197
+          "totalVotes": 147,
+          "yeas": 127,
+          "nays": 17,
+          "participationRate": 97.95918367346938
         }
       ]
     },
@@ -3182,11 +3182,11 @@
       "councillor": "Skylar Franke",
       "slug": "s-franke",
       "attendance": {
-        "totalMeetings": 199,
+        "totalMeetings": 200,
         "present": 192,
-        "absent": 7,
+        "absent": 8,
         "remote": 0,
-        "attendanceRate": 96.4824120603015,
+        "attendanceRate": 96,
         "trend": [
           {
             "period": "2022",
@@ -3214,26 +3214,26 @@
           },
           {
             "period": "2026",
-            "attendanceRate": 100,
+            "attendanceRate": 93.33333333333333,
             "meetingsAttended": 14,
-            "meetingsTotal": 14
+            "meetingsTotal": 15
           }
         ],
         "trendDirection": "stable"
       },
       "voting": {
-        "totalVotes": 3865,
+        "totalVotes": 3870,
         "yeas": 3235,
         "nays": 324,
-        "absent": 306,
-        "participationRate": 92.08279430789133,
+        "absent": 311,
+        "participationRate": 91.96382428940568,
         "yeaRate": 90.89631919078393,
         "contestedDissentRate": 23.563636363636363,
         "contestedVotes": 1375,
-        "substantiveVotes": 2255,
+        "substantiveVotes": 2258,
         "substantiveYeas": 1737,
         "substantiveNays": 273,
-        "substantiveParticipationRate": 89.13525498891353,
+        "substantiveParticipationRate": 89.01682905225864,
         "substantiveYeaRate": 86.41791044776119
       },
       "budgetVoting": {
@@ -3429,10 +3429,10 @@
         },
         {
           "committee": "Infrastructure and Corporate Services Committee",
-          "totalVotes": 142,
+          "totalVotes": 147,
           "yeas": 121,
           "nays": 13,
-          "participationRate": 94.36619718309859
+          "participationRate": 91.15646258503402
         },
         {
           "committee": "Civic Works Committee",
@@ -3447,11 +3447,11 @@
       "councillor": "Elizabeth Peloza",
       "slug": "e-peloza",
       "attendance": {
-        "totalMeetings": 436,
-        "present": 427,
+        "totalMeetings": 437,
+        "present": 428,
         "absent": 9,
         "remote": 1,
-        "attendanceRate": 97.93577981651376,
+        "attendanceRate": 97.94050343249427,
         "trend": [
           {
             "period": "2018",
@@ -3503,27 +3503,27 @@
           },
           {
             "period": "2026",
-            "attendanceRate": 85.71428571428571,
-            "meetingsAttended": 12,
-            "meetingsTotal": 14
+            "attendanceRate": 86.66666666666667,
+            "meetingsAttended": 13,
+            "meetingsTotal": 15
           }
         ],
         "trendDirection": "declining"
       },
       "voting": {
-        "totalVotes": 7282,
-        "yeas": 5909,
+        "totalVotes": 7287,
+        "yeas": 5914,
         "nays": 516,
         "absent": 857,
-        "participationRate": 88.23125514968415,
-        "yeaRate": 91.96887159533074,
-        "contestedDissentRate": 17.273622047244093,
-        "contestedVotes": 2032,
-        "substantiveVotes": 4479,
-        "substantiveYeas": 3334,
+        "participationRate": 88.23933031425827,
+        "yeaRate": 91.9751166407465,
+        "contestedDissentRate": 17.265125430398427,
+        "contestedVotes": 2033,
+        "substantiveVotes": 4482,
+        "substantiveYeas": 3337,
         "substantiveNays": 455,
-        "substantiveParticipationRate": 84.59477561955794,
-        "substantiveYeaRate": 87.99155449986804
+        "substantiveParticipationRate": 84.60508701472557,
+        "substantiveYeaRate": 88.00105485232066
       },
       "budgetVoting": {
         "totalBudgetVotes": 719,
@@ -3558,9 +3558,9 @@
         },
         {
           "councillor": "Hadleigh McAlister",
-          "sharedVotes": 1353,
-          "agreedVotes": 1257,
-          "alignmentRate": 92.90465631929047
+          "sharedVotes": 1357,
+          "agreedVotes": 1261,
+          "alignmentRate": 92.92557111274871
         }
       ],
       "bottomAlignments": [
@@ -3590,9 +3590,9 @@
         },
         {
           "councillor": "Paul Van Meerbergen",
-          "sharedVotes": 2910,
-          "agreedVotes": 2633,
-          "alignmentRate": 90.48109965635739
+          "sharedVotes": 2914,
+          "agreedVotes": 2636,
+          "alignmentRate": 90.4598490048044
         }
       ],
       "notableDissents": [
@@ -3739,10 +3739,10 @@
         },
         {
           "committee": "Infrastructure and Corporate Services Committee",
-          "totalVotes": 21,
-          "yeas": 17,
+          "totalVotes": 26,
+          "yeas": 22,
           "nays": 3,
-          "participationRate": 95.23809523809523
+          "participationRate": 96.15384615384616
         }
       ]
     },
@@ -9498,9 +9498,9 @@
       "c-rahman": 92.07920792079209,
       "s-lehman": 93.09593023255815,
       "a-hopkins": 93.63376251788269,
-      "p-van-meerbergen": 88.04422944022114,
+      "p-van-meerbergen": 88.00827015851137,
       "s-franke": 94.81751824817518,
-      "e-peloza": 92.90465631929047,
+      "e-peloza": 92.92557111274871,
       "d-ferreira": 91.9753086419753,
       "s-hillier": 90.72398190045249
     },
@@ -9634,7 +9634,7 @@
     },
     "p-van-meerbergen": {
       "j-morgan": 91.99569274946158,
-      "h-mcalister": 88.04422944022114,
+      "h-mcalister": 88.00827015851137,
       "s-lewis": 92.73972602739727,
       "p-cuddy": 92.36016371077763,
       "s-stevenson": 89.5970695970696,
@@ -9644,7 +9644,7 @@
       "s-lehman": 93.59481827995681,
       "a-hopkins": 85.85178055822907,
       "s-franke": 84.53683442742523,
-      "e-peloza": 90.48109965635739,
+      "e-peloza": 90.4598490048044,
       "d-ferreira": 81.14233907524931,
       "s-hillier": 92.66019417475728
     },
@@ -9666,7 +9666,7 @@
     },
     "e-peloza": {
       "j-morgan": 95.16358463726885,
-      "h-mcalister": 92.90465631929047,
+      "h-mcalister": 92.92557111274871,
       "s-lewis": 95.1181592039801,
       "p-cuddy": 92.47027741083224,
       "s-stevenson": 84.67261904761905,
@@ -9675,7 +9675,7 @@
       "c-rahman": 90.12765957446808,
       "s-lehman": 94.68937875751503,
       "a-hopkins": 92.4914675767918,
-      "p-van-meerbergen": 90.48109965635739,
+      "p-van-meerbergen": 90.4598490048044,
       "s-franke": 92.02501954652071,
       "d-ferreira": 88.8034188034188,
       "s-hillier": 93.59202563189747

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T07:28:23.044Z",
+  "generatedAt": "2026-05-13T07:35:01.420Z",
   "matrix": {
     "j-morgan": {
       "h-mcalister": 87.20930232558139,
@@ -27,9 +27,9 @@
       "c-rahman": 85.80246913580247,
       "s-lehman": 84.27672955974843,
       "a-hopkins": 90.79754601226993,
-      "p-van-meerbergen": 73.44632768361582,
+      "p-van-meerbergen": 73.03370786516854,
       "s-franke": 89.375,
-      "e-peloza": 83.33333333333334,
+      "e-peloza": 83.43558282208589,
       "d-ferreira": 86.27450980392157,
       "s-hillier": 81.25
     },
@@ -163,7 +163,7 @@
     },
     "p-van-meerbergen": {
       "j-morgan": 82.42811501597444,
-      "h-mcalister": 73.44632768361582,
+      "h-mcalister": 73.03370786516854,
       "s-lewis": 88.2183908045977,
       "p-cuddy": 85.55555555555556,
       "s-stevenson": 84.11764705882354,
@@ -173,7 +173,7 @@
       "s-lehman": 86.94267515923568,
       "a-hopkins": 68.64406779661016,
       "s-franke": 60.60606060606061,
-      "e-peloza": 78,
+      "e-peloza": 77.77777777777779,
       "d-ferreira": 57.534246575342465,
       "s-hillier": 85.23489932885906
     },
@@ -195,7 +195,7 @@
     },
     "e-peloza": {
       "j-morgan": 86.5625,
-      "h-mcalister": 83.33333333333334,
+      "h-mcalister": 83.43558282208589,
       "s-lewis": 87.39946380697052,
       "p-cuddy": 81.28654970760235,
       "s-stevenson": 68.90243902439023,
@@ -204,7 +204,7 @@
       "c-rahman": 74.3421052631579,
       "s-lehman": 83.63636363636363,
       "a-hopkins": 86.1344537815126,
-      "p-van-meerbergen": 78,
+      "p-van-meerbergen": 77.77777777777779,
       "s-franke": 78.1456953642384,
       "d-ferreira": 73.8255033557047,
       "s-hillier": 83.65384615384616
@@ -306,5 +306,5 @@
   ],
   "type": "topic",
   "topicName": "transportation",
-  "motionCount": 1009
+  "motionCount": 1010
 }
