@@ -2,18 +2,18 @@
 title: "Hadleigh McAlister"
 type: councillor
 slug: "h-mcalister"
-meetingCount: 220
+meetingCount: 221
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 3754
-votesYea: 3016
+totalVotes: 3759
+votesYea: 3021
 votesNay: 272
 votesAbsent: 466
 attendanceRate: 94.4
 participationRate: 87.6
 yeaRate: 91.7
 contestedDissentRate: 14.6
-contestedVotes: 1386
+contestedVotes: 1387
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -30,8 +30,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 3,754 |
-| Voted Yea | 3,016 (80.3%) |
+| Total Votes | 3,759 |
+| Voted Yea | 3,021 (80.4%) |
 | Voted Nay | 272 (7.2%) |
 | Absent | 466 (12.4%) |
 
@@ -42,8 +42,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,388 |
-| Voted Yea | 1,775 (88.0%) |
+| Substantive Votes | 2,391 |
+| Voted Yea | 1,778 (88.0%) |
 | Voted Nay | 243 (12.0%) |
 
 
@@ -52,7 +52,7 @@ prefillQuestions:
 *Only counts non-unanimous votes where the councillor participated*
 
 - **Dissent Rate**: 14.6%
-- **Contested Votes**: 1,386
+- **Contested Votes**: 1,387
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -72,7 +72,7 @@ prefillQuestions:
 ## Attendance
 
 - **Attendance Rate**: 94.4%
-- **Meetings Attended**: 218 of 231
+- **Meetings Attended**: 219 of 232
 - **Meetings Missed**: 13
 - **Trend**: Stable -
 
@@ -80,7 +80,7 @@ prefillQuestions:
   - 2023: 90.9% (70/77 meetings)
   - 2024: 93.4% (71/76 meetings)
   - 2025: 98.2% (54/55 meetings)
-  - 2026: 100.0% (14/14 meetings)
+  - 2026: 100.0% (15/15 meetings)
 
 
 ## Voting Alignment
@@ -108,7 +108,7 @@ prefillQuestions:
 | Budget Committee | 189 | 135 | 39 | 92.1% |
 | Corporate Services Committee | 164 | 130 | 1 | 79.9% |
 | Civic Works Committee | 90 | 81 | 9 | 100.0% |
-| Infrastructure and Corporate Services Committee | 59 | 52 | 7 | 100.0% |
+| Infrastructure and Corporate Services Committee | 64 | 57 | 7 | 100.0% |
 
 
 ## Notable Dissenting Votes
@@ -198,15 +198,16 @@ Voted **Nay** - Motion Passed (10 to 5)
 
 ## Committees Served
 
+- [Corporate Services Committee](/committees/corporate-services)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
-- [Corporate Services Committee](/committees/corporate-services)
 - [City Council](/committees/city-council)
 - [Budget Committee](/committees/budget)
 - [Civic Works Committee](/committees/civic-works)
 
-## Recent Meetings (220 total)
+## Recent Meetings (221 total)
 
+- [9th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-05/2026-05-06 9th Meeting of the Infrastructure and Corporate Services Committee>) - Wed May 6 2026
 - [6th Meeting of the Community and Protective Services Committee](</months/2026-04/2026-04-13 6th Meeting of the Community and Protective Services Committee>) - Mon Apr 13 2026
 - [5th Meeting of the Strategic Priorities and Policy Committee](</months/2026-03/2026-03-24 5th Meeting of the Strategic Priorities and Policy Committee>) - Tue Mar 24 2026
 - [6th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-03/2026-03-23 6th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Mar 23 2026
@@ -216,4 +217,3 @@ Voted **Nay** - Motion Passed (10 to 5)
 - [4th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-02/2026-02-23 4th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Feb 23 2026
 - [3rd Meeting of the Community and Protective Services Committee](</months/2026-02/2026-02-17 3rd Meeting of the Community and Protective Services Committee>) - Tue Feb 17 2026
 - [3rd Council Meeting](</months/2026-02/2026-02-10 3rd Council Meeting>) - Tue Feb 10 2026
-- [3rd Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-03 3rd Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 3 2026

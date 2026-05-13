@@ -5,12 +5,12 @@ slug: "s-stevenson"
 meetingCount: 202
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 3665
+totalVotes: 3670
 votesYea: 2637
 votesNay: 549
-votesAbsent: 479
-attendanceRate: 89.0
-participationRate: 86.9
+votesAbsent: 484
+attendanceRate: 88.6
+participationRate: 86.8
 yeaRate: 82.8
 contestedDissentRate: 35.7
 contestedVotes: 1335
@@ -30,10 +30,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 3,665 |
-| Voted Yea | 2,637 (72.0%) |
+| Total Votes | 3,670 |
+| Voted Yea | 2,637 (71.9%) |
 | Voted Nay | 549 (15.0%) |
-| Absent | 479 (13.1%) |
+| Absent | 484 (13.2%) |
 
 
 ### Substantive Votes
@@ -42,7 +42,7 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,244 |
+| Substantive Votes | 2,247 |
 | Voted Yea | 1,544 (81.5%) |
 | Voted Nay | 351 (18.5%) |
 
@@ -71,16 +71,16 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 89.0%
-- **Meetings Attended**: 195 of 219
-- **Meetings Missed**: 24
+- **Attendance Rate**: 88.6%
+- **Meetings Attended**: 195 of 220
+- **Meetings Missed**: 25
 - **Trend**: Stable -
 
 **Attendance by Year:**
   - 2023: 88.6% (70/79 meetings)
   - 2024: 89.4% (59/66 meetings)
   - 2025: 86.4% (38/44 meetings)
-  - 2026: 90.5% (19/21 meetings)
+  - 2026: 86.4% (19/22 meetings)
 
 
 ## Voting Alignment
@@ -108,7 +108,7 @@ prefillQuestions:
 | Budget Committee | 189 | 137 | 45 | 96.3% |
 | Corporate Services Committee | 184 | 126 | 8 | 72.8% |
 | Community and Protective Services Committee | 92 | 78 | 7 | 92.4% |
-| Infrastructure and Corporate Services Committee | 59 | 46 | 12 | 98.3% |
+| Infrastructure and Corporate Services Committee | 64 | 46 | 12 | 90.6% |
 
 
 ## Notable Dissenting Votes

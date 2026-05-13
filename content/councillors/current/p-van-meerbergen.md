@@ -2,18 +2,18 @@
 title: "Paul Van Meerbergen"
 type: councillor
 slug: "p-van-meerbergen"
-meetingCount: 515
+meetingCount: 516
 yearsActive: "2010 - 2026"
 isCurrent: true
-totalVotes: 8646
-votesYea: 6765
-votesNay: 1010
+totalVotes: 8651
+votesYea: 6769
+votesNay: 1011
 votesAbsent: 871
 attendanceRate: 95.4
 participationRate: 89.9
 yeaRate: 87.0
 contestedDissentRate: 22.6
-contestedVotes: 3987
+contestedVotes: 3988
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -31,9 +31,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 8,646 |
-| Voted Yea | 6,765 (78.2%) |
-| Voted Nay | 1,010 (11.7%) |
+| Total Votes | 8,651 |
+| Voted Yea | 6,769 (78.2%) |
+| Voted Nay | 1,011 (11.7%) |
 | Absent | 871 (10.1%) |
 
 
@@ -43,9 +43,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 6,090 |
-| Voted Yea | 4,668 (85.1%) |
-| Voted Nay | 817 (14.9%) |
+| Substantive Votes | 6,093 |
+| Voted Yea | 4,670 (85.1%) |
+| Voted Nay | 818 (14.9%) |
 
 
 ### Dissent on Contested Votes
@@ -53,7 +53,7 @@ prefillQuestions:
 *Only counts non-unanimous votes where the councillor participated*
 
 - **Dissent Rate**: 22.6%
-- **Contested Votes**: 3,987
+- **Contested Votes**: 3,988
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -73,7 +73,7 @@ prefillQuestions:
 ## Attendance
 
 - **Attendance Rate**: 95.4%
-- **Meetings Attended**: 559 of 586
+- **Meetings Attended**: 560 of 587
 - **Meetings Missed**: 27
 - **Trend**: Stable -
 
@@ -81,7 +81,7 @@ prefillQuestions:
   - 2023: 98.3% (57/58 meetings)
   - 2024: 98.4% (62/63 meetings)
   - 2025: 96.4% (53/55 meetings)
-  - 2026: 100.0% (14/14 meetings)
+  - 2026: 100.0% (15/15 meetings)
 
 
 ## Voting Alignment
@@ -108,12 +108,20 @@ prefillQuestions:
 | Civic Works Committee | 451 | 409 | 31 | 97.6% |
 | Budget Committee | 189 | 118 | 68 | 98.4% |
 | Corporate Services Committee | 154 | 144 | 6 | 97.4% |
-| Infrastructure and Corporate Services Committee | 142 | 123 | 16 | 97.9% |
+| Infrastructure and Corporate Services Committee | 147 | 127 | 17 | 98.0% |
 
 
 ## Notable Dissenting Votes
 
 *Recent split votes where Paul Van Meerbergen voted against the final outcome:*
+
+### 2026-05-06: Findings and Next Steps for Provincial Electric Kick-Scooter Pilot
+
+[9th Meeting of the Infrastructure and Corporate Services Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=f4b7018c-720f-48d4-b5cd-932ec1ba354b&Agenda=PostMinutes&lang=English)
+
+> That parts b), c), and d) BE APPROVED.
+
+Voted **Nay** - Motion Passed (2 to 1)
 
 ### 2026-04-21: London Transit Rapid Transit Operational Readiness Review
 
@@ -187,27 +195,20 @@ Voted **Nay** - Motion Passed (8 to 7)
 
 Voted **Nay** - Motion Passed (11 to 4)
 
-### 2026-02-10: (2.4) Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program
-
-[3rd Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English)
-
-> That part b) of the motion BE AMENDED by deleting the words “the term of the loan is extended from five years to ten years” and substituting “and be further revised to a loan term of five years,” it b...
-
-Voted **Yea** - Motion Failed (7 to 8)
-
 
 ## Committees Served
 
-- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Corporate Services Committee](/committees/corporate-services)
+- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [City Council](/committees/city-council)
 - [Planning and Environment Committee](/committees/planning-environment)
 - [Budget Committee](/committees/budget)
 - [Civic Works Committee](/committees/civic-works)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 
-## Recent Meetings (515 total)
+## Recent Meetings (516 total)
 
+- [9th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-05/2026-05-06 9th Meeting of the Infrastructure and Corporate Services Committee>) - Wed May 6 2026
 - [5th Meeting of the Strategic Priorities and Policy Committee](</months/2026-03/2026-03-24 5th Meeting of the Strategic Priorities and Policy Committee>) - Tue Mar 24 2026
 - [6th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-03/2026-03-23 6th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Mar 23 2026
 - [4th Council Meeting](</months/2026-03/2026-03-03 4th Council Meeting>) - Tue Mar 3 2026
@@ -217,4 +218,3 @@ Voted **Yea** - Motion Failed (7 to 8)
 - [3rd Council Meeting](</months/2026-02/2026-02-10 3rd Council Meeting>) - Tue Feb 10 2026
 - [3rd Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-03 3rd Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 3 2026
 - [3rd Meeting of the Infrastructure and Corporate Services Committee](</months/2026-02/2026-02-02 3rd Meeting of the Infrastructure and Corporate Services Committee>) - Mon Feb 2 2026
-- [3rd Meeting of the Planning and Environment Committee](</months/2026-01/2026-01-27 3rd Meeting of the Planning and Environment Committee>) - Tue Jan 27 2026

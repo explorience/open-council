@@ -2,18 +2,18 @@
 title: "Elizabeth Peloza"
 type: councillor
 slug: "e-peloza"
-meetingCount: 468
+meetingCount: 469
 yearsActive: "2018 - 2026"
 isCurrent: true
-totalVotes: 7282
-votesYea: 5909
+totalVotes: 7287
+votesYea: 5914
 votesNay: 516
 votesAbsent: 857
 attendanceRate: 97.9
 participationRate: 88.2
 yeaRate: 92.0
 contestedDissentRate: 17.3
-contestedVotes: 2032
+contestedVotes: 2033
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -30,8 +30,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 7,282 |
-| Voted Yea | 5,909 (81.1%) |
+| Total Votes | 7,287 |
+| Voted Yea | 5,914 (81.2%) |
 | Voted Nay | 516 (7.1%) |
 | Absent | 857 (11.8%) |
 
@@ -42,8 +42,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 4,479 |
-| Voted Yea | 3,334 (88.0%) |
+| Substantive Votes | 4,482 |
+| Voted Yea | 3,337 (88.0%) |
 | Voted Nay | 455 (12.0%) |
 
 
@@ -52,7 +52,7 @@ prefillQuestions:
 *Only counts non-unanimous votes where the councillor participated*
 
 - **Dissent Rate**: 17.3%
-- **Contested Votes**: 2,032
+- **Contested Votes**: 2,033
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -72,7 +72,7 @@ prefillQuestions:
 ## Attendance
 
 - **Attendance Rate**: 97.9%
-- **Meetings Attended**: 427 of 436
+- **Meetings Attended**: 428 of 437
 - **Meetings Missed**: 9
 - **Trend**: Declining v
 
@@ -80,7 +80,7 @@ prefillQuestions:
   - 2023: 98.3% (57/58 meetings)
   - 2024: 95.3% (61/64 meetings)
   - 2025: 96.6% (56/58 meetings)
-  - 2026: 85.7% (12/14 meetings)
+  - 2026: 86.7% (13/15 meetings)
 
 
 ## Voting Alignment
@@ -109,7 +109,7 @@ prefillQuestions:
 | Civic Works Committee | 284 | 274 | 8 | 99.3% |
 | Budget Committee | 189 | 122 | 67 | 100.0% |
 | Corporate Services Committee | 74 | 53 | 1 | 73.0% |
-| Infrastructure and Corporate Services Committee | 21 | 17 | 3 | 95.2% |
+| Infrastructure and Corporate Services Committee | 26 | 22 | 3 | 96.2% |
 
 
 ## Notable Dissenting Votes
@@ -199,9 +199,9 @@ Voted **Nay** - Motion Passed (8 to 7)
 
 ## Committees Served
 
+- [Corporate Services Committee](/committees/corporate-services)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
-- [Corporate Services Committee](/committees/corporate-services)
 - [City Council](/committees/city-council)
 - [Audit Committee](/committees/audit)
 - [Planning and Environment Committee](/committees/planning-environment)
@@ -209,8 +209,9 @@ Voted **Nay** - Motion Passed (8 to 7)
 - [Civic Works Committee](/committees/civic-works)
 - [Community Protective Services Committee](/committees/community-protective-services-committee)
 
-## Recent Meetings (468 total)
+## Recent Meetings (469 total)
 
+- [9th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-05/2026-05-06 9th Meeting of the Infrastructure and Corporate Services Committee>) - Wed May 6 2026
 - [6th Meeting of the Community and Protective Services Committee](</months/2026-04/2026-04-13 6th Meeting of the Community and Protective Services Committee>) - Mon Apr 13 2026
 - [5th Meeting of the Strategic Priorities and Policy Committee](</months/2026-03/2026-03-24 5th Meeting of the Strategic Priorities and Policy Committee>) - Tue Mar 24 2026
 - [6th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-03/2026-03-23 6th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Mar 23 2026
@@ -220,4 +221,3 @@ Voted **Nay** - Motion Passed (8 to 7)
 - [3rd Meeting of the Community and Protective Services Committee](</months/2026-02/2026-02-17 3rd Meeting of the Community and Protective Services Committee>) - Tue Feb 17 2026
 - [3rd Council Meeting](</months/2026-02/2026-02-10 3rd Council Meeting>) - Tue Feb 10 2026
 - [3rd Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-03 3rd Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 3 2026
-- [3rd Meeting of the Planning and Environment Committee](</months/2026-01/2026-01-27 3rd Meeting of the Planning and Environment Committee>) - Tue Jan 27 2026

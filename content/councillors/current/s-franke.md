@@ -5,12 +5,12 @@ slug: "s-franke"
 meetingCount: 197
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 3865
+totalVotes: 3870
 votesYea: 3235
 votesNay: 324
-votesAbsent: 306
-attendanceRate: 96.5
-participationRate: 92.1
+votesAbsent: 311
+attendanceRate: 96.0
+participationRate: 92.0
 yeaRate: 90.9
 contestedDissentRate: 23.6
 contestedVotes: 1375
@@ -30,10 +30,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 3,865 |
-| Voted Yea | 3,235 (83.7%) |
+| Total Votes | 3,870 |
+| Voted Yea | 3,235 (83.6%) |
 | Voted Nay | 324 (8.4%) |
-| Absent | 306 (7.9%) |
+| Absent | 311 (8.0%) |
 
 
 ### Substantive Votes
@@ -42,7 +42,7 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,255 |
+| Substantive Votes | 2,258 |
 | Voted Yea | 1,737 (86.4%) |
 | Voted Nay | 273 (13.6%) |
 
@@ -71,16 +71,16 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 96.5%
-- **Meetings Attended**: 192 of 199
-- **Meetings Missed**: 7
+- **Attendance Rate**: 96.0%
+- **Meetings Attended**: 192 of 200
+- **Meetings Missed**: 8
 - **Trend**: Stable -
 
 **Attendance by Year:**
   - 2023: 98.4% (60/61 meetings)
   - 2024: 97.0% (65/67 meetings)
   - 2025: 91.8% (45/49 meetings)
-  - 2026: 100.0% (14/14 meetings)
+  - 2026: 93.3% (14/15 meetings)
 
 
 ## Voting Alignment
@@ -106,7 +106,7 @@ prefillQuestions:
 | Strategic Priorities and Policy Committee | 914 | 639 | 69 | 77.5% |
 | Planning and Environment Committee | 632 | 600 | 22 | 98.4% |
 | Budget Committee | 189 | 142 | 47 | 100.0% |
-| Infrastructure and Corporate Services Committee | 142 | 121 | 13 | 94.4% |
+| Infrastructure and Corporate Services Committee | 147 | 121 | 13 | 91.2% |
 | Civic Works Committee | 55 | 51 | 0 | 92.7% |
 
 
