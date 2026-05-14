@@ -2,7 +2,7 @@
 title: "Audit Committee"
 type: committee
 slug: "audit"
-meetingCount: 68
+meetingCount: 69
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -11,6 +11,7 @@ prefillQuestions:
 
 ## Recent Meetings
 
+- [Audit Committee](</months/2026-05/2026-05-13 - Audit Committee>) - Wed May 13 2026
 - [1st Meeting of the Audit Committee](</months/2026-02/2026-02-25 1st Meeting of the Audit Committee>) - Wed Feb 25 2026
 - [4th Meeting of the Audit Committee](</months/2025-11/2025-11-19 4th Meeting of the Audit Committee>) - Wed Nov 19 2025
 - [3rd Meeting of the Audit Committee](</months/2025-09/2025-09-10 3rd Meeting of the Audit Committee>) - Wed Sep 10 2025
@@ -20,8 +21,7 @@ prefillQuestions:
 - [3rd Meeting of the Audit Committee](</months/2024-09/2024-09-18 3rd Meeting of the Audit Committee>) - Wed Sep 18 2024
 - [2nd Meeting of the Audit Committee](</months/2024-06/2024-06-19 2nd Meeting of the Audit Committee>) - Wed Jun 19 2024
 - [Audit Committee](</months/2024-02/2024-02-14 Audit Committee>) - Wed Feb 14 2024
-- [3rd Meeting of the Audit Committee](</months/2023-11/2023-11-15 3rd Meeting of the Audit Committee>) - Wed Nov 15 2023
 
 
-[View all 68 meetings →](#)
+[View all 69 meetings →](#)
 
