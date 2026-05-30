@@ -2,11 +2,11 @@
   "councillor": "Susan Stevenson",
   "slug": "s-stevenson",
   "attendance": {
-    "totalMeetings": 220,
-    "present": 195,
+    "totalMeetings": 224,
+    "present": 199,
     "absent": 25,
     "remote": 1,
-    "attendanceRate": 88.63636363636364,
+    "attendanceRate": 88.83928571428571,
     "trend": [
       {
         "period": "2022",
@@ -34,27 +34,27 @@
       },
       {
         "period": "2026",
-        "attendanceRate": 86.36363636363636,
-        "meetingsAttended": 19,
-        "meetingsTotal": 22
+        "attendanceRate": 88.46153846153845,
+        "meetingsAttended": 23,
+        "meetingsTotal": 26
       }
     ],
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 3670,
-    "yeas": 2637,
-    "nays": 549,
+    "totalVotes": 3734,
+    "yeas": 2686,
+    "nays": 564,
     "absent": 484,
-    "participationRate": 86.81198910081744,
-    "yeaRate": 82.7683615819209,
-    "contestedDissentRate": 35.655430711610485,
-    "contestedVotes": 1335,
-    "substantiveVotes": 2247,
-    "substantiveYeas": 1544,
-    "substantiveNays": 351,
-    "substantiveParticipationRate": 84.33466844681799,
-    "substantiveYeaRate": 81.47757255936675
+    "participationRate": 87.03802892340653,
+    "yeaRate": 82.64615384615385,
+    "contestedDissentRate": 36.28972653362897,
+    "contestedVotes": 1353,
+    "substantiveVotes": 2270,
+    "substantiveYeas": 1563,
+    "substantiveNays": 355,
+    "substantiveParticipationRate": 84.49339207048459,
+    "substantiveYeaRate": 81.49113660062565
   },
   "budgetVoting": {
     "totalBudgetVotes": 382,
@@ -65,180 +65,180 @@
   "topAlignments": [
     {
       "councillor": "Paul Van Meerbergen",
-      "sharedVotes": 1365,
-      "agreedVotes": 1223,
-      "alignmentRate": 89.5970695970696
+      "sharedVotes": 1397,
+      "agreedVotes": 1247,
+      "alignmentRate": 89.26270579813887
     },
     {
       "councillor": "Peter Cuddy",
-      "sharedVotes": 1491,
-      "agreedVotes": 1330,
-      "alignmentRate": 89.2018779342723
+      "sharedVotes": 1521,
+      "agreedVotes": 1354,
+      "alignmentRate": 89.02038132807364
     },
     {
       "councillor": "Jerry Pribil",
-      "sharedVotes": 1441,
-      "agreedVotes": 1283,
-      "alignmentRate": 89.03539208882721
+      "sharedVotes": 1466,
+      "agreedVotes": 1302,
+      "alignmentRate": 88.81309686221009
     },
     {
       "councillor": "Steve Lehman",
-      "sharedVotes": 1419,
-      "agreedVotes": 1258,
-      "alignmentRate": 88.6539816772375
+      "sharedVotes": 1448,
+      "agreedVotes": 1281,
+      "alignmentRate": 88.46685082872928
     },
     {
       "councillor": "Steve Hillier",
-      "sharedVotes": 1354,
-      "agreedVotes": 1198,
-      "alignmentRate": 88.47858197932054
+      "sharedVotes": 1384,
+      "agreedVotes": 1222,
+      "alignmentRate": 88.29479768786128
     }
   ],
   "bottomAlignments": [
     {
       "councillor": "Sam Trosow",
-      "sharedVotes": 1331,
-      "agreedVotes": 1026,
-      "alignmentRate": 77.08489857250188
+      "sharedVotes": 1354,
+      "agreedVotes": 1046,
+      "alignmentRate": 77.25258493353027
     },
     {
       "councillor": "David Ferreira",
-      "sharedVotes": 1174,
-      "agreedVotes": 922,
-      "alignmentRate": 78.53492333901193
+      "sharedVotes": 1199,
+      "agreedVotes": 940,
+      "alignmentRate": 78.39866555462885
     },
     {
       "councillor": "Anna Hopkins",
-      "sharedVotes": 1370,
-      "agreedVotes": 1111,
-      "alignmentRate": 81.0948905109489
+      "sharedVotes": 1394,
+      "agreedVotes": 1129,
+      "alignmentRate": 80.98995695839312
     },
     {
       "councillor": "Skylar Franke",
-      "sharedVotes": 1359,
-      "agreedVotes": 1108,
-      "alignmentRate": 81.53053715967623
+      "sharedVotes": 1393,
+      "agreedVotes": 1133,
+      "alignmentRate": 81.33524766690596
     },
     {
       "councillor": "Corrine Rahman",
-      "sharedVotes": 1287,
-      "agreedVotes": 1088,
-      "alignmentRate": 84.53768453768454
+      "sharedVotes": 1311,
+      "agreedVotes": 1106,
+      "alignmentRate": 84.3630816170862
     }
   ],
   "notableDissents": [
     {
-      "date": "2026-05-05",
-      "meetingTitle": "The 7th Meeting of the Planning and Environment Committee",
-      "itemTitle": "945 Bluegrass Drive - OZ-26019",
-      "motionText": "That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Bluegrass Long Term Care Centre – Division of “Meadow Park” (Lo...",
+      "date": "2026-05-28",
+      "meetingTitle": "7th Meeting of the Strategic Priorities and Policy Committee",
+      "itemTitle": "Strategic Plan Implementation Update: Mid-Year 2026",
+      "motionText": "That, on the recommendation of the City Manager, the report including the 2026 Mid-Year Strategic Plan Implementation Update, as appended to the staff report dated May 28, 2026, BE RECEIVED for inform...",
       "vote": "nay",
-      "result": "Motion Passed (3 to 2)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=9e867ca5-1f00-4f56-a35c-30252605ddb9&Agenda=PostMinutes&lang=English"
+      "result": "Motion Passed (12 to 1)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=d6d163e4-49ea-4151-8247-514f3547158a&Agenda=PostMinutes&lang=English"
     },
     {
-      "date": "2026-04-21",
-      "meetingTitle": "6th Meeting of the Strategic Priorities and Policy Committee",
-      "itemTitle": "London Transit Rapid Transit Operational Readiness Review",
-      "motionText": "That part b) BE APPROVED and reads as follows: b) the London Transit Commission BE DIRECTED to review the following opportunities and report back to Council on implementation, including timing, operat...",
+      "date": "2026-05-28",
+      "meetingTitle": "7th Meeting of the Strategic Priorities and Policy Committee",
+      "itemTitle": "Review of RFPQ 2025-056 Redevelopment of City Hall Campus Procurement and Related Information",
+      "motionText": "That, on the recommendation of the Deputy City Manager, Finance Supports, the report dated May 28, 2026, titled “Review of RFPQ 2025-056 – Redevelopment of City Hall Campus Procurement and Related Inf...",
       "vote": "nay",
-      "result": "Motion Passed (11 to 2)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b5334fb8-e3e2-4e5b-b0c6-9e30a6392c59&Agenda=PostMinutes&lang=English"
+      "result": "Motion Passed (10 to 1)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=d6d163e4-49ea-4151-8247-514f3547158a&Agenda=PostMinutes&lang=English"
     },
     {
-      "date": "2026-04-20",
-      "meetingTitle": "7th Meeting of the Infrastructure and Corporate Services Committee",
-      "itemTitle": "2025 Year-End Operating Budget Monitoring Report",
-      "motionText": "That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to the 2025 Year-End Operating Budget Monitoring Report: a)   the 2025 Operating B...",
+      "date": "2026-05-28",
+      "meetingTitle": "7th Meeting of the Strategic Priorities and Policy Committee",
+      "itemTitle": "Delegation - Paul Chisholm, Chief Executive Officer and Phil Squire, Board Chair, London & Middlesex Community Housing - LMCH Master Regeneration Plan",
+      "motionText": "That the London & Middlesex Community Housing's 15-Year Regeneration Plan BE RECEIVED; it being noted that the Strategic Priorities and Policy Committee received a presentation from P. Chisholm, Chief...",
       "vote": "nay",
-      "result": "Motion Passed (5 to 1)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=37b21bb0-d952-4107-8eb0-8e2ecddfc877&Agenda=PostMinutes&lang=English"
+      "result": "Motion Passed (13 to 2)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=d6d163e4-49ea-4151-8247-514f3547158a&Agenda=PostMinutes&lang=English"
     },
     {
-      "date": "2026-04-14",
-      "meetingTitle": "The 6th Meeting of the Planning and Environment Committee",
-      "itemTitle": "Councillor S. Franke - Tenant Assistance and Relocation Program ",
-      "motionText": "That the Civic Administration BE DIRECTED to explore and report back on the feasibility of establishing a Tenant Assistance and Relocation Program for the City of London by end of Q1 2027; it being no...",
+      "date": "2026-05-28",
+      "meetingTitle": "7th Meeting of the Strategic Priorities and Policy Committee",
+      "itemTitle": "Review of the London & Middlesex Community Housing Master Regeneration Plan",
+      "motionText": "That, on the recommendation of the Deputy City Manager, Finance Supports and the Deputy City Manager, Housing and Community Growth, the report on the London and Middlesex Community Housing Master Rege...",
       "vote": "nay",
-      "result": "Motion Passed (2 to 1)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=af274368-f7ca-49b6-8d4f-aeba8a207974&Agenda=PostMinutes&lang=English"
+      "result": "Motion Passed (13 to 2)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=d6d163e4-49ea-4151-8247-514f3547158a&Agenda=PostMinutes&lang=English"
     },
     {
-      "date": "2026-03-24",
-      "meetingTitle": "5th Meeting of the Strategic Priorities and Policy Committee",
-      "itemTitle": "Draft Economic Development Strategy (2026-2030) and Implementation Plan",
-      "motionText": "That, on the recommendation of the City Manager, the City of London Draft Economic Development Strategy (2026-2030) and Implementation Plan, as appended to the staff report dated March 24, 2026 as App...",
+      "date": "2026-05-27",
+      "meetingTitle": "10th Meeting of the Infrastructure and Corporate Services Committee",
+      "itemTitle": "2026 Reserve and Reserve Fund Monitoring and Housekeeping Report",
+      "motionText": "That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken:\n\n\n\na)    the 2026 Reserve and Reserve Fund Monitoring and Housekeeping Report BE RECEIVED for ...",
       "vote": "nay",
-      "result": "Motion Passed (12 to 2)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=5b8ccf34-419e-4480-af6f-4160e9259405&Agenda=PostMinutes&lang=English"
+      "result": "Motion Passed (4 to 1)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=26f90392-e7cf-407f-911a-be41af35676c&Agenda=PostMinutes&lang=English"
     },
     {
-      "date": "2026-03-24",
-      "meetingTitle": "5th Meeting of the Strategic Priorities and Policy Committee",
-      "itemTitle": "Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program - Report Back on Program Options",
-      "motionText": "That the motion BE AMENDED to have the report back to the Strategic Priorities and Policy Committee.",
+      "date": "2026-05-27",
+      "meetingTitle": "10th Meeting of the Infrastructure and Corporate Services Committee",
+      "itemTitle": "Bi-Annual Procurement Report and Update",
+      "motionText": "That, on the recommendation of the Deputy City Manager, Finance Supports, the first Bi-Annual Procurement Report, prepared in accordance with Section 35 – Reporting Requirements of the Procurement of ...",
       "vote": "nay",
-      "result": "Motion Passed (10 to 4)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=5b8ccf34-419e-4480-af6f-4160e9259405&Agenda=PostMinutes&lang=English"
+      "result": "Motion Passed (4 to 1)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=26f90392-e7cf-407f-911a-be41af35676c&Agenda=PostMinutes&lang=English"
     },
     {
-      "date": "2026-03-23",
-      "meetingTitle": "6th Meeting of the Infrastructure and Corporate Services Committee",
-      "itemTitle": "Revised Respectful Workplace Policy (Anti-Harassment/Anti-Discrimination) ",
-      "motionText": "That, on the recommendation of the Deputy City Manager, Enterprise Supports, and with the concurrence of the City Manager, the following actions be taken with respect to the Respectful Workplace Polic...",
+      "date": "2026-05-27",
+      "meetingTitle": "10th Meeting of the Infrastructure and Corporate Services Committee",
+      "itemTitle": "Standing Committee Meetings and Annual Meeting Calendar",
+      "motionText": "That, on the recommendation of the City Clerk, the annual meeting calendar for the period January 1, 2027 to December 31, 2027, as appended to the staff report dated May 27, 2026 as Appendix “A”, BE A...",
       "vote": "nay",
-      "result": "Motion Passed (5 to 1)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=e9890bd1-3ebf-47fa-8198-25a144b6365d&Agenda=PostMinutes&lang=English"
+      "result": "Motion Passed (4 to 1)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=26f90392-e7cf-407f-911a-be41af35676c&Agenda=PostMinutes&lang=English"
     },
     {
-      "date": "2026-03-23",
-      "meetingTitle": "6th Meeting of the Infrastructure and Corporate Services Committee",
-      "itemTitle": "Final Program Design for BetterHomes London ",
-      "motionText": "That on the recommendation of the Deputy City Manager, Environment & Infrastructure, the following actions be taken; a)    the proposed by-law, as appended to the staff report dated March 23, 2026 as ...",
-      "vote": "nay",
-      "result": "Motion Passed (5 to 1)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=e9890bd1-3ebf-47fa-8198-25a144b6365d&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-03-23",
-      "meetingTitle": "6th Meeting of the Infrastructure and Corporate Services Committee",
-      "itemTitle": "Meadowlily Environmental Assessment – Notice of Completion",
-      "motionText": "That the delegation request from J. Ross, Director, Project Manager, Development Engineering (London) Limited BE APPROVED to be heard at this time.",
-      "vote": "nay",
-      "result": "Motion Passed (5 to 1)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=e9890bd1-3ebf-47fa-8198-25a144b6365d&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-03-23",
-      "meetingTitle": "6th Meeting of the Infrastructure and Corporate Services Committee",
-      "itemTitle": "Smart Commute London: Additional Details and Memorandum of Understanding (MOU) Extension",
-      "motionText": "That part b) BE AMENDED to read as follows: b)    the Deputy City Manager of Environment and Infrastructure BE AUTHORIZED to approve and execute the upcoming Smart Commute Memorandum of Understanding ...",
+      "date": "2026-05-27",
+      "meetingTitle": "10th Meeting of the Infrastructure and Corporate Services Committee",
+      "itemTitle": "Standing Committee Meetings and Annual Meeting Calendar",
+      "motionText": "That the motion BE AMENDED to add a new part that reads as follows: The Civic Administration BE DIRECTED to bring forward a by-law amendment to By-law No. A.-61, being the Council Procedure By-law, to...",
       "vote": "yea",
-      "result": "Motion Failed (3 to 3)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=e9890bd1-3ebf-47fa-8198-25a144b6365d&Agenda=PostMinutes&lang=English"
+      "result": "Motion Failed (1 to 4)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=26f90392-e7cf-407f-911a-be41af35676c&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2026-05-12",
+      "meetingTitle": "8th Meeting of Council",
+      "itemTitle": "(2.5) Next Steps for the Provincial Cargo Power-Assisted Bicycle Pilot (Relates to Bill No. 195)",
+      "motionText": "That on the recommendation of the Deputy City Manager, Environment & Infrastructure, with respect to the City’s participation in the Province of Ontario’s Cargo Power-assisted Bicycle (cargo e-bike) p...",
+      "vote": "nay",
+      "result": "Motion Passed (13 to 2)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=36196cde-4600-4e4f-8874-7125d4e3232b&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2026-05-12",
+      "meetingTitle": "8th Meeting of Council",
+      "itemTitle": "(2.6) Findings and Next Steps for Provincial Electric Kick-Scooter Pilot (Relates to Bill No.'s 192 and 196)",
+      "motionText": "That part b) BE APPROVED: b)    the proposed by-law, as appended to the staff report dated May 6, 2026 as Appendix \"A\", BE INTRODUCED at the Municipal Council meeting to be held on May 12, 2026 to est...",
+      "vote": "nay",
+      "result": "Motion Passed (11 to 4)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=36196cde-4600-4e4f-8874-7125d4e3232b&Agenda=PostMinutes&lang=English"
     }
   ],
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 1941,
-      "yeas": 1399,
-      "nays": 379,
-      "participationRate": 91.60226687274601
+      "totalVotes": 1971,
+      "yeas": 1421,
+      "nays": 387,
+      "participationRate": 91.73008625063419
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 988,
-      "yeas": 681,
-      "nays": 94,
-      "participationRate": 78.4412955465587
+      "totalVotes": 999,
+      "yeas": 688,
+      "nays": 98,
+      "participationRate": 78.67867867867868
     },
     {
       "committee": "Planning and Environment Committee",
-      "totalVotes": 212,
-      "yeas": 170,
+      "totalVotes": 224,
+      "yeas": 182,
       "nays": 4,
-      "participationRate": 82.0754716981132
+      "participationRate": 83.03571428571429
     },
     {
       "committee": "Budget Committee",
@@ -263,10 +263,10 @@
     },
     {
       "committee": "Infrastructure and Corporate Services Committee",
-      "totalVotes": 64,
-      "yeas": 46,
-      "nays": 12,
-      "participationRate": 90.625
+      "totalVotes": 75,
+      "yeas": 54,
+      "nays": 15,
+      "participationRate": 92
     }
   ]
 }

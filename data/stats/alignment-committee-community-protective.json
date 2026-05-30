@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T07:49:16.099Z",
+  "generatedAt": "2026-05-30T07:29:31.706Z",
   "matrix": {
     "j-morgan": {
       "h-mcalister": 94.11764705882352,
@@ -51,42 +51,42 @@
       "s-lewis": 94.73684210526315,
       "p-cuddy": 93.22033898305084,
       "s-stevenson": 91.37931034482759,
-      "s-trosow": 86.58536585365853,
-      "c-rahman": 94.33962264150944,
-      "a-hopkins": 96.15384615384616,
+      "s-trosow": 86.74698795180723,
+      "c-rahman": 94.54545454545455,
+      "a-hopkins": 96.42857142857143,
       "e-peloza": 94.26229508196722,
-      "d-ferreira": 91.0891089108911
+      "d-ferreira": 91.17647058823529
     },
     "s-trosow": {
       "j-morgan": 92.3076923076923,
       "h-mcalister": 90.625,
       "s-lewis": 87.5,
       "p-cuddy": 85.96491228070175,
-      "j-pribil": 86.58536585365853,
-      "c-rahman": 81.25,
-      "a-hopkins": 88.46153846153845,
+      "j-pribil": 86.74698795180723,
+      "c-rahman": 83.33333333333334,
+      "a-hopkins": 89.28571428571429,
       "e-peloza": 87.3015873015873,
-      "d-ferreira": 93.82716049382715
+      "d-ferreira": 93.90243902439023
     },
     "c-rahman": {
       "j-morgan": 88.23529411764706,
       "s-lewis": 100,
       "s-stevenson": 94.11764705882352,
-      "j-pribil": 94.33962264150944,
-      "s-trosow": 81.25,
-      "a-hopkins": 93.75,
+      "j-pribil": 94.54545454545455,
+      "s-trosow": 83.33333333333334,
+      "a-hopkins": 94.44444444444444,
       "e-peloza": 100,
-      "d-ferreira": 90.19607843137256
+      "d-ferreira": 90.56603773584906
     },
     "s-lehman": {},
     "a-hopkins": {
       "j-morgan": 100,
       "s-lewis": 87.5,
-      "j-pribil": 96.15384615384616,
-      "s-trosow": 88.46153846153845,
-      "c-rahman": 93.75,
+      "j-pribil": 96.42857142857143,
+      "s-trosow": 89.28571428571429,
+      "c-rahman": 94.44444444444444,
       "e-peloza": 88.88888888888889,
-      "d-ferreira": 91.66666666666666
+      "d-ferreira": 92.3076923076923
     },
     "p-van-meerbergen": {},
     "s-franke": {},
@@ -108,10 +108,10 @@
       "s-lewis": 84.21052631578947,
       "p-cuddy": 90.56603773584906,
       "s-stevenson": 85.29411764705883,
-      "j-pribil": 91.0891089108911,
-      "s-trosow": 93.82716049382715,
-      "c-rahman": 90.19607843137256,
-      "a-hopkins": 91.66666666666666,
+      "j-pribil": 91.17647058823529,
+      "s-trosow": 93.90243902439023,
+      "c-rahman": 90.56603773584906,
+      "a-hopkins": 92.3076923076923,
       "e-peloza": 87.75510204081633
     },
     "s-hillier": {
@@ -170,6 +170,6 @@
     }
   ],
   "type": "committee",
-  "motionCount": 1331,
+  "motionCount": 1333,
   "committeeName": "Community and Protective Services Committee"
 }

@@ -2,11 +2,11 @@
   "councillor": "David Ferreira",
   "slug": "d-ferreira",
   "attendance": {
-    "totalMeetings": 228,
-    "present": 222,
+    "totalMeetings": 231,
+    "present": 225,
     "absent": 6,
     "remote": 1,
-    "attendanceRate": 97.36842105263158,
+    "attendanceRate": 97.40259740259741,
     "trend": [
       {
         "period": "2022",
@@ -35,26 +35,26 @@
       {
         "period": "2026",
         "attendanceRate": 100,
-        "meetingsAttended": 13,
-        "meetingsTotal": 13
+        "meetingsAttended": 16,
+        "meetingsTotal": 16
       }
     ],
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 3219,
-    "yeas": 2541,
+    "totalVotes": 3262,
+    "yeas": 2584,
     "nays": 378,
     "absent": 300,
-    "participationRate": 90.68033550792171,
-    "yeaRate": 87.05035971223022,
-    "contestedDissentRate": 28.341013824884794,
-    "contestedVotes": 1302,
-    "substantiveVotes": 2062,
-    "substantiveYeas": 1523,
+    "participationRate": 90.80318822808093,
+    "yeaRate": 87.23835246455099,
+    "contestedDissentRate": 28.13688212927757,
+    "contestedVotes": 1315,
+    "substantiveVotes": 2076,
+    "substantiveYeas": 1537,
     "substantiveNays": 300,
-    "substantiveParticipationRate": 88.40931134820562,
-    "substantiveYeaRate": 83.54360943499725
+    "substantiveParticipationRate": 88.48747591522158,
+    "substantiveYeaRate": 83.66902558519325
   },
   "budgetVoting": {
     "totalBudgetVotes": 331,
@@ -65,68 +65,77 @@
   "topAlignments": [
     {
       "councillor": "Anna Hopkins",
-      "sharedVotes": 1245,
-      "agreedVotes": 1162,
-      "alignmentRate": 93.33333333333333
+      "sharedVotes": 1271,
+      "agreedVotes": 1188,
+      "alignmentRate": 93.46970889063729
     },
     {
       "councillor": "Skylar Franke",
-      "sharedVotes": 1200,
-      "agreedVotes": 1114,
-      "alignmentRate": 92.83333333333333
+      "sharedVotes": 1225,
+      "agreedVotes": 1139,
+      "alignmentRate": 92.9795918367347
     },
     {
       "councillor": "Hadleigh McAlister",
-      "sharedVotes": 1296,
-      "agreedVotes": 1192,
-      "alignmentRate": 91.9753086419753
+      "sharedVotes": 1320,
+      "agreedVotes": 1215,
+      "alignmentRate": 92.04545454545455
     },
     {
       "councillor": "Sam Trosow",
-      "sharedVotes": 1378,
-      "agreedVotes": 1257,
-      "alignmentRate": 91.21915820029028
+      "sharedVotes": 1403,
+      "agreedVotes": 1279,
+      "alignmentRate": 91.16179615110478
     },
     {
       "councillor": "Josh Morgan",
-      "sharedVotes": 1233,
-      "agreedVotes": 1108,
-      "alignmentRate": 89.86212489862126
+      "sharedVotes": 1253,
+      "agreedVotes": 1127,
+      "alignmentRate": 89.94413407821229
     }
   ],
   "bottomAlignments": [
     {
       "councillor": "Susan Stevenson",
-      "sharedVotes": 1174,
-      "agreedVotes": 922,
-      "alignmentRate": 78.53492333901193
+      "sharedVotes": 1199,
+      "agreedVotes": 940,
+      "alignmentRate": 78.39866555462885
     },
     {
       "councillor": "Paul Van Meerbergen",
-      "sharedVotes": 1103,
-      "agreedVotes": 895,
-      "alignmentRate": 81.14233907524931
+      "sharedVotes": 1128,
+      "agreedVotes": 919,
+      "alignmentRate": 81.47163120567376
     },
     {
       "councillor": "Steve Hillier",
-      "sharedVotes": 1156,
-      "agreedVotes": 985,
-      "alignmentRate": 85.20761245674741
+      "sharedVotes": 1181,
+      "agreedVotes": 1009,
+      "alignmentRate": 85.43607112616426
     },
     {
       "councillor": "Steve Lehman",
-      "sharedVotes": 1175,
-      "agreedVotes": 1017,
-      "alignmentRate": 86.55319148936171
+      "sharedVotes": 1199,
+      "agreedVotes": 1040,
+      "alignmentRate": 86.73894912427022
     },
     {
       "councillor": "Peter Cuddy",
-      "sharedVotes": 1254,
-      "agreedVotes": 1089,
-      "alignmentRate": 86.8421052631579
+      "sharedVotes": 1279,
+      "agreedVotes": 1113,
+      "alignmentRate": 87.02111024237685
     }
   ],
   "notableDissents": [
+    {
+      "date": "2026-05-12",
+      "meetingTitle": "8th Meeting of Council",
+      "itemTitle": "(3.3) 945 Bluegrass Drive - OZ-26019 (Relates to Bill No. 194 and 210)",
+      "motionText": "That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Bluegrass Long Term Care Centre – Division of “Meadow Park” (Lo...",
+      "vote": "yea",
+      "result": "Motion Failed (5 to 10)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=36196cde-4600-4e4f-8874-7125d4e3232b&Agenda=PostMinutes&lang=English"
+    },
     {
       "date": "2026-03-24",
       "meetingTitle": "5th Meeting of the Strategic Priorities and Policy Committee",
@@ -207,38 +216,29 @@
       "vote": "nay",
       "result": "Motion Passed (10 to 1)",
       "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-03-03",
-      "meetingTitle": "4th Council Meeting",
-      "itemTitle": "By-laws",
-      "motionText": "That Introduction and First Reading of Bill No.’s 105 and 123, BE APPROVED.",
-      "vote": "nay",
-      "result": "Motion Passed (8 to 3)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English"
     }
   ],
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 1733,
-      "yeas": 1450,
+      "totalVotes": 1763,
+      "yeas": 1480,
       "nays": 223,
-      "participationRate": 96.53779572994806
+      "participationRate": 96.59671015314805
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 765,
-      "yeas": 499,
+      "totalVotes": 776,
+      "yeas": 510,
       "nays": 74,
-      "participationRate": 74.90196078431373
+      "participationRate": 75.25773195876289
     },
     {
       "committee": "Community and Protective Services Committee",
-      "totalVotes": 402,
-      "yeas": 355,
+      "totalVotes": 404,
+      "yeas": 357,
       "nays": 31,
-      "participationRate": 96.01990049751244
+      "participationRate": 96.03960396039604
     },
     {
       "committee": "Budget Committee",
