@@ -2,18 +2,18 @@
 title: "Paul Van Meerbergen"
 type: councillor
 slug: "p-van-meerbergen"
-meetingCount: 517
+meetingCount: 520
 yearsActive: "2010 - 2026"
 isCurrent: true
-totalVotes: 8651
-votesYea: 6769
-votesNay: 1011
-votesAbsent: 871
+totalVotes: 8703
+votesYea: 6813
+votesNay: 1017
+votesAbsent: 873
 attendanceRate: 95.4
-participationRate: 89.9
+participationRate: 90.0
 yeaRate: 87.0
 contestedDissentRate: 22.6
-contestedVotes: 3988
+contestedVotes: 4006
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -31,10 +31,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 8,651 |
-| Voted Yea | 6,769 (78.2%) |
-| Voted Nay | 1,011 (11.7%) |
-| Absent | 871 (10.1%) |
+| Total Votes | 8,703 |
+| Voted Yea | 6,813 (78.3%) |
+| Voted Nay | 1,017 (11.7%) |
+| Absent | 873 (10.0%) |
 
 
 ### Substantive Votes
@@ -43,9 +43,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 6,093 |
-| Voted Yea | 4,670 (85.1%) |
-| Voted Nay | 818 (14.9%) |
+| Substantive Votes | 6,112 |
+| Voted Yea | 4,684 (85.1%) |
+| Voted Nay | 822 (14.9%) |
 
 
 ### Dissent on Contested Votes
@@ -53,7 +53,7 @@ prefillQuestions:
 *Only counts non-unanimous votes where the councillor participated*
 
 - **Dissent Rate**: 22.6%
-- **Contested Votes**: 3,988
+- **Contested Votes**: 4,006
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -73,7 +73,7 @@ prefillQuestions:
 ## Attendance
 
 - **Attendance Rate**: 95.4%
-- **Meetings Attended**: 560 of 587
+- **Meetings Attended**: 563 of 590
 - **Meetings Missed**: 27
 - **Trend**: Stable -
 
@@ -81,20 +81,20 @@ prefillQuestions:
   - 2023: 98.3% (57/58 meetings)
   - 2024: 98.4% (62/63 meetings)
   - 2025: 96.4% (53/55 meetings)
-  - 2026: 100.0% (15/15 meetings)
+  - 2026: 100.0% (18/18 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
 - Steve Lehman (93.6%)
-- Shawn Lewis (92.7%)
 - Steve Hillier (92.7%)
+- Shawn Lewis (92.7%)
 
 **Least aligned with:**
-- Sam Trosow (78.1%)
-- David Ferreira (81.1%)
-- Skylar Franke (84.5%)
+- Sam Trosow (78.4%)
+- David Ferreira (81.5%)
+- Skylar Franke (84.8%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -103,17 +103,49 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 5,035 | 4,141 | 541 | 93.0% |
-| Strategic Priorities and Policy Committee | 2,675 | 1,830 | 348 | 81.4% |
+| Council | 5,065 | 4,166 | 546 | 93.0% |
+| Strategic Priorities and Policy Committee | 2,686 | 1,841 | 348 | 81.5% |
 | Civic Works Committee | 451 | 409 | 31 | 97.6% |
 | Budget Committee | 189 | 118 | 68 | 98.4% |
+| Infrastructure and Corporate Services Committee | 158 | 135 | 18 | 96.8% |
 | Corporate Services Committee | 154 | 144 | 6 | 97.4% |
-| Infrastructure and Corporate Services Committee | 147 | 127 | 17 | 98.0% |
 
 
 ## Notable Dissenting Votes
 
 *Recent split votes where Paul Van Meerbergen voted against the final outcome:*
+
+### 2026-05-12: (2.6) Findings and Next Steps for Provincial Electric Kick-Scooter Pilot (Relates to Bill No.'s 192 and 196)
+
+[8th Meeting of Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=36196cde-4600-4e4f-8874-7125d4e3232b&Agenda=PostMinutes&lang=English)
+
+> That part b) BE APPROVED: b)    the proposed by-law, as appended to the staff report dated May 6, 2026 as Appendix "A", BE INTRODUCED at the Municipal Council meeting to be held on May 12, 2026 to est...
+
+Voted **Nay** - Motion Passed (11 to 4)
+
+### 2026-05-12: (2.6) Findings and Next Steps for Provincial Electric Kick-Scooter Pilot (Relates to Bill No.'s 192 and 196)
+
+[8th Meeting of Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=36196cde-4600-4e4f-8874-7125d4e3232b&Agenda=PostMinutes&lang=English)
+
+> That part d) BE APPROVED: d)    the Civic Administration BE DIRECTED to report back to Committee and Council in May 2027 with an update report on the use of e-scooters in London;
+
+Voted **Nay** - Motion Passed (14 to 1)
+
+### 2026-05-12: By-laws
+
+[8th Meeting of Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=36196cde-4600-4e4f-8874-7125d4e3232b&Agenda=PostMinutes&lang=English)
+
+> That Second Reading of Bill No. 195 and 196 BE APPROVED.
+
+Voted **Nay** - Motion Passed (11 to 3)
+
+### 2026-05-12: By-laws
+
+[8th Meeting of Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=36196cde-4600-4e4f-8874-7125d4e3232b&Agenda=PostMinutes&lang=English)
+
+> That Third Reading and Enactment of Bill No. 196 BE APPROVED.
+
+Voted **Nay** - Motion Passed (11 to 3)
 
 ### 2026-05-06: Findings and Next Steps for Provincial Electric Kick-Scooter Pilot
 
@@ -163,38 +195,6 @@ Voted **Nay** - Motion Passed (3 to 2)
 
 Voted **Nay** - Motion Passed (4 to 1)
 
-### 2026-02-10: (2.2) Good Neighbour Agreements
-
-[3rd Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English)
-
-> ii) that Civic Administration BE DIRECTED to review existing housing stability contracts to assess alignment with current operational needs, including transitions from emergency and highly supportive ...
-
-Voted **Yea** - Motion Failed (7 to 8)
-
-### 2026-02-10: (2.2) Good Neighbour Agreements
-
-[3rd Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English)
-
-> i) the Civic Administration BE DIRECTED to provide a one-year contract renewal for the procurement framework with an option to renew for one-year;
-
-Voted **Yea** - Motion Failed (7 to 8)
-
-### 2026-02-10: (2.3) System Area Update: Supports for Those Living Unsheltered: Basic Needs and Pathway Options
-
-[3rd Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English)
-
-> That, the staff report dated January 26, 2026 with respect to the System Area Update: Supports for Those Living Unsheltered: Basic Needs and Pathway Options, BE REFERRED to a future meeting of the Com...
-
-Voted **Nay** - Motion Passed (8 to 7)
-
-### 2026-02-10: (3.5) 3334-3354 Wonderland Road South - OZ-25140 (Relates to Bill No. 66 and No. 83)
-
-[3rd Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English)
-
-> Notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 111473 Ontario Limited (c/o MHBC Planning) relating to t...
-
-Voted **Nay** - Motion Passed (11 to 4)
-
 
 ## Committees Served
 
@@ -206,8 +206,11 @@ Voted **Nay** - Motion Passed (11 to 4)
 - [Civic Works Committee](/committees/civic-works)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 
-## Recent Meetings (517 total)
+## Recent Meetings (520 total)
 
+- [7th Meeting of the Strategic Priorities and Policy Committee](</months/2026-05/2026-05-28 7th Meeting of the Strategic Priorities and Policy Committee>) - Thu May 28 2026
+- [10th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-05/2026-05-27 10th Meeting of the Infrastructure and Corporate Services Committee>) - Wed May 27 2026
+- [8th Meeting of Council](</months/2026-05/2026-05-12 8th Meeting of Council>) - Tue May 12 2026
 - [6th Meeting of the Strategic Priorities and Policy Committee](</months/2026-04/2026-04-21 6th Meeting of the Strategic Priorities and Policy Committee>) - Tue Apr 21 2026
 - [7th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-04/2026-04-20 7th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Apr 20 2026
 - [5th Meeting of the Strategic Priorities and Policy Committee](</months/2026-03/2026-03-24 5th Meeting of the Strategic Priorities and Policy Committee>) - Tue Mar 24 2026
@@ -215,6 +218,3 @@ Voted **Nay** - Motion Passed (11 to 4)
 - [4th Council Meeting](</months/2026-03/2026-03-03 4th Council Meeting>) - Tue Mar 3 2026
 - [5th Special Meeting of the Infrastructure and Corporate Services Committee](</months/2026-03/2026-03-02 5th Special Meeting of the Infrastructure and Corporate Services Committee>) - Mon Mar 2 2026
 - [4th Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-24 4th Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 24 2026
-- [4th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-02/2026-02-23 4th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Feb 23 2026
-- [3rd Council Meeting](</months/2026-02/2026-02-10 3rd Council Meeting>) - Tue Feb 10 2026
-- [3rd Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-03 3rd Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 3 2026

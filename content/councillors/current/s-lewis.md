@@ -2,18 +2,18 @@
 title: "Shawn Lewis"
 type: councillor
 slug: "s-lewis"
-meetingCount: 516
+meetingCount: 519
 yearsActive: "2018 - 2026"
 isCurrent: true
-totalVotes: 9112
-votesYea: 7964
-votesNay: 501
-votesAbsent: 647
+totalVotes: 9165
+votesYea: 7998
+votesNay: 503
+votesAbsent: 664
 attendanceRate: 98.6
-participationRate: 92.9
+participationRate: 92.8
 yeaRate: 94.1
-contestedDissentRate: 10.6
-contestedVotes: 2398
+contestedDissentRate: 10.7
+contestedVotes: 2406
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -30,10 +30,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 9,112 |
-| Voted Yea | 7,964 (87.4%) |
-| Voted Nay | 501 (5.5%) |
-| Absent | 647 (7.1%) |
+| Total Votes | 9,165 |
+| Voted Yea | 7,998 (87.3%) |
+| Voted Nay | 503 (5.5%) |
+| Absent | 664 (7.2%) |
 
 
 ### Substantive Votes
@@ -42,17 +42,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 5,276 |
-| Voted Yea | 4,264 (90.1%) |
-| Voted Nay | 467 (9.9%) |
+| Substantive Votes | 5,293 |
+| Voted Yea | 4,279 (90.1%) |
+| Voted Nay | 468 (9.9%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 10.6%
-- **Contested Votes**: 2,398
+- **Dissent Rate**: 10.7%
+- **Contested Votes**: 2,406
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -72,7 +72,7 @@ prefillQuestions:
 ## Attendance
 
 - **Attendance Rate**: 98.6%
-- **Meetings Attended**: 481 of 488
+- **Meetings Attended**: 484 of 491
 - **Meetings Missed**: 7
 - **Trend**: Declining v
 
@@ -80,20 +80,20 @@ prefillQuestions:
   - 2023: 100.0% (84/84 meetings)
   - 2024: 98.4% (62/63 meetings)
   - 2025: 96.3% (52/54 meetings)
-  - 2026: 86.7% (13/15 meetings)
+  - 2026: 88.9% (16/18 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
-- Peter Cuddy (97.7%)
+- Peter Cuddy (97.6%)
 - Steve Lehman (97.2%)
 - Steve Hillier (96.4%)
 
 **Least aligned with:**
 - Sam Trosow (82.5%)
-- David Ferreira (87.1%)
-- Susan Stevenson (88.4%)
+- David Ferreira (87.2%)
+- Susan Stevenson (88.3%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -102,9 +102,9 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 4,044 | 3,748 | 241 | 98.6% |
-| Strategic Priorities and Policy Committee | 2,084 | 1,510 | 136 | 79.0% |
-| Planning and Environment Committee | 2,022 | 1,902 | 36 | 95.8% |
+| Council | 4,074 | 3,761 | 243 | 98.3% |
+| Strategic Priorities and Policy Committee | 2,095 | 1,521 | 136 | 79.1% |
+| Planning and Environment Committee | 2,034 | 1,912 | 36 | 95.8% |
 | Community and Protective Services Committee | 374 | 356 | 11 | 98.1% |
 | Civic Works Committee | 196 | 188 | 3 | 97.4% |
 | Corporate Services Committee | 194 | 164 | 5 | 87.1% |
@@ -115,6 +115,30 @@ prefillQuestions:
 ## Notable Dissenting Votes
 
 *Recent split votes where Shawn Lewis voted against the final outcome:*
+
+### 2026-05-12: (2.5) Next Steps for the Provincial Cargo Power-Assisted Bicycle Pilot (Relates to Bill No. 195)
+
+[8th Meeting of Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=36196cde-4600-4e4f-8874-7125d4e3232b&Agenda=PostMinutes&lang=English)
+
+> That on the recommendation of the Deputy City Manager, Environment & Infrastructure, with respect to the City’s participation in the Province of Ontario’s Cargo Power-assisted Bicycle (cargo e-bike) p...
+
+Voted **Nay** - Motion Passed (13 to 2)
+
+### 2026-05-12: (2.6) Findings and Next Steps for Provincial Electric Kick-Scooter Pilot (Relates to Bill No.'s 192 and 196)
+
+[8th Meeting of Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=36196cde-4600-4e4f-8874-7125d4e3232b&Agenda=PostMinutes&lang=English)
+
+> That part b) BE APPROVED: b)    the proposed by-law, as appended to the staff report dated May 6, 2026 as Appendix "A", BE INTRODUCED at the Municipal Council meeting to be held on May 12, 2026 to est...
+
+Voted **Nay** - Motion Passed (11 to 4)
+
+### 2026-05-12: (3.3) 945 Bluegrass Drive - OZ-26019 (Relates to Bill No. 194 and 210)
+
+[8th Meeting of Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=36196cde-4600-4e4f-8874-7125d4e3232b&Agenda=PostMinutes&lang=English)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Bluegrass Long Term Care Centre – Division of “Meadow Park” (Lo...
+
+Voted **Yea** - Motion Failed (5 to 10)
 
 ### 2026-03-24: Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program - Report Back on Program Options
 
@@ -172,44 +196,23 @@ Voted **Nay** - Motion Passed (8 to 7)
 
 Voted **Nay** - Motion Passed (8 to 7)
 
-### 2026-02-10: (3.4) 767 Fanshawe Park Road East and 679 Dunboyne Crescent - Z-25151 (Relates to Bill No. 82)
-
-[3rd Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English)
-
-> that part b) of the motion BE AMENDED to include the following wording: Incorporate transom-style window treatments for all habitable units on the west side yard of the apartment building, designed wi...
-
-Voted **Nay** - Motion Passed (13 to 2)
-
-### 2026-02-10: (2.4) Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program
-
-[3rd Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English)
-
-> That part b) of the motion BE AMENDED by deleting the words “the term of the loan is extended from five years to ten years” and substituting “and be further revised to a loan term of five years,” it b...
-
-Voted **Yea** - Motion Failed (7 to 8)
-
-### 2026-01-26: Good Neighbour Agreements
-
-[2nd Meeting of the Community and Protective Services Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=1e80fd12-e2bc-4cc5-8474-ad872ed16738&Agenda=PostMinutes&lang=English)
-
-> That part a) of the motion BE AMENDED as follows: i)     the Civic Administration BE DIRECTED to provide a one year contract renewal for the procurement framework  with an option to renew for one year...
-
-Voted **Yea** - Motion Failed (2 to 4)
-
 
 ## Committees Served
 
-- [Planning and Environment Committee](/committees/planning-environment)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
-- [Corporate Services Committee](/committees/corporate-services)
+- [Planning and Environment Committee](/committees/planning-environment)
 - [City Council](/committees/city-council)
+- [Corporate Services Committee](/committees/corporate-services)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [Budget Committee](/committees/budget)
 - [Audit Committee](/committees/audit)
 - [Civic Works Committee](/committees/civic-works)
 
-## Recent Meetings (516 total)
+## Recent Meetings (519 total)
 
+- [7th Meeting of the Strategic Priorities and Policy Committee](</months/2026-05/2026-05-28 7th Meeting of the Strategic Priorities and Policy Committee>) - Thu May 28 2026
+- [The 8th Meeting of the Planning and Environment Committee](</months/2026-05/2026-05-26 The 8th Meeting of the Planning and Environment Committee>) - Tue May 26 2026
+- [8th Meeting of Council](</months/2026-05/2026-05-12 8th Meeting of Council>) - Tue May 12 2026
 - [The 7th Meeting of the Planning and Environment Committee](</months/2026-05/2026-05-05 The 7th Meeting of the Planning and Environment Committee>) - Tue May 5 2026
 - [5th Meeting of the Strategic Priorities and Policy Committee](</months/2026-03/2026-03-24 5th Meeting of the Strategic Priorities and Policy Committee>) - Tue Mar 24 2026
 - [6th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-03/2026-03-23 6th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Mar 23 2026
@@ -217,6 +220,3 @@ Voted **Yea** - Motion Failed (2 to 4)
 - [4th Council Meeting](</months/2026-03/2026-03-03 4th Council Meeting>) - Tue Mar 3 2026
 - [4th Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-24 4th Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 24 2026
 - [4th Meeting of the Planning and Environment Committee](</months/2026-02/2026-02-18 4th Meeting of the Planning and Environment Committee>) - Wed Feb 18 2026
-- [3rd Meeting of the Community and Protective Services Committee](</months/2026-02/2026-02-17 3rd Meeting of the Community and Protective Services Committee>) - Tue Feb 17 2026
-- [3rd Council Meeting](</months/2026-02/2026-02-10 3rd Council Meeting>) - Tue Feb 10 2026
-- [3rd Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-03 3rd Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 3 2026

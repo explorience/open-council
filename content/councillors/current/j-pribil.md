@@ -2,18 +2,18 @@
 title: "Jerry Pribil"
 type: councillor
 slug: "j-pribil"
-meetingCount: 233
+meetingCount: 236
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 3698
-votesYea: 3139
-votesNay: 307
+totalVotes: 3741
+votesYea: 3181
+votesNay: 308
 votesAbsent: 252
 attendanceRate: 97.1
-participationRate: 93.2
-yeaRate: 91.1
-contestedDissentRate: 12.5
-contestedVotes: 1447
+participationRate: 93.3
+yeaRate: 91.2
+contestedDissentRate: 12.4
+contestedVotes: 1460
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -30,10 +30,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 3,698 |
-| Voted Yea | 3,139 (84.9%) |
-| Voted Nay | 307 (8.3%) |
-| Absent | 252 (6.8%) |
+| Total Votes | 3,741 |
+| Voted Yea | 3,181 (85.0%) |
+| Voted Nay | 308 (8.2%) |
+| Absent | 252 (6.7%) |
 
 
 ### Substantive Votes
@@ -42,17 +42,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,370 |
-| Voted Yea | 1,872 (87.3%) |
-| Voted Nay | 272 (12.7%) |
+| Substantive Votes | 2,384 |
+| Voted Yea | 1,885 (87.3%) |
+| Voted Nay | 273 (12.7%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 12.5%
-- **Contested Votes**: 1,447
+- **Dissent Rate**: 12.4%
+- **Contested Votes**: 1,460
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -72,7 +72,7 @@ prefillQuestions:
 ## Attendance
 
 - **Attendance Rate**: 97.1%
-- **Meetings Attended**: 231 of 238
+- **Meetings Attended**: 234 of 241
 - **Meetings Missed**: 7
 - **Trend**: Stable -
 
@@ -80,20 +80,20 @@ prefillQuestions:
   - 2023: 100.0% (62/62 meetings)
   - 2024: 98.7% (78/79 meetings)
   - 2025: 92.0% (69/75 meetings)
-  - 2026: 100.0% (14/14 meetings)
+  - 2026: 100.0% (17/17 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
-- Steve Lehman (95.2%)
-- Peter Cuddy (94.8%)
-- Josh Morgan (94.7%)
+- Steve Lehman (95.3%)
+- Peter Cuddy (94.9%)
+- Josh Morgan (94.8%)
 
 **Least aligned with:**
-- Sam Trosow (85.6%)
-- David Ferreira (88.9%)
-- Susan Stevenson (89.0%)
+- Sam Trosow (85.7%)
+- Susan Stevenson (88.8%)
+- David Ferreira (89.0%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -102,9 +102,9 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 1,934 | 1,739 | 157 | 98.0% |
-| Strategic Priorities and Policy Committee | 1,004 | 747 | 56 | 80.0% |
-| Community and Protective Services Committee | 433 | 386 | 39 | 98.2% |
+| Council | 1,964 | 1,768 | 158 | 98.1% |
+| Strategic Priorities and Policy Committee | 1,015 | 758 | 56 | 80.2% |
+| Community and Protective Services Committee | 435 | 388 | 39 | 98.2% |
 | Budget Committee | 189 | 141 | 48 | 100.0% |
 | Infrastructure and Corporate Services Committee | 83 | 72 | 6 | 94.0% |
 | Civic Works Committee | 55 | 54 | 1 | 100.0% |
@@ -197,17 +197,20 @@ Voted **Nay** - Motion Passed (9 to 5)
 
 ## Committees Served
 
-- [Community and Protective Services Committee](/committees/community-protective-services)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
-- [Corporate Services Committee](/committees/corporate-services)
+- [Community and Protective Services Committee](/committees/community-protective-services)
 - [City Council](/committees/city-council)
+- [Corporate Services Committee](/committees/corporate-services)
 - [Audit Committee](/committees/audit)
 - [Budget Committee](/committees/budget)
 - [Civic Works Committee](/committees/civic-works)
 - [Community Protective Services Committee](/committees/community-protective-services-committee)
 
-## Recent Meetings (233 total)
+## Recent Meetings (236 total)
 
+- [7th Meeting of the Strategic Priorities and Policy Committee](</months/2026-05/2026-05-28 7th Meeting of the Strategic Priorities and Policy Committee>) - Thu May 28 2026
+- [8th Meeting of the Community and Protective Services Committee](</months/2026-05/2026-05-25 8th Meeting of the Community and Protective Services Committee>) - Mon May 25 2026
+- [8th Meeting of Council](</months/2026-05/2026-05-12 8th Meeting of Council>) - Tue May 12 2026
 - [7th Meeting of the Community and Protective Services Committee](</months/2026-05/2026-05-04 7th Meeting of the Community and Protective Services Committee>) - Mon May 4 2026
 - [6th Meeting of the Strategic Priorities and Policy Committee](</months/2026-04/2026-04-21 6th Meeting of the Strategic Priorities and Policy Committee>) - Tue Apr 21 2026
 - [6th Meeting of the Community and Protective Services Committee](</months/2026-04/2026-04-13 6th Meeting of the Community and Protective Services Committee>) - Mon Apr 13 2026
@@ -215,6 +218,3 @@ Voted **Nay** - Motion Passed (9 to 5)
 - [6th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-03/2026-03-23 6th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Mar 23 2026
 - [5th Special Meeting of the Community and Protective Services Committee](</months/2026-03/2026-03-13 5th Special Meeting of the Community and Protective Services Committee>) - Fri Mar 13 2026
 - [4th Meeting of the Community and Protective Services Committee](</months/2026-03/2026-03-09 4th Meeting of the Community and Protective Services Committee>) - Mon Mar 9 2026
-- [4th Council Meeting](</months/2026-03/2026-03-03 4th Council Meeting>) - Tue Mar 3 2026
-- [1st Meeting of the Audit Committee](</months/2026-02/2026-02-25 1st Meeting of the Audit Committee>) - Wed Feb 25 2026
-- [4th Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-24 4th Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 24 2026

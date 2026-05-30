@@ -2,18 +2,18 @@
 title: "Skylar Franke"
 type: councillor
 slug: "s-franke"
-meetingCount: 199
+meetingCount: 202
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 3870
-votesYea: 3235
-votesNay: 324
+totalVotes: 3922
+votesYea: 3286
+votesNay: 325
 votesAbsent: 311
-attendanceRate: 96.0
-participationRate: 92.0
-yeaRate: 90.9
-contestedDissentRate: 23.6
-contestedVotes: 1375
+attendanceRate: 96.1
+participationRate: 92.1
+yeaRate: 91.0
+contestedDissentRate: 23.3
+contestedVotes: 1393
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -30,10 +30,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 3,870 |
-| Voted Yea | 3,235 (83.6%) |
-| Voted Nay | 324 (8.4%) |
-| Absent | 311 (8.0%) |
+| Total Votes | 3,922 |
+| Voted Yea | 3,286 (83.8%) |
+| Voted Nay | 325 (8.3%) |
+| Absent | 311 (7.9%) |
 
 
 ### Substantive Votes
@@ -42,17 +42,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,258 |
-| Voted Yea | 1,737 (86.4%) |
-| Voted Nay | 273 (13.6%) |
+| Substantive Votes | 2,277 |
+| Voted Yea | 1,755 (86.5%) |
+| Voted Nay | 274 (13.5%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 23.6%
-- **Contested Votes**: 1,375
+- **Dissent Rate**: 23.3%
+- **Contested Votes**: 1,393
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -71,8 +71,8 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 96.0%
-- **Meetings Attended**: 192 of 200
+- **Attendance Rate**: 96.1%
+- **Meetings Attended**: 195 of 203
 - **Meetings Missed**: 8
 - **Trend**: Stable -
 
@@ -80,20 +80,20 @@ prefillQuestions:
   - 2023: 98.4% (60/61 meetings)
   - 2024: 97.0% (65/67 meetings)
   - 2025: 91.8% (45/49 meetings)
-  - 2026: 93.3% (14/15 meetings)
+  - 2026: 94.4% (17/18 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
-- Hadleigh McAlister (94.8%)
-- Anna Hopkins (94.6%)
-- David Ferreira (92.8%)
+- Hadleigh McAlister (94.9%)
+- Anna Hopkins (94.7%)
+- David Ferreira (93.0%)
 
 **Least aligned with:**
-- Susan Stevenson (81.5%)
-- Paul Van Meerbergen (84.5%)
-- Steve Hillier (89.1%)
+- Susan Stevenson (81.3%)
+- Paul Van Meerbergen (84.8%)
+- Steve Hillier (89.2%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -102,17 +102,25 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 1,933 | 1,682 | 173 | 96.0% |
-| Strategic Priorities and Policy Committee | 914 | 639 | 69 | 77.5% |
+| Council | 1,963 | 1,712 | 173 | 96.0% |
+| Strategic Priorities and Policy Committee | 925 | 650 | 69 | 77.7% |
 | Planning and Environment Committee | 632 | 600 | 22 | 98.4% |
 | Budget Committee | 189 | 142 | 47 | 100.0% |
-| Infrastructure and Corporate Services Committee | 147 | 121 | 13 | 91.2% |
+| Infrastructure and Corporate Services Committee | 158 | 131 | 14 | 91.8% |
 | Civic Works Committee | 55 | 51 | 0 | 92.7% |
 
 
 ## Notable Dissenting Votes
 
 *Recent split votes where Skylar Franke voted against the final outcome:*
+
+### 2026-05-12: (3.3) 945 Bluegrass Drive - OZ-26019 (Relates to Bill No. 194 and 210)
+
+[8th Meeting of Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=36196cde-4600-4e4f-8874-7125d4e3232b&Agenda=PostMinutes&lang=English)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Bluegrass Long Term Care Centre – Division of “Meadow Park” (Lo...
+
+Voted **Yea** - Motion Failed (5 to 10)
 
 ### 2026-04-21: Housing Accelerator Fund – 2026 Mid-Year Update
 
@@ -186,14 +194,6 @@ Voted **Nay** - Motion Passed (11 to 3)
 
 Voted **Nay** - Motion Passed (7 to 6)
 
-### 2026-03-03: By-laws
-
-[4th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
-
-> That Introduction and First Reading of Revised Bill No.124 and Added Bill No. 125, BE APPROVED.
-
-Voted **Nay** - Motion Passed (10 to 1)
-
 
 ## Committees Served
 
@@ -205,8 +205,11 @@ Voted **Nay** - Motion Passed (10 to 1)
 - [Budget Committee](/committees/budget)
 - [Civic Works Committee](/committees/civic-works)
 
-## Recent Meetings (199 total)
+## Recent Meetings (202 total)
 
+- [7th Meeting of the Strategic Priorities and Policy Committee](</months/2026-05/2026-05-28 7th Meeting of the Strategic Priorities and Policy Committee>) - Thu May 28 2026
+- [10th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-05/2026-05-27 10th Meeting of the Infrastructure and Corporate Services Committee>) - Wed May 27 2026
+- [8th Meeting of Council](</months/2026-05/2026-05-12 8th Meeting of Council>) - Tue May 12 2026
 - [6th Meeting of the Strategic Priorities and Policy Committee](</months/2026-04/2026-04-21 6th Meeting of the Strategic Priorities and Policy Committee>) - Tue Apr 21 2026
 - [7th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-04/2026-04-20 7th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Apr 20 2026
 - [5th Meeting of the Strategic Priorities and Policy Committee](</months/2026-03/2026-03-24 5th Meeting of the Strategic Priorities and Policy Committee>) - Tue Mar 24 2026
@@ -214,6 +217,3 @@ Voted **Nay** - Motion Passed (10 to 1)
 - [4th Council Meeting](</months/2026-03/2026-03-03 4th Council Meeting>) - Tue Mar 3 2026
 - [5th Special Meeting of the Infrastructure and Corporate Services Committee](</months/2026-03/2026-03-02 5th Special Meeting of the Infrastructure and Corporate Services Committee>) - Mon Mar 2 2026
 - [4th Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-24 4th Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 24 2026
-- [4th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-02/2026-02-23 4th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Feb 23 2026
-- [3rd Meeting of the Community and Protective Services Committee](</months/2026-02/2026-02-17 3rd Meeting of the Community and Protective Services Committee>) - Tue Feb 17 2026
-- [3rd Council Meeting](</months/2026-02/2026-02-10 3rd Council Meeting>) - Tue Feb 10 2026

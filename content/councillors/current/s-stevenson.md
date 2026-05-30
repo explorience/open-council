@@ -2,18 +2,18 @@
 title: "Susan Stevenson"
 type: councillor
 slug: "s-stevenson"
-meetingCount: 204
+meetingCount: 208
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 3670
-votesYea: 2637
-votesNay: 549
+totalVotes: 3734
+votesYea: 2686
+votesNay: 564
 votesAbsent: 484
-attendanceRate: 88.6
-participationRate: 86.8
-yeaRate: 82.8
-contestedDissentRate: 35.7
-contestedVotes: 1335
+attendanceRate: 88.8
+participationRate: 87.0
+yeaRate: 82.6
+contestedDissentRate: 36.3
+contestedVotes: 1353
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -30,10 +30,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 3,670 |
-| Voted Yea | 2,637 (71.9%) |
-| Voted Nay | 549 (15.0%) |
-| Absent | 484 (13.2%) |
+| Total Votes | 3,734 |
+| Voted Yea | 2,686 (71.9%) |
+| Voted Nay | 564 (15.1%) |
+| Absent | 484 (13.0%) |
 
 
 ### Substantive Votes
@@ -42,17 +42,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,247 |
-| Voted Yea | 1,544 (81.5%) |
-| Voted Nay | 351 (18.5%) |
+| Substantive Votes | 2,270 |
+| Voted Yea | 1,563 (81.5%) |
+| Voted Nay | 355 (18.5%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 35.7%
-- **Contested Votes**: 1,335
+- **Dissent Rate**: 36.3%
+- **Contested Votes**: 1,353
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -71,8 +71,8 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 88.6%
-- **Meetings Attended**: 195 of 220
+- **Attendance Rate**: 88.8%
+- **Meetings Attended**: 199 of 224
 - **Meetings Missed**: 25
 - **Trend**: Stable -
 
@@ -80,20 +80,20 @@ prefillQuestions:
   - 2023: 88.6% (70/79 meetings)
   - 2024: 89.4% (59/66 meetings)
   - 2025: 86.4% (38/44 meetings)
-  - 2026: 86.4% (19/22 meetings)
+  - 2026: 88.5% (23/26 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
-- Paul Van Meerbergen (89.6%)
-- Peter Cuddy (89.2%)
-- Jerry Pribil (89.0%)
+- Paul Van Meerbergen (89.3%)
+- Peter Cuddy (89.0%)
+- Jerry Pribil (88.8%)
 
 **Least aligned with:**
-- Sam Trosow (77.1%)
-- David Ferreira (78.5%)
-- Anna Hopkins (81.1%)
+- Sam Trosow (77.3%)
+- David Ferreira (78.4%)
+- Anna Hopkins (81.0%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -102,120 +102,124 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 1,941 | 1,399 | 379 | 91.6% |
-| Strategic Priorities and Policy Committee | 988 | 681 | 94 | 78.4% |
-| Planning and Environment Committee | 212 | 170 | 4 | 82.1% |
+| Council | 1,971 | 1,421 | 387 | 91.7% |
+| Strategic Priorities and Policy Committee | 999 | 688 | 98 | 78.7% |
+| Planning and Environment Committee | 224 | 182 | 4 | 83.0% |
 | Budget Committee | 189 | 137 | 45 | 96.3% |
 | Corporate Services Committee | 184 | 126 | 8 | 72.8% |
 | Community and Protective Services Committee | 92 | 78 | 7 | 92.4% |
-| Infrastructure and Corporate Services Committee | 64 | 46 | 12 | 90.6% |
+| Infrastructure and Corporate Services Committee | 75 | 54 | 15 | 92.0% |
 
 
 ## Notable Dissenting Votes
 
 *Recent split votes where Susan Stevenson voted against the final outcome:*
 
-### 2026-05-05: 945 Bluegrass Drive - OZ-26019
+### 2026-05-28: Strategic Plan Implementation Update: Mid-Year 2026
 
-[The 7th Meeting of the Planning and Environment Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=9e867ca5-1f00-4f56-a35c-30252605ddb9&Agenda=PostMinutes&lang=English)
+[7th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=d6d163e4-49ea-4151-8247-514f3547158a&Agenda=PostMinutes&lang=English)
 
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Bluegrass Long Term Care Centre – Division of “Meadow Park” (Lo...
+> That, on the recommendation of the City Manager, the report including the 2026 Mid-Year Strategic Plan Implementation Update, as appended to the staff report dated May 28, 2026, BE RECEIVED for inform...
 
-Voted **Nay** - Motion Passed (3 to 2)
+Voted **Nay** - Motion Passed (12 to 1)
 
-### 2026-04-21: London Transit Rapid Transit Operational Readiness Review
+### 2026-05-28: Review of RFPQ 2025-056 Redevelopment of City Hall Campus Procurement and Related Information
 
-[6th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b5334fb8-e3e2-4e5b-b0c6-9e30a6392c59&Agenda=PostMinutes&lang=English)
+[7th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=d6d163e4-49ea-4151-8247-514f3547158a&Agenda=PostMinutes&lang=English)
 
-> That part b) BE APPROVED and reads as follows: b) the London Transit Commission BE DIRECTED to review the following opportunities and report back to Council on implementation, including timing, operat...
+> That, on the recommendation of the Deputy City Manager, Finance Supports, the report dated May 28, 2026, titled “Review of RFPQ 2025-056 – Redevelopment of City Hall Campus Procurement and Related Inf...
 
-Voted **Nay** - Motion Passed (11 to 2)
+Voted **Nay** - Motion Passed (10 to 1)
 
-### 2026-04-20: 2025 Year-End Operating Budget Monitoring Report
+### 2026-05-28: Delegation - Paul Chisholm, Chief Executive Officer and Phil Squire, Board Chair, London & Middlesex Community Housing - LMCH Master Regeneration Plan
 
-[7th Meeting of the Infrastructure and Corporate Services Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=37b21bb0-d952-4107-8eb0-8e2ecddfc877&Agenda=PostMinutes&lang=English)
+[7th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=d6d163e4-49ea-4151-8247-514f3547158a&Agenda=PostMinutes&lang=English)
 
-> That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to the 2025 Year-End Operating Budget Monitoring Report: a)   the 2025 Operating B...
+> That the London & Middlesex Community Housing's 15-Year Regeneration Plan BE RECEIVED; it being noted that the Strategic Priorities and Policy Committee received a presentation from P. Chisholm, Chief...
 
-Voted **Nay** - Motion Passed (5 to 1)
+Voted **Nay** - Motion Passed (13 to 2)
 
-### 2026-04-14: Councillor S. Franke - Tenant Assistance and Relocation Program 
+### 2026-05-28: Review of the London & Middlesex Community Housing Master Regeneration Plan
 
-[The 6th Meeting of the Planning and Environment Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=af274368-f7ca-49b6-8d4f-aeba8a207974&Agenda=PostMinutes&lang=English)
+[7th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=d6d163e4-49ea-4151-8247-514f3547158a&Agenda=PostMinutes&lang=English)
 
-> That the Civic Administration BE DIRECTED to explore and report back on the feasibility of establishing a Tenant Assistance and Relocation Program for the City of London by end of Q1 2027; it being no...
+> That, on the recommendation of the Deputy City Manager, Finance Supports and the Deputy City Manager, Housing and Community Growth, the report on the London and Middlesex Community Housing Master Rege...
 
-Voted **Nay** - Motion Passed (2 to 1)
+Voted **Nay** - Motion Passed (13 to 2)
 
-### 2026-03-24: Draft Economic Development Strategy (2026-2030) and Implementation Plan
+### 2026-05-27: 2026 Reserve and Reserve Fund Monitoring and Housekeeping Report
 
-[5th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=5b8ccf34-419e-4480-af6f-4160e9259405&Agenda=PostMinutes&lang=English)
+[10th Meeting of the Infrastructure and Corporate Services Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=26f90392-e7cf-407f-911a-be41af35676c&Agenda=PostMinutes&lang=English)
 
-> That, on the recommendation of the City Manager, the City of London Draft Economic Development Strategy (2026-2030) and Implementation Plan, as appended to the staff report dated March 24, 2026 as App...
+> That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken:
 
-Voted **Nay** - Motion Passed (12 to 2)
 
-### 2026-03-24: Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program - Report Back on Program Options
 
-[5th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=5b8ccf34-419e-4480-af6f-4160e9259405&Agenda=PostMinutes&lang=English)
+a)    the 2026 Reserve and Reserve Fund Monitoring and Housekeeping Report BE RECEIVED for ...
 
-> That the motion BE AMENDED to have the report back to the Strategic Priorities and Policy Committee.
+Voted **Nay** - Motion Passed (4 to 1)
 
-Voted **Nay** - Motion Passed (10 to 4)
+### 2026-05-27: Bi-Annual Procurement Report and Update
 
-### 2026-03-23: Revised Respectful Workplace Policy (Anti-Harassment/Anti-Discrimination) 
+[10th Meeting of the Infrastructure and Corporate Services Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=26f90392-e7cf-407f-911a-be41af35676c&Agenda=PostMinutes&lang=English)
 
-[6th Meeting of the Infrastructure and Corporate Services Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=e9890bd1-3ebf-47fa-8198-25a144b6365d&Agenda=PostMinutes&lang=English)
+> That, on the recommendation of the Deputy City Manager, Finance Supports, the first Bi-Annual Procurement Report, prepared in accordance with Section 35 – Reporting Requirements of the Procurement of ...
 
-> That, on the recommendation of the Deputy City Manager, Enterprise Supports, and with the concurrence of the City Manager, the following actions be taken with respect to the Respectful Workplace Polic...
+Voted **Nay** - Motion Passed (4 to 1)
 
-Voted **Nay** - Motion Passed (5 to 1)
+### 2026-05-27: Standing Committee Meetings and Annual Meeting Calendar
 
-### 2026-03-23: Final Program Design for BetterHomes London 
+[10th Meeting of the Infrastructure and Corporate Services Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=26f90392-e7cf-407f-911a-be41af35676c&Agenda=PostMinutes&lang=English)
 
-[6th Meeting of the Infrastructure and Corporate Services Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=e9890bd1-3ebf-47fa-8198-25a144b6365d&Agenda=PostMinutes&lang=English)
+> That, on the recommendation of the City Clerk, the annual meeting calendar for the period January 1, 2027 to December 31, 2027, as appended to the staff report dated May 27, 2026 as Appendix “A”, BE A...
 
-> That on the recommendation of the Deputy City Manager, Environment & Infrastructure, the following actions be taken; a)    the proposed by-law, as appended to the staff report dated March 23, 2026 as ...
+Voted **Nay** - Motion Passed (4 to 1)
 
-Voted **Nay** - Motion Passed (5 to 1)
+### 2026-05-27: Standing Committee Meetings and Annual Meeting Calendar
 
-### 2026-03-23: Meadowlily Environmental Assessment – Notice of Completion
+[10th Meeting of the Infrastructure and Corporate Services Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=26f90392-e7cf-407f-911a-be41af35676c&Agenda=PostMinutes&lang=English)
 
-[6th Meeting of the Infrastructure and Corporate Services Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=e9890bd1-3ebf-47fa-8198-25a144b6365d&Agenda=PostMinutes&lang=English)
+> That the motion BE AMENDED to add a new part that reads as follows: The Civic Administration BE DIRECTED to bring forward a by-law amendment to By-law No. A.-61, being the Council Procedure By-law, to...
 
-> That the delegation request from J. Ross, Director, Project Manager, Development Engineering (London) Limited BE APPROVED to be heard at this time.
+Voted **Yea** - Motion Failed (1 to 4)
 
-Voted **Nay** - Motion Passed (5 to 1)
+### 2026-05-12: (2.5) Next Steps for the Provincial Cargo Power-Assisted Bicycle Pilot (Relates to Bill No. 195)
 
-### 2026-03-23: Smart Commute London: Additional Details and Memorandum of Understanding (MOU) Extension
+[8th Meeting of Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=36196cde-4600-4e4f-8874-7125d4e3232b&Agenda=PostMinutes&lang=English)
 
-[6th Meeting of the Infrastructure and Corporate Services Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=e9890bd1-3ebf-47fa-8198-25a144b6365d&Agenda=PostMinutes&lang=English)
+> That on the recommendation of the Deputy City Manager, Environment & Infrastructure, with respect to the City’s participation in the Province of Ontario’s Cargo Power-assisted Bicycle (cargo e-bike) p...
 
-> That part b) BE AMENDED to read as follows: b)    the Deputy City Manager of Environment and Infrastructure BE AUTHORIZED to approve and execute the upcoming Smart Commute Memorandum of Understanding ...
+Voted **Nay** - Motion Passed (13 to 2)
 
-Voted **Yea** - Motion Failed (3 to 3)
+### 2026-05-12: (2.6) Findings and Next Steps for Provincial Electric Kick-Scooter Pilot (Relates to Bill No.'s 192 and 196)
+
+[8th Meeting of Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=36196cde-4600-4e4f-8874-7125d4e3232b&Agenda=PostMinutes&lang=English)
+
+> That part b) BE APPROVED: b)    the proposed by-law, as appended to the staff report dated May 6, 2026 as Appendix "A", BE INTRODUCED at the Municipal Council meeting to be held on May 12, 2026 to est...
+
+Voted **Nay** - Motion Passed (11 to 4)
 
 
 ## Committees Served
 
-- [Planning and Environment Committee](/committees/planning-environment)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Corporate Services Committee](/committees/corporate-services)
+- [Planning and Environment Committee](/committees/planning-environment)
 - [City Council](/committees/city-council)
 - [Audit Committee](/committees/audit)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [Budget Committee](/committees/budget)
 - [Community Protective Services Committee](/committees/community-protective-services-committee)
 
-## Recent Meetings (204 total)
+## Recent Meetings (208 total)
 
+- [7th Meeting of the Strategic Priorities and Policy Committee](</months/2026-05/2026-05-28 7th Meeting of the Strategic Priorities and Policy Committee>) - Thu May 28 2026
+- [10th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-05/2026-05-27 10th Meeting of the Infrastructure and Corporate Services Committee>) - Wed May 27 2026
+- [The 8th Meeting of the Planning and Environment Committee](</months/2026-05/2026-05-26 The 8th Meeting of the Planning and Environment Committee>) - Tue May 26 2026
+- [8th Meeting of Council](</months/2026-05/2026-05-12 8th Meeting of Council>) - Tue May 12 2026
 - [The 7th Meeting of the Planning and Environment Committee](</months/2026-05/2026-05-05 The 7th Meeting of the Planning and Environment Committee>) - Tue May 5 2026
 - [6th Meeting of the Strategic Priorities and Policy Committee](</months/2026-04/2026-04-21 6th Meeting of the Strategic Priorities and Policy Committee>) - Tue Apr 21 2026
 - [7th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-04/2026-04-20 7th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Apr 20 2026
 - [The 6th Meeting of the Planning and Environment Committee](</months/2026-04/2026-04-14 The 6th Meeting of the Planning and Environment Committee>) - Tue Apr 14 2026
 - [5th Meeting of the Strategic Priorities and Policy Committee](</months/2026-03/2026-03-24 5th Meeting of the Strategic Priorities and Policy Committee>) - Tue Mar 24 2026
 - [6th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-03/2026-03-23 6th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Mar 23 2026
-- [5th Meeting of the Planning and Environment Committee](</months/2026-03/2026-03-10 5th Meeting of the Planning and Environment Committee>) - Tue Mar 10 2026
-- [4th Council Meeting](</months/2026-03/2026-03-03 4th Council Meeting>) - Tue Mar 3 2026
-- [1st Meeting of the Audit Committee](</months/2026-02/2026-02-25 1st Meeting of the Audit Committee>) - Wed Feb 25 2026
-- [4th Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-24 4th Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 24 2026

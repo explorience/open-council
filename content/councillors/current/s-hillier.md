@@ -2,18 +2,18 @@
 title: "Steve Hillier"
 type: councillor
 slug: "s-hillier"
-meetingCount: 472
+meetingCount: 475
 yearsActive: "2018 - 2026"
 isCurrent: true
-totalVotes: 7872
-votesYea: 6764
-votesNay: 480
+totalVotes: 7925
+votesYea: 6811
+votesNay: 486
 votesAbsent: 628
 attendanceRate: 93.4
-participationRate: 92.0
-yeaRate: 93.4
-contestedDissentRate: 15.0
-contestedVotes: 2067
+participationRate: 92.1
+yeaRate: 93.3
+contestedDissentRate: 15.2
+contestedVotes: 2080
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -30,10 +30,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 7,872 |
-| Voted Yea | 6,764 (85.9%) |
-| Voted Nay | 480 (6.1%) |
-| Absent | 628 (8.0%) |
+| Total Votes | 7,925 |
+| Voted Yea | 6,811 (85.9%) |
+| Voted Nay | 486 (6.1%) |
+| Absent | 628 (7.9%) |
 
 
 ### Substantive Votes
@@ -42,17 +42,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 4,439 |
-| Voted Yea | 3,541 (89.4%) |
-| Voted Nay | 421 (10.6%) |
+| Substantive Votes | 4,456 |
+| Voted Yea | 3,556 (89.4%) |
+| Voted Nay | 423 (10.6%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 15.0%
-- **Contested Votes**: 2,067
+- **Dissent Rate**: 15.2%
+- **Contested Votes**: 2,080
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -72,7 +72,7 @@ prefillQuestions:
 ## Attendance
 
 - **Attendance Rate**: 93.4%
-- **Meetings Attended**: 425 of 455
+- **Meetings Attended**: 428 of 458
 - **Meetings Missed**: 30
 - **Trend**: Declining v
 
@@ -80,20 +80,20 @@ prefillQuestions:
   - 2023: 86.7% (52/60 meetings)
   - 2024: 95.2% (60/63 meetings)
   - 2025: 96.3% (52/54 meetings)
-  - 2026: 84.6% (11/13 meetings)
+  - 2026: 87.5% (14/16 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
-- Shawn Lewis (96.4%)
 - Steve Lehman (96.4%)
-- Peter Cuddy (95.3%)
+- Shawn Lewis (96.4%)
+- Peter Cuddy (95.4%)
 
 **Least aligned with:**
-- Sam Trosow (81.0%)
-- David Ferreira (85.2%)
-- Anna Hopkins (88.2%)
+- Sam Trosow (81.2%)
+- David Ferreira (85.4%)
+- Susan Stevenson (88.3%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -102,9 +102,9 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 3,731 | 3,312 | 252 | 95.5% |
-| Planning and Environment Committee | 1,835 | 1,724 | 38 | 96.0% |
-| Strategic Priorities and Policy Committee | 1,738 | 1,241 | 125 | 78.6% |
+| Council | 3,761 | 3,336 | 258 | 95.6% |
+| Planning and Environment Committee | 1,847 | 1,736 | 38 | 96.0% |
+| Strategic Priorities and Policy Committee | 1,749 | 1,252 | 125 | 78.7% |
 | Community and Protective Services Committee | 328 | 314 | 1 | 96.0% |
 | Budget Committee | 189 | 125 | 64 | 100.0% |
 | Corporate Services Committee | 51 | 48 | 0 | 94.1% |
@@ -113,6 +113,46 @@ prefillQuestions:
 ## Notable Dissenting Votes
 
 *Recent split votes where Steve Hillier voted against the final outcome:*
+
+### 2026-05-12: (2.6) Findings and Next Steps for Provincial Electric Kick-Scooter Pilot (Relates to Bill No.'s 192 and 196)
+
+[8th Meeting of Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=36196cde-4600-4e4f-8874-7125d4e3232b&Agenda=PostMinutes&lang=English)
+
+> That part b) BE APPROVED: b)    the proposed by-law, as appended to the staff report dated May 6, 2026 as Appendix "A", BE INTRODUCED at the Municipal Council meeting to be held on May 12, 2026 to est...
+
+Voted **Nay** - Motion Passed (11 to 4)
+
+### 2026-05-12: By-laws
+
+[8th Meeting of Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=36196cde-4600-4e4f-8874-7125d4e3232b&Agenda=PostMinutes&lang=English)
+
+> That Introduction and First Reading of Bill No. 195 and 196 BE APPROVED.
+
+Voted **Nay** - Motion Passed (12 to 2)
+
+### 2026-05-12: By-laws
+
+[8th Meeting of Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=36196cde-4600-4e4f-8874-7125d4e3232b&Agenda=PostMinutes&lang=English)
+
+> That Second Reading of Bill No. 195 and 196 BE APPROVED.
+
+Voted **Nay** - Motion Passed (11 to 3)
+
+### 2026-05-12: By-laws
+
+[8th Meeting of Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=36196cde-4600-4e4f-8874-7125d4e3232b&Agenda=PostMinutes&lang=English)
+
+> That Third Reading and Enactment of Bill No. 195 BE APPROVED.
+
+Voted **Nay** - Motion Passed (12 to 2)
+
+### 2026-05-12: By-laws
+
+[8th Meeting of Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=36196cde-4600-4e4f-8874-7125d4e3232b&Agenda=PostMinutes&lang=English)
+
+> That Third Reading and Enactment of Bill No. 196 BE APPROVED.
+
+Voted **Nay** - Motion Passed (11 to 3)
 
 ### 2026-03-03: (4.1) Request for Reimbursement for Private Property Cleaning and Graffiti Removal Services
 
@@ -154,59 +194,22 @@ Voted **Yea** - Motion Failed (7 to 8)
 
 Voted **Nay** - Motion Passed (8 to 7)
 
-### 2026-02-10: (2.4) Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program
-
-[3rd Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English)
-
-> That part b) of the motion BE AMENDED by deleting the words “the term of the loan is extended from five years to ten years” and substituting “and be further revised to a loan term of five years,” it b...
-
-Voted **Yea** - Motion Failed (7 to 8)
-
-### 2026-02-10: By-laws
-
-[3rd Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English)
-
-> That Introduction and First Reading of Revised Bill No. 82, BE APPROVED.
-
-Voted **Nay** - Motion Passed (13 to 2)
-
-### 2026-02-10: By-laws
-
-[3rd Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English)
-
-> That Second Reading of Revised Bill No. 82, BE APPROVED.
-
-Voted **Nay** - Motion Passed (13 to 2)
-
-### 2026-02-10: By-laws
-
-[3rd Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English)
-
-> That Third Reading and Enactment of Revised Bill No. 82, BE APPROVED.
-
-Voted **Nay** - Motion Passed (13 to 2)
-
-### 2026-01-27: 767 Fanshawe Park Road East and 679 Dunboyne Crescent - Z-25151
-
-[3rd Meeting of the Planning and Environment Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=556b24da-acd2-47ff-80b3-c913bbbea2ba&Agenda=PostMinutes&lang=English)
-
-> Notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Northbound Development Corporation relating to the prope...
-
-Voted **Nay** - Motion Passed (3 to 1)
-
 
 ## Committees Served
 
-- [Planning and Environment Committee](/committees/planning-environment)
-- [Community and Protective Services Committee](/committees/community-protective-services)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
+- [Planning and Environment Committee](/committees/planning-environment)
 - [City Council](/committees/city-council)
+- [Community and Protective Services Committee](/committees/community-protective-services)
 - [Corporate Services Committee](/committees/corporate-services)
 - [Budget Committee](/committees/budget)
 - [Civic Works Committee](/committees/civic-works)
 
-## Recent Meetings (472 total)
+## Recent Meetings (475 total)
 
+- [7th Meeting of the Strategic Priorities and Policy Committee](</months/2026-05/2026-05-28 7th Meeting of the Strategic Priorities and Policy Committee>) - Thu May 28 2026
+- [The 8th Meeting of the Planning and Environment Committee](</months/2026-05/2026-05-26 The 8th Meeting of the Planning and Environment Committee>) - Tue May 26 2026
+- [8th Meeting of Council](</months/2026-05/2026-05-12 8th Meeting of Council>) - Tue May 12 2026
 - [The 7th Meeting of the Planning and Environment Committee](</months/2026-05/2026-05-05 The 7th Meeting of the Planning and Environment Committee>) - Tue May 5 2026
 - [7th Meeting of the Community and Protective Services Committee](</months/2026-05/2026-05-04 7th Meeting of the Community and Protective Services Committee>) - Mon May 4 2026
 - [6th Meeting of the Strategic Priorities and Policy Committee](</months/2026-04/2026-04-21 6th Meeting of the Strategic Priorities and Policy Committee>) - Tue Apr 21 2026
@@ -214,6 +217,3 @@ Voted **Nay** - Motion Passed (3 to 1)
 - [5th Meeting of the Planning and Environment Committee](</months/2026-03/2026-03-10 5th Meeting of the Planning and Environment Committee>) - Tue Mar 10 2026
 - [4th Council Meeting](</months/2026-03/2026-03-03 4th Council Meeting>) - Tue Mar 3 2026
 - [4th Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-24 4th Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 24 2026
-- [4th Meeting of the Planning and Environment Committee](</months/2026-02/2026-02-18 4th Meeting of the Planning and Environment Committee>) - Wed Feb 18 2026
-- [3rd Meeting of the Community and Protective Services Committee](</months/2026-02/2026-02-17 3rd Meeting of the Community and Protective Services Committee>) - Tue Feb 17 2026
-- [3rd Council Meeting](</months/2026-02/2026-02-10 3rd Council Meeting>) - Tue Feb 10 2026

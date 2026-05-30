@@ -2,18 +2,18 @@
 title: "Anna Hopkins"
 type: councillor
 slug: "a-hopkins"
-meetingCount: 654
+meetingCount: 657
 yearsActive: "2014 - 2026"
 isCurrent: true
-totalVotes: 9667
-votesYea: 8371
+totalVotes: 9710
+votesYea: 8413
 votesNay: 715
-votesAbsent: 581
+votesAbsent: 582
 attendanceRate: 96.7
 participationRate: 94.0
-yeaRate: 92.1
+yeaRate: 92.2
 contestedDissentRate: 12.9
-contestedVotes: 4943
+contestedVotes: 4955
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -30,10 +30,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 9,667 |
-| Voted Yea | 8,371 (86.6%) |
+| Total Votes | 9,710 |
+| Voted Yea | 8,413 (86.6%) |
 | Voted Nay | 715 (7.4%) |
-| Absent | 581 (6.0%) |
+| Absent | 582 (6.0%) |
 
 
 ### Substantive Votes
@@ -42,8 +42,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 6,995 |
-| Voted Yea | 5,917 (90.9%) |
+| Substantive Votes | 7,009 |
+| Voted Yea | 5,931 (90.9%) |
 | Voted Nay | 594 (9.1%) |
 
 
@@ -52,7 +52,7 @@ prefillQuestions:
 *Only counts non-unanimous votes where the councillor participated*
 
 - **Dissent Rate**: 12.9%
-- **Contested Votes**: 4,943
+- **Contested Votes**: 4,955
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -72,7 +72,7 @@ prefillQuestions:
 ## Attendance
 
 - **Attendance Rate**: 96.7%
-- **Meetings Attended**: 707 of 731
+- **Meetings Attended**: 710 of 734
 - **Meetings Missed**: 24
 - **Trend**: Stable -
 
@@ -80,20 +80,20 @@ prefillQuestions:
   - 2023: 91.7% (55/60 meetings)
   - 2024: 98.4% (60/61 meetings)
   - 2025: 96.4% (53/55 meetings)
-  - 2026: 92.3% (12/13 meetings)
+  - 2026: 93.8% (15/16 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
-- Skylar Franke (94.6%)
-- Hadleigh McAlister (93.6%)
+- Skylar Franke (94.7%)
+- Hadleigh McAlister (93.7%)
 - Josh Morgan (93.6%)
 
 **Least aligned with:**
-- Susan Stevenson (81.1%)
-- Paul Van Meerbergen (85.9%)
-- Peter Cuddy (88.1%)
+- Susan Stevenson (81.0%)
+- Paul Van Meerbergen (86.0%)
+- Peter Cuddy (88.2%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -102,19 +102,27 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 4,277 | 3,793 | 400 | 98.0% |
-| Strategic Priorities and Policy Committee | 2,717 | 2,046 | 208 | 83.0% |
+| Council | 4,307 | 3,823 | 400 | 98.0% |
+| Strategic Priorities and Policy Committee | 2,728 | 2,056 | 208 | 83.0% |
 | Planning and Environment Committee | 1,830 | 1,773 | 39 | 99.0% |
 | Civic Works Committee | 318 | 313 | 5 | 100.0% |
 | Budget Committee | 189 | 138 | 49 | 98.9% |
 | Corporate Services Committee | 174 | 169 | 2 | 98.3% |
 | Infrastructure and Corporate Services Committee | 83 | 76 | 5 | 97.6% |
-| Community and Protective Services Committee | 79 | 63 | 7 | 88.6% |
+| Community and Protective Services Committee | 81 | 65 | 7 | 88.9% |
 
 
 ## Notable Dissenting Votes
 
 *Recent split votes where Anna Hopkins voted against the final outcome:*
+
+### 2026-05-12: (3.3) 945 Bluegrass Drive - OZ-26019 (Relates to Bill No. 194 and 210)
+
+[8th Meeting of Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=36196cde-4600-4e4f-8874-7125d4e3232b&Agenda=PostMinutes&lang=English)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Bluegrass Long Term Care Centre – Division of “Meadow Park” (Lo...
+
+Voted **Yea** - Motion Failed (5 to 10)
 
 ### 2026-03-09: Short Term Accommodation Licensing and Penalties
 
@@ -188,19 +196,11 @@ Voted **Yea** - Motion Failed (5 to 8)
 
 Voted **Nay** - Motion Passed (10 to 3)
 
-### 2026-03-03: By-laws
-
-[4th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
-
-> That Introduction and First Reading of Bill No.’s 105 and 123, BE APPROVED.
-
-Voted **Nay** - Motion Passed (8 to 3)
-
 
 ## Committees Served
 
-- [Community and Protective Services Committee](/committees/community-protective-services)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
+- [Community and Protective Services Committee](/committees/community-protective-services)
 - [City Council](/committees/city-council)
 - [Budget Committee](/committees/budget)
 - [Corporate Services Committee](/committees/corporate-services)
@@ -208,8 +208,11 @@ Voted **Nay** - Motion Passed (8 to 3)
 - [Planning and Environment Committee](/committees/planning-environment)
 - [Audit Committee](/committees/audit)
 
-## Recent Meetings (654 total)
+## Recent Meetings (657 total)
 
+- [7th Meeting of the Strategic Priorities and Policy Committee](</months/2026-05/2026-05-28 7th Meeting of the Strategic Priorities and Policy Committee>) - Thu May 28 2026
+- [8th Meeting of the Community and Protective Services Committee](</months/2026-05/2026-05-25 8th Meeting of the Community and Protective Services Committee>) - Mon May 25 2026
+- [8th Meeting of Council](</months/2026-05/2026-05-12 8th Meeting of Council>) - Tue May 12 2026
 - [7th Meeting of the Community and Protective Services Committee](</months/2026-05/2026-05-04 7th Meeting of the Community and Protective Services Committee>) - Mon May 4 2026
 - [6th Meeting of the Community and Protective Services Committee](</months/2026-04/2026-04-13 6th Meeting of the Community and Protective Services Committee>) - Mon Apr 13 2026
 - [5th Meeting of the Strategic Priorities and Policy Committee](</months/2026-03/2026-03-24 5th Meeting of the Strategic Priorities and Policy Committee>) - Tue Mar 24 2026
@@ -217,6 +220,3 @@ Voted **Nay** - Motion Passed (8 to 3)
 - [4th Meeting of the Community and Protective Services Committee](</months/2026-03/2026-03-09 4th Meeting of the Community and Protective Services Committee>) - Mon Mar 9 2026
 - [4th Council Meeting](</months/2026-03/2026-03-03 4th Council Meeting>) - Tue Mar 3 2026
 - [4th Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-24 4th Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 24 2026
-- [3rd Meeting of the Community and Protective Services Committee](</months/2026-02/2026-02-17 3rd Meeting of the Community and Protective Services Committee>) - Tue Feb 17 2026
-- [3rd Council Meeting](</months/2026-02/2026-02-10 3rd Council Meeting>) - Tue Feb 10 2026
-- [3rd Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-03 3rd Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 3 2026

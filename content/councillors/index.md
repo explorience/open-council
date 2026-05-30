@@ -9,21 +9,21 @@ Browse London City Council members by their meeting attendance and voting record
 
 ## Current Council (2022-2026)
 
-- [Josh Morgan](/councillors/current/j-morgan) - 673 meetings
-- [Anna Hopkins](/councillors/current/a-hopkins) - 654 meetings
-- [Paul Van Meerbergen](/councillors/current/p-van-meerbergen) - 517 meetings
-- [Shawn Lewis](/councillors/current/s-lewis) - 516 meetings
-- [Steve Hillier](/councillors/current/s-hillier) - 472 meetings
-- [Elizabeth Peloza](/councillors/current/e-peloza) - 470 meetings
-- [Steve Lehman](/councillors/current/s-lehman) - 402 meetings
-- [Corrine Rahman](/councillors/current/c-rahman) - 237 meetings
-- [Jerry Pribil](/councillors/current/j-pribil) - 233 meetings
-- [David Ferreira](/councillors/current/d-ferreira) - 227 meetings
-- [Sam Trosow](/councillors/current/s-trosow) - 226 meetings
-- [Peter Cuddy](/councillors/current/p-cuddy) - 222 meetings
-- [Hadleigh McAlister](/councillors/current/h-mcalister) - 222 meetings
-- [Susan Stevenson](/councillors/current/s-stevenson) - 204 meetings
-- [Skylar Franke](/councillors/current/s-franke) - 199 meetings
+- [Josh Morgan](/councillors/current/j-morgan) - 676 meetings
+- [Anna Hopkins](/councillors/current/a-hopkins) - 657 meetings
+- [Paul Van Meerbergen](/councillors/current/p-van-meerbergen) - 520 meetings
+- [Shawn Lewis](/councillors/current/s-lewis) - 519 meetings
+- [Steve Hillier](/councillors/current/s-hillier) - 475 meetings
+- [Elizabeth Peloza](/councillors/current/e-peloza) - 473 meetings
+- [Steve Lehman](/councillors/current/s-lehman) - 405 meetings
+- [Corrine Rahman](/councillors/current/c-rahman) - 240 meetings
+- [Jerry Pribil](/councillors/current/j-pribil) - 236 meetings
+- [David Ferreira](/councillors/current/d-ferreira) - 231 meetings
+- [Sam Trosow](/councillors/current/s-trosow) - 229 meetings
+- [Hadleigh McAlister](/councillors/current/h-mcalister) - 225 meetings
+- [Peter Cuddy](/councillors/current/p-cuddy) - 225 meetings
+- [Susan Stevenson](/councillors/current/s-stevenson) - 208 meetings
+- [Skylar Franke](/councillors/current/s-franke) - 202 meetings
 
 ## Former Councillors
 

@@ -2,18 +2,18 @@
 title: "Steve Lehman"
 type: councillor
 slug: "s-lehman"
-meetingCount: 402
+meetingCount: 405
 yearsActive: "2018 - 2026"
 isCurrent: true
-totalVotes: 7611
-votesYea: 6555
-votesNay: 413
-votesAbsent: 643
-attendanceRate: 96.3
+totalVotes: 7664
+votesYea: 6606
+votesNay: 414
+votesAbsent: 644
+attendanceRate: 96.4
 participationRate: 91.6
 yeaRate: 94.1
 contestedDissentRate: 10.1
-contestedVotes: 2174
+contestedVotes: 2187
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -30,10 +30,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 7,611 |
-| Voted Yea | 6,555 (86.1%) |
-| Voted Nay | 413 (5.4%) |
-| Absent | 643 (8.4%) |
+| Total Votes | 7,664 |
+| Voted Yea | 6,606 (86.2%) |
+| Voted Nay | 414 (5.4%) |
+| Absent | 644 (8.4%) |
 
 
 ### Substantive Votes
@@ -42,9 +42,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 4,460 |
-| Voted Yea | 3,580 (90.4%) |
-| Voted Nay | 380 (9.6%) |
+| Substantive Votes | 4,477 |
+| Voted Yea | 3,595 (90.4%) |
+| Voted Nay | 381 (9.6%) |
 
 
 ### Dissent on Contested Votes
@@ -52,7 +52,7 @@ prefillQuestions:
 *Only counts non-unanimous votes where the councillor participated*
 
 - **Dissent Rate**: 10.1%
-- **Contested Votes**: 2,174
+- **Contested Votes**: 2,187
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -71,8 +71,8 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 96.3%
-- **Meetings Attended**: 394 of 409
+- **Attendance Rate**: 96.4%
+- **Meetings Attended**: 397 of 412
 - **Meetings Missed**: 15
 - **Trend**: Stable -
 
@@ -80,7 +80,7 @@ prefillQuestions:
   - 2023: 96.7% (58/60 meetings)
   - 2024: 90.5% (57/63 meetings)
   - 2025: 96.3% (52/54 meetings)
-  - 2026: 92.3% (12/13 meetings)
+  - 2026: 93.8% (15/16 meetings)
 
 
 ## Voting Alignment
@@ -91,9 +91,9 @@ prefillQuestions:
 - Steve Hillier (96.4%)
 
 **Least aligned with:**
-- Sam Trosow (83.5%)
-- David Ferreira (86.6%)
-- Susan Stevenson (88.7%)
+- Sam Trosow (83.6%)
+- David Ferreira (86.7%)
+- Susan Stevenson (88.5%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -102,9 +102,9 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 3,882 | 3,572 | 215 | 97.6% |
-| Strategic Priorities and Policy Committee | 1,966 | 1,430 | 113 | 78.5% |
-| Planning and Environment Committee | 1,463 | 1,315 | 26 | 91.7% |
+| Council | 3,912 | 3,600 | 216 | 97.5% |
+| Strategic Priorities and Policy Committee | 1,977 | 1,441 | 113 | 78.6% |
+| Planning and Environment Committee | 1,475 | 1,327 | 26 | 91.7% |
 | Budget Committee | 189 | 130 | 58 | 99.5% |
 | Civic Works Committee | 111 | 108 | 1 | 98.2% |
 
@@ -196,15 +196,18 @@ Voted **Yea** - Motion Failed (7 to 7)
 
 ## Committees Served
 
-- [Planning and Environment Committee](/committees/planning-environment)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
+- [Planning and Environment Committee](/committees/planning-environment)
 - [City Council](/committees/city-council)
 - [Budget Committee](/committees/budget)
 - [Corporate Services Committee](/committees/corporate-services)
 - [Civic Works Committee](/committees/civic-works)
 
-## Recent Meetings (402 total)
+## Recent Meetings (405 total)
 
+- [7th Meeting of the Strategic Priorities and Policy Committee](</months/2026-05/2026-05-28 7th Meeting of the Strategic Priorities and Policy Committee>) - Thu May 28 2026
+- [The 8th Meeting of the Planning and Environment Committee](</months/2026-05/2026-05-26 The 8th Meeting of the Planning and Environment Committee>) - Tue May 26 2026
+- [8th Meeting of Council](</months/2026-05/2026-05-12 8th Meeting of Council>) - Tue May 12 2026
 - [The 7th Meeting of the Planning and Environment Committee](</months/2026-05/2026-05-05 The 7th Meeting of the Planning and Environment Committee>) - Tue May 5 2026
 - [6th Meeting of the Strategic Priorities and Policy Committee](</months/2026-04/2026-04-21 6th Meeting of the Strategic Priorities and Policy Committee>) - Tue Apr 21 2026
 - [The 6th Meeting of the Planning and Environment Committee](</months/2026-04/2026-04-14 The 6th Meeting of the Planning and Environment Committee>) - Tue Apr 14 2026
@@ -212,6 +215,3 @@ Voted **Yea** - Motion Failed (7 to 7)
 - [4th Council Meeting](</months/2026-03/2026-03-03 4th Council Meeting>) - Tue Mar 3 2026
 - [4th Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-24 4th Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 24 2026
 - [4th Meeting of the Planning and Environment Committee](</months/2026-02/2026-02-18 4th Meeting of the Planning and Environment Committee>) - Wed Feb 18 2026
-- [3rd Council Meeting](</months/2026-02/2026-02-10 3rd Council Meeting>) - Tue Feb 10 2026
-- [3rd Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-03 3rd Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 3 2026
-- [3rd Meeting of the Planning and Environment Committee](</months/2026-01/2026-01-27 3rd Meeting of the Planning and Environment Committee>) - Tue Jan 27 2026
