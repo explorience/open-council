@@ -54,7 +54,7 @@ That Consent Items 2.1 to 2.3 BE APPROVED.
 
 ## 2.1&nbsp;&nbsp;&nbsp;2026 Corporate Asset Management Plan Progress Review
 
-[2026-05-28 Staff Report - 2026 Corporate Asset Management Plan](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=124041>)
+[2026-05-28 Staff Report - 2026 Corporate Asset Management Plan](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=124164>)
 
 > Moved by S. Hillier
 
@@ -68,7 +68,7 @@ That, on the recommendation of the Deputy City Manager, Finance Supports, the re
 
 ## 2.2&nbsp;&nbsp;&nbsp;Request for Shareholder's Meeting - London & Middlesex Community Housing
 
-[2026-05-28 Submission - AGM Request-LMCH](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=124042>)
+[2026-05-28 Submission - AGM Request-LMCH](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=124165>)
 
 > Moved by S. Hillier
 
@@ -88,7 +88,7 @@ it being noted that the Strategic Priorities and Policy Committee received a com
 
 ## 2.3&nbsp;&nbsp;&nbsp;Request for Shareholder's Meeting - Housing Development Corporation, London
 
-[2026-05-28 Submission - (2.3) HDC Shareholders Request](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=124048>)
+[2026-05-28 Submission - (2.3) HDC Shareholders Request](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=124171>)
 
 > Moved by S. Hillier
 
@@ -108,7 +108,7 @@ it being noted that the Strategic Priorities and Policy Committee received a com
 
 ## 2.4&nbsp;&nbsp;&nbsp;Strategic Plan Implementation Update: Mid-Year 2026
 
-[2026-05-28 Staff Report - (2.4) Strategic Plan Implementation Update Mid-Year 2026](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=124049>)
+[2026-05-28 Staff Report - (2.4) Strategic Plan Implementation Update Mid-Year 2026](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=124172>)
 
 > Moved by H. McAlister
 
@@ -138,7 +138,7 @@ That, on the recommendation of the City Manager, the report including the 2026 M
 
 ## 2.5&nbsp;&nbsp;&nbsp;RBC Place London Steam Transition
 
-[2026-05-28 Staff Report - (2.5) RBC Place Steam Transition](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=124047>)
+[2026-05-28 Staff Report - (2.5) RBC Place Steam Transition](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=124170>)
 
 > Moved by S. Stevenson
 
@@ -175,7 +175,7 @@ c)    the Civic Administration BE DIRECTED to provide a report to the Strategi
 
 ## 2.6&nbsp;&nbsp;&nbsp;Review of RFPQ 2025-056 Redevelopment of City Hall Campus Procurement and Related Information
 
-[2026-05-28 Staff Report - (2.6) Review of RFPQ 2025-056 Redevelopment of City Hall Campus](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=124046>)
+[2026-05-28 Staff Report - (2.6) Review of RFPQ 2025-056 Redevelopment of City Hall Campus](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=124169>)
 
 > Moved by S. Franke
 
@@ -205,7 +205,7 @@ That, on the recommendation of the Deputy City Manager, Finance Supports, the re
 
 ## 3.1&nbsp;&nbsp;&nbsp;Not to be heard before 1:05 PM - London Hydro Inc. - 2025 Annual General Meeting of the Shareholder Annual Resolutions
 
-[2026-05-28 Staff Report - (3.1) AGM - London Hydro](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=124051>)
+[2026-05-28 Staff Report - (3.1) AGM - London Hydro](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=124174>)
 
 > Moved by P. Van Meerbergen
 
@@ -246,7 +246,7 @@ d)   the communication regarding the Draft Shareholder Resolution BE RECEIVED.
 
 ## 3.2&nbsp;&nbsp;&nbsp;Delegation - Ysni Semsedini, Chief Executive Officer, London Hydro Inc. - London Hydro Holdings Inc. ("NewCo")
 
-[2026-05-28 Submission - (3.2) London Hydro Holdings Inc2](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=124052>)
+[2026-05-28 Submission - (3.2) London Hydro Holdings Inc2](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=124175>)
 
 > Moved by P. Cuddy
 
@@ -254,7 +254,7 @@ d)   the communication regarding the Draft Shareholder Resolution BE RECEIVED.
 
 That the following actions be taken with respect to the revival of London Hydro Holdings Inc.:
 
-a)  Tanya Goodine and Paul Madden BE APPOINTED to the London Hydro Holdings Inc. for a term of 1 year;
+a)  Tania Goodine and Paul Madden BE APPOINTED to the London Hydro Holdings Inc. for a term of 1 year;
 
 b)  Mayor J. Morgan BE APPOINTED as the member appointed from Municipal Council; and
 
@@ -287,7 +287,7 @@ it being noted that the Strategic Priorities and Policy Committee heard a verbal
 
 ## 3.3&nbsp;&nbsp;&nbsp;Delegation - Kelly Paleczny, General Manager, London Transit Commission - 2025 London Transit Commission Annual Report
 
-[2026-05-28 Submission - (3.3) 2025 LTC Annual Report](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=124044>)
+[2026-05-28 Submission - (3.3) 2025 LTC Annual Report](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=124167>)
 
 > Moved by S. Franke
 
@@ -320,7 +320,7 @@ That the London Transit Commission 2025 Annual Report BE RECEIVED; it being note
 
 ## 3.4&nbsp;&nbsp;&nbsp;Delegation - Paul Chisholm, Chief Executive Officer and Phil Squire, Board Chair, London & Middlesex Community Housing - LMCH Master Regeneration Plan
 
-[2026-05-28 Submission - Master Regeneration Plan-LMCH1](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=124043>)
+[2026-05-28 Submission - Master Regeneration Plan-LMCH1](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=124166>)
 
 > Moved by H. McAlister
 
@@ -353,7 +353,7 @@ That the London & Middlesex Community Housing's 15-Year Regeneration Plan BE REC
 
 ## 4.1&nbsp;&nbsp;&nbsp;Review of the London & Middlesex Community Housing Master Regeneration Plan
 
-[2026-05-28 Staff Report - (4.1) Review of the LMCH Master Regeneration Plan](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=124053>)
+[2026-05-28 Staff Report - (4.1) Review of the LMCH Master Regeneration Plan](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=124176>)
 
 > Moved by H. McAlister
 
@@ -398,7 +398,7 @@ The Committee recesses at 3:32 PM and reconvenes at 3:44 PM.
 
 ## 4.2&nbsp;&nbsp;&nbsp;London Transit Commission Governance Review: Findings and Recommendations
 
-[2026-05-28 Staff Report - (4.2)  LTC Governance Review](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=124050>)
+[2026-05-28 Staff Report - (4.2)  LTC Governance Review](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=124173>)
 
 > Moved by S. Franke
 
@@ -442,7 +442,7 @@ it being noted that the Strategic Priorities and Policy Committee heard a delega
 
 ## 4.3&nbsp;&nbsp;&nbsp;Request to Maintain the Size of the London Police Service Board at Seven Members
 
-[2026-05-28 Submission - (4.3) Request to Maintain Size of Members-LPSB](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=124045>)
+[2026-05-28 Submission - (4.3) Request to Maintain Size of Members-LPSB](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=124168>)
 
 > Moved by S. Lehman
 
