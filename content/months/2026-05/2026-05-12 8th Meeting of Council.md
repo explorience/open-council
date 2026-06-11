@@ -239,7 +239,7 @@ None.
 
 ## 8.1&nbsp;&nbsp;&nbsp;9th Report of the Infrastructure and Corporate Services Committee
 
-[2026-05-06 ICSC Report 9](</2026-05/2026-05-06 9th Meeting of the Infrastructure and Corporate Services Committee>)
+[2026-05-06 ICSC Report 9](</2026-05/2026-05-06 - Infrastructure and Corporate Services Committee>)
 
 > Motion made by H. McAlister
 
@@ -278,7 +278,7 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-### 8.1.3&nbsp;&nbsp;&nbsp;[(2.2)](</2026-05/2026-05-06 9th Meeting of the Infrastructure and Corporate Services Committee#22contract-amendment-dingman-creek-subwatershed-stage-2-lands-schedule-c-municipal-class-environmental-assessment>) Contract Amendment: Dingman Creek Subwatershed Stage 2 Lands: Schedule C Municipal Class Environmental Assessment
+### 8.1.3&nbsp;&nbsp;&nbsp;(2.2) Contract Amendment: Dingman Creek Subwatershed Stage 2 Lands: Schedule C Municipal Class Environmental Assessment
 
 > Motion made by H. McAlister
 
@@ -298,7 +298,7 @@ e)     the Mayor and the City Clerk BE AUTHORIZED to execute any contract or o
 
 ****
 
-### 8.1.4&nbsp;&nbsp;&nbsp;[(2.3)](</2026-05/2026-05-06 9th Meeting of the Infrastructure and Corporate Services Committee#23appointment-of-consulting-engineer-for-the-2026-culvert-replacement-program-contract-administration>) Appointment of Consulting Engineer for the 2026 Culvert Replacement Program Contract Administration
+### 8.1.4&nbsp;&nbsp;&nbsp;(2.3) Appointment of Consulting Engineer for the 2026 Culvert Replacement Program Contract Administration
 
 > Motion made by H. McAlister
 
@@ -318,7 +318,7 @@ e)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or ot
 
 ****
 
-### 8.1.5&nbsp;&nbsp;&nbsp;[(2.4)](</2026-05/2026-05-06 9th Meeting of the Infrastructure and Corporate Services Committee#24restricted-acts-of-council-after-nomination-day-and-voting-day>) Restricted Acts of Council After Nomination Day and Voting Day (Relates to Bill No. 191)
+### 8.1.5&nbsp;&nbsp;&nbsp;(2.4) Restricted Acts of Council After Nomination Day and Voting Day (Relates to Bill No. 191)
 
 > Motion made by H. McAlister
 
@@ -332,7 +332,7 @@ b)    the staff report dated May 6, 2026 from the Deputy City Manager, Legal S
 
 ****
 
-### 8.1.7&nbsp;&nbsp;&nbsp;[(2.7)](</2026-05/2026-05-06 9th Meeting of the Infrastructure and Corporate Services Committee#27lt-2026-107-limited-tender-co-operative-purchase-for-supply-and-installation-of-arena-refrigeration-equipment>) LT-2026-107 Limited Tender Co-operative Purchase for Supply and Installation of Arena Refrigeration Equipment
+### 8.1.7&nbsp;&nbsp;&nbsp;(2.7) LT-2026-107 Limited Tender Co-operative Purchase for Supply and Installation of Arena Refrigeration Equipment
 
 > Motion made by H. McAlister
 
@@ -348,7 +348,7 @@ c)    the Civic Administration BE AUTHORIZED to undertake all the administrati
 
 ****
 
-### 8.1.9&nbsp;&nbsp;&nbsp;[(4.1)](</2026-05/2026-05-06 9th Meeting of the Infrastructure and Corporate Services Committee#41association-of-municipalities-ontario---board-of-directors-large-urban-caucus>) Association of Municipalities Ontario - Board of Directors, Large Urban Caucus
+### 8.1.9&nbsp;&nbsp;&nbsp;(4.1) Association of Municipalities Ontario - Board of Directors, Large Urban Caucus
 
 > Motion made by H. McAlister
 
@@ -364,7 +364,7 @@ c)    Councillor A. Hopkins BE REIMBURSED up to $500 for campaign-related expe
 
 ****
 
-### 8.1.2&nbsp;&nbsp;&nbsp;[(2.1)](</2026-05/2026-05-06 9th Meeting of the Infrastructure and Corporate Services Committee#21extension-of-fanshawe-college-agreement-to-support-downtown-campus>) Extension of Fanshawe College Agreement to Support Downtown Campus (Relates to Bill No. 190)
+### 8.1.2&nbsp;&nbsp;&nbsp;(2.1) Extension of Fanshawe College Agreement to Support Downtown Campus (Relates to Bill No. 190)
 
 > Motion made by H. McAlister
 
@@ -398,7 +398,7 @@ it being noted that the Infrastructure and Corporate Services Committee received
 
 ****
 
-### 8.1.6&nbsp;&nbsp;&nbsp;[(2.5)](</2026-05/2026-05-06 9th Meeting of the Infrastructure and Corporate Services Committee#25next-steps-for-the-provincial-cargo-power-assisted-bicycle-pilot>) Next Steps for the Provincial Cargo Power-Assisted Bicycle Pilot (Relates to Bill No. 195)
+### 8.1.6&nbsp;&nbsp;&nbsp;(2.5) Next Steps for the Provincial Cargo Power-Assisted Bicycle Pilot (Relates to Bill No. 195)
 
 > Motion made by H. McAlister
 
@@ -433,7 +433,7 @@ it being noted that the Infrastructure and Corporate Services Committee received
 
 ****
 
-### 8.1.8&nbsp;&nbsp;&nbsp;[(2.6)](</2026-05/2026-05-06 9th Meeting of the Infrastructure and Corporate Services Committee#26findings-and-next-steps-for-provincial-electric-kick-scooter-pilot>) Findings and Next Steps for Provincial Electric Kick-Scooter Pilot (Relates to Bill No.'s 192 and 196)
+### 8.1.8&nbsp;&nbsp;&nbsp;(2.6) Findings and Next Steps for Provincial Electric Kick-Scooter Pilot (Relates to Bill No.'s 192 and 196)
 
 > Motion made by H. McAlister
 
@@ -586,7 +586,7 @@ it being noted that the Infrastructure and Corporate Services Committee received
 
 ## 8.2&nbsp;&nbsp;&nbsp;7th Report of the Planning and Environment Committee
 
-[2026-05-05 PEC Report](</2026-05/2026-05-05 The 7th Meeting of the Planning and Environment Committee>)
+[2026-05-05 PEC Report](</2026-05/2026-05-05 - Planning and Environment Committee>)
 
 > Motion made by S. Lehman
 
@@ -625,7 +625,7 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-### 8.2.2&nbsp;&nbsp;&nbsp;[(2.1)](</2026-05/2026-05-05 The 7th Meeting of the Planning and Environment Committee#21building-services-report---q1-2026>) Building Services Report - Q1 2026
+### 8.2.2&nbsp;&nbsp;&nbsp;(2.1) Building Services Report - Q1 2026
 
 > Motion made by S. Lehman
 
@@ -635,7 +635,7 @@ That, on the recommendation of the Deputy City Manager, Housing and Community Gr
 
 ****
 
-### 8.2.3&nbsp;&nbsp;&nbsp;[(2.2)](</2026-05/2026-05-05 The 7th Meeting of the Planning and Environment Committee#22quarterly-heritage-report---q1-2026>) Quarterly Heritage Report - Q1 2026
+### 8.2.3&nbsp;&nbsp;&nbsp;(2.2) Quarterly Heritage Report - Q1 2026
 
 > Motion made by S. Lehman
 
@@ -645,7 +645,7 @@ That, on the recommendation of the Director, Planning and Development, the staff
 
 ****
 
-### 8.2.4&nbsp;&nbsp;&nbsp;[(2.3)](</2026-05/2026-05-05 The 7th Meeting of the Planning and Environment Committee#234th-report-of-the-community-advisory-committee-on-planning>) 4th Report of the Community Advisory Committee on Planning
+### 8.2.4&nbsp;&nbsp;&nbsp;(2.3) 4th Report of the Community Advisory Committee on Planning
 
 > Motion made by S. Lehman
 
@@ -655,7 +655,7 @@ That the 4th Report of the Community Advisory Committee on Planning, from its me
 
 ****
 
-### 8.2.5&nbsp;&nbsp;&nbsp;[(3.1)](</2026-05/2026-05-05 The 7th Meeting of the Planning and Environment Committee#312120-and-2204-huron-street---oz-26024>) 2120 and 2204 Huron Street - OZ-26024 (Relates to Bill No. 193 and 208)
+### 8.2.5&nbsp;&nbsp;&nbsp;(3.1) 2120 and 2204 Huron Street - OZ-26024 (Relates to Bill No. 193 and 208)
 
 > Motion made by S. Lehman
 
@@ -687,7 +687,7 @@ it being noted that, the Municipal Council approves this application for the fol
 
 ****
 
-### 8.2.6&nbsp;&nbsp;&nbsp;[(3.2)](</2026-05/2026-05-05 The 7th Meeting of the Planning and Environment Committee#32299---309-springbank-drive---z-26020>) 299 - 309 Springbank Drive - Z-26020 (Relates to Bill No. 209)
+### 8.2.6&nbsp;&nbsp;&nbsp;(3.2) 299 - 309 Springbank Drive - Z-26020 (Relates to Bill No. 209)
 
 > Motion made by S. Lehman
 
@@ -711,7 +711,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-### 8.2.8&nbsp;&nbsp;&nbsp;[(5.1)](</2026-05/2026-05-05 The 7th Meeting of the Planning and Environment Committee#51deferred-matters-list>) Deferred Matters List
+### 8.2.8&nbsp;&nbsp;&nbsp;(5.1) Deferred Matters List
 
 > Motion made by S. Lehman
 
@@ -721,7 +721,7 @@ That the Deferred Matters List BE RECEIVED.
 
 ****
 
-### 8.2.7&nbsp;&nbsp;&nbsp;[(3.3)](</2026-05/2026-05-05 The 7th Meeting of the Planning and Environment Committee#33945-bluegrass-drive---oz-26019>) 945 Bluegrass Drive - OZ-26019 (Relates to Bill No. 194 and 210)
+### 8.2.7&nbsp;&nbsp;&nbsp;(3.3) 945 Bluegrass Drive - OZ-26019 (Relates to Bill No. 194 and 210)
 
 > Motion made by S. Lewis
 
@@ -813,7 +813,7 @@ At 3:00 PM, Councillor S. Lehman leaves the meeting.
 
 ## 8.3&nbsp;&nbsp;&nbsp;7th Report of the Community and Protective Services Committee
 
-[2026-05-04 CPSC Report](</2026-05/2026-05-04 7th Meeting of the Community and Protective Services Committee>)
+[2026-05-04 CPSC Report](</2026-05/2026-05-04 - Community and Protective Services Committee>)
 
 > Motion made by C. Rahman
 
@@ -851,7 +851,7 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-### 8.3.2&nbsp;&nbsp;&nbsp;[(2.1)](</2026-05/2026-05-04 7th Meeting of the Community and Protective Services Committee#214th-report-of-the-environmental-stewardship-and-action-community-advisory-committee>) 4th Report of the Environmental Stewardship and Action Community Advisory Committee
+### 8.3.2&nbsp;&nbsp;&nbsp;(2.1) 4th Report of the Environmental Stewardship and Action Community Advisory Committee
 
 > Motion made by C. Rahman
 
@@ -861,7 +861,7 @@ That the 4th Report of the Environmental Stewardship and Action Community Adviso
 
 ****
 
-### 8.3.4&nbsp;&nbsp;&nbsp;[(2.3)](</2026-05/2026-05-04 7th Meeting of the Community and Protective Services Committee#23community-action-for-prenatal-and-child-health-program-capchp-contribution-agreement--2026-2030>) Community Action for Prenatal and Child Health Program (CAPCHP) Contribution Agreement – 2026-2030 (Relates to Bill No. 189)
+### 8.3.4&nbsp;&nbsp;&nbsp;(2.3) Community Action for Prenatal and Child Health Program (CAPCHP) Contribution Agreement – 2026-2030 (Relates to Bill No. 189)
 
 > Motion made by C. Rahman
 
@@ -887,7 +887,7 @@ At 3:02 PM, Councillor S. Lehman enters the meeting.
 
 ****
 
-### 8.3.3&nbsp;&nbsp;&nbsp;[(2.2)](</2026-05/2026-05-04 7th Meeting of the Community and Protective Services Committee#22ymca-centre-branch-program-services-and-access-agreement>) YMCA Centre Branch Program Services and Access Agreement (Relates to Bill No. 188)
+### 8.3.3&nbsp;&nbsp;&nbsp;(2.2) YMCA Centre Branch Program Services and Access Agreement (Relates to Bill No. 188)
 
 > Motion made by C. Rahman
 
@@ -924,7 +924,7 @@ At 3:08 PM, Deputy Mayor S. Lewis leaves the meeting.
 
 ****
 
-### 8.3.5&nbsp;&nbsp;&nbsp;[(2.4)](</2026-05/2026-05-04 7th Meeting of the Community and Protective Services Committee#24housing-stability-action-plan-2026-2031-update>) Housing Stability Action Plan (2026-2031) Update
+### 8.3.5&nbsp;&nbsp;&nbsp;(2.4) Housing Stability Action Plan (2026-2031) Update
 
 > Motion made by C. Rahman
 
