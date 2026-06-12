@@ -2034,7 +2034,7 @@ d)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or ot
 
 ## 8.5&nbsp;&nbsp;&nbsp;5th Report of the Special Infrastructure and Corporate Services Committee
 
-[2026-03-02 Special Infrastructure and Corporate Services Committee Report](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=122736>)
+[2026-03-02 Special Infrastructure and Corporate Services Committee Report](</2026-03/2026-03-02 5th Special Meeting of the Infrastructure and Corporate Services Committee>)
 
 > Motion made by C. Rahman
 
@@ -2070,7 +2070,7 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-### 8.5.2&nbsp;&nbsp;&nbsp;(2.1) Public Sector Salary Disclosure Act Report for Calendar Year 2025
+### 8.5.2&nbsp;&nbsp;&nbsp;[(2.1)](</2026-03/2026-03-02 5th Special Meeting of the Infrastructure and Corporate Services Committee#21public-sector-salary-disclosure-act-report-for-calendar-year-2025>) Public Sector Salary Disclosure Act Report for Calendar Year 2025
 
 > Motion made by C. Rahman
 
