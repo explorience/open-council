@@ -2,7 +2,7 @@
 title: "Community and Protective Services Committee"
 type: committee
 slug: "community-protective-services"
-meetingCount: 212
+meetingCount: 213
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -11,6 +11,7 @@ prefillQuestions:
 
 ## Recent Meetings
 
+- [Community and Protective Services Committee](</months/2026-06/2026-06-16 - Community and Protective Services Committee>) - Tue Jun 16 2026
 - [Community and Protective Services Committee](</months/2026-06/2026-06-08 - Community and Protective Services Committee>) - Mon Jun 8 2026
 - [Community and Protective Services Committee](</months/2026-05/2026-05-25 - Community and Protective Services Committee>) - Mon May 25 2026
 - [8th Meeting of the Community and Protective Services Committee](</months/2026-05/2026-05-25 8th Meeting of the Community and Protective Services Committee>) - Mon May 25 2026
@@ -20,8 +21,7 @@ prefillQuestions:
 - [6th Meeting of the Community and Protective Services Committee](</months/2026-04/2026-04-13 6th Meeting of the Community and Protective Services Committee>) - Mon Apr 13 2026
 - [2026-03-13 - Community and Protective Services Committee](</months/2026-03/2026-03-13 - Community and Protective Services Committee>) - Fri Mar 13 2026
 - [5th Special Meeting of the Community and Protective Services Committee](</months/2026-03/2026-03-13 5th Special Meeting of the Community and Protective Services Committee>) - Fri Mar 13 2026
-- [Community and Protective Services Committee Meeting](</months/2026-03/2026-03-13-Community and Protective Services Committee>) - Fri Mar 13 2026
 
 
-[View all 212 meetings →](#)
+[View all 213 meetings →](#)
 
