@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T08:21:38.981Z",
+  "generatedAt": "2026-06-20T07:48:29.181Z",
   "matrix": {
     "j-morgan": {
       "h-mcalister": 100,
@@ -13,21 +13,21 @@
     },
     "h-mcalister": {
       "j-morgan": 100,
-      "s-stevenson": 76.47058823529412,
+      "s-stevenson": 73.68421052631578,
       "c-rahman": 92,
-      "p-van-meerbergen": 90.74074074074075,
-      "s-franke": 92.3076923076923,
-      "e-peloza": 89.65517241379311
+      "p-van-meerbergen": 90,
+      "s-franke": 93.10344827586206,
+      "e-peloza": 91.42857142857143
     },
     "s-lewis": {},
     "p-cuddy": {},
     "s-stevenson": {
       "j-morgan": 70,
-      "h-mcalister": 76.47058823529412,
+      "h-mcalister": 73.68421052631578,
       "c-rahman": 88,
-      "p-van-meerbergen": 79.59183673469387,
-      "s-franke": 76.47058823529412,
-      "e-peloza": 68
+      "p-van-meerbergen": 78.18181818181819,
+      "s-franke": 73.68421052631578,
+      "e-peloza": 64.51612903225806
     },
     "j-pribil": {
       "j-morgan": 92.3076923076923,
@@ -56,30 +56,30 @@
     },
     "p-van-meerbergen": {
       "j-morgan": 93.54838709677419,
-      "h-mcalister": 90.74074074074075,
-      "s-stevenson": 79.59183673469387,
+      "h-mcalister": 90,
+      "s-stevenson": 78.18181818181819,
       "j-pribil": 81.48148148148148,
       "c-rahman": 85.54216867469879,
       "a-hopkins": 84.21052631578947,
-      "s-franke": 86.53846153846155,
-      "e-peloza": 85.18518518518519
+      "s-franke": 86.36363636363636,
+      "e-peloza": 84.84848484848484
     },
     "s-franke": {
       "j-morgan": 100,
-      "h-mcalister": 92.3076923076923,
-      "s-stevenson": 76.47058823529412,
+      "h-mcalister": 93.10344827586206,
+      "s-stevenson": 73.68421052631578,
       "j-pribil": 96,
       "c-rahman": 97.46835443037975,
       "a-hopkins": 98.11320754716981,
-      "p-van-meerbergen": 86.53846153846155,
-      "e-peloza": 84
+      "p-van-meerbergen": 86.36363636363636,
+      "e-peloza": 87.09677419354838
     },
     "e-peloza": {
       "j-morgan": 93.33333333333333,
-      "h-mcalister": 89.65517241379311,
-      "s-stevenson": 68,
-      "p-van-meerbergen": 85.18518518518519,
-      "s-franke": 84
+      "h-mcalister": 91.42857142857143,
+      "s-stevenson": 64.51612903225806,
+      "p-van-meerbergen": 84.84848484848484,
+      "s-franke": 87.09677419354838
     },
     "d-ferreira": {},
     "s-hillier": {}
@@ -123,6 +123,6 @@
     }
   ],
   "type": "committee",
-  "motionCount": 116,
+  "motionCount": 122,
   "committeeName": "Infrastructure and Corporate Services Committee"
 }

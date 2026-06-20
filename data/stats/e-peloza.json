@@ -2,11 +2,11 @@
   "councillor": "Elizabeth Peloza",
   "slug": "e-peloza",
   "attendance": {
-    "totalMeetings": 440,
-    "present": 431,
+    "totalMeetings": 444,
+    "present": 435,
     "absent": 9,
     "remote": 1,
-    "attendanceRate": 97.95454545454545,
+    "attendanceRate": 97.97297297297297,
     "trend": [
       {
         "period": "2018",
@@ -58,99 +58,117 @@
       },
       {
         "period": "2026",
-        "attendanceRate": 88.88888888888889,
-        "meetingsAttended": 16,
-        "meetingsTotal": 18
+        "attendanceRate": 90.9090909090909,
+        "meetingsAttended": 20,
+        "meetingsTotal": 22
       }
     ],
     "trendDirection": "declining"
   },
   "voting": {
-    "totalVotes": 7339,
-    "yeas": 5957,
-    "nays": 518,
-    "absent": 864,
-    "participationRate": 88.2272789208339,
-    "yeaRate": 92,
-    "contestedDissentRate": 17.227916056612983,
-    "contestedVotes": 2049,
-    "substantiveVotes": 4501,
-    "substantiveYeas": 3353,
-    "substantiveNays": 457,
-    "substantiveParticipationRate": 84.64785603199289,
-    "substantiveYeaRate": 88.00524934383202
+    "totalVotes": 7395,
+    "yeas": 6001,
+    "nays": 520,
+    "absent": 874,
+    "participationRate": 88.18120351588912,
+    "yeaRate": 92.02576291979759,
+    "contestedDissentRate": 17.20794958797867,
+    "contestedVotes": 2063,
+    "substantiveVotes": 4533,
+    "substantiveYeas": 3376,
+    "substantiveNays": 459,
+    "substantiveParticipationRate": 84.60180895654092,
+    "substantiveYeaRate": 88.03129074315515
   },
   "budgetVoting": {
-    "totalBudgetVotes": 719,
+    "totalBudgetVotes": 720,
     "budgetYeas": 573,
     "budgetNays": 117,
-    "budgetAbsent": 29
+    "budgetAbsent": 30
   },
   "topAlignments": [
     {
       "councillor": "Josh Morgan",
-      "sharedVotes": 2833,
-      "agreedVotes": 2696,
-      "alignmentRate": 95.16413695728909
+      "sharedVotes": 2855,
+      "agreedVotes": 2717,
+      "alignmentRate": 95.16637478108582
     },
     {
       "councillor": "Shawn Lewis",
-      "sharedVotes": 3234,
-      "agreedVotes": 3076,
-      "alignmentRate": 95.11440940012369
+      "sharedVotes": 3254,
+      "agreedVotes": 3095,
+      "alignmentRate": 95.11370620774431
     },
     {
       "councillor": "Steve Lehman",
-      "sharedVotes": 3014,
-      "agreedVotes": 2854,
-      "alignmentRate": 94.6914399469144
+      "sharedVotes": 3036,
+      "agreedVotes": 2875,
+      "alignmentRate": 94.6969696969697
     },
     {
       "councillor": "Steve Hillier",
-      "sharedVotes": 2830,
-      "agreedVotes": 2649,
-      "alignmentRate": 93.60424028268551
+      "sharedVotes": 2849,
+      "agreedVotes": 2667,
+      "alignmentRate": 93.61179361179362
     },
     {
       "councillor": "Hadleigh McAlister",
-      "sharedVotes": 1387,
-      "agreedVotes": 1289,
-      "alignmentRate": 92.93439077144917
+      "sharedVotes": 1415,
+      "agreedVotes": 1316,
+      "alignmentRate": 93.0035335689046
     }
   ],
   "bottomAlignments": [
     {
       "councillor": "Susan Stevenson",
-      "sharedVotes": 1374,
-      "agreedVotes": 1160,
-      "alignmentRate": 84.4250363901019
+      "sharedVotes": 1387,
+      "agreedVotes": 1169,
+      "alignmentRate": 84.28262436914203
     },
     {
       "councillor": "Sam Trosow",
-      "sharedVotes": 1351,
-      "agreedVotes": 1168,
-      "alignmentRate": 86.45447816432272
+      "sharedVotes": 1373,
+      "agreedVotes": 1188,
+      "alignmentRate": 86.52585579024034
     },
     {
       "councillor": "David Ferreira",
-      "sharedVotes": 1191,
-      "agreedVotes": 1060,
-      "alignmentRate": 89.00083963056255
+      "sharedVotes": 1213,
+      "agreedVotes": 1081,
+      "alignmentRate": 89.1178895300907
     },
     {
       "councillor": "Corrine Rahman",
-      "sharedVotes": 1195,
-      "agreedVotes": 1078,
-      "alignmentRate": 90.2092050209205
+      "sharedVotes": 1217,
+      "agreedVotes": 1099,
+      "alignmentRate": 90.30402629416598
     },
     {
       "councillor": "Paul Van Meerbergen",
-      "sharedVotes": 2942,
-      "agreedVotes": 2662,
-      "alignmentRate": 90.48266485384092
+      "sharedVotes": 2970,
+      "agreedVotes": 2687,
+      "alignmentRate": 90.47138047138047
     }
   ],
   "notableDissents": [
+    {
+      "date": "2026-06-17",
+      "meetingTitle": "10th Special Meeting of Council",
+      "itemTitle": "Build Communities Strong Fund Provincial and Territorial Stream: Development Charge Reduction Program",
+      "motionText": "That, pursuant to section 2.3 of the Council Procedure By-law, the speaking-once provision contained in section 9.7 of the Council Procedure By-law BE SUSPENDED for the Council meeting held on June 17...",
+      "vote": "yea",
+      "result": "Motion Failed (9 to 4)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=4ded2b07-9300-45c5-9b86-489f66930984&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2026-06-16",
+      "meetingTitle": "8th Meeting of the Strategic Priorities and Policy Committee",
+      "itemTitle": "Not to be heard before 1:05 PM - London & Middlesex Community Housing - 2025 Annual General Meeting of the Shareholder Annual Resolutions",
+      "motionText": "That pursuant to section 31.6 of the Council Procedure By-law, Councillor S. Trosow BE PERMITTED to speak an additional 2 minutes with respect to this matter.",
+      "vote": "nay",
+      "result": "Motion Passed (13 to 2)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=a1f160a0-0ce3-4a5a-8c16-928242b55c4d&Agenda=PostMinutes&lang=English"
+    },
     {
       "date": "2026-05-27",
       "meetingTitle": "10th Meeting of the Infrastructure and Corporate Services Committee",
@@ -222,40 +240,22 @@
       "vote": "nay",
       "result": "Motion Passed (4 to 1)",
       "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=e9890bd1-3ebf-47fa-8198-25a144b6365d&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-02-24",
-      "meetingTitle": "4th Meeting of the Strategic Priorities and Policy Committee",
-      "itemTitle": "London UNESCO City of Music Action Plan 2021-2025 Update",
-      "motionText": "That pursuant to section 31.6 of the Council Procedure By-law, Councillor Trosow BE PERMITTED to speak an additional 2 minutes with respect to this matter.",
-      "vote": "nay",
-      "result": "Motion Passed (12 to 2)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=c65ee658-ddb0-4c2b-af83-bf63cbb8048d&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-02-10",
-      "meetingTitle": "3rd Council Meeting",
-      "itemTitle": "(2.3) Sunningdale Road West Improvements – Pipeline Decommissioning and New Pipeline Agreement (Relates to Bill No. 63)",
-      "motionText": "That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to an oil pipeline relocation agreement with Imperial Oil for the Su...",
-      "vote": "nay",
-      "result": "Motion Passed (10 to 5)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English"
     }
   ],
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 3975,
-      "yeas": 3452,
-      "nays": 263,
-      "participationRate": 93.45911949685535
+      "totalVotes": 4007,
+      "yeas": 3481,
+      "nays": 264,
+      "participationRate": 93.46144247566758
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 2075,
-      "yeas": 1391,
-      "nays": 133,
-      "participationRate": 73.44578313253012
+      "totalVotes": 2093,
+      "yeas": 1400,
+      "nays": 134,
+      "participationRate": 73.29192546583852
     },
     {
       "committee": "Planning and Environment Committee",
@@ -294,10 +294,10 @@
     },
     {
       "committee": "Infrastructure and Corporate Services Committee",
-      "totalVotes": 37,
-      "yeas": 31,
+      "totalVotes": 43,
+      "yeas": 37,
       "nays": 5,
-      "participationRate": 97.2972972972973
+      "participationRate": 97.67441860465115
     }
   ]
 }

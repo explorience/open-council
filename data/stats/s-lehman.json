@@ -2,11 +2,11 @@
   "councillor": "Steve Lehman",
   "slug": "s-lehman",
   "attendance": {
-    "totalMeetings": 412,
-    "present": 397,
+    "totalMeetings": 415,
+    "present": 400,
     "absent": 15,
     "remote": 3,
-    "attendanceRate": 96.35922330097088,
+    "attendanceRate": 96.3855421686747,
     "trend": [
       {
         "period": "2018",
@@ -58,99 +58,108 @@
       },
       {
         "period": "2026",
-        "attendanceRate": 93.75,
-        "meetingsAttended": 15,
-        "meetingsTotal": 16
+        "attendanceRate": 94.73684210526315,
+        "meetingsAttended": 18,
+        "meetingsTotal": 19
       }
     ],
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 7664,
-    "yeas": 6606,
-    "nays": 414,
-    "absent": 644,
-    "participationRate": 91.59707724425887,
-    "yeaRate": 94.1025641025641,
-    "contestedDissentRate": 10.05944215820759,
-    "contestedVotes": 2187,
-    "substantiveVotes": 4477,
-    "substantiveYeas": 3595,
-    "substantiveNays": 381,
-    "substantiveParticipationRate": 88.80947062765244,
-    "substantiveYeaRate": 90.41750503018109
+    "totalVotes": 7714,
+    "yeas": 6652,
+    "nays": 416,
+    "absent": 646,
+    "participationRate": 91.62561576354679,
+    "yeaRate": 94.11431805319751,
+    "contestedDissentRate": 10.036330608537693,
+    "contestedVotes": 2202,
+    "substantiveVotes": 4506,
+    "substantiveYeas": 3620,
+    "substantiveNays": 383,
+    "substantiveParticipationRate": 88.83710608078118,
+    "substantiveYeaRate": 90.43217586809892
   },
   "budgetVoting": {
-    "totalBudgetVotes": 719,
-    "budgetYeas": 585,
+    "totalBudgetVotes": 720,
+    "budgetYeas": 586,
     "budgetNays": 112,
     "budgetAbsent": 22
   },
   "topAlignments": [
     {
       "councillor": "Shawn Lewis",
-      "sharedVotes": 3546,
-      "agreedVotes": 3445,
-      "alignmentRate": 97.15172024816695
+      "sharedVotes": 3566,
+      "agreedVotes": 3463,
+      "alignmentRate": 97.11160964666293
     },
     {
       "councillor": "Josh Morgan",
-      "sharedVotes": 2816,
-      "agreedVotes": 2718,
-      "alignmentRate": 96.51988636363636
+      "sharedVotes": 2838,
+      "agreedVotes": 2740,
+      "alignmentRate": 96.54686398872445
     },
     {
       "councillor": "Steve Hillier",
-      "sharedVotes": 3167,
-      "agreedVotes": 3053,
-      "alignmentRate": 96.40037890748341
+      "sharedVotes": 3186,
+      "agreedVotes": 3072,
+      "alignmentRate": 96.42184557438794
     },
     {
       "councillor": "Peter Cuddy",
-      "sharedVotes": 1686,
-      "agreedVotes": 1623,
-      "alignmentRate": 96.26334519572953
+      "sharedVotes": 1708,
+      "agreedVotes": 1645,
+      "alignmentRate": 96.31147540983606
     },
     {
       "councillor": "Jerry Pribil",
-      "sharedVotes": 1460,
-      "agreedVotes": 1391,
-      "alignmentRate": 95.27397260273973
+      "sharedVotes": 1480,
+      "agreedVotes": 1411,
+      "alignmentRate": 95.33783783783784
     }
   ],
   "bottomAlignments": [
     {
       "councillor": "Sam Trosow",
-      "sharedVotes": 1379,
-      "agreedVotes": 1153,
-      "alignmentRate": 83.6113125453227
+      "sharedVotes": 1401,
+      "agreedVotes": 1174,
+      "alignmentRate": 83.79728765167738
     },
     {
       "councillor": "David Ferreira",
-      "sharedVotes": 1199,
-      "agreedVotes": 1040,
-      "alignmentRate": 86.73894912427022
+      "sharedVotes": 1221,
+      "agreedVotes": 1062,
+      "alignmentRate": 86.97788697788698
     },
     {
       "councillor": "Susan Stevenson",
-      "sharedVotes": 1448,
-      "agreedVotes": 1281,
-      "alignmentRate": 88.46685082872928
+      "sharedVotes": 1455,
+      "agreedVotes": 1288,
+      "alignmentRate": 88.52233676975945
     },
     {
       "councillor": "Anna Hopkins",
-      "sharedVotes": 2176,
-      "agreedVotes": 1967,
-      "alignmentRate": 90.39522058823529
+      "sharedVotes": 2198,
+      "agreedVotes": 1989,
+      "alignmentRate": 90.49135577797999
     },
     {
       "councillor": "Skylar Franke",
-      "sharedVotes": 1600,
-      "agreedVotes": 1452,
-      "alignmentRate": 90.75
+      "sharedVotes": 1621,
+      "agreedVotes": 1473,
+      "alignmentRate": 90.86983343615053
     }
   ],
   "notableDissents": [
+    {
+      "date": "2026-06-02",
+      "meetingTitle": "9th Meeting of Council",
+      "itemTitle": "(3.3) 1103 & 1111 Westdel Bourne - OZ-25072",
+      "motionText": "That the application of Westdell Development Corporation (c/o MHBC Planning, Urban Design & Landscape Architecture) relating to the property located at 1103 & 1111 Westdel Bourne BE REFERRED to a futu...",
+      "vote": "yea",
+      "result": "Motion Failed (7 to 7)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=7241e2a5-5faa-4da2-87e3-5aa7366fda9f&Agenda=PostMinutes&lang=English"
+    },
     {
       "date": "2026-05-05",
       "meetingTitle": "The 7th Meeting of the Planning and Environment Committee",
@@ -231,31 +240,22 @@
       "vote": "yea",
       "result": "Motion Failed (7 to 8)",
       "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-02-03",
-      "meetingTitle": "3rd Meeting of the Strategic Priorities and Policy Committee",
-      "itemTitle": "Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program",
-      "motionText": "That Mayoral Directive 2026-001: Creation of an Affordable Home Ownership Incentive Program BE REFERRED to a future meeting of the Strategic Priorities and Policy Committee for a report back on the fo...",
-      "vote": "yea",
-      "result": "Motion Failed (7 to 7)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=48f12c8d-c951-44dc-905b-05acf0df5b10&Agenda=PostMinutes&lang=English"
     }
   ],
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 3912,
-      "yeas": 3600,
-      "nays": 216,
-      "participationRate": 97.54601226993866
+      "totalVotes": 3944,
+      "yeas": 3631,
+      "nays": 217,
+      "participationRate": 97.56592292089249
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 1977,
-      "yeas": 1441,
-      "nays": 113,
-      "participationRate": 78.60394537177542
+      "totalVotes": 1995,
+      "yeas": 1456,
+      "nays": 114,
+      "participationRate": 78.69674185463658
     },
     {
       "committee": "Planning and Environment Committee",

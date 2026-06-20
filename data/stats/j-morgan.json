@@ -2,11 +2,11 @@
   "councillor": "Josh Morgan",
   "slug": "j-morgan",
   "attendance": {
-    "totalMeetings": 789,
-    "present": 728,
+    "totalMeetings": 793,
+    "present": 732,
     "absent": 61,
     "remote": 1,
-    "attendanceRate": 92.26869455006337,
+    "attendanceRate": 92.3076923076923,
     "trend": [
       {
         "period": "2014",
@@ -83,98 +83,116 @@
       {
         "period": "2026",
         "attendanceRate": 100,
-        "meetingsAttended": 18,
-        "meetingsTotal": 18
+        "meetingsAttended": 22,
+        "meetingsTotal": 22
       }
     ],
     "trendDirection": "improving"
   },
   "voting": {
-    "totalVotes": 10986,
-    "yeas": 9064,
-    "nays": 568,
-    "absent": 1354,
-    "participationRate": 87.67522301110505,
-    "yeaRate": 94.10299003322258,
-    "contestedDissentRate": 5.343228200371057,
-    "contestedVotes": 5390,
-    "substantiveVotes": 7965,
-    "substantiveYeas": 6518,
-    "substantiveNays": 534,
-    "substantiveParticipationRate": 88.53735091023228,
-    "substantiveYeaRate": 92.4276800907544
+    "totalVotes": 11037,
+    "yeas": 9112,
+    "nays": 569,
+    "absent": 1356,
+    "participationRate": 87.71405273172057,
+    "yeaRate": 94.12250800537134,
+    "contestedDissentRate": 5.365402405180388,
+    "contestedVotes": 5405,
+    "substantiveVotes": 7995,
+    "substantiveYeas": 6545,
+    "substantiveNays": 535,
+    "substantiveParticipationRate": 88.55534709193246,
+    "substantiveYeaRate": 92.44350282485875
   },
   "budgetVoting": {
-    "totalBudgetVotes": 1413,
-    "budgetYeas": 1217,
+    "totalBudgetVotes": 1414,
+    "budgetYeas": 1218,
     "budgetNays": 184,
     "budgetAbsent": 12
   },
   "topAlignments": [
     {
       "councillor": "Steve Lehman",
-      "sharedVotes": 2816,
-      "agreedVotes": 2718,
-      "alignmentRate": 96.51988636363636
+      "sharedVotes": 2838,
+      "agreedVotes": 2740,
+      "alignmentRate": 96.54686398872445
     },
     {
       "councillor": "Shawn Lewis",
-      "sharedVotes": 3018,
-      "agreedVotes": 2898,
-      "alignmentRate": 96.02385685884693
+      "sharedVotes": 3038,
+      "agreedVotes": 2916,
+      "alignmentRate": 95.98420013166556
     },
     {
       "councillor": "Peter Cuddy",
-      "sharedVotes": 1550,
-      "agreedVotes": 1478,
-      "alignmentRate": 95.35483870967741
+      "sharedVotes": 1572,
+      "agreedVotes": 1500,
+      "alignmentRate": 95.41984732824427
     },
     {
       "councillor": "Elizabeth Peloza",
-      "sharedVotes": 2833,
-      "agreedVotes": 2696,
-      "alignmentRate": 95.16413695728909
+      "sharedVotes": 2855,
+      "agreedVotes": 2717,
+      "alignmentRate": 95.16637478108582
     },
     {
       "councillor": "Jerry Pribil",
-      "sharedVotes": 1541,
-      "agreedVotes": 1461,
-      "alignmentRate": 94.80856586632058
+      "sharedVotes": 1562,
+      "agreedVotes": 1482,
+      "alignmentRate": 94.87836107554418
     }
   ],
   "bottomAlignments": [
     {
       "councillor": "Sam Trosow",
-      "sharedVotes": 1436,
-      "agreedVotes": 1227,
-      "alignmentRate": 85.44568245125348
+      "sharedVotes": 1459,
+      "agreedVotes": 1249,
+      "alignmentRate": 85.60657984921178
     },
     {
       "councillor": "Susan Stevenson",
-      "sharedVotes": 1469,
-      "agreedVotes": 1272,
-      "alignmentRate": 86.58951667801226
+      "sharedVotes": 1476,
+      "agreedVotes": 1279,
+      "alignmentRate": 86.65311653116531
     },
     {
       "councillor": "David Ferreira",
-      "sharedVotes": 1253,
-      "agreedVotes": 1127,
-      "alignmentRate": 89.94413407821229
+      "sharedVotes": 1276,
+      "agreedVotes": 1150,
+      "alignmentRate": 90.12539184952978
     },
     {
       "councillor": "Paul Van Meerbergen",
-      "sharedVotes": 2806,
-      "agreedVotes": 2583,
-      "alignmentRate": 92.05274411974341
+      "sharedVotes": 2828,
+      "agreedVotes": 2604,
+      "alignmentRate": 92.07920792079209
     },
     {
       "councillor": "Skylar Franke",
-      "sharedVotes": 1448,
-      "agreedVotes": 1338,
-      "alignmentRate": 92.40331491712708
+      "sharedVotes": 1469,
+      "agreedVotes": 1359,
+      "alignmentRate": 92.51191286589517
     }
   ],
   "notableDissents": [
+    {
+      "date": "2026-06-17",
+      "meetingTitle": "10th Special Meeting of Council",
+      "itemTitle": "Build Communities Strong Fund Provincial and Territorial Stream: Development Charge Reduction Program",
+      "motionText": "That, pursuant to section 2.3 of the Council Procedure By-law, the speaking-once provision contained in section 9.7 of the Council Procedure By-law BE SUSPENDED for the Council meeting held on June 17...",
+      "vote": "yea",
+      "result": "Motion Failed (9 to 4)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=4ded2b07-9300-45c5-9b86-489f66930984&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2026-06-02",
+      "meetingTitle": "9th Meeting of Council",
+      "itemTitle": "(3.3) 1103 & 1111 Westdel Bourne - OZ-25072",
+      "motionText": "That the application of Westdell Development Corporation (c/o MHBC Planning, Urban Design & Landscape Architecture) relating to the property located at 1103 & 1111 Westdel Bourne BE REFERRED to a futu...",
+      "vote": "yea",
+      "result": "Motion Failed (7 to 7)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=7241e2a5-5faa-4da2-87e3-5aa7366fda9f&Agenda=PostMinutes&lang=English"
+    },
     {
       "date": "2026-03-24",
       "meetingTitle": "5th Meeting of the Strategic Priorities and Policy Committee",
@@ -246,40 +264,22 @@
       "vote": "nay",
       "result": "Motion Passed (11 to 4)",
       "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3ff44bea-1732-40f8-a0be-0bb3b886e41b&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2025-12-02",
-      "meetingTitle": "The 1st Meeting of the Planning and Environment Committee",
-      "itemTitle": "Public Participation Meeting - Not to be heard before 1:15 PM - Official Plan Review: Final Urban Growth Boundary Review - O-9595",
-      "motionText": "That Schedule 1 to Appendix “A” of the proposed by-law as appended to the staff report dated December 2, 2025, to adopt the Urban Growth Boundary for The London Plan as part of the Section 26 Official...",
-      "vote": "nay",
-      "result": "Motion Passed (4 to 2)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8d91b1ee-f4a7-4907-b940-3c3769649180&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2025-11-25",
-      "meetingTitle": "18th Council Meeting",
-      "itemTitle": "(2.5) Blue Box Transition Final Year - Part B Update",
-      "motionText": "Motion to approve part b): b) the Civic Administration BE DIRECTED to investigate and report back to a future meeting of the Infrastructure and Corporate Services Committee on potential interim measur...",
-      "vote": "nay",
-      "result": "Motion Passed (11 to 4)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=884a7d5b-61ac-4fa6-92cd-79ba0d612538&Agenda=PostMinutes&lang=English"
     }
   ],
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 5218,
-      "yeas": 4834,
+      "totalVotes": 5250,
+      "yeas": 4866,
       "nays": 266,
-      "participationRate": 97.73859716366424
+      "participationRate": 97.75238095238096
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 3111,
-      "yeas": 2449,
-      "nays": 185,
-      "participationRate": 84.66730954676953
+      "totalVotes": 3129,
+      "yeas": 2464,
+      "nays": 186,
+      "participationRate": 84.69159475870886
     },
     {
       "committee": "Corporate Services Committee",
@@ -304,10 +304,10 @@
     },
     {
       "committee": "Community and Protective Services Committee",
-      "totalVotes": 307,
-      "yeas": 188,
+      "totalVotes": 308,
+      "yeas": 189,
       "nays": 14,
-      "participationRate": 65.79804560260585
+      "participationRate": 65.9090909090909
     },
     {
       "committee": "Budget Committee",

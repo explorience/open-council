@@ -2,11 +2,11 @@
   "councillor": "Sam Trosow",
   "slug": "s-trosow",
   "attendance": {
-    "totalMeetings": 231,
-    "present": 222,
+    "totalMeetings": 236,
+    "present": 227,
     "absent": 9,
     "remote": 0,
-    "attendanceRate": 96.1038961038961,
+    "attendanceRate": 96.1864406779661,
     "trend": [
       {
         "period": "2022",
@@ -35,98 +35,125 @@
       {
         "period": "2026",
         "attendanceRate": 100,
-        "meetingsAttended": 16,
-        "meetingsTotal": 16
+        "meetingsAttended": 21,
+        "meetingsTotal": 21
       }
     ],
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 3643,
-    "yeas": 2652,
-    "nays": 592,
-    "absent": 399,
-    "participationRate": 89.04748833379084,
-    "yeaRate": 81.75092478421702,
-    "contestedDissentRate": 45.70397111913358,
-    "contestedVotes": 1385,
-    "substantiveVotes": 2317,
-    "substantiveYeas": 1653,
-    "substantiveNays": 399,
-    "substantiveParticipationRate": 88.56279671989643,
-    "substantiveYeaRate": 80.55555555555556
+    "totalVotes": 3701,
+    "yeas": 2706,
+    "nays": 594,
+    "absent": 401,
+    "participationRate": 89.16509051607675,
+    "yeaRate": 82,
+    "contestedDissentRate": 45.36376604850214,
+    "contestedVotes": 1402,
+    "substantiveVotes": 2353,
+    "substantiveYeas": 1688,
+    "substantiveNays": 400,
+    "substantiveParticipationRate": 88.73778155546111,
+    "substantiveYeaRate": 80.84291187739464
   },
   "budgetVoting": {
-    "totalBudgetVotes": 382,
-    "budgetYeas": 288,
+    "totalBudgetVotes": 383,
+    "budgetYeas": 289,
     "budgetNays": 85,
     "budgetAbsent": 9
   },
   "topAlignments": [
     {
       "councillor": "Anna Hopkins",
-      "sharedVotes": 1468,
-      "agreedVotes": 1363,
-      "alignmentRate": 92.8474114441417
+      "sharedVotes": 1498,
+      "agreedVotes": 1392,
+      "alignmentRate": 92.92389853137517
     },
     {
       "councillor": "David Ferreira",
-      "sharedVotes": 1403,
-      "agreedVotes": 1279,
-      "alignmentRate": 91.16179615110478
+      "sharedVotes": 1433,
+      "agreedVotes": 1308,
+      "alignmentRate": 91.27704117236567
     },
     {
       "councillor": "Skylar Franke",
-      "sharedVotes": 1373,
-      "agreedVotes": 1240,
-      "alignmentRate": 90.31318281136198
+      "sharedVotes": 1396,
+      "agreedVotes": 1262,
+      "alignmentRate": 90.40114613180515
     },
     {
       "councillor": "Hadleigh McAlister",
-      "sharedVotes": 1553,
-      "agreedVotes": 1385,
-      "alignmentRate": 89.18222794591114
+      "sharedVotes": 1577,
+      "agreedVotes": 1408,
+      "alignmentRate": 89.28344958782498
     },
     {
       "councillor": "Elizabeth Peloza",
-      "sharedVotes": 1351,
-      "agreedVotes": 1168,
-      "alignmentRate": 86.45447816432272
+      "sharedVotes": 1373,
+      "agreedVotes": 1188,
+      "alignmentRate": 86.52585579024034
     }
   ],
   "bottomAlignments": [
     {
       "councillor": "Susan Stevenson",
-      "sharedVotes": 1354,
-      "agreedVotes": 1046,
-      "alignmentRate": 77.25258493353027
+      "sharedVotes": 1363,
+      "agreedVotes": 1055,
+      "alignmentRate": 77.40278796771827
     },
     {
       "councillor": "Paul Van Meerbergen",
-      "sharedVotes": 1335,
-      "agreedVotes": 1046,
-      "alignmentRate": 78.35205992509363
+      "sharedVotes": 1359,
+      "agreedVotes": 1068,
+      "alignmentRate": 78.58719646799118
     },
     {
       "councillor": "Steve Hillier",
-      "sharedVotes": 1331,
-      "agreedVotes": 1081,
-      "alignmentRate": 81.21712997746056
+      "sharedVotes": 1352,
+      "agreedVotes": 1101,
+      "alignmentRate": 81.43491124260355
     },
     {
       "councillor": "Shawn Lewis",
-      "sharedVotes": 1449,
-      "agreedVotes": 1195,
-      "alignmentRate": 82.47066942719117
+      "sharedVotes": 1469,
+      "agreedVotes": 1212,
+      "alignmentRate": 82.50510551395507
     },
     {
       "councillor": "Peter Cuddy",
-      "sharedVotes": 1503,
-      "agreedVotes": 1242,
-      "alignmentRate": 82.63473053892216
+      "sharedVotes": 1527,
+      "agreedVotes": 1265,
+      "alignmentRate": 82.84217419777342
     }
   ],
   "notableDissents": [
+    {
+      "date": "2026-06-17",
+      "meetingTitle": "10th Special Meeting of Council",
+      "itemTitle": "Build Communities Strong Fund Provincial and Territorial Stream: Development Charge Reduction Program",
+      "motionText": "That, pursuant to section 2.3 of the Council Procedure By-law, the speaking-once provision contained in section 9.7 of the Council Procedure By-law BE SUSPENDED for the Council meeting held on June 17...",
+      "vote": "yea",
+      "result": "Motion Failed (9 to 4)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=4ded2b07-9300-45c5-9b86-489f66930984&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2026-06-16",
+      "meetingTitle": "8th Meeting of the Strategic Priorities and Policy Committee",
+      "itemTitle": "Downtown Reimagined: City of London Downtown Plan",
+      "motionText": "That the staff report dated June 16, 2026, entitled “Downtown Reimagined: City of London Downtown Plan”, BE REFERRED to a future meeting of the Strategic Priorities and Policy Committee to allow the C...",
+      "vote": "yea",
+      "result": "Motion Failed (3 to 11)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=a1f160a0-0ce3-4a5a-8c16-928242b55c4d&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2026-06-02",
+      "meetingTitle": "9th Meeting of Council",
+      "itemTitle": "(4.1) Review of the London & Middlesex Community Housing Master Regeneration Plan",
+      "motionText": "That, on the recommendation of the Deputy City Manager, Finance Supports and the Deputy City Manager, Housing and Community Growth, the report on the London and Middlesex Community Housing Master Rege...",
+      "vote": "nay",
+      "result": "Motion Passed (12 to 1)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=7241e2a5-5faa-4da2-87e3-5aa7366fda9f&Agenda=PostMinutes&lang=English"
+    },
     {
       "date": "2026-05-28",
       "meetingTitle": "7th Meeting of the Strategic Priorities and Policy Committee",
@@ -189,56 +216,29 @@
       "vote": "nay",
       "result": "Motion Passed (3 to 1)",
       "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=0f86effb-a62a-473d-a937-36ca9a9f4d4a&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-03-03",
-      "meetingTitle": "4th Council Meeting",
-      "itemTitle": "Integrity Commissioner Report on Code of Conduct Complaints 2025-04-A, B & C ",
-      "motionText": "That the Integrity Commissioner Report on Code of Conduct Complaints 2025-04-A, B & C, dated February 24, 2026, BE RECEIVED; it being noted Municipal Council heard a verbal presentation from Meghan A....",
-      "vote": "nay",
-      "result": "Motion Passed (14 to 1)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-03-03",
-      "meetingTitle": "4th Council Meeting",
-      "itemTitle": "(3.5) 550 Ridout Street North & 82-90 Kent Street - OZ-25152 (Relates to Bill No. 105 and 123)",
-      "motionText": "That item 10, clause 3.5, as amended, BE APPROVED. At 2:56 PM, Chair Deputy Mayor S. Lewis, places Councillor H. McAlister in the Chair. At 3:00 PM, Chair Deputy Mayor S. Lewis resumes the Chair.",
-      "vote": "nay",
-      "result": "Motion Passed (11 to 4)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-03-03",
-      "meetingTitle": "4th Council Meeting",
-      "itemTitle": "(2.4) Residential Rental Unit Licensing (RRUL) License Display",
-      "motionText": "That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the findings of Civic Administration regarding the advisability of amending the Residential Rental Unit Licensing ...",
-      "vote": "nay",
-      "result": "Motion Passed (7 to 6)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English"
     }
   ],
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 1964,
-      "yeas": 1410,
-      "nays": 374,
-      "participationRate": 90.83503054989816
+      "totalVotes": 1996,
+      "yeas": 1438,
+      "nays": 376,
+      "participationRate": 90.8817635270541
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 956,
-      "yeas": 659,
+      "totalVotes": 974,
+      "yeas": 677,
       "nays": 126,
-      "participationRate": 82.11297071129707
+      "participationRate": 82.4435318275154
     },
     {
       "committee": "Community and Protective Services Committee",
-      "totalVotes": 347,
-      "yeas": 302,
+      "totalVotes": 355,
+      "yeas": 310,
       "nays": 35,
-      "participationRate": 97.11815561959655
+      "participationRate": 97.1830985915493
     },
     {
       "committee": "Budget Committee",
