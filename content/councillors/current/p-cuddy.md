@@ -2,18 +2,18 @@
 title: "Peter Cuddy"
 type: councillor
 slug: "p-cuddy"
-meetingCount: 225
+meetingCount: 228
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 4115
-votesYea: 3439
-votesNay: 338
+totalVotes: 4165
+votesYea: 3487
+votesNay: 340
 votesAbsent: 338
 attendanceRate: 98.2
-participationRate: 91.8
+participationRate: 91.9
 yeaRate: 91.1
-contestedDissentRate: 11.1
-contestedVotes: 1435
+contestedDissentRate: 11.2
+contestedVotes: 1451
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -30,10 +30,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 4,115 |
-| Voted Yea | 3,439 (83.6%) |
-| Voted Nay | 338 (8.2%) |
-| Absent | 338 (8.2%) |
+| Total Votes | 4,165 |
+| Voted Yea | 3,487 (83.7%) |
+| Voted Nay | 340 (8.2%) |
+| Absent | 338 (8.1%) |
 
 
 ### Substantive Votes
@@ -42,17 +42,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,463 |
-| Voted Yea | 1,879 (85.8%) |
-| Voted Nay | 311 (14.2%) |
+| Substantive Votes | 2,492 |
+| Voted Yea | 1,906 (85.9%) |
+| Voted Nay | 313 (14.1%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 11.1%
-- **Contested Votes**: 1,435
+- **Dissent Rate**: 11.2%
+- **Contested Votes**: 1,451
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -63,16 +63,16 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 387 |
-| Voted Yea | 280 (72.7%) |
-| Voted Nay | 105 (27.3%) |
+| Budget Votes | 388 |
+| Voted Yea | 281 (72.8%) |
+| Voted Nay | 105 (27.2%) |
 | Absent | 2 |
 
 
 ## Attendance
 
 - **Attendance Rate**: 98.2%
-- **Meetings Attended**: 220 of 224
+- **Meetings Attended**: 223 of 227
 - **Meetings Missed**: 4
 - **Trend**: Declining v
 
@@ -80,20 +80,20 @@ prefillQuestions:
   - 2023: 100.0% (61/61 meetings)
   - 2024: 100.0% (67/67 meetings)
   - 2025: 97.2% (69/71 meetings)
-  - 2026: 88.2% (15/17 meetings)
+  - 2026: 90.0% (18/20 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
-- Shawn Lewis (97.6%)
+- Shawn Lewis (97.5%)
 - Steve Lehman (96.3%)
-- Steve Hillier (95.4%)
+- Josh Morgan (95.4%)
 
 **Least aligned with:**
-- Sam Trosow (82.6%)
-- David Ferreira (87.0%)
-- Anna Hopkins (88.2%)
+- Sam Trosow (82.8%)
+- David Ferreira (87.3%)
+- Anna Hopkins (88.4%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -102,8 +102,8 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 1,969 | 1,738 | 159 | 96.3% |
-| Strategic Priorities and Policy Committee | 1,061 | 762 | 79 | 79.3% |
+| Council | 2,001 | 1,770 | 159 | 96.4% |
+| Strategic Priorities and Policy Committee | 1,079 | 778 | 81 | 79.6% |
 | Planning and Environment Committee | 609 | 569 | 8 | 94.7% |
 | Budget Committee | 189 | 116 | 73 | 100.0% |
 | Community and Protective Services Committee | 122 | 101 | 13 | 93.4% |
@@ -114,6 +114,30 @@ prefillQuestions:
 ## Notable Dissenting Votes
 
 *Recent split votes where Peter Cuddy voted against the final outcome:*
+
+### 2026-06-17: Build Communities Strong Fund Provincial and Territorial Stream: Development Charge Reduction Program
+
+[10th Special Meeting of Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=4ded2b07-9300-45c5-9b86-489f66930984&Agenda=PostMinutes&lang=English)
+
+> That, pursuant to section 2.3 of the Council Procedure By-law, the speaking-once provision contained in section 9.7 of the Council Procedure By-law BE SUSPENDED for the Council meeting held on June 17...
+
+Voted **Yea** - Motion Failed (9 to 4)
+
+### 2026-06-16: Downtown Reimagined: City of London Downtown Plan
+
+[8th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=a1f160a0-0ce3-4a5a-8c16-928242b55c4d&Agenda=PostMinutes&lang=English)
+
+> That pursuant to section 31.6 of the Council Procedure By-law, Councillor D. Ferreira BE PERMITTED to speak an additional 3 minutes with respect to this matter.
+
+Voted **Nay** - Motion Passed (11 to 3)
+
+### 2026-06-02: (3.3) 1103 & 1111 Westdel Bourne - OZ-25072
+
+[9th Meeting of Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=7241e2a5-5faa-4da2-87e3-5aa7366fda9f&Agenda=PostMinutes&lang=English)
+
+> That the application of Westdell Development Corporation (c/o MHBC Planning, Urban Design & Landscape Architecture) relating to the property located at 1103 & 1111 Westdel Bourne BE REFERRED to a futu...
+
+Voted **Yea** - Motion Failed (7 to 7)
 
 ### 2026-03-24: Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program - Report Back on Program Options
 
@@ -171,44 +195,23 @@ Voted **Nay** - Motion Passed (11 to 4)
 
 Voted **Nay** - Motion Passed (8 to 7)
 
-### 2026-02-10: (2.4) Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program
-
-[3rd Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English)
-
-> That part b) of the motion BE AMENDED by deleting the words “the term of the loan is extended from five years to ten years” and substituting “and be further revised to a loan term of five years,” it b...
-
-Voted **Yea** - Motion Failed (7 to 8)
-
-### 2026-02-03: Confidential 
-
-[3rd Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=48f12c8d-c951-44dc-905b-05acf0df5b10&Agenda=PostMinutes&lang=English)
-
-> That the Strategic Priorities and Policy Committee convenes In Closed session to consider the following: 6.1    Solicitor-Client Privilege A matter pertaining to advice that is subject to solicitor-cl...
-
-Voted **Nay** - Motion Passed (8 to 6)
-
-### 2025-11-25: (2.6) City's Response to MTO Annual Electric Kick-Scooter Pilot Extension (Relates to Bill No. 405)
-
-[18th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=884a7d5b-61ac-4fa6-92cd-79ba0d612538&Agenda=PostMinutes&lang=English)
-
-> That the motion be amended in part a) to read as follows: a) the revised by-law attached hereto as Appendix “A” BE INTRODUCED at the Municipal Council meeting to be held on November 25, 2025, to amend...
-
-Voted **Nay** - Motion Passed (8 to 7)
-
 
 ## Committees Served
 
+- [City Council](/committees/city-council)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Planning and Environment Committee](/committees/planning-environment)
-- [City Council](/committees/city-council)
 - [Corporate Services Committee](/committees/corporate-services)
 - [Budget Committee](/committees/budget)
 - [Audit Committee](/committees/audit)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [Civic Works Committee](/committees/civic-works)
 
-## Recent Meetings (225 total)
+## Recent Meetings (228 total)
 
+- [10th Special Meeting of Council](</months/2026-06/2026-06-17 10th Special Meeting of Council>) - Wed Jun 17 2026
+- [8th Meeting of the Strategic Priorities and Policy Committee](</months/2026-06/2026-06-16 8th Meeting of the Strategic Priorities and Policy Committee>) - Tue Jun 16 2026
+- [9th Meeting of Council](</months/2026-06/2026-06-02 9th Meeting of Council>) - Tue Jun 2 2026
 - [7th Meeting of the Strategic Priorities and Policy Committee](</months/2026-05/2026-05-28 7th Meeting of the Strategic Priorities and Policy Committee>) - Thu May 28 2026
 - [The 8th Meeting of the Planning and Environment Committee](</months/2026-05/2026-05-26 The 8th Meeting of the Planning and Environment Committee>) - Tue May 26 2026
 - [8th Meeting of Council](</months/2026-05/2026-05-12 8th Meeting of Council>) - Tue May 12 2026
@@ -216,6 +219,3 @@ Voted **Nay** - Motion Passed (8 to 7)
 - [6th Meeting of the Strategic Priorities and Policy Committee](</months/2026-04/2026-04-21 6th Meeting of the Strategic Priorities and Policy Committee>) - Tue Apr 21 2026
 - [The 6th Meeting of the Planning and Environment Committee](</months/2026-04/2026-04-14 The 6th Meeting of the Planning and Environment Committee>) - Tue Apr 14 2026
 - [5th Meeting of the Strategic Priorities and Policy Committee](</months/2026-03/2026-03-24 5th Meeting of the Strategic Priorities and Policy Committee>) - Tue Mar 24 2026
-- [5th Meeting of the Planning and Environment Committee](</months/2026-03/2026-03-10 5th Meeting of the Planning and Environment Committee>) - Tue Mar 10 2026
-- [4th Council Meeting](</months/2026-03/2026-03-03 4th Council Meeting>) - Tue Mar 3 2026
-- [4th Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-24 4th Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 24 2026

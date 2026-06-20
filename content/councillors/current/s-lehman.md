@@ -2,18 +2,18 @@
 title: "Steve Lehman"
 type: councillor
 slug: "s-lehman"
-meetingCount: 405
+meetingCount: 408
 yearsActive: "2018 - 2026"
 isCurrent: true
-totalVotes: 7664
-votesYea: 6606
-votesNay: 414
-votesAbsent: 644
+totalVotes: 7714
+votesYea: 6652
+votesNay: 416
+votesAbsent: 646
 attendanceRate: 96.4
 participationRate: 91.6
 yeaRate: 94.1
-contestedDissentRate: 10.1
-contestedVotes: 2187
+contestedDissentRate: 10.0
+contestedVotes: 2202
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -30,10 +30,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 7,664 |
-| Voted Yea | 6,606 (86.2%) |
-| Voted Nay | 414 (5.4%) |
-| Absent | 644 (8.4%) |
+| Total Votes | 7,714 |
+| Voted Yea | 6,652 (86.2%) |
+| Voted Nay | 416 (5.4%) |
+| Absent | 646 (8.4%) |
 
 
 ### Substantive Votes
@@ -42,17 +42,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 4,477 |
-| Voted Yea | 3,595 (90.4%) |
-| Voted Nay | 381 (9.6%) |
+| Substantive Votes | 4,506 |
+| Voted Yea | 3,620 (90.4%) |
+| Voted Nay | 383 (9.6%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 10.1%
-- **Contested Votes**: 2,187
+- **Dissent Rate**: 10.0%
+- **Contested Votes**: 2,202
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -63,16 +63,16 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 719 |
-| Voted Yea | 585 (83.9%) |
-| Voted Nay | 112 (16.1%) |
+| Budget Votes | 720 |
+| Voted Yea | 586 (84.0%) |
+| Voted Nay | 112 (16.0%) |
 | Absent | 22 |
 
 
 ## Attendance
 
 - **Attendance Rate**: 96.4%
-- **Meetings Attended**: 397 of 412
+- **Meetings Attended**: 400 of 415
 - **Meetings Missed**: 15
 - **Trend**: Stable -
 
@@ -80,19 +80,19 @@ prefillQuestions:
   - 2023: 96.7% (58/60 meetings)
   - 2024: 90.5% (57/63 meetings)
   - 2025: 96.3% (52/54 meetings)
-  - 2026: 93.8% (15/16 meetings)
+  - 2026: 94.7% (18/19 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
-- Shawn Lewis (97.2%)
+- Shawn Lewis (97.1%)
 - Josh Morgan (96.5%)
 - Steve Hillier (96.4%)
 
 **Least aligned with:**
-- Sam Trosow (83.6%)
-- David Ferreira (86.7%)
+- Sam Trosow (83.8%)
+- David Ferreira (87.0%)
 - Susan Stevenson (88.5%)
 
 [View full voting alignment →](/councillors/alignment)
@@ -102,8 +102,8 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 3,912 | 3,600 | 216 | 97.5% |
-| Strategic Priorities and Policy Committee | 1,977 | 1,441 | 113 | 78.6% |
+| Council | 3,944 | 3,631 | 217 | 97.6% |
+| Strategic Priorities and Policy Committee | 1,995 | 1,456 | 114 | 78.7% |
 | Planning and Environment Committee | 1,475 | 1,327 | 26 | 91.7% |
 | Budget Committee | 189 | 130 | 58 | 99.5% |
 | Civic Works Committee | 111 | 108 | 1 | 98.2% |
@@ -112,6 +112,14 @@ prefillQuestions:
 ## Notable Dissenting Votes
 
 *Recent split votes where Steve Lehman voted against the final outcome:*
+
+### 2026-06-02: (3.3) 1103 & 1111 Westdel Bourne - OZ-25072
+
+[9th Meeting of Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=7241e2a5-5faa-4da2-87e3-5aa7366fda9f&Agenda=PostMinutes&lang=English)
+
+> That the application of Westdell Development Corporation (c/o MHBC Planning, Urban Design & Landscape Architecture) relating to the property located at 1103 & 1111 Westdel Bourne BE REFERRED to a futu...
+
+Voted **Yea** - Motion Failed (7 to 7)
 
 ### 2026-05-05: 945 Bluegrass Drive - OZ-26019
 
@@ -185,26 +193,21 @@ Voted **Nay** - Motion Passed (8 to 7)
 
 Voted **Yea** - Motion Failed (7 to 8)
 
-### 2026-02-03: Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program
-
-[3rd Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=48f12c8d-c951-44dc-905b-05acf0df5b10&Agenda=PostMinutes&lang=English)
-
-> That Mayoral Directive 2026-001: Creation of an Affordable Home Ownership Incentive Program BE REFERRED to a future meeting of the Strategic Priorities and Policy Committee for a report back on the fo...
-
-Voted **Yea** - Motion Failed (7 to 7)
-
 
 ## Committees Served
 
+- [City Council](/committees/city-council)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Planning and Environment Committee](/committees/planning-environment)
-- [City Council](/committees/city-council)
 - [Budget Committee](/committees/budget)
 - [Corporate Services Committee](/committees/corporate-services)
 - [Civic Works Committee](/committees/civic-works)
 
-## Recent Meetings (405 total)
+## Recent Meetings (408 total)
 
+- [10th Special Meeting of Council](</months/2026-06/2026-06-17 10th Special Meeting of Council>) - Wed Jun 17 2026
+- [8th Meeting of the Strategic Priorities and Policy Committee](</months/2026-06/2026-06-16 8th Meeting of the Strategic Priorities and Policy Committee>) - Tue Jun 16 2026
+- [9th Meeting of Council](</months/2026-06/2026-06-02 9th Meeting of Council>) - Tue Jun 2 2026
 - [7th Meeting of the Strategic Priorities and Policy Committee](</months/2026-05/2026-05-28 7th Meeting of the Strategic Priorities and Policy Committee>) - Thu May 28 2026
 - [The 8th Meeting of the Planning and Environment Committee](</months/2026-05/2026-05-26 The 8th Meeting of the Planning and Environment Committee>) - Tue May 26 2026
 - [8th Meeting of Council](</months/2026-05/2026-05-12 8th Meeting of Council>) - Tue May 12 2026
@@ -212,6 +215,3 @@ Voted **Yea** - Motion Failed (7 to 7)
 - [6th Meeting of the Strategic Priorities and Policy Committee](</months/2026-04/2026-04-21 6th Meeting of the Strategic Priorities and Policy Committee>) - Tue Apr 21 2026
 - [The 6th Meeting of the Planning and Environment Committee](</months/2026-04/2026-04-14 The 6th Meeting of the Planning and Environment Committee>) - Tue Apr 14 2026
 - [5th Meeting of the Planning and Environment Committee](</months/2026-03/2026-03-10 5th Meeting of the Planning and Environment Committee>) - Tue Mar 10 2026
-- [4th Council Meeting](</months/2026-03/2026-03-03 4th Council Meeting>) - Tue Mar 3 2026
-- [4th Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-24 4th Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 24 2026
-- [4th Meeting of the Planning and Environment Committee](</months/2026-02/2026-02-18 4th Meeting of the Planning and Environment Committee>) - Wed Feb 18 2026

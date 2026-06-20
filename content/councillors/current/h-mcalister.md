@@ -2,18 +2,18 @@
 title: "Hadleigh McAlister"
 type: councillor
 slug: "h-mcalister"
-meetingCount: 226
+meetingCount: 230
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 3811
-votesYea: 3070
-votesNay: 274
+totalVotes: 3867
+votesYea: 3123
+votesNay: 277
 votesAbsent: 467
-attendanceRate: 94.5
-participationRate: 87.7
-yeaRate: 91.8
-contestedDissentRate: 14.4
-contestedVotes: 1404
+attendanceRate: 94.6
+participationRate: 87.9
+yeaRate: 91.9
+contestedDissentRate: 14.2
+contestedVotes: 1423
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -30,10 +30,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 3,811 |
-| Voted Yea | 3,070 (80.6%) |
-| Voted Nay | 274 (7.2%) |
-| Absent | 467 (12.3%) |
+| Total Votes | 3,867 |
+| Voted Yea | 3,123 (80.8%) |
+| Voted Nay | 277 (7.2%) |
+| Absent | 467 (12.1%) |
 
 
 ### Substantive Votes
@@ -42,17 +42,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,410 |
-| Voted Yea | 1,795 (88.0%) |
-| Voted Nay | 245 (12.0%) |
+| Substantive Votes | 2,442 |
+| Voted Yea | 1,824 (88.0%) |
+| Voted Nay | 248 (12.0%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 14.4%
-- **Contested Votes**: 1,404
+- **Dissent Rate**: 14.2%
+- **Contested Votes**: 1,423
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -63,16 +63,16 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 389 |
-| Voted Yea | 307 (84.3%) |
-| Voted Nay | 57 (15.7%) |
+| Budget Votes | 390 |
+| Voted Yea | 308 (84.4%) |
+| Voted Nay | 57 (15.6%) |
 | Absent | 25 |
 
 
 ## Attendance
 
-- **Attendance Rate**: 94.5%
-- **Meetings Attended**: 222 of 235
+- **Attendance Rate**: 94.6%
+- **Meetings Attended**: 226 of 239
 - **Meetings Missed**: 13
 - **Trend**: Stable -
 
@@ -80,20 +80,20 @@ prefillQuestions:
   - 2023: 90.9% (70/77 meetings)
   - 2024: 93.4% (71/76 meetings)
   - 2025: 98.2% (54/55 meetings)
-  - 2026: 100.0% (18/18 meetings)
+  - 2026: 100.0% (22/22 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
-- Skylar Franke (94.9%)
-- Josh Morgan (94.4%)
-- Anna Hopkins (93.7%)
+- Skylar Franke (95.0%)
+- Josh Morgan (94.5%)
+- Anna Hopkins (93.8%)
 
 **Least aligned with:**
 - Susan Stevenson (84.8%)
-- Paul Van Meerbergen (88.3%)
-- Sam Trosow (89.2%)
+- Paul Van Meerbergen (88.4%)
+- Sam Trosow (89.3%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -102,13 +102,13 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 1,972 | 1,677 | 134 | 91.8% |
-| Strategic Priorities and Policy Committee | 1,055 | 752 | 69 | 77.8% |
+| Council | 2,004 | 1,707 | 136 | 92.0% |
+| Strategic Priorities and Policy Committee | 1,073 | 769 | 70 | 78.2% |
 | Community and Protective Services Committee | 266 | 228 | 14 | 91.0% |
 | Budget Committee | 189 | 135 | 39 | 92.1% |
 | Corporate Services Committee | 164 | 130 | 1 | 79.9% |
 | Civic Works Committee | 90 | 81 | 9 | 100.0% |
-| Infrastructure and Corporate Services Committee | 75 | 67 | 8 | 100.0% |
+| Infrastructure and Corporate Services Committee | 81 | 73 | 8 | 100.0% |
 
 
 ## Notable Dissenting Votes
@@ -198,22 +198,22 @@ Voted **Nay** - Motion Passed (10 to 5)
 
 ## Committees Served
 
+- [City Council](/committees/city-council)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Corporate Services Committee](/committees/corporate-services)
-- [City Council](/committees/city-council)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [Budget Committee](/committees/budget)
 - [Civic Works Committee](/committees/civic-works)
 
-## Recent Meetings (226 total)
+## Recent Meetings (230 total)
 
+- [10th Special Meeting of Council](</months/2026-06/2026-06-17 10th Special Meeting of Council>) - Wed Jun 17 2026
+- [8th Meeting of the Strategic Priorities and Policy Committee](</months/2026-06/2026-06-16 8th Meeting of the Strategic Priorities and Policy Committee>) - Tue Jun 16 2026
+- [11th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-06/2026-06-15 11th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Jun 15 2026
+- [9th Meeting of Council](</months/2026-06/2026-06-02 9th Meeting of Council>) - Tue Jun 2 2026
 - [7th Meeting of the Strategic Priorities and Policy Committee](</months/2026-05/2026-05-28 7th Meeting of the Strategic Priorities and Policy Committee>) - Thu May 28 2026
 - [10th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-05/2026-05-27 10th Meeting of the Infrastructure and Corporate Services Committee>) - Wed May 27 2026
 - [8th Meeting of Council](</months/2026-05/2026-05-12 8th Meeting of Council>) - Tue May 12 2026
 - [9th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-05/2026-05-06 9th Meeting of the Infrastructure and Corporate Services Committee>) - Wed May 6 2026
 - [6th Meeting of the Strategic Priorities and Policy Committee](</months/2026-04/2026-04-21 6th Meeting of the Strategic Priorities and Policy Committee>) - Tue Apr 21 2026
 - [7th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-04/2026-04-20 7th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Apr 20 2026
-- [6th Meeting of the Community and Protective Services Committee](</months/2026-04/2026-04-13 6th Meeting of the Community and Protective Services Committee>) - Mon Apr 13 2026
-- [5th Meeting of the Strategic Priorities and Policy Committee](</months/2026-03/2026-03-24 5th Meeting of the Strategic Priorities and Policy Committee>) - Tue Mar 24 2026
-- [6th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-03/2026-03-23 6th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Mar 23 2026
-- [4th Council Meeting](</months/2026-03/2026-03-03 4th Council Meeting>) - Tue Mar 3 2026

@@ -2,18 +2,18 @@
 title: "Skylar Franke"
 type: councillor
 slug: "s-franke"
-meetingCount: 202
+meetingCount: 206
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 3922
-votesYea: 3286
-votesNay: 325
-votesAbsent: 311
+totalVotes: 3978
+votesYea: 3336
+votesNay: 327
+votesAbsent: 315
 attendanceRate: 96.1
 participationRate: 92.1
-yeaRate: 91.0
-contestedDissentRate: 23.3
-contestedVotes: 1393
+yeaRate: 91.1
+contestedDissentRate: 23.1
+contestedVotes: 1412
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -30,10 +30,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 3,922 |
-| Voted Yea | 3,286 (83.8%) |
-| Voted Nay | 325 (8.3%) |
-| Absent | 311 (7.9%) |
+| Total Votes | 3,978 |
+| Voted Yea | 3,336 (83.9%) |
+| Voted Nay | 327 (8.2%) |
+| Absent | 315 (7.9%) |
 
 
 ### Substantive Votes
@@ -42,17 +42,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,277 |
-| Voted Yea | 1,755 (86.5%) |
-| Voted Nay | 274 (13.5%) |
+| Substantive Votes | 2,309 |
+| Voted Yea | 1,784 (86.6%) |
+| Voted Nay | 276 (13.4%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 23.3%
-- **Contested Votes**: 1,393
+- **Dissent Rate**: 23.1%
+- **Contested Votes**: 1,412
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -63,8 +63,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 384 |
-| Voted Yea | 298 (80.8%) |
+| Budget Votes | 385 |
+| Voted Yea | 299 (80.8%) |
 | Voted Nay | 71 (19.2%) |
 | Absent | 15 |
 
@@ -72,7 +72,7 @@ prefillQuestions:
 ## Attendance
 
 - **Attendance Rate**: 96.1%
-- **Meetings Attended**: 195 of 203
+- **Meetings Attended**: 199 of 207
 - **Meetings Missed**: 8
 - **Trend**: Stable -
 
@@ -80,20 +80,20 @@ prefillQuestions:
   - 2023: 98.4% (60/61 meetings)
   - 2024: 97.0% (65/67 meetings)
   - 2025: 91.8% (45/49 meetings)
-  - 2026: 94.4% (17/18 meetings)
+  - 2026: 95.5% (21/22 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
-- Hadleigh McAlister (94.9%)
-- Anna Hopkins (94.7%)
-- David Ferreira (93.0%)
+- Hadleigh McAlister (95.0%)
+- Anna Hopkins (94.8%)
+- David Ferreira (93.1%)
 
 **Least aligned with:**
 - Susan Stevenson (81.3%)
-- Paul Van Meerbergen (84.8%)
-- Steve Hillier (89.2%)
+- Paul Van Meerbergen (85.0%)
+- Steve Hillier (89.3%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -102,17 +102,25 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 1,963 | 1,712 | 173 | 96.0% |
-| Strategic Priorities and Policy Committee | 925 | 650 | 69 | 77.7% |
+| Council | 1,995 | 1,739 | 174 | 95.9% |
+| Strategic Priorities and Policy Committee | 943 | 667 | 70 | 78.2% |
 | Planning and Environment Committee | 632 | 600 | 22 | 98.4% |
 | Budget Committee | 189 | 142 | 47 | 100.0% |
-| Infrastructure and Corporate Services Committee | 158 | 131 | 14 | 91.8% |
+| Infrastructure and Corporate Services Committee | 164 | 137 | 14 | 92.1% |
 | Civic Works Committee | 55 | 51 | 0 | 92.7% |
 
 
 ## Notable Dissenting Votes
 
 *Recent split votes where Skylar Franke voted against the final outcome:*
+
+### 2026-06-17: Build Communities Strong Fund Provincial and Territorial Stream: Development Charge Reduction Program
+
+[10th Special Meeting of Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=4ded2b07-9300-45c5-9b86-489f66930984&Agenda=PostMinutes&lang=English)
+
+> That, pursuant to section 2.3 of the Council Procedure By-law, the speaking-once provision contained in section 9.7 of the Council Procedure By-law BE SUSPENDED for the Council meeting held on June 17...
+
+Voted **Yea** - Motion Failed (9 to 4)
 
 ### 2026-05-12: (3.3) 945 Bluegrass Drive - OZ-26019 (Relates to Bill No. 194 and 210)
 
@@ -186,34 +194,26 @@ Voted **Nay** - Motion Passed (11 to 3)
 
 Voted **Nay** - Motion Passed (11 to 3)
 
-### 2026-03-03: (2.4) Residential Rental Unit Licensing (RRUL) License Display
-
-[4th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
-
-> That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the findings of Civic Administration regarding the advisability of amending the Residential Rental Unit Licensing ...
-
-Voted **Nay** - Motion Passed (7 to 6)
-
 
 ## Committees Served
 
+- [City Council](/committees/city-council)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Corporate Services Committee](/committees/corporate-services)
-- [City Council](/committees/city-council)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [Planning and Environment Committee](/committees/planning-environment)
 - [Budget Committee](/committees/budget)
 - [Civic Works Committee](/committees/civic-works)
 
-## Recent Meetings (202 total)
+## Recent Meetings (206 total)
 
+- [10th Special Meeting of Council](</months/2026-06/2026-06-17 10th Special Meeting of Council>) - Wed Jun 17 2026
+- [8th Meeting of the Strategic Priorities and Policy Committee](</months/2026-06/2026-06-16 8th Meeting of the Strategic Priorities and Policy Committee>) - Tue Jun 16 2026
+- [11th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-06/2026-06-15 11th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Jun 15 2026
+- [9th Meeting of Council](</months/2026-06/2026-06-02 9th Meeting of Council>) - Tue Jun 2 2026
 - [7th Meeting of the Strategic Priorities and Policy Committee](</months/2026-05/2026-05-28 7th Meeting of the Strategic Priorities and Policy Committee>) - Thu May 28 2026
 - [10th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-05/2026-05-27 10th Meeting of the Infrastructure and Corporate Services Committee>) - Wed May 27 2026
 - [8th Meeting of Council](</months/2026-05/2026-05-12 8th Meeting of Council>) - Tue May 12 2026
 - [6th Meeting of the Strategic Priorities and Policy Committee](</months/2026-04/2026-04-21 6th Meeting of the Strategic Priorities and Policy Committee>) - Tue Apr 21 2026
 - [7th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-04/2026-04-20 7th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Apr 20 2026
 - [5th Meeting of the Strategic Priorities and Policy Committee](</months/2026-03/2026-03-24 5th Meeting of the Strategic Priorities and Policy Committee>) - Tue Mar 24 2026
-- [6th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-03/2026-03-23 6th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Mar 23 2026
-- [4th Council Meeting](</months/2026-03/2026-03-03 4th Council Meeting>) - Tue Mar 3 2026
-- [5th Special Meeting of the Infrastructure and Corporate Services Committee](</months/2026-03/2026-03-02 5th Special Meeting of the Infrastructure and Corporate Services Committee>) - Mon Mar 2 2026
-- [4th Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-24 4th Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 24 2026

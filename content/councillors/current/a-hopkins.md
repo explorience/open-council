@@ -2,18 +2,18 @@
 title: "Anna Hopkins"
 type: councillor
 slug: "a-hopkins"
-meetingCount: 657
+meetingCount: 662
 yearsActive: "2014 - 2026"
 isCurrent: true
-totalVotes: 9710
-votesYea: 8413
-votesNay: 715
+totalVotes: 9768
+votesYea: 8469
+votesNay: 717
 votesAbsent: 582
-attendanceRate: 96.7
+attendanceRate: 96.8
 participationRate: 94.0
 yeaRate: 92.2
 contestedDissentRate: 12.9
-contestedVotes: 4955
+contestedVotes: 4972
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -30,9 +30,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 9,710 |
-| Voted Yea | 8,413 (86.6%) |
-| Voted Nay | 715 (7.4%) |
+| Total Votes | 9,768 |
+| Voted Yea | 8,469 (86.7%) |
+| Voted Nay | 717 (7.3%) |
 | Absent | 582 (6.0%) |
 
 
@@ -42,9 +42,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 7,009 |
-| Voted Yea | 5,931 (90.9%) |
-| Voted Nay | 594 (9.1%) |
+| Substantive Votes | 7,045 |
+| Voted Yea | 5,965 (90.9%) |
+| Voted Nay | 596 (9.1%) |
 
 
 ### Dissent on Contested Votes
@@ -52,7 +52,7 @@ prefillQuestions:
 *Only counts non-unanimous votes where the councillor participated*
 
 - **Dissent Rate**: 12.9%
-- **Contested Votes**: 4,955
+- **Contested Votes**: 4,972
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -63,16 +63,16 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 1,100 |
-| Voted Yea | 927 (84.5%) |
+| Budget Votes | 1,101 |
+| Voted Yea | 928 (84.5%) |
 | Voted Nay | 170 (15.5%) |
 | Absent | 3 |
 
 
 ## Attendance
 
-- **Attendance Rate**: 96.7%
-- **Meetings Attended**: 710 of 734
+- **Attendance Rate**: 96.8%
+- **Meetings Attended**: 715 of 739
 - **Meetings Missed**: 24
 - **Trend**: Stable -
 
@@ -80,20 +80,20 @@ prefillQuestions:
   - 2023: 91.7% (55/60 meetings)
   - 2024: 98.4% (60/61 meetings)
   - 2025: 96.4% (53/55 meetings)
-  - 2026: 93.8% (15/16 meetings)
+  - 2026: 95.2% (20/21 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
-- Skylar Franke (94.7%)
-- Hadleigh McAlister (93.7%)
+- Skylar Franke (94.8%)
+- Hadleigh McAlister (93.8%)
 - Josh Morgan (93.6%)
 
 **Least aligned with:**
-- Susan Stevenson (81.0%)
-- Paul Van Meerbergen (86.0%)
-- Peter Cuddy (88.2%)
+- Susan Stevenson (81.1%)
+- Paul Van Meerbergen (86.1%)
+- Steve Hillier (88.4%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -102,19 +102,27 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 4,307 | 3,823 | 400 | 98.0% |
-| Strategic Priorities and Policy Committee | 2,728 | 2,056 | 208 | 83.0% |
+| Council | 4,339 | 3,854 | 401 | 98.1% |
+| Strategic Priorities and Policy Committee | 2,746 | 2,073 | 209 | 83.1% |
 | Planning and Environment Committee | 1,830 | 1,773 | 39 | 99.0% |
 | Civic Works Committee | 318 | 313 | 5 | 100.0% |
 | Budget Committee | 189 | 138 | 49 | 98.9% |
 | Corporate Services Committee | 174 | 169 | 2 | 98.3% |
+| Community and Protective Services Committee | 89 | 73 | 7 | 89.9% |
 | Infrastructure and Corporate Services Committee | 83 | 76 | 5 | 97.6% |
-| Community and Protective Services Committee | 81 | 65 | 7 | 88.9% |
 
 
 ## Notable Dissenting Votes
 
 *Recent split votes where Anna Hopkins voted against the final outcome:*
+
+### 2026-06-17: Build Communities Strong Fund Provincial and Territorial Stream: Development Charge Reduction Program
+
+[10th Special Meeting of Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=4ded2b07-9300-45c5-9b86-489f66930984&Agenda=PostMinutes&lang=English)
+
+> That, pursuant to section 2.3 of the Council Procedure By-law, the speaking-once provision contained in section 9.7 of the Council Procedure By-law BE SUSPENDED for the Council meeting held on June 17...
+
+Voted **Yea** - Motion Failed (9 to 4)
 
 ### 2026-05-12: (3.3) 945 Bluegrass Drive - OZ-26019 (Relates to Bill No. 194 and 210)
 
@@ -188,35 +196,27 @@ Voted **Nay** - Motion Passed (7 to 6)
 
 Voted **Yea** - Motion Failed (5 to 8)
 
-### 2026-03-03: (4.1) Request for Reimbursement for Private Property Cleaning and Graffiti Removal Services
-
-[4th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
-
-> That the Civic Administration BE DIRECTED to immediately reimburse the Old East Village BIA in the amount of $14,152.33 from the Community Investment Reserve Fund for previously expended costs related...
-
-Voted **Nay** - Motion Passed (10 to 3)
-
 
 ## Committees Served
 
-- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
-- [Community and Protective Services Committee](/committees/community-protective-services)
 - [City Council](/committees/city-council)
+- [Community and Protective Services Committee](/committees/community-protective-services)
+- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Budget Committee](/committees/budget)
 - [Corporate Services Committee](/committees/corporate-services)
 - [Civic Works Committee](/committees/civic-works)
 - [Planning and Environment Committee](/committees/planning-environment)
 - [Audit Committee](/committees/audit)
 
-## Recent Meetings (657 total)
+## Recent Meetings (662 total)
 
+- [10th Special Meeting of Council](</months/2026-06/2026-06-17 10th Special Meeting of Council>) - Wed Jun 17 2026
+- [10th Special Meeting of the Community and Protective Services Committee](</months/2026-06/2026-06-16 10th Special Meeting of the Community and Protective Services Committee>) - Tue Jun 16 2026
+- [8th Meeting of the Strategic Priorities and Policy Committee](</months/2026-06/2026-06-16 8th Meeting of the Strategic Priorities and Policy Committee>) - Tue Jun 16 2026
+- [9th Meeting of the Community and Protective Services Committee](</months/2026-06/2026-06-08 9th Meeting of the Community and Protective Services Committee>) - Mon Jun 8 2026
+- [9th Meeting of Council](</months/2026-06/2026-06-02 9th Meeting of Council>) - Tue Jun 2 2026
 - [7th Meeting of the Strategic Priorities and Policy Committee](</months/2026-05/2026-05-28 7th Meeting of the Strategic Priorities and Policy Committee>) - Thu May 28 2026
 - [8th Meeting of the Community and Protective Services Committee](</months/2026-05/2026-05-25 8th Meeting of the Community and Protective Services Committee>) - Mon May 25 2026
 - [8th Meeting of Council](</months/2026-05/2026-05-12 8th Meeting of Council>) - Tue May 12 2026
 - [7th Meeting of the Community and Protective Services Committee](</months/2026-05/2026-05-04 7th Meeting of the Community and Protective Services Committee>) - Mon May 4 2026
 - [6th Meeting of the Community and Protective Services Committee](</months/2026-04/2026-04-13 6th Meeting of the Community and Protective Services Committee>) - Mon Apr 13 2026
-- [5th Meeting of the Strategic Priorities and Policy Committee](</months/2026-03/2026-03-24 5th Meeting of the Strategic Priorities and Policy Committee>) - Tue Mar 24 2026
-- [5th Special Meeting of the Community and Protective Services Committee](</months/2026-03/2026-03-13 5th Special Meeting of the Community and Protective Services Committee>) - Fri Mar 13 2026
-- [4th Meeting of the Community and Protective Services Committee](</months/2026-03/2026-03-09 4th Meeting of the Community and Protective Services Committee>) - Mon Mar 9 2026
-- [4th Council Meeting](</months/2026-03/2026-03-03 4th Council Meeting>) - Tue Mar 3 2026
-- [4th Meeting of the Strategic Priorities and Policy Committee](</months/2026-02/2026-02-24 4th Meeting of the Strategic Priorities and Policy Committee>) - Tue Feb 24 2026

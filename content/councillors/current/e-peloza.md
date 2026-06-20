@@ -2,18 +2,18 @@
 title: "Elizabeth Peloza"
 type: councillor
 slug: "e-peloza"
-meetingCount: 474
+meetingCount: 479
 yearsActive: "2018 - 2026"
 isCurrent: true
-totalVotes: 7339
-votesYea: 5957
-votesNay: 518
-votesAbsent: 864
+totalVotes: 7395
+votesYea: 6001
+votesNay: 520
+votesAbsent: 874
 attendanceRate: 98.0
 participationRate: 88.2
 yeaRate: 92.0
 contestedDissentRate: 17.2
-contestedVotes: 2049
+contestedVotes: 2063
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -30,10 +30,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 7,339 |
-| Voted Yea | 5,957 (81.2%) |
-| Voted Nay | 518 (7.1%) |
-| Absent | 864 (11.8%) |
+| Total Votes | 7,395 |
+| Voted Yea | 6,001 (81.1%) |
+| Voted Nay | 520 (7.0%) |
+| Absent | 874 (11.8%) |
 
 
 ### Substantive Votes
@@ -42,9 +42,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 4,501 |
-| Voted Yea | 3,353 (88.0%) |
-| Voted Nay | 457 (12.0%) |
+| Substantive Votes | 4,533 |
+| Voted Yea | 3,376 (88.0%) |
+| Voted Nay | 459 (12.0%) |
 
 
 ### Dissent on Contested Votes
@@ -52,7 +52,7 @@ prefillQuestions:
 *Only counts non-unanimous votes where the councillor participated*
 
 - **Dissent Rate**: 17.2%
-- **Contested Votes**: 2,049
+- **Contested Votes**: 2,063
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -63,16 +63,16 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 719 |
+| Budget Votes | 720 |
 | Voted Yea | 573 (83.0%) |
 | Voted Nay | 117 (17.0%) |
-| Absent | 29 |
+| Absent | 30 |
 
 
 ## Attendance
 
 - **Attendance Rate**: 98.0%
-- **Meetings Attended**: 431 of 440
+- **Meetings Attended**: 435 of 444
 - **Meetings Missed**: 9
 - **Trend**: Declining v
 
@@ -80,7 +80,7 @@ prefillQuestions:
   - 2023: 98.3% (57/58 meetings)
   - 2024: 95.3% (61/64 meetings)
   - 2025: 96.6% (56/58 meetings)
-  - 2026: 88.9% (16/18 meetings)
+  - 2026: 90.9% (20/22 meetings)
 
 
 ## Voting Alignment
@@ -91,9 +91,9 @@ prefillQuestions:
 - Steve Lehman (94.7%)
 
 **Least aligned with:**
-- Susan Stevenson (84.4%)
+- Susan Stevenson (84.3%)
 - Sam Trosow (86.5%)
-- David Ferreira (89.0%)
+- David Ferreira (89.1%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -102,19 +102,35 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 3,975 | 3,452 | 263 | 93.5% |
-| Strategic Priorities and Policy Committee | 2,075 | 1,391 | 133 | 73.4% |
+| Council | 4,007 | 3,481 | 264 | 93.5% |
+| Strategic Priorities and Policy Committee | 2,093 | 1,400 | 134 | 73.3% |
 | Planning and Environment Committee | 385 | 364 | 19 | 99.5% |
 | Community and Protective Services Committee | 320 | 270 | 22 | 91.3% |
 | Civic Works Committee | 284 | 274 | 8 | 99.3% |
 | Budget Committee | 189 | 122 | 67 | 100.0% |
 | Corporate Services Committee | 74 | 53 | 1 | 73.0% |
-| Infrastructure and Corporate Services Committee | 37 | 31 | 5 | 97.3% |
+| Infrastructure and Corporate Services Committee | 43 | 37 | 5 | 97.7% |
 
 
 ## Notable Dissenting Votes
 
 *Recent split votes where Elizabeth Peloza voted against the final outcome:*
+
+### 2026-06-17: Build Communities Strong Fund Provincial and Territorial Stream: Development Charge Reduction Program
+
+[10th Special Meeting of Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=4ded2b07-9300-45c5-9b86-489f66930984&Agenda=PostMinutes&lang=English)
+
+> That, pursuant to section 2.3 of the Council Procedure By-law, the speaking-once provision contained in section 9.7 of the Council Procedure By-law BE SUSPENDED for the Council meeting held on June 17...
+
+Voted **Yea** - Motion Failed (9 to 4)
+
+### 2026-06-16: Not to be heard before 1:05 PM - London & Middlesex Community Housing - 2025 Annual General Meeting of the Shareholder Annual Resolutions
+
+[8th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=a1f160a0-0ce3-4a5a-8c16-928242b55c4d&Agenda=PostMinutes&lang=English)
+
+> That pursuant to section 31.6 of the Council Procedure By-law, Councillor S. Trosow BE PERMITTED to speak an additional 2 minutes with respect to this matter.
+
+Voted **Nay** - Motion Passed (13 to 2)
 
 ### 2026-05-27: 2026 Reserve and Reserve Fund Monitoring and Housekeeping Report
 
@@ -180,44 +196,28 @@ Voted **Nay** - Motion Passed (4 to 2)
 
 Voted **Nay** - Motion Passed (4 to 1)
 
-### 2026-02-24: London UNESCO City of Music Action Plan 2021-2025 Update
-
-[4th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=c65ee658-ddb0-4c2b-af83-bf63cbb8048d&Agenda=PostMinutes&lang=English)
-
-> That pursuant to section 31.6 of the Council Procedure By-law, Councillor Trosow BE PERMITTED to speak an additional 2 minutes with respect to this matter.
-
-Voted **Nay** - Motion Passed (12 to 2)
-
-### 2026-02-10: (2.3) Sunningdale Road West Improvements – Pipeline Decommissioning and New Pipeline Agreement (Relates to Bill No. 63)
-
-[3rd Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English)
-
-> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to an oil pipeline relocation agreement with Imperial Oil for the Su...
-
-Voted **Nay** - Motion Passed (10 to 5)
-
 
 ## Committees Served
 
-- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
-- [Corporate Services Committee](/committees/corporate-services)
 - [City Council](/committees/city-council)
 - [Community and Protective Services Committee](/committees/community-protective-services)
+- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
+- [Corporate Services Committee](/committees/corporate-services)
 - [Audit Committee](/committees/audit)
 - [Planning and Environment Committee](/committees/planning-environment)
 - [Budget Committee](/committees/budget)
 - [Civic Works Committee](/committees/civic-works)
 - [Community Protective Services Committee](/committees/community-protective-services-committee)
 
-## Recent Meetings (474 total)
+## Recent Meetings (479 total)
 
+- [10th Special Meeting of Council](</months/2026-06/2026-06-17 10th Special Meeting of Council>) - Wed Jun 17 2026
+- [10th Special Meeting of the Community and Protective Services Committee](</months/2026-06/2026-06-16 10th Special Meeting of the Community and Protective Services Committee>) - Tue Jun 16 2026
+- [8th Meeting of the Strategic Priorities and Policy Committee](</months/2026-06/2026-06-16 8th Meeting of the Strategic Priorities and Policy Committee>) - Tue Jun 16 2026
+- [11th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-06/2026-06-15 11th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Jun 15 2026
+- [9th Meeting of Council](</months/2026-06/2026-06-02 9th Meeting of Council>) - Tue Jun 2 2026
 - [7th Meeting of the Strategic Priorities and Policy Committee](</months/2026-05/2026-05-28 7th Meeting of the Strategic Priorities and Policy Committee>) - Thu May 28 2026
 - [10th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-05/2026-05-27 10th Meeting of the Infrastructure and Corporate Services Committee>) - Wed May 27 2026
 - [8th Meeting of Council](</months/2026-05/2026-05-12 8th Meeting of Council>) - Tue May 12 2026
 - [9th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-05/2026-05-06 9th Meeting of the Infrastructure and Corporate Services Committee>) - Wed May 6 2026
 - [6th Meeting of the Strategic Priorities and Policy Committee](</months/2026-04/2026-04-21 6th Meeting of the Strategic Priorities and Policy Committee>) - Tue Apr 21 2026
-- [7th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-04/2026-04-20 7th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Apr 20 2026
-- [6th Meeting of the Community and Protective Services Committee](</months/2026-04/2026-04-13 6th Meeting of the Community and Protective Services Committee>) - Mon Apr 13 2026
-- [5th Meeting of the Strategic Priorities and Policy Committee](</months/2026-03/2026-03-24 5th Meeting of the Strategic Priorities and Policy Committee>) - Tue Mar 24 2026
-- [6th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-03/2026-03-23 6th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Mar 23 2026
-- [4th Council Meeting](</months/2026-03/2026-03-03 4th Council Meeting>) - Tue Mar 3 2026

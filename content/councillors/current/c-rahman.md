@@ -2,18 +2,18 @@
 title: "Corrine Rahman"
 type: councillor
 slug: "c-rahman"
-meetingCount: 240
+meetingCount: 245
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 3564
-votesYea: 2960
-votesNay: 347
+totalVotes: 3622
+votesYea: 3016
+votesNay: 349
 votesAbsent: 257
 attendanceRate: 100.0
-participationRate: 92.8
-yeaRate: 89.5
-contestedDissentRate: 17.3
-contestedVotes: 1343
+participationRate: 92.9
+yeaRate: 89.6
+contestedDissentRate: 17.1
+contestedVotes: 1360
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -30,10 +30,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 3,564 |
-| Voted Yea | 2,960 (83.1%) |
-| Voted Nay | 347 (9.7%) |
-| Absent | 257 (7.2%) |
+| Total Votes | 3,622 |
+| Voted Yea | 3,016 (83.3%) |
+| Voted Nay | 349 (9.6%) |
+| Absent | 257 (7.1%) |
 
 
 ### Substantive Votes
@@ -42,17 +42,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,125 |
-| Voted Yea | 1,609 (84.6%) |
-| Voted Nay | 292 (15.4%) |
+| Substantive Votes | 2,161 |
+| Voted Yea | 1,643 (84.8%) |
+| Voted Nay | 294 (15.2%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 17.3%
-- **Contested Votes**: 1,343
+- **Dissent Rate**: 17.1%
+- **Contested Votes**: 1,360
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -63,16 +63,16 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 344 |
-| Voted Yea | 258 (75.0%) |
-| Voted Nay | 86 (25.0%) |
+| Budget Votes | 345 |
+| Voted Yea | 259 (75.1%) |
+| Voted Nay | 86 (24.9%) |
 | Absent | 0 |
 
 
 ## Attendance
 
 - **Attendance Rate**: 100.0%
-- **Meetings Attended**: 214 of 214
+- **Meetings Attended**: 219 of 219
 - **Meetings Missed**: 0
 - **Trend**: Stable -
 
@@ -80,20 +80,20 @@ prefillQuestions:
   - 2023: 100.0% (72/72 meetings)
   - 2024: 100.0% (61/61 meetings)
   - 2025: 100.0% (55/55 meetings)
-  - 2026: 100.0% (17/17 meetings)
+  - 2026: 100.0% (22/22 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
-- Josh Morgan (93.2%)
-- Steve Lehman (92.9%)
-- Jerry Pribil (92.5%)
+- Josh Morgan (93.3%)
+- Steve Lehman (93.0%)
+- Jerry Pribil (92.6%)
 
 **Least aligned with:**
-- Susan Stevenson (84.4%)
-- Sam Trosow (84.8%)
-- Paul Van Meerbergen (87.7%)
+- Susan Stevenson (84.5%)
+- Sam Trosow (85.1%)
+- Paul Van Meerbergen (87.9%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -102,12 +102,12 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 1,763 | 1,501 | 193 | 96.1% |
-| Strategic Priorities and Policy Committee | 858 | 607 | 73 | 79.3% |
+| Council | 1,795 | 1,532 | 194 | 96.2% |
+| Strategic Priorities and Policy Committee | 876 | 624 | 74 | 79.7% |
 | Planning and Environment Committee | 417 | 405 | 8 | 99.0% |
 | Budget Committee | 189 | 136 | 53 | 100.0% |
 | Infrastructure and Corporate Services Committee | 120 | 112 | 7 | 99.2% |
-| Community and Protective Services Committee | 93 | 88 | 5 | 100.0% |
+| Community and Protective Services Committee | 101 | 96 | 5 | 100.0% |
 | Corporate Services Committee | 67 | 61 | 2 | 94.0% |
 | Civic Works Committee | 57 | 50 | 6 | 98.2% |
 
@@ -115,6 +115,14 @@ prefillQuestions:
 ## Notable Dissenting Votes
 
 *Recent split votes where Corrine Rahman voted against the final outcome:*
+
+### 2026-06-17: Build Communities Strong Fund Provincial and Territorial Stream: Development Charge Reduction Program
+
+[10th Special Meeting of Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=4ded2b07-9300-45c5-9b86-489f66930984&Agenda=PostMinutes&lang=English)
+
+> That, pursuant to section 2.3 of the Council Procedure By-law, the speaking-once provision contained in section 9.7 of the Council Procedure By-law BE SUSPENDED for the Council meeting held on June 17...
+
+Voted **Yea** - Motion Failed (9 to 4)
 
 ### 2026-04-21: Housing Accelerator Fund – 2026 Mid-Year Update
 
@@ -188,20 +196,12 @@ Voted **Nay** - Motion Passed (8 to 3)
 
 Voted **Nay** - Motion Passed (8 to 3)
 
-### 2026-03-03: By-laws
-
-[4th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
-
-> That Third Reading and Enactment of Bill No.’s 105 and 123, BE APPROVED.
-
-Voted **Nay** - Motion Passed (8 to 3)
-
 
 ## Committees Served
 
-- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
-- [Community and Protective Services Committee](/committees/community-protective-services)
 - [City Council](/committees/city-council)
+- [Community and Protective Services Committee](/committees/community-protective-services)
+- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Corporate Services Committee](/committees/corporate-services)
 - [Budget Committee](/committees/budget)
 - [Audit Committee](/committees/audit)
@@ -209,15 +209,15 @@ Voted **Nay** - Motion Passed (8 to 3)
 - [Civic Works Committee](/committees/civic-works)
 - [Community Protective Services Committee](/committees/community-protective-services-committee)
 
-## Recent Meetings (240 total)
+## Recent Meetings (245 total)
 
+- [10th Special Meeting of Council](</months/2026-06/2026-06-17 10th Special Meeting of Council>) - Wed Jun 17 2026
+- [10th Special Meeting of the Community and Protective Services Committee](</months/2026-06/2026-06-16 10th Special Meeting of the Community and Protective Services Committee>) - Tue Jun 16 2026
+- [8th Meeting of the Strategic Priorities and Policy Committee](</months/2026-06/2026-06-16 8th Meeting of the Strategic Priorities and Policy Committee>) - Tue Jun 16 2026
+- [9th Meeting of the Community and Protective Services Committee](</months/2026-06/2026-06-08 9th Meeting of the Community and Protective Services Committee>) - Mon Jun 8 2026
+- [9th Meeting of Council](</months/2026-06/2026-06-02 9th Meeting of Council>) - Tue Jun 2 2026
 - [7th Meeting of the Strategic Priorities and Policy Committee](</months/2026-05/2026-05-28 7th Meeting of the Strategic Priorities and Policy Committee>) - Thu May 28 2026
 - [8th Meeting of the Community and Protective Services Committee](</months/2026-05/2026-05-25 8th Meeting of the Community and Protective Services Committee>) - Mon May 25 2026
 - [8th Meeting of Council](</months/2026-05/2026-05-12 8th Meeting of Council>) - Tue May 12 2026
 - [7th Meeting of the Community and Protective Services Committee](</months/2026-05/2026-05-04 7th Meeting of the Community and Protective Services Committee>) - Mon May 4 2026
 - [6th Meeting of the Strategic Priorities and Policy Committee](</months/2026-04/2026-04-21 6th Meeting of the Strategic Priorities and Policy Committee>) - Tue Apr 21 2026
-- [6th Meeting of the Community and Protective Services Committee](</months/2026-04/2026-04-13 6th Meeting of the Community and Protective Services Committee>) - Mon Apr 13 2026
-- [5th Meeting of the Strategic Priorities and Policy Committee](</months/2026-03/2026-03-24 5th Meeting of the Strategic Priorities and Policy Committee>) - Tue Mar 24 2026
-- [5th Special Meeting of the Community and Protective Services Committee](</months/2026-03/2026-03-13 5th Special Meeting of the Community and Protective Services Committee>) - Fri Mar 13 2026
-- [4th Meeting of the Community and Protective Services Committee](</months/2026-03/2026-03-09 4th Meeting of the Community and Protective Services Committee>) - Mon Mar 9 2026
-- [4th Council Meeting](</months/2026-03/2026-03-03 4th Council Meeting>) - Tue Mar 3 2026

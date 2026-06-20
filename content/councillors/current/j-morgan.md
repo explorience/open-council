@@ -2,18 +2,18 @@
 title: "Josh Morgan"
 type: councillor
 slug: "j-morgan"
-meetingCount: 676
+meetingCount: 680
 yearsActive: "2014 - 2026"
 isCurrent: true
-totalVotes: 10986
-votesYea: 9064
-votesNay: 568
-votesAbsent: 1354
+totalVotes: 11037
+votesYea: 9112
+votesNay: 569
+votesAbsent: 1356
 attendanceRate: 92.3
 participationRate: 87.7
 yeaRate: 94.1
-contestedDissentRate: 5.3
-contestedVotes: 5390
+contestedDissentRate: 5.4
+contestedVotes: 5405
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -31,10 +31,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 10,986 |
-| Voted Yea | 9,064 (82.5%) |
-| Voted Nay | 568 (5.2%) |
-| Absent | 1,354 (12.3%) |
+| Total Votes | 11,037 |
+| Voted Yea | 9,112 (82.6%) |
+| Voted Nay | 569 (5.2%) |
+| Absent | 1,356 (12.3%) |
 
 
 ### Substantive Votes
@@ -43,17 +43,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 7,965 |
-| Voted Yea | 6,518 (92.4%) |
-| Voted Nay | 534 (7.6%) |
+| Substantive Votes | 7,995 |
+| Voted Yea | 6,545 (92.4%) |
+| Voted Nay | 535 (7.6%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 5.3%
-- **Contested Votes**: 5,390
+- **Dissent Rate**: 5.4%
+- **Contested Votes**: 5,405
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -64,8 +64,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 1,413 |
-| Voted Yea | 1,217 (86.9%) |
+| Budget Votes | 1,414 |
+| Voted Yea | 1,218 (86.9%) |
 | Voted Nay | 184 (13.1%) |
 | Absent | 12 |
 
@@ -73,7 +73,7 @@ prefillQuestions:
 ## Attendance
 
 - **Attendance Rate**: 92.3%
-- **Meetings Attended**: 728 of 789
+- **Meetings Attended**: 732 of 793
 - **Meetings Missed**: 61
 - **Trend**: Improving ^
 
@@ -81,7 +81,7 @@ prefillQuestions:
   - 2023: 56.2% (59/105 meetings)
   - 2024: 100.0% (61/61 meetings)
   - 2025: 100.0% (52/52 meetings)
-  - 2026: 100.0% (18/18 meetings)
+  - 2026: 100.0% (22/22 meetings)
 
 
 ## Voting Alignment
@@ -92,9 +92,9 @@ prefillQuestions:
 - Peter Cuddy (95.4%)
 
 **Least aligned with:**
-- Sam Trosow (85.4%)
-- Susan Stevenson (86.6%)
-- David Ferreira (89.9%)
+- Sam Trosow (85.6%)
+- Susan Stevenson (86.7%)
+- David Ferreira (90.1%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -103,12 +103,12 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 5,218 | 4,834 | 266 | 97.7% |
-| Strategic Priorities and Policy Committee | 3,111 | 2,449 | 185 | 84.7% |
+| Council | 5,250 | 4,866 | 266 | 97.8% |
+| Strategic Priorities and Policy Committee | 3,129 | 2,464 | 186 | 84.7% |
 | Corporate Services Committee | 1,069 | 964 | 19 | 92.0% |
 | Planning and Environment Committee | 677 | 183 | 4 | 27.6% |
 | Civic Works Committee | 348 | 285 | 2 | 82.5% |
-| Community and Protective Services Committee | 307 | 188 | 14 | 65.8% |
+| Community and Protective Services Committee | 308 | 189 | 14 | 65.9% |
 | Budget Committee | 189 | 115 | 74 | 100.0% |
 | Infrastructure and Corporate Services Committee | 67 | 46 | 4 | 74.6% |
 
@@ -116,6 +116,22 @@ prefillQuestions:
 ## Notable Dissenting Votes
 
 *Recent split votes where Josh Morgan voted against the final outcome:*
+
+### 2026-06-17: Build Communities Strong Fund Provincial and Territorial Stream: Development Charge Reduction Program
+
+[10th Special Meeting of Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=4ded2b07-9300-45c5-9b86-489f66930984&Agenda=PostMinutes&lang=English)
+
+> That, pursuant to section 2.3 of the Council Procedure By-law, the speaking-once provision contained in section 9.7 of the Council Procedure By-law BE SUSPENDED for the Council meeting held on June 17...
+
+Voted **Yea** - Motion Failed (9 to 4)
+
+### 2026-06-02: (3.3) 1103 & 1111 Westdel Bourne - OZ-25072
+
+[9th Meeting of Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=7241e2a5-5faa-4da2-87e3-5aa7366fda9f&Agenda=PostMinutes&lang=English)
+
+> That the application of Westdell Development Corporation (c/o MHBC Planning, Urban Design & Landscape Architecture) relating to the property located at 1103 & 1111 Westdel Bourne BE REFERRED to a futu...
+
+Voted **Yea** - Motion Failed (7 to 7)
 
 ### 2026-03-24: Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program - Report Back on Program Options
 
@@ -181,43 +197,27 @@ Voted **Nay** - Motion Passed (12 to 2)
 
 Voted **Nay** - Motion Passed (11 to 4)
 
-### 2025-12-02: Public Participation Meeting - Not to be heard before 1:15 PM - Official Plan Review: Final Urban Growth Boundary Review - O-9595
-
-[The 1st Meeting of the Planning and Environment Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=8d91b1ee-f4a7-4907-b940-3c3769649180&Agenda=PostMinutes&lang=English)
-
-> That Schedule 1 to Appendix “A” of the proposed by-law as appended to the staff report dated December 2, 2025, to adopt the Urban Growth Boundary for The London Plan as part of the Section 26 Official...
-
-Voted **Nay** - Motion Passed (4 to 2)
-
-### 2025-11-25: (2.5) Blue Box Transition Final Year - Part B Update
-
-[18th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=884a7d5b-61ac-4fa6-92cd-79ba0d612538&Agenda=PostMinutes&lang=English)
-
-> Motion to approve part b): b) the Civic Administration BE DIRECTED to investigate and report back to a future meeting of the Infrastructure and Corporate Services Committee on potential interim measur...
-
-Voted **Nay** - Motion Passed (11 to 4)
-
 
 ## Committees Served
 
-- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
-- [Corporate Services Committee](/committees/corporate-services)
 - [City Council](/committees/city-council)
 - [Community and Protective Services Committee](/committees/community-protective-services)
+- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
+- [Corporate Services Committee](/committees/corporate-services)
 - [Planning and Environment Committee](/committees/planning-environment)
 - [Budget Committee](/committees/budget)
 - [Civic Works Committee](/committees/civic-works)
 - [Audit Committee](/committees/audit)
 
-## Recent Meetings (676 total)
+## Recent Meetings (680 total)
 
+- [10th Special Meeting of Council](</months/2026-06/2026-06-17 10th Special Meeting of Council>) - Wed Jun 17 2026
+- [10th Special Meeting of the Community and Protective Services Committee](</months/2026-06/2026-06-16 10th Special Meeting of the Community and Protective Services Committee>) - Tue Jun 16 2026
+- [8th Meeting of the Strategic Priorities and Policy Committee](</months/2026-06/2026-06-16 8th Meeting of the Strategic Priorities and Policy Committee>) - Tue Jun 16 2026
+- [9th Meeting of Council](</months/2026-06/2026-06-02 9th Meeting of Council>) - Tue Jun 2 2026
 - [7th Meeting of the Strategic Priorities and Policy Committee](</months/2026-05/2026-05-28 7th Meeting of the Strategic Priorities and Policy Committee>) - Thu May 28 2026
 - [10th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-05/2026-05-27 10th Meeting of the Infrastructure and Corporate Services Committee>) - Wed May 27 2026
 - [8th Meeting of Council](</months/2026-05/2026-05-12 8th Meeting of Council>) - Tue May 12 2026
 - [7th Meeting of the Community and Protective Services Committee](</months/2026-05/2026-05-04 7th Meeting of the Community and Protective Services Committee>) - Mon May 4 2026
 - [6th Meeting of the Strategic Priorities and Policy Committee](</months/2026-04/2026-04-21 6th Meeting of the Strategic Priorities and Policy Committee>) - Tue Apr 21 2026
 - [7th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-04/2026-04-20 7th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Apr 20 2026
-- [The 6th Meeting of the Planning and Environment Committee](</months/2026-04/2026-04-14 The 6th Meeting of the Planning and Environment Committee>) - Tue Apr 14 2026
-- [6th Meeting of the Community and Protective Services Committee](</months/2026-04/2026-04-13 6th Meeting of the Community and Protective Services Committee>) - Mon Apr 13 2026
-- [5th Meeting of the Strategic Priorities and Policy Committee](</months/2026-03/2026-03-24 5th Meeting of the Strategic Priorities and Policy Committee>) - Tue Mar 24 2026
-- [6th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-03/2026-03-23 6th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Mar 23 2026
