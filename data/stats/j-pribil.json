@@ -2,11 +2,11 @@
   "councillor": "Jerry Pribil",
   "slug": "j-pribil",
   "attendance": {
-    "totalMeetings": 246,
+    "totalMeetings": 247,
     "present": 238,
-    "absent": 8,
+    "absent": 9,
     "remote": 0,
-    "attendanceRate": 96.7479674796748,
+    "attendanceRate": 96.35627530364373,
     "trend": [
       {
         "period": "2022",
@@ -34,12 +34,12 @@
       },
       {
         "period": "2026",
-        "attendanceRate": 95.45454545454545,
+        "attendanceRate": 91.30434782608695,
         "meetingsAttended": 21,
-        "meetingsTotal": 22
+        "meetingsTotal": 23
       }
     ],
-    "trendDirection": "stable"
+    "trendDirection": "declining"
   },
   "voting": {
     "totalVotes": 3799,
