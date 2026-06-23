@@ -2,7 +2,7 @@
 title: "Elizabeth Peloza"
 type: councillor
 slug: "e-peloza"
-meetingCount: 479
+meetingCount: 480
 yearsActive: "2018 - 2026"
 isCurrent: true
 totalVotes: 7395
@@ -72,7 +72,7 @@ prefillQuestions:
 ## Attendance
 
 - **Attendance Rate**: 98.0%
-- **Meetings Attended**: 435 of 444
+- **Meetings Attended**: 436 of 445
 - **Meetings Missed**: 9
 - **Trend**: Declining v
 
@@ -80,7 +80,7 @@ prefillQuestions:
   - 2023: 98.3% (57/58 meetings)
   - 2024: 95.3% (61/64 meetings)
   - 2025: 96.6% (56/58 meetings)
-  - 2026: 90.9% (20/22 meetings)
+  - 2026: 91.3% (21/23 meetings)
 
 
 ## Voting Alignment
@@ -200,18 +200,19 @@ Voted **Nay** - Motion Passed (4 to 1)
 ## Committees Served
 
 - [City Council](/committees/city-council)
+- [Audit Committee](/committees/audit)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Corporate Services Committee](/committees/corporate-services)
-- [Audit Committee](/committees/audit)
 - [Planning and Environment Committee](/committees/planning-environment)
 - [Budget Committee](/committees/budget)
 - [Civic Works Committee](/committees/civic-works)
 - [Community Protective Services Committee](/committees/community-protective-services-committee)
 
-## Recent Meetings (479 total)
+## Recent Meetings (480 total)
 
 - [10th Special Meeting of Council](</months/2026-06/2026-06-17 10th Special Meeting of Council>) - Wed Jun 17 2026
+- [3rd Meeting of the Audit Committee](</months/2026-06/2026-06-17 3rd Meeting of the Audit Committee>) - Wed Jun 17 2026
 - [10th Special Meeting of the Community and Protective Services Committee](</months/2026-06/2026-06-16 10th Special Meeting of the Community and Protective Services Committee>) - Tue Jun 16 2026
 - [8th Meeting of the Strategic Priorities and Policy Committee](</months/2026-06/2026-06-16 8th Meeting of the Strategic Priorities and Policy Committee>) - Tue Jun 16 2026
 - [11th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-06/2026-06-15 11th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Jun 15 2026
@@ -220,4 +221,3 @@ Voted **Nay** - Motion Passed (4 to 1)
 - [10th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-05/2026-05-27 10th Meeting of the Infrastructure and Corporate Services Committee>) - Wed May 27 2026
 - [8th Meeting of Council](</months/2026-05/2026-05-12 8th Meeting of Council>) - Tue May 12 2026
 - [9th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-05/2026-05-06 9th Meeting of the Infrastructure and Corporate Services Committee>) - Wed May 6 2026
-- [6th Meeting of the Strategic Priorities and Policy Committee](</months/2026-04/2026-04-21 6th Meeting of the Strategic Priorities and Policy Committee>) - Tue Apr 21 2026
