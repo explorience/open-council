@@ -9,17 +9,17 @@ Browse London City Council members by their meeting attendance and voting record
 
 ## Current Council (2022-2026)
 
-- [Josh Morgan](/councillors/current/j-morgan) - 680 meetings
-- [Anna Hopkins](/councillors/current/a-hopkins) - 662 meetings
+- [Josh Morgan](/councillors/current/j-morgan) - 679 meetings
+- [Anna Hopkins](/councillors/current/a-hopkins) - 661 meetings
 - [Paul Van Meerbergen](/councillors/current/p-van-meerbergen) - 525 meetings
-- [Shawn Lewis](/councillors/current/s-lewis) - 523 meetings
-- [Elizabeth Peloza](/councillors/current/e-peloza) - 480 meetings
+- [Shawn Lewis](/councillors/current/s-lewis) - 522 meetings
+- [Elizabeth Peloza](/councillors/current/e-peloza) - 479 meetings
 - [Steve Hillier](/councillors/current/s-hillier) - 478 meetings
 - [Steve Lehman](/councillors/current/s-lehman) - 408 meetings
-- [Corrine Rahman](/councillors/current/c-rahman) - 245 meetings
-- [Jerry Pribil](/councillors/current/j-pribil) - 240 meetings
-- [David Ferreira](/councillors/current/d-ferreira) - 236 meetings
-- [Sam Trosow](/councillors/current/s-trosow) - 234 meetings
+- [Corrine Rahman](/councillors/current/c-rahman) - 244 meetings
+- [Jerry Pribil](/councillors/current/j-pribil) - 239 meetings
+- [David Ferreira](/councillors/current/d-ferreira) - 235 meetings
+- [Sam Trosow](/councillors/current/s-trosow) - 233 meetings
 - [Hadleigh McAlister](/councillors/current/h-mcalister) - 230 meetings
 - [Peter Cuddy](/councillors/current/p-cuddy) - 229 meetings
 - [Susan Stevenson](/councillors/current/s-stevenson) - 212 meetings
