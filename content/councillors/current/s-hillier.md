@@ -2,18 +2,18 @@
 title: "Steve Hillier"
 type: councillor
 slug: "s-hillier"
-meetingCount: 478
+meetingCount: 479
 yearsActive: "2018 - 2026"
 isCurrent: true
-totalVotes: 7975
-votesYea: 6855
-votesNay: 489
-votesAbsent: 631
+totalVotes: 8014
+votesYea: 6887
+votesNay: 492
+votesAbsent: 635
 attendanceRate: 93.5
 participationRate: 92.1
 yeaRate: 93.3
 contestedDissentRate: 15.2
-contestedVotes: 2095
+contestedVotes: 2100
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -30,10 +30,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 7,975 |
-| Voted Yea | 6,855 (86.0%) |
-| Voted Nay | 489 (6.1%) |
-| Absent | 631 (7.9%) |
+| Total Votes | 8,014 |
+| Voted Yea | 6,887 (85.9%) |
+| Voted Nay | 492 (6.1%) |
+| Absent | 635 (7.9%) |
 
 
 ### Substantive Votes
@@ -42,9 +42,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 4,485 |
-| Voted Yea | 3,580 (89.4%) |
-| Voted Nay | 426 (10.6%) |
+| Substantive Votes | 4,502 |
+| Voted Yea | 3,592 (89.3%) |
+| Voted Nay | 429 (10.7%) |
 
 
 ### Dissent on Contested Votes
@@ -52,7 +52,7 @@ prefillQuestions:
 *Only counts non-unanimous votes where the councillor participated*
 
 - **Dissent Rate**: 15.2%
-- **Contested Votes**: 2,095
+- **Contested Votes**: 2,100
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -72,7 +72,7 @@ prefillQuestions:
 ## Attendance
 
 - **Attendance Rate**: 93.5%
-- **Meetings Attended**: 431 of 461
+- **Meetings Attended**: 432 of 462
 - **Meetings Missed**: 30
 - **Trend**: Stable -
 
@@ -80,7 +80,7 @@ prefillQuestions:
   - 2023: 86.7% (52/60 meetings)
   - 2024: 95.2% (60/63 meetings)
   - 2025: 96.3% (52/54 meetings)
-  - 2026: 89.5% (17/19 meetings)
+  - 2026: 90.0% (18/20 meetings)
 
 
 ## Voting Alignment
@@ -93,7 +93,7 @@ prefillQuestions:
 **Least aligned with:**
 - Sam Trosow (81.4%)
 - David Ferreira (85.6%)
-- Susan Stevenson (88.3%)
+- Anna Hopkins (88.4%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -103,7 +103,7 @@ prefillQuestions:
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
 | Council | 3,793 | 3,364 | 259 | 95.5% |
-| Planning and Environment Committee | 1,847 | 1,736 | 38 | 96.0% |
+| Planning and Environment Committee | 1,886 | 1,768 | 41 | 95.9% |
 | Strategic Priorities and Policy Committee | 1,767 | 1,268 | 127 | 78.9% |
 | Community and Protective Services Committee | 328 | 314 | 1 | 96.0% |
 | Budget Committee | 189 | 125 | 64 | 100.0% |
@@ -121,6 +121,22 @@ prefillQuestions:
 > That the Mayor and Councillor A. Hopkins BE REQUESTED to advocate, through the Ontario Big City Mayors Caucus and the Association of Municipalities of Ontario for a province-wide deposit-return progra...
 
 Voted **Nay** - Motion Passed (10 to 1)
+
+### 2026-06-09: 929 Cheapside Street - Z-26003 
+
+[The 9th Meeting of the Planning and Environment Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=ff301408-3802-4bf4-80b0-8796af8fd0fd&Agenda=PostMinutes&lang=English)
+
+> That part c) of the motion, as amended, BE APPROVED.
+
+Voted **Nay** - Motion Passed (4 to 1)
+
+### 2026-06-09: 929 Cheapside Street - Z-26003 
+
+[The 9th Meeting of the Planning and Environment Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=ff301408-3802-4bf4-80b0-8796af8fd0fd&Agenda=PostMinutes&lang=English)
+
+> Motion to approve part a)
+
+Voted **Nay** - Motion Passed (3 to 2)
 
 ### 2026-06-02: (3.3) 1103 & 1111 Westdel Bourne - OZ-25072
 
@@ -178,22 +194,6 @@ Voted **Nay** - Motion Passed (11 to 3)
 
 Voted **Yea** - Motion Failed (5 to 8)
 
-### 2026-02-18: 550 Ridout Street North & 82-90 Kent Street - OZ-25152
-
-[4th Meeting of the Planning and Environment Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=0ebd81b2-188b-4979-9eca-a7dec1dba21d&Agenda=PostMinutes&lang=English)
-
-> Notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Ridout and Kent Block Inc. relating to the property loca...
-
-Voted **Nay** - Motion Passed (3 to 1)
-
-### 2026-02-10: (2.2) Good Neighbour Agreements
-
-[3rd Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English)
-
-> ii) that Civic Administration BE DIRECTED to review existing housing stability contracts to assess alignment with current operational needs, including transitions from emergency and highly supportive ...
-
-Voted **Yea** - Motion Failed (7 to 8)
-
 
 ## Committees Served
 
@@ -205,10 +205,11 @@ Voted **Yea** - Motion Failed (7 to 8)
 - [Budget Committee](/committees/budget)
 - [Civic Works Committee](/committees/civic-works)
 
-## Recent Meetings (478 total)
+## Recent Meetings (479 total)
 
 - [10th Special Meeting of Council](</months/2026-06/2026-06-17 10th Special Meeting of Council>) - Wed Jun 17 2026
 - [8th Meeting of the Strategic Priorities and Policy Committee](</months/2026-06/2026-06-16 8th Meeting of the Strategic Priorities and Policy Committee>) - Tue Jun 16 2026
+- [The 9th Meeting of the Planning and Environment Committee](</months/2026-06/2026-06-09 The 9th Meeting of the Planning and Environment Committee>) - Tue Jun 9 2026
 - [9th Meeting of Council](</months/2026-06/2026-06-02 9th Meeting of Council>) - Tue Jun 2 2026
 - [7th Meeting of the Strategic Priorities and Policy Committee](</months/2026-05/2026-05-28 7th Meeting of the Strategic Priorities and Policy Committee>) - Thu May 28 2026
 - [The 8th Meeting of the Planning and Environment Committee](</months/2026-05/2026-05-26 The 8th Meeting of the Planning and Environment Committee>) - Tue May 26 2026
@@ -216,4 +217,3 @@ Voted **Yea** - Motion Failed (7 to 8)
 - [The 7th Meeting of the Planning and Environment Committee](</months/2026-05/2026-05-05 The 7th Meeting of the Planning and Environment Committee>) - Tue May 5 2026
 - [7th Meeting of the Community and Protective Services Committee](</months/2026-05/2026-05-04 7th Meeting of the Community and Protective Services Committee>) - Mon May 4 2026
 - [6th Meeting of the Strategic Priorities and Policy Committee](</months/2026-04/2026-04-21 6th Meeting of the Strategic Priorities and Policy Committee>) - Tue Apr 21 2026
-- [5th Meeting of the Strategic Priorities and Policy Committee](</months/2026-03/2026-03-24 5th Meeting of the Strategic Priorities and Policy Committee>) - Tue Mar 24 2026

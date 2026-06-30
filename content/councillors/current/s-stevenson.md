@@ -2,18 +2,18 @@
 title: "Susan Stevenson"
 type: councillor
 slug: "s-stevenson"
-meetingCount: 212
+meetingCount: 213
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 3790
-votesYea: 2710
-votesNay: 570
+totalVotes: 3829
+votesYea: 2746
+votesNay: 573
 votesAbsent: 510
-attendanceRate: 88.6
-participationRate: 86.5
-yeaRate: 82.6
+attendanceRate: 88.7
+participationRate: 86.7
+yeaRate: 82.7
 contestedDissentRate: 36.6
-contestedVotes: 1364
+contestedVotes: 1370
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -30,10 +30,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 3,790 |
-| Voted Yea | 2,710 (71.5%) |
-| Voted Nay | 570 (15.0%) |
-| Absent | 510 (13.5%) |
+| Total Votes | 3,829 |
+| Voted Yea | 2,746 (71.7%) |
+| Voted Nay | 573 (15.0%) |
+| Absent | 510 (13.3%) |
 
 
 ### Substantive Votes
@@ -42,9 +42,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,302 |
-| Voted Yea | 1,579 (81.4%) |
-| Voted Nay | 360 (18.6%) |
+| Substantive Votes | 2,319 |
+| Voted Yea | 1,593 (81.4%) |
+| Voted Nay | 363 (18.6%) |
 
 
 ### Dissent on Contested Votes
@@ -52,7 +52,7 @@ prefillQuestions:
 *Only counts non-unanimous votes where the councillor participated*
 
 - **Dissent Rate**: 36.6%
-- **Contested Votes**: 1,364
+- **Contested Votes**: 1,370
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -71,8 +71,8 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 88.6%
-- **Meetings Attended**: 203 of 229
+- **Attendance Rate**: 88.7%
+- **Meetings Attended**: 204 of 230
 - **Meetings Missed**: 26
 - **Trend**: Stable -
 
@@ -80,14 +80,14 @@ prefillQuestions:
   - 2023: 88.6% (70/79 meetings)
   - 2024: 89.4% (59/66 meetings)
   - 2025: 86.4% (38/44 meetings)
-  - 2026: 87.1% (27/31 meetings)
+  - 2026: 87.5% (28/32 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
 - Paul Van Meerbergen (89.2%)
-- Peter Cuddy (89.1%)
+- Peter Cuddy (89.2%)
 - Jerry Pribil (88.9%)
 
 **Least aligned with:**
@@ -104,7 +104,7 @@ prefillQuestions:
 |-----------|------:|----:|----:|--------------:|
 | Council | 2,003 | 1,427 | 387 | 90.6% |
 | Strategic Priorities and Policy Committee | 1,017 | 703 | 101 | 79.1% |
-| Planning and Environment Committee | 224 | 182 | 4 | 83.0% |
+| Planning and Environment Committee | 263 | 218 | 7 | 85.6% |
 | Budget Committee | 189 | 137 | 45 | 96.3% |
 | Corporate Services Committee | 184 | 126 | 8 | 72.8% |
 | Community and Protective Services Committee | 92 | 78 | 7 | 92.4% |
@@ -179,21 +179,21 @@ Voted **Nay** - Motion Passed (3 to 2)
 
 Voted **Nay** - Motion Passed (4 to 1)
 
-### 2026-05-28: Strategic Plan Implementation Update: Mid-Year 2026
+### 2026-06-09: 36 Wethered Street - Z-26050 
 
-[7th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=d6d163e4-49ea-4151-8247-514f3547158a&Agenda=PostMinutes&lang=English)
+[The 9th Meeting of the Planning and Environment Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=ff301408-3802-4bf4-80b0-8796af8fd0fd&Agenda=PostMinutes&lang=English)
 
-> That, on the recommendation of the City Manager, the report including the 2026 Mid-Year Strategic Plan Implementation Update, as appended to the staff report dated May 28, 2026, BE RECEIVED for inform...
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Monteith Brown Planning Consultants Ltd. (c/o Jay McGuffin) rel...
 
-Voted **Nay** - Motion Passed (12 to 1)
+Voted **Nay** - Motion Passed (4 to 1)
 
-### 2026-05-28: Review of RFPQ 2025-056 Redevelopment of City Hall Campus Procurement and Related Information
+### 2026-06-09: 929 Cheapside Street - Z-26003 
 
-[7th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=d6d163e4-49ea-4151-8247-514f3547158a&Agenda=PostMinutes&lang=English)
+[The 9th Meeting of the Planning and Environment Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=ff301408-3802-4bf4-80b0-8796af8fd0fd&Agenda=PostMinutes&lang=English)
 
-> That, on the recommendation of the Deputy City Manager, Finance Supports, the report dated May 28, 2026, titled “Review of RFPQ 2025-056 – Redevelopment of City Hall Campus Procurement and Related Inf...
+> Motion to approve part a)
 
-Voted **Nay** - Motion Passed (10 to 1)
+Voted **Nay** - Motion Passed (3 to 2)
 
 
 ## Committees Served
@@ -207,15 +207,15 @@ Voted **Nay** - Motion Passed (10 to 1)
 - [Budget Committee](/committees/budget)
 - [Community Protective Services Committee](/committees/community-protective-services-committee)
 
-## Recent Meetings (212 total)
+## Recent Meetings (213 total)
 
 - [10th Special Meeting of Council](</months/2026-06/2026-06-17 10th Special Meeting of Council>) - Wed Jun 17 2026
 - [3rd Meeting of the Audit Committee](</months/2026-06/2026-06-17 3rd Meeting of the Audit Committee>) - Wed Jun 17 2026
 - [8th Meeting of the Strategic Priorities and Policy Committee](</months/2026-06/2026-06-16 8th Meeting of the Strategic Priorities and Policy Committee>) - Tue Jun 16 2026
 - [11th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-06/2026-06-15 11th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Jun 15 2026
+- [The 9th Meeting of the Planning and Environment Committee](</months/2026-06/2026-06-09 The 9th Meeting of the Planning and Environment Committee>) - Tue Jun 9 2026
 - [7th Meeting of the Strategic Priorities and Policy Committee](</months/2026-05/2026-05-28 7th Meeting of the Strategic Priorities and Policy Committee>) - Thu May 28 2026
 - [10th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-05/2026-05-27 10th Meeting of the Infrastructure and Corporate Services Committee>) - Wed May 27 2026
 - [The 8th Meeting of the Planning and Environment Committee](</months/2026-05/2026-05-26 The 8th Meeting of the Planning and Environment Committee>) - Tue May 26 2026
 - [8th Meeting of Council](</months/2026-05/2026-05-12 8th Meeting of Council>) - Tue May 12 2026
 - [The 7th Meeting of the Planning and Environment Committee](</months/2026-05/2026-05-05 The 7th Meeting of the Planning and Environment Committee>) - Tue May 5 2026
-- [6th Meeting of the Strategic Priorities and Policy Committee](</months/2026-04/2026-04-21 6th Meeting of the Strategic Priorities and Policy Committee>) - Tue Apr 21 2026

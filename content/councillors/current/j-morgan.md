@@ -2,18 +2,18 @@
 title: "Josh Morgan"
 type: councillor
 slug: "j-morgan"
-meetingCount: 679
+meetingCount: 680
 yearsActive: "2014 - 2026"
 isCurrent: true
-totalVotes: 11037
-votesYea: 9112
-votesNay: 569
-votesAbsent: 1356
+totalVotes: 11061
+votesYea: 9120
+votesNay: 570
+votesAbsent: 1371
 attendanceRate: 92.3
-participationRate: 87.7
+participationRate: 87.6
 yeaRate: 94.1
 contestedDissentRate: 5.4
-contestedVotes: 5405
+contestedVotes: 5407
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -31,10 +31,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 11,037 |
-| Voted Yea | 9,112 (82.6%) |
-| Voted Nay | 569 (5.2%) |
-| Absent | 1,356 (12.3%) |
+| Total Votes | 11,061 |
+| Voted Yea | 9,120 (82.5%) |
+| Voted Nay | 570 (5.2%) |
+| Absent | 1,371 (12.4%) |
 
 
 ### Substantive Votes
@@ -43,8 +43,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 7,995 |
-| Voted Yea | 6,545 (92.4%) |
+| Substantive Votes | 8,007 |
+| Voted Yea | 6,549 (92.4%) |
 | Voted Nay | 535 (7.6%) |
 
 
@@ -53,7 +53,7 @@ prefillQuestions:
 *Only counts non-unanimous votes where the councillor participated*
 
 - **Dissent Rate**: 5.4%
-- **Contested Votes**: 5,405
+- **Contested Votes**: 5,407
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -73,7 +73,7 @@ prefillQuestions:
 ## Attendance
 
 - **Attendance Rate**: 92.3%
-- **Meetings Attended**: 732 of 793
+- **Meetings Attended**: 733 of 794
 - **Meetings Missed**: 61
 - **Trend**: Improving ^
 
@@ -81,13 +81,13 @@ prefillQuestions:
   - 2023: 56.2% (59/105 meetings)
   - 2024: 100.0% (61/61 meetings)
   - 2025: 100.0% (52/52 meetings)
-  - 2026: 100.0% (22/22 meetings)
+  - 2026: 100.0% (23/23 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
-- Steve Lehman (96.5%)
+- Steve Lehman (96.6%)
 - Shawn Lewis (96.0%)
 - Peter Cuddy (95.4%)
 
@@ -106,7 +106,7 @@ prefillQuestions:
 | Council | 5,250 | 4,866 | 266 | 97.8% |
 | Strategic Priorities and Policy Committee | 3,129 | 2,464 | 186 | 84.7% |
 | Corporate Services Committee | 1,069 | 964 | 19 | 92.0% |
-| Planning and Environment Committee | 677 | 183 | 4 | 27.6% |
+| Planning and Environment Committee | 701 | 191 | 5 | 28.0% |
 | Civic Works Committee | 348 | 285 | 2 | 82.5% |
 | Community and Protective Services Committee | 308 | 189 | 14 | 65.9% |
 | Budget Committee | 189 | 115 | 74 | 100.0% |
@@ -124,6 +124,18 @@ prefillQuestions:
 > That, pursuant to section 2.3 of the Council Procedure By-law, the speaking-once provision contained in section 9.7 of the Council Procedure By-law BE SUSPENDED for the Council meeting held on June 17...
 
 Voted **Yea** - Motion Failed (9 to 4)
+
+### 2026-06-09: Councillor C. Rahman - Third-Party Appeal Mechanism 
+
+[The 9th Meeting of the Planning and Environment Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=ff301408-3802-4bf4-80b0-8796af8fd0fd&Agenda=PostMinutes&lang=English)
+
+> That the submission dated June 9, 2026, from Councillor C. Rahman related to Third-Party Appeal Mechanism, BE RECEIVED; 
+
+
+
+it being noted that the Planning and Environment Committee received the foll...
+
+Voted **Nay** - Motion Passed (3 to 2)
 
 ### 2026-06-02: (3.3) 1103 & 1111 Westdel Bourne - OZ-25072
 
@@ -189,30 +201,23 @@ Voted **Yea** - Motion Failed (7 to 8)
 
 Voted **Nay** - Motion Passed (12 to 2)
 
-### 2026-01-13: Mayoral Direction 2024-001 – City-Owned Parking Lot Redevelopment 199 Ridout Street North and 84 Horton Street East
-
-[2nd Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=3ff44bea-1732-40f8-a0be-0bb3b886e41b&Agenda=PostMinutes&lang=English)
-
-> b)    the Civic Administration BE DIRECTED to take no further action on a procurement process to solicit development proposals from qualified firms that can redevelop City-owned parking lots for high-...
-
-Voted **Nay** - Motion Passed (11 to 4)
-
 
 ## Committees Served
 
 - [City Council](/committees/city-council)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
+- [Planning and Environment Committee](/committees/planning-environment)
 - [Corporate Services Committee](/committees/corporate-services)
 - [Community and Protective Services Committee](/committees/community-protective-services)
-- [Planning and Environment Committee](/committees/planning-environment)
 - [Budget Committee](/committees/budget)
 - [Civic Works Committee](/committees/civic-works)
 - [Audit Committee](/committees/audit)
 
-## Recent Meetings (679 total)
+## Recent Meetings (680 total)
 
 - [10th Special Meeting of Council](</months/2026-06/2026-06-17 10th Special Meeting of Council>) - Wed Jun 17 2026
 - [8th Meeting of the Strategic Priorities and Policy Committee](</months/2026-06/2026-06-16 8th Meeting of the Strategic Priorities and Policy Committee>) - Tue Jun 16 2026
+- [The 9th Meeting of the Planning and Environment Committee](</months/2026-06/2026-06-09 The 9th Meeting of the Planning and Environment Committee>) - Tue Jun 9 2026
 - [9th Meeting of Council](</months/2026-06/2026-06-02 9th Meeting of Council>) - Tue Jun 2 2026
 - [7th Meeting of the Strategic Priorities and Policy Committee](</months/2026-05/2026-05-28 7th Meeting of the Strategic Priorities and Policy Committee>) - Thu May 28 2026
 - [10th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-05/2026-05-27 10th Meeting of the Infrastructure and Corporate Services Committee>) - Wed May 27 2026
@@ -220,4 +225,3 @@ Voted **Nay** - Motion Passed (11 to 4)
 - [7th Meeting of the Community and Protective Services Committee](</months/2026-05/2026-05-04 7th Meeting of the Community and Protective Services Committee>) - Mon May 4 2026
 - [6th Meeting of the Strategic Priorities and Policy Committee](</months/2026-04/2026-04-21 6th Meeting of the Strategic Priorities and Policy Committee>) - Tue Apr 21 2026
 - [7th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-04/2026-04-20 7th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Apr 20 2026
-- [The 6th Meeting of the Planning and Environment Committee](</months/2026-04/2026-04-14 The 6th Meeting of the Planning and Environment Committee>) - Tue Apr 14 2026

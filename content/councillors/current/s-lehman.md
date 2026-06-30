@@ -2,18 +2,18 @@
 title: "Steve Lehman"
 type: councillor
 slug: "s-lehman"
-meetingCount: 408
+meetingCount: 409
 yearsActive: "2018 - 2026"
 isCurrent: true
-totalVotes: 7714
-votesYea: 6652
+totalVotes: 7753
+votesYea: 6691
 votesNay: 416
 votesAbsent: 646
 attendanceRate: 96.4
-participationRate: 91.6
+participationRate: 91.7
 yeaRate: 94.1
-contestedDissentRate: 10.0
-contestedVotes: 2202
+contestedDissentRate: 10.1
+contestedVotes: 2208
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -30,10 +30,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 7,714 |
-| Voted Yea | 6,652 (86.2%) |
+| Total Votes | 7,753 |
+| Voted Yea | 6,691 (86.3%) |
 | Voted Nay | 416 (5.4%) |
-| Absent | 646 (8.4%) |
+| Absent | 646 (8.3%) |
 
 
 ### Substantive Votes
@@ -42,17 +42,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 4,506 |
-| Voted Yea | 3,620 (90.4%) |
-| Voted Nay | 383 (9.6%) |
+| Substantive Votes | 4,523 |
+| Voted Yea | 3,637 (90.5%) |
+| Voted Nay | 383 (9.5%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 10.0%
-- **Contested Votes**: 2,202
+- **Dissent Rate**: 10.1%
+- **Contested Votes**: 2,208
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -72,7 +72,7 @@ prefillQuestions:
 ## Attendance
 
 - **Attendance Rate**: 96.4%
-- **Meetings Attended**: 400 of 415
+- **Meetings Attended**: 401 of 416
 - **Meetings Missed**: 15
 - **Trend**: Stable -
 
@@ -80,20 +80,20 @@ prefillQuestions:
   - 2023: 96.7% (58/60 meetings)
   - 2024: 90.5% (57/63 meetings)
   - 2025: 96.3% (52/54 meetings)
-  - 2026: 94.7% (18/19 meetings)
+  - 2026: 95.0% (19/20 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
 - Shawn Lewis (97.1%)
-- Josh Morgan (96.5%)
+- Josh Morgan (96.6%)
 - Steve Hillier (96.4%)
 
 **Least aligned with:**
 - Sam Trosow (83.8%)
 - David Ferreira (87.0%)
-- Susan Stevenson (88.5%)
+- Susan Stevenson (88.6%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -104,7 +104,7 @@ prefillQuestions:
 |-----------|------:|----:|----:|--------------:|
 | Council | 3,944 | 3,631 | 217 | 97.6% |
 | Strategic Priorities and Policy Committee | 1,995 | 1,456 | 114 | 78.7% |
-| Planning and Environment Committee | 1,475 | 1,327 | 26 | 91.7% |
+| Planning and Environment Committee | 1,514 | 1,366 | 26 | 91.9% |
 | Budget Committee | 189 | 130 | 58 | 99.5% |
 | Civic Works Committee | 111 | 108 | 1 | 98.2% |
 
@@ -112,6 +112,14 @@ prefillQuestions:
 ## Notable Dissenting Votes
 
 *Recent split votes where Steve Lehman voted against the final outcome:*
+
+### 2026-06-09: 1837 Churchill Avenue - Z-26048 
+
+[The 9th Meeting of the Planning and Environment Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=ff301408-3802-4bf4-80b0-8796af8fd0fd&Agenda=PostMinutes&lang=English)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Al-Taqwa Academy (c/o Strik Baldinelli Moniz Ltd.) relating to ...
+
+Voted **Yea** - Motion Failed (2 to 3)
 
 ### 2026-06-02: (3.3) 1103 & 1111 Westdel Bourne - OZ-25072
 
@@ -185,14 +193,6 @@ Voted **Nay** - Motion Passed (8 to 7)
 
 Voted **Nay** - Motion Passed (8 to 7)
 
-### 2026-02-10: (2.4) Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program
-
-[3rd Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English)
-
-> That part b) of the motion BE AMENDED by deleting the words “the term of the loan is extended from five years to ten years” and substituting “and be further revised to a loan term of five years,” it b...
-
-Voted **Yea** - Motion Failed (7 to 8)
-
 
 ## Committees Served
 
@@ -203,10 +203,11 @@ Voted **Yea** - Motion Failed (7 to 8)
 - [Corporate Services Committee](/committees/corporate-services)
 - [Civic Works Committee](/committees/civic-works)
 
-## Recent Meetings (408 total)
+## Recent Meetings (409 total)
 
 - [10th Special Meeting of Council](</months/2026-06/2026-06-17 10th Special Meeting of Council>) - Wed Jun 17 2026
 - [8th Meeting of the Strategic Priorities and Policy Committee](</months/2026-06/2026-06-16 8th Meeting of the Strategic Priorities and Policy Committee>) - Tue Jun 16 2026
+- [The 9th Meeting of the Planning and Environment Committee](</months/2026-06/2026-06-09 The 9th Meeting of the Planning and Environment Committee>) - Tue Jun 9 2026
 - [9th Meeting of Council](</months/2026-06/2026-06-02 9th Meeting of Council>) - Tue Jun 2 2026
 - [7th Meeting of the Strategic Priorities and Policy Committee](</months/2026-05/2026-05-28 7th Meeting of the Strategic Priorities and Policy Committee>) - Thu May 28 2026
 - [The 8th Meeting of the Planning and Environment Committee](</months/2026-05/2026-05-26 The 8th Meeting of the Planning and Environment Committee>) - Tue May 26 2026
@@ -214,4 +215,3 @@ Voted **Yea** - Motion Failed (7 to 8)
 - [The 7th Meeting of the Planning and Environment Committee](</months/2026-05/2026-05-05 The 7th Meeting of the Planning and Environment Committee>) - Tue May 5 2026
 - [6th Meeting of the Strategic Priorities and Policy Committee](</months/2026-04/2026-04-21 6th Meeting of the Strategic Priorities and Policy Committee>) - Tue Apr 21 2026
 - [The 6th Meeting of the Planning and Environment Committee](</months/2026-04/2026-04-14 The 6th Meeting of the Planning and Environment Committee>) - Tue Apr 14 2026
-- [5th Meeting of the Planning and Environment Committee](</months/2026-03/2026-03-10 5th Meeting of the Planning and Environment Committee>) - Tue Mar 10 2026

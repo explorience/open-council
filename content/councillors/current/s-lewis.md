@@ -2,18 +2,18 @@
 title: "Shawn Lewis"
 type: councillor
 slug: "s-lewis"
-meetingCount: 522
+meetingCount: 523
 yearsActive: "2018 - 2026"
 isCurrent: true
-totalVotes: 9215
-votesYea: 8033
-votesNay: 507
-votesAbsent: 675
+totalVotes: 9254
+votesYea: 8066
+votesNay: 509
+votesAbsent: 679
 attendanceRate: 98.4
 participationRate: 92.7
 yeaRate: 94.1
 contestedDissentRate: 10.8
-contestedVotes: 2419
+contestedVotes: 2425
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -30,10 +30,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 9,215 |
-| Voted Yea | 8,033 (87.2%) |
-| Voted Nay | 507 (5.5%) |
-| Absent | 675 (7.3%) |
+| Total Votes | 9,254 |
+| Voted Yea | 8,066 (87.2%) |
+| Voted Nay | 509 (5.5%) |
+| Absent | 679 (7.3%) |
 
 
 ### Substantive Votes
@@ -42,9 +42,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 5,322 |
-| Voted Yea | 4,298 (90.1%) |
-| Voted Nay | 472 (9.9%) |
+| Substantive Votes | 5,339 |
+| Voted Yea | 4,313 (90.1%) |
+| Voted Nay | 473 (9.9%) |
 
 
 ### Dissent on Contested Votes
@@ -52,7 +52,7 @@ prefillQuestions:
 *Only counts non-unanimous votes where the councillor participated*
 
 - **Dissent Rate**: 10.8%
-- **Contested Votes**: 2,419
+- **Contested Votes**: 2,425
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -72,7 +72,7 @@ prefillQuestions:
 ## Attendance
 
 - **Attendance Rate**: 98.4%
-- **Meetings Attended**: 486 of 494
+- **Meetings Attended**: 487 of 495
 - **Meetings Missed**: 8
 - **Trend**: Declining v
 
@@ -80,7 +80,7 @@ prefillQuestions:
   - 2023: 100.0% (84/84 meetings)
   - 2024: 98.4% (62/63 meetings)
   - 2025: 96.3% (52/54 meetings)
-  - 2026: 85.7% (18/21 meetings)
+  - 2026: 86.4% (19/22 meetings)
 
 
 ## Voting Alignment
@@ -104,7 +104,7 @@ prefillQuestions:
 |-----------|------:|----:|----:|--------------:|
 | Council | 4,106 | 3,787 | 243 | 98.1% |
 | Strategic Priorities and Policy Committee | 2,113 | 1,530 | 140 | 79.0% |
-| Planning and Environment Committee | 2,034 | 1,912 | 36 | 95.8% |
+| Planning and Environment Committee | 2,073 | 1,945 | 38 | 95.7% |
 | Community and Protective Services Committee | 374 | 356 | 11 | 98.1% |
 | Civic Works Committee | 196 | 188 | 3 | 97.4% |
 | Corporate Services Committee | 194 | 164 | 5 | 87.1% |
@@ -139,6 +139,14 @@ Voted **Nay** - Motion Passed (11 to 3)
 > That pursuant to section 31.6 of the Council Procedure By-law, His Worship Mayor J. Morgan, BE PERMITTED to speak an additional 2 minutes with respect to this matter.
 
 Voted **Nay** - Motion Passed (13 to 1)
+
+### 2026-06-09: Solicitor-Client Privilege
+
+[The 9th Meeting of the Planning and Environment Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=ff301408-3802-4bf4-80b0-8796af8fd0fd&Agenda=PostMinutes&lang=English)
+
+> That the Planning and Environment Committee rise and go into Committee, In Closed Session, for the purpose of considering the following: a matter pertaining to advice that is subject to solicitor-clie...
+
+Voted **Nay** - Motion Passed (5 to 1)
 
 ### 2026-06-02: (3.3) 1103 & 1111 Westdel Bourne - OZ-25072
 
@@ -188,30 +196,23 @@ Voted **Nay** - Motion Passed (10 to 4)
 
 Voted **Yea** - Motion Failed (1 to 4)
 
-### 2026-03-03: (4.4) Summary Update from Internal Audit
-
-[4th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
-
-> That the motion BE AMENDED to add a new part to read as follows: MNP BE DIRECTED to change the submission date for the Privacy Audit from December 9, 2026 to October 7, 2026 and the submission date fo...
-
-Voted **Nay** - Motion Passed (8 to 3)
-
 
 ## Committees Served
 
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Corporate Services Committee](/committees/corporate-services)
-- [City Council](/committees/city-council)
 - [Planning and Environment Committee](/committees/planning-environment)
+- [City Council](/committees/city-council)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [Budget Committee](/committees/budget)
 - [Audit Committee](/committees/audit)
 - [Civic Works Committee](/committees/civic-works)
 
-## Recent Meetings (522 total)
+## Recent Meetings (523 total)
 
 - [8th Meeting of the Strategic Priorities and Policy Committee](</months/2026-06/2026-06-16 8th Meeting of the Strategic Priorities and Policy Committee>) - Tue Jun 16 2026
 - [11th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-06/2026-06-15 11th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Jun 15 2026
+- [The 9th Meeting of the Planning and Environment Committee](</months/2026-06/2026-06-09 The 9th Meeting of the Planning and Environment Committee>) - Tue Jun 9 2026
 - [9th Meeting of Council](</months/2026-06/2026-06-02 9th Meeting of Council>) - Tue Jun 2 2026
 - [7th Meeting of the Strategic Priorities and Policy Committee](</months/2026-05/2026-05-28 7th Meeting of the Strategic Priorities and Policy Committee>) - Thu May 28 2026
 - [The 8th Meeting of the Planning and Environment Committee](</months/2026-05/2026-05-26 The 8th Meeting of the Planning and Environment Committee>) - Tue May 26 2026
@@ -219,4 +220,3 @@ Voted **Nay** - Motion Passed (8 to 3)
 - [The 7th Meeting of the Planning and Environment Committee](</months/2026-05/2026-05-05 The 7th Meeting of the Planning and Environment Committee>) - Tue May 5 2026
 - [5th Meeting of the Strategic Priorities and Policy Committee](</months/2026-03/2026-03-24 5th Meeting of the Strategic Priorities and Policy Committee>) - Tue Mar 24 2026
 - [6th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-03/2026-03-23 6th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Mar 23 2026
-- [5th Meeting of the Planning and Environment Committee](</months/2026-03/2026-03-10 5th Meeting of the Planning and Environment Committee>) - Tue Mar 10 2026

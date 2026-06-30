@@ -2,18 +2,18 @@
 title: "Peter Cuddy"
 type: councillor
 slug: "p-cuddy"
-meetingCount: 229
+meetingCount: 230
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 4165
-votesYea: 3487
-votesNay: 340
+totalVotes: 4204
+votesYea: 3525
+votesNay: 341
 votesAbsent: 338
-attendanceRate: 98.2
-participationRate: 91.9
-yeaRate: 91.1
-contestedDissentRate: 11.2
-contestedVotes: 1451
+attendanceRate: 98.3
+participationRate: 92.0
+yeaRate: 91.2
+contestedDissentRate: 11.3
+contestedVotes: 1457
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -30,10 +30,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 4,165 |
-| Voted Yea | 3,487 (83.7%) |
-| Voted Nay | 340 (8.2%) |
-| Absent | 338 (8.1%) |
+| Total Votes | 4,204 |
+| Voted Yea | 3,525 (83.8%) |
+| Voted Nay | 341 (8.1%) |
+| Absent | 338 (8.0%) |
 
 
 ### Substantive Votes
@@ -42,17 +42,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,492 |
-| Voted Yea | 1,906 (85.9%) |
-| Voted Nay | 313 (14.1%) |
+| Substantive Votes | 2,509 |
+| Voted Yea | 1,923 (86.0%) |
+| Voted Nay | 313 (14.0%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 11.2%
-- **Contested Votes**: 1,451
+- **Dissent Rate**: 11.3%
+- **Contested Votes**: 1,457
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -71,8 +71,8 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 98.2%
-- **Meetings Attended**: 224 of 228
+- **Attendance Rate**: 98.3%
+- **Meetings Attended**: 225 of 229
 - **Meetings Missed**: 4
 - **Trend**: Declining v
 
@@ -80,7 +80,7 @@ prefillQuestions:
   - 2023: 100.0% (61/61 meetings)
   - 2024: 100.0% (67/67 meetings)
   - 2025: 97.2% (69/71 meetings)
-  - 2026: 90.5% (19/21 meetings)
+  - 2026: 90.9% (20/22 meetings)
 
 
 ## Voting Alignment
@@ -104,7 +104,7 @@ prefillQuestions:
 |-----------|------:|----:|----:|--------------:|
 | Council | 2,001 | 1,770 | 159 | 96.4% |
 | Strategic Priorities and Policy Committee | 1,079 | 778 | 81 | 79.6% |
-| Planning and Environment Committee | 609 | 569 | 8 | 94.7% |
+| Planning and Environment Committee | 648 | 607 | 9 | 95.1% |
 | Budget Committee | 189 | 116 | 73 | 100.0% |
 | Community and Protective Services Committee | 122 | 101 | 13 | 93.4% |
 | Civic Works Committee | 98 | 93 | 5 | 100.0% |
@@ -130,6 +130,26 @@ Voted **Yea** - Motion Failed (9 to 4)
 > That pursuant to section 31.6 of the Council Procedure By-law, Councillor D. Ferreira BE PERMITTED to speak an additional 3 minutes with respect to this matter.
 
 Voted **Nay** - Motion Passed (11 to 3)
+
+### 2026-06-09: 1837 Churchill Avenue - Z-26048 
+
+[The 9th Meeting of the Planning and Environment Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=ff301408-3802-4bf4-80b0-8796af8fd0fd&Agenda=PostMinutes&lang=English)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Al-Taqwa Academy (c/o Strik Baldinelli Moniz Ltd.) relating to ...
+
+Voted **Yea** - Motion Failed (2 to 3)
+
+### 2026-06-09: Councillor C. Rahman - Third-Party Appeal Mechanism 
+
+[The 9th Meeting of the Planning and Environment Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=ff301408-3802-4bf4-80b0-8796af8fd0fd&Agenda=PostMinutes&lang=English)
+
+> That the submission dated June 9, 2026, from Councillor C. Rahman related to Third-Party Appeal Mechanism, BE RECEIVED; 
+
+
+
+it being noted that the Planning and Environment Committee received the foll...
+
+Voted **Nay** - Motion Passed (3 to 2)
 
 ### 2026-06-02: (3.3) 1103 & 1111 Westdel Bourne - OZ-25072
 
@@ -179,22 +199,6 @@ Voted **Yea** - Motion Failed (7 to 8)
 
 Voted **Nay** - Motion Passed (8 to 7)
 
-### 2026-02-10: (3.4) 767 Fanshawe Park Road East and 679 Dunboyne Crescent - Z-25151 (Relates to Bill No. 82)
-
-[3rd Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English)
-
-> vi. Rooftop amenity shall be prohibited; and
-
-Voted **Nay** - Motion Passed (11 to 4)
-
-### 2026-02-10: (3.4) 767 Fanshawe Park Road East and 679 Dunboyne Crescent - Z-25151 (Relates to Bill No. 82)
-
-[3rd Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English)
-
-> vii) the Civic Administration BE DIRECTED to hold a public participation meeting with respect to the site plan process.
-
-Voted **Nay** - Motion Passed (8 to 7)
-
 
 ## Committees Served
 
@@ -207,15 +211,15 @@ Voted **Nay** - Motion Passed (8 to 7)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [Civic Works Committee](/committees/civic-works)
 
-## Recent Meetings (229 total)
+## Recent Meetings (230 total)
 
 - [10th Special Meeting of Council](</months/2026-06/2026-06-17 10th Special Meeting of Council>) - Wed Jun 17 2026
 - [3rd Meeting of the Audit Committee](</months/2026-06/2026-06-17 3rd Meeting of the Audit Committee>) - Wed Jun 17 2026
 - [8th Meeting of the Strategic Priorities and Policy Committee](</months/2026-06/2026-06-16 8th Meeting of the Strategic Priorities and Policy Committee>) - Tue Jun 16 2026
+- [The 9th Meeting of the Planning and Environment Committee](</months/2026-06/2026-06-09 The 9th Meeting of the Planning and Environment Committee>) - Tue Jun 9 2026
 - [9th Meeting of Council](</months/2026-06/2026-06-02 9th Meeting of Council>) - Tue Jun 2 2026
 - [7th Meeting of the Strategic Priorities and Policy Committee](</months/2026-05/2026-05-28 7th Meeting of the Strategic Priorities and Policy Committee>) - Thu May 28 2026
 - [The 8th Meeting of the Planning and Environment Committee](</months/2026-05/2026-05-26 The 8th Meeting of the Planning and Environment Committee>) - Tue May 26 2026
 - [8th Meeting of Council](</months/2026-05/2026-05-12 8th Meeting of Council>) - Tue May 12 2026
 - [The 7th Meeting of the Planning and Environment Committee](</months/2026-05/2026-05-05 The 7th Meeting of the Planning and Environment Committee>) - Tue May 5 2026
 - [6th Meeting of the Strategic Priorities and Policy Committee](</months/2026-04/2026-04-21 6th Meeting of the Strategic Priorities and Policy Committee>) - Tue Apr 21 2026
-- [The 6th Meeting of the Planning and Environment Committee](</months/2026-04/2026-04-14 The 6th Meeting of the Planning and Environment Committee>) - Tue Apr 14 2026
