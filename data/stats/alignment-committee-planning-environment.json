@@ -1,39 +1,39 @@
 {
-  "generatedAt": "2026-06-29T08:17:15.644Z",
+  "generatedAt": "2026-06-30T07:48:45.374Z",
   "matrix": {
     "j-morgan": {
-      "s-lewis": 93.33333333333333,
-      "p-cuddy": 97.72727272727273,
+      "s-lewis": 92.3076923076923,
+      "p-cuddy": 97.95918367346938,
       "s-stevenson": 100,
-      "s-lehman": 96.61016949152543,
+      "s-lehman": 96.875,
       "a-hopkins": 100,
       "s-franke": 93.33333333333333,
       "e-peloza": 88.23529411764706,
-      "s-hillier": 97.87234042553192
+      "s-hillier": 98.0392156862745
     },
     "h-mcalister": {},
     "s-lewis": {
-      "j-morgan": 93.33333333333333,
-      "p-cuddy": 100,
-      "s-stevenson": 100,
+      "j-morgan": 92.3076923076923,
+      "p-cuddy": 99.53703703703704,
+      "s-stevenson": 98.50746268656717,
       "c-rahman": 98.7878787878788,
-      "s-lehman": 98.69646182495345,
+      "s-lehman": 98.54014598540147,
       "a-hopkins": 95.22388059701493,
       "s-franke": 97.58064516129032,
       "e-peloza": 95.91836734693877,
-      "s-hillier": 99.0358126721763
+      "s-hillier": 98.91304347826086
     },
     "p-cuddy": {
-      "j-morgan": 97.72727272727273,
-      "s-lewis": 100,
+      "j-morgan": 97.95918367346938,
+      "s-lewis": 99.53703703703704,
       "s-stevenson": 100,
-      "s-lehman": 99.11504424778761,
+      "s-lehman": 99.15966386554622,
       "e-peloza": 96.15384615384616,
       "s-hillier": 100
     },
     "s-stevenson": {
       "j-morgan": 100,
-      "s-lewis": 100,
+      "s-lewis": 98.50746268656717,
       "p-cuddy": 100,
       "s-lehman": 100,
       "s-hillier": 100
@@ -47,15 +47,15 @@
       "s-hillier": 100
     },
     "s-lehman": {
-      "j-morgan": 96.61016949152543,
-      "s-lewis": 98.69646182495345,
-      "p-cuddy": 99.11504424778761,
+      "j-morgan": 96.875,
+      "s-lewis": 98.54014598540147,
+      "p-cuddy": 99.15966386554622,
       "s-stevenson": 100,
       "c-rahman": 100,
       "a-hopkins": 90.625,
       "s-franke": 96.80365296803653,
       "e-peloza": 95.30201342281879,
-      "s-hillier": 98.70370370370371
+      "s-hillier": 98.72958257713249
     },
     "a-hopkins": {
       "j-morgan": 100,
@@ -82,12 +82,12 @@
     },
     "d-ferreira": {},
     "s-hillier": {
-      "j-morgan": 97.87234042553192,
-      "s-lewis": 99.0358126721763,
+      "j-morgan": 98.0392156862745,
+      "s-lewis": 98.91304347826086,
       "p-cuddy": 100,
       "s-stevenson": 100,
       "c-rahman": 100,
-      "s-lehman": 98.70370370370371,
+      "s-lehman": 98.72958257713249,
       "a-hopkins": 94.37751004016064,
       "s-franke": 97.91666666666666,
       "e-peloza": 96.22641509433963
@@ -136,6 +136,6 @@
     }
   ],
   "type": "committee",
-  "motionCount": 2610,
+  "motionCount": 2622,
   "committeeName": "Planning and Environment Committee"
 }

@@ -2,11 +2,11 @@
   "councillor": "Susan Stevenson",
   "slug": "s-stevenson",
   "attendance": {
-    "totalMeetings": 229,
-    "present": 203,
+    "totalMeetings": 230,
+    "present": 204,
     "absent": 26,
     "remote": 1,
-    "attendanceRate": 88.64628820960698,
+    "attendanceRate": 88.69565217391305,
     "trend": [
       {
         "period": "2022",
@@ -34,27 +34,27 @@
       },
       {
         "period": "2026",
-        "attendanceRate": 87.09677419354838,
-        "meetingsAttended": 27,
-        "meetingsTotal": 31
+        "attendanceRate": 87.5,
+        "meetingsAttended": 28,
+        "meetingsTotal": 32
       }
     ],
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 3790,
-    "yeas": 2710,
-    "nays": 570,
+    "totalVotes": 3829,
+    "yeas": 2746,
+    "nays": 573,
     "absent": 510,
-    "participationRate": 86.54353562005277,
-    "yeaRate": 82.6219512195122,
-    "contestedDissentRate": 36.58357771260997,
-    "contestedVotes": 1364,
-    "substantiveVotes": 2302,
-    "substantiveYeas": 1579,
-    "substantiveNays": 360,
-    "substantiveParticipationRate": 84.23110338835795,
-    "substantiveYeaRate": 81.4337287261475
+    "participationRate": 86.68059545573257,
+    "yeaRate": 82.73576378427238,
+    "contestedDissentRate": 36.56934306569343,
+    "contestedVotes": 1370,
+    "substantiveVotes": 2319,
+    "substantiveYeas": 1593,
+    "substantiveNays": 363,
+    "substantiveParticipationRate": 84.34670116429496,
+    "substantiveYeaRate": 81.44171779141104
   },
   "budgetVoting": {
     "totalBudgetVotes": 383,
@@ -71,9 +71,9 @@
     },
     {
       "councillor": "Peter Cuddy",
-      "sharedVotes": 1530,
-      "agreedVotes": 1363,
-      "alignmentRate": 89.08496732026144
+      "sharedVotes": 1542,
+      "agreedVotes": 1375,
+      "alignmentRate": 89.16990920881972
     },
     {
       "councillor": "Jerry Pribil",
@@ -83,15 +83,15 @@
     },
     {
       "councillor": "Steve Lehman",
-      "sharedVotes": 1455,
-      "agreedVotes": 1288,
-      "alignmentRate": 88.52233676975945
+      "sharedVotes": 1467,
+      "agreedVotes": 1300,
+      "alignmentRate": 88.61622358554874
     },
     {
       "councillor": "Steve Hillier",
-      "sharedVotes": 1393,
-      "agreedVotes": 1230,
-      "alignmentRate": 88.2986360373295
+      "sharedVotes": 1404,
+      "agreedVotes": 1241,
+      "alignmentRate": 88.3903133903134
     }
   ],
   "bottomAlignments": [
@@ -200,22 +200,22 @@
       "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=9c36b95b-0f57-4dda-b979-57f7b092d2f6&Agenda=PostMinutes&lang=English"
     },
     {
-      "date": "2026-05-28",
-      "meetingTitle": "7th Meeting of the Strategic Priorities and Policy Committee",
-      "itemTitle": "Strategic Plan Implementation Update: Mid-Year 2026",
-      "motionText": "That, on the recommendation of the City Manager, the report including the 2026 Mid-Year Strategic Plan Implementation Update, as appended to the staff report dated May 28, 2026, BE RECEIVED for inform...",
+      "date": "2026-06-09",
+      "meetingTitle": "The 9th Meeting of the Planning and Environment Committee",
+      "itemTitle": "36 Wethered Street - Z-26050 ",
+      "motionText": "That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Monteith Brown Planning Consultants Ltd. (c/o Jay McGuffin) rel...",
       "vote": "nay",
-      "result": "Motion Passed (12 to 1)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=d6d163e4-49ea-4151-8247-514f3547158a&Agenda=PostMinutes&lang=English"
+      "result": "Motion Passed (4 to 1)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=ff301408-3802-4bf4-80b0-8796af8fd0fd&Agenda=PostMinutes&lang=English"
     },
     {
-      "date": "2026-05-28",
-      "meetingTitle": "7th Meeting of the Strategic Priorities and Policy Committee",
-      "itemTitle": "Review of RFPQ 2025-056 Redevelopment of City Hall Campus Procurement and Related Information",
-      "motionText": "That, on the recommendation of the Deputy City Manager, Finance Supports, the report dated May 28, 2026, titled “Review of RFPQ 2025-056 – Redevelopment of City Hall Campus Procurement and Related Inf...",
+      "date": "2026-06-09",
+      "meetingTitle": "The 9th Meeting of the Planning and Environment Committee",
+      "itemTitle": "929 Cheapside Street - Z-26003 ",
+      "motionText": "Motion to approve part a)",
       "vote": "nay",
-      "result": "Motion Passed (10 to 1)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=d6d163e4-49ea-4151-8247-514f3547158a&Agenda=PostMinutes&lang=English"
+      "result": "Motion Passed (3 to 2)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=ff301408-3802-4bf4-80b0-8796af8fd0fd&Agenda=PostMinutes&lang=English"
     }
   ],
   "committeeActivity": [
@@ -235,10 +235,10 @@
     },
     {
       "committee": "Planning and Environment Committee",
-      "totalVotes": 224,
-      "yeas": 182,
-      "nays": 4,
-      "participationRate": 83.03571428571429
+      "totalVotes": 263,
+      "yeas": 218,
+      "nays": 7,
+      "participationRate": 85.55133079847909
     },
     {
       "committee": "Budget Committee",

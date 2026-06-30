@@ -2,11 +2,11 @@
   "councillor": "Peter Cuddy",
   "slug": "p-cuddy",
   "attendance": {
-    "totalMeetings": 228,
-    "present": 224,
+    "totalMeetings": 229,
+    "present": 225,
     "absent": 4,
     "remote": 0,
-    "attendanceRate": 98.24561403508771,
+    "attendanceRate": 98.2532751091703,
     "trend": [
       {
         "period": "2022",
@@ -34,27 +34,27 @@
       },
       {
         "period": "2026",
-        "attendanceRate": 90.47619047619048,
-        "meetingsAttended": 19,
-        "meetingsTotal": 21
+        "attendanceRate": 90.9090909090909,
+        "meetingsAttended": 20,
+        "meetingsTotal": 22
       }
     ],
     "trendDirection": "declining"
   },
   "voting": {
-    "totalVotes": 4165,
-    "yeas": 3487,
-    "nays": 340,
+    "totalVotes": 4204,
+    "yeas": 3525,
+    "nays": 341,
     "absent": 338,
-    "participationRate": 91.88475390156063,
-    "yeaRate": 91.1157564672067,
-    "contestedDissentRate": 11.164713990351482,
-    "contestedVotes": 1451,
-    "substantiveVotes": 2492,
-    "substantiveYeas": 1906,
+    "participationRate": 91.96003805899143,
+    "yeaRate": 91.17951370926022,
+    "contestedDissentRate": 11.256005490734386,
+    "contestedVotes": 1457,
+    "substantiveVotes": 2509,
+    "substantiveYeas": 1923,
     "substantiveNays": 313,
-    "substantiveParticipationRate": 89.04494382022472,
-    "substantiveYeaRate": 85.89454709328527
+    "substantiveParticipationRate": 89.11917098445595,
+    "substantiveYeaRate": 86.00178890876565
   },
   "budgetVoting": {
     "totalBudgetVotes": 388,
@@ -65,27 +65,27 @@
   "topAlignments": [
     {
       "councillor": "Shawn Lewis",
-      "sharedVotes": 1717,
-      "agreedVotes": 1674,
-      "alignmentRate": 97.49563191613278
+      "sharedVotes": 1728,
+      "agreedVotes": 1684,
+      "alignmentRate": 97.45370370370371
     },
     {
       "councillor": "Steve Lehman",
-      "sharedVotes": 1708,
-      "agreedVotes": 1645,
-      "alignmentRate": 96.31147540983606
+      "sharedVotes": 1720,
+      "agreedVotes": 1657,
+      "alignmentRate": 96.33720930232558
     },
     {
       "councillor": "Josh Morgan",
-      "sharedVotes": 1572,
-      "agreedVotes": 1500,
-      "alignmentRate": 95.41984732824427
+      "sharedVotes": 1577,
+      "agreedVotes": 1505,
+      "alignmentRate": 95.43436905516805
     },
     {
       "councillor": "Steve Hillier",
-      "sharedVotes": 1660,
-      "agreedVotes": 1583,
-      "alignmentRate": 95.36144578313252
+      "sharedVotes": 1671,
+      "agreedVotes": 1594,
+      "alignmentRate": 95.39198084979054
     },
     {
       "councillor": "Jerry Pribil",
@@ -115,9 +115,9 @@
     },
     {
       "councillor": "Susan Stevenson",
-      "sharedVotes": 1530,
-      "agreedVotes": 1363,
-      "alignmentRate": 89.08496732026144
+      "sharedVotes": 1542,
+      "agreedVotes": 1375,
+      "alignmentRate": 89.16990920881972
     },
     {
       "councillor": "Skylar Franke",
@@ -144,6 +144,24 @@
       "vote": "nay",
       "result": "Motion Passed (11 to 3)",
       "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=a1f160a0-0ce3-4a5a-8c16-928242b55c4d&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2026-06-09",
+      "meetingTitle": "The 9th Meeting of the Planning and Environment Committee",
+      "itemTitle": "1837 Churchill Avenue - Z-26048 ",
+      "motionText": "That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Al-Taqwa Academy (c/o Strik Baldinelli Moniz Ltd.) relating to ...",
+      "vote": "yea",
+      "result": "Motion Failed (2 to 3)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=ff301408-3802-4bf4-80b0-8796af8fd0fd&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2026-06-09",
+      "meetingTitle": "The 9th Meeting of the Planning and Environment Committee",
+      "itemTitle": "Councillor C. Rahman - Third-Party Appeal Mechanism ",
+      "motionText": "That the submission dated June 9, 2026, from Councillor C. Rahman related to Third-Party Appeal Mechanism, BE RECEIVED; \n\n\n\nit being noted that the Planning and Environment Committee received the foll...",
+      "vote": "nay",
+      "result": "Motion Passed (3 to 2)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=ff301408-3802-4bf4-80b0-8796af8fd0fd&Agenda=PostMinutes&lang=English"
     },
     {
       "date": "2026-06-02",
@@ -198,24 +216,6 @@
       "vote": "nay",
       "result": "Motion Passed (8 to 7)",
       "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-02-10",
-      "meetingTitle": "3rd Council Meeting",
-      "itemTitle": "(3.4) 767 Fanshawe Park Road East and 679 Dunboyne Crescent - Z-25151 (Relates to Bill No. 82)",
-      "motionText": "vi. Rooftop amenity shall be prohibited; and",
-      "vote": "nay",
-      "result": "Motion Passed (11 to 4)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-02-10",
-      "meetingTitle": "3rd Council Meeting",
-      "itemTitle": "(3.4) 767 Fanshawe Park Road East and 679 Dunboyne Crescent - Z-25151 (Relates to Bill No. 82)",
-      "motionText": "vii) the Civic Administration BE DIRECTED to hold a public participation meeting with respect to the site plan process.",
-      "vote": "nay",
-      "result": "Motion Passed (8 to 7)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English"
     }
   ],
   "committeeActivity": [
@@ -235,10 +235,10 @@
     },
     {
       "committee": "Planning and Environment Committee",
-      "totalVotes": 609,
-      "yeas": 569,
-      "nays": 8,
-      "participationRate": 94.7454844006568
+      "totalVotes": 648,
+      "yeas": 607,
+      "nays": 9,
+      "participationRate": 95.06172839506173
     },
     {
       "committee": "Budget Committee",

@@ -2,11 +2,11 @@
   "councillor": "Steve Lehman",
   "slug": "s-lehman",
   "attendance": {
-    "totalMeetings": 415,
-    "present": 400,
+    "totalMeetings": 416,
+    "present": 401,
     "absent": 15,
     "remote": 3,
-    "attendanceRate": 96.3855421686747,
+    "attendanceRate": 96.39423076923077,
     "trend": [
       {
         "period": "2018",
@@ -58,27 +58,27 @@
       },
       {
         "period": "2026",
-        "attendanceRate": 94.73684210526315,
-        "meetingsAttended": 18,
-        "meetingsTotal": 19
+        "attendanceRate": 95,
+        "meetingsAttended": 19,
+        "meetingsTotal": 20
       }
     ],
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 7714,
-    "yeas": 6652,
+    "totalVotes": 7753,
+    "yeas": 6691,
     "nays": 416,
     "absent": 646,
-    "participationRate": 91.62561576354679,
-    "yeaRate": 94.11431805319751,
-    "contestedDissentRate": 10.036330608537693,
-    "contestedVotes": 2202,
-    "substantiveVotes": 4506,
-    "substantiveYeas": 3620,
+    "participationRate": 91.66774151941183,
+    "yeaRate": 94.14661601238215,
+    "contestedDissentRate": 10.054347826086957,
+    "contestedVotes": 2208,
+    "substantiveVotes": 4523,
+    "substantiveYeas": 3637,
     "substantiveNays": 383,
-    "substantiveParticipationRate": 88.83710608078118,
-    "substantiveYeaRate": 90.43217586809892
+    "substantiveParticipationRate": 88.87906256909132,
+    "substantiveYeaRate": 90.4726368159204
   },
   "budgetVoting": {
     "totalBudgetVotes": 720,
@@ -89,27 +89,27 @@
   "topAlignments": [
     {
       "councillor": "Shawn Lewis",
-      "sharedVotes": 3566,
-      "agreedVotes": 3463,
-      "alignmentRate": 97.11160964666293
+      "sharedVotes": 3577,
+      "agreedVotes": 3473,
+      "alignmentRate": 97.09253564439474
     },
     {
       "councillor": "Josh Morgan",
-      "sharedVotes": 2838,
-      "agreedVotes": 2740,
-      "alignmentRate": 96.54686398872445
+      "sharedVotes": 2843,
+      "agreedVotes": 2745,
+      "alignmentRate": 96.55293703833978
     },
     {
       "councillor": "Steve Hillier",
-      "sharedVotes": 3186,
-      "agreedVotes": 3072,
-      "alignmentRate": 96.42184557438794
+      "sharedVotes": 3197,
+      "agreedVotes": 3083,
+      "alignmentRate": 96.43415702220832
     },
     {
       "councillor": "Peter Cuddy",
-      "sharedVotes": 1708,
-      "agreedVotes": 1645,
-      "alignmentRate": 96.31147540983606
+      "sharedVotes": 1720,
+      "agreedVotes": 1657,
+      "alignmentRate": 96.33720930232558
     },
     {
       "councillor": "Jerry Pribil",
@@ -133,9 +133,9 @@
     },
     {
       "councillor": "Susan Stevenson",
-      "sharedVotes": 1455,
-      "agreedVotes": 1288,
-      "alignmentRate": 88.52233676975945
+      "sharedVotes": 1467,
+      "agreedVotes": 1300,
+      "alignmentRate": 88.61622358554874
     },
     {
       "councillor": "Anna Hopkins",
@@ -151,6 +151,15 @@
     }
   ],
   "notableDissents": [
+    {
+      "date": "2026-06-09",
+      "meetingTitle": "The 9th Meeting of the Planning and Environment Committee",
+      "itemTitle": "1837 Churchill Avenue - Z-26048 ",
+      "motionText": "That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Al-Taqwa Academy (c/o Strik Baldinelli Moniz Ltd.) relating to ...",
+      "vote": "yea",
+      "result": "Motion Failed (2 to 3)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=ff301408-3802-4bf4-80b0-8796af8fd0fd&Agenda=PostMinutes&lang=English"
+    },
     {
       "date": "2026-06-02",
       "meetingTitle": "9th Meeting of Council",
@@ -231,15 +240,6 @@
       "vote": "nay",
       "result": "Motion Passed (8 to 7)",
       "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-02-10",
-      "meetingTitle": "3rd Council Meeting",
-      "itemTitle": "(2.4) Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program",
-      "motionText": "That part b) of the motion BE AMENDED by deleting the words “the term of the loan is extended from five years to ten years” and substituting “and be further revised to a loan term of five years,” it b...",
-      "vote": "yea",
-      "result": "Motion Failed (7 to 8)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English"
     }
   ],
   "committeeActivity": [
@@ -259,10 +259,10 @@
     },
     {
       "committee": "Planning and Environment Committee",
-      "totalVotes": 1475,
-      "yeas": 1327,
+      "totalVotes": 1514,
+      "yeas": 1366,
       "nays": 26,
-      "participationRate": 91.72881355932203
+      "participationRate": 91.94187582562748
     },
     {
       "committee": "Budget Committee",

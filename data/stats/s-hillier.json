@@ -2,11 +2,11 @@
   "councillor": "Steve Hillier",
   "slug": "s-hillier",
   "attendance": {
-    "totalMeetings": 461,
-    "present": 431,
+    "totalMeetings": 462,
+    "present": 432,
     "absent": 30,
     "remote": 0,
-    "attendanceRate": 93.49240780911063,
+    "attendanceRate": 93.5064935064935,
     "trend": [
       {
         "period": "2018",
@@ -58,27 +58,27 @@
       },
       {
         "period": "2026",
-        "attendanceRate": 89.47368421052632,
-        "meetingsAttended": 17,
-        "meetingsTotal": 19
+        "attendanceRate": 90,
+        "meetingsAttended": 18,
+        "meetingsTotal": 20
       }
     ],
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 7975,
-    "yeas": 6855,
-    "nays": 489,
-    "absent": 631,
-    "participationRate": 92.08777429467084,
-    "yeaRate": 93.34150326797386,
-    "contestedDissentRate": 15.178997613365155,
-    "contestedVotes": 2095,
-    "substantiveVotes": 4485,
-    "substantiveYeas": 3580,
-    "substantiveNays": 426,
-    "substantiveParticipationRate": 89.31995540691193,
-    "substantiveYeaRate": 89.36595107338991
+    "totalVotes": 8014,
+    "yeas": 6887,
+    "nays": 492,
+    "absent": 635,
+    "participationRate": 92.07636635887198,
+    "yeaRate": 93.33242986854587,
+    "contestedDissentRate": 15.238095238095239,
+    "contestedVotes": 2100,
+    "substantiveVotes": 4502,
+    "substantiveYeas": 3592,
+    "substantiveNays": 429,
+    "substantiveParticipationRate": 89.31585961794758,
+    "substantiveYeaRate": 89.33101218602337
   },
   "budgetVoting": {
     "totalBudgetVotes": 684,
@@ -89,27 +89,27 @@
   "topAlignments": [
     {
       "councillor": "Steve Lehman",
-      "sharedVotes": 3186,
-      "agreedVotes": 3072,
-      "alignmentRate": 96.42184557438794
+      "sharedVotes": 3197,
+      "agreedVotes": 3083,
+      "alignmentRate": 96.43415702220832
     },
     {
       "councillor": "Shawn Lewis",
-      "sharedVotes": 3665,
-      "agreedVotes": 3530,
-      "alignmentRate": 96.31650750341065
+      "sharedVotes": 3675,
+      "agreedVotes": 3539,
+      "alignmentRate": 96.29931972789116
     },
     {
       "councillor": "Peter Cuddy",
-      "sharedVotes": 1660,
-      "agreedVotes": 1583,
-      "alignmentRate": 95.36144578313252
+      "sharedVotes": 1671,
+      "agreedVotes": 1594,
+      "alignmentRate": 95.39198084979054
     },
     {
       "councillor": "Josh Morgan",
-      "sharedVotes": 2627,
-      "agreedVotes": 2475,
-      "alignmentRate": 94.21393224210127
+      "sharedVotes": 2631,
+      "agreedVotes": 2479,
+      "alignmentRate": 94.22272900038008
     },
     {
       "councillor": "Elizabeth Peloza",
@@ -132,16 +132,16 @@
       "alignmentRate": 85.60732113144759
     },
     {
-      "councillor": "Susan Stevenson",
-      "sharedVotes": 1393,
-      "agreedVotes": 1230,
-      "alignmentRate": 88.2986360373295
-    },
-    {
       "councillor": "Anna Hopkins",
       "sharedVotes": 2159,
       "agreedVotes": 1908,
       "alignmentRate": 88.37424733672997
+    },
+    {
+      "councillor": "Susan Stevenson",
+      "sharedVotes": 1404,
+      "agreedVotes": 1241,
+      "alignmentRate": 88.3903133903134
     },
     {
       "councillor": "Skylar Franke",
@@ -159,6 +159,24 @@
       "vote": "nay",
       "result": "Motion Passed (10 to 1)",
       "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=a1f160a0-0ce3-4a5a-8c16-928242b55c4d&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2026-06-09",
+      "meetingTitle": "The 9th Meeting of the Planning and Environment Committee",
+      "itemTitle": "929 Cheapside Street - Z-26003 ",
+      "motionText": "That part c) of the motion, as amended, BE APPROVED.",
+      "vote": "nay",
+      "result": "Motion Passed (4 to 1)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=ff301408-3802-4bf4-80b0-8796af8fd0fd&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2026-06-09",
+      "meetingTitle": "The 9th Meeting of the Planning and Environment Committee",
+      "itemTitle": "929 Cheapside Street - Z-26003 ",
+      "motionText": "Motion to approve part a)",
+      "vote": "nay",
+      "result": "Motion Passed (3 to 2)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=ff301408-3802-4bf4-80b0-8796af8fd0fd&Agenda=PostMinutes&lang=English"
     },
     {
       "date": "2026-06-02",
@@ -222,24 +240,6 @@
       "vote": "yea",
       "result": "Motion Failed (5 to 8)",
       "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-02-18",
-      "meetingTitle": "4th Meeting of the Planning and Environment Committee",
-      "itemTitle": "550 Ridout Street North & 82-90 Kent Street - OZ-25152",
-      "motionText": "Notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Ridout and Kent Block Inc. relating to the property loca...",
-      "vote": "nay",
-      "result": "Motion Passed (3 to 1)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=0ebd81b2-188b-4979-9eca-a7dec1dba21d&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-02-10",
-      "meetingTitle": "3rd Council Meeting",
-      "itemTitle": "(2.2) Good Neighbour Agreements",
-      "motionText": "ii) that Civic Administration BE DIRECTED to review existing housing stability contracts to assess alignment with current operational needs, including transitions from emergency and highly supportive ...",
-      "vote": "yea",
-      "result": "Motion Failed (7 to 8)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English"
     }
   ],
   "committeeActivity": [
@@ -252,10 +252,10 @@
     },
     {
       "committee": "Planning and Environment Committee",
-      "totalVotes": 1847,
-      "yeas": 1736,
-      "nays": 38,
-      "participationRate": 96.04764482945318
+      "totalVotes": 1886,
+      "yeas": 1768,
+      "nays": 41,
+      "participationRate": 95.91728525980912
     },
     {
       "committee": "Strategic Priorities and Policy Committee",

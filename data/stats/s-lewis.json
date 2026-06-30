@@ -2,11 +2,11 @@
   "councillor": "Shawn Lewis",
   "slug": "s-lewis",
   "attendance": {
-    "totalMeetings": 494,
-    "present": 486,
+    "totalMeetings": 495,
+    "present": 487,
     "absent": 8,
     "remote": 2,
-    "attendanceRate": 98.38056680161942,
+    "attendanceRate": 98.38383838383838,
     "trend": [
       {
         "period": "2018",
@@ -58,27 +58,27 @@
       },
       {
         "period": "2026",
-        "attendanceRate": 85.71428571428571,
-        "meetingsAttended": 18,
-        "meetingsTotal": 21
+        "attendanceRate": 86.36363636363636,
+        "meetingsAttended": 19,
+        "meetingsTotal": 22
       }
     ],
     "trendDirection": "declining"
   },
   "voting": {
-    "totalVotes": 9215,
-    "yeas": 8033,
-    "nays": 507,
-    "absent": 675,
-    "participationRate": 92.67498643516006,
-    "yeaRate": 94.06323185011709,
-    "contestedDissentRate": 10.830921868540718,
-    "contestedVotes": 2419,
-    "substantiveVotes": 5322,
-    "substantiveYeas": 4298,
-    "substantiveNays": 472,
-    "substantiveParticipationRate": 89.62795941375423,
-    "substantiveYeaRate": 90.104821802935
+    "totalVotes": 9254,
+    "yeas": 8066,
+    "nays": 509,
+    "absent": 679,
+    "participationRate": 92.6626323751891,
+    "yeaRate": 94.06413994169097,
+    "contestedDissentRate": 10.845360824742269,
+    "contestedVotes": 2425,
+    "substantiveVotes": 5339,
+    "substantiveYeas": 4313,
+    "substantiveNays": 473,
+    "substantiveParticipationRate": 89.64225510395205,
+    "substantiveYeaRate": 90.11700793982449
   },
   "budgetVoting": {
     "totalBudgetVotes": 753,
@@ -89,27 +89,27 @@
   "topAlignments": [
     {
       "councillor": "Peter Cuddy",
-      "sharedVotes": 1717,
-      "agreedVotes": 1674,
-      "alignmentRate": 97.49563191613278
+      "sharedVotes": 1728,
+      "agreedVotes": 1684,
+      "alignmentRate": 97.45370370370371
     },
     {
       "councillor": "Steve Lehman",
-      "sharedVotes": 3566,
-      "agreedVotes": 3463,
-      "alignmentRate": 97.11160964666293
+      "sharedVotes": 3577,
+      "agreedVotes": 3473,
+      "alignmentRate": 97.09253564439474
     },
     {
       "councillor": "Steve Hillier",
-      "sharedVotes": 3665,
-      "agreedVotes": 3530,
-      "alignmentRate": 96.31650750341065
+      "sharedVotes": 3675,
+      "agreedVotes": 3539,
+      "alignmentRate": 96.29931972789116
     },
     {
       "councillor": "Josh Morgan",
-      "sharedVotes": 3038,
-      "agreedVotes": 2916,
-      "alignmentRate": 95.98420013166556
+      "sharedVotes": 3043,
+      "agreedVotes": 2920,
+      "alignmentRate": 95.95793624712455
     },
     {
       "councillor": "Elizabeth Peloza",
@@ -133,9 +133,9 @@
     },
     {
       "councillor": "Susan Stevenson",
-      "sharedVotes": 1531,
-      "agreedVotes": 1350,
-      "alignmentRate": 88.17766165904638
+      "sharedVotes": 1542,
+      "agreedVotes": 1360,
+      "alignmentRate": 88.19714656290532
     },
     {
       "councillor": "Anna Hopkins",
@@ -177,6 +177,15 @@
       "vote": "nay",
       "result": "Motion Passed (13 to 1)",
       "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=a1f160a0-0ce3-4a5a-8c16-928242b55c4d&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2026-06-09",
+      "meetingTitle": "The 9th Meeting of the Planning and Environment Committee",
+      "itemTitle": "Solicitor-Client Privilege",
+      "motionText": "That the Planning and Environment Committee rise and go into Committee, In Closed Session, for the purpose of considering the following: a matter pertaining to advice that is subject to solicitor-clie...",
+      "vote": "nay",
+      "result": "Motion Passed (5 to 1)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=ff301408-3802-4bf4-80b0-8796af8fd0fd&Agenda=PostMinutes&lang=English"
     },
     {
       "date": "2026-06-02",
@@ -231,15 +240,6 @@
       "vote": "yea",
       "result": "Motion Failed (1 to 4)",
       "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=c54777ec-4f72-472c-a200-acb7dbb91897&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-03-03",
-      "meetingTitle": "4th Council Meeting",
-      "itemTitle": "(4.4) Summary Update from Internal Audit",
-      "motionText": "That the motion BE AMENDED to add a new part to read as follows: MNP BE DIRECTED to change the submission date for the Privacy Audit from December 9, 2026 to October 7, 2026 and the submission date fo...",
-      "vote": "nay",
-      "result": "Motion Passed (8 to 3)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English"
     }
   ],
   "committeeActivity": [
@@ -259,10 +259,10 @@
     },
     {
       "committee": "Planning and Environment Committee",
-      "totalVotes": 2034,
-      "yeas": 1912,
-      "nays": 36,
-      "participationRate": 95.77187807276303
+      "totalVotes": 2073,
+      "yeas": 1945,
+      "nays": 38,
+      "participationRate": 95.65846599131693
     },
     {
       "committee": "Community and Protective Services Committee",

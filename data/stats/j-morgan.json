@@ -2,11 +2,11 @@
   "councillor": "Josh Morgan",
   "slug": "j-morgan",
   "attendance": {
-    "totalMeetings": 793,
-    "present": 732,
+    "totalMeetings": 794,
+    "present": 733,
     "absent": 61,
     "remote": 1,
-    "attendanceRate": 92.3076923076923,
+    "attendanceRate": 92.31738035264485,
     "trend": [
       {
         "period": "2014",
@@ -83,26 +83,26 @@
       {
         "period": "2026",
         "attendanceRate": 100,
-        "meetingsAttended": 22,
-        "meetingsTotal": 22
+        "meetingsAttended": 23,
+        "meetingsTotal": 23
       }
     ],
     "trendDirection": "improving"
   },
   "voting": {
-    "totalVotes": 11037,
-    "yeas": 9112,
-    "nays": 569,
-    "absent": 1356,
-    "participationRate": 87.71405273172057,
-    "yeaRate": 94.12250800537134,
-    "contestedDissentRate": 5.365402405180388,
-    "contestedVotes": 5405,
-    "substantiveVotes": 7995,
-    "substantiveYeas": 6545,
+    "totalVotes": 11061,
+    "yeas": 9120,
+    "nays": 570,
+    "absent": 1371,
+    "participationRate": 87.6050989964741,
+    "yeaRate": 94.11764705882352,
+    "contestedDissentRate": 5.381912335860921,
+    "contestedVotes": 5407,
+    "substantiveVotes": 8007,
+    "substantiveYeas": 6549,
     "substantiveNays": 535,
-    "substantiveParticipationRate": 88.55534709193246,
-    "substantiveYeaRate": 92.44350282485875
+    "substantiveParticipationRate": 88.47258648682403,
+    "substantiveYeaRate": 92.44776962168267
   },
   "budgetVoting": {
     "totalBudgetVotes": 1414,
@@ -113,21 +113,21 @@
   "topAlignments": [
     {
       "councillor": "Steve Lehman",
-      "sharedVotes": 2838,
-      "agreedVotes": 2740,
-      "alignmentRate": 96.54686398872445
+      "sharedVotes": 2843,
+      "agreedVotes": 2745,
+      "alignmentRate": 96.55293703833978
     },
     {
       "councillor": "Shawn Lewis",
-      "sharedVotes": 3038,
-      "agreedVotes": 2916,
-      "alignmentRate": 95.98420013166556
+      "sharedVotes": 3043,
+      "agreedVotes": 2920,
+      "alignmentRate": 95.95793624712455
     },
     {
       "councillor": "Peter Cuddy",
-      "sharedVotes": 1572,
-      "agreedVotes": 1500,
-      "alignmentRate": 95.41984732824427
+      "sharedVotes": 1577,
+      "agreedVotes": 1505,
+      "alignmentRate": 95.43436905516805
     },
     {
       "councillor": "Elizabeth Peloza",
@@ -151,9 +151,9 @@
     },
     {
       "councillor": "Susan Stevenson",
-      "sharedVotes": 1476,
-      "agreedVotes": 1279,
-      "alignmentRate": 86.65311653116531
+      "sharedVotes": 1481,
+      "agreedVotes": 1284,
+      "alignmentRate": 86.69817690749494
     },
     {
       "councillor": "David Ferreira",
@@ -183,6 +183,15 @@
       "vote": "yea",
       "result": "Motion Failed (9 to 4)",
       "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=4ded2b07-9300-45c5-9b86-489f66930984&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2026-06-09",
+      "meetingTitle": "The 9th Meeting of the Planning and Environment Committee",
+      "itemTitle": "Councillor C. Rahman - Third-Party Appeal Mechanism ",
+      "motionText": "That the submission dated June 9, 2026, from Councillor C. Rahman related to Third-Party Appeal Mechanism, BE RECEIVED; \n\n\n\nit being noted that the Planning and Environment Committee received the foll...",
+      "vote": "nay",
+      "result": "Motion Passed (3 to 2)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=ff301408-3802-4bf4-80b0-8796af8fd0fd&Agenda=PostMinutes&lang=English"
     },
     {
       "date": "2026-06-02",
@@ -255,15 +264,6 @@
       "vote": "nay",
       "result": "Motion Passed (12 to 2)",
       "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=48f12c8d-c951-44dc-905b-05acf0df5b10&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-01-13",
-      "meetingTitle": "2nd Meeting of the Strategic Priorities and Policy Committee",
-      "itemTitle": "Mayoral Direction 2024-001 – City-Owned Parking Lot Redevelopment 199 Ridout Street North and 84 Horton Street East",
-      "motionText": "b)    the Civic Administration BE DIRECTED to take no further action on a procurement process to solicit development proposals from qualified firms that can redevelop City-owned parking lots for high-...",
-      "vote": "nay",
-      "result": "Motion Passed (11 to 4)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3ff44bea-1732-40f8-a0be-0bb3b886e41b&Agenda=PostMinutes&lang=English"
     }
   ],
   "committeeActivity": [
@@ -290,10 +290,10 @@
     },
     {
       "committee": "Planning and Environment Committee",
-      "totalVotes": 677,
-      "yeas": 183,
-      "nays": 4,
-      "participationRate": 27.621861152141804
+      "totalVotes": 701,
+      "yeas": 191,
+      "nays": 5,
+      "participationRate": 27.960057061340944
     },
     {
       "committee": "Civic Works Committee",

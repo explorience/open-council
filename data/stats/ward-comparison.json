@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T08:17:15.651Z",
+  "generatedAt": "2026-06-30T07:48:45.804Z",
   "wards": {
     "1": {
       "councillor": "Hadleigh McAlister",
@@ -14,7 +14,7 @@
     "2": {
       "councillor": "Shawn Lewis",
       "slug": "s-lewis",
-      "wardVotes": 4516,
+      "wardVotes": 4527,
       "cityYeaRate": 0.98,
       "wardYeaRate": 0.96,
       "difference": -0.02,
@@ -24,7 +24,7 @@
     "3": {
       "councillor": "Peter Cuddy",
       "slug": "p-cuddy",
-      "wardVotes": 1960,
+      "wardVotes": 1972,
       "cityYeaRate": 0.96,
       "wardYeaRate": 0.93,
       "difference": -0.02,
@@ -34,11 +34,11 @@
     "4": {
       "councillor": "Susan Stevenson",
       "slug": "s-stevenson",
-      "wardVotes": 1746,
-      "cityYeaRate": 0.95,
+      "wardVotes": 1758,
+      "cityYeaRate": 0.96,
       "wardYeaRate": 0.88,
       "difference": -0.08,
-      "contestedAgreement": 88,
+      "contestedAgreement": 89,
       "motionsWithWardFocus": 0
     },
     "5": {
@@ -74,7 +74,7 @@
     "8": {
       "councillor": "Steve Lehman",
       "slug": "s-lehman",
-      "wardVotes": 3682,
+      "wardVotes": 3694,
       "cityYeaRate": 0.97,
       "wardYeaRate": 0.96,
       "difference": -0.01,
@@ -134,7 +134,7 @@
     "14": {
       "councillor": "Steve Hillier",
       "slug": "s-hillier",
-      "wardVotes": 3850,
+      "wardVotes": 3861,
       "cityYeaRate": 0.97,
       "wardYeaRate": 0.95,
       "difference": -0.02,
