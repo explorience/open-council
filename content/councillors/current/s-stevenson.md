@@ -2,7 +2,7 @@
 title: "Susan Stevenson"
 type: councillor
 slug: "s-stevenson"
-meetingCount: 213
+meetingCount: 212
 yearsActive: "2022 - 2026"
 isCurrent: true
 totalVotes: 3829
@@ -207,15 +207,15 @@ Voted **Nay** - Motion Passed (3 to 2)
 - [Budget Committee](/committees/budget)
 - [Community Protective Services Committee](/committees/community-protective-services-committee)
 
-## Recent Meetings (213 total)
+## Recent Meetings (212 total)
 
 - [10th Special Meeting of Council](</months/2026-06/2026-06-17 10th Special Meeting of Council>) - Wed Jun 17 2026
 - [3rd Meeting of the Audit Committee](</months/2026-06/2026-06-17 3rd Meeting of the Audit Committee>) - Wed Jun 17 2026
 - [8th Meeting of the Strategic Priorities and Policy Committee](</months/2026-06/2026-06-16 8th Meeting of the Strategic Priorities and Policy Committee>) - Tue Jun 16 2026
 - [11th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-06/2026-06-15 11th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Jun 15 2026
-- [The 9th Meeting of the Planning and Environment Committee](</months/2026-06/2026-06-09 The 9th Meeting of the Planning and Environment Committee>) - Tue Jun 9 2026
 - [7th Meeting of the Strategic Priorities and Policy Committee](</months/2026-05/2026-05-28 7th Meeting of the Strategic Priorities and Policy Committee>) - Thu May 28 2026
 - [10th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-05/2026-05-27 10th Meeting of the Infrastructure and Corporate Services Committee>) - Wed May 27 2026
 - [The 8th Meeting of the Planning and Environment Committee](</months/2026-05/2026-05-26 The 8th Meeting of the Planning and Environment Committee>) - Tue May 26 2026
 - [8th Meeting of Council](</months/2026-05/2026-05-12 8th Meeting of Council>) - Tue May 12 2026
 - [The 7th Meeting of the Planning and Environment Committee](</months/2026-05/2026-05-05 The 7th Meeting of the Planning and Environment Committee>) - Tue May 5 2026
+- [6th Meeting of the Strategic Priorities and Policy Committee](</months/2026-04/2026-04-21 6th Meeting of the Strategic Priorities and Policy Committee>) - Tue Apr 21 2026

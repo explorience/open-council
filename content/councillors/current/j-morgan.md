@@ -2,7 +2,7 @@
 title: "Josh Morgan"
 type: councillor
 slug: "j-morgan"
-meetingCount: 680
+meetingCount: 679
 yearsActive: "2014 - 2026"
 isCurrent: true
 totalVotes: 11061
@@ -206,18 +206,17 @@ Voted **Nay** - Motion Passed (12 to 2)
 
 - [City Council](/committees/city-council)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
-- [Planning and Environment Committee](/committees/planning-environment)
 - [Corporate Services Committee](/committees/corporate-services)
 - [Community and Protective Services Committee](/committees/community-protective-services)
+- [Planning and Environment Committee](/committees/planning-environment)
 - [Budget Committee](/committees/budget)
 - [Civic Works Committee](/committees/civic-works)
 - [Audit Committee](/committees/audit)
 
-## Recent Meetings (680 total)
+## Recent Meetings (679 total)
 
 - [10th Special Meeting of Council](</months/2026-06/2026-06-17 10th Special Meeting of Council>) - Wed Jun 17 2026
 - [8th Meeting of the Strategic Priorities and Policy Committee](</months/2026-06/2026-06-16 8th Meeting of the Strategic Priorities and Policy Committee>) - Tue Jun 16 2026
-- [The 9th Meeting of the Planning and Environment Committee](</months/2026-06/2026-06-09 The 9th Meeting of the Planning and Environment Committee>) - Tue Jun 9 2026
 - [9th Meeting of Council](</months/2026-06/2026-06-02 9th Meeting of Council>) - Tue Jun 2 2026
 - [7th Meeting of the Strategic Priorities and Policy Committee](</months/2026-05/2026-05-28 7th Meeting of the Strategic Priorities and Policy Committee>) - Thu May 28 2026
 - [10th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-05/2026-05-27 10th Meeting of the Infrastructure and Corporate Services Committee>) - Wed May 27 2026
@@ -225,3 +224,4 @@ Voted **Nay** - Motion Passed (12 to 2)
 - [7th Meeting of the Community and Protective Services Committee](</months/2026-05/2026-05-04 7th Meeting of the Community and Protective Services Committee>) - Mon May 4 2026
 - [6th Meeting of the Strategic Priorities and Policy Committee](</months/2026-04/2026-04-21 6th Meeting of the Strategic Priorities and Policy Committee>) - Tue Apr 21 2026
 - [7th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-04/2026-04-20 7th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Apr 20 2026
+- [The 6th Meeting of the Planning and Environment Committee](</months/2026-04/2026-04-14 The 6th Meeting of the Planning and Environment Committee>) - Tue Apr 14 2026
