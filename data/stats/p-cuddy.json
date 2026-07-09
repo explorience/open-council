@@ -2,11 +2,11 @@
   "councillor": "Peter Cuddy",
   "slug": "p-cuddy",
   "attendance": {
-    "totalMeetings": 229,
-    "present": 225,
+    "totalMeetings": 230,
+    "present": 226,
     "absent": 4,
     "remote": 0,
-    "attendanceRate": 98.2532751091703,
+    "attendanceRate": 98.26086956521739,
     "trend": [
       {
         "period": "2022",
@@ -34,9 +34,9 @@
       },
       {
         "period": "2026",
-        "attendanceRate": 90.9090909090909,
-        "meetingsAttended": 20,
-        "meetingsTotal": 22
+        "attendanceRate": 91.30434782608695,
+        "meetingsAttended": 21,
+        "meetingsTotal": 23
       }
     ],
     "trendDirection": "declining"

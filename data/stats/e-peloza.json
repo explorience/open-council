@@ -2,11 +2,11 @@
   "councillor": "Elizabeth Peloza",
   "slug": "e-peloza",
   "attendance": {
-    "totalMeetings": 445,
-    "present": 436,
+    "totalMeetings": 446,
+    "present": 437,
     "absent": 9,
     "remote": 1,
-    "attendanceRate": 97.97752808988764,
+    "attendanceRate": 97.98206278026906,
     "trend": [
       {
         "period": "2018",
@@ -58,9 +58,9 @@
       },
       {
         "period": "2026",
-        "attendanceRate": 91.30434782608695,
-        "meetingsAttended": 21,
-        "meetingsTotal": 23
+        "attendanceRate": 91.66666666666666,
+        "meetingsAttended": 22,
+        "meetingsTotal": 24
       }
     ],
     "trendDirection": "declining"

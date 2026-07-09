@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T09:06:53.914Z",
+  "generatedAt": "2026-07-09T10:04:30.310Z",
   "councillorStats": {
     "j-morgan": {
       "councillor": "Josh Morgan",
@@ -907,11 +907,11 @@
       "councillor": "Peter Cuddy",
       "slug": "p-cuddy",
       "attendance": {
-        "totalMeetings": 229,
-        "present": 225,
+        "totalMeetings": 230,
+        "present": 226,
         "absent": 4,
         "remote": 0,
-        "attendanceRate": 98.2532751091703,
+        "attendanceRate": 98.26086956521739,
         "trend": [
           {
             "period": "2022",
@@ -939,9 +939,9 @@
           },
           {
             "period": "2026",
-            "attendanceRate": 90.9090909090909,
-            "meetingsAttended": 20,
-            "meetingsTotal": 22
+            "attendanceRate": 91.30434782608695,
+            "meetingsAttended": 21,
+            "meetingsTotal": 23
           }
         ],
         "trendDirection": "declining"
@@ -1179,11 +1179,11 @@
       "councillor": "Susan Stevenson",
       "slug": "s-stevenson",
       "attendance": {
-        "totalMeetings": 230,
-        "present": 204,
+        "totalMeetings": 231,
+        "present": 205,
         "absent": 26,
         "remote": 1,
-        "attendanceRate": 88.69565217391305,
+        "attendanceRate": 88.74458874458875,
         "trend": [
           {
             "period": "2022",
@@ -1211,9 +1211,9 @@
           },
           {
             "period": "2026",
-            "attendanceRate": 87.5,
-            "meetingsAttended": 28,
-            "meetingsTotal": 32
+            "attendanceRate": 87.87878787878788,
+            "meetingsAttended": 29,
+            "meetingsTotal": 33
           }
         ],
         "trendDirection": "stable"
@@ -1451,11 +1451,11 @@
       "councillor": "Jerry Pribil",
       "slug": "j-pribil",
       "attendance": {
-        "totalMeetings": 247,
-        "present": 238,
+        "totalMeetings": 248,
+        "present": 239,
         "absent": 9,
         "remote": 0,
-        "attendanceRate": 96.35627530364373,
+        "attendanceRate": 96.37096774193549,
         "trend": [
           {
             "period": "2022",
@@ -1483,9 +1483,9 @@
           },
           {
             "period": "2026",
-            "attendanceRate": 91.30434782608695,
-            "meetingsAttended": 21,
-            "meetingsTotal": 23
+            "attendanceRate": 91.66666666666666,
+            "meetingsAttended": 22,
+            "meetingsTotal": 24
           }
         ],
         "trendDirection": "declining"
@@ -3447,11 +3447,11 @@
       "councillor": "Elizabeth Peloza",
       "slug": "e-peloza",
       "attendance": {
-        "totalMeetings": 445,
-        "present": 436,
+        "totalMeetings": 446,
+        "present": 437,
         "absent": 9,
         "remote": 1,
-        "attendanceRate": 97.97752808988764,
+        "attendanceRate": 97.98206278026906,
         "trend": [
           {
             "period": "2018",
@@ -3503,9 +3503,9 @@
           },
           {
             "period": "2026",
-            "attendanceRate": 91.30434782608695,
-            "meetingsAttended": 21,
-            "meetingsTotal": 23
+            "attendanceRate": 91.66666666666666,
+            "meetingsAttended": 22,
+            "meetingsTotal": 24
           }
         ],
         "trendDirection": "declining"

@@ -2,11 +2,11 @@
   "councillor": "Susan Stevenson",
   "slug": "s-stevenson",
   "attendance": {
-    "totalMeetings": 230,
-    "present": 204,
+    "totalMeetings": 231,
+    "present": 205,
     "absent": 26,
     "remote": 1,
-    "attendanceRate": 88.69565217391305,
+    "attendanceRate": 88.74458874458875,
     "trend": [
       {
         "period": "2022",
@@ -34,9 +34,9 @@
       },
       {
         "period": "2026",
-        "attendanceRate": 87.5,
-        "meetingsAttended": 28,
-        "meetingsTotal": 32
+        "attendanceRate": 87.87878787878788,
+        "meetingsAttended": 29,
+        "meetingsTotal": 33
       }
     ],
     "trendDirection": "stable"
