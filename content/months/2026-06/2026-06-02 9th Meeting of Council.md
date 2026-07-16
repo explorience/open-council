@@ -580,7 +580,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ### 6.8.2&nbsp;&nbsp;&nbsp;8th Report of the Community and Protective Services Committee
 
-[2026-05-25 CPSC Report](</2026-05/2026-05-25 - Community and Protective Services Committee>)
+[2026-05-25 CPSC Report](</2026-05/2026-05-25 8th Meeting of the Community and Protective Services Committee>)
 
 > Motion made by C. Rahman
 
@@ -618,7 +618,7 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-#### 6.8.2.2&nbsp;&nbsp;&nbsp;(2.1) 3rd Report of the Accessibility Community Advisory Committee
+#### 6.8.2.2&nbsp;&nbsp;&nbsp;[(2.1)](</2026-05/2026-05-25 8th Meeting of the Community and Protective Services Committee#213rd-report-of-the-accessibility-community-advisory-committee>) 3rd Report of the Accessibility Community Advisory Committee
 
 > Motion made by C. Rahman
 
@@ -640,7 +640,7 @@ c)    clauses 1.1 and 3.1 to 3.7 BE RECEIVED.
 
 ****
 
-#### 6.8.2.3&nbsp;&nbsp;&nbsp;(2.2) Protection of Animals Left Unattended in Vehicles (Relates to Bill No.'s 220, 225 and 226) 
+#### 6.8.2.3&nbsp;&nbsp;&nbsp;[(2.2)](</2026-05/2026-05-25 8th Meeting of the Community and Protective Services Committee#22protection-of-animals-left-unattended-in-vehicles>) Protection of Animals Left Unattended in Vehicles (Relates to Bill No.'s 220, 225 and 226) 
 
 > Motion made by C. Rahman
 
@@ -662,7 +662,7 @@ c)    the proposed by-law, as appended to the above-noted staff report as Appe
 
 ****
 
-#### 6.8.2.4&nbsp;&nbsp;&nbsp;(2.3) Renovictions: Rental Unit Repair Licensing Program One Year Update (Relates to Bill No. 223)
+#### 6.8.2.4&nbsp;&nbsp;&nbsp;[(2.3)](</2026-05/2026-05-25 8th Meeting of the Community and Protective Services Committee#23renovictions-rental-unit-repair-licensing-program-one-year-update>) Renovictions: Rental Unit Repair Licensing Program One Year Update (Relates to Bill No. 223)
 
 > Motion made by C. Rahman
 
@@ -684,7 +684,7 @@ it being noted that the License Manager will update the Tenant Information Packa
 
 ****
 
-#### 6.8.2.6&nbsp;&nbsp;&nbsp;(3.1) London Fire Department Fire Master Plan Annual Update
+#### 6.8.2.6&nbsp;&nbsp;&nbsp;[(3.1)](</2026-05/2026-05-25 8th Meeting of the Community and Protective Services Committee#31london-fire-department-fire-master-plan-annual-update>) London Fire Department Fire Master Plan Annual Update
 
 > Motion made by C. Rahman
 
@@ -698,7 +698,7 @@ it being noted that the presentation from Chief L. Hamer related to this item, w
 
 ****
 
-#### 6.8.2.5&nbsp;&nbsp;&nbsp;(2.4) Thames Valley District School Board and City of London Joint Use of Facilities Agreement (Relates to Bill No. 218)
+#### 6.8.2.5&nbsp;&nbsp;&nbsp;[(2.4)](</2026-05/2026-05-25 8th Meeting of the Community and Protective Services Committee#24thames-valley-district-school-board-and-city-of-london-joint-use-of-facilities-agreement>) Thames Valley District School Board and City of London Joint Use of Facilities Agreement (Relates to Bill No. 218)
 
 > Motion made by C. Rahman
 
@@ -1033,7 +1033,7 @@ That, on the recommendation of the Deputy City Manager, Finance Supports and the
 
 ### 6.8.4&nbsp;&nbsp;&nbsp;10th Report of the Infrastructure and Corporate Services Committee
 
-[2026-05-27 ICSC Report 10](</2026-05/2026-05-27 10th Meeting of the Infrastructure and Corporate Services Committee>)
+[2026-05-27 ICSC Report 10](</2026-05/2026-05-27 - Infrastructure and Corporate Services Committee>)
 
 > Motion made by H. McAlister
 
@@ -1070,7 +1070,7 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-#### 6.8.4.2&nbsp;&nbsp;&nbsp;[(2.3)](</2026-05/2026-05-27 10th Meeting of the Infrastructure and Corporate Services Committee#232025-parkland-reserve-fund-annual-financial-statement-and-reporting-of-former-section-37-planning-act-bonusing-funds>) 2025 Parkland Reserve Fund Annual Financial Statement and Reporting of Former Section 37 Planning Act (Bonusing) Funds
+#### 6.8.4.2&nbsp;&nbsp;&nbsp;(2.3) 2025 Parkland Reserve Fund Annual Financial Statement and Reporting of Former Section 37 Planning Act (Bonusing) Funds
 
 > Motion made by H. McAlister
 
@@ -1086,7 +1086,7 @@ c)    the Deputy City Manager, Finance Supports BE DIRECTED to make the 2025 P
 
 ****
 
-#### 6.8.4.3&nbsp;&nbsp;&nbsp;[(2.5)](</2026-05/2026-05-27 10th Meeting of the Infrastructure and Corporate Services Committee#252025-annual-update-on-canada-life-place>) 2025 Annual Update on Canada Life Place
+#### 6.8.4.3&nbsp;&nbsp;&nbsp;(2.5) 2025 Annual Update on Canada Life Place
 
 > Motion made by H. McAlister
 
@@ -1096,7 +1096,7 @@ That, on the recommendation of the Deputy City Manager, Finance Supports, the 20
 
 ****
 
-#### 6.8.4.4&nbsp;&nbsp;&nbsp;[(2.6)](</2026-05/2026-05-27 10th Meeting of the Infrastructure and Corporate Services Committee#26city-of-london-days-at-canada-life-place---childrens-health-foundation---heroes-on-ice>) City of London Days at Canada Life Place - Children's Health Foundation - Heroes on Ice
+#### 6.8.4.4&nbsp;&nbsp;&nbsp;(2.6) City of London Days at Canada Life Place - Children's Health Foundation - Heroes on Ice
 
 > Motion made by H. McAlister
 
@@ -1106,7 +1106,7 @@ That, on the recommendation of the City Clerk and in accordance with Council’s
 
 ****
 
-#### 6.8.4.5&nbsp;&nbsp;&nbsp;[(2.8)](</2026-05/2026-05-27 10th Meeting of the Infrastructure and Corporate Services Committee#28rft-2026-067-oxford-wwtp-membrane-replacement-tender-award>) RFT-2026-067 Oxford WWTP Membrane Replacement Tender Award
+#### 6.8.4.5&nbsp;&nbsp;&nbsp;(2.8) RFT-2026-067 Oxford WWTP Membrane Replacement Tender Award
 
 > Motion made by H. McAlister
 
@@ -1140,7 +1140,7 @@ f)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or ot
 
 ****
 
-#### 6.8.4.6&nbsp;&nbsp;&nbsp;[(2.10)](</2026-05/2026-05-27 10th Meeting of the Infrastructure and Corporate Services Committee#210contract-award-tender-rft-2025-287-and-appointment-of-consulting-engineer---sunningdale-road-west-improvements-from-wonderland-road-to-medway-creek-bridge>) Contract Award: Tender RFT-2025-287 and Appointment of Consulting Engineer - Sunningdale Road West Improvements from Wonderland Road to Medway Creek Bridge
+#### 6.8.4.6&nbsp;&nbsp;&nbsp;(2.10) Contract Award: Tender RFT-2025-287 and Appointment of Consulting Engineer - Sunningdale Road West Improvements from Wonderland Road to Medway Creek Bridge
 
 > Motion made by H. McAlister
 
@@ -1166,7 +1166,7 @@ h)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or ot
 
 ****
 
-#### 6.8.4.7&nbsp;&nbsp;&nbsp;[(2.11)](</2026-05/2026-05-27 10th Meeting of the Infrastructure and Corporate Services Committee#211appointment-of-consulting-engineers-for-the-infrastructure-renewal-program>) Appointment of Consulting Engineers for the Infrastructure Renewal Program
+#### 6.8.4.7&nbsp;&nbsp;&nbsp;(2.11) Appointment of Consulting Engineers for the Infrastructure Renewal Program
 
 > Motion made by H. McAlister
 
@@ -1188,7 +1188,7 @@ e)     the Mayor and the City Clerk BE AUTHORIZED to execute any contract or o
 
 ****
 
-#### 6.8.4.8&nbsp;&nbsp;&nbsp;[(2.13)](</2026-05/2026-05-27 10th Meeting of the Infrastructure and Corporate Services Committee#213highbury-avenue-non-routine-maintenance>) Highbury Avenue Non-Routine Maintenance
+#### 6.8.4.8&nbsp;&nbsp;&nbsp;(2.13) Highbury Avenue Non-Routine Maintenance
 
 > Motion made by H. McAlister
 
@@ -1198,7 +1198,7 @@ That on the recommendation of the Deputy City Manager, Environment and Infrastru
 
 ****
 
-#### 6.8.4.9&nbsp;&nbsp;&nbsp;[(2.1)](</2026-05/2026-05-27 10th Meeting of the Infrastructure and Corporate Services Committee#212026-reserve-and-reserve-fund-monitoring-and-housekeeping-report>) 2026 Reserve and Reserve Fund Monitoring and Housekeeping Report (Relates to Bill No.'s 214, 215 and 216)
+#### 6.8.4.9&nbsp;&nbsp;&nbsp;(2.1) 2026 Reserve and Reserve Fund Monitoring and Housekeeping Report (Relates to Bill No.'s 214, 215 and 216)
 
 > Motion made by H. McAlister
 
@@ -1216,7 +1216,7 @@ d)    the proposed by-law, as appended to the staff report as “Appendix E”
 
 ****
 
-#### 6.8.4.10&nbsp;&nbsp;&nbsp;[(2.2)](</2026-05/2026-05-27 10th Meeting of the Infrastructure and Corporate Services Committee#222025-annual-report-on-development-charges-reserve-funds>) 2025 Annual Report on Development Charges Reserve Funds
+#### 6.8.4.10&nbsp;&nbsp;&nbsp;(2.2) 2025 Annual Report on Development Charges Reserve Funds
 
 > Motion made by H. McAlister
 
@@ -1234,7 +1234,7 @@ ii)    provide a copy to the Minister of Municipal Affairs and Housing no late
 
 ****
 
-#### 6.8.4.11&nbsp;&nbsp;&nbsp;[(2.4)](</2026-05/2026-05-27 10th Meeting of the Infrastructure and Corporate Services Committee#24bi-annual-procurement-report-and-update>) Bi-Annual Procurement Report and Update
+#### 6.8.4.11&nbsp;&nbsp;&nbsp;(2.4) Bi-Annual Procurement Report and Update
 
 > Motion made by H. McAlister
 
@@ -1244,7 +1244,7 @@ That, on the recommendation of the Deputy City Manager, Finance Supports, the fi
 
 ****
 
-#### 6.8.4.12&nbsp;&nbsp;&nbsp;[(2.7)](</2026-05/2026-05-27 10th Meeting of the Infrastructure and Corporate Services Committee#27standing-committee-meetings-and-annual-meeting-calendar>) Standing Committee Meetings and Annual Meeting Calendar
+#### 6.8.4.12&nbsp;&nbsp;&nbsp;(2.7) Standing Committee Meetings and Annual Meeting Calendar
 
 > Motion made by H. McAlister
 
@@ -1254,7 +1254,7 @@ That, on the recommendation of the City Clerk, the annual meeting calendar for t
 
 ****
 
-#### 6.8.4.13&nbsp;&nbsp;&nbsp;[(2.9)](</2026-05/2026-05-27 10th Meeting of the Infrastructure and Corporate Services Committee#29contract-award-tender-rft-2026-021-and-appointment-of-consulting-engineer---boler-road-watermain-and-cycling-improvements-project>) Contract Award: Tender RFT-2026-021 and Appointment of Consulting Engineer - Boler Road Watermain and Cycling Improvements Project
+#### 6.8.4.13&nbsp;&nbsp;&nbsp;(2.9) Contract Award: Tender RFT-2026-021 and Appointment of Consulting Engineer - Boler Road Watermain and Cycling Improvements Project
 
 > Motion made by H. McAlister
 
@@ -1278,7 +1278,7 @@ g)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or ot
 
 ****
 
-#### 6.8.4.14&nbsp;&nbsp;&nbsp;[(2.12)](</2026-05/2026-05-27 10th Meeting of the Infrastructure and Corporate Services Committee#212appointment-of-consulting-engineer---sunningdale-road-west-improvements-from-hyde-park-road-to-jordan-boulevard>) Appointment of Consulting Engineer - Sunningdale Road West Improvements from Hyde Park Road to Jordan Boulevard
+#### 6.8.4.14&nbsp;&nbsp;&nbsp;(2.12) Appointment of Consulting Engineer - Sunningdale Road West Improvements from Hyde Park Road to Jordan Boulevard
 
 > Motion made by H. McAlister
 
@@ -1300,7 +1300,7 @@ e)     the Mayor and the City Clerk BE AUTHORIZED to execute any contract or o
 
 ### 6.8.5&nbsp;&nbsp;&nbsp;2nd Report of the Audit Committee
 
-[2026-05-13 Special Audit Report 2](</2026-05/2026-05-13 2nd Special Meeting of the Audit Committee>)
+[2026-05-13 Special Audit Report 2](</2026-05/2026-05-13 - Audit Committee>)
 
 > Motion made by E. Peloza
 

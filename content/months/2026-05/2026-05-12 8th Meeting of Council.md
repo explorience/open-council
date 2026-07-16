@@ -586,7 +586,7 @@ it being noted that the Infrastructure and Corporate Services Committee received
 
 ## 8.2&nbsp;&nbsp;&nbsp;7th Report of the Planning and Environment Committee
 
-[2026-05-05 PEC Report](</2026-05/2026-05-05 The 7th Meeting of the Planning and Environment Committee>)
+[2026-05-05 PEC Report](</2026-05/2026-05-05 - Planning and Environment Committee>)
 
 > Motion made by S. Lehman
 
@@ -625,7 +625,7 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-### 8.2.2&nbsp;&nbsp;&nbsp;[(2.1)](</2026-05/2026-05-05 The 7th Meeting of the Planning and Environment Committee#21building-services-report---q1-2026>) Building Services Report - Q1 2026
+### 8.2.2&nbsp;&nbsp;&nbsp;(2.1) Building Services Report - Q1 2026
 
 > Motion made by S. Lehman
 
@@ -635,7 +635,7 @@ That, on the recommendation of the Deputy City Manager, Housing and Community Gr
 
 ****
 
-### 8.2.3&nbsp;&nbsp;&nbsp;[(2.2)](</2026-05/2026-05-05 The 7th Meeting of the Planning and Environment Committee#22quarterly-heritage-report---q1-2026>) Quarterly Heritage Report - Q1 2026
+### 8.2.3&nbsp;&nbsp;&nbsp;(2.2) Quarterly Heritage Report - Q1 2026
 
 > Motion made by S. Lehman
 
@@ -645,7 +645,7 @@ That, on the recommendation of the Director, Planning and Development, the staff
 
 ****
 
-### 8.2.4&nbsp;&nbsp;&nbsp;[(2.3)](</2026-05/2026-05-05 The 7th Meeting of the Planning and Environment Committee#234th-report-of-the-community-advisory-committee-on-planning>) 4th Report of the Community Advisory Committee on Planning
+### 8.2.4&nbsp;&nbsp;&nbsp;(2.3) 4th Report of the Community Advisory Committee on Planning
 
 > Motion made by S. Lehman
 
@@ -655,7 +655,7 @@ That the 4th Report of the Community Advisory Committee on Planning, from its me
 
 ****
 
-### 8.2.5&nbsp;&nbsp;&nbsp;[(3.1)](</2026-05/2026-05-05 The 7th Meeting of the Planning and Environment Committee#312120-and-2204-huron-street---oz-26024>) 2120 and 2204 Huron Street - OZ-26024 (Relates to Bill No. 193 and 208)
+### 8.2.5&nbsp;&nbsp;&nbsp;(3.1) 2120 and 2204 Huron Street - OZ-26024 (Relates to Bill No. 193 and 208)
 
 > Motion made by S. Lehman
 
@@ -687,7 +687,7 @@ it being noted that, the Municipal Council approves this application for the fol
 
 ****
 
-### 8.2.6&nbsp;&nbsp;&nbsp;[(3.2)](</2026-05/2026-05-05 The 7th Meeting of the Planning and Environment Committee#32299---309-springbank-drive---z-26020>) 299 - 309 Springbank Drive - Z-26020 (Relates to Bill No. 209)
+### 8.2.6&nbsp;&nbsp;&nbsp;(3.2) 299 - 309 Springbank Drive - Z-26020 (Relates to Bill No. 209)
 
 > Motion made by S. Lehman
 
@@ -711,7 +711,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-### 8.2.8&nbsp;&nbsp;&nbsp;[(5.1)](</2026-05/2026-05-05 The 7th Meeting of the Planning and Environment Committee#51deferred-matters-list>) Deferred Matters List
+### 8.2.8&nbsp;&nbsp;&nbsp;(5.1) Deferred Matters List
 
 > Motion made by S. Lehman
 
@@ -721,7 +721,7 @@ That the Deferred Matters List BE RECEIVED.
 
 ****
 
-### 8.2.7&nbsp;&nbsp;&nbsp;[(3.3)](</2026-05/2026-05-05 The 7th Meeting of the Planning and Environment Committee#33945-bluegrass-drive---oz-26019>) 945 Bluegrass Drive - OZ-26019 (Relates to Bill No. 194 and 210)
+### 8.2.7&nbsp;&nbsp;&nbsp;(3.3) 945 Bluegrass Drive - OZ-26019 (Relates to Bill No. 194 and 210)
 
 > Motion made by S. Lewis
 
