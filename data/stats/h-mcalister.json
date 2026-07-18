@@ -2,11 +2,11 @@
   "councillor": "Hadleigh McAlister",
   "slug": "h-mcalister",
   "attendance": {
-    "totalMeetings": 239,
-    "present": 226,
+    "totalMeetings": 241,
+    "present": 228,
     "absent": 13,
     "remote": 0,
-    "attendanceRate": 94.56066945606695,
+    "attendanceRate": 94.6058091286307,
     "trend": [
       {
         "period": "2022",
@@ -35,98 +35,107 @@
       {
         "period": "2026",
         "attendanceRate": 100,
-        "meetingsAttended": 22,
-        "meetingsTotal": 22
+        "meetingsAttended": 24,
+        "meetingsTotal": 24
       }
     ],
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 3867,
-    "yeas": 3123,
-    "nays": 277,
-    "absent": 467,
-    "participationRate": 87.92345487457978,
-    "yeaRate": 91.8529411764706,
-    "contestedDissentRate": 14.195361911454674,
-    "contestedVotes": 1423,
-    "substantiveVotes": 2442,
-    "substantiveYeas": 1824,
-    "substantiveNays": 248,
-    "substantiveParticipationRate": 84.84848484848484,
-    "substantiveYeaRate": 88.03088803088804
+    "totalVotes": 3930,
+    "yeas": 3146,
+    "nays": 278,
+    "absent": 506,
+    "participationRate": 87.12468193384224,
+    "yeaRate": 91.88084112149532,
+    "contestedDissentRate": 14.13649025069638,
+    "contestedVotes": 1436,
+    "substantiveVotes": 2463,
+    "substantiveYeas": 1836,
+    "substantiveNays": 249,
+    "substantiveParticipationRate": 84.65286236297199,
+    "substantiveYeaRate": 88.05755395683454
   },
   "budgetVoting": {
-    "totalBudgetVotes": 390,
-    "budgetYeas": 308,
+    "totalBudgetVotes": 391,
+    "budgetYeas": 309,
     "budgetNays": 57,
     "budgetAbsent": 25
   },
   "topAlignments": [
     {
       "councillor": "Skylar Franke",
-      "sharedVotes": 1432,
-      "agreedVotes": 1360,
-      "alignmentRate": 94.97206703910615
+      "sharedVotes": 1455,
+      "agreedVotes": 1383,
+      "alignmentRate": 95.05154639175257
     },
     {
       "councillor": "Josh Morgan",
-      "sharedVotes": 1517,
-      "agreedVotes": 1434,
-      "alignmentRate": 94.5286750164799
+      "sharedVotes": 1536,
+      "agreedVotes": 1453,
+      "alignmentRate": 94.59635416666666
     },
     {
       "councillor": "Anna Hopkins",
-      "sharedVotes": 1446,
-      "agreedVotes": 1356,
-      "alignmentRate": 93.7759336099585
+      "sharedVotes": 1465,
+      "agreedVotes": 1375,
+      "alignmentRate": 93.85665529010238
     },
     {
       "councillor": "Jerry Pribil",
-      "sharedVotes": 1582,
-      "agreedVotes": 1478,
-      "alignmentRate": 93.42604298356511
+      "sharedVotes": 1601,
+      "agreedVotes": 1497,
+      "alignmentRate": 93.50405996252343
     },
     {
       "councillor": "Steve Lehman",
-      "sharedVotes": 1421,
-      "agreedVotes": 1326,
-      "alignmentRate": 93.31456720619282
+      "sharedVotes": 1440,
+      "agreedVotes": 1345,
+      "alignmentRate": 93.40277777777779
     }
   ],
   "bottomAlignments": [
     {
       "councillor": "Susan Stevenson",
-      "sharedVotes": 1528,
-      "agreedVotes": 1295,
-      "alignmentRate": 84.75130890052355
+      "sharedVotes": 1551,
+      "agreedVotes": 1306,
+      "alignmentRate": 84.20373952288845
     },
     {
       "councillor": "Paul Van Meerbergen",
-      "sharedVotes": 1512,
-      "agreedVotes": 1336,
-      "alignmentRate": 88.35978835978835
+      "sharedVotes": 1516,
+      "agreedVotes": 1340,
+      "alignmentRate": 88.39050131926122
     },
     {
       "councillor": "Sam Trosow",
-      "sharedVotes": 1577,
-      "agreedVotes": 1408,
-      "alignmentRate": 89.28344958782498
+      "sharedVotes": 1596,
+      "agreedVotes": 1427,
+      "alignmentRate": 89.41102756892231
     },
     {
       "councillor": "Steve Hillier",
-      "sharedVotes": 1371,
-      "agreedVotes": 1247,
-      "alignmentRate": 90.95550692924871
+      "sharedVotes": 1390,
+      "agreedVotes": 1266,
+      "alignmentRate": 91.07913669064747
     },
     {
       "councillor": "David Ferreira",
-      "sharedVotes": 1344,
-      "agreedVotes": 1239,
-      "alignmentRate": 92.1875
+      "sharedVotes": 1363,
+      "agreedVotes": 1258,
+      "alignmentRate": 92.29640498899487
     }
   ],
   "notableDissents": [
+    {
+      "date": "2026-06-23",
+      "meetingTitle": "11th Meeting of Council",
+      "itemTitle": "(2.7) Award of NRFP-2025-248: Municipal Land for Affordable Housing at 1958 Duluth Crescent, Block 6 (Relates to Bill No. 239)    ",
+      "motionText": "That part c) BE APPROVED: c)    the Civic Administration BE DIRECTED to work with the proponent to submit necessary Planning Act applications to support an increase in density from 71 units per hectar...",
+      "vote": "nay",
+      "result": "Motion Passed (8 to 6)",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=948470cd-fe8f-491c-afab-0012197b9009&Agenda=PostMinutes&lang=English"
+    },
     {
       "date": "2026-03-23",
       "meetingTitle": "6th Meeting of the Infrastructure and Corporate Services Committee",
@@ -134,7 +143,7 @@
       "motionText": "That the following part BE APPROVED: d)    the Civic Administration BE DIRECTED to report back to a future meeting of the Infrastructure and Corporate Services Committee with a proposed implementation...",
       "vote": "yea",
       "result": "Motion Failed (2 to 4)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=e9890bd1-3ebf-47fa-8198-25a144b6365d&Agenda=PostMinutes&lang=English"
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=e9890bd1-3ebf-47fa-8198-25a144b6365d&Agenda=PostMinutes&lang=English"
     },
     {
       "date": "2026-03-03",
@@ -207,24 +216,15 @@
       "vote": "yea",
       "result": "Motion Failed (6 to 9)",
       "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-02-10",
-      "meetingTitle": "3rd Council Meeting",
-      "itemTitle": "(3.4) 767 Fanshawe Park Road East and 679 Dunboyne Crescent - Z-25151 (Relates to Bill No. 82)",
-      "motionText": "vi) the sidewalk and/or access on/through 679 Dunboyne Crescent from the apartment complex development at 767 Fanshawe Park Road East to Dunboyne Crescent shall be prohibited.",
-      "vote": "nay",
-      "result": "Motion Passed (10 to 5)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English"
     }
   ],
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 2004,
-      "yeas": 1707,
-      "nays": 136,
-      "participationRate": 91.96606786427147
+      "totalVotes": 2063,
+      "yeas": 1726,
+      "nays": 137,
+      "participationRate": 90.30538051381484
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
@@ -263,8 +263,8 @@
     },
     {
       "committee": "Infrastructure and Corporate Services Committee",
-      "totalVotes": 81,
-      "yeas": 73,
+      "totalVotes": 85,
+      "yeas": 77,
       "nays": 8,
       "participationRate": 100
     }

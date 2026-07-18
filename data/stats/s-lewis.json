@@ -2,11 +2,11 @@
   "councillor": "Shawn Lewis",
   "slug": "s-lewis",
   "attendance": {
-    "totalMeetings": 495,
-    "present": 487,
+    "totalMeetings": 498,
+    "present": 490,
     "absent": 8,
     "remote": 2,
-    "attendanceRate": 98.38383838383838,
+    "attendanceRate": 98.39357429718876,
     "trend": [
       {
         "period": "2018",
@@ -58,99 +58,126 @@
       },
       {
         "period": "2026",
-        "attendanceRate": 86.36363636363636,
-        "meetingsAttended": 19,
-        "meetingsTotal": 22
+        "attendanceRate": 88,
+        "meetingsAttended": 22,
+        "meetingsTotal": 25
       }
     ],
     "trendDirection": "declining"
   },
   "voting": {
-    "totalVotes": 9254,
-    "yeas": 8066,
-    "nays": 509,
-    "absent": 679,
-    "participationRate": 92.6626323751891,
-    "yeaRate": 94.06413994169097,
-    "contestedDissentRate": 10.845360824742269,
-    "contestedVotes": 2425,
-    "substantiveVotes": 5339,
-    "substantiveYeas": 4313,
-    "substantiveNays": 473,
-    "substantiveParticipationRate": 89.64225510395205,
-    "substantiveYeaRate": 90.11700793982449
+    "totalVotes": 9361,
+    "yeas": 8163,
+    "nays": 513,
+    "absent": 685,
+    "participationRate": 92.68240572588398,
+    "yeaRate": 94.08713692946058,
+    "contestedDissentRate": 10.764872521246458,
+    "contestedVotes": 2471,
+    "substantiveVotes": 5384,
+    "substantiveYeas": 4353,
+    "substantiveNays": 477,
+    "substantiveParticipationRate": 89.71025260029718,
+    "substantiveYeaRate": 90.12422360248448
   },
   "budgetVoting": {
-    "totalBudgetVotes": 753,
-    "budgetYeas": 596,
+    "totalBudgetVotes": 754,
+    "budgetYeas": 597,
     "budgetNays": 125,
     "budgetAbsent": 32
   },
   "topAlignments": [
     {
       "councillor": "Peter Cuddy",
-      "sharedVotes": 1728,
-      "agreedVotes": 1684,
-      "alignmentRate": 97.45370370370371
+      "sharedVotes": 1771,
+      "agreedVotes": 1726,
+      "alignmentRate": 97.45906267645398
     },
     {
       "councillor": "Steve Lehman",
-      "sharedVotes": 3577,
-      "agreedVotes": 3473,
-      "alignmentRate": 97.09253564439474
+      "sharedVotes": 3617,
+      "agreedVotes": 3512,
+      "alignmentRate": 97.09704174730439
     },
     {
       "councillor": "Steve Hillier",
-      "sharedVotes": 3675,
-      "agreedVotes": 3539,
-      "alignmentRate": 96.29931972789116
+      "sharedVotes": 3718,
+      "agreedVotes": 3580,
+      "alignmentRate": 96.28832705755784
     },
     {
       "councillor": "Josh Morgan",
-      "sharedVotes": 3043,
-      "agreedVotes": 2920,
-      "alignmentRate": 95.95793624712455
+      "sharedVotes": 3070,
+      "agreedVotes": 2947,
+      "alignmentRate": 95.99348534201954
     },
     {
       "councillor": "Elizabeth Peloza",
-      "sharedVotes": 3254,
-      "agreedVotes": 3095,
-      "alignmentRate": 95.11370620774431
+      "sharedVotes": 3279,
+      "agreedVotes": 3118,
+      "alignmentRate": 95.08996645318695
     }
   ],
   "bottomAlignments": [
     {
       "councillor": "Sam Trosow",
-      "sharedVotes": 1469,
-      "agreedVotes": 1212,
-      "alignmentRate": 82.50510551395507
+      "sharedVotes": 1496,
+      "agreedVotes": 1235,
+      "alignmentRate": 82.55347593582889
     },
     {
       "councillor": "David Ferreira",
-      "sharedVotes": 1281,
-      "agreedVotes": 1118,
-      "alignmentRate": 87.27556596409055
+      "sharedVotes": 1308,
+      "agreedVotes": 1145,
+      "alignmentRate": 87.53822629969419
     },
     {
       "councillor": "Susan Stevenson",
-      "sharedVotes": 1542,
-      "agreedVotes": 1360,
-      "alignmentRate": 88.19714656290532
+      "sharedVotes": 1585,
+      "agreedVotes": 1388,
+      "alignmentRate": 87.57097791798107
     },
     {
       "councillor": "Anna Hopkins",
-      "sharedVotes": 2571,
-      "agreedVotes": 2326,
-      "alignmentRate": 90.47063399455465
+      "sharedVotes": 2598,
+      "agreedVotes": 2352,
+      "alignmentRate": 90.5311778290993
     },
     {
       "councillor": "Skylar Franke",
-      "sharedVotes": 1668,
-      "agreedVotes": 1515,
-      "alignmentRate": 90.82733812949641
+      "sharedVotes": 1695,
+      "agreedVotes": 1541,
+      "alignmentRate": 90.91445427728614
     }
   ],
   "notableDissents": [
+    {
+      "date": "2026-07-14",
+      "meetingTitle": "The 11th Meeting of the Planning and Environment Committee",
+      "itemTitle": "1454 Fanshawe Park Road East - Block 2 - 39T-26502/OZ-25055",
+      "motionText": "That the Committee recess at this time, for 10 minutes.",
+      "vote": "nay",
+      "result": "Motion Passed (4 to 1)",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=2fd7e5b1-762b-4503-9e05-7a62e44bc4ad&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2026-06-23",
+      "meetingTitle": "11th Meeting of Council",
+      "itemTitle": "(2.7) Award of NRFP-2025-248: Municipal Land for Affordable Housing at 1958 Duluth Crescent, Block 6 (Relates to Bill No. 239)    ",
+      "motionText": "That part c) BE APPROVED: c)    the Civic Administration BE DIRECTED to work with the proponent to submit necessary Planning Act applications to support an increase in density from 71 units per hectar...",
+      "vote": "nay",
+      "result": "Motion Passed (8 to 6)",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=948470cd-fe8f-491c-afab-0012197b9009&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2026-06-23",
+      "meetingTitle": "11th Meeting of Council",
+      "itemTitle": "(4.1) Councillor C. Rahman - Third-Party Appeal Mechanism",
+      "motionText": "That the motion BE AMENDED to read as follows: That Municipal Council endorse the following actions with respect to third-party appeal mechanism during the Ontario Land Tribunal process: a) the Mayor ...",
+      "vote": "nay",
+      "result": "Motion Passed (7 to 6)",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=948470cd-fe8f-491c-afab-0012197b9009&Agenda=PostMinutes&lang=English"
+    },
     {
       "date": "2026-06-16",
       "meetingTitle": "8th Meeting of the Strategic Priorities and Policy Committee",
@@ -185,7 +212,7 @@
       "motionText": "That the Planning and Environment Committee rise and go into Committee, In Closed Session, for the purpose of considering the following: a matter pertaining to advice that is subject to solicitor-clie...",
       "vote": "nay",
       "result": "Motion Passed (5 to 1)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=ff301408-3802-4bf4-80b0-8796af8fd0fd&Agenda=PostMinutes&lang=English"
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=ff301408-3802-4bf4-80b0-8796af8fd0fd&Agenda=PostMinutes&lang=English"
     },
     {
       "date": "2026-06-02",
@@ -194,7 +221,7 @@
       "motionText": "That the application of Westdell Development Corporation (c/o MHBC Planning, Urban Design & Landscape Architecture) relating to the property located at 1103 & 1111 Westdel Bourne BE REFERRED to a futu...",
       "vote": "yea",
       "result": "Motion Failed (7 to 7)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=7241e2a5-5faa-4da2-87e3-5aa7366fda9f&Agenda=PostMinutes&lang=English"
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=7241e2a5-5faa-4da2-87e3-5aa7366fda9f&Agenda=PostMinutes&lang=English"
     },
     {
       "date": "2026-05-12",
@@ -203,7 +230,7 @@
       "motionText": "That on the recommendation of the Deputy City Manager, Environment & Infrastructure, with respect to the City’s participation in the Province of Ontario’s Cargo Power-assisted Bicycle (cargo e-bike) p...",
       "vote": "nay",
       "result": "Motion Passed (13 to 2)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=36196cde-4600-4e4f-8874-7125d4e3232b&Agenda=PostMinutes&lang=English"
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=36196cde-4600-4e4f-8874-7125d4e3232b&Agenda=PostMinutes&lang=English"
     },
     {
       "date": "2026-05-12",
@@ -212,43 +239,23 @@
       "motionText": "That part b) BE APPROVED: b)    the proposed by-law, as appended to the staff report dated May 6, 2026 as Appendix \"A\", BE INTRODUCED at the Municipal Council meeting to be held on May 12, 2026 to est...",
       "vote": "nay",
       "result": "Motion Passed (11 to 4)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=36196cde-4600-4e4f-8874-7125d4e3232b&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-05-12",
-      "meetingTitle": "8th Meeting of Council",
-      "itemTitle": "(3.3) 945 Bluegrass Drive - OZ-26019 (Relates to Bill No. 194 and 210)",
-      "motionText": "That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Bluegrass Long Term Care Centre – Division of “Meadow Park” (Lo...",
-      "vote": "yea",
-      "result": "Motion Failed (5 to 10)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=36196cde-4600-4e4f-8874-7125d4e3232b&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-03-24",
-      "meetingTitle": "5th Meeting of the Strategic Priorities and Policy Committee",
-      "itemTitle": "Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program - Report Back on Program Options",
-      "motionText": "That the motion BE AMENDED to have the report back to the Strategic Priorities and Policy Committee.",
-      "vote": "nay",
-      "result": "Motion Passed (10 to 4)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=5b8ccf34-419e-4480-af6f-4160e9259405&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-03-10",
-      "meetingTitle": "5th Meeting of the Planning and Environment Committee",
-      "itemTitle": "929 Cheapside Street - Z-26003 ",
-      "motionText": "That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 929 Cheapside Inc. (c/o Monteith Brown Planning Consultants) re...",
-      "vote": "yea",
-      "result": "Motion Failed (1 to 4)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=c54777ec-4f72-472c-a200-acb7dbb91897&Agenda=PostMinutes&lang=English"
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=36196cde-4600-4e4f-8874-7125d4e3232b&Agenda=PostMinutes&lang=English"
     }
   ],
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 4106,
-      "yeas": 3787,
-      "nays": 243,
-      "participationRate": 98.14905017048223
+      "totalVotes": 4165,
+      "yeas": 3843,
+      "nays": 246,
+      "participationRate": 98.17527010804322
+    },
+    {
+      "committee": "Planning and Environment Committee",
+      "totalVotes": 2121,
+      "yeas": 1986,
+      "nays": 39,
+      "participationRate": 95.47383309759547
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
@@ -256,13 +263,6 @@
       "yeas": 1530,
       "nays": 140,
       "participationRate": 79.03454803596782
-    },
-    {
-      "committee": "Planning and Environment Committee",
-      "totalVotes": 2073,
-      "yeas": 1945,
-      "nays": 38,
-      "participationRate": 95.65846599131693
     },
     {
       "committee": "Community and Protective Services Committee",

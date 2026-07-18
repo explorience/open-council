@@ -2,11 +2,11 @@
   "councillor": "Skylar Franke",
   "slug": "s-franke",
   "attendance": {
-    "totalMeetings": 207,
-    "present": 199,
+    "totalMeetings": 209,
+    "present": 201,
     "absent": 8,
     "remote": 0,
-    "attendanceRate": 96.1352657004831,
+    "attendanceRate": 96.17224880382776,
     "trend": [
       {
         "period": "2022",
@@ -34,99 +34,117 @@
       },
       {
         "period": "2026",
-        "attendanceRate": 95.45454545454545,
-        "meetingsAttended": 21,
-        "meetingsTotal": 22
+        "attendanceRate": 95.83333333333334,
+        "meetingsAttended": 23,
+        "meetingsTotal": 24
       }
     ],
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 3978,
-    "yeas": 3336,
-    "nays": 327,
+    "totalVotes": 4041,
+    "yeas": 3398,
+    "nays": 328,
     "absent": 315,
-    "participationRate": 92.0814479638009,
-    "yeaRate": 91.07289107289107,
-    "contestedDissentRate": 23.08781869688385,
-    "contestedVotes": 1412,
-    "substantiveVotes": 2309,
-    "substantiveYeas": 1784,
-    "substantiveNays": 276,
-    "substantiveParticipationRate": 89.21611087050671,
-    "substantiveYeaRate": 86.60194174757282
+    "participationRate": 92.20489977728286,
+    "yeaRate": 91.19699409554482,
+    "contestedDissentRate": 22.52747252747253,
+    "contestedVotes": 1456,
+    "substantiveVotes": 2330,
+    "substantiveYeas": 1804,
+    "substantiveNays": 277,
+    "substantiveParticipationRate": 89.31330472103004,
+    "substantiveYeaRate": 86.68909178279674
   },
   "budgetVoting": {
-    "totalBudgetVotes": 385,
-    "budgetYeas": 299,
+    "totalBudgetVotes": 386,
+    "budgetYeas": 300,
     "budgetNays": 71,
     "budgetAbsent": 15
   },
   "topAlignments": [
     {
       "councillor": "Hadleigh McAlister",
-      "sharedVotes": 1432,
-      "agreedVotes": 1360,
-      "alignmentRate": 94.97206703910615
+      "sharedVotes": 1455,
+      "agreedVotes": 1383,
+      "alignmentRate": 95.05154639175257
     },
     {
       "councillor": "Anna Hopkins",
-      "sharedVotes": 1588,
-      "agreedVotes": 1505,
-      "alignmentRate": 94.77329974811083
+      "sharedVotes": 1615,
+      "agreedVotes": 1530,
+      "alignmentRate": 94.73684210526315
     },
     {
       "councillor": "David Ferreira",
-      "sharedVotes": 1248,
-      "agreedVotes": 1162,
-      "alignmentRate": 93.10897435897436
+      "sharedVotes": 1275,
+      "agreedVotes": 1188,
+      "alignmentRate": 93.17647058823529
     },
     {
       "councillor": "Josh Morgan",
-      "sharedVotes": 1469,
-      "agreedVotes": 1359,
-      "alignmentRate": 92.51191286589517
+      "sharedVotes": 1496,
+      "agreedVotes": 1385,
+      "alignmentRate": 92.58021390374331
     },
     {
-      "councillor": "Corrine Rahman",
-      "sharedVotes": 1465,
-      "agreedVotes": 1353,
-      "alignmentRate": 92.35494880546075
+      "councillor": "Elizabeth Peloza",
+      "sharedVotes": 1365,
+      "agreedVotes": 1260,
+      "alignmentRate": 92.3076923076923
     }
   ],
   "bottomAlignments": [
     {
       "councillor": "Susan Stevenson",
-      "sharedVotes": 1408,
-      "agreedVotes": 1145,
-      "alignmentRate": 81.32102272727273
+      "sharedVotes": 1439,
+      "agreedVotes": 1161,
+      "alignmentRate": 80.68102849200834
     },
     {
       "councillor": "Paul Van Meerbergen",
-      "sharedVotes": 1432,
-      "agreedVotes": 1217,
-      "alignmentRate": 84.98603351955308
+      "sharedVotes": 1436,
+      "agreedVotes": 1221,
+      "alignmentRate": 85.02785515320335
     },
     {
       "councillor": "Steve Hillier",
-      "sharedVotes": 1592,
-      "agreedVotes": 1421,
-      "alignmentRate": 89.25879396984925
+      "sharedVotes": 1619,
+      "agreedVotes": 1446,
+      "alignmentRate": 89.31439159975292
     },
     {
       "councillor": "Peter Cuddy",
-      "sharedVotes": 1436,
-      "agreedVotes": 1290,
-      "alignmentRate": 89.83286908077994
+      "sharedVotes": 1463,
+      "agreedVotes": 1316,
+      "alignmentRate": 89.95215311004785
     },
     {
       "councillor": "Sam Trosow",
-      "sharedVotes": 1396,
-      "agreedVotes": 1262,
-      "alignmentRate": 90.40114613180515
+      "sharedVotes": 1423,
+      "agreedVotes": 1286,
+      "alignmentRate": 90.37245256500351
     }
   ],
   "notableDissents": [
+    {
+      "date": "2026-06-23",
+      "meetingTitle": "11th Meeting of Council",
+      "itemTitle": "(3.5) 221 Queens Avenue - TZ-26045 (Relates to Bill No. 258)",
+      "motionText": "Notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Sifton Properties Limited relating to the property locat...",
+      "vote": "nay",
+      "result": "Motion Passed (10 to 3)",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=948470cd-fe8f-491c-afab-0012197b9009&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2026-06-23",
+      "meetingTitle": "11th Meeting of Council",
+      "itemTitle": "(3.6) 1057-1061 Richmond Street - Z-26051 (Relates to Bill No. 259)",
+      "motionText": "That, pursuant to section 10.5 of the Council Procedure By-law, “shall the ruling of the Chair BE SUSTAINED?”",
+      "vote": "yea",
+      "result": "Motion Failed (5 to 8)",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=948470cd-fe8f-491c-afab-0012197b9009&Agenda=PostMinutes&lang=English"
+    },
     {
       "date": "2026-06-17",
       "meetingTitle": "10th Special Meeting of Council",
@@ -134,7 +152,7 @@
       "motionText": "That, pursuant to section 2.3 of the Council Procedure By-law, the speaking-once provision contained in section 9.7 of the Council Procedure By-law BE SUSPENDED for the Council meeting held on June 17...",
       "vote": "yea",
       "result": "Motion Failed (9 to 4)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=4ded2b07-9300-45c5-9b86-489f66930984&Agenda=PostMinutes&lang=English"
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=4ded2b07-9300-45c5-9b86-489f66930984&Agenda=PostMinutes&lang=English"
     },
     {
       "date": "2026-05-12",
@@ -143,7 +161,7 @@
       "motionText": "That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Bluegrass Long Term Care Centre – Division of “Meadow Park” (Lo...",
       "vote": "yea",
       "result": "Motion Failed (5 to 10)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=36196cde-4600-4e4f-8874-7125d4e3232b&Agenda=PostMinutes&lang=English"
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=36196cde-4600-4e4f-8874-7125d4e3232b&Agenda=PostMinutes&lang=English"
     },
     {
       "date": "2026-04-21",
@@ -152,7 +170,7 @@
       "motionText": "That part a) BE APPROVED and reads as follows: That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the following actions be taken with respect to current initiatives ...",
       "vote": "nay",
       "result": "Motion Passed (9 to 4)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b5334fb8-e3e2-4e5b-b0c6-9e30a6392c59&Agenda=PostMinutes&lang=English"
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=b5334fb8-e3e2-4e5b-b0c6-9e30a6392c59&Agenda=PostMinutes&lang=English"
     },
     {
       "date": "2026-03-24",
@@ -161,7 +179,7 @@
       "motionText": "That part a) ii) BE APPROVED: ii) partial (or full) development charge rebate options for new residential development, including options that could be targeted by unit type and ability to meet HAF tim...",
       "vote": "nay",
       "result": "Motion Passed (10 to 4)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=5b8ccf34-419e-4480-af6f-4160e9259405&Agenda=PostMinutes&lang=English"
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=5b8ccf34-419e-4480-af6f-4160e9259405&Agenda=PostMinutes&lang=English"
     },
     {
       "date": "2026-03-23",
@@ -170,7 +188,7 @@
       "motionText": "That the following part BE APPROVED: d)    the Civic Administration BE DIRECTED to report back to a future meeting of the Infrastructure and Corporate Services Committee with a proposed implementation...",
       "vote": "yea",
       "result": "Motion Failed (2 to 4)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=e9890bd1-3ebf-47fa-8198-25a144b6365d&Agenda=PostMinutes&lang=English"
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=e9890bd1-3ebf-47fa-8198-25a144b6365d&Agenda=PostMinutes&lang=English"
     },
     {
       "date": "2026-03-23",
@@ -179,7 +197,7 @@
       "motionText": "That the communication dated March 16, 2026, from Councillor S. Stevenson, with respect to Enhanced Reporting for Procurement Disqualifications and Bids & Tender Issues, BE RECEIVED.",
       "vote": "nay",
       "result": "Motion Passed (4 to 1)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=e9890bd1-3ebf-47fa-8198-25a144b6365d&Agenda=PostMinutes&lang=English"
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=e9890bd1-3ebf-47fa-8198-25a144b6365d&Agenda=PostMinutes&lang=English"
     },
     {
       "date": "2026-03-03",
@@ -198,33 +216,15 @@
       "vote": "yea",
       "result": "Motion Failed (4 to 10)",
       "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-03-03",
-      "meetingTitle": "4th Council Meeting",
-      "itemTitle": "(4.1) Deputy Mayor S. Lewis, Councillors P. Cuddy and C. Rahman - Zoning By-law Amendment - Parking Changes",
-      "motionText": "That parts b) and c), as amended, BE APPROVED. At 4:19 PM, Chair Deputy Mayor S. Lewis, places Councillor C. Rahman in the Chair. At 4:24 PM, Chair Deputy Mayor S. Lewis resumes the Chair.",
-      "vote": "nay",
-      "result": "Motion Passed (11 to 3)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-03-03",
-      "meetingTitle": "4th Council Meeting",
-      "itemTitle": "(4.1) Deputy Mayor S. Lewis, Councillors P. Cuddy and C. Rahman - Zoning By-law Amendment - Parking Changes",
-      "motionText": "That parts a) and d), as amended, BE APPROVED.",
-      "vote": "nay",
-      "result": "Motion Passed (11 to 3)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English"
     }
   ],
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 1995,
-      "yeas": 1739,
-      "nays": 174,
-      "participationRate": 95.88972431077694
+      "totalVotes": 2054,
+      "yeas": 1797,
+      "nays": 175,
+      "participationRate": 96.00778967867576
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
@@ -249,10 +249,10 @@
     },
     {
       "committee": "Infrastructure and Corporate Services Committee",
-      "totalVotes": 164,
-      "yeas": 137,
+      "totalVotes": 168,
+      "yeas": 141,
       "nays": 14,
-      "participationRate": 92.07317073170732
+      "participationRate": 92.26190476190477
     },
     {
       "committee": "Civic Works Committee",

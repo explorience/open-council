@@ -4,7 +4,7 @@ date: 2026-05-04
 ---
 May 4, 2026, at  1:00 PM
 
-[Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=25f3b550-fb7f-44bf-9078-84c2fd95b0c7&Agenda=PostMinutes&lang=English)
+[Original link](https://pub-london.escribemeetings.com//Meeting.aspx?Id=25f3b550-fb7f-44bf-9078-84c2fd95b0c7&Agenda=PostMinutes&lang=English)
 
 > [!abstract]- Present:
 > C. Rahman, J. Pribil, S. Trosow, A. Hopkins, D. Ferreira, J. Morgan

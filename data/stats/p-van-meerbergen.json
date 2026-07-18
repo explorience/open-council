@@ -2,11 +2,11 @@
   "councillor": "Paul Van Meerbergen",
   "slug": "p-van-meerbergen",
   "attendance": {
-    "totalMeetings": 594,
-    "present": 567,
-    "absent": 27,
+    "totalMeetings": 596,
+    "present": 568,
+    "absent": 28,
     "remote": 6,
-    "attendanceRate": 95.45454545454545,
+    "attendanceRate": 95.30201342281879,
     "trend": [
       {
         "period": "2011",
@@ -82,33 +82,33 @@
       },
       {
         "period": "2026",
-        "attendanceRate": 100,
-        "meetingsAttended": 22,
-        "meetingsTotal": 22
+        "attendanceRate": 95.83333333333334,
+        "meetingsAttended": 23,
+        "meetingsTotal": 24
       }
     ],
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 8759,
-    "yeas": 6860,
+    "totalVotes": 8822,
+    "yeas": 6864,
     "nays": 1026,
-    "absent": 873,
-    "participationRate": 90.0331088023747,
-    "yeaRate": 86.9896018260208,
-    "contestedDissentRate": 22.782608695652172,
-    "contestedVotes": 4025,
-    "substantiveVotes": 6144,
-    "substantiveYeas": 4710,
+    "absent": 932,
+    "participationRate": 89.43550215370665,
+    "yeaRate": 86.99619771863118,
+    "contestedDissentRate": 22.776949826130156,
+    "contestedVotes": 4026,
+    "substantiveVotes": 6165,
+    "substantiveYeas": 4711,
     "substantiveNays": 828,
-    "substantiveParticipationRate": 90.13671875,
-    "substantiveYeaRate": 85.04875406283857
+    "substantiveParticipationRate": 89.84590429845905,
+    "substantiveYeaRate": 85.05145333092617
   },
   "budgetVoting": {
-    "totalBudgetVotes": 1361,
+    "totalBudgetVotes": 1362,
     "budgetYeas": 972,
     "budgetNays": 349,
-    "budgetAbsent": 40
+    "budgetAbsent": 41
   },
   "topAlignments": [
     {
@@ -157,9 +157,9 @@
     },
     {
       "councillor": "Skylar Franke",
-      "sharedVotes": 1432,
-      "agreedVotes": 1217,
-      "alignmentRate": 84.98603351955308
+      "sharedVotes": 1436,
+      "agreedVotes": 1221,
+      "alignmentRate": 85.02785515320335
     },
     {
       "councillor": "Anna Hopkins",
@@ -209,7 +209,7 @@
       "motionText": "That Council convene as the Approving Authority pursuant to the provisions of the Expropriations Act, R.S.O. 1990, c.E.26, as amended, for the purpose of considering Communication No. 1 from the Deput...",
       "vote": "nay",
       "result": "Motion Passed (13 to 1)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=7241e2a5-5faa-4da2-87e3-5aa7366fda9f&Agenda=PostMinutes&lang=English"
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=7241e2a5-5faa-4da2-87e3-5aa7366fda9f&Agenda=PostMinutes&lang=English"
     },
     {
       "date": "2026-06-02",
@@ -218,7 +218,7 @@
       "motionText": "That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, with the concurrence of the Director, Construction and Infrastructure Services, on the advice of the Director, R...",
       "vote": "nay",
       "result": "Motion Passed (13 to 1)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=7241e2a5-5faa-4da2-87e3-5aa7366fda9f&Agenda=PostMinutes&lang=English"
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=7241e2a5-5faa-4da2-87e3-5aa7366fda9f&Agenda=PostMinutes&lang=English"
     },
     {
       "date": "2026-06-02",
@@ -227,7 +227,7 @@
       "motionText": "That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, with the concurrence of the Director, Construction and Infrastructure Services, on the advice of the Director, R...",
       "vote": "nay",
       "result": "Motion Passed (13 to 1)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=7241e2a5-5faa-4da2-87e3-5aa7366fda9f&Agenda=PostMinutes&lang=English"
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=7241e2a5-5faa-4da2-87e3-5aa7366fda9f&Agenda=PostMinutes&lang=English"
     },
     {
       "date": "2026-06-02",
@@ -236,7 +236,7 @@
       "motionText": "That the application of Westdell Development Corporation (c/o MHBC Planning, Urban Design & Landscape Architecture) relating to the property located at 1103 & 1111 Westdel Bourne BE REFERRED to a futu...",
       "vote": "yea",
       "result": "Motion Failed (7 to 7)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=7241e2a5-5faa-4da2-87e3-5aa7366fda9f&Agenda=PostMinutes&lang=English"
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=7241e2a5-5faa-4da2-87e3-5aa7366fda9f&Agenda=PostMinutes&lang=English"
     },
     {
       "date": "2026-06-02",
@@ -245,7 +245,7 @@
       "motionText": "That Introduction and First Reading of Bill No. 235 BE APPROVED.",
       "vote": "nay",
       "result": "Motion Passed (13 to 1)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=7241e2a5-5faa-4da2-87e3-5aa7366fda9f&Agenda=PostMinutes&lang=English"
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=7241e2a5-5faa-4da2-87e3-5aa7366fda9f&Agenda=PostMinutes&lang=English"
     },
     {
       "date": "2026-06-02",
@@ -254,7 +254,7 @@
       "motionText": "That Second Reading of Bill No. 235 BE APPROVED.",
       "vote": "nay",
       "result": "Motion Passed (13 to 1)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=7241e2a5-5faa-4da2-87e3-5aa7366fda9f&Agenda=PostMinutes&lang=English"
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=7241e2a5-5faa-4da2-87e3-5aa7366fda9f&Agenda=PostMinutes&lang=English"
     },
     {
       "date": "2026-06-02",
@@ -263,16 +263,16 @@
       "motionText": "That Third Reading and Enactment of Bill No. 235 BE APPROVED.",
       "vote": "nay",
       "result": "Motion Passed (13 to 1)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=7241e2a5-5faa-4da2-87e3-5aa7366fda9f&Agenda=PostMinutes&lang=English"
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=7241e2a5-5faa-4da2-87e3-5aa7366fda9f&Agenda=PostMinutes&lang=English"
     }
   ],
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 5097,
+      "totalVotes": 5156,
       "yeas": 4191,
       "nays": 553,
-      "participationRate": 93.0743574651756
+      "participationRate": 92.00930954228083
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
@@ -297,10 +297,10 @@
     },
     {
       "committee": "Infrastructure and Corporate Services Committee",
-      "totalVotes": 164,
-      "yeas": 140,
+      "totalVotes": 168,
+      "yeas": 144,
       "nays": 19,
-      "participationRate": 96.95121951219512
+      "participationRate": 97.02380952380952
     },
     {
       "committee": "Corporate Services Committee",
