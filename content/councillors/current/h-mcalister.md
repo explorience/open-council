@@ -2,18 +2,18 @@
 title: "Hadleigh McAlister"
 type: councillor
 slug: "h-mcalister"
-meetingCount: 230
+meetingCount: 232
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 3867
-votesYea: 3123
-votesNay: 277
-votesAbsent: 467
+totalVotes: 3930
+votesYea: 3146
+votesNay: 278
+votesAbsent: 506
 attendanceRate: 94.6
-participationRate: 87.9
+participationRate: 87.1
 yeaRate: 91.9
-contestedDissentRate: 14.2
-contestedVotes: 1423
+contestedDissentRate: 14.1
+contestedVotes: 1436
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -30,10 +30,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 3,867 |
-| Voted Yea | 3,123 (80.8%) |
-| Voted Nay | 277 (7.2%) |
-| Absent | 467 (12.1%) |
+| Total Votes | 3,930 |
+| Voted Yea | 3,146 (80.1%) |
+| Voted Nay | 278 (7.1%) |
+| Absent | 506 (12.9%) |
 
 
 ### Substantive Votes
@@ -42,17 +42,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,442 |
-| Voted Yea | 1,824 (88.0%) |
-| Voted Nay | 248 (12.0%) |
+| Substantive Votes | 2,463 |
+| Voted Yea | 1,836 (88.1%) |
+| Voted Nay | 249 (11.9%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 14.2%
-- **Contested Votes**: 1,423
+- **Dissent Rate**: 14.1%
+- **Contested Votes**: 1,436
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -63,8 +63,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 390 |
-| Voted Yea | 308 (84.4%) |
+| Budget Votes | 391 |
+| Voted Yea | 309 (84.4%) |
 | Voted Nay | 57 (15.6%) |
 | Absent | 25 |
 
@@ -72,7 +72,7 @@ prefillQuestions:
 ## Attendance
 
 - **Attendance Rate**: 94.6%
-- **Meetings Attended**: 226 of 239
+- **Meetings Attended**: 228 of 241
 - **Meetings Missed**: 13
 - **Trend**: Stable -
 
@@ -80,20 +80,20 @@ prefillQuestions:
   - 2023: 90.9% (70/77 meetings)
   - 2024: 93.4% (71/76 meetings)
   - 2025: 98.2% (54/55 meetings)
-  - 2026: 100.0% (22/22 meetings)
+  - 2026: 100.0% (24/24 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
-- Skylar Franke (95.0%)
-- Josh Morgan (94.5%)
-- Anna Hopkins (93.8%)
+- Skylar Franke (95.1%)
+- Josh Morgan (94.6%)
+- Anna Hopkins (93.9%)
 
 **Least aligned with:**
-- Susan Stevenson (84.8%)
+- Susan Stevenson (84.2%)
 - Paul Van Meerbergen (88.4%)
-- Sam Trosow (89.3%)
+- Sam Trosow (89.4%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -102,22 +102,30 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 2,004 | 1,707 | 136 | 92.0% |
+| Council | 2,063 | 1,726 | 137 | 90.3% |
 | Strategic Priorities and Policy Committee | 1,073 | 769 | 70 | 78.2% |
 | Community and Protective Services Committee | 266 | 228 | 14 | 91.0% |
 | Budget Committee | 189 | 135 | 39 | 92.1% |
 | Corporate Services Committee | 164 | 130 | 1 | 79.9% |
 | Civic Works Committee | 90 | 81 | 9 | 100.0% |
-| Infrastructure and Corporate Services Committee | 81 | 73 | 8 | 100.0% |
+| Infrastructure and Corporate Services Committee | 85 | 77 | 8 | 100.0% |
 
 
 ## Notable Dissenting Votes
 
 *Recent split votes where Hadleigh McAlister voted against the final outcome:*
 
+### 2026-06-23: (2.7) Award of NRFP-2025-248: Municipal Land for Affordable Housing at 1958 Duluth Crescent, Block 6 (Relates to Bill No. 239)    
+
+[11th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=948470cd-fe8f-491c-afab-0012197b9009&Agenda=PostMinutes&lang=English)
+
+> That part c) BE APPROVED: c)    the Civic Administration BE DIRECTED to work with the proponent to submit necessary Planning Act applications to support an increase in density from 71 units per hectar...
+
+Voted **Nay** - Motion Passed (8 to 6)
+
 ### 2026-03-23: Pollution Prevention and Control Plan Update Study - Notice of Completion
 
-[6th Meeting of the Infrastructure and Corporate Services Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=e9890bd1-3ebf-47fa-8198-25a144b6365d&Agenda=PostMinutes&lang=English)
+[6th Meeting of the Infrastructure and Corporate Services Committee](https://pub-london.escribemeetings.com//Meeting.aspx?Id=e9890bd1-3ebf-47fa-8198-25a144b6365d&Agenda=PostMinutes&lang=English)
 
 > That the following part BE APPROVED: d)    the Civic Administration BE DIRECTED to report back to a future meeting of the Infrastructure and Corporate Services Committee with a proposed implementation...
 
@@ -187,26 +195,20 @@ Voted **Nay** - Motion Passed (10 to 5)
 
 Voted **Yea** - Motion Failed (6 to 9)
 
-### 2026-02-10: (3.4) 767 Fanshawe Park Road East and 679 Dunboyne Crescent - Z-25151 (Relates to Bill No. 82)
-
-[3rd Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English)
-
-> vi) the sidewalk and/or access on/through 679 Dunboyne Crescent from the apartment complex development at 767 Fanshawe Park Road East to Dunboyne Crescent shall be prohibited.
-
-Voted **Nay** - Motion Passed (10 to 5)
-
 
 ## Committees Served
 
+- [Corporate Services Committee](/committees/corporate-services)
 - [City Council](/committees/city-council)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
-- [Corporate Services Committee](/committees/corporate-services)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [Budget Committee](/committees/budget)
 - [Civic Works Committee](/committees/civic-works)
 
-## Recent Meetings (230 total)
+## Recent Meetings (232 total)
 
+- [12th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-07/2026-07-15 12th Meeting of the Infrastructure and Corporate Services Committee>) - Wed Jul 15 2026
+- [11th Meeting of Council](</months/2026-06/2026-06-23 11th Meeting of Council>) - Tue Jun 23 2026
 - [10th Special Meeting of Council](</months/2026-06/2026-06-17 10th Special Meeting of Council>) - Wed Jun 17 2026
 - [8th Meeting of the Strategic Priorities and Policy Committee](</months/2026-06/2026-06-16 8th Meeting of the Strategic Priorities and Policy Committee>) - Tue Jun 16 2026
 - [11th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-06/2026-06-15 11th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Jun 15 2026
@@ -215,5 +217,3 @@ Voted **Nay** - Motion Passed (10 to 5)
 - [10th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-05/2026-05-27 10th Meeting of the Infrastructure and Corporate Services Committee>) - Wed May 27 2026
 - [8th Meeting of Council](</months/2026-05/2026-05-12 8th Meeting of Council>) - Tue May 12 2026
 - [9th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-05/2026-05-06 9th Meeting of the Infrastructure and Corporate Services Committee>) - Wed May 6 2026
-- [6th Meeting of the Strategic Priorities and Policy Committee](</months/2026-04/2026-04-21 6th Meeting of the Strategic Priorities and Policy Committee>) - Tue Apr 21 2026
-- [7th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-04/2026-04-20 7th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Apr 20 2026

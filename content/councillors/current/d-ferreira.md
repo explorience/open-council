@@ -2,18 +2,18 @@
 title: "David Ferreira"
 type: councillor
 slug: "d-ferreira"
-meetingCount: 236
+meetingCount: 238
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 3320
-votesYea: 2640
-votesNay: 380
+totalVotes: 3393
+votesYea: 2711
+votesNay: 382
 votesAbsent: 300
 attendanceRate: 97.5
-participationRate: 91.0
-yeaRate: 87.4
-contestedDissentRate: 27.9
-contestedVotes: 1332
+participationRate: 91.2
+yeaRate: 87.6
+contestedDissentRate: 26.9
+contestedVotes: 1379
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -30,10 +30,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 3,320 |
-| Voted Yea | 2,640 (79.5%) |
-| Voted Nay | 380 (11.4%) |
-| Absent | 300 (9.0%) |
+| Total Votes | 3,393 |
+| Voted Yea | 2,711 (79.9%) |
+| Voted Nay | 382 (11.3%) |
+| Absent | 300 (8.8%) |
 
 
 ### Substantive Votes
@@ -42,17 +42,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,112 |
-| Voted Yea | 1,571 (83.9%) |
-| Voted Nay | 302 (16.1%) |
+| Substantive Votes | 2,145 |
+| Voted Yea | 1,602 (84.1%) |
+| Voted Nay | 304 (15.9%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 27.9%
-- **Contested Votes**: 1,332
+- **Dissent Rate**: 26.9%
+- **Contested Votes**: 1,379
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -63,16 +63,16 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 332 |
-| Voted Yea | 244 (75.3%) |
-| Voted Nay | 80 (24.7%) |
+| Budget Votes | 334 |
+| Voted Yea | 246 (75.5%) |
+| Voted Nay | 80 (24.5%) |
 | Absent | 8 |
 
 
 ## Attendance
 
 - **Attendance Rate**: 97.5%
-- **Meetings Attended**: 230 of 236
+- **Meetings Attended**: 232 of 238
 - **Meetings Missed**: 6
 - **Trend**: Stable -
 
@@ -80,20 +80,20 @@ prefillQuestions:
   - 2023: 98.7% (76/77 meetings)
   - 2024: 98.6% (73/74 meetings)
   - 2025: 92.7% (51/55 meetings)
-  - 2026: 100.0% (21/21 meetings)
+  - 2026: 100.0% (23/23 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
-- Anna Hopkins (93.6%)
-- Skylar Franke (93.1%)
-- Hadleigh McAlister (92.2%)
+- Anna Hopkins (93.7%)
+- Skylar Franke (93.2%)
+- Hadleigh McAlister (92.3%)
 
 **Least aligned with:**
-- Susan Stevenson (78.6%)
+- Susan Stevenson (78.0%)
 - Paul Van Meerbergen (81.8%)
-- Steve Hillier (85.6%)
+- Steve Hillier (85.8%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -102,9 +102,9 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 1,795 | 1,511 | 224 | 96.7% |
+| Council | 1,854 | 1,569 | 225 | 96.8% |
 | Strategic Priorities and Policy Committee | 794 | 527 | 75 | 75.8% |
-| Community and Protective Services Committee | 412 | 365 | 31 | 96.1% |
+| Community and Protective Services Committee | 426 | 378 | 32 | 96.2% |
 | Budget Committee | 189 | 139 | 50 | 100.0% |
 | Corporate Services Committee | 75 | 46 | 0 | 61.3% |
 | Civic Works Committee | 55 | 52 | 0 | 94.5% |
@@ -116,7 +116,7 @@ prefillQuestions:
 
 ### 2026-06-17: Build Communities Strong Fund Provincial and Territorial Stream: Development Charge Reduction Program
 
-[10th Special Meeting of Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=4ded2b07-9300-45c5-9b86-489f66930984&Agenda=PostMinutes&lang=English)
+[10th Special Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=4ded2b07-9300-45c5-9b86-489f66930984&Agenda=PostMinutes&lang=English)
 
 > That, pursuant to section 2.3 of the Council Procedure By-law, the speaking-once provision contained in section 9.7 of the Council Procedure By-law BE SUSPENDED for the Council meeting held on June 17...
 
@@ -124,7 +124,7 @@ Voted **Yea** - Motion Failed (9 to 4)
 
 ### 2026-05-12: (3.3) 945 Bluegrass Drive - OZ-26019 (Relates to Bill No. 194 and 210)
 
-[8th Meeting of Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=36196cde-4600-4e4f-8874-7125d4e3232b&Agenda=PostMinutes&lang=English)
+[8th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=36196cde-4600-4e4f-8874-7125d4e3232b&Agenda=PostMinutes&lang=English)
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Bluegrass Long Term Care Centre – Division of “Meadow Park” (Lo...
 
@@ -132,7 +132,7 @@ Voted **Yea** - Motion Failed (5 to 10)
 
 ### 2026-03-24: Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program - Report Back on Program Options
 
-[5th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=5b8ccf34-419e-4480-af6f-4160e9259405&Agenda=PostMinutes&lang=English)
+[5th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com//Meeting.aspx?Id=5b8ccf34-419e-4480-af6f-4160e9259405&Agenda=PostMinutes&lang=English)
 
 > That part a) ii) BE APPROVED: ii) partial (or full) development charge rebate options for new residential development, including options that could be targeted by unit type and ability to meet HAF tim...
 
@@ -197,8 +197,8 @@ Voted **Nay** - Motion Passed (8 to 3)
 
 ## Committees Served
 
-- [City Council](/committees/city-council)
 - [Community and Protective Services Committee](/committees/community-protective-services)
+- [City Council](/committees/city-council)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Planning and Environment Committee](/committees/planning-environment)
 - [Corporate Services Committee](/committees/corporate-services)
@@ -206,8 +206,10 @@ Voted **Nay** - Motion Passed (8 to 3)
 - [Civic Works Committee](/committees/civic-works)
 - [Community Protective Services Committee](/committees/community-protective-services-committee)
 
-## Recent Meetings (236 total)
+## Recent Meetings (238 total)
 
+- [11th Meeting of the Community and Protective Services Committee](</months/2026-07/2026-07-13 11th Meeting of the Community and Protective Services Committee>) - Mon Jul 13 2026
+- [11th Meeting of Council](</months/2026-06/2026-06-23 11th Meeting of Council>) - Tue Jun 23 2026
 - [10th Special Meeting of Council](</months/2026-06/2026-06-17 10th Special Meeting of Council>) - Wed Jun 17 2026
 - [10th Special Meeting of the Community and Protective Services Committee](</months/2026-06/2026-06-16 10th Special Meeting of the Community and Protective Services Committee>) - Tue Jun 16 2026
 - [8th Meeting of the Strategic Priorities and Policy Committee](</months/2026-06/2026-06-16 8th Meeting of the Strategic Priorities and Policy Committee>) - Tue Jun 16 2026
@@ -216,5 +218,3 @@ Voted **Nay** - Motion Passed (8 to 3)
 - [7th Meeting of the Strategic Priorities and Policy Committee](</months/2026-05/2026-05-28 7th Meeting of the Strategic Priorities and Policy Committee>) - Thu May 28 2026
 - [The 8th Meeting of the Planning and Environment Committee](</months/2026-05/2026-05-26 The 8th Meeting of the Planning and Environment Committee>) - Tue May 26 2026
 - [8th Meeting of the Community and Protective Services Committee](</months/2026-05/2026-05-25 8th Meeting of the Community and Protective Services Committee>) - Mon May 25 2026
-- [8th Meeting of Council](</months/2026-05/2026-05-12 8th Meeting of Council>) - Tue May 12 2026
-- [7th Meeting of the Community and Protective Services Committee](</months/2026-05/2026-05-04 7th Meeting of the Community and Protective Services Committee>) - Mon May 4 2026

@@ -2,18 +2,18 @@
 title: "Steve Hillier"
 type: councillor
 slug: "s-hillier"
-meetingCount: 479
+meetingCount: 482
 yearsActive: "2018 - 2026"
 isCurrent: true
-totalVotes: 8014
-votesYea: 6887
-votesNay: 492
+totalVotes: 8121
+votesYea: 6984
+votesNay: 502
 votesAbsent: 635
 attendanceRate: 93.5
-participationRate: 92.1
+participationRate: 92.2
 yeaRate: 93.3
-contestedDissentRate: 15.2
-contestedVotes: 2100
+contestedDissentRate: 15.3
+contestedVotes: 2146
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -30,10 +30,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 8,014 |
-| Voted Yea | 6,887 (85.9%) |
-| Voted Nay | 492 (6.1%) |
-| Absent | 635 (7.9%) |
+| Total Votes | 8,121 |
+| Voted Yea | 6,984 (86.0%) |
+| Voted Nay | 502 (6.2%) |
+| Absent | 635 (7.8%) |
 
 
 ### Substantive Votes
@@ -42,17 +42,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 4,502 |
-| Voted Yea | 3,592 (89.3%) |
-| Voted Nay | 429 (10.7%) |
+| Substantive Votes | 4,547 |
+| Voted Yea | 3,633 (89.4%) |
+| Voted Nay | 433 (10.6%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 15.2%
-- **Contested Votes**: 2,100
+- **Dissent Rate**: 15.3%
+- **Contested Votes**: 2,146
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -63,8 +63,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 684 |
-| Voted Yea | 521 (81.4%) |
+| Budget Votes | 685 |
+| Voted Yea | 522 (81.4%) |
 | Voted Nay | 119 (18.6%) |
 | Absent | 44 |
 
@@ -72,7 +72,7 @@ prefillQuestions:
 ## Attendance
 
 - **Attendance Rate**: 93.5%
-- **Meetings Attended**: 432 of 462
+- **Meetings Attended**: 435 of 465
 - **Meetings Missed**: 30
 - **Trend**: Stable -
 
@@ -80,20 +80,20 @@ prefillQuestions:
   - 2023: 86.7% (52/60 meetings)
   - 2024: 95.2% (60/63 meetings)
   - 2025: 96.3% (52/54 meetings)
-  - 2026: 90.0% (18/20 meetings)
+  - 2026: 91.3% (21/23 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
-- Steve Lehman (96.4%)
+- Steve Lehman (96.5%)
 - Shawn Lewis (96.3%)
-- Peter Cuddy (95.4%)
+- Peter Cuddy (95.5%)
 
 **Least aligned with:**
-- Sam Trosow (81.4%)
-- David Ferreira (85.6%)
-- Anna Hopkins (88.4%)
+- Sam Trosow (81.6%)
+- David Ferreira (85.8%)
+- Susan Stevenson (87.9%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -102,8 +102,8 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 3,793 | 3,364 | 259 | 95.5% |
-| Planning and Environment Committee | 1,886 | 1,768 | 41 | 95.9% |
+| Council | 3,852 | 3,413 | 269 | 95.6% |
+| Planning and Environment Committee | 1,934 | 1,816 | 41 | 96.0% |
 | Strategic Priorities and Policy Committee | 1,767 | 1,268 | 127 | 78.9% |
 | Community and Protective Services Committee | 328 | 314 | 1 | 96.0% |
 | Budget Committee | 189 | 125 | 64 | 100.0% |
@@ -114,6 +114,78 @@ prefillQuestions:
 
 *Recent split votes where Steve Hillier voted against the final outcome:*
 
+### 2026-06-23: (2.7) Award of NRFP-2025-248: Municipal Land for Affordable Housing at 1958 Duluth Crescent, Block 6 (Relates to Bill No. 239)    
+
+[11th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=948470cd-fe8f-491c-afab-0012197b9009&Agenda=PostMinutes&lang=English)
+
+> That part c) BE APPROVED: c)    the Civic Administration BE DIRECTED to work with the proponent to submit necessary Planning Act applications to support an increase in density from 71 units per hectar...
+
+Voted **Nay** - Motion Passed (8 to 6)
+
+### 2026-06-23: (3.8) 929 Cheapside Street - Z-26003 (Relates to Bill No. 261)
+
+[11th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=948470cd-fe8f-491c-afab-0012197b9009&Agenda=PostMinutes&lang=English)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 929 Cheapside Inc. (c/o Monteith Brown Planning Consultants) re...
+
+Voted **Nay** - Motion Passed (9 to 4)
+
+### 2026-06-23: (4.1) Councillor C. Rahman - Third-Party Appeal Mechanism
+
+[11th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=948470cd-fe8f-491c-afab-0012197b9009&Agenda=PostMinutes&lang=English)
+
+> That the motion BE AMENDED to read as follows: That Municipal Council endorse the following actions with respect to third-party appeal mechanism during the Ontario Land Tribunal process: a) the Mayor ...
+
+Voted **Nay** - Motion Passed (7 to 6)
+
+### 2026-06-23: By-laws
+
+[11th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=948470cd-fe8f-491c-afab-0012197b9009&Agenda=PostMinutes&lang=English)
+
+> That Introduction and First Reading of Bill No. 239 BE APPROVED.
+
+Voted **Nay** - Motion Passed (9 to 2)
+
+### 2026-06-23: By-laws
+
+[11th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=948470cd-fe8f-491c-afab-0012197b9009&Agenda=PostMinutes&lang=English)
+
+> That Second Reading of Bill No. 239 BE APPROVED.
+
+Voted **Nay** - Motion Passed (9 to 2)
+
+### 2026-06-23: By-laws
+
+[11th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=948470cd-fe8f-491c-afab-0012197b9009&Agenda=PostMinutes&lang=English)
+
+> That Third Reading and Enactment of Bill No. 239 BE APPROVED.
+
+Voted **Nay** - Motion Passed (9 to 2)
+
+### 2026-06-23: By-laws
+
+[11th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=948470cd-fe8f-491c-afab-0012197b9009&Agenda=PostMinutes&lang=English)
+
+> That Introduction and First Reading of Bill No. 261 BE APPROVED.
+
+Voted **Nay** - Motion Passed (7 to 4)
+
+### 2026-06-23: By-laws
+
+[11th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=948470cd-fe8f-491c-afab-0012197b9009&Agenda=PostMinutes&lang=English)
+
+> That Second Reading of Bill No. 261 BE APPROVED.
+
+Voted **Nay** - Motion Passed (7 to 4)
+
+### 2026-06-23: By-laws
+
+[11th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=948470cd-fe8f-491c-afab-0012197b9009&Agenda=PostMinutes&lang=English)
+
+> That Third Reading and Enactment of Bill No. 261 BE APPROVED.
+
+Voted **Nay** - Motion Passed (7 to 4)
+
 ### 2026-06-16: Request for Province-Wide Deposit-Return for Non-Alcoholic Beverage Containers - Councillors S. Franke and H. McAlister
 
 [8th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=a1f160a0-0ce3-4a5a-8c16-928242b55c4d&Agenda=PostMinutes&lang=English)
@@ -122,91 +194,22 @@ prefillQuestions:
 
 Voted **Nay** - Motion Passed (10 to 1)
 
-### 2026-06-09: 929 Cheapside Street - Z-26003 
-
-[The 9th Meeting of the Planning and Environment Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=ff301408-3802-4bf4-80b0-8796af8fd0fd&Agenda=PostMinutes&lang=English)
-
-> That part c) of the motion, as amended, BE APPROVED.
-
-Voted **Nay** - Motion Passed (4 to 1)
-
-### 2026-06-09: 929 Cheapside Street - Z-26003 
-
-[The 9th Meeting of the Planning and Environment Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=ff301408-3802-4bf4-80b0-8796af8fd0fd&Agenda=PostMinutes&lang=English)
-
-> Motion to approve part a)
-
-Voted **Nay** - Motion Passed (3 to 2)
-
-### 2026-06-02: (3.3) 1103 & 1111 Westdel Bourne - OZ-25072
-
-[9th Meeting of Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=7241e2a5-5faa-4da2-87e3-5aa7366fda9f&Agenda=PostMinutes&lang=English)
-
-> That the application of Westdell Development Corporation (c/o MHBC Planning, Urban Design & Landscape Architecture) relating to the property located at 1103 & 1111 Westdel Bourne BE REFERRED to a futu...
-
-Voted **Yea** - Motion Failed (7 to 7)
-
-### 2026-05-12: (2.6) Findings and Next Steps for Provincial Electric Kick-Scooter Pilot (Relates to Bill No.'s 192 and 196)
-
-[8th Meeting of Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=36196cde-4600-4e4f-8874-7125d4e3232b&Agenda=PostMinutes&lang=English)
-
-> That part b) BE APPROVED: b)    the proposed by-law, as appended to the staff report dated May 6, 2026 as Appendix "A", BE INTRODUCED at the Municipal Council meeting to be held on May 12, 2026 to est...
-
-Voted **Nay** - Motion Passed (11 to 4)
-
-### 2026-05-12: By-laws
-
-[8th Meeting of Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=36196cde-4600-4e4f-8874-7125d4e3232b&Agenda=PostMinutes&lang=English)
-
-> That Introduction and First Reading of Bill No. 195 and 196 BE APPROVED.
-
-Voted **Nay** - Motion Passed (12 to 2)
-
-### 2026-05-12: By-laws
-
-[8th Meeting of Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=36196cde-4600-4e4f-8874-7125d4e3232b&Agenda=PostMinutes&lang=English)
-
-> That Second Reading of Bill No. 195 and 196 BE APPROVED.
-
-Voted **Nay** - Motion Passed (11 to 3)
-
-### 2026-05-12: By-laws
-
-[8th Meeting of Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=36196cde-4600-4e4f-8874-7125d4e3232b&Agenda=PostMinutes&lang=English)
-
-> That Third Reading and Enactment of Bill No. 195 BE APPROVED.
-
-Voted **Nay** - Motion Passed (12 to 2)
-
-### 2026-05-12: By-laws
-
-[8th Meeting of Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=36196cde-4600-4e4f-8874-7125d4e3232b&Agenda=PostMinutes&lang=English)
-
-> That Third Reading and Enactment of Bill No. 196 BE APPROVED.
-
-Voted **Nay** - Motion Passed (11 to 3)
-
-### 2026-03-03: (4.1) Request for Reimbursement for Private Property Cleaning and Graffiti Removal Services
-
-[4th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
-
-> That the communication dated February 5, 2026, from K. Morrison, Old East Village Business Improvement Area, with respect to a Request for Reimbursement for Private Property Cleaning and Graffiti Remo...
-
-Voted **Yea** - Motion Failed (5 to 8)
-
 
 ## Committees Served
 
+- [Planning and Environment Committee](/committees/planning-environment)
 - [City Council](/committees/city-council)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
-- [Planning and Environment Committee](/committees/planning-environment)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [Corporate Services Committee](/committees/corporate-services)
 - [Budget Committee](/committees/budget)
 - [Civic Works Committee](/committees/civic-works)
 
-## Recent Meetings (479 total)
+## Recent Meetings (482 total)
 
+- [The 11th Meeting of the Planning and Environment Committee](</months/2026-07/2026-07-14 The 11th Meeting of the Planning and Environment Committee>) - Tue Jul 14 2026
+- [11th Meeting of Council](</months/2026-06/2026-06-23 11th Meeting of Council>) - Tue Jun 23 2026
+- [The 10th Meeting of the Planning and Environment Committee](</months/2026-06/2026-06-22 The 10th Meeting of the Planning and Environment Committee>) - Mon Jun 22 2026
 - [10th Special Meeting of Council](</months/2026-06/2026-06-17 10th Special Meeting of Council>) - Wed Jun 17 2026
 - [8th Meeting of the Strategic Priorities and Policy Committee](</months/2026-06/2026-06-16 8th Meeting of the Strategic Priorities and Policy Committee>) - Tue Jun 16 2026
 - [The 9th Meeting of the Planning and Environment Committee](</months/2026-06/2026-06-09 The 9th Meeting of the Planning and Environment Committee>) - Tue Jun 9 2026
@@ -214,6 +217,3 @@ Voted **Yea** - Motion Failed (5 to 8)
 - [7th Meeting of the Strategic Priorities and Policy Committee](</months/2026-05/2026-05-28 7th Meeting of the Strategic Priorities and Policy Committee>) - Thu May 28 2026
 - [The 8th Meeting of the Planning and Environment Committee](</months/2026-05/2026-05-26 The 8th Meeting of the Planning and Environment Committee>) - Tue May 26 2026
 - [8th Meeting of Council](</months/2026-05/2026-05-12 8th Meeting of Council>) - Tue May 12 2026
-- [The 7th Meeting of the Planning and Environment Committee](</months/2026-05/2026-05-05 The 7th Meeting of the Planning and Environment Committee>) - Tue May 5 2026
-- [7th Meeting of the Community and Protective Services Committee](</months/2026-05/2026-05-04 7th Meeting of the Community and Protective Services Committee>) - Mon May 4 2026
-- [6th Meeting of the Strategic Priorities and Policy Committee](</months/2026-04/2026-04-21 6th Meeting of the Strategic Priorities and Policy Committee>) - Tue Apr 21 2026

@@ -2,18 +2,18 @@
 title: "Corrine Rahman"
 type: councillor
 slug: "c-rahman"
-meetingCount: 245
+meetingCount: 249
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 3622
-votesYea: 3016
-votesNay: 349
+totalVotes: 3695
+votesYea: 3075
+votesNay: 363
 votesAbsent: 257
 attendanceRate: 100.0
-participationRate: 92.9
-yeaRate: 89.6
-contestedDissentRate: 17.1
-contestedVotes: 1360
+participationRate: 93.0
+yeaRate: 89.4
+contestedDissentRate: 17.7
+contestedVotes: 1407
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -30,10 +30,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 3,622 |
-| Voted Yea | 3,016 (83.3%) |
-| Voted Nay | 349 (9.6%) |
-| Absent | 257 (7.1%) |
+| Total Votes | 3,695 |
+| Voted Yea | 3,075 (83.2%) |
+| Voted Nay | 363 (9.8%) |
+| Absent | 257 (7.0%) |
 
 
 ### Substantive Votes
@@ -42,17 +42,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,161 |
-| Voted Yea | 1,643 (84.8%) |
-| Voted Nay | 294 (15.2%) |
+| Substantive Votes | 2,194 |
+| Voted Yea | 1,671 (84.8%) |
+| Voted Nay | 299 (15.2%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 17.1%
-- **Contested Votes**: 1,360
+- **Dissent Rate**: 17.7%
+- **Contested Votes**: 1,407
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -63,16 +63,16 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 345 |
-| Voted Yea | 259 (75.1%) |
-| Voted Nay | 86 (24.9%) |
+| Budget Votes | 347 |
+| Voted Yea | 261 (75.2%) |
+| Voted Nay | 86 (24.8%) |
 | Absent | 0 |
 
 
 ## Attendance
 
 - **Attendance Rate**: 100.0%
-- **Meetings Attended**: 219 of 219
+- **Meetings Attended**: 221 of 221
 - **Meetings Missed**: 0
 - **Trend**: Stable -
 
@@ -80,19 +80,19 @@ prefillQuestions:
   - 2023: 100.0% (72/72 meetings)
   - 2024: 100.0% (61/61 meetings)
   - 2025: 100.0% (55/55 meetings)
-  - 2026: 100.0% (22/22 meetings)
+  - 2026: 100.0% (24/24 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
-- Josh Morgan (93.3%)
-- Steve Lehman (93.0%)
-- Jerry Pribil (92.6%)
+- Josh Morgan (93.2%)
+- Steve Lehman (92.9%)
+- Steve Hillier (92.5%)
 
 **Least aligned with:**
-- Susan Stevenson (84.5%)
-- Sam Trosow (85.1%)
+- Susan Stevenson (83.9%)
+- Sam Trosow (85.3%)
 - Paul Van Meerbergen (87.9%)
 
 [View full voting alignment →](/councillors/alignment)
@@ -102,12 +102,12 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 1,795 | 1,532 | 194 | 96.2% |
+| Council | 1,854 | 1,579 | 206 | 96.3% |
 | Strategic Priorities and Policy Committee | 876 | 624 | 74 | 79.7% |
 | Planning and Environment Committee | 417 | 405 | 8 | 99.0% |
 | Budget Committee | 189 | 136 | 53 | 100.0% |
 | Infrastructure and Corporate Services Committee | 120 | 112 | 7 | 99.2% |
-| Community and Protective Services Committee | 101 | 96 | 5 | 100.0% |
+| Community and Protective Services Committee | 115 | 108 | 7 | 100.0% |
 | Corporate Services Committee | 67 | 61 | 2 | 94.0% |
 | Civic Works Committee | 57 | 50 | 6 | 98.2% |
 
@@ -116,108 +116,108 @@ prefillQuestions:
 
 *Recent split votes where Corrine Rahman voted against the final outcome:*
 
-### 2026-06-17: Build Communities Strong Fund Provincial and Territorial Stream: Development Charge Reduction Program
+### 2026-07-13: Proposed Winter Response for 2026-2027
 
-[10th Special Meeting of Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=4ded2b07-9300-45c5-9b86-489f66930984&Agenda=PostMinutes&lang=English)
+[11th Meeting of the Community and Protective Services Committee](https://pub-london.escribemeetings.com//Meeting.aspx?Id=53c2a71a-1940-4b5f-95c0-1bf896263d61&Agenda=PostMinutes&lang=English)
 
-> That, pursuant to section 2.3 of the Council Procedure By-law, the speaking-once provision contained in section 9.7 of the Council Procedure By-law BE SUSPENDED for the Council meeting held on June 17...
+> That parts b), c) and d) of the motion BE APPROVED.
 
-Voted **Yea** - Motion Failed (9 to 4)
+Voted **Nay** - Motion Passed (4 to 1)
 
-### 2026-04-21: Housing Accelerator Fund – 2026 Mid-Year Update
+### 2026-07-13: City of London Special Constable Program
 
-[6th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b5334fb8-e3e2-4e5b-b0c6-9e30a6392c59&Agenda=PostMinutes&lang=English)
+[11th Meeting of the Community and Protective Services Committee](https://pub-london.escribemeetings.com//Meeting.aspx?Id=53c2a71a-1940-4b5f-95c0-1bf896263d61&Agenda=PostMinutes&lang=English)
 
-> That part a) BE APPROVED and reads as follows: That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the following actions be taken with respect to current initiatives ...
+> That the motion BE AMENDED by replacing the words "establishing a City of London Special Constable Program" with "implementing a permanent City of London Special Constable Program"; and amending claus...
+
+Voted **Yea** - Motion Failed (3 to 3)
+
+### 2026-07-13: By-law Enforcement Administrative Fees
+
+[11th Meeting of the Community and Protective Services Committee](https://pub-london.escribemeetings.com//Meeting.aspx?Id=53c2a71a-1940-4b5f-95c0-1bf896263d61&Agenda=PostMinutes&lang=English)
+
+> That the motion be amended to add "and any cost recovery associated" after the words "administrative fee".
+
+Voted **Nay** - Motion Passed (4 to 1)
+
+### 2026-06-23: (3.6) 1057-1061 Richmond Street - Z-26051 (Relates to Bill No. 259)
+
+[11th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=948470cd-fe8f-491c-afab-0012197b9009&Agenda=PostMinutes&lang=English)
+
+> That, pursuant to section 10.5 of the Council Procedure By-law, “shall the ruling of the Chair BE SUSTAINED?”
+
+Voted **Yea** - Motion Failed (5 to 8)
+
+### 2026-06-23: (3.6) 1057-1061 Richmond Street - Z-26051 (Relates to Bill No. 259)
+
+[11th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=948470cd-fe8f-491c-afab-0012197b9009&Agenda=PostMinutes&lang=English)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 1001436158 Ontario Inc. (Royal Premier Homes) relating to the p...
+
+Voted **Nay** - Motion Passed (10 to 3)
+
+### 2026-06-23: (3.7) 36 Wethered Street - Z-26050 (Relates to Bill No. 260)
+
+[11th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=948470cd-fe8f-491c-afab-0012197b9009&Agenda=PostMinutes&lang=English)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Monteith Brown Planning Consultants Ltd. (c/o Jay McGuffin) rel...
+
+Voted **Nay** - Motion Passed (10 to 3)
+
+### 2026-06-23: (3.8) 929 Cheapside Street - Z-26003 (Relates to Bill No. 261)
+
+[11th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=948470cd-fe8f-491c-afab-0012197b9009&Agenda=PostMinutes&lang=English)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 929 Cheapside Inc. (c/o Monteith Brown Planning Consultants) re...
 
 Voted **Nay** - Motion Passed (9 to 4)
 
-### 2026-03-09: Short Term Accommodation Licensing and Penalties
+### 2026-06-23: By-laws
 
-[4th Meeting of the Community and Protective Services Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=0f86effb-a62a-473d-a937-36ca9a9f4d4a&Agenda=PostMinutes&lang=English)
+[11th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=948470cd-fe8f-491c-afab-0012197b9009&Agenda=PostMinutes&lang=English)
 
-> That part b) BE AMENDED to read as follows: the proposed by-law, as appended to the above-noted staff report, to be introduced at the Municipal Council meeting on March 31, 2026, to amend By.-law No. ...
-
-Voted **Yea** - Motion Failed (2 to 3)
-
-### 2026-03-09: Restricting City Funded Organizations from Distributing "Safe-Use" Drug Smoking Supplies
-
-[4th Meeting of the Community and Protective Services Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=0f86effb-a62a-473d-a937-36ca9a9f4d4a&Agenda=PostMinutes&lang=English)
-
-> That pursuant to section 31.6 of the Council Procedure By-law, Councillor D. Ferreira BE PERMITTED to speak an additional 2 minutes with respect to this matter.
-
-Voted **Nay** - Motion Passed (5 to 1)
-
-### 2026-03-03: (3.5) 550 Ridout Street North & 82-90 Kent Street - OZ-25152 (Relates to Bill No. 105 and 123)
-
-[4th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
-
-> That the motion BE AMENDED to add new parts to read as follows: d) that the Applicant BE REQUESTED to prepare a tenant relocation plan specifically addressing matters set out in the communication on t...
-
-Voted **Nay** - Motion Passed (14 to 1)
-
-### 2026-03-03: (3.5) 550 Ridout Street North & 82-90 Kent Street - OZ-25152 (Relates to Bill No. 105 and 123)
-
-[4th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
-
-> That item 10, clause 3.5, as amended, BE APPROVED. At 2:56 PM, Chair Deputy Mayor S. Lewis, places Councillor H. McAlister in the Chair. At 3:00 PM, Chair Deputy Mayor S. Lewis resumes the Chair.
-
-Voted **Nay** - Motion Passed (11 to 4)
-
-### 2026-03-03: (4.1) Deputy Mayor S. Lewis, Councillors P. Cuddy and C. Rahman - Zoning By-law Amendment - Parking Changes
-
-[4th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
-
-> That part b) and c) of the motion BE AMENDED to read as follows: b) amend section 4.19.6) h) I) as it applies to lands outside of Western University Near Campus Neighbourhood to allow a maximum drivew...
-
-Voted **Nay** - Motion Passed (11 to 3)
-
-### 2026-03-03: (4.1) Deputy Mayor S. Lewis, Councillors P. Cuddy and C. Rahman - Zoning By-law Amendment - Parking Changes
-
-[4th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
-
-> That parts b) and c), as amended, BE APPROVED. At 4:19 PM, Chair Deputy Mayor S. Lewis, places Councillor C. Rahman in the Chair. At 4:24 PM, Chair Deputy Mayor S. Lewis resumes the Chair.
-
-Voted **Nay** - Motion Passed (11 to 3)
-
-### 2026-03-03: By-laws
-
-[4th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
-
-> That Introduction and First Reading of Bill No.’s 105 and 123, BE APPROVED.
+> That Introduction and First Reading of Bill No. 259 BE APPROVED.
 
 Voted **Nay** - Motion Passed (8 to 3)
 
-### 2026-03-03: By-laws
+### 2026-06-23: By-laws
 
-[4th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
+[11th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=948470cd-fe8f-491c-afab-0012197b9009&Agenda=PostMinutes&lang=English)
 
-> That Second Reading of Bill No.’s 105 and 123, BE APPROVED.
+> That Second Reading of Bill No. 259 BE APPROVED.
+
+Voted **Nay** - Motion Passed (8 to 3)
+
+### 2026-06-23: By-laws
+
+[11th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=948470cd-fe8f-491c-afab-0012197b9009&Agenda=PostMinutes&lang=English)
+
+> That Third Reading and Enactment of Bill No. 259 BE APPROVED.
 
 Voted **Nay** - Motion Passed (8 to 3)
 
 
 ## Committees Served
 
-- [City Council](/committees/city-council)
-- [Community and Protective Services Committee](/committees/community-protective-services)
-- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Corporate Services Committee](/committees/corporate-services)
+- [Planning and Environment Committee](/committees/planning-environment)
+- [Community and Protective Services Committee](/committees/community-protective-services)
+- [City Council](/committees/city-council)
+- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Budget Committee](/committees/budget)
 - [Audit Committee](/committees/audit)
-- [Planning and Environment Committee](/committees/planning-environment)
 - [Civic Works Committee](/committees/civic-works)
 - [Community Protective Services Committee](/committees/community-protective-services-committee)
 
-## Recent Meetings (245 total)
+## Recent Meetings (249 total)
 
+- [12th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-07/2026-07-15 12th Meeting of the Infrastructure and Corporate Services Committee>) - Wed Jul 15 2026
+- [The 11th Meeting of the Planning and Environment Committee](</months/2026-07/2026-07-14 The 11th Meeting of the Planning and Environment Committee>) - Tue Jul 14 2026
+- [11th Meeting of the Community and Protective Services Committee](</months/2026-07/2026-07-13 11th Meeting of the Community and Protective Services Committee>) - Mon Jul 13 2026
+- [11th Meeting of Council](</months/2026-06/2026-06-23 11th Meeting of Council>) - Tue Jun 23 2026
 - [10th Special Meeting of Council](</months/2026-06/2026-06-17 10th Special Meeting of Council>) - Wed Jun 17 2026
 - [10th Special Meeting of the Community and Protective Services Committee](</months/2026-06/2026-06-16 10th Special Meeting of the Community and Protective Services Committee>) - Tue Jun 16 2026
 - [8th Meeting of the Strategic Priorities and Policy Committee](</months/2026-06/2026-06-16 8th Meeting of the Strategic Priorities and Policy Committee>) - Tue Jun 16 2026
 - [9th Meeting of the Community and Protective Services Committee](</months/2026-06/2026-06-08 9th Meeting of the Community and Protective Services Committee>) - Mon Jun 8 2026
 - [9th Meeting of Council](</months/2026-06/2026-06-02 9th Meeting of Council>) - Tue Jun 2 2026
 - [7th Meeting of the Strategic Priorities and Policy Committee](</months/2026-05/2026-05-28 7th Meeting of the Strategic Priorities and Policy Committee>) - Thu May 28 2026
-- [8th Meeting of the Community and Protective Services Committee](</months/2026-05/2026-05-25 8th Meeting of the Community and Protective Services Committee>) - Mon May 25 2026
-- [8th Meeting of Council](</months/2026-05/2026-05-12 8th Meeting of Council>) - Tue May 12 2026
-- [7th Meeting of the Community and Protective Services Committee](</months/2026-05/2026-05-04 7th Meeting of the Community and Protective Services Committee>) - Mon May 4 2026
-- [6th Meeting of the Strategic Priorities and Policy Committee](</months/2026-04/2026-04-21 6th Meeting of the Strategic Priorities and Policy Committee>) - Tue Apr 21 2026

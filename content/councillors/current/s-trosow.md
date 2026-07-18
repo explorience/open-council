@@ -2,18 +2,18 @@
 title: "Sam Trosow"
 type: councillor
 slug: "s-trosow"
-meetingCount: 234
+meetingCount: 236
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 3701
-votesYea: 2706
-votesNay: 594
+totalVotes: 3774
+votesYea: 2762
+votesNay: 611
 votesAbsent: 401
 attendanceRate: 96.2
-participationRate: 89.2
-yeaRate: 82.0
-contestedDissentRate: 45.4
-contestedVotes: 1402
+participationRate: 89.4
+yeaRate: 81.9
+contestedDissentRate: 45.1
+contestedVotes: 1449
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -30,10 +30,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 3,701 |
-| Voted Yea | 2,706 (73.1%) |
-| Voted Nay | 594 (16.0%) |
-| Absent | 401 (10.8%) |
+| Total Votes | 3,774 |
+| Voted Yea | 2,762 (73.2%) |
+| Voted Nay | 611 (16.2%) |
+| Absent | 401 (10.6%) |
 
 
 ### Substantive Votes
@@ -42,17 +42,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,353 |
-| Voted Yea | 1,688 (80.8%) |
-| Voted Nay | 400 (19.2%) |
+| Substantive Votes | 2,386 |
+| Voted Yea | 1,715 (80.9%) |
+| Voted Nay | 406 (19.1%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 45.4%
-- **Contested Votes**: 1,402
+- **Dissent Rate**: 45.1%
+- **Contested Votes**: 1,449
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -63,16 +63,16 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 383 |
-| Voted Yea | 289 (77.3%) |
-| Voted Nay | 85 (22.7%) |
+| Budget Votes | 385 |
+| Voted Yea | 291 (77.4%) |
+| Voted Nay | 85 (22.6%) |
 | Absent | 9 |
 
 
 ## Attendance
 
 - **Attendance Rate**: 96.2%
-- **Meetings Attended**: 227 of 236
+- **Meetings Attended**: 229 of 238
 - **Meetings Missed**: 9
 - **Trend**: Stable -
 
@@ -80,20 +80,20 @@ prefillQuestions:
   - 2023: 94.8% (73/77 meetings)
   - 2024: 93.2% (69/74 meetings)
   - 2025: 100.0% (55/55 meetings)
-  - 2026: 100.0% (21/21 meetings)
+  - 2026: 100.0% (23/23 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
 - Anna Hopkins (92.9%)
-- David Ferreira (91.3%)
+- David Ferreira (91.2%)
 - Skylar Franke (90.4%)
 
 **Least aligned with:**
-- Susan Stevenson (77.4%)
+- Susan Stevenson (76.9%)
 - Paul Van Meerbergen (78.6%)
-- Steve Hillier (81.4%)
+- Steve Hillier (81.6%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -102,9 +102,9 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 1,996 | 1,438 | 376 | 90.9% |
+| Council | 2,055 | 1,482 | 391 | 91.1% |
 | Strategic Priorities and Policy Committee | 974 | 677 | 126 | 82.4% |
-| Community and Protective Services Committee | 355 | 310 | 35 | 97.2% |
+| Community and Protective Services Committee | 369 | 322 | 37 | 97.3% |
 | Budget Committee | 189 | 141 | 44 | 97.9% |
 | Civic Works Committee | 113 | 98 | 10 | 95.6% |
 | Corporate Services Committee | 74 | 42 | 3 | 60.8% |
@@ -114,91 +114,91 @@ prefillQuestions:
 
 *Recent split votes where Sam Trosow voted against the final outcome:*
 
-### 2026-06-17: Build Communities Strong Fund Provincial and Territorial Stream: Development Charge Reduction Program
+### 2026-07-13: City of London Special Constable Program
 
-[10th Special Meeting of Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=4ded2b07-9300-45c5-9b86-489f66930984&Agenda=PostMinutes&lang=English)
+[11th Meeting of the Community and Protective Services Committee](https://pub-london.escribemeetings.com//Meeting.aspx?Id=53c2a71a-1940-4b5f-95c0-1bf896263d61&Agenda=PostMinutes&lang=English)
 
-> That, pursuant to section 2.3 of the Council Procedure By-law, the speaking-once provision contained in section 9.7 of the Council Procedure By-law BE SUSPENDED for the Council meeting held on June 17...
+> That the Civic Administration BE DIRECTED to report back to the Community and Protective Services Committee on the feasibility of establishing a City of London Special Constable Program, with the repo...
 
-Voted **Yea** - Motion Failed (9 to 4)
+Voted **Nay** - Motion Passed (4 to 2)
 
-### 2026-06-16: Downtown Reimagined: City of London Downtown Plan
+### 2026-06-23: (3.5) 221 Queens Avenue - TZ-26045 (Relates to Bill No. 258)
 
-[8th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=a1f160a0-0ce3-4a5a-8c16-928242b55c4d&Agenda=PostMinutes&lang=English)
+[11th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=948470cd-fe8f-491c-afab-0012197b9009&Agenda=PostMinutes&lang=English)
 
-> That the staff report dated June 16, 2026, entitled “Downtown Reimagined: City of London Downtown Plan”, BE REFERRED to a future meeting of the Strategic Priorities and Policy Committee to allow the C...
+> Notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Sifton Properties Limited relating to the property locat...
 
-Voted **Yea** - Motion Failed (3 to 11)
+Voted **Nay** - Motion Passed (10 to 3)
 
-### 2026-06-02: (4.1) Review of the London & Middlesex Community Housing Master Regeneration Plan
+### 2026-06-23: (3.6) 1057-1061 Richmond Street - Z-26051 (Relates to Bill No. 259)
 
-[9th Meeting of Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=7241e2a5-5faa-4da2-87e3-5aa7366fda9f&Agenda=PostMinutes&lang=English)
+[11th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=948470cd-fe8f-491c-afab-0012197b9009&Agenda=PostMinutes&lang=English)
 
-> That, on the recommendation of the Deputy City Manager, Finance Supports and the Deputy City Manager, Housing and Community Growth, the report on the London and Middlesex Community Housing Master Rege...
+> That, pursuant to section 10.5 of the Council Procedure By-law, “shall the ruling of the Chair BE SUSTAINED?”
 
-Voted **Nay** - Motion Passed (12 to 1)
+Voted **Yea** - Motion Failed (5 to 8)
 
-### 2026-05-28: Delegation - Paul Chisholm, Chief Executive Officer and Phil Squire, Board Chair, London & Middlesex Community Housing - LMCH Master Regeneration Plan
+### 2026-06-23: (3.6) 1057-1061 Richmond Street - Z-26051 (Relates to Bill No. 259)
 
-[7th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=d6d163e4-49ea-4151-8247-514f3547158a&Agenda=PostMinutes&lang=English)
+[11th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=948470cd-fe8f-491c-afab-0012197b9009&Agenda=PostMinutes&lang=English)
 
-> That the London & Middlesex Community Housing's 15-Year Regeneration Plan BE RECEIVED; it being noted that the Strategic Priorities and Policy Committee received a presentation from P. Chisholm, Chief...
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 1001436158 Ontario Inc. (Royal Premier Homes) relating to the p...
 
-Voted **Nay** - Motion Passed (13 to 2)
+Voted **Nay** - Motion Passed (10 to 3)
 
-### 2026-05-28: Review of the London & Middlesex Community Housing Master Regeneration Plan
+### 2026-06-23: (3.7) 36 Wethered Street - Z-26050 (Relates to Bill No. 260)
 
-[7th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=d6d163e4-49ea-4151-8247-514f3547158a&Agenda=PostMinutes&lang=English)
+[11th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=948470cd-fe8f-491c-afab-0012197b9009&Agenda=PostMinutes&lang=English)
 
-> That, on the recommendation of the Deputy City Manager, Finance Supports and the Deputy City Manager, Housing and Community Growth, the report on the London and Middlesex Community Housing Master Rege...
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Monteith Brown Planning Consultants Ltd. (c/o Jay McGuffin) rel...
 
-Voted **Nay** - Motion Passed (13 to 2)
+Voted **Nay** - Motion Passed (10 to 3)
 
-### 2026-04-21: Housing Accelerator Fund – 2026 Mid-Year Update
+### 2026-06-23: (3.8) 929 Cheapside Street - Z-26003 (Relates to Bill No. 261)
 
-[6th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b5334fb8-e3e2-4e5b-b0c6-9e30a6392c59&Agenda=PostMinutes&lang=English)
+[11th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=948470cd-fe8f-491c-afab-0012197b9009&Agenda=PostMinutes&lang=English)
 
-> That part a) BE APPROVED and reads as follows: That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the following actions be taken with respect to current initiatives ...
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 929 Cheapside Inc. (c/o Monteith Brown Planning Consultants) re...
 
 Voted **Nay** - Motion Passed (9 to 4)
 
-### 2026-04-13: Tolpuddle Co-operative Inc. Capital and Operational Transition Plan
+### 2026-06-23: By-laws
 
-[6th Meeting of the Community and Protective Services Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=ff4c9b98-bee7-4b0e-a830-f6cdabe087ea&Agenda=PostMinutes&lang=English)
+[11th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=948470cd-fe8f-491c-afab-0012197b9009&Agenda=PostMinutes&lang=English)
 
-> That part e) of the motion BE APPROVED.
+> That Introduction and First Reading of Bill No. 259 BE APPROVED.
 
-Voted **Nay** - Motion Passed (4 to 1)
+Voted **Nay** - Motion Passed (8 to 3)
 
-### 2026-03-24: Draft Economic Development Strategy (2026-2030) and Implementation Plan
+### 2026-06-23: By-laws
 
-[5th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=5b8ccf34-419e-4480-af6f-4160e9259405&Agenda=PostMinutes&lang=English)
+[11th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=948470cd-fe8f-491c-afab-0012197b9009&Agenda=PostMinutes&lang=English)
 
-> That, on the recommendation of the City Manager, the City of London Draft Economic Development Strategy (2026-2030) and Implementation Plan, as appended to the staff report dated March 24, 2026 as App...
+> That Second Reading of Bill No. 259 BE APPROVED.
 
-Voted **Nay** - Motion Passed (12 to 2)
+Voted **Nay** - Motion Passed (8 to 3)
 
-### 2026-03-24: Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program - Report Back on Program Options
+### 2026-06-23: By-laws
 
-[5th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=5b8ccf34-419e-4480-af6f-4160e9259405&Agenda=PostMinutes&lang=English)
+[11th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=948470cd-fe8f-491c-afab-0012197b9009&Agenda=PostMinutes&lang=English)
 
-> That part a) ii) BE APPROVED: ii) partial (or full) development charge rebate options for new residential development, including options that could be targeted by unit type and ability to meet HAF tim...
+> That Third Reading and Enactment of Bill No. 259 BE APPROVED.
 
-Voted **Nay** - Motion Passed (10 to 4)
+Voted **Nay** - Motion Passed (8 to 3)
 
-### 2026-03-09: (ADDED) Request to Update Municipal Compliance By-law - Amendment to Section 4.7 and Creation of a Public Rental Licence Lookup Tool
+### 2026-06-23: By-laws
 
-[4th Meeting of the Community and Protective Services Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=0f86effb-a62a-473d-a937-36ca9a9f4d4a&Agenda=PostMinutes&lang=English)
+[11th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=948470cd-fe8f-491c-afab-0012197b9009&Agenda=PostMinutes&lang=English)
 
-> That pursuant to section 33.8 of the Council Procedure by-law, the Committee BE PERMITTED to proceed beyond 6:00 PM.
+> That Second Reading of Bill No. 260 BE APPROVED.
 
-Voted **Nay** - Motion Passed (3 to 1)
+Voted **Nay** - Motion Passed (8 to 3)
 
 
 ## Committees Served
 
-- [City Council](/committees/city-council)
 - [Community and Protective Services Committee](/committees/community-protective-services)
+- [City Council](/committees/city-council)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Budget Committee](/committees/budget)
 - [Planning and Environment Committee](/committees/planning-environment)
@@ -206,8 +206,10 @@ Voted **Nay** - Motion Passed (3 to 1)
 - [Corporate Services Committee](/committees/corporate-services)
 - [Audit Committee](/committees/audit)
 
-## Recent Meetings (234 total)
+## Recent Meetings (236 total)
 
+- [11th Meeting of the Community and Protective Services Committee](</months/2026-07/2026-07-13 11th Meeting of the Community and Protective Services Committee>) - Mon Jul 13 2026
+- [11th Meeting of Council](</months/2026-06/2026-06-23 11th Meeting of Council>) - Tue Jun 23 2026
 - [10th Special Meeting of Council](</months/2026-06/2026-06-17 10th Special Meeting of Council>) - Wed Jun 17 2026
 - [10th Special Meeting of the Community and Protective Services Committee](</months/2026-06/2026-06-16 10th Special Meeting of the Community and Protective Services Committee>) - Tue Jun 16 2026
 - [8th Meeting of the Strategic Priorities and Policy Committee](</months/2026-06/2026-06-16 8th Meeting of the Strategic Priorities and Policy Committee>) - Tue Jun 16 2026
@@ -216,5 +218,3 @@ Voted **Nay** - Motion Passed (3 to 1)
 - [7th Meeting of the Strategic Priorities and Policy Committee](</months/2026-05/2026-05-28 7th Meeting of the Strategic Priorities and Policy Committee>) - Thu May 28 2026
 - [8th Meeting of the Community and Protective Services Committee](</months/2026-05/2026-05-25 8th Meeting of the Community and Protective Services Committee>) - Mon May 25 2026
 - [8th Meeting of Council](</months/2026-05/2026-05-12 8th Meeting of Council>) - Tue May 12 2026
-- [7th Meeting of the Community and Protective Services Committee](</months/2026-05/2026-05-04 7th Meeting of the Community and Protective Services Committee>) - Mon May 4 2026
-- [6th Meeting of the Strategic Priorities and Policy Committee](</months/2026-04/2026-04-21 6th Meeting of the Strategic Priorities and Policy Committee>) - Tue Apr 21 2026

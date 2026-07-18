@@ -2,18 +2,18 @@
 title: "Steve Lehman"
 type: councillor
 slug: "s-lehman"
-meetingCount: 409
+meetingCount: 412
 yearsActive: "2018 - 2026"
 isCurrent: true
-totalVotes: 7753
-votesYea: 6691
-votesNay: 416
-votesAbsent: 646
+totalVotes: 7860
+votesYea: 6764
+votesNay: 418
+votesAbsent: 678
 attendanceRate: 96.4
-participationRate: 91.7
-yeaRate: 94.1
-contestedDissentRate: 10.1
-contestedVotes: 2208
+participationRate: 91.4
+yeaRate: 94.2
+contestedDissentRate: 10.0
+contestedVotes: 2230
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -30,10 +30,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 7,753 |
-| Voted Yea | 6,691 (86.3%) |
-| Voted Nay | 416 (5.4%) |
-| Absent | 646 (8.3%) |
+| Total Votes | 7,860 |
+| Voted Yea | 6,764 (86.1%) |
+| Voted Nay | 418 (5.3%) |
+| Absent | 678 (8.6%) |
 
 
 ### Substantive Votes
@@ -42,17 +42,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 4,523 |
-| Voted Yea | 3,637 (90.5%) |
-| Voted Nay | 383 (9.5%) |
+| Substantive Votes | 4,568 |
+| Voted Yea | 3,679 (90.5%) |
+| Voted Nay | 385 (9.5%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 10.1%
-- **Contested Votes**: 2,208
+- **Dissent Rate**: 10.0%
+- **Contested Votes**: 2,230
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -63,8 +63,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 720 |
-| Voted Yea | 586 (84.0%) |
+| Budget Votes | 721 |
+| Voted Yea | 587 (84.0%) |
 | Voted Nay | 112 (16.0%) |
 | Absent | 22 |
 
@@ -72,7 +72,7 @@ prefillQuestions:
 ## Attendance
 
 - **Attendance Rate**: 96.4%
-- **Meetings Attended**: 401 of 416
+- **Meetings Attended**: 404 of 419
 - **Meetings Missed**: 15
 - **Trend**: Stable -
 
@@ -80,7 +80,7 @@ prefillQuestions:
   - 2023: 96.7% (58/60 meetings)
   - 2024: 90.5% (57/63 meetings)
   - 2025: 96.3% (52/54 meetings)
-  - 2026: 95.0% (19/20 meetings)
+  - 2026: 95.7% (22/23 meetings)
 
 
 ## Voting Alignment
@@ -88,12 +88,12 @@ prefillQuestions:
 **Most aligned with:**
 - Shawn Lewis (97.1%)
 - Josh Morgan (96.6%)
-- Steve Hillier (96.4%)
+- Steve Hillier (96.5%)
 
 **Least aligned with:**
 - Sam Trosow (83.8%)
-- David Ferreira (87.0%)
-- Susan Stevenson (88.6%)
+- David Ferreira (87.2%)
+- Susan Stevenson (88.0%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -102,9 +102,9 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 3,944 | 3,631 | 217 | 97.6% |
+| Council | 4,003 | 3,656 | 219 | 96.8% |
 | Strategic Priorities and Policy Committee | 1,995 | 1,456 | 114 | 78.7% |
-| Planning and Environment Committee | 1,514 | 1,366 | 26 | 91.9% |
+| Planning and Environment Committee | 1,562 | 1,414 | 26 | 92.2% |
 | Budget Committee | 189 | 130 | 58 | 99.5% |
 | Civic Works Committee | 111 | 108 | 1 | 98.2% |
 
@@ -113,9 +113,17 @@ prefillQuestions:
 
 *Recent split votes where Steve Lehman voted against the final outcome:*
 
+### 2026-06-23: (4.1) Councillor C. Rahman - Third-Party Appeal Mechanism
+
+[11th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=948470cd-fe8f-491c-afab-0012197b9009&Agenda=PostMinutes&lang=English)
+
+> That the motion BE AMENDED to read as follows: That Municipal Council endorse the following actions with respect to third-party appeal mechanism during the Ontario Land Tribunal process: a) the Mayor ...
+
+Voted **Nay** - Motion Passed (7 to 6)
+
 ### 2026-06-09: 1837 Churchill Avenue - Z-26048 
 
-[The 9th Meeting of the Planning and Environment Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=ff301408-3802-4bf4-80b0-8796af8fd0fd&Agenda=PostMinutes&lang=English)
+[The 9th Meeting of the Planning and Environment Committee](https://pub-london.escribemeetings.com//Meeting.aspx?Id=ff301408-3802-4bf4-80b0-8796af8fd0fd&Agenda=PostMinutes&lang=English)
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Al-Taqwa Academy (c/o Strik Baldinelli Moniz Ltd.) relating to ...
 
@@ -123,7 +131,7 @@ Voted **Yea** - Motion Failed (2 to 3)
 
 ### 2026-06-02: (3.3) 1103 & 1111 Westdel Bourne - OZ-25072
 
-[9th Meeting of Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=7241e2a5-5faa-4da2-87e3-5aa7366fda9f&Agenda=PostMinutes&lang=English)
+[9th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=7241e2a5-5faa-4da2-87e3-5aa7366fda9f&Agenda=PostMinutes&lang=English)
 
 > That the application of Westdell Development Corporation (c/o MHBC Planning, Urban Design & Landscape Architecture) relating to the property located at 1103 & 1111 Westdel Bourne BE REFERRED to a futu...
 
@@ -185,26 +193,21 @@ Voted **Yea** - Motion Failed (7 to 8)
 
 Voted **Nay** - Motion Passed (8 to 7)
 
-### 2026-02-10: (3.4) 767 Fanshawe Park Road East and 679 Dunboyne Crescent - Z-25151 (Relates to Bill No. 82)
-
-[3rd Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English)
-
-> vii) the Civic Administration BE DIRECTED to hold a public participation meeting with respect to the site plan process.
-
-Voted **Nay** - Motion Passed (8 to 7)
-
 
 ## Committees Served
 
+- [Planning and Environment Committee](/committees/planning-environment)
 - [City Council](/committees/city-council)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
-- [Planning and Environment Committee](/committees/planning-environment)
 - [Budget Committee](/committees/budget)
 - [Corporate Services Committee](/committees/corporate-services)
 - [Civic Works Committee](/committees/civic-works)
 
-## Recent Meetings (409 total)
+## Recent Meetings (412 total)
 
+- [The 11th Meeting of the Planning and Environment Committee](</months/2026-07/2026-07-14 The 11th Meeting of the Planning and Environment Committee>) - Tue Jul 14 2026
+- [11th Meeting of Council](</months/2026-06/2026-06-23 11th Meeting of Council>) - Tue Jun 23 2026
+- [The 10th Meeting of the Planning and Environment Committee](</months/2026-06/2026-06-22 The 10th Meeting of the Planning and Environment Committee>) - Mon Jun 22 2026
 - [10th Special Meeting of Council](</months/2026-06/2026-06-17 10th Special Meeting of Council>) - Wed Jun 17 2026
 - [8th Meeting of the Strategic Priorities and Policy Committee](</months/2026-06/2026-06-16 8th Meeting of the Strategic Priorities and Policy Committee>) - Tue Jun 16 2026
 - [The 9th Meeting of the Planning and Environment Committee](</months/2026-06/2026-06-09 The 9th Meeting of the Planning and Environment Committee>) - Tue Jun 9 2026
@@ -212,6 +215,3 @@ Voted **Nay** - Motion Passed (8 to 7)
 - [7th Meeting of the Strategic Priorities and Policy Committee](</months/2026-05/2026-05-28 7th Meeting of the Strategic Priorities and Policy Committee>) - Thu May 28 2026
 - [The 8th Meeting of the Planning and Environment Committee](</months/2026-05/2026-05-26 The 8th Meeting of the Planning and Environment Committee>) - Tue May 26 2026
 - [8th Meeting of Council](</months/2026-05/2026-05-12 8th Meeting of Council>) - Tue May 12 2026
-- [The 7th Meeting of the Planning and Environment Committee](</months/2026-05/2026-05-05 The 7th Meeting of the Planning and Environment Committee>) - Tue May 5 2026
-- [6th Meeting of the Strategic Priorities and Policy Committee](</months/2026-04/2026-04-21 6th Meeting of the Strategic Priorities and Policy Committee>) - Tue Apr 21 2026
-- [The 6th Meeting of the Planning and Environment Committee](</months/2026-04/2026-04-14 The 6th Meeting of the Planning and Environment Committee>) - Tue Apr 14 2026
