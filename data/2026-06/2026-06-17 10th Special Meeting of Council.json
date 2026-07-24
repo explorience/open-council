@@ -1,1 +1,748 @@
-{"title": "10th Special Meeting of Council", "datetime": "2026-06-17 10:30:00", "url": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=4ded2b07-9300-45c5-9b86-489f66930984&Agenda=PostMinutes&lang=English", "meeting_type": "Council", "bills": {"bills": [{"empty_flag": false, "title": "Bill No. 237", "desc": "By-law No. A.-8728-182 - A by-law to confirm the proceedings of the Special Council Meeting held on the 17th of June, 2026. (City Clerk)", "__class__": "Bill"}], "__class__": "Bills"}, "present": ["J. Morgan", "H. McAlister", "P. Cuddy", "S. Stevenson", "S. Trosow", "C. Rahman", "S. Lehman", "A. Hopkins", "P. Van Meerbergen", "S. Franke", "E. Peloza", "D. Ferreira", "S. Hillier"], "also_present": ["S. Datars Bere", "A. Barbon", "D. Bordin", "J. Davies", "K. Dickins", "A. Hovius", "S. Mathers", "K. Murray", "T. Pollitt", "K. Scherr", "J. Senese", "E. Skalski", "C. Smith"], "remote_attendance": ["A. Dunbar", "P. Lupa"], "content": {"string": "The meeting is called to order at 10:33 AM; it being noted that Deputy Mayor S. Lewis and Councillors H. McAlister, C. Rahman, S. Lehman, A. Hopkins, P. Van Meerbergen, S. Franke, D. Ferreira, and S. Hillier were in remote attendance.", "__class__": "Paragraph"}, "absent": ["S. Lewis", "J. Pribil"], "items": {"1": {"title": "Disclosures of Pecuniary Interest", "number": "1", "content": [{"string": "That it BE NOTED that Councillor S. Trosow declared a pecuniary interest in Bill No. 237, having to do with the confirmation of the proceedings of the Special Council Meeting held on June 17, 2026, indicating that he did not have sufficient information to determine whether he had a pecuniary interest in relation to the Build Communities Strong Fund Provincial and Territorial Stream: Development Charge Reduction Program.", "__class__": "Paragraph"}], "items": {}, "datetime": "2026-06-17 10:30:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "2": {"title": "Recognitions", "number": "2", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2026-06-17 10:30:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "3": {"title": "Review of Confidential Matters to be Considered in Public", "number": "3", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2026-06-17 10:30:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "4": {"title": "Council, In Closed Session", "number": "4", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2026-06-17 10:30:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "5": {"title": "Confirmation and Signing of the Minutes of the Previous Meeting(s)", "number": "5", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2026-06-17 10:30:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "6": {"title": "Communications and Petitions", "number": "6", "content": [], "items": {"1": {"title": "Build Communities Strong Fund Provincial and Territorial Stream: Development Charge Reduction Program", "number": "1", "content": [{"pre_motion_texts": [{"string": "At 10:51 AM, His Worship Mayor J. Morgan, places Councillor E. Peloza in the Chair.\u00a0\n\nAt 10:57 AM, His Worship Mayor J. Morgan resumes the Chair.", "__class__": "Paragraph"}], "moved_by": {"string": "Motion made by S. Lehman", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by Mayor J. Morgan", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to Build Communities Strong Fund Provincial and Territorial Stream: Development Charge Reduction Program:\u00a0\n\n\n\na)\u00a0 \u00a0 the report BE RECEIVED for information; and", "__class__": "Paragraph"}, {"string": "b)\u00a0 \u00a0 the Civic Administration BE DIRECTED to submit an application for the Development Charge Reduction Program through the Build Communities Strong Fund\u2019s Provincial and Territorial stream, noting that the deadline for applications is Friday, June 19, 2026, at 10:00 a.m.;", "__class__": "Paragraph"}, {"string": "it being noted that a Transfer Payment Agreement for funding through this program will be brought forward for Council\u2019s consideration if the City is successful in its application;\n\n\n\nit being further noted that Council received the attached presentation from the Deputy City Manager, Finance Supports and communications from J. Zaifman, CEO, London Home Builders' Association, M. Wallace, Executive Director, London Development Institute and K. Kaikkonen with respect to this matter.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}, {"pre_motion_texts": [], "moved_by": {"string": "Motion made by S. Trosow", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by S. Stevenson", "__class__": "Mover"}, "motion_texts": [{"string": "That, pursuant to section 2.3 of the Council Procedure By-law, the speaking-once provision contained in section 9.7 of the Council Procedure By-law BE SUSPENDED for the Council meeting held on June 17, 2026, to permit members to speak more than once to a motion.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["Mayor J. Morgan", "A. Hopkins", "E. Peloza", "P. Cuddy", "S. Stevenson", "S. Trosow", "S. Franke", "D. Ferreira", "C. Rahman"]}, {"vote": "Nays:", "voters": ["S. Hillier", "P. Van Meerbergen", "S. Lehman", "H. McAlister"]}, {"vote": "Absent:", "voters": ["S. Lewis", "J. Pribil"]}], "__class__": "Vote"}, "result": {"string": "Motion Failed (9 to 4)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}, {"pre_motion_texts": [{"string": "At 11:51 AM, His Worship Mayor J. Morgan, places Councillor E. Peloza in the Chair.\u00a0\n\nAt 11:57 AM, His Worship Mayor J. Morgan resumes the Chair.", "__class__": "Paragraph"}], "moved_by": {"string": "Motion made by S. Lehman", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by Mayor J. Morgan", "__class__": "Mover"}, "motion_texts": [{"string": "That the following part BE APPROVED:", "__class__": "Paragraph"}, {"string": "a) \u00a0 \u00a0the report BE RECEIVED for information; and", "__class__": "Paragraph"}, {"string": "it being further noted that Council received the attached presentation from the Deputy City Manager, Finance Supports and communications from J. Zaifman, CEO, London Home Builders' Association, M. Wallace, Executive Director, London Development Institute and K. Kaikkonen with respect to this matter.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["Mayor J. Morgan", "A. Hopkins", "S. Hillier", "E. Peloza", "P. Van Meerbergen", "S. Lehman", "H. McAlister", "P. Cuddy", "S. Stevenson", "S. Trosow", "S. Franke", "D. Ferreira", "C. Rahman"]}, {"vote": "Absent:", "voters": ["S. Lewis", "J. Pribil"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (13 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}, {"pre_motion_texts": [], "moved_by": {"string": "Motion made by S. Lehman", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by Mayor J. Morgan", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to Build Communities Strong Fund Provincial and Territorial Stream: Development Charge Reduction Program:", "__class__": "Paragraph"}, {"string": "b) \u00a0 \u00a0the Civic Administration BE DIRECTED to submit an application for the Development Charge Reduction Program through the Build Communities Strong Fund\u2019s Provincial and Territorial stream, noting that the deadline for applications is Friday, June 19, 2026, at 10:00 a.m.;", "__class__": "Paragraph"}, {"string": "it being noted that a Transfer Payment Agreement for funding through this program will be brought forward for Council\u2019s consideration if the City is successful in its application;", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["Mayor J. Morgan", "A. Hopkins", "S. Hillier", "E. Peloza", "P. Van Meerbergen", "S. Lehman", "H. McAlister", "P. Cuddy", "S. Stevenson", "S. Trosow", "S. Franke", "D. Ferreira", "C. Rahman"]}, {"vote": "Absent:", "voters": ["S. Lewis", "J. Pribil"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (13 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [{"string": "Clause 6.1 reads as follows:", "__class__": "Paragraph"}, {"string": "That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to Build Communities Strong Fund Provincial and Territorial Stream: Development Charge Reduction Program:", "__class__": "Paragraph"}, {"string": "a) \u00a0 \u00a0the report BE RECEIVED for information; and", "__class__": "Paragraph"}, {"string": "b) \u00a0 \u00a0the Civic Administration BE DIRECTED to submit an application for the Development Charge Reduction Program through the Build Communities Strong Fund\u2019s Provincial and Territorial stream, noting that the deadline for applications is Friday, June 19, 2026, at 10:00 a.m.;", "__class__": "Paragraph"}, {"string": "it being noted that a Transfer Payment Agreement for funding through this program will be brought forward for Council\u2019s consideration if the City is successful in its application;", "__class__": "Paragraph"}, {"string": "it being further noted that Council received the attached presentation from the Deputy City Manager, Finance Supports and communications from J. Zaifman, CEO, London Home Builders' Association, M. Wallace, Executive Director, London Development Institute and K. Kaikkonen with respect to this matter.", "__class__": "Paragraph"}], "__class__": "Motion"}], "items": {}, "datetime": "2026-06-17 10:30:00", "attachments": [{"empty_flag": false, "title": "2026-06-17 FINAL - DC Reduction Program Report - Council 6-17-2026", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=124533", "date": "2026-06-17 00:00:00", "local_page": null, "__class__": "Attachment"}, {"empty_flag": false, "title": "2026-06-17 Submission - (6.1) Staff Presentation", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=124534", "date": "2026-06-17 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}}, "datetime": "2026-06-17 10:30:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "7": {"title": "Motions of Which Notice is Given", "number": "7", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2026-06-17 10:30:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "8": {"title": "Reports", "number": "8", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2026-06-17 10:30:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "9": {"title": "Added Reports", "number": "9", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2026-06-17 10:30:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "10": {"title": "Deferred Matters", "number": "10", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2026-06-17 10:30:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "11": {"title": "Enquiries", "number": "11", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2026-06-17 10:30:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "12": {"title": "Emergent Motions", "number": "12", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2026-06-17 10:30:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "13": {"title": "By-laws", "number": "13", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Motion made by P. Cuddy", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by Mayor J. Morgan", "__class__": "Mover"}, "motion_texts": [{"string": "That Introduction and First Reading of Bill No. 237, BE APPROVED", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["Mayor J. Morgan", "A. Hopkins", "S. Hillier", "E. Peloza", "P. Van Meerbergen", "S. Lehman", "H. McAlister", "P. Cuddy", "S. Stevenson", "S. Trosow", "S. Franke", "D. Ferreira", "C. Rahman"]}, {"vote": "Absent:", "voters": ["S. Lewis", "J. Pribil"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (13 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}, {"pre_motion_texts": [{"string": "At 12:00pm, Councillor E. Peloza leaves the meeting.", "__class__": "Paragraph"}], "moved_by": {"string": "Motion made by P. Cuddy", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by Mayor J. Morgan", "__class__": "Mover"}, "motion_texts": [{"string": "That Second Reading of Bill No. 237, BE APPROVED.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["Mayor J. Morgan", "A. Hopkins", "S. Hillier", "P. Van Meerbergen", "S. Lehman", "H. McAlister", "P. Cuddy", "S. Stevenson", "S. Franke", "D. Ferreira", "C. Rahman"]}, {"vote": "Recuse:", "voters": ["S. Trosow"]}, {"vote": "Absent:", "voters": ["S. Lewis", "E. Peloza", "J. Pribil"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (11 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}, {"pre_motion_texts": [], "moved_by": {"string": "Motion made by P. Cuddy", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by Mayor J. Morgan", "__class__": "Mover"}, "motion_texts": [{"string": "That Third Reading and Enactment of Bill No. 237, BE APPROVED.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["Mayor J. Morgan", "A. Hopkins", "S. Hillier", "P. Van Meerbergen", "S. Lehman", "H. McAlister", "P. Cuddy", "S. Stevenson", "S. Franke", "D. Ferreira", "C. Rahman"]}, {"vote": "Recuse:", "voters": ["S. Trosow"]}, {"vote": "Absent:", "voters": ["S. Lewis", "E. Peloza", "J. Pribil"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (11 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2026-06-17 10:30:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "14": {"title": "Adjournment", "number": "14", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Motion made by P. Cuddy", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by Mayor J. Morgan", "__class__": "Mover"}, "motion_texts": [{"string": "That the meeting BE ADJOURNED.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [{"string": "The meeting adjourned at 12:13 PM.", "__class__": "Paragraph"}], "__class__": "Motion"}], "items": {}, "datetime": "2026-06-17 10:30:00", "attachments": [], "report": null, "__class__": "MeetingItem"}}, "__class__": "Meeting"}
+{
+  "title": "10th Special Meeting of Council",
+  "datetime": "2026-06-17 10:30:00",
+  "url": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=4ded2b07-9300-45c5-9b86-489f66930984&Agenda=PostMinutes&lang=English",
+  "meeting_type": "Council",
+  "bills": {
+    "bills": [
+      {
+        "empty_flag": false,
+        "title": "Bill No. 237",
+        "desc": "By-law No. A.-8728-182 - A by-law to confirm the proceedings of the Special Council Meeting held on the 17th of June, 2026. (City Clerk)",
+        "__class__": "Bill"
+      }
+    ],
+    "__class__": "Bills"
+  },
+  "present": [
+    "J. Morgan",
+    "H. McAlister",
+    "P. Cuddy",
+    "S. Stevenson",
+    "S. Trosow",
+    "C. Rahman",
+    "S. Lehman",
+    "A. Hopkins",
+    "P. Van Meerbergen",
+    "S. Franke",
+    "E. Peloza",
+    "D. Ferreira",
+    "S. Hillier"
+  ],
+  "also_present": [
+    "S. Datars Bere",
+    "A. Barbon",
+    "D. Bordin",
+    "J. Davies",
+    "K. Dickins",
+    "A. Hovius",
+    "S. Mathers",
+    "K. Murray",
+    "T. Pollitt",
+    "K. Scherr",
+    "J. Senese",
+    "E. Skalski",
+    "C. Smith"
+  ],
+  "remote_attendance": [
+    "A. Dunbar",
+    "P. Lupa"
+  ],
+  "content": {
+    "string": "The meeting is called to order at 10:33 AM; it being noted that Deputy Mayor S. Lewis and Councillors H. McAlister, C. Rahman, S. Lehman, A. Hopkins, P. Van Meerbergen, S. Franke, D. Ferreira, and S. Hillier were in remote attendance.",
+    "__class__": "Paragraph"
+  },
+  "absent": [
+    "S. Lewis",
+    "J. Pribil"
+  ],
+  "items": {
+    "1": {
+      "title": "Disclosures of Pecuniary Interest",
+      "number": "1",
+      "content": [
+        {
+          "string": "That it BE NOTED that Councillor S. Trosow declared a pecuniary interest in Bill No. 237, having to do with the confirmation of the proceedings of the Special Council Meeting held on June 17, 2026, indicating that he did not have sufficient information to determine whether he had a pecuniary interest in relation to the Build Communities Strong Fund Provincial and Territorial Stream: Development Charge Reduction Program.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2026-06-17 10:30:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "2": {
+      "title": "Recognitions",
+      "number": "2",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2026-06-17 10:30:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "3": {
+      "title": "Review of Confidential Matters to be Considered in Public",
+      "number": "3",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2026-06-17 10:30:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "4": {
+      "title": "Council, In Closed Session",
+      "number": "4",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2026-06-17 10:30:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "5": {
+      "title": "Confirmation and Signing of the Minutes of the Previous Meeting(s)",
+      "number": "5",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2026-06-17 10:30:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "6": {
+      "title": "Communications and Petitions",
+      "number": "6",
+      "content": [],
+      "items": {
+        "1": {
+          "title": "Build Communities Strong Fund Provincial and Territorial Stream: Development Charge Reduction Program",
+          "number": "1",
+          "content": [
+            {
+              "pre_motion_texts": [
+                {
+                  "string": "At 10:51 AM, His Worship Mayor J. Morgan, places Councillor E. Peloza in the Chair.\u00a0\n\nAt 10:57 AM, His Worship Mayor J. Morgan resumes the Chair.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "moved_by": {
+                "string": "Motion made by S. Lehman",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by Mayor J. Morgan",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to Build Communities Strong Fund Provincial and Territorial Stream: Development Charge Reduction Program:\u00a0\n\n\n\na)\u00a0 \u00a0 the report BE RECEIVED for information; and",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b)\u00a0 \u00a0 the Civic Administration BE DIRECTED to submit an application for the Development Charge Reduction Program through the Build Communities Strong Fund\u2019s Provincial and Territorial stream, noting that the deadline for applications is Friday, June 19, 2026, at 10:00 a.m.;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "it being noted that a Transfer Payment Agreement for funding through this program will be brought forward for Council\u2019s consideration if the City is successful in its application;\n\n\n\nit being further noted that Council received the attached presentation from the Deputy City Manager, Finance Supports and communications from J. Zaifman, CEO, London Home Builders' Association, M. Wallace, Executive Director, London Development Institute and K. Kaikkonen with respect to this matter.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            },
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Motion made by S. Trosow",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by S. Stevenson",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, pursuant to section 2.3 of the Council Procedure By-law, the speaking-once provision contained in section 9.7 of the Council Procedure By-law BE SUSPENDED for the Council meeting held on June 17, 2026, to permit members to speak more than once to a motion.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "Mayor J. Morgan",
+                      "A. Hopkins",
+                      "E. Peloza",
+                      "P. Cuddy",
+                      "S. Stevenson",
+                      "S. Trosow",
+                      "S. Franke",
+                      "D. Ferreira",
+                      "C. Rahman"
+                    ]
+                  },
+                  {
+                    "vote": "Nays:",
+                    "voters": [
+                      "S. Hillier",
+                      "P. Van Meerbergen",
+                      "S. Lehman",
+                      "H. McAlister"
+                    ]
+                  },
+                  {
+                    "vote": "Absent:",
+                    "voters": [
+                      "S. Lewis",
+                      "J. Pribil"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Failed (9 to 4)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            },
+            {
+              "pre_motion_texts": [
+                {
+                  "string": "At 11:51 AM, His Worship Mayor J. Morgan, places Councillor E. Peloza in the Chair.\u00a0\n\nAt 11:57 AM, His Worship Mayor J. Morgan resumes the Chair.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "moved_by": {
+                "string": "Motion made by S. Lehman",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by Mayor J. Morgan",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That the following part BE APPROVED:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a) \u00a0 \u00a0the report BE RECEIVED for information; and",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "it being further noted that Council received the attached presentation from the Deputy City Manager, Finance Supports and communications from J. Zaifman, CEO, London Home Builders' Association, M. Wallace, Executive Director, London Development Institute and K. Kaikkonen with respect to this matter.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "Mayor J. Morgan",
+                      "A. Hopkins",
+                      "S. Hillier",
+                      "E. Peloza",
+                      "P. Van Meerbergen",
+                      "S. Lehman",
+                      "H. McAlister",
+                      "P. Cuddy",
+                      "S. Stevenson",
+                      "S. Trosow",
+                      "S. Franke",
+                      "D. Ferreira",
+                      "C. Rahman"
+                    ]
+                  },
+                  {
+                    "vote": "Absent:",
+                    "voters": [
+                      "S. Lewis",
+                      "J. Pribil"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed (13 to 0)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            },
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Motion made by S. Lehman",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by Mayor J. Morgan",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to Build Communities Strong Fund Provincial and Territorial Stream: Development Charge Reduction Program:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b) \u00a0 \u00a0the Civic Administration BE DIRECTED to submit an application for the Development Charge Reduction Program through the Build Communities Strong Fund\u2019s Provincial and Territorial stream, noting that the deadline for applications is Friday, June 19, 2026, at 10:00 a.m.;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "it being noted that a Transfer Payment Agreement for funding through this program will be brought forward for Council\u2019s consideration if the City is successful in its application;",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "Mayor J. Morgan",
+                      "A. Hopkins",
+                      "S. Hillier",
+                      "E. Peloza",
+                      "P. Van Meerbergen",
+                      "S. Lehman",
+                      "H. McAlister",
+                      "P. Cuddy",
+                      "S. Stevenson",
+                      "S. Trosow",
+                      "S. Franke",
+                      "D. Ferreira",
+                      "C. Rahman"
+                    ]
+                  },
+                  {
+                    "vote": "Absent:",
+                    "voters": [
+                      "S. Lewis",
+                      "J. Pribil"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed (13 to 0)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [
+                {
+                  "string": "Clause 6.1 reads as follows:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to Build Communities Strong Fund Provincial and Territorial Stream: Development Charge Reduction Program:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a) \u00a0 \u00a0the report BE RECEIVED for information; and",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b) \u00a0 \u00a0the Civic Administration BE DIRECTED to submit an application for the Development Charge Reduction Program through the Build Communities Strong Fund\u2019s Provincial and Territorial stream, noting that the deadline for applications is Friday, June 19, 2026, at 10:00 a.m.;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "it being noted that a Transfer Payment Agreement for funding through this program will be brought forward for Council\u2019s consideration if the City is successful in its application;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "it being further noted that Council received the attached presentation from the Deputy City Manager, Finance Supports and communications from J. Zaifman, CEO, London Home Builders' Association, M. Wallace, Executive Director, London Development Institute and K. Kaikkonen with respect to this matter.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2026-06-17 10:30:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2026-06-17 FINAL - DC Reduction Program Report - Council 6-17-2026",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=124533",
+              "date": "2026-06-17 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            },
+            {
+              "empty_flag": false,
+              "title": "2026-06-17 Submission - (6.1) Staff Presentation",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=124534",
+              "date": "2026-06-17 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        }
+      },
+      "datetime": "2026-06-17 10:30:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "7": {
+      "title": "Motions of Which Notice is Given",
+      "number": "7",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2026-06-17 10:30:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "8": {
+      "title": "Reports",
+      "number": "8",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2026-06-17 10:30:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "9": {
+      "title": "Added Reports",
+      "number": "9",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2026-06-17 10:30:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "10": {
+      "title": "Deferred Matters",
+      "number": "10",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2026-06-17 10:30:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "11": {
+      "title": "Enquiries",
+      "number": "11",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2026-06-17 10:30:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "12": {
+      "title": "Emergent Motions",
+      "number": "12",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2026-06-17 10:30:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "13": {
+      "title": "By-laws",
+      "number": "13",
+      "content": [
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "Motion made by P. Cuddy",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "Seconded by Mayor J. Morgan",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "That Introduction and First Reading of Bill No. 237, BE APPROVED",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [
+              {
+                "vote": "Yeas:",
+                "voters": [
+                  "Mayor J. Morgan",
+                  "A. Hopkins",
+                  "S. Hillier",
+                  "E. Peloza",
+                  "P. Van Meerbergen",
+                  "S. Lehman",
+                  "H. McAlister",
+                  "P. Cuddy",
+                  "S. Stevenson",
+                  "S. Trosow",
+                  "S. Franke",
+                  "D. Ferreira",
+                  "C. Rahman"
+                ]
+              },
+              {
+                "vote": "Absent:",
+                "voters": [
+                  "S. Lewis",
+                  "J. Pribil"
+                ]
+              }
+            ],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "Motion Passed (13 to 0)",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [],
+          "__class__": "Motion"
+        },
+        {
+          "pre_motion_texts": [
+            {
+              "string": "At 12:00pm, Councillor E. Peloza leaves the meeting.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "moved_by": {
+            "string": "Motion made by P. Cuddy",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "Seconded by Mayor J. Morgan",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "That Second Reading of Bill No. 237, BE APPROVED.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [
+              {
+                "vote": "Yeas:",
+                "voters": [
+                  "Mayor J. Morgan",
+                  "A. Hopkins",
+                  "S. Hillier",
+                  "P. Van Meerbergen",
+                  "S. Lehman",
+                  "H. McAlister",
+                  "P. Cuddy",
+                  "S. Stevenson",
+                  "S. Franke",
+                  "D. Ferreira",
+                  "C. Rahman"
+                ]
+              },
+              {
+                "vote": "Recuse:",
+                "voters": [
+                  "S. Trosow"
+                ]
+              },
+              {
+                "vote": "Absent:",
+                "voters": [
+                  "S. Lewis",
+                  "E. Peloza",
+                  "J. Pribil"
+                ]
+              }
+            ],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "Motion Passed (11 to 0)",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [],
+          "__class__": "Motion"
+        },
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "Motion made by P. Cuddy",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "Seconded by Mayor J. Morgan",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "That Third Reading and Enactment of Bill No. 237, BE APPROVED.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [
+              {
+                "vote": "Yeas:",
+                "voters": [
+                  "Mayor J. Morgan",
+                  "A. Hopkins",
+                  "S. Hillier",
+                  "P. Van Meerbergen",
+                  "S. Lehman",
+                  "H. McAlister",
+                  "P. Cuddy",
+                  "S. Stevenson",
+                  "S. Franke",
+                  "D. Ferreira",
+                  "C. Rahman"
+                ]
+              },
+              {
+                "vote": "Recuse:",
+                "voters": [
+                  "S. Trosow"
+                ]
+              },
+              {
+                "vote": "Absent:",
+                "voters": [
+                  "S. Lewis",
+                  "E. Peloza",
+                  "J. Pribil"
+                ]
+              }
+            ],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "Motion Passed (11 to 0)",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [],
+          "__class__": "Motion"
+        }
+      ],
+      "items": {},
+      "datetime": "2026-06-17 10:30:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "14": {
+      "title": "Adjournment",
+      "number": "14",
+      "content": [
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "Motion made by P. Cuddy",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "Seconded by Mayor J. Morgan",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "That the meeting BE ADJOURNED.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "Motion Passed",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [
+            {
+              "string": "The meeting adjourned at 12:13 PM.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "__class__": "Motion"
+        }
+      ],
+      "items": {},
+      "datetime": "2026-06-17 10:30:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    }
+  },
+  "__class__": "Meeting",
+  "transcript": "Thanks, please be seated. I just want to thank everybody for making the time today on short notice for a special meeting of Councils Our 10th meeting but a special meeting which means will only deal with the matters for which the meeting has been called which is the communications in 6.1 however is a formal meeting of Council, so I will go Through all of our regular procedures, and I'll start with the land acknowledgement We acknowledge that we are gathered today on the traditional lands of the Anishnabek, Haudenosaunee, Lene Peiwok, and Adwondron peoples . We honor and respect the history, languages, and culture of the diverse indigenous people who call this territory home. We acknowledge all of the treaties that are specific to this area, two-row Wampum Belt Treaty of the Haudenosaunee Confederacy, Silver Covenant Chain, Beaver Hunting Grounds of the Haudenosaunee Nanfand Treaty of 1701, the McKee Treaty of 1790, the London Township Treaty of 1796, here on track treaty of 1827 with the An ishnabek. the Dish With One Spoon Covenant Wampum of the An ishinaabe in Honoshone. Three indigenous nations that are neighbors to London are the Chippewaas of the Thames First Nation, Oneida Nation of the Thames, and the Muncie Delaware Nation who all continue to live as sovereign nations with individual and unique languages, cultures, and customs. The City of London is also committed to making every effort to provide alternate formats and communication supports for meetings upon request. To make a request specific to this meeting, please contact Council Agenda at London.ca or 519-661-2489, extension 2425. Just because there's only a limited number of members in chambers, I'm just going to list the members who've joined us online. So you're aware of how many are here. Councillor Hopkins, Councillor ramen, Councillor McAllister, Councillor Vermeerberg, and Councillor Frank, Councillor Hillier, Councillor Layman, and Councillor Ferrera are all joining us online. Councillor Palosa, Councillor Cuddy, Councillor Stevenson, Councillor Trostau, and myself are here in person. And I'll move to, oh, we have a playing of O Canada, so we don't have a singer today, but feel free to sing along if you like. So I'll have everybody rise, and we'll listen to a rendition of O Canada. Can you please be seated? Okay, I'm gonna turn to disclosures of pecuniary interest. Are there any? Seeing none, we have no recognitions. It's a special meeting. We have nothing to review from in closed session. We have no confirmation of previous minutes. So we'll move to communications and petitions. There is a report from our staff, as well as three communications from members of the public and different industry representatives. How we're gonna do this is, I know Councillor Layman's willing to put the staff recommendation on the floor. I'm willing to second it so we could put that on the floor so that that's moved and seconded. But our treasurer and her team are going to present on the item. I'm gonna provide some additional context at the end of the presentation on an Ontario Big City Mayor's meeting with the ministry that was occurred last Friday. And then we can move into debate and discussion on the matter, questions and answers, get all of the information you need. So with it moved and seconded, I will turn it over to our deputy city manager to present. And there's a slide show so you can switch your screen to the other screen if you like. Will we be getting a copy of it as well? Yeah, absolutely, for sure, yeah. Thank you, through your worship. So I think certainly we're grateful to have the opportunity to walk the council through all of this information that is very, very current. Before I begin, I need to recognize my staff and the tremendous amount of work that they have done. In particular, Mr. Sinise's team and Mr. Murray's team have been working extremely hard over the last two weeks to pull all of the information together. And this has been a little bit of the ground moving in beneath our feet as we've been doing the calculations to try to determine how best the city could proceed and take advantage of this program. So why we're here today? The program was announced on June 1st. So with two weeks to start to look at this information, we received a great deal of new information on this past Saturday morning. And with that additional clarity that the Ministry provided on the program requirements. It provided us with a great deal of information that was able to clarify how the city could proceed with this program in a manner that would be favorable for the city of London without utilizing taxpayer funding that is in addition to what is already in the current budget. So noting that the ministry timelines are extremely tight, we have to submit an application to be considered for this program by no later than 10 a.m. this Friday morning, June 19th. So in the event that the City of London is successful and is able to proceed with the program, we anticipate that a TPA, a transfer payment agreement, will be provided and that will be brought forward for Council's approval in August. So they are moving very, very quickly with this program. So moving forward today only authorizes the ability for civic administration to submit in application and subject to the ministry's review we shall see if we are successful and are able to move forward and it will be subject to the council's approval and determination at that time with greater details known to be able to move forward. So certainly the DC rate reduction will take place and will be retroactive back to March 30th date that the ministry has provided. So just to walk you through a bit of the program summ aries. So the program is a competitive application-based funding opportunity. So with this program, there has been a sum of money provided over a 10-year period of time in combined federal and provincial funding. So the intent of the program is to reduce residential DC rates, specifically the residential component by a minimum of 30 to 50% for a three-year period of time. So the intended outcome is really to reduce the pressures on the housing costs, as well as advancing development more quickly to be able to provide housing enabling infrastructure and to accelerate some of the potential growth related works that are currently within the DC background study and within the approved city of London capital plan. So just to walk you through a bit of the key dates and how quickly this is moving. So although the program was announced in June, here we are today to provide direction to staff to submit an application. It is retroactive to March 30th, and it is based on the DC rates that are in effect at that time related to residential building permits. So what this does is this would commit the city of London, should we be successful to a three year reduction over which the projects, which would be submitted through the application, would be looked at and would provide funding based on eligible program costs. So there is a very specific period of time over which the works are to be begun and to be completed no later than October 31st, 2035. So there are many components within this timeline that we need to look at, but most notably the DC rate reduction would be in place until March 31st, 2029. So as you look at this, there are certainly some other elements that pose some other questions and things that we don't have answers yet to with respect to our current DC background study, but certainly what this would do if the city were to be successful is that there would be certainty with the rates in that reduction up till March 31 st, 2029. So there are three assessment criteria that the province will be looking at with respect to the competitive application process. These are the things that they will be judging all of the municipalities on with respect to their application to determine who and what municipalities are successful. So the first item is the level in which the DC rate reduction is recommended. So certainly they've identified that greater DC reductions would be subject to potential higher recovery of grant funding. The second component is to have a municipal contribution that is a minimum of 10%. They have indicated that contributions above that 10% will again be received more favorably. This is one of the very key points that we received the clarification on. Originally the thought was that the municipal contribution was to be in addition to the tax funding and the rate supported funding that was already within the municipal budgets. This would have created a rate pressure in the future or would have used reserve funds that are already identified for specific sources. So this is probably, there were a number of municipalities that had gone very, very quickly to their councils last week and earlier this week. Without that clarification, a lot of the information that would have been provided at that time would have actually changed subject to Saturday mornings, clarifications received. So that's one of the things that we've been working diligently on is to get additional clarifications as we work through the many, many pages of the guidelines and the requirements for which to submit an application. So the third housing impact piece is the eligibility that they will be looking at in terms of the extent to which the units that will benefit from the DC rate reduction are anticipated. So this would be related to the number of permits that we expect will be issued over the next three year period and that will basically be able to take advantage of that rate reduction that will be in place over that time. The other component of that is the number of units that will be enabled through the infrastructure projects for which the city will include within their applications. So certainly in terms of looking at all of these, I mean, those are three, look like very simple on paper, but there are great deal calculations and analysis that is within here, and the team has been working very closely with Mr. Mather's team and Ms. Sharer's team to try to look at all of the things that are currently within our approved capital plans and DC background study to look at what things would potentially support the lost revenue that we are potentially estimating over that period of time to maximize the potential competitiveness of an application. With any program, there are always some financial risks, and certainly we've been trying to look at the cost benefit of these. And until a signed TPA is provided to us, it will be difficult to quantify at this point in time. However, one of the key factors that I would just bring to your attention is that there is a potential revenue gap that could occur in the event that the DC relief ends up being significantly higher than the lost funding and that the funding that would be anticipated and provided through this TPA should the city of London be successful in its application. So certainly something that our calculations we are reviewing and trying to put forward our best calculations to ensure that any potential revenue loss would be mitigated by the potential grant application that could be put forward and revenue from the province and the feds. In addition, the application clearly states that the city is responsible for any cost escal ations or project overruns that might be associated with any of the eligible costs. These are not unusual for any of infrastructure funding programs, however, it's certainly something that we need to take into account as we put forward an application. And also common with other infrastructure programs is that because it is milestone based, the city needs to provide the interim financing of the capital costs as the projects are completed over that 10 year timeframe. So certainly, should the city be successful, we would bring forward to you a full assessment of what financial risks are at the time that council is contemplating the completion and the execution of the TPA, which we anticipate will be in August. So based on the work that the team has been able to do thus far and that we have diligently been trying to pull together since Monday morning, we are recommending that the city proceed with an application for a proposed 50% DC reduction. So based on what we now know to be clarified as part of the ministry guidelines that have been provided to us, that would offset a significant portion of the current DC rates in effect at March 31st, and would maximize the most competitive application to enable the most number of housing units, and as well as eligible funding under the program . So one of the key pieces that we now need to do and complete in preparation to have a final application submitted for 10 a.m. on Friday morning is to determine what that revenue loss will be in conjunction with the eligible costs for projects, as well as the housing units that will be enabled for any potential infrastructure projects that we would put forward. So certainly the intent would be to submit the projects that will enable the greatest residential unit benefit, but also ensure that the minimum recovery will offset the anticipated DC revenue to ensure that the city is at a neutral position. It ultimately, in our opinion, is a good program given the clarification that has been provided to proceed with. And although there may be some risks, so we believe at this point in time that with the benefit through the 90%, that would be offset through the DC revenue and with bi-eligible funding, that this will be a win-win for everyone to be able to proceed. So we are seeking Council's endorsement to proceed with an application and the team will continue pulling together all of the relevant information so that we can find the projects that are the most advantageous to maximize the funding in equal to the amount that the DC revenue lost as well as enabling the most number of housing units so that we might increase our odds of being successful in this program. I will turn it back over to your worship. Yes, and I'm gonna turn the chair over to Coun cillor Flosa, I'll continue with some more details on the presentation before we get into debate. Thank you, I have the chair recognizing Mayor Morgan. Yes, so I just wanna add some additional context based on what the deputy city manager said. So as of Thursday of last week, one of the biggest barriers to the application was the way the municipal contribution was going to work. As was described, as of Thursday night engagements with a ministry staff. The expectation was, irrespective of how much money you have in a project that is non-DC related, because if you recall, a number of our projects have growth related components and non-growth related components, you were not going to be allowed to count your non-growth related components towards the municipal contribution. In other words, within the DC envelope, we were going to have to find an additional 10% of dollars on projects that could be hundreds of millions of dollars. Find that for me the municipal tax base or some other source which is basically going to be municipal taxes or rates to be able to participate in the program which was a significant barrier. Friday we convened a meeting of the Ontario big city mayors in Waterloo where almost all mayors participated and the main thing we discussed to be engaged directly with ministry staff at both the political and ministerial level. there were a number of concerns and questions raised. One of the main concerns I raised was municipal contribution piece. I emphasize that should the province allow municipalities to count their non-DC already budgeted or rate collected portions of a project towards municipal contribution, we would be able to participate at a much deeper level. We would be able to make applications that would be targeted towards more units of housing. And there were a number of other questions that were raised from different municipalities. There were a number of mayors who were very concerned because they had gone to their councils, got permissions, realized that now they're on the hook for tens of millions of dollars of potential tax increases, they came to that meeting seeking that clarification as well. To the ministry's credit, and I want to thank Minister Flack's office for the representation that they had at that meeting, as well as the ministry staff, they listened to our concerns. And this is an instant where the province had a meeting, They listened to the concerns of mayors. By the next day, they were provided the necessary clarification on a number of factors that allows for a participation of cities like the City of London without any net new impacts on the tax rates from the application. And what our staff now have the job to do is to craft together the application that can make it the most competitive , which means, you know, targeting the 50 percent rate is going to make it more competitive. gathering the number of projects that we have within the existing D.C. approved background study, and we can only use projects within the existing D.C. approved background study to maximize, minimize the risks, and maximize the housing benefit will be the job that they have next, and then they will submit those projects. So we 'll have a chance at the transfer payment agreement component to have an assessment of here's what the ministry has agreed that they're willing to fund. here's the risks, here's the projects, you know, here's the depth of DC reduction that we actually landed on. They're targeting 50%. It could land around that depending on the projects picked because the province will fund projects, not just a direct loss of DC revenue. And they will pull out the gathering council will have a decision to that point on whether or not to participate in the TPA. So just to be clear, we will still have another vote to decide whether or not to participate with all of the full details on what it actually looks like for the city of of London. It will be clear. This will look different in every single city because the province is funding projects. And it's competitive. I spoke with Minister Flack last night. He would love to see the program oversubscribed. They don't know how many applications will come in, but they expect it to be competitive. One of the questions I asked him, and he's very open to, it'll be something to determine later, is if this works as the province intends, And remember, the goal of this program in participating in it is to get many of those municipal permissions to actually move and turn into actual units on the ground. If that works and development moves and we get lots of activity and it aligns with our estimates, you know, we'll be in a good spot. If for some reason it goes even better than expected, which is not a bad problem to have, we would forgo more DC revenue than we have projects. And so my ask was, if there's still money left in the envelope, or if the province is willing to put in more money, would you consider municipalities being able to add more projects to be funded to actually maximize and offset the pressure on the DC funds with additional projects? And as an answer to that, it was totally not opposed to that, and very interested in trying to build housing, and I think they're willing to put even additional dollars on the table, but it didn't depend on how long the program is subscribed. So I wanted to provide that context for council as well beyond what the treasurer said because there was a political element in engagement to this as of last Friday. I want to also thank our staff. I know that we've had many conversations and I appreciate all the prep leading into the Friday meeting of Mayors. This is consumed all of their time, the amount of calculations to even figure out what's possible, what's not, that they will need to do in the coming days to submit to the application by Friday morning is tremendous. I know they're laying the groundwork for that now and have been. So I thank them for their dedicated work. And I think that there's a real path to participating in this program in a way that has no impact on taxes and offsets the necessary dollars. And hopefully achieves the province's goal of getting all of those permissions that we've made moving and turned into housing. So I add that additional context and I'll sit down now, Chair. Thank you, return the chair to Mayor Morgan. Okay, so we've got all that. I'm sure there's going to be a number of questions. I do, we'll just note for councilor strategically , it's council. So if you want to ask questions and do debate, it's kind of a good idea to kind of hack all that , all those pieces together. And so just remember, we get to speak once. So I anticipate you want to be thoughtful about your time and get the questions in, but also your thoughts for your colleagues to hear about participation in the program. Point of order. Yes. I think under the circumstances, especially since I think most of us are just looking at this for the first time, it would be useful to suspend the rules and allow a little bit more back and forth and a little bit question and then come back and ask another question and not be subject to the strict procedural rules . So I'd like to ask if you could relax that without having to make a motion. Yep, let me get an answer for that council. Okay, so let me give you a path forward counselor 'cause I agree with your assessment. So what we could do by two thirds majority is suspend the, you only get to speak once rule. We've always had the ability to extend time if we need to, if someone gets the end of it, but we could suspend the speak only once. I could track time, get asked some questions, you could way back in the debate later if you save some time. We could go that route with it. I would need two thirds of counsel to support that to enforce it. In which case, I'd like to move that notwithstanding. Could you just wear a council so I'll just have you stand. Oh, that's right. It's the morning, so. Notwithstanding the normal council procedure rules, they be suspended to allow counselors to speak more than once. Okay, we're just gonna word that up. I got a seconder for that. We're just gonna pull up the actual reference to the by-law in the motion just to make it very clear. Okay, I'll read out the motion. Pursuant to section 2.3 of the council procedure by-law. the speaking only once provision provided in section 9.7 be suspended for the June 17th council meeting. Good with that language? Good. Okay. That requires two thirds all members of council whether the president or not to pass. So it requires a 10 vote threshold. No suspension of the rules is not not amenable, not debatable. So that's the motion before us. We're going to open it for voting. Chair, my e-scribe isn't working. Councilor ramen votes yes. My e-scribe is not working as well. Councilor Hopkins votes yes. Councilor Trosto votes yes. Councilor Layman votes no. Closing the vote, motion fails nine to four. Okay, that required 10, we got nine. So I will proceed with the regular procedure by- law. And I would ask colleagues to just think thoughtfully about your time 'cause you'll be able to ask questions and debate at the same time. Point of order. Point of order, go ahead. Thank you, Mr. Ware. There is audit committee at noon. I know we're a little ways out from that, just looking to see how procedure you're going to handle it, if we'll have to, just if people are speaking, for example period of time, what we're going to do about audit at noon. So if we run into that, we'll pause. You'll convene audit, lucky you. Then you will suspend it, so the meeting starts, as long as you start within half an hour to start about it, then we will continue with this. And then when we're done, we'll switch back to audit. But if people keep it tight, that'll be great. But if they don't, there's lots of questions. It's a big decision. got to let it go the way it goes. I appreciate that just we have a member of the public who also serves on audit so thank you. Yeah if you're waiting for the audit committee we're going to get to it don't worry. Okay so I'll start a speaker's list now on this item I'll look for speakers. Okay go ahead Councillor Stevenson. I just want to say that I support applying for this what I am struggling with is the the lack of information provided to council and the lack of a role that council is going to play in the decisions that are going to be made, which are big and important. And I appreciate the work of staff. This isn't derogatory to them. I'm sure they've been working very, very hard, but none of that work is visible. This application is due in less than 48 hours. And the thought that projects haven't been sc oured, that percentages haven't been calculated is difficult, difficult. The city of Windsor has a meeting right now at 11 o'clock. And their council has details, information. They're being asked to support in principle a 70% DC reduction and a 59% municipal contribution. They have numbers and information around that municipal contribution about the risks associated with choosing projects where costs were estimated a while ago and maybe updated costs aren't known or increased, known increased costs are not eligible. So, I'm not an expert in this, but I would like to be informed on the behalf of taxpayers. We received an email last week saying there was going to be no special committee, no special council meeting, and that we would be informed after the fact what the application looked like. And yes, we will have a final say, but it will be a take it or leave it at that point and we won't have provided information, nor will we know what our options were. There might have been several different options. We won't even understand how competitive our application will be. So now and now with a vote of council doesn't even want us to discuss it as members of councils , as representatives of our awards. This has been indicative this entire term of council, something that I've experienced that I've spoken about, something that I struggle with, I have sent email communication and we got this meeting. This was just a general thing that we knew before . We talk about the issues with last minute stuff. We'll deal with the government. It's always like that. As a tax accountant, it was ridiculous. They would announce programs and people would be filing tax returns and we wouldn't know the details yet. That is the reality in which we work. All of us. And it is appreciated. It is appreciated what staff is doing. But as I've said, through emails to the mayor and to the city manager and to the deputy city manager of finance, under what authority and direction is this application going to be filed without council's involvement. is going to make the decisions between now and Friday morning. And you have to have a draft. You have to have been looking at this. I understand it's not finalized, but you have to be have been working on this for the last couple of weeks . All that work, as I said, is not visible to the public. It's not accountable. It's not transparent. And we are being asked to vote today, blindly, blindly, when other cities get information and data. And this is something that I've been talking about this entire term, I will be abstaining which I understand counts as a no vote which is unfortunate and I understand not allowed to abstain but I'm going to abstain anyway because I don't have the information with which to make a decision and that's most unfortunate on something as critical as this, a program that all of us are excited about and the development industry is counting on. Now maybe there's a way that this the leadership here can make this right, can we get information in an email, can we we have another council meeting tomorrow. Like how can we do this the way other cities are able to do it? I'm gonna say again that I wanna support this, but what am I supporting, right? It could be a hundred, they could put forward an application that's 100% DCs. It could be hundreds of millions of dollars as the mayor is saying. We were fortunate enough to get financing for the BRT and it's cost taxpayers hundreds of millions of dollars. We understand the risks, hopefully that council back then was more informed than we are right now. But I have an obligation on behalf of taxpayers to ask for more information. It is here, somebody has it, somebody's guiding this ship and I thought it was gonna be council. I don't think I need more time because I don't have anything to talk about that I haven't read in the newspaper two weeks ago. I'm looking at other city's agendas trying to get information that isn't being provided to me as an elected official. I don't know whose responsibility that is, but I would like to speak with them And I would like to find out how we can do this better. Other speakers, go to Councilor Roman. Thank you and through you. So I appreciate the work of staff and the mayor on this item. And I understand the timeline issues that we have . I do find it rich that we're being asked to provide this information in such such a tight timeline when information was only fully provided on Saturday and clarified to our staff and to the mayor. And I thank the mayor and other mayors across Ontario and elsewhere who are asking the right questions because I think that's really important. But I am rather concerned about the lack of information to make this decision at this point. Unfortunately, again, I feel like I want to support this but I don't have enough information to do so at this time. Is there any other, I guess my question to staff, is there any other information that will be provided to Council following this meeting? I'll go to Deputy City Manager. Thank you for the chair. So one of the things that we try to do is to put forward as much information as we have with certainty. Certainly all of the other municipalities that have brought forward reports receive delegated authority to complete the TPA and not come back. So with their submission of the application, they're not actually going to be reporting back until after they've committed the municipality. We did not choose that approach. We chose to put the empowerment in council so that when, if the city of London is actually accepted to proceed with this program, that at that time, all of the risks and all of the information is known since there are many variables that could vary between what we submit versus what is actually accepted through a potential successful application and T PA that may be presented for canceled design. So certainly that was something we took with a great thoughtfulness to ensure that we weren't going forward to rush to bring you information that was going to change . So we have estimates and many, many estimates that we are trying to refine. I did not feel it was prudent to put forward estimates that we're going to change possibly before we submit, but I am happy to provide that information as soon as we're able to finalize it and submit an application. And unfortunately, this amount of work is something that we would typically do over two months of time. So to collect all of the detail that is within this application that is incredibly nuanced and detailed, the staff have been prioritizing this above all of the work we have to even get to this point today, to have estimates to give you certainty that we are looking to submit at 50%. So absolutely, if council would like a note prior to receiving any successful outcome of this application, we're happy to provide a note to council to let you know what we're submitting, but there is no guarantees based on what we submit will be anything remotely close to what is accepted and what ultimately would be required to be signed into TPA. So if that's certainly something the council would love to know Friday, once we submit the application, we'd be happy to create a note and provide what we've submitted to the council at that time. I go ahead, Councillor ramen. Thank you. So yes, I would appreciate receiving a memo to council or to, I personally would appreciate that. That aligns up with our submission. I think that would be helpful to have. I want to get a sense also. The mayor alluded to the fact that this would help us to meet the permissions that have already been made. But this is a 10 year agreement. How does that work with future permissions or future numbers? Do you think we will feel added pressures to meet housing demands because of the fact that we are signing on to this agreement? how I can go to the deputy city manager on that if you want. Or I think if I could help, sorry, I don't know could you hear what Council Raman's question was? I see some confused faces. Essentially the Council is asking if it's a 10- year program which is funded over 10 years, do we have the housing pressure for the 10 years? So if you could just comment on the, it's the projects being funded with housing estimates. Once the projects are funded and the agreement is reached, the amount of housing that happens is gonna be the amount of housing that happens from it. So there's not a digital pressure. It's basically the unlocking the pieces in the DC fund. I think that's pieces around those contexts. I think is what the council is going for. Perhaps I'll start. And if Mr. Mather says anything else to add, he can proceed. So there's many components to this project. So the decision points with respect to the applications and things that come forward will be council decisions and will be separate and apart in part of the normal process. However, as part of this program, when they look at where we are trying to estimate , potentially, what the number of permits would be pulled over the next three years to try to balance out the number of the projects for which we are bringing forward to ask for funding as part of this program. So the program works is specific to 90% of the eligible projects for which the province would approve through this process. Those are projects that are already within our DC study and that we would look to recover those costs over time. So one of the, I mean, one of the key risks are, if we continue to do all of this and the housing doesn't actually materialize, we've received funding that would allow us to create the infrastructure, but for which perhaps the province did not see the outcome of the number of permits for which we anticipated . that could be a potential risk that may be addressed through the TPA that could result in clawback of funding. Those are all unknowns at this point and things that when we identified that we don't have all the risks, they're challenging to quantify because they'll be subject to whatever is in that TPA that the city of London will have to fund. So the infrastructure funding through this program will be independent and separate and apart from ultimately what the building permits are and what the approvals that council will grant. Those will still come through the normal process and would be subject to the normal planning review and site plan applications and whatever housing is created through that period of time. So that's where if, you know, from that process, it'll be separate and subject to the reports that Mr. Mather's team will bring forward. So there'll still be independent decisions that council would be making as those planning applications come forward. Go ahead, Mr. Mathers. through your worship. Also, I'll just add in that on that annual basis, we'll be able to course correct through our GMIS process. So that goes with management and implementation strategy. You'll have the next report. I'll actually be at the next planning committee. That's just in the next week. And any other projects that, if there's a slowdown or if there is increased activity, we'll be able to adjust the timing through that process as well. So whatever we submit through this application will be fairly fixed projects, but there is some other flexibility within our program that you'll be able to review on an annual basis. Councilor ramen. Thank you. So from a project perspective, knowing some of the projects that we have, that we were planning to move forward with, how do we know when and if and how they will be housing-enabled infrastructure? So I'm just thinking about, for instance, just to give you an example, the Sunnydale Road continuation Richmond to Adelaide, which we were able to get housing enabled funding for the portion from Wonderland to Richmond. So I assume that next tranches is potentially eligible. But how do we know that that went into the application? I guess, are there just certain projects that we're looking to advance that maybe we can have some kind of indication on right now? because I want to make sure that that's a priority and continues to be one. I'll go to Deputy City Manager to start. You can throw it off to more Mr. Mathers, go ahead. Thank you through the chair. So as we look at all the projects that are within our development charge background study, all of the projects have associated impacts to the number of growth and housing enabling units that it could link to. So I'll just use a specific race and example with some of the water and wastewater projects. As we look at certain projects, a water wastewater project would have so many homes that it would enable as a result of making the pipes bigger, for example. A road will allow so many new homes to be upgraded within a subdivision. Those are the calculations that we are now, so we've created some sort of a matrix to help us assess all of the projects that are within our DC background study to try to work with all of the service areas. So this is where we've been working very closely with Ms. Sharer's team to look at all of the projects and start to look at all of those units that could be enabled through the various forms of infrastructure. So for example, a road has allocations to certain traffic zones that would estimate how many homes and residential units could be built. So those are the kinds of things, which is why there's so much analysis that is going on behind the scenes to try to estimate what those are and refine what those are. So that's the work that's taking place, and those are the calculations that we're doing. So as we look at all of those matrices to look at the costs, as well as the associated housing enabling parts that come with it, we're able to refine and look at the values as well as the housing units that could be created to see what the best applications the variations of applications could be created to fund a project that we would put forward. Hopefully that's helpful. Councilor Raman. Thank you, it is. Just one final question, I guess, or a series of questions. And my question is, is the ultimate goal to reduce the cost of housing for potential buyers? I'm happy to take a shot at that. Yes, the province is trying to reduce costs for buyers. also get housing moving, support the construction industry. They feel like this program combines with the HST GST cut in a way that could really bring down the costs of new housing and get a lot of those housing units moving. So I think it is both a cost reduction that actually would trigger sales in the market, which would trigger building, which would trigger housing units that they want. So that's my understanding of, it's also my understanding of the speed of whether moving with the amount of speed that they are. This is a government program. Like we've never had this short amount of a time to pull together and apply for. They're trying to get their programs up and running well. It's within the window of the HSTGST cut at the federal and provincial levels on new housing so that they align and create a catalyst effect. I don't know if Mr. May, there's or anybody else has anything to add to that. That's my understanding of the government's motivation. I mean, you could always ask the government, but from everything I know, it's all of those pieces together. Through you worship yet, that's absolutely what we've understood from our conversations with different levels of government on this issue . Absolutely, thanks. Councilor Roman. Thank you. And I'm just wondering about the checks and balances on that. If they shared anything with you at that meeting. And lastly, what's the impact to current homes, not new homes in the market? And how has that analysis been done and what's factored in on that side? Yeah, so the only details that they would have shared on that is just the stuff that I've shared with you as well as the communications that they've made in their announcements as well as their commentary in the media on the confirmation of their motivation for bringing forward the program. I'm not an expert on existing sales. I can imagine incentives for new sales probably push the market in that direction and away from resales for a period of time. But that's, I mean, that's more of a real estate question than the question that I can answer. I'm not sure if our staff have any commentary on that. No, they wouldn't be able to answer that either. Thank you. Just my final comment on this. So I see this is something I'm going to support because it's a report back next step and more details. But ultimately, I mean, I think we all need the federal government to tighten up. This is loose, it's speculative. And it to me, it's not well planned at this point , but I'll wait to see what the what that comes back. Okay, thank you, Councillor Hopkins, you're next. Yeah, thank you, your worship. Maybe I'll just start off with thanking staff for getting us some information. I know the timelines have been really tight. It reminds me of other legislation that has come to us in the past number of years, like Bill 23, where we had a little information as a council. We had a big learning curve. so I am a little bit frustrated with that and I would encourage staff to share and give counsel as much information and update us as possible. I want to thank the Mayor too. I appreciate what he has relayed to us from OBCM. I'm glad to hear that some changes were made from that meeting. I'm also very appreciative to understand that our taxes aren't going to go up yet. So thank you for that. I am going to be at an AMO board meeting in the next two days. DCs are always a big concern with most municipalities, so I'm quite interested in hearing back from what other municipalities are experiencing and what they're doing and happy to relate that information onto Council as well. I want to just maybe stick with the risk here in the revenue gap . The cash flow, the costs, they are something that I have heard loud and clear and that we are going to be responsible for, but I really don't know how that's going to look like. I'm just sharing that concern there. The assessment that's going to come back to us I do have a question about that the mayor mentioned it's called the transfer payment agreement. I'm glad we're not really making any decision right now but if I could go through your your worship to staff and have a better understanding what that is going to look like. Sure happy to just any context and give on on the transfer payment agreement process and the decision being made at that time. Thank you, through your worship. So, consistent with many of the provincial or federal grants, the province and the feds, provide an agreement for which sets out all the terms and conditions, as well as the projects over the defined period of time for which they will, the manner in which they will pay, cash flow and the reporting requirements that are there. So certainly through this application, we do not know what a TPA will look like at this point in time. We haven't been provided a draft, but I expect many of the terms and conditions will be very similar to terms and conditions that are in previous transfer payment agreements that the city has signed with the province and the federal government. So from that perspective, certainly what we do know is it will be a 90% funding of eligible program costs. So based on the application and the projects that we submit, those would look to pay 90% of what those eligible costs are going to be, 10% needs to be born by the municipality. And specifically, we are identifying projects that show and demonstrate what the city's contribution already is to those projects that involve already taxpayer funding. So as Mr. Mayor had said at the very beginning, there are a number of projects. There are only a certain component of a total project that is actually funded through development charges. The large portion of it is already funded typically by the municipality because the projects may go over a much larger timeframe than which the growth for the development charge background study supports. So we are putting forward an application that maximizes as well when we look at all of our projects, the amount of the municipal contribution that is already there. So what we're trying to do is take all of those criteria the province has put forward as part of their guidelines and looking at everything to try to maximize and put forward as best an application that could be forward. So that's what we know will be reflected as part of the transfer payment agreement that will come forward with respect to if there is higher or lower DC revenues associated than our application. Those are still not known at this point, but there certainly has been considerations that the province said they may consider could be stipulations within the agreement so until we see what the form of that agreement is going to be we don't really know for certain which is why it's important we feel rather than having delegated authority now that we bring back whatever we are successful with noting that that could be very different than what we submit this Friday to be able to bring something forward so as soon as we have that information we will endeavor to bring that all forward for councils approval and anything will be retroactive at that point in time and we would need to also look at the mechanism in which we provide potential changes to those that have already paid their DCs since that March 30th date. Councillor Hopkins. Yeah, just as a follow-up to that. So would the province be picking the projects then? Go to the deputy city manager. Thank you for the chair. The province will be determining what portions they fund of the projects that we are going to submit through the application. So that is where through the matrix that we are looking at all of the eligibility criteria to make the best assessment to maximize the projects we put forward that we will submit on Friday as part of the city's application to achieve a 50 percent DC reduction. The city will choose the projects. We are looking to put forward the projects that will best meet the housing enabling portion of it, what will be eligible to maximize the lost DC revenues as well as maximizing the city's contribution in excess of 10 percent. So the city will choose what the best projects are that fit that criteria that we will submit on Friday and then subject to the assessment the province will determine how much of those they choose are deemed to be eligible and how much funding potentially could be provided. Councilor Hopkins. And last follow-up question to that is so the city will be picking that the projects province will be assessing it all that information will come back to us in August. We will at that time be making a decision . I understand that we're having a PPM for the GM IS so our strategies and assessments how much do they play into these projects or is it just strictly project by project that qualify for DCs. I'm just trying to have a better understanding how we as a city are determining where to go forward with the funding application. Mr. Mathers is going to take the first shot of that. Thank you. Through you, Worship. So the submission will reflect the timing that is being brought forward to committee and council in the next run in the G MS report. So we've taken account and ensured that both teams are discussing that timing and that the application that is submitted will reflect any kind of revision and revised timing provided to the council through the GMS process. Councilor Hopkins. Yeah, thank you. I'll just finish off with some. I really like the days when both used to pay for growth and I know we are going through a number of challenges with housing infrastructure. For me, the August meeting is where we are going to be, I guess, signing on or not. And that's gonna be an opportunity for us as a council to make further decisions on this application. So look forward to that meeting. Thank you. Councilor Frank. Thank you. I just wanted to share my thoughts before we go into vote. To me, it sounds like if we don't apply this week , we have no possibility of this money. If we apply this week, we have the possibility of this money. It will all come back to us for a final decision at a later time where we'll get fully-costed projects, we'll completely understand all the impacts of the decision that we're making. So I'm okay with that because I don't want to miss out on this opportunity. I'm a big skeptic of DC rebates and refunds and even myself being a skeptic, I'm okay at this point to save the opportunity for us to make this decision with more information and with the potential of having funding. So I'm not going to avoid that opportunity. So I'll be supporting that today. Thank you. That's for Ferreira. Thanks, Chair. I say same sentiments as the comments from Coun cillor Frank. I just wanted to ask, like, will this result in, unless I guess tax dollars going to, I guess, supplement for loss DC losses. Like I know we, if you could just remind me, in the past we had some budget items come through where we were paying for some DC losses. So I just wanted to know, in the end, will this result in, I guess, less of our tax dollars going into any potential DC losses. deputy manager. Thank you to the chair. So, this program specifically essentially takes the DC funding that would have otherwise been provided through the DC Reserve funds and collected over time and is replacing it with 90% of the federal provincial funding. So, it is a it's basically a displacement of what would have otherwise been funded through development charges with the recognition that we received on the weekend, that our existing city of London 10% contribution would already be recognized for the funds that we're already using . So they're based on the application that we're reviewing and with the clarification that we received on the weekend there are no new tax dollars that are required to submit into this program. That was an important clarification that we received over the weekend that as of last week was not what we understood and what had been provided to us through the program. So the really good news is that at the end of the day through this program should the City of London be eligible it will take some pressure off of the development charge reserve funds because it would basically replace the dollars that would have otherwise been used for projects that are already within the study and offset it with provincial federal funding. Go ahead, Councillor Ferrell. Thank you for that. So with I guess with respect taking the pressure off of the development charge reserve funds that would mean that if let's say we did not follow through on this or depending on how the transfer payment agreement comes back we potentially if we still have that pressure on we may potentially in the future have to I guess look at the tax base to be able to replenish those those pressures so this is the way I kind of hear it is this is an an opportunity to mitigate that future pressure on the reserve funds. Is that a statement or a question, Councillor? A question. So go ahead. Yes, Councillor, that is correct. This is an opportunity based on the clar ifications that we received over the weekend from the ministry where we would displace funding that otherwise would have been required through the development charge background study. So essentially where the risk occurs is depending on our projections of what the growth revenue would be over the next three years, but that is certainly something that we are trying to put as competitive an application forward and do the proper analysis to ensure what we put forward. We'll limit the risk to the city of London in whatever way possible. Councilor Ferra. Okay, thank you for that. So I would support this in principle as it is right now. I do wanna see, I guess when the report comes back to see all the details and the risks and just how that would reduce those pressures in the future. I do see that from Councilor Robbins questions that it will reduce the cost of new housing. But at the same time, I also would like to see it not have that or reduce that future pressure that we potentially could have on our development charges reserve. So I'll support this in principle at the moment. And then I'll look back for what the report comes back to make my final decision at that point. Councilor Cuddy. Thank you, Your Worship and through you. You know, I just want to repeat what Councillor Frank said, so succinctly, this application gets us in the game. Without this vote today, we have no skin in the game. So this should be a simple decision, respectfully . This should be a simple decision by council. Get in the game, let's be players. And the information will come back to us later. So we have ample time to discuss it later in August. And this simply is our allowance to be a participant in an opportunity to be in a really good position for building in the future. So thank you and I'll be supporting it fully. Other speakers, Councilor Trossal, go ahead. First question to the chair. Is there some way we could see a more detailed application that has a more robust risk assessment before we approve this? In other words, instead of approving this today and then getting a memo, is there some way we could get this information back and reconvene later in the week? So maybe you can comment on for this decision and then future decision point of what you'd have then. So what can you provide now and what's possible and what could you provide at the TPA portion, which is the point of which we actually make the decision? Thank you, Chair. So given that it's 10 a.m. Friday morning that we have to have all this information compiled, we are concurrently working on trying to gather all the elements to submit the application. I do not suspect until we get that application in the door, 'cause it closes at 10 a.m., that we will be in a position to be able to provide further details on what we're actually going to be providing, failing us working 24/7 literally until that time . We are happy to provide a memo that will summarize on Friday afternoon, all of the details that we're submitting for the application, noting that until we get any response back from the province, we won't know what will actually be accepted and whether there's any funding that will be allocated to make the program viable for the city of London. So certainly as soon as we receive any information back from the province at that time, we intend to bring forward a fulsome report that would have - and we would begin that work right after we submit on identifying what our application was, what was submitted, what was approved, and then ultimately what that TPA is with a fuls ome assessment of what all those risks are and that will fully depend on what the province approves at the end of the day, the extent to which the risk will be for the City of London. Councillor Troso. Who actually is deciding what's applied for? Is that going to be driven by developers with applications? Is that going to be based on our assessment of what we'd like to see? Who is going to make that decision in terms of what's applied for? Go ahead. Through the chairs. So essentially we We have to pick projects that are already within our development charge background study. It is specific to identifying the projects that have a municipal contribution, that have the number of housing units that are enabled, as well as the very specific time. Projects have to begin no later than 2030 and need to be completed by the end date in 2035. So there are very narrow specific time frames for which we need to begin and end all of the infrastructure to be eligible for the costs. So that is the assessment. It is our background study that currently exists and is approved by council that is driving the assessment for what is going to be submitted as an application. Councillor Trossa. Can we direct the housing to any particular mix of owner occupancy rental? Can we direct the housing to any particular mix of low-income affordable? Can we leverage these funds, for example, to support some of the building efforts that we've heard about building deeply affordable housing? What control do we have over that at this point? Go ahead. Thank you. Through the chair. Specifically, the application is based on eligible projects that the City of London would be building as part of the development charge background study. it is specific to eligible projects and the DC reduction would be specific to 50% of what is in our development charge background study. There is no relationship to mix or any of those other items that the counselor has noted. Those are outside the scope of the project and would be subject to council's approval of what housing is built going forward. But certainly until we see the TPA, we believe those are completely out of scope. Councilor Trussa. Next question, the city's minimum contribution of 10%. Where would these funds come from, based at the level that we're requesting in this application? Go ahead, Mr. Sens. Thank you very much for the question through you. So the municipal contribution, the minimum requirement of 10% would come from the ineligible component, which would include the non-growth share, which is already currently funded by non-DC findings sources. And those funds are rate supported or tax-supported already in the budget? That's correct. Councilor Trossa. Can I get a sense of what amount that would be based on the 10%, assuming that we just stick to 10%, which is the minimum? Go ahead. Thank you, thank you, thank you, through you. So that depends on the project mix. So that's what we're doing for the work we're doing now. We're trying to identify the appropriate projects . The maximize the benefit and the maximize our opportunity to be successful in this application. But depending on the mix again, some projects have a higher or lower growth number or share. And again, the municipal contribution, we are trying to maximize. We are trying to identify projects that are not 100% growth related, but do you have some element of a non-growth share? Councilor Trossa. In section 3.0, the report talks about risks and other considerations. Again, where would the funds come to offset the costs of any of these risks, should these risks materialize? So these are concerning because while we may get money for capital funding, the growth and associated revenues may vary from the estimates. And I would be more comfortable if I had a sense of what that potential variance would be. And again, what the source of making up that gap would be. Would this be coming from the taxpayers? Yeah, I think that's the question that I talked to you about, about where the risk is, sitting in the DC fund and how that would work if the estimates weren't exactly as we anticipated. Go ahead. Thank you through the chair. So certainly until we know for sure, the TPA will identify what potential risks could actually be there based on the amount of funding and the projects that the city may or may not be approved on. Irrespective of that, right now what we are trying to identify is what the calculations are of how much we believe the growth revenue would be over a three year period to then try to match with the eligibility of the projects for which we would submit to so that they would offset. failing those not being equal, there could be a risk that the municipality may have money clawed back. That will be subject to the TPA and the negotiations that occur to bring something forward. And then further to what the mayor said earlier in the event that building permits go through the roof and are far in excess of our projections. And the lost revenue is greater than the funding that we are receiving. That is where we would need to go back look at potential other ways to go to the province or the federal government to see if there are other applications that we could submit for additional project funding. So that is a risk, the extent of which we will not know until we see what the approval will be for the City of London and also how the building permits materialize over the next three years, which will be a bit of a crystal ball will not know what the outcome is until the three-year period is over. My last question to the mayor is, and then I'll make a very brief comment. If the goal is to decrease costs to buyers, how do we know the resulting savings will actually be passed on to buyers? Go ahead. Thank you for the chair. So certainly that is a question that we have outstanding. We know that the city of London, if they were successful, would reduce it by 50%. We anticipate that that cost would be passed along. However, there are other factors. And certainly we're not certain at this time if there's any legal mechanism to compel that for happening. Certainly we know that as a discussion that has happened in other municipalities and something that we have further questions but that would be subject to the building community to pass those on to their buying customers. Those are chosen. Okay, then I'll just make a brief comment. I can't support this at this point. And I hear what my colleagues are saying in terms of, you know, let's file the application and see what happens, but I really worry that we're gonna come back in August. And it's gonna be sort of like trying to push a big boulder up a hill that has already started rolling down the hill. I'm very worried about this. I don't think this has been, and this is not a reflection of any kind of step work. Again, I wanna make it clear. I am not criticizing the staff. you're working under very difficult and rushed conditions. I feel like we're working under very difficult and rushed conditions. There are too many risk uncertainty factors out there right now. I appreciate Councillor Stevenson showing me the Windsor application, which I think really answers a lot of the questions that I would have had. And they're working under the same timeframe that we are. So unless I hear something compelling in the next period of time, I am going to be voting no on this. And again, that's in all due respect to the probably large amount of staff work that's already been sunk into this. But these sunk costs add up and I don't want to keep going with this unless some of the types of questions that I've tried to set out and this has been very difficult just getting this file at the last minute and just trying to compose these questions. I do not want to create a situation where we're creating sort of a unfortunate situation for the next council or for this council during the election season or for the taxpayers later on, so I've not heard enough to make me satisfied that I can approve this. So right now I'm in no vote and I guess before I sit down I better collect my thoughts because that's it and I'm out of time. But thank you very much for hearing me out. I would very much like to be able to participate in a program like this, but I just don't like feeling rushed and pressure. Councillor your time's up. Other speakers? Okay, I'll put myself on the list. I'll turn the chair over to Councillor Ploza. Thank you. I have the chair recognizing Mayor Morgan. So thank you. So I guess I'll try to make a compelling case to Councillor Trozau. I don't think I've ever convinced you with that, but happy to give it a go this time. Point of order. Oh, sure. Sorry, not to be difficult, but we... I appreciate the Mayor recognizing that. Sure. I have the chair recognizing Councillor Stevenson for Point of Order. I'm just wondering because we said that we could only speak once at council and the mayor spoke at the beginning. So I think it was a response. I appreciate also where we're at at time. We also have an audit coming up as well. Mayor Morgan, if it's just a response, if you just have clarifying information as well. I'll say at the start, I was asked to present contacts from Ontario, big city mayors as part of the presentation. I'd like to actually debate the item. So I'll look to see how the chair wants to rule on that. I will review that you did speak on behalf of the BCM information you brought forth beginning and have actually not spoken your personal opinion to this matter convincing others or otherwise. Councillor Simaels, I will time though proceed. I would expect you to and cut me off if I get into five. So I'm happy to share some thoughts. What I want to say is we had a discussion on Friday. There are lots of municipalities who are doing different things. There are some municipalities who actually move forward with just complete delegated authority to their staff to say I don't know what the program is going to be we want to be part of it go apply for it let us know what that works out to be. There are others who actually approved envelopes of funding who on Thursday night realized that they'd be on the hook for a significant amount of property tax dollars to actually backfill the program when they realized that maybe they couldn't actually commit to using non-growth related funds for the project. There are a number who have to revisit their decision based on the new information on Saturday, and there are a number who decided to move forward not really having a problem with putting taxpayer funds beside trying to maximize their municipal contribution. So what I will say is every municipality is going to do this differently. Every municipality is going to have a different suite of projects in their DC background study to draw from. Some may have a very clear, very large project that they can say this kind of fits all the parameters of the the program, very easy, put one project forward, put it before council. A competitive application, a competitive application, is going to require a couple of things. One, what is the DC rate reduction? I think that's why you heard the treasurer say, we're gonna target 50%, we wanna be at the upper end of the minimum scale that they're looking for. Others may go above that, but we've gotta be also responsible. Two, what's the housing impact gonna be? So the projects that we have within our DC fund, we gotta look at which ones are going to unlock, what amounts of housing support, what amounts of housing? That's a measure of competitiveness. And of course, the municipal contribution, you know, 10% is the minimum, but we may be well above the 10%. If we submit a transportation project and I'm just making it up, that's $100 million and 40 million of it is already in our budget as non-DC, but rate and or taxpayer supported, that would be a 40% municipal contribution. So we want to also put projects in that have significant already budgeted amounts within the DC fund that kind of balance all of those things to make a competitive application. You know, we could try to do that before Friday as a municipal council, but we're gonna have no time for our staff to actually finalize the work and prepare the application. What will be very transparent to everybody is what we applied for. The staff are going to give that no doubt. I'm happy to have a press conference and say this is what we applied for. We don't know if we'll get it or not. But at the end of it, when the province has assessed it, and they've discussed with our staff, and we have a possible TPA to sign, all of these questions will be very clear to say, these are the applications, these are the values in the projects, the staff can do assessment of the risk related to that, we'll know the municipal contribution, we'll know the estimates on what we think housing is going to do over the next number of years, and then we can decide whether we wanna participate in the program or not, whether it's something that is valuable to municipality. You've heard several times our staff say there could be a benefit to taking pressure off at the DC fund by participating in this program. We're gonna know that very clearly when we know what the province is willing to approve out of our DC fund as projects, where the risk is in the future on this. And again, we'll know have some sense of the risk , but not a complete sense of it by the end of it. How am I doing? is if we are under, let's say we are projecting, I don't know, 8,000 units over the next three years of growth, and we're under that, the province, and this is a question asked for probably, the province could say, you didn't collect enough , we're gonna claw back money for one of the projects. That was challenged and said, if we start a project, are you really gonna claw it back? And they basically said, no, we're gonna deal with this on a case-by-case basis. It's a tool we have, but we actually want to build these projects out of the DC funds, And we're just looking for good estimates at the time of the application. And the province is gonna approve those estimates . So if they're off, the province also looked at them too. If things go very well and we're way above our estimate, we do 10,000 units of housing or 11,000 over that period, that was my question to Minister Flack, as well as a question at the meeting. Can we put more projects in? Because if we don't, where the pressure lands there is the 10% gap or the gap within the DC fund that the program is not, it's not 10%, but it's the amount of foregone DC revenues based on the reduction in the DC fund. And how we deal with that as a municipality traditionally is through the GMIS process. We push projects back to basically balance the fund. So the risk is in the DC fund. There's an easy solution to that if we land in that spot. The province can let us do more projects. We do more projects out of the DC fund. And so I think that this is a great opportunity for us to move forward, participate in a program as Councillor Cuddy said, we can get the application in. Everyone can know what we applied for. Every Councillor can make a decision based on what we know at the end of the day. So I'm gonna support the proposal for us. Thank you. I have no further hands up in chambers, but we'll return the chair to Mayor Morgan. Okay, I think everybody in chambers has spoke, so look to anybody online who hasn't spoken. I see nobody. Okay, so what we have before us is the motion in E-Scribe that everybody should be able to see, It's the same direction as in the report, as well as the receipt of both our staff's presentation, which will be made public. It's attached to the record. We'll distribute to all the counselors and the correspondence that was sent in by a number of members of the public. That's before I moved by Councillor Layman, seconded by myself. Councillor Vameer, we're gonna are you looking to speak? Or are you just trying to vote? Just trying to vote, okay. All right, we're gonna open that for voting, sorry. Can you just separate A and B, please? For sure, yeah, just give us a second to do that. So just for people, we're gonna separate A and B. A has received the information. B is the direction to apply. We'll attach the A being noted to A, which is the correspondence piece. So the first vote we'll do is A, receive the report and noting the presentations and submissions. And the second vote we'll do is B, which is the direction to submit an application. We just need a minute to break that up. So close on audit for you, Councillor Palosa. Okay, we're opening A for voting, which is received the report and the app being noted. Councillor Layman. Councillor Layman votes yes. Opposing the vote, motion carries 13 to zero. Okay, and next we'll open B, which is the direction to our staff to apply for the program by the deadline this Friday. And an app being noted about the transfer payment agreement for funding would come back to council for its consideration if we were successful in the application, so that should be open. So to the Councillors who have been abstained, Councillor Stevenson and Councillor Trostoff. The only way you can abstain under the Miss Black is to declare conflict of interest. I'd ask you both what your conflict of interest is so that we can put it on the record for municipal council 'cause that is how you abstain. So does other Councillor wanna declare the conflict of interest openly as is required under the act? I do not have a conflict to declare. I would prefer to abstain because I think it's just more respectful of the position that my colleagues and staff have put forward. I'm not prepared to vote yes on this. If I'm forced to leave the room or vote no, I'll vote no. But I think abstain is a better reflection of my position right now. So there is no mechanism to abstain if you don't declare a conflict when the click. So I want to be clear that if the counselors do not change their vote from abstain, it will be changed to a no vote in the record under 12.7 of the councilor by-law notwithstanding the provisions of 12.6 of this by law. Every member who has not recused from voting by reason of a declared conflict shall be deemed to be voting against the motion if they decide to, if they decline or abstain from voting. And that is a provision of the Municipal Act 2001 , section 246, subsection two. So if the Councillors don't want to declare, just realize that your vote will be changed to a no for the public record. I'll just seek one more time whether there's any declaration of conflict. I have no conflict. So I'll be changing my vote to a yes, but I'd rather do that than step out. And I think I made my point earlier that there needs to be some mechanism beyond saying no when we're not presented with the information to make a decision. Appreciate that, that you would like to do that . I am bound to follow the rules of the Municipal Act and the procedure by-law. So I appreciate you changing your vote. We need Councillor Layman's vote as well. You can vote verbally and-- Councillor Lehman votes yes. And Councillor Trossau, you are not changing your vote so it will be changed to a no as per. May I speak? Well, you don't get to debate again but I'm asking you, will you declare a conflict? I have a question about my vote. I'm asking if you're declaring a conflict that's the only thing you could declare at this point. I'm not but I think that what Councillor Stevenson said is a good way to do this and I'm gonna do the same thing she just did. So a vote yes but it's very clear what my position is on this. So Councillor-- - Really feel pressure. You were gonna put you as a yes. Councillor Stevenson is a yes. Has everybody got their votes in? Okay, I'll let the clerk read the. So if they say it's in there. (mumbles) Closing the vote, motion carries 13 to zero. Okay, we have no motions to which notice is given. No reports, no added reports, no deferred matters . Can't do inquiries 'cause it's a special meeting. Are we can, but only on this matter? I don't see any emergent motions. There aren't any bylaws. We just have the confirmation bylaw that we do every meeting for council. So I'm gonna open, oh, I need to move her in a seconder. Councilor Cuddy's willing to move. I'll second them all. This is the confirmation by-law and we'll open first reading for voting. Councilor Layman votes yes. Councilor Joceau. Just the confirmation by-law for the meeting that we do every meeting. Yes, one question. No, you can debate at second reading, but you can't ask a question of first reading, but it's not a question, it's debate. So first reading is open. Two votes yes. Closing the vote, motion carries, searching to zero. Okay, second reading, same over in a second, or is there any discussion on second reading? Go ahead, Councillor Stevenson. Thank you, I'm just wondering if there's any concern about not having the information to know whether I have a conflict given that I don't know the list of projects. So first off, the clerk wants me to say, we don't actually get to debate the confirming by a lot. You can make comments, too, but you can't debate it, so I'm gonna allow that. The question is related to, so I will say clearly , I can give advice, neither can the clerks on someone's conflict. The piece of information I can give you is based on previous decisions on the DC background study or any works on GMIS, all of the projects that we're contemplating here are ones that are contained within that envelope. So if someone's declared on previous things within the GMIS, then maybe they would have a conflict, but I can't answer the question about if you do, because no, we don't know what the projects are. And until you know what the projects are, you couldn't seek advice. So I can't answer your question. I'm not sure anybody here can on that particular piece, Councilor. Other comments on the confirming bylaw? Councilor Trossa. This puts me in a very, very difficult position . And I think I really wanna go out of my way not to have a conflict. This could be at Kings. I mean, I don't know what's on that. Is there a list that we could look at right now to see if we're within the range of any of the projects? I don't have a list of the entire DC background study in front of us right now. We also don't know which projects would be submitted. So again, I can't give you advice on a conflict. I can't even tell you what I would do because I would be giving advice. But the answer is don't have a list of all of the DC background projects here. Even if we did, you wouldn't be able to determine which ones staff are making the decision to apply for. So you're not actually making the decision to apply for that project staff for doing that under the motion that we put here today. So that's the best I can give you, Councilor, I'm given the circumstance. Okay, we're gonna open that for voting. Councilor Layman votes yes. Okay, Councilor Trossai, you voted to abstain. I have to ask if you can declare your conflict for the abstention. Well, I don't have enough information to affirmatively declare it, but I don't have enough information to say I don't have one. So I think I have to, under those circumstances, declare a potential conflict based on information that I don't have. Therefore, I think my abstention is in order. Okay, Councillor, that's fine. You can declare a conflict in whatever way you'd like. You've got to, actually, I've just, as a courtesy , remind you you've got to fill out paperwork as required on the thing that's blacked on it. So I encourage you to do that. I'll do that with pleasure, thank you. Thanks. Closing the vote, motion carries 11 to zero, noting Councillor Palosa's absent and there's one abstain. Okay, and third and final reading on this, we'll open that for voting. Councillor Layman votes, yes. Councillor ramen, Councillor Trossa. Closing the vote, motion carries 11-0, noting one abstain. Okay, that concludes the confirmation by-law. I only have a motion to adjourn last left, so I got Councillor Cutty, seconded by myself. We could do that by hand, and I'll just look to the screen, all those in favor. Motion carries.",
+  "transcript_duration": "1 hour, 58 minutes",
+  "transcript_source": "lillian_skinner_archive",
+  "transcript_source_url": "https://london.lillianskinner.ca/Meetings/Council/2026/06-17/.transcript.srt"
+}
