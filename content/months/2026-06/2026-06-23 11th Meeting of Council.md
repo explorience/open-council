@@ -1,992 +1,2938 @@
 ---
-title: "11th Meeting of Council"
+title: 11th Meeting of Council
 date: 2026-06-23
 ---
-June 23, 2026
+June 23, 2026, at  1:00 PM
 
 [Original link](https://pub-london.escribemeetings.com//Meeting.aspx?Id=948470cd-fe8f-491c-afab-0012197b9009&Agenda=PostMinutes&lang=English)
 
-## Meeting Transcript
+> [!abstract]- Present:
+> J. Morgan, H. McAlister, S. Lewis, P. Cuddy, S. Stevenson, J. Pribil, S. Trosow, C. Rahman, S. Lehman, A. Hopkins, S. Franke, E. Peloza, D. Ferreira, S. Hillier
 
-Duration: 5 hours, 19 minutes
+> [!abstract]- Absent:
+> P. Van Meerbergen
 
-Source: [Lillian Skinner's London Council Archive](https://london.lillianskinner.ca/Meetings/Council/2026/06-23/.transcript.srt)
+> [!abstract]- Also Present:
+> S. Datars Bere, A. Abraham, B. Baar, A. Barbon, M. Barnes, M. Butlin, S. Corman, M. Daley, K. Dawtrey, K. Dickins, A. Dunbar, M. Feldberg, T. Fowler, L. Hamer, A. Kaczmarczyk, S. Mathers, L. McFalls, H. McNeely, T. Pollitt, K. Scherr, M. Schulthess, E. Skalski, C. Smith, J. Tanvi, S. Tatavarti
 
-> [!example]- Full Transcript
-> Okay, thank you, please be seated. Okay, welcome to the 11th meeting of council. I'm gonna start with an land acknowledgement. We acknowledge that we are gathered today on the traditional lands of the Anishinaabak, Haudenosaunee, Lene Peiwak, and Adawandran peoples. We honor respect the history, language, and culture of the diverse indigenous people who call this territory home. We acknowledge all of the treaties that are specific to this area. Two Row Wampum Belt Treaty of the Haudenosaunee Confederacy, so we're coming to chain. Beaver Hunting Grounds of the Haudenosaunee Nanfantry of 1701. the McKee Treaty of 1790, the London Township Treaty of 1796. Here on track treaty of 1827 with the Anishinaab ek and the Dish With One Spoon Covenant Wampum, the Anishinaabek and the Haudenosaunee. The three indigenous nations that are neighbors to London are the Chippewaas of the Thames First Nation, Oneida Nation of the Thames and the Muncie Delaware Nation who all continue to live as sovereign nations with individual and unique languages, cultures and customs. The city of London is also committed to making every effort to providing alternate formats communication supports for meetings upon request. If you'd like to make a request specific to this meeting you can contact council agenda at London.ca or 519-661-2489 extension-2425. Okay next we're going to do our national anthem singer. Connor Elge is a Canadian instrumental artist who makes music that blends soundscapes with technical guitar playing. Connor makes music for those with too much going on in their heads and hopes that his music can help them as his playing does for himself. Connor has a new song being released on the 26th named Stars. Please rise and join me in welcoming Connor who will now perform the National Anthem for us. Thanks again. That was pretty awesome. Turning to the disclosures of pecuniary interest, I look to colleagues who have any disclosures for us today. Dean Nunn will move to recognitions and the first recognition will be by Deputy Mayor Lewis, followed by Councillor Pribble, followed by myself and then a presentation that I'll be making, which is already listed in the agenda. So I'll go to Deputy Mayor Lewis first. Thank you, Your Worship and through you and colleagues and staff and the members of the public. I wanted today to take a moment what I would normally do at the start of June. However, I was certainly not up to it health-wise at the last Council meeting to recognize that June is National Pride Month, and there have been celebrations throughout this month, particularly in Councillor Frank's Ward 11 worthy Pride Festival, but celebrations are happening across the country for the LGBTQ+ community. And on the weekend, the Pride flag will fly in Reg Cooper Square on the community flagpole in recognition of the Stonew all Riots, which started in the early hours of June 27th and continued on for five days afterwards. The flag will fly in recognition until Canada day. And then, of course, London celebrates our Pride Festival in Victoria Park in July. And I know that the Pride Festival has asked for the flag to be flown again during that celebration. And so we will be celebrating twice in London, recognizing that we have a different local celebration than the National Pride Month. However, it is a time for both members of the LGBTQ+ community and their allies to come together and celebrate our diversity. So I just wanted to take this opportunity to recognize Pride Month and wish everyone a happy Pride. Thank you. I'll go to Councillor Pribble next. Thank you. How can't I recognize Canadian national soccer team during the World Cup? I know it's only two games but so far. First Indoor Group, tomorrow at 3 p.m. they play in Switzerland with a draw, they'll be first in the group and it will guarantee them staying in Canada in Vancouver. Certainly already a great accomplishment. I want to invite everyone 4th of July at Victoria Park. We have a fan fest, FIFA fan fest. And of course, first, July 1st, Canada Day, lots of events throughout the city and especially downtown. Welcome everyone and enjoy it. Have a great time with your families and friends. Thank you Mayor. Thank you. I appreciate that Council approval. I'm going to move to the podium for my next two recognitions. I'll just, let me just move this closer. Okay, there we go. So the first recognition I want to do is recognizing those who serve on the front lines, whether it's EMS, fire, London Police Service, healthcare staff, or even the bystanders involved in the incident that happened at Sherwood Forest Mall, where an individual ended up going through the wall and coming into a class that was currently going on that morning. I know we've said many times how important all those frontline staffers are and everybody out in the emergency services who act and respond very quickly in incidents. But I came across a story from one of the paramedics about a bystander who intervened shortly afterwards and it struck me that the story was so impactful that I wanted to share it today. These aren't my words, these are something I'm going to read. And the story recognizes the heroic actions of Mia LaRue. Mia is a frontline paramedic with London Middles ex Paramedic Services, and while only in her second year as a paramedic, she just demonstrated the skill, compassion, and calm leadership that defined the very best of our public service. She was off duty at the gym. She heard the sound of a crash and immediately responded. Seeing a cloud of dust and debris, she ran towards the scene where she found multiple people injured, including a woman trapped beneath a vehicle that had crashed through a wall. Without hesitation, Mia stepped forward to help, recognizing the immediate danger, including the vehicle leaking fluids, the risk posed by the vehicle remaining in gear, and the dangerous position of the debris surrounding the trapped woman, Mia acted quickly to protect the woman in those nearby. She placed the vehicle in park, assessed the situation, and began directing bystanders and staff to assist. When police arrived, Mia's experience as an off-duty paramedic was quickly recognized, Working together, Mia and the other responding officer were able to move the vehicle to a safer position , allowing Mia to reach the woman and help free her . Her actions reflect the very best qualities of a paramedic and a member of the community. Courage, professionalism, compassion, and a willingness to serve others whenever help is needed. On behalf of council and the residents of London, we extend our sincere appreciation to Mia for her bravery and dedication. Her actions made a meaningful difference during a frightening moment and serve as an example to the testament that the impact that one person can have when they choose to step forward and help in a moment of crisis. London is fortunate to have people like Mia among us and to Mia and all of the emergency responders who responded that day. Thank you for making our city safer and a compassionate place to live. You make a difference in our community each and every day. Thank you. And now on to what we do on an annual basis and that is the recognition of the contributions that OLG makes through the municipal contribution agreement, and each and every year we recognize the significant contribution they make to our community through us hosting a gaming site here. So I'm pleased to begin today's meeting by acknowledging that the Ontario Lottery Gaming Corporation OLG has its continuing investment in London, Ontario through that municipal contribution agreement. In 1999, the City of London entered into a municipal contribution agreement with the OLG. this agreement, OLG provides an annual share of the gaming revenues generated from Gateway Casino London to the City of London. These funds are then earmarked for projects that positively impact residents from all corners of our vibrant community. From April 1st, 2025 to March 31st, 2026, we received over $5 million from OLG through the revenue generated at Gateway Casino. This revenue has played a crucial role in supporting several essential community initiatives, including funding for not- for-profit organizations through the City of London Community Grants Program. Specifically, Type DIABIT was allocated funds to support BIPOC food literacy programs. The program promotes food literacy through teaching the health benefits of cultural leading, maintaining cultural food practices while making healthier choices with an emphasis on flavors from the African diaspora. Through it, 227 children and youth had access to the cultural food literacy provided to them and other equity denied groups to learn about nutrition, food security and the skills for food connections to identity to health and community. Today we're honored to be joined by representatives from the organization that has greatly benefited from the funds provided through this partnership with OLG. They have provided a pivotal role in our community's well-being and are grateful, we are grateful to recognize their outstanding contributions today. So they're here with us right over here. So thank you very much. The remaining funds received from April 1st, 2025 to March 31st, 2026 through the municipal contribution agreement were used for a range of projects, including the restoration of the roof at Deerness Home, the cities of London's long-term care facility, various recreational facility upgrades which include replacing the roofs at Argal Arena, the Canada Games Aquatic Center, replacing the pool heater at Silverwoods Park, transforming the former Glen Carren Arena to community space and replacing the gym floor at the Boyle Community Center. Local road reconstruction programs to reconstruct roads, replace catch basins, install new curbs and gatters, repair sidewalks, including new ramps and tactile plates. Strengthening the green fleet with the purchase of 11 hybrid vehicles for the corporate fleet, continuing to support for other community organizations. So these are supports been done in the past but are continuing on. The Boys and Girls Club operating funding to support seniors programming, children and youth recreation, social and nutrition programs and education and leadership initiatives. The London and Middlesex Heritage Museum operating funding to support Fanshawe Pioneer Village delivering programs and events and educational activities and exhibits and preserving its collection of 33 original and replica buildings and more than 40,000 artifacts. in total the city has received now 107.7 million in non-tax gaming revenue for hosting a gaming facility in London since the inception of this agreement in 1999. These revenues are a cornerstone for the support for local programs and essential infrastructure making substantial tangible differences in the lives of the people of London Ontario. I'd also like to recognize Gateway Casino London as a key employer in the old East Village community. Following a total investment of approximately 54 million. The casino's workforce has now grown to about 329 employees creating more than 80 new jobs and contributing to the local economy. Thank you for your continued partnership and investment in London OLG. I'd now like to introduce Kathleen Devine, Senior Municipal Relations Manager at OLG, who will be providing a couple of remarks and bringing a big giant check to the front. Yes. So good afternoon everybody. I'm Kathleen Devine, senior municipal relations manager at OLG. And I am the lucky person that gets to come into London every year for this community recognition program event. So I do want to thank yourself Mayor Morgan, council and city staff for inviting OLG here every year. This year was fun because we've had a busy morning traveling around London, getting a behind the scenes look at where some of of the money has gone to. And so we traveled to Silverwoods Park for the new heater and filtration system for the outdoor pool, which is amazing if you haven't been there, you should go. We went to the North London Optimus Community Center and saw the new flooring for the indoor tennis courts, all really tangible, positive impacts across London. And we were incredibly lucky to spend an hour or so with mystery and Gonzales from type diabetes, it was incredible. Looking at this garden that they have growing all of these various types of foods, plant-based, gorgeous vegetables in their greenhouse, out in the garden, learning about their commitment to food education and inclusivity and equality across understanding food and how to access it. I can't say enough about type diabetes. And so, of course, the thanks goes to American Council for choosing type diabetes as one of their recipients of your community grant program. So, incredible work to all of you. Again, from OLG, all of this community impact resonates with us 100% of our profits go back into the province every year. and it's something we're really proud of. So thank you for inviting us here every year. Thank you to Tanvi for taking us on this behind the scenes London tour. And we look forward to coming back again next year. And now we'll just take a big check presentation, shall we? So please come on up and join us. So as Mayor Morgan mentioned, this is the amount the city of London received fiscal 26 and I'll just grab it and I guess probably stand in front. Yeah. And we are pleased on behalf of all of OLG to present the amount of 5,051,022 dollars. Yeah. Thank you. (audience applauding) Thanks, I'll just return to the seat. That's really appreciate the words today and we'll continue on with the meeting. Thank you for bearing with us on that. We are now on to review of confidential matters to be considered in public. There are none, we're moving to council in close session of which there are all of the items before us. Okay, they're all here, 4.1 through 4.8. So I look for a motion to go into camera for all those items. I'll let the council frank, seconded by councilor Hopkins, we'll open that for voting. Closing the vote, motion carries 14 to zero. Okay, and we'll be moving to committee room five. So members of the public, you can stay here and we will return as soon as we're done in camera session. Okay, please be seated. Okay, that brings us to confirmation and signing of previous minutes. We have two sets of minutes that we could do together. That's the ninth meeting in the 10th special meeting. I'll look for a mover and seconder for those. Councillor McAllister, seconded by Councillor Leh man. Any discussion on the minutes? Okay, seeing none, we'll open that for voting. No, any Councillor for available? Oh, yes. Opposed in vote, motion carries 14-0. Okay, onto motions, oh, sorry. Onto communications and petitions, there are a fair number of them, but they all relate to components of the agenda. So there's a motion to refer all those to the various parts of the agenda, look for mover and seconder to that. Councilor Cuddy and Councillor Troso. Any discussion on referral of those matters to the various parts of the agenda? Seeing none, we'll open that for voting. Oh yes. Noted, thank you for closing the vote. Motion carries 14-0. Okay, there are no motions to which notice was given. So we're on to section eight reports. A section 8.1, it's the ninth report of the Community and Protective Services Committee. I will turn it over to the chair to present. Thank you. I will look to present the ninth report of Community and Protective Services Committee. I've been asked to pull items two, three, five, seven, and 11, just looking to see if there's any other items. Seeing none, I will put the remaining items on the floor. Okay, so the chair's moving, moving in motion for one, four, six, eight through 10, 12, and 13. That's on the floor. I'll look for any discussion on those items. Go ahead, Councillor Trocev. Thank you, I just want to make a comment about item number four of this is not a controversial item, wasn't even pulled for me and people in my ward in the near campus neighborhood. And I know people in other wards, this is a very significant item. And this, and I just wanna mark this and not let this go without saying. This has been the source of a lot of tension and a lot of concern and a lot of dissatisfaction in the community in terms of how these things have historically been responded to. And I want to say that Councillor Primple and I have been working on this now with Civic Administration for a good part of this term. And I'm just so pleased to see this come to final council vote. And I have to say it has just been a total refreshing pleasure to work with your staff and in particular the Director of Municipal Compliance. because I think what we're doing here is we're entering into a sea change in terms of how we talk to members of the public about the complaints and the concerns that they've filed. So I just think this is such a positive step in the right direction and again, to the Deputy City Manager. I wanna thank you so much for the work that your staff has done with us on this. Thank you. Other speakers to the items before us, Councillor McAllister and then Perbal. Thank you, through your worship. I just wanted to speak quickly on item six. Again, previous counselor, I just want to express my thanks to Mr. Rather's, your team and Ms. Pfeffer really appreciate the turnaround time on this. I know this was something that I asked for a little while ago, but I made some changes based on the feedback I was receiving from the community. And it is very much greatly appreciated. RAT says not something anyone necessarily wants to talk about, it is an issue that's impacting people's lives, their health, and many properties are experiencing the adverse effects of this. So I want to say thank you. I hate to say, but this might generate some more work for your team, but it's very much appreciated. I hear this a lot from my constituents in terms of trying to see a further enforcement action on this. And I know there's a few properties that we'll probably get looked at. So again, very thankful for this. And I just, again wanted to say that this is greatly appreciated by not only my word but I think all words will benefit from this the long run because I think having a comprehensive rat strategy will serve the city in the long run so thank you once again. That's our privilege. Thank you I guess I 'm going to continue to thank you around but I'm going to be a really brief and I want to say thanks again to Council Trust on the staff 0.4 if I if I look at when I started three and a half years ago if I look at the emails and focus I'll be receiving it this is the the report that stopped it, that actually answers most of my emails and calls. So thank you very much and to the entire team. Any of the speakers to these items? Go ahead, Councillor ramen. Thank you and through you. And I appreciate the expression of sentiment. I agree with it. On item four, specifically on part C, we discussed the municipal compliance city map and development of the business portal enhancements that'll go to the multi-year budget. just wanted through you to maybe ask staff, one information will be available to counselors to be able to access this information in interim. Mr. Mathers, go ahead. Through the chair, so we're always happy to help any of the counselors and the counselor offices, well, to be able to access information. Their information generally is available, it's just maybe difficult to find 'cause you have to go to two or three different sources, so we're always happy to be able to provide that help to you and any further assistance FAQs or anything we could provide you or your constituents would be happy to provide that, so thank you. Thank you and through you. So I appreciate the steps that we're taking with the matter. One of the challenges still remains though is the service London portal. So not being able to get this information through the portal, but having to go through a counselor to get access to the information. It's still an onus that the public has to go through. And so I do look for the time that we are able to do this and the public are able to do this like they can in Brampton, like they can in other municipalities like Ottawa , where this information is public facing so that people can access it themselves instead of having to go through a municipal councilor or council staff to get answers that in my opinion should be publicly available. I'll await that time and potentially bring it forward in the future, thank you. Any other speakers on the various matters before us? Okay, seeing none, we'll open that for voting. Opposed in the vote, motion carries 14-0. Thank you, I will look to put item two on the floor. Okay, item two is on the floor, I'll look for any speakers to item two. Seeing none, we can open item two. Opposed in the vote, motion carries 13-1. Thank you, I will look to move item three, 2.2, which is the city of London Tree Nursery Feas ibility. I'll put that on the floor. Okay, that item's on the floor, I'll look to any speakers, seeing none, we'll open that for voting. Opposed in the vote, motion carries 13-1. Thank you, I'll look to put item five on the floor, 2.4, the request to submit an application for new affordable housing, funding through Filled Home, Filled Canada Homes. Okay. That's on the floor. I'll look to any speakers. Seeing none, we'll open that for voting. Closing the vote. Motion carries, 13-1. Right, Councillor. Thank you. Next is item 7-2.6. 1-22 baseline, transition plan, update quarter two. Okay. That's on the floor. I'll look to any speakers. Seeing none, we'll open that for voting. Closing the vote. Motion carries, 13-1. Go ahead. Thank you. I'll look to put 11-2.7. and the award of the NRFP 2025-248, municipal lands for affordable housing at 1-9-5-8 Duluth Crescent Block 6 related to bill number 239, the floor. Okay, I'll go to Deputy Mayor Lewis. How's the speaker on that? He has his hand up. Thank you, Your Worship. And through you, I spoke to this at committee. I'm just going to speak to it again, 'cause I know not everybody was at committee. I've been very supportive of the Duluth Crescent redevelopment to date and I actually support the initial dedication that was submitted to this block but what we have here is staff asking to be able to go back and increase the density on this block further and I'm asking counsel to respectfully not direct staff to do that but to have staff move forward with the density that they had already they're allowed the height but not the density And the reason I'm asking you this is we're redeveloping this Duluth crescent block that we purchased as a surplus school property for the purpose of developing affordable housing. We've already increased the height on block five to advance a project forward there. We also, though, continuously talk about the need to be mindful of how much concentration we have when it comes to social services and affordable and RGI housing in a single area. single area. Just south of this former school block divided by Trafalgar, but just south of this along Marconi Boulevard, we have 64 affordable housing units at Genesis Co-op. We have 138 at the Telesman Woods Co-op. LMCH has 51 townhouses, plus an entire block of duplexes running from Marconi to Noel, that are RGI units as well. So we have in this immediate vicinity already over 200 units of affordable and RGI housing. We're adding more on the Duluth School Walk. This is not something that was contemplated when this plan of subdivision was presented to the community. It was not something that was contemplated when Council approved the draft zoning through P EC. And I'm just asking that staff stick to the density and heights that were granted through the planning committee process already. We want affordable housing in our city, but we do have to be mindful of how much we are putting in any given location. And this is just, you know, we've already had one block increased. Is it the next block going to be an increase as well and the next block and the next block? There are seven blocks for development on this site. If we increase the density on every one of them, we are going to be creating a bad scenario for this neighborhood. I'm asking fells to respect the density that was originally approved through the zoning. Okay, so that's debate. I look for other speakers on this. Seeing none, then we're gonna open that for voting. You worship my apologies. I should have indicated to you that my objection was to clause C, not clause A and B. I know we've opened the voting. I'm hoping we can cancel it and just separate those. That's okay. We hadn't closed the voting, so it's pretty easy to separate those still. Thank you. My apologies to colleagues. I should have been clear about that. Okay, so you'd like C dealt with separately, but we can deal with everything else together? Yes, C is the only one that deals with the density. Okay, we're gonna go with C first. So the density piece first. So we'll open that for voting. Closing the vote on part C, motion carries eight to six. Okay, and on the remainder, we'll open that for voting. Closing the vote, motion carries 13 to one. I think that concludes that report, right? But you've got another one so you can keep going, Councillor. Thank you, I'll move on to 8.2, 10th special report of the Community Protective Services Committee. We had two items that we dealt with. I'm putting all items on the floor. Okay, so that's item 8.2, all items on the floor. I looked to any speakers to that. Go ahead, Coun cillor Hopkins. Yeah, thank you, Your Worship, and I love good news stories. This is a donation agreement for the Byron Springback Ventrance Monument. I want to thank Deputy Mayor Lewis. I know who's done a lot of work with the consortium . I'm looking forward to the unveiling on October the 3rd. So thank you very much. Any of the speakers? Yep, seeing none, we'll open that for voting. Okay, Councillor Trussell, absent, close the vote. Motion carries 14-0. Councillor, go ahead. Thank you, that concludes the 10th report, but I'll move on to 8.3, the 8th report of the Strategic Priorities and Policy Committee. I've been asked to pull items six and seven, so I'll look to craft, I'll just see if there's any other items. Seeing none. Well, just let me just check. Does anybody want anything else dealt with separately from that report? Okay, you can go ahead and make one. Thank you. I would like to put one through five and eight on the floor. Okay, all of those items are on the floor. I'll look to any speakers for those items. Ed, Councilor Trossal. Thank you very much to the mayor. I made some very long comments about four and five. No, four, and I'm not going to repeat them here. So I'm just not going to do that. So Vorni made them at the committee and I'm not going to repeat them here. So that's that. Thank you. Okay, any other speakers? We'll open those items for voting. Those yes? No to thank you, closing vote. Motion carries 14-0. Go ahead, Councilor Ramen. Thank you, I'll put item six on the floor, the Center of Opportunity, London Economic Development Strategy, 2026-2030, and Implementation Plan. Okay, that item's on the floor. I'll look to speakers on that item. Okay, seeing none, we're gonna open that for voting. Closing the vote, motion carries 13-1. It's a Ramen. Thank you, I'll put item seven, 4.2, downtown reimagined City of London downtown plan on the floor. Okay, that's on the floor. I'll look to speakers to that. Okay, Councilor Preble, go ahead. I'll be very brief. As I stated during our committee meetings, if I look at both plans that we do previous one and this one, I think that's really compared to what we had before in London. Those are both really great plans with great implementation. We know about the other issues, the big picture, but again, there's not part of it. This is the only concern and I'm going to going to repeat what I said before is really the accountability to deliver implementation plan . If you get that right, then we have some great plans, not just some great plans that will be sitting on the desk, but actually plans that will deliver the best possible results for half a million of Londoners. Thank you. Thanks, Councilor Pervault, Councillor Ferrera. Thank you, Mayor. I thought I would speak to this one just one more time. I appreciate the vote and the support at SPPC for this plan. We're looking for a vision. looking for a way into the future and I know the plan did speak to some big items and fifty-eight actions but there's some things we didn't speak about so I thought maybe I should reveal them or speak to them now. The first thing that I thought was very interesting because I hear a lot from people living in the core and especially because we're moving towards having more individuals live in the core, what type of amenities, what things are available, what can people do, where can they shop, where can they get their groceries. So I thought I'd start with that one with the grocery because I know this is something that comes up from time to time and I just wanted to go to staff because the plan does call for services and amenities gap assessment so I just wanted to go to staff and see if you could just speak to that a little bit what would that services and amenities gap assessment reveal would it look into things like a grocery store would it look into things such as other amenities for people to be able to to use or shop or go to within the core and when would we potentially be expecting something like like that coming to council. Mr. Mathers. Through the chair. So yeah, that's exactly what, as you phrased it, but what we'd be looking at as part of that assessment. So my intention wouldn't necessarily be to go to a consultant for this. I think this is something that we're very well set up of working with the community, to be able to develop that information. It would include like speaking to residents, understanding from both of the current business community and the folks that are actually living in London, in the downtown, what they're looking for what they might may need and building off any other research we can do as well. So I think it is very well known that there are needs downtown, especially for a grocery store space and there are possibly the other needs as well. So that would be something we'd be bringing forward. It would likely be in Q1 or Q2 of next year because we want to kick off some of the other elements. There's a report that will be coming forward in the Q4 that we're just going to provide a bit more of the implementation steps that you 're going to be able to see. and I believe that'll be a very timely report and be something that's important to be able to be understood, to be able to move forward in the core. Go ahead, Councillor Ferra. Okay, thank you for that. And I do also hear, and I agree, that I guess the downtown success also hinges on the day-to-day accessibility, the visibility of it, the cleanliness of it, and things like that. So I understand that we do have already, we have already propped up the downtown's operations team. We are already bringing in a CIR. We are already consulting with LPS. we are already consulting with municipal compliance to look at storefronts and everything like that. And I wanted to know if we could get any update on when we would start seeing reports coming back to council for actual, once we start seeing the implementation get rolled out, what will we start to see coming back with respect to as those actions or the success of those actions start taking place? Through your worship. So, well, absolutely, those are very important details and we'll have to be able to provide you. Through that implementation, step in Q4, we'll be able to lay that out and if council has any other ideas or other thoughts of what they would like to see as reporting. Currently, the downtown plan speaks to having an annual report, but you're gonna have reports from probably on a quarterly basis with any kind of initiatives that are coming out of the work and it'll definitely be informed by the next council strategic plan and the multi-year budget process moving forward as well. Okay, thank you for that. And also, I know that Vacancy is a big thing that we talk about downtown, 31.5%. I think Vacancy right now, which I would say has plateaued since 2023. And we really saw that reveal itself after the changes of the pandemic with the office workers moving outside of the core, but we have other Vacancy issues as well. And I do see that we have some successful programs that we use right now with incentive programs. We could be using some other tools as well. I wanted to know if some of the, I guess, re-envisioned or reorganized incentive programs, as they come back, will we see incentive programs that will kind of help with potentially heritage properties? Or would we see incentive programs that would help with some office spaces that we kind of have deemed as not the low hanging fruit? Would we be looking at those office spaces that may be just too big on the floor plate perspective? Whether it's from demolishing them or finding another type of use that is not necessarily residential, would we be seeing any type of programs or look into that? Mr. Mathers. Through you, worship. So there is a five year review of our community improvement programs that we will be undertaking in the next, we'll be just ramping that up next year. So there'll be an overall comprehensive review of that. I'm hoping that out of the downtown champions table as well, getting those really great ideas of what would be important from the core and making some recommendations back committee and council of the ones that are programs that might be most influential and most important at the time. So I think at this point all of those options are on the table but it'll take in having this implementation coming forward and also developing this team moving forward as well to be able to actually get something before council so they can make some decisions. Thank you for that and I like how you brought up the downtown champions table and I guess I'll take that as into segue into talking about the governance structure that we are seeking to approve here in the new service area for downtown, which I believe is vitally important, just because with such a big economic engine that we have in the city here and all the things that are going on, it would be much easier whether it's individuals who are trying to bring something forward to downtown, an initiative, some type of activation, or whatever, to be able to go to that one place and also to have that governance structure that's responsible for the implementation of the plan itself. 'Cause we, like I think I said this at committee, but we've had other plans in the downtown in the past. Sometimes items were picked up, sometimes items were not. And we really kind of revealed that we need that authority that's responsible for the implementation of those actions coming out of the plan. So this is one of the biggest things that I'm most excited about because we're actually gonna have the ability to do these things that come into the plan. Whatever initiative it is, all the 58 actions I'd like to see them all plus more. But whatever initiative it is, that downtown service area will be responsible for bringing those items to council for approval with budgets and also bringing back the KPIs and the reporting of where the successes are, whether it's vacancy, whether it's activations, whether it's business incubation. So these are the things that are really gonna kind of get this plan moving. So this is why I'm fully supportive of this. I'm glad of the discussion that I heard at committee and I'm hoping to get full support with this. And this is about the vision of downtown. This is about the identity, the face of the city. I've said this before, but if we were to look at downtown, 30 seconds, comparatively speaking, to other big corporations, this is the flagship. This is like the money maker. This is where everybody looks when they look at London from outside, and this is also something that gives us the sense of what it means to be a Londoner. So this is something that we need, and this is something that we'll really bring Londoners together. So I'm supportive of this, I'm hoping that we get support today, which I think we will, and thank you, those are my comments. Okay, other speakers. Councilor Trossab. Very briefly, I would like to again thank Deputy City Manager for his memo, which added some additional language with respect to the cultural anchors. And I particularly want to thank Mr. Macaulay for spending the time with me and Museum London and the London Public Library to add some specific things that they felt was missing. Very significant for me, I guess I've been talking about this quite a bit. I'm very, very excited to see the additional language in 12.2 and I really will be looking forward to working with staff and sort of looking at what we already have on the books and how that can be incorporated into the implementation here. So thank you again for working with me on that and particular thanks to Mr. Macaulay. Thank you. Other speakers? I have myself on the list, I'll briefly speak. I will turn it over to Councillor Layman to chair . Thank you, go ahead, Mayor. Yeah, I don't want to repeat what colleagues have already said. But I do want to actually take a moment to thank our staff and all of the different community partners who took the time to engage on both this and the plan that we just passed on the economic development plan. These were things that we said in a direction a couple of years ago to actually come to fruition. It took a lot of work. It took a lot of engagement. The consultants did thousands of hours of work. Our staff did the same. And so although we have the chance to pass it today, and there's obviously a lot of work ahead, 'cause these are plans that have to be implemented, it is important for us to recognize that there's a significant amount of work that go into this point, to getting to this point is a critical piece. But this is, as Councilor Perbal always likes to say, when we do the strategic plan, implementation is obviously a critical part of any document or plan. Having a solid plan is just the first step. One of the things that I just wanted to take a moment to highlight, 'cause there are many things to highlight in the downtown plan, is I appreciate the recognition of the assets that we have in the downtown already. We are lucky to be a city where there is hundreds of millions of dollars of residential investment already going into our downtown that we have the capacity to accelerate. We are lucky to be a city where we have already made the decision to improve on significant and existing critical assets that are already driving activity and events in the downtown like the investment we made in the enhancements to Canada Life Place. We also recognize through this plan that we have significant natural heritage aspects in our downtown, that other cities are ambious up . We have a beautiful river flowing through the downtown of the city. We have private sector interested in the river district. It's a grassroots moment. It's not a city idea coming to being layered onto the community. We're seizing these things in our community. And of course, right beside this building, we recognize that we have one of the most beautiful downtown parks of any city and we have the ability to make that a truly transformative space through the execution of this plan. Downtowns are shifting to we neighborhoods, and that means downtowns will feel like neighborhoods with people living in them, working in them, enjoying beautiful public spaces, and we have the chance now to move forward up on the passing of this plan with execution implementation of a really critical plan that was representative of many hours of hard work for many people, so thank you. I'll turn the chair back to you, Mayor. Okay, others, speakers to do this. Okay, seeing none, we can open this for a moment. Councillor Palazzo, second call, Councillor Pal azzo, or I can Councillor Palazzo absent, closing the vote, motion carries 12 to one. Councillor Rhomme. Thank you, that concludes my report. We're on to the 11th report of the Infrastructure and Corporate Services Committee, Councillor McAllister, I'll turn it over to you to present. Thank you, please, to report the 11th report on Infrastructure and Corporate Services. I have had requests for eight, nine, and 11 to be pulled, so I will look to move one through seven and 10. Okay, anybody else want anything dealt with separately besides eight, nine and 11? Okay, so you'll move a motion council then? Yes, that was one, two, seven. So one to seven and 10 are before us moved by the chair. Any discussion on those matters, okay? Seeing none, we will open that for voting. Those in the vote, motion carries, 13 to zero. Sorry, Mr. Chair, Mr. Mayor. Yes. My vote, sorry, sitting with the last vote, just keep saying vote closed, even though I'm trying to vote. So I'm here, I'm gonna start restart E-scribe, but my vote would have been a yes if it would let me vote. Oh, on the downtown plan, that one? Yeah, on that one and then Councillors, Democrats are stuff right now. Just, I said, I'll restart it, just keep saying vote close. So I'll retry and I'll do it verbally if it's giving me more problems, sorry. No problem, Councillor. I mean, we're happy that you verbally confirmed your support for the downtown plan. If you really want to vote for a week or three-- Nope, we're not going back, always forward. Thank you. Perfect, that's the way I like it. All right, okay, so we'll move on then. And if you need to vote verbally, just vote verbally, we'll slow things down to make sure you can jump in until Lee Scribe gets working for you. I'll turn it back to Councilor McAllister for the remaining items in the report. Thank you, and through you, I'll put item eight on the floor. Okay, so that's on the floor. I'll look to any speakers. Seeing none, we'll open that for voting. Well, yes, Councilor Plaza. Closing the vote, motion carries 13 to one. Councilor McAllister. For you, I will put item nine on the floor. Okay, item nine is on the floor. I'll look to any speakers on item nine. Seeing none, we'll open that for voting. Councilor Close votes yes. Close in the vote, motion carries 13 to one. Councilor McAllister. Thank you, through you, I'll put item 11 on the floor. Item 11 is on the floor. I'll look for any speakers to item 11. Councilor Stevenson. Thank you. I do have some questions through you to staff. I just wanna confirm that this report says that there's $1.8 billion in property tax funding or taxpayer funding that is internally invested and managed. And I also just wanna confirm that the policies that we have regarding how to invest and how to report out are the provincial standards and nothing more than that. Sure, I'll go to Mr. Murray online. Thank you and three Mr. Murray, yes. That is correct. The total market value of the city's investment portfolio as of the end of 2025 was approximately 1.8 billion. And to the second part of the councilor's question, the investment process, some of their investment strategy and decisions are guided by provincial legislation, specifically the Municipal Act and associated regulations as well as our city investment policy, which is available on our website, and that policy itself is informed, of course, by the regulations in the Municipal Act, thank you. Councillor Stevenson. Thank you, and to confirm, in terms of reporting, it's just the minimum required by the Municipal Act, correct? Mr. Murray. Through you, so the reporting that is required outlined in our investment policy itself as well. It does certainly meet the minimum requirements in the legislation, although we do provide additional context and additional commentary as part of our investment report to help council understand our investment performance. Okay, Councillor Stevenson. Thank you. Yeah, I talked about this one a little bit at committee, but I you know we talk about transparency and accountability and as I said this is 1.8 billion dollars and what is reported and it's no well it 's 1.5 billion in fixed income in GICs and 295 million in Canadian equity pooled funds when I and that's that's all that we see so when I asked at committee you know other cities will list all of the different investments and we get to see them all. And the response was there's a lot of them, there's 180 different investments. And I just think, well, all the more reason why two lines is not sufficient, transparency, in my opinion, two taxpayers, where we're investing money on behalf of them. And when I go back to 2021, the investment report for the year ending 2021, it showed 10 or 12 different investments. It also talked about the average term maturity. It showed book value. And there was an appendix B that showed the various different five cool investment funds, government fixed income, corporate fixed income, asset backed securities and other investments. And it showed both cost and market value for the current year and the previous year. it says an excerpt from the 2021 consolidated financial statements so but in the in the 2025 report here we're only showing fair value we're not showing book value and market value you can't see if there was a gain or a loss and so i'm just wondering when this report is developed and brought forward to council how does civic administration decide how much to provide and and what information to provide. And if there's a change from one year to the next, because it seems to me, and I've said this before, that in iterations of Council, we seem to be having less and less accountability and transparency, less and less detail, whether it's multi-year budgets, you know, operating things or the investments. We're seeing less and less. When I go back 10 years ago, there's tons of detail ins and outs, balances. Now we just get everything summed out. So my question through you to staff is can you just help me understand why there's a change to fair value reporting rather than book value and market value and who and how is or the decisions made around less reporting to counsel. I don't have Mr. Roy you want to start with that one? Certainly and through you Mr . Mayor so what I will say and certainly the the environment and the landscape has changed somewhat in the the last few years as it pertains to accounting policies and accounting requirements in relation to our investments. New accounting standards related to financial instruments have come into effect approximately two years ago, which has required municipalities to reflect our investments in many cases at fair market value. So that is why the shift perhaps in focus from book value to fair market value, that is to align with the accounting standards that are currently in effect. What I will say more generally as well is that certainly we are open to providing the information that council believes is valuable and relevant and helpful in your understanding of our investment portfolio activities. Certainly we're happy to take that direction. We do have a fairly sizable investment portfolio. As was noted in the committee report itself, we have upwards of almost 200 different securities in our fixed income portfolio. So it is a sizable portfolio, but certainly we are open to taking Council's direction on additional information or specifics that Council would like to see going forward. Councilor Stevenson. Yeah, thank you. I mean I I think it would be clear by what I'm doing here that I do think that we should have a more extensive investment policy and council should be saying that what we wanna see, this is just so summed that it's just not accountable or transparent in my opinion. And I think the general public would agree that if there's 180 different investments that it'd be nice to know for those who know about investing, be able to see transparently what we're doing. So in the 2021 report, it took an excerpt from the consolidated financial statements for the year. Did staff think that there was anything in the current year of financial statements that was warranted to bring forward for council's attention here? I'm assuming not because it's not here, but I just wanna know if that consideration is made and who's making that decision. Mr. Murray. Thank you through you. So the information here, I'll just caution as well is not directly tieable to the financial statements themselves. Of course, our financial statements are consolidated financial statements, this investment report deals with specifically our unconsolidated investments, those being the investments of the city itself and not inclusive of investments that our agencies, boards or commissions may hold . So there is a challenge, I guess, in pulling information directly our financial statements because they are two different basis of numbers that that they relate to. So that is the challenge but certainly the the portion of our investments that relate to the city itself is reconciled to what is reported in our annual audited financial statements. Councilor Stevenson. Thank you and who is it that makes the decision as to the level of information and that comes to council. Mr. Murray, are I see nods in the room to Mr. Murray? Okay. Or do you want to go? Mr. Murray, I'll start with you and then we might have more answers in the room, so. Certainly, certainly. I can start Mr. Mayor and through you, it is the treasurer who has ultimate responsibility for the investment policy and ultimately the investment report of the city. Would you like to add anything? Thank you for the chair. So certainly throughout the number of years through our investment update, we've provided numerous policy changes and through those policy changes, we take the direction of council. So certainly if council was looking for additional information or does not wish to follow the advice that staff have put forward with respect to policy changes, council is always open to make those changes through the policy that is brought forward on a regular basis for review. Perfect, thank you. Councillor Stevenson, you have, I just wanna give you your time. you got 38 seconds or so. Yeah, so, and I understand that, and hence why I'm talking to council and talking to the public about this, in that the minimum standards are met, but there's a variation, changes are happening from year to year, the presentation is changing, what is reported is changing, the level of detail is changing, and there's no explanation as to why in the report, those changes are made. So it does say that the 2024 portfolio investment , that we closed out the retail brokerage accounts and everything's been moved internally. I guess and I'm not trying to trap staff here and I am a little frustrated by what is being presented here when I read your time is up. Other speakers to this item we're going to open that for voting. Sir Pelosi thank you closing the vote motion carries 13-1 and that concludes my report. Okay thank you we're going to move on to the report of the Planning and Environment Committee I'll turn it over to chair layman to present the report. Thank you, Mayor. I'm pleased to present the ninth report of the playing an environment committee. I've been requested to pull item seven and that's the extent of that. Okay, item seven, anything else? Go ahead, Councilor Trossa, or sorry, Raman, Councilor Raman, you wanted something separate? Thank you, item 12, please, 4.1. Okay, 12, Councilor Trossa, you have your hand up? Yes, I'm sorry. I wanted to vote separately on item six. Oh, item six in the planning report, sure, no problem. We can do that separate. Councillor Stevenson. Thank you. I'd like to pull five, eight and nine, please. Hey, one, one, anything else? So it seems like what we have left is one through four, 10 and 11, if I'm right. I see nods. Everybody okay with doing those ones together? Okay, Councillor Layman. So I'll move those items. Those items are on the floor. I'll look for any discussion. Go ahead, Councillor. Yeah, thank you. Well, I just want to take an opportunity here to thank the committee on 3.1, which is subdivision on Colonel Talbot. Road, I did bring forward an amendment given the amount of development that's going on in this area and the development that is to come that a revised transportation impact assessment be considered as it goes through the draft plan of subdivision as well as the site plan. I just want to thank the committee for supporting that amendment. Any other speakers to the items before us? Okay, we're gonna open that for voting. Those in the vote, motion carries 14-0. Oh, I'd like to put on item five regarding 2496 Dundas Street. Councilor Stevenson requests that to be pulled. Okay, that item is dealt with separately. I looked at any speakers on that, go ahead. Thank you, yes, there was a written submission that came in from the airport authority, I believe. On this one, I'd just like an update or staff's comment on this. Go ahead. Sorry Mayor, point of order. Point of order. I believe, and this is not with respect to the councilor's comments. I see 12 was moved here. I thought that was pulled. I don't know if you're reading the motion wrong , it says with the exception of items, and then it lists them, and it includes 12. So that means it's not in. Okay, I pulled that back, thank you. So, all good. Thank you through your worship. The letter on the agenda is provided for information for council to make you aware that they do operate 24 hours, and the concerns related to potential noise complaints from as growth happens and growth comes closer to the airport lands. Councillor Stevenson. Thank you. I guess I was surprised to see this like right on the added agenda for council given that we talked about this at planning a little while ago and I would have thought the airport as a major neighbor to that area that we would have reached out to them or consulted them or had their input. So can I just ask, do we have a policy around consulting with the airport around these kinds of things? Mr. Mathers. Through your worship, we were circulated on this application and they chose not to make a submission through the normal course of the process. We did reach out to them very close to the committee 'cause there were some questions that we'd received about the 24-hour nature of the airport lands and they decided at that point to put and submit a letter but we did include them. They were actually outside the required distance, but we decided to provide them a notification as part of our process, but they chose not to at the time to be able to make a submission. Councillor Stevenson. Thank you. Can I ask in terms of our economic development and our economic development strategy, has this zoning change or app development been considered in terms of our goals there? Thank you through your worship. These lands were brought into a change in land use through the land needs assessment review. So they were originally industrial and Council opted to put these lands into residential. So now the nature of the zoning application is to follow that land use. From that perspective, no, we don't necessarily follow the economic development plan because we're following the Planning Act in terms of zoning applications that are submitted for Council's consideration. Council Stevenson. Thank you through the staff though, could I hear from economic development in terms of that being one of our focuses and how this might impact? Thank you through the chair. So I can, what I can say to you, and I'm not sure it answers your full question, I can tell you the airport was heavily involved in the discussions as it relates to development of the economic development plan. I do not know that they've raised this specific issue, but they've certainly been active in the discussions as we develop the plan. I'm happy to get more information and specific questions if you have them. Councillor Stevenson. Well, I guess my last question is what are the risks of referring this and allowing us to have the time for civic administration to talk to them about this and to look at our economic development strategy that was just passed? Maybe you can comment on timelines or anything related to risk. Thank you through your worship. From a planning perspective, the risk would be not meeting the statutory timelines. Councillor Stevenson. Okay, I think that's the only questions I have. Like I said, I just feel uncomfortable when I see a letter like this last minute on the agenda. It doesn't feel good, you know? Deputy Mayor Lewis. Thank you, Chair, and through you, I'm gonna encourage everyone to support the committee's recommendation here. First of all, as Ms. Medele indicated in our comments, this land through the land needs assessment was removed from the industrial place type and the employment sector lands. I think between 18 and 24 months ago, or there about staffing correctly, if I've got the timeline wrong, the letter that we received from the airport not only was late after not participating in the initial opportunity to comment, but really is not different substantively than the letter we received almost two years ago when we made the land use change. So irrespective of the economic development plan, which does feature some pieces of the airport, have to make a planning decision here based on an application that was received. And with respect to the 24/7 comments, I mean, this is a situation where anyone purchasing a unit in this townhouse complex is going to know from day one that they 're moving near the airport. There are actually homes that are closer to the airport already existing on Costasav and Creamery Road. So again, I just bring it back to this is a planning application, not an economic development question , and we should be submitting or we should be voting based on the planning rationale that was supported by staff in their staff report and moving this application forward. So I would encourage colleagues to stay with committee recommendation. Other speakers to this matter, Councillor Ferrera. Thanks, Mayor. I would also agree that to stay with the recommendation from the committee, Deputy Mayor Lewis beat me to the punch, but cost us out of this closer to approach on the big runway there than this residential development would be. So there are individuals who would be closer than this one. And just with the patterns of aviation going around, you're not going to see any aircraft right over that area. It would be much less of a noise, I guess, complaint than it would for the Costes app coming in. So those would be my comments, I just wanted to add to that. Other speakers in this matter? Keep seeing none, the item forces, the committee 's recommendation will open that for voting. and the vote motion carries 13 to one. Councillor Layman. Mayor, I'll put item number six. This is regarding 221 Queen's Ave on the floor. This was requested to be pulled by Councillor Tro so. Okay, that item is on the floor. I looked any speakers. Go ahead, Councillor Troso. Again, in the interest of time to the Mayor, I made some rather long comments about this at the committee. I cannot support this. I cannot, I cannot support another temporary, temporary extension. And I believe that the staff report had it right. And I don't think it's really appropriate for us to get into a discussion about whether we like the applicant or not, that's not a land use consideration. So I really think it's time for us to say to this property owner with respect to this parcel, but it's time to move on and do some housing development. Perfect place for it. And that's why I'll be voting no on this item. Thank you. speakers. Go ahead, Councillor Preble. Thank you. I will certainly be supporting the recommendation of the committee. The applicant, the owner of the property of the parking lot was very clear in terms of the need, need for their current tenants that they have and in terms of the safe nearby parking. And as we all know, this developer certainly is or does develop in the various properties downtown London or throughout London so I will be supporting it based on the facts that this parking lot is needed and for the current and as you know the situation downtown with our vacancy rate I think that we should be working in terms of increasing our economic growth not decreasing and therefore I'm going to support this it does make sense in this case to support this parking lot absolutely thank you. Okay thank you I have just you know that I've I've got you on the list, Louis, Frank, and Ferre ira. Go to Jeopardy, where Louis first. Thank you, Chair. And through you, I'm absolutely supporting the committee recommendation. I moved it at committee and I'm gonna be blunt. First of all, we can't tell the applicant to move on and build housing. The property isn't actually zoned for residential use, moving forward. So what we would have is a vacant piece of land. These are fully leased spots that serve tenants in existing downtown commercial office buildings. Without these spots, the landlord would be in breach of lease and potentially could see early termination of leases and have tenants vacating the downtown floor and increasing commercial vacancy. And in addition to that, we hear it's temporary, it's temporary. Yes, it's an extension of another temporary use. If we look back at some of our own municipal plans, By this point in time, we should have multiple downtown parking garages that have not materialized. We still have a parking problem in downtown London and we are not going to see surface lots disappear until we see something develop around the development of a parking garage. So I strongly encourage colleagues to not increase commercial vacancy, to not presume that this could be turned into housing because it's not even zoned for that use currently. So it would have to go through a rezoning before that could even be considered. The applicants made it very clear that they're not interested in doing that right now. And so we should be supporting this committee's recommendation. That's our prayer. Thanks, Mayor. Just listening to the conversation, I just wanna add, I feel like we should be pragmatic in kind of how we approach this. Like I understand Council Troso's sentiments. I don't wanna see parking surface love lots either. However, at the same time, I think the discussion should be about what can we do to discuss with the owner of future work? And I think that's gonna take some time, but I think we should start doing that. We had a parking strategy. I agree with Councillor Lewis' comments. We do need to figure out how it is we're gonna accommodate certain parking and I feel like building structures or mixed use developments would help us in that. But supporting three years for this is something that I would do now, but I think the conversation should be about what do we do when that three years comes to an end? Are we able to potentially work with the owner here and see if we can find a solution so we don't have to have an extension on the next three years? So right now, I am gonna support it, but I think the conversation really should be about what's next after the three years. So we don't come up to this situation again in three years and talk about extending it again. I think that there's good use here, and I really think that there's some interest to obviously, you know, create a better way of how we accommodate parking in the downtown court. Okay, Councilor Cady. Thank you, Your Worship, and through you. The applicant, if they thought they could fill a building, they would put a building up. These are one of the leading developers and builders in our city, and they have been for 50, 60 years. So not to repeat anything that's already been said by Deputy Mayor Lewis or others. I would strongly recommend and encourage my colleagues to support this. I don't disagree with what Councilor Ferra said. would be nice to know in the next three years what their plans are and I have no doubt I've no doubt at all that they will tell us what their plans are they'll telegraph them fairly quickly because they'll understand when the economy is changing when there's an opportunity to fill buildings I'm sure they will build them so thank you okay any other speakers on this one okay seeing none we're gonna open it for voting me oh sorry stop I see councilor blows his hand up so we won't vote yet you can go ahead and speak that's okay certainly not anticipating to sway any votes here I think that 's the issue that we've always had we don't want to see vacant property going on use parking is a use but I think that's a conversation that's probably been had around this very horseshoe for 31 years of looking forward to a plan coming and at some point either we just stop with temporary and let it be permanent or we actually look for that application I think that's just my standing feeling about these temporary parking lots that we've seen across the core throughout my term on council and this report cites 31 years for some potentially on council that's almost their entire lifetime. Thank you. Seeing no other speakers for now can open it for voting. Thank you for closing the vote. Motion carries 10 to 3. Noting Councilor McAllister has left the meeting. Turn back to Councilor Lehman. Thank you Mayor. I'll put number 7 regarding 1057 to 1061 Richmond Street. on the floor. This was requested to be pulled by Council Raman. Okay, that is on the floor. I look to speakers. Go ahead, Council Raman. Thank you and through you. I'd like to put forward an amendment that I have circulated and I apologize to my colleagues for the late circulation, but I understand that the developer did also circulate a letter regarding my amendment. So the amendment that I'm looking to introduce, would you like me to read it? Yes, please. And I'll just confirm with staff that it's the alternative recommendation that I shared. And so with that, it starts with not withstanding the recommendation, the Director of Planning and Development, the following actions be taken with respect to the application of 100, 144, 36, 158, Ontario, Inc., Royal Premier Homes, related to the property located at 1057, 1061 Richmond Street, the proposed alternate bylaw attached here to as Appendix be introduced at the Municipal Council meeting June 23rd, 2026 to amend zoning by-law number Z1 in the Municipal Council meeting June 23rd, 2026. Sorry. In conformity with the Official Plan, the London Plan to change the zoning of the subject property from a neighborhood facility special provision bonus and F-114B-24 zone to a neighborhood facility special provision 14 zone and be it further result that pursuant to subsection 3417 of the Planning Act to know for their notice be given, it being noted that the above noted amendment is being recommended for the following reasons. I the recommended amendment is consistent with the PPS 2024 to the recommended amendment conforms to the London Plan including but not limited to the key direction city building policies and the urban corridor place type policies and three the recommendation amendment and facilitates residential intensification that is appropriate for the existing and planned context of the site and surrounding neighborhood. I've included an update to the by-law, and so that is prepared and ready. That includes in it two additional components that are under XII and XIV. The first one is maximum number of bedrooms were per dwelling unit at three and XIV maximum number of bedrooms on the property at 35. Okay, so I need to look for a seconder. Deputy Mayor, I assume you're not looking to second. No, actually, I'm gonna call a point of order, Mr. Chair. In my opinion, this amendment is out of order. It's substantively alters the committee recommendation by imposing caps that are not something that was in the staff recommendation, as was indicated by the communication where it received from the applicant. It would halt to the development, not approve it, would force them to go back, it would also potentially result in an OLT appeal . I think this is a substantive change and contrary to the committee's recommendation. Okay, so that's a point of order. I'm just gonna need a second on that one. So point of order was essentially not to allow the amendment because the councilor felt it was contrary to the planning committee's recommendation. So my ruling on this after consultation with the clerks is that although it could be substantially different, I don't believe it is contrary, even if it does have significant consequences for the developer. So I'm gonna let the amendment proceed as an amendment based on the advice of the clerks. And it is my decision, but that's what I'm going to decide. And certainly we can have a debate on the amendment. Should that fail? We'll have a debate on it. respectfully your worship I'm going to challenge the chairs ruling that as I expected you would so All right, so we'll do a challenge of the chair. So my ruling is that The amendment is allowed. So there will be a vote and that is Basically should the essentially is should the ruling of the chair be upheld So you vote yes, you agree with me that the amendment can stand you vote no Then what we will do is the amendment will not stand and the motion would have to be defeated first for Councillor to introduce the alternate. So but the but the decision that we'll make now, not debatable, is does Council support the decision I made to allow the amendment to stand? Okay, so we're going to put that on. Yes, is you agree with me? I know as you disagree with my ruling. Okay, we'll open that for voting. Closing the vote. The challenge of the chair is successful. The ruling of the chair is not sustained in a vote of five to eight. Okay, and by the way, I take no offense to that, it's a decision-making mechanism. So that means council has decided that the amendment will not be allowed. So to make your amendment councilor, we would have to defeat the committee's recommendation and then we could proceed with an alternate. So that would be the pathway before us. So I will, so what we're on is the committee chair presenting these committee's recommendation. All you did was rise and propose an amendment. So I'm gonna allow you to still have the right to speak to the main motion. You don't have to do that now, you can do it later, or you can do it now, but that's where we are. Oh, okay, Clerk says you should speak now 'cause he already rose and on the speaker's list, so we're gonna do that. Through you, thank you. I will start by asking my colleagues not to support the recommendation that's on the floor from planning today. And the reason for that, I think, well articulated in the sum of the letters submitted, including the one from Mr. Barrett and Ms. Smoot. In that letter, you'll see a summary of the reasons why the alternative recommendation should this motion fail, of which I would like to move or someone else to move to limit the bedrooms would be an important consideration. So in this summary that's provided it's explained that the policy context and the planning framework has not substantially changed since Council first considered the adaptive reuse and intensification of this property. As we know from this discussion, this item went to the OLT OMB at the time in 2013, and it determined that the appropriate level of intensification of this particular building was nine dwelling units with a total of 27 bedrooms. What we have here today is 17 units for discussion. What I'm proposing as an alternative is yes, keep the 17 units, but limit the bedroom count. The bedroom count would be limited by what we heard in the room at PEC during the conversation provided by the planning consultant Mike Davis. So the amendment would conform with the verbal commitment given by the planning consultant. That was three bedrooms on the nine already constructed units and in the basement and Yes, the basement, one bedroom or studios in the remaining eight units. So you have residents of the area who've had a chance to tour this particular building since it has been constructed. And they've given their feedback as well and shared that in your submissions. But you'll also see again in this summary that this is a reasonable opportunity to have a conversation around the kind of bedroom count that should be in a unit, in a development like this. The interesting thing about this proposal in front of us is we can't see anything. So we have to take into account what we heard in the meeting. What we heard in the meeting was a commitment that the three bedrooms, which are already constructed in those nine units should stand, and that the remaining makeup of the building should be one bedroom in studios. So I asked this question yesterday at planning as well. What happens when we hear from a planner, a planning consultant, or the developer during a public meeting on an application? The feedback that we heard, what we heard during that debate, I asked the question, what's the bedroom makeup? And I brought the amendment based on that. only to then receive communication from the developer not to constrain the plan by having bedroom limits. But I thought that was going to be the bedroom makeup. Do we know what we're agreeing to otherwise? So this is my concern. In front of us, we have the opportunity to make a decision that addresses some of the issues from the neighborhood, that addresses some of the concerns with an under-parked property, that addresses some of the concerns about having units in a basement, limiting the count on those units. So I do think this is a viable way for us to move this project forward. I'm asking not to support what's on the floor so that we can move the amendment, or sorry that we can move an alternative motion. Thank you. Okay, I'll look to other speakers for the item on the floor. Go ahead, Councillor Cuddy. Thank you, we're shipping through you. And colleagues, if you had been at the Planning Committee meeting, I referenced a similar development that we're seeing at the Robinson Church, and that was Locustmont, which was one of the oldest buildings in the city , which was raised to the ground. Raised to the ground because someone went in and lit a match and destroyed it. And colleagues, it was raised to the ground because no one cared about the building. It was one of the most historic buildings behind Eldon House in the city. It was on Talbot Street. Robinson Church is like that. It's a historic building, and the only way it can be preserved, and it has not been preserved, well, by the way, if you drive by and take a look at her, you've been in the building. But the only way it can be preserved is if it's developed. The current owners of the building have taken the time, spent the money, and the effort to put a ring around it, security fence, and have a 24-hour security guard there. They are making every effort to preserve that building . Yet, people have still gotten in there and have still tried to burn it down. Now, I don't understand the residents, and I've heard them, and I've spoken to them. I don't understand the residents' their concern. But colleagues, If this building is not preserved, if it's not developed, it will fall into a shampse or even more it will burn to the ground. What the developers have proposed, I think, at least, and I think we all agreed that at PAC, that this is a suitable arrangement for this building. This is a good project and it will preserve this property for decades or longer. So I would encourage you all to support the planning decision and move ahead with this development. I have Councillor, don't actually have a list. Councillor Trosoff and then Stevenson. Thank you, thank you very much through the Mayor. I really wanted to see a compromise here. Yes, this has fallen into disrepair. Yes, the owner has been, the previous owners have been negligent in allowing what amounts to demolition by neglect. And yes, there needs to be refurbishment and development in this building. no disagreement from me. I go by it every day and I hear the complaints from the adjacent residents about the bad condition of this building. However, that doesn't mean that I can support a development that is not well thought out, that is inappropriate and will cause substantial hardship to people, not only hardship to people on the streets, but a danger to the residents from being crammed into a basement. And I really think that this is the kind of development that we have to look at very carefully. And we have to take into account first and foremost the nature of this building and the nature of the stubbed street. And I love the term stubbed street because it is a stubbed street. You turn down Sherwood, you're gonna have a hard time getting out 'cause you're not going anywhere. And I just think that the resonance of this block have been very diligent over the years in terms of trying to allow an appropriate level of development without sort of overcharging property. This is what Councillor ramen has come forward with is a reasonable development that will allow an appropriate development of this site in a way that mitigates some of the harsh effects that the, I think ill thought out proposal. I mean, the question was asked at the planning committee, how many bedrooms are gonna be in this You can't get a good answer. And if we approve this, they can go to the next stage of getting a building permit. No, there's something missing there. There's something missing there. I also feel, and I've really given this a lot of thought, I do think that the OMB decision, albeit more than a few years old, is still a viable decision. There's really nothing about this street or this property that's changed. And I went through Mr. Barrett's detailed letter very carefully. And I think all of his points are well taken. So I'll be joining Councillor Ramen in asking you to vote this down at which point we can come back and put something on the table that is a reasonable compromise. This is not a reasonable compromise. So thank you very much. All right, Councillor Stevenson. Thank you. It's not a compromise when the other party doesn 't agree. And the people in my ward still are in despair around the McCormick factory, where we did the same thing. We allowed the developer some parts, but we wouldn't give them everything that they wanted. And then, they don't develop. And then it falls into neglect. And then the public's mad. And rightfully so, I think. Because if we can't make somebody do it, so they're bringing us a development proposal for a heritage church that's been sitting vacant for 13 years that is susceptible to vandalism, damage, fire, and neglect, and we're gonna lose it. They're willing to take over a heritage building with all that that comes with, with anybody who has a heritage building that knows. It's an experience. They're willing to do it. It's on Richmond Street. And we're gonna try to tell them how they should do it and how many units, and we're gonna end up getting nothing. And it isn't about cow-towing to the developer. It's about, we talk about trusting the experts all the time. Most of the developers want to build great housing, they want to meet the needs of Londoners, they want to do these things. This is an opportunity, and at the last minute, try to say this is a compromise when we just make changes at the last minute. It just doesn't make any sense to me, and it puts at risk that building, that location. The other thing I want to say, and I know this will be a little contentious, but we're gonna talk about it a lot today I think , is that there is a growing perception that different neighborhoods are treated differently. And so again, here we go again, where the Western University near-campus neighborhood is being catered to according to... No, but I'm just gonna say, I said there's a perception. So, Councillor Troz, you gotta use your microphone point of personal privilege? Yes, on behalf of my ward, and on behalf of my ward residents, I really think that's a little insulting. And I just think that she should moderate her tone here, I think that whether or not you agree with the positions of the neighbors, I'm arguing now, so I'll say. Okay, yeah, I don't argue. So the language catering to is, I mean, the council represents the area. He represents constituents there. We all, I think, I'll say to councilor Stevenson, I think you can word that differently and I would ask you to do that for the remainder of your comments. Thank you, and I'm happy to do that. This is, and I don't wanna argue the point either , but this is a very sort, what they call stubbed street, not concerned about through traffic flying through. We're gonna have several other developments that we're gonna talk about shortly, where residents are concerned about the intensity , the number of bedrooms, the traffic impacts, and it just goes through. And then there's other areas of the city where staff say, we don't deem it's appropriate here, Some we do say it's appropriate. I'm gonna talk about that later. And here, we're being asked to try to impose limits in this particular spot, but we're not gonna do it consistently in other areas. And I think that's an issue. I think it's a growing sense of inequity that there are certain sort of lower income, lower status, whatever you wanna call it, people don't know people in a certain neighborhood and that they don't get the same consideration from their elected council. So that's a perception, I'm not saying it's a reality, but it's a growing perception. And so I'm just gonna end on, I fully, I'm gonna support this. I appreciate the investment in our city in that heritage property. I think it's gonna be a beautiful place to live. And I'm gonna trust the developer. I hear that the basement has really nice big huge windows. I'm looking forward to seeing it when it's built, and I'm happy to support it as is. Thank you Mayor Lewis. Thank you Your Worship and through you. I'm going to start by saying my recollection in Councillor Robin's recollection of what happened at planning from the consultant's response are different. And I'm not saying that she's incorrect. My recollection, however, was that indication was the basement units would be smaller because of the constraints around renovating a heritage building. I don't recall a commitment to them being all one bedrooms. But there was an indication that they would likely be smaller. However, that's my recollection and I did not go back because we only received this amendment just before the meeting started to check the committee meeting. But I do want to, through you, ask our staff, not in terms of city-wide policies. Obviously, we have policies like the near-campus neighborhood. We have some other policies. But is there a planning basis on an individual address application for putting a cap on bedrooms in our official plan or through our zoning by-law processes. Just one second. And I'll just say, I know council can do it, but is there a planning basis for it? So we're getting into that answer, just to give it a second 'cause we have staff conferring. Go ahead. Thank you, through your worship. Notwithstanding the planning rationale, there was a cap at one point for bedrooms, but council opted to remove that. And that would be a council position, municipality to municipality University towns and that we've seen that across Canada. But having said that there's no planning basis for a cap. Go ahead. Thank you for that. Also through you, Your Worship, we heard the rationale for for an amendment is that the perception was the planning framework has not substantially changed since 2013. But is it not true through you to staff that the 2013 decision was made under the 1989 official plan. We now operate under the London plan. So there has been a change in our official plan. There have been three new provincial policy statements as well as our own amendments to our official plan since the London plan was adopted with the Heights plan review. So with staff opinion that there actually has been substantive change to the planning framework since 2013. Go ahead. Thank you through your worship. Yes, that's correct. that's the planning position on that. Plus, it's also in a strategic growth area. So that's a big shift from 2013. And also under the 1989 Official Plan, these lands were designated low density residential, recognizing these lands are now in an urban corridor. Yes, they may be in a preservation policy area, but it still would contemplate higher intensity. And this would be gentle intensification with no external changes. Go ahead. Thank you, Chair. So through you, But I think that right there underlines it. The rationale for the amendments is actually not supported by our planning staff. It doesn't have a basis in planning policies today. The planning framework has substantively changed. And as has been said by my colleagues, Councillor Cuddy, Councillor Stevenson, both referenced this applicant, who's only had the property less than a year, is willing to take on the risk of a heritage property with no external change to the building. So the changes are all internal. So it's correct to say, we don't see them ahead of time because there's no external change to the building. There's no extra construction going on. So the internal building configuration is a matter of going through the process of permits and fitting in what works as it moves forward. With 13 years of vacancy here already and the communication that we've seen from the applicants, you know, they've been working in good faith on this. And I think this is a wholly appropriate application supported by our staff. And I think that we should be supporting the committee's recommendation. I'll look to other speakers. All right, Councillor Hopkins. Yeah, thank you. First of all, I wanna start off with thanking Councillor ramen for trying. I think it's worth an opportunity to create development at this location. It's not about no development. It's an opportunity to have a compromise, support the community. We heard at PEC the developer is going to create bedrooms, smaller bedrooms in the basement. I think it's worth noting that there is no site plan process for this application. This is an opportunity where we can manage the amount of bedrooms. So I will be supporting an amendment if this recommendation from staff fails to put a cap on the bedrooms. The other thing for me that is an issue is that appeals matter, hearings matter, the development or the community did go through an appeal process. They already had to compromise. They had to settle in the middle. I'm surprised that that does not matter to us here at council. Why wouldn't that matter? Community goes through a lengthy process when they had the ability to be part of an appeal process, to spend time, money, energy, and then somehow meet in the middle to get a ruling from the chair. So I'm just really surprised why we here today would not try to support a compromise, allow the developer to continue to to develop, have the community meet again halfway . I am just really kind of a little surprised why we would not do that. Why some of us really want to put that stick in the stand and not move from it. So again, I do appreciate the will of my colleagues to try to work with the compromise. Other speakers to this? Councilor Ferra. Thanks, Mayor. I'm listening to this conversation. I think this is a good one. I like what I'm hearing about the striving for protecting our heritage buildings. That's something I'd like to see at council as much as possible. I have lots in my ward and I also understand that, you know, decisions are made that may not necessarily have the equity there or may be perceived that way and downtown definitely feels that from time to time. When it comes to this project, I just wanted to go to staff first. Like, with the way it is right now, like, are we going to see an increase in height or massing or the footprint or anything like that? Or is this development the way it's proposed is able to be constrained within the existing building? Could you just speak to me? Go ahead. Thank you. Yes, through your ship. There's no external changes to the property to the building. As you see it today, the conversion is within the internal part, so the property building, we've heard the basement units being added to. Go ahead. Thank you for that. So I understand the appeal to reduce the cap, I understand all that. But I also understand of everything else. It's a heritage building. It's not going to be increasing the footprint or everything about the building. And this is something that is going to save this potential heritage place. heritage place. I would love to have a development come to my ward with some of my heritage buildings that are right now suffering from that term demolition by neglect. I would say that. And that would be something that I would really love. Like, you know, trying to mitigate between community concerns and saving these historic buildings is something that would also something I would like to do. But I don't even get to that first step. So I would say with this application, I like what I'm hearing about heritage. If we can see that with heritage buildings in the core. I would like to see that. But the way this is, the massing footprint, the height is not changing. Pretty much the heritage building is going to look intact. This is an adaptive reuse. This is exactly what we're asking for all the time. I understand there 's going to be more residences there. And at the same time, that is a compromise. We are saving this building. We are able to bring in more housing. We are going to have a reuse of it. I would take that as a win if that was in my ward. I would take that as a big win. So I understand the concerns and the appeal to reduce the capping, but I'm going to support this the way it is. I think, I would like to see this in my ward, and I would like to see the sentiments for our heritage buildings come to my ward as well. Councillor Pribble. Thank you. I will start right away by stating that I will certainly support the recommendation by the committee. We heard that word here quite a few times, compromise, but again, compromise is without the actual person or company organization that's coming step forward and putting their money, their investment forward to actually make this building that was vacant for many years, etc . I drive by almost every day and I'm really happy that there will be something happening. But I can compromise without them. It's kind of what I always call about you, without you. And that's really the case here. So I really don't feel in terms of that us making a decision on compromise, there's no compromise on the table whatsoever. Because the other party, the party that's actually making the investment actually not present here. I do agree with most of the stuff that of the individuals that were stated here by the ones that are recommending the support of the committee's recommendation, because if I do look at this, again, the height, the width, the length, whatever it is, it actually stays the same. It stays the same. It doesn't increase. And this, I do realize that based on the type of the building zoning and near-neighborough or near-campus neighborhoods. I do agree or I do understand what's the maximum number of the bedrooms. But again, other organizations looked at this quite a few of them during the past years and guess what, it wasn't feasible for them financially. They didn't want to do it because of the heritage. We have someone that is actually willing to take this on. Are they going to maximize their opportunity? I'm quite sure they will. Are they going to do it within the exterior that 's currently there? Yes, they are. I will be supporting this and I hope there will be most of my colleagues will be supporting this application going forward and supporting the committee's recommendation. Thank you. Okay. That's all the speakers I have before me. So I'm going to open the committee's recommendation with voting. Close on the vote. Motion carries 10 to 3. Councillor Frank. Could we move a 15-minute break just because it's been a while? Yes, we can. That's moved, seconded by Councillor Ferreira. Let's do that by hand. Can I do by hand? I'm just going to do by hand. All those in favor? Any opposed? All right, I'm going to get everybody to sit down. We 're going to start again, including Councillor Layman . Okay, we're going to continue on. Thanks for the short break and we'll continue with the planning report. I'll turn it back to Councillor Layman. Thanks, Mayor. Going on to number eight, this is regarding 36 Weathered Street and and Councilor Stevenson requests us to be pulled. Okay, that one is separate. I'll look for any speakers. Go ahead. Thank you. So this one passed, I believe it was 3-2 at committee. I just want to be clear. Like the developer reached out to me that they are trying to do good things and build housing in our city and no detriment to them. But what I want to understand through this five minutes that I get is how are our policies being applied in such a way that people, residents of London, understand and know what can be expected to be happening on their street and in their houses beside them. So in this case, this is a quiet residential street, larger lots, older homes. There are seven houses on this little stretch of this street before there's a little curve it keeps going. I didn't realize that the house right beside this development had been taken down and there's the entire property has got units on it. And then four down a house was taken down and there's townhouses now again the length of the backyard. So when I read like in this motion in this, it says the recommended amendment is considered compatible with the surrounding neighborhood. And yet on page 208, it says policy 969 of the London Plan further discourages forms of intensification within near-campus neighborhoods that are within neighborhoods that have already absorbed significant amounts of residential intensification and/or residential intensity. So we've already got two of the seven homes that are now intensified. This would potentially be a third. That would be three out of seven. At what point would staff determine that it would be too much and that the next planning application would not receive recommendation? Well, I can see if our staff can give some sense of that. I think every application is individual, but I'll go to go to our staff to see what they can say. Thank you through your worship, yes, that's correct. Each application is reviewed on its own merits. We do look at the full policy framework, as you've mentioned under that policy 969, but we also have other council direction in terms of additional residential units and what that means in terms of neighborhoods and basically spreading housing and intensification across the entire city. So we're gonna see that through council's decision within neighborhoods. Councillor Stevenson. Thank you, I understand. But again, it's policy that's being applied. And so I'm just wondering, is it like 50%, once more than 50% of the street was intensified, then that would be considered, is there's any kind of a ballpark that we can share with residents? Thank you through your worship. Again, we reviewed on a policy by, a case by case basis based on the policy framework. We look at aspects in terms of cumulative impact, whether it's traffic, servicing, and the capabilities of what sites can take. And in this case, staff are recommending approval of it. And as other sites within this neighborhood, and we have seen this within neighborhoods, and through council direction, we'll see a little bit more uptake across the city. Go ahead. Thank you. What I'm trying to get at, though, is we've got these policies. Londoners are concerned. They're concerned that they're gonna have, that the street is going to be turned into high- density housing. The other part of policy 969 says continuing-- our London plan discourages forms of intens ification that continue an ad hoc and incremental trend towards residential intensification within a given street, block, or neighborhood, rather than a proactive, coordinated, and planned approach towards residential intensification. So I'm wondering what plans or how are we gonna ensure that it's not gonna be ad hoc in this neighborhood? Go ahead. Thank you through your worship. The planning was done based on council's direction, looking at additional residential units. For example, and that's the planning that would be expected in residential neighborhoods, including this neighborhood. Go ahead, Councilor Stevenson. So any neighborhood can expect to have potentially all of their homes filled with residential units that take up the vast majority of the lots. That's what we're telling Londoners. Good, thank you, through your worship. We'll be looking at it at a case-by-case basis, as I mentioned. In terms of some neighborhoods, there is opportunities for transition to accommodate more intensification. And when we're talking about intensification, we're not talking about high-rise buildings. We're talking about gentle intensification for units on a property. Again, it's based on the size of the property, site functionality, access, and other site matters that would make the sites viable for development. Go ahead. Thank you. And I'm gonna keep pushing here and I apologize. But this is a 24 meter frontage. Like this is not a big area. This is the third home in seven homes that is gonna be basically the entire lot turned into housing. So staff, when they make this decision, are looking at the neighborhood, and I'm asking you to share with this particular neighborhood because you've looked at it a couple of times now , what is your vision, what is your plan, what is the policies, what can the residents expect? Just ballpark. Thank you, through your worship. In some neighborhoods where it's already as a right zoning, that would happen and they would be able to apply for building permit. There are some sites that may not meet the zoning framework, and so that's why we would look at it on a case- by-case basis. Go ahead, Councillor. Thank you and through you. This is eight units. Eight units on a, you know, what people would not call too big of a lot. And you're saying case by case, this one doesn't meet the requirements. We're doing 80% of the minimum front lot and 83% of the front yard. So again, I'm just gonna ask because there's a couple of houses for sale on that street and now the rest of them are saying maybe they should leave too If this is what's going to happen, then they might as well free up the properties for these higher density. I don't know if there was a question there. You got about 30 seconds left. The question is that particular neighborhood has been evaluated and staff have said they see it as compatible. So at what point is it not going to be compatible ? So I can go to Ms. O'Neill again. I think you answered it about case-by-case or servicing there's lots of considerations, but go ahead. Thank you, through your worship. Yes, and that talks about that cumulative impact that I was talking about. So at some point, as you've mentioned, that there's a threshold. But for this particular application, it meets the policy framework. Councilor Stevenson. We just had counselors willing to go against staff recommendation on a few units that didn't change a footprint. This, if you look, the couple was here. They have their little baby. They've got this nice little property. The house is pretty much on the property line. And now they're gonna have this big development beside them. And beside that is another big development. and four houses down is another big development and there's two houses across the street. We're running into problems here without it being clear because people could be buying a lot. Time's up. All right, other speakers to this matter, okay? Seeing none, that I'm gonna open that for voting. Closing the vote, motion carries 10 to three. That's a layman. Thank you, Mayor. Moving on to number nine. This is regarding nine, two, and nine. Cheap size streets, I'll put that in the floor. Okay, that's on the floor. I'll go to speakers on this. Go ahead, Councilor from Stevenson. Thank you, this is another one in my ward, and I'm gonna keep coming back to this. Londoners are asking us to be clear. What is our policy? What can they expect when they're purchasing property to develop, or when they're purchasing property to live with, raise their families, or for people who've lived in neighborhoods for a long time? This is coming across as very inconsistent. We're willing to, we wanna reduce neighborhoods or a number of bedrooms in a building that where the footprint doesn't change, but then we're gonna put three out of seven on one street. And then we've got this development, which was-- Okay, I have a point of order. Thank you. I'm rising on a point of order. I'm not sure what the counselor's debating right now. Can she stick to the matter that's on the floor? Yeah, so the thing I heard that is not really related to this is counselors made, well, there wasn't even counselors who made a motion. So you're raising a matter about changing possible bedrooms It wasn't even allowed to be on the floor by council decision. We voted on the actual development. So if you could keep it to the matter before us and not things that weren't even motions on the floor, but something a councilor wanted to do. Many counselors want to do many things. The decisions we make here is, you know, the decision-making of the group. So if you could keep it focused on that, I'm going to say the point of order is dealt with and I'll let the council debate the issue that's before us. Chair, the councilor can withdraw her comment. Do you just save which comment to be withdrawn? her comments that were not related to the application that's in front of us. So I would usually have a comment that was a point of personal privilege withdrawn. I think your point was more a point of order to stick to the topic at hand. I don't think I need the counselor to actually withdraw that to continue on with the debate. So the counselor chose that. Then I'll make a point of personal privilege because that was in direct reference to the one that just came up in my ward where I was speaking against an application where there was no change in footprint. And I'm just gonna leave it at that and you rule on it, but I just don't think we have to be this divisive. Okay, so let's just settle this down. So lots of people want to call points of order, points of personal privilege. Point of order is with respect to, is the member following the general rules or practices? Councilor ramen raises the point of order. Yes, we got to stay on track. We got to debate the things before us. I address that. Councilor Troso, a point of personal privilege is really something that negatively affects the rights or privileges of council members or council as a whole, despite other pending business before council. So like, I get that the councilor and your comments are not in alignment. I didn't hear anything that was, I mean, it could be not directly related, which I've actually addressed, but I don't think it was restricting your right to have said what you said before, or to continue to say it in the future. And I will continue to make sure it's done in a very respectful way. But I think counselors can have disagreements of opinion. They can say they disagreed with another counselor's opinion. You can disagree with that. Counselors, as long as it's done respectfully, that's to me is part of the debate and decision-making process. So I agree, we could, counselors, keep their comments focused and respectful. We're gonna be really efficient for the rest of the matters before us. And if not, we're gonna deal with points of privilege and points of order, and I'm happy to do that, but I think we can all just focus on the actual debates, keep the subject of that debate really rooted in why the matters before us. In this case, they're planning items, there's lots of planning reasons that you can before or against something. And if we keep it in that space, rather than even getting into other council's opinions, I think we'll be in a much more efficient way of speaking. So that's my general caution to everybody. I'm gonna say not really a point of personal privilege because I don't think your rights were really imp ugned there. Councillor Stevenson, you can continue debating this item before us. Thank you. I'm asking for colleagues support and saying no to this development and I'm bringing up for comparison. We've got a neighborhood here and some of them would have been here to say, hey, I hear Council saying we've got this short little stub street and we're asking to talk about reducing bedrooms. Then we've got the development in Stony Brook where it was within the height. The number of stories was approved. The parking is about the same. The lot coverage is the same. The density of units per hectare is actually 358 units per hectare in curling heights. In fact, the original one that staff recommended was 420 units per hectare. Whereas the one on Geary in Stony Brook was rejected as two intents at 235. So I get to answer to the residents in Carling Heights to say, "Why is staff saying it's too intense in Stony Brook, but it's not too intense in Carling Heights? Why is Council wanting to reduce the number of bedrooms in a church that doesn't change its footprint and they're not concerned about what I'm saying." So, Councilor, I'm going to jump in because no one is reducing the number of bedrooms in that development. That's the part that I need you to say focus on. The Councillors are suggesting that they might want to do that, but there was no motion even on the floor to do that so I would say that 's keep it relevant to this debate like because that wasn't even a matter that we even considered it didn't actually make the floor in fact a majority of counsel said it wasn't even a valid amendment so we did not do that we didn't even consider it we didn't even really debate it we debated the main motion people referenced something alternative they want to do but that actually ultimately passed and there was no motion on the floor so I think that's the part where if we can keep it focused on this and not bring up things that are speculative or even attributing those things to something Council did when we didn't actually do it despite the fact that some Councillors would have liked to, we got nowhere near making that decision. Thank you. But I'm saying that these residents watched their mayor and four Councillors willing to consider that because of the concerns of a few residents, even when the two neighbours closest to that supported it. So it is relevant when we've got lenders who are saying, why not us? Why aren't you listening to us? How can you go say something as too intense when it falls within all the parameters? And here you're saying that it's okay when it falls within all the parameters. Lendeners are concerned about the policies that this council has put in place that are raising intensification in their neighborhoods. One of the biggest reasons why I said no to this is because the Heights Review framework that came in August and was passed by Council in September of 2024 was not transparent. It wasn't transparent to the Councilor and I'll own that I didn't know what was happening. And the public certainly did not know that these heights had been raised on corners in their neighborhood. And I'm a firm believer that if it's the right thing to do, not everybody's going to like it, but we're going to do it publicly and say this is what's happening. We believe it's the right thing and we're going to do it. So I'm asking for this council tonight to say no to this because out of equity and out of fairness, we get to have a look at this. We get to talk about how we're applying and who whose residents and what neighbors we're listening to and what ones aren't. And this is an equity issue as far as I'm concerned. So I'm asking for council support and saying no to this. It only passed three to two at council or committee. I do appreciate the fact that the developer made changes and modified it. It's still, most of these neighborhoods have spoken really eloquently, they've said they're not opposed to change, they're not opposed to development, they're asking for the lower height prior to this council putting through the Heights framework review, without talking to them. So that's what they're asking for. With Geary, staff made it easy, they said no, made it easy for us to support. I'm asking for consistency in this particular meeting at council to say no to this one. And then let's talk about this more about what -- so that lenders have a better sense. Not -- they don't know exactly what's coming, but they have a better sense of what's happening in their neighborhoods. This group did a great job. They were here. They've shown up at meetings and -- and I don't know what else to say except to say I don't know how we can support one and not the other and if it's site specific then I guess this council right now is going to decide whether this is appropriate for Karlic Heights and whether the residents around this building should be taken into account as much as the ones on Richmond or on Vancha. Okay I have Councillor ramen and then Deputy Mayor Lewis. Thank you and through you Mayor. Let me start by saying this. When I make a decision at council and I'm speaking for myself. I make a decision taking into consideration the entire city and not just one part of the city. Yes we represent boards but we represent the entire community. When we're asked to look at a development application we're not applying an inconsistent approach because it 's in a certain neighborhood. I'm not. That's my opinion. The counselor and other counselors have opportunities to move amendments, to make different decisions, to bring issues to their residents, to talk to their residents, to move things that are different. What I saw with this application was I saw a referral come for our first. The referral, which was supported, to then bring back another proposal, working with the developer, that's what we have in front of us now, is is this recommendation, that's what's on the floor, that's what I'd like to debate today. I'm not supportive of what's here, and it's not because the counselor has highlighted an equity issue or a perceived equity issue. I'm looking at it from the perspective of what's in front of me. I see, and again, I brought this up during the debate at P.C., is that we are presented with a support for the recommendation on the height, but the special provisions are not clear to me in terms of what will come back. And so for that reason, I'm not supportive. What I see is either, and I have had a chance to talk to the developer about it, I see a building that I'm not sure how it gets to the same six stories with the footprint. I still think the parking's inadequate for the area. I still see some issues with it here and that's why I'm not supporting it. But these other issues, comparing neighborhoods, why divide the community when we can talk about the planning rationale and the planning information that's in front of us. Don't understand that rationale, but I will debate the issue. I will look at it from the perspective of what's in front of us. And I've been clear that I'm not supportive about the application. Thank you, Mary Lewis. Thank you, Chair. Sorry, I'm just trying to get my video working here. Okay, thank you, Chair. I wasn't gonna speak to this. I said my PSAT committee. However, I have to speak to it now because I didn't call a point of personal privilege. I perhaps should have. The Heights Plan review was absolutely transparent. it was subject to the same public participation meeting, same sort of notifications and public announcements that this actual planning application was. It followed the same process that the Urban Growth Boundary expansion and other matters that come before PEC take that, and I agree with Councilor Rollman, if Councilors didn't feel that was enough, they always have the opportunity to do further engagement with their residents. Councilor Rollman and I disagree on this one, but that's okay. expect where she's saying she's not comfortable with the parking, and we just had a discussion at Peck yesterday that will come to the next council meeting about changing the parking ratio again. But we have to evaluate this occasion through the planning rules that are in place today, which say that this has more than sufficient parking because it is above the .5 ratio. It also says the six stories is allowed based on the street classification of cheap side under the London Plan Heights review that was signed off by this council in 2024 and by the province in 2025. So we are being consistent with our decisions here. And that's why I supported this staff recommendation because it approves the height, the zoning, but it still says you can't be this close to some of the setbacks. You have some things to work out in your design detail here. And maybe that means that units won't have balcon ies on one side. Maybe it means that they're changing the orientation of the building on the property slightly. But that's a matter that can be resolved through site plan without requiring special provisions if they can meet that. Maybe they'll reduce the units further by another unit on each end, I don't know. But that will be up to them to decide through the detailed design and site plan process with our staff by not giving them the special provisions. To refuse it based on the height or the parking is not actually supported by our official plan. And so I would encourage colleagues to support the committee recommendation here. And I would also really echo your earlier comments that we need to be cautious. I chose not to use the point of personal privilege this time 'cause I don't want this meeting to go till 11 p. m. tonight. Let's be careful about what we're saying. Okay, other speakers to this matter. Go ahead, Councillor Frank. Thank you, yes. I'll be supporting this application. And I think that the improvements that have been made since the referral demonstrate that the developer is willing to make some adjustments. I was happy to see the open space move forward and meet our 30% minimum. I also would share that a long ride out, which is also a neighborhood connector. We have an 18-story apartment building, a couple 12-story apartment buildings, a 16-story apartment building. So for a similar road type, we have in Old South, a variety of apartment buildings that are much, much higher. And they are surrounded by single-family homes. And they fit in nicely. There's a bus route. There is bike paths. and both this cheap side application, as well as those ones I'm referencing, are about 10 minute walk from commercial areas close to schools. So I do see having apartment buildings in areas with single family homes to be quite nice in some areas. And I think it would be nice in this one too. Any other speakers to this matter? Go ahead, Councilor Trossa. Thank you, Mayor, through you. Many of the points I wanted to make were made by Councilor Ramen, but very well. I'm not gonna be supporting this application. And it's not because of, I'm not gonna be supporting this application 'cause I think it's inappropriate for this neighborhood. And that's not a real technical way of going through all the different criteria, but I go through here all over the time and the houses in that area, not only are they detached single family dwellings, but they're small, they're small. This application is gonna just totally transform in a negative way, the look and feel, and just how people relate to this neighborhood. And I think it's sort of like it's going to be a placemaker thing, because I think we're going to be seeing other ones. And I sort of, I liked the way this neighborhood feels. I would prefer to see a little bit more maintenance done in some of the units, particularly some of the rental units and some of the units held by absentee owners, but for the most part, I think this would be very disruptive. And I don't think saying, well, that's what I think. But the point I want to stress is my opposition to this is not based on anything other than my feeling about this file and this file only and you can disagree with me on my assessment of this file. Most of you probably would as we'll find out when we do the vote in a few minutes. But like this is a heartfelt, honest assessment that I'm making that I cannot support this project. So thank you. Hey, any other speakers? Yep, Councilor Preble, go ahead. Thank you, Mayor. Even though I will be passed on, but on the issue that we're mentioned here, I do wanna mention a couple of things. And again, maybe for their neighborhood as well. That's up here. It was stated with another-- sorry, with another application that I was seeing earlier. I think the biggest difference is if you look at it, is that one looks at how many units per hectare. So again, this one is almost half of the other one. Was the other one was 395. This one is 235. The other one had a height, higher, et cetera. But so I really don't think, again, no two projects. No two infilles are apples to apples. but there's a really big differentiation. There really is, honestly, one thing is I want to know, we already heard that some of the counselors that said, and I'm absolutely on the same page in terms of, I don't really make my decisions based on the neighborhoods, or, you know, which part of London it is. But also, I want to say one thing is the staff. And if you look, every application starts with the staff that's based on housing policy, the concrete facts, and that's if it's a refusal, recommendation, whatever it is, it's black on white based on the policy. And they go by the policy. We can support it. We don't have to support it. But there is no way I will ever agree that other staff, or certainly speaking on myself, that I will be making decisions based on which part of London it is. Yes, I can say that if it's in our ward, I believe that we would fight more, which is again, there is nothing wrong with it, because guess what? Those are our constituents and we do go, We go for everyone, we go extra mouth, for our ward, we go extra two miles. I do understand that, but I really wanna clear this that I totally don't believe that any one of us nor the staff would make such decisions. That's not true. I do, I will, what's in front of us. And I do agree that there are certain things that are, again, what I call maximizing the opportunities. But similar, what Council of Frank said few minutes ago, I did see the progress in terms of what it was made and I will be supporting what is in front of us. Thank you. Any other speakers? Okay, seeing none, we're gonna open this for voting. Opposed in the vote. Motion carries nine to four. Councillor Layman. Thank you Mayor. Moving on to number 12. This is regarding Councillor Robbins' third party appeal mechanism and the Councillor has requested as people. Okay, that's on the floor. I'll look to any speakers. Go ahead, Councillor Robbins. Thank you and through you. I was looking to move an amendment and it's the amendment that was discussed or put on the floor by the mayor at that meeting and I'm just wondering if I could read it. Okay, that municipal council endorse the following actions with respect to third party appeal mechanisms during the Ontario Land Tribunal process A, the mayor be requested to write today Association Municipalities of Ontario requesting that it consider advocating for the restoration of a limited third party appeal mechanism to the Ontario land tribunal that I applies to individuals residing within the statutory notice area who have demonstrated prior participation in the municipal planning process. I I incorporate appropriate safeguards to discourage frivolous, vexatious or delayed driven appeals and I I support the province's objective objective of facilitating timely and efficient housing development and the communication be received in the rest of the motion. >> Sure. So you want to put that on the floor. That was what went to committee and did not proceed. I'll second it just to get it on the floor, so you're moving it on all second. So we can have a debate on that. Do you want to start the debate? No, you're going to preserve your, okay. I'll look to other speakers on this. Go ahead. Definitely where Lewis. >> Thank you, worship. I'm just going to repeat what I said at committee, but I'm going to emphasize it in light of the discussion we had yesterday around the GMIS, and questions raised about the province making us whole and discussions happening not just in London but at AMO about that commitment. We can't send a letter to the province on every issue and I don't think we are doing ourselves any favors by having you send a letter to AMO saying advocate for this. I think it simply goes to AMO gets probably bogged down there in the 200 other things that municipalities are asking able to law before, and even if it saw the light of day, when we're asking the province to make us whole on D.C.'s to develop housing, like asking them to restore third-party appeal processes at the O.L.T., flies contrary to asking them to make us whole on D.C.'s when they're trying to streamline housing processes. We know that the third-party appeals created a huge backlog, a huge amount of red tape, and complaints across the province. I don't think that this is an area where we should be poking the province and saying, "Hey, you did a bad thing, you took away these things." Well, at the same time, saying to the province, "By the way, you want us to speed up housing, you want us to make it more affordable, you want us to cut DCs, so make us whole." We can only ask for so much at the end of the day. There's only so many lobby positions and meetings that you can have at AMO or yourself your worship with the minister or any of us anywhere. We have to recognize that the province has made a decision. We can write letters to them. They're not going to change it. Let's be pragmatic about that. And so I don't think that this is a good use, frankly, of anyone 's time. And I'm just going to leave it at that. I won't be supporting this. Other speakers. Go ahead, Councillor Trust. Well, through the mayor again, for me, this is a question of fundamental justice, access to justice, not closing the courthouse door to litigants because of the side of the dispute that they have beyond. When we have these contested hearings, quasi-judicial proceedings, people should not feel that they shouldn't raise issues because if I raise my issue and I prevail at council, I'm going to be taken to the OLT. That's a club. Appeal rights are not supposed to be clubs. They're supposed to be mechanisms that the parties can use to correct errors or prejudice below. And I feel that this entire provincial administration in its intensity to want to do something fundamentally good and that it's built more housing has gone too far. And the one place that they've gone too far that I feel very strongly about is that you don't take party's procedural rights away. You don't say well there's too much crime on the street so let 's just say people can't file appeals anymore. You don't say there are some bad tenants and some of them don't pay rent. So you therefore take away their ability to seek procedural justice. And in the case of the OMB, the LPAT, and now the OLT, it's the same thing. People need to be able to make the arguments. And yes, if you're making a frivolous argument, the board has all sorts of mechanisms that it can already use to discourage that and sanction you. And it will do that. They have done it. And I know, as somebody who's appeared at the OMB, that you want to be careful when you raise an appeal to the OMB. You wanted to have some sort of basis. Now the problem with the way the procedure works now, and I was corrected for a little while, but now we're back to de no-go hearings. And I think that if we were looking at you want to get to do these appeals, if there's been some type of jurisdictional issue or law, that's one thing. But now we're back to the old OMB rules where there's a de novo hearing, a new hearing and I just think that like to take people's appeal rights away is it's just a violation of fundamental rights and I have no doubt that if somebody wanted to litigate this and let 's face it, who's going to litigate it? You're a neighbor and you've lost at City Council . You probably don't have the means or the wherewithal or the time to be able to launch a challenge but we should be asking the province to act in accord with fundamental principles of justice and in saying, well, there are other things that are more important. Maybe to you, there are. But these are important rights that all of our rights bearing residents have. So this is not good, that people can't follow procedural rule that should go without saying. And if you're wrong, you'll lose. And if you do something frivolous, you'll be sanctioned. But you don't take away the litigation rights of an entire class of people because you want to rush things through and you want to build more housing. So with that, I want to thank the mayor and Coun cillor Ramen again for bringing this forward. I think this is definitely something that we should be raising at AMO and other places. And I feel very strongly that we have to at least give people their day in court. Thank you very much. other speakers to this one, go ahead Councillor Hopkins. Yeah, thank you Your Worship, and thank you for committing to do this, and thank you Councillor Raman as well. I'm very supportive. I'd like to more or less just start with the rights that individuals have, and that was taken away. When I speak to a number of residents, they're quite surprised that there is no appeal process that they have, the public participation meeting with an OZ change is their only opportunity. They don't even have a site plan process. Sure, we could put a H5 on, but a lot of their rights have been taken away. This gives the community an opportunity. And an appeal process is a lengthy costly. It is a process that individuals take seriously too. I would really like to see what the numbers are that we're slowing down the development process of all the units that we must build by not doing this. It just seems, it's quite obvious that we should have a mechanism there for individuals to have rights. We just had an application that we decided not to even listen to an OMB hearing and a decision. Councils have that right to decide if that is an important decision. Yes, our planning policies change. But there are opportunities, and I think the most important opportunity here, in fact, there's two important opportunities. It's the rights of individuals. But the second part is, at AMO, we did have conversations. There are other municipalities that are bringing forward motions and having support. So with those voices come louder and stronger voices. So I think Councillor Rallman and the Mayor for doing this. Others because of this, go ahead, Councillor Ferrer. Thank you. So I fundamentally agree with this. Bill 23 and 185 definitely remove some of these appeal rights and the voice of the community was kind of lost in that. But I would also say that there is also a level of appeal here. I kind of saw it was hinted at here that still exists, and that is at council itself. We have planning applications for zoning by-law amendments. We need public participation meetings, and there is an appeal process happening right here with us. So we still have the ability to make decisions and also hear those appeals before that comes through. So I just wanted to highlight that as well, because there is some accountability here for us as well. And we have the ability to hear and make decisions. And we are talking about something after the fact , after a decision that's made here. So to point that out, I agree that we do need that extra level of protection. And I understand that we had it before. It gives the rights of individuals to be able to express their voices and their opinions. But that level is here as well. So I just wanted to point that fact out. We have the ability to. So there is a democratic layer here that exists with us amongst us here. Councillor Stevenson. Thank you. I'm not gonna support this at all. And I honestly find it a little ironic how often we want to tell the province what they should do when we aren't utilizing what we can do here. We were talking about asking to give our residents their day in court to appeal our decisions. what they want, their day at council. They want this council to represent them and make the decision in their best interests. So to give them the right to spend the money and the time and everything to fight what we won't do here for them, it doesn't make any sense to me. If we believe that they have a voice worth listening to, we should be responding. And if we feel that we have responded appropriately to the majority of Londoners, we shouldn't see the value in them going to another level at time and money and slowing down something that this council has done in the best interest of the city. So do we not believe in the decision that we're making and so we wanna give residents the right to overturn us? Or is this about giving them the power without taking the accountability ourselves? We're passing the buck to them, you fight it. We're not gonna do it here. We don't get to say, the province makes their choices. I don't want to listen to all kinds of organizations sending us letters telling us what to do. I don't think the province wants it. It doesn't help in our advocacy efforts. I don't think to be continually telling them they're the problem. When they're saying, it's your council, it's your city, make decisions that serve your residents. Why would you want us to have the right to overturn you? Why would you do that? Do you not have the courage to make your own decisions or do what you you think is right for the residents? I'm not sure where the, I'm not sure what the selling feature is on this, but to empower residents to spend a lot of time and money overturning the decisions that this council has, you know, made in the best interests of our city, doesn't make sense to me. And the province isn't gonna be listening to this anyway, so is it just to say we did something, to say that they should have, that the province should be doing something, lenders want us to do something. They want us to stand in our decisions. If we think it's in the best interest of the growth of our city, then we get to defend our decisions to our residents. And if we can't do that, we should be making the decisions here. We keep being told, we can't go against staff, because then they'll just take it to OLT. And take it to OLT. If we don't think-- if we're acting on behalf of residents, let them take it to OLT. Why are we so afraid of it? And yet, we want to empower our residents to go through it. I'm interested in the mayor and the councilors reason for this, but I don't see any reason to support it at all. And I think it's not a very good luck to London ers who are asking us to be leaders here. The speakers, oh, Councilor Pervil, sorry I had you on the last slide. That's twice I did that to you, I'm sorry. I heard that we have made decisions today. Absolutely we did. What did we base it on? No, we don't have the expertise, but guess what? The people I trust from us, they do. And guess what? They have the same housing policy, they have the same bylaws, just like OLT. If I look at during the last three and a half years, that's actually, I do understand that there are certain neighbourhoods that are not happy with some of our decisions because it's a change to the neighbourhood. But if I think that's one of the things that Council did when I was darning three and a half, four years ago, one of the top two was housing, housing availability and housing costs. And I think that Council did, again, I'm looking not prospective from one, two neighbourhoods, I'm looking from the perspective of half a million Londoners. We could have been better, no doubt everyone can be better but that's a path that we certainly have progressed on and we have delivered maybe not 100% but we have and there's no doubt that I will argue with anyone that supply and demand in this case is number one reason absolutely it is because the supply is up demand is either stable or lower and now people that there are you know, both prices of the housing doesn't matter if it's purchased or if it's rental, it is down. The other thing is, again, going back to it, if you think about how many good projects we have approved and how many neighborhoods we had up in the gallery that they weren't for it. All those, if they were to go to OLT, everything is delayed by 10 to 12-month. Where is our economy? Where is the pricing? And this is the thing that we really have to look at the big picture. and I really think that in this decision, I'm all for freedoms, absolutely. Especially with my background coming from my communist country, I'm all for freedoms. On the other hand, we are here to push and to deliver for half a million of land res. I'm not supporting this. I really think what was what I just heard from my colleague, Councillor, when she was saying that it is in our power and we can, it's up to us to make those tough calls to tough decisions. And yes, if there there are certain things that are neighbourhoods. People, they do have the opportunity in public participation meeting if they want us to go any further. We are all there to listen to them and to see potentially if there are any other options to do it. But again, I don't like passing the buck. Let's take the responsibility. Let's not delay. Let's move, keep moving our city forward. And again, if I look at this, and the economy is very, very tough, the situation worldwide, just in London, just in Canada, and this is one of the few positive economic factors that we had, and that's what residential development. And I do understand that there are certain individuals that they might not be, their developers are not their number one favorite person in the world. On the other hand, I have to look at this, and they are the ones who are making the easements, putting in their money on the table during these very tough times when everyone is looking at the dollars, flipping it left and right, back and forth, if they are going to spend it or not. So actually, they are investing. Are they maximizing their opportunities? Yes, they are. Would I prefer sometimes that they choose a different location or less density? Yes, I would. But on the other hand, we need to move our economy forward. I will not support this because I do believe that we are on the right track. And the last three and a half years, we have delivered on this Londoner's ask us for affordable and more housing options and we have been delivering. Thank you. Other speakers? Councilor Robin. Thank you and through you, a lot of what I'm going to say is contained in the letter that I submitted on the PEC agenda. But I just want to remind everyone how we got here. The first is I want to say thank you to Windsor City Council for their leadership on moving this issue forward. I think it's important to watch other decisions in other places and provide support when we see something that we align with. And so I want to talk a little bit about what Bill 185, the cutting red tape to build more homes act in 2024. So a very recent decision. I want to talk a little bit about that impact. So when we lost or when our province lost the Ontario land tribunal process being open to residents, it's really important that we understand that this isn't something that has had a long standing time to take hold. We have the ability. It's something that we should do with our own decisions as we try to. Report back. Find out what the temperatures like out there for a decision we may and make corrective action when we've made a decision. Perhaps that doesn't support its intent or that maybe we realize has unintended consequences or has other outcomes . And I think in this case, what I see why I wrote this letter, is public confidence in the planning system isn't the same. We feel it. We're feeling it. Public confidence in the planning system is strengthened when residents have their ability to participate. They participate here in a meaningful way. And then from there, their concerns can be fairly reviewed. I don't think taking the appeal mechanism had all of the outcomes that the province had intended. And I think what we're looking for here is to alter the balance again. So the current framework has altered this balance . It has created a situation where the developer is the only one that can go to the tribunal. And again, I'm not sure how that can continue and why we wouldn't want to push back on behalf of our residents to say, there is a way to do this, to alter the balance in a way that positively supports resident engagement by way of just allowing them the opportunity to have a voice. And again, what's put in front of us today is to consider it a limited ability to have a voice, so that you live within the area that's affected. I think that's a good thing to add to the process . But here's the best part. The province has lots of policy makers. They have a lot of opportunity to write this, the right way that they wanna see it so that they can encourage housing development, but at the same time here, residents voices. We don't have to create all the situations for them to do that. I'll tell you, we are here, we're sitting in this room and we're doing our work today. Our province is not. Our government right now in the province of Ontario could be working on this. And I think it's fair to say that by sending something to our association to say, hey, we have a clear position across the province, that multiple cities are standing up and saying that these appeal rights matter, gives them pause moments to pause, maybe gives them some things to work on. Thank you. Okay, I have myself on the list, so I'll turn the chair over to Councillor Ramen, I think, since Councillor Lamey's presenting. Thank you, I have the chair. Go ahead. Sure, so I appreciate the comments of Council Raman because you're gonna make my comments a little bit shorter. First, I wanna recognize what is being asked. It's not a return to what the status quo was before. It's a recognition of the reasons the province made the change in the first place. Problems was dealing with a series of, you know, frivolous, vexatious, delayed-driven appeals that were basically bogging down the system. And they're looking to get rid of that. And if you look at the motion, we recognize that any sort of change would need to incorporate mechanisms to ensure that's not the case. The other piece here is in the things to consider that AMO could consider, should they even want to craft a position, is that it should be individuals residing within the statutory notice area. People should not be going across the city on the other side of the city that isn't even in their neighborhood and being able to appeal something simply because they don't like it. But if you live right beside a development, and the person building that development has the ability to go and present their case to a parental body, why shouldn't the person beside the development be able to do the same thing? Now, for the Councillor to say, hey, let's make the decisions here. I'm all for that. Like I like local decision-making. We get rid of the tribunal altogether and have all the decisions of council stand. Like that's fine with me. We could debate everything here. That's not the system that we actually have out there. If someone wants to go that direction, I'm happy to have the debate on that particular motion. But I cannot imagine that having someone who is a neighbor have the right to go and make a case for the development beside their house and empowering them with those rights isn't somehow something that's negative, right? That it's just, to me, even asking to pursue this is something that empowers residents who are immediately impacted to have a right, while recognizing that we have to support the province in ensuring that this doesn't slow things down. The other piece here too is, Neither of us are asking for the municipal council to go to the province directly on this. I agree that would not be a good use of time. We've got lots of ask before the province. We're not even pointing this towards the province . We're saying, listen, there's some other municipalities carving out positions on this. These positions are best defined if debated and discussed as municipalities as a whole. In AMO, when all the municipalities can have a discussion, like, do we even want this on our agenda as one of our issues, right? So that is what the ask is before us. It's not going to the province directly on this. It's listening to what some of the residents have said. There are many residents who are surprised. We pass a development today. It's probably residents here who are like, "Well, I'd like to appeal this." And the answer is like, "Sorry, you can't." But I live right beside the building. Too bad, you don't have that right. So I think this is a reasonable pathway forward that does not consume the municipalities' GR resources because we've got lots of things to ask for. It says, "If AMO is gonna consider this, "we're interested in the discussion. these are some things that you should consider if you have the discussion because we support the province on getting rid of frivolous and vex atious and delay-driven appeals. But we also support the residents who live in the immediate area, not across the city, to have some sort of recourse for decision-making if there continues to be a body beyond municipal councils that get to make that. Because remember, this is a body that gets to make decisions beyond this room. When it goes to that body, we don't get a say anymore. So some level of representation there by those immediately impacted I think is a reasonable ask and I think this is a reasonable process to even decide whether it becomes a municipal ask across the province of the province. So happy Councillor Ramen forwarded happy that she was willing to adjust some of the language to align with with that I think that's that's good collaborative work together and I'll support this today and yeah we'll see how it goes . Returning the chair to you know on the speakers list. Any other speakers? I think almost everyone has spoken. That's a break. Thank you. Yes, I just want to briefly say that I'll be supporting this. I don't think it's fair that developers get two appeal stuff and residents don't. And I think that this to me is should be and is about fairness. And fairness would require that both sides have the same rights and access to the appeal process. And so I think it's courageous for us to send this along and request that we give our residents the same rights that developers get. Any other speakers? Okay, we'll deal with this matter. Then we're going to have a few motion to go past six and we'll deal with that immediately after. This has been moved and seconded. We'll open that for voting. Councillor Palazzo. Sorry, didn't come up, yes. Close in the vote. Motion carries seven to six. Okay, and now we're going to need a motion to extend to past six. Okay, we're going to do this in the system of motion to extend past six moved by Coun cillor Frank, seconded by Councillor Hopkins. So votes yes noted. Thank you , Councillor Stevenson. I vote yes. No noted. Thank you. Close in the vote. Motion carries 12 to 1. Okay, back to Councilwoman. I believe that concludes the ninth report that I initiated about 10 hours ago. Perfect. Thanks for your work. Keep standing if you want or you can take a seat. We'll move on to the audit report. I have Council Palosa online to present the audit report. Thank you Mr. Mayor. I was the one person who voted not to extend and it's my report not because report is not excellent so I will present it now. It's the third report the audit committee. I will highlight everything was unanimous discussions as per item 7 being 4.6. This was a letter from Councillor Frank that has been referred to the next round of audits for 2027 as everything was already packed and set and contracted for this round. And item 8, 5.1, the request for proposals for 20 26 for the internal audit services. The recommendation is MNP that would commence in 2027 and they are actually our current internal audit people. And we just appreciate everyone who did apply and went through the process with the city. Thank you. And been giving no nose to pull anything. Does anyone want anything separate? Seeing none then we can vote on this whole group. Oh, yeah. Oh, okay, sorry. Seeing none then we can vote on the whole thing altogether. So Councilor Plaza will move the whole slate and I'll see if there are any speakers on these buyers. Councilor Stevenson. Thank you. This is a bit of a follow up to the Portfolio Investment Report. So the 2025 financial audit, we've got the audited statements here. And in note 23, it talks about financial instruments and risk management, it talks about market risk. And it says that management monitors this exposure regularly and estimates that if interest rates increased by 1% and all other variables are held constant, the potential change in unrealized loss on its fair valued fixed income holdings would be 49,466,000 as compared to 2024 where there was a $40,948,000 unrealized loss. So through you to staff, I would just like to understand a little bit more about the law-- - Go ahead. Thank you for the chair. So generally the city's position is to hold all of our investments through to maturity. So those are obviously unrealized and if they were to go forward, is the quantification of the risk. Keep in mind that is also on a consolidated basis which takes into account all of the boards and commissions that also have investments as well as part of that portfolio that would include the consolid ations that are part of that as well. So certainly that is generally our policy. We have certainly moved to accounting for investments through the financial instruments new standard that came forward a year ago that we have the mark to market so all all of our instruments are recorded for American value. So through the investment report, we had noted what those unrealized gains are at this point in time. And obviously, if we hold to maturity, then we don't anticipate to have any losses based on the portfolio that the city invests in. Mr. Stevenson. Sorry, so just to, through you then, to understand you're not anticipating losses at the end of the maturity? Thank you, through the shared note, that is correct. Okay, thank you, so that's good to know. And I guess this is where I would suggest that having that in the investment report and explaining it would help because when somebody's reading these statements and they see that we have an unrealized loss, they might wonder why we have a $40 million loss in our investments. The other thing is I noticed in the financial statements it talks about credit rating of, talks about credit risk, this is in 23B, talks about credit risk and the credit rating of the corporation's fixed income holdings. So I noticed that in 2024, we had 2.8% of the holdings were triple B credit rating. And in previous years, I think we had the similar kind of amount. I noticed that a couple of cities, they aren't allowed like in their investment policy. It says that they must invest in A and above. And so I'm just wondering, are there any limits or restrictions on what staff are investing in and why the move out of the triple B? Thank you through the chair. So the city of London under the investment policy in accordance with Municipal Act. So the restrictions are very, very specific as to what the city can invest in. I wish I had the question before, 'cause I could have been able to point to exactly what that's from. I'm going to assume that that is part of one of the consolidated entities that are investments 'cause the city does not typically invest in triple B bonds 'cause that's not typically one of the things that our investment portfolio and is not part of our investment policy. So I'm sorry, I don't have the information to point to exactly what that entity is, but those are not investments that is held by the city of London noting that this is a consolidated entity and would take into account all in the investments of the consolidated ABCs that are also part city of London. Okay, thank you through through you. That's helpful. Like I said, I understand the municipal act doesn't do it, but I did look up other city's investment policies and they say A and above and it sounds like we're A and above as well. And yet we've got boards and commissions that are less than that. So that's interesting. I'll be looking into that a little further. The other thing on the financial statements was, so in under the credit rating, it says there was quite a shift in double A credit rating. So of our fixed income holdings, in 2024 we had 43 double A, now it's down to 29 percent and yet the A has gone from 34 up to 50. So for those that don't understand the credit ratings on the fixed income holdings, I just threw you to staff would be curious as to how you monitor that. You know, are there any concerns. What does it mean to see that that shift down to the AA fixed income holdings? Thank you for the chair. My apologies without the detail behind this note of where all those numbers are coming from. It's a little bit challenging to be able to give you exact information. I'd have to go back and look at that information. Certainly at a global basis as we're looking at our investment policy sets out where that is. Most cases, we are investing in government bonds and things that are certainly on the higher end. And one of the things from our investment policy is to ensure how we monitor that. And as we're holding them through to the end and the maturity dates, there are no losses. And we're basically monitoring on a regular basis how those investments are providing those returns . So based on the investment report that was earlier provided earlier this afternoon. That does set out the returns that have been forward. So because it's consolidated, it's a little bit challenging to look at the percentages and be able to tell you exactly without the numbers in front of me exactly where those are with respect to the various boards and commissions as well and where those investments are. But generally through our investment policy, we are trying to hold the highest grade as much as possible and then depending on some of those entities, we would need to monitor on a regular basis if there are credit rate changes, that if there was something that was held in a particular entity that got downgraded while we were holding that investment, we would look to find the right time to hold that through to maturity and then sell it at that time so that we're not selling at a loss and then would ensure we would not go forward. So certainly one of the things that would primarily look at this is the city's one investment fund where we have a large proportion of our equity holdings. So within that, that is managed through the one investment of which the City of London is one of the many municipalities that invest in that. That is primarily where you will have other very abilities that are there, that which the city does not have direct control over, but which that board monitors what those investments are and ensures the proper mix. So I'm going to garner a guess that the majority of those tied to that investment and the city's share but without the details it's very challenging but that would generally at a broad level be how that would happen. Thank you I appreciate that and appreciate that you don't have these all off the top of your head totally understand that and I apologize for not getting the detailed questions to you earlier. I guess the only point I want to make is that as I said at committee the amount in our investment portfolio is significantly higher than some of the comparable municipalities. We're about 1.4 or something of our annual budget. Other municipalities were like 0.3, 0.5, one of them was 0.8. I obviously didn't do a full scan. But I think given the amount of money, $1.8 billion being invested and some of the notes in the financial statements may be raising concerns that it sounds like are unwarranted, I would love to see the investment report come with those excerpts from the financial statements with some explanations so that Londoners who are interested in this kind of thing and I get that it's not everybody can see that information transparently. I didn't pull it. I'm supportive of everything in here. I just want to make those points. Thank you. Okay other speakers to the audit committee report . Okay seeing none we'll open that for voting. Let's close in the vote. Motion carries 12 to 0. Thanks Councilor Palosa. We're on two added reports. There's one coming out of the in-camera session and Councilor Frank, although I gave it to you a long time ago, is going to read that out because she's the vice chair of the committee that the report is linked to. So I'll happy to present that report. Thank you. The 11th report of the Council in closed session, your Council in closed session report, Grand of Eastman, 1712 Dundas Street, Pottersburg, phase three sanitary project that as a procedural matter pursuant to section 239 six of the municipal act 2001 the following recommendation be forwarded to council in closed session for the purpose of considering whether the recommendation should be forwarded to council for deliberation and a vote in public session that on the recommendation of the deputy city manager finance supports with the concurrence of the deputy city manager environment and infrastructure on the advice of the director realty services with respect to the property located at 1712 Dundas street further described as being part of lot 10 and part of lot 17 on registered plan number 19 and to be further described by the new reference plan as shown on the location map as Appendix B for the purpose of installing a new municipal infrastructure and connection with the Potters burg Phase 3 sanitary project the following actions be taken a the grant of easement agreement substantially in the form as Appendix C submitted by 382672 Ontario limited the transfer to grant and eas ement and over the portion of the subject property to the city to construct municipal infrastructure for the sum of $350,000 be accepted. Subject to the terms and conditions as set out in the agreement. And B, the civic administration be directed to apply the financing for this procurement as set out in the source of financing report as Appendix A, that progress is made with respect to items 4.1, 4.2, 4.4, 4.5, 4.6, and 4.7 as noted on the public agenda. Okay, you get to, that's like presenting a report So you get to stay. Is there any, so that's moved by you? Any discussion on that? Okay, see none, we'll open that for voting. Councillor Hopkins votes yes. Councillor for votes yes. No, thank you. Those in the vote, motion carries 12 to zero. Okay, deferred matters. There are none, inquiries. See none, version of motions that were none submitted. We're on to bylaws. I've got good news and bad news is, good news is it's the last thing. Bad news is we have to do 27 separate votes based on the conflicts and what people ask to be pulled separately. So we'll work our way through them. You worship, I'm happy to serve as a member for all of them. Perfect, you can move from all. Councillor Caddy, always reliable to second them all. 'Cause he's an agreeable guy. Okay, so we're gonna work through them. I'm gonna say which ones they are. So colleagues can decide their votes, but we're gonna start with, okay. Someone pulled that separate. Okay, we're gonna start with the confirming by- law. So that'll be the first one moved by Councillor C utty. I'll move by Deputy Mayor Lewis, seconded by Coun cillor Cutty. We'll open the first reading for voting. Closing the vote, motion carries 12-0. Okay, and second reading, any debate or discussion? Seeing none, same mover and seconder, we'll open second reading for voting. Motion carries 12-0. Third and final reading of this, same mover and seconder, we'll open that for voting. Here is 12-0. Next one is gonna be bill 239, which is, so this one is the contribution agreement related to Duluth Crescent Block 6, 18, sorry, 1958 Duluth Crescent Block 6. Okay, so let's move to seconded and we'll open first reading for voting. Thank you. Just noting that Councilor Palosa indicated she needed to leave the meeting. Marking her as absent, closing the vote. Motion carries 9-2. Okay, and second reading, any discussion? Okay, seeing none, we'll open second reading for voting. Closing the vote, motion carries 9-2. Okay, third and final reading, we'll open that for voting. Councilor Pribble, Councillor Lewis. Motion carries 9-2. Okay, next one is bill 241, which is the Green Municipal Fund Grant Agreement . We will use the same over in seconder and we'll open first reading for voting. Motion carries 10-1. And second reading, any discussion? Seeing none, we'll open second reading for voting . Motion carries 10-1. And third reading, we'll open that for voting. Motion carries 10-1. The next one is gonna be bill 244, which is the by-law to amend the administrative monetary penalties system, or bylaw, essentially. So we'll use the same move in seconder and we'll open that for voting. And carries 10-1. Second reading, any discussion? Seeing none, we'll open that for voting. Councillor Trussell, thank you. Motion carries 10-1. Third and final reading, and we'll open third reading for voting. Motion carries 10-1. Yeah, the next one is bill 257, which is 2496 Dundas Street East. We'll open first reading for voting with the same move in seconder. And carries 10-1. and second reading on this for any discussion. Seeing none, we'll open that for voting. And carries 10 to one. Third and final reading, we will open that for voting. And carries 10, one. All right, the next one is two, oh, 259, which is 1057 to 1061 Richmond Street. We'll use the same, we'll open first reading for voting. And carries eight to three. Second reading, and we will look for any discussion. Seeing none, we'll open that for voting. Mr. Stevenson. I vote yes. No to thank you, motion carries eight to three. Okay, third and final reading, we're going to open that for voting. Carries 8-3. Okay, the next is bill 260, which is 36 Weathered Street. We'll open first reading for voting. Sir Trussell, carries 9-2. Second reading, I look for any discussion. Seeing none, we'll open that for voting. Carries 8-3. Third and final reading of that, we'll open that for voting. Carries 8-3. Okay, next is bill 261, which is 929 Cheap Side. We will open first reading for voting. Carries 7-4. Second reading, is there any discussion? Seeing none, we'll open that for voting. that for voting prayer votes yes noted thank you motion carries 7 to 4 a third and final reading we'll open that for voting and carries 7 for okay the next motion is everything else that we didn't do so all the pieces together you want to 58 separate okay we can do that we just got to pull it out of the motion sorry all right now we're gonna do first reading of 258 which is the one you just asked for separate the temporary zoning on the parking lot we'll open that for voting first reading motion carries 10 1 and second reading any discussion. Seeing none we'll open that for voting. Carries 10-1 and third and final reading of this by-law will open that for voting. Motion carries 10-1. Now we're going to try to deal with everything else. Everybody's good with that. Okay okay we'll open that for voting all remaining by-laws. Motion carries 11-0. Okay second reading any discussion. Seeing none we'll open that for voting. Motion carries 11-0. Final reading on that for voting. Councillor Luke thank you. Motion carries 11-0. Okay that's all the by-laws so I'll just Let's look for a motion to adjourn. Moved by Councillor Hough and seconded by Coun cillor Frank. We can do that by hand. All those in favor? Motion carries. All right. We're adjourned.
----
+> [!abstract]- Remote Attendance:
+> E. Bennett, C. Blain, I. Collins, S. Glover, P. Lupa, K. Murray, V. Tao
 
-## Full Transcript
+The meeting is called to order at 1:06 PM; it being noted that Deputy Mayor S. Lewis and Councillors E. Peloza and S. Hillier were in remote attendance.
 
-> Transcript provided by [Lillian Skinner's London Council Archive](https://london.lillianskinner.ca). Note: This is an automated speech-to-text transcript and may contain errors. Speaker names are not identified.
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
-<details>
-<summary>View full transcript (5 hours, 19 minutes)</summary>
+That it BE NOTED that no pecuniary interests were disclosed.
 
-Okay, thank you, please be seated. Okay, welcome to the 11th meeting of council. I'm gonna start with an land acknowledgement. We acknowledge that we are gathered today on the traditional lands of the Anishinaabak, Haudenosaunee, Lene Peiwak, and Adawandran peoples.
+# 2.&nbsp;&nbsp;&nbsp;Recognitions
 
-We honor respect the history, language, and culture of the diverse indigenous people who call this territory home. We acknowledge all of the treaties that are specific to this area. Two Row Wampum Belt Treaty of the Haudenosaunee Confederacy, so we're coming to chain. Beaver Hunting Grounds of the Haudenosaunee Nanfantry of 1701.
+His Worship the Mayor Recognizes the Ontario Lottery and Gaming Commission Community Recognition Program - Municipality Contribution Agreement.
 
-the McKee Treaty of 1790, the London Township Treaty of 1796. Here on track treaty of 1827 with the Anishinaab ek and the Dish With One Spoon Covenant Wampum, the Anishinaabek and the Haudenosaunee. The three indigenous nations that are neighbors to London are the Chippewaas of the Thames First Nation, Oneida Nation of the Thames and the Muncie Delaware Nation who all continue to live as sovereign nations with individual and unique languages, cultures and customs. The city of London is also committed to making every effort to providing alternate formats communication supports for meetings upon request.
+# 3.&nbsp;&nbsp;&nbsp;Review of Confidential Matters to be Considered in Public
 
-If you'd like to make a request specific to this meeting you can contact council agenda at London.ca or 519-661-2489 extension-2425. Okay next we're going to do our national anthem singer. Connor Elge is a Canadian instrumental artist who makes music that blends soundscapes with technical guitar playing. Connor makes music for those with too much going on in their heads and hopes that his music can help them as his playing does for himself.
+None.
 
-Connor has a new song being released on the 26th named Stars. Please rise and join me in welcoming Connor who will now perform the National Anthem for us. Thanks again. That was pretty awesome.
+# 4.&nbsp;&nbsp;&nbsp;Council, In Closed Session
 
-Turning to the disclosures of pecuniary interest, I look to colleagues who have any disclosures for us today. Dean Nunn will move to recognitions and the first recognition will be by Deputy Mayor Lewis, followed by Councillor Pribble, followed by myself and then a presentation that I'll be making, which is already listed in the agenda. So I'll go to Deputy Mayor Lewis first. Thank you, Your Worship and through you and colleagues and staff and the members of the public.
+> Motion made by S. Franke
 
-I wanted today to take a moment what I would normally do at the start of June. However, I was certainly not up to it health-wise at the last Council meeting to recognize that June is National Pride Month, and there have been celebrations throughout this month, particularly in Councillor Frank's Ward 11 worthy Pride Festival, but celebrations are happening across the country for the LGBTQ+ community. And on the weekend, the Pride flag will fly in Reg Cooper Square on the community flagpole in recognition of the Stonew all Riots, which started in the early hours of June 27th and continued on for five days afterwards. The flag will fly in recognition until Canada day.
+> Seconded by A. Hopkins
 
-And then, of course, London celebrates our Pride Festival in Victoria Park in July. And I know that the Pride Festival has asked for the flag to be flown again during that celebration. And so we will be celebrating twice in London, recognizing that we have a different local celebration than the National Pride Month. However, it is a time for both members of the LGBTQ+ community and their allies to come together and celebrate our diversity.
+That Council rise and go into Council, In Closed Session, for the purpose of considering the following:
 
-So I just wanted to take this opportunity to recognize Pride Month and wish everyone a happy Pride. Thank you. I'll go to Councillor Pribble next. Thank you.
+4.1    Position, Plan, Procedure, Criteria or Instruction for Negotiation Purposes
 
-How can't I recognize Canadian national soccer team during the World Cup? I know it's only two games but so far. First Indoor Group, tomorrow at 3 p.m. they play in Switzerland with a draw, they'll be first in the group and it will guarantee them staying in Canada in Vancouver.
+A position, plan, procedure, criteria or instruction to be applied to any negotiations carried on or to be applied to any negotiations carried on or to be carried on by or on behalf of the municipality. (6.1/9/CPSC)
 
-Certainly already a great accomplishment. I want to invite everyone 4th of July at Victoria Park. We have a fan fest, FIFA fan fest. And of course, first, July 1st, Canada Day, lots of events throughout the city and especially downtown.
 
-Welcome everyone and enjoy it. Have a great time with your families and friends. Thank you Mayor. Thank you.
 
-I appreciate that Council approval. I'm going to move to the podium for my next two recognitions. I'll just, let me just move this closer. Okay, there we go.
+4.2    Solicitor-Client Privilege
 
-So the first recognition I want to do is recognizing those who serve on the front lines, whether it's EMS, fire, London Police Service, healthcare staff, or even the bystanders involved in the incident that happened at Sherwood Forest Mall, where an individual ended up going through the wall and coming into a class that was currently going on that morning. I know we've said many times how important all those frontline staffers are and everybody out in the emergency services who act and respond very quickly in incidents. But I came across a story from one of the paramedics about a bystander who intervened shortly afterwards and it struck me that the story was so impactful that I wanted to share it today. These aren't my words, these are something I'm going to read.
+A matter pertaining to advice that is subject to solicitor-client privilege, including communications necessary for that purpose, and for the purpose of providing instructions and directions to officers and employees or the Corporation and a position, plan, procedure, criteria or instruction to be applied to any negotiations carried on or to be carried on by or on behalf of the municipality or local board. (6.2/9/CPSC)
 
-And the story recognizes the heroic actions of Mia LaRue. Mia is a frontline paramedic with London Middles ex Paramedic Services, and while only in her second year as a paramedic, she just demonstrated the skill, compassion, and calm leadership that defined the very best of our public service. She was off duty at the gym. She heard the sound of a crash and immediately responded.
 
-Seeing a cloud of dust and debris, she ran towards the scene where she found multiple people injured, including a woman trapped beneath a vehicle that had crashed through a wall. Without hesitation, Mia stepped forward to help, recognizing the immediate danger, including the vehicle leaking fluids, the risk posed by the vehicle remaining in gear, and the dangerous position of the debris surrounding the trapped woman, Mia acted quickly to protect the woman in those nearby. She placed the vehicle in park, assessed the situation, and began directing bystanders and staff to assist. When police arrived, Mia's experience as an off-duty paramedic was quickly recognized, Working together, Mia and the other responding officer were able to move the vehicle to a safer position , allowing Mia to reach the woman and help free her .
 
-Her actions reflect the very best qualities of a paramedic and a member of the community. Courage, professionalism, compassion, and a willingness to serve others whenever help is needed. On behalf of council and the residents of London, we extend our sincere appreciation to Mia for her bravery and dedication. Her actions made a meaningful difference during a frightening moment and serve as an example to the testament that the impact that one person can have when they choose to step forward and help in a moment of crisis.
+4.3    Land Acquisition / Solicitor-Client Privileged Advice / Position, Plan, Procedure, Criteria or Instruction to be Applied to Any Negotiations
 
-London is fortunate to have people like Mia among us and to Mia and all of the emergency responders who responded that day. Thank you for making our city safer and a compassionate place to live. You make a difference in our community each and every day. Thank you.
+A matter pertaining to the proposed or pending acquisition of land by the municipality, including communications necessary for that purpose; advice that is subject to solicitor-client privilege; commercial and financial information, that belongs to the municipality and has monetary value or potential monetary value and a position, plan, procedure, criteria or instruction to be applied to any negotiations carried on or to be carried on by or on behalf of the municipality. (6.1/11/ICSC)
 
-And now on to what we do on an annual basis and that is the recognition of the contributions that OLG makes through the municipal contribution agreement, and each and every year we recognize the significant contribution they make to our community through us hosting a gaming site here. So I'm pleased to begin today's meeting by acknowledging that the Ontario Lottery Gaming Corporation OLG has its continuing investment in London, Ontario through that municipal contribution agreement. In 1999, the City of London entered into a municipal contribution agreement with the OLG. this agreement, OLG provides an annual share of the gaming revenues generated from Gateway Casino London to the City of London.
 
-These funds are then earmarked for projects that positively impact residents from all corners of our vibrant community. From April 1st, 2025 to March 31st, 2026, we received over $5 million from OLG through the revenue generated at Gateway Casino. This revenue has played a crucial role in supporting several essential community initiatives, including funding for not- for-profit organizations through the City of London Community Grants Program. Specifically, Type DIABIT was allocated funds to support BIPOC food literacy programs.
 
-The program promotes food literacy through teaching the health benefits of cultural leading, maintaining cultural food practices while making healthier choices with an emphasis on flavors from the African diaspora. Through it, 227 children and youth had access to the cultural food literacy provided to them and other equity denied groups to learn about nutrition, food security and the skills for food connections to identity to health and community. Today we're honored to be joined by representatives from the organization that has greatly benefited from the funds provided through this partnership with OLG. They have provided a pivotal role in our community's well-being and are grateful, we are grateful to recognize their outstanding contributions today.
+4.4    Land Disposition / Solicitor-Client Privileged Advice / Position, Plan, Procedure, Criteria or Instruction to be Applied to Any Negotiations
 
-So they're here with us right over here. So thank you very much. The remaining funds received from April 1st, 2025 to March 31st, 2026 through the municipal contribution agreement were used for a range of projects, including the restoration of the roof at Deerness Home, the cities of London's long-term care facility, various recreational facility upgrades which include replacing the roofs at Argal Arena, the Canada Games Aquatic Center, replacing the pool heater at Silverwoods Park, transforming the former Glen Carren Arena to community space and replacing the gym floor at the Boyle Community Center. Local road reconstruction programs to reconstruct roads, replace catch basins, install new curbs and gatters, repair sidewalks, including new ramps and tactile plates.
+A matter pertaining to the proposed sale of land by the municipality, including communications necessary for that purpose; advice that is subject to solicitor-client privilege; commercial and financial information, that belongs to the municipality and has monetary value or potential monetary value and a position, plan, procedure, criteria or instruction to be applied to any negotiations carried on or to be carried on by or on behalf of the municipality. (6.2/11/ICSC)
 
-Strengthening the green fleet with the purchase of 11 hybrid vehicles for the corporate fleet, continuing to support for other community organizations. So these are supports been done in the past but are continuing on. The Boys and Girls Club operating funding to support seniors programming, children and youth recreation, social and nutrition programs and education and leadership initiatives. The London and Middlesex Heritage Museum operating funding to support Fanshawe Pioneer Village delivering programs and events and educational activities and exhibits and preserving its collection of 33 original and replica buildings and more than 40,000 artifacts.
 
-in total the city has received now 107.7 million in non-tax gaming revenue for hosting a gaming facility in London since the inception of this agreement in 1999. These revenues are a cornerstone for the support for local programs and essential infrastructure making substantial tangible differences in the lives of the people of London Ontario. I'd also like to recognize Gateway Casino London as a key employer in the old East Village community. Following a total investment of approximately 54 million.
 
-The casino's workforce has now grown to about 329 employees creating more than 80 new jobs and contributing to the local economy. Thank you for your continued partnership and investment in London OLG. I'd now like to introduce Kathleen Devine, Senior Municipal Relations Manager at OLG, who will be providing a couple of remarks and bringing a big giant check to the front. Yes.
+4.5    Solicitor-Client Privileged Advice / Litigation/Potential Litigation
 
-So good afternoon everybody. I'm Kathleen Devine, senior municipal relations manager at OLG. And I am the lucky person that gets to come into London every year for this community recognition program event. So I do want to thank yourself Mayor Morgan, council and city staff for inviting OLG here every year.
+A matter pertaining to advice that is subject to solicitor-client privilege including communications necessary for that purpose from the solicitor and officers or employees of the Corporation; the subject matter pertains to litigation with respect to a claim for compensation following the expropriation of property located at 1380 Oxford Street East at the Ontario Land Tribunal (“OLT”); and for the purpose of providing instruction and directions to officers and employees of the Corporation. (6.3/11/ICSC)
 
-This year was fun because we've had a busy morning traveling around London, getting a behind the scenes look at where some of of the money has gone to. And so we traveled to Silverwoods Park for the new heater and filtration system for the outdoor pool, which is amazing if you haven't been there, you should go. We went to the North London Optimus Community Center and saw the new flooring for the indoor tennis courts, all really tangible, positive impacts across London. And we were incredibly lucky to spend an hour or so with mystery and Gonzales from type diabetes, it was incredible.
 
-Looking at this garden that they have growing all of these various types of foods, plant-based, gorgeous vegetables in their greenhouse, out in the garden, learning about their commitment to food education and inclusivity and equality across understanding food and how to access it. I can't say enough about type diabetes. And so, of course, the thanks goes to American Council for choosing type diabetes as one of their recipients of your community grant program. So, incredible work to all of you.
 
-Again, from OLG, all of this community impact resonates with us 100% of our profits go back into the province every year. and it's something we're really proud of. So thank you for inviting us here every year. Thank you to Tanvi for taking us on this behind the scenes London tour.
+4.6    Solicitor-Client Privilege
 
-And we look forward to coming back again next year. And now we'll just take a big check presentation, shall we? So please come on up and join us. So as Mayor Morgan mentioned, this is the amount the city of London received fiscal 26 and I'll just grab it and I guess probably stand in front.
+A matter pertaining to advice that is subject to solicitor-client privilege related to 1057-1061 Richmond Street, including communications necessary for that purpose. (6.1/9/PEC)
 
-Yeah. And we are pleased on behalf of all of OLG to present the amount of 5,051,022 dollars. Yeah. Thank you.
 
-(audience applauding) Thanks, I'll just return to the seat. That's really appreciate the words today and we'll continue on with the meeting. Thank you for bearing with us on that. We are now on to review of confidential matters to be considered in public.
 
-There are none, we're moving to council in close session of which there are all of the items before us. Okay, they're all here, 4.1 through 4.8. So I look for a motion to go into camera for all those items. I'll let the council frank, seconded by councilor Hopkins, we'll open that for voting.
+4.7    Personal Matters/Identifiable Individual
 
-Closing the vote, motion carries 14 to zero. Okay, and we'll be moving to committee room five. So members of the public, you can stay here and we will return as soon as we're done in camera session. Okay, please be seated.
+A matter pertaining to the security of the property of the Corporation as it contains commercial and financial information supplied in confidence to the Corporation, the disclosure of which could be reasonably expected to prejudice significantly the competitive position or interfere significantly with the contractual or other negotiations of a person, group of persons or organization, result in similar information no longer being supplied to the Corporation where it in the public interest that similar information continue to be so supplied and result in undue loss or gain to any person, group, committee or financial institution or agency and matters related to the personal information about identifiable individuals, including municipal or local board employees related to the potential provision of internal audit services for the City of London, by an external organization. (6.1/3/AC)
 
-Okay, that brings us to confirmation and signing of previous minutes. We have two sets of minutes that we could do together. That's the ninth meeting in the 10th special meeting. I'll look for a mover and seconder for those.
 
-Councillor McAllister, seconded by Councillor Leh man. Any discussion on the minutes? Okay, seeing none, we'll open that for voting. No, any Councillor for available?
 
-Oh, yes. Opposed in vote, motion carries 14-0. Okay, onto motions, oh, sorry. Onto communications and petitions, there are a fair number of them, but they all relate to components of the agenda.
+4.8    Labour Relations/Employee Negotiations / Litigation/Potential Litigation / Matters Before Administrative Tribunals / Solicitor-Client Privileged Advice
 
-So there's a motion to refer all those to the various parts of the agenda, look for mover and seconder to that. Councilor Cuddy and Councillor Troso. Any discussion on referral of those matters to the various parts of the agenda? Seeing none, we'll open that for voting.
+A matter pertaining to labour relations and employee negotiations in regard to one of the Corporation’s unions; advice and recommendations of officers and employees of the Corporation; litigation or potential litigation, including matters before administrative tribunals; and advice which is the subject of solicitor client privilege, including communications necessary for that purpose.
 
-Oh yes. Noted, thank you for closing the vote. Motion carries 14-0. Okay, there are no motions to which notice was given.
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |Mayor J. Morgan|P. Van Meerbergen|
+> |A. Hopkins||
+> |S. Lewis||
+> |S. Hillier||
+> |E. Peloza||
+> |S. Lehman||
+> |H. McAlister||
+> |P. Cuddy||
+> |S. Stevenson||
+> |J. Pribil||
+> |S. Trosow||
+> |S. Franke||
+> |D. Ferreira||
+> |C. Rahman||
 
-So we're on to section eight reports. A section 8.1, it's the ninth report of the Community and Protective Services Committee. I will turn it over to the chair to present. Thank you.
+> **Motion Passed (14 to 0)**
 
-I will look to present the ninth report of Community and Protective Services Committee. I've been asked to pull items two, three, five, seven, and 11, just looking to see if there's any other items. Seeing none, I will put the remaining items on the floor. Okay, so the chair's moving, moving in motion for one, four, six, eight through 10, 12, and 13.
+That Council convenes In Closed Session, from 1:26 PM to 2:41 PM.
 
-That's on the floor. I'll look for any discussion on those items. Go ahead, Councillor Trocev. Thank you, I just want to make a comment about item number four of this is not a controversial item, wasn't even pulled for me and people in my ward in the near campus neighborhood.
+At 2:44 PM, Councillor D. Ferreira enters the meeting.
 
-And I know people in other wards, this is a very significant item. And this, and I just wanna mark this and not let this go without saying. This has been the source of a lot of tension and a lot of concern and a lot of dissatisfaction in the community in terms of how these things have historically been responded to. And I want to say that Councillor Primple and I have been working on this now with Civic Administration for a good part of this term.
+****
 
-And I'm just so pleased to see this come to final council vote. And I have to say it has just been a total refreshing pleasure to work with your staff and in particular the Director of Municipal Compliance. because I think what we're doing here is we're entering into a sea change in terms of how we talk to members of the public about the complaints and the concerns that they've filed. So I just think this is such a positive step in the right direction and again, to the Deputy City Manager.
+# 5.&nbsp;&nbsp;&nbsp;Confirmation and Signing of the Minutes of the Previous Meeting(s)
 
-I wanna thank you so much for the work that your staff has done with us on this. Thank you. Other speakers to the items before us, Councillor McAllister and then Perbal. Thank you, through your worship.
+> Motion made by H. McAlister
 
-I just wanted to speak quickly on item six. Again, previous counselor, I just want to express my thanks to Mr. Rather's, your team and Ms. Pfeffer really appreciate the turnaround time on this.
+> Seconded by S. Lehman
 
-I know this was something that I asked for a little while ago, but I made some changes based on the feedback I was receiving from the community. And it is very much greatly appreciated. RAT says not something anyone necessarily wants to talk about, it is an issue that's impacting people's lives, their health, and many properties are experiencing the adverse effects of this. So I want to say thank you.
+That the Minutes of the 9th and 10th Meetings of the Municipal Council, held on June 2 and 17, 2026, respectively, BE APPROVED.
 
-I hate to say, but this might generate some more work for your team, but it's very much appreciated. I hear this a lot from my constituents in terms of trying to see a further enforcement action on this. And I know there's a few properties that we'll probably get looked at. So again, very thankful for this.
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |Mayor J. Morgan|P. Van Meerbergen|
+> |A. Hopkins||
+> |S. Lewis||
+> |S. Hillier||
+> |E. Peloza||
+> |S. Lehman||
+> |H. McAlister||
+> |P. Cuddy||
+> |S. Stevenson||
+> |J. Pribil||
+> |S. Trosow||
+> |S. Franke||
+> |D. Ferreira||
+> |C. Rahman||
 
-And I just, again wanted to say that this is greatly appreciated by not only my word but I think all words will benefit from this the long run because I think having a comprehensive rat strategy will serve the city in the long run so thank you once again. That's our privilege. Thank you I guess I 'm going to continue to thank you around but I'm going to be a really brief and I want to say thanks again to Council Trust on the staff 0.4 if I if I look at when I started three and a half years ago if I look at the emails and focus I'll be receiving it this is the the report that stopped it, that actually answers most of my emails and calls. So thank you very much and to the entire team.
+> **Motion Passed (14 to 0)**
 
-Any of the speakers to these items? Go ahead, Councillor ramen. Thank you and through you. And I appreciate the expression of sentiment.
+****
 
-I agree with it. On item four, specifically on part C, we discussed the municipal compliance city map and development of the business portal enhancements that'll go to the multi-year budget. just wanted through you to maybe ask staff, one information will be available to counselors to be able to access this information in interim. Mr.
+# 6.&nbsp;&nbsp;&nbsp;Communications and Petitions
 
-Mathers, go ahead. Through the chair, so we're always happy to help any of the counselors and the counselor offices, well, to be able to access information. Their information generally is available, it's just maybe difficult to find 'cause you have to go to two or three different sources, so we're always happy to be able to provide that help to you and any further assistance FAQs or anything we could provide you or your constituents would be happy to provide that, so thank you. Thank you and through you.
+> Motion made by P. Cuddy
 
-So I appreciate the steps that we're taking with the matter. One of the challenges still remains though is the service London portal. So not being able to get this information through the portal, but having to go through a counselor to get access to the information. It's still an onus that the public has to go through.
+> Seconded by S. Trosow
 
-And so I do look for the time that we are able to do this and the public are able to do this like they can in Brampton, like they can in other municipalities like Ottawa , where this information is public facing so that people can access it themselves instead of having to go through a municipal councilor or council staff to get answers that in my opinion should be publicly available. I'll await that time and potentially bring it forward in the future, thank you. Any other speakers on the various matters before us? Okay, seeing none, we'll open that for voting.
+That the following communications BE RECEIVED, and BE REFERRED as noted on the Added Agenda:
 
-Opposed in the vote, motion carries 14-0. Thank you, I will look to put item two on the floor. Okay, item two is on the floor, I'll look for any speakers to item two. Seeing none, we can open item two.
+6.1 City of London Tree Nursery Feasibility
 
-Opposed in the vote, motion carries 13-1. Thank you, I will look to move item three, 2.2, which is the city of London Tree Nursery Feas ibility. I'll put that on the floor. Okay, that item's on the floor, I'll look to any speakers, seeing none, we'll open that for voting.
+1.    C. Butler   
 
-Opposed in the vote, motion carries 13-1. Thank you, I'll look to put item five on the floor, 2.4, the request to submit an application for new affordable housing, funding through Filled Home, Filled Canada Homes. Okay. That's on the floor.
+     
 
-I'll look to any speakers. Seeing none, we'll open that for voting. Closing the vote. Motion carries, 13-1.
+6.2 5th Report of the Environmental Stewardship and Action Community Advisory Committee
 
-Right, Councillor. Thank you. Next is item 7-2.6. 1-22 baseline, transition plan, update quarter two.
+1.    D. Davis        
 
-Okay. That's on the floor. I'll look to any speakers. Seeing none, we'll open that for voting.
+2.    D. Osborne        
 
-Closing the vote. Motion carries, 13-1. Go ahead. Thank you.
+3.    P. Fraser        
 
-I'll look to put 11-2.7. and the award of the NRFP 2025-248, municipal lands for affordable housing at 1-9-5-8 Duluth Crescent Block 6 related to bill number 239, the floor. Okay, I'll go to Deputy Mayor Lewis. How's the speaker on that?
 
-He has his hand up. Thank you, Your Worship. And through you, I spoke to this at committee. I'm just going to speak to it again, 'cause I know not everybody was at committee.
 
-I've been very supportive of the Duluth Crescent redevelopment to date and I actually support the initial dedication that was submitted to this block but what we have here is staff asking to be able to go back and increase the density on this block further and I'm asking counsel to respectfully not direct staff to do that but to have staff move forward with the density that they had already they're allowed the height but not the density And the reason I'm asking you this is we're redeveloping this Duluth crescent block that we purchased as a surplus school property for the purpose of developing affordable housing. We've already increased the height on block five to advance a project forward there. We also, though, continuously talk about the need to be mindful of how much concentration we have when it comes to social services and affordable and RGI housing in a single area. single area.
+6.3  (ADDED) Downtown Reimagined: City of London Downtown Plan
 
-Just south of this former school block divided by Trafalgar, but just south of this along Marconi Boulevard, we have 64 affordable housing units at Genesis Co-op. We have 138 at the Telesman Woods Co-op. LMCH has 51 townhouses, plus an entire block of duplexes running from Marconi to Noel, that are RGI units as well. So we have in this immediate vicinity already over 200 units of affordable and RGI housing.
+1.    (ADDED) S. Mathers, Deputy City Manager, Housing and Community Growth   
 
-We're adding more on the Duluth School Walk. This is not something that was contemplated when this plan of subdivision was presented to the community. It was not something that was contemplated when Council approved the draft zoning through P EC. And I'm just asking that staff stick to the density and heights that were granted through the planning committee process already.
+     
 
-We want affordable housing in our city, but we do have to be mindful of how much we are putting in any given location. And this is just, you know, we've already had one block increased. Is it the next block going to be an increase as well and the next block and the next block? There are seven blocks for development on this site.
+6.4 (ADDED) Employment Area Policy Review and Unsuitable/Ineligible Industrial Land Review - O-25125
 
-If we increase the density on every one of them, we are going to be creating a bad scenario for this neighborhood. I'm asking fells to respect the density that was originally approved through the zoning. Okay, so that's debate. I look for other speakers on this.
+1.    (ADDED) A. Richards, Planner and H. Froussios, Principal Planner, Zelinka Priamo Ltd.    
 
-Seeing none, then we're gonna open that for voting. You worship my apologies. I should have indicated to you that my objection was to clause C, not clause A and B. I know we've opened the voting.
+   
 
-I'm hoping we can cancel it and just separate those. That's okay. We hadn't closed the voting, so it's pretty easy to separate those still. Thank you.
+6.5 2496 Dundas Street - Z-26043
 
-My apologies to colleagues. I should have been clear about that. Okay, so you'd like C dealt with separately, but we can deal with everything else together? Yes, C is the only one that deals with the density.
+1.    S. McFadzean, President and CEO, Greater London International Airport Authority      
 
-Okay, we're gonna go with C first. So the density piece first. So we'll open that for voting. Closing the vote on part C, motion carries eight to six.
+ 
 
-Okay, and on the remainder, we'll open that for voting. Closing the vote, motion carries 13 to one. I think that concludes that report, right? But you've got another one so you can keep going, Councillor.
+6.6 1057-1061 Richmond Street - Z-26051
 
-Thank you, I'll move on to 8.2, 10th special report of the Community Protective Services Committee. We had two items that we dealt with. I'm putting all items on the floor. Okay, so that's item 8.2, all items on the floor.
+1.    M.A. and P. Adams         
 
-I looked to any speakers to that. Go ahead, Coun cillor Hopkins. Yeah, thank you, Your Worship, and I love good news stories. This is a donation agreement for the Byron Springback Ventrance Monument.
+2.    S. Harris        
 
-I want to thank Deputy Mayor Lewis. I know who's done a lot of work with the consortium . I'm looking forward to the unveiling on October the 3rd. So thank you very much.
+3.    G. Barrett and J. Smout        
 
-Any of the speakers? Yep, seeing none, we'll open that for voting. Okay, Councillor Trussell, absent, close the vote. Motion carries 14-0.
+4.    (ADDED) J. Gard and D. Caloren        
 
-Councillor, go ahead. Thank you, that concludes the 10th report, but I'll move on to 8.3, the 8th report of the Strategic Priorities and Policy Committee. I've been asked to pull items six and seven, so I'll look to craft, I'll just see if there's any other items. Seeing none.
+5.    (ADDED) D. Lajoie        
 
-Well, just let me just check. Does anybody want anything else dealt with separately from that report? Okay, you can go ahead and make one. Thank you.
+6.    (ADDED) A. Pruszynski        
 
-I would like to put one through five and eight on the floor. Okay, all of those items are on the floor. I'll look to any speakers for those items. Ed, Councilor Trossal.
+7.    (ADDED) M. Davis, Partner, Si-vik Planning and Design Inc.        
 
-Thank you very much to the mayor. I made some very long comments about four and five. No, four, and I'm not going to repeat them here. So I'm just not going to do that.
+8.    (ADDED) M. Backx        
 
-So Vorni made them at the committee and I'm not going to repeat them here. So that's that. Thank you. Okay, any other speakers?
 
-We'll open those items for voting. Those yes? No to thank you, closing vote. Motion carries 14-0.
 
-Go ahead, Councilor Ramen. Thank you, I'll put item six on the floor, the Center of Opportunity, London Economic Development Strategy, 2026-2030, and Implementation Plan. Okay, that item's on the floor. I'll look to speakers on that item.
+6.7 929 Cheapside Street - Z-26003
 
-Okay, seeing none, we're gonna open that for voting. Closing the vote, motion carries 13-1. It's a Ramen. Thank you, I'll put item seven, 4.2, downtown reimagined City of London downtown plan on the floor.
+1.    S. and R. Walters        
 
-Okay, that's on the floor. I'll look to speakers to that. Okay, Councilor Preble, go ahead. I'll be very brief.
+2.    (ADDED) C. Church        
 
-As I stated during our committee meetings, if I look at both plans that we do previous one and this one, I think that's really compared to what we had before in London. Those are both really great plans with great implementation. We know about the other issues, the big picture, but again, there's not part of it. This is the only concern and I'm going to going to repeat what I said before is really the accountability to deliver implementation plan .
+3.    (ADDED) S. Ord        
 
-If you get that right, then we have some great plans, not just some great plans that will be sitting on the desk, but actually plans that will deliver the best possible results for half a million of Londoners. Thank you. Thanks, Councilor Pervault, Councillor Ferrera. Thank you, Mayor.
 
-I thought I would speak to this one just one more time. I appreciate the vote and the support at SPPC for this plan. We're looking for a vision. looking for a way into the future and I know the plan did speak to some big items and fifty-eight actions but there's some things we didn't speak about so I thought maybe I should reveal them or speak to them now.
 
-The first thing that I thought was very interesting because I hear a lot from people living in the core and especially because we're moving towards having more individuals live in the core, what type of amenities, what things are available, what can people do, where can they shop, where can they get their groceries. So I thought I'd start with that one with the grocery because I know this is something that comes up from time to time and I just wanted to go to staff because the plan does call for services and amenities gap assessment so I just wanted to go to staff and see if you could just speak to that a little bit what would that services and amenities gap assessment reveal would it look into things like a grocery store would it look into things such as other amenities for people to be able to to use or shop or go to within the core and when would we potentially be expecting something like like that coming to council. Mr. Mathers.
+6.8 517-525 Fanshawe Park Road East and 1536 Geary Avenue - Z-26039
 
-Through the chair. So yeah, that's exactly what, as you phrased it, but what we'd be looking at as part of that assessment. So my intention wouldn't necessarily be to go to a consultant for this. I think this is something that we're very well set up of working with the community, to be able to develop that information.
+1.    R. Ashton        
 
-It would include like speaking to residents, understanding from both of the current business community and the folks that are actually living in London, in the downtown, what they're looking for what they might may need and building off any other research we can do as well. So I think it is very well known that there are needs downtown, especially for a grocery store space and there are possibly the other needs as well. So that would be something we'd be bringing forward. It would likely be in Q1 or Q2 of next year because we want to kick off some of the other elements.
+2.    S. Bentley        
 
-There's a report that will be coming forward in the Q4 that we're just going to provide a bit more of the implementation steps that you 're going to be able to see. and I believe that'll be a very timely report and be something that's important to be able to be understood, to be able to move forward in the core. Go ahead, Councillor Ferra. Okay, thank you for that.
+3.    K. Kaikkonen        
 
-And I do also hear, and I agree, that I guess the downtown success also hinges on the day-to-day accessibility, the visibility of it, the cleanliness of it, and things like that. So I understand that we do have already, we have already propped up the downtown's operations team. We are already bringing in a CIR. We are already consulting with LPS.
+4.    (ADDED) T. Khan        
 
-we are already consulting with municipal compliance to look at storefronts and everything like that. And I wanted to know if we could get any update on when we would start seeing reports coming back to council for actual, once we start seeing the implementation get rolled out, what will we start to see coming back with respect to as those actions or the success of those actions start taking place? Through your worship. So, well, absolutely, those are very important details and we'll have to be able to provide you.
+5.    (ADDED) K. Henning
 
-Through that implementation, step in Q4, we'll be able to lay that out and if council has any other ideas or other thoughts of what they would like to see as reporting. Currently, the downtown plan speaks to having an annual report, but you're gonna have reports from probably on a quarterly basis with any kind of initiatives that are coming out of the work and it'll definitely be informed by the next council strategic plan and the multi-year budget process moving forward as well. Okay, thank you for that. And also, I know that Vacancy is a big thing that we talk about downtown, 31.5%.
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |Mayor J. Morgan|P. Van Meerbergen|
+> |A. Hopkins||
+> |S. Lewis||
+> |S. Hillier||
+> |E. Peloza||
+> |S. Lehman||
+> |H. McAlister||
+> |P. Cuddy||
+> |S. Stevenson||
+> |J. Pribil||
+> |S. Trosow||
+> |S. Franke||
+> |D. Ferreira||
+> |C. Rahman||
 
-I think Vacancy right now, which I would say has plateaued since 2023. And we really saw that reveal itself after the changes of the pandemic with the office workers moving outside of the core, but we have other Vacancy issues as well. And I do see that we have some successful programs that we use right now with incentive programs. We could be using some other tools as well.
+> **Motion Passed (14 to 0)**
 
-I wanted to know if some of the, I guess, re-envisioned or reorganized incentive programs, as they come back, will we see incentive programs that will kind of help with potentially heritage properties? Or would we see incentive programs that would help with some office spaces that we kind of have deemed as not the low hanging fruit? Would we be looking at those office spaces that may be just too big on the floor plate perspective? Whether it's from demolishing them or finding another type of use that is not necessarily residential, would we be seeing any type of programs or look into that?
+****
 
-Mr. Mathers. Through you, worship. So there is a five year review of our community improvement programs that we will be undertaking in the next, we'll be just ramping that up next year.
+# 7.&nbsp;&nbsp;&nbsp;Motions of Which Notice is Given
 
-So there'll be an overall comprehensive review of that. I'm hoping that out of the downtown champions table as well, getting those really great ideas of what would be important from the core and making some recommendations back committee and council of the ones that are programs that might be most influential and most important at the time. So I think at this point all of those options are on the table but it'll take in having this implementation coming forward and also developing this team moving forward as well to be able to actually get something before council so they can make some decisions. Thank you for that and I like how you brought up the downtown champions table and I guess I'll take that as into segue into talking about the governance structure that we are seeking to approve here in the new service area for downtown, which I believe is vitally important, just because with such a big economic engine that we have in the city here and all the things that are going on, it would be much easier whether it's individuals who are trying to bring something forward to downtown, an initiative, some type of activation, or whatever, to be able to go to that one place and also to have that governance structure that's responsible for the implementation of the plan itself.
+None.
 
-'Cause we, like I think I said this at committee, but we've had other plans in the downtown in the past. Sometimes items were picked up, sometimes items were not. And we really kind of revealed that we need that authority that's responsible for the implementation of those actions coming out of the plan. So this is one of the biggest things that I'm most excited about because we're actually gonna have the ability to do these things that come into the plan.
+# 8.&nbsp;&nbsp;&nbsp;Reports
 
-Whatever initiative it is, all the 58 actions I'd like to see them all plus more. But whatever initiative it is, that downtown service area will be responsible for bringing those items to council for approval with budgets and also bringing back the KPIs and the reporting of where the successes are, whether it's vacancy, whether it's activations, whether it's business incubation. So these are the things that are really gonna kind of get this plan moving. So this is why I'm fully supportive of this.
+## 8.1&nbsp;&nbsp;&nbsp;9th Report of the Community and Protective Services Committee
 
-I'm glad of the discussion that I heard at committee and I'm hoping to get full support with this. And this is about the vision of downtown. This is about the identity, the face of the city. I've said this before, but if we were to look at downtown, 30 seconds, comparatively speaking, to other big corporations, this is the flagship.
+[2026-06-08 CPSC Report](</2026-06/2026-06-08 9th Meeting of the Community and Protective Services Committee>)
 
-This is like the money maker. This is where everybody looks when they look at London from outside, and this is also something that gives us the sense of what it means to be a Londoner. So this is something that we need, and this is something that we'll really bring Londoners together. So I'm supportive of this, I'm hoping that we get support today, which I think we will, and thank you, those are my comments.
+> Motion made by C. Rahman
 
-Okay, other speakers. Councilor Trossab. Very briefly, I would like to again thank Deputy City Manager for his memo, which added some additional language with respect to the cultural anchors. And I particularly want to thank Mr.
+That the 9th Report of the Community and Protective Services Committee BE APPROVED, with the exception of items 2 (2.1), 3 (2.2), 5 (2.4), 7 (2.6), and 11 (2.7).
 
-Macaulay for spending the time with me and Museum London and the London Public Library to add some specific things that they felt was missing. Very significant for me, I guess I've been talking about this quite a bit. I'm very, very excited to see the additional language in 12.2 and I really will be looking forward to working with staff and sort of looking at what we already have on the books and how that can be incorporated into the implementation here. So thank you again for working with me on that and particular thanks to Mr.
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |Mayor J. Morgan|P. Van Meerbergen|
+> |A. Hopkins||
+> |S. Lewis||
+> |S. Hillier||
+> |E. Peloza||
+> |S. Lehman||
+> |H. McAlister||
+> |P. Cuddy||
+> |S. Stevenson||
+> |J. Pribil||
+> |S. Trosow||
+> |S. Franke||
+> |D. Ferreira||
+> |C. Rahman||
 
-Macaulay. Thank you. Other speakers? I have myself on the list, I'll briefly speak.
+> **Motion Passed (14 to 0)**
 
-I will turn it over to Councillor Layman to chair . Thank you, go ahead, Mayor. Yeah, I don't want to repeat what colleagues have already said. But I do want to actually take a moment to thank our staff and all of the different community partners who took the time to engage on both this and the plan that we just passed on the economic development plan.
+****
 
-These were things that we said in a direction a couple of years ago to actually come to fruition. It took a lot of work. It took a lot of engagement. The consultants did thousands of hours of work.
+### 8.1.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest 
 
-Our staff did the same. And so although we have the chance to pass it today, and there's obviously a lot of work ahead, 'cause these are plans that have to be implemented, it is important for us to recognize that there's a significant amount of work that go into this point, to getting to this point is a critical piece. But this is, as Councilor Perbal always likes to say, when we do the strategic plan, implementation is obviously a critical part of any document or plan. Having a solid plan is just the first step.
+> Motion made by C. Rahman
 
-One of the things that I just wanted to take a moment to highlight, 'cause there are many things to highlight in the downtown plan, is I appreciate the recognition of the assets that we have in the downtown already. We are lucky to be a city where there is hundreds of millions of dollars of residential investment already going into our downtown that we have the capacity to accelerate. We are lucky to be a city where we have already made the decision to improve on significant and existing critical assets that are already driving activity and events in the downtown like the investment we made in the enhancements to Canada Life Place. We also recognize through this plan that we have significant natural heritage aspects in our downtown, that other cities are ambious up .
+That it BE NOTED that no pecuniary interests were disclosed.
 
-We have a beautiful river flowing through the downtown of the city. We have private sector interested in the river district. It's a grassroots moment. It's not a city idea coming to being layered onto the community.
+> **Motion Passed**
 
-We're seizing these things in our community. And of course, right beside this building, we recognize that we have one of the most beautiful downtown parks of any city and we have the ability to make that a truly transformative space through the execution of this plan. Downtowns are shifting to we neighborhoods, and that means downtowns will feel like neighborhoods with people living in them, working in them, enjoying beautiful public spaces, and we have the chance now to move forward up on the passing of this plan with execution implementation of a really critical plan that was representative of many hours of hard work for many people, so thank you. I'll turn the chair back to you, Mayor.
+****
 
-Okay, others, speakers to do this. Okay, seeing none, we can open this for a moment. Councillor Palazzo, second call, Councillor Pal azzo, or I can Councillor Palazzo absent, closing the vote, motion carries 12 to one. Councillor Rhomme.
+### 8.1.4&nbsp;&nbsp;&nbsp;[(2.3)](</2026-06/2026-06-08 9th Meeting of the Community and Protective Services Committee#23municipal-compliance-services-policy-update-and-online-public-municipal-compliance-tools-review>) Municipal Compliance Services Policy Update and Online Public Municipal Compliance Tools Review (Relates to Bill No. 249)
 
-Thank you, that concludes my report. We're on to the 11th report of the Infrastructure and Corporate Services Committee, Councillor McAllister, I'll turn it over to you to present. Thank you, please, to report the 11th report on Infrastructure and Corporate Services. I have had requests for eight, nine, and 11 to be pulled, so I will look to move one through seven and 10.
+> Motion made by C. Rahman
 
-Okay, anybody else want anything dealt with separately besides eight, nine and 11? Okay, so you'll move a motion council then? Yes, that was one, two, seven. So one to seven and 10 are before us moved by the chair.
+That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the following actions be taken with respect to the staff report dated June 8, 2026 related to the Municipal Compliance Services Policy Update and Online Public Municipal Compliance Tools Review:
 
-Any discussion on those matters, okay? Seeing none, we will open that for voting. Those in the vote, motion carries, 13 to zero. Sorry, Mr.
+a)    the proposed by-law, as appended to the above-noted staff report, BE INTRODUCED at the Municipal Council meeting to be held on June 23, 2026, to amend By-law CPOL.-410-168, Clause 4.7, being a provision in the City of London Municipal Compliance Services Policy, enacted by Council on July 25, 2023, under By-law No. CPOL.-410-168;
 
-Chair, Mr. Mayor. Yes. My vote, sorry, sitting with the last vote, just keep saying vote closed, even though I'm trying to vote.
+b)    the Civic Administration BE DIRECTED to implement Service London Portal submission confirmation updates through the annual enhancement process, to support residents in knowing how they can access limited public disclosure of Municipal Compliance complaint status information and investigation outcomes;
 
-So I'm here, I'm gonna start restart E-scribe, but my vote would have been a yes if it would let me vote. Oh, on the downtown plan, that one? Yeah, on that one and then Councillors, Democrats are stuff right now. Just, I said, I'll restart it, just keep saying vote close.
+c)    the implementation of a Municipal Compliance CityMap and Development and Business Portal Enhancement initiative and associated funding requests BE REFERRED for consideration as part of the 2027-2031 Strategic Plan and 2028-2031 Multi-Year Budget process; and,
 
-So I'll retry and I'll do it verbally if it's giving me more problems, sorry. No problem, Councillor. I mean, we're happy that you verbally confirmed your support for the downtown plan. If you really want to vote for a week or three-- Nope, we're not going back, always forward.
+d)    the above-noted staff report BE RECEIVED.
 
-Thank you. Perfect, that's the way I like it. All right, okay, so we'll move on then. And if you need to vote verbally, just vote verbally, we'll slow things down to make sure you can jump in until Lee Scribe gets working for you.
+> **Motion Passed**
 
-I'll turn it back to Councilor McAllister for the remaining items in the report. Thank you, and through you, I'll put item eight on the floor. Okay, so that's on the floor. I'll look to any speakers.
+****
 
-Seeing none, we'll open that for voting. Well, yes, Councilor Plaza. Closing the vote, motion carries 13 to one. Councilor McAllister.
+### 8.1.6&nbsp;&nbsp;&nbsp;[(2.5)](</2026-06/2026-06-08 9th Meeting of the Community and Protective Services Committee#25by-law-amendments-and-management-measures-to-reduce-rat-infestations>) By-law Amendments and Management Measures to Reduce Rat Infestations (Relates to Bill No.'s 244, 247 and 252)
 
-For you, I will put item nine on the floor. Okay, item nine is on the floor. I'll look to any speakers on item nine. Seeing none, we'll open that for voting.
+> Motion made by C. Rahman
 
-Councilor Close votes yes. Close in the vote, motion carries 13 to one. Councilor McAllister. Thank you, through you, I'll put item 11 on the floor.
+That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the following actions be taken with respect to the staff report dated June 8, 2026, related to By-law Amendments and Management Measures to Reduce Rat Infestations:
 
-Item 11 is on the floor. I'll look for any speakers to item 11. Councilor Stevenson. Thank you.
+a)    the proposed by-law, as appended to the above-noted staff report as Appendix "A", BE INTRODUCED at the Municipal Council meeting to be held on June 23, 2026, to amend By-law CP-24, being the Property Standards By-law, to revise the definitions section;
 
-I do have some questions through you to staff. I just wanna confirm that this report says that there's $1.8 billion in property tax funding or taxpayer funding that is internally invested and managed. And I also just wanna confirm that the policies that we have regarding how to invest and how to report out are the provincial standards and nothing more than that. Sure, I'll go to Mr.
+b)    the proposed by-law, as appended to the above-noted staff report as Appendix "B", BE INTRODUCED at the Municipal Council meeting to be held on June 23, 2026, to amend By-law PW-15, being the Yard and Lot Maintenance By-law, regarding proposed improvements to the definitions of Receptacles and Exterior Storage Areas;
 
-Murray online. Thank you and three Mr. Murray, yes. That is correct.
+c)   the proposed by-law, as appended to the above-noted staff report as Appendix "C", BE INTRODUCED at the Municipal Council meeting to be held on June 23, 2026, to amend the Administrative Monetary Penalty System (AMPS) By-law (A-54);
 
-The total market value of the city's investment portfolio as of the end of 2025 was approximately 1.8 billion. And to the second part of the councilor's question, the investment process, some of their investment strategy and decisions are guided by provincial legislation, specifically the Municipal Act and associated regulations as well as our city investment policy, which is available on our website, and that policy itself is informed, of course, by the regulations in the Municipal Act, thank you. Councillor Stevenson. Thank you, and to confirm, in terms of reporting, it's just the minimum required by the Municipal Act, correct?
+d)    the Civic Administration BE DIRECTED to develop a Residential Rat Remediation Support Program, to provide financial assistance to eligible owner-occupied residential properties and to report back to the Community and Protective Services Committee with implementation recommendations and any associated costs; and,
 
-Mr. Murray. Through you, so the reporting that is required outlined in our investment policy itself as well. It does certainly meet the minimum requirements in the legislation, although we do provide additional context and additional commentary as part of our investment report to help council understand our investment performance.
+e)    the implementation of a Corporate Rat Management Plan and associated funding requests BE REFERRED for consideration as part of the 2027-2031 Strategic Plan and the 2028-2031 Multi-Year Budget process.
 
-Okay, Councillor Stevenson. Thank you. Yeah, I talked about this one a little bit at committee, but I you know we talk about transparency and accountability and as I said this is 1.8 billion dollars and what is reported and it's no well it 's 1.5 billion in fixed income in GICs and 295 million in Canadian equity pooled funds when I and that's that's all that we see so when I asked at committee you know other cities will list all of the different investments and we get to see them all. And the response was there's a lot of them, there's 180 different investments.
+> **Motion Passed**
 
-And I just think, well, all the more reason why two lines is not sufficient, transparency, in my opinion, two taxpayers, where we're investing money on behalf of them. And when I go back to 2021, the investment report for the year ending 2021, it showed 10 or 12 different investments. It also talked about the average term maturity. It showed book value.
+****
 
-And there was an appendix B that showed the various different five cool investment funds, government fixed income, corporate fixed income, asset backed securities and other investments. And it showed both cost and market value for the current year and the previous year. it says an excerpt from the 2021 consolidated financial statements so but in the in the 2025 report here we're only showing fair value we're not showing book value and market value you can't see if there was a gain or a loss and so i'm just wondering when this report is developed and brought forward to council how does civic administration decide how much to provide and and what information to provide. And if there's a change from one year to the next, because it seems to me, and I've said this before, that in iterations of Council, we seem to be having less and less accountability and transparency, less and less detail, whether it's multi-year budgets, you know, operating things or the investments.
+### 8.1.8&nbsp;&nbsp;&nbsp;[(2.8)](</2026-06/2026-06-08 9th Meeting of the Community and Protective Services Committee#28london-fire-department---source-of-financing-for-fire-apparatus>) London Fire Department - Source of Financing for Fire Apparatus
 
-We're seeing less and less. When I go back 10 years ago, there's tons of detail ins and outs, balances. Now we just get everything summed out. So my question through you to staff is can you just help me understand why there's a change to fair value reporting rather than book value and market value and who and how is or the decisions made around less reporting to counsel.
+> Motion made by C. Rahman
 
-I don't have Mr. Roy you want to start with that one? Certainly and through you Mr . Mayor so what I will say and certainly the the environment and the landscape has changed somewhat in the the last few years as it pertains to accounting policies and accounting requirements in relation to our investments.
+That, on the recommendation of the Deputy City Manager, Neighbourhood and Community-Wide Services, the following actions be taken with respect to the staff report dated June 8, 2026, related to the London Fire Department - Source of Financing for Fire Apparatus:
 
-New accounting standards related to financial instruments have come into effect approximately two years ago, which has required municipalities to reflect our investments in many cases at fair market value. So that is why the shift perhaps in focus from book value to fair market value, that is to align with the accounting standards that are currently in effect. What I will say more generally as well is that certainly we are open to providing the information that council believes is valuable and relevant and helpful in your understanding of our investment portfolio activities. Certainly we're happy to take that direction.
+a)    in accordance with Section 14.4(e) of the Procurement of Goods and Services Policy, the Civic Administration BE AUTHORIZED to enter into negotiations with City View Specialty Vehicles for the purchase of one (1) Tanker/Pumper and one (1) Aerial Ladder Truck, for the price of $5,526,900;
 
-We do have a fairly sizable investment portfolio. As was noted in the committee report itself, we have upwards of almost 200 different securities in our fixed income portfolio. So it is a sizable portfolio, but certainly we are open to taking Council's direction on additional information or specifics that Council would like to see going forward. Councilor Stevenson.
+b)    the financing for these projects BE APPROVED as appended to the above-noted staff report; and,
 
-Yeah, thank you. I mean I I think it would be clear by what I'm doing here that I do think that we should have a more extensive investment policy and council should be saying that what we wanna see, this is just so summed that it's just not accountable or transparent in my opinion. And I think the general public would agree that if there's 180 different investments that it'd be nice to know for those who know about investing, be able to see transparently what we're doing. So in the 2021 report, it took an excerpt from the consolidated financial statements for the year.
+c)    the Civic Administration BE AUTHORIZED to undertake all the administrative acts that are necessary with this assignment.
 
-Did staff think that there was anything in the current year of financial statements that was warranted to bring forward for council's attention here? I'm assuming not because it's not here, but I just wanna know if that consideration is made and who's making that decision. Mr. Murray.
+> **Motion Passed**
 
-Thank you through you. So the information here, I'll just caution as well is not directly tieable to the financial statements themselves. Of course, our financial statements are consolidated financial statements, this investment report deals with specifically our unconsolidated investments, those being the investments of the city itself and not inclusive of investments that our agencies, boards or commissions may hold . So there is a challenge, I guess, in pulling information directly our financial statements because they are two different basis of numbers that that they relate to.
+****
 
-So that is the challenge but certainly the the portion of our investments that relate to the city itself is reconciled to what is reported in our annual audited financial statements. Councilor Stevenson. Thank you and who is it that makes the decision as to the level of information and that comes to council. Mr.
+### 8.1.9&nbsp;&nbsp;&nbsp;[(2.10)](</2026-06/2026-06-08 9th Meeting of the Community and Protective Services Committee#210city-of-london-community-grants-program-impact-reports-2024---2025>) City of London Community Grants Program: Impact Reports (2024 - 2025)
 
-Murray, are I see nods in the room to Mr. Murray? Okay. Or do you want to go?
+> Motion made by C. Rahman
 
-Mr. Murray, I'll start with you and then we might have more answers in the room, so. Certainly, certainly. I can start Mr.
+That, on the recommendation of the Deputy City Manager, Neighbourhood and Community-Wide Services, the staff report dated June 8, 2026, with respect to the City of London Community Grants Program: Impact Reports (2024 – 2025), BE RECEIVED.
 
-Mayor and through you, it is the treasurer who has ultimate responsibility for the investment policy and ultimately the investment report of the city. Would you like to add anything? Thank you for the chair. So certainly throughout the number of years through our investment update, we've provided numerous policy changes and through those policy changes, we take the direction of council.
+> **Motion Passed**
 
-So certainly if council was looking for additional information or does not wish to follow the advice that staff have put forward with respect to policy changes, council is always open to make those changes through the policy that is brought forward on a regular basis for review. Perfect, thank you. Councillor Stevenson, you have, I just wanna give you your time. you got 38 seconds or so.
+****
 
-Yeah, so, and I understand that, and hence why I'm talking to council and talking to the public about this, in that the minimum standards are met, but there's a variation, changes are happening from year to year, the presentation is changing, what is reported is changing, the level of detail is changing, and there's no explanation as to why in the report, those changes are made. So it does say that the 2024 portfolio investment , that we closed out the retail brokerage accounts and everything's been moved internally. I guess and I'm not trying to trap staff here and I am a little frustrated by what is being presented here when I read your time is up. Other speakers to this item we're going to open that for voting.
+### 8.1.10&nbsp;&nbsp;&nbsp;[(2.11)](</2026-06/2026-06-08 9th Meeting of the Community and Protective Services Committee#211london-middlesex-child-care-and-early-years-service-system-plan-update--2025-progress-report>) London-Middlesex Child Care and Early Years Service System Plan Update – 2025 Progress Report
 
-Sir Pelosi thank you closing the vote motion carries 13-1 and that concludes my report. Okay thank you we're going to move on to the report of the Planning and Environment Committee I'll turn it over to chair layman to present the report. Thank you, Mayor. I'm pleased to present the ninth report of the playing an environment committee.
+> Motion made by C. Rahman
 
-I've been requested to pull item seven and that's the extent of that. Okay, item seven, anything else? Go ahead, Councilor Trossa, or sorry, Raman, Councilor Raman, you wanted something separate? Thank you, item 12, please, 4.1.
+That, on the recommendation of the Deputy City Manager, Social and Health Development, the London-Middlesex Child Care and Early Years Service System Plan, 2024-2028 - 2025 Progress Report, as appended to the staff report dated June 8, 2026, BE RECEIVED.
 
-Okay, 12, Councilor Trossa, you have your hand up? Yes, I'm sorry. I wanted to vote separately on item six. Oh, item six in the planning report, sure, no problem.
+> **Motion Passed**
 
-We can do that separate. Councillor Stevenson. Thank you. I'd like to pull five, eight and nine, please.
+****
 
-Hey, one, one, anything else? So it seems like what we have left is one through four, 10 and 11, if I'm right. I see nods. Everybody okay with doing those ones together?
+### 8.1.12&nbsp;&nbsp;&nbsp;[(2.9)](</2026-06/2026-06-08 9th Meeting of the Community and Protective Services Committee#29byron-veterans-monument-donation-to-springbank-park>) Byron Veterans Monument Donation to Springbank Park
 
-Okay, Councillor Layman. So I'll move those items. Those items are on the floor. I'll look for any discussion.
+> Motion made by C. Rahman
 
-Go ahead, Councillor. Yeah, thank you. Well, I just want to take an opportunity here to thank the committee on 3.1, which is subdivision on Colonel Talbot. Road, I did bring forward an amendment given the amount of development that's going on in this area and the development that is to come that a revised transportation impact assessment be considered as it goes through the draft plan of subdivision as well as the site plan.
+That the matter of the Byron Veterans Monument Donation to Springbank Park, as included in the staff report dated June 8, 2026, BE REFERRED to a special meeting of the Community and Protective Services Committee on June 16, 2026.
 
-I just want to thank the committee for supporting that amendment. Any other speakers to the items before us? Okay, we're gonna open that for voting. Those in the vote, motion carries 14-0.
+> **Motion Passed**
 
-Oh, I'd like to put on item five regarding 2496 Dundas Street. Councilor Stevenson requests that to be pulled. Okay, that item is dealt with separately. I looked at any speakers on that, go ahead.
+****
 
-Thank you, yes, there was a written submission that came in from the airport authority, I believe. On this one, I'd just like an update or staff's comment on this. Go ahead. Sorry Mayor, point of order.
+### 8.1.13&nbsp;&nbsp;&nbsp;[(3.1)](</2026-06/2026-06-08 9th Meeting of the Community and Protective Services Committee#315th-report-of-the-environmental-stewardship-and-action-community-advisory-committee>) 5th Report of the Environmental Stewardship and Action Community Advisory Committee
 
-Point of order. I believe, and this is not with respect to the councilor's comments. I see 12 was moved here. I thought that was pulled.
+> Motion made by C. Rahman
 
-I don't know if you're reading the motion wrong , it says with the exception of items, and then it lists them, and it includes 12. So that means it's not in. Okay, I pulled that back, thank you. So, all good.
+That the following actions be taken with respect to the 5th Report of the Environmental Stewardship and Action Community Advisory Committee, from the meeting held on May 28, 2026:
 
-Thank you through your worship. The letter on the agenda is provided for information for council to make you aware that they do operate 24 hours, and the concerns related to potential noise complaints from as growth happens and growth comes closer to the airport lands. Councillor Stevenson. Thank you.
+a)    the Civic Administration BE DIRECTED to report back to a future meeting of the Community and Protective Services Committee with a by-law requiring licensing of businesses that sell listed invasive plant and animal species, and requiring license holders to provide information prescribed by the license manager to any person who purchases, acquires or obtains a listed species from the license holder;
 
-I guess I was surprised to see this like right on the added agenda for council given that we talked about this at planning a little while ago and I would have thought the airport as a major neighbor to that area that we would have reached out to them or consulted them or had their input. So can I just ask, do we have a policy around consulting with the airport around these kinds of things? Mr. Mathers.
+b)    the Environmental Stewardship and Action Community Advisory Committee (ESACAC) BE CONSULTED to share input on the list of invasive plant and animal species and the information to be prescribed by the license manager; and,
 
-Through your worship, we were circulated on this application and they chose not to make a submission through the normal course of the process. We did reach out to them very close to the committee 'cause there were some questions that we'd received about the 24-hour nature of the airport lands and they decided at that point to put and submit a letter but we did include them. They were actually outside the required distance, but we decided to provide them a notification as part of our process, but they chose not to at the time to be able to make a submission. Councillor Stevenson.
+c)    the above-noted ESACAC report BE RECEIVED;
 
-Thank you. Can I ask in terms of our economic development and our economic development strategy, has this zoning change or app development been considered in terms of our goals there? Thank you through your worship. These lands were brought into a change in land use through the land needs assessment review.
+it being noted that communications from the following individuals, as appended to the Agenda and the Added Agenda, with respect to this matter, were received:
 
-So they were originally industrial and Council opted to put these lands into residential. So now the nature of the zoning application is to follow that land use. From that perspective, no, we don't necessarily follow the economic development plan because we're following the Planning Act in terms of zoning applications that are submitted for Council's consideration. Council Stevenson.
+-    Councillors S. Trosow and D. Ferreira
 
-Thank you through the staff though, could I hear from economic development in terms of that being one of our focuses and how this might impact? Thank you through the chair. So I can, what I can say to you, and I'm not sure it answers your full question, I can tell you the airport was heavily involved in the discussions as it relates to development of the economic development plan. I do not know that they've raised this specific issue, but they've certainly been active in the discussions as we develop the plan.
+-    D. Milton 
 
-I'm happy to get more information and specific questions if you have them. Councillor Stevenson. Well, I guess my last question is what are the risks of referring this and allowing us to have the time for civic administration to talk to them about this and to look at our economic development strategy that was just passed? Maybe you can comment on timelines or anything related to risk.
+-    Dr. T. Satchell
 
-Thank you through your worship. From a planning perspective, the risk would be not meeting the statutory timelines. Councillor Stevenson. Okay, I think that's the only questions I have.
+-    K. Gauci 
 
-Like I said, I just feel uncomfortable when I see a letter like this last minute on the agenda. It doesn't feel good, you know? Deputy Mayor Lewis. Thank you, Chair, and through you, I'm gonna encourage everyone to support the committee's recommendation here.
+-    K. Buck
 
-First of all, as Ms. Medele indicated in our comments, this land through the land needs assessment was removed from the industrial place type and the employment sector lands. I think between 18 and 24 months ago, or there about staffing correctly, if I've got the timeline wrong, the letter that we received from the airport not only was late after not participating in the initial opportunity to comment, but really is not different substantively than the letter we received almost two years ago when we made the land use change. So irrespective of the economic development plan, which does feature some pieces of the airport, have to make a planning decision here based on an application that was received.
+-    S. Garner 
 
-And with respect to the 24/7 comments, I mean, this is a situation where anyone purchasing a unit in this townhouse complex is going to know from day one that they 're moving near the airport. There are actually homes that are closer to the airport already existing on Costasav and Creamery Road. So again, I just bring it back to this is a planning application, not an economic development question , and we should be submitting or we should be voting based on the planning rationale that was supported by staff in their staff report and moving this application forward. So I would encourage colleagues to stay with committee recommendation.
+-    L. Branco Alecrim
 
-Other speakers to this matter, Councillor Ferrera. Thanks, Mayor. I would also agree that to stay with the recommendation from the committee, Deputy Mayor Lewis beat me to the punch, but cost us out of this closer to approach on the big runway there than this residential development would be. So there are individuals who would be closer than this one.
+-    A. Moehring
 
-And just with the patterns of aviation going around, you're not going to see any aircraft right over that area. It would be much less of a noise, I guess, complaint than it would for the Costes app coming in. So those would be my comments, I just wanted to add to that. Other speakers in this matter?
+-    D. McAdams
 
-Keep seeing none, the item forces, the committee 's recommendation will open that for voting. and the vote motion carries 13 to one. Councillor Layman. Mayor, I'll put item number six.
+-    M.A. Hodge 
 
-This is regarding 221 Queen's Ave on the floor. This was requested to be pulled by Councillor Tro so. Okay, that item is on the floor. I looked any speakers.
+-    S. Ratz
 
-Go ahead, Councillor Troso. Again, in the interest of time to the Mayor, I made some rather long comments about this at the committee. I cannot support this. I cannot, I cannot support another temporary, temporary extension.
+-    T. Cull
 
-And I believe that the staff report had it right. And I don't think it's really appropriate for us to get into a discussion about whether we like the applicant or not, that's not a land use consideration. So I really think it's time for us to say to this property owner with respect to this parcel, but it's time to move on and do some housing development. Perfect place for it.
+-    Amaan
 
-And that's why I'll be voting no on this item. Thank you. speakers. Go ahead, Councillor Preble.
+-    K. Moreland
 
-Thank you. I will certainly be supporting the recommendation of the committee. The applicant, the owner of the property of the parking lot was very clear in terms of the need, need for their current tenants that they have and in terms of the safe nearby parking. And as we all know, this developer certainly is or does develop in the various properties downtown London or throughout London so I will be supporting it based on the facts that this parking lot is needed and for the current and as you know the situation downtown with our vacancy rate I think that we should be working in terms of increasing our economic growth not decreasing and therefore I'm going to support this it does make sense in this case to support this parking lot absolutely thank you.
+-    S. Sealy
 
-Okay thank you I have just you know that I've I've got you on the list, Louis, Frank, and Ferre ira. Go to Jeopardy, where Louis first. Thank you, Chair. And through you, I'm absolutely supporting the committee recommendation.
+-    M. Blake Rose
 
-I moved it at committee and I'm gonna be blunt. First of all, we can't tell the applicant to move on and build housing. The property isn't actually zoned for residential use, moving forward. So what we would have is a vacant piece of land.
+-    L. Miller;
 
-These are fully leased spots that serve tenants in existing downtown commercial office buildings. Without these spots, the landlord would be in breach of lease and potentially could see early termination of leases and have tenants vacating the downtown floor and increasing commercial vacancy. And in addition to that, we hear it's temporary, it's temporary. Yes, it's an extension of another temporary use.
+it being further noted that verbal delegations from B. Samuels and M. Blake Rose, with respect to this matter, were received.
 
-If we look back at some of our own municipal plans, By this point in time, we should have multiple downtown parking garages that have not materialized. We still have a parking problem in downtown London and we are not going to see surface lots disappear until we see something develop around the development of a parking garage. So I strongly encourage colleagues to not increase commercial vacancy, to not presume that this could be turned into housing because it's not even zoned for that use currently. So it would have to go through a rezoning before that could even be considered.
+> **Motion Passed**
 
-The applicants made it very clear that they're not interested in doing that right now. And so we should be supporting this committee's recommendation. That's our prayer. Thanks, Mayor.
+****
 
-Just listening to the conversation, I just wanna add, I feel like we should be pragmatic in kind of how we approach this. Like I understand Council Troso's sentiments. I don't wanna see parking surface love lots either. However, at the same time, I think the discussion should be about what can we do to discuss with the owner of future work?
+### 8.1.2&nbsp;&nbsp;&nbsp;[(2.1)](</2026-06/2026-06-08 9th Meeting of the Community and Protective Services Committee#21londons-newcomer-strategy-choose-london--innovative-vibrant-and-global-2024-2028-and-the-welcoming-francophone-community-initiative>) London’s Newcomer Strategy: Choose London – Innovative, Vibrant and Global (2024-2028) and the Welcoming Francophone Community Initiative
 
-And I think that's gonna take some time, but I think we should start doing that. We had a parking strategy. I agree with Councillor Lewis' comments. We do need to figure out how it is we're gonna accommodate certain parking and I feel like building structures or mixed use developments would help us in that.
+> Motion made by C. Rahman
 
-But supporting three years for this is something that I would do now, but I think the conversation should be about what do we do when that three years comes to an end? Are we able to potentially work with the owner here and see if we can find a solution so we don't have to have an extension on the next three years? So right now, I am gonna support it, but I think the conversation really should be about what's next after the three years. So we don't come up to this situation again in three years and talk about extending it again.
+That, on the recommendation of the City Manager, the staff report dated June 8, 2026, with respect to the London Newcomer Strategy: Choose London – Innovative, Vibrant and Global (2024-28), BE RECEIVED.
 
-I think that there's good use here, and I really think that there's some interest to obviously, you know, create a better way of how we accommodate parking in the downtown court. Okay, Councilor Cady. Thank you, Your Worship, and through you. The applicant, if they thought they could fill a building, they would put a building up.
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|S. Stevenson|P. Van Meerbergen|
+> |A. Hopkins|||
+> |S. Lewis|||
+> |S. Hillier|||
+> |E. Peloza|||
+> |S. Lehman|||
+> |H. McAlister|||
+> |P. Cuddy|||
+> |J. Pribil|||
+> |S. Trosow|||
+> |S. Franke|||
+> |D. Ferreira|||
+> |C. Rahman|||
 
-These are one of the leading developers and builders in our city, and they have been for 50, 60 years. So not to repeat anything that's already been said by Deputy Mayor Lewis or others. I would strongly recommend and encourage my colleagues to support this. I don't disagree with what Councilor Ferra said.
+> **Motion Passed (13 to 1)**
 
-would be nice to know in the next three years what their plans are and I have no doubt I've no doubt at all that they will tell us what their plans are they'll telegraph them fairly quickly because they'll understand when the economy is changing when there's an opportunity to fill buildings I'm sure they will build them so thank you okay any other speakers on this one okay seeing none we're gonna open it for voting me oh sorry stop I see councilor blows his hand up so we won't vote yet you can go ahead and speak that's okay certainly not anticipating to sway any votes here I think that 's the issue that we've always had we don't want to see vacant property going on use parking is a use but I think that's a conversation that's probably been had around this very horseshoe for 31 years of looking forward to a plan coming and at some point either we just stop with temporary and let it be permanent or we actually look for that application I think that's just my standing feeling about these temporary parking lots that we've seen across the core throughout my term on council and this report cites 31 years for some potentially on council that's almost their entire lifetime. Thank you. Seeing no other speakers for now can open it for voting. Thank you for closing the vote.
+****
 
-Motion carries 10 to 3. Noting Councilor McAllister has left the meeting. Turn back to Councilor Lehman. Thank you Mayor.
+### 8.1.3&nbsp;&nbsp;&nbsp;[(2.2)](</2026-06/2026-06-08 9th Meeting of the Community and Protective Services Committee#22city-of-london-tree-nursery-feasibility>) City of London Tree Nursery Feasibility
 
-I'll put number 7 regarding 1057 to 1061 Richmond Street. on the floor. This was requested to be pulled by Council Raman. Okay, that is on the floor.
+> Motion made by C. Rahman
 
-I look to speakers. Go ahead, Council Raman. Thank you and through you. I'd like to put forward an amendment that I have circulated and I apologize to my colleagues for the late circulation, but I understand that the developer did also circulate a letter regarding my amendment.
+That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report dated June 8, 2026, related to the City of London Tree Nursery Feasibility Study:
 
-So the amendment that I'm looking to introduce, would you like me to read it? Yes, please. And I'll just confirm with staff that it's the alternative recommendation that I shared. And so with that, it starts with not withstanding the recommendation, the Director of Planning and Development, the following actions be taken with respect to the application of 100, 144, 36, 158, Ontario, Inc., Royal Premier Homes, related to the property located at 1057, 1061 Richmond Street, the proposed alternate bylaw attached here to as Appendix be introduced at the Municipal Council meeting June 23rd, 2026 to amend zoning by-law number Z1 in the Municipal Council meeting June 23rd, 2026.
+a)    the above-noted staff report BE RECEIVED; and,
 
-Sorry. In conformity with the Official Plan, the London Plan to change the zoning of the subject property from a neighborhood facility special provision bonus and F-114B-24 zone to a neighborhood facility special provision 14 zone and be it further result that pursuant to subsection 3417 of the Planning Act to know for their notice be given, it being noted that the above noted amendment is being recommended for the following reasons. I the recommended amendment is consistent with the PPS 2024 to the recommended amendment conforms to the London Plan including but not limited to the key direction city building policies and the urban corridor place type policies and three the recommendation amendment and facilitates residential intensification that is appropriate for the existing and planned context of the site and surrounding neighborhood. I've included an update to the by-law, and so that is prepared and ready.
+b)    the Civic Administration BE DIRECTED to retain consulting services to undertake a technical feasibility study for the establishment of a municipally-operated tree nursery for the purposes of growing caliper-sized trees for planting on City-owned lands.
 
-That includes in it two additional components that are under XII and XIV. The first one is maximum number of bedrooms were per dwelling unit at three and XIV maximum number of bedrooms on the property at 35. Okay, so I need to look for a seconder. Deputy Mayor, I assume you're not looking to second.
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|S. Stevenson|P. Van Meerbergen|
+> |A. Hopkins|||
+> |S. Lewis|||
+> |S. Hillier|||
+> |E. Peloza|||
+> |S. Lehman|||
+> |H. McAlister|||
+> |P. Cuddy|||
+> |J. Pribil|||
+> |S. Trosow|||
+> |S. Franke|||
+> |D. Ferreira|||
+> |C. Rahman|||
 
-No, actually, I'm gonna call a point of order, Mr. Chair. In my opinion, this amendment is out of order. It's substantively alters the committee recommendation by imposing caps that are not something that was in the staff recommendation, as was indicated by the communication where it received from the applicant.
+> **Motion Passed (13 to 1)**
 
-It would halt to the development, not approve it, would force them to go back, it would also potentially result in an OLT appeal . I think this is a substantive change and contrary to the committee's recommendation. Okay, so that's a point of order. I'm just gonna need a second on that one.
+****
 
-So point of order was essentially not to allow the amendment because the councilor felt it was contrary to the planning committee's recommendation. So my ruling on this after consultation with the clerks is that although it could be substantially different, I don't believe it is contrary, even if it does have significant consequences for the developer. So I'm gonna let the amendment proceed as an amendment based on the advice of the clerks. And it is my decision, but that's what I'm going to decide.
+### 8.1.5&nbsp;&nbsp;&nbsp;[(2.4)](</2026-06/2026-06-08 9th Meeting of the Community and Protective Services Committee#24request-to-submit-an-application-for-new-affordable-housing-funding-through-build-canada-homes>) Request to Submit an Application for New Affordable Housing Funding Through Build Canada Homes
 
-And certainly we can have a debate on the amendment. Should that fail? We'll have a debate on it. respectfully your worship I'm going to challenge the chairs ruling that as I expected you would so All right, so we'll do a challenge of the chair.
+> Motion made by C. Rahman
 
-So my ruling is that The amendment is allowed. So there will be a vote and that is Basically should the essentially is should the ruling of the chair be upheld So you vote yes, you agree with me that the amendment can stand you vote no Then what we will do is the amendment will not stand and the motion would have to be defeated first for Councillor to introduce the alternate. So but the but the decision that we'll make now, not debatable, is does Council support the decision I made to allow the amendment to stand? Okay, so we're going to put that on.
+That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the Civic Administration BE DIRECTED to submit an application to Build Canada Homes to secure capital funds to support the development of new affordable housing in the city of London and Middlesex-County.
 
-Yes, is you agree with me? I know as you disagree with my ruling. Okay, we'll open that for voting. Closing the vote.
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|S. Stevenson|P. Van Meerbergen|
+> |A. Hopkins|||
+> |S. Lewis|||
+> |S. Hillier|||
+> |E. Peloza|||
+> |S. Lehman|||
+> |H. McAlister|||
+> |P. Cuddy|||
+> |J. Pribil|||
+> |S. Trosow|||
+> |S. Franke|||
+> |D. Ferreira|||
+> |C. Rahman|||
 
-The challenge of the chair is successful. The ruling of the chair is not sustained in a vote of five to eight. Okay, and by the way, I take no offense to that, it's a decision-making mechanism. So that means council has decided that the amendment will not be allowed.
+> **Motion Passed (13 to 1)**
 
-So to make your amendment councilor, we would have to defeat the committee's recommendation and then we could proceed with an alternate. So that would be the pathway before us. So I will, so what we're on is the committee chair presenting these committee's recommendation. All you did was rise and propose an amendment.
+****
 
-So I'm gonna allow you to still have the right to speak to the main motion. You don't have to do that now, you can do it later, or you can do it now, but that's where we are. Oh, okay, Clerk says you should speak now 'cause he already rose and on the speaker's list, so we're gonna do that. Through you, thank you.
+### 8.1.7&nbsp;&nbsp;&nbsp;[(2.6)](</2026-06/2026-06-08 9th Meeting of the Community and Protective Services Committee#26122-base-line-tenant-transition-plan-update-q2>) 122 Base Line Tenant Transition Plan Update Q2
 
-I will start by asking my colleagues not to support the recommendation that's on the floor from planning today. And the reason for that, I think, well articulated in the sum of the letters submitted, including the one from Mr. Barrett and Ms. Smoot.
+> Motion made by C. Rahman
 
-In that letter, you'll see a summary of the reasons why the alternative recommendation should this motion fail, of which I would like to move or someone else to move to limit the bedrooms would be an important consideration. So in this summary that's provided it's explained that the policy context and the planning framework has not substantially changed since Council first considered the adaptive reuse and intensification of this property. As we know from this discussion, this item went to the OLT OMB at the time in 2013, and it determined that the appropriate level of intensification of this particular building was nine dwelling units with a total of 27 bedrooms. What we have here today is 17 units for discussion.
+That, on recommendation of the Deputy City Manager, Housing and Community Growth, the staff report dated June 8, 2026, with respect to the 122 Base Line Road Tenant Transition Plan Update Q2, BE RECEIVED.
 
-What I'm proposing as an alternative is yes, keep the 17 units, but limit the bedroom count. The bedroom count would be limited by what we heard in the room at PEC during the conversation provided by the planning consultant Mike Davis. So the amendment would conform with the verbal commitment given by the planning consultant. That was three bedrooms on the nine already constructed units and in the basement and Yes, the basement, one bedroom or studios in the remaining eight units.
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|S. Stevenson|P. Van Meerbergen|
+> |A. Hopkins|||
+> |S. Lewis|||
+> |S. Hillier|||
+> |E. Peloza|||
+> |S. Lehman|||
+> |H. McAlister|||
+> |P. Cuddy|||
+> |J. Pribil|||
+> |S. Trosow|||
+> |S. Franke|||
+> |D. Ferreira|||
+> |C. Rahman|||
 
-So you have residents of the area who've had a chance to tour this particular building since it has been constructed. And they've given their feedback as well and shared that in your submissions. But you'll also see again in this summary that this is a reasonable opportunity to have a conversation around the kind of bedroom count that should be in a unit, in a development like this. The interesting thing about this proposal in front of us is we can't see anything.
+> **Motion Passed (13 to 1)**
 
-So we have to take into account what we heard in the meeting. What we heard in the meeting was a commitment that the three bedrooms, which are already constructed in those nine units should stand, and that the remaining makeup of the building should be one bedroom in studios. So I asked this question yesterday at planning as well. What happens when we hear from a planner, a planning consultant, or the developer during a public meeting on an application?
+****
 
-The feedback that we heard, what we heard during that debate, I asked the question, what's the bedroom makeup? And I brought the amendment based on that. only to then receive communication from the developer not to constrain the plan by having bedroom limits. But I thought that was going to be the bedroom makeup.
+### 8.1.11&nbsp;&nbsp;&nbsp;[(2.7)](</2026-06/2026-06-08 9th Meeting of the Community and Protective Services Committee#27award-of-nrfp-2025-248-municipal-land-for-affordable-housing-at-1958-duluth-crescent-block-6>) Award of NRFP-2025-248: Municipal Land for Affordable Housing at 1958 Duluth Crescent, Block 6 (Relates to Bill No. 239)    
 
-Do we know what we're agreeing to otherwise? So this is my concern. In front of us, we have the opportunity to make a decision that addresses some of the issues from the neighborhood, that addresses some of the concerns with an under-parked property, that addresses some of the concerns about having units in a basement, limiting the count on those units. So I do think this is a viable way for us to move this project forward.
+> Motion made by C. Rahman
 
-I'm asking not to support what's on the floor so that we can move the amendment, or sorry that we can move an alternative motion. Thank you. Okay, I'll look to other speakers for the item on the floor. Go ahead, Councillor Cuddy.
+That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the following actions be taken with respect to the staff report dated June 8, 2026, related to the Award of NRFP-2025-248: Municipal Land for Affordable Housing at 1958 Duluth Crescent, Block 6:
 
-Thank you, we're shipping through you. And colleagues, if you had been at the Planning Committee meeting, I referenced a similar development that we're seeing at the Robinson Church, and that was Locustmont, which was one of the oldest buildings in the city , which was raised to the ground. Raised to the ground because someone went in and lit a match and destroyed it. And colleagues, it was raised to the ground because no one cared about the building.
+a)    in accordance with s. 12.4.6(b) of the Procurement of Goods and Services Policy, Ballance It Inc. BE APPROVED as the Leading Proponent for 1958 Duluth Crescent, Block 6, pursuant to NRFP-2025-148, subject to Ballance It Inc. and The Corporation of the City of London entering into a Contribution Agreement;
 
-It was one of the most historic buildings behind Eldon House in the city. It was on Talbot Street. Robinson Church is like that. It's a historic building, and the only way it can be preserved, and it has not been preserved, well, by the way, if you drive by and take a look at her, you've been in the building.
+b)    the proposed by-law, as appended to the above-noted staff report, BE INTRODUCED at the Municipal Council meeting to be held on June 23, 2026, to:
 
-But the only way it can be preserved is if it's developed. The current owners of the building have taken the time, spent the money, and the effort to put a ring around it, security fence, and have a 24-hour security guard there. They are making every effort to preserve that building . Yet, people have still gotten in there and have still tried to burn it down.
+i)    APPROVE the Contribution Agreement between The Corporation of the City of London and Ballance It Inc., as appended to the above-noted staff report as Schedule “1”;
 
-Now, I don't understand the residents, and I've heard them, and I've spoken to them. I don't understand the residents' their concern. But colleagues, If this building is not preserved, if it's not developed, it will fall into a shampse or even more it will burn to the ground. What the developers have proposed, I think, at least, and I think we all agreed that at PAC, that this is a suitable arrangement for this building.
+ii)    AUTHORIZE the Deputy City Manager, Housing and Community Growth, or their written designate, to approve amendments to the above-noted Contribution Agreement;
 
-This is a good project and it will preserve this property for decades or longer. So I would encourage you all to support the planning decision and move ahead with this development. I have Councillor, don't actually have a list. Councillor Trosoff and then Stevenson.
+iii)    AUTHORIZE the Mayor and the City Clerk to execute the above-noted Contribution Agreement; and,
 
-Thank you, thank you very much through the Mayor. I really wanted to see a compromise here. Yes, this has fallen into disrepair. Yes, the owner has been, the previous owners have been negligent in allowing what amounts to demolition by neglect.
+iv)    AUTHORIZE the Deputy City Manager, Housing and Community Growth, or their written designate, to approve and execute further amending agreements to the above-noted Contribution Agreement;
 
-And yes, there needs to be refurbishment and development in this building. no disagreement from me. I go by it every day and I hear the complaints from the adjacent residents about the bad condition of this building. However, that doesn't mean that I can support a development that is not well thought out, that is inappropriate and will cause substantial hardship to people, not only hardship to people on the streets, but a danger to the residents from being crammed into a basement.
+c)    the Civic Administration BE DIRECTED to work with the proponent to submit necessary Planning Act applications to support an increase in density from 71 units per hectare to 107 units per hectare.
 
-And I really think that this is the kind of development that we have to look at very carefully. And we have to take into account first and foremost the nature of this building and the nature of the stubbed street. And I love the term stubbed street because it is a stubbed street. You turn down Sherwood, you're gonna have a hard time getting out 'cause you're not going anywhere.
+****
 
-And I just think that the resonance of this block have been very diligent over the years in terms of trying to allow an appropriate level of development without sort of overcharging property. This is what Councillor ramen has come forward with is a reasonable development that will allow an appropriate development of this site in a way that mitigates some of the harsh effects that the, I think ill thought out proposal. I mean, the question was asked at the planning committee, how many bedrooms are gonna be in this You can't get a good answer. And if we approve this, they can go to the next stage of getting a building permit.
+> Motion made by C. Rahman
 
-No, there's something missing there. There's something missing there. I also feel, and I've really given this a lot of thought, I do think that the OMB decision, albeit more than a few years old, is still a viable decision. There's really nothing about this street or this property that's changed.
+That part c) BE APPROVED:
 
-And I went through Mr. Barrett's detailed letter very carefully. And I think all of his points are well taken. So I'll be joining Councillor Ramen in asking you to vote this down at which point we can come back and put something on the table that is a reasonable compromise.
+c)    the Civic Administration BE DIRECTED to work with the proponent to submit necessary Planning Act applications to support an increase in density from 71 units per hectare to 107 units per hectare.
 
-This is not a reasonable compromise. So thank you very much. All right, Councillor Stevenson. Thank you.
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |A. Hopkins|Mayor J. Morgan|P. Van Meerbergen|
+> |E. Peloza|S. Lewis||
+> |S. Lehman|S. Hillier||
+> |P. Cuddy|H. McAlister||
+> |S. Trosow|S. Stevenson||
+> |S. Franke|J. Pribil||
+> |D. Ferreira|||
+> |C. Rahman|||
 
-It's not a compromise when the other party doesn 't agree. And the people in my ward still are in despair around the McCormick factory, where we did the same thing. We allowed the developer some parts, but we wouldn't give them everything that they wanted. And then, they don't develop.
+> **Motion Passed (8 to 6)**
 
-And then it falls into neglect. And then the public's mad. And rightfully so, I think. Because if we can't make somebody do it, so they're bringing us a development proposal for a heritage church that's been sitting vacant for 13 years that is susceptible to vandalism, damage, fire, and neglect, and we're gonna lose it.
+****
 
-They're willing to take over a heritage building with all that that comes with, with anybody who has a heritage building that knows. It's an experience. They're willing to do it. It's on Richmond Street.
+> Motion made by C. Rahman
 
-And we're gonna try to tell them how they should do it and how many units, and we're gonna end up getting nothing. And it isn't about cow-towing to the developer. It's about, we talk about trusting the experts all the time. Most of the developers want to build great housing, they want to meet the needs of Londoners, they want to do these things.
+That the balance of the motion BE APPROVED:
 
-This is an opportunity, and at the last minute, try to say this is a compromise when we just make changes at the last minute. It just doesn't make any sense to me, and it puts at risk that building, that location. The other thing I want to say, and I know this will be a little contentious, but we're gonna talk about it a lot today I think , is that there is a growing perception that different neighborhoods are treated differently. And so again, here we go again, where the Western University near-campus neighborhood is being catered to according to...
+That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the following actions be taken with respect to the staff report dated June 8, 2026, related to the Award of NRFP-2025-248: Municipal Land for Affordable Housing at 1958 Duluth Crescent, Block 6:
 
-No, but I'm just gonna say, I said there's a perception. So, Councillor Troz, you gotta use your microphone point of personal privilege? Yes, on behalf of my ward, and on behalf of my ward residents, I really think that's a little insulting. And I just think that she should moderate her tone here, I think that whether or not you agree with the positions of the neighbors, I'm arguing now, so I'll say.
+a)    in accordance with s. 12.4.6(b) of the Procurement of Goods and Services Policy, Ballance It Inc. BE APPROVED as the Leading Proponent for 1958 Duluth Crescent, Block 6, pursuant to NRFP-2025-148, subject to Ballance It Inc. and The Corporation of the City of London entering into a Contribution Agreement;
 
-Okay, yeah, I don't argue. So the language catering to is, I mean, the council represents the area. He represents constituents there. We all, I think, I'll say to councilor Stevenson, I think you can word that differently and I would ask you to do that for the remainder of your comments.
+b)    the proposed by-law, as appended to the above-noted staff report, BE INTRODUCED at the Municipal Council meeting to be held on June 23, 2026, to:
 
-Thank you, and I'm happy to do that. This is, and I don't wanna argue the point either , but this is a very sort, what they call stubbed street, not concerned about through traffic flying through. We're gonna have several other developments that we're gonna talk about shortly, where residents are concerned about the intensity , the number of bedrooms, the traffic impacts, and it just goes through. And then there's other areas of the city where staff say, we don't deem it's appropriate here, Some we do say it's appropriate.
+i)    APPROVE the Contribution Agreement between The Corporation of the City of London and Ballance It Inc., as appended to the above-noted staff report as Schedule “1”;
 
-I'm gonna talk about that later. And here, we're being asked to try to impose limits in this particular spot, but we're not gonna do it consistently in other areas. And I think that's an issue. I think it's a growing sense of inequity that there are certain sort of lower income, lower status, whatever you wanna call it, people don't know people in a certain neighborhood and that they don't get the same consideration from their elected council.
+ii)    AUTHORIZE the Deputy City Manager, Housing and Community Growth, or their written designate, to approve amendments to the above-noted Contribution Agreement;
 
-So that's a perception, I'm not saying it's a reality, but it's a growing perception. And so I'm just gonna end on, I fully, I'm gonna support this. I appreciate the investment in our city in that heritage property. I think it's gonna be a beautiful place to live.
+iii)    AUTHORIZE the Mayor and the City Clerk to execute the above-noted Contribution Agreement; and,
 
-And I'm gonna trust the developer. I hear that the basement has really nice big huge windows. I'm looking forward to seeing it when it's built, and I'm happy to support it as is. Thank you Mayor Lewis.
+iv)    AUTHORIZE the Deputy City Manager, Housing and Community Growth, or their written designate, to approve and execute further amending agreements to the above-noted Contribution Agreement;
 
-Thank you Your Worship and through you. I'm going to start by saying my recollection in Councillor Robin's recollection of what happened at planning from the consultant's response are different. And I'm not saying that she's incorrect. My recollection, however, was that indication was the basement units would be smaller because of the constraints around renovating a heritage building.
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|S. Stevenson|P. Van Meerbergen|
+> |A. Hopkins|||
+> |S. Lewis|||
+> |S. Hillier|||
+> |E. Peloza|||
+> |S. Lehman|||
+> |H. McAlister|||
+> |P. Cuddy|||
+> |J. Pribil|||
+> |S. Trosow|||
+> |S. Franke|||
+> |D. Ferreira|||
+> |C. Rahman|||
 
-I don't recall a commitment to them being all one bedrooms. But there was an indication that they would likely be smaller. However, that's my recollection and I did not go back because we only received this amendment just before the meeting started to check the committee meeting. But I do want to, through you, ask our staff, not in terms of city-wide policies.
+> **Motion Passed (13 to 1)**
 
-Obviously, we have policies like the near-campus neighborhood. We have some other policies. But is there a planning basis on an individual address application for putting a cap on bedrooms in our official plan or through our zoning by-law processes. Just one second.
+****
 
-And I'll just say, I know council can do it, but is there a planning basis for it? So we're getting into that answer, just to give it a second 'cause we have staff conferring. Go ahead. Thank you, through your worship.
+## 8.2&nbsp;&nbsp;&nbsp;10th Special Report of the Community and Protective Services Committee
 
-Notwithstanding the planning rationale, there was a cap at one point for bedrooms, but council opted to remove that. And that would be a council position, municipality to municipality University towns and that we've seen that across Canada. But having said that there's no planning basis for a cap. Go ahead.
+[2026-06-16 CPSC Report](</2026-06/2026-06-16 - Community and Protective Services Committee>)
 
-Thank you for that. Also through you, Your Worship, we heard the rationale for for an amendment is that the perception was the planning framework has not substantially changed since 2013. But is it not true through you to staff that the 2013 decision was made under the 1989 official plan. We now operate under the London plan.
+> Motion made by C. Rahman
 
-So there has been a change in our official plan. There have been three new provincial policy statements as well as our own amendments to our official plan since the London plan was adopted with the Heights plan review. So with staff opinion that there actually has been substantive change to the planning framework since 2013. Go ahead.
+That the 10th Special Report of the Community and Protective Services Committee BE APPROVED.
 
-Thank you through your worship. Yes, that's correct. that's the planning position on that. Plus, it's also in a strategic growth area.
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |Mayor J. Morgan|P. Van Meerbergen|
+> |A. Hopkins||
+> |S. Lewis||
+> |S. Hillier||
+> |E. Peloza||
+> |S. Lehman||
+> |H. McAlister||
+> |P. Cuddy||
+> |S. Stevenson||
+> |J. Pribil||
+> |S. Trosow||
+> |S. Franke||
+> |D. Ferreira||
+> |C. Rahman||
 
-So that's a big shift from 2013. And also under the 1989 Official Plan, these lands were designated low density residential, recognizing these lands are now in an urban corridor. Yes, they may be in a preservation policy area, but it still would contemplate higher intensity. And this would be gentle intensification with no external changes.
+> **Motion Passed (14 to 0)**
 
-Go ahead. Thank you, Chair. So through you, But I think that right there underlines it. The rationale for the amendments is actually not supported by our planning staff.
+****
 
-It doesn't have a basis in planning policies today. The planning framework has substantively changed. And as has been said by my colleagues, Councillor Cuddy, Councillor Stevenson, both referenced this applicant, who's only had the property less than a year, is willing to take on the risk of a heritage property with no external change to the building. So the changes are all internal.
+### 8.2.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest 
 
-So it's correct to say, we don't see them ahead of time because there's no external change to the building. There's no extra construction going on. So the internal building configuration is a matter of going through the process of permits and fitting in what works as it moves forward. With 13 years of vacancy here already and the communication that we've seen from the applicants, you know, they've been working in good faith on this.
+> Motion made by C. Rahman
 
-And I think this is a wholly appropriate application supported by our staff. And I think that we should be supporting the committee's recommendation. I'll look to other speakers. All right, Councillor Hopkins.
+That it BE NOTED that no pecuniary interests were disclosed.
 
-Yeah, thank you. First of all, I wanna start off with thanking Councillor ramen for trying. I think it's worth an opportunity to create development at this location. It's not about no development.
+> **Motion Passed**
 
-It's an opportunity to have a compromise, support the community. We heard at PEC the developer is going to create bedrooms, smaller bedrooms in the basement. I think it's worth noting that there is no site plan process for this application. This is an opportunity where we can manage the amount of bedrooms.
+****
 
-So I will be supporting an amendment if this recommendation from staff fails to put a cap on the bedrooms. The other thing for me that is an issue is that appeals matter, hearings matter, the development or the community did go through an appeal process. They already had to compromise. They had to settle in the middle.
+### 8.2.2&nbsp;&nbsp;&nbsp;(4.1) Byron Springbank Veterans Monument Donation to Springbank Park (Relates to Bill No. 243) 
 
-I'm surprised that that does not matter to us here at council. Why wouldn't that matter? Community goes through a lengthy process when they had the ability to be part of an appeal process, to spend time, money, energy, and then somehow meet in the middle to get a ruling from the chair. So I'm just really surprised why we here today would not try to support a compromise, allow the developer to continue to to develop, have the community meet again halfway .
+> Motion made by C. Rahman
 
-I am just really kind of a little surprised why we would not do that. Why some of us really want to put that stick in the stand and not move from it. So again, I do appreciate the will of my colleagues to try to work with the compromise. Other speakers to this?
+That, on the recommendation of the Deputy City Manager, Neighbourhood and Community-Wide Services, with the concurrence of the Deputy City Manager, Finance Supports, the following actions be taken with respect to the staff report dated June 16, 2026 related to the donation of Byron Springbank Veterans Monument to the City of London for Springbank Park per Sections 4.1 a) and 4.2 b) of the City of London Donation Policy:
 
-Councilor Ferra. Thanks, Mayor. I'm listening to this conversation. I think this is a good one.
+a)    the donation of the Byron Springbank Veterans Monument, valued up to $100,000, and cash contribution of $200,000 for installation and maintenance from the Byron Springbank Veterans Monument Consortium BE ACCEPTED; it being noted that the Monument Consortium has surpassed its fundraising goal of $400,000 estimated as the total cost of the Byron Monument Project;
 
-I like what I'm hearing about the striving for protecting our heritage buildings. That's something I'd like to see at council as much as possible. I have lots in my ward and I also understand that, you know, decisions are made that may not necessarily have the equity there or may be perceived that way and downtown definitely feels that from time to time. When it comes to this project, I just wanted to go to staff first.
+b)    the proposed by-law, as appended to the above-noted staff report, BE INTRODUCED at the Municipal Council meeting to be held on June 23, 2026, to:
 
-Like, with the way it is right now, like, are we going to see an increase in height or massing or the footprint or anything like that? Or is this development the way it's proposed is able to be constrained within the existing building? Could you just speak to me? Go ahead.
+i)    approve the Donation Agreement, as appended to the above-noted by-law, between The Corporation of the City of London and the Byron Springbank Veterans Monument Consortium, setting out the terms and conditions of the donation of the Byron Springbank Veterans Monument and cash contribution of $200,000 for its installation and maintenance; and,
 
-Thank you. Yes, through your ship. There's no external changes to the property to the building. As you see it today, the conversion is within the internal part, so the property building, we've heard the basement units being added to.
+ii)    authorize the Mayor and the City Clerk to execute the above-noted Donation Agreement;
 
-Go ahead. Thank you for that. So I understand the appeal to reduce the cap, I understand all that. But I also understand of everything else.
+c)    the above-noted staff report BE RECEIVED.
 
-It's a heritage building. It's not going to be increasing the footprint or everything about the building. And this is something that is going to save this potential heritage place. heritage place.
+> **Motion Passed**
 
-I would love to have a development come to my ward with some of my heritage buildings that are right now suffering from that term demolition by neglect. I would say that. And that would be something that I would really love. Like, you know, trying to mitigate between community concerns and saving these historic buildings is something that would also something I would like to do.
+****
 
-But I don't even get to that first step. So I would say with this application, I like what I'm hearing about heritage. If we can see that with heritage buildings in the core. I would like to see that.
+## 8.3&nbsp;&nbsp;&nbsp;8th Report of the Strategic Priorities and Policy Committee
 
-But the way this is, the massing footprint, the height is not changing. Pretty much the heritage building is going to look intact. This is an adaptive reuse. This is exactly what we're asking for all the time.
+[2026-06-16 SPPC Report 8](</2026-06/2026-06-16 8th Meeting of the Strategic Priorities and Policy Committee>)
 
-I understand there 's going to be more residences there. And at the same time, that is a compromise. We are saving this building. We are able to bring in more housing.
+> Motion made by C. Rahman
 
-We are going to have a reuse of it. I would take that as a win if that was in my ward. I would take that as a big win. So I understand the concerns and the appeal to reduce the capping, but I'm going to support this the way it is.
+That the 8th Report of the Strategic Priorities and Policy Committee BE APPROVED, with the exception of items 6 (4.1) and 7 (4.2).
 
-I think, I would like to see this in my ward, and I would like to see the sentiments for our heritage buildings come to my ward as well. Councillor Pribble. Thank you. I will start right away by stating that I will certainly support the recommendation by the committee.
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |Mayor J. Morgan|P. Van Meerbergen|
+> |A. Hopkins||
+> |S. Lewis||
+> |S. Hillier||
+> |E. Peloza||
+> |S. Lehman||
+> |H. McAlister||
+> |P. Cuddy||
+> |S. Stevenson||
+> |J. Pribil||
+> |S. Trosow||
+> |S. Franke||
+> |D. Ferreira||
+> |C. Rahman||
 
-We heard that word here quite a few times, compromise, but again, compromise is without the actual person or company organization that's coming step forward and putting their money, their investment forward to actually make this building that was vacant for many years, etc . I drive by almost every day and I'm really happy that there will be something happening. But I can compromise without them. It's kind of what I always call about you, without you.
+> **Motion Passed (14 to 0)**
 
-And that's really the case here. So I really don't feel in terms of that us making a decision on compromise, there's no compromise on the table whatsoever. Because the other party, the party that's actually making the investment actually not present here. I do agree with most of the stuff that of the individuals that were stated here by the ones that are recommending the support of the committee's recommendation, because if I do look at this, again, the height, the width, the length, whatever it is, it actually stays the same.
+****
 
-It stays the same. It doesn't increase. And this, I do realize that based on the type of the building zoning and near-neighborough or near-campus neighborhoods. I do agree or I do understand what's the maximum number of the bedrooms.
+### 8.3.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
-But again, other organizations looked at this quite a few of them during the past years and guess what, it wasn't feasible for them financially. They didn't want to do it because of the heritage. We have someone that is actually willing to take this on. Are they going to maximize their opportunity?
+> Motion made by C. Rahman
 
-I'm quite sure they will. Are they going to do it within the exterior that 's currently there? Yes, they are. I will be supporting this and I hope there will be most of my colleagues will be supporting this application going forward and supporting the committee's recommendation.
+That it BE NOTED that no pecuniary interests were disclosed.
 
-Thank you. Okay. That's all the speakers I have before me. So I'm going to open the committee's recommendation with voting.
+> **Motion Passed**
 
-Close on the vote. Motion carries 10 to 3. Councillor Frank. Could we move a 15-minute break just because it's been a while?
+****
 
-Yes, we can. That's moved, seconded by Councillor Ferreira. Let's do that by hand. Can I do by hand?
+### 8.3.2&nbsp;&nbsp;&nbsp;[(2.2)](</2026-06/2026-06-16 8th Meeting of the Strategic Priorities and Policy Committee#22enhancing-public-access-to-committee-of-adjustment>) Enhancing Public Access to Committee of Adjustment
 
-I'm just going to do by hand. All those in favor? Any opposed? All right, I'm going to get everybody to sit down.
+> Motion made by C. Rahman
 
-We 're going to start again, including Councillor Layman . Okay, we're going to continue on. Thanks for the short break and we'll continue with the planning report. I'll turn it back to Councillor Layman.
+That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the following actions be taken with respect to Council’s resolution related to enhancing the visibility and transparency of the Committee of Adjustment:
 
-Thanks, Mayor. Going on to number eight, this is regarding 36 Weathered Street and and Councilor Stevenson requests us to be pulled. Okay, that one is separate. I'll look for any speakers.
+a)    the Civic Administration BE DIRECTED to continue to administer the Committee of Adjustment with the newly established procedures at no additional cost, including posting agendas, staff reports, application materials, minutes and decisions on the existing Committee of Adjustment calendar pages, posting meeting recordings online, and including information about the Integrity Commissioner complaint process in Committee of Adjustment agendas; and
 
-Go ahead. Thank you. So this one passed, I believe it was 3-2 at committee. I just want to be clear.
+b)    the report dated June 16, 2026 BE RECEIVED for information;
 
-Like the developer reached out to me that they are trying to do good things and build housing in our city and no detriment to them. But what I want to understand through this five minutes that I get is how are our policies being applied in such a way that people, residents of London, understand and know what can be expected to be happening on their street and in their houses beside them. So in this case, this is a quiet residential street, larger lots, older homes. There are seven houses on this little stretch of this street before there's a little curve it keeps going.
+it being noted that any request for additional enhancements would require referral for consideration as part of the 2027-2031 Strategic Plan and 2028-2031 Multi-Year Budget process.
 
-I didn't realize that the house right beside this development had been taken down and there's the entire property has got units on it. And then four down a house was taken down and there's townhouses now again the length of the backyard. So when I read like in this motion in this, it says the recommended amendment is considered compatible with the surrounding neighborhood. And yet on page 208, it says policy 969 of the London Plan further discourages forms of intensification within near-campus neighborhoods that are within neighborhoods that have already absorbed significant amounts of residential intensification and/or residential intensity.
+> **Motion Passed**
 
-So we've already got two of the seven homes that are now intensified. This would potentially be a third. That would be three out of seven. At what point would staff determine that it would be too much and that the next planning application would not receive recommendation?
+****
 
-Well, I can see if our staff can give some sense of that. I think every application is individual, but I'll go to go to our staff to see what they can say. Thank you through your worship, yes, that's correct. Each application is reviewed on its own merits.
+### 8.3.3&nbsp;&nbsp;&nbsp;[(2.1)](</2026-06/2026-06-16 8th Meeting of the Strategic Priorities and Policy Committee#21diversity-race-relations-and-inclusivity-awards-policy-amendments>) Diversity, Race Relations and Inclusivity Awards Policy Amendments
 
-We do look at the full policy framework, as you've mentioned under that policy 969, but we also have other council direction in terms of additional residential units and what that means in terms of neighborhoods and basically spreading housing and intensification across the entire city. So we're gonna see that through council's decision within neighborhoods. Councillor Stevenson. Thank you, I understand.
+> Motion made by C. Rahman
 
-But again, it's policy that's being applied. And so I'm just wondering, is it like 50%, once more than 50% of the street was intensified, then that would be considered, is there's any kind of a ballpark that we can share with residents? Thank you through your worship. Again, we reviewed on a policy by, a case by case basis based on the policy framework.
+That the staff report dated June 16, 2026, with respect to amendments to the Diversity, Race Relations and Inclusivity Awards Policy, BE REFERRED to the Civic Administration for consultation with the London Chamber of Commerce regarding the potential to recognize diversity, race relations and inclusivity achievements through the Chamber's Business Achievement Awards program, or a similar existing recognition program.
 
-We look at aspects in terms of cumulative impact, whether it's traffic, servicing, and the capabilities of what sites can take. And in this case, staff are recommending approval of it. And as other sites within this neighborhood, and we have seen this within neighborhoods, and through council direction, we'll see a little bit more uptake across the city. Go ahead.
+> **Motion Passed**
 
-Thank you. What I'm trying to get at, though, is we've got these policies. Londoners are concerned. They're concerned that they're gonna have, that the street is going to be turned into high- density housing.
+****
 
-The other part of policy 969 says continuing-- our London plan discourages forms of intens ification that continue an ad hoc and incremental trend towards residential intensification within a given street, block, or neighborhood, rather than a proactive, coordinated, and planned approach towards residential intensification. So I'm wondering what plans or how are we gonna ensure that it's not gonna be ad hoc in this neighborhood? Go ahead. Thank you through your worship.
+### 8.3.4&nbsp;&nbsp;&nbsp;[(3.1)](</2026-06/2026-06-16 8th Meeting of the Strategic Priorities and Policy Committee#31not-to-be-heard-before-105-pm---london--middlesex-community-housing---2025-annual-general-meeting-of-the-shareholder-annual-resolutions>) London & Middlesex Community Housing - 2025 Annual General Meeting of the Shareholder Annual Resolutions (Relates to Bill No. 242)   
 
-The planning was done based on council's direction, looking at additional residential units. For example, and that's the planning that would be expected in residential neighborhoods, including this neighborhood. Go ahead, Councilor Stevenson. So any neighborhood can expect to have potentially all of their homes filled with residential units that take up the vast majority of the lots.
+> Motion made by C. Rahman
 
-That's what we're telling Londoners. Good, thank you, through your worship. We'll be looking at it at a case-by-case basis, as I mentioned. In terms of some neighborhoods, there is opportunities for transition to accommodate more intensification.
+That the following actions be taken with respect to the London & Middlesex Community Housing (LMCH):
 
-And when we're talking about intensification, we're not talking about high-rise buildings. We're talking about gentle intensification for units on a property. Again, it's based on the size of the property, site functionality, access, and other site matters that would make the sites viable for development. Go ahead.
+a)  on the recommendation of the City Manager, the proposed by-law as appended to the staff report dated June 16, 2026 as Appendix “A” entitled “A by-law to ratify and confirm the Annual Resolutions of the Shareholder of London & Middlesex Community Housing”, BE INTRODUCED at the Municipal Council meeting to be held on June 23, 2026;
 
-Thank you. And I'm gonna keep pushing here and I apologize. But this is a 24 meter frontage. Like this is not a big area.
+b)  the letter dated June 5, 2026 from P. Chisholm, Chief Executive Officer, LMCH BE RECEIVED;
 
-This is the third home in seven homes that is gonna be basically the entire lot turned into housing. So staff, when they make this decision, are looking at the neighborhood, and I'm asking you to share with this particular neighborhood because you've looked at it a couple of times now , what is your vision, what is your plan, what is the policies, what can the residents expect? Just ballpark. Thank you, through your worship.
+c)  the presentation by P. Squire, Board Chair and P. Chisholm, CEO, London & Middlesex Community Housing BE RECEIVED;
 
-In some neighborhoods where it's already as a right zoning, that would happen and they would be able to apply for building permit. There are some sites that may not meet the zoning framework, and so that's why we would look at it on a case- by-case basis. Go ahead, Councillor. Thank you and through you.
+d)  the 2025 Financial Statements BE RECEIVED;
 
-This is eight units. Eight units on a, you know, what people would not call too big of a lot. And you're saying case by case, this one doesn't meet the requirements. We're doing 80% of the minimum front lot and 83% of the front yard.
+e)  the 2025 Annual Report BE RECEIVED; and
 
-So again, I'm just gonna ask because there's a couple of houses for sale on that street and now the rest of them are saying maybe they should leave too If this is what's going to happen, then they might as well free up the properties for these higher density. I don't know if there was a question there. You got about 30 seconds left. The question is that particular neighborhood has been evaluated and staff have said they see it as compatible.
+f)  the communication from the London & Middlesex Community Housing regarding the Board of Director's Profiles, BE RECEIVED.
 
-So at what point is it not going to be compatible ? So I can go to Ms. O'Neill again. I think you answered it about case-by-case or servicing there's lots of considerations, but go ahead.
+> **Motion Passed**
 
-Thank you, through your worship. Yes, and that talks about that cumulative impact that I was talking about. So at some point, as you've mentioned, that there's a threshold. But for this particular application, it meets the policy framework.
+****
 
-Councilor Stevenson. We just had counselors willing to go against staff recommendation on a few units that didn't change a footprint. This, if you look, the couple was here. They have their little baby.
+### 8.3.5&nbsp;&nbsp;&nbsp;[(3.2)](</2026-06/2026-06-16 8th Meeting of the Strategic Priorities and Policy Committee#32housing-and-development-corporation-london---2025-annual-general-meeting-of-the-shareholder-annual-resolutions>) Housing and Development Corporation, London - 2025 Annual General Meeting of the Shareholder Annual Resolutions
 
-They've got this nice little property. The house is pretty much on the property line. And now they're gonna have this big development beside them. And beside that is another big development.
+> Motion made by C. Rahman
 
-and four houses down is another big development and there's two houses across the street. We're running into problems here without it being clear because people could be buying a lot. Time's up. All right, other speakers to this matter, okay?
+That the following actions be taken with respect to the Housing Development Corporation, London:
 
-Seeing none, that I'm gonna open that for voting. Closing the vote, motion carries 10 to three. That's a layman. Thank you, Mayor.
+a)   on the recommendation of the City Manager, the Independent Auditor’s Report of KPMG LLP for the Shareholder of Housing Development Corporation, London, dated December 31, 2025, BE RECEIVED;
 
-Moving on to number nine. This is regarding nine, two, and nine. Cheap size streets, I'll put that in the floor. Okay, that's on the floor.
+b)  the 2025 Year End Report to the Shareholder BE RECEIVED; and
 
-I'll go to speakers on this. Go ahead, Councilor from Stevenson. Thank you, this is another one in my ward, and I'm gonna keep coming back to this. Londoners are asking us to be clear.
+c)  the 2025 Financial Statements BE RECEIVED.
 
-What is our policy? What can they expect when they're purchasing property to develop, or when they're purchasing property to live with, raise their families, or for people who've lived in neighborhoods for a long time? This is coming across as very inconsistent. We're willing to, we wanna reduce neighborhoods or a number of bedrooms in a building that where the footprint doesn't change, but then we're gonna put three out of seven on one street.
+> **Motion Passed**
 
-And then we've got this development, which was-- Okay, I have a point of order. Thank you. I'm rising on a point of order. I'm not sure what the counselor's debating right now.
+****
 
-Can she stick to the matter that's on the floor? Yeah, so the thing I heard that is not really related to this is counselors made, well, there wasn't even counselors who made a motion. So you're raising a matter about changing possible bedrooms It wasn't even allowed to be on the floor by council decision. We voted on the actual development.
+### 8.3.8&nbsp;&nbsp;&nbsp;[(4.3)](</2026-06/2026-06-16 8th Meeting of the Strategic Priorities and Policy Committee#43request-for-province-wide-deposit-return-for-non-alcoholic-beverage-containers---councillors-s-franke-and-h-mcalister>) Request for Province-Wide Deposit-Return for Non-Alcoholic Beverage Containers
 
-So if you could keep it to the matter before us and not things that weren't even motions on the floor, but something a councilor wanted to do. Many counselors want to do many things. The decisions we make here is, you know, the decision-making of the group. So if you could keep it focused on that, I'm going to say the point of order is dealt with and I'll let the council debate the issue that's before us.
+> Motion made by C. Rahman
 
-Chair, the councilor can withdraw her comment. Do you just save which comment to be withdrawn? her comments that were not related to the application that's in front of us. So I would usually have a comment that was a point of personal privilege withdrawn.
+That the Mayor and Councillor A. Hopkins BE REQUESTED to advocate, through the Ontario Big City Mayors Caucus and the Association of Municipalities of Ontario for a province-wide deposit-return program for non-alcoholic beverage containers; it being noted that the Strategic Priorities and Policy Committee received communications from Councillor A. Hopkins and K. Scaldwell, President, Canadian Beverage Association with respect to this matter.
 
-I think your point was more a point of order to stick to the topic at hand. I don't think I need the counselor to actually withdraw that to continue on with the debate. So the counselor chose that. Then I'll make a point of personal privilege because that was in direct reference to the one that just came up in my ward where I was speaking against an application where there was no change in footprint.
+> **Motion Passed**
 
-And I'm just gonna leave it at that and you rule on it, but I just don't think we have to be this divisive. Okay, so let's just settle this down. So lots of people want to call points of order, points of personal privilege. Point of order is with respect to, is the member following the general rules or practices?
+****
 
-Councilor ramen raises the point of order. Yes, we got to stay on track. We got to debate the things before us. I address that.
+### 8.3.6&nbsp;&nbsp;&nbsp;[(4.1)](</2026-06/2026-06-16 8th Meeting of the Strategic Priorities and Policy Committee#41the-centre-of-opportunity-londons-economic-development-strategy-20262030-and-implementation-plan>) The Centre of Opportunity: London's Economic Development Strategy (2026–2030) and Implementation Plan
 
-Councilor Troso, a point of personal privilege is really something that negatively affects the rights or privileges of council members or council as a whole, despite other pending business before council. So like, I get that the councilor and your comments are not in alignment. I didn't hear anything that was, I mean, it could be not directly related, which I've actually addressed, but I don't think it was restricting your right to have said what you said before, or to continue to say it in the future. And I will continue to make sure it's done in a very respectful way.
+> Motion made by C. Rahman
 
-But I think counselors can have disagreements of opinion. They can say they disagreed with another counselor's opinion. You can disagree with that. Counselors, as long as it's done respectfully, that's to me is part of the debate and decision-making process.
+That, on the recommendation of the City Manager, the following actions be taken with respect to the report dated June 16, 2026, with regard to “The Centre of Opportunity: London’s Economic Development Strategy (2026-2030) and Implementation Plan”:
 
-So I agree, we could, counselors, keep their comments focused and respectful. We're gonna be really efficient for the rest of the matters before us. And if not, we're gonna deal with points of privilege and points of order, and I'm happy to do that, but I think we can all just focus on the actual debates, keep the subject of that debate really rooted in why the matters before us. In this case, they're planning items, there's lots of planning reasons that you can before or against something.
+a)    “The Centre of Opportunity: London’s Economic Development Strategy (2026-2030) and Implementation Plan”, as appended to the staff report as Schedule “A”, BE ENDORSED;
 
-And if we keep it in that space, rather than even getting into other council's opinions, I think we'll be in a much more efficient way of speaking. So that's my general caution to everybody. I'm gonna say not really a point of personal privilege because I don't think your rights were really imp ugned there. Councillor Stevenson, you can continue debating this item before us.
+b)    the Strategy summary, as appended to the staff report as Schedule “B”, BE RECEIVED for information;
 
-Thank you. I'm asking for colleagues support and saying no to this development and I'm bringing up for comparison. We've got a neighborhood here and some of them would have been here to say, hey, I hear Council saying we've got this short little stub street and we're asking to talk about reducing bedrooms. Then we've got the development in Stony Brook where it was within the height.
+c)    the following funding BE AUTHORIZED to support immediate implementation actions identified within The Centre of Opportunity: London's Economic Development Strategy (2026–2030) and Implementation Plan, as outlined in this report:
 
-The number of stories was approved. The parking is about the same. The lot coverage is the same. The density of units per hectare is actually 358 units per hectare in curling heights.
+1)    up to $200,000 in one-time funding from the remaining balance of Business Case #P-46; and
 
-In fact, the original one that staff recommended was 420 units per hectare. Whereas the one on Geary in Stony Brook was rejected as two intents at 235. So I get to answer to the residents in Carling Heights to say, "Why is staff saying it's too intense in Stony Brook, but it's not too intense in Carling Heights? Why is Council wanting to reduce the number of bedrooms in a church that doesn't change its footprint and they're not concerned about what I'm saying." So, Councilor, I'm going to jump in because no one is reducing the number of bedrooms in that development.
+2)    up to $150,000 in one-time funding from the Economic Development Reserve Fund;
 
-That's the part that I need you to say focus on. The Councillors are suggesting that they might want to do that, but there was no motion even on the floor to do that so I would say that 's keep it relevant to this debate like because that wasn't even a matter that we even considered it didn't actually make the floor in fact a majority of counsel said it wasn't even a valid amendment so we did not do that we didn't even consider it we didn't even really debate it we debated the main motion people referenced something alternative they want to do but that actually ultimately passed and there was no motion on the floor so I think that's the part where if we can keep it focused on this and not bring up things that are speculative or even attributing those things to something Council did when we didn't actually do it despite the fact that some Councillors would have liked to, we got nowhere near making that decision. Thank you. But I'm saying that these residents watched their mayor and four Councillors willing to consider that because of the concerns of a few residents, even when the two neighbours closest to that supported it.
+d)    the funding for c) 2) above, BE APPROVED as set out in the Sources of Financing Report, as appended to the staff report as Schedule “C”;
 
-So it is relevant when we've got lenders who are saying, why not us? Why aren't you listening to us? How can you go say something as too intense when it falls within all the parameters? And here you're saying that it's okay when it falls within all the parameters.
+e)    any associated additional funding requests BE REFERRED for consideration as part of the 2027-2031 Strategic Plan and 2028-2031 Multi-Year Budget process; and
 
-Lendeners are concerned about the policies that this council has put in place that are raising intensification in their neighborhoods. One of the biggest reasons why I said no to this is because the Heights Review framework that came in August and was passed by Council in September of 2024 was not transparent. It wasn't transparent to the Councilor and I'll own that I didn't know what was happening. And the public certainly did not know that these heights had been raised on corners in their neighborhood.
+f)    the Civic Administration BE DIRECTED to report back to a future meeting of the Strategic Priorities and Policy Committee on Indigenous-led engagement outcomes;
 
-And I'm a firm believer that if it's the right thing to do, not everybody's going to like it, but we're going to do it publicly and say this is what's happening. We believe it's the right thing and we're going to do it. So I'm asking for this council tonight to say no to this because out of equity and out of fairness, we get to have a look at this. We get to talk about how we're applying and who whose residents and what neighbors we're listening to and what ones aren't.
+it being noted that the Strategic Priorities and Policy Committee received communications from the following individuals with respect to this matter:
 
-And this is an equity issue as far as I'm concerned. So I'm asking for council support and saying no to this. It only passed three to two at council or committee. I do appreciate the fact that the developer made changes and modified it.
+-    a communication from M. Wallace, Executive Director, London Development Institute;
 
-It's still, most of these neighborhoods have spoken really eloquently, they've said they're not opposed to change, they're not opposed to development, they're asking for the lower height prior to this council putting through the Heights framework review, without talking to them. So that's what they're asking for. With Geary, staff made it easy, they said no, made it easy for us to support. I'm asking for consistency in this particular meeting at council to say no to this one.
+-    a communication from A. Shepard, President and Vice-Chancellor, Western University;
 
-And then let's talk about this more about what -- so that lenders have a better sense. Not -- they don't know exactly what's coming, but they have a better sense of what's happening in their neighborhoods. This group did a great job. They were here.
+-    a communication from K. Morrison, Executive Director, Old East Village BIA; and
 
-They've shown up at meetings and -- and I don't know what else to say except to say I don't know how we can support one and not the other and if it's site specific then I guess this council right now is going to decide whether this is appropriate for Karlic Heights and whether the residents around this building should be taken into account as much as the ones on Richmond or on Vancha. Okay I have Councillor ramen and then Deputy Mayor Lewis. Thank you and through you Mayor. Let me start by saying this.
+-    a communication from K. Nielsen, Board Chair and V. Smith, Interim Executive Director, Downtown London;
 
-When I make a decision at council and I'm speaking for myself. I make a decision taking into consideration the entire city and not just one part of the city. Yes we represent boards but we represent the entire community. When we're asked to look at a development application we're not applying an inconsistent approach because it 's in a certain neighborhood.
+it being further noted that the Strategic Priorities and Policy Committee heard verbal delegations from M. Wallace, Executive Director, London Development Institute, K. Morrison, Executive Director, Old East Village BIA and V. Smith, Interim Executive Director, Downtown London with respect to this matter.
 
-I'm not. That's my opinion. The counselor and other counselors have opportunities to move amendments, to make different decisions, to bring issues to their residents, to talk to their residents, to move things that are different. What I saw with this application was I saw a referral come for our first.
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|S. Stevenson|P. Van Meerbergen|
+> |A. Hopkins|||
+> |S. Lewis|||
+> |S. Hillier|||
+> |E. Peloza|||
+> |S. Lehman|||
+> |H. McAlister|||
+> |P. Cuddy|||
+> |J. Pribil|||
+> |S. Trosow|||
+> |S. Franke|||
+> |D. Ferreira|||
+> |C. Rahman|||
 
-The referral, which was supported, to then bring back another proposal, working with the developer, that's what we have in front of us now, is is this recommendation, that's what's on the floor, that's what I'd like to debate today. I'm not supportive of what's here, and it's not because the counselor has highlighted an equity issue or a perceived equity issue. I'm looking at it from the perspective of what's in front of me. I see, and again, I brought this up during the debate at P.C., is that we are presented with a support for the recommendation on the height, but the special provisions are not clear to me in terms of what will come back.
+> **Motion Passed (13 to 1)**
 
-And so for that reason, I'm not supportive. What I see is either, and I have had a chance to talk to the developer about it, I see a building that I'm not sure how it gets to the same six stories with the footprint. I still think the parking's inadequate for the area. I still see some issues with it here and that's why I'm not supporting it.
+At 3:14 PM, His Worship Mayor J. Morgan, places Councillor S. Lehman in the Chair.
 
-But these other issues, comparing neighborhoods, why divide the community when we can talk about the planning rationale and the planning information that's in front of us. Don't understand that rationale, but I will debate the issue. I will look at it from the perspective of what's in front of us. And I've been clear that I'm not supportive about the application.
+At 3:17 PM, His Worship Mayor J. Morgan resumes the Chair.
 
-Thank you, Mary Lewis. Thank you, Chair. Sorry, I'm just trying to get my video working here. Okay, thank you, Chair.
+At 3:17 PM, Councillor E. Peloza leaves the meeting.
 
-I wasn't gonna speak to this. I said my PSAT committee. However, I have to speak to it now because I didn't call a point of personal privilege. I perhaps should have.
+****
 
-The Heights Plan review was absolutely transparent. it was subject to the same public participation meeting, same sort of notifications and public announcements that this actual planning application was. It followed the same process that the Urban Growth Boundary expansion and other matters that come before PEC take that, and I agree with Councilor Rollman, if Councilors didn't feel that was enough, they always have the opportunity to do further engagement with their residents. Councilor Rollman and I disagree on this one, but that's okay.
+### 8.3.7&nbsp;&nbsp;&nbsp;[(4.2)](</2026-06/2026-06-16 8th Meeting of the Strategic Priorities and Policy Committee#42downtown-reimagined-city-of-london-downtown-plan>) Downtown Reimagined: City of London Downtown Plan
 
-expect where she's saying she's not comfortable with the parking, and we just had a discussion at Peck yesterday that will come to the next council meeting about changing the parking ratio again. But we have to evaluate this occasion through the planning rules that are in place today, which say that this has more than sufficient parking because it is above the .5 ratio. It also says the six stories is allowed based on the street classification of cheap side under the London Plan Heights review that was signed off by this council in 2024 and by the province in 2025. So we are being consistent with our decisions here.
+> Motion made by C. Rahman
 
-And that's why I supported this staff recommendation because it approves the height, the zoning, but it still says you can't be this close to some of the setbacks. You have some things to work out in your design detail here. And maybe that means that units won't have balcon ies on one side. Maybe it means that they're changing the orientation of the building on the property slightly.
+That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the following actions be taken with respect to London’s Downtown Plan:
 
-But that's a matter that can be resolved through site plan without requiring special provisions if they can meet that. Maybe they'll reduce the units further by another unit on each end, I don't know. But that will be up to them to decide through the detailed design and site plan process with our staff by not giving them the special provisions. To refuse it based on the height or the parking is not actually supported by our official plan.
+a)   the above-noted staff report and Appendix "A": “Downtown Reimagined: City of London Downtown Plan” BE RECEIVED for information;
 
-And so I would encourage colleagues to support the committee recommendation here. And I would also really echo your earlier comments that we need to be cautious. I chose not to use the point of personal privilege this time 'cause I don't want this meeting to go till 11 p. m.
+b)   the actions identified in this Plan, that can be accommodated within existing approved budgets, BE IMPLEMENTED;
 
-tonight. Let's be careful about what we're saying. Okay, other speakers to this matter. Go ahead, Councillor Frank.
+c)   the Civic Administration BE DIRECTED to report back to a future Strategic Priorities and Policy Committee in Q4 2026 with a progress update on the quick-start actions and a proposed work plan for 2027; and
 
-Thank you, yes. I'll be supporting this application. And I think that the improvements that have been made since the referral demonstrate that the developer is willing to make some adjustments. I was happy to see the open space move forward and meet our 30% minimum.
+d)   the implementation of Downtown Plan actions requiring additional investment and associated funding requests BE REFERRED for consideration as part of the 2027-2031 Strategic Plan and 2028-2031 Multi-Year Budget process;
 
-I also would share that a long ride out, which is also a neighborhood connector. We have an 18-story apartment building, a couple 12-story apartment buildings, a 16-story apartment building. So for a similar road type, we have in Old South, a variety of apartment buildings that are much, much higher. And they are surrounded by single-family homes.
+it being noted the Civic Administration will continue to undertake an enterprise-wide approach to monitoring, reviewing, and implementing actions within approved budgets to support the downtown area, while identifying future opportunities for Downtown Plan implementation;
 
-And they fit in nicely. There's a bus route. There is bike paths. and both this cheap side application, as well as those ones I'm referencing, are about 10 minute walk from commercial areas close to schools.
+it being further noted that the Strategic Priorities and Policy Committee received a presentation from M. Rowe, President and CEO and J. Barrett, Managing Director, Canadian Urban Institute with respect to this matter;
 
-So I do see having apartment buildings in areas with single family homes to be quite nice in some areas. And I think it would be nice in this one too. Any other speakers to this matter? Go ahead, Councilor Trossa.
+it being pointed out that the Strategic Priorities and Policy Committee received communications from the following individuals with respect to this matter:
 
-Thank you, Mayor, through you. Many of the points I wanted to make were made by Councilor Ramen, but very well. I'm not gonna be supporting this application. And it's not because of, I'm not gonna be supporting this application 'cause I think it's inappropriate for this neighborhood.
+-    a communication from K. Morrison, Executive Director, Old East Village BIA;
 
-And that's not a real technical way of going through all the different criteria, but I go through here all over the time and the houses in that area, not only are they detached single family dwellings, but they're small, they're small. This application is gonna just totally transform in a negative way, the look and feel, and just how people relate to this neighborhood. And I think it's sort of like it's going to be a placemaker thing, because I think we're going to be seeing other ones. And I sort of, I liked the way this neighborhood feels.
+-    a communication from D. Brown and W. Thomas, Coordinators, Midtown Community Organization (MCO);
 
-I would prefer to see a little bit more maintenance done in some of the units, particularly some of the rental units and some of the units held by absentee owners, but for the most part, I think this would be very disruptive. And I don't think saying, well, that's what I think. But the point I want to stress is my opposition to this is not based on anything other than my feeling about this file and this file only and you can disagree with me on my assessment of this file. Most of you probably would as we'll find out when we do the vote in a few minutes.
+-    a communication from K. Nielsen, Board Chair and V. Smith, Interim Executive Director, Downtown London;
 
-But like this is a heartfelt, honest assessment that I'm making that I cannot support this project. So thank you. Hey, any other speakers? Yep, Councilor Preble, go ahead.
+-    a communication from AM Valastro;
 
-Thank you, Mayor. Even though I will be passed on, but on the issue that we're mentioned here, I do wanna mention a couple of things. And again, maybe for their neighborhood as well. That's up here.
+it being further pointed out that the Strategic Priorities and Policy Committee heard verbal delegations from M. Wallace, Executive Director, London Development Institute, K. Morrison, Executive Director, Old East Village BIA and V. Smith, Interim Executive Director, Downtown London.
 
-It was stated with another-- sorry, with another application that I was seeing earlier. I think the biggest difference is if you look at it, is that one looks at how many units per hectare. So again, this one is almost half of the other one. Was the other one was 395.
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|S. Stevenson|E. Peloza|
+> |A. Hopkins||P. Van Meerbergen|
+> |S. Lewis|||
+> |S. Hillier|||
+> |S. Lehman|||
+> |H. McAlister|||
+> |P. Cuddy|||
+> |J. Pribil|||
+> |S. Trosow|||
+> |S. Franke|||
+> |D. Ferreira|||
+> |C. Rahman|||
 
-This one is 235. The other one had a height, higher, et cetera. But so I really don't think, again, no two projects. No two infilles are apples to apples.
+> **Motion Passed (12 to 1)**
 
-but there's a really big differentiation. There really is, honestly, one thing is I want to know, we already heard that some of the counselors that said, and I'm absolutely on the same page in terms of, I don't really make my decisions based on the neighborhoods, or, you know, which part of London it is. But also, I want to say one thing is the staff. And if you look, every application starts with the staff that's based on housing policy, the concrete facts, and that's if it's a refusal, recommendation, whatever it is, it's black on white based on the policy.
+****
 
-And they go by the policy. We can support it. We don't have to support it. But there is no way I will ever agree that other staff, or certainly speaking on myself, that I will be making decisions based on which part of London it is.
+## 8.4&nbsp;&nbsp;&nbsp;11th Report of the Infrastructure and Corporate Services Committee
 
-Yes, I can say that if it's in our ward, I believe that we would fight more, which is again, there is nothing wrong with it, because guess what? Those are our constituents and we do go, We go for everyone, we go extra mouth, for our ward, we go extra two miles. I do understand that, but I really wanna clear this that I totally don't believe that any one of us nor the staff would make such decisions. That's not true.
+[2026-06-15 ICSC Report 11](</2026-06/2026-06-15 11th Meeting of the Infrastructure and Corporate Services Committee>)
 
-I do, I will, what's in front of us. And I do agree that there are certain things that are, again, what I call maximizing the opportunities. But similar, what Council of Frank said few minutes ago, I did see the progress in terms of what it was made and I will be supporting what is in front of us. Thank you.
+> Motion made by H. McAlister
 
-Any other speakers? Okay, seeing none, we're gonna open this for voting. Opposed in the vote. Motion carries nine to four.
+That the 11th Report of the Infrastructure and Corporate Services Committee BE APPROVED, with the exception of items 8 (2.3), 9 (2.4), and 11 (2.10).
 
-Councillor Layman. Thank you Mayor. Moving on to number 12. This is regarding Councillor Robbins' third party appeal mechanism and the Councillor has requested as people.
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |Mayor J. Morgan|E. Peloza|
+> |A. Hopkins|P. Van Meerbergen|
+> |S. Lewis||
+> |S. Hillier||
+> |S. Lehman||
+> |H. McAlister||
+> |P. Cuddy||
+> |S. Stevenson||
+> |J. Pribil||
+> |S. Trosow||
+> |S. Franke||
+> |D. Ferreira||
+> |C. Rahman||
 
-Okay, that's on the floor. I'll look to any speakers. Go ahead, Councillor Robbins. Thank you and through you.
+> **Motion Passed (13 to 0)**
 
-I was looking to move an amendment and it's the amendment that was discussed or put on the floor by the mayor at that meeting and I'm just wondering if I could read it. Okay, that municipal council endorse the following actions with respect to third party appeal mechanisms during the Ontario Land Tribunal process A, the mayor be requested to write today Association Municipalities of Ontario requesting that it consider advocating for the restoration of a limited third party appeal mechanism to the Ontario land tribunal that I applies to individuals residing within the statutory notice area who have demonstrated prior participation in the municipal planning process. I I incorporate appropriate safeguards to discourage frivolous, vexatious or delayed driven appeals and I I support the province's objective objective of facilitating timely and efficient housing development and the communication be received in the rest of the motion. >> Sure.
+****
 
-So you want to put that on the floor. That was what went to committee and did not proceed. I'll second it just to get it on the floor, so you're moving it on all second. So we can have a debate on that.
+### 8.4.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
 
-Do you want to start the debate? No, you're going to preserve your, okay. I'll look to other speakers on this. Go ahead.
+> Motion made by H. McAlister
 
-Definitely where Lewis. >> Thank you, worship. I'm just going to repeat what I said at committee, but I'm going to emphasize it in light of the discussion we had yesterday around the GMIS, and questions raised about the province making us whole and discussions happening not just in London but at AMO about that commitment. We can't send a letter to the province on every issue and I don't think we are doing ourselves any favors by having you send a letter to AMO saying advocate for this.
+That it BE NOTED that no pecuniary interests were disclosed.
 
-I think it simply goes to AMO gets probably bogged down there in the 200 other things that municipalities are asking able to law before, and even if it saw the light of day, when we're asking the province to make us whole on D.C.'s to develop housing, like asking them to restore third-party appeal processes at the O.L.T., flies contrary to asking them to make us whole on D.C.'s when they're trying to streamline housing processes. We know that the third-party appeals created a huge backlog, a huge amount of red tape, and complaints across the province. I don't think that this is an area where we should be poking the province and saying, "Hey, you did a bad thing, you took away these things." Well, at the same time, saying to the province, "By the way, you want us to speed up housing, you want us to make it more affordable, you want us to cut DCs, so make us whole." We can only ask for so much at the end of the day. There's only so many lobby positions and meetings that you can have at AMO or yourself your worship with the minister or any of us anywhere.
+> **Motion Passed**
 
-We have to recognize that the province has made a decision. We can write letters to them. They're not going to change it. Let's be pragmatic about that.
+****
 
-And so I don't think that this is a good use, frankly, of anyone 's time. And I'm just going to leave it at that. I won't be supporting this. Other speakers.
+### 8.4.2&nbsp;&nbsp;&nbsp;[(2.1)](</2026-06/2026-06-15 11th Meeting of the Infrastructure and Corporate Services Committee#21w12a-landfill-review-of-vehicle-speeds-and-odour-regulations>) W12A Landfill: Review of Vehicle Speeds and Odour Regulations
 
-Go ahead, Councillor Trust. Well, through the mayor again, for me, this is a question of fundamental justice, access to justice, not closing the courthouse door to litigants because of the side of the dispute that they have beyond. When we have these contested hearings, quasi-judicial proceedings, people should not feel that they shouldn't raise issues because if I raise my issue and I prevail at council, I'm going to be taken to the OLT. That's a club.
+> Motion made by H. McAlister
 
-Appeal rights are not supposed to be clubs. They're supposed to be mechanisms that the parties can use to correct errors or prejudice below. And I feel that this entire provincial administration in its intensity to want to do something fundamentally good and that it's built more housing has gone too far. And the one place that they've gone too far that I feel very strongly about is that you don't take party's procedural rights away.
+That, on the recommendation of the Deputy City Manager, Environment & Infrastructure, the report regarding W12A Landfill Review of Vehicle Speeds and Odour Regulations BE RECEIVED for information.
 
-You don't say well there's too much crime on the street so let 's just say people can't file appeals anymore. You don't say there are some bad tenants and some of them don't pay rent. So you therefore take away their ability to seek procedural justice. And in the case of the OMB, the LPAT, and now the OLT, it's the same thing.
+> **Motion Passed**
 
-People need to be able to make the arguments. And yes, if you're making a frivolous argument, the board has all sorts of mechanisms that it can already use to discourage that and sanction you. And it will do that. They have done it.
+****
 
-And I know, as somebody who's appeared at the OMB, that you want to be careful when you raise an appeal to the OMB. You wanted to have some sort of basis. Now the problem with the way the procedure works now, and I was corrected for a little while, but now we're back to de no-go hearings. And I think that if we were looking at you want to get to do these appeals, if there's been some type of jurisdictional issue or law, that's one thing.
+### 8.4.3&nbsp;&nbsp;&nbsp;[(2.2)](</2026-06/2026-06-15 11th Meeting of the Infrastructure and Corporate Services Committee#22w12a-landfill-community-enhancement-and-mitigative-measures-program-and-by-law-update>) W12A Landfill Community Enhancement and Mitigative Measures Program and By-law Update (Relates to Bill No. 240)    
 
-But now we're back to the old OMB rules where there's a de novo hearing, a new hearing and I just think that like to take people's appeal rights away is it's just a violation of fundamental rights and I have no doubt that if somebody wanted to litigate this and let 's face it, who's going to litigate it? You're a neighbor and you've lost at City Council . You probably don't have the means or the wherewithal or the time to be able to launch a challenge but we should be asking the province to act in accord with fundamental principles of justice and in saying, well, there are other things that are more important. Maybe to you, there are.
+> Motion made by H. McAlister
 
-But these are important rights that all of our rights bearing residents have. So this is not good, that people can't follow procedural rule that should go without saying. And if you're wrong, you'll lose. And if you do something frivolous, you'll be sanctioned.
+That, on the recommendation of the Deputy City Manager, Environment & Infrastructure, the proposed by-law, as appended to the staff report dated June 15, 2026 as Appendix “A”, BE INTRODUCED at the Municipal Council meeting to be held on June 23, 2026, to update the W12A Landfill Site Community Enhancement and Mitigative Measures Program.
 
-But you don't take away the litigation rights of an entire class of people because you want to rush things through and you want to build more housing. So with that, I want to thank the mayor and Coun cillor Ramen again for bringing this forward. I think this is definitely something that we should be raising at AMO and other places. And I feel very strongly that we have to at least give people their day in court.
+> **Motion Passed**
 
-Thank you very much. other speakers to this one, go ahead Councillor Hopkins. Yeah, thank you Your Worship, and thank you for committing to do this, and thank you Councillor Raman as well. I'm very supportive.
+****
 
-I'd like to more or less just start with the rights that individuals have, and that was taken away. When I speak to a number of residents, they're quite surprised that there is no appeal process that they have, the public participation meeting with an OZ change is their only opportunity. They don't even have a site plan process. Sure, we could put a H5 on, but a lot of their rights have been taken away.
+### 8.4.4&nbsp;&nbsp;&nbsp;[(2.5)](</2026-06/2026-06-15 11th Meeting of the Infrastructure and Corporate Services Committee#25award-of-rft-2026-100-w12a-equipment-rental-and-operators>) Award of RFT-2026-100 W12A-Equipment Rental and Operators
 
-This gives the community an opportunity. And an appeal process is a lengthy costly. It is a process that individuals take seriously too. I would really like to see what the numbers are that we're slowing down the development process of all the units that we must build by not doing this.
+> Motion made by H. McAlister
 
-It just seems, it's quite obvious that we should have a mechanism there for individuals to have rights. We just had an application that we decided not to even listen to an OMB hearing and a decision. Councils have that right to decide if that is an important decision. Yes, our planning policies change.
+That, on the recommendation of the Deputy City Manager, Environment & Infrastructure, the following actions be taken with respect to the award of the work outlined in Request for Tender (RFT-2026-100) W12A-Equipment Rental and Operators:
 
-But there are opportunities, and I think the most important opportunity here, in fact, there's two important opportunities. It's the rights of individuals. But the second part is, at AMO, we did have conversations. There are other municipalities that are bringing forward motions and having support.
+a)    the bid submitted by JBL Construction at its tendered annual price of $2,498,334 and the estimated total contract value over the term of the contract and contract extension options of $12,491,720 BE ACCEPTED; it being noted that the tendered annual price is the sum of tendered unit rates for the estimated annual hours of equipment and operator use and that the bid submitted by JBL Construction was the lowest of 3 bids received and meets the City’s specifications and requirements, in accordance with Section 12.5 of the City of London’s Procurement of Goods and Services Policy;
 
-So with those voices come louder and stronger voices. So I think Councillor Rallman and the Mayor for doing this. Others because of this, go ahead, Councillor Ferrer. Thank you.
+b)    the Civic Administration BE AUTHORIZED to undertake all the administrative acts that are necessary in connection with these recommendations;
 
-So I fundamentally agree with this. Bill 23 and 185 definitely remove some of these appeal rights and the voice of the community was kind of lost in that. But I would also say that there is also a level of appeal here. I kind of saw it was hinted at here that still exists, and that is at council itself.
+c)    the approval given, herein, BE CONDITIONAL upon the Corporation entering into a formal contract for the equipment and operators to be supplied and the work to be done relating to RFT-2026-100; and
 
-We have planning applications for zoning by-law amendments. We need public participation meetings, and there is an appeal process happening right here with us. So we still have the ability to make decisions and also hear those appeals before that comes through. So I just wanted to highlight that as well, because there is some accountability here for us as well.
+d)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations.
 
-And we have the ability to hear and make decisions. And we are talking about something after the fact , after a decision that's made here. So to point that out, I agree that we do need that extra level of protection. And I understand that we had it before.
+> **Motion Passed**
 
-It gives the rights of individuals to be able to express their voices and their opinions. But that level is here as well. So I just wanted to point that fact out. We have the ability to.
+****
 
-So there is a democratic layer here that exists with us amongst us here. Councillor Stevenson. Thank you. I'm not gonna support this at all.
+### 8.4.5&nbsp;&nbsp;&nbsp;[(2.6)](</2026-06/2026-06-15 11th Meeting of the Infrastructure and Corporate Services Committee#26new-traffic-signals-pedestrian-signals-and-pedestrian-crossovers>) New Traffic Signals, Pedestrian Signals and Pedestrian Crossovers (Relates to Bill No. 251)
 
-And I honestly find it a little ironic how often we want to tell the province what they should do when we aren't utilizing what we can do here. We were talking about asking to give our residents their day in court to appeal our decisions. what they want, their day at council. They want this council to represent them and make the decision in their best interests.
+> Motion made by H. McAlister
 
-So to give them the right to spend the money and the time and everything to fight what we won't do here for them, it doesn't make any sense to me. If we believe that they have a voice worth listening to, we should be responding. And if we feel that we have responded appropriately to the majority of Londoners, we shouldn't see the value in them going to another level at time and money and slowing down something that this council has done in the best interest of the city. So do we not believe in the decision that we're making and so we wanna give residents the right to overturn us?
+That on the recommendation of the Deputy City Manager, Environment & Infrastructure, the following actions be taken with respect to the traffic signal, pedestrian signal and pedestrian crossover installations:
 
-Or is this about giving them the power without taking the accountability ourselves? We're passing the buck to them, you fight it. We're not gonna do it here. We don't get to say, the province makes their choices.
+a)    the installation of the following traffic signals BE APPROVED:
 
-I don't want to listen to all kinds of organizations sending us letters telling us what to do. I don't think the province wants it. It doesn't help in our advocacy efforts. I don't think to be continually telling them they're the problem.
+i)    Oxford Street East at John Paul II Secondary School; 
 
-When they're saying, it's your council, it's your city, make decisions that serve your residents. Why would you want us to have the right to overturn you? Why would you do that? Do you not have the courage to make your own decisions or do what you you think is right for the residents?
+ii)    Oxford Street East at London Lane;
 
-I'm not sure where the, I'm not sure what the selling feature is on this, but to empower residents to spend a lot of time and money overturning the decisions that this council has, you know, made in the best interests of our city, doesn't make sense to me. And the province isn't gonna be listening to this anyway, so is it just to say we did something, to say that they should have, that the province should be doing something, lenders want us to do something. They want us to stand in our decisions. If we think it's in the best interest of the growth of our city, then we get to defend our decisions to our residents.
+iii)    Dundas Street at Ashland Avenue;
 
-And if we can't do that, we should be making the decisions here. We keep being told, we can't go against staff, because then they'll just take it to OLT. And take it to OLT. If we don't think-- if we're acting on behalf of residents, let them take it to OLT.
+iv)    Wellington Road at Whetter Avenue;
 
-Why are we so afraid of it? And yet, we want to empower our residents to go through it. I'm interested in the mayor and the councilors reason for this, but I don't see any reason to support it at all. And I think it's not a very good luck to London ers who are asking us to be leaders here.
+v)    Wellington Road at Bond Street;
 
-The speakers, oh, Councilor Pervil, sorry I had you on the last slide. That's twice I did that to you, I'm sorry. I heard that we have made decisions today. Absolutely we did.
+vi)    Sunningdale Road West at Meadowlands Way;
 
-What did we base it on? No, we don't have the expertise, but guess what? The people I trust from us, they do. And guess what?
+vii)    Sunningdale Road East at Clarke Road;
 
-They have the same housing policy, they have the same bylaws, just like OLT. If I look at during the last three and a half years, that's actually, I do understand that there are certain neighbourhoods that are not happy with some of our decisions because it's a change to the neighbourhood. But if I think that's one of the things that Council did when I was darning three and a half, four years ago, one of the top two was housing, housing availability and housing costs. And I think that Council did, again, I'm looking not prospective from one, two neighbourhoods, I'm looking from the perspective of half a million Londoners.
+b)    the installation of the following pedestrian signals BE APPROVED:
 
-We could have been better, no doubt everyone can be better but that's a path that we certainly have progressed on and we have delivered maybe not 100% but we have and there's no doubt that I will argue with anyone that supply and demand in this case is number one reason absolutely it is because the supply is up demand is either stable or lower and now people that there are you know, both prices of the housing doesn't matter if it's purchased or if it's rental, it is down. The other thing is, again, going back to it, if you think about how many good projects we have approved and how many neighborhoods we had up in the gallery that they weren't for it. All those, if they were to go to OLT, everything is delayed by 10 to 12-month. Where is our economy?
+i)    Leathorne Street at Adelaide Street North;
 
-Where is the pricing? And this is the thing that we really have to look at the big picture. and I really think that in this decision, I'm all for freedoms, absolutely. Especially with my background coming from my communist country, I'm all for freedoms.
+ii)    Jackson Road at Darnley Boulevard;
 
-On the other hand, we are here to push and to deliver for half a million of land res. I'm not supporting this. I really think what was what I just heard from my colleague, Councillor, when she was saying that it is in our power and we can, it's up to us to make those tough calls to tough decisions. And yes, if there there are certain things that are neighbourhoods.
+c)    the proposed by-law, as appended to the staff report dated June 15, 2026 as Appendix "A", BE INTRODUCED at the Municipal Council meeting to be held on June 23, 2026, for the purpose of amending the Traffic and Parking By-law (PS-114) related to the new pedestrian crossovers planned to be installed in 2026.
 
-People, they do have the opportunity in public participation meeting if they want us to go any further. We are all there to listen to them and to see potentially if there are any other options to do it. But again, I don't like passing the buck. Let's take the responsibility.
+> **Motion Passed**
 
-Let's not delay. Let's move, keep moving our city forward. And again, if I look at this, and the economy is very, very tough, the situation worldwide, just in London, just in Canada, and this is one of the few positive economic factors that we had, and that's what residential development. And I do understand that there are certain individuals that they might not be, their developers are not their number one favorite person in the world.
+****
 
-On the other hand, I have to look at this, and they are the ones who are making the easements, putting in their money on the table during these very tough times when everyone is looking at the dollars, flipping it left and right, back and forth, if they are going to spend it or not. So actually, they are investing. Are they maximizing their opportunities? Yes, they are.
+### 8.4.6&nbsp;&nbsp;&nbsp;[(2.8)](</2026-06/2026-06-15 11th Meeting of the Infrastructure and Corporate Services Committee#28emergency-procurement-of-replacement-components-for-centrifuges-at-greenway-wwtp>) Emergency Procurement of Replacement Components for Centrifuges at Greenway WWTP
 
-Would I prefer sometimes that they choose a different location or less density? Yes, I would. But on the other hand, we need to move our economy forward. I will not support this because I do believe that we are on the right track.
+> Motion made by H. McAlister
 
-And the last three and a half years, we have delivered on this Londoner's ask us for affordable and more housing options and we have been delivering. Thank you. Other speakers? Councilor Robin.
+That, on the recommendation of the Deputy City Manager, Environment & Infrastructure, the following actions be taken with respect to the purchase of replacement components for the centrifuges at Greenway Wastewater Treatment Plant:
 
-Thank you and through you, a lot of what I'm going to say is contained in the letter that I submitted on the PEC agenda. But I just want to remind everyone how we got here. The first is I want to say thank you to Windsor City Council for their leadership on moving this issue forward. I think it's important to watch other decisions in other places and provide support when we see something that we align with.
+a)    the purchase order issued for the purchase of a replacement scroll assembly for the centrifuges at Greenway Wastewater Treatment Plant under Section 19.2.ii of the Procurement of Goods and Services Policy at a total cost of $401,858.00, excluding HST, BE CONFIRMED;
 
-And so I want to talk a little bit about what Bill 185, the cutting red tape to build more homes act in 2024. So a very recent decision. I want to talk a little bit about that impact. So when we lost or when our province lost the Ontario land tribunal process being open to residents, it's really important that we understand that this isn't something that has had a long standing time to take hold.
+b)    the financing for the project BE APPROVED in accordance with the “Sources of Financing Report”, as appended to the staff report dated June 15, 2026 as Appendix "A";
 
-We have the ability. It's something that we should do with our own decisions as we try to. Report back. Find out what the temperatures like out there for a decision we may and make corrective action when we've made a decision.
+c)    the Civic Administration BE AUTHORIZED to undertake all the administrative acts that are necessary in connection with this project; and
 
-Perhaps that doesn't support its intent or that maybe we realize has unintended consequences or has other outcomes . And I think in this case, what I see why I wrote this letter, is public confidence in the planning system isn't the same. We feel it. We're feeling it.
+d)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations.
 
-Public confidence in the planning system is strengthened when residents have their ability to participate. They participate here in a meaningful way. And then from there, their concerns can be fairly reviewed. I don't think taking the appeal mechanism had all of the outcomes that the province had intended.
+> **Motion Passed**
 
-And I think what we're looking for here is to alter the balance again. So the current framework has altered this balance . It has created a situation where the developer is the only one that can go to the tribunal. And again, I'm not sure how that can continue and why we wouldn't want to push back on behalf of our residents to say, there is a way to do this, to alter the balance in a way that positively supports resident engagement by way of just allowing them the opportunity to have a voice.
+****
 
-And again, what's put in front of us today is to consider it a limited ability to have a voice, so that you live within the area that's affected. I think that's a good thing to add to the process . But here's the best part. The province has lots of policy makers.
+### 8.4.7&nbsp;&nbsp;&nbsp; [(2.9)](</2026-06/2026-06-15 11th Meeting of the Infrastructure and Corporate Services Committee#29expropriation-of-lands--western-road-and-sarnia-roadphilip-aziz-avenue-corridor-and-intersection-improvements-phase-2>) Expropriation of Lands – Western Road and Sarnia Road/Philip Aziz Avenue Corridor and Intersection Improvements Phase 2 (Relates to Bill No. 250)
 
-They have a lot of opportunity to write this, the right way that they wanna see it so that they can encourage housing development, but at the same time here, residents voices. We don't have to create all the situations for them to do that. I'll tell you, we are here, we're sitting in this room and we're doing our work today. Our province is not.
+> Motion made by H. McAlister
 
-Our government right now in the province of Ontario could be working on this. And I think it's fair to say that by sending something to our association to say, hey, we have a clear position across the province, that multiple cities are standing up and saying that these appeal rights matter, gives them pause moments to pause, maybe gives them some things to work on. Thank you. Okay, I have myself on the list, so I'll turn the chair over to Councillor Ramen, I think, since Councillor Lamey's presenting.
+That, on the recommendation of the Deputy City Manager, Environment & Infrastructure, with the concurrence of the Director, Transportation and Mobility, on the advice of the Director, Realty Services, approval BE GIVEN to the expropriation of land as may be required for the Western Road and Sarnia Road/Philip Aziz Avenue Corridor and Intersection Improvements Phase 2, and that the following actions be taken in connection therewith:
 
-Thank you, I have the chair. Go ahead. Sure, so I appreciate the comments of Council Raman because you're gonna make my comments a little bit shorter. First, I wanna recognize what is being asked.
+a)    the application be made by The Corporation of the City of London as Expropriating Authority to the Council of The Corporation of the City of London as approving authority, for the approval to expropriate the land required for the Western Road and Sarnia Road/Philip Aziz Avenue Corridor and Intersection Improvements project;
 
-It's not a return to what the status quo was before. It's a recognition of the reasons the province made the change in the first place. Problems was dealing with a series of, you know, frivolous, vexatious, delayed-driven appeals that were basically bogging down the system. And they're looking to get rid of that.
+b)    the Corporation of the City of London serve and publish notice of the above application in accordance with the terms of the Expropriations Act;
 
-And if you look at the motion, we recognize that any sort of change would need to incorporate mechanisms to ensure that's not the case. The other piece here is in the things to consider that AMO could consider, should they even want to craft a position, is that it should be individuals residing within the statutory notice area. People should not be going across the city on the other side of the city that isn't even in their neighborhood and being able to appeal something simply because they don't like it. But if you live right beside a development, and the person building that development has the ability to go and present their case to a parental body, why shouldn't the person beside the development be able to do the same thing?
+c)    the Corporation of the City of London forward to the Ontario Land Tribunal any requests for a hearing that may be received and report such to the Council of The Corporation of the City of London for its information; and
 
-Now, for the Councillor to say, hey, let's make the decisions here. I'm all for that. Like I like local decision-making. We get rid of the tribunal altogether and have all the decisions of council stand.
+d)    the proposed by-law, as appended to the staff report dated June 15, 2026 as Schedule “B”, BE INTRODUCED at the Council meeting to be held on June 23, 2026, to authorize the foregoing and direct the Civic Administration to carry out all necessary administrative actions.
 
-Like that's fine with me. We could debate everything here. That's not the system that we actually have out there. If someone wants to go that direction, I'm happy to have the debate on that particular motion.
+> **Motion Passed**
 
-But I cannot imagine that having someone who is a neighbor have the right to go and make a case for the development beside their house and empowering them with those rights isn't somehow something that's negative, right? That it's just, to me, even asking to pursue this is something that empowers residents who are immediately impacted to have a right, while recognizing that we have to support the province in ensuring that this doesn't slow things down. The other piece here too is, Neither of us are asking for the municipal council to go to the province directly on this. I agree that would not be a good use of time.
+****
 
-We've got lots of ask before the province. We're not even pointing this towards the province . We're saying, listen, there's some other municipalities carving out positions on this. These positions are best defined if debated and discussed as municipalities as a whole.
+### 8.4.10&nbsp;&nbsp;&nbsp;[(2.7)](</2026-06/2026-06-15 11th Meeting of the Infrastructure and Corporate Services Committee#27appointment-of-consulting-engineers-for-construction-administration>) Appointment of Consulting Engineers for Construction Administration
 
-In AMO, when all the municipalities can have a discussion, like, do we even want this on our agenda as one of our issues, right? So that is what the ask is before us. It's not going to the province directly on this. It's listening to what some of the residents have said.
+> Motion made by H. McAlister
 
-There are many residents who are surprised. We pass a development today. It's probably residents here who are like, "Well, I'd like to appeal this." And the answer is like, "Sorry, you can't." But I live right beside the building. Too bad, you don't have that right.
+That on the recommendation of the Deputy City Manager, Environment & Infrastructure, the following actions be taken with respect to the appointment of consulting engineers:
 
-So I think this is a reasonable pathway forward that does not consume the municipalities' GR resources because we've got lots of things to ask for. It says, "If AMO is gonna consider this, "we're interested in the discussion. these are some things that you should consider if you have the discussion because we support the province on getting rid of frivolous and vex atious and delay-driven appeals. But we also support the residents who live in the immediate area, not across the city, to have some sort of recourse for decision-making if there continues to be a body beyond municipal councils that get to make that.
+a)     the following consulting engineers BE APPOINTED to carry out consulting services for the identified projects, at the upset amounts identified below, in accordance with the estimate on file, and in accordance with Section 13.3 iii) (a) of the City of London’s Procurement of Goods and Services Policy:
 
-Because remember, this is a body that gets to make decisions beyond this room. When it goes to that body, we don't get a say anymore. So some level of representation there by those immediately impacted I think is a reasonable ask and I think this is a reasonable process to even decide whether it becomes a municipal ask across the province of the province. So happy Councillor Ramen forwarded happy that she was willing to adjust some of the language to align with with that I think that's that's good collaborative work together and I'll support this today and yeah we'll see how it goes .
+i)    Archibald, Gray & McKay Engineering Ltd., BE APPOINTED consulting engineers to complete the resident inspection and contract administration for the 2026 Southdale Road East reconstruction project in accordance with the estimate, on file, at an upset amount of $269,863, including 10% contingency, excluding HST; and
 
-Returning the chair to you know on the speakers list. Any other speakers? I think almost everyone has spoken. That's a break.
+ii)    AECOM Canada ULC, BE APPOINTED consulting engineers to complete the resident inspection and contract administration for the 2026 Pond Mills Road and Deveron Crescent project in accordance with the estimate, on file, at an upset amount of $451,182, including 10% contingency, excluding HST;
 
-Thank you. Yes, I just want to briefly say that I'll be supporting this. I don't think it's fair that developers get two appeal stuff and residents don't. And I think that this to me is should be and is about fairness.
+b)    the financing for this project BE APPROVED as set out in the Sources of Financing Report, as appended to the staff report dated June 15, 2026 as Appendix "A";
 
-And fairness would require that both sides have the same rights and access to the appeal process. And so I think it's courageous for us to send this along and request that we give our residents the same rights that developers get. Any other speakers? Okay, we'll deal with this matter.
+c)    the Civic Administration BE AUTHORIZED to undertake all the administrative acts that are necessary in connection with this project;
 
-Then we're going to have a few motion to go past six and we'll deal with that immediately after. This has been moved and seconded. We'll open that for voting. Councillor Palazzo.
+d)    the approval given, herein, BE CONDITIONAL upon the Corporation entering into a formal contract; and
 
-Sorry, didn't come up, yes. Close in the vote. Motion carries seven to six. Okay, and now we're going to need a motion to extend to past six.
+e)     the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations.
 
-Okay, we're going to do this in the system of motion to extend past six moved by Coun cillor Frank, seconded by Councillor Hopkins. So votes yes noted. Thank you , Councillor Stevenson. I vote yes.
+> **Motion Passed**
 
-No noted. Thank you. Close in the vote. Motion carries 12 to 1.
+****
 
-Okay, back to Councilwoman. I believe that concludes the ninth report that I initiated about 10 hours ago. Perfect. Thanks for your work.
+### 8.4.8&nbsp;&nbsp;&nbsp;[(2.3)](</2026-06/2026-06-15 11th Meeting of the Infrastructure and Corporate Services Committee#23federation-of-canadian-municipalities-green-municipal-fund-agreement-for-enhancing-londons-resilience-through-climate-adaptation-planning>) Federation of Canadian Municipalities: Green Municipal Fund Agreement for Enhancing London’s Resilience Through Climate Adaptation Planning (Relates to Bill No. 241)
 
-Keep standing if you want or you can take a seat. We'll move on to the audit report. I have Council Palosa online to present the audit report. Thank you Mr.
+At 3:20 PM, Councillor E. Peloza enters the meeting.
 
-Mayor. I was the one person who voted not to extend and it's my report not because report is not excellent so I will present it now. It's the third report the audit committee. I will highlight everything was unanimous discussions as per item 7 being 4.6.
+> Motion made by H. McAlister
 
-This was a letter from Councillor Frank that has been referred to the next round of audits for 2027 as everything was already packed and set and contracted for this round. And item 8, 5.1, the request for proposals for 20 26 for the internal audit services. The recommendation is MNP that would commence in 2027 and they are actually our current internal audit people. And we just appreciate everyone who did apply and went through the process with the city.
+That on the recommendation of the Deputy City Manager, Environment & Infrastructure, the proposed by-law, as appended to the staff report dated June 15, 2026 as Appendix “A”, BE INTRODUCED at the Municipal Council meeting to be held on June 23, 2026, to:
 
-Thank you. And been giving no nose to pull anything. Does anyone want anything separate? Seeing none then we can vote on this whole group.
+a)    APPROVE the Revised Green Municipal Fund Grant Agreement, LLCA-25-0822, (“Agreement”) between the Federation of Canadian Municipalities (“FCM”) and The Corporation of the City of London for the provision of funding for a project to enhance London’s resilience through climate adaptation planning, appended as Schedule “1” on the added agenda;
 
-Oh, yeah. Oh, okay, sorry. Seeing none then we can vote on the whole thing altogether. So Councilor Plaza will move the whole slate and I'll see if there are any speakers on these buyers.
+b)    AUTHORIZE the Mayor and the City Clerk to execute the Agreement; and
 
-Councilor Stevenson. Thank you. This is a bit of a follow up to the Portfolio Investment Report. So the 2025 financial audit, we've got the audited statements here.
+c)    AUTHORIZE the Deputy City Manager, Environment & Infrastructure, as the Duly Authorized Officer to approve and execute any forms or documents on the City’s behalf necessary to fulfill the City’s reporting obligations under the Agreement.
 
-And in note 23, it talks about financial instruments and risk management, it talks about market risk. And it says that management monitors this exposure regularly and estimates that if interest rates increased by 1% and all other variables are held constant, the potential change in unrealized loss on its fair valued fixed income holdings would be 49,466,000 as compared to 2024 where there was a $40,948,000 unrealized loss. So through you to staff, I would just like to understand a little bit more about the law-- - Go ahead. Thank you for the chair.
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|S. Stevenson|P. Van Meerbergen|
+> |A. Hopkins|||
+> |S. Lewis|||
+> |S. Hillier|||
+> |E. Peloza|||
+> |S. Lehman|||
+> |H. McAlister|||
+> |P. Cuddy|||
+> |J. Pribil|||
+> |S. Trosow|||
+> |S. Franke|||
+> |D. Ferreira|||
+> |C. Rahman|||
 
-So generally the city's position is to hold all of our investments through to maturity. So those are obviously unrealized and if they were to go forward, is the quantification of the risk. Keep in mind that is also on a consolidated basis which takes into account all of the boards and commissions that also have investments as well as part of that portfolio that would include the consolid ations that are part of that as well. So certainly that is generally our policy.
+> **Motion Passed (13 to 1)**
 
-We have certainly moved to accounting for investments through the financial instruments new standard that came forward a year ago that we have the mark to market so all all of our instruments are recorded for American value. So through the investment report, we had noted what those unrealized gains are at this point in time. And obviously, if we hold to maturity, then we don't anticipate to have any losses based on the portfolio that the city invests in. Mr.
+****
 
-Stevenson. Sorry, so just to, through you then, to understand you're not anticipating losses at the end of the maturity? Thank you, through the shared note, that is correct. Okay, thank you, so that's good to know.
+### 8.4.9&nbsp;&nbsp;&nbsp;[(2.4)](</2026-06/2026-06-15 11th Meeting of the Infrastructure and Corporate Services Committee#24contract-award-tender-no-rft-2025-222-wellington-gateway-and-municipal-infrastructure-improvements-phase-2b--base-line-road-to-watson-street>) Contract Award: Tender No. RFT-2025-222 Wellington Gateway and Municipal Infrastructure Improvements Phase 2B – Base Line Road to Watson Street
 
-And I guess this is where I would suggest that having that in the investment report and explaining it would help because when somebody's reading these statements and they see that we have an unrealized loss, they might wonder why we have a $40 million loss in our investments. The other thing is I noticed in the financial statements it talks about credit rating of, talks about credit risk, this is in 23B, talks about credit risk and the credit rating of the corporation's fixed income holdings. So I noticed that in 2024, we had 2.8% of the holdings were triple B credit rating. And in previous years, I think we had the similar kind of amount.
+> Motion made by H. McAlister
 
-I noticed that a couple of cities, they aren't allowed like in their investment policy. It says that they must invest in A and above. And so I'm just wondering, are there any limits or restrictions on what staff are investing in and why the move out of the triple B? Thank you through the chair.
+That on the recommendation of the Deputy City Manager, Environment & Infrastructure, the following actions be taken with respect to the award of contracts for Wellington Gateway and Municipal Infrastructure Improvements Phase 2B – Base Line Road to Watson Street; it being noted that in accordance with Section 12.4.1 of the City of London’s Procurement of Goods and Services Policy Request for Tender (RFT) contract awards greater than $6,000,000 require approval of City Council:
 
-So the city of London under the investment policy in accordance with Municipal Act. So the restrictions are very, very specific as to what the city can invest in. I wish I had the question before, 'cause I could have been able to point to exactly what that's from. I'm going to assume that that is part of one of the consolidated entities that are investments 'cause the city does not typically invest in triple B bonds 'cause that's not typically one of the things that our investment portfolio and is not part of our investment policy.
+a)    the bid submitted by Bre-Ex Construction Inc. at its tendered price of $50,416,071.33 excluding HST, for the Wellington Gateway and Municipal Infrastructure Improvements Phase 2B – Base Line Road to Watson Street project, BE ACCEPTED; it also being noted that the bid submitted by Bre-Ex Construction Inc. was the lowest of four (4) bids received and meets the City's specifications and requirements in all areas;
 
-So I'm sorry, I don't have the information to point to exactly what that entity is, but those are not investments that is held by the city of London noting that this is a consolidated entity and would take into account all in the investments of the consolidated ABCs that are also part city of London. Okay, thank you through through you. That's helpful. Like I said, I understand the municipal act doesn't do it, but I did look up other city's investment policies and they say A and above and it sounds like we're A and above as well.
+b)    Dillon Consulting Limited BE AUTHORIZED to carry out the construction inspection and contract administration for the said project in accordance with the estimate, on file, at an upset amount of $4,802,873.13 excluding HST, in accordance with Section 13.3 iii) (a) of the City of London’s Procurement of Goods and Services Policy;
 
-And yet we've got boards and commissions that are less than that. So that's interesting. I'll be looking into that a little further. The other thing on the financial statements was, so in under the credit rating, it says there was quite a shift in double A credit rating.
+c)    the financing for this project BE APPROVED as set out in the “Sources of Financing Report”, as appended to the staff report dated June 15, 2026 as Appendix "A";
 
-So of our fixed income holdings, in 2024 we had 43 double A, now it's down to 29 percent and yet the A has gone from 34 up to 50. So for those that don't understand the credit ratings on the fixed income holdings, I just threw you to staff would be curious as to how you monitor that. You know, are there any concerns. What does it mean to see that that shift down to the AA fixed income holdings?
+d)    the Civic Administration BE AUTHORIZED to undertake all administrative acts that are necessary in connection with this project;
 
-Thank you for the chair. My apologies without the detail behind this note of where all those numbers are coming from. It's a little bit challenging to be able to give you exact information. I'd have to go back and look at that information.
+e)    the Civic Administration BE AUTHORIZED to approve Memorandums of Understanding between the Corporation of the City of London and public utilities and private service owners in relation to the cost-sharing of servicing works contained within the Wellington Gateway and Municipal Infrastructure Improvements Phase 2B – Base Line Road to Watson Street contract;
 
-Certainly at a global basis as we're looking at our investment policy sets out where that is. Most cases, we are investing in government bonds and things that are certainly on the higher end. And one of the things from our investment policy is to ensure how we monitor that. And as we're holding them through to the end and the maturity dates, there are no losses.
+f)    the approval given, herein, BE CONDITIONAL upon the Corporation entering into a formal contract, or issuing a purchase order for the material to be supplied and the work to be done, relating to this project (Tender RFT-2025-222); and
 
-And we're basically monitoring on a regular basis how those investments are providing those returns . So based on the investment report that was earlier provided earlier this afternoon. That does set out the returns that have been forward. So because it's consolidated, it's a little bit challenging to look at the percentages and be able to tell you exactly without the numbers in front of me exactly where those are with respect to the various boards and commissions as well and where those investments are.
+g)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations.
 
-But generally through our investment policy, we are trying to hold the highest grade as much as possible and then depending on some of those entities, we would need to monitor on a regular basis if there are credit rate changes, that if there was something that was held in a particular entity that got downgraded while we were holding that investment, we would look to find the right time to hold that through to maturity and then sell it at that time so that we're not selling at a loss and then would ensure we would not go forward. So certainly one of the things that would primarily look at this is the city's one investment fund where we have a large proportion of our equity holdings. So within that, that is managed through the one investment of which the City of London is one of the many municipalities that invest in that. That is primarily where you will have other very abilities that are there, that which the city does not have direct control over, but which that board monitors what those investments are and ensures the proper mix.
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|S. Stevenson|P. Van Meerbergen|
+> |A. Hopkins|||
+> |S. Lewis|||
+> |S. Hillier|||
+> |E. Peloza|||
+> |S. Lehman|||
+> |H. McAlister|||
+> |P. Cuddy|||
+> |J. Pribil|||
+> |S. Trosow|||
+> |S. Franke|||
+> |D. Ferreira|||
+> |C. Rahman|||
 
-So I'm going to garner a guess that the majority of those tied to that investment and the city's share but without the details it's very challenging but that would generally at a broad level be how that would happen. Thank you I appreciate that and appreciate that you don't have these all off the top of your head totally understand that and I apologize for not getting the detailed questions to you earlier. I guess the only point I want to make is that as I said at committee the amount in our investment portfolio is significantly higher than some of the comparable municipalities. We're about 1.4 or something of our annual budget.
+> **Motion Passed (13 to 1)**
 
-Other municipalities were like 0.3, 0.5, one of them was 0.8. I obviously didn't do a full scan. But I think given the amount of money, $1.8 billion being invested and some of the notes in the financial statements may be raising concerns that it sounds like are unwarranted, I would love to see the investment report come with those excerpts from the financial statements with some explanations so that Londoners who are interested in this kind of thing and I get that it's not everybody can see that information transparently. I didn't pull it.
+****
 
-I'm supportive of everything in here. I just want to make those points. Thank you. Okay other speakers to the audit committee report .
+### 8.4.11&nbsp;&nbsp;&nbsp;[(2.10)](</2026-06/2026-06-15 11th Meeting of the Infrastructure and Corporate Services Committee#2102025-portfolio-investments-report>) 2025 Portfolio Investments Report
 
-Okay seeing none we'll open that for voting. Let's close in the vote. Motion carries 12 to 0. Thanks Councilor Palosa.
+> Motion made by H. McAlister
 
-We're on two added reports. There's one coming out of the in-camera session and Councilor Frank, although I gave it to you a long time ago, is going to read that out because she's the vice chair of the committee that the report is linked to. So I'll happy to present that report. Thank you.
+That, on the recommendation of the Deputy City Manager, Finance Supports, the 2025 Portfolio Investments Report, providing a summary of the performance of the City of London’s investments, BE RECEIVED for information.
 
-The 11th report of the Council in closed session, your Council in closed session report, Grand of Eastman, 1712 Dundas Street, Pottersburg, phase three sanitary project that as a procedural matter pursuant to section 239 six of the municipal act 2001 the following recommendation be forwarded to council in closed session for the purpose of considering whether the recommendation should be forwarded to council for deliberation and a vote in public session that on the recommendation of the deputy city manager finance supports with the concurrence of the deputy city manager environment and infrastructure on the advice of the director realty services with respect to the property located at 1712 Dundas street further described as being part of lot 10 and part of lot 17 on registered plan number 19 and to be further described by the new reference plan as shown on the location map as Appendix B for the purpose of installing a new municipal infrastructure and connection with the Potters burg Phase 3 sanitary project the following actions be taken a the grant of easement agreement substantially in the form as Appendix C submitted by 382672 Ontario limited the transfer to grant and eas ement and over the portion of the subject property to the city to construct municipal infrastructure for the sum of $350,000 be accepted. Subject to the terms and conditions as set out in the agreement. And B, the civic administration be directed to apply the financing for this procurement as set out in the source of financing report as Appendix A, that progress is made with respect to items 4.1, 4.2, 4.4, 4.5, 4.6, and 4.7 as noted on the public agenda. Okay, you get to, that's like presenting a report So you get to stay.
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|S. Stevenson|P. Van Meerbergen|
+> |A. Hopkins|||
+> |S. Lewis|||
+> |S. Hillier|||
+> |E. Peloza|||
+> |S. Lehman|||
+> |H. McAlister|||
+> |P. Cuddy|||
+> |J. Pribil|||
+> |S. Trosow|||
+> |S. Franke|||
+> |D. Ferreira|||
+> |C. Rahman|||
 
-Is there any, so that's moved by you? Any discussion on that? Okay, see none, we'll open that for voting. Councillor Hopkins votes yes.
+> **Motion Passed (13 to 1)**
 
-Councillor for votes yes. No, thank you. Those in the vote, motion carries 12 to zero. Okay, deferred matters.
+****
 
-There are none, inquiries. See none, version of motions that were none submitted. We're on to bylaws. I've got good news and bad news is, good news is it's the last thing.
+## 8.5&nbsp;&nbsp;&nbsp;9th Report of the Planning and Environment Committee
 
-Bad news is we have to do 27 separate votes based on the conflicts and what people ask to be pulled separately. So we'll work our way through them. You worship, I'm happy to serve as a member for all of them. Perfect, you can move from all.
+[2026-06-09 - PEC Report](</2026-06/2026-06-09 - Planning and Environment Committee>)
 
-Councillor Caddy, always reliable to second them all. 'Cause he's an agreeable guy. Okay, so we're gonna work through them. I'm gonna say which ones they are.
+> Motion made by S. Lehman
 
-So colleagues can decide their votes, but we're gonna start with, okay. Someone pulled that separate. Okay, we're gonna start with the confirming by- law. So that'll be the first one moved by Councillor C utty.
+That the 9th Report of the Planning and Environment Committee BE APPROVED, with the exception of items 5 (3.4), 6 (3.5), 7 (3.6), 8 (3.7), 9 (3.8), and 12 (4.1).
 
-I'll move by Deputy Mayor Lewis, seconded by Coun cillor Cutty. We'll open the first reading for voting. Closing the vote, motion carries 12-0. Okay, and second reading, any debate or discussion?
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |Mayor J. Morgan|P. Van Meerbergen|
+> |A. Hopkins||
+> |S. Lewis||
+> |S. Hillier||
+> |E. Peloza||
+> |S. Lehman||
+> |H. McAlister||
+> |P. Cuddy||
+> |S. Stevenson||
+> |J. Pribil||
+> |S. Trosow||
+> |S. Franke||
+> |D. Ferreira||
+> |C. Rahman||
 
-Seeing none, same mover and seconder, we'll open second reading for voting. Motion carries 12-0. Third and final reading of this, same mover and seconder, we'll open that for voting. Here is 12-0.
+> **Motion Passed (14 to 0)**
 
-Next one is gonna be bill 239, which is, so this one is the contribution agreement related to Duluth Crescent Block 6, 18, sorry, 1958 Duluth Crescent Block 6. Okay, so let's move to seconded and we'll open first reading for voting. Thank you. Just noting that Councilor Palosa indicated she needed to leave the meeting.
+****
 
-Marking her as absent, closing the vote. Motion carries 9-2. Okay, and second reading, any discussion? Okay, seeing none, we'll open second reading for voting.
+### 8.5.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest 
 
-Closing the vote, motion carries 9-2. Okay, third and final reading, we'll open that for voting. Councilor Pribble, Councillor Lewis. Motion carries 9-2.
+> Motion made by S. Lehman
 
-Okay, next one is bill 241, which is the Green Municipal Fund Grant Agreement . We will use the same over in seconder and we'll open first reading for voting. Motion carries 10-1. And second reading, any discussion?
+That it BE NOTED that no pecuniary interests were disclosed.
 
-Seeing none, we'll open second reading for voting . Motion carries 10-1. And third reading, we'll open that for voting. Motion carries 10-1.
+> **Motion Passed**
 
-The next one is gonna be bill 244, which is the by-law to amend the administrative monetary penalties system, or bylaw, essentially. So we'll use the same move in seconder and we'll open that for voting. And carries 10-1. Second reading, any discussion?
+****
 
-Seeing none, we'll open that for voting. Councillor Trussell, thank you. Motion carries 10-1. Third and final reading, and we'll open third reading for voting.
+### 8.5.2&nbsp;&nbsp;&nbsp;(3.1) 3924, 4012, and 4050 Colonel Talbot Road - O-26047/Z-26046/39T-12503 (Relates to Bill No.'s 245 and 256)
 
-Motion carries 10-1. Yeah, the next one is bill 257, which is 2496 Dundas Street East. We'll open first reading for voting with the same move in seconder. And carries 10-1.
+> Motion made by S. Lehman
 
-and second reading on this for any discussion. Seeing none, we'll open that for voting. And carries 10 to one. Third and final reading, we will open that for voting.
+Notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application submitted by the City of London and Auburn Developments Inc., related to the properties located at 3924, 4012, and 4050 Colonel Talbot Road,
 
-And carries 10, one. All right, the next one is two, oh, 259, which is 1057 to 1061 Richmond Street. We'll use the same, we'll open first reading for voting. And carries eight to three.
+a)     a proposed by-law BE INTRODUCED at the Municipal Council meeting to be held on June 23, 2026, to amend The Official Plan for the City of London, 2016 (The London Plan), to:
 
-Second reading, and we will look for any discussion. Seeing none, we'll open that for voting. Mr. Stevenson.
+i) REVISE Map 3 – Street Classifications of The London Plan to REALIGN the Neighbourhood Connector Street classification for Hayward Drive;
 
-I vote yes. No to thank you, motion carries eight to three. Okay, third and final reading, we're going to open that for voting. Carries 8-3.
+ii) AMEND the Southwest Area Secondary Plan by ADDING a site-specific policy to the Lambeth Residential Neighbourhood within the Medium Density Residential Neighbourhood to permit the single detached dwellings, stacked townhouse dwellings and apartment buildings as a permitted uses on portions of the subject lands and maximum height of six storeys and maximum density up to 100 units per hectare, as well as increased permissions for garage and driveway widths up to maximum of 60% for lots having a lot frontage of 12.0 metres or less;
 
-Okay, the next is bill 260, which is 36 Weathered Street. We'll open first reading for voting. Sir Trussell, carries 9-2. Second reading, I look for any discussion.
+b)     a proposed by-law BE INTRODUCED at the Municipal Council meeting to be held on June 23, 2026, to amend Zoning By-law No. Z.-1, in conformity with The Official Plan for the City of London, 2016 (The London Plan), as amended in part the above-noted part a), to change the zoning of the subject property FROM a Holding Residential R4 Special Provision/Residential R5/Residential R6/Residential R7 Special Provision/Office (h8-R4-6(16)/R5-3/R6-5/R7*H24*D100/OF8) Zone, Holding Residential R4 Special Provision/Residential R5/Residential R6/Residential R7 Special Provision (h8-R4-6(16)/R5-3/R6-5/R7*H18*D30) Zone, Holding Residential R1/Residential R4 Special Provision (h8-R1-3/R4-6(16)), Holding Residential R4 Special Provision/Residential R5/Residential R6 (h8-R4-6(16)/R5-3/R6-5) Zone, Holding Residential R1 (h8-R1-3), Holding Residential R1/Residential R4 Special Provision/Residential 6 (h8-R1-3/R4-6(16)/R6-5) Zone, Urban Reserve UR (UR3) Zone, and a Holding Open Space OS(h-8-OS1) TO a Residential R4 Special Provision/Residential R5/Residential R6 Special Provision/Residential R7 Special Provision/Residential R8 Special Provision/Office (R4-6(16)/R5-3/R6-5(*)/R7*H24*D100/R8-4(*)/OF8) Zone, Residential R4 Special Provision/Residential R5/Residential R6 Special Provision/Residential R7 Special Provision/Neighbourhood Facility NF (R4-6(*)/R5-3/R6-5(*)/R7*H18*D30/NF1) Zone, Residential R3 Special Provision/ Residential R4 Special Provision (R3-1(*)/R4-6(*)) Zone, Residential R3 Special Provision/Residential R4 Special Provision/ Residential R6 (R3-1(*)/R4-6(*)/R6-5) Zone, , Residential R5 Special Provision/Residential R6 Special Provision/Residential R8 Special Provision (R5-7(*)/R6-5(*)/R8-4 (103)) and an Open Space OS1 Zone.; and,
 
-Seeing none, we'll open that for voting. Carries 8-3. Third and final reading of that, we'll open that for voting. Carries 8-3.
+c)     the proposed red-line revisions to the draft-approved plan of subdivision as submitted by Auburn Developments Inc. BE SUPPORTED by Municipal Council subject to approval authority conditions, which includes the realignment of single family residential Blocks (Blocks 1 to 18), Medium Density Residential Blocks (Blocks 19 to 25), School Block/Medium Density Residential Block (Block 26), High Density Residential (Block 27), Park Blocks (Blocks 28 to 30), as well as the realignment of proposed Hayward Drive, the extension of Fallingbrook Avenue, the extension of Heathwoods Avenue, Castle Oak Street, and Street ‘A’;
 
-Okay, next is bill 261, which is 929 Cheap Side. We will open first reading for voting. Carries 7-4. Second reading, is there any discussion?
+d)     with respect to the proposed red-line revisions to the draft plan of subdivision for Heathwoods Subdivision as submitted by Auburn Developments Inc., the Planning and Environment Committee REPORT TO the Approval Authority, on the following:
 
-Seeing none, we'll open that for voting. that for voting prayer votes yes noted thank you motion carries 7 to 4 a third and final reading we'll open that for voting and carries 7 for okay the next motion is everything else that we didn't do so all the pieces together you want to 58 separate okay we can do that we just got to pull it out of the motion sorry all right now we're gonna do first reading of 258 which is the one you just asked for separate the temporary zoning on the parking lot we'll open that for voting first reading motion carries 10 1 and second reading any discussion. Seeing none we'll open that for voting. Carries 10-1 and third and final reading of this by-law will open that for voting.
+i) any issues raised at the public meeting; and, 
 
-Motion carries 10-1. Now we're going to try to deal with everything else. Everybody's good with that. Okay okay we'll open that for voting all remaining by-laws.
+ii) request a revised Transportation Impact Assessment be considered as part of the future draft plan of subdivision detailed design and site plan design processes;
 
-Motion carries 11-0. Okay second reading any discussion. Seeing none we'll open that for voting. Motion carries 11-0.
+it being pointed out that the following individual made a verbal presentation at the public participation meeting held in conjunction with these matters:
 
-Final reading on that for voting. Councillor Luke thank you. Motion carries 11-0. Okay that's all the by-laws so I'll just Let's look for a motion to adjourn.
+- A. Vandersluis, Auburn Developments Inc.;
 
-Moved by Councillor Hough and seconded by Coun cillor Frank. We can do that by hand. All those in favor? Motion carries.
+it being noted that the Planning and Environment Committee received the following communications with respect to this matter:
 
-All right. We're adjourned.
+- a communication dated June 5, 2026, from A. Vandersluis, Auburn Developments Inc.; and, 
 
-</details>
+- a communication dated June 4, 2026, from M. Millar;
+
+it being noted that the Municipal Council approves this application for the following reasons:
+
+- the recommended amendments are consistent with the Provincial Planning Statement 2024 which directs municipalities to provide for a range and mix of housing options and densities, and promotes healthy, active and inclusive communities, fosters social interaction, and facilitate active transportation and community connectivity;
+
+- the recommended amendments conform to the policies of The London Plan, including, but not limited to, the Neighbourhoods Place Type, City Building and Design, Environmental, Our Tools, and all other applicable policies of The London Plan; 
+
+- the recommended amendments are appropriate and compatible with existing and future land uses surrounding the subject lands; and, 
+
+- the recommended zoning will support the proposed Draft Plan of Subdivision and facilitate an appropriate form, height, and mix of residential development in conformity with The London Plan and the Southwest Area Secondary Plan, as amended;
+
+it being acknowledged that any and all oral and written submissions from the public, related to this application have been, on balance, taken into consideration by Council as part of its deliberations and final decision regarding these matters.
+
+> **Motion Passed**
+
+****
+
+### 8.5.3&nbsp;&nbsp;&nbsp;(3.2) Employment Area Policy Review and Unsuitable/Ineligible Industrial Land Review - O-25125 (Relates to Bill No. 246)
+
+> Motion made by S. Lehman
+
+That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to Employment Areas policies and mapping of The Official Plan for the City of London, 2016 (The London Plan):
+
+a)     the proposed by-law as appended to the staff report June 9, 2026, as Appendix "B" BE INTRODUCED at the Municipal Council meeting to be held on June 23, 2026, to amend The London Plan, to:
+
+i) REVISE the term ‘Employment Areas’ and the policies of the Industrial Place Types to align with the new Employment Areas definition and provision in the Planning Act and new Employment Areas definition and policies in the Provincial Planning Statement, 2024; 
+
+ii) REVISE Map 1 – Place Types of The London Plan to change the Place Types of the subject lands FROM Heavy Industrial and Light Industrial TO Commercial Industrial and Neighbourhoods; and,
+
+iii) ADD to Map 7 – Specific Policy Areas the Employment Areas that align with the boundaries of the Heavy Industrial, Light Industrial, and Future Industrial Growth Place Types to support clear delineation and implementation of the Employment Areas policies;
+
+it being pointed out that the following individuals made verbal presentations at the public participation meeting held in conjunction with these matters:
+
+- A. Richards, Zelinka Priamo Ltd; 
+
+- R. Rains; and, 
+
+- E. Steele, Monteith Brown Planning Consultants Ltd.;
+
+it being noted that the Planning and Environment Committee received the following communication with respect to this matter:
+
+- a communication dated June 5, 2026, from A. Richards, Zelinka Priamo Ltd.;
+
+it being further noted that the Municipal Council approves this application for the following reasons:
+
+- the recommended amendments align The London Plan to the Planning Act and Provincial Planning Statement, 2024; and, 
+
+- the recommended amendments facilitate an appropriate form of development for the context of the site and surrounding neighbourhood;
+
+it being further noted that draft Industrial zones and Employment use definitions have been developed through ReThink Zoning consistent with these amendments and Provincial policy direction;
+
+it being acknowledged that any and all oral and written submissions from the public, related to this application have been, on balance, taken into consideration by Council as part of its deliberations and final decision regarding these matters.
+
+> **Motion Passed**
+
+****
+
+### 8.5.4&nbsp;&nbsp;&nbsp;(3.3) 1837 Churchill Avenue - Z-26048
+
+> Motion made by S. Lehman
+
+That the application from Al-Taqwa Academy (c/o Strik Baldinelli Moniz Ltd.) relating to the property located at 1837 Churchill Avenue BE REFUSED;
+
+it being noted that Municipal Council’s rationale for supporting refusal of the application include the following reasons:
+
+i) the recommended amendments do not conform to The London Plan, including but not limited to the Key Directions, City Building policies, Place Type policies, and the Out Tools policies; and, 
+
+ii) the requested special provision would facilitate a form of development that is too intense for the subject lands;
+
+it being pointed out that the following individuals made verbal presentations at the public participation meeting held in conjunction with these matters:
+
+- J. Robinson, Strik Baldinelli Moniz Ltd.; and, 
+
+- L. Davis;
+
+it being acknowledged that any and all oral and written submissions from the public, related to this application have been, on balance, taken into consideration by Council as part of its deliberations and final decision regarding these matters.
+
+> **Motion Passed**
+
+****
+
+### 8.5.10&nbsp;&nbsp;&nbsp;(3.9) 1945 Hyde Park Road - Z-26044 (Relates to Bill No. 262)
+
+> Motion made by S. Lehman
+
+That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Canadian Property Holdings (Ontario) Inc., Calloway REIT (SW Ontario) Inc. relating to the property located at 1945 Hyde Park Road, the proposed by-law as appended to the staff report dated June 9, 2026, as Appendix "A" BE INTRODUCED at the Municipal Council meeting to be held on June 23, 2026, to amend Zoning By-law No. Z.-1, in conformity with The Official Plan for the City of London, 2016 (The London Plan), to change the zoning of the subject property FROM a Holding Office Special Provision (h-8*OF3(2)) Zone TO a Holding Compound Associated Shopping Area Commercial (h-8*ASA3/ASA6/ASA8) Zone;
+
+it being pointed out that the following individual made a verbal presentation at the public participation meeting held in conjunction with these matters:
+
+- D. Orellana, Smart Center Street;
+
+it being noted that the Planning and Environment Committee received the following communication with respect to this matter:
+
+- a communication dated June 8, 2026, from M.B. Rose;
+
+it being noted that the Municipal Council approves this application for the following reasons:
+
+- the recommended amendment is consistent with the Provincial Planning Statement, 2024 (PPS); 
+
+- the recommended amendment conforms to The London Plan, including but not limited to the Key Directions, City Building policies, Place Type policies, and the Our Tools policies; and, 
+
+- the recommended amendment facilitates an appropriate use in a suitable location at a scale and intensity that can be suitably accommodated and will contribute to achieving a diverse range of commercial options in the area;
+
+it being acknowledged that any and all oral and written submissions from the public, related to this application have been, on balance, taken into consideration by Council as part of its deliberations and final decision regarding these matters.
+
+> **Motion Passed**
+
+****
+
+### 8.5.11&nbsp;&nbsp;&nbsp;(3.10) 517-525 Fanshawe Park Road East and 1536 Geary Avenue - Z-26039
+
+> Motion made by S. Lehman
+
+That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 1001221436 Ontario Inc. (c/o Royal Premier Homes) relating to the property located at 517-525 Fanshawe Park Road East and 1536 Geary Avenue, the request to amend Zoning By-law No. Z.-1 to change the zoning of the subject property FROM a Residential R8 Special Provision Bonus (R8-4(71)*B-84) Zone and Residential R1 (R1-10) Zone to a Residential R9 Special Provision (R9-7(_)) Zone, BE REFUSED for the following reasons:
+
+i) the requested amendment is inconsistent with the Provincial Planning Statement, 2024, which directs planning authorities to support the achievement of complete communities by permitting appropriate types and scales of development within strategic growth areas, while ensuring compatibility with surrounding land uses and providing suitable transitions in built form; 
+
+ii) the requested amendment is not in conformity with The London Plan, including, but not limited to, the Key Directions, City Building policies, and the Neighbourhoods Place Type policies; 
+
+iii) the requested amendment proposes a ninth (9th) storey, which is not in conformity with The London Plan and would require an Official Plan Amendment; 
+
+iv) the requested amendment proposes a scale and intensity of development that are not appropriate within the surrounding neighbourhood context, and it has not been demonstrated that the development will maintain compatibility with or preserve the character of the lower-order street; and, 
+
+v) the requested amendment constitutes over-intensification of the subject lands, which cannot appropriately accommodate the proposed scale and intensity of development and does not incorporate sufficient mitigation measures to address potential adverse impacts;
+
+it being pointed out that the following individuals made verbal presentations at the public participation meeting held in conjunction with these matters:
+
+- M. Davis, Siv-ik Planning and Design Inc.; 
+
+- K. Kaikkonen; 
+
+- T. Pullinec; 
+
+- T. Khan; 
+
+- J. Peters; 
+
+- J. McKee 
+
+- R. Thorne; 
+
+- R. Ashton; 
+
+- M. Wilson; 
+
+- M. McKee; 
+
+- K. Drum; 
+
+- A. Dillon; 
+
+- M. Tangredi; 
+
+- R. Kleinstiver; 
+
+- C. Hoefnagels; 
+
+- J. Herrera; and, 
+
+- B. Tonken;
+
+it being noted that the Planning and Environment Committee received the following communications with respect to this matter:
+
+- a communication dated June 5, 2026, from F. Noory, Royal Premiere Homes; 
+
+- a communication dated June 7, 2026, from A. Booth; 
+
+- a communication dated June 7, 2026, from B. Andrews; 
+
+- a communication dated June 7, 2026, from G. Goodwin; 
+
+- a communication dated June 7, 2026, from G. Van Dyke; 
+
+- a communication dated June 7, 2026, from J. Peters; 
+
+- a communication dated June 7, 2026, from M. and J. Biehn; 
+
+- a communication dated June 7, 2026, from M. Tangredi; 
+
+- a communication dated June 8, 2026, from R. Kleinstiver; 
+
+- a communication dated June 7, 2026, from S. Goodbrand; 
+
+- a communication dated June 7, 2026, from S. and R. Graham; 
+
+- a communication dated June 8, 2026, from A. Dillon; and,
+
+- a communication dated June 7, 2026, from K. Kaikkonen;
+
+it being acknowledged that any and all oral and written submissions from the public, related to this application have been, on balance, taken into consideration by Council as part of its deliberations and final decision regarding these matters.
+
+> **Motion Passed**
+
+****
+
+### 8.5.5&nbsp;&nbsp;&nbsp;(3.4) 2496 Dundas Street - Z-26043 (Relates to Bill No. 257)
+
+> Motion made by S. Lehman
+
+That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of (Rosewood Grove Ltd. c/o Mohamed Abuhajar) relating to the property located at 2496 Dundas Street:
+
+a)     the proposed by-law as appended to the staff report dated June 9, 2026, as Appendix "A" BE INTRODUCED at the Municipal Council meeting to be held on June 23, 2026, to amend Zoning By-law No. Z.-1, in conformity with The Official Plan for the City of London, 2016 (The London Plan), to change the zoning of the subject property FROM a Holding Light Industrial (h-108*LI1) Zone and an Environmental Review (ER) Zone TO a Holding Residential R5 Special Provision (h-9*h-108*R5-7( )) Zone and an Open Space (OS5) Zone; and,
+
+b)     the Site Plan Approval Authority BE REQUESTED to consider the following design issues through the site plan process:
+
+i) implementation of the recommendations of the Noise Study, including the recommended mitigation measures; 
+
+ii) implementation of the recommendations of the D-6 Compatibility Study, including the recommended mitigation measures; and, 
+
+iii) consider shifting the entire front block slightly south closer to the visitor parking area to ensure a minimum of 6 metres is provided as there are windows to habitable rooms that face the side yard;
+
+it being pointed out that the following individual made a verbal presentation at the public participation meeting held in conjunction with these matters:
+
+- E. Steele, Monteith Brown Planning Consultants Ltd;
+
+it being noted that the Municipal Council approves this application for the following reasons:
+
+- the recommended amendments are consistent with the Provincial Planning Statement, 2024 (PPS), which encourages growth in settlement areas and land use patterns based on densities and a mix of land uses that provide for a range of uses and opportunities for intensification; 
+
+- the recommended amendments conform to The London Plan, including but not limited to the Key Directions, City Building policies, and the Neighbourhoods Place Type, and Green Space Place Type policies; 
+
+- the recommended amendments would permit an appropriate form of development at an intensity that can be accommodated on the subject lands and is considered compatible with the surrounding area; and, 
+
+- the recommended amendments would reflect the development limits identified through detailed environmental studies and provide a buffer to preserve and protect the natural features;
+
+it being acknowledged that any and all oral and written submissions from the public, related to this application have been, on balance, taken into consideration by Council as part of its deliberations and final decision regarding these matters.
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|S. Stevenson|P. Van Meerbergen|
+> |A. Hopkins|||
+> |S. Lewis|||
+> |S. Hillier|||
+> |E. Peloza|||
+> |S. Lehman|||
+> |H. McAlister|||
+> |P. Cuddy|||
+> |J. Pribil|||
+> |S. Trosow|||
+> |S. Franke|||
+> |D. Ferreira|||
+> |C. Rahman|||
+
+> **Motion Passed (13 to 1)**
+
+At 3:44 PM, Councillor H. McAlister leaves the meeting.
+
+****
+
+### 8.5.6&nbsp;&nbsp;&nbsp;(3.5) 221 Queens Avenue - TZ-26045 (Relates to Bill No. 258)
+
+> Motion made by S. Lehman
+
+Notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Sifton Properties Limited relating to the property located at 221 Queens Avenue:
+
+a)     a proposed by-law BE INTRODUCED at the Municipal Council meeting to be held on June 23, 2026, to amend Zoning By-law No. Z.-1, in conformity with The Official Plan for the City of London, 2016 (The London Plan), by extending the Temporary Use (T-69) Zone for a temporary period of three (3) years;
+
+AND BE IT FURTHER RESOLVED that pursuant to subsection 34(17) of the Planning Act, no further notice be given;
+
+it being pointed out that the following individual made a verbal presentation at the public participation meeting held in conjunction with these matters:
+
+-  J. McGuffin, Monteith Brown Planning Consultants Ltd.;
+
+the Municipal Council approves this application for the following reasons:
+
+-  the request does conform to the established policies of The London Plan, including but not limited to the Key Directions; City Building, Downtown Place Type policies with the evaluation criteria for Temporary Use By-laws;
+
+-  the request does not hinder or delay the long-term redevelopment of the site to a more intense, downtown-supportive land use as the applicant’s current focus is on commercial vacancy in the downtown and this use supports that;
+
+it being noted that the applicant is seeking an extension at this time, not an Official Plan Amendment for permanent use;
+
+it being acknowledged that any and all oral and written submissions from the public, related to this application have been, on balance, taken into consideration by Council as part of its deliberations and final decision regarding these matters.
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|E. Peloza|P. Van Meerbergen|
+> |A. Hopkins|S. Trosow|H. McAlister|
+> |S. Lewis|S. Franke||
+> |S. Hillier|||
+> |S. Lehman|||
+> |P. Cuddy|||
+> |S. Stevenson|||
+> |J. Pribil|||
+> |D. Ferreira|||
+> |C. Rahman|||
+
+> **Motion Passed (10 to 3)**
+
+****
+
+### 8.5.7&nbsp;&nbsp;&nbsp;(3.6) 1057-1061 Richmond Street - Z-26051 (Relates to Bill No. 259)
+
+> Motion made by S. Lehman
+
+That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 1001436158 Ontario Inc. (Royal Premier Homes) relating to the property located at 1057-1061 Richmond Street, the proposed by-law as appended to the staff report dated June 9, 2026, as Appendix "A" BE INTRODUCED at the Municipal Council meeting to be held on June 23, 2026, to amend Zoning By-law No. Z.-1, in conformity with The Official Plan for the City of London, 2016 (The London Plan), to change the zoning of the subject property FROM a Neighbourhood Facility Special Provision Bonus (NF1(14)*B-24) Zone TO a Neighbourhood Facility Special Provision (NF1(14)) Zone;
+
+it being pointed out that the following individuals made verbal presentations at the public participation meeting held in conjunction with these matters:
+
+- M. Davis, Siv-ik Planning and Design Inc.; 
+
+- M.A. Colihan; 
+
+- D. Lajoie; 
+
+- M. Backz; 
+
+- G. Barrett; 
+
+- P. Adams;
+
+- J. Gard; and, 
+
+- A. Cui;
+
+it being noted that the Municipal Council approves this application for the following reasons:
+
+- the recommended amendment is consistent with the PPS 2024; 
+
+- the recommended amendment conforms to The London Plan, including, but not limited to the Key Directions, City Building policies, and the Urban Corridor Place Type policies; and, 
+
+- the recommended amendment facilitates residential intensification that is appropriate for the existing and planned context of the site and surrounding neighbourhood;
+
+it being acknowledged that any and all oral and written submissions from the public, related to this application have been, on balance, taken into consideration by Council as part of its deliberations and final decision regarding these matters.
+
+****
+
+> Motion made by C. Rahman
+
+That the motion BE AMENDED with the following:
+
+Notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 1001436158 Ontario Inc. (Royal Premier Homes) relating to the property located at 1057-1061 Richmond Street, the proposed alternate by-law attached hereto as Appendix "A" BE INTRODUCED at the Municipal Council meeting June 23, 2026 to amend Zoning By-law No. Z.-1, in conformity with the Official Plan, The London Plan, to change the zoning of the subject property FROM a Neighbourhood Facility Special Provision Bonus (NF1(14)*B-24) Zone TO a Neighbourhood Facility Special Provision (NF1(14)) Zone;
+
+AND BE IT FURTHER RESOLVED that pursuant to subsection 34(17) of the Planning Act, no further notice be given;
+
+it being noted that Municipal Council approves the above noted amendment for the following reasons:
+
+-    the recommended amendment is consistent with the PPS 2024;
+
+-    the recommended amendment conforms to The London Plan, including, but not limited to the Key Directions, City Building policies, and the Urban Corridor Place Type policies; and
+
+-    the recommended amendment facilitates residential intensification that is appropriate for the existing and planned context of the site and surrounding neighbourhood.
+
+****
+
+> Motion made by S. Lewis
+
+That, pursuant to section 10.5 of the Council Procedure By-law, “shall the ruling of the Chair BE SUSTAINED?”
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|S. Lewis|P. Van Meerbergen|
+> |A. Hopkins|S. Hillier|H. McAlister|
+> |S. Trosow|E. Peloza||
+> |S. Franke|S. Lehman||
+> |C. Rahman|P. Cuddy||
+> ||S. Stevenson||
+> ||J. Pribil||
+> ||D. Ferreira||
+
+> **Motion Failed (5 to 8)**
+
+****
+
+> Motion made by S. Lehman
+
+That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 1001436158 Ontario Inc. (Royal Premier Homes) relating to the property located at 1057-1061 Richmond Street, the proposed by-law as appended to the staff report dated June 9, 2026, as Appendix "A" BE INTRODUCED at the Municipal Council meeting to be held on June 23, 2026, to amend Zoning By-law No. Z.-1, in conformity with The Official Plan for the City of London, 2016 (The London Plan), to change the zoning of the subject property FROM a Neighbourhood Facility Special Provision Bonus (NF1(14)*B-24) Zone TO a Neighbourhood Facility Special Provision (NF1(14)) Zone;
+
+it being pointed out that the following individuals made verbal presentations at the public participation meeting held in conjunction with these matters:
+
+- M. Davis, Siv-ik Planning and Design Inc.;
+
+- M.A. Colihan;
+
+- D. Lajoie;
+
+- M. Backz;
+
+- G. Barrett;
+
+- P. Adams;
+
+- J. Gard; and,
+
+- A. Cui;
+
+it being noted that the Municipal Council approves this application for the following reasons:
+
+- the recommended amendment is consistent with the PPS 2024;
+
+- the recommended amendment conforms to The London Plan, including, but not limited to the Key Directions, City Building policies, and the Urban Corridor Place Type policies; and,
+
+- the recommended amendment facilitates residential intensification that is appropriate for the existing and planned context of the site and surrounding neighbourhood;
+
+it being acknowledged that any and all oral and written submissions from the public, related to this application have been, on balance, taken into consideration by Council as part of its deliberations and final decision regarding these matters.
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|A. Hopkins|P. Van Meerbergen|
+> |S. Lewis|S. Trosow|H. McAlister|
+> |S. Hillier|C. Rahman||
+> |E. Peloza|||
+> |S. Lehman|||
+> |P. Cuddy|||
+> |S. Stevenson|||
+> |J. Pribil|||
+> |S. Franke|||
+> |D. Ferreira|||
+
+> **Motion Passed (10 to 3)**
+
+****
+
+> Motion made by S. Franke
+
+> Seconded by D. Ferreira
+
+That the Council recess at this time, for 15 minutes.
+
+> **Motion Passed**
+
+The Council recesses at 4:26 PM and reconvenes at 4:43 PM.
+
+****
+
+### 8.5.8&nbsp;&nbsp;&nbsp;(3.7) 36 Wethered Street - Z-26050 (Relates to Bill No. 260)
+
+> Motion made by S. Lehman
+
+That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Monteith Brown Planning Consultants Ltd. (c/o Jay McGuffin) relating to the property located at 36 Wethered Street, the proposed by-law as appended to the staff report dated June 9, 2026, as Appendix "A" BE INTRODUCED at the Municipal Council meeting to be held on June 23, 2026, to amend Zoning By-law No. Z.-1, in conformity with The Official Plan for the City of London, 2016 (The London Plan), to change the zoning of the subject property FROM a Residential R1 (R1-6) Zone TO a Holding Residential R5 Special Provision (h-6*R5-4(_)) Zone;
+
+it being pointed out that the following individuals made verbal presentations at the public participation meeting held in conjunction with these matters:
+
+- A. Lagrou, Monteith Brown Planning Consultants Ltd.; 
+
+- H. McInnis; 
+
+- Z. McInnis; and, 
+
+- S. McInnis;
+
+it being noted that the Municipal Council approves this application for the following reasons:
+
+- the recommended amendment is consistent with the Provincial Planning Statement, 2024 (PPS); 
+
+- the recommended amendment conforms to The London Plan, including but not limited to the Key Directions, City Building policies, and the Neighbourhoods Place Type policies; and, 
+
+- the recommended amendment would permit an appropriate form of redevelopment at an intensity that can be accommodated on the subject lands and is considered compatible with the surrounding neighbourhood;
+
+it being acknowledged that any and all oral and written submissions from the public, related to this application have been, on balance, taken into consideration by Council as part of its deliberations and final decision regarding these matters.
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|S. Stevenson|P. Van Meerbergen|
+> |A. Hopkins|S. Trosow|H. McAlister|
+> |S. Lewis|C. Rahman||
+> |S. Hillier|||
+> |E. Peloza|||
+> |S. Lehman|||
+> |P. Cuddy|||
+> |J. Pribil|||
+> |S. Franke|||
+> |D. Ferreira|||
+
+> **Motion Passed (10 to 3)**
+
+****
+
+### 8.5.9&nbsp;&nbsp;&nbsp;(3.8) 929 Cheapside Street - Z-26003 (Relates to Bill No. 261)
+
+> Motion made by S. Lehman
+
+That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 929 Cheapside Inc. (c/o Monteith Brown Planning Consultants) relating to the property located at 929 Cheapside Street:
+
+a)     the proposed by-law as appended to the staff report dated June 9, 2026, Appendix "A" BE INTRODUCED at the Municipal Council meeting to be held on June 23, 2026, to amend Zoning By-law No. Z.-1, in conformity with The Official Plan for the City of London, 2016 (The London Plan), to change the zoning of the subject property FROM a Convenience Commercial Special Provision (CC1(2)) Zone and a Residential R1 (R1-5) Zone TO a Residential R9 Special Provision (R9-7(_)*H21) Zone;
+
+b)     the requested Special Provisions, as part of the amendment to Zoning By-law No. Z.-1, to permit a minimum exterior side yard depth of 0.75 metres (whereas 8.0 metres is required), to permit a maximum lot coverage of 40% (whereas 30% is required), to permit a minimum landscaped open space of 17% (whereas 30% is required), and to permit yard encroachments up to 0.2 metres from the lot line for balconies, architectural features, terraces, patios, porches and canopies (whereas 1.5 metres is permitted provided the projection is no closer than 3.0 metres to the lot line), BE REFUSED for the following reasons:
+
+i) the requested special provisions do not conform to the policies of The London Plan, including but not limited to the City Building policies and Neighbourhoods Place Type policies; and, 
+
+ii) the requested special provisions would facilitate a form of development that is too intense for the subject lands;
+
+c)     the Site Plan Approval Authority BE REQUESTED to include a public site plan process and consider the following design issues through the site plan process:
+
+i) explore opportunities to relocate the accessible paratransit lay-by to improve pedestrian circulation and provide consistent drive aisle widths; 
+
+ii) provide a landscape buffer to screen the parking area exposed to Cheapside Street and Sterling Street; and, 
+
+iii) explore opportunities to work with the London Transit Commission to design and integrate the LTC bus stop (Stop #348 – Cheapside at Barker EB) as part of the proposed development;
+
+it being pointed out that the following individuals made verbal presentations at the public participation meeting held in conjunction with these matters:
+
+- A. Lagrou, Monteith Brown Planning Consultants Ltd.; and, 
+
+- S. Riley; 
+
+- P. Strong; 
+
+- A. Wild; 
+
+- N. Shea; 
+
+- C. Church; 
+
+- J. McGuffin, Monteith Brown Planning Consultants Ltd.; 
+
+- M. Wilson; 
+
+- S. Ord; and, 
+
+- L. Winster;
+
+it being noted that the Planning and Environment Committee received the following communication with respect to this matter:
+
+- a communication dated June 4, 2026, from C. Butler;
+
+it being further noted that the Municipal Council approves this application for the following reasons:
+
+- the recommended amendment is consistent with the Provincial Planning Statement, 2024 (PPS); 
+
+- the recommended amendment conforms to The London Plan, including but not limited to the Key Directions, City Building policies, and the Neighbourhoods Place Type policies; and, 
+
+- the recommended amendment would permit residential intensification that is appropriate for the existing and planned context of the site and surrounding neighbourhood;
+
+it being acknowledged that any and all oral and written submissions from the public, related to this application have been, on balance, taken into consideration by Council as part of its deliberations and final decision regarding these matters.
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|S. Hillier|P. Van Meerbergen|
+> |A. Hopkins|S. Stevenson|H. McAlister|
+> |S. Lewis|S. Trosow||
+> |E. Peloza|C. Rahman||
+> |S. Lehman|||
+> |P. Cuddy|||
+> |J. Pribil|||
+> |S. Franke|||
+> |D. Ferreira|||
+
+> **Motion Passed (9 to 4)**
+
+****
+
+### 8.5.12&nbsp;&nbsp;&nbsp;(4.1) Councillor C. Rahman - Third-Party Appeal Mechanism
+
+> Motion made by S. Lehman
+
+That the submission dated June 9, 2026, from Councillor C. Rahman related to Third-Party Appeal Mechanism, BE RECEIVED;
+
+it being noted that the Planning and Environment Committee received the following communications with respect to this matter:
+
+- a communication dated June 8, 2026, from C. Bayona; 
+
+- a communication dated June 8, 2026, from N. Bayona; and, 
+
+- a communication dated June 6, 2026, from R. Ashton;
+
+it being further noted the Planning and Environment Committee heard a delegation from M. Moussa related to this matter.
+
+****
+
+At 5:39 PM, His Worship Mayor J. Morgan, places Councillor C. Rahman in the Chair.
+
+At 5:42 PM, His Worship Mayor J. Morgan resumes the Chair.
+
+> Motion made by C. Rahman
+
+> Seconded by Mayor J. Morgan
+
+That the motion BE AMENDED to read as follows:
+
+That Municipal Council endorse the following actions with respect to third-party appeal mechanism during the Ontario Land Tribunal process:
+
+a) the Mayor BE REQUESTED to write to the Association of Municipalities of Ontario requesting that it consider advocating for the restoration of a limited third-party appeal mechanism to the Ontario Land Tribunal that:
+
+i) applies to individuals residing within the statutory notice area who have demonstrated prior participation in the municipal planning process;
+
+ii) incorporates appropriate safeguards to discourage frivolous, vexatious, or delay-driven appeals; and
+
+iii) supports the Province’s objective of facilitating timely and efficient housing development; and
+
+b) the communication from Councillor C. Rahman related to Third-Party Appeal Mechanism BE RECEIVED.
+
+it being noted that the Planning and Environment Committee received the following communications with respect to this matter:
+
+- a communication dated June 8, 2026, from C. Bayona;
+
+- a communication dated June 8, 2026, from N. Bayona; and,
+
+- a communication dated June 6, 2026, from R. Ashton;
+
+it being further noted the Planning and Environment Committee heard a delegation from M. Moussa related to this matter.
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|S. Lewis|P. Van Meerbergen|
+> |A. Hopkins|S. Hillier|H. McAlister|
+> |E. Peloza|S. Lehman||
+> |S. Trosow|P. Cuddy||
+> |S. Franke|S. Stevenson||
+> |D. Ferreira|J. Pribil||
+> |C. Rahman|||
+
+> **Motion Passed (7 to 6)**
+
+Item 12, clause 4.1, as amended, reads as follows:
+
+That Municipal Council endorse the following actions with respect to third-party appeal mechanism during the Ontario Land Tribunal process:
+
+a) the Mayor BE REQUESTED to write to the Association of Municipalities of Ontario requesting that it consider advocating for the restoration of a limited third-party appeal mechanism to the Ontario Land Tribunal that:
+
+i) applies to individuals residing within the statutory notice area who have demonstrated prior participation in the municipal planning process;
+
+ii) incorporates appropriate safeguards to discourage frivolous, vexatious, or delay-driven appeals; and
+
+iii) supports the Province’s objective of facilitating timely and efficient housing development; and
+
+b) the communication from Councillor C. Rahman related to Third-Party Appeal Mechanism BE RECEIVED.
+
+it being noted that the Planning and Environment Committee received the following communications with respect to this matter:
+
+- a communication dated June 8, 2026, from C. Bayona;
+
+- a communication dated June 8, 2026, from N. Bayona; and,
+
+- a communication dated June 6, 2026, from R. Ashton;
+
+it being further noted the Planning and Environment Committee heard a delegation from M. Moussa related to this matter.
+
+****
+
+> Motion made by S. Franke
+
+> Seconded by A. Hopkins
+
+That pursuant to section 11.10 of the Council Procedure by-law, the Council BE PERMITTED to proceed beyond 6:00 PM.
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|E. Peloza|P. Van Meerbergen|
+> |A. Hopkins||H. McAlister|
+> |S. Lewis|||
+> |S. Hillier|||
+> |S. Lehman|||
+> |P. Cuddy|||
+> |S. Stevenson|||
+> |J. Pribil|||
+> |S. Trosow|||
+> |S. Franke|||
+> |D. Ferreira|||
+> |C. Rahman|||
+
+> **Motion Passed (12 to 1)**
+
+At 5:48 PM, Councillor S. Lehman leaves the meeting.
+
+At 5:50 PM, Councillor S. Trosow leaves the meeting.
+
+At 5:52 PM, Councillor S. Trosow enters the meeting.
+
+****
+
+## 8.6&nbsp;&nbsp;&nbsp;3rd Report of the Audit Committee
+
+[2026-06-17 Audit Committee Report 3](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=125102>)
+
+> Motion made by E. Peloza
+
+That the 3rd Report of the Audit Committee BE APPROVED.
+
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |Mayor J. Morgan|P. Van Meerbergen|
+> |A. Hopkins|S. Lehman|
+> |S. Lewis|H. McAlister|
+> |S. Hillier||
+> |E. Peloza||
+> |P. Cuddy||
+> |S. Stevenson||
+> |J. Pribil||
+> |S. Trosow||
+> |S. Franke||
+> |D. Ferreira||
+> |C. Rahman||
+
+> **Motion Passed (12 to 0)**
+
+****
+
+### 8.6.1&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
+
+> Motion made by E. Peloza
+
+That it BE NOTED that no pecuniary interests were disclosed.
+
+> **Motion Passed**
+
+****
+
+### 8.6.2&nbsp;&nbsp;&nbsp;(4.1) 2025 Financial Audit
+
+> Motion made by E. Peloza
+
+That, the following actions be taken with respect to the 2025 Financial Audit:
+
+a) the 2025 Financial Report of The Corporation of the City of London BE APPROVED; it being noted that the Audit Committee received a presentation from the Director, Financial Services with respect to this matter; and
+
+b) the revised Audit Findings Report, as appended to the added agenda, prepared by KPMG for the year ending December 31, 2025, BE APPROVED; it being noted that the Audit Committee received a presentation from KPMG with respect to this matter and that it be further noted that pursuant to section 31.6 of the Council Procedure By-law, KPMG was permitted to speak an additional fifteen (15) minutes with respect to this matter.
+
+> **Motion Passed**
+
+****
+
+### 8.6.3&nbsp;&nbsp;&nbsp;(4.2) Summary Update from Internal Audit - MNP
+
+> Motion made by E. Peloza
+
+That the communication from MNP, with respect to the summary update from internal audit BE RECEIVED.
+
+> **Motion Passed**
+
+****
+
+### 8.6.4&nbsp;&nbsp;&nbsp;(4.3) Internal Audit Follow Up Activities Dashboard - MNP
+
+> Motion made by E. Peloza
+
+That the communication from MNP, with respect to the internal audit follow up activities update dashboard, BE RECEIVED.
+
+> **Motion Passed**
+
+****
+
+### 8.6.5&nbsp;&nbsp;&nbsp;(4.4) Subdivision Review Process Audit - MNP
+
+> Motion made by E. Peloza
+
+That the communication dated June 17, 2026 from MNP, with respect to the subdivision review process audit final report, BE RECEIVED; it being noted that the Audit Committee heard a delegation from M. Wallace, Executive Director, London Development Institute (LDI) with respect to this matter.
+
+> **Motion Passed**
+
+****
+
+### 8.6.6&nbsp;&nbsp;&nbsp;(4.5) Climate Emergency Action Plan Audit - MNP
+
+> Motion made by E. Peloza
+
+That the communication dated June 17, 2026 from MNP, with respect to the climate emergency action plan audit final report, BE RECEIVED; it being noted that the Audit Committee heard a delegation from M. Wallace, Executive Director, London Development Institute (LDI) with respect to this matter.
+
+> **Motion Passed**
+
+****
+
+### 8.6.7&nbsp;&nbsp;&nbsp;(4.6) Request of the City's Oversight of Housing Co-Operative Service Providers 
+
+> Motion made by E. Peloza
+
+That the communication from Councillor S. Franke submitted to Audit Committee and dated May 27, 2026, BE REFERRED to a future meeting of the Audit Committee in Q1, 2027 for consideration as part of Risk Assessment.
+
+> **Motion Passed**
+
+****
+
+### 8.6.8&nbsp;&nbsp;&nbsp;(5.1) Request for Proposal 2026-062 Internal Audit Services
+
+> Motion made by E. Peloza
+
+That, on the recommendation of the Deputy City Manager, Finance Supports, with the concurrence of the City Manager, the following actions be taken with respect to the appointment of an outsourced internal auditor for Request for Proposal (RFP) 2026-062 Internal Audit Services:
+
+a)    the firm of MNP LLP BE APPOINTED as the preferred firm for the provision of internal audit services for a period of four years beginning January 1, 2027 plus the option to renew for one (1) additional one (1) year term;
+
+b)    the Civic Administration BE AUTHORIZED to undertake all the administrative acts that are necessary in connection with this contract;
+
+c)    approval hereby given BE CONDITIONAL upon the Corporation entering into a formal contract relating to the subject matter of this approval; and
+
+d)    the Mayor and the City Clerk BE AUTHORIZED to execute the Agreement in c), above.
+
+> **Motion Passed**
+
+****
+
+# 9.&nbsp;&nbsp;&nbsp;Added Reports
+
+At 5:56 PM, Councillor D. Ferreira leaves the meeting.
+
+At 5:58 PM, Councillor D. Ferreira enters the meeting.
+
+> Motion made by S. Franke
+
+That clause 1 of the 11th Report of the Council, In Closed Session, BE APPROVED.
+
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |Mayor J. Morgan|P. Van Meerbergen|
+> |A. Hopkins|S. Lehman|
+> |S. Lewis|H. McAlister|
+> |S. Hillier||
+> |E. Peloza||
+> |P. Cuddy||
+> |S. Stevenson||
+> |J. Pribil||
+> |S. Trosow||
+> |S. Franke||
+> |D. Ferreira||
+> |C. Rahman||
+
+> **Motion Passed (12 to 0)**
+
+That clause 1 of the 11th Report of the Council, In Closed Session, read as follows: 
+
+
+
+1. Grant of Easement – 1712 Dundas Street – Pottersburg (Phase lll) Sanitary Project
+
+That, on the recommendation of the Deputy City Manager, Finance Supports, with the concurrence of the Deputy City Manager, Environment and Infrastructure, on the advice of the Director, Realty Services, with respect to the property located at 1712 Dundas Street, further described as being part of Part of Lot 10 and Part of Lot 17 on Registered Plan No.19 and to be further described by new Reference Plan, as shown on the location map attached as Appendix “B”, for the purpose of installing new municipal infrastructure in connection with the Pottersburg (Phase III) Sanitary Project, the following actions be taken:
+
+a)    the Grant of Easement Agreement, substantially in the form attached as Appendix “C”, submitted by 382672 Ontario Limited (the “Transferor”) to grant an easement over a portion of the subject property to the City to construct municipal infrastructure, for a sum of $350,000 BE ACCEPTED, subject to the terms and conditions as set out in the agreement; and
+
+b)    the Civic Administration BE DIRECTED to apply the financing for this procurement as set out in the Source of Financing report attached as Appendix “A”.
+
+That progress was made with respect to items 4.1(6.1/9/CPSC), 4.2(6.2/9/CPSC), 4.4(6.2/11/ICSC), 4.5(6.3/11/ICSC), 4.6(6.1/9/PEC), 4.7(6.1/3/AC), and 4.8, as noted on the public agenda.
+
+****
+
+# 10.&nbsp;&nbsp;&nbsp;Deferred Matters
+
+None.
+
+# 11.&nbsp;&nbsp;&nbsp;Enquiries
+
+None.
+
+# 12.&nbsp;&nbsp;&nbsp;Emergent Motions
+
+None.
+
+# 13.&nbsp;&nbsp;&nbsp;By-laws
+
+> Motion made by S. Lewis
+
+> Seconded by P. Cuddy
+
+That Introduction and First Reading of Bill No. 238 BE APPROVED.
+
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |Mayor J. Morgan|P. Van Meerbergen|
+> |A. Hopkins|S. Lehman|
+> |S. Lewis|H. McAlister|
+> |S. Hillier||
+> |E. Peloza||
+> |P. Cuddy||
+> |S. Stevenson||
+> |J. Pribil||
+> |S. Trosow||
+> |S. Franke||
+> |D. Ferreira||
+> |C. Rahman||
+
+> **Motion Passed (12 to 0)**
+
+****
+
+> Motion made by S. Lewis
+
+> Seconded by P. Cuddy
+
+That Second Reading of Bill No. 238 BE APPROVED.
+
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |Mayor J. Morgan|P. Van Meerbergen|
+> |A. Hopkins|S. Lehman|
+> |S. Lewis|H. McAlister|
+> |S. Hillier||
+> |E. Peloza||
+> |P. Cuddy||
+> |S. Stevenson||
+> |J. Pribil||
+> |S. Trosow||
+> |S. Franke||
+> |D. Ferreira||
+> |C. Rahman||
+
+> **Motion Passed (12 to 0)**
+
+****
+
+> Motion made by S. Lewis
+
+> Seconded by P. Cuddy
+
+That Third Reading and Enactment of Bill No. 238 BE APPROVED.
+
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |Mayor J. Morgan|P. Van Meerbergen|
+> |A. Hopkins|S. Lehman|
+> |S. Lewis|H. McAlister|
+> |S. Hillier||
+> |E. Peloza||
+> |P. Cuddy||
+> |S. Stevenson||
+> |J. Pribil||
+> |S. Trosow||
+> |S. Franke||
+> |D. Ferreira||
+> |C. Rahman||
+
+> **Motion Passed (12 to 0)**
+
+At 6:01 PM, Councillor E. Peloza leaves the meeting.
+
+****
+
+> Motion made by S. Lewis
+
+> Seconded by P. Cuddy
+
+That Introduction and First Reading of Bill No. 239 BE APPROVED.
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|S. Hillier|E. Peloza|
+> |A. Hopkins|S. Stevenson|P. Van Meerbergen|
+> |S. Lewis||S. Lehman|
+> |P. Cuddy||H. McAlister|
+> |J. Pribil|||
+> |S. Trosow|||
+> |S. Franke|||
+> |D. Ferreira|||
+> |C. Rahman|||
+
+> **Motion Passed (9 to 2)**
+
+****
+
+> Motion made by S. Lewis
+
+> Seconded by P. Cuddy
+
+That Second Reading of Bill No. 239 BE APPROVED.
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|S. Hillier|E. Peloza|
+> |A. Hopkins|S. Stevenson|P. Van Meerbergen|
+> |S. Lewis||S. Lehman|
+> |P. Cuddy||H. McAlister|
+> |J. Pribil|||
+> |S. Trosow|||
+> |S. Franke|||
+> |D. Ferreira|||
+> |C. Rahman|||
+
+> **Motion Passed (9 to 2)**
+
+****
+
+> Motion made by S. Lewis
+
+> Seconded by P. Cuddy
+
+That Third Reading and Enactment of Bill No. 239 BE APPROVED.
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|S. Hillier|E. Peloza|
+> |A. Hopkins|S. Stevenson|P. Van Meerbergen|
+> |S. Lewis||S. Lehman|
+> |P. Cuddy||H. McAlister|
+> |J. Pribil|||
+> |S. Trosow|||
+> |S. Franke|||
+> |D. Ferreira|||
+> |C. Rahman|||
+
+> **Motion Passed (9 to 2)**
+
+****
+
+> Motion made by S. Lewis
+
+> Seconded by P. Cuddy
+
+That Introduction and First Reading of Bill No. 241 BE APPROVED.
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|S. Stevenson|E. Peloza|
+> |A. Hopkins||P. Van Meerbergen|
+> |S. Lewis||S. Lehman|
+> |S. Hillier||H. McAlister|
+> |P. Cuddy|||
+> |J. Pribil|||
+> |S. Trosow|||
+> |S. Franke|||
+> |D. Ferreira|||
+> |C. Rahman|||
+
+> **Motion Passed (10 to 1)**
+
+****
+
+> Motion made by S. Lewis
+
+> Seconded by P. Cuddy
+
+That Second Reading of Bill No. 241 BE APPROVED.
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|S. Stevenson|E. Peloza|
+> |A. Hopkins||P. Van Meerbergen|
+> |S. Lewis||S. Lehman|
+> |S. Hillier||H. McAlister|
+> |P. Cuddy|||
+> |J. Pribil|||
+> |S. Trosow|||
+> |S. Franke|||
+> |D. Ferreira|||
+> |C. Rahman|||
+
+> **Motion Passed (10 to 1)**
+
+****
+
+> Motion made by S. Lewis
+
+> Seconded by P. Cuddy
+
+That Third Reading and Enactment of Bill No. 241 BE APPROVED.
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|S. Stevenson|E. Peloza|
+> |A. Hopkins||P. Van Meerbergen|
+> |S. Lewis||S. Lehman|
+> |S. Hillier||H. McAlister|
+> |P. Cuddy|||
+> |J. Pribil|||
+> |S. Trosow|||
+> |S. Franke|||
+> |D. Ferreira|||
+> |C. Rahman|||
+
+> **Motion Passed (10 to 1)**
+
+****
+
+> Motion made by S. Lewis
+
+> Seconded by P. Cuddy
+
+That Introduction and First Reading of Bill No. 244 BE APPROVED.
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|S. Stevenson|E. Peloza|
+> |A. Hopkins||P. Van Meerbergen|
+> |S. Lewis||S. Lehman|
+> |S. Hillier||H. McAlister|
+> |P. Cuddy|||
+> |J. Pribil|||
+> |S. Trosow|||
+> |S. Franke|||
+> |D. Ferreira|||
+> |C. Rahman|||
+
+> **Motion Passed (10 to 1)**
+
+****
+
+> Motion made by S. Lewis
+
+> Seconded by P. Cuddy
+
+That Second Reading of Bill No. 244 BE APPROVED.
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|S. Stevenson|E. Peloza|
+> |A. Hopkins||P. Van Meerbergen|
+> |S. Lewis||S. Lehman|
+> |S. Hillier||H. McAlister|
+> |P. Cuddy|||
+> |J. Pribil|||
+> |S. Trosow|||
+> |S. Franke|||
+> |D. Ferreira|||
+> |C. Rahman|||
+
+> **Motion Passed (10 to 1)**
+
+****
+
+> Motion made by S. Lewis
+
+> Seconded by P. Cuddy
+
+That Third Reading and Enactment of Bill No. 244 BE APPROVED.
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|S. Stevenson|E. Peloza|
+> |A. Hopkins||P. Van Meerbergen|
+> |S. Lewis||S. Lehman|
+> |S. Hillier||H. McAlister|
+> |P. Cuddy|||
+> |J. Pribil|||
+> |S. Trosow|||
+> |S. Franke|||
+> |D. Ferreira|||
+> |C. Rahman|||
+
+> **Motion Passed (10 to 1)**
+
+****
+
+> Motion made by S. Lewis
+
+> Seconded by P. Cuddy
+
+That Introduction and First Reading of Bill No. 257 BE APPROVED.
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|S. Stevenson|E. Peloza|
+> |A. Hopkins||P. Van Meerbergen|
+> |S. Lewis||S. Lehman|
+> |S. Hillier||H. McAlister|
+> |P. Cuddy|||
+> |J. Pribil|||
+> |S. Trosow|||
+> |S. Franke|||
+> |D. Ferreira|||
+> |C. Rahman|||
+
+> **Motion Passed (10 to 1)**
+
+****
+
+> Motion made by S. Lewis
+
+> Seconded by P. Cuddy
+
+That Second Reading of Bill No. 257 BE APPROVED.
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|S. Stevenson|E. Peloza|
+> |A. Hopkins||P. Van Meerbergen|
+> |S. Lewis||S. Lehman|
+> |S. Hillier||H. McAlister|
+> |P. Cuddy|||
+> |J. Pribil|||
+> |S. Trosow|||
+> |S. Franke|||
+> |D. Ferreira|||
+> |C. Rahman|||
+
+> **Motion Passed (10 to 1)**
+
+****
+
+> Motion made by S. Lewis
+
+> Seconded by P. Cuddy
+
+That Third Reading and Enactment of Bill No. 257 BE APPROVED.
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|S. Stevenson|E. Peloza|
+> |A. Hopkins||P. Van Meerbergen|
+> |S. Lewis||S. Lehman|
+> |S. Hillier||H. McAlister|
+> |P. Cuddy|||
+> |J. Pribil|||
+> |S. Trosow|||
+> |S. Franke|||
+> |D. Ferreira|||
+> |C. Rahman|||
+
+> **Motion Passed (10 to 1)**
+
+****
+
+> Motion made by S. Lewis
+
+> Seconded by P. Cuddy
+
+That Introduction and First Reading of Bill No. 259 BE APPROVED.
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|A. Hopkins|E. Peloza|
+> |S. Lewis|S. Trosow|P. Van Meerbergen|
+> |S. Hillier|C. Rahman|S. Lehman|
+> |P. Cuddy||H. McAlister|
+> |S. Stevenson|||
+> |J. Pribil|||
+> |S. Franke|||
+> |D. Ferreira|||
+
+> **Motion Passed (8 to 3)**
+
+****
+
+> Motion made by S. Lewis
+
+> Seconded by P. Cuddy
+
+That Second Reading of Bill No. 259 BE APPROVED.
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|A. Hopkins|E. Peloza|
+> |S. Lewis|S. Trosow|P. Van Meerbergen|
+> |S. Hillier|C. Rahman|S. Lehman|
+> |P. Cuddy||H. McAlister|
+> |S. Stevenson|||
+> |J. Pribil|||
+> |S. Franke|||
+> |D. Ferreira|||
+
+> **Motion Passed (8 to 3)**
+
+****
+
+> Motion made by S. Lewis
+
+> Seconded by P. Cuddy
+
+That Third Reading and Enactment of Bill No. 259 BE APPROVED.
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|A. Hopkins|E. Peloza|
+> |S. Lewis|S. Trosow|P. Van Meerbergen|
+> |S. Hillier|C. Rahman|S. Lehman|
+> |P. Cuddy||H. McAlister|
+> |S. Stevenson|||
+> |J. Pribil|||
+> |S. Franke|||
+> |D. Ferreira|||
+
+> **Motion Passed (8 to 3)**
+
+****
+
+> Motion made by S. Lewis
+
+> Seconded by P. Cuddy
+
+That Introduction and First Reading of Bill No. 260 BE APPROVED.
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|S. Stevenson|E. Peloza|
+> |A. Hopkins|C. Rahman|P. Van Meerbergen|
+> |S. Lewis||S. Lehman|
+> |S. Hillier||H. McAlister|
+> |P. Cuddy|||
+> |J. Pribil|||
+> |S. Trosow|||
+> |S. Franke|||
+> |D. Ferreira|||
+
+> **Motion Passed (9 to 2)**
+
+****
+
+> Motion made by S. Lewis
+
+> Seconded by P. Cuddy
+
+That Second Reading of Bill No. 260 BE APPROVED.
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|S. Stevenson|E. Peloza|
+> |A. Hopkins|S. Trosow|P. Van Meerbergen|
+> |S. Lewis|C. Rahman|S. Lehman|
+> |S. Hillier||H. McAlister|
+> |P. Cuddy|||
+> |J. Pribil|||
+> |S. Franke|||
+> |D. Ferreira|||
+
+> **Motion Passed (8 to 3)**
+
+****
+
+> Motion made by S. Lewis
+
+> Seconded by P. Cuddy
+
+That Third Reading and Enactment of Bill No. 260 BE APPROVED.
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|S. Stevenson|E. Peloza|
+> |A. Hopkins|S. Trosow|P. Van Meerbergen|
+> |S. Lewis|C. Rahman|S. Lehman|
+> |S. Hillier||H. McAlister|
+> |P. Cuddy|||
+> |J. Pribil|||
+> |S. Franke|||
+> |D. Ferreira|||
+
+> **Motion Passed (8 to 3)**
+
+****
+
+> Motion made by S. Lewis
+
+> Seconded by P. Cuddy
+
+That Introduction and First Reading of Bill No. 261 BE APPROVED.
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|S. Hillier|E. Peloza|
+> |A. Hopkins|S. Stevenson|P. Van Meerbergen|
+> |S. Lewis|S. Trosow|S. Lehman|
+> |P. Cuddy|C. Rahman|H. McAlister|
+> |J. Pribil|||
+> |S. Franke|||
+> |D. Ferreira|||
+
+> **Motion Passed (7 to 4)**
+
+****
+
+> Motion made by S. Lewis
+
+> Seconded by P. Cuddy
+
+That Second Reading of Bill No. 261 BE APPROVED.
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|S. Hillier|E. Peloza|
+> |A. Hopkins|S. Stevenson|P. Van Meerbergen|
+> |S. Lewis|S. Trosow|S. Lehman|
+> |P. Cuddy|C. Rahman|H. McAlister|
+> |J. Pribil|||
+> |S. Franke|||
+> |D. Ferreira|||
+
+> **Motion Passed (7 to 4)**
+
+****
+
+> Motion made by S. Lewis
+
+> Seconded by P. Cuddy
+
+That Third Reading and Enactment of Bill No. 261 BE APPROVED.
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|S. Hillier|E. Peloza|
+> |A. Hopkins|S. Stevenson|P. Van Meerbergen|
+> |S. Lewis|S. Trosow|S. Lehman|
+> |P. Cuddy|C. Rahman|H. McAlister|
+> |J. Pribil|||
+> |S. Franke|||
+> |D. Ferreira|||
+
+> **Motion Passed (7 to 4)**
+
+****
+
+> Motion made by S. Lewis
+
+> Seconded by P. Cuddy
+
+That Introduction and First Reading of Bill No. 258 BE APPROVED.
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|S. Trosow|E. Peloza|
+> |A. Hopkins||P. Van Meerbergen|
+> |S. Lewis||S. Lehman|
+> |S. Hillier||H. McAlister|
+> |P. Cuddy|||
+> |S. Stevenson|||
+> |J. Pribil|||
+> |S. Franke|||
+> |D. Ferreira|||
+> |C. Rahman|||
+
+> **Motion Passed (10 to 1)**
+
+****
+
+> Motion made by S. Lewis
+
+> Seconded by P. Cuddy
+
+That Second Reading of Bill No. 258 BE APPROVED.
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|S. Trosow|E. Peloza|
+> |A. Hopkins||P. Van Meerbergen|
+> |S. Lewis||S. Lehman|
+> |S. Hillier||H. McAlister|
+> |P. Cuddy|||
+> |S. Stevenson|||
+> |J. Pribil|||
+> |S. Franke|||
+> |D. Ferreira|||
+> |C. Rahman|||
+
+> **Motion Passed (10 to 1)**
+
+****
+
+> Motion made by S. Lewis
+
+> Seconded by P. Cuddy
+
+That Third Reading and Enactment of Bill No. 258 BE APPROVED.
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|Absent:|
+> |-|-|-|
+> |Mayor J. Morgan|S. Trosow|E. Peloza|
+> |A. Hopkins||P. Van Meerbergen|
+> |S. Lewis||S. Lehman|
+> |S. Hillier||H. McAlister|
+> |P. Cuddy|||
+> |S. Stevenson|||
+> |J. Pribil|||
+> |S. Franke|||
+> |D. Ferreira|||
+> |C. Rahman|||
+
+> **Motion Passed (10 to 1)**
+
+****
+
+> Motion made by S. Lewis
+
+> Seconded by P. Cuddy
+
+That Introduction and First Reading of Bill No. 240, Bill No.'s 242 to 243, Bill No.'s 245 to 256, and Bill No. 262, and Added Bill No.'s 263 and 264 BE APPROVED.
+
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |Mayor J. Morgan|E. Peloza|
+> |A. Hopkins|P. Van Meerbergen|
+> |S. Lewis|S. Lehman|
+> |S. Hillier|H. McAlister|
+> |P. Cuddy||
+> |S. Stevenson||
+> |J. Pribil||
+> |S. Trosow||
+> |S. Franke||
+> |D. Ferreira||
+> |C. Rahman||
+
+> **Motion Passed (11 to 0)**
+
+****
+
+> Motion made by S. Lewis
+
+> Seconded by P. Cuddy
+
+That Second Reading of Bill No. 240, Bill No.'s 242 to 243, Bill No.'s 245 to 256, and Bill No. 262, and Added Bill No.'s 263 and 264 BE APPROVED.
+
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |Mayor J. Morgan|E. Peloza|
+> |A. Hopkins|P. Van Meerbergen|
+> |S. Lewis|S. Lehman|
+> |S. Hillier|H. McAlister|
+> |P. Cuddy||
+> |S. Stevenson||
+> |J. Pribil||
+> |S. Trosow||
+> |S. Franke||
+> |D. Ferreira||
+> |C. Rahman||
+
+> **Motion Passed (11 to 0)**
+
+****
+
+> Motion made by S. Lewis
+
+> Seconded by P. Cuddy
+
+That Third Reading and Enactment of Bill No. 240, Bill No.'s 242 to 243, Bill No.'s 245 to 256, and Bill No. 262, and Added Bill No.'s 263 and 264 BE APPROVED.
+
+> [!abstract]- Vote:
+> |Yeas:|Absent:|
+> |-|-|
+> |Mayor J. Morgan|E. Peloza|
+> |A. Hopkins|P. Van Meerbergen|
+> |S. Lewis|S. Lehman|
+> |S. Hillier|H. McAlister|
+> |P. Cuddy||
+> |S. Stevenson||
+> |J. Pribil||
+> |S. Trosow||
+> |S. Franke||
+> |D. Ferreira||
+> |C. Rahman||
+
+> **Motion Passed (11 to 0)**
+
+****
+
+# 14.&nbsp;&nbsp;&nbsp;Adjournment
+
+> Motion made by A. Hopkins
+
+> Seconded by S. Franke
+
+That the meeting BE ADJOURNED.
+
+> **Motion Passed**
+
+The meeting adjourned at 6:14 PM.
+
+****
+
+# Appendix: New Bills
+
+> [!abstract]- The following Bills are enacted as By-laws of The Corporation of the City of London:
+> **Bill No. 238**
+> 
+> By-law No. A.-8729-183 - A by-law to confirm the proceedings of the Council Meeting held on the 23rd of June, 2026. (City Clerk)
+> 
+> **Bill No. 239**
+> 
+> By-law No. A.-8730-184 - A by-law to approve a Contribution Agreement between Ballance It Inc. and The Corporation of the City of London for an affordable housing development at 1958 Duluth Crescent, Block 6, and to authorize the Deputy City Manager, Housing and Community Growth to approve amending agreements to the Contribution Agreement. (2.7/9/CPSC)
+> 
+> **Bill No. 240**
+> 
+> By-law No. A.-8731-185 - A by-law to repeal and replace By-law No. A.-7196-353 entitled “A By-law respecting the approval of the W12A Landfill Site Community Enhancement and Mitigative Measures Program.” (2.2/11/ICSC)
+> 
+> **Bill No. 241**
+> 
+> By-law No. A.-8732-186 - A by-law to approve the Green Municipal Fund Grant Agreement, LLCA-25-0822 (the “Agreement”) with the Federation of Canadian Municipalities for the provision of funding for a project to enhance London’s resilience through climate adaptation planning; and to authorize the Mayor and City Clerk to act on behalf the City of London and execute the Agreement. (2.3/11/ICSC)
+> 
+> **Bill No. 242**
+> 
+> By-law No. A.-8733-187 - A by-law to ratify and confirm the Annual Resolutions of the Shareholder of London & Middlesex Community Housing Inc. (3.1/8/SPPC)
+> 
+> **Bill No. 243**
+> 
+> By-law No. A.-8734-188 - A by-law to approve the Donation Agreement between the Byron Springbank Veterans Monument Consortium and the Corporation of the City of London; and to authorize the Mayor and City Clerk to execute the Agreement. (4.1/10/CPSC)
+> 
+> **Bill No. 244**
+> 
+> By-law No. A-54-26024 - A by-law to amend By-law No. A-54, being “A by-law to implement an Administrative Monetary Penalty System in London”, to amend Schedule “A-4”. (2.5c/9/CPSC)
+> 
+> **Bill No. 245**
+> 
+> By-law No. C.P.-1512(eb)-189 - A by-law to amend the Official Plan, The London Plan for the City of London, 2016 relating to 3924, 4012 and 4050 Colonel Talbot Road. (3.1a/9/PEC)
+> 
+> **Bill No. 246**
+> 
+> By-law No. C.P.-1512(ec)-190 - A by-law to amend the Official Plan for the City of London, 2016 relating to updates from the Province of Ontario. (3.2/9/PEC)
+> 
+> **Bill No. 247**
+> 
+> Bill No. CP-24-26004 - A by-law to amend By-law No. CP-24, being “A by-law to provide standards for the maintenance and occupancy of property”. (2.5a/9/CPSC)
+> 
+> **Bill No. 248**
+> 
+> By-law No. CPOL.-70(c)-191 - A by-law to amend By-law No. CPOL.-70-302, as amended, being “Remuneration for Elected Officials and Appointed Citizen Members Policy” by deleting and replacing Schedule “A”. (4.1/13/SPPC - 2025)
+> 
+> **Bill No. 249**
+> 
+> By-law No. CPOL.-410(a)-192 - A by-law to amend By-law No. CPOL.-410-168 being the Municipal Compliance Services Policy. (2.3/9/CPSC)
+> 
+> **Bill No. 250**
+> 
+> By-law No. L.S.P.-3534-193 - A by-law to authorize and approve an application to expropriate land in the City of London, in the County of Middlesex, for Western Road and Sarnia Road/Philip Aziz Avenue Corridor and Intersection Improvements Phase 2. (2.9/11/ICSC)
+> 
+> **Bill No. 251**
+> 
+> By-law No. PS-114-26024 - A by-law to amend By-law PS-114 entitled, “A by-law to regulate traffic and the parking of motor vehicles in the City of London.” (2.6/11/ICSC)
+> 
+> **Bill No. 252**
+> 
+> By-law No. PW-15-26001 - A by-law to amend By-law No. PW-15, being “A by-law to require the owner or occupant of land to clean and clear the land, or to clear refuse from the land, not including buildings.” (2.5b/9/CPSC)
+> 
+> **Bill No. 253**
+> 
+> By-law No. S.-6469-194 - A by-law to lay out, constitute, establish and assume lands in the City of London as public highway. (as widening to Wharncliffe Road South, east of Savoy Street; and as widening to Savoy Street, west of Wharncliffe Road South) (City Surveyor – to establish lands as public highway)
+> 
+> **Bill No. 254**
+> 
+> By-law No. S.-6470-195 - A by-law to lay out, constitute, establish and assume lands in the City of London as public highway. (as widening to Wonderland Road South, north of Exeter Road; and as widening to Exeter Road, west of Wonderland Road South)  (City Surveyor – to establish lands as public highway)
+> 
+> **Bill No. 255**
+> 
+> By-law No. W.-5713(a)-196 - A by-law to amend by-law No. W.-5713-75 being, “A by-law to authorize project TS1365 – Sunningdale – Hyde Park Road to Wonderland Road North.” (2.12/10/ICSC)
+> 
+> **Bill No. 256**
+> 
+> By-law No. Z.-1-263447 - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 3924, 4012 and 4050 Colonel Talbot Road (3.1b/9/PEC)
+> 
+> **Bill No. 257**
+> 
+> By-law No. Z.-1-263448 - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 2496 Dundas Street East (3.4/9/PEC)
+> 
+> **Bill No. 258**
+> 
+> By-law No. Z.-1-263449 - A by-law to amend By-law No. Z.-1 to extend a temporary zone located at 221 Queens Avenue. (3.5/9/PEC)
+> 
+> **Bill No. 259**
+> 
+> By-law No. Z.-1-263450 - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 1057-1061 Richmond Street (3.6/9/PEC)
+> 
+> **Bill No. 260**
+> 
+> By-law No. Z.-1-263451 - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 36 Wethered Street. (3.7/9/PEC)
+> 
+> **Bill No. 261**
+> 
+> By-law No. Z.-1-263452 - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 929 Cheapside Street. (3.8a/9/PEC)
+> 
+> **Bill No. 262**
+> 
+> By-law No. Z.-1-263453 - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 1945 Hyde Park Road. (3.9/9/PEC)
+> 
+> **Bill No. 263**
+> 
+> By-law No. A.-8735-197 - A by-law to authorize and approve Grant of Easement Agreement  between The Corporation of the City of London and 382672 Ontario Limited, for permanent easement rights with respect to the property located at 1712 Dundas Street, further described as being part of Part of Lot 10 and Part of Lot 17 on Registered Plan No.19 and to be further described by new Reference Plan. (6.1/11/ICSC)
+> 
+> **Bill No. 264**
+> 
+> By-law No. A.-8736-198 - A by-law to authorize and approve a municipal capital facility agreement and to designate a portion of 1680 Richmond Street as outlined in Schedule “A”, as a municipal capital facility for the use of policing by the  London Police Service Board during the term of its lease. (2.14/4/ICSC)
+

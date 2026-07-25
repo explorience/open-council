@@ -4,7 +4,7 @@ date: 2026-05-13
 ---
 May 13, 2026, at 12:00 PM
 
-[Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=efeac225-3593-4286-ae6b-22925cd5875c&Agenda=PostMinutes&lang=English)
+[Original link](https://pub-london.escribemeetings.com//Meeting.aspx?Id=efeac225-3593-4286-ae6b-22925cd5875c&Agenda=PostMinutes&lang=English)
 
 > [!abstract]- Present:
 > E. Peloza, P. Cuddy, S. Stevenson, J. Pribil, I. Cheema
