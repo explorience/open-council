@@ -2,7 +2,7 @@
 title: "Jerry Pribil"
 type: councillor
 slug: "j-pribil"
-meetingCount: 242
+meetingCount: 243
 yearsActive: "2022 - 2026"
 isCurrent: true
 totalVotes: 3872
@@ -156,7 +156,7 @@ Voted **Yea** - Motion Failed (7 to 7)
 
 ### 2026-03-09: Short Term Accommodation Licensing and Penalties
 
-[4th Meeting of the Community and Protective Services Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=0f86effb-a62a-473d-a937-36ca9a9f4d4a&Agenda=PostMinutes&lang=English)
+[4th Meeting of the Community and Protective Services Committee](https://pub-london.escribemeetings.com//Meeting.aspx?Id=0f86effb-a62a-473d-a937-36ca9a9f4d4a&Agenda=PostMinutes&lang=English)
 
 > That the motion BE AMENDED to add a new part that reads as follows: Notwithstanding the adoption of this motion, the Community and Protective Services Committee may at a future time request a staff re...
 
@@ -164,7 +164,7 @@ Voted **Nay** - Motion Passed (3 to 2)
 
 ### 2026-03-09: Short Term Accommodation Licensing and Penalties
 
-[4th Meeting of the Community and Protective Services Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=0f86effb-a62a-473d-a937-36ca9a9f4d4a&Agenda=PostMinutes&lang=English)
+[4th Meeting of the Community and Protective Services Committee](https://pub-london.escribemeetings.com//Meeting.aspx?Id=0f86effb-a62a-473d-a937-36ca9a9f4d4a&Agenda=PostMinutes&lang=English)
 
 > That part b) BE AMENDED to read as follows: the proposed by-law, as appended to the above-noted staff report, to be introduced at the Municipal Council meeting on March 31, 2026, to amend By.-law No. ...
 
@@ -172,7 +172,7 @@ Voted **Yea** - Motion Failed (2 to 3)
 
 ### 2026-03-09: (ADDED) Community Housing Financial Challenges
 
-[4th Meeting of the Community and Protective Services Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=0f86effb-a62a-473d-a937-36ca9a9f4d4a&Agenda=PostMinutes&lang=English)
+[4th Meeting of the Community and Protective Services Committee](https://pub-london.escribemeetings.com//Meeting.aspx?Id=0f86effb-a62a-473d-a937-36ca9a9f4d4a&Agenda=PostMinutes&lang=English)
 
 > That, pursuant to section 32.5 of the Council Procedure By-law, “shall the ruling of the Chair BE SUSTAINED?”
 
@@ -198,17 +198,18 @@ Voted **Yea** - Motion Failed (7 to 8)
 ## Committees Served
 
 - [Community and Protective Services Committee](/committees/community-protective-services)
-- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [City Council](/committees/city-council)
+- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Audit Committee](/committees/audit)
 - [Corporate Services Committee](/committees/corporate-services)
 - [Budget Committee](/committees/budget)
 - [Civic Works Committee](/committees/civic-works)
 - [Community Protective Services Committee](/committees/community-protective-services-committee)
 
-## Recent Meetings (242 total)
+## Recent Meetings (243 total)
 
 - [11th Meeting of the Community and Protective Services Committee](</months/2026-07/2026-07-13 11th Meeting of the Community and Protective Services Committee>) - Mon Jul 13 2026
+- [11th Meeting of Council](</months/2026-06/2026-06-23 11th Meeting of Council>) - Tue Jun 23 2026
 - [10th Special Meeting of the Community and Protective Services Committee](</months/2026-06/2026-06-16 10th Special Meeting of the Community and Protective Services Committee>) - Tue Jun 16 2026
 - [8th Meeting of the Strategic Priorities and Policy Committee](</months/2026-06/2026-06-16 8th Meeting of the Strategic Priorities and Policy Committee>) - Tue Jun 16 2026
 - [9th Meeting of the Community and Protective Services Committee](</months/2026-06/2026-06-08 9th Meeting of the Community and Protective Services Committee>) - Mon Jun 8 2026
@@ -217,4 +218,3 @@ Voted **Yea** - Motion Failed (7 to 8)
 - [8th Meeting of the Community and Protective Services Committee](</months/2026-05/2026-05-25 8th Meeting of the Community and Protective Services Committee>) - Mon May 25 2026
 - [2nd Special Meeting of the Audit Committee](</months/2026-05/2026-05-13 2nd Special Meeting of the Audit Committee>) - Wed May 13 2026
 - [8th Meeting of Council](</months/2026-05/2026-05-12 8th Meeting of Council>) - Tue May 12 2026
-- [7th Meeting of the Community and Protective Services Committee](</months/2026-05/2026-05-04 7th Meeting of the Community and Protective Services Committee>) - Mon May 4 2026
