@@ -188,7 +188,7 @@ Voted **Nay** - Motion Passed (7 to 4)
 
 ### 2026-06-16: Request for Province-Wide Deposit-Return for Non-Alcoholic Beverage Containers - Councillors S. Franke and H. McAlister
 
-[8th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=a1f160a0-0ce3-4a5a-8c16-928242b55c4d&Agenda=PostMinutes&lang=English)
+[8th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com//Meeting.aspx?Id=a1f160a0-0ce3-4a5a-8c16-928242b55c4d&Agenda=PostMinutes&lang=English)
 
 > That the Mayor and Councillor A. Hopkins BE REQUESTED to advocate, through the Ontario Big City Mayors Caucus and the Association of Municipalities of Ontario for a province-wide deposit-return progra...
 
