@@ -629,7 +629,7 @@ iv)    AUTHORIZE the Deputy City Manager, Housing and Community Growth, or the
 
 ## 8.2&nbsp;&nbsp;&nbsp;10th Special Report of the Community and Protective Services Committee
 
-[2026-06-16 CPSC Report](</2026-06/2026-06-16 10th Special Meeting of the Community and Protective Services Committee>)
+[2026-06-16 CPSC Report](</2026-06/2026-06-16 - Community and Protective Services Committee>)
 
 > Motion made by C. Rahman
 
@@ -667,7 +667,7 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-### 8.2.2&nbsp;&nbsp;&nbsp;[(4.1)](</2026-06/2026-06-16 10th Special Meeting of the Community and Protective Services Committee#41byron-springbank-veterans-monument-donation-to-springbank-park>) Byron Springbank Veterans Monument Donation to Springbank Park (Relates to Bill No. 243) 
+### 8.2.2&nbsp;&nbsp;&nbsp;(4.1) Byron Springbank Veterans Monument Donation to Springbank Park (Relates to Bill No. 243) 
 
 > Motion made by C. Rahman
 
@@ -689,7 +689,7 @@ c)    the above-noted staff report BE RECEIVED.
 
 ## 8.3&nbsp;&nbsp;&nbsp;8th Report of the Strategic Priorities and Policy Committee
 
-[2026-06-16 SPPC Report 8](</2026-06/2026-06-16 - Strategic Priorities and Policy Committee>)
+[2026-06-16 SPPC Report 8](</2026-06/2026-06-16 8th Meeting of the Strategic Priorities and Policy Committee>)
 
 > Motion made by C. Rahman
 
@@ -727,7 +727,7 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-### 8.3.2&nbsp;&nbsp;&nbsp;(2.2) Enhancing Public Access to Committee of Adjustment
+### 8.3.2&nbsp;&nbsp;&nbsp;[(2.2)](</2026-06/2026-06-16 8th Meeting of the Strategic Priorities and Policy Committee#22enhancing-public-access-to-committee-of-adjustment>) Enhancing Public Access to Committee of Adjustment
 
 > Motion made by C. Rahman
 
@@ -743,7 +743,7 @@ it being noted that any request for additional enhancements would require referr
 
 ****
 
-### 8.3.3&nbsp;&nbsp;&nbsp;(2.1) Diversity, Race Relations and Inclusivity Awards Policy Amendments
+### 8.3.3&nbsp;&nbsp;&nbsp;[(2.1)](</2026-06/2026-06-16 8th Meeting of the Strategic Priorities and Policy Committee#21diversity-race-relations-and-inclusivity-awards-policy-amendments>) Diversity, Race Relations and Inclusivity Awards Policy Amendments
 
 > Motion made by C. Rahman
 
@@ -753,7 +753,7 @@ That the staff report dated June 16, 2026, with respect to amendments to the Div
 
 ****
 
-### 8.3.4&nbsp;&nbsp;&nbsp;(3.1) London & Middlesex Community Housing - 2025 Annual General Meeting of the Shareholder Annual Resolutions (Relates to Bill No. 242)   
+### 8.3.4&nbsp;&nbsp;&nbsp;[(3.1)](</2026-06/2026-06-16 8th Meeting of the Strategic Priorities and Policy Committee#31not-to-be-heard-before-105-pm---london--middlesex-community-housing---2025-annual-general-meeting-of-the-shareholder-annual-resolutions>) London & Middlesex Community Housing - 2025 Annual General Meeting of the Shareholder Annual Resolutions (Relates to Bill No. 242)   
 
 > Motion made by C. Rahman
 
@@ -775,7 +775,7 @@ f)  the communication from the London & Middlesex Community Housing regarding t
 
 ****
 
-### 8.3.5&nbsp;&nbsp;&nbsp;(3.2) Housing and Development Corporation, London - 2025 Annual General Meeting of the Shareholder Annual Resolutions
+### 8.3.5&nbsp;&nbsp;&nbsp;[(3.2)](</2026-06/2026-06-16 8th Meeting of the Strategic Priorities and Policy Committee#32housing-and-development-corporation-london---2025-annual-general-meeting-of-the-shareholder-annual-resolutions>) Housing and Development Corporation, London - 2025 Annual General Meeting of the Shareholder Annual Resolutions
 
 > Motion made by C. Rahman
 
@@ -791,7 +791,7 @@ c)  the 2025 Financial Statements BE RECEIVED.
 
 ****
 
-### 8.3.8&nbsp;&nbsp;&nbsp;(4.3) Request for Province-Wide Deposit-Return for Non-Alcoholic Beverage Containers
+### 8.3.8&nbsp;&nbsp;&nbsp;[(4.3)](</2026-06/2026-06-16 8th Meeting of the Strategic Priorities and Policy Committee#43request-for-province-wide-deposit-return-for-non-alcoholic-beverage-containers---councillors-s-franke-and-h-mcalister>) Request for Province-Wide Deposit-Return for Non-Alcoholic Beverage Containers
 
 > Motion made by C. Rahman
 
@@ -801,7 +801,7 @@ That the Mayor and Councillor A. Hopkins BE REQUESTED to advocate, through the O
 
 ****
 
-### 8.3.6&nbsp;&nbsp;&nbsp;(4.1) The Centre of Opportunity: London's Economic Development Strategy (2026–2030) and Implementation Plan
+### 8.3.6&nbsp;&nbsp;&nbsp;[(4.1)](</2026-06/2026-06-16 8th Meeting of the Strategic Priorities and Policy Committee#41the-centre-of-opportunity-londons-economic-development-strategy-20262030-and-implementation-plan>) The Centre of Opportunity: London's Economic Development Strategy (2026–2030) and Implementation Plan
 
 > Motion made by C. Rahman
 
@@ -862,7 +862,7 @@ At 3:17 PM, Councillor E. Peloza leaves the meeting.
 
 ****
 
-### 8.3.7&nbsp;&nbsp;&nbsp;(4.2) Downtown Reimagined: City of London Downtown Plan
+### 8.3.7&nbsp;&nbsp;&nbsp;[(4.2)](</2026-06/2026-06-16 8th Meeting of the Strategic Priorities and Policy Committee#42downtown-reimagined-city-of-london-downtown-plan>) Downtown Reimagined: City of London Downtown Plan
 
 > Motion made by C. Rahman
 
@@ -914,7 +914,7 @@ it being further pointed out that the Strategic Priorities and Policy Committee 
 
 ## 8.4&nbsp;&nbsp;&nbsp;11th Report of the Infrastructure and Corporate Services Committee
 
-[2026-06-15 ICSC Report 11](</2026-06/2026-06-15 - Infrastructure and Corporate Services Committee>)
+[2026-06-15 ICSC Report 11](</2026-06/2026-06-15 11th Meeting of the Infrastructure and Corporate Services Committee>)
 
 > Motion made by H. McAlister
 
@@ -951,7 +951,7 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-### 8.4.2&nbsp;&nbsp;&nbsp;(2.1) W12A Landfill: Review of Vehicle Speeds and Odour Regulations
+### 8.4.2&nbsp;&nbsp;&nbsp;[(2.1)](</2026-06/2026-06-15 11th Meeting of the Infrastructure and Corporate Services Committee#21w12a-landfill-review-of-vehicle-speeds-and-odour-regulations>) W12A Landfill: Review of Vehicle Speeds and Odour Regulations
 
 > Motion made by H. McAlister
 
@@ -961,7 +961,7 @@ That, on the recommendation of the Deputy City Manager, Environment & Infrastruc
 
 ****
 
-### 8.4.3&nbsp;&nbsp;&nbsp;(2.2) W12A Landfill Community Enhancement and Mitigative Measures Program and By-law Update (Relates to Bill No. 240)    
+### 8.4.3&nbsp;&nbsp;&nbsp;[(2.2)](</2026-06/2026-06-15 11th Meeting of the Infrastructure and Corporate Services Committee#22w12a-landfill-community-enhancement-and-mitigative-measures-program-and-by-law-update>) W12A Landfill Community Enhancement and Mitigative Measures Program and By-law Update (Relates to Bill No. 240)    
 
 > Motion made by H. McAlister
 
@@ -971,7 +971,7 @@ That, on the recommendation of the Deputy City Manager, Environment & Infrastruc
 
 ****
 
-### 8.4.4&nbsp;&nbsp;&nbsp;(2.5) Award of RFT-2026-100 W12A-Equipment Rental and Operators
+### 8.4.4&nbsp;&nbsp;&nbsp;[(2.5)](</2026-06/2026-06-15 11th Meeting of the Infrastructure and Corporate Services Committee#25award-of-rft-2026-100-w12a-equipment-rental-and-operators>) Award of RFT-2026-100 W12A-Equipment Rental and Operators
 
 > Motion made by H. McAlister
 
@@ -989,7 +989,7 @@ d)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or ot
 
 ****
 
-### 8.4.5&nbsp;&nbsp;&nbsp;(2.6) New Traffic Signals, Pedestrian Signals and Pedestrian Crossovers (Relates to Bill No. 251)
+### 8.4.5&nbsp;&nbsp;&nbsp;[(2.6)](</2026-06/2026-06-15 11th Meeting of the Infrastructure and Corporate Services Committee#26new-traffic-signals-pedestrian-signals-and-pedestrian-crossovers>) New Traffic Signals, Pedestrian Signals and Pedestrian Crossovers (Relates to Bill No. 251)
 
 > Motion made by H. McAlister
 
@@ -1023,7 +1023,7 @@ c)    the proposed by-law, as appended to the staff report dated June 15, 2026
 
 ****
 
-### 8.4.6&nbsp;&nbsp;&nbsp;(2.8) Emergency Procurement of Replacement Components for Centrifuges at Greenway WWTP
+### 8.4.6&nbsp;&nbsp;&nbsp;[(2.8)](</2026-06/2026-06-15 11th Meeting of the Infrastructure and Corporate Services Committee#28emergency-procurement-of-replacement-components-for-centrifuges-at-greenway-wwtp>) Emergency Procurement of Replacement Components for Centrifuges at Greenway WWTP
 
 > Motion made by H. McAlister
 
@@ -1041,7 +1041,7 @@ d)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or ot
 
 ****
 
-### 8.4.7&nbsp;&nbsp;&nbsp; (2.9) Expropriation of Lands – Western Road and Sarnia Road/Philip Aziz Avenue Corridor and Intersection Improvements Phase 2 (Relates to Bill No. 250)
+### 8.4.7&nbsp;&nbsp;&nbsp; [(2.9)](</2026-06/2026-06-15 11th Meeting of the Infrastructure and Corporate Services Committee#29expropriation-of-lands--western-road-and-sarnia-roadphilip-aziz-avenue-corridor-and-intersection-improvements-phase-2>) Expropriation of Lands – Western Road and Sarnia Road/Philip Aziz Avenue Corridor and Intersection Improvements Phase 2 (Relates to Bill No. 250)
 
 > Motion made by H. McAlister
 
@@ -1059,7 +1059,7 @@ d)    the proposed by-law, as appended to the staff report dated June 15, 2026
 
 ****
 
-### 8.4.10&nbsp;&nbsp;&nbsp;(2.7) Appointment of Consulting Engineers for Construction Administration
+### 8.4.10&nbsp;&nbsp;&nbsp;[(2.7)](</2026-06/2026-06-15 11th Meeting of the Infrastructure and Corporate Services Committee#27appointment-of-consulting-engineers-for-construction-administration>) Appointment of Consulting Engineers for Construction Administration
 
 > Motion made by H. McAlister
 
@@ -1083,7 +1083,7 @@ e)     the Mayor and the City Clerk BE AUTHORIZED to execute any contract or o
 
 ****
 
-### 8.4.8&nbsp;&nbsp;&nbsp;(2.3) Federation of Canadian Municipalities: Green Municipal Fund Agreement for Enhancing London’s Resilience Through Climate Adaptation Planning (Relates to Bill No. 241)
+### 8.4.8&nbsp;&nbsp;&nbsp;[(2.3)](</2026-06/2026-06-15 11th Meeting of the Infrastructure and Corporate Services Committee#23federation-of-canadian-municipalities-green-municipal-fund-agreement-for-enhancing-londons-resilience-through-climate-adaptation-planning>) Federation of Canadian Municipalities: Green Municipal Fund Agreement for Enhancing London’s Resilience Through Climate Adaptation Planning (Relates to Bill No. 241)
 
 At 3:20 PM, Councillor E. Peloza enters the meeting.
 
@@ -1118,7 +1118,7 @@ c)    AUTHORIZE the Deputy City Manager, Environment & Infrastructure, as the 
 
 ****
 
-### 8.4.9&nbsp;&nbsp;&nbsp;(2.4) Contract Award: Tender No. RFT-2025-222 Wellington Gateway and Municipal Infrastructure Improvements Phase 2B – Base Line Road to Watson Street
+### 8.4.9&nbsp;&nbsp;&nbsp;[(2.4)](</2026-06/2026-06-15 11th Meeting of the Infrastructure and Corporate Services Committee#24contract-award-tender-no-rft-2025-222-wellington-gateway-and-municipal-infrastructure-improvements-phase-2b--base-line-road-to-watson-street>) Contract Award: Tender No. RFT-2025-222 Wellington Gateway and Municipal Infrastructure Improvements Phase 2B – Base Line Road to Watson Street
 
 > Motion made by H. McAlister
 
@@ -1159,7 +1159,7 @@ g)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or ot
 
 ****
 
-### 8.4.11&nbsp;&nbsp;&nbsp;(2.10) 2025 Portfolio Investments Report
+### 8.4.11&nbsp;&nbsp;&nbsp;[(2.10)](</2026-06/2026-06-15 11th Meeting of the Infrastructure and Corporate Services Committee#2102025-portfolio-investments-report>) 2025 Portfolio Investments Report
 
 > Motion made by H. McAlister
 
