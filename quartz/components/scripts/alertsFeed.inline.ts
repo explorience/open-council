@@ -1,3 +1,5 @@
+import { escapeHTML } from "../../util/escape"
+
 interface WatchItem {
   slug: string
   title: string
@@ -149,8 +151,12 @@ async function renderAlerts() {
   list.style.display = "flex"
   emptyState.style.display = "none"
   list.innerHTML = recentAlerts
-    .map(
-      (alert) => `
+    .map((alert) => {
+      // alert.slug/alert.title come from contentIndex.json, generated from
+      // scraped meeting content — untrusted. Escape before interpolating.
+      const safeSlug = escapeHTML(alert.slug)
+      const safeTitle = escapeHTML(alert.title)
+      return `
     <div class="alert-card" data-category="${alert.tag.label}">
       <div class="alert-icon ${alert.tag.className}">
         ${getAlertIcon(alert.slug)}
@@ -161,15 +167,15 @@ async function renderAlerts() {
           <span class="alert-date">${formatDate(alert.date)}</span>
         </div>
         <h4 class="alert-title">
-          <a href="/${alert.slug}">${alert.title}</a>
+          <a href="/${safeSlug}">${safeTitle}</a>
         </h4>
         <div class="alert-meta">
-          <a href="/${alert.slug}" class="alert-link">View meeting &rarr;</a>
+          <a href="/${safeSlug}" class="alert-link">View meeting &rarr;</a>
         </div>
       </div>
     </div>
-  `,
-    )
+  `
+    })
     .join("")
 }
 

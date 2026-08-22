@@ -51,7 +51,19 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add content/committees content/years content/councillors
           git commit -m "chore: regenerate summary pages [automated]"
-          git push
+          # This workflow shares its 7 AM UTC cron trigger with sync-transcripts.yml,
+          # so both regularly race to push to main. Rebase onto the latest main
+          # and retry instead of losing this run's regenerated pages to a
+          # non-fast-forward push failure.
+          for attempt in 1 2 3 4 5; do
+            if git push; then
+              break
+            fi
+            echo "Push rejected (attempt $attempt/5) — fetching and rebasing before retry..."
+            git fetch origin main
+            git rebase origin/main
+            sleep $((attempt * 5))
+          done
 
       - name: Send success notification
         if: steps.changes.outputs.has_changes == 'true' && vars.EMAIL_CONFIGURED == 'true'
