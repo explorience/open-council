@@ -2,18 +2,18 @@
 title: "Hadleigh McAlister"
 type: councillor
 slug: "h-mcalister"
-meetingCount: 232
+meetingCount: 234
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 3930
-votesYea: 3146
-votesNay: 278
+totalVotes: 3984
+votesYea: 3198
+votesNay: 280
 votesAbsent: 506
 attendanceRate: 94.6
-participationRate: 87.1
+participationRate: 87.3
 yeaRate: 91.9
-contestedDissentRate: 14.1
-contestedVotes: 1436
+contestedDissentRate: 13.8
+contestedVotes: 1466
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -30,10 +30,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 3,930 |
-| Voted Yea | 3,146 (80.1%) |
-| Voted Nay | 278 (7.1%) |
-| Absent | 506 (12.9%) |
+| Total Votes | 3,984 |
+| Voted Yea | 3,198 (80.3%) |
+| Voted Nay | 280 (7.0%) |
+| Absent | 506 (12.7%) |
 
 
 ### Substantive Votes
@@ -42,17 +42,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,463 |
-| Voted Yea | 1,836 (88.1%) |
-| Voted Nay | 249 (11.9%) |
+| Substantive Votes | 2,492 |
+| Voted Yea | 1,863 (88.1%) |
+| Voted Nay | 251 (11.9%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 14.1%
-- **Contested Votes**: 1,436
+- **Dissent Rate**: 13.8%
+- **Contested Votes**: 1,466
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -72,7 +72,7 @@ prefillQuestions:
 ## Attendance
 
 - **Attendance Rate**: 94.6%
-- **Meetings Attended**: 228 of 241
+- **Meetings Attended**: 229 of 242
 - **Meetings Missed**: 13
 - **Trend**: Stable -
 
@@ -80,20 +80,20 @@ prefillQuestions:
   - 2023: 90.9% (70/77 meetings)
   - 2024: 93.4% (71/76 meetings)
   - 2025: 98.2% (54/55 meetings)
-  - 2026: 100.0% (24/24 meetings)
+  - 2026: 100.0% (25/25 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
-- Skylar Franke (95.1%)
-- Josh Morgan (94.6%)
-- Anna Hopkins (93.9%)
+- Skylar Franke (94.8%)
+- Josh Morgan (94.7%)
+- Anna Hopkins (93.7%)
 
 **Least aligned with:**
-- Susan Stevenson (84.2%)
+- Susan Stevenson (84.4%)
 - Paul Van Meerbergen (88.4%)
-- Sam Trosow (89.4%)
+- Sam Trosow (89.3%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -102,7 +102,7 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 2,063 | 1,726 | 137 | 90.3% |
+| Council | 2,117 | 1,778 | 139 | 90.6% |
 | Strategic Priorities and Policy Committee | 1,073 | 769 | 70 | 78.2% |
 | Community and Protective Services Committee | 266 | 228 | 14 | 91.0% |
 | Budget Committee | 189 | 135 | 39 | 92.1% |
@@ -198,15 +198,17 @@ Voted **Yea** - Motion Failed (6 to 9)
 
 ## Committees Served
 
-- [Corporate Services Committee](/committees/corporate-services)
-- [City Council](/committees/city-council)
-- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Community and Protective Services Committee](/committees/community-protective-services)
+- [City Council](/committees/city-council)
+- [Corporate Services Committee](/committees/corporate-services)
+- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Budget Committee](/committees/budget)
 - [Civic Works Committee](/committees/civic-works)
 
-## Recent Meetings (232 total)
+## Recent Meetings (234 total)
 
+- [12th Meeting of the Community and Protective Services Committee](</months/2026-08/2026-08-10 12th Meeting of the Community and Protective Services Committee>) - Mon Aug 10 2026
+- [12th Meeting of Council](</months/2026-07/2026-07-21 12th Meeting of Council>) - Tue Jul 21 2026
 - [12th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-07/2026-07-15 12th Meeting of the Infrastructure and Corporate Services Committee>) - Wed Jul 15 2026
 - [11th Meeting of Council](</months/2026-06/2026-06-23 11th Meeting of Council>) - Tue Jun 23 2026
 - [10th Special Meeting of Council](</months/2026-06/2026-06-17 10th Special Meeting of Council>) - Wed Jun 17 2026
@@ -215,5 +217,3 @@ Voted **Yea** - Motion Failed (6 to 9)
 - [9th Meeting of Council](</months/2026-06/2026-06-02 9th Meeting of Council>) - Tue Jun 2 2026
 - [7th Meeting of the Strategic Priorities and Policy Committee](</months/2026-05/2026-05-28 7th Meeting of the Strategic Priorities and Policy Committee>) - Thu May 28 2026
 - [10th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-05/2026-05-27 10th Meeting of the Infrastructure and Corporate Services Committee>) - Wed May 27 2026
-- [8th Meeting of Council](</months/2026-05/2026-05-12 8th Meeting of Council>) - Tue May 12 2026
-- [9th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-05/2026-05-06 9th Meeting of the Infrastructure and Corporate Services Committee>) - Wed May 6 2026

@@ -2,18 +2,18 @@
 title: "Paul Van Meerbergen"
 type: councillor
 slug: "p-van-meerbergen"
-meetingCount: 526
+meetingCount: 527
 yearsActive: "2010 - 2026"
 isCurrent: true
-totalVotes: 8822
-votesYea: 6864
-votesNay: 1026
-votesAbsent: 932
+totalVotes: 8876
+votesYea: 6909
+votesNay: 1031
+votesAbsent: 936
 attendanceRate: 95.3
-participationRate: 89.4
+participationRate: 89.5
 yeaRate: 87.0
-contestedDissentRate: 22.8
-contestedVotes: 4026
+contestedDissentRate: 22.7
+contestedVotes: 4056
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -31,10 +31,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 8,822 |
-| Voted Yea | 6,864 (77.8%) |
-| Voted Nay | 1,026 (11.6%) |
-| Absent | 932 (10.6%) |
+| Total Votes | 8,876 |
+| Voted Yea | 6,909 (77.8%) |
+| Voted Nay | 1,031 (11.6%) |
+| Absent | 936 (10.5%) |
 
 
 ### Substantive Votes
@@ -43,17 +43,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 6,165 |
-| Voted Yea | 4,711 (85.1%) |
-| Voted Nay | 828 (14.9%) |
+| Substantive Votes | 6,194 |
+| Voted Yea | 4,737 (85.1%) |
+| Voted Nay | 830 (14.9%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 22.8%
-- **Contested Votes**: 4,026
+- **Dissent Rate**: 22.7%
+- **Contested Votes**: 4,056
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -73,7 +73,7 @@ prefillQuestions:
 ## Attendance
 
 - **Attendance Rate**: 95.3%
-- **Meetings Attended**: 568 of 596
+- **Meetings Attended**: 569 of 597
 - **Meetings Missed**: 28
 - **Trend**: Stable -
 
@@ -81,20 +81,20 @@ prefillQuestions:
   - 2023: 98.3% (57/58 meetings)
   - 2024: 98.4% (62/63 meetings)
   - 2025: 96.4% (53/55 meetings)
-  - 2026: 95.8% (23/24 meetings)
+  - 2026: 96.0% (24/25 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
-- Steve Lehman (93.7%)
-- Steve Hillier (92.7%)
+- Steve Lehman (93.6%)
+- Steve Hillier (92.8%)
 - Shawn Lewis (92.7%)
 
 **Least aligned with:**
-- Sam Trosow (78.6%)
-- David Ferreira (81.8%)
-- Skylar Franke (85.0%)
+- Sam Trosow (78.4%)
+- David Ferreira (81.7%)
+- Skylar Franke (84.9%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -103,7 +103,7 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 5,156 | 4,191 | 553 | 92.0% |
+| Council | 5,210 | 4,236 | 558 | 92.0% |
 | Strategic Priorities and Policy Committee | 2,704 | 1,858 | 349 | 81.6% |
 | Civic Works Committee | 451 | 409 | 31 | 97.6% |
 | Budget Committee | 189 | 118 | 68 | 98.4% |
@@ -114,6 +114,50 @@ prefillQuestions:
 ## Notable Dissenting Votes
 
 *Recent split votes where Paul Van Meerbergen voted against the final outcome:*
+
+### 2026-07-21: (2.2) Canada Public Transit Fund - Baseline Funding – Contribution Agreement (Relates to Bill No.  268)
+
+[12th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English)
+
+> That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken:
+
+
+
+a)    the proposed by-law, as appended to the staff report dated July 15, 2026 as Appendix ...
+
+Voted **Nay** - Motion Passed (12 to 3)
+
+### 2026-07-21: (4.5) By-law Enforcement Administrative Fees
+
+[12th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English)
+
+> That the Civic Administration BE DIRECTED to review the application of the administrative fee and any cost recovery associated with PW-15, Yard and Lot Maintenance by-law initial work order when it is...
+
+Voted **Yea** - Motion Failed (7 to 8)
+
+### 2026-07-21: By-laws
+
+[12th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English)
+
+> That Introduction and First Reading of Bill No. 268 BE APPROVED.
+
+Voted **Nay** - Motion Passed (10 to 2)
+
+### 2026-07-21: By-laws
+
+[12th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English)
+
+> That Second Reading of Bill No. 268 BE APPROVED.
+
+Voted **Nay** - Motion Passed (10 to 2)
+
+### 2026-07-21: By-laws
+
+[12th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English)
+
+> That Third Reading and Enactment of Bill No. 268 BE APPROVED.
+
+Voted **Nay** - Motion Passed (10 to 2)
 
 ### 2026-06-16: Downtown Reimagined: City of London Downtown Plan
 
@@ -155,59 +199,20 @@ Voted **Nay** - Motion Passed (13 to 1)
 
 Voted **Nay** - Motion Passed (13 to 1)
 
-### 2026-06-02: Expropriation of Lands - Wellington Gateway Project - Civil Works – Phase 3 – Report 3 (Relates to Bill No. 235)
-
-[9th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=7241e2a5-5faa-4da2-87e3-5aa7366fda9f&Agenda=PostMinutes&lang=English)
-
-> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, with the concurrence of the Director, Construction and Infrastructure Services, on the advice of the Director, R...
-
-Voted **Nay** - Motion Passed (13 to 1)
-
-### 2026-06-02: (3.3) 1103 & 1111 Westdel Bourne - OZ-25072
-
-[9th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=7241e2a5-5faa-4da2-87e3-5aa7366fda9f&Agenda=PostMinutes&lang=English)
-
-> That the application of Westdell Development Corporation (c/o MHBC Planning, Urban Design & Landscape Architecture) relating to the property located at 1103 & 1111 Westdel Bourne BE REFERRED to a futu...
-
-Voted **Yea** - Motion Failed (7 to 7)
-
-### 2026-06-02: By-laws
-
-[9th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=7241e2a5-5faa-4da2-87e3-5aa7366fda9f&Agenda=PostMinutes&lang=English)
-
-> That Introduction and First Reading of Bill No. 235 BE APPROVED.
-
-Voted **Nay** - Motion Passed (13 to 1)
-
-### 2026-06-02: By-laws
-
-[9th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=7241e2a5-5faa-4da2-87e3-5aa7366fda9f&Agenda=PostMinutes&lang=English)
-
-> That Second Reading of Bill No. 235 BE APPROVED.
-
-Voted **Nay** - Motion Passed (13 to 1)
-
-### 2026-06-02: By-laws
-
-[9th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=7241e2a5-5faa-4da2-87e3-5aa7366fda9f&Agenda=PostMinutes&lang=English)
-
-> That Third Reading and Enactment of Bill No. 235 BE APPROVED.
-
-Voted **Nay** - Motion Passed (13 to 1)
-
 
 ## Committees Served
 
-- [Corporate Services Committee](/committees/corporate-services)
 - [City Council](/committees/city-council)
+- [Corporate Services Committee](/committees/corporate-services)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Planning and Environment Committee](/committees/planning-environment)
 - [Budget Committee](/committees/budget)
 - [Civic Works Committee](/committees/civic-works)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 
-## Recent Meetings (526 total)
+## Recent Meetings (527 total)
 
+- [12th Meeting of Council](</months/2026-07/2026-07-21 12th Meeting of Council>) - Tue Jul 21 2026
 - [12th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-07/2026-07-15 12th Meeting of the Infrastructure and Corporate Services Committee>) - Wed Jul 15 2026
 - [10th Special Meeting of Council](</months/2026-06/2026-06-17 10th Special Meeting of Council>) - Wed Jun 17 2026
 - [8th Meeting of the Strategic Priorities and Policy Committee](</months/2026-06/2026-06-16 8th Meeting of the Strategic Priorities and Policy Committee>) - Tue Jun 16 2026
@@ -217,4 +222,3 @@ Voted **Nay** - Motion Passed (13 to 1)
 - [10th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-05/2026-05-27 10th Meeting of the Infrastructure and Corporate Services Committee>) - Wed May 27 2026
 - [8th Meeting of Council](</months/2026-05/2026-05-12 8th Meeting of Council>) - Tue May 12 2026
 - [9th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-05/2026-05-06 9th Meeting of the Infrastructure and Corporate Services Committee>) - Wed May 6 2026
-- [6th Meeting of the Strategic Priorities and Policy Committee](</months/2026-04/2026-04-21 6th Meeting of the Strategic Priorities and Policy Committee>) - Tue Apr 21 2026

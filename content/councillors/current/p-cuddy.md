@@ -2,18 +2,18 @@
 title: "Peter Cuddy"
 type: councillor
 slug: "p-cuddy"
-meetingCount: 234
+meetingCount: 236
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 4311
-votesYea: 3629
-votesNay: 344
+totalVotes: 4389
+votesYea: 3706
+votesNay: 345
 votesAbsent: 338
 attendanceRate: 98.3
-participationRate: 92.2
-yeaRate: 91.3
-contestedDissentRate: 11.0
-contestedVotes: 1503
+participationRate: 92.3
+yeaRate: 91.5
+contestedDissentRate: 10.9
+contestedVotes: 1534
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -30,10 +30,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 4,311 |
-| Voted Yea | 3,629 (84.2%) |
-| Voted Nay | 344 (8.0%) |
-| Absent | 338 (7.8%) |
+| Total Votes | 4,389 |
+| Voted Yea | 3,706 (84.4%) |
+| Voted Nay | 345 (7.9%) |
+| Absent | 338 (7.7%) |
 
 
 ### Substantive Votes
@@ -42,17 +42,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,554 |
-| Voted Yea | 1,965 (86.1%) |
-| Voted Nay | 316 (13.9%) |
+| Substantive Votes | 2,596 |
+| Voted Yea | 2,006 (86.4%) |
+| Voted Nay | 317 (13.6%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 11.0%
-- **Contested Votes**: 1,503
+- **Dissent Rate**: 10.9%
+- **Contested Votes**: 1,534
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -63,8 +63,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 389 |
-| Voted Yea | 282 (72.9%) |
+| Budget Votes | 390 |
+| Voted Yea | 283 (72.9%) |
 | Voted Nay | 105 (27.1%) |
 | Absent | 2 |
 
@@ -72,7 +72,7 @@ prefillQuestions:
 ## Attendance
 
 - **Attendance Rate**: 98.3%
-- **Meetings Attended**: 229 of 233
+- **Meetings Attended**: 231 of 235
 - **Meetings Missed**: 4
 - **Trend**: Declining v
 
@@ -80,7 +80,7 @@ prefillQuestions:
   - 2023: 100.0% (61/61 meetings)
   - 2024: 100.0% (67/67 meetings)
   - 2025: 97.2% (69/71 meetings)
-  - 2026: 92.3% (24/26 meetings)
+  - 2026: 92.9% (26/28 meetings)
 
 
 ## Voting Alignment
@@ -91,9 +91,9 @@ prefillQuestions:
 - Josh Morgan (95.5%)
 
 **Least aligned with:**
-- Sam Trosow (82.9%)
+- Sam Trosow (82.8%)
 - David Ferreira (87.5%)
-- Anna Hopkins (88.6%)
+- Anna Hopkins (88.5%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -102,9 +102,9 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 2,060 | 1,827 | 161 | 96.5% |
+| Council | 2,114 | 1,880 | 162 | 96.6% |
 | Strategic Priorities and Policy Committee | 1,079 | 778 | 81 | 79.6% |
-| Planning and Environment Committee | 696 | 654 | 10 | 95.4% |
+| Planning and Environment Committee | 720 | 678 | 10 | 95.6% |
 | Budget Committee | 189 | 116 | 73 | 100.0% |
 | Community and Protective Services Committee | 122 | 101 | 13 | 93.4% |
 | Civic Works Committee | 98 | 93 | 5 | 100.0% |
@@ -114,6 +114,14 @@ prefillQuestions:
 ## Notable Dissenting Votes
 
 *Recent split votes where Peter Cuddy voted against the final outcome:*
+
+### 2026-07-21: (4.5) By-law Enforcement Administrative Fees
+
+[12th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English)
+
+> That the Civic Administration BE DIRECTED to review the application of the administrative fee and any cost recovery associated with PW-15, Yard and Lot Maintenance by-law initial work order when it is...
+
+Voted **Yea** - Motion Failed (7 to 8)
 
 ### 2026-07-14: 1454 Fanshawe Park Road East - Block 2 - 39T-26502/OZ-25055
 
@@ -191,14 +199,6 @@ Voted **Nay** - Motion Passed (10 to 4)
 
 Voted **Nay** - Motion Passed (7 to 6)
 
-### 2026-02-10: (2.2) Good Neighbour Agreements
-
-[3rd Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b6c5d586-4a93-4c11-a4fe-af8e68db64d4&Agenda=PostMinutes&lang=English)
-
-> ii) that Civic Administration BE DIRECTED to review existing housing stability contracts to assess alignment with current operational needs, including transitions from emergency and highly supportive ...
-
-Voted **Yea** - Motion Failed (7 to 8)
-
 
 ## Committees Served
 
@@ -211,8 +211,10 @@ Voted **Yea** - Motion Failed (7 to 8)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [Civic Works Committee](/committees/civic-works)
 
-## Recent Meetings (234 total)
+## Recent Meetings (236 total)
 
+- [The 12th Meeting of the Planning and Environment Committee](</months/2026-08/2026-08-11 The 12th Meeting of the Planning and Environment Committee>) - Tue Aug 11 2026
+- [12th Meeting of Council](</months/2026-07/2026-07-21 12th Meeting of Council>) - Tue Jul 21 2026
 - [The 11th Meeting of the Planning and Environment Committee](</months/2026-07/2026-07-14 The 11th Meeting of the Planning and Environment Committee>) - Tue Jul 14 2026
 - [11th Meeting of Council](</months/2026-06/2026-06-23 11th Meeting of Council>) - Tue Jun 23 2026
 - [The 10th Meeting of the Planning and Environment Committee](</months/2026-06/2026-06-22 The 10th Meeting of the Planning and Environment Committee>) - Mon Jun 22 2026
@@ -221,5 +223,3 @@ Voted **Yea** - Motion Failed (7 to 8)
 - [8th Meeting of the Strategic Priorities and Policy Committee](</months/2026-06/2026-06-16 8th Meeting of the Strategic Priorities and Policy Committee>) - Tue Jun 16 2026
 - [The 9th Meeting of the Planning and Environment Committee](</months/2026-06/2026-06-09 The 9th Meeting of the Planning and Environment Committee>) - Tue Jun 9 2026
 - [9th Meeting of Council](</months/2026-06/2026-06-02 9th Meeting of Council>) - Tue Jun 2 2026
-- [7th Meeting of the Strategic Priorities and Policy Committee](</months/2026-05/2026-05-28 7th Meeting of the Strategic Priorities and Policy Committee>) - Thu May 28 2026
-- [The 8th Meeting of the Planning and Environment Committee](</months/2026-05/2026-05-26 The 8th Meeting of the Planning and Environment Committee>) - Tue May 26 2026

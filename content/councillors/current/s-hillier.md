@@ -2,18 +2,18 @@
 title: "Steve Hillier"
 type: councillor
 slug: "s-hillier"
-meetingCount: 482
+meetingCount: 484
 yearsActive: "2018 - 2026"
 isCurrent: true
-totalVotes: 8121
-votesYea: 6984
-votesNay: 502
+totalVotes: 8199
+votesYea: 7059
+votesNay: 505
 votesAbsent: 635
-attendanceRate: 93.5
-participationRate: 92.2
+attendanceRate: 93.6
+participationRate: 92.3
 yeaRate: 93.3
 contestedDissentRate: 15.3
-contestedVotes: 2146
+contestedVotes: 2177
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -30,10 +30,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 8,121 |
-| Voted Yea | 6,984 (86.0%) |
-| Voted Nay | 502 (6.2%) |
-| Absent | 635 (7.8%) |
+| Total Votes | 8,199 |
+| Voted Yea | 7,059 (86.1%) |
+| Voted Nay | 505 (6.2%) |
+| Absent | 635 (7.7%) |
 
 
 ### Substantive Votes
@@ -42,9 +42,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 4,547 |
-| Voted Yea | 3,633 (89.4%) |
-| Voted Nay | 433 (10.6%) |
+| Substantive Votes | 4,589 |
+| Voted Yea | 3,672 (89.4%) |
+| Voted Nay | 436 (10.6%) |
 
 
 ### Dissent on Contested Votes
@@ -52,7 +52,7 @@ prefillQuestions:
 *Only counts non-unanimous votes where the councillor participated*
 
 - **Dissent Rate**: 15.3%
-- **Contested Votes**: 2,146
+- **Contested Votes**: 2,177
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -63,16 +63,16 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 685 |
-| Voted Yea | 522 (81.4%) |
-| Voted Nay | 119 (18.6%) |
+| Budget Votes | 686 |
+| Voted Yea | 523 (81.5%) |
+| Voted Nay | 119 (18.5%) |
 | Absent | 44 |
 
 
 ## Attendance
 
-- **Attendance Rate**: 93.5%
-- **Meetings Attended**: 435 of 465
+- **Attendance Rate**: 93.6%
+- **Meetings Attended**: 437 of 467
 - **Meetings Missed**: 30
 - **Trend**: Stable -
 
@@ -80,20 +80,20 @@ prefillQuestions:
   - 2023: 86.7% (52/60 meetings)
   - 2024: 95.2% (60/63 meetings)
   - 2025: 96.3% (52/54 meetings)
-  - 2026: 91.3% (21/23 meetings)
+  - 2026: 92.0% (23/25 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
-- Steve Lehman (96.5%)
+- Steve Lehman (96.4%)
 - Shawn Lewis (96.3%)
 - Peter Cuddy (95.5%)
 
 **Least aligned with:**
-- Sam Trosow (81.6%)
+- Sam Trosow (81.4%)
 - David Ferreira (85.8%)
-- Susan Stevenson (87.9%)
+- Susan Stevenson (88.1%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -102,8 +102,8 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 3,852 | 3,413 | 269 | 95.6% |
-| Planning and Environment Committee | 1,934 | 1,816 | 41 | 96.0% |
+| Council | 3,906 | 3,465 | 271 | 95.6% |
+| Planning and Environment Committee | 1,958 | 1,839 | 42 | 96.1% |
 | Strategic Priorities and Policy Committee | 1,767 | 1,268 | 127 | 78.9% |
 | Community and Protective Services Committee | 328 | 314 | 1 | 96.0% |
 | Budget Committee | 189 | 125 | 64 | 100.0% |
@@ -113,6 +113,50 @@ prefillQuestions:
 ## Notable Dissenting Votes
 
 *Recent split votes where Steve Hillier voted against the final outcome:*
+
+### 2026-08-11: 1047-1055 Dearness Drive - OZ-26063 
+
+[The 12th Meeting of the Planning and Environment Committee](https://pub-london.escribemeetings.com//Meeting.aspx?Id=8ac611ed-b3c3-43f9-a430-067c4c7e4dcc&Agenda=PostMinutes&lang=English)
+
+> That the motion, as amended, BE APPROVED.
+
+Voted **Nay** - Motion Passed (3 to 2)
+
+### 2026-07-21: (2.2) Canada Public Transit Fund - Baseline Funding – Contribution Agreement (Relates to Bill No.  268)
+
+[12th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English)
+
+> That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken:
+
+
+
+a)    the proposed by-law, as appended to the staff report dated July 15, 2026 as Appendix ...
+
+Voted **Nay** - Motion Passed (12 to 3)
+
+### 2026-07-21: (4.3) Pilot Program for Air Conditioning Support for Low-Income Seniors
+
+[12th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English)
+
+> That the following part BE APPROVED: a) the Civic Administration BE DIRECTED to report back by Q1 2027 on the development of a pilot program to provide free or subsidized air conditioning units to low...
+
+Voted **Nay** - Motion Passed (13 to 2)
+
+### 2026-07-21: (4.4) City of London Special Constable Program
+
+[12th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English)
+
+> That the matter relating to a City of London Special Constable Program BE REFERRED to the Municipal Council meeting to be held on August 25, 2026, in order to provide additional time for members of th...
+
+Voted **Yea** - Motion Failed (5 to 10)
+
+### 2026-07-21: (4.5) By-law Enforcement Administrative Fees
+
+[12th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English)
+
+> That the Civic Administration BE DIRECTED to review the application of the administrative fee and any cost recovery associated with PW-15, Yard and Lot Maintenance by-law initial work order when it is...
+
+Voted **Yea** - Motion Failed (7 to 8)
 
 ### 2026-06-23: (2.7) Award of NRFP-2025-248: Municipal Land for Affordable Housing at 1958 Duluth Crescent, Block 6 (Relates to Bill No. 239)    
 
@@ -154,46 +198,6 @@ Voted **Nay** - Motion Passed (9 to 2)
 
 Voted **Nay** - Motion Passed (9 to 2)
 
-### 2026-06-23: By-laws
-
-[11th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=948470cd-fe8f-491c-afab-0012197b9009&Agenda=PostMinutes&lang=English)
-
-> That Third Reading and Enactment of Bill No. 239 BE APPROVED.
-
-Voted **Nay** - Motion Passed (9 to 2)
-
-### 2026-06-23: By-laws
-
-[11th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=948470cd-fe8f-491c-afab-0012197b9009&Agenda=PostMinutes&lang=English)
-
-> That Introduction and First Reading of Bill No. 261 BE APPROVED.
-
-Voted **Nay** - Motion Passed (7 to 4)
-
-### 2026-06-23: By-laws
-
-[11th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=948470cd-fe8f-491c-afab-0012197b9009&Agenda=PostMinutes&lang=English)
-
-> That Second Reading of Bill No. 261 BE APPROVED.
-
-Voted **Nay** - Motion Passed (7 to 4)
-
-### 2026-06-23: By-laws
-
-[11th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=948470cd-fe8f-491c-afab-0012197b9009&Agenda=PostMinutes&lang=English)
-
-> That Third Reading and Enactment of Bill No. 261 BE APPROVED.
-
-Voted **Nay** - Motion Passed (7 to 4)
-
-### 2026-06-16: Request for Province-Wide Deposit-Return for Non-Alcoholic Beverage Containers - Councillors S. Franke and H. McAlister
-
-[8th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com//Meeting.aspx?Id=a1f160a0-0ce3-4a5a-8c16-928242b55c4d&Agenda=PostMinutes&lang=English)
-
-> That the Mayor and Councillor A. Hopkins BE REQUESTED to advocate, through the Ontario Big City Mayors Caucus and the Association of Municipalities of Ontario for a province-wide deposit-return progra...
-
-Voted **Nay** - Motion Passed (10 to 1)
-
 
 ## Committees Served
 
@@ -205,8 +209,10 @@ Voted **Nay** - Motion Passed (10 to 1)
 - [Budget Committee](/committees/budget)
 - [Civic Works Committee](/committees/civic-works)
 
-## Recent Meetings (482 total)
+## Recent Meetings (484 total)
 
+- [The 12th Meeting of the Planning and Environment Committee](</months/2026-08/2026-08-11 The 12th Meeting of the Planning and Environment Committee>) - Tue Aug 11 2026
+- [12th Meeting of Council](</months/2026-07/2026-07-21 12th Meeting of Council>) - Tue Jul 21 2026
 - [The 11th Meeting of the Planning and Environment Committee](</months/2026-07/2026-07-14 The 11th Meeting of the Planning and Environment Committee>) - Tue Jul 14 2026
 - [11th Meeting of Council](</months/2026-06/2026-06-23 11th Meeting of Council>) - Tue Jun 23 2026
 - [The 10th Meeting of the Planning and Environment Committee](</months/2026-06/2026-06-22 The 10th Meeting of the Planning and Environment Committee>) - Mon Jun 22 2026
@@ -215,5 +221,3 @@ Voted **Nay** - Motion Passed (10 to 1)
 - [The 9th Meeting of the Planning and Environment Committee](</months/2026-06/2026-06-09 The 9th Meeting of the Planning and Environment Committee>) - Tue Jun 9 2026
 - [9th Meeting of Council](</months/2026-06/2026-06-02 9th Meeting of Council>) - Tue Jun 2 2026
 - [7th Meeting of the Strategic Priorities and Policy Committee](</months/2026-05/2026-05-28 7th Meeting of the Strategic Priorities and Policy Committee>) - Thu May 28 2026
-- [The 8th Meeting of the Planning and Environment Committee](</months/2026-05/2026-05-26 The 8th Meeting of the Planning and Environment Committee>) - Tue May 26 2026
-- [8th Meeting of Council](</months/2026-05/2026-05-12 8th Meeting of Council>) - Tue May 12 2026

@@ -2,18 +2,18 @@
 title: "Shawn Lewis"
 type: councillor
 slug: "s-lewis"
-meetingCount: 527
+meetingCount: 529
 yearsActive: "2018 - 2026"
 isCurrent: true
-totalVotes: 9361
-votesYea: 8163
-votesNay: 513
-votesAbsent: 685
+totalVotes: 9439
+votesYea: 8237
+votesNay: 516
+votesAbsent: 686
 attendanceRate: 98.4
 participationRate: 92.7
 yeaRate: 94.1
-contestedDissentRate: 10.8
-contestedVotes: 2471
+contestedDissentRate: 10.7
+contestedVotes: 2502
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -30,10 +30,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 9,361 |
-| Voted Yea | 8,163 (87.2%) |
-| Voted Nay | 513 (5.5%) |
-| Absent | 685 (7.3%) |
+| Total Votes | 9,439 |
+| Voted Yea | 8,237 (87.3%) |
+| Voted Nay | 516 (5.5%) |
+| Absent | 686 (7.3%) |
 
 
 ### Substantive Votes
@@ -42,17 +42,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 5,384 |
-| Voted Yea | 4,353 (90.1%) |
-| Voted Nay | 477 (9.9%) |
+| Substantive Votes | 5,426 |
+| Voted Yea | 4,392 (90.1%) |
+| Voted Nay | 480 (9.9%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 10.8%
-- **Contested Votes**: 2,471
+- **Dissent Rate**: 10.7%
+- **Contested Votes**: 2,502
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -63,8 +63,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 754 |
-| Voted Yea | 597 (82.7%) |
+| Budget Votes | 755 |
+| Voted Yea | 598 (82.7%) |
 | Voted Nay | 125 (17.3%) |
 | Absent | 32 |
 
@@ -72,7 +72,7 @@ prefillQuestions:
 ## Attendance
 
 - **Attendance Rate**: 98.4%
-- **Meetings Attended**: 490 of 498
+- **Meetings Attended**: 492 of 500
 - **Meetings Missed**: 8
 - **Trend**: Declining v
 
@@ -80,7 +80,7 @@ prefillQuestions:
   - 2023: 100.0% (84/84 meetings)
   - 2024: 98.4% (62/63 meetings)
   - 2025: 96.3% (52/54 meetings)
-  - 2026: 88.0% (22/25 meetings)
+  - 2026: 88.9% (24/27 meetings)
 
 
 ## Voting Alignment
@@ -91,9 +91,9 @@ prefillQuestions:
 - Steve Hillier (96.3%)
 
 **Least aligned with:**
-- Sam Trosow (82.6%)
-- David Ferreira (87.5%)
-- Susan Stevenson (87.6%)
+- Sam Trosow (82.5%)
+- David Ferreira (87.4%)
+- Susan Stevenson (87.8%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -102,8 +102,8 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 4,165 | 3,843 | 246 | 98.2% |
-| Planning and Environment Committee | 2,121 | 1,986 | 39 | 95.5% |
+| Council | 4,219 | 3,894 | 249 | 98.2% |
+| Planning and Environment Committee | 2,145 | 2,009 | 39 | 95.5% |
 | Strategic Priorities and Policy Committee | 2,113 | 1,530 | 140 | 79.0% |
 | Community and Protective Services Committee | 374 | 356 | 11 | 98.1% |
 | Civic Works Committee | 196 | 188 | 3 | 97.4% |
@@ -115,6 +115,14 @@ prefillQuestions:
 ## Notable Dissenting Votes
 
 *Recent split votes where Shawn Lewis voted against the final outcome:*
+
+### 2026-07-21: (2.4) Housing Stability Services Procurement and Delivery Framework
+
+[12th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English)
+
+> That pursuant to section 11.10 of the Council Procedure by-law, the Council BE PERMITTED to proceed beyond 6:00 PM.
+
+Voted **Nay** - Motion Passed (13 to 2)
 
 ### 2026-07-14: 1454 Fanshawe Park Road East - Block 2 - 39T-26502/OZ-25055
 
@@ -188,14 +196,6 @@ Voted **Yea** - Motion Failed (7 to 7)
 
 Voted **Nay** - Motion Passed (13 to 2)
 
-### 2026-05-12: (2.6) Findings and Next Steps for Provincial Electric Kick-Scooter Pilot (Relates to Bill No.'s 192 and 196)
-
-[8th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=36196cde-4600-4e4f-8874-7125d4e3232b&Agenda=PostMinutes&lang=English)
-
-> That part b) BE APPROVED: b)    the proposed by-law, as appended to the staff report dated May 6, 2026 as Appendix "A", BE INTRODUCED at the Municipal Council meeting to be held on May 12, 2026 to est...
-
-Voted **Nay** - Motion Passed (11 to 4)
-
 
 ## Committees Served
 
@@ -208,8 +208,10 @@ Voted **Nay** - Motion Passed (11 to 4)
 - [Audit Committee](/committees/audit)
 - [Civic Works Committee](/committees/civic-works)
 
-## Recent Meetings (527 total)
+## Recent Meetings (529 total)
 
+- [The 12th Meeting of the Planning and Environment Committee](</months/2026-08/2026-08-11 The 12th Meeting of the Planning and Environment Committee>) - Tue Aug 11 2026
+- [12th Meeting of Council](</months/2026-07/2026-07-21 12th Meeting of Council>) - Tue Jul 21 2026
 - [The 11th Meeting of the Planning and Environment Committee](</months/2026-07/2026-07-14 The 11th Meeting of the Planning and Environment Committee>) - Tue Jul 14 2026
 - [11th Meeting of Council](</months/2026-06/2026-06-23 11th Meeting of Council>) - Tue Jun 23 2026
 - [The 10th Meeting of the Planning and Environment Committee](</months/2026-06/2026-06-22 The 10th Meeting of the Planning and Environment Committee>) - Mon Jun 22 2026
@@ -218,5 +220,3 @@ Voted **Nay** - Motion Passed (11 to 4)
 - [11th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-06/2026-06-15 11th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Jun 15 2026
 - [The 9th Meeting of the Planning and Environment Committee](</months/2026-06/2026-06-09 The 9th Meeting of the Planning and Environment Committee>) - Tue Jun 9 2026
 - [9th Meeting of Council](</months/2026-06/2026-06-02 9th Meeting of Council>) - Tue Jun 2 2026
-- [7th Meeting of the Strategic Priorities and Policy Committee](</months/2026-05/2026-05-28 7th Meeting of the Strategic Priorities and Policy Committee>) - Thu May 28 2026
-- [The 8th Meeting of the Planning and Environment Committee](</months/2026-05/2026-05-26 The 8th Meeting of the Planning and Environment Committee>) - Tue May 26 2026

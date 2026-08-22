@@ -2,18 +2,18 @@
 title: "Josh Morgan"
 type: councillor
 slug: "j-morgan"
-meetingCount: 683
+meetingCount: 685
 yearsActive: "2014 - 2026"
 isCurrent: true
-totalVotes: 11132
-votesYea: 9183
-votesNay: 571
+totalVotes: 11192
+votesYea: 9241
+votesNay: 573
 votesAbsent: 1378
-attendanceRate: 92.3
-participationRate: 87.6
-yeaRate: 94.1
+attendanceRate: 92.4
+participationRate: 87.7
+yeaRate: 94.2
 contestedDissentRate: 5.4
-contestedVotes: 5452
+contestedVotes: 5482
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -31,10 +31,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 11,132 |
-| Voted Yea | 9,183 (82.5%) |
-| Voted Nay | 571 (5.1%) |
-| Absent | 1,378 (12.4%) |
+| Total Votes | 11,192 |
+| Voted Yea | 9,241 (82.6%) |
+| Voted Nay | 573 (5.1%) |
+| Absent | 1,378 (12.3%) |
 
 
 ### Substantive Votes
@@ -43,9 +43,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 8,038 |
-| Voted Yea | 6,573 (92.5%) |
-| Voted Nay | 536 (7.5%) |
+| Substantive Votes | 8,072 |
+| Voted Yea | 6,605 (92.5%) |
+| Voted Nay | 538 (7.5%) |
 
 
 ### Dissent on Contested Votes
@@ -53,7 +53,7 @@ prefillQuestions:
 *Only counts non-unanimous votes where the councillor participated*
 
 - **Dissent Rate**: 5.4%
-- **Contested Votes**: 5,452
+- **Contested Votes**: 5,482
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -64,16 +64,16 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 1,415 |
-| Voted Yea | 1,219 (86.9%) |
+| Budget Votes | 1,416 |
+| Voted Yea | 1,220 (86.9%) |
 | Voted Nay | 184 (13.1%) |
 | Absent | 12 |
 
 
 ## Attendance
 
-- **Attendance Rate**: 92.3%
-- **Meetings Attended**: 735 of 796
+- **Attendance Rate**: 92.4%
+- **Meetings Attended**: 737 of 798
 - **Meetings Missed**: 61
 - **Trend**: Improving ^
 
@@ -81,7 +81,7 @@ prefillQuestions:
   - 2023: 56.2% (59/105 meetings)
   - 2024: 100.0% (61/61 meetings)
   - 2025: 100.0% (52/52 meetings)
-  - 2026: 100.0% (25/25 meetings)
+  - 2026: 100.0% (27/27 meetings)
 
 
 ## Voting Alignment
@@ -92,9 +92,9 @@ prefillQuestions:
 - Peter Cuddy (95.5%)
 
 **Least aligned with:**
-- Sam Trosow (85.6%)
-- Susan Stevenson (86.1%)
-- David Ferreira (90.3%)
+- Sam Trosow (85.5%)
+- Susan Stevenson (86.2%)
+- David Ferreira (90.2%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -103,12 +103,12 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 5,309 | 4,924 | 267 | 97.8% |
+| Council | 5,363 | 4,976 | 269 | 97.8% |
 | Strategic Priorities and Policy Committee | 3,129 | 2,464 | 186 | 84.7% |
 | Corporate Services Committee | 1,069 | 964 | 19 | 92.0% |
 | Planning and Environment Committee | 701 | 191 | 5 | 28.0% |
 | Civic Works Committee | 348 | 285 | 2 | 82.5% |
-| Community and Protective Services Committee | 320 | 194 | 14 | 65.0% |
+| Community and Protective Services Committee | 326 | 200 | 14 | 65.6% |
 | Budget Committee | 189 | 115 | 74 | 100.0% |
 | Infrastructure and Corporate Services Committee | 67 | 46 | 4 | 74.6% |
 
@@ -213,8 +213,10 @@ Voted **Nay** - Motion Passed (10 to 5)
 - [Civic Works Committee](/committees/civic-works)
 - [Audit Committee](/committees/audit)
 
-## Recent Meetings (683 total)
+## Recent Meetings (685 total)
 
+- [12th Meeting of the Community and Protective Services Committee](</months/2026-08/2026-08-10 12th Meeting of the Community and Protective Services Committee>) - Mon Aug 10 2026
+- [12th Meeting of Council](</months/2026-07/2026-07-21 12th Meeting of Council>) - Tue Jul 21 2026
 - [11th Meeting of the Community and Protective Services Committee](</months/2026-07/2026-07-13 11th Meeting of the Community and Protective Services Committee>) - Mon Jul 13 2026
 - [11th Meeting of Council](</months/2026-06/2026-06-23 11th Meeting of Council>) - Tue Jun 23 2026
 - [10th Special Meeting of Council](</months/2026-06/2026-06-17 10th Special Meeting of Council>) - Wed Jun 17 2026
@@ -223,5 +225,3 @@ Voted **Nay** - Motion Passed (10 to 5)
 - [The 9th Meeting of the Planning and Environment Committee](</months/2026-06/2026-06-09 The 9th Meeting of the Planning and Environment Committee>) - Tue Jun 9 2026
 - [9th Meeting of Council](</months/2026-06/2026-06-02 9th Meeting of Council>) - Tue Jun 2 2026
 - [7th Meeting of the Strategic Priorities and Policy Committee](</months/2026-05/2026-05-28 7th Meeting of the Strategic Priorities and Policy Committee>) - Thu May 28 2026
-- [10th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-05/2026-05-27 10th Meeting of the Infrastructure and Corporate Services Committee>) - Wed May 27 2026
-- [8th Meeting of Council](</months/2026-05/2026-05-12 8th Meeting of Council>) - Tue May 12 2026

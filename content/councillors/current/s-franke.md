@@ -2,18 +2,18 @@
 title: "Skylar Franke"
 type: councillor
 slug: "s-franke"
-meetingCount: 208
+meetingCount: 209
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 4041
-votesYea: 3398
-votesNay: 328
-votesAbsent: 315
+totalVotes: 4095
+votesYea: 3422
+votesNay: 336
+votesAbsent: 337
 attendanceRate: 96.2
-participationRate: 92.2
-yeaRate: 91.2
-contestedDissentRate: 22.5
-contestedVotes: 1456
+participationRate: 91.8
+yeaRate: 91.1
+contestedDissentRate: 22.8
+contestedVotes: 1473
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -30,10 +30,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 4,041 |
-| Voted Yea | 3,398 (84.1%) |
-| Voted Nay | 328 (8.1%) |
-| Absent | 315 (7.8%) |
+| Total Votes | 4,095 |
+| Voted Yea | 3,422 (83.6%) |
+| Voted Nay | 336 (8.2%) |
+| Absent | 337 (8.2%) |
 
 
 ### Substantive Votes
@@ -42,17 +42,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,330 |
-| Voted Yea | 1,804 (86.7%) |
-| Voted Nay | 277 (13.3%) |
+| Substantive Votes | 2,359 |
+| Voted Yea | 1,823 (86.5%) |
+| Voted Nay | 285 (13.5%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 22.5%
-- **Contested Votes**: 1,456
+- **Dissent Rate**: 22.8%
+- **Contested Votes**: 1,473
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -72,7 +72,7 @@ prefillQuestions:
 ## Attendance
 
 - **Attendance Rate**: 96.2%
-- **Meetings Attended**: 201 of 209
+- **Meetings Attended**: 202 of 210
 - **Meetings Missed**: 8
 - **Trend**: Stable -
 
@@ -80,20 +80,20 @@ prefillQuestions:
   - 2023: 98.4% (60/61 meetings)
   - 2024: 97.0% (65/67 meetings)
   - 2025: 91.8% (45/49 meetings)
-  - 2026: 95.8% (23/24 meetings)
+  - 2026: 96.0% (24/25 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
-- Hadleigh McAlister (95.1%)
-- Anna Hopkins (94.7%)
-- David Ferreira (93.2%)
+- Hadleigh McAlister (94.8%)
+- Anna Hopkins (94.6%)
+- David Ferreira (93.0%)
 
 **Least aligned with:**
-- Susan Stevenson (80.7%)
-- Paul Van Meerbergen (85.0%)
-- Steve Hillier (89.3%)
+- Susan Stevenson (80.6%)
+- Paul Van Meerbergen (84.9%)
+- Steve Hillier (89.2%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -102,7 +102,7 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 2,054 | 1,797 | 175 | 96.0% |
+| Council | 2,108 | 1,821 | 183 | 95.1% |
 | Strategic Priorities and Policy Committee | 943 | 667 | 70 | 78.2% |
 | Planning and Environment Committee | 632 | 600 | 22 | 98.4% |
 | Budget Committee | 189 | 142 | 47 | 100.0% |
@@ -113,6 +113,70 @@ prefillQuestions:
 ## Notable Dissenting Votes
 
 *Recent split votes where Skylar Franke voted against the final outcome:*
+
+### 2026-07-21: (3.3) Parking Provisions Update (Relates to Bill No. 285)
+
+[12th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English)
+
+> That the motion, as amended, BE APPROVED.
+
+Voted **Nay** - Motion Passed (14 to 1)
+
+### 2026-07-21: (3.7) 755-765, 785 and 815 Wonderland Road South - OZ-26061
+
+[12th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English)
+
+> That the application dated July 14, 2026, from Westmount Development London Corporation related to the property at 755-765, 785 and 815 Wonderland Road South BE REFERRED to a future meeting of the Pla...
+
+Voted **Nay** - Motion Passed (11 to 4)
+
+### 2026-07-21: (2.4) Housing Stability Services Procurement and Delivery Framework
+
+[12th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English)
+
+> That part c) of the motion BE REFERRED to the next meeting of the Community and Protective Services Committee for a staff report outlining the changes made to the updated Emergency Shelter Guidelines,...
+
+Voted **Nay** - Motion Passed (14 to 1)
+
+### 2026-07-21: (2.3) Proposed Winter Response for 2026-2027
+
+[12th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English)
+
+> That the staff report dated July 13, 2026, regarding the Proposed Winter Response for 2026–2027, BE REFERRED to the next meeting of the Community and Protective Services Committee to allow Civic Admin...
+
+Voted **Nay** - Motion Passed (13 to 2)
+
+### 2026-07-21: (4.4) City of London Special Constable Program
+
+[12th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English)
+
+> That the following part BE APPROVED: That the motion BE AMENDED by replacing the words "establishing a City of London Special Constable Program" with "implementing a permanent City of London Special C...
+
+Voted **Nay** - Motion Passed (10 to 5)
+
+### 2026-07-21: (4.4) City of London Special Constable Program
+
+[12th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English)
+
+> That the following part BE APPROVED: d) estimated capital and operating costs, funding options, including the potential use of revenues generated through the City's Automated Speed Enforcement Program...
+
+Voted **Nay** - Motion Passed (10 to 5)
+
+### 2026-07-21: (4.4) City of London Special Constable Program
+
+[12th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English)
+
+> That the following parts of the main motion, as amended, BE APPROVED: That the Civic Administration BE DIRECTED to report back to the Community and Protective Services Committee on the feasibility of ...
+
+Voted **Nay** - Motion Passed (10 to 5)
+
+### 2026-07-21: (4.5) By-law Enforcement Administrative Fees
+
+[12th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English)
+
+> That the Civic Administration BE DIRECTED to review the application of the administrative fee and any cost recovery associated with PW-15, Yard and Lot Maintenance by-law initial work order when it is...
+
+Voted **Yea** - Motion Failed (7 to 8)
 
 ### 2026-06-23: (3.5) 221 Queens Avenue - TZ-26045 (Relates to Bill No. 258)
 
@@ -130,83 +194,20 @@ Voted **Nay** - Motion Passed (10 to 3)
 
 Voted **Yea** - Motion Failed (5 to 8)
 
-### 2026-06-17: Build Communities Strong Fund Provincial and Territorial Stream: Development Charge Reduction Program
-
-[10th Special Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=4ded2b07-9300-45c5-9b86-489f66930984&Agenda=PostMinutes&lang=English)
-
-> That, pursuant to section 2.3 of the Council Procedure By-law, the speaking-once provision contained in section 9.7 of the Council Procedure By-law BE SUSPENDED for the Council meeting held on June 17...
-
-Voted **Yea** - Motion Failed (9 to 4)
-
-### 2026-05-12: (3.3) 945 Bluegrass Drive - OZ-26019 (Relates to Bill No. 194 and 210)
-
-[8th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=36196cde-4600-4e4f-8874-7125d4e3232b&Agenda=PostMinutes&lang=English)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Bluegrass Long Term Care Centre – Division of “Meadow Park” (Lo...
-
-Voted **Yea** - Motion Failed (5 to 10)
-
-### 2026-04-21: Housing Accelerator Fund – 2026 Mid-Year Update
-
-[6th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com//Meeting.aspx?Id=b5334fb8-e3e2-4e5b-b0c6-9e30a6392c59&Agenda=PostMinutes&lang=English)
-
-> That part a) BE APPROVED and reads as follows: That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the following actions be taken with respect to current initiatives ...
-
-Voted **Nay** - Motion Passed (9 to 4)
-
-### 2026-03-24: Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program - Report Back on Program Options
-
-[5th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com//Meeting.aspx?Id=5b8ccf34-419e-4480-af6f-4160e9259405&Agenda=PostMinutes&lang=English)
-
-> That part a) ii) BE APPROVED: ii) partial (or full) development charge rebate options for new residential development, including options that could be targeted by unit type and ability to meet HAF tim...
-
-Voted **Nay** - Motion Passed (10 to 4)
-
-### 2026-03-23: Pollution Prevention and Control Plan Update Study - Notice of Completion
-
-[6th Meeting of the Infrastructure and Corporate Services Committee](https://pub-london.escribemeetings.com//Meeting.aspx?Id=e9890bd1-3ebf-47fa-8198-25a144b6365d&Agenda=PostMinutes&lang=English)
-
-> That the following part BE APPROVED: d)    the Civic Administration BE DIRECTED to report back to a future meeting of the Infrastructure and Corporate Services Committee with a proposed implementation...
-
-Voted **Yea** - Motion Failed (2 to 4)
-
-### 2026-03-23: Enhanced Reporting for Procurement Disqualifications and Bids and Tender Issues - Councillor S. Stevenson
-
-[6th Meeting of the Infrastructure and Corporate Services Committee](https://pub-london.escribemeetings.com//Meeting.aspx?Id=e9890bd1-3ebf-47fa-8198-25a144b6365d&Agenda=PostMinutes&lang=English)
-
-> That the communication dated March 16, 2026, from Councillor S. Stevenson, with respect to Enhanced Reporting for Procurement Disqualifications and Bids & Tender Issues, BE RECEIVED.
-
-Voted **Nay** - Motion Passed (4 to 1)
-
-### 2026-03-03: (3.6) Additional Residential Unit Permissions - Z-25159 (Relates to Bill No. 124)
-
-[4th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
-
-> That, at the direction of the Municipal Council, the following actions be taken with respect to the application by the City of London relating to additional residential unit permissions: a) the propos...
-
-Voted **Nay** - Motion Passed (13 to 1)
-
-### 2026-03-03: (4.1) Deputy Mayor S. Lewis, Councillors P. Cuddy and C. Rahman - Zoning By-law Amendment - Parking Changes
-
-[4th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
-
-> That the motion BE AMENDED by adding a new part e) and f) to read as follows: e) to map the relative availability of on-street parking in different parts of the city and evaluate on street parking cap...
-
-Voted **Yea** - Motion Failed (4 to 10)
-
 
 ## Committees Served
 
-- [Corporate Services Committee](/committees/corporate-services)
 - [City Council](/committees/city-council)
+- [Corporate Services Committee](/committees/corporate-services)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [Planning and Environment Committee](/committees/planning-environment)
 - [Budget Committee](/committees/budget)
 - [Civic Works Committee](/committees/civic-works)
 
-## Recent Meetings (208 total)
+## Recent Meetings (209 total)
 
+- [12th Meeting of Council](</months/2026-07/2026-07-21 12th Meeting of Council>) - Tue Jul 21 2026
 - [12th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-07/2026-07-15 12th Meeting of the Infrastructure and Corporate Services Committee>) - Wed Jul 15 2026
 - [11th Meeting of Council](</months/2026-06/2026-06-23 11th Meeting of Council>) - Tue Jun 23 2026
 - [10th Special Meeting of Council](</months/2026-06/2026-06-17 10th Special Meeting of Council>) - Wed Jun 17 2026
@@ -216,4 +217,3 @@ Voted **Yea** - Motion Failed (4 to 10)
 - [7th Meeting of the Strategic Priorities and Policy Committee](</months/2026-05/2026-05-28 7th Meeting of the Strategic Priorities and Policy Committee>) - Thu May 28 2026
 - [10th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-05/2026-05-27 10th Meeting of the Infrastructure and Corporate Services Committee>) - Wed May 27 2026
 - [8th Meeting of Council](</months/2026-05/2026-05-12 8th Meeting of Council>) - Tue May 12 2026
-- [6th Meeting of the Strategic Priorities and Policy Committee](</months/2026-04/2026-04-21 6th Meeting of the Strategic Priorities and Policy Committee>) - Tue Apr 21 2026

@@ -2,18 +2,18 @@
 title: "Corrine Rahman"
 type: councillor
 slug: "c-rahman"
-meetingCount: 249
+meetingCount: 251
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 3695
-votesYea: 3075
-votesNay: 363
+totalVotes: 3755
+votesYea: 3130
+votesNay: 368
 votesAbsent: 257
 attendanceRate: 100.0
-participationRate: 93.0
-yeaRate: 89.4
-contestedDissentRate: 17.7
-contestedVotes: 1407
+participationRate: 93.2
+yeaRate: 89.5
+contestedDissentRate: 17.5
+contestedVotes: 1437
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -30,10 +30,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 3,695 |
-| Voted Yea | 3,075 (83.2%) |
-| Voted Nay | 363 (9.8%) |
-| Absent | 257 (7.0%) |
+| Total Votes | 3,755 |
+| Voted Yea | 3,130 (83.4%) |
+| Voted Nay | 368 (9.8%) |
+| Absent | 257 (6.8%) |
 
 
 ### Substantive Votes
@@ -42,17 +42,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,194 |
-| Voted Yea | 1,671 (84.8%) |
-| Voted Nay | 299 (15.2%) |
+| Substantive Votes | 2,228 |
+| Voted Yea | 1,703 (85.0%) |
+| Voted Nay | 301 (15.0%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 17.7%
-- **Contested Votes**: 1,407
+- **Dissent Rate**: 17.5%
+- **Contested Votes**: 1,437
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -63,16 +63,16 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 347 |
-| Voted Yea | 261 (75.2%) |
-| Voted Nay | 86 (24.8%) |
+| Budget Votes | 348 |
+| Voted Yea | 262 (75.3%) |
+| Voted Nay | 86 (24.7%) |
 | Absent | 0 |
 
 
 ## Attendance
 
 - **Attendance Rate**: 100.0%
-- **Meetings Attended**: 221 of 221
+- **Meetings Attended**: 223 of 223
 - **Meetings Missed**: 0
 - **Trend**: Stable -
 
@@ -80,19 +80,19 @@ prefillQuestions:
   - 2023: 100.0% (72/72 meetings)
   - 2024: 100.0% (61/61 meetings)
   - 2025: 100.0% (55/55 meetings)
-  - 2026: 100.0% (24/24 meetings)
+  - 2026: 100.0% (26/26 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
-- Josh Morgan (93.2%)
-- Steve Lehman (92.9%)
-- Steve Hillier (92.5%)
+- Josh Morgan (93.4%)
+- Steve Lehman (93.0%)
+- Jerry Pribil (92.6%)
 
 **Least aligned with:**
-- Susan Stevenson (83.9%)
-- Sam Trosow (85.3%)
+- Susan Stevenson (84.1%)
+- Sam Trosow (85.2%)
 - Paul Van Meerbergen (87.9%)
 
 [View full voting alignment →](/councillors/alignment)
@@ -102,12 +102,12 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 1,854 | 1,579 | 206 | 96.3% |
+| Council | 1,908 | 1,628 | 211 | 96.4% |
 | Strategic Priorities and Policy Committee | 876 | 624 | 74 | 79.7% |
 | Planning and Environment Committee | 417 | 405 | 8 | 99.0% |
 | Budget Committee | 189 | 136 | 53 | 100.0% |
+| Community and Protective Services Committee | 121 | 114 | 7 | 100.0% |
 | Infrastructure and Corporate Services Committee | 120 | 112 | 7 | 99.2% |
-| Community and Protective Services Committee | 115 | 108 | 7 | 100.0% |
 | Corporate Services Committee | 67 | 61 | 2 | 94.0% |
 | Civic Works Committee | 57 | 50 | 6 | 98.2% |
 
@@ -115,6 +115,30 @@ prefillQuestions:
 ## Notable Dissenting Votes
 
 *Recent split votes where Corrine Rahman voted against the final outcome:*
+
+### 2026-07-21: By-laws
+
+[12th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English)
+
+> That Introduction and First Reading of Revised Bill No. 285 BE APPROVED.
+
+Voted **Nay** - Motion Passed (10 to 2)
+
+### 2026-07-21: By-laws
+
+[12th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English)
+
+> That Second Reading of Revised Bill No. 285 BE APPROVED.
+
+Voted **Nay** - Motion Passed (10 to 2)
+
+### 2026-07-21: By-laws
+
+[12th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English)
+
+> That Third Reading and Enactment of Revised Bill No. 285 BE APPROVED.
+
+Voted **Nay** - Motion Passed (10 to 2)
 
 ### 2026-07-13: Proposed Winter Response for 2026-2027
 
@@ -172,45 +196,23 @@ Voted **Nay** - Motion Passed (10 to 3)
 
 Voted **Nay** - Motion Passed (9 to 4)
 
-### 2026-06-23: By-laws
-
-[11th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=948470cd-fe8f-491c-afab-0012197b9009&Agenda=PostMinutes&lang=English)
-
-> That Introduction and First Reading of Bill No. 259 BE APPROVED.
-
-Voted **Nay** - Motion Passed (8 to 3)
-
-### 2026-06-23: By-laws
-
-[11th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=948470cd-fe8f-491c-afab-0012197b9009&Agenda=PostMinutes&lang=English)
-
-> That Second Reading of Bill No. 259 BE APPROVED.
-
-Voted **Nay** - Motion Passed (8 to 3)
-
-### 2026-06-23: By-laws
-
-[11th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=948470cd-fe8f-491c-afab-0012197b9009&Agenda=PostMinutes&lang=English)
-
-> That Third Reading and Enactment of Bill No. 259 BE APPROVED.
-
-Voted **Nay** - Motion Passed (8 to 3)
-
 
 ## Committees Served
 
-- [Corporate Services Committee](/committees/corporate-services)
-- [Planning and Environment Committee](/committees/planning-environment)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [City Council](/committees/city-council)
+- [Corporate Services Committee](/committees/corporate-services)
+- [Planning and Environment Committee](/committees/planning-environment)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Budget Committee](/committees/budget)
 - [Audit Committee](/committees/audit)
 - [Civic Works Committee](/committees/civic-works)
 - [Community Protective Services Committee](/committees/community-protective-services-committee)
 
-## Recent Meetings (249 total)
+## Recent Meetings (251 total)
 
+- [12th Meeting of the Community and Protective Services Committee](</months/2026-08/2026-08-10 12th Meeting of the Community and Protective Services Committee>) - Mon Aug 10 2026
+- [12th Meeting of Council](</months/2026-07/2026-07-21 12th Meeting of Council>) - Tue Jul 21 2026
 - [12th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-07/2026-07-15 12th Meeting of the Infrastructure and Corporate Services Committee>) - Wed Jul 15 2026
 - [The 11th Meeting of the Planning and Environment Committee](</months/2026-07/2026-07-14 The 11th Meeting of the Planning and Environment Committee>) - Tue Jul 14 2026
 - [11th Meeting of the Community and Protective Services Committee](</months/2026-07/2026-07-13 11th Meeting of the Community and Protective Services Committee>) - Mon Jul 13 2026
@@ -219,5 +221,3 @@ Voted **Nay** - Motion Passed (8 to 3)
 - [10th Special Meeting of the Community and Protective Services Committee](</months/2026-06/2026-06-16 10th Special Meeting of the Community and Protective Services Committee>) - Tue Jun 16 2026
 - [8th Meeting of the Strategic Priorities and Policy Committee](</months/2026-06/2026-06-16 8th Meeting of the Strategic Priorities and Policy Committee>) - Tue Jun 16 2026
 - [9th Meeting of the Community and Protective Services Committee](</months/2026-06/2026-06-08 9th Meeting of the Community and Protective Services Committee>) - Mon Jun 8 2026
-- [9th Meeting of Council](</months/2026-06/2026-06-02 9th Meeting of Council>) - Tue Jun 2 2026
-- [7th Meeting of the Strategic Priorities and Policy Committee](</months/2026-05/2026-05-28 7th Meeting of the Strategic Priorities and Policy Committee>) - Thu May 28 2026
