@@ -86,9 +86,21 @@ export default (() => {
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
 
-        {/* Supabase config for watchlist sync & user accounts */}
-        <meta name="supabase-url" content="https://befyylvlassopwiypasi.supabase.co" />
-        <meta name="supabase-anon-key" content="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJlZnl5bHZsYXNzb3B3aXlwYXNpIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzUyMzkwMDcsImV4cCI6MjA5MDgxNTAwN30.psWNY9SyEYR-2tFmdnoHN3zEcYth7S7TUFUvPYe7HmQ" />
+        {/* Supabase config for watchlist sync & user accounts.
+            Read from env vars at `quartz build` time (Vercel project env, or a
+            local .env picked up by dotenv in scripts/generate-pages.ts) rather
+            than committed to source — see supabase-client.ts's own comment
+            ("Config is injected at build time"), which this now actually does.
+            If unset, these tags are omitted entirely and the client-side code
+            already degrades gracefully to localStorage-only mode
+            (see supabase-client.ts: getSupabaseClient() returns null when
+            getConfig() finds no url/anonKey). */}
+        {process.env.SUPABASE_URL && process.env.SUPABASE_ANON_KEY && (
+          <>
+            <meta name="supabase-url" content={process.env.SUPABASE_URL} />
+            <meta name="supabase-anon-key" content={process.env.SUPABASE_ANON_KEY} />
+          </>
+        )}
 
         {css.map((resource) => CSSResourceToStyleElement(resource, true))}
         {js
