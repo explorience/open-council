@@ -1,14 +1,17 @@
 {
   "councillor": "A. Kayabaga",
   "slug": "a-kayabaga",
-  "generatedAt": "2026-08-22T07:10:22.803Z",
+  "generatedAt": "2026-08-22T18:14:45.162Z",
   "sourceHash": "95d4749710e3d0a0",
   "summary": {
     "totalMeetings": 169,
     "totalVotes": 2321,
     "yeas": 2073,
     "nays": 104,
-    "absent": 144
+    "absent": 117,
+    "recuse": 0,
+    "abstain": 0,
+    "other": 27
   },
   "votes": [
     {
@@ -4080,7 +4083,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Advisory Committees",
       "motionText": "Appointment to the Accessibility Advisory Committee",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -4094,7 +4097,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Advisory Committees",
       "motionText": "Appointment to the Accessibility Advisory Committee",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -4108,7 +4111,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Advisory Committees",
       "motionText": "Appointment to the Accessibility Advisory Committee",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -4122,7 +4125,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Advisory Committees",
       "motionText": "Appointment to the Accessibility Advisory Committee",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -4136,7 +4139,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Advisory Committees",
       "motionText": "Appointment to the Accessibility Advisory Committee - 2nd Ballot",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -4150,7 +4153,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Advisory Committees",
       "motionText": "Appointment to the Accessibility Advisory Committee - 2nd Ballot",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -4164,7 +4167,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Advisory Committees",
       "motionText": "Appointment to the Accessibility Advisory Committee - 2nd Ballot",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -4178,7 +4181,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Advisory Committees",
       "motionText": "Appointment to the Accessibility Advisory Committee - 2nd Ballot",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -4192,7 +4195,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Advisory Committees",
       "motionText": "Appointment to the Cycling Advisory Committee",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -4206,7 +4209,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Advisory Committees",
       "motionText": "Appointment to the Cycling Advisory Committee",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -4220,7 +4223,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Advisory Committees",
       "motionText": "Appointment to the Cycling Advisory Committee",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -4234,7 +4237,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Advisory Committees",
       "motionText": "Appointment to the Cycling Advisory Committee  - 2nd Ballot",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -4248,7 +4251,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Advisory Committees",
       "motionText": "Appointment to the Cycling Advisory Committee  - 2nd Ballot",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -4262,7 +4265,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Advisory Committees",
       "motionText": "Appointment to the Cycling Advisory Committee  - 2nd Ballot",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -4276,7 +4279,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Advisory Committees",
       "motionText": "Appointment to the Cycling Advisory Committee  - 2nd Ballot",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -4290,7 +4293,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Advisory Committees",
       "motionText": "Appointment to the Diversity, Inclusion and Anti-Oppression Advisory Committee",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Nour Al Farawi; Citlally Maciel; Krista Arnold; Melissa Allder; Wajdi Khouri; Beverley Madigan; Hetham Hani Jamel Abu Kakry",
       "passed": false,
       "unanimous": false
@@ -4304,7 +4307,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Advisory Committees",
       "motionText": "Appointment to the Diversity, Inclusion and Anti-Oppression Advisory Committee",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Nour Al Farawi; Citlally Maciel; Krista Arnold; Melissa Allder; Wajdi Khouri; Beverley Madigan; Hetham Hani Jamel Abu Kakry",
       "passed": false,
       "unanimous": false
@@ -4318,7 +4321,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Advisory Committees",
       "motionText": "Appointment to the Diversity, Inclusion and Anti-Oppression Advisory Committee",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Nour Al Farawi; Citlally Maciel; Krista Arnold; Melissa Allder; Wajdi Khouri; Beverley Madigan; Hetham Hani Jamel Abu Kakry",
       "passed": false,
       "unanimous": false
@@ -4332,7 +4335,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Advisory Committees",
       "motionText": "Appointment to the Diversity, Inclusion and Anti-Oppression Advisory Committee",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Nour Al Farawi; Citlally Maciel; Krista Arnold; Melissa Allder; Wajdi Khouri; Beverley Madigan; Hetham Hani Jamel Abu Kakry",
       "passed": false,
       "unanimous": false
@@ -4346,7 +4349,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Advisory Committees",
       "motionText": "Appointment to the Diversity, Inclusion and Anti-Oppression Advisory Committee",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Nour Al Farawi; Citlally Maciel; Krista Arnold; Melissa Allder; Wajdi Khouri; Beverley Madigan; Hetham Hani Jamel Abu Kakry",
       "passed": false,
       "unanimous": false
@@ -12046,7 +12049,7 @@
       "itemNumber": "4.3",
       "itemTitle": "Committee Appointment Preferences submitted by Council Members",
       "motionText": "Appointment of Chair to the Corporate Services Committee",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: M. Cassidy",
       "passed": false,
       "unanimous": false
@@ -13236,7 +13239,7 @@
       "itemNumber": "4.5",
       "itemTitle": "Resubmitting - Consideration of Appointment to the London Public Library Board (Requires 1 Member)",
       "motionText": "Appointment to the London Public Library Board - Round 1",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -13250,7 +13253,7 @@
       "itemNumber": "4.5",
       "itemTitle": "Resubmitting - Consideration of Appointment to the London Public Library Board (Requires 1 Member)",
       "motionText": "Appointment to the London Public Library Board - Round 2",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -13264,7 +13267,7 @@
       "itemNumber": "4.5",
       "itemTitle": "Resubmitting - Consideration of Appointment to the London Public Library Board (Requires 1 Member)",
       "motionText": "Appointment to the London Public Library Board - Round 3",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Chelsea Smith",
       "passed": false,
       "unanimous": false
@@ -26410,7 +26413,7 @@
       "itemNumber": "4.1",
       "itemTitle": "5th Report of the Governance Working Group",
       "motionText": "Selection Demonstration - ONE candidate to be selected",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -26424,7 +26427,7 @@
       "itemNumber": "4.1",
       "itemTitle": "5th Report of the Governance Working Group",
       "motionText": "Selection Demonstration - ONE candidate to be selected",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -26438,7 +26441,7 @@
       "itemNumber": "4.1",
       "itemTitle": "5th Report of the Governance Working Group",
       "motionText": "Selection Demonstration - ONE candidate to be selected",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Kiwi Fruit",
       "passed": false,
       "unanimous": false

@@ -93,7 +93,7 @@
     "totalVotes": 11192,
     "yeas": 9241,
     "nays": 573,
-    "absent": 1378,
+    "absent": 882,
     "participationRate": 87.68763402430308,
     "yeaRate": 94.16140207866313,
     "contestedDissentRate": 5.363006202116017,
@@ -108,7 +108,7 @@
     "totalBudgetVotes": 1416,
     "budgetYeas": 1220,
     "budgetNays": 184,
-    "budgetAbsent": 12
+    "budgetAbsent": 10
   },
   "topAlignments": [
     {

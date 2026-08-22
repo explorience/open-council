@@ -8,7 +8,10 @@ isCurrent: true
 totalVotes: 4018
 votesYea: 2889
 votesNay: 619
-votesAbsent: 510
+votesAbsent: 304
+votesRecused: 3
+votesAbstained: 0
+votesOther: 203
 attendanceRate: 89.0
 participationRate: 87.3
 yeaRate: 82.4
@@ -33,7 +36,12 @@ prefillQuestions:
 | Total Votes | 4,018 |
 | Voted Yea | 2,889 (71.9%) |
 | Voted Nay | 619 (15.4%) |
-| Absent | 510 (12.7%) |
+| Absent | 304 (7.6%) |
+| Recused (conflict of interest) | 3 (0.1%) |
+| Abstained | 0 (0.0%) |
+| Other/Unrecorded | 203 (5.1%) |
+
+*Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
 
 
 ### Substantive Votes
@@ -219,7 +227,7 @@ Voted **Nay** - Motion Passed (10 to 2)
 - [The 11th Meeting of the Planning and Environment Committee](</months/2026-07/2026-07-14 The 11th Meeting of the Planning and Environment Committee>) - Tue Jul 14 2026
 - [11th Meeting of Council](</months/2026-06/2026-06-23 11th Meeting of Council>) - Tue Jun 23 2026
 - [The 10th Meeting of the Planning and Environment Committee](</months/2026-06/2026-06-22 The 10th Meeting of the Planning and Environment Committee>) - Mon Jun 22 2026
-- [10th Special Meeting of Council](</months/2026-06/2026-06-17 10th Special Meeting of Council>) - Wed Jun 17 2026
 - [3rd Meeting of the Audit Committee](</months/2026-06/2026-06-17 3rd Meeting of the Audit Committee>) - Wed Jun 17 2026
+- [10th Special Meeting of Council](</months/2026-06/2026-06-17 10th Special Meeting of Council>) - Wed Jun 17 2026
 - [8th Meeting of the Strategic Priorities and Policy Committee](</months/2026-06/2026-06-16 8th Meeting of the Strategic Priorities and Policy Committee>) - Tue Jun 16 2026
 - [11th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-06/2026-06-15 11th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Jun 15 2026

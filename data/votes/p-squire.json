@@ -1,14 +1,17 @@
 {
   "councillor": "P. Squire",
   "slug": "p-squire",
-  "generatedAt": "2026-08-22T07:10:22.755Z",
+  "generatedAt": "2026-08-22T18:14:38.429Z",
   "sourceHash": "95d4749710e3d0a0",
   "summary": {
     "totalMeetings": 391,
     "totalVotes": 6305,
     "yeas": 5871,
     "nays": 380,
-    "absent": 54
+    "absent": 29,
+    "recuse": 5,
+    "abstain": 0,
+    "other": 20
   },
   "votes": [
     {
@@ -90,7 +93,7 @@
       "itemNumber": "8.2.6",
       "itemTitle": "(3.3) 755-785 Wonderland Road South (Westmount Mall) (Z-9356)",
       "motionText": "That the application by McCOR Management Inc., relating to the property located at 755-785 Wonderland Road South (Westmount Mall) BE REFERRED back to the Civic Administration for further consultation with the applicant with respect to the permitted uses in the zone and how the applicant's request may be accommodated and to report back to a future public participation meeting of the Planning and Environment Committee; it being noted that the Planning and Environment Committee reviewed and receive",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (11 to 1)",
       "passed": true,
       "unanimous": false
@@ -636,7 +639,7 @@
       "itemNumber": "4.1",
       "itemTitle": "Consideration of Appointment to the London Transit Commission (Requires 1 Member)",
       "motionText": "Appointment of a Member to the London Transit Commission - 1st selection",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -650,7 +653,7 @@
       "itemNumber": "4.1",
       "itemTitle": "Consideration of Appointment to the London Transit Commission (Requires 1 Member)",
       "motionText": "Appointment of a Member to the London Transit Commission - 2nd selection",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -664,7 +667,7 @@
       "itemNumber": "4.1",
       "itemTitle": "Consideration of Appointment to the London Transit Commission (Requires 1 Member)",
       "motionText": "Appointment of a Member to the London Transit Commission - 3rd selection",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -678,7 +681,7 @@
       "itemNumber": "4.1",
       "itemTitle": "Consideration of Appointment to the London Transit Commission (Requires 1 Member)",
       "motionText": "Appointment of a Member to the London Transit Commission - 4th selection",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Stephanie Marentette",
       "passed": false,
       "unanimous": false
@@ -1364,7 +1367,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Downtown Business Improvement Association Appointment",
       "motionText": "Interim Appointment to the London Downtown Business Association",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: J. Helmer",
       "passed": false,
       "unanimous": false
@@ -2008,7 +2011,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the London & Middlesex Community Housing Board (Requires 1 Council Member)",
       "motionText": "Appointment of a Council Member to the London and Middlesex Community Housing Board",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: J. Morgan",
       "passed": false,
       "unanimous": false
@@ -3044,7 +3047,7 @@
       "itemNumber": "4.4",
       "itemTitle": "Consideration of Appointment to Eldon House (Requires 1 Voting Member)",
       "motionText": "Appointment to Eldon House Board of Directors",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Megan Halliday",
       "passed": false,
       "unanimous": false
@@ -10030,7 +10033,7 @@
       "itemNumber": "4.3",
       "itemTitle": "Committee Appointment Preferences submitted by Council Members",
       "motionText": "Appointment to the Planning and Environment Committee - Ballot #1",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: P. Squire; S. Hillier; S. Lehman; S. Lewis; A. Hopkins",
       "passed": false,
       "unanimous": false
@@ -10044,7 +10047,7 @@
       "itemNumber": "4.3",
       "itemTitle": "Committee Appointment Preferences submitted by Council Members",
       "motionText": "Appointment to the Planning and Environment Committee - Ballot #1",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: P. Squire; S. Hillier; S. Lehman; S. Lewis; A. Hopkins",
       "passed": false,
       "unanimous": false
@@ -10058,7 +10061,7 @@
       "itemNumber": "4.3",
       "itemTitle": "Committee Appointment Preferences submitted by Council Members",
       "motionText": "Appointment to the Planning and Environment Committee - Ballot #1",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: P. Squire; S. Hillier; S. Lehman; S. Lewis; A. Hopkins",
       "passed": false,
       "unanimous": false
@@ -10072,7 +10075,7 @@
       "itemNumber": "4.3",
       "itemTitle": "Committee Appointment Preferences submitted by Council Members",
       "motionText": "Appointment to the Planning and Environment Committee - Ballot #1",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: P. Squire; S. Hillier; S. Lehman; S. Lewis; A. Hopkins",
       "passed": false,
       "unanimous": false
@@ -10086,7 +10089,7 @@
       "itemNumber": "4.3",
       "itemTitle": "Committee Appointment Preferences submitted by Council Members",
       "motionText": "Appointment to the Planning and Environment Committee - Ballot #2",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Hopkins; Squire; Hillier; Lehman; Lewis",
       "passed": false,
       "unanimous": false
@@ -10100,7 +10103,7 @@
       "itemNumber": "4.3",
       "itemTitle": "Committee Appointment Preferences submitted by Council Members",
       "motionText": "Appointment to the Planning and Environment Committee - Ballot #2",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Hopkins; Squire; Hillier; Lehman; Lewis",
       "passed": false,
       "unanimous": false
@@ -10114,7 +10117,7 @@
       "itemNumber": "4.3",
       "itemTitle": "Committee Appointment Preferences submitted by Council Members",
       "motionText": "Appointment to the Planning and Environment Committee - Ballot #2",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Hopkins; Squire; Hillier; Lehman; Lewis",
       "passed": false,
       "unanimous": false
@@ -10128,7 +10131,7 @@
       "itemNumber": "4.3",
       "itemTitle": "Committee Appointment Preferences submitted by Council Members",
       "motionText": "Appointment to the Planning and Environment Committee - Ballot #2",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Hopkins; Squire; Hillier; Lehman; Lewis",
       "passed": false,
       "unanimous": false
@@ -10142,7 +10145,7 @@
       "itemNumber": "4.3",
       "itemTitle": "Committee Appointment Preferences submitted by Council Members",
       "motionText": "Appointment to the Planning and Environment Committee - Ballot #2",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Hopkins; Squire; Hillier; Lehman; Lewis",
       "passed": false,
       "unanimous": false
@@ -10940,7 +10943,7 @@
       "itemNumber": "4.5",
       "itemTitle": "Resubmitting - Consideration of Appointment to the London Public Library Board (Requires 1 Member)",
       "motionText": "Appointment to the London Public Library Board - Round 1",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -10954,7 +10957,7 @@
       "itemNumber": "4.5",
       "itemTitle": "Resubmitting - Consideration of Appointment to the London Public Library Board (Requires 1 Member)",
       "motionText": "Appointment to the London Public Library Board - Round 2",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -10968,7 +10971,7 @@
       "itemNumber": "4.5",
       "itemTitle": "Resubmitting - Consideration of Appointment to the London Public Library Board (Requires 1 Member)",
       "motionText": "Appointment to the London Public Library Board - Round 3",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Chelsea Smith",
       "passed": false,
       "unanimous": false
@@ -19788,7 +19791,7 @@
       "itemNumber": "4.1",
       "itemTitle": "5th Report of the Governance Working Group",
       "motionText": "Selection Demonstration - ONE candidate to be selected",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Kiwi Fruit",
       "passed": false,
       "unanimous": false
@@ -28608,7 +28611,7 @@
       "itemNumber": "8.4.11",
       "itemTitle": "(2.5) Application - 379 Sunningdale Road West - Sunninglea Subdivision - Special Provisions - 39T-16504",
       "motionText": "That, on the recommendation of the Manager, Development Planning, the following actions be taken with respect to entering into a Subdivision Agreement between The Corporation of the City of London and Sunningdale Golf and Country Club Ltd., for the  subdivision of land over Part of Lot 12, Registrar’s Compiled Plan 1028 and Part of Block 104, 33M-633, in the City of London, County of Middlesex, situated on the north side of Sunningdale Road West, between Richmond Street and Wonderland Road North",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (13 to 1)",
       "passed": true,
       "unanimous": false
@@ -29154,7 +29157,7 @@
       "itemNumber": "2.5",
       "itemTitle": "Application - 379 Sunningdale Road West - Sunninglea Subdivision - Special Provisions - 39T-16504 ",
       "motionText": "That, on the recommendation of the Manager, Development Planning, the following actions be taken with respect to entering into a Subdivision Agreement between The Corporation of the City of London and Sunningdale Golf and Country Club Ltd., for the  subdivision of land over Part of Lot 12, Registrar’s Compiled Plan 1028 and Part of Block 104, 33M-633, in the City of London, County of Middlesex, situated on the north side of Sunningdale Road West, between Richmond Street and Wonderland Road North",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (3 to 0)",
       "passed": true,
       "unanimous": true
@@ -31254,7 +31257,7 @@
       "itemNumber": "8.4.11",
       "itemTitle": "(2.1) Application - 800 Sunningale Road West - Request for a Three (3) Year Extension of Draft Plan of Subdivision Approval 39T-05508",
       "motionText": "That, on the recommendation of the Senior Planner, Development Services, the following actions be taken with respect to the request from Sunningdale Golf Club Limited, for the property located at 800 Sunningdale Road West: a)             the Approval Authority BE ADVISED that  the Municipal Council supports the granting of a three (3) year extension of the draft plan of subdivision, submitted by Sunningdale Golf Club Limited. (File No. 39T-05512), prepared by Whitney Engineering Inc., certified ",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (14 to 0)",
       "passed": true,
       "unanimous": true
@@ -31758,7 +31761,7 @@
       "itemNumber": "2.1",
       "itemTitle": "Application - 800 Sunningdale Road West - Request for a Three (3) Year Extension of Draft Plan of Subdivision Approval 39T-05508",
       "motionText": "That, on the recommendation of the Senior Planner, Development Services, the following actions be taken with respect to the request from Sunningdale Golf Club Limited, for the property located at 800 Sunningdale Road West: a)            the Approval Authority BE ADVISED that  the Municipal Council supports the granting of a three (3) year extension of the draft plan of subdivision, submitted by Sunningdale Golf Club Limited. (File No. 39T-05512), prepared by Whitney Engineering Inc., certified b",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (4 to 0)",
       "passed": true,
       "unanimous": true

@@ -1,14 +1,17 @@
 {
   "councillor": "B. Armstrong",
   "slug": "b-armstrong",
-  "generatedAt": "2026-08-22T07:10:22.830Z",
+  "generatedAt": "2026-08-22T18:14:48.189Z",
   "sourceHash": "95d4749710e3d0a0",
   "summary": {
     "totalMeetings": 312,
     "totalVotes": 4434,
     "yeas": 4089,
     "nays": 298,
-    "absent": 47
+    "absent": 47,
+    "recuse": 0,
+    "abstain": 0,
+    "other": 0
   },
   "votes": [
     {

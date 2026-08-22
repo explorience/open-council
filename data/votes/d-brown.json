@@ -1,14 +1,17 @@
 {
   "councillor": "D. Brown",
   "slug": "d-brown",
-  "generatedAt": "2026-08-22T07:10:22.972Z",
+  "generatedAt": "2026-08-22T18:15:17.947Z",
   "sourceHash": "95d4749710e3d0a0",
   "summary": {
     "totalMeetings": 118,
     "totalVotes": 2048,
     "yeas": 1851,
     "nays": 197,
-    "absent": 0
+    "absent": 0,
+    "recuse": 0,
+    "abstain": 0,
+    "other": 0
   },
   "votes": [
     {

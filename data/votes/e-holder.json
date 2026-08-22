@@ -1,14 +1,17 @@
 {
   "councillor": "E. Holder",
   "slug": "e-holder",
-  "generatedAt": "2026-08-22T07:10:22.612Z",
+  "generatedAt": "2026-08-22T18:14:17.416Z",
   "sourceHash": "95d4749710e3d0a0",
   "summary": {
     "totalMeetings": 318,
     "totalVotes": 4268,
     "yeas": 3222,
     "nays": 126,
-    "absent": 920
+    "absent": 857,
+    "recuse": 36,
+    "abstain": 0,
+    "other": 27
   },
   "votes": [
     {
@@ -4934,7 +4937,7 @@
       "itemNumber": "4.1",
       "itemTitle": "Consideration of Appointment to the Ecological Community Advisory Committee (Requires up to 2 Members)",
       "motionText": "Appointment to the Ecological Community Advisory Committee",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Patricia Almost; Girish Sankar",
       "passed": false,
       "unanimous": false
@@ -8770,7 +8773,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Resubmitting - London Public Library Board Vacancy",
       "motionText": "Appointment to the London Public Library Board",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -8784,7 +8787,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Resubmitting - London Public Library Board Vacancy",
       "motionText": "Appointment to the London Public Library Board",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Scott Andrew Collyer",
       "passed": false,
       "unanimous": false
@@ -10898,7 +10901,7 @@
       "itemNumber": "4.1",
       "itemTitle": "(ADDED) - REVISED - Committee Appointment Preferences submitted by Council Members",
       "motionText": "Appointment to the Planning and Environment Committee",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Councillor S. Lehman; Councillor S. Lewis; Councillor A. Hopkins; Councillor S. Hillier; Councillor S. Turner",
       "passed": false,
       "unanimous": false
@@ -10912,7 +10915,7 @@
       "itemNumber": "4.1",
       "itemTitle": "(ADDED) - REVISED - Committee Appointment Preferences submitted by Council Members",
       "motionText": "Appointment to the Planning and Environment Committee",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Councillor S. Lehman; Councillor S. Lewis; Councillor A. Hopkins; Councillor S. Hillier; Councillor S. Turner",
       "passed": false,
       "unanimous": false
@@ -10926,7 +10929,7 @@
       "itemNumber": "4.1",
       "itemTitle": "(ADDED) - REVISED - Committee Appointment Preferences submitted by Council Members",
       "motionText": "Appointment to the Planning and Environment Committee",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Councillor S. Lehman; Councillor S. Lewis; Councillor A. Hopkins; Councillor S. Hillier; Councillor S. Turner",
       "passed": false,
       "unanimous": false
@@ -10940,7 +10943,7 @@
       "itemNumber": "4.1",
       "itemTitle": "(ADDED) - REVISED - Committee Appointment Preferences submitted by Council Members",
       "motionText": "Selection of Chair for the Civic Works Committee",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Councillor E. Peloza",
       "passed": false,
       "unanimous": false
@@ -11010,7 +11013,7 @@
       "itemNumber": "4.5",
       "itemTitle": "Consideration of Appointment to the Middlesex-London Health Unit Board of Directors (Requires 1 Council Member)",
       "motionText": "Councillor appointment to the Middlesex-London Health Unit",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Councillor Hamou",
       "passed": false,
       "unanimous": false
@@ -11416,7 +11419,7 @@
       "itemNumber": "3.6",
       "itemTitle": "512 McCormick Boulevard (Z-9374)",
       "motionText": "That, on the recommendation of the Director, Planning and Development, based on the application by Derek Panzer, relating to the property located at 512 McCormick Boulevard, the proposed by-law appended to the staff report dated November 1, 2021 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on November 16, 2021 to amend Zoning By-law No. Z.-1, (in conformity with the 1989 Official Plan), to change the zoning of the subject property FROM a Residential R1 (R1-6) Zone TO",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (4 to 0)",
       "passed": true,
       "unanimous": true
@@ -11976,7 +11979,7 @@
       "itemNumber": "8.3.10",
       "itemTitle": "(2.9) Waterloo and Piccadilly Area Traffic Study Recommendations ",
       "motionText": "That items 10 and 15 BE APPROVED: That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report dated June 22, 2021, related to the Waterloo and Piccadilly Area Traffic Study: a)        the above-noted staff report BE RECEIVED; b)        the Civic Administration BE DIRECTED to implement the improvements within the Piccadilly Area Neighbourhood as set out in Section 2.4 of the above-noted staff report; c)   ",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (12 to 0)",
       "passed": true,
       "unanimous": true
@@ -11990,7 +11993,7 @@
       "itemNumber": "8.3.15",
       "itemTitle": "(5.1) Deferred Matters List",
       "motionText": "That items 10 and 15 BE APPROVED: That the Civic Works Committee Deferred Matters List as at June 14, 2021, BE RECEIVED.",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (12 to 0)",
       "passed": true,
       "unanimous": true
@@ -12536,7 +12539,7 @@
       "itemNumber": "3.3",
       "itemTitle": "Not to be heard before 4:40 PM - London & Middlesex Community Housing - 2020 Annual General Meeting of the Shareholder Annual Resolutions",
       "motionText": "London City Council Member appointments (2) to the London & Middlesex Community Housing Board of Directors",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: P. Squire; M. van Holst",
       "passed": false,
       "unanimous": false
@@ -12550,7 +12553,7 @@
       "itemNumber": "3.3",
       "itemTitle": "Not to be heard before 4:40 PM - London & Middlesex Community Housing - 2020 Annual General Meeting of the Shareholder Annual Resolutions",
       "motionText": "London City Council Member appointments (2) to the London & Middlesex Community Housing Board of Directors",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: P. Squire; M. van Holst",
       "passed": false,
       "unanimous": false
@@ -12620,7 +12623,7 @@
       "itemNumber": "4.4",
       "itemTitle": "Consideration of Appointment to Eldon House (Requires 1 Voting Member)",
       "motionText": "Appointment to Eldon House Board of Directors",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Megan Halliday",
       "passed": false,
       "unanimous": false
@@ -12648,7 +12651,7 @@
       "itemNumber": "4.5",
       "itemTitle": "Consideration of Appointment to the Lower Thames Valley Conservation Authority (Requires 1 Voting Member)",
       "motionText": "Appointment to the Lower Thames Valley Conservation Authority",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: JJ Strybosch",
       "passed": false,
       "unanimous": false
@@ -13152,7 +13155,7 @@
       "itemNumber": "8.1.9",
       "itemTitle": "(5.1) Deferred Matters List",
       "motionText": "That the Civic Works Committee Deferred Matters List as at May 21, 2021, BE RECEIVED.",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (13 to 0)",
       "passed": true,
       "unanimous": true
@@ -15112,7 +15115,7 @@
       "itemNumber": "5.1",
       "itemTitle": "Deferred Matters List",
       "motionText": "That the Civic Works Committee Deferred Matters List as at May 3, 2021, BE RECEIVED.",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (5 to 0)",
       "passed": true,
       "unanimous": true
@@ -17058,7 +17061,7 @@
       "itemNumber": "8.2.22",
       "itemTitle": "(5.1) Deferred Matters List",
       "motionText": "That the Civic Works Committee Deferred Matters List, as at March 22, 2021, BE RECEIVED.",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (14 to 0)",
       "passed": true,
       "unanimous": true
@@ -17772,7 +17775,7 @@
       "itemNumber": "5.1",
       "itemTitle": "Deferred Matters List",
       "motionText": "That the Civic Works Committee Deferred Matters List, as at March 22, 2021, BE RECEIVED.",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (3 to 0)",
       "passed": true,
       "unanimous": true
@@ -18822,7 +18825,7 @@
       "itemNumber": "8.1.17",
       "itemTitle": "(5.1) Deferred Matters List",
       "motionText": "That the Civic Works Committee Deferred Matters List, as at February 22, 2021, BE RECEIVED.",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (14 to 0)",
       "passed": true,
       "unanimous": true
@@ -19508,7 +19511,7 @@
       "itemNumber": "5.1",
       "itemTitle": "Deferred Matters List",
       "motionText": "That the Civic Works Committee Deferred Matters List, as at February 22, 2021, BE RECEIVED.",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (5 to 0)",
       "passed": true,
       "unanimous": true
@@ -20628,7 +20631,7 @@
       "itemNumber": "8.4.16",
       "itemTitle": "(5.1) Deferred Matters List",
       "motionText": "That the Civic Works Committee Deferred Matters List, as at February 1, 2021, BE RECEIVED.",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (13 to 0)",
       "passed": true,
       "unanimous": true
@@ -21622,7 +21625,7 @@
       "itemNumber": "8.3.13",
       "itemTitle": "(5.1) Deferred Matters List",
       "motionText": "That the Civic Works Committee Deferred Matters List, as at January 7, 2021, BE RECEIVED.",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (14 to 0)",
       "passed": true,
       "unanimous": true
@@ -22196,7 +22199,7 @@
       "itemNumber": "5.1",
       "itemTitle": "Deferred Matters List ",
       "motionText": "That the Civic Works Committee Deferred Matters List, as at January 7, 2021, BE RECEIVED.",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (5 to 0)",
       "passed": true,
       "unanimous": true
@@ -25934,7 +25937,7 @@
       "itemNumber": "8.2.10",
       "itemTitle": "(5.1) Deferred Matters List",
       "motionText": "That the Civic Works Committee Deferred Matters List, as at October 9, 2020, BE RECEIVED.",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (14 to 0)",
       "passed": true,
       "unanimous": true
@@ -26214,7 +26217,7 @@
       "itemNumber": "5.1",
       "itemTitle": "Deferred Matters List",
       "motionText": "That the Civic Works Committee Deferred Matters List, as at October 9, 2020, BE RECEIVED.",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (5 to 0)",
       "passed": true,
       "unanimous": true
@@ -26466,7 +26469,7 @@
       "itemNumber": "4.3",
       "itemTitle": "Committee Appointment Preferences submitted by Council Members",
       "motionText": "Appointment to the Planning and Environment Committee - Ballot #1",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: P. Squire; S. Hillier; S. Lehman; S. Lewis; A. Hopkins",
       "passed": false,
       "unanimous": false
@@ -26480,7 +26483,7 @@
       "itemNumber": "4.3",
       "itemTitle": "Committee Appointment Preferences submitted by Council Members",
       "motionText": "Appointment to the Planning and Environment Committee - Ballot #1",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: P. Squire; S. Hillier; S. Lehman; S. Lewis; A. Hopkins",
       "passed": false,
       "unanimous": false
@@ -26494,7 +26497,7 @@
       "itemNumber": "4.3",
       "itemTitle": "Committee Appointment Preferences submitted by Council Members",
       "motionText": "Appointment to the Planning and Environment Committee - Ballot #1",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: P. Squire; S. Hillier; S. Lehman; S. Lewis; A. Hopkins",
       "passed": false,
       "unanimous": false
@@ -26508,7 +26511,7 @@
       "itemNumber": "4.3",
       "itemTitle": "Committee Appointment Preferences submitted by Council Members",
       "motionText": "Appointment to the Planning and Environment Committee - Ballot #1",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: P. Squire; S. Hillier; S. Lehman; S. Lewis; A. Hopkins",
       "passed": false,
       "unanimous": false
@@ -26522,7 +26525,7 @@
       "itemNumber": "4.3",
       "itemTitle": "Committee Appointment Preferences submitted by Council Members",
       "motionText": "Appointment to the Planning and Environment Committee - Ballot #1",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: P. Squire; S. Hillier; S. Lehman; S. Lewis; A. Hopkins",
       "passed": false,
       "unanimous": false
@@ -26536,7 +26539,7 @@
       "itemNumber": "4.3",
       "itemTitle": "Committee Appointment Preferences submitted by Council Members",
       "motionText": "Appointment to the Planning and Environment Committee - Ballot #2",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Hopkins; Squire; Hillier; Lehman; Lewis",
       "passed": false,
       "unanimous": false
@@ -26550,7 +26553,7 @@
       "itemNumber": "4.3",
       "itemTitle": "Committee Appointment Preferences submitted by Council Members",
       "motionText": "Appointment to the Planning and Environment Committee - Ballot #2",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Hopkins; Squire; Hillier; Lehman; Lewis",
       "passed": false,
       "unanimous": false
@@ -26564,7 +26567,7 @@
       "itemNumber": "4.3",
       "itemTitle": "Committee Appointment Preferences submitted by Council Members",
       "motionText": "Appointment to the Planning and Environment Committee - Ballot #2",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Hopkins; Squire; Hillier; Lehman; Lewis",
       "passed": false,
       "unanimous": false
@@ -26578,7 +26581,7 @@
       "itemNumber": "4.3",
       "itemTitle": "Committee Appointment Preferences submitted by Council Members",
       "motionText": "Appointment to the Planning and Environment Committee - Ballot #2",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Hopkins; Squire; Hillier; Lehman; Lewis",
       "passed": false,
       "unanimous": false
@@ -26592,7 +26595,7 @@
       "itemNumber": "4.3",
       "itemTitle": "Committee Appointment Preferences submitted by Council Members",
       "motionText": "Appointment to the Planning and Environment Committee - Ballot #2",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Hopkins; Squire; Hillier; Lehman; Lewis",
       "passed": false,
       "unanimous": false
@@ -26648,7 +26651,7 @@
       "itemNumber": "4.3",
       "itemTitle": "Committee Appointment Preferences submitted by Council Members",
       "motionText": "Appointment of Chair to the Corporate Services Committee",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: M. Cassidy",
       "passed": false,
       "unanimous": false
@@ -28034,7 +28037,7 @@
       "itemNumber": "4.5",
       "itemTitle": "Resubmitting - Consideration of Appointment to the London Public Library Board (Requires 1 Member)",
       "motionText": "Appointment to the London Public Library Board - Round 1",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -28048,7 +28051,7 @@
       "itemNumber": "4.5",
       "itemTitle": "Resubmitting - Consideration of Appointment to the London Public Library Board (Requires 1 Member)",
       "motionText": "Appointment to the London Public Library Board - Round 3",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Chelsea Smith",
       "passed": false,
       "unanimous": false
@@ -29588,7 +29591,7 @@
       "itemNumber": "9.1",
       "itemTitle": "13th Report of Council in Closed Session ",
       "motionText": "- Execution of Collective Agreement for London Professional Fire Fighters Association – January 1, 2020 to December 31, 2024 That, as a procedural matter pursuant to Section 239 (6) of the Municipal Act, 2001, the following recommendation be forwarded to Council, In Closed Session, for the purpose of considering whether the recommendation should be forwarded to Council for deliberation and a vote in public session: That, on the recommendation of the Director, People Services, and with the concur",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (11 to 0)",
       "passed": true,
       "unanimous": true
@@ -29644,7 +29647,7 @@
       "itemNumber": "9.1",
       "itemTitle": "13th Report of Council in Closed Session ",
       "motionText": "That Introduction and First Reading of Added Bill No. 254 BE APPROVED.",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (11 to 0)",
       "passed": true,
       "unanimous": true
@@ -29658,7 +29661,7 @@
       "itemNumber": "9.1",
       "itemTitle": "13th Report of Council in Closed Session ",
       "motionText": "That Second Reading of Added Bill No. 254 BE APPROVED.",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (11 to 0)",
       "passed": true,
       "unanimous": true
@@ -29672,7 +29675,7 @@
       "itemNumber": "9.1",
       "itemTitle": "13th Report of Council in Closed Session ",
       "motionText": "That Third Reading and Enactment of Added Bill No. 254 BE APPROVED.",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (11 to 0)",
       "passed": true,
       "unanimous": true
@@ -30162,7 +30165,7 @@
       "itemNumber": "4.1",
       "itemTitle": "Request for Council Resolution, under section 45(1.4) of the Planning Act, R.S.O. 1990, c.P.13 – 745-747 Waterloo Street",
       "motionText": "That, the following actions be taken with respect to the property located at 745-747 Waterloo Street: a) on the recommendation of the City Clerk, the report dated August 10, 2020 and entitled “Request for Council Resolution, under section 45(1.4) of the Planning Act, 1990, c. P.13 - 745 - 747 Waterloo Street\" BE RECEIVED for information; and, b)  the request to accept a Minor Variance application for the purpose of amending the definition of Stacked Townhouse relating to the property located at ",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (3 to 0)",
       "passed": true,
       "unanimous": true
@@ -30176,7 +30179,7 @@
       "itemNumber": "4.1",
       "itemTitle": "Request for Council Resolution, under section 45(1.4) of the Planning Act, R.S.O. 1990, c.P.13 – 745-747 Waterloo Street",
       "motionText": "That M. Doornbosch BE GRANTED delegation status relating to the request for a minor variance application for the property located at 745-747 Waterloo Street.",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (3 to 0)",
       "passed": true,
       "unanimous": true
@@ -33116,7 +33119,7 @@
       "itemNumber": "8.1.7",
       "itemTitle": "(5.1) Deferred Matters List ",
       "motionText": "That the Deferred Matters List, as at May 15, 2020, BE RECEIVED.",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (14 to 0)",
       "passed": true,
       "unanimous": true
@@ -33326,7 +33329,7 @@
       "itemNumber": "5.1",
       "itemTitle": "Deferred Matters List",
       "motionText": "That Deferred Matters List, as at May 15, 2020, item #5 – 745-747 Waterloo Street, BE RECEIVED.",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (5 to 0)",
       "passed": true,
       "unanimous": true
@@ -33550,7 +33553,7 @@
       "itemNumber": "8.2.5",
       "itemTitle": "(5.1) Deferred Matters List",
       "motionText": "That the Deferred Matters List at May 4, 2020 BE APPROVED.",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (14 to 0)",
       "passed": true,
       "unanimous": true
@@ -33662,7 +33665,7 @@
       "itemNumber": "5.1",
       "itemTitle": "Deferred Matters List",
       "motionText": "That Deferred Matters List, as at May 4, 2020, item #5 – 745-747 Waterloo Street, BE APPROVED.",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (5 to 0)",
       "passed": true,
       "unanimous": true
@@ -34474,7 +34477,7 @@
       "itemNumber": "8.1.6",
       "itemTitle": "(5.1) New Licensing and Licensing Renewal Requirements",
       "motionText": "That the following actions be taken with respect to the payment of new licensing and licensing renewal requirements: a)     the Civic Administration BE DIRECTED to defer payment of the required licence fee for new applications for Food Premises business licences under the Business Licensing By-law L.-131-15, as amended, for three months from the date of the issuance of the licence; b)     the Civic Administration BE DIRECTED to defer payment of the required licensing renewal fee for Cab Drivers,",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (14 to 0)",
       "passed": true,
       "unanimous": true
@@ -34712,7 +34715,7 @@
       "itemNumber": "5.1",
       "itemTitle": "(ADDED) Councillor M. Salih - New Licensing and Licensing Renewal Requirements",
       "motionText": "Motion to approve part a), above.",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (5 to 0)",
       "passed": true,
       "unanimous": true
@@ -35510,7 +35513,7 @@
       "itemNumber": "8.1.16",
       "itemTitle": "(4.1) Cost Recovery for Fire Services - Third Party Cost Recovery - Fire Marque",
       "motionText": "That the Civic Administration BE DIRECTED to investigate and report back to a future meeting of the Community and Protective Services Committee in Q2 2020 with respect to opportunities for, and the viability of, cost recovery for fire-related responses through property owners’ insurance; it being noted that a communication, dated January 28, 2020, from Councillor E. Peloza, with respect to this matter, was received. (2020-P16/F21)",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Failed (5 to 9)",
       "passed": false,
       "unanimous": false
@@ -35748,7 +35751,7 @@
       "itemNumber": "8.5.9",
       "itemTitle": "(4.6) Protective Services",
       "motionText": "That the following actions be taken with respect to 4.6 - Protective Services, relating to Fire Services: a)     the net 2020-2023 Multi Year Operating Budget for the following service within Protective Services BE ADOPTED: iv.   Fire Services - $269,934,000 b)     the 2020-2023 Multi-Year Capital Budget for the following service within Protective Services BE ADOPTED: i.   B) Lifecycle Renewal Capital Budget, Fire Services - $10,377,0000 ii.  B) Growth Capital Budget, Fire Services - $6,183,000 ",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (14 to 0)",
       "passed": true,
       "unanimous": true
@@ -38198,7 +38201,7 @@
       "itemNumber": "4.6",
       "itemTitle": "Protective Services",
       "motionText": "a) the net 2020-2023 Multi-Year Operating Budget for the following services within Protective Services BE ADOPTED:\n\n\n\niv. Page 108 – Fire Services - $269,934,000",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (14 to 0)",
       "passed": true,
       "unanimous": true
@@ -38226,7 +38229,7 @@
       "itemNumber": "4.6",
       "itemTitle": "Protective Services",
       "motionText": "b) the 2020-2023 Multi-Year Capital Budget for Fire Services component BE ADOPTED: i. Page 110 – Lifecycle Renewal Capital Budget - $10,377,000\n\nii. Page 110 – Growth Capital Budget - $6,183,000\n\niii. Page 110 – Service Improvement Capital Budget - $4,503,000",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (13 to 1)",
       "passed": true,
       "unanimous": false
@@ -38254,7 +38257,7 @@
       "itemNumber": "4.6",
       "itemTitle": "Protective Services",
       "motionText": "c) the 2024-2029 Multi-Year Capital Forecast for Fire Services BE ADOPTED in principle: i. Page 110 – Lifecycle Renewal Capital Forecast - $23,994,000\n\nii. Page 110 – Growth Capital Forecast – $0\n\niii. Page 110 – Service Improvement Capital Forecast – $6,696,000",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (14 to 0)",
       "passed": true,
       "unanimous": true
@@ -41740,7 +41743,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Appointment to the Middlesex-London Health Unit Board of Directors (Requires 1 Member of Council)",
       "motionText": "Appointment to Middlesex-London Health Unit Board of Directors",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Councillor A. Kayabaga",
       "passed": false,
       "unanimous": false
@@ -42734,7 +42737,7 @@
       "itemNumber": "4.1",
       "itemTitle": "5th Report of the Governance Working Group",
       "motionText": "Selection Demonstration - ONE candidate to be selected",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -44554,7 +44557,7 @@
       "itemNumber": "9.1",
       "itemTitle": "17th Report of Council in Closed Session ",
       "motionText": "4. Managing Director, Neighbourhood, Children and Fire Services\n\nThat, on the recommendation of the Corporate Services Committee, on the advice of the City Manager, the following actions be taken with respect to the position of Managing Director, Neighbourhood, Children and Fire Services: a)      Cheryl Smith BE APPOINTED Managing Director, Neighbourhood, Children and Fire Services effective October 1, 2019 on a temporary basis for a period up to two years; and b)      the Civic Administration B",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (12 to 0)",
       "passed": true,
       "unanimous": true
@@ -44652,7 +44655,7 @@
       "itemNumber": "13",
       "itemTitle": "By-laws",
       "motionText": "That Introduction and First Reading of Bill No. 390 BE APPROVED.",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (12 to 0)",
       "passed": true,
       "unanimous": true
@@ -44666,7 +44669,7 @@
       "itemNumber": "13",
       "itemTitle": "By-laws",
       "motionText": "That Second Reading of Bill No. 390 BE APPROVED.",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (12 to 0)",
       "passed": true,
       "unanimous": true
@@ -44680,7 +44683,7 @@
       "itemNumber": "13",
       "itemTitle": "By-laws",
       "motionText": "That Third Reading and Enactment of Bill No. 390 BE APPROVED.",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (12 to 0)",
       "passed": true,
       "unanimous": true
@@ -47116,7 +47119,7 @@
       "itemNumber": "9.1",
       "itemTitle": "14th Report of Council In Closed Session",
       "motionText": "1.         London Professional Fire Fighters Association Tentative Agreement That, on the recommendation of the Acting Director of Human Resources the attached Memorandum of Agreement concerning the 2020-2024 Collective Agreement for London Professional Fire Fighters Association  (“LPFFA”) representing employees working in the Fire Department BE RATIFIED. It being noted that Mayor E. Holder disclosed a pecuniary interest in this matter, by indicating that his son-in-law is a member of the London",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (12 to 0)",
       "passed": true,
       "unanimous": true

@@ -1,14 +1,17 @@
 {
   "councillor": "S. White",
   "slug": "s-white",
-  "generatedAt": "2026-08-22T07:10:22.959Z",
+  "generatedAt": "2026-08-22T18:15:16.648Z",
   "sourceHash": "95d4749710e3d0a0",
   "summary": {
     "totalMeetings": 118,
     "totalVotes": 2282,
     "yeas": 2086,
     "nays": 196,
-    "absent": 0
+    "absent": 0,
+    "recuse": 0,
+    "abstain": 0,
+    "other": 0
   },
   "votes": [
     {

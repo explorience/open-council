@@ -1,14 +1,17 @@
 {
   "councillor": "J. Zaifman",
   "slug": "j-zaifman",
-  "generatedAt": "2026-08-22T07:10:22.904Z",
+  "generatedAt": "2026-08-22T18:15:08.972Z",
   "sourceHash": "95d4749710e3d0a0",
   "summary": {
     "totalMeetings": 139,
     "totalVotes": 1618,
     "yeas": 1533,
     "nays": 83,
-    "absent": 2
+    "absent": 1,
+    "recuse": 1,
+    "abstain": 0,
+    "other": 0
   },
   "votes": [
     {
@@ -20,7 +23,7 @@
       "itemNumber": "8.3.6",
       "itemTitle": "(2.5) Application - 660 Sunningdale Road East - Stormwater Management (SWM) Facility",
       "motionText": "That, on the recommendation of the Manager, Development Planning, the following actions be taken with respect to entering into an Agreement between The Corporation of the City of London and Peter Sergautis, for the subdivision of land over Part of Lot 13, Concession 6, (Geographic Township of London), City of London, County of Middlesex, situated on the west side of Adelaide Street North, between Sunningdale Road East and the City limits, municipally known as 660 Sunningdale Road East: a)       ",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (12 to 0)",
       "passed": true,
       "unanimous": true

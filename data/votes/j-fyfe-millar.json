@@ -1,14 +1,17 @@
 {
   "councillor": "J. Fyfe-Millar",
   "slug": "j-fyfe-millar",
-  "generatedAt": "2026-08-22T07:10:22.978Z",
+  "generatedAt": "2026-08-22T18:15:18.885Z",
   "sourceHash": "95d4749710e3d0a0",
   "summary": {
     "totalMeetings": 5,
     "totalVotes": 5,
     "yeas": 4,
     "nays": 0,
-    "absent": 1
+    "absent": 0,
+    "recuse": 0,
+    "abstain": 0,
+    "other": 1
   },
   "votes": [
     {
@@ -76,7 +79,7 @@
       "itemNumber": "4.1",
       "itemTitle": "Consideration of Filling of Ward 6 Vacancy",
       "motionText": "Appointment to Ward 6",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false

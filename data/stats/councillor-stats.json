@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T07:10:27.910Z",
+  "generatedAt": "2026-08-22T19:01:02.168Z",
   "councillorStats": {
     "j-morgan": {
       "councillor": "Josh Morgan",
@@ -96,7 +96,7 @@
         "totalVotes": 11192,
         "yeas": 9241,
         "nays": 573,
-        "absent": 1378,
+        "absent": 882,
         "participationRate": 87.68763402430308,
         "yeaRate": 94.16140207866313,
         "contestedDissentRate": 5.363006202116017,
@@ -111,7 +111,7 @@
         "totalBudgetVotes": 1416,
         "budgetYeas": 1220,
         "budgetNays": 184,
-        "budgetAbsent": 12
+        "budgetAbsent": 10
       },
       "topAlignments": [
         {
@@ -375,7 +375,7 @@
         "totalVotes": 3984,
         "yeas": 3198,
         "nays": 280,
-        "absent": 506,
+        "absent": 270,
         "participationRate": 87.29919678714859,
         "yeaRate": 91.94939620471536,
         "contestedDissentRate": 13.847203274215552,
@@ -671,7 +671,7 @@
         "totalVotes": 9439,
         "yeas": 8237,
         "nays": 516,
-        "absent": 686,
+        "absent": 243,
         "participationRate": 92.73228096196631,
         "yeaRate": 94.1048783274306,
         "contestedDissentRate": 10.67146282973621,
@@ -950,7 +950,7 @@
         "totalVotes": 4389,
         "yeas": 3706,
         "nays": 345,
-        "absent": 338,
+        "absent": 97,
         "participationRate": 92.2989291410344,
         "yeaRate": 91.4835843001728,
         "contestedDissentRate": 10.886571056062582,
@@ -1222,7 +1222,7 @@
         "totalVotes": 4018,
         "yeas": 2889,
         "nays": 619,
-        "absent": 510,
+        "absent": 304,
         "participationRate": 87.30711796913887,
         "yeaRate": 82.35461801596351,
         "contestedDissentRate": 37.70718232044199,
@@ -1494,7 +1494,7 @@
         "totalVotes": 3932,
         "yeas": 3359,
         "nays": 315,
-        "absent": 258,
+        "absent": 52,
         "participationRate": 93.4384537131231,
         "yeaRate": 91.42623843222646,
         "contestedDissentRate": 11.976819059884097,
@@ -1509,7 +1509,7 @@
         "totalBudgetVotes": 396,
         "budgetYeas": 309,
         "budgetNays": 82,
-        "budgetAbsent": 5
+        "budgetAbsent": 1
       },
       "topAlignments": [
         {
@@ -1759,7 +1759,7 @@
         "totalVotes": 3834,
         "yeas": 2806,
         "nays": 627,
-        "absent": 401,
+        "absent": 229,
         "participationRate": 89.54094940010432,
         "yeaRate": 81.73609088260996,
         "contestedDissentRate": 45.233265720081135,
@@ -2024,7 +2024,7 @@
         "totalVotes": 3755,
         "yeas": 3130,
         "nays": 368,
-        "absent": 257,
+        "absent": 47,
         "participationRate": 93.15579227696405,
         "yeaRate": 89.47970268724987,
         "contestedDissentRate": 17.536534446764094,
@@ -2327,7 +2327,7 @@
         "totalVotes": 7938,
         "yeas": 6840,
         "nays": 420,
-        "absent": 678,
+        "absent": 270,
         "participationRate": 91.45880574452003,
         "yeaRate": 94.21487603305785,
         "contestedDissentRate": 9.862892525431226,
@@ -2342,7 +2342,7 @@
         "totalBudgetVotes": 722,
         "budgetYeas": 588,
         "budgetNays": 112,
-        "budgetAbsent": 22
+        "budgetAbsent": 12
       },
       "topAlignments": [
         {
@@ -2633,7 +2633,7 @@
         "totalVotes": 9901,
         "yeas": 8584,
         "nays": 735,
-        "absent": 582,
+        "absent": 136,
         "participationRate": 94.12180587819412,
         "yeaRate": 92.11288764888937,
         "contestedDissentRate": 13.052089522677758,
@@ -2960,7 +2960,7 @@
         "totalVotes": 8876,
         "yeas": 6909,
         "nays": 1031,
-        "absent": 936,
+        "absent": 468,
         "participationRate": 89.45470932852636,
         "yeaRate": 87.01511335012594,
         "contestedDissentRate": 22.731755424063117,
@@ -2975,7 +2975,7 @@
         "totalBudgetVotes": 1362,
         "budgetYeas": 972,
         "budgetNays": 349,
-        "budgetAbsent": 41
+        "budgetAbsent": 25
       },
       "topAlignments": [
         {
@@ -3225,7 +3225,7 @@
         "totalVotes": 4095,
         "yeas": 3422,
         "nays": 336,
-        "absent": 337,
+        "absent": 155,
         "participationRate": 91.77045177045177,
         "yeaRate": 91.05907397551888,
         "contestedDissentRate": 22.810590631364562,
@@ -3514,7 +3514,7 @@
         "totalVotes": 7512,
         "yeas": 6063,
         "nays": 528,
-        "absent": 921,
+        "absent": 438,
         "participationRate": 87.73961661341852,
         "yeaRate": 91.98907601274465,
         "contestedDissentRate": 17.238095238095237,
@@ -3529,7 +3529,7 @@
         "totalBudgetVotes": 721,
         "budgetYeas": 573,
         "budgetNays": 117,
-        "budgetAbsent": 31
+        "budgetAbsent": 30
       },
       "topAlignments": [
         {
@@ -3793,7 +3793,7 @@
         "totalVotes": 3453,
         "yeas": 2744,
         "nays": 389,
-        "absent": 320,
+        "absent": 141,
         "participationRate": 90.7326962061975,
         "yeaRate": 87.58378550909671,
         "contestedDissentRate": 27.22063037249284,
@@ -4082,7 +4082,7 @@
         "totalVotes": 8199,
         "yeas": 7059,
         "nays": 505,
-        "absent": 635,
+        "absent": 368,
         "participationRate": 92.25515306744725,
         "yeaRate": 93.32363828662083,
         "contestedDissentRate": 15.342214056040424,
@@ -4347,7 +4347,7 @@
         "totalVotes": 4268,
         "yeas": 3222,
         "nays": 126,
-        "absent": 920,
+        "absent": 857,
         "participationRate": 78.44423617619493,
         "yeaRate": 96.23655913978494,
         "contestedDissentRate": 8.236808236808237,
@@ -4362,7 +4362,7 @@
         "totalBudgetVotes": 372,
         "budgetYeas": 317,
         "budgetNays": 25,
-        "budgetAbsent": 30
+        "budgetAbsent": 27
       },
       "topAlignments": [],
       "bottomAlignments": [],
@@ -4574,7 +4574,7 @@
         "totalVotes": 6938,
         "yeas": 6318,
         "nays": 288,
-        "absent": 332,
+        "absent": 69,
         "participationRate": 95.21475929662728,
         "yeaRate": 95.64032697547684,
         "contestedDissentRate": 6.575905471358849,
@@ -4801,7 +4801,7 @@
         "totalVotes": 5987,
         "yeas": 5142,
         "nays": 331,
-        "absent": 514,
+        "absent": 233,
         "participationRate": 91.41473191915817,
         "yeaRate": 93.95212863146355,
         "contestedDissentRate": 7.671315949060037,
@@ -4816,7 +4816,7 @@
         "totalBudgetVotes": 918,
         "budgetYeas": 822,
         "budgetNays": 90,
-        "budgetAbsent": 6
+        "budgetAbsent": 2
       },
       "topAlignments": [],
       "bottomAlignments": [],
@@ -5007,7 +5007,7 @@
         "totalVotes": 9292,
         "yeas": 8450,
         "nays": 496,
-        "absent": 346,
+        "absent": 38,
         "participationRate": 96.2763667671115,
         "yeaRate": 94.4556226246367,
         "contestedDissentRate": 8.209785025945145,
@@ -5022,7 +5022,7 @@
         "totalBudgetVotes": 1016,
         "budgetYeas": 893,
         "budgetNays": 103,
-        "budgetAbsent": 20
+        "budgetAbsent": 1
       },
       "topAlignments": [],
       "bottomAlignments": [],
@@ -5234,7 +5234,7 @@
         "totalVotes": 8516,
         "yeas": 7864,
         "nays": 330,
-        "absent": 322,
+        "absent": 68,
         "participationRate": 96.2188821042743,
         "yeaRate": 95.9726629240908,
         "contestedDissentRate": 4.535996670828132,
@@ -5455,7 +5455,7 @@
         "totalVotes": 6305,
         "yeas": 5871,
         "nays": 380,
-        "absent": 54,
+        "absent": 29,
         "participationRate": 99.14353687549564,
         "yeaRate": 93.9209726443769,
         "contestedDissentRate": 6.8084089823220255,
@@ -5675,7 +5675,7 @@
         "totalVotes": 5767,
         "yeas": 4955,
         "nays": 316,
-        "absent": 496,
+        "absent": 107,
         "participationRate": 91.39934107855038,
         "yeaRate": 94.00493265035098,
         "contestedDissentRate": 7.591036414565826,
@@ -5690,7 +5690,7 @@
         "totalBudgetVotes": 725,
         "budgetYeas": 608,
         "budgetNays": 83,
-        "budgetAbsent": 34
+        "budgetAbsent": 13
       },
       "topAlignments": [],
       "bottomAlignments": [],
@@ -5858,7 +5858,7 @@
         "totalVotes": 2321,
         "yeas": 2073,
         "nays": 104,
-        "absent": 144,
+        "absent": 117,
         "participationRate": 93.79577768203362,
         "yeaRate": 95.22278364722095,
         "contestedDissentRate": 16.901408450704224,
@@ -6494,7 +6494,7 @@
         "totalVotes": 6520,
         "yeas": 6043,
         "nays": 445,
-        "absent": 32,
+        "absent": 26,
         "participationRate": 99.50920245398774,
         "yeaRate": 93.14118372379778,
         "contestedDissentRate": 5.558288243974422,
@@ -6697,7 +6697,7 @@
         "totalVotes": 3477,
         "yeas": 3290,
         "nays": 124,
-        "absent": 63,
+        "absent": 57,
         "participationRate": 98.18809318377913,
         "yeaRate": 96.36789689513768,
         "contestedDissentRate": 3.7122207621550594,
@@ -7107,7 +7107,7 @@
         "totalVotes": 3563,
         "yeas": 3395,
         "nays": 148,
-        "absent": 20,
+        "absent": 11,
         "participationRate": 99.4386752736458,
         "yeaRate": 95.82274908269828,
         "contestedDissentRate": 3.1231925968768075,
@@ -7122,7 +7122,7 @@
         "totalBudgetVotes": 591,
         "budgetYeas": 550,
         "budgetNays": 40,
-        "budgetAbsent": 1
+        "budgetAbsent": 0
       },
       "topAlignments": [],
       "bottomAlignments": [],
@@ -7310,7 +7310,7 @@
         "totalVotes": 1618,
         "yeas": 1533,
         "nays": 83,
-        "absent": 2,
+        "absent": 1,
         "participationRate": 99.87639060568603,
         "yeaRate": 94.86386138613861,
         "contestedDissentRate": 3.4854245880861847,
@@ -9332,7 +9332,7 @@
         "totalVotes": 5,
         "yeas": 0,
         "nays": 3,
-        "absent": 2,
+        "absent": 0,
         "participationRate": 60,
         "yeaRate": 0,
         "contestedDissentRate": 100,
@@ -9433,7 +9433,7 @@
         "totalVotes": 5,
         "yeas": 4,
         "nays": 0,
-        "absent": 1,
+        "absent": 0,
         "participationRate": 80,
         "yeaRate": 100,
         "contestedDissentRate": 0,

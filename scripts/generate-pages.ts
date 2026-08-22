@@ -18,13 +18,22 @@ import {
   extractCouncillors,
   type Meeting,
 } from "../lib/councillors/index.js"
+import { dedupePlaceholderMeetings, isPlaceholderMeeting } from "../lib/meetings/dedupe-placeholders.js"
 
 // Vote stats interface
 interface VoteStats {
   totalVotes: number
   yeas: number
   nays: number
+  // True no-shows only. Recusals (pecuniary-interest conflicts) and
+  // abstentions are tracked separately below - never folded into this
+  // number. See lib/votes/vote-type.ts.
   absent: number
+  // Optional for backward compatibility with vote files generated before
+  // this fix; render as 0 when missing rather than crashing.
+  recuse?: number
+  abstain?: number
+  other?: number
 }
 
 // Attendance trend period
@@ -217,9 +226,16 @@ function extractCommittee(title: string): { name: string; slug: string } | null 
 
 // Note: normalizeCouncillorName and extractCouncillors are imported from lib/councillors
 
+// Meeting as scanned from disk, plus whether it's a stub placeholder page
+// (minutes not yet published) - used only to dedupe against a real sibling
+// meeting for the same date+committee. See lib/meetings/dedupe-placeholders.ts.
+interface ScannedMeeting extends Meeting {
+  isPlaceholder: boolean
+}
+
 // Scan all meeting files (now in months/ subfolder)
 async function scanMeetings(contentDir: string): Promise<Meeting[]> {
-  const meetings: Meeting[] = []
+  const meetings: ScannedMeeting[] = []
 
   // Meetings are now in content/months/YYYY-MM/ folders
   const monthsDir = path.join(contentDir, "months")
@@ -281,11 +297,21 @@ async function scanMeetings(contentDir: string): Promise<Meeting[]> {
         committeeSlug: committee.slug,
         councillors,
         filePath,
+        isPlaceholder: isPlaceholderMeeting(frontmatter, content),
       })
     }
   }
 
-  return meetings.sort((a, b) => {
+  // Drop stale "minutes not yet published" placeholder pages that now have
+  // a real, minutes-published sibling for the same date+committee (Bug 2:
+  // duplicate placeholder pages). Meetings that are STILL genuinely
+  // pending (no real sibling yet) are left untouched.
+  const { kept, suppressedCount } = dedupePlaceholderMeetings(meetings)
+  if (suppressedCount > 0) {
+    console.log(`   🧹 Suppressed ${suppressedCount} stale placeholder meeting page(s) with a published sibling`)
+  }
+
+  return kept.sort((a, b) => {
     const dateA = getISODate(a.date)
     const dateB = getISODate(b.date)
     return dateB.localeCompare(dateA) // ISO dates sort correctly lexicographically
@@ -487,7 +513,10 @@ function generateCouncillorPage(
 totalVotes: ${voteStats.totalVotes}
 votesYea: ${voteStats.yeas}
 votesNay: ${voteStats.nays}
-votesAbsent: ${voteStats.absent}` : ""
+votesAbsent: ${voteStats.absent}
+votesRecused: ${voteStats.recuse ?? 0}
+votesAbstained: ${voteStats.abstain ?? 0}
+votesOther: ${voteStats.other ?? 0}` : ""
 
   // Stats frontmatter
   const contestedDissentFrontmatter = stats?.voting.contestedDissentRate !== undefined
@@ -545,19 +574,36 @@ yeaRate: ${stats.voting.yeaRate.toFixed(1)}${contestedDissentFrontmatter}` : ""
 
 ` : ""
 
-  const votingSection = voteStats ? `
+  const votingSection = voteStats ? (() => {
+    const total = voteStats.totalVotes
+    const pct = (n: number) => total > 0 ? ((n / total) * 100).toFixed(1) : "0.0"
+    const recuse = voteStats.recuse ?? 0
+    const abstain = voteStats.abstain ?? 0
+    const other = voteStats.other ?? 0
+
+    // "Other" is scraper/data-quality overflow (unrecognized raw vote
+    // labels), not a real civic category - only show the row when it's
+    // actually present, so it stays visible without cluttering every page.
+    const otherRow = other > 0 ? `| Other/Unrecorded | ${other.toLocaleString()} (${pct(other)}%) |\n` : ""
+
+    return `
 ## Voting Record
 
 ### All Votes
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | ${voteStats.totalVotes.toLocaleString()} |
-| Voted Yea | ${voteStats.yeas.toLocaleString()} (${((voteStats.yeas / voteStats.totalVotes) * 100).toFixed(1)}%) |
-| Voted Nay | ${voteStats.nays.toLocaleString()} (${((voteStats.nays / voteStats.totalVotes) * 100).toFixed(1)}%) |
-| Absent | ${voteStats.absent.toLocaleString()} (${((voteStats.absent / voteStats.totalVotes) * 100).toFixed(1)}%) |
+| Total Votes | ${total.toLocaleString()} |
+| Voted Yea | ${voteStats.yeas.toLocaleString()} (${pct(voteStats.yeas)}%) |
+| Voted Nay | ${voteStats.nays.toLocaleString()} (${pct(voteStats.nays)}%) |
+| Absent | ${voteStats.absent.toLocaleString()} (${pct(voteStats.absent)}%) |
+| Recused (conflict of interest) | ${recuse.toLocaleString()} (${pct(recuse)}%) |
+| Abstained | ${abstain.toLocaleString()} (${pct(abstain)}%) |
+${otherRow}
+*Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
 
-${substantiveSection}${contestedDissentSection}${budgetVotingSection}` : ""
+${substantiveSection}${contestedDissentSection}${budgetVotingSection}`
+  })() : ""
 
   // Attendance section with trend
   const getTrendIndicator = (direction: string | undefined): string => {

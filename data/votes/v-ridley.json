@@ -1,14 +1,17 @@
 {
   "councillor": "V. Ridley",
   "slug": "v-ridley",
-  "generatedAt": "2026-08-22T07:10:22.864Z",
+  "generatedAt": "2026-08-22T18:14:54.936Z",
   "sourceHash": "95d4749710e3d0a0",
   "summary": {
     "totalMeetings": 254,
     "totalVotes": 3477,
     "yeas": 3290,
     "nays": 124,
-    "absent": 63
+    "absent": 57,
+    "recuse": 6,
+    "abstain": 0,
+    "other": 0
   },
   "votes": [
     {
@@ -1084,7 +1087,7 @@
       "itemNumber": "2.12",
       "itemTitle": "Business Case - Switching to Compressed Natural Gas (CNG) Waste Collection Vehicles",
       "motionText": "That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the following actions be taken with respect to switching to compressed natural gas (CNG) Waste Collection Vehicles: a)    the Civic Administration BE AUTHORIZED to proceed with the Compressed Natural Gas (CNG) vehicle switching project by purchasing CNG waste collection vehicles as per the vehicle replacement schedule; b)    the Civic Administration BE AUTHORIZED to negotiate a CNG pur",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (3 to 0)",
       "passed": true,
       "unanimous": true
@@ -1378,7 +1381,7 @@
       "itemNumber": "8.2.12",
       "itemTitle": "(3.2) 147-149 Wellington Street - 253 and 257 Grey Street (Z-8905)",
       "motionText": "That, the following actions be taken with respect to the application of JAM Properties Inc., relating to the properties located at 147-149 Wellington Street and 253-257 Grey Street: a)          the comments received from the public during the public engagement process appended to the staff report dated September 10, 2018 as Appendix “A”, BE RECEIVED; b)          Planning staff BE DIRECTED to make the necessary arrangements to hold a future public participation meeting regarding the above-noted a",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (9 to 0)",
       "passed": true,
       "unanimous": true
@@ -1910,7 +1913,7 @@
       "itemNumber": "9.1",
       "itemTitle": "15th Report of Council in Closed Session",
       "motionText": "2.         Property Acquisition – 32 Wellington Road – Bus Rapid Transit Project That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, with the concurrence of the Managing Director of Environmental and Engineering Services and City Engineer and the Project Director, Rapid Transit Implementation, and on the advice of the Manager of Realty Services, the following actions be taken with respect to the property located at 32 Wellington R",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (11 to 0)",
       "passed": true,
       "unanimous": true
@@ -2008,7 +2011,7 @@
       "itemNumber": "13",
       "itemTitle": "By-laws",
       "motionText": "That Introduction and First Reading of Added Bill No.’s 542 and 543, BE APPROVED.",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (11 to 0)",
       "passed": true,
       "unanimous": true
@@ -2022,7 +2025,7 @@
       "itemNumber": "13",
       "itemTitle": "By-laws",
       "motionText": "That Second Reading of Bill No.’s 542 and 543, BE APPROVED.",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (11 to 0)",
       "passed": true,
       "unanimous": true
@@ -2036,7 +2039,7 @@
       "itemNumber": "13",
       "itemTitle": "By-laws",
       "motionText": "That Third Reading and Enactment of Bill No.’s 542 and 543, BE APPROVED.",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (11 to 0)",
       "passed": true,
       "unanimous": true

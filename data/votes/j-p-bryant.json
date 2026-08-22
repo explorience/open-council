@@ -1,14 +1,17 @@
 {
   "councillor": "J.P. Bryant",
   "slug": "j-p-bryant",
-  "generatedAt": "2026-08-22T07:10:22.966Z",
+  "generatedAt": "2026-08-22T18:15:17.226Z",
   "sourceHash": "95d4749710e3d0a0",
   "summary": {
     "totalMeetings": 141,
     "totalVotes": 2215,
     "yeas": 2024,
     "nays": 191,
-    "absent": 0
+    "absent": 0,
+    "recuse": 0,
+    "abstain": 0,
+    "other": 0
   },
   "votes": [
     {

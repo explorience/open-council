@@ -1,14 +1,17 @@
 {
   "councillor": "J.L. Baechler",
   "slug": "j-l-baechler",
-  "generatedAt": "2026-08-22T07:10:22.931Z",
+  "generatedAt": "2026-08-22T18:15:14.295Z",
   "sourceHash": "95d4749710e3d0a0",
   "summary": {
     "totalMeetings": 142,
     "totalVotes": 2640,
     "yeas": 2432,
     "nays": 208,
-    "absent": 0
+    "absent": 0,
+    "recuse": 0,
+    "abstain": 0,
+    "other": 0
   },
   "votes": [
     {
