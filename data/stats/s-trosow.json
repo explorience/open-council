@@ -2,11 +2,11 @@
   "councillor": "Sam Trosow",
   "slug": "s-trosow",
   "attendance": {
-    "totalMeetings": 238,
-    "present": 229,
+    "totalMeetings": 240,
+    "present": 231,
     "absent": 9,
     "remote": 0,
-    "attendanceRate": 96.21848739495799,
+    "attendanceRate": 96.25,
     "trend": [
       {
         "period": "2022",
@@ -35,196 +35,196 @@
       {
         "period": "2026",
         "attendanceRate": 100,
-        "meetingsAttended": 23,
-        "meetingsTotal": 23
+        "meetingsAttended": 25,
+        "meetingsTotal": 25
       }
     ],
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 3774,
-    "yeas": 2762,
-    "nays": 611,
+    "totalVotes": 3834,
+    "yeas": 2806,
+    "nays": 627,
     "absent": 401,
-    "participationRate": 89.3746687864335,
-    "yeaRate": 81.88556181440853,
-    "contestedDissentRate": 45.0655624568668,
-    "contestedVotes": 1449,
-    "substantiveVotes": 2386,
-    "substantiveYeas": 1715,
-    "substantiveNays": 406,
-    "substantiveParticipationRate": 88.89354568315171,
-    "substantiveYeaRate": 80.85808580858085
+    "participationRate": 89.54094940010432,
+    "yeaRate": 81.73609088260996,
+    "contestedDissentRate": 45.233265720081135,
+    "contestedVotes": 1479,
+    "substantiveVotes": 2420,
+    "substantiveYeas": 1741,
+    "substantiveNays": 414,
+    "substantiveParticipationRate": 89.0495867768595,
+    "substantiveYeaRate": 80.78886310904872
   },
   "budgetVoting": {
-    "totalBudgetVotes": 385,
-    "budgetYeas": 291,
+    "totalBudgetVotes": 386,
+    "budgetYeas": 292,
     "budgetNays": 85,
     "budgetAbsent": 9
   },
   "topAlignments": [
     {
       "councillor": "Anna Hopkins",
-      "sharedVotes": 1533,
-      "agreedVotes": 1424,
-      "alignmentRate": 92.8897586431833
+      "sharedVotes": 1560,
+      "agreedVotes": 1448,
+      "alignmentRate": 92.82051282051282
     },
     {
       "councillor": "David Ferreira",
-      "sharedVotes": 1468,
-      "agreedVotes": 1339,
-      "alignmentRate": 91.21253405994551
+      "sharedVotes": 1493,
+      "agreedVotes": 1362,
+      "alignmentRate": 91.22572002679169
     },
     {
       "councillor": "Skylar Franke",
-      "sharedVotes": 1423,
-      "agreedVotes": 1286,
-      "alignmentRate": 90.37245256500351
+      "sharedVotes": 1443,
+      "agreedVotes": 1300,
+      "alignmentRate": 90.09009009009009
     },
     {
       "councillor": "Hadleigh McAlister",
-      "sharedVotes": 1596,
-      "agreedVotes": 1427,
-      "alignmentRate": 89.41102756892231
+      "sharedVotes": 1619,
+      "agreedVotes": 1445,
+      "alignmentRate": 89.25262507720817
     },
     {
       "councillor": "Elizabeth Peloza",
-      "sharedVotes": 1398,
-      "agreedVotes": 1209,
-      "alignmentRate": 86.48068669527898
+      "sharedVotes": 1420,
+      "agreedVotes": 1225,
+      "alignmentRate": 86.26760563380282
     }
   ],
   "bottomAlignments": [
     {
       "councillor": "Susan Stevenson",
-      "sharedVotes": 1390,
-      "agreedVotes": 1069,
-      "alignmentRate": 76.90647482014388
+      "sharedVotes": 1413,
+      "agreedVotes": 1086,
+      "alignmentRate": 76.85774946921444
     },
     {
       "councillor": "Paul Van Meerbergen",
-      "sharedVotes": 1359,
-      "agreedVotes": 1068,
-      "alignmentRate": 78.58719646799118
+      "sharedVotes": 1381,
+      "agreedVotes": 1083,
+      "alignmentRate": 78.42143374366401
     },
     {
       "councillor": "Steve Hillier",
-      "sharedVotes": 1379,
-      "agreedVotes": 1125,
-      "alignmentRate": 81.58085569253082
+      "sharedVotes": 1402,
+      "agreedVotes": 1141,
+      "alignmentRate": 81.38373751783166
     },
     {
       "councillor": "Shawn Lewis",
-      "sharedVotes": 1496,
-      "agreedVotes": 1235,
-      "alignmentRate": 82.55347593582889
+      "sharedVotes": 1519,
+      "agreedVotes": 1253,
+      "alignmentRate": 82.48847926267281
     },
     {
       "councillor": "Peter Cuddy",
-      "sharedVotes": 1554,
-      "agreedVotes": 1288,
-      "alignmentRate": 82.88288288288288
+      "sharedVotes": 1577,
+      "agreedVotes": 1305,
+      "alignmentRate": 82.75206087507927
     }
   ],
   "notableDissents": [
     {
-      "date": "2026-07-13",
-      "meetingTitle": "11th Meeting of the Community and Protective Services Committee",
-      "itemTitle": "City of London Special Constable Program",
-      "motionText": "That the Civic Administration BE DIRECTED to report back to the Community and Protective Services Committee on the feasibility of establishing a City of London Special Constable Program, with the repo...",
+      "date": "2026-07-21",
+      "meetingTitle": "12th Meeting of Council",
+      "itemTitle": "(2.5) Designation Under Part IV of the Ontario Heritage Act for the Heritage Listed Property at 471 Nightingale Avenue",
+      "motionText": "That notwithstanding the recommendation of the Director, Planning and Development, the staff report dated July 14, 2026, related to the Designation under Part IV of the Ontario Heritage Act for the He...",
       "vote": "nay",
-      "result": "Motion Passed (4 to 2)",
-      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=53c2a71a-1940-4b5f-95c0-1bf896263d61&Agenda=PostMinutes&lang=English"
+      "result": "Motion Passed (11 to 4)",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English"
     },
     {
-      "date": "2026-06-23",
-      "meetingTitle": "11th Meeting of Council",
-      "itemTitle": "(3.5) 221 Queens Avenue - TZ-26045 (Relates to Bill No. 258)",
-      "motionText": "Notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Sifton Properties Limited relating to the property locat...",
+      "date": "2026-07-21",
+      "meetingTitle": "12th Meeting of Council",
+      "itemTitle": "(3.6) 1076-1080 Commissioners Road West and 396-402 North Street - OZ-26037 (Relates to Bill No. 273 and No. 289)",
+      "motionText": "That the motion, as amended, BE APPROVED",
       "vote": "nay",
-      "result": "Motion Passed (10 to 3)",
-      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=948470cd-fe8f-491c-afab-0012197b9009&Agenda=PostMinutes&lang=English"
+      "result": "Motion Passed (13 to 2)",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English"
     },
     {
-      "date": "2026-06-23",
-      "meetingTitle": "11th Meeting of Council",
-      "itemTitle": "(3.6) 1057-1061 Richmond Street - Z-26051 (Relates to Bill No. 259)",
-      "motionText": "That, pursuant to section 10.5 of the Council Procedure By-law, “shall the ruling of the Chair BE SUSTAINED?”",
+      "date": "2026-07-21",
+      "meetingTitle": "12th Meeting of Council",
+      "itemTitle": "(3.7) 755-765, 785 and 815 Wonderland Road South - OZ-26061",
+      "motionText": "That the application dated July 14, 2026, from Westmount Development London Corporation related to the property at 755-765, 785 and 815 Wonderland Road South BE REFERRED to a future meeting of the Pla...",
+      "vote": "nay",
+      "result": "Motion Passed (11 to 4)",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2026-07-21",
+      "meetingTitle": "12th Meeting of Council",
+      "itemTitle": "(4.4) City of London Special Constable Program",
+      "motionText": "That the matter relating to a City of London Special Constable Program BE REFERRED to the Municipal Council meeting to be held on August 25, 2026, in order to provide additional time for members of th...",
       "vote": "yea",
-      "result": "Motion Failed (5 to 8)",
-      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=948470cd-fe8f-491c-afab-0012197b9009&Agenda=PostMinutes&lang=English"
+      "result": "Motion Failed (5 to 10)",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English"
     },
     {
-      "date": "2026-06-23",
-      "meetingTitle": "11th Meeting of Council",
-      "itemTitle": "(3.6) 1057-1061 Richmond Street - Z-26051 (Relates to Bill No. 259)",
-      "motionText": "That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 1001436158 Ontario Inc. (Royal Premier Homes) relating to the p...",
+      "date": "2026-07-21",
+      "meetingTitle": "12th Meeting of Council",
+      "itemTitle": "(4.4) City of London Special Constable Program",
+      "motionText": "That part e) of the motion be amended to read as follows: e) potential impacts on existing municipal service delivery models, including security services, Municipal Law Enforcement, Coordinated Inform...",
       "vote": "nay",
-      "result": "Motion Passed (10 to 3)",
-      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=948470cd-fe8f-491c-afab-0012197b9009&Agenda=PostMinutes&lang=English"
+      "result": "Motion Passed (13 to 2)",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English"
     },
     {
-      "date": "2026-06-23",
-      "meetingTitle": "11th Meeting of Council",
-      "itemTitle": "(3.7) 36 Wethered Street - Z-26050 (Relates to Bill No. 260)",
-      "motionText": "That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Monteith Brown Planning Consultants Ltd. (c/o Jay McGuffin) rel...",
+      "date": "2026-07-21",
+      "meetingTitle": "12th Meeting of Council",
+      "itemTitle": "(4.4) City of London Special Constable Program",
+      "motionText": "That the following part BE APPROVED: That the motion BE AMENDED by replacing the words \"establishing a City of London Special Constable Program\" with \"implementing a permanent City of London Special C...",
       "vote": "nay",
-      "result": "Motion Passed (10 to 3)",
-      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=948470cd-fe8f-491c-afab-0012197b9009&Agenda=PostMinutes&lang=English"
+      "result": "Motion Passed (10 to 5)",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English"
     },
     {
-      "date": "2026-06-23",
-      "meetingTitle": "11th Meeting of Council",
-      "itemTitle": "(3.8) 929 Cheapside Street - Z-26003 (Relates to Bill No. 261)",
-      "motionText": "That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 929 Cheapside Inc. (c/o Monteith Brown Planning Consultants) re...",
+      "date": "2026-07-21",
+      "meetingTitle": "12th Meeting of Council",
+      "itemTitle": "(4.4) City of London Special Constable Program",
+      "motionText": "That the following part BE APPROVED: d) estimated capital and operating costs, funding options, including the potential use of revenues generated through the City's Automated Speed Enforcement Program...",
       "vote": "nay",
-      "result": "Motion Passed (9 to 4)",
-      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=948470cd-fe8f-491c-afab-0012197b9009&Agenda=PostMinutes&lang=English"
+      "result": "Motion Passed (10 to 5)",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English"
     },
     {
-      "date": "2026-06-23",
-      "meetingTitle": "11th Meeting of Council",
-      "itemTitle": "By-laws",
-      "motionText": "That Introduction and First Reading of Bill No. 259 BE APPROVED.",
+      "date": "2026-07-21",
+      "meetingTitle": "12th Meeting of Council",
+      "itemTitle": "(4.4) City of London Special Constable Program",
+      "motionText": "That the following parts of the main motion, as amended, BE APPROVED: That the Civic Administration BE DIRECTED to report back to the Community and Protective Services Committee on the feasibility of ...",
       "vote": "nay",
-      "result": "Motion Passed (8 to 3)",
-      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=948470cd-fe8f-491c-afab-0012197b9009&Agenda=PostMinutes&lang=English"
+      "result": "Motion Passed (10 to 5)",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English"
     },
     {
-      "date": "2026-06-23",
-      "meetingTitle": "11th Meeting of Council",
-      "itemTitle": "By-laws",
-      "motionText": "That Second Reading of Bill No. 259 BE APPROVED.",
+      "date": "2026-07-21",
+      "meetingTitle": "12th Meeting of Council",
+      "itemTitle": "(4.4) City of London Special Constable Program",
+      "motionText": "That the following part of the main motion, as amended, BE APPROVED: e) potential impacts on existing municipal service delivery models, including security services, Municipal Law Enforcement, Coordin...",
       "vote": "nay",
-      "result": "Motion Passed (8 to 3)",
-      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=948470cd-fe8f-491c-afab-0012197b9009&Agenda=PostMinutes&lang=English"
+      "result": "Motion Passed (13 to 2)",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English"
     },
     {
-      "date": "2026-06-23",
-      "meetingTitle": "11th Meeting of Council",
-      "itemTitle": "By-laws",
-      "motionText": "That Third Reading and Enactment of Bill No. 259 BE APPROVED.",
+      "date": "2026-07-21",
+      "meetingTitle": "12th Meeting of Council",
+      "itemTitle": "Added Reports",
+      "motionText": "That clause 7 of the 12th Report of the Council, In Closed Session, BE APPROVED 7.    Licence Agreement – Municipal Parking Lot #8 (West Half) 99 Dundas Street That, on the recommendation of the Deput...",
       "vote": "nay",
-      "result": "Motion Passed (8 to 3)",
-      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=948470cd-fe8f-491c-afab-0012197b9009&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-06-23",
-      "meetingTitle": "11th Meeting of Council",
-      "itemTitle": "By-laws",
-      "motionText": "That Second Reading of Bill No. 260 BE APPROVED.",
-      "vote": "nay",
-      "result": "Motion Passed (8 to 3)",
-      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=948470cd-fe8f-491c-afab-0012197b9009&Agenda=PostMinutes&lang=English"
+      "result": "Motion Passed (12 to 1)",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English"
     }
   ],
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 2055,
-      "yeas": 1482,
-      "nays": 391,
-      "participationRate": 91.14355231143553
+      "totalVotes": 2109,
+      "yeas": 1520,
+      "nays": 407,
+      "participationRate": 91.37031768610716
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
@@ -235,10 +235,10 @@
     },
     {
       "committee": "Community and Protective Services Committee",
-      "totalVotes": 369,
-      "yeas": 322,
+      "totalVotes": 375,
+      "yeas": 328,
       "nays": 37,
-      "participationRate": 97.289972899729
+      "participationRate": 97.33333333333334
     },
     {
       "committee": "Budget Committee",
