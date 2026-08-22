@@ -1,3 +1,5 @@
+import { escapeHTML } from "../../util/escape"
+
 interface WatchItem {
   slug: string
   title: string
@@ -58,14 +60,21 @@ function renderWatchlist() {
     .sort((a, b) => new Date(b.dateAdded).getTime() - new Date(a.dateAdded).getTime())
     .map((item) => {
       const tag = getTopicTag(item.slug)
+      // item.slug/item.title ultimately trace back to scraped meeting titles
+      // (and can round-trip through a user's own Supabase row) — escape both
+      // before they're interpolated into HTML *and* into the aria-label
+      // attribute below, where an unescaped `"` could otherwise break out of
+      // the attribute and inject markup/event handlers.
+      const safeSlug = escapeHTML(item.slug)
+      const safeTitle = escapeHTML(item.title)
       return `
-        <div class="watchlist-card" data-slug="${item.slug}">
+        <div class="watchlist-card" data-slug="${safeSlug}">
           <div class="card-top">
             <span class="topic-tag ${tag.className}">${tag.label}</span>
-            <button class="unwatch-btn" data-slug="${item.slug}" aria-label="Unwatch ${item.title}">Unwatch</button>
+            <button class="unwatch-btn" data-slug="${safeSlug}" aria-label="Unwatch ${safeTitle}">Unwatch</button>
           </div>
           <h3 class="card-title">
-            <a href="/${item.slug}">${item.title}</a>
+            <a href="/${safeSlug}">${safeTitle}</a>
           </h3>
           <div class="card-meta">
             Watching since ${formatDate(item.dateAdded)}
