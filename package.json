@@ -63,6 +63,7 @@
     "dotenv": "^17.2.3",
     "esbuild-sass-plugin": "^3.3.1",
     "express": "^5.1.0",
+    "express-rate-limit": "^7.5.1",
     "flexsearch": "0.7.43",
     "github-slugger": "^2.0.0",
     "globby": "^14.1.0",
@@ -126,10 +127,12 @@
     "@types/node": "^22.15.23",
     "@types/pretty-time": "^1.1.5",
     "@types/source-map-support": "^0.5.10",
+    "@types/supertest": "^6.0.3",
     "@types/ws": "^8.18.1",
     "@types/yargs": "^17.0.33",
     "esbuild": "^0.25.5",
     "prettier": "^3.5.3",
+    "supertest": "^7.2.2",
     "tsx": "^4.19.4",
     "typescript": "^5.8.3"
   }

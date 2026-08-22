@@ -11,6 +11,7 @@ import { councillorStatsLookupService } from './councillor-stats-lookup.js';
 import { detectTopicsInQuery } from '../lib/topics/index.js';
 import { detectMultiHopVoteQuery, executeMultiHopQuery, formatMultiHopContext } from './vote-query-engine.js';
 import { expandQueryWithSynonyms } from './synonyms.js';
+import { capChatHistory } from './history-limits.js';
 
 /**
  * Metadata collected during chat for logging purposes
@@ -2584,6 +2585,14 @@ ${result.text}
     history: ChatMessage[] = [],
     metadataCollector?: ChatMetadataCollector
   ): AsyncGenerator<string, void, unknown> {
+    // Bound history before it reaches ANY provider path: cap array length and
+    // per-message size (req.body is untyped JSON, so an unbounded history
+    // inflates token cost per request), and drop any entry whose role isn't
+    // 'user'/'assistant' (a client could otherwise smuggle a fake `role:
+    // "system"` message into the array sent to the LLM). See
+    // server/history-limits.ts.
+    const boundedHistory = capChatHistory(history);
+
     // Determine complexity for smart routing
     const analysis = this.analyzeQuery(message);
     const topK = analysis.topK || TOP_K_SIMPLE;
@@ -2597,7 +2606,7 @@ ${result.text}
         ? `🎭 Routing to ${RAGService.COMPLEX_MODEL} via OpenRouter (topK=${topK})`
         : `🦙 Routing to ${RAGService.SIMPLE_MODEL} via OpenRouter (topK=${topK})`);
       try {
-        yield* this.chatStreamOpenRouter(message, history, metadataCollector);
+        yield* this.chatStreamOpenRouter(message, boundedHistory, metadataCollector);
       } finally {
         this.openrouterModel = prevModel; // restore
       }
@@ -2606,9 +2615,9 @@ ${result.text}
 
     // Fallback: direct provider (no OR key)
     if (this.provider === 'openai') {
-      yield* this.chatStreamOpenAI(message, history, metadataCollector);
+      yield* this.chatStreamOpenAI(message, boundedHistory, metadataCollector);
     } else {
-      yield* this.chatStreamAnthropic(message, history, metadataCollector);
+      yield* this.chatStreamAnthropic(message, boundedHistory, metadataCollector);
     }
   }
 
