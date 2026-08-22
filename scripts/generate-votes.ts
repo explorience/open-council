@@ -15,10 +15,11 @@ import {
   normalizeCouncillorName,
   getSlug,
 } from "../lib/councillors/index.js"
+import { classifyVoteType, type VoteType } from "../lib/votes/vote-type.js"
 
 // Types
 interface VoteRow {
-  vote: string // "Yeas:" or "Nays:" or "Absent:"
+  vote: string // "Yeas:", "Nays:", "Absent:", "Recuse:", "Abstain(0.00", "Conflict", etc.
   voters: string[]
 }
 
@@ -69,7 +70,7 @@ interface VoteRecord {
   itemNumber: string
   itemTitle: string
   motionText: string
-  vote: "yea" | "nay" | "absent"
+  vote: VoteType
   result: string
   passed: boolean
   unanimous: boolean
@@ -86,6 +87,9 @@ interface CouncillorVotesFile {
     yeas: number
     nays: number
     absent: number
+    recuse: number
+    abstain: number
+    other: number
   }
   votes: VoteRecord[]
 }
@@ -164,11 +168,7 @@ function findVotes(
 
           // Process each voter
           for (const row of content.vote.rows) {
-            const voteType = row.vote.toLowerCase().includes("yea")
-              ? "yea"
-              : row.vote.toLowerCase().includes("nay")
-                ? "nay"
-                : "absent"
+            const voteType = classifyVoteType(row.vote)
 
             for (const voterName of row.voters) {
               const canonicalName = normalizeVoterName(voterName)
@@ -340,7 +340,14 @@ async function main() {
     // Calculate summary stats
     const yeas = votes.filter(v => v.vote === "yea").length
     const nays = votes.filter(v => v.vote === "nay").length
+    // NOTE: "absent" here must only count genuine no-shows. Pecuniary-interest
+    // recusals ("recuse") and abstentions ("abstain") are distinct, ethical/
+    // procedural acts and are tracked separately below - never folded into
+    // "absent". See lib/votes/vote-type.ts for the classification.
     const absent = votes.filter(v => v.vote === "absent").length
+    const recuse = votes.filter(v => v.vote === "recuse").length
+    const abstain = votes.filter(v => v.vote === "abstain").length
+    const other = votes.filter(v => v.vote === "other").length
     const meetings = councillorMeetings[slug]?.size || 0
 
     // Sort votes by date descending
@@ -357,6 +364,9 @@ async function main() {
         yeas,
         nays,
         absent,
+        recuse,
+        abstain,
+        other,
       },
       votes,
     }
@@ -386,6 +396,9 @@ async function main() {
     yeas: string[]
     nays: string[]
     absent: string[]
+    recuse: string[]
+    abstain: string[]
+    other: string[]
   }>()
 
   // Read all councillor vote files and aggregate
@@ -419,6 +432,9 @@ async function main() {
           yeas: [],
           nays: [],
           absent: [],
+          recuse: [],
+          abstain: [],
+          other: [],
         })
       }
 
@@ -426,6 +442,9 @@ async function main() {
       if (vote.vote === "yea") motion.yeas.push(displayName)
       else if (vote.vote === "nay") motion.nays.push(displayName)
       else if (vote.vote === "absent") motion.absent.push(displayName)
+      else if (vote.vote === "recuse") motion.recuse.push(displayName)
+      else if (vote.vote === "abstain") motion.abstain.push(displayName)
+      else motion.other.push(displayName)
     }
   }
 
@@ -508,11 +527,7 @@ function findVotesWithAttribution(
           const { passed, unanimous } = parseResult(resultStr)
 
           for (const row of content.vote.rows) {
-            const voteType = row.vote.toLowerCase().includes("yea")
-              ? "yea"
-              : row.vote.toLowerCase().includes("nay")
-                ? "nay"
-                : "absent"
+            const voteType = classifyVoteType(row.vote)
 
             for (const voterName of row.voters) {
               const canonicalName = normalizeVoterName(voterName)

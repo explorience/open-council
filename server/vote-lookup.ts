@@ -10,6 +10,7 @@
 import { readFileSync, readdirSync, existsSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
+import { voteTypeLabel, type VoteType } from '../lib/votes/vote-type.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
@@ -29,7 +30,7 @@ export interface VoteRecord {
   itemNumber?: string;
   itemTitle: string;
   motionText: string;
-  vote: 'yea' | 'nay' | 'absent';
+  vote: VoteType;
   result: string;
   passed: boolean;
   unanimous: boolean;
@@ -49,6 +50,9 @@ interface CouncillorVoteFile {
     yeas: number;
     nays: number;
     absent: number;
+    recuse?: number;
+    abstain?: number;
+    other?: number;
   };
   votes: VoteRecord[];
 }
@@ -76,6 +80,12 @@ export interface MotionVotesResult {
   yeas: string[];
   nays: string[];
   absent: string[];
+  /** Councillors who recused/declared a conflict of interest - NOT the same as absent. */
+  recused: string[];
+  /** Councillors who formally abstained - NOT the same as absent. */
+  abstained: string[];
+  /** Councillors whose vote row had an unrecognized raw label - visible, not silently dropped. */
+  other: string[];
 }
 
 /**
@@ -153,6 +163,31 @@ function normalizeForMatch(text: string): string {
 function _containsAllKeywords(text: string, keywords: string[]): boolean {
   const normalized = normalizeForMatch(text);
   return keywords.every(kw => normalized.includes(normalizeForMatch(kw)));
+}
+
+/**
+ * Format the optional Recused/Abstained/Other lines for a MotionVotesResult.
+ * Omitted entirely when nobody fell into a given category, to keep the
+ * common case (no recusals) uncluttered. These are ALWAYS reported
+ * separately from "Absent" - a recusal for a declared conflict of interest
+ * is an ethical/legal act, not a no-show.
+ */
+function formatNonAbsentNonVoteLines(r: {
+  recused: string[];
+  abstained: string[];
+  other: string[];
+}): string {
+  let lines = '';
+  if (r.recused.length > 0) {
+    lines += `**Recused - declared conflict of interest (${r.recused.length}):** ${r.recused.join(', ')}\n`;
+  }
+  if (r.abstained.length > 0) {
+    lines += `**Abstained (${r.abstained.length}):** ${r.abstained.join(', ')}\n`;
+  }
+  if (r.other.length > 0) {
+    lines += `**Other/unrecorded vote (${r.other.length}):** ${r.other.join(', ')}\n`;
+  }
+  return lines;
 }
 
 /**
@@ -295,6 +330,9 @@ export class VoteLookupService {
     const yeas: string[] = [];
     const nays: string[] = [];
     const absent: string[] = [];
+    const recused: string[] = [];
+    const abstained: string[] = [];
+    const other: string[] = [];
     let result = '';
     let passed = false;
 
@@ -313,6 +351,9 @@ export class VoteLookupService {
         result = matchingVote.result;
         passed = matchingVote.passed;
 
+        // NOTE: every branch is explicit (no fallthrough default bucket) so a
+        // recusal/abstention/unrecognized label is never silently counted as
+        // "absent" - that conflated an ethical/legal recusal with a no-show.
         switch (matchingVote.vote) {
           case 'yea':
             yeas.push(voteFile.councillor);
@@ -322,6 +363,15 @@ export class VoteLookupService {
             break;
           case 'absent':
             absent.push(voteFile.councillor);
+            break;
+          case 'recuse':
+            recused.push(voteFile.councillor);
+            break;
+          case 'abstain':
+            abstained.push(voteFile.councillor);
+            break;
+          default:
+            other.push(voteFile.councillor);
             break;
         }
       }
@@ -337,6 +387,9 @@ export class VoteLookupService {
       yeas,
       nays,
       absent,
+      recused,
+      abstained,
+      other,
     };
   }
 
@@ -400,6 +453,9 @@ export class VoteLookupService {
       const yeas: string[] = [];
       const nays: string[] = [];
       const absent: string[] = [];
+      const recused: string[] = [];
+      const abstained: string[] = [];
+      const other: string[] = [];
       let result = '';
       let passed = false;
 
@@ -416,10 +472,14 @@ export class VoteLookupService {
         if (matchingVote) {
           result = matchingVote.result;
           passed = matchingVote.passed;
+          // No fallthrough default to "absent" - see findMotionVotes above.
           switch (matchingVote.vote) {
             case 'yea': yeas.push(voteFile.councillor); break;
             case 'nay': nays.push(voteFile.councillor); break;
             case 'absent': absent.push(voteFile.councillor); break;
+            case 'recuse': recused.push(voteFile.councillor); break;
+            case 'abstain': abstained.push(voteFile.councillor); break;
+            default: other.push(voteFile.councillor); break;
           }
         }
       }
@@ -434,6 +494,9 @@ export class VoteLookupService {
         yeas,
         nays,
         absent,
+        recused,
+        abstained,
+        other,
       });
     }
 
@@ -467,7 +530,9 @@ export class VoteLookupService {
       context += `**Outcome:** ${outcomeWord} - ${r.result}\n`;
       context += `**Voted YEA (${r.yeas.length}):** ${r.yeas.join(', ')}\n`;
       context += `**Voted NAY (${r.nays.length}):** ${r.nays.join(', ')}\n`;
-      context += `**Absent (${r.absent.length}):** ${r.absent.join(', ')}\n\n`;
+      context += `**Absent (${r.absent.length}):** ${r.absent.join(', ')}\n`;
+      context += formatNonAbsentNonVoteLines(r);
+      context += `\n`;
     });
 
     context += `⚠️ When the user asks about the "original" motion, refer to the FIRST vote above. The alternative motions came later.\n`;
@@ -821,6 +886,9 @@ ${sections.join('\n')}
       yeas: string[];
       nays: string[];
       absent: string[];
+      recused: string[];
+      abstained: string[];
+      other: string[];
       matchScore: number;
     }>();
 
@@ -853,17 +921,30 @@ ${sections.join('\n')}
             yeas: [],
             nays: [],
             absent: [],
+            recused: [],
+            abstained: [],
+            other: [],
             matchScore,
           });
         }
 
         const entry = voteMap.get(key)!;
+        // BUG FIX: this used to have a catch-all `else` that pushed every
+        // non-yea/non-nay vote (recuse, abstain, unrecognized labels) into
+        // `absent`, mislabeling pecuniary-interest recusals as no-shows.
+        // Every category is now explicit.
         if (vote.vote === 'yea') {
           entry.yeas.push(voteFile.councillor);
         } else if (vote.vote === 'nay') {
           entry.nays.push(voteFile.councillor);
-        } else {
+        } else if (vote.vote === 'absent') {
           entry.absent.push(voteFile.councillor);
+        } else if (vote.vote === 'recuse') {
+          entry.recused.push(voteFile.councillor);
+        } else if (vote.vote === 'abstain') {
+          entry.abstained.push(voteFile.councillor);
+        } else {
+          entry.other.push(voteFile.councillor);
         }
       }
     }
@@ -879,6 +960,9 @@ ${sections.join('\n')}
       yeas: string[];
       nays: string[];
       absent: string[];
+      recused: string[];
+      abstained: string[];
+      other: string[];
       matchScore: number;
     } | null = null;
     let bestScore = 0;
@@ -904,6 +988,9 @@ ${sections.join('\n')}
       yeas: bestMatch.yeas,
       nays: bestMatch.nays,
       absent: bestMatch.absent,
+      recused: bestMatch.recused,
+      abstained: bestMatch.abstained,
+      other: bestMatch.other,
     };
   }
 
@@ -913,7 +1000,10 @@ ${sections.join('\n')}
    */
   formatVoteForContext(result: VoteLookupResult): string {
     const v = result.vote;
-    const voteWord = v.vote === 'yea' ? 'IN FAVOR (YEA)' : v.vote === 'nay' ? 'AGAINST (NAY)' : 'ABSENT';
+    // BUG FIX: this used to default anything that wasn't 'yea'/'nay' to
+    // 'ABSENT', which mislabeled recusals/abstentions/unrecognized rows as
+    // no-shows. voteTypeLabel() gives each category its own honest wording.
+    const voteWord = voteTypeLabel(v.vote);
     const outcomeWord = v.passed ? 'PASSED' : 'FAILED';
 
     const lines = [
@@ -950,8 +1040,18 @@ ${sections.join('\n')}
       `**Voted YEA (${result.yeas.length}):** ${result.yeas.join(', ') || 'None'}`,
       `**Voted NAY (${result.nays.length}):** ${result.nays.join(', ') || 'None'}`,
       `**Absent (${result.absent.length}):** ${result.absent.join(', ') || 'None'}`,
+      ...(result.recused.length > 0
+        ? [`**Recused - declared conflict of interest (${result.recused.length}):** ${result.recused.join(', ')}`]
+        : []),
+      ...(result.abstained.length > 0
+        ? [`**Abstained (${result.abstained.length}):** ${result.abstained.join(', ')}`]
+        : []),
+      ...(result.other.length > 0
+        ? [`**Other/unrecorded vote (${result.other.length}):** ${result.other.join(', ')}`]
+        : []),
       '',
       '⚠️ This is verified structured data. Use these exact details in your response. When reporting this vote, include the motion text so users understand what was decided.',
+      '⚠️ A councillor who RECUSED declared a conflict of interest and stepped out - this is an ethical/legal act, NOT the same as being absent. Never describe a recusal as an absence.',
     ];
 
     return '\n' + lines.join('\n') + '\n';
