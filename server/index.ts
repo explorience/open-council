@@ -479,7 +479,7 @@ async function start() {
   try {
     await initializeServices();
 
-    app.listen(PORT, '0.0.0.0', () => {
+    const server = app.listen(PORT, '0.0.0.0', () => {
       console.log(`\n🚀 RAG Chatbot API running on http://0.0.0.0:${PORT}`);
       console.log(`\nEndpoints:`);
       console.log(`  GET  /health          - Health check`);
@@ -490,6 +490,17 @@ async function start() {
       console.log(`  POST /api/regenerate  - Add embeddings for new meetings (requires x-admin-token)`);
       console.log(`  POST /api/feedback    - Submit feedback`);
     });
+
+    // Exit 0 on SIGTERM/SIGINT: Railway replaces this container on every push
+    // to main, and a non-zero exit during that shutdown is reported as a
+    // crashed deploy (nightly false-alarm emails).
+    const shutdown = (signal: string) => {
+      console.log(`${signal} received, shutting down gracefully`);
+      server.close(() => process.exit(0));
+      setTimeout(() => process.exit(0), 5000).unref();
+    };
+    process.on('SIGTERM', () => shutdown('SIGTERM'));
+    process.on('SIGINT', () => shutdown('SIGINT'));
   } catch (error) {
     console.error('Failed to start server:', error);
     process.exit(1);

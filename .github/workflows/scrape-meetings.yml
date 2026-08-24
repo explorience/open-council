@@ -53,7 +53,13 @@ jobs:
       - name: Regenerate councillor stats
         run: npx tsx scripts/generate-stats.ts
 
-      - name: Check for changes
+      - name: Re-add transcripts to regenerated meeting pages
+        # The scraper rewrites meeting pages without their transcript section
+        # (transcripts live in the JSONs). Without this step, every scrape
+        # commit deletes the transcript lines that sync-transcripts re-adds
+        # 20 minutes later, and each Railway boot in between purges and
+        # re-embeds ~1,000 vector-store chunks to mirror the churn.
+        run: npx tsx scripts/add-transcripts-to-pages.ts
         id: changes
         run: |
           # Check for any changes in data/ or content/
@@ -69,13 +75,15 @@ jobs:
 
       - name: Commit and push changes
         if: steps.changes.outputs.has_changes == 'true'
+        env:
+          # Scraper output contains meeting titles scraped from the city's
+          # website — pass via env so it can never be interpreted as shell.
+          SCRAPE_OUTPUT: ${{ steps.scrape.outputs.output }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/ content/
-          git commit -m "chore: scrape new council meetings [automated]
-
-          ${{ steps.scrape.outputs.output }}"
+          git commit -m "chore: scrape new council meetings [automated]" -m "$SCRAPE_OUTPUT"
           # This workflow, sync-transcripts.yml, and generate-pages.yml all run
           # on daily schedules close enough together that they can race to push
           # to main. Rebase onto the latest main and retry a few times instead
