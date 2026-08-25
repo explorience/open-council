@@ -5,12 +5,12 @@ slug: "s-franke"
 meetingCount: 209
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 4095
+totalVotes: 4097
 votesYea: 3422
 votesNay: 336
-votesAbsent: 337
-attendanceRate: 96.2
-participationRate: 91.8
+votesAbsent: 339
+attendanceRate: 95.7
+participationRate: 91.7
 yeaRate: 91.1
 contestedDissentRate: 22.8
 contestedVotes: 1473
@@ -30,10 +30,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 4,095 |
-| Voted Yea | 3,422 (83.6%) |
+| Total Votes | 4,097 |
+| Voted Yea | 3,422 (83.5%) |
 | Voted Nay | 336 (8.2%) |
-| Absent | 337 (8.2%) |
+| Absent | 339 (8.3%) |
 
 
 ### Substantive Votes
@@ -71,16 +71,16 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 96.2%
-- **Meetings Attended**: 202 of 210
-- **Meetings Missed**: 8
+- **Attendance Rate**: 95.7%
+- **Meetings Attended**: 202 of 211
+- **Meetings Missed**: 9
 - **Trend**: Stable -
 
 **Attendance by Year:**
   - 2023: 98.4% (60/61 meetings)
   - 2024: 97.0% (65/67 meetings)
   - 2025: 91.8% (45/49 meetings)
-  - 2026: 96.0% (24/25 meetings)
+  - 2026: 92.3% (24/26 meetings)
 
 
 ## Voting Alignment
@@ -106,7 +106,7 @@ prefillQuestions:
 | Strategic Priorities and Policy Committee | 943 | 667 | 70 | 78.2% |
 | Planning and Environment Committee | 632 | 600 | 22 | 98.4% |
 | Budget Committee | 189 | 142 | 47 | 100.0% |
-| Infrastructure and Corporate Services Committee | 168 | 141 | 14 | 92.3% |
+| Infrastructure and Corporate Services Committee | 170 | 141 | 14 | 91.2% |
 | Civic Works Committee | 55 | 51 | 0 | 92.7% |
 
 

@@ -2,14 +2,14 @@
 title: "Susan Stevenson"
 type: councillor
 slug: "s-stevenson"
-meetingCount: 220
+meetingCount: 221
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 4018
-votesYea: 2889
+totalVotes: 4020
+votesYea: 2891
 votesNay: 619
 votesAbsent: 510
-attendanceRate: 89.0
+attendanceRate: 89.1
 participationRate: 87.3
 yeaRate: 82.4
 contestedDissentRate: 37.7
@@ -30,8 +30,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 4,018 |
-| Voted Yea | 2,889 (71.9%) |
+| Total Votes | 4,020 |
+| Voted Yea | 2,891 (71.9%) |
 | Voted Nay | 619 (15.4%) |
 | Absent | 510 (12.7%) |
 
@@ -71,8 +71,8 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 89.0%
-- **Meetings Attended**: 211 of 237
+- **Attendance Rate**: 89.1%
+- **Meetings Attended**: 212 of 238
 - **Meetings Missed**: 26
 - **Trend**: Stable -
 
@@ -80,7 +80,7 @@ prefillQuestions:
   - 2023: 88.6% (70/79 meetings)
   - 2024: 89.4% (59/66 meetings)
   - 2025: 86.4% (38/44 meetings)
-  - 2026: 89.7% (35/39 meetings)
+  - 2026: 90.0% (36/40 meetings)
 
 
 ## Voting Alignment
@@ -108,7 +108,7 @@ prefillQuestions:
 | Budget Committee | 189 | 137 | 45 | 96.3% |
 | Corporate Services Committee | 184 | 126 | 8 | 72.8% |
 | Community and Protective Services Committee | 92 | 78 | 7 | 92.4% |
-| Infrastructure and Corporate Services Committee | 85 | 60 | 19 | 92.9% |
+| Infrastructure and Corporate Services Committee | 87 | 62 | 19 | 93.1% |
 
 
 ## Notable Dissenting Votes
@@ -202,17 +202,18 @@ Voted **Nay** - Motion Passed (10 to 2)
 
 ## Committees Served
 
+- [Corporate Services Committee](/committees/corporate-services)
 - [Planning and Environment Committee](/committees/planning-environment)
 - [City Council](/committees/city-council)
-- [Corporate Services Committee](/committees/corporate-services)
 - [Audit Committee](/committees/audit)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [Budget Committee](/committees/budget)
 - [Community Protective Services Committee](/committees/community-protective-services-committee)
 
-## Recent Meetings (220 total)
+## Recent Meetings (221 total)
 
+- [13th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-08/2026-08-12 13th Meeting of the Infrastructure and Corporate Services Committee>) - Wed Aug 12 2026
 - [The 12th Meeting of the Planning and Environment Committee](</months/2026-08/2026-08-11 The 12th Meeting of the Planning and Environment Committee>) - Tue Aug 11 2026
 - [12th Meeting of Council](</months/2026-07/2026-07-21 12th Meeting of Council>) - Tue Jul 21 2026
 - [12th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-07/2026-07-15 12th Meeting of the Infrastructure and Corporate Services Committee>) - Wed Jul 15 2026
@@ -222,4 +223,3 @@ Voted **Nay** - Motion Passed (10 to 2)
 - [10th Special Meeting of Council](</months/2026-06/2026-06-17 10th Special Meeting of Council>) - Wed Jun 17 2026
 - [3rd Meeting of the Audit Committee](</months/2026-06/2026-06-17 3rd Meeting of the Audit Committee>) - Wed Jun 17 2026
 - [8th Meeting of the Strategic Priorities and Policy Committee](</months/2026-06/2026-06-16 8th Meeting of the Strategic Priorities and Policy Committee>) - Tue Jun 16 2026
-- [11th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-06/2026-06-15 11th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Jun 15 2026

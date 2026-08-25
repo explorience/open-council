@@ -2,16 +2,16 @@
 title: "Hadleigh McAlister"
 type: councillor
 slug: "h-mcalister"
-meetingCount: 234
+meetingCount: 235
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 3984
-votesYea: 3198
+totalVotes: 3986
+votesYea: 3200
 votesNay: 280
 votesAbsent: 506
-attendanceRate: 94.6
+attendanceRate: 94.7
 participationRate: 87.3
-yeaRate: 91.9
+yeaRate: 92.0
 contestedDissentRate: 13.8
 contestedVotes: 1466
 prefillQuestions:
@@ -30,8 +30,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 3,984 |
-| Voted Yea | 3,198 (80.3%) |
+| Total Votes | 3,986 |
+| Voted Yea | 3,200 (80.3%) |
 | Voted Nay | 280 (7.0%) |
 | Absent | 506 (12.7%) |
 
@@ -71,8 +71,8 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 94.6%
-- **Meetings Attended**: 229 of 242
+- **Attendance Rate**: 94.7%
+- **Meetings Attended**: 230 of 243
 - **Meetings Missed**: 13
 - **Trend**: Stable -
 
@@ -80,7 +80,7 @@ prefillQuestions:
   - 2023: 90.9% (70/77 meetings)
   - 2024: 93.4% (71/76 meetings)
   - 2025: 98.2% (54/55 meetings)
-  - 2026: 100.0% (25/25 meetings)
+  - 2026: 100.0% (26/26 meetings)
 
 
 ## Voting Alignment
@@ -108,7 +108,7 @@ prefillQuestions:
 | Budget Committee | 189 | 135 | 39 | 92.1% |
 | Corporate Services Committee | 164 | 130 | 1 | 79.9% |
 | Civic Works Committee | 90 | 81 | 9 | 100.0% |
-| Infrastructure and Corporate Services Committee | 85 | 77 | 8 | 100.0% |
+| Infrastructure and Corporate Services Committee | 87 | 79 | 8 | 100.0% |
 
 
 ## Notable Dissenting Votes
@@ -198,15 +198,16 @@ Voted **Yea** - Motion Failed (6 to 9)
 
 ## Committees Served
 
+- [Corporate Services Committee](/committees/corporate-services)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [City Council](/committees/city-council)
-- [Corporate Services Committee](/committees/corporate-services)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Budget Committee](/committees/budget)
 - [Civic Works Committee](/committees/civic-works)
 
-## Recent Meetings (234 total)
+## Recent Meetings (235 total)
 
+- [13th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-08/2026-08-12 13th Meeting of the Infrastructure and Corporate Services Committee>) - Wed Aug 12 2026
 - [12th Meeting of the Community and Protective Services Committee](</months/2026-08/2026-08-10 12th Meeting of the Community and Protective Services Committee>) - Mon Aug 10 2026
 - [12th Meeting of Council](</months/2026-07/2026-07-21 12th Meeting of Council>) - Tue Jul 21 2026
 - [12th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-07/2026-07-15 12th Meeting of the Infrastructure and Corporate Services Committee>) - Wed Jul 15 2026
@@ -216,4 +217,3 @@ Voted **Yea** - Motion Failed (6 to 9)
 - [11th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-06/2026-06-15 11th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Jun 15 2026
 - [9th Meeting of Council](</months/2026-06/2026-06-02 9th Meeting of Council>) - Tue Jun 2 2026
 - [7th Meeting of the Strategic Priorities and Policy Committee](</months/2026-05/2026-05-28 7th Meeting of the Strategic Priorities and Policy Committee>) - Thu May 28 2026
-- [10th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-05/2026-05-27 10th Meeting of the Infrastructure and Corporate Services Committee>) - Wed May 27 2026

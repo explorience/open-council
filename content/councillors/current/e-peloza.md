@@ -2,11 +2,11 @@
 title: "Elizabeth Peloza"
 type: councillor
 slug: "e-peloza"
-meetingCount: 485
+meetingCount: 486
 yearsActive: "2018 - 2026"
 isCurrent: true
-totalVotes: 7512
-votesYea: 6063
+totalVotes: 7514
+votesYea: 6065
 votesNay: 528
 votesAbsent: 921
 attendanceRate: 98.0
@@ -30,8 +30,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 7,512 |
-| Voted Yea | 6,063 (80.7%) |
+| Total Votes | 7,514 |
+| Voted Yea | 6,065 (80.7%) |
 | Voted Nay | 528 (7.0%) |
 | Absent | 921 (12.3%) |
 
@@ -72,7 +72,7 @@ prefillQuestions:
 ## Attendance
 
 - **Attendance Rate**: 98.0%
-- **Meetings Attended**: 440 of 449
+- **Meetings Attended**: 441 of 450
 - **Meetings Missed**: 9
 - **Trend**: Declining v
 
@@ -80,7 +80,7 @@ prefillQuestions:
   - 2023: 98.3% (57/58 meetings)
   - 2024: 95.3% (61/64 meetings)
   - 2025: 96.6% (56/58 meetings)
-  - 2026: 92.6% (25/27 meetings)
+  - 2026: 92.9% (26/28 meetings)
 
 
 ## Voting Alignment
@@ -109,7 +109,7 @@ prefillQuestions:
 | Civic Works Committee | 284 | 274 | 8 | 99.3% |
 | Budget Committee | 189 | 122 | 67 | 100.0% |
 | Corporate Services Committee | 74 | 53 | 1 | 73.0% |
-| Infrastructure and Corporate Services Committee | 47 | 41 | 5 | 97.9% |
+| Infrastructure and Corporate Services Committee | 49 | 43 | 5 | 98.0% |
 
 
 ## Notable Dissenting Votes
@@ -199,9 +199,9 @@ Voted **Nay** - Motion Passed (4 to 1)
 
 ## Committees Served
 
+- [Corporate Services Committee](/committees/corporate-services)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [City Council](/committees/city-council)
-- [Corporate Services Committee](/committees/corporate-services)
 - [Audit Committee](/committees/audit)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Planning and Environment Committee](/committees/planning-environment)
@@ -209,8 +209,9 @@ Voted **Nay** - Motion Passed (4 to 1)
 - [Civic Works Committee](/committees/civic-works)
 - [Community Protective Services Committee](/committees/community-protective-services-committee)
 
-## Recent Meetings (485 total)
+## Recent Meetings (486 total)
 
+- [13th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-08/2026-08-12 13th Meeting of the Infrastructure and Corporate Services Committee>) - Wed Aug 12 2026
 - [12th Meeting of the Community and Protective Services Committee](</months/2026-08/2026-08-10 12th Meeting of the Community and Protective Services Committee>) - Mon Aug 10 2026
 - [12th Meeting of Council](</months/2026-07/2026-07-21 12th Meeting of Council>) - Tue Jul 21 2026
 - [12th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-07/2026-07-15 12th Meeting of the Infrastructure and Corporate Services Committee>) - Wed Jul 15 2026
@@ -220,4 +221,3 @@ Voted **Nay** - Motion Passed (4 to 1)
 - [10th Special Meeting of the Community and Protective Services Committee](</months/2026-06/2026-06-16 10th Special Meeting of the Community and Protective Services Committee>) - Tue Jun 16 2026
 - [8th Meeting of the Strategic Priorities and Policy Committee](</months/2026-06/2026-06-16 8th Meeting of the Strategic Priorities and Policy Committee>) - Tue Jun 16 2026
 - [11th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-06/2026-06-15 11th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Jun 15 2026
-- [9th Meeting of Council](</months/2026-06/2026-06-02 9th Meeting of Council>) - Tue Jun 2 2026
