@@ -2,11 +2,11 @@
   "councillor": "Paul Van Meerbergen",
   "slug": "p-van-meerbergen",
   "attendance": {
-    "totalMeetings": 597,
-    "present": 569,
+    "totalMeetings": 598,
+    "present": 570,
     "absent": 28,
     "remote": 6,
-    "attendanceRate": 95.30988274706867,
+    "attendanceRate": 95.31772575250837,
     "trend": [
       {
         "period": "2011",
@@ -82,20 +82,20 @@
       },
       {
         "period": "2026",
-        "attendanceRate": 96,
-        "meetingsAttended": 24,
-        "meetingsTotal": 25
+        "attendanceRate": 96.15384615384616,
+        "meetingsAttended": 25,
+        "meetingsTotal": 26
       }
     ],
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 8876,
-    "yeas": 6909,
+    "totalVotes": 8878,
+    "yeas": 6911,
     "nays": 1031,
     "absent": 936,
-    "participationRate": 89.45470932852636,
-    "yeaRate": 87.01511335012594,
+    "participationRate": 89.45708492903806,
+    "yeaRate": 87.0183832787711,
     "contestedDissentRate": 22.731755424063117,
     "contestedVotes": 4056,
     "substantiveVotes": 6194,
@@ -297,10 +297,10 @@
     },
     {
       "committee": "Infrastructure and Corporate Services Committee",
-      "totalVotes": 168,
-      "yeas": 144,
+      "totalVotes": 170,
+      "yeas": 146,
       "nays": 19,
-      "participationRate": 97.02380952380952
+      "participationRate": 97.05882352941177
     },
     {
       "committee": "Corporate Services Committee",
