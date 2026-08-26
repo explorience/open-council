@@ -150,8 +150,14 @@ curl https://open-council-production.up.railway.app/api/stats
 ```
 
 ### Trigger Manual Update (Optional)
+This endpoint can trigger a FULL, paid re-embedding of the entire archive
+(`?full=true`), so it requires the `ADMIN_API_TOKEN` set on Railway, passed as
+an `x-admin-token` header. Without it (or if `ADMIN_API_TOKEN` isn't set on
+Railway at all), the request is rejected.
+
 ```bash
-curl -X POST https://open-council-production.up.railway.app/api/regenerate
+curl -X POST https://open-council-production.up.railway.app/api/regenerate \
+  -H "x-admin-token: $ADMIN_API_TOKEN"
 ```
 
 This runs in the background. Check `/api/stats` to monitor progress.

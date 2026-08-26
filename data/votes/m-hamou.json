@@ -1,14 +1,17 @@
 {
   "councillor": "M. Hamou",
   "slug": "m-hamou",
-  "generatedAt": "2026-08-26T07:25:46.135Z",
+  "generatedAt": "2026-08-26T14:06:05.830Z",
   "sourceHash": "b7db59b827637e80",
   "summary": {
     "totalMeetings": 4,
     "totalVotes": 5,
     "yeas": 0,
     "nays": 3,
-    "absent": 2
+    "absent": 0,
+    "recuse": 2,
+    "abstain": 0,
+    "other": 0
   },
   "votes": [
     {
@@ -48,7 +51,7 @@
       "itemNumber": "6",
       "itemTitle": "Communications and Petitions",
       "motionText": "That the following communications BE RECEIVED and BE FORWARDED as noted on the Added Agenda: 6.1     Environmental Management Guidelines 1.     York Developments",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (14 to 0)",
       "passed": true,
       "unanimous": true
@@ -62,7 +65,7 @@
       "itemNumber": "8.2.19",
       "itemTitle": "(3.6) 978 Gainsborough Road (Z-9247)",
       "motionText": "That items 19, 22 and 25, BE APPROVED. 19.    (3.6) 978 Gainsborough Road (Z-9247) That the application by Highland Communities Limited, relating to the property located at 978 Gainsborough Road BE REFERRED back to the Civic Administration for further consideration;\n\nit being pointed out that the Planning and Environment Committee reviewed and received the following communications with respect to this matter: -    the staff presentation;\n\n-    a communication dated December 8, 2021 from H. Frous",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (14 to 0)",
       "passed": true,
       "unanimous": true

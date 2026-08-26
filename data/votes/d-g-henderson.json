@@ -1,14 +1,17 @@
 {
   "councillor": "D.G. Henderson",
   "slug": "d-g-henderson",
-  "generatedAt": "2026-08-26T07:25:46.100Z",
+  "generatedAt": "2026-08-26T14:06:05.781Z",
   "sourceHash": "b7db59b827637e80",
   "summary": {
     "totalMeetings": 125,
     "totalVotes": 2416,
     "yeas": 2166,
     "nays": 250,
-    "absent": 0
+    "absent": 0,
+    "recuse": 0,
+    "abstain": 0,
+    "other": 0
   },
   "votes": [
     {

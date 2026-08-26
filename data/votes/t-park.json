@@ -1,14 +1,17 @@
 {
   "councillor": "T. Park",
   "slug": "t-park",
-  "generatedAt": "2026-08-26T07:25:46.049Z",
+  "generatedAt": "2026-08-26T14:06:05.712Z",
   "sourceHash": "b7db59b827637e80",
   "summary": {
     "totalMeetings": 251,
     "totalVotes": 3563,
     "yeas": 3395,
     "nays": 148,
-    "absent": 20
+    "absent": 11,
+    "recuse": 9,
+    "abstain": 0,
+    "other": 0
   },
   "votes": [
     {
@@ -20,7 +23,7 @@
       "itemNumber": "9.1",
       "itemTitle": "20th Report of Council in Closed Session",
       "motionText": "- Property Acquisition – 449 Hill Street That it BE NOTED that the Municipal Council received an information report relating to the purchase of the property located at 449 Hill Street, in the amount of $333,255, for the purpose of a new Indigenous-led Licensed Child Care and Family Centre, was received.",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (12 to 0)",
       "passed": true,
       "unanimous": true
@@ -146,7 +149,7 @@
       "itemNumber": "8.1.14",
       "itemTitle": "(3.6) Application - 147-149 Wellington Street and 253-257 Grey Street (Z-8905) (Relates to Bill No. 593)",
       "motionText": "That, on the recommendation of the Managing Director, Planning and City Planner, with respect to the application of JAM Properties Inc., relating to the property located at 147-149 Wellington Street and 253-257 Grey Street: a)            the proposed by-law appended to the staff report dated October 9, 2018 BE INTRODUCED at the Municipal Council meeting to be held on October 16, 2018 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject prop",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (13 to 0)",
       "passed": true,
       "unanimous": true
@@ -160,7 +163,7 @@
       "itemNumber": "8.3.6",
       "itemTitle": "(2.1) London Health Sciences Centre South Street Campus Decommissioning (Phase B)",
       "motionText": "That, on the recommendation of City Solicitor’s Office, the following actions be taken with respect to the City owned South Street Campus lands under lease to LHSC and LHSC owned lands: a)            the Mayor and City Clerk BE AUTHORIZED to execute the Lease Amending Agreement appended to the staff report dated October 9, 2018 as Schedule “A” to “E”, or substantially in the form of Schedule “A” and approved by the City Solicitor’s office; and b)            the balance of the above-noted staff r",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (13 to 0)",
       "passed": true,
       "unanimous": true
@@ -426,7 +429,7 @@
       "itemNumber": "3.2",
       "itemTitle": "Public Participation Meeting - 147-149 Wellington Street - 253 and 257 Grey Street (Z-8905)",
       "motionText": "Motion to open the public participation meeting.",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (4 to 0)",
       "passed": true,
       "unanimous": true
@@ -468,7 +471,7 @@
       "itemNumber": "13",
       "itemTitle": "By-laws",
       "motionText": "That Introduction and First Reading of Bill No. 541, BE APPROVED.",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (13 to 0)",
       "passed": true,
       "unanimous": true
@@ -482,7 +485,7 @@
       "itemNumber": "13",
       "itemTitle": "By-laws",
       "motionText": "That Second Reading of Bill No. 541, BE APPROVED.",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (13 to 0)",
       "passed": true,
       "unanimous": true
@@ -496,7 +499,7 @@
       "itemNumber": "13",
       "itemTitle": "By-laws",
       "motionText": "That Third Reading and Enactment of Bill No. 541, BE APPROVED.",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (13 to 0)",
       "passed": true,
       "unanimous": true
@@ -580,7 +583,7 @@
       "itemNumber": "8.1.17",
       "itemTitle": "(4.1) Medallion Realty Holdings - Application for Brownfield Incentives - 391 South Street ",
       "motionText": "That, on the recommendation of the Managing Director, Planning and City Planner, the following actions be taken with respect to the application of Medallion Realty Holdings (“Medallion”), relating to the property located at 391 South Street: a)          a total expenditure of up to a maximum of $4,328,520 in municipal brownfield financial incentives BE APPROVED AND BE ALLOCATED at the Municipal Council meeting to be held on July 24, 2018 under the following two programs in the Community Improvem",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (14 to 0)",
       "passed": true,
       "unanimous": true
@@ -1350,7 +1353,7 @@
       "itemNumber": "5.1",
       "itemTitle": "(ADDED) 7th Report of the London Advisory Committee on Heritage",
       "motionText": "That, the following actions be taken with respect to the 7th Report of the London Advisory Committee on Heritage from its meeting held on June 13, 2018: a)         on the recommendation of the Managing Director, Planning & City Planner, with the advice of the Heritage Planner, the following actions be taken with respect to the request for demolition of the heritage listed property located at 2154 Richmond Street: i)          the Chief Building Official BE ADVISED that Municipal Council consents ",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (4 to 0)",
       "passed": true,
       "unanimous": true

@@ -219,7 +219,16 @@ def create_basic_markdown(meeting_data, json_path):
   else:
     page_title = title
 
-  md = f"---\ntitle: \"{page_title}\"\ndate: {date_str}\n---\n"
+  # Tag placeholder pages explicitly in frontmatter (Bug 2 fix) so
+  # scripts/generate-pages.ts can reliably tell a "minutes not yet
+  # published" stub apart from a real meeting page when deduping, without
+  # relying only on matching body text. Only set for genuine placeholders
+  # (create_placeholder_meeting sets meeting_data["placeholder"] = True) -
+  # transcript-only pages built here are real content, not placeholders.
+  is_placeholder = bool(meeting_data.get('placeholder'))
+  placeholder_frontmatter = "\nplaceholder: true" if is_placeholder else ""
+
+  md = f"---\ntitle: \"{page_title}\"\ndate: {date_str}{placeholder_frontmatter}\n---\n"
   md += f"{date_display}\n\n"
 
   # Link to original if available

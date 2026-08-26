@@ -24,6 +24,13 @@ export interface Meeting {
     transcript: boolean;
   };
   news_coverage?: NewsCoverage[];
+  /** True for a stub written by scraping/process_meeting.py's
+   * create_placeholder_meeting() when official minutes aren't published
+   * yet. Must be excluded from the embeddings corpus - see
+   * EmbeddingGenerator.loadMeetings() - so a placeholder never surfaces as
+   * a confusing near-empty duplicate of the real meeting once minutes
+   * publish. See also lib/meetings/dedupe-placeholders.ts (Bug 2). */
+  placeholder?: boolean;
 }
 
 export interface TranscriptVote {

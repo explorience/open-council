@@ -1,30 +1,33 @@
 {
-  "generatedAt": "2026-04-13T22:18:01.554Z",
+  "generatedAt": "2026-08-26T14:06:09.522Z",
   "matrix": {
     "j-morgan": {
       "h-mcalister": 100,
-      "s-stevenson": 80,
+      "s-stevenson": 70,
       "j-pribil": 92.3076923076923,
       "c-rahman": 100,
       "a-hopkins": 84.61538461538461,
-      "p-van-meerbergen": 88.88888888888889,
-      "s-franke": 100
+      "p-van-meerbergen": 93.54838709677419,
+      "s-franke": 100,
+      "e-peloza": 93.33333333333333
     },
     "h-mcalister": {
       "j-morgan": 100,
-      "s-stevenson": 80,
+      "s-stevenson": 74.60317460317461,
       "c-rahman": 92,
-      "p-van-meerbergen": 84.61538461538461,
-      "s-franke": 88.46153846153845
+      "p-van-meerbergen": 90.9090909090909,
+      "s-franke": 93.54838709677419,
+      "e-peloza": 92.6829268292683
     },
     "s-lewis": {},
     "p-cuddy": {},
     "s-stevenson": {
-      "j-morgan": 80,
-      "h-mcalister": 80,
+      "j-morgan": 70,
+      "h-mcalister": 74.60317460317461,
       "c-rahman": 88,
-      "p-van-meerbergen": 88,
-      "s-franke": 84
+      "p-van-meerbergen": 78.68852459016394,
+      "s-franke": 73.77049180327869,
+      "e-peloza": 67.56756756756756
     },
     "j-pribil": {
       "j-morgan": 92.3076923076923,
@@ -52,24 +55,32 @@
       "s-franke": 98.11320754716981
     },
     "p-van-meerbergen": {
-      "j-morgan": 88.88888888888889,
-      "h-mcalister": 84.61538461538461,
-      "s-stevenson": 88,
+      "j-morgan": 93.54838709677419,
+      "h-mcalister": 90.9090909090909,
+      "s-stevenson": 78.68852459016394,
       "j-pribil": 81.48148148148148,
       "c-rahman": 85.54216867469879,
       "a-hopkins": 84.21052631578947,
-      "s-franke": 83.75
+      "s-franke": 86.8421052631579,
+      "e-peloza": 87.17948717948718
     },
     "s-franke": {
       "j-morgan": 100,
-      "h-mcalister": 88.46153846153845,
-      "s-stevenson": 84,
+      "h-mcalister": 93.54838709677419,
+      "s-stevenson": 73.77049180327869,
       "j-pribil": 96,
       "c-rahman": 97.46835443037975,
       "a-hopkins": 98.11320754716981,
-      "p-van-meerbergen": 83.75
+      "p-van-meerbergen": 86.8421052631579,
+      "e-peloza": 88.57142857142857
     },
-    "e-peloza": {},
+    "e-peloza": {
+      "j-morgan": 93.33333333333333,
+      "h-mcalister": 92.6829268292683,
+      "s-stevenson": 67.56756756756756,
+      "p-van-meerbergen": 87.17948717948718,
+      "s-franke": 88.57142857142857
+    },
     "d-ferreira": {},
     "s-hillier": {}
   },
@@ -105,9 +116,13 @@
     {
       "slug": "s-franke",
       "name": "Skylar Franke"
+    },
+    {
+      "slug": "e-peloza",
+      "name": "Elizabeth Peloza"
     }
   ],
   "type": "committee",
-  "motionCount": 86,
+  "motionCount": 128,
   "committeeName": "Infrastructure and Corporate Services Committee"
 }

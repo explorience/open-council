@@ -1,14 +1,17 @@
 {
   "councillor": "P. Hubert",
   "slug": "p-hubert",
-  "generatedAt": "2026-08-26T07:25:45.998Z",
+  "generatedAt": "2026-08-26T14:06:05.652Z",
   "sourceHash": "b7db59b827637e80",
   "summary": {
     "totalMeetings": 389,
     "totalVotes": 6520,
     "yeas": 6043,
     "nays": 445,
-    "absent": 32
+    "absent": 26,
+    "recuse": 6,
+    "abstain": 0,
+    "other": 0
   },
   "votes": [
     {
@@ -202,7 +205,7 @@
       "itemNumber": "8.4.7",
       "itemTitle": "(2.6) Ontario Works Employment Innovations - Bridges Out of Poverty & Circles Evaluation #2",
       "motionText": "That, on the recommendation of the Managing Director, Housing, Social Services and Dearness Home, the staff report dated November 13, 2018 with respect to the Ontario Works Employment Innovations Bridges Out of Poverty and Circles Evaluation #2, BE RECEIVED. (2018-S04)",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (12 to 0)",
       "passed": true,
       "unanimous": true
@@ -3002,7 +3005,7 @@
       "itemNumber": "8.2.3",
       "itemTitle": "(2.2) Stoney Creek Community Centre, YMCA, and Library User Agreement Amendment (Relates to Bill No. 426)",
       "motionText": "That, on the recommendation of the Managing Director, Parks and Recreation and the Managing Director, Neighbourhood, Children and Fire Services, the proposed by-law, appended to the staff report dated July 16, 2018, BE INTRODUCED at the Municipal Council meeting to be held on July 24, 2018, to: a)            approve and authorize the Amending Agreement to the City User Agreement between The Corporation of the City of London and the YMCA of Western Ontario; and, b)            authorize the Mayor ",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (14 to 0)",
       "passed": true,
       "unanimous": true
@@ -3198,7 +3201,7 @@
       "itemNumber": "13",
       "itemTitle": "By-laws",
       "motionText": "That Introduction and First Reading of Bill No. 426, BE APPROVED.",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (12 to 0)",
       "passed": true,
       "unanimous": true
@@ -3212,7 +3215,7 @@
       "itemNumber": "13",
       "itemTitle": "By-laws",
       "motionText": "That Second Reading of Bill No. 426, BE APPROVED.",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (12 to 0)",
       "passed": true,
       "unanimous": true
@@ -3226,7 +3229,7 @@
       "itemNumber": "13",
       "itemTitle": "By-laws",
       "motionText": "That Third Reading and Enactment of Bill No. 426, BE APPROVED.",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (12 to 0)",
       "passed": true,
       "unanimous": true
@@ -7104,7 +7107,7 @@
       "itemNumber": "2.8",
       "itemTitle": "Declare Surplus and Sale - 1694 Evangeline Street and 126 Hamilton Road",
       "motionText": "That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, on the advice of the Manager of Realty Services, the following actions be taken with respect to the City-owned properties located at 1694 Evangeline Street, described as Part Lot 17, Registered Plan 19 and Lots 110 and 111, Registered Plan 483, containing an area of approximately 0.871 acres and 126 Hamilton Road, described as Part of Lot 24, west side William Street and south si",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (5 to 0)",
       "passed": true,
       "unanimous": true

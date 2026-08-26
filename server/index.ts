@@ -11,6 +11,10 @@ import { logChatInteraction, generateSessionId, topKToComplexity, ChatLogEntry }
 import { EmbeddingGenerator } from './embeddings.js';
 import { logQuery, getCombinedTrending } from './analytics.js';
 import type { ChatRequest } from './types.js';
+import { requireAdminToken } from './admin-auth.js';
+import { parseAllowedOrigins, buildCorsOptions } from './cors-config.js';
+import { createChatRateLimiters, TRUST_PROXY_HOPS } from './rate-limit.js';
+import { sanitizeChatError } from './error-sanitizer.js';
 
 // Load environment variables
 config();
@@ -18,9 +22,36 @@ config();
 const app = express();
 const PORT = parseInt(process.env.PORT || '3001', 10);
 
+// Trust exactly one reverse-proxy hop (Railway's edge). This must be a number,
+// never `true` — `true` trusts the entire X-Forwarded-For chain and lets a
+// client spoof its own IP, defeating the per-IP rate limiting below. See
+// server/tests/trust-proxy.test.ts for the empirical proof of this behavior.
+app.set('trust proxy', TRUST_PROXY_HOPS);
+
 // Middleware
-app.use(cors());
-app.use(express.json());
+// CORS is restricted to an explicit allowlist (ALLOWED_ORIGINS env var, comma-
+// separated) instead of the previous wide-open `cors()`, which let any
+// third-party page's client-side JS drive paid /api/chat calls from every
+// visitor's browser. See server/cors-config.ts.
+const allowedOrigins = parseAllowedOrigins(process.env.ALLOWED_ORIGINS);
+if (allowedOrigins.length === 0) {
+  console.warn(
+    '⚠️  ALLOWED_ORIGINS is not set — no browser origin will be permitted to call this API. ' +
+    'Set it to a comma-separated list, e.g. "https://opencouncil.xyz,http://localhost:8080".'
+  );
+}
+app.use(cors(buildCorsOptions(allowedOrigins)));
+// Bound request body size (was unbounded/default). A civic Q&A chat message +
+// history has no legitimate need to be large; this also caps how much an
+// attacker can inflate a single request before it even reaches route logic.
+app.use(express.json({ limit: '32kb' }));
+
+if (!process.env.ADMIN_API_TOKEN) {
+  console.warn(
+    '⚠️  ADMIN_API_TOKEN is not set — POST /api/regenerate will refuse all requests (fail closed) ' +
+    'until it is configured. This is expected/safe; set it before relying on that endpoint.'
+  );
+}
 
 // Initialize services
 let vectorStore: VectorStore;
@@ -100,7 +131,11 @@ app.get('/api/stats', async (_req, res) => {
 });
 
 // Get relevant context for a query (debugging endpoint)
-app.post('/api/context', async (req, res) => {
+// Same cost-DoS shape as /api/chat: getRelevantContext() generates an OpenAI
+// embedding per call, so this gets the same per-IP rate limiting and the same
+// sanitized (no raw-SDK-text) error response — it was previously unprotected
+// by either.
+app.post('/api/context', createChatRateLimiters(), async (req: express.Request, res: express.Response) => {
   try {
     const { query } = req.body;
 
@@ -111,9 +146,14 @@ app.post('/api/context', async (req, res) => {
     const results = await ragService.getRelevantContext(query);
     res.json({ results });
   } catch (error) {
+    const sanitized = sanitizeChatError(error);
     const err = error as Error;
-    console.error('Error retrieving context:', { message: err.message, stack: err.stack });
-    res.status(500).json({ error: 'Failed to retrieve context', debug: err.message });
+    console.error('Error retrieving context:', {
+      errorId: sanitized.errorId,
+      message: err.message,
+      stack: err.stack,
+    });
+    res.status(500).json(sanitized);
   }
 });
 
@@ -133,7 +173,12 @@ app.get('/api/trending', (_req, res) => {
 });
 
 // Chat endpoint with streaming
-app.post('/api/chat', async (req, res) => {
+// Rate limited per-IP (see server/rate-limit.ts): this covers ALL of /api/chat,
+// including the "most recent meeting" retrieval path (rag-service.ts,
+// vectorStore.getMostRecent) which uses a dummy vector and never calls
+// OpenAI/Anthropic — so it stays abusable (server load, not $ cost) even while
+// the OpenAI key is out of credit, and rate limiting is the only guard on it.
+app.post('/api/chat', createChatRateLimiters(), async (req: express.Request, res: express.Response) => {
   try {
     const { message, history = [], sessionId: clientSessionId } = req.body as ChatRequest & { sessionId?: string };
 
@@ -225,53 +270,26 @@ app.post('/api/chat', async (req, res) => {
       };
       logChatInteraction(logEntry);
     } catch (error) {
-      // Extract useful error details for debugging
+      // Classify the error for a user-friendly message WITHOUT leaking the raw
+      // upstream error text to the client (it can contain billing URLs,
+      // provider identity, and rate-limit/quota internals). The sanitized
+      // payload carries an errorId that correlates to the full detail below,
+      // which is logged server-side only.
+      const sanitized = sanitizeChatError(error);
       const err = error as Error & { status?: number; code?: string; type?: string };
-      const errorMessage = err.message || 'Unknown error';
-      const errorCode = err.code || err.type || '';
-      const statusCode = err.status || 0;
 
-      // Categorize the error for user-friendly messaging
-      let userError = 'Error generating response';
-      let errorCategory = 'unknown';
-
-      if (errorMessage.includes('rate limit') || statusCode === 429) {
-        userError = 'Rate limit exceeded. Please wait a moment and try again.';
-        errorCategory = 'rate_limit';
-      } else if (errorMessage.includes('insufficient') || errorMessage.includes('credit') || errorMessage.includes('quota')) {
-        userError = 'API quota exceeded. Please try again later.';
-        errorCategory = 'quota';
-      } else if (errorMessage.includes('timeout') || errorCode === 'ETIMEDOUT' || errorCode === 'ESOCKETTIMEDOUT') {
-        userError = 'Request timed out. Try a simpler question.';
-        errorCategory = 'timeout';
-      } else if (errorMessage.includes('context') || errorMessage.includes('too long') || errorMessage.includes('maximum')) {
-        userError = 'Question too complex. Try breaking it into smaller parts.';
-        errorCategory = 'context_length';
-      } else if (statusCode === 401 || statusCode === 403 || errorMessage.includes('auth')) {
-        userError = 'API authentication error. Please contact support.';
-        errorCategory = 'auth';
-      } else if (statusCode >= 500 || errorMessage.includes('unavailable')) {
-        userError = 'AI service temporarily unavailable. Please try again.';
-        errorCategory = 'service_unavailable';
-      }
-
-      // Detailed server logging - always include stack trace
       console.error('Error in chat stream:', {
-        category: errorCategory,
-        message: errorMessage,
-        code: errorCode,
-        status: statusCode,
+        errorId: sanitized.errorId,
+        category: sanitized.errorCategory,
+        message: err?.message,
+        code: err?.code || err?.type,
+        status: err?.status,
         query: message.substring(0, 100),
-        stack: err.stack,
+        stack: err?.stack,
         timestamp: new Date().toISOString(),
       });
 
-      res.write(`data: ${JSON.stringify({
-        error: userError,
-        errorCategory,
-        // Always include debug info - this is an API, not a public page
-        debug: errorMessage,
-      })}\n\n`);
+      res.write(`data: ${JSON.stringify(sanitized)}\n\n`);
       res.end();
     }
   } catch (error) {
@@ -289,7 +307,12 @@ app.post('/api/chat', async (req, res) => {
 
 // Trigger embedding regeneration (for when new meetings are added)
 // Use ?full=true or set FORCE_REGENERATE=true env var to regenerate ALL embeddings
-app.post('/api/regenerate', async (req, res) => {
+//
+// CRITICAL: ?full=true re-embeds the ENTIRE archive via paid OpenAI calls
+// (thousands of requests). This endpoint is gated by requireAdminToken, which
+// fails closed (503) if ADMIN_API_TOKEN isn't configured, and otherwise
+// requires a matching `x-admin-token` header. See server/admin-auth.ts.
+app.post('/api/regenerate', requireAdminToken, async (req, res) => {
   try {
     // Check if already regenerating
     if (isRegenerating) {
@@ -456,7 +479,7 @@ async function start() {
   try {
     await initializeServices();
 
-    app.listen(PORT, '0.0.0.0', () => {
+    const server = app.listen(PORT, '0.0.0.0', () => {
       console.log(`\n🚀 RAG Chatbot API running on http://0.0.0.0:${PORT}`);
       console.log(`\nEndpoints:`);
       console.log(`  GET  /health          - Health check`);
@@ -464,9 +487,20 @@ async function start() {
       console.log(`  GET  /api/trending    - Trending topics`);
       console.log(`  POST /api/context     - Get relevant context`);
       console.log(`  POST /api/chat        - Chat with streaming`);
-      console.log(`  POST /api/regenerate  - Add embeddings for new meetings`);
+      console.log(`  POST /api/regenerate  - Add embeddings for new meetings (requires x-admin-token)`);
       console.log(`  POST /api/feedback    - Submit feedback`);
     });
+
+    // Exit 0 on SIGTERM/SIGINT: Railway replaces this container on every push
+    // to main, and a non-zero exit during that shutdown is reported as a
+    // crashed deploy (nightly false-alarm emails).
+    const shutdown = (signal: string) => {
+      console.log(`${signal} received, shutting down gracefully`);
+      server.close(() => process.exit(0));
+      setTimeout(() => process.exit(0), 5000).unref();
+    };
+    process.on('SIGTERM', () => shutdown('SIGTERM'));
+    process.on('SIGINT', () => shutdown('SIGINT'));
   } catch (error) {
     console.error('Failed to start server:', error);
     process.exit(1);

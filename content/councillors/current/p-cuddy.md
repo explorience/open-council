@@ -8,7 +8,10 @@ isCurrent: true
 totalVotes: 4389
 votesYea: 3706
 votesNay: 345
-votesAbsent: 338
+votesAbsent: 97
+votesRecused: 11
+votesAbstained: 1
+votesOther: 229
 attendanceRate: 98.3
 participationRate: 92.3
 yeaRate: 91.5
@@ -33,7 +36,12 @@ prefillQuestions:
 | Total Votes | 4,389 |
 | Voted Yea | 3,706 (84.4%) |
 | Voted Nay | 345 (7.9%) |
-| Absent | 338 (7.7%) |
+| Absent | 97 (2.2%) |
+| Recused (conflict of interest) | 11 (0.3%) |
+| Abstained | 1 (0.0%) |
+| Other/Unrecorded | 229 (5.2%) |
+
+*Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
 
 
 ### Substantive Votes
@@ -218,8 +226,8 @@ Voted **Nay** - Motion Passed (7 to 6)
 - [The 11th Meeting of the Planning and Environment Committee](</months/2026-07/2026-07-14 The 11th Meeting of the Planning and Environment Committee>) - Tue Jul 14 2026
 - [11th Meeting of Council](</months/2026-06/2026-06-23 11th Meeting of Council>) - Tue Jun 23 2026
 - [The 10th Meeting of the Planning and Environment Committee](</months/2026-06/2026-06-22 The 10th Meeting of the Planning and Environment Committee>) - Mon Jun 22 2026
-- [10th Special Meeting of Council](</months/2026-06/2026-06-17 10th Special Meeting of Council>) - Wed Jun 17 2026
 - [3rd Meeting of the Audit Committee](</months/2026-06/2026-06-17 3rd Meeting of the Audit Committee>) - Wed Jun 17 2026
+- [10th Special Meeting of Council](</months/2026-06/2026-06-17 10th Special Meeting of Council>) - Wed Jun 17 2026
 - [8th Meeting of the Strategic Priorities and Policy Committee](</months/2026-06/2026-06-16 8th Meeting of the Strategic Priorities and Policy Committee>) - Tue Jun 16 2026
 - [The 9th Meeting of the Planning and Environment Committee](</months/2026-06/2026-06-09 The 9th Meeting of the Planning and Environment Committee>) - Tue Jun 9 2026
 - [9th Meeting of Council](</months/2026-06/2026-06-02 9th Meeting of Council>) - Tue Jun 2 2026

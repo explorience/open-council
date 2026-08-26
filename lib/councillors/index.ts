@@ -61,3 +61,11 @@ export {
   looksLikeCouncillorName,
   getNameVariations,
 } from "./normalize.js"
+
+// Roster generation (for the chatbot's anti-hallucination allow-list)
+export {
+  buildCouncillorRosterSection,
+  partitionRoster,
+  getTermCoveringYear,
+  type RosterEntry,
+} from "./roster.js"

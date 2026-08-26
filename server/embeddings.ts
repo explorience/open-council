@@ -37,6 +37,7 @@ export class EmbeddingGenerator {
    */
   async loadMeetings(): Promise<{ meeting: Meeting; filePath: string }[]> {
     const meetings: { meeting: Meeting; filePath: string }[] = [];
+    let skippedPlaceholders = 0;
 
     try {
       const monthDirs = await readdir(this.dataDir);
@@ -55,8 +56,24 @@ export class EmbeddingGenerator {
           const filePath = join(monthPath, file);
           const content = await readFile(filePath, 'utf-8');
           const meeting = JSON.parse(content) as Meeting;
+
+          // Skip "minutes not yet published" placeholder stubs (Bug 2).
+          // Embedding them creates a near-empty, confusing duplicate chunk
+          // (empty attendance list, same meeting URL as the real meeting)
+          // in the search corpus that never gets cleaned up even after
+          // the real minutes publish and content/generate-pages.ts drops
+          // the placeholder from the live index pages.
+          if (meeting.placeholder) {
+            skippedPlaceholders++;
+            continue;
+          }
+
           meetings.push({ meeting, filePath });
         }
+      }
+
+      if (skippedPlaceholders > 0) {
+        console.log(`   ⏭️  Skipped ${skippedPlaceholders} placeholder meeting(s) (minutes not yet published)`);
       }
 
       // Log the date range of loaded meetings

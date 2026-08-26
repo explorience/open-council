@@ -1,14 +1,17 @@
 {
   "councillor": "C. Rahman",
   "slug": "c-rahman",
-  "generatedAt": "2026-08-26T07:25:45.533Z",
+  "generatedAt": "2026-08-26T14:06:05.090Z",
   "sourceHash": "b7db59b827637e80",
   "summary": {
     "totalMeetings": 200,
     "totalVotes": 3755,
     "yeas": 3130,
     "nays": 368,
-    "absent": 257
+    "absent": 47,
+    "recuse": 23,
+    "abstain": 1,
+    "other": 186
   },
   "votes": [
     {
@@ -2946,7 +2949,7 @@
       "itemNumber": "8.1.2",
       "itemTitle": "(2.1) Extension of Fanshawe College Agreement to Support Downtown Campus (Relates to Bill No. 190)",
       "motionText": "That, on the recommendation of the Deputy City Manager, Finance Supports, the proposed by‑law, as appended to the staff report dated May 6, 2026 as Appendix “A” BE INTRODUCED at the Municipal Council meeting to be held on May 12, 2026: a)    to approve an amending agreement between The Corporation of the City of London and Fanshawe College of Applied Arts and Technology to extend the term of the existing agreement for an additional one (1) year, on the terms and conditions set out therein (the “",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (14 to 0)",
       "passed": true,
       "unanimous": true
@@ -3156,7 +3159,7 @@
       "itemNumber": "13",
       "itemTitle": "By-laws",
       "motionText": "That Introduction and First Reading of Bill No.190 BE APPROVED.",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (13 to 0)",
       "passed": true,
       "unanimous": true
@@ -3170,7 +3173,7 @@
       "itemNumber": "13",
       "itemTitle": "By-laws",
       "motionText": "That Second Reading of Bill No.190 BE APPROVED.",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (13 to 0)",
       "passed": true,
       "unanimous": true
@@ -3184,7 +3187,7 @@
       "itemNumber": "13",
       "itemTitle": "By-laws",
       "motionText": "That Third Reading and Enactment of Bill No.190 BE APPROVED.",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (13 to 0)",
       "passed": true,
       "unanimous": true
@@ -8966,7 +8969,7 @@
       "itemNumber": "9",
       "itemTitle": "Added Reports",
       "motionText": "That clause 1 of the 17th Report of the Council, In Closed Session BE APPROVED. At 4:15 PM, Councillor P. Van Meerbergen leaves the meeting.",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (12 to 1)",
       "passed": true,
       "unanimous": false
@@ -9036,7 +9039,7 @@
       "itemNumber": "13",
       "itemTitle": "By-laws",
       "motionText": "That Introduction and First Reading of Added Bill No. 400 BE APPROVED.",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (12 to 1)",
       "passed": true,
       "unanimous": false
@@ -9078,7 +9081,7 @@
       "itemNumber": "13",
       "itemTitle": "By-laws",
       "motionText": "That Second Reading of Added Bill No. 400 BE APPROVED.",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (12 to 1)",
       "passed": true,
       "unanimous": false
@@ -9092,7 +9095,7 @@
       "itemNumber": "13",
       "itemTitle": "By-laws",
       "motionText": "That Third Reading and Enactment of Added Bill No. 400 BE APPROVED.",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (12 to 1)",
       "passed": true,
       "unanimous": false
@@ -9638,7 +9641,7 @@
       "itemNumber": "4.3",
       "itemTitle": "Consideration of Appointment to the Covent Garden Market Board of Directors (Requires 1 Member)",
       "motionText": "Appointment to the Covent Garden Market Board of Directors",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Jim Yanchula",
       "passed": false,
       "unanimous": false
@@ -9652,7 +9655,7 @@
       "itemNumber": "4.3",
       "itemTitle": "Consideration of Appointment to the Covent Garden Market Board of Directors (Requires 1 Member)",
       "motionText": "Appointment to the Covent Garden Market Board of Directors",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -9666,7 +9669,7 @@
       "itemNumber": "4.3",
       "itemTitle": "Consideration of Appointment to the Covent Garden Market Board of Directors (Requires 1 Member)",
       "motionText": "Appointment to the Covent Garden Market Board of Directors",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: David Little",
       "passed": false,
       "unanimous": false
@@ -9694,7 +9697,7 @@
       "itemNumber": "4.4",
       "itemTitle": "Consideration of Appointment to the Committee of Adjustment (Requires 1 Member)",
       "motionText": "Appointment to the Committee of Adjustment",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Jeff Gard",
       "passed": false,
       "unanimous": false
@@ -12130,7 +12133,7 @@
       "itemNumber": "4.3",
       "itemTitle": "Consideration of Appointment to the Eldon House Board of Directors (Requires 1 Member)",
       "motionText": "Consideration of Appointment to the Eldon House Board of Directors.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Michelle Southern",
       "passed": false,
       "unanimous": false
@@ -12466,7 +12469,7 @@
       "itemNumber": "8.2.8",
       "itemTitle": "(2.8) RFT 2025-041 Bridging Supports - Housing Stability Services",
       "motionText": "That, on the recommendation of the Deputy City Manager, Social and Health Development and the Senior Manager, Procurement and Supply Services, the staff report dated July 14, 2025, with respect to RFT-2025-041 Bridging Supports – Housing Stability Services, BE RECEIVED. (2025-S11/S14)",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (14 to 0)",
       "passed": true,
       "unanimous": true
@@ -18934,7 +18937,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -18948,7 +18951,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -18962,7 +18965,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -18976,7 +18979,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -18990,7 +18993,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19004,7 +19007,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19018,7 +19021,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19032,7 +19035,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19046,7 +19049,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19060,7 +19063,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19074,7 +19077,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19088,7 +19091,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19102,7 +19105,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19116,7 +19119,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19130,7 +19133,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19144,7 +19147,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19158,7 +19161,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19172,7 +19175,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19186,7 +19189,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19200,7 +19203,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19214,7 +19217,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19228,7 +19231,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19242,7 +19245,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19256,7 +19259,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19270,7 +19273,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19284,7 +19287,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19298,7 +19301,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19312,7 +19315,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19326,7 +19329,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19340,7 +19343,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19354,7 +19357,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19368,7 +19371,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19382,7 +19385,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19396,7 +19399,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19410,7 +19413,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19424,7 +19427,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19438,7 +19441,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19452,7 +19455,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19466,7 +19469,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19480,7 +19483,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19494,7 +19497,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19508,7 +19511,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19522,7 +19525,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19536,7 +19539,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19550,7 +19553,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19564,7 +19567,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19578,7 +19581,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19592,7 +19595,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19606,7 +19609,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19620,7 +19623,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19634,7 +19637,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19648,7 +19651,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19662,7 +19665,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19676,7 +19679,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19690,7 +19693,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19704,7 +19707,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19718,7 +19721,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19732,7 +19735,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19746,7 +19749,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19760,7 +19763,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19774,7 +19777,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19788,7 +19791,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19802,7 +19805,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19816,7 +19819,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19830,7 +19833,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19844,7 +19847,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19858,7 +19861,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19872,7 +19875,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19886,7 +19889,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19900,7 +19903,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19914,7 +19917,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19928,7 +19931,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19942,7 +19945,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19956,7 +19959,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19970,7 +19973,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19984,7 +19987,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -19998,7 +20001,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "abstain",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -20012,7 +20015,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -20026,7 +20029,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -20040,7 +20043,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -20054,7 +20057,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -20068,7 +20071,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -20082,7 +20085,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -20096,7 +20099,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -20110,7 +20113,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -20124,7 +20127,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -20138,7 +20141,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -20152,7 +20155,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 11 Members)",
       "motionText": "Consideration of appointment to the Accessibility Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -20208,7 +20211,7 @@
       "itemNumber": "4.5",
       "itemTitle": "Consideration of Appointment to the Covent Garden Market Board of Directors (Requires 1 Member)",
       "motionText": "Consideration of Appointment to the Covent Garden Market Board of Directors.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: William Westgate",
       "passed": false,
       "unanimous": false
@@ -21118,7 +21121,7 @@
       "itemNumber": "4.1",
       "itemTitle": "Consideration of Appointment to the Eldon House Board of Directors (Requires 1 Member)",
       "motionText": "Appointment to the Eldon House Board of Directors (Requires 1 Member)",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Robert Fraser",
       "passed": false,
       "unanimous": false
@@ -21132,7 +21135,7 @@
       "itemNumber": "4.1",
       "itemTitle": "Consideration of Appointment to the Eldon House Board of Directors (Requires 1 Member)",
       "motionText": "Appointment to the Eldon House Board of Directors (Requires 1 Member)",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Robert Fraser",
       "passed": false,
       "unanimous": false
@@ -21160,7 +21163,7 @@
       "itemNumber": "4.2",
       "itemTitle": "London Public Library Board of Directors Vacancy",
       "motionText": "Appointment to the London Public Library Board of Directors (Requires 1 Member of Council)",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Josh Morgan",
       "passed": false,
       "unanimous": false
@@ -21650,7 +21653,7 @@
       "itemNumber": "8.1.11",
       "itemTitle": "(2.6) Contract Award: Tender No. RFT-2024-315 - East London Link and Municipal Infrastructure Improvements - Phase 4 - Oxford Street East (Relates to Bill No. 52)",
       "motionText": "That on the recommendation of the Deputy City Manager, Environment & Infrastructure, the following actions be taken with respect to the East London Link and Municipal Infrastructure Improvements Phase 4 project;\n\n\n\na)    the following actions BE TAKEN with respect to the award of the contract for the East London Link and Municipal Infrastructure Improvements Phase 4 project; it being noted that in accordance with Section 13.2 of the City of London’s Procurement of Goods and Services Policy Reque",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (12 to 0)",
       "passed": true,
       "unanimous": true
@@ -21748,7 +21751,7 @@
       "itemNumber": "13",
       "itemTitle": "By-laws",
       "motionText": "That Introduction and First Reading of Bill No. 52 BE APPROVED.",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (13 to 0)",
       "passed": true,
       "unanimous": true
@@ -21762,7 +21765,7 @@
       "itemNumber": "13",
       "itemTitle": "By-laws",
       "motionText": "That Second Reading of Bill No. 52 BE APPROVED.",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (13 to 0)",
       "passed": true,
       "unanimous": true
@@ -21776,7 +21779,7 @@
       "itemNumber": "13",
       "itemTitle": "By-laws",
       "motionText": "That Third Reading and Enactment of Bill No. 52 BE APPROVED.",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (13 to 0)",
       "passed": true,
       "unanimous": true
@@ -22000,7 +22003,7 @@
       "itemNumber": "2.6",
       "itemTitle": "Contract Award: Tender No. RFT-2024-315 - East London Link and Municipal Infrastructure Improvements - Phase 4 - Oxford Street East",
       "motionText": "That on the recommendation of the Deputy City Manager, Environment & Infrastructure, the following actions be taken with respect to the East London Link and Municipal Infrastructure Improvements Phase 4 project; a)    the following actions BE TAKEN with respect to the award of the contract for the East London Link and Municipal Infrastructure Improvements Phase 4 project; it being noted that in accordance with Section 13.2 of the City of London’s Procurement of Goods and Services Policy Request ",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (3 to 1)",
       "passed": true,
       "unanimous": false
@@ -25766,7 +25769,7 @@
       "itemNumber": "4.5",
       "itemTitle": "Committee Appointment Preferences Submitted by Council Members",
       "motionText": "Appointment to Planning and Environment Committee",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Councillor P. Cuddy; Councillor E. Peloza; Councillor S. Hillier",
       "passed": false,
       "unanimous": false
@@ -25780,7 +25783,7 @@
       "itemNumber": "4.5",
       "itemTitle": "Committee Appointment Preferences Submitted by Council Members",
       "motionText": "Appointment to Planning and Environment Committee",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Councillor P. Cuddy; Councillor E. Peloza; Councillor S. Hillier",
       "passed": false,
       "unanimous": false
@@ -25794,7 +25797,7 @@
       "itemNumber": "4.5",
       "itemTitle": "Committee Appointment Preferences Submitted by Council Members",
       "motionText": "Appointment to Planning and Environment Committee",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Councillor P. Cuddy; Councillor E. Peloza; Councillor S. Hillier",
       "passed": false,
       "unanimous": false
@@ -30176,7 +30179,7 @@
       "itemNumber": "9.1",
       "itemTitle": "13th Report of Council in Closed Session",
       "motionText": "That Clause 3 of the Report of Council in Closed Session BE APPROVED.",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (11 to 1)",
       "passed": true,
       "unanimous": false
@@ -30302,7 +30305,7 @@
       "itemNumber": "13",
       "itemTitle": "By-laws",
       "motionText": "That Introduction and First Reading of Added Bill No. 265 BE APPROVED",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (11 to 1)",
       "passed": true,
       "unanimous": false
@@ -30316,7 +30319,7 @@
       "itemNumber": "13",
       "itemTitle": "By-laws",
       "motionText": "That Second Reading of Added Bill No. 265 BE APPROVED",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (11 to 1)",
       "passed": true,
       "unanimous": false
@@ -30330,7 +30333,7 @@
       "itemNumber": "13",
       "itemTitle": "By-laws",
       "motionText": "That Third Reading and Enactment of Added Bill No. 265 BE APPROVED",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (11 to 1)",
       "passed": true,
       "unanimous": false
@@ -33662,7 +33665,7 @@
       "itemNumber": "4.9",
       "itemTitle": "Consideration of Appointments to the London Community Advisory Committees",
       "motionText": "Consideration of appointments to the Diversity, Inclusion and Anti-Oppression Community Advisory Committee (1).",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Stephen D Amelio; Devinder Luthra; Leah Thomas Gray; Chantal Kamgne Tagatzi",
       "passed": false,
       "unanimous": false
@@ -33676,7 +33679,7 @@
       "itemNumber": "4.9",
       "itemTitle": "Consideration of Appointments to the London Community Advisory Committees",
       "motionText": "Consideration of appointments to the Diversity, Inclusion and Anti-Oppression Community Advisory Committee (1).",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Stephen D Amelio; Devinder Luthra; Leah Thomas Gray; Chantal Kamgne Tagatzi",
       "passed": false,
       "unanimous": false
@@ -33690,7 +33693,7 @@
       "itemNumber": "4.9",
       "itemTitle": "Consideration of Appointments to the London Community Advisory Committees",
       "motionText": "Consideration of appointments to the Diversity, Inclusion and Anti-Oppression Community Advisory Committee (1).",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Stephen D Amelio; Devinder Luthra; Leah Thomas Gray; Chantal Kamgne Tagatzi",
       "passed": false,
       "unanimous": false
@@ -33704,7 +33707,7 @@
       "itemNumber": "4.9",
       "itemTitle": "Consideration of Appointments to the London Community Advisory Committees",
       "motionText": "Consideration of appointments to the Diversity, Inclusion and Anti-Oppression Community Advisory Committee (1).",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Stephen D Amelio; Devinder Luthra; Leah Thomas Gray; Chantal Kamgne Tagatzi",
       "passed": false,
       "unanimous": false
@@ -33718,7 +33721,7 @@
       "itemNumber": "4.9",
       "itemTitle": "Consideration of Appointments to the London Community Advisory Committees",
       "motionText": "Consideration of appointments to the Diversity, Inclusion and Anti-Oppression Community Advisory Committee (2).",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Devinder Luthra; Stephen D Amelio; Leah Thomas Gray; Chantal Kamgne Tagatzi",
       "passed": false,
       "unanimous": false
@@ -33732,7 +33735,7 @@
       "itemNumber": "4.9",
       "itemTitle": "Consideration of Appointments to the London Community Advisory Committees",
       "motionText": "Consideration of appointments to the Diversity, Inclusion and Anti-Oppression Community Advisory Committee (2).",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Devinder Luthra; Stephen D Amelio; Leah Thomas Gray; Chantal Kamgne Tagatzi",
       "passed": false,
       "unanimous": false
@@ -33746,7 +33749,7 @@
       "itemNumber": "4.9",
       "itemTitle": "Consideration of Appointments to the London Community Advisory Committees",
       "motionText": "Consideration of appointments to the Diversity, Inclusion and Anti-Oppression Community Advisory Committee (2).",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Devinder Luthra; Stephen D Amelio; Leah Thomas Gray; Chantal Kamgne Tagatzi",
       "passed": false,
       "unanimous": false
@@ -33760,7 +33763,7 @@
       "itemNumber": "4.9",
       "itemTitle": "Consideration of Appointments to the London Community Advisory Committees",
       "motionText": "Consideration of appointments to the Diversity, Inclusion and Anti-Oppression Community Advisory Committee (2).",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Devinder Luthra; Stephen D Amelio; Leah Thomas Gray; Chantal Kamgne Tagatzi",
       "passed": false,
       "unanimous": false
@@ -33774,7 +33777,7 @@
       "itemNumber": "4.9",
       "itemTitle": "Consideration of Appointments to the London Community Advisory Committees",
       "motionText": "Consideration of appointments to the Diversity, Inclusion and Anti-Oppression Community Advisory Committee (3).",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Devinder Luthra; Stephen D Amelio; Leah Thomas Gray; Chantal Kamgne Tagatzi",
       "passed": false,
       "unanimous": false
@@ -33788,7 +33791,7 @@
       "itemNumber": "4.9",
       "itemTitle": "Consideration of Appointments to the London Community Advisory Committees",
       "motionText": "Consideration of appointments to the Diversity, Inclusion and Anti-Oppression Community Advisory Committee (3).",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Devinder Luthra; Stephen D Amelio; Leah Thomas Gray; Chantal Kamgne Tagatzi",
       "passed": false,
       "unanimous": false
@@ -33802,7 +33805,7 @@
       "itemNumber": "4.9",
       "itemTitle": "Consideration of Appointments to the London Community Advisory Committees",
       "motionText": "Consideration of appointments to the Diversity, Inclusion and Anti-Oppression Community Advisory Committee (3).",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Devinder Luthra; Stephen D Amelio; Leah Thomas Gray; Chantal Kamgne Tagatzi",
       "passed": false,
       "unanimous": false
@@ -33816,7 +33819,7 @@
       "itemNumber": "4.9",
       "itemTitle": "Consideration of Appointments to the London Community Advisory Committees",
       "motionText": "Consideration of appointments to the Diversity, Inclusion and Anti-Oppression Community Advisory Committee (3).",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Devinder Luthra; Stephen D Amelio; Leah Thomas Gray; Chantal Kamgne Tagatzi",
       "passed": false,
       "unanimous": false
@@ -33830,7 +33833,7 @@
       "itemNumber": "4.9",
       "itemTitle": "Consideration of Appointments to the London Community Advisory Committees",
       "motionText": "Consideration of appointments to the Diversity, Inclusion and Anti-Oppression Community Advisory Committee (4).",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Devinder Luthra; Stephen D Amelio; Chantal Kamgne Tagatzi; Leah Thomas Gray",
       "passed": false,
       "unanimous": false
@@ -33844,7 +33847,7 @@
       "itemNumber": "4.9",
       "itemTitle": "Consideration of Appointments to the London Community Advisory Committees",
       "motionText": "Consideration of appointments to the Diversity, Inclusion and Anti-Oppression Community Advisory Committee (4).",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Devinder Luthra; Stephen D Amelio; Chantal Kamgne Tagatzi; Leah Thomas Gray",
       "passed": false,
       "unanimous": false
@@ -33858,7 +33861,7 @@
       "itemNumber": "4.9",
       "itemTitle": "Consideration of Appointments to the London Community Advisory Committees",
       "motionText": "Consideration of appointments to the Diversity, Inclusion and Anti-Oppression Community Advisory Committee (4).",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Devinder Luthra; Stephen D Amelio; Chantal Kamgne Tagatzi; Leah Thomas Gray",
       "passed": false,
       "unanimous": false
@@ -33872,7 +33875,7 @@
       "itemNumber": "4.9",
       "itemTitle": "Consideration of Appointments to the London Community Advisory Committees",
       "motionText": "Consideration of appointments to the Diversity, Inclusion and Anti-Oppression Community Advisory Committee (4).",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Devinder Luthra; Stephen D Amelio; Chantal Kamgne Tagatzi; Leah Thomas Gray",
       "passed": false,
       "unanimous": false
@@ -33914,7 +33917,7 @@
       "itemNumber": "4.9",
       "itemTitle": "Consideration of Appointments to the London Community Advisory Committees",
       "motionText": "Consideration of appointments to the Environmental Stewardship and Action Community Advisory Committee (1).",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Nicole Karsch; Andrea Butnari; Lauralee Bushan Jazey",
       "passed": false,
       "unanimous": false
@@ -33928,7 +33931,7 @@
       "itemNumber": "4.9",
       "itemTitle": "Consideration of Appointments to the London Community Advisory Committees",
       "motionText": "Consideration of appointments to the Environmental Stewardship and Action Community Advisory Committee (1).",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Nicole Karsch; Andrea Butnari; Lauralee Bushan Jazey",
       "passed": false,
       "unanimous": false
@@ -33942,7 +33945,7 @@
       "itemNumber": "4.9",
       "itemTitle": "Consideration of Appointments to the London Community Advisory Committees",
       "motionText": "Consideration of appointments to the Environmental Stewardship and Action Community Advisory Committee (1).",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Nicole Karsch; Andrea Butnari; Lauralee Bushan Jazey",
       "passed": false,
       "unanimous": false
@@ -33956,7 +33959,7 @@
       "itemNumber": "4.9",
       "itemTitle": "Consideration of Appointments to the London Community Advisory Committees",
       "motionText": "Consideration of appointments to the Environmental Stewardship and Action Community Advisory Committee (2).",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Andrea Butnari; Lauralee Bushan Jazey; Nicole Karsch",
       "passed": false,
       "unanimous": false
@@ -33970,7 +33973,7 @@
       "itemNumber": "4.9",
       "itemTitle": "Consideration of Appointments to the London Community Advisory Committees",
       "motionText": "Consideration of appointments to the Environmental Stewardship and Action Community Advisory Committee (2).",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Andrea Butnari; Lauralee Bushan Jazey; Nicole Karsch",
       "passed": false,
       "unanimous": false
@@ -33984,7 +33987,7 @@
       "itemNumber": "4.9",
       "itemTitle": "Consideration of Appointments to the London Community Advisory Committees",
       "motionText": "Consideration of appointments to the Environmental Stewardship and Action Community Advisory Committee (2).",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Andrea Butnari; Lauralee Bushan Jazey; Nicole Karsch",
       "passed": false,
       "unanimous": false
@@ -33998,7 +34001,7 @@
       "itemNumber": "4.9",
       "itemTitle": "Consideration of Appointments to the London Community Advisory Committees",
       "motionText": "Consideration of appointments to the Environmental Stewardship and Action Community Advisory Committee (3).",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Nicole Karsch; Andrea Butnari; Lauralee Bushan Jazey",
       "passed": false,
       "unanimous": false
@@ -34012,7 +34015,7 @@
       "itemNumber": "4.9",
       "itemTitle": "Consideration of Appointments to the London Community Advisory Committees",
       "motionText": "Consideration of appointments to the Environmental Stewardship and Action Community Advisory Committee (3).",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Nicole Karsch; Andrea Butnari; Lauralee Bushan Jazey",
       "passed": false,
       "unanimous": false
@@ -34026,7 +34029,7 @@
       "itemNumber": "4.9",
       "itemTitle": "Consideration of Appointments to the London Community Advisory Committees",
       "motionText": "Consideration of appointments to the Environmental Stewardship and Action Community Advisory Committee (3).",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Nicole Karsch; Andrea Butnari; Lauralee Bushan Jazey",
       "passed": false,
       "unanimous": false
@@ -34040,7 +34043,7 @@
       "itemNumber": "4.9",
       "itemTitle": "Consideration of Appointments to the London Community Advisory Committees",
       "motionText": "Consideration of appointments to the Environmental Stewardship and Action Community Advisory Committee (4).",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Andrea Butnari; Nicole Karsch; Lauralee Bushan Jazey",
       "passed": false,
       "unanimous": false
@@ -34054,7 +34057,7 @@
       "itemNumber": "4.9",
       "itemTitle": "Consideration of Appointments to the London Community Advisory Committees",
       "motionText": "Consideration of appointments to the Environmental Stewardship and Action Community Advisory Committee (4).",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Andrea Butnari; Nicole Karsch; Lauralee Bushan Jazey",
       "passed": false,
       "unanimous": false
@@ -34068,7 +34071,7 @@
       "itemNumber": "4.9",
       "itemTitle": "Consideration of Appointments to the London Community Advisory Committees",
       "motionText": "Consideration of appointments to the Environmental Stewardship and Action Community Advisory Committee (4).",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Andrea Butnari; Nicole Karsch; Lauralee Bushan Jazey",
       "passed": false,
       "unanimous": false
@@ -34096,7 +34099,7 @@
       "itemNumber": "4.9",
       "itemTitle": "Consideration of Appointments to the London Community Advisory Committees",
       "motionText": "Consideration of appointment to the Integrated Transportation Community Advisory Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Leah Thomas Gray",
       "passed": false,
       "unanimous": false
@@ -34950,7 +34953,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Kettle Creek Conservation Authority Board of Directors (Requires 1 Member)",
       "motionText": "Consideration of Appointment to the Kettle Creek Conservation Authority",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: John Joseph Strybosch",
       "passed": false,
       "unanimous": false
@@ -35622,7 +35625,7 @@
       "itemNumber": "8.2.6",
       "itemTitle": "(2.1) Expropriation of Lands - East London Link Project Phase 4 (Relates to Bill No. 134)",
       "motionText": "That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, with the concurrence of the Director, Construction and Infrastructure Services, and on the advice of the Director, Realty Services, approval BE GIVEN to the expropriation of land as may be required for the East London Link Project Phase 4, and that the following actions be taken in connection therewith: a)    application be made by The Corporation of the City of London as Expropriating Authority to the Counci",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (11 to 2)",
       "passed": true,
       "unanimous": false
@@ -35860,7 +35863,7 @@
       "itemNumber": "13",
       "itemTitle": "By-laws",
       "motionText": "That Introduction and First Reading of Bill No. 134, BE APPROVED.",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (10 to 2)",
       "passed": true,
       "unanimous": false
@@ -35874,7 +35877,7 @@
       "itemNumber": "13",
       "itemTitle": "By-laws",
       "motionText": "That Second Reading of Bill No. 134, BE APPROVED.",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (10 to 2)",
       "passed": true,
       "unanimous": false
@@ -35888,7 +35891,7 @@
       "itemNumber": "13",
       "itemTitle": "By-laws",
       "motionText": "That Third Reading and Enactment of Bill No. 134, BE APPROVED.",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (10 to 2)",
       "passed": true,
       "unanimous": false
@@ -36126,7 +36129,7 @@
       "itemNumber": "2.1",
       "itemTitle": "Expropriation of Lands - East London Link Project Phase 4",
       "motionText": "That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, with the concurrence of the Director, Construction and Infrastructure Services, and on the advice of the Director, Realty Services, approval BE GIVEN to the expropriation of land as may be required for the East London Link Project Phase 4, and that the following actions be taken in connection therewith: a)    application be made by The Corporation of the City of London as Expropriating Authority to the Counci",
-      "vote": "absent",
+      "vote": "recuse",
       "result": "Motion Passed (3 to 1)",
       "passed": true,
       "unanimous": false
@@ -43952,7 +43955,7 @@
       "itemNumber": "4.1",
       "itemTitle": "Committee Appointment Preferences Submitted by Council Members",
       "motionText": "Appointments to the Community and Protective Services Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: D. Ferreira; H. McAlister; J. Pribil; S. Trosow",
       "passed": false,
       "unanimous": false
@@ -43966,7 +43969,7 @@
       "itemNumber": "4.1",
       "itemTitle": "Committee Appointment Preferences Submitted by Council Members",
       "motionText": "Appointments to the Community and Protective Services Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: D. Ferreira; H. McAlister; J. Pribil; S. Trosow",
       "passed": false,
       "unanimous": false
@@ -43980,7 +43983,7 @@
       "itemNumber": "4.1",
       "itemTitle": "Committee Appointment Preferences Submitted by Council Members",
       "motionText": "Appointments to the Community and Protective Services Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: D. Ferreira; H. McAlister; J. Pribil; S. Trosow",
       "passed": false,
       "unanimous": false
@@ -43994,7 +43997,7 @@
       "itemNumber": "4.1",
       "itemTitle": "Committee Appointment Preferences Submitted by Council Members",
       "motionText": "Appointments to the Community and Protective Services Committee.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: D. Ferreira; H. McAlister; J. Pribil; S. Trosow",
       "passed": false,
       "unanimous": false
@@ -45786,7 +45789,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointments to the London Transit Commission (Requires 2 Members)",
       "motionText": "Consideration of Appointments to the London Transit Commission",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Jacqueline Madden; David Little",
       "passed": false,
       "unanimous": false
@@ -45800,7 +45803,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointments to the London Transit Commission (Requires 2 Members)",
       "motionText": "Consideration of Appointments to the London Transit Commission",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Jacqueline Madden; David Little",
       "passed": false,
       "unanimous": false
@@ -46934,7 +46937,7 @@
       "itemNumber": "4.1",
       "itemTitle": "City Manager, Recruitment and Selection Process",
       "motionText": "Appointment to the Recruitment and Selection Committee",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Shawn Lewis; Corrine Rahman; Steve Lehman; Jerry Pribil; Susan Stevenson",
       "passed": false,
       "unanimous": false
@@ -46948,7 +46951,7 @@
       "itemNumber": "4.1",
       "itemTitle": "City Manager, Recruitment and Selection Process",
       "motionText": "Appointment to the Recruitment and Selection Committee",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Shawn Lewis; Corrine Rahman; Steve Lehman; Jerry Pribil; Susan Stevenson",
       "passed": false,
       "unanimous": false
@@ -46962,7 +46965,7 @@
       "itemNumber": "4.1",
       "itemTitle": "City Manager, Recruitment and Selection Process",
       "motionText": "Appointment to the Recruitment and Selection Committee",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Shawn Lewis; Corrine Rahman; Steve Lehman; Jerry Pribil; Susan Stevenson",
       "passed": false,
       "unanimous": false
@@ -46976,7 +46979,7 @@
       "itemNumber": "4.1",
       "itemTitle": "City Manager, Recruitment and Selection Process",
       "motionText": "Appointment to the Recruitment and Selection Committee",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Shawn Lewis; Corrine Rahman; Steve Lehman; Jerry Pribil; Susan Stevenson",
       "passed": false,
       "unanimous": false
@@ -46990,7 +46993,7 @@
       "itemNumber": "4.1",
       "itemTitle": "City Manager, Recruitment and Selection Process",
       "motionText": "Appointment to the Recruitment and Selection Committee",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Shawn Lewis; Corrine Rahman; Steve Lehman; Jerry Pribil; Susan Stevenson",
       "passed": false,
       "unanimous": false
@@ -48404,7 +48407,7 @@
       "itemNumber": "8.3.9",
       "itemTitle": "(4.1) Consideration of Appointments to the London Community Advisory Committees",
       "motionText": "Appointment to the Community Advisory Committee on Planning",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Mark C Ambrogio; Sarvarinder Singh Dohil; Jeff Gard",
       "passed": false,
       "unanimous": false
@@ -48418,7 +48421,7 @@
       "itemNumber": "8.3.9",
       "itemTitle": "(4.1) Consideration of Appointments to the London Community Advisory Committees",
       "motionText": "Appointment to the Community Advisory Committee on Planning",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Mark C Ambrogio; Sarvarinder Singh Dohil; Jeff Gard",
       "passed": false,
       "unanimous": false
@@ -48432,7 +48435,7 @@
       "itemNumber": "8.3.9",
       "itemTitle": "(4.1) Consideration of Appointments to the London Community Advisory Committees",
       "motionText": "Appointment to the Community Advisory Committee on Planning",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Mark C Ambrogio; Sarvarinder Singh Dohil; Jeff Gard",
       "passed": false,
       "unanimous": false
@@ -48446,7 +48449,7 @@
       "itemNumber": "8.3.9",
       "itemTitle": "(4.1) Consideration of Appointments to the London Community Advisory Committees",
       "motionText": "Appointment to the Integrated Transportation Community Advisory Committee",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Emily Poirier; Amanda Pfeffer; Anuar Issa",
       "passed": false,
       "unanimous": false
@@ -48460,7 +48463,7 @@
       "itemNumber": "8.3.9",
       "itemTitle": "(4.1) Consideration of Appointments to the London Community Advisory Committees",
       "motionText": "Appointment to the Integrated Transportation Community Advisory Committee",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Emily Poirier; Amanda Pfeffer; Anuar Issa",
       "passed": false,
       "unanimous": false
@@ -48474,7 +48477,7 @@
       "itemNumber": "8.3.9",
       "itemTitle": "(4.1) Consideration of Appointments to the London Community Advisory Committees",
       "motionText": "Appointment to the Integrated Transportation Community Advisory Committee",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Emily Poirier; Amanda Pfeffer; Anuar Issa",
       "passed": false,
       "unanimous": false
@@ -49188,7 +49191,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Eldon House Board of Directors (Requires 1 Member)",
       "motionText": "Consideration of Appointment to the Eldon House Board of Directors.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Bryan McClure",
       "passed": false,
       "unanimous": false
@@ -49216,7 +49219,7 @@
       "itemNumber": "4.3",
       "itemTitle": "Consideration of Appointment to the London Hydro Board of Directors (Requires 2 Members)",
       "motionText": "Consideration of appointment to the London Hydro Board of Directors.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Tim Watson; Cedric Gomes",
       "passed": false,
       "unanimous": false
@@ -49230,7 +49233,7 @@
       "itemNumber": "4.3",
       "itemTitle": "Consideration of Appointment to the London Hydro Board of Directors (Requires 2 Members)",
       "motionText": "Consideration of appointment to the London Hydro Board of Directors.",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Tim Watson; Cedric Gomes",
       "passed": false,
       "unanimous": false
@@ -49776,7 +49779,7 @@
       "itemNumber": "8.2.2",
       "itemTitle": "(5.1) Consideration of Appointment to the London Police Services Board",
       "motionText": "Consideration of appointment to the London Police Services Board",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -49790,7 +49793,7 @@
       "itemNumber": "8.2.2",
       "itemTitle": "(5.1) Consideration of Appointment to the London Police Services Board",
       "motionText": "Consideration of Selection to the London Police Services Board - run off (round 2)",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -49804,7 +49807,7 @@
       "itemNumber": "8.2.2",
       "itemTitle": "(5.1) Consideration of Appointment to the London Police Services Board",
       "motionText": "Consideration of Selection to the London Police Services Board - run off (round 2)",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Ryan Gauss",
       "passed": false,
       "unanimous": false
@@ -51414,7 +51417,7 @@
       "itemNumber": "4.4",
       "itemTitle": "Consideration of Appointment to the Upper Thames River Conservation Authority (Requires 1 Member)",
       "motionText": "Appointment to the Upper Thames River Conservation Authority",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Sandy Levin",
       "passed": false,
       "unanimous": false
@@ -51456,7 +51459,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Community and Protective Services Committee ",
       "motionText": "Appointments to the Community and Protective Services Committee (Requires 5 Council Members)",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Councillor Ferreira; Councillor Peloza; Councillor Pribil; Councillor Stevenson; Councillor Rahman",
       "passed": false,
       "unanimous": false
@@ -51470,7 +51473,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Community and Protective Services Committee ",
       "motionText": "Appointments to the Community and Protective Services Committee (Requires 5 Council Members)",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Councillor Ferreira; Councillor Peloza; Councillor Pribil; Councillor Stevenson; Councillor Rahman",
       "passed": false,
       "unanimous": false
@@ -51484,7 +51487,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Community and Protective Services Committee ",
       "motionText": "Appointments to the Community and Protective Services Committee (Requires 5 Council Members)",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Councillor Ferreira; Councillor Peloza; Councillor Pribil; Councillor Stevenson; Councillor Rahman",
       "passed": false,
       "unanimous": false
@@ -51498,7 +51501,7 @@
       "itemNumber": "4.2",
       "itemTitle": "Consideration of Appointment to the Community and Protective Services Committee ",
       "motionText": "Appointments to the Community and Protective Services Committee (Requires 5 Council Members)",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Councillor Ferreira; Councillor Peloza; Councillor Pribil; Councillor Stevenson; Councillor Rahman",
       "passed": false,
       "unanimous": false
@@ -51568,7 +51571,7 @@
       "itemNumber": "4.4",
       "itemTitle": "Consideration of Appointment to the Planning and Environment Committee",
       "motionText": "Appointments to the Planning and Environment Committee (Requires 5 Council Members)",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Councillor Lehman; Councillor Hillier; Councillor Franke; Councillor Lewis; Councillor Hopkins",
       "passed": false,
       "unanimous": false
@@ -51582,7 +51585,7 @@
       "itemNumber": "4.4",
       "itemTitle": "Consideration of Appointment to the Planning and Environment Committee",
       "motionText": "Appointments to the Planning and Environment Committee (Requires 5 Council Members)",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Councillor Lehman; Councillor Hillier; Councillor Franke; Councillor Lewis; Councillor Hopkins",
       "passed": false,
       "unanimous": false
@@ -51596,7 +51599,7 @@
       "itemNumber": "4.4",
       "itemTitle": "Consideration of Appointment to the Planning and Environment Committee",
       "motionText": "Appointments to the Planning and Environment Committee (Requires 5 Council Members)",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Councillor Lehman; Councillor Hillier; Councillor Franke; Councillor Lewis; Councillor Hopkins",
       "passed": false,
       "unanimous": false
@@ -51610,7 +51613,7 @@
       "itemNumber": "4.4",
       "itemTitle": "Consideration of Appointment to the Planning and Environment Committee",
       "motionText": "Appointments to the Planning and Environment Committee (Requires 5 Council Members)",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Councillor Lehman; Councillor Hillier; Councillor Franke; Councillor Lewis; Councillor Hopkins",
       "passed": false,
       "unanimous": false
@@ -51750,7 +51753,7 @@
       "itemNumber": "4.10",
       "itemTitle": "Consideration of Appointment to the London & Middlesex Community Housing ",
       "motionText": "Appointment to the London & Middlesex Community Housing (Requires 2 Council Members)",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -51778,7 +51781,7 @@
       "itemNumber": "4.11",
       "itemTitle": "Consideration of Appointment to the London Hydro Inc. ",
       "motionText": "Appointment to London Hydro Inc. (Requires 1 Council Member)",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Councillor Rahman",
       "passed": false,
       "unanimous": false
@@ -51792,7 +51795,7 @@
       "itemNumber": "4.12",
       "itemTitle": "Consideration of Appointment to the London Police Services Board ",
       "motionText": "Appointment to the London Police Services Board (Requires 2 Council Members)",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Councillor Stevenson; Councillor Lehman",
       "passed": false,
       "unanimous": false
@@ -51904,7 +51907,7 @@
       "itemNumber": "4.19",
       "itemTitle": "Consideration of Appointment to the RBC Place London ",
       "motionText": "Appointment to RBC Place London (Requires 2 Council Members)",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Councillor Ferreira; Councillor Stevenson",
       "passed": false,
       "unanimous": false
@@ -51932,7 +51935,7 @@
       "itemNumber": "4.20",
       "itemTitle": "Consideration of Appointment to the Tourism London ",
       "motionText": "Appointment to Tourism London (Requires 2 Council Members)",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Councillor Lewis; Councillor Peloza",
       "passed": false,
       "unanimous": false
@@ -52114,7 +52117,7 @@
       "itemNumber": "4.33",
       "itemTitle": "Consideration of Appointment to the Upper Thames River Conservation Authority ",
       "motionText": "Appointment to the Upper Thames River Conservation Authority (Requires 4 Council Members)",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -52128,7 +52131,7 @@
       "itemNumber": "4.33",
       "itemTitle": "Consideration of Appointment to the Upper Thames River Conservation Authority ",
       "motionText": "Appointment to the Upper Thames River Conservation Authority (Requires 4 Council Members)",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -52184,7 +52187,7 @@
       "itemNumber": "4.36",
       "itemTitle": "Consideration of Appointment to the Committee of Adjustment (Requires 5 Members)",
       "motionText": "Appointment to the Committee of Adjustment (Requires 5 Members)",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: John Fyfe Millar; Daniela Schmidt; Steve Polhill; Mohamed Mohamed El Hadary; Cheryl Miller",
       "passed": false,
       "unanimous": false
@@ -52198,7 +52201,7 @@
       "itemNumber": "4.36",
       "itemTitle": "Consideration of Appointment to the Committee of Adjustment (Requires 5 Members)",
       "motionText": "Appointment to the Committee of Adjustment (Requires 5 Members)",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: John Fyfe Millar; Daniela Schmidt; Steve Polhill; Mohamed Mohamed El Hadary; Cheryl Miller",
       "passed": false,
       "unanimous": false
@@ -52212,7 +52215,7 @@
       "itemNumber": "4.36",
       "itemTitle": "Consideration of Appointment to the Committee of Adjustment (Requires 5 Members)",
       "motionText": "Appointment to the Committee of Adjustment (Requires 5 Members)",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: John Fyfe Millar; Daniela Schmidt; Steve Polhill; Mohamed Mohamed El Hadary; Cheryl Miller",
       "passed": false,
       "unanimous": false
@@ -52240,7 +52243,7 @@
       "itemNumber": "4.38",
       "itemTitle": "Consideration of Appointment to the Covent Garden Market Corporation Board of Directors (Requires 7 Members)",
       "motionText": "Appointment to the Covent Garden Market (Requires 7 Members)",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Mike Marsman; Claudio De Vincenzo; Justin Dias; Donna Szpakowski; John Fyfe Millar; Zeba Hashmi; Tyrrel de Langley",
       "passed": false,
       "unanimous": false
@@ -52296,7 +52299,7 @@
       "itemNumber": "4.40",
       "itemTitle": "Consideration of Appointment to the London Police Services Board (Requires 1 Member)",
       "motionText": "Appointment to the London Police Services Board (Requires 1 Member)",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Susan Toth",
       "passed": false,
       "unanimous": false
@@ -52310,7 +52313,7 @@
       "itemNumber": "4.41",
       "itemTitle": "Consideration of Appointment to the London Public Library (Requires 7 Members)",
       "motionText": "Appointment to the London Public Library (Requires 7 Members)",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Brian Gibson; Jeremy McCall; Ryan O'Hagan; Scott Andrew Collyer; Ken Baldwin; Zak Rahim; Zeba Hashmi",
       "passed": false,
       "unanimous": false
@@ -52324,7 +52327,7 @@
       "itemNumber": "4.41",
       "itemTitle": "Consideration of Appointment to the London Public Library (Requires 7 Members)",
       "motionText": "Appointment to the London Public Library (Requires 7 Members)",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Brian Gibson; Jeremy McCall; Ryan O'Hagan; Scott Andrew Collyer; Ken Baldwin; Zak Rahim; Zeba Hashmi",
       "passed": false,
       "unanimous": false
@@ -52338,7 +52341,7 @@
       "itemNumber": "4.41",
       "itemTitle": "Consideration of Appointment to the London Public Library (Requires 7 Members)",
       "motionText": "Appointment to the London Public Library (Requires 7 Members)",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Brian Gibson; Jeremy McCall; Ryan O'Hagan; Scott Andrew Collyer; Ken Baldwin; Zak Rahim; Zeba Hashmi",
       "passed": false,
       "unanimous": false
@@ -52352,7 +52355,7 @@
       "itemNumber": "4.41",
       "itemTitle": "Consideration of Appointment to the London Public Library (Requires 7 Members)",
       "motionText": "Appointment to the London Public Library (Requires 7 Members)",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Brian Gibson; Jeremy McCall; Ryan O'Hagan; Scott Andrew Collyer; Ken Baldwin; Zak Rahim; Zeba Hashmi",
       "passed": false,
       "unanimous": false
@@ -52394,7 +52397,7 @@
       "itemNumber": "4.41",
       "itemTitle": "Consideration of Appointment to the London Public Library (Requires 7 Members)",
       "motionText": "Selection #2 - London Public Library Board",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -52408,7 +52411,7 @@
       "itemNumber": "4.41",
       "itemTitle": "Consideration of Appointment to the London Public Library (Requires 7 Members)",
       "motionText": "Selection #2 - London Public Library Board",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -52422,7 +52425,7 @@
       "itemNumber": "4.41",
       "itemTitle": "Consideration of Appointment to the London Public Library (Requires 7 Members)",
       "motionText": "Selection #2 - London Public Library Board",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -52436,7 +52439,7 @@
       "itemNumber": "4.41",
       "itemTitle": "Consideration of Appointment to the London Public Library (Requires 7 Members)",
       "motionText": "Selection #2 - London Public Library Board",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -52450,7 +52453,7 @@
       "itemNumber": "4.41",
       "itemTitle": "Consideration of Appointment to the London Public Library (Requires 7 Members)",
       "motionText": "Selection #2 - London Public Library Board",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
       "unanimous": false
@@ -52464,7 +52467,7 @@
       "itemNumber": "4.41",
       "itemTitle": "Consideration of Appointment to the London Public Library (Requires 7 Members)",
       "motionText": "Selection #2 - London Public Library Board",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Brian Gibson; Zeba Hashmi; Heather Jack; Jeremy McCall; Beth Allison; Scott Andrew Collyer; Sharon Desserud",
       "passed": false,
       "unanimous": false
@@ -52478,7 +52481,7 @@
       "itemNumber": "4.41",
       "itemTitle": "Consideration of Appointment to the London Public Library (Requires 7 Members)",
       "motionText": "Selection #2 - London Public Library Board",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Brian Gibson; Zeba Hashmi; Heather Jack; Jeremy McCall; Beth Allison; Scott Andrew Collyer; Sharon Desserud",
       "passed": false,
       "unanimous": false
@@ -52506,7 +52509,7 @@
       "itemNumber": "4.42",
       "itemTitle": "Consideration of Appointment to the London Transit Commission (Requires 3 Members)",
       "motionText": "Appointment to London Transit Commission (Requires 3 Members)",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Sheryl Rooth; Stephanie Marentette; Scott Andrew Collyer",
       "passed": false,
       "unanimous": false
@@ -52534,7 +52537,7 @@
       "itemNumber": "4.43",
       "itemTitle": "Consideration of Appointment to the Middlesex-London Health Unit Board (Requires 1 Member)",
       "motionText": "Appointment to the Middlesex-London Health Unit Board (Requires 1 Member)",
-      "vote": "absent",
+      "vote": "other",
       "result": "Majority Winner: Matthew Reid",
       "passed": false,
       "unanimous": false

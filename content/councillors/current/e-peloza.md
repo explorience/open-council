@@ -8,7 +8,10 @@ isCurrent: true
 totalVotes: 7514
 votesYea: 6065
 votesNay: 528
-votesAbsent: 921
+votesAbsent: 438
+votesRecused: 15
+votesAbstained: 7
+votesOther: 461
 attendanceRate: 98.0
 participationRate: 87.7
 yeaRate: 92.0
@@ -33,7 +36,12 @@ prefillQuestions:
 | Total Votes | 7,514 |
 | Voted Yea | 6,065 (80.7%) |
 | Voted Nay | 528 (7.0%) |
-| Absent | 921 (12.3%) |
+| Absent | 438 (5.8%) |
+| Recused (conflict of interest) | 15 (0.2%) |
+| Abstained | 7 (0.1%) |
+| Other/Unrecorded | 461 (6.1%) |
+
+*Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
 
 
 ### Substantive Votes
@@ -66,7 +74,7 @@ prefillQuestions:
 | Budget Votes | 721 |
 | Voted Yea | 573 (83.0%) |
 | Voted Nay | 117 (17.0%) |
-| Absent | 31 |
+| Absent | 30 |
 
 
 ## Attendance
@@ -216,8 +224,8 @@ Voted **Nay** - Motion Passed (4 to 1)
 - [12th Meeting of Council](</months/2026-07/2026-07-21 12th Meeting of Council>) - Tue Jul 21 2026
 - [12th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-07/2026-07-15 12th Meeting of the Infrastructure and Corporate Services Committee>) - Wed Jul 15 2026
 - [11th Meeting of Council](</months/2026-06/2026-06-23 11th Meeting of Council>) - Tue Jun 23 2026
-- [10th Special Meeting of Council](</months/2026-06/2026-06-17 10th Special Meeting of Council>) - Wed Jun 17 2026
 - [3rd Meeting of the Audit Committee](</months/2026-06/2026-06-17 3rd Meeting of the Audit Committee>) - Wed Jun 17 2026
+- [10th Special Meeting of Council](</months/2026-06/2026-06-17 10th Special Meeting of Council>) - Wed Jun 17 2026
 - [10th Special Meeting of the Community and Protective Services Committee](</months/2026-06/2026-06-16 10th Special Meeting of the Community and Protective Services Committee>) - Tue Jun 16 2026
 - [8th Meeting of the Strategic Priorities and Policy Committee](</months/2026-06/2026-06-16 8th Meeting of the Strategic Priorities and Policy Committee>) - Tue Jun 16 2026
 - [11th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-06/2026-06-15 11th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Jun 15 2026

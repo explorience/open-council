@@ -14,6 +14,7 @@ import {
   normalizeCouncillorName,
 } from "../lib/councillors/index.js"
 import { getAllTopics } from "../lib/topics/index.js"
+import { isParticipatingVote, type VoteType } from "../lib/votes/vote-type.js"
 
 // Types
 interface Meeting {
@@ -34,7 +35,7 @@ interface VoteRecord {
   itemNumber: string
   itemTitle: string
   motionText?: string
-  vote: "yea" | "nay" | "absent"
+  vote: VoteType
   result: string
   passed: boolean
   unanimous: boolean
@@ -463,10 +464,12 @@ async function main() {
   // ============================================
   console.log("\n🗳️ Loading voting data...")
 
-  // Map: motionKey -> { vote: "yea"|"nay", meetingType, itemTitle, motionText }
+  // Map: motionKey -> { vote: "yea"|"nay" (only participating votes are
+  // ever stored here - see isParticipatingVote() filter below), meetingType,
+  // itemTitle, motionText }
   // This stores full metadata so we can filter by committee and topic
   interface MotionMeta {
-    vote: "yea" | "nay" | "absent"
+    vote: VoteType
     meetingType: string
     itemTitle: string
     motionText?: string
@@ -500,8 +503,13 @@ async function main() {
     // Calculate contested dissent rate:
     // Only count non-unanimous votes where councillor participated
     // Dissent = voted against final outcome (nay on passed OR yea on failed)
+    // NOTE: "participated" means cast an actual yea/nay - a recusal or
+    // abstention is not a position on the motion, so (like absences) it
+    // must not count toward the contested-votes denominator. Using
+    // isParticipatingVote() instead of `!== "absent"` keeps this correct
+    // now that recuse/abstain/other are distinct from absent.
     const contestedVotes = data.votes.filter(
-      (v) => v.unanimous === false && v.vote !== "absent"
+      (v) => v.unanimous === false && isParticipatingVote(v.vote)
     )
     const dissentingVotes = contestedVotes.filter((v) => {
       // Dissent means voting against the final outcome
@@ -559,7 +567,12 @@ async function main() {
         committeeVotes[committee].yeas++
       } else if (vote.vote === "nay") {
         committeeVotes[committee].nays++
-      } else {
+      } else if (vote.vote === "absent") {
+        // NOTE: this internal `absent` counter is not currently exposed on
+        // CommitteeActivity (only totalVotes/yeas/nays/participationRate
+        // are), but it must still only count genuine no-shows - recuse/
+        // abstain/other are neither a "yea"/"nay" nor an absence, so they're
+        // simply excluded from this breakdown (still included in `total`).
         committeeVotes[committee].absent++
       }
     }
@@ -582,8 +595,12 @@ async function main() {
     // A dissent is: nay on passed motion OR yea on failed motion
     const dissents: NotableDissent[] = []
     for (const vote of data.votes) {
-      // Skip if unanimous, absent, or missing required fields
-      if (vote.unanimous || vote.vote === "absent") continue
+      if (vote.unanimous) continue
+      // Dissent requires an actual yea/nay position on the motion. Skip
+      // absences AND recuse/abstain/other - none of those are a vote
+      // "against" or "for" anything. (Written as literal comparisons so
+      // TypeScript narrows vote.vote to "yea" | "nay" below.)
+      if (vote.vote !== "yea" && vote.vote !== "nay") continue
       if (!vote.motionText || !vote.result) continue
 
       // Check if councillor was in the minority
@@ -616,7 +633,15 @@ async function main() {
 
     // Build motion vote map for alignment analysis (with metadata for filtering)
     for (const vote of data.votes) {
-      if (vote.vote === "absent") continue // Skip absent for alignment
+      // Alignment measures whether two councillors took the SAME policy
+      // position. Skip anyone who didn't cast an actual yea/nay - absent,
+      // recused, and abstained are all "no position taken", not agreement.
+      // (Previously only "absent" was skipped here; before the vote-type
+      // fix, recuse/abstain/other were themselves misclassified as
+      // "absent" so this had the same effect by accident. Now that they're
+      // their own types, isParticipatingVote() must be used explicitly or
+      // two councillors who both recused would be counted as "agreeing".)
+      if (!isParticipatingVote(vote.vote)) continue
 
       const motionKey = `${vote.meetingSlug}::${vote.itemNumber}`
 
@@ -870,11 +895,14 @@ async function main() {
 
     for (const [motionKey, votes] of motionVotes) {
       const wardVote = votes.get(slug)
-      if (!wardVote || wardVote.vote === "absent") continue
+      // motionVotes only ever contains participating (yea/nay) entries (see
+      // isParticipatingVote() filter above), but narrow explicitly via
+      // literal comparison so ward.vote below type-checks as "yea" | "nay".
+      if (!wardVote || (wardVote.vote !== "yea" && wardVote.vote !== "nay")) continue
 
       // Count city-wide yea rate for this motion
       const cityYeas = Array.from(votes.values()).filter(v => v.vote === "yea").length
-      const cityTotal = Array.from(votes.values()).filter(v => v.vote !== "absent").length
+      const cityTotal = Array.from(votes.values()).filter(v => isParticipatingVote(v.vote)).length
       if (cityTotal === 0) continue
 
       const cityYeaRate = cityYeas / cityTotal

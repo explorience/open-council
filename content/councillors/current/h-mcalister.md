@@ -8,7 +8,10 @@ isCurrent: true
 totalVotes: 3986
 votesYea: 3200
 votesNay: 280
-votesAbsent: 506
+votesAbsent: 270
+votesRecused: 7
+votesAbstained: 0
+votesOther: 229
 attendanceRate: 94.7
 participationRate: 87.3
 yeaRate: 92.0
@@ -33,7 +36,12 @@ prefillQuestions:
 | Total Votes | 3,986 |
 | Voted Yea | 3,200 (80.3%) |
 | Voted Nay | 280 (7.0%) |
-| Absent | 506 (12.7%) |
+| Absent | 270 (6.8%) |
+| Recused (conflict of interest) | 7 (0.2%) |
+| Abstained | 0 (0.0%) |
+| Other/Unrecorded | 229 (5.7%) |
+
+*Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
 
 
 ### Substantive Votes

@@ -2,6 +2,7 @@ import FlexSearch from "flexsearch"
 import { ContentDetails } from "../../plugins/emitters/contentIndex"
 import { registerEscapeHandler, removeAllChildren } from "./util"
 import { FullSlug, normalizeRelativeURLs, resolveRelative } from "../../util/path"
+import { escapeHTML } from "../../util/escape"
 
 interface Item {
   id: number
@@ -86,14 +87,20 @@ function highlight(searchTerm: string, text: string, trim?: boolean) {
 
   const slice = tokenizedText
     .map((tok) => {
+      // `tok` comes from indexed page title/content, which is scraped council
+      // data — untrusted. Escape it before it's ever assembled into the HTML
+      // string this function returns (resultToHTML() sets it via innerHTML),
+      // then match/highlight against the escaped text so the only real
+      // markup in the output is the literal <span> wrapper below.
+      const escapedTok = escapeHTML(tok)
       // see if this tok is prefixed by any search terms
       for (const searchTok of tokenizedTerms) {
         if (tok.toLowerCase().includes(searchTok.toLowerCase())) {
-          const regex = new RegExp(searchTok.toLowerCase(), "gi")
-          return tok.replace(regex, `<span class="highlight">$&</span>`)
+          const regex = new RegExp(escapeHTML(searchTok.toLowerCase()), "gi")
+          return escapedTok.replace(regex, `<span class="highlight">$&</span>`)
         }
       }
-      return tok
+      return escapedTok
     })
     .join(" ")
 
@@ -268,7 +275,10 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
     return {
       id,
       slug,
-      title: searchType === "tags" ? data[slug].title : highlight(term, data[slug].title ?? ""),
+      title:
+        searchType === "tags"
+          ? escapeHTML(data[slug].title ?? "")
+          : highlight(term, data[slug].title ?? ""),
       content: highlight(term, data[slug].content ?? "", true),
       tags: highlightTags(term.substring(1), data[slug].tags),
     }
@@ -281,10 +291,11 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
 
     return tags
       .map((tag) => {
+        const safeTag = escapeHTML(tag)
         if (tag.toLowerCase().includes(term.toLowerCase())) {
-          return `<li><p class="match-tag">#${tag}</p></li>`
+          return `<li><p class="match-tag">#${safeTag}</p></li>`
         } else {
-          return `<li><p>#${tag}</p></li>`
+          return `<li><p>#${safeTag}</p></li>`
         }
       })
       .slice(0, numTagResults)

@@ -7,17 +7,31 @@
 //
 // This saves ~90% on the instruction tokens (~4K tokens) across queries.
 
+import { loadRegistry, buildCouncillorRosterSection } from '../lib/councillors/index.js';
+
 /**
  * Get the static system prompt instructions (cacheable)
  * This contains all the behavioral instructions that don't change between queries.
  * ~4K tokens, cached for 5 minutes by Anthropic.
  */
-export function getStaticSystemPrompt(): string {
-  // Get current date for temporal awareness
+export function getStaticSystemPrompt(now: Date = new Date()): string {
+  // `now` defaults to the real current date/time; callers may override it
+  // (tests do, to verify the councillor roster below re-derives correctly
+  // across an election boundary without a code change).
   // Note: Date changes daily, so cache is invalidated once per day at most
-  const now = new Date();
   const currentDate = now.toISOString().split('T')[0];
   const currentYear = now.getFullYear();
+
+  // BUG FIX (2026-08): the "COUNCILLOR NAMES - NEVER HALLUCINATE" roster
+  // below used to be a hand-typed table that went stale the moment the
+  // council term changed (e.g. the Oct 2026 election) - it would keep
+  // vouching for defeated incumbents and reject newly-elected names. It is
+  // now generated live from data/councillors/registry.json (the same
+  // source of truth used elsewhere in the codebase) against today's date,
+  // so it stays correct across an election with no code change - see
+  // lib/councillors/roster.ts. Whoever updates registry.json with the new
+  // term after the election is the ONLY step required.
+  const councillorRosterSection = buildCouncillorRosterSection(loadRegistry(), now);
 
   return `You are a helpful assistant for London, Ontario citizens who want to understand what their City Council is doing. Today's date is ${currentDate}.
 
@@ -355,27 +369,7 @@ Don't be formulaic - tailor suggestions to what would genuinely help them unders
 
 **This is CRITICAL for credibility. ONLY use councillor names that appear in the provided context or in this list.**
 
-### Current Council (2022-2026):
-| Name | Full Name | Role |
-|------|-----------|------|
-| J. Morgan | Josh Morgan | Mayor |
-| S. Lewis | Shawn Lewis | Ward 2 (Deputy Mayor) |
-| H. McAlister | Hadleigh McAlister | Ward 1 |
-| P. Cuddy | Peter Cuddy | Ward 3 |
-| S. Stevenson | Susan Stevenson | Ward 4 |
-| J. Pribil | Jerry Pribil | Ward 5 |
-| S. Trosow | Sam Trosow | Ward 6 |
-| C. Rahman | Corrine Rahman | Ward 7 |
-| S. Lehman | Steve Lehman | Ward 8 |
-| A. Hopkins | Anna Hopkins | Ward 9 |
-| P. Van Meerbergen | Paul Van Meerbergen | Ward 10 |
-| S. Franke | Skylar Franke | Ward 11 |
-| E. Peloza | Elizabeth Peloza | Ward 12 |
-| D. Ferreira | David Ferreira | Ward 13 |
-| S. Hillier | Susan Hillier | Ward 14 |
-
-### Former Councillors (may appear in older records):
-E. Holder, A. Kayabaga, M. Salih, J. Helmer, M. Cassidy, P. Squire, J. Zaifman, M. van Holst, P. Hubert, V. Ridley, H.L. Usher, B. Armstrong, M. Brown, D. Brown, J.F. Fontana, J.L. Baechler, N. Branscombe, B. Polhill, S. Orser, D.G. Henderson, J.B. Swan, S. White, T. Park, S. Turner, J.P. Bryant
+${councillorRosterSection}
 
 ### RULES:
 1. **NEVER invent councillor names** - if you're unsure, say "a councillor" instead of guessing
