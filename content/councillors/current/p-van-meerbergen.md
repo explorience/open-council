@@ -2,11 +2,11 @@
 title: "Paul Van Meerbergen"
 type: councillor
 slug: "p-van-meerbergen"
-meetingCount: 527
+meetingCount: 528
 yearsActive: "2010 - 2026"
 isCurrent: true
-totalVotes: 8876
-votesYea: 6909
+totalVotes: 8878
+votesYea: 6911
 votesNay: 1031
 votesAbsent: 468
 votesRecused: 65
@@ -34,8 +34,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 8,876 |
-| Voted Yea | 6,909 (77.8%) |
+| Total Votes | 8,878 |
+| Voted Yea | 6,911 (77.8%) |
 | Voted Nay | 1,031 (11.6%) |
 | Absent | 468 (5.3%) |
 | Recused (conflict of interest) | 65 (0.7%) |
@@ -81,7 +81,7 @@ prefillQuestions:
 ## Attendance
 
 - **Attendance Rate**: 95.3%
-- **Meetings Attended**: 569 of 597
+- **Meetings Attended**: 570 of 598
 - **Meetings Missed**: 28
 - **Trend**: Stable -
 
@@ -89,7 +89,7 @@ prefillQuestions:
   - 2023: 98.3% (57/58 meetings)
   - 2024: 98.4% (62/63 meetings)
   - 2025: 96.4% (53/55 meetings)
-  - 2026: 96.0% (24/25 meetings)
+  - 2026: 96.2% (25/26 meetings)
 
 
 ## Voting Alignment
@@ -115,7 +115,7 @@ prefillQuestions:
 | Strategic Priorities and Policy Committee | 2,704 | 1,858 | 349 | 81.6% |
 | Civic Works Committee | 451 | 409 | 31 | 97.6% |
 | Budget Committee | 189 | 118 | 68 | 98.4% |
-| Infrastructure and Corporate Services Committee | 168 | 144 | 19 | 97.0% |
+| Infrastructure and Corporate Services Committee | 170 | 146 | 19 | 97.1% |
 | Corporate Services Committee | 154 | 144 | 6 | 97.4% |
 
 
@@ -210,16 +210,17 @@ Voted **Nay** - Motion Passed (13 to 1)
 
 ## Committees Served
 
-- [City Council](/committees/city-council)
 - [Corporate Services Committee](/committees/corporate-services)
+- [City Council](/committees/city-council)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Planning and Environment Committee](/committees/planning-environment)
 - [Budget Committee](/committees/budget)
 - [Civic Works Committee](/committees/civic-works)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 
-## Recent Meetings (527 total)
+## Recent Meetings (528 total)
 
+- [13th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-08/2026-08-12 13th Meeting of the Infrastructure and Corporate Services Committee>) - Wed Aug 12 2026
 - [12th Meeting of Council](</months/2026-07/2026-07-21 12th Meeting of Council>) - Tue Jul 21 2026
 - [12th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-07/2026-07-15 12th Meeting of the Infrastructure and Corporate Services Committee>) - Wed Jul 15 2026
 - [10th Special Meeting of Council](</months/2026-06/2026-06-17 10th Special Meeting of Council>) - Wed Jun 17 2026
@@ -229,4 +230,3 @@ Voted **Nay** - Motion Passed (13 to 1)
 - [7th Meeting of the Strategic Priorities and Policy Committee](</months/2026-05/2026-05-28 7th Meeting of the Strategic Priorities and Policy Committee>) - Thu May 28 2026
 - [10th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-05/2026-05-27 10th Meeting of the Infrastructure and Corporate Services Committee>) - Wed May 27 2026
 - [8th Meeting of Council](</months/2026-05/2026-05-12 8th Meeting of Council>) - Tue May 12 2026
-- [9th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-05/2026-05-06 9th Meeting of the Infrastructure and Corporate Services Committee>) - Wed May 6 2026

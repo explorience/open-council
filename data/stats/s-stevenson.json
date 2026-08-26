@@ -2,11 +2,11 @@
   "councillor": "Susan Stevenson",
   "slug": "s-stevenson",
   "attendance": {
-    "totalMeetings": 237,
-    "present": 211,
+    "totalMeetings": 238,
+    "present": 212,
     "absent": 26,
     "remote": 1,
-    "attendanceRate": 89.0295358649789,
+    "attendanceRate": 89.07563025210085,
     "trend": [
       {
         "period": "2022",
@@ -34,20 +34,20 @@
       },
       {
         "period": "2026",
-        "attendanceRate": 89.74358974358975,
-        "meetingsAttended": 35,
-        "meetingsTotal": 39
+        "attendanceRate": 90,
+        "meetingsAttended": 36,
+        "meetingsTotal": 40
       }
     ],
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 4018,
-    "yeas": 2889,
+    "totalVotes": 4020,
+    "yeas": 2891,
     "nays": 619,
     "absent": 304,
-    "participationRate": 87.30711796913887,
-    "yeaRate": 82.35461801596351,
+    "participationRate": 87.31343283582089,
+    "yeaRate": 82.36467236467236,
     "contestedDissentRate": 37.70718232044199,
     "contestedVotes": 1448,
     "substantiveVotes": 2407,
@@ -65,9 +65,9 @@
   "topAlignments": [
     {
       "councillor": "Paul Van Meerbergen",
-      "sharedVotes": 1438,
-      "agreedVotes": 1284,
-      "alignmentRate": 89.29068150208623
+      "sharedVotes": 1440,
+      "agreedVotes": 1286,
+      "alignmentRate": 89.30555555555556
     },
     {
       "councillor": "Peter Cuddy",
@@ -121,9 +121,9 @@
     },
     {
       "councillor": "Elizabeth Peloza",
-      "sharedVotes": 1438,
-      "agreedVotes": 1201,
-      "alignmentRate": 83.51877607788595
+      "sharedVotes": 1440,
+      "agreedVotes": 1203,
+      "alignmentRate": 83.54166666666667
     }
   ],
   "notableDissents": [
@@ -263,10 +263,10 @@
     },
     {
       "committee": "Infrastructure and Corporate Services Committee",
-      "totalVotes": 85,
-      "yeas": 60,
+      "totalVotes": 87,
+      "yeas": 62,
       "nays": 19,
-      "participationRate": 92.94117647058823
+      "participationRate": 93.10344827586206
     }
   ]
 }

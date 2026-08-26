@@ -2,11 +2,11 @@
   "councillor": "Skylar Franke",
   "slug": "s-franke",
   "attendance": {
-    "totalMeetings": 210,
+    "totalMeetings": 211,
     "present": 202,
-    "absent": 8,
+    "absent": 9,
     "remote": 0,
-    "attendanceRate": 96.19047619047619,
+    "attendanceRate": 95.73459715639811,
     "trend": [
       {
         "period": "2022",
@@ -34,19 +34,19 @@
       },
       {
         "period": "2026",
-        "attendanceRate": 96,
+        "attendanceRate": 92.3076923076923,
         "meetingsAttended": 24,
-        "meetingsTotal": 25
+        "meetingsTotal": 26
       }
     ],
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 4095,
+    "totalVotes": 4097,
     "yeas": 3422,
     "nays": 336,
-    "absent": 155,
-    "participationRate": 91.77045177045177,
+    "absent": 157,
+    "participationRate": 91.72565291676837,
     "yeaRate": 91.05907397551888,
     "contestedDissentRate": 22.810590631364562,
     "contestedVotes": 1473,
@@ -249,10 +249,10 @@
     },
     {
       "committee": "Infrastructure and Corporate Services Committee",
-      "totalVotes": 168,
+      "totalVotes": 170,
       "yeas": 141,
       "nays": 14,
-      "participationRate": 92.26190476190477
+      "participationRate": 91.17647058823529
     },
     {
       "committee": "Civic Works Committee",

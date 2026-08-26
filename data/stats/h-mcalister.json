@@ -2,11 +2,11 @@
   "councillor": "Hadleigh McAlister",
   "slug": "h-mcalister",
   "attendance": {
-    "totalMeetings": 242,
-    "present": 229,
+    "totalMeetings": 243,
+    "present": 230,
     "absent": 13,
     "remote": 0,
-    "attendanceRate": 94.62809917355372,
+    "attendanceRate": 94.65020576131687,
     "trend": [
       {
         "period": "2022",
@@ -35,19 +35,19 @@
       {
         "period": "2026",
         "attendanceRate": 100,
-        "meetingsAttended": 25,
-        "meetingsTotal": 25
+        "meetingsAttended": 26,
+        "meetingsTotal": 26
       }
     ],
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 3984,
-    "yeas": 3198,
+    "totalVotes": 3986,
+    "yeas": 3200,
     "nays": 280,
     "absent": 270,
-    "participationRate": 87.29919678714859,
-    "yeaRate": 91.94939620471536,
+    "participationRate": 87.30556949322629,
+    "yeaRate": 91.95402298850574,
     "contestedDissentRate": 13.847203274215552,
     "contestedVotes": 1466,
     "substantiveVotes": 2492,
@@ -97,15 +97,15 @@
   "bottomAlignments": [
     {
       "councillor": "Susan Stevenson",
-      "sharedVotes": 1574,
-      "agreedVotes": 1328,
-      "alignmentRate": 84.3710292249047
+      "sharedVotes": 1576,
+      "agreedVotes": 1330,
+      "alignmentRate": 84.39086294416244
     },
     {
       "councillor": "Paul Van Meerbergen",
-      "sharedVotes": 1538,
-      "agreedVotes": 1360,
-      "alignmentRate": 88.42652795838751
+      "sharedVotes": 1540,
+      "agreedVotes": 1362,
+      "alignmentRate": 88.44155844155844
     },
     {
       "councillor": "Sam Trosow",
@@ -263,8 +263,8 @@
     },
     {
       "committee": "Infrastructure and Corporate Services Committee",
-      "totalVotes": 85,
-      "yeas": 77,
+      "totalVotes": 87,
+      "yeas": 79,
       "nays": 8,
       "participationRate": 100
     }

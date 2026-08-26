@@ -1,19 +1,47 @@
 {
   "councillor": "S. Franke",
   "slug": "s-franke",
-  "generatedAt": "2026-08-24T15:05:17.230Z",
-  "sourceHash": "95d4749710e3d0a0",
+  "generatedAt": "2026-08-26T14:06:05.244Z",
+  "sourceHash": "b7db59b827637e80",
   "summary": {
-    "totalMeetings": 214,
-    "totalVotes": 4095,
+    "totalMeetings": 215,
+    "totalVotes": 4097,
     "yeas": 3422,
     "nays": 336,
-    "absent": 155,
+    "absent": 157,
     "recuse": 24,
     "abstain": 0,
     "other": 158
   },
   "votes": [
+    {
+      "date": "2026-08-12",
+      "meetingSlug": "months/2026-08/2026-08-12 13th Meeting of the Infrastructure and Corporate Services Committee",
+      "meetingTitle": "13th Meeting of the Infrastructure and Corporate Services Committee",
+      "meetingType": "Infrastructure and Corporate Services Committee",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=884c7e24-5088-44a4-b92f-a9428912b1fd&Agenda=PostMinutes&lang=English",
+      "itemNumber": "2",
+      "itemTitle": "Consent",
+      "motionText": "That Consent Items 2.1 to 2.3 BE APPROVED.",
+      "vote": "absent",
+      "result": "Motion Passed (4 to 0)",
+      "passed": true,
+      "unanimous": true
+    },
+    {
+      "date": "2026-08-12",
+      "meetingSlug": "months/2026-08/2026-08-12 13th Meeting of the Infrastructure and Corporate Services Committee",
+      "meetingTitle": "13th Meeting of the Infrastructure and Corporate Services Committee",
+      "meetingType": "Infrastructure and Corporate Services Committee",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=884c7e24-5088-44a4-b92f-a9428912b1fd&Agenda=PostMinutes&lang=English",
+      "itemNumber": "6",
+      "itemTitle": "Confidential (Provided to Members only.)",
+      "motionText": "The Infrastructure and Corporate Services Committee convenes In Closed session to consider the following:\n\n\n\n6.1 Litigation/Potential Litigation / Solicitor-Client Privileged Advice / Position, Plan, Procedure, Criteria or Instruction to be Applied to Any Negotiations \n\n\n\nA matter pertaining to litigation affecting the municipality, arising from construction work pursuant to RFT 17-104; advice that is subject to solicitor-client privilege, including communications necessary for that purpose, in ",
+      "vote": "absent",
+      "result": "Motion Passed (4 to 0)",
+      "passed": true,
+      "unanimous": true
+    },
     {
       "date": "2026-07-21",
       "meetingSlug": "months/2026-07/2026-07-21 12th Meeting of Council",
