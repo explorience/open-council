@@ -173,6 +173,57 @@ function isTruncated(m: RawMotion): boolean {
   return m.motionText.length >= 500;
 }
 
+/** Parse the "(N to M)" tally out of a motion's own result string, e.g.
+ * "Motion Passed (11 to 4)" -> { yea: 11, nay: 4 }. Tolerant of the en/em
+ * dash variants some source pages use, same as anchors.ts's extractTally. */
+function extractResultTally(
+  resultText: string,
+): { yea: number; nay: number } | null {
+  const m = resultText.match(/\((\d+)\s*(?:to|[-–—])\s*(\d+)\)/i);
+  return m ? { yea: Number(m[1]), nay: Number(m[2]) } : null;
+}
+
+/** True when a motion's own minuted result string disagrees with its parsed
+ * yeas/nays arrays — either the tally numbers don't match the array
+ * lengths, or "Motion Passed"/"Motion Failed" doesn't match which side has
+ * more votes. Found via spot-check (2026-08-31, hub-recheck verdict finding
+ * 6): 82 divided motions have this disagreement — mostly an early-term
+ * (2022-23) scraper gap where individual councillors are silently missing
+ * from the array a "Motion Passed/Failed" result implies should be
+ * complete. A motion in this state has no reliable per-councillor position
+ * data — publishing "yea"/"nay"/"absent" from an array that's already known
+ * to disagree with the minutes would launder that uncertainty into a
+ * confident-looking claim. Excluded from the divided-vote universe
+ * entirely, same treatment as a roster conflict or appointment ballot, with
+ * the count disclosed globally (result-mismatches.json) and per-councillor
+ * (see mismatchInvolvementOf below). */
+function hasResultMismatch(m: RawMotion): boolean {
+  const tally = extractResultTally(m.result);
+  if (!tally) return false; // no parseable tally to compare against
+  if (tally.yea !== m.yeas.length || tally.nay !== m.nays.length) return true;
+  if (/^Motion\s+Passed/i.test(m.result) && !(m.yeas.length > m.nays.length))
+    return true;
+  if (/^Motion\s+Failed/i.test(m.result) && !(m.yeas.length <= m.nays.length))
+    return true;
+  return false;
+}
+
+/** For per-councillor disclosure: how many result-mismatched motions named
+ * this person in ANY vote-kind bucket (their own recorded position, however
+ * unreliable, still names them) — so each profile can honestly say how many
+ * of ITS OWN motions were dropped for this reason, not just cite one global
+ * number. */
+function mismatchInvolvementOf(
+  resultMismatches: RawMotion[],
+  displayName: string,
+): number {
+  return resultMismatches.filter((m) =>
+    [m.yeas, m.nays, m.recuse, m.absent, m.abstain, m.other].some((bucket) =>
+      bucket.includes(displayName),
+    ),
+  ).length;
+}
+
 function positionsOf(
   m: RawMotion,
   lookup: Map<string, CouncillorMeta>,
@@ -206,6 +257,7 @@ interface ClassifiedMotion {
   tally: ReturnType<typeof tallyOf>;
   positions: Record<string, VoteKind>;
   anchor: string | null;
+  anchorAmbiguous: boolean;
 }
 
 function main() {
@@ -220,9 +272,43 @@ function main() {
 
   const rosterConflicts = allSinceCutoff.filter(hasRosterConflict);
   const appointmentBallots = allSinceCutoff.filter(isAppointmentBallot);
-  const divided = allSinceCutoff.filter(
-    (m) => !hasRosterConflict(m) && !isAppointmentBallot(m),
+  const resultMismatches = allSinceCutoff.filter(
+    (m) =>
+      !hasRosterConflict(m) && !isAppointmentBallot(m) && hasResultMismatch(m),
   );
+  const divided = allSinceCutoff.filter(
+    (m) =>
+      !hasRosterConflict(m) && !isAppointmentBallot(m) && !hasResultMismatch(m),
+  );
+
+  if (resultMismatches.length > 0) {
+    fs.mkdirSync(OUT_DIR, { recursive: true });
+    fs.writeFileSync(
+      path.join(OUT_DIR, "result-mismatches.json"),
+      JSON.stringify(
+        {
+          generatedAt: new Date().toISOString(),
+          note: "Motions dropped from the divided-vote universe because the motion's own minuted result string (e.g. 'Motion Passed (11 to 4)') disagrees with its parsed yeas/nays arrays — either the tally numbers don't match the array lengths, or which side won doesn't match which side has more votes. Mostly an early-term (2022-23) scraper gap. Needs manual repair against the source minutes; never guessed at or silently kept.",
+          count: resultMismatches.length,
+          motions: resultMismatches.map((m) => ({
+            id: m.id,
+            date: m.date,
+            meetingSlug: m.meetingSlug,
+            itemNumber: m.itemNumber,
+            itemTitle: m.itemTitle,
+            result: m.result,
+            parsedYeas: m.yeas.length,
+            parsedNays: m.nays.length,
+          })),
+        },
+        null,
+        2,
+      ),
+    );
+    console.log(
+      `Dropped ${resultMismatches.length} motion(s) with a result/vote-array mismatch — see data/election/result-mismatches.json`,
+    );
+  }
 
   if (rosterConflicts.length > 0) {
     fs.mkdirSync(OUT_DIR, { recursive: true });
@@ -282,7 +368,7 @@ function main() {
     const direction = truncated
       ? { axis: null, label: "unclear" as const }
       : deriveDirection(result.issue, motion.motionText);
-    const anchor = motionAnchor(
+    const anchorResult = motionAnchor(
       motion.meetingSlug,
       motion.itemNumber,
       motion.result,
@@ -295,7 +381,8 @@ function main() {
       direction,
       tally: tallyOf(motion),
       positions: positionsOf(motion, lookup),
-      anchor,
+      anchor: anchorResult?.url ?? null,
+      anchorAmbiguous: anchorResult?.ambiguous ?? false,
     });
   }
 
@@ -305,8 +392,10 @@ function main() {
     unclassifiedCount,
     unclassifiedSample,
     truncatedExcludedCount,
+    resultMismatches.length,
+    rosterConflicts.length,
   );
-  writeStancesFile(allMotionsRaw, classified, lookup);
+  writeStancesFile(allMotionsRaw, classified, lookup, resultMismatches);
 
   console.log(`Divided motions since ${CUTOFF_DATE}: ${divided.length}`);
   console.log(
@@ -332,8 +421,21 @@ function main() {
  * parts a, b, c...) under one agenda item share a single heading/anchor,
  * so the item title and link alone can make two different votes look like
  * the same row. */
+// The scraper concatenates in-meeting "stage direction" asides (chair
+// handoffs, recesses noted mid-motion) onto the end of a motion's own text
+// — e.g. "That item 10, clause 3.5, as amended, BE APPROVED. At 2:56 PM,
+// Chair Deputy Mayor S. Lewis, places Councillor H. McAlister in the
+// Chair." For a short motion, the 90-char excerpt cap landed mid-sentence
+// INSIDE that aside instead of showing (or omitting) the actual motion —
+// found via spot-check (2026-08-31, hub-recheck verdict MINOR sweep).
+// Stripped before truncating so the excerpt only ever shows the motion.
+const STAGE_DIRECTION_RE = /\bAt\s+\d{1,2}:\d{2}\s*(?:AM|PM)\b[^.]*\.\s*/gi;
+
 function motionSnippet(motionText: string): string {
-  const s = motionText.trim().replace(/\s+/g, " ");
+  const s = motionText
+    .replace(STAGE_DIRECTION_RE, " ")
+    .trim()
+    .replace(/\s+/g, " ");
   return s.length > 90 ? s.slice(0, 87) + "..." : s;
 }
 
@@ -355,6 +457,7 @@ function evidenceEntry(
     itemTitle: m.itemTitle,
     motionSnippet: motionSnippet(m.motionText),
     anchor: c.anchor,
+    anchorAmbiguous: c.anchorAmbiguous,
     result: m.result,
     tally: `${c.tally.yea}-${c.tally.nay}`,
     theirVote,
@@ -379,6 +482,8 @@ function writeIssuesFile(
     itemTitle: string;
   }[],
   truncatedExcludedCount: number,
+  resultMismatchCount: number,
+  rosterConflictCount: number,
 ) {
   const issues: Record<string, unknown> = {};
 
@@ -417,6 +522,7 @@ function writeIssuesFile(
             margin: m.margin,
             tally: c.tally,
             anchor: c.anchor,
+            anchorAmbiguous: c.anchorAmbiguous,
             matchedKeywords: c.matchedKeywords,
             direction:
               c.direction.axis === null
@@ -439,8 +545,10 @@ function writeIssuesFile(
     sourceGeneratedAt: allMotionsRaw.generatedAt,
     cutoffDate: CUTOFF_DATE,
     methodology:
-      "Divided = non-unanimous, non-procedural motion, 2023-01-01 onward, excluding secret-ballot appointment rounds (result 'Majority Winner: ...') and motions with a roster data conflict (the same person recorded in two vote-kind buckets — see roster-conflicts.json). Classified via scripts/election/issue-rules.ts, which requires a keyword match in the motion's own body text (or a structural code pattern), not the agenda item's title alone. Direction ('what a yea did') derived via scripts/election/direction-rules.ts; motions with direction 'unclear' — including any motion whose text hit the 500-character truncation cap in the source data, since a cut-off clause can flip the read — are listed here but excluded from stance aggregation in stances.json.",
+      "Divided = non-unanimous, non-procedural motion, 2023-01-01 onward, excluding secret-ballot appointment rounds (result 'Majority Winner: ...'), motions with a roster data conflict (the same person recorded in two vote-kind buckets — see roster-conflicts.json), and motions whose own minuted result string disagrees with its parsed yeas/nays arrays (see result-mismatches.json). Classified via scripts/election/issue-rules.ts, which requires a keyword match in the motion's own body text (or a structural code pattern), not the agenda item's title alone. Direction ('what a yea did') derived via scripts/election/direction-rules.ts; motions with direction 'unclear' — including any motion whose text hit the 500-character truncation cap in the source data, since a cut-off clause can flip the read — are listed here but excluded from stance aggregation in stances.json.",
     truncatedExcludedCount,
+    resultMismatchCount,
+    rosterConflictCount,
     issues,
     unclassified: {
       count: unclassifiedCount,
@@ -473,25 +581,40 @@ function pct(n: number, d: number): string {
 }
 
 // A "pattern" built from a handful of votes reads as more confident than
-// the evidence supports — 60 axis sections across the hub used to publish
-// a "1 of 1" or "0 of 2" sentence as if it were a track record. Below this
-// many direction-bearing yea/nay votes on an axis, the individual votes are
-// shown but no pattern sentence is asserted.
+// the evidence supports. Below this many DISTINCT AGENDA ITEMS on an axis,
+// the individual votes are shown but no pattern sentence is asserted.
+// Fixed 2026-08-31 (hub-recheck verdict blocker 5): this used to gate on
+// raw vote-row count (sampleSize), which let a single agenda item that
+// generates several recorded sub-motions (e.g. one committee vote followed
+// by the same decision's council-stage vote, or several amendment parts
+// under one item) manufacture an apparent "track record" out of what is
+// really one or two real decisions — "Shawn Lewis: 0 for cycling, 8
+// against" turned out to be built from 2 distinct agenda items. Gating on
+// distinctItemCount (computed from the same evidence the reader can click
+// into) makes the floor mean what it says: enough DIFFERENT decisions to
+// call a pattern, not enough vote-rows.
 const MIN_PATTERN_SAMPLE_SIZE = 5;
 
 function recusalAbsentClause(agg: Pick<AxisAgg, "recused" | "absent">): string {
   const bits: string[] = [];
   if (agg.recused > 0) {
+    // Fixed 2026-08-31 (hub-recheck verdict finding 8): the source data has
+    // no field recording WHY a councillor recused — asserting "pecuniary
+    // interest" here was fabricated, not read off any record. A recusal
+    // means the councillor formally withdrew from discussing and voting on
+    // the item; it does not, on its own, say what conflict (if any)
+    // prompted that. Worded to explain what a recusal IS without asserting
+    // a reason this data doesn't have.
     bits.push(
-      `recused ${agg.recused} (declared a pecuniary interest, which the Municipal Conflict of Interest Act requires a member to do)`,
+      `recused ${agg.recused} (recused from discussing or voting on this item; the reason isn't recorded in this data)`,
     );
   }
   if (agg.absent > 0) bits.push(`absent ${agg.absent}`);
   return bits.length ? ` (${bits.join(", ")})` : "";
 }
 
-/** Neutral pattern sentence for one axis. Two responsible-build fixes
- * baked in here:
+/** Neutral pattern sentence for one axis. Responsible-build fixes baked in
+ * here:
  *  1. "for"/"against" count DIRECTION-ALIGNMENT, not raw yea/nay — a nay on
  *     a motion that cuts the levy is a "for" (toward the axis's expansive
  *     side is wrong; it's toward restrictive... the point is it is NOT a
@@ -500,22 +623,29 @@ function recusalAbsentClause(agg: Pick<AxisAgg, "recused" | "absent">): string {
  *     increase, when up to half of any axis's "for"/"against" counts can
  *     be direction-aligned nays. This phrasing never claims a vote kind,
  *     only which side a vote moved toward.
- *  2. Below MIN_PATTERN_SAMPLE_SIZE, no pattern is asserted at all.
+ *  2. Below MIN_PATTERN_SAMPLE_SIZE DISTINCT agenda items, no pattern is
+ *     asserted at all — see the distinctItemCount comment above
+ *     MIN_PATTERN_SAMPLE_SIZE.
  */
 function buildPattern(
   agg: Pick<
     AxisAgg,
     "forCount" | "againstCount" | "recused" | "absent" | "axisLabels"
   >,
+  distinctItemCount: number,
 ): string {
   const sampleSize = agg.forCount + agg.againstCount;
   if (sampleSize === 0) {
     return `No direction-bearing votes cast on this axis since 2023${recusalAbsentClause(agg) || " (recused 0, absent 0)"}.`;
   }
-  if (sampleSize < MIN_PATTERN_SAMPLE_SIZE) {
-    const voteWord = sampleSize === 1 ? "vote" : "votes";
-    const isAre = sampleSize === 1 ? "is" : "are";
-    return `Only ${sampleSize} such ${voteWord} since 2023${recusalAbsentClause(agg)} — too few to describe a pattern. The individual vote${sampleSize === 1 ? "" : "s"} ${isAre} listed below.`;
+  if (distinctItemCount < MIN_PATTERN_SAMPLE_SIZE) {
+    const itemWord = distinctItemCount === 1 ? "decision" : "decisions";
+    const voteClause =
+      sampleSize === distinctItemCount
+        ? ""
+        : ` (${sampleSize} recorded vote${sampleSize === 1 ? "" : "s"} across them)`;
+    const isAre = distinctItemCount === 1 ? "is" : "are";
+    return `Only ${distinctItemCount} distinct ${itemWord} since 2023${voteClause}${recusalAbsentClause(agg)} — too few to describe a pattern. The individual vote${sampleSize === 1 ? "" : "s"} ${isAre} listed below.`;
   }
   const forWord = agg.forCount === 1 ? "time" : "times";
   const againstWord = agg.againstCount === 1 ? "time" : "times";
@@ -530,6 +660,7 @@ function writeStancesFile(
   allMotionsRaw: AllMotionsFile,
   classified: ClassifiedMotion[],
   lookup: Map<string, CouncillorMeta>,
+  resultMismatches: RawMotion[],
 ) {
   const currentCouncillors = [...lookup.values()].filter((c) => c.isCurrent);
 
@@ -545,10 +676,25 @@ function writeStancesFile(
 
       // Group this councillor's direction-bearing motions on this issue by axis.
       const axisMap = new Map<string, AxisAgg>();
+      // Split "not on the roster" by meeting type (hub-recheck verdict
+      // finding 6): "committee vote this councillor was not a member of" is
+      // only honest for a COMMITTEE meeting — all 15 councillors are
+      // members of Council itself, so a Council motion missing a
+      // councillor from every vote-kind bucket is a data gap in the
+      // scraped record, not a non-membership fact. Spot-check (2026-08-31):
+      // c699eb9cc94f, a City Council motion, is one of several where the
+      // old single "not a member" wording was flatly false.
+      let notOnRosterCommittee = 0;
+      let notOnRosterCouncilGap = 0;
 
       for (const c of directionBearing) {
         const vote = c.positions[councillor.slug];
-        if (vote === undefined) continue; // not on the roster for this motion — not applicable, not absent
+        if (vote === undefined) {
+          // not on the roster for this motion — not applicable, not absent
+          if (c.motion.meetingType === "Council") notOnRosterCouncilGap++;
+          else notOnRosterCommittee++;
+          continue;
+        }
 
         const d = c.direction as Direction;
         const key = d.axis;
@@ -600,8 +746,19 @@ function writeStancesFile(
           const sortedEvidence = agg.evidence.sort((a, b) =>
             a.date < b.date ? 1 : -1,
           );
+          // Counted from yea/nay evidence ONLY (finding fixed 2026-08-31
+          // alongside blocker 5): an absence or recusal isn't a "distinct
+          // decision" this councillor weighed in on, so it shouldn't be
+          // able to inflate distinctItemCount past the pattern floor for
+          // someone who actually only cast a handful of real votes on this
+          // axis (found via spot-check on the Mayor's downtown axis: 4 real
+          // votes + 2 absences let distinctItemCount hit 6, keeping a
+          // "n=4" pattern sentence alive that the floor was supposed to
+          // suppress).
           const distinctItemCount = new Set(
-            sortedEvidence.map((e) => `${e.meetingSlug}#${e.itemNumber}`),
+            sortedEvidence
+              .filter((e) => e.theirVote === "yea" || e.theirVote === "nay")
+              .map((e) => `${e.meetingSlug}#${e.itemNumber}`),
           ).size;
           return {
             axis: agg.axis,
@@ -615,7 +772,7 @@ function writeStancesFile(
             absent: agg.absent,
             abstain: agg.abstain,
             other: agg.other,
-            pattern: buildPattern(agg),
+            pattern: buildPattern(agg, distinctItemCount),
             evidence: sortedEvidence,
           };
         });
@@ -641,13 +798,7 @@ function writeStancesFile(
         },
       );
 
-      const notOnRoster =
-        directionBearing.length -
-        (overall.sampleSize +
-          overall.recused +
-          overall.absent +
-          overall.abstain +
-          overall.other);
+      const notOnRoster = notOnRosterCommittee + notOnRosterCouncilGap;
 
       issuesOut[issueId] = {
         issueLabel: ISSUES[issueId].label,
@@ -660,6 +811,10 @@ function writeStancesFile(
         // overall.against + recused + absent + abstain + other + notOnRoster.
         divisionsInCorpus: directionBearing.length,
         notOnRoster,
+        // Split for honest wording (see the comment above the counters
+        // above): committee non-membership vs. a Council-meeting data gap.
+        notOnRosterCommittee,
+        notOnRosterCouncilGap,
         overall,
         axes,
       };
@@ -669,6 +824,15 @@ function writeStancesFile(
       displayName: councillor.displayName,
       ward: councillor.ward,
       role: councillor.role,
+      // hub-recheck verdict finding 6, per-profile disclosure: how many
+      // result/vote-array-mismatched motions (see result-mismatches.json)
+      // named THIS councillor in any vote-kind bucket, and were therefore
+      // dropped from the divided-vote universe before they could be used
+      // for any claim about this person.
+      resultMismatchesExcluding: mismatchInvolvementOf(
+        resultMismatches,
+        councillor.displayName,
+      ),
       issues: issuesOut,
     };
   }
@@ -679,7 +843,7 @@ function writeStancesFile(
     sourceGeneratedAt: allMotionsRaw.generatedAt,
     cutoffDate: CUTOFF_DATE,
     methodology:
-      "Per councillor per issue per axis: 'for' = their vote aligned with the axis's expansive/permissive outcome, 'against' = aligned with its restrictive outcome (not raw yea/nay — see direction-rules.ts). Recusals and absences are counted separately, never folded into 'against' and never inferred as a position. A councillor with no entry for a motion was not on that meeting's roster (e.g. not a committee member) — not applicable, not absent.",
+      "Per councillor per issue per axis: 'for' = their vote aligned with the axis's expansive/permissive outcome, 'against' = aligned with its restrictive outcome. For an axis with its own content pattern (e.g. density, budget-levy size, business-case inclusion), this is a genuine translation of the clause's own text, not raw yea/nay. For the generic fallback axis ('approved/denied the item', used when no content pattern matches), honestly disclosed: the corpus was swept (2026-08-31) for every denial phrasing used in a non-truncated, tracked-issue motion, and none exists as of this pass — every candidate either hit the source data's 500-character truncation cap or fell outside the eight tracked issues — so on that axis specifically, 'for'/'against' reduces to the motion's own yea/nay outcome, because the clause's own text offers no separate signal to translate. Recusals and absences are counted separately, never folded into 'against' and never inferred as a position. A councillor with no entry for a motion was not on that meeting's roster — for a committee meeting this means not a member of that committee; for a Council meeting (where all 15 members sit) it means the source data has a gap for that person on that motion, not that they weren't a member (see notOnRosterCommittee vs. notOnRosterCouncilGap on each issue). Motions whose own minuted result disagrees with its parsed vote arrays are excluded entirely before any of this — see result-mismatches.json and each councillor's resultMismatchesExcluding count.",
     councillors: councillorsOut,
   };
 

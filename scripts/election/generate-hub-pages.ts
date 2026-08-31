@@ -59,6 +59,7 @@ interface IssueVote {
   margin: number;
   tally: Tally;
   anchor: string | null;
+  anchorAmbiguous: boolean;
   matchedKeywords: string[];
   direction: DirectionInfo;
   positions: Record<string, string>;
@@ -84,6 +85,8 @@ interface IssuesFile {
   cutoffDate: string;
   methodology: string;
   truncatedExcludedCount: number;
+  resultMismatchCount: number;
+  rosterConflictCount: number;
   unclassified: { count: number; note: string; sample: UnclassifiedSample[] };
   issues: Record<string, IssueEntry>;
 }
@@ -99,6 +102,7 @@ interface EvidenceRow {
   itemTitle: string;
   motionSnippet: string;
   anchor: string | null;
+  anchorAmbiguous: boolean;
   result: string;
   tally: string;
   theirVote: string;
@@ -126,6 +130,8 @@ interface IssueStance {
   issueLabel: string;
   divisionsInCorpus: number;
   notOnRoster: number;
+  notOnRosterCommittee: number;
+  notOnRosterCouncilGap: number;
   overall: {
     sampleSize: number;
     for: number;
@@ -141,6 +147,7 @@ interface IssueStance {
 interface CouncillorStance {
   displayName: string;
   role: string;
+  resultMismatchesExcluding: number;
   issues: Record<string, IssueStance>;
 }
 
@@ -188,14 +195,22 @@ function link(text: string, destPath: string): string {
 /** Best-effort link to the underlying motion: prefer the precomputed
  * heading anchor; fall back to the bare meeting page if the anchor is
  * missing (per the stance-engine's guidance — never treat a null anchor as
- * an error). */
+ * an error). When `anchorAmbiguous` is true (hub-recheck verdict finding
+ * 14), this item number collided with another, different heading on the
+ * same page and anchors.ts couldn't tell them apart — the link already
+ * goes to the bare meeting page (no fragment), and that's disclosed here
+ * rather than left for a reader to notice on their own. */
 function motionLink(
   text: string,
   anchor: string | null,
   meetingSlug: string,
+  anchorAmbiguous?: boolean,
 ): string {
   const dest = anchor ?? `/${meetingSlug}`;
-  return link(text, dest);
+  const base = link(text, dest);
+  return anchorAmbiguous
+    ? `${base} *(links to the meeting page — this item shares its heading with another motion, so no single-motion anchor is possible)*`
+    : base;
 }
 
 const VOTE_LABEL: Record<string, string> = {
@@ -308,6 +323,7 @@ function renderAxisSection(axis: AxisStance): string {
         ev.itemTitle || "(untitled item)",
         ev.anchor,
         ev.meetingSlug,
+        ev.anchorAmbiguous,
       );
       const theirVote = VOTE_LABEL[ev.theirVote] ?? ev.theirVote;
       const movedToward = ev.movedToward ?? "—";
@@ -315,17 +331,38 @@ function renderAxisSection(axis: AxisStance): string {
     })
     .join("\n");
 
+  // Computed from the full evidence table (not axis.distinctItemCount,
+  // which — since 2026-08-31 — deliberately counts only yea/nay rows for
+  // the pattern floor, see generate-stances.ts) so this note's "N rows
+  // across M items" always describes the table actually shown below it.
+  const distinctRowItems = new Set(
+    axis.evidence.map((ev) => `${ev.meetingSlug}#${ev.itemNumber}`),
+  ).size;
   const itemsNote =
-    axis.distinctItemCount < axis.evidence.length
-      ? ` (${axis.evidence.length} votes across ${axis.distinctItemCount} distinct agenda item${axis.distinctItemCount === 1 ? "" : "s"} — some items had more than one recorded sub-motion)`
+    distinctRowItems < axis.evidence.length
+      ? ` (${axis.evidence.length} rows across ${distinctRowItems} distinct agenda item${distinctRowItems === 1 ? "" : "s"} — some items had more than one recorded sub-motion, or a recorded absence/recusal alongside a vote)`
       : "";
+
+  // Fixed 2026-08-31 (hub-recheck verdict finding 9): the evidence table
+  // includes every position on this axis's motions, not just yea/nay
+  // votes — a recusal or an absence isn't a "vote". "Show all N votes"
+  // mislabeled non-vote rows as votes in ~39 places across the hub; this
+  // counts real yea/nay votes separately from the row total and only calls
+  // them "votes".
+  const realVoteCount = axis.evidence.filter(
+    (ev) => ev.theirVote === "yea" || ev.theirVote === "nay",
+  ).length;
+  const summaryText =
+    realVoteCount === axis.evidence.length
+      ? `Show all ${realVoteCount} vote${realVoteCount === 1 ? "" : "s"} behind this pattern${itemsNote}`
+      : `Show all ${axis.evidence.length} rows behind this pattern (${realVoteCount} vote${realVoteCount === 1 ? "" : "s"}, ${axis.evidence.length - realVoteCount} recusal${axis.evidence.length - realVoteCount === 1 ? "" : "s"}/absence${axis.evidence.length - realVoteCount === 1 ? "" : "s"}/other)${itemsNote}`;
 
   return `#### ${axis.axisLabels.expansive} vs. ${axis.axisLabels.restrictive}
 
 ${axis.pattern}
 
 <details class="eh-evidence">
-<summary>Show all ${axis.evidence.length} vote${axis.evidence.length === 1 ? "" : "s"} behind this pattern${itemsNote}</summary>
+<summary>${summaryText}</summary>
 
 <div class="eh-table-scroll">
 
@@ -339,19 +376,45 @@ ${evidenceRows}
 `;
 }
 
+// Fixed 2026-08-31 (hub-recheck verdict finding 10): the strong-mayor
+// budget-caveat explainer lived only in the page footer, ~370 lines below
+// the Budget section it actually qualifies, despite a commit message
+// claiming it was linked from every budget note. Every Budget issue section
+// now carries its own inline link right where a reader hits budget votes.
+const BUDGET_CAVEAT =
+  "\n\n> Budget votes since 2024 are votes on **amendments** to the Mayor's tabled budget under Ontario's strong-mayor powers, not on an independently council-drafted budget — see [what that changes about what a budget vote means](/election/what-council-controls#who-tables-the-budget).";
+
 function renderIssueSection(issueSlug: string, issue: IssueStance): string {
   const o = issue.overall;
   const axesMd = issue.axes.map(renderAxisSection).join("\n");
   const onRoster = o.sampleSize + o.recused + o.absent + o.abstain + o.other;
 
-  const notOnRosterClause =
-    issue.notOnRoster > 0
-      ? ` The other ${issue.notOnRoster} were committee votes this councillor was not a member of.`
-      : "";
+  // Fixed 2026-08-31 (hub-recheck verdict finding 6): "committee votes this
+  // councillor was not a member of" is only true for a COMMITTEE meeting —
+  // all 15 councillors sit on Council itself, so a Council motion missing
+  // someone from every vote-kind bucket is a gap in the scraped record, not
+  // a non-membership fact (spot-check: c699eb9cc94f, a City Council motion,
+  // is one of several where the old single wording was flatly false).
+  const notOnRosterBits: string[] = [];
+  if (issue.notOnRosterCommittee > 0) {
+    notOnRosterBits.push(
+      `${issue.notOnRosterCommittee} ${issue.notOnRosterCommittee === 1 ? "was" : "were"} committee votes this councillor was not a member of that committee`,
+    );
+  }
+  if (issue.notOnRosterCouncilGap > 0) {
+    notOnRosterBits.push(
+      `${issue.notOnRosterCouncilGap} ${issue.notOnRosterCouncilGap === 1 ? "was" : "were"} Council vote${issue.notOnRosterCouncilGap === 1 ? "" : "s"} where this councillor's individual position wasn't captured in the source data (a data gap — all 15 members sit on Council)`,
+    );
+  }
+  const notOnRosterClause = notOnRosterBits.length
+    ? ` The other ${issue.notOnRoster}: ${notOnRosterBits.join("; ")}.`
+    : "";
+
+  const caveat = issueSlug === "budget" ? BUDGET_CAVEAT : "";
 
   return `### [${issue.issueLabel}](/election/issues/${issueSlug})
 
-*Of the ${issue.divisionsInCorpus} divided votes on this issue since 2023 that had a clear direction, this councillor was on the roster for ${onRoster}: ${o.sampleSize} yea or nay, ${o.recused} recused, ${o.absent} absent${o.abstain || o.other ? `, ${o.abstain} abstained, ${o.other} other` : ""}.${notOnRosterClause}*
+*Of the ${issue.divisionsInCorpus} divided votes on this issue since 2023 that had a clear direction, this councillor was on the roster for ${onRoster}: ${o.sampleSize} yea or nay, ${o.recused} recused, ${o.absent} absent${o.abstain || o.other ? `, ${o.abstain} abstained, ${o.other} other` : ""}.${notOnRosterClause}*${caveat}
 
 ${axesMd}`;
 }
@@ -372,9 +435,31 @@ function generateCouncillorPage(
     ? `${c.role}, Ward ${ward.ward} (2022–2026 boundaries)`
     : c.role;
 
+  // Fixed 2026-08-31 (hub-recheck verdict finding 11): 2026 candidacy data
+  // already exists in data/election/wards.json (which ward a sitting
+  // councillor is/isn't running in for the Oct 26, 2026 election) but
+  // wasn't plumbed onto the councillor's own profile page — an omission
+  // that reads as an asymmetry (Stevenson's profile still said plain
+  // "Councillor" with no mention she's running for Mayor instead; Rahman's
+  // Ward 7→5 move was absent). Neutral wording carried over verbatim from
+  // wards.json — no new claims are made here, just surfaced where a reader
+  // is actually looking.
+  const candidacyNote = ward?.incumbent2026Note
+    ? `\n> **2026 candidacy:** ${ward.incumbent2026Note} See the [certified candidate list](/election/wards) for the authoritative source.\n`
+    : "";
+
   const noPatternNote =
     issueSlugs.length === 0
       ? "\nNo divided votes with a clear direction were recorded for this councillor on any tracked issue in the current data. This can happen for councillors who joined recently, or whose committee assignments didn't overlap with any issue's divided votes.\n"
+      : "";
+
+  // Fixed 2026-08-31 (hub-recheck verdict finding 6, per-profile
+  // disclosure): how many result/vote-array-mismatched motions named this
+  // councillor, and were dropped from the divided-vote universe before
+  // they could be used for any claim here.
+  const mismatchNote =
+    c.resultMismatchesExcluding > 0
+      ? ` ${c.resultMismatchesExcluding} additional divided motion${c.resultMismatchesExcluding === 1 ? "" : "s"} naming ${c.displayName} ${c.resultMismatchesExcluding === 1 ? "was" : "were"} excluded entirely because the motion's own minuted result disagreed with its recorded vote count — not used for any claim above.`
       : "";
 
   return `---
@@ -389,14 +474,14 @@ prefillQuestions: []
 # ${c.displayName}
 
 ${roleLine} · [Full voting record on Open Council →](/councillors/current/${slug})
-
+${candidacyNote}
 ${STANDING_DISCLAIMER}
 ${noPatternNote}
 ${sections}
 
 ---
 
-*Sample sizes above count only votes where ${c.displayName} cast a yea or nay that the direction-rules pipeline could classify as "for" or "against" the issue's axis. Recusals (declared a pecuniary interest — an ethical/legal requirement, not a choice) and absences are shown separately in each issue's summary line and are never counted as a position. Budget votes since 2024 are votes on amendments to the Mayor's tabled budget under Ontario's strong-mayor powers — see [What Council Actually Controls](/election/what-council-controls#who-tables-the-budget) for what that changes about what a budget vote means. Only sitting councillors get a stance profile on this hub; challengers don't yet have a council voting record to summarize.*
+*Sample sizes above count only votes where ${c.displayName} cast a yea or nay that the direction-rules pipeline could classify as "for" or "against" the issue's axis. A recusal means the councillor formally withdrew from discussing and voting on that item — this data does not record why, so no reason is asserted here — and, like an absence, is shown separately in each issue's summary line and never counted as a position.${mismatchNote} Only sitting councillors get a stance profile on this hub; challengers don't yet have a council voting record to summarize.*
 `;
 }
 
@@ -404,27 +489,58 @@ ${sections}
 // Issue pages: /election/issues/{slug}
 // ---------------------------------------------------------------------------
 
+/** Parse the "(N to M)" tally out of a motion's own result string — same
+ * pattern as anchors.ts/generate-stances.ts (kept local rather than shared,
+ * since this script's only use is the disagreement check below). */
+function extractResultTally(
+  resultText: string,
+): { yea: number; nay: number } | null {
+  const m = resultText.match(/\((\d+)\s*(?:to|[-–—])\s*(\d+)\)/i);
+  return m ? { yea: Number(m[1]), nay: Number(m[2]) } : null;
+}
+
 function renderIssueVoteRow(v: IssueVote): string {
   const itemLink = motionLink(
     v.itemTitle || "(untitled item)",
     v.anchor,
     v.meetingSlug,
+    v.anchorAmbiguous,
   );
   const whatAYeaDid = v.direction.axis
     ? v.direction.label
     : "Not classified — the direction wasn't clear from the motion text (listed for transparency)";
-  // No separate "Tally" column: it used to show the parsed yeas/nays count
-  // alongside the minuted Result string, and the two occasionally
-  // disagreed in plain sight (roster-parse noise vs. the authoritative
-  // minutes text) — e.g. "9–2" next to "Motion Passed (11 to 4)". The
-  // minuted Result is the one source of truth shown here.
-  return `| ${v.date} | ${itemLink} | ${tcell(whatAYeaDid)} | ${tcell(v.result)} |`;
+  // Fixed 2026-08-31 (hub-recheck verdict finding 7): the Tally column was
+  // previously deleted rather than fixing the cause — a comment admitted
+  // the parsed yeas/nays count "disagreed in plain sight" with the minuted
+  // Result, then removed the exposing column while still using those same
+  // arrays as the source for every claim on this hub. generate-stances.ts
+  // now hard-excludes any motion whose result disagrees with its parsed
+  // arrays before it ever reaches this page (see result-mismatches.json),
+  // so the two numbers below should always agree — but the column is
+  // restored, WITH a visible flag if they ever don't, rather than trusting
+  // that silently and hiding the check that would catch a regression.
+  const parsedTally = `${v.tally.yea}-${v.tally.nay}`;
+  const resultTally = extractResultTally(v.result);
+  const disagrees =
+    resultTally !== null &&
+    (resultTally.yea !== v.tally.yea || resultTally.nay !== v.tally.nay);
+  const tallyCell = disagrees
+    ? `${parsedTally} ⚠️ disagrees with minuted result`
+    : parsedTally;
+  return `| ${v.date} | ${itemLink} | ${tcell(whatAYeaDid)} | ${tcell(tallyCell)} | ${tcell(v.result)} |`;
 }
+
+// hub-recheck verdict finding 12: issue pages had no disclaimer at all, and
+// never disclosed the roster-conflict / truncation-exclusion counts that
+// shape what's (and isn't) on the page.
+const ISSUE_PAGE_DISCLAIMER = `> **This is a descriptive record, not an endorsement.** Every row below is a real recorded council or committee vote since 2023. It says nothing about a councillor's reasons, character, or fitness for office — only what was voted on and what a yea did. See [What Council Actually Controls](/election/what-council-controls) for how much of this any councillor actually controls.`;
 
 function generateIssuePage(
   issue: IssueEntry,
   methodology: string,
   cutoffDate: string,
+  rosterConflictCount: number,
+  resultMismatchCount: number,
 ): string {
   const sorted = [...issue.votes].sort((a, b) => b.date.localeCompare(a.date));
   const rows = sorted.map(renderIssueVoteRow).join("\n");
@@ -444,19 +560,21 @@ prefillQuestions: []
 
 ${issue.dividedVoteCount} divided (non-unanimous, non-procedural) council or committee votes on this issue since ${cutoffDate}. ${clearCount} of those had a clear "what a yea did" direction; ${unclearCount} did not and are marked below rather than guessed at.
 
+${ISSUE_PAGE_DISCLAIMER}
+
 For how each current councillor voted on these, see their [stance profile](/election#councillor-stance-profiles).
 
 <div class="eh-table-scroll">
 
-| Date | Item | What a yea did | Result |
-|------|------|-----------------|--------|
+| Date | Item | What a yea did | Tally | Result |
+|------|------|-----------------|:---:|--------|
 ${rows}
 
 </div>
 
 ---
 
-*Methodology: ${tcell(methodology)}*
+*Methodology: ${tcell(methodology)} Site-wide, before any issue classification happens: ${rosterConflictCount.toLocaleString()} motion${rosterConflictCount === 1 ? "" : "s"} were dropped for a roster data conflict (the same person recorded in two vote-kind buckets on one motion) and ${resultMismatchCount.toLocaleString()} more for a result/vote-array disagreement (the motion's own minuted result doesn't match its recorded tally) — neither is guessed at or repaired, both are simply excluded from every count on this hub.*
 `;
 }
 
@@ -911,7 +1029,13 @@ async function main() {
   for (const [slug, issue] of Object.entries(issues.issues)) {
     await writeFile(
       path.join(CONTENT_DIR, "issues", `${slug}.md`),
-      generateIssuePage(issue, issues.methodology, issues.cutoffDate),
+      generateIssuePage(
+        issue,
+        issues.methodology,
+        issues.cutoffDate,
+        issues.rosterConflictCount,
+        issues.resultMismatchCount,
+      ),
     );
   }
   console.log(

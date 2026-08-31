@@ -5,12 +5,24 @@
  * (built from data/election/issues.json + data/election/stances.json),
  * verifies that:
  *  1. The anchor resolves to a build-output HTML page that actually exists
- *     under public/.
+ *     under public/ (a row anchors.ts marked `anchorAmbiguous` is expected
+ *     to have no #fragment and is checked only for page existence — the
+ *     fragment was deliberately omitted, not a bug).
  *  2. That page's content contains the cited motion's own result string
  *     (e.g. "Motion Failed (7 to 8)") within the anchor's own section (from
  *     the anchor's heading id up to the next heading), not just somewhere
  *     on the page — i.e. the link lands on the right motion, not just the
  *     right page.
+ *  3. UNIQUENESS (hub-recheck verdict finding 14, added 2026-08-31): no
+ *     #fragment is claimed by two rows with DIFFERENT itemNumbers — that
+ *     would mean two genuinely different motions collided onto the same
+ *     heading without anchors.ts catching it. Rows that legitimately share
+ *     a fragment because they're different sub-motions of the SAME item
+ *     number (e.g. amendment parts a/b/c under one agenda item — see
+ *     anchors.ts's module doc) are expected and excluded from this check;
+ *     only a same-fragment / different-itemNumber pairing counts as a
+ *     violation. This is a check on EXISTENCE plus UNIQUENESS, not
+ *     existence alone.
  *
  * Run after `npm run build` (needs public/ to exist).
  * Usage: npx tsx scripts/election/verify-evidence-links.ts
@@ -69,10 +81,25 @@ function sectionAfterAnchor(html: string, anchorId: string): string | null {
 function checkEvidenceLink(
   anchor: string | null,
   resultText: string,
+  anchorAmbiguous: boolean,
 ): CheckResult {
   if (!anchor) return { ok: false, reason: "null anchor" };
   const [urlPath, anchorId] = anchor.split("#");
-  if (!anchorId) return { ok: false, reason: "anchor has no #fragment" };
+  if (!anchorId) {
+    // A row anchors.ts marked ambiguous deliberately has no #fragment
+    // (see anchors.ts's AnchorResult doc) — that's the honest outcome when
+    // two different headings share an item number and nothing in the
+    // motion's own text disambiguates them; still verify the page itself
+    // exists, but don't fail it for lacking a fragment it was never meant
+    // to have.
+    if (anchorAmbiguous) {
+      const html = loadHtml(urlPath);
+      return html === null
+        ? { ok: false, reason: `build output missing for ${urlPath}` }
+        : { ok: true };
+    }
+    return { ok: false, reason: "anchor has no #fragment" };
+  }
   const html = loadHtml(urlPath);
   if (html === null)
     return { ok: false, reason: `build output missing for ${urlPath}` };
@@ -106,6 +133,49 @@ function checkEvidenceLink(
   return { ok: true };
 }
 
+interface Row {
+  source: string;
+  motionId: string;
+  itemNumber: string;
+  anchor: string | null;
+  anchorAmbiguous: boolean;
+  result: string;
+}
+
+/** Uniqueness pass (finding 14): group every row that HAS a #fragment by
+ * that exact fragment; any group whose rows carry more than one distinct
+ * itemNumber is a real collision anchors.ts should have disambiguated or
+ * marked ambiguous, and didn't. Rows sharing a fragment with the SAME
+ * itemNumber (ordinary amendment sub-parts a/b/c under one item) are
+ * expected and not flagged. */
+function checkUniqueness(rows: Row[]): {
+  motionId: string;
+  anchor: string;
+  reason: string;
+}[] {
+  const byFragment = new Map<string, Row[]>();
+  for (const r of rows) {
+    if (!r.anchor || !r.anchor.includes("#")) continue;
+    const arr = byFragment.get(r.anchor) ?? [];
+    arr.push(r);
+    byFragment.set(r.anchor, arr);
+  }
+
+  const violations: { motionId: string; anchor: string; reason: string }[] = [];
+  for (const [anchor, group] of byFragment) {
+    const distinctItemNumbers = new Set(group.map((r) => r.itemNumber));
+    if (distinctItemNumbers.size > 1) {
+      const ids = [...new Set(group.map((r) => r.motionId))].join(", ");
+      violations.push({
+        motionId: ids,
+        anchor,
+        reason: `anchor shared by ${distinctItemNumbers.size} different item numbers (${[...distinctItemNumbers].join(", ")}) across motions ${ids} — not motion-unique`,
+      });
+    }
+  }
+  return violations;
+}
+
 function main() {
   const issues = JSON.parse(
     fs.readFileSync(path.join(DATA_DIR, "issues.json"), "utf-8"),
@@ -121,11 +191,16 @@ function main() {
     anchor: string | null;
     reason: string;
   }[] = [];
+  const allRows: Row[] = [];
 
   for (const [issueSlug, issue] of Object.entries<any>(issues.issues)) {
     for (const v of issue.votes) {
       total++;
-      const res = checkEvidenceLink(v.anchor, v.result);
+      const res = checkEvidenceLink(
+        v.anchor,
+        v.result,
+        Boolean(v.anchorAmbiguous),
+      );
       if (!res.ok)
         failures.push({
           source: `issue:${issueSlug}`,
@@ -133,6 +208,14 @@ function main() {
           anchor: v.anchor,
           reason: res.reason!,
         });
+      allRows.push({
+        source: `issue:${issueSlug}`,
+        motionId: v.id,
+        itemNumber: `${v.meetingSlug}#${v.itemNumber}`,
+        anchor: v.anchor,
+        anchorAmbiguous: Boolean(v.anchorAmbiguous),
+        result: v.result,
+      });
     }
   }
 
@@ -141,7 +224,11 @@ function main() {
       for (const axis of issue.axes) {
         for (const ev of axis.evidence) {
           total++;
-          const res = checkEvidenceLink(ev.anchor, ev.result);
+          const res = checkEvidenceLink(
+            ev.anchor,
+            ev.result,
+            Boolean(ev.anchorAmbiguous),
+          );
           if (!res.ok)
             failures.push({
               source: `councillor:${slug}`,
@@ -149,15 +236,32 @@ function main() {
               anchor: ev.anchor,
               reason: res.reason!,
             });
+          // Not added to allRows: this is the SAME motion catalogued above
+          // via issues.json (every direction-bearing motion is classified
+          // into exactly one issue), just re-shown per-councillor — adding
+          // it again would double-count every ordinary shared-heading case
+          // as if it were a fresh collision.
         }
       }
     }
   }
 
-  console.log(`Checked ${total} evidence links.`);
+  const uniquenessViolations = checkUniqueness(allRows);
+  for (const v of uniquenessViolations) {
+    failures.push({
+      source: "uniqueness",
+      motionId: v.motionId,
+      anchor: v.anchor,
+      reason: v.reason,
+    });
+  }
+
+  console.log(
+    `Checked ${total} evidence links (+ uniqueness across ${allRows.length} issue-page rows).`,
+  );
   if (failures.length === 0) {
     console.log(
-      "All evidence links resolve to a build-output page whose own section contains the cited motion's result.",
+      "All evidence links resolve to a build-output page whose own section contains the cited motion's result, and no fragment is shared across different item numbers.",
     );
     process.exit(0);
   }
