@@ -116,6 +116,7 @@ interface AxisStance {
   axisLabels: { expansive: string; restrictive: string };
   sampleSize: number;
   distinctItemCount: number;
+  evidenceDecisionCount: number;
   for: number;
   against: number;
   forPct: string;
@@ -124,6 +125,22 @@ interface AxisStance {
   abstain: number;
   other: number;
   pattern: string;
+  // Round-4 gate item 4: same-decision (see groupIntoDecisions in
+  // generate-stances.ts) rows where this councillor's yea/nay votes point
+  // in opposite directions on this axis — excluded from sampleSize/for/
+  // against/distinctItemCount above, listed here so they're never silently
+  // dropped (see renderLadderExclusions).
+  ladderExclusions: {
+    decisionGroupIndex: number;
+    motionId: string;
+    date: string;
+    meetingSlug: string;
+    itemTitle: string;
+    anchor: string | null;
+    anchorAmbiguous: boolean;
+    theirVote: string;
+    axisDirection: "for" | "against";
+  }[];
   evidence: EvidenceRow[];
 }
 
@@ -132,6 +149,7 @@ interface IssueStance {
   divisionsInCorpus: number;
   notOnRoster: number;
   notOnRosterCommittee: number;
+  memberAbsentCommittee: number;
   notOnRosterCommitteeMeetingGap: number;
   notOnRosterCouncilGap: number;
   overall: {
@@ -142,6 +160,7 @@ interface IssueStance {
     absent: number;
     abstain: number;
     other: number;
+    ladderExcluded: number;
   };
   axes: AxisStance[];
   unclearCount: number;
@@ -348,6 +367,50 @@ function slugFor(
   return displayName.toLowerCase().replace(/[^a-z0-9]+/g, "-");
 }
 
+/** Round-4 gate item 4: honest disclosure for a councillor's votes that
+ * were excluded from this axis's for/against tally because, within one
+ * same-day/same-subject decision group (an amendment ladder — e.g. a
+ * weaker, conditional wording voted down, then a stronger, unconditional
+ * wording of the same restriction passed minutes later), their votes
+ * pointed in more than one direction. Never silently dropped — grouped by
+ * decisionGroupIndex so a reader sees exactly which sibling motions
+ * conflicted and how. */
+function renderLadderExclusions(axis: AxisStance): string {
+  if (axis.ladderExclusions.length === 0) return "";
+  const groups = new Map<number, AxisStance["ladderExclusions"]>();
+  for (const ex of axis.ladderExclusions) {
+    let g = groups.get(ex.decisionGroupIndex);
+    if (!g) {
+      g = [];
+      groups.set(ex.decisionGroupIndex, g);
+    }
+    g.push(ex);
+  }
+  const items = [...groups.values()]
+    .map((rows) => {
+      const parts = rows
+        .map((ex) => {
+          const link = motionLink(
+            ex.itemTitle || "(untitled item)",
+            ex.anchor,
+            ex.meetingSlug,
+            ex.anchorAmbiguous,
+          );
+          const theirVote = VOTE_LABEL[ex.theirVote] ?? ex.theirVote;
+          return `${theirVote} on ${link} (${ex.date}, counts as ${ex.axisDirection})`;
+        })
+        .join("; ");
+      return `- ${parts}`;
+    })
+    .join("\n");
+  const n = axis.ladderExclusions.length;
+  return `
+**${n} vote${n === 1 ? "" : "s"} excluded from the pattern above:** within a same-day, same-subject group of motions (an amendment offering different wordings of the same decision), this councillor's votes pointed in more than one direction on this axis — neither a "for" nor an "against" that the pattern sentence can honestly claim, so none of them are counted in the table or sentence above. Shown here instead of hidden:
+
+${items}
+`;
+}
+
 function renderAxisSection(axis: AxisStance): string {
   const evidenceRows = axis.evidence
     .map((ev) => {
@@ -363,16 +426,22 @@ function renderAxisSection(axis: AxisStance): string {
     })
     .join("\n");
 
-  // Computed from the full evidence table (not axis.distinctItemCount,
-  // which — since 2026-08-31 — deliberately counts only yea/nay rows for
-  // the pattern floor, see generate-stances.ts) so this note's "N rows
-  // across M items" always describes the table actually shown below it.
-  const distinctRowItems = new Set(
-    axis.evidence.map((ev) => `${ev.meetingSlug}#${ev.itemNumber}`),
-  ).size;
+  // Fixed 2026-08-31 (round-4 gate item 6, render minor): this used to
+  // count "distinct agenda items" by literal (meetingSlug, itemNumber)
+  // pairs — a DIFFERENT grouping than axis.distinctItemCount's decision-
+  // level union-find (same-day, same-title-or-business-case-number rows
+  // merged), so the two numbers could disagree right next to each other on
+  // the page with no explanation (j-morgan/Policing: prose said "4
+  // distinct decisions", this note said "5 distinct agenda items", same
+  // six real votes). Now sourced from evidenceDecisionCount — the same
+  // decision grouping, applied to every row in this table (see
+  // generate-stances.ts) — so it can only disagree with the prose above it
+  // when the prose is counting a different SUBSET of rows (distinctItemCount
+  // excludes recusals/absences on purpose), never a different definition of
+  // "distinct".
   const itemsNote =
-    distinctRowItems < axis.evidence.length
-      ? ` (${axis.evidence.length} rows across ${distinctRowItems} distinct agenda item${distinctRowItems === 1 ? "" : "s"} — some items had more than one recorded sub-motion, or a recorded absence/recusal alongside a vote)`
+    axis.evidenceDecisionCount < axis.evidence.length
+      ? ` (${axis.evidence.length} rows across ${axis.evidenceDecisionCount} distinct decision${axis.evidenceDecisionCount === 1 ? "" : "s"} — some decisions had more than one recorded sub-motion or meeting stage, or a recorded absence/recusal alongside a vote)`
       : "";
 
   // Fixed 2026-08-31 (hub-recheck verdict finding 9): the evidence table
@@ -392,7 +461,7 @@ function renderAxisSection(axis: AxisStance): string {
   return `#### ${axis.axisLabels.expansive} vs. ${axis.axisLabels.restrictive}
 
 ${axis.pattern}
-
+${renderLadderExclusions(axis)}
 <details class="eh-evidence">
 <summary>${summaryText}</summary>
 
@@ -432,7 +501,13 @@ function renderUnclearSection(issue: IssueStance): string {
         ev.anchorAmbiguous,
       );
       const theirVote = VOTE_LABEL[ev.theirVote] ?? ev.theirVote;
-      return `| ${ev.date} | ${itemLink} | ${tcell(ev.motionSnippet)} | ${theirVote} | ${tcell(ev.result)} |`;
+      // Fixed 2026-08-31 (round-4 gate item 6): whatAYeaDid — the verified
+      // classification pipeline's own plain-English description of what
+      // this clause did — already existed on every unclearEvidence row in
+      // stances.json (see evidenceEntry in generate-stances.ts) but was
+      // never rendered here, leaving "no clear direction" motions with
+      // nothing but a raw motion-text excerpt to explain them.
+      return `| ${ev.date} | ${itemLink} | ${tcell(ev.motionSnippet)} | ${tcell(ev.whatAYeaDid)} | ${theirVote} | ${tcell(ev.result)} |`;
     })
     .join("\n");
 
@@ -440,8 +515,8 @@ function renderUnclearSection(issue: IssueStance): string {
 <details class="eh-evidence">
 <summary>${issue.unclearEvidence.length} motion${issue.unclearEvidence.length === 1 ? "" : "s"} with no clear direction on this issue (excluded from the pattern counts above; shown for transparency, not as evidence of a position)</summary>
 
-| Date | Item | Motion (excerpt) | Their vote | Result |
-|------|------|-------------------|------------|--------|
+| Date | Item | Motion (excerpt) | What a yea did | Their vote | Result |
+|------|------|-------------------|-----------------|------------|--------|
 ${rows}
 
 
@@ -452,7 +527,15 @@ ${rows}
 function renderIssueSection(issueSlug: string, issue: IssueStance): string {
   const o = issue.overall;
   const axesMd = issue.axes.map(renderAxisSection).join("\n");
-  const onRoster = o.sampleSize + o.recused + o.absent + o.abstain + o.other;
+  // Fixed 2026-08-31 (round-4 gate item 4): o.ladderExcluded — real,
+  // on-roster yea/nay votes pulled out of sampleSize/for/against because
+  // they pointed in a different direction than a same-decision sibling
+  // vote (see ladderExclusions per axis, rendered below the pattern) — has
+  // to be included here or divisionsInCorpus no longer equals onRoster +
+  // notOnRoster, breaking the page's own stated arithmetic invariant the
+  // moment any axis has an exclusion.
+  const onRoster =
+    o.sampleSize + o.recused + o.absent + o.abstain + o.other + o.ladderExcluded;
 
   // Fixed 2026-08-31 (hub-recheck verdict finding 6): "committee votes this
   // councillor was not a member of" is only true for a COMMITTEE meeting —
@@ -470,9 +553,19 @@ function renderIssueSection(issueSlug: string, issue: IssueStance): string {
   // councillor, even when they demonstrably voted at that same meeting on
   // something else (confirmed false on Josh Morgan's PEC motions). Split
   // into notOnRosterCommittee (genuine: absent from that whole meeting's
-  // roster) and notOnRosterCommitteeMeetingGap (they voted on other items at
-  // that same meeting — this specific motion is a data gap, not evidence of
-  // non-membership).
+  // roster) and notOnRosterCommitteeMeetingGap (data gap for this one
+  // motion only).
+  //
+  // Fixed 2026-08-31 (round-4 gate BLOCKER item 1): the P3 split above was
+  // itself still built from per-motion vote buckets ("voted on other
+  // business at the same meeting" as a proxy for membership), which was
+  // false for any member who cast no OTHER recorded vote that meeting
+  // either — confirmed false on 49 of 662 cases. All three buckets are now
+  // computed in generate-stances.ts directly from the raw meeting record's
+  // roster fields (present/remote_attendance/absent), with a new
+  // memberAbsentCommittee bucket for a member the meeting's own `absent`
+  // field names (no vote possible on anything that meeting — honest,
+  // not "not a member").
   const notOnRosterBits: string[] = [];
   if (issue.notOnRosterCommittee > 0) {
     const n = issue.notOnRosterCommittee;
@@ -480,10 +573,16 @@ function renderIssueSection(issueSlug: string, issue: IssueStance): string {
       `${n} ${n === 1 ? "was a" : "were"} committee motion${n === 1 ? "" : "s"} at ${n === 1 ? "a committee" : "committees"} this councillor is not a member of`,
     );
   }
+  if (issue.memberAbsentCommittee > 0) {
+    const n = issue.memberAbsentCommittee;
+    notOnRosterBits.push(
+      `${n} ${n === 1 ? "was a" : "were"} committee motion${n === 1 ? "" : "s"} where this councillor is a member of that committee but the meeting's own attendance record has them absent for the whole meeting, so no individual vote exists`,
+    );
+  }
   if (issue.notOnRosterCommitteeMeetingGap > 0) {
     const n = issue.notOnRosterCommitteeMeetingGap;
     notOnRosterBits.push(
-      `${n} ${n === 1 ? "was a" : "were"} committee motion${n === 1 ? "" : "s"} where this councillor voted on other business at the same meeting, but this specific motion's individual position wasn't captured in the source data (a data gap for this motion, not evidence they weren't on that committee)`,
+      `${n} ${n === 1 ? "was a" : "were"} committee motion${n === 1 ? "" : "s"} where this councillor is a member of that committee and attended the meeting, but this specific motion's individual position wasn't captured in the source data (a data gap for this motion, not evidence they weren't on that committee)`,
     );
   }
   if (issue.notOnRosterCouncilGap > 0) {
@@ -501,9 +600,19 @@ function renderIssueSection(issueSlug: string, issue: IssueStance): string {
 
   const caveat = issueSlug === "budget" ? BUDGET_CAVEAT : "";
 
+  // Fixed 2026-08-31 (round-4 gate item 4): o.ladderExcluded votes are real
+  // yea/nay positions this councillor took — shown in the sentence rather
+  // than silently folded into "yea or nay" (which now means "yea or nay
+  // AND counted in the pattern above") or left for the reader to notice
+  // only in a per-axis footnote several screens down.
+  const ladderClause =
+    o.ladderExcluded > 0
+      ? `, ${o.ladderExcluded} more excluded from the patterns above (their vote pointed a different way than a same-decision sibling vote — see the note under the relevant axis)`
+      : "";
+
   return `### [${issue.issueLabel}](/election/issues/${issueSlug})
 
-*Of the ${issue.divisionsInCorpus} divided votes on this issue since 2023 that had a clear direction, this councillor was on the roster for ${onRoster}: ${o.sampleSize} yea or nay, ${o.recused} recused, ${o.absent} absent${o.abstain || o.other ? `, ${o.abstain} abstained, ${o.other} other` : ""}.${notOnRosterClause}*${caveat}
+*Of the ${issue.divisionsInCorpus} divided votes on this issue since 2023 that had a clear direction, this councillor was on the roster for ${onRoster}: ${o.sampleSize} yea or nay, ${o.recused} recused, ${o.absent} absent${o.abstain || o.other ? `, ${o.abstain} abstained, ${o.other} other` : ""}${ladderClause}.${notOnRosterClause}*${caveat}
 
 ${axesMd}
 ${renderUnclearSection(issue)}`;

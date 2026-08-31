@@ -50,6 +50,7 @@ import {
   type Direction,
 } from "./direction-rules.js";
 import { motionAnchor } from "./anchors.js";
+import { normalizeCouncillorName } from "../../lib/councillors/normalize.js";
 
 const CUTOFF_DATE = "2023-01-01";
 const REPO_ROOT = path.join(process.cwd());
@@ -861,11 +862,29 @@ function movedTowardText(
   return vote === "yea" ? ownLabel : `opposed a measure that would have ${ownLabel}`;
 }
 
+/** Fixed 2026-08-31 (round-4 gate item 4): whether a yea/nay vote counted
+ * toward the axis's "for" (expansive/permissive) or "against" (restrictive)
+ * tally — the same test buildPattern/forCount already apply, exposed here
+ * per-row so the amendment-ladder consistency check below can compare one
+ * councillor's votes WITHIN a decision group without re-deriving it. Null
+ * for anything that isn't a yea/nay vote on a direction-bearing motion. */
+function axisDirectionOf(
+  theirVote: VoteKind | "n/a",
+  d: Direction | null,
+): "for" | "against" | null {
+  if (!d || (theirVote !== "yea" && theirVote !== "nay")) return null;
+  const votedExpansiveSide =
+    (d.valence === 1 && theirVote === "yea") ||
+    (d.valence === -1 && theirVote === "nay");
+  return votedExpansiveSide ? "for" : "against";
+}
+
 function evidenceEntry(c: ClassifiedMotion, theirVote: VoteKind | "n/a") {
   const m = c.motion;
   const d = c.direction.axis !== null ? (c.direction as Direction) : null;
   return {
     motionId: m.id,
+    axisDirection: axisDirectionOf(theirVote, d),
     date: m.date,
     meetingSlug: m.meetingSlug,
     meetingTitle: m.meetingTitle,
@@ -1168,8 +1187,8 @@ function normalizeItemTitle(title: string): string {
  * prefix differs in wording (see normalizeItemTitle) — matching on the case
  * number itself is a stronger, wording-independent signal that two rows are
  * the same underlying decision. Deliberately still combined with the same
- * time window as normalizeItemTitle in countDistinctDecisions (not used
- * alone, unbounded) because case numbers are reused across budget years. */
+ * time window as normalizeItemTitle in groupIntoDecisions (not used alone,
+ * unbounded) because case numbers are reused across budget years. */
 function extractBusinessCaseKey(title: string): string | null {
   const m = title.match(/\b(?:business|budget)\s+case\s*#?\s*(p-[\d/]+)/i);
   return m ? m[1].toLowerCase().replace(/\s+/g, "") : null;
@@ -1202,11 +1221,18 @@ function extractBusinessCaseKey(title: string): string | null {
  * merge two rows — still date-windowed, since case numbers repeat year over
  * year and a bare number match across budget cycles would wrongly merge two
  * genuinely different decisions. */
-function countDistinctDecisions(
-  rows: { itemTitle: string; date: string }[],
-): number {
+/** The union-find grouping itself, factored out of countDistinctDecisions
+ * (round-4 gate item 4) so both the distinct-decision COUNT and the
+ * amendment-ladder consistency check below can share one definition of
+ * "same decision" — a same-day (within 60 days), same-subject group of
+ * rows never disagrees between the two checks by construction. Returns
+ * arrays of original-array INDICES, one array per decision group
+ * (including singleton groups for a row with no same-decision sibling). */
+function groupIntoDecisions<T extends { itemTitle: string; date: string }>(
+  rows: T[],
+): number[][] {
   const n = rows.length;
-  if (n === 0) return 0;
+  if (n === 0) return [];
   const parent = Array.from({ length: n }, (_, i) => i);
   function find(x: number): number {
     while (parent[x] !== x) {
@@ -1234,36 +1260,88 @@ function countDistinctDecisions(
       union(i, j);
     }
   }
-  const roots = new Set<number>();
-  for (let i = 0; i < n; i++) roots.add(find(i));
-  return roots.size;
+  const groups = new Map<number, number[]>();
+  for (let i = 0; i < n; i++) {
+    const r = find(i);
+    let g = groups.get(r);
+    if (!g) {
+      g = [];
+      groups.set(r, g);
+    }
+    g.push(i);
+  }
+  return [...groups.values()];
 }
 
-/** Every councillor who appears in ANY vote-kind bucket on ANY motion at a
- * given meeting (built from the FULL raw motion set, not just the divided/
- * classified subset — attendance at a meeting is established by any
- * recorded vote there, including unanimous ones). Used to tell a genuine
- * committee non-membership apart from a per-motion scraper gap (see P3
- * comment in writeStancesFile below). */
-function buildMeetingAttendance(
-  motions: RawMotion[],
-  lookup: Map<string, CouncillorMeta>,
-): Map<string, Set<string>> {
-  const attendance = new Map<string, Set<string>>();
-  for (const m of motions) {
-    let set = attendance.get(m.meetingSlug);
-    if (!set) {
-      set = new Set();
-      attendance.set(m.meetingSlug, set);
+
+/** Raw meeting-record roster, keyed by canonical councillor name (the
+ * registry key form, e.g. "S. Franke" — the same form
+ * normalizeCouncillorName() resolves present/remote_attendance/absent/
+ * also_present entries to, so it can be compared directly against
+ * CouncillorMeta.canonicalName). */
+interface MeetingRoster {
+  /** Present, remote_attendance, OR absent — a councillor in ANY of these
+   * fields was a MEMBER of that committee that day (this is the actual
+   * membership roster the meeting recorded; also_present is non-member
+   * observers, not members). */
+  members: Set<string>;
+  /** Subset of members who were specifically in the meeting's own `absent`
+   * field — a member who missed the whole meeting, not a data gap. */
+  absentMembers: Set<string>;
+}
+
+const meetingRosterCache = new Map<string, MeetingRoster | null>();
+
+/** Fixed 2026-08-31 (round-4 gate BLOCKER item 1): buildMeetingAttendance
+ * above (removed) inferred committee membership from per-motion vote-kind
+ * buckets — a councillor with no recorded vote ANYWHERE at a meeting read
+ * as "not a member", even when the raw meeting JSON's own roster fields
+ * (present / remote_attendance / absent) named them as a member who simply
+ * has no captured vote on that one motion, or was absent that whole
+ * meeting. Confirmed false on 49 of 662 "not a member of that committee"
+ * claims (e.g. 2025-12-02 PEC: E. Peloza in remote_attendance; 2023-11-13
+ * PEC: J. Morgan in absent) — spot-checked against the actual scraped
+ * meeting file, not the vote buckets. This reads the roster fields
+ * directly from the raw meeting JSON (data/<meetingSlug minus "months/">
+ * .json — same file the scraper itself produced) instead. also_present is
+ * deliberately excluded from `members`: those are named staff/guests/other
+ * councillors sitting in on a committee they don't belong to, and folding
+ * them in would recreate a milder version of the same false-membership
+ * defect in the other direction. */
+function loadMeetingRoster(meetingSlug: string): MeetingRoster | null {
+  if (meetingRosterCache.has(meetingSlug)) {
+    return meetingRosterCache.get(meetingSlug)!;
+  }
+  const filePath = path.join(
+    REPO_ROOT,
+    "data",
+    meetingSlug.slice("months/".length) + ".json",
+  );
+  let roster: MeetingRoster | null = null;
+  try {
+    const raw = JSON.parse(fs.readFileSync(filePath, "utf-8"));
+    const members = new Set<string>();
+    const absentMembers = new Set<string>();
+    for (const name of [
+      ...(raw.present ?? []),
+      ...(raw.remote_attendance ?? []),
+    ]) {
+      const canonical = normalizeCouncillorName(name);
+      if (canonical) members.add(canonical);
     }
-    for (const bucket of [m.yeas, m.nays, m.recuse, m.absent, m.abstain, m.other]) {
-      for (const name of bucket) {
-        const meta = lookup.get(name);
-        if (meta) set.add(meta.slug);
+    for (const name of raw.absent ?? []) {
+      const canonical = normalizeCouncillorName(name);
+      if (canonical) {
+        members.add(canonical);
+        absentMembers.add(canonical);
       }
     }
+    roster = { members, absentMembers };
+  } catch {
+    roster = null; // file missing/unparseable — caller falls back honestly
   }
-  return attendance;
+  meetingRosterCache.set(meetingSlug, roster);
+  return roster;
 }
 
 function writeStancesFile(
@@ -1273,10 +1351,6 @@ function writeStancesFile(
   resultMismatches: RawMotion[],
 ) {
   const currentCouncillors = [...lookup.values()].filter((c) => c.isCurrent);
-  const meetingAttendance = buildMeetingAttendance(
-    allMotionsRaw.motions,
-    lookup,
-  );
 
   // Fixed 2026-08-31 (hub-recheck round-3 gate BLOCKER, P2): whether an axis
   // ever has an expansive-polarity and/or restrictive-polarity motion at
@@ -1351,13 +1425,34 @@ function writeStancesFile(
       // demonstrably on that committee's roster (voted on something else at
       // the SAME meeting). Confirmed false on Josh Morgan's page: he appears
       // in a vote-kind bucket on other PEC motions at meetings where he was
-      // also reported "not a member" of PEC. notOnRosterCommittee now only
-      // counts a motion where the councillor appears NOWHERE in that
-      // meeting's roster at all (real evidence of non-membership);
-      // notOnRosterCommitteeMeetingGap counts a motion where they DID vote
-      // on something else at that same meeting, so this specific motion's
-      // gap is a scraper/data gap for that one item, not non-membership.
+      // also reported "not a member" of PEC.
+      //
+      // Fixed 2026-08-31 (round-4 gate BLOCKER item 1): the P3 fix above
+      // still only checked whether the councillor had a vote recorded on
+      // SOME OTHER motion at the same meeting — a per-motion-vote-bucket
+      // proxy for membership, not membership itself. That proxy is still
+      // wrong whenever a genuine committee member simply cast no recorded
+      // vote at all that meeting: it wrongly asserted "not a member" for 49
+      // of the 662 cases (e.g. a member in remote_attendance who happened
+      // to have no OTHER motion at that meeting either, or a member the
+      // meeting's own `absent` field names as absent for the whole thing).
+      // Membership is now read directly from the raw meeting record's own
+      // roster fields (present / remote_attendance / absent — see
+      // loadMeetingRoster) rather than inferred from vote buckets:
+      //   - notOnRosterCommittee: councillor appears in NONE of that
+      //     meeting's roster fields at all (present, remote_attendance,
+      //     absent, or also_present) — real evidence of non-membership.
+      //   - memberAbsentCommittee: the meeting's own `absent` field names
+      //     them — a committee member, recorded absent for the whole
+      //     meeting, so no individual vote exists on ANY of that meeting's
+      //     motions (honest: "member, but absent that day", never "not a
+      //     member").
+      //   - notOnRosterCommitteeMeetingGap: they're in present or
+      //     remote_attendance (a member who attended) but this specific
+      //     motion's individual position wasn't captured — a genuine data
+      //     gap for this one motion, not evidence of non-membership.
       let notOnRosterCommittee = 0;
+      let memberAbsentCommittee = 0;
       let notOnRosterCommitteeMeetingGap = 0;
       let notOnRosterCouncilGap = 0;
 
@@ -1367,12 +1462,15 @@ function writeStancesFile(
           // not on the roster for this motion — not applicable, not absent
           if (c.motion.meetingType === "Council") {
             notOnRosterCouncilGap++;
-          } else if (
-            meetingAttendance.get(c.motion.meetingSlug)?.has(councillor.slug)
-          ) {
-            notOnRosterCommitteeMeetingGap++;
           } else {
-            notOnRosterCommittee++;
+            const roster = loadMeetingRoster(c.motion.meetingSlug);
+            if (roster?.absentMembers.has(councillor.canonicalName)) {
+              memberAbsentCommittee++;
+            } else if (roster?.members.has(councillor.canonicalName)) {
+              notOnRosterCommitteeMeetingGap++;
+            } else {
+              notOnRosterCommittee++;
+            }
           }
           continue;
         }
@@ -1429,12 +1527,105 @@ function writeStancesFile(
           return bTotal - aTotal;
         })
         .map((agg) => {
-          const forCount = agg.yeaExpansive + agg.nayRestrictive;
-          const againstCount = agg.nayExpansive + agg.yeaRestrictive;
-          const sampleSize = forCount + againstCount;
           const sortedEvidence = agg.evidence.sort((a, b) =>
             a.date < b.date ? 1 : -1,
           );
+
+          // Fixed 2026-08-31 (round-4 gate item 4, amendment-ladder
+          // tallying): grouped same-day, same-subject motions (see
+          // groupIntoDecisions — the same union-find grouping
+          // distinctItemCount already uses) can carry a councillor's vote
+          // in BOTH directions on this axis — e.g. a nay on the weaker,
+          // conditional version of a restriction, then a yea on the
+          // unconditional version of the same restriction minutes later at
+          // the same meeting (5c6d802b2c95 nay / e3e298593604 yea,
+          // Stevenson, 2024-11-05). That isn't two real positions on the
+          // underlying question; it's one person picking between two
+          // wordings of the same decision. Rolling the nay into "for" and
+          // the yea into "against" would silently manufacture a split
+          // record out of what was actually consistent support for
+          // restricting. Any decision group where this councillor's yea/nay
+          // votes point in more than one direction on this axis has ALL of
+          // its votes excluded from the for/against tally (and from
+          // distinctItemCount) — listed separately below the table instead,
+          // never silently dropped.
+          const voteRows = sortedEvidence
+            .filter(
+              (e) =>
+                (e.theirVote === "yea" || e.theirVote === "nay") &&
+                e.axisDirection !== null,
+            )
+            .map((e) => ({ ...e, axisDirection: e.axisDirection as "for" | "against" }));
+          const groups = groupIntoDecisions(voteRows);
+          const ladderExcludedMotionIds = new Set<string>();
+          let consistentGroupCount = 0;
+          let ladderGroupIndex = 0;
+          const ladderExclusions: {
+            decisionGroupIndex: number;
+            motionId: string;
+            date: string;
+            meetingSlug: string;
+            itemTitle: string;
+            anchor: string | null;
+            anchorAmbiguous: boolean;
+            theirVote: string;
+            axisDirection: "for" | "against";
+          }[] = [];
+          for (const group of groups) {
+            const directions = new Set(
+              group.map((i) => voteRows[i].axisDirection),
+            );
+            if (directions.size > 1) {
+              for (const i of group) {
+                const row = voteRows[i];
+                ladderExcludedMotionIds.add(row.motionId);
+                ladderExclusions.push({
+                  decisionGroupIndex: ladderGroupIndex,
+                  motionId: row.motionId,
+                  date: row.date,
+                  meetingSlug: row.meetingSlug,
+                  itemTitle: row.itemTitle,
+                  anchor: row.anchor,
+                  anchorAmbiguous: row.anchorAmbiguous,
+                  theirVote: row.theirVote,
+                  axisDirection: row.axisDirection,
+                });
+              }
+              ladderGroupIndex++;
+            } else {
+              consistentGroupCount++;
+            }
+          }
+          ladderExclusions.sort((a, b) => (a.date < b.date ? 1 : -1));
+
+          // Ladder-adjusted per-bucket counts, recomputed from theirVote +
+          // axisDirection (excluded rows omitted) rather than trusted from
+          // agg.yeaExpansive/etc., which were tallied inline before this
+          // exclusion existed and would otherwise still count Stevenson's
+          // two 5c6d802b2c95/e3e298593604 rows in both buildPattern's
+          // sentence AND this axis's for/against — the whole point of the
+          // exclusion is that neither should happen.
+          let forCount = 0;
+          let againstCount = 0;
+          const adjusted = {
+            yeaExpansive: 0,
+            nayExpansive: 0,
+            yeaRestrictive: 0,
+            nayRestrictive: 0,
+          };
+          for (const row of voteRows) {
+            if (ladderExcludedMotionIds.has(row.motionId)) continue;
+            if (row.axisDirection === "for") forCount++;
+            else againstCount++;
+            if (row.theirVote === "yea" && row.axisDirection === "for")
+              adjusted.yeaExpansive++;
+            else if (row.theirVote === "nay" && row.axisDirection === "against")
+              adjusted.nayExpansive++;
+            else if (row.theirVote === "yea" && row.axisDirection === "against")
+              adjusted.yeaRestrictive++;
+            else adjusted.nayRestrictive++;
+          }
+          const sampleSize = forCount + againstCount;
           // Counted from yea/nay evidence ONLY (finding fixed 2026-08-31
           // alongside blocker 5): an absence or recusal isn't a "distinct
           // decision" this councillor weighed in on, so it shouldn't be
@@ -1445,25 +1636,44 @@ function writeStancesFile(
           // "n=4" pattern sentence alive that the floor was supposed to
           // suppress). Further collapsed to DECISION level (round-2 finding
           // B3, 2026-08-31, strengthened again 2026-08-31 round 3): see
-          // countDistinctDecisions — a committee-stage and council-stage
+          // groupIntoDecisions — a committee-stage and council-stage
           // vote on the same policy decision (same normalized item title OR
           // the same business-case number, within 60 days) now count as ONE
           // decision, not two, so the floor can no longer be cleared by a
           // single decision that happened to generate two recorded stages
           // under differently-worded titles.
-          const distinctItemCount = countDistinctDecisions(
-            sortedEvidence.filter(
-              (e) => e.theirVote === "yea" || e.theirVote === "nay",
-            ),
-          );
+          //
+          // Fixed 2026-08-31 (round-4 gate item 4): a decision group whose
+          // votes were excluded above for pointing in opposite directions
+          // contributes NOTHING to the pattern floor either — those rows
+          // aren't a real, single-direction decision this councillor's
+          // count of "distinct decisions" should include.
+          const distinctItemCount = consistentGroupCount;
           const presence = axisPolarityPresence.get(
             `${issueId}::${agg.axis}`,
           ) ?? { expansive: true, restrictive: true };
+          // Fixed 2026-08-31 (round-4 gate item 6, render minor): the
+          // details-summary below used to count "distinct agenda items" by
+          // literal (meetingSlug, itemNumber) pairs — a DIFFERENT grouping
+          // than distinctItemCount's decision-level union-find (same-day,
+          // same-title-or-business-case-number rows merged). On j-morgan's
+          // Policing axis those two counts disagreed right next to each
+          // other on the page (prose: "4 distinct decisions"; details
+          // summary: "5 distinct agenda items") even though every row was a
+          // real yea/nay vote — not a mismatch in WHAT was counted, just
+          // two different definitions of "distinct" printed side by side
+          // with no explanation. Both now use the same decision grouping
+          // (applied here to the FULL evidence array, including any
+          // recusal/absence rows, so it still covers every row shown in the
+          // table below, not just the yea/nay subset distinctItemCount
+          // itself is restricted to).
+          const evidenceDecisionCount = groupIntoDecisions(sortedEvidence).length;
           return {
             axis: agg.axis,
             axisLabels: agg.axisLabels,
             sampleSize,
             distinctItemCount,
+            evidenceDecisionCount,
             for: forCount,
             against: againstCount,
             forPct: pct(forCount, sampleSize),
@@ -1472,11 +1682,12 @@ function writeStancesFile(
             abstain: agg.abstain,
             other: agg.other,
             pattern: buildPattern(
-              agg,
+              { ...adjusted, recused: agg.recused, absent: agg.absent, axisLabels: agg.axisLabels },
               distinctItemCount,
               presence.expansive,
               presence.restrictive,
             ),
+            ladderExclusions,
             evidence: sortedEvidence,
           };
         });
@@ -1490,6 +1701,16 @@ function writeStancesFile(
           absent: acc.absent + a.absent,
           abstain: acc.abstain + a.abstain,
           other: acc.other + a.other,
+          // Round-4 gate item 4: a real, on-roster yea/nay vote excluded
+          // from sampleSize/for/against for pointing in a different
+          // direction than a same-decision sibling vote (see
+          // ladderExclusions on each axis) is still a vote this councillor
+          // actually cast — it must be counted somewhere in the "on
+          // roster" total below, or the page's own arithmetic invariant
+          // (divisionsInCorpus === overall.for + against + recused +
+          // absent + abstain + other + notOnRoster) breaks the moment any
+          // axis has an exclusion.
+          ladderExcluded: acc.ladderExcluded + a.ladderExclusions.length,
         }),
         {
           sampleSize: 0,
@@ -1499,11 +1720,13 @@ function writeStancesFile(
           absent: 0,
           abstain: 0,
           other: 0,
+          ladderExcluded: 0,
         },
       );
 
       const notOnRoster =
         notOnRosterCommittee +
+        memberAbsentCommittee +
         notOnRosterCommitteeMeetingGap +
         notOnRosterCouncilGap;
 
@@ -1515,13 +1738,19 @@ function writeStancesFile(
         // clear direction. Kept as its own field, always paired with
         // notOnRoster in the rendered summary, so the arithmetic on the
         // page actually closes: directionBearing.length === overall.for +
-        // overall.against + recused + absent + abstain + other + notOnRoster.
+        // overall.against + recused + absent + abstain + other +
+        // overall.ladderExcluded + notOnRoster (see overall.ladderExcluded
+        // above, added round-4 gate item 4).
         divisionsInCorpus: directionBearing.length,
         notOnRoster,
         // Split for honest wording (see the comments above the counters
-        // above): committee non-membership vs. a same-meeting committee data
-        // gap vs. a Council-meeting data gap.
+        // above): committee non-membership vs. a member absent that whole
+        // meeting vs. a same-meeting committee data gap vs. a Council-meeting
+        // data gap — all four now derived from the raw meeting record's own
+        // roster fields, not from per-motion vote buckets (round-4 gate
+        // BLOCKER item 1).
         notOnRosterCommittee,
+        memberAbsentCommittee,
         notOnRosterCommitteeMeetingGap,
         notOnRosterCouncilGap,
         overall,
@@ -1558,7 +1787,7 @@ function writeStancesFile(
     sourceGeneratedAt: allMotionsRaw.generatedAt,
     cutoffDate: CUTOFF_DATE,
     methodology:
-      "Per councillor per issue per axis: 'for' = their vote aligned with the axis's expansive/permissive outcome, 'against' = aligned with its restrictive outcome — but the rendered pattern sentence never collapses a nay into the language of an enacted action (see movedTowardText/buildPattern in generate-stances.ts): a nay on an expansive motion is described as opposing that motion, never as having performed the restrictive act, and vice versa. When an axis's WHOLE corpus since 2023 only ever contains motions of one polarity, the pattern sentence says so plainly instead of reporting a silent '0' on the missing side. Axis and polarity for every motion come from data/election/classify/batch-*-verified.json (a per-motion classification independently verified against each motion's own complete text in the source meeting record), with a small, published corrections layer (data/election/classify/corrections.json) applied on top for specific defects found after verification — never a silent edit to the verified batches. This is a genuine translation of what the clause did, not raw yea/nay, on every axis including the generic 'approved/denied the item' fallback used when no issue-specific content axis applies. Recusals and absences are counted separately, never folded into 'against' and never inferred as a position. Below 5 DISTINCT DECISIONS on an axis (committee and council votes on the same policy decision, identified by matching agenda-item title or business-case number within 60 days, count as one decision — not one per meeting stage), no pattern sentence is asserted; the individual votes are still shown. Motions the classify pipeline confirmed but left with no clear direction (a referral, an informational ask, or a corrections.json downgrade) are listed per issue as 'unclear' evidence — never counted in any pattern or sample size, but not hidden either. A councillor with no entry for a motion was not on that meeting's roster — for a Council meeting (where all 15 members sit) it means the source data has a gap for that person on that motion; for a committee meeting it means either genuine non-membership (they don't appear anywhere in that meeting's roster) or, when they DO appear on another motion at that same meeting, a data gap for this one motion only (see notOnRosterCommittee vs. notOnRosterCommitteeMeetingGap vs. notOnRosterCouncilGap on each issue). Motions whose own minuted result disagrees with its parsed vote arrays, or that the classify pipeline flagged not a genuine division, are excluded entirely before any of this — see result-mismatches.json, not-divided.json, and each councillor's resultMismatchesExcluding count.",
+      "Per councillor per issue per axis: 'for' = their vote aligned with the axis's expansive/permissive outcome, 'against' = aligned with its restrictive outcome — but the rendered pattern sentence never collapses a nay into the language of an enacted action (see movedTowardText/buildPattern in generate-stances.ts): a nay on an expansive motion is described as opposing that motion, never as having performed the restrictive act, and vice versa. When an axis's WHOLE corpus since 2023 only ever contains motions of one polarity, the pattern sentence says so plainly instead of reporting a silent '0' on the missing side. Axis and polarity for every motion come from data/election/classify/batch-*-verified.json (a per-motion classification independently verified against each motion's own complete text in the source meeting record), with a small, published corrections layer (data/election/classify/corrections.json) applied on top for specific defects found after verification — never a silent edit to the verified batches. This is a genuine translation of what the clause did, not raw yea/nay, on every axis including the generic 'approved/denied the item' fallback used when no issue-specific content axis applies. Recusals and absences are counted separately, never folded into 'against' and never inferred as a position. Below 5 DISTINCT DECISIONS on an axis (committee and council votes on the same policy decision, identified by matching agenda-item title or business-case number within 60 days, count as one decision — not one per meeting stage), no pattern sentence is asserted; the individual votes are still shown. Motions the classify pipeline confirmed but left with no clear direction (a referral, an informational ask, or a corrections.json downgrade) are listed per issue as 'unclear' evidence — never counted in any pattern or sample size, but not hidden either. A councillor with no entry for a motion was not on that meeting's roster — for a Council meeting (where all 15 members sit) it means the source data has a gap for that person on that motion; for a committee meeting, membership is read from the raw meeting record's own roster fields (present / remote_attendance / absent — never from per-motion vote buckets), and means one of: genuine non-membership (they appear in none of that meeting's roster fields), a member the meeting's own `absent` field names as absent for the whole meeting (no vote possible on anything that day), or a member who attended (present/remote_attendance) but this one motion's individual position wasn't captured — a data gap for that motion only (see notOnRosterCommittee vs. memberAbsentCommittee vs. notOnRosterCommitteeMeetingGap vs. notOnRosterCouncilGap on each issue). Motions whose own minuted result disagrees with its parsed vote arrays, or that the classify pipeline flagged not a genuine division, are excluded entirely before any of this — see result-mismatches.json, not-divided.json, and each councillor's resultMismatchesExcluding count.",
     councillors: councillorsOut,
   };
 
