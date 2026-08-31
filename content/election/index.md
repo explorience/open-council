@@ -61,4 +61,4 @@ Only sitting councillors appear here, because only sitting councillors have a co
 
 ---
 
-*Methodology: a "divided" vote is any non-unanimous, non-procedural council or committee motion since 2023-01-01. Issue and direction ("what a yea did") are read from each motion's own complete text — not just the agenda item's title — and independently verified motion by motion, not assumed from topic. See the [issues page](/election/issues) for the exact counts and the unclassified/unclear disclosure.*
+Methodology: a "divided" vote is any non-unanimous, non-procedural council or committee motion since 2023-01-01. Issue and direction ("what a yea did") are read from each motion's own complete text — not just the agenda item's title — and independently verified motion by motion, not assumed from topic. See the [issues page](/election/issues) for the exact counts and the unclassified/unclear disclosure.
