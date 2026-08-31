@@ -23,10 +23,10 @@
  */
 
 export interface IssueRule {
-  id: string
-  label: string
+  id: string;
+  label: string;
   /** lowercase substrings; a match counts once per distinct phrase */
-  include: string[]
+  include: string[];
 }
 
 export const ISSUE_ORDER = [
@@ -38,9 +38,9 @@ export const ISSUE_ORDER = [
   "budget",
   "climate",
   "housing",
-] as const
+] as const;
 
-export type IssueId = (typeof ISSUE_ORDER)[number]
+export type IssueId = (typeof ISSUE_ORDER)[number];
 
 /** Motions matching any of these phrases are never classified, regardless
  * of issue keyword hits — they're about how council governs itself, not a
@@ -54,7 +54,16 @@ export const GLOBAL_EXCLUDE: string[] = [
   "integrity commissioner",
   "council remuneration",
   "conflict of interest",
-]
+  // A vote to appoint a person to a board or committee (or to confirm that
+  // appointment) is a personnel decision, not a policy position on
+  // whatever that board oversees — spot-check (2026-08-31) found "Policing"
+  // votes inflated by "Consideration of Appointment to the London Police
+  // Services Board" motions, which decide WHO sits on the board, not any
+  // policing question. Excludes both the secret-ballot round itself
+  // (separately dropped in generate-stances.ts via the "Majority Winner"
+  // result string) and any regular confirming motion on the same item.
+  "consideration of appointment to",
+];
 
 /** Item-number "codes" (address-only titles) that are strong structural
  * evidence of a planning/rezoning application, independent of keyword text.
@@ -68,7 +77,7 @@ export const CODE_PATTERNS: Record<IssueId, RegExp[]> = {
   transit: [],
   budget: [],
   climate: [],
-}
+};
 
 export const ISSUES: Record<IssueId, IssueRule> = {
   encampments: {
@@ -122,7 +131,13 @@ export const ISSUES: Record<IssueId, IssueRule> = {
   downtown: {
     id: "downtown",
     label: "Downtown & Core",
-    include: ["downtown", "core area", "dundas place", "downtown plan", "core-area"],
+    include: [
+      "downtown",
+      "core area",
+      "dundas place",
+      "downtown plan",
+      "core-area",
+    ],
   },
   transit: {
     id: "transit",
@@ -222,10 +237,10 @@ export const ISSUES: Record<IssueId, IssueRule> = {
       "housing supply",
     ],
   },
-}
+};
 
 function escapeRegExp(s: string): string {
-  return s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")
+  return s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 }
 
 // A plain substring test ("transit" ⊂ "Transition", "climate" ⊂
@@ -234,53 +249,76 @@ function escapeRegExp(s: string): string {
 // "transit" purely because its item title contains "Transition into
 // Practice"). Every keyword is matched with word boundaries instead —
 // still a plain-text rule a human can read, just anchored to whole words.
-const keywordRegexCache = new Map<string, RegExp>()
+const keywordRegexCache = new Map<string, RegExp>();
 function keywordMatches(keyword: string, text: string): boolean {
-  let re = keywordRegexCache.get(keyword)
+  let re = keywordRegexCache.get(keyword);
   if (!re) {
     // Keywords may themselves start/end with a padding space (e.g. " ghg ")
     // as a hand-rolled word-boundary hack from before this function existed;
     // trim that and let \b do the real work.
-    re = new RegExp(`\\b${escapeRegExp(keyword.trim())}\\b`, "i")
-    keywordRegexCache.set(keyword, re)
+    re = new RegExp(`\\b${escapeRegExp(keyword.trim())}\\b`, "i");
+    keywordRegexCache.set(keyword, re);
   }
-  return re.test(text)
+  return re.test(text);
 }
 
 /**
  * Classify a motion (itemTitle + motionText) into at most one issue.
  * Returns null (unclassified) when nothing matches — never force-fit.
+ *
+ * A keyword hit in the agenda item's TITLE ALONE, with no support anywhere
+ * in the motion's own text, is not enough to attach a motion to an issue —
+ * spot-check (2026-08-31) found a BIA business-grant motion classified
+ * under Homelessness & Encampments purely because it sat under an item
+ * titled "...Health and Homelessness Whole of Community System Response",
+ * even though the motion itself was about a grant to a business
+ * improvement association and never mentioned homelessness. Every
+ * classification below therefore requires either a keyword hit in the
+ * motion's own body text, or a structural code-pattern hit (itemTitle
+ * only, e.g. a Z-#### rezoning code — those are a distinct, reliable
+ * signal by design, not a topic keyword).
  */
 export function classifyIssue(
   itemTitle: string,
-  motionText: string
+  motionText: string,
 ): { issue: IssueId; matchedKeywords: string[]; score: number } | null {
-  const text = `${itemTitle} ${motionText}`.toLowerCase()
+  const titleLower = itemTitle.toLowerCase();
+  const bodyLower = motionText.toLowerCase();
+  const combined = `${titleLower} ${bodyLower}`;
 
-  if (GLOBAL_EXCLUDE.some((ex) => text.includes(ex))) return null
+  if (GLOBAL_EXCLUDE.some((ex) => combined.includes(ex))) return null;
 
-  const scores: Partial<Record<IssueId, string[]>> = {}
+  const scores: Partial<Record<IssueId, string[]>> = {};
 
   for (const issueId of ISSUE_ORDER) {
-    const rule = ISSUES[issueId]
-    const hits = rule.include.filter((kw) => keywordMatches(kw, text))
-    const codeHits = CODE_PATTERNS[issueId].filter((re) => re.test(itemTitle))
-    const matched = [...new Set(hits)]
-    if (codeHits.length > 0) matched.push("planning-application-code")
-    if (matched.length > 0) scores[issueId] = matched
+    const rule = ISSUES[issueId];
+    const bodyHits = rule.include.filter((kw) => keywordMatches(kw, bodyLower));
+    const codeHits = CODE_PATTERNS[issueId].filter((re) => re.test(itemTitle));
+    // A title-only hit (no support in the motion's own body, no structural
+    // code) does not carry a classification on its own — but if the body
+    // (or a code pattern) already supports this issue, count the title hit
+    // too, for a fuller matchedKeywords list.
+    if (bodyHits.length === 0 && codeHits.length === 0) continue;
+    const titleHits = rule.include.filter((kw) =>
+      keywordMatches(kw, titleLower),
+    );
+    const matched = [...new Set([...bodyHits, ...titleHits])];
+    if (codeHits.length > 0) matched.push("planning-application-code");
+    scores[issueId] = matched;
   }
 
-  const entries = Object.entries(scores) as [IssueId, string[]][]
-  if (entries.length === 0) return null
+  const entries = Object.entries(scores) as [IssueId, string[]][];
+  if (entries.length === 0) return null;
 
-  const maxScore = Math.max(...entries.map(([, m]) => m.length))
-  const candidates = entries.filter(([, m]) => m.length === maxScore)
+  const maxScore = Math.max(...entries.map(([, m]) => m.length));
+  const candidates = entries.filter(([, m]) => m.length === maxScore);
 
   // Tie-break by ISSUE_ORDER (more specific issues first)
   for (const issueId of ISSUE_ORDER) {
-    const found = candidates.find(([id]) => id === issueId)
-    if (found) return { issue: issueId, matchedKeywords: found[1], score: maxScore }
+    const found = candidates.find(([id]) => id === issueId);
+    if (found)
+      return { issue: issueId, matchedKeywords: found[1], score: maxScore };
   }
 
-  return null
+  return null;
 }

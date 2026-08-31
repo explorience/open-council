@@ -68,6 +68,7 @@ interface IssueEntry {
   label: string;
   dividedVoteCount: number;
   directionBearingVoteCount: number;
+  distinctAgendaItemCount: number;
   votes: IssueVote[];
 }
 
@@ -82,6 +83,7 @@ interface IssuesFile {
   generatedAt: string;
   cutoffDate: string;
   methodology: string;
+  truncatedExcludedCount: number;
   unclassified: { count: number; note: string; sample: UnclassifiedSample[] };
   issues: Record<string, IssueEntry>;
 }
@@ -95,16 +97,20 @@ interface EvidenceRow {
   meetingUrl: string;
   itemNumber: string;
   itemTitle: string;
+  motionSnippet: string;
   anchor: string | null;
   result: string;
   tally: string;
   theirVote: string;
+  whatAYeaDid: string;
+  movedToward: string | null;
 }
 
 interface AxisStance {
   axis: string;
   axisLabels: { expansive: string; restrictive: string };
   sampleSize: number;
+  distinctItemCount: number;
   for: number;
   against: number;
   forPct: string;
@@ -119,6 +125,7 @@ interface AxisStance {
 interface IssueStance {
   issueLabel: string;
   divisionsInCorpus: number;
+  notOnRoster: number;
   overall: {
     sampleSize: number;
     for: number;
@@ -262,13 +269,15 @@ Zoning and the budget, yes. Policing and healthcare, mostly not. [Read the plain
 
 ## Divided votes by issue
 
-These are the issues where council has actually split since 2023 — where a vote wasn't unanimous, and wasn't purely procedural. ${issues.unclassified.count.toLocaleString()} additional divided motions since 2023 didn't clearly match any of these issue clusters and aren't force-fit into one; they're listed on each issue's page and in the underlying data for transparency.
+These are the issues where council has actually split since 2023 — where a vote wasn't unanimous, and wasn't purely procedural. ${issues.unclassified.count.toLocaleString()} additional divided motions since 2023 matched none of these issue clusters and are not force-fit into one; all of them are listed on the [issues page](/election/issues).
 
 ${issueRows}
 
 ## Councillor stance profiles
 
 Full voting pattern per councillor per issue, current council (15 members: the Mayor plus 14 ward councillors). Every pattern sentence links to its evidence.
+
+Only sitting councillors appear here, because only sitting councillors have a council voting record to summarize. Challengers are not covered, and their absence from these pages is not a judgement about them. For everyone actually on your ballot, see the City Clerk's certified list of candidates (linked on the [ward finder](/election/wards)).
 
 ${councillorRows}
 
@@ -301,20 +310,30 @@ function renderAxisSection(axis: AxisStance): string {
         ev.meetingSlug,
       );
       const theirVote = VOTE_LABEL[ev.theirVote] ?? ev.theirVote;
-      return `| ${ev.date} | ${itemLink} | ${theirVote} | ${tcell(ev.result)} |`;
+      const movedToward = ev.movedToward ?? "—";
+      return `| ${ev.date} | ${itemLink} | ${tcell(ev.motionSnippet)} | ${tcell(ev.whatAYeaDid)} | ${theirVote} | ${tcell(movedToward)} | ${tcell(ev.result)} |`;
     })
     .join("\n");
+
+  const itemsNote =
+    axis.distinctItemCount < axis.evidence.length
+      ? ` (${axis.evidence.length} votes across ${axis.distinctItemCount} distinct agenda item${axis.distinctItemCount === 1 ? "" : "s"} — some items had more than one recorded sub-motion)`
+      : "";
 
   return `#### ${axis.axisLabels.expansive} vs. ${axis.axisLabels.restrictive}
 
 ${axis.pattern}
 
 <details class="eh-evidence">
-<summary>Show all ${axis.evidence.length} vote${axis.evidence.length === 1 ? "" : "s"} behind this pattern</summary>
+<summary>Show all ${axis.evidence.length} vote${axis.evidence.length === 1 ? "" : "s"} behind this pattern${itemsNote}</summary>
 
-| Date | Item | Their vote | Result |
-|------|------|------------|--------|
+<div class="eh-table-scroll">
+
+| Date | Item | Motion (excerpt) | What a yea did | Their vote | Their vote moved toward | Result |
+|------|------|-------------------|-----------------|------------|--------------------------|--------|
 ${evidenceRows}
+
+</div>
 
 </details>
 `;
@@ -323,10 +342,16 @@ ${evidenceRows}
 function renderIssueSection(issueSlug: string, issue: IssueStance): string {
   const o = issue.overall;
   const axesMd = issue.axes.map(renderAxisSection).join("\n");
+  const onRoster = o.sampleSize + o.recused + o.absent + o.abstain + o.other;
+
+  const notOnRosterClause =
+    issue.notOnRoster > 0
+      ? ` The other ${issue.notOnRoster} were committee votes this councillor was not a member of.`
+      : "";
 
   return `### [${issue.issueLabel}](/election/issues/${issueSlug})
 
-*${issue.divisionsInCorpus} divided votes on this issue since 2023. This councillor had a recorded position (yea or nay) on ${o.sampleSize} of the direction-bearing ones — ${o.recused} recused, ${o.absent} absent.*
+*Of the ${issue.divisionsInCorpus} divided votes on this issue since 2023 that had a clear direction, this councillor was on the roster for ${onRoster}: ${o.sampleSize} yea or nay, ${o.recused} recused, ${o.absent} absent${o.abstain || o.other ? `, ${o.abstain} abstained, ${o.other} other` : ""}.${notOnRosterClause}*
 
 ${axesMd}`;
 }
@@ -349,7 +374,7 @@ function generateCouncillorPage(
 
   const noPatternNote =
     issueSlugs.length === 0
-      ? "\nNo issue reached the sample-size threshold for this councillor in the current data. This can happen for councillors who joined recently, or whose committee assignments didn't overlap with an issue's divided votes.\n"
+      ? "\nNo divided votes with a clear direction were recorded for this councillor on any tracked issue in the current data. This can happen for councillors who joined recently, or whose committee assignments didn't overlap with any issue's divided votes.\n"
       : "";
 
   return `---
@@ -371,7 +396,7 @@ ${sections}
 
 ---
 
-*Sample sizes above count only votes where ${c.displayName} cast a yea or nay that the direction-rules pipeline could classify as "for" or "against" the issue's axis. Recusals (declared a pecuniary interest — an ethical/legal requirement, not a choice) and absences are shown separately in each issue's summary line and are never counted as a position.*
+*Sample sizes above count only votes where ${c.displayName} cast a yea or nay that the direction-rules pipeline could classify as "for" or "against" the issue's axis. Recusals (declared a pecuniary interest — an ethical/legal requirement, not a choice) and absences are shown separately in each issue's summary line and are never counted as a position. Budget votes since 2024 are votes on amendments to the Mayor's tabled budget under Ontario's strong-mayor powers — see [What Council Actually Controls](/election/what-council-controls#who-tables-the-budget) for what that changes about what a budget vote means. Only sitting councillors get a stance profile on this hub; challengers don't yet have a council voting record to summarize.*
 `;
 }
 
@@ -388,8 +413,12 @@ function renderIssueVoteRow(v: IssueVote): string {
   const whatAYeaDid = v.direction.axis
     ? v.direction.label
     : "Not classified — the direction wasn't clear from the motion text (listed for transparency)";
-  const tallyStr = `${v.tally.yea}–${v.tally.nay}`;
-  return `| ${v.date} | ${itemLink} | ${tcell(whatAYeaDid)} | ${tallyStr} | ${tcell(v.result)} |`;
+  // No separate "Tally" column: it used to show the parsed yeas/nays count
+  // alongside the minuted Result string, and the two occasionally
+  // disagreed in plain sight (roster-parse noise vs. the authoritative
+  // minutes text) — e.g. "9–2" next to "Motion Passed (11 to 4)". The
+  // minuted Result is the one source of truth shown here.
+  return `| ${v.date} | ${itemLink} | ${tcell(whatAYeaDid)} | ${tcell(v.result)} |`;
 }
 
 function generateIssuePage(
@@ -417,9 +446,13 @@ ${issue.dividedVoteCount} divided (non-unanimous, non-procedural) council or com
 
 For how each current councillor voted on these, see their [stance profile](/election#councillor-stance-profiles).
 
-| Date | Item | What a yea did | Tally (Y–N) | Result |
-|------|------|-----------------|:-----------:|--------|
+<div class="eh-table-scroll">
+
+| Date | Item | What a yea did | Result |
+|------|------|-----------------|--------|
 ${rows}
+
+</div>
 
 ---
 
@@ -437,7 +470,6 @@ function generateIssuesIndexPage(issues: IssuesFile): string {
     .join("\n");
 
   const sampleRows = issues.unclassified.sample
-    .slice(0, 40)
     .map((s) => `- ${s.date} — ${tcell(s.itemTitle)} (item ${s.itemNumber})`)
     .join("\n");
 
@@ -454,17 +486,21 @@ prefillQuestions: []
 
 Council doesn't split on most of what it votes on — most motions pass unanimously. These are the issues where it has actually divided since ${issues.cutoffDate}.
 
+<div class="eh-table-scroll">
+
 | Issue | Divided votes | With a clear direction |
 |-------|:---:|:---:|
 ${rows}
 
+</div>
+
 ## Unclassified divided votes
 
-${issues.unclassified.count.toLocaleString()} additional divided motions since ${issues.cutoffDate} matched none of the issue clusters above (or matched an explicit governance/procedure exclusion) and are not force-fit into one. A sample of ${Math.min(40, issues.unclassified.sample.length)}:
+${issues.unclassified.count.toLocaleString()} additional divided motions since ${issues.cutoffDate} matched none of the issue clusters above (or matched an explicit governance/procedure exclusion) and are not force-fit into one. All ${issues.unclassified.sample.length.toLocaleString()} are listed below:
 
 ${sampleRows}
 
-*${tcell(issues.unclassified.note)}*
+*${tcell(issues.unclassified.note)} Separately (not counted above), ${issues.truncatedExcludedCount.toLocaleString()} motions that ARE classified into one of the issue clusters are marked "unclear" and excluded from the pattern counts on each issue's page, because their motion text hit a 500-character truncation cap in the source data — a clause past that cut-off could silently flip what the vote actually did.*
 `;
 }
 
@@ -496,6 +532,12 @@ Sources: [Ontario, Municipal Councillors' Guide, "Exercising municipal powers"](
 **Property tax and the budget.** Council sets London's property tax rates each year, approved each April, and has moved to approving a multi-year budget under authority the Municipal Act, 2001 gives municipalities to budget for periods of two to five years. This is the single largest lever council holds: it decides how much is raised and where it goes.
 
 Sources: [City of London, Property Taxes](https://london.ca/government/property-taxes-finance/property-taxes) · [City of London, Multi-Year Budget](https://london.ca/government/property-taxes-finance/municipal-budget/multi-year-budget)
+
+### Who tables the budget
+
+Since 2023, London has operated under Ontario's strong-mayor powers (extended to London under the Municipal Act, 2001 and its supporting regulations). Under that framework, the **Mayor**, not council as a whole, prepares and tables the annual or multi-year budget. Councillors vote on **amendments** to the Mayor's tabled budget, not on an independently council-drafted one, and the Mayor holds a veto over council-passed budget amendments and certain by-laws, which council can only override with a two-thirds vote. This hub's data reflects that structure directly: budget motions since the strong-mayor rules took effect are framed as amendments to "the Mayor's Tabled Budget," and a councillor's yea or nay on one of those amendments is a vote on a specific line change, not a vote on the budget as a whole. A nay on an amendment that would have added to the Mayor's tabled budget is not the same act as a nay on adopting a budget the councillor authored.
+
+Sources: [Ontario, Strong Mayors, Building Homes Act, 2022, S.O. 2022, c. 18 (CanLII)](https://www.canlii.org/en/on/laws/stat/so-2022-c-18/latest/so-2022-c-18.html) · [City of London, Multi-Year Budget](https://london.ca/government/property-taxes-finance/municipal-budget/multi-year-budget)
 
 **Local by-laws.** Council passes the by-laws that govern property standards, noise, parking, animal control and business licensing, using authority granted by the Municipal Act, 2001, the Building Code Act and the Planning Act.
 
@@ -593,9 +635,13 @@ ${wardsData.currentTermEndsNote}
 
 ## All 14 wards
 
+<div class="eh-table-scroll">
+
 | Ward | Current representative (2022–2026) | 2026 boundary | 2026 ballot note |
 |:---:|---|:---:|---|
 ${rows}
+
+</div>
 
 ${wardsData.unresolvedNote}
 
@@ -805,6 +851,8 @@ prefillQuestions: []
 # Councillor stance profiles
 
 The Mayor and all 14 current ward councillors, with their voting pattern on each divided issue since 2023. Descriptive record, not an endorsement — see each profile for the full disclaimer.
+
+Only sitting councillors appear here, because only sitting councillors have a council voting record to summarize. Challengers are not covered, and their absence from these pages is not a judgement about them. For everyone actually on your ballot, see the City Clerk's certified list of candidates (linked on the [ward finder](/election/wards)).
 
 ${rows}
 `;

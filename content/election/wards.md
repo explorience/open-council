@@ -24,13 +24,15 @@ The 2022-2026 council term (and its ward boundaries) remains legally in effect u
 
 ## All 14 wards
 
+<div class="eh-table-scroll">
+
 | Ward | Current representative (2022–2026) | 2026 boundary | 2026 ballot note |
 |:---:|---|:---:|---|
 | 1 | [Hadleigh McAlister](/election/councillors/h-mcalister) | Changed | — |
 | 2 | [Shawn Lewis](/election/councillors/s-lewis) | Same shape | — |
 | 3 | [Peter Cuddy](/election/councillors/p-cuddy) | Changed | — |
 | 4 | [Susan Stevenson](/election/councillors/s-stevenson) | Changed | Susan Stevenson is not seeking re-election to this seat — she is running for Mayor instead. No outgoing Ward 4 councillor appears on the 2026 Ward 4 ballot. |
-| 5 | [Jerry Pribil](/election/councillors/j-pribil) | Changed | Jerry Pribil is not seeking re-election (absent from the certified candidate list). Corrine Rahman, the outgoing Ward 7 councillor, has filed to run in this ward instead, under the new boundaries. |
+| 5 | [Jerry Pribil](/election/councillors/j-pribil) | Changed | Jerry Pribil does not appear on the 2026 certified list of candidates for any ward or for Mayor (list checked 2026-08-30). Corrine Rahman, the outgoing Ward 7 councillor, is listed as a candidate in this ward under the new boundaries. |
 | 6 | [Sam Trosow](/election/councillors/s-trosow) | Same shape | — |
 | 7 | [Corrine Rahman](/election/councillors/c-rahman) | Changed | Corrine Rahman, the outgoing Ward 7 councillor, has filed to run in the new Ward 5 instead of Ward 7. No outgoing Ward 7 councillor appears on the 2026 Ward 7 ballot. |
 | 8 | [Steve Lehman](/election/councillors/s-lehman) | Same shape | — |
@@ -39,7 +41,9 @@ The 2022-2026 council term (and its ward boundaries) remains legally in effect u
 | 11 | [Skylar Franke](/election/councillors/s-franke) | Same shape | — |
 | 12 | [Elizabeth Peloza](/election/councillors/e-peloza) | Changed | — |
 | 13 | [David Ferreira](/election/councillors/d-ferreira) | Same shape | — |
-| 14 | [Steve Hillier](/election/councillors/s-hillier) | Changed | Steve Hillier is not seeking re-election (absent from the certified candidate list). No outgoing Ward 14 councillor appears on the 2026 Ward 14 ballot. |
+| 14 | [Steve Hillier](/election/councillors/s-hillier) | Changed | Steve Hillier does not appear on the 2026 certified list of candidates for any ward or for Mayor (list checked 2026-08-30). No outgoing Ward 14 councillor appears on the 2026 Ward 14 ballot. |
+
+</div>
 
 For wards not flagged above, this data does not assert that the outgoing councillor is running again in 2026 — only that no change was found in this pass. Boundary shape changed for Wards 1, 3, 4, 5, 7, 12 and 14 even where the incumbent is unaffected, per the City's Ward Boundary Review. Always check the official certified candidate list linked above for who is actually on your ballot.
 
@@ -54,7 +58,7 @@ For the authoritative, official candidate list for every ward, see the City Cler
   var GEOCODE_URL = BASE + "/Locators/SearchKeyCompositeLocator/GeocodeServer/findAddressCandidates";
   var WARD_QUERY_URL = function (layer) { return BASE + "/OpenData/OpenData_Elections/MapServer/" + layer + "/query"; };
   var TIMEOUT_MS = 7000;
-  var REPS = {"1":{"slug":"h-mcalister","name":"Hadleigh McAlister","note2026":null},"2":{"slug":"s-lewis","name":"Shawn Lewis","note2026":null},"3":{"slug":"p-cuddy","name":"Peter Cuddy","note2026":null},"4":{"slug":"s-stevenson","name":"Susan Stevenson","note2026":"Susan Stevenson is not seeking re-election to this seat — she is running for Mayor instead. No outgoing Ward 4 councillor appears on the 2026 Ward 4 ballot."},"5":{"slug":"j-pribil","name":"Jerry Pribil","note2026":"Jerry Pribil is not seeking re-election (absent from the certified candidate list). Corrine Rahman, the outgoing Ward 7 councillor, has filed to run in this ward instead, under the new boundaries."},"6":{"slug":"s-trosow","name":"Sam Trosow","note2026":null},"7":{"slug":"c-rahman","name":"Corrine Rahman","note2026":"Corrine Rahman, the outgoing Ward 7 councillor, has filed to run in the new Ward 5 instead of Ward 7. No outgoing Ward 7 councillor appears on the 2026 Ward 7 ballot."},"8":{"slug":"s-lehman","name":"Steve Lehman","note2026":null},"9":{"slug":"a-hopkins","name":"Anna Hopkins","note2026":null},"10":{"slug":"p-van-meerbergen","name":"Paul Van Meerbergen","note2026":null},"11":{"slug":"s-franke","name":"Skylar Franke","note2026":null},"12":{"slug":"e-peloza","name":"Elizabeth Peloza","note2026":null},"13":{"slug":"d-ferreira","name":"David Ferreira","note2026":null},"14":{"slug":"s-hillier","name":"Steve Hillier","note2026":"Steve Hillier is not seeking re-election (absent from the certified candidate list). No outgoing Ward 14 councillor appears on the 2026 Ward 14 ballot."}};
+  var REPS = {"1":{"slug":"h-mcalister","name":"Hadleigh McAlister","note2026":null},"2":{"slug":"s-lewis","name":"Shawn Lewis","note2026":null},"3":{"slug":"p-cuddy","name":"Peter Cuddy","note2026":null},"4":{"slug":"s-stevenson","name":"Susan Stevenson","note2026":"Susan Stevenson is not seeking re-election to this seat — she is running for Mayor instead. No outgoing Ward 4 councillor appears on the 2026 Ward 4 ballot."},"5":{"slug":"j-pribil","name":"Jerry Pribil","note2026":"Jerry Pribil does not appear on the 2026 certified list of candidates for any ward or for Mayor (list checked 2026-08-30). Corrine Rahman, the outgoing Ward 7 councillor, is listed as a candidate in this ward under the new boundaries."},"6":{"slug":"s-trosow","name":"Sam Trosow","note2026":null},"7":{"slug":"c-rahman","name":"Corrine Rahman","note2026":"Corrine Rahman, the outgoing Ward 7 councillor, has filed to run in the new Ward 5 instead of Ward 7. No outgoing Ward 7 councillor appears on the 2026 Ward 7 ballot."},"8":{"slug":"s-lehman","name":"Steve Lehman","note2026":null},"9":{"slug":"a-hopkins","name":"Anna Hopkins","note2026":null},"10":{"slug":"p-van-meerbergen","name":"Paul Van Meerbergen","note2026":null},"11":{"slug":"s-franke","name":"Skylar Franke","note2026":null},"12":{"slug":"e-peloza","name":"Elizabeth Peloza","note2026":null},"13":{"slug":"d-ferreira","name":"David Ferreira","note2026":null},"14":{"slug":"s-hillier","name":"Steve Hillier","note2026":"Steve Hillier does not appear on the 2026 certified list of candidates for any ward or for Mayor (list checked 2026-08-30). No outgoing Ward 14 councillor appears on the 2026 Ward 14 ballot."}};
 
   function jsonp(url, params, onSuccess, onError) {
     var cbName = "eh_cb_" + Math.random().toString(36).slice(2);

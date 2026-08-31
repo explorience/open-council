@@ -221,14 +221,24 @@
   }
 
   // ---- Tables (issue lists, evidence, ward table) ----
-  table {
-    width: 100%;
-    border-collapse: collapse;
-    margin: 1rem 0 1.6rem 0;
-    font-size: 0.88rem;
-    display: block;
+  // `width: 100%` and `overflow-x: auto` used to sit on the same element:
+  // forcing the table to exactly the container width leaves overflow-x
+  // nothing to actually overflow, so the browser wraps cell text instead
+  // of scrolling — on the issue pages this stacked long "Item" / "What a
+  // yea did" cells 15-20 lines tall at both desktop and mobile widths.
+  // Fix: the table sizes to its content (min-width, not width: 100%) and
+  // the SCROLL CONTAINER around it is the thing that clips + scrolls.
+  .eh-table-scroll {
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
+    margin: 1rem 0 1.6rem 0;
+  }
+
+  table {
+    width: max-content;
+    min-width: 100%;
+    border-collapse: collapse;
+    font-size: 0.88rem;
 
     thead {
       display: table-header-group;

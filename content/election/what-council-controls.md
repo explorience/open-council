@@ -21,6 +21,12 @@ Sources: [Ontario, Municipal Councillors' Guide, "Exercising municipal powers"](
 
 Sources: [City of London, Property Taxes](https://london.ca/government/property-taxes-finance/property-taxes) · [City of London, Multi-Year Budget](https://london.ca/government/property-taxes-finance/municipal-budget/multi-year-budget)
 
+### Who tables the budget
+
+Since 2023, London has operated under Ontario's strong-mayor powers (extended to London under the Municipal Act, 2001 and its supporting regulations). Under that framework, the **Mayor**, not council as a whole, prepares and tables the annual or multi-year budget. Councillors vote on **amendments** to the Mayor's tabled budget, not on an independently council-drafted one, and the Mayor holds a veto over council-passed budget amendments and certain by-laws, which council can only override with a two-thirds vote. This hub's data reflects that structure directly: budget motions since the strong-mayor rules took effect are framed as amendments to "the Mayor's Tabled Budget," and a councillor's yea or nay on one of those amendments is a vote on a specific line change, not a vote on the budget as a whole. A nay on an amendment that would have added to the Mayor's tabled budget is not the same act as a nay on adopting a budget the councillor authored.
+
+Sources: [Ontario, Strong Mayors, Building Homes Act, 2022, S.O. 2022, c. 18 (CanLII)](https://www.canlii.org/en/on/laws/stat/so-2022-c-18/latest/so-2022-c-18.html) · [City of London, Multi-Year Budget](https://london.ca/government/property-taxes-finance/municipal-budget/multi-year-budget)
+
 **Local by-laws.** Council passes the by-laws that govern property standards, noise, parking, animal control and business licensing, using authority granted by the Municipal Act, 2001, the Building Code Act and the Planning Act.
 
 Source: [City of London, By-Laws](https://london.ca/by-laws)

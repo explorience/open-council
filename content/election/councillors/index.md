@@ -11,6 +11,8 @@ prefillQuestions: []
 
 The Mayor and all 14 current ward councillors, with their voting pattern on each divided issue since 2023. Descriptive record, not an endorsement — see each profile for the full disclaimer.
 
+Only sitting councillors appear here, because only sitting councillors have a council voting record to summarize. Challengers are not covered, and their absence from these pages is not a judgement about them. For everyone actually on your ballot, see the City Clerk's certified list of candidates (linked on the [ward finder](/election/wards)).
+
 - [Anna Hopkins](/election/councillors/a-hopkins) — Councillor
 - [Corrine Rahman](/election/councillors/c-rahman) — Councillor
 - [David Ferreira](/election/councillors/d-ferreira) — Councillor
