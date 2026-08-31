@@ -1,9 +1,27 @@
 {
-  "generatedAt": "2026-08-31T20:42:28.803Z",
+  "generatedAt": "2026-08-31T21:53:27.769Z",
   "note": "Cross-check report only — the regex engine in issue-rules.ts/direction-rules.ts is NOT the source of any published claim as of the 2026-08-31 rebuild; every published issue/axis/polarity/whatAYeaDid comes from data/election/classify/batch-*-verified.json. This file records every motion in the divided universe where the regex engine's independent read (issue classification and/or direction) disagrees with the verified classification, for ongoing regex-quality monitoring.",
   "totalCompared": 1163,
-  "disagreementCount": 487,
+  "disagreementCount": 483,
   "disagreements": [
+    {
+      "motionId": "b206f4de942a",
+      "date": "2026-07-21",
+      "meetingSlug": "months/2026-07/2026-07-21 12th Meeting of Council",
+      "itemNumber": "8.1.5",
+      "itemTitle": "(2.2) Canada Public Transit Fund - Baseline Funding – Contribution Agreement (Relates to Bill No.  268)",
+      "kind": "axis",
+      "regex": {
+        "issue": "transit",
+        "axis": "application-approval",
+        "valence": 1
+      },
+      "llm": {
+        "issue": "transit",
+        "axis": "transit-service",
+        "polarity": "expansive"
+      }
+    },
     {
       "motionId": "c7bf822cb0ae",
       "date": "2026-07-21",
@@ -110,6 +128,24 @@
         "issue": "encampments",
         "axis": null,
         "polarity": null
+      }
+    },
+    {
+      "motionId": "51e217481135",
+      "date": "2026-07-15",
+      "meetingSlug": "months/2026-07/2026-07-15 12th Meeting of the Infrastructure and Corporate Services Committee",
+      "itemNumber": "2.2",
+      "itemTitle": "Canada Public Transit Fund - Baseline Funding – Contribution Agreement",
+      "kind": "axis",
+      "regex": {
+        "issue": "transit",
+        "axis": "application-approval",
+        "valence": 1
+      },
+      "llm": {
+        "issue": "transit",
+        "axis": "transit-service",
+        "polarity": "expansive"
       }
     },
     {
@@ -391,7 +427,7 @@
       "kind": "axis",
       "regex": {
         "issue": "transit",
-        "axis": "service-expansion",
+        "axis": "application-approval",
         "valence": 1
       },
       "llm": {
@@ -702,7 +738,7 @@
       },
       "llm": {
         "issue": "transit",
-        "axis": "service-expansion",
+        "axis": "transit-service",
         "polarity": "expansive"
       }
     },
@@ -1044,7 +1080,7 @@
       },
       "llm": {
         "issue": "transit",
-        "axis": "service-expansion",
+        "axis": "transit-service",
         "polarity": "expansive"
       }
     },
@@ -1116,7 +1152,7 @@
       },
       "llm": {
         "issue": "transit",
-        "axis": "service-expansion",
+        "axis": "transit-service",
         "polarity": "expansive"
       }
     },
@@ -1746,8 +1782,8 @@
       },
       "llm": {
         "issue": "transit",
-        "axis": "service-expansion",
-        "polarity": "expansive"
+        "axis": null,
+        "polarity": null
       }
     },
     {
@@ -2214,7 +2250,7 @@
       },
       "llm": {
         "issue": "transit",
-        "axis": "application-approval",
+        "axis": "transit-service",
         "polarity": "expansive"
       }
     },
@@ -2286,7 +2322,7 @@
       },
       "llm": {
         "issue": "transit",
-        "axis": "application-approval",
+        "axis": "transit-service",
         "polarity": "expansive"
       }
     },
@@ -2448,7 +2484,7 @@
       },
       "llm": {
         "issue": "transit",
-        "axis": "application-approval",
+        "axis": "transit-service",
         "polarity": "expansive"
       }
     },
@@ -2466,7 +2502,7 @@
       },
       "llm": {
         "issue": "transit",
-        "axis": "application-approval",
+        "axis": "transit-service",
         "polarity": "expansive"
       }
     },
@@ -2502,8 +2538,8 @@
       },
       "llm": {
         "issue": "transit",
-        "axis": null,
-        "polarity": null
+        "axis": "transit-service",
+        "polarity": "expansive"
       }
     },
     {
@@ -2651,6 +2687,24 @@
       }
     },
     {
+      "motionId": "06f778b17f91",
+      "date": "2025-07-22",
+      "meetingSlug": "months/2025-07/2025-07-22 12th Council Meeting",
+      "itemNumber": "8.5.7",
+      "itemTitle": "(4.3) Mobility Master Plan Notice of Completion",
+      "kind": "axis",
+      "regex": {
+        "issue": "transit",
+        "axis": "application-approval",
+        "valence": 1
+      },
+      "llm": {
+        "issue": "transit",
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
       "motionId": "c34cee28168d",
       "date": "2025-07-17",
       "meetingSlug": "months/2025-07/2025-07-17 9th Meeting of the Strategic Priorities and Policy Committee",
@@ -2664,8 +2718,8 @@
       },
       "llm": {
         "issue": "transit",
-        "axis": "application-approval",
-        "polarity": "expansive"
+        "axis": null,
+        "polarity": null
       }
     },
     {
@@ -3420,25 +3474,7 @@
       },
       "llm": {
         "issue": "transit",
-        "axis": "service-expansion",
-        "polarity": "expansive"
-      }
-    },
-    {
-      "motionId": "1c01de0e5a7b",
-      "date": "2025-04-01",
-      "meetingSlug": "months/2025-04/2025-04-01 6th Council Meeting",
-      "itemNumber": "8.1.9",
-      "itemTitle": "(4.1) Mobility Master Plan Mobility Networks Maps",
-      "kind": "axis",
-      "regex": {
-        "issue": "transit",
-        "axis": "application-approval",
-        "valence": 1
-      },
-      "llm": {
-        "issue": "transit",
-        "axis": "service-expansion",
+        "axis": "road-capacity",
         "polarity": "expansive"
       }
     },
@@ -3512,24 +3548,6 @@
         "issue": "bikes",
         "axis": "infrastructure-expansion",
         "polarity": "restrictive"
-      }
-    },
-    {
-      "motionId": "f2540910623e",
-      "date": "2025-04-01",
-      "meetingSlug": "months/2025-04/2025-04-01 6th Council Meeting",
-      "itemNumber": "8.1.9",
-      "itemTitle": "(4.1) Mobility Master Plan Mobility Networks Maps",
-      "kind": "axis",
-      "regex": {
-        "issue": "transit",
-        "axis": "application-approval",
-        "valence": 1
-      },
-      "llm": {
-        "issue": "transit",
-        "axis": "service-expansion",
-        "polarity": "expansive"
       }
     },
     {
@@ -3767,24 +3785,6 @@
       }
     },
     {
-      "motionId": "b9c703769270",
-      "date": "2025-03-25",
-      "meetingSlug": "months/2025-03/2025-03-25 4th Meeting of the Strategic Priorities and Policy Committee",
-      "itemNumber": "4.1",
-      "itemTitle": "Mobility Master Plan Mobility Networks Maps",
-      "kind": "axis",
-      "regex": {
-        "issue": "transit",
-        "axis": "application-approval",
-        "valence": 1
-      },
-      "llm": {
-        "issue": "transit",
-        "axis": "service-expansion",
-        "polarity": "expansive"
-      }
-    },
-    {
       "motionId": "d7254e98198d",
       "date": "2025-03-25",
       "meetingSlug": "months/2025-03/2025-03-25 4th Meeting of the Strategic Priorities and Policy Committee",
@@ -3816,7 +3816,7 @@
       },
       "llm": {
         "issue": "transit",
-        "axis": "service-expansion",
+        "axis": "road-capacity",
         "polarity": "expansive"
       }
     },
@@ -3834,7 +3834,7 @@
       },
       "llm": {
         "issue": "transit",
-        "axis": "service-expansion",
+        "axis": "road-capacity",
         "polarity": "expansive"
       }
     },
@@ -3852,7 +3852,7 @@
       },
       "llm": {
         "issue": "transit",
-        "axis": "application-approval",
+        "axis": "transit-service",
         "polarity": "expansive"
       }
     },
@@ -4068,7 +4068,7 @@
       },
       "llm": {
         "issue": "transit",
-        "axis": "service-expansion",
+        "axis": "transit-service",
         "polarity": "expansive"
       }
     },
@@ -4320,7 +4320,7 @@
       },
       "llm": {
         "issue": "transit",
-        "axis": "service-expansion",
+        "axis": "transit-service",
         "polarity": "restrictive"
       }
     },
@@ -4338,7 +4338,7 @@
       },
       "llm": {
         "issue": "transit",
-        "axis": "service-expansion",
+        "axis": "transit-service",
         "polarity": "restrictive"
       }
     },
@@ -4518,7 +4518,7 @@
       },
       "llm": {
         "issue": "transit",
-        "axis": "service-expansion",
+        "axis": "transit-service",
         "polarity": "restrictive"
       }
     },
@@ -5796,7 +5796,7 @@
       },
       "llm": {
         "issue": "transit",
-        "axis": "service-expansion",
+        "axis": "transit-service",
         "polarity": "expansive"
       }
     },
@@ -5814,7 +5814,7 @@
       },
       "llm": {
         "issue": "transit",
-        "axis": "service-expansion",
+        "axis": "transit-service",
         "polarity": "expansive"
       }
     },
@@ -5868,7 +5868,7 @@
       },
       "llm": {
         "issue": "transit",
-        "axis": "service-expansion",
+        "axis": "transit-service",
         "polarity": "expansive"
       }
     },
@@ -6012,7 +6012,7 @@
       },
       "llm": {
         "issue": "transit",
-        "axis": "service-expansion",
+        "axis": "transit-service",
         "polarity": "expansive"
       }
     },
@@ -6084,7 +6084,7 @@
       },
       "llm": {
         "issue": "transit",
-        "axis": "service-expansion",
+        "axis": "transit-service",
         "polarity": "expansive"
       }
     },
@@ -6120,7 +6120,7 @@
       },
       "llm": {
         "issue": "transit",
-        "axis": "service-expansion",
+        "axis": "transit-service",
         "polarity": "expansive"
       }
     },
@@ -6156,7 +6156,7 @@
       },
       "llm": {
         "issue": "transit",
-        "axis": "service-expansion",
+        "axis": "transit-service",
         "polarity": "expansive"
       }
     },
@@ -6176,24 +6176,6 @@
         "issue": "housing",
         "axis": "affordable-funding",
         "polarity": "restrictive"
-      }
-    },
-    {
-      "motionId": "873508ecdfbc",
-      "date": "2024-04-02",
-      "meetingSlug": "months/2024-04/2024-04-02 7th Meeting of City Council",
-      "itemNumber": "8.1.7",
-      "itemTitle": "(4.4) Mobility Master Plan 2050 Mode Share Target",
-      "kind": "axis",
-      "regex": {
-        "issue": "transit",
-        "axis": null,
-        "valence": null
-      },
-      "llm": {
-        "issue": "transit",
-        "axis": "service-expansion",
-        "polarity": "expansive"
       }
     },
     {
@@ -6251,24 +6233,6 @@
       }
     },
     {
-      "motionId": "47b3793a89d7",
-      "date": "2024-03-26",
-      "meetingSlug": "months/2024-03/2024-03-26 7th Meeting of the Strategic Priorities and Policy Committee",
-      "itemNumber": "4.4",
-      "itemTitle": "Mobility Master Plan 2050 Mode Share Target",
-      "kind": "axis",
-      "regex": {
-        "issue": "transit",
-        "axis": null,
-        "valence": null
-      },
-      "llm": {
-        "issue": "transit",
-        "axis": "service-expansion",
-        "polarity": "expansive"
-      }
-    },
-    {
       "motionId": "b43302aa12d3",
       "date": "2024-03-26",
       "meetingSlug": "months/2024-03/2024-03-26 7th Meeting of the Strategic Priorities and Policy Committee",
@@ -6284,24 +6248,6 @@
         "issue": "transit",
         "axis": null,
         "polarity": null
-      }
-    },
-    {
-      "motionId": "a4e6deb00a7e",
-      "date": "2024-03-26",
-      "meetingSlug": "months/2024-03/2024-03-26 7th Meeting of the Strategic Priorities and Policy Committee",
-      "itemNumber": "4.4",
-      "itemTitle": "Mobility Master Plan 2050 Mode Share Target",
-      "kind": "axis",
-      "regex": {
-        "issue": "transit",
-        "axis": null,
-        "valence": null
-      },
-      "llm": {
-        "issue": "transit",
-        "axis": "service-expansion",
-        "polarity": "expansive"
       }
     },
     {
@@ -6750,7 +6696,7 @@
       },
       "llm": {
         "issue": "transit",
-        "axis": "service-expansion",
+        "axis": "transit-service",
         "polarity": "expansive"
       }
     },
@@ -6912,7 +6858,7 @@
       },
       "llm": {
         "issue": "transit",
-        "axis": "application-approval",
+        "axis": "transit-service",
         "polarity": "expansive"
       }
     },
@@ -7002,7 +6948,7 @@
       },
       "llm": {
         "issue": "transit",
-        "axis": "service-expansion",
+        "axis": "transit-service",
         "polarity": "expansive"
       }
     },
@@ -7421,24 +7367,6 @@
       }
     },
     {
-      "motionId": "71f1ada00bf5",
-      "date": "2024-01-23",
-      "meetingSlug": "months/2024-01/2024-01-23 2nd Meeting of City Council",
-      "itemNumber": "8.4.4",
-      "itemTitle": "(2.1) Investing in Canada Infrastructure Program Public Transit Stream Funding Reallocation",
-      "kind": "axis",
-      "regex": {
-        "issue": "transit",
-        "axis": null,
-        "valence": null
-      },
-      "llm": {
-        "issue": "transit",
-        "axis": "application-approval",
-        "polarity": "expansive"
-      }
-    },
-    {
       "motionId": "9c935b12814a",
       "date": "2024-01-23",
       "meetingSlug": "months/2024-01/2024-01-23 2nd Meeting of City Council",
@@ -7453,24 +7381,6 @@
       "llm": {
         "issue": "climate",
         "axis": "target-strength",
-        "polarity": "expansive"
-      }
-    },
-    {
-      "motionId": "96dcf9db8ac4",
-      "date": "2024-01-16",
-      "meetingSlug": "months/2024-01/2024-01-16 3rd Meeting of the Strategic Priorities and Policy Committee",
-      "itemNumber": "2.1",
-      "itemTitle": "Investing in Canada Infrastructure Program Public Transit Stream Funding Reallocation",
-      "kind": "axis",
-      "regex": {
-        "issue": "transit",
-        "axis": null,
-        "valence": null
-      },
-      "llm": {
-        "issue": "transit",
-        "axis": "application-approval",
         "polarity": "expansive"
       }
     },
@@ -8604,7 +8514,7 @@
       },
       "llm": {
         "issue": "transit",
-        "axis": "application-approval",
+        "axis": "transit-service",
         "polarity": "expansive"
       }
     },
@@ -8622,7 +8532,7 @@
       },
       "llm": {
         "issue": "transit",
-        "axis": "application-approval",
+        "axis": "transit-service",
         "polarity": "expansive"
       }
     },
@@ -8766,6 +8676,24 @@
       },
       "llm": {
         "issue": "budget",
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "d0cbb048480e",
+      "date": "2023-01-23",
+      "meetingSlug": "months/2023-01/2023-01-23 7th Meeting of the Strategic Priorities and Policy Committee - Special Meeting",
+      "itemNumber": "4.1",
+      "itemTitle": "Developing the 2023-2027 Strategic Plan: Setting the Strategic Areas of Focus, Outcomes and Expected Results",
+      "kind": "axis",
+      "regex": {
+        "issue": "transit",
+        "axis": "application-approval",
+        "valence": 1
+      },
+      "llm": {
+        "issue": "transit",
         "axis": null,
         "polarity": null
       }

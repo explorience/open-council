@@ -31,7 +31,7 @@ These are the issues where council has actually split since 2023 — where a vot
 - [Housing & Density](/election/issues/housing) — 236 divided votes since 2023, 136 with a clear direction
 - [Homelessness & Encampments](/election/issues/encampments) — 136 divided votes since 2023, 59 with a clear direction
 - [Taxes & Budget](/election/issues/budget) — 130 divided votes since 2023, 85 with a clear direction
-- [Transit & Roads](/election/issues/transit) — 64 divided votes since 2023, 41 with a clear direction
+- [Transit & Roads](/election/issues/transit) — 64 divided votes since 2023, 33 with a clear direction
 - [Climate & Green Space](/election/issues/climate) — 39 divided votes since 2023, 17 with a clear direction
 - [Downtown & Core](/election/issues/downtown) — 25 divided votes since 2023, 16 with a clear direction
 - [Bike Lanes / Cycling](/election/issues/bikes) — 18 divided votes since 2023, 13 with a clear direction

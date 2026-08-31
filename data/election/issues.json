@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T20:42:28.805Z",
+  "generatedAt": "2026-08-31T21:53:27.770Z",
   "sourceHash": "b7db59b827637e80",
   "sourceGeneratedAt": "2026-08-31T05:18:27.112Z",
   "cutoffDate": "2023-01-01",
@@ -9600,7 +9600,7 @@
     "transit": {
       "label": "Transit & Roads",
       "dividedVoteCount": 64,
-      "directionBearingVoteCount": 41,
+      "directionBearingVoteCount": 33,
       "distinctAgendaItemCount": 47,
       "votes": [
         {
@@ -9628,12 +9628,12 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "application-approval",
+            "axis": "transit-service",
             "valence": 1,
             "label": "Approved introducing a by-law to enter into and execute a Contribution Agreement with the federal government for baseline Canada Public Transit Fund funding, and authorized related administrative acts.",
             "axisLabels": {
-              "expansive": "approved the transit/roads item",
-              "restrictive": "denied the transit/roads item"
+              "expansive": "expanded public transit service or transit infrastructure",
+              "restrictive": "reduced public transit service or transit infrastructure"
             }
           },
           "positions": {
@@ -9680,12 +9680,12 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "application-approval",
+            "axis": "transit-service",
             "valence": 1,
             "label": "Approved recommending that Council introduce a by-law to enter into and execute a Contribution Agreement with the federal government for baseline Canada Public Transit Fund funding.",
             "axisLabels": {
-              "expansive": "approved the transit/roads item",
-              "restrictive": "denied the transit/roads item"
+              "expansive": "expanded public transit service or transit infrastructure",
+              "restrictive": "reduced public transit service or transit infrastructure"
             }
           },
           "positions": {
@@ -9771,12 +9771,12 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "service-expansion",
+            "axis": "transit-service",
             "valence": 1,
             "label": "Approved financing to purchase nine new 60-foot buses for the London Transit Commission's East London Link Rapid Transit corridor.",
             "axisLabels": {
-              "expansive": "expanded transit or road service/infrastructure",
-              "restrictive": "reduced transit or road service/infrastructure"
+              "expansive": "expanded public transit service or transit infrastructure",
+              "restrictive": "reduced public transit service or transit infrastructure"
             }
           },
           "positions": {
@@ -9815,12 +9815,12 @@
             "wrapper_preamble"
           ],
           "direction": {
-            "axis": "service-expansion",
+            "axis": "transit-service",
             "valence": 1,
             "label": "Approved introducing the by-law authorizing the MOU and Agreement for the new Secondary School Transit Pass Pilot Program, capped at $880,000 in financing for September 2026 to June 2028 with July/August excluded.",
             "axisLabels": {
-              "expansive": "expanded transit or road service/infrastructure",
-              "restrictive": "reduced transit or road service/infrastructure"
+              "expansive": "expanded public transit service or transit infrastructure",
+              "restrictive": "reduced public transit service or transit infrastructure"
             }
           },
           "positions": {
@@ -9869,12 +9869,12 @@
             "wrapper_preamble"
           ],
           "direction": {
-            "axis": "service-expansion",
+            "axis": "transit-service",
             "valence": 1,
             "label": "Approved (at committee) introducing the by-law authorizing the MOU and Agreement for the new Secondary School Transit Pass Pilot Program, funded up to $1.04 million for September 2026 to August 2028 with summer months excluded.",
             "axisLabels": {
-              "expansive": "expanded transit or road service/infrastructure",
-              "restrictive": "reduced transit or road service/infrastructure"
+              "expansive": "expanded public transit service or transit infrastructure",
+              "restrictive": "reduced public transit service or transit infrastructure"
             }
           },
           "positions": {
@@ -9970,13 +9970,8 @@
             "wrapper_preamble"
           ],
           "direction": {
-            "axis": "service-expansion",
-            "valence": 1,
-            "label": "Approved a $155,000 increase to the roadways budget, funded from the Automated Enforcement Reserve Fund over two years, to implement traffic calming in school zones and deploy additional temporary traffic calming devices near construction-related traffic diversions.",
-            "axisLabels": {
-              "expansive": "expanded transit or road service/infrastructure",
-              "restrictive": "reduced transit or road service/infrastructure"
-            }
+            "axis": null,
+            "label": "Approved a $155,000 increase to the roadways budget, funded from the Automated Enforcement Reserve Fund over two years, to implement traffic calming in school zones and deploy additional temporary traffic calming devices near construction-related traffic diversions."
           },
           "positions": {
             "j-morgan": "yea",
@@ -10111,12 +10106,12 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "application-approval",
+            "axis": "transit-service",
             "valence": 1,
             "label": "Increased the AECOM detailed-design contract by $803,764 (to $8,479,052) and approved financing for the Wellington Gateway Transit and Municipal Infrastructure Improvements project.",
             "axisLabels": {
-              "expansive": "approved the transit/roads item",
-              "restrictive": "denied the transit/roads item"
+              "expansive": "expanded public transit service or transit infrastructure",
+              "restrictive": "reduced public transit service or transit infrastructure"
             }
           },
           "positions": {
@@ -10163,12 +10158,12 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "application-approval",
+            "axis": "transit-service",
             "valence": 1,
             "label": "Recommended increasing the AECOM detailed-design contract by $803,764 (to $8,479,052) and recommended approving financing for the Wellington Gateway Transit and Municipal Infrastructure Improvements project, at the Infrastructure and Corporate Services Committee stage (later ratified by Council as item 8.3.3 on September 23, 2025).",
             "axisLabels": {
-              "expansive": "approved the transit/roads item",
-              "restrictive": "denied the transit/roads item"
+              "expansive": "expanded public transit service or transit infrastructure",
+              "restrictive": "reduced public transit service or transit infrastructure"
             }
           },
           "positions": {
@@ -10209,7 +10204,7 @@
           ],
           "direction": {
             "axis": null,
-            "label": "Would have directed Civic Administration to report back with more detailed information on further improvements at the Western Road/Sarnia Road/Philip Aziz Avenue intersection, including the feasibility of a pedestrian scramble."
+            "label": "Would have directed Civic Administration to report back to a future meeting of the Community and Protective Services Committee with respect to other improvements at the Western Rd, Sarnia Ave / Phillip Aziz Ave intersection, including more detailed information about the feasibility of a pedestrian scramble; failed 1-4."
           },
           "positions": {
             "s-trosow": "yea",
@@ -10245,12 +10240,12 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "application-approval",
+            "axis": "transit-service",
             "valence": 1,
             "label": "Increased the AECOM construction-inspection and contract-administration services contract by $120,000 (to $1,924,701) and approved financing for the Wellington Street Rapid Transit Implementation project (Queens Avenue to the Thames River, South Branch).",
             "axisLabels": {
-              "expansive": "approved the transit/roads item",
-              "restrictive": "denied the transit/roads item"
+              "expansive": "expanded public transit service or transit infrastructure",
+              "restrictive": "reduced public transit service or transit infrastructure"
             }
           },
           "positions": {
@@ -10297,12 +10292,12 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "application-approval",
+            "axis": "transit-service",
             "valence": 1,
             "label": "Recommended increasing the AECOM construction-inspection and contract-administration services contract by $120,000 (to $1,924,701) and recommended approving financing for the Wellington Street Rapid Transit Implementation project (Queens Avenue to the Thames River, South Branch), at the Infrastructure and Corporate Services Committee stage (later ratified by Council as item 8.4.7 on August 26, 2025).",
             "axisLabels": {
-              "expansive": "approved the transit/roads item",
-              "restrictive": "denied the transit/roads item"
+              "expansive": "expanded public transit service or transit infrastructure",
+              "restrictive": "reduced public transit service or transit infrastructure"
             }
           },
           "positions": {
@@ -10339,13 +10334,8 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "application-approval",
-            "valence": 1,
-            "label": "Approved the Mobility Master Plan Report and directed staff to file its Notice of Completion for the statutory public review period.",
-            "axisLabels": {
-              "expansive": "approved the transit/roads item",
-              "restrictive": "denied the transit/roads item"
-            }
+            "axis": null,
+            "label": "Approved the Mobility Master Plan Report and directed staff to file its Notice of Completion for the statutory public review period."
           },
           "positions": {
             "j-morgan": "yea",
@@ -10393,8 +10383,13 @@
             "procedural"
           ],
           "direction": {
-            "axis": null,
-            "label": "Approved beginning the legal expropriation process for land needed for Phase 2 of the Wellington Gateway project's civil works, including applying to Council as approving authority, publishing statutory notice, and introducing the authorizing by-law."
+            "axis": "transit-service",
+            "valence": 1,
+            "label": "Approved beginning the legal expropriation process for land needed for Phase 2 of the Wellington Gateway project's civil works, including applying to Council as approving authority, publishing statutory notice, and introducing the authorizing by-law.",
+            "axisLabels": {
+              "expansive": "expanded public transit service or transit infrastructure",
+              "restrictive": "reduced public transit service or transit infrastructure"
+            }
           },
           "positions": {
             "j-morgan": "yea",
@@ -10442,13 +10437,8 @@
             "wrapper_preamble"
           ],
           "direction": {
-            "axis": "application-approval",
-            "valence": 1,
-            "label": "Approved the Mobility Master Plan Report and directed staff to file its Notice of Completion for the statutory public review period.",
-            "axisLabels": {
-              "expansive": "approved the transit/roads item",
-              "restrictive": "denied the transit/roads item"
-            }
+            "axis": null,
+            "label": "Approved the Mobility Master Plan Report and directed staff to file its Notice of Completion for the statutory public review period."
           },
           "positions": {
             "j-morgan": "yea",
@@ -10641,12 +10631,12 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "service-expansion",
+            "axis": "road-capacity",
             "valence": 1,
             "label": "Directed Civic Administration to restart the Wonderland Road corridor Environmental Assessment (Southdale Road to Fanshawe Park Road) to build six general-purpose through lanes, with a long-term option to convert to Bus Rapid Transit, and to update the Mobility Master Plan maps accordingly.",
             "axisLabels": {
-              "expansive": "expanded transit or road service/infrastructure",
-              "restrictive": "reduced transit or road service/infrastructure"
+              "expansive": "expanded general-purpose road capacity",
+              "restrictive": "reduced or declined general-purpose road capacity"
             }
           },
           "positions": {
@@ -10693,12 +10683,12 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "service-expansion",
+            "axis": "transit-service",
             "valence": 1,
             "label": "Approved the Mobility Master Plan's Transit Priority Network maps.",
             "axisLabels": {
-              "expansive": "expanded transit or road service/infrastructure",
-              "restrictive": "reduced transit or road service/infrastructure"
+              "expansive": "expanded public transit service or transit infrastructure",
+              "restrictive": "reduced public transit service or transit infrastructure"
             }
           },
           "positions": {
@@ -10745,12 +10735,12 @@
           "anchorAmbiguous": true,
           "matchedKeywords": [],
           "direction": {
-            "axis": "service-expansion",
+            "axis": "road-capacity",
             "valence": 1,
             "label": "Approved the Mobility Master Plan's Roads Projects maps, with an amendment to include the expansion of Bradley Avenue (Wellington Road to Highbury Avenue) in the next capital improvement cycle.",
             "axisLabels": {
-              "expansive": "expanded transit or road service/infrastructure",
-              "restrictive": "reduced transit or road service/infrastructure"
+              "expansive": "expanded general-purpose road capacity",
+              "restrictive": "reduced or declined general-purpose road capacity"
             }
           },
           "positions": {
@@ -10897,7 +10887,7 @@
           ],
           "direction": {
             "axis": null,
-            "label": "Would have referred the motion regarding the London Transit Commission's dissolution and restructuring to the next Strategic Priorities and Policy Committee meeting."
+            "label": "Would have referred the motion regarding the London Transit Commission's dissolution and restructuring to the next Strategic Priorities and Policy Committee meeting; failed 3-12."
           },
           "positions": {
             "h-mcalister": "yea",
@@ -10945,12 +10935,12 @@
             "wrapper_preamble"
           ],
           "direction": {
-            "axis": "application-approval",
+            "axis": "transit-service",
             "valence": 1,
             "label": "Approved the Transit Priority Network maps.",
             "axisLabels": {
-              "expansive": "approved the transit/roads item",
-              "restrictive": "denied the transit/roads item"
+              "expansive": "expanded public transit service or transit infrastructure",
+              "restrictive": "reduced public transit service or transit infrastructure"
             }
           },
           "positions": {
@@ -10999,12 +10989,12 @@
             "wrapper_preamble"
           ],
           "direction": {
-            "axis": "service-expansion",
+            "axis": "road-capacity",
             "valence": 1,
             "label": "Gave final approval, as amended, to the Roads Projects maps, including adding the Bradley Avenue (Wellington Road to Highbury Avenue) expansion to the next improvement cycle.",
             "axisLabels": {
-              "expansive": "expanded transit or road service/infrastructure",
-              "restrictive": "reduced transit or road service/infrastructure"
+              "expansive": "expanded general-purpose road capacity",
+              "restrictive": "reduced or declined general-purpose road capacity"
             }
           },
           "positions": {
@@ -11051,12 +11041,12 @@
           "anchorAmbiguous": true,
           "matchedKeywords": [],
           "direction": {
-            "axis": "service-expansion",
+            "axis": "road-capacity",
             "valence": 1,
             "label": "Added the Bradley Avenue expansion (Wellington Road to Highbury Avenue) to the Roads Projects Timeline's next improvement cycle.",
             "axisLabels": {
-              "expansive": "expanded transit or road service/infrastructure",
-              "restrictive": "reduced transit or road service/infrastructure"
+              "expansive": "expanded general-purpose road capacity",
+              "restrictive": "reduced or declined general-purpose road capacity"
             }
           },
           "positions": {
@@ -11152,12 +11142,12 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "service-expansion",
+            "axis": "road-capacity",
             "valence": 1,
             "label": "Restarted the Wonderland Road environmental assessment with expanded study limits, to construct six new general-purpose through lanes with a long-term option to convert to Bus Rapid Transit.",
             "axisLabels": {
-              "expansive": "expanded transit or road service/infrastructure",
-              "restrictive": "reduced transit or road service/infrastructure"
+              "expansive": "expanded general-purpose road capacity",
+              "restrictive": "reduced or declined general-purpose road capacity"
             }
           },
           "positions": {
@@ -11204,12 +11194,12 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "service-expansion",
+            "axis": "transit-service",
             "valence": 1,
             "label": "Approved a $26.4 million construction contract for the East London Link and Municipal Infrastructure Improvements Phase 4 project, and approved a Transportation Services Licence Agreement with the London Transit Commission and Fanshawe College to construct a transit facility on Fanshawe College property.",
             "axisLabels": {
-              "expansive": "expanded transit or road service/infrastructure",
-              "restrictive": "reduced transit or road service/infrastructure"
+              "expansive": "expanded public transit service or transit infrastructure",
+              "restrictive": "reduced public transit service or transit infrastructure"
             }
           },
           "positions": {
@@ -11247,12 +11237,12 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "service-expansion",
+            "axis": "transit-service",
             "valence": -1,
             "label": "Would have removed the future capital budgets ($975,000 in 2025 and $4,325,000 in 2026) for the Rapid Transit - East London Link project, on a re-vote of the same amendment.",
             "axisLabels": {
-              "expansive": "expanded transit or road service/infrastructure",
-              "restrictive": "reduced transit or road service/infrastructure"
+              "expansive": "expanded public transit service or transit infrastructure",
+              "restrictive": "reduced public transit service or transit infrastructure"
             }
           },
           "positions": {
@@ -11299,12 +11289,12 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "service-expansion",
+            "axis": "transit-service",
             "valence": -1,
             "label": "Would have removed the future capital budgets ($975,000 in 2025 and $4,325,000 in 2026) for the Rapid Transit - East London Link project, funding that is primarily Federal/Provincial PTIS and Development Charges supported.",
             "axisLabels": {
-              "expansive": "expanded transit or road service/infrastructure",
-              "restrictive": "reduced transit or road service/infrastructure"
+              "expansive": "expanded public transit service or transit infrastructure",
+              "restrictive": "reduced public transit service or transit infrastructure"
             }
           },
           "positions": {
@@ -11351,12 +11341,12 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "service-expansion",
+            "axis": "transit-service",
             "valence": -1,
             "label": "Would have reduced the London Transit Commission's 2026 budget by $500,000, conditioning reinstatement on LTC submitting a 2026 budget amendment, getting its online booking system operational, and providing a plan to implement 10,000 additional 2025 service hours by Q1 2025.",
             "axisLabels": {
-              "expansive": "expanded transit or road service/infrastructure",
-              "restrictive": "reduced transit or road service/infrastructure"
+              "expansive": "expanded public transit service or transit infrastructure",
+              "restrictive": "reduced public transit service or transit infrastructure"
             }
           },
           "positions": {
@@ -11546,12 +11536,12 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "service-expansion",
+            "axis": "transit-service",
             "valence": 1,
             "label": "Approved expropriating land needed to build the Wellington Gateway rapid-transit corridor's Clark's Bridge civil works (part of the Wellington Road Rapid Transit Implementation project).",
             "axisLabels": {
-              "expansive": "expanded transit or road service/infrastructure",
-              "restrictive": "reduced transit or road service/infrastructure"
+              "expansive": "expanded public transit service or transit infrastructure",
+              "restrictive": "reduced public transit service or transit infrastructure"
             }
           },
           "positions": {
@@ -11647,12 +11637,12 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "service-expansion",
+            "axis": "transit-service",
             "valence": 1,
             "label": "Approved (at committee stage) expropriating land needed to build the Wellington Gateway rapid-transit corridor's Clark's Bridge civil works.",
             "axisLabels": {
-              "expansive": "expanded transit or road service/infrastructure",
-              "restrictive": "reduced transit or road service/infrastructure"
+              "expansive": "expanded public transit service or transit infrastructure",
+              "restrictive": "reduced public transit service or transit infrastructure"
             }
           },
           "positions": {
@@ -11689,12 +11679,12 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "service-expansion",
+            "axis": "transit-service",
             "valence": 1,
             "label": "Awarded construction contracts and increased consultant design-contract funding for the Wellington Road and East London Link Rapid Transit Implementation corridor infrastructure.",
             "axisLabels": {
-              "expansive": "expanded transit or road service/infrastructure",
-              "restrictive": "reduced transit or road service/infrastructure"
+              "expansive": "expanded public transit service or transit infrastructure",
+              "restrictive": "reduced public transit service or transit infrastructure"
             }
           },
           "positions": {
@@ -11741,12 +11731,12 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "service-expansion",
+            "axis": "transit-service",
             "valence": 1,
             "label": "Directed staff to develop an MOU with the school board to launch a pilot providing free annual transit passes to Grade 9 (later Grade 9-10) students at Clarke Road Secondary School.",
             "axisLabels": {
-              "expansive": "expanded transit or road service/infrastructure",
-              "restrictive": "reduced transit or road service/infrastructure"
+              "expansive": "expanded public transit service or transit infrastructure",
+              "restrictive": "reduced public transit service or transit infrastructure"
             }
           },
           "positions": {
@@ -11793,12 +11783,12 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "service-expansion",
+            "axis": "transit-service",
             "valence": 1,
             "label": "Approved expropriating land needed to build Phase 4 of the East London Link rapid-transit corridor (part of the Rapid Transit Implementation program).",
             "axisLabels": {
-              "expansive": "expanded transit or road service/infrastructure",
-              "restrictive": "reduced transit or road service/infrastructure"
+              "expansive": "expanded public transit service or transit infrastructure",
+              "restrictive": "reduced public transit service or transit infrastructure"
             }
           },
           "positions": {
@@ -11894,12 +11884,12 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "service-expansion",
+            "axis": "transit-service",
             "valence": 1,
             "label": "Directed staff to develop an MOU with the school board to launch a pilot providing free annual transit passes to Grade 9 students at Clarke Road Secondary School.",
             "axisLabels": {
-              "expansive": "expanded transit or road service/infrastructure",
-              "restrictive": "reduced transit or road service/infrastructure"
+              "expansive": "expanded public transit service or transit infrastructure",
+              "restrictive": "reduced public transit service or transit infrastructure"
             }
           },
           "positions": {
@@ -11946,12 +11936,12 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "service-expansion",
+            "axis": "transit-service",
             "valence": 1,
             "label": "Approved (at committee stage) expropriating land needed to build Phase 4 of the East London Link rapid-transit corridor.",
             "axisLabels": {
-              "expansive": "expanded transit or road service/infrastructure",
-              "restrictive": "reduced transit or road service/infrastructure"
+              "expansive": "expanded public transit service or transit infrastructure",
+              "restrictive": "reduced public transit service or transit infrastructure"
             }
           },
           "positions": {
@@ -11988,13 +11978,8 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "service-expansion",
-            "valence": 1,
-            "label": "Set the City's 2050 mode share target at 32.5% (or higher) combined for transit, walking, and cycling trips -- the more ambitious of the staff-presented options -- to be reviewed at least every four years.",
-            "axisLabels": {
-              "expansive": "expanded transit or road service/infrastructure",
-              "restrictive": "reduced transit or road service/infrastructure"
-            }
+            "axis": null,
+            "label": "Set the City's 2050 mode share target at 32.5% (or higher) combined for transit, walking, and cycling trips -- the more ambitious of the staff-presented options -- to be reviewed at least every four years."
           },
           "positions": {
             "j-morgan": "yea",
@@ -12040,13 +12025,8 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "service-expansion",
-            "valence": 1,
-            "label": "Set the city's 2050 Mobility Master Plan target at Option 2 or greater — a 32.5% (or higher) mode share for transit, walking, and cycling combined.",
-            "axisLabels": {
-              "expansive": "expanded transit or road service/infrastructure",
-              "restrictive": "reduced transit or road service/infrastructure"
-            }
+            "axis": null,
+            "label": "Set the city's 2050 Mobility Master Plan target at Option 2 or greater — a 32.5% (or higher) mode share for transit, walking, and cycling combined."
           },
           "positions": {
             "j-morgan": "yea",
@@ -12139,13 +12119,8 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "service-expansion",
-            "valence": 1,
-            "label": "Adopted Option 2 as the city's 2050 Mobility Master Plan mode share target (rather than the alternative of deferring/referring the target-setting decision, which had just failed).",
-            "axisLabels": {
-              "expansive": "expanded transit or road service/infrastructure",
-              "restrictive": "reduced transit or road service/infrastructure"
-            }
+            "axis": null,
+            "label": "Adopted Option 2 as the city's 2050 Mobility Master Plan mode share target (rather than the alternative of deferring/referring the target-setting decision, which had just failed)."
           },
           "positions": {
             "s-lewis": "yea",
@@ -12191,12 +12166,12 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "service-expansion",
+            "axis": "transit-service",
             "valence": 1,
             "label": "Increased funding for Business Case #P-51 to provide 18,000 hours of London Transit conventional service growth per year, as recommended by the London Transit Commission.",
             "axisLabels": {
-              "expansive": "expanded transit or road service/infrastructure",
-              "restrictive": "reduced transit or road service/infrastructure"
+              "expansive": "expanded public transit service or transit infrastructure",
+              "restrictive": "reduced public transit service or transit infrastructure"
             }
           },
           "positions": {
@@ -12243,12 +12218,12 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "application-approval",
+            "axis": "transit-service",
             "valence": 1,
             "label": "Awarded an $18.3 million construction contract to Bre-Ex Construction Inc. for Rapid Transit Implementation at Clarks Bridge and Wellington Road.",
             "axisLabels": {
-              "expansive": "approved the transit/roads item",
-              "restrictive": "denied the transit/roads item"
+              "expansive": "expanded public transit service or transit infrastructure",
+              "restrictive": "reduced public transit service or transit infrastructure"
             }
           },
           "positions": {
@@ -12295,12 +12270,12 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "service-expansion",
+            "axis": "transit-service",
             "valence": 1,
             "label": "Would have increased funding for Business Case #P-51 to add the revised conventional transit service-hours growth for 2024, as approved by the London Transit Commission.",
             "axisLabels": {
-              "expansive": "expanded transit or road service/infrastructure",
-              "restrictive": "reduced transit or road service/infrastructure"
+              "expansive": "expanded public transit service or transit infrastructure",
+              "restrictive": "reduced public transit service or transit infrastructure"
             }
           },
           "positions": {
@@ -12347,13 +12322,8 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "application-approval",
-            "valence": 1,
-            "label": "Authorized requesting the Ministry of Transportation to remove the Oxford Street/Wharncliffe Road intersection improvements from the ICIP Public Transit Stream and reallocate that funding to the Wellington Gateway project, and authorized the Civic Administration to implement the resulting capital budget changes.",
-            "axisLabels": {
-              "expansive": "approved the transit/roads item",
-              "restrictive": "denied the transit/roads item"
-            }
+            "axis": null,
+            "label": "Authorized requesting the Ministry of Transportation to remove the Oxford Street/Wharncliffe Road intersection improvements from the ICIP Public Transit Stream and reallocate that funding to the Wellington Gateway project, and authorized the Civic Administration to implement the resulting capital budget changes."
           },
           "positions": {
             "j-morgan": "yea",
@@ -12399,13 +12369,8 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "application-approval",
-            "valence": 1,
-            "label": "Authorized requesting the Ministry of Transportation to remove the Oxford Street/Wharncliffe Road intersection improvements from the ICIP Public Transit Stream and reallocate that funding to the Wellington Gateway project, and authorized the Civic Administration to implement the resulting capital budget changes.",
-            "axisLabels": {
-              "expansive": "approved the transit/roads item",
-              "restrictive": "denied the transit/roads item"
-            }
+            "axis": null,
+            "label": "Authorized requesting the Ministry of Transportation to remove the Oxford Street/Wharncliffe Road intersection improvements from the ICIP Public Transit Stream and reallocate that funding to the Wellington Gateway project, and authorized the Civic Administration to implement the resulting capital budget changes."
           },
           "positions": {
             "j-morgan": "yea",
@@ -12630,12 +12595,12 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "application-approval",
+            "axis": "transit-service",
             "valence": 1,
             "label": "Approved awarding the Rapid Transit Implementation contract (Wellington Street, Queens Avenue to the Thames River South Branch) to Bre-Ex Construction Inc. at $28,540,331.45, despite the bid exceeding the Downtown Loop Phase 3 project budget (an irregular result), and authorized the related inspection, financing, and administrative acts.",
             "axisLabels": {
-              "expansive": "approved the transit/roads item",
-              "restrictive": "denied the transit/roads item"
+              "expansive": "expanded public transit service or transit infrastructure",
+              "restrictive": "reduced public transit service or transit infrastructure"
             }
           },
           "positions": {
@@ -12682,12 +12647,12 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "application-approval",
+            "axis": "transit-service",
             "valence": 1,
             "label": "Approved awarding the Rapid Transit Implementation contract (Wellington Street, Queens Avenue to the Thames River South Branch) to Bre-Ex Construction Inc. at $28,540,331.45, despite the bid exceeding the Downtown Loop Phase 3 project budget (an irregular result), and authorized the related inspection, financing, and administrative acts. (Committee-stage vote; the same recommendation returned to Council as item 8.2.6.)",
             "axisLabels": {
-              "expansive": "approved the transit/roads item",
-              "restrictive": "denied the transit/roads item"
+              "expansive": "expanded public transit service or transit infrastructure",
+              "restrictive": "reduced public transit service or transit infrastructure"
             }
           },
           "positions": {
@@ -12725,13 +12690,8 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "application-approval",
-            "valence": 1,
-            "label": "Approved Expected Result e) of the Wellbeing and Safety strategic focus area (Outcome 1) in the Draft 2023-2027 Strategic Plan: 'Improved traffic safety, traffic calming' -- an aspirational plan statement, not a specific traffic-calming project.",
-            "axisLabels": {
-              "expansive": "approved the transit/roads item",
-              "restrictive": "denied the transit/roads item"
-            }
+            "axis": null,
+            "label": "Approved Expected Result e) of the Wellbeing and Safety strategic focus area (Outcome 1) in the Draft 2023-2027 Strategic Plan: 'Improved traffic safety, traffic calming' -- an aspirational plan statement, not a specific traffic-calming project."
           },
           "positions": {
             "j-morgan": "yea",
