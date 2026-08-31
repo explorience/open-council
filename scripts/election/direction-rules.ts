@@ -292,19 +292,50 @@ const AXIS_PATTERNS: Partial<Record<IssueId, AxisPattern[]>> = {
       restrictiveLabel: "excluded a business case from the budget",
     },
   ],
+  // Split 2026-08-31 (see data/election/classify/transit-split-verified.json):
+  // the prior single "service-expansion" axis conflated transit and ROAD
+  // expansion under one "expanded transit or road service/infrastructure"
+  // label — a nay on a six-lane Wonderland Road widening read as "opposed
+  // expanding transit" when the record shows the opposite for a transit
+  // advocate. Replaced with two axes that read the clause's actual mode:
+  // "transit-service" (bus service hours, routes, BRT, shelters, transit
+  // priority infrastructure) and "road-capacity" (general-purpose lane
+  // widenings, new lanes, road extensions). A motion doing both, or neither
+  // cleanly, falls through to the generic fallback below (or is left
+  // unclear by the LLM-verified classification layer that is now the actual
+  // source of every published transit direction — see directionFromVerified
+  // in generate-stances.ts). The "service-expansion" axis string is fully
+  // retired: every issue=transit verified entry has been re-derived onto
+  // one of these two axes (or null) by the split file above, so no live
+  // data references it anymore. These regexes remain cross-check-only (the
+  // LLM-verified classification is the published source), same as every
+  // other content axis in this file.
   transit: [
     {
-      axis: "service-expansion",
+      axis: "transit-service",
       expansiveRe: new RegExp(
-        `\\b${INCREASE}\\b[^.;]{0,60}\\b(service|route|frequency|network|infrastructure)\\b`,
+        `\\b${INCREASE}\\b[^.;]{0,60}\\b(transit|bus)\\s+(service|route|frequency|hours)\\b|\\b(bus rapid transit|BRT|transit priority|transit shelter\\w*|transit facility|transit pass\\w*)\\b[^.;]{0,60}\\b(approve\\w*|construct\\w*|install\\w*|expand\\w*|BE\\s+APPROVED)\\b`,
         "i",
       ),
-      expansiveLabel: "expanded transit or road service/infrastructure",
+      expansiveLabel: "expanded public transit service or transit infrastructure",
       restrictiveRe: new RegExp(
-        `\\b${DECREASE}\\b[^.;]{0,60}\\b(service|route|frequency|network|infrastructure)\\b`,
+        `\\b${DECREASE}\\b[^.;]{0,60}\\b(transit|bus)\\s+(service|route|frequency|hours)\\b`,
         "i",
       ),
-      restrictiveLabel: "reduced transit or road service/infrastructure",
+      restrictiveLabel: "reduced public transit service or transit infrastructure",
+    },
+    {
+      axis: "road-capacity",
+      expansiveRe: new RegExp(
+        `\\b${INCREASE}\\b[^.;]{0,60}\\b(general[\\s-]purpose\\s+(?:through\\s+)?lanes?|road\\s+capacity)\\b|\\b(widen\\w*|new\\s+lanes?|road\\s+extension\\w*)\\b`,
+        "i",
+      ),
+      expansiveLabel: "expanded general-purpose road capacity",
+      restrictiveRe: new RegExp(
+        `\\b${DECREASE}\\b[^.;]{0,60}\\b(general[\\s-]purpose\\s+(?:through\\s+)?lanes?|road\\s+capacity)\\b`,
+        "i",
+      ),
+      restrictiveLabel: "reduced or declined general-purpose road capacity",
     },
   ],
   encampments: [
