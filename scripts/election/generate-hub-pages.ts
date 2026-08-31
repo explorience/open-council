@@ -19,6 +19,7 @@
 import fs from "fs/promises";
 import path from "path";
 import { loadRegistry } from "../../lib/councillors/registry.js";
+import { formatDate, buildMethodologyShort } from "./methodology.js";
 
 const REPO_ROOT = process.cwd();
 const DATA_DIR = path.join(REPO_ROOT, "data", "election");
@@ -393,7 +394,7 @@ ${councillorRows}
 
 ---
 
-Methodology: a "divided" vote is any non-unanimous, non-procedural council or committee motion since ${issues.cutoffDate}. Issue and direction ("what a yea did") are read from each motion's own complete text — not just the agenda item's title — and independently verified motion by motion, not assumed from topic. See the [issues page](/election/issues) for the exact counts and the unclassified/unclear disclosure.
+Methodology: ${buildMethodologyShort(issues.cutoffDate)}
 `;
 }
 
@@ -800,7 +801,7 @@ prefillQuestions: []
 
 # ${issue.label}
 
-${issue.dividedVoteCount} divided (non-unanimous, non-procedural) council or committee votes on this issue since ${cutoffDate}. ${clearCount} of those had a clear "what a yea did" direction; ${unclearCount} did not and are marked below rather than guessed at.
+${issue.dividedVoteCount} divided (non-unanimous, non-procedural) council or committee votes on this issue since ${formatDate(cutoffDate)}. ${clearCount} of those had a clear "what a yea did" direction; ${unclearCount} did not and are marked below rather than guessed at.
 
 ${ISSUE_PAGE_DISCLAIMER}
 
@@ -842,7 +843,7 @@ prefillQuestions: []
 
 # Divided votes by issue
 
-Council doesn't split on most of what it votes on — most motions pass unanimously. These are the issues where it has actually divided since ${issues.cutoffDate}.
+Council doesn't split on most of what it votes on — most motions pass unanimously. These are the issues where it has actually divided since ${formatDate(issues.cutoffDate)}.
 
 | Issue | Divided votes | With a clear direction |
 |-------|:---:|:---:|
@@ -851,7 +852,7 @@ ${rows}
 
 ## Unclassified divided votes
 
-${issues.unclassified.count.toLocaleString()} additional divided motions since ${issues.cutoffDate} were independently classified as not fitting any of the issue clusters above (or as an explicit governance/procedure exclusion), and are not force-fit into one. All ${issues.unclassified.sample.length.toLocaleString()} are listed below:
+${issues.unclassified.count.toLocaleString()} additional divided motions since ${formatDate(issues.cutoffDate)} were independently classified as not fitting any of the issue clusters above (or as an explicit governance/procedure exclusion), and are not force-fit into one. All ${issues.unclassified.sample.length.toLocaleString()} are listed below:
 
 ${sampleRows}
 

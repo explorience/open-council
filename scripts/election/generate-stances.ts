@@ -177,7 +177,7 @@ function loadVerifiedClassifications(): Map<string, VerifiedEntry> {
 
 interface Correction {
   id: string;
-  field: "axis" | "polarity";
+  field: "axis" | "polarity" | "whatAYeaDid";
   was: string | null;
   now: string | null;
   reason: string;
@@ -196,7 +196,11 @@ interface Correction {
  * verdict string itself, since the ORIGINAL verification (verdict,
  * confidence, verifierNote) is still a true record of what that pass
  * concluded — this layer is a correction found afterward, not a rewrite of
- * what was checked at the time. */
+ * what was checked at the time. Round-9 gate item 1: a `whatAYeaDid`
+ * correction (unlike axis/polarity) never sets the field to null — it
+ * replaces one piece of free text with another, fixing a defect in the
+ * classification layer's own prose (an outcome-verb inversion, or a missing
+ * hedge on a Failed motion) without touching axis, polarity, or verdict. */
 function applyCorrections(verified: Map<string, VerifiedEntry>): number {
   if (!fs.existsSync(CORRECTIONS_PATH)) return 0;
   const corrections: Correction[] = JSON.parse(
@@ -222,13 +226,29 @@ function applyCorrections(verified: Map<string, VerifiedEntry>): number {
     // site.
     if (c.field === "axis") {
       entry.axis = c.now;
-    } else {
+    } else if (c.field === "polarity") {
       if (c.now !== null && c.now !== "expansive" && c.now !== "restrictive") {
         throw new Error(
           `corrections.json: ${c.id}.polarity 'now' must be "expansive", "restrictive", or null — got ${JSON.stringify(c.now)}`,
         );
       }
       entry.polarity = c.now;
+    } else {
+      // Round-9 gate item 1: whatAYeaDid corrections fix the classification
+      // layer's own free text in place of a specific defect (an
+      // outcome-verb inversion, or a missing "would have" hedge on a Failed
+      // motion) — see data/election/classify/corrections.json's whatAYeaDid
+      // rows and scripts/election/fix-whataeadid-outcome-inversions.py,
+      // which generated them. Unlike axis/polarity, whatAYeaDid is never
+      // legitimately null (a motion always has SOME description of what
+      // happened, even when it's not direction-bearing), so `now` must be a
+      // non-empty string here.
+      if (typeof c.now !== "string" || c.now.length === 0) {
+        throw new Error(
+          `corrections.json: ${c.id}.whatAYeaDid 'now' must be a non-empty string — got ${JSON.stringify(c.now)}`,
+        );
+      }
+      entry.whatAYeaDid = c.now;
     }
   }
   return corrections.length;
@@ -1071,6 +1091,7 @@ function writeIssuesFile(
     sourceGeneratedAt: allMotionsRaw.generatedAt,
     cutoffDate: CUTOFF_DATE,
     methodology: buildMethodology({
+      cutoffDate: CUTOFF_DATE,
       rosterConflictCount,
       resultMismatchCount,
       notDividedCount,
@@ -1178,6 +1199,20 @@ function recusalAbsentClause(agg: Pick<AxisAgg, "recused" | "absent">): string {
  *  3. Below MIN_PATTERN_SAMPLE_SIZE DISTINCT agenda items, no pattern is
  *     asserted at all — see the distinctItemCount comment above
  *     MIN_PATTERN_SAMPLE_SIZE.
+ *  4. Fixed 2026-08-31 (round-9 gate item 7): a sampleSize of 0 has two very
+ *     different real shapes that used to render identically. Shape A: this
+ *     councillor genuinely cast no yea/nay vote on this axis at all (or
+ *     every one was a recusal/absence) — "No direction-bearing votes cast"
+ *     is accurate there. Shape B: this councillor DID cast recorded
+ *     yea/nay votes on this axis, but every single one landed in a
+ *     same-decision group whose votes pointed in more than one direction
+ *     (an amendment ladder — see renderLadderExclusions in
+ *     generate-hub-pages.ts) and so ALL of them were excluded from the
+ *     tally, not none of them. "No direction-bearing votes cast" is false
+ *     in shape B — votes were cast, and are listed right below this
+ *     sentence — so shape B now gets its own sentence naming the excluded
+ *     count plainly instead of reporting a bare zero that reads as if
+ *     nothing happened.
  */
 function buildPattern(
   agg: Pick<
@@ -1193,10 +1228,14 @@ function buildPattern(
   distinctItemCount: number,
   axisHasExpansive: boolean,
   axisHasRestrictive: boolean,
+  ladderExcludedCount: number,
 ): string {
   const sampleSize =
     agg.yeaExpansive + agg.nayExpansive + agg.yeaRestrictive + agg.nayRestrictive;
   if (sampleSize === 0) {
+    if (ladderExcludedCount > 0) {
+      return `All ${ladderExcludedCount} of this councillor's recorded votes on this axis fall within decisions where their votes pointed in both directions — each is listed below.`;
+    }
     return `No direction-bearing votes cast on this axis since 2023${recusalAbsentClause(agg) || " (recused 0, absent 0)"}.`;
   }
   if (distinctItemCount < MIN_PATTERN_SAMPLE_SIZE) {
@@ -1735,6 +1774,7 @@ function writeStancesFile(
               distinctItemCount,
               presence.expansive,
               presence.restrictive,
+              ladderExclusions.length,
             ),
             ladderExclusions,
             evidence: sortedEvidence,
@@ -1865,6 +1905,7 @@ function writeStancesFile(
     // full rationale, including why the "Window note ... pending a
     // decision" sentence a prior draft had here is gone for good).
     methodology: buildMethodology({
+      cutoffDate: CUTOFF_DATE,
       rosterConflictCount,
       resultMismatchCount: resultMismatches.length,
       notDividedCount,
