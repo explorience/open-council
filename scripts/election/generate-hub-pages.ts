@@ -571,15 +571,33 @@ ${rows}
 function renderIssueSection(issueSlug: string, issue: IssueStance): string {
   const o = issue.overall;
   const axesMd = issue.axes.map(renderAxisSection).join("\n");
-  // Fixed 2026-08-31 (round-4 gate item 4): o.ladderExcluded — real,
-  // on-roster yea/nay votes pulled out of sampleSize/for/against because
-  // they pointed in a different direction than a same-decision sibling
-  // vote (see ladderExclusions per axis, rendered below the pattern) — has
-  // to be included here or divisionsInCorpus no longer equals onRoster +
-  // notOnRoster, breaking the page's own stated arithmetic invariant the
-  // moment any axis has an exclusion.
-  const onRoster =
-    o.sampleSize + o.recused + o.absent + o.abstain + o.other + o.ladderExcluded;
+
+  // Fixed 2026-08-31 (round-7 gate item 2, the round-5 defect's third
+  // form): a "recorded position" is a recorded YEA OR NAY, nothing else.
+  // Earlier wording folded recused/absent/abstain/other into "has a
+  // recorded position on N of them" — those are recorded STATUSES, not
+  // positions, and the page's own footer already says so ("a recusal...
+  // is shown separately... and never counted as a position"); this
+  // sentence used to contradict that footer outright. N = o.sampleSize
+  // (real yea/nay votes counted in the pattern above) + o.ladderExcluded
+  // (real yea/nay votes this councillor actually cast, pulled out of the
+  // pattern tally only because they pointed a different way than a
+  // same-decision sibling vote — still a recorded position, just excluded
+  // from pattern aggregation, so it's disclosed with its own parenthetical
+  // rather than silently absorbed into or dropped from N). Recused,
+  // absent, abstained, and other are reported in their own clause below,
+  // never counted toward N — this is the same arithmetic the evidence
+  // tables and the page footer already use (divisionsInCorpus === N +
+  // recused + absent + abstain + other + notOnRoster), just finally
+  // reflected in this sentence too. See verify-n-semantics.py for the
+  // corpus-wide check that the section sentence, the footer, and every
+  // axis's evidence table agree on these buckets.
+  const recordedPositionCount = o.sampleSize + o.ladderExcluded;
+  const ladderPositionNote =
+    o.ladderExcluded > 0
+      ? ` (${o.ladderExcluded} of these are excluded from the pattern counts — see below)`
+      : "";
+  const nonPositionClause = ` ${o.recused} recused, ${o.absent} absent${o.abstain || o.other ? `, ${o.abstain} abstained, ${o.other} other` : ""}.`;
 
   // Fixed 2026-08-31 (round-6 gate BLOCKER: the round-5 fix INVERTED this
   // claim instead of eliminating it — "was on the roster for" / "attended
@@ -615,19 +633,9 @@ function renderIssueSection(issueSlug: string, issue: IssueStance): string {
 
   const caveat = issueSlug === "budget" ? BUDGET_CAVEAT : "";
 
-  // Fixed 2026-08-31 (round-4 gate item 4): o.ladderExcluded votes are real
-  // yea/nay positions this councillor took — shown in the sentence rather
-  // than silently folded into "yea or nay" (which now means "yea or nay
-  // AND counted in the pattern above") or left for the reader to notice
-  // only in a per-axis footnote several screens down.
-  const ladderClause =
-    o.ladderExcluded > 0
-      ? `, ${o.ladderExcluded} more excluded from the patterns above (their vote pointed a different way than a same-decision sibling vote — see the note under the relevant axis)`
-      : "";
-
   return `### [${issue.issueLabel}](/election/issues/${issueSlug})
 
-*Of the ${issue.divisionsInCorpus} divided votes on this issue since 2023 that had a clear direction, this councillor has a recorded position on ${onRoster} of them: ${o.sampleSize} yea or nay, ${o.recused} recused, ${o.absent} absent${o.abstain || o.other ? `, ${o.abstain} abstained, ${o.other} other` : ""}${ladderClause}.${notOnRosterClause}*${caveat}
+*Of the ${issue.divisionsInCorpus} divided votes on this issue since 2023 that had a clear direction, this councillor has a recorded position on ${recordedPositionCount} of them${ladderPositionNote}.${nonPositionClause}${notOnRosterClause}*${caveat}
 
 ${axesMd}
 ${renderUnclearSection(issue)}`;
