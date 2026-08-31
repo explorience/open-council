@@ -25,16 +25,16 @@ Zoning and the budget, yes. Policing and healthcare, mostly not. [Read the plain
 
 ## Divided votes by issue
 
-These are the issues where council has actually split since 2023 — where a vote wasn't unanimous, and wasn't purely procedural. 659 additional divided motions since 2023 matched none of these issue clusters and are not force-fit into one; all of them are listed on the [issues page](/election/issues).
+These are the issues where council has actually split since 2023 — where a vote wasn't unanimous, and wasn't purely procedural. 463 additional divided motions since 2023 matched none of these issue clusters and are not force-fit into one; all of them are listed on the [issues page](/election/issues).
 
-- [Housing & Density](/election/issues/housing) — 185 divided votes since 2023, 41 with a clear direction
-- [Taxes & Budget](/election/issues/budget) — 120 divided votes since 2023, 42 with a clear direction
-- [Transit & Roads](/election/issues/transit) — 40 divided votes since 2023, 3 with a clear direction
-- [Homelessness & Encampments](/election/issues/encampments) — 36 divided votes since 2023, 9 with a clear direction
-- [Downtown & Core](/election/issues/downtown) — 18 divided votes since 2023, 6 with a clear direction
-- [Climate & Green Space](/election/issues/climate) — 16 divided votes since 2023, 3 with a clear direction
-- [Bike Lanes / Cycling](/election/issues/bikes) — 11 divided votes since 2023, 9 with a clear direction
-- [Policing](/election/issues/policing) — 7 divided votes since 2023, 2 with a clear direction
+- [Housing & Density](/election/issues/housing) — 229 divided votes since 2023, 137 with a clear direction
+- [Homelessness & Encampments](/election/issues/encampments) — 131 divided votes since 2023, 60 with a clear direction
+- [Taxes & Budget](/election/issues/budget) — 114 divided votes since 2023, 94 with a clear direction
+- [Transit & Roads](/election/issues/transit) — 61 divided votes since 2023, 38 with a clear direction
+- [Climate & Green Space](/election/issues/climate) — 35 divided votes since 2023, 16 with a clear direction
+- [Downtown & Core](/election/issues/downtown) — 24 divided votes since 2023, 15 with a clear direction
+- [Bike Lanes / Cycling](/election/issues/bikes) — 18 divided votes since 2023, 13 with a clear direction
+- [Policing](/election/issues/policing) — 14 divided votes since 2023, 6 with a clear direction
 
 ## Councillor stance profiles
 
@@ -60,4 +60,4 @@ Only sitting councillors appear here, because only sitting councillors have a co
 
 ---
 
-*Methodology: a "divided" vote is any non-unanimous, non-procedural council or committee motion since 2023-01-01. Issue and direction ("what a yea did") are derived from each motion's own text using a fixed, deterministic set of rules, not assumed from topic and not a case-by-case judgment call — see the [issues page](/election/issues) for the exact counts and the unclassified/unclear disclosure.*
+*Methodology: a "divided" vote is any non-unanimous, non-procedural council or committee motion since 2023-01-01. Issue and direction ("what a yea did") are read from each motion's own complete text — not just the agenda item's title — and independently verified motion by motion, not assumed from topic. See the [issues page](/election/issues) for the exact counts and the unclassified/unclear disclosure.*

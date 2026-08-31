@@ -1,0 +1,34 @@
+{
+  "generatedAt": "2026-08-31T13:15:33.266Z",
+  "note": "Motions dropped from the divided-vote universe because the classify pipeline's own verification pass flagged them 'not_divided': either the recorded tally has zero votes on one side (a lopsided-but-technically-not-flagged-unanimous result the source data's own 'unanimous' boolean missed), or the exact same motion is recorded twice under two different agenda item numbers (which would otherwise double-count one real decision). See each motion's own verifierNote in data/election/classify/batch-*-verified.json for the specific reason. Never guessed at or silently kept.",
+  "count": 3,
+  "motions": [
+    {
+      "id": "e413fccfdb92",
+      "date": "2025-11-12",
+      "meetingSlug": "months/2025-11/2025-11-12 The 17th Meeting of the Planning and Environment Committee",
+      "itemNumber": "3.6",
+      "itemTitle": "Amendments to Home Occupation - Z-25103 ",
+      "result": "Motion Failed (0 to 5)",
+      "verifierNote": "REFUTED (issue). The clause permits home occupations to produce low-risk home-prepared foods and employ up to three non-resident staff — this is home-based-business/commercial-licensing regulation, not a housing-supply, density, or dwelling-type question. The housing/use-permission axis in direction-rules.ts is built around dwelling types (ADU, secondary suite, triplex, townhouse, laneway house) — a home food-business employment rule doesn't fit that concept even loosely; only the itemTitle's Z-25103 structural code triggers the housing classification here, over content that isn't really about housing at all. Downstream, tagging this a 'housing/restrictive' position for the unanimous nays would misrepresent what they voted against (permitting home food businesses to hire staff, not permitting more homes). Since the vote was unanimous (0-5), no comparative signal is lost by downgrading. axis/polarity set to null; issue left as housing per the documented code-pattern precedent but this entry should be treated as a genuine edge case in that rule."
+    },
+    {
+      "id": "3afb7e2cad1f",
+      "date": "2025-08-26",
+      "meetingSlug": "months/2025-08/2025-08-26 14th Council Meeting",
+      "itemNumber": "8.1.16",
+      "itemTitle": "(4.6) Residential Rental Unit Licensing By-law",
+      "result": "Motion Failed (0 to 15)",
+      "verifierNote": "Independently reviewed against manifest+full motion text; correctly left unclear (informational-ask/procedural/referral/deferral with no operative approve-or-deny content, or no substantive tie to a tracked issue) — no clear missed direction found."
+    },
+    {
+      "id": "95ba36df27f0",
+      "date": "2023-10-03",
+      "meetingSlug": "months/2023-10/2023-10-03 16th Meeting of the Planning and Environment Committee",
+      "itemNumber": "5.1",
+      "itemTitle": "Deferred Matters List",
+      "result": "Motion Failed (2 to 2)",
+      "verifierNote": "Verified against 2023-10-03 PEC item 5.1, second motion (Failed 2-2). Confirmed the not_divided flag is accurate: this motion's text and vote (Yeas: Morgan/Franke; Nays: Lewis/Lehman) are byte-for-byte identical to 7cd53063b2f0's, recorded under two item numbers (4.1 and 5.1) for what is genuinely one motion moved once covering both items. Correctly null; flag correctly prevents downstream double-counting."
+    }
+  ]
+}
