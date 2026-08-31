@@ -31,7 +31,7 @@ Sources: [Ontario, Strong Mayors, Building Homes Act, 2022, S.O. 2022, c. 18 (Ca
 
 Source: [City of London, By-Laws](https://london.ca/by-laws)
 
-**Transit.** London's bus system is operated by the London Transit Commission, a seven-member body appointed by council (including sitting councillors) under a by-law made under the City of London Act. Council does not make day-to-day transit decisions, but it appoints the Commission, approves its budget and sets the broader policy direction the LTC works within.
+**Transit.** London's bus system is operated by the London Transit Commission, a seven-person board appointed by council (including sitting councillors) under a by-law made under the City of London Act. Council does not make day-to-day transit decisions, but it appoints the Commission, approves its budget and sets the broader policy direction the LTC works within.
 
 Source: [London Transit Commission, Commission Information](https://www.londontransit.ca/commission-information/)
 
@@ -63,7 +63,7 @@ Sources: [Government of Canada, Canada Health Act Annual Report](https://www.can
 
 Source: [Ontario, Responsibility for Publicly Funded Elementary and Secondary Education](https://www.ontario.ca/page/responsibility-publicly-funded-elementary-and-secondary-education)
 
-**Planning appeals.** Even a council zoning decision is not necessarily final. The Ontario Land Tribunal, a provincial adjudicative body, hears appeals from applicants or members of the public and has the power to overturn or amend a zoning by-law or official plan amendment that council has already passed.
+**Planning appeals.** Even a council zoning decision is not necessarily final. The Ontario Land Tribunal, a provincial adjudicative body, hears appeals from applicants or the public and has the power to overturn or amend a zoning by-law or official plan amendment that council has already passed.
 
 Sources: [Ontario, Citizen's Guide to Land Use Planning: The Ontario Land Tribunal](https://www.ontario.ca/document/citizens-guide-land-use-planning/ontario-land-tribunal) · [Ontario Land Tribunal, Appeal Guide 2023](https://olt.gov.on.ca/wp-content/uploads/2023/02/Appeal_Guide_2023.pdf)
 

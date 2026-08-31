@@ -2,6 +2,7 @@
 title: "Councillor Stance Profiles — Election Lens"
 cssclasses:
   - election-hub
+  - hide-folder-listing
 prefillQuestions: []
 ---
 

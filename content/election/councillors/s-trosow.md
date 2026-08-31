@@ -15,7 +15,7 @@ Councillor, Ward 6 (2022–2026 boundaries) · [Full voting record on Open Counc
 
 ### [Housing & Density](/election/issues/housing)
 
-*Of the 136 divided votes on this issue since 2023 that had a clear direction, this councillor was on the roster for 88: 77 yea or nay, 0 recused, 8 absent, 3 more excluded from the patterns above (their vote pointed a different way than a same-decision sibling vote — see the note under the relevant axis). The other 48: 21 were motions at a meeting this councillor attended as an observer (only committee members vote); 27 were motions with no recorded vote for this councillor at that meeting.*
+*Of the 136 divided votes on this issue since 2023 that had a clear direction, this councillor has a recorded position on 88 of them: 77 yea or nay, 0 recused, 8 absent, 3 more excluded from the patterns above (their vote pointed a different way than a same-decision sibling vote — see the note under the relevant axis). The other 48: 21 were motions at a meeting where this councillor was listed as also present (no vote recorded); 27 were motions with no recorded vote for this councillor at that meeting.*
 
 #### approved the development, rezoning, or housing-policy item vs. denied the development, rezoning, or housing-policy item
 
@@ -254,7 +254,7 @@ Of 6 divided votes since 2023 where the motion's effect on this axis was clear, 
 
 ### [Taxes & Budget](/election/issues/budget)
 
-*Of the 86 divided votes on this issue since 2023 that had a clear direction, this councillor was on the roster for 85: 68 yea or nay, 0 recused, 2 absent, 15 more excluded from the patterns above (their vote pointed a different way than a same-decision sibling vote — see the note under the relevant axis). The other 1: 1 was a motion at a meeting this councillor attended as an observer (only committee members vote).*
+*Of the 86 divided votes on this issue since 2023 that had a clear direction, this councillor has a recorded position on 85 of them: 68 yea or nay, 0 recused, 2 absent, 15 more excluded from the patterns above (their vote pointed a different way than a same-decision sibling vote — see the note under the relevant axis). The other 1: 1 was a motion at a meeting where this councillor was listed as also present (no vote recorded).*
 
 > Budget votes since 2024 are votes on **amendments** to the Mayor's tabled budget under Ontario's strong-mayor powers, not on an independently council-drafted budget — see [what that changes about what a budget vote means](/election/what-council-controls#who-tables-the-budget).
 
@@ -445,7 +445,7 @@ Only 1 distinct decision since 2023 — too few to describe a pattern. The indiv
 
 ### [Homelessness & Encampments](/election/issues/encampments)
 
-*Of the 59 divided votes on this issue since 2023 that had a clear direction, this councillor was on the roster for 58: 42 yea or nay, 0 recused, 2 absent, 14 more excluded from the patterns above (their vote pointed a different way than a same-decision sibling vote — see the note under the relevant axis). The other 1: 1 was a motion at a meeting this councillor attended as an observer (only committee members vote).*
+*Of the 59 divided votes on this issue since 2023 that had a clear direction, this councillor has a recorded position on 58 of them: 42 yea or nay, 0 recused, 2 absent, 14 more excluded from the patterns above (their vote pointed a different way than a same-decision sibling vote — see the note under the relevant axis). The other 1: 1 was a motion at a meeting where this councillor was listed as also present (no vote recorded).*
 
 #### expanded the encampment/homelessness response vs. reduced the encampment/homelessness response
 
@@ -639,7 +639,7 @@ Only 2 distinct decisions since 2023 (6 recorded votes across them) — too few 
 
 ### [Transit & Roads](/election/issues/transit)
 
-*Of the 41 divided votes on this issue since 2023 that had a clear direction, this councillor was on the roster for 34: 23 yea or nay, 0 recused, 2 absent, 9 more excluded from the patterns above (their vote pointed a different way than a same-decision sibling vote — see the note under the relevant axis). The other 7: 2 were motions at a meeting this councillor attended as an observer (only committee members vote); 5 were motions with no recorded vote for this councillor at that meeting.*
+*Of the 41 divided votes on this issue since 2023 that had a clear direction, this councillor has a recorded position on 34 of them: 23 yea or nay, 0 recused, 2 absent, 9 more excluded from the patterns above (their vote pointed a different way than a same-decision sibling vote — see the note under the relevant axis). The other 7: 2 were motions at a meeting where this councillor was listed as also present (no vote recorded); 5 were motions with no recorded vote for this councillor at that meeting.*
 
 #### expanded transit or road service/infrastructure vs. reduced transit or road service/infrastructure
 
@@ -742,7 +742,7 @@ Of 12 divided votes since 2023 where the motion's effect on this axis was clear,
 
 ### [Climate & Green Space](/election/issues/climate)
 
-*Of the 17 divided votes on this issue since 2023 that had a clear direction, this councillor was on the roster for 13: 13 yea or nay, 0 recused, 0 absent. The other 4: 2 were motions at a meeting this councillor attended as an observer (only committee members vote); 2 were motions with no recorded vote for this councillor at that meeting.*
+*Of the 17 divided votes on this issue since 2023 that had a clear direction, this councillor has a recorded position on 13 of them: 13 yea or nay, 0 recused, 0 absent. The other 4: 2 were motions at a meeting where this councillor was listed as also present (no vote recorded); 2 were motions with no recorded vote for this councillor at that meeting.*
 
 #### approved the climate/environmental item vs. denied the climate/environmental item
 
@@ -829,7 +829,7 @@ Only 2 distinct decisions since 2023 — too few to describe a pattern. The indi
 
 ### [Downtown & Core](/election/issues/downtown)
 
-*Of the 16 divided votes on this issue since 2023 that had a clear direction, this councillor was on the roster for 16: 16 yea or nay, 0 recused, 0 absent.*
+*Of the 16 divided votes on this issue since 2023 that had a clear direction, this councillor has a recorded position on 16 of them: 16 yea or nay, 0 recused, 0 absent.*
 
 #### approved the downtown/core-area item vs. denied the downtown/core-area item
 
@@ -882,7 +882,7 @@ Of 16 divided votes since 2023 where the motion's effect on this axis was clear,
 
 ### [Bike Lanes / Cycling](/election/issues/bikes)
 
-*Of the 13 divided votes on this issue since 2023 that had a clear direction, this councillor was on the roster for 13: 1 yea or nay, 0 recused, 0 absent, 12 more excluded from the patterns above (their vote pointed a different way than a same-decision sibling vote — see the note under the relevant axis).*
+*Of the 13 divided votes on this issue since 2023 that had a clear direction, this councillor has a recorded position on 13 of them: 1 yea or nay, 0 recused, 0 absent, 12 more excluded from the patterns above (their vote pointed a different way than a same-decision sibling vote — see the note under the relevant axis).*
 
 #### approved new cycling infrastructure vs. removed or denied cycling infrastructure
 
@@ -932,7 +932,7 @@ Only 1 distinct decision since 2023 — too few to describe a pattern. The indiv
 
 ### [Policing](/election/issues/policing)
 
-*Of the 6 divided votes on this issue since 2023 that had a clear direction, this councillor was on the roster for 6: 6 yea or nay, 0 recused, 0 absent.*
+*Of the 6 divided votes on this issue since 2023 that had a clear direction, this councillor has a recorded position on 6 of them: 6 yea or nay, 0 recused, 0 absent.*
 
 #### increased the police budget or complement vs. reduced the police budget or complement
 
@@ -975,3 +975,7 @@ Only 4 distinct decisions since 2023 (6 recorded votes across them) — too few 
 ---
 
 *Sample sizes above count only votes where Sam Trosow cast a yea or nay on a motion the verified per-motion classification (see [methodology](/election/issues)) could place on a clear "for"/"against" axis. A recusal means the councillor formally withdrew from discussing and voting on that item — this data does not record why, so no reason is asserted here — and, like an absence, is shown separately in each issue's summary line and never counted as a position. Only sitting councillors get a stance profile on this hub; challengers don't yet have a council voting record to summarize.*
+
+---
+
+*Methodology: Per councillor per issue per axis: 'for' = their vote aligned with the axis's expansive/permissive outcome, 'against' = aligned with its restrictive outcome — but the rendered pattern sentence never collapses a nay into the language of an enacted action (see movedTowardText/buildPattern in generate-stances.ts): a nay on an expansive motion is described as opposing that motion, never as having performed the restrictive act, and vice versa. When an axis's WHOLE corpus since 2023 only ever contains motions of one polarity, the pattern sentence says so plainly instead of reporting a silent '0' on the missing side. Axis and polarity for every motion come from data/election/classify/batch-*-verified.json (a per-motion classification independently verified against each motion's own complete text in the source meeting record), with a small, published corrections layer (data/election/classify/corrections.json) applied on top for specific defects found after verification — never a silent edit to the verified batches. This is a genuine translation of what the clause did, not raw yea/nay, on every axis including the generic 'approved/denied the item' fallback used when no issue-specific content axis applies. Recusals and absences are counted separately, never folded into 'against' and never inferred as a position. Below 5 DISTINCT DECISIONS on an axis (committee and council votes on the same policy decision, identified by matching agenda-item title or business-case number within 60 days, count as one decision — not one per meeting stage), no pattern sentence is asserted; the individual votes are still shown. Motions the classify pipeline confirmed but left with no clear direction (a referral, an informational ask, or a corrections.json downgrade) are listed per issue as 'unclear' evidence — never counted in any pattern or sample size, but not hidden either. A councillor with no entry for a motion has no recorded vote for them on that motion in the source data — this hub makes no claim about why, in either direction, because no source in this repo says who belongs to which committee (that list is not scraped from anywhere; a meeting's present/remote_attendance/absent fields record who attended that day, not who belongs to the body). Two things are reported for a missing position, both read directly from the raw meeting record and nothing else: whether that meeting's own `also_present` field names this councillor — they were in the room, but no vote was recorded for them that day — or whether nothing else can be said at all (no vote captured, no claim made about why). Motions whose own minuted result disagrees with its parsed vote arrays, or that the classify pipeline flagged not a genuine division, are excluded entirely before any of this — see result-mismatches.json, not-divided.json, and each councillor's resultMismatchesExcluding count. Each motion is classified under exactly one issue, so a motion touching two topics (e.g. a housing motion with a budget line) appears on one issue page only, never both. Source text where a hash character is immediately followed by a business-case or item number (as in a title reading 'Business Case', then a hash, then 'P-5') displays on this hub with that hash replaced by the word 'No.' instead, so it reads 'Business Case No. P-5' — a display normalization to avoid the character being misread as a tag link, not a change to the underlying verbatim text.*

@@ -2,6 +2,7 @@
 title: "The Election Lens"
 cssclasses:
   - election-hub
+  - hide-folder-listing
 prefillQuestions: []
 ---
 
@@ -38,7 +39,7 @@ These are the issues where council has actually split since 2023 — where a vot
 
 ## Councillor stance profiles
 
-Full voting pattern per councillor per issue, current council (15 members: the Mayor plus 14 ward councillors). Every pattern sentence links to its evidence.
+Full voting pattern per councillor per issue, current council (the Mayor plus 14 ward councillors, 15 seats in total). Every pattern sentence links to its evidence.
 
 Only sitting councillors appear here, because only sitting councillors have a council voting record to summarize. Challengers are not covered, and their absence from these pages is not a judgement about them. For everyone actually on your ballot, see the City Clerk's certified list of candidates (linked on the [ward finder](/election/wards)).
 

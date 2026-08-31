@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T16:57:01.780Z",
+  "generatedAt": "2026-08-31T17:31:57.784Z",
   "sourceHash": "b7db59b827637e80",
   "sourceGeneratedAt": "2026-08-31T05:18:27.112Z",
   "cutoffDate": "2023-01-01",
@@ -61,7 +61,8 @@
             "s-hillier": "yea",
             "s-franke": "nay",
             "e-peloza": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "c884af5b7ed6",
@@ -109,7 +110,8 @@
             "d-ferreira": "yea",
             "s-hillier": "yea",
             "s-franke": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "f1e67ede69ac",
@@ -151,7 +153,8 @@
             "d-ferreira": "yea",
             "c-rahman": "nay",
             "j-morgan": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "91eb206075d8",
@@ -202,7 +205,8 @@
             "s-stevenson": "nay",
             "s-lewis": "absent",
             "s-trosow": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "d328160d258a",
@@ -253,7 +257,8 @@
             "p-van-meerbergen": "nay",
             "e-peloza": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "68a1969eb4ee",
@@ -304,7 +309,8 @@
             "d-ferreira": "yea",
             "s-hillier": "yea",
             "s-trosow": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "2d5c7d690858",
@@ -353,7 +359,8 @@
             "s-lehman": "nay",
             "p-van-meerbergen": "nay",
             "e-peloza": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "7bb597179dbc",
@@ -399,7 +406,8 @@
             "s-franke": "nay",
             "e-peloza": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "24d580d71e55",
@@ -445,7 +453,8 @@
             "d-ferreira": "yea",
             "s-hillier": "yea",
             "s-stevenson": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "30d74e2a7ba7",
@@ -493,7 +502,8 @@
             "s-franke": "nay",
             "e-peloza": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "c11a27095483",
@@ -539,7 +549,8 @@
             "s-franke": "nay",
             "e-peloza": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "ccd852275515",
@@ -579,7 +590,8 @@
             "s-lewis": "nay",
             "j-pribil": "nay",
             "e-peloza": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "5300911742f0",
@@ -619,7 +631,8 @@
             "e-peloza": "yea",
             "d-ferreira": "yea",
             "s-lewis": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "b4e5ab806f41",
@@ -659,7 +672,8 @@
             "d-ferreira": "yea",
             "s-lewis": "nay",
             "e-peloza": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "c9e3b7f7b362",
@@ -699,7 +713,8 @@
             "d-ferreira": "yea",
             "s-lewis": "nay",
             "j-pribil": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "8f88260bbc7b",
@@ -743,7 +758,8 @@
             "d-ferreira": "yea",
             "a-hopkins": "nay",
             "e-peloza": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "1a8f5640663c",
@@ -782,7 +798,8 @@
             "a-hopkins": "nay",
             "e-peloza": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "9a23fffc91d3",
@@ -821,7 +838,8 @@
             "d-ferreira": "yea",
             "s-lewis": "nay",
             "j-pribil": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "0af18c13bd47",
@@ -860,7 +878,8 @@
             "a-hopkins": "nay",
             "e-peloza": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "cc2a45812971",
@@ -906,7 +925,8 @@
             "s-trosow": "absent",
             "a-hopkins": "absent",
             "e-peloza": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "0d6178fd82e4",
@@ -954,7 +974,8 @@
             "p-van-meerbergen": "nay",
             "s-hillier": "nay",
             "a-hopkins": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "ed4f4a5e9b2e",
@@ -1002,7 +1023,8 @@
             "p-van-meerbergen": "nay",
             "s-hillier": "nay",
             "a-hopkins": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "e92845765097",
@@ -1050,7 +1072,8 @@
             "s-lehman": "nay",
             "p-van-meerbergen": "nay",
             "a-hopkins": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "2c867433409e",
@@ -1103,7 +1126,8 @@
             "d-ferreira": "yea",
             "s-hillier": "yea",
             "s-stevenson": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "2d077b0b72af",
@@ -1151,7 +1175,8 @@
             "s-franke": "nay",
             "e-peloza": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "e070b52f1e95",
@@ -1199,7 +1224,8 @@
             "s-franke": "nay",
             "e-peloza": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "67dcef32267d",
@@ -1243,7 +1269,8 @@
             "j-pribil": "yea",
             "d-ferreira": "yea",
             "s-trosow": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "f0be8624ec75",
@@ -1291,7 +1318,8 @@
             "s-trosow": "nay",
             "e-peloza": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "353b10e65673",
@@ -1339,7 +1367,8 @@
             "s-trosow": "nay",
             "e-peloza": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "1e6dd1535ed7",
@@ -1387,7 +1416,8 @@
             "e-peloza": "nay",
             "d-ferreira": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "28e03e7c3f6d",
@@ -1435,7 +1465,8 @@
             "s-trosow": "nay",
             "e-peloza": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "bb74084d4b6c",
@@ -1486,7 +1517,8 @@
             "s-franke": "nay",
             "e-peloza": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "f9a30eceb5b1",
@@ -1537,7 +1569,8 @@
             "d-ferreira": "yea",
             "s-hillier": "yea",
             "s-stevenson": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "24c2da556dc5",
@@ -1578,7 +1611,8 @@
             "s-trosow": "yea",
             "d-ferreira": "yea",
             "p-cuddy": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "c3e045940910",
@@ -1627,7 +1661,8 @@
             "c-rahman": "nay",
             "s-lehman": "nay",
             "e-peloza": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "fa154ae19f7b",
@@ -1676,7 +1711,8 @@
             "d-ferreira": "yea",
             "s-hillier": "yea",
             "e-peloza": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "ab8c0a2b000c",
@@ -1724,7 +1760,8 @@
             "s-franke": "nay",
             "e-peloza": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "0f3d27aee05c",
@@ -1777,7 +1814,8 @@
             "d-ferreira": "yea",
             "s-hillier": "yea",
             "s-trosow": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "e3801f6411ff",
@@ -1831,7 +1869,8 @@
             "d-ferreira": "yea",
             "s-hillier": "yea",
             "s-trosow": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "4a0ac7ff43c4",
@@ -1869,7 +1908,8 @@
             "j-pribil": "yea",
             "s-trosow": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "d2ed469d2746",
@@ -1922,7 +1962,8 @@
             "j-pribil": "nay",
             "s-lehman": "nay",
             "p-van-meerbergen": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "16bd4996712e",
@@ -1973,7 +2014,8 @@
             "d-ferreira": "yea",
             "s-hillier": "nay",
             "p-van-meerbergen": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "1c0f60d005b5",
@@ -2026,7 +2068,8 @@
             "s-lehman": "nay",
             "s-hillier": "nay",
             "p-van-meerbergen": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "27ff763d65d2",
@@ -2079,7 +2122,8 @@
             "a-hopkins": "nay",
             "d-ferreira": "nay",
             "p-van-meerbergen": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "d859c6b820e8",
@@ -2132,7 +2176,8 @@
             "e-peloza": "nay",
             "d-ferreira": "nay",
             "p-van-meerbergen": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "880ec0684742",
@@ -2180,7 +2225,8 @@
             "d-ferreira": "yea",
             "s-stevenson": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "4153aca17ce9",
@@ -2231,7 +2277,8 @@
             "s-franke": "nay",
             "e-peloza": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "d80fd24c6511",
@@ -2270,7 +2317,8 @@
             "s-trosow": "nay",
             "j-morgan": "absent",
             "d-ferreira": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "3f10a2dfc14b",
@@ -2312,7 +2360,8 @@
             "j-pribil": "nay",
             "j-morgan": "absent",
             "d-ferreira": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "2a7542829244",
@@ -2363,7 +2412,8 @@
             "j-morgan": "absent",
             "j-pribil": "absent",
             "s-franke": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "d2aa95b9049a",
@@ -2414,7 +2464,8 @@
             "j-morgan": "absent",
             "j-pribil": "absent",
             "s-franke": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "09630c801f1f",
@@ -2463,7 +2514,8 @@
             "j-morgan": "absent",
             "j-pribil": "absent",
             "s-franke": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "cf4aa6b663e1",
@@ -2511,7 +2563,8 @@
             "j-morgan": "absent",
             "j-pribil": "absent",
             "s-franke": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "32bc05b2830a",
@@ -2559,7 +2612,8 @@
             "j-morgan": "absent",
             "j-pribil": "absent",
             "s-franke": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "00c2d075be6f",
@@ -2607,7 +2661,8 @@
             "s-lehman": "nay",
             "p-van-meerbergen": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "f34cfd9a6dca",
@@ -2653,7 +2708,8 @@
             "s-stevenson": "nay",
             "p-van-meerbergen": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "903ec5aeea8a",
@@ -2704,7 +2760,8 @@
             "s-lewis": "nay",
             "a-hopkins": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "291927c27356",
@@ -2755,7 +2812,8 @@
             "s-franke": "nay",
             "e-peloza": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "be5e61eb6240",
@@ -2803,7 +2861,8 @@
             "p-van-meerbergen": "nay",
             "e-peloza": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "e3e298593604",
@@ -2854,7 +2913,8 @@
             "s-franke": "nay",
             "e-peloza": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "5c6d802b2c95",
@@ -2905,7 +2965,8 @@
             "s-lehman": "nay",
             "e-peloza": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "4d07f4f1ca77",
@@ -2951,7 +3012,8 @@
             "p-van-meerbergen": "nay",
             "e-peloza": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "fc2f9833ce19",
@@ -2997,7 +3059,8 @@
             "s-franke": "nay",
             "e-peloza": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "0b282e309c77",
@@ -3045,7 +3108,8 @@
             "d-ferreira": "yea",
             "s-hillier": "yea",
             "p-cuddy": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "f6b15af2f61b",
@@ -3093,7 +3157,8 @@
             "d-ferreira": "yea",
             "s-hillier": "yea",
             "s-stevenson": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "c50fe8ae97ad",
@@ -3144,7 +3209,8 @@
             "c-rahman": "nay",
             "s-lehman": "nay",
             "p-van-meerbergen": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "6a1d7d9442f6",
@@ -3192,7 +3258,8 @@
             "p-van-meerbergen": "nay",
             "e-peloza": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "0b898d04d289",
@@ -3238,7 +3305,8 @@
             "d-ferreira": "yea",
             "s-hillier": "yea",
             "s-stevenson": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "545ba91fad80",
@@ -3289,7 +3357,8 @@
             "s-stevenson": "nay",
             "a-hopkins": "nay",
             "e-peloza": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "cf1bee35ff2d",
@@ -3335,7 +3404,8 @@
             "s-lehman": "nay",
             "p-van-meerbergen": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "611ddd612095",
@@ -3386,7 +3456,8 @@
             "s-franke": "nay",
             "e-peloza": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "c7dbb0e5cb42",
@@ -3434,7 +3505,8 @@
             "p-van-meerbergen": "nay",
             "e-peloza": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "41ec8865db2d",
@@ -3485,7 +3557,8 @@
             "s-franke": "nay",
             "e-peloza": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "17559b89d384",
@@ -3536,7 +3609,8 @@
             "s-stevenson": "nay",
             "s-lehman": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "5fbfa7c6b7b7",
@@ -3587,7 +3661,8 @@
             "s-franke": "absent",
             "e-peloza": "absent",
             "s-hillier": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "5e62ba894f1c",
@@ -3635,7 +3710,8 @@
             "d-ferreira": "nay",
             "e-peloza": "absent",
             "s-hillier": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "d19c37b398d4",
@@ -3686,7 +3762,8 @@
             "d-ferreira": "nay",
             "e-peloza": "absent",
             "s-hillier": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "24c227e2c3dd",
@@ -3732,7 +3809,8 @@
             "s-hillier": "yea",
             "s-stevenson": "nay",
             "e-peloza": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "4249874ccbdb",
@@ -3780,7 +3858,8 @@
             "s-hillier": "yea",
             "s-trosow": "nay",
             "e-peloza": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "26af775dc1b8",
@@ -3831,7 +3910,8 @@
             "d-ferreira": "yea",
             "s-hillier": "yea",
             "s-trosow": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "a8ea434f40d5",
@@ -3879,7 +3959,8 @@
             "c-rahman": "nay",
             "s-lehman": "nay",
             "p-van-meerbergen": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "72730f1d4cfb",
@@ -3927,7 +4008,8 @@
             "s-stevenson": "nay",
             "p-van-meerbergen": "nay",
             "s-franke": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "a0899f595ca6",
@@ -3975,7 +4057,8 @@
             "p-van-meerbergen": "nay",
             "s-franke": "nay",
             "e-peloza": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "6c435c184251",
@@ -4023,7 +4106,8 @@
             "p-van-meerbergen": "nay",
             "s-franke": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "0e2c478ec1f4",
@@ -4071,7 +4155,8 @@
             "c-rahman": "nay",
             "a-hopkins": "nay",
             "s-franke": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "72280213a85e",
@@ -4119,7 +4204,8 @@
             "a-hopkins": "nay",
             "p-van-meerbergen": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "56ec9c413165",
@@ -4167,7 +4253,8 @@
             "a-hopkins": "nay",
             "p-van-meerbergen": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "cddd1bf98620",
@@ -4215,7 +4302,8 @@
             "p-van-meerbergen": "nay",
             "s-hillier": "nay",
             "e-peloza": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "79e6b8d45a67",
@@ -4263,7 +4351,8 @@
             "p-van-meerbergen": "nay",
             "s-hillier": "nay",
             "j-morgan": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "a15f6fd3d7c1",
@@ -4314,7 +4403,8 @@
             "d-ferreira": "yea",
             "s-hillier": "yea",
             "s-stevenson": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "0051377a8d37",
@@ -4365,7 +4455,8 @@
             "d-ferreira": "yea",
             "s-hillier": "yea",
             "s-stevenson": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "771dced03d96",
@@ -4416,7 +4507,8 @@
             "d-ferreira": "yea",
             "s-hillier": "yea",
             "s-lewis": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "9810884a7f8a",
@@ -4467,7 +4559,8 @@
             "d-ferreira": "yea",
             "s-hillier": "yea",
             "s-stevenson": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "6baeec3d4c4d",
@@ -4518,7 +4611,8 @@
             "d-ferreira": "yea",
             "s-hillier": "yea",
             "s-lewis": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "45c5eb8c90a7",
@@ -4569,7 +4663,8 @@
             "e-peloza": "nay",
             "d-ferreira": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "fb01e95ff537",
@@ -4617,7 +4712,8 @@
             "e-peloza": "nay",
             "d-ferreira": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "88ae9c2045ab",
@@ -4666,7 +4762,8 @@
             "e-peloza": "nay",
             "d-ferreira": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "ab1f56cc2b97",
@@ -4719,7 +4816,8 @@
             "d-ferreira": "yea",
             "s-hillier": "yea",
             "s-stevenson": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "f4915939f4bf",
@@ -4767,7 +4865,8 @@
             "s-hillier": "yea",
             "s-stevenson": "nay",
             "e-peloza": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "70a919594ec9",
@@ -4815,7 +4914,8 @@
             "d-ferreira": "yea",
             "s-hillier": "yea",
             "s-stevenson": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "bddbeda7ffc6",
@@ -4863,7 +4963,8 @@
             "d-ferreira": "yea",
             "s-hillier": "yea",
             "s-stevenson": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "0f3bc5f988a8",
@@ -4911,7 +5012,8 @@
             "s-hillier": "yea",
             "s-stevenson": "nay",
             "e-peloza": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "c2c776be4be2",
@@ -4959,7 +5061,8 @@
             "j-pribil": "nay",
             "s-trosow": "nay",
             "c-rahman": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "b5346383c3e7",
@@ -5010,7 +5113,8 @@
             "d-ferreira": "yea",
             "s-hillier": "yea",
             "s-stevenson": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "9dba175e2cad",
@@ -5058,7 +5162,8 @@
             "d-ferreira": "nay",
             "s-hillier": "nay",
             "s-trosow": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "3682cc3f48c6",
@@ -5109,7 +5214,8 @@
             "s-stevenson": "nay",
             "p-van-meerbergen": "absent",
             "e-peloza": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "5db2c0e2b63f",
@@ -5162,7 +5268,8 @@
             "s-stevenson": "nay",
             "p-van-meerbergen": "nay",
             "s-hillier": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "d882976eceb9",
@@ -5211,7 +5318,8 @@
             "d-ferreira": "yea",
             "p-van-meerbergen": "nay",
             "s-hillier": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "19fc49d73604",
@@ -5260,7 +5368,8 @@
             "s-stevenson": "nay",
             "p-van-meerbergen": "nay",
             "s-hillier": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "9b182301e0e6",
@@ -5309,7 +5418,8 @@
             "c-rahman": "nay",
             "p-van-meerbergen": "nay",
             "s-hillier": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "2a0187a5fcb1",
@@ -5358,7 +5468,8 @@
             "d-ferreira": "yea",
             "p-van-meerbergen": "nay",
             "s-hillier": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "0bc752e26f44",
@@ -5407,7 +5518,8 @@
             "d-ferreira": "yea",
             "p-van-meerbergen": "nay",
             "s-hillier": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "c8c10caa479f",
@@ -5456,7 +5568,8 @@
             "c-rahman": "nay",
             "p-van-meerbergen": "nay",
             "s-hillier": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "5581a23af577",
@@ -5509,7 +5622,8 @@
             "s-stevenson": "nay",
             "p-van-meerbergen": "nay",
             "s-hillier": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "9ad96d84c066",
@@ -5562,7 +5676,8 @@
             "c-rahman": "nay",
             "p-van-meerbergen": "nay",
             "s-hillier": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "b2dde1dcadf6",
@@ -5615,7 +5730,8 @@
             "j-pribil": "nay",
             "p-van-meerbergen": "nay",
             "s-hillier": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "4037a55399f5",
@@ -5668,7 +5784,8 @@
             "s-stevenson": "nay",
             "p-van-meerbergen": "nay",
             "s-hillier": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "d9a602abd77d",
@@ -5716,7 +5833,8 @@
             "e-peloza": "nay",
             "d-ferreira": "nay",
             "s-hillier": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "d7371ed70b5a",
@@ -5769,7 +5887,8 @@
             "e-peloza": "yea",
             "d-ferreira": "yea",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "f7266655df1b",
@@ -5822,7 +5941,8 @@
             "s-lehman": "nay",
             "p-van-meerbergen": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "a7f9e47a54f5",
@@ -5870,7 +5990,8 @@
             "s-franke": "nay",
             "e-peloza": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "5a5cbb0b8836",
@@ -5921,7 +6042,8 @@
             "c-rahman": "nay",
             "p-van-meerbergen": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "9ffe779c15c0",
@@ -5958,7 +6080,8 @@
             "e-peloza": "yea",
             "d-ferreira": "nay",
             "j-morgan": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "c9bfb65cad3a",
@@ -6011,7 +6134,8 @@
             "p-van-meerbergen": "nay",
             "s-hillier": "nay",
             "e-peloza": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "8691fbe1afab",
@@ -6062,7 +6186,8 @@
             "a-hopkins": "nay",
             "e-peloza": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "9ddf707bf29d",
@@ -6113,7 +6238,8 @@
             "s-franke": "nay",
             "e-peloza": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "c2516caecfbb",
@@ -6161,7 +6287,8 @@
             "s-hillier": "yea",
             "h-mcalister": "nay",
             "s-trosow": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "74e351cbfc1c",
@@ -6214,7 +6341,8 @@
             "s-stevenson": "nay",
             "p-van-meerbergen": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "3b399e8b3680",
@@ -6253,7 +6381,8 @@
             "c-rahman": "yea",
             "d-ferreira": "yea",
             "e-peloza": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "6d85048d8e5e",
@@ -6304,7 +6433,8 @@
             "s-stevenson": "nay",
             "c-rahman": "absent",
             "e-peloza": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "b366ef057c7d",
@@ -6346,7 +6476,8 @@
             "d-ferreira": "yea",
             "s-stevenson": "nay",
             "e-peloza": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "56da0b282a71",
@@ -6397,7 +6528,8 @@
             "s-lehman": "nay",
             "s-hillier": "nay",
             "p-van-meerbergen": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "c0ce799340ac",
@@ -6448,7 +6580,8 @@
             "s-trosow": "absent",
             "p-van-meerbergen": "absent",
             "e-peloza": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "0c53add88983",
@@ -6496,7 +6629,8 @@
             "s-hillier": "nay",
             "s-trosow": "absent",
             "p-van-meerbergen": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "be02e01cfa4a",
@@ -6544,7 +6678,8 @@
             "s-franke": "nay",
             "e-peloza": "nay",
             "s-trosow": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "950e2a392a63",
@@ -6595,7 +6730,8 @@
             "d-ferreira": "yea",
             "s-hillier": "yea",
             "s-stevenson": "nay"
-          }
+          },
+          "resultNote": null
         }
       ]
     },
@@ -6651,7 +6787,8 @@
             "s-hillier": "yea",
             "s-trosow": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "e5b28940c89a",
@@ -6699,7 +6836,8 @@
             "a-hopkins": "nay",
             "s-franke": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "d18f8e672d56",
@@ -6747,7 +6885,8 @@
             "s-franke": "nay",
             "e-peloza": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "c4edae11a020",
@@ -6795,7 +6934,8 @@
             "a-hopkins": "nay",
             "s-franke": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "8b6d676e9921",
@@ -6843,7 +6983,8 @@
             "s-hillier": "yea",
             "s-trosow": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "cb79206c7403",
@@ -6891,7 +7032,8 @@
             "p-van-meerbergen": "nay",
             "s-franke": "nay",
             "e-peloza": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "d5e521362138",
@@ -6930,7 +7072,8 @@
             "s-trosow": "nay",
             "a-hopkins": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "90091800c8b7",
@@ -6969,7 +7112,8 @@
             "d-ferreira": "yea",
             "s-trosow": "nay",
             "a-hopkins": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "27bfa07b12e8",
@@ -7020,7 +7164,8 @@
             "e-peloza": "nay",
             "d-ferreira": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "d16bcff25aa5",
@@ -7071,7 +7216,8 @@
             "s-lehman": "nay",
             "p-van-meerbergen": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "2abe28697a4e",
@@ -7122,7 +7268,8 @@
             "s-lehman": "nay",
             "p-van-meerbergen": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "895f5c0e60bf",
@@ -7173,7 +7320,8 @@
             "p-van-meerbergen": "nay",
             "e-peloza": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "a918d21c4027",
@@ -7224,7 +7372,8 @@
             "p-van-meerbergen": "nay",
             "d-ferreira": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "4ac84c713dc6",
@@ -7275,7 +7424,8 @@
             "p-van-meerbergen": "nay",
             "d-ferreira": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         }
       ]
     },
@@ -7324,7 +7474,8 @@
             "p-cuddy": "nay",
             "j-pribil": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "8294bb7f962b",
@@ -7372,7 +7523,8 @@
             "e-peloza": "nay",
             "d-ferreira": "nay",
             "s-lewis": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "af145538050f",
@@ -7423,7 +7575,8 @@
             "d-ferreira": "yea",
             "s-hillier": "yea",
             "a-hopkins": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "869e73d0f26b",
@@ -7474,7 +7627,8 @@
             "s-franke": "nay",
             "e-peloza": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "ee08870a7edb",
@@ -7520,7 +7674,8 @@
             "d-ferreira": "yea",
             "s-hillier": "yea",
             "p-van-meerbergen": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "173b033d62b4",
@@ -7571,7 +7726,8 @@
             "s-franke": "nay",
             "e-peloza": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "bc037e6d64e5",
@@ -7622,7 +7778,8 @@
             "a-hopkins": "nay",
             "s-franke": "nay",
             "e-peloza": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "439e4f691d90",
@@ -7673,7 +7830,8 @@
             "a-hopkins": "nay",
             "s-franke": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "d85fe3feb38a",
@@ -7724,7 +7882,8 @@
             "s-hillier": "yea",
             "s-trosow": "nay",
             "s-franke": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "0bb386581df6",
@@ -7775,7 +7934,8 @@
             "j-pribil": "nay",
             "a-hopkins": "nay",
             "p-van-meerbergen": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "002f87546a89",
@@ -7823,7 +7983,8 @@
             "a-hopkins": "nay",
             "p-van-meerbergen": "nay",
             "e-peloza": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "71e69a8ea9f8",
@@ -7874,7 +8035,8 @@
             "d-ferreira": "yea",
             "s-hillier": "yea",
             "s-franke": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "ee71cd1c09f0",
@@ -7925,7 +8087,8 @@
             "s-franke": "nay",
             "e-peloza": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "a0eeb6647494",
@@ -7976,7 +8139,8 @@
             "p-van-meerbergen": "nay",
             "s-franke": "nay",
             "e-peloza": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "341f026a730d",
@@ -8027,7 +8191,8 @@
             "s-franke": "nay",
             "e-peloza": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "01584b77b9d3",
@@ -8078,7 +8243,8 @@
             "s-hillier": "yea",
             "s-trosow": "nay",
             "p-van-meerbergen": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "07f051a70bf5",
@@ -8126,7 +8292,8 @@
             "p-van-meerbergen": "nay",
             "e-peloza": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "208e65b18189",
@@ -8165,7 +8332,8 @@
             "s-franke": "yea",
             "d-ferreira": "yea",
             "j-morgan": "nay"
-          }
+          },
+          "resultNote": null
         }
       ]
     },
@@ -8224,7 +8392,8 @@
             "p-van-meerbergen": "nay",
             "s-lewis": "absent",
             "e-peloza": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "5eb57ac6ba76",
@@ -8272,7 +8441,8 @@
             "d-ferreira": "nay",
             "s-hillier": "nay",
             "e-peloza": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "40de6fc6f063",
@@ -8320,7 +8490,8 @@
             "d-ferreira": "yea",
             "s-hillier": "yea",
             "s-trosow": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "1ee90aa063ce",
@@ -8371,7 +8542,8 @@
             "p-van-meerbergen": "nay",
             "d-ferreira": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "890ef0e727d6",
@@ -8417,7 +8589,8 @@
             "c-rahman": "nay",
             "s-franke": "nay",
             "e-peloza": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "9c72e43d3879",
@@ -8468,7 +8641,8 @@
             "c-rahman": "nay",
             "s-franke": "nay",
             "e-peloza": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "ae5cbf236970",
@@ -8519,7 +8693,8 @@
             "d-ferreira": "yea",
             "s-hillier": "yea",
             "s-franke": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "f42a5b460702",
@@ -8568,7 +8743,8 @@
             "p-van-meerbergen": "nay",
             "e-peloza": "nay",
             "s-lehman": "recuse"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "fbc18eb71f19",
@@ -8616,7 +8792,8 @@
             "e-peloza": "nay",
             "d-ferreira": "nay",
             "s-lehman": "recuse"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "9d07f80a1a75",
@@ -8664,7 +8841,8 @@
             "d-ferreira": "yea",
             "s-hillier": "yea",
             "s-stevenson": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "bb6ac8af503d",
@@ -8712,7 +8890,8 @@
             "s-franke": "nay",
             "d-ferreira": "nay",
             "e-peloza": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "6f9f69f3a0d5",
@@ -8765,7 +8944,8 @@
             "c-rahman": "nay",
             "s-franke": "nay",
             "e-peloza": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "bce613972380",
@@ -8816,7 +8996,8 @@
             "c-rahman": "nay",
             "s-franke": "nay",
             "e-peloza": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "edfd6a26f47c",
@@ -8860,7 +9041,8 @@
             "d-ferreira": "nay",
             "j-morgan": "absent",
             "h-mcalister": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "2c6d64497d4d",
@@ -8904,7 +9086,8 @@
             "e-peloza": "nay",
             "j-morgan": "absent",
             "h-mcalister": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "3afea2d2f184",
@@ -8946,7 +9129,8 @@
             "s-trosow": "nay",
             "j-morgan": "absent",
             "h-mcalister": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "cbcff6f003da",
@@ -8994,7 +9178,8 @@
             "s-franke": "nay",
             "e-peloza": "nay",
             "h-mcalister": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "d04c8437d08a",
@@ -9045,7 +9230,8 @@
             "a-hopkins": "nay",
             "s-franke": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "da942ff268c5",
@@ -9096,7 +9282,8 @@
             "a-hopkins": "nay",
             "s-franke": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "a8ac3811346c",
@@ -9147,7 +9334,8 @@
             "a-hopkins": "nay",
             "s-franke": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "f2cf4734bd07",
@@ -9198,7 +9386,8 @@
             "a-hopkins": "nay",
             "s-franke": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "133aa878a5f9",
@@ -9249,7 +9438,8 @@
             "a-hopkins": "nay",
             "s-franke": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "ce8894a6af55",
@@ -9298,7 +9488,8 @@
             "s-lehman": "recuse",
             "s-lewis": "absent",
             "p-van-meerbergen": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "3e9ba59807da",
@@ -9349,7 +9540,8 @@
             "p-van-meerbergen": "absent",
             "e-peloza": "absent",
             "s-hillier": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "93cf1341956d",
@@ -9400,7 +9592,8 @@
             "h-mcalister": "absent",
             "s-stevenson": "absent",
             "p-van-meerbergen": "absent"
-          }
+          },
+          "resultNote": null
         }
       ]
     },
@@ -9459,7 +9652,8 @@
             "s-stevenson": "nay",
             "p-van-meerbergen": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "51e217481135",
@@ -9500,7 +9694,8 @@
             "s-franke": "yea",
             "e-peloza": "yea",
             "s-stevenson": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "b1f7d7ab0e58",
@@ -9548,7 +9743,8 @@
             "p-van-meerbergen": "nay",
             "s-lewis": "absent",
             "a-hopkins": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "26626f351b0d",
@@ -9589,7 +9785,8 @@
             "c-rahman": "yea",
             "s-franke": "yea",
             "p-van-meerbergen": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "a23c5771a121",
@@ -9642,7 +9839,8 @@
             "c-rahman": "nay",
             "d-ferreira": "nay",
             "s-franke": "recuse"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "77c61a6c4a03",
@@ -9695,7 +9893,8 @@
             "s-franke": "absent",
             "e-peloza": "absent",
             "s-hillier": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "9375f69a3817",
@@ -9741,7 +9940,8 @@
             "d-ferreira": "nay",
             "s-franke": "recuse",
             "s-hillier": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "2511f1d1c461",
@@ -9794,7 +9994,8 @@
             "a-hopkins": "nay",
             "s-franke": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "8e944ea40c56",
@@ -9842,7 +10043,8 @@
             "a-hopkins": "nay",
             "s-franke": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "838f7c50e8f0",
@@ -9881,7 +10083,8 @@
             "p-cuddy": "nay",
             "j-pribil": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "3d072ced8231",
@@ -9932,7 +10135,8 @@
             "s-hillier": "yea",
             "s-stevenson": "nay",
             "p-van-meerbergen": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "cf36e50bdd48",
@@ -9974,7 +10178,8 @@
             "a-hopkins": "yea",
             "s-franke": "yea",
             "p-van-meerbergen": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "9d2d16516460",
@@ -10012,7 +10217,8 @@
             "p-cuddy": "nay",
             "j-pribil": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "883ee33ef545",
@@ -10063,7 +10269,8 @@
             "s-hillier": "yea",
             "s-stevenson": "nay",
             "p-van-meerbergen": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "e1f8ff57161c",
@@ -10104,7 +10311,8 @@
             "a-hopkins": "yea",
             "s-franke": "yea",
             "p-van-meerbergen": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "06f778b17f91",
@@ -10155,7 +10363,8 @@
             "p-cuddy": "absent",
             "e-peloza": "absent",
             "s-hillier": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "8d1c46d7b9d9",
@@ -10203,7 +10412,8 @@
             "s-hillier": "yea",
             "s-stevenson": "nay",
             "p-van-meerbergen": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "c34cee28168d",
@@ -10256,7 +10466,8 @@
             "s-hillier": "yea",
             "s-stevenson": "nay",
             "p-van-meerbergen": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "d699ed2cd01e",
@@ -10304,7 +10515,8 @@
             "d-ferreira": "yea",
             "s-hillier": "yea",
             "s-franke": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "87bccdfb472c",
@@ -10352,7 +10564,8 @@
             "s-hillier": "yea",
             "s-trosow": "nay",
             "p-van-meerbergen": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "c982238f3e53",
@@ -10400,7 +10613,8 @@
             "s-trosow": "nay",
             "s-franke": "nay",
             "e-peloza": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "f2540910623e",
@@ -10451,7 +10665,8 @@
             "s-franke": "nay",
             "e-peloza": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "1c01de0e5a7b",
@@ -10502,7 +10717,8 @@
             "d-ferreira": "yea",
             "s-hillier": "yea",
             "p-van-meerbergen": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "09385ddc0d7d",
@@ -10553,7 +10769,8 @@
             "s-hillier": "yea",
             "p-van-meerbergen": "nay",
             "s-franke": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "0141c9527b79",
@@ -10602,7 +10819,8 @@
             "d-ferreira": "yea",
             "s-hillier": "yea",
             "j-morgan": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "74e052b6cc48",
@@ -10648,7 +10866,8 @@
             "a-hopkins": "nay",
             "s-franke": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "0fd0f9c17a4c",
@@ -10696,7 +10915,8 @@
             "e-peloza": "nay",
             "d-ferreira": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "1f742f938d33",
@@ -10749,7 +10969,8 @@
             "d-ferreira": "yea",
             "s-hillier": "yea",
             "p-van-meerbergen": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "478dc258ce7d",
@@ -10802,7 +11023,8 @@
             "d-ferreira": "yea",
             "s-hillier": "yea",
             "s-trosow": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "28ab00fbc3c0",
@@ -10853,7 +11075,8 @@
             "d-ferreira": "yea",
             "s-hillier": "yea",
             "s-franke": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "d7254e98198d",
@@ -10901,7 +11124,8 @@
             "s-trosow": "nay",
             "s-franke": "nay",
             "e-peloza": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "b9c703769270",
@@ -10952,7 +11176,8 @@
             "s-franke": "nay",
             "e-peloza": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "0505f840ea66",
@@ -10994,7 +11219,8 @@
             "p-van-meerbergen": "nay",
             "c-rahman": "recuse",
             "s-lewis": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "3c92e2f39f91",
@@ -11045,7 +11271,8 @@
             "d-ferreira": "nay",
             "s-hillier": "nay",
             "h-mcalister": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "9df65c3786ae",
@@ -11096,7 +11323,8 @@
             "d-ferreira": "nay",
             "s-hillier": "nay",
             "h-mcalister": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "1df3f6daad40",
@@ -11147,7 +11375,8 @@
             "e-peloza": "nay",
             "d-ferreira": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "3008ff6fbaad",
@@ -11195,7 +11424,8 @@
             "p-van-meerbergen": "nay",
             "e-peloza": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "5e84c6aa86f3",
@@ -11241,7 +11471,8 @@
             "s-lehman": "absent",
             "a-hopkins": "absent",
             "s-hillier": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "1ee68642ba23",
@@ -11287,7 +11518,8 @@
             "p-van-meerbergen": "nay",
             "s-hillier": "nay",
             "h-mcalister": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "895b8202a9e6",
@@ -11338,7 +11570,8 @@
             "p-van-meerbergen": "nay",
             "s-stevenson": "absent",
             "s-trosow": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "b064a4b8775e",
@@ -11386,7 +11619,8 @@
             "p-van-meerbergen": "nay",
             "e-peloza": "nay",
             "s-stevenson": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "3991d33dbbbe",
@@ -11427,7 +11661,8 @@
             "c-rahman": "yea",
             "s-stevenson": "nay",
             "p-van-meerbergen": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "6b28a5a67b85",
@@ -11478,7 +11713,8 @@
             "s-stevenson": "nay",
             "p-van-meerbergen": "nay",
             "e-peloza": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "d1fc73f17bb5",
@@ -11529,7 +11765,8 @@
             "s-franke": "nay",
             "d-ferreira": "nay",
             "h-mcalister": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "6e54e9c40a61",
@@ -11580,7 +11817,8 @@
             "p-van-meerbergen": "nay",
             "c-rahman": "recuse",
             "h-mcalister": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "e1ef578436ff",
@@ -11628,7 +11866,8 @@
             "e-peloza": "nay",
             "d-ferreira": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "e294e35cf969",
@@ -11679,7 +11918,8 @@
             "s-hillier": "yea",
             "s-stevenson": "nay",
             "j-pribil": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "9496bc59ad3b",
@@ -11720,7 +11960,8 @@
             "s-stevenson": "yea",
             "p-van-meerbergen": "nay",
             "c-rahman": "recuse"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "873508ecdfbc",
@@ -11771,7 +12012,8 @@
             "s-hillier": "nay",
             "h-mcalister": "absent",
             "s-stevenson": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "a4e6deb00a7e",
@@ -11822,7 +12064,8 @@
             "s-trosow": "nay",
             "p-van-meerbergen": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "b43302aa12d3",
@@ -11868,7 +12111,8 @@
             "p-van-meerbergen": "nay",
             "e-peloza": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "47b3793a89d7",
@@ -11919,7 +12163,8 @@
             "s-franke": "nay",
             "e-peloza": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "80f6a7928e06",
@@ -11970,7 +12215,8 @@
             "p-van-meerbergen": "nay",
             "e-peloza": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "8e763b019770",
@@ -12021,7 +12267,8 @@
             "s-hillier": "yea",
             "s-stevenson": "nay",
             "p-van-meerbergen": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "ef683a15b5d8",
@@ -12072,7 +12319,8 @@
             "p-van-meerbergen": "nay",
             "e-peloza": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "71f1ada00bf5",
@@ -12123,7 +12371,8 @@
             "j-pribil": "nay",
             "s-lehman": "nay",
             "p-van-meerbergen": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "96dcf9db8ac4",
@@ -12174,7 +12423,8 @@
             "s-hillier": "yea",
             "p-van-meerbergen": "nay",
             "s-lehman": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "fd9fa5f36782",
@@ -12222,7 +12472,8 @@
             "s-stevenson": "nay",
             "p-van-meerbergen": "nay",
             "h-mcalister": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "b9376ab30d6e",
@@ -12262,7 +12513,8 @@
             "s-trosow": "yea",
             "c-rahman": "yea",
             "p-van-meerbergen": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "96e340402382",
@@ -12301,7 +12553,8 @@
             "c-rahman": "yea",
             "p-van-meerbergen": "nay",
             "j-morgan": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "cfa6e2dd4fda",
@@ -12349,7 +12602,8 @@
             "p-van-meerbergen": "nay",
             "p-cuddy": "absent",
             "e-peloza": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "7346985bd070",
@@ -12400,7 +12654,8 @@
             "d-ferreira": "yea",
             "s-hillier": "yea",
             "p-van-meerbergen": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "e9bc755a8186",
@@ -12442,7 +12697,8 @@
             "c-rahman": "yea",
             "p-van-meerbergen": "nay",
             "j-morgan": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "d0cbb048480e",
@@ -12493,7 +12749,8 @@
             "s-hillier": "yea",
             "s-trosow": "nay",
             "p-van-meerbergen": "absent"
-          }
+          },
+          "resultNote": null
         }
       ]
     },
@@ -12552,7 +12809,8 @@
             "s-hillier": "yea",
             "s-stevenson": "nay",
             "p-van-meerbergen": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "a436cba624c6",
@@ -12603,7 +12861,8 @@
             "d-ferreira": "yea",
             "s-hillier": "yea",
             "s-stevenson": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "f89356aef0d7",
@@ -12656,7 +12915,8 @@
             "a-hopkins": "nay",
             "s-franke": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "e8436f0f42bb",
@@ -12707,7 +12967,8 @@
             "a-hopkins": "nay",
             "s-franke": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "ce30b4eefd9e",
@@ -12746,7 +13007,8 @@
             "j-morgan": "nay",
             "s-stevenson": "nay",
             "s-franke": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "0cdbc23ec773",
@@ -12797,7 +13059,8 @@
             "c-rahman": "nay",
             "s-franke": "nay",
             "e-peloza": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "5329f0a29d55",
@@ -12850,7 +13113,8 @@
             "s-trosow": "nay",
             "a-hopkins": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "369f78062e63",
@@ -12901,7 +13165,8 @@
             "s-trosow": "nay",
             "a-hopkins": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "4b367baa5548",
@@ -12952,7 +13217,8 @@
             "s-lehman": "nay",
             "p-van-meerbergen": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "f7c197957c99",
@@ -13003,7 +13269,8 @@
             "s-lewis": "nay",
             "p-van-meerbergen": "nay",
             "s-franke": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "9f8da8b851c0",
@@ -13052,7 +13319,8 @@
             "s-lehman": "nay",
             "p-van-meerbergen": "nay",
             "e-peloza": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "38ef207a1fb4",
@@ -13103,7 +13371,8 @@
             "s-lehman": "nay",
             "p-van-meerbergen": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "ea03954e4926",
@@ -13154,7 +13423,8 @@
             "s-franke": "nay",
             "e-peloza": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "987a0e7529b2",
@@ -13205,7 +13475,8 @@
             "s-hillier": "yea",
             "s-trosow": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "18633398dd86",
@@ -13256,7 +13527,8 @@
             "s-lewis": "nay",
             "p-cuddy": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "01d52536f471",
@@ -13302,7 +13574,8 @@
             "p-van-meerbergen": "nay",
             "e-peloza": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "43c61ca512b8",
@@ -13350,7 +13623,8 @@
             "e-peloza": "nay",
             "d-ferreira": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "b294bcd84902",
@@ -13398,7 +13672,8 @@
             "e-peloza": "nay",
             "d-ferreira": "nay",
             "s-lewis": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "9eb3b4658424",
@@ -13446,7 +13721,8 @@
             "s-franke": "nay",
             "e-peloza": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "5581ea6993ac",
@@ -13492,7 +13768,8 @@
             "c-rahman": "nay",
             "a-hopkins": "nay",
             "p-van-meerbergen": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "69288d65e04c",
@@ -13538,7 +13815,8 @@
             "s-lehman": "nay",
             "s-hillier": "nay",
             "p-van-meerbergen": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "684b213cc213",
@@ -13587,7 +13865,8 @@
             "e-peloza": "nay",
             "d-ferreira": "nay",
             "s-lewis": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "57b785c0afb3",
@@ -13633,7 +13912,8 @@
             "p-van-meerbergen": "nay",
             "s-hillier": "nay",
             "s-lewis": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "0689312f36aa",
@@ -13679,7 +13959,8 @@
             "s-franke": "nay",
             "e-peloza": "nay",
             "s-lewis": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "48bb3106304c",
@@ -13725,7 +14006,8 @@
             "p-van-meerbergen": "nay",
             "s-hillier": "nay",
             "s-lewis": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "7b22159ad688",
@@ -13771,7 +14053,8 @@
             "e-peloza": "nay",
             "s-hillier": "nay",
             "s-lewis": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "45e004c6a94d",
@@ -13817,7 +14100,8 @@
             "d-ferreira": "nay",
             "s-hillier": "nay",
             "s-lewis": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "17e2790f8249",
@@ -13863,7 +14147,8 @@
             "d-ferreira": "nay",
             "s-hillier": "nay",
             "s-lewis": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "e7b1e2dca5dc",
@@ -13909,7 +14194,8 @@
             "d-ferreira": "nay",
             "s-hillier": "nay",
             "s-lewis": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "294f2da7a27e",
@@ -13955,7 +14241,8 @@
             "d-ferreira": "nay",
             "s-hillier": "nay",
             "s-lewis": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "ba9608551c5e",
@@ -14001,7 +14288,8 @@
             "p-cuddy": "nay",
             "d-ferreira": "nay",
             "s-lewis": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "1c8075648323",
@@ -14047,7 +14335,8 @@
             "d-ferreira": "nay",
             "s-hillier": "nay",
             "s-lewis": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "3dd05e479854",
@@ -14093,7 +14382,8 @@
             "s-franke": "nay",
             "s-hillier": "nay",
             "s-lewis": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "d167a282544f",
@@ -14139,7 +14429,8 @@
             "s-franke": "nay",
             "e-peloza": "nay",
             "s-lewis": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "e11dd21254b2",
@@ -14185,7 +14476,8 @@
             "p-van-meerbergen": "nay",
             "s-franke": "nay",
             "s-lewis": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "a4eb827c855c",
@@ -14231,7 +14523,8 @@
             "s-trosow": "nay",
             "c-rahman": "nay",
             "s-lewis": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "d9ef122971da",
@@ -14284,7 +14577,8 @@
             "s-trosow": "nay",
             "a-hopkins": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "8de7e1af71a8",
@@ -14325,7 +14619,8 @@
             "j-pribil": "nay",
             "a-hopkins": "nay",
             "s-franke": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "affaabc4514e",
@@ -14376,7 +14671,8 @@
             "d-ferreira": "nay",
             "s-hillier": "nay",
             "h-mcalister": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "c3dde3554af6",
@@ -14429,7 +14725,8 @@
             "a-hopkins": "nay",
             "e-peloza": "nay",
             "h-mcalister": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "0eb6dbb4f683",
@@ -14480,7 +14777,8 @@
             "s-franke": "nay",
             "e-peloza": "nay",
             "h-mcalister": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "d30d0b87039f",
@@ -14531,7 +14829,8 @@
             "e-peloza": "nay",
             "s-hillier": "nay",
             "h-mcalister": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "46814de75f89",
@@ -14584,7 +14883,8 @@
             "c-rahman": "nay",
             "a-hopkins": "nay",
             "h-mcalister": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "d826ccab9d84",
@@ -14635,7 +14935,8 @@
             "d-ferreira": "nay",
             "s-hillier": "nay",
             "h-mcalister": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "cf1fba51e707",
@@ -14686,7 +14987,8 @@
             "c-rahman": "nay",
             "a-hopkins": "nay",
             "h-mcalister": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "5e8054ca0c6d",
@@ -14737,7 +15039,8 @@
             "s-franke": "nay",
             "s-hillier": "nay",
             "s-lehman": "recuse"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "74487500a77e",
@@ -14788,7 +15091,8 @@
             "s-hillier": "yea",
             "c-rahman": "nay",
             "p-van-meerbergen": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "92c1f8e0e1d3",
@@ -14839,7 +15143,8 @@
             "s-lehman": "nay",
             "p-van-meerbergen": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "28c6e0bdd4ed",
@@ -14890,7 +15195,8 @@
             "p-van-meerbergen": "nay",
             "e-peloza": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "af82a6e32283",
@@ -14941,7 +15247,8 @@
             "p-van-meerbergen": "nay",
             "e-peloza": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "71e79d9c22c4",
@@ -14992,7 +15299,8 @@
             "s-franke": "nay",
             "d-ferreira": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "94d59676c359",
@@ -15043,7 +15351,8 @@
             "s-franke": "nay",
             "d-ferreira": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "26cdb5305e9d",
@@ -15094,7 +15403,8 @@
             "c-rahman": "nay",
             "s-lehman": "nay",
             "p-van-meerbergen": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "4d0ec4fb7020",
@@ -15145,7 +15455,8 @@
             "p-van-meerbergen": "nay",
             "s-franke": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "dde088237cfe",
@@ -15193,7 +15504,8 @@
             "j-pribil": "nay",
             "s-lehman": "nay",
             "p-van-meerbergen": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "eb9cac86041a",
@@ -15231,7 +15543,8 @@
             "e-peloza": "yea",
             "d-ferreira": "yea",
             "j-pribil": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "da0dc28a0459",
@@ -15282,7 +15595,8 @@
             "s-hillier": "yea",
             "s-trosow": "nay",
             "e-peloza": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "984fb0a5a45f",
@@ -15333,7 +15647,8 @@
             "a-hopkins": "nay",
             "s-franke": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "ed337cbc08fb",
@@ -15381,7 +15696,8 @@
             "e-peloza": "nay",
             "d-ferreira": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "b682ed96bec6",
@@ -15429,7 +15745,8 @@
             "a-hopkins": "nay",
             "s-franke": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "5ac012d88d30",
@@ -15482,7 +15799,8 @@
             "s-franke": "absent",
             "e-peloza": "absent",
             "s-hillier": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "1200d0404ab7",
@@ -15531,7 +15849,8 @@
             "h-mcalister": "nay",
             "e-peloza": "nay",
             "s-hillier": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "7fd1131d01ec",
@@ -15579,7 +15898,8 @@
             "e-peloza": "nay",
             "d-ferreira": "nay",
             "s-hillier": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "451f2b3749d1",
@@ -15625,7 +15945,8 @@
             "s-franke": "nay",
             "d-ferreira": "nay",
             "s-hillier": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "08beca7153b5",
@@ -15678,7 +15999,8 @@
             "s-stevenson": "nay",
             "j-pribil": "nay",
             "h-mcalister": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "895754219c7f",
@@ -15726,7 +16048,8 @@
             "d-ferreira": "nay",
             "s-hillier": "nay",
             "h-mcalister": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "b9b49881ef19",
@@ -15774,7 +16097,8 @@
             "e-peloza": "nay",
             "s-hillier": "nay",
             "h-mcalister": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "9fbfccf943a4",
@@ -15822,7 +16146,8 @@
             "s-franke": "nay",
             "e-peloza": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "9060377f8932",
@@ -15870,7 +16195,8 @@
             "e-peloza": "nay",
             "d-ferreira": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "54bd15897075",
@@ -15916,7 +16242,8 @@
             "c-rahman": "nay",
             "s-lehman": "nay",
             "p-van-meerbergen": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "8e7850541a74",
@@ -15967,7 +16294,8 @@
             "s-lehman": "nay",
             "p-van-meerbergen": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "144de0256e81",
@@ -16018,7 +16346,8 @@
             "s-lehman": "nay",
             "p-van-meerbergen": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "d1f3ee728f3f",
@@ -16069,7 +16398,8 @@
             "s-lehman": "nay",
             "p-van-meerbergen": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "d6e76583b5c9",
@@ -16120,7 +16450,8 @@
             "p-van-meerbergen": "nay",
             "e-peloza": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "cd86a08f5c79",
@@ -16171,7 +16502,8 @@
             "d-ferreira": "yea",
             "s-hillier": "yea",
             "s-trosow": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "371408bc6cb2",
@@ -16222,7 +16554,8 @@
             "s-franke": "nay",
             "e-peloza": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "85551557a69f",
@@ -16273,7 +16606,8 @@
             "e-peloza": "nay",
             "d-ferreira": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "177cfd5d018a",
@@ -16324,7 +16658,8 @@
             "p-van-meerbergen": "nay",
             "e-peloza": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "72b3ab93faa6",
@@ -16375,7 +16710,8 @@
             "p-van-meerbergen": "nay",
             "e-peloza": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "fb5e80fd7115",
@@ -16426,7 +16762,8 @@
             "p-van-meerbergen": "nay",
             "e-peloza": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "53f935622223",
@@ -16477,7 +16814,8 @@
             "p-van-meerbergen": "nay",
             "e-peloza": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "7887cbf40631",
@@ -16528,7 +16866,8 @@
             "p-van-meerbergen": "nay",
             "e-peloza": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "bf46bccfd06a",
@@ -16579,7 +16918,8 @@
             "p-van-meerbergen": "nay",
             "e-peloza": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "38d7f6ed72c4",
@@ -16630,7 +16970,8 @@
             "p-van-meerbergen": "nay",
             "e-peloza": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "68345dd4c078",
@@ -16681,7 +17022,8 @@
             "p-van-meerbergen": "nay",
             "e-peloza": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "3424052e182e",
@@ -16732,7 +17074,8 @@
             "a-hopkins": "nay",
             "e-peloza": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "a57653d98267",
@@ -16783,7 +17126,8 @@
             "p-van-meerbergen": "nay",
             "e-peloza": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "e04485a58340",
@@ -16834,7 +17178,8 @@
             "s-lehman": "nay",
             "p-van-meerbergen": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "46d4de9c4071",
@@ -16885,7 +17230,8 @@
             "e-peloza": "nay",
             "d-ferreira": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "2912a98612a9",
@@ -16936,7 +17282,8 @@
             "p-van-meerbergen": "nay",
             "e-peloza": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "7eb5f65600d1",
@@ -16987,7 +17334,8 @@
             "e-peloza": "nay",
             "d-ferreira": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "963955b57ac0",
@@ -17038,7 +17386,8 @@
             "p-van-meerbergen": "nay",
             "e-peloza": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "d5fa217f8256",
@@ -17089,7 +17438,8 @@
             "s-stevenson": "nay",
             "p-van-meerbergen": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "f10ecd532d39",
@@ -17140,7 +17490,8 @@
             "s-franke": "nay",
             "e-peloza": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "543587b00733",
@@ -17191,7 +17542,8 @@
             "s-lehman": "nay",
             "e-peloza": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "6712ca3fffe0",
@@ -17242,7 +17594,8 @@
             "p-van-meerbergen": "nay",
             "e-peloza": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "13f0189fb7d2",
@@ -17293,7 +17646,8 @@
             "d-ferreira": "yea",
             "s-hillier": "yea",
             "e-peloza": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "bf5522ed9356",
@@ -17344,7 +17698,8 @@
             "s-lehman": "nay",
             "p-van-meerbergen": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "2705bd8983d4",
@@ -17395,7 +17750,8 @@
             "p-van-meerbergen": "nay",
             "e-peloza": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "a61e9b88ab0b",
@@ -17446,7 +17802,8 @@
             "e-peloza": "nay",
             "s-hillier": "nay",
             "s-trosow": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "b4082101a336",
@@ -17497,7 +17854,8 @@
             "p-van-meerbergen": "nay",
             "e-peloza": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "f6aa1bc834a4",
@@ -17548,7 +17906,8 @@
             "c-rahman": "nay",
             "s-hillier": "nay",
             "s-trosow": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "e87fc2129ba9",
@@ -17599,7 +17958,8 @@
             "d-ferreira": "yea",
             "s-hillier": "yea",
             "j-morgan": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "6f3c002f427d",
@@ -17650,7 +18010,8 @@
             "p-van-meerbergen": "nay",
             "e-peloza": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "1d40dd7cc4c1",
@@ -17701,7 +18062,8 @@
             "s-franke": "nay",
             "e-peloza": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "280c741c7a8e",
@@ -17752,7 +18114,8 @@
             "p-van-meerbergen": "nay",
             "e-peloza": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "7d8562fee87c",
@@ -17803,7 +18166,8 @@
             "e-peloza": "nay",
             "d-ferreira": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "fade80c99229",
@@ -17854,7 +18218,8 @@
             "e-peloza": "nay",
             "d-ferreira": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "f2f57f834998",
@@ -17902,7 +18267,8 @@
             "j-morgan": "nay",
             "c-rahman": "nay",
             "s-franke": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "14c78f03d36d",
@@ -17953,7 +18319,8 @@
             "s-trosow": "nay",
             "a-hopkins": "nay",
             "s-hillier": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "cd54ba623f8e",
@@ -18004,7 +18371,8 @@
             "j-pribil": "recuse",
             "s-lehman": "recuse",
             "p-van-meerbergen": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "552dbb5e1f13",
@@ -18055,7 +18423,8 @@
             "j-pribil": "recuse",
             "s-lehman": "recuse",
             "p-van-meerbergen": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "2739329da8be",
@@ -18092,7 +18461,8 @@
             "p-cuddy": "nay",
             "c-rahman": "nay",
             "j-morgan": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "4272a0864690",
@@ -18134,7 +18504,8 @@
             "c-rahman": "yea",
             "p-van-meerbergen": "nay",
             "j-morgan": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "9547b52b37af",
@@ -18180,7 +18551,8 @@
             "h-mcalister": "absent",
             "s-stevenson": "absent",
             "p-van-meerbergen": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "9705aa6da1dc",
@@ -18226,7 +18598,8 @@
             "h-mcalister": "absent",
             "s-stevenson": "absent",
             "p-van-meerbergen": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "86b1bf237179",
@@ -18272,7 +18645,8 @@
             "h-mcalister": "absent",
             "s-stevenson": "absent",
             "p-van-meerbergen": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "04ef20f344ee",
@@ -18320,7 +18694,8 @@
             "h-mcalister": "absent",
             "s-stevenson": "absent",
             "p-van-meerbergen": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "0f1b08e86421",
@@ -18366,7 +18741,8 @@
             "h-mcalister": "absent",
             "s-stevenson": "absent",
             "p-van-meerbergen": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "a4abd9e1fa3c",
@@ -18417,7 +18793,8 @@
             "s-trosow": "nay",
             "e-peloza": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "a3765ca3c05a",
@@ -18463,7 +18840,8 @@
             "p-van-meerbergen": "nay",
             "s-hillier": "nay",
             "s-trosow": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "000f08211725",
@@ -18511,7 +18889,8 @@
             "d-ferreira": "yea",
             "a-hopkins": "nay",
             "s-hillier": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "fd27307f45a8",
@@ -18562,7 +18941,8 @@
             "d-ferreira": "yea",
             "a-hopkins": "nay",
             "s-hillier": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "b7f876655a41",
@@ -18613,7 +18993,8 @@
             "p-van-meerbergen": "nay",
             "e-peloza": "nay",
             "s-hillier": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "3e356dd3852a",
@@ -18664,7 +19045,8 @@
             "d-ferreira": "yea",
             "j-morgan": "nay",
             "s-hillier": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "67e8f0bb6a90",
@@ -18712,7 +19094,8 @@
             "s-lewis": "nay",
             "s-lehman": "nay",
             "s-hillier": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "192cc16c866a",
@@ -18763,7 +19146,8 @@
             "e-peloza": "nay",
             "d-ferreira": "nay",
             "s-hillier": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "070efd97b686",
@@ -18814,7 +19198,8 @@
             "s-trosow": "nay",
             "d-ferreira": "nay",
             "s-hillier": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "75a10636d5f6",
@@ -18865,7 +19250,8 @@
             "e-peloza": "nay",
             "d-ferreira": "nay",
             "s-hillier": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "950b21d6cef5",
@@ -18916,7 +19302,8 @@
             "s-lehman": "nay",
             "e-peloza": "nay",
             "s-hillier": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "b18982431ad1",
@@ -18967,7 +19354,8 @@
             "s-lehman": "nay",
             "p-van-meerbergen": "nay",
             "s-hillier": "absent"
-          }
+          },
+          "resultNote": null
         }
       ]
     },
@@ -19026,7 +19414,8 @@
             "s-hillier": "yea",
             "s-stevenson": "nay",
             "p-van-meerbergen": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "70881ca02a83",
@@ -19067,7 +19456,8 @@
             "s-franke": "yea",
             "e-peloza": "yea",
             "s-stevenson": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "b076ce02bb71",
@@ -19106,7 +19496,8 @@
             "s-stevenson": "nay",
             "p-van-meerbergen": "nay",
             "e-peloza": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "1a0ad771e08d",
@@ -19148,7 +19539,8 @@
             "s-franke": "yea",
             "e-peloza": "yea",
             "s-stevenson": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "362a510b1fad",
@@ -19199,7 +19591,8 @@
             "j-morgan": "absent",
             "p-van-meerbergen": "absent",
             "e-peloza": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "55da1ef00dc2",
@@ -19250,7 +19643,8 @@
             "j-morgan": "absent",
             "p-van-meerbergen": "absent",
             "e-peloza": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "ed8f1175d012",
@@ -19291,7 +19685,8 @@
             "p-van-meerbergen": "yea",
             "s-franke": "yea",
             "s-stevenson": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "998400eb3bed",
@@ -19329,7 +19724,8 @@
             "p-van-meerbergen": "yea",
             "h-mcalister": "nay",
             "s-franke": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "c0ce6cf62032",
@@ -19377,7 +19773,8 @@
             "e-peloza": "nay",
             "s-hillier": "nay",
             "p-van-meerbergen": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "ac621e53bd84",
@@ -19426,7 +19823,8 @@
             "s-lehman": "nay",
             "s-hillier": "nay",
             "p-van-meerbergen": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "c341c159cdca",
@@ -19472,7 +19870,8 @@
             "a-hopkins": "nay",
             "s-franke": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "a076bd968c19",
@@ -19520,7 +19919,8 @@
             "e-peloza": "nay",
             "d-ferreira": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "2f4e4bf8f5a7",
@@ -19566,7 +19966,8 @@
             "a-hopkins": "nay",
             "s-franke": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "7cf8ddca1bc9",
@@ -19614,7 +20015,8 @@
             "a-hopkins": "nay",
             "s-franke": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "ee4b0badbc6b",
@@ -19662,7 +20064,8 @@
             "s-lehman": "nay",
             "p-van-meerbergen": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "b2256df2c01d",
@@ -19713,7 +20116,8 @@
             "s-stevenson": "nay",
             "s-lehman": "nay",
             "p-van-meerbergen": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "40ed0fff0996",
@@ -19762,7 +20166,8 @@
             "s-franke": "nay",
             "e-peloza": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "e0b2c6bdb39c",
@@ -19815,7 +20220,8 @@
             "s-lehman": "nay",
             "p-van-meerbergen": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "058e553b9214",
@@ -19859,7 +20265,8 @@
             "p-cuddy": "nay",
             "s-lehman": "nay",
             "j-morgan": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "6439c2ef24a2",
@@ -19910,7 +20317,8 @@
             "s-lehman": "nay",
             "p-van-meerbergen": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "a4588669787c",
@@ -19956,7 +20364,8 @@
             "s-franke": "nay",
             "e-peloza": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "f3618d4109f7",
@@ -20004,7 +20413,8 @@
             "a-hopkins": "nay",
             "s-franke": "absent",
             "d-ferreira": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "502fa7ef7498",
@@ -20050,7 +20460,8 @@
             "d-ferreira": "yea",
             "s-hillier": "yea",
             "s-stevenson": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "3ef06014fccf",
@@ -20098,7 +20509,8 @@
             "s-franke": "nay",
             "e-peloza": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "9cfa0991c40f",
@@ -20147,7 +20559,8 @@
             "p-van-meerbergen": "nay",
             "s-hillier": "nay",
             "s-stevenson": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "2cb0278f388f",
@@ -20200,7 +20613,8 @@
             "p-van-meerbergen": "nay",
             "s-hillier": "nay",
             "s-stevenson": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "1e081b244fe4",
@@ -20239,7 +20653,8 @@
             "s-franke": "yea",
             "j-pribil": "nay",
             "d-ferreira": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "c975eb034a57",
@@ -20285,7 +20700,8 @@
             "a-hopkins": "nay",
             "s-franke": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "a3c030825aad",
@@ -20336,7 +20752,8 @@
             "s-lehman": "nay",
             "p-van-meerbergen": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "a0bf252ed958",
@@ -20382,7 +20799,8 @@
             "s-franke": "nay",
             "e-peloza": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "9c935b12814a",
@@ -20433,7 +20851,8 @@
             "s-hillier": "yea",
             "s-stevenson": "nay",
             "p-van-meerbergen": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "187527fc77b7",
@@ -20479,7 +20898,8 @@
             "s-hillier": "nay",
             "p-cuddy": "absent",
             "e-peloza": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "ceef716a2313",
@@ -20527,7 +20947,8 @@
             "d-ferreira": "nay",
             "p-cuddy": "absent",
             "e-peloza": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "18389effc014",
@@ -20566,7 +20987,8 @@
             "h-mcalister": "nay",
             "s-trosow": "nay",
             "s-lewis": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "dd75734e7fed",
@@ -20617,7 +21039,8 @@
             "s-hillier": "nay",
             "s-stevenson": "absent",
             "e-peloza": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "459571d81fed",
@@ -20668,7 +21091,8 @@
             "s-hillier": "nay",
             "h-mcalister": "absent",
             "s-stevenson": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "730abd01f37c",
@@ -20719,7 +21143,8 @@
             "p-cuddy": "nay",
             "p-van-meerbergen": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "10efee30d126",
@@ -20770,7 +21195,8 @@
             "s-franke": "nay",
             "e-peloza": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "a01600ddb427",
@@ -20818,7 +21244,8 @@
             "s-hillier": "nay",
             "s-trosow": "absent",
             "p-van-meerbergen": "absent"
-          }
+          },
+          "resultNote": null
         }
       ]
     },
@@ -20869,7 +21296,8 @@
             "s-lehman": "yea",
             "s-stevenson": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "6b7f409e1443",
@@ -20917,7 +21345,8 @@
             "a-hopkins": "nay",
             "s-franke": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "780a4ce2d9bb",
@@ -20970,7 +21399,8 @@
             "s-hillier": "yea",
             "s-trosow": "nay",
             "a-hopkins": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "c7bf822cb0ae",
@@ -21023,7 +21453,8 @@
             "d-ferreira": "yea",
             "s-hillier": "yea",
             "s-franke": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "5b512fd551f5",
@@ -21066,7 +21497,8 @@
             "s-lehman": "yea",
             "s-hillier": "yea",
             "p-cuddy": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "8b77c24ff25c",
@@ -21112,7 +21544,8 @@
             "s-hillier": "nay",
             "h-mcalister": "absent",
             "p-van-meerbergen": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "c0ef85d5175c",
@@ -21163,7 +21596,8 @@
             "c-rahman": "nay",
             "h-mcalister": "absent",
             "p-van-meerbergen": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "2306f39dba9f",
@@ -21214,7 +21648,8 @@
             "a-hopkins": "nay",
             "h-mcalister": "absent",
             "p-van-meerbergen": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "71b9cdd99867",
@@ -21265,7 +21700,8 @@
             "e-peloza": "nay",
             "h-mcalister": "absent",
             "p-van-meerbergen": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "d157627ea3ba",
@@ -21316,7 +21752,8 @@
             "s-hillier": "yea",
             "s-stevenson": "nay",
             "p-van-meerbergen": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "4df11e775c7f",
@@ -21362,7 +21799,8 @@
             "s-hillier": "yea",
             "s-stevenson": "nay",
             "p-van-meerbergen": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "23394819155c",
@@ -21415,7 +21853,8 @@
             "s-hillier": "yea",
             "s-stevenson": "nay",
             "p-van-meerbergen": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "82741a99f795",
@@ -21468,7 +21907,8 @@
             "j-pribil": "nay",
             "s-hillier": "nay",
             "p-van-meerbergen": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "ba89238687fa",
@@ -21512,7 +21952,8 @@
             "s-stevenson": "nay",
             "s-hillier": "nay",
             "j-morgan": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "06a1d24743c5",
@@ -21552,7 +21993,8 @@
             "s-lehman": "yea",
             "s-hillier": "nay",
             "j-morgan": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "81fffe30d22a",
@@ -21594,7 +22036,8 @@
             "s-hillier": "yea",
             "s-stevenson": "nay",
             "j-morgan": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "fd673760d5df",
@@ -21635,7 +22078,8 @@
             "s-lewis": "nay",
             "s-stevenson": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "1355dc9115e0",
@@ -21678,7 +22122,8 @@
             "a-hopkins": "yea",
             "d-ferreira": "yea",
             "j-pribil": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "e2146aa78193",
@@ -21726,7 +22171,8 @@
             "e-peloza": "nay",
             "d-ferreira": "nay",
             "s-stevenson": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "06a752a337a2",
@@ -21777,7 +22223,8 @@
             "s-lehman": "nay",
             "p-van-meerbergen": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "12aa70133162",
@@ -21818,7 +22265,8 @@
             "s-hillier": "yea",
             "s-stevenson": "nay",
             "s-lehman": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "d7eeb48f9dea",
@@ -21869,7 +22317,8 @@
             "e-peloza": "nay",
             "s-lewis": "absent",
             "a-hopkins": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "9a69bd3efefd",
@@ -21908,7 +22357,8 @@
             "j-morgan": "absent",
             "s-lewis": "absent",
             "s-hillier": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "5d3409f3524d",
@@ -21948,7 +22398,8 @@
             "d-ferreira": "yea",
             "s-trosow": "nay",
             "j-morgan": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "66bf8d51dc0f",
@@ -21996,7 +22447,8 @@
             "s-hillier": "yea",
             "e-peloza": "nay",
             "s-lehman": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "279715ad9723",
@@ -22045,7 +22497,8 @@
             "e-peloza": "nay",
             "d-ferreira": "nay",
             "s-lehman": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "fbf783cadc53",
@@ -22081,7 +22534,8 @@
             "s-stevenson": "nay",
             "s-lehman": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "d0b0c8c79902",
@@ -22117,7 +22571,8 @@
             "s-trosow": "nay",
             "a-hopkins": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "a9f827fabfb2",
@@ -22155,7 +22610,8 @@
             "d-ferreira": "yea",
             "j-pribil": "nay",
             "a-hopkins": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "f5ad254fd54f",
@@ -22206,7 +22662,8 @@
             "s-franke": "nay",
             "d-ferreira": "nay",
             "e-peloza": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "7e57700798d3",
@@ -22257,7 +22714,8 @@
             "a-hopkins": "nay",
             "s-franke": "nay",
             "e-peloza": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "f4f159d15b91",
@@ -22305,7 +22763,8 @@
             "p-van-meerbergen": "nay",
             "s-hillier": "nay",
             "e-peloza": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "2c152e11e58a",
@@ -22351,7 +22810,8 @@
             "s-stevenson": "nay",
             "c-rahman": "nay",
             "e-peloza": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "7253c8a13fd8",
@@ -22402,7 +22862,8 @@
             "s-hillier": "yea",
             "s-franke": "nay",
             "e-peloza": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "4a2e8a2dad9d",
@@ -22455,7 +22916,8 @@
             "c-rahman": "nay",
             "a-hopkins": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "44c5de36a14d",
@@ -22503,7 +22965,8 @@
             "d-ferreira": "yea",
             "s-hillier": "yea",
             "c-rahman": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "f1a3045ef828",
@@ -22544,7 +23007,8 @@
             "s-lehman": "yea",
             "s-hillier": "nay",
             "p-cuddy": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "8d356263249f",
@@ -22583,7 +23047,8 @@
             "a-hopkins": "nay",
             "s-lewis": "absent",
             "e-peloza": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "483aafa664ec",
@@ -22632,7 +23097,8 @@
             "s-franke": "nay",
             "e-peloza": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "700cfca48a00",
@@ -22678,7 +23144,8 @@
             "s-franke": "nay",
             "e-peloza": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "ddac6af524b1",
@@ -22729,7 +23196,8 @@
             "p-van-meerbergen": "nay",
             "s-franke": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "7bcf15574247",
@@ -22780,7 +23248,8 @@
             "e-peloza": "yea",
             "s-hillier": "yea",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "02062f07951a",
@@ -22826,7 +23295,8 @@
             "s-hillier": "yea",
             "s-lewis": "nay",
             "s-stevenson": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "bc862dbf8b17",
@@ -22872,7 +23342,8 @@
             "s-franke": "nay",
             "e-peloza": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "5549c33b0674",
@@ -22918,7 +23389,8 @@
             "s-franke": "nay",
             "e-peloza": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "0f359afc4f62",
@@ -22964,7 +23436,8 @@
             "e-peloza": "nay",
             "d-ferreira": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "83c1d43b3506",
@@ -23015,7 +23488,8 @@
             "s-hillier": "yea",
             "e-peloza": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "7a534ce12b37",
@@ -23066,7 +23540,8 @@
             "s-trosow": "nay",
             "c-rahman": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "5c930abbb64d",
@@ -23117,7 +23592,8 @@
             "s-hillier": "yea",
             "s-trosow": "nay",
             "a-hopkins": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "0568f9adfacf",
@@ -23163,7 +23639,8 @@
             "a-hopkins": "nay",
             "e-peloza": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "e96b2ebdbc7e",
@@ -23214,7 +23691,8 @@
             "s-hillier": "yea",
             "s-trosow": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "ea3b4f086b8b",
@@ -23267,7 +23745,8 @@
             "e-peloza": "nay",
             "d-ferreira": "nay",
             "s-hillier": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "5e53d3d0a2d1",
@@ -23313,7 +23792,8 @@
             "j-morgan": "nay",
             "s-lehman": "nay",
             "s-hillier": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "cad64d3f88f7",
@@ -23359,7 +23839,8 @@
             "s-trosow": "nay",
             "d-ferreira": "nay",
             "s-hillier": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "512f5fb9506a",
@@ -23408,7 +23889,8 @@
             "p-van-meerbergen": "nay",
             "e-peloza": "nay",
             "s-hillier": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "106cac54de25",
@@ -23449,7 +23931,8 @@
             "s-lehman": "yea",
             "s-hillier": "nay",
             "s-stevenson": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "a41ad53fb87f",
@@ -23495,7 +23978,8 @@
             "h-mcalister": "nay",
             "s-lewis": "nay",
             "e-peloza": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "1ab9b49d06f2",
@@ -23532,7 +24016,8 @@
             "s-hillier": "yea",
             "j-morgan": "nay",
             "s-lehman": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "8a95b752903f",
@@ -23573,7 +24058,8 @@
             "s-lehman": "yea",
             "s-hillier": "yea",
             "s-stevenson": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "bffba588345c",
@@ -23611,7 +24097,8 @@
             "j-pribil": "nay",
             "e-peloza": "nay",
             "a-hopkins": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "070a2bfcfe82",
@@ -23662,7 +24149,8 @@
             "s-franke": "nay",
             "e-peloza": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "aa98fd07083d",
@@ -23713,7 +24201,8 @@
             "c-rahman": "nay",
             "a-hopkins": "nay",
             "e-peloza": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "733377ff3867",
@@ -23764,7 +24253,8 @@
             "e-peloza": "yea",
             "s-hillier": "yea",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "69abd710ad99",
@@ -23815,7 +24305,8 @@
             "s-hillier": "yea",
             "s-trosow": "nay",
             "a-hopkins": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "8c2c943e562d",
@@ -23866,7 +24357,8 @@
             "s-hillier": "yea",
             "s-stevenson": "nay",
             "p-van-meerbergen": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "455d5ae72448",
@@ -23915,7 +24407,8 @@
             "d-ferreira": "yea",
             "s-hillier": "yea",
             "e-peloza": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "4390ee4a0a27",
@@ -23963,7 +24456,8 @@
             "s-trosow": "nay",
             "e-peloza": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "8730d4c18b05",
@@ -24004,7 +24498,8 @@
             "s-lehman": "yea",
             "s-hillier": "yea",
             "e-peloza": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "48422a21c114",
@@ -24057,7 +24552,8 @@
             "d-ferreira": "yea",
             "s-hillier": "yea",
             "s-franke": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "64dce7af848d",
@@ -24108,7 +24604,8 @@
             "s-franke": "nay",
             "e-peloza": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "a2404144c8ae",
@@ -24159,7 +24656,8 @@
             "p-van-meerbergen": "nay",
             "d-ferreira": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "8cd2d2b8a2ce",
@@ -24210,7 +24708,8 @@
             "d-ferreira": "yea",
             "s-hillier": "yea",
             "s-franke": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "a7543bfccbbd",
@@ -24261,7 +24760,8 @@
             "s-hillier": "yea",
             "s-trosow": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "36aea4a70ddb",
@@ -24314,7 +24814,8 @@
             "s-franke": "nay",
             "e-peloza": "nay",
             "s-trosow": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "e0c288c18934",
@@ -24365,7 +24866,8 @@
             "s-franke": "nay",
             "e-peloza": "nay",
             "s-trosow": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "0ee54a890942",
@@ -24414,7 +24916,8 @@
             "e-peloza": "nay",
             "s-trosow": "absent",
             "s-hillier": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "c39564ac8453",
@@ -24462,7 +24965,8 @@
             "p-van-meerbergen": "nay",
             "s-trosow": "absent",
             "s-hillier": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "0d85a88501d0",
@@ -24503,7 +25007,8 @@
             "s-lehman": "yea",
             "s-hillier": "yea",
             "e-peloza": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "fddebc11db79",
@@ -24554,7 +25059,8 @@
             "s-hillier": "yea",
             "s-stevenson": "nay",
             "p-van-meerbergen": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "5dc4e9be01e4",
@@ -24605,7 +25111,8 @@
             "d-ferreira": "yea",
             "s-hillier": "yea",
             "c-rahman": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "9f632543eedb",
@@ -24644,7 +25151,8 @@
             "p-cuddy": "nay",
             "e-peloza": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "dbe25f95d138",
@@ -24686,7 +25194,8 @@
             "e-peloza": "yea",
             "s-hillier": "nay",
             "j-morgan": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "745320f6dbfa",
@@ -24728,7 +25237,8 @@
             "e-peloza": "nay",
             "s-hillier": "nay",
             "j-morgan": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "95d6e8699352",
@@ -24779,7 +25289,8 @@
             "s-hillier": "yea",
             "s-trosow": "nay",
             "c-rahman": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "f2f91d156e14",
@@ -24827,7 +25338,8 @@
             "d-ferreira": "nay",
             "s-hillier": "nay",
             "s-trosow": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "2ca4553876a5",
@@ -24878,7 +25390,8 @@
             "s-trosow": "nay",
             "d-ferreira": "nay",
             "s-franke": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "0e6819a0769a",
@@ -24916,7 +25429,8 @@
             "s-hillier": "yea",
             "s-lewis": "nay",
             "p-cuddy": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "bf6758a065fe",
@@ -24955,7 +25469,8 @@
             "j-pribil": "nay",
             "j-morgan": "absent",
             "h-mcalister": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "7459575d36cc",
@@ -25006,7 +25521,8 @@
             "d-ferreira": "nay",
             "s-hillier": "nay",
             "e-peloza": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "0aca5a7bdd96",
@@ -25054,7 +25570,8 @@
             "s-lehman": "nay",
             "p-van-meerbergen": "nay",
             "s-franke": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "9a970bf79b9c",
@@ -25105,7 +25622,8 @@
             "d-ferreira": "yea",
             "s-stevenson": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "ee000df2b284",
@@ -25153,7 +25671,8 @@
             "s-franke": "nay",
             "e-peloza": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "699159b76176",
@@ -25197,7 +25716,8 @@
             "s-lehman": "yea",
             "s-hillier": "yea",
             "e-peloza": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "1f377c4e9133",
@@ -25239,7 +25759,8 @@
             "e-peloza": "yea",
             "s-hillier": "yea",
             "s-lehman": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "197a43b0b2c8",
@@ -25290,7 +25811,8 @@
             "s-hillier": "nay",
             "h-mcalister": "absent",
             "s-trosow": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "3c5f11c300ae",
@@ -25341,7 +25863,8 @@
             "e-peloza": "nay",
             "h-mcalister": "absent",
             "s-trosow": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "2dd2f218b482",
@@ -25389,7 +25912,8 @@
             "s-franke": "nay",
             "e-peloza": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "d3245137acfb",
@@ -25437,7 +25961,8 @@
             "s-trosow": "nay",
             "p-van-meerbergen": "absent",
             "d-ferreira": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "9c1b6034ee68",
@@ -25478,7 +26003,8 @@
             "s-lehman": "yea",
             "e-peloza": "yea",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "23b4b70b8b71",
@@ -25519,7 +26045,8 @@
             "s-hillier": "yea",
             "s-lehman": "nay",
             "e-peloza": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "b377bcba025b",
@@ -25557,7 +26084,8 @@
             "h-mcalister": "nay",
             "s-trosow": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "bea876cdf451",
@@ -25605,7 +26133,8 @@
             "e-peloza": "nay",
             "d-ferreira": "nay",
             "p-van-meerbergen": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "dbf3fce564a3",
@@ -25656,7 +26185,8 @@
             "s-hillier": "yea",
             "s-stevenson": "nay",
             "p-van-meerbergen": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "12e89301b66d",
@@ -25705,7 +26235,8 @@
             "s-trosow": "nay",
             "a-hopkins": "nay",
             "p-van-meerbergen": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "82651f9aa618",
@@ -25756,7 +26287,8 @@
             "e-peloza": "nay",
             "s-hillier": "nay",
             "p-van-meerbergen": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "60410fde2f32",
@@ -25807,7 +26339,8 @@
             "a-hopkins": "nay",
             "s-franke": "nay",
             "p-van-meerbergen": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "1deac33fe94e",
@@ -25858,7 +26391,8 @@
             "a-hopkins": "nay",
             "s-franke": "nay",
             "p-van-meerbergen": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "72dd2f4f442c",
@@ -25900,7 +26434,8 @@
             "e-peloza": "nay",
             "s-hillier": "nay",
             "s-lewis": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "0184fa0a0fc6",
@@ -25942,7 +26477,8 @@
             "s-hillier": "yea",
             "e-peloza": "nay",
             "s-lewis": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "1402497f6c18",
@@ -25981,7 +26517,8 @@
             "s-hillier": "yea",
             "e-peloza": "nay",
             "s-lewis": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "db7bbc7688df",
@@ -26032,7 +26569,8 @@
             "s-trosow": "nay",
             "a-hopkins": "nay",
             "s-franke": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "ab6d8e785355",
@@ -26081,7 +26619,8 @@
             "s-franke": "nay",
             "e-peloza": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "8ccb597c246d",
@@ -26130,7 +26669,8 @@
             "d-ferreira": "yea",
             "s-hillier": "yea",
             "a-hopkins": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "2f920c10be10",
@@ -26179,7 +26719,8 @@
             "d-ferreira": "yea",
             "s-hillier": "yea",
             "a-hopkins": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "1fa5cd5591bb",
@@ -26228,7 +26769,8 @@
             "j-morgan": "nay",
             "s-franke": "nay",
             "e-peloza": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "c1c7db59127a",
@@ -26279,7 +26821,8 @@
             "d-ferreira": "yea",
             "s-hillier": "yea",
             "s-stevenson": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "fd6601ac30ac",
@@ -26330,7 +26873,8 @@
             "e-peloza": "yea",
             "d-ferreira": "yea",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "c98684871555",
@@ -26381,7 +26925,8 @@
             "d-ferreira": "yea",
             "s-hillier": "yea",
             "s-trosow": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "ef9ba6dbe683",
@@ -26432,7 +26977,8 @@
             "s-hillier": "yea",
             "s-trosow": "nay",
             "a-hopkins": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "e836ac41a3c7",
@@ -26483,7 +27029,8 @@
             "s-lehman": "nay",
             "p-van-meerbergen": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "99f29202a186",
@@ -26525,7 +27072,8 @@
             "s-hillier": "yea",
             "s-lewis": "nay",
             "j-morgan": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "d2716533c7ce",
@@ -26567,7 +27115,8 @@
             "e-peloza": "yea",
             "s-hillier": "nay",
             "j-morgan": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "f498b09bf877",
@@ -26620,7 +27169,8 @@
             "s-hillier": "yea",
             "s-lewis": "nay",
             "p-cuddy": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "4446fedbea38",
@@ -26671,7 +27221,8 @@
             "s-hillier": "yea",
             "s-lewis": "nay",
             "p-cuddy": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "10892fc2efb1",
@@ -26722,7 +27273,8 @@
             "e-peloza": "nay",
             "d-ferreira": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "bc7a8160cced",
@@ -26773,7 +27325,8 @@
             "s-trosow": "nay",
             "p-van-meerbergen": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "2208de181f92",
@@ -26814,7 +27367,8 @@
             "s-lehman": "yea",
             "e-peloza": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "a81672d4d25e",
@@ -26855,7 +27409,8 @@
             "s-lehman": "yea",
             "e-peloza": "yea",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "7bf2c413ec40",
@@ -26891,7 +27446,8 @@
             "s-hillier": "yea",
             "e-peloza": "nay",
             "s-lehman": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "f256055d95cb",
@@ -26937,7 +27493,8 @@
             "s-franke": "nay",
             "e-peloza": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "6991a4e352fd",
@@ -26988,7 +27545,8 @@
             "s-franke": "nay",
             "e-peloza": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "c32437ad0b43",
@@ -27039,7 +27597,8 @@
             "d-ferreira": "yea",
             "s-hillier": "yea",
             "s-trosow": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "b753dfd3c407",
@@ -27088,7 +27647,8 @@
             "d-ferreira": "yea",
             "s-hillier": "yea",
             "p-van-meerbergen": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "7b6d29cb16f3",
@@ -27136,7 +27696,8 @@
             "s-lehman": "nay",
             "p-van-meerbergen": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "b2b72641647f",
@@ -27182,7 +27743,8 @@
             "e-peloza": "nay",
             "d-ferreira": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "70cd8d04ee9d",
@@ -27228,7 +27790,8 @@
             "a-hopkins": "nay",
             "e-peloza": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "331bb35d80e2",
@@ -27274,7 +27837,8 @@
             "d-ferreira": "yea",
             "c-rahman": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "9aa72a6ab218",
@@ -27315,7 +27879,8 @@
             "s-hillier": "yea",
             "s-lehman": "nay",
             "e-peloza": "recuse"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "171d5c892bfb",
@@ -27352,7 +27917,8 @@
             "s-lehman": "yea",
             "s-hillier": "yea",
             "e-peloza": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "9e503f314d94",
@@ -27393,7 +27959,8 @@
             "s-lehman": "yea",
             "s-hillier": "yea",
             "e-peloza": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "b017923d55c1",
@@ -27446,7 +28013,8 @@
             "s-hillier": "yea",
             "a-hopkins": "nay",
             "s-trosow": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "e1974f38c44e",
@@ -27497,7 +28065,8 @@
             "s-hillier": "yea",
             "a-hopkins": "nay",
             "s-trosow": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "24cfd392afd1",
@@ -27550,7 +28119,8 @@
             "a-hopkins": "nay",
             "s-franke": "nay",
             "s-trosow": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "998896f19c8a",
@@ -27586,7 +28156,8 @@
             "s-hillier": "yea",
             "s-lehman": "nay",
             "s-franke": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "3f770d25c82d",
@@ -27627,7 +28198,8 @@
             "c-rahman": "nay",
             "s-lehman": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "1e1a518676e9",
@@ -27680,7 +28252,8 @@
             "s-hillier": "yea",
             "s-trosow": "nay",
             "s-lehman": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "b616e778e552",
@@ -27731,7 +28304,8 @@
             "s-franke": "nay",
             "s-hillier": "nay",
             "s-lehman": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "81992ec0e7e0",
@@ -27782,7 +28356,8 @@
             "s-hillier": "yea",
             "s-trosow": "nay",
             "s-lehman": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "1db64f986a3b",
@@ -27819,7 +28394,8 @@
             "s-lehman": "yea",
             "s-hillier": "yea",
             "s-franke": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "ef2c2268354d",
@@ -27861,7 +28437,8 @@
             "s-lehman": "nay",
             "s-franke": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "0a74276ce449",
@@ -27902,7 +28479,8 @@
             "s-franke": "yea",
             "s-hillier": "yea",
             "c-rahman": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "5c04feb0794a",
@@ -27941,7 +28519,8 @@
             "d-ferreira": "yea",
             "j-pribil": "nay",
             "j-morgan": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "6b9defad7fd1",
@@ -27978,7 +28557,8 @@
             "s-trosow": "nay",
             "d-ferreira": "nay",
             "j-morgan": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "31bbea57ba6c",
@@ -28015,7 +28595,8 @@
             "j-pribil": "nay",
             "e-peloza": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "83fca2487789",
@@ -28055,7 +28636,8 @@
             "j-pribil": "nay",
             "e-peloza": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "6876e0b0cc58",
@@ -28106,7 +28688,8 @@
             "d-ferreira": "yea",
             "s-hillier": "yea",
             "e-peloza": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "272a376d7260",
@@ -28159,7 +28742,8 @@
             "d-ferreira": "yea",
             "s-hillier": "yea",
             "s-franke": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "6fab980660b0",
@@ -28201,7 +28785,8 @@
             "c-rahman": "nay",
             "s-franke": "nay",
             "j-morgan": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "ad339c9b06e8",
@@ -28249,7 +28834,8 @@
             "s-lehman": "nay",
             "p-van-meerbergen": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "7f5068930d35",
@@ -28297,7 +28883,8 @@
             "p-van-meerbergen": "nay",
             "e-peloza": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "34976a1a54fe",
@@ -28343,7 +28930,8 @@
             "s-trosow": "nay",
             "a-hopkins": "nay",
             "e-peloza": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "a1b9fccc38ff",
@@ -28391,7 +28979,8 @@
             "s-franke": "nay",
             "d-ferreira": "nay",
             "e-peloza": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "dd905ee3c418",
@@ -28442,7 +29031,8 @@
             "s-hillier": "yea",
             "s-trosow": "nay",
             "e-peloza": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "f722cfd9fb10",
@@ -28493,7 +29083,8 @@
             "s-hillier": "yea",
             "s-trosow": "nay",
             "e-peloza": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "352073fe24b3",
@@ -28544,7 +29135,8 @@
             "s-trosow": "nay",
             "a-hopkins": "nay",
             "e-peloza": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "b8345065f9bc",
@@ -28580,7 +29172,8 @@
             "s-lehman": "yea",
             "s-hillier": "yea",
             "s-franke": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "7e782b52c39f",
@@ -28631,7 +29224,8 @@
             "s-hillier": "yea",
             "s-trosow": "nay",
             "s-stevenson": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "768ee01c15a5",
@@ -28682,7 +29276,8 @@
             "a-hopkins": "nay",
             "d-ferreira": "nay",
             "s-stevenson": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "f4782fc80f03",
@@ -28723,7 +29318,8 @@
             "s-franke": "yea",
             "s-hillier": "yea",
             "c-rahman": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "90385271a27f",
@@ -28759,7 +29355,8 @@
             "s-lehman": "yea",
             "s-hillier": "yea",
             "s-franke": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "6e35af7bb7de",
@@ -28807,7 +29404,8 @@
             "s-franke": "nay",
             "d-ferreira": "nay",
             "e-peloza": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "e313598d210c",
@@ -28860,7 +29458,8 @@
             "a-hopkins": "nay",
             "s-franke": "nay",
             "e-peloza": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "7eafda7b451a",
@@ -28908,7 +29507,8 @@
             "s-franke": "nay",
             "d-ferreira": "nay",
             "e-peloza": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "8ef12455ba0e",
@@ -28949,7 +29549,8 @@
             "s-lehman": "yea",
             "s-hillier": "yea",
             "s-franke": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "f1d57d58bac3",
@@ -28995,7 +29596,8 @@
             "s-trosow": "nay",
             "a-hopkins": "nay",
             "h-mcalister": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "cc4b3d0d54e6",
@@ -29048,7 +29650,8 @@
             "s-trosow": "nay",
             "d-ferreira": "nay",
             "h-mcalister": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "c27e967fda33",
@@ -29096,7 +29699,8 @@
             "e-peloza": "nay",
             "s-hillier": "nay",
             "h-mcalister": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "bd7b7695c008",
@@ -29144,7 +29748,8 @@
             "e-peloza": "nay",
             "s-hillier": "nay",
             "h-mcalister": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "5ba64d6157c4",
@@ -29195,7 +29800,8 @@
             "s-hillier": "yea",
             "p-van-meerbergen": "nay",
             "h-mcalister": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "057d37f642a6",
@@ -29236,7 +29842,8 @@
             "s-lehman": "yea",
             "s-hillier": "yea",
             "s-franke": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "3daac1dd1dcf",
@@ -29277,7 +29884,8 @@
             "s-franke": "yea",
             "s-hillier": "yea",
             "c-rahman": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "f6ec0f5ba0a1",
@@ -29330,7 +29938,8 @@
             "h-mcalister": "absent",
             "s-stevenson": "absent",
             "e-peloza": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "aa61ec1f12b2",
@@ -29378,7 +29987,8 @@
             "s-lehman": "nay",
             "h-mcalister": "absent",
             "s-stevenson": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "dd9bb8b6f9cb",
@@ -29431,7 +30041,8 @@
             "s-hillier": "nay",
             "h-mcalister": "absent",
             "s-stevenson": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "2873091ebefb",
@@ -29479,7 +30090,8 @@
             "e-peloza": "nay",
             "d-ferreira": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "7f8dde7b0cde",
@@ -29527,7 +30139,8 @@
             "e-peloza": "nay",
             "d-ferreira": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "99e90a7b11ad",
@@ -29570,7 +30183,8 @@
             "s-lehman": "yea",
             "s-franke": "yea",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "f7d62ff167d6",
@@ -29606,7 +30220,8 @@
             "s-franke": "yea",
             "s-hillier": "yea",
             "s-lewis": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "9a29a88938a5",
@@ -29642,7 +30257,8 @@
             "s-franke": "yea",
             "s-hillier": "yea",
             "s-lehman": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "89053b09c443",
@@ -29678,7 +30294,8 @@
             "s-hillier": "yea",
             "s-lewis": "nay",
             "s-lehman": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "8a00c1abc737",
@@ -29719,7 +30336,8 @@
             "s-lehman": "yea",
             "s-franke": "yea",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "8e80a032315e",
@@ -29770,7 +30388,8 @@
             "j-pribil": "nay",
             "s-lehman": "nay",
             "p-van-meerbergen": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "d9c48e6e3305",
@@ -29812,7 +30431,8 @@
             "s-lewis": "nay",
             "j-morgan": "absent",
             "s-lehman": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "dfbe003808ef",
@@ -29865,7 +30485,8 @@
             "a-hopkins": "nay",
             "s-franke": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "0b97a04eaed5",
@@ -29913,7 +30534,8 @@
             "p-van-meerbergen": "nay",
             "e-peloza": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "1d96de84a4bd",
@@ -29959,7 +30581,8 @@
             "a-hopkins": "nay",
             "s-franke": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "010b791d324c",
@@ -30000,7 +30623,8 @@
             "s-hillier": "yea",
             "c-rahman": "nay",
             "s-franke": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "86db2a8d88e6",
@@ -30041,7 +30665,8 @@
             "c-rahman": "nay",
             "s-lehman": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "4a21a131c64b",
@@ -30082,7 +30707,8 @@
             "s-franke": "yea",
             "s-lewis": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "dd17ec0fa6f7",
@@ -30123,7 +30749,8 @@
             "s-hillier": "yea",
             "s-franke": "nay",
             "s-lehman": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "fffb79dd714e",
@@ -30174,7 +30801,8 @@
             "s-hillier": "yea",
             "p-van-meerbergen": "nay",
             "d-ferreira": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "72994a9b8075",
@@ -30212,7 +30840,8 @@
             "s-lewis": "nay",
             "s-lehman": "nay",
             "s-franke": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "8358c3f069f0",
@@ -30263,7 +30892,8 @@
             "s-trosow": "nay",
             "c-rahman": "nay",
             "a-hopkins": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "c4485e215486",
@@ -30305,7 +30935,8 @@
             "s-hillier": "yea",
             "a-hopkins": "nay",
             "j-morgan": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "bb1120077cbd",
@@ -30342,7 +30973,8 @@
             "s-lehman": "nay",
             "s-hillier": "nay",
             "j-morgan": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "1f206da9840c",
@@ -30393,7 +31025,8 @@
             "d-ferreira": "nay",
             "p-van-meerbergen": "recuse",
             "s-hillier": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "6dbc0c18c74d",
@@ -30439,7 +31072,8 @@
             "d-ferreira": "nay",
             "p-van-meerbergen": "recuse",
             "s-hillier": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "cf76e7be4713",
@@ -30485,7 +31119,8 @@
             "d-ferreira": "nay",
             "p-van-meerbergen": "recuse",
             "s-hillier": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "a52df3668cd4",
@@ -30534,7 +31169,8 @@
             "s-hillier": "nay",
             "a-hopkins": "absent",
             "e-peloza": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "afa632a6cb38",
@@ -30582,7 +31218,8 @@
             "s-hillier": "nay",
             "a-hopkins": "absent",
             "e-peloza": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "c0e0eab57589",
@@ -30630,7 +31267,8 @@
             "s-hillier": "nay",
             "a-hopkins": "absent",
             "e-peloza": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "3492773f6fbc",
@@ -30683,7 +31321,8 @@
             "s-hillier": "yea",
             "s-trosow": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "b9f74a12e280",
@@ -30729,7 +31368,8 @@
             "s-franke": "nay",
             "e-peloza": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "775eee558b48",
@@ -30777,7 +31417,8 @@
             "s-hillier": "yea",
             "s-stevenson": "nay",
             "p-van-meerbergen": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "3fdd608ce400",
@@ -30823,7 +31464,8 @@
             "s-trosow": "nay",
             "s-lehman": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "55937a3373fb",
@@ -30876,7 +31518,8 @@
             "d-ferreira": "yea",
             "s-hillier": "yea",
             "a-hopkins": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "a430cb059a46",
@@ -30913,7 +31556,8 @@
             "a-hopkins": "nay",
             "s-franke": "nay",
             "j-morgan": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "98596ace71e7",
@@ -30955,7 +31599,8 @@
             "s-hillier": "yea",
             "a-hopkins": "nay",
             "j-morgan": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "d2c96f469559",
@@ -31008,7 +31653,8 @@
             "s-trosow": "nay",
             "a-hopkins": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "d4dc1443533a",
@@ -31056,7 +31702,8 @@
             "e-peloza": "yea",
             "s-hillier": "yea",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "8fb0cfa6e7c6",
@@ -31093,7 +31740,8 @@
             "s-hillier": "yea",
             "s-franke": "nay",
             "j-morgan": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "81b290ac64e2",
@@ -31135,7 +31783,8 @@
             "s-hillier": "yea",
             "a-hopkins": "nay",
             "j-morgan": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "c395f863144d",
@@ -31188,7 +31837,8 @@
             "p-van-meerbergen": "nay",
             "c-rahman": "absent",
             "e-peloza": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "41a162dae8e3",
@@ -31236,7 +31886,8 @@
             "d-ferreira": "nay",
             "c-rahman": "absent",
             "e-peloza": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "36f22d76c71b",
@@ -31284,7 +31935,8 @@
             "d-ferreira": "nay",
             "c-rahman": "absent",
             "e-peloza": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "ed7c57811970",
@@ -31326,7 +31978,8 @@
             "s-hillier": "yea",
             "s-lewis": "nay",
             "j-morgan": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "8d37e0c503bc",
@@ -31368,7 +32021,8 @@
             "s-lewis": "nay",
             "s-lehman": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "6c2e1a86a1c1",
@@ -31416,7 +32070,8 @@
             "s-hillier": "yea",
             "p-van-meerbergen": "nay",
             "s-stevenson": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "bcf2885344bc",
@@ -31464,7 +32119,8 @@
             "e-peloza": "nay",
             "s-hillier": "nay",
             "s-stevenson": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "04c7e4c30cd1",
@@ -31506,7 +32162,8 @@
             "s-lehman": "nay",
             "j-morgan": "absent",
             "a-hopkins": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "eff54431a239",
@@ -31545,7 +32202,8 @@
             "s-franke": "nay",
             "j-morgan": "absent",
             "a-hopkins": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "6b989391e04c",
@@ -31596,7 +32254,8 @@
             "p-van-meerbergen": "nay",
             "s-trosow": "absent",
             "d-ferreira": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "c699eb9cc94f",
@@ -31647,7 +32306,8 @@
             "p-van-meerbergen": "nay",
             "e-peloza": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "a4044aae6238",
@@ -31695,7 +32355,8 @@
             "a-hopkins": "nay",
             "s-franke": "nay",
             "d-ferreira": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "cacc4eabf8e7",
@@ -31746,7 +32407,8 @@
             "p-van-meerbergen": "nay",
             "e-peloza": "nay",
             "s-hillier": "nay"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "7c12069f2f9b",
@@ -31788,7 +32450,8 @@
             "s-franke": "yea",
             "s-hillier": "nay",
             "j-morgan": "absent"
-          }
+          },
+          "resultNote": null
         },
         {
           "id": "2debd88e147d",
@@ -31830,7 +32493,8 @@
             "s-lehman": "nay",
             "s-hillier": "nay",
             "j-morgan": "absent"
-          }
+          },
+          "resultNote": null
         }
       ]
     }

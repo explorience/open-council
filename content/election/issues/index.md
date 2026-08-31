@@ -2,6 +2,7 @@
 title: "Divided Votes by Issue — Election Lens"
 cssclasses:
   - election-hub
+  - hide-folder-listing
 prefillQuestions: []
 ---
 
