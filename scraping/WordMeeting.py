@@ -16,6 +16,23 @@ from callout import callout
 from content import Content, Paragraph, Motion, Vote, MotionResult, Mover, Bills, BILL_TEXT
 
 
+# A vote/result block that lands OUTSIDE any table - e.g. the closed-session
+# "rise and report" pattern where a whole slate of in-camera items is voted
+# on as bare paragraphs instead of inside a <td> - always opens with the
+# result line and is immediately followed by one or more YEAS:/NAYS:/etc.
+# rows. See parse_agenda_structure's stray-paragraph state machine.
+VOTE_RESULT_START_RE = re.compile(r'^Motion\s+(Passed|Failed|Carried)\b', re.IGNORECASE)
+VOTE_ROW_CONTINUATION_RE = re.compile(r'^(YEAS?|NAYS?|ABSENT|RECUSED?|ABSTAIN(?:ED)?|CONFLICT)S?\s*:', re.IGNORECASE)
+
+# Pre-2018 minutes split a single roll call across two adjacent Motion
+# objects: one holding the real motion text with no vote, the next holding
+# the vote whose own motion_texts is just this boilerplate result echo. A
+# motion whose text is exactly this (nothing else) is the tell that it's
+# the vote-bearing half of that split and needs the real text merged in -
+# see _attach_content's look-behind merge and issue #199 (d2).
+BOILERPLATE_RESULT_TEXT_RE = re.compile(r'^Motion\s+(Passed|Failed|Carried)(\s*\([^)]*\))?\.?$', re.IGNORECASE)
+
+
 # Minimal MeetingItem class to avoid circular import while maintaining JSON compatibility
 class MeetingItem:
     """Minimal MeetingItem for Word format meetings - matches eScribe format in JSON."""
@@ -94,7 +111,14 @@ class WordMeeting:
 
         # Parse content and items
         self.content = self.extract_opening_content()
-        self.items = self.parse_agenda_structure()
+        self.items = self.parse_agenda_structure(word_section)
+
+        # Scrape-time guardrail (issue #199 guardrail a): a re-scrape that
+        # silently drops roll calls must fail loudly instead of shipping a
+        # quietly-undercounted meeting. Only meaningful when there's a
+        # document to check against.
+        if word_section is not None:
+            self.assert_vote_coverage(word_section)
 
         # Remove BeautifulSoup objects to avoid circular references in JSON serialization
         del self.paragraphs
@@ -233,43 +257,209 @@ class WordMeeting:
 
         return []
 
-    def parse_agenda_structure(self):
-        """Parse the full agenda structure from tables and paragraphs."""
+    def parse_agenda_structure(self, word_section):
+        """Parse the full agenda structure from tables and paragraphs.
+
+        Walks the section content in true document order (tables AND
+        paragraphs interleaved) rather than tables alone, for two reasons
+        (see issue #199):
+
+        - A motion's result/vote block is sometimes its own tiny table
+          immediately after the table holding the motion's real text
+          (the "two adjacent Motion objects" pattern - handled by
+          _attach_content's look-behind merge, not here), and sometimes
+          it isn't in a table at all: the closed-session "rise and
+          report" pattern votes on a whole slate of items as bare
+          paragraphs. Both need to land in whichever section is
+          currently open, in the order they actually occur.
+        - A repeated section number (each committee report embedded in a
+          Council meeting restarts its own numbering at 1, 2, 3, ...)
+          must not overwrite the earlier section carrying that same
+          number - see the `section_occurrence` disambiguation below.
+        """
         items = {}
         current_section = None
         section_pattern = re.compile(r'^([IVX]+|[0-9]+\.?)\s*$')  # Roman numerals or numbers
+        section_occurrence = {}
 
-        # Process tables to find section headers and content
-        for table in self.tables:
-            rows = table.find_all('tr')
+        # Buffer for a stray (non-table) vote/result block currently being
+        # assembled - see the state machine in the `else` branch below.
+        stray_vote_lines = []
 
-            for row in rows:
-                cells = row.find_all('td')
+        def flush_stray_vote_block():
+            nonlocal stray_vote_lines, current_section
+            if stray_vote_lines:
+                target_section = current_section
+                if target_section is None:
+                    # A vote can land before the first numbered section
+                    # table appears at all - e.g. 2011-12-06 Council votes
+                    # on "no disclosures were made" and elects a Vice-Chair
+                    # as bare paragraphs ahead of item 1's table. Rather
+                    # than silently dropping it, file it under a synthetic
+                    # preamble section instead of losing the roll call.
+                    target_section = items.get('preamble')
+                    if target_section is None:
+                        target_section = MeetingItem.from_plain_data('preamble', 'Preamble')
+                        items['preamble'] = target_section
+                combined_text = ''.join(stray_vote_lines)
+                content_items = self.parse_content_block(combined_text)
+                self._attach_content(target_section, content_items)
+            stray_vote_lines = []
 
-                # Two-column table: might be section header or numbered item
-                if len(cells) == 2:
-                    first_cell_text = cells[0].get_text().strip()
-                    second_cell_text = cells[1].get_text().strip()
+        # Recursive so nested tables (e.g. an embedded committee-report
+        # block inside a <td>) are visited too, but each nested table's
+        # own <p> children are skipped below (find_parent('table') check)
+        # since their text is already captured via the outer cell's
+        # get_text(). A nested <table> element itself is likewise skipped
+        # when reached directly - it's processed as part of its parent
+        # row's cell content, not as a second top-level table.
+        for el in word_section.find_all(['table', 'p']):
+            if el.name == 'table':
+                if el.find_parent('table') is not None:
+                    continue  # nested table - handled via the outer cell's get_text()
 
-                    # Check if first cell is a section marker (Roman numeral or number)
-                    match = section_pattern.match(first_cell_text)
-                    if match and len(first_cell_text) <= 10:
-                        section_num = match.group(1).rstrip('.')
+                flush_stray_vote_block()
 
-                        # This is a new section - create real MeetingItem
-                        current_section = MeetingItem.from_plain_data(section_num, second_cell_text)
-                        items[section_num] = current_section
+                for row in el.find_all('tr'):
+                    # Direct children only: a cell that itself contains a
+                    # nested table must count as ONE cell here, not the
+                    # nested table's own <td>s flattened into this row's
+                    # count (that flattening used to make the row's cell
+                    # count neither 1 nor 2, silently dropping the whole
+                    # row - see 2016-08-30 Council's Debt Management
+                    # Policy / Budget Schedule embedded report).
+                    cells = row.find_all('td', recursive=False)
 
-                # Single-column table: might be content for current section
-                elif len(cells) == 1 and current_section:
-                    cell_text = cells[0].get_text().strip()
+                    if len(cells) == 2:
+                        first_cell_text = cells[0].get_text().strip()
+                        second_cell_text = cells[1].get_text().strip()
 
-                    if cell_text:
-                        # Check if it's a motion or voting record
-                        content_items = self.parse_content_block(cell_text)
-                        current_section.content.extend(content_items)
+                        # Check if first cell is a section marker (Roman numeral or number)
+                        match = section_pattern.match(first_cell_text)
+                        if match and len(first_cell_text) <= 10:
+                            section_num = match.group(1).rstrip('.')
+
+                            # This is a new section - create real MeetingItem.
+                            # `.number` always stays the plain original label
+                            # (used for display); only the dict key gets
+                            # disambiguated so a repeated number doesn't
+                            # overwrite (and silently discard the votes of)
+                            # the earlier section carrying it.
+                            current_section = MeetingItem.from_plain_data(section_num, second_cell_text)
+                            occurrence = section_occurrence.get(section_num, 0) + 1
+                            section_occurrence[section_num] = occurrence
+                            key = section_num if occurrence == 1 else f"{section_num}#{occurrence}"
+                            items[key] = current_section
+                        elif current_section and bool(first_cell_text) != bool(second_cell_text):
+                            # A motion/vote block rendered as (content, "")
+                            # or ("", content) instead of the usual
+                            # single-cell shape - e.g. 2016-08-30 Council's
+                            # "Motion Passed / YEAS: .../ NAYS: ..." rows
+                            # put it in the first cell with an empty
+                            # second cell; 2011-12-06 Council puts the
+                            # same shape of content in the SECOND cell
+                            # with an empty first cell. Either way, exactly
+                            # one side is blank, so use whichever isn't.
+                            content_items = self.parse_content_block(first_cell_text or second_cell_text)
+                            self._attach_content(current_section, content_items)
+
+                    # Single-column table: might be content for current section
+                    elif len(cells) == 1 and current_section:
+                        cell_text = cells[0].get_text().strip()
+
+                        if cell_text:
+                            # Check if it's a motion or voting record
+                            content_items = self.parse_content_block(cell_text)
+                            self._attach_content(current_section, content_items)
+
+            else:  # <p> paragraph
+                if el.find_parent('table') is not None:
+                    continue  # belongs to a table cell already handled above
+
+                text = el.get_text().strip()
+
+                if stray_vote_lines:
+                    if not text or VOTE_ROW_CONTINUATION_RE.match(text):
+                        stray_vote_lines.append(text)
+                        continue
+                    flush_stray_vote_block()
+                    # fall through - this paragraph may itself start a new block
+
+                if VOTE_RESULT_START_RE.match(text):
+                    stray_vote_lines = [text]
+
+        flush_stray_vote_block()
 
         return items
+
+    def _attach_content(self, section, content_items):
+        """Append parsed content to a section, merging the pre-2018
+        "two adjacent objects" split (issue #199, d2): the motion's real
+        text lands in a separate preceding object with no vote, and the
+        vote lands in the next Motion whose own motion_texts is just a
+        boilerplate result echo ("Motion Passed"/"Motion Failed"/"Motion
+        Carried"). extractMotionText() in generate-votes.ts only ever sees
+        the vote-bearing one, so without this merge every pre-2018 vote
+        record stores that boilerplate instead of the real motion text.
+
+        The preceding object is a Motion with no vote when the source used
+        explicit "Moved by X..." phrasing; far more commonly (Council
+        adopting a committee report recommendation en bloc) it's phrased
+        "That, on the recommendation of ... the following actions be
+        taken..." with no "Moved by" at all, so parse_content_block
+        returns it as a plain Paragraph instead - both shapes are handled
+        here.
+        """
+        for item in content_items:
+            if not (isinstance(item, Motion) and item.vote.rows and self._is_boilerplate_motion(item) and section.content):
+                section.content.append(item)
+                continue
+
+            prev = section.content[-1]
+            if isinstance(prev, Motion) and not prev.vote.rows and not self._is_boilerplate_motion(prev):
+                section.content.pop()
+                item.motion_texts = prev.motion_texts
+                if not item.moved_by.string:
+                    item.moved_by = prev.moved_by
+                if not item.seconded_by.string:
+                    item.seconded_by = prev.seconded_by
+            elif type(prev) is Paragraph and prev.string.strip():
+                section.content.pop()
+                item.motion_texts = [prev]
+
+            section.content.append(item)
+
+    @staticmethod
+    def _is_boilerplate_motion(motion):
+        combined = ' '.join(p.string for p in motion.motion_texts if getattr(p, 'string', '')).strip()
+        return combined == '' or bool(BOILERPLATE_RESULT_TEXT_RE.match(combined))
+
+    def assert_vote_coverage(self, word_section):
+        """Scrape-time guardrail (issue #199 guardrail a): count YEAS:
+        occurrences in the raw source text and fail loudly if fewer roll
+        calls were actually parsed. A silent drop here is exactly what let
+        34-61% of pre-2018 Council roll calls disappear without any signal
+        - see the investigation on issue #199.
+        """
+        raw_yeas_count = len(re.findall(r'YEAS?:', word_section.get_text(), re.IGNORECASE))
+        parsed_yeas_rows = self._count_yea_rows(self.items)
+
+        if parsed_yeas_rows < raw_yeas_count:
+            raise ValueError(
+                f"WordMeeting vote-coverage guardrail failed for {self.url}: "
+                f"raw source has {raw_yeas_count} 'YEAS:' occurrence(s) but only "
+                f"{parsed_yeas_rows} Yeas row(s) were parsed. Refusing to silently "
+                f"undercount roll calls - see issue #199 guardrail (a)."
+            )
+
+    @staticmethod
+    def _count_yea_rows(items):
+        count = 0
+        for item in items.values():
+            for c in item.content:
+                if isinstance(c, Motion) and c.vote.rows:
+                    count += sum(1 for r in c.vote.rows if r["vote"].lower().startswith("yea"))
+        return count
 
     def parse_content_block(self, text):
         """Parse a content block that might contain motions, voting, or regular text."""
@@ -278,8 +468,15 @@ class WordMeeting:
         # Check for motion patterns - handle both formats:
         # 1. "Moved by X and seconded by Y that..."
         # 2. "Motion made by X and seconded by Y to..."
+        # `\s+` (not a literal space) between the words of "Moved by" /
+        # "Motion made by": Word's line-wrapped export puts a real
+        # newline+indent at whatever column the wrap lands on, and it
+        # sometimes lands mid-phrase ("Motion\n  made by ..." - see
+        # 2011-12-06 Council). A literal-space match would silently miss
+        # the motion entirely and fall through to the no-attribution
+        # standalone-vote branch below.
         motion_match = re.search(
-            r'(?:Moved by|Motion made by)\s+(.+?)(?:\s+and\s+)?(?:seconded by\s+(.+?))?\s+(?:that|to)\s+',
+            r'(?:Moved\s+by|Motion\s+made\s+by)\s+(.+?)(?:\s+and\s+)?(?:seconded\s+by\s+(.+?))?\s+(?:that|to)\s+',
             text, re.IGNORECASE | re.DOTALL
         )
 
@@ -294,9 +491,24 @@ class WordMeeting:
             if seconded_by and not seconded_by.lower().startswith('seconded by'):
                 seconded_by = f"Seconded by {seconded_by}"
 
+            # A single table cell can (rarely) hold more than one motion
+            # back to back - e.g. 2011-12-06 Council: "Moved by ... to
+            # Amend clause 2 ... Motion Passed YEAS: ... Moved by ... to
+            # refer clause 2 ...". Scope this motion's own text/vote/
+            # result extraction to stop before any subsequent "Moved by"/
+            # "Motion made by" in the same cell, so the second motion's
+            # text (and its own vote, found below) isn't silently
+            # swallowed into this one's motion_text.
+            next_motion_match = re.search(
+                r'(?:Moved\s+by|Motion\s+made\s+by)\s+', text[motion_match.end():], re.IGNORECASE
+            )
+            scope_end = motion_match.end() + next_motion_match.start() if next_motion_match else len(text)
+            scoped_text = text[:scope_end]
+            remainder_text = text[scope_end:] if next_motion_match else ""
+
             # Extract motion text (everything after "that" or "to")
             motion_start = motion_match.end()
-            motion_text = text[motion_start:].strip()
+            motion_text = scoped_text[motion_start:].strip()
 
             # Look for vote and result in the remaining text
             vote_rows = []
@@ -304,18 +516,18 @@ class WordMeeting:
 
             # Extract YEAS - match across multiple lines until we hit NAYS or Motion result
             yeas_match = re.search(r'YEAS?:\s*(.+?)(?=(?:NAYS?:|Motion\s+(?:Passed|Failed|Carried)|$))',
-                                  text, re.IGNORECASE | re.DOTALL)
+                                  scoped_text, re.IGNORECASE | re.DOTALL)
             if yeas_match:
                 yeas_text = yeas_match.group(1).strip()
                 yeas_names = self.parse_names(yeas_text)
                 if yeas_names:  # Only add if we got valid names
                     vote_rows.append({"vote": "Yeas:", "voters": yeas_names})
                 # Remove YEAS from motion text
-                motion_text = text[motion_start:yeas_match.start()].strip()
+                motion_text = scoped_text[motion_start:yeas_match.start()].strip()
 
             # Extract NAYS - match across multiple lines until we hit Motion result or end
             nays_match = re.search(r'NAYS?:\s*(.+?)(?=(?:Motion\s+(?:Passed|Failed|Carried)|$))',
-                                  text, re.IGNORECASE | re.DOTALL)
+                                  scoped_text, re.IGNORECASE | re.DOTALL)
             if nays_match:
                 nays_text = nays_match.group(1).strip()
                 nays_names = self.parse_names(nays_text)
@@ -323,13 +535,16 @@ class WordMeeting:
                     vote_rows.append({"vote": "Nays:", "voters": nays_names})
 
             # Extract result
-            result_match = re.search(r'Motion\s+(Passed|Failed|Carried)(\s+\([^)]+\))?', text, re.IGNORECASE)
+            result_match = re.search(r'Motion\s+(Passed|Failed|Carried)(\s+\([^)]+\))?', scoped_text, re.IGNORECASE)
             if result_match:
                 result = result_match.group(0)
 
             # Create real Motion instance
             motion = Motion.from_plain_data(moved_by, seconded_by, motion_text, vote_rows, result)
             content.append(motion)
+
+            if remainder_text.strip():
+                content.extend(self.parse_content_block(remainder_text))
 
         # Check for standalone voting (no "Moved by" or "Motion made by")
         elif re.search(r'YEAS?:', text, re.IGNORECASE):
