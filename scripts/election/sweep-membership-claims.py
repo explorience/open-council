@@ -14,23 +14,34 @@ that kept the same underlying claim, in different words, sailed through.
 Round-7 added: same failure mode again, in a THIRD wording — the empty-
 profile fallback in generate-hub-pages.ts asserted membership via
 "committee assignments didn't overlap", using neither "member" nor "roster".
-Added the "assignment"/"assignments" word-stem and the "sits on"/"serves
-on"/"appointed to"/"seat on" exact phrases so the next rewording of this
-same claim, in any of these words, is caught too.
+Added the "assignment"/"assignments" word-stem, plus "sits on"/"serves
+on"/"appointed to"/"seat on" as TIER-1 exact phrases (no exemptions), on
+the reasoning that these four are specific enough to a membership claim
+that they wouldn't occur in a genuine council record.
+
+Round-8 gate item 6: that reasoning was wrong. 16 real motions since 2023
+use "appointed to", "sits on", "serves on" or "seat on" verbatim in their
+own agenda-item title or motion text (committee/board appointment items are
+routine council business) — as tier-1, no-exemption phrases, every one of
+those legitimate quotations was a false-positive FAIL. Moved all four to
+TIER-2 (word-stem tier, same verbatim-source-line exemption as roster/
+member/membership/observer/assignment already get) instead of removing
+them: they still catch a reworded membership claim in ordinary prose, they
+just no longer fire on a real motion quoting its own appointment.
 
 DETECTION RULE (the whole rule, not a summary): two tiers of pattern, over
 every *.md file under content/election/.
 
-  1. EXACT_PHRASE_PATTERNS (unchanged from round-5): specific wordings past
-     generators used to claim a councillor IS or IS NOT a member of a
-     committee, in either direction, plus generic guard phrases. Scanned
-     against the ENTIRE file, including markdown table cells and quoted
-     source-title lines — these phrasings are specific enough that they are
-     not expected to occur in a verbatim quote of a real council agenda item
-     or motion text.
+  1. EXACT_PHRASE_PATTERNS: specific wordings past generators used to claim
+     a councillor IS or IS NOT a member of a committee, in either direction,
+     plus generic guard phrases. Scanned against the ENTIRE file, including
+     markdown table cells and quoted source-title lines — these phrasings
+     are specific enough that they are not expected to occur in a verbatim
+     quote of a real council agenda item or motion text.
 
-  2. WORD_STEM_PATTERNS (new, round-6 gate item 3): bare stems roster,
-     member, membership, observer — added because item 1's exact-phrase
+  2. WORD_STEM_PATTERNS: bare stems roster, member, membership, observer,
+     assignment(s), plus (round-8 gate item 6) "sits on", "serves on",
+     "appointed to", "seat on" — added because item 1's exact-phrase
      wording is exactly what round-5's inversion evaded; a bare-stem net
      catches ANY future rewording that reaches for this vocabulary at all,
      not just the specific phrasings seen so far. Scanned only against lines
@@ -88,17 +99,6 @@ EXACT_PHRASE_PATTERNS = [
     (r"was on the roster for", "round-5's INVERTED membership claim — the exact defect round-6 exists to catch"),
     (r"attended as an observer", "round-5's inverted non-membership claim"),
     (r"only committee members vote", "round-5's membership gloss on the observer clause"),
-    # Round-7 gate item 5: generate-hub-pages.ts's empty-profile fallback
-    # ("...whose committee assignments didn't overlap with any issue's
-    # divided votes") asserted membership via "assignment" rather than
-    # "member" or "roster" — a differently-worded reach for the exact same
-    # claim class. Caught here as exact phrasings; "sits on"/"serves on"/
-    # "appointed to"/"seat on" are the other common ways prose asserts
-    # membership without using the word "member" itself.
-    (r"\bsits on\b", "membership assertion (\"sits on\")"),
-    (r"\bserves on\b", "membership assertion (\"serves on\")"),
-    (r"\bappointed to\b", "membership assertion (\"appointed to\")"),
-    (r"\bseat on\b", "membership assertion (\"seat on\")"),
 ]
 
 # Bare word-stems that must not appear anywhere this sweep can be sure is
@@ -116,6 +116,21 @@ WORD_STEM_PATTERNS = [
     # claim in different words (see generate-hub-pages.ts's noPatternNote
     # fallback, fixed alongside this sweep addition).
     (r"\bassignments?\b", "word-stem: assignment"),
+    # Round-8 gate item 6: moved down from EXACT_PHRASE_PATTERNS (tier 1).
+    # Round-7 put these here as no-exemption whole-file phrases on the
+    # reasoning that they were specific enough to a membership claim not to
+    # occur in a genuine council record; that turned out to be false -- 16
+    # real motions since 2023 use one of these four phrasings verbatim in
+    # their own agenda-item title or motion text (appointing someone to a
+    # board or committee is routine council business). Tier 2 still catches
+    # a reworded membership claim anywhere in ordinary prose; it just also
+    # gets the same verbatim-source-line exemption (table rows, unclassified-
+    # list bullets) every other word-stem here already gets, so a real
+    # motion quoting its own appointment doesn't fail the sweep.
+    (r"\bsits on\b", "word-stem: \"sits on\""),
+    (r"\bserves on\b", "word-stem: \"serves on\""),
+    (r"\bappointed to\b", "word-stem: \"appointed to\""),
+    (r"\bseat on\b", "word-stem: \"seat on\""),
 ]
 
 EXACT_PHRASE_COMPILED = [(re.compile(p, re.IGNORECASE), desc) for p, desc in EXACT_PHRASE_PATTERNS]
