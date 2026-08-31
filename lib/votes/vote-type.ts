@@ -62,6 +62,20 @@ export function classifyVoteType(rawLabel: string | null | undefined): VoteType 
   return "other"
 }
 
+/**
+ * Marker appended to a VoteRecord's `motionText` by scripts/generate-votes.ts when the
+ * source text had to be cut off at the length cap. Chatbot-facing formatting
+ * (server/vote-lookup.ts) checks for this marker so it never tells the LLM a truncated
+ * excerpt is the "Full Motion Text" - a truncated mid-sentence fragment mislabeled as
+ * complete is exactly the kind of confidently-wrong context that produces bad answers.
+ */
+export const MOTION_TEXT_TRUNCATION_MARKER = " […motion text truncated]"
+
+/** True if a stored motionText was cut off (carries the truncation marker). */
+export function isMotionTextTruncated(motionText: string | undefined | null): boolean {
+  return !!motionText && motionText.endsWith(MOTION_TEXT_TRUNCATION_MARKER)
+}
+
 /** Human-readable label for a VoteType, used in chatbot-facing text. */
 export function voteTypeLabel(voteType: VoteType): string {
   switch (voteType) {
