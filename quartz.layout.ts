@@ -1,5 +1,7 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import type { QuartzComponent } from "./quartz/components/types"
+import { filterRealMeetingFiles } from "./lib/meetings/filter-real-meetings.js"
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -54,24 +56,30 @@ const explorerOnly = Component.Flex({
 })
 
 // Recent notes for simple mode on homepage
-const recentNotes = Component.RecentNotes({
+const recentNotesInner = Component.RecentNotes({
   title: "Recent Meetings",
   limit: 10,
   showTags: false,
-  filter: (f) => {
-    // Only show actual meeting pages (content/months/YYYY-MM/*.md). This is
-    // an inclusion check, not an exclusion list, so it can't go stale the
-    // way the old blocklist did: dateless evergreen pages (content/topics/*,
-    // guide.md) fell through the old filter, and since they have no
-    // date/created/modified frontmatter, Quartz's CreatedModifiedDate
-    // plugin fell back to filesystem mtime - which is "now" on every fresh
-    // deploy checkout - so they always sorted as the most recent items and
-    // filled the "Recent Meetings" rail with topic pages all dated today.
-    // Same "months/" convention already used by the explorer mapFn below
-    // and the WatchButton ConditionalRender further down this file.
-    return f.slug?.startsWith("months/") ?? false
-  }
+  // filterRealMeetingFiles already restricts to months/YYYY-MM/*.md and
+  // drops stale placeholders (see its call site below), so no per-item
+  // filter is needed here.
 })
+
+// Wrap RecentNotes so it only ever sees real, deduped meeting pages -
+// dateless evergreen pages (content/topics/*, guide.md) and stale "minutes
+// not yet published" placeholder duplicates never reach it. This is a
+// whole-array transform (dedup needs to see every candidate for a given
+// date+committee at once), which a per-item `filter: (f) => boolean`
+// predicate can't express, so it wraps the component instead of using
+// RecentNotes' own `filter` option. See lib/meetings/filter-real-meetings.ts
+// - the same function backs DashboardView's homepage rail, so this can't
+// drift into two different exclusion lists again.
+const recentNotes: QuartzComponent = (props) => {
+  return recentNotesInner({ ...props, allFiles: filterRealMeetingFiles(props.allFiles) })
+}
+recentNotes.css = recentNotesInner.css
+recentNotes.beforeDOMLoaded = recentNotesInner.beforeDOMLoaded
+recentNotes.afterDOMLoaded = recentNotesInner.afterDOMLoaded
 
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
