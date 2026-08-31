@@ -53,13 +53,16 @@ every *.md file under content/election/.
           the Committee of Adjustment (Requires 1 Member)", "Board Member
           Composition"). These appear in markdown table rows (evidence
           tables, issue-page vote tables) and in the "Unclassified divided
-          votes" bullet list (`- YYYY-MM-DD — <verbatim title> (item N)`).
-          Rewriting someone else's words to dodge this sweep would be a
-          worse defect than the one it exists to catch — see
-          verify-round4-items.py and the project's own citation-fidelity
-          rule. Detected structurally: a line that is a markdown table row
-          (starts with `|`) or an unclassified-list source-title bullet
-          (matches `^- \\d{4}-\\d{2}-\\d{2} — `).
+          votes" bullet list (`- Month D, YYYY — <verbatim title> (item N)`
+          as of round-10 gate item 1's formatDate() fix to that generator
+          call site; was `- YYYY-MM-DD — ...` before it, and this
+          exemption's pattern moved in lockstep so it keeps matching the
+          same real list). Rewriting someone else's words to dodge this
+          sweep would be a worse defect than the one it exists to catch —
+          see verify-round4-items.py and the project's own citation-
+          fidelity rule. Detected structurally: a line that is a markdown
+          table row (starts with `|`) or an unclassified-list source-title
+          bullet (matches `^- [A-Z][a-z]+ \\d{1,2}, \\d{4} — `).
        b. "roster data conflict" / "roster-conflicts.json" / rosterConflictCount
           prose — an established, unrelated data-quality concept (the same
           person recorded in two vote-kind buckets on one motion) that has
@@ -141,8 +144,10 @@ WORD_STEM_COMPILED = [(re.compile(p, re.IGNORECASE), desc) for p, desc in WORD_S
 TABLE_ROW_RE = re.compile(r"^\s*\|")
 
 # An "Unclassified divided votes" bullet quoting a real agenda-item title
-# verbatim — see generateIssuesIndexPage in generate-hub-pages.ts.
-SOURCE_TITLE_BULLET_RE = re.compile(r"^\s*-\s+\d{4}-\d{2}-\d{2}\s+—\s+")
+# verbatim — see generateIssuesIndexPage in generate-hub-pages.ts. Round-10
+# gate item 1: that generator call site now renders through formatDate(),
+# so the bullet opens with "Month D, YYYY — " instead of a raw ISO stamp.
+SOURCE_TITLE_BULLET_RE = re.compile(r"^\s*-\s+[A-Z][a-z]+ \d{1,2}, \d{4}\s+—\s+")
 
 # Explicit allowlist for the one legitimate, unrelated prose use of
 # "roster": the data-quality concept of a roster (vote-kind bucket)

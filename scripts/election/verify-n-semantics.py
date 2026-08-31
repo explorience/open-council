@@ -23,17 +23,27 @@ just re-deriving from stances.json a second time):
   2. Section sentence's ladder parenthetical is present iff ladderExcluded
      > 0, and states the correct count.
   3. Section sentence's recused/absent/abstain/other == stances.json
-     overall.{recused,absent,abstain,other}.
+     overall.{recused,absent,abstain,other}. Round-10 gate item 3
+     (audit finding): the non-position clause now names ONLY the
+     categories with a count > 0 (previously "0 recused, 0 absent."
+     published two vacuous zero-count facts unconditionally whenever
+     either was zero), so the clause's own text is parsed as a bag of
+     "N <category>" pairs rather than assumed to always carry exactly
+     "N recused, N absent(, N abstained, N other)?" in that fixed shape —
+     a category simply absent from the clause is treated as 0, same
+     value the old fixed-shape parse would have produced for it anyway.
   4. Section sentence's own numbers close: divisionsInCorpus == N + recused
      + absent + abstain + other + notOnRoster (re-derived from the
      sentence's own printed numbers, not trusted from stances.json).
   5. Evidence-table arithmetic, independently re-derived from the actual
      rendered table rows across every axis on this issue: counting the
-     "Their vote" column, #Yea + #Nay == N, and #Recused + #Absent +
-     #Abstained + #Other == recused + absent + abstain + other. Unclear-
-     evidence rows (6-column table, no "movedToward" cell) don't match the
-     7-column evidence-row pattern and are correctly excluded — they're
-     listed for transparency but were never part of any pattern or count.
+     "Their vote" column (round-10 gate item 4: now the SECOND column,
+     right after Date, not the fifth — see EVIDENCE_ROW_RE below), #Yea +
+     #Nay == N, and #Recused + #Absent + #Abstained + #Other == recused +
+     absent + abstain + other. Unclear-evidence rows (6-column table, no
+     "movedToward" cell) don't match the 7-column evidence-row pattern and
+     are correctly excluded — they're listed for transparency but were
+     never part of any pattern or count.
   6. No issue silently drops off the rendered page: every issue key present
      in stances.json for a councillor has a matching "### [" section on
      that councillor's page, and vice versa.
@@ -50,21 +60,58 @@ COUNCILLOR_GLOB = "content/election/councillors/*.md"
 
 SECTION_RE = re.compile(r"^### \[[^\]]*\]\(/election/issues/([a-z0-9-]+)\)$")
 
+# Round-10 gate item 3: the non-position clause ("N recused, N absent, N
+# abstained, N other.") used to be a fixed shape, always naming all four
+# categories that had ever appeared together (recused/absent always, abstain
+# /other only when either was non-zero). It's now built by joining ONLY the
+# categories with count > 0, in the same fixed relative order
+# (recused, absent, abstain, other) — so the clause can be "", "N recused.",
+# "N absent, N other.", etc. Captured here as one opaque blob (group 4) and
+# parsed below with NON_POSITION_ITEM_RE instead of four fixed sub-groups,
+# so this check doesn't assume a category's presence or position.
 SENTENCE_RE = re.compile(
     r"^\*Of the (\d+) divided votes on this issue since 2023 that had a clear direction, "
     r"this councillor has a recorded position on (\d+) of them"
-    r"(?: \((\d+) of these are excluded from the pattern counts — see below\))?\. "
-    r"(\d+) recused, (\d+) absent(?:, (\d+) abstained, (\d+) other)?\."
+    r"(?: \((\d+) of these are excluded from the pattern counts — see below\))?\."
+    # The non-position clause, when present, always opens with a digit
+    # (" N recused", " N absent", ...) — the (?=\d) lookahead is required,
+    # not cosmetic: without it, when this clause is ABSENT (all four
+    # categories zero), the immediately-following " The other N: ..."
+    # clause has no internal periods of its own (its bits join on "; ", not
+    # "."), so the non-greedy "match up to the next period" would swallow
+    # that entire clause looking for ITS single trailing period instead of
+    # correctly matching zero-width here. The lookahead fails fast on "The"
+    # instead, letting this whole group correctly match nothing.
+    r"( (?=\d)[^*]*?\.)?"
     r"(?: The other (\d+): [^*]*)?\*"
 )
 
-# Councillor-page axis evidence rows: | date | item | excerpt | whatAYeaDid |
-# vote | movedToward | result | — same shape as sweep-failed-motion-yea.py's
-# ROW_RE_7COL. The unclear-evidence table (6 columns, no movedToward cell)
-# structurally does not match this pattern, so those rows are correctly
-# excluded from every count below without any extra filtering.
+NON_POSITION_ITEM_RE = re.compile(r"(\d+) (recused|absent|abstained|other)")
+
+
+def parse_non_position_clause(clause: str | None) -> dict[str, int]:
+    """Parse the opaque non-position-clause blob (SENTENCE_RE group 4) into
+    a {category: count} dict, defaulting any category the clause didn't
+    mention at all to 0 — the same value it would have had under the old
+    always-name-every-category shape."""
+    counts = {"recused": 0, "absent": 0, "abstain": 0, "other": 0}
+    if not clause:
+        return counts
+    for count_s, label in NON_POSITION_ITEM_RE.findall(clause):
+        key = "abstain" if label == "abstained" else label
+        counts[key] = int(count_s)
+    return counts
+
+
+# Councillor-page axis evidence rows: | date | vote | whatAYeaDid | item |
+# excerpt | movedToward | result | — round-10 gate item 4 moved "Their
+# vote" to the second column (was the fifth); same shape as
+# sweep-failed-motion-yea.py's ROW_RE_7COL, moved in lockstep. The
+# unclear-evidence table (6 columns, no movedToward cell) structurally does
+# not match this pattern, so those rows are correctly excluded from every
+# count below without any extra filtering.
 EVIDENCE_ROW_RE = re.compile(
-    r"^\|\s*(\d{4}-\d{2}-\d{2})\s*\|(.*?)\|(.*?)\|(.*?)\|\s*(Yea|Nay|Recused|Absent|Abstained|Other)\s*\|(.*?)\|(.*?)\|\s*$"
+    r"^\|\s*(\d{4}-\d{2}-\d{2})\s*\|\s*(Yea|Nay|Recused|Absent|Abstained|Other)\s*\|(.*?)\|(.*?)\|(.*?)\|(.*?)\|(.*?)\|\s*$"
 )
 
 
@@ -127,14 +174,15 @@ def main():
                     f"{path} [{issue_slug}]: section sentence didn't match expected shape: {sentence_line!r}"
                 )
                 continue
-            total_s, n_s, ladder_s, recused_s, absent_s, abstain_s, other_s, notonroster_s = m.groups()
+            total_s, n_s, ladder_s, non_position_clause, notonroster_s = m.groups()
             total = int(total_s)
             n = int(n_s)
             ladder = int(ladder_s) if ladder_s is not None else 0
-            recused = int(recused_s)
-            absent = int(absent_s)
-            abstain = int(abstain_s) if abstain_s is not None else 0
-            other = int(other_s) if other_s is not None else 0
+            non_position_counts = parse_non_position_clause(non_position_clause)
+            recused = non_position_counts["recused"]
+            absent = non_position_counts["absent"]
+            abstain = non_position_counts["abstain"]
+            other = non_position_counts["other"]
             not_on_roster = int(notonroster_s) if notonroster_s is not None else 0
 
             expected_n = o["sampleSize"] + o["ladderExcluded"]
@@ -185,7 +233,7 @@ def main():
                 rm = EVIDENCE_ROW_RE.match(line)
                 if not rm:
                     continue
-                vote = rm.group(5)
+                vote = rm.group(2)
                 if vote in ("Yea", "Nay"):
                     yea_nay_rows += 1
                 else:

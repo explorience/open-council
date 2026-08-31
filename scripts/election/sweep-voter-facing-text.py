@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 """
-Round-8 gate item 4 sweep: structural detectors over EVERY built HTML page
-under public/election/ (all ~28 pages -- landing, wards, what-council-
-controls, the issues index, all 8 issue pages, the councillors index, and
-every councillor profile), proving the Election Hub's rendered prose is free
-of two defect classes that earlier rounds only found by accident:
+Round-8 gate item 4 sweep, extended by round-10 gate item 1: structural
+detectors over EVERY built HTML page under public/election/ (all ~28 pages
+-- landing, wards, what-council-controls, the issues index, all 8 issue
+pages, the councillors index, and every councillor profile), proving the
+Election Hub's rendered prose is free of three defect classes that earlier
+rounds only found by accident:
 
   (a) EMPHASIS-SPAN CORRUPTION: round-7 gate item 1 found that a literal
       asterisk sitting inside an already-open markdown italic span breaks
@@ -24,6 +25,20 @@ of two defect classes that earlier rounds only found by accident:
       defect: it doesn't know what "methodology" text is, it just looks
       for the vocabulary shapes a developer reaches for and a voter never
       would, anywhere on any built page.
+
+  (c) RAW ISO DATES IN PROSE: round-10 gate item 1 found 1,427 raw
+      "YYYY-MM-DD" dates sitting in hand-composed sentences across 17
+      pages -- generate-hub-pages.ts had a single formatDate() helper
+      (scripts/election/methodology.ts) for exactly this, but three
+      generator call sites (the ladder-exclusion bullets, the
+      unclassified-motion list on the issues index, and the wards.md
+      candidate-list-checked sentence) interpolated the raw ISO string
+      straight from the source data instead of importing it, the same
+      "fixed one call site, not the class" gap (a)/(b) above already exist
+      to catch. This sweep is the permanent, structural guard against a
+      FOURTH such call site shipping the same way: it doesn't know which
+      generator function produced a given sentence, it just looks for the
+      "YYYY-MM-DD" shape anywhere prose can hold it.
 
 DETECTION RULE (the whole rule, not a summary):
 
@@ -88,10 +103,35 @@ DETECTION RULE (the whole rule, not a summary):
           cells or the exemption below, all false positives without this
           exemption.
         - Any text node inside a `<li>` whose own full text opens with a
-          "YYYY-MM-DD — " date stamp: the issues-index "Unclassified
+          formatted "Month D, YYYY — " date stamp (round-10 gate item 1:
+          this used to be a raw "YYYY-MM-DD — " stamp before that item's
+          formatDate() fix reached this exact bullet; the exemption's
+          pattern moved in lockstep with the generator so it keeps
+          matching the same real list): the issues-index "Unclassified
           divided votes" list, which quotes real agenda-item titles
           verbatim -- same convention, same rationale, as
           sweep-membership-claims.py's SOURCE_TITLE_BULLET_RE.
+
+  (c) Scanned over the same script/style/svg-stripped page, walking every
+      text node individually (same walk as (b), same URL-masking first --
+      a PDF or eSCRIBE URL can legitimately contain a "YYYY-MM" or
+      "YYYY-MM-DD"-shaped path segment, e.g. the certified-candidate-list
+      PDF's own "/2026-08/2026%20CERTIFIED..." path, which is not prose).
+      A hit is a bare `\\d{4}-\\d{2}-\\d{2}` -- a raw ISO calendar date --
+      appearing in the remaining (non-URL) text. One exemption, narrower
+      than (b)'s two: any text node inside a `<td>`, because every date
+      TABLE column on this hub (the evidence tables' own "Date" column,
+      the per-issue vote table's "Date" column) is legitimate tabular
+      data shown in ISO for sortability/scannability, never prose -- see
+      this sweep's own module docstring note above and the round-10 gate
+      instructions this check implements. (b)'s second exemption (the
+      unclassified-list `<li>` bullets) does not apply here, and does not
+      need to: those bullets render through formatDate() as of round-10
+      gate item 1, so they no longer contain a raw ISO date to begin
+      with. A `datetime="..."` attribute (Quartz's own `<time>` component,
+      quartz/components/Date.tsx) is an HTML attribute, not a text node,
+      so it is never visited by this walk at all -- excluded structurally,
+      not by a special-case rule.
 
 A hit is a FAIL. Zero hits is the only passing state.
 
@@ -151,7 +191,14 @@ JARGON_CHECKS = [
     (BARE_WORD_RE, "developer jargon: regex/pipeline/null/verdict values"),
 ]
 
-SOURCE_TITLE_BULLET_RE = re.compile(r"^\s*\d{4}-\d{2}-\d{2}\s+—\s+")
+# Round-10 gate item 1: this used to match the RAW ISO stamp the
+# unclassified-motion bullets rendered with ("2026-07-21 — ..."). That
+# generator call site now runs through formatDate() (see
+# generate-hub-pages.ts's generateIssuesIndexPage), so the bullets it
+# produces open with "Month D, YYYY — " instead -- this exemption pattern
+# moved with it, so it keeps matching the same real list instead of
+# silently stopping matching anything the day the generator changed.
+SOURCE_TITLE_BULLET_RE = re.compile(r"^\s*[A-Z][a-z]+ \d{1,2}, \d{4}\s+—\s+")
 
 
 def is_verbatim_quote_node(node) -> bool:
@@ -165,6 +212,37 @@ def is_verbatim_quote_node(node) -> bool:
         if name == "li" and SOURCE_TITLE_BULLET_RE.match(ancestor.get_text()):
             return True
     return False
+
+
+# --- (c) raw ISO dates in prose ------------------------------------------
+# Round-10 gate item 1: the permanent structural guard against a raw
+# "YYYY-MM-DD" ever shipping in hand-composed prose again, now that the
+# three call sites that were doing it (ladder-exclusion bullets, the
+# unclassified-motion list, the wards.md candidate-list-checked sentence)
+# have all been routed through formatDate() instead.
+ISO_DATE_RE = re.compile(r"\b\d{4}-\d{2}-\d{2}\b")
+
+
+def is_table_cell_node(node) -> bool:
+    """True if this text node sits inside a `<td>` -- the only place a raw
+    ISO date is legitimate on this hub (a date TABLE column, tabular data
+    meant to be scanned/sorted, not prose). Deliberately narrower than
+    is_verbatim_quote_node above: the `<li>` "Unclassified divided votes"
+    bullet exemption does not apply to this check, because those bullets no
+    longer contain a raw ISO date at all as of this same round-10 fix."""
+    for ancestor in node.parents:
+        if getattr(ancestor, "name", None) == "td":
+            return True
+    return False
+
+
+def check_iso_dates_in_text(text: str):
+    """Yield each raw ISO date found in this already-URL-masked run of
+    text (a PDF/eSCRIBE URL can legitimately contain a YYYY-MM-shaped path
+    segment, which is not prose and not what this check is for)."""
+    masked = URL_RE.sub(lambda m: " " * len(m.group(0)), text)
+    for m in ISO_DATE_RE.finditer(masked):
+        yield m.group(0)
 
 
 def strip_camel_allowlist(text: str) -> str:
@@ -192,6 +270,7 @@ def main():
 
     hits = []
     exempted = 0
+    date_exempted = 0
     pages_scanned = 0
 
     for path in files:
@@ -207,34 +286,50 @@ def main():
             snippet = markup[max(0, m.start() - 30) : m.end() + 30]
             hits.append((path, "emphasis-span corruption (mid-token </em><em> boundary)", snippet))
 
-        # (b) developer jargon: walk every text node.
+        # (b) developer jargon, (c) raw ISO dates: walk every text node once.
         for node in soup.find_all(string=True):
             if not isinstance(node, NavigableString):
                 continue
             text = str(node)
             if not text.strip():
                 continue
+
             if is_verbatim_quote_node(node):
                 for _desc, _matched in check_jargon_in_text(text):
                     exempted += 1
-                continue
-            for desc, matched in check_jargon_in_text(text):
-                context = text.strip()
-                if len(context) > 80:
-                    idx = context.find(matched)
-                    lo = max(0, idx - 30)
-                    context = ("…" if lo > 0 else "") + context[lo : idx + len(matched) + 30] + "…"
-                hits.append((path, desc, f"{matched!r} in {context!r}"))
+            else:
+                for desc, matched in check_jargon_in_text(text):
+                    context = text.strip()
+                    if len(context) > 80:
+                        idx = context.find(matched)
+                        lo = max(0, idx - 30)
+                        context = ("…" if lo > 0 else "") + context[lo : idx + len(matched) + 30] + "…"
+                    hits.append((path, desc, f"{matched!r} in {context!r}"))
+
+            if is_table_cell_node(node):
+                for _matched in check_iso_dates_in_text(text):
+                    date_exempted += 1
+            else:
+                for matched in check_iso_dates_in_text(text):
+                    context = text.strip()
+                    if len(context) > 80:
+                        idx = context.find(matched)
+                        lo = max(0, idx - 30)
+                        context = ("…" if lo > 0 else "") + context[lo : idx + len(matched) + 30] + "…"
+                    hits.append(
+                        (path, "raw ISO date in prose", f"{matched!r} in {context!r}"),
+                    )
 
     print(f"Scanned {pages_scanned} built page(s) under public/election/.")
     print(f"Exempted {exempted} match(es) as verbatim motion-quote table cells or unclassified-list bullets.")
+    print(f"Exempted {date_exempted} raw-ISO-date match(es) as table Date column cells.")
     if hits:
         print(f"\nFAIL: {len(hits)} voter-facing-text defect(s) found:")
         for path, desc, detail in hits:
             print(f"  {path}  [{desc}]  {detail}")
         sys.exit(1)
 
-    print("PASS: zero emphasis-span corruption, zero developer jargon, across all built Election Hub pages.")
+    print("PASS: zero emphasis-span corruption, zero developer jargon, zero raw ISO dates in prose, across all built Election Hub pages.")
 
 
 if __name__ == "__main__":

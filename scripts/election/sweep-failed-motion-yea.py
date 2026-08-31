@@ -17,19 +17,25 @@ direction-bearing motions do).
 
 DETECTION RULE (the whole rule, not a summary): content/election/
 councillors/*.md and content/election/issues/*.md carry THREE distinct
-markdown table row shapes that can carry a whatAYeaDid or movedToward cell:
+markdown table row shapes that can carry a whatAYeaDid or movedToward cell.
+Shapes A and B's column order changed in round-10 gate item 4 (mobile
+column order — "Their vote" moved to the second column, right after Date,
+so a phone reader sees it without swiping); this sweep's row regexes moved
+with them:
 
   A. Councillor axis-evidence rows (renderAxisSection — direction-bearing
      motions only):
-       | date | item link | motion excerpt | what a yea did | Yea/Nay/... | moved toward | result |
+       | date | Yea/Nay/... | what a yea did | item link | motion excerpt | moved toward | result |
 
   B. Councillor "no clear direction" rows (renderUnclearSection — motions
      with no axis, listed for transparency, one row per councillor who
      voted/recused/was absent on it):
-       | date | item link | motion excerpt | what a yea did | Yea/Nay/... | result |
+       | date | Yea/Nay/... | what a yea did | item link | motion excerpt | result |
 
   C. Issue-page vote rows (renderIssueVoteRow — every divided motion on that
-     issue, direction-bearing or not, no per-councillor vote column):
+     issue, direction-bearing or not, no per-councillor vote column, never
+     touched by the item-4 reorder since it has no "Their vote" column to
+     move):
        | date | item link | what a yea did | tally | result |
 
 For every row on shape A or B where the "Their vote" cell is literally
@@ -60,14 +66,17 @@ COUNCILLOR_GLOB = "content/election/councillors/*.md"
 ISSUE_GLOB = "content/election/issues/*.md"
 
 # Shape A — councillor axis-evidence rows: 7 cells, includes movedToward.
+# Round-10 gate item 4: vote cell is now the SECOND cell (right after date),
+# not the fifth.
 ROW_RE_7COL = re.compile(
-    r"^\|\s*(\d{4}-\d{2}-\d{2})\s*\|(.*?)\|(.*?)\|(.*?)\|\s*(Yea|Nay|Recused|Absent|Abstained|Other)\s*\|(.*?)\|(.*?)\|\s*$"
+    r"^\|\s*(\d{4}-\d{2}-\d{2})\s*\|\s*(Yea|Nay|Recused|Absent|Abstained|Other)\s*\|(.*?)\|(.*?)\|(.*?)\|(.*?)\|(.*?)\|\s*$"
 )
 
 # Shape B — councillor "no clear direction" rows (renderUnclearSection): 6
-# cells, no movedToward column at all (these motions have no axis).
+# cells, no movedToward column at all (these motions have no axis). Same
+# round-10 gate item 4 reorder as shape A.
 ROW_RE_6COL = re.compile(
-    r"^\|\s*(\d{4}-\d{2}-\d{2})\s*\|(.*?)\|(.*?)\|(.*?)\|\s*(Yea|Nay|Recused|Absent|Abstained|Other)\s*\|(.*?)\|\s*$"
+    r"^\|\s*(\d{4}-\d{2}-\d{2})\s*\|\s*(Yea|Nay|Recused|Absent|Abstained|Other)\s*\|(.*?)\|(.*?)\|(.*?)\|(.*?)\|\s*$"
 )
 
 # Shape C — issue-page vote rows (renderIssueVoteRow): 5 cells, no vote
@@ -99,7 +108,7 @@ def main():
         for line_no, line in enumerate(open(path, encoding="utf-8"), start=1):
             m7 = ROW_RE_7COL.match(line)
             if m7:
-                _date, _item, _excerpt, whatayeadid, vote, moved_toward, result = m7.groups()
+                _date, vote, whatayeadid, _item, _excerpt, moved_toward, result = m7.groups()
                 if vote != "Yea" or "failed" not in result.lower():
                     continue
                 moved_toward = moved_toward.strip()
@@ -111,7 +120,7 @@ def main():
 
             m6 = ROW_RE_6COL.match(line)
             if m6:
-                _date, _item, _excerpt, whatayeadid, vote, result = m6.groups()
+                _date, vote, whatayeadid, _item, _excerpt, result = m6.groups()
                 if vote != "Yea" or "failed" not in result.lower():
                     continue
                 if not is_hedged(whatayeadid):
