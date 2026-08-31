@@ -27,6 +27,16 @@ export function normalizeCouncillorName(name: string): string | null {
     .replace(/^\s*(Mayor|Deputy|Acting|Councillor|Chair)\s+/i, "")
     .trim()
 
+  // Insert a space after a leading initial's period when eSCRIBE's minutes
+  // omit it (e.g. "S.Franke" -> "S. Franke"). Only the first initial - not
+  // every period in the string - so this can't touch a genuine "M. van
+  // Holst"-style already-spaced name. Seen ~101 times across the corpus
+  // (S.Franke, C.Rahman, J.Bunn, S.Turner, M.Brown, M.Czechowicz, S.Trosow,
+  // ...); without this, both the exact-registry-key lookup below and the
+  // "X. Surname" pattern match's split(/\s+/) last-name comparison treat
+  // the whole no-space string as one unsplit token and reject it.
+  cleaned = cleaned.replace(/^([A-Z])\.([A-Za-z])/, "$1. $2")
+
   // Skip obvious non-names
   if (!cleaned || cleaned.length < 3) return null
   if (

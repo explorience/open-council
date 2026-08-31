@@ -5,18 +5,18 @@ slug: "m-van-holst"
 meetingCount: 461
 yearsActive: "2014 - 2022"
 isCurrent: false
-totalVotes: 6938
-votesYea: 6318
-votesNay: 288
-votesAbsent: 69
-votesRecused: 0
+totalVotes: 7290
+votesYea: 6452
+votesNay: 374
+votesAbsent: 176
+votesRecused: 1
 votesAbstained: 5
-votesOther: 258
+votesOther: 282
 attendanceRate: 96.4
-participationRate: 95.2
-yeaRate: 95.6
-contestedDissentRate: 6.6
-contestedVotes: 3893
+participationRate: 93.6
+yeaRate: 94.5
+contestedDissentRate: 9.0
+contestedVotes: 4016
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,13 +33,13 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 6,938 |
-| Voted Yea | 6,318 (91.1%) |
-| Voted Nay | 288 (4.2%) |
-| Absent | 69 (1.0%) |
-| Recused (conflict of interest) | 0 (0.0%) |
+| Total Votes | 7,290 |
+| Voted Yea | 6,452 (88.5%) |
+| Voted Nay | 374 (5.1%) |
+| Absent | 176 (2.4%) |
+| Recused (conflict of interest) | 1 (0.0%) |
 | Abstained | 5 (0.1%) |
-| Other/Unrecorded | 258 (3.7%) |
+| Other/Unrecorded | 282 (3.9%) |
 
 *Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
 
@@ -50,17 +50,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 5,439 |
-| Voted Yea | 4,877 (94.9%) |
-| Voted Nay | 262 (5.1%) |
+| Substantive Votes | 5,669 |
+| Voted Yea | 4,970 (93.6%) |
+| Voted Nay | 339 (6.4%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 6.6%
-- **Contested Votes**: 3,893
+- **Dissent Rate**: 9.0%
+- **Contested Votes**: 4,016
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -71,10 +71,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 955 |
-| Voted Yea | 878 (92.3%) |
-| Voted Nay | 73 (7.7%) |
-| Absent | 4 |
+| Budget Votes | 995 |
+| Voted Yea | 896 (90.6%) |
+| Voted Nay | 93 (9.4%) |
+| Absent | 6 |
 
 
 ## Attendance
@@ -95,11 +95,11 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 3,506 | 3,320 | 134 | 98.5% |
-| Strategic Priorities and Policy Committee | 2,200 | 1,815 | 129 | 88.4% |
-| Civic Works Committee | 852 | 830 | 18 | 99.5% |
-| Corporate Services Committee | 281 | 255 | 6 | 92.9% |
-| Community and Protective Services Committee | 81 | 80 | 1 | 100.0% |
+| Council | 3,654 | 3,337 | 191 | 96.6% |
+| Strategic Priorities and Policy Committee | 2,257 | 1,824 | 148 | 87.4% |
+| Civic Works Committee | 912 | 872 | 21 | 97.9% |
+| Corporate Services Committee | 358 | 312 | 12 | 90.5% |
+| Community and Protective Services Committee | 91 | 89 | 2 | 100.0% |
 | Planning and Environment Committee | 18 | 18 | 0 | 100.0% |
 
 
@@ -115,6 +115,14 @@ prefillQuestions:
 
 Voted **Nay** - Motion Passed (12 to 3)
 
+### 2022-08-02: (4.3) Water for Dogs at Pottersburg Dog Park 
+
+[11th Meeting of City Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=4c720985-60de-4949-ae43-1307fd4ec0a3&Agenda=PostMinutes&lang=English)
+
+> That the following actions be taken with respect to the installation of a water supply for dogs at the Pottersburg Dog Park: a) the Civic Administration BE DIRECTED to report back, in advance of the 2...
+
+Voted **Nay** - Motion Passed (12 to 2)
+
 ### 2022-06-14: (4.3) Short-term Accommodations - Proposed Amendments (Relates to Bill No's. 239 and 243)
 
 [null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=5f48664b-cb1d-422f-85f1-a477cfd6b1b1&Agenda=PostMinutes&lang=English)
@@ -123,6 +131,30 @@ Voted **Nay** - Motion Passed (12 to 3)
 
 Voted **Nay** - Motion Passed (13 to 1)
 
+### 2022-06-14: (4.3) Short-term Accommodations - Proposed Amendments (Relates to Bill No's. 239 and 243)
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=5f48664b-cb1d-422f-85f1-a477cfd6b1b1&Agenda=PostMinutes&lang=English)
+
+> That Item 15 (4.2), as amended, BE APPROVED.
+
+Voted **Nay** - Motion Passed (12 to 2)
+
+### 2022-06-14: By-laws
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=5f48664b-cb1d-422f-85f1-a477cfd6b1b1&Agenda=PostMinutes&lang=English)
+
+> That Introduction and First Reading of the revised Bill No.’s 239 and 243, BE APPROVED.
+
+Voted **Nay** - Motion Passed (12 to 2)
+
+### 2022-06-14: By-laws
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=5f48664b-cb1d-422f-85f1-a477cfd6b1b1&Agenda=PostMinutes&lang=English)
+
+> That Second Reading of the revised Bill No.’s 239 and 243, BE APPROVED.
+
+Voted **Nay** - Motion Passed (12 to 2)
+
 ### 2022-06-14: By-laws
 
 [null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=5f48664b-cb1d-422f-85f1-a477cfd6b1b1&Agenda=PostMinutes&lang=English)
@@ -130,6 +162,14 @@ Voted **Nay** - Motion Passed (13 to 1)
 > That Third Reading and Enactment of the revised Bill No.’s 239 and 243, BE APPROVED.
 
 Voted **Nay** - Motion Passed (13 to 1)
+
+### 2022-05-24: (3.6) Revised Victoria Park Secondary Plan (O-8978) (Relates to Bill No.'s 212, 213, 214, 215, 216 and 217)
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=6d34a658-d584-4597-9edc-96df5013af23&Agenda=PostMinutes&lang=English)
+
+> That Part A, West Policy Area, as indicated in Table 1: Permitted Heights of the Victoria Park Secondary Plan the minimum height BE AMENDED to require one storey, rather than 2 storeys (or 8 Metres).
+
+Voted **Yea** - Motion Failed (2 to 12)
 
 ### 2022-05-03: G.F. Stewart, Integrity Commissioner, City of London - Report to City Council: Code of Conduct - Councillor M. van Holst - Vaccination Policy
 
@@ -146,50 +186,6 @@ Voted **Nay** - Motion Passed (13 to 1)
 > That the following actions be taken with respect to the staff report, dated April 20, 2022, with respect to “Graphic” Flyer Deliveries to Residential Properties: a)    the proposed by-law, as appended...
 
 Voted **Nay** - Motion Passed (13 to 1)
-
-### 2022-03-29: Report on Downtown Road Closures 
-
-[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=4d69323b-b755-41e2-b171-955b63be87e0&Agenda=PostMinutes&lang=English)
-
-> That the communication from Councillor M. van Holst, with respect to a report on Downtown road closures BE RECEIVED and NO ACTION BE TAKEN. (2022-C09)
-
-Voted **Nay** - Motion Passed (5 to 1)
-
-### 2022-03-08: Including a Carbon Offset Strategy - Councillor M. van Holst
-
-[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=5ee8276e-7895-484f-86c9-c7219cbd1070&Agenda=PostMinutes&lang=English)
-
-> That the Civic Administration BE DIRECTED to include additional detailed calculations/information related to carbon offsets as an option for households in the draft Climate Emergency Action Plan, in o...
-
-Voted **Yea** - Motion Failed (3 to 11)
-
-### 2022-02-15: (2.2) Considerations and Viability to Implement a Vacant Home Tax in London
-
-[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=e237088e-eef7-42cd-9e87-2808fea4225b&Agenda=PostMinutes&lang=English)
-
-> That part b), of clause 2.2, as amended BE APPROVED.
-
-Voted **Nay** - Motion Passed (11 to 4)
-
-### 2022-01-25: (4.3) Amendments to Members of Council Proof of COVID-19 Vaccination Policy (Relates to Bill No. 72)
-
-[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b3f00da5-d1bc-40e4-9f51-6eb38c364c0a&Agenda=PostMinutes&lang=English)
-
-> That the following actions be taken with respect to the Members of Council Proof of COVID-19 Vaccination Policy:
-
-
-
-a)  on the recommendation of the City Clerk, the proposed by-law, as appended to the...
-
-Voted **Nay** - Motion Passed (13 to 1)
-
-### 2022-01-25: (4.3) Full-Time Compensation Determination
-
-[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b3f00da5-d1bc-40e4-9f51-6eb38c364c0a&Agenda=PostMinutes&lang=English)
-
-> That the communication from Councillor M. van Holst, dated January 9, 2022, with respect to typical daytime office hours, BE RECEIVED and no action be taken.
-
-Voted **Nay** - Motion Passed (12 to 3)
 
 
 ## Committees Served

@@ -5,18 +5,18 @@ slug: "m-hamou"
 meetingCount: 71
 yearsActive: "2021 - 2022"
 isCurrent: false
-totalVotes: 5
-votesYea: 0
-votesNay: 3
-votesAbsent: 0
+totalVotes: 1071
+votesYea: 812
+votesNay: 28
+votesAbsent: 4
 votesRecused: 2
-votesAbstained: 0
-votesOther: 0
+votesAbstained: 10
+votesOther: 215
 attendanceRate: 100.0
-participationRate: 60.0
-yeaRate: 0.0
-contestedDissentRate: 100.0
-contestedVotes: 3
+participationRate: 78.4
+yeaRate: 96.7
+contestedDissentRate: 9.4
+contestedVotes: 170
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,12 +33,13 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 5 |
-| Voted Yea | 0 (0.0%) |
-| Voted Nay | 3 (60.0%) |
-| Absent | 0 (0.0%) |
-| Recused (conflict of interest) | 2 (40.0%) |
-| Abstained | 0 (0.0%) |
+| Total Votes | 1,071 |
+| Voted Yea | 812 (75.8%) |
+| Voted Nay | 28 (2.6%) |
+| Absent | 4 (0.4%) |
+| Recused (conflict of interest) | 2 (0.2%) |
+| Abstained | 10 (0.9%) |
+| Other/Unrecorded | 215 (20.1%) |
 
 *Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
 
@@ -49,19 +50,31 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2 |
-| Voted Yea | 0 (0.0%) |
-| Voted Nay | 1 (100.0%) |
+| Substantive Votes | 709 |
+| Voted Yea | 457 (95.2%) |
+| Voted Nay | 23 (4.8%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 100.0%
-- **Contested Votes**: 3
+- **Dissent Rate**: 9.4%
+- **Contested Votes**: 170
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
+
+
+### Budget Votes
+
+*Votes on budget-related items (budget committee meetings, tax, levy, fiscal, appropriation, expenditure)*
+
+| Statistic | Count |
+|-----------|-------|
+| Budget Votes | 84 |
+| Voted Yea | 76 (90.5%) |
+| Voted Nay | 8 (9.5%) |
+| Absent | 0 |
 
 
 ## Attendance
@@ -80,14 +93,32 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 3 | 0 | 1 | 33.3% |
-| Community and Protective Services Committee | 1 | 0 | 1 | 100.0% |
-| Corporate Services Committee | 1 | 0 | 1 | 100.0% |
+| Council | 470 | 454 | 14 | 99.6% |
+| Strategic Priorities and Policy Committee | 393 | 160 | 6 | 42.2% |
+| Community and Protective Services Committee | 103 | 100 | 3 | 100.0% |
+| Corporate Services Committee | 79 | 72 | 5 | 97.5% |
+| Planning and Environment Committee | 26 | 26 | 0 | 100.0% |
 
 
 ## Notable Dissenting Votes
 
 *Recent split votes where Mariam Hamou voted against the final outcome:*
+
+### 2022-10-17: (3.1) Adult Live Entertainment Parlour - 2010 Dundas Street - Deletion of Location
+
+[14th Meeting of City Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=2a3f0da7-d614-4583-8704-5f48882febab&Agenda=PostMinutes&lang=English)
+
+> That the following actions be taken with respect to the staff report, dated October 4, 2022, with respect to the Adult Live Entertainment Parlour located at 2010 Dundas Street – Deletion of Location: ...
+
+Voted **Nay** - Motion Passed (9 to 6)
+
+### 2022-10-17: (5.2) Councillor M. Van Holst - Zoning Amendment to Permit a Pilot of Temporary Mobile Shelters
+
+[14th Meeting of City Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=2a3f0da7-d614-4583-8704-5f48882febab&Agenda=PostMinutes&lang=English)
+
+> That the communications from Councillor M. van Holst, as well as the proposed amendment to the clause BE REFERRED to the ongoing ReThink Zoning process, in order to consider the use of temporary mobil...
+
+Voted **Nay** - Motion Passed (12 to 3)
 
 ### 2022-10-04: Adult Live Entertainment Parlour - 2010 Dundas Street - Deletion of Location
 
@@ -97,6 +128,54 @@ prefillQuestions:
 
 Voted **Nay** - Motion Passed (5 to 1)
 
+### 2022-08-02: (4.3) Water for Dogs at Pottersburg Dog Park 
+
+[11th Meeting of City Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=4c720985-60de-4949-ae43-1307fd4ec0a3&Agenda=PostMinutes&lang=English)
+
+> That the following actions be taken with respect to the installation of a water supply for dogs at the Pottersburg Dog Park: a) the Civic Administration BE DIRECTED to report back, in advance of the 2...
+
+Voted **Nay** - Motion Passed (12 to 2)
+
+### 2022-08-02: (4.5) Councillor M. van Holst - Neighbourhood Decision Making Business Case
+
+[11th Meeting of City Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=4c720985-60de-4949-ae43-1307fd4ec0a3&Agenda=PostMinutes&lang=English)
+
+> That item 13, clause 4.5 be amended by adding the following new part b): b)     that staff BE DIRECTED to include in the 2023 annual budget deliberations, a business case for expanding the neighbourho...
+
+Voted **Nay** - Motion Passed (8 to 6)
+
+### 2022-05-30: Consideration of Appointment to the Ecological Community Advisory Committee (Requires up to 2 Members)
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=ac6c87b2-7951-4e97-b029-bc1befb6f6d8&Agenda=PostMinutes&lang=English)
+
+> THAT notwithstanding the Terms of Reference for the Ecological Community Advisory Committee, Patricia Almost, Eric Dusenge, and Girish Sankar BE APPOINTED to the Ecological Community Advisory Committe...
+
+Voted **Yea** - Motion Failed (2 to 4)
+
+### 2022-03-22: (4.1) Development Charge Area Rating Policy Review – Recommended Approach
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=de8a9b84-5106-497b-b010-8f2bdd5a86cf&Agenda=PostMinutes&lang=English)
+
+> Motion to approve part c): c)    The Civic Administration BE DIRECTED to continue a review and analysis of area rating where servicing needs to be extended in order to accommodate anticipated developm...
+
+Voted **Nay** - Motion Passed (8 to 5)
+
+### 2022-02-28: Election Sign By-law Update
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=137a6aa8-e6a7-4eca-bd6a-f153d0bbade9&Agenda=PostMinutes&lang=English)
+
+> That section 3.4 of the proposed by-law BE AMENDED to change 96 hours to 72 hours.
+
+Voted **Yea** - Motion Failed (3 to 3)
+
+### 2022-01-31: Considerations and Viability to Implement a Vacant Home Tax in London
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=abd83d8b-118e-4c64-8fa4-23f307614b94&Agenda=PostMinutes&lang=English)
+
+> That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to the consideration to implement a vacant home tax in London: a) The staff report...
+
+Voted **Nay** - Motion Passed (4 to 2)
+
 ### 2022-01-31: Application - Issuance of Proclamation - Parental Alienation Awareness Day
 
 [null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=abd83d8b-118e-4c64-8fa4-23f307614b94&Agenda=PostMinutes&lang=English)
@@ -104,14 +183,6 @@ Voted **Nay** - Motion Passed (5 to 1)
 > That based on the application dated January 10, 2022 from Just Another Parent, April 25, 2022 BE RECEIVED and NO ACTION be taken.
 
 Voted **Nay** - Motion Passed (4 to 1)
-
-### 2021-12-07: (3.3) 99 Southdale Road West (Z-9162) (Relates to Bill No. 34)
-
-[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=d0afa9b5-7da7-4ad1-a51d-e8a6bf3d9777&Agenda=PostMinutes&lang=English)
-
-> That clause 3.3 BE AMENDED to read as follows: That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Southdale West H...
-
-Voted **Nay** - Motion Passed (14 to 1)
 
 
 ## Committees Served

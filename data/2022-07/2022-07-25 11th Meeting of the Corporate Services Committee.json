@@ -85,7 +85,8 @@
                   "J. Morgan",
                   "S. Lewis",
                   "E. Holder",
-                  "J. Fyfe-Millar,M. Hamou"
+                  "J. Fyfe-Millar",
+                  "M. Hamou"
                 ]
               }
             ],
@@ -491,7 +492,8 @@
                   "J. Morgan",
                   "S. Lewis",
                   "E. Holder",
-                  "J. Fyfe-Millar,M. Hamou"
+                  "J. Fyfe-Millar",
+                  "M. Hamou"
                 ]
               }
             ],
@@ -768,13 +770,15 @@
                     "voters": [
                       "M. Cassidy",
                       "J. Morgan",
-                      "E. Holder,M. Hamou"
+                      "E. Holder",
+                      "M. Hamou"
                     ]
                   },
                   {
                     "vote": "Nays:",
                     "voters": [
-                      "S. Lewis,J. Fyfe-Millar"
+                      "S. Lewis",
+                      "J. Fyfe-Millar"
                     ]
                   }
                 ],
@@ -861,7 +865,8 @@
                   "J. Morgan",
                   "S. Lewis",
                   "E. Holder",
-                  "J. Fyfe-Millar,M. Hamou"
+                  "J. Fyfe-Millar",
+                  "M. Hamou"
                 ]
               }
             ],

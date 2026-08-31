@@ -5,18 +5,18 @@ slug: "h-l-usher"
 meetingCount: 403
 yearsActive: "2010 - 2018"
 isCurrent: false
-totalVotes: 6144
-votesYea: 5730
-votesNay: 414
-votesAbsent: 0
+totalVotes: 6353
+votesYea: 5910
+votesNay: 431
+votesAbsent: 12
 votesRecused: 0
 votesAbstained: 0
 votesOther: 0
 attendanceRate: 94.7
-participationRate: 100.0
-yeaRate: 93.3
-contestedDissentRate: 6.8
-contestedVotes: 5935
+participationRate: 99.8
+yeaRate: 93.2
+contestedDissentRate: 7.0
+contestedVotes: 5980
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,10 +33,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 6,144 |
-| Voted Yea | 5,730 (93.3%) |
-| Voted Nay | 414 (6.7%) |
-| Absent | 0 (0.0%) |
+| Total Votes | 6,353 |
+| Voted Yea | 5,910 (93.0%) |
+| Voted Nay | 431 (6.8%) |
+| Absent | 12 (0.2%) |
 | Recused (conflict of interest) | 0 (0.0%) |
 | Abstained | 0 (0.0%) |
 
@@ -49,17 +49,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 6,029 |
-| Voted Yea | 5,617 (93.2%) |
-| Voted Nay | 412 (6.8%) |
+| Substantive Votes | 6,142 |
+| Voted Yea | 5,709 (93.1%) |
+| Voted Nay | 425 (6.9%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 6.8%
-- **Contested Votes**: 5,935
+- **Dissent Rate**: 7.0%
+- **Contested Votes**: 5,980
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -70,9 +70,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 1,435 |
-| Voted Yea | 1,244 (86.7%) |
-| Voted Nay | 191 (13.3%) |
+| Budget Votes | 1,439 |
+| Voted Yea | 1,247 (86.7%) |
+| Voted Nay | 192 (13.3%) |
 | Absent | 0 |
 
 
@@ -94,16 +94,40 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 2,541 | 2,415 | 126 | 100.0% |
-| Strategic Priorities and Policy Committee | 1,879 | 1,644 | 235 | 100.0% |
+| Council | 2,634 | 2,500 | 134 | 100.0% |
+| Strategic Priorities and Policy Committee | 1,920 | 1,676 | 244 | 100.0% |
 | Corporate Services Committee | 821 | 791 | 30 | 100.0% |
+| Civic Works Committee | 509 | 483 | 14 | 97.6% |
 | Community and Protective Services Committee | 469 | 460 | 9 | 100.0% |
-| Civic Works Committee | 434 | 420 | 14 | 100.0% |
 
 
 ## Notable Dissenting Votes
 
 *Recent split votes where Harold Usher voted against the final outcome:*
+
+### 2018-09-17: Dr. Josipa Petrunic, Executive Director and Chief Executive Officer, Canadian Urban Transit Research and Innovation Consortium - Rapid Transit
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=4e6038a3-d2ed-4dbf-84eb-f04fee831bdc&Agenda=PostMinutes&lang=English)
+
+> b)    based on the financial and environmental benefits shown by the modelling done by CUTRIC, electrification of London’s Bus Rapid Transit system BE ENDORSED-IN-PRINCIPLE;
+
+Voted **Nay** - Motion Passed (9 to 5)
+
+### 2018-07-24: (4.5) Traffic Light - South Carriage Road and Hyde Park Road
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=7887335f-11cc-4679-9f81-b0b63125b282&Agenda=PostMinutes&lang=English)
+
+> That staff BE DIRECTED to install traffic lights at South Carriage road and Hyde Park Road as soon as possible and identify a source of funding for the installation; it being noted that verbal present...
+
+Voted **Nay** - Motion Passed (8 to 6)
+
+### 2018-06-25: Free of Fear Services for All Policy
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b06e637c-71a8-4f2f-8d7e-2cc345dfbf1f&Agenda=PostMinutes&lang=English)
+
+> Motion to approve part e).
+
+Voted **Nay** - Motion Passed (9 to 5)
 
 ### 2018-05-28: Deferred Matters List
 
@@ -113,99 +137,57 @@ prefillQuestions:
 
 Voted **Nay** - Motion Passed (5 to 1)
 
-### 2017-11-28: Dundas Place
-  Management and Dundas Field House
+### 2018-05-07: (ADDED) London Middlesex Housing Corporation Board of Directors Vacancies
 
-[MINUTES 28TH MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=a6c8289d-c0c9-4818-af92-38b52b79fde8&Agenda=PostMinutes&lang=English)
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=691a23eb-acf5-4a4e-bc63-44f0001d9807&Agenda=PostMinutes&lang=English)
 
-> Motion Failed
+> That the following actions be taken with respect to the London Middlesex Housing Corporation Board of Directors:
 
-Voted **Yea** - Motion Failed
 
-### 2017-10-30: Property located at
-  4100 Glanworth Drive - Request for Demolition
 
-[MINUTES TWENTY-SIXTH
-  MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=7c11a63c-3946-42f8-a128-5a505a5853ce&Agenda=PostMinutes&lang=English)
+a)            the letter of resignation appended to the staff report dated May 7, 20...
 
-> Motion Passed
+Voted **Nay** - Motion Passed (8 to 5)
 
-Voted **Nay** - Motion Passed
+### 2018-04-24: Council, In Closed Session
 
-### 2017-10-24: Proposed Election
-  Sign By-law
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=7d8ec60e-baec-4d79-bbef-540f1de56f4b&Agenda=PostMinutes&lang=English)
 
-[Corporate Services Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=00c81b22-1b5e-4e14-9c19-65d574cef867&Agenda=PostMinutes&lang=English)
+> That the following Council, In Closed Session reason, related to clause 3.2 of the 7th Report of the Planning and Environment Committee (Item 7 of Stage 8.2 of the Council Agenda), having to do with t...
 
-> Motion
-  Failed
+Voted **Nay** - Motion Passed (10 to 4)
 
-Voted **Yea** - Motion
-  Failed
+### 2018-04-24: Public Consultation - Proposed Expansion of a Gaming Site
 
-### 2017-10-11: Tequila Expo Show
-  2017 - Request for Designation as a Municipally Significant Event
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=7d8ec60e-baec-4d79-bbef-540f1de56f4b&Agenda=PostMinutes&lang=English)
 
-[Corporate Services Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=043ea95d-7056-4835-8a60-f495bde196f9&Agenda=PostMinutes&lang=English)
+> Approve the introduction included in part b), as follows: b)            the expansion of a gaming site to include entertainment options that would allow for up to 1,200 slots at a casino, and up to 50...
 
-> Motion
-  Passed
+Voted **Nay** - Motion Passed (9 to 5)
 
-Voted **Nay** - Motion
-  Passed
+### 2018-04-24: Bus Rapid Transit - Environmental Assessment Initiative
 
-### 2017-10-04: Business Licensing
-  By-law Review - New and Revised Regulations
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=7d8ec60e-baec-4d79-bbef-540f1de56f4b&Agenda=PostMinutes&lang=English)
 
-[Community and Protective Services Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=fd7337a3-a9da-4c69-b681-eabc822d8ba1&Agenda=PostMinutes&lang=English)
+> That the following actions be taken with respect to the Bus Rapid Transit Environmental Assessment Initiative: a)    the staff report dated April 23, 2018, entitled “Bus Rapid Transit – Environmental ...
 
-> Motion
-  Passed
+Voted **Nay** - Motion Passed (12 to 2)
 
-Voted **Nay** - Motion
-  Passed
+### 2018-04-23: Public Participation Meeting - Not to be heard before 4:00 PM - Public Consultation - Proposed Expansion of a Gaming Site
 
-### 2017-10-03: Properties located
-  at 1635 Commissioners Road East and 2624 Jackson Road - Approval for Draft
-  Plan Subdivisions Official Plan and Zoning By-law Amendments and Application
-  by The Corporation of The City of London re properties located at 1663, 1685
-  Commissioners Road East and 2652 Jackson Road - Official Plan Amendment
-  (39T-06507/OZ-7176/0-7178) (Relates to Bill No.s 583, 584 and 596)
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=3bdac897-0f8b-41e4-856e-85ad64e459f8&Agenda=PostMinutes&lang=English)
 
-[MINUTES TWENTY-FOURTH
-  MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=45647efe-f4dc-4202-958b-1719cbd976ee&Agenda=PostMinutes&lang=English)
+> Motion to approve that part b) commence with the words "the expansion of a gaming site to include entertainment options that would allow for up to 1,200 slots at a casino, and up to 50 live table game...
 
-> Motion Passed
+Voted **Nay** - Motion Passed (7 to 5)
 
-Voted **Nay** - Motion Passed
+### 2018-04-23: Bus Rapid Transit – Environmental Assessment Initiative 
 
-### 2017-08-22: Establishment of
-  Opioid Crisis Working Group
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=3bdac897-0f8b-41e4-856e-85ad64e459f8&Agenda=PostMinutes&lang=English)
 
-[MINUTES TWENTY-FIRST
-  MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=32abb11b-dd40-4fae-b0e9-ebe11938a9e5&Agenda=PostMinutes&lang=English)
+> That the following actions be taken with respect to the Bus Rapid Transit Environmental Assessment Initiative: a)               the staff report dated April 23, 2018, entitled “Bus Rapid Transit – Env...
 
-> Motion Passed
-
-Voted **Nay** - Motion Passed
-
-### 2017-05-29: Strategic Plan:
-  Semi-Annual Progress Report
-
-[Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b32d36f-a271-4e35-93f0-8646e0ae5474&Agenda=PostMinutes&lang=English)
-
-> Motion Failed
-
-Voted **Yea** - Motion Failed
-
-### 2017-05-29: Update on Service
-  Review Initiatives
-
-[Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b32d36f-a271-4e35-93f0-8646e0ae5474&Agenda=PostMinutes&lang=English)
-
-> Motion Passed
-
-Voted **Nay** - Motion Passed
+Voted **Nay** - Motion Passed (10 to 2)
 
 
 ## Committees Served

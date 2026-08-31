@@ -2,6 +2,7 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 import { resolveRelative } from "../util/path"
 import { byDateAndAlphabetical } from "./PageList"
 import { Date, getDate } from "./Date"
+import { filterRealMeetingFiles } from "../../lib/meetings/filter-real-meetings.js"
 import style from "./styles/dashboardView.scss"
 // @ts-ignore
 import script from "./scripts/dashboardView.inline"
@@ -25,15 +26,23 @@ export interface DashboardViewOptions {
 }
 
 const defaultOptions: DashboardViewOptions = {
+  // Counts snapshotted from content/committees/*.md's `meetingCount`
+  // frontmatter after the committee-mapping fix + historical vote/data
+  // repair (30 Aug 2026 audit) - they WILL drift again as new meetings are
+  // scraped, same as before. infrastructure-corporate-services is new: the
+  // committee-mapping fix (extractCommittee picking the longest matching
+  // pattern) correctly split it out of corporate-services for the first
+  // time; see lib/meetings/committee.ts.
   committees: [
-    { name: "Planning and Environment", slug: "planning-environment", count: 230 },
-    { name: "Corporate Services", slug: "corporate-services", count: 223 },
-    { name: "Strategic Priorities and Policy", slug: "strategic-priorities", count: 211 },
-    { name: "Civic Works", slug: "civic-works", count: 167 },
-    { name: "Community and Protective Services", slug: "community-protective-services", count: 146 },
-    { name: "Audit Committee", slug: "audit", count: 55 },
-    { name: "Budget Committee", slug: "budget" },
-    { name: "City Council", slug: "city-council", count: 107 },
+    { name: "Planning and Environment", slug: "planning-environment", count: 298 },
+    { name: "Strategic Priorities and Policy", slug: "strategic-priorities", count: 282 },
+    { name: "Corporate Services", slug: "corporate-services", count: 263 },
+    { name: "Community and Protective Services", slug: "community-protective-services", count: 208 },
+    { name: "Civic Works", slug: "civic-works", count: 203 },
+    { name: "City Council", slug: "city-council", count: 185 },
+    { name: "Audit Committee", slug: "audit", count: 70 },
+    { name: "Infrastructure and Corporate Services", slug: "infrastructure-corporate-services", count: 30 },
+    { name: "Budget Committee", slug: "budget", count: 22 },
   ],
   councillors: [
     { name: "J. Morgan", slug: "j-morgan", role: "Mayor" },
@@ -63,15 +72,18 @@ export default ((userOpts?: Partial<DashboardViewOptions>) => {
   }: QuartzComponentProps) => {
     const opts = { ...defaultOptions, ...userOpts }
 
+    // Real, deduped meeting pages only - shared with the "Recent Meetings"
+    // rail in quartz.layout.ts so the two can't drift into different
+    // exclusion lists again (see lib/meetings/filter-real-meetings.ts for
+    // why this replaced a hand-maintained slug blocklist).
+    const realMeetings = filterRealMeetingFiles(allFiles)
+
     // Get recent meetings
-    const meetings = allFiles
-      .filter((f) => f.slug !== "index" && !f.slug?.startsWith("committees/") && !f.slug?.startsWith("years/") && !f.slug?.startsWith("councillors/"))
+    const meetings = realMeetings
       .sort(byDateAndAlphabetical(cfg))
       .slice(0, opts.recentMeetingsLimit)
 
-    const totalMeetings = allFiles.filter(
-      (f) => f.slug !== "index" && !f.slug?.startsWith("committees/") && !f.slug?.startsWith("years/") && !f.slug?.startsWith("councillors/")
-    ).length
+    const totalMeetings = realMeetings.length
 
     return (
       <div class="dashboard-view advanced-only">

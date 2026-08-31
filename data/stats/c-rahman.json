@@ -2,11 +2,11 @@
   "councillor": "Corrine Rahman",
   "slug": "c-rahman",
   "attendance": {
-    "totalMeetings": 223,
-    "present": 223,
-    "absent": 0,
+    "totalMeetings": 243,
+    "present": 242,
+    "absent": 1,
     "remote": 0,
-    "attendanceRate": 100,
+    "attendanceRate": 99.58847736625515,
     "trend": [
       {
         "period": "2022",
@@ -17,14 +17,14 @@
       {
         "period": "2023",
         "attendanceRate": 100,
-        "meetingsAttended": 72,
-        "meetingsTotal": 72
+        "meetingsAttended": 74,
+        "meetingsTotal": 74
       },
       {
         "period": "2024",
-        "attendanceRate": 100,
-        "meetingsAttended": 61,
-        "meetingsTotal": 61
+        "attendanceRate": 98.73417721518987,
+        "meetingsAttended": 78,
+        "meetingsTotal": 79
       },
       {
         "period": "2025",
@@ -42,88 +42,88 @@
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 3755,
-    "yeas": 3130,
-    "nays": 368,
-    "absent": 47,
-    "participationRate": 93.15579227696405,
-    "yeaRate": 89.47970268724987,
-    "contestedDissentRate": 17.536534446764094,
-    "contestedVotes": 1437,
-    "substantiveVotes": 2228,
-    "substantiveYeas": 1703,
-    "substantiveNays": 301,
-    "substantiveParticipationRate": 89.94614003590664,
-    "substantiveYeaRate": 84.98003992015968
+    "totalVotes": 4263,
+    "yeas": 3563,
+    "nays": 393,
+    "absent": 48,
+    "participationRate": 92.79849870982876,
+    "yeaRate": 90.06572295247724,
+    "contestedDissentRate": 16.634676903390915,
+    "contestedVotes": 1563,
+    "substantiveVotes": 2564,
+    "substantiveYeas": 1967,
+    "substantiveNays": 323,
+    "substantiveParticipationRate": 89.31357254290172,
+    "substantiveYeaRate": 85.89519650655022
   },
   "budgetVoting": {
-    "totalBudgetVotes": 348,
-    "budgetYeas": 262,
-    "budgetNays": 86,
+    "totalBudgetVotes": 405,
+    "budgetYeas": 313,
+    "budgetNays": 92,
     "budgetAbsent": 0
   },
   "topAlignments": [
     {
       "councillor": "Josh Morgan",
-      "sharedVotes": 1401,
-      "agreedVotes": 1308,
-      "alignmentRate": 93.36188436830835
-    },
-    {
-      "councillor": "Steve Lehman",
-      "sharedVotes": 1460,
-      "agreedVotes": 1358,
-      "alignmentRate": 93.01369863013699
+      "sharedVotes": 1619,
+      "agreedVotes": 1522,
+      "alignmentRate": 94.00864731315627
     },
     {
       "councillor": "Jerry Pribil",
-      "sharedVotes": 1479,
-      "agreedVotes": 1370,
-      "alignmentRate": 92.63015551048005
+      "sharedVotes": 1719,
+      "agreedVotes": 1607,
+      "alignmentRate": 93.48458406050028
+    },
+    {
+      "councillor": "Steve Lehman",
+      "sharedVotes": 1667,
+      "agreedVotes": 1557,
+      "alignmentRate": 93.40131973605278
     },
     {
       "councillor": "Hadleigh McAlister",
-      "sharedVotes": 1402,
-      "agreedVotes": 1298,
-      "alignmentRate": 92.58202567760343
+      "sharedVotes": 1636,
+      "agreedVotes": 1527,
+      "alignmentRate": 93.33740831295843
     },
     {
-      "councillor": "Steve Hillier",
-      "sharedVotes": 1471,
-      "agreedVotes": 1361,
-      "alignmentRate": 92.52209381373216
+      "councillor": "Skylar Franke",
+      "sharedVotes": 1769,
+      "agreedVotes": 1643,
+      "alignmentRate": 92.87733182589034
     }
   ],
   "bottomAlignments": [
     {
       "councillor": "Susan Stevenson",
-      "sharedVotes": 1370,
-      "agreedVotes": 1152,
-      "alignmentRate": 84.08759124087591
+      "sharedVotes": 1603,
+      "agreedVotes": 1377,
+      "alignmentRate": 85.90143480973175
     },
     {
       "councillor": "Sam Trosow",
-      "sharedVotes": 1371,
-      "agreedVotes": 1168,
-      "alignmentRate": 85.19328956965718
+      "sharedVotes": 1589,
+      "agreedVotes": 1373,
+      "alignmentRate": 86.40654499685337
     },
     {
       "councillor": "Paul Van Meerbergen",
-      "sharedVotes": 1391,
-      "agreedVotes": 1223,
-      "alignmentRate": 87.92235801581596
+      "sharedVotes": 1618,
+      "agreedVotes": 1427,
+      "alignmentRate": 88.19530284301607
     },
     {
       "councillor": "David Ferreira",
-      "sharedVotes": 1364,
-      "agreedVotes": 1221,
-      "alignmentRate": 89.51612903225806
+      "sharedVotes": 1646,
+      "agreedVotes": 1494,
+      "alignmentRate": 90.76549210206562
     },
     {
       "councillor": "Elizabeth Peloza",
-      "sharedVotes": 1264,
-      "agreedVotes": 1138,
-      "alignmentRate": 90.03164556962025
+      "sharedVotes": 1500,
+      "agreedVotes": 1364,
+      "alignmentRate": 90.93333333333334
     }
   ],
   "notableDissents": [
@@ -221,17 +221,17 @@
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 1908,
-      "yeas": 1628,
-      "nays": 211,
-      "participationRate": 96.38364779874213
+      "totalVotes": 2119,
+      "yeas": 1830,
+      "nays": 218,
+      "participationRate": 96.64936290703162
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 876,
-      "yeas": 624,
-      "nays": 74,
-      "participationRate": 79.68036529680366
+      "totalVotes": 1092,
+      "yeas": 776,
+      "nays": 91,
+      "participationRate": 79.3956043956044
     },
     {
       "committee": "Planning and Environment Committee",
@@ -249,10 +249,10 @@
     },
     {
       "committee": "Community and Protective Services Committee",
-      "totalVotes": 121,
-      "yeas": 114,
-      "nays": 7,
-      "participationRate": 100
+      "totalVotes": 157,
+      "yeas": 148,
+      "nays": 8,
+      "participationRate": 99.36305732484077
     },
     {
       "committee": "Infrastructure and Corporate Services Committee",
@@ -262,18 +262,18 @@
       "participationRate": 99.16666666666667
     },
     {
+      "committee": "Civic Works Committee",
+      "totalVotes": 102,
+      "yeas": 95,
+      "nays": 6,
+      "participationRate": 99.01960784313727
+    },
+    {
       "committee": "Corporate Services Committee",
       "totalVotes": 67,
       "yeas": 61,
       "nays": 2,
       "participationRate": 94.02985074626866
-    },
-    {
-      "committee": "Civic Works Committee",
-      "totalVotes": 57,
-      "yeas": 50,
-      "nays": 6,
-      "participationRate": 98.24561403508771
     }
   ]
 }

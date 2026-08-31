@@ -5,18 +5,18 @@ slug: "s-lewis"
 meetingCount: 529
 yearsActive: "2018 - 2026"
 isCurrent: true
-totalVotes: 9439
-votesYea: 8237
-votesNay: 516
-votesAbsent: 243
+totalVotes: 9590
+votesYea: 8338
+votesNay: 539
+votesAbsent: 262
 votesRecused: 0
-votesAbstained: 22
-votesOther: 421
+votesAbstained: 24
+votesOther: 427
 attendanceRate: 98.4
-participationRate: 92.7
-yeaRate: 94.1
-contestedDissentRate: 10.7
-contestedVotes: 2502
+participationRate: 92.6
+yeaRate: 93.9
+contestedDissentRate: 11.6
+contestedVotes: 2543
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,13 +33,13 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 9,439 |
-| Voted Yea | 8,237 (87.3%) |
-| Voted Nay | 516 (5.5%) |
-| Absent | 243 (2.6%) |
+| Total Votes | 9,590 |
+| Voted Yea | 8,338 (86.9%) |
+| Voted Nay | 539 (5.6%) |
+| Absent | 262 (2.7%) |
 | Recused (conflict of interest) | 0 (0.0%) |
-| Abstained | 22 (0.2%) |
-| Other/Unrecorded | 421 (4.5%) |
+| Abstained | 24 (0.3%) |
+| Other/Unrecorded | 427 (4.5%) |
 
 *Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
 
@@ -50,17 +50,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 5,426 |
-| Voted Yea | 4,392 (90.1%) |
-| Voted Nay | 480 (9.9%) |
+| Substantive Votes | 5,509 |
+| Voted Yea | 4,439 (89.9%) |
+| Voted Nay | 498 (10.1%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 10.7%
-- **Contested Votes**: 2,502
+- **Dissent Rate**: 11.6%
+- **Contested Votes**: 2,543
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -71,9 +71,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 755 |
-| Voted Yea | 598 (82.7%) |
-| Voted Nay | 125 (17.3%) |
+| Budget Votes | 761 |
+| Voted Yea | 601 (82.4%) |
+| Voted Nay | 128 (17.6%) |
 | Absent | 32 |
 
 
@@ -94,14 +94,14 @@ prefillQuestions:
 ## Voting Alignment
 
 **Most aligned with:**
-- Peter Cuddy (97.5%)
-- Steve Lehman (97.1%)
-- Steve Hillier (96.3%)
+- Peter Cuddy (97.4%)
+- Steve Lehman (96.8%)
+- Josh Morgan (96.2%)
 
 **Least aligned with:**
 - Sam Trosow (82.5%)
-- David Ferreira (87.4%)
-- Susan Stevenson (87.8%)
+- Susan Stevenson (87.9%)
+- David Ferreira (89.0%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -110,12 +110,12 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 4,219 | 3,894 | 249 | 98.2% |
-| Planning and Environment Committee | 2,145 | 2,009 | 39 | 95.5% |
-| Strategic Priorities and Policy Committee | 2,113 | 1,530 | 140 | 79.0% |
-| Community and Protective Services Committee | 374 | 356 | 11 | 98.1% |
-| Civic Works Committee | 196 | 188 | 3 | 97.4% |
-| Corporate Services Committee | 194 | 164 | 5 | 87.1% |
+| Council | 4,232 | 3,895 | 260 | 98.2% |
+| Planning and Environment Committee | 2,227 | 2,080 | 42 | 95.3% |
+| Strategic Priorities and Policy Committee | 2,125 | 1,530 | 144 | 78.8% |
+| Community and Protective Services Committee | 386 | 366 | 13 | 98.2% |
+| Civic Works Committee | 220 | 203 | 3 | 93.6% |
+| Corporate Services Committee | 202 | 168 | 8 | 87.1% |
 | Budget Committee | 189 | 96 | 69 | 87.3% |
 | Infrastructure and Corporate Services Committee | 9 | 0 | 0 | 0.0% |
 
@@ -211,8 +211,9 @@ Voted **Nay** - Motion Passed (13 to 2)
 - [City Council](/committees/city-council)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
-- [Corporate Services Committee](/committees/corporate-services)
+- [Infrastructure and Corporate Services Committee](/committees/infrastructure-corporate-services)
 - [Budget Committee](/committees/budget)
+- [Corporate Services Committee](/committees/corporate-services)
 - [Audit Committee](/committees/audit)
 - [Civic Works Committee](/committees/civic-works)
 

@@ -19,6 +19,11 @@ import {
   type Meeting,
 } from "../lib/councillors/index.js"
 import { dedupePlaceholderMeetings, isPlaceholderMeeting } from "../lib/meetings/dedupe-placeholders.js"
+import { extractCommittee } from "../lib/meetings/committee.js"
+
+// Re-exported so scripts/generate-pages.test.ts (and anything else that
+// imported it from this module) keeps working unchanged.
+export { extractCommittee }
 
 // Vote stats interface
 interface VoteStats {
@@ -152,34 +157,6 @@ interface CouncillorData {
 // Load councillor registry from JSON data (source of truth)
 const VERIFIED_COUNCILLORS = loadRegistry()
 
-// Committee name normalization map
-const COMMITTEE_MAPPINGS: Record<string, { name: string; slug: string }> = {
-  "planning and environment": { name: "Planning and Environment Committee", slug: "planning-environment" },
-  "planning & environment": { name: "Planning and Environment Committee", slug: "planning-environment" },
-  "corporate services": { name: "Corporate Services Committee", slug: "corporate-services" },
-  "strategic priorities and policy": { name: "Strategic Priorities and Policy Committee", slug: "strategic-priorities" },
-  "strategic priorities & policy": { name: "Strategic Priorities and Policy Committee", slug: "strategic-priorities" },
-  "civic works": { name: "Civic Works Committee", slug: "civic-works" },
-  "community and protective services": { name: "Community and Protective Services Committee", slug: "community-protective-services" },
-  "community & protective services": { name: "Community and Protective Services Committee", slug: "community-protective-services" },
-  "audit": { name: "Audit Committee", slug: "audit" },
-  "audit committee": { name: "Audit Committee", slug: "audit" },
-  "budget": { name: "Budget Committee", slug: "budget" },
-  "budget committee": { name: "Budget Committee", slug: "budget" },
-  "city council": { name: "City Council", slug: "city-council" },
-  "council": { name: "City Council", slug: "city-council" },
-  "infrastructure and corporate services": { name: "Infrastructure and Corporate Services Committee", slug: "infrastructure-corporate-services" },
-  "infrastructure & corporate services": { name: "Infrastructure and Corporate Services Committee", slug: "infrastructure-corporate-services" },
-}
-
-// Slugify helper
-function slugify(text: string): string {
-  return text
-    .toLowerCase()
-    .replace(/[^a-z0-9]+/g, "-")
-    .replace(/^-+|-+$/g, "")
-}
-
 // Format a date for display (e.g., "Wed Nov 22 2017")
 function formatMeetingDate(date: string | Date): string {
   const dateObj = date instanceof Date ? date : new Date(date)
@@ -203,28 +180,10 @@ function getISODate(date: string | Date): string {
   return new Date(date).toISOString().split('T')[0]
 }
 
-// Extract committee from title
-function extractCommittee(title: string): { name: string; slug: string } | null {
-  const lowerTitle = title.toLowerCase()
-
-  // Try to match known committees
-  for (const [pattern, committee] of Object.entries(COMMITTEE_MAPPINGS)) {
-    if (lowerTitle.includes(pattern)) {
-      return committee
-    }
-  }
-
-  // Fallback: try to extract from "Meeting of the X Committee" pattern
-  const match = title.match(/meeting of (?:the )?(.+?)(?:\s*-|$)/i)
-  if (match) {
-    const name = match[1].trim()
-    return { name, slug: slugify(name) }
-  }
-
-  return null
-}
-
-// Note: normalizeCouncillorName and extractCouncillors are imported from lib/councillors
+// Note: extractCommittee lives in lib/meetings/committee.ts (shared with
+// quartz component code - see filter-real-meetings.ts) and is re-exported
+// above. normalizeCouncillorName and extractCouncillors are imported from
+// lib/councillors.
 
 // Meeting as scanned from disk, plus whether it's a stub placeholder page
 // (minutes not yet published) - used only to dedupe against a real sibling
@@ -860,4 +819,9 @@ async function main() {
   console.log(`   Councillor pages: ${currentCount} current, ${formerCount} former`)
 }
 
-main().catch(console.error)
+// Guard so this module can be imported (e.g. by generate-pages.test.ts) to
+// exercise pure functions like extractCommittee() without triggering a full
+// page-generation run as a side effect of the import.
+if (import.meta.url === `file://${process.argv[1]}`) {
+  main().catch(console.error)
+}

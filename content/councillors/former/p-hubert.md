@@ -5,18 +5,18 @@ slug: "p-hubert"
 meetingCount: 363
 yearsActive: "2010 - 2018"
 isCurrent: false
-totalVotes: 6520
-votesYea: 6043
-votesNay: 445
-votesAbsent: 26
-votesRecused: 6
+totalVotes: 6577
+votesYea: 6081
+votesNay: 451
+votesAbsent: 36
+votesRecused: 9
 votesAbstained: 0
 votesOther: 0
 attendanceRate: 92.4
-participationRate: 99.5
+participationRate: 99.3
 yeaRate: 93.1
 contestedDissentRate: 5.6
-contestedVotes: 6099
+contestedVotes: 6108
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,11 +33,11 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 6,520 |
-| Voted Yea | 6,043 (92.7%) |
-| Voted Nay | 445 (6.8%) |
-| Absent | 26 (0.4%) |
-| Recused (conflict of interest) | 6 (0.1%) |
+| Total Votes | 6,577 |
+| Voted Yea | 6,081 (92.5%) |
+| Voted Nay | 451 (6.9%) |
+| Absent | 36 (0.5%) |
+| Recused (conflict of interest) | 9 (0.1%) |
 | Abstained | 0 (0.0%) |
 
 *Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
@@ -49,9 +49,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 6,302 |
-| Voted Yea | 5,846 (93.0%) |
-| Voted Nay | 439 (7.0%) |
+| Substantive Votes | 6,336 |
+| Voted Yea | 5,867 (93.0%) |
+| Voted Nay | 443 (7.0%) |
 
 
 ### Dissent on Contested Votes
@@ -59,7 +59,7 @@ prefillQuestions:
 *Only counts non-unanimous votes where the councillor participated*
 
 - **Dissent Rate**: 5.6%
-- **Contested Votes**: 6,099
+- **Contested Votes**: 6,108
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -70,9 +70,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 1,335 |
-| Voted Yea | 1,118 (84.0%) |
-| Voted Nay | 213 (16.0%) |
+| Budget Votes | 1,343 |
+| Voted Yea | 1,125 (84.0%) |
+| Voted Nay | 214 (16.0%) |
 | Absent | 4 |
 
 
@@ -94,17 +94,41 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 2,582 | 2,423 | 139 | 99.2% |
-| Strategic Priorities and Policy Committee | 1,931 | 1,669 | 262 | 100.0% |
+| Council | 2,590 | 2,423 | 144 | 99.1% |
+| Strategic Priorities and Policy Committee | 1,933 | 1,669 | 263 | 99.9% |
 | Planning and Environment Committee | 1,468 | 1,440 | 28 | 100.0% |
-| Corporate Services Committee | 308 | 284 | 12 | 96.1% |
-| Civic Works Committee | 230 | 226 | 4 | 100.0% |
+| Corporate Services Committee | 326 | 302 | 12 | 96.3% |
+| Civic Works Committee | 259 | 246 | 4 | 96.5% |
 | Community and Protective Services Committee | 1 | 1 | 0 | 100.0% |
 
 
 ## Notable Dissenting Votes
 
 *Recent split votes where Paul Hubert voted against the final outcome:*
+
+### 2018-11-20: By-laws
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=c19d9690-bf35-4f36-b060-ae79a9a32134&Agenda=PostMinutes&lang=English)
+
+> That Second Reading of Bill No.’s 617 and 631 BE APPROVED.
+
+Voted **Nay** - Motion Passed (9 to 4)
+
+### 2018-11-20: By-laws
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=c19d9690-bf35-4f36-b060-ae79a9a32134&Agenda=PostMinutes&lang=English)
+
+> That Third Reading and Enactment of Bill No.’s 617 and 631 BE APPROVED.
+
+Voted **Nay** - Motion Passed (9 to 4)
+
+### 2018-11-06: (3.4) Application - 324 York Street (TZ-8917) (Relates to Bill No. 610)
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=c0233c2f-9459-4232-ac30-7780a482a08d&Agenda=PostMinutes&lang=English)
+
+> The motion to approve part a) is put: That, on the recommendation of the Managing Director, Planning and City Planner, the following actions be taken with respect to the application of Bradel Properti...
+
+Voted **Nay** - Motion Passed (11 to 2)
 
 ### 2018-09-25: Downtown King Street Cycling Improvements
 
@@ -161,34 +185,6 @@ Voted **Nay** - Motion Passed (8 to 5)
 > Motion to refer part c), having to do with a revised Annual Meeting Calendar, BE REFERRED to the 2018-2022 Council for consideration; it being noted that the City Clerk will be required to bring forwa...
 
 Voted **Yea** - Motion Failed (5 to 8)
-
-### 2018-06-25: 9th Report of the Governance Working Group
-
-[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b06e637c-71a8-4f2f-8d7e-2cc345dfbf1f&Agenda=PostMinutes&lang=English)
-
-> Motion to approve part c), with the addition to direct the City Clerk to consult with the Civic Administration on the draft calendars.
-
-Voted **Nay** - Motion Passed (8 to 5)
-
-### 2018-05-08: (2.1) Short Term Accommodations
-
-[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=d246efa1-5a31-4d4a-ad74-2e0440213cbb&Agenda=PostMinutes&lang=English)
-
-> That Item 4.2 BE AMENDED in part c) to direct staff to hold a public participation meeting before the Community and Protective Services Committee on draft by-law amendments to a number of by-laws, to ...
-
-Voted **Yea** - Motion Failed (6 to 8)
-
-### 2018-05-07: (ADDED) London Middlesex Housing Corporation Board of Directors Vacancies
-
-[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=691a23eb-acf5-4a4e-bc63-44f0001d9807&Agenda=PostMinutes&lang=English)
-
-> That the following actions be taken with respect to the London Middlesex Housing Corporation Board of Directors:
-
-
-
-a)            the letter of resignation appended to the staff report dated May 7, 20...
-
-Voted **Nay** - Motion Passed (8 to 5)
 
 
 ## Committees Served

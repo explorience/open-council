@@ -98,7 +98,8 @@
                   "A. Hopkins ",
                   "S. Turner",
                   "S. Lewis",
-                  "S. Hillier,S. Lehman"
+                  "S. Hillier",
+                  "S. Lehman"
                 ]
               }
             ],
@@ -642,7 +643,8 @@
                       "A. Hopkins ",
                       "S. Turner",
                       "S. Lewis",
-                      "S. Hillier,S. Lehman"
+                      "S. Hillier",
+                      "S. Lehman"
                     ]
                   }
                 ],
@@ -686,7 +688,8 @@
                       "A. Hopkins ",
                       "S. Turner",
                       "S. Lewis",
-                      "S. Hillier,S. Lehman"
+                      "S. Hillier",
+                      "S. Lehman"
                     ]
                   }
                 ],
@@ -725,7 +728,8 @@
                       "A. Hopkins ",
                       "S. Turner",
                       "S. Lewis",
-                      "S. Hillier,S. Lehman"
+                      "S. Hillier",
+                      "S. Lehman"
                     ]
                   }
                 ],
@@ -808,7 +812,8 @@
                       "A. Hopkins ",
                       "S. Turner",
                       "S. Lewis",
-                      "S. Hillier,S. Lehman"
+                      "S. Hillier",
+                      "S. Lehman"
                     ]
                   }
                 ],
@@ -852,7 +857,8 @@
                       "A. Hopkins ",
                       "S. Turner",
                       "S. Lewis",
-                      "S. Hillier,S. Lehman"
+                      "S. Hillier",
+                      "S. Lehman"
                     ]
                   }
                 ],
@@ -891,7 +897,8 @@
                       "A. Hopkins ",
                       "S. Turner",
                       "S. Lewis",
-                      "S. Hillier,S. Lehman"
+                      "S. Hillier",
+                      "S. Lehman"
                     ]
                   }
                 ],
@@ -970,7 +977,8 @@
                       "A. Hopkins ",
                       "S. Turner",
                       "S. Lewis",
-                      "S. Hillier,S. Lehman"
+                      "S. Hillier",
+                      "S. Lehman"
                     ]
                   }
                 ],
@@ -1014,7 +1022,8 @@
                       "A. Hopkins ",
                       "S. Turner",
                       "S. Lewis",
-                      "S. Hillier,S. Lehman"
+                      "S. Hillier",
+                      "S. Lehman"
                     ]
                   }
                 ],
@@ -1053,7 +1062,8 @@
                       "A. Hopkins ",
                       "S. Turner",
                       "S. Lewis",
-                      "S. Hillier,S. Lehman"
+                      "S. Hillier",
+                      "S. Lehman"
                     ]
                   }
                 ],
@@ -1162,7 +1172,8 @@
                       "J. Morgan",
                       "Acting Mayor",
                       "S. Lewis",
-                      "S. Hillier,S. Lehman"
+                      "S. Hillier",
+                      "S. Lehman"
                     ]
                   },
                   {
@@ -1218,7 +1229,8 @@
                       "A. Hopkins ",
                       "S. Turner",
                       "S. Lewis",
-                      "S. Hillier,S. Lehman"
+                      "S. Hillier",
+                      "S. Lehman"
                     ]
                   }
                 ],
@@ -1257,7 +1269,8 @@
                       "A. Hopkins ",
                       "S. Turner",
                       "S. Lewis",
-                      "S. Hillier,S. Lehman"
+                      "S. Hillier",
+                      "S. Lehman"
                     ]
                   }
                 ],
@@ -1294,13 +1307,15 @@
                       "J. Morgan",
                       "Acting Mayor",
                       "A. Hopkins ",
-                      "S. Hillier,S. Lehman"
+                      "S. Hillier",
+                      "S. Lehman"
                     ]
                   },
                   {
                     "vote": "Nays:",
                     "voters": [
-                      "S. Turner,S. Lewis"
+                      "S. Turner",
+                      "S. Lewis"
                     ]
                   }
                 ],
@@ -1377,7 +1392,8 @@
                       "J. Morgan",
                       "Acting Mayor",
                       "S. Lewis",
-                      "S. Hillier,S. Lehman"
+                      "S. Hillier",
+                      "S. Lehman"
                     ]
                   },
                   {
@@ -1432,7 +1448,8 @@
                       "Acting Mayor",
                       "A. Hopkins ",
                       "S. Lewis",
-                      "S. Hillier,S. Lehman"
+                      "S. Hillier",
+                      "S. Lehman"
                     ]
                   },
                   {
@@ -1476,7 +1493,8 @@
                       "Acting Mayor",
                       "A. Hopkins ",
                       "S. Lewis",
-                      "S. Hillier,S. Lehman"
+                      "S. Hillier",
+                      "S. Lehman"
                     ]
                   },
                   {
@@ -1587,7 +1605,8 @@
                       "Acting Mayor",
                       "A. Hopkins ",
                       "S. Lewis",
-                      "S. Hillier,S. Lehman"
+                      "S. Hillier",
+                      "S. Lehman"
                     ]
                   },
                   {
@@ -1636,7 +1655,8 @@
                       "Acting Mayor",
                       "A. Hopkins ",
                       "S. Lewis",
-                      "S. Hillier,S. Lehman"
+                      "S. Hillier",
+                      "S. Lehman"
                     ]
                   },
                   {
@@ -1707,13 +1727,15 @@
                       "J. Morgan",
                       "Acting Mayor",
                       "A. Hopkins ",
-                      "S. Lewis,S. Lehman"
+                      "S. Lewis",
+                      "S. Lehman"
                     ]
                   },
                   {
                     "vote": "Absent:",
                     "voters": [
-                      "S. Turner,S. Hillier"
+                      "S. Turner",
+                      "S. Hillier"
                     ]
                   }
                 ],

@@ -86,7 +86,8 @@
                   "A. Kayabaga",
                   "E. Peloza",
                   "P. Van Meerbergen",
-                  "S. Lehman,Mayor E. Holder"
+                  "S. Lehman",
+                  "Mayor E. Holder"
                 ]
               },
               {
@@ -149,7 +150,8 @@
                   "A. Kayabaga",
                   "E. Peloza",
                   "P. Van Meerbergen",
-                  "S. Lehman,Mayor E. Holder"
+                  "S. Lehman",
+                  "Mayor E. Holder"
                 ]
               },
               {
@@ -373,7 +375,8 @@
                       "A. Kayabaga",
                       "E. Peloza",
                       "P. Van Meerbergen",
-                      "S. Lehman,Mayor E. Holder"
+                      "S. Lehman",
+                      "Mayor E. Holder"
                     ]
                   },
                   {
@@ -430,7 +433,8 @@
                       "A. Kayabaga",
                       "E. Peloza",
                       "P. Van Meerbergen",
-                      "S. Lehman,Mayor E. Holder"
+                      "S. Lehman",
+                      "Mayor E. Holder"
                     ]
                   },
                   {
@@ -509,7 +513,8 @@
                       "A. Kayabaga",
                       "E. Peloza",
                       "P. Van Meerbergen",
-                      "S. Lehman,Mayor E. Holder"
+                      "S. Lehman",
+                      "Mayor E. Holder"
                     ]
                   },
                   {
@@ -567,7 +572,8 @@
                       "S. Hillier",
                       "E. Peloza",
                       "P. Van Meerbergen",
-                      "S. Lehman,Mayor E. Holder"
+                      "S. Lehman",
+                      "Mayor E. Holder"
                     ]
                   },
                   {
@@ -576,7 +582,8 @@
                       "M. Salih",
                       "J. Helmer",
                       "M. Cassidy",
-                      "A. Hopkins,A. Kayabaga"
+                      "A. Hopkins",
+                      "A. Kayabaga"
                     ]
                   },
                   {
@@ -653,19 +660,22 @@
                       "S. Hillier",
                       "A. Kayabaga",
                       "E. Peloza",
-                      "S. Lehman,Mayor E. Holder"
+                      "S. Lehman",
+                      "Mayor E. Holder"
                     ]
                   },
                   {
                     "vote": "Nays:",
                     "voters": [
-                      "M. van Holst,M. Cassidy"
+                      "M. van Holst",
+                      "M. Cassidy"
                     ]
                   },
                   {
                     "vote": "Absent:",
                     "voters": [
-                      "S. Turner,P. Van Meerbergen"
+                      "S. Turner",
+                      "P. Van Meerbergen"
                     ]
                   }
                 ],
@@ -730,13 +740,15 @@
                       "S. Hillier",
                       "A. Kayabaga",
                       "E. Peloza",
-                      "S. Lehman,Mayor E. Holder"
+                      "S. Lehman",
+                      "Mayor E. Holder"
                     ]
                   },
                   {
                     "vote": "Absent:",
                     "voters": [
-                      "S. Turner,P. Van Meerbergen"
+                      "S. Turner",
+                      "P. Van Meerbergen"
                     ]
                   }
                 ],
