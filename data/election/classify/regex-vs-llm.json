@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-31T15:20:54.481Z",
+  "generatedAt": "2026-08-31T16:05:41.073Z",
   "note": "Cross-check report only — the regex engine in issue-rules.ts/direction-rules.ts is NOT the source of any published claim as of the 2026-08-31 rebuild; every published issue/axis/polarity/whatAYeaDid comes from data/election/classify/batch-*-verified.json. This file records every motion in the divided universe where the regex engine's independent read (issue classification and/or direction) disagrees with the verified classification, for ongoing regex-quality monitoring.",
-  "totalCompared": 1089,
-  "disagreementCount": 464,
+  "totalCompared": 1172,
+  "disagreementCount": 498,
   "disagreements": [
     {
       "motionId": "c7bf822cb0ae",
@@ -8352,6 +8352,618 @@
       },
       "llm": {
         "issue": "housing",
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "93cf1341956d",
+      "date": "2023-05-30",
+      "meetingSlug": "months/2023-05/2023-05-30 16th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "2.2",
+      "itemTitle": "Core Area Land and Building Vacancy Reduction Strategy",
+      "kind": "issue",
+      "regex": {
+        "issue": "downtown",
+        "axis": null,
+        "valence": null
+      },
+      "llm": {
+        "issue": null,
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "459571d81fed",
+      "date": "2023-05-30",
+      "meetingSlug": "months/2023-05/2023-05-30 16th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "4.1",
+      "itemTitle": "2022 Climate Emergency Action Plan Progress Report",
+      "kind": "issue",
+      "regex": {
+        "issue": "climate",
+        "axis": "application-approval",
+        "valence": 1
+      },
+      "llm": {
+        "issue": null,
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "04ef20f344ee",
+      "date": "2023-05-30",
+      "meetingSlug": "months/2023-05/2023-05-30 16th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "4.3",
+      "itemTitle": "Request for Business Cases for the Multi-Year Budget",
+      "kind": "issue",
+      "regex": {
+        "issue": "budget",
+        "axis": "application-approval",
+        "valence": 1
+      },
+      "llm": {
+        "issue": null,
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "9705aa6da1dc",
+      "date": "2023-05-30",
+      "meetingSlug": "months/2023-05/2023-05-30 16th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "4.3",
+      "itemTitle": "Request for Business Cases for the Multi-Year Budget",
+      "kind": "issue",
+      "regex": {
+        "issue": "climate",
+        "axis": null,
+        "valence": null
+      },
+      "llm": {
+        "issue": null,
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "eff54431a239",
+      "date": "2023-05-23",
+      "meetingSlug": "months/2023-05/2023-05-23 9th Meeting of the Planning and Environment Committee",
+      "itemNumber": "3.4",
+      "itemTitle": "Additional Residential Unit Amendments as a Result of More Homes Built Faster Act, 2022 (Bill 23) (OZ-9581)",
+      "kind": "issue",
+      "regex": {
+        "issue": "housing",
+        "axis": "application-approval",
+        "valence": 1
+      },
+      "llm": {
+        "issue": null,
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "04c7e4c30cd1",
+      "date": "2023-05-23",
+      "meetingSlug": "months/2023-05/2023-05-23 9th Meeting of the Planning and Environment Committee",
+      "itemNumber": "3.8",
+      "itemTitle": "129-131 Base Line Road West (Z-9578)",
+      "kind": "issue",
+      "regex": {
+        "issue": "housing",
+        "axis": "application-approval",
+        "valence": 1
+      },
+      "llm": {
+        "issue": null,
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "10efee30d126",
+      "date": "2023-05-09",
+      "meetingSlug": "months/2023-05/2023-05-09 15th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "2.1",
+      "itemTitle": "2023 Industrial Land Development Strategy",
+      "kind": "issue",
+      "regex": {
+        "issue": "climate",
+        "axis": null,
+        "valence": null
+      },
+      "llm": {
+        "issue": null,
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "730abd01f37c",
+      "date": "2023-05-09",
+      "meetingSlug": "months/2023-05/2023-05-09 15th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "2.1",
+      "itemTitle": "2023 Industrial Land Development Strategy",
+      "kind": "issue",
+      "regex": {
+        "issue": "climate",
+        "axis": "application-approval",
+        "valence": 1
+      },
+      "llm": {
+        "issue": null,
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "a4abd9e1fa3c",
+      "date": "2023-04-18",
+      "meetingSlug": "months/2023-04/2023-04-18 14th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "4.1",
+      "itemTitle": "2024-2027 Multi-Year Budget",
+      "kind": "issue",
+      "regex": {
+        "issue": "budget",
+        "axis": null,
+        "valence": null
+      },
+      "llm": {
+        "issue": null,
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "6b989391e04c",
+      "date": "2023-04-04",
+      "meetingSlug": "months/2023-04/2023-04-04 8th Meeting of City Council",
+      "itemNumber": "8.4.9",
+      "itemTitle": "(3.7) 614 Westmount Crescent (Z-9553) (Relates to Bill No. 116)",
+      "kind": "issue",
+      "regex": {
+        "issue": "housing",
+        "axis": "application-approval",
+        "valence": 1
+      },
+      "llm": {
+        "issue": null,
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "56da0b282a71",
+      "date": "2023-03-28",
+      "meetingSlug": "months/2023-03/2023-03-28 12th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "4.1",
+      "itemTitle": "Council's Draft 2023-2027 Strategic Plan",
+      "kind": "issue",
+      "regex": {
+        "issue": "encampments",
+        "axis": null,
+        "valence": null
+      },
+      "llm": {
+        "issue": null,
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "c0ce799340ac",
+      "date": "2023-03-08",
+      "meetingSlug": "months/2023-03/2023-03-08 11th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "4.2",
+      "itemTitle": "(ADDED) Council's Draft 2023-2027 Strategic Plan",
+      "kind": "issue",
+      "regex": {
+        "issue": "encampments",
+        "axis": null,
+        "valence": null
+      },
+      "llm": {
+        "issue": null,
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "a3765ca3c05a",
+      "date": "2023-03-07",
+      "meetingSlug": "months/2023-03/2023-03-07 6th Meeting of City Council",
+      "itemNumber": "8.1.5",
+      "itemTitle": "(2.4) Results of the 2022 Bike Share Request for Proposal Process and Next Steps ",
+      "kind": "issue",
+      "regex": {
+        "issue": "budget",
+        "axis": "application-approval",
+        "valence": 1
+      },
+      "llm": {
+        "issue": null,
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "0c53add88983",
+      "date": "2023-02-28",
+      "meetingSlug": "months/2023-02/2023-02-28 10th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "4.3",
+      "itemTitle": "Developing Council's 2023-2027 Strategic Plan: Draft Metrics",
+      "kind": "issue",
+      "regex": {
+        "issue": "encampments",
+        "axis": null,
+        "valence": null
+      },
+      "llm": {
+        "issue": null,
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "a01600ddb427",
+      "date": "2023-02-28",
+      "meetingSlug": "months/2023-02/2023-02-28 10th Meeting of the Strategic Priorities and Policy Committee",
+      "itemNumber": "4.3",
+      "itemTitle": "Developing Council's 2023-2027 Strategic Plan: Draft Metrics",
+      "kind": "issue",
+      "regex": {
+        "issue": "climate",
+        "axis": null,
+        "valence": null
+      },
+      "llm": {
+        "issue": null,
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "950e2a392a63",
+      "date": "2023-02-14",
+      "meetingSlug": "months/2023-02/2023-02-14 5th Meeting of City Council",
+      "itemNumber": "8.1.10",
+      "itemTitle": "(2.9) Housing Stability Services Purchase of Service Agreement Template (Relates to Bill No. 52)",
+      "kind": "issue",
+      "regex": {
+        "issue": "encampments",
+        "axis": "application-approval",
+        "valence": 1
+      },
+      "llm": {
+        "issue": null,
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "7346985bd070",
+      "date": "2023-02-14",
+      "meetingSlug": "months/2023-02/2023-02-14 5th Meeting of City Council",
+      "itemNumber": "8.2.6",
+      "itemTitle": "(2.5) Contract Award: Tender No. RFT-2022-248 Rapid Transit Implementation - Wellington Street from Queens Avenue to the Thames River (South Branch) - Irregular Result",
+      "kind": "issue",
+      "regex": {
+        "issue": "transit",
+        "axis": null,
+        "valence": null
+      },
+      "llm": {
+        "issue": null,
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "cacc4eabf8e7",
+      "date": "2023-02-14",
+      "meetingSlug": "months/2023-02/2023-02-14 5th Meeting of City Council",
+      "itemNumber": "8.6.10",
+      "itemTitle": "(3.4) 489 Upper Queen Street (Z-9540) (Relates to Bill No. 66)",
+      "kind": "issue",
+      "regex": {
+        "issue": "housing",
+        "axis": "application-approval",
+        "valence": 1
+      },
+      "llm": {
+        "issue": null,
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "a4044aae6238",
+      "date": "2023-02-14",
+      "meetingSlug": "months/2023-02/2023-02-14 5th Meeting of City Council",
+      "itemNumber": "8.6.11",
+      "itemTitle": "(3.5) 608 Commissioners Road West (Z-9516) (Relates to Bill No. 67)",
+      "kind": "issue",
+      "regex": {
+        "issue": "housing",
+        "axis": null,
+        "valence": null
+      },
+      "llm": {
+        "issue": null,
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "c699eb9cc94f",
+      "date": "2023-02-14",
+      "meetingSlug": "months/2023-02/2023-02-14 5th Meeting of City Council",
+      "itemNumber": "8.6.11",
+      "itemTitle": "(3.5) 608 Commissioners Road West (Z-9516) (Relates to Bill No. 67)",
+      "kind": "issue",
+      "regex": {
+        "issue": "housing",
+        "axis": "application-approval",
+        "valence": 1
+      },
+      "llm": {
+        "issue": null,
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "e9bc755a8186",
+      "date": "2023-01-31",
+      "meetingSlug": "months/2023-01/2023-01-31 The 3rd Meeting of the Civic Works Committee",
+      "itemNumber": "2.5",
+      "itemTitle": "Contract Award: Tender No. RFT-2022-248 Rapid Transit Implementation – Wellington Street from Queens Avenue to the Thames River (South Branch) – Irregular Result",
+      "kind": "issue",
+      "regex": {
+        "issue": "transit",
+        "axis": null,
+        "valence": null
+      },
+      "llm": {
+        "issue": null,
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "2debd88e147d",
+      "date": "2023-01-30",
+      "meetingSlug": "months/2023-01/2023-01-30 3rd Meeting of the Planning and Environment Committee",
+      "itemNumber": "3.4",
+      "itemTitle": "489 Upper Queen Street (Z-9540)",
+      "kind": "issue",
+      "regex": {
+        "issue": "housing",
+        "axis": "application-approval",
+        "valence": 1
+      },
+      "llm": {
+        "issue": null,
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "7c12069f2f9b",
+      "date": "2023-01-30",
+      "meetingSlug": "months/2023-01/2023-01-30 3rd Meeting of the Planning and Environment Committee",
+      "itemNumber": "3.5",
+      "itemTitle": "608 Commissioners Road West (Z-9516)",
+      "kind": "issue",
+      "regex": {
+        "issue": "housing",
+        "axis": "application-approval",
+        "valence": 1
+      },
+      "llm": {
+        "issue": null,
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "b18982431ad1",
+      "date": "2023-01-26",
+      "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
+      "itemNumber": "4.1",
+      "itemTitle": "Review of Recommended Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
+      "kind": "issue",
+      "regex": {
+        "issue": "budget",
+        "axis": null,
+        "valence": null
+      },
+      "llm": {
+        "issue": null,
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "950b21d6cef5",
+      "date": "2023-01-26",
+      "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
+      "itemNumber": "4.3",
+      "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
+      "kind": "issue",
+      "regex": {
+        "issue": "budget",
+        "axis": null,
+        "valence": null
+      },
+      "llm": {
+        "issue": null,
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "75a10636d5f6",
+      "date": "2023-01-26",
+      "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
+      "itemNumber": "4.3",
+      "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
+      "kind": "issue",
+      "regex": {
+        "issue": "budget",
+        "axis": null,
+        "valence": null
+      },
+      "llm": {
+        "issue": null,
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "070efd97b686",
+      "date": "2023-01-26",
+      "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
+      "itemNumber": "4.3",
+      "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
+      "kind": "issue",
+      "regex": {
+        "issue": "budget",
+        "axis": "application-approval",
+        "valence": 1
+      },
+      "llm": {
+        "issue": null,
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "192cc16c866a",
+      "date": "2023-01-26",
+      "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
+      "itemNumber": "4.3",
+      "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
+      "kind": "issue",
+      "regex": {
+        "issue": "budget",
+        "axis": "application-approval",
+        "valence": 1
+      },
+      "llm": {
+        "issue": null,
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "67e8f0bb6a90",
+      "date": "2023-01-26",
+      "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
+      "itemNumber": "4.3",
+      "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
+      "kind": "issue",
+      "regex": {
+        "issue": "budget",
+        "axis": null,
+        "valence": null
+      },
+      "llm": {
+        "issue": null,
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "3e356dd3852a",
+      "date": "2023-01-26",
+      "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
+      "itemNumber": "4.3",
+      "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
+      "kind": "issue",
+      "regex": {
+        "issue": "budget",
+        "axis": null,
+        "valence": null
+      },
+      "llm": {
+        "issue": null,
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "b7f876655a41",
+      "date": "2023-01-26",
+      "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
+      "itemNumber": "4.3",
+      "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
+      "kind": "issue",
+      "regex": {
+        "issue": "budget",
+        "axis": "application-approval",
+        "valence": 1
+      },
+      "llm": {
+        "issue": null,
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "fd27307f45a8",
+      "date": "2023-01-26",
+      "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
+      "itemNumber": "4.3",
+      "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
+      "kind": "issue",
+      "regex": {
+        "issue": "budget",
+        "axis": null,
+        "valence": null
+      },
+      "llm": {
+        "issue": null,
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "000f08211725",
+      "date": "2023-01-26",
+      "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
+      "itemNumber": "4.3",
+      "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
+      "kind": "issue",
+      "regex": {
+        "issue": "budget",
+        "axis": "application-approval",
+        "valence": 1
+      },
+      "llm": {
+        "issue": null,
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "d0cbb048480e",
+      "date": "2023-01-23",
+      "meetingSlug": "months/2023-01/2023-01-23 7th Meeting of the Strategic Priorities and Policy Committee - Special Meeting",
+      "itemNumber": "4.1",
+      "itemTitle": "Developing the 2023-2027 Strategic Plan: Setting the Strategic Areas of Focus, Outcomes and Expected Results",
+      "kind": "issue",
+      "regex": {
+        "issue": "transit",
+        "axis": "application-approval",
+        "valence": 1
+      },
+      "llm": {
+        "issue": null,
         "axis": null,
         "polarity": null
       }

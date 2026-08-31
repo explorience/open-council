@@ -478,11 +478,37 @@ function extractResultTally(
   return m ? { yea: Number(m[1]), nay: Number(m[2]) } : null;
 }
 
+/** True when a motion's parsed yeas/nays arrays exactly match its own
+ * minuted tally numbers, but it Failed despite a yea majority (more yeas
+ * than nays) — the shape of a genuine supermajority requirement (e.g. a
+ * bylaw amendment or procedural motion needing two-thirds), not a data
+ * error. Found 2026-08-31 re-running the exclusion guards against the
+ * voter-fusion-repaired corpus (#197): ~3 of the pre-repair 82
+ * result-mismatch exclusions turned out to be this shape once the array
+ * counts were fixed — the tally and the arrays fully agree on who voted
+ * which way, only the "Passed"/"Failed" label disagrees with a simple
+ * majority-rule read of that tally, because the underlying rule wasn't
+ * majority rule. Deliberately narrow: only the Failed-with-yea-majority
+ * direction is treated as a legitimate supermajority read here — a
+ * Passed-without-a-yea-majority result has no equivalent "passed anyway"
+ * governance rule and stays a real mismatch (see hasResultMismatch). */
+function isSupermajorityFailure(m: RawMotion): boolean {
+  const tally = extractResultTally(m.result);
+  if (!tally) return false;
+  if (tally.yea !== m.yeas.length || tally.nay !== m.nays.length) return false;
+  return (
+    /^Motion\s+Failed/i.test(m.result) && m.yeas.length > m.nays.length
+  );
+}
+
 /** True when a motion's own minuted result string disagrees with its parsed
  * yeas/nays arrays — either the tally numbers don't match the array
  * lengths, or "Motion Passed"/"Motion Failed" doesn't match which side has
- * more votes. Found via spot-check (2026-08-31, hub-recheck verdict finding
- * 6): 82 divided motions have this disagreement — mostly an early-term
+ * more votes, AND that disagreement isn't explained by a supermajority
+ * requirement (see isSupermajorityFailure, checked first below — a
+ * legitimate supermajority failure is not a mismatch). Found via
+ * spot-check (2026-08-31, hub-recheck verdict finding 6): 82 divided
+ * motions had this disagreement pre-repair — mostly an early-term
  * (2022-23) scraper gap where individual councillors are silently missing
  * from the array a "Motion Passed/Failed" result implies should be
  * complete. A motion in this state has no reliable per-councillor position
@@ -496,6 +522,7 @@ function hasResultMismatch(m: RawMotion): boolean {
   const tally = extractResultTally(m.result);
   if (!tally) return false; // no parseable tally to compare against
   if (tally.yea !== m.yeas.length || tally.nay !== m.nays.length) return true;
+  if (isSupermajorityFailure(m)) return false;
   if (/^Motion\s+Passed/i.test(m.result) && !(m.yeas.length > m.nays.length))
     return true;
   if (/^Motion\s+Failed/i.test(m.result) && !(m.yeas.length <= m.nays.length))
@@ -553,6 +580,11 @@ interface ClassifiedMotion {
   positions: Record<string, VoteKind>;
   anchor: string | null;
   anchorAmbiguous: boolean;
+  /** Set only for a legitimate supermajority failure (see
+   * isSupermajorityFailure) — carried through to each per-row evidence
+   * entry so the reader sees why a "Failed" result sits alongside a yea
+   * majority, instead of the row silently looking like an error. */
+  resultNote: string | null;
 }
 
 function main() {
@@ -616,14 +648,24 @@ function main() {
     );
   }
 
-  if (resultMismatches.length > 0) {
+  {
+    // Unconditional write (2026-08-31 fix): the sibling not-divided/
+    // roster-conflicts/corrections blocks below only write their disclosure
+    // file when count > 0, which is fine for a class that's never yet been
+    // empty — but this guard's count dropped from 82 to 0 in this same
+    // repair pass (79 fixed by the voter-fusion corpus repair, 3
+    // reclassified as legitimate supermajority failures, see
+    // isSupermajorityFailure), and a conditional write would have left the
+    // stale 82-entry file on disk forever, silently misreporting a
+    // resolved data-quality class as still-broken. Always writing keeps
+    // this one file honest about its own history across a repair.
     fs.mkdirSync(OUT_DIR, { recursive: true });
     fs.writeFileSync(
       path.join(OUT_DIR, "result-mismatches.json"),
       JSON.stringify(
         {
           generatedAt: new Date().toISOString(),
-          note: "Motions dropped from the divided-vote universe because the motion's own minuted result string (e.g. 'Motion Passed (11 to 4)') disagrees with its parsed yeas/nays arrays — either the tally numbers don't match the array lengths, or which side won doesn't match which side has more votes. Mostly an early-term (2022-23) scraper gap. Needs manual repair against the source minutes; never guessed at or silently kept.",
+          note: "Motions dropped from the divided-vote universe because the motion's own minuted result string (e.g. 'Motion Passed (11 to 4)') disagrees with its parsed yeas/nays arrays — either the tally numbers don't match the array lengths, or which side won doesn't match which side has more votes, and that disagreement isn't explained by a supermajority requirement. Mostly an early-term (2022-23) scraper gap. Needs manual repair against the source minutes; never guessed at or silently kept. A motion whose tally numbers DO match its arrays exactly but that Failed despite a yea majority is treated separately, as a legitimate supermajority failure — included in the divided universe with a per-row resultNote, not listed here (see isSupermajorityFailure in generate-stances.ts).",
           count: resultMismatches.length,
           motions: resultMismatches.map((m) => ({
             id: m.id,
@@ -641,7 +683,9 @@ function main() {
       ),
     );
     console.log(
-      `Dropped ${resultMismatches.length} motion(s) with a result/vote-array mismatch — see data/election/result-mismatches.json`,
+      resultMismatches.length > 0
+        ? `Dropped ${resultMismatches.length} motion(s) with a result/vote-array mismatch — see data/election/result-mismatches.json`
+        : `0 motion(s) with a result/vote-array mismatch — data/election/result-mismatches.json rewritten empty`,
     );
   }
 
@@ -743,6 +787,9 @@ function main() {
       positions: positionsOf(motion, lookup),
       anchor: anchorResult?.url ?? null,
       anchorAmbiguous: anchorResult?.ambiguous ?? false,
+      resultNote: isSupermajorityFailure(motion)
+        ? "failed — required a supermajority"
+        : null,
     });
   }
 
@@ -897,6 +944,11 @@ function evidenceEntry(c: ClassifiedMotion, theirVote: VoteKind | "n/a") {
     anchorAmbiguous: c.anchorAmbiguous,
     result: m.result,
     tally: `${c.tally.yea}-${c.tally.nay}`,
+    // Honest per-row disclosure for a legitimate supermajority failure
+    // (see isSupermajorityFailure/resultNote) — null for every ordinary
+    // motion. Never a mismatch flag: this motion's arrays and tally agree
+    // exactly; only the plain-majority reading of "who won" doesn't apply.
+    resultNote: c.resultNote,
     theirVote,
     // Fixed 2026-08-31 (found while wiring the new unclear-evidence render,
     // hub-recheck round-3): this used to fall back to the bare literal

@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-31T15:20:54.489Z",
+  "generatedAt": "2026-08-31T16:05:41.075Z",
   "sourceHash": "b7db59b827637e80",
-  "sourceGeneratedAt": "2026-08-26T14:06:06.044Z",
+  "sourceGeneratedAt": "2026-08-31T05:18:27.112Z",
   "cutoffDate": "2023-01-01",
   "methodology": "Divided = non-unanimous, non-procedural motion, 2023-01-01 onward, excluding secret-ballot appointment rounds (result 'Majority Winner: ...'), motions with a roster data conflict (the same person recorded in two vote-kind buckets — see roster-conflicts.json), motions whose own minuted result string disagrees with its parsed yeas/nays arrays (see result-mismatches.json), and motions the classify pipeline's own verification pass flagged 'not_divided' — a lopsided result the source data's 'unanimous' field didn't catch, or the same motion recorded twice under two item numbers (see not-divided.json). Rebuilt 2026-08-31: issue, axis, polarity and 'what a yea did' are sourced from data/election/classify/batch-*-verified.json, a per-motion classification independently verified against each motion's own COMPLETE text in the source meeting record (never the 500-character-truncated copy in data/votes/_all-motions.json) — not from a keyword-matching regex. Only entries with verdict 'confirmed' or 'corrected' and a non-null axis/polarity are direction-bearing; a 'downgraded' verdict or a confirmed/corrected entry with no clear direction (a referral, an informational report-back ask, or a genuinely ambiguous clause) is listed here but excluded from stance aggregation in stances.json, same as any other non-decision. The regex engine in scripts/election/issue-rules.ts and direction-rules.ts still runs over the same corpus as a disagreement report only (data/election/classify/regex-vs-llm.json) — it is not the source of any claim published here. Window note: this classify pass also covers 24 divided motions from Nov-Dec 2022 (before the 2023-01-01 cutoff below); they're verified and present in the classify data but not used on any published page, pending a decision on whether to extend the cutoff back to cover them.",
-  "truncatedDisplayCount": 415,
-  "resultMismatchCount": 82,
+  "truncatedDisplayCount": 436,
+  "resultMismatchCount": 0,
   "rosterConflictCount": 33,
   "notDividedCount": 3,
   "issues": {
@@ -29992,7 +29992,7 @@
     }
   },
   "unclassified": {
-    "count": 463,
+    "count": 546,
     "note": "Divided motions since 2023 the verified classification pass assigned issue 'none' (no tracked issue applies), plus any motion missing a classify entry entirely (tracked separately — see the console warning at generation time; none are guessed at or force-fit into a cluster). All are listed here.",
     "sample": [
       {
@@ -30060,6 +30060,12 @@
         "date": "2026-06-22",
         "itemNumber": "2.1",
         "itemTitle": "Green Development Framework Update"
+      },
+      {
+        "id": "e244dd248540",
+        "date": "2026-06-17",
+        "itemNumber": "6.1",
+        "itemTitle": "Build Communities Strong Fund Provincial and Territorial Stream: Development Charge Reduction Program"
       },
       {
         "id": "461b2550ab65",
@@ -30840,6 +30846,12 @@
         "date": "2025-06-09",
         "itemNumber": "4.2",
         "itemTitle": "Communication - Request for Update on 2021 Reaching Home - Councillor S. Stevenson"
+      },
+      {
+        "id": "de27b0d405ad",
+        "date": "2025-06-03",
+        "itemNumber": "12",
+        "itemTitle": "Emergent Motions"
       },
       {
         "id": "8b7ae7d39c8b",
@@ -32474,6 +32486,12 @@
         "itemTitle": "Expropriation of Lands - Wellington Gateway Project - Phase 3 and 4 (As the \"Expropriating Authority\")"
       },
       {
+        "id": "4c7617aa8c7a",
+        "date": "2023-07-25",
+        "itemNumber": "8.1.3",
+        "itemTitle": "(4.1) Master Accommodation Plan - Alternate Work Strategies Update"
+      },
+      {
         "id": "4f0af40e36e1",
         "date": "2023-07-25",
         "itemNumber": "8.1.3",
@@ -32772,6 +32790,486 @@
         "date": "2023-06-05",
         "itemNumber": "5.1",
         "itemTitle": "Consideration of Appointment to the London Police Services Board"
+      },
+      {
+        "id": "93cf1341956d",
+        "date": "2023-05-30",
+        "itemNumber": "2.2",
+        "itemTitle": "Core Area Land and Building Vacancy Reduction Strategy"
+      },
+      {
+        "id": "459571d81fed",
+        "date": "2023-05-30",
+        "itemNumber": "4.1",
+        "itemTitle": "2022 Climate Emergency Action Plan Progress Report"
+      },
+      {
+        "id": "0f1b08e86421",
+        "date": "2023-05-30",
+        "itemNumber": "4.3",
+        "itemTitle": "Request for Business Cases for the Multi-Year Budget"
+      },
+      {
+        "id": "04ef20f344ee",
+        "date": "2023-05-30",
+        "itemNumber": "4.3",
+        "itemTitle": "Request for Business Cases for the Multi-Year Budget"
+      },
+      {
+        "id": "86b1bf237179",
+        "date": "2023-05-30",
+        "itemNumber": "4.3",
+        "itemTitle": "Request for Business Cases for the Multi-Year Budget"
+      },
+      {
+        "id": "9705aa6da1dc",
+        "date": "2023-05-30",
+        "itemNumber": "4.3",
+        "itemTitle": "Request for Business Cases for the Multi-Year Budget"
+      },
+      {
+        "id": "9547b52b37af",
+        "date": "2023-05-30",
+        "itemNumber": "4.3",
+        "itemTitle": "Request for Business Cases for the Multi-Year Budget"
+      },
+      {
+        "id": "a35bc807442b",
+        "date": "2023-05-24",
+        "itemNumber": "4.3",
+        "itemTitle": "Automated Enforcement Program Expansion Single Source 2023-142"
+      },
+      {
+        "id": "5d65a79a8f55",
+        "date": "2023-05-23",
+        "itemNumber": "2",
+        "itemTitle": "Consent"
+      },
+      {
+        "id": "6bd1831c4a13",
+        "date": "2023-05-23",
+        "itemNumber": "2.5",
+        "itemTitle": "Expropriation of Lands - East London Link Project Phase 3"
+      },
+      {
+        "id": "eff54431a239",
+        "date": "2023-05-23",
+        "itemNumber": "3.4",
+        "itemTitle": "Additional Residential Unit Amendments as a Result of More Homes Built Faster Act, 2022 (Bill 23) (OZ-9581)"
+      },
+      {
+        "id": "04c7e4c30cd1",
+        "date": "2023-05-23",
+        "itemNumber": "3.8",
+        "itemTitle": "129-131 Base Line Road West (Z-9578)"
+      },
+      {
+        "id": "670fb392c44f",
+        "date": "2023-05-16",
+        "itemNumber": "8.1.6",
+        "itemTitle": "(4.1) Application - Issuance of Proclamation - Longest Day of SMILES"
+      },
+      {
+        "id": "a619de739d13",
+        "date": "2023-05-16",
+        "itemNumber": "8.2.5",
+        "itemTitle": "(2.4) Housing Collaborative Initiative (HCI) - Update"
+      },
+      {
+        "id": "10efee30d126",
+        "date": "2023-05-09",
+        "itemNumber": "2.1",
+        "itemTitle": "2023 Industrial Land Development Strategy"
+      },
+      {
+        "id": "730abd01f37c",
+        "date": "2023-05-09",
+        "itemNumber": "2.1",
+        "itemTitle": "2023 Industrial Land Development Strategy"
+      },
+      {
+        "id": "bea27da74ca1",
+        "date": "2023-05-09",
+        "itemNumber": "4.2",
+        "itemTitle": "London Police Services Board Candidates Interview Process"
+      },
+      {
+        "id": "4f5ea4ba9d7c",
+        "date": "2023-05-09",
+        "itemNumber": "4.2",
+        "itemTitle": "London Police Services Board Candidates Interview Process"
+      },
+      {
+        "id": "ffb201358ddc",
+        "date": "2023-04-25",
+        "itemNumber": "8.4.10",
+        "itemTitle": "(2.8) Western Road and Sarnia Road/Philip Aziz Avenue Corridor and Intersection Improvements - Environmental Study Report, Notice of Completion"
+      },
+      {
+        "id": "a4abd9e1fa3c",
+        "date": "2023-04-18",
+        "itemNumber": "4.1",
+        "itemTitle": "2024-2027 Multi-Year Budget"
+      },
+      {
+        "id": "0336e9e6a987",
+        "date": "2023-04-18",
+        "itemNumber": "5.1",
+        "itemTitle": "(ADDED) Request to Update London Hydro Inc. Board of Director Recruitment, Interview and Nomination Process"
+      },
+      {
+        "id": "af00b752ac42",
+        "date": "2023-04-18",
+        "itemNumber": "5.2",
+        "itemTitle": "(ADDED) Request a Governance Working Group Meeting"
+      },
+      {
+        "id": "4583e0abd1db",
+        "date": "2023-04-12",
+        "itemNumber": "2.8",
+        "itemTitle": "Western Road and Sarnia Road/Philip Aziz Avenue Corridor and Intersection Improvements - Environmental Study Report, Notice of Completion "
+      },
+      {
+        "id": "0e50da462d3b",
+        "date": "2023-04-12",
+        "itemNumber": "2.8",
+        "itemTitle": "Western Road and Sarnia Road/Philip Aziz Avenue Corridor and Intersection Improvements - Environmental Study Report, Notice of Completion "
+      },
+      {
+        "id": "0de5ebf1dc59",
+        "date": "2023-04-11",
+        "itemNumber": "2.8",
+        "itemTitle": "Members of Council Proof of COVID-19 Vaccination Policy"
+      },
+      {
+        "id": "de69e893bdf9",
+        "date": "2023-04-04",
+        "itemNumber": "8.2.5",
+        "itemTitle": "(4.2) Consideration of Appointment to the London Police Services Board"
+      },
+      {
+        "id": "74fa3e7f59f6",
+        "date": "2023-04-04",
+        "itemNumber": "8.2.5",
+        "itemTitle": "(4.2) Consideration of Appointment to the London Police Services Board"
+      },
+      {
+        "id": "b885e895012f",
+        "date": "2023-04-04",
+        "itemNumber": "8.3.9",
+        "itemTitle": "(3.2) 247 Halls Mill Road - Demolition Request to Remove Heritage Attributes"
+      },
+      {
+        "id": "8ef9149768dd",
+        "date": "2023-04-04",
+        "itemNumber": "8.3.9",
+        "itemTitle": "(3.2) 247 Halls Mill Road - Demolition Request to Remove Heritage Attributes"
+      },
+      {
+        "id": "6b989391e04c",
+        "date": "2023-04-04",
+        "itemNumber": "8.4.9",
+        "itemTitle": "(3.7) 614 Westmount Crescent (Z-9553) (Relates to Bill No. 116)"
+      },
+      {
+        "id": "56da0b282a71",
+        "date": "2023-03-28",
+        "itemNumber": "4.1",
+        "itemTitle": "Council's Draft 2023-2027 Strategic Plan"
+      },
+      {
+        "id": "c1d069409d10",
+        "date": "2023-03-28",
+        "itemNumber": "4.1",
+        "itemTitle": "Council's Draft 2023-2027 Strategic Plan"
+      },
+      {
+        "id": "2d5719faac23",
+        "date": "2023-03-28",
+        "itemNumber": "5.1",
+        "itemTitle": "(ADDED) Request to Declare a State of Emergency regarding Housing"
+      },
+      {
+        "id": "17532664fd8d",
+        "date": "2023-03-20",
+        "itemNumber": "2.6",
+        "itemTitle": "864 Hellmuth Avenue - Heritage Alteration Permit Application (HAP22-081-L)"
+      },
+      {
+        "id": "e50d80567a17",
+        "date": "2023-03-08",
+        "itemNumber": "4.2",
+        "itemTitle": "(ADDED) Council's Draft 2023-2027 Strategic Plan"
+      },
+      {
+        "id": "9b0ced7ff8cd",
+        "date": "2023-03-08",
+        "itemNumber": "4.2",
+        "itemTitle": "(ADDED) Council's Draft 2023-2027 Strategic Plan"
+      },
+      {
+        "id": "c0ce799340ac",
+        "date": "2023-03-08",
+        "itemNumber": "4.2",
+        "itemTitle": "(ADDED) Council's Draft 2023-2027 Strategic Plan"
+      },
+      {
+        "id": "f8aa33605af1",
+        "date": "2023-03-08",
+        "itemNumber": "4.2",
+        "itemTitle": "(ADDED) Council's Draft 2023-2027 Strategic Plan"
+      },
+      {
+        "id": "092fca35d312",
+        "date": "2023-03-08",
+        "itemNumber": "4.2",
+        "itemTitle": "(ADDED) Council's Draft 2023-2027 Strategic Plan"
+      },
+      {
+        "id": "a3765ca3c05a",
+        "date": "2023-03-07",
+        "itemNumber": "8.1.5",
+        "itemTitle": "(2.4) Results of the 2022 Bike Share Request for Proposal Process and Next Steps "
+      },
+      {
+        "id": "be02e01cfa4a",
+        "date": "2023-02-28",
+        "itemNumber": "4.1",
+        "itemTitle": "Health and Homelessness Summits - Proposed Whole of Community System Response"
+      },
+      {
+        "id": "66ca1770eede",
+        "date": "2023-02-28",
+        "itemNumber": "4.2",
+        "itemTitle": "Developing Council's 2023-2027 Strategic Plan: Draft Strategies and Order of Magnitude Costing"
+      },
+      {
+        "id": "0c53add88983",
+        "date": "2023-02-28",
+        "itemNumber": "4.3",
+        "itemTitle": "Developing Council's 2023-2027 Strategic Plan: Draft Metrics"
+      },
+      {
+        "id": "9e1607333432",
+        "date": "2023-02-28",
+        "itemNumber": "4.3",
+        "itemTitle": "Developing Council's 2023-2027 Strategic Plan: Draft Metrics"
+      },
+      {
+        "id": "1df6fbb00d8f",
+        "date": "2023-02-28",
+        "itemNumber": "4.3",
+        "itemTitle": "Developing Council's 2023-2027 Strategic Plan: Draft Metrics"
+      },
+      {
+        "id": "99a7585bc349",
+        "date": "2023-02-28",
+        "itemNumber": "4.3",
+        "itemTitle": "Developing Council's 2023-2027 Strategic Plan: Draft Metrics"
+      },
+      {
+        "id": "a01600ddb427",
+        "date": "2023-02-28",
+        "itemNumber": "4.3",
+        "itemTitle": "Developing Council's 2023-2027 Strategic Plan: Draft Metrics"
+      },
+      {
+        "id": "8baa7b364d97",
+        "date": "2023-02-28",
+        "itemNumber": "4.3",
+        "itemTitle": "Developing Council's 2023-2027 Strategic Plan: Draft Metrics"
+      },
+      {
+        "id": "4d53764b60c7",
+        "date": "2023-02-22",
+        "itemNumber": "2.3",
+        "itemTitle": "Electric Kick-Scooter and Cargo Power-assisted Bicycle Pilot Project By-law and By-law Amendments"
+      },
+      {
+        "id": "950e2a392a63",
+        "date": "2023-02-14",
+        "itemNumber": "8.1.10",
+        "itemTitle": "(2.9) Housing Stability Services Purchase of Service Agreement Template (Relates to Bill No. 52)"
+      },
+      {
+        "id": "7346985bd070",
+        "date": "2023-02-14",
+        "itemNumber": "8.2.6",
+        "itemTitle": "(2.5) Contract Award: Tender No. RFT-2022-248 Rapid Transit Implementation - Wellington Street from Queens Avenue to the Thames River (South Branch) - Irregular Result"
+      },
+      {
+        "id": "bd958457f861",
+        "date": "2023-02-14",
+        "itemNumber": "8.5.4",
+        "itemTitle": "(4.2) Developing the 2023-2027 Strategic Plan: Continuing to Set Key Elements of the Strategic Plan"
+      },
+      {
+        "id": "d5d592483d76",
+        "date": "2023-02-14",
+        "itemNumber": "8.5.4",
+        "itemTitle": "(4.2) Developing the 2023-2027 Strategic Plan: Continuing to Set Key Elements of the Strategic Plan"
+      },
+      {
+        "id": "cacc4eabf8e7",
+        "date": "2023-02-14",
+        "itemNumber": "8.6.10",
+        "itemTitle": "(3.4) 489 Upper Queen Street (Z-9540) (Relates to Bill No. 66)"
+      },
+      {
+        "id": "a4044aae6238",
+        "date": "2023-02-14",
+        "itemNumber": "8.6.11",
+        "itemTitle": "(3.5) 608 Commissioners Road West (Z-9516) (Relates to Bill No. 67)"
+      },
+      {
+        "id": "c699eb9cc94f",
+        "date": "2023-02-14",
+        "itemNumber": "8.6.11",
+        "itemTitle": "(3.5) 608 Commissioners Road West (Z-9516) (Relates to Bill No. 67)"
+      },
+      {
+        "id": "f195645ca714",
+        "date": "2023-02-14",
+        "itemNumber": "8.7.5",
+        "itemTitle": "(2.4) Declare Surplus - City-Owned Property - Part of 641 Queens Avenue"
+      },
+      {
+        "id": "ad0f2860602f",
+        "date": "2023-02-14",
+        "itemNumber": "8.7.5",
+        "itemTitle": "(2.4) Declare Surplus - City-Owned Property - Part of 641 Queens Avenue"
+      },
+      {
+        "id": "1b0706b75a71",
+        "date": "2023-02-14",
+        "itemNumber": "9.1",
+        "itemTitle": "4th Report of Council in Closed Session"
+      },
+      {
+        "id": "3f89c4b8843b",
+        "date": "2023-02-07",
+        "itemNumber": "4.1",
+        "itemTitle": "London's Housing Pledge: A Path to 47,000 Units by 2031"
+      },
+      {
+        "id": "56e0acb80e48",
+        "date": "2023-02-07",
+        "itemNumber": "4.2",
+        "itemTitle": "Developing the 2023-2027 Strategic Plan: Continuing to Set Key Elements of the Strategic Plan"
+      },
+      {
+        "id": "e9bc755a8186",
+        "date": "2023-01-31",
+        "itemNumber": "2.5",
+        "itemTitle": "Contract Award: Tender No. RFT-2022-248 Rapid Transit Implementation – Wellington Street from Queens Avenue to the Thames River (South Branch) – Irregular Result"
+      },
+      {
+        "id": "498b4ae404bf",
+        "date": "2023-01-31",
+        "itemNumber": "4.1",
+        "itemTitle": "Exotic Animal Establishments"
+      },
+      {
+        "id": "776dfdcda79f",
+        "date": "2023-01-31",
+        "itemNumber": "4.1",
+        "itemTitle": "Exotic Animal Establishments"
+      },
+      {
+        "id": "fb7023a739e9",
+        "date": "2023-01-30",
+        "itemNumber": "2.4",
+        "itemTitle": "Declare Surplus - City-Owned Property - Part of 641 Queens Avenue"
+      },
+      {
+        "id": "2debd88e147d",
+        "date": "2023-01-30",
+        "itemNumber": "3.4",
+        "itemTitle": "489 Upper Queen Street (Z-9540)"
+      },
+      {
+        "id": "7c12069f2f9b",
+        "date": "2023-01-30",
+        "itemNumber": "3.5",
+        "itemTitle": "608 Commissioners Road West (Z-9516)"
+      },
+      {
+        "id": "b18982431ad1",
+        "date": "2023-01-26",
+        "itemNumber": "4.1",
+        "itemTitle": "Review of Recommended Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)"
+      },
+      {
+        "id": "950b21d6cef5",
+        "date": "2023-01-26",
+        "itemNumber": "4.3",
+        "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)"
+      },
+      {
+        "id": "75a10636d5f6",
+        "date": "2023-01-26",
+        "itemNumber": "4.3",
+        "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)"
+      },
+      {
+        "id": "070efd97b686",
+        "date": "2023-01-26",
+        "itemNumber": "4.3",
+        "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)"
+      },
+      {
+        "id": "192cc16c866a",
+        "date": "2023-01-26",
+        "itemNumber": "4.3",
+        "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)"
+      },
+      {
+        "id": "67e8f0bb6a90",
+        "date": "2023-01-26",
+        "itemNumber": "4.3",
+        "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)"
+      },
+      {
+        "id": "3e356dd3852a",
+        "date": "2023-01-26",
+        "itemNumber": "4.3",
+        "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)"
+      },
+      {
+        "id": "b7f876655a41",
+        "date": "2023-01-26",
+        "itemNumber": "4.3",
+        "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)"
+      },
+      {
+        "id": "fd27307f45a8",
+        "date": "2023-01-26",
+        "itemNumber": "4.3",
+        "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)"
+      },
+      {
+        "id": "000f08211725",
+        "date": "2023-01-26",
+        "itemNumber": "4.3",
+        "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)"
+      },
+      {
+        "id": "bb3d5775c299",
+        "date": "2023-01-23",
+        "itemNumber": "4.1",
+        "itemTitle": "Developing the 2023-2027 Strategic Plan: Setting the Strategic Areas of Focus, Outcomes and Expected Results"
+      },
+      {
+        "id": "d0cbb048480e",
+        "date": "2023-01-23",
+        "itemNumber": "4.1",
+        "itemTitle": "Developing the 2023-2027 Strategic Plan: Setting the Strategic Areas of Focus, Outcomes and Expected Results"
+      },
+      {
+        "id": "60d4ecbbfe78",
+        "date": "2023-01-09",
+        "itemNumber": "3.2",
+        "itemTitle": "634 Commissioners Road West"
       }
     ]
   }
