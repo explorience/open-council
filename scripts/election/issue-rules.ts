@@ -20,6 +20,17 @@
  *   happen to name an issue in passing (e.g. a Council Procedure By-law
  *   amendment that mentions "bike lanes" while reassigning committee
  *   mandates) — these are not substantive positions on the issue.
+ * - (2026-08-31) Bare "severance" was dropped from housing: it matched a
+ *   councillor "severance package" (council remuneration on leaving office)
+ *   on two Council Resourcing Review Task Force motions, publishing them as
+ *   Housing positions on all 15 profiles. Replaced with land-severance-
+ *   specific phrases ("severance of land", "land severance", "consent to
+ *   sever", "severance application"), and "severance package" was added to
+ *   GLOBAL_EXCLUDE as a second layer. Swept every other keyword the same
+ *   way (checked every keyword's actual hit set against the full motion
+ *   corpus for a same-shaped trap — a common English word/phrase with an
+ *   unrelated everyday meaning); none of the others showed the same
+ *   failure mode as of this pass.
  */
 
 export interface IssueRule {
@@ -63,6 +74,25 @@ export const GLOBAL_EXCLUDE: string[] = [
   // (separately dropped in generate-stances.ts via the "Majority Winner"
   // result string) and any regular confirming motion on the same item.
   "consideration of appointment to",
+  // "severance" (land-severance sense, see the housing keyword list below)
+  // is polysemous with "severance package" -- council's own compensation on
+  // leaving office. Spot-check (2026-08-31) found two Council Resourcing
+  // Review Task Force motions about a councillor severance package
+  // published as Housing positions on all 15 profiles purely because the
+  // word "severance" appeared. The housing keyword itself was narrowed to
+  // require land-severance context (see below), but this phrase is excluded
+  // globally too, belt-and-suspenders, in case "severance package" recurs
+  // under a different issue's keywords in future data.
+  "severance package",
+  // A recess motion ("That the Committee/Council recess at this time, for
+  // N minutes.") decides nothing substantive — it's a scheduling break.
+  // These are marked `procedural: false` in the source data (an upstream
+  // scraper mislabeling out of this hub's scope to fix), so without this
+  // exclusion two recess motions were classified as Housing positions
+  // purely because they're nested under a rezoning agenda item's
+  // structural code (see CODE_PATTERNS below) — spot-check (2026-08-31):
+  // bec87774f19c, 856be743679b.
+  "recess at this time",
 ];
 
 /** Item-number "codes" (address-only titles) that are strong structural
@@ -221,7 +251,10 @@ export const ISSUES: Record<IssueId, IssueRule> = {
       "secondary dwelling",
       "site plan approval",
       "plan of subdivision",
-      "severance",
+      "severance of land",
+      "land severance",
+      "consent to sever",
+      "severance application",
       "inclusionary zoning",
       "rental replacement",
       "housing accelerator",
