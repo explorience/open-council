@@ -557,3 +557,33 @@ export function deriveDirection(
   }
   return { axis: null, label: "unclear" };
 }
+
+/** Canonical expansive/restrictive label pair for a given (issue, axis)
+ * combination — the same fixed vocabulary the regex engine above uses,
+ * exposed so the LLM-verified classification pipeline (generate-stances.ts,
+ * post 2026-08-31 rebuild) can label its own axis aggregation consistently,
+ * without re-deriving the pair from the motion text every time. Looks up
+ * AXIS_PATTERNS first (content axes with their own specific wording), then
+ * the "relocation" cross-issue axis, then falls back to the generic
+ * approve/deny pair keyed by issue (GENERIC_NOUN) for the
+ * "application-approval" axis. Returns null only for an (issue, axis) pair
+ * that matches none of the above — callers should treat that as a data
+ * error worth surfacing, not silently swallow it. */
+export function axisLabelsFor(
+  issue: IssueId,
+  axis: string,
+): { expansive: string; restrictive: string } | null {
+  if (axis === "relocation") return RELOCATION_AXIS_LABELS;
+  const pattern = (AXIS_PATTERNS[issue] ?? []).find((ap) => ap.axis === axis);
+  if (pattern) {
+    return {
+      expansive: pattern.expansiveLabel,
+      restrictive: pattern.restrictiveLabel,
+    };
+  }
+  if (axis === "application-approval") {
+    const noun = GENERIC_NOUN[issue] ?? "the item";
+    return { expansive: `approved ${noun}`, restrictive: `denied ${noun}` };
+  }
+  return null;
+}

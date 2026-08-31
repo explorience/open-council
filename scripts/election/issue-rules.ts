@@ -73,6 +73,15 @@ export const GLOBAL_EXCLUDE: string[] = [
   // policing question. Excludes both the secret-ballot round itself
   // (separately dropped in generate-stances.ts via the "Majority Winner"
   // result string) and any regular confirming motion on the same item.
+  //
+  // Fixed 2026-08-31 (round-2 finding S4): the plain-string form only ever
+  // matched the singular "consideration of appointment to" — agenda items
+  // titled "Consideration of Appointments to the London Police Services
+  // Board" (plural, multiple seats on one board) or "Confirmation of
+  // Appointments to ..." slipped straight through and stayed classified.
+  // Kept here for the singular case (still the common shape); the plural
+  // and "confirmation of" variants are caught by GLOBAL_EXCLUDE_PATTERNS
+  // below, which classifyIssue also tests.
   "consideration of appointment to",
   // "severance" (land-severance sense, see the housing keyword list below)
   // is polysemous with "severance package" -- council's own compensation on
@@ -93,6 +102,14 @@ export const GLOBAL_EXCLUDE: string[] = [
   // structural code (see CODE_PATTERNS below) — spot-check (2026-08-31):
   // bec87774f19c, 856be743679b.
   "recess at this time",
+];
+
+/** Regex-form global exclusions — same purpose as GLOBAL_EXCLUDE above, for
+ * phrases that vary in a way a plain substring test can't cover (plurals,
+ * "consideration of" vs "confirmation of"). See the plural-appointments
+ * comment above. */
+export const GLOBAL_EXCLUDE_PATTERNS: RegExp[] = [
+  /\b(?:consideration|confirmation)\s+of\s+appointments?\s+to\b/i,
 ];
 
 /** Item-number "codes" (address-only titles) that are strong structural
@@ -320,6 +337,7 @@ export function classifyIssue(
   const combined = `${titleLower} ${bodyLower}`;
 
   if (GLOBAL_EXCLUDE.some((ex) => combined.includes(ex))) return null;
+  if (GLOBAL_EXCLUDE_PATTERNS.some((re) => re.test(combined))) return null;
 
   const scores: Partial<Record<IssueId, string[]>> = {};
 
