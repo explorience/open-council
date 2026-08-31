@@ -393,7 +393,7 @@ ${councillorRows}
 
 ---
 
-*Methodology: a "divided" vote is any non-unanimous, non-procedural council or committee motion since ${issues.cutoffDate}. Issue and direction ("what a yea did") are read from each motion's own complete text — not just the agenda item's title — and independently verified motion by motion, not assumed from topic. See the [issues page](/election/issues) for the exact counts and the unclassified/unclear disclosure.*
+Methodology: a "divided" vote is any non-unanimous, non-procedural council or committee motion since ${issues.cutoffDate}. Issue and direction ("what a yea did") are read from each motion's own complete text — not just the agenda item's title — and independently verified motion by motion, not assumed from topic. See the [issues page](/election/issues) for the exact counts and the unclassified/unclear disclosure.
 `;
 }
 
@@ -783,8 +783,6 @@ function generateIssuePage(
   issue: IssueEntry,
   methodology: string,
   cutoffDate: string,
-  rosterConflictCount: number,
-  resultMismatchCount: number,
 ): string {
   const sorted = [...issue.votes].sort((a, b) => b.date.localeCompare(a.date));
   const rows = sorted.map(renderIssueVoteRow).join("\n");
@@ -815,7 +813,7 @@ ${rows}
 
 ---
 
-*Methodology: ${tcell(methodology)} Site-wide, before any issue classification happens: ${rosterConflictCount.toLocaleString()} motion${rosterConflictCount === 1 ? "" : "s"} were dropped for a roster data conflict (the same person recorded in two vote-kind buckets on one motion) and ${resultMismatchCount.toLocaleString()} more for a result/vote-array disagreement (the motion's own minuted result doesn't match its recorded tally) — neither is guessed at or repaired, both are simply excluded from every count on this hub.*
+Methodology: ${tcell(methodology)}
 `;
 }
 
@@ -1282,13 +1280,7 @@ async function main() {
   for (const [slug, issue] of Object.entries(issues.issues)) {
     await writeFile(
       path.join(CONTENT_DIR, "issues", `${slug}.md`),
-      generateIssuePage(
-        issue,
-        issues.methodology,
-        issues.cutoffDate,
-        issues.rosterConflictCount,
-        issues.resultMismatchCount,
-      ),
+      generateIssuePage(issue, issues.methodology, issues.cutoffDate),
     );
   }
   console.log(
