@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T21:53:27.770Z",
+  "generatedAt": "2026-08-31T22:20:09.333Z",
   "sourceHash": "b7db59b827637e80",
   "sourceGeneratedAt": "2026-08-31T05:18:27.112Z",
   "cutoffDate": "2023-01-01",
@@ -7965,7 +7965,7 @@
           ],
           "direction": {
             "axis": null,
-            "label": "Gave final approval, as amended, to the Cycling Network maps as a whole — approving the network overall while excluding the five specific routes (Royal Crescent, Sovereign Road, Vancouver Street, Huron/Taylor/McNay/Gammage Streets, and the Windermere-Gainsborough connection) separately voted out."
+            "label": "Recommended approving, as amended, the Cycling Network maps as a whole — approving the network overall while excluding the five specific routes (Royal Crescent, Sovereign Road, Vancouver Street, Huron/Taylor/McNay/Gammage Streets, and the Windermere-Gainsborough connection) separately voted out."
           },
           "positions": {
             "j-morgan": "yea",
@@ -10991,7 +10991,7 @@
           "direction": {
             "axis": "road-capacity",
             "valence": 1,
-            "label": "Gave final approval, as amended, to the Roads Projects maps, including adding the Bradley Avenue (Wellington Road to Highbury Avenue) expansion to the next improvement cycle.",
+            "label": "Recommended approving, as amended, the Roads Projects maps, including adding the Bradley Avenue (Wellington Road to Highbury Avenue) expansion to the next improvement cycle.",
             "axisLabels": {
               "expansive": "expanded general-purpose road capacity",
               "restrictive": "reduced or declined general-purpose road capacity"
@@ -30030,7 +30030,7 @@
           "direction": {
             "axis": "density",
             "valence": 1,
-            "label": "Gave final approval, as amended, to the 613 Superior Drive rezoning from R1 to the higher-density R5 Special Provision zone together with its added site-plan and servicing conditions.",
+            "label": "Recommended approving, as amended, the 613 Superior Drive rezoning from R1 to the higher-density R5 Special Provision zone together with its added site-plan and servicing conditions.",
             "axisLabels": {
               "expansive": "increased permitted density or building height",
               "restrictive": "reduced permitted density or building height"

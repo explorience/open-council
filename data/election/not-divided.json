@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T21:53:27.218Z",
+  "generatedAt": "2026-08-31T22:20:08.736Z",
   "note": "Motions dropped from the divided-vote universe because they aren't a genuine division, for one of two independently-checked reasons (see each motion's own 'reason' below): 'one-sided tally' means this motion's own recorded yeas or nays array is empty — derived straight from the vote arrays every run, regardless of what any classification pass flagged, so a lopsided result the source data's own 'unanimous' boolean doesn't cover (e.g. 0 yeas / 14 nays with one absence) is still caught. 'classify-flagged' means the classify pipeline's own verification pass flagged the motion 'not_divided' by hand — typically the exact same motion recorded twice under two different agenda item numbers, which would otherwise double-count one real decision; see verifierNote in data/election/classify/batch-*-verified.json for the specific reason. Never guessed at or silently kept.",
   "count": 12,
   "motions": [
