@@ -50,17 +50,17 @@
     "yeaRate": 91.38102334823647,
     "contestedDissentRate": 23.649538866930172,
     "contestedVotes": 1518,
-    "substantiveVotes": 2586,
-    "substantiveYeas": 1965,
-    "substantiveNays": 293,
-    "substantiveParticipationRate": 87.31631863882444,
-    "substantiveYeaRate": 87.02391496899912
+    "substantiveVotes": 2312,
+    "substantiveYeas": 1712,
+    "substantiveNays": 277,
+    "substantiveParticipationRate": 86.02941176470588,
+    "substantiveYeaRate": 86.07340372046255
   },
   "budgetVoting": {
-    "totalBudgetVotes": 394,
-    "budgetYeas": 308,
-    "budgetNays": 71,
-    "budgetAbsent": 15
+    "totalBudgetVotes": 459,
+    "budgetYeas": 367,
+    "budgetNays": 76,
+    "budgetAbsent": 16
   },
   "topAlignments": [
     {

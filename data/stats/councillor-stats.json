@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T05:06:55.784Z",
+  "generatedAt": "2026-08-31T15:52:27.437Z",
   "councillorStats": {
     "j-morgan": {
       "councillor": "Josh Morgan",
@@ -101,17 +101,17 @@
         "yeaRate": 93.96172248803828,
         "contestedDissentRate": 5.826252817756199,
         "contestedVotes": 5767,
-        "substantiveVotes": 8590,
-        "substantiveYeas": 6951,
-        "substantiveNays": 588,
-        "substantiveParticipationRate": 87.76484284051223,
-        "substantiveYeaRate": 92.20055710306406
+        "substantiveVotes": 8194,
+        "substantiveYeas": 6693,
+        "substantiveNays": 573,
+        "substantiveParticipationRate": 88.67463998047351,
+        "substantiveYeaRate": 92.1139554087531
       },
       "budgetVoting": {
-        "totalBudgetVotes": 1507,
-        "budgetYeas": 1295,
-        "budgetNays": 200,
-        "budgetAbsent": 10
+        "totalBudgetVotes": 1639,
+        "budgetYeas": 1410,
+        "budgetNays": 206,
+        "budgetAbsent": 21
       },
       "topAlignments": [
         {
@@ -380,17 +380,17 @@
         "yeaRate": 91.90120620333143,
         "contestedDissentRate": 13.96457765667575,
         "contestedVotes": 1468,
-        "substantiveVotes": 2524,
-        "substantiveYeas": 1863,
-        "substantiveNays": 253,
-        "substantiveParticipationRate": 83.8351822503962,
-        "substantiveYeaRate": 88.04347826086956
+        "substantiveVotes": 2379,
+        "substantiveYeas": 1741,
+        "substantiveNays": 245,
+        "substantiveParticipationRate": 83.48045397225725,
+        "substantiveYeaRate": 87.66364551863042
       },
       "budgetVoting": {
-        "totalBudgetVotes": 398,
-        "budgetYeas": 309,
-        "budgetNays": 58,
-        "budgetAbsent": 31
+        "totalBudgetVotes": 465,
+        "budgetYeas": 365,
+        "budgetNays": 63,
+        "budgetAbsent": 37
       },
       "topAlignments": [
         {
@@ -676,17 +676,17 @@
         "yeaRate": 93.92812887236678,
         "contestedDissentRate": 11.600471883602046,
         "contestedVotes": 2543,
-        "substantiveVotes": 5509,
-        "substantiveYeas": 4439,
-        "substantiveNays": 498,
-        "substantiveParticipationRate": 89.6169903793792,
-        "substantiveYeaRate": 89.9129025724124
+        "substantiveVotes": 4851,
+        "substantiveYeas": 3821,
+        "substantiveNays": 474,
+        "substantiveParticipationRate": 88.53844568130282,
+        "substantiveYeaRate": 88.9639115250291
       },
       "budgetVoting": {
-        "totalBudgetVotes": 761,
-        "budgetYeas": 601,
-        "budgetNays": 128,
-        "budgetAbsent": 32
+        "totalBudgetVotes": 893,
+        "budgetYeas": 726,
+        "budgetNays": 134,
+        "budgetAbsent": 33
       },
       "topAlignments": [
         {
@@ -955,17 +955,17 @@
         "yeaRate": 91.27120727809196,
         "contestedDissentRate": 11.555842479018722,
         "contestedVotes": 1549,
-        "substantiveVotes": 2617,
-        "substantiveYeas": 2012,
-        "substantiveNays": 326,
-        "substantiveParticipationRate": 89.33893771494077,
-        "substantiveYeaRate": 86.05645851154833
+        "substantiveVotes": 2361,
+        "substantiveYeas": 1774,
+        "substantiveNays": 317,
+        "substantiveParticipationRate": 88.56416772554002,
+        "substantiveYeaRate": 84.83978957436634
       },
       "budgetVoting": {
-        "totalBudgetVotes": 391,
-        "budgetYeas": 284,
-        "budgetNays": 105,
-        "budgetAbsent": 2
+        "totalBudgetVotes": 460,
+        "budgetYeas": 340,
+        "budgetNays": 116,
+        "budgetAbsent": 4
       },
       "topAlignments": [
         {
@@ -1227,17 +1227,17 @@
         "yeaRate": 82.10645526613817,
         "contestedDissentRate": 38.257317903335604,
         "contestedVotes": 1469,
-        "substantiveVotes": 2464,
-        "substantiveYeas": 1669,
-        "substantiveNays": 394,
-        "substantiveParticipationRate": 83.72564935064936,
-        "substantiveYeaRate": 80.90159961221522
+        "substantiveVotes": 2274,
+        "substantiveYeas": 1526,
+        "substantiveNays": 371,
+        "substantiveParticipationRate": 83.42128408091469,
+        "substantiveYeaRate": 80.44280442804428
       },
       "budgetVoting": {
-        "totalBudgetVotes": 396,
-        "budgetYeas": 290,
-        "budgetNays": 90,
-        "budgetAbsent": 16
+        "totalBudgetVotes": 461,
+        "budgetYeas": 328,
+        "budgetNays": 114,
+        "budgetAbsent": 19
       },
       "topAlignments": [
         {
@@ -1499,16 +1499,16 @@
         "yeaRate": 90.93851132686083,
         "contestedDissentRate": 12.35813366960908,
         "contestedVotes": 1586,
-        "substantiveVotes": 2556,
-        "substantiveYeas": 1990,
-        "substantiveNays": 298,
-        "substantiveParticipationRate": 89.51486697965572,
-        "substantiveYeaRate": 86.97552447552448
+        "substantiveVotes": 2401,
+        "substantiveYeas": 1850,
+        "substantiveNays": 284,
+        "substantiveParticipationRate": 88.87963348604748,
+        "substantiveYeaRate": 86.69165885660732
       },
       "budgetVoting": {
-        "totalBudgetVotes": 403,
-        "budgetYeas": 309,
-        "budgetNays": 89,
+        "totalBudgetVotes": 473,
+        "budgetYeas": 363,
+        "budgetNays": 103,
         "budgetAbsent": 1
       },
       "topAlignments": [
@@ -1764,17 +1764,17 @@
         "yeaRate": 81.91068400226116,
         "contestedDissentRate": 45.60585885486019,
         "contestedVotes": 1502,
-        "substantiveVotes": 2517,
-        "substantiveYeas": 1793,
-        "substantiveNays": 423,
-        "substantiveParticipationRate": 88.04131903059196,
-        "substantiveYeaRate": 80.91155234657039
+        "substantiveVotes": 2363,
+        "substantiveYeas": 1679,
+        "substantiveNays": 395,
+        "substantiveParticipationRate": 87.76978417266187,
+        "substantiveYeaRate": 80.95467695274831
       },
       "budgetVoting": {
-        "totalBudgetVotes": 393,
-        "budgetYeas": 296,
-        "budgetNays": 88,
-        "budgetAbsent": 9
+        "totalBudgetVotes": 461,
+        "budgetYeas": 357,
+        "budgetNays": 94,
+        "budgetAbsent": 10
       },
       "topAlignments": [
         {
@@ -2029,17 +2029,17 @@
         "yeaRate": 90.06572295247724,
         "contestedDissentRate": 16.634676903390915,
         "contestedVotes": 1563,
-        "substantiveVotes": 2564,
-        "substantiveYeas": 1967,
-        "substantiveNays": 323,
-        "substantiveParticipationRate": 89.31357254290172,
-        "substantiveYeaRate": 85.89519650655022
+        "substantiveVotes": 2362,
+        "substantiveYeas": 1786,
+        "substantiveNays": 306,
+        "substantiveParticipationRate": 88.56900931414056,
+        "substantiveYeaRate": 85.37284894837475
       },
       "budgetVoting": {
-        "totalBudgetVotes": 405,
-        "budgetYeas": 313,
-        "budgetNays": 92,
-        "budgetAbsent": 0
+        "totalBudgetVotes": 471,
+        "budgetYeas": 371,
+        "budgetNays": 99,
+        "budgetAbsent": 1
       },
       "topAlignments": [
         {
@@ -2332,17 +2332,17 @@
         "yeaRate": 94.06303444905937,
         "contestedDissentRate": 12.24237427864798,
         "contestedVotes": 2426,
-        "substantiveVotes": 5160,
-        "substantiveYeas": 4105,
-        "substantiveNays": 437,
-        "substantiveParticipationRate": 88.0232558139535,
-        "substantiveYeaRate": 90.37868780273007
+        "substantiveVotes": 4536,
+        "substantiveYeas": 3531,
+        "substantiveNays": 414,
+        "substantiveParticipationRate": 86.97089947089947,
+        "substantiveYeaRate": 89.50570342205323
       },
       "budgetVoting": {
-        "totalBudgetVotes": 737,
-        "budgetYeas": 599,
-        "budgetNays": 115,
-        "budgetAbsent": 13
+        "totalBudgetVotes": 855,
+        "budgetYeas": 702,
+        "budgetNays": 124,
+        "budgetAbsent": 17
       },
       "topAlignments": [
         {
@@ -2638,17 +2638,17 @@
         "yeaRate": 92.04602721316984,
         "contestedDissentRate": 15.383259911894273,
         "contestedVotes": 5675,
-        "substantiveVotes": 8550,
-        "substantiveYeas": 7267,
-        "substantiveNays": 759,
-        "substantiveParticipationRate": 93.87134502923976,
-        "substantiveYeaRate": 90.54323448791428
+        "substantiveVotes": 7912,
+        "substantiveYeas": 6690,
+        "substantiveNays": 708,
+        "substantiveParticipationRate": 93.50353892821032,
+        "substantiveYeaRate": 90.42984590429846
       },
       "budgetVoting": {
-        "totalBudgetVotes": 1334,
-        "budgetYeas": 1135,
-        "budgetNays": 196,
-        "budgetAbsent": 3
+        "totalBudgetVotes": 1464,
+        "budgetYeas": 1257,
+        "budgetNays": 203,
+        "budgetAbsent": 4
       },
       "topAlignments": [
         {
@@ -2965,17 +2965,17 @@
         "yeaRate": 86.02689486552568,
         "contestedDissentRate": 25.03556187766714,
         "contestedVotes": 4218,
-        "substantiveVotes": 6513,
-        "substantiveYeas": 4820,
-        "substantiveNays": 928,
-        "substantiveParticipationRate": 88.25426070935053,
-        "substantiveYeaRate": 83.85525400139178
+        "substantiveVotes": 6276,
+        "substantiveYeas": 4635,
+        "substantiveNays": 896,
+        "substantiveParticipationRate": 88.1293817718292,
+        "substantiveYeaRate": 83.80039775809077
       },
       "budgetVoting": {
-        "totalBudgetVotes": 1409,
-        "budgetYeas": 992,
-        "budgetNays": 367,
-        "budgetAbsent": 30
+        "totalBudgetVotes": 1528,
+        "budgetYeas": 1081,
+        "budgetNays": 385,
+        "budgetAbsent": 39
       },
       "topAlignments": [
         {
@@ -3230,17 +3230,17 @@
         "yeaRate": 91.38102334823647,
         "contestedDissentRate": 23.649538866930172,
         "contestedVotes": 1518,
-        "substantiveVotes": 2586,
-        "substantiveYeas": 1965,
-        "substantiveNays": 293,
-        "substantiveParticipationRate": 87.31631863882444,
-        "substantiveYeaRate": 87.02391496899912
+        "substantiveVotes": 2312,
+        "substantiveYeas": 1712,
+        "substantiveNays": 277,
+        "substantiveParticipationRate": 86.02941176470588,
+        "substantiveYeaRate": 86.07340372046255
       },
       "budgetVoting": {
-        "totalBudgetVotes": 394,
-        "budgetYeas": 308,
-        "budgetNays": 71,
-        "budgetAbsent": 15
+        "totalBudgetVotes": 459,
+        "budgetYeas": 367,
+        "budgetNays": 76,
+        "budgetAbsent": 16
       },
       "topAlignments": [
         {
@@ -3519,17 +3519,17 @@
         "yeaRate": 90.94317854052495,
         "contestedDissentRate": 20.18348623853211,
         "contestedVotes": 2289,
-        "substantiveVotes": 4894,
-        "substantiveYeas": 3582,
-        "substantiveNays": 546,
-        "substantiveParticipationRate": 84.34818144666939,
-        "substantiveYeaRate": 86.77325581395348
+        "substantiveVotes": 4568,
+        "substantiveYeas": 3299,
+        "substantiveNays": 513,
+        "substantiveParticipationRate": 83.45008756567425,
+        "substantiveYeaRate": 86.54249737670514
       },
       "budgetVoting": {
-        "totalBudgetVotes": 758,
-        "budgetYeas": 586,
-        "budgetNays": 131,
-        "budgetAbsent": 39
+        "totalBudgetVotes": 879,
+        "budgetYeas": 695,
+        "budgetNays": 137,
+        "budgetAbsent": 45
       },
       "topAlignments": [
         {
@@ -3798,17 +3798,17 @@
         "yeaRate": 88.54710244438341,
         "contestedDissentRate": 27.099737532808398,
         "contestedVotes": 1524,
-        "substantiveVotes": 2589,
-        "substantiveYeas": 1939,
-        "substantiveNays": 335,
-        "substantiveParticipationRate": 87.83314020857475,
-        "substantiveYeaRate": 85.26824978012313
+        "substantiveVotes": 2433,
+        "substantiveYeas": 1805,
+        "substantiveNays": 316,
+        "substantiveParticipationRate": 87.17632552404439,
+        "substantiveYeaRate": 85.1013672795851
       },
       "budgetVoting": {
-        "totalBudgetVotes": 394,
-        "budgetYeas": 301,
-        "budgetNays": 85,
-        "budgetAbsent": 8
+        "totalBudgetVotes": 463,
+        "budgetYeas": 364,
+        "budgetNays": 88,
+        "budgetAbsent": 11
       },
       "topAlignments": [
         {
@@ -4087,17 +4087,17 @@
         "yeaRate": 93.19703491152559,
         "contestedDissentRate": 17.283431455004205,
         "contestedVotes": 2378,
-        "substantiveVotes": 5181,
-        "substantiveYeas": 4107,
-        "substantiveNays": 496,
-        "substantiveParticipationRate": 88.84385253812005,
-        "substantiveYeaRate": 89.224418857267
+        "substantiveVotes": 4533,
+        "substantiveYeas": 3520,
+        "substantiveNays": 465,
+        "substantiveParticipationRate": 87.91087579969115,
+        "substantiveYeaRate": 88.33124215809285
       },
       "budgetVoting": {
-        "totalBudgetVotes": 766,
-        "budgetYeas": 582,
-        "budgetNays": 129,
-        "budgetAbsent": 55
+        "totalBudgetVotes": 897,
+        "budgetYeas": 692,
+        "budgetNays": 140,
+        "budgetAbsent": 65
       },
       "topAlignments": [
         {
@@ -4352,17 +4352,17 @@
         "yeaRate": 95.64295807819124,
         "contestedDissentRate": 12.291666666666666,
         "contestedVotes": 960,
-        "substantiveVotes": 3107,
-        "substantiveYeas": 2219,
-        "substantiveNays": 162,
-        "substantiveParticipationRate": 76.63340843257161,
-        "substantiveYeaRate": 93.19613607727845
+        "substantiveVotes": 2692,
+        "substantiveYeas": 1968,
+        "substantiveNays": 152,
+        "substantiveParticipationRate": 78.7518573551263,
+        "substantiveYeaRate": 92.83018867924528
       },
       "budgetVoting": {
-        "totalBudgetVotes": 415,
-        "budgetYeas": 338,
-        "budgetNays": 35,
-        "budgetAbsent": 39
+        "totalBudgetVotes": 499,
+        "budgetYeas": 404,
+        "budgetNays": 36,
+        "budgetAbsent": 56
       },
       "topAlignments": [],
       "bottomAlignments": [],
@@ -4579,17 +4579,17 @@
         "yeaRate": 94.52094931145619,
         "contestedDissentRate": 9.01394422310757,
         "contestedVotes": 4016,
-        "substantiveVotes": 5669,
-        "substantiveYeas": 4970,
-        "substantiveNays": 339,
-        "substantiveParticipationRate": 93.6496736637855,
-        "substantiveYeaRate": 93.61461668864193
+        "substantiveVotes": 5538,
+        "substantiveYeas": 4857,
+        "substantiveNays": 329,
+        "substantiveParticipationRate": 93.64391477067532,
+        "substantiveYeaRate": 93.65599691477054
       },
       "budgetVoting": {
-        "totalBudgetVotes": 995,
-        "budgetYeas": 896,
-        "budgetNays": 93,
-        "budgetAbsent": 6
+        "totalBudgetVotes": 1063,
+        "budgetYeas": 958,
+        "budgetNays": 97,
+        "budgetAbsent": 8
       },
       "topAlignments": [],
       "bottomAlignments": [],
@@ -4806,17 +4806,17 @@
         "yeaRate": 93.83787536885957,
         "contestedDissentRate": 8.251121076233185,
         "contestedVotes": 3345,
-        "substantiveVotes": 4985,
-        "substantiveYeas": 4132,
-        "substantiveNays": 326,
-        "substantiveParticipationRate": 89.42828485456369,
-        "substantiveYeaRate": 92.68730372364288
+        "substantiveVotes": 4841,
+        "substantiveYeas": 4007,
+        "substantiveNays": 318,
+        "substantiveParticipationRate": 89.34104523858707,
+        "substantiveYeaRate": 92.64739884393065
       },
       "budgetVoting": {
-        "totalBudgetVotes": 942,
-        "budgetYeas": 831,
+        "totalBudgetVotes": 1009,
+        "budgetYeas": 887,
         "budgetNays": 98,
-        "budgetAbsent": 9
+        "budgetAbsent": 16
       },
       "topAlignments": [],
       "bottomAlignments": [],
@@ -5012,17 +5012,17 @@
         "yeaRate": 94.0637322817862,
         "contestedDissentRate": 9.187021509296391,
         "contestedVotes": 5486,
-        "substantiveVotes": 7584,
-        "substantiveYeas": 6720,
-        "substantiveNays": 492,
-        "substantiveParticipationRate": 95.09493670886076,
-        "substantiveYeaRate": 93.17803660565723
+        "substantiveVotes": 7263,
+        "substantiveYeas": 6431,
+        "substantiveNays": 476,
+        "substantiveParticipationRate": 95.09844416907613,
+        "substantiveYeaRate": 93.10844071232084
       },
       "budgetVoting": {
-        "totalBudgetVotes": 1044,
-        "budgetYeas": 909,
-        "budgetNays": 115,
-        "budgetAbsent": 1
+        "totalBudgetVotes": 1124,
+        "budgetYeas": 983,
+        "budgetNays": 119,
+        "budgetAbsent": 2
       },
       "topAlignments": [],
       "bottomAlignments": [],
@@ -5239,16 +5239,16 @@
         "yeaRate": 95.66874566874567,
         "contestedDissentRate": 5.4989816700611,
         "contestedVotes": 4910,
-        "substantiveVotes": 6927,
-        "substantiveYeas": 6234,
-        "substantiveNays": 324,
-        "substantiveParticipationRate": 94.67301862278042,
-        "substantiveYeaRate": 95.0594693504117
+        "substantiveVotes": 6599,
+        "substantiveYeas": 5934,
+        "substantiveNays": 312,
+        "substantiveParticipationRate": 94.65070465222003,
+        "substantiveYeaRate": 95.00480307396734
       },
       "budgetVoting": {
-        "totalBudgetVotes": 1026,
-        "budgetYeas": 945,
-        "budgetNays": 75,
+        "totalBudgetVotes": 1098,
+        "budgetYeas": 1015,
+        "budgetNays": 77,
         "budgetAbsent": 6
       },
       "topAlignments": [],
@@ -5460,17 +5460,17 @@
         "yeaRate": 92.8994918125353,
         "contestedDissentRate": 9.072489869428185,
         "contestedVotes": 4442,
-        "substantiveVotes": 5662,
-        "substantiveYeas": 5111,
-        "substantiveNays": 463,
-        "substantiveParticipationRate": 98.445778876722,
-        "substantiveYeaRate": 91.69357732328669
+        "substantiveVotes": 5440,
+        "substantiveYeas": 4912,
+        "substantiveNays": 454,
+        "substantiveParticipationRate": 98.63970588235294,
+        "substantiveYeaRate": 91.53932165486395
       },
       "budgetVoting": {
-        "totalBudgetVotes": 872,
-        "budgetYeas": 718,
-        "budgetNays": 146,
-        "budgetAbsent": 8
+        "totalBudgetVotes": 929,
+        "budgetYeas": 770,
+        "budgetNays": 150,
+        "budgetAbsent": 9
       },
       "topAlignments": [],
       "bottomAlignments": [],
@@ -5680,17 +5680,17 @@
         "yeaRate": 92.42927347589321,
         "contestedDissentRate": 12.254196642685852,
         "contestedVotes": 4170,
-        "substantiveVotes": 6090,
-        "substantiveYeas": 5110,
-        "substantiveNays": 476,
-        "substantiveParticipationRate": 91.72413793103448,
-        "substantiveYeaRate": 91.47869674185463
+        "substantiveVotes": 5722,
+        "substantiveYeas": 4816,
+        "substantiveNays": 443,
+        "substantiveParticipationRate": 91.90842362810207,
+        "substantiveYeaRate": 91.57634531279712
       },
       "budgetVoting": {
-        "totalBudgetVotes": 932,
-        "budgetYeas": 771,
-        "budgetNays": 117,
-        "budgetAbsent": 18
+        "totalBudgetVotes": 1000,
+        "budgetYeas": 829,
+        "budgetNays": 120,
+        "budgetAbsent": 23
       },
       "topAlignments": [],
       "bottomAlignments": [],
@@ -5863,17 +5863,17 @@
         "yeaRate": 94.1358024691358,
         "contestedDissentRate": 18.501529051987767,
         "contestedVotes": 654,
-        "substantiveVotes": 1761,
-        "substantiveYeas": 1370,
-        "substantiveNays": 132,
-        "substantiveParticipationRate": 85.29244747302668,
-        "substantiveYeaRate": 91.21171770972038
+        "substantiveVotes": 1635,
+        "substantiveYeas": 1274,
+        "substantiveNays": 124,
+        "substantiveParticipationRate": 85.5045871559633,
+        "substantiveYeaRate": 91.13018597997139
       },
       "budgetVoting": {
-        "totalBudgetVotes": 300,
-        "budgetYeas": 250,
-        "budgetNays": 31,
-        "budgetAbsent": 19
+        "totalBudgetVotes": 346,
+        "budgetYeas": 290,
+        "budgetNays": 32,
+        "budgetAbsent": 23
       },
       "topAlignments": [],
       "bottomAlignments": [],
@@ -6077,17 +6077,17 @@
         "yeaRate": 94.13664174031271,
         "contestedDissentRate": 4.985007496251874,
         "contestedVotes": 5336,
-        "substantiveVotes": 5689,
-        "substantiveYeas": 5234,
+        "substantiveVotes": 5615,
+        "substantiveYeas": 5184,
         "substantiveNays": 340,
-        "substantiveParticipationRate": 97.97855510634558,
-        "substantiveYeaRate": 93.90025116612846
+        "substantiveParticipationRate": 98.37934105075689,
+        "substantiveYeaRate": 93.84503982621288
       },
       "budgetVoting": {
-        "totalBudgetVotes": 1393,
-        "budgetYeas": 1210,
+        "totalBudgetVotes": 1404,
+        "budgetYeas": 1218,
         "budgetNays": 171,
-        "budgetAbsent": 12
+        "budgetAbsent": 15
       },
       "topAlignments": [],
       "bottomAlignments": [],
@@ -6292,17 +6292,17 @@
         "yeaRate": 93.21802457897132,
         "contestedDissentRate": 6.686117189399465,
         "contestedVotes": 4113,
-        "substantiveVotes": 4278,
-        "substantiveYeas": 3939,
-        "substantiveNays": 298,
-        "substantiveParticipationRate": 99.041608228144,
-        "substantiveYeaRate": 92.96672173707812
+        "substantiveVotes": 4251,
+        "substantiveYeas": 3916,
+        "substantiveNays": 295,
+        "substantiveParticipationRate": 99.05904493060457,
+        "substantiveYeaRate": 92.99453811446212
       },
       "budgetVoting": {
-        "totalBudgetVotes": 1001,
-        "budgetYeas": 832,
+        "totalBudgetVotes": 1007,
+        "budgetYeas": 837,
         "budgetNays": 168,
-        "budgetAbsent": 1
+        "budgetAbsent": 2
       },
       "topAlignments": [],
       "bottomAlignments": [],
@@ -6499,17 +6499,17 @@
         "yeaRate": 93.09552969993877,
         "contestedDissentRate": 5.648330058939096,
         "contestedVotes": 6108,
-        "substantiveVotes": 6336,
-        "substantiveYeas": 5867,
+        "substantiveVotes": 6309,
+        "substantiveYeas": 5840,
         "substantiveNays": 443,
-        "substantiveParticipationRate": 99.58964646464646,
-        "substantiveYeaRate": 92.97939778129953
+        "substantiveParticipationRate": 99.58789031542241,
+        "substantiveYeaRate": 92.94922807575998
       },
       "budgetVoting": {
-        "totalBudgetVotes": 1343,
-        "budgetYeas": 1125,
+        "totalBudgetVotes": 1353,
+        "budgetYeas": 1133,
         "budgetNays": 214,
-        "budgetAbsent": 4
+        "budgetAbsent": 5
       },
       "topAlignments": [],
       "bottomAlignments": [],
@@ -6702,17 +6702,17 @@
         "yeaRate": 96.04536202384413,
         "contestedDissentRate": 4.177545691906006,
         "contestedVotes": 3064,
-        "substantiveVotes": 3294,
-        "substantiveYeas": 3107,
+        "substantiveVotes": 3262,
+        "substantiveYeas": 3080,
         "substantiveNays": 131,
-        "substantiveParticipationRate": 98.29993928354584,
-        "substantiveYeaRate": 95.95429277331687
+        "substantiveParticipationRate": 98.43654199877376,
+        "substantiveYeaRate": 95.92027405792588
       },
       "budgetVoting": {
-        "totalBudgetVotes": 547,
-        "budgetYeas": 511,
+        "totalBudgetVotes": 554,
+        "budgetYeas": 516,
         "budgetNays": 31,
-        "budgetAbsent": 5
+        "budgetAbsent": 7
       },
       "topAlignments": [],
       "bottomAlignments": [],
@@ -6916,15 +6916,15 @@
         "yeaRate": 93.20296483204542,
         "contestedDissentRate": 6.9732441471571915,
         "contestedVotes": 5980,
-        "substantiveVotes": 6142,
-        "substantiveYeas": 5709,
-        "substantiveNays": 425,
-        "substantiveParticipationRate": 99.86974926733963,
-        "substantiveYeaRate": 93.07140528203456
+        "substantiveVotes": 6118,
+        "substantiveYeas": 5688,
+        "substantiveNays": 423,
+        "substantiveParticipationRate": 99.88558352402745,
+        "substantiveYeaRate": 93.0780559646539
       },
       "budgetVoting": {
-        "totalBudgetVotes": 1439,
-        "budgetYeas": 1247,
+        "totalBudgetVotes": 1446,
+        "budgetYeas": 1254,
         "budgetNays": 192,
         "budgetAbsent": 0
       },
@@ -7112,15 +7112,15 @@
         "yeaRate": 95.87578845220767,
         "contestedDissentRate": 3.5102499297950014,
         "contestedVotes": 3561,
-        "substantiveVotes": 3850,
-        "substantiveYeas": 3648,
-        "substantiveNays": 165,
-        "substantiveParticipationRate": 99.03896103896103,
-        "substantiveYeaRate": 95.6726986624705
+        "substantiveVotes": 3786,
+        "substantiveYeas": 3597,
+        "substantiveNays": 161,
+        "substantiveParticipationRate": 99.26043317485473,
+        "substantiveYeaRate": 95.71580627993613
       },
       "budgetVoting": {
-        "totalBudgetVotes": 609,
-        "budgetYeas": 566,
+        "totalBudgetVotes": 616,
+        "budgetYeas": 573,
         "budgetNays": 40,
         "budgetAbsent": 2
       },
@@ -7315,15 +7315,15 @@
         "yeaRate": 94.97739829231541,
         "contestedDissentRate": 3.9417828987265007,
         "contestedVotes": 1649,
-        "substantiveVotes": 1840,
-        "substantiveYeas": 1725,
-        "substantiveNays": 98,
-        "substantiveParticipationRate": 99.07608695652173,
-        "substantiveYeaRate": 94.62424574876577
+        "substantiveVotes": 1822,
+        "substantiveYeas": 1708,
+        "substantiveNays": 97,
+        "substantiveParticipationRate": 99.06695938529089,
+        "substantiveYeaRate": 94.62603878116343
       },
       "budgetVoting": {
-        "totalBudgetVotes": 536,
-        "budgetYeas": 494,
+        "totalBudgetVotes": 544,
+        "budgetYeas": 502,
         "budgetNays": 42,
         "budgetAbsent": 0
       },
@@ -7498,11 +7498,11 @@
         "yeaRate": 93.02325581395348,
         "contestedDissentRate": 7.392026578073089,
         "contestedVotes": 2408,
-        "substantiveVotes": 2405,
-        "substantiveYeas": 2238,
+        "substantiveVotes": 2404,
+        "substantiveYeas": 2237,
         "substantiveNays": 167,
         "substantiveParticipationRate": 100,
-        "substantiveYeaRate": 93.05613305613306
+        "substantiveYeaRate": 93.05324459234609
       },
       "budgetVoting": {
         "totalBudgetVotes": 729,
@@ -7695,11 +7695,11 @@
         "yeaRate": 90.18817204301075,
         "contestedDissentRate": 9.13978494623656,
         "contestedVotes": 2232,
-        "substantiveVotes": 2229,
-        "substantiveYeas": 2011,
+        "substantiveVotes": 2228,
+        "substantiveYeas": 2010,
         "substantiveNays": 218,
         "substantiveParticipationRate": 100,
-        "substantiveYeaRate": 90.21982951996411
+        "substantiveYeaRate": 90.21543985637342
       },
       "budgetVoting": {
         "totalBudgetVotes": 756,
@@ -7871,11 +7871,11 @@
         "yeaRate": 85.29411764705883,
         "contestedDissentRate": 13.596914175506269,
         "contestedVotes": 2074,
-        "substantiveVotes": 2071,
-        "substantiveYeas": 1767,
+        "substantiveVotes": 2070,
+        "substantiveYeas": 1766,
         "substantiveNays": 304,
         "substantiveParticipationRate": 100,
-        "substantiveYeaRate": 85.3211009174312
+        "substantiveYeaRate": 85.31400966183574
       },
       "budgetVoting": {
         "totalBudgetVotes": 685,
@@ -8047,11 +8047,11 @@
         "yeaRate": 92.12121212121212,
         "contestedDissentRate": 9.962121212121213,
         "contestedVotes": 2640,
-        "substantiveVotes": 2637,
-        "substantiveYeas": 2430,
+        "substantiveVotes": 2636,
+        "substantiveYeas": 2429,
         "substantiveNays": 207,
         "substantiveParticipationRate": 100,
-        "substantiveYeaRate": 92.15017064846417
+        "substantiveYeaRate": 92.14719271623673
       },
       "budgetVoting": {
         "totalBudgetVotes": 762,
@@ -8244,11 +8244,11 @@
         "yeaRate": 89.85645933014355,
         "contestedDissentRate": 10.909090909090908,
         "contestedVotes": 2090,
-        "substantiveVotes": 2088,
-        "substantiveYeas": 1877,
+        "substantiveVotes": 2087,
+        "substantiveYeas": 1876,
         "substantiveNays": 211,
         "substantiveParticipationRate": 100,
-        "substantiveYeaRate": 89.89463601532567
+        "substantiveYeaRate": 89.88979396262577
       },
       "budgetVoting": {
         "totalBudgetVotes": 742,
@@ -8441,11 +8441,11 @@
         "yeaRate": 89.65231788079471,
         "contestedDissentRate": 11.630794701986755,
         "contestedVotes": 2416,
-        "substantiveVotes": 2413,
-        "substantiveYeas": 2163,
+        "substantiveVotes": 2412,
+        "substantiveYeas": 2162,
         "substantiveNays": 250,
         "substantiveParticipationRate": 100,
-        "substantiveYeaRate": 89.63945296311645
+        "substantiveYeaRate": 89.63515754560531
       },
       "budgetVoting": {
         "totalBudgetVotes": 396,
@@ -8617,11 +8617,11 @@
         "yeaRate": 91.79779042517576,
         "contestedDissentRate": 8.87177770338132,
         "contestedVotes": 2987,
-        "substantiveVotes": 2984,
-        "substantiveYeas": 2740,
+        "substantiveVotes": 2983,
+        "substantiveYeas": 2739,
         "substantiveNays": 244,
         "substantiveParticipationRate": 100,
-        "substantiveYeaRate": 91.82305630026809
+        "substantiveYeaRate": 91.82031511900772
       },
       "budgetVoting": {
         "totalBudgetVotes": 704,
@@ -8800,11 +8800,11 @@
         "yeaRate": 91.41104294478528,
         "contestedDissentRate": 9.333917616126206,
         "contestedVotes": 2282,
-        "substantiveVotes": 2281,
-        "substantiveYeas": 2085,
+        "substantiveVotes": 2280,
+        "substantiveYeas": 2084,
         "substantiveNays": 196,
         "substantiveParticipationRate": 100,
-        "substantiveYeaRate": 91.40727750986409
+        "substantiveYeaRate": 91.40350877192982
       },
       "budgetVoting": {
         "totalBudgetVotes": 614,
@@ -9173,11 +9173,11 @@
         "yeaRate": 90.380859375,
         "contestedDissentRate": 9.765625,
         "contestedVotes": 2048,
-        "substantiveVotes": 2046,
-        "substantiveYeas": 1849,
+        "substantiveVotes": 2045,
+        "substantiveYeas": 1848,
         "substantiveNays": 197,
         "substantiveParticipationRate": 100,
-        "substantiveYeaRate": 90.37145650048876
+        "substantiveYeaRate": 90.36674816625917
       },
       "budgetVoting": {
         "totalBudgetVotes": 638,
@@ -9337,15 +9337,15 @@
         "yeaRate": 96.66666666666667,
         "contestedDissentRate": 9.411764705882353,
         "contestedVotes": 170,
-        "substantiveVotes": 709,
-        "substantiveYeas": 457,
-        "substantiveNays": 23,
-        "substantiveParticipationRate": 67.70098730606487,
-        "substantiveYeaRate": 95.20833333333333
+        "substantiveVotes": 664,
+        "substantiveYeas": 416,
+        "substantiveNays": 20,
+        "substantiveParticipationRate": 65.66265060240963,
+        "substantiveYeaRate": 95.41284403669725
       },
       "budgetVoting": {
-        "totalBudgetVotes": 84,
-        "budgetYeas": 76,
+        "totalBudgetVotes": 99,
+        "budgetYeas": 91,
         "budgetNays": 8,
         "budgetAbsent": 0
       },
@@ -9515,15 +9515,15 @@
         "yeaRate": 97.28506787330316,
         "contestedDissentRate": 4.301075268817205,
         "contestedVotes": 186,
-        "substantiveVotes": 730,
-        "substantiveYeas": 483,
-        "substantiveNays": 23,
-        "substantiveParticipationRate": 69.31506849315069,
-        "substantiveYeaRate": 95.45454545454545
+        "substantiveVotes": 688,
+        "substantiveYeas": 444,
+        "substantiveNays": 20,
+        "substantiveParticipationRate": 67.44186046511628,
+        "substantiveYeaRate": 95.6896551724138
       },
       "budgetVoting": {
-        "totalBudgetVotes": 86,
-        "budgetYeas": 83,
+        "totalBudgetVotes": 102,
+        "budgetYeas": 99,
         "budgetNays": 3,
         "budgetAbsent": 0
       },
