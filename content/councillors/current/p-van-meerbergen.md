@@ -5,18 +5,18 @@ slug: "p-van-meerbergen"
 meetingCount: 528
 yearsActive: "2010 - 2026"
 isCurrent: true
-totalVotes: 8878
-votesYea: 6911
-votesNay: 1031
-votesAbsent: 468
-votesRecused: 65
-votesAbstained: 22
-votesOther: 381
+totalVotes: 9319
+votesYea: 7037
+votesNay: 1143
+votesAbsent: 617
+votesRecused: 74
+votesAbstained: 23
+votesOther: 425
 attendanceRate: 95.3
-participationRate: 89.5
-yeaRate: 87.0
-contestedDissentRate: 22.7
-contestedVotes: 4056
+participationRate: 87.8
+yeaRate: 86.0
+contestedDissentRate: 25.0
+contestedVotes: 4218
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -34,13 +34,13 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 8,878 |
-| Voted Yea | 6,911 (77.8%) |
-| Voted Nay | 1,031 (11.6%) |
-| Absent | 468 (5.3%) |
-| Recused (conflict of interest) | 65 (0.7%) |
-| Abstained | 22 (0.2%) |
-| Other/Unrecorded | 381 (4.3%) |
+| Total Votes | 9,319 |
+| Voted Yea | 7,037 (75.5%) |
+| Voted Nay | 1,143 (12.3%) |
+| Absent | 617 (6.6%) |
+| Recused (conflict of interest) | 74 (0.8%) |
+| Abstained | 23 (0.2%) |
+| Other/Unrecorded | 425 (4.6%) |
 
 *Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
 
@@ -51,17 +51,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 6,194 |
-| Voted Yea | 4,737 (85.1%) |
-| Voted Nay | 830 (14.9%) |
+| Substantive Votes | 6,513 |
+| Voted Yea | 4,820 (83.9%) |
+| Voted Nay | 928 (16.1%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 22.7%
-- **Contested Votes**: 4,056
+- **Dissent Rate**: 25.0%
+- **Contested Votes**: 4,218
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -72,10 +72,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 1,362 |
-| Voted Yea | 972 (73.6%) |
-| Voted Nay | 349 (26.4%) |
-| Absent | 25 |
+| Budget Votes | 1,409 |
+| Voted Yea | 992 (73.0%) |
+| Voted Nay | 367 (27.0%) |
+| Absent | 30 |
 
 
 ## Attendance
@@ -95,14 +95,14 @@ prefillQuestions:
 ## Voting Alignment
 
 **Most aligned with:**
-- Steve Lehman (93.6%)
-- Steve Hillier (92.8%)
-- Shawn Lewis (92.7%)
+- Steve Lehman (92.3%)
+- Peter Cuddy (92.2%)
+- Steve Hillier (92.2%)
 
 **Least aligned with:**
-- Sam Trosow (78.4%)
-- David Ferreira (81.7%)
-- Skylar Franke (84.9%)
+- Sam Trosow (78.0%)
+- David Ferreira (82.9%)
+- Skylar Franke (84.8%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -111,12 +111,12 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 5,210 | 4,236 | 558 | 92.0% |
-| Strategic Priorities and Policy Committee | 2,704 | 1,858 | 349 | 81.6% |
-| Civic Works Committee | 451 | 409 | 31 | 97.6% |
+| Council | 5,379 | 4,266 | 627 | 91.0% |
+| Strategic Priorities and Policy Committee | 2,861 | 1,876 | 385 | 79.0% |
+| Civic Works Committee | 533 | 463 | 35 | 93.4% |
 | Budget Committee | 189 | 118 | 68 | 98.4% |
+| Corporate Services Committee | 187 | 168 | 9 | 94.7% |
 | Infrastructure and Corporate Services Committee | 170 | 146 | 19 | 97.1% |
-| Corporate Services Committee | 154 | 144 | 6 | 97.4% |
 
 
 ## Notable Dissenting Votes
@@ -210,11 +210,12 @@ Voted **Nay** - Motion Passed (13 to 1)
 
 ## Committees Served
 
-- [Corporate Services Committee](/committees/corporate-services)
+- [Infrastructure and Corporate Services Committee](/committees/infrastructure-corporate-services)
 - [City Council](/committees/city-council)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Planning and Environment Committee](/committees/planning-environment)
 - [Budget Committee](/committees/budget)
+- [Corporate Services Committee](/committees/corporate-services)
 - [Civic Works Committee](/committees/civic-works)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 

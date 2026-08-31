@@ -2,7 +2,7 @@
 title: "Corporate Services Committee"
 type: committee
 slug: "corporate-services"
-meetingCount: 293
+meetingCount: 263
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -11,17 +11,17 @@ prefillQuestions:
 
 ## Recent Meetings
 
-- [13th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-08/2026-08-12 13th Meeting of the Infrastructure and Corporate Services Committee>) - Wed Aug 12 2026
-- [12th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-07/2026-07-15 12th Meeting of the Infrastructure and Corporate Services Committee>) - Wed Jul 15 2026
-- [11th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-06/2026-06-15 11th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Jun 15 2026
-- [10th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-05/2026-05-27 10th Meeting of the Infrastructure and Corporate Services Committee>) - Wed May 27 2026
-- [9th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-05/2026-05-06 9th Meeting of the Infrastructure and Corporate Services Committee>) - Wed May 6 2026
-- [8th Special Meeting of the Infrastructure and Corporate Services Committee](</months/2026-04/2026-04-27 8th Special Meeting of the Infrastructure and Corporate Services Committee>) - Mon Apr 27 2026
-- [7th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-04/2026-04-20 7th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Apr 20 2026
-- [6th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-03/2026-03-23 6th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Mar 23 2026
-- [5th Special Meeting of the Infrastructure and Corporate Services Committee](</months/2026-03/2026-03-02 5th Special Meeting of the Infrastructure and Corporate Services Committee>) - Mon Mar 2 2026
-- [4th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-02/2026-02-23 4th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Feb 23 2026
+- [17th Meeting of the Corporate Services Committee](</months/2024-11/2024-11-18 17th Meeting of the Corporate Services Committee>) - Mon Nov 18 2024
+- [16th Meeting of the Corporate Services Committee](</months/2024-10/2024-10-28 16th Meeting of the Corporate Services Committee>) - Mon Oct 28 2024
+- [15th Meeting of the Corporate Services Committee](</months/2024-10/2024-10-07 15th Meeting of the Corporate Services Committee>) - Mon Oct 7 2024
+- [14th Meeting of the Corporate Services Committee](</months/2024-09/2024-09-16 14th Meeting of the Corporate Services Committee>) - Mon Sep 16 2024
+- [13th Meeting of the Corporate Services Committee](</months/2024-08/2024-08-14 13th Meeting of the Corporate Services Committee>) - Wed Aug 14 2024
+- [12th Meeting of the Corporate Services Committee](</months/2024-07/2024-07-17 12th Meeting of the Corporate Services Committee>) - Wed Jul 17 2024
+- [11th Meeting of the Corporate Services Committee](</months/2024-06/2024-06-17 11th Meeting of the Corporate Services Committee>) - Mon Jun 17 2024
+- [10th Meeting of the Corporate Services Committee](</months/2024-05/2024-05-27 10th Meeting of the Corporate Services Committee>) - Mon May 27 2024
+- [9th Meeting of the Corporate Services Committee](</months/2024-05/2024-05-06 9th Meeting of the Corporate Services Committee>) - Mon May 6 2024
+- [8th Special Meeting of the Corporate Services Committee](</months/2024-04/2024-04-22 8th Special Meeting of the Corporate Services Committee>) - Mon Apr 22 2024
 
 
-[View all 293 meetings →](#)
+[View all 263 meetings →](#)
 

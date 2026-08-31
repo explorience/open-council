@@ -104,7 +104,8 @@
                   "E. Peloza",
                   "P. Van Meerbergen",
                   "S. Lehman",
-                  "J. Fyfe-Millar,M. Hamou"
+                  "J. Fyfe-Millar",
+                  "M. Hamou"
                 ]
               },
               {
@@ -303,7 +304,8 @@
                       "E. Peloza",
                       "P. Van Meerbergen",
                       "S. Lehman",
-                      "J. Fyfe-Millar,M. Hamou"
+                      "J. Fyfe-Millar",
+                      "M. Hamou"
                     ]
                   },
                   {
@@ -397,7 +399,8 @@
                       "A. Hopkins",
                       "S. Turner",
                       "S. Hillier",
-                      "E. Peloza,M. Hamou"
+                      "E. Peloza",
+                      "M. Hamou"
                     ]
                   },
                   {
@@ -405,7 +408,8 @@
                     "voters": [
                       "S. Lewis",
                       "P. Van Meerbergen",
-                      "S. Lehman,J. Fyfe-Millar"
+                      "S. Lehman",
+                      "J. Fyfe-Millar"
                     ]
                   },
                   {
@@ -477,7 +481,8 @@
                       "E. Peloza",
                       "P. Van Meerbergen",
                       "S. Lehman",
-                      "J. Fyfe-Millar,M. Hamou"
+                      "J. Fyfe-Millar",
+                      "M. Hamou"
                     ]
                   },
                   {
@@ -549,7 +554,8 @@
                       "E. Peloza",
                       "P. Van Meerbergen",
                       "S. Lehman",
-                      "J. Fyfe-Millar,M. Hamou"
+                      "J. Fyfe-Millar",
+                      "M. Hamou"
                     ]
                   },
                   {
@@ -595,7 +601,8 @@
                     "vote": "Yeas:",
                     "voters": [
                       "M. van Holst",
-                      "S. Hillier,P. Van Meerbergen"
+                      "S. Hillier",
+                      "P. Van Meerbergen"
                     ]
                   },
                   {
@@ -610,7 +617,8 @@
                       "S. Lewis",
                       "E. Peloza",
                       "S. Lehman",
-                      "J. Fyfe-Millar,M. Hamou"
+                      "J. Fyfe-Millar",
+                      "M. Hamou"
                     ]
                   },
                   {
@@ -681,13 +689,15 @@
                       "S. Hillier",
                       "E. Peloza",
                       "P. Van Meerbergen",
-                      "S. Lehman,J. Fyfe-Millar"
+                      "S. Lehman",
+                      "J. Fyfe-Millar"
                     ]
                   },
                   {
                     "vote": "Absent:",
                     "voters": [
-                      "Mayor E. Holder,M. Hamou"
+                      "Mayor E. Holder",
+                      "M. Hamou"
                     ]
                   }
                 ],
@@ -736,7 +746,8 @@
                       "S. Lewis",
                       "E. Peloza",
                       "P. Van Meerbergen",
-                      "S. Lehman,J. Fyfe-Millar"
+                      "S. Lehman",
+                      "J. Fyfe-Millar"
                     ]
                   },
                   {
@@ -748,7 +759,8 @@
                   {
                     "vote": "Absent:",
                     "voters": [
-                      "Mayor E. Holder,M. Hamou"
+                      "Mayor E. Holder",
+                      "M. Hamou"
                     ]
                   }
                 ],
@@ -864,14 +876,16 @@
                       "S. Hillier",
                       "E. Peloza",
                       "P. Van Meerbergen",
-                      "S. Lehman,J. Fyfe-Millar"
+                      "S. Lehman",
+                      "J. Fyfe-Millar"
                     ]
                   },
                   {
                     "vote": "Absent:",
                     "voters": [
                       "M. Salih",
-                      "Mayor E. Holder,M. Hamou"
+                      "Mayor E. Holder",
+                      "M. Hamou"
                     ]
                   }
                 ],
@@ -918,7 +932,8 @@
                       "S. Lewis",
                       "S. Hillier",
                       "E. Peloza",
-                      "S. Lehman,J. Fyfe-Millar"
+                      "S. Lehman",
+                      "J. Fyfe-Millar"
                     ]
                   },
                   {
@@ -931,7 +946,8 @@
                     "vote": "Absent:",
                     "voters": [
                       "M. Salih",
-                      "Mayor E. Holder,M. Hamou"
+                      "Mayor E. Holder",
+                      "M. Hamou"
                     ]
                   }
                 ],

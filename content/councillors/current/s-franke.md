@@ -2,21 +2,21 @@
 title: "Skylar Franke"
 type: councillor
 slug: "s-franke"
-meetingCount: 209
+meetingCount: 225
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 4097
-votesYea: 3422
-votesNay: 336
+totalVotes: 4442
+votesYea: 3679
+votesNay: 347
 votesAbsent: 157
 votesRecused: 24
 votesAbstained: 0
-votesOther: 158
-attendanceRate: 95.7
-participationRate: 91.7
-yeaRate: 91.1
-contestedDissentRate: 22.8
-contestedVotes: 1473
+votesOther: 235
+attendanceRate: 96.0
+participationRate: 90.6
+yeaRate: 91.4
+contestedDissentRate: 23.6
+contestedVotes: 1518
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,13 +33,13 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 4,097 |
-| Voted Yea | 3,422 (83.5%) |
-| Voted Nay | 336 (8.2%) |
-| Absent | 157 (3.8%) |
-| Recused (conflict of interest) | 24 (0.6%) |
+| Total Votes | 4,442 |
+| Voted Yea | 3,679 (82.8%) |
+| Voted Nay | 347 (7.8%) |
+| Absent | 157 (3.5%) |
+| Recused (conflict of interest) | 24 (0.5%) |
 | Abstained | 0 (0.0%) |
-| Other/Unrecorded | 158 (3.9%) |
+| Other/Unrecorded | 235 (5.3%) |
 
 *Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
 
@@ -50,17 +50,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,359 |
-| Voted Yea | 1,823 (86.5%) |
-| Voted Nay | 285 (13.5%) |
+| Substantive Votes | 2,586 |
+| Voted Yea | 1,965 (87.0%) |
+| Voted Nay | 293 (13.0%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 22.8%
-- **Contested Votes**: 1,473
+- **Dissent Rate**: 23.6%
+- **Contested Votes**: 1,518
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -71,37 +71,37 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 386 |
-| Voted Yea | 300 (80.9%) |
-| Voted Nay | 71 (19.1%) |
+| Budget Votes | 394 |
+| Voted Yea | 308 (81.3%) |
+| Voted Nay | 71 (18.7%) |
 | Absent | 15 |
 
 
 ## Attendance
 
-- **Attendance Rate**: 95.7%
-- **Meetings Attended**: 202 of 211
+- **Attendance Rate**: 96.0%
+- **Meetings Attended**: 218 of 227
 - **Meetings Missed**: 9
 - **Trend**: Stable -
 
 **Attendance by Year:**
   - 2023: 98.4% (60/61 meetings)
-  - 2024: 97.0% (65/67 meetings)
-  - 2025: 91.8% (45/49 meetings)
+  - 2024: 97.4% (75/77 meetings)
+  - 2025: 92.7% (51/55 meetings)
   - 2026: 92.3% (24/26 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
-- Hadleigh McAlister (94.8%)
-- Anna Hopkins (94.6%)
-- David Ferreira (93.0%)
+- Hadleigh McAlister (94.9%)
+- Anna Hopkins (94.9%)
+- David Ferreira (93.6%)
 
 **Least aligned with:**
-- Susan Stevenson (80.6%)
-- Paul Van Meerbergen (84.9%)
-- Steve Hillier (89.2%)
+- Susan Stevenson (80.8%)
+- Paul Van Meerbergen (84.8%)
+- Steve Hillier (89.6%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -110,9 +110,9 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 2,108 | 1,821 | 183 | 95.1% |
-| Strategic Priorities and Policy Committee | 943 | 667 | 70 | 78.2% |
-| Planning and Environment Committee | 632 | 600 | 22 | 98.4% |
+| Council | 2,119 | 1,825 | 188 | 95.0% |
+| Strategic Priorities and Policy Committee | 1,091 | 736 | 75 | 74.3% |
+| Planning and Environment Committee | 818 | 784 | 23 | 98.7% |
 | Budget Committee | 189 | 142 | 47 | 100.0% |
 | Infrastructure and Corporate Services Committee | 170 | 141 | 14 | 91.2% |
 | Civic Works Committee | 55 | 51 | 0 | 92.7% |
@@ -206,14 +206,15 @@ Voted **Yea** - Motion Failed (5 to 8)
 ## Committees Served
 
 - [City Council](/committees/city-council)
-- [Corporate Services Committee](/committees/corporate-services)
+- [Infrastructure and Corporate Services Committee](/committees/infrastructure-corporate-services)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [Planning and Environment Committee](/committees/planning-environment)
 - [Budget Committee](/committees/budget)
 - [Civic Works Committee](/committees/civic-works)
+- [Corporate Services Committee](/committees/corporate-services)
 
-## Recent Meetings (209 total)
+## Recent Meetings (225 total)
 
 - [12th Meeting of Council](</months/2026-07/2026-07-21 12th Meeting of Council>) - Tue Jul 21 2026
 - [12th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-07/2026-07-15 12th Meeting of the Infrastructure and Corporate Services Committee>) - Wed Jul 15 2026

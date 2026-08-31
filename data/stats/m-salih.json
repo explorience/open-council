@@ -66,25 +66,25 @@
     "trendDirection": "declining"
   },
   "voting": {
-    "totalVotes": 5987,
-    "yeas": 5142,
-    "nays": 331,
-    "absent": 233,
-    "participationRate": 91.41473191915817,
-    "yeaRate": 93.95212863146355,
-    "contestedDissentRate": 7.671315949060037,
-    "contestedVotes": 3298,
-    "substantiveVotes": 4675,
-    "substantiveYeas": 3981,
-    "substantiveNays": 305,
-    "substantiveParticipationRate": 91.67914438502673,
-    "substantiveYeaRate": 92.88380774615025
+    "totalVotes": 6522,
+    "yeas": 5406,
+    "nays": 355,
+    "absent": 473,
+    "participationRate": 88.33180006133088,
+    "yeaRate": 93.83787536885957,
+    "contestedDissentRate": 8.251121076233185,
+    "contestedVotes": 3345,
+    "substantiveVotes": 4985,
+    "substantiveYeas": 4132,
+    "substantiveNays": 326,
+    "substantiveParticipationRate": 89.42828485456369,
+    "substantiveYeaRate": 92.68730372364288
   },
   "budgetVoting": {
-    "totalBudgetVotes": 918,
-    "budgetYeas": 822,
-    "budgetNays": 90,
-    "budgetAbsent": 2
+    "totalBudgetVotes": 942,
+    "budgetYeas": 831,
+    "budgetNays": 98,
+    "budgetAbsent": 9
   },
   "topAlignments": [],
   "bottomAlignments": [],
@@ -106,6 +106,15 @@
       "vote": "nay",
       "result": "Motion Passed (10 to 5)",
       "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=5b668cb2-9f07-452e-ae47-87a34f924a19&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2022-08-02",
+      "meetingTitle": "11th Meeting of City Council",
+      "itemTitle": "(3.10) 1067, 1069 and 1071 Wellington Road (OZ-9263 / Z-9264)",
+      "motionText": "That, the following actions be taken with respect to the application by Century Centre Developments Inc., relating to the properties located at 1067-1071 Wellington Road: a)  the application BE REFERR...",
+      "vote": "yea",
+      "result": "Motion Failed (2 to 12)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=4c720985-60de-4949-ae43-1307fd4ec0a3&Agenda=PostMinutes&lang=English"
     },
     {
       "date": "2022-06-21",
@@ -169,38 +178,29 @@
       "vote": "nay",
       "result": "Motion Passed (7 to 6)",
       "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8ce5f98b-7e95-45c9-9fec-a83ed4f1e785&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2022-05-03",
-      "meetingTitle": null,
-      "itemTitle": "By-laws",
-      "motionText": "That Third Reading and Enactment of Bill No.’s 184, 187 and 205, BE APPROVED.",
-      "vote": "nay",
-      "result": "Motion Passed (7 to 6)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8ce5f98b-7e95-45c9-9fec-a83ed4f1e785&Agenda=PostMinutes&lang=English"
     }
   ],
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 3061,
-      "yeas": 2696,
-      "nays": 160,
-      "participationRate": 93.30284220842861
+      "totalVotes": 3262,
+      "yeas": 2701,
+      "nays": 169,
+      "participationRate": 87.98283261802575
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 2151,
-      "yeas": 1724,
-      "nays": 147,
-      "participationRate": 86.98279869827988
+      "totalVotes": 2208,
+      "yeas": 1728,
+      "nays": 153,
+      "participationRate": 85.19021739130434
     },
     {
       "committee": "Community and Protective Services Committee",
-      "totalVotes": 775,
-      "yeas": 722,
-      "nays": 24,
-      "participationRate": 96.25806451612902
+      "totalVotes": 1052,
+      "yeas": 977,
+      "nays": 33,
+      "participationRate": 96.00760456273764
     }
   ]
 }

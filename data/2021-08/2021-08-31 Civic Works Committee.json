@@ -91,7 +91,8 @@
                   "J. Morgan",
                   "Acting Mayor",
                   "S. Turner",
-                  "E. Peloza,P. Van Meerbergen"
+                  "E. Peloza",
+                  "P. Van Meerbergen"
                 ]
               },
               {
@@ -1101,7 +1102,8 @@
                       "M. Cassidy",
                       "J. Morgan",
                       "Acting Mayor",
-                      "S. Turner,E. Peloza"
+                      "S. Turner",
+                      "E. Peloza"
                     ]
                   },
                   {
@@ -1198,7 +1200,8 @@
                       "J. Helmer",
                       "M. Cassidy",
                       "S. Turner",
-                      "E. Peloza,P. Van Meerbergen"
+                      "E. Peloza",
+                      "P. Van Meerbergen"
                     ]
                   },
                   {
@@ -1308,7 +1311,8 @@
                       "J. Morgan",
                       "Acting Mayor",
                       "S. Turner",
-                      "E. Peloza,P. Van Meerbergen"
+                      "E. Peloza",
+                      "P. Van Meerbergen"
                     ]
                   },
                   {
@@ -1400,13 +1404,15 @@
                       "M. Cassidy",
                       "J. Morgan",
                       "Acting Mayor",
-                      "S. Turner,E. Peloza"
+                      "S. Turner",
+                      "E. Peloza"
                     ]
                   },
                   {
                     "vote": "Absent:",
                     "voters": [
-                      "P. Van Meerbergen,E. Holder"
+                      "P. Van Meerbergen",
+                      "E. Holder"
                     ]
                   }
                 ],
@@ -1462,7 +1468,8 @@
                       "J. Morgan",
                       "Acting Mayor",
                       "S. Turner",
-                      "E. Peloza,P. Van Meerbergen"
+                      "E. Peloza",
+                      "P. Van Meerbergen"
                     ]
                   },
                   {
@@ -1537,13 +1544,15 @@
                       "M. Cassidy",
                       "J. Morgan",
                       "Acting Mayor",
-                      "S. Turner,E. Peloza"
+                      "S. Turner",
+                      "E. Peloza"
                     ]
                   },
                   {
                     "vote": "Absent:",
                     "voters": [
-                      "P. Van Meerbergen,E. Holder"
+                      "P. Van Meerbergen",
+                      "E. Holder"
                     ]
                   }
                 ],
@@ -1613,13 +1622,15 @@
                       "M. Cassidy",
                       "J. Morgan",
                       "Acting Mayor",
-                      "S. Turner,E. Peloza"
+                      "S. Turner",
+                      "E. Peloza"
                     ]
                   },
                   {
                     "vote": "Absent:",
                     "voters": [
-                      "P. Van Meerbergen,E. Holder"
+                      "P. Van Meerbergen",
+                      "E. Holder"
                     ]
                   }
                 ],

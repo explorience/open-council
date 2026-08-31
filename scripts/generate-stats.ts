@@ -16,6 +16,38 @@ import {
 import { getAllTopics } from "../lib/topics/index.js"
 import { isParticipatingVote, type VoteType } from "../lib/votes/vote-type.js"
 
+/**
+ * Serialize a stats payload with a `generatedAt` timestamp, reusing the
+ * PREVIOUS `generatedAt` (and so producing a byte-identical file) when
+ * nothing else about the payload changed since the last run.
+ *
+ * Without this, every one of the ~21 "shared" stats files that carry a
+ * generatedAt (councillor-stats.json, alignment-matrix.json, the per-
+ * committee and per-topic alignment matrices, ward-comparison.json) gets a
+ * fresh timestamp on every run - so now that the scraper is revived on its
+ * daily cron (see scrape-meetings.yml), a night where nothing in the
+ * underlying meeting data actually changed still produces a data/ diff and
+ * an auto-commit, purely from the timestamp. See the 30 Aug 2026 audit.
+ *
+ * `referencePath` is the file this compares against (typically the
+ * data/stats/ copy); callers that also write a second, identical copy to
+ * quartz/static/data/stats/ should write the SAME returned string to both,
+ * so the two copies never disagree about their own generatedAt.
+ */
+async function serializeStats(referencePath: string, rest: Record<string, unknown>): Promise<string> {
+  let generatedAt = new Date().toISOString()
+  try {
+    const existing = JSON.parse(await fs.readFile(referencePath, "utf-8"))
+    const { generatedAt: prevGeneratedAt, ...existingRest } = existing
+    if (typeof prevGeneratedAt === "string" && JSON.stringify(existingRest) === JSON.stringify(rest)) {
+      generatedAt = prevGeneratedAt
+    }
+  } catch {
+    // No existing file yet (first run) or invalid JSON - stamp fresh.
+  }
+  return JSON.stringify({ generatedAt, ...rest }, null, 2)
+}
+
 // Types
 interface Meeting {
   title: string
@@ -173,12 +205,6 @@ interface CouncillorStats {
   committeeActivity: CommitteeActivity[]
 }
 
-interface StatsOutput {
-  generatedAt: string
-  councillorStats: Record<string, CouncillorStats>
-  alignmentMatrix: Record<string, Record<string, number>>
-}
-
 // Get councillor's active date range based on terms
 function getActiveRange(
   canonicalName: string,
@@ -316,7 +342,13 @@ async function main() {
         const content = await fs.readFile(filePath, "utf-8")
         const meeting: Meeting = JSON.parse(content)
 
-        if (!meeting.present && !meeting.absent) continue
+        // present:[] / absent:[] on a not-yet-published placeholder meeting
+        // are truthy empty arrays, so the old `!meeting.present &&
+        // !meeting.absent` guard let placeholders through and inflated the
+        // totalMeetings counter below (console.log only - no written output
+        // is affected, since per-councillor attendance requires a name to
+        // literally appear in one of these arrays).
+        if (!meeting.present?.length && !meeting.absent?.length) continue
 
         // Parse meeting date
         const meetingDate = new Date(meeting.datetime.split(" ")[0])
@@ -952,19 +984,16 @@ async function main() {
   // ============================================
   console.log("\n📝 Writing stats files...")
 
-  // Write main stats file
-  const output: StatsOutput = {
-    generatedAt: new Date().toISOString(),
-    councillorStats,
-    alignmentMatrix,
-  }
+  // Write main stats file. generatedAt is reused (not restamped) when
+  // councillorStats/alignmentMatrix are unchanged from the last run - see
+  // serializeStats().
+  const mainStatsPath = path.join(outputDir, "councillor-stats.json")
+  const outputSerialized = await serializeStats(mainStatsPath, { councillorStats, alignmentMatrix })
+  await fs.writeFile(mainStatsPath, outputSerialized)
 
-  await fs.writeFile(
-    path.join(outputDir, "councillor-stats.json"),
-    JSON.stringify(output, null, 2)
-  )
-
-  // Write individual councillor stat files for easy access
+  // Write individual councillor stat files for easy access. These carry no
+  // generatedAt of their own (see CouncillorStats), so they're already
+  // fully content-deterministic - no timestamp to reuse or restamp.
   for (const [slug, stats] of Object.entries(councillorStats)) {
     await fs.writeFile(
       path.join(outputDir, `${slug}.json`),
@@ -973,20 +1002,16 @@ async function main() {
   }
 
   // Write alignment matrix as separate file for visualization
-  const alignmentMatrixData = JSON.stringify(
-    {
-      generatedAt: new Date().toISOString(),
-      matrix: alignmentMatrix,
-      councillors: allSlugs.map((s) => ({
-        slug: s,
-        name: councillorStats[s].councillor,
-      })),
-    },
-    null,
-    2
-  )
+  const alignmentMatrixPath = path.join(outputDir, "alignment-matrix.json")
+  const alignmentMatrixData = await serializeStats(alignmentMatrixPath, {
+    matrix: alignmentMatrix,
+    councillors: allSlugs.map((s) => ({
+      slug: s,
+      name: councillorStats[s].councillor,
+    })),
+  })
 
-  await fs.writeFile(path.join(outputDir, "alignment-matrix.json"), alignmentMatrixData)
+  await fs.writeFile(alignmentMatrixPath, alignmentMatrixData)
 
   // Set up static directory for Quartz build
   const staticDir = path.join(process.cwd(), "quartz", "static", "data", "stats")
@@ -998,16 +1023,16 @@ async function main() {
       .filter(s => Object.keys(data.matrix[s] || {}).length > 0)
       .map(s => ({ slug: s, name: councillorStats[s]?.councillor || s }))
 
-    const matrixData = JSON.stringify({
-      generatedAt: new Date().toISOString(),
+    const committeeMatrixPath = path.join(outputDir, `alignment-committee-${slug}.json`)
+    const matrixData = await serializeStats(committeeMatrixPath, {
       matrix: data.matrix,
       councillors,
       type: "committee",
       motionCount: data.count,
       committeeName: Object.entries(COMMITTEE_SLUGS).find(([, s]) => s === slug)?.[0] || slug,
-    }, null, 2)
+    })
 
-    await fs.writeFile(path.join(outputDir, `alignment-committee-${slug}.json`), matrixData)
+    await fs.writeFile(committeeMatrixPath, matrixData)
     await fs.writeFile(path.join(staticDir, `alignment-committee-${slug}.json`), matrixData)
     console.log(`   Written alignment-committee-${slug}.json (${councillors.length} councillors)`)
   }
@@ -1018,37 +1043,34 @@ async function main() {
       .filter(s => Object.keys(data.matrix[s] || {}).length > 0)
       .map(s => ({ slug: s, name: councillorStats[s]?.councillor || s }))
 
-    const matrixData = JSON.stringify({
-      generatedAt: new Date().toISOString(),
+    const topicMatrixPath = path.join(outputDir, `alignment-topic-${topicName}.json`)
+    const matrixData = await serializeStats(topicMatrixPath, {
       matrix: data.matrix,
       councillors,
       type: "topic",
       topicName,
       motionCount: data.count,
-    }, null, 2)
+    })
 
-    await fs.writeFile(path.join(outputDir, `alignment-topic-${topicName}.json`), matrixData)
+    await fs.writeFile(topicMatrixPath, matrixData)
     await fs.writeFile(path.join(staticDir, `alignment-topic-${topicName}.json`), matrixData)
     console.log(`   Written alignment-topic-${topicName}.json (${councillors.length} councillors, ${data.count} motions)`)
   }
 
   // Write ward comparison data
-  const wardData = JSON.stringify({
-    generatedAt: new Date().toISOString(),
+  const wardComparisonPath = path.join(outputDir, "ward-comparison.json")
+  const wardData = await serializeStats(wardComparisonPath, {
     wards: wardComparisons,
     totalWards: Object.keys(wardComparisons).length,
-  }, null, 2)
+  })
 
-  await fs.writeFile(path.join(outputDir, "ward-comparison.json"), wardData)
+  await fs.writeFile(wardComparisonPath, wardData)
   await fs.writeFile(path.join(staticDir, "ward-comparison.json"), wardData)
   console.log(`   Written ward-comparison.json (${Object.keys(wardComparisons).length} wards)`)
 
   // Also copy main files to static directory for Quartz build
   await fs.writeFile(path.join(staticDir, "alignment-matrix.json"), alignmentMatrixData)
-  await fs.writeFile(
-    path.join(staticDir, "councillor-stats.json"),
-    JSON.stringify(output, null, 2)
-  )
+  await fs.writeFile(path.join(staticDir, "councillor-stats.json"), outputSerialized)
 
   console.log("\n✅ Statistics generation complete!")
   console.log(`   Councillor stats: ${Object.keys(councillorStats).length}`)

@@ -93,7 +93,8 @@
                   "S. Lewis",
                   "S. Hillier",
                   "S. Lehman",
-                  "P. Squire,A. Hopkins"
+                  "P. Squire",
+                  "A. Hopkins"
                 ]
               },
               {
@@ -548,7 +549,8 @@
                       "S. Hillier",
                       "S. Lehman",
                       "E. Holder",
-                      "P. Squire,A. Hopkins"
+                      "P. Squire",
+                      "A. Hopkins"
                     ]
                   }
                 ],
@@ -660,7 +662,8 @@
                       "S. Lewis",
                       "S. Hillier",
                       "S. Lehman",
-                      "E. Holder,P. Squire"
+                      "E. Holder",
+                      "P. Squire"
                     ]
                   },
                   {
@@ -709,7 +712,8 @@
                       "S. Hillier",
                       "S. Lehman",
                       "E. Holder",
-                      "P. Squire,A. Hopkins"
+                      "P. Squire",
+                      "A. Hopkins"
                     ]
                   }
                 ],
@@ -747,7 +751,8 @@
                       "S. Hillier",
                       "S. Lehman",
                       "E. Holder",
-                      "P. Squire,A. Hopkins"
+                      "P. Squire",
+                      "A. Hopkins"
                     ]
                   }
                 ],
@@ -859,13 +864,15 @@
                     "voters": [
                       "S. Lewis",
                       "S. Hillier",
-                      "P. Squire,A. Hopkins"
+                      "P. Squire",
+                      "A. Hopkins"
                     ]
                   },
                   {
                     "vote": "Nays:",
                     "voters": [
-                      "S. Lehman,E. Holder"
+                      "S. Lehman",
+                      "E. Holder"
                     ]
                   }
                 ],
@@ -908,7 +915,8 @@
                       "S. Hillier",
                       "S. Lehman",
                       "E. Holder",
-                      "P. Squire,A. Hopkins"
+                      "P. Squire",
+                      "A. Hopkins"
                     ]
                   }
                 ],
@@ -946,7 +954,8 @@
                       "S. Hillier",
                       "S. Lehman",
                       "E. Holder",
-                      "P. Squire,A. Hopkins"
+                      "P. Squire",
+                      "A. Hopkins"
                     ]
                   }
                 ],
@@ -1004,7 +1013,8 @@
                   {
                     "vote": "Yeas:",
                     "voters": [
-                      "S. Lehman,E. Holder"
+                      "S. Lehman",
+                      "E. Holder"
                     ]
                   },
                   {
@@ -1012,7 +1022,8 @@
                     "voters": [
                       "S. Lewis",
                       "S. Hillier",
-                      "P. Squire,A. Hopkins"
+                      "P. Squire",
+                      "A. Hopkins"
                     ]
                   }
                 ],
@@ -1105,7 +1116,8 @@
                       "S. Lewis",
                       "S. Hillier",
                       "S. Lehman",
-                      "P. Squire,A. Hopkins"
+                      "P. Squire",
+                      "A. Hopkins"
                     ]
                   },
                   {
@@ -1154,7 +1166,8 @@
                       "S. Hillier",
                       "S. Lehman",
                       "E. Holder",
-                      "P. Squire,A. Hopkins"
+                      "P. Squire",
+                      "A. Hopkins"
                     ]
                   }
                 ],
@@ -1192,7 +1205,8 @@
                       "S. Hillier",
                       "S. Lehman",
                       "E. Holder",
-                      "P. Squire,A. Hopkins"
+                      "P. Squire",
+                      "A. Hopkins"
                     ]
                   }
                 ],
@@ -1269,7 +1283,8 @@
                       "S. Hillier",
                       "S. Lehman",
                       "E. Holder",
-                      "P. Squire,A. Hopkins"
+                      "P. Squire",
+                      "A. Hopkins"
                     ]
                   }
                 ],
@@ -1386,7 +1401,8 @@
                       "S. Hillier",
                       "S. Lehman",
                       "E. Holder",
-                      "P. Squire,A. Hopkins"
+                      "P. Squire",
+                      "A. Hopkins"
                     ]
                   }
                 ],

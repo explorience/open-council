@@ -81,13 +81,15 @@
                 "voters": [
                   "J. Helmer",
                   "M. Cassidy",
-                  "S. Hillier,M. Hamou"
+                  "S. Hillier",
+                  "M. Hamou"
                 ]
               },
               {
                 "vote": "Absent:",
                 "voters": [
-                  "M. Salih,E. Holder"
+                  "M. Salih",
+                  "E. Holder"
                 ]
               }
             ],
@@ -350,7 +352,8 @@
                     "vote": "Yeas:",
                     "voters": [
                       "J. Helmer",
-                      "M. Cassidy,M. Hamou"
+                      "M. Cassidy",
+                      "M. Hamou"
                     ]
                   },
                   {
@@ -362,7 +365,8 @@
                   {
                     "vote": "Absent:",
                     "voters": [
-                      "M. Salih,E. Holder"
+                      "M. Salih",
+                      "E. Holder"
                     ]
                   }
                 ],
@@ -398,13 +402,15 @@
                     "voters": [
                       "J. Helmer",
                       "M. Cassidy",
-                      "S. Hillier,M. Hamou"
+                      "S. Hillier",
+                      "M. Hamou"
                     ]
                   },
                   {
                     "vote": "Absent:",
                     "voters": [
-                      "M. Salih,E. Holder"
+                      "M. Salih",
+                      "E. Holder"
                     ]
                   }
                 ],

@@ -5,18 +5,18 @@ slug: "e-peloza"
 meetingCount: 486
 yearsActive: "2018 - 2026"
 isCurrent: true
-totalVotes: 7514
-votesYea: 6065
-votesNay: 528
-votesAbsent: 438
-votesRecused: 15
+totalVotes: 7926
+votesYea: 6306
+votesNay: 628
+votesAbsent: 458
+votesRecused: 16
 votesAbstained: 7
-votesOther: 461
+votesOther: 511
 attendanceRate: 98.0
-participationRate: 87.7
-yeaRate: 92.0
-contestedDissentRate: 17.2
-contestedVotes: 2100
+participationRate: 87.5
+yeaRate: 90.9
+contestedDissentRate: 20.2
+contestedVotes: 2289
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,13 +33,13 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 7,514 |
-| Voted Yea | 6,065 (80.7%) |
-| Voted Nay | 528 (7.0%) |
-| Absent | 438 (5.8%) |
-| Recused (conflict of interest) | 15 (0.2%) |
+| Total Votes | 7,926 |
+| Voted Yea | 6,306 (79.6%) |
+| Voted Nay | 628 (7.9%) |
+| Absent | 458 (5.8%) |
+| Recused (conflict of interest) | 16 (0.2%) |
 | Abstained | 7 (0.1%) |
-| Other/Unrecorded | 461 (6.1%) |
+| Other/Unrecorded | 511 (6.4%) |
 
 *Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
 
@@ -50,17 +50,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 4,583 |
-| Voted Yea | 3,418 (88.0%) |
-| Voted Nay | 466 (12.0%) |
+| Substantive Votes | 4,894 |
+| Voted Yea | 3,582 (86.8%) |
+| Voted Nay | 546 (13.2%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 17.2%
-- **Contested Votes**: 2,100
+- **Dissent Rate**: 20.2%
+- **Contested Votes**: 2,289
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -71,10 +71,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 721 |
-| Voted Yea | 573 (83.0%) |
-| Voted Nay | 117 (17.0%) |
-| Absent | 30 |
+| Budget Votes | 758 |
+| Voted Yea | 586 (81.7%) |
+| Voted Nay | 131 (18.3%) |
+| Absent | 39 |
 
 
 ## Attendance
@@ -94,14 +94,14 @@ prefillQuestions:
 ## Voting Alignment
 
 **Most aligned with:**
-- Josh Morgan (95.1%)
-- Shawn Lewis (95.0%)
-- Steve Lehman (94.6%)
+- Josh Morgan (94.1%)
+- Shawn Lewis (93.9%)
+- Steve Lehman (93.3%)
 
 **Least aligned with:**
-- Susan Stevenson (83.5%)
-- Sam Trosow (86.3%)
-- David Ferreira (89.1%)
+- Susan Stevenson (83.2%)
+- Sam Trosow (85.6%)
+- Paul Van Meerbergen (88.2%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -110,13 +110,13 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 4,120 | 3,539 | 272 | 92.5% |
-| Strategic Priorities and Policy Committee | 2,093 | 1,400 | 134 | 73.3% |
+| Council | 4,240 | 3,595 | 334 | 92.7% |
+| Strategic Priorities and Policy Committee | 2,195 | 1,424 | 158 | 72.1% |
 | Planning and Environment Committee | 385 | 364 | 19 | 99.5% |
-| Community and Protective Services Committee | 320 | 270 | 22 | 91.3% |
-| Civic Works Committee | 284 | 274 | 8 | 99.3% |
+| Civic Works Committee | 378 | 355 | 13 | 97.4% |
+| Community and Protective Services Committee | 374 | 316 | 30 | 92.5% |
 | Budget Committee | 189 | 122 | 67 | 100.0% |
-| Corporate Services Committee | 74 | 53 | 1 | 73.0% |
+| Corporate Services Committee | 116 | 87 | 2 | 76.7% |
 | Infrastructure and Corporate Services Committee | 49 | 43 | 5 | 98.0% |
 
 
@@ -207,7 +207,7 @@ Voted **Nay** - Motion Passed (4 to 1)
 
 ## Committees Served
 
-- [Corporate Services Committee](/committees/corporate-services)
+- [Infrastructure and Corporate Services Committee](/committees/infrastructure-corporate-services)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [City Council](/committees/city-council)
 - [Audit Committee](/committees/audit)
@@ -215,6 +215,7 @@ Voted **Nay** - Motion Passed (4 to 1)
 - [Planning and Environment Committee](/committees/planning-environment)
 - [Budget Committee](/committees/budget)
 - [Civic Works Committee](/committees/civic-works)
+- [Corporate Services Committee](/committees/corporate-services)
 - [Community Protective Services Committee](/committees/community-protective-services-committee)
 
 ## Recent Meetings (486 total)

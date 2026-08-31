@@ -5,18 +5,18 @@ slug: "e-holder"
 meetingCount: 313
 yearsActive: "2018 - 2022"
 isCurrent: false
-totalVotes: 4268
-votesYea: 3222
-votesNay: 126
-votesAbsent: 857
+totalVotes: 5594
+votesYea: 4061
+votesNay: 185
+votesAbsent: 1262
 votesRecused: 36
 votesAbstained: 0
-votesOther: 27
+votesOther: 50
 attendanceRate: 78.6
-participationRate: 78.4
-yeaRate: 96.2
-contestedDissentRate: 8.2
-contestedVotes: 777
+participationRate: 75.9
+yeaRate: 95.6
+contestedDissentRate: 12.3
+contestedVotes: 960
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,13 +33,13 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 4,268 |
-| Voted Yea | 3,222 (75.5%) |
-| Voted Nay | 126 (3.0%) |
-| Absent | 857 (20.1%) |
-| Recused (conflict of interest) | 36 (0.8%) |
+| Total Votes | 5,594 |
+| Voted Yea | 4,061 (72.6%) |
+| Voted Nay | 185 (3.3%) |
+| Absent | 1,262 (22.6%) |
+| Recused (conflict of interest) | 36 (0.6%) |
 | Abstained | 0 (0.0%) |
-| Other/Unrecorded | 27 (0.6%) |
+| Other/Unrecorded | 50 (0.9%) |
 
 *Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
 
@@ -50,17 +50,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,357 |
-| Voted Yea | 1,750 (94.1%) |
-| Voted Nay | 109 (5.9%) |
+| Substantive Votes | 3,107 |
+| Voted Yea | 2,219 (93.2%) |
+| Voted Nay | 162 (6.8%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 8.2%
-- **Contested Votes**: 777
+- **Dissent Rate**: 12.3%
+- **Contested Votes**: 960
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -71,10 +71,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 372 |
-| Voted Yea | 317 (92.7%) |
-| Voted Nay | 25 (7.3%) |
-| Absent | 27 |
+| Budget Votes | 415 |
+| Voted Yea | 338 (90.6%) |
+| Voted Nay | 35 (9.4%) |
+| Absent | 39 |
 
 
 ## Attendance
@@ -95,12 +95,12 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 1,897 | 1,766 | 69 | 96.7% |
-| Planning and Environment Committee | 885 | 444 | 9 | 51.2% |
-| Strategic Priorities and Policy Committee | 727 | 625 | 39 | 91.3% |
-| Corporate Services Committee | 290 | 194 | 4 | 68.3% |
-| Community and Protective Services Committee | 275 | 145 | 3 | 53.8% |
-| Civic Works Committee | 194 | 48 | 2 | 25.8% |
+| Council | 2,123 | 1,925 | 90 | 94.9% |
+| Planning and Environment Committee | 1,366 | 709 | 21 | 53.4% |
+| Strategic Priorities and Policy Committee | 903 | 722 | 49 | 85.4% |
+| Community and Protective Services Committee | 432 | 276 | 5 | 65.0% |
+| Corporate Services Committee | 394 | 246 | 13 | 65.7% |
+| Civic Works Committee | 376 | 183 | 7 | 50.5% |
 
 
 ## Notable Dissenting Votes
@@ -115,6 +115,54 @@ prefillQuestions:
 
 Voted **Nay** - Motion Passed (8 to 6)
 
+### 2022-08-02: (4.5) Councillor M. van Holst - Neighbourhood Decision Making Business Case
+
+[11th Meeting of City Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=4c720985-60de-4949-ae43-1307fd4ec0a3&Agenda=PostMinutes&lang=English)
+
+> That clause 4.5 as amended, BE APPROVED
+
+Voted **Nay** - Motion Passed (11 to 3)
+
+### 2022-07-05: (3.6) 689 Oxford Street West (Z-9199 & O-9206)
+
+[10th Meeting of City Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=ca5548d3-dd7c-4875-a376-1a9725e339ed&Agenda=PostMinutes&lang=English)
+
+> That, the application by 2399731 Ontario Ltd, c/o Westdell Development Corporation BE REFERRED back to the Civic Administration to work with the developer to improve the proposed transition from high ...
+
+Voted **Yea** - Motion Failed (4 to 9)
+
+### 2022-07-05: (3.6) 689 Oxford Street West (Z-9199 & O-9206)
+
+[10th Meeting of City Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=ca5548d3-dd7c-4875-a376-1a9725e339ed&Agenda=PostMinutes&lang=English)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 2399731 Ontario Ltd. c/o Westdell Development Corporation relat...
+
+Voted **Nay** - Motion Passed (11 to 2)
+
+### 2022-07-05: By-laws
+
+[10th Meeting of City Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=ca5548d3-dd7c-4875-a376-1a9725e339ed&Agenda=PostMinutes&lang=English)
+
+> That Introduction and First Reading of Added Bill No. 310, BE APPROVED.
+
+Voted **Nay** - Motion Passed (11 to 2)
+
+### 2022-07-05: By-laws
+
+[10th Meeting of City Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=ca5548d3-dd7c-4875-a376-1a9725e339ed&Agenda=PostMinutes&lang=English)
+
+> That Second Reading of Added Bill No. 310, BE APPROVED.
+
+Voted **Nay** - Motion Passed (11 to 2)
+
+### 2022-07-05: By-laws
+
+[10th Meeting of City Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=ca5548d3-dd7c-4875-a376-1a9725e339ed&Agenda=PostMinutes&lang=English)
+
+> That Third Reading and Enactment of Added Bill No. 310, BE APPROVED.
+
+Voted **Nay** - Motion Passed (11 to 2)
+
 ### 2022-03-01: Pet Limits for Approved Foster Organizations
 
 [null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=40253e54-5ef3-4ee4-836c-0074e8f8a36d&Agenda=PostMinutes&lang=English)
@@ -123,69 +171,21 @@ Voted **Nay** - Motion Passed (8 to 6)
 
 Voted **Nay** - Motion Passed (4 to 1)
 
-### 2021-10-26: (5.1) Council Vacancy - Ward 6
+### 2022-03-01: Pet Limits for Approved Foster Organizations
 
-[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=42d73788-efc4-4391-a755-464f57589eee&Agenda=PostMinutes&lang=English)
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=40253e54-5ef3-4ee4-836c-0074e8f8a36d&Agenda=PostMinutes&lang=English)
 
-> That part b) BE AMENDED to read as follows: b)    the vacancy of the Office of Ward 6 BE FILLED through an application process in keeping with the proposed application process as outlined in Appendix ...
+> Motion to restrict the number of and types of rescue animals in foster homes to be the number of animals allowed in private homes.
 
-Voted **Nay** - Motion Passed (12 to 1)
+Voted **Yea** - Motion Failed (2 to 3)
 
-### 2021-06-15: (2.3) Review of Ward Boundaries Update
+### 2022-02-15: (2.2) Considerations and Viability to Implement a Vacant Home Tax in London
 
-[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=82b5607e-07ec-4215-a9bd-00d9f7946371&Agenda=PostMinutes&lang=English)
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=e237088e-eef7-42cd-9e87-2808fea4225b&Agenda=PostMinutes&lang=English)
 
-> That Item 7 (2.3) BE AMENDED to include the following additional wording, "and the Civic Administration BE DIRECTED to not proceed with changes to the existing Ward Boundaries at this time."
+> That part b) BE AMENDED to read as follows: "b) That Civic Administration BE DIRECTED to begin a Request for Proposal (RFP) for consultant services to study and validate the number of vacant residenti...
 
-Voted **Yea** - Motion Failed (7 to 7)
-
-### 2021-05-10: 3557 Colonel Talbot Road (SPA20-063)
-
-[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=459059e6-b600-482c-9c29-23c07736a1a2&Agenda=PostMinutes&lang=English)
-
-> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application of 2749282 Ontario Inc., relating to the property located at 3557 Colo...
-
-Voted **Nay** - Motion Passed (5 to 1)
-
-### 2021-03-23: (3.1) New Sidewalks in 2021 Infrastructure Reconstruction Projects
-
-[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=d2c5fe50-4fa2-46b2-b09a-9b650a12495d&Agenda=PostMinutes&lang=English)
-
-> The motion to approve part a), is put. That the following actions be taken with respect to new sidewalks in 2021 infrastructure reconstruction projects: a)     the Civic Administration BE DIRECTED to ...
-
-Voted **Nay** - Motion Passed (9 to 6)
-
-### 2021-02-23: (2.8) London Community Recovery Network - Ideas for Action by Municipal Council
-
-[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b9a39e01-644e-4738-bc5d-f0d00b0a7d06&Agenda=PostMinutes&lang=English)
-
-> That the budget amount for Action Item 1.3 - A Break in the Clouds, BE AMENDED by increasing the amount to $120,000.00.
-
-Voted **Yea** - Motion Failed (6 to 9)
-
-### 2021-02-23: (2.2) London Community Recovery Network - Ideas for Action by Municipal Council
-
-[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b9a39e01-644e-4738-bc5d-f0d00b0a7d06&Agenda=PostMinutes&lang=English)
-
-> That part a) i) Idea for Action 2.4  - Create a regional holiday destination in downtown, BE APPROVED. At 5:56 PM, Mayor E. Holder places Deputy Mayor J. Morgan in the Chair and takes a seat at the Co...
-
-Voted **Yea** - Motion Failed (6 to 8)
-
-### 2021-02-23: (2.2) London Community Recovery Network - Ideas for Action by Municipal Council
-
-[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b9a39e01-644e-4738-bc5d-f0d00b0a7d06&Agenda=PostMinutes&lang=English)
-
-> That part a) i) Idea for Action 5.6 - Mural façade grant, BE APPROVED. At 6:43 PM, Councillor S. Hillier leaves the meeting.
-
-Voted **Nay** - Motion Passed (7 to 6)
-
-### 2020-11-24: Emergent Motions
-
-[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=e3716145-1b8c-4264-aa67-787527e311c6&Agenda=PostMinutes&lang=English)
-
-> That the following part c) BE APPROVED: c)      the Province of Ontario BE REQUESTED to provide a longer transition period, up to December 2022, for non-mandatory programs to enable coordination of co...
-
-Voted **Nay** - Motion Passed (10 to 5)
+Voted **Nay** - Motion Passed (13 to 2)
 
 
 ## Committees Served

@@ -84,7 +84,8 @@
                   "M. Salih",
                   "J. Helmer",
                   "S. Lewis",
-                  "S. Hillier,E. Holder"
+                  "S. Hillier",
+                  "E. Holder"
                 ]
               },
               {
@@ -688,7 +689,8 @@
                       "M. Salih",
                       "J. Helmer",
                       "S. Lewis",
-                      "S. Hillier,E. Holder"
+                      "S. Hillier",
+                      "E. Holder"
                     ]
                   },
                   {
@@ -731,7 +733,8 @@
                       "M. Salih",
                       "J. Helmer",
                       "S. Lewis",
-                      "S. Hillier,E. Holder"
+                      "S. Hillier",
+                      "E. Holder"
                     ]
                   },
                   {
@@ -774,7 +777,8 @@
                       "M. Salih",
                       "J. Helmer",
                       "S. Lewis",
-                      "S. Hillier,E. Holder"
+                      "S. Hillier",
+                      "E. Holder"
                     ]
                   },
                   {
@@ -891,7 +895,8 @@
                       "M. Salih",
                       "J. Helmer",
                       "S. Lewis",
-                      "S. Hillier,E. Holder"
+                      "S. Hillier",
+                      "E. Holder"
                     ]
                   },
                   {
@@ -956,7 +961,8 @@
                       "M. Salih",
                       "J. Helmer",
                       "S. Lewis",
-                      "S. Hillier,E. Holder"
+                      "S. Hillier",
+                      "E. Holder"
                     ]
                   },
                   {
@@ -1040,13 +1046,15 @@
                 "voters": [
                   "J. Helmer",
                   "S. Lewis",
-                  "S. Hillier,E. Holder"
+                  "S. Hillier",
+                  "E. Holder"
                 ]
               },
               {
                 "vote": "Absent:",
                 "voters": [
-                  "M. Salih,A. Kayabaga"
+                  "M. Salih",
+                  "A. Kayabaga"
                 ]
               }
             ],

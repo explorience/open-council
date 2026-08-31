@@ -66,24 +66,24 @@
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 9292,
-    "yeas": 8450,
-    "nays": 496,
-    "absent": 38,
-    "participationRate": 96.2763667671115,
-    "yeaRate": 94.4556226246367,
-    "contestedDissentRate": 8.209785025945145,
-    "contestedVotes": 5396,
-    "substantiveVotes": 7253,
-    "substantiveYeas": 6508,
-    "substantiveNays": 441,
-    "substantiveParticipationRate": 95.80863091134702,
-    "substantiveYeaRate": 93.65376313138582
+    "totalVotes": 9854,
+    "yeas": 8826,
+    "nays": 557,
+    "absent": 134,
+    "participationRate": 95.22021514105947,
+    "yeaRate": 94.0637322817862,
+    "contestedDissentRate": 9.187021509296391,
+    "contestedVotes": 5486,
+    "substantiveVotes": 7584,
+    "substantiveYeas": 6720,
+    "substantiveNays": 492,
+    "substantiveParticipationRate": 95.09493670886076,
+    "substantiveYeaRate": 93.17803660565723
   },
   "budgetVoting": {
-    "totalBudgetVotes": 1016,
-    "budgetYeas": 893,
-    "budgetNays": 103,
+    "totalBudgetVotes": 1044,
+    "budgetYeas": 909,
+    "budgetNays": 115,
     "budgetAbsent": 1
   },
   "topAlignments": [],
@@ -162,66 +162,66 @@
       "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=e05f270b-b598-47ef-a614-667964860f46&Agenda=PostMinutes&lang=English"
     },
     {
-      "date": "2022-07-05",
-      "meetingTitle": "10th Meeting of City Council",
-      "itemTitle": "(2.4) \"RentSafeTO\" Program and Complaint Process Improvements",
-      "motionText": "That clause 2.4, BE AMENDED, by adding the following new part b): “b) Civic Administration BE DIRECTED to develop and bring forward a business case for a RentSafe London program for consideration duri...",
+      "date": "2022-08-02",
+      "meetingTitle": "11th Meeting of City Council",
+      "itemTitle": "(3.10) 1067, 1069 and 1071 Wellington Road (OZ-9263 / Z-9264)",
+      "motionText": "That, the following actions be taken with respect to the application by Century Centre Developments Inc., relating to the properties located at 1067-1071 Wellington Road: a)  the application BE REFERR...",
       "vote": "yea",
-      "result": "Motion Failed (3 to 10)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=ca5548d3-dd7c-4875-a376-1a9725e339ed&Agenda=PostMinutes&lang=English"
+      "result": "Motion Failed (2 to 12)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=4c720985-60de-4949-ae43-1307fd4ec0a3&Agenda=PostMinutes&lang=English"
     },
     {
       "date": "2022-07-05",
       "meetingTitle": "10th Meeting of City Council",
-      "itemTitle": "By-laws",
-      "motionText": "That Introduction and First Reading of the Bill No.’s 284 and 301 BE APPROVED.",
+      "itemTitle": "(3.5) 84-86 St. George Street and 175-197 Ann Street (OZ-9127) (Relates to Bill No.'s 284 and 301)",
+      "motionText": "That Item 13, clause 3.5, BE AMENDED to include the following at the end of the clause: \"it being noted that the Municipal Council approves this application for the following reasons: - consistent wit...",
       "vote": "nay",
-      "result": "Motion Passed (10 to 3)",
+      "result": "Motion Passed (11 to 2)",
       "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=ca5548d3-dd7c-4875-a376-1a9725e339ed&Agenda=PostMinutes&lang=English"
     }
   ],
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 3620,
-      "yeas": 3337,
-      "nays": 245,
-      "participationRate": 98.95027624309392
-    },
-    {
-      "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 2213,
-      "yeas": 1770,
-      "nays": 173,
-      "participationRate": 87.79936737460461
+      "totalVotes": 3673,
+      "yeas": 3340,
+      "nays": 278,
+      "participationRate": 98.50258644160087
     },
     {
       "committee": "Planning and Environment Committee",
-      "totalVotes": 2139,
-      "yeas": 2076,
-      "nays": 54,
-      "participationRate": 99.57924263674614
+      "totalVotes": 2446,
+      "yeas": 2293,
+      "nays": 65,
+      "participationRate": 96.4022894521668
+    },
+    {
+      "committee": "Strategic Priorities and Policy Committee",
+      "totalVotes": 2251,
+      "yeas": 1771,
+      "nays": 184,
+      "participationRate": 86.85028876055087
     },
     {
       "committee": "Civic Works Committee",
-      "totalVotes": 611,
-      "yeas": 604,
-      "nays": 6,
-      "participationRate": 99.83633387888707
+      "totalVotes": 625,
+      "yeas": 617,
+      "nays": 7,
+      "participationRate": 99.83999999999999
     },
     {
       "committee": "Corporate Services Committee",
-      "totalVotes": 561,
-      "yeas": 527,
-      "nays": 15,
-      "participationRate": 96.6131907308378
+      "totalVotes": 618,
+      "yeas": 577,
+      "nays": 19,
+      "participationRate": 96.44012944983818
     },
     {
       "committee": "Community and Protective Services Committee",
-      "totalVotes": 148,
-      "yeas": 136,
-      "nays": 3,
-      "participationRate": 93.91891891891892
+      "totalVotes": 241,
+      "yeas": 228,
+      "nays": 4,
+      "participationRate": 96.2655601659751
     }
   ]
 }

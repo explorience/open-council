@@ -92,7 +92,8 @@
                   "A. Hopkins ",
                   "S. Turner",
                   "S. Lewis",
-                  "S. Hillier,S. Lehman"
+                  "S. Hillier",
+                  "S. Lehman"
                 ]
               },
               {
@@ -299,7 +300,8 @@
                       "S. Turner",
                       "S. Lewis",
                       "S. Hillier",
-                      "S. Lehman,E. Holder"
+                      "S. Lehman",
+                      "E. Holder"
                     ]
                   }
                 ],
@@ -342,7 +344,8 @@
                       "S. Turner",
                       "S. Lewis",
                       "S. Hillier",
-                      "S. Lehman,E. Holder"
+                      "S. Lehman",
+                      "E. Holder"
                     ]
                   }
                 ],
@@ -380,7 +383,8 @@
                       "S. Turner",
                       "S. Lewis",
                       "S. Hillier",
-                      "S. Lehman,E. Holder"
+                      "S. Lehman",
+                      "E. Holder"
                     ]
                   }
                 ],
@@ -466,7 +470,8 @@
                       "S. Turner",
                       "S. Lewis",
                       "S. Hillier",
-                      "S. Lehman,E. Holder"
+                      "S. Lehman",
+                      "E. Holder"
                     ]
                   }
                 ],
@@ -509,7 +514,8 @@
                       "S. Turner",
                       "S. Lewis",
                       "S. Hillier",
-                      "S. Lehman,E. Holder"
+                      "S. Lehman",
+                      "E. Holder"
                     ]
                   }
                 ],
@@ -547,7 +553,8 @@
                       "S. Turner",
                       "S. Lewis",
                       "S. Hillier",
-                      "S. Lehman,E. Holder"
+                      "S. Lehman",
+                      "E. Holder"
                     ]
                   }
                 ],
@@ -637,7 +644,8 @@
                       "S. Turner",
                       "S. Lewis",
                       "S. Hillier",
-                      "S. Lehman,E. Holder"
+                      "S. Lehman",
+                      "E. Holder"
                     ]
                   }
                 ],
@@ -680,7 +688,8 @@
                       "S. Turner",
                       "S. Lewis",
                       "S. Hillier",
-                      "S. Lehman,E. Holder"
+                      "S. Lehman",
+                      "E. Holder"
                     ]
                   }
                 ],
@@ -718,7 +727,8 @@
                       "S. Turner",
                       "S. Lewis",
                       "S. Hillier",
-                      "S. Lehman,E. Holder"
+                      "S. Lehman",
+                      "E. Holder"
                     ]
                   }
                 ],
@@ -812,7 +822,8 @@
                       "S. Turner",
                       "S. Lewis",
                       "S. Hillier",
-                      "S. Lehman,E. Holder"
+                      "S. Lehman",
+                      "E. Holder"
                     ]
                   }
                 ],
@@ -855,7 +866,8 @@
                       "S. Turner",
                       "S. Lewis",
                       "S. Hillier",
-                      "S. Lehman,E. Holder"
+                      "S. Lehman",
+                      "E. Holder"
                     ]
                   }
                 ],
@@ -893,7 +905,8 @@
                       "S. Turner",
                       "S. Lewis",
                       "S. Hillier",
-                      "S. Lehman,E. Holder"
+                      "S. Lehman",
+                      "E. Holder"
                     ]
                   }
                 ],
@@ -970,7 +983,8 @@
                       "S. Turner",
                       "S. Lewis",
                       "S. Hillier",
-                      "S. Lehman,E. Holder"
+                      "S. Lehman",
+                      "E. Holder"
                     ]
                   }
                 ],
@@ -1010,14 +1024,16 @@
                     "vote": "Yeas:",
                     "voters": [
                       "S. Lewis",
-                      "S. Hillier,S. Lehman"
+                      "S. Hillier",
+                      "S. Lehman"
                     ]
                   },
                   {
                     "vote": "Nays:",
                     "voters": [
                       "A. Hopkins ",
-                      "S. Turner,E. Holder"
+                      "S. Turner",
+                      "E. Holder"
                     ]
                   }
                 ],

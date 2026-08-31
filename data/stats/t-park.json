@@ -42,29 +42,92 @@
     "trendDirection": "declining"
   },
   "voting": {
-    "totalVotes": 3563,
-    "yeas": 3395,
-    "nays": 148,
-    "absent": 11,
-    "participationRate": 99.4386752736458,
-    "yeaRate": 95.82274908269828,
-    "contestedDissentRate": 3.1231925968768075,
-    "contestedVotes": 3458,
-    "substantiveVotes": 3514,
-    "substantiveYeas": 3357,
-    "substantiveNays": 147,
-    "substantiveParticipationRate": 99.71542401821286,
-    "substantiveYeaRate": 95.80479452054794
+    "totalVotes": 4211,
+    "yeas": 3952,
+    "nays": 170,
+    "absent": 70,
+    "participationRate": 97.88648777012587,
+    "yeaRate": 95.87578845220767,
+    "contestedDissentRate": 3.5102499297950014,
+    "contestedVotes": 3561,
+    "substantiveVotes": 3850,
+    "substantiveYeas": 3648,
+    "substantiveNays": 165,
+    "substantiveParticipationRate": 99.03896103896103,
+    "substantiveYeaRate": 95.6726986624705
   },
   "budgetVoting": {
-    "totalBudgetVotes": 591,
-    "budgetYeas": 550,
+    "totalBudgetVotes": 609,
+    "budgetYeas": 566,
     "budgetNays": 40,
-    "budgetAbsent": 0
+    "budgetAbsent": 2
   },
   "topAlignments": [],
   "bottomAlignments": [],
   "notableDissents": [
+    {
+      "date": "2018-11-12",
+      "meetingTitle": null,
+      "itemTitle": "Public Participation Meeting - Application - 3080 Bostwick Road (Site 1) (OZ-8941)",
+      "motionText": "That the following actions be taken with respect to the application of 31675 Ontario Ltd (York Developments Inc.), relating to the property located at 3080 Bostwick Road, referred to as Site 1: a)    ...",
+      "vote": "yea",
+      "result": "Motion Failed (3 to 3)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=f1796c7c-69cb-4f8d-ba0a-333dfb12b2e1&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2018-11-12",
+      "meetingTitle": null,
+      "itemTitle": "Public Participation Meeting - Application - 3080 Bostwick Road (Site 3) (Z-8942) ",
+      "motionText": "That, on the recommendation of the Senior Planner, Development Services, the following actions be taken with respect to the application of 31675 Ontario Ltd. (York Developments Inc.), relating to the ...",
+      "vote": "yea",
+      "result": "Motion Failed (3 to 3)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=f1796c7c-69cb-4f8d-ba0a-333dfb12b2e1&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2018-11-12",
+      "meetingTitle": null,
+      "itemTitle": "Public Participation Meeting - Application - 3080 Bostwick Road (Site 5) (OZ-8943)",
+      "motionText": "That the following actions be taken with respect to the application of 31675 Ontario Ltd (York Developments Inc.), relating to the property located at 3080 Bostwick Road referred to as Site 5: a)     ...",
+      "vote": "yea",
+      "result": "Motion Failed (3 to 3)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=f1796c7c-69cb-4f8d-ba0a-333dfb12b2e1&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2018-11-06",
+      "meetingTitle": null,
+      "itemTitle": "(3.4) Application - 324 York Street (TZ-8917) (Relates to Bill No. 610)",
+      "motionText": "The motion to approve part b) is put. b)         the proposed by-law appended to the staff report dated October 29, 2018 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on No...",
+      "vote": "nay",
+      "result": "Motion Passed (11 to 2)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=c0233c2f-9459-4232-ac30-7780a482a08d&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2018-11-06",
+      "meetingTitle": null,
+      "itemTitle": "By-laws",
+      "motionText": "That Introduction and First Reading of Bill No. 610 BE APPROVED.",
+      "vote": "nay",
+      "result": "Motion Passed (11 to 2)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=c0233c2f-9459-4232-ac30-7780a482a08d&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2018-11-06",
+      "meetingTitle": null,
+      "itemTitle": "By-laws",
+      "motionText": "That Second Reading of Bill No. 610 BE APPROVED.",
+      "vote": "nay",
+      "result": "Motion Passed (11 to 2)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=c0233c2f-9459-4232-ac30-7780a482a08d&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2018-11-06",
+      "meetingTitle": null,
+      "itemTitle": "By-laws",
+      "motionText": "That Third Reading and Enactment of Bill No. 610 BE APPROVED.",
+      "vote": "nay",
+      "result": "Motion Passed (11 to 2)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=c0233c2f-9459-4232-ac30-7780a482a08d&Agenda=PostMinutes&lang=English"
+    },
     {
       "date": "2018-09-24",
       "meetingTitle": null,
@@ -91,99 +154,36 @@
       "vote": "nay",
       "result": "Motion Passed (8 to 5)",
       "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=4eb6d6ce-de5f-4f0d-aabf-338acfc40967&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2018-02-20",
-      "meetingTitle": "Planning and Environment Committee",
-      "itemTitle": "Property located at\n  2150 Oxford Street East (OZ-8851)",
-      "motionText": "Motion\n  Passed",
-      "vote": "nay",
-      "result": "Motion\n  Passed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=1c805c60-a822-4df7-beb4-334710c7c454&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2017-12-11",
-      "meetingTitle": "Strategic Priorities and Policy Committee",
-      "itemTitle": "Financial and Other\n  Resources Required to Host International Plowing Match 2020",
-      "motionText": "Motion Failed",
-      "vote": "yea",
-      "result": "Motion Failed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=fdaf40ac-d6d8-455a-bf11-f0d467c1a3bb&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2017-12-04",
-      "meetingTitle": "Planning and Environment Committee",
-      "itemTitle": "Planning for\n  Non-therapeutic Cannabis in Retail Stores",
-      "motionText": "Motion\n  Passed",
-      "vote": "nay",
-      "result": "Motion\n  Passed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=cf073cbf-f7e1-42b1-8d0e-f725cb85e862&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2017-11-07",
-      "meetingTitle": "Corporate Services Committee",
-      "itemTitle": "Proposed Election\n  Sign By-law",
-      "motionText": "Motion\n  Passed",
-      "vote": "nay",
-      "result": "Motion\n  Passed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=afa4e025-9810-4131-ae7a-3ee9349942d1&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2017-10-23",
-      "meetingTitle": "Planning and Environment Committee",
-      "itemTitle": "PUBLIC PARTICIPATION\n  MEETING - Properties located at 200 Albert Street, 192 to 196 Central Avenue\n  and 193 to 197 Central Avenue (TZ-8802)",
-      "motionText": "Motion\n  Passed",
-      "vote": "nay",
-      "result": "Motion\n  Passed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=4be63f44-b03c-4a80-b406-f316e3238006&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2017-10-23",
-      "meetingTitle": "Planning and Environment Committee",
-      "itemTitle": "PUBLIC PARTICIPATION\n  MEETING - Properties located at 200 Albert Street, 192 to 196 Central Avenue\n  and 193 to 197 Central Avenue (TZ-8802)",
-      "motionText": "Motion\n  Passed",
-      "vote": "nay",
-      "result": "Motion\n  Passed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=4be63f44-b03c-4a80-b406-f316e3238006&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2017-10-23",
-      "meetingTitle": "Planning and Environment Committee",
-      "itemTitle": "PUBLIC\n  PARTICIPATION MEETING – Properties located at 661 and 667 Talbot Street\n  (Z-8659)",
-      "motionText": "Motion\n  Passed",
-      "vote": "nay",
-      "result": "Motion\n  Passed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=4be63f44-b03c-4a80-b406-f316e3238006&Agenda=PostMinutes&lang=English"
     }
   ],
   "committeeActivity": [
     {
-      "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 987,
-      "yeas": 919,
-      "nays": 68,
-      "participationRate": 100
-    },
-    {
       "committee": "Council",
-      "totalVotes": 949,
-      "yeas": 898,
-      "nays": 44,
-      "participationRate": 99.26238145416228
+      "totalVotes": 1226,
+      "yeas": 1148,
+      "nays": 57,
+      "participationRate": 98.28711256117455
     },
     {
       "committee": "Planning and Environment Committee",
-      "totalVotes": 945,
-      "yeas": 912,
-      "nays": 20,
-      "participationRate": 98.62433862433862
+      "totalVotes": 1211,
+      "yeas": 1134,
+      "nays": 24,
+      "participationRate": 95.62345169281585
+    },
+    {
+      "committee": "Strategic Priorities and Policy Committee",
+      "totalVotes": 1075,
+      "yeas": 1002,
+      "nays": 73,
+      "participationRate": 100
     },
     {
       "committee": "Civic Works Committee",
-      "totalVotes": 283,
-      "yeas": 281,
+      "totalVotes": 300,
+      "yeas": 283,
       "nays": 2,
-      "participationRate": 100
+      "participationRate": 95
     },
     {
       "committee": "Corporate Services Committee",

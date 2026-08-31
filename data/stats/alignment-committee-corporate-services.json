@@ -1,33 +1,35 @@
 {
-  "generatedAt": "2026-08-26T14:06:09.521Z",
+  "generatedAt": "2026-08-31T05:06:55.794Z",
   "matrix": {
     "j-morgan": {
       "h-mcalister": 100,
-      "s-lewis": 98.87640449438202,
+      "s-lewis": 97.8021978021978,
       "p-cuddy": 100,
-      "s-stevenson": 95,
-      "s-trosow": 75,
+      "s-stevenson": 97.61904761904762,
+      "s-trosow": 89.65517241379311,
       "c-rahman": 94.11764705882352,
-      "a-hopkins": 98.3739837398374,
-      "p-van-meerbergen": 96.61016949152543,
-      "d-ferreira": 100
+      "a-hopkins": 98.07692307692307,
+      "p-van-meerbergen": 97.3913043478261,
+      "e-peloza": 98.79518072289156,
+      "d-ferreira": 96.15384615384616,
+      "s-hillier": 100
     },
     "h-mcalister": {
       "j-morgan": 100,
-      "s-lewis": 100,
+      "s-lewis": 98.27586206896551,
       "p-cuddy": 100,
-      "s-stevenson": 95.78947368421052,
-      "s-trosow": 92.3076923076923,
+      "s-stevenson": 94.84536082474226,
+      "s-trosow": 96.29629629629629,
       "c-rahman": 98.18181818181819,
       "p-van-meerbergen": 94.91525423728814,
       "d-ferreira": 100
     },
     "s-lewis": {
-      "j-morgan": 98.87640449438202,
-      "h-mcalister": 100,
-      "s-stevenson": 98.33333333333333,
-      "s-trosow": 93.54838709677419,
-      "d-ferreira": 100
+      "j-morgan": 97.8021978021978,
+      "h-mcalister": 98.27586206896551,
+      "s-stevenson": 98.4126984126984,
+      "s-trosow": 94.44444444444444,
+      "d-ferreira": 97.14285714285714
     },
     "p-cuddy": {
       "j-morgan": 100,
@@ -37,22 +39,22 @@
       "p-van-meerbergen": 94.54545454545455
     },
     "s-stevenson": {
-      "j-morgan": 95,
-      "h-mcalister": 95.78947368421052,
-      "s-lewis": 98.33333333333333,
+      "j-morgan": 97.61904761904762,
+      "h-mcalister": 94.84536082474226,
+      "s-lewis": 98.4126984126984,
       "p-cuddy": 93.47826086956522,
-      "s-trosow": 95.45454545454545,
+      "s-trosow": 92.06349206349206,
       "c-rahman": 89.58333333333334,
       "p-van-meerbergen": 94.23076923076923,
-      "d-ferreira": 100
+      "d-ferreira": 94.73684210526315
     },
     "j-pribil": {},
     "s-trosow": {
-      "j-morgan": 75,
-      "h-mcalister": 92.3076923076923,
-      "s-lewis": 93.54838709677419,
-      "s-stevenson": 95.45454545454545,
-      "d-ferreira": 100
+      "j-morgan": 89.65517241379311,
+      "h-mcalister": 96.29629629629629,
+      "s-lewis": 94.44444444444444,
+      "s-stevenson": 92.06349206349206,
+      "d-ferreira": 98.48484848484848
     },
     "c-rahman": {
       "j-morgan": 94.11764705882352,
@@ -63,27 +65,30 @@
     },
     "s-lehman": {},
     "a-hopkins": {
-      "j-morgan": 98.3739837398374
+      "j-morgan": 98.07692307692307
     },
     "p-van-meerbergen": {
-      "j-morgan": 96.61016949152543,
+      "j-morgan": 97.3913043478261,
       "h-mcalister": 94.91525423728814,
       "p-cuddy": 94.54545454545455,
       "s-stevenson": 94.23076923076923,
       "c-rahman": 94.73684210526315,
-      "s-hillier": 96.875
+      "s-hillier": 96.73913043478261
     },
     "s-franke": {},
-    "e-peloza": {},
+    "e-peloza": {
+      "j-morgan": 98.79518072289156
+    },
     "d-ferreira": {
-      "j-morgan": 100,
+      "j-morgan": 96.15384615384616,
       "h-mcalister": 100,
-      "s-lewis": 100,
-      "s-stevenson": 100,
-      "s-trosow": 100
+      "s-lewis": 97.14285714285714,
+      "s-stevenson": 94.73684210526315,
+      "s-trosow": 98.48484848484848
     },
     "s-hillier": {
-      "p-van-meerbergen": 96.875
+      "j-morgan": 100,
+      "p-van-meerbergen": 96.73913043478261
     }
   },
   "councillors": [
@@ -122,6 +127,10 @@
     {
       "slug": "p-van-meerbergen",
       "name": "Paul Van Meerbergen"
+    },
+    {
+      "slug": "e-peloza",
+      "name": "Elizabeth Peloza"
     },
     {
       "slug": "d-ferreira",

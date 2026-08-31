@@ -5,18 +5,18 @@ slug: "p-squire"
 meetingCount: 372
 yearsActive: "2014 - 2021"
 isCurrent: false
-totalVotes: 6305
-votesYea: 5871
-votesNay: 380
-votesAbsent: 29
+totalVotes: 7234
+votesYea: 6581
+votesNay: 503
+votesAbsent: 118
 votesRecused: 5
-votesAbstained: 0
-votesOther: 20
+votesAbstained: 2
+votesOther: 25
 attendanceRate: 94.8
-participationRate: 99.1
-yeaRate: 93.9
-contestedDissentRate: 6.8
-contestedVotes: 4186
+participationRate: 97.9
+yeaRate: 92.9
+contestedDissentRate: 9.1
+contestedVotes: 4442
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,13 +33,13 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 6,305 |
-| Voted Yea | 5,871 (93.1%) |
-| Voted Nay | 380 (6.0%) |
-| Absent | 29 (0.5%) |
+| Total Votes | 7,234 |
+| Voted Yea | 6,581 (91.0%) |
+| Voted Nay | 503 (7.0%) |
+| Absent | 118 (1.6%) |
 | Recused (conflict of interest) | 5 (0.1%) |
-| Abstained | 0 (0.0%) |
-| Other/Unrecorded | 20 (0.3%) |
+| Abstained | 2 (0.0%) |
+| Other/Unrecorded | 25 (0.3%) |
 
 *Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
 
@@ -50,17 +50,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 5,136 |
-| Voted Yea | 4,745 (93.1%) |
-| Voted Nay | 354 (6.9%) |
+| Substantive Votes | 5,662 |
+| Voted Yea | 5,111 (91.7%) |
+| Voted Nay | 463 (8.3%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 6.8%
-- **Contested Votes**: 4,186
+- **Dissent Rate**: 9.1%
+- **Contested Votes**: 4,442
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -71,10 +71,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 816 |
-| Voted Yea | 694 (85.7%) |
-| Voted Nay | 116 (14.3%) |
-| Absent | 6 |
+| Budget Votes | 872 |
+| Voted Yea | 718 (83.1%) |
+| Voted Nay | 146 (16.9%) |
+| Absent | 8 |
 
 
 ## Attendance
@@ -95,11 +95,11 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 2,826 | 2,659 | 160 | 99.8% |
-| Strategic Priorities and Policy Committee | 1,704 | 1,500 | 174 | 98.2% |
-| Planning and Environment Committee | 1,148 | 1,116 | 20 | 99.0% |
-| Civic Works Committee | 361 | 347 | 9 | 98.6% |
-| Community and Protective Services Committee | 266 | 249 | 17 | 100.0% |
+| Council | 2,987 | 2,740 | 237 | 99.7% |
+| Strategic Priorities and Policy Committee | 1,788 | 1,523 | 205 | 96.6% |
+| Planning and Environment Committee | 1,581 | 1,475 | 32 | 95.3% |
+| Civic Works Committee | 477 | 461 | 10 | 98.7% |
+| Community and Protective Services Committee | 401 | 382 | 19 | 100.0% |
 
 
 ## Notable Dissenting Votes
@@ -146,6 +146,18 @@ Voted **Nay** - Motion Passed (14 to 1)
 
 Voted **Nay** - Motion Passed (13 to 1)
 
+### 2021-07-06: (3.3) London & Middlesex Community Housing - 2020 Annual General Meeting of the Shareholder Annual Resolutions (Relates to Bill No. 293)
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=5b4f427f-bef1-4f1a-9857-ec2f7ee66abf&Agenda=PostMinutes&lang=English)
+
+> That the following appointment be approved: e) the following BE APPOINTED to the London & Middlesex Community Housing Inc.:
+
+
+
+Michael van Holst, City of London, term ending with the term of Municipal...
+
+Voted **Yea** - Motion Failed (6 to 8)
+
 ### 2021-06-15: (2.3) Review of Ward Boundaries Update
 
 [null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=82b5607e-07ec-4215-a9bd-00d9f7946371&Agenda=PostMinutes&lang=English)
@@ -154,39 +166,29 @@ Voted **Nay** - Motion Passed (13 to 1)
 
 Voted **Yea** - Motion Failed (7 to 7)
 
-### 2021-04-13: (4.3) Request for Research on the Effects of Public Health Restrictions in London
+### 2021-05-25: (2.1) Comprehensive Report on Core Area Initiatives
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=c752afe2-3cb1-4bfd-b25f-e9213c238492&Agenda=PostMinutes&lang=English)
+
+> The motion to approve Item 2 (2.1), part h) is put: h)      the Civic Administration BE AUTHORIZED to reallocate the remaining $100,000 in one-time funding that cannot be spent in 2021 due to COVID-19...
+
+Voted **Nay** - Motion Passed (10 to 4)
+
+### 2021-05-18: Comprehensive Report on Core Area Initiatives
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=264c986f-6092-4674-b1cf-c84a1827174f&Agenda=PostMinutes&lang=English)
+
+> Motion to approve part h) as follows: h)      the Civic Administration BE AUTHORIZED to reallocate the remaining $100,000 in one-time funding that cannot be spent in 2021 due to COVID-19 impacts to ot...
+
+Voted **Nay** - Motion Passed (10 to 5)
+
+### 2021-04-13: (4.5) Capital and Operational Needs of Municipal Golf Courses in London 
 
 [null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=2cfbef51-63f8-4f85-bd70-dd72a900fc5a&Agenda=PostMinutes&lang=English)
 
-> That the communication dated March 29, 2021 from Councillor M. van Holst with respect to a request for research related to the effects of COVID on the local citizens and economy, BE RECEIVED.
+> That Item 15 (4.5) BE AMENDED by adding the following: That, the Civic Administration BE DIRECTED to report back at a future meeting of the Strategic Priorities and Policy Committee with a plan to add...
 
-Voted **Nay** - Motion Passed (13 to 1)
-
-### 2021-02-23: (2.2) London Community Recovery Network - Ideas for Action by Municipal Council
-
-[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b9a39e01-644e-4738-bc5d-f0d00b0a7d06&Agenda=PostMinutes&lang=English)
-
-> That part a) i) Idea for Action 5.6 - Mural façade grant, BE APPROVED. At 6:43 PM, Councillor S. Hillier leaves the meeting.
-
-Voted **Nay** - Motion Passed (7 to 6)
-
-### 2020-11-24: (2.9) Active Transportation Infrastructure Plan
-
-[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=e3716145-1b8c-4264-aa67-787527e311c6&Agenda=PostMinutes&lang=English)
-
-> That Item 11 (2.9) of the 13th Report of the Civic Works Committee be amended by deleting part b) in its entirety and by replacing it with the following new part b); by adding the following new part c...
-
-Voted **Nay** - Motion Passed (8 to 7)
-
-### 2020-10-27: (ADDED) Bill 218 and Ranked Ballots
-
-[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=445eceb1-7666-412b-a106-2c37ec615b4e&Agenda=PostMinutes&lang=English)
-
-> That the following actions be taken with respect to the Bill 218 “An Act to enact the Supporting Ontario’s Recovery Act, 2020”:
-
-a)      the Civic Administration BE DIRECTED to submit the following co...
-
-Voted **Nay** - Motion Passed (14 to 1)
+Voted **Yea** - Motion Failed (3 to 11)
 
 
 ## Committees Served

@@ -42,29 +42,83 @@
     "trendDirection": "declining"
   },
   "voting": {
-    "totalVotes": 3477,
-    "yeas": 3290,
-    "nays": 124,
-    "absent": 57,
-    "participationRate": 98.18809318377913,
-    "yeaRate": 96.36789689513768,
-    "contestedDissentRate": 3.7122207621550594,
-    "contestedVotes": 3044,
-    "substantiveVotes": 3258,
-    "substantiveYeas": 3095,
-    "substantiveNays": 123,
-    "substantiveParticipationRate": 98.77225291589933,
-    "substantiveYeaRate": 96.177750155376
+    "totalVotes": 3544,
+    "yeas": 3303,
+    "nays": 136,
+    "absent": 96,
+    "participationRate": 97.03724604966139,
+    "yeaRate": 96.04536202384413,
+    "contestedDissentRate": 4.177545691906006,
+    "contestedVotes": 3064,
+    "substantiveVotes": 3294,
+    "substantiveYeas": 3107,
+    "substantiveNays": 131,
+    "substantiveParticipationRate": 98.29993928354584,
+    "substantiveYeaRate": 95.95429277331687
   },
   "budgetVoting": {
-    "totalBudgetVotes": 545,
-    "budgetYeas": 510,
-    "budgetNays": 30,
+    "totalBudgetVotes": 547,
+    "budgetYeas": 511,
+    "budgetNays": 31,
     "budgetAbsent": 5
   },
   "topAlignments": [],
   "bottomAlignments": [],
   "notableDissents": [
+    {
+      "date": "2018-10-16",
+      "meetingTitle": null,
+      "itemTitle": "(2.4) Elected Officials Remuneration - One-Third Non Taxable Allowance (Relates to Bill No. 584)",
+      "motionText": "The motion to approve part b) is put. b)            the Mayor’s salary at January 1, 2019, BE INCREASED to $138,025 annually, in order to accommodate for the elimination of the allowance noted in part...",
+      "vote": "nay",
+      "result": "Motion Passed (7 to 5)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=bedc1530-d6f9-46d4-9a66-8ef7de0139e1&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2018-09-18",
+      "meetingTitle": null,
+      "itemTitle": "(3.1) Annual Meeting Calendar",
+      "motionText": "That the draft meeting calendar for the period of January 1, 2019 to December 1, 2019, reflecting the current meeting schedule, attached as Appendix B to the staff report dated September 11, 2018, BE ...",
+      "vote": "nay",
+      "result": "Motion Passed (6 to 5)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=6a7d7cc3-bf13-4ecc-8227-9571eb005f24&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2018-07-24",
+      "meetingTitle": null,
+      "itemTitle": "(3.1) By-law Amendments to the Sound By-law, PW-12 and to the Public Nuisance By-law, PH-18, Public Messaging in the Community - Nuisances (Relates to Bill No.s 435 and 436)",
+      "motionText": "The motion to approve Part b) of Item 9 (3.1) is put.  Part b) reads as follows: b)            the proposed by-law, appended to the staff report dated July 16, 2018, BE INTRODUCED at the Municipal Cou...",
+      "vote": "nay",
+      "result": "Motion Passed (9 to 6)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=7887335f-11cc-4679-9f81-b0b63125b282&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2018-07-24",
+      "meetingTitle": null,
+      "itemTitle": "By-laws",
+      "motionText": "That Introduction and First Reading of Bill No. 436, BE APPROVED.",
+      "vote": "nay",
+      "result": "Motion Passed (10 to 3)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=7887335f-11cc-4679-9f81-b0b63125b282&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2018-07-24",
+      "meetingTitle": null,
+      "itemTitle": "By-laws",
+      "motionText": "That Second Reading of Bill No. 436, BE APPROVED.",
+      "vote": "nay",
+      "result": "Motion Passed (10 to 3)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=7887335f-11cc-4679-9f81-b0b63125b282&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2018-07-24",
+      "meetingTitle": null,
+      "itemTitle": "By-laws",
+      "motionText": "That Third Reading and Enactment of Bill No. 436, BE APPROVED.",
+      "vote": "nay",
+      "result": "Motion Passed (10 to 3)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=7887335f-11cc-4679-9f81-b0b63125b282&Agenda=PostMinutes&lang=English"
+    },
     {
       "date": "2018-06-26",
       "meetingTitle": "13th Meeting of City Council",
@@ -93,97 +147,43 @@
       "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=4eb6d6ce-de5f-4f0d-aabf-338acfc40967&Agenda=PostMinutes&lang=English"
     },
     {
-      "date": "2018-03-27",
+      "date": "2018-06-25",
       "meetingTitle": null,
-      "itemTitle": "Review of Confidential Matters to be Considered in Public",
-      "motionText": "That pursuant to section 6.4 of the Council Procedure By-law, the order of business be changed to permit consideration of Item 9 of the 5th Report of the Civic Works Committee to be dealt with prior t...",
+      "itemTitle": "Free of Fear Services for All Policy",
+      "motionText": "Motion to approve part d).",
       "vote": "nay",
-      "result": "Motion Passed (11 to 3)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=2e67611f-a676-4cde-af23-1e18d2e0823c&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2018-03-27",
-      "meetingTitle": null,
-      "itemTitle": "Wonderland Road Community Enterprise Corridor (Relates to Bill No. 140)",
-      "motionText": "That pursuant to section 9.6 of the Council Procedure By-law, Councillor S. Turner be permitted to speak longer than 5 minutes with respect to this matter.",
-      "vote": "nay",
-      "result": "Motion Passed (13 to 1)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=2e67611f-a676-4cde-af23-1e18d2e0823c&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2018-03-20",
-      "meetingTitle": null,
-      "itemTitle": "Request for Support for UN Safe Cities Initiative - ANOVA",
-      "motionText": "That the communication dated March 20, 2018, from ANOVA, with respect to a request for support related to the UN Safe Cities Initiative BE REFERRED to the City Manager for further refinement regarding...",
-      "vote": "yea",
-      "result": "Motion Failed (3 to 3)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=0a8dd089-bb13-4863-b756-74faa6ab3b2f&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2017-12-12",
-      "meetingTitle": "MINUTES FIRST\n  MEETING",
-      "itemTitle": "Community Mental\n  Health and Addiction Strategy for London: Moving Forward Together",
-      "motionText": "Motion Passed",
-      "vote": "nay",
-      "result": "Motion Passed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=54c7bed2-4c64-423b-9ebc-e0e573e394ab&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2017-12-05",
-      "meetingTitle": "Community and Protective Services Committee",
-      "itemTitle": "Community Mental\n  Health and Addiction Strategy for London: Moving Forward Together",
-      "motionText": "Motion\n  Passed",
-      "vote": "nay",
-      "result": "Motion\n  Passed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8901d52b-431d-45fd-9733-58c205eb53f5&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2017-12-05",
-      "meetingTitle": "Community and Protective Services Committee",
-      "itemTitle": "Council Chamber Doors",
-      "motionText": "Motion\n  Passed",
-      "vote": "nay",
-      "result": "Motion\n  Passed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8901d52b-431d-45fd-9733-58c205eb53f5&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2017-11-28",
-      "meetingTitle": "MINUTES 28TH MEETING",
-      "itemTitle": "Dundas Place\n  Management and Dundas Field House",
-      "motionText": "Motion Passed",
-      "vote": "nay",
-      "result": "Motion Passed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=a6c8289d-c0c9-4818-af92-38b52b79fde8&Agenda=PostMinutes&lang=English"
+      "result": "Motion Passed (8 to 6)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b06e637c-71a8-4f2f-8d7e-2cc345dfbf1f&Agenda=PostMinutes&lang=English"
     }
   ],
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 1332,
-      "yeas": 1229,
-      "nays": 52,
-      "participationRate": 96.17117117117117
+      "totalVotes": 1375,
+      "yeas": 1234,
+      "nays": 59,
+      "participationRate": 94.03636363636365
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 1044,
-      "yeas": 990,
-      "nays": 54,
-      "participationRate": 100
+      "totalVotes": 1057,
+      "yeas": 993,
+      "nays": 57,
+      "participationRate": 99.33774834437085
     },
     {
       "committee": "Civic Works Committee",
-      "totalVotes": 517,
-      "yeas": 505,
-      "nays": 7,
-      "participationRate": 99.03288201160542
+      "totalVotes": 520,
+      "yeas": 507,
+      "nays": 8,
+      "participationRate": 99.03846153846155
     },
     {
       "committee": "Community and Protective Services Committee",
-      "totalVotes": 382,
-      "yeas": 366,
-      "nays": 9,
-      "participationRate": 98.1675392670157
+      "totalVotes": 390,
+      "yeas": 369,
+      "nays": 10,
+      "participationRate": 97.17948717948718
     },
     {
       "committee": "Corporate Services Committee",

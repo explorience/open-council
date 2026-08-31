@@ -5,18 +5,18 @@ slug: "m-salih"
 meetingCount: 350
 yearsActive: "2014 - 2022"
 isCurrent: false
-totalVotes: 5987
-votesYea: 5142
-votesNay: 331
-votesAbsent: 233
+totalVotes: 6522
+votesYea: 5406
+votesNay: 355
+votesAbsent: 473
 votesRecused: 29
 votesAbstained: 0
-votesOther: 252
+votesOther: 259
 attendanceRate: 93.7
-participationRate: 91.4
-yeaRate: 94.0
-contestedDissentRate: 7.7
-contestedVotes: 3298
+participationRate: 88.3
+yeaRate: 93.8
+contestedDissentRate: 8.3
+contestedVotes: 3345
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,13 +33,13 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 5,987 |
-| Voted Yea | 5,142 (85.9%) |
-| Voted Nay | 331 (5.5%) |
-| Absent | 233 (3.9%) |
-| Recused (conflict of interest) | 29 (0.5%) |
+| Total Votes | 6,522 |
+| Voted Yea | 5,406 (82.9%) |
+| Voted Nay | 355 (5.4%) |
+| Absent | 473 (7.3%) |
+| Recused (conflict of interest) | 29 (0.4%) |
 | Abstained | 0 (0.0%) |
-| Other/Unrecorded | 252 (4.2%) |
+| Other/Unrecorded | 259 (4.0%) |
 
 *Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
 
@@ -50,17 +50,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 4,675 |
-| Voted Yea | 3,981 (92.9%) |
-| Voted Nay | 305 (7.1%) |
+| Substantive Votes | 4,985 |
+| Voted Yea | 4,132 (92.7%) |
+| Voted Nay | 326 (7.3%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 7.7%
-- **Contested Votes**: 3,298
+- **Dissent Rate**: 8.3%
+- **Contested Votes**: 3,345
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -71,10 +71,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 918 |
-| Voted Yea | 822 (90.1%) |
-| Voted Nay | 90 (9.9%) |
-| Absent | 2 |
+| Budget Votes | 942 |
+| Voted Yea | 831 (89.5%) |
+| Voted Nay | 98 (10.5%) |
+| Absent | 9 |
 
 
 ## Attendance
@@ -95,9 +95,9 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 3,061 | 2,696 | 160 | 93.3% |
-| Strategic Priorities and Policy Committee | 2,151 | 1,724 | 147 | 87.0% |
-| Community and Protective Services Committee | 775 | 722 | 24 | 96.3% |
+| Council | 3,262 | 2,701 | 169 | 88.0% |
+| Strategic Priorities and Policy Committee | 2,208 | 1,728 | 153 | 85.2% |
+| Community and Protective Services Committee | 1,052 | 977 | 33 | 96.0% |
 
 
 ## Notable Dissenting Votes
@@ -119,6 +119,14 @@ Voted **Yea** - Motion Failed (5 to 9)
 > That the following actions be taken with respect to the application by Century Centre Development Inc., relating to the properties located at 1067, 1069 and 1071 Wellington Road: a)    the proposed, a...
 
 Voted **Nay** - Motion Passed (10 to 5)
+
+### 2022-08-02: (3.10) 1067, 1069 and 1071 Wellington Road (OZ-9263 / Z-9264)
+
+[11th Meeting of City Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=4c720985-60de-4949-ae43-1307fd4ec0a3&Agenda=PostMinutes&lang=English)
+
+> That, the following actions be taken with respect to the application by Century Centre Developments Inc., relating to the properties located at 1067-1071 Wellington Road: a)  the application BE REFERR...
+
+Voted **Yea** - Motion Failed (2 to 12)
 
 ### 2022-06-21: "RentSafeTO" Program and Complaint Process Improvements
 
@@ -173,14 +181,6 @@ Voted **Nay** - Motion Passed (7 to 6)
 [null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=8ce5f98b-7e95-45c9-9fec-a83ed4f1e785&Agenda=PostMinutes&lang=English)
 
 > That Third Reading and Enactment of Bill No.’s 183, 186 and 202, BE APPROVED.
-
-Voted **Nay** - Motion Passed (7 to 6)
-
-### 2022-05-03: By-laws
-
-[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=8ce5f98b-7e95-45c9-9fec-a83ed4f1e785&Agenda=PostMinutes&lang=English)
-
-> That Third Reading and Enactment of Bill No.’s 184, 187 and 205, BE APPROVED.
 
 Voted **Nay** - Motion Passed (7 to 6)
 

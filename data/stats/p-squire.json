@@ -60,25 +60,25 @@
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 6305,
-    "yeas": 5871,
-    "nays": 380,
-    "absent": 29,
-    "participationRate": 99.14353687549564,
-    "yeaRate": 93.9209726443769,
-    "contestedDissentRate": 6.8084089823220255,
-    "contestedVotes": 4186,
-    "substantiveVotes": 5136,
-    "substantiveYeas": 4745,
-    "substantiveNays": 354,
-    "substantiveParticipationRate": 99.27959501557633,
-    "substantiveYeaRate": 93.05746224749952
+    "totalVotes": 7234,
+    "yeas": 6581,
+    "nays": 503,
+    "absent": 118,
+    "participationRate": 97.92645839093171,
+    "yeaRate": 92.8994918125353,
+    "contestedDissentRate": 9.072489869428185,
+    "contestedVotes": 4442,
+    "substantiveVotes": 5662,
+    "substantiveYeas": 5111,
+    "substantiveNays": 463,
+    "substantiveParticipationRate": 98.445778876722,
+    "substantiveYeaRate": 91.69357732328669
   },
   "budgetVoting": {
-    "totalBudgetVotes": 816,
-    "budgetYeas": 694,
-    "budgetNays": 116,
-    "budgetAbsent": 6
+    "totalBudgetVotes": 872,
+    "budgetYeas": 718,
+    "budgetNays": 146,
+    "budgetAbsent": 8
   },
   "topAlignments": [],
   "bottomAlignments": [],
@@ -129,6 +129,15 @@
       "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=5b4f427f-bef1-4f1a-9857-ec2f7ee66abf&Agenda=PostMinutes&lang=English"
     },
     {
+      "date": "2021-07-06",
+      "meetingTitle": null,
+      "itemTitle": "(3.3) London & Middlesex Community Housing - 2020 Annual General Meeting of the Shareholder Annual Resolutions (Relates to Bill No. 293)",
+      "motionText": "That the following appointment be approved: e) the following BE APPOINTED to the London & Middlesex Community Housing Inc.:\n\n\n\nMichael van Holst, City of London, term ending with the term of Municipal...",
+      "vote": "yea",
+      "result": "Motion Failed (6 to 8)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=5b4f427f-bef1-4f1a-9857-ec2f7ee66abf&Agenda=PostMinutes&lang=English"
+    },
+    {
       "date": "2021-06-15",
       "meetingTitle": null,
       "itemTitle": "(2.3) Review of Ward Boundaries Update",
@@ -138,76 +147,67 @@
       "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=82b5607e-07ec-4215-a9bd-00d9f7946371&Agenda=PostMinutes&lang=English"
     },
     {
+      "date": "2021-05-25",
+      "meetingTitle": null,
+      "itemTitle": "(2.1) Comprehensive Report on Core Area Initiatives",
+      "motionText": "The motion to approve Item 2 (2.1), part h) is put: h)      the Civic Administration BE AUTHORIZED to reallocate the remaining $100,000 in one-time funding that cannot be spent in 2021 due to COVID-19...",
+      "vote": "nay",
+      "result": "Motion Passed (10 to 4)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=c752afe2-3cb1-4bfd-b25f-e9213c238492&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2021-05-18",
+      "meetingTitle": null,
+      "itemTitle": "Comprehensive Report on Core Area Initiatives",
+      "motionText": "Motion to approve part h) as follows: h)      the Civic Administration BE AUTHORIZED to reallocate the remaining $100,000 in one-time funding that cannot be spent in 2021 due to COVID-19 impacts to ot...",
+      "vote": "nay",
+      "result": "Motion Passed (10 to 5)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=264c986f-6092-4674-b1cf-c84a1827174f&Agenda=PostMinutes&lang=English"
+    },
+    {
       "date": "2021-04-13",
       "meetingTitle": null,
-      "itemTitle": "(4.3) Request for Research on the Effects of Public Health Restrictions in London",
-      "motionText": "That the communication dated March 29, 2021 from Councillor M. van Holst with respect to a request for research related to the effects of COVID on the local citizens and economy, BE RECEIVED.",
-      "vote": "nay",
-      "result": "Motion Passed (13 to 1)",
+      "itemTitle": "(4.5) Capital and Operational Needs of Municipal Golf Courses in London ",
+      "motionText": "That Item 15 (4.5) BE AMENDED by adding the following: That, the Civic Administration BE DIRECTED to report back at a future meeting of the Strategic Priorities and Policy Committee with a plan to add...",
+      "vote": "yea",
+      "result": "Motion Failed (3 to 11)",
       "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=2cfbef51-63f8-4f85-bd70-dd72a900fc5a&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2021-02-23",
-      "meetingTitle": null,
-      "itemTitle": "(2.2) London Community Recovery Network - Ideas for Action by Municipal Council",
-      "motionText": "That part a) i) Idea for Action 5.6 - Mural façade grant, BE APPROVED. At 6:43 PM, Councillor S. Hillier leaves the meeting.",
-      "vote": "nay",
-      "result": "Motion Passed (7 to 6)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b9a39e01-644e-4738-bc5d-f0d00b0a7d06&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2020-11-24",
-      "meetingTitle": null,
-      "itemTitle": "(2.9) Active Transportation Infrastructure Plan",
-      "motionText": "That Item 11 (2.9) of the 13th Report of the Civic Works Committee be amended by deleting part b) in its entirety and by replacing it with the following new part b); by adding the following new part c...",
-      "vote": "nay",
-      "result": "Motion Passed (8 to 7)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=e3716145-1b8c-4264-aa67-787527e311c6&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2020-10-27",
-      "meetingTitle": null,
-      "itemTitle": "(ADDED) Bill 218 and Ranked Ballots",
-      "motionText": "That the following actions be taken with respect to the Bill 218 “An Act to enact the Supporting Ontario’s Recovery Act, 2020”:\n\na)      the Civic Administration BE DIRECTED to submit the following co...",
-      "vote": "nay",
-      "result": "Motion Passed (14 to 1)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=445eceb1-7666-412b-a106-2c37ec615b4e&Agenda=PostMinutes&lang=English"
     }
   ],
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 2826,
-      "yeas": 2659,
-      "nays": 160,
-      "participationRate": 99.75230007077141
+      "totalVotes": 2987,
+      "yeas": 2740,
+      "nays": 237,
+      "participationRate": 99.66521593572146
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 1704,
-      "yeas": 1500,
-      "nays": 174,
-      "participationRate": 98.23943661971832
+      "totalVotes": 1788,
+      "yeas": 1523,
+      "nays": 205,
+      "participationRate": 96.64429530201343
     },
     {
       "committee": "Planning and Environment Committee",
-      "totalVotes": 1148,
-      "yeas": 1116,
-      "nays": 20,
-      "participationRate": 98.95470383275261
+      "totalVotes": 1581,
+      "yeas": 1475,
+      "nays": 32,
+      "participationRate": 95.31941808981658
     },
     {
       "committee": "Civic Works Committee",
-      "totalVotes": 361,
-      "yeas": 347,
-      "nays": 9,
-      "participationRate": 98.61495844875347
+      "totalVotes": 477,
+      "yeas": 461,
+      "nays": 10,
+      "participationRate": 98.74213836477988
     },
     {
       "committee": "Community and Protective Services Committee",
-      "totalVotes": 266,
-      "yeas": 249,
-      "nays": 17,
+      "totalVotes": 401,
+      "yeas": 382,
+      "nays": 19,
       "participationRate": 100
     }
   ]

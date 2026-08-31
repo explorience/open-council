@@ -62,6 +62,42 @@ export function classifyVoteType(rawLabel: string | null | undefined): VoteType 
   return "other"
 }
 
+/**
+ * Marker appended to a VoteRecord's `motionText` by scripts/generate-votes.ts when the
+ * source text had to be cut off at the length cap. Chatbot-facing formatting
+ * (server/vote-lookup.ts) checks for this marker so it never tells the LLM a truncated
+ * excerpt is the "Full Motion Text" - a truncated mid-sentence fragment mislabeled as
+ * complete is exactly the kind of confidently-wrong context that produces bad answers.
+ */
+export const MOTION_TEXT_TRUNCATION_MARKER = " […motion text truncated]"
+
+/**
+ * The OLD hard truncation length (pre-fix) that scripts/generate-votes.ts used before
+ * MAX_MOTION_TEXT_LENGTH was raised to 2000 and truncated text started getting the
+ * marker above appended. The ~199k records already committed under data/votes/*.json
+ * were generated under that old 500-char cap and were never retroactively marked -
+ * regenerating that 160MB, git-committed, nightly-job-owned dataset is out of scope for
+ * this fix (the nightly scrape will produce marked records going forward). Without this
+ * legacy heuristic, isMotionTextTruncated()/motionTextLabel() would call every one of
+ * those ~29k truncated records "Full Motion Text" even though they are cut off mid
+ * sentence - exactly the mislabeling this module exists to prevent. A short, deliberately
+ * short motion happening to land at exactly 500 chars would be a rare false positive
+ * (mislabeled as "may be cut off" when it's actually complete) - a far safer failure mode
+ * than the reverse.
+ */
+const LEGACY_UNMARKED_TRUNCATION_LENGTH = 500
+
+/**
+ * True if a stored motionText was cut off - either the new explicit marker (records
+ * generated after this fix) or the old hard cap with no marker (records generated
+ * before it - see LEGACY_UNMARKED_TRUNCATION_LENGTH).
+ */
+export function isMotionTextTruncated(motionText: string | undefined | null): boolean {
+  if (!motionText) return false
+  if (motionText.endsWith(MOTION_TEXT_TRUNCATION_MARKER)) return true
+  return motionText.length === LEGACY_UNMARKED_TRUNCATION_LENGTH
+}
+
 /** Human-readable label for a VoteType, used in chatbot-facing text. */
 export function voteTypeLabel(voteType: VoteType): string {
   switch (voteType) {

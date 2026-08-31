@@ -60,29 +60,56 @@
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 6144,
-    "yeas": 5730,
-    "nays": 414,
-    "absent": 0,
-    "participationRate": 100,
-    "yeaRate": 93.26171875,
-    "contestedDissentRate": 6.807076663858466,
-    "contestedVotes": 5935,
-    "substantiveVotes": 6029,
-    "substantiveYeas": 5617,
-    "substantiveNays": 412,
-    "substantiveParticipationRate": 100,
-    "substantiveYeaRate": 93.16636258085919
+    "totalVotes": 6353,
+    "yeas": 5910,
+    "nays": 431,
+    "absent": 12,
+    "participationRate": 99.8111128600661,
+    "yeaRate": 93.20296483204542,
+    "contestedDissentRate": 6.9732441471571915,
+    "contestedVotes": 5980,
+    "substantiveVotes": 6142,
+    "substantiveYeas": 5709,
+    "substantiveNays": 425,
+    "substantiveParticipationRate": 99.86974926733963,
+    "substantiveYeaRate": 93.07140528203456
   },
   "budgetVoting": {
-    "totalBudgetVotes": 1435,
-    "budgetYeas": 1244,
-    "budgetNays": 191,
+    "totalBudgetVotes": 1439,
+    "budgetYeas": 1247,
+    "budgetNays": 192,
     "budgetAbsent": 0
   },
   "topAlignments": [],
   "bottomAlignments": [],
   "notableDissents": [
+    {
+      "date": "2018-09-17",
+      "meetingTitle": null,
+      "itemTitle": "Dr. Josipa Petrunic, Executive Director and Chief Executive Officer, Canadian Urban Transit Research and Innovation Consortium - Rapid Transit",
+      "motionText": "b)    based on the financial and environmental benefits shown by the modelling done by CUTRIC, electrification of London’s Bus Rapid Transit system BE ENDORSED-IN-PRINCIPLE;",
+      "vote": "nay",
+      "result": "Motion Passed (9 to 5)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=4e6038a3-d2ed-4dbf-84eb-f04fee831bdc&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2018-07-24",
+      "meetingTitle": null,
+      "itemTitle": "(4.5) Traffic Light - South Carriage Road and Hyde Park Road",
+      "motionText": "That staff BE DIRECTED to install traffic lights at South Carriage road and Hyde Park Road as soon as possible and identify a source of funding for the installation; it being noted that verbal present...",
+      "vote": "nay",
+      "result": "Motion Passed (8 to 6)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=7887335f-11cc-4679-9f81-b0b63125b282&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2018-06-25",
+      "meetingTitle": null,
+      "itemTitle": "Free of Fear Services for All Policy",
+      "motionText": "Motion to approve part e).",
+      "vote": "nay",
+      "result": "Motion Passed (9 to 5)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b06e637c-71a8-4f2f-8d7e-2cc345dfbf1f&Agenda=PostMinutes&lang=English"
+    },
     {
       "date": "2018-05-28",
       "meetingTitle": null,
@@ -93,100 +120,73 @@
       "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=c94486a2-ee15-4384-93dd-95d454fefba0&Agenda=PostMinutes&lang=English"
     },
     {
-      "date": "2017-11-28",
-      "meetingTitle": "MINUTES 28TH MEETING",
-      "itemTitle": "Dundas Place\n  Management and Dundas Field House",
-      "motionText": "Motion Failed",
-      "vote": "yea",
-      "result": "Motion Failed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=a6c8289d-c0c9-4818-af92-38b52b79fde8&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2017-10-30",
-      "meetingTitle": "MINUTES TWENTY-SIXTH\n  MEETING",
-      "itemTitle": "Property located at\n  4100 Glanworth Drive - Request for Demolition",
-      "motionText": "Motion Passed",
+      "date": "2018-05-07",
+      "meetingTitle": null,
+      "itemTitle": "(ADDED) London Middlesex Housing Corporation Board of Directors Vacancies",
+      "motionText": "That the following actions be taken with respect to the London Middlesex Housing Corporation Board of Directors:\n\n\n\na)            the letter of resignation appended to the staff report dated May 7, 20...",
       "vote": "nay",
-      "result": "Motion Passed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=7c11a63c-3946-42f8-a128-5a505a5853ce&Agenda=PostMinutes&lang=English"
+      "result": "Motion Passed (8 to 5)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=691a23eb-acf5-4a4e-bc63-44f0001d9807&Agenda=PostMinutes&lang=English"
     },
     {
-      "date": "2017-10-24",
-      "meetingTitle": "Corporate Services Committee",
-      "itemTitle": "Proposed Election\n  Sign By-law",
-      "motionText": "Motion\n  Failed",
-      "vote": "yea",
-      "result": "Motion\n  Failed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=00c81b22-1b5e-4e14-9c19-65d574cef867&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2017-10-11",
-      "meetingTitle": "Corporate Services Committee",
-      "itemTitle": "Tequila Expo Show\n  2017 - Request for Designation as a Municipally Significant Event",
-      "motionText": "Motion\n  Passed",
+      "date": "2018-04-24",
+      "meetingTitle": null,
+      "itemTitle": "Council, In Closed Session",
+      "motionText": "That the following Council, In Closed Session reason, related to clause 3.2 of the 7th Report of the Planning and Environment Committee (Item 7 of Stage 8.2 of the Council Agenda), having to do with t...",
       "vote": "nay",
-      "result": "Motion\n  Passed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=043ea95d-7056-4835-8a60-f495bde196f9&Agenda=PostMinutes&lang=English"
+      "result": "Motion Passed (10 to 4)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=7d8ec60e-baec-4d79-bbef-540f1de56f4b&Agenda=PostMinutes&lang=English"
     },
     {
-      "date": "2017-10-04",
-      "meetingTitle": "Community and Protective Services Committee",
-      "itemTitle": "Business Licensing\n  By-law Review - New and Revised Regulations",
-      "motionText": "Motion\n  Passed",
+      "date": "2018-04-24",
+      "meetingTitle": null,
+      "itemTitle": "Public Consultation - Proposed Expansion of a Gaming Site",
+      "motionText": "Approve the introduction included in part b), as follows: b)            the expansion of a gaming site to include entertainment options that would allow for up to 1,200 slots at a casino, and up to 50...",
       "vote": "nay",
-      "result": "Motion\n  Passed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=fd7337a3-a9da-4c69-b681-eabc822d8ba1&Agenda=PostMinutes&lang=English"
+      "result": "Motion Passed (9 to 5)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=7d8ec60e-baec-4d79-bbef-540f1de56f4b&Agenda=PostMinutes&lang=English"
     },
     {
-      "date": "2017-10-03",
-      "meetingTitle": "MINUTES TWENTY-FOURTH\n  MEETING",
-      "itemTitle": "Properties located\n  at 1635 Commissioners Road East and 2624 Jackson Road - Approval for Draft\n  Plan Subdivisions Official Plan and Zoning By-law Amendments and Application\n  by The Corporation of The City of London re properties located at 1663, 1685\n  Commissioners Road East and 2652 Jackson Road - Official Plan Amendment\n  (39T-06507/OZ-7176/0-7178) (Relates to Bill No.s 583, 584 and 596)",
-      "motionText": "Motion Passed",
+      "date": "2018-04-24",
+      "meetingTitle": null,
+      "itemTitle": "Bus Rapid Transit - Environmental Assessment Initiative",
+      "motionText": "That the following actions be taken with respect to the Bus Rapid Transit Environmental Assessment Initiative: a)    the staff report dated April 23, 2018, entitled “Bus Rapid Transit – Environmental ...",
       "vote": "nay",
-      "result": "Motion Passed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=45647efe-f4dc-4202-958b-1719cbd976ee&Agenda=PostMinutes&lang=English"
+      "result": "Motion Passed (12 to 2)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=7d8ec60e-baec-4d79-bbef-540f1de56f4b&Agenda=PostMinutes&lang=English"
     },
     {
-      "date": "2017-08-22",
-      "meetingTitle": "MINUTES TWENTY-FIRST\n  MEETING",
-      "itemTitle": "Establishment of\n  Opioid Crisis Working Group",
-      "motionText": "Motion Passed",
+      "date": "2018-04-23",
+      "meetingTitle": null,
+      "itemTitle": "Public Participation Meeting - Not to be heard before 4:00 PM - Public Consultation - Proposed Expansion of a Gaming Site",
+      "motionText": "Motion to approve that part b) commence with the words \"the expansion of a gaming site to include entertainment options that would allow for up to 1,200 slots at a casino, and up to 50 live table game...",
       "vote": "nay",
-      "result": "Motion Passed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=32abb11b-dd40-4fae-b0e9-ebe11938a9e5&Agenda=PostMinutes&lang=English"
+      "result": "Motion Passed (7 to 5)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3bdac897-0f8b-41e4-856e-85ad64e459f8&Agenda=PostMinutes&lang=English"
     },
     {
-      "date": "2017-05-29",
-      "meetingTitle": "Strategic Priorities and Policy Committee",
-      "itemTitle": "Strategic Plan:\n  Semi-Annual Progress Report",
-      "motionText": "Motion Failed",
-      "vote": "yea",
-      "result": "Motion Failed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b32d36f-a271-4e35-93f0-8646e0ae5474&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2017-05-29",
-      "meetingTitle": "Strategic Priorities and Policy Committee",
-      "itemTitle": "Update on Service\n  Review Initiatives",
-      "motionText": "Motion Passed",
+      "date": "2018-04-23",
+      "meetingTitle": null,
+      "itemTitle": "Bus Rapid Transit – Environmental Assessment Initiative ",
+      "motionText": "That the following actions be taken with respect to the Bus Rapid Transit Environmental Assessment Initiative: a)               the staff report dated April 23, 2018, entitled “Bus Rapid Transit – Env...",
       "vote": "nay",
-      "result": "Motion Passed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b32d36f-a271-4e35-93f0-8646e0ae5474&Agenda=PostMinutes&lang=English"
+      "result": "Motion Passed (10 to 2)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3bdac897-0f8b-41e4-856e-85ad64e459f8&Agenda=PostMinutes&lang=English"
     }
   ],
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 2541,
-      "yeas": 2415,
-      "nays": 126,
+      "totalVotes": 2634,
+      "yeas": 2500,
+      "nays": 134,
       "participationRate": 100
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 1879,
-      "yeas": 1644,
-      "nays": 235,
+      "totalVotes": 1920,
+      "yeas": 1676,
+      "nays": 244,
       "participationRate": 100
     },
     {
@@ -197,17 +197,17 @@
       "participationRate": 100
     },
     {
+      "committee": "Civic Works Committee",
+      "totalVotes": 509,
+      "yeas": 483,
+      "nays": 14,
+      "participationRate": 97.64243614931237
+    },
+    {
       "committee": "Community and Protective Services Committee",
       "totalVotes": 469,
       "yeas": 460,
       "nays": 9,
-      "participationRate": 100
-    },
-    {
-      "committee": "Civic Works Committee",
-      "totalVotes": 434,
-      "yeas": 420,
-      "nays": 14,
       "participationRate": 100
     }
   ]

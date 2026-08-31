@@ -60,6 +60,8 @@ jobs:
         # 20 minutes later, and each Railway boot in between purges and
         # re-embeds ~1,000 vector-store chunks to mirror the churn.
         run: npx tsx scripts/add-transcripts-to-pages.ts
+
+      - name: Check for changes
         id: changes
         run: |
           # Check for any changes in data/ or content/

@@ -75,7 +75,8 @@
                   "P. Van Meerbergen",
                   "H. McAlister",
                   "P. Cuddy",
-                  "S. Trosow,C. Rahman"
+                  "S. Trosow",
+                  "C. Rahman"
                 ]
               },
               {
@@ -324,13 +325,15 @@
                     "voters": [
                       "P. Van Meerbergen",
                       "H. McAlister",
-                      "P. Cuddy,C. Rahman"
+                      "P. Cuddy",
+                      "C. Rahman"
                     ]
                   },
                   {
                     "vote": "Absent:",
                     "voters": [
-                      "Mayor J. Morgan,S. Trosow"
+                      "Mayor J. Morgan",
+                      "S. Trosow"
                     ]
                   }
                 ],
@@ -425,7 +428,8 @@
                       "P. Van Meerbergen",
                       "H. McAlister",
                       "P. Cuddy",
-                      "S. Trosow,C. Rahman"
+                      "S. Trosow",
+                      "C. Rahman"
                     ]
                   },
                   {

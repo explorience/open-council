@@ -60,29 +60,56 @@
     "trendDirection": "declining"
   },
   "voting": {
-    "totalVotes": 6520,
-    "yeas": 6043,
-    "nays": 445,
-    "absent": 26,
-    "participationRate": 99.50920245398774,
-    "yeaRate": 93.14118372379778,
-    "contestedDissentRate": 5.558288243974422,
-    "contestedVotes": 6099,
-    "substantiveVotes": 6302,
-    "substantiveYeas": 5846,
-    "substantiveNays": 439,
-    "substantiveParticipationRate": 99.73024436686767,
-    "substantiveYeaRate": 93.0151153540175
+    "totalVotes": 6577,
+    "yeas": 6081,
+    "nays": 451,
+    "absent": 36,
+    "participationRate": 99.31579747605291,
+    "yeaRate": 93.09552969993877,
+    "contestedDissentRate": 5.648330058939096,
+    "contestedVotes": 6108,
+    "substantiveVotes": 6336,
+    "substantiveYeas": 5867,
+    "substantiveNays": 443,
+    "substantiveParticipationRate": 99.58964646464646,
+    "substantiveYeaRate": 92.97939778129953
   },
   "budgetVoting": {
-    "totalBudgetVotes": 1335,
-    "budgetYeas": 1118,
-    "budgetNays": 213,
+    "totalBudgetVotes": 1343,
+    "budgetYeas": 1125,
+    "budgetNays": 214,
     "budgetAbsent": 4
   },
   "topAlignments": [],
   "bottomAlignments": [],
   "notableDissents": [
+    {
+      "date": "2018-11-20",
+      "meetingTitle": null,
+      "itemTitle": "By-laws",
+      "motionText": "That Second Reading of Bill No.’s 617 and 631 BE APPROVED.",
+      "vote": "nay",
+      "result": "Motion Passed (9 to 4)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=c19d9690-bf35-4f36-b060-ae79a9a32134&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2018-11-20",
+      "meetingTitle": null,
+      "itemTitle": "By-laws",
+      "motionText": "That Third Reading and Enactment of Bill No.’s 617 and 631 BE APPROVED.",
+      "vote": "nay",
+      "result": "Motion Passed (9 to 4)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=c19d9690-bf35-4f36-b060-ae79a9a32134&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2018-11-06",
+      "meetingTitle": null,
+      "itemTitle": "(3.4) Application - 324 York Street (TZ-8917) (Relates to Bill No. 610)",
+      "motionText": "The motion to approve part a) is put: That, on the recommendation of the Managing Director, Planning and City Planner, the following actions be taken with respect to the application of Bradel Properti...",
+      "vote": "nay",
+      "result": "Motion Passed (11 to 2)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=c0233c2f-9459-4232-ac30-7780a482a08d&Agenda=PostMinutes&lang=English"
+    },
     {
       "date": "2018-09-25",
       "meetingTitle": null,
@@ -145,49 +172,22 @@
       "vote": "yea",
       "result": "Motion Failed (5 to 8)",
       "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b06e637c-71a8-4f2f-8d7e-2cc345dfbf1f&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2018-06-25",
-      "meetingTitle": null,
-      "itemTitle": "9th Report of the Governance Working Group",
-      "motionText": "Motion to approve part c), with the addition to direct the City Clerk to consult with the Civic Administration on the draft calendars.",
-      "vote": "nay",
-      "result": "Motion Passed (8 to 5)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b06e637c-71a8-4f2f-8d7e-2cc345dfbf1f&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2018-05-08",
-      "meetingTitle": null,
-      "itemTitle": "(2.1) Short Term Accommodations",
-      "motionText": "That Item 4.2 BE AMENDED in part c) to direct staff to hold a public participation meeting before the Community and Protective Services Committee on draft by-law amendments to a number of by-laws, to ...",
-      "vote": "yea",
-      "result": "Motion Failed (6 to 8)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=d246efa1-5a31-4d4a-ad74-2e0440213cbb&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2018-05-07",
-      "meetingTitle": null,
-      "itemTitle": "(ADDED) London Middlesex Housing Corporation Board of Directors Vacancies",
-      "motionText": "That the following actions be taken with respect to the London Middlesex Housing Corporation Board of Directors:\n\n\n\na)            the letter of resignation appended to the staff report dated May 7, 20...",
-      "vote": "nay",
-      "result": "Motion Passed (8 to 5)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=691a23eb-acf5-4a4e-bc63-44f0001d9807&Agenda=PostMinutes&lang=English"
     }
   ],
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 2582,
+      "totalVotes": 2590,
       "yeas": 2423,
-      "nays": 139,
-      "participationRate": 99.22540666150272
+      "nays": 144,
+      "participationRate": 99.11196911196912
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 1931,
+      "totalVotes": 1933,
       "yeas": 1669,
-      "nays": 262,
-      "participationRate": 100
+      "nays": 263,
+      "participationRate": 99.9482669425763
     },
     {
       "committee": "Planning and Environment Committee",
@@ -198,17 +198,17 @@
     },
     {
       "committee": "Corporate Services Committee",
-      "totalVotes": 308,
-      "yeas": 284,
+      "totalVotes": 326,
+      "yeas": 302,
       "nays": 12,
-      "participationRate": 96.1038961038961
+      "participationRate": 96.31901840490798
     },
     {
       "committee": "Civic Works Committee",
-      "totalVotes": 230,
-      "yeas": 226,
+      "totalVotes": 259,
+      "yeas": 246,
       "nays": 4,
-      "participationRate": 100
+      "participationRate": 96.52509652509652
     },
     {
       "committee": "Community and Protective Services Committee",
