@@ -132,6 +132,24 @@ interface VerifiedEntry {
   flags: string[];
   verdict: "confirmed" | "corrected" | "downgraded";
   verifierNote: string;
+  /** Fixed 2026-08-31 (transit-split gate item 1): explicit, corrections.json-
+   * sourced override for groupIntoDecisions' same-decision grouping. null
+   * (the default for every batch-verified entry) means "no override — use
+   * the normalized-title/business-case/date-window heuristic". Set only via
+   * a corrections.json {field: "decisionKey"} row for rows the heuristic
+   * gets wrong: five road-capacity motions under the Mobility Master Plan
+   * Mobility Networks Maps item (committee 2025-03-25 + council 2025-04-01,
+   * 7 days apart) all normalize to the SAME item title and fall inside the
+   * same 60-day window, so the title/date heuristic alone unions all five
+   * into one decision group — collapsing two genuinely distinct road
+   * decisions (the Wonderland Road six-laning EA restart, and the Roads
+   * Projects maps' Bradley Ave inclusion) into one, which then trips the
+   * opposite-direction ladder-exclusion and wipes both real decisions from
+   * every profile's tally. An explicit decisionKey is authoritative for the
+   * row it's set on: once present, that row groups ONLY with other rows
+   * sharing the identical key, never via the title/case/date heuristic (see
+   * groupIntoDecisions). */
+  decisionKey?: string | null;
 }
 
 /** Load every data/election/classify/batch-*-verified.json file into one
@@ -154,6 +172,11 @@ function loadVerifiedClassifications(): Map<string, VerifiedEntry> {
           `duplicate verified classification id ${e.id} (in ${f}) — classify batches must be disjoint`,
         );
       }
+      // Normalize the absent field to explicit null so applyCorrections'
+      // generic `entry[c.field] !== c.was` staleness check (which compares
+      // against a corrections.json `was: null`) doesn't see `undefined` and
+      // reject an otherwise-correct decisionKey correction as stale.
+      if (e.decisionKey === undefined) e.decisionKey = null;
       map.set(e.id, e);
     }
   }
@@ -177,7 +200,7 @@ function loadVerifiedClassifications(): Map<string, VerifiedEntry> {
 
 interface Correction {
   id: string;
-  field: "axis" | "polarity" | "whatAYeaDid";
+  field: "axis" | "polarity" | "whatAYeaDid" | "decisionKey";
   was: string | null;
   now: string | null;
   reason: string;
@@ -233,6 +256,18 @@ function applyCorrections(verified: Map<string, VerifiedEntry>): number {
         );
       }
       entry.polarity = c.now;
+    } else if (c.field === "decisionKey") {
+      // Transit-split gate item 1: an explicit, authoritative override for
+      // groupIntoDecisions' same-decision grouping (see VerifiedEntry.
+      // decisionKey doc comment above) — unlike axis/polarity, never
+      // legitimately null once set (a decisionKey correction exists
+      // precisely to ASSERT a decision identity, not to clear one).
+      if (typeof c.now !== "string" || c.now.length === 0) {
+        throw new Error(
+          `corrections.json: ${c.id}.decisionKey 'now' must be a non-empty string — got ${JSON.stringify(c.now)}`,
+        );
+      }
+      entry.decisionKey = c.now;
     } else {
       // Round-9 gate item 1: whatAYeaDid corrections fix the classification
       // layer's own free text in place of a specific defect (an
@@ -632,6 +667,9 @@ interface ClassifiedMotion {
    * entry so the reader sees why a "Failed" result sits alongside a yea
    * majority, instead of the row silently looking like an error. */
   resultNote: string | null;
+  /** See VerifiedEntry.decisionKey — carried through to each per-row
+   * evidence entry so groupIntoDecisions can honor it. */
+  decisionKey: string | null;
 }
 
 function main() {
@@ -840,6 +878,7 @@ function main() {
       resultNote: isSupermajorityFailure(motion)
         ? "failed — required a supermajority"
         : null,
+      decisionKey: entry.decisionKey ?? null,
     });
   }
 
@@ -1035,6 +1074,10 @@ function evidenceEntry(c: ClassifiedMotion, theirVote: VoteKind | "n/a") {
     // truly no verified description at all falls back to the placeholder.
     whatAYeaDid: c.direction.label || "unclear",
     movedToward: movedTowardText(theirVote, d, m.result),
+    // See VerifiedEntry.decisionKey / ClassifiedMotion.decisionKey —
+    // threaded through to each evidence row so groupIntoDecisions (which
+    // operates on evidence-row arrays, not ClassifiedMotion) can honor it.
+    decisionKey: c.decisionKey,
   };
 }
 
@@ -1273,7 +1316,15 @@ function buildPattern(
       sampleSize === distinctItemCount
         ? ""
         : ` (${sampleSize} recorded vote${sampleSize === 1 ? "" : "s"} across them)`;
-    const isAre = distinctItemCount === 1 ? "is" : "are";
+    // Fixed 2026-08-31 (transit-split gate item 5): "is"/"are" must agree
+    // with the sentence's own subject, "the individual vote(s)" — whose
+    // plurality is sampleSize (the vote count), not distinctItemCount (the
+    // decision count two sentences up). Keying isAre off distinctItemCount
+    // produced "The individual votes is listed below." whenever a single
+    // decision (distinctItemCount === 1) carried more than one recorded
+    // vote (sampleSize > 1) — e.g. a committee + council stage of the same
+    // decision, each a separate yea/nay row.
+    const isAre = sampleSize === 1 ? "is" : "are";
     return `Only ${distinctItemCount} distinct ${itemWord} since 2023${voteClause}${recusalAbsentClause(agg)} — too few to describe a pattern. The individual vote${sampleSize === 1 ? "" : "s"} ${isAre} listed below.`;
   }
 
@@ -1382,9 +1433,9 @@ function extractBusinessCaseKey(title: string): string | null {
  * rows never disagrees between the two checks by construction. Returns
  * arrays of original-array INDICES, one array per decision group
  * (including singleton groups for a row with no same-decision sibling). */
-function groupIntoDecisions<T extends { itemTitle: string; date: string }>(
-  rows: T[],
-): number[][] {
+function groupIntoDecisions<
+  T extends { itemTitle: string; date: string; decisionKey?: string | null },
+>(rows: T[]): number[][] {
   const n = rows.length;
   if (n === 0) return [];
   const parent = Array.from({ length: n }, (_, i) => i);
@@ -1404,8 +1455,24 @@ function groupIntoDecisions<T extends { itemTitle: string; date: string }>(
   const normalized = rows.map((r) => normalizeItemTitle(r.itemTitle));
   const caseKeys = rows.map((r) => extractBusinessCaseKey(r.itemTitle));
   const dates = rows.map((r) => Date.parse(r.date));
+  const decisionKeys = rows.map((r) => r.decisionKey ?? null);
   for (let i = 0; i < n; i++) {
     for (let j = i + 1; j < n; j++) {
+      // Fixed 2026-08-31 (transit-split gate item 1): an explicit
+      // decisionKey (see VerifiedEntry.decisionKey) is authoritative and
+      // opts a row OUT of the title/case/date heuristic entirely — it
+      // exists precisely for cases the heuristic gets wrong (five distinct
+      // road-capacity motions that all share one item title and meeting
+      // window). If either row carries a key, the pair unions only when
+      // BOTH carry the SAME key; it never falls through to title matching
+      // just because one side lacks a key (that would silently let an
+      // unkeyed row re-merge into a group the key was set up to split).
+      if (decisionKeys[i] !== null || decisionKeys[j] !== null) {
+        if (decisionKeys[i] !== null && decisionKeys[i] === decisionKeys[j]) {
+          union(i, j);
+        }
+        continue;
+      }
       if (Math.abs(dates[i] - dates[j]) > WINDOW_MS) continue;
       const titleMatch = normalized[i] === normalized[j];
       const caseMatch =
@@ -1687,6 +1754,16 @@ function writeStancesFile(
             anchorAmbiguous: boolean;
             theirVote: string;
             axisDirection: "for" | "against";
+            // Fixed 2026-08-31 (transit-split gate item 3): the ladder-
+            // exclusion bullet used to render ONLY itemTitle as its link
+            // text — for a decision group whose rows share one item title
+            // (the whole reason this render-shape exists), every bullet in
+            // the group came out identical with no way to tell which
+            // motion did what. Each row's own independently-verified
+            // whatAYeaDid text (same field the evidence table's own column
+            // uses) is carried through so the bullet can say what THIS
+            // specific motion did, not just where it lives.
+            whatAYeaDid: string;
           }[] = [];
           for (const group of groups) {
             const directions = new Set(
@@ -1706,6 +1783,7 @@ function writeStancesFile(
                   anchorAmbiguous: row.anchorAmbiguous,
                   theirVote: row.theirVote,
                   axisDirection: row.axisDirection,
+                  whatAYeaDid: row.whatAYeaDid,
                 });
               }
               ladderGroupIndex++;

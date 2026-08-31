@@ -149,6 +149,9 @@ interface AxisStance {
     anchorAmbiguous: boolean;
     theirVote: string;
     axisDirection: "for" | "against";
+    // Transit-split gate item 3: this row's own independently-verified
+    // whatAYeaDid text — see the matching field in generate-stances.ts.
+    whatAYeaDid: string;
   }[];
   evidence: EvidenceRow[];
 }
@@ -451,7 +454,13 @@ function renderLadderExclusions(axis: AxisStance): string {
             ex.anchorAmbiguous,
           );
           const theirVote = VOTE_LABEL[ex.theirVote] ?? ex.theirVote;
-          return `${theirVote} on ${link} (${formatDate(ex.date)}, counts as ${ex.axisDirection})`;
+          // Fixed 2026-08-31 (transit-split gate item 3): the link text
+          // alone (itemTitle) is identical for every row in a group whose
+          // motions share one agenda item — a reader could not tell one
+          // ladder-excluded motion from another. ex.whatAYeaDid is this
+          // row's own independently-verified description of what THIS
+          // motion did (same text the evidence table's own column shows).
+          return `${theirVote}: ${ex.whatAYeaDid} — ${link} (${formatDate(ex.date)}, counts as ${ex.axisDirection})`;
         })
         .join("; ");
       return `- ${parts}`;
