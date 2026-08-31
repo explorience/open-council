@@ -270,7 +270,15 @@ class Vote(Content):
     if not voters_cell or not voters_cell.contents:
       return  # Empty cell
 
-    voters = voters_cell.contents[0].replace(" and ", "").split(", ")
+    # eSCRIBE joins the last voter with "and" (with 0-2 spaces around it,
+    # and with or without an Oxford comma depending on era/rendering, e.g.
+    # "A, B, and C", "A, B,  and C", or "A and B"). Normalize any of those
+    # to a plain ", "-joined list before splitting. A naive
+    # `.replace(" and ", "")` (the historical bug) or
+    # `.replace(" and ", ", ")` both mis-split some of these variants -
+    # verify against test_vote_parsing.py before touching this line.
+    voters_text = re.sub(r",?\s+and\s+", ", ", voters_cell.contents[0])
+    voters = [v.strip() for v in voters_text.split(", ") if v.strip()]
 
     self.rows.append({
       "vote": vote,
