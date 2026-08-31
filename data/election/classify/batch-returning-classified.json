@@ -1,0 +1,896 @@
+[
+  {
+    "id": "e244dd248540",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have suspended the Council Procedure By-law's speaking-once provision for the June 17, 2026 Council meeting, to let members speak more than once to a motion; failed to reach the two-thirds majority a procedure-by-law suspension requires.",
+    "confidence": "high",
+    "quote": "That, pursuant to section 2.3 of the Council Procedure By-law, the speaking-once provision contained in section 9.7 of the Council Procedure By-law BE SUSPENDED for the Council meeting held on June 17, 2026, to permit members to speak more than once to a motion.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "de27b0d405ad",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have granted Councillor S. Trosow leave to move an emergent motion related to AMO's submission on Bill 5, the Protect Ontario by Unleashing our Economy Act, 2025; failed to reach the two-thirds majority required to grant leave for an emergent motion.",
+    "confidence": "high",
+    "quote": "That pursuant to section 20.1 of the Council Procedure By-law, leave be granted to allow Councillor S. Trosow to move a motion related to AMO's submission related to Bill 5, Protect Ontario by Unleashing our Economy Act, 2025.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "4c7617aa8c7a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have suspended the Council Procedure By-law's speaking-once and five-minute speaking-time limits for debate on the Master Accommodation Plan item; failed to reach the two-thirds majority a procedure-by-law suspension requires.",
+    "confidence": "high",
+    "quote": "That pursuant to section 2.3 of the Council Procedure By-law the rules of the said by-law BE SUSPENDED for the purpose of allowing members to speak more than once, and potentially in excess of five minutes, with respect to this matter.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "93cf1341956d",
+    "issue": "downtown",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Would have revised the Core Area Land and Building Vacancy Reduction Strategy to direct: facilitating quick conversion of vacant downtown floor plates deemed feasible for residential use; creating community/creative spaces (studios, galleries, rehearsal space, pop-up uses) in floor plates not suited to residential conversion; and considering adaptive reuse of vacant downtown lands and B/C-type structures for targeted uses such as R&D, film production, and digital services. Failed 4-8.",
+    "confidence": "medium",
+    "quote": "the above-noted Core Area Land and Building Vacancy Reduction Strategy BE REVISED to include the following: i) for buildings with floor plates that are deemed feasible for conversion to residential use, immediate actions be undertaken to facilitate the quick conversion of these areas; ii) for buildings with floor plates that are not deemed feasible for conversion to residential use; focus on creating spaces for local communities including studios, galleries, rehearsal and other creative spaces, and spaces for pop-up opportunities",
+    "flags": []
+  },
+  {
+    "id": "459571d81fed",
+    "issue": "climate",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Directed Civic Administration to add specific implementation actions to the Climate Emergency Action Plan (CEAP): deliver CEAP training to all current and future staff, bring a CEAP progress update to the Strategic Priorities and Policy Committee twice a year, develop a Net-Zero Emission Plan for Corporate Assets aimed at 2045 corporate targets, and align asset-management projects (retrofits, replacements, renewals) with those net-zero targets.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to include the following specific actions as part of the implementation of the Climate Emergency Action Plan (CEAP): i) develop and deliver CEAP training to all current and future staff...; ii) bring a CEAP update to SPPC twice a year...; iii) develop a Net-Zero Emission Plan for Corporate Assets to ensure Fleet & Facilities can achieve 2045 corporate targets...; iv) ensure that asset management projects such as retrofits, replacements, renewals, and rehabilitations of City infrastructure make significant and visible efforts to be in line with net zero emission 2045 corporate targets",
+    "flags": []
+  },
+  {
+    "id": "04ef20f344ee",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred part b)i) -- the request for a business case on a natural heritage lands purchasing strategy (including infrastructure-project compensation requirements) -- to Civic Administration to report back to committee with additional scoping details, rather than deciding on the business-case request now.",
+    "confidence": "high",
+    "quote": "That part b) i), related to the request for a business case for a purchasing natural heritage lands strategy (including compensation requirements for infrastructure projects) BE REFERRED to the Civic Administration in order to report back to the appropriate standing committee with additional scoping details.",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "0f1b08e86421",
+    "issue": "budget",
+    "axis": "business-case",
+    "polarity": "expansive",
+    "whatAYeaDid": "Directed Civic Administration to prepare a business case for the Coves Silver Creek Restoration Project (a New Funding, Existing Strategies item) for consideration during the 2024-2027 Multi-Year Budget deliberations.",
+    "confidence": "high",
+    "quote": "That the Civic Administration BE DIRECTED to prepare business cases for the following for consideration during the Multi-Year Budget deliberations: a) New Funding, Existing Strategies related to: i) Coves Silver Creek Restoration Project;",
+    "flags": []
+  },
+  {
+    "id": "86b1bf237179",
+    "issue": "budget",
+    "axis": "business-case",
+    "polarity": "expansive",
+    "whatAYeaDid": "Would have directed Civic Administration to prepare a business case for an Invasive Species Management Plan (a New Funding, Existing Strategies item) for consideration during the 2024-2027 Multi-Year Budget deliberations; failed 3-9.",
+    "confidence": "high",
+    "quote": "Motion to approve a) ii)\nii)  Invasive Species Management Plan;",
+    "flags": []
+  },
+  {
+    "id": "9547b52b37af",
+    "issue": "budget",
+    "axis": "business-case",
+    "polarity": "expansive",
+    "whatAYeaDid": "Would have directed Civic Administration to prepare a business case for reducing the frequency of grass cutting on city property (a Reduction Case) for consideration during the 2024-2027 Multi-Year Budget deliberations; failed 6-6.",
+    "confidence": "high",
+    "quote": "Motion to approve part c) ii)\nc) Reduction Cases:\nii)  Reduction in frequency of grass cutting on city property;",
+    "flags": []
+  },
+  {
+    "id": "9705aa6da1dc",
+    "issue": "budget",
+    "axis": "business-case",
+    "polarity": "expansive",
+    "whatAYeaDid": "Would have directed Civic Administration to prepare a business case for the Climate Emergency Action Plan (a New Funding, Existing Strategies item) for consideration during the 2024-2027 Multi-Year Budget deliberations; failed 3-9.",
+    "confidence": "high",
+    "quote": "Motion to approve a) iii)\niii) Climate Emergency Action Plan;",
+    "flags": []
+  },
+  {
+    "id": "5d65a79a8f55",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved changing the order of the Corporate Services Committee agenda so Items 6.1 and 6.2 (Confidential, Stage 6) would be considered right after Stage 1, Disclosures of Pecuniary Interest -- a scheduling change, not a policy decision.",
+    "confidence": "high",
+    "quote": "That, pursuant to section 27.6 of the Council Procedure By-law, a change in order of the Corporate Services Committee Agenda BE APPROVED, to provide for Items 6.1 and 6.2 in Stage 6, Confidential, to be considered after Stage 1, Disclosures of Pecuniary Interest.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "6bd1831c4a13",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved expropriating land required for the East London Link project and authorized the associated legal/administrative steps (application to the Council as approving authority, notice under the Expropriations Act, forwarding any hearing requests to the Ontario Land Tribunal, and introducing the enabling by-law).",
+    "confidence": "high",
+    "quote": "approval BE GIVEN to the expropriation of land as may be required for the East London Link Project, and that the following actions be taken in connection therewith: a) application be made by The Corporation of the City of London as Expropriating Authority to the Council of The Corporation of the City of London as approving authority, for the approval to expropriate the land required for the East London Link project;",
+    "flags": []
+  },
+  {
+    "id": "eff54431a239",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed Civic Administration to review the City's current parking and driveway-width policies for additional residential units, as a new clause added to the OZ-9581 Additional Residential Unit zoning amendments item -- a review request, not a specific parking/driveway standard.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to undertake a review of the current parking and driveway width policies in additional residential units;",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "04c7e4c30cd1",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing the by-law to rezone 129-131 Base Line Road West from Residential R9 to a Holding Residential R9 Special Provision zone (Z-9578), voted on as a clause separated out from the rest of the recommendation.",
+    "confidence": "high",
+    "quote": "the revised, attached, proposed by-law appended to the staff report dated May 23, 2023 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting on June 6, 2023, to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan for the City of London, 2016), to change the zoning of the subject lands FROM a Residential R9 (R9-7*H32) Zone TO a Holding Residential R9 Special Provision (h*R9-7(_)*H51) Zone;",
+    "flags": []
+  },
+  {
+    "id": "670fb392c44f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred Operation Smile Canada's proclamation-issuance application ('Longest Day of SMILES') back to staff for more information on the organization's connection to London; failed 2-12.",
+    "confidence": "high",
+    "quote": "That the application dated April 9, 2023 from Operation Smile Canada for \"Longest Day of SMILES\", BE REFERRED back to staff for further information regarding the organization's connection to London.",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "a619de739d13",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved, as amended at Council, item 5 clause 2.4 of the 8th Report of the Community and Protective Services Committee (Housing Collaborative Initiative Update). The committee-stage recommendation directed Civic Administration to align HCI project delivery with City project-management best practices, requested the HCI project Governance Group approve a legislative-change communication strategy and a revised set of project requirements, and requested quarterly HCI progress updates to Council. The exact wording of the council-level amendment is not captured in this record; only the base committee-stage motion could be verified.",
+    "confidence": "medium",
+    "quote": "That item 5, clause 2.4, as amended, BE APPROVED.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "10efee30d126",
+    "issue": "climate",
+    "axis": "target-strength",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Would have removed the requirement to use the Climate Emergency Screening Tool from the directive for Civic Administration to undertake an Industrial Land Needs Assessment; failed 6-9, leaving the screening-tool requirement in place.",
+    "confidence": "high",
+    "quote": "That the motion be amended in part d) by removing, \" which shall include the use of the Climate Emergency Screening Tool;\"",
+    "flags": []
+  },
+  {
+    "id": "730abd01f37c",
+    "issue": "climate",
+    "axis": "target-strength",
+    "polarity": "expansive",
+    "whatAYeaDid": "Directed Civic Administration to undertake an Industrial Land Needs Assessment that includes use of the Climate Emergency Screening Tool.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to undertake an Industrial Land Needs Assessment, which shall include the use of the Climate Emergency Screening Tool; and,",
+    "flags": []
+  },
+  {
+    "id": "4f5ea4ba9d7c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Set the London Police Services Board candidate interview process so interview questions would be presented to candidates by individual councillors through a set rotation -- a decision about the interview procedure, not a policing policy position.",
+    "confidence": "high",
+    "quote": "That interview questions BE PRESENTED to candidates by individual councillors, through a set rotation.",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "bea27da74ca1",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Set the London Police Services Board candidate interview process so interview questions would be provided to candidates in advance of their scheduled interviews -- a decision about the interview procedure, not a policing policy position.",
+    "confidence": "high",
+    "quote": "That the interview questions BE PROVIDED to candidates, in advance of the scheduled interviews.",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "ffb201358ddc",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred the Western Road and Sarnia Road/Philip Aziz Avenue Corridor and Intersection Improvements Environmental Study Report back to Civic Administration to address Civic Works Committee concerns, including pedestrian operations at the Western/Sarnia intersection; failed unanimously 0-15.",
+    "confidence": "high",
+    "quote": "That the Western Road and Sarnia Road/Philip Aziz Avenue Corridor and Intersection Improvements and Environmental Study Report, Notice of Completion, BE REFERRED back to Civic Administration, in order to consider the concerns raised by the Civic Works Committee, including but not limited to pedestrian operations at the Western Road and Sarnia Road Intersection.",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "a4abd9e1fa3c",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "expansive",
+    "whatAYeaDid": "Advised Civic Administration of Council's desire for the draft 2024-2027 Multi-Year Budget to include an average annual tax-levy increase of approximately 2.9%-3.9% to maintain existing service levels, plus an additional 0.5% for further investment, for planning purposes.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE ADVISED of the Council desire for Civic Administration to bring forward a draft 2024 to 2027 Multi-year budget with an average annual tax levy increase in the range of approximately 2.9% – 3.9% as identified to maintain existing service levels as well as additional investments of an additional 0.5% in funding for additional investment, for planning purposes;",
+    "flags": []
+  },
+  {
+    "id": "0336e9e6a987",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed Civic Administration to advertise the impending London Hydro Inc. board vacancies through a broader recruitment process, forward applications to the London Hydro Corporate Governance and Risk Management Committee for review, and take steps to formalize the new process in the Shareholder Agreement -- a board-appointment/recruitment-process decision, not a policy position on any tracked issue.",
+    "confidence": "high",
+    "quote": "the impending London Hydro Board vacancies, as outlined in the above-noted communication, BE ADVERTISED using the most recent approach of a broader recruitment process, as appropriate; it being noted that applications will be considered by the Municipal Council, as the Shareholder, at the Annual General Meeting;",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "af00b752ac42",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed Civic Administration to convene the first Governance Working Group meeting by May 18, 2023, and referred a set of council-governance policy matters to that working group for discussion -- including Agencies/Boards/Commissions participation and appointment-selection policy, a Budget Chair stipend policy, a Deputy Mayor compensation policy, and a councillor remuneration/full-time-compensation review -- for potential recommendations back to committee.",
+    "confidence": "high",
+    "quote": "That the Civic Administration BE DIRECTED to call the first meeting of the Governance Working Group no later than May 18, 2023 and the following matters BE REFERRED to the Governance Working Group for discussion and for potential recommendation(s) back to the Strategic Priorities and Policy Committee",
+    "flags": [
+      "referral",
+      "appointment"
+    ]
+  },
+  {
+    "id": "0e50da462d3b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have accepted the Western Road and Sarnia Road/Philip Aziz Avenue Corridor and Intersection Improvements Environmental Study Report, filed the Notice of Study Completion, and placed the report on the public record for a 30-day review; failed 2-3 at committee (the alternative referral motion passed instead).",
+    "confidence": "high",
+    "quote": "a)  the Environmental Study Report for the Western Road and Sarnia Road/Philip Aziz Avenue Corridor and Intersection Improvements BE ACCEPTED; b) a Notice of Study Completion for the Project BE FILED with the Municipal Clerk; and, c) the Environmental Study Report BE PLACED on the public record for a 30-day review period.",
+    "flags": []
+  },
+  {
+    "id": "4583e0abd1db",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred the Western Road and Sarnia Road/Philip Aziz Avenue Corridor and Intersection Improvements Environmental Study Report back to Civic Administration to address Civic Works Committee concerns, including pedestrian operations at the Western/Sarnia intersection.",
+    "confidence": "high",
+    "quote": "That the Western Road and Sarnia Road/Philip Aziz Avenue Corridor and Intersection Improvements and Environmental Study Report, Notice of Completion, BE REFERRED back to Civic Administration, in order to consider the concerns raised by the Civic Works Committee, including but not limited to pedestrian operations at the Western Road and Sarnia Road Intersection.",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "0de5ebf1dc59",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved introducing the by-law repealing the Members of Council Proof of COVID-19 Vaccination Policy.",
+    "confidence": "high",
+    "quote": "the by-law as appended to the staff report dated April 11, 2023 as Appendix “A” BE INTRODUCED at the Municipal Council meeting to be held on April 25, 2023 to repeal By-law No. CPOL.-407-321, and any amendments thereto, being “A by-law to adopt Members of Council Proof of COVID-19 Vaccination Policy”.",
+    "flags": []
+  },
+  {
+    "id": "74fa3e7f59f6",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred the matter of an appointment to the London Police Services Board -- including all 54 applications received -- to the Strategic Priorities and Policy Committee to determine a shortlist of 5 interview candidates, noting the process would have regard to the Reconciliation, Equity, Accessibility and Inclusion strategic focus area. A personnel/appointment-process decision, not a policing policy position.",
+    "confidence": "high",
+    "quote": "That the matter of an appointment to the London Police Services Board, including all fifty-four applications received, BE REFERRED to the Strategic Priorities and Policy Committee in order to determine a shortlist of 5 candidates for interviews; it being noted that interviews will be conducted by the Strategic Priorities and Policy Committee;",
+    "flags": [
+      "referral",
+      "appointment"
+    ]
+  },
+  {
+    "id": "de69e893bdf9",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the London Police Services Board appointment referral to add a note that the shortlisting process would have regard to the Reconciliation, Equity, Accessibility and Inclusion Strategic Area of Focus and the Truth and Reconciliation Commission's Calls to Action -- a procedural addition to the referral, not a new operative decision.",
+    "confidence": "high",
+    "quote": "That the proposed referral BE AMENDED by adding the following to the end of the clause, \"it being further noted that this process will be with regard to the Reconciliation, Equity, Accessibility and Inclusion Strategic Area of Focus in the 2023-2027 Strategic Plan and the Municipal-focused Truth and Reconciliation Commission's Calls to Action.\"",
+    "flags": [
+      "referral",
+      "appointment",
+      "procedural"
+    ]
+  },
+  {
+    "id": "8ef9149768dd",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the request to remove heritage attributes from 247 Halls Mill Road (demolition of an accessory building), subject to conditions protecting the existing foundation and requiring machinery-free debris removal.",
+    "confidence": "high",
+    "quote": "the request to remove heritage attributes from the property at 247 Halls Mill Road, pursuant to Section 34(1) of the Ontario Heritage Act, BE APPROVED subject to the following terms and conditions: a) the use of machinery be prohibited in the demolition or removal of the accessory building’s debris; b) the existing brick and rubble stone foundation shall be retained and be protected in situ until Municipal Council decision following receipt of the recommendation of the Conservation Review Board;",
+    "flags": []
+  },
+  {
+    "id": "b885e895012f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have approved the 247 Halls Mill Road heritage-attribute removal request without the conditions recommended by staff (foundation retention, machinery restriction); failed 7-8.",
+    "confidence": "high",
+    "quote": "That, notwithstanding the recommendation of the Director, Planning and Development, with the advice of the Heritage Planner, the request to remove heritage attributes from the property at 247 Halls Mill Road, pursuant to Section 34(1) of the Ontario Heritage Act, BE APPROVED.",
+    "flags": []
+  },
+  {
+    "id": "6b989391e04c",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing the by-law to rezone 614 Westmount Crescent from Residential (R1-9) to Residential R5 Special Provision (R5-5) for a LA-Rosa Community Ltd. townhouse development (Z-9553), with a list of urban-design/site-plan matters (height transition, tree protection, sidewalk installation, amenity space, etc.) flagged for the Site Plan Approval Authority.",
+    "confidence": "high",
+    "quote": "the proposed, revised, attached, by-law as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on April 4, 2023 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan for the City of London, 2016), to change the zoning of the subject property FROM a Residential (R1-9) Zone TO a Residential R5 Special Provision (R5-5(_)) Zone;",
+    "flags": []
+  },
+  {
+    "id": "56da0b282a71",
+    "issue": "encampments",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Amended the Housing and Homelessness strategic-area-of-focus section of the Draft 2023-2027 Strategic Plan (Outcome 3, Expected Result 3.1) to add a new Draft Strategy: applying an equity tool that considers people experiencing mobility poverty, consistent with The London Plan.",
+    "confidence": "low",
+    "quote": "the Strategic Area of Focus: Housing and Homelessness, Outcome 3, Expected Result 3.1, BE AMENDED in the 2023-2027 Strategic Plan, to add a new Draft Strategy e) \"apply the equity tool considering the people experiencing mobility poverty, consistent with The London Plan\".",
+    "flags": []
+  },
+  {
+    "id": "c1d069409d10",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have removed a commercial-vacancy metric (Metric b, 'sq. ft of commercial space occupied vs vacant, ground level and upper floors') from the Economic Growth, Culture and Prosperity section (Outcome 4, Expected Result 4.3) of the Draft 2023-2027 Strategic Plan; failed 7-7.",
+    "confidence": "high",
+    "quote": "the Strategic Area of Focus: Economic Growth, Culture and Prosperity, Outcome 4, Expected Result 4.3, Metric b) \"sq. ft of commercial space occupied vs vacant, ground level and upper floors, BE REMOVED from the 2023-2027 Strategic Plan\".",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "2d5719faac23",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved hearing housing-related delegations immediately, ahead of their scheduled place on the agenda -- a scheduling decision, not a housing policy position.",
+    "confidence": "high",
+    "quote": "That the delegations regarding housing BE APPROVED to be heard at this time.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "17532664fd8d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have approved the 864 Hellmuth Avenue Heritage Alteration Permit Application with a revised condition requiring a permeable paving option (gravel or permeable pavers) for the new driveway; failed 2-3.",
+    "confidence": "high",
+    "quote": "the applicant be required to use a permeable option, such as gravel or permeable pavers, for the paving material to reduce the environmental and heritage landscape impact of the new driveway; and,",
+    "flags": []
+  },
+  {
+    "id": "092fca35d312",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the Economic Growth, Culture, and Prosperity strategic-area-of-focus section (Outcome 1, Expected Result 1.1) of the Draft 2023-2027 Strategic Plan to add language on strengthening existing partnerships and introducing new ones supporting small/growing businesses, cultural and non-profit organizations, and entrepreneurs.",
+    "confidence": "high",
+    "quote": "the Strategic Area of Focus: Economic Growth, Culture, and Prosperity, Outcome 1, Expected Result 1.1, BE AMENDED in part a) \"Strengthen existing and introduce new partnerships and programs that support small and growing businesses, cultural and non-profit organizations, and entrepreneurs\".",
+    "flags": []
+  },
+  {
+    "id": "9b0ced7ff8cd",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have removed the 'Reconciliation, Equity and Inclusion' strategic area of focus from the Draft 2023-2027 Strategic Plan, reassigning its proposed Outcomes within the remaining strategic areas of focus; failed 4-9.",
+    "confidence": "high",
+    "quote": "That the strategic area of focus “Reconciliation, Equity and Inclusion” be removed from the 2023-2027 Strategic Plan, with the proposed Outcomes to be reassigned within the remaining strategic areas of focus.",
+    "flags": []
+  },
+  {
+    "id": "c0ce799340ac",
+    "issue": "encampments",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Amended the Draft 2023-2027 Strategic Plan's Housing and Homelessness section: removed Expected Result 2.4 (Outcome 2) and added a new Draft Strategy directing 'a program of proactive rental property compliance blitzes to protect the health and safety of tenants' under Outcome 1, Expected Result 1.1.",
+    "confidence": "medium",
+    "quote": "the Strategic Area of Focus: Housing and Homelessness, Outcome 2, Expected Result 2.4 BE REMOVED and Draft Strategy BE AMENDED to add a new part d) \"Implement a program of proactive rental property compliance blitzes to protect the health and safety of tenants\" under Outcome 1, Expected Result 1.1.",
+    "flags": []
+  },
+  {
+    "id": "e50d80567a17",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the Draft 2023-2027 Strategic Plan's Vision Statement to read: 'London is a sustainable city within a thriving region, committed to a vibrant culture, innovation and providing a safe, affordable, welcoming, and healthy future for today and for the next generation.'",
+    "confidence": "high",
+    "quote": "the Vision Statement BE AMENDED in the Draft Strategic Plan to read: \"London is a sustainable city within a thriving region, committed to a vibrant culture, innovation and providing a safe, affordable, welcoming, and healthy future for today and for the next generation.\"",
+    "flags": []
+  },
+  {
+    "id": "f8aa33605af1",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the Wellbeing and Safety strategic-area-of-focus section (Outcome 1, Expected Result 1.2) of the Draft 2023-2027 Strategic Plan to add a new part e): collaborating with volunteer-involved organizations to build on London's history of individual and corporate volunteerism.",
+    "confidence": "high",
+    "quote": "the Strategic Area of Focus: Wellbeing and Safety, Outcome 1, Expected Result 1.2, BE AMENDED to add a new part e) \"Collaborate with volunteer-involved organizations to build on London’s history of individual and corporate volunteerism\".",
+    "flags": []
+  },
+  {
+    "id": "a3765ca3c05a",
+    "issue": "budget",
+    "axis": "business-case",
+    "polarity": "expansive",
+    "whatAYeaDid": "Directed Civic Administration to develop a micromobility services business case, including bike share services, for inclusion in the 2024-2027 Multi-Year Budget process.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to develop a micromobility services business case, including bike share services, for inclusion in the 2024-2027 Multi-Year Budget process;",
+    "flags": []
+  },
+  {
+    "id": "be02e01cfa4a",
+    "issue": "encampments",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved an amendment directing Civic Administration to report back monthly to future standing committees on progress updates for the Whole of Community System Response to homelessness -- a reporting-cadence request, not a decision on the response's scale.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to report back monthly to future standing committees on progress updates;",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "66ca1770eede",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the Economic Growth, Culture, and Prosperity strategic-area-of-focus section (Expected Result 2.2, subsections a-e) of the Draft 2023-2027 Strategic Plan to incorporate the London Chamber of Commerce's suggested expected results and draft strategies.",
+    "confidence": "high",
+    "quote": "That Strategic Area of Focus Economic Growth, Culture, and Prosperity: Expected Result 2.2, BE AMENDED subsections a) through e) BE AMENDED in the Draft Strategic Plan by including London Chamber of Commerce's expected results and draft strategies.",
+    "flags": []
+  },
+  {
+    "id": "0c53add88983",
+    "issue": "encampments",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have added a new Draft Metric c) under the Housing and Homelessness strategic area of focus (Expected Result 2.2) to the Draft 2023-2027 Strategic Plan; the metric's own wording is not captured in the meeting record (the motion text stops after the metric label). Failed 4-9.",
+    "confidence": "low",
+    "quote": "That the Strategic Area of Focus: Housing and Homelessness, Expected Result 2.2, BE AMENDED in the Draft Strategic Plan by adding a new Draft Metric c)",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "1df6fbb00d8f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have added a new Draft Metric f), '# of hectares of naturalized parkland,' under the Wellbeing and Safety strategic area of focus (Expected Result 1.6) of the Draft 2023-2027 Strategic Plan; failed 4-8.",
+    "confidence": "high",
+    "quote": "That the Strategic Area of Focus: Wellbeing and Safety, Expected Result 1.6, BE AMENDED in the Draft Strategic Plan by adding a new Draft Metric f) # of hectares of naturalized parkland.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "8baa7b364d97",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have added a new Draft Metric d), '% of employees who say they are happy with their work and workplace,' under the Well-Run City strategic area of focus (Expected Result 3.1) of the Draft 2023-2027 Strategic Plan; failed 4-9.",
+    "confidence": "high",
+    "quote": "That the Strategic Area of Focus: Well-Run City, Expected Result 3.1, BE AMENDED in the Draft Strategic Plan by adding a new Draft Metric d) % of employees who say they are happy with their work and workplace.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "99a7585bc349",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have removed two draft metrics (Expected Result 1.6 Draft Metric c, and Expected Result 1.7 Draft Metric a) from the Wellbeing and Safety section of the Draft 2023-2027 Strategic Plan; failed 6-6.",
+    "confidence": "medium",
+    "quote": "That the Strategic Area of Focus: Wellbeing and Safety, Expected Result 1.6, Draft Metric c) and Expected Result 1.7, Draft Metric a) BE REMOVED from the Draft Strategic Plan.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "9e1607333432",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have added a new Draft Metric b), '% of residents who indicate they are happy or very happy,' under the Wellbeing and Safety strategic area of focus (Expected Result 1.3) of the Draft 2023-2027 Strategic Plan; failed 5-8.",
+    "confidence": "high",
+    "quote": "That the Strategic Area of Focus: Wellbeing and Safety, Expected Result 1.3, BE AMENDED in the Draft Strategic Plan by adding a new Draft Metric b) % of residents who indicate they are happy or very happy.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "a01600ddb427",
+    "issue": "climate",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have added a new Draft Metric i), 'grade level for watershed,' under the Climate Action and Sustainable Growth strategic area of focus (1.2) of the Draft 2023-2027 Strategic Plan; failed 6-7.",
+    "confidence": "high",
+    "quote": "That the Strategic Area of Focus: Climate Action and Sustainable Growth 1.2, BE AMENDED in the Draft Strategic Plan by adding a new Draft Metric i) grade level for watershed.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "4d53764b60c7",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved introducing by-laws establishing an Electric Kick-Scooter and Cargo Power-assisted Bicycle pilot project (for use on highways and in bicycle lanes, not sidewalks) and amending the related traffic/parking, streets, parks, and administrative-penalty by-laws.",
+    "confidence": "high",
+    "quote": "the proposed by-law, as appended to the above noted staff report, BE INTRODUCED at the Municipal Council meeting being held March 7, 2023 to establish a Pilot Project for Electric Kick Scooters and for Cargo Powered-Assisted, for use on highways and bicycle lanes (not sidewalks) in the City of London;",
+    "flags": []
+  },
+  {
+    "id": "950e2a392a63",
+    "issue": "encampments",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing the by-law adopting the standard-form Municipal Purchase of Service Agreement for buying homeless-prevention and housing-stability services, and delegated authority to the Deputy City Manager, Social and Health Development to execute and amend such agreements within existing budget and without increasing the City's indebtedness.",
+    "confidence": "high",
+    "quote": "approve the Municipal Purchase of Service Agreement, as appended to the above-noted by-law, as the standard form of agreement with respect to the purchase of homeless prevention and housing stability services by The Corporation of the City of London; and,",
+    "flags": []
+  },
+  {
+    "id": "7346985bd070",
+    "issue": "transit",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved awarding the Rapid Transit Implementation contract (Wellington Street, Queens Avenue to the Thames River South Branch) to Bre-Ex Construction Inc. at $28,540,331.45, despite the bid exceeding the Downtown Loop Phase 3 project budget (an irregular result), and authorized the related inspection, financing, and administrative acts.",
+    "confidence": "high",
+    "quote": "the bid submitted by Bre-Ex Construction Inc., at its tendered price of $28,540,331.45 (excluding HST), for the Rapid Transit Implementation – Wellington Street from Queens Avenue to the Thames River (South Branch) project, BE ACCEPTED in accordance with the Procurement of Goods and Services Policy Section 8.10 (a) and 13.2 (b); it being noted that this is an irregular result because the cost exceeds the project budget for the Downtown Loop Phase 3 project;",
+    "flags": []
+  },
+  {
+    "id": "bd958457f861",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have amended the 2023-2027 Strategic Plan process so all three Draft Value sets (rather than one) would go forward for additional public consultation; failed 5-10.",
+    "confidence": "high",
+    "quote": "That item 4, clause 4.2 BE AMENDED in part c) to read as follows: c)  that all three Draft Value sets, BE ACCEPTED for additional consultation with the public;",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "d5d592483d76",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Selected one specific Draft Value set (Inclusive and Respectful; Accountability and Trust; Compassion; Teamwork; Committed and Driven; Learning) to go forward for additional public consultation on the 2023-2027 Strategic Plan.",
+    "confidence": "high",
+    "quote": "c)    the following Draft Value set, BE ACCEPTED for additional consultation with the public: 2.    Inclusive and Respectful Accountability and Trust Compassion Teamwork Committed and Driven Learning",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "cacc4eabf8e7",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing the by-law to rezone 489 Upper Queen Street from Residential (R1-9) to Residential Special Provision (R5-7), citing conformity with the Provincial Policy Statement and The London Plan, appropriate intensity for the site, and redevelopment of an underutilized, vacant Built-Area-Boundary site.",
+    "confidence": "high",
+    "quote": "the proposed by-law appended to the staff report dated January 30, 2023 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on February 14, 2023, to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan for the City of London, 2016), to change the zoning of the subject property FROM a Residential (R1-9) Zone TO a Residential Special Provision (R5-7(_)) Zone;",
+    "flags": []
+  },
+  {
+    "id": "a4044aae6238",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred the 608 Commissioners Road West rezoning application (Z-9516) back to Civic Administration to work with the applicant on a revised by-law reducing the maximum height to four storeys and maximum density to sixty-four units; failed 5-10.",
+    "confidence": "high",
+    "quote": "That the application for 608 Commissioners Road West (Z-9516) BE REFERRED back to the Civic Administration, in order to work with the applicant and bring forward a revised proposed by-law that would reduce the proposed maximum height to four stories and a maximum density of sixty-four units.",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "c699eb9cc94f",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved, as amended, item 11 clause 3.5 of the underlying committee report: introducing the by-law to rezone 608 Commissioners Road West (Z-9516) from Residential (R1-9) to Residential R8 Special Provision (R8-4) for the Zelinka Priamo/Copia Developments application, after the preceding motion to send the application back for reduced height/density had failed.",
+    "confidence": "high",
+    "quote": "That item 11, clause 3.5, as amended, BE APPROVED.",
+    "flags": []
+  },
+  {
+    "id": "ad0f2860602f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Declared a portion of City-owned property at 641 Queens Avenue surplus and directed it be offered for sale under the City's Sale and Other Disposition of Land Policy.",
+    "confidence": "high",
+    "quote": "a)    the Subject Property BE DECLARED SURPLUS; and, b)    the Subject Property BE OFFERED for sale in accordance with the City’s Sale and Other Disposition of Land Policy.",
+    "flags": []
+  },
+  {
+    "id": "f195645ca714",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred the declaration of part of 641 Queens Avenue as surplus back to Civic Administration to provide notice to agencies that had not been notified about the potential disposition, with a report back to a future committee meeting; failed 6-9.",
+    "confidence": "high",
+    "quote": "That the matter of the declaration of the property located at Part of 641 Queens Avenue as surplus, BE REFERRED back to the Civic Administration in order to provide notice to agencies within the City that have not been notified about the potential disposition, with a report back to a future meeting of the Corporate Services Committee.",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "1b0706b75a71",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the property acquisition at 249 Wellington Road for the Wellington Gateway Project (future road improvements): accepted a $445,200 purchase offer from the vendor and approved the financing set out in the Source of Financing Report, as part of the 4th Report of Council in Closed Session.",
+    "confidence": "high",
+    "quote": "the offer submitted by James Alexander Phin (the “Vendor”), to sell the subject property to the City, for the sum of $445,200.00 BE ACCEPTED, subject to the terms and conditions as set out in the agreement attached as Appendix “C”; and b)    the financing for this acquisition BE APPROVED as set out in the Source of Financing Report attached hereto as Appendix “A”.",
+    "flags": []
+  },
+  {
+    "id": "3f89c4b8843b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved hearing a delegation from the London Development Institute (M. Wallace) immediately, ahead of its scheduled place on the agenda for the Housing Pledge item -- a scheduling decision, not a housing policy position.",
+    "confidence": "high",
+    "quote": "That the delegation request from Mr. M. Wallace, London Development Institute (LDI), BE APPROVED to be heard at this time.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "56e0acb80e48",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the Draft Vision Statement in the 2023-2027 Strategic Plan to remove the words 'and overcoming challenges.'",
+    "confidence": "high",
+    "quote": "That the Draft Vision Statement BE AMENDED to remove the words \"and overcoming challenges\" to read as follows: London is a sustainable city within a thriving region, committed to innovation and providing a safe, affordable, welcoming, and healthy future for today and for the next generation.",
+    "flags": []
+  },
+  {
+    "id": "e9bc755a8186",
+    "issue": "transit",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved awarding the Rapid Transit Implementation contract (Wellington Street, Queens Avenue to the Thames River South Branch) to Bre-Ex Construction Inc. at $28,540,331.45, despite the bid exceeding the Downtown Loop Phase 3 project budget (an irregular result), and authorized the related inspection, financing, and administrative acts. (Committee-stage vote; the same recommendation returned to Council as item 8.2.6.)",
+    "confidence": "high",
+    "quote": "the bid submitted by Bre-Ex Construction Inc., at its tendered price of $28,540,331.45 (excluding HST), for the Rapid Transit Implementation – Wellington Street from Queens Avenue to the Thames River (South Branch) project, BE ACCEPTED in accordance with the Procurement of Goods and Services Policy Section 8.10 (a) and 13.2 (b);",
+    "flags": []
+  },
+  {
+    "id": "498b4ae404bf",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred revised proposed Exotic Animal Establishments by-laws, and the delegation requests received on them, to a future Community and Protective Services Committee meeting for a public participation meeting.",
+    "confidence": "high",
+    "quote": "the revised attached proposed by-laws, BE REFERRED to a future meeting of the Community and Protective Services Committee for a public participation meeting; and,",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "776dfdcda79f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved amending draft Exotic Animal Establishments by-law PH-3, part a), to cap the indoor area covered at 35,000 square feet, for the property at 785 Wonderland Road South.",
+    "confidence": "high",
+    "quote": "Motion to approve a proposed amendment to By-law PH-3, part a) to read, “a)  up to 35,000 square feet indoors of the property located at 785 Wonderland Road South.",
+    "flags": []
+  },
+  {
+    "id": "fb7023a739e9",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred the declaration of part of 641 Queens Avenue as surplus back to Civic Administration to provide notice to agencies that had not been notified about the potential disposition, with a report back to a future committee meeting. (Committee-stage vote; the same motion returned to Council as item 8.7.5.)",
+    "confidence": "high",
+    "quote": "That the matter of the declaration of the property located at Part of 641 Queens Avenue as surplus, BE REFERRED back to the Civic Administration in order to provide notice to agencies within the City that have not been notified about the potential disposition, with a report back to a future meeting of the Corporate Services Committee.",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "2debd88e147d",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing the by-law to rezone 489 Upper Queen Street from Residential (R1-9) to Residential Special Provision (R5-7), citing conformity with the Provincial Policy Statement and The London Plan and redevelopment of an underutilized, vacant Built-Area-Boundary site. (Committee-stage vote; the same recommendation returned to Council as item 8.6.10.)",
+    "confidence": "high",
+    "quote": "the proposed by-law appended to the staff report dated January 30, 2023 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on February 14, 2023, to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan for the City of London, 2016), to change the zoning of the subject property FROM a Residential (R1-9) Zone TO a Residential Special Provision (R5-7(_)) Zone;",
+    "flags": []
+  },
+  {
+    "id": "7c12069f2f9b",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing the by-law to rezone 608 Commissioners Road West from Residential (R1-9) to Residential R8 Special Provision (R8-4) for the Zelinka Priamo/Copia Developments application, citing conformity with the Provincial Policy Statement and The London Plan and alignment with the Housing Stability Action Plan's affordable-housing goals.",
+    "confidence": "high",
+    "quote": "the proposed by-law appended to the staff report dated January 30, 2023 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on February 14, 2023 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan for the City of London, 2016), to change the zoning of the subject property FROM a Residential (R1-9) Zone TO a Residential R8 Special Provision (R8-4(_)) Zone;",
+    "flags": []
+  },
+  {
+    "id": "b18982431ad1",
+    "issue": "budget",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Would have amended Budget Amendment #P-1 to redirect the $225,000 earmarked for Downtown Tree Planting to tree-planting efforts city-wide instead (same total amount, redirected in scope, not a net levy change); failed 7-7.",
+    "confidence": "medium",
+    "quote": "That Budget Amendment #P-1 BE AMENDED to re-allocate the $225,000 for Downtown Tree Planting and retain for tree planting efforts across the city",
+    "flags": []
+  },
+  {
+    "id": "000f08211725",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred consideration of Budget Amendment Case #P-15 -- a proposed $250,000 increase to the Neighbourhood Decision Making Program -- to the next Multi-Year Budget process (2024-2027), rather than deciding it in the 2023 update.",
+    "confidence": "high",
+    "quote": "That consideration of Budget Amendment P-15 BE REFERRED to the next multi-year budget process 2024-2027 Case #P-15 - Neighbourhood Strategic Initiatives and Funding - Increase to Neighbourhood Decision Making Program - Operating Expenditure $250,000; Tax Levy $250,000",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "070efd97b686",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Approved Budget Amendment Case #P-11: reduced the tax levy and operating budget by $200,000 by cutting Horticulture Aesthetics service levels within Parks and Horticulture.",
+    "confidence": "high",
+    "quote": "Case #P-11 - Parks and Horticulture - Reduction in Horticulture Aesthetics - Operating Expenditure ($200,000); Tax Levy ($200,000) BE APPROVED;",
+    "flags": []
+  },
+  {
+    "id": "192cc16c866a",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Would have reduced the tax levy and operating budget by $250,000 by cutting the Neighbourhood Playground Program within Community Recreation and Leisure Programs; failed unanimously 0-14 (program funding retained).",
+    "confidence": "high",
+    "quote": "Case #P-12 - Community Recreation and Leisure Programs - Reduction to Neighbourhood Playground Program - Operating Expenditure ($250,000); Tax Levy ($250,000) BE APPROVED;",
+    "flags": []
+  },
+  {
+    "id": "3e356dd3852a",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Amended Budget Amendment Case #P-17 (Capital Financing -- Reduction to a previously approved Infrastructure Gap Reserve Fund contribution) to set the reduction amount at $475,000.",
+    "confidence": "medium",
+    "quote": "That Budget Amendment Case #P-17 BE AMENDED to be in the amount of ($ 475,000).",
+    "flags": []
+  },
+  {
+    "id": "67e8f0bb6a90",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred consideration of Business Case #P-13 -- a proposed $8,000 reduction from eliminating printing of Council agenda materials -- to the next Multi-Year Budget process (2024-2027).",
+    "confidence": "high",
+    "quote": "That consideration of Business Case #P-13 - Information Technology - Eliminate Printing of Council Agenda Materials - Operating Expenditure ($8,000); Tax Levy ($8,000) BE REFERRED to the next multi-year budget process, 2024.to 2027.",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "75a10636d5f6",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Would have reduced previously approved additional investment in winter maintenance by $740,000 (cutting the operating budget and tax levy by the same amount); failed 5-9.",
+    "confidence": "high",
+    "quote": "Motion to approve Budget Amendment Case #P-10c – Reduce previously approved additional investment in winter maintenance – Operating Expenditure ($740,000); Tax Levy ($740,000)",
+    "flags": []
+  },
+  {
+    "id": "950b21d6cef5",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Reduced annual walkway maintenance funding by $60,000 (cutting the operating budget and tax levy by the same amount).",
+    "confidence": "high",
+    "quote": "Motion to approve Budget Amendment Case #P-10b – Reduce annual walkway maintenance – Operating Expenditure ($60,000); Tax Levy ($60,000)",
+    "flags": []
+  },
+  {
+    "id": "b7f876655a41",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved, as amended, Budget Amendment Case #P-16: added $100,000 in new operating funding (and a matching tax-levy increase) for the Hamilton Road Business Improvement Area, and directed that general tax-levy funding to Business Improvement Areas be reviewed during future multi-year budget processes and in this term of Council in 2026.",
+    "confidence": "high",
+    "quote": "g)    Case #P-16 - Community Improvement/BIA - Funding for the Hamilton Road BIA - Operating Expenditure $100,000; Tax Levy $100,000 BE APPROVED; and that the general tax levy funding to Business Improvement Areas BE REVIEWED in conjunction with the consideration of future multi-year budgets, and during this term of Council in 2026.",
+    "flags": []
+  },
+  {
+    "id": "fd27307f45a8",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Approved Budget Amendment Case #P-17 (as amended to $475,000): reduced the Infrastructure Gap Reserve Fund contribution under Capital Financing by $475,000, cutting the operating budget and tax levy by the same amount.",
+    "confidence": "high",
+    "quote": "That the amended Budget Amendment Case #P-17, in the amount of ($475,00), BE APPROVED h)    Case #P-17 - Capital Financing - Reduction to Previously Approved \"For Consideration\" Business Case - Infrastructure Gap RF Contribution - Operating Expenditure ($475,000); Tax Levy ($475,000).",
+    "flags": []
+  },
+  {
+    "id": "bb3d5775c299",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the draft 'Wellbeing and Safety' strategic focus (Outcome 1, Expected Results, part e) in the 2023-2027 Strategic Plan by removing the words 'noise reduction.'",
+    "confidence": "high",
+    "quote": "That the draft \"Wellbeing and Safety\" strategic focus BE AMENDED in Outcome 1, Expected Results, part e) by removing the words \"noise reduction\".",
+    "flags": []
+  },
+  {
+    "id": "d0cbb048480e",
+    "issue": "transit",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved Expected Result e) of the Wellbeing and Safety strategic focus area (Outcome 1) in the Draft 2023-2027 Strategic Plan: 'Improved traffic safety, traffic calming' -- an aspirational plan statement, not a specific traffic-calming project.",
+    "confidence": "medium",
+    "quote": "That the draft \"Wellbeing and Safety\" strategic focus Outcome 1, Expected Results, part e) of Outcome 1, BE APPROVED. e)  Improved traffic safety, traffic calming",
+    "flags": []
+  },
+  {
+    "id": "60d4ecbbfe78",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have amended the 634 Commissioners Road West recommendation to add a new part b)viii) requesting Civic Administration further review the Tree Preservation Plan, specifically with respect to the locust tree; failed 2-3.",
+    "confidence": "high",
+    "quote": "Motion to amend the recommendation to include a new part b) viii), request the Civic Administration review the Tree Preservation Plan further, specifically with respect to the locust tree;",
+    "flags": [
+      "informational_ask"
+    ]
+  }
+]
