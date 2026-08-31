@@ -5,18 +5,18 @@ slug: "d-ferreira"
 meetingCount: 240
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 3453
-votesYea: 2744
-votesNay: 389
-votesAbsent: 141
+totalVotes: 4038
+votesYea: 3224
+votesNay: 417
+votesAbsent: 144
 votesRecused: 1
-votesAbstained: 0
-votesOther: 178
+votesAbstained: 4
+votesOther: 248
 attendanceRate: 97.5
-participationRate: 90.7
-yeaRate: 87.6
-contestedDissentRate: 27.2
-contestedVotes: 1396
+participationRate: 90.2
+yeaRate: 88.5
+contestedDissentRate: 27.1
+contestedVotes: 1524
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,13 +33,13 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 3,453 |
-| Voted Yea | 2,744 (79.5%) |
-| Voted Nay | 389 (11.3%) |
-| Absent | 141 (4.1%) |
+| Total Votes | 4,038 |
+| Voted Yea | 3,224 (79.8%) |
+| Voted Nay | 417 (10.3%) |
+| Absent | 144 (3.6%) |
 | Recused (conflict of interest) | 1 (0.0%) |
-| Abstained | 0 (0.0%) |
-| Other/Unrecorded | 178 (5.2%) |
+| Abstained | 4 (0.1%) |
+| Other/Unrecorded | 248 (6.1%) |
 
 *Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
 
@@ -50,17 +50,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,179 |
-| Voted Yea | 1,630 (84.0%) |
-| Voted Nay | 310 (16.0%) |
+| Substantive Votes | 2,589 |
+| Voted Yea | 1,939 (85.3%) |
+| Voted Nay | 335 (14.7%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 27.2%
-- **Contested Votes**: 1,396
+- **Dissent Rate**: 27.1%
+- **Contested Votes**: 1,524
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -71,9 +71,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 335 |
-| Voted Yea | 247 (75.5%) |
-| Voted Nay | 80 (24.5%) |
+| Budget Votes | 394 |
+| Voted Yea | 301 (78.0%) |
+| Voted Nay | 85 (22.0%) |
 | Absent | 8 |
 
 
@@ -94,14 +94,14 @@ prefillQuestions:
 ## Voting Alignment
 
 **Most aligned with:**
-- Anna Hopkins (93.7%)
-- Skylar Franke (93.0%)
-- Hadleigh McAlister (92.1%)
+- Anna Hopkins (94.2%)
+- Skylar Franke (93.6%)
+- Hadleigh McAlister (93.0%)
 
 **Least aligned with:**
-- Susan Stevenson (77.9%)
-- Paul Van Meerbergen (81.7%)
-- Steve Hillier (85.8%)
+- Susan Stevenson (81.3%)
+- Paul Van Meerbergen (82.9%)
+- Steve Hillier (86.4%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -110,11 +110,11 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 1,908 | 1,596 | 232 | 95.8% |
-| Strategic Priorities and Policy Committee | 794 | 527 | 75 | 75.8% |
-| Community and Protective Services Committee | 432 | 384 | 32 | 96.3% |
+| Council | 2,119 | 1,795 | 241 | 96.1% |
+| Strategic Priorities and Policy Committee | 1,084 | 729 | 91 | 75.6% |
+| Community and Protective Services Committee | 468 | 417 | 35 | 96.6% |
 | Budget Committee | 189 | 139 | 50 | 100.0% |
-| Corporate Services Committee | 75 | 46 | 0 | 61.3% |
+| Corporate Services Committee | 123 | 92 | 0 | 74.8% |
 | Civic Works Committee | 55 | 52 | 0 | 94.5% |
 
 

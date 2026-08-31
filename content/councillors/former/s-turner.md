@@ -5,18 +5,18 @@ slug: "s-turner"
 meetingCount: 417
 yearsActive: "2014 - 2022"
 isCurrent: false
-totalVotes: 5767
-votesYea: 4955
-votesNay: 316
-votesAbsent: 107
-votesRecused: 177
-votesAbstained: 11
-votesOther: 201
+totalVotes: 8301
+votesYea: 6959
+votesNay: 570
+votesAbsent: 335
+votesRecused: 201
+votesAbstained: 13
+votesOther: 223
 attendanceRate: 90.2
-participationRate: 91.4
-yeaRate: 94.0
-contestedDissentRate: 7.6
-contestedVotes: 3570
+participationRate: 90.7
+yeaRate: 92.4
+contestedDissentRate: 12.3
+contestedVotes: 4170
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,13 +33,13 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 5,767 |
-| Voted Yea | 4,955 (85.9%) |
-| Voted Nay | 316 (5.5%) |
-| Absent | 107 (1.9%) |
-| Recused (conflict of interest) | 177 (3.1%) |
-| Abstained | 11 (0.2%) |
-| Other/Unrecorded | 201 (3.5%) |
+| Total Votes | 8,301 |
+| Voted Yea | 6,959 (83.8%) |
+| Voted Nay | 570 (6.9%) |
+| Absent | 335 (4.0%) |
+| Recused (conflict of interest) | 201 (2.4%) |
+| Abstained | 13 (0.2%) |
+| Other/Unrecorded | 223 (2.7%) |
 
 *Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
 
@@ -50,17 +50,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 4,713 |
-| Voted Yea | 4,066 (93.3%) |
-| Voted Nay | 294 (6.7%) |
+| Substantive Votes | 6,090 |
+| Voted Yea | 5,110 (91.5%) |
+| Voted Nay | 476 (8.5%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 7.6%
-- **Contested Votes**: 3,570
+- **Dissent Rate**: 12.3%
+- **Contested Votes**: 4,170
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -71,10 +71,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 725 |
-| Voted Yea | 608 (88.0%) |
-| Voted Nay | 83 (12.0%) |
-| Absent | 13 |
+| Budget Votes | 932 |
+| Voted Yea | 771 (86.8%) |
+| Voted Nay | 117 (13.2%) |
+| Absent | 18 |
 
 
 ## Attendance
@@ -95,10 +95,10 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 2,133 | 1,807 | 145 | 91.5% |
-| Planning and Environment Committee | 1,934 | 1,860 | 52 | 98.9% |
-| Strategic Priorities and Policy Committee | 1,678 | 1,274 | 118 | 83.0% |
-| Civic Works Committee | 22 | 14 | 1 | 68.2% |
+| Council | 3,388 | 2,802 | 315 | 92.0% |
+| Planning and Environment Committee | 2,658 | 2,447 | 69 | 94.7% |
+| Strategic Priorities and Policy Committee | 2,162 | 1,639 | 183 | 84.3% |
+| Civic Works Committee | 93 | 71 | 3 | 79.6% |
 
 
 ## Notable Dissenting Votes
@@ -113,77 +113,77 @@ prefillQuestions:
 
 Voted **Nay** - Motion Passed (8 to 7)
 
-### 2022-05-03: G.F. Stewart, Integrity Commissioner, City of London - Report to City Council: Code of Conduct - Councillor M. van Holst - Vaccination Policy
+### 2022-09-06: (4.2) 1067, 1069 and 1071 Wellington Road (OZ-9263 / Z-9264) (Relates to Bill No's. 342 and 354)
 
-[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=8ce5f98b-7e95-45c9-9fec-a83ed4f1e785&Agenda=PostMinutes&lang=English)
+[12th Meeting of City Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=5b668cb2-9f07-452e-ae47-87a34f924a19&Agenda=PostMinutes&lang=English)
 
-> Motion to approve part d) d)    Councillor M. van Holst BE REPRIMANDED for his contraventions of the Code of Conduct as noted in part c), above.
+> That the following actions be taken with respect to the application by Century Centre Development Inc., relating to the properties located at 1067, 1069 and 1071 Wellington Road: a)    the proposed, a...
 
-Voted **Yea** - Motion Failed (7 to 7)
+Voted **Nay** - Motion Passed (10 to 5)
 
-### 2022-05-03: (5.2) Clause 4.2 of the 2nd Report of the Animal Welfare Advisory Committee	
+### 2022-09-06: By-laws
 
-[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=8ce5f98b-7e95-45c9-9fec-a83ed4f1e785&Agenda=PostMinutes&lang=English)
+[12th Meeting of City Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=5b668cb2-9f07-452e-ae47-87a34f924a19&Agenda=PostMinutes&lang=English)
 
-> That the proposed amendment, as amended, BE APPROVED: That clause 5.2 of the 6th Report of the CPSC BE AMENDED to add the following new part b): b)       the Civic Administration BE DIRECTED to bring ...
-
-Voted **Nay** - Motion Passed (5 to 9)
-
-### 2022-04-12: (4.2) 2022 Rock the Park One-Time Policy Exemption Request (Relates to Bill No. 167)
-
-[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b95eaa76-5012-4120-bfef-0c51101bc560&Agenda=PostMinutes&lang=English)
-
-> That the proposed by-law, as appended to the staff report, dated March 29, 2022, BE INTRODUCED at the Municipal Council meeting to be held on April 12, 2022, to amend By-law No. CPOL-142-394 being a b...
-
-Voted **Nay** - Motion Passed (12 to 1)
-
-### 2022-04-12: By-laws
-
-[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b95eaa76-5012-4120-bfef-0c51101bc560&Agenda=PostMinutes&lang=English)
-
-> That introduction and first reading of Bill No. 167, BE APPROVED.
-
-Voted **Nay** - Motion Passed (12 to 1)
-
-### 2022-04-12: By-laws
-
-[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b95eaa76-5012-4120-bfef-0c51101bc560&Agenda=PostMinutes&lang=English)
-
-> That second reading of Bill No. 167, BE APPROVED.
-
-Voted **Nay** - Motion Passed (12 to 1)
-
-### 2022-04-12: By-laws
-
-[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b95eaa76-5012-4120-bfef-0c51101bc560&Agenda=PostMinutes&lang=English)
-
-> That third reading and enactment of Bill No. 167, BE APPROVED.
-
-Voted **Nay** - Motion Passed (12 to 1)
-
-### 2022-03-22: (4.1) Development Charge Area Rating Policy Review – Recommended Approach
-
-[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=de8a9b84-5106-497b-b010-8f2bdd5a86cf&Agenda=PostMinutes&lang=English)
-
-> Motion to approve parts a) and b): That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken: a)    The attached memorandum from Hemson Consulting (Appen...
-
-Voted **Nay** - Motion Passed (12 to 1)
-
-### 2022-02-15: (2.2) Considerations and Viability to Implement a Vacant Home Tax in London
-
-[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=e237088e-eef7-42cd-9e87-2808fea4225b&Agenda=PostMinutes&lang=English)
-
-> That part b), of clause 2.2, as amended BE APPROVED.
+> That Introduction and First Reading of the Bill No.’s 342 and 354, BE APPROVED.
 
 Voted **Nay** - Motion Passed (11 to 4)
 
-### 2022-02-15: (4.10) Unique Part-Time Role of Council
+### 2022-09-06: By-laws
 
-[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=e237088e-eef7-42cd-9e87-2808fea4225b&Agenda=PostMinutes&lang=English)
+[12th Meeting of City Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=5b668cb2-9f07-452e-ae47-87a34f924a19&Agenda=PostMinutes&lang=English)
 
-> That the Governance Working Group BE REQUESTED to discuss and report back to the Strategic Priorities and Policy Committee with their recommendations about Council continuing as a unique-part-time-rol...
+> That Second Reading of the Bill No.’s 342 and 354, BE APPROVED.
 
 Voted **Nay** - Motion Passed (11 to 4)
+
+### 2022-09-06: By-laws
+
+[12th Meeting of City Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=5b668cb2-9f07-452e-ae47-87a34f924a19&Agenda=PostMinutes&lang=English)
+
+> That Third Reading and Enactment of the Bill No.’s 342 and 354, BE APPROVED.
+
+Voted **Nay** - Motion Passed (11 to 4)
+
+### 2022-08-22: 1067, 1069 and 1071 Wellington Road (OZ-9263 / Z-9264)
+
+[14th Meeting of the Planning and Environment Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=f28d63d6-9352-4a57-923b-1443fe826c47&Agenda=PostMinutes&lang=English)
+
+> That the following actions be taken with respect to the application by Century Centre Development Inc., relating to the properties located at 1067, 1069 and 1071 Wellington Road: a)  the proposed, att...
+
+Voted **Nay** - Motion Passed (3 to 2)
+
+### 2022-08-02: (3.6) Parking Standards Review (OZ-9520) (Relates to Bill No.'s 318 and 328)
+
+[11th Meeting of City Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=4c720985-60de-4949-ae43-1307fd4ec0a3&Agenda=PostMinutes&lang=English)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the Parking Standards Review: a)    the proposed by-law appended to the staff repo...
+
+Voted **Nay** - Motion Passed (12 to 2)
+
+### 2022-08-02: (3.10) 1067, 1069 and 1071 Wellington Road (OZ-9263 / Z-9264)
+
+[11th Meeting of City Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=4c720985-60de-4949-ae43-1307fd4ec0a3&Agenda=PostMinutes&lang=English)
+
+> That the motion of Councillors E. Peloza and S. Lewis, and the associated by-laws, related to the applications for the properties located at 1067, 1069 and 1071 Wellington Road (OZ-6263/ Z-9264), BE R...
+
+Voted **Nay** - Motion Passed (12 to 2)
+
+### 2022-08-02: By-laws
+
+[11th Meeting of City Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=4c720985-60de-4949-ae43-1307fd4ec0a3&Agenda=PostMinutes&lang=English)
+
+> That Introduction and First Reading of the Bill No. 318, BE APPROVED.
+
+Voted **Nay** - Motion Passed (12 to 2)
+
+### 2022-08-02: By-laws
+
+[11th Meeting of City Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=4c720985-60de-4949-ae43-1307fd4ec0a3&Agenda=PostMinutes&lang=English)
+
+> That Second Reading of the Bill No. 318, BE APPROVED.
+
+Voted **Nay** - Motion Passed (12 to 2)
 
 
 ## Committees Served

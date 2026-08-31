@@ -5,18 +5,18 @@ slug: "v-ridley"
 meetingCount: 212
 yearsActive: "2014 - 2018"
 isCurrent: false
-totalVotes: 3477
-votesYea: 3290
-votesNay: 124
-votesAbsent: 57
-votesRecused: 6
+totalVotes: 3544
+votesYea: 3303
+votesNay: 136
+votesAbsent: 96
+votesRecused: 9
 votesAbstained: 0
 votesOther: 0
 attendanceRate: 91.7
-participationRate: 98.2
-yeaRate: 96.4
-contestedDissentRate: 3.7
-contestedVotes: 3044
+participationRate: 97.0
+yeaRate: 96.0
+contestedDissentRate: 4.2
+contestedVotes: 3064
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,11 +33,11 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 3,477 |
-| Voted Yea | 3,290 (94.6%) |
-| Voted Nay | 124 (3.6%) |
-| Absent | 57 (1.6%) |
-| Recused (conflict of interest) | 6 (0.2%) |
+| Total Votes | 3,544 |
+| Voted Yea | 3,303 (93.2%) |
+| Voted Nay | 136 (3.8%) |
+| Absent | 96 (2.7%) |
+| Recused (conflict of interest) | 9 (0.3%) |
 | Abstained | 0 (0.0%) |
 
 *Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
@@ -49,17 +49,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 3,258 |
-| Voted Yea | 3,095 (96.2%) |
-| Voted Nay | 123 (3.8%) |
+| Substantive Votes | 3,294 |
+| Voted Yea | 3,107 (96.0%) |
+| Voted Nay | 131 (4.0%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 3.7%
-- **Contested Votes**: 3,044
+- **Dissent Rate**: 4.2%
+- **Contested Votes**: 3,064
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -70,9 +70,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 545 |
-| Voted Yea | 510 (94.4%) |
-| Voted Nay | 30 (5.6%) |
+| Budget Votes | 547 |
+| Voted Yea | 511 (94.3%) |
+| Voted Nay | 31 (5.7%) |
 | Absent | 5 |
 
 
@@ -94,16 +94,64 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 1,332 | 1,229 | 52 | 96.2% |
-| Strategic Priorities and Policy Committee | 1,044 | 990 | 54 | 100.0% |
-| Civic Works Committee | 517 | 505 | 7 | 99.0% |
-| Community and Protective Services Committee | 382 | 366 | 9 | 98.2% |
+| Council | 1,375 | 1,234 | 59 | 94.0% |
+| Strategic Priorities and Policy Committee | 1,057 | 993 | 57 | 99.3% |
+| Civic Works Committee | 520 | 507 | 8 | 99.0% |
+| Community and Protective Services Committee | 390 | 369 | 10 | 97.2% |
 | Corporate Services Committee | 202 | 200 | 2 | 100.0% |
 
 
 ## Notable Dissenting Votes
 
 *Recent split votes where Virginia Ridley voted against the final outcome:*
+
+### 2018-10-16: (2.4) Elected Officials Remuneration - One-Third Non Taxable Allowance (Relates to Bill No. 584)
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bedc1530-d6f9-46d4-9a66-8ef7de0139e1&Agenda=PostMinutes&lang=English)
+
+> The motion to approve part b) is put. b)            the Mayor’s salary at January 1, 2019, BE INCREASED to $138,025 annually, in order to accommodate for the elimination of the allowance noted in part...
+
+Voted **Nay** - Motion Passed (7 to 5)
+
+### 2018-09-18: (3.1) Annual Meeting Calendar
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=6a7d7cc3-bf13-4ecc-8227-9571eb005f24&Agenda=PostMinutes&lang=English)
+
+> That the draft meeting calendar for the period of January 1, 2019 to December 1, 2019, reflecting the current meeting schedule, attached as Appendix B to the staff report dated September 11, 2018, BE ...
+
+Voted **Nay** - Motion Passed (6 to 5)
+
+### 2018-07-24: (3.1) By-law Amendments to the Sound By-law, PW-12 and to the Public Nuisance By-law, PH-18, Public Messaging in the Community - Nuisances (Relates to Bill No.s 435 and 436)
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=7887335f-11cc-4679-9f81-b0b63125b282&Agenda=PostMinutes&lang=English)
+
+> The motion to approve Part b) of Item 9 (3.1) is put.  Part b) reads as follows: b)            the proposed by-law, appended to the staff report dated July 16, 2018, BE INTRODUCED at the Municipal Cou...
+
+Voted **Nay** - Motion Passed (9 to 6)
+
+### 2018-07-24: By-laws
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=7887335f-11cc-4679-9f81-b0b63125b282&Agenda=PostMinutes&lang=English)
+
+> That Introduction and First Reading of Bill No. 436, BE APPROVED.
+
+Voted **Nay** - Motion Passed (10 to 3)
+
+### 2018-07-24: By-laws
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=7887335f-11cc-4679-9f81-b0b63125b282&Agenda=PostMinutes&lang=English)
+
+> That Second Reading of Bill No. 436, BE APPROVED.
+
+Voted **Nay** - Motion Passed (10 to 3)
+
+### 2018-07-24: By-laws
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=7887335f-11cc-4679-9f81-b0b63125b282&Agenda=PostMinutes&lang=English)
+
+> That Third Reading and Enactment of Bill No. 436, BE APPROVED.
+
+Voted **Nay** - Motion Passed (10 to 3)
 
 ### 2018-06-26: 8th Report of the Strategic Priorities and Policy Committee
 
@@ -129,69 +177,13 @@ Voted **Nay** - Motion Passed (7 to 6)
 
 Voted **Nay** - Motion Passed (9 to 4)
 
-### 2018-03-27: Review of Confidential Matters to be Considered in Public
+### 2018-06-25: Free of Fear Services for All Policy
 
-[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=2e67611f-a676-4cde-af23-1e18d2e0823c&Agenda=PostMinutes&lang=English)
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=b06e637c-71a8-4f2f-8d7e-2cc345dfbf1f&Agenda=PostMinutes&lang=English)
 
-> That pursuant to section 6.4 of the Council Procedure By-law, the order of business be changed to permit consideration of Item 9 of the 5th Report of the Civic Works Committee to be dealt with prior t...
+> Motion to approve part d).
 
-Voted **Nay** - Motion Passed (11 to 3)
-
-### 2018-03-27: Wonderland Road Community Enterprise Corridor (Relates to Bill No. 140)
-
-[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=2e67611f-a676-4cde-af23-1e18d2e0823c&Agenda=PostMinutes&lang=English)
-
-> That pursuant to section 9.6 of the Council Procedure By-law, Councillor S. Turner be permitted to speak longer than 5 minutes with respect to this matter.
-
-Voted **Nay** - Motion Passed (13 to 1)
-
-### 2018-03-20: Request for Support for UN Safe Cities Initiative - ANOVA
-
-[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=0a8dd089-bb13-4863-b756-74faa6ab3b2f&Agenda=PostMinutes&lang=English)
-
-> That the communication dated March 20, 2018, from ANOVA, with respect to a request for support related to the UN Safe Cities Initiative BE REFERRED to the City Manager for further refinement regarding...
-
-Voted **Yea** - Motion Failed (3 to 3)
-
-### 2017-12-12: Community Mental
-  Health and Addiction Strategy for London: Moving Forward Together
-
-[MINUTES FIRST
-  MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=54c7bed2-4c64-423b-9ebc-e0e573e394ab&Agenda=PostMinutes&lang=English)
-
-> Motion Passed
-
-Voted **Nay** - Motion Passed
-
-### 2017-12-05: Community Mental
-  Health and Addiction Strategy for London: Moving Forward Together
-
-[Community and Protective Services Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=8901d52b-431d-45fd-9733-58c205eb53f5&Agenda=PostMinutes&lang=English)
-
-> Motion
-  Passed
-
-Voted **Nay** - Motion
-  Passed
-
-### 2017-12-05: Council Chamber Doors
-
-[Community and Protective Services Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=8901d52b-431d-45fd-9733-58c205eb53f5&Agenda=PostMinutes&lang=English)
-
-> Motion
-  Passed
-
-Voted **Nay** - Motion
-  Passed
-
-### 2017-11-28: Dundas Place
-  Management and Dundas Field House
-
-[MINUTES 28TH MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=a6c8289d-c0c9-4818-af92-38b52b79fde8&Agenda=PostMinutes&lang=English)
-
-> Motion Passed
-
-Voted **Nay** - Motion Passed
+Voted **Nay** - Motion Passed (8 to 6)
 
 
 ## Committees Served

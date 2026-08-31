@@ -5,18 +5,18 @@ slug: "s-lehman"
 meetingCount: 414
 yearsActive: "2018 - 2026"
 isCurrent: true
-totalVotes: 7938
-votesYea: 6840
-votesNay: 420
-votesAbsent: 270
+totalVotes: 9011
+votesYea: 7700
+votesNay: 486
+votesAbsent: 325
 votesRecused: 54
-votesAbstained: 7
-votesOther: 347
+votesAbstained: 18
+votesOther: 428
 attendanceRate: 96.4
-participationRate: 91.5
-yeaRate: 94.2
-contestedDissentRate: 9.9
-contestedVotes: 2261
+participationRate: 90.8
+yeaRate: 94.1
+contestedDissentRate: 12.2
+contestedVotes: 2426
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,13 +33,13 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 7,938 |
-| Voted Yea | 6,840 (86.2%) |
-| Voted Nay | 420 (5.3%) |
-| Absent | 270 (3.4%) |
-| Recused (conflict of interest) | 54 (0.7%) |
-| Abstained | 7 (0.1%) |
-| Other/Unrecorded | 347 (4.4%) |
+| Total Votes | 9,011 |
+| Voted Yea | 7,700 (85.5%) |
+| Voted Nay | 486 (5.4%) |
+| Absent | 325 (3.6%) |
+| Recused (conflict of interest) | 54 (0.6%) |
+| Abstained | 18 (0.2%) |
+| Other/Unrecorded | 428 (4.7%) |
 
 *Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
 
@@ -50,17 +50,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 4,610 |
-| Voted Yea | 3,719 (90.6%) |
-| Voted Nay | 387 (9.4%) |
+| Substantive Votes | 5,160 |
+| Voted Yea | 4,105 (90.4%) |
+| Voted Nay | 437 (9.6%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 9.9%
-- **Contested Votes**: 2,261
+- **Dissent Rate**: 12.2%
+- **Contested Votes**: 2,426
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -71,10 +71,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 722 |
-| Voted Yea | 588 (84.0%) |
-| Voted Nay | 112 (16.0%) |
-| Absent | 12 |
+| Budget Votes | 737 |
+| Voted Yea | 599 (83.9%) |
+| Voted Nay | 115 (16.1%) |
+| Absent | 13 |
 
 
 ## Attendance
@@ -94,14 +94,14 @@ prefillQuestions:
 ## Voting Alignment
 
 **Most aligned with:**
-- Shawn Lewis (97.1%)
-- Josh Morgan (96.6%)
-- Peter Cuddy (96.4%)
+- Shawn Lewis (96.8%)
+- Steve Hillier (96.3%)
+- Josh Morgan (96.3%)
 
 **Least aligned with:**
-- Sam Trosow (83.7%)
-- David Ferreira (87.1%)
+- Sam Trosow (83.2%)
 - Susan Stevenson (88.2%)
+- David Ferreira (88.4%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -110,11 +110,11 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 4,057 | 3,708 | 221 | 96.8% |
-| Strategic Priorities and Policy Committee | 1,995 | 1,456 | 114 | 78.7% |
-| Planning and Environment Committee | 1,586 | 1,438 | 26 | 92.3% |
+| Council | 4,239 | 3,823 | 259 | 96.3% |
+| Planning and Environment Committee | 2,227 | 2,057 | 39 | 94.1% |
+| Strategic Priorities and Policy Committee | 2,150 | 1,492 | 124 | 75.2% |
+| Civic Works Committee | 206 | 198 | 6 | 99.0% |
 | Budget Committee | 189 | 130 | 58 | 99.5% |
-| Civic Works Committee | 111 | 108 | 1 | 98.2% |
 
 
 ## Notable Dissenting Votes

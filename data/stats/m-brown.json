@@ -60,29 +60,56 @@
     "trendDirection": "declining"
   },
   "voting": {
-    "totalVotes": 5759,
-    "yeas": 5290,
-    "nays": 336,
-    "absent": 133,
-    "participationRate": 97.69057127973606,
-    "yeaRate": 94.02772840383932,
-    "contestedDissentRate": 4.934086629001883,
-    "contestedVotes": 5310,
-    "substantiveVotes": 5511,
-    "substantiveYeas": 5109,
-    "substantiveNays": 332,
-    "substantiveParticipationRate": 98.72981310107059,
-    "substantiveYeaRate": 93.89818048152912
+    "totalVotes": 6104,
+    "yeas": 5539,
+    "nays": 345,
+    "absent": 220,
+    "participationRate": 96.39580602883355,
+    "yeaRate": 94.13664174031271,
+    "contestedDissentRate": 4.985007496251874,
+    "contestedVotes": 5336,
+    "substantiveVotes": 5689,
+    "substantiveYeas": 5234,
+    "substantiveNays": 340,
+    "substantiveParticipationRate": 97.97855510634558,
+    "substantiveYeaRate": 93.90025116612846
   },
   "budgetVoting": {
-    "totalBudgetVotes": 1382,
-    "budgetYeas": 1200,
+    "totalBudgetVotes": 1393,
+    "budgetYeas": 1210,
     "budgetNays": 171,
-    "budgetAbsent": 11
+    "budgetAbsent": 12
   },
   "topAlignments": [],
   "bottomAlignments": [],
   "notableDissents": [
+    {
+      "date": "2018-11-12",
+      "meetingTitle": null,
+      "itemTitle": "Public Participation Meeting - Application - 3080 Bostwick Road (Site 1) (OZ-8941)",
+      "motionText": "That the following actions be taken with respect to the application of 31675 Ontario Ltd (York Developments Inc.), relating to the property located at 3080 Bostwick Road, referred to as Site 1: a)    ...",
+      "vote": "yea",
+      "result": "Motion Failed (3 to 3)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=f1796c7c-69cb-4f8d-ba0a-333dfb12b2e1&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2018-11-12",
+      "meetingTitle": null,
+      "itemTitle": "Public Participation Meeting - Application - 3080 Bostwick Road (Site 3) (Z-8942) ",
+      "motionText": "That, on the recommendation of the Senior Planner, Development Services, the following actions be taken with respect to the application of 31675 Ontario Ltd. (York Developments Inc.), relating to the ...",
+      "vote": "yea",
+      "result": "Motion Failed (3 to 3)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=f1796c7c-69cb-4f8d-ba0a-333dfb12b2e1&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2018-11-12",
+      "meetingTitle": null,
+      "itemTitle": "Public Participation Meeting - Application - 3080 Bostwick Road (Site 5) (OZ-8943)",
+      "motionText": "That the following actions be taken with respect to the application of 31675 Ontario Ltd (York Developments Inc.), relating to the property located at 3080 Bostwick Road referred to as Site 5: a)     ...",
+      "vote": "yea",
+      "result": "Motion Failed (3 to 3)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=f1796c7c-69cb-4f8d-ba0a-333dfb12b2e1&Agenda=PostMinutes&lang=English"
+    },
     {
       "date": "2018-11-06",
       "meetingTitle": null,
@@ -138,40 +165,13 @@
       "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b06e637c-71a8-4f2f-8d7e-2cc345dfbf1f&Agenda=PostMinutes&lang=English"
     },
     {
-      "date": "2018-03-27",
+      "date": "2018-05-28",
       "meetingTitle": null,
-      "itemTitle": "Wonderland Road Community Enterprise Corridor (Relates to Bill No. 140)",
-      "motionText": "That, on the recommendation of the Managing Director, Planning and City Planner, based on the application by The Corporation of the City of London, relating to the Wonderland Road Community Enterprise...",
-      "vote": "yea",
-      "result": "Motion Failed (7 to 7)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=2e67611f-a676-4cde-af23-1e18d2e0823c&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2018-03-27",
-      "meetingTitle": null,
-      "itemTitle": "Wonderland Road Community Enterprise Corridor (Relates to Bill No. 140)",
-      "motionText": "That Item 17 BE APPROVED.",
-      "vote": "yea",
-      "result": "Motion Failed (6 to 8)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=2e67611f-a676-4cde-af23-1e18d2e0823c&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2017-12-12",
-      "meetingTitle": "MINUTES FIRST\n  MEETING",
-      "itemTitle": "2019 Development\n  Charges (DC) Study - Growth Projections",
-      "motionText": "Motion Passed",
+      "itemTitle": "(ADDED) Clear Garbage Bags",
+      "motionText": "That the Civic Administration BE DIRECTED to investigate and report back with a potential implementation strategy regarding the use of clear garbage bags as part of the 60% Waste Diversion and Action ...",
       "vote": "nay",
-      "result": "Motion Passed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=54c7bed2-4c64-423b-9ebc-e0e573e394ab&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2017-12-11",
-      "meetingTitle": "Strategic Priorities and Policy Committee",
-      "itemTitle": "2019 Development\n  Charges (DC) Study - Growth Projections",
-      "motionText": "Motion Passed",
-      "vote": "nay",
-      "result": "Motion Passed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=fdaf40ac-d6d8-455a-bf11-f0d467c1a3bb&Agenda=PostMinutes&lang=English"
+      "result": "Motion Passed (4 to 2)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=c94486a2-ee15-4384-93dd-95d454fefba0&Agenda=PostMinutes&lang=English"
     }
   ],
   "committeeActivity": [
@@ -191,31 +191,31 @@
     },
     {
       "committee": "Planning and Environment Committee",
-      "totalVotes": 380,
-      "yeas": 296,
-      "nays": 8,
+      "totalVotes": 575,
+      "yeas": 445,
+      "nays": 15,
       "participationRate": 80
     },
     {
       "committee": "Civic Works Committee",
-      "totalVotes": 228,
-      "yeas": 209,
-      "nays": 5,
-      "participationRate": 93.85964912280701
+      "totalVotes": 272,
+      "yeas": 215,
+      "nays": 6,
+      "participationRate": 81.25
     },
     {
       "committee": "Community and Protective Services Committee",
-      "totalVotes": 209,
-      "yeas": 198,
-      "nays": 4,
-      "participationRate": 96.65071770334929
+      "totalVotes": 271,
+      "yeas": 248,
+      "nays": 5,
+      "participationRate": 93.35793357933579
     },
     {
       "committee": "Corporate Services Committee",
-      "totalVotes": 194,
-      "yeas": 155,
+      "totalVotes": 238,
+      "yeas": 199,
       "nays": 3,
-      "participationRate": 81.44329896907216
+      "participationRate": 84.87394957983193
     }
   ]
 }

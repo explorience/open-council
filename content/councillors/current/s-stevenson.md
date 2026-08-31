@@ -5,18 +5,18 @@ slug: "s-stevenson"
 meetingCount: 221
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 4020
-votesYea: 2891
-votesNay: 619
-votesAbsent: 304
+totalVotes: 4085
+votesYea: 2900
+votesNay: 632
+votesAbsent: 320
 votesRecused: 3
 votesAbstained: 0
-votesOther: 203
+votesOther: 230
 attendanceRate: 89.1
-participationRate: 87.3
-yeaRate: 82.4
-contestedDissentRate: 37.7
-contestedVotes: 1448
+participationRate: 86.5
+yeaRate: 82.1
+contestedDissentRate: 38.3
+contestedVotes: 1469
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,13 +33,13 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 4,020 |
-| Voted Yea | 2,891 (71.9%) |
-| Voted Nay | 619 (15.4%) |
-| Absent | 304 (7.6%) |
+| Total Votes | 4,085 |
+| Voted Yea | 2,900 (71.0%) |
+| Voted Nay | 632 (15.5%) |
+| Absent | 320 (7.8%) |
 | Recused (conflict of interest) | 3 (0.1%) |
 | Abstained | 0 (0.0%) |
-| Other/Unrecorded | 203 (5.0%) |
+| Other/Unrecorded | 230 (5.6%) |
 
 *Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
 
@@ -50,17 +50,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,407 |
-| Voted Yea | 1,661 (81.3%) |
-| Voted Nay | 383 (18.7%) |
+| Substantive Votes | 2,464 |
+| Voted Yea | 1,669 (80.9%) |
+| Voted Nay | 394 (19.1%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 37.7%
-- **Contested Votes**: 1,448
+- **Dissent Rate**: 38.3%
+- **Contested Votes**: 1,469
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -71,10 +71,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 385 |
-| Voted Yea | 289 (77.1%) |
-| Voted Nay | 86 (22.9%) |
-| Absent | 10 |
+| Budget Votes | 396 |
+| Voted Yea | 290 (76.3%) |
+| Voted Nay | 90 (23.7%) |
+| Absent | 16 |
 
 
 ## Attendance
@@ -94,14 +94,14 @@ prefillQuestions:
 ## Voting Alignment
 
 **Most aligned with:**
-- Paul Van Meerbergen (89.3%)
-- Peter Cuddy (88.7%)
-- Jerry Pribil (88.3%)
+- Paul Van Meerbergen (89.0%)
+- Peter Cuddy (88.6%)
+- Steve Lehman (88.2%)
 
 **Least aligned with:**
-- Sam Trosow (76.9%)
-- David Ferreira (77.9%)
-- Anna Hopkins (80.5%)
+- Sam Trosow (76.8%)
+- Anna Hopkins (80.2%)
+- Skylar Franke (80.8%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -110,12 +110,12 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 2,116 | 1,497 | 430 | 91.1% |
-| Strategic Priorities and Policy Committee | 1,017 | 703 | 101 | 79.1% |
+| Council | 2,119 | 1,498 | 432 | 91.1% |
+| Strategic Priorities and Policy Committee | 1,072 | 708 | 110 | 76.3% |
 | Planning and Environment Committee | 335 | 288 | 9 | 88.7% |
+| Corporate Services Committee | 190 | 129 | 10 | 73.2% |
 | Budget Committee | 189 | 137 | 45 | 96.3% |
-| Corporate Services Committee | 184 | 126 | 8 | 72.8% |
-| Community and Protective Services Committee | 92 | 78 | 7 | 92.4% |
+| Community and Protective Services Committee | 93 | 78 | 7 | 91.4% |
 | Infrastructure and Corporate Services Committee | 87 | 62 | 19 | 93.1% |
 
 

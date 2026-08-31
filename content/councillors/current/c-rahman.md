@@ -5,18 +5,18 @@ slug: "c-rahman"
 meetingCount: 270
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 3755
-votesYea: 3130
-votesNay: 368
-votesAbsent: 47
+totalVotes: 4263
+votesYea: 3563
+votesNay: 393
+votesAbsent: 48
 votesRecused: 23
 votesAbstained: 1
-votesOther: 186
-attendanceRate: 100.0
-participationRate: 93.2
-yeaRate: 89.5
-contestedDissentRate: 17.5
-contestedVotes: 1437
+votesOther: 235
+attendanceRate: 99.6
+participationRate: 92.8
+yeaRate: 90.1
+contestedDissentRate: 16.6
+contestedVotes: 1563
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,13 +33,13 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 3,755 |
-| Voted Yea | 3,130 (83.4%) |
-| Voted Nay | 368 (9.8%) |
-| Absent | 47 (1.3%) |
-| Recused (conflict of interest) | 23 (0.6%) |
+| Total Votes | 4,263 |
+| Voted Yea | 3,563 (83.6%) |
+| Voted Nay | 393 (9.2%) |
+| Absent | 48 (1.1%) |
+| Recused (conflict of interest) | 23 (0.5%) |
 | Abstained | 1 (0.0%) |
-| Other/Unrecorded | 186 (5.0%) |
+| Other/Unrecorded | 235 (5.5%) |
 
 *Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
 
@@ -50,17 +50,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,228 |
-| Voted Yea | 1,703 (85.0%) |
-| Voted Nay | 301 (15.0%) |
+| Substantive Votes | 2,564 |
+| Voted Yea | 1,967 (85.9%) |
+| Voted Nay | 323 (14.1%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 17.5%
-- **Contested Votes**: 1,437
+- **Dissent Rate**: 16.6%
+- **Contested Votes**: 1,563
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -71,22 +71,22 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 348 |
-| Voted Yea | 262 (75.3%) |
-| Voted Nay | 86 (24.7%) |
+| Budget Votes | 405 |
+| Voted Yea | 313 (77.3%) |
+| Voted Nay | 92 (22.7%) |
 | Absent | 0 |
 
 
 ## Attendance
 
-- **Attendance Rate**: 100.0%
-- **Meetings Attended**: 223 of 223
-- **Meetings Missed**: 0
+- **Attendance Rate**: 99.6%
+- **Meetings Attended**: 242 of 243
+- **Meetings Missed**: 1
 - **Trend**: Stable -
 
 **Attendance by Year:**
-  - 2023: 100.0% (72/72 meetings)
-  - 2024: 100.0% (61/61 meetings)
+  - 2023: 100.0% (74/74 meetings)
+  - 2024: 98.7% (78/79 meetings)
   - 2025: 100.0% (55/55 meetings)
   - 2026: 100.0% (26/26 meetings)
 
@@ -94,14 +94,14 @@ prefillQuestions:
 ## Voting Alignment
 
 **Most aligned with:**
-- Josh Morgan (93.4%)
-- Steve Lehman (93.0%)
-- Jerry Pribil (92.6%)
+- Josh Morgan (94.0%)
+- Jerry Pribil (93.5%)
+- Steve Lehman (93.4%)
 
 **Least aligned with:**
-- Susan Stevenson (84.1%)
-- Sam Trosow (85.2%)
-- Paul Van Meerbergen (87.9%)
+- Susan Stevenson (85.9%)
+- Sam Trosow (86.4%)
+- Paul Van Meerbergen (88.2%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -110,14 +110,14 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 1,908 | 1,628 | 211 | 96.4% |
-| Strategic Priorities and Policy Committee | 876 | 624 | 74 | 79.7% |
+| Council | 2,119 | 1,830 | 218 | 96.6% |
+| Strategic Priorities and Policy Committee | 1,092 | 776 | 91 | 79.4% |
 | Planning and Environment Committee | 417 | 405 | 8 | 99.0% |
 | Budget Committee | 189 | 136 | 53 | 100.0% |
-| Community and Protective Services Committee | 121 | 114 | 7 | 100.0% |
+| Community and Protective Services Committee | 157 | 148 | 8 | 99.4% |
 | Infrastructure and Corporate Services Committee | 120 | 112 | 7 | 99.2% |
+| Civic Works Committee | 102 | 95 | 6 | 99.0% |
 | Corporate Services Committee | 67 | 61 | 2 | 94.0% |
-| Civic Works Committee | 57 | 50 | 6 | 98.2% |
 
 
 ## Notable Dissenting Votes

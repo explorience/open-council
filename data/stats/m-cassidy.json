@@ -66,25 +66,25 @@
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 8516,
-    "yeas": 7864,
-    "nays": 330,
-    "absent": 68,
-    "participationRate": 96.2188821042743,
-    "yeaRate": 95.9726629240908,
-    "contestedDissentRate": 4.535996670828132,
-    "contestedVotes": 4806,
-    "substantiveVotes": 6557,
-    "substantiveYeas": 5985,
-    "substantiveNays": 288,
-    "substantiveParticipationRate": 95.66875095317981,
-    "substantiveYeaRate": 95.40889526542324
+    "totalVotes": 9132,
+    "yeas": 8283,
+    "nays": 375,
+    "absent": 184,
+    "participationRate": 94.80946123521682,
+    "yeaRate": 95.66874566874567,
+    "contestedDissentRate": 5.4989816700611,
+    "contestedVotes": 4910,
+    "substantiveVotes": 6927,
+    "substantiveYeas": 6234,
+    "substantiveNays": 324,
+    "substantiveParticipationRate": 94.67301862278042,
+    "substantiveYeaRate": 95.0594693504117
   },
   "budgetVoting": {
-    "totalBudgetVotes": 1003,
-    "budgetYeas": 928,
-    "budgetNays": 73,
-    "budgetAbsent": 2
+    "totalBudgetVotes": 1026,
+    "budgetYeas": 945,
+    "budgetNays": 75,
+    "budgetAbsent": 6
   },
   "topAlignments": [],
   "bottomAlignments": [],
@@ -97,6 +97,15 @@
       "vote": "nay",
       "result": "Motion Passed (8 to 7)",
       "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=2a3f0da7-d614-4583-8704-5f48882febab&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2022-10-03",
+      "meetingTitle": "13th Meeting of the Corporate Services Committee",
+      "itemTitle": "Items for Direction",
+      "motionText": "That Items 4.1 and 4.2 BE APPROVED.",
+      "vote": "yea",
+      "result": "Motion Failed (2 to 3)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=dc5c99a4-6aa6-4d8d-bbdd-c39c722482ff&Agenda=PostMinutes&lang=English"
     },
     {
       "date": "2022-09-06",
@@ -135,93 +144,84 @@
       "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=5b668cb2-9f07-452e-ae47-87a34f924a19&Agenda=PostMinutes&lang=English"
     },
     {
-      "date": "2022-05-03",
-      "meetingTitle": null,
-      "itemTitle": "(3.4) 1521 Sunningdale Road West and 2631 Hyde Park Road (39T-21056) (Relates to Bill No.'s 183, 186 and 202)",
-      "motionText": "That, further to the direction from Municipal Council on October 5, 2021 to amend the Official Plan to change the designation of the subject lands FROM an Open Space designation TO a Low Density Resid...",
-      "vote": "nay",
-      "result": "Motion Passed (8 to 6)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8ce5f98b-7e95-45c9-9fec-a83ed4f1e785&Agenda=PostMinutes&lang=English"
+      "date": "2022-07-05",
+      "meetingTitle": "10th Meeting of City Council",
+      "itemTitle": "(2.4) \"RentSafeTO\" Program and Complaint Process Improvements",
+      "motionText": "That clause 2.4, BE AMENDED, by adding the following new part b): “b) Civic Administration BE DIRECTED to develop and bring forward a business case for a RentSafe London program for consideration duri...",
+      "vote": "yea",
+      "result": "Motion Failed (3 to 10)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=ca5548d3-dd7c-4875-a376-1a9725e339ed&Agenda=PostMinutes&lang=English"
     },
     {
-      "date": "2022-05-03",
-      "meetingTitle": null,
-      "itemTitle": "(3.1) 1055 Fanshawe Park Road West (OZ-9444) (Relates to Bill No.'s 184, 187 and 205)",
-      "motionText": "That, notwithstanding the Civic Administration's recommendation, the application by Quincy Developments, relating to the property located at 1055 Fanshawe Park Road West, the application BE APPROVED; ...",
-      "vote": "nay",
-      "result": "Motion Passed (9 to 5)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8ce5f98b-7e95-45c9-9fec-a83ed4f1e785&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2022-05-03",
-      "meetingTitle": null,
-      "itemTitle": "(5.2) Clause 4.2 of the 2nd Report of the Animal Welfare Advisory Committee\t",
-      "motionText": "That the proposed amendment, as amended, BE APPROVED: That clause 5.2 of the 6th Report of the CPSC BE AMENDED to add the following new part b): b)       the Civic Administration BE DIRECTED to bring ...",
-      "vote": "nay",
-      "result": "Motion Passed (5 to 9)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8ce5f98b-7e95-45c9-9fec-a83ed4f1e785&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2022-05-03",
-      "meetingTitle": null,
+      "date": "2022-07-05",
+      "meetingTitle": "10th Meeting of City Council",
       "itemTitle": "By-laws",
-      "motionText": "That Introduction and First Reading of Bill No.’s 183, 186 and 202, BE APPROVED.",
+      "motionText": "That Introduction and First Reading of the Bill No.’s 284 and 301 BE APPROVED.",
       "vote": "nay",
-      "result": "Motion Passed (8 to 5)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8ce5f98b-7e95-45c9-9fec-a83ed4f1e785&Agenda=PostMinutes&lang=English"
+      "result": "Motion Passed (10 to 3)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=ca5548d3-dd7c-4875-a376-1a9725e339ed&Agenda=PostMinutes&lang=English"
     },
     {
-      "date": "2022-05-03",
-      "meetingTitle": null,
+      "date": "2022-07-05",
+      "meetingTitle": "10th Meeting of City Council",
       "itemTitle": "By-laws",
-      "motionText": "That Second Reading of Bill No.’s 183, 186 and 202, BE APPROVED.",
+      "motionText": "That Second Reading of the Bill No.’s 284 and 301 BE APPROVED.",
       "vote": "nay",
-      "result": "Motion Passed (7 to 6)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8ce5f98b-7e95-45c9-9fec-a83ed4f1e785&Agenda=PostMinutes&lang=English"
+      "result": "Motion Passed (10 to 3)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=ca5548d3-dd7c-4875-a376-1a9725e339ed&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2022-07-05",
+      "meetingTitle": "10th Meeting of City Council",
+      "itemTitle": "By-laws",
+      "motionText": "That Third Reading and Enactment of the Bill No.’s 284 and 301 BE APPROVED.",
+      "vote": "nay",
+      "result": "Motion Passed (10 to 3)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=ca5548d3-dd7c-4875-a376-1a9725e339ed&Agenda=PostMinutes&lang=English"
     }
   ],
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 3388,
-      "yeas": 3155,
-      "nays": 170,
-      "participationRate": 98.14049586776859
+      "totalVotes": 3466,
+      "yeas": 3159,
+      "nays": 187,
+      "participationRate": 96.53779572994806
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 2173,
-      "yeas": 1811,
-      "nays": 118,
-      "participationRate": 88.77128393925449
+      "totalVotes": 2212,
+      "yeas": 1815,
+      "nays": 130,
+      "participationRate": 87.92947558770344
     },
     {
       "committee": "Planning and Environment Committee",
-      "totalVotes": 1764,
-      "yeas": 1729,
-      "nays": 27,
-      "participationRate": 99.54648526077098
+      "totalVotes": 1956,
+      "yeas": 1871,
+      "nays": 33,
+      "participationRate": 97.34151329243353
     },
     {
       "committee": "Community and Protective Services Committee",
-      "totalVotes": 523,
-      "yeas": 516,
-      "nays": 7,
-      "participationRate": 100
+      "totalVotes": 601,
+      "yeas": 588,
+      "nays": 12,
+      "participationRate": 99.83361064891847
     },
     {
       "committee": "Corporate Services Committee",
-      "totalVotes": 420,
-      "yeas": 413,
+      "totalVotes": 502,
+      "yeas": 470,
       "nays": 3,
-      "participationRate": 99.04761904761905
+      "participationRate": 94.22310756972112
     },
     {
       "committee": "Civic Works Committee",
-      "totalVotes": 248,
-      "yeas": 240,
-      "nays": 5,
-      "participationRate": 98.79032258064517
+      "totalVotes": 395,
+      "yeas": 380,
+      "nays": 10,
+      "participationRate": 98.73417721518987
     }
   ]
 }

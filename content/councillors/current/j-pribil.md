@@ -5,18 +5,18 @@ slug: "j-pribil"
 meetingCount: 245
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 3932
-votesYea: 3359
-votesNay: 315
+totalVotes: 4006
+votesYea: 3372
+votesNay: 336
 votesAbsent: 52
 votesRecused: 13
 votesAbstained: 2
-votesOther: 191
+votesOther: 231
 attendanceRate: 96.4
-participationRate: 93.4
-yeaRate: 91.4
-contestedDissentRate: 12.0
-contestedVotes: 1553
+participationRate: 92.6
+yeaRate: 90.9
+contestedDissentRate: 12.4
+contestedVotes: 1586
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,13 +33,13 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 3,932 |
-| Voted Yea | 3,359 (85.4%) |
-| Voted Nay | 315 (8.0%) |
+| Total Votes | 4,006 |
+| Voted Yea | 3,372 (84.2%) |
+| Voted Nay | 336 (8.4%) |
 | Absent | 52 (1.3%) |
 | Recused (conflict of interest) | 13 (0.3%) |
-| Abstained | 2 (0.1%) |
-| Other/Unrecorded | 191 (4.9%) |
+| Abstained | 2 (0.0%) |
+| Other/Unrecorded | 231 (5.8%) |
 
 *Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
 
@@ -50,17 +50,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,487 |
-| Voted Yea | 1,979 (87.6%) |
-| Voted Nay | 280 (12.4%) |
+| Substantive Votes | 2,556 |
+| Voted Yea | 1,990 (87.0%) |
+| Voted Nay | 298 (13.0%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 12.0%
-- **Contested Votes**: 1,553
+- **Dissent Rate**: 12.4%
+- **Contested Votes**: 1,586
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -71,9 +71,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 396 |
-| Voted Yea | 309 (79.0%) |
-| Voted Nay | 82 (21.0%) |
+| Budget Votes | 403 |
+| Voted Yea | 309 (77.6%) |
+| Voted Nay | 89 (22.4%) |
 | Absent | 1 |
 
 
@@ -95,13 +95,13 @@ prefillQuestions:
 
 **Most aligned with:**
 - Steve Lehman (95.5%)
-- Peter Cuddy (95.1%)
-- Josh Morgan (95.1%)
+- Josh Morgan (94.9%)
+- Peter Cuddy (94.7%)
 
 **Least aligned with:**
-- Sam Trosow (85.8%)
-- Susan Stevenson (88.3%)
-- David Ferreira (89.3%)
+- Sam Trosow (85.2%)
+- Susan Stevenson (88.1%)
+- Paul Van Meerbergen (89.9%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -110,9 +110,9 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 2,109 | 1,902 | 163 | 97.9% |
-| Strategic Priorities and Policy Committee | 1,033 | 775 | 57 | 80.5% |
-| Community and Protective Services Committee | 463 | 415 | 40 | 98.3% |
+| Council | 2,119 | 1,906 | 167 | 97.8% |
+| Strategic Priorities and Policy Committee | 1,092 | 780 | 73 | 78.1% |
+| Community and Protective Services Committee | 468 | 419 | 41 | 98.3% |
 | Budget Committee | 189 | 141 | 48 | 100.0% |
 | Infrastructure and Corporate Services Committee | 83 | 72 | 6 | 94.0% |
 | Civic Works Committee | 55 | 54 | 1 | 100.0% |

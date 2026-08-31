@@ -5,18 +5,18 @@ slug: "m-brown"
 meetingCount: 328
 yearsActive: "2010 - 2018"
 isCurrent: false
-totalVotes: 5759
-votesYea: 5290
-votesNay: 336
-votesAbsent: 133
+totalVotes: 6104
+votesYea: 5539
+votesNay: 345
+votesAbsent: 220
 votesRecused: 0
 votesAbstained: 0
 votesOther: 0
 attendanceRate: 93.3
-participationRate: 97.7
-yeaRate: 94.0
-contestedDissentRate: 4.9
-contestedVotes: 5310
+participationRate: 96.4
+yeaRate: 94.1
+contestedDissentRate: 5.0
+contestedVotes: 5336
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -34,10 +34,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 5,759 |
-| Voted Yea | 5,290 (91.9%) |
-| Voted Nay | 336 (5.8%) |
-| Absent | 133 (2.3%) |
+| Total Votes | 6,104 |
+| Voted Yea | 5,539 (90.7%) |
+| Voted Nay | 345 (5.7%) |
+| Absent | 220 (3.6%) |
 | Recused (conflict of interest) | 0 (0.0%) |
 | Abstained | 0 (0.0%) |
 
@@ -50,17 +50,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 5,511 |
-| Voted Yea | 5,109 (93.9%) |
-| Voted Nay | 332 (6.1%) |
+| Substantive Votes | 5,689 |
+| Voted Yea | 5,234 (93.9%) |
+| Voted Nay | 340 (6.1%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 4.9%
-- **Contested Votes**: 5,310
+- **Dissent Rate**: 5.0%
+- **Contested Votes**: 5,336
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -71,10 +71,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 1,382 |
-| Voted Yea | 1,200 (87.5%) |
-| Voted Nay | 171 (12.5%) |
-| Absent | 11 |
+| Budget Votes | 1,393 |
+| Voted Yea | 1,210 (87.6%) |
+| Voted Nay | 171 (12.4%) |
+| Absent | 12 |
 
 
 ## Attendance
@@ -97,15 +97,39 @@ prefillQuestions:
 |-----------|------:|----:|----:|--------------:|
 | Council | 2,760 | 2,651 | 109 | 100.0% |
 | Strategic Priorities and Policy Committee | 1,988 | 1,781 | 207 | 100.0% |
-| Planning and Environment Committee | 380 | 296 | 8 | 80.0% |
-| Civic Works Committee | 228 | 209 | 5 | 93.9% |
-| Community and Protective Services Committee | 209 | 198 | 4 | 96.7% |
-| Corporate Services Committee | 194 | 155 | 3 | 81.4% |
+| Planning and Environment Committee | 575 | 445 | 15 | 80.0% |
+| Civic Works Committee | 272 | 215 | 6 | 81.3% |
+| Community and Protective Services Committee | 271 | 248 | 5 | 93.4% |
+| Corporate Services Committee | 238 | 199 | 3 | 84.9% |
 
 
 ## Notable Dissenting Votes
 
 *Recent split votes where Matt Brown voted against the final outcome:*
+
+### 2018-11-12: Public Participation Meeting - Application - 3080 Bostwick Road (Site 1) (OZ-8941)
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=f1796c7c-69cb-4f8d-ba0a-333dfb12b2e1&Agenda=PostMinutes&lang=English)
+
+> That the following actions be taken with respect to the application of 31675 Ontario Ltd (York Developments Inc.), relating to the property located at 3080 Bostwick Road, referred to as Site 1: a)    ...
+
+Voted **Yea** - Motion Failed (3 to 3)
+
+### 2018-11-12: Public Participation Meeting - Application - 3080 Bostwick Road (Site 3) (Z-8942) 
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=f1796c7c-69cb-4f8d-ba0a-333dfb12b2e1&Agenda=PostMinutes&lang=English)
+
+> That, on the recommendation of the Senior Planner, Development Services, the following actions be taken with respect to the application of 31675 Ontario Ltd. (York Developments Inc.), relating to the ...
+
+Voted **Yea** - Motion Failed (3 to 3)
+
+### 2018-11-12: Public Participation Meeting - Application - 3080 Bostwick Road (Site 5) (OZ-8943)
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=f1796c7c-69cb-4f8d-ba0a-333dfb12b2e1&Agenda=PostMinutes&lang=English)
+
+> That the following actions be taken with respect to the application of 31675 Ontario Ltd (York Developments Inc.), relating to the property located at 3080 Bostwick Road referred to as Site 5: a)     ...
+
+Voted **Yea** - Motion Failed (3 to 3)
 
 ### 2018-11-06: (3.6) Byron Valley Nature Trail Planning Process
 
@@ -155,40 +179,13 @@ Voted **Yea** - Motion Failed (6 to 6)
 
 Voted **Yea** - Motion Failed (5 to 8)
 
-### 2018-03-27: Wonderland Road Community Enterprise Corridor (Relates to Bill No. 140)
+### 2018-05-28: (ADDED) Clear Garbage Bags
 
-[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=2e67611f-a676-4cde-af23-1e18d2e0823c&Agenda=PostMinutes&lang=English)
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=c94486a2-ee15-4384-93dd-95d454fefba0&Agenda=PostMinutes&lang=English)
 
-> That, on the recommendation of the Managing Director, Planning and City Planner, based on the application by The Corporation of the City of London, relating to the Wonderland Road Community Enterprise...
+> That the Civic Administration BE DIRECTED to investigate and report back with a potential implementation strategy regarding the use of clear garbage bags as part of the 60% Waste Diversion and Action ...
 
-Voted **Yea** - Motion Failed (7 to 7)
-
-### 2018-03-27: Wonderland Road Community Enterprise Corridor (Relates to Bill No. 140)
-
-[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=2e67611f-a676-4cde-af23-1e18d2e0823c&Agenda=PostMinutes&lang=English)
-
-> That Item 17 BE APPROVED.
-
-Voted **Yea** - Motion Failed (6 to 8)
-
-### 2017-12-12: 2019 Development
-  Charges (DC) Study - Growth Projections
-
-[MINUTES FIRST
-  MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=54c7bed2-4c64-423b-9ebc-e0e573e394ab&Agenda=PostMinutes&lang=English)
-
-> Motion Passed
-
-Voted **Nay** - Motion Passed
-
-### 2017-12-11: 2019 Development
-  Charges (DC) Study - Growth Projections
-
-[Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=fdaf40ac-d6d8-455a-bf11-f0d467c1a3bb&Agenda=PostMinutes&lang=English)
-
-> Motion Passed
-
-Voted **Nay** - Motion Passed
+Voted **Nay** - Motion Passed (4 to 2)
 
 
 ## Committees Served

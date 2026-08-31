@@ -5,18 +5,18 @@ slug: "t-park"
 meetingCount: 228
 yearsActive: "2014 - 2018"
 isCurrent: false
-totalVotes: 3563
-votesYea: 3395
-votesNay: 148
-votesAbsent: 11
-votesRecused: 9
+totalVotes: 4211
+votesYea: 3952
+votesNay: 170
+votesAbsent: 70
+votesRecused: 19
 votesAbstained: 0
 votesOther: 0
 attendanceRate: 90.3
-participationRate: 99.4
-yeaRate: 95.8
-contestedDissentRate: 3.1
-contestedVotes: 3458
+participationRate: 97.9
+yeaRate: 95.9
+contestedDissentRate: 3.5
+contestedVotes: 3561
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,11 +33,11 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 3,563 |
-| Voted Yea | 3,395 (95.3%) |
-| Voted Nay | 148 (4.2%) |
-| Absent | 11 (0.3%) |
-| Recused (conflict of interest) | 9 (0.3%) |
+| Total Votes | 4,211 |
+| Voted Yea | 3,952 (93.8%) |
+| Voted Nay | 170 (4.0%) |
+| Absent | 70 (1.7%) |
+| Recused (conflict of interest) | 19 (0.5%) |
 | Abstained | 0 (0.0%) |
 
 *Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
@@ -49,17 +49,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 3,514 |
-| Voted Yea | 3,357 (95.8%) |
-| Voted Nay | 147 (4.2%) |
+| Substantive Votes | 3,850 |
+| Voted Yea | 3,648 (95.7%) |
+| Voted Nay | 165 (4.3%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 3.1%
-- **Contested Votes**: 3,458
+- **Dissent Rate**: 3.5%
+- **Contested Votes**: 3,561
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -70,10 +70,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 591 |
-| Voted Yea | 550 (93.2%) |
-| Voted Nay | 40 (6.8%) |
-| Absent | 0 |
+| Budget Votes | 609 |
+| Voted Yea | 566 (93.4%) |
+| Voted Nay | 40 (6.6%) |
+| Absent | 2 |
 
 
 ## Attendance
@@ -94,10 +94,10 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Strategic Priorities and Policy Committee | 987 | 919 | 68 | 100.0% |
-| Council | 949 | 898 | 44 | 99.3% |
-| Planning and Environment Committee | 945 | 912 | 20 | 98.6% |
-| Civic Works Committee | 283 | 281 | 2 | 100.0% |
+| Council | 1,226 | 1,148 | 57 | 98.3% |
+| Planning and Environment Committee | 1,211 | 1,134 | 24 | 95.6% |
+| Strategic Priorities and Policy Committee | 1,075 | 1,002 | 73 | 100.0% |
+| Civic Works Committee | 300 | 283 | 2 | 95.0% |
 | Corporate Services Committee | 272 | 260 | 12 | 100.0% |
 | Community and Protective Services Committee | 127 | 125 | 2 | 100.0% |
 
@@ -105,6 +105,62 @@ prefillQuestions:
 ## Notable Dissenting Votes
 
 *Recent split votes where Tanya Park voted against the final outcome:*
+
+### 2018-11-12: Public Participation Meeting - Application - 3080 Bostwick Road (Site 1) (OZ-8941)
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=f1796c7c-69cb-4f8d-ba0a-333dfb12b2e1&Agenda=PostMinutes&lang=English)
+
+> That the following actions be taken with respect to the application of 31675 Ontario Ltd (York Developments Inc.), relating to the property located at 3080 Bostwick Road, referred to as Site 1: a)    ...
+
+Voted **Yea** - Motion Failed (3 to 3)
+
+### 2018-11-12: Public Participation Meeting - Application - 3080 Bostwick Road (Site 3) (Z-8942) 
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=f1796c7c-69cb-4f8d-ba0a-333dfb12b2e1&Agenda=PostMinutes&lang=English)
+
+> That, on the recommendation of the Senior Planner, Development Services, the following actions be taken with respect to the application of 31675 Ontario Ltd. (York Developments Inc.), relating to the ...
+
+Voted **Yea** - Motion Failed (3 to 3)
+
+### 2018-11-12: Public Participation Meeting - Application - 3080 Bostwick Road (Site 5) (OZ-8943)
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=f1796c7c-69cb-4f8d-ba0a-333dfb12b2e1&Agenda=PostMinutes&lang=English)
+
+> That the following actions be taken with respect to the application of 31675 Ontario Ltd (York Developments Inc.), relating to the property located at 3080 Bostwick Road referred to as Site 5: a)     ...
+
+Voted **Yea** - Motion Failed (3 to 3)
+
+### 2018-11-06: (3.4) Application - 324 York Street (TZ-8917) (Relates to Bill No. 610)
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=c0233c2f-9459-4232-ac30-7780a482a08d&Agenda=PostMinutes&lang=English)
+
+> The motion to approve part b) is put. b)         the proposed by-law appended to the staff report dated October 29, 2018 as Appendix "A" BE INTRODUCED at the Municipal Council meeting to be held on No...
+
+Voted **Nay** - Motion Passed (11 to 2)
+
+### 2018-11-06: By-laws
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=c0233c2f-9459-4232-ac30-7780a482a08d&Agenda=PostMinutes&lang=English)
+
+> That Introduction and First Reading of Bill No. 610 BE APPROVED.
+
+Voted **Nay** - Motion Passed (11 to 2)
+
+### 2018-11-06: By-laws
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=c0233c2f-9459-4232-ac30-7780a482a08d&Agenda=PostMinutes&lang=English)
+
+> That Second Reading of Bill No. 610 BE APPROVED.
+
+Voted **Nay** - Motion Passed (11 to 2)
+
+### 2018-11-06: By-laws
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=c0233c2f-9459-4232-ac30-7780a482a08d&Agenda=PostMinutes&lang=English)
+
+> That Third Reading and Enactment of Bill No. 610 BE APPROVED.
+
+Voted **Nay** - Motion Passed (11 to 2)
 
 ### 2018-09-24: Public Participation Meeting - Application - 745-747 Waterloo Street (Z-8921) 
 
@@ -129,84 +185,6 @@ Voted **Nay** - Motion Passed (9 to 4)
 > Motion to approve part c) Draft Annual Meeting Calendar: c)         the following actions be taken with respect to the draft annual meeting calendar for the period January 1, 2019 to December 31, 2019...
 
 Voted **Nay** - Motion Passed (8 to 5)
-
-### 2018-02-20: Property located at
-  2150 Oxford Street East (OZ-8851)
-
-[Planning and Environment Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=1c805c60-a822-4df7-beb4-334710c7c454&Agenda=PostMinutes&lang=English)
-
-> Motion
-  Passed
-
-Voted **Nay** - Motion
-  Passed
-
-### 2017-12-11: Financial and Other
-  Resources Required to Host International Plowing Match 2020
-
-[Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=fdaf40ac-d6d8-455a-bf11-f0d467c1a3bb&Agenda=PostMinutes&lang=English)
-
-> Motion Failed
-
-Voted **Yea** - Motion Failed
-
-### 2017-12-04: Planning for
-  Non-therapeutic Cannabis in Retail Stores
-
-[Planning and Environment Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=cf073cbf-f7e1-42b1-8d0e-f725cb85e862&Agenda=PostMinutes&lang=English)
-
-> Motion
-  Passed
-
-Voted **Nay** - Motion
-  Passed
-
-### 2017-11-07: Proposed Election
-  Sign By-law
-
-[Corporate Services Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=afa4e025-9810-4131-ae7a-3ee9349942d1&Agenda=PostMinutes&lang=English)
-
-> Motion
-  Passed
-
-Voted **Nay** - Motion
-  Passed
-
-### 2017-10-23: PUBLIC PARTICIPATION
-  MEETING - Properties located at 200 Albert Street, 192 to 196 Central Avenue
-  and 193 to 197 Central Avenue (TZ-8802)
-
-[Planning and Environment Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=4be63f44-b03c-4a80-b406-f316e3238006&Agenda=PostMinutes&lang=English)
-
-> Motion
-  Passed
-
-Voted **Nay** - Motion
-  Passed
-
-### 2017-10-23: PUBLIC PARTICIPATION
-  MEETING - Properties located at 200 Albert Street, 192 to 196 Central Avenue
-  and 193 to 197 Central Avenue (TZ-8802)
-
-[Planning and Environment Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=4be63f44-b03c-4a80-b406-f316e3238006&Agenda=PostMinutes&lang=English)
-
-> Motion
-  Passed
-
-Voted **Nay** - Motion
-  Passed
-
-### 2017-10-23: PUBLIC
-  PARTICIPATION MEETING – Properties located at 661 and 667 Talbot Street
-  (Z-8659)
-
-[Planning and Environment Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=4be63f44-b03c-4a80-b406-f316e3238006&Agenda=PostMinutes&lang=English)
-
-> Motion
-  Passed
-
-Voted **Nay** - Motion
-  Passed
 
 
 ## Committees Served

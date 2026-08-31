@@ -36,25 +36,25 @@
     "trendDirection": "declining"
   },
   "voting": {
-    "totalVotes": 2321,
-    "yeas": 2073,
-    "nays": 104,
-    "absent": 117,
-    "participationRate": 93.79577768203362,
-    "yeaRate": 95.22278364722095,
-    "contestedDissentRate": 16.901408450704224,
-    "contestedVotes": 497,
-    "substantiveVotes": 1332,
-    "substantiveYeas": 1142,
-    "substantiveNays": 91,
-    "substantiveParticipationRate": 92.56756756756756,
-    "substantiveYeaRate": 92.61962692619628
+    "totalVotes": 2997,
+    "yeas": 2440,
+    "nays": 152,
+    "absent": 360,
+    "participationRate": 86.48648648648648,
+    "yeaRate": 94.1358024691358,
+    "contestedDissentRate": 18.501529051987767,
+    "contestedVotes": 654,
+    "substantiveVotes": 1761,
+    "substantiveYeas": 1370,
+    "substantiveNays": 132,
+    "substantiveParticipationRate": 85.29244747302668,
+    "substantiveYeaRate": 91.21171770972038
   },
   "budgetVoting": {
-    "totalBudgetVotes": 239,
-    "budgetYeas": 209,
-    "budgetNays": 20,
-    "budgetAbsent": 10
+    "totalBudgetVotes": 300,
+    "budgetYeas": 250,
+    "budgetNays": 31,
+    "budgetAbsent": 19
   },
   "topAlignments": [],
   "bottomAlignments": [],
@@ -94,6 +94,15 @@
       "vote": "nay",
       "result": "Motion Passed (8 to 6)",
       "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=c752afe2-3cb1-4bfd-b25f-e9213c238492&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2021-05-10",
+      "meetingTitle": null,
+      "itemTitle": "Elected Officials and Appointed Citizen Members 2021 Remuneration",
+      "motionText": "That, notwithstanding the provisions of the Council Policy \"Remuneration for Elected Officials and Appointed Citizen Members\", the remuneration for elected officials and appointed citizens, NO INCREAS...",
+      "vote": "yea",
+      "result": "Motion Failed (2 to 4)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=0595f57b-1194-4dc5-a1ac-073c367eae2d&Agenda=PostMinutes&lang=English"
     },
     {
       "date": "2021-04-13",
@@ -139,52 +148,43 @@
       "vote": "nay",
       "result": "Motion Passed (11 to 4)",
       "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=2cfbef51-63f8-4f85-bd70-dd72a900fc5a&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2021-04-13",
-      "meetingTitle": null,
-      "itemTitle": "By-laws",
-      "motionText": "That Second Reading of Bill No. 157 BE APPROVED.",
-      "vote": "nay",
-      "result": "Motion Passed (11 to 4)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=2cfbef51-63f8-4f85-bd70-dd72a900fc5a&Agenda=PostMinutes&lang=English"
     }
   ],
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 1172,
-      "yeas": 1084,
-      "nays": 70,
-      "participationRate": 98.46416382252559
+      "totalVotes": 1577,
+      "yeas": 1332,
+      "nays": 99,
+      "participationRate": 90.74191502853519
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 542,
-      "yeas": 447,
-      "nays": 29,
-      "participationRate": 87.82287822878229
+      "totalVotes": 680,
+      "yeas": 530,
+      "nays": 44,
+      "participationRate": 84.41176470588235
     },
     {
       "committee": "Corporate Services Committee",
-      "totalVotes": 257,
-      "yeas": 222,
-      "nays": 1,
-      "participationRate": 86.7704280155642
+      "totalVotes": 327,
+      "yeas": 243,
+      "nays": 5,
+      "participationRate": 75.84097859327217
     },
     {
       "committee": "Planning and Environment Committee",
-      "totalVotes": 257,
-      "yeas": 235,
+      "totalVotes": 303,
+      "yeas": 240,
       "nays": 3,
-      "participationRate": 92.60700389105058
+      "participationRate": 80.19801980198021
     },
     {
       "committee": "Community and Protective Services Committee",
-      "totalVotes": 93,
-      "yeas": 85,
+      "totalVotes": 110,
+      "yeas": 95,
       "nays": 1,
-      "participationRate": 92.47311827956989
+      "participationRate": 87.27272727272727
     }
   ]
 }

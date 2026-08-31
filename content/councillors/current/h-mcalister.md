@@ -5,18 +5,18 @@ slug: "h-mcalister"
 meetingCount: 235
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 3986
+totalVotes: 4028
 votesYea: 3200
-votesNay: 280
-votesAbsent: 270
+votesNay: 282
+votesAbsent: 303
 votesRecused: 7
 votesAbstained: 0
-votesOther: 229
+votesOther: 236
 attendanceRate: 94.7
-participationRate: 87.3
-yeaRate: 92.0
-contestedDissentRate: 13.8
-contestedVotes: 1466
+participationRate: 86.4
+yeaRate: 91.9
+contestedDissentRate: 14.0
+contestedVotes: 1468
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,13 +33,13 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 3,986 |
-| Voted Yea | 3,200 (80.3%) |
-| Voted Nay | 280 (7.0%) |
-| Absent | 270 (6.8%) |
+| Total Votes | 4,028 |
+| Voted Yea | 3,200 (79.4%) |
+| Voted Nay | 282 (7.0%) |
+| Absent | 303 (7.5%) |
 | Recused (conflict of interest) | 7 (0.2%) |
 | Abstained | 0 (0.0%) |
-| Other/Unrecorded | 229 (5.7%) |
+| Other/Unrecorded | 236 (5.9%) |
 
 *Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
 
@@ -50,17 +50,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,492 |
-| Voted Yea | 1,863 (88.1%) |
-| Voted Nay | 251 (11.9%) |
+| Substantive Votes | 2,524 |
+| Voted Yea | 1,863 (88.0%) |
+| Voted Nay | 253 (12.0%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 13.8%
-- **Contested Votes**: 1,466
+- **Dissent Rate**: 14.0%
+- **Contested Votes**: 1,468
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -71,10 +71,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 391 |
-| Voted Yea | 309 (84.4%) |
-| Voted Nay | 57 (15.6%) |
-| Absent | 25 |
+| Budget Votes | 398 |
+| Voted Yea | 309 (84.2%) |
+| Voted Nay | 58 (15.8%) |
+| Absent | 31 |
 
 
 ## Attendance
@@ -94,14 +94,14 @@ prefillQuestions:
 ## Voting Alignment
 
 **Most aligned with:**
-- Skylar Franke (94.8%)
-- Josh Morgan (94.7%)
-- Anna Hopkins (93.7%)
+- Skylar Franke (94.9%)
+- Josh Morgan (94.6%)
+- Anna Hopkins (93.5%)
 
 **Least aligned with:**
-- Susan Stevenson (84.4%)
-- Paul Van Meerbergen (88.4%)
-- Sam Trosow (89.3%)
+- Susan Stevenson (84.1%)
+- Paul Van Meerbergen (88.1%)
+- Sam Trosow (89.4%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -110,12 +110,12 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 2,117 | 1,778 | 139 | 90.6% |
-| Strategic Priorities and Policy Committee | 1,073 | 769 | 70 | 78.2% |
+| Council | 2,119 | 1,778 | 140 | 90.5% |
+| Strategic Priorities and Policy Committee | 1,092 | 769 | 71 | 76.9% |
 | Community and Protective Services Committee | 266 | 228 | 14 | 91.0% |
 | Budget Committee | 189 | 135 | 39 | 92.1% |
-| Corporate Services Committee | 164 | 130 | 1 | 79.9% |
-| Civic Works Committee | 90 | 81 | 9 | 100.0% |
+| Corporate Services Committee | 173 | 130 | 1 | 75.7% |
+| Civic Works Committee | 102 | 81 | 9 | 88.2% |
 | Infrastructure and Corporate Services Committee | 87 | 79 | 8 | 100.0% |
 
 

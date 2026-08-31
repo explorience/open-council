@@ -5,18 +5,18 @@ slug: "a-kayabaga"
 meetingCount: 180
 yearsActive: "2018 - 2021"
 isCurrent: false
-totalVotes: 2321
-votesYea: 2073
-votesNay: 104
-votesAbsent: 117
-votesRecused: 0
+totalVotes: 2997
+votesYea: 2440
+votesNay: 152
+votesAbsent: 360
+votesRecused: 1
 votesAbstained: 0
-votesOther: 27
+votesOther: 44
 attendanceRate: 88.6
-participationRate: 93.8
-yeaRate: 95.2
-contestedDissentRate: 16.9
-contestedVotes: 497
+participationRate: 86.5
+yeaRate: 94.1
+contestedDissentRate: 18.5
+contestedVotes: 654
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,13 +33,13 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 2,321 |
-| Voted Yea | 2,073 (89.3%) |
-| Voted Nay | 104 (4.5%) |
-| Absent | 117 (5.0%) |
-| Recused (conflict of interest) | 0 (0.0%) |
+| Total Votes | 2,997 |
+| Voted Yea | 2,440 (81.4%) |
+| Voted Nay | 152 (5.1%) |
+| Absent | 360 (12.0%) |
+| Recused (conflict of interest) | 1 (0.0%) |
 | Abstained | 0 (0.0%) |
-| Other/Unrecorded | 27 (1.2%) |
+| Other/Unrecorded | 44 (1.5%) |
 
 *Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
 
@@ -50,17 +50,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 1,332 |
-| Voted Yea | 1,142 (92.6%) |
-| Voted Nay | 91 (7.4%) |
+| Substantive Votes | 1,761 |
+| Voted Yea | 1,370 (91.2%) |
+| Voted Nay | 132 (8.8%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 16.9%
-- **Contested Votes**: 497
+- **Dissent Rate**: 18.5%
+- **Contested Votes**: 654
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -71,10 +71,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 239 |
-| Voted Yea | 209 (91.3%) |
-| Voted Nay | 20 (8.7%) |
-| Absent | 10 |
+| Budget Votes | 300 |
+| Voted Yea | 250 (89.0%) |
+| Voted Nay | 31 (11.0%) |
+| Absent | 19 |
 
 
 ## Attendance
@@ -95,11 +95,11 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 1,172 | 1,084 | 70 | 98.5% |
-| Strategic Priorities and Policy Committee | 542 | 447 | 29 | 87.8% |
-| Corporate Services Committee | 257 | 222 | 1 | 86.8% |
-| Planning and Environment Committee | 257 | 235 | 3 | 92.6% |
-| Community and Protective Services Committee | 93 | 85 | 1 | 92.5% |
+| Council | 1,577 | 1,332 | 99 | 90.7% |
+| Strategic Priorities and Policy Committee | 680 | 530 | 44 | 84.4% |
+| Corporate Services Committee | 327 | 243 | 5 | 75.8% |
+| Planning and Environment Committee | 303 | 240 | 3 | 80.2% |
+| Community and Protective Services Committee | 110 | 95 | 1 | 87.3% |
 
 
 ## Notable Dissenting Votes
@@ -138,6 +138,14 @@ Voted **Yea** - Motion Failed (7 to 7)
 
 Voted **Nay** - Motion Passed (8 to 6)
 
+### 2021-05-10: Elected Officials and Appointed Citizen Members 2021 Remuneration
+
+[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=0595f57b-1194-4dc5-a1ac-073c367eae2d&Agenda=PostMinutes&lang=English)
+
+> That, notwithstanding the provisions of the Council Policy "Remuneration for Elected Officials and Appointed Citizen Members", the remuneration for elected officials and appointed citizens, NO INCREAS...
+
+Voted **Yea** - Motion Failed (2 to 4)
+
 ### 2021-04-13: (2.17) Dundas Place - Temporary Bicycle Lanes (Relates to Bill No's. 148 and 149)
 
 [null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=2cfbef51-63f8-4f85-bd70-dd72a900fc5a&Agenda=PostMinutes&lang=English)
@@ -175,14 +183,6 @@ Voted **Nay** - Motion Passed (11 to 4)
 [null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=2cfbef51-63f8-4f85-bd70-dd72a900fc5a&Agenda=PostMinutes&lang=English)
 
 > That Introduction and First Reading of Bill No. 157 BE APPROVED.
-
-Voted **Nay** - Motion Passed (11 to 4)
-
-### 2021-04-13: By-laws
-
-[null](https://pub-london.escribemeetings.com/Meeting.aspx?Id=2cfbef51-63f8-4f85-bd70-dd72a900fc5a&Agenda=PostMinutes&lang=English)
-
-> That Second Reading of Bill No. 157 BE APPROVED.
 
 Voted **Nay** - Motion Passed (11 to 4)
 
