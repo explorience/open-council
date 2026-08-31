@@ -84,9 +84,10 @@ interface IssuesFile {
   generatedAt: string;
   cutoffDate: string;
   methodology: string;
-  truncatedExcludedCount: number;
+  truncatedDisplayCount: number;
   resultMismatchCount: number;
   rosterConflictCount: number;
+  notDividedCount: number;
   unclassified: { count: number; note: string; sample: UnclassifiedSample[] };
   issues: Record<string, IssueEntry>;
 }
@@ -166,6 +167,12 @@ interface WardEntry {
   source?: string;
 }
 
+interface MayoralCandidateEntry {
+  slug: string;
+  note: string;
+  source?: string;
+}
+
 interface WardsFile {
   currentTermEndsNote: string;
   boundaryReviewSource: string;
@@ -174,6 +181,12 @@ interface WardsFile {
   cityWardMapTool: string;
   wards: WardEntry[];
   unresolvedNote: string;
+  /** Round-2 finding B5: candidacy notes for current councillors running
+   * for Mayor, keyed by slug rather than ward — a sitting Mayor has no ward
+   * entry to carry a note through, so this is the only mechanism that can
+   * give both current-council Mayor candidates symmetric treatment. See
+   * generateCouncillorPage. */
+  mayoralCandidates?: MayoralCandidateEntry[];
 }
 
 // ---------------------------------------------------------------------------
@@ -222,7 +235,15 @@ const VOTE_LABEL: Record<string, string> = {
   other: "Other",
 };
 
-const STANDING_DISCLAIMER = `> **This is a descriptive record, not an endorsement.** Every pattern below is built from real recorded votes since 2023, translated from raw yea/nay into what the vote actually did (see [What Council Actually Controls](/election/what-council-controls) for how much of this any of them controls). It says nothing about a councillor's reasons, character, or fitness for office — only how they voted. Votes with no clear direction ("unclear") are excluded from the pattern counts but stay linked below for transparency, and every row links to the real motion so you can read it yourself.`;
+// Reworded 2026-08-31 (round-2 finding B4): "every row links to the real
+// motion" overstated what the link actually does for a meaningful minority
+// of rows — where a motion's heading is shared with another, different
+// motion (anchors.ts can't build a heading-level anchor that would point to
+// only one of them), the row is marked anchorAmbiguous and links to the
+// meeting page as a whole instead, disclosed inline right on that row (see
+// motionLink below). The disclaimer now describes both cases honestly
+// instead of promising precision every row doesn't have.
+const STANDING_DISCLAIMER = `> **This is a descriptive record, not an endorsement.** Every pattern below is built from real recorded votes since 2023, translated from raw yea/nay into what the vote actually did (see [What Council Actually Controls](/election/what-council-controls) for how much of this any of them controls). It says nothing about a councillor's reasons, character, or fitness for office — only how they voted. Votes with no clear direction ("unclear") are excluded from the pattern counts but stay linked below for transparency. Every row links to its source: most link straight to that specific motion's own heading; where a heading is shared with another motion and can't be told apart, the row says so and links to the meeting page it's part of instead.`;
 
 // ---------------------------------------------------------------------------
 // Load data
@@ -298,7 +319,7 @@ ${councillorRows}
 
 ---
 
-*Methodology: a "divided" vote is any non-unanimous, non-procedural council or committee motion since ${issues.cutoffDate}. Issue and direction ("what a yea did") are derived from each motion's own text using a fixed, deterministic set of rules, not assumed from topic and not a case-by-case judgment call — see the [issues page](/election/issues) for the exact counts and the unclassified/unclear disclosure.*
+*Methodology: a "divided" vote is any non-unanimous, non-procedural council or committee motion since ${issues.cutoffDate}. Issue and direction ("what a yea did") are read from each motion's own complete text — not just the agenda item's title — and independently verified motion by motion, not assumed from topic. See the [issues page](/election/issues) for the exact counts and the unclassified/unclear disclosure.*
 `;
 }
 
@@ -395,15 +416,30 @@ function renderIssueSection(issueSlug: string, issue: IssueStance): string {
   // someone from every vote-kind bucket is a gap in the scraped record, not
   // a non-membership fact (spot-check: c699eb9cc94f, a City Council motion,
   // is one of several where the old single wording was flatly false).
+  // Fixed 2026-08-31 (round-2 finding S2): "1 was committee votes" was both
+  // ungrammatical (hardcoded plural "votes" regardless of count) and, more
+  // to the point, mislabeled — this bucket is agenda items this councillor
+  // did NOT vote on (not a member of that committee, or a data gap), so
+  // calling them "votes" at all overstates what happened. Both clauses now
+  // say "motion(s)" (matching the rest of the hub's own vocabulary for "an
+  // agenda item that came to a vote") and pluralize correctly.
   const notOnRosterBits: string[] = [];
   if (issue.notOnRosterCommittee > 0) {
+    const word =
+      issue.notOnRosterCommittee === 1
+        ? "a committee motion"
+        : "committee motions";
     notOnRosterBits.push(
-      `${issue.notOnRosterCommittee} ${issue.notOnRosterCommittee === 1 ? "was" : "were"} committee votes this councillor was not a member of that committee`,
+      `${issue.notOnRosterCommittee} ${issue.notOnRosterCommittee === 1 ? "was" : "were"} ${word} this councillor was not a member of that committee`,
     );
   }
   if (issue.notOnRosterCouncilGap > 0) {
+    const word =
+      issue.notOnRosterCouncilGap === 1
+        ? "a Council motion"
+        : "Council motions";
     notOnRosterBits.push(
-      `${issue.notOnRosterCouncilGap} ${issue.notOnRosterCouncilGap === 1 ? "was" : "were"} Council vote${issue.notOnRosterCouncilGap === 1 ? "" : "s"} where this councillor's individual position wasn't captured in the source data (a data gap — all 15 members sit on Council)`,
+      `${issue.notOnRosterCouncilGap} ${issue.notOnRosterCouncilGap === 1 ? "was" : "were"} ${word} where this councillor's individual position wasn't captured in the source data (a data gap — all 15 members sit on Council)`,
     );
   }
   const notOnRosterClause = notOnRosterBits.length
@@ -423,6 +459,7 @@ function generateCouncillorPage(
   slug: string,
   c: CouncillorStance,
   ward: WardEntry | undefined,
+  mayoralCandidates: MayoralCandidateEntry[],
 ): string {
   const issueSlugs = Object.keys(c.issues).sort(
     (a, b) => c.issues[b].divisionsInCorpus - c.issues[a].divisionsInCorpus,
@@ -435,17 +472,26 @@ function generateCouncillorPage(
     ? `${c.role}, Ward ${ward.ward} (2022–2026 boundaries)`
     : c.role;
 
-  // Fixed 2026-08-31 (hub-recheck verdict finding 11): 2026 candidacy data
-  // already exists in data/election/wards.json (which ward a sitting
-  // councillor is/isn't running in for the Oct 26, 2026 election) but
-  // wasn't plumbed onto the councillor's own profile page — an omission
-  // that reads as an asymmetry (Stevenson's profile still said plain
-  // "Councillor" with no mention she's running for Mayor instead; Rahman's
-  // Ward 7→5 move was absent). Neutral wording carried over verbatim from
-  // wards.json — no new claims are made here, just surfaced where a reader
-  // is actually looking.
-  const candidacyNote = ward?.incumbent2026Note
-    ? `\n> **2026 candidacy:** ${ward.incumbent2026Note} See the [certified candidate list](/election/wards) for the authoritative source.\n`
+  // Fixed 2026-08-31 (hub-recheck verdict finding 11, then round-2 finding
+  // B5): 2026 candidacy data already exists in data/election/wards.json but
+  // wasn't plumbed onto the councillor's own profile page. The first fix
+  // only sourced this from the WARD entry's incumbent2026Note — which gave
+  // Stevenson (Ward 4) a mayoral-candidacy note but structurally could
+  // never give the sitting Mayor (Morgan) one, since a Mayor has no ward
+  // entry to carry it. Now built from two independent, combinable sources:
+  // the ward-level note (any councillor not seeking re-election to their
+  // own seat, or moving wards) and a slug-keyed mayoralCandidates note (any
+  // current councillor certified as a Mayor candidate) — so both current
+  // Mayor candidates get the same neutral, symmetric treatment regardless
+  // of whether they currently hold a ward seat. Wording carried over
+  // verbatim from wards.json — no new claims are made here, just surfaced
+  // where a reader is actually looking.
+  const mayoralNote = mayoralCandidates.find((m) => m.slug === slug)?.note;
+  const candidacyBits = [ward?.incumbent2026Note, mayoralNote].filter(
+    (n): n is string => Boolean(n),
+  );
+  const candidacyNote = candidacyBits.length
+    ? `\n> **2026 candidacy:** ${candidacyBits.join(" ")} See the [certified candidate list](/election/wards) for the authoritative source.\n`
     : "";
 
   const noPatternNote =
@@ -618,7 +664,7 @@ ${issues.unclassified.count.toLocaleString()} additional divided motions since $
 
 ${sampleRows}
 
-*${tcell(issues.unclassified.note)} Separately (not counted above), ${issues.truncatedExcludedCount.toLocaleString()} motions that ARE classified into one of the issue clusters are marked "unclear" and excluded from the pattern counts on each issue's page, because their motion text hit a 500-character truncation cap in the source data — a clause past that cut-off could silently flip what the vote actually did.*
+*${tcell(issues.unclassified.note)} Separately, ${issues.truncatedDisplayCount.toLocaleString()} classified motions have a motion-text excerpt on this hub that's cut off at a 500-character display cap in the source data — this affects how much of the quoted text you see, not the classification itself, which was independently verified against each motion's complete text in the source meeting record. ${issues.notDividedCount.toLocaleString()} additional motion${issues.notDividedCount === 1 ? "" : "s"} were dropped from the divided-vote universe entirely before classification because the verification pass found they weren't a genuine division (a lopsided result the source data's own "unanimous" flag missed, or the same motion recorded twice under two item numbers).*
 `;
 }
 
@@ -714,6 +760,9 @@ function generateWardsPage(
   const bySlug = new Map<string, { displayName: string }>();
   for (const info of Object.values(registry))
     bySlug.set(info.slug, { displayName: info.displayName });
+  const mayoralBySlug = new Map(
+    (wardsData.mayoralCandidates ?? []).map((m) => [m.slug, m.note]),
+  );
 
   const rows = wardsData.wards
     .map((w) => {
@@ -722,7 +771,17 @@ function generateWardsPage(
         ? `[${rep.displayName}](/election/councillors/${w.currentRepSlug})`
         : "—";
       const changed = w.boundaryChanged2026 ? "Changed" : "Same shape";
-      const note = w.incumbent2026Note ? w.incumbent2026Note : "—";
+      // Round-2 finding B5: a ward's own incumbent2026Note and the
+      // mayoralCandidates note are independent facts (the ward note is
+      // ward-specific — "no outgoing councillor on this ballot" — the
+      // mayoral note is about what that person IS running for) — shown
+      // together here when both exist, same combining logic as the
+      // councillor's own profile page.
+      const noteBits = [
+        w.incumbent2026Note,
+        mayoralBySlug.get(w.currentRepSlug),
+      ].filter((n): n is string => Boolean(n));
+      const note = noteBits.length ? noteBits.join(" ") : "—";
       return `| ${w.ward} | ${repLink} | ${changed} | ${note} |`;
     })
     .join("\n");
@@ -781,7 +840,10 @@ For the authoritative, official candidate list for every ward, see the City Cler
         {
           slug: w.currentRepSlug,
           name: bySlug.get(w.currentRepSlug)?.displayName ?? w.currentRepSlug,
-          note2026: w.incumbent2026Note,
+          note2026:
+            [w.incumbent2026Note, mayoralBySlug.get(w.currentRepSlug)]
+              .filter(Boolean)
+              .join(" ") || null,
         },
       ]),
     ),
@@ -1047,10 +1109,11 @@ async function main() {
     path.join(CONTENT_DIR, "councillors", "index.md"),
     generateCouncillorsIndexPage(stances),
   );
+  const mayoralCandidates = wardsData.mayoralCandidates ?? [];
   for (const [slug, c] of Object.entries(stances.councillors)) {
     await writeFile(
       path.join(CONTENT_DIR, "councillors", `${slug}.md`),
-      generateCouncillorPage(slug, c, wardBySlug.get(slug)),
+      generateCouncillorPage(slug, c, wardBySlug.get(slug), mayoralCandidates),
     );
   }
   console.log(

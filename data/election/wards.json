@@ -29,8 +29,8 @@
       "ward": 4,
       "currentRepSlug": "s-stevenson",
       "boundaryChanged2026": true,
-      "incumbent2026Note": "Susan Stevenson is not seeking re-election to this seat — she is running for Mayor instead. No outgoing Ward 4 councillor appears on the 2026 Ward 4 ballot.",
-      "source": "2026 certified candidate list: Susan Stevenson appears only as a Mayor candidate, not as a Ward 4 council candidate."
+      "incumbent2026Note": "No outgoing Ward 4 councillor appears on the 2026 Ward 4 ballot.",
+      "source": "2026 certified candidate list (No. 38): Susan Stevenson appears only as a Mayor candidate, not as a Ward 4 council candidate."
     },
     {
       "ward": 5,
@@ -96,5 +96,18 @@
       "source": "2026 certified candidate list: Steve Hillier does not appear as a candidate for any office."
     }
   ],
-  "unresolvedNote": "For wards not flagged above, this data does not assert that the outgoing councillor is running again in 2026 — only that no change was found in this pass. Boundary shape changed for Wards 1, 3, 4, 5, 7, 12 and 14 even where the incumbent is unaffected, per the City's Ward Boundary Review. Always check the official certified candidate list linked above for who is actually on your ballot."
+  "unresolvedNote": "For wards not flagged above, this data does not assert that the outgoing councillor is running again in 2026 — only that no change was found in this pass. Boundary shape changed for Wards 1, 3, 4, 5, 7, 12 and 14 even where the incumbent is unaffected, per the City's Ward Boundary Review. Always check the official certified candidate list linked above for who is actually on your ballot.",
+  "mayoralCandidates": [
+    {
+      "slug": "j-morgan",
+      "note": "Josh Morgan, the sitting Mayor, is a certified candidate for Mayor in the Oct 26, 2026 election.",
+      "source": "2026 certified candidate list (No. 18): Josh Morgan, Mayor."
+    },
+    {
+      "slug": "s-stevenson",
+      "note": "Susan Stevenson, the outgoing Ward 4 councillor, is a certified candidate for Mayor in the Oct 26, 2026 election.",
+      "source": "2026 certified candidate list (No. 38): Susan Stevenson, Mayor."
+    }
+  ],
+  "_mayoralCandidatesComment": "Round-2 finding B5 (2026-08-31): Stevenson's mayoral run was disclosed via the Ward 4 incumbent2026Note, but Morgan — the sitting Mayor and the OTHER current councillor running for Mayor — has no ward entry in this file to carry an equivalent note, so his own profile page structurally couldn't show one. This list is keyed by councillor slug (not ward) so both current-council mayoral candidates get the same neutral treatment on their own profile pages. There are 10 additional certified Mayor candidates on the 2026 list who are not current councillors and don't have Election Hub profiles at all — out of scope here, same as any other non-incumbent challenger (see the certified list for the complete field)."
 }
