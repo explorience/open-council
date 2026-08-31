@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-31T18:50:29.451Z",
+  "generatedAt": "2026-08-31T19:51:06.497Z",
   "sourceHash": "b7db59b827637e80",
   "sourceGeneratedAt": "2026-08-31T05:18:27.112Z",
   "cutoffDate": "2023-01-01",
-  "methodology": "A \"divided\" vote is any council or committee motion since January 1, 2023 that wasn't approved unanimously and wasn't a routine procedural step, and it doesn't include a vote decided by secret ballot to fill an appointment, since those don't produce a recorded yea or nay by councillor. For each councillor, on each issue, on each axis: a vote counts as \"for\" when it matched that axis's more permissive outcome, and \"against\" when it matched the more restrictive one — but a nay is never described as if it enacted the restrictive outcome; it's described as opposing the motion it was cast on, and the same care is taken in the other direction. When every recorded vote on an axis since 2023 happens to fall on one side, the pattern sentence says so plainly instead of silently reporting a zero on the other side. Every motion's issue, axis, and direction (\"what a yea did\") come from an independent, motion-by-motion review, checked against that motion's own complete text in the official meeting record rather than a keyword search, with a small, separately published list of after-the-fact corrections applied on top — never a silent edit to the reviewed record. This is a genuine reading of what each clause did, not a raw yea/nay count, including for the generic \"approved or denied the item\" description used when no issue-specific axis applies. Recusals and absences are always counted on their own, never folded into \"against\" and never treated as a hidden position. A pattern sentence is only stated once a councillor has at least 5 separate underlying decisions on an axis — a committee vote followed later by a council vote on the same policy question counts as one decision, not two, so a motion with several stages can't inflate the count; below that threshold the individual votes are still shown, just without a summary sentence. Some motions were reviewed and confirmed to have no clear direction at all — a referral, a request for more information, or a genuinely ambiguous clause — and these are listed, on every relevant issue, as motions with no clear direction: never counted in any pattern or sample size, but never hidden either. This project has no source recording which committee a councillor belongs to — that list isn't published or collected anywhere; a meeting's own attendance record shows who was there that day, not who belongs to it. So when a councillor has no recorded vote on a motion, nothing is claimed about why, in either direction: only whether that meeting's own record separately listed this councillor as present without a recorded vote, or whether nothing else can be said at all. Before any of the above, motions were also dropped in three ways, none of them guessed at or repaired: 33 where the same person was recorded as voting more than one way on the same motion (a roster conflict in the source data); 0 more where a motion's own written result didn't match its recorded yea/nay count (a result mismatch); and 3 more that turned out, on review, not to be a genuine division at all — a lopsided result the source data's own \"unanimous\" marker missed, or the same motion recorded twice under two item numbers. Each motion is filed under exactly one issue, so a motion that touches two topics — a housing decision with a budget line, say — appears on one issue page only, never both. Where the source text has a hash symbol immediately followed by a case or item number — as in a title reading \"Business Case\", then a hash, then \"P-5\" — this hub shows it instead as \"Business Case No. P-5\", so the character can't be misread as a link; the underlying wording is not otherwise changed.",
+  "methodology": "A \"divided\" vote is any council or committee motion since January 1, 2023 that wasn't approved unanimously and wasn't a routine procedural step, and it doesn't include a vote decided by secret ballot to fill an appointment, since those don't produce a recorded yea or nay by councillor. For each councillor, on each issue, on each axis: a vote counts as \"for\" when it matched that axis's more permissive outcome, and \"against\" when it matched the more restrictive one — but a nay is never described as if it enacted the restrictive outcome; it's described as opposing the motion it was cast on, and the same care is taken in the other direction. When every recorded vote on an axis since January 1, 2023 happens to fall on one side, the pattern sentence says so plainly instead of silently reporting a zero on the other side. Every motion's issue, axis, and direction (\"what a yea did\") come from an independent, motion-by-motion review, checked against that motion's own complete text in the official meeting record rather than a keyword search, with a small, separately published list of after-the-fact corrections applied on top — never a silent edit to the reviewed record. This is a genuine reading of what each clause did, not a raw yea/nay count, including for the generic \"approved or denied the item\" description used when no issue-specific axis applies. Recusals and absences are always counted on their own, never folded into \"against\" and never treated as a hidden position. A pattern sentence is only stated once a councillor has at least 5 separate underlying decisions on an axis — a committee vote followed later by a council vote on the same policy question counts as one decision, not two, so a motion with several stages can't inflate the count; below that threshold the individual votes are still shown, just without a summary sentence. Some motions were reviewed and confirmed to have no clear direction at all — a referral, a request for more information, or a genuinely ambiguous clause — and these are listed, on every relevant issue, as motions with no clear direction: never counted in any pattern or sample size, but never hidden either. This project has no source recording which committee a councillor belongs to — that list isn't published or collected anywhere; a meeting's own attendance record shows who was there that day, not who belongs to it. So when a councillor has no recorded vote on a motion, nothing is claimed about why, in either direction: only whether that meeting's own record separately listed this councillor as present without a recorded vote, or whether nothing else can be said at all. Before any of the above, motions were also dropped in 2 ways, none of them guessed at or repaired: 33 where the same person was recorded as voting more than one way on the same motion (a roster conflict in the source data); and 3 more that turned out, on review, not to be a genuine division at all — a lopsided result the source data's own \"unanimous\" marker missed, or the same motion recorded twice under two item numbers. Each motion is filed under exactly one issue, so a motion that touches two topics — a housing decision with a budget line, say — appears on one issue page only, never both. Where the source text has a hash symbol immediately followed by a case or item number — as in a title reading \"Business Case\", then a hash, then \"P-5\" — this hub shows it instead as \"Business Case No. P-5\", so the character can't be misread as a link; the underlying wording is not otherwise changed.",
   "truncatedDisplayCount": 436,
   "resultMismatchCount": 0,
   "rosterConflictCount": 33,
@@ -388,7 +388,7 @@
           "matchedKeywords": [],
           "direction": {
             "axis": null,
-            "label": "Shortened the Housing Stability Services procurement framework's initial term from the proposed multi-year length to a one-year contract with an option to renew for one additional year."
+            "label": "Would have shortened the Housing Stability Services procurement framework's initial term from the proposed multi-year length to a one-year contract with an option to renew for one additional year."
           },
           "positions": {
             "s-lewis": "yea",
@@ -581,7 +581,7 @@
           ],
           "direction": {
             "axis": null,
-            "label": "Declined to include costing an expanded Tier 2 Surge Response (50 additional warming spaces at -5C) among the scenarios Civic Administration must investigate and report back on."
+            "label": "Would have included costing an expanded Tier 2 Surge Response (50 additional warming spaces at -5C) among the scenarios Civic Administration must investigate and report back on."
           },
           "positions": {
             "s-trosow": "yea",
@@ -789,7 +789,7 @@
           ],
           "direction": {
             "axis": null,
-            "label": "Rejected approving the Homeless Prevention Service Standards regarding Good Neighbour and Community Relations."
+            "label": "Would have approved the Homeless Prevention Service Standards regarding Good Neighbour and Community Relations."
           },
           "positions": {
             "s-lewis": "yea",
@@ -869,7 +869,7 @@
           ],
           "direction": {
             "axis": null,
-            "label": "Rejected amending the Housing Stability Services procurement framework to add a one-year (plus option) contract renewal and a directed review of existing housing-stability contracts with a report back to Council."
+            "label": "Would have amended the Housing Stability Services procurement framework to add a one-year (plus option) contract renewal and a directed review of existing housing-stability contracts with a report back to Council."
           },
           "positions": {
             "s-lewis": "yea",
@@ -956,7 +956,7 @@
           ],
           "direction": {
             "axis": null,
-            "label": "Rejected directing Civic Administration to consult with first responders (paramedics, police, fire) on emergency services at the Micro-Modular Shelter Site and report back."
+            "label": "Would have directed Civic Administration to consult with first responders (paramedics, police, fire) on emergency services at the Micro-Modular Shelter Site and report back."
           },
           "positions": {
             "s-stevenson": "yea",
@@ -1005,7 +1005,7 @@
           ],
           "direction": {
             "axis": null,
-            "label": "Rejected directing Civic Administration to consult with service providers on their roles, responsibilities, and costs at the Micro-Modular Shelter Site and report back."
+            "label": "Would have directed Civic Administration to consult with service providers on their roles, responsibilities, and costs at the Micro-Modular Shelter Site and report back."
           },
           "positions": {
             "s-stevenson": "yea",
@@ -1054,7 +1054,7 @@
           ],
           "direction": {
             "axis": null,
-            "label": "Rejected directing Civic Administration to consult with the London Transit Commission and report back on improving transit service (rerouting, snow/ice clearing, lighting) to the Micro-Modular Shelter Site."
+            "label": "Would have directed Civic Administration to consult with the London Transit Commission and report back on improving transit service (rerouting, snow/ice clearing, lighting) to the Micro-Modular Shelter Site."
           },
           "positions": {
             "s-trosow": "yea",
@@ -1157,7 +1157,7 @@
           ],
           "direction": {
             "axis": null,
-            "label": "Made a wording-only edit to the Micro-Modular Shelter Site motion, changing 'regarding' to 'with the' in the briefing-note clause; it did not change the site, funding, or timeline decisions."
+            "label": "Would have made a wording-only edit to the Micro-Modular Shelter Site motion, changing 'regarding' to 'with the' in the briefing-note clause; it did not change the site, funding, or timeline decisions."
           },
           "positions": {
             "p-cuddy": "yea",
@@ -1206,7 +1206,7 @@
           ],
           "direction": {
             "axis": null,
-            "label": "Directed Civic Administration to report back to a future Community and Protective Services Committee meeting with the homelessness-response metrics previously requested at an October 2024 Strategic Priorities and Policy Committee meeting."
+            "label": "Would have directed Civic Administration to report back to a future Community and Protective Services Committee meeting with the homelessness-response metrics previously requested at an October 2024 Strategic Priorities and Policy Committee meeting."
           },
           "positions": {
             "s-lewis": "yea",
@@ -1398,7 +1398,7 @@
           ],
           "direction": {
             "axis": null,
-            "label": "Directed Civic Administration to propose recommendations to amend existing housing-placement contracts to address barriers identified in part a), including potential head-lease requirements and strengthened landlord-responsibility language."
+            "label": "Would have directed Civic Administration to propose recommendations to amend existing housing-placement contracts to address barriers identified in part a), including potential head-lease requirements and strengthened landlord-responsibility language."
           },
           "positions": {
             "s-stevenson": "yea",
@@ -2994,7 +2994,7 @@
           "matchedKeywords": [],
           "direction": {
             "axis": null,
-            "label": "Proposed re-amending part b) back to text identical to the already-pending wording (no BIA siting restriction), after the amendment adding that restriction had already failed — a restatement with no clear net effect on the pending text."
+            "label": "Would have proposed re-amending part b) back to text identical to the already-pending wording (no BIA siting restriction), after the amendment adding that restriction had already failed — a restatement with no clear net effect on the pending text."
           },
           "positions": {
             "s-trosow": "yea",
@@ -4744,7 +4744,7 @@
           ],
           "direction": {
             "axis": null,
-            "label": "Referred the Housing Stability Services purchase-of-service agreements back to Civic Administration to meet with providers, review proposed budgets for two-year (rather than one-year) renewal savings, and report back to a future meeting."
+            "label": "Would have referred the Housing Stability Services purchase-of-service agreements back to Civic Administration to meet with providers, review proposed budgets for two-year (rather than one-year) renewal savings, and report back to a future meeting."
           },
           "positions": {
             "s-stevenson": "yea",
@@ -8725,7 +8725,7 @@
           ],
           "direction": {
             "axis": null,
-            "label": "Referred the Hamilton Road BIA and Old East Village BIA funding request to the August 11, 2025 Community and Protective Services Committee meeting, to allow time to receive a list of earmarked COVID-19 relief funding items from those BIAs, and requested a matching expenditure list from the Downtown London BIA."
+            "label": "Would have referred the Hamilton Road BIA and Old East Village BIA funding request to the August 11, 2025 Community and Protective Services Committee meeting, to allow time to receive a list of earmarked COVID-19 relief funding items from those BIAs, and requested a matching expenditure list from the Downtown London BIA."
           },
           "positions": {
             "s-franke": "yea",
@@ -10209,7 +10209,7 @@
           ],
           "direction": {
             "axis": null,
-            "label": "Directed Civic Administration to report back with more detailed information on further improvements at the Western Road/Sarnia Road/Philip Aziz Avenue intersection, including the feasibility of a pedestrian scramble."
+            "label": "Would have directed Civic Administration to report back with more detailed information on further improvements at the Western Road/Sarnia Road/Philip Aziz Avenue intersection, including the feasibility of a pedestrian scramble."
           },
           "positions": {
             "s-trosow": "yea",
@@ -10897,7 +10897,7 @@
           ],
           "direction": {
             "axis": null,
-            "label": "Referred the motion regarding the London Transit Commission's dissolution and restructuring to the next Strategic Priorities and Policy Committee meeting."
+            "label": "Would have referred the motion regarding the London Transit Commission's dissolution and restructuring to the next Strategic Priorities and Policy Committee meeting."
           },
           "positions": {
             "h-mcalister": "yea",
@@ -12998,7 +12998,7 @@
           ],
           "direction": {
             "axis": null,
-            "label": "Declined to accept the Development Charges Tribunal's recommendation to dismiss the appeal regarding development charges applied to the London Cross-Cultural Learner Centre's Doorway to Dreams project."
+            "label": "Would have accepted the Development Charges Tribunal's recommendation to dismiss the appeal regarding development charges applied to the London Cross-Cultural Learner Centre's Doorway to Dreams project, on the Tribunal's finding that the charges were correctly determined."
           },
           "positions": {
             "h-mcalister": "yea",
@@ -13556,7 +13556,7 @@
           "matchedKeywords": [],
           "direction": {
             "axis": null,
-            "label": "Directed Civic Administration to include a budget business case to increase the School Crossing Guard Program by $200,000 a year and identify a funding source."
+            "label": "Would have directed Civic Administration to include a budget business case to increase the School Crossing Guard Program by $200,000 a year and identify a funding source."
           },
           "positions": {
             "p-cuddy": "yea",
@@ -13605,7 +13605,7 @@
           ],
           "direction": {
             "axis": null,
-            "label": "Requested the London & Middlesex Housing Corporation to prepare a business case on pros, cons, costs and funding sources for additional investment in its properties."
+            "label": "Would have requested the London & Middlesex Housing Corporation to prepare a business case on pros, cons, costs and funding sources for additional investment in its properties."
           },
           "positions": {
             "s-trosow": "yea",
@@ -13654,7 +13654,7 @@
           ],
           "direction": {
             "axis": null,
-            "label": "Directed staff to prepare a business case setting out options for reducing the Advisory Committee budget, for Council's future consideration."
+            "label": "Would have directed staff to prepare a business case setting out options for reducing the Advisory Committee budget, for Council's future consideration."
           },
           "positions": {
             "s-stevenson": "yea",
@@ -13703,7 +13703,7 @@
           ],
           "direction": {
             "axis": null,
-            "label": "Directed staff to prepare a business case setting out options, cost savings and staffing impacts for reducing the Heritage Department's budget, for Council's future consideration."
+            "label": "Would have directed staff to prepare a business case setting out options, cost savings and staffing impacts for reducing the Heritage Department's budget, for Council's future consideration."
           },
           "positions": {
             "s-stevenson": "yea",
@@ -19487,7 +19487,7 @@
           ],
           "direction": {
             "axis": null,
-            "label": "Moved to direct Civic Administration to report back to a future Infrastructure and Corporate Services Committee meeting with a proposed implementation plan for a 'Point of Purchase' weeping-tile (stormwater) disconnection program; this motion failed."
+            "label": "Would have directed Civic Administration to report back to a future Infrastructure and Corporate Services Committee meeting with a proposed implementation plan for a 'Point of Purchase' weeping-tile (stormwater) disconnection program."
           },
           "positions": {
             "h-mcalister": "yea",
@@ -19755,7 +19755,7 @@
           ],
           "direction": {
             "axis": null,
-            "label": "Approved directing Civic Administration to study wildlife-vehicle-collision mitigation infrastructure costs, develop a natural-heritage connectivity plan for west-end lands entering the Urban Growth Boundary, and map the City's agricultural land holdings."
+            "label": "Would have approved directing Civic Administration to study wildlife-vehicle-collision mitigation infrastructure costs, develop a natural-heritage connectivity plan for west-end lands entering the Urban Growth Boundary, and map the City's agricultural land holdings."
           },
           "positions": {
             "s-trosow": "yea",
@@ -19805,7 +19805,7 @@
           ],
           "direction": {
             "axis": null,
-            "label": "Referred the requested wildlife-vehicle-collision cost study and natural-heritage connectivity-plan requests (part f i-iii of the Environmental Stewardship report) to a future Planning and Environment Committee meeting for consideration."
+            "label": "Would have referred the requested wildlife-vehicle-collision cost study and natural-heritage connectivity-plan requests (part f i-iii of the Environmental Stewardship report) to a future Planning and Environment Committee meeting for consideration."
           },
           "positions": {
             "j-morgan": "yea",
@@ -19901,7 +19901,7 @@
           ],
           "direction": {
             "axis": null,
-            "label": "Referred the proposed Medway Valley Conservation Master Plan changes back to Civic Administration to report back with potential design alternatives for the trail, resident concerns about its location and design, and AODA-compliance considerations."
+            "label": "Would have referred the proposed Medway Valley Conservation Master Plan changes back to Civic Administration to report back with potential design alternatives for the trail, resident concerns about its location and design, and AODA-compliance considerations."
           },
           "positions": {
             "h-mcalister": "yea",
@@ -20046,7 +20046,7 @@
           ],
           "direction": {
             "axis": null,
-            "label": "Directed Civic Administration to bring a report to a future Planning and Environment Committee meeting examining the feasibility of an Agricultural Land Offset Policy, approaches for offsetting agricultural land losses, and alignment with the City's environmental and planning frameworks."
+            "label": "Would have directed Civic Administration to bring a report to a future Planning and Environment Committee meeting examining the feasibility of an Agricultural Land Offset Policy, approaches for offsetting agricultural land losses, and alignment with the City's environmental and planning frameworks."
           },
           "positions": {
             "h-mcalister": "yea",
@@ -20148,7 +20148,7 @@
           ],
           "direction": {
             "axis": null,
-            "label": "Referred the BetterHomes London community efficiency financing report to a future committee meeting for a concierge-model report-back, rather than deciding on it."
+            "label": "Would have referred the BetterHomes London community efficiency financing report to a future committee meeting for a concierge-model report-back, rather than deciding on it."
           },
           "positions": {
             "s-stevenson": "yea",
@@ -20781,7 +20781,7 @@
           "matchedKeywords": [],
           "direction": {
             "axis": null,
-            "label": "Reshuffled the schedule of contributions to the Climate Change Investment Fund under the Climate Emergency Action Plan (CEAP) Implementation Support business case — cutting $750,000 in 2024 while adding $250,000/year in 2025-2027, a roughly net-neutral four-year total shifted later."
+            "label": "Would have reshuffled the schedule of contributions to the Climate Change Investment Fund under the Climate Emergency Action Plan (CEAP) Implementation Support business case — cutting $750,000 in 2024 while adding $250,000/year in 2025-2027, a roughly net-neutral four-year total shifted later."
           },
           "positions": {
             "s-stevenson": "yea",
@@ -22153,7 +22153,7 @@
           ],
           "direction": {
             "axis": null,
-            "label": "Voted to refer the 1103 & 1111 Westdel Bourne rezoning application (OZ-25072) to a future Planning and Environment Committee meeting so the applicant could consider consolidating additional lands, rather than deciding the application at this meeting."
+            "label": "Would have referred the 1103 & 1111 Westdel Bourne rezoning application (OZ-25072) to a future Planning and Environment Committee meeting so the applicant could consider consolidating additional lands, rather than deciding the application at this meeting."
           },
           "positions": {
             "j-morgan": "yea",
@@ -22563,7 +22563,7 @@
           "matchedKeywords": [],
           "direction": {
             "axis": null,
-            "label": "Moved to amend the short-term-accommodation by-law to cap occupancy at a Dwelling Unit offering short-term accommodation at no more than two individuals per bedroom (excluding children under 2), with single-room occupant limits set by inspection; this amendment failed."
+            "label": "Would have amended the short-term-accommodation by-law to cap occupancy at a Dwelling Unit offering short-term accommodation at no more than two individuals per bedroom (excluding children under 2), with single-room occupant limits set by inspection."
           },
           "positions": {
             "j-pribil": "yea",
@@ -23126,7 +23126,7 @@
           "matchedKeywords": [],
           "direction": {
             "axis": null,
-            "label": "Rejected reverting the Affordable Home Ownership Incentive Program's loan term from ten years back down to five years, leaving the ten-year term in place."
+            "label": "Would have reverted the Affordable Home Ownership Incentive Program's loan term from ten years back down to five years."
           },
           "positions": {
             "j-morgan": "yea",
@@ -23871,7 +23871,7 @@
           ],
           "direction": {
             "axis": null,
-            "label": "Declined to refer the Affordable Home Ownership Incentive Program back to Civic Administration for a report on program options (expanding to existing housing stock, tightening eligibility, funding sources, budget detail, other jurisdictions), leaving the original by-law on the table instead."
+            "label": "Would have referred the Affordable Home Ownership Incentive Program back to Civic Administration for a report on program options (expanding to existing housing stock, tightening eligibility, funding sources, budget detail, other jurisdictions)."
           },
           "positions": {
             "s-stevenson": "yea",
@@ -24089,7 +24089,7 @@
           ],
           "direction": {
             "axis": null,
-            "label": "Rejected directing Civic Administration to report back with recommendations on municipal options to limit 'bad-faith' tenancy evictions tied to demolitions and conversions of residential premises."
+            "label": "Would have directed Civic Administration to report back with recommendations on municipal options to limit 'bad-faith' tenancy evictions tied to demolitions and conversions of residential premises."
           },
           "positions": {
             "s-trosow": "yea",
@@ -25142,7 +25142,7 @@
           ],
           "direction": {
             "axis": null,
-            "label": "Narrowed a site-plan design consideration for the Kellogg Lane/Dundas Street redevelopment to drop the requirement that the applicant enter a 99-year telecommunications-infrastructure agreement with the City, keeping only the Path Loss Study service-level recommendation."
+            "label": "Would have narrowed a site-plan design consideration for the Kellogg Lane/Dundas Street redevelopment to drop the requirement that the applicant enter a 99-year telecommunications-infrastructure agreement with the City, keeping only the Path Loss Study service-level recommendation."
           },
           "positions": {
             "j-morgan": "yea",
@@ -25320,7 +25320,7 @@
           ],
           "direction": {
             "axis": null,
-            "label": "Requested that the Subdivision Approval Authority consider reserving the Sunningdale Road West lands for community-facility (school) use for three years before allowing the draft plan of subdivision to proceed toward residential development."
+            "label": "Would have requested that the Subdivision Approval Authority consider reserving the Sunningdale Road West lands for community-facility (school) use for three years before allowing the draft plan of subdivision to proceed toward residential development."
           },
           "positions": {
             "j-morgan": "nay",
@@ -25552,7 +25552,7 @@
           ],
           "direction": {
             "axis": null,
-            "label": "Referred the 6309 Pack Road rezoning application to a future meeting rather than deciding it, to let staff and the applicant review reducing the proposed building heights and density."
+            "label": "Would have referred the 6309 Pack Road rezoning application to a future meeting rather than deciding it, to let staff and the applicant review reducing the proposed building heights and density."
           },
           "positions": {
             "s-trosow": "yea",
@@ -25653,7 +25653,7 @@
           ],
           "direction": {
             "axis": null,
-            "label": "Referred the Affordable Homeownership Program Relaunch staff report to a future Community and Protective Services Committee meeting, to allow Civic Administration to prepare a business case asking the Province to reallocate the program's funds to another affordable-housing purpose (e.g., social-housing repairs, affordable rental repairs, rent-affordability assistance)."
+            "label": "Would have referred the Affordable Homeownership Program Relaunch staff report to a future Community and Protective Services Committee meeting, to allow Civic Administration to prepare a business case asking the Province to reallocate the program's funds to another affordable-housing purpose (e.g., social-housing repairs, affordable rental repairs, rent-affordability assistance)."
           },
           "positions": {
             "s-stevenson": "yea",
@@ -25894,7 +25894,7 @@
           ],
           "direction": {
             "axis": null,
-            "label": "Referred the Highly Supportive Housing Plan cost breakdown schedule to a future meeting for more detailed cost breakdowns, rather than deciding on it."
+            "label": "Would have referred the Highly Supportive Housing Plan cost breakdown schedule to a future meeting for more detailed cost breakdowns, rather than deciding on it."
           },
           "positions": {
             "s-stevenson": "yea",
@@ -26076,7 +26076,7 @@
           ],
           "direction": {
             "axis": null,
-            "label": "Referred the Highly Supportive Housing Plan cost breakdown schedule to a future meeting for more detailed cost breakdowns, rather than deciding on it."
+            "label": "Would have referred the Highly Supportive Housing Plan cost breakdown schedule to a future meeting for more detailed cost breakdowns, rather than deciding on it."
           },
           "positions": {
             "p-cuddy": "yea",
@@ -29969,7 +29969,7 @@
           ],
           "direction": {
             "axis": null,
-            "label": "Directed Civic Administration to undertake reviews of servicing capacity and of London Plan policy changes that would support increased intensification within the Urban Growth Boundaries, without itself approving any policy change."
+            "label": "Would have directed Civic Administration to undertake reviews of servicing capacity and of London Plan policy changes that would support increased intensification within the Urban Growth Boundaries, without itself approving any policy change."
           },
           "positions": {
             "a-hopkins": "yea",
@@ -30072,7 +30072,7 @@
           ],
           "direction": {
             "axis": null,
-            "label": "Asked Civic Administration to report back on expected funding sources for future Highly Supportive Housing units and a list of other conversions being considered, deciding nothing itself."
+            "label": "Would have asked Civic Administration to report back on expected funding sources for future Highly Supportive Housing units and a list of other conversions being considered, deciding nothing itself."
           },
           "positions": {
             "s-stevenson": "yea",
@@ -30121,7 +30121,7 @@
           ],
           "direction": {
             "axis": null,
-            "label": "Asked Civic Administration to report back on the rationale for switching from 15 temporary resting-space beds at 448 Horton Street to 24 highly supportive housing units at 362 Dundas Street, deciding nothing itself."
+            "label": "Would have asked Civic Administration to report back on the rationale for switching from 15 temporary resting-space beds at 448 Horton Street to 24 highly supportive housing units at 362 Dundas Street, deciding nothing itself."
           },
           "positions": {
             "s-stevenson": "yea",
@@ -32101,7 +32101,7 @@
           ],
           "direction": {
             "axis": null,
-            "label": "A yea referred part c) -- a directed staff review of the five-bedroom limit on additional residential units -- to a future Planning and Environment Committee meeting rather than deciding it that day."
+            "label": "A yea would have referred part c) -- a directed staff review of the five-bedroom limit on additional residential units -- to a future Planning and Environment Committee meeting rather than deciding it that day."
           },
           "positions": {
             "s-lewis": "yea",

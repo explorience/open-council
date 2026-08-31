@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T18:50:28.903Z",
+  "generatedAt": "2026-08-31T19:51:05.585Z",
   "note": "Motions dropped from the divided-vote universe because the classify pipeline's own verification pass flagged them 'not_divided': either the recorded tally has zero votes on one side (a lopsided-but-technically-not-flagged-unanimous result the source data's own 'unanimous' boolean missed), or the exact same motion is recorded twice under two different agenda item numbers (which would otherwise double-count one real decision). See each motion's own verifierNote in data/election/classify/batch-*-verified.json for the specific reason. Never guessed at or silently kept.",
   "count": 3,
   "motions": [

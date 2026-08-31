@@ -10,7 +10,7 @@ prefillQuestions: []
 
 # Divided votes by issue
 
-Council doesn't split on most of what it votes on — most motions pass unanimously. These are the issues where it has actually divided since 2023-01-01.
+Council doesn't split on most of what it votes on — most motions pass unanimously. These are the issues where it has actually divided since January 1, 2023.
 
 | Issue | Divided votes | With a clear direction |
 |-------|:---:|:---:|
@@ -26,7 +26,7 @@ Council doesn't split on most of what it votes on — most motions pass unanimou
 
 ## Unclassified divided votes
 
-508 additional divided motions since 2023-01-01 were independently classified as not fitting any of the issue clusters above (or as an explicit governance/procedure exclusion), and are not force-fit into one. All 508 are listed below:
+508 additional divided motions since January 1, 2023 were independently classified as not fitting any of the issue clusters above (or as an explicit governance/procedure exclusion), and are not force-fit into one. All 508 are listed below:
 
 - 2026-07-21 — (2.1) Green Development Framework Update (item 8.2.4)
 - 2026-07-21 — (4.5) By-law Enforcement Administrative Fees (item 8.4.11)
