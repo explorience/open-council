@@ -66,24 +66,24 @@
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 9854,
-    "yeas": 8826,
-    "nays": 557,
+    "totalVotes": 10644,
+    "yeas": 9566,
+    "nays": 607,
     "absent": 134,
-    "participationRate": 95.22021514105947,
-    "yeaRate": 94.0637322817862,
-    "contestedDissentRate": 9.187021509296391,
-    "contestedVotes": 5486,
-    "substantiveVotes": 7263,
-    "substantiveYeas": 6431,
-    "substantiveNays": 476,
-    "substantiveParticipationRate": 95.09844416907613,
-    "substantiveYeaRate": 93.10844071232084
+    "participationRate": 95.5749718151071,
+    "yeaRate": 94.0332252039713,
+    "contestedDissentRate": 26.883384932920535,
+    "contestedVotes": 1938,
+    "substantiveVotes": 7156,
+    "substantiveYeas": 6342,
+    "substantiveNays": 458,
+    "substantiveParticipationRate": 95.02515371716042,
+    "substantiveYeaRate": 93.26470588235294
   },
   "budgetVoting": {
-    "totalBudgetVotes": 1124,
-    "budgetYeas": 983,
-    "budgetNays": 119,
+    "totalBudgetVotes": 912,
+    "budgetYeas": 802,
+    "budgetNays": 88,
     "budgetAbsent": 2
   },
   "topAlignments": [],
@@ -183,10 +183,10 @@
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 3673,
-      "yeas": 3340,
-      "nays": 278,
-      "participationRate": 98.50258644160087
+      "totalVotes": 4809,
+      "yeas": 4379,
+      "nays": 375,
+      "participationRate": 98.85631108338532
     },
     {
       "committee": "Planning and Environment Committee",
@@ -197,10 +197,10 @@
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 2251,
-      "yeas": 1771,
-      "nays": 184,
-      "participationRate": 86.85028876055087
+      "totalVotes": 1905,
+      "yeas": 1472,
+      "nays": 137,
+      "participationRate": 84.46194225721784
     },
     {
       "committee": "Civic Works Committee",

@@ -36,29 +36,47 @@
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 2408,
-    "yeas": 2240,
-    "nays": 168,
+    "totalVotes": 2954,
+    "yeas": 2812,
+    "nays": 142,
     "absent": 0,
     "participationRate": 100,
-    "yeaRate": 93.02325581395348,
-    "contestedDissentRate": 7.392026578073089,
-    "contestedVotes": 2408,
-    "substantiveVotes": 2404,
-    "substantiveYeas": 2237,
-    "substantiveNays": 167,
+    "yeaRate": 95.1929587000677,
+    "contestedDissentRate": 14.122681883024251,
+    "contestedVotes": 701,
+    "substantiveVotes": 2629,
+    "substantiveYeas": 2492,
+    "substantiveNays": 137,
     "substantiveParticipationRate": 100,
-    "substantiveYeaRate": 93.05324459234609
+    "substantiveYeaRate": 94.78889311525295
   },
   "budgetVoting": {
-    "totalBudgetVotes": 729,
-    "budgetYeas": 617,
-    "budgetNays": 112,
+    "totalBudgetVotes": 449,
+    "budgetYeas": 400,
+    "budgetNays": 49,
     "budgetAbsent": 0
   },
   "topAlignments": [],
   "bottomAlignments": [],
   "notableDissents": [
+    {
+      "date": "2014-05-06",
+      "meetingTitle": "MINUTES 12TH MEETING",
+      "itemTitle": "COMMITTEE OF THE WHOLE, IN\n  CAMERA (continued)",
+      "motionText": "Motion Failed",
+      "vote": "yea",
+      "result": "Motion Failed",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=6eda9580-212e-4cd2-a4fe-677696bb5ad1&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-05-06",
+      "meetingTitle": "MINUTES 12TH MEETING",
+      "itemTitle": "COMMITTEE OF THE WHOLE, IN\n  CAMERA (continued)",
+      "motionText": "Motion Failed",
+      "vote": "yea",
+      "result": "Motion Failed",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=6eda9580-212e-4cd2-a4fe-677696bb5ad1&Agenda=PostMinutes&lang=English"
+    },
     {
       "date": "2014-05-05",
       "meetingTitle": "Strategic Priorities and Policy Committee",
@@ -81,10 +99,19 @@
       "date": "2014-04-15",
       "meetingTitle": "MINUTES 11TH MEETING",
       "itemTitle": "Ombudsman Investigation",
-      "motionText": "Motion Failed",
+      "motionText": "Approve that Council rise and go into\n  Committee of the Whole, in camera, at 8:27 PM regarding a matter pertaining\n  to instructions and directions to officers and employees of the Corporation\n  pert...",
       "vote": "yea",
       "result": "Motion Failed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=0ab8d506-dcb3-4b68-b36f-70c46d08b8eb&Agenda=PostMinutes&lang=English"
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=0ab8d506-dcb3-4b68-b36f-70c46d08b8eb&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-04-01",
+      "meetingTitle": "MINUTES 10TH MEETING",
+      "itemTitle": "Amendment to\n  Council Policy 28(2) - Council Members' Expense Account",
+      "motionText": "Approve referral of clause 5 back to\n  the City Clerk for review and report back with suggested changes to provide\n  more clarity and control with respect to allowable expenses.",
+      "vote": "nay",
+      "result": "Motion Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=aa971b64-26f6-4fc6-b9d8-65f1d4096aba&Agenda=PostMinutes&lang=English"
     },
     {
       "date": "2014-03-25",
@@ -108,61 +135,34 @@
       "date": "2014-03-18",
       "meetingTitle": "MINUTES 9TH MEETING",
       "itemTitle": "Winter Maintenance\n  Update",
-      "motionText": "Motion Passed",
+      "motionText": "Amend clause 10 in the first line of\n  part a) by deleting the word “APPROVED” and by replacing it with the word “CONSIDERED\".",
       "vote": "nay",
       "result": "Motion Passed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=81c0030a-17e1-4d37-b72c-1ee78bd5dbc4&Agenda=PostMinutes&lang=English"
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=81c0030a-17e1-4d37-b72c-1ee78bd5dbc4&Agenda=PostMinutes&lang=English"
     },
     {
       "date": "2014-02-25",
       "meetingTitle": "MINUTES 6TH MEETING",
       "itemTitle": "Mixed-Use\n  Development including a Performing Arts Centre:  Business Plan Proposed\n  Conditions",
-      "motionText": "Motion Passed",
+      "motionText": "Approve an amendment to part d)\n  of clause 2, by removing the words \"it being noted that if no alternate\n  sources are available or approved by Municipal Council, a tax increase will\n  be recommended...",
       "vote": "nay",
       "result": "Motion Passed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=dafc56ed-7bde-46c1-ba47-f78533319141&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2014-02-25",
-      "meetingTitle": "MINUTES 6TH MEETING",
-      "itemTitle": "Mixed-Use\n  Development including a Performing Arts Centre:  Business Plan Proposed\n  Conditions",
-      "motionText": "Motion Passed",
-      "vote": "nay",
-      "result": "Motion Passed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=dafc56ed-7bde-46c1-ba47-f78533319141&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2014-02-25",
-      "meetingTitle": "Strategic Priorities and Policy Committee",
-      "itemTitle": "CORPORATE OPERATING BUDGET",
-      "motionText": "Motion\n  Failed",
-      "vote": "yea",
-      "result": "Motion\n  Failed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=a74f6c6c-4794-417c-a662-c5f2c93d5220&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2014-02-25",
-      "meetingTitle": "Strategic Priorities and Policy Committee",
-      "itemTitle": "CORPORATE OPERATING BUDGET",
-      "motionText": "Motion\n  Passed",
-      "vote": "nay",
-      "result": "Motion\n  Passed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=a74f6c6c-4794-417c-a662-c5f2c93d5220&Agenda=PostMinutes&lang=English"
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=dafc56ed-7bde-46c1-ba47-f78533319141&Agenda=PostMinutes&lang=English"
     }
   ],
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 1082,
-      "yeas": 1045,
-      "nays": 37,
+      "totalVotes": 2060,
+      "yeas": 1974,
+      "nays": 86,
       "participationRate": 100
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 765,
-      "yeas": 646,
-      "nays": 119,
+      "totalVotes": 333,
+      "yeas": 289,
+      "nays": 44,
       "participationRate": 100
     },
     {

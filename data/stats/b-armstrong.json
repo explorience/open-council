@@ -54,24 +54,24 @@
     "trendDirection": "declining"
   },
   "voting": {
-    "totalVotes": 4477,
-    "yeas": 4096,
-    "nays": 298,
+    "totalVotes": 5329,
+    "yeas": 4987,
+    "nays": 259,
     "absent": 83,
-    "participationRate": 98.14607996426177,
-    "yeaRate": 93.21802457897132,
-    "contestedDissentRate": 6.686117189399465,
-    "contestedVotes": 4113,
-    "substantiveVotes": 4251,
-    "substantiveYeas": 3916,
-    "substantiveNays": 295,
-    "substantiveParticipationRate": 99.05904493060457,
-    "substantiveYeaRate": 92.99453811446212
+    "participationRate": 98.44248451867142,
+    "yeaRate": 95.06290507052992,
+    "contestedDissentRate": 21.35922330097087,
+    "contestedVotes": 1133,
+    "substantiveVotes": 4053,
+    "substantiveYeas": 3781,
+    "substantiveNays": 232,
+    "substantiveParticipationRate": 99.013076733284,
+    "substantiveYeaRate": 94.21878893595813
   },
   "budgetVoting": {
-    "totalBudgetVotes": 1007,
-    "budgetYeas": 837,
-    "budgetNays": 168,
+    "totalBudgetVotes": 522,
+    "budgetYeas": 465,
+    "budgetNays": 55,
     "budgetAbsent": 2
   },
   "topAlignments": [],
@@ -171,24 +171,24 @@
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 1838,
-      "yeas": 1691,
-      "nays": 78,
-      "participationRate": 96.24591947769315
+      "totalVotes": 3368,
+      "yeas": 3139,
+      "nays": 160,
+      "participationRate": 97.95130641330167
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 1587,
-      "yeas": 1374,
-      "nays": 205,
-      "participationRate": 99.49590422180215
+      "totalVotes": 929,
+      "yeas": 837,
+      "nays": 84,
+      "participationRate": 99.13885898815931
     },
     {
       "committee": "Community and Protective Services Committee",
-      "totalVotes": 791,
-      "yeas": 771,
+      "totalVotes": 771,
+      "yeas": 751,
       "nays": 14,
-      "participationRate": 99.24146649810368
+      "participationRate": 99.22178988326849
     },
     {
       "committee": "Civic Works Committee",

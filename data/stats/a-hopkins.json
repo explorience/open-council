@@ -90,24 +90,24 @@
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 12561,
-    "yeas": 10959,
-    "nays": 947,
+    "totalVotes": 13296,
+    "yeas": 11677,
+    "nays": 964,
     "absent": 180,
-    "participationRate": 94.78544701854948,
-    "yeaRate": 92.04602721316984,
-    "contestedDissentRate": 15.383259911894273,
-    "contestedVotes": 5675,
-    "substantiveVotes": 7912,
-    "substantiveYeas": 6690,
-    "substantiveNays": 708,
-    "substantiveParticipationRate": 93.50353892821032,
-    "substantiveYeaRate": 90.42984590429846
+    "participationRate": 95.073706377858,
+    "yeaRate": 92.37402104263903,
+    "contestedDissentRate": 27.21804511278195,
+    "contestedVotes": 3325,
+    "substantiveVotes": 7810,
+    "substantiveYeas": 6613,
+    "substantiveNays": 683,
+    "substantiveParticipationRate": 93.41869398207426,
+    "substantiveYeaRate": 90.63870614035088
   },
   "budgetVoting": {
-    "totalBudgetVotes": 1464,
-    "budgetYeas": 1257,
-    "budgetNays": 203,
+    "totalBudgetVotes": 1246,
+    "budgetYeas": 1072,
+    "budgetNays": 170,
     "budgetAbsent": 4
   },
   "topAlignments": [
@@ -124,16 +124,16 @@
       "alignmentRate": 94.24860853432281
     },
     {
+      "councillor": "Josh Morgan",
+      "sharedVotes": 5295,
+      "agreedVotes": 4965,
+      "alignmentRate": 93.76770538243626
+    },
+    {
       "councillor": "Hadleigh McAlister",
       "sharedVotes": 1488,
       "agreedVotes": 1392,
       "alignmentRate": 93.54838709677419
-    },
-    {
-      "councillor": "Josh Morgan",
-      "sharedVotes": 4640,
-      "agreedVotes": 4332,
-      "alignmentRate": 93.36206896551724
     },
     {
       "councillor": "Elizabeth Peloza",
@@ -269,17 +269,17 @@
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 5705,
-      "yeas": 5053,
-      "nays": 555,
-      "participationRate": 98.29973707274321
+      "totalVotes": 6791,
+      "yeas": 6082,
+      "nays": 612,
+      "participationRate": 98.57163893388308
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 3257,
-      "yeas": 2510,
-      "nays": 259,
-      "participationRate": 85.01688670555725
+      "totalVotes": 2913,
+      "yeas": 2206,
+      "nays": 219,
+      "participationRate": 83.24751115688294
     },
     {
       "committee": "Planning and Environment Committee",
@@ -297,10 +297,10 @@
     },
     {
       "committee": "Corporate Services Committee",
-      "totalVotes": 271,
-      "yeas": 260,
+      "totalVotes": 264,
+      "yeas": 253,
       "nays": 3,
-      "participationRate": 97.04797047970479
+      "participationRate": 96.96969696969697
     },
     {
       "committee": "Budget Committee",

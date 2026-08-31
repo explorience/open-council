@@ -42,24 +42,24 @@
     "trendDirection": "declining"
   },
   "voting": {
-    "totalVotes": 4211,
-    "yeas": 3952,
-    "nays": 170,
+    "totalVotes": 4794,
+    "yeas": 4506,
+    "nays": 199,
     "absent": 70,
-    "participationRate": 97.88648777012587,
-    "yeaRate": 95.87578845220767,
-    "contestedDissentRate": 3.5102499297950014,
-    "contestedVotes": 3561,
-    "substantiveVotes": 3786,
-    "substantiveYeas": 3597,
-    "substantiveNays": 161,
-    "substantiveParticipationRate": 99.26043317485473,
-    "substantiveYeaRate": 95.71580627993613
+    "participationRate": 98.14351272423863,
+    "yeaRate": 95.77045696068012,
+    "contestedDissentRate": 16.957026713124275,
+    "contestedVotes": 861,
+    "substantiveVotes": 3725,
+    "substantiveYeas": 3521,
+    "substantiveNays": 176,
+    "substantiveParticipationRate": 99.24832214765101,
+    "substantiveYeaRate": 95.23938328374358
   },
   "budgetVoting": {
-    "totalBudgetVotes": 616,
-    "budgetYeas": 573,
-    "budgetNays": 40,
+    "totalBudgetVotes": 368,
+    "budgetYeas": 345,
+    "budgetNays": 20,
     "budgetAbsent": 2
   },
   "topAlignments": [],
@@ -159,10 +159,10 @@
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 1226,
-      "yeas": 1148,
-      "nays": 57,
-      "participationRate": 98.28711256117455
+      "totalVotes": 2165,
+      "yeas": 2036,
+      "nays": 108,
+      "participationRate": 99.03002309468822
     },
     {
       "committee": "Planning and Environment Committee",
@@ -173,9 +173,9 @@
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 1075,
-      "yeas": 1002,
-      "nays": 73,
+      "totalVotes": 735,
+      "yeas": 684,
+      "nays": 51,
       "participationRate": 100
     },
     {
@@ -194,8 +194,8 @@
     },
     {
       "committee": "Community and Protective Services Committee",
-      "totalVotes": 127,
-      "yeas": 125,
+      "totalVotes": 111,
+      "yeas": 109,
       "nays": 2,
       "participationRate": 100
     }

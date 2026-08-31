@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T05:06:55.794Z",
+  "generatedAt": "2026-08-31T22:51:59.921Z",
   "matrix": {
     "j-morgan": {
       "h-mcalister": 100,
@@ -8,7 +8,7 @@
       "s-stevenson": 97.61904761904762,
       "s-trosow": 89.65517241379311,
       "c-rahman": 94.11764705882352,
-      "a-hopkins": 98.07692307692307,
+      "a-hopkins": 98.0295566502463,
       "p-van-meerbergen": 97.3913043478261,
       "e-peloza": 98.79518072289156,
       "d-ferreira": 96.15384615384616,
@@ -65,7 +65,7 @@
     },
     "s-lehman": {},
     "a-hopkins": {
-      "j-morgan": 98.07692307692307
+      "j-morgan": 98.0295566502463
     },
     "p-van-meerbergen": {
       "j-morgan": 97.3913043478261,
@@ -142,6 +142,6 @@
     }
   ],
   "type": "committee",
-  "motionCount": 1331,
+  "motionCount": 1326,
   "committeeName": "Corporate Services Committee"
 }

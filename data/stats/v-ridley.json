@@ -42,24 +42,24 @@
     "trendDirection": "declining"
   },
   "voting": {
-    "totalVotes": 3544,
-    "yeas": 3303,
-    "nays": 136,
+    "totalVotes": 4212,
+    "yeas": 3930,
+    "nays": 177,
     "absent": 96,
-    "participationRate": 97.03724604966139,
-    "yeaRate": 96.04536202384413,
-    "contestedDissentRate": 4.177545691906006,
-    "contestedVotes": 3064,
-    "substantiveVotes": 3262,
-    "substantiveYeas": 3080,
-    "substantiveNays": 131,
-    "substantiveParticipationRate": 98.43654199877376,
-    "substantiveYeaRate": 95.92027405792588
+    "participationRate": 97.50712250712252,
+    "yeaRate": 95.69028487947406,
+    "contestedDissentRate": 20.051413881748072,
+    "contestedVotes": 778,
+    "substantiveVotes": 3148,
+    "substantiveYeas": 2948,
+    "substantiveNays": 149,
+    "substantiveParticipationRate": 98.37992376111816,
+    "substantiveYeaRate": 95.18889247659025
   },
   "budgetVoting": {
-    "totalBudgetVotes": 554,
-    "budgetYeas": 516,
-    "budgetNays": 31,
+    "totalBudgetVotes": 328,
+    "budgetYeas": 302,
+    "budgetNays": 19,
     "budgetAbsent": 7
   },
   "topAlignments": [],
@@ -159,17 +159,17 @@
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 1375,
-      "yeas": 1234,
-      "nays": 59,
-      "participationRate": 94.03636363636365
+      "totalVotes": 2379,
+      "yeas": 2179,
+      "nays": 118,
+      "participationRate": 96.55317360235392
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 1057,
-      "yeas": 993,
-      "nays": 57,
-      "participationRate": 99.33774834437085
+      "totalVotes": 737,
+      "yeas": 691,
+      "nays": 39,
+      "participationRate": 99.05020352781547
     },
     {
       "committee": "Civic Works Committee",
@@ -180,10 +180,10 @@
     },
     {
       "committee": "Community and Protective Services Committee",
-      "totalVotes": 390,
-      "yeas": 369,
+      "totalVotes": 374,
+      "yeas": 353,
       "nays": 10,
-      "participationRate": 97.17948717948718
+      "participationRate": 97.05882352941177
     },
     {
       "committee": "Corporate Services Committee",

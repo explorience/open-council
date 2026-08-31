@@ -42,24 +42,24 @@
     "trendDirection": "improving"
   },
   "voting": {
-    "totalVotes": 2024,
-    "yeas": 1891,
-    "nays": 100,
+    "totalVotes": 2189,
+    "yeas": 2049,
+    "nays": 107,
     "absent": 32,
-    "participationRate": 98.36956521739131,
-    "yeaRate": 94.97739829231541,
-    "contestedDissentRate": 3.9417828987265007,
-    "contestedVotes": 1649,
-    "substantiveVotes": 1822,
-    "substantiveYeas": 1708,
-    "substantiveNays": 97,
-    "substantiveParticipationRate": 99.06695938529089,
-    "substantiveYeaRate": 94.62603878116343
+    "participationRate": 98.49246231155779,
+    "yeaRate": 95.03710575139146,
+    "contestedDissentRate": 13.288288288288289,
+    "contestedVotes": 444,
+    "substantiveVotes": 1687,
+    "substantiveYeas": 1574,
+    "substantiveNays": 96,
+    "substantiveParticipationRate": 98.9922940130409,
+    "substantiveYeaRate": 94.25149700598803
   },
   "budgetVoting": {
-    "totalBudgetVotes": 544,
-    "budgetYeas": 502,
-    "budgetNays": 42,
+    "totalBudgetVotes": 295,
+    "budgetYeas": 273,
+    "budgetNays": 22,
     "budgetAbsent": 0
   },
   "topAlignments": [],
@@ -158,23 +158,23 @@
   ],
   "committeeActivity": [
     {
-      "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 781,
-      "yeas": 711,
-      "nays": 60,
-      "participationRate": 98.71959026888605
+      "committee": "Council",
+      "totalVotes": 1241,
+      "yeas": 1154,
+      "nays": 64,
+      "participationRate": 98.14665592264303
     },
     {
-      "committee": "Council",
-      "totalVotes": 753,
-      "yeas": 697,
-      "nays": 33,
-      "participationRate": 96.94555112881807
+      "committee": "Strategic Priorities and Policy Committee",
+      "totalVotes": 465,
+      "yeas": 419,
+      "nays": 36,
+      "participationRate": 97.84946236559139
     },
     {
       "committee": "Corporate Services Committee",
-      "totalVotes": 423,
-      "yeas": 417,
+      "totalVotes": 416,
+      "yeas": 410,
       "nays": 6,
       "participationRate": 100
     },

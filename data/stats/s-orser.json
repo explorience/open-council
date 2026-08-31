@@ -36,24 +36,24 @@
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 2074,
-    "yeas": 1769,
-    "nays": 305,
+    "totalVotes": 2768,
+    "yeas": 2511,
+    "nays": 257,
     "absent": 0,
     "participationRate": 100,
-    "yeaRate": 85.29411764705883,
-    "contestedDissentRate": 13.596914175506269,
-    "contestedVotes": 2074,
-    "substantiveVotes": 2070,
-    "substantiveYeas": 1766,
-    "substantiveNays": 304,
+    "yeaRate": 90.71531791907515,
+    "contestedDissentRate": 33.96739130434783,
+    "contestedVotes": 736,
+    "substantiveVotes": 2405,
+    "substantiveYeas": 2161,
+    "substantiveNays": 244,
     "substantiveParticipationRate": 100,
-    "substantiveYeaRate": 85.31400966183574
+    "substantiveYeaRate": 89.85446985446985
   },
   "budgetVoting": {
-    "totalBudgetVotes": 685,
-    "budgetYeas": 477,
-    "budgetNays": 208,
+    "totalBudgetVotes": 434,
+    "budgetYeas": 345,
+    "budgetNays": 89,
     "budgetAbsent": 0
   },
   "topAlignments": [],
@@ -61,108 +61,108 @@
   "notableDissents": [
     {
       "date": "2014-11-25",
-      "meetingTitle": "MINUTES 26TH\n  MEETING",
+      "meetingTitle": "MINUTES 26TH MEETING",
+      "itemTitle": "Properties located\n  at 510 Central Avenue and 609 William Street (Z-8141)",
+      "motionText": "Approve that a new part b) ii) J) BE\n  ADDED to provide for all parking at the rear, with one driveway off of\n  William Street and one driveway off of Central Avenue.",
+      "vote": "yea",
+      "result": "Motion Failed",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=48b1e6a3-ae6e-47f5-b600-bfc121838a2f&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-11-25",
+      "meetingTitle": "MINUTES 26TH MEETING",
       "itemTitle": "2015 Water and\n  Wastewater Rates",
-      "motionText": "Motion Passed",
+      "motionText": "That, on the recommendation of the Managing\n  Director, Environmental and Engineering Services & City Engineer, and the\n  Managing Director, Corporate Services & City Treasurer, Chief Financial\n  Offi...",
       "vote": "nay",
       "result": "Motion Passed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=48b1e6a3-ae6e-47f5-b600-bfc121838a2f&Agenda=PostMinutes&lang=English"
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=48b1e6a3-ae6e-47f5-b600-bfc121838a2f&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-10-14",
+      "meetingTitle": "MINUTES 24TH MEETING",
+      "itemTitle": "Amendment to\n  Council Policy 28(2) - Council Members’ Expense Account and Mayor’s Expenses\n  Policy 28(3)",
+      "motionText": "That the following actions be taken with\n  respect to amendments to Council Policies 28(2) and 28(3):\n \na)         the\n  attached revised proposed by-law (Appendix “A”) BE INTRODUCED at the\n  Municipa...",
+      "vote": "nay",
+      "result": "Motion Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=8527c028-f9e1-4318-a6b7-f22866645fd7&Agenda=PostMinutes&lang=English"
     },
     {
       "date": "2014-10-14",
       "meetingTitle": "MINUTES 24TH MEETING",
       "itemTitle": "Properties located at 51 and 99 Exeter Road\n  (OZ-8324)",
-      "motionText": "Motion Passed",
+      "motionText": "That, on the recommendation\n  of the Managing Director, Planning and City Planner, the following actions be\n  taken with respect to the application of Greenhills Shopping Centres Ltd.\n  (Greenhills) r...",
       "vote": "nay",
       "result": "Motion Passed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8527c028-f9e1-4318-a6b7-f22866645fd7&Agenda=PostMinutes&lang=English"
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=8527c028-f9e1-4318-a6b7-f22866645fd7&Agenda=PostMinutes&lang=English"
     },
     {
       "date": "2014-09-02",
       "meetingTitle": "MINUTES 21ST MEETING",
-      "itemTitle": "Deputy City\n  Treasurer - Orchestra London Credit Guarantee",
+      "itemTitle": "Request for\n  Delegation Status re New Deal for an Expanded Fanshawe Downtown Campus",
       "motionText": "Motion Passed",
       "vote": "nay",
       "result": "Motion Passed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
     },
     {
       "date": "2014-09-02",
       "meetingTitle": "MINUTES 21ST MEETING",
-      "itemTitle": "Deputy City\n  Treasurer - Orchestra London Credit Guarantee",
-      "motionText": "Motion Passed",
+      "itemTitle": "Request for\n  Delegation Status re New Deal for an Expanded Fanshawe Downtown Campus",
+      "motionText": "Approve part b) of clause 25, as amended.",
       "vote": "nay",
       "result": "Motion Passed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
     },
     {
       "date": "2014-09-02",
       "meetingTitle": "MINUTES 21ST MEETING",
-      "itemTitle": "BY-LAWS",
+      "itemTitle": "Request for\n  Delegation Status re New Deal for an Expanded Fanshawe Downtown Campus",
       "motionText": "Motion Passed",
       "vote": "nay",
       "result": "Motion Passed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
     },
     {
       "date": "2014-09-02",
       "meetingTitle": "MINUTES 21ST MEETING",
-      "itemTitle": "BY-LAWS",
-      "motionText": "Motion Passed",
+      "itemTitle": "Request for\n  Delegation Status re New Deal for an Expanded Fanshawe Downtown Campus",
+      "motionText": "Approve parts c), d) and e) of clause 25,\n  as amended.",
       "vote": "nay",
       "result": "Motion Passed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
     },
     {
-      "date": "2014-07-29",
-      "meetingTitle": "MINUTES 20TH MEETING",
-      "itemTitle": "Property located at\n  2118 Richmond Street (OZ-7890)",
-      "motionText": "Motion Passed",
-      "vote": "nay",
-      "result": "Motion Passed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=056b5df8-e902-4a5c-9b10-8354073f92ed&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2014-07-28",
-      "meetingTitle": "Strategic Priorities and Policy Committee",
-      "itemTitle": "Review of Council\n  Policy 5(1) - Process for the Appointment of an Acting Mayor",
-      "motionText": "Motion\n  Passed",
-      "vote": "nay",
-      "result": "Motion\n  Passed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=d81e36ea-76bf-432e-92e5-4f73b9897706&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2014-07-28",
-      "meetingTitle": "Strategic Priorities and Policy Committee",
-      "itemTitle": "Improvements to\n  Governance Model and Tracking Approved Projects",
-      "motionText": "Motion\n  Passed",
-      "vote": "nay",
-      "result": "Motion\n  Passed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=d81e36ea-76bf-432e-92e5-4f73b9897706&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2014-05-05",
-      "meetingTitle": "Strategic Priorities and Policy Committee",
-      "itemTitle": "Consideration of\n  Nominees for Appointment to the Board of Directors of the Greater London\n  International Airport Authority",
-      "motionText": "Motion\n  Failed",
+      "date": "2014-09-02",
+      "meetingTitle": "MINUTES 21ST MEETING",
+      "itemTitle": "Integrity\n  Commissioner",
+      "motionText": "Approve that clause 14 BE REFERRED to\n  the next term of Council Council for the consideration.",
       "vote": "yea",
-      "result": "Motion\n  Failed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=0ac0c57f-6eac-4bfc-821c-f058cf410073&Agenda=PostMinutes&lang=English"
+      "result": "Motion Failed",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-09-02",
+      "meetingTitle": "MINUTES 21ST MEETING",
+      "itemTitle": "Deputy City\n  Treasurer - Orchestra London Credit Guarantee",
+      "motionText": "That, on the recommendation of the Deputy\n  City Treasurer, the following actions be taken with respect to funding\n  assistance for Orchestra London:\n \na)         the\n  cash flow funding for the month...",
+      "vote": "nay",
+      "result": "Motion Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
     }
   ],
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 1120,
-      "yeas": 1040,
-      "nays": 80,
+      "totalVotes": 2237,
+      "yeas": 2070,
+      "nays": 167,
       "participationRate": 100
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 755,
-      "yeas": 535,
-      "nays": 220,
+      "totalVotes": 332,
+      "yeas": 247,
+      "nays": 85,
       "participationRate": 100
     },
     {

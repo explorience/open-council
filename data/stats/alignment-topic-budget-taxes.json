@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T15:52:27.471Z",
+  "generatedAt": "2026-08-31T22:51:59.927Z",
   "matrix": {
     "j-morgan": {
       "h-mcalister": 90,
@@ -10,7 +10,7 @@
       "s-trosow": 81.37535816618912,
       "c-rahman": 89.3732970027248,
       "s-lehman": 93.58974358974359,
-      "a-hopkins": 91.1377245508982,
+      "a-hopkins": 92.173017507724,
       "p-van-meerbergen": 86.8702290076336,
       "s-franke": 86.51685393258427,
       "e-peloza": 91.44634525660965,
@@ -146,7 +146,7 @@
       "s-hillier": 93.18541996830429
     },
     "a-hopkins": {
-      "j-morgan": 91.1377245508982,
+      "j-morgan": 92.173017507724,
       "h-mcalister": 92.81437125748504,
       "s-lewis": 87.57575757575758,
       "p-cuddy": 82.08092485549133,
@@ -306,5 +306,5 @@
   ],
   "type": "topic",
   "topicName": "budget-taxes",
-  "motionCount": 1603
+  "motionCount": 1949
 }

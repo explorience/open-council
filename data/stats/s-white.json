@@ -36,24 +36,24 @@
     "trendDirection": "declining"
   },
   "voting": {
-    "totalVotes": 2282,
-    "yeas": 2086,
-    "nays": 196,
+    "totalVotes": 2891,
+    "yeas": 2708,
+    "nays": 183,
     "absent": 0,
     "participationRate": 100,
-    "yeaRate": 91.41104294478528,
-    "contestedDissentRate": 9.333917616126206,
-    "contestedVotes": 2282,
-    "substantiveVotes": 2280,
-    "substantiveYeas": 2084,
-    "substantiveNays": 196,
+    "yeaRate": 93.67001037703217,
+    "contestedDissentRate": 21.31578947368421,
+    "contestedVotes": 760,
+    "substantiveVotes": 2615,
+    "substantiveYeas": 2445,
+    "substantiveNays": 170,
     "substantiveParticipationRate": 100,
-    "substantiveYeaRate": 91.40350877192982
+    "substantiveYeaRate": 93.49904397705545
   },
   "budgetVoting": {
-    "totalBudgetVotes": 614,
-    "budgetYeas": 495,
-    "budgetNays": 119,
+    "totalBudgetVotes": 399,
+    "budgetYeas": 342,
+    "budgetNays": 57,
     "budgetAbsent": 0
   },
   "topAlignments": [],
@@ -61,12 +61,12 @@
   "notableDissents": [
     {
       "date": "2014-11-25",
-      "meetingTitle": "MINUTES 26TH\n  MEETING",
+      "meetingTitle": "MINUTES 26TH MEETING",
       "itemTitle": "2015 Water and\n  Wastewater Rates",
-      "motionText": "Motion Passed",
+      "motionText": "That, on the recommendation of the Managing\n  Director, Environmental and Engineering Services & City Engineer, and the\n  Managing Director, Corporate Services & City Treasurer, Chief Financial\n  Offi...",
       "vote": "nay",
       "result": "Motion Passed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=48b1e6a3-ae6e-47f5-b600-bfc121838a2f&Agenda=PostMinutes&lang=English"
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=48b1e6a3-ae6e-47f5-b600-bfc121838a2f&Agenda=PostMinutes&lang=English"
     },
     {
       "date": "2014-09-29",
@@ -98,78 +98,78 @@
     {
       "date": "2014-09-02",
       "meetingTitle": "MINUTES 21ST MEETING",
-      "itemTitle": "Installation of\n  Sidewalks on Shavian Blvd.",
-      "motionText": "Motion Failed",
+      "itemTitle": "Request for\n  Delegation Status re New Deal for an Expanded Fanshawe Downtown Campus",
+      "motionText": "Approve part b) of clause 25, as amended.",
+      "vote": "nay",
+      "result": "Motion Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-09-02",
+      "meetingTitle": "MINUTES 21ST MEETING",
+      "itemTitle": "Integrity\n  Commissioner",
+      "motionText": "Approve that clause 14 BE REFERRED to\n  the next term of Council Council for the consideration.",
       "vote": "yea",
       "result": "Motion Failed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
     },
     {
       "date": "2014-09-02",
       "meetingTitle": "MINUTES 21ST MEETING",
-      "itemTitle": "BY-LAWS",
-      "motionText": "Motion Passed",
-      "vote": "nay",
-      "result": "Motion Passed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2014-09-02",
-      "meetingTitle": "MINUTES 21ST MEETING",
-      "itemTitle": "BY-LAWS",
-      "motionText": "Motion Passed",
-      "vote": "nay",
-      "result": "Motion Passed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2014-09-02",
-      "meetingTitle": "MINUTES 21ST MEETING",
-      "itemTitle": "BY-LAWS",
-      "motionText": "Motion Passed",
-      "vote": "nay",
-      "result": "Motion Passed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2014-07-22",
-      "meetingTitle": "Planning and Environment Committee",
-      "itemTitle": "Property located at\n  2118 Richmond Street (OZ-7890)",
-      "motionText": "Motion\n  Failed",
+      "itemTitle": "Installation of\n  Sidewalks on Shavian Blvd.",
+      "motionText": "Approve that pursuant section 13.6 of the\n  Council Procedure By-law that the proposed amendment to part a) of clause 22\n  BE RECONSIDERED to provide all Members of Council an opportunity to vote on t...",
       "vote": "yea",
-      "result": "Motion\n  Failed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=83e7a856-017d-493a-81d6-c732bd2adba1&Agenda=PostMinutes&lang=English"
+      "result": "Motion Failed",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
     },
     {
-      "date": "2014-07-22",
-      "meetingTitle": "Planning and Environment Committee",
-      "itemTitle": "Properties located\n  at 51 and 99 Exeter Road (OZ-8324)",
-      "motionText": "Motion\n  Failed",
-      "vote": "yea",
-      "result": "Motion\n  Failed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=83e7a856-017d-493a-81d6-c732bd2adba1&Agenda=PostMinutes&lang=English"
+      "date": "2014-09-02",
+      "meetingTitle": "MINUTES 21ST MEETING",
+      "itemTitle": "BY-LAWS",
+      "motionText": "Approve Introduction and First\n  Reading of Bill No. 430.",
+      "vote": "nay",
+      "result": "Motion Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-09-02",
+      "meetingTitle": "MINUTES 21ST MEETING",
+      "itemTitle": "BY-LAWS",
+      "motionText": "Approve Second Reading of Bill No.\n  430.",
+      "vote": "nay",
+      "result": "Motion Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-09-02",
+      "meetingTitle": "MINUTES 21ST MEETING",
+      "itemTitle": "BY-LAWS",
+      "motionText": "Approve Third Reading and Enactment of\n  Bill No. 430.",
+      "vote": "nay",
+      "result": "Motion Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
     }
   ],
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 935,
-      "yeas": 876,
-      "nays": 59,
-      "participationRate": 100
-    },
-    {
-      "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 680,
-      "yeas": 556,
-      "nays": 124,
+      "totalVotes": 1955,
+      "yeas": 1836,
+      "nays": 119,
       "participationRate": 100
     },
     {
       "committee": "Planning and Environment Committee",
-      "totalVotes": 613,
-      "yeas": 603,
+      "totalVotes": 581,
+      "yeas": 571,
       "nays": 10,
+      "participationRate": 100
+    },
+    {
+      "committee": "Strategic Priorities and Policy Committee",
+      "totalVotes": 301,
+      "yeas": 250,
+      "nays": 51,
       "participationRate": 100
     },
     {

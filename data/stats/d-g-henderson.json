@@ -36,29 +36,38 @@
     "trendDirection": "declining"
   },
   "voting": {
-    "totalVotes": 2416,
-    "yeas": 2166,
-    "nays": 250,
+    "totalVotes": 3406,
+    "yeas": 3115,
+    "nays": 291,
     "absent": 0,
     "participationRate": 100,
-    "yeaRate": 89.65231788079471,
-    "contestedDissentRate": 11.630794701986755,
-    "contestedVotes": 2416,
-    "substantiveVotes": 2412,
-    "substantiveYeas": 2162,
-    "substantiveNays": 250,
+    "yeaRate": 91.45625366999413,
+    "contestedDissentRate": 37.071240105540895,
+    "contestedVotes": 758,
+    "substantiveVotes": 3003,
+    "substantiveYeas": 2727,
+    "substantiveNays": 276,
     "substantiveParticipationRate": 100,
-    "substantiveYeaRate": 89.63515754560531
+    "substantiveYeaRate": 90.80919080919081
   },
   "budgetVoting": {
-    "totalBudgetVotes": 396,
-    "budgetYeas": 278,
-    "budgetNays": 118,
+    "totalBudgetVotes": 395,
+    "budgetYeas": 321,
+    "budgetNays": 74,
     "budgetAbsent": 0
   },
   "topAlignments": [],
   "bottomAlignments": [],
   "notableDissents": [
+    {
+      "date": "2014-11-25",
+      "meetingTitle": "MINUTES 26TH MEETING",
+      "itemTitle": "Properties located\n  at 510 Central Avenue and 609 William Street (Z-8141)",
+      "motionText": "Approve that a new part b) ii) J) BE\n  ADDED to provide for all parking at the rear, with one driveway off of\n  William Street and one driveway off of Central Avenue.",
+      "vote": "yea",
+      "result": "Motion Failed",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=48b1e6a3-ae6e-47f5-b600-bfc121838a2f&Agenda=PostMinutes&lang=English"
+    },
     {
       "date": "2014-11-24",
       "meetingTitle": "Strategic Priorities and Policy Committee",
@@ -78,13 +87,22 @@
       "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8715d678-b972-43eb-89f9-f28c8679f936&Agenda=PostMinutes&lang=English"
     },
     {
+      "date": "2014-11-11",
+      "meetingTitle": "MINUTES 25TH MEETING",
+      "itemTitle": "Property located at 420 Fanshawe Park Road\n  East - Request for Demolition",
+      "motionText": "That, on the recommendation of the Managing\n  Director, Planning and City Planner, with the advice of the Heritage Planner,\n  the following actions be taken with respect to the building(s) on the\n  pr...",
+      "vote": "nay",
+      "result": "Motion Passed",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=87f2cd1e-65b9-48d3-8a01-48b29194547e&Agenda=PostMinutes&lang=English"
+    },
+    {
       "date": "2014-10-14",
       "meetingTitle": "MINUTES 24TH MEETING",
       "itemTitle": "Property located at\n  50 King Street (Z-8372)",
-      "motionText": "Motion Passed",
+      "motionText": "Approve clause 1 and that the application\n  by 2353034 Ontario Limited (formerly Treadstone Group) related to the\n  properties located at 510 Central Avenue and 609 William Street (Z-8141) BE\n  REFERR...",
       "vote": "nay",
       "result": "Motion Passed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8527c028-f9e1-4318-a6b7-f22866645fd7&Agenda=PostMinutes&lang=English"
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=8527c028-f9e1-4318-a6b7-f22866645fd7&Agenda=PostMinutes&lang=English"
     },
     {
       "date": "2014-10-07",
@@ -99,19 +117,19 @@
       "date": "2014-09-30",
       "meetingTitle": "MINUTES 23RD MEETING",
       "itemTitle": "Property located at\n  1300 Fanshawe Park Road East (OZ-8358)",
-      "motionText": "Motion Failed",
+      "motionText": "That, the application of 1849259 Ontario\n  Inc., relating to the property located at 1300 Fanshawe Park Road East BE\n  REFUSED as the Municipal Council does not believe that a  special policy to\n  per...",
       "vote": "yea",
       "result": "Motion Failed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English"
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English"
     },
     {
       "date": "2014-09-30",
       "meetingTitle": "MINUTES 23RD MEETING",
       "itemTitle": "Property located at\n  1300 Fanshawe Park Road East (OZ-8358)",
-      "motionText": "Motion Passed",
+      "motionText": "Approve that, on\n  the recommendation of the Managing Director, Planning and City Planner, the\n  following actions be taken with respect to the application of 1849259 Ontario\n  Inc., relating to the p...",
       "vote": "nay",
       "result": "Motion Passed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English"
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English"
     },
     {
       "date": "2014-09-29",
@@ -130,46 +148,28 @@
       "vote": "nay",
       "result": "Motion\n  Passed",
       "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=04dd93e6-76f0-4fba-a546-eb6325e8b887&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2014-09-23",
-      "meetingTitle": "Planning and Environment Committee",
-      "itemTitle": "Property located at\n  2118 Richmond Street (OZ-7890)",
-      "motionText": "Motion\n  Failed",
-      "vote": "yea",
-      "result": "Motion\n  Failed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=04dd93e6-76f0-4fba-a546-eb6325e8b887&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2014-09-02",
-      "meetingTitle": "MINUTES 21ST MEETING",
-      "itemTitle": "Installation of\n  Sidewalks on Shavian Blvd.",
-      "motionText": "Motion Passed",
-      "vote": "nay",
-      "result": "Motion Passed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
     }
   ],
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 1249,
-      "yeas": 1156,
-      "nays": 93,
+      "totalVotes": 2461,
+      "yeas": 2260,
+      "nays": 201,
       "participationRate": 100
     },
     {
       "committee": "Planning and Environment Committee",
-      "totalVotes": 685,
-      "yeas": 668,
+      "totalVotes": 653,
+      "yeas": 636,
       "nays": 17,
       "participationRate": 100
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 482,
-      "yeas": 342,
-      "nays": 140,
+      "totalVotes": 292,
+      "yeas": 219,
+      "nays": 73,
       "participationRate": 100
     }
   ]

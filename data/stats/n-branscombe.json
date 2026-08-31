@@ -36,29 +36,47 @@
     "trendDirection": "declining"
   },
   "voting": {
-    "totalVotes": 2090,
-    "yeas": 1878,
-    "nays": 212,
+    "totalVotes": 2660,
+    "yeas": 2460,
+    "nays": 200,
     "absent": 0,
     "participationRate": 100,
-    "yeaRate": 89.85645933014355,
-    "contestedDissentRate": 10.909090909090908,
-    "contestedVotes": 2090,
-    "substantiveVotes": 2087,
-    "substantiveYeas": 1876,
-    "substantiveNays": 211,
+    "yeaRate": 92.4812030075188,
+    "contestedDissentRate": 26.82926829268293,
+    "contestedVotes": 697,
+    "substantiveVotes": 2330,
+    "substantiveYeas": 2137,
+    "substantiveNays": 193,
     "substantiveParticipationRate": 100,
-    "substantiveYeaRate": 89.88979396262577
+    "substantiveYeaRate": 91.7167381974249
   },
   "budgetVoting": {
-    "totalBudgetVotes": 742,
-    "budgetYeas": 616,
-    "budgetNays": 126,
+    "totalBudgetVotes": 457,
+    "budgetYeas": 399,
+    "budgetNays": 58,
     "budgetAbsent": 0
   },
   "topAlignments": [],
   "bottomAlignments": [],
   "notableDissents": [
+    {
+      "date": "2014-11-25",
+      "meetingTitle": "MINUTES 26TH MEETING",
+      "itemTitle": "Properties located\n  at 510 Central Avenue and 609 William Street (Z-8141)",
+      "motionText": "Approve that a new part b) ii) J) BE\n  ADDED to provide for all parking at the rear, with one driveway off of\n  William Street and one driveway off of Central Avenue.",
+      "vote": "yea",
+      "result": "Motion Failed",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=48b1e6a3-ae6e-47f5-b600-bfc121838a2f&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-09-30",
+      "meetingTitle": "MINUTES 23RD MEETING",
+      "itemTitle": "By-law Amendments\n  for Expanded Animal Welfare Initiatives",
+      "motionText": "That the following actions be taken to\n  amend various City of London by-laws in order to support enhanced animal care\n  strategies and implement the Municipal Council’s first principle of “no kill”\n ...",
+      "vote": "yea",
+      "result": "Motion Failed",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English"
+    },
     {
       "date": "2014-08-25",
       "meetingTitle": "Civic Works Committee",
@@ -67,6 +85,15 @@
       "vote": "nay",
       "result": "Motion\n  Passed",
       "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b2d16a7c-90eb-4ef1-ac5e-82b23e03b0f2&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-07-29",
+      "meetingTitle": "MINUTES 20TH MEETING",
+      "itemTitle": "Request for Support\n  for Fanshawe College London Downtown Campus - Phase ll",
+      "motionText": "Motion Passed",
+      "vote": "yea",
+      "result": "Motion Failed",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=056b5df8-e902-4a5c-9b10-8354073f92ed&Agenda=PostMinutes&lang=English"
     },
     {
       "date": "2014-07-28",
@@ -78,91 +105,64 @@
       "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=d81e36ea-76bf-432e-92e5-4f73b9897706&Agenda=PostMinutes&lang=English"
     },
     {
+      "date": "2014-05-06",
+      "meetingTitle": "MINUTES 12TH MEETING",
+      "itemTitle": "COMMITTEE OF THE WHOLE, IN\n  CAMERA (continued)",
+      "motionText": "Motion Failed",
+      "vote": "yea",
+      "result": "Motion Failed",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=6eda9580-212e-4cd2-a4fe-677696bb5ad1&Agenda=PostMinutes&lang=English"
+    },
+    {
       "date": "2014-04-01",
       "meetingTitle": "MINUTES 10TH MEETING",
       "itemTitle": "Property located at\n  447 Old Wonderland Road (Z-8228)",
-      "motionText": "Motion Passed",
+      "motionText": "Approve clause 22, as amended.",
       "vote": "nay",
       "result": "Motion Passed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=aa971b64-26f6-4fc6-b9d8-65f1d4096aba&Agenda=PostMinutes&lang=English"
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=aa971b64-26f6-4fc6-b9d8-65f1d4096aba&Agenda=PostMinutes&lang=English"
     },
     {
       "date": "2014-03-18",
       "meetingTitle": "MINUTES 9TH MEETING",
       "itemTitle": "Consideration of\n  Appointment to the Child Care Advisory Committee",
-      "motionText": "Motion Failed",
+      "motionText": "Amend clause 11 by adding the\n  following new c), as follows:\n \n\"c)     \n  the City Clerk BE REQUESTED to report back to the Corporate Services\n  Committee with respect to a fulsome review of the enti...",
       "vote": "yea",
       "result": "Motion Failed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=81c0030a-17e1-4d37-b72c-1ee78bd5dbc4&Agenda=PostMinutes&lang=English"
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=81c0030a-17e1-4d37-b72c-1ee78bd5dbc4&Agenda=PostMinutes&lang=English"
     },
     {
       "date": "2014-02-25",
+      "meetingTitle": "MINUTES 6TH MEETING",
+      "itemTitle": "Property located at\n  350 Oxford Street East",
+      "motionText": "Approve an amendment to clause 3 to\n  require, through the site plan process, to have a door situated at the corner\n  of Waterloo Street and Oxford Street East.",
+      "vote": "yea",
+      "result": "Motion Failed",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=dafc56ed-7bde-46c1-ba47-f78533319141&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-01-30",
       "meetingTitle": "Strategic Priorities and Policy Committee",
-      "itemTitle": "CORPORATE OPERATING BUDGET",
+      "itemTitle": "CORPORATE OPERATING\n  BUDGET",
       "motionText": "Motion\n  Passed",
       "vote": "nay",
       "result": "Motion\n  Passed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=a74f6c6c-4794-417c-a662-c5f2c93d5220&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2014-02-25",
-      "meetingTitle": "Strategic Priorities and Policy Committee",
-      "itemTitle": "CORPORATE OPERATING BUDGET",
-      "motionText": "Motion\n  Passed",
-      "vote": "nay",
-      "result": "Motion\n  Passed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=a74f6c6c-4794-417c-a662-c5f2c93d5220&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2014-02-25",
-      "meetingTitle": "Strategic Priorities and Policy Committee",
-      "itemTitle": "CORPORATE OPERATING BUDGET",
-      "motionText": "Motion\n  Passed",
-      "vote": "nay",
-      "result": "Motion\n  Passed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=a74f6c6c-4794-417c-a662-c5f2c93d5220&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2014-02-25",
-      "meetingTitle": "Strategic Priorities and Policy Committee",
-      "itemTitle": "CORPORATE OPERATING BUDGET",
-      "motionText": "Motion\n  Failed",
-      "vote": "yea",
-      "result": "Motion\n  Failed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=a74f6c6c-4794-417c-a662-c5f2c93d5220&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2014-02-25",
-      "meetingTitle": "Strategic Priorities and Policy Committee",
-      "itemTitle": "CORPORATE OPERATING BUDGET",
-      "motionText": "Motion\n  Failed",
-      "vote": "yea",
-      "result": "Motion\n  Failed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=a74f6c6c-4794-417c-a662-c5f2c93d5220&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2014-02-25",
-      "meetingTitle": "Strategic Priorities and Policy Committee",
-      "itemTitle": "CORPORATE OPERATING BUDGET",
-      "motionText": "Motion\n  Failed",
-      "vote": "yea",
-      "result": "Motion\n  Failed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=a74f6c6c-4794-417c-a662-c5f2c93d5220&Agenda=PostMinutes&lang=English"
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=20742436-9887-4d5a-aeda-ecd20d458684&Agenda=PostMinutes&lang=English"
     }
   ],
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 1031,
-      "yeas": 966,
-      "nays": 65,
+      "totalVotes": 2052,
+      "yeas": 1919,
+      "nays": 133,
       "participationRate": 100
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 795,
-      "yeas": 658,
-      "nays": 137,
+      "totalVotes": 344,
+      "yeas": 287,
+      "nays": 57,
       "participationRate": 100
     },
     {

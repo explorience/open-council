@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T05:06:55.794Z",
+  "generatedAt": "2026-08-31T22:51:59.923Z",
   "matrix": {
     "j-morgan": {
       "h-mcalister": 97.01834862385321,
@@ -10,7 +10,7 @@
       "s-trosow": 89.04761904761904,
       "c-rahman": 96.18834080717488,
       "s-lehman": 97.52066115702479,
-      "a-hopkins": 95.09251810136766,
+      "a-hopkins": 95.18760195758564,
       "p-van-meerbergen": 95.06024096385542,
       "s-franke": 94.77434679334917,
       "e-peloza": 95.79929988331388,
@@ -146,7 +146,7 @@
       "s-hillier": 96.29629629629629
     },
     "a-hopkins": {
-      "j-morgan": 95.09251810136766,
+      "j-morgan": 95.18760195758564,
       "h-mcalister": 95.53990610328638,
       "s-lewis": 94.24379232505643,
       "p-cuddy": 93.10344827586206,
@@ -305,6 +305,6 @@
     }
   ],
   "type": "committee",
-  "motionCount": 1498,
+  "motionCount": 1461,
   "committeeName": "Strategic Priorities and Policy Committee"
 }

@@ -66,24 +66,24 @@
     "trendDirection": "declining"
   },
   "voting": {
-    "totalVotes": 6522,
-    "yeas": 5406,
-    "nays": 355,
+    "totalVotes": 7143,
+    "yeas": 5986,
+    "nays": 396,
     "absent": 473,
-    "participationRate": 88.33180006133088,
-    "yeaRate": 93.83787536885957,
-    "contestedDissentRate": 8.251121076233185,
-    "contestedVotes": 3345,
-    "substantiveVotes": 4841,
-    "substantiveYeas": 4007,
-    "substantiveNays": 318,
-    "substantiveParticipationRate": 89.34104523858707,
-    "substantiveYeaRate": 92.64739884393065
+    "participationRate": 89.34621307573849,
+    "yeaRate": 93.79504857411469,
+    "contestedDissentRate": 20.673712021136065,
+    "contestedVotes": 1514,
+    "substantiveVotes": 4794,
+    "substantiveYeas": 3958,
+    "substantiveNays": 320,
+    "substantiveParticipationRate": 89.23654568210263,
+    "substantiveYeaRate": 92.5198690977092
   },
   "budgetVoting": {
-    "totalBudgetVotes": 1009,
-    "budgetYeas": 887,
-    "budgetNays": 98,
+    "totalBudgetVotes": 749,
+    "budgetYeas": 656,
+    "budgetNays": 69,
     "budgetAbsent": 16
   },
   "topAlignments": [],
@@ -183,24 +183,24 @@
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 3262,
-      "yeas": 2701,
-      "nays": 169,
-      "participationRate": 87.98283261802575
+      "totalVotes": 4253,
+      "yeas": 3614,
+      "nays": 247,
+      "participationRate": 90.78297672231366
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 2208,
-      "yeas": 1728,
-      "nays": 153,
-      "participationRate": 85.19021739130434
+      "totalVotes": 1854,
+      "yeas": 1411,
+      "nays": 116,
+      "participationRate": 82.36245954692556
     },
     {
       "committee": "Community and Protective Services Committee",
-      "totalVotes": 1052,
-      "yeas": 977,
+      "totalVotes": 1036,
+      "yeas": 961,
       "nays": 33,
-      "participationRate": 96.00760456273764
+      "participationRate": 95.94594594594594
     }
   ]
 }

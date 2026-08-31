@@ -60,24 +60,24 @@
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 7234,
-    "yeas": 6581,
-    "nays": 503,
+    "totalVotes": 7946,
+    "yeas": 7271,
+    "nays": 525,
     "absent": 118,
-    "participationRate": 97.92645839093171,
-    "yeaRate": 92.8994918125353,
-    "contestedDissentRate": 9.072489869428185,
-    "contestedVotes": 4442,
-    "substantiveVotes": 5440,
-    "substantiveYeas": 4912,
-    "substantiveNays": 454,
-    "substantiveParticipationRate": 98.63970588235294,
-    "substantiveYeaRate": 91.53932165486395
+    "participationRate": 98.11225773974327,
+    "yeaRate": 93.26577732170344,
+    "contestedDissentRate": 26.142595978062154,
+    "contestedVotes": 1641,
+    "substantiveVotes": 5320,
+    "substantiveYeas": 4799,
+    "substantiveNays": 447,
+    "substantiveParticipationRate": 98.60902255639098,
+    "substantiveYeaRate": 91.47922226458253
   },
   "budgetVoting": {
-    "totalBudgetVotes": 929,
-    "budgetYeas": 770,
-    "budgetNays": 150,
+    "totalBudgetVotes": 705,
+    "budgetYeas": 590,
+    "budgetNays": 106,
     "budgetAbsent": 9
   },
   "topAlignments": [],
@@ -177,17 +177,10 @@
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 2987,
-      "yeas": 2740,
-      "nays": 237,
-      "participationRate": 99.66521593572146
-    },
-    {
-      "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 1788,
-      "yeas": 1523,
-      "nays": 205,
-      "participationRate": 96.64429530201343
+      "totalVotes": 4044,
+      "yeas": 3714,
+      "nays": 320,
+      "participationRate": 99.75272007912957
     },
     {
       "committee": "Planning and Environment Committee",
@@ -195,6 +188,13 @@
       "yeas": 1475,
       "nays": 32,
       "participationRate": 95.31941808981658
+    },
+    {
+      "committee": "Strategic Priorities and Policy Committee",
+      "totalVotes": 1443,
+      "yeas": 1239,
+      "nays": 144,
+      "participationRate": 95.84199584199584
     },
     {
       "committee": "Civic Works Committee",

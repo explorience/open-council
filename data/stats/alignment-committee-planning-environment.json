@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T05:06:55.794Z",
+  "generatedAt": "2026-08-31T22:51:59.922Z",
   "matrix": {
     "j-morgan": {
       "s-lewis": 92.95774647887323,
@@ -136,6 +136,6 @@
     }
   ],
   "type": "committee",
-  "motionCount": 2651,
+  "motionCount": 2633,
   "committeeName": "Planning and Environment Committee"
 }

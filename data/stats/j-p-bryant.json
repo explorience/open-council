@@ -36,29 +36,38 @@
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 2215,
-    "yeas": 2024,
-    "nays": 191,
+    "totalVotes": 2972,
+    "yeas": 2757,
+    "nays": 215,
     "absent": 0,
     "participationRate": 100,
-    "yeaRate": 91.37697516930022,
-    "contestedDissentRate": 10.293453724604966,
-    "contestedVotes": 2215,
-    "substantiveVotes": 2215,
-    "substantiveYeas": 2024,
-    "substantiveNays": 191,
+    "yeaRate": 92.76581426648721,
+    "contestedDissentRate": 25.311203319502074,
+    "contestedVotes": 723,
+    "substantiveVotes": 2612,
+    "substantiveYeas": 2403,
+    "substantiveNays": 209,
     "substantiveParticipationRate": 100,
-    "substantiveYeaRate": 91.37697516930022
+    "substantiveYeaRate": 91.99846860643184
   },
   "budgetVoting": {
-    "totalBudgetVotes": 651,
-    "budgetYeas": 553,
-    "budgetNays": 98,
+    "totalBudgetVotes": 460,
+    "budgetYeas": 413,
+    "budgetNays": 47,
     "budgetAbsent": 0
   },
   "topAlignments": [],
   "bottomAlignments": [],
   "notableDissents": [
+    {
+      "date": "2014-11-25",
+      "meetingTitle": "MINUTES 26TH MEETING",
+      "itemTitle": "Properties located\n  at 510 Central Avenue and 609 William Street (Z-8141)",
+      "motionText": "Approve that a new part b) ii) J) BE\n  ADDED to provide for all parking at the rear, with one driveway off of\n  William Street and one driveway off of Central Avenue.",
+      "vote": "yea",
+      "result": "Motion Failed",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=48b1e6a3-ae6e-47f5-b600-bfc121838a2f&Agenda=PostMinutes&lang=English"
+    },
     {
       "date": "2014-11-24",
       "meetingTitle": "Strategic Priorities and Policy Committee",
@@ -99,28 +108,37 @@
       "date": "2014-09-16",
       "meetingTitle": "MINUTES 22ND MEETING",
       "itemTitle": "COMMITTEE\n  OF THE WHOLE, IN CAMERA",
-      "motionText": "Motion Failed",
+      "motionText": "Approve clause 2, as amended.",
       "vote": "yea",
       "result": "Motion Failed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=55f6942f-ffef-41d3-9867-697bba384718&Agenda=PostMinutes&lang=English"
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=55f6942f-ffef-41d3-9867-697bba384718&Agenda=PostMinutes&lang=English"
     },
     {
       "date": "2014-09-16",
       "meetingTitle": "MINUTES 22ND MEETING",
       "itemTitle": "COMMITTEE\n  OF THE WHOLE, IN CAMERA",
-      "motionText": "Motion Passed",
+      "motionText": "Approve that the following actions be\n  taken with respect to the complaint by Junction Climbing Centre Inc.\n  regarding development charges imposed by The Corporation of the City of\n  London in conne...",
       "vote": "nay",
       "result": "Motion Passed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=55f6942f-ffef-41d3-9867-697bba384718&Agenda=PostMinutes&lang=English"
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=55f6942f-ffef-41d3-9867-697bba384718&Agenda=PostMinutes&lang=English"
     },
     {
       "date": "2014-09-02",
       "meetingTitle": "MINUTES 21ST MEETING",
       "itemTitle": "Installation of\n  Sidewalks on Shavian Blvd.",
-      "motionText": "Motion Failed",
+      "motionText": "Approve that pursuant section 13.6 of the\n  Council Procedure By-law that the proposed amendment to part a) of clause 22\n  BE RECONSIDERED to provide all Members of Council an opportunity to vote on t...",
       "vote": "yea",
       "result": "Motion Failed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2014-07-29",
+      "meetingTitle": "MINUTES 20TH MEETING",
+      "itemTitle": "Request for Support\n  for Fanshawe College London Downtown Campus - Phase ll",
+      "motionText": "Motion Passed",
+      "vote": "yea",
+      "result": "Motion Failed",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=056b5df8-e902-4a5c-9b10-8354073f92ed&Agenda=PostMinutes&lang=English"
     },
     {
       "date": "2014-07-28",
@@ -130,39 +148,21 @@
       "vote": "nay",
       "result": "Motion\n  Passed",
       "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=d81e36ea-76bf-432e-92e5-4f73b9897706&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2014-06-24",
-      "meetingTitle": "MINUTES 17TH MEETING",
-      "itemTitle": "Resolution from the\n  Council Meeting of June 24, 2014 with respect to the declaration of a\n  potential vacancy of a Ward seat.",
-      "motionText": "Motion Failed",
-      "vote": "yea",
-      "result": "Motion Failed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=296bf116-08e6-4aec-ac1b-935d0b1bb4c9&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2014-05-05",
-      "meetingTitle": "Strategic Priorities and Policy Committee",
-      "itemTitle": "Consideration of\n  Nominees for Appointment to the Board of Directors of the Greater London\n  International Airport Authority",
-      "motionText": "Motion\n  Failed",
-      "vote": "yea",
-      "result": "Motion\n  Failed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=0ac0c57f-6eac-4bfc-821c-f058cf410073&Agenda=PostMinutes&lang=English"
     }
   ],
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 1112,
-      "yeas": 1046,
-      "nays": 66,
+      "totalVotes": 2243,
+      "yeas": 2088,
+      "nays": 155,
       "participationRate": 100
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 686,
-      "yeas": 573,
-      "nays": 113,
+      "totalVotes": 316,
+      "yeas": 268,
+      "nays": 48,
       "participationRate": 100
     },
     {
@@ -174,8 +174,8 @@
     },
     {
       "committee": "Community and Protective Services Committee",
-      "totalVotes": 166,
-      "yeas": 162,
+      "totalVotes": 162,
+      "yeas": 158,
       "nays": 4,
       "participationRate": 100
     },
