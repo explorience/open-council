@@ -5,5 +5,10 @@
 // Import homepage styles
 @use "../components/styles/homepage.scss";
 
+// Election Hub — self-contained token layer, scoped entirely under
+// `.election-hub` (see quartz/styles/election-hub.scss for the full
+// rationale). Never restyles anything outside content/election/.
+@use "./election-hub.scss";
+
 /* Hide folder listing on topics index */
 .hide-folder-listing .page-listing { display: none; }

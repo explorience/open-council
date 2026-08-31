@@ -1,0 +1,100 @@
+{
+  "_comment": "Hand-compiled for the Election Hub from City of London public sources. Not scraped/generated — see 'sources' below for provenance. currentRepSlug is drawn from data/councillors/registry.json (2022-2026 term, in effect until Nov 15 2026). boundaryChanged2026 and incumbent2026Note are drawn from the City's Ward Boundary Review and the City Clerk's certified candidate list — see per-entry 'source' where a specific claim is made.",
+  "generatedAt": "2026-08-31",
+  "currentTermEndsNote": "The 2022-2026 council term (and its ward boundaries) remains legally in effect until Nov 15, 2026. The Oct 26, 2026 election is run on the REDRAWN 2026 ward boundaries, which is why a voter's 'current representative' and 'who's on your ballot' can point at two different ward numbers for the same address.",
+  "boundaryReviewSource": "https://london.ca/government/council-civic-administration/elections/ward-boundary-review",
+  "candidateListSource": "https://london.ca/sites/default/files/2026-08/2026%20CERTIFIED%20LIST%20OF%20CANDIDATES.pdf",
+  "candidateListLastChecked": "2026-08-30 (certified list, nominations closed Aug 21 2026, list last modified Aug 28 2026)",
+  "cityWardMapTool": "https://london.ca/government/council-civic-administration/elections",
+  "wards": [
+    {
+      "ward": 1,
+      "currentRepSlug": "h-mcalister",
+      "boundaryChanged2026": true,
+      "incumbent2026Note": null
+    },
+    {
+      "ward": 2,
+      "currentRepSlug": "s-lewis",
+      "boundaryChanged2026": false,
+      "incumbent2026Note": null
+    },
+    {
+      "ward": 3,
+      "currentRepSlug": "p-cuddy",
+      "boundaryChanged2026": true,
+      "incumbent2026Note": null
+    },
+    {
+      "ward": 4,
+      "currentRepSlug": "s-stevenson",
+      "boundaryChanged2026": true,
+      "incumbent2026Note": "Susan Stevenson is not seeking re-election to this seat — she is running for Mayor instead. No outgoing Ward 4 councillor appears on the 2026 Ward 4 ballot.",
+      "source": "2026 certified candidate list: Susan Stevenson appears only as a Mayor candidate, not as a Ward 4 council candidate."
+    },
+    {
+      "ward": 5,
+      "currentRepSlug": "j-pribil",
+      "boundaryChanged2026": true,
+      "incumbent2026Note": "Jerry Pribil is not seeking re-election (absent from the certified candidate list). Corrine Rahman, the outgoing Ward 7 councillor, has filed to run in this ward instead, under the new boundaries.",
+      "source": "2026 certified candidate list: Jerry Pribil does not appear; Corrine Rahman is listed as a Councillor candidate for Ward 5."
+    },
+    {
+      "ward": 6,
+      "currentRepSlug": "s-trosow",
+      "boundaryChanged2026": false,
+      "incumbent2026Note": null
+    },
+    {
+      "ward": 7,
+      "currentRepSlug": "c-rahman",
+      "boundaryChanged2026": true,
+      "incumbent2026Note": "Corrine Rahman, the outgoing Ward 7 councillor, has filed to run in the new Ward 5 instead of Ward 7. No outgoing Ward 7 councillor appears on the 2026 Ward 7 ballot.",
+      "source": "2026 certified candidate list: Corrine Rahman is listed as a Councillor candidate for Ward 5, not Ward 7."
+    },
+    {
+      "ward": 8,
+      "currentRepSlug": "s-lehman",
+      "boundaryChanged2026": false,
+      "incumbent2026Note": null
+    },
+    {
+      "ward": 9,
+      "currentRepSlug": "a-hopkins",
+      "boundaryChanged2026": false,
+      "incumbent2026Note": null
+    },
+    {
+      "ward": 10,
+      "currentRepSlug": "p-van-meerbergen",
+      "boundaryChanged2026": false,
+      "incumbent2026Note": null
+    },
+    {
+      "ward": 11,
+      "currentRepSlug": "s-franke",
+      "boundaryChanged2026": false,
+      "incumbent2026Note": null
+    },
+    {
+      "ward": 12,
+      "currentRepSlug": "e-peloza",
+      "boundaryChanged2026": true,
+      "incumbent2026Note": null
+    },
+    {
+      "ward": 13,
+      "currentRepSlug": "d-ferreira",
+      "boundaryChanged2026": false,
+      "incumbent2026Note": null
+    },
+    {
+      "ward": 14,
+      "currentRepSlug": "s-hillier",
+      "boundaryChanged2026": true,
+      "incumbent2026Note": "Steve Hillier is not seeking re-election (absent from the certified candidate list). No outgoing Ward 14 councillor appears on the 2026 Ward 14 ballot.",
+      "source": "2026 certified candidate list: Steve Hillier does not appear as a candidate for any office."
+    }
+  ],
+  "unresolvedNote": "For wards not flagged above, this data does not assert that the outgoing councillor is running again in 2026 — only that no change was found in this pass. Boundary shape changed for Wards 1, 3, 4, 5, 7, 12 and 14 even where the incumbent is unaffected, per the City's Ward Boundary Review. Always check the official certified candidate list linked above for who is actually on your ballot."
+}
