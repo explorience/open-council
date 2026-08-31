@@ -24,43 +24,137 @@
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 5,
-    "yeas": 4,
-    "nays": 0,
+    "totalVotes": 1108,
+    "yeas": 860,
+    "nays": 24,
     "absent": 0,
-    "participationRate": 80,
-    "yeaRate": 100,
-    "contestedDissentRate": 0,
-    "contestedVotes": 0,
-    "substantiveVotes": 1,
-    "substantiveYeas": 0,
-    "substantiveNays": 0,
-    "substantiveParticipationRate": 0,
-    "substantiveYeaRate": 0
+    "participationRate": 79.78339350180505,
+    "yeaRate": 97.28506787330316,
+    "contestedDissentRate": 4.301075268817205,
+    "contestedVotes": 186,
+    "substantiveVotes": 730,
+    "substantiveYeas": 483,
+    "substantiveNays": 23,
+    "substantiveParticipationRate": 69.31506849315069,
+    "substantiveYeaRate": 95.45454545454545
   },
   "budgetVoting": {
-    "totalBudgetVotes": 0,
-    "budgetYeas": 0,
-    "budgetNays": 0,
+    "totalBudgetVotes": 86,
+    "budgetYeas": 83,
+    "budgetNays": 3,
     "budgetAbsent": 0
   },
   "topAlignments": [],
   "bottomAlignments": [],
-  "notableDissents": [],
+  "notableDissents": [
+    {
+      "date": "2022-10-17",
+      "meetingTitle": "14th Meeting of City Council",
+      "itemTitle": "(3.2) 4452 Wellington Road South (OZ-9497) (Relates to Bill No.'s 367 and 378)",
+      "motionText": "That consideration of Item 3 (3.2) BE REFERRED back to the Planning and Environment Committee in order to facilitate an additional public participation meeting; it being noted that a broader circulati...",
+      "vote": "nay",
+      "result": "Motion Passed (8 to 7)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=2a3f0da7-d614-4583-8704-5f48882febab&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2022-08-02",
+      "meetingTitle": "11th Meeting of City Council",
+      "itemTitle": "(4.5) Councillor M. van Holst - Neighbourhood Decision Making Business Case",
+      "motionText": "That item 13, clause 4.5 be amended by adding the following new part b): b)     that staff BE DIRECTED to include in the 2023 annual budget deliberations, a business case for expanding the neighbourho...",
+      "vote": "nay",
+      "result": "Motion Passed (8 to 6)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=4c720985-60de-4949-ae43-1307fd4ec0a3&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2022-08-02",
+      "meetingTitle": "11th Meeting of City Council",
+      "itemTitle": "(4.3) Application - Issuance of Proclamation - 230th Anniversary: Black Loyalist Exodus: 15 Ships to Sierra Leone",
+      "motionText": "That based on the application dated July 4, 2022 from #1792Project, the month of September 2022 BE PROCLAIMED as 230th Anniversary: Black Loyalist Exodus: 15 Ships to Sierra Leone.",
+      "vote": "nay",
+      "result": "Motion Passed (12 to 2)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=4c720985-60de-4949-ae43-1307fd4ec0a3&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2022-07-25",
+      "meetingTitle": "11th Meeting of the Corporate Services Committee",
+      "itemTitle": "Application - Issuance of Proclamation - 230th Anniversary: Black Loyalist Exodus: 15 Ships to Sierra Leone",
+      "motionText": "That based on the application dated July 4, 2022 from #1792Project, the month of September 2022 BE PROCLAIMED as 230th Anniversary: Black Loyalist Exodus: 15 Ships to Sierra Leone.",
+      "vote": "nay",
+      "result": "Motion Passed (4 to 2)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=caae2c25-9c7a-4b39-93ab-8c0da32f37ab&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2022-05-03",
+      "meetingTitle": null,
+      "itemTitle": "(5.2) Clause 4.2 of the 2nd Report of the Animal Welfare Advisory Committee\t",
+      "motionText": "That the proposed amendment, as amended, BE APPROVED: That clause 5.2 of the 6th Report of the CPSC BE AMENDED to add the following new part b): b)       the Civic Administration BE DIRECTED to bring ...",
+      "vote": "nay",
+      "result": "Motion Passed (5 to 9)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8ce5f98b-7e95-45c9-9fec-a83ed4f1e785&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2022-03-08",
+      "meetingTitle": null,
+      "itemTitle": "Development Charge Area Rating Policy Review – Recommended Approach",
+      "motionText": "That the matter of the Development Charge Area Rating Policy Review – Recommended Approach, BE REFERRED back to the Civic Administration for further consideration, and research of options that would b...",
+      "vote": "nay",
+      "result": "Motion Passed (10 to 4)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=5ee8276e-7895-484f-86c9-c7219cbd1070&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2021-12-21",
+      "meetingTitle": null,
+      "itemTitle": "(4.5) Reserves and Reserve Funds Overview",
+      "motionText": "That Item 7, clause 4.5, BE AMENDED by adding the following new part b): \"b)     the Civic Administration BE DIRECTED to consult with the Upper Thames River Conservation Authority with respect to the ...",
+      "vote": "nay",
+      "result": "Motion Passed (11 to 4)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8b3c078e-2351-4061-b8c3-4bda0e2d6495&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2021-12-02",
+      "meetingTitle": null,
+      "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2022-2023 totals rounded to the closest $1,000)",
+      "motionText": "That Case #P-7a BE APPROVED: Case #P-7 - Neighbourhood Strategic Initiatives and Funding and Sports Services - Reduction to Neighbourhood and Athletic Travel Grant Programs - Operating Expenditure ($4...",
+      "vote": "yea",
+      "result": "Motion Failed (3 to 12)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=6dfc0b43-bd75-4ba0-958e-53a4c54d8c06&Agenda=PostMinutes&lang=English"
+    }
+  ],
   "committeeActivity": [
     {
-      "committee": "Civic Works Committee",
-      "totalVotes": 4,
-      "yeas": 4,
-      "nays": 0,
+      "committee": "Council",
+      "totalVotes": 516,
+      "yeas": 502,
+      "nays": 14,
       "participationRate": 100
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 1,
-      "yeas": 0,
+      "totalVotes": 407,
+      "yeas": 180,
+      "nays": 5,
+      "participationRate": 45.45454545454545
+    },
+    {
+      "committee": "Corporate Services Committee",
+      "totalVotes": 86,
+      "yeas": 79,
+      "nays": 5,
+      "participationRate": 97.67441860465115
+    },
+    {
+      "committee": "Civic Works Committee",
+      "totalVotes": 79,
+      "yeas": 79,
       "nays": 0,
-      "participationRate": 0
+      "participationRate": 100
+    },
+    {
+      "committee": "Community and Protective Services Committee",
+      "totalVotes": 20,
+      "yeas": 20,
+      "nays": 0,
+      "participationRate": 100
     }
   ]
 }

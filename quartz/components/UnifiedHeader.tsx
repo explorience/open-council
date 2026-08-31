@@ -89,12 +89,18 @@ const UnifiedHeader: QuartzComponent = (_props: QuartzComponentProps) => {
         <div class="menu-divider"></div>
         <div class="menu-section">
           <span class="menu-section-title">Committees</span>
-          <a href="/committees/budget" class="mobile-menu-item">Budget Committee</a>
-          <a href="/committees/city-council" class="mobile-menu-item">City Council</a>
-          <a href="/committees/civic-works" class="mobile-menu-item">Civic Works</a>
-          <a href="/committees/community-protective-services" class="mobile-menu-item">Community Services</a>
           <a href="/committees/planning-environment" class="mobile-menu-item">Planning & Environment</a>
           <a href="/committees/strategic-priorities" class="mobile-menu-item">Strategic Priorities</a>
+          <a href="/committees/corporate-services" class="mobile-menu-item">Corporate Services</a>
+          <a href="/committees/community-protective-services" class="mobile-menu-item">Community Services</a>
+          <a href="/committees/civic-works" class="mobile-menu-item">Civic Works</a>
+          <a href="/committees/city-council" class="mobile-menu-item">City Council</a>
+          <a href="/committees/audit" class="mobile-menu-item">Audit Committee</a>
+          {/* Only reachable from councillor pages before this fix - see the
+              30 Aug 2026 audit's FOLLOW-UP finding. corporate-services was
+              also missing above; both gaps predate this branch. */}
+          <a href="/committees/infrastructure-corporate-services" class="mobile-menu-item">Infrastructure & Corporate Services</a>
+          <a href="/committees/budget" class="mobile-menu-item">Budget Committee</a>
         </div>
       </nav>
     </header>

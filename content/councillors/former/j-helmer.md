@@ -5,18 +5,18 @@ slug: "j-helmer"
 meetingCount: 580
 yearsActive: "2014 - 2022"
 isCurrent: false
-totalVotes: 9292
-votesYea: 8450
-votesNay: 496
-votesAbsent: 38
-votesRecused: 52
+totalVotes: 9854
+votesYea: 8826
+votesNay: 557
+votesAbsent: 134
+votesRecused: 74
 votesAbstained: 3
-votesOther: 253
+votesOther: 260
 attendanceRate: 97.5
-participationRate: 96.3
-yeaRate: 94.5
-contestedDissentRate: 8.2
-contestedVotes: 5396
+participationRate: 95.2
+yeaRate: 94.1
+contestedDissentRate: 9.2
+contestedVotes: 5486
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,13 +33,13 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 9,292 |
-| Voted Yea | 8,450 (90.9%) |
-| Voted Nay | 496 (5.3%) |
-| Absent | 38 (0.4%) |
-| Recused (conflict of interest) | 52 (0.6%) |
+| Total Votes | 9,854 |
+| Voted Yea | 8,826 (89.6%) |
+| Voted Nay | 557 (5.7%) |
+| Absent | 134 (1.4%) |
+| Recused (conflict of interest) | 74 (0.8%) |
 | Abstained | 3 (0.0%) |
-| Other/Unrecorded | 253 (2.7%) |
+| Other/Unrecorded | 260 (2.6%) |
 
 *Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
 
@@ -50,17 +50,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 7,253 |
-| Voted Yea | 6,508 (93.7%) |
-| Voted Nay | 441 (6.3%) |
+| Substantive Votes | 7,584 |
+| Voted Yea | 6,720 (93.2%) |
+| Voted Nay | 492 (6.8%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 8.2%
-- **Contested Votes**: 5,396
+- **Dissent Rate**: 9.2%
+- **Contested Votes**: 5,486
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -71,9 +71,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 1,016 |
-| Voted Yea | 893 (89.7%) |
-| Voted Nay | 103 (10.3%) |
+| Budget Votes | 1,044 |
+| Voted Yea | 909 (88.8%) |
+| Voted Nay | 115 (11.2%) |
 | Absent | 1 |
 
 
@@ -95,12 +95,12 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 3,620 | 3,337 | 245 | 99.0% |
-| Strategic Priorities and Policy Committee | 2,213 | 1,770 | 173 | 87.8% |
-| Planning and Environment Committee | 2,139 | 2,076 | 54 | 99.6% |
-| Civic Works Committee | 611 | 604 | 6 | 99.8% |
-| Corporate Services Committee | 561 | 527 | 15 | 96.6% |
-| Community and Protective Services Committee | 148 | 136 | 3 | 93.9% |
+| Council | 3,673 | 3,340 | 278 | 98.5% |
+| Planning and Environment Committee | 2,446 | 2,293 | 65 | 96.4% |
+| Strategic Priorities and Policy Committee | 2,251 | 1,771 | 184 | 86.9% |
+| Civic Works Committee | 625 | 617 | 7 | 99.8% |
+| Corporate Services Committee | 618 | 577 | 19 | 96.4% |
+| Community and Protective Services Committee | 241 | 228 | 4 | 96.3% |
 
 
 ## Notable Dissenting Votes
@@ -171,21 +171,21 @@ Voted **Nay** - Motion Passed (11 to 4)
 
 Voted **Nay** - Motion Passed (4 to 1)
 
-### 2022-07-05: (2.4) "RentSafeTO" Program and Complaint Process Improvements
+### 2022-08-02: (3.10) 1067, 1069 and 1071 Wellington Road (OZ-9263 / Z-9264)
+
+[11th Meeting of City Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=4c720985-60de-4949-ae43-1307fd4ec0a3&Agenda=PostMinutes&lang=English)
+
+> That, the following actions be taken with respect to the application by Century Centre Developments Inc., relating to the properties located at 1067-1071 Wellington Road: a)  the application BE REFERR...
+
+Voted **Yea** - Motion Failed (2 to 12)
+
+### 2022-07-05: (3.5) 84-86 St. George Street and 175-197 Ann Street (OZ-9127) (Relates to Bill No.'s 284 and 301)
 
 [10th Meeting of City Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=ca5548d3-dd7c-4875-a376-1a9725e339ed&Agenda=PostMinutes&lang=English)
 
-> That clause 2.4, BE AMENDED, by adding the following new part b): “b) Civic Administration BE DIRECTED to develop and bring forward a business case for a RentSafe London program for consideration duri...
+> That Item 13, clause 3.5, BE AMENDED to include the following at the end of the clause: "it being noted that the Municipal Council approves this application for the following reasons: - consistent wit...
 
-Voted **Yea** - Motion Failed (3 to 10)
-
-### 2022-07-05: By-laws
-
-[10th Meeting of City Council](https://pub-london.escribemeetings.com/Meeting.aspx?Id=ca5548d3-dd7c-4875-a376-1a9725e339ed&Agenda=PostMinutes&lang=English)
-
-> That Introduction and First Reading of the Bill No.’s 284 and 301 BE APPROVED.
-
-Voted **Nay** - Motion Passed (10 to 3)
+Voted **Nay** - Motion Passed (11 to 2)
 
 
 ## Committees Served

@@ -42,29 +42,92 @@
     "trendDirection": "improving"
   },
   "voting": {
-    "totalVotes": 1618,
-    "yeas": 1533,
-    "nays": 83,
-    "absent": 1,
-    "participationRate": 99.87639060568603,
-    "yeaRate": 94.86386138613861,
-    "contestedDissentRate": 3.4854245880861847,
-    "contestedVotes": 1578,
-    "substantiveVotes": 1599,
-    "substantiveYeas": 1515,
-    "substantiveNays": 83,
-    "substantiveParticipationRate": 99.93746091307067,
-    "substantiveYeaRate": 94.80600750938673
+    "totalVotes": 2024,
+    "yeas": 1891,
+    "nays": 100,
+    "absent": 32,
+    "participationRate": 98.36956521739131,
+    "yeaRate": 94.97739829231541,
+    "contestedDissentRate": 3.9417828987265007,
+    "contestedVotes": 1649,
+    "substantiveVotes": 1840,
+    "substantiveYeas": 1725,
+    "substantiveNays": 98,
+    "substantiveParticipationRate": 99.07608695652173,
+    "substantiveYeaRate": 94.62424574876577
   },
   "budgetVoting": {
-    "totalBudgetVotes": 506,
-    "budgetYeas": 467,
-    "budgetNays": 39,
+    "totalBudgetVotes": 536,
+    "budgetYeas": 494,
+    "budgetNays": 42,
     "budgetAbsent": 0
   },
   "topAlignments": [],
   "bottomAlignments": [],
   "notableDissents": [
+    {
+      "date": "2018-11-06",
+      "meetingTitle": null,
+      "itemTitle": "(3.6) Byron Valley Nature Trail Planning Process",
+      "motionText": "That Item 13 (3.6) BE AMENDED to read as follows: That, on the recommendation of the Managing Director, Planning and City Planner, the following actions be taken with respect to the Byron Valley Natur...",
+      "vote": "nay",
+      "result": "Motion Passed (8 to 5)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=c0233c2f-9459-4232-ac30-7780a482a08d&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2018-10-16",
+      "meetingTitle": null,
+      "itemTitle": "(2.4) Elected Officials Remuneration - One-Third Non Taxable Allowance (Relates to Bill No. 584)",
+      "motionText": "The motion to approve part b) is put. b)            the Mayor’s salary at January 1, 2019, BE INCREASED to $138,025 annually, in order to accommodate for the elimination of the allowance noted in part...",
+      "vote": "nay",
+      "result": "Motion Passed (7 to 5)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=bedc1530-d6f9-46d4-9a66-8ef7de0139e1&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2018-10-09",
+      "meetingTitle": null,
+      "itemTitle": "Elected Officials Remuneration - One-Third Non Taxable Allowance",
+      "motionText": "Motion to approve part b) b)     the Mayor’s salary at January 1, 2019, BE INCREASED to $138,025 annually, in order to accommodate for the elimination of the allowance noted in part a), above and main...",
+      "vote": "nay",
+      "result": "Motion Passed (3 to 2)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=d8323a83-88d9-4bb8-a8a3-265b2c4da24e&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2018-10-02",
+      "meetingTitle": null,
+      "itemTitle": "(3.8) Application - 230 North Centre Road (OZ-8874)",
+      "motionText": "The application by Tricar Group, relating to the property located at 230 North Centre Road, BE REFERRED back to the Civic Administration to initiate consultation between the applicant, the community a...",
+      "vote": "nay",
+      "result": "Motion Passed (13 to 2)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=296d6af9-d949-436a-8fce-580bf1f572f3&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2018-09-17",
+      "meetingTitle": null,
+      "itemTitle": "Dr. Josipa Petrunic, Executive Director and Chief Executive Officer, Canadian Urban Transit Research and Innovation Consortium - Rapid Transit",
+      "motionText": "b)    based on the financial and environmental benefits shown by the modelling done by CUTRIC, electrification of London’s Bus Rapid Transit system BE ENDORSED-IN-PRINCIPLE;",
+      "vote": "nay",
+      "result": "Motion Passed (9 to 5)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=4e6038a3-d2ed-4dbf-84eb-f04fee831bdc&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2018-07-24",
+      "meetingTitle": null,
+      "itemTitle": "(3.1) By-law Amendments to the Sound By-law, PW-12 and to the Public Nuisance By-law, PH-18, Public Messaging in the Community - Nuisances (Relates to Bill No.s 435 and 436)",
+      "motionText": "The motion to approve Part b) of Item 9 (3.1) is put.  Part b) reads as follows: b)            the proposed by-law, appended to the staff report dated July 16, 2018, BE INTRODUCED at the Municipal Cou...",
+      "vote": "nay",
+      "result": "Motion Passed (9 to 6)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=7887335f-11cc-4679-9f81-b0b63125b282&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2018-07-24",
+      "meetingTitle": null,
+      "itemTitle": "(4.5) Traffic Light - South Carriage Road and Hyde Park Road",
+      "motionText": "That staff BE DIRECTED to install traffic lights at South Carriage road and Hyde Park Road as soon as possible and identify a source of funding for the installation; it being noted that verbal present...",
+      "vote": "nay",
+      "result": "Motion Passed (8 to 6)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=7887335f-11cc-4679-9f81-b0b63125b282&Agenda=PostMinutes&lang=English"
+    },
     {
       "date": "2018-06-26",
       "meetingTitle": "13th Meeting of City Council",
@@ -91,91 +154,28 @@
       "vote": "nay",
       "result": "Motion Passed (9 to 4)",
       "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=4eb6d6ce-de5f-4f0d-aabf-338acfc40967&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2017-12-11",
-      "meetingTitle": "Strategic Priorities and Policy Committee",
-      "itemTitle": "Financial and Other\n  Resources Required to Host International Plowing Match 2020",
-      "motionText": "Motion Failed",
-      "vote": "yea",
-      "result": "Motion Failed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=fdaf40ac-d6d8-455a-bf11-f0d467c1a3bb&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2017-10-16",
-      "meetingTitle": "Strategic Priorities and Policy Committee",
-      "itemTitle": "Support of Hosting\n  Request - International Plowing Match",
-      "motionText": "Motion Passed",
-      "vote": "nay",
-      "result": "Motion Passed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=246ecf5e-b89d-4825-af51-f215c12b96a7&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2016-05-26",
-      "meetingTitle": "Strategic Priorities and Policy Committee",
-      "itemTitle": "Shift Rapid Transit\n  - Business Case",
-      "motionText": "Motion Passed",
-      "vote": "nay",
-      "result": "Motion Passed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b46146f4-084e-4db8-8c7a-93338630d7f9&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2016-05-26",
-      "meetingTitle": "Strategic Priorities and Policy Committee",
-      "itemTitle": "Shift Rapid Transit\n  - Business Case",
-      "motionText": "Motion Passed",
-      "vote": "nay",
-      "result": "Motion Passed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b46146f4-084e-4db8-8c7a-93338630d7f9&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2016-05-26",
-      "meetingTitle": "Strategic Priorities and Policy Committee",
-      "itemTitle": "Shift Rapid Transit\n  - Business Case",
-      "motionText": "Motion Passed",
-      "vote": "nay",
-      "result": "Motion Passed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b46146f4-084e-4db8-8c7a-93338630d7f9&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2016-05-26",
-      "meetingTitle": "Strategic Priorities and Policy Committee",
-      "itemTitle": "Shift Rapid Transit\n  - Business Case",
-      "motionText": "Motion Passed",
-      "vote": "nay",
-      "result": "Motion Passed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b46146f4-084e-4db8-8c7a-93338630d7f9&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2016-04-05",
-      "meetingTitle": "MINUTES NINTH MEETING",
-      "itemTitle": "Amendments to the\n  Traffic and Parking By-law",
-      "motionText": "Motion Passed",
-      "vote": "nay",
-      "result": "Motion Passed",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=ee0872cd-80e7-42cd-accb-cddf7d09825a&Agenda=PostMinutes&lang=English"
     }
   ],
   "committeeActivity": [
     {
       "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 719,
-      "yeas": 662,
-      "nays": 57,
-      "participationRate": 100
+      "totalVotes": 781,
+      "yeas": 711,
+      "nays": 60,
+      "participationRate": 98.71959026888605
     },
     {
       "committee": "Council",
-      "totalVotes": 483,
-      "yeas": 461,
-      "nays": 20,
-      "participationRate": 99.58592132505176
+      "totalVotes": 753,
+      "yeas": 697,
+      "nays": 33,
+      "participationRate": 96.94555112881807
     },
     {
       "committee": "Corporate Services Committee",
-      "totalVotes": 349,
-      "yeas": 344,
-      "nays": 5,
+      "totalVotes": 423,
+      "yeas": 417,
+      "nays": 6,
       "participationRate": 100
     },
     {

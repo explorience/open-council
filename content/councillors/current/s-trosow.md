@@ -5,18 +5,18 @@ slug: "s-trosow"
 meetingCount: 238
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 3834
-votesYea: 2806
-votesNay: 627
-votesAbsent: 229
-votesRecused: 7
-votesAbstained: 12
-votesOther: 153
+totalVotes: 3982
+votesYea: 2898
+votesNay: 640
+votesAbsent: 256
+votesRecused: 9
+votesAbstained: 16
+votesOther: 163
 attendanceRate: 96.3
-participationRate: 89.5
-yeaRate: 81.7
-contestedDissentRate: 45.2
-contestedVotes: 1479
+participationRate: 88.8
+yeaRate: 81.9
+contestedDissentRate: 45.6
+contestedVotes: 1502
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,13 +33,13 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 3,834 |
-| Voted Yea | 2,806 (73.2%) |
-| Voted Nay | 627 (16.4%) |
-| Absent | 229 (6.0%) |
-| Recused (conflict of interest) | 7 (0.2%) |
-| Abstained | 12 (0.3%) |
-| Other/Unrecorded | 153 (4.0%) |
+| Total Votes | 3,982 |
+| Voted Yea | 2,898 (72.8%) |
+| Voted Nay | 640 (16.1%) |
+| Absent | 256 (6.4%) |
+| Recused (conflict of interest) | 9 (0.2%) |
+| Abstained | 16 (0.4%) |
+| Other/Unrecorded | 163 (4.1%) |
 
 *Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
 
@@ -50,17 +50,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,420 |
-| Voted Yea | 1,741 (80.8%) |
-| Voted Nay | 414 (19.2%) |
+| Substantive Votes | 2,517 |
+| Voted Yea | 1,793 (80.9%) |
+| Voted Nay | 423 (19.1%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 45.2%
-- **Contested Votes**: 1,479
+- **Dissent Rate**: 45.6%
+- **Contested Votes**: 1,502
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -71,9 +71,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 386 |
-| Voted Yea | 292 (77.5%) |
-| Voted Nay | 85 (22.5%) |
+| Budget Votes | 393 |
+| Voted Yea | 296 (77.1%) |
+| Voted Nay | 88 (22.9%) |
 | Absent | 9 |
 
 
@@ -94,14 +94,14 @@ prefillQuestions:
 ## Voting Alignment
 
 **Most aligned with:**
-- Anna Hopkins (92.8%)
-- David Ferreira (91.2%)
-- Skylar Franke (90.1%)
+- Anna Hopkins (92.5%)
+- David Ferreira (92.0%)
+- Skylar Franke (90.0%)
 
 **Least aligned with:**
-- Susan Stevenson (76.9%)
-- Paul Van Meerbergen (78.4%)
-- Steve Hillier (81.4%)
+- Susan Stevenson (76.8%)
+- Paul Van Meerbergen (78.0%)
+- Steve Hillier (80.9%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -110,12 +110,12 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 2,109 | 1,520 | 407 | 91.4% |
-| Strategic Priorities and Policy Committee | 974 | 677 | 126 | 82.4% |
+| Council | 2,119 | 1,522 | 412 | 91.3% |
+| Strategic Priorities and Policy Committee | 1,021 | 678 | 133 | 79.4% |
 | Community and Protective Services Committee | 375 | 328 | 37 | 97.3% |
 | Budget Committee | 189 | 141 | 44 | 97.9% |
-| Civic Works Committee | 113 | 98 | 10 | 95.6% |
-| Corporate Services Committee | 74 | 42 | 3 | 60.8% |
+| Civic Works Committee | 157 | 140 | 11 | 96.2% |
+| Corporate Services Committee | 121 | 89 | 3 | 76.0% |
 
 
 ## Notable Dissenting Votes

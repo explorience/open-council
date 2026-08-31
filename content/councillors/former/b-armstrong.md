@@ -5,18 +5,18 @@ slug: "b-armstrong"
 meetingCount: 245
 yearsActive: "2010 - 2018"
 isCurrent: false
-totalVotes: 4434
-votesYea: 4089
+totalVotes: 4477
+votesYea: 4096
 votesNay: 298
-votesAbsent: 47
+votesAbsent: 83
 votesRecused: 0
 votesAbstained: 0
 votesOther: 0
 attendanceRate: 94.0
-participationRate: 98.9
+participationRate: 98.1
 yeaRate: 93.2
-contestedDissentRate: 6.6
-contestedVotes: 4110
+contestedDissentRate: 6.7
+contestedVotes: 4113
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,10 +33,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 4,434 |
-| Voted Yea | 4,089 (92.2%) |
+| Total Votes | 4,477 |
+| Voted Yea | 4,096 (91.5%) |
 | Voted Nay | 298 (6.7%) |
-| Absent | 47 (1.1%) |
+| Absent | 83 (1.9%) |
 | Recused (conflict of interest) | 0 (0.0%) |
 | Abstained | 0 (0.0%) |
 
@@ -49,8 +49,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 4,259 |
-| Voted Yea | 3,936 (93.0%) |
+| Substantive Votes | 4,278 |
+| Voted Yea | 3,939 (93.0%) |
 | Voted Nay | 298 (7.0%) |
 
 
@@ -58,8 +58,8 @@ prefillQuestions:
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 6.6%
-- **Contested Votes**: 4,110
+- **Dissent Rate**: 6.7%
+- **Contested Votes**: 4,113
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -94,9 +94,9 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 1,806 | 1,690 | 78 | 97.9% |
+| Council | 1,838 | 1,691 | 78 | 96.2% |
 | Strategic Priorities and Policy Committee | 1,587 | 1,374 | 205 | 99.5% |
-| Community and Protective Services Committee | 780 | 765 | 14 | 99.9% |
+| Community and Protective Services Committee | 791 | 771 | 14 | 99.2% |
 | Civic Works Committee | 261 | 260 | 1 | 100.0% |
 
 

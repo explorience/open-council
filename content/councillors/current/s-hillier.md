@@ -5,18 +5,18 @@ slug: "s-hillier"
 meetingCount: 484
 yearsActive: "2018 - 2026"
 isCurrent: true
-totalVotes: 8199
-votesYea: 7059
-votesNay: 505
-votesAbsent: 368
+totalVotes: 9187
+votesYea: 7795
+votesNay: 569
+votesAbsent: 541
 votesRecused: 16
 votesAbstained: 8
-votesOther: 243
+votesOther: 258
 attendanceRate: 93.6
-participationRate: 92.3
-yeaRate: 93.3
-contestedDissentRate: 15.3
-contestedVotes: 2177
+participationRate: 91.0
+yeaRate: 93.2
+contestedDissentRate: 17.3
+contestedVotes: 2378
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,13 +33,13 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 8,199 |
-| Voted Yea | 7,059 (86.1%) |
-| Voted Nay | 505 (6.2%) |
-| Absent | 368 (4.5%) |
+| Total Votes | 9,187 |
+| Voted Yea | 7,795 (84.8%) |
+| Voted Nay | 569 (6.2%) |
+| Absent | 541 (5.9%) |
 | Recused (conflict of interest) | 16 (0.2%) |
 | Abstained | 8 (0.1%) |
-| Other/Unrecorded | 243 (3.0%) |
+| Other/Unrecorded | 258 (2.8%) |
 
 *Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
 
@@ -50,17 +50,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 4,589 |
-| Voted Yea | 3,672 (89.4%) |
-| Voted Nay | 436 (10.6%) |
+| Substantive Votes | 5,181 |
+| Voted Yea | 4,107 (89.2%) |
+| Voted Nay | 496 (10.8%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 15.3%
-- **Contested Votes**: 2,177
+- **Dissent Rate**: 17.3%
+- **Contested Votes**: 2,378
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -71,10 +71,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 686 |
-| Voted Yea | 523 (81.5%) |
-| Voted Nay | 119 (18.5%) |
-| Absent | 44 |
+| Budget Votes | 766 |
+| Voted Yea | 582 (81.9%) |
+| Voted Nay | 129 (18.1%) |
+| Absent | 55 |
 
 
 ## Attendance
@@ -94,13 +94,13 @@ prefillQuestions:
 ## Voting Alignment
 
 **Most aligned with:**
-- Steve Lehman (96.4%)
-- Shawn Lewis (96.3%)
+- Steve Lehman (96.3%)
+- Shawn Lewis (95.9%)
 - Peter Cuddy (95.5%)
 
 **Least aligned with:**
-- Sam Trosow (81.4%)
-- David Ferreira (85.8%)
+- Sam Trosow (80.9%)
+- David Ferreira (86.4%)
 - Susan Stevenson (88.1%)
 
 [View full voting alignment →](/councillors/alignment)
@@ -110,12 +110,12 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 3,906 | 3,465 | 271 | 95.6% |
-| Planning and Environment Committee | 1,958 | 1,839 | 42 | 96.1% |
-| Strategic Priorities and Policy Committee | 1,767 | 1,268 | 127 | 78.9% |
-| Community and Protective Services Committee | 328 | 314 | 1 | 96.0% |
+| Council | 4,240 | 3,702 | 305 | 94.5% |
+| Planning and Environment Committee | 2,223 | 2,046 | 47 | 94.2% |
+| Strategic Priorities and Policy Committee | 1,985 | 1,407 | 148 | 78.3% |
+| Community and Protective Services Committee | 430 | 404 | 4 | 94.9% |
 | Budget Committee | 189 | 125 | 64 | 100.0% |
-| Corporate Services Committee | 51 | 48 | 0 | 94.1% |
+| Corporate Services Committee | 120 | 111 | 1 | 93.3% |
 
 
 ## Notable Dissenting Votes
@@ -213,8 +213,9 @@ Voted **Nay** - Motion Passed (9 to 2)
 - [City Council](/committees/city-council)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Community and Protective Services Committee](/committees/community-protective-services)
-- [Corporate Services Committee](/committees/corporate-services)
+- [Infrastructure and Corporate Services Committee](/committees/infrastructure-corporate-services)
 - [Budget Committee](/committees/budget)
+- [Corporate Services Committee](/committees/corporate-services)
 - [Civic Works Committee](/committees/civic-works)
 
 ## Recent Meetings (484 total)

@@ -24,29 +24,47 @@
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 5,
-    "yeas": 0,
-    "nays": 3,
-    "absent": 0,
-    "participationRate": 60,
-    "yeaRate": 0,
-    "contestedDissentRate": 100,
-    "contestedVotes": 3,
-    "substantiveVotes": 2,
-    "substantiveYeas": 0,
-    "substantiveNays": 1,
-    "substantiveParticipationRate": 50,
-    "substantiveYeaRate": 0
+    "totalVotes": 1071,
+    "yeas": 812,
+    "nays": 28,
+    "absent": 4,
+    "participationRate": 78.43137254901961,
+    "yeaRate": 96.66666666666667,
+    "contestedDissentRate": 9.411764705882353,
+    "contestedVotes": 170,
+    "substantiveVotes": 709,
+    "substantiveYeas": 457,
+    "substantiveNays": 23,
+    "substantiveParticipationRate": 67.70098730606487,
+    "substantiveYeaRate": 95.20833333333333
   },
   "budgetVoting": {
-    "totalBudgetVotes": 0,
-    "budgetYeas": 0,
-    "budgetNays": 0,
+    "totalBudgetVotes": 84,
+    "budgetYeas": 76,
+    "budgetNays": 8,
     "budgetAbsent": 0
   },
   "topAlignments": [],
   "bottomAlignments": [],
   "notableDissents": [
+    {
+      "date": "2022-10-17",
+      "meetingTitle": "14th Meeting of City Council",
+      "itemTitle": "(3.1) Adult Live Entertainment Parlour - 2010 Dundas Street - Deletion of Location",
+      "motionText": "That the following actions be taken with respect to the staff report, dated October 4, 2022, with respect to the Adult Live Entertainment Parlour located at 2010 Dundas Street – Deletion of Location: ...",
+      "vote": "nay",
+      "result": "Motion Passed (9 to 6)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=2a3f0da7-d614-4583-8704-5f48882febab&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2022-10-17",
+      "meetingTitle": "14th Meeting of City Council",
+      "itemTitle": "(5.2) Councillor M. Van Holst - Zoning Amendment to Permit a Pilot of Temporary Mobile Shelters",
+      "motionText": "That the communications from Councillor M. van Holst, as well as the proposed amendment to the clause BE REFERRED to the ongoing ReThink Zoning process, in order to consider the use of temporary mobil...",
+      "vote": "nay",
+      "result": "Motion Passed (12 to 3)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=2a3f0da7-d614-4583-8704-5f48882febab&Agenda=PostMinutes&lang=English"
+    },
     {
       "date": "2022-10-04",
       "meetingTitle": "The 11th Meeting of the Community and Protective Services Committee",
@@ -57,6 +75,60 @@
       "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=d43d0068-260d-4de4-9eeb-537f2b29d5ff&Agenda=PostMinutes&lang=English"
     },
     {
+      "date": "2022-08-02",
+      "meetingTitle": "11th Meeting of City Council",
+      "itemTitle": "(4.3) Water for Dogs at Pottersburg Dog Park ",
+      "motionText": "That the following actions be taken with respect to the installation of a water supply for dogs at the Pottersburg Dog Park: a) the Civic Administration BE DIRECTED to report back, in advance of the 2...",
+      "vote": "nay",
+      "result": "Motion Passed (12 to 2)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=4c720985-60de-4949-ae43-1307fd4ec0a3&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2022-08-02",
+      "meetingTitle": "11th Meeting of City Council",
+      "itemTitle": "(4.5) Councillor M. van Holst - Neighbourhood Decision Making Business Case",
+      "motionText": "That item 13, clause 4.5 be amended by adding the following new part b): b)     that staff BE DIRECTED to include in the 2023 annual budget deliberations, a business case for expanding the neighbourho...",
+      "vote": "nay",
+      "result": "Motion Passed (8 to 6)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=4c720985-60de-4949-ae43-1307fd4ec0a3&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2022-05-30",
+      "meetingTitle": null,
+      "itemTitle": "Consideration of Appointment to the Ecological Community Advisory Committee (Requires up to 2 Members)",
+      "motionText": "THAT notwithstanding the Terms of Reference for the Ecological Community Advisory Committee, Patricia Almost, Eric Dusenge, and Girish Sankar BE APPOINTED to the Ecological Community Advisory Committe...",
+      "vote": "yea",
+      "result": "Motion Failed (2 to 4)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=ac6c87b2-7951-4e97-b029-bc1befb6f6d8&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2022-03-22",
+      "meetingTitle": null,
+      "itemTitle": "(4.1) Development Charge Area Rating Policy Review – Recommended Approach",
+      "motionText": "Motion to approve part c): c)    The Civic Administration BE DIRECTED to continue a review and analysis of area rating where servicing needs to be extended in order to accommodate anticipated developm...",
+      "vote": "nay",
+      "result": "Motion Passed (8 to 5)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=de8a9b84-5106-497b-b010-8f2bdd5a86cf&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2022-02-28",
+      "meetingTitle": null,
+      "itemTitle": "Election Sign By-law Update",
+      "motionText": "That section 3.4 of the proposed by-law BE AMENDED to change 96 hours to 72 hours.",
+      "vote": "yea",
+      "result": "Motion Failed (3 to 3)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=137a6aa8-e6a7-4eca-bd6a-f153d0bbade9&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2022-01-31",
+      "meetingTitle": null,
+      "itemTitle": "Considerations and Viability to Implement a Vacant Home Tax in London",
+      "motionText": "That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to the consideration to implement a vacant home tax in London: a) The staff report...",
+      "vote": "nay",
+      "result": "Motion Passed (4 to 2)",
+      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=abd83d8b-118e-4c64-8fa4-23f307614b94&Agenda=PostMinutes&lang=English"
+    },
+    {
       "date": "2022-01-31",
       "meetingTitle": null,
       "itemTitle": "Application - Issuance of Proclamation - Parental Alienation Awareness Day",
@@ -64,37 +136,42 @@
       "vote": "nay",
       "result": "Motion Passed (4 to 1)",
       "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=abd83d8b-118e-4c64-8fa4-23f307614b94&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2021-12-07",
-      "meetingTitle": null,
-      "itemTitle": "(3.3) 99 Southdale Road West (Z-9162) (Relates to Bill No. 34)",
-      "motionText": "That clause 3.3 BE AMENDED to read as follows: That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Southdale West H...",
-      "vote": "nay",
-      "result": "Motion Passed (14 to 1)",
-      "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=d0afa9b5-7da7-4ad1-a51d-e8a6bf3d9777&Agenda=PostMinutes&lang=English"
     }
   ],
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 3,
-      "yeas": 0,
-      "nays": 1,
-      "participationRate": 33.33333333333333
+      "totalVotes": 470,
+      "yeas": 454,
+      "nays": 14,
+      "participationRate": 99.57446808510639
+    },
+    {
+      "committee": "Strategic Priorities and Policy Committee",
+      "totalVotes": 393,
+      "yeas": 160,
+      "nays": 6,
+      "participationRate": 42.23918575063613
     },
     {
       "committee": "Community and Protective Services Committee",
-      "totalVotes": 1,
-      "yeas": 0,
-      "nays": 1,
+      "totalVotes": 103,
+      "yeas": 100,
+      "nays": 3,
       "participationRate": 100
     },
     {
       "committee": "Corporate Services Committee",
-      "totalVotes": 1,
-      "yeas": 0,
-      "nays": 1,
+      "totalVotes": 79,
+      "yeas": 72,
+      "nays": 5,
+      "participationRate": 97.46835443037975
+    },
+    {
+      "committee": "Planning and Environment Committee",
+      "totalVotes": 26,
+      "yeas": 26,
+      "nays": 0,
       "participationRate": 100
     }
   ]

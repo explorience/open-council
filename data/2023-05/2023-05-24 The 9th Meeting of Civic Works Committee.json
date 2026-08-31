@@ -85,13 +85,15 @@
                 "voters": [
                   "P. Van Meerbergen",
                   "P. Cuddy",
-                  "S. Trosow,C. Rahman"
+                  "S. Trosow",
+                  "C. Rahman"
                 ]
               },
               {
                 "vote": "Absent:",
                 "voters": [
-                  "Mayor J. Morgan,H. McAlister"
+                  "Mayor J. Morgan",
+                  "H. McAlister"
                 ]
               }
             ],
@@ -486,13 +488,15 @@
                     "voters": [
                       "P. Van Meerbergen",
                       "P. Cuddy",
-                      "S. Trosow,C. Rahman"
+                      "S. Trosow",
+                      "C. Rahman"
                     ]
                   },
                   {
                     "vote": "Absent:",
                     "voters": [
-                      "Mayor J. Morgan,H. McAlister"
+                      "Mayor J. Morgan",
+                      "H. McAlister"
                     ]
                   }
                 ],
@@ -556,13 +560,15 @@
                     "voters": [
                       "P. Van Meerbergen",
                       "P. Cuddy",
-                      "S. Trosow,C. Rahman"
+                      "S. Trosow",
+                      "C. Rahman"
                     ]
                   },
                   {
                     "vote": "Absent:",
                     "voters": [
-                      "Mayor J. Morgan,H. McAlister"
+                      "Mayor J. Morgan",
+                      "H. McAlister"
                     ]
                   }
                 ],
@@ -642,13 +648,15 @@
                     "voters": [
                       "P. Van Meerbergen",
                       "P. Cuddy",
-                      "S. Trosow,C. Rahman"
+                      "S. Trosow",
+                      "C. Rahman"
                     ]
                   },
                   {
                     "vote": "Absent:",
                     "voters": [
-                      "Mayor J. Morgan,H. McAlister"
+                      "Mayor J. Morgan",
+                      "H. McAlister"
                     ]
                   }
                 ],
@@ -691,19 +699,22 @@
                   {
                     "vote": "Yeas:",
                     "voters": [
-                      "S. Trosow,C. Rahman"
+                      "S. Trosow",
+                      "C. Rahman"
                     ]
                   },
                   {
                     "vote": "Nays:",
                     "voters": [
-                      "P. Van Meerbergen,P. Cuddy"
+                      "P. Van Meerbergen",
+                      "P. Cuddy"
                     ]
                   },
                   {
                     "vote": "Absent:",
                     "voters": [
-                      "Mayor J. Morgan,H. McAlister"
+                      "Mayor J. Morgan",
+                      "H. McAlister"
                     ]
                   }
                 ],
@@ -788,13 +799,15 @@
                 "voters": [
                   "P. Van Meerbergen",
                   "P. Cuddy",
-                  "S. Trosow,C. Rahman"
+                  "S. Trosow",
+                  "C. Rahman"
                 ]
               },
               {
                 "vote": "Absent:",
                 "voters": [
-                  "Mayor J. Morgan,H. McAlister"
+                  "Mayor J. Morgan",
+                  "H. McAlister"
                 ]
               }
             ],
