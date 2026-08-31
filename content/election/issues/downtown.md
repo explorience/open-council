@@ -15,8 +15,6 @@ prefillQuestions: []
 
 For how each current councillor voted on these, see their [stance profile](/election#councillor-stance-profiles).
 
-<div class="eh-table-scroll">
-
 | Date | Item | What a yea did | Tally | Result |
 |------|------|-----------------|:---:|--------|
 | 2026-06-16 | [Downtown Reimagined: City of London Downtown Plan](</months/2026-06/2026-06-16 8th Meeting of the Strategic Priorities and Policy Committee#42downtown-reimagined-city-of-london-downtown-plan>) | Approved implementing the Downtown Reimagined Plan actions that can be accommodated within the City's existing approved budgets. | 11-2 | Motion Passed (11 to 2) |
@@ -44,7 +42,6 @@ For how each current councillor voted on these, see their [stance profile](/elec
 | 2023-11-21 | [2023-2027 City of London Strategic Plan: Core Area](</months/2023-11/2023-11-21 27th Meeting of the Strategic Priorities and Policy Committee#242023-2027-city-of-london-strategic-plan-core-area>) | Not classified — the direction wasn't clear from the motion text (listed for transparency) | 11-1 | Motion Passed (11 to 1) |
 | 2023-06-20 | [Core Area Action Plan 2022 Review](</months/2023-06/2023-06-20 18th Meeting of the Strategic Priorities and Policy Committee#22core-area-action-plan-2022-review>) | Approved $100,000 in one-time funding from the Operating Budget Contingency Reserve for the Holly Jolly Market and Downtown for the Holidays events. | 11-1 | Motion Passed (11 to 1) |
 
-</div>
 
 ---
 

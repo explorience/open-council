@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T13:15:33.863Z",
+  "generatedAt": "2026-08-31T14:07:39.025Z",
   "sourceHash": "b7db59b827637e80",
   "sourceGeneratedAt": "2026-08-26T14:06:06.044Z",
   "cutoffDate": "2023-01-01",
@@ -12,7 +12,7 @@
     "encampments": {
       "label": "Homelessness & Encampments",
       "dividedVoteCount": 131,
-      "directionBearingVoteCount": 60,
+      "directionBearingVoteCount": 56,
       "distinctAgendaItemCount": 56,
       "votes": [
         {
@@ -426,13 +426,8 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "response-scale",
-            "valence": 1,
-            "label": "Endorsed the City's proposed system-transformation approach and multi-year Housing Stability Services procurement framework.",
-            "axisLabels": {
-              "expansive": "expanded the encampment/homelessness response",
-              "restrictive": "reduced the encampment/homelessness response"
-            }
+            "axis": null,
+            "label": "Endorsed the City's proposed system-transformation approach and multi-year Housing Stability Services procurement framework."
           },
           "positions": {
             "j-morgan": "yea",
@@ -892,13 +887,8 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "response-scale",
-            "valence": 1,
-            "label": "Adopted a resolution calling on the Government of Ontario to declare a state of emergency over the homelessness, addictions, and mental-health crisis and to provide municipalities with additional funding and support.",
-            "axisLabels": {
-              "expansive": "expanded the encampment/homelessness response",
-              "restrictive": "reduced the encampment/homelessness response"
-            }
+            "axis": null,
+            "label": "Adopted a resolution calling on the Government of Ontario to declare a state of emergency over the homelessness, addictions, and mental-health crisis and to provide municipalities with additional funding and support."
           },
           "positions": {
             "j-morgan": "yea",
@@ -2988,13 +2978,8 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "response-scale",
-            "valence": -1,
-            "label": "Would have amended part b) so Council's request to federal/provincial governments for encampment funding would specify that the additional overnight spaces not be located on the main street of any Business Improvement Area.",
-            "axisLabels": {
-              "expansive": "expanded the encampment/homelessness response",
-              "restrictive": "reduced the encampment/homelessness response"
-            }
+            "axis": null,
+            "label": "Would have amended part b) so Council's request to federal/provincial governments for encampment funding would specify that the additional overnight spaces not be located on the main street of any Business Improvement Area."
           },
           "positions": {
             "h-mcalister": "yea",
@@ -3234,13 +3219,8 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "response-scale",
-            "valence": 1,
-            "label": "Approved part c), Council's request that Civic Administration and the Mayor engage federal and provincial governments to fund the Encampment Implementation Recommendations for 2025 as part of a $250-million federal encampments fund.",
-            "axisLabels": {
-              "expansive": "expanded the encampment/homelessness response",
-              "restrictive": "reduced the encampment/homelessness response"
-            }
+            "axis": null,
+            "label": "Approved part c), Council's request that Civic Administration and the Mayor engage federal and provincial governments to fund the Encampment Implementation Recommendations for 2025 as part of a $250-million federal encampments fund."
           },
           "positions": {
             "j-morgan": "yea",
@@ -12706,12 +12686,12 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "business-case",
-            "valence": 1,
+            "axis": "levy-size",
+            "valence": -1,
             "label": "Would have included Business Case #P-24 (Eliminate Climate Change Reserve Fund Contribution), a $192,000 reduction in each of 2026 and 2027, in the Mayor's Tabled 2026 Annual Budget Update.",
             "axisLabels": {
-              "expansive": "included a business case in the budget",
-              "restrictive": "excluded a business case from the budget"
+              "expansive": "increased the tax levy or a budget item",
+              "restrictive": "reduced the tax levy or a budget item"
             }
           },
           "positions": {
@@ -12808,12 +12788,12 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "business-case",
-            "valence": -1,
+            "axis": "levy-size",
+            "valence": 1,
             "label": "Excluded Business Case #P-6 (Reduced Road Network Improvements), worth $114,000 in 2026 and 2027, from the Mayor's Tabled 2026 Annual Update Budget.",
             "axisLabels": {
-              "expansive": "included a business case in the budget",
-              "restrictive": "excluded a business case from the budget"
+              "expansive": "increased the tax levy or a budget item",
+              "restrictive": "reduced the tax levy or a budget item"
             }
           },
           "positions": {
@@ -17802,7 +17782,7 @@
     "climate": {
       "label": "Climate & Green Space",
       "dividedVoteCount": 35,
-      "directionBearingVoteCount": 16,
+      "directionBearingVoteCount": 15,
       "distinctAgendaItemCount": 28,
       "votes": [
         {
@@ -19293,13 +19273,8 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "target-strength",
-            "valence": 1,
-            "label": "directed the Mayor and two councillors to write to AMO advocating that the Province commit Ontario to a net-zero-carbon electricity grid by 2035, and directed staff to collect London facilities' greenhouse-gas reduction plans (targeting net-zero emissions by 2050) and to discuss Clean Electricity Regulations implementation with Enbridge and London Hydro",
-            "axisLabels": {
-              "expansive": "strengthened a climate or environmental target",
-              "restrictive": "weakened a climate or environmental target"
-            }
+            "axis": null,
+            "label": "directed the Mayor and two councillors to write to AMO advocating that the Province commit Ontario to a net-zero-carbon electricity grid by 2035, and directed staff to collect London facilities' greenhouse-gas reduction plans (targeting net-zero emissions by 2050) and to discuss Clean Electricity Regulations implementation with Enbridge and London Hydro"
           },
           "positions": {
             "j-morgan": "yea",
@@ -19462,7 +19437,7 @@
     "housing": {
       "label": "Housing & Density",
       "dividedVoteCount": 229,
-      "directionBearingVoteCount": 137,
+      "directionBearingVoteCount": 134,
       "distinctAgendaItemCount": 160,
       "votes": [
         {
@@ -21587,13 +21562,8 @@
           "anchorAmbiguous": true,
           "matchedKeywords": [],
           "direction": {
-            "axis": "density",
-            "valence": -1,
-            "label": "Would have reduced the maximum permitted building height for the 767 Fanshawe Park Road East / 679 Dunboyne Crescent apartment rezoning to 24.5 metres.",
-            "axisLabels": {
-              "expansive": "increased permitted density or building height",
-              "restrictive": "reduced permitted density or building height"
-            }
+            "axis": null,
+            "label": "Would have reduced the maximum permitted building height for the 767 Fanshawe Park Road East / 679 Dunboyne Crescent apartment rezoning to 24.5 metres."
           },
           "positions": {
             "j-pribil": "yea",
@@ -22123,13 +22093,8 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "density",
-            "valence": -1,
-            "label": "Directed Civic Administration to stop the procurement process seeking proposals to redevelop the City-owned 84 Horton Street and 199 Ridout Street parking lots into high-density housing with public parking.",
-            "axisLabels": {
-              "expansive": "increased permitted density or building height",
-              "restrictive": "reduced permitted density or building height"
-            }
+            "axis": null,
+            "label": "Directed Civic Administration to stop the procurement process seeking proposals to redevelop the City-owned 84 Horton Street and 199 Ridout Street parking lots into high-density housing with public parking."
           },
           "positions": {
             "p-cuddy": "yea",
@@ -29278,13 +29243,8 @@
             "referral"
           ],
           "direction": {
-            "axis": "affordable-funding",
-            "valence": 1,
-            "label": "Amended the motion to add council's advisory support for a provincial motion to establish and fund Homes Ontario to build 250,000 new affordable and non-market homes, and to refer the matter to AMO for consideration.",
-            "axisLabels": {
-              "expansive": "approved funding or land for affordable housing",
-              "restrictive": "denied funding or land for affordable housing"
-            }
+            "axis": null,
+            "label": "Amended the motion to add council's advisory support for a provincial motion to establish and fund Homes Ontario to build 250,000 new affordable and non-market homes, and to refer the matter to AMO for consideration."
           },
           "positions": {
             "j-morgan": "yea",

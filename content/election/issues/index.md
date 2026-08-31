@@ -11,24 +11,21 @@ prefillQuestions: []
 
 Council doesn't split on most of what it votes on — most motions pass unanimously. These are the issues where it has actually divided since 2023-01-01.
 
-<div class="eh-table-scroll">
-
 | Issue | Divided votes | With a clear direction |
 |-------|:---:|:---:|
-| [Housing & Density](/election/issues/housing) | 229 | 137 |
-| [Homelessness & Encampments](/election/issues/encampments) | 131 | 60 |
+| [Housing & Density](/election/issues/housing) | 229 | 134 |
+| [Homelessness & Encampments](/election/issues/encampments) | 131 | 56 |
 | [Taxes & Budget](/election/issues/budget) | 114 | 94 |
 | [Transit & Roads](/election/issues/transit) | 61 | 38 |
-| [Climate & Green Space](/election/issues/climate) | 35 | 16 |
+| [Climate & Green Space](/election/issues/climate) | 35 | 15 |
 | [Downtown & Core](/election/issues/downtown) | 24 | 15 |
 | [Bike Lanes / Cycling](/election/issues/bikes) | 18 | 13 |
 | [Policing](/election/issues/policing) | 14 | 6 |
 
-</div>
 
 ## Unclassified divided votes
 
-463 additional divided motions since 2023-01-01 matched none of the issue clusters above (or matched an explicit governance/procedure exclusion) and are not force-fit into one. All 463 are listed below:
+463 additional divided motions since 2023-01-01 were independently classified as not fitting any of the issue clusters above (or as an explicit governance/procedure exclusion), and are not force-fit into one. All 463 are listed below:
 
 - 2026-07-21 — (2.1) Green Development Framework Update (item 8.2.4)
 - 2026-07-21 — (4.5) By-law Enforcement Administrative Fees (item 8.4.11)

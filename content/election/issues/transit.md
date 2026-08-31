@@ -15,8 +15,6 @@ prefillQuestions: []
 
 For how each current councillor voted on these, see their [stance profile](/election#councillor-stance-profiles).
 
-<div class="eh-table-scroll">
-
 | Date | Item | What a yea did | Tally | Result |
 |------|------|-----------------|:---:|--------|
 | 2026-07-21 | [(2.2) Canada Public Transit Fund - Baseline Funding – Contribution Agreement (Relates to Bill No.  268)](</months/2026-07/2026-07-21 12th Meeting of Council#81522-canada-public-transit-fund---baseline-funding--contribution-agreementrelates-to-bill-no--268>) | Approved introducing a by-law to enter into and execute a Contribution Agreement with the federal government for baseline Canada Public Transit Fund funding, and authorized related administrative acts. | 12-3 | Motion Passed (12 to 3) |
@@ -81,7 +79,6 @@ For how each current councillor voted on these, see their [stance profile](/elec
 | 2023-10-24 | [Mobility Master Plan 2050 Mode Share Target](</months/2023-10/2023-10-24 The 15th Meeting of the Civic Works Committee#25mobility-master-plan-2050-mode-share-target>) | Not classified — the direction wasn't clear from the motion text (listed for transparency) | 4-1 | Motion Passed (4 to 1) |
 | 2023-07-25 | [(4.3)  Mobility Master Plan Update Strategies, Mode Share Target Options and Project Evaluation Frameworks](</months/2023-07/2023-07-25 13th Meeting of City Council#851543--mobility-master-plan-update-strategies-mode-share-target-options-and-project-evaluation-frameworks>) | Not classified — the direction wasn't clear from the motion text (listed for transparency) | 11-2 | Motion Passed (11 to 2) |
 
-</div>
 
 ---
 

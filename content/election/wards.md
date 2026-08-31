@@ -24,8 +24,6 @@ The 2022-2026 council term (and its ward boundaries) remains legally in effect u
 
 ## All 14 wards
 
-<div class="eh-table-scroll">
-
 | Ward | Current representative (2022–2026) | 2026 boundary | 2026 ballot note |
 |:---:|---|:---:|---|
 | 1 | [Hadleigh McAlister](/election/councillors/h-mcalister) | Changed | — |
@@ -43,7 +41,6 @@ The 2022-2026 council term (and its ward boundaries) remains legally in effect u
 | 13 | [David Ferreira](/election/councillors/d-ferreira) | Same shape | — |
 | 14 | [Steve Hillier](/election/councillors/s-hillier) | Changed | Steve Hillier does not appear on the 2026 certified list of candidates for any ward or for Mayor (list checked 2026-08-30). No outgoing Ward 14 councillor appears on the 2026 Ward 14 ballot. |
 
-</div>
 
 For wards not flagged above, this data does not assert that the outgoing councillor is running again in 2026 — only that no change was found in this pass. Boundary shape changed for Wards 1, 3, 4, 5, 7, 12 and 14 even where the incumbent is unaffected, per the City's Ward Boundary Review. Always check the official certified candidate list linked above for who is actually on your ballot.
 

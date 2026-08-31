@@ -15,8 +15,6 @@ prefillQuestions: []
 
 For how each current councillor voted on these, see their [stance profile](/election#councillor-stance-profiles).
 
-<div class="eh-table-scroll">
-
 | Date | Item | What a yea did | Tally | Result |
 |------|------|-----------------|:---:|--------|
 | 2026-07-21 | [(4.4) City of London Special Constable Program](</months/2026-07/2026-07-21 12th Meeting of Council#841044-city-of-london-special-constable-program>) | Not classified — the direction wasn't clear from the motion text (listed for transparency) | 13-2 | Motion Passed (13 to 2) |
@@ -34,7 +32,6 @@ For how each current councillor voted on these, see their [stance profile](/elec
 | 2024-02-08 | [Amendment - Business Case #P-53](</months/2024-02/2024-02-08 2nd Budget Committee - 2024-2027 Multi-Year Budget - CONTINUATION#324amendment---business-case-p-53>) | Added $300,000/year in funding for winter maintenance (sweeping and plowing) of boulevard bike lanes, funded entirely by an equal, offsetting reduction to the London Police Service operating budget (net zero tax levy impact). | 4-11 | Motion Failed (4 to 11) |
 | 2024-02-02 | [Amendment - Business Case #P-29](</months/2024-02/2024-02-02 2nd Budget Committee - 2024-2027 Multi-Year Budget - CONTINUATION#38amendment---business-case-p-29>) | Reduced Business Case #P-29 (Police Vehicle and Equipment Requirements) funding by $90,000 per year. | 6-9 | Motion Failed (6 to 9) |
 
-</div>
 
 ---
 

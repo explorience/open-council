@@ -15,8 +15,6 @@ prefillQuestions: []
 
 For how each current councillor voted on these, see their [stance profile](/election#councillor-stance-profiles).
 
-<div class="eh-table-scroll">
-
 | Date | Item | What a yea did | Tally | Result |
 |------|------|-----------------|:---:|--------|
 | 2025-09-08 | [Western Road and Sarnia Road/Philip Aziz Avenue Corridor and Intersection Improvements Project Update](</months/2025-09/2025-09-08 13th Meeting of the Community and Protective Services Committee>) *(links to the meeting page — this item shares its heading with another motion, so no single-motion anchor is possible)* | Directed Civic Administration to implement the corridor recommendations, including new in-boulevard cycling infrastructure on Sarnia Road and Western Road and new in-boulevard cycle lanes on Philip Aziz Avenue, alongside pedestrian-signal, storm-sewer, and watermain work. | 1-4 | Motion Failed (1 to 4) |
@@ -38,7 +36,6 @@ For how each current councillor voted on these, see their [stance profile](/elec
 | 2024-08-27 | [(4.2) Councillor H. McAlister - Update to the Hamilton Road Streetscape Master Plan](</months/2024-08/2024-08-27 14th Meeting of City Council#84942-councillor-h-mcalister---update-to-the-hamilton-road-streetscape-master-plan>) | Not classified — the direction wasn't clear from the motion text (listed for transparency) | 5-10 | Motion Failed (5 to 10) |
 | 2024-08-13 | [Councillor H. McAlister - Update to the Hamilton Road Streetscape Master Plan](</months/2024-08/2024-08-13 11th Meeting of the Civic Works Committee>) *(links to the meeting page — this item shares its heading with another motion, so no single-motion anchor is possible)* | Not classified — the direction wasn't clear from the motion text (listed for transparency) | 5-1 | Motion Passed (5 to 1) |
 
-</div>
 
 ---
 

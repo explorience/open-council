@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-31T13:15:33.860Z",
+  "generatedAt": "2026-08-31T14:07:39.021Z",
   "note": "Cross-check report only — the regex engine in issue-rules.ts/direction-rules.ts is NOT the source of any published claim as of the 2026-08-31 rebuild; every published issue/axis/polarity/whatAYeaDid comes from data/election/classify/batch-*-verified.json. This file records every motion in the divided universe where the regex engine's independent read (issue classification and/or direction) disagrees with the verified classification, for ongoing regex-quality monitoring.",
   "totalCompared": 1089,
-  "disagreementCount": 447,
+  "disagreementCount": 446,
   "disagreements": [
     {
       "motionId": "c7bf822cb0ae",
@@ -810,8 +810,8 @@
       },
       "llm": {
         "issue": "encampments",
-        "axis": "response-scale",
-        "polarity": "expansive"
+        "axis": null,
+        "polarity": null
       }
     },
     {
@@ -992,24 +992,6 @@
         "issue": "housing",
         "axis": "density",
         "polarity": "expansive"
-      }
-    },
-    {
-      "motionId": "0f359afc4f62",
-      "date": "2026-02-10",
-      "meetingSlug": "months/2026-02/2026-02-10 3rd Council Meeting",
-      "itemNumber": "8.3.8",
-      "itemTitle": "(3.4) 767 Fanshawe Park Road East and 679 Dunboyne Crescent - Z-25151 (Relates to Bill No. 82)",
-      "kind": "axis",
-      "regex": {
-        "issue": "housing",
-        "axis": null,
-        "valence": null
-      },
-      "llm": {
-        "issue": "housing",
-        "axis": "density",
-        "polarity": "restrictive"
       }
     },
     {
@@ -1404,8 +1386,8 @@
       },
       "llm": {
         "issue": "housing",
-        "axis": "density",
-        "polarity": "restrictive"
+        "axis": null,
+        "polarity": null
       }
     },
     {
@@ -1494,8 +1476,8 @@
       },
       "llm": {
         "issue": "encampments",
-        "axis": "response-scale",
-        "polarity": "expansive"
+        "axis": null,
+        "polarity": null
       }
     },
     {
@@ -1643,6 +1625,24 @@
       }
     },
     {
+      "motionId": "18633398dd86",
+      "date": "2025-11-20",
+      "meetingSlug": "months/2025-11/2025-11-20 6th Meeting of the Budget Committee",
+      "itemNumber": "4.1",
+      "itemTitle": "Amendment - Budget Case #P-6",
+      "kind": "axis",
+      "regex": {
+        "issue": "budget",
+        "axis": "business-case",
+        "valence": -1
+      },
+      "llm": {
+        "issue": "budget",
+        "axis": "levy-size",
+        "polarity": "expansive"
+      }
+    },
+    {
       "motionId": "987a0e7529b2",
       "date": "2025-11-20",
       "meetingSlug": "months/2025-11/2025-11-20 6th Meeting of the Budget Committee",
@@ -1674,8 +1674,8 @@
       },
       "llm": {
         "issue": "budget",
-        "axis": "business-case",
-        "polarity": "expansive"
+        "axis": "levy-size",
+        "polarity": "restrictive"
       }
     },
     {
@@ -4289,24 +4289,6 @@
       }
     },
     {
-      "motionId": "fc2f9833ce19",
-      "date": "2024-11-05",
-      "meetingSlug": "months/2024-11/2024-11-05 17th Meeting of City Council",
-      "itemNumber": "8.2.4",
-      "itemTitle": "(4.1) Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update",
-      "kind": "axis",
-      "regex": {
-        "issue": "encampments",
-        "axis": null,
-        "valence": null
-      },
-      "llm": {
-        "issue": "encampments",
-        "axis": "response-scale",
-        "polarity": "restrictive"
-      }
-    },
-    {
       "motionId": "5c6d802b2c95",
       "date": "2024-11-05",
       "meetingSlug": "months/2024-11/2024-11-05 17th Meeting of City Council",
@@ -4464,8 +4446,8 @@
       },
       "llm": {
         "issue": "encampments",
-        "axis": "response-scale",
-        "polarity": "expansive"
+        "axis": null,
+        "polarity": null
       }
     },
     {
@@ -7434,8 +7416,8 @@
       },
       "llm": {
         "issue": "housing",
-        "axis": "affordable-funding",
-        "polarity": "expansive"
+        "axis": null,
+        "polarity": null
       }
     },
     {
@@ -7866,8 +7848,8 @@
       },
       "llm": {
         "issue": "climate",
-        "axis": "target-strength",
-        "polarity": "expansive"
+        "axis": null,
+        "polarity": null
       }
     },
     {

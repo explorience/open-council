@@ -15,8 +15,6 @@ prefillQuestions: []
 
 For how each current councillor voted on these, see their [stance profile](/election#councillor-stance-profiles).
 
-<div class="eh-table-scroll">
-
 | Date | Item | What a yea did | Tally | Result |
 |------|------|-----------------|:---:|--------|
 | 2026-06-23 | [(4.1) The Centre of Opportunity: London's Economic Development Strategy (2026–2030) and Implementation Plan](</months/2026-06/2026-06-23 11th Meeting of Council#83641-the-centre-of-opportunity-londons-economic-development-strategy-20262030-and-implementation-plan>) | Endorsed the Centre of Opportunity economic development strategy and authorized up to $350,000 in one-time funding ($200,000 from Business Case #P-46 and $150,000 from the Economic Development Reserve Fund) for immediate implementation, referring additional funding requests to the 2027-2031 Strategic Plan / 2028-2031 Multi-Year Budget process. | 13-1 | Motion Passed (13 to 1) |
@@ -134,7 +132,6 @@ For how each current councillor voted on these, see their [stance profile](/elec
 | 2023-08-15 | [Green Bin and Collection Program Changes](</months/2023-08/2023-08-15 The 12th Meeting of the Civic Works Committee#42green-bin-and-collection-program-changes>) | Not classified — the direction wasn't clear from the motion text (listed for transparency) | 2-3 | Motion Failed (2 to 3) |
 | 2023-08-15 | [Green Bin and Collection Program Changes](</months/2023-08/2023-08-15 The 12th Meeting of the Civic Works Committee#42green-bin-and-collection-program-changes>) | raised the Garbage Tag fee for extra curbside bags/containers (and bagged residential garbage at EnviroDepots) from $1.50 to $2.00, to be finalized through the upcoming Fees and Charges By-law review as part of the multi-year budget development | 4-1 | Motion Passed (4 to 1) |
 
-</div>
 
 ---
 

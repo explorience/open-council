@@ -9,13 +9,11 @@ prefillQuestions: []
 
 # Climate & Green Space
 
-35 divided (non-unanimous, non-procedural) council or committee votes on this issue since 2023-01-01. 16 of those had a clear "what a yea did" direction; 19 did not and are marked below rather than guessed at.
+35 divided (non-unanimous, non-procedural) council or committee votes on this issue since 2023-01-01. 15 of those had a clear "what a yea did" direction; 20 did not and are marked below rather than guessed at.
 
 > **This is a descriptive record, not an endorsement.** Every row below is a real recorded council or committee vote since 2023. It says nothing about a councillor's reasons, character, or fitness for office — only what was voted on and what a yea did. See [What Council Actually Controls](/election/what-council-controls) for how much of this any councillor actually controls.
 
 For how each current councillor voted on these, see their [stance profile](/election#councillor-stance-profiles).
-
-<div class="eh-table-scroll">
 
 | Date | Item | What a yea did | Tally | Result |
 |------|------|-----------------|:---:|--------|
@@ -50,12 +48,11 @@ For how each current councillor voted on these, see their [stance profile](/elec
 | 2024-02-08 | [Amendment - Business Case #P-62](</months/2024-02/2024-02-08 2nd Budget Committee - 2024-2027 Multi-Year Budget - CONTINUATION#325amendment---business-case-p-62>) | Approved funding for 50% of Business Case #P-62 (Environmentally Significant Areas Management). | 8-7 | Motion Passed (8 to 7) |
 | 2024-02-02 | [Amendment - Business Case #P-56](</months/2024-02/2024-02-02 2nd Budget Committee - 2024-2027 Multi-Year Budget - CONTINUATION#320amendment---business-case-p-56>) | Not classified — the direction wasn't clear from the motion text (listed for transparency) | 3-12 | Motion Failed (3 to 12) |
 | 2024-01-23 | [(5.2) Green Development Standards](</months/2024-01/2024-01-23 2nd Meeting of City Council#851152-green-development-standards>) | Directed staff to update the Site Plan Control and/or Zoning By-laws by Q3 2024 to require EV-charging rough-ins, minimum native-species landscaping, short-term bicycle parking, and bird-friendly (CSA A460) building design standards, and to review a legislative framework for broader sustainable building requirements (energy efficiency, water conservation, green roofs). | 13-1 | Motion Passed (13 to 1) |
-| 2023-07-25 | [(4.4)  Councillor S. Franke - Climate Emergency Action Plan - Phase Out Gas](</months/2023-07/2023-07-25 13th Meeting of City Council#851644--councillor-s-franke---climate-emergency-action-plan---phase-out-gas>) | directed the Mayor and two councillors to write to AMO advocating that the Province commit Ontario to a net-zero-carbon electricity grid by 2035, and directed staff to collect London facilities' greenhouse-gas reduction plans (targeting net-zero emissions by 2050) and to discuss Clean Electricity Regulations implementation with Enbridge and London Hydro | 10-3 | Motion Passed (10 to 3) |
+| 2023-07-25 | [(4.4)  Councillor S. Franke - Climate Emergency Action Plan - Phase Out Gas](</months/2023-07/2023-07-25 13th Meeting of City Council#851644--councillor-s-franke---climate-emergency-action-plan---phase-out-gas>) | Not classified — the direction wasn't clear from the motion text (listed for transparency) | 10-3 | Motion Passed (10 to 3) |
 | 2023-07-25 | [(4.4)  Councillor S. Franke - Climate Emergency Action Plan - Phase Out Gas](</months/2023-07/2023-07-25 13th Meeting of City Council#851644--councillor-s-franke---climate-emergency-action-plan---phase-out-gas>) | Not classified — the direction wasn't clear from the motion text (listed for transparency) | 5-8 | Motion Failed (5 to 8) |
 | 2023-07-18 | [(ADDED) Councillor S. Franke - Climate Emergency Action Plan - Phase Out Gas](</months/2023-07/2023-07-18 The 11th Meeting of the Civic Works Committee#44added-councillor-s-franke---climate-emergency-action-plan---phase-out-gas>) | Not classified — the direction wasn't clear from the motion text (listed for transparency) | 3-2 | Motion Passed (3 to 2) |
 | 2023-06-06 | [(4.1) 2022 Climate Emergency Action Plan Progress Report](</months/2023-06/2023-06-06 11th Meeting of City Council#83441-2022-climate-emergency-action-plan-progress-report>) | A yea directed Civic Administration to implement specific Climate Emergency Action Plan actions, including developing a Net-Zero Emission Plan for corporate assets and aligning City infrastructure renewal work with the 2045 net-zero corporate targets. | 11-2 | Motion Passed (11 to 2) |
 
-</div>
 
 ---
 
