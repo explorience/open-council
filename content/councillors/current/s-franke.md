@@ -2,7 +2,7 @@
 title: "Skylar Franke"
 type: councillor
 slug: "s-franke"
-meetingCount: 209
+meetingCount: 225
 yearsActive: "2022 - 2026"
 isCurrent: true
 totalVotes: 4097
@@ -210,10 +210,11 @@ Voted **Yea** - Motion Failed (5 to 8)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [Planning and Environment Committee](/committees/planning-environment)
+- [Budget Committee](/committees/budget)
 - [Civic Works Committee](/committees/civic-works)
 - [Corporate Services Committee](/committees/corporate-services)
 
-## Recent Meetings (209 total)
+## Recent Meetings (225 total)
 
 - [12th Meeting of Council](</months/2026-07/2026-07-21 12th Meeting of Council>) - Tue Jul 21 2026
 - [12th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-07/2026-07-15 12th Meeting of the Infrastructure and Corporate Services Committee>) - Wed Jul 15 2026

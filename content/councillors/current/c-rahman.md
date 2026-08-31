@@ -2,7 +2,7 @@
 title: "Corrine Rahman"
 type: councillor
 slug: "c-rahman"
-meetingCount: 251
+meetingCount: 270
 yearsActive: "2022 - 2026"
 isCurrent: true
 totalVotes: 3755
@@ -218,7 +218,7 @@ Voted **Nay** - Motion Passed (9 to 4)
 - [Civic Works Committee](/committees/civic-works)
 - [Community Protective Services Committee](/committees/community-protective-services-committee)
 
-## Recent Meetings (251 total)
+## Recent Meetings (270 total)
 
 - [12th Meeting of the Community and Protective Services Committee](</months/2026-08/2026-08-10 12th Meeting of the Community and Protective Services Committee>) - Mon Aug 10 2026
 - [12th Meeting of Council](</months/2026-07/2026-07-21 12th Meeting of Council>) - Tue Jul 21 2026
