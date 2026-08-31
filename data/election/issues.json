@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T14:07:39.025Z",
+  "generatedAt": "2026-08-31T15:20:54.489Z",
   "sourceHash": "b7db59b827637e80",
   "sourceGeneratedAt": "2026-08-26T14:06:06.044Z",
   "cutoffDate": "2023-01-01",
@@ -12056,7 +12056,7 @@
     "budget": {
       "label": "Taxes & Budget",
       "dividedVoteCount": 114,
-      "directionBearingVoteCount": 94,
+      "directionBearingVoteCount": 77,
       "distinctAgendaItemCount": 76,
       "votes": [
         {
@@ -12535,12 +12535,12 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "business-case",
+            "axis": "levy-size",
             "valence": -1,
             "label": "Excluded Business Case #P-12 (Resident Satisfaction Survey Frequency) from the Mayor's Tabled 2026 Annual Budget.",
             "axisLabels": {
-              "expansive": "included a business case in the budget",
-              "restrictive": "excluded a business case from the budget"
+              "expansive": "increased the tax levy or a budget item",
+              "restrictive": "reduced the tax levy or a budget item"
             }
           },
           "positions": {
@@ -12737,12 +12737,12 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "business-case",
-            "valence": 1,
+            "axis": "levy-size",
+            "valence": -1,
             "label": "Included Business Case #P-25 (Stop Collecting Blue Box Materials from Non-Eligible Sources), a net savings item, in the Mayor's Tabled 2026 Annual Update Budget.",
             "axisLabels": {
-              "expansive": "included a business case in the budget",
-              "restrictive": "excluded a business case from the budget"
+              "expansive": "increased the tax levy or a budget item",
+              "restrictive": "reduced the tax levy or a budget item"
             }
           },
           "positions": {
@@ -12839,13 +12839,8 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "business-case",
-            "valence": 1,
-            "label": "Directed Civic Administration to include a budget business case to increase the School Crossing Guard Program by $200,000 a year and identify a funding source.",
-            "axisLabels": {
-              "expansive": "included a business case in the budget",
-              "restrictive": "excluded a business case from the budget"
-            }
+            "axis": null,
+            "label": "Directed Civic Administration to include a budget business case to increase the School Crossing Guard Program by $200,000 a year and identify a funding source."
           },
           "positions": {
             "p-cuddy": "yea",
@@ -13034,13 +13029,8 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "business-case",
-            "valence": -1,
-            "label": "Excluded the 'Reduced Summer Sidewalk Maintenance' business case from the 2026 Budget Update.",
-            "axisLabels": {
-              "expansive": "included a business case in the budget",
-              "restrictive": "excluded a business case from the budget"
-            }
+            "axis": null,
+            "label": "Excluded the 'Reduced Summer Sidewalk Maintenance' business case from the 2026 Budget Update."
           },
           "positions": {
             "h-mcalister": "yea",
@@ -13085,13 +13075,8 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "business-case",
-            "valence": -1,
-            "label": "Would have excluded three 2026 budget business cases from the update: reduced road-network-improvement planning, ending the multi-residential green bin cart pilot, and stopping blue-box collection from non-eligible sources.",
-            "axisLabels": {
-              "expansive": "included a business case in the budget",
-              "restrictive": "excluded a business case from the budget"
-            }
+            "axis": null,
+            "label": "Would have excluded three 2026 budget business cases from the update: reduced road-network-improvement planning, ending the multi-residential green bin cart pilot, and stopping blue-box collection from non-eligible sources."
           },
           "positions": {
             "h-mcalister": "yea",
@@ -13185,13 +13170,8 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "business-case",
-            "valence": -1,
-            "label": "Would have excluded the Capital Financing 'Climate Change Reserve Fund Contribution' business case (Appendix C, Ref #5) from the 2026 Budget Update.",
-            "axisLabels": {
-              "expansive": "included a business case in the budget",
-              "restrictive": "excluded a business case from the budget"
-            }
+            "axis": null,
+            "label": "Would have excluded the Capital Financing 'Climate Change Reserve Fund Contribution' business case (Appendix C, Ref #5) from the 2026 Budget Update."
           },
           "positions": {
             "h-mcalister": "yea",
@@ -13236,13 +13216,8 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "business-case",
-            "valence": -1,
-            "label": "Excluded the Parks & Horticulture 'Maintenance of Local Road Traffic Circles, Gateway Features and Cul-de-sac Islands' business case (Appendix C, Ref #4) from the 2026 Budget Update.",
-            "axisLabels": {
-              "expansive": "included a business case in the budget",
-              "restrictive": "excluded a business case from the budget"
-            }
+            "axis": null,
+            "label": "Excluded the Parks & Horticulture 'Maintenance of Local Road Traffic Circles, Gateway Features and Cul-de-sac Islands' business case (Appendix C, Ref #4) from the 2026 Budget Update."
           },
           "positions": {
             "h-mcalister": "yea",
@@ -13287,13 +13262,8 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "business-case",
-            "valence": -1,
-            "label": "Excluded the Recycling & Composting 'Stop Collecting Blue Box Materials from Non-eligible Sources (NES)' business case (Appendix C, Ref #3) from the 2026 Budget Update.",
-            "axisLabels": {
-              "expansive": "included a business case in the budget",
-              "restrictive": "excluded a business case from the budget"
-            }
+            "axis": null,
+            "label": "Excluded the Recycling & Composting 'Stop Collecting Blue Box Materials from Non-eligible Sources (NES)' business case (Appendix C, Ref #3) from the 2026 Budget Update."
           },
           "positions": {
             "h-mcalister": "yea",
@@ -13338,13 +13308,8 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "business-case",
-            "valence": -1,
-            "label": "Excluded the Recycling & Composting 'Stop Multi-Residential Green Bin Cart Pilot Project and Future Expansion' business case (Appendix C, Ref #2) from the 2026 Budget Update.",
-            "axisLabels": {
-              "expansive": "included a business case in the budget",
-              "restrictive": "excluded a business case from the budget"
-            }
+            "axis": null,
+            "label": "Excluded the Recycling & Composting 'Stop Multi-Residential Green Bin Cart Pilot Project and Future Expansion' business case (Appendix C, Ref #2) from the 2026 Budget Update."
           },
           "positions": {
             "h-mcalister": "yea",
@@ -13389,13 +13354,8 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "business-case",
-            "valence": -1,
-            "label": "Would have excluded the Traffic Control & Street Lighting 'Eliminate Full Funding of New Streetlight Installations' business case (Appendix C, Ref #1) from the 2026 Budget Update.",
-            "axisLabels": {
-              "expansive": "included a business case in the budget",
-              "restrictive": "excluded a business case from the budget"
-            }
+            "axis": null,
+            "label": "Would have excluded the Traffic Control & Street Lighting 'Eliminate Full Funding of New Streetlight Installations' business case (Appendix C, Ref #1) from the 2026 Budget Update."
           },
           "positions": {
             "h-mcalister": "yea",
@@ -13440,13 +13400,8 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "business-case",
-            "valence": -1,
-            "label": "Would have excluded the Information Technology 'Digital Transformation' business case (Appendix B, Ref #8) from the 2026 Budget Update.",
-            "axisLabels": {
-              "expansive": "included a business case in the budget",
-              "restrictive": "excluded a business case from the budget"
-            }
+            "axis": null,
+            "label": "Would have excluded the Information Technology 'Digital Transformation' business case (Appendix B, Ref #8) from the 2026 Budget Update."
           },
           "positions": {
             "j-pribil": "yea",
@@ -13491,13 +13446,8 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "business-case",
-            "valence": -1,
-            "label": "Would have excluded the Human Resources 'Internships' business case (Appendix B, Ref #7) from the 2026 Budget Update.",
-            "axisLabels": {
-              "expansive": "included a business case in the budget",
-              "restrictive": "excluded a business case from the budget"
-            }
+            "axis": null,
+            "label": "Would have excluded the Human Resources 'Internships' business case (Appendix B, Ref #7) from the 2026 Budget Update."
           },
           "positions": {
             "s-franke": "yea",
@@ -13542,13 +13492,8 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "business-case",
-            "valence": -1,
-            "label": "Would have excluded the Corporate Management 'Resident Satisfaction Survey' business case (Appendix B, Ref #6) from the 2026 Budget Update.",
-            "axisLabels": {
-              "expansive": "included a business case in the budget",
-              "restrictive": "excluded a business case from the budget"
-            }
+            "axis": null,
+            "label": "Would have excluded the Corporate Management 'Resident Satisfaction Survey' business case (Appendix B, Ref #6) from the 2026 Budget Update."
           },
           "positions": {
             "p-cuddy": "yea",
@@ -13593,13 +13538,8 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "business-case",
-            "valence": -1,
-            "label": "Excluded the Aquatics 'Closure of 5 Wading Pools' business case (Appendix B, Ref #5) from the 2026 Budget Update.",
-            "axisLabels": {
-              "expansive": "included a business case in the budget",
-              "restrictive": "excluded a business case from the budget"
-            }
+            "axis": null,
+            "label": "Excluded the Aquatics 'Closure of 5 Wading Pools' business case (Appendix B, Ref #5) from the 2026 Budget Update."
           },
           "positions": {
             "j-morgan": "yea",
@@ -13644,13 +13584,8 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "business-case",
-            "valence": -1,
-            "label": "Would have excluded the Urban Forestry 'Tree Planting Grants & Non-replacement Tree Planting' business case (Appendix B, Ref #4) from the 2026 Budget Update.",
-            "axisLabels": {
-              "expansive": "included a business case in the budget",
-              "restrictive": "excluded a business case from the budget"
-            }
+            "axis": null,
+            "label": "Would have excluded the Urban Forestry 'Tree Planting Grants & Non-replacement Tree Planting' business case (Appendix B, Ref #4) from the 2026 Budget Update."
           },
           "positions": {
             "p-cuddy": "yea",
@@ -13695,13 +13630,8 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "business-case",
-            "valence": -1,
-            "label": "Excluded the Urban Forestry 'Reduction in Pathway and Trail Edge Brush Mulching' business case (Appendix B, Ref #3) from the 2026 Budget Update.",
-            "axisLabels": {
-              "expansive": "included a business case in the budget",
-              "restrictive": "excluded a business case from the budget"
-            }
+            "axis": null,
+            "label": "Excluded the Urban Forestry 'Reduction in Pathway and Trail Edge Brush Mulching' business case (Appendix B, Ref #3) from the 2026 Budget Update."
           },
           "positions": {
             "h-mcalister": "yea",
@@ -13746,13 +13676,8 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "business-case",
-            "valence": -1,
-            "label": "Excluded the 'Reduced Road Network Improvements' business case (Appendix B, Ref #2) from the 2026 Budget Update.",
-            "axisLabels": {
-              "expansive": "included a business case in the budget",
-              "restrictive": "excluded a business case from the budget"
-            }
+            "axis": null,
+            "label": "Excluded the 'Reduced Road Network Improvements' business case (Appendix B, Ref #2) from the 2026 Budget Update."
           },
           "positions": {
             "h-mcalister": "yea",
@@ -13797,13 +13722,8 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "business-case",
-            "valence": -1,
-            "label": "Excluded the 'Reduced Summer Sidewalk Maintenance' business case (Appendix B, Ref #1) from the 2026 Budget Update.",
-            "axisLabels": {
-              "expansive": "included a business case in the budget",
-              "restrictive": "excluded a business case from the budget"
-            }
+            "axis": null,
+            "label": "Excluded the 'Reduced Summer Sidewalk Maintenance' business case (Appendix B, Ref #1) from the 2026 Budget Update."
           },
           "positions": {
             "h-mcalister": "yea",
@@ -13848,13 +13768,8 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "business-case",
-            "valence": 1,
-            "label": "Directed Civic Administration to proceed with implementing the Appendix A user-fee revenue-generation changes and bring forward the corresponding business case for inclusion in the 2026 Budget Update.",
-            "axisLabels": {
-              "expansive": "included a business case in the budget",
-              "restrictive": "excluded a business case from the budget"
-            }
+            "axis": null,
+            "label": "Directed Civic Administration to proceed with implementing the Appendix A user-fee revenue-generation changes and bring forward the corresponding business case for inclusion in the 2026 Budget Update."
           },
           "positions": {
             "j-morgan": "yea",
@@ -17782,7 +17697,7 @@
     "climate": {
       "label": "Climate & Green Space",
       "dividedVoteCount": 35,
-      "directionBearingVoteCount": 15,
+      "directionBearingVoteCount": 14,
       "distinctAgendaItemCount": 28,
       "votes": [
         {
@@ -19074,13 +18989,8 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "target-strength",
-            "valence": -1,
-            "label": "Reduced funding to the Climate Change Invest Fund under the Climate Emergency Action Plan (Business Case #P-56) to a flat $1 million annual contribution, using the savings to offset transit service-hours funding.",
-            "axisLabels": {
-              "expansive": "strengthened a climate or environmental target",
-              "restrictive": "weakened a climate or environmental target"
-            }
+            "axis": null,
+            "label": "Reduced funding to the Climate Change Invest Fund under the Climate Emergency Action Plan (Business Case #P-56) to a flat $1 million annual contribution, using the savings to offset transit service-hours funding."
           },
           "positions": {
             "j-morgan": "yea",
@@ -19437,7 +19347,7 @@
     "housing": {
       "label": "Housing & Density",
       "dividedVoteCount": 229,
-      "directionBearingVoteCount": 134,
+      "directionBearingVoteCount": 130,
       "distinctAgendaItemCount": 160,
       "votes": [
         {
@@ -19955,13 +19865,8 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "affordable-funding",
-            "valence": 1,
-            "label": "Directed Civic Administration to submit an application to the federal Build Canada Homes program to secure capital funding for new affordable housing in London and Middlesex County.",
-            "axisLabels": {
-              "expansive": "approved funding or land for affordable housing",
-              "restrictive": "denied funding or land for affordable housing"
-            }
+            "axis": null,
+            "label": "Directed Civic Administration to submit an application to the federal Build Canada Homes program to secure capital funding for new affordable housing in London and Middlesex County."
           },
           "positions": {
             "j-morgan": "yea",
@@ -25535,13 +25440,8 @@
           "anchorAmbiguous": true,
           "matchedKeywords": [],
           "direction": {
-            "axis": "application-approval",
-            "valence": 1,
-            "label": "Requested the Province support a further Urban Growth Boundary expansion of approximately 2,000 hectares of developable land to accelerate London's housing supply, and directed staff to develop an alternate 2,000-hectare growth scenario if that support is received.",
-            "axisLabels": {
-              "expansive": "approved the development, rezoning, or housing-policy item",
-              "restrictive": "denied the development, rezoning, or housing-policy item"
-            }
+            "axis": null,
+            "label": "Requested the Province support a further Urban Growth Boundary expansion of approximately 2,000 hectares of developable land to accelerate London's housing supply, and directed staff to develop an alternate 2,000-hectare growth scenario if that support is received."
           },
           "positions": {
             "j-morgan": "yea",
@@ -25964,13 +25864,8 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "application-approval",
-            "valence": 1,
-            "label": "Approved requesting the Province support a roughly 2,000-hectare Urban Growth Boundary expansion to increase developable land for new housing supply, and directed staff to develop a backup 2,000-hectare land-supply scenario in case the Province declines.",
-            "axisLabels": {
-              "expansive": "approved the development, rezoning, or housing-policy item",
-              "restrictive": "denied the development, rezoning, or housing-policy item"
-            }
+            "axis": null,
+            "label": "Approved requesting the Province support a roughly 2,000-hectare Urban Growth Boundary expansion to increase developable land for new housing supply, and directed staff to develop a backup 2,000-hectare land-supply scenario in case the Province declines."
           },
           "positions": {
             "j-morgan": "yea",
@@ -29190,13 +29085,8 @@
             "wrapper_preamble"
           ],
           "direction": {
-            "axis": "affordable-funding",
-            "valence": 1,
-            "label": "Approved advising the Government of Ontario that London City Council supports a provincial motion to establish and fund Homes Ontario to finance and build 250,000 new affordable and non-market homes on public land over ten years.",
-            "axisLabels": {
-              "expansive": "approved funding or land for affordable housing",
-              "restrictive": "denied funding or land for affordable housing"
-            }
+            "axis": null,
+            "label": "Approved advising the Government of Ontario that London City Council supports a provincial motion to establish and fund Homes Ontario to finance and build 250,000 new affordable and non-market homes on public land over ten years."
           },
           "positions": {
             "j-morgan": "yea",

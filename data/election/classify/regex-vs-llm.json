@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-31T14:07:39.021Z",
+  "generatedAt": "2026-08-31T15:20:54.481Z",
   "note": "Cross-check report only — the regex engine in issue-rules.ts/direction-rules.ts is NOT the source of any published claim as of the 2026-08-31 rebuild; every published issue/axis/polarity/whatAYeaDid comes from data/election/classify/batch-*-verified.json. This file records every motion in the divided universe where the regex engine's independent read (issue classification and/or direction) disagrees with the verified classification, for ongoing regex-quality monitoring.",
   "totalCompared": 1089,
-  "disagreementCount": 446,
+  "disagreementCount": 464,
   "disagreements": [
     {
       "motionId": "c7bf822cb0ae",
@@ -162,8 +162,8 @@
       },
       "llm": {
         "issue": "housing",
-        "axis": "affordable-funding",
-        "polarity": "expansive"
+        "axis": null,
+        "polarity": null
       }
     },
     {
@@ -1656,8 +1656,8 @@
       },
       "llm": {
         "issue": "budget",
-        "axis": "business-case",
-        "polarity": "expansive"
+        "axis": "levy-size",
+        "polarity": "restrictive"
       }
     },
     {
@@ -1748,6 +1748,24 @@
         "issue": "transit",
         "axis": "service-expansion",
         "polarity": "expansive"
+      }
+    },
+    {
+      "motionId": "f7c197957c99",
+      "date": "2025-11-20",
+      "meetingSlug": "months/2025-11/2025-11-20 6th Meeting of the Budget Committee",
+      "itemNumber": "4.6",
+      "itemTitle": "(ADDED) Amendment - Budget Case #P-12 - Councillor S. Stevenson",
+      "kind": "axis",
+      "regex": {
+        "issue": "budget",
+        "axis": "business-case",
+        "valence": -1
+      },
+      "llm": {
+        "issue": "budget",
+        "axis": "levy-size",
+        "polarity": "restrictive"
       }
     },
     {
@@ -2507,6 +2525,24 @@
       }
     },
     {
+      "motionId": "01d52536f471",
+      "date": "2025-07-22",
+      "meetingSlug": "months/2025-07/2025-07-22 12th Council Meeting",
+      "itemNumber": "8.2.14",
+      "itemTitle": "(5.1) Request to Review the School Crossing Guard Program",
+      "kind": "axis",
+      "regex": {
+        "issue": "budget",
+        "axis": "business-case",
+        "valence": 1
+      },
+      "llm": {
+        "issue": "budget",
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
       "motionId": "f42a5b460702",
       "date": "2025-07-22",
       "meetingSlug": "months/2025-07/2025-07-22 12th Council Meeting",
@@ -2849,6 +2885,42 @@
       }
     },
     {
+      "motionId": "69288d65e04c",
+      "date": "2025-06-03",
+      "meetingSlug": "months/2025-06/2025-06-03 9th Council Meeting",
+      "itemNumber": "8.5.4",
+      "itemTitle": "(4.1) 2026 Annual Budget Update - Status Update",
+      "kind": "axis",
+      "regex": {
+        "issue": "budget",
+        "axis": "business-case",
+        "valence": -1
+      },
+      "llm": {
+        "issue": "budget",
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "5581ea6993ac",
+      "date": "2025-06-03",
+      "meetingSlug": "months/2025-06/2025-06-03 9th Council Meeting",
+      "itemNumber": "8.5.4",
+      "itemTitle": "(4.1) 2026 Annual Budget Update - Status Update",
+      "kind": "axis",
+      "regex": {
+        "issue": "budget",
+        "axis": "business-case",
+        "valence": -1
+      },
+      "llm": {
+        "issue": "budget",
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
       "motionId": "c26d84460dc4",
       "date": "2025-05-26",
       "meetingSlug": "months/2025-05/2025-05-26 10th Meeting of the Infrastructure and Corporate Services Committee",
@@ -2880,8 +2952,152 @@
       },
       "llm": {
         "issue": "budget",
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "e11dd21254b2",
+      "date": "2025-05-22",
+      "meetingSlug": "months/2025-05/2025-05-22 2nd Meeting of the Budget Committee",
+      "itemNumber": "4.1",
+      "itemTitle": "2026 Annual Budget Update - Status Update",
+      "kind": "axis",
+      "regex": {
+        "issue": "budget",
         "axis": "business-case",
-        "polarity": "expansive"
+        "valence": -1
+      },
+      "llm": {
+        "issue": "budget",
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "d167a282544f",
+      "date": "2025-05-22",
+      "meetingSlug": "months/2025-05/2025-05-22 2nd Meeting of the Budget Committee",
+      "itemNumber": "4.1",
+      "itemTitle": "2026 Annual Budget Update - Status Update",
+      "kind": "axis",
+      "regex": {
+        "issue": "budget",
+        "axis": "business-case",
+        "valence": -1
+      },
+      "llm": {
+        "issue": "budget",
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "3dd05e479854",
+      "date": "2025-05-22",
+      "meetingSlug": "months/2025-05/2025-05-22 2nd Meeting of the Budget Committee",
+      "itemNumber": "4.1",
+      "itemTitle": "2026 Annual Budget Update - Status Update",
+      "kind": "axis",
+      "regex": {
+        "issue": "budget",
+        "axis": "business-case",
+        "valence": -1
+      },
+      "llm": {
+        "issue": "budget",
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "1c8075648323",
+      "date": "2025-05-22",
+      "meetingSlug": "months/2025-05/2025-05-22 2nd Meeting of the Budget Committee",
+      "itemNumber": "4.1",
+      "itemTitle": "2026 Annual Budget Update - Status Update",
+      "kind": "axis",
+      "regex": {
+        "issue": "budget",
+        "axis": "business-case",
+        "valence": -1
+      },
+      "llm": {
+        "issue": "budget",
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "ba9608551c5e",
+      "date": "2025-05-22",
+      "meetingSlug": "months/2025-05/2025-05-22 2nd Meeting of the Budget Committee",
+      "itemNumber": "4.1",
+      "itemTitle": "2026 Annual Budget Update - Status Update",
+      "kind": "axis",
+      "regex": {
+        "issue": "budget",
+        "axis": "business-case",
+        "valence": -1
+      },
+      "llm": {
+        "issue": "budget",
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "294f2da7a27e",
+      "date": "2025-05-22",
+      "meetingSlug": "months/2025-05/2025-05-22 2nd Meeting of the Budget Committee",
+      "itemNumber": "4.1",
+      "itemTitle": "2026 Annual Budget Update - Status Update",
+      "kind": "axis",
+      "regex": {
+        "issue": "budget",
+        "axis": "business-case",
+        "valence": -1
+      },
+      "llm": {
+        "issue": "budget",
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "e7b1e2dca5dc",
+      "date": "2025-05-22",
+      "meetingSlug": "months/2025-05/2025-05-22 2nd Meeting of the Budget Committee",
+      "itemNumber": "4.1",
+      "itemTitle": "2026 Annual Budget Update - Status Update",
+      "kind": "axis",
+      "regex": {
+        "issue": "budget",
+        "axis": "business-case",
+        "valence": -1
+      },
+      "llm": {
+        "issue": "budget",
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "17e2790f8249",
+      "date": "2025-05-22",
+      "meetingSlug": "months/2025-05/2025-05-22 2nd Meeting of the Budget Committee",
+      "itemNumber": "4.1",
+      "itemTitle": "2026 Annual Budget Update - Status Update",
+      "kind": "axis",
+      "regex": {
+        "issue": "budget",
+        "axis": "business-case",
+        "valence": -1
+      },
+      "llm": {
+        "issue": "budget",
+        "axis": null,
+        "polarity": null
       }
     },
     {
@@ -2898,8 +3114,80 @@
       },
       "llm": {
         "issue": "budget",
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "7b22159ad688",
+      "date": "2025-05-22",
+      "meetingSlug": "months/2025-05/2025-05-22 2nd Meeting of the Budget Committee",
+      "itemNumber": "4.1",
+      "itemTitle": "2026 Annual Budget Update - Status Update",
+      "kind": "axis",
+      "regex": {
+        "issue": "budget",
         "axis": "business-case",
-        "polarity": "restrictive"
+        "valence": -1
+      },
+      "llm": {
+        "issue": "budget",
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "48bb3106304c",
+      "date": "2025-05-22",
+      "meetingSlug": "months/2025-05/2025-05-22 2nd Meeting of the Budget Committee",
+      "itemNumber": "4.1",
+      "itemTitle": "2026 Annual Budget Update - Status Update",
+      "kind": "axis",
+      "regex": {
+        "issue": "budget",
+        "axis": "business-case",
+        "valence": -1
+      },
+      "llm": {
+        "issue": "budget",
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "0689312f36aa",
+      "date": "2025-05-22",
+      "meetingSlug": "months/2025-05/2025-05-22 2nd Meeting of the Budget Committee",
+      "itemNumber": "4.1",
+      "itemTitle": "2026 Annual Budget Update - Status Update",
+      "kind": "axis",
+      "regex": {
+        "issue": "budget",
+        "axis": "business-case",
+        "valence": -1
+      },
+      "llm": {
+        "issue": "budget",
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "57b785c0afb3",
+      "date": "2025-05-22",
+      "meetingSlug": "months/2025-05/2025-05-22 2nd Meeting of the Budget Committee",
+      "itemNumber": "4.1",
+      "itemTitle": "2026 Annual Budget Update - Status Update",
+      "kind": "axis",
+      "regex": {
+        "issue": "budget",
+        "axis": "business-case",
+        "valence": -1
+      },
+      "llm": {
+        "issue": "budget",
+        "axis": null,
+        "polarity": null
       }
     },
     {
@@ -3893,6 +4181,24 @@
       }
     },
     {
+      "motionId": "f256055d95cb",
+      "date": "2024-12-17",
+      "meetingSlug": "months/2024-12/2024-12-17 1st Meeting of City Council",
+      "itemNumber": "8.1.22",
+      "itemTitle": "(3.14) Land Needs Assessment - Official Plan Review of The London Plan (O-9595)",
+      "kind": "axis",
+      "regex": {
+        "issue": "housing",
+        "axis": "application-approval",
+        "valence": 1
+      },
+      "llm": {
+        "issue": "housing",
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
       "motionId": "09480fbcf3ce",
       "date": "2024-12-17",
       "meetingSlug": "months/2024-12/2024-12-17 1st Meeting of City Council",
@@ -3906,6 +4212,24 @@
       },
       "llm": {
         "issue": null,
+        "axis": null,
+        "polarity": null
+      }
+    },
+    {
+      "motionId": "171d5c892bfb",
+      "date": "2024-12-03",
+      "meetingSlug": "months/2024-12/2024-12-03 1st Meeting of the Planning and Environment Committee",
+      "itemNumber": "3.14",
+      "itemTitle": "Land Needs Assessment - Official Plan Review of The London Plan (O-9595)",
+      "kind": "axis",
+      "regex": {
+        "issue": "housing",
+        "axis": "application-approval",
+        "valence": 1
+      },
+      "llm": {
+        "issue": "housing",
         "axis": null,
         "polarity": null
       }
@@ -6570,8 +6894,8 @@
       },
       "llm": {
         "issue": "climate",
-        "axis": "target-strength",
-        "polarity": "restrictive"
+        "axis": null,
+        "polarity": null
       }
     },
     {
@@ -7434,8 +7758,8 @@
       },
       "llm": {
         "issue": "housing",
-        "axis": "affordable-funding",
-        "polarity": "expansive"
+        "axis": null,
+        "polarity": null
       }
     },
     {

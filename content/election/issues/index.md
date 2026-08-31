@@ -13,11 +13,11 @@ Council doesn't split on most of what it votes on — most motions pass unanimou
 
 | Issue | Divided votes | With a clear direction |
 |-------|:---:|:---:|
-| [Housing & Density](/election/issues/housing) | 229 | 134 |
+| [Housing & Density](/election/issues/housing) | 229 | 130 |
 | [Homelessness & Encampments](/election/issues/encampments) | 131 | 56 |
-| [Taxes & Budget](/election/issues/budget) | 114 | 94 |
+| [Taxes & Budget](/election/issues/budget) | 114 | 77 |
 | [Transit & Roads](/election/issues/transit) | 61 | 38 |
-| [Climate & Green Space](/election/issues/climate) | 35 | 15 |
+| [Climate & Green Space](/election/issues/climate) | 35 | 14 |
 | [Downtown & Core](/election/issues/downtown) | 24 | 15 |
 | [Bike Lanes / Cycling](/election/issues/bikes) | 18 | 13 |
 | [Policing](/election/issues/policing) | 14 | 6 |
