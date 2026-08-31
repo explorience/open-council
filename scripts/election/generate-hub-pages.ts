@@ -132,6 +132,7 @@ interface IssueStance {
   divisionsInCorpus: number;
   notOnRoster: number;
   notOnRosterCommittee: number;
+  notOnRosterCommitteeMeetingGap: number;
   notOnRosterCouncilGap: number;
   overall: {
     sampleSize: number;
@@ -143,6 +144,8 @@ interface IssueStance {
     other: number;
   };
   axes: AxisStance[];
+  unclearCount: number;
+  unclearEvidence: EvidenceRow[];
 }
 
 interface CouncillorStance {
@@ -235,15 +238,23 @@ const VOTE_LABEL: Record<string, string> = {
   other: "Other",
 };
 
-// Reworded 2026-08-31 (round-2 finding B4): "every row links to the real
-// motion" overstated what the link actually does for a meaningful minority
-// of rows — where a motion's heading is shared with another, different
-// motion (anchors.ts can't build a heading-level anchor that would point to
-// only one of them), the row is marked anchorAmbiguous and links to the
-// meeting page as a whole instead, disclosed inline right on that row (see
-// motionLink below). The disclaimer now describes both cases honestly
-// instead of promising precision every row doesn't have.
-const STANDING_DISCLAIMER = `> **This is a descriptive record, not an endorsement.** Every pattern below is built from real recorded votes since 2023, translated from raw yea/nay into what the vote actually did (see [What Council Actually Controls](/election/what-council-controls) for how much of this any of them controls). It says nothing about a councillor's reasons, character, or fitness for office — only how they voted. Votes with no clear direction ("unclear") are excluded from the pattern counts but stay linked below for transparency. Every row links to its source: most link straight to that specific motion's own heading; where a heading is shared with another motion and can't be told apart, the row says so and links to the meeting page it's part of instead.`;
+// Reworded 2026-08-31 (round-2 finding B4, then round-3 gate BLOCKER): two
+// separate overclaims fixed here.
+//  1. "most link straight to that specific motion's own heading" was false
+//     on its own terms — anchors.ts's own module doc says multiple motion
+//     parts (a, b, c...) under one agenda item NORMALLY share one heading,
+//     which is the source page's own structure, not an edge case. A shared
+//     heading is the common case, not something "most" rows avoid; the old
+//     wording also conflated that (harmless, expected) sharing with
+//     anchorAmbiguous (a genuine collision between two DIFFERENT headings,
+//     where no fragment can be built at all — see anchors.ts). Reworded to
+//     describe what a link actually resolves to in each case, instead of
+//     promising motion-level precision most rows don't have and don't need.
+//  2. "stay linked below for transparency" is now true — unclear-direction
+//     motions render in their own grouped, clearly labeled section on every
+//     issue a councillor has one for (see renderUnclearSection below); they
+//     used to be filtered out entirely despite this exact promise.
+const STANDING_DISCLAIMER = `> **This is a descriptive record, not an endorsement.** Every pattern below is built from real recorded votes since 2023, translated from raw yea/nay into what the vote actually did (see [What Council Actually Controls](/election/what-council-controls) for how much of this any of them controls). It says nothing about a councillor's reasons, character, or fitness for office — only how they voted. Votes with no clear direction ("unclear") are excluded from the pattern counts but listed in their own section below for transparency. Every row links to its source: to the heading for the specific agenda item the motion belongs to (several motion parts under one item normally share that one heading — that's how the source pages are laid out, not an error), or, where an item number is reused for two genuinely different, unrelated motions with no way to tell them apart, to the meeting page as a whole instead (the row says so when that happens).`;
 
 // ---------------------------------------------------------------------------
 // Load data
@@ -305,7 +316,7 @@ Zoning and the budget, yes. Policing and healthcare, mostly not. [Read the plain
 
 ## Divided votes by issue
 
-These are the issues where council has actually split since 2023 — where a vote wasn't unanimous, and wasn't purely procedural. ${issues.unclassified.count.toLocaleString()} additional divided motions since 2023 matched none of these issue clusters and are not force-fit into one; all of them are listed on the [issues page](/election/issues).
+These are the issues where council has actually split since 2023 — where a vote wasn't unanimous, and wasn't purely procedural. ${issues.unclassified.count.toLocaleString()} additional divided motions since 2023 were independently classified as not fitting any of these tracked issue clusters, and are not force-fit into one; all of them are listed on the [issues page](/election/issues).
 
 ${issueRows}
 
@@ -385,13 +396,10 @@ ${axis.pattern}
 <details class="eh-evidence">
 <summary>${summaryText}</summary>
 
-<div class="eh-table-scroll">
-
 | Date | Item | Motion (excerpt) | What a yea did | Their vote | Their vote moved toward | Result |
 |------|------|-------------------|-----------------|------------|--------------------------|--------|
 ${evidenceRows}
 
-</div>
 
 </details>
 `;
@@ -405,6 +413,42 @@ ${evidenceRows}
 const BUDGET_CAVEAT =
   "\n\n> Budget votes since 2024 are votes on **amendments** to the Mayor's tabled budget under Ontario's strong-mayor powers, not on an independently council-drafted budget — see [what that changes about what a budget vote means](/election/what-council-controls#who-tables-the-budget).";
 
+/** Grouped, clearly-labeled render of the unclear-direction motions this
+ * councillor voted/recused/was-absent on for one issue — added 2026-08-31
+ * (hub-recheck round-3 gate BLOCKER) so the standing disclaimer's promise
+ * that these "stay linked below for transparency" is actually true. Never
+ * counted in any pattern or sample-size figure above it; a plain list, not
+ * styled as evidence for a claim, because there is no claim here — these
+ * are exactly the motions the classify pipeline could NOT support a
+ * direction for. */
+function renderUnclearSection(issue: IssueStance): string {
+  if (issue.unclearEvidence.length === 0) return "";
+  const rows = issue.unclearEvidence
+    .map((ev) => {
+      const itemLink = motionLink(
+        ev.itemTitle || "(untitled item)",
+        ev.anchor,
+        ev.meetingSlug,
+        ev.anchorAmbiguous,
+      );
+      const theirVote = VOTE_LABEL[ev.theirVote] ?? ev.theirVote;
+      return `| ${ev.date} | ${itemLink} | ${tcell(ev.motionSnippet)} | ${theirVote} | ${tcell(ev.result)} |`;
+    })
+    .join("\n");
+
+  return `
+<details class="eh-evidence">
+<summary>${issue.unclearEvidence.length} motion${issue.unclearEvidence.length === 1 ? "" : "s"} with no clear direction on this issue (excluded from the pattern counts above; shown for transparency, not as evidence of a position)</summary>
+
+| Date | Item | Motion (excerpt) | Their vote | Result |
+|------|------|-------------------|------------|--------|
+${rows}
+
+
+</details>
+`;
+}
+
 function renderIssueSection(issueSlug: string, issue: IssueStance): string {
   const o = issue.overall;
   const axesMd = issue.axes.map(renderAxisSection).join("\n");
@@ -416,21 +460,30 @@ function renderIssueSection(issueSlug: string, issue: IssueStance): string {
   // someone from every vote-kind bucket is a gap in the scraped record, not
   // a non-membership fact (spot-check: c699eb9cc94f, a City Council motion,
   // is one of several where the old single wording was flatly false).
-  // Fixed 2026-08-31 (round-2 finding S2): "1 was committee votes" was both
-  // ungrammatical (hardcoded plural "votes" regardless of count) and, more
-  // to the point, mislabeled — this bucket is agenda items this councillor
-  // did NOT vote on (not a member of that committee, or a data gap), so
-  // calling them "votes" at all overstates what happened. Both clauses now
-  // say "motion(s)" (matching the rest of the hub's own vocabulary for "an
-  // agenda item that came to a vote") and pluralize correctly.
+  // Fixed 2026-08-31 (round-2 finding S2, then MINOR grammar sweep round 3):
+  // "1 was a committee motion this councillor was not a member of that
+  // committee" doesn't parse as English — rewritten as "N was/were committee
+  // motion(s) at a committee/committees this councillor is not a member of",
+  // which reads correctly at both N=1 and N>1.
+  // Fixed 2026-08-31 (hub-recheck round-3 gate BLOCKER, P3): the committee
+  // bucket used to assert non-membership for EVERY motion missing this
+  // councillor, even when they demonstrably voted at that same meeting on
+  // something else (confirmed false on Josh Morgan's PEC motions). Split
+  // into notOnRosterCommittee (genuine: absent from that whole meeting's
+  // roster) and notOnRosterCommitteeMeetingGap (they voted on other items at
+  // that same meeting — this specific motion is a data gap, not evidence of
+  // non-membership).
   const notOnRosterBits: string[] = [];
   if (issue.notOnRosterCommittee > 0) {
-    const word =
-      issue.notOnRosterCommittee === 1
-        ? "a committee motion"
-        : "committee motions";
+    const n = issue.notOnRosterCommittee;
     notOnRosterBits.push(
-      `${issue.notOnRosterCommittee} ${issue.notOnRosterCommittee === 1 ? "was" : "were"} ${word} this councillor was not a member of that committee`,
+      `${n} ${n === 1 ? "was a" : "were"} committee motion${n === 1 ? "" : "s"} at ${n === 1 ? "a committee" : "committees"} this councillor is not a member of`,
+    );
+  }
+  if (issue.notOnRosterCommitteeMeetingGap > 0) {
+    const n = issue.notOnRosterCommitteeMeetingGap;
+    notOnRosterBits.push(
+      `${n} ${n === 1 ? "was a" : "were"} committee motion${n === 1 ? "" : "s"} where this councillor voted on other business at the same meeting, but this specific motion's individual position wasn't captured in the source data (a data gap for this motion, not evidence they weren't on that committee)`,
     );
   }
   if (issue.notOnRosterCouncilGap > 0) {
@@ -452,7 +505,8 @@ function renderIssueSection(issueSlug: string, issue: IssueStance): string {
 
 *Of the ${issue.divisionsInCorpus} divided votes on this issue since 2023 that had a clear direction, this councillor was on the roster for ${onRoster}: ${o.sampleSize} yea or nay, ${o.recused} recused, ${o.absent} absent${o.abstain || o.other ? `, ${o.abstain} abstained, ${o.other} other` : ""}.${notOnRosterClause}*${caveat}
 
-${axesMd}`;
+${axesMd}
+${renderUnclearSection(issue)}`;
 }
 
 function generateCouncillorPage(
@@ -527,7 +581,7 @@ ${sections}
 
 ---
 
-*Sample sizes above count only votes where ${c.displayName} cast a yea or nay that the direction-rules pipeline could classify as "for" or "against" the issue's axis. A recusal means the councillor formally withdrew from discussing and voting on that item — this data does not record why, so no reason is asserted here — and, like an absence, is shown separately in each issue's summary line and never counted as a position.${mismatchNote} Only sitting councillors get a stance profile on this hub; challengers don't yet have a council voting record to summarize.*
+*Sample sizes above count only votes where ${c.displayName} cast a yea or nay on a motion the verified per-motion classification (see [methodology](/election/issues)) could place on a clear "for"/"against" axis. A recusal means the councillor formally withdrew from discussing and voting on that item — this data does not record why, so no reason is asserted here — and, like an absence, is shown separately in each issue's summary line and never counted as a position.${mismatchNote} Only sitting councillors get a stance profile on this hub; challengers don't yet have a council voting record to summarize.*
 `;
 }
 
@@ -610,13 +664,10 @@ ${ISSUE_PAGE_DISCLAIMER}
 
 For how each current councillor voted on these, see their [stance profile](/election#councillor-stance-profiles).
 
-<div class="eh-table-scroll">
-
 | Date | Item | What a yea did | Tally | Result |
 |------|------|-----------------|:---:|--------|
 ${rows}
 
-</div>
 
 ---
 
@@ -650,17 +701,14 @@ prefillQuestions: []
 
 Council doesn't split on most of what it votes on — most motions pass unanimously. These are the issues where it has actually divided since ${issues.cutoffDate}.
 
-<div class="eh-table-scroll">
-
 | Issue | Divided votes | With a clear direction |
 |-------|:---:|:---:|
 ${rows}
 
-</div>
 
 ## Unclassified divided votes
 
-${issues.unclassified.count.toLocaleString()} additional divided motions since ${issues.cutoffDate} matched none of the issue clusters above (or matched an explicit governance/procedure exclusion) and are not force-fit into one. All ${issues.unclassified.sample.length.toLocaleString()} are listed below:
+${issues.unclassified.count.toLocaleString()} additional divided motions since ${issues.cutoffDate} were independently classified as not fitting any of the issue clusters above (or as an explicit governance/procedure exclusion), and are not force-fit into one. All ${issues.unclassified.sample.length.toLocaleString()} are listed below:
 
 ${sampleRows}
 
@@ -812,13 +860,10 @@ ${wardsData.currentTermEndsNote}
 
 ## All 14 wards
 
-<div class="eh-table-scroll">
-
 | Ward | Current representative (2022–2026) | 2026 boundary | 2026 ballot note |
 |:---:|---|:---:|---|
 ${rows}
 
-</div>
 
 ${wardsData.unresolvedNote}
 

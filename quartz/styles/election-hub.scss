@@ -228,7 +228,23 @@
   // yea did" cells 15-20 lines tall at both desktop and mobile widths.
   // Fix: the table sizes to its content (min-width, not width: 100%) and
   // the SCROLL CONTAINER around it is the thing that clips + scrolls.
-  .eh-table-scroll {
+  //
+  // Fixed 2026-08-31 (hub-recheck round-3 gate render note): the generator
+  // used to wrap every markdown table in a hand-written raw
+  // `<div class="eh-table-scroll">` block, but a blank line is required
+  // between that opening tag and the markdown table for the table to parse
+  // at all — and per CommonMark, a blank line also ENDS a raw HTML block.
+  // The div and the table were therefore parsed as SIBLINGS, not
+  // parent/child: `.eh-table-scroll`'s overflow-x:auto never actually
+  // wrapped any table, on any page, ever. The real wrapper in the rendered
+  // DOM is Quartz's own `.table-container` (quartz/util/jsx.tsx wraps every
+  // `<table>` in one automatically; base.scss already gives it
+  // `overflow-x: auto`). Styled here instead — this file only ever needed
+  // to make `.table-container`'s scrolling actually contain the wide
+  // election-hub tables, not invent a second, redundant wrapper. The
+  // generator (scripts/election/generate-hub-pages.ts) no longer emits the
+  // dead div.
+  .table-container {
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
     margin: 1rem 0 1.6rem 0;
@@ -428,4 +444,31 @@
       width: 100%;
     }
   }
+}
+
+// -----------------------------------------------------------------------
+// Grid-blowout fix for wide election-hub tables (hub-recheck round-3 gate
+// render note: issue-page ITEM column overflow)
+// -----------------------------------------------------------------------
+// The site's #quartz-body layout (quartz/styles/base.scss) is a CSS grid
+// whose center column is sized `grid-template-columns: ... auto ...`. A
+// plain `auto` track (not `minmax(0, auto)`) does not shrink below the
+// min-content size of what's inside it — same "blowout" behavior as the
+// classic flexbox min-width:auto gotcha, just for grid. A table wide enough
+// to need horizontal scrolling (long, unwrapped motion titles in the ITEM
+// column) forced the whole `.center` grid item wider than the viewport
+// instead of scrolling inside its own `.table-container` (which DOES have
+// `overflow-x: auto` — see above); since `body` also sets
+// `overflow-x: hidden; max-width: 100vw` (base.scss), the excess was
+// clipped hard at the viewport edge with no scrollbar and no wrap, exactly
+// the round-3 gate's render note.
+//
+// Fixed narrowly, without touching base.scss or any non-election page: an
+// item having `overflow` set on itself (not a descendant) is what resets
+// CSS Grid's automatic-minimum-size algorithm to zero for that item, so the
+// `min-width: 0` has to land on `.center` itself — scoped with `:has()` so
+// it only takes effect when `.center` actually contains an `.election-hub`
+// article, leaving every non-election page's layout untouched.
+.center:has(> article.election-hub) {
+  min-width: 0;
 }
