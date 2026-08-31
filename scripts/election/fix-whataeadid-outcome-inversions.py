@@ -221,7 +221,12 @@ def main():
 
     existing.extend(new_rows)
     with open(CORRECTIONS_PATH, "w", encoding="utf-8") as f:
-        json.dump(existing, f, indent=2, ensure_ascii=False)
+        # ensure_ascii=True (the json module's default) to match this file's
+        # existing \uXXXX-escaped style -- ensure_ascii=False would rewrite
+        # every pre-existing line containing a smart quote or em dash as a
+        # cosmetic, non-semantic diff, and this correction should touch
+        # nothing but the rows it adds.
+        json.dump(existing, f, indent=2)
         f.write("\n")
 
     print(
