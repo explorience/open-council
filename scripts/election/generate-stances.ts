@@ -828,7 +828,14 @@ function main() {
     rosterConflicts.length,
     notDivided.length,
   );
-  writeStancesFile(allMotionsRaw, classified, lookup, resultMismatches);
+  writeStancesFile(
+    allMotionsRaw,
+    classified,
+    lookup,
+    resultMismatches,
+    rosterConflicts.length,
+    notDivided.length,
+  );
 
   console.log(`Divided motions since ${CUTOFF_DATE}: ${divided.length}`);
   console.log(
@@ -1415,6 +1422,8 @@ function writeStancesFile(
   classified: ClassifiedMotion[],
   lookup: Map<string, CouncillorMeta>,
   resultMismatches: RawMotion[],
+  rosterConflictCount: number,
+  notDividedCount: number,
 ) {
   const currentCouncillors = [...lookup.values()].filter((c) => c.isCurrent);
 
@@ -1822,9 +1831,28 @@ function writeStancesFile(
     // described a missing position using "committee rosters", "membership
     // roster" and "only committee members vote" — exactly the vocabulary
     // that let the inversion in item 1 ship without this sweep catching it.
-    // Nothing below uses "roster", "member", or "observer" in any form.
-    methodology:
-      "Per councillor per issue per axis: 'for' = their vote aligned with the axis's expansive/permissive outcome, 'against' = aligned with its restrictive outcome — but the rendered pattern sentence never collapses a nay into the language of an enacted action (see movedTowardText/buildPattern in generate-stances.ts): a nay on an expansive motion is described as opposing that motion, never as having performed the restrictive act, and vice versa. When an axis's WHOLE corpus since 2023 only ever contains motions of one polarity, the pattern sentence says so plainly instead of reporting a silent '0' on the missing side. Axis and polarity for every motion come from data/election/classify/batch-*-verified.json (a per-motion classification independently verified against each motion's own complete text in the source meeting record), with a small, published corrections layer (data/election/classify/corrections.json) applied on top for specific defects found after verification — never a silent edit to the verified batches. This is a genuine translation of what the clause did, not raw yea/nay, on every axis including the generic 'approved/denied the item' fallback used when no issue-specific content axis applies. Recusals and absences are counted separately, never folded into 'against' and never inferred as a position. Below 5 DISTINCT DECISIONS on an axis (committee and council votes on the same policy decision, identified by matching agenda-item title or business-case number within 60 days, count as one decision — not one per meeting stage), no pattern sentence is asserted; the individual votes are still shown. Motions the classify pipeline confirmed but left with no clear direction (a referral, an informational ask, or a corrections.json downgrade) are listed per issue as 'unclear' evidence — never counted in any pattern or sample size, but not hidden either. A councillor with no entry for a motion has no recorded vote for them on that motion in the source data — this hub makes no claim about why, in either direction, because no source in this repo says who belongs to which committee (that list is not scraped from anywhere; a meeting's present/remote_attendance/absent fields record who attended that day, not who belongs to the body). Two things are reported for a missing position, both read directly from the raw meeting record and nothing else: whether that meeting's own `also_present` field names this councillor — they were in the room, but no vote was recorded for them that day — or whether nothing else can be said at all (no vote captured, no claim made about why). Motions whose own minuted result disagrees with its parsed vote arrays, or that the classify pipeline flagged not a genuine division, are excluded entirely before any of this — see result-mismatches.json, not-divided.json, and each councillor's resultMismatchesExcluding count. Each motion is classified under exactly one issue, so a motion touching two topics (e.g. a housing motion with a budget line) appears on one issue page only, never both. Source text where a hash character is immediately followed by a business-case or item number (as in a title reading 'Business Case', then a hash, then 'P-5') displays on this hub with that hash replaced by the word 'No.' instead, so it reads 'Business Case No. P-5' — a display normalization to avoid the character being misread as a tag link, not a change to the underlying verbatim text.",
+    // Nothing below uses "member" or "observer" in any form; "roster"
+    // appears exactly once, in the allowlisted "a roster conflict" phrasing
+    // (see sweep-membership-claims.py's ROSTER_DATA_CONFLICT_ALLOW), which
+    // is a data-quality concept, not a membership claim.
+    //
+    // Reworded 2026-08-31 (round-7 gate items 1 and 4): this paragraph is
+    // the "Methodology" footer on every one of the 15 councillor profile
+    // pages (see generateCouncillorPage), read by voters and campaign
+    // staff, not by anyone touching this codebase — so it is written in
+    // plain English throughout. Every TypeScript function name, source
+    // filename, camelCase/snake_case field name, and glob pattern the
+    // previous version of this paragraph named (movedTowardText,
+    // buildPattern, generate-stances.ts, batch-*-verified.json,
+    // corrections.json, result-mismatches.json, not-divided.json,
+    // also_present) has been removed; every substantive disclosure it made
+    // is kept, just described in words instead of code — including the two
+    // exclusion counts (a roster conflict, a result mismatch) it used to
+    // gesture at with a bare filename and no number. See item 1 for the
+    // matching fix to how this text is rendered (no longer wrapped in
+    // italics, which corrupted the paragraph whenever this text itself
+    // contained a literal asterisk).
+    methodology: `For each councillor, on each issue, on each axis: a vote counts as "for" when it matched that axis's more permissive outcome, and "against" when it matched the more restrictive one — but a nay is never described as if it enacted the restrictive outcome; it's described as opposing the motion it was cast on, and the same care is taken in the other direction. When every recorded vote on an axis since 2023 happens to fall on one side, the pattern sentence says so plainly instead of silently reporting a zero on the other side. Every motion's issue, axis, and direction ("what a yea did") come from an independent, motion-by-motion review, checked against that motion's own complete text in the official meeting record rather than a keyword search, with a small, separately published list of after-the-fact corrections applied on top — never a silent edit to the reviewed record. This is a genuine reading of what each clause did, not a raw yea/nay count, including for the generic "approved or denied the item" description used when no issue-specific axis applies. Recusals and absences are always counted on their own, never folded into "against" and never treated as a hidden position. A pattern sentence is only stated once a councillor has at least 5 separate underlying decisions on an axis — a committee vote followed later by a council vote on the same policy question counts as one decision, not two, so a motion with several stages can't inflate the count; below that threshold the individual votes are still shown, just without a summary sentence. Some motions were reviewed and confirmed to have no clear direction at all — a referral, a request for more information, or a genuinely ambiguous clause — and these are listed, on every relevant issue, as motions with no clear direction: never counted in any pattern or sample size, but never hidden either. This project has no source recording which committee a councillor belongs to — that list isn't published or collected anywhere; a meeting's own attendance record shows who was there that day, not who belongs to it. So when a councillor has no recorded vote on a motion, nothing is claimed about why, in either direction: only whether that meeting's own record separately listed this councillor as present without a recorded vote, or whether nothing else can be said at all. Before any of the above, motions were also dropped in three ways, none of them guessed at or repaired: ${rosterConflictCount.toLocaleString()} where the same person was recorded as voting more than one way on the same motion (a roster conflict in the source data); ${resultMismatches.length.toLocaleString()} more where a motion's own written result didn't match its recorded yea/nay count (a result mismatch); and ${notDividedCount.toLocaleString()} more that turned out, on review, not to be a genuine division at all — a lopsided result the source data's own "unanimous" marker missed, or the same motion recorded twice under two item numbers. Each motion is filed under exactly one issue, so a motion that touches two topics — a housing decision with a budget line, say — appears on one issue page only, never both. Where the source text has a hash symbol immediately followed by a case or item number — as in a title reading "Business Case", then a hash, then "P-5" — this hub shows it instead as "Business Case No. P-5", so the character can't be misread as a link; the underlying wording is not otherwise changed.`,
     councillors: councillorsOut,
   };
 

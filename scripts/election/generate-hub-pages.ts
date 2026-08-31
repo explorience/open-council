@@ -717,7 +717,7 @@ ${sections}
 
 ---
 
-*Methodology: ${tcell(methodology)}*
+Methodology: ${tcell(methodology)}
 `;
 }
 
