@@ -582,28 +582,43 @@ export class RAGService {
       /oppose[ds]? (.+?)(\?|$)/i,
     ];
 
+    // APPEND dictionary expansion terms to a base phrase rather than replacing it -
+    // mirrors expandQueryWithSynonyms() in synonyms.ts. Replacing used to discard
+    // specific, identifying terms (e.g. "Duluth Crescent" in "the affordable housing
+    // land at Duluth Crescent") in favor of a generic dictionary phrase, which is what
+    // let an unrelated record with the same generic topic words win a downstream
+    // keyword match.
+    const appendExpansions = (base: string): string => {
+      const baseLower = base.toLowerCase();
+      const toAppend: string[] = [];
+      for (const [key, expansion] of Object.entries(topicExpansions)) {
+        if (baseLower.includes(key)) {
+          for (const term of expansion.split(' ')) {
+            const lowerTerm = term.toLowerCase();
+            if (lowerTerm && !baseLower.includes(lowerTerm) && !toAppend.includes(lowerTerm)) {
+              toAppend.push(lowerTerm);
+            }
+          }
+        }
+      }
+      return toAppend.length > 0 ? `${base} ${toAppend.join(' ')}` : base;
+    };
+
     for (const pattern of topicPatterns) {
       const match = query.match(pattern);
       if (match) {
         const topic = match[2] || match[1];
         const cleanTopic = topic.trim().toLowerCase();
-
-        // Check if we have an expansion for this topic
-        for (const [key, expansion] of Object.entries(topicExpansions)) {
-          if (cleanTopic.includes(key)) {
-            return expansion;
-          }
-        }
-
-        // Return the raw topic if no expansion found
-        return cleanTopic;
+        return appendExpansions(cleanTopic);
       }
     }
 
-    // Fallback: check for known topic keywords anywhere in query
-    for (const [key, expansion] of Object.entries(topicExpansions)) {
+    // Fallback: check for known topic keywords anywhere in query. Append expansions to
+    // the whole query (still better than the old behaviour, which discarded the query
+    // entirely and returned a bare generic dictionary phrase).
+    for (const key of Object.keys(topicExpansions)) {
       if (lowerQuery.includes(key)) {
-        return expansion;
+        return appendExpansions(lowerQuery);
       }
     }
 
@@ -1449,7 +1464,12 @@ export class RAGService {
 
     // Strategy 1: Specific month/year query (e.g., "meetings in november 2025")
     // Use date-range search, bypassing semantic similarity
-    if (specificMonth) {
+    // Skip if this is a councillor voting query or multi-hop query - those need the
+    // structured vote lookup (Strategy 3.8 / Strategy 4), not a raw date-range vector
+    // search. A month/year mentioned in a councillor-vote question should NARROW that
+    // structured lookup (see the `specificMonth` narrowing below), not bypass it - this
+    // mirrors the `!isCouncillorVotingQuery` guard already on Strategy 2 below.
+    if (specificMonth && !isCouncillorVotingQuery && !isMultiHopQuery) {
       console.log(`📆 Specific month query: ${specificMonth.month + 1}/${specificMonth.year}`);
 
       // If this is also a motion/vote query, call vote lookup FIRST for verified data
@@ -1807,10 +1827,18 @@ export class RAGService {
           // Looking for a specific councillor's vote on a topic
           const councillorSlug = this.councillorNameToSlug(councillorName);
           if (councillorSlug) {
-            const voteResult = voteLookupService.findCouncillorVote(councillorSlug, topicKeywords);
-            if (voteResult) {
-              verifiedVoteContext = voteLookupService.formatVoteForContext(voteResult);
-              console.log(`   ✅ Found VERIFIED vote record for ${councillorName}`);
+            // A month/year named in the query (e.g. "in June 2026") NARROWS the
+            // structured lookup instead of being ignored - this is what Strategy 1's
+            // new !isCouncillorVotingQuery guard makes possible: the date now reaches
+            // here instead of causing an early, unrelated vector search to run instead.
+            const voteResults = voteLookupService.findCouncillorVote(
+              councillorSlug,
+              topicKeywords,
+              specificMonth ? { month: specificMonth.month, year: specificMonth.year } : {}
+            );
+            if (voteResults && voteResults.length > 0) {
+              verifiedVoteContext = voteLookupService.formatVoteResultsForContext(voteResults);
+              console.log(`   ✅ Found VERIFIED vote record(s) for ${councillorName} (${voteResults.length})`);
             }
           }
         } else if (topicKeywords.length > 0) {
