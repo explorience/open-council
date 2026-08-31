@@ -11,6 +11,13 @@ That shipped past the round-5 sweep because the sweep was a fixed list of
 EXACT PHRASES shaped to the wording that existed at the time — any rewording
 that kept the same underlying claim, in different words, sailed through.
 
+Round-7 added: same failure mode again, in a THIRD wording — the empty-
+profile fallback in generate-hub-pages.ts asserted membership via
+"committee assignments didn't overlap", using neither "member" nor "roster".
+Added the "assignment"/"assignments" word-stem and the "sits on"/"serves
+on"/"appointed to"/"seat on" exact phrases so the next rewording of this
+same claim, in any of these words, is caught too.
+
 DETECTION RULE (the whole rule, not a summary): two tiers of pattern, over
 every *.md file under content/election/.
 
@@ -81,6 +88,17 @@ EXACT_PHRASE_PATTERNS = [
     (r"was on the roster for", "round-5's INVERTED membership claim — the exact defect round-6 exists to catch"),
     (r"attended as an observer", "round-5's inverted non-membership claim"),
     (r"only committee members vote", "round-5's membership gloss on the observer clause"),
+    # Round-7 gate item 5: generate-hub-pages.ts's empty-profile fallback
+    # ("...whose committee assignments didn't overlap with any issue's
+    # divided votes") asserted membership via "assignment" rather than
+    # "member" or "roster" — a differently-worded reach for the exact same
+    # claim class. Caught here as exact phrasings; "sits on"/"serves on"/
+    # "appointed to"/"seat on" are the other common ways prose asserts
+    # membership without using the word "member" itself.
+    (r"\bsits on\b", "membership assertion (\"sits on\")"),
+    (r"\bserves on\b", "membership assertion (\"serves on\")"),
+    (r"\bappointed to\b", "membership assertion (\"appointed to\")"),
+    (r"\bseat on\b", "membership assertion (\"seat on\")"),
 ]
 
 # Bare word-stems that must not appear anywhere this sweep can be sure is
@@ -94,6 +112,10 @@ WORD_STEM_PATTERNS = [
     (r"\bmembers?\b", "word-stem: member"),
     (r"\bmembership\w*\b", "word-stem: membership"),
     (r"\bobservers?\b", "word-stem: observer"),
+    # Round-7 gate item 5: "committee assignments" is the same membership
+    # claim in different words (see generate-hub-pages.ts's noPatternNote
+    # fallback, fixed alongside this sweep addition).
+    (r"\bassignments?\b", "word-stem: assignment"),
 ]
 
 EXACT_PHRASE_COMPILED = [(re.compile(p, re.IGNORECASE), desc) for p, desc in EXACT_PHRASE_PATTERNS]

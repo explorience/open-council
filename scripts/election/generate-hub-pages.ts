@@ -673,9 +673,16 @@ function generateCouncillorPage(
     ? `\n> **2026 candidacy:** ${candidacyBits.join(" ")} See the [certified candidate list](/election/wards) for the authoritative source.\n`
     : "";
 
+  // Fixed 2026-08-31 (round-7 gate item 5): the previous wording ("...or
+  // whose committee assignments didn't overlap with any issue's divided
+  // votes") asserted committee membership by implication — exactly the
+  // claim class round-5/6 eliminated everywhere else on this hub (see the
+  // long comment above notOnRosterBits). This repo has no membership
+  // source, so this fallback makes no claim about why a councillor has no
+  // recorded position on any tracked issue — only that none exists.
   const noPatternNote =
     issueSlugs.length === 0
-      ? "\nNo divided votes with a clear direction were recorded for this councillor on any tracked issue in the current data. This can happen for councillors who joined recently, or whose committee assignments didn't overlap with any issue's divided votes.\n"
+      ? "\nNo divided votes in the tracked issues carry a recorded yea or nay from this councillor in this period.\n"
       : "";
 
   // Fixed 2026-08-31 (hub-recheck verdict finding 6, per-profile
