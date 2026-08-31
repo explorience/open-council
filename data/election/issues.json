@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T17:31:57.784Z",
+  "generatedAt": "2026-08-31T18:10:23.392Z",
   "sourceHash": "b7db59b827637e80",
   "sourceGeneratedAt": "2026-08-31T05:18:27.112Z",
   "cutoffDate": "2023-01-01",
@@ -1495,7 +1495,7 @@
           "direction": {
             "axis": "response-scale",
             "valence": -1,
-            "label": "Paused new placements of high-acuity individuals into the 'Project Home' program until Council received and reviewed a report back on program issues.",
+            "label": "Would have paused new placements of high-acuity individuals into the 'Project Home' program until Council received and reviewed a report back on program issues.",
             "axisLabels": {
               "expansive": "expanded the encampment/homelessness response",
               "restrictive": "reduced the encampment/homelessness response"
@@ -2100,7 +2100,7 @@
           "direction": {
             "axis": "relocation",
             "valence": -1,
-            "label": "Approved funding for Ark Aid's day drop-in program to remain at its current location only until August 31, 2025, after which it must move to a location other than a Main Street Business Improvement Area.",
+            "label": "Would have approved funding for Ark Aid's day drop-in program to remain at its current location only until August 31, 2025, after which it must move to a location other than a Main Street Business Improvement Area.",
             "axisLabels": {
               "expansive": "kept people or services at their current location",
               "restrictive": "directed relocating people or services away from their current location"
@@ -2154,7 +2154,7 @@
           "direction": {
             "axis": "relocation",
             "valence": -1,
-            "label": "Approved funding for Ark Aid's day drop-in program on condition it operate at a location other than a Main Street Business Improvement Area, rather than continuing at its Main Street location.",
+            "label": "Would have approved funding for Ark Aid's day drop-in program on condition it operate at a location other than a Main Street Business Improvement Area, rather than continuing at its Main Street location.",
             "axisLabels": {
               "expansive": "kept people or services at their current location",
               "restrictive": "directed relocating people or services away from their current location"
@@ -7194,7 +7194,7 @@
           "direction": {
             "axis": "budget-size",
             "valence": -1,
-            "label": "Reduced Business Case #P-29 – Police Vehicle and Equipment Requirements funding by a specified dollar amount each year (2024-2027).",
+            "label": "Would have reduced Business Case #P-29 – Police Vehicle and Equipment Requirements funding by a specified dollar amount each year (2024-2027).",
             "axisLabels": {
               "expansive": "increased the police budget or complement",
               "restrictive": "reduced the police budget or complement"
@@ -7246,7 +7246,7 @@
           "direction": {
             "axis": "budget-size",
             "valence": -1,
-            "label": "Reduced Business Case #P-29 (Police Vehicle and Equipment Requirements) funding by 5%.",
+            "label": "Would have reduced Business Case #P-29 (Police Vehicle and Equipment Requirements) funding by 5%.",
             "axisLabels": {
               "expansive": "increased the police budget or complement",
               "restrictive": "reduced the police budget or complement"
@@ -7298,7 +7298,7 @@
           "direction": {
             "axis": "budget-size",
             "valence": -1,
-            "label": "Added funding for four housing/homelessness-support business cases (Hoarding/Extreme Clean, Housing Stability Bank, Housing Stability Table, Housing Support Case Management), fully offset by an equal, explicit reduction to the London Police Service operating budget (roughly $1.7-2.25 million per year).",
+            "label": "Would have added funding for four housing/homelessness-support business cases (Hoarding/Extreme Clean, Housing Stability Bank, Housing Stability Table, Housing Support Case Management), fully offset by an equal, explicit reduction to the London Police Service operating budget (roughly $1.7-2.25 million per year).",
             "axisLabels": {
               "expansive": "increased the police budget or complement",
               "restrictive": "reduced the police budget or complement"
@@ -7350,7 +7350,7 @@
           "direction": {
             "axis": "budget-size",
             "valence": -1,
-            "label": "Added $300,000/year in funding for winter maintenance (sweeping and plowing) of boulevard bike lanes, funded entirely by an equal, offsetting reduction to the London Police Service operating budget (net zero tax levy impact).",
+            "label": "Would have added $300,000/year in funding for winter maintenance (sweeping and plowing) of boulevard bike lanes, funded entirely by an equal, offsetting reduction to the London Police Service operating budget (net zero tax levy impact).",
             "axisLabels": {
               "expansive": "increased the police budget or complement",
               "restrictive": "reduced the police budget or complement"
@@ -7402,7 +7402,7 @@
           "direction": {
             "axis": "budget-size",
             "valence": -1,
-            "label": "Reduced Business Case #P-29 (Police Vehicle and Equipment Requirements) funding by $90,000 per year.",
+            "label": "Would have reduced Business Case #P-29 (Police Vehicle and Equipment Requirements) funding by $90,000 per year.",
             "axisLabels": {
               "expansive": "increased the police budget or complement",
               "restrictive": "reduced the police budget or complement"
@@ -7462,7 +7462,7 @@
           "direction": {
             "axis": "infrastructure-expansion",
             "valence": 1,
-            "label": "Directed Civic Administration to implement the corridor recommendations, including new in-boulevard cycling infrastructure on Sarnia Road and Western Road and new in-boulevard cycle lanes on Philip Aziz Avenue, alongside pedestrian-signal, storm-sewer, and watermain work.",
+            "label": "Would have directed Civic Administration to implement the corridor recommendations, including new in-boulevard cycling infrastructure on Sarnia Road and Western Road and new in-boulevard cycle lanes on Philip Aziz Avenue, alongside pedestrian-signal, storm-sewer, and watermain work.",
             "axisLabels": {
               "expansive": "approved new cycling infrastructure",
               "restrictive": "removed or denied cycling infrastructure"
@@ -12297,7 +12297,7 @@
           "direction": {
             "axis": "service-expansion",
             "valence": 1,
-            "label": "Increased funding for Business Case #P-51 to add the revised conventional transit service-hours growth for 2024, as approved by the London Transit Commission.",
+            "label": "Would have increased funding for Business Case #P-51 to add the revised conventional transit service-hours growth for 2024, as approved by the London Transit Commission.",
             "axisLabels": {
               "expansive": "expanded transit or road service/infrastructure",
               "restrictive": "reduced transit or road service/infrastructure"
@@ -14607,7 +14607,7 @@
           "direction": {
             "axis": "levy-size",
             "valence": -1,
-            "label": "Directed staff to take no further action on an expanded low-income tax deferral program at this time, citing the Mayor's direction to keep the 2026 property tax levy increase under 5%.",
+            "label": "Would have directed staff to take no further action on an expanded low-income tax deferral program at this time, citing the Mayor's direction to keep the 2026 property tax levy increase under 5%.",
             "axisLabels": {
               "expansive": "increased the tax levy or a budget item",
               "restrictive": "reduced the tax levy or a budget item"
@@ -16272,7 +16272,7 @@
           "direction": {
             "axis": "levy-size",
             "valence": 1,
-            "label": "Added $700,000 per year (2024-2027) in funding for Business Case #P-16, a Housing Stability Bank expansion.",
+            "label": "Would have added $700,000 per year (2024-2027) in funding for Business Case #P-16, a Housing Stability Bank expansion.",
             "axisLabels": {
               "expansive": "increased the tax levy or a budget item",
               "restrictive": "reduced the tax levy or a budget item"
@@ -16324,7 +16324,7 @@
           "direction": {
             "axis": "levy-size",
             "valence": 1,
-            "label": "Added $400,000 per year (2024-2027) in funding for Business Case #P-15, a Hoarding/Extreme Clean Program.",
+            "label": "Would have added $400,000 per year (2024-2027) in funding for Business Case #P-15, a Hoarding/Extreme Clean Program.",
             "axisLabels": {
               "expansive": "increased the tax levy or a budget item",
               "restrictive": "reduced the tax levy or a budget item"
@@ -16376,7 +16376,7 @@
           "direction": {
             "axis": "levy-size",
             "valence": 1,
-            "label": "Added funding starting in 2026 for an extension of Parks Operations Services under Business Case #P-31.",
+            "label": "Would have added funding starting in 2026 for an extension of Parks Operations Services under Business Case #P-31.",
             "axisLabels": {
               "expansive": "increased the tax levy or a budget item",
               "restrictive": "reduced the tax levy or a budget item"
@@ -16428,7 +16428,7 @@
           "direction": {
             "axis": "levy-size",
             "valence": 1,
-            "label": "Reversed a proposed 5.4% funding-increase cap on Museum London, restoring it to the higher 6.3% base-budget increase.",
+            "label": "Would have reversed a proposed 5.4% funding-increase cap on Museum London, restoring it to the higher 6.3% base-budget increase.",
             "axisLabels": {
               "expansive": "increased the tax levy or a budget item",
               "restrictive": "reduced the tax levy or a budget item"
@@ -16532,7 +16532,7 @@
           "direction": {
             "axis": "levy-size",
             "valence": 1,
-            "label": "Increased Business Case #P-46 (Economic and Partnership Initiatives) funding by adding actions 3 and 6, roughly $75,000-$100,000 per year.",
+            "label": "Would have increased Business Case #P-46 (Economic and Partnership Initiatives) funding by adding actions 3 and 6, roughly $75,000-$100,000 per year.",
             "axisLabels": {
               "expansive": "increased the tax levy or a budget item",
               "restrictive": "reduced the tax levy or a budget item"
@@ -16584,7 +16584,7 @@
           "direction": {
             "axis": "levy-size",
             "valence": -1,
-            "label": "Reduced by $1.8 million per year (2024-2027) the budgeted cost of Business Case #P-L3, which covers statutory development-charge exemptions under the province's More Homes Built Faster Act (Bill 23).",
+            "label": "Would have reduced by $1.8 million per year (2024-2027) the budgeted cost of Business Case #P-L3, which covers statutory development-charge exemptions under the province's More Homes Built Faster Act (Bill 23).",
             "axisLabels": {
               "expansive": "increased the tax levy or a budget item",
               "restrictive": "reduced the tax levy or a budget item"
@@ -16688,7 +16688,7 @@
           "direction": {
             "axis": "levy-size",
             "valence": 1,
-            "label": "Added $134,000 total (2024-2027) in ongoing funding under Business Case #P-69 to expand the London Public Library's collections purchasing, aimed at underrepresented and diverse-experience publishing.",
+            "label": "Would have added $134,000 total (2024-2027) in ongoing funding under Business Case #P-69 to expand the London Public Library's collections purchasing, aimed at underrepresented and diverse-experience publishing.",
             "axisLabels": {
               "expansive": "increased the tax levy or a budget item",
               "restrictive": "reduced the tax levy or a budget item"
@@ -17104,7 +17104,7 @@
           "direction": {
             "axis": "levy-size",
             "valence": 1,
-            "label": "Added $700,000 per year (2024-2027) in funding for Business Case #P-16, a Housing Stability Bank expansion.",
+            "label": "Would have added $700,000 per year (2024-2027) in funding for Business Case #P-16, a Housing Stability Bank expansion.",
             "axisLabels": {
               "expansive": "increased the tax levy or a budget item",
               "restrictive": "reduced the tax levy or a budget item"
@@ -17156,7 +17156,7 @@
           "direction": {
             "axis": "levy-size",
             "valence": 1,
-            "label": "Added $400,000 per year (2024-2027) in funding for Business Case #P-15, a Hoarding/Extreme Clean Program.",
+            "label": "Would have added $400,000 per year (2024-2027) in funding for Business Case #P-15, a Hoarding/Extreme Clean Program.",
             "axisLabels": {
               "expansive": "increased the tax levy or a budget item",
               "restrictive": "reduced the tax levy or a budget item"
@@ -17208,7 +17208,7 @@
           "direction": {
             "axis": "levy-size",
             "valence": -1,
-            "label": "Removed budgeted funding for two additional Administrative Assistant positions under the Legislative and Council Services business case (P-65).",
+            "label": "Would have removed budgeted funding for two additional Administrative Assistant positions under the Legislative and Council Services business case (P-65).",
             "axisLabels": {
               "expansive": "increased the tax levy or a budget item",
               "restrictive": "reduced the tax levy or a budget item"
@@ -17260,7 +17260,7 @@
           "direction": {
             "axis": "levy-size",
             "valence": 1,
-            "label": "Added $60,000 in one-time 2024 funding for Board Governance Training under Business Case #P-40 (Pillar Nonprofit Network capacity-building).",
+            "label": "Would have added $60,000 in one-time 2024 funding for Board Governance Training under Business Case #P-40 (Pillar Nonprofit Network capacity-building).",
             "axisLabels": {
               "expansive": "increased the tax levy or a budget item",
               "restrictive": "reduced the tax levy or a budget item"
@@ -17312,7 +17312,7 @@
           "direction": {
             "axis": "levy-size",
             "valence": -1,
-            "label": "Removed entirely the budgeted cost of Business Case #P-L3, which covers statutory development-charge exemptions under the province's More Homes Built Faster Act (Bill 23), roughly $1.8 million per year.",
+            "label": "Would have removed entirely the budgeted cost of Business Case #P-L3, which covers statutory development-charge exemptions under the province's More Homes Built Faster Act (Bill 23), roughly $1.8 million per year.",
             "axisLabels": {
               "expansive": "increased the tax levy or a budget item",
               "restrictive": "reduced the tax levy or a budget item"
@@ -17364,7 +17364,7 @@
           "direction": {
             "axis": "levy-size",
             "valence": 1,
-            "label": "Added $316,000 in 2026 funding for Action #3 (Extension of Parks Operations Services) under Business Case #P-31 (Parks Operations Service Delivery Enhancements).",
+            "label": "Would have added $316,000 in 2026 funding for Action #3 (Extension of Parks Operations Services) under Business Case #P-31 (Parks Operations Service Delivery Enhancements).",
             "axisLabels": {
               "expansive": "increased the tax levy or a budget item",
               "restrictive": "reduced the tax levy or a budget item"
@@ -17468,7 +17468,7 @@
           "direction": {
             "axis": "levy-size",
             "valence": -1,
-            "label": "Removed Business Case #P-9 (Giwetashkad Implementation) funding from the multi-year budget entirely.",
+            "label": "Would have removed Business Case #P-9 (Giwetashkad Implementation) funding from the multi-year budget entirely.",
             "axisLabels": {
               "expansive": "increased the tax levy or a budget item",
               "restrictive": "reduced the tax levy or a budget item"
@@ -17572,7 +17572,7 @@
           "direction": {
             "axis": "levy-size",
             "valence": 1,
-            "label": "Reversed a proposed reduction to Museum London's budget increase, restoring funding to the 6.3% base budget program level instead of the reduced 5.4% average increase.",
+            "label": "Would have reversed a proposed reduction to Museum London's budget increase, restoring funding to the 6.3% base budget program level instead of the reduced 5.4% average increase.",
             "axisLabels": {
               "expansive": "increased the tax levy or a budget item",
               "restrictive": "reduced the tax levy or a budget item"
@@ -17676,7 +17676,7 @@
           "direction": {
             "axis": "levy-size",
             "valence": 1,
-            "label": "Approved Business Case #P-63 (Silver Creek Ecological Enhancements) funding, delaying implementation and the $200,000 annual funding until 2026.",
+            "label": "Would have approved Business Case #P-63 (Silver Creek Ecological Enhancements) funding, delaying implementation and the $200,000 annual funding until 2026.",
             "axisLabels": {
               "expansive": "increased the tax levy or a budget item",
               "restrictive": "reduced the tax levy or a budget item"
@@ -17780,7 +17780,7 @@
           "direction": {
             "axis": "levy-size",
             "valence": 1,
-            "label": "Added $100,000/year in funding for Business Case #P-39 (The Grand Theatre – Increasing Community Access to & Participation in the Arts) (re-vote of the same amendment).",
+            "label": "Would have added $100,000/year in funding for Business Case #P-39 (The Grand Theatre – Increasing Community Access to & Participation in the Arts) (re-vote of the same amendment).",
             "axisLabels": {
               "expansive": "increased the tax levy or a budget item",
               "restrictive": "reduced the tax levy or a budget item"
@@ -17832,7 +17832,7 @@
           "direction": {
             "axis": "levy-size",
             "valence": 1,
-            "label": "Added $100,000/year in funding for Business Case #P-39 (The Grand Theatre – Increasing Community Access to & Participation in the Arts).",
+            "label": "Would have added $100,000/year in funding for Business Case #P-39 (The Grand Theatre – Increasing Community Access to & Participation in the Arts).",
             "axisLabels": {
               "expansive": "increased the tax levy or a budget item",
               "restrictive": "reduced the tax levy or a budget item"
@@ -17988,7 +17988,7 @@
           "direction": {
             "axis": "levy-size",
             "valence": 1,
-            "label": "Funded 50% of Initiative 10 under Business Case #P-42 (5-Year Community Improvement Plan Review Implementation), starting in 2026.",
+            "label": "Would have funded 50% of Initiative 10 under Business Case #P-42 (5-Year Community Improvement Plan Review Implementation), starting in 2026.",
             "axisLabels": {
               "expansive": "increased the tax levy or a budget item",
               "restrictive": "reduced the tax levy or a budget item"
@@ -18040,7 +18040,7 @@
           "direction": {
             "axis": "levy-size",
             "valence": -1,
-            "label": "Removed Business Case #P-38 (City of London Community Arts Investment Program Expansion) funding from the multi-year budget entirely.",
+            "label": "Would have removed Business Case #P-38 (City of London Community Arts Investment Program Expansion) funding from the multi-year budget entirely.",
             "axisLabels": {
               "expansive": "increased the tax levy or a budget item",
               "restrictive": "reduced the tax levy or a budget item"
@@ -18144,7 +18144,7 @@
           "direction": {
             "axis": "levy-size",
             "valence": -1,
-            "label": "Removed Business Case #P-37 (CMHA Holly's House) funding from the multi-year budget entirely.",
+            "label": "Would have removed Business Case #P-37 (CMHA Holly's House) funding from the multi-year budget entirely.",
             "axisLabels": {
               "expansive": "increased the tax levy or a budget item",
               "restrictive": "reduced the tax levy or a budget item"
@@ -18196,7 +18196,7 @@
           "direction": {
             "axis": "levy-size",
             "valence": -1,
-            "label": "Removed Business Case #P-7 (a new Property Tax Software System and Capital Asset Reporting Tool for Financial Reporting) from the multi-year budget.",
+            "label": "Would have removed Business Case #P-7 (a new Property Tax Software System and Capital Asset Reporting Tool for Financial Reporting) from the multi-year budget.",
             "axisLabels": {
               "expansive": "increased the tax levy or a budget item",
               "restrictive": "reduced the tax levy or a budget item"
@@ -22066,7 +22066,7 @@
           "direction": {
             "axis": "application-approval",
             "valence": 1,
-            "label": "Approved introducing a zoning by-law amendment for 1837 Churchill Avenue to rezone the property from Neighbourhood Facility and Residential R2 zones to a Neighbourhood Facility Special Provision zone, permitting an addition to the existing building.",
+            "label": "Would have approved introducing a zoning by-law amendment for 1837 Churchill Avenue to rezone the property from Neighbourhood Facility and Residential R2 zones to a Neighbourhood Facility Special Provision zone, permitting an addition to the existing building.",
             "axisLabels": {
               "expansive": "approved the development, rezoning, or housing-policy item",
               "restrictive": "denied the development, rezoning, or housing-policy item"
@@ -22201,7 +22201,7 @@
           "direction": {
             "axis": "application-approval",
             "valence": 1,
-            "label": "Approved introducing Official Plan and zoning by-law amendments for 945 Bluegrass Drive to add a site-specific policy and holding provision enabling the proposed long-term-care development.",
+            "label": "Would have approved introducing Official Plan and zoning by-law amendments for 945 Bluegrass Drive to add a site-specific policy and holding provision enabling the proposed long-term-care development.",
             "axisLabels": {
               "expansive": "approved the development, rezoning, or housing-policy item",
               "restrictive": "denied the development, rezoning, or housing-policy item"
@@ -25224,7 +25224,7 @@
           "direction": {
             "axis": "affordable-funding",
             "valence": 1,
-            "label": "Directed Civic Administration to revise the Transit Oriented Development forgivable-loan program guidelines to add non-profit and affordable-housing applicants as eligible for the per-unit forgivable loan.",
+            "label": "Would have directed Civic Administration to revise the Transit Oriented Development forgivable-loan program guidelines to add non-profit and affordable-housing applicants as eligible for the per-unit forgivable loan.",
             "axisLabels": {
               "expansive": "approved funding or land for affordable housing",
               "restrictive": "denied funding or land for affordable housing"
@@ -27251,7 +27251,7 @@
           "direction": {
             "axis": "density",
             "valence": 1,
-            "label": "Rezoned 415-421 Boler Road from low-density Residential R1 to high-density Residential R8, permitting apartment-scale development.",
+            "label": "Would have rezoned 415-421 Boler Road from low-density Residential R1 to high-density Residential R8, permitting apartment-scale development.",
             "axisLabels": {
               "expansive": "increased permitted density or building height",
               "restrictive": "reduced permitted density or building height"
@@ -28186,7 +28186,7 @@
           "direction": {
             "axis": "density",
             "valence": -1,
-            "label": "Moved, as an alternative to staff's recommendation, to refuse the applicant's requested special provisions for a reduced 5-metre rear yard setback (vs. 16.8m required) and reduced 20% landscaped open space (vs. 30% required), while still introducing the same Official Plan and zoning by-law amendments and site-plan design requests.",
+            "label": "Would have moved, as an alternative to staff's recommendation, to refuse the applicant's requested special provisions for a reduced 5-metre rear yard setback (vs. 16.8m required) and reduced 20% landscaped open space (vs. 30% required), while still introducing the same Official Plan and zoning by-law amendments and site-plan design requests.",
             "axisLabels": {
               "expansive": "increased permitted density or building height",
               "restrictive": "reduced permitted density or building height"
@@ -30653,7 +30653,7 @@
           "direction": {
             "axis": "application-approval",
             "valence": 1,
-            "label": "Approved introducing the by-law to rezone 934 Oxford Street West from Residential R1 to Residential R8 Special Provision, a higher-density designation.",
+            "label": "Would have approved introducing the by-law to rezone 934 Oxford Street West from Residential R1 to Residential R8 Special Provision, a higher-density designation.",
             "axisLabels": {
               "expansive": "approved the development, rezoning, or housing-policy item",
               "restrictive": "denied the development, rezoning, or housing-policy item"
