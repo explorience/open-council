@@ -1462,5 +1462,13 @@
     "now": "Recommended approving, as amended, introducing the revised Surplus/Deficit Policy by-law, including the reallocated Unfunded Liability and Community Investment Reserve Fund contributions.",
     "reason": "Transit-split gate item 4 sweep: this is the 2025-03-19 Budget COMMITTEE vote, not Council. Reworded to the committee-stage \"Recommended approving\" phrasing used elsewhere in this corpus. issue is already \"none\" (not direction-bearing) -- this correction only fixes the wording.",
     "quote": "Gave final approval, as amended, to introducing the revised Surplus/Deficit Policy by-law, including the reallocated Unfunded Liability and Community Investment Reserve Fund contributions."
+  },
+  {
+    "id": "09385ddc0d7d",
+    "field": "whatAYeaDid",
+    "was": "Approved the Mobility Master Plan's Roads Projects maps, with an amendment to include the expansion of Bradley Avenue (Wellington Road to Highbury Avenue) in the next capital improvement cycle.",
+    "now": "Approved the Mobility Master Plan's Roads Projects maps, with an amendment to include the expansion of Bradley Avenue (Wellington Road to Highbury Avenue) in the next improvement cycle.",
+    "reason": "Round-2 gate item 7: the motion's own operative text reads 'BE INCLUDED in the next improvement cycle' -- no 'capital' anywhere in it (see quote). 'capital improvement cycle' was an unsourced addition; dropped to match the motion verbatim.",
+    "quote": "the Roads Projects maps BE APPROVED; with the following amendment to the Roads Projects Timeline; i) expansion of Bradley Ave from Wellington Road to Highbury Avenue BE INCLUDED in the next improvement cycle"
   }
 ]
