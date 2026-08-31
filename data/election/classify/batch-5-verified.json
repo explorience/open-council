@@ -6,7 +6,7 @@
     "polarity": null,
     "whatAYeaDid": "Updated council's own base-compensation formula so 2028 councillor pay is recalculated in 2027 from 2021-2026 census data, pegged to the 70th percentile of 2025 full-time individual employment income in the London CMA.",
     "confidence": "high",
-    "quote": "the Council base compensation and the annual adjustment formula BE UPDATED in 2027 to reflect data from the 2021 \u2013 2026 census period, and that the new data be used to calculate Council compensation starting in 2028",
+    "quote": "the Council base compensation and the annual adjustment formula BE UPDATED in 2027 to reflect data from the 2021 – 2026 census period, and that the new data be used to calculate Council compensation starting in 2028",
     "flags": [],
     "verdict": "confirmed",
     "verifierNote": "Council-remuneration/compensation-formula motion; correctly excluded (GLOBAL_EXCLUDE 'council remuneration' territory) -- not one of the 8 tracked issues regardless of body text. Quote verified verbatim against source in earlier reading. No tracked-issue content present."
@@ -104,7 +104,7 @@
     "polarity": null,
     "whatAYeaDid": "Updated council's own base-compensation formula so 2028 councillor pay is recalculated in 2027 from 2021-2026 census data, pegged to the 70th percentile of 2025 full-time individual employment income in the London CMA.",
     "confidence": "high",
-    "quote": "the Council base compensation and the annual adjustment formula BE UPDATED in 2027 to reflect data from the 2021 \u2013 2026 census period, and that the new data be used to calculate Council compensation starting in 2028",
+    "quote": "the Council base compensation and the annual adjustment formula BE UPDATED in 2027 to reflect data from the 2021 – 2026 census period, and that the new data be used to calculate Council compensation starting in 2028",
     "flags": [],
     "verdict": "confirmed",
     "verifierNote": "Duplicate of 9daa4ae88f7d's compensation-formula update, from the companion 10-28/11-04 vote pair; correctly issue=none for the same reason."
@@ -233,7 +233,7 @@
     "polarity": null,
     "whatAYeaDid": "Reassigned which standing committee oversees sidewalks, bike lanes, snow control, street lighting, traffic control, and waste management -- moving that mandate from Community and Protective Services to Infrastructure and Corporate Services -- and added Strong Mayor Decisions/Directions items to the Strategic Priorities and Policy Committee's mandate.",
     "confidence": "high",
-    "quote": "the Infrastructure and Corporate Services Committee mandate BE AMENDED to include \u201cSidewalks and Bike lanes \u2013 Planning, Design (retrofitting into established neighbourhoods) and Maintenance, Snow Control, Street Lighting... and Waste Management\u201d",
+    "quote": "the Infrastructure and Corporate Services Committee mandate BE AMENDED to include “Sidewalks and Bike lanes – Planning, Design (retrofitting into established neighbourhoods) and Maintenance, Snow Control, Street Lighting... and Waste Management”",
     "flags": [
       "procedural"
     ],
@@ -398,7 +398,7 @@
     "polarity": null,
     "whatAYeaDid": "Received, without adopting, the draft Urban Growth Boundary Review documents for Employment Areas and Community Growth as information.",
     "confidence": "high",
-    "quote": "the Draft Urban Growth Boundary Review (Employment Areas) and revised Draft Urban Growth Boundary Review (Community Growth) as appended to the above-noted staff report as Appendix \u201cB\u201d BE RECEIVED",
+    "quote": "the Draft Urban Growth Boundary Review (Employment Areas) and revised Draft Urban Growth Boundary Review (Community Growth) as appended to the above-noted staff report as Appendix “B” BE RECEIVED",
     "flags": [
       "informational_ask",
       "wrapper_preamble"
@@ -467,7 +467,7 @@
     "polarity": null,
     "whatAYeaDid": "Would have given notice of Council's intention to designate 1511 Clarke Road as a property of cultural heritage value under the Ontario Heritage Act.",
     "confidence": "high",
-    "quote": "notice BE GIVEN under the provisions of Section 29(3) of the Ontario Heritage Act R.S.O 1990, c. O. 18, of the Municipal Council\u2019s intention to designate the property to be of cultural heritage value or interest",
+    "quote": "notice BE GIVEN under the provisions of Section 29(3) of the Ontario Heritage Act R.S.O 1990, c. O. 18, of the Municipal Council’s intention to designate the property to be of cultural heritage value or interest",
     "flags": [],
     "verdict": "confirmed",
     "verifierNote": "Traced to meeting JSON: 2025-10-01 P&E Committee, item 2.1, motion index 1, 'notice BE GIVEN...intention to designate the property to be of cultural heritage value...' (Failed 1-4 -- matches manifest exactly). This is the SAME property (1511 Clarke Road) as the housing rezoning items, and its failure did clear a heritage obstacle to that development -- but the clause's own text is a heritage-act procedural notice with no housing/zoning/density keyword content, and connecting it to a housing 'expansive' position would require importing planning-law inference the text itself doesn't state. Left as issue=none per the instruction to only overturn on an unambiguous operative clause -- this one is heritage-act procedure, not a rezoning/density decision on its own terms. No correction made."
@@ -559,7 +559,7 @@
     "polarity": null,
     "whatAYeaDid": "Granted Councillor Stevenson leave under the Council Procedure By-law to move a motion on the urgent situation within London's Housing Stability Program; it did not decide the program question itself.",
     "confidence": "high",
-    "quote": "leave BE GRANTED to permit Councillor S. Stevenson to move a motion related to item 7.1 on the Council Agenda related to Urgent situation within London\u2019s Housing Stability program",
+    "quote": "leave BE GRANTED to permit Councillor S. Stevenson to move a motion related to item 7.1 on the Council Agenda related to Urgent situation within London’s Housing Stability program",
     "flags": [
       "procedural"
     ],
@@ -585,9 +585,9 @@
     "issue": "encampments",
     "axis": "response-scale",
     "polarity": "restrictive",
-    "whatAYeaDid": "Paused new placements of high-acuity individuals into the 'Project Home' program until Council received and reviewed a report back on program issues.",
+    "whatAYeaDid": "Would have paused new placements of high-acuity individuals into the 'Project Home' program until Council received and reviewed a report back on program issues.",
     "confidence": "medium",
-    "quote": "pause any new placements of \u201chigh acuity\u201d individuals through the \u201cProject Home\u201d program until the report back is received and reviewed by committee and council",
+    "quote": "pause any new placements of “high acuity” individuals through the “Project Home” program until the report back is received and reviewed by committee and council",
     "flags": [],
     "verdict": "confirmed",
     "verifierNote": "Traced to meeting JSON: 2025-09-23 Council, item 7.1, motion index 4, \"That the motion be amended to include a new part e)...pause any new placements of 'high acuity' individuals through the 'Project Home' program until the report back is received and reviewed by committee and council.\" (Failed 5-10; yeas Lewis, Hillier, Van Meerbergen, Cuddy, Stevenson; nays include Mayor Morgan and 9 others -- matches manifest exactly). Quote verbatim-confirmed and fully self-contained/operative -- not a wrapper. Issue=encampments: the item's own leave-to-move preamble (content index 0) identifies the underlying program as \"Federal Reaching Home / Ontario Housing Prevention Program (HPP)\" -- Reaching Home is Canada's federal Homelessness Strategy funding stream, which substantively supports the encampments/homelessness classification even though the clause's own text doesn't contain a literal issue-rules.ts keyword. Axis=response-scale/restrictive: \"pause any new placements\" is a reduction of program intake -- it doesn't literally match the DECREASE regex vocabulary (decreas/reduc/lower/cut/remov/eliminat/clos/defund) but is unambiguously the same restrictive substance. Confidence=medium is appropriate given both of these required semantic (not literal-keyword) judgment calls; I could independently confirm both from source, so verdict is confirmed rather than downgraded."
