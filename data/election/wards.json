@@ -6,7 +6,10 @@
   "candidateListSource": "https://london.ca/sites/default/files/2026-08/2026%20CERTIFIED%20LIST%20OF%20CANDIDATES.pdf",
   "candidateListLocalCopy": "data/election/sources/2026-certified-list-of-candidates.pdf",
   "_candidateListLocalCopyComment": "Hub-recheck round-3 gate MINOR (2026-08-31): saved a local copy of the City's PDF into the repo so the candidacy claims below have a checkable artifact that doesn't depend on london.ca staying up or the URL staying live. Re-verified against this local copy at save time: No. 18 Mayor Josh Morgan, No. 38 Mayor Susan Stevenson, No. 4 Councillor Ward 5 Corrine Rahman all confirmed present; Jerry Pribil and Steve Hillier confirmed absent from every row (searched the full extracted text for both names, 0 hits each).",
-  "candidateListLastChecked": "2026-08-30 (certified list, nominations closed Aug 21 2026, list last modified Aug 28 2026)",
+  "_candidateListDatesComment": "Round-10 gate item 1: split from one hand-authored string ('2026-08-30 (certified list, nominations closed Aug 21 2026, list last modified Aug 28 2026)') that mixed a raw ISO date with two more dates in a third, non-ISO format -- into three plain ISO dates the generator runs through formatDate() so the rendered sentence uses one consistent format throughout.",
+  "candidateListCheckedDate": "2026-08-30",
+  "candidateListNominationsCloseDate": "2026-08-21",
+  "candidateListLastModifiedDate": "2026-08-28",
   "cityWardMapTool": "https://london.ca/government/council-civic-administration/elections",
   "wards": [
     {
@@ -38,7 +41,7 @@
       "ward": 5,
       "currentRepSlug": "j-pribil",
       "boundaryChanged2026": true,
-      "incumbent2026Note": "Jerry Pribil does not appear on the 2026 certified list of candidates for any ward or for Mayor (list checked 2026-08-30). Corrine Rahman, the outgoing Ward 7 councillor, is listed as a candidate in this ward under the new boundaries.",
+      "incumbent2026Note": "Jerry Pribil does not appear on the 2026 certified list of candidates for any ward or for Mayor (list checked Aug 30, 2026). Corrine Rahman, the outgoing Ward 7 councillor, is listed as a candidate in this ward under the new boundaries.",
       "source": "2026 certified candidate list: Jerry Pribil does not appear; Corrine Rahman is listed as a Councillor candidate for Ward 5."
     },
     {
@@ -94,7 +97,7 @@
       "ward": 14,
       "currentRepSlug": "s-hillier",
       "boundaryChanged2026": true,
-      "incumbent2026Note": "Steve Hillier does not appear on the 2026 certified list of candidates for any ward or for Mayor (list checked 2026-08-30). No outgoing Ward 14 councillor appears on the 2026 Ward 14 ballot.",
+      "incumbent2026Note": "Steve Hillier does not appear on the 2026 certified list of candidates for any ward or for Mayor (list checked Aug 30, 2026). No outgoing Ward 14 councillor appears on the 2026 Ward 14 ballot.",
       "source": "2026 certified candidate list: Steve Hillier does not appear as a candidate for any office."
     }
   ],

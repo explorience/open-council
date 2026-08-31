@@ -208,7 +208,16 @@ interface WardsFile {
   currentTermEndsNote: string;
   boundaryReviewSource: string;
   candidateListSource: string;
-  candidateListLastChecked: string;
+  // Round-10 gate item 1: this used to be one hand-authored string,
+  // "2026-08-30 (certified list, nominations closed Aug 21 2026, list last
+  // modified Aug 28 2026)", mixing a raw ISO date with two more dates in a
+  // THIRD format ("Aug 21 2026", neither ISO nor formatDate()'s own
+  // "August 21, 2026") in a single sentence. Split into three plain ISO
+  // dates so the generator can run every one of them through formatDate()
+  // and the sentence ends up in one consistent voter-facing format.
+  candidateListCheckedDate: string;
+  candidateListNominationsCloseDate: string;
+  candidateListLastModifiedDate: string;
   cityWardMapTool: string;
   wards: WardEntry[];
   unresolvedNote: string;
@@ -442,7 +451,7 @@ function renderLadderExclusions(axis: AxisStance): string {
             ex.anchorAmbiguous,
           );
           const theirVote = VOTE_LABEL[ex.theirVote] ?? ex.theirVote;
-          return `${theirVote} on ${link} (${ex.date}, counts as ${ex.axisDirection})`;
+          return `${theirVote} on ${link} (${formatDate(ex.date)}, counts as ${ex.axisDirection})`;
         })
         .join("; ");
       return `- ${parts}`;
@@ -467,7 +476,11 @@ function renderAxisSection(axis: AxisStance): string {
       );
       const theirVote = VOTE_LABEL[ev.theirVote] ?? ev.theirVote;
       const movedToward = ev.movedToward ?? "—";
-      return `| ${ev.date} | ${itemLink} | ${tcell(ev.motionSnippet)} | ${tcell(ev.whatAYeaDid)} | ${theirVote} | ${tcell(movedToward)} | ${resultCell(ev.result, ev.resultNote)} |`;
+      // Round-10 gate item 4 (mobile column order): "Their vote" moved to
+      // the second column, right after Date, so a phone reader sees the
+      // vote itself without swiping the table sideways — see the matching
+      // header reorder below.
+      return `| ${ev.date} | ${theirVote} | ${tcell(ev.whatAYeaDid)} | ${itemLink} | ${tcell(ev.motionSnippet)} | ${tcell(movedToward)} | ${resultCell(ev.result, ev.resultNote)} |`;
     })
     .join("\n");
 
@@ -498,10 +511,28 @@ function renderAxisSection(axis: AxisStance): string {
   const realVoteCount = axis.evidence.filter(
     (ev) => ev.theirVote === "yea" || ev.theirVote === "nay",
   ).length;
+  // Fixed 2026-08-31 (round-10 gate item 3): the parenthetical breakdown
+  // used to name BOTH categories unconditionally — "0 votes, 1
+  // recusal/absence/other" — whenever the row total and the real-vote
+  // count differed at all, even though that branch only guarantees the
+  // NON-vote category is non-empty; the vote category can legitimately be
+  // zero (an axis whose only evidence rows are recusals/absences). Only
+  // named here when its own count is > 0. "rows" also used to stay plural
+  // even at a count of 1.
+  const nonVoteCount = axis.evidence.length - realVoteCount;
+  const breakdownParts: string[] = [];
+  if (realVoteCount > 0) {
+    breakdownParts.push(`${realVoteCount} vote${realVoteCount === 1 ? "" : "s"}`);
+  }
+  if (nonVoteCount > 0) {
+    breakdownParts.push(
+      `${nonVoteCount} recusal${nonVoteCount === 1 ? "" : "s"}/absence${nonVoteCount === 1 ? "" : "s"}/other`,
+    );
+  }
   const summaryText =
     realVoteCount === axis.evidence.length
       ? `Show all ${realVoteCount} vote${realVoteCount === 1 ? "" : "s"} behind this pattern${itemsNote}`
-      : `Show all ${axis.evidence.length} rows behind this pattern (${realVoteCount} vote${realVoteCount === 1 ? "" : "s"}, ${axis.evidence.length - realVoteCount} recusal${axis.evidence.length - realVoteCount === 1 ? "" : "s"}/absence${axis.evidence.length - realVoteCount === 1 ? "" : "s"}/other)${itemsNote}`;
+      : `Show all ${axis.evidence.length} row${axis.evidence.length === 1 ? "" : "s"} behind this pattern (${breakdownParts.join(", ")})${itemsNote}`;
 
   return `#### ${axis.axisLabels.expansive} vs. ${axis.axisLabels.restrictive}
 
@@ -510,8 +541,8 @@ ${renderLadderExclusions(axis)}
 <details class="eh-evidence">
 <summary>${summaryText}</summary>
 
-| Date | Item | Motion (excerpt) | What a yea did | Their vote | Their vote moved toward | Result |
-|------|------|-------------------|-----------------|------------|--------------------------|--------|
+| Date | Their vote | What a yea did | Item | Motion (excerpt) | Their vote moved toward | Result |
+|------|------------|-----------------|------|-------------------|--------------------------|--------|
 ${evidenceRows}
 
 
@@ -552,7 +583,9 @@ function renderUnclearSection(issue: IssueStance): string {
       // stances.json (see evidenceEntry in generate-stances.ts) but was
       // never rendered here, leaving "no clear direction" motions with
       // nothing but a raw motion-text excerpt to explain them.
-      return `| ${ev.date} | ${itemLink} | ${tcell(ev.motionSnippet)} | ${tcell(ev.whatAYeaDid)} | ${theirVote} | ${resultCell(ev.result, ev.resultNote)} |`;
+      // Round-10 gate item 4: "Their vote" moved to the second column, same
+      // reorder as renderAxisSection's evidence table above.
+      return `| ${ev.date} | ${theirVote} | ${tcell(ev.whatAYeaDid)} | ${itemLink} | ${tcell(ev.motionSnippet)} | ${resultCell(ev.result, ev.resultNote)} |`;
     })
     .join("\n");
 
@@ -560,8 +593,8 @@ function renderUnclearSection(issue: IssueStance): string {
 <details class="eh-evidence">
 <summary>${issue.unclearEvidence.length} motion${issue.unclearEvidence.length === 1 ? "" : "s"} with no clear direction on this issue (excluded from the pattern counts above; shown for transparency, not as evidence of a position)</summary>
 
-| Date | Item | Motion (excerpt) | What a yea did | Their vote | Result |
-|------|------|-------------------|-----------------|------------|--------|
+| Date | Their vote | What a yea did | Item | Motion (excerpt) | Result |
+|------|------------|-----------------|------|-------------------|--------|
 ${rows}
 
 
@@ -598,7 +631,22 @@ function renderIssueSection(issueSlug: string, issue: IssueStance): string {
     o.ladderExcluded > 0
       ? ` (${o.ladderExcluded} of these are excluded from the pattern counts — see below)`
       : "";
-  const nonPositionClause = ` ${o.recused} recused, ${o.absent} absent${o.abstain || o.other ? `, ${o.abstain} abstained, ${o.other} other` : ""}.`;
+  // Fixed 2026-08-31 (round-10 gate item 3 audit): this used to name
+  // "recused"/"absent" unconditionally — "0 recused, 0 absent." — even
+  // when both were zero and only abstain/other (already conditional) had
+  // anything to report, or when nothing at all did, publishing two vacuous
+  // zero-count facts as if they were findings. Same shape as the evidence-
+  // table zero-count clause this round's item 3 fixed; audited into and
+  // fixed here too. Every category named only when its own count is > 0;
+  // the whole clause disappears when all four are zero.
+  const nonPositionBits: string[] = [];
+  if (o.recused > 0) nonPositionBits.push(`${o.recused} recused`);
+  if (o.absent > 0) nonPositionBits.push(`${o.absent} absent`);
+  if (o.abstain > 0) nonPositionBits.push(`${o.abstain} abstained`);
+  if (o.other > 0) nonPositionBits.push(`${o.other} other`);
+  const nonPositionClause = nonPositionBits.length
+    ? ` ${nonPositionBits.join(", ")}.`
+    : "";
 
   // Fixed 2026-08-31 (round-6 gate BLOCKER: the round-5 fix INVERTED this
   // claim instead of eliminating it — "was on the roster for" / "attended
@@ -828,7 +876,10 @@ function generateIssuesIndexPage(issues: IssuesFile): string {
     .join("\n");
 
   const sampleRows = issues.unclassified.sample
-    .map((s) => `- ${s.date} — ${tcell(s.itemTitle)} (item ${s.itemNumber})`)
+    .map(
+      (s) =>
+        `- ${formatDate(s.date)} — ${tcell(s.itemTitle)} (item ${s.itemNumber})`,
+    )
     .join("\n");
 
   return `---
@@ -1011,7 +1062,7 @@ ${rows}
 
 ${wardsData.unresolvedNote}
 
-For the authoritative, official candidate list for every ward, see the City Clerk's [certified list of candidates](${wardsData.candidateListSource}) (checked ${wardsData.candidateListLastChecked}). Per this hub's scope, only current councillors get a stance profile here — challengers don't have a council voting record to summarize.
+For the authoritative, official candidate list for every ward, see the City Clerk's [certified list of candidates](${wardsData.candidateListSource}) (checked ${formatDate(wardsData.candidateListCheckedDate)} — certified list, nominations closed ${formatDate(wardsData.candidateListNominationsCloseDate)}, list last modified ${formatDate(wardsData.candidateListLastModifiedDate)}). Per this hub's scope, only current councillors get a stance profile here — challengers don't have a council voting record to summarize.
 
 <script>
 (function () {
