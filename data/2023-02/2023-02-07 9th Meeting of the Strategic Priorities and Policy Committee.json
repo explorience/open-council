@@ -123,7 +123,8 @@
                       "J. Pribil",
                       "S. Trosow",
                       "S. Franke",
-                      "D. Ferreira,C. Rahman"
+                      "D. Ferreira",
+                      "C. Rahman"
                     ]
                   },
                   {
@@ -230,7 +231,8 @@
                       "J. Pribil",
                       "S. Trosow",
                       "S. Franke",
-                      "D. Ferreira,C. Rahman"
+                      "D. Ferreira",
+                      "C. Rahman"
                     ]
                   },
                   {
@@ -286,7 +288,8 @@
                       "S. Stevenson",
                       "J. Pribil",
                       "S. Franke",
-                      "D. Ferreira,C. Rahman"
+                      "D. Ferreira",
+                      "C. Rahman"
                     ]
                   },
                   {
@@ -348,7 +351,8 @@
                       "J. Pribil",
                       "S. Trosow",
                       "S. Franke",
-                      "D. Ferreira,C. Rahman"
+                      "D. Ferreira",
+                      "C. Rahman"
                     ]
                   },
                   {
@@ -484,7 +488,8 @@
                       "J. Pribil",
                       "S. Trosow",
                       "S. Franke",
-                      "D. Ferreira,C. Rahman"
+                      "D. Ferreira",
+                      "C. Rahman"
                     ]
                   },
                   {
@@ -562,7 +567,8 @@
                       "H. McAlister",
                       "S. Trosow",
                       "S. Franke",
-                      "D. Ferreira,C. Rahman"
+                      "D. Ferreira",
+                      "C. Rahman"
                     ]
                   },
                   {
@@ -571,7 +577,8 @@
                       "S. Lewis",
                       "S. Hillier",
                       "P. Van Meerbergen",
-                      "S. Stevenson,J. Pribil"
+                      "S. Stevenson",
+                      "J. Pribil"
                     ]
                   },
                   {
@@ -644,7 +651,8 @@
                       "S. Stevenson",
                       "J. Pribil",
                       "S. Franke",
-                      "D. Ferreira,C. Rahman"
+                      "D. Ferreira",
+                      "C. Rahman"
                     ]
                   },
                   {
@@ -696,7 +704,8 @@
                       "P. Cuddy",
                       "S. Trosow",
                       "S. Franke",
-                      "D. Ferreira,C. Rahman"
+                      "D. Ferreira",
+                      "C. Rahman"
                     ]
                   },
                   {
@@ -704,13 +713,15 @@
                     "voters": [
                       "A. Hopkins",
                       "S. Lewis",
-                      "S. Stevenson,J. Pribil"
+                      "S. Stevenson",
+                      "J. Pribil"
                     ]
                   },
                   {
                     "vote": "3.",
                     "voters": [
-                      "S. Hillier,P. Van Meerbergen"
+                      "S. Hillier",
+                      "P. Van Meerbergen"
                     ]
                   },
                   {
@@ -777,13 +788,15 @@
                       "J. Pribil",
                       "S. Trosow",
                       "S. Franke",
-                      "D. Ferreira,C. Rahman"
+                      "D. Ferreira",
+                      "C. Rahman"
                     ]
                   },
                   {
                     "vote": "Absent:",
                     "voters": [
-                      "P. Van Meerbergen,S. Lehman"
+                      "P. Van Meerbergen",
+                      "S. Lehman"
                     ]
                   }
                 ],
@@ -819,7 +832,8 @@
                     "voters": [
                       "S. Hillier",
                       "S. Trosow",
-                      "D. Ferreira,C. Rahman"
+                      "D. Ferreira",
+                      "C. Rahman"
                     ]
                   },
                   {
@@ -829,14 +843,16 @@
                       "S. Lewis",
                       "P. Cuddy",
                       "S. Stevenson",
-                      "J. Pribil,S. Franke"
+                      "J. Pribil",
+                      "S. Franke"
                     ]
                   },
                   {
                     "vote": "3.",
                     "voters": [
                       "J. Morgan",
-                      "E. Peloza,H. McAlister"
+                      "E. Peloza",
+                      "H. McAlister"
                     ]
                   },
                   {
@@ -854,7 +870,8 @@
                   {
                     "vote": "Absent",
                     "voters": [
-                      "P. Van Meerbergen,S. Lehman"
+                      "P. Van Meerbergen",
+                      "S. Lehman"
                     ]
                   }
                 ],
@@ -893,7 +910,8 @@
                       "E. Peloza",
                       "H. McAlister",
                       "S. Trosow",
-                      "D. Ferreira,C. Rahman"
+                      "D. Ferreira",
+                      "C. Rahman"
                     ]
                   },
                   {
@@ -903,7 +921,8 @@
                       "S. Lewis",
                       "P. Cuddy",
                       "S. Stevenson",
-                      "J. Pribil,S. Franke"
+                      "J. Pribil",
+                      "S. Franke"
                     ]
                   },
                   {
@@ -921,7 +940,8 @@
                   {
                     "vote": "Absent",
                     "voters": [
-                      "P. Van Meerbergen,S. Lehman"
+                      "P. Van Meerbergen",
+                      "S. Lehman"
                     ]
                   }
                 ],
@@ -966,13 +986,15 @@
                       "J. Pribil",
                       "S. Trosow",
                       "S. Franke",
-                      "D. Ferreira,C. Rahman"
+                      "D. Ferreira",
+                      "C. Rahman"
                     ]
                   },
                   {
                     "vote": "Absent:",
                     "voters": [
-                      "P. Van Meerbergen,S. Lehman"
+                      "P. Van Meerbergen",
+                      "S. Lehman"
                     ]
                   }
                 ],
@@ -1033,13 +1055,15 @@
                       "J. Pribil",
                       "S. Trosow",
                       "S. Franke",
-                      "D. Ferreira,C. Rahman"
+                      "D. Ferreira",
+                      "C. Rahman"
                     ]
                   },
                   {
                     "vote": "Absent:",
                     "voters": [
-                      "P. Van Meerbergen,S. Lehman"
+                      "P. Van Meerbergen",
+                      "S. Lehman"
                     ]
                   }
                 ],
@@ -1116,13 +1140,15 @@
                       "J. Pribil",
                       "S. Trosow",
                       "S. Franke",
-                      "D. Ferreira,C. Rahman"
+                      "D. Ferreira",
+                      "C. Rahman"
                     ]
                   },
                   {
                     "vote": "Absent:",
                     "voters": [
-                      "P. Van Meerbergen,S. Lehman"
+                      "P. Van Meerbergen",
+                      "S. Lehman"
                     ]
                   }
                 ],
@@ -1167,13 +1193,15 @@
                       "J. Pribil",
                       "S. Trosow",
                       "S. Franke",
-                      "D. Ferreira,C. Rahman"
+                      "D. Ferreira",
+                      "C. Rahman"
                     ]
                   },
                   {
                     "vote": "Absent:",
                     "voters": [
-                      "P. Van Meerbergen,S. Lehman"
+                      "P. Van Meerbergen",
+                      "S. Lehman"
                     ]
                   }
                 ],
@@ -1238,13 +1266,15 @@
                       "J. Pribil",
                       "S. Trosow",
                       "S. Franke",
-                      "D. Ferreira,C. Rahman"
+                      "D. Ferreira",
+                      "C. Rahman"
                     ]
                   },
                   {
                     "vote": "Absent:",
                     "voters": [
-                      "P. Van Meerbergen,S. Lehman"
+                      "P. Van Meerbergen",
+                      "S. Lehman"
                     ]
                   }
                 ],
@@ -1309,13 +1339,15 @@
                       "J. Pribil",
                       "S. Trosow",
                       "S. Franke",
-                      "D. Ferreira,C. Rahman"
+                      "D. Ferreira",
+                      "C. Rahman"
                     ]
                   },
                   {
                     "vote": "Absent:",
                     "voters": [
-                      "P. Van Meerbergen,S. Lehman"
+                      "P. Van Meerbergen",
+                      "S. Lehman"
                     ]
                   }
                 ],
@@ -1384,13 +1416,15 @@
                       "J. Pribil",
                       "S. Trosow",
                       "S. Franke",
-                      "D. Ferreira,C. Rahman"
+                      "D. Ferreira",
+                      "C. Rahman"
                     ]
                   },
                   {
                     "vote": "Absent:",
                     "voters": [
-                      "P. Van Meerbergen,S. Lehman"
+                      "P. Van Meerbergen",
+                      "S. Lehman"
                     ]
                   }
                 ],
@@ -1489,7 +1523,8 @@
                       "J. Pribil",
                       "S. Trosow",
                       "S. Franke",
-                      "D. Ferreira,C. Rahman"
+                      "D. Ferreira",
+                      "C. Rahman"
                     ]
                   },
                   {
@@ -1501,7 +1536,8 @@
                   {
                     "vote": "Absent:",
                     "voters": [
-                      "P. Van Meerbergen,S. Lehman"
+                      "P. Van Meerbergen",
+                      "S. Lehman"
                     ]
                   }
                 ],
@@ -1578,13 +1614,15 @@
                       "J. Pribil",
                       "S. Trosow",
                       "S. Franke",
-                      "D. Ferreira,C. Rahman"
+                      "D. Ferreira",
+                      "C. Rahman"
                     ]
                   },
                   {
                     "vote": "Absent:",
                     "voters": [
-                      "P. Van Meerbergen,S. Lehman"
+                      "P. Van Meerbergen",
+                      "S. Lehman"
                     ]
                   }
                 ],

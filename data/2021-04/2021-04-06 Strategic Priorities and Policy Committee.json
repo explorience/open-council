@@ -107,7 +107,8 @@
                   "J. Helmer",
                   "M. Cassidy",
                   "P. Squire",
-                  "J. Morgan,S. Turner"
+                  "J. Morgan",
+                  "S. Turner"
                 ]
               },
               {
@@ -276,7 +277,8 @@
                       "M. Cassidy",
                       "P. Squire",
                       "J. Morgan",
-                      "A. Hopkins,S. Turner"
+                      "A. Hopkins",
+                      "S. Turner"
                     ]
                   }
                 ],
@@ -369,7 +371,8 @@
                       "M. Cassidy",
                       "P. Squire",
                       "J. Morgan",
-                      "A. Hopkins,S. Turner"
+                      "A. Hopkins",
+                      "S. Turner"
                     ]
                   }
                 ],
@@ -436,7 +439,8 @@
                       "M. Cassidy",
                       "P. Squire",
                       "J. Morgan",
-                      "A. Hopkins,S. Turner"
+                      "A. Hopkins",
+                      "S. Turner"
                     ]
                   }
                 ],
@@ -502,7 +506,8 @@
                       "J. Helmer",
                       "M. Cassidy",
                       "P. Squire",
-                      "J. Morgan,A. Hopkins"
+                      "J. Morgan",
+                      "A. Hopkins"
                     ]
                   },
                   {
@@ -572,14 +577,16 @@
                       "M. Salih",
                       "J. Helmer",
                       "M. Cassidy",
-                      "P. Squire,J. Morgan"
+                      "P. Squire",
+                      "J. Morgan"
                     ]
                   },
                   {
                     "vote": "Nays:",
                     "voters": [
                       "P. Van Meerbergen",
-                      "A. Hopkins,S. Turner"
+                      "A. Hopkins",
+                      "S. Turner"
                     ]
                   }
                 ],

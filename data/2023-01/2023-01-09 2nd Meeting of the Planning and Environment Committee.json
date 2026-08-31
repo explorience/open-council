@@ -112,7 +112,8 @@
                   "A. Hopkins ",
                   "S. Lewis",
                   "S. Hillier",
-                  "S. Lehman,S. Franke"
+                  "S. Lehman",
+                  "S. Franke"
                 ]
               },
               {
@@ -416,7 +417,8 @@
                       "A. Hopkins ",
                       "S. Lewis",
                       "S. Hillier",
-                      "S. Lehman,S. Franke"
+                      "S. Lehman",
+                      "S. Franke"
                     ]
                   },
                   {
@@ -491,7 +493,8 @@
                       "A. Hopkins ",
                       "S. Lewis",
                       "S. Hillier",
-                      "S. Lehman,S. Franke"
+                      "S. Lehman",
+                      "S. Franke"
                     ]
                   },
                   {
@@ -554,7 +557,8 @@
                       "A. Hopkins ",
                       "S. Lewis",
                       "S. Hillier",
-                      "S. Lehman,S. Franke"
+                      "S. Lehman",
+                      "S. Franke"
                     ]
                   },
                   {
@@ -644,7 +648,8 @@
                       "A. Hopkins ",
                       "S. Lewis",
                       "S. Hillier",
-                      "S. Lehman,S. Franke"
+                      "S. Lehman",
+                      "S. Franke"
                     ]
                   },
                   {
@@ -692,7 +697,8 @@
                       "A. Hopkins ",
                       "S. Lewis",
                       "S. Hillier",
-                      "S. Lehman,S. Franke"
+                      "S. Lehman",
+                      "S. Franke"
                     ]
                   },
                   {
@@ -735,7 +741,8 @@
                       "A. Hopkins ",
                       "S. Lewis",
                       "S. Hillier",
-                      "S. Lehman,S. Franke"
+                      "S. Lehman",
+                      "S. Franke"
                     ]
                   },
                   {
@@ -850,7 +857,8 @@
                       "A. Hopkins ",
                       "S. Lewis",
                       "S. Hillier",
-                      "S. Lehman,S. Franke"
+                      "S. Lehman",
+                      "S. Franke"
                     ]
                   },
                   {
@@ -895,14 +903,16 @@
                   {
                     "vote": "Yeas:",
                     "voters": [
-                      "A. Hopkins ,S. Franke"
+                      "A. Hopkins",
+                      "S. Franke"
                     ]
                   },
                   {
                     "vote": "Nays:",
                     "voters": [
                       "S. Lewis",
-                      "S. Hillier,S. Lehman"
+                      "S. Hillier",
+                      "S. Lehman"
                     ]
                   },
                   {
@@ -945,7 +955,8 @@
                       "A. Hopkins ",
                       "S. Lewis",
                       "S. Hillier",
-                      "S. Lehman,S. Franke"
+                      "S. Lehman",
+                      "S. Franke"
                     ]
                   },
                   {
@@ -988,7 +999,8 @@
                       "A. Hopkins ",
                       "S. Lewis",
                       "S. Hillier",
-                      "S. Lehman,S. Franke"
+                      "S. Lehman",
+                      "S. Franke"
                     ]
                   },
                   {
@@ -1071,7 +1083,8 @@
                       "A. Hopkins ",
                       "S. Lewis",
                       "S. Hillier",
-                      "S. Lehman,S. Franke"
+                      "S. Lehman",
+                      "S. Franke"
                     ]
                   },
                   {
@@ -1113,13 +1126,15 @@
                     "voters": [
                       "A. Hopkins ",
                       "S. Hillier",
-                      "S. Lehman,S. Franke"
+                      "S. Lehman",
+                      "S. Franke"
                     ]
                   },
                   {
                     "vote": "Absent:",
                     "voters": [
-                      "Mayor J. Morgan,S. Lewis"
+                      "Mayor J. Morgan",
+                      "S. Lewis"
                     ]
                   }
                 ],
@@ -1156,7 +1171,8 @@
                       "A. Hopkins ",
                       "S. Lewis",
                       "S. Hillier",
-                      "S. Lehman,S. Franke"
+                      "S. Lehman",
+                      "S. Franke"
                     ]
                   },
                   {
@@ -1243,7 +1259,8 @@
                       "A. Hopkins ",
                       "S. Lewis",
                       "S. Hillier",
-                      "S. Lehman,S. Franke"
+                      "S. Lehman",
+                      "S. Franke"
                     ]
                   },
                   {
@@ -1286,7 +1303,8 @@
                       "A. Hopkins ",
                       "S. Lewis",
                       "S. Hillier",
-                      "S. Lehman,S. Franke"
+                      "S. Lehman",
+                      "S. Franke"
                     ]
                   },
                   {
@@ -1329,7 +1347,8 @@
                       "A. Hopkins ",
                       "S. Lewis",
                       "S. Hillier",
-                      "S. Lehman,S. Franke"
+                      "S. Lehman",
+                      "S. Franke"
                     ]
                   },
                   {
@@ -1408,7 +1427,8 @@
                       "A. Hopkins ",
                       "S. Lewis",
                       "S. Hillier",
-                      "S. Lehman,S. Franke"
+                      "S. Lehman",
+                      "S. Franke"
                     ]
                   },
                   {
@@ -1451,7 +1471,8 @@
                       "A. Hopkins ",
                       "S. Lewis",
                       "S. Hillier",
-                      "S. Lehman,S. Franke"
+                      "S. Lehman",
+                      "S. Franke"
                     ]
                   },
                   {
@@ -1494,7 +1515,8 @@
                       "A. Hopkins ",
                       "S. Lewis",
                       "S. Hillier",
-                      "S. Lehman,S. Franke"
+                      "S. Lehman",
+                      "S. Franke"
                     ]
                   },
                   {
@@ -1597,7 +1619,8 @@
                       "A. Hopkins ",
                       "S. Lewis",
                       "S. Hillier",
-                      "S. Lehman,S. Franke"
+                      "S. Lehman",
+                      "S. Franke"
                     ]
                   },
                   {
@@ -1680,7 +1703,8 @@
                       "A. Hopkins ",
                       "S. Lewis",
                       "S. Hillier",
-                      "S. Lehman,S. Franke"
+                      "S. Lehman",
+                      "S. Franke"
                     ]
                   },
                   {
@@ -1723,7 +1747,8 @@
                       "A. Hopkins ",
                       "S. Lewis",
                       "S. Hillier",
-                      "S. Lehman,S. Franke"
+                      "S. Lehman",
+                      "S. Franke"
                     ]
                   },
                   {
@@ -1766,7 +1791,8 @@
                       "A. Hopkins ",
                       "S. Lewis",
                       "S. Hillier",
-                      "S. Lehman,S. Franke"
+                      "S. Lehman",
+                      "S. Franke"
                     ]
                   },
                   {
@@ -1869,7 +1895,8 @@
                       "A. Hopkins ",
                       "S. Lewis",
                       "S. Hillier",
-                      "S. Lehman,S. Franke"
+                      "S. Lehman",
+                      "S. Franke"
                     ]
                   },
                   {
@@ -1912,7 +1939,8 @@
                       "A. Hopkins ",
                       "S. Lewis",
                       "S. Hillier",
-                      "S. Lehman,S. Franke"
+                      "S. Lehman",
+                      "S. Franke"
                     ]
                   },
                   {
@@ -1955,7 +1983,8 @@
                       "A. Hopkins ",
                       "S. Lewis",
                       "S. Hillier",
-                      "S. Lehman,S. Franke"
+                      "S. Lehman",
+                      "S. Franke"
                     ]
                   },
                   {
