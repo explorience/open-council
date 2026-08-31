@@ -1312,10 +1312,16 @@ function buildPattern(
   }
   if (distinctItemCount < MIN_PATTERN_SAMPLE_SIZE) {
     const itemWord = distinctItemCount === 1 ? "decision" : "decisions";
+    // Fixed 2026-08-31 (round-2 gate item 4): "across them" always used the
+    // plural pronoun even when distinctItemCount === 1 — "1 distinct
+    // decision ... (2 recorded votes across them)" refers a plural pronoun
+    // back to a singular "decision". Keyed off distinctItemCount (the noun
+    // this pronoun actually stands in for), not sampleSize.
+    const acrossWord = distinctItemCount === 1 ? "it" : "them";
     const voteClause =
       sampleSize === distinctItemCount
         ? ""
-        : ` (${sampleSize} recorded vote${sampleSize === 1 ? "" : "s"} across them)`;
+        : ` (${sampleSize} recorded vote${sampleSize === 1 ? "" : "s"} across ${acrossWord})`;
     // Fixed 2026-08-31 (transit-split gate item 5): "is"/"are" must agree
     // with the sentence's own subject, "the individual vote(s)" — whose
     // plurality is sampleSize (the vote count), not distinctItemCount (the
@@ -1764,6 +1770,21 @@ function writeStancesFile(
             // uses) is carried through so the bullet can say what THIS
             // specific motion did, not just where it lives.
             whatAYeaDid: string;
+            // Fixed 2026-08-31 (round-2 gate items 6 and 8): carried
+            // through so generate-hub-pages.ts's ladder-exclusion bullet
+            // can (a) append this row's own result tally — two rows that
+            // otherwise share whatAYeaDid/date/item/direction (e.g.
+            // 1c0f60d005b5 and d2ed469d2746, two SEPARATE recorded votes on
+            // literally the same part-c) text) still differ by their own
+            // tally, so appending it means no two bullets in one group are
+            // ever byte-identical — and (b) suffix a bare committee-stage
+            // whatAYeaDid the same way the main evidence table does (see
+            // withStageQualifier there), so a ladder-excluded committee
+            // vote isn't the one place on the hub still missing that
+            // disclosure.
+            meetingType: string;
+            result: string;
+            resultNote: string | null;
           }[] = [];
           for (const group of groups) {
             const directions = new Set(
@@ -1784,6 +1805,9 @@ function writeStancesFile(
                   theirVote: row.theirVote,
                   axisDirection: row.axisDirection,
                   whatAYeaDid: row.whatAYeaDid,
+                  meetingType: row.meetingType,
+                  result: row.result,
+                  resultNote: row.resultNote,
                 });
               }
               ladderGroupIndex++;
@@ -1862,6 +1886,27 @@ function writeStancesFile(
           // recusal/absence rows, so it still covers every row shown in the
           // table below, not just the yea/nay subset distinctItemCount
           // itself is restricted to).
+          //
+          // evidenceDecisionCount is deliberately computed over the FULL,
+          // unfiltered sortedEvidence (ladder-excluded rows included) — the
+          // evidence table below still shows every row (verify-n-semantics.py
+          // re-derives its own N independently from the table's own rendered
+          // "Their vote" column and requires it to equal
+          // sampleSize+ladderExcluded, so ladder-excluded yea/nay rows must
+          // stay IN the table, not just in the ladder-exclusion box above
+          // it). What changed instead (round-2 gate item 2): the table's own
+          // claim about those rows. "1 distinct decision (2 recorded votes)"
+          // right above a details summary claiming "5 votes behind this
+          // pattern...across 2 distinct decisions" for the SAME axis falsely
+          // implied all 5 were behind the pattern, when 3 of them are the
+          // exact rows the ladder-exclusion box above just said are excluded
+          // from it. ladderExcludedDecisionCount (the count of decision
+          // groups ladderExclusions spans, i.e. ladderGroupIndex's final
+          // value) is threaded through here so renderAxisSection's summary
+          // line in generate-hub-pages.ts can name that split explicitly
+          // ("N behind this pattern; M excluded from it — see above")
+          // instead of folding excluded votes into an undifferentiated
+          // "behind this pattern" total.
           const evidenceDecisionCount = groupIntoDecisions(sortedEvidence).length;
           return {
             axis: agg.axis,
@@ -1869,6 +1914,7 @@ function writeStancesFile(
             sampleSize,
             distinctItemCount,
             evidenceDecisionCount,
+            ladderExcludedDecisionCount: ladderGroupIndex,
             for: forCount,
             against: againstCount,
             forPct: pct(forCount, sampleSize),

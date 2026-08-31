@@ -126,6 +126,13 @@ interface AxisStance {
   sampleSize: number;
   distinctItemCount: number;
   evidenceDecisionCount: number;
+  // Round-2 gate item 2: count of decision groups axis.ladderExclusions
+  // spans — see the matching field in generate-stances.ts. Used by
+  // renderAxisSection to name the pattern/excluded decision split
+  // explicitly instead of letting evidenceDecisionCount (which spans both)
+  // read as if it agreed with distinctItemCount (which counts only the
+  // pattern side).
+  ladderExcludedDecisionCount: number;
   for: number;
   against: number;
   forPct: string;
@@ -152,6 +159,11 @@ interface AxisStance {
     // Transit-split gate item 3: this row's own independently-verified
     // whatAYeaDid text — see the matching field in generate-stances.ts.
     whatAYeaDid: string;
+    // Round-2 gate items 6 and 8: see the matching fields in
+    // generate-stances.ts's ladderExclusions push.
+    meetingType: string;
+    result: string;
+    resultNote: string | null;
   }[];
   evidence: EvidenceRow[];
 }
@@ -304,6 +316,25 @@ function motionLink(
     : base;
 }
 
+/** Round-2 gate item 8: a committee (any meetingType other than "Council")
+ * only ever RECOMMENDS — its votes are never binding on their own, only
+ * Council's are. A whatAYeaDid string built from a committee-stage motion's
+ * own binding-sounding verb ("Approved...", "Directed...", "Awarded...")
+ * reads as if that committee vote settled the matter, when in most cases
+ * it's a recommendation still headed to Council. Mechanical, render-time
+ * disclosure: suffix " (committee stage)" onto any committee-sourced
+ * whatAYeaDid, unless the text already signals its own stage — the
+ * "Recommended approving..." house phrasing already used across this
+ * corpus (see corrections.json's committee-approval wording sweep), or an
+ * explicit "committee stage" mention — so nothing is ever double-suffixed.
+ * No text is rewritten; this only ever appends. */
+const STAGE_SIGNAL_RE = /^recommended\b|\bcommittee stage\b/i;
+function withStageQualifier(whatAYeaDid: string, meetingType: string): string {
+  if (meetingType === "Council") return whatAYeaDid;
+  if (STAGE_SIGNAL_RE.test(whatAYeaDid)) return whatAYeaDid;
+  return `${whatAYeaDid} (committee stage)`;
+}
+
 const VOTE_LABEL: Record<string, string> = {
   yea: "Yea",
   nay: "Nay",
@@ -443,9 +474,16 @@ function renderLadderExclusions(axis: AxisStance): string {
     }
     g.push(ex);
   }
+  // Fixed 2026-08-31 (round-2 gate item 5): this used to join every row in
+  // one decision group into a SINGLE run-on bullet with "; " — several
+  // distinct motions, each with its own date, link, and result, buried
+  // inside one list item a reader can't cite or link to individually. Each
+  // row is now its own bullet; a blank line still separates one decision
+  // group's bullets from the next, so a reader can still tell where one
+  // ladder ends and another begins.
   const items = [...groups.values()]
-    .map((rows) => {
-      const parts = rows
+    .map((rows) =>
+      rows
         .map((ex) => {
           const link = motionLink(
             ex.itemTitle || "(untitled item)",
@@ -460,15 +498,40 @@ function renderLadderExclusions(axis: AxisStance): string {
           // ladder-excluded motion from another. ex.whatAYeaDid is this
           // row's own independently-verified description of what THIS
           // motion did (same text the evidence table's own column shows).
-          return `${theirVote}: ${ex.whatAYeaDid} — ${link} (${formatDate(ex.date)}, counts as ${ex.axisDirection})`;
+          // Round-2 gate item 8: suffixed the same way the main evidence
+          // table is — a ladder-excluded committee vote still gets the
+          // same committee-stage disclosure as everything else.
+          const whatAYeaDid = withStageQualifier(ex.whatAYeaDid, ex.meetingType);
+          // Fixed 2026-08-31 (round-2 gate item 6): two rows in the same
+          // decision group can otherwise share an identical
+          // whatAYeaDid/date/item/direction — e.g. 1c0f60d005b5 and
+          // d2ed469d2746, two SEPARATE recorded votes on the literal same
+          // part c) text, at the same meeting, moved by different
+          // councillors — and render byte-identical. Appending each row's
+          // own result tally (its one field that actually differs, e.g.
+          // "Motion Passed (11 to 3)" vs "Motion Passed (9 to 5)") means no
+          // two bullets in one group are ever identical; see
+          // verify-ladder-bullets-distinct.py.
+          return `- ${theirVote}: ${tcell(whatAYeaDid)} — ${link} (${formatDate(ex.date)}, counts as ${ex.axisDirection}, ${resultCell(ex.result, ex.resultNote)})`;
         })
-        .join("; ");
-      return `- ${parts}`;
-    })
-    .join("\n");
+        .join("\n"),
+    )
+    .join("\n\n");
   const n = axis.ladderExclusions.length;
+  const groupCount = groups.size;
+  // Fixed 2026-08-31 (round-2 gate item 3): "different wordings of the same
+  // decision" asserted every excluded group was an amendment-wording
+  // dispute — false for a decision like Trosow's road-capacity ratification
+  // (an amendment vote, then a separate ratification vote on the amended
+  // whole; not two wordings of one question). Reworded to the fact this
+  // data actually proves for every group here, wording dispute or not: the
+  // councillor's own recorded votes, within one decision, landed on
+  // different sides across that decision's stages.
+  const decisionPhrase =
+    groupCount === 1 ? "this decision" : `each of these ${groupCount} decisions`;
+  const itsTheir = groupCount === 1 ? "its" : "their";
   return `
-**${n} vote${n === 1 ? "" : "s"} excluded from the pattern above:** within a same-day, same-subject group of motions (an amendment offering different wordings of the same decision), this councillor's votes pointed in more than one direction on this axis — neither a "for" nor an "against" that the pattern sentence can honestly claim, so none of them are counted in the table or sentence above. Shown here instead of hidden:
+**${n} vote${n === 1 ? "" : "s"} excluded from the pattern above:** this councillor's recorded votes within ${decisionPhrase} pointed in different directions across ${itsTheir} stages, so none are counted in the tallies; each is listed here:
 
 ${items}
 `;
@@ -489,7 +552,9 @@ function renderAxisSection(axis: AxisStance): string {
       // the second column, right after Date, so a phone reader sees the
       // vote itself without swiping the table sideways — see the matching
       // header reorder below.
-      return `| ${ev.date} | ${theirVote} | ${tcell(ev.whatAYeaDid)} | ${itemLink} | ${tcell(ev.motionSnippet)} | ${tcell(movedToward)} | ${resultCell(ev.result, ev.resultNote)} |`;
+      // Round-2 gate item 8: withStageQualifier — see its own doc comment.
+      const whatAYeaDid = withStageQualifier(ev.whatAYeaDid, ev.meetingType);
+      return `| ${ev.date} | ${theirVote} | ${tcell(whatAYeaDid)} | ${itemLink} | ${tcell(ev.motionSnippet)} | ${tcell(movedToward)} | ${resultCell(ev.result, ev.resultNote)} |`;
     })
     .join("\n");
 
@@ -506,9 +571,21 @@ function renderAxisSection(axis: AxisStance): string {
   // when the prose is counting a different SUBSET of rows (distinctItemCount
   // excludes recusals/absences on purpose), never a different definition of
   // "distinct".
+  // Fixed 2026-08-31 (round-2 gate item 2): when this axis has ladder
+  // exclusions, evidenceDecisionCount spans BOTH the pattern-side decisions
+  // (axis.distinctItemCount) and the excluded-side decisions
+  // (axis.ladderExcludedDecisionCount) — printing it bare, the way this
+  // note always has, could read as agreeing or disagreeing with the
+  // pattern sentence's own "N distinct decisions" above with no indication
+  // it's actually counting a wider set. Named explicitly whenever there's
+  // an excluded side to name.
+  const decisionSplitNote =
+    axis.ladderExcludedDecisionCount > 0
+      ? ` — ${axis.distinctItemCount} behind this pattern, ${axis.ladderExcludedDecisionCount} excluded from it, see above`
+      : "";
   const itemsNote =
     axis.evidenceDecisionCount < axis.evidence.length
-      ? ` (${axis.evidence.length} rows across ${axis.evidenceDecisionCount} distinct decision${axis.evidenceDecisionCount === 1 ? "" : "s"} — some decisions had more than one recorded sub-motion or meeting stage, or a recorded absence/recusal alongside a vote)`
+      ? ` (${axis.evidence.length} rows across ${axis.evidenceDecisionCount} distinct decision${axis.evidenceDecisionCount === 1 ? "" : "s"}${decisionSplitNote} — some decisions had more than one recorded sub-motion or meeting stage, or a recorded absence/recusal alongside a vote)`
       : "";
 
   // Fixed 2026-08-31 (hub-recheck verdict finding 9): the evidence table
@@ -520,6 +597,19 @@ function renderAxisSection(axis: AxisStance): string {
   const realVoteCount = axis.evidence.filter(
     (ev) => ev.theirVote === "yea" || ev.theirVote === "nay",
   ).length;
+  // Fixed 2026-08-31 (round-2 gate item 2): realVoteCount includes any
+  // ladder-excluded yea/nay rows — same rows already shown, individually,
+  // in their own "excluded from the pattern above" box right before this
+  // table (renderLadderExclusions). Those are NOT "behind this pattern"
+  // (that's the entire reason they're excluded from
+  // axis.sampleSize/distinctItemCount) — split out here so the summary
+  // line below can never claim otherwise. patternVoteCount always equals
+  // axis.sampleSize when this axis's evidence is exactly its yea/nay rows
+  // (it can differ only if a future evidence source diverges from the
+  // ladder-adjusted tally, which would itself be a bug this equality would
+  // surface).
+  const excludedVoteCount = axis.ladderExclusions.length;
+  const patternVoteCount = realVoteCount - excludedVoteCount;
   // Fixed 2026-08-31 (round-10 gate item 3): the parenthetical breakdown
   // used to name BOTH categories unconditionally — "0 votes, 1
   // recusal/absence/other" — whenever the row total and the real-vote
@@ -530,7 +620,16 @@ function renderAxisSection(axis: AxisStance): string {
   // even at a count of 1.
   const nonVoteCount = axis.evidence.length - realVoteCount;
   const breakdownParts: string[] = [];
-  if (realVoteCount > 0) {
+  if (excludedVoteCount > 0) {
+    if (patternVoteCount > 0) {
+      breakdownParts.push(
+        `${patternVoteCount} vote${patternVoteCount === 1 ? "" : "s"} behind this pattern`,
+      );
+    }
+    breakdownParts.push(
+      `${excludedVoteCount} vote${excludedVoteCount === 1 ? "" : "s"} excluded from it, see above`,
+    );
+  } else if (realVoteCount > 0) {
     breakdownParts.push(`${realVoteCount} vote${realVoteCount === 1 ? "" : "s"}`);
   }
   if (nonVoteCount > 0) {
@@ -538,10 +637,19 @@ function renderAxisSection(axis: AxisStance): string {
       `${nonVoteCount} recusal${nonVoteCount === 1 ? "" : "s"}/absence${nonVoteCount === 1 ? "" : "s"}/other`,
     );
   }
+  // Fixed 2026-08-31 (round-2 gate item 2): "Show all N votes BEHIND THIS
+  // PATTERN" is only true when every row in the table actually is — false
+  // for an axis with ladder exclusions, where some of those N rows are the
+  // exact ones the box above just said are excluded from the pattern. Once
+  // any votes are excluded, the header drops the blanket claim and the
+  // per-bucket breakdown (built above) carries it instead, scoped to only
+  // the votes it's actually true of.
   const summaryText =
-    realVoteCount === axis.evidence.length
-      ? `Show all ${realVoteCount} vote${realVoteCount === 1 ? "" : "s"} behind this pattern${itemsNote}`
-      : `Show all ${axis.evidence.length} row${axis.evidence.length === 1 ? "" : "s"} behind this pattern (${breakdownParts.join(", ")})${itemsNote}`;
+    excludedVoteCount > 0
+      ? `Show all ${axis.evidence.length} row${axis.evidence.length === 1 ? "" : "s"} on this axis (${breakdownParts.join(", ")})${itemsNote}`
+      : realVoteCount === axis.evidence.length
+        ? `Show all ${realVoteCount} vote${realVoteCount === 1 ? "" : "s"} behind this pattern${itemsNote}`
+        : `Show all ${axis.evidence.length} row${axis.evidence.length === 1 ? "" : "s"} behind this pattern (${breakdownParts.join(", ")})${itemsNote}`;
 
   return `#### ${axis.axisLabels.expansive} vs. ${axis.axisLabels.restrictive}
 
@@ -594,7 +702,9 @@ function renderUnclearSection(issue: IssueStance): string {
       // nothing but a raw motion-text excerpt to explain them.
       // Round-10 gate item 4: "Their vote" moved to the second column, same
       // reorder as renderAxisSection's evidence table above.
-      return `| ${ev.date} | ${theirVote} | ${tcell(ev.whatAYeaDid)} | ${itemLink} | ${tcell(ev.motionSnippet)} | ${resultCell(ev.result, ev.resultNote)} |`;
+      // Round-2 gate item 8: withStageQualifier — see its own doc comment.
+      const whatAYeaDid = withStageQualifier(ev.whatAYeaDid, ev.meetingType);
+      return `| ${ev.date} | ${theirVote} | ${tcell(whatAYeaDid)} | ${itemLink} | ${tcell(ev.motionSnippet)} | ${resultCell(ev.result, ev.resultNote)} |`;
     })
     .join("\n");
 
