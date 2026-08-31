@@ -1,0 +1,512 @@
+[
+  {
+    "id": "4c82f95207fe",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved, as amended to add a privacy-fence design condition, introducing by-laws to amend the Official Plan and rezone 1047-1055 Dearness Drive from a Residential R9 Special Provision Bonus zone to a Residential R9 Special Provision zone for a new residential development.",
+    "confidence": "high",
+    "quote": "the proposed by-law as appended to the above-noted staff report as Appendix “B” BE INTRODUCED at the Municipal Council meeting to be held on August 25, 2026, to amend Zoning By-law No. Z.-1, in conformity with The Official Plan for the City of London, 2016 (The London Plan), as amended in the above-noted part a), to change the zoning of the subject property FROM a Residential R9 Special Provision Bonus (R9-1(3)*H19*B-79) Zone TO a Residential R9 Special Provision (R9-7(_)*H46) Zone;",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "b206f4de942a",
+    "issue": "transit",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing a by-law to enter into and execute a Contribution Agreement with the federal government for baseline Canada Public Transit Fund funding, and authorized related administrative acts.",
+    "confidence": "high",
+    "quote": "BE INTRODUCED at the Municipal Council meeting to be held on July 21, 2026, to:\n\n\n\ni)    approve the Contribution Agreement, appended as Schedule 1 to the proposed by-law, for the Canada Public Transit Fund – Baseline Funding (the “Agreement”) between His Majesty the King in Right of Canada as represented by the Minister of Infrastructure and Communities (“Canada”), and The Corporation of the City of London (the “Recipient”);",
+    "flags": []
+  },
+  {
+    "id": "a7f830659ba0",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved funding for the Green Development Framework Study, as set out in the Source of Financing Report.",
+    "confidence": "high",
+    "quote": "the funding for the Green Development Framework Study BE APPROVED as set out in the Source of Financing Report as appended to the above-noted staff report as Appendix “A”;",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "c7bf822cb0ae",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved, as amended to set a reduced 0.5-space-per-unit parking ratio for affordable housing units, introducing a by-law amending the Zoning By-law to increase minimum residential parking requirements citywide and adjust related parking rules.",
+    "confidence": "medium",
+    "quote": "BE INTRODUCED at the Municipal Council meeting to be held on July 21, 2026, to amend Zoning By-law No. Z.-1, by AMENDING Sections 4.19 and 4.37 to increase minimum residential parking requirements, revise residential driveway widths, permit parking in front yard or side yard driveways, establish exceptions, revise parking requirements for additional residential units (ARUs), and modify other related parking regulations;",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "780a4ce2d9bb",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved, as amended to add a sidewalk-improvement condition, introducing by-laws to amend the Official Plan and rezone 1076-1080 Commissioners Road West / 396-402 North Street from Residential R1 to a holding Residential R9 Special Provision zone for a new residential development.",
+    "confidence": "high",
+    "quote": "the proposed by-law as appended to the above-noted staff report as Appendix \"B\" BE INTRODUCED at the Municipal Council meeting on July 21, 2026, to amend Zoning By-law No. Z.-1, in conformity with The Official Plan for the City of London, 2016 (The London Plan), as amended in the above-noted part a), to change the zoning of the subject property FROM a Residential R1 (R1-9) Zone TO a holding Residential R9 Special Provision (h-13*R9-7(_)*H35) Zone; and,",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "6b7f409e1443",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred the rezoning/Official Plan amendment application for 755-765, 785 and 815 Wonderland Road South to a future Planning and Environment Committee meeting, to give the applicant more time to secure tenant commitments, rather than deciding the application now.",
+    "confidence": "high",
+    "quote": "BE REFERRED to a future meeting of the Planning and Environment Committee meeting for the reason of allowing the applicant and representatives additional time to obtain a suitable level of tenant commitment in support of the proposed Official Plan and Zoning By-law Amendments;",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "cb79206c7403",
+    "issue": "policing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred the Special Constable Program feasibility item to the August 25, 2026 Council meeting, to give the public more time to review and comment before Council acted on it; this failed.",
+    "confidence": "high",
+    "quote": "BE REFERRED to the Municipal Council meeting to be held on August 25, 2026, in order to provide additional time for members of the public to review the proposed direction and provide any comments to Council prior to a decision being made;",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "8b6d676e9921",
+    "issue": "policing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the wording of part e) of the requested Special Constable Program feasibility report to add a specific focus on a mixed CIR/Special Constable staffing model.",
+    "confidence": "high",
+    "quote": "That part e) of the motion be amended to read as follows:\ne) potential impacts on existing municipal service delivery models, including security services, Municipal Law Enforcement, Coordinated Informed Response teams, and relationships with the London Police Service and other community partners with a specific focus on the implementation of a mixed model CIR and Special Constable team; and,",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "c4edae11a020",
+    "issue": "policing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the wording of the feasibility report-back request to reframe it around a 'permanent' Special Constable Program and to add legislative authority over traffic and school-zone enforcement to what the report on legislative/regulatory requirements must cover.",
+    "confidence": "high",
+    "quote": "That the motion BE AMENDED by replacing the words \"establishing a City of London Special Constable Program\" with \"implementing a permanent City of London Special Constable Program\"; and amending clause c)\nc) legislative and regulatory requirements, including any required approvals, and the legislative authority respecting the enforcement of traffic-related offences, including within school zones;",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "d18f8e672d56",
+    "issue": "policing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved part d) of the amended report-back request, directing that the feasibility study include estimated costs, funding options including Automated Speed Enforcement Program revenue, and the financial feasibility of a permanent program.",
+    "confidence": "high",
+    "quote": "d) estimated capital and operating costs, funding options, including the potential use of revenues generated through the City's Automated Speed Enforcement Program, opportunities for external funding, and the financial feasibility of implementing a permanent program.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "e5b28940c89a",
+    "issue": "policing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved parts a), b), c), d), and f) of the amended motion directing the Civic Administration to report back to the Community and Protective Services Committee on the feasibility of implementing a permanent City of London Special Constable Program.",
+    "confidence": "high",
+    "quote": "That the Civic Administration BE DIRECTED to report back to the Community and Protective Services Committee on the feasibility of implementing a permanent City of London Special Constable Program, with the report to include:\na) the findings and recommendations of the Community Safety Knowledge Alliance (CSKA) Special Constable Feasibility Study;\nb) potential implementation models, timelines, governance structures, and operational considerations;\nc) legislative and regulatory requirements, including any required approvals, and the legislative authority respecting the enforcement of traffic-related offences, including within school zones;\nd) estimated capital and operating costs, funding options, including the potential use of revenues generated through the City's Automated Speed Enforcement Program, opportunities for external funding, and the financial feasibility of implementing a permanent program.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "0635364c133a",
+    "issue": "policing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved part e) of the amended motion, directing that the feasibility report also address impacts on existing service-delivery models with a specific focus on a mixed CIR/Special Constable staffing model.",
+    "confidence": "high",
+    "quote": "e) potential impacts on existing municipal service delivery models, including security services, Municipal Law Enforcement, Coordinated Informed Response teams, and relationships with the London Police Service and other community partners with a specific focus on the implementation of a mixed model CIR and Special Constable team; and,",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "dacffc4a4c65",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have directed Civic Administration to review the PW-15 Yard and Lot Maintenance by-law administrative fee and any cost recovery charged when a work order follows a property owner being the victim of a criminal act, including a best-practices scan; this failed.",
+    "confidence": "high",
+    "quote": "BE DIRECTED to review the application of the administrative fee and any cost recovery associated with PW-15, Yard and Lot Maintenance by-law initial work order when it is issued as a result of a property owner having been the victim of a criminal act; it being noted that such review should include a jurisdictional scan for best practices as well as any amendments to the Fees and Charges by-law required to satisfy the staff recommendation;",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "4d9b9481f9ba",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Permitted Council to continue sitting past 6:00 PM to keep considering the agenda, under the Council Procedure By-law.",
+    "confidence": "high",
+    "quote": "That pursuant to section 11.10 of the Council Procedure by-law, the Council BE PERMITTED to proceed beyond 6:00 PM.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "c884af5b7ed6",
+    "issue": "encampments",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred part c) of the Housing Stability Services motion -- implementing the updated emergency shelter guidelines -- to the next Community and Protective Services Committee meeting for a further staff report on the changes and how they support housing stability and shelter safety.",
+    "confidence": "medium",
+    "quote": "That part c) of the motion BE REFERRED to the next meeting of the Community and Protective Services Committee for a staff report outlining the changes made to the updated Emergency Shelter Guidelines, including an explanation of how the proposed changes support and advance the City's Strategic Plan priorities related to housing stability, neighbourhood safety, and improved safety in London's shelter system.",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "d7de26f0e678",
+    "issue": "encampments",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred the entire 2026-2027 Winter Response staff report -- including implementation and up to $2,152,275 in contingency-reserve financing -- to the next Community and Protective Services Committee meeting, to allow more time for discussions with federal partners on funding before a decision.",
+    "confidence": "high",
+    "quote": "BE REFERRED to the next meeting of the Community and Protective Services Committee to allow Civic Administration additional time to continue discussions with federal partners regarding funding options and potential support for additional shelter beds, while Council awaits further information respecting potential federal funding;",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "c7b84d94e312",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved directing Civic Administration to report back by Q1 2027 on developing a pilot program providing free or subsidized air conditioning to low-income seniors, covering program design, costs, funding sources, and community consultation.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to report back by Q1 2027 on the development of a pilot program to provide free or subsidized air conditioning units to low-income seniors in the City of London, with implementation targeted in advance of the 2027 summer season;",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "51e217481135",
+    "issue": "transit",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved recommending that Council introduce a by-law to enter into and execute a Contribution Agreement with the federal government for baseline Canada Public Transit Fund funding.",
+    "confidence": "high",
+    "quote": "BE INTRODUCED at the Municipal Council meeting to be held on July 21, 2026, to:\ni)    approve the Contribution Agreement, appended as Schedule 1 to the proposed by-law, for the Canada Public Transit Fund – Baseline Funding (the “Agreement”) between His Majesty the King in Right of Canada as represented by the Minister of Infrastructure and Communities (“Canada”), and The Corporation of the City of London (the “Recipient”);",
+    "flags": []
+  },
+  {
+    "id": "5b512fd551f5",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved, as amended on the size/location of the required park block, introducing by-laws to amend the Official Plan and rezone 1454 Fanshawe Park Road East Block 2 from a Shopping Area Place Type / Holding Community Shopping Area zone to a Neighbourhoods Place Type / Residential R6 zone for a draft plan of subdivision.",
+    "confidence": "high",
+    "quote": "the revised proposed by-law BE INTRODUCED at the Municipal Council meeting to be held on July 21, 2026, to amend Zoning By-law No. Z.-1, in conformity with The Official Plan for the City of London, 2016 (The London Plan), as amended in the above-noted part a), to change the zoning of the subject property FROM a Holding Community Shopping Area (h-8*CSA5) Zone TO a Residential R6 Special Provision (R6-5(*)) and Residential R6 Special Provision (R6-5(**)) Zone; \n\n\n\nc)    the Subdivision Approval Authority BE REQUESTED to consider the following issues through the subdivision approval process: \n\n\n\ni)    adding a park block within the first phase of the Draft Plan of Subdivision with a minimum area of 0.523 hectares located in Block 4 of the draft plan of subdivision; and,\nd)    the Site Plan Approval Authority BE REQUESTED to consider the following design issues through the site plan process:\ni)    prohibit front or exterior side yard parking to minimize the visual exposure of parking areas to the street; \n\nii)    ensure the apartment building entrance(s) oriented towards a public street are useable for future residents and are designed to appear as an alternative principal entrance; \n\niii)    require the inclusion of the appropriate warning clause(s) in all Development Agreements and agreements of purchase and sale or lease within 300 metres of an aggregate resource area; \n\niv)    permit commercial uses on the ground floor of apartment buildings; and \n\nv)    provide landscaped buffers to improve the transition between the existing and proposed developments;",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "bec87774f19c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Recessed the Committee meeting for 10 minutes; a scheduling break, not a decision on the application.",
+    "confidence": "high",
+    "quote": "That the Committee recess at this time, for 10 minutes.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "f1e67ede69ac",
+    "issue": "encampments",
+    "axis": "response-scale",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved implementing the 2026-2027 Winter Response plan and approved up to $2,152,275 in additional financing from the Operating Budget Contingency Reserve to fund it, and directed a business case for future winter response funding.",
+    "confidence": "high",
+    "quote": "additional financing for the Proposed Winter Response for 2026-2027 BE APPROVED from the Operating Budget Contingency Reserve in an amount of up to $2,152,275; and,",
+    "flags": []
+  },
+  {
+    "id": "90091800c8b7",
+    "issue": "policing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed Civic Administration to report back to the Community and Protective Services Committee on the feasibility of establishing a City of London Special Constable Program, covering implementation models, costs, legislative requirements, and service-delivery impacts.",
+    "confidence": "high",
+    "quote": "That the Civic Administration BE DIRECTED to report back to the Community and Protective Services Committee on the feasibility of establishing a City of London Special Constable Program, with the report to include:\na)    the findings and recommendations of the Community Safety Knowledge Alliance (CSKA) Special Constable Feasibility Study;\nb)    potential implementation models, timelines, governance structures, and operational considerations;\nc)    legislative and regulatory requirements, including any required approvals;\nd)    estimated capital and operating costs, funding options, and opportunities for external funding;\ne)    potential impacts on existing municipal service delivery models, including security services, Municipal Law Enforcement, Coordinated Informed Response teams, and relationships with the London Police Service and other community partners; and\nf)    a presentation from the Community Safety Knowledge Alliance regarding its findings and recommendations;",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "d5e521362138",
+    "issue": "policing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have amended the requested feasibility report to reframe it around a 'permanent' Special Constable Program and add legislative authority over traffic and school-zone enforcement to the report's scope; this failed on a tie vote.",
+    "confidence": "high",
+    "quote": "That the motion BE AMENDED by replacing the words \"establishing a City of London Special Constable Program\" with \"implementing a permanent City of London Special Constable Program\"; and amending clauses c) and d) as follows:\nc)    legislative and regulatory requirements, including any required approvals, and the legislative authority respecting the enforcement of traffic-related offences, including within school zones;",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "490a0c35243d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the requested administrative-fee review to also cover cost recovery associated with the fee, in addition to the fee itself.",
+    "confidence": "high",
+    "quote": "That the motion be amended to add \"and any cost recovery associated\" after the words \"administrative fee\".",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "82741a99f795",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Directed Civic Administration to work with the affordable-housing proponent at 1958 Duluth Crescent, Block 6 to pursue Planning Act applications increasing permitted density on the site from 71 to 107 units per hectare.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to work with the proponent to submit necessary Planning Act applications to support an increase in density from 71 units per hectare to 107 units per hectare.",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "23394819155c",
+    "issue": "housing",
+    "axis": "affordable-funding",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved Ballance It Inc. as the leading proponent to receive municipal land at 1958 Duluth Crescent, Block 6 for an affordable housing project, and approved introducing a by-law to authorize and execute the associated Contribution Agreement.",
+    "confidence": "high",
+    "quote": "Ballance It Inc. BE APPROVED as the Leading Proponent for 1958 Duluth Crescent, Block 6, pursuant to NRFP-2025-148, subject to Ballance It Inc. and The Corporation of the City of London entering into a Contribution Agreement;",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "4df11e775c7f",
+    "issue": "housing",
+    "axis": "affordable-funding",
+    "polarity": "expansive",
+    "whatAYeaDid": "Directed Civic Administration to submit an application to the federal Build Canada Homes program to secure capital funding for new affordable housing in London and Middlesex County.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to submit an application to Build Canada Homes to secure capital funds to support the development of new affordable housing in the city of London and Middlesex-County.",
+    "flags": []
+  },
+  {
+    "id": "40970bf1599f",
+    "issue": "budget",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Endorsed the Centre of Opportunity economic development strategy and authorized up to $350,000 in one-time funding ($200,000 from Business Case #P-46 and $150,000 from the Economic Development Reserve Fund) for immediate implementation, referring additional funding requests to the 2027-2031 Strategic Plan / 2028-2031 Multi-Year Budget process.",
+    "confidence": "medium",
+    "quote": "the following funding BE AUTHORIZED to support immediate implementation actions identified within The Centre of Opportunity: London's Economic Development Strategy (2026–2030) and Implementation Plan, as outlined in this report:\n1)    up to $200,000 in one-time funding from the remaining balance of Business Case #P-46; and\n2)    up to $150,000 in one-time funding from the Economic Development Reserve Fund;",
+    "flags": []
+  },
+  {
+    "id": "b26197dd53d0",
+    "issue": "climate",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved entering into a Green Municipal Fund grant agreement with the Federation of Canadian Municipalities to fund a project enhancing London's resilience through climate adaptation planning, and authorized the Mayor and City Clerk to execute it.",
+    "confidence": "high",
+    "quote": "APPROVE the Revised Green Municipal Fund Grant Agreement, LLCA-25-0822, (“Agreement”) between the Federation of Canadian Municipalities (“FCM”) and The Corporation of the City of London for the provision of funding for a project to enhance London’s resilience through climate adaptation planning,",
+    "flags": []
+  },
+  {
+    "id": "f5356786e1e8",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Awarded the Wellington Gateway and Municipal Infrastructure Improvements Phase 2B contract to Bre-Ex Construction Inc. at $50,416,071.33, approved contract administration and financing, and authorized related agreements.",
+    "confidence": "high",
+    "quote": "the bid submitted by Bre-Ex Construction Inc. at its tendered price of $50,416,071.33 excluding HST, for the Wellington Gateway and Municipal Infrastructure Improvements Phase 2B – Base Line Road to Watson Street project, BE ACCEPTED; it also being noted that the bid submitted by Bre-Ex Construction Inc. was the lowest of four (4) bids received and meets the City's specifications and requirements in all areas;",
+    "flags": []
+  },
+  {
+    "id": "5c3042efaa9a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Endorsed asking the Association of Municipalities of Ontario to advocate for restoring a limited third-party appeal mechanism to the Ontario Land Tribunal, limited to notified residents who participated in the planning process and with safeguards against frivolous appeals.",
+    "confidence": "medium",
+    "quote": "That Municipal Council endorse the following actions with respect to third-party appeal mechanism during the Ontario Land Tribunal process:\na) the Mayor BE REQUESTED to write to the Association of Municipalities of Ontario requesting that it consider advocating for the restoration of a limited third-party appeal mechanism to the Ontario Land Tribunal that:\ni) applies to individuals residing within the statutory notice area who have demonstrated prior participation in the municipal planning process;\nii) incorporates appropriate safeguards to discourage frivolous, vexatious, or delay-driven appeals; and\niii) supports the Province’s objective of facilitating timely and efficient housing development; and",
+    "flags": []
+  },
+  {
+    "id": "f33c0b121bda",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Permitted Council to continue sitting past 6:00 PM to keep considering the agenda, under the Council Procedure By-law.",
+    "confidence": "high",
+    "quote": "That pursuant to section 11.10 of the Council Procedure by-law, the Council BE PERMITTED to proceed beyond 6:00 PM.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "d157627ea3ba",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing a by-law rezoning 2496 Dundas Street from a Holding Light Industrial / Environmental Review zone to a Holding Residential R5 Special Provision and Open Space zone, enabling residential development on the site.",
+    "confidence": "high",
+    "quote": "BE INTRODUCED at the Municipal Council meeting to be held on June 23, 2026, to amend Zoning By-law No. Z.-1, in conformity with The Official Plan for the City of London, 2016 (The London Plan), to change the zoning of the subject property FROM a Holding Light Industrial (h-108*LI1) Zone and an Environmental Review (ER) Zone TO a Holding Residential R5 Special Provision (h-9*h-108*R5-7( )) Zone and an Open Space (OS5) Zone; and,",
+    "flags": []
+  },
+  {
+    "id": "71b9cdd99867",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing a by-law extending the existing Temporary Use zoning at 221 Queens Avenue for a further three years, continuing the applicant's current downtown commercial use rather than requiring redevelopment.",
+    "confidence": "medium",
+    "quote": "a proposed by-law BE INTRODUCED at the Municipal Council meeting to be held on June 23, 2026, to amend Zoning By-law No. Z.-1, in conformity with The Official Plan for the City of London, 2016 (The London Plan), by extending the Temporary Use (T-69) Zone for a temporary period of three (3) years;",
+    "flags": []
+  },
+  {
+    "id": "822fd1b135c7",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Voted on whether to sustain the Chair's procedural ruling on this item under the Council Procedure By-law; the question failed, meaning the ruling was not sustained.",
+    "confidence": "high",
+    "quote": "That, pursuant to section 10.5 of the Council Procedure By-law, “shall the ruling of the Chair BE SUSTAINED?”",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "2306f39dba9f",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing a by-law rezoning 1057-1061 Richmond Street from a Neighbourhood Facility Special Provision Bonus zone to a Neighbourhood Facility Special Provision zone (removing the site's density-bonus provision), which the motion states facilitates residential intensification appropriate to the site.",
+    "confidence": "medium",
+    "quote": "the proposed by-law as appended to the staff report dated June 9, 2026, as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on June 23, 2026, to amend Zoning By-law No. Z.-1, in conformity with The Official Plan for the City of London, 2016 (The London Plan), to change the zoning of the subject property FROM a Neighbourhood Facility Special Provision Bonus (NF1(14)*B-24) Zone TO a Neighbourhood Facility Special Provision (NF1(14)) Zone;",
+    "flags": []
+  },
+  {
+    "id": "c0ef85d5175c",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing a by-law rezoning 36 Wethered Street from Residential R1 to a Holding Residential R5 Special Provision zone, which the motion states permits an appropriate form of more intensive residential redevelopment on the site.",
+    "confidence": "high",
+    "quote": "the proposed by-law as appended to the staff report dated June 9, 2026, as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on June 23, 2026, to amend Zoning By-law No. Z.-1, in conformity with The Official Plan for the City of London, 2016 (The London Plan), to change the zoning of the subject property FROM a Residential R1 (R1-6) Zone TO a Holding Residential R5 Special Provision (h-6*R5-4(_)) Zone;",
+    "flags": []
+  },
+  {
+    "id": "8b77c24ff25c",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved rezoning 929 Cheapside Street from Convenience Commercial / Residential R1 to Residential R9 (permitting an apartment building), while refusing the applicant's additional requested special provisions for reduced yard setbacks, increased lot coverage, and reduced landscaped open space, which the motion states would have made the development too intense for the site.",
+    "confidence": "medium",
+    "quote": "the proposed by-law as appended to the staff report dated June 9, 2026, Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on June 23, 2026, to amend Zoning By-law No. Z.-1, in conformity with The Official Plan for the City of London, 2016 (The London Plan), to change the zoning of the subject property FROM a Convenience Commercial Special Provision (CC1(2)) Zone and a Residential R1 (R1-5) Zone TO a Residential R9 Special Provision (R9-7(_)*H21) Zone;",
+    "flags": []
+  },
+  {
+    "id": "62d68b3a749d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved funding for the Green Development Framework Study, as set out in the Source of Financing Report.",
+    "confidence": "high",
+    "quote": "Motion to approve part c).",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "461b2550ab65",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Permitted Councillor S. Trosow to speak for an additional two minutes on this item, under the Council Procedure By-law.",
+    "confidence": "high",
+    "quote": "That pursuant to section 31.6 of the Council Procedure By-law, Councillor S. Trosow BE PERMITTED to speak an additional 2 minutes with respect to this matter.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "a436cba624c6",
+    "issue": "budget",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Endorsed the Centre of Opportunity economic development strategy and authorized up to $350,000 in one-time funding for immediate implementation, referring additional funding requests to the 2027-2031 Strategic Plan / 2028-2031 Multi-Year Budget process and directing a report-back on Indigenous-led engagement outcomes.",
+    "confidence": "medium",
+    "quote": "the following funding BE AUTHORIZED to support immediate implementation actions identified within The Centre of Opportunity: London's Economic Development Strategy (2026–2030) and Implementation Plan, as outlined in this report:\n1)    up to $200,000 in one-time funding from the remaining balance of Business Case #P-46; and\n\n2)    up to $150,000 in one-time funding from the Economic Development Reserve Fund;",
+    "flags": []
+  },
+  {
+    "id": "5eb57ac6ba76",
+    "issue": "downtown",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred the entire Downtown Reimagined plan report back for further consultation with downtown community partners and a report on any recommended amendments, rather than proceeding with the plan as presented; this failed.",
+    "confidence": "high",
+    "quote": "BE REFERRED to a future meeting of the Strategic Priorities and Policy Committee to allow the Civic Administration to undertake additional consultation with downtown community partners with respect to the concerns raised and report back with the results of such consultation and any recommended amendments to the Downtown Plan and implementation approach.",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "24de6cc4c320",
+    "issue": "downtown",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved implementing the Downtown Reimagined Plan actions that can be accommodated within the City's existing approved budgets.",
+    "confidence": "medium",
+    "quote": "the actions identified in this Plan, that can be accommodated within existing approved budgets, BE IMPLEMENTED;",
+    "flags": []
+  },
+  {
+    "id": "053dba5c9c89",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Permitted Councillor D. Ferreira to speak for an additional three minutes on this item, under the Council Procedure By-law.",
+    "confidence": "high",
+    "quote": "That pursuant to section 31.6 of the Council Procedure By-law, Councillor D. Ferreira BE PERMITTED to speak an additional 3 minutes with respect to this matter.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "e698ab20d669",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Permitted Mayor J. Morgan to speak for an additional two minutes on this item, under the Council Procedure By-law.",
+    "confidence": "high",
+    "quote": "That pursuant to section 31.6 of the Council Procedure By-law, His Worship Mayor J. Morgan, BE PERMITTED to speak an additional 2 minutes with respect to this matter.",
+    "flags": [
+      "procedural"
+    ]
+  }
+]

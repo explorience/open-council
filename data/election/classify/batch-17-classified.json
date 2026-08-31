@@ -1,0 +1,496 @@
+[
+  {
+    "id": "aa61ec1f12b2",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed Civic Administration to undertake reviews of servicing capacity and of London Plan policy changes that would support increased intensification within the Urban Growth Boundaries, without itself approving any policy change.",
+    "confidence": "high",
+    "quote": null,
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "f6ec0f5ba0a1",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Adopted the Official Plan Review and Land Needs Assessment update as amended, including reinitiating the Official Plan Review, incorporating industrial land conversions into the housing land supply (except one property), applying a 25-year planning horizon, and directing a growth management strategy tied to a higher (32.5%) mode share target.",
+    "confidence": "medium",
+    "quote": "That item 11, clause 3.8, as amended, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "a5c23169dedb",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Added a provision to the Fireworks By-law amendment allowing consumer and display fireworks to be discharged on four specific days, restoring approved discharge on Diwali and Chinese Lunar New Year.",
+    "confidence": "high",
+    "quote": "d) to read as follows: “d)       that the proposed by-law, as appended to the staff report dated March 18, 2024, BE INTRODUCED at the Municipal Council Meeting to be held on April 2, 2024 to amend the Fireworks By-law PW-11 by allowing for consumer and display fireworks to be discharged on four specific days; it being noted that this restores Municipal Council’s approved direction to allow for discharge on Diwali and Chinese Lunar New Year.\"",
+    "flags": []
+  },
+  {
+    "id": "d15f18913edf",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed Civic Administration to consult the Toronto Fire Department on proposed Ontario Fire Code fireworks amendments and report back, without deciding any by-law change.",
+    "confidence": "high",
+    "quote": null,
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "6f7c833691fc",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave final approval, as amended, to the Business Licensing By-law and Fireworks By-law amendments package.",
+    "confidence": "high",
+    "quote": null,
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "cbcff6f003da",
+    "issue": "downtown",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed Civic Administration to report back with a funding source for free 1-hour on-street parking and with the ability to suspend that free parking during special events in the Core Area, without itself implementing either.",
+    "confidence": "medium",
+    "quote": null,
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "f10df9cb0a3b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Permitted the Council meeting to continue past 6:00 PM under the Council Procedure By-law.",
+    "confidence": "high",
+    "quote": null,
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "d4d68fba4967",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Further amended the motion to direct Civic Administration to report back on a source of financing for the parking incentive pilot in Municipal Lots 1 and 2, without deciding funding.",
+    "confidence": "high",
+    "quote": null,
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "501477acb39d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the twice-amended parking-incentive amendment (as amended) covering the report-back directions on funding and event-time suspension of free parking.",
+    "confidence": "medium",
+    "quote": null,
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "8c0d56378293",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave final approval, as amended, to the Reduced Parking Incentive Pilot Project item.",
+    "confidence": "high",
+    "quote": null,
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "be76b09bf5b0",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed Gregory Thompson as a Second Class Tenant Member to the London & Middlesex Community Housing Board of Directors, a personnel appointment rather than a housing-policy position.",
+    "confidence": "high",
+    "quote": "Gregory Thompson BE APPOINTED to the London and Middlesex Community Housing Board of Directors as a Second Class Tenant Member for the term ending December 31, 2024",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "a15f6fd3d7c1",
+    "issue": "encampments",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Endorsed London's Highly Supportive Housing Plan (Schedule 1) as the city's approach to its Health & Homelessness Whole of Community System Response.",
+    "confidence": "high",
+    "quote": "the Saving Lives, Alleviating Suffering, & Building a Healthy, Strong, & Safe Community for All - London’s Health & Homelessness Response: Highly Supportive Housing Plan as appended to the staff report dated March 26, 2024 as Schedule 1 BE ENDORSED;",
+    "flags": []
+  },
+  {
+    "id": "7f8dde7b0cde",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Asked Civic Administration to report back on the rationale for switching from 15 temporary resting-space beds at 448 Horton Street to 24 highly supportive housing units at 362 Dundas Street, deciding nothing itself.",
+    "confidence": "high",
+    "quote": null,
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "9fbfccf943a4",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Asked Civic Administration to report back with cost breakdowns and/or a draft operating budget for the new Highly Supportive Housing Plan program, deciding nothing itself.",
+    "confidence": "high",
+    "quote": null,
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "20e248852e03",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Asked Civic Administration to report back with recommendations ensuring Council-approved funding arrangements for the Highly Supportive Housing Plan are clear and accountable, deciding nothing itself.",
+    "confidence": "high",
+    "quote": null,
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "2873091ebefb",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Asked Civic Administration to report back on expected funding sources for future Highly Supportive Housing units and a list of other conversions being considered, deciding nothing itself.",
+    "confidence": "high",
+    "quote": null,
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "47b3793a89d7",
+    "issue": "transit",
+    "axis": "service-expansion",
+    "polarity": "expansive",
+    "whatAYeaDid": "Adopted Option 2 as the city's 2050 Mobility Master Plan mode share target (rather than the alternative of deferring/referring the target-setting decision, which had just failed).",
+    "confidence": "medium",
+    "quote": "That the motion be amended TO APPROVE Option 2 as the 2050 mode share target for the development of the Mobility Master Plan",
+    "flags": []
+  },
+  {
+    "id": "b43302aa12d3",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the motion to define 'Option 2' in the mode share target as specifically a 32.5% mode share split, a definitional clarification whose effect relative to the undefined baseline is not stated in the clause itself.",
+    "confidence": "low",
+    "quote": null,
+    "flags": []
+  },
+  {
+    "id": "a4e6deb00a7e",
+    "issue": "transit",
+    "axis": "service-expansion",
+    "polarity": "expansive",
+    "whatAYeaDid": "Set the city's 2050 Mobility Master Plan target at Option 2 or greater — a 32.5% (or higher) mode share for transit, walking, and cycling combined.",
+    "confidence": "high",
+    "quote": "the 2050 mode share target for the development of the Mobility Master Plan BE SET at the levels described in Option 2 (representing 32.5% Mode Share split) or greater for Transit and for Walking and Cycling, and",
+    "flags": []
+  },
+  {
+    "id": "0322689624f0",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Permitted the committee meeting to continue past 6:00 PM under the Council Procedure By-law.",
+    "confidence": "high",
+    "quote": null,
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "8a00c1abc737",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Rezoned 613 Superior Drive from single-detached residential (R1) to a higher-density multi-residential (R5 Special Provision) zone, along with related site-plan design requests and road-improvement directions.",
+    "confidence": "high",
+    "quote": "to change the zoning of the subject property FROM a Neighbourhood Facility/Residential R1 Special Provision (NF/R1-3(7)) Zone and a Neighbourhood Facility/Residential R1 (NF/R1-2) Zone TO a Residential R5 Special Provision (R5-5(_)) Zone;",
+    "flags": []
+  },
+  {
+    "id": "89053b09c443",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Added a condition requesting the applicant work with the Site Plan Approval Authority on park enhancements or onsite amenities (e.g. play structures) for the 613 Superior Drive development, a site-design condition rather than a density or use-permission change.",
+    "confidence": "high",
+    "quote": null,
+    "flags": []
+  },
+  {
+    "id": "9a29a88938a5",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Added a condition directing Civic Administration to work with the 613 Superior Drive developer on improving road conditions and paving unassumed streets (Kleinburg Drive and Appletree Gate), a servicing/access condition rather than a density or use-permission change.",
+    "confidence": "high",
+    "quote": null,
+    "flags": []
+  },
+  {
+    "id": "f7d62ff167d6",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Added a condition on Phase 4 of the 613 Superior Drive subdivision to establish an east/west access connecting to Adelaide Street, a servicing/access condition rather than a density or use-permission change.",
+    "confidence": "high",
+    "quote": null,
+    "flags": []
+  },
+  {
+    "id": "99e90a7b11ad",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave final approval, as amended, to the 613 Superior Drive rezoning from R1 to the higher-density R5 Special Provision zone together with its added site-plan and servicing conditions.",
+    "confidence": "high",
+    "quote": "Motion to approve the recommendation, as amended.",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "b67d0c25c3e2",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received the 3rd Report of the Community Advisory Committee on Planning for information, deciding nothing itself.",
+    "confidence": "high",
+    "quote": null,
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "ea318e6bb24c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred the fireworks/business-licensing matter to staff for further work on six specific licensing issues (allowable sale days, per-site fees, inspections, purchaser notices, vending-site limits, and penalty review), deciding none of them.",
+    "confidence": "high",
+    "quote": null,
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "64f29404e5d4",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Introduced a by-law amendment adding a Business Licensing By-law schedule for Consumer Fireworks Sales.",
+    "confidence": "high",
+    "quote": null,
+    "flags": []
+  },
+  {
+    "id": "2f6b1a65d37c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Introduced a by-law amendment adding new Administrative Monetary Penalty System (AMPs) penalties for Consumer Fireworks Sales.",
+    "confidence": "high",
+    "quote": null,
+    "flags": []
+  },
+  {
+    "id": "607ad95ebe40",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have introduced a Fireworks By-law amendment allowing consumer and display fireworks to be discharged on four specific days; this motion failed at committee.",
+    "confidence": "high",
+    "quote": null,
+    "flags": []
+  },
+  {
+    "id": "207999647839",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Introduced a by-law amendment adding Consumer Fireworks Sales business licence fees to the City's fees and charges by-law.",
+    "confidence": "high",
+    "quote": null,
+    "flags": []
+  },
+  {
+    "id": "7266063dc187",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed Civic Administration to bring forward a by-law enabling a one-time Special Events Policy exemption allowing Harris Park's use for 5 consecutive days for the 2024 Rock the Park event.",
+    "confidence": "medium",
+    "quote": null,
+    "flags": []
+  },
+  {
+    "id": "f22788c69cc6",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have directed Civic Administration to implement a reduced parking incentive pilot (HONK app) in Municipal Lots 1 and 2 through Q3 2024; this motion failed at committee.",
+    "confidence": "high",
+    "quote": null,
+    "flags": []
+  },
+  {
+    "id": "4f28e0ce5a4d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Reopened (reconsidered) Council's prior decision on the 2024 Tax Policy Expectations item so an alternate direction could be considered, without itself deciding any tax policy.",
+    "confidence": "high",
+    "quote": null,
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "54bd15897075",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have directed Civic Administration to add a line item to the 2024 final property tax bill and pamphlet identifying the impact of legislative changes set out in the 2024-2027 Multi-Year Budget; this motion failed.",
+    "confidence": "medium",
+    "quote": null,
+    "flags": []
+  },
+  {
+    "id": "fb01e95ff537",
+    "issue": "encampments",
+    "axis": "response-scale",
+    "polarity": null,
+    "whatAYeaDid": "Would have approved a smaller package extending only the London Cares day/overnight-space and security agreement (dropping the parallel Safe Space London extension) and directed staff to report back on plans and security concerns for the Safe Space London location at 602 Queens; this motion failed.",
+    "confidence": "low",
+    "quote": null,
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "45c5eb8c90a7",
+    "issue": "encampments",
+    "axis": "response-scale",
+    "polarity": "expansive",
+    "whatAYeaDid": "Would have increased and extended both the London Cares and Safe Space London service agreements (extending to June 30, 2024 and raising funding to $209,400 and $193,500 respectively) beyond what the base motion proposed; this amendment failed.",
+    "confidence": "high",
+    "quote": "Motion to amend part a) to change the contract extension end date to be June 30, 2024 and increase funding to $209,400 and part b) to change the contract extension end date to be June 30, 2024 and increase funding to $193,500",
+    "flags": []
+  },
+  {
+    "id": "6baeec3d4c4d",
+    "issue": "encampments",
+    "axis": "response-scale",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved a $139,600 extension of the Purchase of Service Agreement with London Cares to continue temporary drop-in space and security services for unsheltered Londoners through May 31, 2024.",
+    "confidence": "high",
+    "quote": "Motion to approve part a) to read as follows: a)    an extension to the existing Municipal Purchase of Service Agreement with London Cares at a total estimated increase of up to $139,600 (excluding HST) for the period of April 1, 2024, to May 31, 2024 BE APPROVED, to continue temporary drop-in space and security services, as per the Corporation of the City of London Procurement Policy Section 20.3 e);",
+    "flags": []
+  },
+  {
+    "id": "9810884a7f8a",
+    "issue": "encampments",
+    "axis": "response-scale",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved a $129,000 extension of the Purchase of Service Agreement with Safe Space London to continue temporary day and overnight drop-in space for unsheltered Londoners through May 31, 2024.",
+    "confidence": "high",
+    "quote": "Motion to approve part b) to read as follows: b)    an extension to the existing Municipal Purchase of Service Agreement with Safe Space London at a total estimated increase of up to $129,000 (excluding HST) for the period of April 1, 2024, to May 31, 2024 BE APPROVED, to continue temporary day and overnight drop in space, as per the Corporation of the City of London Procurement Policy Section 20.3 e);",
+    "flags": []
+  },
+  {
+    "id": "8e80a032315e",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Refused the application to rezone 1494 Commissioners Road West from single-detached residential (R1) to a higher-density R8 Special Provision zone, citing non-compliance with Environmental Management Guidelines and insufficient side-yard buffering.",
+    "confidence": "high",
+    "quote": "the request to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan for the City of London, 2016), to change the zoning of the subject property FROM a Residential R1 (R1-8) Zone TO a Residential R8 Special Provision (R8-4(_)) Zone and Open Space (OS5) Zone BE REFUSED",
+    "flags": []
+  },
+  {
+    "id": "9060377f8932",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred the property-tax-bill line-item direction to the March 25 Corporate Services Committee for further consideration instead of deciding it; this motion failed.",
+    "confidence": "high",
+    "quote": null,
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "547517826d13",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred the staff report on regulating the display of graphic images back to Civic Administration and directed a draft by-law be brought forward by the end of Q2 2024.",
+    "confidence": "high",
+    "quote": null,
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "638950cad187",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved a two-month extension of Coriano Capital's government relations consulting assignment, through July 15, 2024.",
+    "confidence": "high",
+    "quote": null,
+    "flags": []
+  },
+  {
+    "id": "771dced03d96",
+    "issue": "encampments",
+    "axis": "response-scale",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved (at Council) a $139,600 extension of the Purchase of Service Agreement with London Cares to continue temporary drop-in space and security services for unsheltered Londoners through May 31, 2024.",
+    "confidence": "high",
+    "quote": "Motion to approve part a) to read as follows: a)    an extension to the existing Municipal Purchase of Service Agreement with London Cares at a total estimated increase of up to $139,600 (excluding HST) for the period of April 1, 2024, to May 31, 2024 BE APPROVED, to continue temporary drop-in space and security services, as per the Corporation of the City of London Procurement Policy Section 20.3 e);",
+    "flags": []
+  },
+  {
+    "id": "0051377a8d37",
+    "issue": "encampments",
+    "axis": "response-scale",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved (at Council) a $129,000 extension of the Purchase of Service Agreement with Safe Space London to continue temporary day and overnight drop-in space for unsheltered Londoners through May 31, 2024.",
+    "confidence": "high",
+    "quote": "Motion to approve part b) to read as follows: b)    an extension to the existing Municipal Purchase of Service Agreement with Safe Space London at a total estimated increase of up to $129,000 (excluding HST) for the period of April 1, 2024, to May 31, 2024 BE APPROVED, to continue temporary day and overnight drop in space, as per the Corporation of the City of London Procurement Policy Section 20.3 e);",
+    "flags": []
+  }
+]

@@ -1,0 +1,602 @@
+[
+  {
+    "id": "3c736ddcbc9b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Requested that the Mayor and Councillor A. Hopkins advocate, through the Ontario Big City Mayors Caucus and the Association of Municipalities of Ontario, for a province-wide deposit-return program for non-alcoholic beverage containers.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Procedural advocacy resolution (deposit-return, non-alcoholic beverage containers). No tracked-issue keyword anywhere in the operative text (no 'climate', no housing/encampments/transit/policing/bikes/downtown/budget phrase); issue=none is correct, no direction possible."
+  },
+  {
+    "id": "70881ca02a83",
+    "issue": "climate",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved and authorized execution of the Green Municipal Fund grant agreement with the Federation of Canadian Municipalities, funding a project to enhance London's resilience through climate adaptation planning.",
+    "confidence": "high",
+    "quote": "APPROVE the Revised Green Municipal Fund Grant Agreement, LLCA-25-0822, (“Agreement”) between the Federation of Canadian Municipalities (“FCM”) and The Corporation of the City of London for the provision of funding for a project to enhance London’s resilience through climate adaptation planning",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2026-06-15 Infrastructure & Corporate Services Committee item 2.3 full text. Quote is verbatim (clause a). No denial language present; generic application-approval fallback is the correct read (no climate content-axis phrase like 'strengthen/weaken a target' present). Confirmed climate/expansive."
+  },
+  {
+    "id": "848fa277291a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Accepted the low tender bid from Bre-Ex Construction Inc. and approved financing and contract administration for the Wellington Gateway and Municipal Infrastructure Improvements Phase 2B construction contract (Base Line Road to Watson Street).",
+    "confidence": "medium",
+    "quote": "",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2026-06-15 ICS Committee item 2.4 full text (contract award, Bre-Ex Construction, Wellington Gateway Phase 2B). No literal transit/bikes/downtown keyword anywhere in the operative clauses (generic road-construction contract mechanics only -- bid acceptance, consulting engineer authorization, financing, MOUs). issue=none correctly avoids the generic-infra-contract trap."
+  },
+  {
+    "id": "fd673760d5df",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing a zoning by-law amendment for 1837 Churchill Avenue to rezone the property from Neighbourhood Facility and Residential R2 zones to a Neighbourhood Facility Special Provision zone, permitting an addition to the existing building.",
+    "confidence": "high",
+    "quote": "the proposed by-law as appended to the staff report dated June 9, 2026, as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on June 23, 2026, to amend Zoning By-law No. Z.-1... to change the zoning of the subject property FROM a Neighbourhood Facility (NF) Zone and Residential R2 (R2-3) Zone, TO a Neighbourhood Facility Special Provision (NF(_)) Zone",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2026-06-09 P&E Committee item 3.3 full text. Two competing clauses exist under this item: a 'BE REFUSED' block with no recorded vote, and the 'BE INTRODUCED ... permitting an addition' block that IS the one actually voted (Failed 2-3, Yeas S.Lehman/P.Cuddy, Nays S.Lewis/S.Hillier/S.Stevenson) -- the manifest's own result string 'Motion Failed (2 to 3)' uniquely picks out this second block, matching the quoted text. Per direction-rules.ts design, axis/valence reads what a YEA on THIS specific roll call meant (support for introducing/permitting the addition = expansive), independent of the committee's ultimate disposition -- so a Nay here truly did oppose the addition and a Yea truly did support it; no false-direction risk to any named councillor. Quote verbatim. This is a genuine committee-stage-vs-decision case (the committee's actual recommendation forward was refusal) but the tracked roll call itself is read correctly. Confirmed."
+  },
+  {
+    "id": "81fffe30d22a",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing a zoning by-law amendment for 36 Wethered Street to rezone the property from a Residential R1 (low-density, single-detached) zone to a Holding Residential R5 (higher-density) Special Provision zone, permitting more intensive redevelopment.",
+    "confidence": "high",
+    "quote": "to amend Zoning By-law No. Z.-1... to change the zoning of the subject property FROM a Residential R1 (R1-6) Zone TO a Holding Residential R5 Special Provision (h-6*R5-4(_)) Zone",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2026-06-09 P&E Committee item 3.7 full text, Passed 4-1. Quote verbatim. Straightforward R1 (low-density)->R5 (holding, higher-density) rezoning, no denial language. Confirmed housing/density/expansive."
+  },
+  {
+    "id": "06a1d24743c5",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved part c) of the 929 Cheapside Street rezoning motion (as amended to add a public site plan process), directing the Site Plan Approval Authority to consider specific design issues -- relocating a paratransit lay-by, a landscape buffer, and integrating a nearby transit stop -- through the site plan process.",
+    "confidence": "medium",
+    "quote": "",
+    "flags": [
+      "wrapper_preamble",
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2026-06-09 P&E Committee item 3.8, 'That part c) of the motion, as amended, BE APPROVED' Passed 4-1. Clause c) directs the Site Plan Approval Authority to 'explore opportunities to relocate the ... lay-by' / 'explore opportunities to work with ... LTC' -- matches INFORMATIONAL_ASK_RE ('explore opportunities'), correctly unclear. Note for record (no correction, no direction implication either way): the clause's own text literally contains the word 'Transit' via 'London Transit Commission', which is a bare-keyword hit for the transit issue cluster and would tie-break ahead of housing per ISSUE_ORDER if scored mechanically -- but this is an incidental mention of the transit authority inside a site-plan design directive for a housing rezoning, not a substantive transit position, so housing is the more faithful characterization; moot either way since polarity is null under both readings (informational ask nullifies direction regardless of issue)."
+  },
+  {
+    "id": "ba89238687fa",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved part a) of the 929 Cheapside Street rezoning motion, introducing a zoning by-law amendment to rezone the property from Convenience Commercial and Residential R1 (low-density) zones to a Residential R9 (higher-density) Special Provision zone.",
+    "confidence": "high",
+    "quote": "the proposed by-law as appended to the staff report dated June 9, 2026, Appendix \"A\" BE INTRODUCED... to change the zoning of the subject property FROM a Convenience Commercial Special Provision (CC1(2)) Zone and a Residential R1 (R1-5) Zone TO a Residential R9 Special Provision (R9-7(_)*H21) Zone",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2026-06-09 P&E Committee item 3.8, 'Motion to approve part a)' Passed 3-2 (matches manifest's result string uniquely among this item's several sub-motions). Quote verbatim. R1+Convenience Commercial -> R9 Special Provision is a genuine density increase (R9 is a higher-density apartment zone in this corpus's zoning scheme). Correctly isolated to part a) only -- part b) (the requested special provisions: reduced setbacks/parking, higher lot coverage) was separately REFUSED and is NOT bundled into this entry's polarity, avoiding a business-case-exclusion-style false read. Confirmed housing/density/expansive."
+  },
+  {
+    "id": "1355dc9115e0",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved part c) of the Duluth Crescent affordable-housing land motion, directing Civic Administration to work with the proponent to submit Planning Act applications supporting an increase in permitted density on the site from 71 to 107 units per hectare.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to work with the proponent to submit necessary Planning Act applications to support an increase in density from 71 units per hectare to 107 units per hectare",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2026-06-08 Community & Protective Services Committee item 2.7, 'That part c) BE APPROVED' Passed 4-1. Quote verbatim. This is a substantive directive to pursue an actual density increase (71->107 units/hectare) via real Planning Act applications, not a mere report-back -- does not trip the informational-ask guard (the object is 'submit ... applications to support an increase', not 'report back/study/explore'). Confirmed housing/density/expansive."
+  },
+  {
+    "id": "4fb2d8b0e1f8",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Voted to have Council formally convene as the Expropriations Act Approving Authority to consider a communication regarding the Wellington Gateway Project Civil Works Phase 2 expropriation.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Procedural motion convening Council as Expropriations Act Approving Authority. No substantive content of its own; issue=none correct."
+  },
+  {
+    "id": "33385b93a872",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Acting as Approving Authority under the Expropriations Act, approved the expropriation of lands required for the Wellington Gateway Project and directed that a certificate of approval be issued.",
+    "confidence": "medium",
+    "quote": "",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2026-06-02 Council item 6.1 full text (Wellington Gateway Phase 2 expropriation). Operative reasons cite 'current and future transportation demands along the corridor' -- not a literal hit on any tracked transit keyword (no 'transit', 'road widening', 'transportation master plan', etc.). issue=none correctly avoids the generic-infra-contract trap; this is a land-expropriation mechanics vote, not a transit policy position."
+  },
+  {
+    "id": "71326061fe44",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Introduced the by-law to expropriate the Wellington Gateway Project Phase 3 lands and directed Civic Administration and the City Clerk to complete the required plans, signatures, and notices to carry out the expropriation.",
+    "confidence": "medium",
+    "quote": "",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2026-06-02 Council item 6.2 full text (Wellington Gateway Phase 3 expropriation by-law introduction/registration mechanics). No tracked-issue keyword present. issue=none correct."
+  },
+  {
+    "id": "e2146aa78193",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Voted to refer the 1103 & 1111 Westdel Bourne rezoning application (OZ-25072) to a future Planning and Environment Committee meeting so the applicant could consider consolidating additional lands, rather than deciding the application at this meeting.",
+    "confidence": "high",
+    "quote": "the application of Westdell Development Corporation... relating to the property located at 1103 & 1111 Westdel Bourne BE REFERRED to a future meeting of the Planning and Environment Committee to allow the applicant to consider the consolidation of additional lands to the subject property",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2026-06-02 Council item 6.8.1.5 full text (1103 & 1111 Westdel Bourne, OZ-25072). Important: the REFERRAL motion tracked here genuinely FAILED (7 to 7) -- and per this item's full record, Council then separately voted 14-0 to REFUSE the rezoning application outright on a different motion not present in this batch (presumably tracked, if at all, under a different id/batch, since it appears to have passed unanimously and this pipeline tracks divided motions). The entry in hand is specifically and only about the referral vote, correctly quoted verbatim and correctly marked unclear (DEFER_RE fires, no AFFIRM_RE) -- it does not claim anything about the application's ultimate fate. Confirmed."
+  },
+  {
+    "id": "81d184dc75f1",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved reordering the Infrastructure and Corporate Services Committee's consent agenda so that item 2.7 would be considered before item 2.1.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Procedural consent-agenda reordering. issue=none correct."
+  },
+  {
+    "id": "92917bf8c454",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the 2027 annual Standing Committee meeting calendar as presented by the City Clerk.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Procedural 2027 meeting-calendar approval. issue=none correct."
+  },
+  {
+    "id": "36b5c4b3a4a4",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Moved to amend the 2027 meeting-calendar motion by directing Civic Administration to bring forward a Council Procedure By-law amendment removing the scheduled meeting-free weeks in April, May, July, and August; this amendment failed.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Procedural failed amendment to remove meeting-free weeks. issue=none correct."
+  },
+  {
+    "id": "fffc06d5f355",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved introducing a by-law establishing a pilot project permitting electric kick-scooters in London through the end of the provincial pilot (November 27, 2029) and repealing the prior Electric Kick-Scooter and Cargo Power-Assisted Bicycle By-law.",
+    "confidence": "medium",
+    "quote": "",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2026-05-12 Council item 8.1.8, 'part b) BE APPROVED' Passed 11-4 (e-scooter pilot bylaw introduction, repealing the prior 'Electric Kick-Scooter and Cargo Power-assisted Bicycle By-law'). No bikes-cluster keyword hit ('bicycle' appears only inside the repealed by-law's own name, not as 'bicycle facilit-'/'bike lane'/'cycling infrastructure' etc.), no transit keyword. issue=none correctly avoids over-attributing to bikes/transit."
+  },
+  {
+    "id": "8cdc065e1587",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed Civic Administration to report back to Committee and Council in May 2027 with an update on the use of e-scooters in London.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against same item 8.1.8, 'part d) BE APPROVED' Passed 14-1 -- pure report-back directive ('report back to Committee and Council in May 2027 with an update ... on the use of e-scooters'). Correctly unclear/informational_ask."
+  },
+  {
+    "id": "06a752a337a2",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing Official Plan and zoning by-law amendments for 945 Bluegrass Drive to add a site-specific policy and holding provision enabling the proposed long-term-care development.",
+    "confidence": "medium",
+    "quote": "the proposed by-law as appended to the staff report dated May 5, 2026, as Appendix \"A\" BE INTRODUCED... to amend The Official Plan for the City of London, 2016 (The London Plan), by ADDING a new policy to the Specific Policies for the Neighbourhoods Place Type and by ADDING the lands to Map 7",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2026-05-12 Council item 8.2.7 full text, Motion FAILED 5-10 -- this is the full-Council vote that reverses the 3-2 committee recommendation (see 12aa70133162 below, same clause, earlier reading). Axis/valence again correctly reads each councillor's own roll-call position on the INTRODUCE clause independent of overall outcome -- the 10 Nays' 'denied' characterization is accurate to their actual vote, and the substance (adding an OP policy + Map 7 designation enabling the LTC development) matches the quote verbatim. Confirmed housing/application-approval/expansive."
+  },
+  {
+    "id": "91eb206075d8",
+    "issue": "encampments",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Endorsed the London and Middlesex Housing Stability Action Plan (2026-2031), the city's homeless prevention and housing plan, and directed its submission to the Ministry of Municipal Affairs and Housing and circulation to community partners.",
+    "confidence": "medium",
+    "quote": "the Housing Stability Action Plan (2026-2031), as outlined in the report titled ‘London and Middlesex Housing Stability Action Plan 2026-2031 as appended to the above-noted staff report, BE ENDORSED substantially in the form of the document",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2026-05-12 Council item 8.3.5 full text, Passed 12-1, quote verbatim (clause a). Issue=encampments correctly wins over an intuitive 'housing' label because only encampments-cluster vocabulary ('Homeless Prevention and Housing Plan', 'homeless prevention and housing plan') actually appears in the operative text -- no literal housing-cluster phrase ('affordable housing', 'housing needs', 'housing supply', etc.) appears anywhere in this motion, so housing would not even score under the rules. Confirmed."
+  },
+  {
+    "id": "931f44888a31",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved introducing by-laws establishing an electric kick-scooter pilot project and amending the Administrative Monetary Penalty System by-law, and directed a report back in May 2027 on e-scooter use.",
+    "confidence": "medium",
+    "quote": "",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2026-05-06 ICS Committee item 2.6 full text (committee-stage twin of fffc06d5f355/8cdc065e1587 above), 'parts b), c), and d) BE APPROVED' Passed 2-1 -- bundles the substantive bylaw introduction together with the report-back ask, but issue=none is correct regardless (same keyword analysis as fffc06d5f355) so no direction is computed either way. Confirmed."
+  },
+  {
+    "id": "12aa70133162",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing Official Plan and zoning by-law amendments for 945 Bluegrass Drive to add a site-specific policy and holding provision enabling the proposed long-term-care development.",
+    "confidence": "medium",
+    "quote": "the proposed by-law as appended to the staff report dated May 5, 2026, as Appendix \"A\" BE INTRODUCED... to amend The Official Plan for the City of London, 2016 (The London Plan), by ADDING a new policy to the Specific Policies for the Neighbourhoods Place Type and by ADDING the lands to Map 7",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2026-05-05 P&E Committee item 3.3 full text, Passed 3-2, quote verbatim. This is the committee-stage twin of 06a752a337a2 (same clause, earlier vote, later reversed 5-10 at Council) -- correctly tracked as its own separate roll call rather than conflated with the Council reading. Confirmed housing/application-approval/expansive."
+  },
+  {
+    "id": "d7eeb48f9dea",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing a by-law establishing new Housing Accelerator Fund incentive programs -- a temporary waiver of building permit fees and an Additional Residential Unit construction grant -- for new home construction.",
+    "confidence": "high",
+    "quote": "a proposed by-law BE INTRODUCED... to amend By-law No. C.P. 1596-87... by: i) establishing the Temporary Waiving of Building Permit Fees financial incentive program... ii) establishing the Additional Residential Unit Construction Grant for New Home Construction financial incentive program",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2026-04-21 Strategic Priorities and Policy Committee item 2.2, 'That part a) BE APPROVED and reads as follows: ... a proposed by-law BE INTRODUCED ...' Passed 9-4. Wrapper preamble correctly stripped per its own design (subject is the bare 'part a)', and the clause it introduces carries its own independent 'BE INTRODUCED'/'establishing' verbs) -- quote verbatim. Confirmed housing/application-approval/expansive."
+  },
+  {
+    "id": "b1f7d7ab0e58",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the London Transit Commission to review a set of Rapid Transit opportunities -- fare collection, vehicle specifications, branding, and station enhancements -- and report back to Council on implementation by Q4 2026.",
+    "confidence": "medium",
+    "quote": "",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2026-04-21 SPPC item 4.2 full text, 'part b) BE APPROVED and reads as follows: ... BE DIRECTED to review the following opportunities and report back to Council on implementation ...' Passed 11-2. Despite the substantial, itemized sub-list (fare collection, vehicle specs, branding, station enhancements), the operative verb is 'review ... and report back on implementation' throughout -- textbook informational ask, not an approved service expansion. Correctly unclear."
+  },
+  {
+    "id": "9a69bd3efefd",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed Civic Administration to explore and report back, by the end of Q1 2027, on the feasibility of establishing a Tenant Assistance and Relocation Program for the City of London.",
+    "confidence": "medium",
+    "quote": "",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2026-04-14 P&E Committee item 4.1 full text, 'BE DIRECTED to explore and report back on the feasibility of establishing a Tenant Assistance and Relocation Program ... by end of Q1 2027' Passed 2-1. Textbook informational ask. Correctly unclear."
+  },
+  {
+    "id": "5d3409f3524d",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved part e) of the Tolpuddle Co-operative motion, directing Civic Administration to report back to Council on the progress of the housing co-op's capital and operational Transition Plan in Q4 2026.",
+    "confidence": "medium",
+    "quote": "",
+    "flags": [
+      "wrapper_preamble",
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2026-04-13 Community & Protective Services Committee item 4.3 full text. Manifest's result string 'Motion Passed (4 to 1)' uniquely picks out 'That part e) of the motion BE APPROVED' (report-back on Transition Plan progress, Q4 2026) -- correctly unclear/informational_ask. Note for record: this same item's 'parts a) through d)' sub-motion (which includes a real $785,439 capital-financing approval, part c) passed unanimously 5-0 and is therefore correctly out of scope for this divided-motions pipeline -- not a gap in this entry."
+  },
+  {
+    "id": "279715ad9723",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved adding partial or full development-charge rebate options for new residential development as one of the items Civic Administration must include when it reports back to Council with options to quickly incentivize housing activity within the remaining Housing Accelerator Fund window.",
+    "confidence": "medium",
+    "quote": "",
+    "flags": [
+      "wrapper_preamble",
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2026-03-24 Strategic Priorities and Policy Committee item 4.2 full text, 'part a) ii) BE APPROVED: ii) partial (or full) development charge rebate options for new residential development ...' Passed 10-4. This decides only what goes on the LIST of options a future report-back will study, not that a DC rebate is enacted -- correctly read as scoping a report's contents rather than a substantive funding decision. Confirmed unclear."
+  },
+  {
+    "id": "66bf8d51dc0f",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed Civic Administration to report back to Council with options to quickly incentivize housing activity within the remaining Housing Accelerator Fund window, together with a Housing Accelerator Fund mid-year update, and received the March 24, 2026 staff report for information.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against same item 4.2, 'That the balance of the motion BE APPROVED' Passed 13-1 -- pure report-back directive plus receipt-for-information of the staff report. Correctly unclear/informational_ask."
+  },
+  {
+    "id": "f8f62b5705f0",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the motion so that Civic Administration's report on Affordable Home Ownership Incentive Program options would come back to the Strategic Priorities and Policy Committee.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Procedural amendment routing a future report to a different committee. issue=none correct."
+  },
+  {
+    "id": "95f8191a78cd",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved hearing a delegation request from J. Ross, Director, Project Manager, Development Engineering (London) Limited, at that point in the meeting.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Procedural delegation-hearing-order motion. issue=none correct."
+  },
+  {
+    "id": "991b5bed9ca3",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved introducing the revised Respectful Workplace Policy (Anti-Harassment/Anti-Discrimination) by-law and directed a review and update of related policies, procedures, and web content.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Respectful Workplace Policy by-law introduction. No tracked-issue keyword. issue=none correct."
+  },
+  {
+    "id": "1a0ad771e08d",
+    "issue": "climate",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing a by-law for the final BetterHomes London program design, approving the property owner agreement and local improvement charge by-law templates used to finance residential energy-efficiency and water-conservation retrofits.",
+    "confidence": "medium",
+    "quote": "APPROVE the Template for a Property Owner Agreement, attached as ‘Schedule 1’, between the City of London and the property owner outlining the terms of the financing loan and, if applicable, program incentives being offered",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2026-03-23 ICS Committee item 2.9 full text, Passed 5-1, quote verbatim (clause i). Issue=climate is a defensible substantive read (BetterHomes London is a home energy-efficiency/water-conservation retrofit financing program; body text also contains the bare word 'Climate' via the responsible director's title). Confirmed climate/application-approval/expansive."
+  },
+  {
+    "id": "b076ce02bb71",
+    "issue": "climate",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Moved to direct Civic Administration to report back to a future Infrastructure and Corporate Services Committee meeting with a proposed implementation plan for a 'Point of Purchase' weeping-tile (stormwater) disconnection program; this motion failed.",
+    "confidence": "medium",
+    "quote": "",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Failed report-back motion (stormwater/weeping-tile disconnection program implementation plan). Correctly unclear/informational_ask; motion also failed."
+  },
+  {
+    "id": "783f30d0d41f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Moved to amend the Smart Commute London recommendation to authorize the Deputy City Manager of Environment and Infrastructure to approve and execute the upcoming Smart Commute MOU Amendment and Extension Agreement and future Smart Commute Association MOUs; this amendment failed on a tie vote.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2026-03-23 ICS Committee item 4.2 full text (Smart Commute MOU amendment, failed 3-3 tie). 'Smart Commute' is a commuter/TDM program with no literal transit-cluster keyword in the operative text. issue=none is a defensible, consistent call (same reasoning applied to e43644a0f1a8 below)."
+  },
+  {
+    "id": "e43644a0f1a8",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved authorizing the Deputy City Manager of Environment and Infrastructure to approve and execute the upcoming Smart Commute MOU Amendment and Extension Agreement and future Smart Commute Association MOUs.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against same item 4.2, 'part b) BE APPROVED' Passed 5-1 (Smart Commute MOU execution authorization). Same keyword analysis as 783f30d0d41f -- issue=none correct, no transit-cluster keyword present."
+  },
+  {
+    "id": "c3872ca7bdb7",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed Civic Administration to report back on policy-compliant actions to support increased participation of local and regional food producers and processors in food sourcing for City-managed facilities.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Report-back directive on local/regional food producer participation in City food sourcing. No tracked-issue keyword. issue=none correct."
+  },
+  {
+    "id": "fbf783cadc53",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Voted on a combined recommendation for 929 Cheapside Street that would have introduced a rezoning to Residential R9 while refusing the applicant's requested special provisions (reduced setbacks/parking, higher lot coverage) as too intense for the site, and required a public site plan process; the combined motion failed.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2026-03-10 P&E Committee item 3.8 full text (earlier committee-stage consideration of 929 Cheapside Street, distinct from the 2026-06-09 reading covered by ba89238687fa/06a1d24743c5 above). This combined a) approve-the-rezoning-to-R9 / b) refuse-the-special-provisions / c) site-plan-directive into ONE roll call, which FAILED 1-4 -- a genuinely mixed, non-severable motion where a single yea/nay cannot be translated into one clean direction without misrepresenting either the approval or the refusal component. polarity=null is the correct, safe call; low confidence flag is appropriate given the genuine ambiguity. Confirmed."
+  },
+  {
+    "id": "a9f827fabfb2",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the Short Term Accommodation Licensing motion to note that the Committee may, at a future time, request a staff report on imposing minimal distance requirements between short-term accommodations.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2026-03-09 Community & Protective Services Committee item 3.1 full text, 'That the motion BE AMENDED to add a new part ... the Committee MAY at a future time request a staff report on ... minimal distance requirements' Passed 3-2. Purely permissive/optional future-ask, no committal decision. Correctly unclear/procedural."
+  },
+  {
+    "id": "d0b0c8c79902",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Moved to amend the short-term-accommodation by-law to cap occupancy at a Dwelling Unit offering short-term accommodation at no more than two individuals per bedroom (excluding children under 2), with single-room occupant limits set by inspection; this amendment failed.",
+    "confidence": "medium",
+    "quote": "",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against same item 3.1, 'That part b) BE AMENDED to read as follows: ... BE AMENDED in section 8.12 to offer or provide Short-term Accommodation at a Dwelling Unit for more than two individuals per bedroom ...' Failed 2-3. The scraped operative text itself is garbled/incomplete (reads as permitting MORE than two per bedroom where the evident regulatory intent, per the classifier's own paraphrase, was a CAP) and contains no AFFIRM_RE/DENY_RE verb of its own ('BE AMENDED' only) -- genuinely too ambiguous to assign a safe direction, and the amendment failed regardless. polarity=null correctly conservative. Confirmed."
+  },
+  {
+    "id": "d06cbd97e5ad",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the property-standards motion to direct Civic Administration to consult with the Environmental Stewardship and Action Community Advisory Committee about the City's response to rodent infestations and opportunities to improve public information.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Report-back/consultation directive on rodent infestation response. No tracked-issue keyword. issue=none correct."
+  },
+  {
+    "id": "1d18fd70225e",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Permitted Councillor D. Ferreira to speak for an additional 2 minutes on the item restricting city-funded organizations from distributing safe-use drug smoking supplies.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Procedural extension of a councillor's speaking time on an unrelated substantive agenda item (drug-paraphernalia distribution restriction) -- this entry is only the speaking-time motion itself, not a vote on that underlying item's substance. issue=none correct for what this entry actually is."
+  },
+  {
+    "id": "e4ab272cb05c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Permitted the Committee to continue its meeting beyond 6:00 PM.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Procedural meeting-extension motion. issue=none correct."
+  },
+  {
+    "id": "77c9afa67f05",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Voted on whether to sustain the Chair's procedural ruling during the Community Housing Financial Challenges item; the ruling was not sustained.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Procedural vote on sustaining a Chair's ruling during an unrelated substantive item (Community Housing Financial Challenges) -- this entry is only the procedural ruling vote itself, not a substantive housing decision. issue=none correct for what this entry actually is."
+  },
+  {
+    "id": "52ded9176c52",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the motion regarding Councillor E. Peloza's personal update to note that she would no longer remain appointed to the Community and Protective Services Committee.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "procedural",
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Personnel/committee-appointment change for a councillor. GLOBAL_EXCLUDE-shaped (appointment/personnel, not a policy position). issue=none correct."
+  },
+  {
+    "id": "44c5de36a14d",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the 550 Ridout Street North & 82-90 Kent Street rezoning motion (OZ-25152) to request that the applicant prepare a tenant relocation plan addressing matters raised in a communication from a nearby developer.",
+    "confidence": "medium",
+    "quote": "",
+    "flags": [
+      "relocation"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2026-03-03 Council item 8.1.10 full text, 'd) that the Applicant BE REQUESTED to prepare a tenant relocation plan ...' Passed 14-1. 'BE REQUESTED' is not a recognized AFFIRM_RE/DENY_RE/DEFER_RE outcome verb, and the text does not match RELOCATION_AWAY_RE (no 'off/away from/out of' language -- this asks the applicant to prepare a plan protecting existing tenants during redevelopment, not a directive to relocate anyone away). Correctly falls through to unclear rather than being force-read as either a relocation-away restriction or a generic approval. Confirmed."
+  },
+  {
+    "id": "4a2e8a2dad9d",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved the 550 Ridout Street North & 82-90 Kent Street rezoning application (OZ-25152) as amended, adopting Official Plan and zoning by-law amendments that permit a 30-storey apartment building on the site.",
+    "confidence": "high",
+    "quote": "to amend The Official Plan for the City of London, 2016 (The London Plan), by ADDING a new policy to the Specific Policies for the Neighbourhoods Place Type, permitting a 30 storey apartment building, and by ADDING the subject lands to Map 7 – Specific Policy Areas",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2026-03-03 Council item 8.1.10 full text. The final decision-bearing vote is 'That item 10, clause 3.5, as amended, BE APPROVED' Passed 11-4 (matches manifest's own result string). This closing motion has no colon after 'BE APPROVED', so the wrapper-strip rule correctly leaves it untouched per the documented design (it is treated as a complete, standalone decision, not a preamble to be stripped) -- and it approves the WHOLE amended clause package (original parts a/b plus the c/d amendments), so quoting the '30 storey apartment building' / height language from part a) of that same clause faithfully represents what the 11-4 vote enacted. Rezoning FROM R10-3*H24/OC7 TO R10-5*D1350*H100 (and 'permitting a 30 storey apartment building') is a substantive, unambiguous height/density increase. Confirmed housing/density/expansive."
+  }
+]

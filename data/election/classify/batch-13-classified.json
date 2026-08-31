@@ -1,0 +1,500 @@
+[
+  {
+    "id": "02afaf2b4355",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved hearing the delegation request from B. Samuels, Chair of the Environmental Stewardship and Action Community Advisory Committee, at that time.",
+    "confidence": "high",
+    "quote": "That the delegation request from B. Samuels, Chair, Environmental Stewardship and Action Community Advisory Committee BE APPROVED to be heard at this time.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "479429d387c3",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Reconsidered the Committee's earlier decision on receiving a communication from M. Blosh under item 4.5, to allow another vote.",
+    "confidence": "high",
+    "quote": "That pursuant to section 35.10 of the Council Procedure By-law, the Strategic Priorities and Policy Committee decision with respect to item 4.5 having to do with receiving a communication from M. Blosh BE RECONSIDERED to provide for another vote.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "ce2d0113531e",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved amending the Council Procedure By-law to add a 'Put the Question' option at committees where the full Council sits as the committee.",
+    "confidence": "high",
+    "quote": "v)     Efficient Meeting Management: Provide for the option to “Put the Question” at committees where all of Council constitutes the membership;",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "76679e4e3173",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the remaining Council Procedure By-law amendments (communications/petitions relevance, delegation relevance and criteria, and standing-committee service requirements) as amended.",
+    "confidence": "high",
+    "quote": "That the balance of the motion, as amended, be approved.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "86ca1c8a8f41",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved changing the order of the Strategic Priorities and Policy Committee agenda so item 4.7 would be considered after Stage 3 (Scheduled Items).",
+    "confidence": "high",
+    "quote": "That, pursuant to section 27.6 of the Council Procedure By-law, a change in order of the Strategic Priorities and Policy Committee Agenda BE APPROVED, to provide for Item 4.7 in Stage 4, Items for Direction, to be considered after Stage 3, Scheduled Items.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "568146d9ee22",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Sustained the Chair's procedural ruling on the item.",
+    "confidence": "high",
+    "quote": "That, pursuant to section 32.5 of the Council Procedure By-law, “shall the ruling of the Chair BE SUSTAINED?”",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "a6a085162062",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Granted Councillor J. Pribil one additional minute of speaking time on the matter.",
+    "confidence": "high",
+    "quote": "That pursuant to section 31.6 of the Council Procedure By-law, Councillor J. Pribil BE PERMITTED to speak an additional one (1) minute with respect to this matter.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "903ec5aeea8a",
+    "issue": "encampments",
+    "axis": "response-scale",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Amended part c) to end continued transactional service delivery at existing service depot locations on a fixed date, February 28, 2025, in place of open-ended continuation pending further Council direction.",
+    "confidence": "medium",
+    "quote": "That the motion be further amended in part c) to include \"until February 28, 2025\" and delete \"until further direction is provided by Municipal Council\"",
+    "flags": []
+  },
+  {
+    "id": "f34cfd9a6dca",
+    "issue": "encampments",
+    "axis": "response-scale",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Amended parts b) and c) to direct a report-back on mobile transactional outreach services and to continue transactional service delivery at existing service depot locations only until February 28, 2025, rather than indefinitely.",
+    "confidence": "low",
+    "quote": "c) that Civic Administration BE DIRECTED to continue with transactional service delivery in existing service depot locations until February 28, 2025.",
+    "flags": []
+  },
+  {
+    "id": "00c2d075be6f",
+    "issue": "encampments",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Adopted the Service Depot Location Update Report item as amended: received the report with no further action, directed a report-back on mobile transactional outreach, and continued existing depot service delivery until February 28, 2025.",
+    "confidence": "low",
+    "quote": "That the motion, as amended, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "998896f19c8a",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved introducing a zoning by-law amendment for 145 Base Line Road West rezoning the property from Residential R3 (R3-1) to a Residential R3 Special Provision (R3-1(_)) zone, with site-plan conditions on tenant relocation assistance and a parking management plan.",
+    "confidence": "medium",
+    "quote": "a) the proposed attached by-law BE INTRODUCED at the Municipal Council meeting to be held on November 26, 2024 to amend Zoning By-law No. Z.-1 to change the zoning of the subject property FROM a Residential R3 (R3-1) Zone TO a Residential R3 Special Provision (R3-1(_)) Zone;",
+    "flags": []
+  },
+  {
+    "id": "39fa2e6a98f1",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have directed Civic Administration to prohibit amplified sound after 11:00 PM in the forthcoming Special Events Policy, with a narrow exception allowing up to a 60-minute extension in exceptional circumstances.",
+    "confidence": "high",
+    "quote": "That the Civic Administration BE DIRECTED to prohibit amplified sound after 11:00 PM in the Special Event Policy being brought forward for consideration at the December 2, 2024, meeting of the Community and Protective Services Committee and that in the event of exceptional circumstances, the Deputy City Manager, or designate, is authorized to extend the hours of amplified sound for Special Events to a maximum extension of 60 minutes.",
+    "flags": []
+  },
+  {
+    "id": "8c3ef696afd0",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Convened Council as the Approving Authority under the Expropriations Act to consider the proposed expropriation of lands for the East London Link Project – Phase 4.",
+    "confidence": "high",
+    "quote": "That Council convene as the Approving Authority pursuant to the provisions of the Expropriations Act, R.S.O. 1990, c.E.26, as amended, for the purpose of considering Communication No. 1 from the Deputy City Manager, Environment and Infrastructure with respect to the expropriation of the lands as may be required for the Project known as the East London Link Project – Phase 4.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "d37bfb59e405",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved, as the Approving Authority, the proposed expropriation of lands described in Schedule A for the East London Link Project and authorized issuance of a certificate of approval.",
+    "confidence": "high",
+    "quote": "the Council of The Corporation of the City of London as Approving Authority pursuant to the Expropriations Act, R.S.O. 1990, c. E.26, as amended, HEREBY APPROVES the proposed expropriation of lands, as described in Schedule \"A\" as appended to the staff report dated November 5, 2024",
+    "flags": []
+  },
+  {
+    "id": "daa0d484657e",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "As the Expropriating Authority, introduced the by-law to expropriate lands for the East London Link Project and authorized the steps needed to complete the expropriation (registering plans, and signing and serving notices).",
+    "confidence": "high",
+    "quote": "the proposed by-law as appended to the staff report dated November 5, 2024 as Appendix “A” being “A by-law to expropriate lands in the City of London, in the County of Middlesex, the East London Link Project BE INTRODUCED at the Municipal Council meeting to be held on November 5, 2024;",
+    "flags": []
+  },
+  {
+    "id": "fc2f9833ce19",
+    "issue": "encampments",
+    "axis": "response-scale",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Amended part b) so Council's request to federal/provincial governments for encampment funding would specify that the additional overnight spaces not be located on the main street of any Business Improvement Area.",
+    "confidence": "medium",
+    "quote": "b) the Civic Administration and the Mayor BE REQUESTED to engage with the Federal and Provincial governments to fund additional overnight spaces (that are not located on the main street of any BIA), rent supplements and transactional encampment services as outlined in the report dated October 29, 2024, for a two-year period",
+    "flags": []
+  },
+  {
+    "id": "4d07f4f1ca77",
+    "issue": "encampments",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Proposed re-amending part b) back to text identical to the already-pending wording (no BIA siting restriction), after the amendment adding that restriction had already failed — a restatement with no clear net effect on the pending text.",
+    "confidence": "low",
+    "quote": "b) the Civic Administration and the Mayor BE REQUESTED to engage with the Federal and Provincial governments to fund additional overnight spaces, rent supplements and transactional encampment services as outlined in the report dated October 29, 2024, for a two-year period",
+    "flags": []
+  },
+  {
+    "id": "5c6d802b2c95",
+    "issue": "encampments",
+    "axis": "response-scale",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Would have added a new part j) barring resting spaces from a Business Improvement Area main street unless Municipal Council specifically approved an exception.",
+    "confidence": "medium",
+    "quote": "j)  resting spaces to NOT BE LOCATED on the main street of any Business Improvement Area (BIA) without the approval of Municipal Council.",
+    "flags": []
+  },
+  {
+    "id": "e3e298593604",
+    "issue": "encampments",
+    "axis": "response-scale",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Amended the motion to add a new part j) barring resting spaces from being located on the main street of any Business Improvement Area.",
+    "confidence": "medium",
+    "quote": "j)   resting spaces to NOT BE LOCATED on the main street of any Business Improvement Area (BIA);",
+    "flags": []
+  },
+  {
+    "id": "31f7ea9e21c3",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Granted Councillor D. Ferreira five additional minutes of speaking time on the matter.",
+    "confidence": "high",
+    "quote": "That pursuant to section 9.6 of the Council Procedure By-law, Councillor D. Ferreira BE PERMITTED to speak an additional 5 minutes with respect to this matter.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "be5e61eb6240",
+    "issue": "encampments",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have directed Civic Administration to report back on setback-distance criteria (25m/50m/100m options, remaining available area, and ward-by-ward impact) for encampments from private residential property lines — a study request, not a decision on setbacks themselves.",
+    "confidence": "high",
+    "quote": "k) Civic Administration BE DIRECTED to report back with respect to the setback requirements from any private residential property line in the Community Encampment Response Plan with the following criteria included:",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "291927c27356",
+    "issue": "encampments",
+    "axis": "response-scale",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Approved part j) of the motion, barring resting spaces from being located on the main street of any Business Improvement Area.",
+    "confidence": "medium",
+    "quote": "j)  resting spaces to NOT BE LOCATED on the main street of any Business Improvement Area (BIA);",
+    "flags": []
+  },
+  {
+    "id": "5abe9263fc77",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have directed Civic Administration to complete a scan of Property Standards by-laws and programs and report back by Q2 2025 with recommendations to enhance enforcement.",
+    "confidence": "high",
+    "quote": "ii)    complete a municipal scan of Property Standards By-laws and programs, and report back to a future meeting of the Community and Protective Services Committee by Q2 2025 with recommendations to enhance enforcement protocols within the City's Property Standards By-law;",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "d81609bb456e",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have directed Civic Administration to investigate the feasibility of developing and funding a pilot Public Extermination Program focused on London and Middlesex Community Housing.",
+    "confidence": "high",
+    "quote": "iii)    investigate the feasibility of developing and funding a pilot Public Extermination Program, with a focus on providing systematic oversight and resolution of persistent infestations, particularly in London and Middlesex Community Housing (LMCH);",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "5f9226a76a63",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Granted Councillor S. Trosow three additional minutes of speaking time on the matter.",
+    "confidence": "high",
+    "quote": "That pursuant to section 9.6 of the Council Procedure By-law, Councillor S. Trosow BE PERMITTED to speak an additional 3 minutes with respect to this matter.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "dde088237cfe",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved referring the VHA Home HealthCare Extreme Clean Program funding request to the Budget Committee for consideration in the 2025 Budget Update, rather than deciding on it directly.",
+    "confidence": "high",
+    "quote": "the request for funding the VHA Home HealthCare and its Extreme Clean Program BE REFERRED to the Budget Committee for consideration in the 2025 Budget Update, as per the business case P15 in the 2024-2027 Draft Budget",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "41ec8865db2d",
+    "issue": "encampments",
+    "axis": "response-scale",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Would have amended part f) to set a flat 100-metre buffer for future service depot locations, in place of the 50-to-100-metre range in the pending motion.",
+    "confidence": "medium",
+    "quote": "That part f) of the motion be further amended to indicate \"with a buffer of 100 metres\"",
+    "flags": []
+  },
+  {
+    "id": "c7dbb0e5cb42",
+    "issue": "encampments",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended part f)(iii) to defer future service depot location decisions to the November 19, 2024 SPPC meeting and directed Civic Administration to bring forward a new list of possible locations with a 50-to-100-metre buffer, more evenly dispersed and not concentrated in one ward.",
+    "confidence": "high",
+    "quote": "iii) future service depot locations be deferred for consideration at the November 19, 2024 meeting of Strategic Priorities and Policy Committee and that Civic Administration bring forward a new list of possible locations (with a buffer of 50 to 100 metres) more evenly dispersed across the city as well as alternative locations that do not concentrate service depots in one ward.",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "611ddd612095",
+    "issue": "encampments",
+    "axis": "response-scale",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Amended part b) to reduce the reallocated basic-needs funding from $141,400 back down to $99,700.",
+    "confidence": "high",
+    "quote": "That part b) of the motion be further amended to change funding amount from $141,400 to $99,700",
+    "flags": []
+  },
+  {
+    "id": "cf1bee35ff2d",
+    "issue": "encampments",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have endorsed a 25-metre setback requirement for the Community Encampment Response Plan from any private residential property line with a habitable dwelling, per the Building Code.",
+    "confidence": "low",
+    "quote": "a)    amendments to the setback requirements in the Community Encampment Response Plan to be on or within 25 metres of any private residential property line with a habitable dwelling as per the Building Code BE ENDORSED;",
+    "flags": []
+  },
+  {
+    "id": "545ba91fad80",
+    "issue": "encampments",
+    "axis": "response-scale",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved part b) directing Civic Administration to reallocate up to $99,700 from surplus 2024 Housing Stability Services funding to fund basic needs provision from November 1 through December 31, 2024.",
+    "confidence": "high",
+    "quote": "b)    the Civic Administration BE DIRECTED to reallocate up to $99,700 from the surplus 2024 Housing Stability Services funding to fund the basic needs provision for a period of November 1, 2024 through December 31, 2024;",
+    "flags": []
+  },
+  {
+    "id": "0b898d04d289",
+    "issue": "encampments",
+    "axis": "response-scale",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved part c), Council's request that Civic Administration and the Mayor engage federal and provincial governments to fund the Encampment Implementation Recommendations for 2025 as part of a $250-million federal encampments fund.",
+    "confidence": "medium",
+    "quote": "c)    the Civic Administration and the Mayor BE REQUESTED to engage with the federal and provincial governments to fund the Encampment Implementation Recommendations for an initial period of January 1, 2025 to December 31, 2025 as part of London’s portion of a $250-million federal fund dedicated to addressing encampments;",
+    "flags": []
+  },
+  {
+    "id": "6a1d7d9442f6",
+    "issue": "encampments",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved part f)(iii), formally deferring future service depot location decisions to the November 19, 2024 SPPC meeting and directing a new list of possible locations with a 50-to-100-metre buffer, more evenly dispersed and not concentrated in one ward.",
+    "confidence": "high",
+    "quote": "iii) future service depot locations be deferred for consideration at the November 19, 2024 meeting of Strategic Priorities and Policy Committee and that Civic Administration bring forward a new list of possible locations (with a buffer of 50 to 100 metres) more evenly dispersed across the city as well as alternative locations that do not concentrate service depots in one ward.",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "c50fe8ae97ad",
+    "issue": "encampments",
+    "axis": "response-scale",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved continuing CMHA-TVAMHS's Cold Weather Response contracted services at The Coffee House through May 31, 2025, funded by reallocating remaining operational surplus.",
+    "confidence": "high",
+    "quote": "h) continuation of contracted services at the Canadian Mental Health Association Thames Valley Addictions Mental Health Services (CMHA-TVAMHS) related to their previously approved Cold Weather Response by reallocating remaining operational surplus to maintain services at The Coffee House located at 371 Hamilton Road from December 1, 2024 to May 31, 2025 BE APPROVED;",
+    "flags": []
+  },
+  {
+    "id": "f6b15af2f61b",
+    "issue": "encampments",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved a bundle of remaining parts together: directed Civic Administration to seek additional funding sources and report back in mid-2025 on 2026-and-beyond funding, received several encampment-response updates, and authorized the administrative steps and conditional service agreements needed to deliver the approved services.",
+    "confidence": "low",
+    "quote": "d) the Civic Administration BE DIRECTED to seek out and apply for additional sources of funding to offset any Municipal funding; e) the Civic Administration BE DIRECTED to report back in mid-2025 on plans and recommended funding sources for 2026 and beyond;",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "3f9c3731f9f0",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Permitted the Strategic Priorities and Policy Committee to proceed with its meeting beyond 6:00 PM.",
+    "confidence": "high",
+    "quote": "That pursuant to section 33.8 of the Council Procedure By-law, the Strategic Priorities and Policy Committee BE PERMITTED to proceed beyond 6:00 PM.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "0b282e309c77",
+    "issue": "encampments",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred the councillors' correspondence on the feasibility of a quick-build community of small housing structures (e.g., sprung shelters, tiny homes) to the Customer Service and Process Improvements Reference Group for feedback from development, construction, and real-estate industry partners.",
+    "confidence": "high",
+    "quote": "That correspondence from Councillor S. Franke and Councillor J. Pribil regarding the feasibility of a quick community with small housing structures such as sprung shelters, tiny homes etc. BE REFERRED to the Customer Service and Process Improvements Reference Group to receive feedback from community partners in the development, construction, and real estate industry.",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "d967c2653446",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have directed Civic Administration to tell every tax-levy-funded agency, board, and commission to deal with the City in good faith, and to prohibit using municipal funding for lobbying-related advertising or communication materials aimed at soliciting Council engagement.",
+    "confidence": "medium",
+    "quote": "That the Civic Administration BE DIRECTED to convey to all agencies, boards and commissions that receive tax levy funding through the City of London budget, be directed to work in good faith in their interactions with the City and that the use of municipal funding intended to support lobbying efforts including advertising or communication materials to solicit engagement with the Municipal Council be prohibited (or avoided);",
+    "flags": []
+  },
+  {
+    "id": "3f770d25c82d",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Moved, as an alternative to staff's recommendation, to refuse the applicant's requested special provisions for a reduced 5-metre rear yard setback (vs. 16.8m required) and reduced 20% landscaped open space (vs. 30% required), while still introducing the same Official Plan and zoning by-law amendments and site-plan design requests.",
+    "confidence": "medium",
+    "quote": "(c)    The requested special provisions to permit a reduced rear yard depth of 5 metres whereas 16.8 metres is required, and a reduced landscaped open space of 20% whereas 30% is required, BE REFUSED for the following reasons:",
+    "flags": []
+  },
+  {
+    "id": "e31a99fd125d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved requesting resource materials for Animal Welfare Community Advisory Committee public-awareness events, asked the AWCAC to explore lower-cost tablecloth options, and received several committee report clauses.",
+    "confidence": "high",
+    "quote": "a)    the Civic Administration BE REQUESTED to provide resource materials that can be displayed by the Animal Welfare Community Advisory Committee (AWCAC) at public awareness events related to the AWCAC mandate;",
+    "flags": []
+  },
+  {
+    "id": "a5577168f7c5",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved directing Civic Administration to complete a scan of Property Standards by-laws and programs and report back by Q2 2025 with recommendations to enhance enforcement.",
+    "confidence": "high",
+    "quote": "ii)    complete a municipal scan of Property Standards By-laws and programs, and report back to a future meeting of the Community and Protective Services Committee by Q2 2025 with recommendations to enhance enforcement protocols within the City's Property Standards By-law",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "e2312f986e8d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved directing Civic Administration to investigate the feasibility of developing and funding a pilot Public Extermination Program focused on London and Middlesex Community Housing.",
+    "confidence": "high",
+    "quote": "iii)    investigate the feasibility of developing and funding a pilot Public Extermination Program, with a focus on providing systematic oversight and resolution of persistent infestations, particularly in London and Middlesex Community Housing (LMCH);",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "eb9cac86041a",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved referring the VHA Home HealthCare Extreme Clean Program funding request to the Budget Committee for consideration in the 2025 Budget Update, per business case P15.",
+    "confidence": "high",
+    "quote": "the request for funding the VHA Home HealthCare and its Extreme Clean Program BE REFERRED to the Budget Committee for consideration in the 2025 Budget Update, as per the business case P15 in the 2024-2027 Draft Budget",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "502fa7ef7498",
+    "issue": "climate",
+    "axis": "target-strength",
+    "polarity": "expansive",
+    "whatAYeaDid": "Introduced a by-law authorizing and approving a Memorandum of Understanding with the London Chamber of Commerce to jointly advance climate action objectives, and authorized the Mayor and City Clerk to execute it.",
+    "confidence": "medium",
+    "quote": "authorize and approve a Memorandum of Understanding, as appended to the above-noted by-law, with the London Chamber of Commerce with respect to advancing joint climate action objectives with the mutual understanding that the combined expertise, influence and commitment are better applied together to support common goals;",
+    "flags": []
+  },
+  {
+    "id": "4d0e33ae1eec",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred the Renovictions/Rental Unit Repair Licence staff report back to Community and Protective Services Committee to add temporary alternative accommodation and short-term rental top-ups for displaced tenants, modeled on Hamilton's by-law.",
+    "confidence": "high",
+    "quote": "That the staff report related to Renovictions and Amendments to the Business Licensing By-law to Introduce a Rental Unit Repair Licence BE REFERRED to the next meeting of Community and Protective Services Committee to include temporary alternative accommodation for displaced tenants and short-term rental top ups as provided in the City of Hamilton By-law in Appendix “E” in the staff report dated September 9, 2024",
+    "flags": [
+      "referral"
+    ]
+  }
+]

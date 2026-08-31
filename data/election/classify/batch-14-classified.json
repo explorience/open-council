@@ -1,0 +1,513 @@
+[
+  {
+    "id": "81992ec0e7e0",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved rezoning 2-4 Audrey Avenue and 186-188 Huron Street from a low-density Residential R1 zone to a higher-density Residential R6 zone, permitting a more intensive residential development.",
+    "confidence": "medium",
+    "quote": "change the zoning of the subject properties FROM a Residential R1 Special Provision (R1-5(3)) Zone TO a Residential R6 Special Provision (R6-5(_)) Zone",
+    "flags": []
+  },
+  {
+    "id": "b616e778e552",
+    "issue": "housing",
+    "axis": "use-permission",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Would have narrowed the Official Plan amendment so stacked townhouses are permitted on Neighbourhood Connectors only in Central London (rather than city-wide), and directed further public consultation before any broader change.",
+    "confidence": "high",
+    "quote": "the Official Plan amendment is revised by removing changes to where stacked townhouses are permitted along Neighbourhood Connector street classifications, and maintaining the existing provisions of Table 10 in The London Plan to permit Stacked Townhouses on Neighbourhood Connectors only in Central London",
+    "flags": []
+  },
+  {
+    "id": "856be743679b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Recessed the Council meeting for 10 minutes.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "1e1a518676e9",
+    "issue": "housing",
+    "axis": "use-permission",
+    "polarity": "expansive",
+    "whatAYeaDid": "Adopted Phase 2 of the Section 26 Official Plan/Zoning Review of The London Plan as amended, including permitting stacked townhouses along all Neighbourhood Connectors and setting new maximum building heights (up to 35 storeys in Transit Villages, 25 storeys in Rapid Transit Corridors, and 15 storeys in Urban Corridors).",
+    "confidence": "high",
+    "quote": "x) amend Neighbourhoods Place Type Table 10 to permit stacked townhouses along all Neighbourhood Connectors",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "6fb58b433de6",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred the proposed increase to the Municipal Accommodation Tax to the next Strategic Priorities and Policy Committee meeting so the accommodation industry could comment, rather than deciding the increase.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "0a74276ce449",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Approved rezoning 80 and 82 Base Line Road West to a Special Provision R9 zone that lowers the maximum permitted building height exception from 45 metres to 30 metres.",
+    "confidence": "medium",
+    "quote": "change the zoning of the subject property FROM a Residential R9 (R9-7*H45) Zone TO a Residential R9 Special Provision (R9-7(_)*H30) Zone",
+    "flags": []
+  },
+  {
+    "id": "ef2c2268354d",
+    "issue": "housing",
+    "axis": "use-permission",
+    "polarity": "expansive",
+    "whatAYeaDid": "Would have amended the Official Plan to permit stacked townhouses along primary transit routes.",
+    "confidence": "high",
+    "quote": "amend Neighbourhoods Place Type Table 10 to permit stacked townhouses along primary transit routes",
+    "flags": []
+  },
+  {
+    "id": "1db64f986a3b",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the Zoning By-law for Protected Major Transit Station Areas to remove 'Emergency Care Establishment' from the list of permitted uses in the TSA1, TSA2, TSA3, TSA4, TSA5, and TSA7 zones.",
+    "confidence": "medium",
+    "quote": "",
+    "flags": []
+  },
+  {
+    "id": "e8408845b21e",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved hearing delegation requests from several named individuals at the meeting on the renovictions licensing matter.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "83fca2487789",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred the renovictions business-licensing amendments back to Civic Administration to report back with rent top-ups and alternate accommodations added to the by-law.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "referral",
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "31bbea57ba6c",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have directed Civic Administration to amend the Business Licensing By-law to include temporary alternative accommodation for displaced tenants and short-term rental top-ups, modeled on the City of Hamilton's by-law, for Council's consideration in September 2024.",
+    "confidence": "medium",
+    "quote": "",
+    "flags": []
+  },
+  {
+    "id": "6b9defad7fd1",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved not expanding the Residential Rental Unit Licensing By-law (CP-19) to license all multi-unit residential dwellings up to and including four storeys.",
+    "confidence": "medium",
+    "quote": "",
+    "flags": []
+  },
+  {
+    "id": "5c04feb0794a",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed that a draft by-law regulating maximum temperatures in rental units be prepared for a future Community and Protective Services Committee meeting, without setting the standard itself.",
+    "confidence": "medium",
+    "quote": "",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "51cbca63a015",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed Civic Administration to hold an additional hybrid community meeting with residents near Victoria Park, Harris Park, and Dundas Place to discuss the impact of Special Events Policy changes on their neighbourhoods.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "8142533138e8",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Convened Council as the Approving Authority under the Expropriations Act to consider expropriating lands required for the East London Link Project - Phase 4.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "f7b1942a695f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "As the Approving Authority under the Expropriations Act, approved the expropriation of lands required for the East London Link Project - Phase 4 (a project whose transportation design was approved via Environmental Assessment in 2019) and directed issuance of a certificate of approval.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "42093ac25f70",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "As the Expropriating Authority, introduced the by-law to expropriate lands for the East London Link Project - Phase 4 and directed the steps to register the plan and execute the expropriation notices.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "b7facecce375",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Convened Council as the Approving Authority under the Expropriations Act to consider expropriating lands required for the Wellington Gateway Project's Clark's Bridge Civil Works.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "fb3ade1db5c7",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "As the Approving Authority under the Expropriations Act, approved the expropriation of lands required for the Wellington Gateway Project's Clark's Bridge Civil Works (a project whose design was approved via Environmental Assessment in 2019) and directed issuance of a certificate of approval.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "566cf445bc10",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "As the Expropriating Authority, introduced the by-law to expropriate lands for the Wellington Gateway Project's Clark's Bridge Civil Works and directed the steps to register the plan and execute the expropriation notices.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "272a376d7260",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved, as amended, rezoning a portion of 2060 Dundas Street from Light Industrial and Restricted Service Commercial zoning to a Holding Residential R9 Special Provision zone and Open Space zone, enabling high-density residential redevelopment of the site.",
+    "confidence": "high",
+    "quote": "change the zoning of a portion of the subject property FROM a Light Industrial (LI1/LI7) Zone and Restricted Service Commercial (RSC2/RSC3/RSC4/RSC5) Zone TO a Holding Residential R9 Special Provision (h-_*R9-3(_)) Zone and an Open Space (OS5) Zone",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "6876e0b0cc58",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved rezoning 553-557 Upper Queens Street from a low-density Residential R1 zone to a medium-density Residential R5 zone.",
+    "confidence": "medium",
+    "quote": "change the zoning of the subject property FROM a Residential R1 (R1-9) Zone TO a Residential R5 Special Provision (R5-5(_)) Zone",
+    "flags": []
+  },
+  {
+    "id": "3ef06014fccf",
+    "issue": "climate",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred the 455 Highbury Avenue North self-storage facility expansion application back to Civic Administration to work with the applicant on a plan reducing the scope of the expansion to allow for an adequate tree replacement plan.",
+    "confidence": "medium",
+    "quote": "",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "da0dc28a0459",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Directed a $3,000,000 transfer from the Community Investment Reserve Fund to the Operating Budget Contingency Reserve to support a $1,000,000 property tax-levy reduction in each of the 2025, 2026, and 2027 Annual Budget Updates, and requested the Mayor include that decrease in his budget updates.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to transfer $3,000,000 from the Community Investment Reserve Fund to the Operating Budget Contingency Reserve (OBCR) to support a $1,000,000 tax-levy reduction in each of the 2025, 2026, 2027 Annual Budget Updates",
+    "flags": []
+  },
+  {
+    "id": "07f051a70bf5",
+    "issue": "bikes",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed Civic Administration to flag a Hamilton Road Streetscape update (Adelaide St to Highbury Ave) for identification within the Mobility Master Plan -- noting it could include a reconfigured three-lane layout with protected bike lanes and accessible sidewalks -- with any large-scale redesign considered in the 2028-2031 budget cycle, and directed preparation of a budget amendment for future consideration.",
+    "confidence": "medium",
+    "quote": "",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "ef99730d9b9a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Sustained the Chair's procedural ruling that a proposed amendment (to remove reference to Clarke Road Secondary School) was not in order, under section 10.5 of the Council Procedure By-law.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "3008ff6fbaad",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred the Secondary School Student Transit Pass Pilot Program back to the Strategic Priorities and Policy Committee to explore options serving other school routes, rather than deciding the committee's recommended program.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "5e84c6aa86f3",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Deferred the start of the Secondary School Student Transit Pass Pilot Program to the 2025-26 and 2026-27 school years, directing Civic Administration and the London Transit Commission to develop a Memorandum of Understanding with the Thames Valley District School Board to provide transit passes to Clarke Road Secondary School students, with a report back on the MOU, financing, and metrics.",
+    "confidence": "medium",
+    "quote": "",
+    "flags": []
+  },
+  {
+    "id": "6fab980660b0",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved rezoning a portion of 2060 Dundas Street from Light Industrial and Restricted Service Commercial zoning to a Residential R9 Special Provision zone and Open Space zone, enabling high-density residential redevelopment of the site.",
+    "confidence": "high",
+    "quote": "change the zoning of a portion of the subject property FROM a Light Industrial (LI1/LI7) Zone and Restricted Service Commercial (RSC2/RSC3/RSC4/RSC5) Zone TO a Residential R9 Special Provision (R9-3(_)) Zone and an Open Space (OS5) Zone",
+    "flags": []
+  },
+  {
+    "id": "208e65b18189",
+    "issue": "bikes",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed Civic Administration to flag a Hamilton Road Streetscape update (Adelaide St to Highbury Ave) for identification within the Mobility Master Plan -- noting it could include a reconfigured three-lane layout with protected bike lanes and accessible sidewalks -- with any large-scale redesign considered in the 2028-2031 budget cycle, and directed preparation of a budget amendment for future consideration.",
+    "confidence": "medium",
+    "quote": "",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "679858f9db53",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved routine clauses (1.1, 3.1, 4.1, 5.1, 5.4, and 5.5) of the Animal Welfare Community Advisory Committee's 8th Report.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "aa8bc314975b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed Civic Administration to bring forward a by-law reducing councillors' annual expense budget allocation from $15,000 to $13,500 starting in 2025, as part of the Governance Working Group's broader report on councillor role descriptions, community advisory committee appointment procedures, and a task force reviewing elected-official remuneration and severance pay.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "b682ed96bec6",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the 1st Report of the Strategic Opportunities Review Working Group, including capping London Community Grants funding at up to $250,000/year for 2025-2027 pending a program review, plus several directives for staff to report back on other budget, grants, and revenue-generation matters (e.g. municipal golf partnerships, venue naming rights, facility alcohol licensing, the Surplus/Deficit Policy).",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "3085d20bd8d0",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have directed Civic Administration to report back on the potential to eliminate municipal snow plowing of residential sidewalks by instead requiring property owners to clear them.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "ed337cbc08fb",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have directed Civic Administration to explore replacing the Neighbourhood Decision Making program with a participatory parks-improvement funding model through the Get Involved program, funded up to $125,000/year for 2025-2027 from the Community Investment Reserve Fund.",
+    "confidence": "medium",
+    "quote": "",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "984fb0a5a45f",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Directed Civic Administration to bring forward a budget business case to pause funding for the Neighbourhood Decision Making program for the remainder of the 2025-2027 Multi-Year Budget.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to bring forward a Business Case to the Annual Budget Update for the Mayor's consideration to pause funding for the Neighbourhood Decision Making program for the remainder of the 2025-2027 Multi-Year Budget",
+    "flags": []
+  },
+  {
+    "id": "17559b89d384",
+    "issue": "encampments",
+    "axis": "response-scale",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved a single-source contract award and reallocated $1,800,000 to fund Ark Aid Street Mission's Year-Round Stable Responsive Services program serving people experiencing homelessness, from August to December 2024, with options to renew for two additional years.",
+    "confidence": "high",
+    "quote": "a single source award to Ark Aid Street Mission Inc. BE APPROVED, as per Section 14.4 e) of the Procurement of Goods and Services Policy, to provide Year-Round Stable Responsive Services",
+    "flags": []
+  },
+  {
+    "id": "7f5068930d35",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have directed Civic Administration to report back on draft language extending the renoviction by-law's protections to residents who had already received an N13 eviction notice.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "ad339c9b06e8",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed Civic Administration to report back on possible temporary alternate accommodations, or a short-term rental top-up, for tenants displaced by renoviction-related repairs.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "ab40867b5d0a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have directed Civic Administration to explore and report on options for expanding the capacity of the City-operated Dearness Home long-term care facility, for consideration in the 2028-2031 Multi-Year Budget.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "31bd58f28e78",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have directed Civic Administration to report back on the feasibility of adding a request button to the Service London Portal for reporting property standards violations.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "1ee68642ba23",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Introduced a by-law amending the Traffic and Parking By-law to lower speed limits in school zones on major streets.",
+    "confidence": "medium",
+    "quote": "",
+    "flags": []
+  },
+  {
+    "id": "eefed782c8cb",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have directed Civic Administration to bring forward a by-law reducing councillors' annual expense budget allocation from $15,000 to $13,500 starting in 2025, as part of the Governance Working Group's report on council role descriptions and remuneration policy.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "451f2b3749d1",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed Civic Administration to bring forward a Budget Amendment funding the London Community Grants program (Grassroots, Innovation, and Capital Grants stream) to a maximum of $250,000/year for 2025-2027, contingent on the Community Investment Reserve Fund holding at least a $1M balance, while the program undergoes further review.",
+    "confidence": "low",
+    "quote": "",
+    "flags": []
+  },
+  {
+    "id": "7fd1131d01ec",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have directed Civic Administration to explore replacing the Neighbourhood Decision Making program with a participatory parks-improvement funding model through the Get Involved program, funded up to $125,000/year for 2025-2027 from the Community Investment Reserve Fund.",
+    "confidence": "medium",
+    "quote": "",
+    "flags": [
+      "informational_ask"
+    ]
+  }
+]

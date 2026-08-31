@@ -1,0 +1,509 @@
+[
+  {
+    "id": "d32107445ab4",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved specific window-replacement designs for the Canada Life building at 255 Dufferin Avenue under its Heritage Act alteration permit, with sample review before installation.",
+    "confidence": "high",
+    "quote": "",
+    "flags": []
+  },
+  {
+    "id": "94afaf24990e",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Reopened a prior Council vote under the Council Procedure By-law so Councillor Stevenson could recast her earlier vote on her communication about an infrastructure renewal project.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "12e89301b66d",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Added a requirement that Civic Administration seek Council's approval (rather than proceeding on delegated authority) before entering contribution or loan agreements for any highly supportive housing project.",
+    "confidence": "medium",
+    "quote": "",
+    "flags": [
+      "procedural",
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "dbf3fce564a3",
+    "issue": "housing",
+    "axis": "affordable-funding",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved forgivable-loan grants of $1,485,000 and $3,690,000 and introduced the by-law financing and authorizing contribution agreements for two highly supportive housing developments (248-256 Hill Street, 33 units; 644-646 Huron Street, 82 units).",
+    "confidence": "high",
+    "quote": "a grant of $1,485,000, in the form of a forgivable loan, to the Canadian Mental Health Association Thames Valley Addiction & Mental Health Services for the development and operation of 33 highly supportive housing units at 248-256 Hill Street be AUTHORIZED AND APPROVED",
+    "flags": []
+  },
+  {
+    "id": "bea876cdf451",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have required all future forgivable-loan agreements for highly supportive housing to include provisions letting Council demand loan repayment or impose other consequences if operating standards aren't met.",
+    "confidence": "medium",
+    "quote": "",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "69288d65e04c",
+    "issue": "budget",
+    "axis": "business-case",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Would have excluded three 2026 budget business cases from the update: reduced road-network-improvement planning, ending the multi-residential green bin cart pilot, and stopping blue-box collection from non-eligible sources.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to exclude the following business cases in the 2026 Budget Update: ii) Appendix B, Ref # - 2 Roadway Planning & Design – Reduced Road Network Improvements v) Appendix C, Ref # - 2 Recycling & Composting - Stop Multi-Residential Green Bin Cart Pilot Project and Future Expansion vi) Appendix C, Ref # - 3 Recycling & Composting - Stop Collecting Blue Box Materials from Non-eligible Sources (NES)",
+    "flags": []
+  },
+  {
+    "id": "5581ea6993ac",
+    "issue": "budget",
+    "axis": "business-case",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Excluded the 'Reduced Summer Sidewalk Maintenance' business case from the 2026 Budget Update.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to exclude the following business cases in the 2026 Budget Update: i) Appendix B, Ref # - 1 Roadway Maintenance – Reduced Summer Sidewalk Maintenance",
+    "flags": []
+  },
+  {
+    "id": "fc01a2835039",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed Paul M. Madden to the London Hydro Inc. Board of Directors (Second Class) for the term ending December 31, 2025.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "appointment",
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "0a7c7a9d3d23",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred London Hydro's proposed amendments to the Shareholders Declaration to Civic Administration, to report back at a future Strategic Priorities and Policy Committee meeting.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "referral",
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "c26d84460dc4",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed that the next Council Policy review cycle amend the policy-review by-law to include a requirement to review Council policies using a climate lens.",
+    "confidence": "medium",
+    "quote": "",
+    "flags": [
+      "procedural",
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "29191a49173e",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred the Appointment of Deputy Mayor Policy by-law to the Governance Working Group for review.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "referral",
+      "procedural"
+    ]
+  },
+  {
+    "id": "a4eb827c855c",
+    "issue": "budget",
+    "axis": "business-case",
+    "polarity": "expansive",
+    "whatAYeaDid": "Directed Civic Administration to proceed with implementing the Appendix A user-fee revenue-generation changes and bring forward the corresponding business case for inclusion in the 2026 Budget Update.",
+    "confidence": "medium",
+    "quote": "the Civic Administration BE DIRECTED to proceed with implementing the user fee changes for the revenue generation opportunity identified in Appendix \"A\"... and to bring forward the corresponding business case for inclusion in the Mayor's proposed 2026 Budget Update",
+    "flags": []
+  },
+  {
+    "id": "e11dd21254b2",
+    "issue": "budget",
+    "axis": "business-case",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Excluded the 'Reduced Summer Sidewalk Maintenance' business case (Appendix B, Ref #1) from the 2026 Budget Update.",
+    "confidence": "high",
+    "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 1 Roadway Maintenance – Reduced Summer Sidewalk Maintenance",
+    "flags": []
+  },
+  {
+    "id": "d167a282544f",
+    "issue": "budget",
+    "axis": "business-case",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Excluded the 'Reduced Road Network Improvements' business case (Appendix B, Ref #2) from the 2026 Budget Update.",
+    "confidence": "high",
+    "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 2 Roadway Planning & Design – Reduced Road Network Improvements",
+    "flags": []
+  },
+  {
+    "id": "3dd05e479854",
+    "issue": "budget",
+    "axis": "business-case",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Excluded the Urban Forestry 'Reduction in Pathway and Trail Edge Brush Mulching' business case (Appendix B, Ref #3) from the 2026 Budget Update.",
+    "confidence": "high",
+    "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 3 Urban Forestry - Reduction in Pathway and Trail Edge Brush Mulching",
+    "flags": []
+  },
+  {
+    "id": "1c8075648323",
+    "issue": "budget",
+    "axis": "business-case",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Would have excluded the Urban Forestry 'Tree Planting Grants & Non-replacement Tree Planting' business case (Appendix B, Ref #4) from the 2026 Budget Update.",
+    "confidence": "high",
+    "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 4 Urban Forestry – Tree Planting Grants & Non-replacement Tree Planting",
+    "flags": []
+  },
+  {
+    "id": "ba9608551c5e",
+    "issue": "budget",
+    "axis": "business-case",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Excluded the Aquatics 'Closure of 5 Wading Pools' business case (Appendix B, Ref #5) from the 2026 Budget Update.",
+    "confidence": "high",
+    "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 5 Aquatics – Closure of 5 Wading Pools",
+    "flags": []
+  },
+  {
+    "id": "294f2da7a27e",
+    "issue": "budget",
+    "axis": "business-case",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Would have excluded the Corporate Management 'Resident Satisfaction Survey' business case (Appendix B, Ref #6) from the 2026 Budget Update.",
+    "confidence": "high",
+    "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 6 Corporate Management – Resident Satisfaction Survey",
+    "flags": []
+  },
+  {
+    "id": "e7b1e2dca5dc",
+    "issue": "budget",
+    "axis": "business-case",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Would have excluded the Human Resources 'Internships' business case (Appendix B, Ref #7) from the 2026 Budget Update.",
+    "confidence": "high",
+    "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 7 Human Resources – Internships",
+    "flags": []
+  },
+  {
+    "id": "17e2790f8249",
+    "issue": "budget",
+    "axis": "business-case",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Would have excluded the Information Technology 'Digital Transformation' business case (Appendix B, Ref #8) from the 2026 Budget Update.",
+    "confidence": "high",
+    "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 8 Information Technology – Digital Transformation",
+    "flags": []
+  },
+  {
+    "id": "45e004c6a94d",
+    "issue": "budget",
+    "axis": "business-case",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Would have excluded the Traffic Control & Street Lighting 'Eliminate Full Funding of New Streetlight Installations' business case (Appendix C, Ref #1) from the 2026 Budget Update.",
+    "confidence": "high",
+    "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix C, Ref # - 1 Traffic Control & Street Lighting - Eliminate Full Funding of New Streetlight Installations",
+    "flags": []
+  },
+  {
+    "id": "7b22159ad688",
+    "issue": "budget",
+    "axis": "business-case",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Excluded the Recycling & Composting 'Stop Multi-Residential Green Bin Cart Pilot Project and Future Expansion' business case (Appendix C, Ref #2) from the 2026 Budget Update.",
+    "confidence": "high",
+    "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix C, Ref # - 2 Recycling & Composting - Stop Multi-Residential Green Bin Cart Pilot Project and Future Expansion",
+    "flags": []
+  },
+  {
+    "id": "48bb3106304c",
+    "issue": "budget",
+    "axis": "business-case",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Excluded the Recycling & Composting 'Stop Collecting Blue Box Materials from Non-eligible Sources (NES)' business case (Appendix C, Ref #3) from the 2026 Budget Update.",
+    "confidence": "high",
+    "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix C, Ref # - 3 Recycling & Composting - Stop Collecting Blue Box Materials from Non-eligible Sources (NES)",
+    "flags": []
+  },
+  {
+    "id": "0689312f36aa",
+    "issue": "budget",
+    "axis": "business-case",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Excluded the Parks & Horticulture 'Maintenance of Local Road Traffic Circles, Gateway Features and Cul-de-sac Islands' business case (Appendix C, Ref #4) from the 2026 Budget Update.",
+    "confidence": "high",
+    "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix C, Ref # - 4 Parks & Horticulture - Maintenance of Local Road Traffic Circles, Gateway Features and Cul-de-sac Islands",
+    "flags": []
+  },
+  {
+    "id": "57b785c0afb3",
+    "issue": "budget",
+    "axis": "business-case",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Would have excluded the Capital Financing 'Climate Change Reserve Fund Contribution' business case (Appendix C, Ref #5) from the 2026 Budget Update.",
+    "confidence": "high",
+    "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix C, Ref # - 5 Capital Financing – Climate Change Reserve Fund Contribution",
+    "flags": []
+  },
+  {
+    "id": "684b213cc213",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred Councillor Stevenson's request to review LEDC's budget for cost-savings opportunities to a future Strategic Priorities and Policy Committee meeting where LEDC is scheduled to appear, rather than deciding it now.",
+    "confidence": "medium",
+    "quote": "",
+    "flags": [
+      "referral",
+      "procedural"
+    ]
+  },
+  {
+    "id": "8294bb7f962b",
+    "issue": "bikes",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have directed staff to report back to a future Budget Committee meeting with a full list of approved future cycling lane projects, their locations, timelines, capital costs, funding sources, and maintenance costs — a request for information, not a funding decision.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "1402497f6c18",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Added a requirement that a road access to Clarke Road be reviewed and constructed as part of the 20 Clarke Road residential development.",
+    "confidence": "medium",
+    "quote": "",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "0184fa0a0fc6",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved rezoning 1890 & 1900 Kilgorman Way from a Holding Residential R1 zone to a standard Residential R1 zone, lifting the holding provision that had blocked development.",
+    "confidence": "high",
+    "quote": "the proposed by-law... BE INTRODUCED at the Municipal Council meeting to be held on June 3, 2025, to amend Zoning By-law No. Z.-1... to change the zoning of the subject property FROM a Holding Residential R1 (h- 2*R1-14) Zone, TO a Residential R1 (R1-14) Zone",
+    "flags": []
+  },
+  {
+    "id": "72dd2f4f442c",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved an Official Plan and zoning amendment at 168 Meadowlily Road South enabling stacked townhouses (up to 3.5 storeys) and apartment buildings (up to 8-12 storeys) on land redesignated to include new development blocks.",
+    "confidence": "high",
+    "quote": "add a new Specific Policy to the Neighbourhoods Place Type for Block 2 of the subject lands to permit stacked townhouses with a maximum height of 3.5 storeys on a Neighbourhood Street, for Block 3 of the subject lands to permit an apartment building with a maximum height of 8 storeys, and for Block 4 of the subject lands to permit an apartment building with a maximum height of 8 to 12 storeys",
+    "flags": []
+  },
+  {
+    "id": "cc26846704a1",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Consented to demolishing the Kent Brewery heritage block (197, 183, 179, 175 Ann Street and 86, 84 St. George Street) subject to detailed salvage and commemoration conditions for the future development on the site.",
+    "confidence": "medium",
+    "quote": "",
+    "flags": []
+  },
+  {
+    "id": "0249d3d644dc",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Permitted Councillor J. Pribil to speak for an additional one minute on the Whole of Community System Response Overview item.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "c1c7db59127a",
+    "issue": "housing",
+    "axis": "affordable-funding",
+    "polarity": "expansive",
+    "whatAYeaDid": "Increased maximum per-household funding for Ontario Renovates home repairs and accessibility modifications to $25,000, raised total annual program funding to $500,000, and approved the loan agreement template and by-law needed to deliver it.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE AUTHORIZED to increase the maximum per household funding for repairs and accessibility modifications to $25,000... the Civic Administration BE AUTHORIZED to increase total annual funding for the Ontario Renovates Program to $500,000",
+    "flags": []
+  },
+  {
+    "id": "fa154ae19f7b",
+    "issue": "encampments",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed staff to report back to the Community and Protective Services Committee in Q2 2025 with the content and rollout plan for a new public homelessness-data dashboard — a request for information, not a funding or policy decision.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "informational_ask",
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "c3e045940910",
+    "issue": "encampments",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed Civic Administration to discontinue the Whole of Community System Response quarterly written report and replace it with a more robust, publicly accessible homelessness-data dashboard.",
+    "confidence": "medium",
+    "quote": "",
+    "flags": [
+      "informational_ask",
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "1fa5cd5591bb",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the by-law to authorize the Deputy City Manager, Housing and Community Growth (rather than requiring a Council vote) to approve future amendments to the Affordable Housing Contribution Agreement template.",
+    "confidence": "medium",
+    "quote": "",
+    "flags": [
+      "procedural",
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "2f920c10be10",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Narrowed that staff delegation with a carve-out: changes to tenancy profiles, or to supportive or highly supportive housing terms, would still require Council approval rather than being delegated to staff.",
+    "confidence": "medium",
+    "quote": "",
+    "flags": [
+      "procedural",
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "8ccb597c246d",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Narrowed the delegation carve-out to cover only supportive or highly supportive housing terms (dropping the earlier tenancy-profile exception), which would still require Council approval rather than being delegated.",
+    "confidence": "medium",
+    "quote": "",
+    "flags": [
+      "procedural",
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "ab6d8e785355",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Set the final delegation carve-out to cover only highly supportive housing (dropping the broader 'supportive housing' exception), meaning only highly-supportive-housing contribution-agreement changes would require Council approval rather than being delegated to staff.",
+    "confidence": "medium",
+    "quote": "",
+    "flags": [
+      "procedural",
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "db7bbc7688df",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved rezoning 3849 Campbell Street North from Urban Reserve to a mix of Residential (R5/R6/R8/R9) and Open Space zones, enabling housing development on land not previously zoned for residential use.",
+    "confidence": "high",
+    "quote": "the proposed by-law... BE INTRODUCED at the Municipal Council meeting to be held on May 13, 2025 to amend Zoning By-law No. Z.-1... to change the zoning of the subject property FROM an Urban Reserve (UR4) TO a Residential R5/R6/R8/R9... Zone",
+    "flags": []
+  },
+  {
+    "id": "a85299d397d0",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have directed renaming Plantation Road to Larch Road, to be completed within six months.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "ee290e80befb",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have directed Civic Administration to commence public engagement with the impacted neighbourhood on renaming Plantation Road, instead of deciding the rename directly.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "informational_ask",
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "0c3d4157dda8",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed Civic Administration to apply the Ontario Human Rights Commission's Human Rights-Based Approach Framework when evaluating future commemorative naming requests for streets and city assets.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "a44dde5e3aec",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed renaming Trooper Wilson Place to Peacekeeper Place.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "d9ef122971da",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Directed that the remaining $16.9 million of the 2024 operating budget surplus be retained in the Operating Budget Contingency Reserve and applied evenly in 2026 and 2027 to reduce (mitigate) those years' tax-levy increases.",
+    "confidence": "medium",
+    "quote": "Remaining $16.9 million to be retained in the Operating Budget Contingency Reserve, to be applied evenly as tax levy mitigation in 2026 and 2027 through a business case in the 2026 Budget Update",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  }
+]

@@ -1,0 +1,452 @@
+[
+  {
+    "id": "9daa4ae88f7d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Updated council's own base-compensation formula so 2028 councillor pay is recalculated in 2027 from 2021-2026 census data, pegged to the 70th percentile of 2025 full-time individual employment income in the London CMA.",
+    "confidence": "high",
+    "quote": "the Council base compensation and the annual adjustment formula BE UPDATED in 2027 to reflect data from the 2021 – 2026 census period, and that the new data be used to calculate Council compensation starting in 2028",
+    "flags": []
+  },
+  {
+    "id": "cdbb0a7c324f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Continued the existing practice of not paying the Mayor or Councillors extra compensation or stipends for sitting on agencies, boards, and commissions.",
+    "confidence": "high",
+    "quote": "the current practice of not providing additional compensation or stipends to the Mayor and Councillors for sitting on agencies, boards, and commissions BE CONTINUED",
+    "flags": []
+  },
+  {
+    "id": "603772c87312",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Created a new mechanism paying Standing Committee Chairs additional compensation equal to 4% of base councillor salary for their added responsibilities.",
+    "confidence": "high",
+    "quote": "a mechanism to compensate Standing Committee Chairs for their additional responsibilities BE IMPLEMENTED, with compensation to be set at 4% of the base annual Councillor salary",
+    "flags": []
+  },
+  {
+    "id": "adec37ac2a3a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Codified in council policy a new compensation mechanism paying the Deputy Mayor and Budget Chair an additional 8% of base councillor salary, and formalized how those two positions are appointed.",
+    "confidence": "high",
+    "quote": "a mechanism to compensate the Deputy Mayor and the Budget Chair BE FORMALIZED in the Remuneration for Elected Officials and Appointed Citizen Members Policy, with additional compensation for both positions to be set at the amount of 8% of the base annual Councillor salary",
+    "flags": []
+  },
+  {
+    "id": "f42e59d08d2d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed Civic Administration to establish a severance package for council members who lose re-election, worth one week of pay per year of service up to a maximum of four weeks.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to take the necessary steps to establish a severance package for Members of Council who are unsuccessful in re-election, calculated at one (1) week of pay per year of service, to a maximum of four (4) weeks",
+    "flags": []
+  },
+  {
+    "id": "734a77116bfa",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred the task force's recommendations on councillor office staffing levels, general expense accounts, and the contract assistant expense allotment to a future Governance Working Group meeting instead of deciding them at this meeting.",
+    "confidence": "high",
+    "quote": "l) and m) of the 2025 Council Resourcing Review Task Force recommendations, relating to the Councillor Office support staff complement, the reduction to Council Member general expense accounts, and the increase to the contract assistant expense allotment, BE REFERRED to a future meeting of the Governance Working Group",
+    "flags": ["referral"]
+  },
+  {
+    "id": "92a1d39a4c23",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Indexed councillor base compensation to the 70th percentile of 2020 median full-time employment income for Londoners, effective at the start of the next council term.",
+    "confidence": "high",
+    "quote": "the annual compensation for Councillors BE INDEXED to the 70th percentile 2020 median full-time employment income for Londoners, as reported in the 2021 Census",
+    "flags": []
+  },
+  {
+    "id": "cc02b97b1db2",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Kept the existing annual adjustment formula in the Remuneration for Elected Officials and Appointed Citizen Members Policy unchanged.",
+    "confidence": "high",
+    "quote": "the current annual adjustment formula in the Remuneration for Elected Officials and Appointed Citizen Members Policy BE MAINTAINED",
+    "flags": []
+  },
+  {
+    "id": "93d38a9fb41b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Updated council's own base-compensation formula so 2028 councillor pay is recalculated in 2027 from 2021-2026 census data, pegged to the 70th percentile of 2025 full-time individual employment income in the London CMA.",
+    "confidence": "high",
+    "quote": "the Council base compensation and the annual adjustment formula BE UPDATED in 2027 to reflect data from the 2021 – 2026 census period, and that the new data be used to calculate Council compensation starting in 2028",
+    "flags": []
+  },
+  {
+    "id": "0ae2e39fbff8",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Continued the existing practice of not paying the Mayor or Councillors extra compensation or stipends for sitting on agencies, boards, and commissions.",
+    "confidence": "high",
+    "quote": "the current practice of not providing additional compensation or stipends to the Mayor and Councillors for sitting on agencies, boards, and commissions BE CONTINUED",
+    "flags": []
+  },
+  {
+    "id": "89dc3800dea4",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Created a new mechanism paying Standing Committee Chairs additional compensation equal to 4% of base councillor salary for their added responsibilities.",
+    "confidence": "high",
+    "quote": "a mechanism to compensate Standing Committee Chairs for their additional responsibilities BE IMPLEMENTED, with compensation to be set at 4% of the base annual Councillor salary",
+    "flags": []
+  },
+  {
+    "id": "a9362dbc53f6",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Codified in council policy a new compensation mechanism paying the Deputy Mayor and Budget Chair an additional 8% of base councillor salary, and formalized how those two positions are appointed.",
+    "confidence": "high",
+    "quote": "a mechanism to compensate the Deputy Mayor and the Budget Chair BE FORMALIZED in the Remuneration for Elected Officials and Appointed Citizen Members Policy, with additional compensation for both positions to be set at the amount of 8% of the base annual Councillor salary",
+    "flags": []
+  },
+  {
+    "id": "590241b860b3",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed Civic Administration to establish a severance package for council members who lose re-election, worth one week of pay per year of service up to a maximum of four weeks.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to take the necessary steps to establish a severance package for Members of Council who are unsuccessful in re-election, calculated at one (1) week of pay per year of service, to a maximum of four (4) weeks",
+    "flags": []
+  },
+  {
+    "id": "b1bc3a09839b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Endorsed a 'continuous learning' training model for Council and required both new and returning members to attend post-election training and onboarding sessions.",
+    "confidence": "high",
+    "quote": "a 'continuous learning' model of Councillor training BE ENDORSED and supported with resources, and that both new and returning Council Members BE REQUIRED to attend post-election training and onboarding sessions",
+    "flags": []
+  },
+  {
+    "id": "3fe9255c55d6",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed Jeff Gard to the Committee of Adjustment for the term ending November 14, 2026.",
+    "confidence": "high",
+    "quote": "Jeff Gard BE APPOINTED to the Committee of Adjustment for the term ending November 14, 2026",
+    "flags": ["appointment"]
+  },
+  {
+    "id": "2aa419f2b8d8",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred the appointment of Lori Higgs and Marlene McGrath to Western University's Board of Governors to the next Strategic Priorities and Policy Committee meeting to gather more information on the candidates and appointment process, rather than deciding at this meeting.",
+    "confidence": "high",
+    "quote": "the motion to appoint Lori Higgs and Marlene McGrath to the Western University's Board of Governors BE REFERRED to the next meeting of Strategic Priorities and Policy Committee to allow for more information to be gathered",
+    "flags": ["appointment", "referral"]
+  },
+  {
+    "id": "8eeba497afe5",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Permitted the committee meeting to continue past its normal 6:00 PM cutoff under the Council Procedure By-law.",
+    "confidence": "high",
+    "quote": "pursuant to section 33.8 of the Council Procedure by-law, the Committee BE PERMITTED to proceed beyond 6:00 PM",
+    "flags": ["procedural"]
+  },
+  {
+    "id": "0cadd356b66f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Sustained the Chair's procedural ruling on a point of order raised during the Western University Board of Governors appointment discussion.",
+    "confidence": "high",
+    "quote": "shall the ruling of the Chair BE SUSTAINED?",
+    "flags": ["procedural"]
+  },
+  {
+    "id": "dccfc4a6949d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Reassigned which standing committee oversees sidewalks, bike lanes, snow control, street lighting, traffic control, and waste management -- moving that mandate from Community and Protective Services to Infrastructure and Corporate Services -- and added Strong Mayor Decisions/Directions items to the Strategic Priorities and Policy Committee's mandate.",
+    "confidence": "high",
+    "quote": "the Infrastructure and Corporate Services Committee mandate BE AMENDED to include “Sidewalks and Bike lanes – Planning, Design (retrofitting into established neighbourhoods) and Maintenance, Snow Control, Street Lighting... and Waste Management”",
+    "flags": ["procedural"]
+  },
+  {
+    "id": "3379c20d62a3",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred the Bill 17 and Green Development Guidelines staff report back to Civic Administration to report back on a green-incentive consultation framework, a 'green priority stream' for faster approvals, provincial alignment confirmation, and updated application reporting, rather than deciding on any of it now.",
+    "confidence": "medium",
+    "quote": "BE REFERRED back to the Civic Administration to report back to a future meeting of the Planning and Environment on the following: i) a terms of reference for consultation on an incentive based approach to encourage green initiatives",
+    "flags": ["referral", "informational_ask"]
+  },
+  {
+    "id": "fb2f11631228",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Granted Councillor Franke leave under the Council Procedure By-law to move a motion on revisiting the Urban Growth Boundary Review using updated population projections; it did not decide the boundary question itself.",
+    "confidence": "high",
+    "quote": "leave BE GRANTED to permit Councillor S. Franke to move a motion related to item 7.2 on the Council Agenda related to Revisiting the Urban Boundary Review Using Updated Population Projections",
+    "flags": ["procedural"]
+  },
+  {
+    "id": "84d634f322c0",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Introduced a new by-law requiring adequate and suitable cooling in rental units, plus a companion by-law adding administrative penalty amounts for non-compliance.",
+    "confidence": "high",
+    "quote": "the proposed by-law, as appended to the above-noted staff report, BE INTRODUCED at the Municipal Council meeting to be held on October 14th, 2025, for a new Adequate and Suitable Cooling By-law",
+    "flags": []
+  },
+  {
+    "id": "9834405f9a32",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have directed Civic Administration to report back with further evaluation and cost analysis on implementing weekly (rather than biweekly) garbage collection during July and August.",
+    "confidence": "high",
+    "quote": "The Civic Administration BE DIRECTED to report back to a future meeting of the Community and Protective Services Committee with further evaluation and associated cost analysis regarding the implementation of weekly garbage collection during the July and August months",
+    "flags": ["informational_ask"]
+  },
+  {
+    "id": "ba4c491b87f8",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed Civic Administration to take no action on expanding the materials collected in the Green Bin Program at this time.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to take no action on expanding the materials collected in the Green Bin Program at this time",
+    "flags": []
+  },
+  {
+    "id": "9348cceb9675",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Sustained the Chair's procedural ruling on a point of order raised during debate on the Green Bin and garbage collection item.",
+    "confidence": "high",
+    "quote": "shall the ruling of the Chair BE SUSTAINED?",
+    "flags": ["procedural"]
+  },
+  {
+    "id": "d72f2d223e08",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed Civic Administration to report back on the feasibility of including diaper and menstrual product waste in the Green Bin Program.",
+    "confidence": "high",
+    "quote": "Civic Administration BE DIRECTED to report back to the Community and Protective Services Committee on the feasibility of including diaper and menstrual product waste in the Green Bin Program",
+    "flags": ["informational_ask"]
+  },
+  {
+    "id": "e070b52f1e95",
+    "issue": "encampments",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed Civic Administration to report back to a future Community and Protective Services Committee meeting with the homelessness-response metrics previously requested at an October 2024 Strategic Priorities and Policy Committee meeting.",
+    "confidence": "medium",
+    "quote": "The Civic Administration BE DIRECTED to report back to a future meeting of the Community and Protective Services Committee with the requested metrics as presented and discussed at the October 8, 2024 meeting of the Strategic Priorities and Policy Committee",
+    "flags": ["informational_ask"]
+  },
+  {
+    "id": "2d077b0b72af",
+    "issue": "encampments",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Made a wording-only edit to the Micro-Modular Shelter Site motion, changing 'regarding' to 'with the' in the briefing-note clause; it did not change the site, funding, or timeline decisions.",
+    "confidence": "high",
+    "quote": "changing \"regarding\" to \"with the\" before the text \"agreements and contracts as they are finalized;\"",
+    "flags": ["procedural"]
+  },
+  {
+    "id": "2c867433409e",
+    "issue": "encampments",
+    "axis": "response-scale",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved funding from the Operating Budget Contingency Reserve to cover the Micro-Modular Shelter Site's costs through April 2027.",
+    "confidence": "high",
+    "quote": "funding for the costs of the Micro-Modular Shelter Site through April 2027 BE APPROVED from the Operating Budget Contingency Reserve",
+    "flags": ["wrapper_preamble"]
+  },
+  {
+    "id": "c39564ac8453",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have directed Civic Administration to add, for information purposes only, a map showing a 1,054-hectare urban growth boundary expansion as an appendix to the final Official Plan review report.",
+    "confidence": "high",
+    "quote": "mapping of a boundary expansion encompassing 1,054 hectares of developable land, for information purposes",
+    "flags": ["informational_ask"]
+  },
+  {
+    "id": "0ee54a890942",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received, without adopting, the draft Urban Growth Boundary Review documents for Employment Areas and Community Growth as information.",
+    "confidence": "high",
+    "quote": "the Draft Urban Growth Boundary Review (Employment Areas) and revised Draft Urban Growth Boundary Review (Community Growth) as appended to the above-noted staff report as Appendix “B” BE RECEIVED",
+    "flags": ["informational_ask", "wrapper_preamble"]
+  },
+  {
+    "id": "e0c288c18934",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Introduced by-laws amending the Official Plan and rezoning the 1511 Clarke Road property from Urban Reserve/Environmental Review to residential zones, permitting apartment buildings up to 8-10 storeys and triplexes, fourplexes, and stacked townhomes.",
+    "confidence": "high",
+    "quote": "to permit an apartment building to a maximum height of 30 metres or 8 storeys",
+    "flags": []
+  },
+  {
+    "id": "36aea4a70ddb",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave final approval to the 1511 Clarke Road Official Plan and zoning by-law amendments as amended earlier in the same meeting.",
+    "confidence": "high",
+    "quote": "item 9, clause 3.5, as amended, BE APPROVED",
+    "flags": ["wrapper_preamble"]
+  },
+  {
+    "id": "67dcef32267d",
+    "issue": "encampments",
+    "axis": "response-scale",
+    "polarity": "expansive",
+    "whatAYeaDid": "Authorized Civic Administration to finalize 1710 Wilton Grove Road as the site for an up-to-2-year temporary Micro-Modular Shelter, subject to obtaining required permits and approvals.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE AUTHORIZED to finalize 1710 Wilton Grove Road as the location for an up to 2-year temporary Micro-Modular Shelter Site subject to obtaining required permits and approvals",
+    "flags": ["wrapper_preamble"]
+  },
+  {
+    "id": "aa46dff73d98",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed Civic Administration to implement a free parking pilot at the 641 Queens Avenue and 434 Elizabeth Street parking lots until the end of Q1 2027.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to implement a free parking pilot for the 641 Queens Avenue and 434 Elizabeth Street parking lots until the end of Q1 2027",
+    "flags": ["wrapper_preamble"]
+  },
+  {
+    "id": "2526ff654b36",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have given notice of Council's intention to designate 1511 Clarke Road as a property of cultural heritage value under the Ontario Heritage Act.",
+    "confidence": "high",
+    "quote": "notice BE GIVEN under the provisions of Section 29(3) of the Ontario Heritage Act R.S.O 1990, c. O. 18, of the Municipal Council’s intention to designate the property to be of cultural heritage value or interest",
+    "flags": []
+  },
+  {
+    "id": "0d85a88501d0",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Recommended introducing by-laws to amend the Official Plan and rezone the 1511 Clarke Road property from Urban Reserve/Environmental Review to residential zones, permitting apartment buildings up to 8-10 storeys and multi-unit housing types.",
+    "confidence": "high",
+    "quote": "to permit an apartment building to a maximum height of 30 metres or 8 storeys",
+    "flags": []
+  },
+  {
+    "id": "ffa3ddd6118c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Introduced a new by-law requiring adequate and suitable cooling in rental units, plus a companion by-law adding administrative penalty amounts for non-compliance.",
+    "confidence": "high",
+    "quote": "the proposed by-law, as appended to the above-noted staff report, BE INTRODUCED at the Municipal Council meeting to be held on October 14th, 2025, for a new Adequate and Suitable Cooling By-law",
+    "flags": []
+  },
+  {
+    "id": "8d04f62022eb",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have directed Civic Administration to bring a future report on the cooling units installed in buildings covered by the by-law.",
+    "confidence": "high",
+    "quote": "bring a report to a future meeting of the Community and Protective Services Committee with respect to the cooling units in the buildings",
+    "flags": ["informational_ask"]
+  },
+  {
+    "id": "d3ba2a5a9a24",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have directed Civic Administration to bring a future report on extending the scope of the cooling by-law.",
+    "confidence": "high",
+    "quote": "bring a report to a future meeting of the Community and Protective Services Committee with respect to extending the scope of the by-law",
+    "flags": ["informational_ask"]
+  },
+  {
+    "id": "838f7c50e8f0",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred to the London Transit Commission the question of offering free transit on high-heat days.",
+    "confidence": "high",
+    "quote": "refer to London Transit Commission the issue of free transit on high heat days",
+    "flags": ["referral"]
+  },
+  {
+    "id": "af0e5386cff5",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have directed Civic Administration to bring a future report on an educational program covering the cooling by-law's applicability and coverage.",
+    "confidence": "high",
+    "quote": "bring a report to a future meeting of the Community and Protective Services Committee with respect to implementing an educational program related to the applicability and coverage of the by-law",
+    "flags": ["informational_ask"]
+  },
+  {
+    "id": "5b007df08ef4",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Granted Councillor Stevenson leave under the Council Procedure By-law to move a motion on the urgent situation within London's Housing Stability Program; it did not decide the program question itself.",
+    "confidence": "high",
+    "quote": "leave BE GRANTED to permit Councillor S. Stevenson to move a motion related to item 7.1 on the Council Agenda related to Urgent situation within London’s Housing Stability program",
+    "flags": ["procedural"]
+  },
+  {
+    "id": "5427888a6b2d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Changed the report-back deadline in the Housing Stability Program motion from a fixed date (October 20, 2025) to an unspecified 'future meeting.'",
+    "confidence": "high",
+    "quote": "the motion be amended to remove the October 20, 2025 date and indicate \"future meeting\" instead",
+    "flags": ["procedural"]
+  },
+  {
+    "id": "bb74084d4b6c",
+    "issue": "encampments",
+    "axis": "response-scale",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Paused new placements of high-acuity individuals into the 'Project Home' program until Council received and reviewed a report back on program issues.",
+    "confidence": "medium",
+    "quote": "pause any new placements of “high acuity” individuals through the “Project Home” program until the report back is received and reviewed by committee and council",
+    "flags": []
+  }
+]

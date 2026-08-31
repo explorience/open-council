@@ -1,0 +1,583 @@
+[
+  {
+    "id": "cab5f047b532",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed Civic Administration to explore naming-convention options for the new ward boundaries and report back to Council, once the boundaries are finalized, in time for the 2026 election.",
+    "confidence": "high",
+    "quote": "Civic Administration BE DIRECTED to explore naming convention options for the final ward boundaries, provide a report outlining these options to Council for their consideration and community engagement with sufficient time for the 2026 municipal elections.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded full item 3.1 (SPPC 2024-12-10): motion #7, 'Directed Civic Administration to explore naming convention options...', Failed 2-12. Quote verbatim-confirmed against source. Correctly issue=none/null -- pure informational-ask (report-back request), and it failed, so no direction was even taken."
+  },
+  {
+    "id": "2d1c9df16330",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "In final vote, approved the amended 2024 Ward Boundary Review report (the new 14-ward electoral map and its associated minor boundary adjustments).",
+    "confidence": "medium",
+    "quote": "That the motion, as amended, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded full item 3.1: motion #8, 'That the motion, as amended, BE APPROVED.' Passed 13-1, finalizing the amended Ward Boundary Review. Correctly issue=none -- ward-boundary/electoral-map governance isn't one of the 8 tracked issues; no false topic position published."
+  },
+  {
+    "id": "487f0590afc3",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved hearing a verbal delegation from the London Development Institute's Executive Director immediately, ahead of the scheduled order of business, on the Housing Accelerator Fund update item.",
+    "confidence": "high",
+    "quote": "That the delegation request from M. Wallace, Executive Director, London Development Institute BE APPROVED to be heard at this time.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded item 4.3 (SPPC 2024-12-10): motion #1, delegation-order approval for M. Wallace/LDI ahead of the Housing Accelerator Fund item. Passed 12-1. Correctly issue=none -- this decides WHEN to hear a speaker, not the HAF policy content; no housing keyword in the motion's own body."
+  },
+  {
+    "id": "19e95b9a0e02",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved beginning formal expropriation proceedings for land needed for Phase 2 of the Wellington Gateway Project and directed that the enabling by-law be introduced at the December 17, 2024 Council meeting.",
+    "confidence": "high",
+    "quote": "approval BE GIVEN to the expropriation of land as may be required for the Wellington Gateway Project, and that the following actions be taken in connection therewith",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded item 2.7 (ICSC 2024-12-09): full expropriation motion for Wellington Gateway Phase 2, Passed 4-1. No issue keyword hits (no transit/housing/budget phrase in body or title). Correctly left issue=none."
+  },
+  {
+    "id": "9e503f314d94",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing a zoning by-law amendment for 21-41 Meadowlily Road North and 20 Norlan Avenue, rezoning the property from a Holding Residential R5 Special Provision Bonus zone to a Holding Residential R5 Special Provision zone to allow the applicant's residential development, conditioned on new playgrounds for two schools and a sewer line to the Urban Roots property.",
+    "confidence": "medium",
+    "quote": "the proposed revised, attached, by-law BE INTRODUCED at the Municipal Council meeting to be held on December 17, 2024, to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan for the City of London, 2016), to change the zoning of the subject property FROM a Holding Residential R5 Special Provision Bonus (h-17*h-100*R5-7(26)*B-94) Zone TO a Holding Residential R5 Special Provision (h*R5-7(26)) Zone",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded item 3.10 (PEC 2024-12-03): motion #0, full rezoning text for 21-41 Meadowlily/20 Norlan, Passed 4-1. Quote verbatim-confirmed. Housing issue correctly derived from body ('Official Plan', zoning-amendment language); generic AFFIRM fallback (BE INTRODUCED) correctly yields expansive/application-approval since this is a real housing-development rezoning, not a boilerplate-only hit."
+  },
+  {
+    "id": "171d5c892bfb",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved requesting the Province support a roughly 2,000-hectare Urban Growth Boundary expansion to increase developable land for new housing supply, and directed staff to develop a backup 2,000-hectare land-supply scenario in case the Province declines.",
+    "confidence": "high",
+    "quote": "the Province BE REQUESTED to support an Urban Growth Boundary expansion of approximately 2,000 hectares of developable land to accelerate London’s new housing supply, considering the Housing Supply Marketplace Analysis and the Land Needs Assessment (Community Growth)",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded item 3.14 (PEC 2024-12-03): correctly disambiguated to motion #3 (the standalone UGB-expansion sub-vote, Passed 5-1, quote verbatim-confirmed) rather than the parent motion #0 (Passed 6-0, full staff recommendation) which shares the item. Housing issue correct (UGB expansion 'to accelerate London's new housing supply'); expansive/application-approval is the correct generic-fallback read since no density/use-permission pattern applies more specifically and this is a genuine housing-supply-expansion request."
+  },
+  {
+    "id": "2f211b46982b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Suspended the Council Procedure By-law's meeting end-time rule so the Planning and Environment Committee meeting could continue past 6:00 PM.",
+    "confidence": "high",
+    "quote": "Pursuant to Section 2.3 of the Council Procedure By-law, Section 33.8 of the said by-law be suspended for the purpose of permitting the meeting to proceed beyond 6:00 PM.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded item 3.14: motion #4, meeting-time-extension procedural motion, Passed 4-1. Verified this is correctly issue=none even though it's nested under an item titled 'Official Plan Review of The London Plan (O-9595)' -- the extension clause's own body has zero housing content. Publishing this as a housing position (which a title/code-only signal could tempt) would be a title-vs-operative-clause mismatch; classifier correctly avoided it."
+  },
+  {
+    "id": "9aa72a6ab218",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing a zoning by-law amendment for 1922 Highland Heights and 205 Commissioners Road East, splitting the property into a Residential R1 Special Provision zone and a Holding Open Space Special Provision zone to permit a maintenance building accessory to the existing golf course.",
+    "confidence": "low",
+    "quote": "the proposed revised, attached, by-law as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on December 17, 2024 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan for the City of London, 2016), to change the zoning of the subject properties at 1922 Highland Heights and 205 Commissioners Road East FROM a Residential R1 (R1-9) Zone TO Residential R1 Special Provision (R1-9(_)) Zone and a Holding Open Space Special Provision (h-101*OS1(_)) Zone",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded item 3.9 (PEC 2024-12-03): full rezoning text for the golf-course maintenance building, Passed 3-1 (Peloza recused). Quote verbatim-confirmed. Confirm the low-confidence housing tag as documented -- the only textual support is boilerplate 'conforms to...The London Plan'/'Official Plan' language, not real housing content, but the generic-fallback claim ('approved the development, rezoning...item') is literally true (it is a rezoning application that was approved), so not a false statement -- keeping as-is per the system's documented design rather than downgrading."
+  },
+  {
+    "id": "c653c8ae7dc7",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred the question of reducing minimum headroom requirements under the Property Standards By-law back to Civic Administration for a further report covering accessibility, health and safety, fire safety, and cost implications.",
+    "confidence": "high",
+    "quote": "that the matter of reducing minimum headroom requirements BE REFERRED back to Civic Administration to bring forward a report to a future meeting of the Community and Protective Services Committee with further details regarding the amendment including accessibility issues, health and safety issues, fire safety issues, financial implications including potential increases in assessments; and additional inspection staffing and implementation costs.",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded item 2.10 (CPSC 2024-12-02): motion #1, the referral amendment, Failed 1-3. Quote verbatim-confirmed. Correctly issue=none/referral -- a failed referral decided nothing."
+  },
+  {
+    "id": "4066f1ec930d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved introducing a by-law to update the Special Events Policies and Procedures Manual (replacing Schedule A) and received the accompanying staff report.",
+    "confidence": "high",
+    "quote": "the proposed by-law, as appended to the above-noted staff report, BE INTRODUCED at the Municipal Council Meeting to be held on December 17, 2024, to amend By-law No. CPOL.-142-394, as amended, being “Special Events Policies and Procedures Manual”, by deleting and replacing Schedule “A”",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded item 2.14 (CPSC 2024-12-02): full Special Events Policy motion, Passed 3-1. No issue keyword hits. Correctly issue=none."
+  },
+  {
+    "id": "24a548124f2b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed a package of changes to the City's Community Advisory Committees: amended the Accessibility CAC's and general CACs' Terms of Reference, paused DIACAC pending a Terms of Reference review, dissolved the Animal Welfare, Ecological, and Integrated Transportation CACs (replacing the latter two with a reference group and a working group), and directed a General Policy by-law amendment restructuring how CACs align with Council's standing committees.",
+    "confidence": "high",
+    "quote": "That the Civic Administration BE DIRECTED to undertake the following actions regarding the Community Advisory Committees (CACs)",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded item 8.1.12 (Council 2024-11-26): full CAC-restructuring motion, Passed 12-2. Body contains 'Terms of Reference' multiple times (parts a, b, c) -- GLOBAL_EXCLUDE correctly fires for the whole motion, even though sub-clauses touch climate (dissolving Ecological CAC) and transit (dissolving ITCAC) adjacent topics. No false 'climate' or 'transit' position published for a governance/committee-structure vote."
+  },
+  {
+    "id": "ac790983e4fa",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved a Council Procedure By-law amendment allowing committees composed of all of Council to use a formal “Put the Question” motion to end debate.",
+    "confidence": "high",
+    "quote": "That part v) of the motion be approved and reads as follows:\n\nv)     Efficient Meeting Management: Provide for the option to “Put the Question” at committees where all of Council constitutes the membership;",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded item 8.1.13 (Council 2024-11-26): motion #1 (part v, 'Put the Question'), Passed 8-6, quote verbatim-confirmed as the correct sub-motion for the 8-6 result (not the 14-0 balance-of-motion vote). itemTitle contains 'Council Procedure By-law' -> GLOBAL_EXCLUDE correctly fires. Correctly issue=none."
+  },
+  {
+    "id": "24cfd392afd1",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "In final vote, approved introducing the zoning by-law amendment for 145 Base Line Road West, rezoning the property from Residential R3 to a Residential R3 Special Provision zone to permit the applicant's development, with site-plan conditions on tenant accommodation and on-site parking.",
+    "confidence": "medium",
+    "quote": "That the motion, as amended, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded item 8.2.6 (Council 2024-11-26): motion #0 had no recorded result (superseded); motion #1 (the amendment with the real zoning text: R3 -> R3 Special Provision, tenant-accommodation + parking site-plan conditions) Passed 14-0; motion #2 ('the motion, as amended, BE APPROVED') Passed 11-3 is the id in question. whatAYeaDid correctly pulls the substantive content from motion #1, not the empty wrapper. Confirmed expansive/housing."
+  },
+  {
+    "id": "e1974f38c44e",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing a zoning by-law amendment for 1408 and 1412 Commissioners Road West, rezoning the property from a Residential R1 zone to a Residential R8 Special Provision zone to permit the applicant's higher-intensity development.",
+    "confidence": "medium",
+    "quote": "the attached revised by-law appended to the staff report dated November 12, 2024 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on November 26, 2024 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan for the C, The London Plan, to change the zoning of the subject property FROM a Residential R1 (R1-8) Zone TO a Residential R8 Special Provision (R8-4(_)) Zone",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded item 8.2.9 (Council 2024-11-26): correctly mapped to motion #1, the amendment carrying the real zoning text (1408/1412 Commissioners Rd W, R1 -> R8 SP), Passed 13-1, quote verbatim-confirmed word-for-word including the mid-sentence truncation artifact ('conformity with the Official Plan for the C, The London Plan') -- an authentic OCR/scrape artifact in the source, not a classifier error."
+  },
+  {
+    "id": "b017923d55c1",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "In final vote, approved the amended rezoning of 1408 and 1412 Commissioners Road West from Residential R1 to Residential R8 Special Provision.",
+    "confidence": "medium",
+    "quote": "That the motion, as amended, be approved.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded item 8.2.9: correctly mapped to motion #2, 'That the motion, as amended, be approved.' Passed 13-1 (same vote tally as e1974f38c44e's motion #1, correctly disambiguated as the separate final wrapper vote per the notes). whatAYeaDid accurately restates the substance of the immediately preceding amendment."
+  },
+  {
+    "id": "53d7c0656179",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Reopened for reconsideration Council's prior decision approving the 17th Report of the Corporate Services Committee, under the Council Procedure By-law's reconsideration provision.",
+    "confidence": "high",
+    "quote": "That pursuant to section 13.6 of the Council Procedure by-law, the Council decision with respect to the approval of the 17th Report of the Corporate Services Committee BE RECONSIDERED",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded item 8.3 (Council 2024-11-26): motion #1, reconsideration motion, Passed 13-1, quote verbatim-confirmed. Body literally contains 'Council Procedure by-law' -> GLOBAL_EXCLUDE correctly fires independent of any title signal. Correctly issue=none."
+  },
+  {
+    "id": "ba55077bc1cd",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the 4th Report of the Audit Committee.",
+    "confidence": "high",
+    "quote": "That the 4th Report of the Audit Committee BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded item 8.6 (Council 2024-11-26): full Audit Committee report-approval motion, Passed 13-1. No issue keyword hits. Correctly issue=none."
+  },
+  {
+    "id": "74487500a77e",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Reduced the Parks Maintenance Service Enhancements budget line (Business Case P-31) from $827,000 to $808,000 in 2025 operating expenditures and from $560,000 to $221,000 in 2025 capital expenditures, with a matching reduction to the Climate Change Reserve Fund contribution.",
+    "confidence": "high",
+    "quote": "the Mayor’s 2025 Annual Budget Update BE AMENDED to adjust Parks Maintenance Service Enhancements and Supports based on Action 1 in 2024-2027 Multi-Year Budget Business Case #P-31 – Parks Operations Service Delivery Enhancements from $827,000 of Parks Operating Expenditures to $808,000, with an equal adjustment to the contribution to the Climate Change Reserve Fund, and to adjust Parks Capital Expenditures from $560,000 to $221,000",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded item 3.1 (Budget Committee-CONT 2024-11-22): full motion text incl. $ impact table, Passed 13-2, quote verbatim-confirmed. $ table shows 2025 Capital Expenditures -$339,000 (827k->808k operating, 560k->221k capital) -- restrictive/budget correctly derived from the real cut, not just the word 'adjust'."
+  },
+  {
+    "id": "5e8054ca0c6d",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "expansive",
+    "whatAYeaDid": "Would have increased the 2025-2027 budget by $265,000/year to fund a new Economic Development Reserve Fund grant to the London Downtown Business Association for business safety/security improvements, property-damage grants, and CPTED audits.",
+    "confidence": "high",
+    "quote": "That the Mayor’s 2025 Annual Budget Update BE AMENDED by increasing the budget to provide a grant, funded from the Economic Development Reserve Fund, to the London Downtown Business Association for the purpose of supporting businesses, such as improving safety/security, property damage grants, and Crime Prevention Through Environmental Design (CPTED) audits",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded item 3.2 (Budget Committee-CONT): motion #1, LDBA safety/security grant, Failed 6-8, quote verbatim-confirmed. $ table shows +$265,000/yr -- expansive/budget correct."
+  },
+  {
+    "id": "cf1fba51e707",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "expansive",
+    "whatAYeaDid": "Amended the pending grant motion to fund the London Downtown Business Association's cleaning/beautification grant (graffiti removal, power washing, expanded street cleaning, beautification) at $300,000/year for 2025 and 2026, funded from the Community Investment Reserve Fund instead of the Economic Development Reserve Fund.",
+    "confidence": "high",
+    "quote": "That the Mayor’s 2025 Annual Budget Update BE AMENDED by increasing the budget to provide a grant, funded from the Community Investment Reserve Fund, to the London Downtown Business Association for the purpose of additional cleaning and maintenance, such as graffiti removal, power washing, expanded street cleaning (garbage and sharps removal), and beautification and maintenance",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded item 3.3 (Budget Committee-CONT): correctly mapped to motion #1 (S. Lewis's amendment switching funding source EDRF->Community Investment Reserve Fund), Passed 12-2, quote verbatim-confirmed. $ table +$300,000/yr 2025+2026 -- expansive/budget correct."
+  },
+  {
+    "id": "d826ccab9d84",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "expansive",
+    "whatAYeaDid": "Would have further amended the LDBA cleaning/beautification grant to fund it at $300,000 for 2025 only, funded from the Community Investment Reserve Fund, rather than the $300,000/year for 2025 and 2026 in the version already on the floor.",
+    "confidence": "medium",
+    "quote": "That the Mayor’s 2025 Annual Budget Update BE AMENDED by increasing the budget to provide a grant, funded from the Community Investment Reserve Fund, to the London Downtown Business Association for the purpose of additional cleaning and maintenance, such as graffiti removal, power washing, expanded street cleaning (garbage and sharps removal), and beautification and maintenance",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded item 3.3: correctly mapped to motion #2 (J. Pribil's further amendment, textually identical operative clause to cf1fba51e707 but truncating the $ table to 2025 only), Failed 2-12, quote verbatim-confirmed. Concur with the original judgment call: the clause's own words say 'increasing the budget' with no denial verb, so expansive is the correct read per the 'derive only from the motion's own operative words' rule -- inferring restrictive from comparison to the sibling motion that passed would violate that rule."
+  },
+  {
+    "id": "46814de75f89",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "expansive",
+    "whatAYeaDid": "In final vote, approved the $300,000/year (2025 and 2026) Community-Investment-Reserve-funded grant to the London Downtown Business Association for graffiti removal, power washing, street cleaning, and beautification.",
+    "confidence": "medium",
+    "quote": "That the motion, as amended, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded item 3.3: motion #3, 'That the motion, as amended, BE APPROVED.' Passed 11-3. Since d826ccab9d84 (motion #2) failed, the surviving amended text is motion #1's version (2025+2026, $300k/yr, Community Investment Reserve) -- whatAYeaDid correctly reflects that surviving version, not the failed 2025-only variant. Confirmed."
+  },
+  {
+    "id": "d30d0b87039f",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "expansive",
+    "whatAYeaDid": "Directed the City to fund its increased $226,954 share of the Middlesex-London Health Unit's 2025 budget from the Operating Budget Contingency Reserve.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to fund the City of London’s increased share of $226,954 for 2025 from the Operating Budget Contingency Reserve.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded item 4.1 (Budget Committee-CONT): correctly mapped to motion #2 (the split-out clause b on the $226,954 funding source), Passed 8-6, quote verbatim-confirmed (distinct from motion #1's clause a, 'received for information', Passed 14-0, a different vote on the same item). Expansive/budget correct -- directs paying an increased cost from a reserve."
+  },
+  {
+    "id": "0eb6dbb4f683",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Reduced the annual contribution to the Economic Development Reserve Fund by $500,000/year (cutting the tax levy by the same amount), offset by directing a one-time $1 million transfer from the Community Investment Reserve Fund to the Economic Development Reserve Fund in 2025 only.",
+    "confidence": "high",
+    "quote": "That the Mayor’s 2025 Annual Budget Update BE AMENDED by reducing by $500,000 the additional annual contribution to the Economic Development Reserve Fund included in 2024-2027 Multi-Year Budget Business Case #P-46 – Economic and Partnerships Initiatives in the adopted 2024-2027 Multi-Year Budget and that Civic Administration BE DIRECTED to transfer one million dollars from the Community Investment Reserve Fund to the Economic Development Reserve Fund in 2025 only.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded item 5.2 (Budget Committee-CONT): motion #1 (S. Lewis's amendment), Passed 10-4, quote verbatim-confirmed. $ table explicitly shows Tax Levy -$500,000 for 2025/2026/2027 -- restrictive/levy-size correct and directly evidenced by the levy figures, not just the word 'reducing' (which alone, per the DECREASE...budget/levy/funding pattern, doesn't fall within a 60-char window of a levy/budget noun in the prose -- the $ table is the real evidentiary basis here)."
+  },
+  {
+    "id": "c3dde3554af6",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "restrictive",
+    "whatAYeaDid": "In final vote, approved reducing the Economic Development Reserve Fund's annual contribution by $500,000/year (cutting the tax levy by the same amount), with a one-time $1 million backfill transfer in 2025.",
+    "confidence": "medium",
+    "quote": "That the motion, as amended, be approved.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded item 5.2: correctly mapped to motion #3 (final wrapper, 'the motion, as amended, be approved'), Passed 11-3 -- motion #2 (Trosow's further amendment) was withdrawn by consensus, so the surviving text is motion #1's, which whatAYeaDid correctly reflects."
+  },
+  {
+    "id": "9df65c3786ae",
+    "issue": "transit",
+    "axis": "service-expansion",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Would have removed the future capital budgets ($975,000 in 2025 and $4,325,000 in 2026) for the Rapid Transit - East London Link project, funding that is primarily Federal/Provincial PTIS and Development Charges supported.",
+    "confidence": "high",
+    "quote": "That the Mayor’s 2025 Annual Budget Update BE AMENDED to remove the future capital budgets for the Rapid Transit - East London Link project from the 2025 and 2026 capital budgets, it being noted that the capital funding for this project primarily includes Federal and Provincial PTIS and Development Charges supported funding",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded item 5.3 (Budget Committee-CONT): motion #1, Failed 1-13, quote verbatim-confirmed. $ table shows the amendment would have REMOVED $975k (2025) / $4,325k (2026) capital budgets -- restrictive/transit correct."
+  },
+  {
+    "id": "3c92e2f39f91",
+    "issue": "transit",
+    "axis": "service-expansion",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Would have removed the future capital budgets ($975,000 in 2025 and $4,325,000 in 2026) for the Rapid Transit - East London Link project, on a re-vote of the same amendment.",
+    "confidence": "high",
+    "quote": "That the Mayor’s 2025 Annual Budget Update BE AMENDED to remove the future capital budgets for the Rapid Transit - East London Link project from the 2025 and 2026 capital budgets, it being noted that the capital funding for this project primarily includes Federal and Provincial PTIS and Development Charges supported funding",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded item 5.3: correctly identified as the re-vote (motion #3, same operative text, Failed 2-12) after a reconsideration motion (#2, Passed 14-0) reopened the question. Two genuinely distinct recorded votes on identical text, not a duplicate entry."
+  },
+  {
+    "id": "affaabc4514e",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Would have drawn $16,255,000 from the Unfunded Liability Reserve Fund, outside its Council-approved purpose, specifically to reduce the 2025 property tax levy by the same amount.",
+    "confidence": "high",
+    "quote": "That the Mayor’s 2025 Annual Budget Update BE AMENDED to include a drawdown from the Unfunded Liability Reserve Fund, notwithstanding the Council approved by-law that directs the fund to provide for employee benefits payable excluding WSIB claims in excess of $250,000.00, landfill closure and post-closure liabilities, and other liabilities for which there is no identified source of financing as reported in the annual consolidated financial statements, in order to reduce the property tax levy in 2025",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded item 5.4 (Budget Committee-CONT): motion #1, Failed 1-13, quote verbatim-confirmed. $ table shows 2025 Tax Levy -$16,255,000 -- restrictive/budget correct (levy cut funded by an out-of-policy reserve drawdown)."
+  },
+  {
+    "id": "27bfa07b12e8",
+    "issue": "policing",
+    "axis": "budget-size",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Would have reduced the London Police Service operating budget by $1,616,600/year for 2025-2027, cutting the tax levy by the same amount each year.",
+    "confidence": "high",
+    "quote": "That the Mayor’s 2025 Annual Budget Update BE AMENDED by reducing the London Police Service operating budget",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded item 3.10 (Budget Committee 2024-11-21): motion #1, Failed 4-11, quote verbatim-confirmed. $ table shows Tax Levy -$1,616,600/yr for 2025-2027 -- restrictive/policing correct."
+  },
+  {
+    "id": "a4588669787c",
+    "issue": "climate",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed that the cost of the Parks Operations Service Delivery Enhancements (Business Case P-31) be offset by a reduction in the annual contribution to the Climate Change Reserve Fund.",
+    "confidence": "low",
+    "quote": "That the budget impact to this Business Case P-31 - Parks Operations Service Delivery Enhancements BE OFFSET by a reduction in the annual contribution to the Climate Change Reserve Fund.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded item 3.2 (Budget Committee 2024-11-21): motion #1, the Climate Change Reserve Fund offset, Passed 9-6, quote verbatim-confirmed. Concur climate/null is correct -- this is a funding-mechanism clause (which reserve pays for P-31), not a substantive climate-policy position; no natural-heritage/target-strength axis pattern genuinely fits."
+  },
+  {
+    "id": "da54634823a9",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Sustained the Chair's procedural ruling under section 32.5 of the Council Procedure By-law during debate on the Business Case #P-31 amendments.",
+    "confidence": "high",
+    "quote": "That, pursuant to section 32.5 of the Council Procedure By-law, “shall the ruling of the Chair BE SUSTAINED?”",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded item 3.2: motion #2, chair's-ruling-sustained procedural vote, Passed 9-6, quote verbatim-confirmed. No issue keyword in this specific clause's own text. Correctly issue=none."
+  },
+  {
+    "id": "4d0ec4fb7020",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "expansive",
+    "whatAYeaDid": "Added Parks Maintenance Service Enhancements (5 permanent staff, $613,000 total per Business Case P-31) to the budget, funded via $404,000 in 2025 capital expenditures.",
+    "confidence": "high",
+    "quote": "That the Mayor’s 2025 Annual Budget Update BE AMENDED to include Parks Maintenance Service Enhancements and Supports based on Action 1 in 2024-2027 Multi-Year Budget Business Case #P-31 – Parks Operations Service Delivery Enhancements (5 permanent staff, $613,000)",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded item 3.2: motion #3 (5 permanent staff, $613,000), Passed 11-4, quote verbatim-confirmed against the $404,000 2025-capital add. Expansive/budget correct -- a genuine new-spending addition."
+  },
+  {
+    "id": "26cdb5305e9d",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "expansive",
+    "whatAYeaDid": "Added a smaller Parks Maintenance Service Enhancements package (2 permanent staff, $214,000 total per Business Case P-31) to the budget, funded via $156,000 in 2025 capital expenditures.",
+    "confidence": "high",
+    "quote": "That the Mayor’s 2025 Annual Budget Update BE AMENDED to include Parks Maintenance Service Enhancements and Supports based on Action 1 in 2024-2027 Multi-Year Budget Business Case #P-31 – Parks Operations Service Delivery Enhancements (2 permanent staff, $214,000)",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded item 3.2: motion #4 (2 permanent staff, $214,000), Passed 8-7, quote verbatim-confirmed against the $156,000 2025-capital add. Expansive/budget correct."
+  },
+  {
+    "id": "94d59676c359",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "expansive",
+    "whatAYeaDid": "Would have added a Parks Maintenance Service Enhancements package (4 temporary staff, $149,000 total per Business Case P-31) to the budget, funded via $213,000 in 2025 capital expenditures.",
+    "confidence": "high",
+    "quote": "That the Mayor’s 2025 Annual Budget Update BE AMENDED to include Parks Maintenance Service Enhancements and Supports based on Action 1 in 2024-2027 Multi-Year Budget Business Case #P-31 – Parks Operations Service Delivery Enhancements (4 temporary staff, $149,000)",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded item 3.2: motion #5 (4 temporary staff, $149,000), Failed 5-10, quote verbatim-confirmed. Correctly phrased conditionally ('Would have added...') since it failed."
+  },
+  {
+    "id": "71e79d9c22c4",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "expansive",
+    "whatAYeaDid": "Would have added a larger Parks Maintenance Service Enhancements package (6 temporary staff, $276,000 total per Business Case P-31) to the budget, funded via $213,000 in 2025 capital expenditures.",
+    "confidence": "high",
+    "quote": "That the Mayor’s 2025 Annual Budget Update BE AMENDED to include Parks Maintenance Service Enhancements and Supports based on Action 1 in 2024-2027 Multi-Year Budget Business Case #P-31 – Parks Operations Service Delivery Enhancements (6 temporary staff, $276,000)",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded item 3.2: motion #6 (6 temporary staff, $276,000), Failed 2-13, quote verbatim-confirmed. Correctly phrased conditionally since it failed."
+  },
+  {
+    "id": "af82a6e32283",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "expansive",
+    "whatAYeaDid": "Would have removed a previously-proposed $496,000 pause/reduction to the City's annual Community Grants Program (restoring its funding), offset by an equal $496,000 reduction to the Economic Development Reserve Fund contribution.",
+    "confidence": "medium",
+    "quote": "That the Mayor’s 2025 Annual Budget Update BE AMENDED to remove Budget Amendment #P-2 – “Pause Current City of London Annual Community Grants Program and Implement Reduced Program based on Availability of Funding” ($496,000) and the annual contribution to the Economic Development Reserve Fund be reduced by an equivalent amount ($496,000)",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded item 3.4 (Budget Committee 2024-11-21): motion #1, Failed 5-10, quote verbatim-confirmed. $ table shows net $0 impact (removes the $496k community-grants pause, offset by an equal $496k EDRF-contribution cut) -- confirmed the 'restored program funding, offset elsewhere' read is accurate and disclosed in whatAYeaDid; expansive on the specific budget-item axis is defensible per the axis label's own wording ('increased the tax levy OR a budget item')."
+  },
+  {
+    "id": "28c6e0bdd4ed",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "expansive",
+    "whatAYeaDid": "Would have removed a previously-proposed pause to the Neighbourhood Decision Making Program, restoring $250,000/year in program funding (and a matching $250,000/year increase to the tax levy).",
+    "confidence": "high",
+    "quote": "That the Mayor’s 2025 Annual Budget Update BE AMENDED to remove Budget Amendment #P-3 – “Pause Neighbourhood Decision Making Program”",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded item 3.5 (Budget Committee 2024-11-21): motion #1, Failed 6-9, quote verbatim-confirmed. $ table shows Tax Levy +$250,000/yr (unlike af82a6e32283, this one is NOT offset) -- expansive/budget correctly and more strongly evidenced here."
+  },
+  {
+    "id": "92c1f8e0e1d3",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "expansive",
+    "whatAYeaDid": "Would have added $700,000/year in operating funding (and a matching tax-levy increase) for the Housing Stability Bank Expansion program (Business Case P-16).",
+    "confidence": "high",
+    "quote": "That the Mayor’s 2025 Annual Budget Update BE AMENDED to include funding for the Housing Stability Bank Expansion based on 2024-2027 Multi-Year Budget Business Case #P-16 – “Housing Stability Bank Expansion”",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded item 3.7 (Budget Committee 2024-11-21): motion #1, Failed 6-9, quote verbatim-confirmed. $ table shows Tax Levy +$700,000/yr -- expansive/budget correct. Checked whether 'Housing Stability Bank Expansion' should instead be issue=housing/encampments: no keyword in either list literally matches this program name (housing list requires specific phrases like 'supportive housing'/'housing needs'/'housing supply', none present; encampments list requires 'homeless'/'shelter'/etc., none present) -- budget is the correct call per the documented keyword vocabulary, not a missed classification."
+  },
+  {
+    "id": "1df3f6daad40",
+    "issue": "transit",
+    "axis": "service-expansion",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Would have reduced the London Transit Commission's 2026 budget by $500,000, conditioning reinstatement on LTC submitting a 2026 budget amendment, getting its online booking system operational, and providing a plan to implement 10,000 additional 2025 service hours by Q1 2025.",
+    "confidence": "high",
+    "quote": "That the Mayor’s 2025 Annual Budget Update BE AMENDED by reducing the London Transit Commission budget for the 2026 Budget Update. To reinstate this funding, LTC must submit an amendment for the 2026 Budget Update, the online booking system be operational and that a plan for implementing the 10,000 additional service hours for 2025 must be provided to Council no later than Q1 2025.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded item 3.8 (Budget Committee 2024-11-21): motion #1, Failed 5-10, quote verbatim-confirmed. $ table shows 2026 Tax Levy -$500,000 -- restrictive/transit correct, and the conditional-reinstatement language is preserved accurately in whatAYeaDid."
+  },
+  {
+    "id": "f934ab9e7b10",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Recessed the Budget Committee meeting.",
+    "confidence": "high",
+    "quote": "That the meeting BE RECESSED",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded item 7 (Budget Committee 2024-11-21, 'Adjournment'): motion #0, 'That the meeting BE RECESSED', Passed 12-2. No issue keyword. Correctly issue=none/procedural."
+  },
+  {
+    "id": "edc2269e9c10",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred the November 6, 2024 communication on Community Advisory Committees from Deputy Mayor Lewis and Councillor Rahman to the next meeting of the Governance Work Group.",
+    "confidence": "high",
+    "quote": "That the communication dated November 6, 2024 with respect to Community Advisory Committees from Deputy Mayor S. Lewis and Councillor C. Rahman BE REFFERED to the next meeting of the Governance Work Group.",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded item 4.5 (SPPC-CONTINUATION 2024-11-20): motion #1, the Governance Work Group referral, Failed 2-12, quote verbatim-confirmed. Correctly issue=none/referral -- a failed referral decided nothing."
+  },
+  {
+    "id": "489521c250d9",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have changed the proposed disposition of parts d), e), and f) of the Community Advisory Committee motion (covering the Animal Welfare, Ecological, and Integrated Transportation CACs) from dissolution to a review, without deciding those committees' fate outright.",
+    "confidence": "medium",
+    "quote": "That the motion be amended to change the direction to BE REVIEWED in part d), part e), and part f).",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded item 4.5: motion #2, the review-vs-dissolve amendment for parts d/e/f, Failed 2-11, quote verbatim-confirmed. No issue keyword in this specific clause's own text (just 'part d, e, f'), and it failed regardless -- correctly left issue=none/null."
+  },
+  {
+    "id": "1f3f992777aa",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Dissolved the Animal Welfare Community Advisory Committee effective April 2025 and updated the Environmental Stewardship and Action Community Advisory Committee's terms of reference to add responsibility for animal-welfare matters.",
+    "confidence": "high",
+    "quote": "the Animal Welfare Community Advisory Committee BE DISSOLVED effective April 2025, and update the Environmental Stewardship and Action Community Advisory Committee’s terms of reference to include: responsibilities related to the welfare of animals in the community;",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded item 4.5: motion #3, Animal Welfare CAC dissolution + ESA CAC terms-of-reference update, Passed 11-2, quote verbatim-confirmed. Body literally contains 'terms of reference' -> GLOBAL_EXCLUDE correctly fires. Correctly issue=none."
+  },
+  {
+    "id": "f3618d4109f7",
+    "issue": "climate",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Dissolved the Ecological Community Advisory Committee and the Integrated Transportation Community Advisory Committee effective April 2025, replacing them with a new Ecological Reference Group (by Q2 2025) to advise on the Official Plan's natural heritage systems, and a Mobility and Transportation Working Group (by Q3 2025).",
+    "confidence": "medium",
+    "quote": "the Ecological Community Advisory Committee BE DISSOLVED effective April 2025, and an Ecological Reference Group BE ESTABLISHED by Q2 2025 to provide technical advice on matters related to the City of London’s Official Plan, including the management of natural heritage systems, Environmentally Significant Areas, woodlands, and stream corridors",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded item 4.5: motion #4, dissolving Ecological CAC + ITCAC, Passed 11-2, quote verbatim-confirmed. Verified this specific sub-motion's own text does NOT contain 'terms of reference' (unlike the sibling motion #3) -- GLOBAL_EXCLUDE correctly does not fire here. Issue correctly derives to climate via a genuine keyword tie-break: 'natural heritage' (climate) vs 'Official Plan' (housing) both hit once, and climate precedes housing in ISSUE_ORDER. Concur axis/polarity should stay null -- this restructures committee governance (dissolve + replace with an Ecological Reference Group of similar mandate) rather than protecting or weakening any natural-heritage designation; neither natural-heritage axis pattern's verb/noun pairing is present in the clause."
+  },
+  {
+    "id": "88814ca0f475",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the balance of the Community Advisory Committee motion (parts a, b, c, and g) covering Terms of Reference amendments, the DIACAC operations pause, and the by-law restructuring how CACs align with Council's standing committees.",
+    "confidence": "medium",
+    "quote": "That the balance of the motion be approved.",
+    "flags": [
+      "procedural",
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded item 4.5: motion #6, 'That the balance of the motion be approved.' Passed 12-1. The unvoted 'balance' (parts a, b, c, g of the original motion #0) contains both 'Terms of Reference' (parts a, b) and 'Council Procedure By-law' (part g) -- GLOBAL_EXCLUDE correctly fires when the wrapper's actual substantive content is considered. Correctly issue=none."
+  }
+]

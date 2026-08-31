@@ -1,0 +1,488 @@
+[
+  {
+    "id": "7253c8a13fd8",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Made permanent (replacing an expiring interim control by-law) a zoning amendment capping additional residential units at a maximum of two bedrooms, three bedrooms total, and 80% of the primary dwelling's gross floor area.",
+    "confidence": "medium",
+    "quote": "limit additional residential unit(s) to a maximum of two (2) bedrooms",
+    "flags": []
+  },
+  {
+    "id": "2c152e11e58a",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Narrowed a proposed parking by-law amendment (wider driveways, front-yard parking) so it would not apply to lands within the Western University Near Campus Neighbourhood, leaving the existing stricter rules in place there.",
+    "confidence": "low",
+    "quote": "",
+    "flags": []
+  },
+  {
+    "id": "f4f159d15b91",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have added a requirement to map on-street parking availability and explore best-practice options for linking parking minimums to site characteristics, then report back to Committee.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "7e57700798d3",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved zoning amendments (outside the Western University Near Campus Neighbourhood) allowing wider driveways and parking in the front or exterior side yard for R1, R2, R3, R4 and R11 zoned lots.",
+    "confidence": "low",
+    "quote": "",
+    "flags": []
+  },
+  {
+    "id": "f5ad254fd54f",
+    "issue": "housing",
+    "axis": "use-permission",
+    "polarity": "expansive",
+    "whatAYeaDid": "Set a citywide residential parking minimum of 1 space per unit (with exemptions for affordable-housing-agreement and Protected Major Transit Station Area developments) and removed the zoning prohibition on adding an extra driveway for a lot with an additional residential unit.",
+    "confidence": "medium",
+    "quote": "amend section 4.37.8 to remove the prohibition on a new additional driveway in association with an additional residential unit",
+    "flags": []
+  },
+  {
+    "id": "0791703e98a9",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Permitted Council to continue its meeting past the standard 6:00 PM cutoff.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "95e372a145dc",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred the Old East Village BIA's cleaning/graffiti-removal reimbursement request to the next Infrastructure and Corporate Services Committee meeting rather than deciding it directly.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "4d0662cb8e54",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the City to immediately reimburse the Old East Village BIA $14,152.33 from the Community Investment Reserve Fund for prior private-property clean-up, graffiti-removal, and safety/security costs.",
+    "confidence": "high",
+    "quote": "",
+    "flags": []
+  },
+  {
+    "id": "55da1ef00dc2",
+    "issue": "climate",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved a Federation of Canadian Municipalities Green Municipal Fund grant agreement to fund a study of the potential for net-zero community energy in London.",
+    "confidence": "medium",
+    "quote": "",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "362a510b1fad",
+    "issue": "climate",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved a Federation of Canadian Municipalities Green Municipal Fund grant agreement to fund a feasibility study of electrifying the municipal vehicle fleet.",
+    "confidence": "medium",
+    "quote": "",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "c8ea26a2f919",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Awarded the construction contract and financing for the Wellington Gateway and Municipal Infrastructure Improvements Phase 2A project (Wilkins Street to Baseline Road) to the lowest of three bidders.",
+    "confidence": "medium",
+    "quote": "",
+    "flags": []
+  },
+  {
+    "id": "3fd92530a275",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the audit firm MNP to swap the submission dates for its Privacy Audit and Continuous Improvement Audit reports.",
+    "confidence": "high",
+    "quote": "",
+    "flags": []
+  },
+  {
+    "id": "ed65603a2c2d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the Internal Audit summary update as amended, receiving MNP's report and directing MNP to swap the Privacy Audit and Continuous Improvement Audit submission dates.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "43249cca9133",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Permitted Councillor Trosow to speak for up to two additional minutes on the UNESCO City of Music item.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "26626f351b0d",
+    "issue": "transit",
+    "axis": "service-expansion",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved financing to purchase nine new 60-foot buses for the London Transit Commission's East London Link Rapid Transit corridor.",
+    "confidence": "high",
+    "quote": "approval BE GIVEN to finance the London Transit Commission purchase of nine 60-foot buses required for the East London Link corridor of the new Rapid Transit network",
+    "flags": []
+  },
+  {
+    "id": "cfefeda5d588",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred the proposed Travel and Business Expenses policy update to Civic Administration, with direction to prepare separate policies for staff and for Members of Council and report back.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "54d67c9e6a5f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Added direction for Civic Administration to prepare two separate Travel and Business Expenses policies (one for staff, one for Members of Council) and report back to a future Committee meeting.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "ed8f1175d012",
+    "issue": "climate",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved a Federation of Canadian Municipalities Green Municipal Fund grant agreement to fund a feasibility study of electrifying the municipal vehicle fleet.",
+    "confidence": "medium",
+    "quote": "",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "a1187da99a3a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred the question of delegating authority for restricted acts of Council after Nomination Day/Voting Day to Civic Administration, directing it to report back with further definitions and details.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "referral",
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "56cbe9893fcf",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Awarded the construction contract and financing for the Wellington Gateway and Municipal Infrastructure Improvements Phase 2A project to the lowest of three bidders.",
+    "confidence": "medium",
+    "quote": "",
+    "flags": []
+  },
+  {
+    "id": "f1a3045ef828",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved Official Plan and Zoning By-law amendments permitting a 30-storey apartment building at 550 Ridout Street North & 82-90 Kent Street, raising the site's permitted height.",
+    "confidence": "high",
+    "quote": "permitting a 30 storey apartment building",
+    "flags": []
+  },
+  {
+    "id": "8d356263249f",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have directed Civic Administration to review and report back on the feasibility of posting rental property owners' professional or business contact information on the City's website.",
+    "confidence": "medium",
+    "quote": "",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "8a06f31a64f5",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred the Old East Village BIA's cleaning/graffiti-removal reimbursement request to the next Infrastructure and Corporate Services Committee meeting.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "27a0af36d7d8",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved financing and authorized a pipeline decommissioning and new-pipeline agreement with Imperial Oil for the Sunningdale Road West improvements.",
+    "confidence": "medium",
+    "quote": "",
+    "flags": []
+  },
+  {
+    "id": "c11a27095483",
+    "issue": "encampments",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Shortened the Housing Stability Services procurement framework's initial term from the proposed multi-year length to a one-year contract with an option to renew for one additional year.",
+    "confidence": "low",
+    "quote": "",
+    "flags": []
+  },
+  {
+    "id": "30d74e2a7ba7",
+    "issue": "encampments",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have directed Civic Administration to review existing housing stability contracts for alignment with operational needs and report back to Council on recommended amendments.",
+    "confidence": "medium",
+    "quote": "",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "24d580d71e55",
+    "issue": "encampments",
+    "axis": "response-scale",
+    "polarity": "expansive",
+    "whatAYeaDid": "Endorsed the City's proposed system-transformation approach and multi-year Housing Stability Services procurement framework.",
+    "confidence": "medium",
+    "quote": "the proposed system transformation approach and multi-year Housing Stability Services procurement framework as outlined in the December 1, 2025 staff report, BE ENDORSED",
+    "flags": []
+  },
+  {
+    "id": "7bb597179dbc",
+    "issue": "encampments",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Shortened the Housing Stability Services procurement framework's initial term from the proposed multi-year length to a one-year contract with an option to renew for one additional year.",
+    "confidence": "low",
+    "quote": "",
+    "flags": []
+  },
+  {
+    "id": "2d5c7d690858",
+    "issue": "encampments",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred the System Area Update on supports for those living unsheltered to a future Community and Protective Services Committee meeting, for a report on the feasibility of a contract extension with 519Pursuit Umbrella Relief Programs for outdoor basic-needs outreach.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "referral",
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "e8436f0f42bb",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Limited the City's Community Grants Annual Program to the capital-funding category only for 2026 and 2027, ending operating-stream grant funding to community organizations for those two years.",
+    "confidence": "medium",
+    "quote": "limit the City of London Community Grants Annual Program to the capital funding category, as defined in the City of London Community Grants Policy for 2026 and 2027",
+    "flags": []
+  },
+  {
+    "id": "f89356aef0d7",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Adopted the by-law limiting the City's Community Grants Annual Program to capital-only funding for 2026 and 2027.",
+    "confidence": "medium",
+    "quote": "limit the City of London Community Grants Annual Program to the capital funding category, as defined in the City of London Community Grants Policy for 2026 and 2027",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "68a1969eb4ee",
+    "issue": "encampments",
+    "axis": "response-scale",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Narrowed when the Tier 3 Surge Response warming-centre funding activates, removing the Environment Canada extreme-weather-alert trigger and leaving only the -15/-20-with-windchill temperature trigger.",
+    "confidence": "medium",
+    "quote": "ACTIVATE the Tier 3 Surge Response with the funding to be pulled from the Social Services Reserve Fund up to a maximum of $290,000 whenever it is -15 OR -20 with windchill",
+    "flags": []
+  },
+  {
+    "id": "d328160d258a",
+    "issue": "encampments",
+    "axis": "response-scale",
+    "polarity": "expansive",
+    "whatAYeaDid": "Would have added an Environment Canada ice-weather-alert (yellow/orange/red) trigger to the conditions that activate the Tier 3 Surge Response warming-centre funding.",
+    "confidence": "medium",
+    "quote": "or when Environment Canada issues an extreme weather alert (yellow, orange, red) with respect to ice",
+    "flags": []
+  },
+  {
+    "id": "079a29d967cf",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Permitted Council to continue its meeting past the standard 6:00 PM cutoff.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "e96b2ebdbc7e",
+    "issue": "housing",
+    "axis": "use-permission",
+    "polarity": "expansive",
+    "whatAYeaDid": "Rezoned 732 Wellington Street and 282 Piccadilly Street from Day Care to Residential R3, facilitating conversion of the existing buildings to fourplex and triplex dwellings.",
+    "confidence": "high",
+    "quote": "the recommended amendment would facilitate the conversion of the existing buildings to fourplex and triplex dwellings, which are appropriate uses for the sites and surrounding context",
+    "flags": []
+  },
+  {
+    "id": "0568f9adfacf",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved Official Plan and Zoning By-law amendments reclassifying community-facility and open-space zoning at 5150 Wellington Road South for the Diocese of London's property.",
+    "confidence": "low",
+    "quote": "",
+    "flags": []
+  },
+  {
+    "id": "5c930abbb64d",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved Official Plan and Zoning By-law amendments permitting 18-storey and 16-storey residential towers with a gross density of up to 216 units per hectare at 3680 Wonderland Road South, rezoning from shopping-area commercial to residential.",
+    "confidence": "high",
+    "quote": "a gross density of up to 216 units per hectare for the subject lands",
+    "flags": []
+  },
+  {
+    "id": "7a534ce12b37",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Rezoned 233 Cambridge Street from Residential R1 to a Residential R2 special provision, permitting higher-intensity infill development than the site's previous single-family zoning allowed.",
+    "confidence": "medium",
+    "quote": "change the zoning of the subject property FROM a Residential R1 (R1-7) Zone TO a Holding Residential R2 Special Provision (h-9*R2-1(_)) Zone",
+    "flags": []
+  },
+  {
+    "id": "83c1d43b3506",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved a zoning by-law amendment enabling redevelopment of 644-664 Southdale Road East and 821 Nadine Avenue at increased scale and intensity within the Rapid Transit Corridor Place Type.",
+    "confidence": "medium",
+    "quote": "the recommended amendment facilitates redevelopment of a site within the Built-Area Boundary and the Primary Transit Area at an appropriate scale and intensity for the site and surrounding context",
+    "flags": []
+  },
+  {
+    "id": "0f359afc4f62",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Would have reduced the maximum permitted building height for the 767 Fanshawe Park Road East / 679 Dunboyne Crescent apartment rezoning to 24.5 metres.",
+    "confidence": "medium",
+    "quote": "BE AMENDED to reduce the building height maximum to 24.5 meters",
+    "flags": []
+  },
+  {
+    "id": "5549c33b0674",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Added a site-specific zoning condition prohibiting rooftop amenity space on the approved apartment building at 767 Fanshawe Park Road East.",
+    "confidence": "low",
+    "quote": "",
+    "flags": []
+  },
+  {
+    "id": "bc862dbf8b17",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Added a site-specific zoning condition prohibiting a sidewalk/access connection between the new apartment complex at 767 Fanshawe Park Road East and Dunboyne Crescent.",
+    "confidence": "low",
+    "quote": "",
+    "flags": []
+  },
+  {
+    "id": "02062f07951a",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Added a site-specific design condition requiring transom-style windows on the west side of the approved apartment building to limit privacy impacts on neighbouring low-rise homes.",
+    "confidence": "low",
+    "quote": "",
+    "flags": []
+  },
+  {
+    "id": "7bcf15574247",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Rezoned 767 Fanshawe Park Road East and 679 Dunboyne Crescent from Residential R1/R5 to a higher-density Residential R8 special provision, permitting an apartment complex.",
+    "confidence": "high",
+    "quote": "change the zoning of the subject property FROM a Residential R5 Special Provision (R5-7(25)) and a Residential R1 (R1-7) Zone TO a Holding Residential R8 Special Provision (h-8*R8-4(_)) Zone",
+    "flags": []
+  },
+  {
+    "id": "ddac6af524b1",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved Official Plan and Zoning By-law amendments permitting a maximum height of 20 storeys and residential density up to 350 units per hectare at 3334-3354 Wonderland Road South, rezoning from commercial-recreational to residential.",
+    "confidence": "high",
+    "quote": "permit a maximum height of 20 storeys, excluding mechanical penthouses and rooftop amenity space, and a maximum residential density of 350 units per hectare",
+    "flags": []
+  }
+]

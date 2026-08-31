@@ -1,0 +1,506 @@
+[
+  {
+    "id": "7e782b52c39f",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved official plan and zoning by-law amendments to rezone 530 Oxford Street West from Community Shopping Area/Open Space to a Residential/Commercial special-provision zone, permitting a new mixed-use residential development.",
+    "confidence": "high",
+    "quote": "the proposed by-law appended to the staff report dated May 22, 2024 as Appendix \"B\" BE INTRODUCED at the Municipal Council meeting on June 4, 2024, to amend Zoning By-law No. Z.-1, in conformity with the Official Plan, The London Plan, as amended in part (a) above, to change the zoning of the subject property FROM a Community Shopping Area/Temporary (CSA4/T-66) Zone and Open Space (OS4) Zone, TO a Residential R9 Special Provision/Community Shopping Area Special Provision (R9-7(_)*D150*H115/CSA4(_)) Zone and Open Space (OS4) Zone",
+    "flags": []
+  },
+  {
+    "id": "85f4e71a97c2",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred the pending proclamation requests, including Shine the Light on Woman Abuse, to a future Corporate Services Committee meeting rather than deciding them now.",
+    "confidence": "high",
+    "quote": "the issuance of proclamations BE REFERRED to a future meeting of the Corporate Services Committee",
+    "flags": [
+      "referral",
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "10af824efbb5",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed staff to review the Issuance of Proclamations Policy and report back to a future meeting, taking no position on the Woman Abuse proclamation itself.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to review the current Issuance of Proclamations Policy, including clarifying that requests for proclamations can be made by individuals, and report back to a future meeting of the Corporate Services Committee.",
+    "flags": [
+      "informational_ask",
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "895b8202a9e6",
+    "issue": "transit",
+    "axis": "service-expansion",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved expropriating land needed to build the Wellington Gateway rapid-transit corridor's Clark's Bridge civil works (part of the Wellington Road Rapid Transit Implementation project).",
+    "confidence": "medium",
+    "quote": "approval BE GIVEN to the expropriation of land as may be required for the Wellington Gateway Project, and that the following actions be taken in connection therewith",
+    "flags": []
+  },
+  {
+    "id": "72521ebff03e",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed staff to remove the temporary glass/plastic barrier and its supports from the public gallery in Council Chambers.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to take the necessary steps to remove the temporary barrier and all associated supports from the public gallery of the Council Chambers",
+    "flags": []
+  },
+  {
+    "id": "9735f8e2584b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have granted Councillor Stevenson five additional minutes to speak on the London Hydro Annual General Meeting item; failed, so no extra time was granted.",
+    "confidence": "high",
+    "quote": "That pursuant to section 31.6 of the Council Procedure By-law, Councillor S. Stevenson BE PERMITTED to speak an additional 5 minutes with respect to this matter.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "3991d33dbbbe",
+    "issue": "transit",
+    "axis": "service-expansion",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved (at committee stage) expropriating land needed to build the Wellington Gateway rapid-transit corridor's Clark's Bridge civil works.",
+    "confidence": "medium",
+    "quote": "approval BE GIVEN to the expropriation of land as may be required for the Wellington Gateway Project, and that the following actions be taken in connection therewith",
+    "flags": []
+  },
+  {
+    "id": "052b77416685",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred pending proclamation requests (including Shine the Light on Woman Abuse) to a future meeting and directed staff to review the proclamations policy and report back.",
+    "confidence": "high",
+    "quote": "the issuance of proclamations BE REFERRED to a future meeting of the Corporate Services Committee; and\nb)    the Civic Administration BE DIRECTED to review the current Issuance of Proclamations Policy, including clarifying that requests for proclamations can be made by individuals, and report back to a future meeting of the Corporate Services Committee.",
+    "flags": [
+      "referral",
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "1e081b244fe4",
+    "issue": "climate",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed staff to report back with proposed Sound By-law amendments restricting gas-powered lawn/garden equipment use, hold a public participation meeting, and circulate the report for advisory-committee feedback -- a process step, not an actual restriction yet.",
+    "confidence": "medium",
+    "quote": "the Civic Administration BE DIRECTED to take the following actions with respect to the Sound By-law: i)    report back to a future meeting of the Community and Protective Services Committee with proposed amendments to the Sound By-law to restrict the operation of gas-powered lawn and garden equipment in residential areas from 6pm to 8am; ii)    hold a public participation meeting to consider public input at the same meeting of the Community and Protective Services Committee; and,   iii)    circulate the report to relevant community advisory committees for review and feedback in advance of the relevant meeting of the Community and Protective Services Committee",
+    "flags": [
+      "informational_ask",
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "90385271a27f",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved a zoning by-law amendment for 743 Wellington Road that removes 'Emergency Care Establishments' (e.g., a walk-in medical clinic) as a permitted use in the office zone; this is a commercial-use restriction, not a residential density or dwelling-type change.",
+    "confidence": "low",
+    "quote": "to change the zoning of the subject property FROM a Restricted Office (RO1) Zone TO a Restricted Office Special Provision (RO1(_)) Zone with the exception of \"Emergency Care Establishments\" being removed as an additional permitted use under the Special Provisions of the Restricted Office Special Provision (RO1(_)) Zone",
+    "flags": []
+  },
+  {
+    "id": "f4782fc80f03",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Endorsed a proposed residential development at 193-199 College Avenue with special-provision zoning permitting up to 196 units per hectare and a 21-metre building height.",
+    "confidence": "high",
+    "quote": "the development, as proposed, BE ENDORSED",
+    "flags": []
+  },
+  {
+    "id": "bce613972380",
+    "issue": "downtown",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Amended the item to add free one-hour on-street parking in the Core Area (funded up to $300,000) and a free one-hour parking pilot at two Old East Village municipal lots (funded up to $30,000).",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to implement a free 1-hour on-street parking program for the Core Area until the end of 2024",
+    "flags": []
+  },
+  {
+    "id": "6f9f69f3a0d5",
+    "issue": "downtown",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved implementing free one-hour on-street parking in the Core Area (funded up to $300,000) and a free one-hour parking pilot at two Old East Village municipal lots (funded up to $30,000).",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to implement a free 1-hour on-street parking program for the Core Area until the end of 2024",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "6b28a5a67b85",
+    "issue": "transit",
+    "axis": "service-expansion",
+    "polarity": "expansive",
+    "whatAYeaDid": "Awarded construction contracts and increased consultant design-contract funding for the Wellington Road and East London Link Rapid Transit Implementation corridor infrastructure.",
+    "confidence": "high",
+    "quote": "the bid submitted by CH Excavating (2013) at its tendered price of $30,814,695.92 (excluding HST) for the Rapid Transit Implementation – Wellington Road from Harlech Gate to Wellington Commons Entrance project, BE ACCEPTED",
+    "flags": []
+  },
+  {
+    "id": "cddd1bf98620",
+    "issue": "encampments",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred a proposed $130,000 increase to Safe Space London's homeless day/overnight drop-in space funding to a future meeting; this confirming vote failed, so the referral did not take effect at Council.",
+    "confidence": "high",
+    "quote": "that consideration of the existing Municipal Purchase of Service Agreement with Safe Space London for a total estimated increase of up to $130,000 (excluding HST) for the period of June 1, 2024 to July 31, 2024, to continue temporary day and overnight drop in space to be funded through the Contingency Reserve fund as per the Corporation of the City of London Procurement Policy Section 20.3 e) BE REFERRED to the May 28, 2024 meeting of the Strategic Priorities and Policy Committee",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "7eafda7b451a",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Added a note to the temporary-use zoning extension motion flagging that Council would consider a further 2+ year extension later if the applicant progresses signed parking-lot improvements; the note itself decides nothing about the zoning extension's length.",
+    "confidence": "high",
+    "quote": "It being further noted, that as SPA23-097 for parking lot works has been received by the city, and should the applicant enter into a signed development agreement and demonstrate progress on the parking lot improvements before the expiration of this extension, that council shall consider an additional extension of no less than 2 years.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "e313598d210c",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved extending the Temporary Use (T-79) zoning for 376-390 Hewitt Street and 748 King Street for one year, facilitating the site's eventual redevelopment into a 24-storey mixed-use apartment tower.",
+    "confidence": "high",
+    "quote": "That the motion, as amended, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "6e35af7bb7de",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred the item back to Planning and Environment Committee to consider extending the temporary-use zoning for three years instead of one; failed, so no referral occurred.",
+    "confidence": "high",
+    "quote": "That the motion, as amended, BE REFERRED to a future meeting of the Planning and Environment Committee to consider an amendment to the by-law to read as follows: the proposed by-law attached hereto as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on May 14, 2024, to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan for the City of London, 2016), to extend the Temporary Use (T-79) Zone as it applies to the area of land located at 376, 378, 380, 382, 386 & 390 Hewitt Street and 748 King Street for a period not to exceed three (3) years",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "79e6b8d45a67",
+    "issue": "encampments",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred a proposed $130,000 increase to Safe Space London's homeless drop-in space funding to a future committee meeting rather than deciding it immediately.",
+    "confidence": "high",
+    "quote": "That part b) of the motion BE REFERRED to the May 28, 2024 meeting of the Strategic Priorities and Policy Committee",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "1883abf84eb2",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved a single-source purchase of an Energreen tractor mower for approximately $518,700, a routine equipment procurement.",
+    "confidence": "high",
+    "quote": "the single source negotiated price BE ACCEPTED to purchase one (1) Energreen ILF Alpha F11 Tractor Mower for a total estimated price of $518,699.82 (excluding HST) from Colvoy Equipment",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "8ef12455ba0e",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved (at committee stage) extending the Temporary Use (T-79) zoning for 376-390 Hewitt Street and 748 King Street for one year, facilitating the site's eventual redevelopment into a 24-storey mixed-use apartment tower.",
+    "confidence": "high",
+    "quote": "the proposed by-law attached hereto as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on May 14, 2024, to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan for the City of London, 2016), to extend the Temporary Use (T-79) Zone as it applies to the area of land located at 376, 378, 380, 382, 386 & 390 Hewitt Street and 748 King Street for a period not to exceed one (1) year",
+    "flags": []
+  },
+  {
+    "id": "3afea2d2f184",
+    "issue": "downtown",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Would have narrowed the proposed free one-hour Core Area on-street parking program to weekdays only; failed, so the broader all-days wording stood for the next vote.",
+    "confidence": "medium",
+    "quote": "the Civic Administration BE DIRECTED to implement a free weekday 1-hour on-street parking program for the Core Area until the end of 2024",
+    "flags": []
+  },
+  {
+    "id": "2c6d64497d4d",
+    "issue": "downtown",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Would have approved implementing free one-hour on-street parking in the Core Area, funded up to $300,000; failed at committee (later passed at Council).",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to implement a free 1-hour on-street parking program for the Core Area until the end of 2024",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "edfd6a26f47c",
+    "issue": "downtown",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Would have approved a free one-hour parking pilot at Old East Village Municipal Lots #1 and #2, funded up to $30,000; failed at committee (later passed at Council).",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to implement a free 1-hour parking pilot program for Municipal Lot #1 and #2 in Old East Village until the end of 2024",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "5ba64d6157c4",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved a zoning by-law amendment for a residential development at 634 Commissioners Road West and directed site-plan design conditions (fencing, tree retention, bicycle parking, pedestrian connectivity review).",
+    "confidence": "high",
+    "quote": "the proposed by-law appended to the staff report dated April 9, 2024 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on April 23, 2024, to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan for the City of London, 2016), to AMEND the Residential R5 Special Provision (R5-7(30)) Zone",
+    "flags": []
+  },
+  {
+    "id": "bd7b7695c008",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have added a study of cut-through-traffic 'filtered-permeability' mitigation measures to a future Civic Works Committee agenda; failed.",
+    "confidence": "high",
+    "quote": "to study the issue of “filtered-permeability” with respect to mitigating the effects of cut-through traffic resulting from the opening of Beaverbrook Avenue and Westfield Drive and that this item be placed on a future Civic Works Committee agenda",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "c27e967fda33",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have added a note to the record about resident traffic/density concerns and asked that the issue be included in future Mobility Master Plan reports; failed, so no note was added and nothing was decided.",
+    "confidence": "high",
+    "quote": "That it BE FURTHER NOTED that through this application residents, businesses owners and community members raised concerns about ongoing traffic issues, movement of ambulances and the need for traffic planning in this area to address increased density from development planned in the West London area; and that this item should be included in future MMP reports to Civic Works Committee that discuss transit, road network and active transportation planning for West London.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "cc4b3d0d54e6",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved official plan and zoning by-law amendments for 735 Wonderland Road North, rezoning the site to a Business District Commercial Special Provision zone and directing site-plan consultation on affordable housing units.",
+    "confidence": "high",
+    "quote": "That item 5, clause 3.3, as amended, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "f1d57d58bac3",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved raising the maximum building height in the Byron Gravel Pits Secondary Plan from 18 to 22 storeys while simultaneously lowering the plan's required affordable-housing share from 25% to 10-15% -- two opposite-direction housing changes bundled in one vote.",
+    "confidence": "low",
+    "quote": "ix) AMEND Schedule 1 from 18 storeys with an upper maximum of 22 storeys; and, x) AMEND Schedule 1 from 25% affordable housing to 10% to 15% affordable housing;",
+    "flags": []
+  },
+  {
+    "id": "6e54e9c40a61",
+    "issue": "transit",
+    "axis": "service-expansion",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved expropriating land needed to build Phase 4 of the East London Link rapid-transit corridor (part of the Rapid Transit Implementation program).",
+    "confidence": "medium",
+    "quote": "approval BE GIVEN to the expropriation of land as may be required for the East London Link Project Phase 4, and that the following actions be taken in connection therewith",
+    "flags": []
+  },
+  {
+    "id": "b9b49881ef19",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have added a request that the Mayor draw $3.5 million from the Community Investment Reserve Fund to offset the 2025 tax-rate increase; failed.",
+    "confidence": "medium",
+    "quote": "it being noted that the Mayor be requested to use a one time draw of $3.5M from the Community Investment Reserve Fund to offset the 2025 increased tax rate.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "895754219c7f",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred the entire 2023 Year-End Operating Budget Monitoring Report to a future Strategic Priorities and Policy Committee meeting; failed, so Council proceeded to decide it directly.",
+    "confidence": "high",
+    "quote": "That, notwithstanding the Council Procedure By-law, the motion BE REFERRED to a future meeting of Strategic Priorities and Policy Committee for consideration;",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "08beca7153b5",
+    "issue": "budget",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved the 2023 year-end operating budget monitoring report and funding the London & Middlesex Community Housing operational deficit of about $33,000.",
+    "confidence": "high",
+    "quote": "the request to fund the 2023 London & Middlesex Community Housing operational deficit of approximately $33 thousand BE APPROVED",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "d1fc73f17bb5",
+    "issue": "transit",
+    "axis": "service-expansion",
+    "polarity": "expansive",
+    "whatAYeaDid": "Directed staff to develop an MOU with the school board to launch a pilot providing free annual transit passes to Grade 9 (later Grade 9-10) students at Clarke Road Secondary School.",
+    "confidence": "high",
+    "quote": "the Civic Administration in collaboration with the London Transit Commission BE DIRECTED to initiate the development of a Memorandum of Understanding (MOU) with the Thames Valley District School Board (TVDSB), for the purpose of partnering to deliver a pilot project to provide annual transit passes to secondary school students at Clarke Road Secondary School",
+    "flags": []
+  },
+  {
+    "id": "b510ab684a9b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Granted Councillor Stevenson three additional minutes to speak on the Whole of Community System Response quarterly update; a speaking-time procedural vote, not a position on the item's substance.",
+    "confidence": "high",
+    "quote": "That pursuant to section 31.6 of the Council Procedure By-law, Councillor S. Stevenson BE PERMITTED to speak an additional 3 minutes with respect to this matter.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "55bfa054657f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have kept the status-quo Councillor expense-account option (Ward Option #1) for funding ward meeting/engagement expenses; failed.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to maintain status quo and fund ward meeting and engagement expenses from the Councillor expense account with Ward Option #1, as indicated in the above noted report",
+    "flags": []
+  },
+  {
+    "id": "e9a18457d74d",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved the Targeted Actions to Increase London's Housing Supply report, adopting measures supporting Council's pledge to enable 47,000 new housing units by 2031.",
+    "confidence": "high",
+    "quote": "the report entitled “Targeted Actions to Increase London’s Housing Supply: Supporting Council’s Pledge for 47,000 Units by 2031,” as appended to the staff report as Appendix “A,” BE APPROVED",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "e294e35cf969",
+    "issue": "transit",
+    "axis": "service-expansion",
+    "polarity": "expansive",
+    "whatAYeaDid": "Directed staff to develop an MOU with the school board to launch a pilot providing free annual transit passes to Grade 9 students at Clarke Road Secondary School.",
+    "confidence": "high",
+    "quote": "the Civic Administration in collaboration with the London Transit Commission BE DIRECTED to initiate the development of a Memorandum of Understanding (MOU) with the Thames Valley District School Board (TVDSB), for the purpose of partnering to deliver a pilot project to provide annual transit passes to secondary school students at Clarke Road Secondary School",
+    "flags": []
+  },
+  {
+    "id": "e1ef578436ff",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred the entire secondary-school transit-pass pilot proposal to the next committee meeting instead of deciding it immediately; failed, so the committee proceeded to approve the pilot the same meeting.",
+    "confidence": "high",
+    "quote": "that the motion from Deputy Mayor S. Lewis and Councillor P. Cuddy BE REFERRED to the next meeting of Strategic Priorities and Policy Committee on May 7, 2024",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "9496bc59ad3b",
+    "issue": "transit",
+    "axis": "service-expansion",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved (at committee stage) expropriating land needed to build Phase 4 of the East London Link rapid-transit corridor.",
+    "confidence": "medium",
+    "quote": "approval BE GIVEN to the expropriation of land as may be required for the East London Link Project Phase 4, and that the following actions be taken in connection therewith",
+    "flags": []
+  },
+  {
+    "id": "3daac1dd1dcf",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved (at committee stage) official plan and zoning by-law amendments for 735 Wonderland Road North, rezoning to a Business District Commercial Special Provision zone and directing site-plan consultation on affordable housing.",
+    "confidence": "high",
+    "quote": "the proposed by-law appended to the staff report dated April 9, 2024 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on April 23, 2024 to amend the Official Plan for the City of London, 2016, by ADDING a new policy to the Specific Policies for the Transit Village Place Type and by ADDING the subject lands to Map 7 – Specific Policies Areas – of the Official Plan",
+    "flags": []
+  },
+  {
+    "id": "057d37f642a6",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved (at committee stage) the Byron Gravel Pits Secondary Plan as amended, including raising the maximum building height from 18 to 22 storeys and reducing the required affordable-housing share from 25% to 10-15% -- two opposite-direction housing changes bundled in one vote.",
+    "confidence": "low",
+    "quote": "\"AMEND Schedule 1 from 18 storeys with an upper maximum of 22 storeys;\" ... AMEND Schedule 1 from 25% to 10% to 15% affordable housing;",
+    "flags": []
+  },
+  {
+    "id": "92782636fd50",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Sustained the Chair's ruling on a councillor's point of privilege; a procedural chamber-management vote unrelated to any of the tracked policy issues.",
+    "confidence": "high",
+    "quote": "shall the ruling of the Chair BE SUSTAINED?",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "873508ecdfbc",
+    "issue": "transit",
+    "axis": "service-expansion",
+    "polarity": "expansive",
+    "whatAYeaDid": "Set the City's 2050 mode share target at 32.5% (or higher) combined for transit, walking, and cycling trips -- the more ambitious of the staff-presented options -- to be reviewed at least every four years.",
+    "confidence": "medium",
+    "quote": "the 2050 mode share target for the development of the Mobility Master Plan BE SET at the levels described in Option 2 (representing 32.5% Mode Share split) or greater for Transit and for Walking and Cycling",
+    "flags": []
+  },
+  {
+    "id": "dd9bb8b6f9cb",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved reinitiating the Official Plan Review and Land Needs Assessment, directing staff to expand the City's land supply for housing (including industrial-to-other conversions) and pursue a higher intensification/mode-share target to support London's housing-supply pledge.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to reinitiate the Official Plan Review which is consistent with Section 26 of the Planning Act, noting the review will be phased to prioritize a Land Needs Assessment in support of the City’s housing supply initiatives",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  }
+]

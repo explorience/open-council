@@ -1,0 +1,591 @@
+[
+  {
+    "id": "dd17ec0fa6f7",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved special-provision zoning permissions at 3637 Colonel Talbot Road allowing a detached garage in the front yard of the R1-14 zone, including a reduced front-yard setback for the garage.",
+    "confidence": "high",
+    "quote": "The requested Special Provisions to facilitate the construction of a new detached garage in the front yard in the R1-14 zone, including i) permitting accessory buildings in the form of detached garages in the front yard, ii) permitting a front yard depth for garages of 4.5 metres whereas 8.0 metres is required, and iii) garage doors shall not face Colonel Talbot Road, BE APPROVED;",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2024-01-09 PEC item 3.7 motion (Passed 3-1): quote is verbatim and is the complete, standalone text of the exact sub-clause voted 3-1. Z-9664 code-pattern correctly triggers housing classification; this is a garage front-yard-setback special provision (not a density change), but the codebase's own CODE_PATTERNS design treats any Z-code rezoning item as housing regardless of substance -- generic application-approval/expansive fallback is the correct read given no density/use-permission content."
+  },
+  {
+    "id": "76e1dfe7abb4",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the Integrity Commissioner item to add a formal reprimand of Councillor S. Stevenson for the Code of Conduct breach found in the Commissioner's report.",
+    "confidence": "high",
+    "quote": "that in consideration of the Integrity Commissioner’s Findings regarding the breach of Council’s Code of Conduct in the above noted report, that Councillor S. Stevenson formally BE REPRIMANDED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2023-12-19 Council 6.1 (Passed 9-6): quote verbatim. Integrity Commissioner code-of-conduct reprimand of a councillor -- GLOBAL_EXCLUDE ('code of conduct', 'integrity commissioner') correctly applies; this is a personnel/discipline matter, not a position on any of the 8 issues. No missed classification."
+  },
+  {
+    "id": "dae772ec39b7",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved part b) of the item as amended, formally reprimanding Councillor S. Stevenson for the Code of Conduct breach found by the Integrity Commissioner.",
+    "confidence": "high",
+    "quote": "that in consideration of the Integrity Commissioner’s Findings regarding the breach of Council’s Code of Conduct in the above noted report, that Councillor S. Stevenson formally BE REPRIMANDED",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2023-12-19 Council 6.1 (Passed 9-6, same item as 76e1dfe7abb4): quote verbatim, this is the final 'part b) and preamble BE APPROVED' re-vote of the same reprimand. Correctly excluded, no missed classification."
+  },
+  {
+    "id": "fffb79dd714e",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Introduced a by-law rezoning 130 Southdale Road West from Residential R1 to a Residential R3 Special Provision zone to permit an infill development by Alora Homes.",
+    "confidence": "high",
+    "quote": "the proposed by-law appended to the Planning and Environment Committee Added Agenda as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on December 19, 2023 to amend Zoning By-law No. Z.-1, ... to change the zoning of the subject property FROM a Residential R1 (R1-9) Zone TO a Residential R3 Special Provision (R3-1(_)) Zone",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2023-12-19 Council 8.1.11 (Passed 13-1): quote is verbatim and is the full, only operative clause of the sole motion on this item. Genuine R1(single-family)->R3-SP(infill) rezoning by Alora Homes. housing/application-approval/expansive correct."
+  },
+  {
+    "id": "70a919594ec9",
+    "issue": "encampments",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Reconsidered Council's earlier decision directing monthly Whole of Community System Response progress reporting, reopening the matter so an alternate reporting direction could be considered.",
+    "confidence": "high",
+    "quote": "reconsideration of clause 4.1 of the 10th Report of the Strategic Priorities and Policy Committee regarding Health and Homelessness Summits - Proposed Whole of Community System Response, as approved at the March 7, 2023 meeting of the Municipal Council BE RECONSIDERED, in order to allow for alternate direction on reporting.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2023-12-19 Council 8.6.11 motion 0 (Passed 14-1): quote verbatim. A pure procedural reconsideration (reopens a prior decision without deciding anything about response scale). Correctly unclear."
+  },
+  {
+    "id": "f4915939f4bf",
+    "issue": "encampments",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed Civic Administration to change the reporting frequency of the comprehensive Whole of Community System Response progress update to quarterly.",
+    "confidence": "medium",
+    "quote": "That Civic Administration BE DIRECTED to adjust the frequency of the overall comprehensive “Progress Update - Health & Homelessness Whole of Community System Response” to quarterly",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2023-12-19 Council 8.6.11 motion 1 (Passed 13-2): quote verbatim. This directs a change in REPORTING FREQUENCY only -- it does not fund, expand, or restrict the response itself, so no response-scale axis content exists, and reading it via the generic approve/deny fallback would misleadingly read as an 'approved encampments item.' Correctly left unclear (safe call); not a missed classification."
+  },
+  {
+    "id": "97c25cfd2a1a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved three bundled consent-stage agenda items together in a single vote, including the LEDC Purchase of Services Agreement, without separately addressing any one item's substance.",
+    "confidence": "medium",
+    "quote": "That items 6 (2.4), 7 (2.5), and 8 (2.6) BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2023-12-19 Council 8.6.6 motion 0 (Passed 14-1) plus the underlying 2.4/2.5/2.6 items it bundles (LEDC purchase-of-services agreement, Small Business Centre grant, TechAlliance grant). None of the three contains a literal keyword for any of the 8 issues (no 'business case', no budget/housing/etc. term). Correctly 'none'; no missed classification."
+  },
+  {
+    "id": "da353978374d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved a change to the order of the Strategic Priorities and Policy Committee agenda, moving items 2.4, 2.5 and 2.6 up to be considered before Stage 3 Schedule Items.",
+    "confidence": "high",
+    "quote": "That, notwithstanding the Council Procedure By-law, a change in order of the Strategic Priorities and Policy Committee Agenda BE APPROVED, to provide for Items 2.4, 2.5, 2.6 in Stage 2, Consent, to be considered before Stage 3, Schedule Items.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2023-12-12 SPPC item 2 motion 1 (Passed 13-2): quote verbatim. A pure agenda-order procedural motion; GLOBAL_EXCLUDE 'council procedure by-law' correctly applies. No missed classification."
+  },
+  {
+    "id": "1181399daad4",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred the LEDC 2024-2027 Purchase of Services Agreement back to Civic Administration to negotiate specific changes to its terms and metrics.",
+    "confidence": "high",
+    "quote": "the 2024-2027 Purchase of Services Agreement BE REFERRED to Civic Administration to negotiate the following changes",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2023-12-12 SPPC item 2 motion 7 (Failed 1-14): quote verbatim, a referral (DEFER_RE, no independent AFFIRM verb). Correctly unclear; the underlying LEDC agreement text has no issue-cluster keyword regardless. No missed classification."
+  },
+  {
+    "id": "015495b9693f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Permitted Councillor Pribil to speak for an additional one minute on the LEDC agreement item.",
+    "confidence": "high",
+    "quote": "That pursuant to section 31.6 of the Council Procedure By-law, Councillor Pribil BE PERMITTED to speak an additional 1 minute with respect to this matter.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2023-12-12 SPPC item 2 motion 8 (Passed 12-3): quote verbatim, a speaking-time procedural motion. Correctly 'none'. No missed classification."
+  },
+  {
+    "id": "c2c776be4be2",
+    "issue": "encampments",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Reconsidered Council's earlier decision that Civic Administration report back monthly on the Health and Homelessness Whole of Community System Response, reopening the matter for a new reporting-frequency direction.",
+    "confidence": "high",
+    "quote": "the March 7, 2023 Council decision directing Civic Administration to report back monthly to future standing committees on Health and Homelessness Whole of Community System Response progress updates BE RECONSIDERED",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2023-12-12 SPPC 4.1 motion 1 (Passed 11-4): quote verbatim, a pure procedural reconsideration. Correctly unclear."
+  },
+  {
+    "id": "0f3bc5f988a8",
+    "issue": "encampments",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the reconsidered motion to propose changing the Whole of Community System Response progress-update frequency from twice annually to quarterly.",
+    "confidence": "high",
+    "quote": "That the motion BE AMENDED to reflect the frequency of the overall comprehensive \"Progress Update - Health & Homelessness Whole of Community System Response” from \"twice annually\" to \"quarterly\".",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2023-12-12 SPPC 4.1 motion 3 (Passed 13-2): quote verbatim, an amendment changing the proposed reporting-frequency wording from 'twice annually' to 'quarterly'. Not a response-scale (funding/support) decision. Correctly unclear."
+  },
+  {
+    "id": "bddbeda7ffc6",
+    "issue": "encampments",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed Civic Administration to change the frequency of the comprehensive Whole of Community System Response progress-update report to quarterly.",
+    "confidence": "medium",
+    "quote": "the Civic Administration BE DIRECTED to adjust the frequency of the overall comprehensive “Progress Update - Health & Homelessness Whole of Community System Response” to quarterly",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2023-12-12 SPPC 4.1 motion 4 (Passed 14-1): quote verbatim, the final version directing quarterly reporting. Same reporting-cadence, non-response-scale reasoning as f4915939f4bf/0f3bc5f988a8. Correctly unclear."
+  },
+  {
+    "id": "14c78f03d36d",
+    "issue": "budget",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved prioritizing the Planning & Development and Building Services area for workplace modernization (subject to multi-year budget deliberation) and approved the source of financing for the additional staff accommodation costs.",
+    "confidence": "medium",
+    "quote": "the source of financing for the additional staff accommodation costs BE APPROVED as set out in the Source of Financing Report as appended to the staff report as Appendix “A”",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2023-12-06 Special SPPC 2.1 (Passed 12-2): quote is part b) of a two-part wrapper motion; part b) carries its OWN independent 'BE APPROVED' verb (source-of-financing approval), a real, separate decision from part a)'s prioritization language -- not a deferral or informational ask. budget/application-approval/expansive correct."
+  },
+  {
+    "id": "72994a9b8075",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have removed a requested site-plan consideration (a possible public pathway/easement to Glenroy Crescent) from the list of design issues referred to the Site Plan Approval Authority for the 488-492 Pond Mills Road rezoning application.",
+    "confidence": "medium",
+    "quote": "Motion to remove clause b) i);",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2023-12-04 PEC 3.5 motion 5 (Failed 2-3): quote verbatim ('Motion to remove clause b) i)'), removing one item from a discretionary 'Site Plan Approval Authority BE REQUESTED to consider' design-issue list (a possible public pathway/easement) -- does not touch density, height, or use-permission. Z-9625 code correctly earns the housing tag; correctly no axis. No missed classification."
+  },
+  {
+    "id": "db49e8a6c626",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the City to enter into a contract with The Ark Aid Street Mission for up to $1,472,739 to operate 65 overnight cold-weather-response spaces at 432 William Street from January 2023 to May 2024.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to enter into a contract with The Ark Aid Street Mission in the amount up to $1,472,739 (excluding HST) for the provision of all services to operate 65 spaces at 432 William Street for the cold weather response overnight spaces",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2023-11-28 Council 8.1.17 motion 2 (Passed 9-6): quote verbatim and operative. Confirms the classifier's central finding for this batch: the clause's own text says 'cold weather response overnight spaces' throughout and never uses any of issue-rules.ts's literal encampments phrases ('emergency shelter', 'unsheltered', 'warming centre', etc.) in this specific clause. 'none' is the correct, if under-inclusive, result under the current keyword list -- a real gap in issue-rules.ts's vocabulary, not a classifier error on this entry."
+  },
+  {
+    "id": "d18ad55d419d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the City to enter into a contract with The Ark Aid Street Mission for up to $404,323 to operate 15 overnight cold-weather-response spaces at CMHA Coffee House, 371 Hamilton Road.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to enter into a contract with The Ark Aid Street Mission in the amount up to $404,323 (excluding HST) for the provision of all services to operate 15 overnight spaces at CMHA Coffee House, 371 Hamilton Road",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2023-11-28 Council 8.1.17 motion 3 (Passed 14-1): quote verbatim and operative, same 'cold weather response' vocabulary gap as db49e8a6c626. Correctly 'none' under current keywords."
+  },
+  {
+    "id": "8358c3f069f0",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved an Official Plan amendment and rezoning at 978 Gainsborough Road permitting a maximum density of 370 units per hectare and 17-storey height, to build two 17-storey apartment towers with 481 residential units.",
+    "confidence": "high",
+    "quote": "the request to amend the Official Plan, The London Plan, for the City of London by AMENDING a site-specific policy for the Neighbourhoods Place Type to allow a maximum density of 370 units per hectare and a maximum height of 17-storeys, BE APPROVED",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2023-11-28 Council 8.2.8 (Passed 12-3): quote is part a) verbatim, a real Official Plan amendment to 370 units/ha and 17 storeys, part of a 12-3 divided decision (parts b-f were not separately voted). housing/density/expansive correct."
+  },
+  {
+    "id": "a8eb0cdeef6e",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have removed Dalkeith Avenue from the list of streets exempted from sidewalk construction under the Northridge Neighbourhood Connectivity Plan.",
+    "confidence": "high",
+    "quote": "That the motion BE AMENDED to remove Dalkeith Avenue from the list of exempted streets for sidewalks in the Northridge Neighbourhood Connectivity Plan.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2023-11-28 Council 8.4.5 motion 0 (Failed 7-8): quote verbatim. About sidewalk construction/exemption, which is not covered by any literal keyword in the 'transit' cluster (sidewalks are absent from that list). Correctly 'none'. No missed classification."
+  },
+  {
+    "id": "36cdf1b8d1a5",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the City's acquisition of a 138.64-acre property at 1462 Westminster Drive for $4,100,000 for infrastructure environmental compensation, and approved the source of financing for the purchase.",
+    "confidence": "high",
+    "quote": "the offer submitted by 1058565 Ontario Limited (the “Vendor”), to sell the subject property to the City, for the sum of Four Million and One Hundred Thousand Dollars CDN ($4,100,000.00) BE ACCEPTED",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2023-11-24 Special Council item 9 (Passed 10-2): quote verbatim. A land purchase for infrastructure environmental compensation -- no literal keyword hit for any of the 8 issues (not a housing development; 'financing'/'source of financing' text present but no budget-cluster keyword like 'operating budget' or 'business case'). Correctly 'none'. No missed classification."
+  },
+  {
+    "id": "ce8894a6af55",
+    "issue": "downtown",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred the 2023-2027 Core Area Strategic Plan back to Civic Administration for a comprehensive review, and directed staff to report back on next steps and the need for a new downtown master plan.",
+    "confidence": "high",
+    "quote": "the 2023-2027 City of London Strategic Plan: Core Area BE REFERRED back to Civic Administration",
+    "flags": [
+      "referral",
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2023-11-21 SPPC 2.4 motion 0 (Passed 11-1): quote verbatim, the full clause. This refers the Core Area Strategic Plan BACK to Civic Administration for a full rework and directs a report-back with next steps and a possible new master plan -- substantively a redirect/non-decision, not an approval of any downtown position. The 'downtown' cluster has no AXIS_PATTERNS defined and the generic approve/deny fallback (which would technically fire on the embedded 'BE DIRECTED' verbs) would misleadingly read this as 'approved the downtown item.' Correctly left unclear (the safe call); not a missed classification."
+  },
+  {
+    "id": "f60aadf47efe",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the City to enter into a contract with The Ark Aid Street Mission for up to $1,472,739 to operate 65 overnight cold-weather-response spaces at 432 William Street.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to enter into a contract with The Ark Aid Street Mission in the amount up to $1,472,739 (excluding HST) for the provision of all services to operate 65 spaces at 432 William Street for the cold weather response overnight spaces",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2023-11-21 SPPC 4.2 motion 3 (Passed 8-6): quote verbatim and operative, committee-stage duplicate of db49e8a6c626 (same $1,472,739 Ark Aid contract). Same 'cold weather response' vocabulary gap. Correctly 'none'."
+  },
+  {
+    "id": "7976f4f52fe0",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the City to enter into a contract with The Ark Aid Street Mission for up to $404,323 to operate 15 overnight cold-weather-response spaces at CMHA Coffee House, 371 Hamilton Road.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to enter into a contract with The Ark Aid Street Mission in the amount up to $404,323 (excluding HST) for the provision of all services to operate 15 overnight spaces at CMHA Coffee House, 371 Hamilton Road",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2023-11-21 SPPC 4.2 motion 4 (Passed 13-1): quote verbatim and operative, committee-stage duplicate of d18ad55d419d (same $404,323 contract). Correctly 'none'."
+  },
+  {
+    "id": "7b8c1598286d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred the structure of the Community Advisory Committees to the Governance Working Group to review potential redundancies and opportunities to improve operations, as part of a term-extension motion for the committees.",
+    "confidence": "high",
+    "quote": "the Community Advisory Committee structure BE REFERRED to Governance Working Group to review potential redundancies and to review opportunities to improve operations of advisory committees.",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2023-11-21 SPPC 5.1 motion 1 (Passed 12-1): quote verbatim, a referral of the Community Advisory Committee structure to the Governance Working Group -- a governance/committee-structure matter, no issue-cluster keyword. Correctly 'none'. No missed classification."
+  },
+  {
+    "id": "cc60d6c6cefa",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the Huron Heights Neighbourhood Connectivity Plan staff recommendation to exclude the proposed Kaladar Drive, Cayuga Crescent, Mark Street and Michael Street sidewalks from the plan.",
+    "confidence": "high",
+    "quote": "Motion to amend the staff recommendation by adding the words “excluding the proposed Kaladar Drive, Cayuga Crescent, Mark Street and Michael Street sidewalks.”",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2023-11-14 Civic Works Committee 3.2 motion 3 (Passed 3-2): quote verbatim, a sidewalk-exclusion amendment. Same 'sidewalks aren't a transit keyword' reasoning as a8eb0cdeef6e. Correctly 'none'."
+  },
+  {
+    "id": "cd7f0d9bb49e",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the Huron Heights Neighbourhood Connectivity Plan as amended, i.e. excluding the Kaladar Drive, Cayuga Crescent, Mark Street and Michael Street sidewalks from the plan.",
+    "confidence": "high",
+    "quote": "Motion to approve the motion as amended.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2023-11-14 Civic Works Committee 3.2 motion 4 (Passed 3-2): quote verbatim ('Motion to approve the motion as amended'), the final adoption of the same sidewalk plan. Correctly 'none', consistent with cc60d6c6cefa."
+  },
+  {
+    "id": "c4485e215486",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved an Official Plan amendment and rezoning at 978 Gainsborough Road permitting a maximum density of 370 units per hectare and 17-storey height, to build two 17-storey apartment towers with 481 residential units.",
+    "confidence": "high",
+    "quote": "the request to amend the Official Plan, The London Plan, for the City of London by AMENDING a site-specific policy for the Neighbourhoods Place Type to allow a maximum density of 370 units per hectare and a maximum height of 17-storeys, BE APPROVED;",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2023-11-13 PEC 3.5 (Passed 4-1): committee-stage duplicate of the same 978 Gainsborough Rd package as 8358c3f069f0, with an identical clause a). Correctly classified independently and identically off two distinct manifest ids, matching the classifier's own note about two-meeting-level duplicates. housing/density/expansive correct."
+  },
+  {
+    "id": "fd9fa5f36782",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the Mobility Master Plan project team to consult with the Integrated Transportation Community Advisory Committee, and directed staff to show how mode-share options align with Climate Emergency Action Plan goals.",
+    "confidence": "high",
+    "quote": "the Mobility Master Plan project team BE DIRECTED to consult with the Integrated Transportation Community Advisory Committee (ITCAC) with respect to this matter",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2023-11-07 Council 8.1.9 motion 2 (Passed 11-3): traced 'parts b) and c)' back to the item's main motion -- b) directs the Mobility Master Plan team to consult with ITCAC, c) directs staff to show CEAP alignment. Neither approves, denies, increases, or decreases any transit service/infrastructure; both are process/consultation directives in the same spirit as the codebase's own 'report back' informational-ask exclusion, even though 'consult with' isn't literally in INFORMATIONAL_ASK_RE's phrase list. Treating this as a real transit position (via the generic approve/deny fallback) would overstate it. Correctly left unclear."
+  },
+  {
+    "id": "b5346383c3e7",
+    "issue": "encampments",
+    "axis": "response-scale",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved several 2023-24 Cold Weather Response funding items, including a $523,552 funding increase to CMHA Thames Valley's drop-in space agreement, one-time security funding for London Cares and CMHA sites, a $638,000 Ark Aid Street Mission contract, a $259,000 Safe Space London contract, and $100,000 to support costs of the response for those who will remain unsheltered.",
+    "confidence": "high",
+    "quote": "APPROVE a funding increase extension to the existing Municipal Purchase of Service agreement with CMHA Thames Valley Addiction & Mental Health Services at a total estimated increase of up to $523,552 (excluding HST) ... to administer the City of London 2023-24 Cold Weather Response drop-in space",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2023-11-07 Council 8.2.6 motion 2 (Passed 14-1): the described bundle (parts c,d,e,g,h,j -- security funding for London Cares & CMHA, the amended $523,552 CMHA increase, the $638,000 Ark Aid contract, the $259,000 Safe Space London contract, $100,000 for those remaining unsheltered) matches the full text of the actual 14-1 vote exactly, word for word. The literal 'unsheltered' keyword in part j), bundled into this same vote, is what legitimately earns the encampments classification. Quote (part e) is verbatim and operative. encampments/response-scale/expansive correct."
+  },
+  {
+    "id": "8d4cec07a644",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved applying the City's $423,548 share of the Middlesex-London Health Unit's 2022 surplus to reduce the outstanding balance on MLHU's loan for its Citi Plaza office fit-out.",
+    "confidence": "high",
+    "quote": "the application of the City of London’s share of Middlesex-London Health Unit's (MLHU) 2022 surplus in the amount of $423,548 to reduce the outstanding amount of MLHU’s variable bank loan for the fit-out of the Citi Plaza office space BE APPROVED",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2023-11-07 Council 8.4.7 motion 0 (Passed 10-4): quote verbatim and operative, the Council-level vote applying the City's $423,548 share of MLHU's 2022 surplus to reduce its Citi Plaza fit-out loan. No budget-cluster keyword present ('surplus'/'loan' aren't in the keyword list -- 'reserve fund' was deliberately dropped per issue-rules.ts's own calibration notes). Correctly 'none'."
+  },
+  {
+    "id": "552dbb5e1f13",
+    "issue": "budget",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved a $250,000 one-time grant from the Operating Budget Contingency Reserve to the Argyle and Hamilton Road Business Improvement Associations.",
+    "confidence": "medium",
+    "quote": "a one-time grant of $250,000 to the Argyle and Hamilton Road Business Improvement Associations be APPROVED, with funding to be sourced from the Operating Budget Contingency Reserve funds",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2023-10-31 SPPC 2.2 motion 2 (Passed 8-4): quote is verbatim and is a genuine, passed grant approval (added as new part c) to the main motion). budget/application-approval/expansive correct."
+  },
+  {
+    "id": "cd54ba623f8e",
+    "issue": "budget",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Would have approved a $125,000 one-time grant from the Operating Budget Contingency Reserve to the Hyde Park Business Improvement Association.",
+    "confidence": "medium",
+    "quote": "a one-time grant of $125,000 to the Hyde Park Business Improvement Association be APPROVED, with funding to be sourced from the Operating Budget Contingency Reserve funds",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2023-10-31 SPPC 2.2 motion 3 (Failed 5-7): quote is verbatim, part a) of a failed sub-amendment nested inside a further amendment. 'Would have approved' framing is correct and consistent with the direction-rules design (direction states what a YEA does on the clause's own content, independent of the motion's actual pass/fail; the fail is preserved separately for stance aggregation to combine with each member's real vote). budget/application-approval/expansive correct."
+  },
+  {
+    "id": "3682cc3f48c6",
+    "issue": "encampments",
+    "axis": "response-scale",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved several 2023-24 Cold Weather Response funding items, including a $350,000 funding increase to CMHA Thames Valley's drop-in space agreement, one-time security funding for London Cares and CMHA sites, a $638,000 Ark Aid Street Mission contract, a $259,000 Safe Space London contract, and $100,000 to support costs of the response for those who will remain unsheltered.",
+    "confidence": "high",
+    "quote": "APPROVE a funding increase extension to the existing Municipal Purchase of Service agreement with CMHA Thames Valley Addiction & Mental Health Services at a total estimated increase of up to $350,000 (excluding HST) ... to administer the City of London 2023-24 Cold Weather Response drop-in space",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2023-10-31 SPPC 2.3 motion 1 (Passed 12-1): the committee-stage version of the same bundle as b5346383c3e7, with the pre-amendment $350,000 CMHA figure (later raised to $523,552 at Council) -- matches the classifier's description exactly. Quote is verbatim and operative. encampments/response-scale/expansive correct."
+  },
+  {
+    "id": "9dba175e2cad",
+    "issue": "encampments",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have directed Civic Administration to report back on recovery services, staffing ratios, and funding sources for expanded recovery programs and staffing within existing local emergency shelters, and report back to the November 21, 2023 committee meeting.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to report back on the recovery services currently being offered and explore opportunities to provide/expand recovery focused programs within the existing and/or newly established local emergency shelters and facilities",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2023-10-31 SPPC 4.3 motion 1 (Failed 4-10): quote verbatim. Every part of the clause is a 'report back' / 'explore opportunities' request (matches INFORMATIONAL_ASK_RE on both counts) -- genuinely decides nothing about recovery services or shelter capacity. Correctly unclear."
+  },
+  {
+    "id": "d0cd0ea93e77",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred three confidential closed-session matters (a land acquisition/disposition matter, a litigation matter, and a personal matter regarding the Mayor's New Year's Honour List) to the November 7, 2023 Council meeting for consideration.",
+    "confidence": "high",
+    "quote": "That the following items BE REFERRED to the Council Meeting to be held on November 7, 2023 for consideration;",
+    "flags": [
+      "procedural",
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2023-10-31 SPPC item 6 motion 1 (Failed 4-9): quote verbatim, a referral of confidential closed-session items to a later Council meeting. Correctly 'none'/procedural. No missed classification."
+  },
+  {
+    "id": "96e340402382",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the referral of the Mobility Master Plan 2050 Mode Share Target report by adding direction for the project team to consult with the Integrated Transportation Community Advisory Committee and to show how mode-share options align with Climate Emergency Action Plan goals.",
+    "confidence": "high",
+    "quote": "the Mobility Master Plan project team BE DIRECTED to consult with the Integrated Transportation Community Advisory Committee with respect to this matter",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2023-10-24 Civic Works Committee 2.5 motion 2 (Passed 4-1): quote verbatim, the committee-stage version of the same ITCAC-consult/CEAP-alignment amendment as fd9fa5f36782. Same reasoning applies. Correctly unclear."
+  },
+  {
+    "id": "b9376ab30d6e",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved directing the Mobility Master Plan project team to consult with the Integrated Transportation Community Advisory Committee and to show how mode-share options align with Climate Emergency Action Plan goals.",
+    "confidence": "high",
+    "quote": "Motion to approve parts b) and c) of the clause.",
+    "flags": [
+      "informational_ask",
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2023-10-24 Civic Works Committee 2.5 motion 3 (Passed 5-1): quote verbatim ('Motion to approve parts b) and c) of the clause'), the committee-stage adoption of the same consult/CEAP-alignment directive as fd9fa5f36782/96e340402382. Correctly unclear."
+  },
+  {
+    "id": "bb1120077cbd",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have revised the 610-620 Beaverbrook Avenue rezoning by-law to delete a special provision that set the minimum landscaped open space at 24% (below the standard R8-4 zone minimum of 30%).",
+    "confidence": "medium",
+    "quote": "the proposed by-law appended to the staff report as Appendix ‘B’, being a by-law to amendment Zoning Bylaw Z.-1, BE REVISED by DELETING part 2) a) v) Landscaped Open Space (minimum): 24%",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2023-10-23 PEC 3.7 motion 3 (Failed 2-3): quote verbatim. Would have deleted a special-provision clause that reduces the required minimum landscaped open space from the standard 30% to 24% -- i.e. would have reverted to the stricter standard. This is a site-standard percentage, not covered by the density (height/storeys/units-per-hectare) or use-permission axis definitions. OZ-9517 code correctly earns the housing tag; correctly no axis given the defined axis vocabulary. No missed classification."
+  },
+  {
+    "id": "832e9a4dd8fe",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved applying the City's $423,548 share of the Middlesex-London Health Unit's 2022 surplus to reduce the outstanding balance on MLHU's loan for its Citi Plaza office fit-out.",
+    "confidence": "high",
+    "quote": "the application of the City of London’s share of Middlesex-London Health Unit's (MLHU) 2022 surplus in the amount of $423,548 to reduce the outstanding amount of MLHU’s variable bank loan for the fit-out of the Citi Plaza office space BE APPROVED",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2023-10-23 Corporate Services Committee 4.1 motion 0 (Passed 4-1): quote verbatim and operative, committee-stage duplicate of 8d4cec07a644 (same $423,548 MLHU surplus redirection to a bank loan). No budget-cluster keyword present ('surplus'/'loan' aren't in the budget keyword list). Correctly 'none'."
+  },
+  {
+    "id": "aeba46614dfd",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed Jacqueline Madden and David Little to the London Transit Commission for the term ending November 14, 2026.",
+    "confidence": "high",
+    "quote": "That the following BE APPOINTED to the London Transit Commission for the term ending November 14, 2026: - Jacqueline Madden - David Little",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2023-10-17 Council 8.4.6 motion 0 (Passed 12-1): quote verbatim. Item title is 'Consideration of Appointments to the London Transit Commission' (plural 'Appointments') -- note for the pipeline maintainers: GLOBAL_EXCLUDE's literal phrase is 'consideration of appointment to' (singular), which as a substring test would NOT match this title's plural 'appointments to', a possible false-negative in the production regex. The classifier's manual 'appointment' flag correctly applied the intended exclusion regardless (a personnel appointment is not a policing/transit-substance position). No missed classification in this entry; flagging the singular/plural gap for a separate fix."
+  },
+  {
+    "id": "adc9151f7c67",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received a communication from Councillors D. Ferreira and S. Franke regarding a proposed Lobbyist Registrar, without taking further action.",
+    "confidence": "high",
+    "quote": "That the Strategic Priorities and Policy Committee receive a communication dated October 10, 2023 from Councillors D. Ferreira and S. Franke with respect to the Lobbyist Registrar.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2023-10-17 Council 8.4.7 motion 0 (Passed 13-1): quote verbatim, receipt of a communication about a proposed Lobbyist Registrar -- a topic outside all 8 tracked issue clusters. Correctly 'none'."
+  },
+  {
+    "id": "5ad4414b3fb9",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have directed Civic Administration to study the feasibility, purpose and costs of a mandatory municipal lobbyist registry and report back on options including a public electronic portal, a registrar, rules, exemptions, and enforcement.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to conduct a review and present a report on the feasibility, purpose, and associated expenses of implementing a mandatory municipal lobbyist registry",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2023-10-17 Council 8.4.7 motion 1 (Failed 6-8): quote verbatim, a study/feasibility-report request on a Lobbyist Registrar -- also outside all 8 tracked clusters, and independently a report-back/study request. Correctly 'none'."
+  },
+  {
+    "id": "cf76e7be4713",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended a site-plan design request for the 50 King Street/399 Ridout Street towers so the bird-friendly glazing requirement would be described as consistent with London Plan section 304, rather than the original wording.",
+    "confidence": "medium",
+    "quote": "That part c) of the clause BE FURTHER AMENDED with respect to part iv): iv) utilize visual markers, etched or stained glass to provide bird-friendly glazing, as consistent with the London Plan section 304;",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2023-10-17 Council 8.5.7 motion 2 (Passed 10-3): quote verbatim, a wording-only amendment to the bird-friendly-glazing site-plan design condition (references London Plan s.304 instead of the original phrasing). Not a density or use-permission change. Correctly unclear."
+  },
+  {
+    "id": "6dbc0c18c74d",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the 50 King Street/399 Ridout Street site-plan design requests to add solar installation and EV-charging requirements and a LEED-or-similar green certification requirement, alongside the bird-friendly glazing wording.",
+    "confidence": "medium",
+    "quote": "xiii) implement a robust solar installation along tops of Towers and include a minimum of 5% EV charging stations in underground parking; and xiv) ensure a level of LEED or similar green certification is achieved",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2023-10-17 Council 8.5.7 motion 3 (Passed 8-5): quote verbatim, adds solar/EV-charging/LEED site-plan design conditions alongside the glazing wording. Same site-plan-design-condition reasoning as cf76e7be4713. Correctly unclear."
+  },
+  {
+    "id": "1f206da9840c",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved rezoning and Official Plan amendments for 50 King Street and 399 Ridout Street to permit two towers up to 53 storeys in the Downtown Place Type, along with associated site-plan design conditions.",
+    "confidence": "high",
+    "quote": "to create a specific area policy in the Downtown Place Type at 50 King Street & 399 Ridout Street to permit increased height of fifty three (53) storeys and by ADDING the subject lands to Map 7 – Specific Policy Areas – of The London Plan",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2023-10-17 Council 8.5.7. The actual 11-2 vote's own text is only 'That item 7 (3.5), as amended, BE APPROVED' -- it does not repeat substantive content. Traced back to the item's main motion (part a, the OP amendment permitting 53 storeys) and confirmed the two intervening amendments (10-3 and 8-5) touched ONLY part c)'s site-plan design conditions (bird-friendly glazing wording, then added solar/EV/LEED) and never touched parts a) or b). So the quoted OP-amendment clause is genuinely part of what the 11-2 vote enacted, and the housing/density/expansive call is correct. Flagging for the pipeline maintainers: this ID's operative content had to be assembled across two separate motion records rather than read off one self-contained one -- worth checking whether the automated pipeline's own motionText field for this id does the same stitching, or draws only from the final vote's bare 'approve as amended' text (which alone carries no density signal and would fall through to a contentless generic read)."
+  }
+]
