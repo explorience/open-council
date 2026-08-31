@@ -10,7 +10,7 @@
 import { readFileSync, readdirSync, existsSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
-import { voteTypeLabel, type VoteType } from '../lib/votes/vote-type.js';
+import { voteTypeLabel, isMotionTextTruncated, type VoteType } from '../lib/votes/vote-type.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
@@ -204,6 +204,51 @@ function calculateMatchScore(text: string, keywords: string[]): number {
   return matches / keywords.length;
 }
 
+/**
+ * Very common words that show up in almost any topic-keyword list (either as literal
+ * query words like "how"/"did"/"vote", or leaked in from a topic clause like "the
+ * affordable housing land at..."). They are excluded from the itemTitle anchor check and
+ * the absolute-match floor below because they are true everywhere and would let an
+ * unrelated record satisfy either gate on a coincidental hit.
+ */
+const KEYWORD_STOPWORDS = new Set([
+  'the', 'and', 'for', 'with', 'from', 'that', 'this', 'was', 'were', 'are', 'not',
+  'his', 'her', 'has', 'have', 'had', 'they', 'them', 'you', 'your', 'our', 'its',
+  'who', 'how', 'did', 'vote', 'voted', 'voting', 'council', 'councillor', 'motion',
+]);
+
+/** Keywords with generic stopwords removed - used only for the anchor/floor checks below. */
+function significantKeywords(keywords: string[]): string[] {
+  return keywords.filter(kw => kw.length > 0 && !KEYWORD_STOPWORDS.has(kw.toLowerCase()));
+}
+
+interface MatchDetail {
+  score: number;
+  matches: number;
+}
+
+/**
+ * Like calculateMatchScore, but also reports the raw hit count (not just the ratio) so
+ * callers can apply an absolute floor in addition to the ratio threshold.
+ */
+function calculateMatchDetail(text: string, keywords: string[]): MatchDetail {
+  const normalized = normalizeForMatch(text);
+  let matches = 0;
+  for (const kw of keywords) {
+    if (normalizeForMatch(kw) && normalized.includes(normalizeForMatch(kw))) {
+      matches++;
+    }
+  }
+  return { score: keywords.length > 0 ? matches / keywords.length : 0, matches };
+}
+
+/** Label to use for a stored motion text depending on whether it was truncated at generation time. */
+function motionTextLabel(motionText: string): string {
+  return isMotionTextTruncated(motionText)
+    ? '**Motion Text (truncated in source data - may be cut off mid-sentence):**'
+    : '**Full Motion Text:**';
+}
+
 export class VoteLookupService {
   private initialized = false;
 
@@ -225,57 +270,100 @@ export class VoteLookupService {
   }
 
   /**
-   * Find a specific councillor's vote on a topic
+   * Find a specific councillor's vote(s) on a topic.
+   *
+   * Returns an ARRAY (not a single best guess) because one agenda item can carry
+   * multiple recorded motions - e.g. a "part c) BE APPROVED" motion plus a separate
+   * "balance of the motion BE APPROVED" motion on the same NRFP award item. Returning
+   * only the single highest-scoring row used to silently drop the sibling motion; every
+   * motion on the winning (date, itemTitle) pair is now returned so the caller/LLM can
+   * see and distinguish all of them (mirrors findAllMotionVotes' per-item grouping).
+   *
+   * Two gates protect against an unrelated record winning on a diluted/generic keyword
+   * set (e.g. dictionary-expanded "housing" synonyms with no identifying term): the
+   * agenda item's own TITLE must contain at least one meaningful keyword
+   * (itemTitle-anchored matching - a procedural item like "Communications and
+   * Petitions" whose motion text happens to mention "homelessness" in passing will
+   * never itself be titled that way), and at least 2 meaningful keywords (or all of
+   * them, if fewer than 2 were given) must hit, not just the score ratio - a short
+   * generic keyword list can otherwise clear the 0.3 ratio bar on a single coincidental
+   * hit. If nothing clears both gates, this returns null rather than an unrelated
+   * argmax.
    *
    * @param councillorSlug - e.g., "s-stevenson"
    * @param topicKeywords - keywords to match against motion/item title
-   * @param recentMonths - only look at votes from last N months (default: 24)
+   * @param options.recentMonths - only look at votes from last N months (default: 24),
+   *   ignored when month/year is given
+   * @param options.month - 0-indexed month to narrow to (e.g. from "in June 2026")
+   * @param options.year - year to narrow to, paired with options.month
    */
   findCouncillorVote(
     councillorSlug: string,
     topicKeywords: string[],
-    recentMonths: number = 24
-  ): VoteLookupResult | null {
+    options: { recentMonths?: number; month?: number; year?: number } = {}
+  ): VoteLookupResult[] | null {
+    const { recentMonths = 24, month, year } = options;
     const voteFile = loadCouncillorVotes(councillorSlug);
     if (!voteFile) {
       console.log(`   Vote lookup: No data for councillor ${councillorSlug}`);
       return null;
     }
 
-    const cutoffDate = new Date();
-    cutoffDate.setMonth(cutoffDate.getMonth() - recentMonths);
+    // A month/year named in the query (e.g. "in June 2026") NARROWS the candidate set
+    // to that exact month rather than being ignored - previously this date info never
+    // reached findCouncillorVote at all because Strategy 1 in rag-service.ts intercepted
+    // any month/year query before the structured vote lookup ran.
+    let candidateVotes: VoteRecord[];
+    if (month !== undefined && year !== undefined) {
+      candidateVotes = voteFile.votes.filter(v => {
+        const d = new Date(v.date);
+        return d.getUTCMonth() === month && d.getUTCFullYear() === year;
+      });
+    } else {
+      const cutoffDate = new Date();
+      cutoffDate.setMonth(cutoffDate.getMonth() - recentMonths);
+      candidateVotes = voteFile.votes.filter(v => new Date(v.date) >= cutoffDate);
+    }
 
-    // Filter to recent votes and find best match
-    const recentVotes = voteFile.votes.filter(v => new Date(v.date) >= cutoffDate);
+    const meaningfulKeywords = significantKeywords(topicKeywords);
+    const requiredMatches = Math.min(2, meaningfulKeywords.length || 1);
 
-    let bestMatch: VoteRecord | null = null;
-    let bestScore = 0;
+    const scored: Array<{ vote: VoteRecord; score: number; matches: number }> = [];
+    for (const vote of candidateVotes) {
+      const itemTitleNorm = normalizeForMatch(vote.itemTitle);
+      const itemTitleAnchored = meaningfulKeywords.some(kw => itemTitleNorm.includes(normalizeForMatch(kw)));
+      if (!itemTitleAnchored) continue;
 
-    for (const vote of recentVotes) {
-      // Check both item title and motion text
       const searchText = `${vote.itemTitle} ${vote.motionText}`;
-      const score = calculateMatchScore(searchText, topicKeywords);
-
-      if (score > bestScore) {
-        bestScore = score;
-        bestMatch = vote;
+      const detail = calculateMatchDetail(searchText, topicKeywords);
+      if (detail.score >= 0.3 && detail.matches >= requiredMatches) {
+        scored.push({ vote, score: detail.score, matches: detail.matches });
       }
     }
 
-    if (!bestMatch || bestScore < 0.3) {
-      console.log(`   Vote lookup: No matching vote for ${councillorSlug} on "${topicKeywords.join(' ')}"`);
+    if (scored.length === 0) {
+      console.log(`   Vote lookup: No matching vote for ${councillorSlug} on "${topicKeywords.join(' ')}" (no item-title-anchored match above floor)`);
       return null;
     }
 
-    const confidence = bestScore >= 0.8 ? 'exact' : bestScore >= 0.5 ? 'high' : 'medium';
-    console.log(`   Vote lookup: Found ${confidence} match for ${councillorSlug} (score: ${bestScore.toFixed(2)})`);
+    scored.sort((a, b) => b.score - a.score);
 
-    return {
-      councillor: voteFile.councillor,
-      councillorSlug: voteFile.slug,
-      vote: bestMatch,
-      confidence,
-    };
+    // Group: return every motion recorded on the single best-matching (date, itemTitle).
+    const best = scored[0];
+    const related = scored.filter(
+      s => s.vote.itemTitle === best.vote.itemTitle && s.vote.date === best.vote.date
+    );
+
+    return related.map(r => {
+      const confidence: VoteLookupResult['confidence'] = r.score >= 0.8 ? 'exact' : r.score >= 0.5 ? 'high' : 'medium';
+      console.log(`   Vote lookup: Found ${confidence} match for ${councillorSlug} (score: ${r.score.toFixed(2)}, item: "${r.vote.itemTitle}")`);
+      return {
+        councillor: voteFile.councillor,
+        councillorSlug: voteFile.slug,
+        vote: r.vote,
+        confidence,
+      };
+    });
   }
 
   /**
@@ -524,7 +612,7 @@ export class VoteLookupService {
       const outcomeWord = r.passed ? 'PASSED' : 'FAILED';
       context += `### ${label}\n`;
       context += `**Motion:** ${r.motionTitle}\n`;
-      if (r.motionText) context += `**Full Motion Text:** ${r.motionText}\n`;
+      if (r.motionText) context += `${motionTextLabel(r.motionText)} ${r.motionText}\n`;
       context += `**Date:** ${r.date}\n`;
       context += `**Meeting:** ${r.meetingTitle}\n`;
       context += `**Outcome:** ${outcomeWord} - ${r.result}\n`;
@@ -1010,7 +1098,7 @@ ${sections.join('\n')}
       '## VERIFIED VOTE RECORD (from structured data - USE THIS)',
       `**Councillor:** ${result.councillor}`,
       `**Motion:** ${v.itemTitle}`,
-      ...(v.motionText ? [`**Full Motion Text:** ${v.motionText}`] : []),
+      ...(v.motionText ? [`${motionTextLabel(v.motionText)} ${v.motionText}`] : []),
       `**Date:** ${v.date}`,
       `**Meeting:** ${v.meetingTitle}`,
       `**Vote:** ${voteWord}`,
@@ -1024,6 +1112,39 @@ ${sections.join('\n')}
   }
 
   /**
+   * Format the result of findCouncillorVote (which can be one or several recorded
+   * motions on the same agenda item) for inclusion in LLM context. Single-result case
+   * delegates to formatVoteForContext for identical output/backward compatibility;
+   * multi-result case labels each motion separately and warns against blending tallies,
+   * mirroring formatAllMotionVotesForContext.
+   */
+  formatVoteResultsForContext(results: VoteLookupResult[]): string {
+    if (results.length === 0) return '';
+    if (results.length === 1) return this.formatVoteForContext(results[0]);
+
+    const councillor = results[0].councillor;
+    let context = `## VERIFIED VOTE RECORD: Multiple motions on this item (from structured data - USE THIS)\n`;
+    context += `⚠️ There were ${results.length} separate recorded motions on this single agenda item for ${councillor}. Each is listed separately below - they are DIFFERENT motions with their own tallies. Do not merge or swap their outcomes.\n\n`;
+
+    results.forEach((result, i) => {
+      const v = result.vote;
+      const voteWord = voteTypeLabel(v.vote);
+      const outcomeWord = v.passed ? 'PASSED' : 'FAILED';
+      context += `### Motion ${i + 1} of ${results.length}\n`;
+      context += `**Item:** ${v.itemTitle}\n`;
+      if (v.motionText) context += `${motionTextLabel(v.motionText)} ${v.motionText}\n`;
+      context += `**Date:** ${v.date}\n`;
+      context += `**Meeting:** ${v.meetingTitle}\n`;
+      context += `**${councillor}'s Vote:** ${voteWord}\n`;
+      context += `**Outcome:** ${outcomeWord} - ${v.result}\n`;
+      context += `**Match Confidence:** ${result.confidence}\n\n`;
+    });
+
+    context += `⚠️ This is verified structured data. Use these exact details in your response. Never attribute one of these motions' tally to a different one - if the user asked about a specific part of this item, cite only that motion's result.\n`;
+    return context;
+  }
+
+  /**
    * Format a motion votes result for inclusion in LLM context
    */
   formatMotionVotesForContext(result: MotionVotesResult): string {
@@ -1032,7 +1153,7 @@ ${sections.join('\n')}
     const lines = [
       '## VERIFIED VOTE BREAKDOWN (from structured data - USE THIS)',
       `**Motion:** ${result.motionTitle}`,
-      ...(result.motionText ? [`**Full Motion Text:** ${result.motionText}`] : []),
+      ...(result.motionText ? [`${motionTextLabel(result.motionText)} ${result.motionText}`] : []),
       `**Date:** ${result.date}`,
       `**Meeting:** ${result.meetingTitle}`,
       `**Outcome:** ${outcomeWord} - ${result.result}`,
