@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-31T19:51:06.617Z",
+  "generatedAt": "2026-08-31T20:42:28.963Z",
   "sourceHash": "b7db59b827637e80",
   "sourceGeneratedAt": "2026-08-31T05:18:27.112Z",
   "cutoffDate": "2023-01-01",
-  "methodology": "A \"divided\" vote is any council or committee motion since January 1, 2023 that wasn't approved unanimously and wasn't a routine procedural step, and it doesn't include a vote decided by secret ballot to fill an appointment, since those don't produce a recorded yea or nay by councillor. For each councillor, on each issue, on each axis: a vote counts as \"for\" when it matched that axis's more permissive outcome, and \"against\" when it matched the more restrictive one — but a nay is never described as if it enacted the restrictive outcome; it's described as opposing the motion it was cast on, and the same care is taken in the other direction. When every recorded vote on an axis since January 1, 2023 happens to fall on one side, the pattern sentence says so plainly instead of silently reporting a zero on the other side. Every motion's issue, axis, and direction (\"what a yea did\") come from an independent, motion-by-motion review, checked against that motion's own complete text in the official meeting record rather than a keyword search, with a small, separately published list of after-the-fact corrections applied on top — never a silent edit to the reviewed record. This is a genuine reading of what each clause did, not a raw yea/nay count, including for the generic \"approved or denied the item\" description used when no issue-specific axis applies. Recusals and absences are always counted on their own, never folded into \"against\" and never treated as a hidden position. A pattern sentence is only stated once a councillor has at least 5 separate underlying decisions on an axis — a committee vote followed later by a council vote on the same policy question counts as one decision, not two, so a motion with several stages can't inflate the count; below that threshold the individual votes are still shown, just without a summary sentence. Some motions were reviewed and confirmed to have no clear direction at all — a referral, a request for more information, or a genuinely ambiguous clause — and these are listed, on every relevant issue, as motions with no clear direction: never counted in any pattern or sample size, but never hidden either. This project has no source recording which committee a councillor belongs to — that list isn't published or collected anywhere; a meeting's own attendance record shows who was there that day, not who belongs to it. So when a councillor has no recorded vote on a motion, nothing is claimed about why, in either direction: only whether that meeting's own record separately listed this councillor as present without a recorded vote, or whether nothing else can be said at all. Before any of the above, motions were also dropped in 2 ways, none of them guessed at or repaired: 33 where the same person was recorded as voting more than one way on the same motion (a roster conflict in the source data); and 3 more that turned out, on review, not to be a genuine division at all — a lopsided result the source data's own \"unanimous\" marker missed, or the same motion recorded twice under two item numbers. Each motion is filed under exactly one issue, so a motion that touches two topics — a housing decision with a budget line, say — appears on one issue page only, never both. Where the source text has a hash symbol immediately followed by a case or item number — as in a title reading \"Business Case\", then a hash, then \"P-5\" — this hub shows it instead as \"Business Case No. P-5\", so the character can't be misread as a link; the underlying wording is not otherwise changed.",
+  "methodology": "A \"divided\" vote is any council or committee motion since January 1, 2023 that wasn't approved unanimously and wasn't a routine procedural step, and it doesn't include a vote decided by secret ballot to fill an appointment, since those don't produce a recorded yea or nay by councillor. For each councillor, on each issue, on each axis: a vote counts as \"for\" when it matched that axis's more permissive outcome, and \"against\" when it matched the more restrictive one — but a nay is never described as if it enacted the restrictive outcome; it's described as opposing the motion it was cast on, and the same care is taken in the other direction. When every recorded vote on an axis since January 1, 2023 happens to fall on one side, the pattern sentence says so plainly instead of silently reporting a zero on the other side. Every motion's issue, axis, and direction (\"what a yea did\") come from an independent, motion-by-motion review, checked against that motion's own complete text in the official meeting record rather than a keyword search, with a small, separately published list of after-the-fact corrections applied on top — never a silent edit to the reviewed record. This is a genuine reading of what each clause did, not a raw yea/nay count, including for the generic \"approved or denied the item\" description used when no issue-specific axis applies. Recusals and absences are always counted on their own, never folded into \"against\" and never treated as a hidden position. A pattern sentence is only stated once a councillor has at least 5 separate underlying decisions on an axis — a committee vote followed later by a council vote on the same policy question counts as one decision, not two, so a motion with several stages can't inflate the count; below that threshold the individual votes are still shown, just without a summary sentence. Some motions were reviewed and confirmed to have no clear direction at all — a referral, a request for more information, or a genuinely ambiguous clause — and these are listed, on every relevant issue, as motions with no clear direction: never counted in any pattern or sample size, but never hidden either. This project has no source recording which committee a councillor belongs to — that list isn't published or collected anywhere; a meeting's own attendance record shows who was there that day, not who belongs to it. So when a councillor has no recorded vote on a motion, nothing is claimed about why, in either direction: only whether that meeting's own record separately listed this councillor as present without a recorded vote, or whether nothing else can be said at all. Before any of the above, motions were also dropped in 2 ways, none of them guessed at or repaired: 33 where the same person was recorded as voting more than one way on the same motion (a roster conflict in the source data); and 12 more that turned out, on review, not to be a genuine division at all — a lopsided result the source data's own \"unanimous\" marker missed, or the same motion recorded twice under two item numbers. Each motion is filed under exactly one issue, so a motion that touches two topics — a housing decision with a budget line, say — appears on one issue page only, never both. Where the source text has a hash symbol immediately followed by a case or item number — as in a title reading \"Business Case\", then a hash, then \"P-5\" — this hub shows it instead as \"Business Case No. P-5\", so the character can't be misread as a link; the underlying wording is not otherwise changed.",
   "councillors": {
     "j-morgan": {
       "displayName": "Josh Morgan",
@@ -5472,7 +5472,7 @@
         },
         "budget": {
           "issueLabel": "Taxes & Budget",
-          "divisionsInCorpus": 86,
+          "divisionsInCorpus": 85,
           "notOnRoster": 1,
           "attendedAsObserver": 0,
           "noRecordedVote": 1,
@@ -5484,7 +5484,7 @@
             "absent": 1,
             "abstain": 0,
             "other": 0,
-            "ladderExcluded": 27
+            "ladderExcluded": 26
           },
           "axes": [
             {
@@ -5757,17 +5757,6 @@
                   "anchorAmbiguous": true,
                   "theirVote": "yea",
                   "axisDirection": "against"
-                },
-                {
-                  "decisionGroupIndex": 7,
-                  "motionId": "192cc16c866a",
-                  "date": "2023-01-26",
-                  "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
-                  "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
-                  "anchor": "/months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET#43review-of-for-consideration-property-tax-operating-budget-amendments-2023-totals-rounded-to-the-closest-1000",
-                  "anchorAmbiguous": false,
-                  "theirVote": "nay",
-                  "axisDirection": "for"
                 },
                 {
                   "decisionGroupIndex": 7,
@@ -7262,26 +7251,6 @@
                   "resultNote": null,
                   "theirVote": "nay",
                   "whatAYeaDid": "Amended Budget Amendment Case #P-17 (Capital Financing -- Reduction to a previously approved Infrastructure Gap Reserve Fund contribution) to set the reduction amount at $475,000.",
-                  "movedToward": "opposed a measure that would have reduced the tax levy or a budget item"
-                },
-                {
-                  "motionId": "192cc16c866a",
-                  "axisDirection": "for",
-                  "date": "2023-01-26",
-                  "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
-                  "meetingTitle": "8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
-                  "meetingType": "Strategic Priorities and Policy Committee",
-                  "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8bb5f192-e205-457b-bacd-8633cbf8ba93&Agenda=PostMinutes&lang=English",
-                  "itemNumber": "4.3",
-                  "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
-                  "motionSnippet": "That the following actions be taken with respect to the 2023 Annual Budget Update: c) C...",
-                  "anchor": "/months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET#43review-of-for-consideration-property-tax-operating-budget-amendments-2023-totals-rounded-to-the-closest-1000",
-                  "anchorAmbiguous": false,
-                  "result": "Motion Failed (0 to 14)",
-                  "tally": "0-14",
-                  "resultNote": null,
-                  "theirVote": "nay",
-                  "whatAYeaDid": "Would have reduced the tax levy and operating budget by $250,000 by cutting the Neighbourhood Playground Program within Community Recreation and Leisure Programs; failed unanimously 0-14 (program funding retained).",
                   "movedToward": "opposed a measure that would have reduced the tax levy or a budget item"
                 },
                 {
@@ -11516,7 +11485,7 @@
               ]
             }
           ],
-          "unclearCount": 86,
+          "unclearCount": 85,
           "unclearEvidence": [
             {
               "motionId": "6b7f409e1443",
@@ -12096,26 +12065,6 @@
               "resultNote": null,
               "theirVote": "yea",
               "whatAYeaDid": "Would have narrowed a site-plan design consideration for the Kellogg Lane/Dundas Street redevelopment to drop the requirement that the applicant enter a 99-year telecommunications-infrastructure agreement with the City, keeping only the Path Loss Study service-level recommendation.",
-              "movedToward": null
-            },
-            {
-              "motionId": "f2f91d156e14",
-              "axisDirection": null,
-              "date": "2025-08-26",
-              "meetingSlug": "months/2025-08/2025-08-26 14th Council Meeting",
-              "meetingTitle": "14th Council Meeting",
-              "meetingType": "Council",
-              "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=24c307af-3e5a-46e2-adc3-7b048d51d6bb&Agenda=PostMinutes&lang=English",
-              "itemNumber": "8.2.19",
-              "itemTitle": "(3.10) 1196 Sunningdale Road West (OZ-25052) (Relates to Bill No.'s 317 and 338)",
-              "motionSnippet": "Motion to approve part e) to read as follows: e) the Subdivision Approval Authority BE ...",
-              "anchor": "/months/2025-08/2025-08-26 14th Council Meeting#8219310-1196-sunningdale-road-west-oz-25052-relates-to-bill-nos-317-and-338",
-              "anchorAmbiguous": false,
-              "result": "Motion Failed (0 to 14)",
-              "tally": "0-14",
-              "resultNote": null,
-              "theirVote": "nay",
-              "whatAYeaDid": "Would have requested that the Subdivision Approval Authority consider reserving the Sunningdale Road West lands for community-facility (school) use for three years before allowing the draft plan of subdivision to proceed toward residential development.",
               "movedToward": null
             },
             {
@@ -18708,7 +18657,7 @@
         },
         "budget": {
           "issueLabel": "Taxes & Budget",
-          "divisionsInCorpus": 86,
+          "divisionsInCorpus": 85,
           "notOnRoster": 1,
           "attendedAsObserver": 1,
           "noRecordedVote": 0,
@@ -18720,7 +18669,7 @@
             "absent": 8,
             "abstain": 0,
             "other": 0,
-            "ladderExcluded": 14
+            "ladderExcluded": 13
           },
           "axes": [
             {
@@ -18850,17 +18799,6 @@
                   "anchorAmbiguous": true,
                   "theirVote": "yea",
                   "axisDirection": "against"
-                },
-                {
-                  "decisionGroupIndex": 2,
-                  "motionId": "192cc16c866a",
-                  "date": "2023-01-26",
-                  "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
-                  "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
-                  "anchor": "/months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET#43review-of-for-consideration-property-tax-operating-budget-amendments-2023-totals-rounded-to-the-closest-1000",
-                  "anchorAmbiguous": false,
-                  "theirVote": "nay",
-                  "axisDirection": "for"
                 },
                 {
                   "decisionGroupIndex": 2,
@@ -20356,26 +20294,6 @@
                   "theirVote": "yea",
                   "whatAYeaDid": "Amended Budget Amendment Case #P-17 (Capital Financing -- Reduction to a previously approved Infrastructure Gap Reserve Fund contribution) to set the reduction amount at $475,000.",
                   "movedToward": "reduced the tax levy or a budget item"
-                },
-                {
-                  "motionId": "192cc16c866a",
-                  "axisDirection": "for",
-                  "date": "2023-01-26",
-                  "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
-                  "meetingTitle": "8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
-                  "meetingType": "Strategic Priorities and Policy Committee",
-                  "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8bb5f192-e205-457b-bacd-8633cbf8ba93&Agenda=PostMinutes&lang=English",
-                  "itemNumber": "4.3",
-                  "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
-                  "motionSnippet": "That the following actions be taken with respect to the 2023 Annual Budget Update: c) C...",
-                  "anchor": "/months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET#43review-of-for-consideration-property-tax-operating-budget-amendments-2023-totals-rounded-to-the-closest-1000",
-                  "anchorAmbiguous": false,
-                  "result": "Motion Failed (0 to 14)",
-                  "tally": "0-14",
-                  "resultNote": null,
-                  "theirVote": "nay",
-                  "whatAYeaDid": "Would have reduced the tax levy and operating budget by $250,000 by cutting the Neighbourhood Playground Program within Community Recreation and Leisure Programs; failed unanimously 0-14 (program funding retained).",
-                  "movedToward": "opposed a measure that would have reduced the tax levy or a budget item"
                 },
                 {
                   "motionId": "070efd97b686",
@@ -24247,7 +24165,7 @@
               ]
             }
           ],
-          "unclearCount": 75,
+          "unclearCount": 74,
           "unclearEvidence": [
             {
               "motionId": "6b7f409e1443",
@@ -24727,26 +24645,6 @@
               "resultNote": null,
               "theirVote": "yea",
               "whatAYeaDid": "Would have directed Civic Administration to add, for information purposes only, a map showing a 1,054-hectare urban growth boundary expansion as an appendix to the final Official Plan review report.",
-              "movedToward": null
-            },
-            {
-              "motionId": "f2f91d156e14",
-              "axisDirection": null,
-              "date": "2025-08-26",
-              "meetingSlug": "months/2025-08/2025-08-26 14th Council Meeting",
-              "meetingTitle": "14th Council Meeting",
-              "meetingType": "Council",
-              "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=24c307af-3e5a-46e2-adc3-7b048d51d6bb&Agenda=PostMinutes&lang=English",
-              "itemNumber": "8.2.19",
-              "itemTitle": "(3.10) 1196 Sunningdale Road West (OZ-25052) (Relates to Bill No.'s 317 and 338)",
-              "motionSnippet": "Motion to approve part e) to read as follows: e) the Subdivision Approval Authority BE ...",
-              "anchor": "/months/2025-08/2025-08-26 14th Council Meeting#8219310-1196-sunningdale-road-west-oz-25052-relates-to-bill-nos-317-and-338",
-              "anchorAmbiguous": false,
-              "result": "Motion Failed (0 to 14)",
-              "tally": "0-14",
-              "resultNote": null,
-              "theirVote": "nay",
-              "whatAYeaDid": "Would have requested that the Subdivision Approval Authority consider reserving the Sunningdale Road West lands for community-facility (school) use for three years before allowing the draft plan of subdivision to proceed toward residential development.",
               "movedToward": null
             },
             {
@@ -31114,7 +31012,7 @@
         },
         "budget": {
           "issueLabel": "Taxes & Budget",
-          "divisionsInCorpus": 86,
+          "divisionsInCorpus": 85,
           "notOnRoster": 2,
           "attendedAsObserver": 0,
           "noRecordedVote": 2,
@@ -31126,7 +31024,7 @@
             "absent": 0,
             "abstain": 0,
             "other": 0,
-            "ladderExcluded": 15
+            "ladderExcluded": 14
           },
           "axes": [
             {
@@ -31267,17 +31165,6 @@
                   "anchorAmbiguous": true,
                   "theirVote": "yea",
                   "axisDirection": "against"
-                },
-                {
-                  "decisionGroupIndex": 2,
-                  "motionId": "192cc16c866a",
-                  "date": "2023-01-26",
-                  "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
-                  "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
-                  "anchor": "/months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET#43review-of-for-consideration-property-tax-operating-budget-amendments-2023-totals-rounded-to-the-closest-1000",
-                  "anchorAmbiguous": false,
-                  "theirVote": "nay",
-                  "axisDirection": "for"
                 },
                 {
                   "decisionGroupIndex": 2,
@@ -32753,26 +32640,6 @@
                   "theirVote": "yea",
                   "whatAYeaDid": "Amended Budget Amendment Case #P-17 (Capital Financing -- Reduction to a previously approved Infrastructure Gap Reserve Fund contribution) to set the reduction amount at $475,000.",
                   "movedToward": "reduced the tax levy or a budget item"
-                },
-                {
-                  "motionId": "192cc16c866a",
-                  "axisDirection": "for",
-                  "date": "2023-01-26",
-                  "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
-                  "meetingTitle": "8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
-                  "meetingType": "Strategic Priorities and Policy Committee",
-                  "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8bb5f192-e205-457b-bacd-8633cbf8ba93&Agenda=PostMinutes&lang=English",
-                  "itemNumber": "4.3",
-                  "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
-                  "motionSnippet": "That the following actions be taken with respect to the 2023 Annual Budget Update: c) C...",
-                  "anchor": "/months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET#43review-of-for-consideration-property-tax-operating-budget-amendments-2023-totals-rounded-to-the-closest-1000",
-                  "anchorAmbiguous": false,
-                  "result": "Motion Failed (0 to 14)",
-                  "tally": "0-14",
-                  "resultNote": null,
-                  "theirVote": "nay",
-                  "whatAYeaDid": "Would have reduced the tax levy and operating budget by $250,000 by cutting the Neighbourhood Playground Program within Community Recreation and Leisure Programs; failed unanimously 0-14 (program funding retained).",
-                  "movedToward": "opposed a measure that would have reduced the tax levy or a budget item"
                 },
                 {
                   "motionId": "070efd97b686",
@@ -37464,7 +37331,7 @@
               ]
             }
           ],
-          "unclearCount": 91,
+          "unclearCount": 90,
           "unclearEvidence": [
             {
               "motionId": "6b7f409e1443",
@@ -38064,26 +37931,6 @@
               "resultNote": null,
               "theirVote": "nay",
               "whatAYeaDid": "Would have narrowed a site-plan design consideration for the Kellogg Lane/Dundas Street redevelopment to drop the requirement that the applicant enter a 99-year telecommunications-infrastructure agreement with the City, keeping only the Path Loss Study service-level recommendation.",
-              "movedToward": null
-            },
-            {
-              "motionId": "f2f91d156e14",
-              "axisDirection": null,
-              "date": "2025-08-26",
-              "meetingSlug": "months/2025-08/2025-08-26 14th Council Meeting",
-              "meetingTitle": "14th Council Meeting",
-              "meetingType": "Council",
-              "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=24c307af-3e5a-46e2-adc3-7b048d51d6bb&Agenda=PostMinutes&lang=English",
-              "itemNumber": "8.2.19",
-              "itemTitle": "(3.10) 1196 Sunningdale Road West (OZ-25052) (Relates to Bill No.'s 317 and 338)",
-              "motionSnippet": "Motion to approve part e) to read as follows: e) the Subdivision Approval Authority BE ...",
-              "anchor": "/months/2025-08/2025-08-26 14th Council Meeting#8219310-1196-sunningdale-road-west-oz-25052-relates-to-bill-nos-317-and-338",
-              "anchorAmbiguous": false,
-              "result": "Motion Failed (0 to 14)",
-              "tally": "0-14",
-              "resultNote": null,
-              "theirVote": "nay",
-              "whatAYeaDid": "Would have requested that the Subdivision Approval Authority consider reserving the Sunningdale Road West lands for community-facility (school) use for three years before allowing the draft plan of subdivision to proceed toward residential development.",
               "movedToward": null
             },
             {
@@ -44734,7 +44581,7 @@
         },
         "budget": {
           "issueLabel": "Taxes & Budget",
-          "divisionsInCorpus": 86,
+          "divisionsInCorpus": 85,
           "notOnRoster": 1,
           "attendedAsObserver": 0,
           "noRecordedVote": 1,
@@ -44746,7 +44593,7 @@
             "absent": 0,
             "abstain": 0,
             "other": 0,
-            "ladderExcluded": 17
+            "ladderExcluded": 16
           },
           "axes": [
             {
@@ -44887,17 +44734,6 @@
                   "anchorAmbiguous": true,
                   "theirVote": "yea",
                   "axisDirection": "against"
-                },
-                {
-                  "decisionGroupIndex": 2,
-                  "motionId": "192cc16c866a",
-                  "date": "2023-01-26",
-                  "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
-                  "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
-                  "anchor": "/months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET#43review-of-for-consideration-property-tax-operating-budget-amendments-2023-totals-rounded-to-the-closest-1000",
-                  "anchorAmbiguous": false,
-                  "theirVote": "nay",
-                  "axisDirection": "for"
                 },
                 {
                   "decisionGroupIndex": 2,
@@ -46393,26 +46229,6 @@
                   "theirVote": "yea",
                   "whatAYeaDid": "Amended Budget Amendment Case #P-17 (Capital Financing -- Reduction to a previously approved Infrastructure Gap Reserve Fund contribution) to set the reduction amount at $475,000.",
                   "movedToward": "reduced the tax levy or a budget item"
-                },
-                {
-                  "motionId": "192cc16c866a",
-                  "axisDirection": "for",
-                  "date": "2023-01-26",
-                  "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
-                  "meetingTitle": "8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
-                  "meetingType": "Strategic Priorities and Policy Committee",
-                  "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8bb5f192-e205-457b-bacd-8633cbf8ba93&Agenda=PostMinutes&lang=English",
-                  "itemNumber": "4.3",
-                  "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
-                  "motionSnippet": "That the following actions be taken with respect to the 2023 Annual Budget Update: c) C...",
-                  "anchor": "/months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET#43review-of-for-consideration-property-tax-operating-budget-amendments-2023-totals-rounded-to-the-closest-1000",
-                  "anchorAmbiguous": false,
-                  "result": "Motion Failed (0 to 14)",
-                  "tally": "0-14",
-                  "resultNote": null,
-                  "theirVote": "nay",
-                  "whatAYeaDid": "Would have reduced the tax levy and operating budget by $250,000 by cutting the Neighbourhood Playground Program within Community Recreation and Leisure Programs; failed unanimously 0-14 (program funding retained).",
-                  "movedToward": "opposed a measure that would have reduced the tax levy or a budget item"
                 },
                 {
                   "motionId": "070efd97b686",
@@ -50710,7 +50526,7 @@
               ]
             }
           ],
-          "unclearCount": 80,
+          "unclearCount": 79,
           "unclearEvidence": [
             {
               "motionId": "6b7f409e1443",
@@ -51290,26 +51106,6 @@
               "resultNote": null,
               "theirVote": "nay",
               "whatAYeaDid": "Would have narrowed a site-plan design consideration for the Kellogg Lane/Dundas Street redevelopment to drop the requirement that the applicant enter a 99-year telecommunications-infrastructure agreement with the City, keeping only the Path Loss Study service-level recommendation.",
-              "movedToward": null
-            },
-            {
-              "motionId": "f2f91d156e14",
-              "axisDirection": null,
-              "date": "2025-08-26",
-              "meetingSlug": "months/2025-08/2025-08-26 14th Council Meeting",
-              "meetingTitle": "14th Council Meeting",
-              "meetingType": "Council",
-              "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=24c307af-3e5a-46e2-adc3-7b048d51d6bb&Agenda=PostMinutes&lang=English",
-              "itemNumber": "8.2.19",
-              "itemTitle": "(3.10) 1196 Sunningdale Road West (OZ-25052) (Relates to Bill No.'s 317 and 338)",
-              "motionSnippet": "Motion to approve part e) to read as follows: e) the Subdivision Approval Authority BE ...",
-              "anchor": "/months/2025-08/2025-08-26 14th Council Meeting#8219310-1196-sunningdale-road-west-oz-25052-relates-to-bill-nos-317-and-338",
-              "anchorAmbiguous": false,
-              "result": "Motion Failed (0 to 14)",
-              "tally": "0-14",
-              "resultNote": null,
-              "theirVote": "nay",
-              "whatAYeaDid": "Would have requested that the Subdivision Approval Authority consider reserving the Sunningdale Road West lands for community-facility (school) use for three years before allowing the draft plan of subdivision to proceed toward residential development.",
               "movedToward": null
             },
             {
@@ -57463,7 +57259,7 @@
         },
         "budget": {
           "issueLabel": "Taxes & Budget",
-          "divisionsInCorpus": 86,
+          "divisionsInCorpus": 85,
           "notOnRoster": 2,
           "attendedAsObserver": 0,
           "noRecordedVote": 2,
@@ -57475,7 +57271,7 @@
             "absent": 0,
             "abstain": 0,
             "other": 0,
-            "ladderExcluded": 21
+            "ladderExcluded": 20
           },
           "axes": [
             {
@@ -57680,17 +57476,6 @@
                   "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
                   "anchor": "/months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
                   "anchorAmbiguous": true,
-                  "theirVote": "nay",
-                  "axisDirection": "for"
-                },
-                {
-                  "decisionGroupIndex": 4,
-                  "motionId": "192cc16c866a",
-                  "date": "2023-01-26",
-                  "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
-                  "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
-                  "anchor": "/months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET#43review-of-for-consideration-property-tax-operating-budget-amendments-2023-totals-rounded-to-the-closest-1000",
-                  "anchorAmbiguous": false,
                   "theirVote": "nay",
                   "axisDirection": "for"
                 },
@@ -59168,26 +58953,6 @@
                   "theirVote": "yea",
                   "whatAYeaDid": "Amended Budget Amendment Case #P-17 (Capital Financing -- Reduction to a previously approved Infrastructure Gap Reserve Fund contribution) to set the reduction amount at $475,000.",
                   "movedToward": "reduced the tax levy or a budget item"
-                },
-                {
-                  "motionId": "192cc16c866a",
-                  "axisDirection": "for",
-                  "date": "2023-01-26",
-                  "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
-                  "meetingTitle": "8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
-                  "meetingType": "Strategic Priorities and Policy Committee",
-                  "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8bb5f192-e205-457b-bacd-8633cbf8ba93&Agenda=PostMinutes&lang=English",
-                  "itemNumber": "4.3",
-                  "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
-                  "motionSnippet": "That the following actions be taken with respect to the 2023 Annual Budget Update: c) C...",
-                  "anchor": "/months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET#43review-of-for-consideration-property-tax-operating-budget-amendments-2023-totals-rounded-to-the-closest-1000",
-                  "anchorAmbiguous": false,
-                  "result": "Motion Failed (0 to 14)",
-                  "tally": "0-14",
-                  "resultNote": null,
-                  "theirVote": "nay",
-                  "whatAYeaDid": "Would have reduced the tax levy and operating budget by $250,000 by cutting the Neighbourhood Playground Program within Community Recreation and Leisure Programs; failed unanimously 0-14 (program funding retained).",
-                  "movedToward": "opposed a measure that would have reduced the tax levy or a budget item"
                 },
                 {
                   "motionId": "070efd97b686",
@@ -63191,7 +62956,7 @@
               ]
             }
           ],
-          "unclearCount": 73,
+          "unclearCount": 72,
           "unclearEvidence": [
             {
               "motionId": "6b7f409e1443",
@@ -63751,26 +63516,6 @@
               "resultNote": null,
               "theirVote": "nay",
               "whatAYeaDid": "Would have directed Civic Administration to add, for information purposes only, a map showing a 1,054-hectare urban growth boundary expansion as an appendix to the final Official Plan review report.",
-              "movedToward": null
-            },
-            {
-              "motionId": "f2f91d156e14",
-              "axisDirection": null,
-              "date": "2025-08-26",
-              "meetingSlug": "months/2025-08/2025-08-26 14th Council Meeting",
-              "meetingTitle": "14th Council Meeting",
-              "meetingType": "Council",
-              "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=24c307af-3e5a-46e2-adc3-7b048d51d6bb&Agenda=PostMinutes&lang=English",
-              "itemNumber": "8.2.19",
-              "itemTitle": "(3.10) 1196 Sunningdale Road West (OZ-25052) (Relates to Bill No.'s 317 and 338)",
-              "motionSnippet": "Motion to approve part e) to read as follows: e) the Subdivision Approval Authority BE ...",
-              "anchor": "/months/2025-08/2025-08-26 14th Council Meeting#8219310-1196-sunningdale-road-west-oz-25052-relates-to-bill-nos-317-and-338",
-              "anchorAmbiguous": false,
-              "result": "Motion Failed (0 to 14)",
-              "tally": "0-14",
-              "resultNote": null,
-              "theirVote": "nay",
-              "whatAYeaDid": "Would have requested that the Subdivision Approval Authority consider reserving the Sunningdale Road West lands for community-facility (school) use for three years before allowing the draft plan of subdivision to proceed toward residential development.",
               "movedToward": null
             },
             {
@@ -70365,7 +70110,7 @@
         },
         "budget": {
           "issueLabel": "Taxes & Budget",
-          "divisionsInCorpus": 86,
+          "divisionsInCorpus": 85,
           "notOnRoster": 1,
           "attendedAsObserver": 0,
           "noRecordedVote": 1,
@@ -70377,7 +70122,7 @@
             "absent": 0,
             "abstain": 0,
             "other": 0,
-            "ladderExcluded": 13
+            "ladderExcluded": 12
           },
           "axes": [
             {
@@ -70496,17 +70241,6 @@
                   "anchorAmbiguous": true,
                   "theirVote": "yea",
                   "axisDirection": "against"
-                },
-                {
-                  "decisionGroupIndex": 2,
-                  "motionId": "192cc16c866a",
-                  "date": "2023-01-26",
-                  "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
-                  "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
-                  "anchor": "/months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET#43review-of-for-consideration-property-tax-operating-budget-amendments-2023-totals-rounded-to-the-closest-1000",
-                  "anchorAmbiguous": false,
-                  "theirVote": "nay",
-                  "axisDirection": "for"
                 },
                 {
                   "decisionGroupIndex": 2,
@@ -72002,26 +71736,6 @@
                   "theirVote": "yea",
                   "whatAYeaDid": "Amended Budget Amendment Case #P-17 (Capital Financing -- Reduction to a previously approved Infrastructure Gap Reserve Fund contribution) to set the reduction amount at $475,000.",
                   "movedToward": "reduced the tax levy or a budget item"
-                },
-                {
-                  "motionId": "192cc16c866a",
-                  "axisDirection": "for",
-                  "date": "2023-01-26",
-                  "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
-                  "meetingTitle": "8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
-                  "meetingType": "Strategic Priorities and Policy Committee",
-                  "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8bb5f192-e205-457b-bacd-8633cbf8ba93&Agenda=PostMinutes&lang=English",
-                  "itemNumber": "4.3",
-                  "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
-                  "motionSnippet": "That the following actions be taken with respect to the 2023 Annual Budget Update: c) C...",
-                  "anchor": "/months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET#43review-of-for-consideration-property-tax-operating-budget-amendments-2023-totals-rounded-to-the-closest-1000",
-                  "anchorAmbiguous": false,
-                  "result": "Motion Failed (0 to 14)",
-                  "tally": "0-14",
-                  "resultNote": null,
-                  "theirVote": "nay",
-                  "whatAYeaDid": "Would have reduced the tax levy and operating budget by $250,000 by cutting the Neighbourhood Playground Program within Community Recreation and Leisure Programs; failed unanimously 0-14 (program funding retained).",
-                  "movedToward": "opposed a measure that would have reduced the tax levy or a budget item"
                 },
                 {
                   "motionId": "070efd97b686",
@@ -75785,7 +75499,7 @@
               ]
             }
           ],
-          "unclearCount": 80,
+          "unclearCount": 79,
           "unclearEvidence": [
             {
               "motionId": "6b7f409e1443",
@@ -76365,26 +76079,6 @@
               "resultNote": null,
               "theirVote": "nay",
               "whatAYeaDid": "Would have directed Civic Administration to add, for information purposes only, a map showing a 1,054-hectare urban growth boundary expansion as an appendix to the final Official Plan review report.",
-              "movedToward": null
-            },
-            {
-              "motionId": "f2f91d156e14",
-              "axisDirection": null,
-              "date": "2025-08-26",
-              "meetingSlug": "months/2025-08/2025-08-26 14th Council Meeting",
-              "meetingTitle": "14th Council Meeting",
-              "meetingType": "Council",
-              "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=24c307af-3e5a-46e2-adc3-7b048d51d6bb&Agenda=PostMinutes&lang=English",
-              "itemNumber": "8.2.19",
-              "itemTitle": "(3.10) 1196 Sunningdale Road West (OZ-25052) (Relates to Bill No.'s 317 and 338)",
-              "motionSnippet": "Motion to approve part e) to read as follows: e) the Subdivision Approval Authority BE ...",
-              "anchor": "/months/2025-08/2025-08-26 14th Council Meeting#8219310-1196-sunningdale-road-west-oz-25052-relates-to-bill-nos-317-and-338",
-              "anchorAmbiguous": false,
-              "result": "Motion Failed (0 to 14)",
-              "tally": "0-14",
-              "resultNote": null,
-              "theirVote": "nay",
-              "whatAYeaDid": "Would have requested that the Subdivision Approval Authority consider reserving the Sunningdale Road West lands for community-facility (school) use for three years before allowing the draft plan of subdivision to proceed toward residential development.",
               "movedToward": null
             },
             {
@@ -83005,7 +82699,7 @@
         },
         "budget": {
           "issueLabel": "Taxes & Budget",
-          "divisionsInCorpus": 86,
+          "divisionsInCorpus": 85,
           "notOnRoster": 1,
           "attendedAsObserver": 1,
           "noRecordedVote": 0,
@@ -83017,7 +82711,7 @@
             "absent": 2,
             "abstain": 0,
             "other": 0,
-            "ladderExcluded": 15
+            "ladderExcluded": 14
           },
           "axes": [
             {
@@ -83156,17 +82850,6 @@
                   "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
                   "anchor": "/months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
                   "anchorAmbiguous": true,
-                  "theirVote": "nay",
-                  "axisDirection": "for"
-                },
-                {
-                  "decisionGroupIndex": 2,
-                  "motionId": "192cc16c866a",
-                  "date": "2023-01-26",
-                  "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
-                  "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
-                  "anchor": "/months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET#43review-of-for-consideration-property-tax-operating-budget-amendments-2023-totals-rounded-to-the-closest-1000",
-                  "anchorAmbiguous": false,
                   "theirVote": "nay",
                   "axisDirection": "for"
                 },
@@ -84664,26 +84347,6 @@
                   "theirVote": "yea",
                   "whatAYeaDid": "Amended Budget Amendment Case #P-17 (Capital Financing -- Reduction to a previously approved Infrastructure Gap Reserve Fund contribution) to set the reduction amount at $475,000.",
                   "movedToward": "reduced the tax levy or a budget item"
-                },
-                {
-                  "motionId": "192cc16c866a",
-                  "axisDirection": "for",
-                  "date": "2023-01-26",
-                  "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
-                  "meetingTitle": "8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
-                  "meetingType": "Strategic Priorities and Policy Committee",
-                  "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8bb5f192-e205-457b-bacd-8633cbf8ba93&Agenda=PostMinutes&lang=English",
-                  "itemNumber": "4.3",
-                  "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
-                  "motionSnippet": "That the following actions be taken with respect to the 2023 Annual Budget Update: c) C...",
-                  "anchor": "/months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET#43review-of-for-consideration-property-tax-operating-budget-amendments-2023-totals-rounded-to-the-closest-1000",
-                  "anchorAmbiguous": false,
-                  "result": "Motion Failed (0 to 14)",
-                  "tally": "0-14",
-                  "resultNote": null,
-                  "theirVote": "nay",
-                  "whatAYeaDid": "Would have reduced the tax levy and operating budget by $250,000 by cutting the Neighbourhood Playground Program within Community Recreation and Leisure Programs; failed unanimously 0-14 (program funding retained).",
-                  "movedToward": "opposed a measure that would have reduced the tax levy or a budget item"
                 },
                 {
                   "motionId": "070efd97b686",
@@ -88475,7 +88138,7 @@
               ]
             }
           ],
-          "unclearCount": 80,
+          "unclearCount": 79,
           "unclearEvidence": [
             {
               "motionId": "6b7f409e1443",
@@ -89055,26 +88718,6 @@
               "resultNote": null,
               "theirVote": "absent",
               "whatAYeaDid": "Would have directed Civic Administration to add, for information purposes only, a map showing a 1,054-hectare urban growth boundary expansion as an appendix to the final Official Plan review report.",
-              "movedToward": null
-            },
-            {
-              "motionId": "f2f91d156e14",
-              "axisDirection": null,
-              "date": "2025-08-26",
-              "meetingSlug": "months/2025-08/2025-08-26 14th Council Meeting",
-              "meetingTitle": "14th Council Meeting",
-              "meetingType": "Council",
-              "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=24c307af-3e5a-46e2-adc3-7b048d51d6bb&Agenda=PostMinutes&lang=English",
-              "itemNumber": "8.2.19",
-              "itemTitle": "(3.10) 1196 Sunningdale Road West (OZ-25052) (Relates to Bill No.'s 317 and 338)",
-              "motionSnippet": "Motion to approve part e) to read as follows: e) the Subdivision Approval Authority BE ...",
-              "anchor": "/months/2025-08/2025-08-26 14th Council Meeting#8219310-1196-sunningdale-road-west-oz-25052-relates-to-bill-nos-317-and-338",
-              "anchorAmbiguous": false,
-              "result": "Motion Failed (0 to 14)",
-              "tally": "0-14",
-              "resultNote": null,
-              "theirVote": "absent",
-              "whatAYeaDid": "Would have requested that the Subdivision Approval Authority consider reserving the Sunningdale Road West lands for community-facility (school) use for three years before allowing the draft plan of subdivision to proceed toward residential development.",
               "movedToward": null
             },
             {
@@ -95542,7 +95185,7 @@
         },
         "budget": {
           "issueLabel": "Taxes & Budget",
-          "divisionsInCorpus": 86,
+          "divisionsInCorpus": 85,
           "notOnRoster": 0,
           "attendedAsObserver": 0,
           "noRecordedVote": 0,
@@ -95554,7 +95197,7 @@
             "absent": 0,
             "abstain": 0,
             "other": 0,
-            "ladderExcluded": 18
+            "ladderExcluded": 17
           },
           "axes": [
             {
@@ -95728,17 +95371,6 @@
                   "anchorAmbiguous": true,
                   "theirVote": "yea",
                   "axisDirection": "against"
-                },
-                {
-                  "decisionGroupIndex": 3,
-                  "motionId": "192cc16c866a",
-                  "date": "2023-01-26",
-                  "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
-                  "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
-                  "anchor": "/months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET#43review-of-for-consideration-property-tax-operating-budget-amendments-2023-totals-rounded-to-the-closest-1000",
-                  "anchorAmbiguous": false,
-                  "theirVote": "nay",
-                  "axisDirection": "for"
                 },
                 {
                   "decisionGroupIndex": 3,
@@ -97254,26 +96886,6 @@
                   "theirVote": "yea",
                   "whatAYeaDid": "Amended Budget Amendment Case #P-17 (Capital Financing -- Reduction to a previously approved Infrastructure Gap Reserve Fund contribution) to set the reduction amount at $475,000.",
                   "movedToward": "reduced the tax levy or a budget item"
-                },
-                {
-                  "motionId": "192cc16c866a",
-                  "axisDirection": "for",
-                  "date": "2023-01-26",
-                  "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
-                  "meetingTitle": "8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
-                  "meetingType": "Strategic Priorities and Policy Committee",
-                  "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8bb5f192-e205-457b-bacd-8633cbf8ba93&Agenda=PostMinutes&lang=English",
-                  "itemNumber": "4.3",
-                  "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
-                  "motionSnippet": "That the following actions be taken with respect to the 2023 Annual Budget Update: c) C...",
-                  "anchor": "/months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET#43review-of-for-consideration-property-tax-operating-budget-amendments-2023-totals-rounded-to-the-closest-1000",
-                  "anchorAmbiguous": false,
-                  "result": "Motion Failed (0 to 14)",
-                  "tally": "0-14",
-                  "resultNote": null,
-                  "theirVote": "nay",
-                  "whatAYeaDid": "Would have reduced the tax levy and operating budget by $250,000 by cutting the Neighbourhood Playground Program within Community Recreation and Leisure Programs; failed unanimously 0-14 (program funding retained).",
-                  "movedToward": "opposed a measure that would have reduced the tax levy or a budget item"
                 },
                 {
                   "motionId": "070efd97b686",
@@ -101453,7 +101065,7 @@
               ]
             }
           ],
-          "unclearCount": 80,
+          "unclearCount": 79,
           "unclearEvidence": [
             {
               "motionId": "6b7f409e1443",
@@ -101993,26 +101605,6 @@
               "resultNote": null,
               "theirVote": "nay",
               "whatAYeaDid": "Would have directed Civic Administration to add, for information purposes only, a map showing a 1,054-hectare urban growth boundary expansion as an appendix to the final Official Plan review report.",
-              "movedToward": null
-            },
-            {
-              "motionId": "f2f91d156e14",
-              "axisDirection": null,
-              "date": "2025-08-26",
-              "meetingSlug": "months/2025-08/2025-08-26 14th Council Meeting",
-              "meetingTitle": "14th Council Meeting",
-              "meetingType": "Council",
-              "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=24c307af-3e5a-46e2-adc3-7b048d51d6bb&Agenda=PostMinutes&lang=English",
-              "itemNumber": "8.2.19",
-              "itemTitle": "(3.10) 1196 Sunningdale Road West (OZ-25052) (Relates to Bill No.'s 317 and 338)",
-              "motionSnippet": "Motion to approve part e) to read as follows: e) the Subdivision Approval Authority BE ...",
-              "anchor": "/months/2025-08/2025-08-26 14th Council Meeting#8219310-1196-sunningdale-road-west-oz-25052-relates-to-bill-nos-317-and-338",
-              "anchorAmbiguous": false,
-              "result": "Motion Failed (0 to 14)",
-              "tally": "0-14",
-              "resultNote": null,
-              "theirVote": "nay",
-              "whatAYeaDid": "Would have requested that the Subdivision Approval Authority consider reserving the Sunningdale Road West lands for community-facility (school) use for three years before allowing the draft plan of subdivision to proceed toward residential development.",
               "movedToward": null
             },
             {
@@ -108153,7 +107745,7 @@
         },
         "budget": {
           "issueLabel": "Taxes & Budget",
-          "divisionsInCorpus": 86,
+          "divisionsInCorpus": 85,
           "notOnRoster": 2,
           "attendedAsObserver": 0,
           "noRecordedVote": 2,
@@ -108165,7 +107757,7 @@
             "absent": 0,
             "abstain": 0,
             "other": 0,
-            "ladderExcluded": 15
+            "ladderExcluded": 14
           },
           "axes": [
             {
@@ -108306,17 +107898,6 @@
                   "anchorAmbiguous": true,
                   "theirVote": "yea",
                   "axisDirection": "against"
-                },
-                {
-                  "decisionGroupIndex": 2,
-                  "motionId": "192cc16c866a",
-                  "date": "2023-01-26",
-                  "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
-                  "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
-                  "anchor": "/months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET#43review-of-for-consideration-property-tax-operating-budget-amendments-2023-totals-rounded-to-the-closest-1000",
-                  "anchorAmbiguous": false,
-                  "theirVote": "nay",
-                  "axisDirection": "for"
                 },
                 {
                   "decisionGroupIndex": 2,
@@ -109792,26 +109373,6 @@
                   "theirVote": "yea",
                   "whatAYeaDid": "Amended Budget Amendment Case #P-17 (Capital Financing -- Reduction to a previously approved Infrastructure Gap Reserve Fund contribution) to set the reduction amount at $475,000.",
                   "movedToward": "reduced the tax levy or a budget item"
-                },
-                {
-                  "motionId": "192cc16c866a",
-                  "axisDirection": "for",
-                  "date": "2023-01-26",
-                  "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
-                  "meetingTitle": "8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
-                  "meetingType": "Strategic Priorities and Policy Committee",
-                  "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8bb5f192-e205-457b-bacd-8633cbf8ba93&Agenda=PostMinutes&lang=English",
-                  "itemNumber": "4.3",
-                  "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
-                  "motionSnippet": "That the following actions be taken with respect to the 2023 Annual Budget Update: c) C...",
-                  "anchor": "/months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET#43review-of-for-consideration-property-tax-operating-budget-amendments-2023-totals-rounded-to-the-closest-1000",
-                  "anchorAmbiguous": false,
-                  "result": "Motion Failed (0 to 14)",
-                  "tally": "0-14",
-                  "resultNote": null,
-                  "theirVote": "nay",
-                  "whatAYeaDid": "Would have reduced the tax levy and operating budget by $250,000 by cutting the Neighbourhood Playground Program within Community Recreation and Leisure Programs; failed unanimously 0-14 (program funding retained).",
-                  "movedToward": "opposed a measure that would have reduced the tax levy or a budget item"
                 },
                 {
                   "motionId": "070efd97b686",
@@ -114518,7 +114079,7 @@
               ]
             }
           ],
-          "unclearCount": 90,
+          "unclearCount": 89,
           "unclearEvidence": [
             {
               "motionId": "6b7f409e1443",
@@ -115098,26 +114659,6 @@
               "resultNote": null,
               "theirVote": "yea",
               "whatAYeaDid": "Would have narrowed a site-plan design consideration for the Kellogg Lane/Dundas Street redevelopment to drop the requirement that the applicant enter a 99-year telecommunications-infrastructure agreement with the City, keeping only the Path Loss Study service-level recommendation.",
-              "movedToward": null
-            },
-            {
-              "motionId": "f2f91d156e14",
-              "axisDirection": null,
-              "date": "2025-08-26",
-              "meetingSlug": "months/2025-08/2025-08-26 14th Council Meeting",
-              "meetingTitle": "14th Council Meeting",
-              "meetingType": "Council",
-              "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=24c307af-3e5a-46e2-adc3-7b048d51d6bb&Agenda=PostMinutes&lang=English",
-              "itemNumber": "8.2.19",
-              "itemTitle": "(3.10) 1196 Sunningdale Road West (OZ-25052) (Relates to Bill No.'s 317 and 338)",
-              "motionSnippet": "Motion to approve part e) to read as follows: e) the Subdivision Approval Authority BE ...",
-              "anchor": "/months/2025-08/2025-08-26 14th Council Meeting#8219310-1196-sunningdale-road-west-oz-25052-relates-to-bill-nos-317-and-338",
-              "anchorAmbiguous": false,
-              "result": "Motion Failed (0 to 14)",
-              "tally": "0-14",
-              "resultNote": null,
-              "theirVote": "nay",
-              "whatAYeaDid": "Would have requested that the Subdivision Approval Authority consider reserving the Sunningdale Road West lands for community-facility (school) use for three years before allowing the draft plan of subdivision to proceed toward residential development.",
               "movedToward": null
             },
             {
@@ -121729,7 +121270,7 @@
         },
         "budget": {
           "issueLabel": "Taxes & Budget",
-          "divisionsInCorpus": 86,
+          "divisionsInCorpus": 85,
           "notOnRoster": 1,
           "attendedAsObserver": 1,
           "noRecordedVote": 0,
@@ -121741,7 +121282,7 @@
             "absent": 0,
             "abstain": 0,
             "other": 0,
-            "ladderExcluded": 14
+            "ladderExcluded": 13
           },
           "axes": [
             {
@@ -121871,17 +121412,6 @@
                   "anchorAmbiguous": true,
                   "theirVote": "yea",
                   "axisDirection": "against"
-                },
-                {
-                  "decisionGroupIndex": 2,
-                  "motionId": "192cc16c866a",
-                  "date": "2023-01-26",
-                  "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
-                  "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
-                  "anchor": "/months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET#43review-of-for-consideration-property-tax-operating-budget-amendments-2023-totals-rounded-to-the-closest-1000",
-                  "anchorAmbiguous": false,
-                  "theirVote": "nay",
-                  "axisDirection": "for"
                 },
                 {
                   "decisionGroupIndex": 2,
@@ -123377,26 +122907,6 @@
                   "theirVote": "yea",
                   "whatAYeaDid": "Amended Budget Amendment Case #P-17 (Capital Financing -- Reduction to a previously approved Infrastructure Gap Reserve Fund contribution) to set the reduction amount at $475,000.",
                   "movedToward": "reduced the tax levy or a budget item"
-                },
-                {
-                  "motionId": "192cc16c866a",
-                  "axisDirection": "for",
-                  "date": "2023-01-26",
-                  "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
-                  "meetingTitle": "8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
-                  "meetingType": "Strategic Priorities and Policy Committee",
-                  "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8bb5f192-e205-457b-bacd-8633cbf8ba93&Agenda=PostMinutes&lang=English",
-                  "itemNumber": "4.3",
-                  "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
-                  "motionSnippet": "That the following actions be taken with respect to the 2023 Annual Budget Update: c) C...",
-                  "anchor": "/months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET#43review-of-for-consideration-property-tax-operating-budget-amendments-2023-totals-rounded-to-the-closest-1000",
-                  "anchorAmbiguous": false,
-                  "result": "Motion Failed (0 to 14)",
-                  "tally": "0-14",
-                  "resultNote": null,
-                  "theirVote": "nay",
-                  "whatAYeaDid": "Would have reduced the tax levy and operating budget by $250,000 by cutting the Neighbourhood Playground Program within Community Recreation and Leisure Programs; failed unanimously 0-14 (program funding retained).",
-                  "movedToward": "opposed a measure that would have reduced the tax levy or a budget item"
                 },
                 {
                   "motionId": "070efd97b686",
@@ -127356,7 +126866,7 @@
               ]
             }
           ],
-          "unclearCount": 78,
+          "unclearCount": 77,
           "unclearEvidence": [
             {
               "motionId": "6b7f409e1443",
@@ -127936,26 +127446,6 @@
               "resultNote": null,
               "theirVote": "yea",
               "whatAYeaDid": "Would have directed Civic Administration to add, for information purposes only, a map showing a 1,054-hectare urban growth boundary expansion as an appendix to the final Official Plan review report.",
-              "movedToward": null
-            },
-            {
-              "motionId": "f2f91d156e14",
-              "axisDirection": null,
-              "date": "2025-08-26",
-              "meetingSlug": "months/2025-08/2025-08-26 14th Council Meeting",
-              "meetingTitle": "14th Council Meeting",
-              "meetingType": "Council",
-              "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=24c307af-3e5a-46e2-adc3-7b048d51d6bb&Agenda=PostMinutes&lang=English",
-              "itemNumber": "8.2.19",
-              "itemTitle": "(3.10) 1196 Sunningdale Road West (OZ-25052) (Relates to Bill No.'s 317 and 338)",
-              "motionSnippet": "Motion to approve part e) to read as follows: e) the Subdivision Approval Authority BE ...",
-              "anchor": "/months/2025-08/2025-08-26 14th Council Meeting#8219310-1196-sunningdale-road-west-oz-25052-relates-to-bill-nos-317-and-338",
-              "anchorAmbiguous": false,
-              "result": "Motion Failed (0 to 14)",
-              "tally": "0-14",
-              "resultNote": null,
-              "theirVote": "nay",
-              "whatAYeaDid": "Would have requested that the Subdivision Approval Authority consider reserving the Sunningdale Road West lands for community-facility (school) use for three years before allowing the draft plan of subdivision to proceed toward residential development.",
               "movedToward": null
             },
             {
@@ -134261,7 +133751,7 @@
         },
         "budget": {
           "issueLabel": "Taxes & Budget",
-          "divisionsInCorpus": 86,
+          "divisionsInCorpus": 85,
           "notOnRoster": 0,
           "attendedAsObserver": 0,
           "noRecordedVote": 0,
@@ -134273,7 +133763,7 @@
             "absent": 3,
             "abstain": 0,
             "other": 0,
-            "ladderExcluded": 15
+            "ladderExcluded": 14
           },
           "axes": [
             {
@@ -134414,17 +133904,6 @@
                   "anchorAmbiguous": true,
                   "theirVote": "yea",
                   "axisDirection": "against"
-                },
-                {
-                  "decisionGroupIndex": 2,
-                  "motionId": "192cc16c866a",
-                  "date": "2023-01-26",
-                  "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
-                  "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
-                  "anchor": "/months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET#43review-of-for-consideration-property-tax-operating-budget-amendments-2023-totals-rounded-to-the-closest-1000",
-                  "anchorAmbiguous": false,
-                  "theirVote": "nay",
-                  "axisDirection": "for"
                 },
                 {
                   "decisionGroupIndex": 2,
@@ -135940,26 +135419,6 @@
                   "theirVote": "yea",
                   "whatAYeaDid": "Amended Budget Amendment Case #P-17 (Capital Financing -- Reduction to a previously approved Infrastructure Gap Reserve Fund contribution) to set the reduction amount at $475,000.",
                   "movedToward": "reduced the tax levy or a budget item"
-                },
-                {
-                  "motionId": "192cc16c866a",
-                  "axisDirection": "for",
-                  "date": "2023-01-26",
-                  "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
-                  "meetingTitle": "8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
-                  "meetingType": "Strategic Priorities and Policy Committee",
-                  "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8bb5f192-e205-457b-bacd-8633cbf8ba93&Agenda=PostMinutes&lang=English",
-                  "itemNumber": "4.3",
-                  "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
-                  "motionSnippet": "That the following actions be taken with respect to the 2023 Annual Budget Update: c) C...",
-                  "anchor": "/months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET#43review-of-for-consideration-property-tax-operating-budget-amendments-2023-totals-rounded-to-the-closest-1000",
-                  "anchorAmbiguous": false,
-                  "result": "Motion Failed (0 to 14)",
-                  "tally": "0-14",
-                  "resultNote": null,
-                  "theirVote": "nay",
-                  "whatAYeaDid": "Would have reduced the tax levy and operating budget by $250,000 by cutting the Neighbourhood Playground Program within Community Recreation and Leisure Programs; failed unanimously 0-14 (program funding retained).",
-                  "movedToward": "opposed a measure that would have reduced the tax levy or a budget item"
                 },
                 {
                   "motionId": "070efd97b686",
@@ -139823,7 +139282,7 @@
               ]
             }
           ],
-          "unclearCount": 69,
+          "unclearCount": 68,
           "unclearEvidence": [
             {
               "motionId": "6b7f409e1443",
@@ -140303,26 +139762,6 @@
               "resultNote": null,
               "theirVote": "nay",
               "whatAYeaDid": "Would have directed Civic Administration to add, for information purposes only, a map showing a 1,054-hectare urban growth boundary expansion as an appendix to the final Official Plan review report.",
-              "movedToward": null
-            },
-            {
-              "motionId": "f2f91d156e14",
-              "axisDirection": null,
-              "date": "2025-08-26",
-              "meetingSlug": "months/2025-08/2025-08-26 14th Council Meeting",
-              "meetingTitle": "14th Council Meeting",
-              "meetingType": "Council",
-              "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=24c307af-3e5a-46e2-adc3-7b048d51d6bb&Agenda=PostMinutes&lang=English",
-              "itemNumber": "8.2.19",
-              "itemTitle": "(3.10) 1196 Sunningdale Road West (OZ-25052) (Relates to Bill No.'s 317 and 338)",
-              "motionSnippet": "Motion to approve part e) to read as follows: e) the Subdivision Approval Authority BE ...",
-              "anchor": "/months/2025-08/2025-08-26 14th Council Meeting#8219310-1196-sunningdale-road-west-oz-25052-relates-to-bill-nos-317-and-338",
-              "anchorAmbiguous": false,
-              "result": "Motion Failed (0 to 14)",
-              "tally": "0-14",
-              "resultNote": null,
-              "theirVote": "nay",
-              "whatAYeaDid": "Would have requested that the Subdivision Approval Authority consider reserving the Sunningdale Road West lands for community-facility (school) use for three years before allowing the draft plan of subdivision to proceed toward residential development.",
               "movedToward": null
             },
             {
@@ -146458,7 +145897,7 @@
         },
         "budget": {
           "issueLabel": "Taxes & Budget",
-          "divisionsInCorpus": 86,
+          "divisionsInCorpus": 85,
           "notOnRoster": 1,
           "attendedAsObserver": 1,
           "noRecordedVote": 0,
@@ -146470,7 +145909,7 @@
             "absent": 1,
             "abstain": 0,
             "other": 0,
-            "ladderExcluded": 17
+            "ladderExcluded": 16
           },
           "axes": [
             {
@@ -146633,17 +146072,6 @@
                   "anchorAmbiguous": true,
                   "theirVote": "yea",
                   "axisDirection": "against"
-                },
-                {
-                  "decisionGroupIndex": 3,
-                  "motionId": "192cc16c866a",
-                  "date": "2023-01-26",
-                  "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
-                  "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
-                  "anchor": "/months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET#43review-of-for-consideration-property-tax-operating-budget-amendments-2023-totals-rounded-to-the-closest-1000",
-                  "anchorAmbiguous": false,
-                  "theirVote": "nay",
-                  "axisDirection": "for"
                 },
                 {
                   "decisionGroupIndex": 3,
@@ -148139,26 +147567,6 @@
                   "theirVote": "yea",
                   "whatAYeaDid": "Amended Budget Amendment Case #P-17 (Capital Financing -- Reduction to a previously approved Infrastructure Gap Reserve Fund contribution) to set the reduction amount at $475,000.",
                   "movedToward": "reduced the tax levy or a budget item"
-                },
-                {
-                  "motionId": "192cc16c866a",
-                  "axisDirection": "for",
-                  "date": "2023-01-26",
-                  "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
-                  "meetingTitle": "8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
-                  "meetingType": "Strategic Priorities and Policy Committee",
-                  "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8bb5f192-e205-457b-bacd-8633cbf8ba93&Agenda=PostMinutes&lang=English",
-                  "itemNumber": "4.3",
-                  "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
-                  "motionSnippet": "That the following actions be taken with respect to the 2023 Annual Budget Update: c) C...",
-                  "anchor": "/months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET#43review-of-for-consideration-property-tax-operating-budget-amendments-2023-totals-rounded-to-the-closest-1000",
-                  "anchorAmbiguous": false,
-                  "result": "Motion Failed (0 to 14)",
-                  "tally": "0-14",
-                  "resultNote": null,
-                  "theirVote": "nay",
-                  "whatAYeaDid": "Would have reduced the tax levy and operating budget by $250,000 by cutting the Neighbourhood Playground Program within Community Recreation and Leisure Programs; failed unanimously 0-14 (program funding retained).",
-                  "movedToward": "opposed a measure that would have reduced the tax levy or a budget item"
                 },
                 {
                   "motionId": "070efd97b686",
@@ -152517,7 +151925,7 @@
               ]
             }
           ],
-          "unclearCount": 81,
+          "unclearCount": 80,
           "unclearEvidence": [
             {
               "motionId": "6b7f409e1443",
@@ -152997,26 +152405,6 @@
               "resultNote": null,
               "theirVote": "yea",
               "whatAYeaDid": "Would have directed Civic Administration to add, for information purposes only, a map showing a 1,054-hectare urban growth boundary expansion as an appendix to the final Official Plan review report.",
-              "movedToward": null
-            },
-            {
-              "motionId": "f2f91d156e14",
-              "axisDirection": null,
-              "date": "2025-08-26",
-              "meetingSlug": "months/2025-08/2025-08-26 14th Council Meeting",
-              "meetingTitle": "14th Council Meeting",
-              "meetingType": "Council",
-              "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=24c307af-3e5a-46e2-adc3-7b048d51d6bb&Agenda=PostMinutes&lang=English",
-              "itemNumber": "8.2.19",
-              "itemTitle": "(3.10) 1196 Sunningdale Road West (OZ-25052) (Relates to Bill No.'s 317 and 338)",
-              "motionSnippet": "Motion to approve part e) to read as follows: e) the Subdivision Approval Authority BE ...",
-              "anchor": "/months/2025-08/2025-08-26 14th Council Meeting#8219310-1196-sunningdale-road-west-oz-25052-relates-to-bill-nos-317-and-338",
-              "anchorAmbiguous": false,
-              "result": "Motion Failed (0 to 14)",
-              "tally": "0-14",
-              "resultNote": null,
-              "theirVote": "nay",
-              "whatAYeaDid": "Would have requested that the Subdivision Approval Authority consider reserving the Sunningdale Road West lands for community-facility (school) use for three years before allowing the draft plan of subdivision to proceed toward residential development.",
               "movedToward": null
             },
             {
@@ -159638,7 +159026,7 @@
         },
         "budget": {
           "issueLabel": "Taxes & Budget",
-          "divisionsInCorpus": 86,
+          "divisionsInCorpus": 85,
           "notOnRoster": 2,
           "attendedAsObserver": 0,
           "noRecordedVote": 2,
@@ -159650,7 +159038,7 @@
             "absent": 2,
             "abstain": 0,
             "other": 0,
-            "ladderExcluded": 23
+            "ladderExcluded": 22
           },
           "axes": [
             {
@@ -159857,17 +159245,6 @@
                   "anchorAmbiguous": true,
                   "theirVote": "yea",
                   "axisDirection": "against"
-                },
-                {
-                  "decisionGroupIndex": 5,
-                  "motionId": "192cc16c866a",
-                  "date": "2023-01-26",
-                  "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
-                  "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
-                  "anchor": "/months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET#43review-of-for-consideration-property-tax-operating-budget-amendments-2023-totals-rounded-to-the-closest-1000",
-                  "anchorAmbiguous": false,
-                  "theirVote": "nay",
-                  "axisDirection": "for"
                 },
                 {
                   "decisionGroupIndex": 5,
@@ -161343,26 +160720,6 @@
                   "theirVote": "yea",
                   "whatAYeaDid": "Amended Budget Amendment Case #P-17 (Capital Financing -- Reduction to a previously approved Infrastructure Gap Reserve Fund contribution) to set the reduction amount at $475,000.",
                   "movedToward": "reduced the tax levy or a budget item"
-                },
-                {
-                  "motionId": "192cc16c866a",
-                  "axisDirection": "for",
-                  "date": "2023-01-26",
-                  "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
-                  "meetingTitle": "8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
-                  "meetingType": "Strategic Priorities and Policy Committee",
-                  "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8bb5f192-e205-457b-bacd-8633cbf8ba93&Agenda=PostMinutes&lang=English",
-                  "itemNumber": "4.3",
-                  "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
-                  "motionSnippet": "That the following actions be taken with respect to the 2023 Annual Budget Update: c) C...",
-                  "anchor": "/months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET#43review-of-for-consideration-property-tax-operating-budget-amendments-2023-totals-rounded-to-the-closest-1000",
-                  "anchorAmbiguous": false,
-                  "result": "Motion Failed (0 to 14)",
-                  "tally": "0-14",
-                  "resultNote": null,
-                  "theirVote": "nay",
-                  "whatAYeaDid": "Would have reduced the tax levy and operating budget by $250,000 by cutting the Neighbourhood Playground Program within Community Recreation and Leisure Programs; failed unanimously 0-14 (program funding retained).",
-                  "movedToward": "opposed a measure that would have reduced the tax levy or a budget item"
                 },
                 {
                   "motionId": "070efd97b686",
@@ -165543,7 +164900,7 @@
               ]
             }
           ],
-          "unclearCount": 80,
+          "unclearCount": 79,
           "unclearEvidence": [
             {
               "motionId": "6b7f409e1443",
@@ -166083,26 +165440,6 @@
               "resultNote": null,
               "theirVote": "nay",
               "whatAYeaDid": "Would have narrowed a site-plan design consideration for the Kellogg Lane/Dundas Street redevelopment to drop the requirement that the applicant enter a 99-year telecommunications-infrastructure agreement with the City, keeping only the Path Loss Study service-level recommendation.",
-              "movedToward": null
-            },
-            {
-              "motionId": "f2f91d156e14",
-              "axisDirection": null,
-              "date": "2025-08-26",
-              "meetingSlug": "months/2025-08/2025-08-26 14th Council Meeting",
-              "meetingTitle": "14th Council Meeting",
-              "meetingType": "Council",
-              "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=24c307af-3e5a-46e2-adc3-7b048d51d6bb&Agenda=PostMinutes&lang=English",
-              "itemNumber": "8.2.19",
-              "itemTitle": "(3.10) 1196 Sunningdale Road West (OZ-25052) (Relates to Bill No.'s 317 and 338)",
-              "motionSnippet": "Motion to approve part e) to read as follows: e) the Subdivision Approval Authority BE ...",
-              "anchor": "/months/2025-08/2025-08-26 14th Council Meeting#8219310-1196-sunningdale-road-west-oz-25052-relates-to-bill-nos-317-and-338",
-              "anchorAmbiguous": false,
-              "result": "Motion Failed (0 to 14)",
-              "tally": "0-14",
-              "resultNote": null,
-              "theirVote": "nay",
-              "whatAYeaDid": "Would have requested that the Subdivision Approval Authority consider reserving the Sunningdale Road West lands for community-facility (school) use for three years before allowing the draft plan of subdivision to proceed toward residential development.",
               "movedToward": null
             },
             {
@@ -172886,7 +172223,7 @@
         },
         "budget": {
           "issueLabel": "Taxes & Budget",
-          "divisionsInCorpus": 86,
+          "divisionsInCorpus": 85,
           "notOnRoster": 2,
           "attendedAsObserver": 0,
           "noRecordedVote": 2,
@@ -172898,7 +172235,7 @@
             "absent": 0,
             "abstain": 0,
             "other": 0,
-            "ladderExcluded": 19
+            "ladderExcluded": 18
           },
           "axes": [
             {
@@ -173059,17 +172396,6 @@
                   "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
                   "anchor": "/months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
                   "anchorAmbiguous": true,
-                  "theirVote": "nay",
-                  "axisDirection": "for"
-                },
-                {
-                  "decisionGroupIndex": 3,
-                  "motionId": "192cc16c866a",
-                  "date": "2023-01-26",
-                  "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
-                  "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
-                  "anchor": "/months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET#43review-of-for-consideration-property-tax-operating-budget-amendments-2023-totals-rounded-to-the-closest-1000",
-                  "anchorAmbiguous": false,
                   "theirVote": "nay",
                   "axisDirection": "for"
                 },
@@ -174547,26 +173873,6 @@
                   "theirVote": "yea",
                   "whatAYeaDid": "Amended Budget Amendment Case #P-17 (Capital Financing -- Reduction to a previously approved Infrastructure Gap Reserve Fund contribution) to set the reduction amount at $475,000.",
                   "movedToward": "reduced the tax levy or a budget item"
-                },
-                {
-                  "motionId": "192cc16c866a",
-                  "axisDirection": "for",
-                  "date": "2023-01-26",
-                  "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
-                  "meetingTitle": "8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
-                  "meetingType": "Strategic Priorities and Policy Committee",
-                  "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8bb5f192-e205-457b-bacd-8633cbf8ba93&Agenda=PostMinutes&lang=English",
-                  "itemNumber": "4.3",
-                  "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
-                  "motionSnippet": "That the following actions be taken with respect to the 2023 Annual Budget Update: c) C...",
-                  "anchor": "/months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET#43review-of-for-consideration-property-tax-operating-budget-amendments-2023-totals-rounded-to-the-closest-1000",
-                  "anchorAmbiguous": false,
-                  "result": "Motion Failed (0 to 14)",
-                  "tally": "0-14",
-                  "resultNote": null,
-                  "theirVote": "nay",
-                  "whatAYeaDid": "Would have reduced the tax levy and operating budget by $250,000 by cutting the Neighbourhood Playground Program within Community Recreation and Leisure Programs; failed unanimously 0-14 (program funding retained).",
-                  "movedToward": "opposed a measure that would have reduced the tax levy or a budget item"
                 },
                 {
                   "motionId": "070efd97b686",
@@ -178409,7 +177715,7 @@
               ]
             }
           ],
-          "unclearCount": 80,
+          "unclearCount": 79,
           "unclearEvidence": [
             {
               "motionId": "6b7f409e1443",
@@ -178989,26 +178295,6 @@
               "resultNote": null,
               "theirVote": "yea",
               "whatAYeaDid": "Would have directed Civic Administration to add, for information purposes only, a map showing a 1,054-hectare urban growth boundary expansion as an appendix to the final Official Plan review report.",
-              "movedToward": null
-            },
-            {
-              "motionId": "f2f91d156e14",
-              "axisDirection": null,
-              "date": "2025-08-26",
-              "meetingSlug": "months/2025-08/2025-08-26 14th Council Meeting",
-              "meetingTitle": "14th Council Meeting",
-              "meetingType": "Council",
-              "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=24c307af-3e5a-46e2-adc3-7b048d51d6bb&Agenda=PostMinutes&lang=English",
-              "itemNumber": "8.2.19",
-              "itemTitle": "(3.10) 1196 Sunningdale Road West (OZ-25052) (Relates to Bill No.'s 317 and 338)",
-              "motionSnippet": "Motion to approve part e) to read as follows: e) the Subdivision Approval Authority BE ...",
-              "anchor": "/months/2025-08/2025-08-26 14th Council Meeting#8219310-1196-sunningdale-road-west-oz-25052-relates-to-bill-nos-317-and-338",
-              "anchorAmbiguous": false,
-              "result": "Motion Failed (0 to 14)",
-              "tally": "0-14",
-              "resultNote": null,
-              "theirVote": "nay",
-              "whatAYeaDid": "Would have requested that the Subdivision Approval Authority consider reserving the Sunningdale Road West lands for community-facility (school) use for three years before allowing the draft plan of subdivision to proceed toward residential development.",
               "movedToward": null
             },
             {
@@ -185111,7 +184397,7 @@
         },
         "budget": {
           "issueLabel": "Taxes & Budget",
-          "divisionsInCorpus": 86,
+          "divisionsInCorpus": 85,
           "notOnRoster": 2,
           "attendedAsObserver": 0,
           "noRecordedVote": 2,
@@ -185120,7 +184406,7 @@
             "for": 14,
             "against": 52,
             "recused": 0,
-            "absent": 10,
+            "absent": 9,
             "abstain": 0,
             "other": 0,
             "ladderExcluded": 8
@@ -185139,10 +184425,10 @@
               "against": 50,
               "forPct": "18",
               "recused": 0,
-              "absent": 7,
+              "absent": 6,
               "abstain": 0,
               "other": 0,
-              "pattern": "Of 61 divided votes since 2023 where the motion's effect on this axis was clear, this councillor supported 3 measures that would have increased the tax levy or a budget item; opposed 32 measures that would have increased the tax levy or a budget item; supported 18 measures that would have reduced the tax levy or a budget item; opposed 8 measures that would have reduced the tax levy or a budget item (absent 7).",
+              "pattern": "Of 61 divided votes since 2023 where the motion's effect on this axis was clear, this councillor supported 3 measures that would have increased the tax levy or a budget item; opposed 32 measures that would have increased the tax levy or a budget item; supported 18 measures that would have reduced the tax levy or a budget item; opposed 8 measures that would have reduced the tax levy or a budget item (absent 6).",
               "ladderExclusions": [
                 {
                   "decisionGroupIndex": 1,
@@ -186672,26 +185958,6 @@
                   "resultNote": null,
                   "theirVote": "absent",
                   "whatAYeaDid": "Amended Budget Amendment Case #P-17 (Capital Financing -- Reduction to a previously approved Infrastructure Gap Reserve Fund contribution) to set the reduction amount at $475,000.",
-                  "movedToward": null
-                },
-                {
-                  "motionId": "192cc16c866a",
-                  "axisDirection": null,
-                  "date": "2023-01-26",
-                  "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
-                  "meetingTitle": "8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
-                  "meetingType": "Strategic Priorities and Policy Committee",
-                  "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8bb5f192-e205-457b-bacd-8633cbf8ba93&Agenda=PostMinutes&lang=English",
-                  "itemNumber": "4.3",
-                  "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
-                  "motionSnippet": "That the following actions be taken with respect to the 2023 Annual Budget Update: c) C...",
-                  "anchor": "/months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET#43review-of-for-consideration-property-tax-operating-budget-amendments-2023-totals-rounded-to-the-closest-1000",
-                  "anchorAmbiguous": false,
-                  "result": "Motion Failed (0 to 14)",
-                  "tally": "0-14",
-                  "resultNote": null,
-                  "theirVote": "absent",
-                  "whatAYeaDid": "Would have reduced the tax levy and operating budget by $250,000 by cutting the Neighbourhood Playground Program within Community Recreation and Leisure Programs; failed unanimously 0-14 (program funding retained).",
                   "movedToward": null
                 },
                 {
@@ -191431,7 +190697,7 @@
               ]
             }
           ],
-          "unclearCount": 90,
+          "unclearCount": 89,
           "unclearEvidence": [
             {
               "motionId": "6b7f409e1443",
@@ -192011,26 +191277,6 @@
               "resultNote": null,
               "theirVote": "nay",
               "whatAYeaDid": "Would have narrowed a site-plan design consideration for the Kellogg Lane/Dundas Street redevelopment to drop the requirement that the applicant enter a 99-year telecommunications-infrastructure agreement with the City, keeping only the Path Loss Study service-level recommendation.",
-              "movedToward": null
-            },
-            {
-              "motionId": "f2f91d156e14",
-              "axisDirection": null,
-              "date": "2025-08-26",
-              "meetingSlug": "months/2025-08/2025-08-26 14th Council Meeting",
-              "meetingTitle": "14th Council Meeting",
-              "meetingType": "Council",
-              "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=24c307af-3e5a-46e2-adc3-7b048d51d6bb&Agenda=PostMinutes&lang=English",
-              "itemNumber": "8.2.19",
-              "itemTitle": "(3.10) 1196 Sunningdale Road West (OZ-25052) (Relates to Bill No.'s 317 and 338)",
-              "motionSnippet": "Motion to approve part e) to read as follows: e) the Subdivision Approval Authority BE ...",
-              "anchor": "/months/2025-08/2025-08-26 14th Council Meeting#8219310-1196-sunningdale-road-west-oz-25052-relates-to-bill-nos-317-and-338",
-              "anchorAmbiguous": false,
-              "result": "Motion Failed (0 to 14)",
-              "tally": "0-14",
-              "resultNote": null,
-              "theirVote": "nay",
-              "whatAYeaDid": "Would have requested that the Subdivision Approval Authority consider reserving the Sunningdale Road West lands for community-facility (school) use for three years before allowing the draft plan of subdivision to proceed toward residential development.",
               "movedToward": null
             },
             {

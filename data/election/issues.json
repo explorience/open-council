@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-31T19:51:06.497Z",
+  "generatedAt": "2026-08-31T20:42:28.805Z",
   "sourceHash": "b7db59b827637e80",
   "sourceGeneratedAt": "2026-08-31T05:18:27.112Z",
   "cutoffDate": "2023-01-01",
-  "methodology": "A \"divided\" vote is any council or committee motion since January 1, 2023 that wasn't approved unanimously and wasn't a routine procedural step, and it doesn't include a vote decided by secret ballot to fill an appointment, since those don't produce a recorded yea or nay by councillor. For each councillor, on each issue, on each axis: a vote counts as \"for\" when it matched that axis's more permissive outcome, and \"against\" when it matched the more restrictive one — but a nay is never described as if it enacted the restrictive outcome; it's described as opposing the motion it was cast on, and the same care is taken in the other direction. When every recorded vote on an axis since January 1, 2023 happens to fall on one side, the pattern sentence says so plainly instead of silently reporting a zero on the other side. Every motion's issue, axis, and direction (\"what a yea did\") come from an independent, motion-by-motion review, checked against that motion's own complete text in the official meeting record rather than a keyword search, with a small, separately published list of after-the-fact corrections applied on top — never a silent edit to the reviewed record. This is a genuine reading of what each clause did, not a raw yea/nay count, including for the generic \"approved or denied the item\" description used when no issue-specific axis applies. Recusals and absences are always counted on their own, never folded into \"against\" and never treated as a hidden position. A pattern sentence is only stated once a councillor has at least 5 separate underlying decisions on an axis — a committee vote followed later by a council vote on the same policy question counts as one decision, not two, so a motion with several stages can't inflate the count; below that threshold the individual votes are still shown, just without a summary sentence. Some motions were reviewed and confirmed to have no clear direction at all — a referral, a request for more information, or a genuinely ambiguous clause — and these are listed, on every relevant issue, as motions with no clear direction: never counted in any pattern or sample size, but never hidden either. This project has no source recording which committee a councillor belongs to — that list isn't published or collected anywhere; a meeting's own attendance record shows who was there that day, not who belongs to it. So when a councillor has no recorded vote on a motion, nothing is claimed about why, in either direction: only whether that meeting's own record separately listed this councillor as present without a recorded vote, or whether nothing else can be said at all. Before any of the above, motions were also dropped in 2 ways, none of them guessed at or repaired: 33 where the same person was recorded as voting more than one way on the same motion (a roster conflict in the source data); and 3 more that turned out, on review, not to be a genuine division at all — a lopsided result the source data's own \"unanimous\" marker missed, or the same motion recorded twice under two item numbers. Each motion is filed under exactly one issue, so a motion that touches two topics — a housing decision with a budget line, say — appears on one issue page only, never both. Where the source text has a hash symbol immediately followed by a case or item number — as in a title reading \"Business Case\", then a hash, then \"P-5\" — this hub shows it instead as \"Business Case No. P-5\", so the character can't be misread as a link; the underlying wording is not otherwise changed.",
-  "truncatedDisplayCount": 436,
+  "methodology": "A \"divided\" vote is any council or committee motion since January 1, 2023 that wasn't approved unanimously and wasn't a routine procedural step, and it doesn't include a vote decided by secret ballot to fill an appointment, since those don't produce a recorded yea or nay by councillor. For each councillor, on each issue, on each axis: a vote counts as \"for\" when it matched that axis's more permissive outcome, and \"against\" when it matched the more restrictive one — but a nay is never described as if it enacted the restrictive outcome; it's described as opposing the motion it was cast on, and the same care is taken in the other direction. When every recorded vote on an axis since January 1, 2023 happens to fall on one side, the pattern sentence says so plainly instead of silently reporting a zero on the other side. Every motion's issue, axis, and direction (\"what a yea did\") come from an independent, motion-by-motion review, checked against that motion's own complete text in the official meeting record rather than a keyword search, with a small, separately published list of after-the-fact corrections applied on top — never a silent edit to the reviewed record. This is a genuine reading of what each clause did, not a raw yea/nay count, including for the generic \"approved or denied the item\" description used when no issue-specific axis applies. Recusals and absences are always counted on their own, never folded into \"against\" and never treated as a hidden position. A pattern sentence is only stated once a councillor has at least 5 separate underlying decisions on an axis — a committee vote followed later by a council vote on the same policy question counts as one decision, not two, so a motion with several stages can't inflate the count; below that threshold the individual votes are still shown, just without a summary sentence. Some motions were reviewed and confirmed to have no clear direction at all — a referral, a request for more information, or a genuinely ambiguous clause — and these are listed, on every relevant issue, as motions with no clear direction: never counted in any pattern or sample size, but never hidden either. This project has no source recording which committee a councillor belongs to — that list isn't published or collected anywhere; a meeting's own attendance record shows who was there that day, not who belongs to it. So when a councillor has no recorded vote on a motion, nothing is claimed about why, in either direction: only whether that meeting's own record separately listed this councillor as present without a recorded vote, or whether nothing else can be said at all. Before any of the above, motions were also dropped in 2 ways, none of them guessed at or repaired: 33 where the same person was recorded as voting more than one way on the same motion (a roster conflict in the source data); and 12 more that turned out, on review, not to be a genuine division at all — a lopsided result the source data's own \"unanimous\" marker missed, or the same motion recorded twice under two item numbers. Each motion is filed under exactly one issue, so a motion that touches two topics — a housing decision with a budget line, say — appears on one issue page only, never both. Where the source text has a hash symbol immediately followed by a case or item number — as in a title reading \"Business Case\", then a hash, then \"P-5\" — this hub shows it instead as \"Business Case No. P-5\", so the character can't be misread as a link; the underlying wording is not otherwise changed.",
+  "truncatedDisplayCount": 434,
   "resultMismatchCount": 0,
   "rosterConflictCount": 33,
-  "notDividedCount": 3,
+  "notDividedCount": 12,
   "issues": {
     "encampments": {
       "label": "Homelessness & Encampments",
@@ -12756,8 +12756,8 @@
     },
     "budget": {
       "label": "Taxes & Budget",
-      "dividedVoteCount": 131,
-      "directionBearingVoteCount": 86,
+      "dividedVoteCount": 130,
+      "directionBearingVoteCount": 85,
       "distinctAgendaItemCount": 81,
       "votes": [
         {
@@ -19098,58 +19098,6 @@
           "resultNote": null
         },
         {
-          "id": "192cc16c866a",
-          "date": "2023-01-26",
-          "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
-          "meetingTitle": "8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
-          "meetingType": "Strategic Priorities and Policy Committee",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8bb5f192-e205-457b-bacd-8633cbf8ba93&Agenda=PostMinutes&lang=English",
-          "itemNumber": "4.3",
-          "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
-          "motionText": "That the following actions be taken with respect to the 2023 Annual Budget Update: c)    Case #P-12 - Community Recreation and Leisure Programs - Reduction to Neighbourhood Playground Program - Operating Expenditure ($250,000); Tax Levy ($250,000) BE APPROVED;",
-          "result": "Motion Failed (0 to 14)",
-          "passed": false,
-          "margin": 14,
-          "tally": {
-            "yea": 0,
-            "nay": 14,
-            "recuse": 0,
-            "absent": 1,
-            "abstain": 0,
-            "other": 0
-          },
-          "anchor": "/months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET#43review-of-for-consideration-property-tax-operating-budget-amendments-2023-totals-rounded-to-the-closest-1000",
-          "anchorAmbiguous": false,
-          "matchedKeywords": [],
-          "direction": {
-            "axis": "levy-size",
-            "valence": -1,
-            "label": "Would have reduced the tax levy and operating budget by $250,000 by cutting the Neighbourhood Playground Program within Community Recreation and Leisure Programs; failed unanimously 0-14 (program funding retained).",
-            "axisLabels": {
-              "expansive": "increased the tax levy or a budget item",
-              "restrictive": "reduced the tax levy or a budget item"
-            }
-          },
-          "positions": {
-            "j-morgan": "nay",
-            "h-mcalister": "nay",
-            "s-lewis": "nay",
-            "p-cuddy": "nay",
-            "s-stevenson": "nay",
-            "j-pribil": "nay",
-            "s-trosow": "nay",
-            "c-rahman": "nay",
-            "s-lehman": "nay",
-            "a-hopkins": "nay",
-            "p-van-meerbergen": "nay",
-            "s-franke": "nay",
-            "e-peloza": "nay",
-            "d-ferreira": "nay",
-            "s-hillier": "absent"
-          },
-          "resultNote": null
-        },
-        {
           "id": "070efd97b686",
           "date": "2023-01-26",
           "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
@@ -21251,9 +21199,9 @@
     },
     "housing": {
       "label": "Housing & Density",
-      "dividedVoteCount": 237,
+      "dividedVoteCount": 236,
       "directionBearingVoteCount": 136,
-      "distinctAgendaItemCount": 167,
+      "distinctAgendaItemCount": 166,
       "votes": [
         {
           "id": "4c82f95207fe",
@@ -25289,55 +25237,6 @@
             "s-hillier": "yea",
             "s-trosow": "nay",
             "c-rahman": "nay"
-          },
-          "resultNote": null
-        },
-        {
-          "id": "f2f91d156e14",
-          "date": "2025-08-26",
-          "meetingSlug": "months/2025-08/2025-08-26 14th Council Meeting",
-          "meetingTitle": "14th Council Meeting",
-          "meetingType": "Council",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=24c307af-3e5a-46e2-adc3-7b048d51d6bb&Agenda=PostMinutes&lang=English",
-          "itemNumber": "8.2.19",
-          "itemTitle": "(3.10) 1196 Sunningdale Road West (OZ-25052) (Relates to Bill No.'s 317 and 338)",
-          "motionText": "Motion to approve part e) to read as follows: e)    the Subdivision Approval Authority BE REQUESTED to consider amending the draft plan of subdivision to require the subject lands to be reserved for 3 years for permitted uses within the Community Facility (CF2) zone until the draft plan of subdivision lapses. Should the school board and the developer, Landea Developments Inc., be unable to reach a resolution by the lapse of the draft plan of subdivision, the Subdivision Approval Authority BE REQ",
-          "result": "Motion Failed (0 to 14)",
-          "passed": false,
-          "margin": 14,
-          "tally": {
-            "yea": 0,
-            "nay": 14,
-            "recuse": 0,
-            "absent": 1,
-            "abstain": 0,
-            "other": 0
-          },
-          "anchor": "/months/2025-08/2025-08-26 14th Council Meeting#8219310-1196-sunningdale-road-west-oz-25052-relates-to-bill-nos-317-and-338",
-          "anchorAmbiguous": false,
-          "matchedKeywords": [
-            "informational_ask"
-          ],
-          "direction": {
-            "axis": null,
-            "label": "Would have requested that the Subdivision Approval Authority consider reserving the Sunningdale Road West lands for community-facility (school) use for three years before allowing the draft plan of subdivision to proceed toward residential development."
-          },
-          "positions": {
-            "j-morgan": "nay",
-            "h-mcalister": "nay",
-            "s-lewis": "nay",
-            "p-cuddy": "nay",
-            "s-stevenson": "nay",
-            "j-pribil": "nay",
-            "c-rahman": "nay",
-            "s-lehman": "nay",
-            "a-hopkins": "nay",
-            "p-van-meerbergen": "nay",
-            "s-franke": "nay",
-            "e-peloza": "nay",
-            "d-ferreira": "nay",
-            "s-hillier": "nay",
-            "s-trosow": "absent"
           },
           "resultNote": null
         },
@@ -32500,7 +32399,7 @@
     }
   },
   "unclassified": {
-    "count": 508,
+    "count": 501,
     "note": "Divided motions since 2023 the verified classification pass assigned issue 'none' (no tracked issue applies), plus any motion missing a classify entry entirely (tracked separately — see the console warning at generation time; none are guessed at or force-fit into a cluster). All are listed here.",
     "sample": [
       {
@@ -32766,12 +32665,6 @@
         "date": "2026-02-24",
         "itemNumber": "4.1",
         "itemTitle": "London UNESCO City of Music Action Plan 2021-2025 Update"
-      },
-      {
-        "id": "cfefeda5d588",
-        "date": "2026-02-23",
-        "itemNumber": "2.13",
-        "itemTitle": "Update to Council Policy - Travel and Business Expenses"
       },
       {
         "id": "54d67c9e6a5f",
@@ -33348,12 +33241,6 @@
         "date": "2025-06-11",
         "itemNumber": "4.3",
         "itemTitle": "Communication - Cost Saving Opportunities within Heritage - Councillor S. Stevenson"
-      },
-      {
-        "id": "9527d4f73fa4",
-        "date": "2025-06-09",
-        "itemNumber": "4.2",
-        "itemTitle": "Communication - Request for Update on 2021 Reaching Home - Councillor S. Stevenson"
       },
       {
         "id": "de27b0d405ad",
@@ -34166,12 +34053,6 @@
         "itemTitle": "(4.1) Councillors H. McAlister and D. Ferreira - City-Operated Long Term Care Facility (Dearness Home)"
       },
       {
-        "id": "31bd58f28e78",
-        "date": "2024-07-23",
-        "itemNumber": "8.5.11",
-        "itemTitle": "(5.2) Service London Portal Request"
-      },
-      {
         "id": "eefed782c8cb",
         "date": "2024-07-18",
         "itemNumber": "2.3",
@@ -34868,12 +34749,6 @@
         "itemTitle": "Request to Remove Property from Register of Cultural Heritage Resources - 176 Piccadilly Street"
       },
       {
-        "id": "aee92e872d3b",
-        "date": "2023-09-12",
-        "itemNumber": "3.2",
-        "itemTitle": "Vehicle for Hire By-law - Amendments/Information Report"
-      },
-      {
         "id": "9683caf33b23",
         "date": "2023-09-12",
         "itemNumber": "5.1",
@@ -35192,12 +35067,6 @@
         "itemTitle": "(4.1) Lower Thames Valley Conservation Authority (LTVCA) and Kettle Creek Conservation Authority (KCCA) - Ministry of Natural Resources and Forestry"
       },
       {
-        "id": "c3af45aa8db7",
-        "date": "2023-06-27",
-        "itemNumber": "8.3.11",
-        "itemTitle": "(4.1) Lower Thames Valley Conservation Authority (LTVCA) and Kettle Creek Conservation Authority (KCCA) - Ministry of Natural Resources and Forestry"
-      },
-      {
         "id": "0f2aeb66ed5e",
         "date": "2023-06-27",
         "itemNumber": "8.5.6",
@@ -35270,12 +35139,6 @@
         "itemTitle": "(2.6) Heritage Alteration Permit - 27 Bruce Street - Wortley Village-Old South Conservation District (HAP23-015-L)"
       },
       {
-        "id": "1a4209df6e71",
-        "date": "2023-06-06",
-        "itemNumber": "8.5.11",
-        "itemTitle": "(4.3) Application - Issuance of Proclamation - Action Anxiety Day"
-      },
-      {
         "id": "c84bbb2b1571",
         "date": "2023-06-06",
         "itemNumber": "8.5.12",
@@ -35340,12 +35203,6 @@
         "date": "2023-05-09",
         "itemNumber": "4.2",
         "itemTitle": "London Police Services Board Candidates Interview Process"
-      },
-      {
-        "id": "ffb201358ddc",
-        "date": "2023-04-25",
-        "itemNumber": "8.4.10",
-        "itemTitle": "(2.8) Western Road and Sarnia Road/Philip Aziz Avenue Corridor and Intersection Improvements - Environmental Study Report, Notice of Completion"
       },
       {
         "id": "0336e9e6a987",
