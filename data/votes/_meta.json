@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-31T05:18:27.217Z",
+  "generatedAt": "2026-08-31T15:51:31.594Z",
   "sourceHash": "b7db59b827637e80",
   "totalMeetings": 1683,
   "councillorsWithVotes": 42,
-  "totalMotions": 17872,
-  "substantiveMotions": 12434,
-  "contestedMotions": 7788
+  "totalMotions": 17874,
+  "substantiveMotions": 11497,
+  "contestedMotions": 7603
 }
