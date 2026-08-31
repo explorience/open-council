@@ -57,6 +57,7 @@ const MOTIONS_PATH = path.join(REPO_ROOT, "data/votes/_all-motions.json");
 const CLASSIFY_DIR = path.join(REPO_ROOT, "data/election/classify");
 const OUT_DIR = path.join(REPO_ROOT, "data/election");
 const REGEX_VS_LLM_PATH = path.join(CLASSIFY_DIR, "regex-vs-llm.json");
+const CORRECTIONS_PATH = path.join(CLASSIFY_DIR, "corrections.json");
 
 type VoteKind = "yea" | "nay" | "recuse" | "absent" | "abstain" | "other";
 
@@ -155,6 +156,80 @@ function loadVerifiedClassifications(): Map<string, VerifiedEntry> {
     }
   }
   return map;
+}
+
+// ---------------------------------------------------------------------------
+// Classification corrections layer (data/election/classify/corrections.json)
+//
+// Per the fixer's P4 rule: a specific classification defect found after the
+// verified batches shipped is NEVER patched by silently editing
+// batch-*-verified.json in place — it goes in this separate, append-only
+// corrections file instead, as {id, field, was, now, reason, quote} rows,
+// applied here at load time. This keeps the original verification pass
+// intact and auditable (every verified entry still says what the
+// independent verifier concluded) while letting a later, narrower defect
+// (an advocacy motion wrongly given a hard direction, an axis/polarity
+// mismatch, a too-short fragment) get fixed with its own reasoning and
+// quote, on the record, without rewriting history.
+// ---------------------------------------------------------------------------
+
+interface Correction {
+  id: string;
+  field: "axis" | "polarity";
+  was: string | null;
+  now: string | null;
+  reason: string;
+  quote: string;
+}
+
+/** Load data/election/classify/corrections.json (if present) and apply every
+ * row to the in-memory verified-classification map, in file order. Each
+ * correction's `was` value is checked against the entry's CURRENT value
+ * before applying (not just the original batch value) — a mismatch throws,
+ * since a stale correction silently applied to the wrong state is exactly
+ * the kind of unaudited edit this layer exists to prevent. A correction
+ * naming an id with no verified entry at all also throws. Setting a field to
+ * null degrades the motion the same way a "downgraded" verdict does
+ * (excluded from stance aggregation, listed as unclear) without touching the
+ * verdict string itself, since the ORIGINAL verification (verdict,
+ * confidence, verifierNote) is still a true record of what that pass
+ * concluded — this layer is a correction found afterward, not a rewrite of
+ * what was checked at the time. */
+function applyCorrections(verified: Map<string, VerifiedEntry>): number {
+  if (!fs.existsSync(CORRECTIONS_PATH)) return 0;
+  const corrections: Correction[] = JSON.parse(
+    fs.readFileSync(CORRECTIONS_PATH, "utf-8"),
+  );
+  for (const c of corrections) {
+    const entry = verified.get(c.id);
+    if (!entry) {
+      throw new Error(
+        `corrections.json references motion ${c.id} (field ${c.field}), which has no verified classification entry at all`,
+      );
+    }
+    const current = entry[c.field];
+    if (current !== c.was) {
+      throw new Error(
+        `corrections.json expected ${c.id}.${c.field} to currently be ${JSON.stringify(c.was)}, but found ${JSON.stringify(current)} — the correction is stale (re-derive against the current batch data before reapplying)`,
+      );
+    }
+    // Branched rather than a generic `entry[c.field] = c.now` assignment so
+    // TypeScript can check `now` against each field's own narrower type
+    // (VerifiedEntry.polarity is "expansive" | "restrictive" | null, not any
+    // string) instead of widening it to `string | null` at the indexed-write
+    // site.
+    if (c.field === "axis") {
+      entry.axis = c.now;
+    } else {
+      if (c.now !== null && c.now !== "expansive" && c.now !== "restrictive") {
+        throw new Error(
+          `corrections.json: ${c.id}.polarity 'now' must be "expansive", "restrictive", or null — got ${JSON.stringify(c.now)}`,
+        );
+      }
+      entry.polarity = c.now;
+    }
+  }
+  return corrections.length;
 }
 
 /** True when this motion's verified entry carries the "not_divided" flag —
@@ -490,6 +565,12 @@ function main() {
   );
 
   const verified = loadVerifiedClassifications();
+  const correctionsApplied = applyCorrections(verified);
+  if (correctionsApplied > 0) {
+    console.log(
+      `Applied ${correctionsApplied} classification correction(s) from data/election/classify/corrections.json`,
+    );
+  }
 
   const rosterConflicts = allSinceCutoff.filter(hasRosterConflict);
   const appointmentBallots = allSinceCutoff.filter(isAppointmentBallot);
@@ -755,13 +836,34 @@ function motionSnippet(motionText: string): string {
   return s.length > 90 ? s.slice(0, 87) + "..." : s;
 }
 
-function evidenceEntry(
-  c: ClassifiedMotion,
-  theirVote: VoteKind | "n/a",
-  movedToward?: "expansive" | "restrictive",
-) {
+// Fixed 2026-08-31 (hub-recheck round-3 gate BLOCKER, P1): "Their vote moved
+// toward" used to print the bare axis-label ACTION phrase (e.g. "increased
+// the police budget or complement") for BOTH a yea on an expansive motion
+// AND a nay on a restrictive motion — collapsing "directly enacted this" and
+// "blocked the opposite" into one sentence that reads as if an action
+// happened when, on a nay, nothing did. Concretely: policing/budget-size has
+// zero expansive-polarity motions in the whole corpus (all 6 direction-
+// bearing motions are cuts) — every nay-on-a-cut was published as having
+// "moved toward measures that increased the police budget ... 6 times",
+// crediting four councillors with an increase that was never on the table.
+// A YEA genuinely does move toward the motion's own polarity (voting yes to
+// increase IS supporting an increase) — that half of the old phrasing was
+// fine and is kept. A NAY never performed the opposite action; it only
+// opposed the one actually on the table. Never claims a vote count/action
+// this data doesn't support (P1); a corpus-wide-zero side is described
+// honestly (P2) in buildPattern below, not implied here by a phantom label.
+function movedTowardText(
+  vote: VoteKind | "n/a",
+  d: Direction | null,
+): string | null {
+  if (!d || (vote !== "yea" && vote !== "nay")) return null;
+  const ownLabel = d.valence === 1 ? d.axisLabels.expansive : d.axisLabels.restrictive;
+  return vote === "yea" ? ownLabel : `opposed a measure that would have ${ownLabel}`;
+}
+
+function evidenceEntry(c: ClassifiedMotion, theirVote: VoteKind | "n/a") {
   const m = c.motion;
-  const d = c.direction.axis !== null ? c.direction : null;
+  const d = c.direction.axis !== null ? (c.direction as Direction) : null;
   return {
     motionId: m.id,
     date: m.date,
@@ -777,13 +879,18 @@ function evidenceEntry(
     result: m.result,
     tally: `${c.tally.yea}-${c.tally.nay}`,
     theirVote,
-    whatAYeaDid: d ? d.label : "unclear",
-    movedToward:
-      movedToward === "expansive"
-        ? (d?.axisLabels.expansive ?? null)
-        : movedToward === "restrictive"
-          ? (d?.axisLabels.restrictive ?? null)
-          : null,
+    // Fixed 2026-08-31 (found while wiring the new unclear-evidence render,
+    // hub-recheck round-3): this used to fall back to the bare literal
+    // string "unclear" for every non-direction-bearing motion, discarding
+    // the real, independently-verified whatAYeaDid text that
+    // directionFromVerified always carries in c.direction.label (both
+    // branches of that union have a `label` field — see its return type).
+    // That text is exactly what makes the new unclear-evidence section
+    // useful (e.g. "directed the Mayor... to write to AMO..." instead of a
+    // bare "unclear"), so it's used whenever present; only a motion with
+    // truly no verified description at all falls back to the placeholder.
+    whatAYeaDid: c.direction.label || "unclear",
+    movedToward: movedTowardText(theirVote, d),
   };
 }
 
@@ -885,8 +992,20 @@ function writeIssuesFile(
 interface AxisAgg {
   axis: string;
   axisLabels: { expansive: string; restrictive: string };
-  forCount: number; // aligned with the axis's expansive outcome
-  againstCount: number; // aligned with the axis's restrictive outcome
+  // Fixed 2026-08-31 (hub-recheck round-3 gate BLOCKER, P1/P2): forCount and
+  // againstCount alone can't be described honestly in one sentence, because
+  // each one is really TWO different kinds of vote conflated together —
+  // "moved toward expansive" (forCount) is either a yea that directly voted
+  // for an expansive-polarity motion, OR a nay that blocked a
+  // restrictive-polarity motion (opposition, not enactment). Split into all
+  // four combinations so buildPattern can say which happened, instead of
+  // printing one action-label for both. forCount === yeaExpansive +
+  // nayRestrictive and againstCount === nayExpansive + yeaRestrictive are
+  // still available as the aggregate/percentage figures (forPct etc.).
+  yeaExpansive: number; // voted yea on an expansive-polarity motion — directly enacted/supported the expansive outcome
+  nayExpansive: number; // voted nay on an expansive-polarity motion — opposed the expansive outcome
+  yeaRestrictive: number; // voted yea on a restrictive-polarity motion — directly enacted/supported the restrictive outcome
+  nayRestrictive: number; // voted nay on a restrictive-polarity motion — opposed the restrictive outcome
   recused: number;
   absent: number;
   abstain: number;
@@ -933,26 +1052,45 @@ function recusalAbsentClause(agg: Pick<AxisAgg, "recused" | "absent">): string {
 
 /** Neutral pattern sentence for one axis. Responsible-build fixes baked in
  * here:
- *  1. "for"/"against" count DIRECTION-ALIGNMENT, not raw yea/nay — a nay on
- *     a motion that cuts the levy is a "for" (toward the axis's expansive
- *     side is wrong; it's toward restrictive... the point is it is NOT a
- *     yea). The old wording ("Voted for the measure in N of M votes ...
- *     that increased ...") read as if every "for" was a yea on an
- *     increase, when up to half of any axis's "for"/"against" counts can
- *     be direction-aligned nays. This phrasing never claims a vote kind,
- *     only which side a vote moved toward.
- *  2. Below MIN_PATTERN_SAMPLE_SIZE DISTINCT agenda items, no pattern is
+ *  1. Fixed 2026-08-31 (hub-recheck round-3 gate BLOCKER, P1): the old
+ *     single sentence used one axis-label ACTION phrase ("moved toward
+ *     measures that increased the police budget ... N times") for BOTH a
+ *     yea that directly enacted that outcome AND a nay that merely blocked
+ *     the opposite — printing an action that, for every nay in the count,
+ *     never happened. Every clause below is scoped to exactly one of the
+ *     four (vote x polarity) combinations, and a nay clause is always
+ *     phrased as opposition ("opposed N measure(s) that would have ..."),
+ *     never as having performed the other side's action.
+ *  2. Fixed 2026-08-31 (hub-recheck round-3 gate BLOCKER, P2): when the
+ *     WHOLE CORPUS has no motion of a given polarity on this axis (e.g.
+ *     policing/budget-size: 0 expansive-polarity motions ever recorded — see
+ *     axisHasExpansive/axisHasRestrictive), that side is never rendered as
+ *     "toward measures that increased the budget 0 times", which implies
+ *     opportunities existed that didn't. Instead a single plain sentence
+ *     states the corpus only ever offered one direction of motion on this
+ *     axis, so a reader isn't left to infer a false "0 for, N against"
+ *     symmetry from a side that was never actually on the table.
+ *  3. Below MIN_PATTERN_SAMPLE_SIZE DISTINCT agenda items, no pattern is
  *     asserted at all — see the distinctItemCount comment above
  *     MIN_PATTERN_SAMPLE_SIZE.
  */
 function buildPattern(
   agg: Pick<
     AxisAgg,
-    "forCount" | "againstCount" | "recused" | "absent" | "axisLabels"
+    | "yeaExpansive"
+    | "nayExpansive"
+    | "yeaRestrictive"
+    | "nayRestrictive"
+    | "recused"
+    | "absent"
+    | "axisLabels"
   >,
   distinctItemCount: number,
+  axisHasExpansive: boolean,
+  axisHasRestrictive: boolean,
 ): string {
-  const sampleSize = agg.forCount + agg.againstCount;
+  const sampleSize =
+    agg.yeaExpansive + agg.nayExpansive + agg.yeaRestrictive + agg.nayRestrictive;
   if (sampleSize === 0) {
     return `No direction-bearing votes cast on this axis since 2023${recusalAbsentClause(agg) || " (recused 0, absent 0)"}.`;
   }
@@ -965,27 +1103,76 @@ function buildPattern(
     const isAre = distinctItemCount === 1 ? "is" : "are";
     return `Only ${distinctItemCount} distinct ${itemWord} since 2023${voteClause}${recusalAbsentClause(agg)} — too few to describe a pattern. The individual vote${sampleSize === 1 ? "" : "s"} ${isAre} listed below.`;
   }
-  const forWord = agg.forCount === 1 ? "time" : "times";
-  const againstWord = agg.againstCount === 1 ? "time" : "times";
+
+  const clause = (n: number, verb: "supported" | "opposed", label: string) =>
+    `${verb} ${n} measure${n === 1 ? "" : "s"} that would have ${label}`;
+
+  const clauses: string[] = [];
+  if (axisHasExpansive) {
+    if (agg.yeaExpansive > 0)
+      clauses.push(clause(agg.yeaExpansive, "supported", agg.axisLabels.expansive));
+    if (agg.nayExpansive > 0)
+      clauses.push(clause(agg.nayExpansive, "opposed", agg.axisLabels.expansive));
+  }
+  if (axisHasRestrictive) {
+    if (agg.yeaRestrictive > 0)
+      clauses.push(clause(agg.yeaRestrictive, "supported", agg.axisLabels.restrictive));
+    if (agg.nayRestrictive > 0)
+      clauses.push(clause(agg.nayRestrictive, "opposed", agg.axisLabels.restrictive));
+  }
+
+  // P2: state plainly, once, when this axis's whole corpus (every
+  // councillor, not just this one) only ever offered one direction of
+  // motion — never implied by a silent "0" on the missing side.
+  const oneSidedNote = !axisHasExpansive
+    ? ` No motion on this axis since 2023 would have ${agg.axisLabels.expansive} — every direction-bearing motion here would have ${agg.axisLabels.restrictive}.`
+    : !axisHasRestrictive
+      ? ` No motion on this axis since 2023 would have ${agg.axisLabels.restrictive} — every direction-bearing motion here would have ${agg.axisLabels.expansive}.`
+      : "";
+
   return (
-    `Of ${sampleSize} divided votes since 2023 where the motion's effect on this axis was clear, this councillor's vote moved toward measures that ${agg.axisLabels.expansive} ${agg.forCount} ${forWord} and toward measures that ${agg.axisLabels.restrictive} ${agg.againstCount} ${againstWord}` +
+    `Of ${sampleSize} divided votes since 2023 where the motion's effect on this axis was clear, this councillor ${clauses.join("; ")}` +
     recusalAbsentClause(agg) +
-    "."
+    "." +
+    oneSidedNote
   );
 }
 
 /** Normalize an agenda item title for decision-level matching: strip a
  * leading "(4.1) " style item-number echo (Council agenda titles frequently
  * restate the committee's own sub-item number this way when the same
- * decision moves from committee to Council), collapse whitespace, and
- * lowercase. Two rows with the same normalized title are candidates for
- * being the SAME underlying decision recorded at two meeting stages. */
+ * decision moves from committee to Council), a leading "Amendment - "/
+ * "Amendment: " stage marker, collapse whitespace, and lowercase. Two rows
+ * with the same normalized title are candidates for being the SAME
+ * underlying decision recorded at two meeting stages.
+ *
+ * Fixed 2026-08-31 (hub-recheck round-3 gate BLOCKER, policing
+ * near-duplicates): the item-number strip alone left "Amendment - Business
+ * Case #P-29" and "(3.8) Business Case #P-29" normalizing to two DIFFERENT
+ * strings (the committee-stage amendment keeps its "Amendment - " prefix,
+ * the Council-stage echo doesn't), so the same real business-case question
+ * never unioned across its two recorded stages. */
 function normalizeItemTitle(title: string): string {
   return title
     .replace(/^\(\s*[\d.]+\s*\)\s*/, "")
+    .replace(/^amendment\s*[-:–—]\s*/i, "")
     .replace(/\s+/g, " ")
     .trim()
     .toLowerCase();
+}
+
+/** Extract a normalized "Business/Budget Case #P-NN[/NN...]" key from an
+ * agenda item title, or null if none appears. Business cases are re-debated
+ * across multiple meeting stages (committee amendment, then Council) under
+ * titles that otherwise share no common substring once the stage-marker
+ * prefix differs in wording (see normalizeItemTitle) — matching on the case
+ * number itself is a stronger, wording-independent signal that two rows are
+ * the same underlying decision. Deliberately still combined with the same
+ * time window as normalizeItemTitle in countDistinctDecisions (not used
+ * alone, unbounded) because case numbers are reused across budget years. */
+function extractBusinessCaseKey(title: string): string | null {
+  const m = title.match(/\b(?:business|budget)\s+case\s*#?\s*(p-[\d/]+)/i);
+  return m ? m[1].toLowerCase().replace(/\s+/g, "") : null;
 }
 
 /** Round-2 finding B3: distinctItemCount used to be keyed on
@@ -997,11 +1184,24 @@ function normalizeItemTitle(title: string): string {
  * pair manufacture an apparent track record out of one real decision.
  *
  * This collapses rows into DECISIONS: two rows whose item titles normalize
- * to the same string (see normalizeItemTitle) and whose dates are within 60
- * days of each other are treated as stages of one decision. Uses
- * union-find so a chain of 3+ same-title rows within the window all
+ * to the same string (see normalizeItemTitle) — OR whose titles carry the
+ * same business-case number (see extractBusinessCaseKey) — and whose dates
+ * are within 60 days of each other are treated as stages of one decision.
+ * Uses union-find so a chain of 3+ same-decision rows within the window all
  * collapse together, not just adjacent pairs. Small inputs (a handful of
- * rows per councillor per axis) — O(n^2) comparison is plenty fast. */
+ * rows per councillor per axis) — O(n^2) comparison is plenty fast.
+ *
+ * Fixed 2026-08-31 (hub-recheck round-3 gate BLOCKER): title-normalization
+ * alone still missed real duplicates whose WORDING differs between meeting
+ * stages even after stripping the item-number/"Amendment - " prefixes (e.g.
+ * committee business cases are sometimes titled "Amendment - Business Case
+ * #P-29 - Councillor X" at one stage and "(3.8) Business Case #P-29" at
+ * another — same case number, different trailing mover-name text). Business-
+ * case-number matching is a second, independent union condition, checked
+ * alongside the title match rather than instead of it, so either signal can
+ * merge two rows — still date-windowed, since case numbers repeat year over
+ * year and a bare number match across budget cycles would wrongly merge two
+ * genuinely different decisions. */
 function countDistinctDecisions(
   rows: { itemTitle: string; date: string }[],
 ): number {
@@ -1022,17 +1222,48 @@ function countDistinctDecisions(
   }
   const WINDOW_MS = 60 * 24 * 60 * 60 * 1000;
   const normalized = rows.map((r) => normalizeItemTitle(r.itemTitle));
+  const caseKeys = rows.map((r) => extractBusinessCaseKey(r.itemTitle));
   const dates = rows.map((r) => Date.parse(r.date));
   for (let i = 0; i < n; i++) {
     for (let j = i + 1; j < n; j++) {
-      if (normalized[i] !== normalized[j]) continue;
       if (Math.abs(dates[i] - dates[j]) > WINDOW_MS) continue;
+      const titleMatch = normalized[i] === normalized[j];
+      const caseMatch =
+        caseKeys[i] !== null && caseKeys[i] === caseKeys[j];
+      if (!titleMatch && !caseMatch) continue;
       union(i, j);
     }
   }
   const roots = new Set<number>();
   for (let i = 0; i < n; i++) roots.add(find(i));
   return roots.size;
+}
+
+/** Every councillor who appears in ANY vote-kind bucket on ANY motion at a
+ * given meeting (built from the FULL raw motion set, not just the divided/
+ * classified subset — attendance at a meeting is established by any
+ * recorded vote there, including unanimous ones). Used to tell a genuine
+ * committee non-membership apart from a per-motion scraper gap (see P3
+ * comment in writeStancesFile below). */
+function buildMeetingAttendance(
+  motions: RawMotion[],
+  lookup: Map<string, CouncillorMeta>,
+): Map<string, Set<string>> {
+  const attendance = new Map<string, Set<string>>();
+  for (const m of motions) {
+    let set = attendance.get(m.meetingSlug);
+    if (!set) {
+      set = new Set();
+      attendance.set(m.meetingSlug, set);
+    }
+    for (const bucket of [m.yeas, m.nays, m.recuse, m.absent, m.abstain, m.other]) {
+      for (const name of bucket) {
+        const meta = lookup.get(name);
+        if (meta) set.add(meta.slug);
+      }
+    }
+  }
+  return attendance;
 }
 
 function writeStancesFile(
@@ -1042,6 +1273,34 @@ function writeStancesFile(
   resultMismatches: RawMotion[],
 ) {
   const currentCouncillors = [...lookup.values()].filter((c) => c.isCurrent);
+  const meetingAttendance = buildMeetingAttendance(
+    allMotionsRaw.motions,
+    lookup,
+  );
+
+  // Fixed 2026-08-31 (hub-recheck round-3 gate BLOCKER, P2): whether an axis
+  // ever has an expansive-polarity and/or restrictive-polarity motion at
+  // ALL, computed once across the WHOLE corpus (every councillor, every
+  // direction-bearing motion) — not per-councillor, since this is a fact
+  // about the axis's own motion population, used by buildPattern to avoid
+  // rendering "0 times toward X" as if a motion of that polarity was ever
+  // actually on the table for anyone.
+  const axisPolarityPresence = new Map<
+    string,
+    { expansive: boolean; restrictive: boolean }
+  >();
+  for (const c of classified) {
+    if (c.direction.axis === null) continue;
+    const d = c.direction as Direction;
+    const key = `${c.issue}::${d.axis}`;
+    const entry = axisPolarityPresence.get(key) ?? {
+      expansive: false,
+      restrictive: false,
+    };
+    if (d.valence === 1) entry.expansive = true;
+    else entry.restrictive = true;
+    axisPolarityPresence.set(key, entry);
+  }
 
   const councillorsOut: Record<string, unknown> = {};
 
@@ -1052,6 +1311,27 @@ function writeStancesFile(
       const directionBearing = classified.filter(
         (c) => c.issue === issueId && c.direction.axis !== null,
       );
+      // Fixed 2026-08-31 (hub-recheck round-3 gate BLOCKER): the standing
+      // disclaimer promises unclear-direction votes "stay linked below for
+      // transparency", but nothing ever rendered them — writeStancesFile
+      // only ever collected direction-bearing motions. Collected here
+      // (issue-level, not per-axis, since an unclear motion has no axis) for
+      // every position this councillor actually holds (yea/nay/recuse/
+      // absent/abstain/other) on a motion the classify pipeline confirmed or
+      // corrected but left with no clear direction (a referral, an
+      // informational ask, or a motion downgraded by data/election/classify/
+      // corrections.json) — never counted in any pattern/sample-size figure,
+      // rendered separately and clearly labeled (see generate-hub-pages.ts).
+      const unclearOnIssue = classified.filter(
+        (c) => c.issue === issueId && c.direction.axis === null,
+      );
+      const unclearEvidence: ReturnType<typeof evidenceEntry>[] = [];
+      for (const c of unclearOnIssue) {
+        const vote = c.positions[councillor.slug];
+        if (vote === undefined) continue; // not on this motion's roster at all
+        unclearEvidence.push(evidenceEntry(c, vote));
+      }
+      unclearEvidence.sort((a, b) => (a.date < b.date ? 1 : -1));
 
       // Group this councillor's direction-bearing motions on this issue by axis.
       const axisMap = new Map<string, AxisAgg>();
@@ -1063,15 +1343,37 @@ function writeStancesFile(
       // scraped record, not a non-membership fact. Spot-check (2026-08-31):
       // c699eb9cc94f, a City Council motion, is one of several where the
       // old single "not a member" wording was flatly false.
+      //
+      // Fixed 2026-08-31 (hub-recheck round-3 gate BLOCKER, P3): the
+      // committee bucket had the SAME defect council motions used to have —
+      // "not a member of that committee" was asserted for every committee
+      // motion missing this councillor, with no check for whether they were
+      // demonstrably on that committee's roster (voted on something else at
+      // the SAME meeting). Confirmed false on Josh Morgan's page: he appears
+      // in a vote-kind bucket on other PEC motions at meetings where he was
+      // also reported "not a member" of PEC. notOnRosterCommittee now only
+      // counts a motion where the councillor appears NOWHERE in that
+      // meeting's roster at all (real evidence of non-membership);
+      // notOnRosterCommitteeMeetingGap counts a motion where they DID vote
+      // on something else at that same meeting, so this specific motion's
+      // gap is a scraper/data gap for that one item, not non-membership.
       let notOnRosterCommittee = 0;
+      let notOnRosterCommitteeMeetingGap = 0;
       let notOnRosterCouncilGap = 0;
 
       for (const c of directionBearing) {
         const vote = c.positions[councillor.slug];
         if (vote === undefined) {
           // not on the roster for this motion — not applicable, not absent
-          if (c.motion.meetingType === "Council") notOnRosterCouncilGap++;
-          else notOnRosterCommittee++;
+          if (c.motion.meetingType === "Council") {
+            notOnRosterCouncilGap++;
+          } else if (
+            meetingAttendance.get(c.motion.meetingSlug)?.has(councillor.slug)
+          ) {
+            notOnRosterCommitteeMeetingGap++;
+          } else {
+            notOnRosterCommittee++;
+          }
           continue;
         }
 
@@ -1082,8 +1384,10 @@ function writeStancesFile(
           agg = {
             axis: d.axis,
             axisLabels: d.axisLabels,
-            forCount: 0,
-            againstCount: 0,
+            yeaExpansive: 0,
+            nayExpansive: 0,
+            yeaRestrictive: 0,
+            nayRestrictive: 0,
             recused: 0,
             absent: 0,
             abstain: 0,
@@ -1093,14 +1397,14 @@ function writeStancesFile(
           axisMap.set(key, agg);
         }
 
-        let movedToward: "expansive" | "restrictive" | undefined;
         if (vote === "yea" || vote === "nay") {
-          const alignedExpansive =
-            (d.valence === 1 && vote === "yea") ||
-            (d.valence === -1 && vote === "nay");
-          movedToward = alignedExpansive ? "expansive" : "restrictive";
-          if (alignedExpansive) agg.forCount++;
-          else agg.againstCount++;
+          if (d.valence === 1) {
+            if (vote === "yea") agg.yeaExpansive++;
+            else agg.nayExpansive++;
+          } else {
+            if (vote === "yea") agg.yeaRestrictive++;
+            else agg.nayRestrictive++;
+          }
         } else if (vote === "recuse") {
           agg.recused++;
         } else if (vote === "absent") {
@@ -1111,17 +1415,23 @@ function writeStancesFile(
           agg.other++;
         }
 
-        agg.evidence.push(evidenceEntry(c, vote, movedToward));
+        agg.evidence.push(evidenceEntry(c, vote));
       }
 
-      if (axisMap.size === 0) continue;
+      if (axisMap.size === 0 && unclearEvidence.length === 0) continue;
 
       const axes = [...axisMap.values()]
-        .sort(
-          (a, b) => b.forCount + b.againstCount - (a.forCount + a.againstCount),
-        )
+        .sort((a, b) => {
+          const bTotal =
+            b.yeaExpansive + b.nayExpansive + b.yeaRestrictive + b.nayRestrictive;
+          const aTotal =
+            a.yeaExpansive + a.nayExpansive + a.yeaRestrictive + a.nayRestrictive;
+          return bTotal - aTotal;
+        })
         .map((agg) => {
-          const sampleSize = agg.forCount + agg.againstCount;
+          const forCount = agg.yeaExpansive + agg.nayRestrictive;
+          const againstCount = agg.nayExpansive + agg.yeaRestrictive;
+          const sampleSize = forCount + againstCount;
           const sortedEvidence = agg.evidence.sort((a, b) =>
             a.date < b.date ? 1 : -1,
           );
@@ -1134,29 +1444,39 @@ function writeStancesFile(
           // votes + 2 absences let distinctItemCount hit 6, keeping a
           // "n=4" pattern sentence alive that the floor was supposed to
           // suppress). Further collapsed to DECISION level (round-2 finding
-          // B3, 2026-08-31): see countDistinctDecisions — a committee-stage
-          // and council-stage vote on the same policy decision (same
-          // normalized item title, within 60 days) now count as ONE
+          // B3, 2026-08-31, strengthened again 2026-08-31 round 3): see
+          // countDistinctDecisions — a committee-stage and council-stage
+          // vote on the same policy decision (same normalized item title OR
+          // the same business-case number, within 60 days) now count as ONE
           // decision, not two, so the floor can no longer be cleared by a
-          // single decision that happened to generate two recorded stages.
+          // single decision that happened to generate two recorded stages
+          // under differently-worded titles.
           const distinctItemCount = countDistinctDecisions(
             sortedEvidence.filter(
               (e) => e.theirVote === "yea" || e.theirVote === "nay",
             ),
           );
+          const presence = axisPolarityPresence.get(
+            `${issueId}::${agg.axis}`,
+          ) ?? { expansive: true, restrictive: true };
           return {
             axis: agg.axis,
             axisLabels: agg.axisLabels,
             sampleSize,
             distinctItemCount,
-            for: agg.forCount,
-            against: agg.againstCount,
-            forPct: pct(agg.forCount, sampleSize),
+            for: forCount,
+            against: againstCount,
+            forPct: pct(forCount, sampleSize),
             recused: agg.recused,
             absent: agg.absent,
             abstain: agg.abstain,
             other: agg.other,
-            pattern: buildPattern(agg, distinctItemCount),
+            pattern: buildPattern(
+              agg,
+              distinctItemCount,
+              presence.expansive,
+              presence.restrictive,
+            ),
             evidence: sortedEvidence,
           };
         });
@@ -1182,7 +1502,10 @@ function writeStancesFile(
         },
       );
 
-      const notOnRoster = notOnRosterCommittee + notOnRosterCouncilGap;
+      const notOnRoster =
+        notOnRosterCommittee +
+        notOnRosterCommitteeMeetingGap +
+        notOnRosterCouncilGap;
 
       issuesOut[issueId] = {
         issueLabel: ISSUES[issueId].label,
@@ -1195,12 +1518,20 @@ function writeStancesFile(
         // overall.against + recused + absent + abstain + other + notOnRoster.
         divisionsInCorpus: directionBearing.length,
         notOnRoster,
-        // Split for honest wording (see the comment above the counters
-        // above): committee non-membership vs. a Council-meeting data gap.
+        // Split for honest wording (see the comments above the counters
+        // above): committee non-membership vs. a same-meeting committee data
+        // gap vs. a Council-meeting data gap.
         notOnRosterCommittee,
+        notOnRosterCommitteeMeetingGap,
         notOnRosterCouncilGap,
         overall,
         axes,
+        // Unclear-direction motions on this issue this councillor actually
+        // voted/recused/was absent on — see the comment above
+        // unclearEvidence. Never included in divisionsInCorpus, overall, or
+        // any axis's sampleSize; rendered separately.
+        unclearCount: unclearEvidence.length,
+        unclearEvidence,
       };
     }
 
@@ -1227,7 +1558,7 @@ function writeStancesFile(
     sourceGeneratedAt: allMotionsRaw.generatedAt,
     cutoffDate: CUTOFF_DATE,
     methodology:
-      "Per councillor per issue per axis: 'for' = their vote aligned with the axis's expansive/permissive outcome, 'against' = aligned with its restrictive outcome. Rebuilt 2026-08-31: axis and polarity for every motion come from data/election/classify/batch-*-verified.json, a per-motion classification independently verified against each motion's own complete text in the source meeting record — this is a genuine translation of what the clause did, not raw yea/nay, on every axis including the generic 'approved/denied the item' fallback used when no issue-specific content axis applies. Recusals and absences are counted separately, never folded into 'against' and never inferred as a position. Below 5 DISTINCT DECISIONS on an axis (committee and council votes on the same policy decision, identified by matching agenda-item title within 60 days, count as one decision — not one per meeting stage), no pattern sentence is asserted; the individual votes are still shown. A councillor with no entry for a motion was not on that meeting's roster — for a committee meeting this means not a member of that committee; for a Council meeting (where all 15 members sit) it means the source data has a gap for that person on that motion, not that they weren't a member (see notOnRosterCommittee vs. notOnRosterCouncilGap on each issue). Motions whose own minuted result disagrees with its parsed vote arrays, or that the classify pipeline flagged not a genuine division, are excluded entirely before any of this — see result-mismatches.json, not-divided.json, and each councillor's resultMismatchesExcluding count.",
+      "Per councillor per issue per axis: 'for' = their vote aligned with the axis's expansive/permissive outcome, 'against' = aligned with its restrictive outcome — but the rendered pattern sentence never collapses a nay into the language of an enacted action (see movedTowardText/buildPattern in generate-stances.ts): a nay on an expansive motion is described as opposing that motion, never as having performed the restrictive act, and vice versa. When an axis's WHOLE corpus since 2023 only ever contains motions of one polarity, the pattern sentence says so plainly instead of reporting a silent '0' on the missing side. Axis and polarity for every motion come from data/election/classify/batch-*-verified.json (a per-motion classification independently verified against each motion's own complete text in the source meeting record), with a small, published corrections layer (data/election/classify/corrections.json) applied on top for specific defects found after verification — never a silent edit to the verified batches. This is a genuine translation of what the clause did, not raw yea/nay, on every axis including the generic 'approved/denied the item' fallback used when no issue-specific content axis applies. Recusals and absences are counted separately, never folded into 'against' and never inferred as a position. Below 5 DISTINCT DECISIONS on an axis (committee and council votes on the same policy decision, identified by matching agenda-item title or business-case number within 60 days, count as one decision — not one per meeting stage), no pattern sentence is asserted; the individual votes are still shown. Motions the classify pipeline confirmed but left with no clear direction (a referral, an informational ask, or a corrections.json downgrade) are listed per issue as 'unclear' evidence — never counted in any pattern or sample size, but not hidden either. A councillor with no entry for a motion was not on that meeting's roster — for a Council meeting (where all 15 members sit) it means the source data has a gap for that person on that motion; for a committee meeting it means either genuine non-membership (they don't appear anywhere in that meeting's roster) or, when they DO appear on another motion at that same meeting, a data gap for this one motion only (see notOnRosterCommittee vs. notOnRosterCommitteeMeetingGap vs. notOnRosterCouncilGap on each issue). Motions whose own minuted result disagrees with its parsed vote arrays, or that the classify pipeline flagged not a genuine division, are excluded entirely before any of this — see result-mismatches.json, not-divided.json, and each councillor's resultMismatchesExcluding count.",
     councillors: councillorsOut,
   };
 
