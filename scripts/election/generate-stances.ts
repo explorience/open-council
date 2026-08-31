@@ -254,21 +254,47 @@ function applyCorrections(verified: Map<string, VerifiedEntry>): number {
   return corrections.length;
 }
 
-/** True when this motion's verified entry carries the "not_divided" flag —
- * the classify pipeline's own catch for a motion that isn't a genuine
- * division even though the source `unanimous` field says false (e.g. a 0
- * yea / N nay result, where the record shows a scraper's boolean not
- * catching a lopsided-but-still-technically-recorded vote as unanimous; or
- * the exact same motion recorded twice under two different item numbers).
- * Excluded from the divided-vote universe entirely, same treatment as a
- * roster conflict or a result mismatch — never guessed at, always
- * disclosed. A motion with no verified entry at all is NOT treated as
- * not_divided by this check (see missingFromManifest handling in main). */
+/** True when this motion's OWN recorded yea/nay arrays are entirely
+ * one-sided — yeas empty, or nays empty. A genuine division needs votes
+ * recorded on BOTH sides; a result like 192cc16c866a (2023-01-26 SPPC
+ * Budget, 0 yeas / 14 nays, `unanimous: false`) is not a division just
+ * because the source scraper's `unanimous` boolean doesn't happen to cover
+ * this lopsided shape (that boolean only catches an ALL-yea or ALL-nay
+ * result where literally everyone present voted the same way; 0-14 with one
+ * absence tripped neither it nor, before this fix, the classify pipeline's
+ * manual "not_divided" flag). Derived directly from the motion's own
+ * yeas/nays array LENGTHS every time this runs — never a flag a person had
+ * to remember to set on this specific motion — so a one-sided tally the
+ * classify pipeline never got around to flagging is still caught. Round-10
+ * gate item 2: 192cc16c866a was published as "divided" on 14 councillor
+ * profiles before this generalization existed. */
+function isOneSidedTally(m: RawMotion): boolean {
+  return m.yeas.length === 0 || m.nays.length === 0;
+}
+
+/** True when this motion is not a genuine division, for either of two
+ * independent reasons:
+ *   (1) the classify pipeline's own verification pass flagged it
+ *       "not_divided" (e.g. the exact same motion recorded twice under two
+ *       different item numbers — a duplication isOneSidedTally can't catch
+ *       since each copy's own tally is fine); or
+ *   (2) isOneSidedTally above — a structural fact about the motion's own
+ *       vote arrays, checked unconditionally regardless of what the
+ *       classify pipeline flagged.
+ * Excluded from the divided-vote universe entirely either way, same
+ * treatment as a roster conflict or a result mismatch — never guessed at,
+ * always disclosed (see not-divided.json below, and its `reason` field). A
+ * motion with no verified entry at all is not treated as case (1) by this
+ * check (see missingFromManifest handling in main), but is still subject to
+ * case (2). */
 function isNotDivided(
   verified: Map<string, VerifiedEntry>,
-  motionId: string,
+  m: RawMotion,
 ): boolean {
-  return Boolean(verified.get(motionId)?.flags.includes("not_divided"));
+  return (
+    Boolean(verified.get(m.id)?.flags.includes("not_divided")) ||
+    isOneSidedTally(m)
+  );
 }
 
 /** Translate one verified classification entry into the same Direction
@@ -636,10 +662,8 @@ function main() {
     (m) =>
       !hasRosterConflict(m) && !isAppointmentBallot(m) && !hasResultMismatch(m),
   );
-  const notDivided = passedHardGuards.filter((m) =>
-    isNotDivided(verified, m.id),
-  );
-  const divided = passedHardGuards.filter((m) => !isNotDivided(verified, m.id));
+  const notDivided = passedHardGuards.filter((m) => isNotDivided(verified, m));
+  const divided = passedHardGuards.filter((m) => !isNotDivided(verified, m));
 
   if (notDivided.length > 0) {
     fs.mkdirSync(OUT_DIR, { recursive: true });
@@ -648,24 +672,29 @@ function main() {
       JSON.stringify(
         {
           generatedAt: new Date().toISOString(),
-          note: "Motions dropped from the divided-vote universe because the classify pipeline's own verification pass flagged them 'not_divided': either the recorded tally has zero votes on one side (a lopsided-but-technically-not-flagged-unanimous result the source data's own 'unanimous' boolean missed), or the exact same motion is recorded twice under two different agenda item numbers (which would otherwise double-count one real decision). See each motion's own verifierNote in data/election/classify/batch-*-verified.json for the specific reason. Never guessed at or silently kept.",
+          note: "Motions dropped from the divided-vote universe because they aren't a genuine division, for one of two independently-checked reasons (see each motion's own 'reason' below): 'one-sided tally' means this motion's own recorded yeas or nays array is empty — derived straight from the vote arrays every run, regardless of what any classification pass flagged, so a lopsided result the source data's own 'unanimous' boolean doesn't cover (e.g. 0 yeas / 14 nays with one absence) is still caught. 'classify-flagged' means the classify pipeline's own verification pass flagged the motion 'not_divided' by hand — typically the exact same motion recorded twice under two different agenda item numbers, which would otherwise double-count one real decision; see verifierNote in data/election/classify/batch-*-verified.json for the specific reason. Never guessed at or silently kept.",
           count: notDivided.length,
-          motions: notDivided.map((m) => ({
-            id: m.id,
-            date: m.date,
-            meetingSlug: m.meetingSlug,
-            itemNumber: m.itemNumber,
-            itemTitle: m.itemTitle,
-            result: m.result,
-            verifierNote: verified.get(m.id)?.verifierNote ?? null,
-          })),
+          motions: notDivided.map((m) => {
+            const oneSided = isOneSidedTally(m);
+            return {
+              id: m.id,
+              date: m.date,
+              meetingSlug: m.meetingSlug,
+              itemNumber: m.itemNumber,
+              itemTitle: m.itemTitle,
+              result: m.result,
+              reason: oneSided ? "one-sided tally" : "classify-flagged",
+              tally: oneSided ? { yea: m.yeas.length, nay: m.nays.length } : null,
+              verifierNote: verified.get(m.id)?.verifierNote ?? null,
+            };
+          }),
         },
         null,
         2,
       ),
     );
     console.log(
-      `Dropped ${notDivided.length} motion(s) flagged not_divided by the classify pipeline — see data/election/not-divided.json`,
+      `Dropped ${notDivided.length} motion(s) as not_divided (one-sided tally or classify-flagged) — see data/election/not-divided.json`,
     );
   }
 
