@@ -63,6 +63,10 @@ interface IssueVote {
   matchedKeywords: string[];
   direction: DirectionInfo;
   positions: Record<string, string>;
+  // Round-6 gate item 4: honest per-row disclosure for a legitimate
+  // supermajority failure (see isSupermajorityFailure/resultNote in
+  // generate-stances.ts) — null for every ordinary motion.
+  resultNote: string | null;
 }
 
 interface IssueEntry {
@@ -109,6 +113,10 @@ interface EvidenceRow {
   theirVote: string;
   whatAYeaDid: string;
   movedToward: string | null;
+  // Round-6 gate item 4: same disclosure as IssueVote.resultNote, carried
+  // on every evidence row (see evidenceEntry in generate-stances.ts) —
+  // computed there but, until now, never read by any renderer in this file.
+  resultNote: string | null;
 }
 
 interface AxisStance {
@@ -245,6 +253,16 @@ function tcell(s: string): string {
     .trim();
 }
 
+/** Round-6 gate item 4: append a legitimate-supermajority-failure disclosure
+ * (e.g. "failed — required a supermajority") to a table's Result cell when
+ * present — computed on every row (see resultNote in generate-stances.ts)
+ * but, until now, silently dropped by every renderer in this file. Used by
+ * all three markdown table-row templates that show a Result column, so the
+ * disclosure can't go missing from one and not the others again. */
+function resultCell(result: string, resultNote: string | null): string {
+  return resultNote ? `${tcell(result)} (${tcell(resultNote)})` : tcell(result);
+}
+
 /** Link to an internal page whose path may contain spaces/parens (meeting
  * slugs do) — wrap the destination in angle brackets, matching the
  * convention already used in scripts/generate-pages.ts. */
@@ -337,6 +355,7 @@ function generateIndexPage(issues: IssuesFile, stances: StancesFile): string {
 title: "The Election Lens"
 cssclasses:
   - election-hub
+  - hide-folder-listing
 prefillQuestions: []
 ---
 
@@ -366,7 +385,7 @@ ${issueRows}
 
 ## Councillor stance profiles
 
-Full voting pattern per councillor per issue, current council (15 members: the Mayor plus 14 ward councillors). Every pattern sentence links to its evidence.
+Full voting pattern per councillor per issue, current council (the Mayor plus 14 ward councillors, 15 seats in total). Every pattern sentence links to its evidence.
 
 Only sitting councillors appear here, because only sitting councillors have a council voting record to summarize. Challengers are not covered, and their absence from these pages is not a judgement about them. For everyone actually on your ballot, see the City Clerk's certified list of candidates (linked on the [ward finder](/election/wards)).
 
@@ -447,7 +466,7 @@ function renderAxisSection(axis: AxisStance): string {
       );
       const theirVote = VOTE_LABEL[ev.theirVote] ?? ev.theirVote;
       const movedToward = ev.movedToward ?? "—";
-      return `| ${ev.date} | ${itemLink} | ${tcell(ev.motionSnippet)} | ${tcell(ev.whatAYeaDid)} | ${theirVote} | ${tcell(movedToward)} | ${tcell(ev.result)} |`;
+      return `| ${ev.date} | ${itemLink} | ${tcell(ev.motionSnippet)} | ${tcell(ev.whatAYeaDid)} | ${theirVote} | ${tcell(movedToward)} | ${resultCell(ev.result, ev.resultNote)} |`;
     })
     .join("\n");
 
@@ -532,7 +551,7 @@ function renderUnclearSection(issue: IssueStance): string {
       // stances.json (see evidenceEntry in generate-stances.ts) but was
       // never rendered here, leaving "no clear direction" motions with
       // nothing but a raw motion-text excerpt to explain them.
-      return `| ${ev.date} | ${itemLink} | ${tcell(ev.motionSnippet)} | ${tcell(ev.whatAYeaDid)} | ${theirVote} | ${tcell(ev.result)} |`;
+      return `| ${ev.date} | ${itemLink} | ${tcell(ev.motionSnippet)} | ${tcell(ev.whatAYeaDid)} | ${theirVote} | ${resultCell(ev.result, ev.resultNote)} |`;
     })
     .join("\n");
 
@@ -562,22 +581,26 @@ function renderIssueSection(issueSlug: string, issue: IssueStance): string {
   const onRoster =
     o.sampleSize + o.recused + o.absent + o.abstain + o.other + o.ladderExcluded;
 
-  // Fixed 2026-08-31 (round-5 gate BLOCKER item 1): every earlier version of
-  // this clause asserted something about committee MEMBERSHIP to explain a
-  // missing position — round-3 inferred it from other votes at the same
-  // meeting, round-4 from the meeting's present/remote_attendance/absent
-  // fields treated as a membership roster. Both were false claims: this
-  // repo has no membership source at all, so nothing below claims
-  // membership OR non-membership in either direction, for a committee or a
-  // Council meeting. It states only what the source data proves: named in
-  // that meeting's own `also_present` field (a non-voting observer — only
-  // committee members vote), or nothing else can be said (no recorded
-  // vote).
+  // Fixed 2026-08-31 (round-6 gate BLOCKER: the round-5 fix INVERTED this
+  // claim instead of eliminating it — "was on the roster for" / "attended
+  // as an observer (only committee members vote)" still asserted a status,
+  // just the opposite one). Every earlier version of this clause asserted
+  // something about committee MEMBERSHIP to explain a missing position —
+  // round-3 inferred it from other votes at the same meeting, round-4 from
+  // the meeting's present/remote_attendance/absent fields treated as a
+  // membership roster, round-5 kept the roster/observer framing and just
+  // flipped which side of it a given row landed on. This repo has no
+  // membership source at all, so nothing below uses the words "roster",
+  // "member", or "observer" in any form, and claims neither membership NOR
+  // non-membership in either direction, for a committee or a Council
+  // meeting. It states only what the source data proves: named in that
+  // meeting's own `also_present` field, or nothing else can be said (no
+  // recorded vote).
   const notOnRosterBits: string[] = [];
   if (issue.attendedAsObserver > 0) {
     const n = issue.attendedAsObserver;
     notOnRosterBits.push(
-      `${n} ${n === 1 ? "was a" : "were"} motion${n === 1 ? "" : "s"} at a meeting this councillor attended as an observer (only committee members vote)`,
+      `${n} ${n === 1 ? "was a" : "were"} motion${n === 1 ? "" : "s"} at a meeting where this councillor was listed as also present (no vote recorded)`,
     );
   }
   if (issue.noRecordedVote > 0) {
@@ -604,7 +627,7 @@ function renderIssueSection(issueSlug: string, issue: IssueStance): string {
 
   return `### [${issue.issueLabel}](/election/issues/${issueSlug})
 
-*Of the ${issue.divisionsInCorpus} divided votes on this issue since 2023 that had a clear direction, this councillor was on the roster for ${onRoster}: ${o.sampleSize} yea or nay, ${o.recused} recused, ${o.absent} absent${o.abstain || o.other ? `, ${o.abstain} abstained, ${o.other} other` : ""}${ladderClause}.${notOnRosterClause}*${caveat}
+*Of the ${issue.divisionsInCorpus} divided votes on this issue since 2023 that had a clear direction, this councillor has a recorded position on ${onRoster} of them: ${o.sampleSize} yea or nay, ${o.recused} recused, ${o.absent} absent${o.abstain || o.other ? `, ${o.abstain} abstained, ${o.other} other` : ""}${ladderClause}.${notOnRosterClause}*${caveat}
 
 ${axesMd}
 ${renderUnclearSection(issue)}`;
@@ -615,6 +638,7 @@ function generateCouncillorPage(
   c: CouncillorStance,
   ward: WardEntry | undefined,
   mayoralCandidates: MayoralCandidateEntry[],
+  methodology: string,
 ): string {
   const issueSlugs = Object.keys(c.issues).sort(
     (a, b) => c.issues[b].divisionsInCorpus - c.issues[a].divisionsInCorpus,
@@ -683,6 +707,10 @@ ${sections}
 ---
 
 *Sample sizes above count only votes where ${c.displayName} cast a yea or nay on a motion the verified per-motion classification (see [methodology](/election/issues)) could place on a clear "for"/"against" axis. A recusal means the councillor formally withdrew from discussing and voting on that item — this data does not record why, so no reason is asserted here — and, like an absence, is shown separately in each issue's summary line and never counted as a position.${mismatchNote} Only sitting councillors get a stance profile on this hub; challengers don't yet have a council voting record to summarize.*
+
+---
+
+*Methodology: ${tcell(methodology)}*
 `;
 }
 
@@ -728,7 +756,7 @@ function renderIssueVoteRow(v: IssueVote): string {
   const tallyCell = disagrees
     ? `${parsedTally} ⚠️ disagrees with minuted result`
     : parsedTally;
-  return `| ${v.date} | ${itemLink} | ${tcell(whatAYeaDid)} | ${tcell(tallyCell)} | ${tcell(v.result)} |`;
+  return `| ${v.date} | ${itemLink} | ${tcell(whatAYeaDid)} | ${tcell(tallyCell)} | ${resultCell(v.result, v.resultNote)} |`;
 }
 
 // hub-recheck verdict finding 12: issue pages had no disclaimer at all, and
@@ -793,6 +821,7 @@ function generateIssuesIndexPage(issues: IssuesFile): string {
 title: "Divided Votes by Issue — Election Lens"
 cssclasses:
   - election-hub
+  - hide-folder-listing
 prefillQuestions: []
 ---
 
@@ -856,7 +885,7 @@ Sources: [Ontario, Strong Mayors, Building Homes Act, 2022, S.O. 2022, c. 18 (Ca
 
 Source: [City of London, By-Laws](https://london.ca/by-laws)
 
-**Transit.** London's bus system is operated by the London Transit Commission, a seven-member body appointed by council (including sitting councillors) under a by-law made under the City of London Act. Council does not make day-to-day transit decisions, but it appoints the Commission, approves its budget and sets the broader policy direction the LTC works within.
+**Transit.** London's bus system is operated by the London Transit Commission, a seven-person board appointed by council (including sitting councillors) under a by-law made under the City of London Act. Council does not make day-to-day transit decisions, but it appoints the Commission, approves its budget and sets the broader policy direction the LTC works within.
 
 Source: [London Transit Commission, Commission Information](https://www.londontransit.ca/commission-information/)
 
@@ -888,7 +917,7 @@ Sources: [Government of Canada, Canada Health Act Annual Report](https://www.can
 
 Source: [Ontario, Responsibility for Publicly Funded Elementary and Secondary Education](https://www.ontario.ca/page/responsibility-publicly-funded-elementary-and-secondary-education)
 
-**Planning appeals.** Even a council zoning decision is not necessarily final. The Ontario Land Tribunal, a provincial adjudicative body, hears appeals from applicants or members of the public and has the power to overturn or amend a zoning by-law or official plan amendment that council has already passed.
+**Planning appeals.** Even a council zoning decision is not necessarily final. The Ontario Land Tribunal, a provincial adjudicative body, hears appeals from applicants or the public and has the power to overturn or amend a zoning by-law or official plan amendment that council has already passed.
 
 Sources: [Ontario, Citizen's Guide to Land Use Planning: The Ontario Land Tribunal](https://www.ontario.ca/document/citizens-guide-land-use-planning/ontario-land-tribunal) · [Ontario Land Tribunal, Appeal Guide 2023](https://olt.gov.on.ca/wp-content/uploads/2023/02/Appeal_Guide_2023.pdf)
 
@@ -1169,6 +1198,7 @@ function generateCouncillorsIndexPage(stances: StancesFile): string {
 title: "Councillor Stance Profiles — Election Lens"
 cssclasses:
   - election-hub
+  - hide-folder-listing
 prefillQuestions: []
 ---
 
@@ -1259,7 +1289,13 @@ async function main() {
   for (const [slug, c] of Object.entries(stances.councillors)) {
     await writeFile(
       path.join(CONTENT_DIR, "councillors", `${slug}.md`),
-      generateCouncillorPage(slug, c, wardBySlug.get(slug), mayoralCandidates),
+      generateCouncillorPage(
+        slug,
+        c,
+        wardBySlug.get(slug),
+        mayoralCandidates,
+        stances.methodology,
+      ),
     );
   }
   console.log(
