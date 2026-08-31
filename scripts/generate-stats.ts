@@ -316,7 +316,13 @@ async function main() {
         const content = await fs.readFile(filePath, "utf-8")
         const meeting: Meeting = JSON.parse(content)
 
-        if (!meeting.present && !meeting.absent) continue
+        // present:[] / absent:[] on a not-yet-published placeholder meeting
+        // are truthy empty arrays, so the old `!meeting.present &&
+        // !meeting.absent` guard let placeholders through and inflated the
+        // totalMeetings counter below (console.log only - no written output
+        // is affected, since per-councillor attendance requires a name to
+        // literally appear in one of these arrays).
+        if (!meeting.present?.length && !meeting.absent?.length) continue
 
         // Parse meeting date
         const meetingDate = new Date(meeting.datetime.split(" ")[0])
