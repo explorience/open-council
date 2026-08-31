@@ -204,14 +204,25 @@ function getISODate(date: string | Date): string {
 }
 
 // Extract committee from title
-function extractCommittee(title: string): { name: string; slug: string } | null {
+export function extractCommittee(title: string): { name: string; slug: string } | null {
   const lowerTitle = title.toLowerCase()
 
-  // Try to match known committees
+  // Try to match known committees. Pick the LONGEST matching pattern, not the
+  // first one in object-insertion order: several patterns are substrings of
+  // others (e.g. "corporate services" is a substring of "infrastructure and
+  // corporate services"), so a first-match loop silently misfiles the more
+  // specific committee under the shorter one. See COMMITTEE_MAPPINGS key
+  // ordering bug (flagged 22 Aug 2026, never fixed until this change).
+  let bestMatch: { name: string; slug: string } | null = null
+  let bestMatchLength = -1
   for (const [pattern, committee] of Object.entries(COMMITTEE_MAPPINGS)) {
-    if (lowerTitle.includes(pattern)) {
-      return committee
+    if (lowerTitle.includes(pattern) && pattern.length > bestMatchLength) {
+      bestMatch = committee
+      bestMatchLength = pattern.length
     }
+  }
+  if (bestMatch) {
+    return bestMatch
   }
 
   // Fallback: try to extract from "Meeting of the X Committee" pattern
@@ -860,4 +871,9 @@ async function main() {
   console.log(`   Councillor pages: ${currentCount} current, ${formerCount} former`)
 }
 
-main().catch(console.error)
+// Guard so this module can be imported (e.g. by generate-pages.test.ts) to
+// exercise pure functions like extractCommittee() without triggering a full
+// page-generation run as a side effect of the import.
+if (import.meta.url === `file://${process.argv[1]}`) {
+  main().catch(console.error)
+}

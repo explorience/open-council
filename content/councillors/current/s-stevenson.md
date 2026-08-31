@@ -210,13 +210,14 @@ Voted **Nay** - Motion Passed (10 to 2)
 
 ## Committees Served
 
-- [Corporate Services Committee](/committees/corporate-services)
+- [Infrastructure and Corporate Services Committee](/committees/infrastructure-corporate-services)
 - [Planning and Environment Committee](/committees/planning-environment)
 - [City Council](/committees/city-council)
 - [Audit Committee](/committees/audit)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [Budget Committee](/committees/budget)
+- [Corporate Services Committee](/committees/corporate-services)
 - [Community Protective Services Committee](/committees/community-protective-services-committee)
 
 ## Recent Meetings (221 total)

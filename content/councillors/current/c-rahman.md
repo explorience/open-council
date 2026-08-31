@@ -209,11 +209,12 @@ Voted **Nay** - Motion Passed (9 to 4)
 
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [City Council](/committees/city-council)
-- [Corporate Services Committee](/committees/corporate-services)
+- [Infrastructure and Corporate Services Committee](/committees/infrastructure-corporate-services)
 - [Planning and Environment Committee](/committees/planning-environment)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Budget Committee](/committees/budget)
 - [Audit Committee](/committees/audit)
+- [Corporate Services Committee](/committees/corporate-services)
 - [Civic Works Committee](/committees/civic-works)
 - [Community Protective Services Committee](/committees/community-protective-services-committee)
 

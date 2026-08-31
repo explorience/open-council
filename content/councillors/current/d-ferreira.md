@@ -209,10 +209,11 @@ Voted **Yea** - Motion Failed (9 to 4)
 - [City Council](/committees/city-council)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Planning and Environment Committee](/committees/planning-environment)
-- [Corporate Services Committee](/committees/corporate-services)
+- [Infrastructure and Corporate Services Committee](/committees/infrastructure-corporate-services)
 - [Budget Committee](/committees/budget)
 - [Civic Works Committee](/committees/civic-works)
 - [Community Protective Services Committee](/committees/community-protective-services-committee)
+- [Corporate Services Committee](/committees/corporate-services)
 
 ## Recent Meetings (240 total)
 

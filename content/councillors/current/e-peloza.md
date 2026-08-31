@@ -207,7 +207,7 @@ Voted **Nay** - Motion Passed (4 to 1)
 
 ## Committees Served
 
-- [Corporate Services Committee](/committees/corporate-services)
+- [Infrastructure and Corporate Services Committee](/committees/infrastructure-corporate-services)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [City Council](/committees/city-council)
 - [Audit Committee](/committees/audit)
@@ -215,6 +215,7 @@ Voted **Nay** - Motion Passed (4 to 1)
 - [Planning and Environment Committee](/committees/planning-environment)
 - [Budget Committee](/committees/budget)
 - [Civic Works Committee](/committees/civic-works)
+- [Corporate Services Committee](/committees/corporate-services)
 - [Community Protective Services Committee](/committees/community-protective-services-committee)
 
 ## Recent Meetings (486 total)

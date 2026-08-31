@@ -206,11 +206,12 @@ Voted **Yea** - Motion Failed (6 to 9)
 
 ## Committees Served
 
-- [Corporate Services Committee](/committees/corporate-services)
+- [Infrastructure and Corporate Services Committee](/committees/infrastructure-corporate-services)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [City Council](/committees/city-council)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Budget Committee](/committees/budget)
+- [Corporate Services Committee](/committees/corporate-services)
 - [Civic Works Committee](/committees/civic-works)
 
 ## Recent Meetings (235 total)

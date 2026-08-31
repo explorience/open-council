@@ -2,7 +2,7 @@
 title: "City Council"
 type: committee
 slug: "city-council"
-meetingCount: 183
+meetingCount: 185
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -23,5 +23,5 @@ prefillQuestions:
 - [4th Council Meeting](</months/2026-03/2026-03-03 4th Council Meeting>) - Tue Mar 3 2026
 
 
-[View all 183 meetings →](#)
+[View all 185 meetings →](#)
 

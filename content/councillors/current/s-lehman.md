@@ -208,6 +208,7 @@ Voted **Nay** - Motion Passed (8 to 7)
 - [City Council](/committees/city-council)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Budget Committee](/committees/budget)
+- [Infrastructure and Corporate Services Committee](/committees/infrastructure-corporate-services)
 - [Corporate Services Committee](/committees/corporate-services)
 - [Civic Works Committee](/committees/civic-works)
 

@@ -210,11 +210,12 @@ Voted **Nay** - Motion Passed (13 to 1)
 
 ## Committees Served
 
-- [Corporate Services Committee](/committees/corporate-services)
+- [Infrastructure and Corporate Services Committee](/committees/infrastructure-corporate-services)
 - [City Council](/committees/city-council)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Planning and Environment Committee](/committees/planning-environment)
 - [Budget Committee](/committees/budget)
+- [Corporate Services Committee](/committees/corporate-services)
 - [Civic Works Committee](/committees/civic-works)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 
