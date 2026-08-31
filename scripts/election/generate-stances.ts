@@ -142,7 +142,7 @@ function loadVerifiedClassifications(): Map<string, VerifiedEntry> {
   if (!fs.existsSync(CLASSIFY_DIR)) return map;
   const files = fs
     .readdirSync(CLASSIFY_DIR)
-    .filter((f) => /^batch-\d+-verified\.json$/.test(f));
+    .filter((f) => /^batch-(\d+|returning)-verified\.json$/.test(f));
   for (const f of files) {
     const entries: VerifiedEntry[] = JSON.parse(
       fs.readFileSync(path.join(CLASSIFY_DIR, f), "utf-8"),
@@ -900,13 +900,29 @@ function motionSnippet(motionText: string): string {
 // opposed the one actually on the table. Never claims a vote count/action
 // this data doesn't support (P1); a corpus-wide-zero side is described
 // honestly (P2) in buildPattern below, not implied here by a phantom label.
+// Fixed 2026-08-31 (round-5 gate item 4): a yea on a motion that FAILED was
+// rendered with the bare enactment-style label ("increased the police
+// budget or complement") exactly as if it had passed — 362 rows across the
+// corpus read as if the councillor's yea directly did the thing, when the
+// motion never took effect. The nay clause was already hedged ("opposed a
+// measure that would have ..."); a yea on a failed motion needs the mirror
+// hedge ("backed a measure that would have ..."), since supporting
+// something that didn't pass is not the same claim as having enacted it. A
+// yea on a motion that PASSED keeps the unhedged label — it genuinely did
+// enact that outcome.
+function isFailedMotion(result: string): boolean {
+  return /\bfailed\b/i.test(result);
+}
+
 function movedTowardText(
   vote: VoteKind | "n/a",
   d: Direction | null,
+  result: string,
 ): string | null {
   if (!d || (vote !== "yea" && vote !== "nay")) return null;
   const ownLabel = d.valence === 1 ? d.axisLabels.expansive : d.axisLabels.restrictive;
-  return vote === "yea" ? ownLabel : `opposed a measure that would have ${ownLabel}`;
+  if (vote === "nay") return `opposed a measure that would have ${ownLabel}`;
+  return isFailedMotion(result) ? `backed a measure that would have ${ownLabel}` : ownLabel;
 }
 
 /** Fixed 2026-08-31 (round-4 gate item 4): whether a yea/nay vote counted
@@ -961,7 +977,7 @@ function evidenceEntry(c: ClassifiedMotion, theirVote: VoteKind | "n/a") {
     // bare "unclear"), so it's used whenever present; only a motion with
     // truly no verified description at all falls back to the placeholder.
     whatAYeaDid: c.direction.label || "unclear",
-    movedToward: movedTowardText(theirVote, d),
+    movedToward: movedTowardText(theirVote, d, m.result),
   };
 }
 
@@ -1328,38 +1344,40 @@ function groupIntoDecisions<T extends { itemTitle: string; date: string }>(
 
 /** Raw meeting-record roster, keyed by canonical councillor name (the
  * registry key form, e.g. "S. Franke" — the same form
- * normalizeCouncillorName() resolves present/remote_attendance/absent/
- * also_present entries to, so it can be compared directly against
- * CouncillorMeta.canonicalName). */
+ * normalizeCouncillorName() resolves also_present entries to, so it can be
+ * compared directly against CouncillorMeta.canonicalName). */
 interface MeetingRoster {
-  /** Present, remote_attendance, OR absent — a councillor in ANY of these
-   * fields was a MEMBER of that committee that day (this is the actual
-   * membership roster the meeting recorded; also_present is non-member
-   * observers, not members). */
-  members: Set<string>;
-  /** Subset of members who were specifically in the meeting's own `absent`
-   * field — a member who missed the whole meeting, not a data gap. */
-  absentMembers: Set<string>;
+  /** Names in this meeting's own `also_present` field — the ONE thing the
+   * raw meeting record actually distinguishes: someone who sat in on the
+   * meeting without being counted among the body that voted. It is not a
+   * membership roster (see the round-5 fix note below) — it is only proof
+   * that this specific person was physically at this specific meeting as a
+   * non-voting observer. */
+  alsoPresent: Set<string>;
 }
 
 const meetingRosterCache = new Map<string, MeetingRoster | null>();
 
-/** Fixed 2026-08-31 (round-4 gate BLOCKER item 1): buildMeetingAttendance
- * above (removed) inferred committee membership from per-motion vote-kind
- * buckets — a councillor with no recorded vote ANYWHERE at a meeting read
- * as "not a member", even when the raw meeting JSON's own roster fields
- * (present / remote_attendance / absent) named them as a member who simply
- * has no captured vote on that one motion, or was absent that whole
- * meeting. Confirmed false on 49 of 662 "not a member of that committee"
- * claims (e.g. 2025-12-02 PEC: E. Peloza in remote_attendance; 2023-11-13
- * PEC: J. Morgan in absent) — spot-checked against the actual scraped
- * meeting file, not the vote buckets. This reads the roster fields
- * directly from the raw meeting JSON (data/<meetingSlug minus "months/">
- * .json — same file the scraper itself produced) instead. also_present is
- * deliberately excluded from `members`: those are named staff/guests/other
- * councillors sitting in on a committee they don't belong to, and folding
- * them in would recreate a milder version of the same false-membership
- * defect in the other direction. */
+/** Fixed 2026-08-31 (round-5 gate BLOCKER item 1): every prior version of
+ * this function tried to derive committee MEMBERSHIP — first from
+ * per-motion vote-kind buckets, then (round-4) from the meeting's own
+ * present/remote_attendance/absent fields treated as "the actual
+ * membership roster". Both were false claims: this repo has NO membership
+ * source at all. present/remote_attendance/absent record who attended that
+ * DAY, not who sits on the committee — a non-member delegate or a
+ * councillor sitting in on a colleague's committee can appear in
+ * present/remote_attendance too, and the round-4 version asserted "is not a
+ * member of" or "is a member of" on the strength of that attendance list
+ * regardless. Confirmed false on 267 of the resulting membership claims
+ * (round-5 audit). The claim class is eliminated, not patched: this
+ * function no longer asserts membership in either direction. It reads only
+ * `also_present` — the one field the source data actually uses to mark
+ * someone as sitting in without being part of the voting body — from the
+ * raw meeting JSON (data/<meetingSlug minus "months/">.json, the same file
+ * the scraper itself produced). Every caller now reports only what this
+ * proves: named in also_present -> attended as a non-voting observer;
+ * otherwise -> no recorded vote at this meeting, full stop, no membership
+ * inference either way. */
 function loadMeetingRoster(meetingSlug: string): MeetingRoster | null {
   if (meetingRosterCache.has(meetingSlug)) {
     return meetingRosterCache.get(meetingSlug)!;
@@ -1372,23 +1390,12 @@ function loadMeetingRoster(meetingSlug: string): MeetingRoster | null {
   let roster: MeetingRoster | null = null;
   try {
     const raw = JSON.parse(fs.readFileSync(filePath, "utf-8"));
-    const members = new Set<string>();
-    const absentMembers = new Set<string>();
-    for (const name of [
-      ...(raw.present ?? []),
-      ...(raw.remote_attendance ?? []),
-    ]) {
+    const alsoPresent = new Set<string>();
+    for (const name of raw.also_present ?? []) {
       const canonical = normalizeCouncillorName(name);
-      if (canonical) members.add(canonical);
+      if (canonical) alsoPresent.add(canonical);
     }
-    for (const name of raw.absent ?? []) {
-      const canonical = normalizeCouncillorName(name);
-      if (canonical) {
-        members.add(canonical);
-        absentMembers.add(canonical);
-      }
-    }
-    roster = { members, absentMembers };
+    roster = { alsoPresent };
   } catch {
     roster = null; // file missing/unparseable — caller falls back honestly
   }
@@ -1461,68 +1468,38 @@ function writeStancesFile(
 
       // Group this councillor's direction-bearing motions on this issue by axis.
       const axisMap = new Map<string, AxisAgg>();
-      // Split "not on the roster" by meeting type (hub-recheck verdict
-      // finding 6): "committee vote this councillor was not a member of" is
-      // only honest for a COMMITTEE meeting — all 15 councillors are
-      // members of Council itself, so a Council motion missing a
-      // councillor from every vote-kind bucket is a data gap in the
-      // scraped record, not a non-membership fact. Spot-check (2026-08-31):
-      // c699eb9cc94f, a City Council motion, is one of several where the
-      // old single "not a member" wording was flatly false.
-      //
-      // Fixed 2026-08-31 (hub-recheck round-3 gate BLOCKER, P3): the
-      // committee bucket had the SAME defect council motions used to have —
-      // "not a member of that committee" was asserted for every committee
-      // motion missing this councillor, with no check for whether they were
-      // demonstrably on that committee's roster (voted on something else at
-      // the SAME meeting). Confirmed false on Josh Morgan's page: he appears
-      // in a vote-kind bucket on other PEC motions at meetings where he was
-      // also reported "not a member" of PEC.
-      //
-      // Fixed 2026-08-31 (round-4 gate BLOCKER item 1): the P3 fix above
-      // still only checked whether the councillor had a vote recorded on
-      // SOME OTHER motion at the same meeting — a per-motion-vote-bucket
-      // proxy for membership, not membership itself. That proxy is still
-      // wrong whenever a genuine committee member simply cast no recorded
-      // vote at all that meeting: it wrongly asserted "not a member" for 49
-      // of the 662 cases (e.g. a member in remote_attendance who happened
-      // to have no OTHER motion at that meeting either, or a member the
-      // meeting's own `absent` field names as absent for the whole thing).
-      // Membership is now read directly from the raw meeting record's own
-      // roster fields (present / remote_attendance / absent — see
-      // loadMeetingRoster) rather than inferred from vote buckets:
-      //   - notOnRosterCommittee: councillor appears in NONE of that
-      //     meeting's roster fields at all (present, remote_attendance,
-      //     absent, or also_present) — real evidence of non-membership.
-      //   - memberAbsentCommittee: the meeting's own `absent` field names
-      //     them — a committee member, recorded absent for the whole
-      //     meeting, so no individual vote exists on ANY of that meeting's
-      //     motions (honest: "member, but absent that day", never "not a
-      //     member").
-      //   - notOnRosterCommitteeMeetingGap: they're in present or
-      //     remote_attendance (a member who attended) but this specific
-      //     motion's individual position wasn't captured — a genuine data
-      //     gap for this one motion, not evidence of non-membership.
-      let notOnRosterCommittee = 0;
-      let memberAbsentCommittee = 0;
-      let notOnRosterCommitteeMeetingGap = 0;
-      let notOnRosterCouncilGap = 0;
+      // Fixed 2026-08-31 (round-5 gate BLOCKER item 1): every earlier
+      // version of this block tried to explain a missing position by
+      // asserting something about committee MEMBERSHIP — first inferred
+      // from per-motion vote-kind buckets (round-3), then from the meeting's
+      // present/remote_attendance/absent fields treated as a membership
+      // roster (round-4). Both were false claims, because this repo has NO
+      // membership source: attendance fields record who was in the room
+      // that day, not who sits on the committee. The round-4 version alone
+      // produced 267 confirmed-false membership assertions (round-5 audit).
+      // The claim class is eliminated, not patched again: nothing below
+      // asserts membership, absence-as-a-member, or non-membership in
+      // either direction, for a committee OR a Council meeting. It reports
+      // only the two things the source data actually proves for a missing
+      // position:
+      //   - attendedAsObserver: this meeting's own `also_present` field
+      //     names the councillor — they were physically there but not part
+      //     of the body whose votes get recorded (only committee members
+      //     vote).
+      //   - noRecordedVote: everything else — no claim about why, just that
+      //     no vote for this person exists on this motion in the source
+      //     data.
+      let attendedAsObserver = 0;
+      let noRecordedVote = 0;
 
       for (const c of directionBearing) {
         const vote = c.positions[councillor.slug];
         if (vote === undefined) {
-          // not on the roster for this motion — not applicable, not absent
-          if (c.motion.meetingType === "Council") {
-            notOnRosterCouncilGap++;
+          const roster = loadMeetingRoster(c.motion.meetingSlug);
+          if (roster?.alsoPresent.has(councillor.canonicalName)) {
+            attendedAsObserver++;
           } else {
-            const roster = loadMeetingRoster(c.motion.meetingSlug);
-            if (roster?.absentMembers.has(councillor.canonicalName)) {
-              memberAbsentCommittee++;
-            } else if (roster?.members.has(councillor.canonicalName)) {
-              notOnRosterCommitteeMeetingGap++;
-            } else {
-              notOnRosterCommittee++;
-            }
+            noRecordedVote++;
           }
           continue;
         }
@@ -1776,11 +1753,7 @@ function writeStancesFile(
         },
       );
 
-      const notOnRoster =
-        notOnRosterCommittee +
-        memberAbsentCommittee +
-        notOnRosterCommitteeMeetingGap +
-        notOnRosterCouncilGap;
+      const notOnRoster = attendedAsObserver + noRecordedVote;
 
       issuesOut[issueId] = {
         issueLabel: ISSUES[issueId].label,
@@ -1795,16 +1768,11 @@ function writeStancesFile(
         // above, added round-4 gate item 4).
         divisionsInCorpus: directionBearing.length,
         notOnRoster,
-        // Split for honest wording (see the comments above the counters
-        // above): committee non-membership vs. a member absent that whole
-        // meeting vs. a same-meeting committee data gap vs. a Council-meeting
-        // data gap — all four now derived from the raw meeting record's own
-        // roster fields, not from per-motion vote buckets (round-4 gate
-        // BLOCKER item 1).
-        notOnRosterCommittee,
-        memberAbsentCommittee,
-        notOnRosterCommitteeMeetingGap,
-        notOnRosterCouncilGap,
+        // Round-5 gate BLOCKER item 1: no membership claim in either
+        // direction — see the comment above attendedAsObserver/
+        // noRecordedVote. attendedAsObserver + noRecordedVote === notOnRoster.
+        attendedAsObserver,
+        noRecordedVote,
         overall,
         axes,
         // Unclear-direction motions on this issue this councillor actually
@@ -1839,7 +1807,7 @@ function writeStancesFile(
     sourceGeneratedAt: allMotionsRaw.generatedAt,
     cutoffDate: CUTOFF_DATE,
     methodology:
-      "Per councillor per issue per axis: 'for' = their vote aligned with the axis's expansive/permissive outcome, 'against' = aligned with its restrictive outcome — but the rendered pattern sentence never collapses a nay into the language of an enacted action (see movedTowardText/buildPattern in generate-stances.ts): a nay on an expansive motion is described as opposing that motion, never as having performed the restrictive act, and vice versa. When an axis's WHOLE corpus since 2023 only ever contains motions of one polarity, the pattern sentence says so plainly instead of reporting a silent '0' on the missing side. Axis and polarity for every motion come from data/election/classify/batch-*-verified.json (a per-motion classification independently verified against each motion's own complete text in the source meeting record), with a small, published corrections layer (data/election/classify/corrections.json) applied on top for specific defects found after verification — never a silent edit to the verified batches. This is a genuine translation of what the clause did, not raw yea/nay, on every axis including the generic 'approved/denied the item' fallback used when no issue-specific content axis applies. Recusals and absences are counted separately, never folded into 'against' and never inferred as a position. Below 5 DISTINCT DECISIONS on an axis (committee and council votes on the same policy decision, identified by matching agenda-item title or business-case number within 60 days, count as one decision — not one per meeting stage), no pattern sentence is asserted; the individual votes are still shown. Motions the classify pipeline confirmed but left with no clear direction (a referral, an informational ask, or a corrections.json downgrade) are listed per issue as 'unclear' evidence — never counted in any pattern or sample size, but not hidden either. A councillor with no entry for a motion was not on that meeting's roster — for a Council meeting (where all 15 members sit) it means the source data has a gap for that person on that motion; for a committee meeting, membership is read from the raw meeting record's own roster fields (present / remote_attendance / absent — never from per-motion vote buckets), and means one of: genuine non-membership (they appear in none of that meeting's roster fields), a member the meeting's own `absent` field names as absent for the whole meeting (no vote possible on anything that day), or a member who attended (present/remote_attendance) but this one motion's individual position wasn't captured — a data gap for that motion only (see notOnRosterCommittee vs. memberAbsentCommittee vs. notOnRosterCommitteeMeetingGap vs. notOnRosterCouncilGap on each issue). Motions whose own minuted result disagrees with its parsed vote arrays, or that the classify pipeline flagged not a genuine division, are excluded entirely before any of this — see result-mismatches.json, not-divided.json, and each councillor's resultMismatchesExcluding count.",
+      "Per councillor per issue per axis: 'for' = their vote aligned with the axis's expansive/permissive outcome, 'against' = aligned with its restrictive outcome — but the rendered pattern sentence never collapses a nay into the language of an enacted action (see movedTowardText/buildPattern in generate-stances.ts): a nay on an expansive motion is described as opposing that motion, never as having performed the restrictive act, and vice versa. When an axis's WHOLE corpus since 2023 only ever contains motions of one polarity, the pattern sentence says so plainly instead of reporting a silent '0' on the missing side. Axis and polarity for every motion come from data/election/classify/batch-*-verified.json (a per-motion classification independently verified against each motion's own complete text in the source meeting record), with a small, published corrections layer (data/election/classify/corrections.json) applied on top for specific defects found after verification — never a silent edit to the verified batches. This is a genuine translation of what the clause did, not raw yea/nay, on every axis including the generic 'approved/denied the item' fallback used when no issue-specific content axis applies. Recusals and absences are counted separately, never folded into 'against' and never inferred as a position. Below 5 DISTINCT DECISIONS on an axis (committee and council votes on the same policy decision, identified by matching agenda-item title or business-case number within 60 days, count as one decision — not one per meeting stage), no pattern sentence is asserted; the individual votes are still shown. Motions the classify pipeline confirmed but left with no clear direction (a referral, an informational ask, or a corrections.json downgrade) are listed per issue as 'unclear' evidence — never counted in any pattern or sample size, but not hidden either. A councillor with no entry for a motion has no recorded vote for them on that motion in the source data — this hub makes NO membership claim about why, in either direction, because no membership source exists anywhere in this repo (committee rosters are not scraped; a meeting's present/remote_attendance/absent fields record who attended that day, not who belongs to the body). Two things are reported, both read directly from the raw meeting record and nothing else: attendedAsObserver (the meeting's own `also_present` field names this councillor — they were in the room but not part of the voting body that day; only committee members vote) and noRecordedVote (everything else — no vote captured, no claim made about why). Motions whose own minuted result disagrees with its parsed vote arrays, or that the classify pipeline flagged not a genuine division, are excluded entirely before any of this — see result-mismatches.json, not-divided.json, and each councillor's resultMismatchesExcluding count.",
     councillors: councillorsOut,
   };
 

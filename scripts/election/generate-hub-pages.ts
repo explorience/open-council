@@ -148,10 +148,10 @@ interface IssueStance {
   issueLabel: string;
   divisionsInCorpus: number;
   notOnRoster: number;
-  notOnRosterCommittee: number;
-  memberAbsentCommittee: number;
-  notOnRosterCommitteeMeetingGap: number;
-  notOnRosterCouncilGap: number;
+  // Round-5 gate BLOCKER item 1: no membership claim in either direction —
+  // see generate-stances.ts's attendedAsObserver/noRecordedVote comment.
+  attendedAsObserver: number;
+  noRecordedVote: number;
   overall: {
     sampleSize: number;
     for: number;
@@ -215,9 +215,34 @@ interface WardsFile {
 // Small helpers
 // ---------------------------------------------------------------------------
 
+/** Fixed 2026-08-31 (round-5 gate item 5): a bare `#` immediately followed
+ * by a word character (as in "Business Case #P-5", which appears verbatim
+ * in source agenda-item titles and motion quotes throughout the corpus)
+ * reads to Quartz's Obsidian-tag plugin as the start of an inline tag, not
+ * literal punctuation — turning "#P-5" into a spurious /tags/p-5 link and,
+ * in at least one row (motion f2f57f834998's whatAYeaDid), corrupting the
+ * rest of the cell's rendering around it. Confirmed 2,305 such tag
+ * artifacts across 20 generated pages.
+ *
+ * A literal backslash-escape (`\#`) does NOT fix this: Quartz's tag plugin
+ * (quartz/plugins/transformers/ofm.ts, tagRegex + mdastFindReplace) runs on
+ * the parsed mdast TEXT nodes, not the raw markdown source — remark's own
+ * parser already resolves `\#` to a plain `#` character before the tag
+ * plugin ever sees it, so an escaped hash is exactly as vulnerable as a bare
+ * one. The only real fix is to not put the character there: any `#`
+ * followed by a word character is rewritten to the words "No. " (so
+ * "Business Case #P-5" reads "Business Case No. P-5"), never left as a
+ * hash. */
+function stripHashTagRisk(s: string): string {
+  return s.replace(/#(?=\w)/g, "No. ").replace(/ {2,}/g, " ");
+}
+
 /** Escape a string for safe use inside a markdown table cell. */
 function tcell(s: string): string {
-  return s.replace(/\|/g, "\\|").replace(/\r?\n/g, " ").trim();
+  return stripHashTagRisk(s)
+    .replace(/\|/g, "\\|")
+    .replace(/\r?\n/g, " ")
+    .trim();
 }
 
 /** Link to an internal page whose path may contain spaces/parens (meeting
@@ -537,61 +562,28 @@ function renderIssueSection(issueSlug: string, issue: IssueStance): string {
   const onRoster =
     o.sampleSize + o.recused + o.absent + o.abstain + o.other + o.ladderExcluded;
 
-  // Fixed 2026-08-31 (hub-recheck verdict finding 6): "committee votes this
-  // councillor was not a member of" is only true for a COMMITTEE meeting —
-  // all 15 councillors sit on Council itself, so a Council motion missing
-  // someone from every vote-kind bucket is a gap in the scraped record, not
-  // a non-membership fact (spot-check: c699eb9cc94f, a City Council motion,
-  // is one of several where the old single wording was flatly false).
-  // Fixed 2026-08-31 (round-2 finding S2, then MINOR grammar sweep round 3):
-  // "1 was a committee motion this councillor was not a member of that
-  // committee" doesn't parse as English — rewritten as "N was/were committee
-  // motion(s) at a committee/committees this councillor is not a member of",
-  // which reads correctly at both N=1 and N>1.
-  // Fixed 2026-08-31 (hub-recheck round-3 gate BLOCKER, P3): the committee
-  // bucket used to assert non-membership for EVERY motion missing this
-  // councillor, even when they demonstrably voted at that same meeting on
-  // something else (confirmed false on Josh Morgan's PEC motions). Split
-  // into notOnRosterCommittee (genuine: absent from that whole meeting's
-  // roster) and notOnRosterCommitteeMeetingGap (data gap for this one
-  // motion only).
-  //
-  // Fixed 2026-08-31 (round-4 gate BLOCKER item 1): the P3 split above was
-  // itself still built from per-motion vote buckets ("voted on other
-  // business at the same meeting" as a proxy for membership), which was
-  // false for any member who cast no OTHER recorded vote that meeting
-  // either — confirmed false on 49 of 662 cases. All three buckets are now
-  // computed in generate-stances.ts directly from the raw meeting record's
-  // roster fields (present/remote_attendance/absent), with a new
-  // memberAbsentCommittee bucket for a member the meeting's own `absent`
-  // field names (no vote possible on anything that meeting — honest,
-  // not "not a member").
+  // Fixed 2026-08-31 (round-5 gate BLOCKER item 1): every earlier version of
+  // this clause asserted something about committee MEMBERSHIP to explain a
+  // missing position — round-3 inferred it from other votes at the same
+  // meeting, round-4 from the meeting's present/remote_attendance/absent
+  // fields treated as a membership roster. Both were false claims: this
+  // repo has no membership source at all, so nothing below claims
+  // membership OR non-membership in either direction, for a committee or a
+  // Council meeting. It states only what the source data proves: named in
+  // that meeting's own `also_present` field (a non-voting observer — only
+  // committee members vote), or nothing else can be said (no recorded
+  // vote).
   const notOnRosterBits: string[] = [];
-  if (issue.notOnRosterCommittee > 0) {
-    const n = issue.notOnRosterCommittee;
+  if (issue.attendedAsObserver > 0) {
+    const n = issue.attendedAsObserver;
     notOnRosterBits.push(
-      `${n} ${n === 1 ? "was a" : "were"} committee motion${n === 1 ? "" : "s"} at ${n === 1 ? "a committee" : "committees"} this councillor is not a member of`,
+      `${n} ${n === 1 ? "was a" : "were"} motion${n === 1 ? "" : "s"} at a meeting this councillor attended as an observer (only committee members vote)`,
     );
   }
-  if (issue.memberAbsentCommittee > 0) {
-    const n = issue.memberAbsentCommittee;
+  if (issue.noRecordedVote > 0) {
+    const n = issue.noRecordedVote;
     notOnRosterBits.push(
-      `${n} ${n === 1 ? "was a" : "were"} committee motion${n === 1 ? "" : "s"} where this councillor is a member of that committee but the meeting's own attendance record has them absent for the whole meeting, so no individual vote exists`,
-    );
-  }
-  if (issue.notOnRosterCommitteeMeetingGap > 0) {
-    const n = issue.notOnRosterCommitteeMeetingGap;
-    notOnRosterBits.push(
-      `${n} ${n === 1 ? "was a" : "were"} committee motion${n === 1 ? "" : "s"} where this councillor is a member of that committee and attended the meeting, but this specific motion's individual position wasn't captured in the source data (a data gap for this motion, not evidence they weren't on that committee)`,
-    );
-  }
-  if (issue.notOnRosterCouncilGap > 0) {
-    const word =
-      issue.notOnRosterCouncilGap === 1
-        ? "a Council motion"
-        : "Council motions";
-    notOnRosterBits.push(
-      `${issue.notOnRosterCouncilGap} ${issue.notOnRosterCouncilGap === 1 ? "was" : "were"} ${word} where this councillor's individual position wasn't captured in the source data (a data gap — all 15 members sit on Council)`,
+      `${n} ${n === 1 ? "was a" : "were"} motion${n === 1 ? "" : "s"} with no recorded vote for this councillor at that meeting`,
     );
   }
   const notOnRosterClause = notOnRosterBits.length

@@ -25,33 +25,48 @@ corrections = json.load(open("data/election/classify/corrections.json"))
 all_motions = {m["id"]: m for m in json.load(open("data/votes/_all-motions.json"))["motions"]}
 
 # ---------------------------------------------------------------------------
-print("=== Item 1: committee-membership roster-based check ===")
-tot = {"notOnRosterCommittee": 0, "memberAbsentCommittee": 0, "notOnRosterCommitteeMeetingGap": 0, "notOnRosterCouncilGap": 0}
+# Round-5 gate BLOCKER item 1 superseded this check's whole premise: the
+# round-4 four-bucket roster split (notOnRosterCommittee/memberAbsentCommittee/
+# notOnRosterCommitteeMeetingGap/notOnRosterCouncilGap) was ITSELF a false
+# membership claim (267 confirmed-false cases) -- there is no membership
+# source in this repo, so nothing computes "is/isn't a member" anymore. The
+# fields no longer exist in stances.json; this section now checks the
+# REPLACEMENT (attendedAsObserver/noRecordedVote, from also_present only) for
+# internal consistency instead. See verify-round5-items.py for the sweep that
+# proves zero membership assertions remain in the rendered content.
+print("=== Item 1: membership-claim elimination (round-5 replacement) ===")
+tot = {"attendedAsObserver": 0, "noRecordedVote": 0}
 for slug, c in stances["councillors"].items():
     for issId, issue in c["issues"].items():
         for k in tot:
             tot[k] += issue.get(k, 0)
 print("bucket counts:", tot)
 check(
-    "no motion is double-counted across the four not-on-roster buckets (sum matches per-issue notOnRoster)",
+    "old round-4 membership-claim fields (notOnRosterCommittee etc.) are gone from stances.json",
     all(
-        issue["notOnRosterCommittee"] + issue["memberAbsentCommittee"] + issue["notOnRosterCommitteeMeetingGap"] + issue["notOnRosterCouncilGap"] == issue["notOnRoster"]
+        "notOnRosterCommittee" not in issue
+        and "memberAbsentCommittee" not in issue
+        and "notOnRosterCommitteeMeetingGap" not in issue
+        and "notOnRosterCouncilGap" not in issue
         for c in stances["councillors"].values()
         for issue in c["issues"].values()
     ),
 )
 check(
-    "memberAbsentCommittee and notOnRosterCommitteeMeetingGap buckets exist and are non-negative everywhere",
+    "attendedAsObserver + noRecordedVote == notOnRoster everywhere (no motion double-counted or dropped)",
     all(
-        issue["memberAbsentCommittee"] >= 0 and issue["notOnRosterCommitteeMeetingGap"] >= 0
+        issue["attendedAsObserver"] + issue["noRecordedVote"] == issue["notOnRoster"]
         for c in stances["councillors"].values()
         for issue in c["issues"].values()
     ),
 )
 check(
-    "notOnRosterCommitteeMeetingGap rose from the round-3 baseline (6) -- confirms false 'not a member' claims actually flipped, not just relabeled",
-    tot["notOnRosterCommitteeMeetingGap"] > 6,
-    f"now {tot['notOnRosterCommitteeMeetingGap']}",
+    "attendedAsObserver and noRecordedVote are non-negative everywhere",
+    all(
+        issue["attendedAsObserver"] >= 0 and issue["noRecordedVote"] >= 0
+        for c in stances["councillors"].values()
+        for issue in c["issues"].values()
+    ),
 )
 
 # ---------------------------------------------------------------------------
