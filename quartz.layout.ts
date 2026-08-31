@@ -59,11 +59,17 @@ const recentNotes = Component.RecentNotes({
   limit: 10,
   showTags: false,
   filter: (f) => {
-    // Only show meeting files, not index or generated pages
-    return f.slug !== "index" &&
-           !f.slug?.startsWith("committees/") &&
-           !f.slug?.startsWith("years/") &&
-           !f.slug?.startsWith("councillors/")
+    // Only show actual meeting pages (content/months/YYYY-MM/*.md). This is
+    // an inclusion check, not an exclusion list, so it can't go stale the
+    // way the old blocklist did: dateless evergreen pages (content/topics/*,
+    // guide.md) fell through the old filter, and since they have no
+    // date/created/modified frontmatter, Quartz's CreatedModifiedDate
+    // plugin fell back to filesystem mtime - which is "now" on every fresh
+    // deploy checkout - so they always sorted as the most recent items and
+    // filled the "Recent Meetings" rail with topic pages all dated today.
+    // Same "months/" convention already used by the explorer mapFn below
+    // and the WatchButton ConditionalRender further down this file.
+    return f.slug?.startsWith("months/") ?? false
   }
 })
 
