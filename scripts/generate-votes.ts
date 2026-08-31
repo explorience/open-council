@@ -79,6 +79,19 @@ interface VoteRecord {
   result: string
   passed: boolean
   unanimous: boolean
+  // How `unanimous` was determined - see parseResult(). "tally" means the
+  // eSCRIBE-format "(N to M)" markup was present (2018+, always); "votes"
+  // means it was derived from a resolvable Nay in the parsed rows
+  // (pre-2018, genuinely divided); "unknown" means neither signal was
+  // available and `unanimous: true` is a default, not a confirmed fact -
+  // see issue #199 (d1).
+  unanimousSource: "tally" | "votes" | "unknown"
+  // Position of this roll call's content object within its containing
+  // agenda item's content array. Pre-2018 minutes can render two distinct
+  // roll calls under the same item with textually-identical boilerplate
+  // ("Motion Passed"), which would otherwise collide in motionKey below -
+  // see issue #199 (d3).
+  rollCallOrdinal: number
 }
 
 interface CouncillorVotesFile {
@@ -99,8 +112,16 @@ interface CouncillorVotesFile {
   votes: VoteRecord[]
 }
 
-// Check if a motion is procedural (routine/administrative) vs substantive
-function isProcedural(motionText: string | undefined): boolean {
+// Check if a motion is procedural (routine/administrative) vs substantive.
+// `hasResolvableDissent` gates the whole check: a motion with a recorded,
+// resolvable Nay voter is never procedural, no matter what its text
+// matches. Compound substantive motions routinely contain a clause like
+// "...be received" alongside real, contested content (68/51/71 genuinely
+// divided motions were wrongly excluded this way in 2019/2020/2021 - see
+// issue #199 d4); recorded dissent is decisive evidence the motion was
+// substantive.
+function isProcedural(motionText: string | undefined, hasResolvableDissent: boolean): boolean {
+  if (hasResolvableDissent) return false
   if (!motionText) return false
   const text = motionText.toLowerCase()
   return (
@@ -137,14 +158,6 @@ function extractMotionText(content: ContentItem): string {
   return full.slice(0, MAX_MOTION_TEXT_LENGTH) + MOTION_TEXT_TRUNCATION_MARKER
 }
 
-// Parse vote result string
-function parseResult(result: string): { passed: boolean; unanimous: boolean } {
-  const passed = /passed|carried|approved/i.test(result)
-  const unanimousMatch = result.match(/\((\d+) to (\d+)\)/)
-  const unanimous = unanimousMatch ? unanimousMatch[2] === "0" : false
-  return { passed, unanimous }
-}
-
 // Normalize voter name from meeting format (e.g., "Mayor J. Morgan" -> "J. Morgan")
 function normalizeVoterName(name: string): string | null {
   // Remove titles
@@ -153,6 +166,58 @@ function normalizeVoterName(name: string): string | null {
     .trim()
 
   return normalizeCouncillorName(cleaned)
+}
+
+// Does this vote have at least one Nay row naming a councillor the
+// registry can actually resolve? Shared by parseResult()'s tri-state
+// fallback and the procedural dissent-gate - both need the same "is there
+// real, attributable dissent" signal (issue #199 d1/d4).
+function hasResolvableNay(voteRows: VoteRow[], registry: ReturnType<typeof loadRegistry>): boolean {
+  return voteRows.some(row => {
+    if (classifyVoteType(row.vote) !== "nay") return false
+    return row.voters.some(voterName => {
+      const canonical = normalizeVoterName(voterName)
+      return canonical !== null && !!registry[canonical]
+    })
+  })
+}
+
+// Parse vote result string.
+//
+// eSCRIBE (2018+) always renders a machine-readable "(N to M)" tally in
+// the result string - that's the ground truth and is used whenever it's
+// present, unchanged from before. Pre-2018 Word-format minutes never
+// carry that markup (0 of 9,153 pre-2018 vote blocks have it - issue
+// #199 d1): the result string is a bare "Motion Passed"/"Motion Failed".
+// The old code treated "no tally" as "not unanimous", which made
+// `unanimous` false for every single pre-2018 record in every year
+// 2011-2017 - "contested" was the default, not a classification.
+//
+// When there's no tally, derive divided/unanimous from the vote rows
+// themselves instead: a resolvable Nay voter means the motion was
+// genuinely divided; otherwise mark it unanimous, but flag that as
+// `unanimousSource: "unknown"` rather than `"votes"` so downstream code
+// can tell "confirmed unanimous" apart from "no dissent recorded, so
+// presumed unanimous" (a motion with an unresolvable/garbled Nays list -
+// see issue #199's ~25 Word-parser garbled-Nays cases - would otherwise be
+// silently misread as unanimous with no way to tell the two apart later).
+function parseResult(
+  result: string,
+  voteRows: VoteRow[],
+  registry: ReturnType<typeof loadRegistry>
+): { passed: boolean; unanimous: boolean; unanimousSource: "tally" | "votes" | "unknown" } {
+  const passed = /passed|carried|approved/i.test(result)
+  const tallyMatch = result.match(/\((\d+) to (\d+)\)/)
+
+  if (tallyMatch) {
+    return { passed, unanimous: tallyMatch[2] === "0", unanimousSource: "tally" }
+  }
+
+  if (hasResolvableNay(voteRows, registry)) {
+    return { passed, unanimous: false, unanimousSource: "votes" }
+  }
+
+  return { passed, unanimous: true, unanimousSource: "unknown" }
 }
 
 // Recursively find all votes in meeting items
@@ -170,11 +235,13 @@ function findVotes(
 
     // Check content for votes
     if (item.content && Array.isArray(item.content)) {
+      let rollCallOrdinal = 0
       for (const content of item.content) {
         if (content.vote && content.vote.rows) {
+          const ordinal = rollCallOrdinal++
           const motionText = extractMotionText(content)
           const resultStr = content.result?.string || ""
-          const { passed, unanimous } = parseResult(resultStr)
+          const { passed, unanimous, unanimousSource } = parseResult(resultStr, content.vote.rows, registry)
 
           // Process each voter
           for (const row of content.vote.rows) {
@@ -196,6 +263,8 @@ function findVotes(
                   result: resultStr,
                   passed,
                   unanimous,
+                  unanimousSource,
+                  rollCallOrdinal: ordinal,
                 })
               }
             }
@@ -211,6 +280,56 @@ function findVotes(
   }
 
   return votes
+}
+
+// A meeting needs at least this many roll calls before a fingerprint
+// match is trusted as "the same file republished" rather than dismissed
+// as coincidence. Below this, two DISTINCT real meetings can legitimately
+// produce identical vote-block text by chance - e.g. two different
+// committee meetings each recording a single, identically-worded,
+// unanimous "no pecuniary interest declared" vote from the same standing
+// membership (confirmed: 2024-09-10 and 2024-11-12 Civic Works Committee,
+// both real meetings, coincidentally share exactly one identical vote
+// row). A real re-publication reproduces a whole meeting's substantive
+// business, not one routine line - the known cases (issue #199 d6) carry
+// 32-198 duplicated roll calls each.
+const MIN_ROLL_CALLS_FOR_DUPLICATE_FILE = 3
+
+// Fingerprint a meeting's full vote-row block: every roll call's motion
+// text, result, and yeas/nays/etc. rows, concatenated in document order.
+// Budget-season committee minutes get re-published verbatim inside later
+// meeting files (13 known pre-2018 files carrying 198/62/72 duplicate
+// divided motions in 2014/2015/2016 - issue #199 d6); two files with an
+// identical fingerprint AND enough roll calls to rule out coincidence are
+// the same votes filed twice, not two meetings that happened to agree on
+// everything. Returns "" for a meeting with no votes, or too few to trust
+// a match on (see MIN_ROLL_CALLS_FOR_DUPLICATE_FILE) - such a file is
+// never treated as a duplicate of anything.
+function computeVoteBlockFingerprint(meeting: Meeting): string {
+  const rows: string[] = []
+
+  const walk = (items: Record<string, MeetingItem> | undefined) => {
+    if (!items) return
+    for (const item of Object.values(items)) {
+      if (item.content && Array.isArray(item.content)) {
+        for (const content of item.content) {
+          if (content.vote && content.vote.rows && content.vote.rows.length > 0) {
+            const motionText = extractMotionText(content)
+            const resultStr = content.result?.string || ""
+            const voteRows = content.vote.rows
+              .map(r => `${r.vote}:${r.voters.join(",")}`)
+              .join(";")
+            rows.push(`${motionText}|${resultStr}|${voteRows}`)
+          }
+        }
+      }
+      walk(item.items)
+    }
+  }
+
+  walk(meeting.items)
+  if (rows.length < MIN_ROLL_CALLS_FOR_DUPLICATE_FILE) return ""
+  return crypto.createHash("sha256").update(rows.join("\n")).digest("hex")
 }
 
 // Generate a hash of the source data for staleness detection
@@ -258,13 +377,21 @@ async function main() {
   let totalVotes = 0
   const allMeetings: Meeting[] = []
 
+  // Vote-block fingerprint -> the first (chronologically earliest, since
+  // files are processed in sorted date order) file that produced it.
+  // Files scanned in date order within each month give the actual original
+  // meeting priority over a later re-publication - issue #199 d6.
+  const seenVoteFingerprints = new Map<string, string>()
+  const duplicateFiles: { duplicate: string; original: string }[] = []
+
   for (const monthDir of monthDirs) {
     const monthPath = path.join(dataDir, monthDir)
     const files = await fs.readdir(monthPath)
-    const jsonFiles = files.filter(f => f.endsWith(".json"))
+    const jsonFiles = files.filter(f => f.endsWith(".json")).sort()
 
     for (const file of jsonFiles) {
       const filePath = path.join(monthPath, file)
+      const relativePath = `${monthDir}/${file}`
 
       try {
         const content = await fs.readFile(filePath, "utf-8")
@@ -272,6 +399,16 @@ async function main() {
 
         if (!meeting.items || Object.keys(meeting.items).length === 0) {
           continue
+        }
+
+        const fingerprint = computeVoteBlockFingerprint(meeting)
+        if (fingerprint) {
+          const original = seenVoteFingerprints.get(fingerprint)
+          if (original) {
+            duplicateFiles.push({ duplicate: relativePath, original })
+            continue // byte-identical re-published minutes - skip, don't double-count
+          }
+          seenVoteFingerprints.set(fingerprint, relativePath)
         }
 
         totalMeetings++
@@ -292,17 +429,24 @@ async function main() {
   }
 
   console.log(`   Found ${totalMeetings} meetings with items`)
+  if (duplicateFiles.length > 0) {
+    console.log(`   Skipped ${duplicateFiles.length} duplicate (byte-identical re-published) file(s)`)
+  }
 
   // Actually reprocess to properly attribute votes to councillors
   console.log("\n📊 Extracting votes per councillor...")
 
+  const duplicateFilePaths = new Set(duplicateFiles.map(d => d.duplicate))
+
   for (const monthDir of monthDirs) {
     const monthPath = path.join(dataDir, monthDir)
     const files = await fs.readdir(monthPath)
-    const jsonFiles = files.filter(f => f.endsWith(".json"))
+    const jsonFiles = files.filter(f => f.endsWith(".json")).sort()
 
     for (const file of jsonFiles) {
       const filePath = path.join(monthPath, file)
+      const relativePath = `${monthDir}/${file}`
+      if (duplicateFilePaths.has(relativePath)) continue
 
       try {
         const content = await fs.readFile(filePath, "utf-8")
@@ -402,6 +546,8 @@ async function main() {
     result: string
     passed: boolean
     unanimous: boolean
+    unanimousSource: "tally" | "votes" | "unknown"
+    rollCallOrdinal: number
     procedural: boolean
     yeas: string[]
     nays: string[]
@@ -422,8 +568,17 @@ async function main() {
     const displayName = registry[canonicalName].displayName
 
     for (const vote of votes) {
-      // Create a unique key for each motion
-      const motionKey = `${vote.date}|${vote.meetingSlug}|${vote.itemNumber}|${vote.motionText}`
+      // Create a unique key for each motion. Pre-2018 minutes can render
+      // two textually-identical (often boilerplate "Motion Passed") but
+      // genuinely distinct roll calls under the same item - rollCallOrdinal
+      // (this content object's position within the item) keeps them apart
+      // instead of silently merging their voter lists (issue #199 d3).
+      // 2018+ dates are untouched: eSCRIBE items don't share this failure
+      // mode, and the 2019-2025 name-vs-tally identity oracle must not move.
+      const isPre2018 = vote.date < "2018-01-01"
+      const motionKey = isPre2018
+        ? `${vote.date}|${vote.meetingSlug}|${vote.itemNumber}|${vote.motionText}|${vote.rollCallOrdinal}`
+        : `${vote.date}|${vote.meetingSlug}|${vote.itemNumber}|${vote.motionText}`
 
       if (!motionMap.has(motionKey)) {
         motionMap.set(motionKey, {
@@ -438,7 +593,14 @@ async function main() {
           result: vote.result,
           passed: vote.passed,
           unanimous: vote.unanimous,
-          procedural: isProcedural(vote.motionText),
+          unanimousSource: vote.unanimousSource,
+          rollCallOrdinal: vote.rollCallOrdinal,
+          // Placeholder - computed in a final pass below once every
+          // voter (and therefore the full `nays` list) has been
+          // aggregated for this motion. isProcedural() needs to know
+          // whether there's recorded dissent, which isn't known yet
+          // from just the first voter processed.
+          procedural: false,
           yeas: [],
           nays: [],
           absent: [],
@@ -458,11 +620,25 @@ async function main() {
     }
   }
 
-  // Convert to array with IDs, sorted by date descending then item number
+  // Now that every motion's full nays list is populated, gate procedural
+  // classification on recorded dissent (issue #199 d4).
+  for (const motion of motionMap.values()) {
+    motion.procedural = isProcedural(motion.motionText, motion.nays.length > 0)
+  }
+
+  // Convert to array with IDs, sorted by date descending then item number.
+  // IDs mirror motionKey's uniqueness domain above: pre-2018 includes the
+  // roll-call ordinal (so two distinct motions sharing motionKey don't
+  // collide onto the same id), 2018+ stays exactly as before - existing
+  // 2018+ motion ids must not change.
   const allMotions = Array.from(motionMap.values())
     .map(m => ({
       id: crypto.createHash("sha256")
-        .update(`${m.date}|${m.meetingSlug}|${m.itemNumber}|${m.motionText}`)
+        .update(
+          m.date < "2018-01-01"
+            ? `${m.date}|${m.meetingSlug}|${m.itemNumber}|${m.motionText}|${m.rollCallOrdinal}`
+            : `${m.date}|${m.meetingSlug}|${m.itemNumber}|${m.motionText}`
+        )
         .digest("hex")
         .slice(0, 12),
       ...m,
@@ -483,6 +659,11 @@ async function main() {
     totalMotions: allMotions.length,
     substantiveMotions: substantiveCount,
     contestedMotions: contestedCount,
+    // Disclosure list (issue #199 d6): files whose full vote-row block was
+    // byte-identical to an earlier file's and were therefore skipped
+    // rather than double-counted. `original` is the file whose votes were
+    // kept.
+    duplicateFiles,
     motions: allMotions,
   }
 
@@ -504,6 +685,7 @@ async function main() {
     totalMotions: allMotions.length,
     substantiveMotions: substantiveCount,
     contestedMotions: contestedCount,
+    duplicateFilesSkipped: duplicateFiles.length,
   }
   await fs.writeFile(
     path.join(outputDir, "_meta.json"),
@@ -530,11 +712,13 @@ function findVotesWithAttribution(
     const itemPath = parentPath ? `${parentPath}.${num}` : num
 
     if (item.content && Array.isArray(item.content)) {
+      let rollCallOrdinal = 0
       for (const content of item.content) {
         if (content.vote && content.vote.rows) {
+          const ordinal = rollCallOrdinal++
           const motionText = extractMotionText(content)
           const resultStr = content.result?.string || ""
-          const { passed, unanimous } = parseResult(resultStr)
+          const { passed, unanimous, unanimousSource } = parseResult(resultStr, content.vote.rows, registry)
 
           for (const row of content.vote.rows) {
             const voteType = classifyVoteType(row.vote)
@@ -558,6 +742,8 @@ function findVotesWithAttribution(
                     result: resultStr,
                     passed,
                     unanimous,
+                    unanimousSource,
+                    rollCallOrdinal: ordinal,
                   })
 
                   councillorMeetings[slug]?.add(meetingSlug)
