@@ -550,8 +550,16 @@ export class RAGService {
    * Extract topic keywords from a voting query
    * For "how did Lewis vote on bike lanes" -> "bike lanes cycling"
    * For "Stevenson's voting record on e-scooters" -> "e-scooters scooter"
+   *
+   * Returns BOTH the full keyword text (base phrase + appended dictionary
+   * expansions, e.g. "police" -> also "safety"/"lps"/"public") AND the bare
+   * `base` phrase (user-supplied words only, no expansions). Callers that need to
+   * gate a structured lookup on the agenda item's own title (findCouncillorVote's
+   * itemTitle anchor) must use `base` - a dictionary-injected synonym the user never
+   * typed (e.g. "safety" injected for "police") must never by itself justify selecting
+   * an unrelated record. See root cause #2 in the vote-query-routing fix.
    */
-  private extractTopicKeywords(query: string): string | null {
+  private extractTopicKeywords(query: string): { text: string; base: string } | null {
     const lowerQuery = query.toLowerCase();
 
     // Common topic patterns and their expanded keywords for better embedding match
@@ -588,37 +596,80 @@ export class RAGService {
     // land at Duluth Crescent") in favor of a generic dictionary phrase, which is what
     // let an unrelated record with the same generic topic words win a downstream
     // keyword match.
-    const appendExpansions = (base: string): string => {
-      const baseLower = base.toLowerCase();
+    //
+    // Tokenizes on any non-alphanumeric character (so "pro-transit" is checked/emitted
+    // as the two words "pro"/"transit", not one opaque hyphenated token) for two
+    // reasons: (1) the "is this expansion term already present" check must be exact-word,
+    // not String.includes - a substring check let "rehousing" swallow the "housing"
+    // expansion (already contains it as a substring) and let "pro-transit?" swallow the
+    // "transit" expansion, silently discarding the single most important keyword; (2)
+    // hyphenated compounds must come back as separate space-joined words so a downstream
+    // `.split(' ')` (and vote-lookup.ts's word-boundary itemTitle anchor) can actually see
+    // "transit" as its own keyword instead of a multi-word string that can never anchor
+    // on a single-word item-title token.
+    const containsWord = (text: string, word: string): boolean => {
+      const tokens = text.toLowerCase().split(/[^a-z0-9]+/).filter(Boolean);
+      return tokens.includes(word.toLowerCase());
+    };
+
+    const appendExpansions = (base: string): { text: string; base: string } => {
+      const normalizedBase = base.replace(/-/g, ' ').replace(/\s+/g, ' ').trim();
+      const baseLower = normalizedBase.toLowerCase();
       const toAppend: string[] = [];
       for (const [key, expansion] of Object.entries(topicExpansions)) {
         if (baseLower.includes(key)) {
           for (const term of expansion.split(' ')) {
             const lowerTerm = term.toLowerCase();
-            if (lowerTerm && !baseLower.includes(lowerTerm) && !toAppend.includes(lowerTerm)) {
+            if (lowerTerm && !containsWord(normalizedBase, lowerTerm) && !toAppend.includes(lowerTerm)) {
               toAppend.push(lowerTerm);
             }
           }
         }
       }
-      return toAppend.length > 0 ? `${base} ${toAppend.join(' ')}` : base;
+      const text = toAppend.length > 0 ? `${normalizedBase} ${toAppend.join(' ')}` : normalizedBase;
+      return { text, base: normalizedBase };
     };
 
     for (const pattern of topicPatterns) {
       const match = query.match(pattern);
       if (match) {
+        // NOTE: for the 3-capture-group pattern (vote[ds]? on|for|against (.+?)) match[2]
+        // is the real topic and match[1] is the preposition, so `match[2] || match[1]` is
+        // correct there. For the 2-capture-group patterns (position on / support(ed|s)? /
+        // oppose[ds]?) match[1] is the topic and match[2] is just the trailing "?" (or "")
+        // terminator group - `match[2] || match[1]` is backwards for those and, when the
+        // query ends in a literal "?", picks the truthy single-character string "?" as the
+        // "topic", discarding the real one. This is a real, separate latent bug (not one
+        // of the 6 diagnosed root causes for this fix, not touched by any of the 5 ground
+        // truth cases) - left unfixed here per the surgical-diff instruction; flagging with
+        // file:line for whoever picks it up next.
         const topic = match[2] || match[1];
         const cleanTopic = topic.trim().toLowerCase();
         return appendExpansions(cleanTopic);
       }
     }
 
-    // Fallback: check for known topic keywords anywhere in query. Append expansions to
-    // the whole query (still better than the old behaviour, which discarded the query
-    // entirely and returned a bare generic dictionary phrase).
+    // Fallback: check for known topic keywords anywhere in query. Previously this
+    // returned the ENTIRE raw query - including function words like "what"/"is"/"she" -
+    // as topic keywords whenever no topicPattern matched syntactically. That let the
+    // query's own filler words become match keywords and, combined with the councillor's
+    // own name being appended into a downstream hybrid query, drowned out the actual
+    // topic. Extract only meaningful words (same kind of stopword filter already used for
+    // motion-outcome-query keyword extraction elsewhere in this file) before appending
+    // dictionary expansions.
+    const FALLBACK_STOPWORDS = new Set([
+      'what', 'is', 'are', 'was', 'were', 'the', 'a', 'an', 'on', 'in', 'of', 'to', 'for',
+      'and', 'or', 'how', 'did', 'do', 'does', 'she', 'he', 'they', 'him', 'her', 'his',
+      'their', 'you', 'your', 'voting', 'vote', 'voted', 'record', 'councillor', 'council',
+      'about',
+    ]);
     for (const key of Object.keys(topicExpansions)) {
       if (lowerQuery.includes(key)) {
-        return appendExpansions(lowerQuery);
+        const meaningfulWords = lowerQuery
+          .replace(/[^a-z0-9\s-]/g, ' ')
+          .split(/\s+/)
+          .filter(w => w.length > 2 && !FALLBACK_STOPWORDS.has(w));
+        return appendExpansions(meaningfulWords.join(' '));
       }
     }
 
@@ -1547,8 +1598,15 @@ export class RAGService {
 
     // Strategy 3: Motion outcome or vote count query
     // Uses structured vote data for VERIFIED accuracy on "did X pass?" and "how many voted against X?" queries
-    // Skip if this is a multi-hop query (handled by Strategy 3.8)
-    if ((isMotionOutcomeQuery || isVoteCountQuery) && motionKeywords && motionKeywords.length > 0 && !isMultiHopQuery) {
+    // Skip if this is a multi-hop query (handled by Strategy 3.8) OR a councillor-voting
+    // query (handled by Strategy 4, which narrows by the specific councillor and applies
+    // the itemTitle-anchor/absolute-floor gates findAllMotionVotes below does not have -
+    // without this guard a query like "How did Stevenson vote on the Duluth Crescent
+    // housing motion in June 2026, and did it pass?" trips isMotionOutcomeQuery on "did
+    // it pass" and gets answered by an unnarrowed, ungated findAllMotionVotes lookup
+    // instead of the councillor-specific structured lookup - mirrors the guard already
+    // added to Strategy 1 and Strategy 2 above.
+    if ((isMotionOutcomeQuery || isVoteCountQuery) && motionKeywords && motionKeywords.length > 0 && !isMultiHopQuery && !isCouncillorVotingQuery) {
       console.log(`📊 Motion/vote query detected - using structured vote lookup for: "${motionKeywords.join(' ')}"`);
 
       let verifiedVoteContext = '';
@@ -1821,7 +1879,11 @@ export class RAGService {
       // NEW: Try structured vote lookup FIRST for verified accuracy
       let verifiedVoteContext = '';
       if (this.voteLookupInitialized) {
-        const topicKeywords = this.extractTopicKeywords(query)?.split(' ').filter(k => k.length > 2) || [];
+        const topicResult = this.extractTopicKeywords(query);
+        const topicKeywords = topicResult?.text.split(' ').filter(k => k.length > 2) || [];
+        // Anchor keywords are the user's own words only (no dictionary-injected
+        // synonyms) - see findCouncillorVote's itemTitle anchor and root cause #2.
+        const anchorKeywords = topicResult?.base.split(' ').filter(k => k.length > 2);
 
         if (councillorName && topicKeywords.length > 0) {
           // Looking for a specific councillor's vote on a topic
@@ -1834,7 +1896,10 @@ export class RAGService {
             const voteResults = voteLookupService.findCouncillorVote(
               councillorSlug,
               topicKeywords,
-              specificMonth ? { month: specificMonth.month, year: specificMonth.year } : {}
+              {
+                ...(specificMonth ? { month: specificMonth.month, year: specificMonth.year } : {}),
+                anchorKeywords,
+              }
             );
             if (voteResults && voteResults.length > 0) {
               verifiedVoteContext = voteLookupService.formatVoteResultsForContext(voteResults);
@@ -1916,9 +1981,9 @@ export class RAGService {
 
         // 4b. Extract topic from original query and search for councillor + topic + action keywords
         // This helps find "Motion made by Lewis" + "cycling" + "BE REMOVED" chunks
-        const topicKeywords = this.extractTopicKeywords(query);
-        if (topicKeywords) {
-          const topicQuery = `${councillorName} ${topicKeywords} motion moved vote removed approved rejected councillors who voted`;
+        const topicResult = this.extractTopicKeywords(query);
+        if (topicResult) {
+          const topicQuery = `${councillorName} ${topicResult.text} motion moved vote removed approved rejected councillors who voted`;
           const topicEmbedding = await this.generateQueryEmbedding(topicQuery);
           councillorTopicResults = await this.vectorStore.hybridSearch(
             topicEmbedding,
@@ -1926,7 +1991,7 @@ export class RAGService {
             Math.floor(topK * 0.3),
             0.5  // Balanced for topic + name combination
           );
-          console.log(`   Topic-based hybrid search for "${councillorName}" + "${topicKeywords}": ${councillorTopicResults.length} results`);
+          console.log(`   Topic-based hybrid search for "${councillorName}" + "${topicResult.text}": ${councillorTopicResults.length} results`);
         }
       }
 

@@ -222,6 +222,47 @@ function significantKeywords(keywords: string[]): string[] {
   return keywords.filter(kw => kw.length > 0 && !KEYWORD_STOPWORDS.has(kw.toLowerCase()));
 }
 
+/**
+ * Further restricts to keywords usable for the itemTitle ANCHOR gate specifically - a
+ * bare year (e.g. "2026", from "...in July 2026") is near-universal noise as an anchor:
+ * agenda item titles routinely reference a fiscal/program year for reasons unrelated to
+ * the vote's own date (a "Proposed Winter Response for 2026-2027" title, a budget
+ * process named after its year, etc.), so a query's stated year alone can wrongly anchor
+ * a same-year but otherwise-unrelated item once anchoring stopped being generic-stopword
+ * gated. Years are still useful for scoring/the match-count floor (via
+ * significantKeywords) - only the anchor gate excludes them, since the anchor's whole
+ * job is to require an identifying, on-topic word, not merely a temporal coincidence.
+ */
+function anchorableKeywords(keywords: string[]): string[] {
+  return significantKeywords(keywords).filter(kw => !/^\d+$/.test(kw));
+}
+
+/**
+ * Normalize an item title for GROUPING sibling motions recorded on the same real-world
+ * agenda item, by stripping a leading numbering/ADDED prefix and casefolding/collapsing
+ * whitespace. Two motions can be the SAME agenda item but have different raw itemTitle
+ * strings - e.g. "455 Highbury Avenue North - (OZ-9739)" (a procedural referral) vs
+ * "(3.3) 455 Highbury Avenue North - (OZ-9739)" (the substantive rezoning decision), or
+ * "(ADDED) Amendment - Councillor D. Ferreira" vs the same string with trailing
+ * whitespace. Grouping on the raw string used to split these apart and silently return
+ * only one of them. This is ONLY for deciding which sibling motions belong together in a
+ * findCouncillorVote() result group - it is never used for display (the original
+ * itemTitle is always shown) or for the itemTitle-anchor keyword check.
+ */
+function normalizeItemTitleForGrouping(title: string): string {
+  return title
+    .replace(/^\s*\(\s*(?:added|[\d]+(?:\.[\d]+)*)\s*\)\s*/i, '')
+    .toLowerCase()
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+/** Cap on how many sibling motions a single findCouncillorVote() call returns for one
+ * agenda item - some items (e.g. a slate of committee appointments) carry dozens of
+ * separately-recorded motions, and an uncapped group renders a context block tens of
+ * thousands of characters long that bypasses the usual retrieval context budget. */
+const MAX_GROUPED_MOTIONS = 15;
+
 interface MatchDetail {
   score: number;
   matches: number;
@@ -291,79 +332,150 @@ export class VoteLookupService {
    * argmax.
    *
    * @param councillorSlug - e.g., "s-stevenson"
-   * @param topicKeywords - keywords to match against motion/item title
+   * @param topicKeywords - keywords to match against motion/item title (may include
+   *   dictionary-expanded synonyms the user did not type - used for scoring only)
    * @param options.recentMonths - only look at votes from last N months (default: 24),
    *   ignored when month/year is given
    * @param options.month - 0-indexed month to narrow to (e.g. from "in June 2026")
    * @param options.year - year to narrow to, paired with options.month
+   * @param options.anchorKeywords - user-supplied words only (no dictionary expansions),
+   *   used for the itemTitle anchor gate. Defaults to topicKeywords when omitted. Keeping
+   *   this separate matters: an unrelated item whose title happens to contain an
+   *   injected synonym (e.g. "safety"/"property" appended for a "police" query) must
+   *   never itself satisfy the anchor - only a word the user actually typed should.
    */
   findCouncillorVote(
     councillorSlug: string,
     topicKeywords: string[],
-    options: { recentMonths?: number; month?: number; year?: number } = {}
+    options: { recentMonths?: number; month?: number; year?: number; anchorKeywords?: string[] } = {}
   ): VoteLookupResult[] | null {
-    const { recentMonths = 24, month, year } = options;
+    const { recentMonths = 24, month, year, anchorKeywords } = options;
     const voteFile = loadCouncillorVotes(councillorSlug);
     if (!voteFile) {
       console.log(`   Vote lookup: No data for councillor ${councillorSlug}`);
       return null;
     }
 
-    // A month/year named in the query (e.g. "in June 2026") NARROWS the candidate set
-    // to that exact month rather than being ignored - previously this date info never
-    // reached findCouncillorVote at all because Strategy 1 in rag-service.ts intercepted
-    // any month/year query before the structured vote lookup ran.
-    let candidateVotes: VoteRecord[];
+    const meaningfulKeywords = significantKeywords(topicKeywords);
+    const meaningfulAnchorKeywords = anchorableKeywords(anchorKeywords ?? topicKeywords);
+    const requiredMatches = Math.min(2, meaningfulKeywords.length || 1);
+
+    // Score a candidate set of votes against the item-title anchor + match-floor gates.
+    // Pulled out into a closure so it can run twice: once against a month-narrowed set,
+    // and (only if that finds nothing) once against the wider unnarrowed set.
+    const search = (candidateVotes: VoteRecord[]): Array<{ vote: VoteRecord; score: number; matches: number }> => {
+      const scored: Array<{ vote: VoteRecord; score: number; matches: number }> = [];
+      for (const vote of candidateVotes) {
+        // Word-boundary (exact token) match, not substring - a substring check let the
+        // single keyword "land" match inside "Wonderland Road" and anchor an unrelated
+        // record under a councillor-vote query that also named "Duluth Crescent land".
+        const itemTitleWords = new Set(normalizeForMatch(vote.itemTitle).split(' ').filter(Boolean));
+        const itemTitleAnchored = meaningfulAnchorKeywords.some(kw => itemTitleWords.has(normalizeForMatch(kw)));
+        if (!itemTitleAnchored) continue;
+
+        const searchText = `${vote.itemTitle} ${vote.motionText}`;
+        const detail = calculateMatchDetail(searchText, topicKeywords);
+        // The absolute floor must count MEANINGFUL keyword hits only - counting a
+        // stopword like "the" toward the >=2 floor let a query keyword set clear the
+        // floor via "the" + a single generic word, with zero identifying terms actually
+        // hitting (the function's own doc comment above promises "2 meaningful
+        // keywords", but the count used to include stopwords).
+        const meaningfulDetail = calculateMatchDetail(searchText, meaningfulKeywords);
+        if (detail.score >= 0.3 && meaningfulDetail.matches >= requiredMatches) {
+          scored.push({ vote, score: detail.score, matches: detail.matches });
+        }
+      }
+      return scored;
+    };
+
+    // Build the final grouped result from a scored candidate set. `dateWasNarrowed`
+    // marks a result that came from the FALLBACK (unnarrowed) search after a
+    // month-narrowed search found nothing - such a result answers a plausible adjacent
+    // month rather than the exact month the user named, so it is capped at 'medium'
+    // confidence rather than potentially 'exact'.
+    const buildResult = (
+      candidateVotes: VoteRecord[],
+      scored: Array<{ vote: VoteRecord; score: number; matches: number }>,
+      dateWasNarrowed: boolean
+    ): VoteLookupResult[] | null => {
+      if (scored.length === 0) return null;
+
+      // Pick the winning (date, normalized-title) GROUP by best individual score, but
+      // group MEMBERSHIP is decided on a normalized title (numbering-prefix/whitespace
+      // stripped, casefolded via normalizeItemTitleForGrouping) so sibling motions
+      // recorded under slightly different itemTitle strings for the SAME real agenda
+      // item aren't split apart and silently dropped.
+      const bestByScore = [...scored].sort((a, b) => b.score - a.score)[0];
+      const bestKey = normalizeItemTitleForGrouping(bestByScore.vote.itemTitle);
+      const relatedScored = scored.filter(
+        s => normalizeItemTitleForGrouping(s.vote.itemTitle) === bestKey && s.vote.date === bestByScore.vote.date
+      );
+
+      // Order by the SOURCE data's original recorded order (how the motions actually
+      // appear on this item - typically part a/b/c or original-then-amendment order),
+      // not by match score - sorting by score interleaves each motion's own relative
+      // rank into what should read as a stable "motion 1, motion 2, ..." sequence.
+      const orderIndex = new Map(candidateVotes.map((v, i) => [v, i]));
+      const ordered = [...relatedScored].sort(
+        (a, b) => (orderIndex.get(a.vote) ?? 0) - (orderIndex.get(b.vote) ?? 0)
+      );
+
+      const capped = ordered.slice(0, MAX_GROUPED_MOTIONS);
+      if (ordered.length > capped.length) {
+        console.log(`   Vote lookup: capped ${ordered.length} motions on "${bestByScore.vote.itemTitle}" to ${capped.length}`);
+      }
+
+      return capped.map(r => {
+        const confidence: VoteLookupResult['confidence'] =
+          dateWasNarrowed ? 'medium' : r.score >= 0.8 ? 'exact' : r.score >= 0.5 ? 'high' : 'medium';
+        console.log(`   Vote lookup: Found ${confidence} match for ${councillorSlug} (score: ${r.score.toFixed(2)}, item: "${r.vote.itemTitle}")`);
+        return {
+          councillor: voteFile.councillor,
+          councillorSlug: voteFile.slug,
+          vote: r.vote,
+          confidence,
+        };
+      });
+    };
+
     if (month !== undefined && year !== undefined) {
-      candidateVotes = voteFile.votes.filter(v => {
+      // A month/year named in the query (e.g. "in June 2026") NARROWS the candidate set
+      // to that exact month rather than being ignored - previously this date info never
+      // reached findCouncillorVote at all because Strategy 1 in rag-service.ts
+      // intercepted any month/year query before the structured vote lookup ran.
+      const narrowedVotes = voteFile.votes.filter(v => {
         const d = new Date(v.date);
         return d.getUTCMonth() === month && d.getUTCFullYear() === year;
       });
-    } else {
+      const narrowedResult = buildResult(narrowedVotes, search(narrowedVotes), false);
+      if (narrowedResult) return narrowedResult;
+
+      // The named month is a HARD FILTER with no fallback used to mean: if the user
+      // misremembers the month, or names a committee month when the item was ratified
+      // by full Council the following month, the search comes back empty (or, worse,
+      // an item-title anchor with no real candidate in scope could still coincidentally
+      // clear the gates on an unrelated record). Fall back to an unnarrowed search
+      // rather than giving up - this is common enough (committee vs Council month,
+      // simple misremembering) to be worth a wider retry, at reduced confidence.
+      console.log(`   Vote lookup: nothing in ${month + 1}/${year} for ${councillorSlug} on "${topicKeywords.join(' ')}" - falling back to unnarrowed search`);
       const cutoffDate = new Date();
       cutoffDate.setMonth(cutoffDate.getMonth() - recentMonths);
-      candidateVotes = voteFile.votes.filter(v => new Date(v.date) >= cutoffDate);
-    }
-
-    const meaningfulKeywords = significantKeywords(topicKeywords);
-    const requiredMatches = Math.min(2, meaningfulKeywords.length || 1);
-
-    const scored: Array<{ vote: VoteRecord; score: number; matches: number }> = [];
-    for (const vote of candidateVotes) {
-      const itemTitleNorm = normalizeForMatch(vote.itemTitle);
-      const itemTitleAnchored = meaningfulKeywords.some(kw => itemTitleNorm.includes(normalizeForMatch(kw)));
-      if (!itemTitleAnchored) continue;
-
-      const searchText = `${vote.itemTitle} ${vote.motionText}`;
-      const detail = calculateMatchDetail(searchText, topicKeywords);
-      if (detail.score >= 0.3 && detail.matches >= requiredMatches) {
-        scored.push({ vote, score: detail.score, matches: detail.matches });
+      const fallbackVotes = voteFile.votes.filter(v => new Date(v.date) >= cutoffDate);
+      const fallbackResult = buildResult(fallbackVotes, search(fallbackVotes), true);
+      if (!fallbackResult) {
+        console.log(`   Vote lookup: No matching vote for ${councillorSlug} on "${topicKeywords.join(' ')}" (no item-title-anchored match above floor, with or without month narrowing)`);
       }
+      return fallbackResult;
     }
 
-    if (scored.length === 0) {
+    const cutoffDate = new Date();
+    cutoffDate.setMonth(cutoffDate.getMonth() - recentMonths);
+    const candidateVotes = voteFile.votes.filter(v => new Date(v.date) >= cutoffDate);
+    const result = buildResult(candidateVotes, search(candidateVotes), false);
+    if (!result) {
       console.log(`   Vote lookup: No matching vote for ${councillorSlug} on "${topicKeywords.join(' ')}" (no item-title-anchored match above floor)`);
-      return null;
     }
-
-    scored.sort((a, b) => b.score - a.score);
-
-    // Group: return every motion recorded on the single best-matching (date, itemTitle).
-    const best = scored[0];
-    const related = scored.filter(
-      s => s.vote.itemTitle === best.vote.itemTitle && s.vote.date === best.vote.date
-    );
-
-    return related.map(r => {
-      const confidence: VoteLookupResult['confidence'] = r.score >= 0.8 ? 'exact' : r.score >= 0.5 ? 'high' : 'medium';
-      console.log(`   Vote lookup: Found ${confidence} match for ${councillorSlug} (score: ${r.score.toFixed(2)}, item: "${r.vote.itemTitle}")`);
-      return {
-        councillor: voteFile.councillor,
-        councillorSlug: voteFile.slug,
-        vote: r.vote,
-        confidence,
-      };
-    });
+    return result;
   }
 
   /**
@@ -1123,20 +1235,27 @@ ${sections.join('\n')}
     if (results.length === 1) return this.formatVoteForContext(results[0]);
 
     const councillor = results[0].councillor;
+    // Motions are listed in their original recorded order (part a/b/c, or
+    // original-then-amendment), NOT sorted by match score - see findCouncillorVote.
+    // When the group mixes passed and failed motions, mark which one(s) actually took
+    // effect ("operative") so the LLM doesn't have to guess which tally answers a
+    // question about the item's real-world outcome.
+    const mixedOutcomes = results.some(r => r.vote.passed) && results.some(r => !r.vote.passed);
     let context = `## VERIFIED VOTE RECORD: Multiple motions on this item (from structured data - USE THIS)\n`;
-    context += `⚠️ There were ${results.length} separate recorded motions on this single agenda item for ${councillor}. Each is listed separately below - they are DIFFERENT motions with their own tallies. Do not merge or swap their outcomes.\n\n`;
+    context += `⚠️ There were ${results.length} separate recorded motions on this single agenda item for ${councillor}, listed in their original recorded order. Each is a DIFFERENT motion with its own tally. Do not merge or swap their outcomes.\n\n`;
 
     results.forEach((result, i) => {
       const v = result.vote;
       const voteWord = voteTypeLabel(v.vote);
       const outcomeWord = v.passed ? 'PASSED' : 'FAILED';
+      const operativeTag = mixedOutcomes && v.passed ? ' ⭐ OPERATIVE (this is the motion that took effect)' : '';
       context += `### Motion ${i + 1} of ${results.length}\n`;
       context += `**Item:** ${v.itemTitle}\n`;
       if (v.motionText) context += `${motionTextLabel(v.motionText)} ${v.motionText}\n`;
       context += `**Date:** ${v.date}\n`;
       context += `**Meeting:** ${v.meetingTitle}\n`;
       context += `**${councillor}'s Vote:** ${voteWord}\n`;
-      context += `**Outcome:** ${outcomeWord} - ${v.result}\n`;
+      context += `**Outcome:** ${outcomeWord} - ${v.result}${operativeTag}\n`;
       context += `**Match Confidence:** ${result.confidence}\n\n`;
     });
 
