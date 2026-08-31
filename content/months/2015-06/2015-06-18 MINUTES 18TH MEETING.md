@@ -280,3 +280,42 @@ Approve 3rd Reading and Enactment of
 Motion
 Passed
 
+---
+
+## Votes
+
+*4 substantive votes at this meeting (0 contested, 4 unanimous). Procedural motions excluded.*
+
+### V. COMMITTEE
+  OF THE WHOLE, IN CAMERA
+
+> Approve that   Council rise and go into Committee of the Whole, in camera, for the purpose   of considering a matter pertaining to reports, advice and recommendations   of officers and employees of the Corporation concerning labour relations and   employee negotiations in regard to the Corporatio...
+
+**✅ Motion Passed**
+
+Unanimous (26-0)
+
+### XIII. BY-LAWS
+
+> Approve Introduction and 1st Reading of Bill   No. 259.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### XIII. BY-LAWS
+
+> Approve 2nd Reading of Bill 259.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### XIII. BY-LAWS
+
+> Approve 3rd Reading and Enactment of   Bill 259.
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+

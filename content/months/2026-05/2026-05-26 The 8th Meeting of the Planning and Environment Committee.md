@@ -794,3 +794,34 @@ Any further questions or comments on that? Seeing none, we'll call the vote. Clo
 Councillor Stevenson, seconded by Councillor Cut ty, and just a hand vote on that one. Close in the vote, the motion carries. Thank you, we're adjourned.
 
 </details>
+
+---
+
+## Votes
+
+*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
+
+### 3.1. 198-200 Maitland Street - OZ-26026
+
+> That the proposed by-law as appended to the above noted staff report as Appendix "B" to amend Zoning By-law No. Z.-1, in conformity with The Official Plan for the City of London, 2016 (The London Plan), to change the zoning of the subject property FROM a Residential R2 (R2-2) Zone, TO a Residenti...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.1. 198-200 Maitland Street - OZ-26026
+
+> That the motion, as amended, BE APPROVED
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.2. 119 & 127 Centre Street - OZ-26029
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Kingsdale Development Inc. (Siv-ik Planning & Design Inc.) relating to the property located at 119 & 127 Centre Street: a)    the request to amend The Official ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

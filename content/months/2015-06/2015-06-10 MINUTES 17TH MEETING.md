@@ -3631,3 +3631,268 @@ Approve Third Reading and Enactment of
 Motion
 Passed
 
+---
+
+## Votes
+
+*24 substantive votes at this meeting (6 contested, 18 unanimous). Procedural motions excluded.*
+
+### 12#2. Properties
+    located at 895 and 905 Sarnia Road south portion (39CD-15502/Z-8445)
+
+> Approve an amendment to       add a new part c)v) as follows:   "v)  no parking       restrictions, by way of fee, be applied to the required parking"   and to add a new part d), as       follows:   "d)        the       Civic Administration BE DIRECTED to review current zoning restrictions       ...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 12#2. Properties
+    located at 895 and 905 Sarnia Road south portion (39CD-15502/Z-8445)
+
+> Approve clause 14 as       amended.              Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 12#2. Properties
+    located at 895 and 905 Sarnia Road south portion (39CD-15502/Z-8445)
+
+> Approve part e) of clause 8.   e)        the       City Clerk BE REQUESTED to take the following actions with respect to the       Council Procedure By-Law No. A-45:              i)                amend section 3.2 “Annual Schedule of Meetings – qualifications” by       deleting the following wor...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+
+**Nay (5):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher)
+
+</details>
+
+### 12#2. Properties
+    located at 895 and 905 Sarnia Road south portion (39CD-15502/Z-8445)
+
+> Approve clause 3, noting that the Civic Administration will       ensure that the information contained in the 2007 report on this matter       (including the specific designation of funds for initiatives in the       Downtown area) will be shared with the consultant currently engaged to       as...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 14#2. Properties
+      located at 462-472 Springbank Drive (OZ-8459)
+
+> Approve an amendment to       add a new part c)v) as follows:   "v)  no parking       restrictions, by way of fee, be applied to the required parking"   and to add a new part d), as       follows:   "d)        the       Civic Administration BE DIRECTED to review current zoning restrictions       ...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 14#2. Properties
+      located at 462-472 Springbank Drive (OZ-8459)
+
+> Approve clause 14 as       amended.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 3#2. 6th Report of the
+  Cycling Advisory Committee
+
+> That the following actions be taken with   respect to the 6th Report of the Cycling Advisory Committee, from its meeting   held on May 20, 2015:   a)         the   Civic Administration BE ADVISED that the Cycling Advisory Committee does not   support the proposed provision to provide relief from ...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 3#3. Back to the River -
+  Single Source Approval Request
+
+> That the matter of the Back to the River   Design Competition BE REFERRED back to the Civic Administration to obtain   additional information from the London Community Foundation (LCF) as to what   approvals are required from Municipal Council to ensure the submission of   high quality proposals ...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 3#3. Back to the River -
+  Single Source Approval Request
+
+> Approve an amendment to       add a new part c)v) as follows:   "v)  no parking       restrictions, by way of fee, be applied to the required parking"   and to add a new part d), as       follows:   "d)        the       Civic Administration BE DIRECTED to review current zoning restrictions       ...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 3#3. Back to the River -
+  Single Source Approval Request
+
+> Approve clause 14 as       amended.              Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 3#3. Back to the River -
+  Single Source Approval Request
+
+> Approve part e) of clause 8.   e)        the       City Clerk BE REQUESTED to take the following actions with respect to the       Council Procedure By-Law No. A-45:              i)                amend section 3.2 “Annual Schedule of Meetings – qualifications” by       deleting the following wor...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+
+**Nay (5):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher)
+
+</details>
+
+### 3#3. Back to the River -
+  Single Source Approval Request
+
+> Approve clause 3, noting that the Civic Administration will       ensure that the information contained in the 2007 report on this matter       (including the specific designation of funds for initiatives in the       Downtown area) will be shared with the consultant currently engaged to       as...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 3#4. Agreement
+        Between the City of London and The London Economic Development
+        Corporation (LEDC) 2015-2019
+
+> That, on the recommendation of         the City Manager, and in accordance with the City of London Procurement         of Goods and Services Policy, Section 14.4 Single Source, the following         actions be taken with respect to the service agreement between The         Corporation of the City...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 4#2. London ON Bikes
+  Cycling Master Plan Status Report
+
+> Approve that the matter pertaining to     the proposed revision to the W12A landfill designation haul route BE     REFERRED back for further consideration, at a future meeting of the Civic     Works Committee, when the staff report regarding the related Environmental     Assessment process is bei...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+
+**Nay (4):** [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher)
+
+</details>
+
+### 9#4. ADDED -
+        Orchestra London Bankruptcy
+
+> Approve part e) of clause 8.   e)        the       City Clerk BE REQUESTED to take the following actions with respect to the       Council Procedure By-Law No. A-45:              i)                amend section 3.2 “Annual Schedule of Meetings – qualifications” by       deleting the following wor...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+
+**Nay (5):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher)
+
+</details>
+
+### 9#4. ADDED -
+        Orchestra London Bankruptcy
+
+> Approve clause 3, noting that the Civic Administration will       ensure that the information contained in the 2007 report on this matter       (including the specific designation of funds for initiatives in the       Downtown area) will be shared with the consultant currently engaged to       as...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### V. COMMITTEE
+  OF THE WHOLE, IN CAMERA
+
+> approve that   Council rise and go into Committee of the Whole, in camera, for the purpose   of considering the following matters:
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### VI. CONFIRMATION
+  AND SIGNING OF THE MINUTES OF THE SIXTEENTH MEETING HELD ON MAY 26, 2015
+
+> Approve the Minutes of the 16th Meeting   held on May 26, 2015.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### VII. COMMUNICATIONS
+  AND PETITIONS
+
+> Approve referral of the following   communications as noted on the Council agenda:
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 9. Request for
+  Delegation Status - Property Tax Assessments
+
+> That the City Manager, in consultation with   the Senior Leadership Team and the relevant Committee Chairs, BE REQUESTED to   consider and report back to the Strategic Priorities and Policy Committee on   a coordinated approach with respect to the Community Mail Box Program; it   being pointed ou...
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 10. National Anthem in
+  City Council Meetings
+
+> That the City Clerk BE DIRECTED to make   arrangements for the national anthem to be played/sung at the commencement of   Council meetings; it being noted that A. Lawton requested that his written   submission be withdrawn from the Corporate Services Committee agenda.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (1):** [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 11. Proposed
+    Revision to the W12A Landfill Designated Haul Route
+
+> Approve that the matter pertaining to     the proposed revision to the W12A landfill designation haul route BE     REFERRED back for further consideration, at a future meeting of the Civic     Works Committee, when the staff report regarding the related Environmental     Assessment process is bei...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+
+**Nay (3):** [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown)
+
+</details>
+
+### 14. (ADDED) Potential
+  Savings in Consulting Costs
+
+> That the Civic Administration BE DIRECTED   to review and report back on areas that the City of London could realize   consulting cost decreases for capital projects through the addition of new   staff, rather than contracting out those consulting services, so that the   City of London would real...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 15. Downtown Office
+  Guidelines
+
+> That Civic Administration BE DIRECTED to   review the City’s office policies, to ensure that the intent of those   policies to support the downtown is confirmed as part of the review of the   second draft of the London Plan.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+

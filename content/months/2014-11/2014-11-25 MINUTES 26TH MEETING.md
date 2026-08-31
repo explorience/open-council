@@ -1764,3 +1764,167 @@ Mayor-Elect M. Brown recognizes the
 
 # XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
+---
+
+## Votes
+
+*15 substantive votes at this meeting (3 contested, 12 unanimous). Procedural motions excluded.*
+
+### 1#6. Proposed Change of
+  Date - December 23, 2014 Council Meeting
+
+> Approve that pursuant to section 19.2 of the Council Procedure By-law, leave   be given for the introduction of an emergent motion regarding changing the   date of the December 23, 2014 Council meeting.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 1#6. Proposed Change of
+  Date - December 23, 2014 Council Meeting
+
+> Approve that the December 23, 2014   Municipal Council meeting BE CHANGED to be held instead on December 18, 2014,   commencing at 5:00 PM, in order to ensure that the members of the public have   sufficient time to review and ask questions of the Civic Administration   regarding Council matters ...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 10#2. Striking Committee Review of Citizen
+  Applications to Boards and Commissions
+
+> That, notwithstanding the applicable   policy/terms of reference, the Striking Committee BE REQUESTED to review   citizen applications to Boards and Commissions and provide a short list of   citizen candidates for the Municipal Council’s consideration; it being noted   that the short listing proc...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 2#5. Woodburning
+  Appliances
+
+> Approve that pursuant to section 19.2 of   the Council Procedure By-law, leave be given for the introduction of an   emergent motion regarding a nuisance smoke by-law.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 2#5. Woodburning
+  Appliances
+
+> Approve that the Civic Administration BE REQUESTED to review and report back   to the Community and Protective Services Committee, in early 2015, with   respect to wood burning stoves; it being noted that the review may include   the provision of a draft Nuisance Smoke By-law.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 5#3. 2015 Water and
+  Wastewater Rates
+
+> That, on the recommendation of the Managing   Director, Environmental and Engineering Services & City Engineer, and the   Managing Director, Corporate Services & City Treasurer, Chief Financial   Officer, the following actions be taken with respect to the 2015 water and   wastewater rates:   a)  ...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (3):** [Stephen Orser](/councillors/current/s-orser), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
+
+</details>
+
+### 7#2. Office Reallocation
+  - 2014 - 2018 Council Term
+
+> That, at the request of Councillor H.L.   Usher, NO ACTION BE TAKEN to relocate his office.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant)
+
+**Nay (1):** [Denise Brown](/councillors/current/d-brown)
+
+</details>
+
+### 8#2. Council Benefits
+
+> That, on the recommendation of the Managing   Director, Corporate Services and Chief Human Resources Officer, the Civic   Administration BE DIRECTED to amend the long term disability benefit for   Council members in accordance with the recommendation outlined in the staff   report dated November ...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### VI. CONFIRMATION AND SIGNING OF
+  THE MINUTES OF the 25TH MEETING HELD ON dECEMBER 17, 2013
+
+> Approve the Minutes of the 25th Meeting   held on November 25, 2014.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 2. S. Chryssoulis,
+  1377 Corley Drive - Property located at 161 Windermere Road
+  (39CD-14501/Z-8167) (Refer to the Planning and Environment Committee stage
+  for consideration with clause 12 of the 22nd Report of the Planning and
+  Environment Committee.)
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 6. Humane Wildlife
+  Conflict Policy
+
+> That, on the recommendation of the Managing   Director, Planning and City Planner and the Managing Director, Environmental   and Engineering Services and City Engineer, the following actions BE TAKEN   with respect to the Humane Urban Wildlife Conflict Policy:   a)         the   attached Humane U...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 10. Properties located
+  at 510 Central Avenue and 609 William Street (Z-8141)
+
+> Approve that a new part b) ii) J) BE   ADDED to provide for all parking at the rear, with one driveway off of   William Street and one driveway off of Central Avenue.
+
+**❌ Motion Failed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Stephen Orser](/councillors/current/s-orser), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Judy Bryant](/councillors/current/j-p-bryant)
+
+**Nay (10):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Joni Baechler](/councillors/current/j-l-baechler), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Denise Brown](/councillors/current/d-brown)
+
+</details>
+
+### 10. Properties located
+  at 510 Central Avenue and 609 William Street (Z-8141)
+
+> Approve that a new part b)ii)J) be added   as follows:   “J)       providing a landscape feature   within the front yard to ensure that vehicles cannot be driven over or parked   on the front lawn; it being noted that 27 parking spaces will be provided on   the site;”.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 10. Properties located
+  at 510 Central Avenue and 609 William Street (Z-8141)
+
+> Approve clause 10, as amended.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 13. 12th Report of the
+  London Advisory Committee on Heritage
+
+> That, the following actions be taken with   respect to the 12th Report of the London Advisory Committee on Heritage from   its meeting held on November 12, 2014:   a)         the   following actions be taken with respect to the building located at   445/447/449 Dundas Street:   i)          the   ...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+

@@ -2388,3 +2388,493 @@ Approve Third Reading and Enactment of
 
 Motion Passed
 
+---
+
+## Votes
+
+*38 substantive votes at this meeting (19 contested, 19 unanimous). Procedural motions excluded.*
+
+### 1#3. Disclosures of
+  Pecuniary Interest
+
+> Approve clause 1, as amended.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 1#6. Disclosures of
+  Pecuniary Interest
+
+> Approve that part a) of clause 1 be amended    to read as follows:
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 1#6. Disclosures of
+  Pecuniary Interest
+
+> Approve clause 1, as amended.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 10#3. Mushroom Farm
+  Zoning Review (Z-8513) (Relates to Bill No. 85)
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 17#2. Alternative Formats for Council and
+  Standing Committee Agendas to Support Greater Participation in Local
+  Government (continued)
+
+> Approve that clause 17 be amended by   adding the following new part c):
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher)
+
+**Nay (2):** [Michael van Holst](/councillors/current/m-van-holst), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 17#2. Alternative Formats for Council and
+  Standing Committee Agendas to Support Greater Participation in Local
+  Government (continued)
+
+> Approve that clause 17 be amended by   adding the following new part d):
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher)
+
+**Nay (1):** [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 17#2. Alternative Formats for Council and
+  Standing Committee Agendas to Support Greater Participation in Local
+  Government (continued)
+
+> Approve that clause 17 be amended by   adding the following new part e):
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 17#2. Alternative Formats for Council and
+  Standing Committee Agendas to Support Greater Participation in Local
+  Government (continued)
+
+> Approve clause 17, as amended.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher)
+
+**Nay (1):** [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 17#2. Alternative Formats for Council and
+  Standing Committee Agendas to Support Greater Participation in Local
+  Government (continued)
+
+> Approve that the meeting proceed  beyond   the hour of 11:00 PM.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (3):** [Phil Squire](/councillors/current/p-squire), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley)
+
+</details>
+
+### 17#3. “No-cut” Employment
+  Agreements
+
+> That it BE NOTED that Councillor P. Hubert   requested the Managing Director, Corporate Services and Chief Human Resources   Officer to advise what is stated in Council Policy 18(24) – “No-cut”   Employment Agreements and enquired about what constituted a “no-cut” contract   and if the City offer...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (3):** [Mo Salih](/councillors/current/m-salih), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong)
+
+</details>
+
+### 2#2. Ranked Ballot
+  Election Model
+
+> That the City Clerk BE DIRECTED to begin   the public consultation process for a ranked ballot election which would   include additional research and provision of a draft by-law for consideration   at a public participation meeting that would be held in sufficient time to   meet the legislative r...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+
+**Nay (4):** [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher)
+
+</details>
+
+### 2#5. Request for
+  Delegation Status - Richard Robson, Executive Director, London Police
+  Association
+
+> Approve that the voting record on clause   2 be amended to reflect that Councillor H.L. Usher voted “NAY” and Councillor   M. van Holst voted “YEA”, with respect to receiving the delegation from the   London Police Association.
+
+**✅ Motion Passed**
+
+Unanimous (10-0)
+
+### 2#5. Request for
+  Delegation Status - Richard Robson, Executive Director, London Police
+  Association
+
+> Approve that Council rise and go into   Council, In Closed Session for the purpose of considering a matter pertaining   to information and advice subject to solicitor-client privilege, including   communications necessary for that purpose, with respect to clause 2 of the   4th Report of the Strat...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (2):** [Josh Morgan](/councillors/current/j-morgan), [Mo Salih](/councillors/current/m-salih)
+
+</details>
+
+### 2#6. Request for Delegation Status - Richard
+  Robson, Executive Director, London Police Association (continued)
+
+> Approve that part b) of clause 2 be referred back in order for the Civic   Administration to report back with additional legal advice regarding   requesting the Ontario Civilian Police Commission to proceed with the   investigation as outlined in the January 5, 2017 letter from David Gilmore,   P...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher)
+
+**Nay (3):** [Josh Morgan](/councillors/current/j-morgan), [Mo Salih](/councillors/current/m-salih), [Phil Squire](/councillors/current/p-squire)
+
+</details>
+
+### 3#5. London Police
+  Services Board
+
+> That the resignation of Paul Paolatto from   the London Police Services Board, effective March 31, 2017, BE ACCEPTED, and   the following individuals BE INVITED for an interview at a future meeting of   the Corporate Services Committee:   a)              Susan   Toth b)              Kate   Wiggin...
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### 4#2. Declare Surplus -
+  Closed Road Allowance - Part of Cedarpark Crescent
+
+> That, on the recommendation of the Managing   Director, Corporate Services and City Treasurer, Chief Financial Officer, on   the advice of the Manager of Realty Services, the following actions be taken   with respect to the closed road allowance on Cedarpark Crescent, described as   Part of Cedar...
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### 4#3. B. Rice, Checker
+  Limousine / Voyageur Transportation - Vehicle for Hire By-law
+ 
+(Refer to the Community and Protective
+  Services Committee Stage for Consideration with Clause 11 of the 2nd Report
+  of the Community and Protective Services Committee)
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 7#4. Rapid Transit
+  Implementation Working Group
+
+> That the resignation of Councillor J.   Morgan from the Rapid Transit Implementation Working Group BE ACCEPTED; it   being noted that the Strategic Priorities and Policy Committee received the attached   communication dated January 27, 2017, from Councillor J. Morgan, with respect   to this matter.
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### 8#4. Sanctuary City
+
+> That the following actions be taken in   response to the President of the United States of America’s executive order   to ban individuals and families from Syria, Iran, Sudan, Iraq, Yemen, Libya   and Somalia from entering the United States of America:   a)         the   Civic Administration BE D...
+
+**✅ Motion Passed**
+
+Unanimous (9-0)
+
+### 8#4. Sanctuary City
+
+> Approve that, as a procedural matter   pursuant to Section 239(6) of the Municipal Act, 2001, the following   recommendation be forwarded to Council for deliberation and a vote in public   session:   That, on the recommendation of the Managing   Director, Corporate Services and City Treasurer, Ch...
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### 8#4. Sanctuary City
+
+> Approve the following matters BE   REFERRED to the February 14, 2017 meeting of Municipal Council for   consideration and disposition.
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### 9#3. Property Located at
+  1245 Michael Street (39T-1506/Z-8664) (Relates to Bill No. 84)
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (1):** [Mo Salih](/councillors/current/m-salih)
+
+</details>
+
+### IV. COUNCIL, IN
+  CLOSED SESSION
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### V. CONFIRMATION
+  AND SIGNING OF THE MINUTES OF THE FIFTH MEETING HELD JANUARY 17, 2017
+
+> Approve the Minutes of the Fifth meeting   held on January 17, 2017.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 3. Update on Mental
+  Health and Addictions Strategy
+
+> That, on the recommendation of the Managing   Director, Housing, Social Services and Dearness Home, the report dated January   24, 2017, with respect to the Mental Health and Addictions Strategy BE   RECEIVED.  (2017-S08)
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 9. Cold Beverage
+  Vending Machines in City of London Recreation Facilities and City Hall
+
+> At 5:48 PM, Mayor M. Brown resumes the   Chair, and Councillor Hubert takes his seat at the Council Board.
+
+**❌ Motion Failed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Michael van Holst](/councillors/current/m-van-holst), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Tanya Park](/councillors/current/t-park)
+
+**Nay (9):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher)
+
+</details>
+
+### 9. Cold Beverage
+  Vending Machines in City of London Recreation Facilities and City Hall
+
+> Approve the following part b):   b)        the Civic Administration’s plan to arrange the removal of cold beverage   vending  machines from recreation facilities and City Hall BE ENDORSED,   including the development and implementation of a comprehensive communication   and education strategy;
+
+**❌ Motion Failed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown)
+
+**Nay (7):** [Josh Morgan](/councillors/current/j-morgan), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 9. Cold Beverage
+  Vending Machines in City of London Recreation Facilities and City Hall
+
+> Approve the following part c):   c)     the Middlesex London Health Unit BE ASKED to develop and implement the   communication and education strategy;
+
+**❌ Motion Failed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Michael van Holst](/councillors/current/m-van-holst), [Maureen Cassidy](/councillors/current/m-cassidy), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (7):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong)
+
+</details>
+
+### 9. Cold Beverage
+  Vending Machines in City of London Recreation Facilities and City Hall
+
+> Approve the following part d):   d)   the   Civic Administration’s plan to arrange for the removal of candy vending from   recreational facilities at the end of the existing contract in 2017 BE   ENDORSED.
+
+**✅ Motion Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
+
+**Nay (5):** [Josh Morgan](/councillors/current/j-morgan), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher)
+
+</details>
+
+### 11. Vehicle for Hire
+  By-law
+
+> The question “Shall the ruling of the Chair   be sustained?” is put.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher)
+
+**Nay (4):** [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 11. Vehicle for Hire
+  By-law
+
+> Approve the following new parts c) and d):
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 11. Vehicle for Hire
+  By-law
+
+> Approve part b), as follows:
+
+**✅ Motion Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher)
+
+**Nay (6):** [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 11. Vehicle for Hire
+  By-law
+
+> Approve that the Civic Administration BE   DIRECTED to bring forward a revised Vehicle for Hire By-law to the February   14, 2017 Municipal Council meeting for consideration that contains:
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 11. Vehicle for Hire
+  By-law
+
+> Approve an amendment to the proposed   amendment to Schedule 5 - Fees, as follows:   “it being understood that the Civic   Administration will report back to the Community and Protective Services   Committee with an analysis and evaluation of whether or not the Fees are   covering all associated ...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Virginia Ridley](/councillors/current/v-ridley)
+
+**Nay (4):** [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 11. Vehicle for Hire
+  By-law
+
+> Motion Passed
+
+**✅ Motion Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Josh Morgan](/councillors/current/j-morgan), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Virginia Ridley](/councillors/current/v-ridley)
+
+**Nay (6):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 11. Vehicle for Hire
+  By-law
+
+> Approve clause 11, as amended; it being   noted that the by-law will have a force and effect date of April 4, 2017.
+
+**✅ Motion Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (6):** [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Virginia Ridley](/councillors/current/v-ridley)
+
+</details>
+
+### 16. Deferred Matters
+  List
+
+> That the January 2017 Deferred Matters List   for the Community and Protective Services Committee BE UPDATED and BE   RECEIVED.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 17. Alternative Formats
+  for Council and Standing Committee Agendas to Support Greater Participation
+  in Local Government
+
+> Approve that Council rise and go into   Council, In Closed Session, for the purpose of considering a matter   pertaining to advice subject to solicitor-client privilege, including communications   necessary for that purpose, with respect to City of London compliance with   the Accessibility for O...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+
+**Nay (1):** [Harold Usher](/councillors/current/h-l-usher)
+
+</details>
+

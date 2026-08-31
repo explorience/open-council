@@ -5,18 +5,18 @@ slug: "p-van-meerbergen"
 meetingCount: 528
 yearsActive: "2010 - 2026"
 isCurrent: true
-totalVotes: 9319
-votesYea: 7037
-votesNay: 1143
+totalVotes: 10070
+votesYea: 7826
+votesNay: 1105
 votesAbsent: 617
 votesRecused: 74
 votesAbstained: 23
 votesOther: 425
 attendanceRate: 95.3
-participationRate: 87.8
-yeaRate: 86.0
-contestedDissentRate: 25.0
-contestedVotes: 4218
+participationRate: 88.7
+yeaRate: 87.6
+contestedDissentRate: 33.9
+contestedVotes: 2951
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -34,13 +34,13 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 9,319 |
-| Voted Yea | 7,037 (75.5%) |
-| Voted Nay | 1,143 (12.3%) |
-| Absent | 617 (6.6%) |
-| Recused (conflict of interest) | 74 (0.8%) |
+| Total Votes | 10,070 |
+| Voted Yea | 7,826 (77.7%) |
+| Voted Nay | 1,105 (11.0%) |
+| Absent | 617 (6.1%) |
+| Recused (conflict of interest) | 74 (0.7%) |
 | Abstained | 23 (0.2%) |
-| Other/Unrecorded | 425 (4.6%) |
+| Other/Unrecorded | 425 (4.2%) |
 
 *Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
 
@@ -51,17 +51,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 6,276 |
-| Voted Yea | 4,635 (83.8%) |
-| Voted Nay | 896 (16.2%) |
+| Substantive Votes | 6,692 |
+| Voted Yea | 5,102 (85.8%) |
+| Voted Nay | 845 (14.2%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 25.0%
-- **Contested Votes**: 4,218
+- **Dissent Rate**: 33.9%
+- **Contested Votes**: 2,951
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -72,9 +72,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 1,528 |
-| Voted Yea | 1,081 (73.7%) |
-| Voted Nay | 385 (26.3%) |
+| Budget Votes | 1,316 |
+| Voted Yea | 974 (77.7%) |
+| Voted Nay | 280 (22.3%) |
 | Absent | 39 |
 
 
@@ -111,8 +111,8 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 5,379 | 4,266 | 627 | 91.0% |
-| Strategic Priorities and Policy Committee | 2,861 | 1,876 | 385 | 79.0% |
+| Council | 6,517 | 5,315 | 716 | 92.5% |
+| Strategic Priorities and Policy Committee | 2,474 | 1,616 | 258 | 75.7% |
 | Civic Works Committee | 533 | 463 | 35 | 93.4% |
 | Budget Committee | 189 | 118 | 68 | 98.4% |
 | Corporate Services Committee | 187 | 168 | 9 | 94.7% |

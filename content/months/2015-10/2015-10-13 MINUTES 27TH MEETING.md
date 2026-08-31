@@ -1542,3 +1542,216 @@ Approve Third Reading and Enactment of
 Motion
 Passed
 
+---
+
+## Votes
+
+*17 substantive votes at this meeting (8 contested, 9 unanimous). Procedural motions excluded.*
+
+### 11#2. Properties located
+  at 598, 600, 604 and 608 Springbank Drive (Z-8374) (Related to Bill No. 353)
+
+> That, on the recommendation of the Managing   Director, Planning and City Planner, the following actions be taken with   respect to the application of York Development Group MAI Inc., relating to   the properties located at 598, 600, 604 and 608 Springbank Drive:   a)         the   proposed by-la...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Virginia Ridley](/councillors/current/v-ridley)
+
+</details>
+
+### 12#2. Planning Services
+  Two Year Work Program
+
+> That the following actions be taken with   respect to the Planning Services 2 Year Work Program:   a)         the   Civic Administration BE REQUESTED to review the Trail Planning and Design   Standards for Environmentally Significant Areas by the end of Q2, 2016; and,   b)         the   Civic Adm...
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 2#3. Amendment to
+  Council Policy 28(2) Council Members' Expense Account (Related to Bill
+  No.344)
+
+> That, on the recommendation of the City   Clerk, the attached revised proposed by-law (Appendix “A”) BE   INTRODUCED at the Municipal Council meeting on October 13, 2015 to repeal   Council Policy 28(2), “Council Members’ Expense Account” and replace it with   a revised Council Policy 28(2), in o...
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 3#3. Review of Municipal
+  Act, 2001 and Municipal Conflict of Interest Act
+
+> Approve that clause 3 be approved in   principle and be referred to the October 20, 2015 meeting of the Corporate   Services Committee for the purpose of giving consideration as to whether or   not to also request the Province to consider potential sanctions that could   restrict Council Members ...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 7#2. Properties located
+  at 2525 and 2695 Dingman Drive (Z-8512) (Related to Bill No. 350)
+
+> That, on the recommendation of the Managing   Director, Planning and City Planner, with respect to the application of Dave   and Kim Stewart, relating to the properties located at 2525 and 2695 Dingman   Drive, the attached, revised, proposed by-law BE INTRODUCED at the   Municipal Council meetin...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (1):** [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 9#2. Properties located
+  at 3313-3450 Wonderland Road South and 1789 Wharncliffe Road South
+  (SP15-009327)
+
+> Amend clause 9 by adding the following   wording to the end of part b) i) “having regard to section 2.6.4 "Large   Shopping Centres and Big Box Retail” in the Province of Ontario’s   Transit-Supportive Guidelines”.
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 9#2. Properties located
+  at 3313-3450 Wonderland Road South and 1789 Wharncliffe Road South
+  (SP15-009327)
+
+> Approve clause 9, as amended
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### V. COMMITTEE
+  OF THE WHOLE, IN CAMERA
+
+> Approve that Council rise and go into   Committee of the Whole, in camera, for the purpose of considering a matter   pertaining to advice that is subject to solicitor-client privilege and any   communications necessary for the purpose, and a proposed or pending   acquisition or disposition of lan...
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### VI. CONFIRMATION
+  AND SIGNING OF THE MINUTES OF THE TWENTY-SIXTH MEETING HELD ON SEPTEMBER 29,
+  2015
+
+> Approve the Minutes of the 26th   Meeting held on September 29, 2015.
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### XIII. BY-LAWS
+
+> Approve Introduction and First Reading of   Bill No.  350.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (1):** [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### XIII. BY-LAWS
+
+> Approve Second Reading of Bill No. 350.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (1):** [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### XIII. BY-LAWS
+
+> Approve Third Reading and Enactment of Bill   No. 350.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (1):** [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### XIII. BY-LAWS
+
+> Approve Introduction and First Reading of   Bill No.  353.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Virginia Ridley](/councillors/current/v-ridley)
+
+</details>
+
+### XIII. BY-LAWS
+
+> Approve Second Reading of Bill No. 353.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Virginia Ridley](/councillors/current/v-ridley)
+
+</details>
+
+### XIII. BY-LAWS
+
+> Approve Third Reading and Enactment of   Bill No. 353.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Virginia Ridley](/councillors/current/v-ridley)
+
+</details>
+
+### 6. Flooding Matters -
+  Terms of Reference
+
+> That the following actions be taken with   respect to dealing with flooding matters:   a)         the   Civic Administration BE REQUESTED to report back by December 1, 2015, with a   proposed work plan for dealing with flooding matters, as initially   contemplated in the draft terms of reference ...
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 8. Western Road /
+  Wharncliffe Road North Widening Environmental Study Report
+
+> That, on the recommendation of the Managing   Director, Environmental and Engineering Services and City Engineer, the   following actions be taken with respect to the Western Road / Wharncliffe   Road North Widening Environmental Assessment:   a)         the   Western Road / Wharncliffe Road Nort...
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+

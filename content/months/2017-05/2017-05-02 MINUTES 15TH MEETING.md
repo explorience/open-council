@@ -2202,3 +2202,246 @@ Approve Third Reading and Enactment of
 
 Motion Passed
 
+---
+
+## Votes
+
+*20 substantive votes at this meeting (6 contested, 14 unanimous). Procedural motions excluded.*
+
+### 10#2. Open Air Burning
+
+> That it BE NOTED that the Community and   Protective Services Committee (CPSC) heard delegations from the following,   requesting the enactment of a City of London by-law to prohibit outdoor open   air burning:   -           A.   Kytka, representing C. Oglan, and presenting the submission include...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (2):** [Maureen Cassidy](/councillors/current/m-cassidy), [Virginia Ridley](/councillors/current/v-ridley)
+
+</details>
+
+### 13#3. Deferred Matters
+  List
+
+> Motion Passed
+
+**✅ Motion
+Passed**
+
+Unanimous (13-0)
+
+### 2#5. Year 2017 Tax
+  Policy
+
+> Approve that clause 2 be amended, in   parts d) and e) by deleting the words “meeting to be held on May 2, 2017” and   by inserting the words “a future meeting of” after the word “at” in line 2 of   parts d) and e).
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 2#5. Year 2017 Tax
+  Policy
+
+> Approve clause 2, as amended.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 3#3. Year 2017 Education
+  Tax Rates
+
+> Approve that clause 3 be amended by   deleting the words “the Council meeting of May 2, 2017 assuming by that date   the appropriate regulation has been issued by the Minister of Finance” and by   replacing them with the words “a future meeting of the Municipal Council.”
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 3#3. Year 2017 Education
+  Tax Rates
+
+> Approve clause 3, as amended.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 4#2. Lead Agency to
+  Oversee the Implementation of London For All:  A Roadmap to End Poverty
+  Request for Proposal 17-10
+
+> That, on the recommendation of the Managing   Director of Neighbourhood, Children and Fire Services and the Managing   Director of Housing, Social Services and Dearness Home, the following actions   be taken with respect to the award of the contract for the Request for   Proposal (RFP) 17-10 Lead...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (1):** [Phil Squire](/councillors/current/p-squire)
+
+</details>
+
+### 4#3. Proposed Amendment
+  to Council Procedure By-law - Change in Start Time - Corporate Services
+  Committee (Relates to Bill No. 187)
+
+> That, on the recommendation of the City   Clerk, the proposed by-law appended to the staff report dated April 25, 2017   BE INTRODUCED at the Municipal Council meeting to be held on May 2, 2017 to   amend the start time for future regularly scheduled meetings of the Corporate   Services Committee...
+
+**✅ Motion
+Passed**
+
+Unanimous (13-0)
+
+### 7#2. Short Term
+  Accommodations
+
+> That, on the recommendation of the Managing   Director of Development and Compliance Services and Chief Building Official,   the report related to short term accommodations, dated April 25, 2017, BE   RECEIVED; it being noted that Civic Administration will undertake a work   program to address sh...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (1):** [Virginia Ridley](/councillors/current/v-ridley)
+
+</details>
+
+### 8#2. Anti-Contraband
+  Tobacco Campaign Funded by Tobacco Industry Front Groups Intend to Block
+  Tobacco Control Measures
+
+> The motion to Approve part c) i) of clause   8 is put.
+
+**❌ Motion Failed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher)
+
+**Nay (9):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
+
+</details>
+
+### 8#2. Anti-Contraband
+  Tobacco Campaign Funded by Tobacco Industry Front Groups Intend to Block
+  Tobacco Control Measures
+
+> The motion to Approve part c) ii) of clause   8 is put.
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### 8#2. Anti-Contraband
+  Tobacco Campaign Funded by Tobacco Industry Front Groups Intend to Block
+  Tobacco Control Measures
+
+> Approve a revised part c) i) as follows:   c)i)  the City of London acknowledges   recent increases in tobacco taxation; and,
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### 8#2. Anti-Contraband
+  Tobacco Campaign Funded by Tobacco Industry Front Groups Intend to Block
+  Tobacco Control Measures
+
+> The motion to Approve parts a) and b) of   clause 8 is put.
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### V. CONFIRMATION
+  AND SIGNING OF THE MINUTES OF THE TWELFTH , THIRTEENTH and fourteenth
+  MEETINGS HELD ON APRIL 18, APRIL 21 and May 1 2017 RESPECTIVELY
+
+> Approve the Minutes of the Twelfth,   Thirteenth and Fourteenth meetings held on April 18 and 21, and May 1, 2017,   respectively.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 1. Roberto Mannella,
+  Chair, Trees and Forests Advisory Committee - The 4th Report of the Trees and
+  Forests Advisory Committee
+ 
+(Refer to the Planning and Environment
+  Stage for Consideration with Clause 10 of the 8th Report of the Planning and
+  Environment Committee)
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 13. Public Engagement
+  Process for the Evaluation of Community Improvement Plan Incentives
+
+> That, on the recommendation of the Managing   Director, Planning and City Planner, the following actions be taken with   respect to the service review of the City’s Community Improvement Plans   (CIPs) and associated incentive programs:   a)         the   Residential Development Charges Programs ...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 14. Property located at
+  1156 Dundas Street - Brownfield CIP Incentives
+
+> That, on the recommendation of the Managing   Director, Planning and City Planner, the following actions be taken with   respect to the application made under the Community Improvement Plan for   Brownfield Incentives and the business case submission received from McCormick   Villages Inc. (“McCo...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 15. Property located at
+  100 Fullarton Street, 475-501 Talbot Street and 93-95 Dufferin Ave - 
+  Brownfield Incentives
+
+> The motion to Approve part a) of clause 15   is put.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (2):** [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 15. Property located at
+  100 Fullarton Street, 475-501 Talbot Street and 93-95 Dufferin Ave - 
+  Brownfield Incentives
+
+> The motion to Approve remainder of clause   15 is put.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (1):** [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 16. Withdrawal Renaming
+  Proposal - Mildred Barons Park to Vimy Ridge Park
+
+> That the following actions be taken with   respect to the submission by Councillor B. Armstrong related to the   establishment of a permanent Vimy Ridge memorial:   a)         clause   18 of the 3rd Report of the Community and Protective Services Committee which   referred to a request by Council...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+

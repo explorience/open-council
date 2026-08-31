@@ -278,3 +278,26 @@ Approve that the Meeting adjourn.
 
 ****
 
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### IX. ADDED
+  REPORTS
+
+> Approve that, on the recommendation of   the Acting City Manager and the Managing Director, Corporate Services &   Chief Human Resources Officer, the attached Memorandum of Agreement   concerning the 2011-2019 Collective Agreement for the London Professional   Fire Fighters Association (LPFFA), r...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### XIV. ADJOURNMENT
+
+> Approve that the Meeting adjourn.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+

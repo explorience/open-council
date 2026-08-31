@@ -372,3 +372,47 @@ Approve Third Reading and Enactment of
 Motion
 Passed
 
+---
+
+## Votes
+
+*4 substantive votes at this meeting (0 contested, 4 unanimous). Procedural motions excluded.*
+
+### 2. Setting Priorities
+  - Council's 2016 - 2019 Multi-Year Budget
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 2. Setting Priorities
+  - Council's 2016 - 2019 Multi-Year Budget
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 2. Setting Priorities
+  - Council's 2016 - 2019 Multi-Year Budget
+
+> Motion Passed
+
+**✅ Motion
+Passed**
+
+Unanimous (14-0)
+
+### 2. Setting Priorities
+  - Council's 2016 - 2019 Multi-Year Budget
+
+> Motion Passed
+
+**✅ Motion
+Passed**
+
+Unanimous (14-0)
+

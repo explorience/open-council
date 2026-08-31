@@ -2533,3 +2533,338 @@ Motion Passed
 
 ****
 
+---
+
+## Votes
+
+*31 substantive votes at this meeting (8 contested, 23 unanimous). Procedural motions excluded.*
+
+### 1#2. (ADDED) Properties
+  located at 1057, 1059 and 1061 Richmond Street (Z-8106) (Refer to the
+  Planning and Environment Committee Stage for Consideration with Clause 13 of
+  the 11th Report of the Planning and Environment Committee.)
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 2#3. Blackfriars/Petersville
+  Neighbourhood Planning Options/6th Report of the London Advisory
+  Committee on Heritage
+
+> That, the following actions be taken with   respect to the 6th Report of the London Advisory Committee on Heritage (LACH)   from its meeting held on May 8, 2013:   a)         on   the recommendation of the Managing Director, Planning and City Planner, with   the concurrence of the Heritage Planne...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 2#5. Western
+  University's Strategic Plan
+
+> That the Mayor and the City Manager BE   REQUESTED to advise Western University that, further to the letter dated   April 24, 2013 from the Mayor and the City Manager providing input on Western   University’s strategic plan, the City of London has an interest in connecting   international student...
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### 3#3. Heritage Conservation Districts
+
+> That, the Civic Administration BE DIRECTED   to report back at a future meeting of the Planning and Environment Committee   with respect to the potential of undertaking concurrent Heritage Conservation   Districts, on the list of potential Heritage Conservation Districts (Heritage   Places: A Des...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 5#3. Annual Meeting
+  Calendar
+
+> Amend the annual meeting calendar to move   the SPPC meeting of February 13 to February 10, 2014.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 5#3. Annual Meeting
+  Calendar
+
+> Amend clause 5 by revising the annual   meeting calendar to include the following new meeting dates:   Dearness Committee of Management:   Thursday, January 23, 2014 at Noon Thursday, March 27, 2014 at Noon Wednesday, June 25, 2014 at Noon Thursday, September 18, 2014 at Noon   Audit Committee:  ...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (1):** [Paul Hubert](/councillors/current/p-hubert)
+
+</details>
+
+### 5#3. Annual Meeting
+  Calendar
+
+> Approve clause 5, as amended.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 5#5. City of London's
+  Various Programs and Projects
+
+> That the Civic Administration BE REQUESTED   to look at the Community Improvement Program (CIP) within the framework of   the Industrial Land Strategy as an economic development instrument with a   view to attract businesses and resources for the City of London’s various   programs and projects, ...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 7#5. Development Charges
+  Policy Review - UWRF Framework and Timing of DC Payment - SWM Component
+
+> That the following recommendation BE   REFERRED back to staff for further dialogue and report back at the June 10,   2013 meeting of the Strategic Priorities and Policy Committee:   “That, on   the recommendation of the Managing Director, Corporate Services and City   Treasurer, Chief Financial O...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 7#5. Development Charges
+  Policy Review - UWRF Framework and Timing of DC Payment - SWM Component
+
+> Motion Passed
+
+**✅ Motion Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (6):** [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Judy Bryant](/councillors/current/j-p-bryant)
+
+</details>
+
+### 7#5. Development Charges
+  Policy Review - UWRF Framework and Timing of DC Payment - SWM Component
+
+> Approve progress on the in camera matters.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 8#2. Additional
+  Information Regarding Training Expenditures for London Hydro Board Members
+
+> That the City Clerk BE REQUESTED to review   the appointment process for the City of London’s appointees to its local   boards and commissions, with a view to ensuring the process provides for   consideration of the qualifications of applicants and that any necessary   changes to the appointment ...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 9#2. Bruce Street and
+  Elmwood Avenue
+
+> That the communication dated April 5, 2013,   from Councillor D. Brown, with respect to traffic flow on Bruce Street and   Elmwood Avenue, BE REFERRED to staff for a report back to the Civic Works   Committee.   (2013-T04)
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 9#2. Bruce Street and
+  Elmwood Avenue
+
+> Amend the criteria attached to part   6, "Criteria For the on-street Boulevard Cafe Program:" in part j)   by adding the words "along Dundas Street within", following the   words "York Street".
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
+
+**Nay (1):** [Denise Brown](/councillors/current/d-brown)
+
+</details>
+
+### 9#2. Bruce Street and
+  Elmwood Avenue
+
+> Approve clause 6, as amended.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
+
+**Nay (1):** [Denise Brown](/councillors/current/d-brown)
+
+</details>
+
+### IV. COMMITTEE
+  OF THE WHOLE, IN CAMERA
+
+> Approve that Council rise and go   into Committee of the Whole, in camera, for the purpose of considering the   following:
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### VI. CONFIRMATION
+  AND SIGNING OF THE MINUTES OF THE NINTH MEETING HELD ON APRIL 30, 2013
+
+> Approve the Minutes of the 9th Meeting   held on April 30, 2013.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### XIII. BY-LAWS
+
+> Approve Introduction and 1st Reading   of Bill Nos. 211 to 232.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### XIII. BY-LAWS
+
+> Approve 2nd Reading of Bill Nos. 211 to   232.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### XIII. BY-LAWS
+
+> Approve 3rd Reading and Enactment of Bill   Nos. 211 to 232.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### XIII. BY-LAWS
+
+> Approve Introduction and 1st Reading of   Bill No. 233.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### XIII. BY-LAWS
+
+> Approve 2nd Reading of Bill No.    233, with the corrected typographical error.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### XIII. BY-LAWS
+
+> Approve 3rd Reading and Enactment   of Bill No. 233, with the corrected typographical error.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### XIV. ADJOURNMENT
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 11. Property located at
+  425 Wharncliffe Road South
+
+> Approve that part b) of clause 11 be   amended to read as follows:   "b)       the   Approval Authority BE ADVISED that the north and south fences are to be   constructed of wrought iron, at a height of 1.8m, the existing interior chain   link fence is to be retained, the clear throat access is t...
+
+**✅ Motion Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (6):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
+
+</details>
+
+### 11. Property located at
+  425 Wharncliffe Road South
+
+> Approve clause 11, as amended,   excluding part b).
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 11. Property located at
+  425 Wharncliffe Road South
+
+> Approve clause 11 b), as amended.
+
+**✅ Motion Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (6):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
+
+</details>
+
+### 12. Properties located
+  at 3924 and 4128 Colonel Talbot Road (39T-12503/OZ-8052)
+
+> That, on the recommendation of the Manager   of Development Services and Planning Liaison, the following actions be taken   with respect to the appeals by Colonel Talbot Developments Inc., on the   neglect by the Municipal Council to make a decision on the Official Plan and   Zoning By-law amendm...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 15. Hazelden Park
+
+> That the Civic Administration BE REQUESTED   to review  the amount of parking in Hazelden Park and look for potential   opportunities to expand the existing parking lot; it being noted that cars are   parking along Hyde Park Road during ball games and soccer games.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 16. Properties located
+  at 1057, 1059 and 1061 Richmond Street
+
+> Approve the motion to refer be Amended in   part d) by deleting the words "compatible density suggestions" and by   replacing them with the words "a maximum density of 45 units per   hectare, that is compatible and reflective of the character of the existing   neighbourhood".
+
+**✅ Motion Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (5):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Joe Fontana](/councillors/current/j-f-fontana), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill)
+
+</details>
+
+### 16. Properties located
+  at 1057, 1059 and 1061 Richmond Street
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (1):** [Bud Polhill](/councillors/current/b-polhill)
+
+</details>
+

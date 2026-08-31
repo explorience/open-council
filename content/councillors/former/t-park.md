@@ -5,18 +5,18 @@ slug: "t-park"
 meetingCount: 228
 yearsActive: "2014 - 2018"
 isCurrent: false
-totalVotes: 4211
-votesYea: 3952
-votesNay: 170
+totalVotes: 4794
+votesYea: 4506
+votesNay: 199
 votesAbsent: 70
 votesRecused: 19
 votesAbstained: 0
 votesOther: 0
 attendanceRate: 90.3
-participationRate: 97.9
-yeaRate: 95.9
-contestedDissentRate: 3.5
-contestedVotes: 3561
+participationRate: 98.1
+yeaRate: 95.8
+contestedDissentRate: 17.0
+contestedVotes: 861
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,11 +33,11 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 4,211 |
-| Voted Yea | 3,952 (93.8%) |
-| Voted Nay | 170 (4.0%) |
-| Absent | 70 (1.7%) |
-| Recused (conflict of interest) | 19 (0.5%) |
+| Total Votes | 4,794 |
+| Voted Yea | 4,506 (94.0%) |
+| Voted Nay | 199 (4.2%) |
+| Absent | 70 (1.5%) |
+| Recused (conflict of interest) | 19 (0.4%) |
 | Abstained | 0 (0.0%) |
 
 *Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
@@ -49,17 +49,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 3,786 |
-| Voted Yea | 3,597 (95.7%) |
-| Voted Nay | 161 (4.3%) |
+| Substantive Votes | 3,725 |
+| Voted Yea | 3,521 (95.2%) |
+| Voted Nay | 176 (4.8%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 3.5%
-- **Contested Votes**: 3,561
+- **Dissent Rate**: 17.0%
+- **Contested Votes**: 861
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -70,9 +70,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 616 |
-| Voted Yea | 573 (93.5%) |
-| Voted Nay | 40 (6.5%) |
+| Budget Votes | 368 |
+| Voted Yea | 345 (94.5%) |
+| Voted Nay | 20 (5.5%) |
 | Absent | 2 |
 
 
@@ -94,12 +94,12 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 1,226 | 1,148 | 57 | 98.3% |
+| Council | 2,165 | 2,036 | 108 | 99.0% |
 | Planning and Environment Committee | 1,211 | 1,134 | 24 | 95.6% |
-| Strategic Priorities and Policy Committee | 1,075 | 1,002 | 73 | 100.0% |
+| Strategic Priorities and Policy Committee | 735 | 684 | 51 | 100.0% |
 | Civic Works Committee | 300 | 283 | 2 | 95.0% |
 | Corporate Services Committee | 272 | 260 | 12 | 100.0% |
-| Community and Protective Services Committee | 127 | 125 | 2 | 100.0% |
+| Community and Protective Services Committee | 111 | 109 | 2 | 100.0% |
 
 
 ## Notable Dissenting Votes

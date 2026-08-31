@@ -1523,3 +1523,155 @@ Approve Third Reading and Enactment of Bill
 Motion
 Passed
 
+---
+
+## Votes
+
+*14 substantive votes at this meeting (3 contested, 11 unanimous). Procedural motions excluded.*
+
+### 2#6. London Arts Council Agreement Renewal
+
+> Amend clause 2 to read as follows:
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (1):** [Phil Squire](/councillors/current/p-squire)
+
+</details>
+
+### 2#6. London Arts Council Agreement Renewal
+
+> Amend clause 2 by adding the following   new part c):   “c)          the London Arts Council (LAC) BE INVITED to make a presentation to a future   meeting of the Strategic Priorities and Policy Committee to provide   information regarding the work of the LAC.”
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 2#6. London Arts Council Agreement Renewal
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (2):** [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer)
+
+</details>
+
+### 5#3. Report on Internal
+  Audit Results - Engineering and Environmental Services: Roads &
+  Transportation - Capital Budget Development and Project Costing
+
+> That, on the recommendation of   PricewaterhouseCoopers (PwC), the action plans identified in the Report on   Internal Audit Results – Engineering and Environmental Services - Roads and   Transportation – Capital Budget Development and Project Costing dated April   29, 2015 BE IMPLEMENTED.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 6#2. Building Division
+  Monthly Report for March 2015
+
+> Approve clause 6 as amended.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 7#3. 2016 Growth Management Implementation
+  Strategy (GMIS) Update
+
+> That, on the recommendation of the Managing   Director, Corporate Services and City Treasurer, Chief Financial Officer with   respect to the implementation of the Official Plan growth management policies   applicable to the financing of growth-related infrastructure works, the   following actions...
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### 7#3. 2016 Growth Management Implementation
+  Strategy (GMIS) Update
+
+> 10th Report of the Committee   of the Whole
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 8#3. Consideration of
+  Appointment to the London Public Library Board
+
+> That Councillor P. Squire BE APPOINTED to   the London Public Library Board for the term ending November 30, 2018.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### V. COMMITTEE
+  OF THE WHOLE, IN CAMERA
+
+> MOTION FOR IN CAMERA SESSION
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### VI. CONFIRMATION
+  AND SIGNING OF THE MINUTES OF THE TWELFTH MEETING HELD ON APRIL 28, 2015
+
+> Approve The Minutes of the 12th Meeting   held on April 28, 2015.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### XII. EMERGENT
+  MOTIONS
+
+> Approve that pursuant to section 19.2 of   the Council Procedure By-law, leave be given for the introduction of an   emergent motion to amend the annual meeting calendar for the month of June   2015 to add an additional Planning and Environment Committee meeting and   change the June 24, 2015 Mun...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### XII. EMERGENT
+  MOTIONS
+
+> Approve that the attached amended   meeting schedule for June 2015 (Appendix “A”) BE APPROVED.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 3. South Street and
+  Grey Street Two Way Conversion
+
+> That, on the recommendation of the Managing   Director, Environmental and Engineering Services and City Engineer, the Civic   Administration BE DIRECTED to host a public meeting with respect to converting   South Street between Wellington Street and Adelaide Street North and Grey   Street between...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (1):** [Virginia Ridley](/councillors/current/v-ridley)
+
+</details>
+
+### 16. Highway 401/Colonel
+  Talbot Road/Highway 4 Interchange Reconstruction Ministry of Transportation
+  Class Environmental Assessment Addendum
+
+> Approve clause 16, as amended.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+

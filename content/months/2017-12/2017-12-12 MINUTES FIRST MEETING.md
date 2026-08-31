@@ -4908,3 +4908,561 @@ Approve Third Reading and Enactment of
 Motion
 Passed
 
+---
+
+## Votes
+
+*48 substantive votes at this meeting (16 contested, 32 unanimous). Procedural motions excluded.*
+
+### 10#2. 11th Report of the
+  Cycling Advisory Committee
+
+> That the 11th Report of the Cycling   Advisory Committee, from its meeting held on November 22, 2017, BE RECEIVED.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher)
+
+**Nay (1):** [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 11#4. Planning for
+  Non-therapeutic Cannabis in Retail Stores (Relates to Bill No. 16)
+
+> Approve the addition of a new part g), as   follows:   g)         the   Mayor BE DIRECTED to write a letter to the Government of Canada expressing   municipal Council's thanks and support for agreeing to a 25%/75%   Federal/Provincial split of tax revenue from cannabis sales; and further,   that ...
+
+**✅ Motion Passed**
+
+Unanimous (9-0)
+
+### 11#4. Planning for
+  Non-therapeutic Cannabis in Retail Stores (Relates to Bill No. 16)
+
+> Approve that part b) of clause 11 BE   REFERRED back to the Civic Administration, in order for the Province to provide   additional guidance related to this matter.
+
+**❌ Motion Failed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Paul Hubert](/councillors/current/p-hubert)
+
+**Nay (7):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong)
+
+</details>
+
+### 11#4. Planning for
+  Non-therapeutic Cannabis in Retail Stores (Relates to Bill No. 16)
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (9-0)
+
+### 12#4. Business Licensing
+  By-law Review - New and Revised Regulations (Relates to Bill No. 17)
+
+> Approve the addition of a new part b), as   follows:   b)         the   City Clerk BE DIRECTED to update the web page that appeared on the City’s   previous website, for inclusion on the current website, that sets out the   process for members of the public to seek delegation status at a Standing...
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### 12#4. Business Licensing
+  By-law Review - New and Revised Regulations (Relates to Bill No. 17)
+
+> Approve the addition of a new part c) as   follows:   c)         the   Civic Administration be DIRECTED report back with a public engagement   protocol for consulting with individuals, outside of a formal public   participation meeting process, who identify as vulnerable members of the   populati...
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### 12#4. Business Licensing
+  By-law Review - New and Revised Regulations (Relates to Bill No. 17)
+
+> Approve the addition of a new part d),   as follows:   d)              the   Civic Administration BE DIRECTED to consult with workers (current and/or   former) in the adult live entertainment and body rub parlour industry on changes   to provisions in the business licensing bylaw relating to thes...
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### 12#4. Business Licensing
+  By-law Review - New and Revised Regulations (Relates to Bill No. 17)
+
+> Approve clause 12, as amended.
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### 2#8. Financial and Other
+  Resources Required to Host International Plowing Match 2020
+
+> Approve:   1.         Lease Extension – 201 Queens   Avenue, 2nd and 3rd Floors – Information Technology Services   That, on the recommendation of the Managing   Director, Corporate Services and City Treasurer, Chief Financial Officer, on   the advice of the Manager of Realty Services, the follow...
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### 4#2. Crowd Control
+  Procedures at Meetings
+
+> Approve that clause 4 be amended to read   as follows:   “That the staff report dated December 5,   2017, entitled “Crowd Control Procedures at Meetings”, BE REFERRED back to   the Civic Administration to incorporate additional procedures with respect to   the entry doors into the Chambers Galler...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 4#7. 2019 Development
+  Charges (DC) Study - Growth Projections
+
+> That the following actions be taken with   respect to the 2019 Development Charges (DC) Study – Growth Projections:   a)         the   staff report dated December 11, 2017, entitled “2019 Development Charges (DC)   Study – Growth Projections” BE REFERRED back to the Civic Administration to   prov...
+
+**✅ Motion Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher)
+
+**Nay (5):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert)
+
+</details>
+
+### 6#6. Corporate Operating and Capital Budgets
+  (rounded to the closest $1,000)
+
+> i)          That   the following Multi-Year Budget adjustments to the Operating Budget resulting   from new Council direction and cost/revenue drivers impacting the   municipality BE APPROVED; it being noted that the 2016-2019 average annual   tax levy increase would remain at 2.8%:   A)         ...
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### 6#6. Corporate Operating and Capital Budgets
+  (rounded to the closest $1,000)
+
+> i)          That   the following Multi-Year Budget adjustments to the Operating Budget resulting   from new Council direction and cost/revenue drivers impacting the   municipality BE APPROVED; it being noted that the 2016-2019 average annual   tax levy increase would remain at 2.8%:   B)         ...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher)
+
+**Nay (3):** [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong)
+
+</details>
+
+### 6#6. Corporate Operating and Capital Budgets
+  (rounded to the closest $1,000)
+
+> i)                That   the following Multi-Year Budget adjustments to the Operating Budget resulting   from new Council direction and cost/revenue drivers impacting the   municipality BE APPROVED; it being noted that the 2016-2019 average annual   tax levy increase would remain at 2.8%:   D)   ...
+
+**✅ Motion Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher)
+
+**Nay (4):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong)
+
+</details>
+
+### 6#6. Corporate Operating and Capital Budgets
+  (rounded to the closest $1,000)
+
+> i)                That   the following Multi-Year Budget adjustments to the Operating Budget resulting   from new Council direction and cost/revenue drivers impacting the   municipality BE APPROVED; it being noted that the 2016-2019 average annual   tax levy increase would remain at 2.8%:   F)   ...
+
+**✅ Motion Passed**
+
+Unanimous (9-0)
+
+### 6#6. Corporate Operating and Capital Budgets
+  (rounded to the closest $1,000)
+
+> ii)               That   the following Multi-Year Budget adjustments impacting the Operating Budget,   arising from regulatory changes and a corporate “in camera” matter BE   APPROVED; it being noted that the 2016-2019 average annual tax levy increase   would rise from 2.8% to 3.0%:   A)        P...
+
+**✅ Motion Passed**
+
+Unanimous (9-0)
+
+### 6#6. Corporate Operating and Capital Budgets
+  (rounded to the closest $1,000)
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### 6#6. Corporate Operating and Capital Budgets
+  (rounded to the closest $1,000)
+
+> ii)               That   the following Multi-Year Budget adjustments impacting the Operating Budget,   arising from regulatory changes and a corporate “in camera” matter BE   APPROVED; it being noted that the 2016-2019 average annual tax levy increase   would rise from 2.8% to 3.0%:   A)        P...
+
+**✅ Motion Passed**
+
+Unanimous (9-0)
+
+### 6#6. Corporate Operating and Capital Budgets
+  (rounded to the closest $1,000)
+
+> ii)         That   the following Multi-Year Budget adjustments impacting the Operating Budget,   arising from regulatory changes and a corporate “in camera” matter BE   APPROVED; it being noted that the 2016-2019 average annual tax levy increase   would rise from 2.8% to 3.0%:   B)        Confide...
+
+**✅ Motion Passed**
+
+Unanimous (9-0)
+
+### 6#6. Corporate Operating and Capital Budgets
+  (rounded to the closest $1,000)
+
+> Approve that, pursuant to section 13.3 of   the Council Procedure By-law, part b) of clause 7 of the 14th Report of the   Community and Protective Services Committee, adopted by Municipal Council at   its meeting of October 17, 2017, pertaining to the income related subsidized   transit program a...
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### 6#6. Corporate Operating and Capital Budgets
+  (rounded to the closest $1,000)
+
+> Approve that clause 6a)iii) of the 20th   Report of the Strategic Priorities and Policy Committee be amended by adding   the following new parts B) and C):   “B)       the   Civic Administration BE DIRECTED to include, as an additional part of the   above-noted Pilot Project, provision for reduce...
+
+**❌ Motion Failed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher)
+
+**Nay (6):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert)
+
+</details>
+
+### 6#6. Corporate Operating and Capital Budgets
+  (rounded to the closest $1,000)
+
+> Approve part b) of clause 7 of the 14th   Report of the Community and Protective Services Committee, adopted by   Municipal Council at its meeting of October 17, 2017, pertaining to the   income related subsidized transit program as it relates to reduced bus fares   for seniors, which states as f...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher)
+
+**Nay (3):** [Josh Morgan](/councillors/current/j-morgan), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 6#6. Corporate Operating and Capital Budgets
+  (rounded to the closest $1,000)
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (10-0)
+
+### 6#6. Corporate Operating and Capital Budgets
+  (rounded to the closest $1,000)
+
+> Approve that part 6a)iv) be amended by   deleting the wording "; it being noted that changes to funding for   existing and new incentive programs, if directed by Council, may come forward   as a business case in the 2019 Multi-Year Budget Update or the 2020-2023   Multi-Year Budget”.
+
+**✅ Motion Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher)
+
+**Nay (5):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert)
+
+</details>
+
+### 6#6. Corporate Operating and Capital Budgets
+  (rounded to the closest $1,000)
+
+> Approve clause 6a)iv), as amended
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### 6#6. Corporate Operating and Capital Budgets
+  (rounded to the closest $1,000)
+
+> Approve that clause 6b) be amended in part i) by   adding a new part D), under LIFECYCLE RENEWAL, as follows:    “D)       the   Civic Administration BE DIRECTED to report back with a revised cost estimate    for the 2018 Hamilton Road and Sackville Street Infrastructure Project,   including engi...
+
+**✅ Motion Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert)
+
+**Nay (4):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Harold Usher](/councillors/current/h-l-usher)
+
+</details>
+
+### 6#6. Corporate Operating and Capital Budgets
+  (rounded to the closest $1,000)
+
+> Approve clause 6 b), as amended.
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### 6#6. Corporate Operating and Capital Budgets
+  (rounded to the closest $1,000)
+
+> Approve that pursuant to section 11.11 of   the Council Procedure By-law, the meeting be permitted to proceed beyond 11:00   PM.
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### 6#6. Corporate Operating and Capital Budgets
+  (rounded to the closest $1,000)
+
+> Approve clause 6c)ii)A) which states:   “ii)        That,   in accordance with section 291(4)(c) of the Municipal Act, 2001, as amended,   the following actions be taken with respect to the Operating Budget (Appendix   A, Page 29):   A)        the   revised 2018 tax levy BE ADOPTED in the gross a...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher)
+
+**Nay (1):** [Phil Squire](/councillors/current/p-squire)
+
+</details>
+
+### 6#6. Corporate Operating and Capital Budgets
+  (rounded to the closest $1,000)
+
+> Approve clause 6c)ii)B) which states:   “ii)        That,   in accordance with section 291(4)(c) of the Municipal Act, 2001, as amended,   the following actions be taken with respect to the Operating Budget (Appendix   A, Page 29):   “B)       the   revised 2019 forecasted tax levy BE ADOPTED in ...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher)
+
+**Nay (2):** [Josh Morgan](/councillors/current/j-morgan), [Phil Squire](/councillors/current/p-squire)
+
+</details>
+
+### 6#6. Corporate Operating and Capital Budgets
+  (rounded to the closest $1,000)
+
+> Approve clause 6)c)iii), iv), v) and vi) which states:   “iii)       That,   in accordance with section 291(4)(c) of the Municipal Act, 2001, as amended,   the following actions be taken with respect to the Capital Budget (Appendix   C, Page 40):   A)        the   revised 2018 Capital Budget BE A...
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### 6#7. London Convention
+  Centre Corporation Board Appointment
+
+> That Jennifer Diplock BE APPOINTED to the   London Convention Centre Board of Directors as the Business Sector   Representative, effective December 15, 2017 to November 30, 2018.
+
+**✅ Motion Passed**
+
+Unanimous (10-0)
+
+### 7#5. Water and
+  Wastewater & Treatment Budgets (rounded to the closest $1,000)
+
+> a)         Water Capital Budget Amendments   i)          That   the following 2018-2019 Multi-Year Budget adjustments to the Water Capital   Budget BE APPROVED and the associated 2020-2025 forecast period adjustments,   where applicable, BE APPROVED in principle; it being noted that financing can...
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### 8#5. 2019 Budget -
+  Identification of Potential Adjustments to Achieve Targets
+
+> That the City Manager BE REQUESTED to   report back, during the 2019 Budget review process, with potential   adjustments to the 2019 Budget that would provide for the targets set by the   2016-2019 Multi-Year Budget.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher)
+
+**Nay (1):** [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 9#4. Community Mental
+  Health and Addiction Strategy for London: Moving Forward Together
+
+> Approve that part c) be amended by adding   the Accessibility Advisory Committee to the consultation.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 9#4. Community Mental
+  Health and Addiction Strategy for London: Moving Forward Together
+
+> The motion to Approve part b) is put.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher)
+
+**Nay (4):** [Josh Morgan](/councillors/current/j-morgan), [Mo Salih](/councillors/current/m-salih), [Phil Squire](/councillors/current/p-squire), [Virginia Ridley](/councillors/current/v-ridley)
+
+</details>
+
+### V. CONFIRMATION
+  AND SIGNING OF THE MINUTES OF THE TWENTY-EIGHTH MEETING HELD ON NOVEMBER 28,
+  2017.
+
+> Approve the Minutes of the Twenty-Eighth   meeting held on November 28, 2017.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 6. (ADDED) J. M.
+  Fleming, Managing Director, Planning and City Planner - Planning for
+  Non-therapeutic Cannabis in Retail Stores 
+ 
+(Refer to the Planning and Environment
+  Committee Stage for Consideration with Clause 11 of the 1st Report of the
+  Planning and Environment Committee)
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 7. Amendments to the
+  Council Procedure By-law A-50, As Amended, Resulting from the Modernizing
+  Ontario's Municipal Legislation Act, 2017 (Relates to Bill No. 9)
+
+> Approve that clause 7 be amended by adding   a new part c), as follows:   “c)       the   City Clerk BE DIRECTED to report back with the necessary steps that would be   required to allow Council Members to participate in meetings in accordance   with recent changes to the provisions of the Munici...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 7. Amendments to the
+  Council Procedure By-law A-50, As Amended, Resulting from the Modernizing
+  Ontario's Municipal Legislation Act, 2017 (Relates to Bill No. 9)
+
+> Approve clause 7, as amended
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 10. Council and
+  Standing Committee Meetings - Daytime
+
+> That the Governance Working Group BE   REQUESTED to investigate and report back on the implications of changing the   Council and Standing Committee meeting schedule in terms of time of day and   day of week.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
+
+**Nay (4):** [Anna Hopkins](/councillors/current/a-hopkins), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher)
+
+</details>
+
+### 11. Confirmation of
+  Appointment to the Cycling Advisory Committee
+
+> That Rebecca Henderson BE APPOINTED as a   Voting Representative from London Cycle Link, to the Cycling Advisory   Committee, for the term ending February 28, 2019.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 12. Consideration of
+  Appointment to the Accessibility Advisory Committee
+
+> Approve that clause 12 be amended by   replacing the name Wendy Lau, with the name Kendra Ramer.
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### 12. Consideration of
+  Appointment to the Accessibility Advisory Committee
+
+> Approve clause 12, as amended.
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### 28. Property located at
+  324 York Street (TZ-8815)
+
+> That, the application of Bradel Properties   Limited, relating to the property located at 324 York Street, to extend the   Temporary Use (T-71) Zone for a period not exceeding six (6) months BE   REFUSED as there are existing parking lots surrounding this development and   the rezoning to add an ...
+
+**❌ Motion Failed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+**Nay (8):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher)
+
+</details>
+
+### 28. Property located at
+  324 York Street (TZ-8815)
+
+> Approve that, on the recommendation of   the Managing Director, Planning and City Planner, the following actions be   taken with respect to the application of Bradel Properties Limited relating   to the property located at 324 York Street, the by-law appended to the staff   report dated December ...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher)
+
+**Nay (2):** [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+</details>
+
+### 30. 11th Report of the
+  Environmental and Ecological Planning Advisory Committee
+
+> Approve that pursuant to section 6.4 of   the Council Procedure By-law, the order of business be changed to permit   consideration of the 1st Report of the Community and Protective Services   Committee at this time.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 31. Draft Hamilton Road
+  Area Community Improvement Plan
+
+> That, on the recommendation of the Managing   Director, Planning and City Planner, the following actions be taken with   respect to the Hamilton Road Area Community Improvement Plan:   a)         the   draft Hamilton Road Area Community Improvement Plan appended to the staff   report dated Decemb...
+
+**✅ Motion Passed**
+
+Unanimous (10-0)
+

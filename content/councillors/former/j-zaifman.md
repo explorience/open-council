@@ -5,18 +5,18 @@ slug: "j-zaifman"
 meetingCount: 142
 yearsActive: "2014 - 2018"
 isCurrent: false
-totalVotes: 2024
-votesYea: 1891
-votesNay: 100
+totalVotes: 2189
+votesYea: 2049
+votesNay: 107
 votesAbsent: 32
 votesRecused: 1
 votesAbstained: 0
 votesOther: 0
 attendanceRate: 70.9
-participationRate: 98.4
+participationRate: 98.5
 yeaRate: 95.0
-contestedDissentRate: 3.9
-contestedVotes: 1649
+contestedDissentRate: 13.3
+contestedVotes: 444
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,10 +33,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 2,024 |
-| Voted Yea | 1,891 (93.4%) |
-| Voted Nay | 100 (4.9%) |
-| Absent | 32 (1.6%) |
+| Total Votes | 2,189 |
+| Voted Yea | 2,049 (93.6%) |
+| Voted Nay | 107 (4.9%) |
+| Absent | 32 (1.5%) |
 | Recused (conflict of interest) | 1 (0.0%) |
 | Abstained | 0 (0.0%) |
 
@@ -49,17 +49,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 1,822 |
-| Voted Yea | 1,708 (94.6%) |
-| Voted Nay | 97 (5.4%) |
+| Substantive Votes | 1,687 |
+| Voted Yea | 1,574 (94.3%) |
+| Voted Nay | 96 (5.7%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 3.9%
-- **Contested Votes**: 1,649
+- **Dissent Rate**: 13.3%
+- **Contested Votes**: 444
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -70,9 +70,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 544 |
-| Voted Yea | 502 (92.3%) |
-| Voted Nay | 42 (7.7%) |
+| Budget Votes | 295 |
+| Voted Yea | 273 (92.5%) |
+| Voted Nay | 22 (7.5%) |
 | Absent | 0 |
 
 
@@ -94,9 +94,9 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Strategic Priorities and Policy Committee | 781 | 711 | 60 | 98.7% |
-| Council | 753 | 697 | 33 | 96.9% |
-| Corporate Services Committee | 423 | 417 | 6 | 100.0% |
+| Council | 1,241 | 1,154 | 64 | 98.1% |
+| Strategic Priorities and Policy Committee | 465 | 419 | 36 | 97.8% |
+| Corporate Services Committee | 416 | 410 | 6 | 100.0% |
 | Community and Protective Services Committee | 67 | 66 | 1 | 100.0% |
 
 

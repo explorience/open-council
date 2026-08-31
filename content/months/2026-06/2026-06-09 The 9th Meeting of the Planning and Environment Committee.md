@@ -3068,3 +3068,164 @@ Good, that leaves a German. Councilor Stephen, are you moving to adjourn? Second
 Thank you.
 
 </details>
+
+---
+
+## Votes
+
+*13 substantive votes at this meeting (6 contested, 7 unanimous). Procedural motions excluded.*
+
+### 3.1. 3924, 4012, and 4050 Colonel Talbot Road - O-26047/Z-26046/39T-12503
+
+> That part d) of the motion BE AMENDED to read as follows: d)        with respect to the proposed red-line revisions to the draft plan of subdivision for Heathwoods Subdivision as submitted by Auburn Developments Inc., the Planning and Environment Committee REPORT TO the Approval Authority, on the...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.1. 3924, 4012, and 4050 Colonel Talbot Road - O-26047/Z-26046/39T-12503
+
+> That the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.3. 1837 Churchill Avenue - Z-26048
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Al-Taqwa Academy (c/o Strik Baldinelli Moniz Ltd.) relating to the property located at 1837 Churchill Avenue, the proposed by-law as appended to the staff repor...
+
+**❌ Motion Failed (2 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman)
+
+**Nay (3):** [Shawn Lewis](/councillors/current/s-lewis), [Susan Stevenson](/councillors/current/s-stevenson), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 3.7. 36 Wethered Street - Z-26050
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Monteith Brown Planning Consultants Ltd. (c/o Jay McGuffin) relating to the property located at 36 Wethered Street, the proposed by-law as appended to the staff...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 3.8. 929 Cheapside Street - Z-26003
+
+> That the motion BE AMENDED in part c) to include a public site plan process.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.8. 929 Cheapside Street - Z-26003
+
+> That part c) of the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Steve Lehman](/councillors/current/s-lehman)
+
+**Nay (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 3.8. 929 Cheapside Street - Z-26003
+
+> Motion to approve part a)
+
+**✅ Motion Passed (3 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman)
+
+**Nay (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 3.8. 929 Cheapside Street - Z-26003
+
+> Motion to approve part b)
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.8. 929 Cheapside Street - Z-26003
+
+> That the Planning and Environment Committee recess at this time, for 10 minutes.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.10. 517-525 Fanshawe Park Road East and 1536 Geary Avenue - Z-26039
+
+> That pursuant to section 33.8 of the Council Procedure by-law, the Committee BE PERMITTED to proceed beyond 6:00 PM.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 4.1. Councillor C. Rahman - Third-Party Appeal Mechanism
+
+> That the submission dated June 9, 2026, from Councillor C. Rahman related to Third-Party Appeal Mechanism, BE RECEIVED;     it being noted that the Planning and Environment Committee received the following communications with respect to this matter: -    a communication dated June 8, 2026, from C...
+
+**✅ Motion Passed (3 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Susan Stevenson](/councillors/current/s-stevenson), [Steve Lehman](/councillors/current/s-lehman)
+
+**Nay (2):** [Josh Morgan](/councillors/current/j-morgan), [Peter Cuddy](/councillors/current/p-cuddy)
+
+**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.1. Councillor C. Rahman - Third-Party Appeal Mechanism
+
+> That the delegation request as appended to the added agenda from M. Moussa, be heard at this time.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 6.1. Solicitor-Client Privilege
+
+> That the Planning and Environment Committee rise and go into Committee, In Closed Session, for the purpose of considering the following: a matter pertaining to advice that is subject to solicitor-client privilege related to 1057-1061 Richmond Street, including communications necessary for that pu...
+
+**✅ Motion Passed (5 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+</details>
+

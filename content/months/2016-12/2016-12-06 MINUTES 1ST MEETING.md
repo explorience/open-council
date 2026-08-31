@@ -3510,3 +3510,261 @@ Approve Third Reading and Enactment of
 
 Motion Passed
 
+---
+
+## Votes
+
+*23 substantive votes at this meeting (6 contested, 17 unanimous). Procedural motions excluded.*
+
+### 17#2. Industrial
+  Operations Shaver-Brockley Area
+
+> Approve that cause 17 be amended by   adding the following words at the end of the clause, ", and all other   areas that may be similarly affected within the City," after the words,   "surrounding area".
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 17#2. Industrial
+  Operations Shaver-Brockley Area
+
+> Approve clause 17, as amended.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 2#5. CORPORATE OPERATING AND CAPITAL BUDGETS
+  (rounded to the closest $1,000)
+
+> Approve that cause 2 b) f) be amended by   adding the following words to the end of the clause:   “and further that the Civic Administration   BE REQUESTED to bring forward the applicable business cases with respect to   this allocation, in order to provide Council with additional oversight   rel...
+
+**✅ Motion Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (6):** [Josh Morgan](/councillors/current/j-morgan), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Virginia Ridley](/councillors/current/v-ridley)
+
+</details>
+
+### 2#5. CORPORATE OPERATING AND CAPITAL BUDGETS
+  (rounded to the closest $1,000)
+
+> Approve clause 2 b) f), as amended.
+
+**✅ Motion Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (5):** [Josh Morgan](/councillors/current/j-morgan), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire)
+
+</details>
+
+### 2#5. CORPORATE OPERATING AND CAPITAL BUDGETS
+  (rounded to the closest $1,000)
+
+> Approve that clause 2 c) ii) d) a) be amended   to read as follows:   “a)        That,   in accordance with section 291(4)(c) of the Municipal Act, 2001, as amended,   the following actions be taken with respect to the Operating Budget (Appendix   A, Page 26):   i)                the   revised 20...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 2#7. Request for
+  Proposal for Internal Audit Services
+
+> That the following actions be taken with   respect to the appointment of an outsourced internal auditor for the City of   London:   a)         based   on the completed evaluation, which included such criteria as audit   methodology, fees, audit approach, etc. (as included in the public Request   ...
+
+**✅ Motion
+Passed**
+
+Unanimous (13-0)
+
+### 4#3. Association of
+  Municipalities of Ontario - Health Task Force
+
+> That the request of Councillor J. Helmer to   be reimbursed for his expenses associated with attending the 2016-2017   Association of Municipalities of Ontario -  Health Task Force meetings for   2016-2017, outside of his annual expense allocation, BE APPROVED subject to   the annual budget appro...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+
+**Nay (1):** [Harold Usher](/councillors/current/h-l-usher)
+
+</details>
+
+### 5#3. Amending Agreement
+  - London Community Players Loan Agreement (Relates to Bill No. 2)
+
+> That, on the recommendation of the Managing   Director, Corporate Services and City Treasurer, Chief Financial Officer, the   proposed by-law included as Appendix ‘A’ to the staff report dated November   29, 2016 BE INTRODUCED at the Municipal Council meeting on December 6, 2016   to:   a)       ...
+
+**✅ Motion
+Passed**
+
+Unanimous (13-0)
+
+### 6#2. Property located at
+  1960 Dalmagarry Road (H-8707) (Relates to Bill No. 12)
+
+> Approve that clause 6 be amended to read as   follows:   That, on the recommendation of the Senior   Planner, Development Services, based on the application of Ironstone Building   Company Limited, relating to the property located at 1960 Dalmagarry Road,   the proposed by-law appended to the sta...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 6#2. Property located at
+  1960 Dalmagarry Road (H-8707) (Relates to Bill No. 12)
+
+> Approve clause 6, as amended.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 6#3. Acknowledgement of
+  Traditional Territory at Meetings of Council
+
+> Approve that clause 6 BE REFERRED back for   further consultation with the indigenous community with respect to the   proposed statement.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 7#3. Council Policy
+  18(17)
+
+> Approve clause 7, as amended.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 9#2. Ontario Municipal
+  Board Review 2016
+
+> Approve clause 9, as amended.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### IV. COUNCIL, IN
+  CLOSED SESSION
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### IV#2. COUNCIL, IN CLOSED SESSION
+  (CONTINUED)
+
+> Approve the following:   That, as a   procedural matter pursuant to Section 239 (6) of the Municipal Act, 2001,   the following recommendations be forwarded to City Council for deliberation   and a vote in public session:   1.        That, on the recommendation of the Managing Director, Environme...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### V. CONFIRMATION
+  AND SIGNING OF THE MINUTES OF THE TWENTY -THIRD AND THE TWENTY-FOURTH
+  MEETINGS HELD ON NOVEMBER 18, 2016 AND NOVEMBER 22, 2016
+
+> Approve the Minutes of the   Twenty-third and Twenty-fourth meetings held on November 18 and November 22,   2016, respectively.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### XI. ENQUIRIES
+
+> Approve that pursuant to section 11.4 of   the Council Procedure By-law, leave be given to add a Council, In Closed   Session matter to receive information with respect to a matter pertaining to   personal matters, including information regarding an identifiable individual,   including a municipa...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 4. Riverside Drive and
+  Beaverbrook Avenue Intersection
+
+> That, on the recommendation of the Managing   Director, Environmental and Engineering Services and City Engineer, the staff   report dated November 29, 2016, with respect to the Riverside Drive and   Beaverbrook Avenue intersection, BE RECEIVED for information.  (2016-T07)
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (1):** [Paul Hubert](/councillors/current/p-hubert)
+
+</details>
+
+### 5. South Carriage Road
+  and Hyde Park Road Intersection
+
+> That, on the recommendation of the Managing   Director, Environmental and Engineering Services and City Engineer, the staff   report dated November 29, 2016, with respect to the South Carriage Road and   Hyde Park Road intersection, BE RECEIVED for information; it being noted that   the Civic Wor...
+
+**✅ Motion Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (6):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Mo Salih](/councillors/current/m-salih), [Phil Squire](/councillors/current/p-squire), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley)
+
+</details>
+
+### 13. Shift Rapid Transit
+  Implementation Office
+
+> That, on the recommendation of the Managing   Director, Environmental and Engineering Services and City Engineer, the staff   report dated November 29, 2016 with respect to the Shift Rapid Transit   Implementation Office BE RECEIVED for information.  (2016-T03)
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (1):** [Phil Squire](/councillors/current/p-squire)
+
+</details>
+
+### 19. Application by
+  Cedar Hollow Developments Limited - Street Renaming - Cedarpark Crescent
+  (East of Cedarhollow Boulevard) (Relates to Bill No. 5)
+
+> That, on the recommendation of the Senior   Planner, the proposed by-law appended to the staff report dated November 29,   2016 as Appendix 'A' BE INTRODUCED at the Municipal Council meeting to be   held on December 6, 2016 to change the portion of “Cedarpark Crescent”, east   of Cedarhollow Boul...
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 25. Terms of Reference
+  and Public Consultation Process - Environmental Assessment
+
+> That the Civic Administration BE DIRECTED   to:   a)         report   back at a future meeting of the Civic Works Committee with a Council Policy   regarding potential procedures to require the draft Terms of Reference   related to an Environmental Assessment (EA) process to be posted on the City...
+
+**✅ Motion
+Passed**
+
+Unanimous (13-0)
+
+### 26. Traffic Calming
+
+> That the Civic Administration BE DIRECTED   to investigate and report back on a potential educational campaign for the   purpose of influencing specific driving behaviours in London, including the   costs associated with such a campaign with the aim of reducing the demand for   expensive traffic ...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+

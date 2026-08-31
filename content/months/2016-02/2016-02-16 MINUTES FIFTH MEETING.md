@@ -1458,3 +1458,94 @@ Approve Third Reading and Enactment of
 
 Motion Passed
 
+---
+
+## Votes
+
+*9 substantive votes at this meeting (0 contested, 9 unanimous). Procedural motions excluded.*
+
+### 1#2. B. Callow, Thames
+  River Keepers - Springbank Dam (Refer to the Civic Works Committee stage for
+  consideration with clause 19 of the 3rd Report of the Civic Works Committee.)
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 10#3. Evaluation of
+  Community Improvement Plan Incentives
+
+> That, on the recommendation of the Managing   Director, Planning and City Planner, the following actions be taken with   respect to the City of London’s various financial incentives offered through   Community Improvement Programs in the City of London:    a)           the Civic Administration BE...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 12#2. Bonus Policies –
+  Draft London Plan
+
+> That the Civic Administration BE DIRECTED   to include policies that address the following matters in the draft London   Plan:   a)        policies   that give opportunity for bonus zoning in circumstances where a development   proposal would provide off-site amenities within the broader surround...
+
+**✅ Motion
+Passed**
+
+Unanimous (13-0)
+
+### 2#5. Downtown
+  Infrastructure Planning and Coordination
+
+> That the following actions be taken with   respect to the planning and coordination of infrastructure projects in   Downtown London:   a)        the   key project planning directions, as contained in the staff report dated   January 28, 2016, for the following projects BE ENDORSED in order to pro...
+
+**✅ Motion
+Passed**
+
+Unanimous (13-0)
+
+### V. COMMITTEE
+  OF THE WHOLE, IN CAMERA
+
+> Approve that Council rise and go into   Committee of the Whole, in camera, for the purpose of considering the following:
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### V#2. COMMITTEE OF THE WHOLE, IN
+  CAMERA continued
+
+> Approve that Council rise and resume   Committee of the Whole, in camera, for the following:
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### V#2. COMMITTEE OF THE WHOLE, IN
+  CAMERA continued
+
+> Approve that, as a procedural matter   pursuant to Section 239 (6) of the Municipal Act, 2001, the following   recommendation be forwarded to City Council for deliberation and a vote in   public session:   That, on the recommendation of the Managing   Director, Environmental and Engineering Servi...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### VI. CONFIRMATION
+  AND SIGNING OF THE MINUTES OF THE FOURTH MEETING HELD ON JANUARY 26, 2016
+
+> Approve the Minutes of the Fourth Meeting   held on January 26, 2016.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 11. 2016 Council
+  Compensation Review Task Force
+
+> That, on the recommendation of the City   Clerk, the appointment of Greg Watterton to the 2016 Council Compensation   Review Task Force BE RATIFIED.
+
+**✅ Motion
+Passed**
+
+Unanimous (13-0)
+

@@ -1669,3 +1669,134 @@ Approve 3rd reading and enactment of Bill
 
 Motion Passed
 
+---
+
+## Votes
+
+*14 substantive votes at this meeting (0 contested, 14 unanimous). Procedural motions excluded.*
+
+### 5#3. Highway 401
+  Interchange Projects Agreement with Ministry of Transportation.
+
+> That, on the recommendation of the   Director, Roads and Transportation, the following actions be taken with   respect to an Agreement between Her Majesty the Queen ln Right of the Province   of Ontario, represented by the Minister of Transportation for the Province of   Ontario (MTO), and The Co...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 5#5. 2nd Report of the
+  the London Housing Advisory Committee.
+
+> That, the following actions be taken with   respect to the 2nd Report of the London Housing Advisory Committee, from its   meeting held on January 16, 2013:   a)         Clause 1 of the Report BE   REFERRED to the 2013 Budget.   Clause 1, as   referred reads as follows:    "1.    Municipal Counci...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 6#3. Ontario Works
+  Decentralization.
+
+> That, on the recommendation of the Acting   Ontario Works Administrator, the following actions be taken with respect to   the decentralization of Ontario Works services:   a)         the   Ontario Works Decentralization plan, outlined in the staff report dated February   4, 2013, BE APPROVED in p...
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 6#4. Lorne Avenue Public
+  School
+
+> That the following actions be taken with   respect to the enhancement of public use of the Lorne Avenue Public School;   a)         the above-noted matter BE   REFERRED to the 2013 Capital Budget discussions; and,   b)         the   Civic Administration BE DIRECTED to bring forward a report to th...
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### 8#2. Properties located
+  at 1057, 1059 and 1061 Richmond Street (Z-8106)
+
+> Amend clause 8, to add the following   wording after the word "consideration", "including, but not   limited to".
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 8#2. Properties located
+  at 1057, 1059 and 1061 Richmond Street (Z-8106)
+
+> Approve clause 8, as amended.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### IV. COMMITTEE
+  OF THE WHOLE, IN CAMERA
+
+> Approve that Council rise and go into   Committee of the Whole, in camera, for the purpose of considering the   following:
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### VI. CONFIRMATION
+  AND SIGNING OF THE MINUTES OF THE THIRD MEETING HELD ON JANUARY 29, 2013
+
+> Approve Minutes of the 3rd Meeting   held on January 29, 2013.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### XIII. BY-LAWS
+
+> Approve 1st reading of Bill No.s 94 to   102, inclusive.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### XIII. BY-LAWS
+
+> Approve 2nd reading of Bill No.s 94 to   102, inclusive.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### XIII. BY-LAWS
+
+> Approve 3rd reading and enactment of Bill   No.s 94 to 102, inclusive.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 8. Request for
+  Delegation Status at the Corporate Services Committee re Post Secondary
+  Students Becoming More Involved in Municipal Government
+
+> Amend clause 5 in part b) by deleting   all words following "representation" and by replacing with the   following words, "from all of Western University affiliated colleges, a   corresponding number of neighbourhood representatives, and a representative   from the London Property Management Asso...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 8. Request for
+  Delegation Status at the Corporate Services Committee re Post Secondary
+  Students Becoming More Involved in Municipal Government
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 10. Property located at
+  9345 Elviage Drive
+
+> That, the Civic Administration BE DIRECTED   to report back to a future meeting of the Planning and Environment Committee,   relating to the communication, dated January 15, 2013, from M. Doornbosch,   Zelinka Priamo Ltd., relating to the property located at 9345 Elviage Drive;   it being noted t...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+

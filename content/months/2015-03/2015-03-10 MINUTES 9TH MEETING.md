@@ -2027,3 +2027,201 @@ Approve Second Reading of Bill No.
 Motion
 Passed
 
+---
+
+## Votes
+
+*19 substantive votes at this meeting (2 contested, 17 unanimous). Procedural motions excluded.*
+
+### 13#2. Council Policy
+  28(2) - Council Members' Expense Account
+
+> Approve that clause 13 be amended by   deleting the word "DIRECTED" and by replacing it with the word   "REQUESTED"
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 13#2. Council Policy
+  28(2) - Council Members' Expense Account
+
+> Approve clause 13, as amended.
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 2#3. 2015 – 2019
+  Strategic Plan
+
+> Approve that clause 2 be amended in   the section entitled “Strengthing our Community – 2. Diverse, inclusive, and   welcoming community – B”, by deleting the word “gender” and by replacing it   with the word “equity”.
+
+**❌ Motion Failed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher)
+
+**Nay (10):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+</details>
+
+### 2#3. 2015 – 2019
+  Strategic Plan
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 2#7. Argyle Business
+  Improvement Area 2015 Proposed Budget - Municipal Special Levy
+
+> That, on the recommendation of the Managing   Director, Corporate Services and City Treasurer, Chief Financial Officer, the   following actions be taken:   a)         the   Argyle Business Improvement Area proposed 2015 budget submission in the   amount of $137,966 BE APPROVED as outlined in Sche...
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 2#8. Old Victoria
+  Hospital Lands
+
+> Amend clause 2 as follows:   i)          in part a) by adding the words "and the Health Services Building"   at the end of the of part a);  ii)           in part b) by adding the words “and the Health Services Building” after the   words “War Memorial Hospital Building”;  iii)       in   part c) ...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 2#8. Old Victoria
+  Hospital Lands
+
+> Approve clause 2, as amended.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 3#2. (ADDED) B. Curtis,
+  Ministry of Municipal Affairs and Housing - The London Plan Overview and
+  Status Update (Refer to the Strategic Priorities and Policy Committee stage
+  for consideration with clause 5 of the 14th Report of the Strategic
+  Priorities and Policy Committee.)
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 8#4. Music and
+  Entertainment District for London, Ontario
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 9#2. Development Charges
+  Grant Program for Downtown and Old East Village Community Improvement Plan
+  (CIP) Areas
+
+> That, the application of Susan Dejong   c/oTridon Group Ltd., relating to the property located at 161 Windermere   Road, BE REFERRED to the April 7, 2015 Planning and Environment Committee   meeting for consideration; it being noted that the Planning and Environment   Committee will hear delegati...
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 9#4. Delegation by the
+  African Canadian Federation of London and Area
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### V. COMMITTEE
+  OF THE WHOLE, IN CAMERA
+
+> Approve that Council rise and go into the   Committee of the Whole, in camera, for the purpose of considering the   following:
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### V. COMMITTEE
+  OF THE WHOLE, IN CAMERA
+
+> Approve that pursuant to section 7.4 of   the Council Procedure By-law, the order of business be changed to permit   consideration of the 12th Report of the Strategic Priorities and Policy   Committee, having to do with the 2015-2019 Strategic Plan, to be dealt at   this time.
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### V#2. COMMITTEE OF THE WHOLE, IN
+  CAMERA (continued)
+
+> Approve clause 1.      1.                     That,   as a procedural matter pursuant to Section 239 (6) of the Municipal Act,   2001, the following recommendation be forwarded to City Council for   deliberation and a vote in public session:   That, on the   recommendation of the Managing Directo...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### VI. CONFIRMATION
+  AND SIGNING OF THE MINUTES OF THE SEVENTH AND EIGHTH MEETINGS HELD ON
+  FEBRUARY 24, 2015 AND FEBRUARY 26, 2015, RESPECTIVELY
+
+> Approve the Minutes of the Seventh and   Eighth Meetings held on February 24 and 26, 2015, respectively.
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 3. His Worship the
+  Mayor recognizes municipal staff, Jamie Skimming, in his achievement of being
+  presented with the Partners for Climate Protection (PCP) Spirit Award from
+  the Federation of Canadian Municipalities (FCM).
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 4. Canada Post
+  Community Mailbox Program Jurisdictional
+
+> Approve that pursuant to section 11.16 of   the Council Procedure By-law, consideration of clause 4 of the 4th Report of   the Civic Works Committee, having do to with the Canada Post Community   Mailbox Program BE POSTPONED to not later than September 30, 2015 in order to   provide Canada Post w...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (1):** [Harold Usher](/councillors/current/h-l-usher)
+
+</details>
+
+### 13. Commercial Corridor
+  Along Commissioners Road East
+
+> That, the communication dated February 26,   2015, from Councillor J. Zaifman, with respect to the request to review the   Commercial corridor along Commissioners Road East, BE REFERRED to the Civic   Administration for incorporation into the Planning Departments Work Plan and   to report back at...
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 14. Potential Youth
+  Award
+
+> That the City Clerk BE DIRECTED to liaise   with the London Youth Advisory Council, and other appropriate stakeholders,   to explore the establishment of an award that recognizes the contributions of   the local youth population to the community.
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+

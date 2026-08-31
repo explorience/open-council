@@ -5,18 +5,18 @@ slug: "s-white"
 meetingCount: 164
 yearsActive: "2010 - 2014"
 isCurrent: false
-totalVotes: 2282
-votesYea: 2086
-votesNay: 196
+totalVotes: 2891
+votesYea: 2708
+votesNay: 183
 votesAbsent: 0
 votesRecused: 0
 votesAbstained: 0
 votesOther: 0
 attendanceRate: 89.5
 participationRate: 100.0
-yeaRate: 91.4
-contestedDissentRate: 9.3
-contestedVotes: 2282
+yeaRate: 93.7
+contestedDissentRate: 21.3
+contestedVotes: 760
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,9 +33,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 2,282 |
-| Voted Yea | 2,086 (91.4%) |
-| Voted Nay | 196 (8.6%) |
+| Total Votes | 2,891 |
+| Voted Yea | 2,708 (93.7%) |
+| Voted Nay | 183 (6.3%) |
 | Absent | 0 (0.0%) |
 | Recused (conflict of interest) | 0 (0.0%) |
 | Abstained | 0 (0.0%) |
@@ -49,17 +49,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,280 |
-| Voted Yea | 2,084 (91.4%) |
-| Voted Nay | 196 (8.6%) |
+| Substantive Votes | 2,615 |
+| Voted Yea | 2,445 (93.5%) |
+| Voted Nay | 170 (6.5%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 9.3%
-- **Contested Votes**: 2,282
+- **Dissent Rate**: 21.3%
+- **Contested Votes**: 760
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -70,9 +70,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 614 |
-| Voted Yea | 495 (80.6%) |
-| Voted Nay | 119 (19.4%) |
+| Budget Votes | 399 |
+| Voted Yea | 342 (85.7%) |
+| Voted Nay | 57 (14.3%) |
 | Absent | 0 |
 
 
@@ -94,9 +94,9 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 935 | 876 | 59 | 100.0% |
-| Strategic Priorities and Policy Committee | 680 | 556 | 124 | 100.0% |
-| Planning and Environment Committee | 613 | 603 | 10 | 100.0% |
+| Council | 1,955 | 1,836 | 119 | 100.0% |
+| Planning and Environment Committee | 581 | 571 | 10 | 100.0% |
+| Strategic Priorities and Policy Committee | 301 | 250 | 51 | 100.0% |
 | Civic Works Committee | 54 | 51 | 3 | 100.0% |
 
 
@@ -107,10 +107,12 @@ prefillQuestions:
 ### 2014-11-25: 2015 Water and
   Wastewater Rates
 
-[MINUTES 26TH
-  MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=48b1e6a3-ae6e-47f5-b600-bfc121838a2f&Agenda=PostMinutes&lang=English)
+[MINUTES 26TH MEETING](https://pub-london.escribemeetings.com//Meeting.aspx?Id=48b1e6a3-ae6e-47f5-b600-bfc121838a2f&Agenda=PostMinutes&lang=English)
 
-> Motion Passed
+> That, on the recommendation of the Managing
+  Director, Environmental and Engineering Services & City Engineer, and the
+  Managing Director, Corporate Services & City Treasurer, Chief Financial
+  Offi...
 
 Voted **Nay** - Motion Passed
 
@@ -149,60 +151,62 @@ Voted **Nay** - Motion
 Voted **Yea** - Motion
   Failed
 
+### 2014-09-02: Request for
+  Delegation Status re New Deal for an Expanded Fanshawe Downtown Campus
+
+[MINUTES 21ST MEETING](https://pub-london.escribemeetings.com//Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English)
+
+> Approve part b) of clause 25, as amended.
+
+Voted **Nay** - Motion Passed
+
+### 2014-09-02: Integrity
+  Commissioner
+
+[MINUTES 21ST MEETING](https://pub-london.escribemeetings.com//Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English)
+
+> Approve that clause 14 BE REFERRED to
+  the next term of Council Council for the consideration.
+
+Voted **Yea** - Motion Failed
+
 ### 2014-09-02: Installation of
   Sidewalks on Shavian Blvd.
 
-[MINUTES 21ST MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English)
+[MINUTES 21ST MEETING](https://pub-london.escribemeetings.com//Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English)
 
-> Motion Failed
+> Approve that pursuant section 13.6 of the
+  Council Procedure By-law that the proposed amendment to part a) of clause 22
+  BE RECONSIDERED to provide all Members of Council an opportunity to vote on t...
 
 Voted **Yea** - Motion Failed
 
 ### 2014-09-02: BY-LAWS
 
-[MINUTES 21ST MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English)
+[MINUTES 21ST MEETING](https://pub-london.escribemeetings.com//Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English)
 
-> Motion Passed
-
-Voted **Nay** - Motion Passed
-
-### 2014-09-02: BY-LAWS
-
-[MINUTES 21ST MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English)
-
-> Motion Passed
+> Approve Introduction and First
+  Reading of Bill No. 430.
 
 Voted **Nay** - Motion Passed
 
 ### 2014-09-02: BY-LAWS
 
-[MINUTES 21ST MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English)
+[MINUTES 21ST MEETING](https://pub-london.escribemeetings.com//Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English)
 
-> Motion Passed
+> Approve Second Reading of Bill No.
+  430.
 
 Voted **Nay** - Motion Passed
 
-### 2014-07-22: Property located at
-  2118 Richmond Street (OZ-7890)
+### 2014-09-02: BY-LAWS
 
-[Planning and Environment Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=83e7a856-017d-493a-81d6-c732bd2adba1&Agenda=PostMinutes&lang=English)
+[MINUTES 21ST MEETING](https://pub-london.escribemeetings.com//Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English)
 
-> Motion
-  Failed
+> Approve Third Reading and Enactment of
+  Bill No. 430.
 
-Voted **Yea** - Motion
-  Failed
-
-### 2014-07-22: Properties located
-  at 51 and 99 Exeter Road (OZ-8324)
-
-[Planning and Environment Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=83e7a856-017d-493a-81d6-c732bd2adba1&Agenda=PostMinutes&lang=English)
-
-> Motion
-  Failed
-
-Voted **Yea** - Motion
-  Failed
+Voted **Nay** - Motion Passed
 
 
 ## Committees Served

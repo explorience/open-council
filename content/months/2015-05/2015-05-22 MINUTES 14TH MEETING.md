@@ -192,3 +192,18 @@ Approve Third Reading and Enactment of Bill
 Motion
 Passed.
 
+---
+
+## Votes
+
+*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
+
+### V. COMMITTEE
+  OF THE WHOLE, IN CAMERA
+
+> Approve that Council rise and go into   Committee of the Whole, in camera, for the purpose of considering a matter   pertaining to reports, advice and recommendations of officers and employees   of the Corporation concerning labour relations and employee negotiations in   regard to the Corporatio...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+

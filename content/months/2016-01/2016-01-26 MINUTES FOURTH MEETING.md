@@ -2248,3 +2248,395 @@ Approve Third Reading and Enactment of
 
 Motion Passed
 
+---
+
+## Votes
+
+*34 substantive votes at this meeting (12 contested, 22 unanimous). Procedural motions excluded.*
+
+### 1#7. Disclosures of
+  Pecuniary Interest
+
+> Approve that Council rise and go into Committee   of the Whole, in camera, at 8:31 PM, for the purpose of continuing discussion   regarding the following matters:
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 1#7. Disclosures of
+  Pecuniary Interest
+
+> Approve that, as a procedural matter   pursuant to Section 239(6) of the Municipal Act, 2001, the following   recommendation be forwarded to City Council for deliberation and a vote in   public session:   That, on the recommendation of the Managing   Director, Corporate Services and City Treasure...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 1#7. Disclosures of
+  Pecuniary Interest
+
+> Approve that the following actions be taken   with respect to the process to appoint an Integrity Commissioner:   a)              the   Request for Proposal 15-35 – Appointment of an Integrity Commissioner BE   CANCELLED;        b)         the Civic Administration BE DIRECTED to give notice to th...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 3#2. Municipal Golf -
+  Agreement with London Golf Club (Relates to Bill No. 62)
+
+> That, on the recommendation of the Managing   Director of Parks and Recreation, the proposed by-law, as appended to the   staff report dated January 19, 2016, BE INTRODUCED at the Municipal Council   meeting to be held on January 26, 2016 to:   a)        approve   the agreement between The Corpor...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 3#3. Future Tax Policy -
+  Possible Directions
+
+> Approve that clause 3 be amended to read   as follows:
+
+**✅ Motion Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (6):** [Michael van Holst](/councillors/current/m-van-holst), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher)
+
+</details>
+
+### 3#3. Future Tax Policy -
+  Possible Directions
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 3#3. Future Tax Policy -
+  Possible Directions
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (1):** [Harold Usher](/councillors/current/h-l-usher)
+
+</details>
+
+### 3#3. Future Tax Policy -
+  Possible Directions
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 3#3. Future Tax Policy -
+  Possible Directions
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (1):** [Paul Hubert](/councillors/current/p-hubert)
+
+</details>
+
+### 3#3. Future Tax Policy -
+  Possible Directions
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 3#3. Future Tax Policy -
+  Possible Directions
+
+> The motion to Approve clause 3, as amended,   is put.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 4#4. February Meeting
+  Date
+
+> That the scheduled time for the February   23, 2016 meeting of the Audit Committee BE CHANGED to 4:00 PM.
+
+**✅ Motion
+Passed**
+
+Unanimous (14-0)
+
+### 6#2. Property located at
+  3493 Colonel Talbot Road (39T-14504/OZ-8417) (Relates to Bill No. 65 and Bill
+  No. 73)
+
+> Approve that clause 6 of the 2nd Report   of the Planning and Environment Committee (PEC) be amended as follows:   a)         by adding the word “further”   after the word “attached” in part c); and,   b)         by adding the following new part   f):    “f)       pursuant   to Section 34(17) of ...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 6#2. Property located at
+  3493 Colonel Talbot Road (39T-14504/OZ-8417) (Relates to Bill No. 65 and Bill
+  No. 73)
+
+> Approve clause 6, as amended.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 6#3. Public Question
+  Session/Period
+
+> Approve that pursuant to section 11.14 of   the Council Procedure By-law, the question be put.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (4):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer)
+
+</details>
+
+### 6#3. Public Question
+  Session/Period
+
+> Motion Passed
+
+**✅ Motion Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (6):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher)
+
+</details>
+
+### 6#3. Public Question
+  Session/Period
+
+> Approve clause 6, as amended.
+
+**✅ Motion Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (6):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher)
+
+</details>
+
+### 8#3. Request for
+  Approval of an Expense on an Exception Basis
+
+> That the request by Councillor M. van Holst   to provide $27.09 from his annual expense allocation for 3 nylon basketball   nets for Trafalgar Public School BE DENIED.
+
+**✅ Motion Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (6):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Stephen Turner](/councillors/current/s-turner), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 9#3. Diversity,
+  Integration and Inclusion in London
+
+> Approve that clause 9 be deleted in its   entirety and be replaced with the following new clause 9:   That the Civic Administration BE DIRECTED   to report back at a future meeting of the Corporate Services Committee with   strategies including the potential creation of a staff position within th...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 9#3. Diversity,
+  Integration and Inclusion in London
+
+> Approve clause 9, as amended.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### IX. REPORTS
+
+> Approve that pursuant to section 7.3 of   the Council Procedure By-law, the order of business be changed to permit   consideration of clause 5 of the 4th Report of the Corporate Services   Committee, followed by clause 6 of the 2nd Report of the Community and   Protective Services Committee, at t...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### V. COMMITTEE
+  OF THE WHOLE, IN CAMERA
+
+> That Council rises   and goes into Committee of the Whole, in camera, for the purpose of   considering the following:
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### V#2. COMMITTEE OF THE WHOLE (continued)
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### V#2. COMMITTEE OF THE WHOLE (continued)
+
+> The Committee of the Whole rises at 9:32 PM   and Council reconvenes at 9:35 PM, with Mayor M. Brown in the Chair and all   Members present, except Councillor V. Ridley.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### VI. CONFIRMATION
+  AND SIGNING OF THE MINUTES OF THE THIRD MEETING HELD ON JANUARY 12, 2016
+
+> Approve the Minutes of the Third Meeting   held on January 12, 2016.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### VII. COMMUNICATIONS
+  AND PETITIONS
+
+> Approve that  on the recommendation of   the City Clerk, the appointment of following individuals to the 2016 Council   Compensation Review Task Force BE RATIFIED:   a)         Martin Horak b)         Dan Ross c)         Phyllis Retty; and d)         Mike Moffatt.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### XIII. BY-LAWS
+
+> Approve that pursuant to section 13.2 of   the Council Procedure By-law reconsideration on the Introduction and First   Reading of Bill No.s 59 to 62, 64 to 74, and the Added Bill No. 75, in order   to separate a Bill for which there is a pecuniary interest.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 5. Hydro One
+
+> That the Civic Administration BE REQUESTED   to undertake a high level review, in liaison with London Hydro, as to the   feasibility and desirability of investing in Hydro One; it being pointed out   that delegations were received from Colleen Shaw, Darlene Faulds, Ange   Thompson and Tina Steven...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (4):** [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert)
+
+</details>
+
+### 6. BMO Centre
+
+> Approve that clause 6 be amended by   adding the following new part d):   d)        the   Mayor BE REQUESTED to provide a letter of support for the project to the   Provincial and/or Federal Governments, should the London Optimist Sports   Centre request such a letter;
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (3):** [Jesse Helmer](/councillors/current/j-helmer), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 6. BMO Centre
+
+> Approve referral of clause 6 of the 2nd   Report of the Community and Protective Services Committee, having to do with   the BMO Centre funding request and recommendation, to the 2016-2019   Multi-Year Budget process.
+
+**❌ Motion Failed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer)
+
+**Nay (12):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+</details>
+
+### 6. BMO Centre
+
+> At 5:48 PM, His Worship the Mayor resumes   the Chair, and Councillor P. Hubert resumes his seat at the Council Board.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (1):** [Jesse Helmer](/councillors/current/j-helmer)
+
+</details>
+
+### 7. Properties located
+  at 175-183 King Street (Z-8523) (Relates to Bill No. 74)
+
+> Approve that clause 7 be amended by   adding the following new part b):   “b)       the   Civic Administration BE DIRECTED to continue to have conversations with   Southside Group in order to look for ways and opportunities to find a   development that would incorporate the heritage features of t...
+
+**❌ Motion Failed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Phil Squire](/councillors/current/p-squire), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher)
+
+**Nay (10):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+</details>
+
+### 7. Properties located
+  at 175-183 King Street (Z-8523) (Relates to Bill No. 74)
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 11. Environmental
+  Impact Statements
+
+> That the Civic Administration BE DIRECTED   to review and report back to a future meeting of the Planning and Environment   Committee on how Development Agreements could be modified to include a   mechanism for the Civic Administration to undertake compliance investigations   to ensure that condi...
+
+**✅ Motion
+Passed**
+
+Unanimous (14-0)
+

@@ -3687,3 +3687,487 @@ Approve Third Reading and Enactment of
 Motion
 Passed
 
+---
+
+## Votes
+
+*41 substantive votes at this meeting (16 contested, 25 unanimous). Procedural motions excluded.*
+
+### 11#3. Deferred Matters
+  List
+
+> Approve that Item #39 be deleted from part   a).
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 11#3. Deferred Matters
+  List
+
+> Approve clause 11, as amended.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 12#3. Recycling
+      Bins in City Parks
+
+> That the Civic Administration BE       REQUESTED to look at the potential of installing recyclingg bins in City       parks and report back to the Civic Works Committee with respect to this       matter.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (1):** [Mo Salih](/councillors/current/m-salih)
+
+</details>
+
+### 14#2. Reg Cooper Square
+
+> That the Civic Administration BE REQUESTED   to undertake a review of the by-law which governs the use of Reg Cooper   Square to see how the Square may be better utilized for community purposes,   with consultation with residents of Centennial House and consideration of   permissible weight loads.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 2#4. Outstanding London
+  Ambassador Award
+
+> Approve reconsideration of clause 5a) of   the 8th Report of the Corporate Services Committee
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 2#4. Outstanding London
+  Ambassador Award
+
+> Approve That part cii) be amended to read   as follows:   ii)         include   a representative from a London University Alumni Association and a representative   from a London College Alumni Association; and
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 2#4. Outstanding London
+  Ambassador Award
+
+> Approve clause 2, as amended.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 2#6. Canada 150 Funding Programs
+
+> That, on the recommendation of the     Director, Community & Economic Innovation, the following actions be     taken with respect to the Canada 150 Funding Programs:   a)                the     Federal Government BE ADVISED that the Municipal Council of The Corporation     of the City of London s...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 2#6. Canada 150 Funding Programs
+
+> Approve clauses 1 and 2.   1.                     That, as a   procedural matter pursuant to Section 239 (6) of the Municipal Act, 2001, the   following recommendation be forwarded to City Council for deliberation and a   vote in public session:   That, on the recommendation of the Manager,   Rea...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 3#3. Employee
+  Absenteeism 2014 Update
+
+> That, on the recommendation of the Managing   Director, Corporate Services and Chief Human Resources Officer, the staff   report dated May 19, 2015 regarding the 2014 employee absenteeism update BE   RECEIVED for information.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 8#2. School Zone Speed
+  Limit Policy
+
+> Approve the referral of the matter of   school zone speed limit policy to the City’s and School Board Liaison   Committees, and to further expand the scope of the policy to all safety.
+
+**❌ Motion Failed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong)
+
+**Nay (11):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 8#2. School Zone Speed
+  Limit Policy
+
+> 
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### V. COMMITTEE
+  OF THE WHOLE, IN CAMERA
+
+> Approve that Council rise and go into the   Committee of the Whole, in camera, for the purpose of considering the   following matters:       a)   A matter pertaining to instructions and     directions to officers and employees of the Corporation pertaining to a     proposed acquisition of land; a...
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### VI. CONFIRMATION
+  AND SIGNING OF THE MINUTES OF THE THIRTEENTH, MEETING, the SPECIAL
+  (EMERGENCY) FOURTEENTH MEETING AND THE SPECIAL (EMERGENCY) FIFTEENTH MEETING
+  HELD ON MAY 12, 22 AND 24, 2015, RESPECTIVELY.
+
+> Approve the Minutes of the Thirteenth,   Fourteenth and Fifteenth Meetings held on May 12, 22 and 24, 2015,   respectively.
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### VII. COMMUNICATIONS
+  AND PETITIONS
+
+> Approve referral of the following   communications as noted on the Added Agenda:
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### XI. ENQUIRIES
+
+> Approve that pursuant to section 17 of   the Council Procedure By-law, leave be given for discussion and debate and   the making of a substantive motion to direct the Civic Administration to   ensure active involvement in the Moving Ontario Forward participation process   and to pursue every oppo...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### XI. ENQUIRIES
+
+> Approve that the Civic Administration BE   REQUESTED to submit a report to the June 2, 2015 Civic Works Committee   providing information with respect to the Moving Ontario Forward program and   outlining opportunities that may be available for London to seek federal and   provincial funding to a...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### XII. EMERGENT
+  MOTIONS
+
+> Approve that pursuant to section 19.2 of   the Council Procedure By-law, leave be given for the introduction of an   emergent motion regarding concerns with the Government of Ontario’s proposal   to sell Hydro One.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (1):** [Maureen Cassidy](/councillors/current/m-cassidy)
+
+</details>
+
+### XII. EMERGENT
+  MOTIONS
+
+> Approve that the Government of Ontario   BE ADVISED that the City of London strongly objects to the sale of Hydro One   without the express consent of the residents of Ontario who are the rightful   owners of this public utility; it being noted that the sale of Hydro One will   result in lost rev...
+
+**❌ Motion Failed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Anna Hopkins](/councillors/current/a-hopkins), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Bill Armstrong](/councillors/current/b-armstrong), [Tanya Park](/councillors/current/t-park)
+
+**Nay (9):** [Josh Morgan](/councillors/current/j-morgan), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Jared Zaifman](/councillors/current/j-zaifman)
+
+</details>
+
+### XII. EMERGENT
+  MOTIONS
+
+> Approve reconsideration of the vote   related to the emergent motion.
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### XII. EMERGENT
+  MOTIONS
+
+> Approve that the Government of Ontario   BE ADVISED that the City of London strongly objects to the sale of Hydro One   without the express consent of the residents of Ontario who are the rightful   owners of this public utility; it being noted that the sale of Hydro One will   result in lost rev...
+
+**❌ Motion Failed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Stephen Turner](/councillors/current/s-turner), [Bill Armstrong](/councillors/current/b-armstrong), [Tanya Park](/councillors/current/t-park)
+
+**Nay (10):** [Josh Morgan](/councillors/current/j-morgan), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Jared Zaifman](/councillors/current/j-zaifman)
+
+</details>
+
+### XIII. BY-LAWS
+
+> Approve Introduction and First Reading   of Bill Nos. 213 and 226.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (1):** [Jesse Helmer](/councillors/current/j-helmer)
+
+</details>
+
+### XIII. BY-LAWS
+
+> Approve Second Reading of Bill Nos. 213   and 226.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (2):** [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer)
+
+</details>
+
+### XIII. BY-LAWS
+
+> Approve Third Reading of Bill Nos. 213   and 226.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (3):** [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Harold Usher](/councillors/current/h-l-usher)
+
+</details>
+
+### XIII. BY-LAWS
+
+> Approve Introduction and First Reading of   Bill No. 223.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (1):** [Michael van Holst](/councillors/current/m-van-holst)
+
+</details>
+
+### XIII. BY-LAWS
+
+> Approve Second Reading of Bill No. 223.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Bill Armstrong](/councillors/current/b-armstrong)
+
+</details>
+
+### XIII. BY-LAWS
+
+> Approve Third Reading and Enactment of   Bill No. 223.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (2):** [Michael van Holst](/councillors/current/m-van-holst), [Bill Armstrong](/councillors/current/b-armstrong)
+
+</details>
+
+### 3. Development Charges
+  Grant Program for Downtown & Old East Village Community Improvement Plan
+  Areas
+
+> Approve that the Development Charges   Grant Program for Downtown & Old East Village Community Improvement Plan   Areas BE REFERRED back to staff in order for additional consultation with   specific stakeholders.
+
+**❌ Motion Failed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Mo Salih](/councillors/current/m-salih), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
+
+**Nay (11):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+</details>
+
+### 3. Development Charges
+  Grant Program for Downtown & Old East Village Community Improvement Plan
+  Areas
+
+> Approve reconsideration of the vote to   refer back clause 3 for additional consultation.
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 3. Development Charges
+  Grant Program for Downtown & Old East Village Community Improvement Plan
+  Areas
+
+> Approve that the Development Charges   Grant Program for Downtown & Old East Village Community Improvement Plan   Areas BE REFERRED back to staff in order for additional consultation with   specific stakeholders.
+
+**❌ Motion Failed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong)
+
+**Nay (12):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 3. Development Charges
+  Grant Program for Downtown & Old East Village Community Improvement Plan
+  Areas
+
+> 
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 7. Properties located
+  at 941, 943 and 945 Hamilton Road (Z-8457)
+
+> That, on the recommendation of the Managing   Director, Planning and City Planner, with respect to the application of   RioCan Real Estate Investment Trust, relating to the properties located at   941, 943 and 945 Hamilton Road, the proposed by-law, as appended to the staff   report dated May 19,...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (2):** [Michael van Holst](/councillors/current/m-van-holst), [Bill Armstrong](/councillors/current/b-armstrong)
+
+</details>
+
+### 10. Properties located
+  on a portion of 3105 Bostwick Road and Block 172, 33M-562, Talbot Village
+  Phases 5 and 6 (39T-14506/Z-8436)
+
+> Approve referral of the Draft Plan of   Subdivision and Zoning By-law amendment applications relating to a portion of   3105 Bostwick Road and Block 172, 33M-562, located on the north side of Pack   Road, west of Bostwick Road, (legally described as Part of Lot 76, Concession   east of the North ...
+
+**❌ Motion Failed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Bill Armstrong](/councillors/current/b-armstrong), [Tanya Park](/councillors/current/t-park)
+
+**Nay (10):** [Josh Morgan](/councillors/current/j-morgan), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher)
+
+</details>
+
+### 10. Properties located
+  on a portion of 3105 Bostwick Road and Block 172, 33M-562, Talbot Village
+  Phases 5 and 6 (39T-14506/Z-8436)
+
+> 
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (2):** [Jesse Helmer](/councillors/current/j-helmer), [Bill Armstrong](/councillors/current/b-armstrong)
+
+</details>
+
+### 12. Deferred
+      Matters List
+
+> Approve the     addition of the following new parts c) and d):   (c)       the     Civic Administration BE REQUESTED to provide a report back with an action     plan following consultation; and   (d)       the     Civic Administration BE DIRECTED to determine the community impact of the     cance...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 12. Deferred
+      Matters List
+
+> Approve clause     7, as amended.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 14. Property located at
+  164 Sherwood Forest Square - Site Plan (SP15-004713)
+
+> Approve that Council recess until 7:15   PM.   Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 14. Property located at
+  164 Sherwood Forest Square - Site Plan (SP15-004713)
+
+> Councillor H.L. Usher enters the meeting at   7:26 PM.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 14. Property located at
+  164 Sherwood Forest Square - Site Plan (SP15-004713)
+
+> Approve the     addition of the following new parts c) and d):   (c)       the     Civic Administration BE REQUESTED to provide a report back with an action     plan following consultation; and   (d)       the     Civic Administration BE DIRECTED to determine the community impact of the     cance...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 14. Property located at
+  164 Sherwood Forest Square - Site Plan (SP15-004713)
+
+> Approve clause     7, as amended.              Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 14. Property located at
+  164 Sherwood Forest Square - Site Plan (SP15-004713)
+
+> Approve clauses 1 to 12, excluding clauses 7 and 11
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+

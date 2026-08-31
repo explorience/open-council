@@ -1673,3 +1673,206 @@ Approve Third Reading and
 
 Motion Passed
 
+---
+
+## Votes
+
+*19 substantive votes at this meeting (3 contested, 16 unanimous). Procedural motions excluded.*
+
+### 11#2. Request to start
+  the May 13, 2014 Planning and Environment Committee meeting at 4:30 PM
+
+> That, notwithstanding Section 24.11 of the   Council Procedure By-law, the May 13, 2014 meeting of the Planning and   Environment Committee commence at 4:30 PM.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 3#2. Gore Road Bridge
+  Replacement (Tender No. 14-28)
+
+> Amend clause 3 by deleting part c) in its   entirety and by replacing it with the following new part c):   “c)        the   funding for the project BE APPROVED as set out in the Sources of Financing   Report attached as Appendix “A”;
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 3#2. Gore Road Bridge
+  Replacement (Tender No. 14-28)
+
+> Approve clause 3, as amended.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 6#4. 2014 Ontario
+  Provincial General Election Candidate Questionnaire
+
+> energy prices in Ontario are competitive   with the North American market?   ii)         How   will you and your Party improve mental health and addictions services so that   people can be supported effectively and not be discharged to homeless   shelters without any support?  What will you and y...
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 6#4. 2014 Ontario
+  Provincial General Election Candidate Questionnaire
+
+> Approve that pursuant to section 13.6 of   the Council Procedure By-law, that reconsideration of clause 6 be given  to   correct a voting error.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 6#4. 2014 Ontario
+  Provincial General Election Candidate Questionnaire
+
+> Amend clause 6 by deleting part a) in its   entirety and by replacing it with the following new part a):   “a)       the   following three additional questions and those contained in the staff report   dated April 29, 2014 BE APPROVED:   i)          How   will you and your Party ensure that energ...
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 6#4. 2014 Ontario
+  Provincial General Election Candidate Questionnaire
+
+> Approve clause 6, as amended.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 8#3. Old East Village
+  BIA Request for Signage within the Community Improvement Plan Area
+
+> That the communication dated April 11,   2014, from S. Merritt, Manager, Old East Village BIA, with respect to   proposed signage for the Old East Village district BE REFERRED to the Civic   Administration in order to assist in the co-ordination of the request and   necessary approvals and to per...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### IV. COMMITTEE
+  OF THE WHOLE, IN CAMERA
+
+> Approve that Council rise and go into   Committee of the Whole, in camera, for the following reasons.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### IV. COMMITTEE
+  OF THE WHOLE, IN CAMERA
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### IV#2. COMMITTEE OF THE WHOLE, IN
+  CAMERA (continued)
+
+> Refer clause 2 back to the Civic Administration   for further consideration of all matters noted during the debate of this   matter, and to incorporate a more fulsome map depicting the designated areas.
+
+**❌ Motion Failed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
+
+**Nay (7):** [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Nancy Branscombe](/councillors/current/n-branscombe), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+</details>
+
+### IV#2. COMMITTEE OF THE WHOLE, IN
+  CAMERA (continued)
+
+> Motion Failed
+
+**❌ Motion Failed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson), [Sandy White](/councillors/current/s-white)
+
+**Nay (7):** [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Nancy Branscombe](/councillors/current/n-branscombe), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+</details>
+
+### IV#2. COMMITTEE OF THE WHOLE, IN
+  CAMERA (continued)
+
+> Motion Failed
+
+**❌ Motion Failed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Joe Fontana](/councillors/current/j-f-fontana), [Nancy Branscombe](/councillors/current/n-branscombe), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (8):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
+
+</details>
+
+### VI. CONFIRMATION
+  AND SIGNING OF THE MINUTES OF THE ELEVENTH MEETING HELD ON APRIL 15, 2014
+
+> Approve the Minutes of the 11th Meeting   held on April 15, 2014.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 3. G. Hopcroft,
+  Director, Intergovernmental and Community Liaison - 2014 Ontario Provincial
+  General Election Candidate Questionnaire (Refer to the Corporate Services
+  Committee Stage for Consideration with Clause 6 of the 13th Report of the
+  Corporate Services Committee.)
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 10. Blackfriars/Petersville Heritage
+  Conservation District Plan and Conservation Guidelines and Official Plan
+  Amendments to Implement District (OZ-8295)
+
+> Approve that clause 10 be amended as   follows:   i)            by amending part a) by adding the words “revised attached”   after the word “proposed”   and by deleting the words “as appended to the   revised staff report dated April 29, 2014”; and ,   ii)          by amending part b) by adding t...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 10. Blackfriars/Petersville Heritage
+  Conservation District Plan and Conservation Guidelines and Official Plan
+  Amendments to Implement District (OZ-8295)
+
+> Approve clause 10, as amended.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 12. Beaverbrook and
+  Riverside - High Density Traffic Zone Safety Issues
+
+> That the communication dated April 28,   2014, received from Councillor J.L. Bryant and Councillor P. Hubert, with   respect to high density traffic zone safety issues at Beaverbrook Avenue and   Riverside Drive, BE REFERRED to the Civic Administration for report back as   soon as possible with a...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 15. Additional
+  Sidewalks in the W. Sherwood Fox Public School Area
+
+> That the Civic Administration BE REQUESTED   to report back at a future meeting of the Civic Works Committee with respect   to the actions that will be taken in response to concerns raised by residents   in the area of W. Sherwood Fox Public School regarding the need for additional   sidewalks.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+

@@ -5,18 +5,18 @@ slug: "n-branscombe"
 meetingCount: 119
 yearsActive: "2006 - 2014"
 isCurrent: false
-totalVotes: 2090
-votesYea: 1878
-votesNay: 212
+totalVotes: 2660
+votesYea: 2460
+votesNay: 200
 votesAbsent: 0
 votesRecused: 0
 votesAbstained: 0
 votesOther: 0
 attendanceRate: 69.3
 participationRate: 100.0
-yeaRate: 89.9
-contestedDissentRate: 10.9
-contestedVotes: 2090
+yeaRate: 92.5
+contestedDissentRate: 26.8
+contestedVotes: 697
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,9 +33,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 2,090 |
-| Voted Yea | 1,878 (89.9%) |
-| Voted Nay | 212 (10.1%) |
+| Total Votes | 2,660 |
+| Voted Yea | 2,460 (92.5%) |
+| Voted Nay | 200 (7.5%) |
 | Absent | 0 (0.0%) |
 | Recused (conflict of interest) | 0 (0.0%) |
 | Abstained | 0 (0.0%) |
@@ -49,17 +49,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,087 |
-| Voted Yea | 1,876 (89.9%) |
-| Voted Nay | 211 (10.1%) |
+| Substantive Votes | 2,330 |
+| Voted Yea | 2,137 (91.7%) |
+| Voted Nay | 193 (8.3%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 10.9%
-- **Contested Votes**: 2,090
+- **Dissent Rate**: 26.8%
+- **Contested Votes**: 697
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -70,9 +70,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 742 |
-| Voted Yea | 616 (83.0%) |
-| Voted Nay | 126 (17.0%) |
+| Budget Votes | 457 |
+| Voted Yea | 399 (87.3%) |
+| Voted Nay | 58 (12.7%) |
 | Absent | 0 |
 
 
@@ -94,8 +94,8 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 1,031 | 966 | 65 | 100.0% |
-| Strategic Priorities and Policy Committee | 795 | 658 | 137 | 100.0% |
+| Council | 2,052 | 1,919 | 133 | 100.0% |
+| Strategic Priorities and Policy Committee | 344 | 287 | 57 | 100.0% |
 | Planning and Environment Committee | 119 | 112 | 7 | 100.0% |
 | Civic Works Committee | 72 | 71 | 1 | 100.0% |
 | Community and Protective Services Committee | 40 | 39 | 1 | 100.0% |
@@ -105,6 +105,29 @@ prefillQuestions:
 ## Notable Dissenting Votes
 
 *Recent split votes where Nancy Branscombe voted against the final outcome:*
+
+### 2014-11-25: Properties located
+  at 510 Central Avenue and 609 William Street (Z-8141)
+
+[MINUTES 26TH MEETING](https://pub-london.escribemeetings.com//Meeting.aspx?Id=48b1e6a3-ae6e-47f5-b600-bfc121838a2f&Agenda=PostMinutes&lang=English)
+
+> Approve that a new part b) ii) J) BE
+  ADDED to provide for all parking at the rear, with one driveway off of
+  William Street and one driveway off of Central Avenue.
+
+Voted **Yea** - Motion Failed
+
+### 2014-09-30: By-law Amendments
+  for Expanded Animal Welfare Initiatives
+
+[MINUTES 23RD MEETING](https://pub-london.escribemeetings.com//Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English)
+
+> That the following actions be taken to
+  amend various City of London by-laws in order to support enhanced animal care
+  strategies and implement the Municipal Council’s first principle of “no kill”
+ ...
+
+Voted **Yea** - Motion Failed
 
 ### 2014-08-25: Installation of
   Sidewalks
@@ -118,6 +141,15 @@ prefillQuestions:
 Voted **Nay** - Motion
   Passed
 
+### 2014-07-29: Request for Support
+  for Fanshawe College London Downtown Campus - Phase ll
+
+[MINUTES 20TH MEETING](https://pub-london.escribemeetings.com//Meeting.aspx?Id=056b5df8-e902-4a5c-9b10-8354073f92ed&Agenda=PostMinutes&lang=English)
+
+> Motion Passed
+
+Voted **Yea** - Motion Failed
+
 ### 2014-07-28: Appointments to the
   London Public Library, 2014 - Term December 1, 2014 to November 30, 2018
 
@@ -129,83 +161,59 @@ Voted **Nay** - Motion
 Voted **Nay** - Motion
   Passed
 
+### 2014-05-06: COMMITTEE OF THE WHOLE, IN
+  CAMERA (continued)
+
+[MINUTES 12TH MEETING](https://pub-london.escribemeetings.com//Meeting.aspx?Id=6eda9580-212e-4cd2-a4fe-677696bb5ad1&Agenda=PostMinutes&lang=English)
+
+> Motion Failed
+
+Voted **Yea** - Motion Failed
+
 ### 2014-04-01: Property located at
   447 Old Wonderland Road (Z-8228)
 
-[MINUTES 10TH MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=aa971b64-26f6-4fc6-b9d8-65f1d4096aba&Agenda=PostMinutes&lang=English)
+[MINUTES 10TH MEETING](https://pub-london.escribemeetings.com//Meeting.aspx?Id=aa971b64-26f6-4fc6-b9d8-65f1d4096aba&Agenda=PostMinutes&lang=English)
 
-> Motion Passed
+> Approve clause 22, as amended.
 
 Voted **Nay** - Motion Passed
 
 ### 2014-03-18: Consideration of
   Appointment to the Child Care Advisory Committee
 
-[MINUTES 9TH MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=81c0030a-17e1-4d37-b72c-1ee78bd5dbc4&Agenda=PostMinutes&lang=English)
+[MINUTES 9TH MEETING](https://pub-london.escribemeetings.com//Meeting.aspx?Id=81c0030a-17e1-4d37-b72c-1ee78bd5dbc4&Agenda=PostMinutes&lang=English)
 
-> Motion Failed
+> Amend clause 11 by adding the
+  following new c), as follows:
+ 
+"c)     
+  the City Clerk BE REQUESTED to report back to the Corporate Services
+  Committee with respect to a fulsome review of the enti...
 
 Voted **Yea** - Motion Failed
 
-### 2014-02-25: CORPORATE OPERATING BUDGET
+### 2014-02-25: Property located at
+  350 Oxford Street East
 
-[Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=a74f6c6c-4794-417c-a662-c5f2c93d5220&Agenda=PostMinutes&lang=English)
+[MINUTES 6TH MEETING](https://pub-london.escribemeetings.com//Meeting.aspx?Id=dafc56ed-7bde-46c1-ba47-f78533319141&Agenda=PostMinutes&lang=English)
 
-> Motion
-  Passed
+> Approve an amendment to clause 3 to
+  require, through the site plan process, to have a door situated at the corner
+  of Waterloo Street and Oxford Street East.
 
-Voted **Nay** - Motion
-  Passed
+Voted **Yea** - Motion Failed
 
-### 2014-02-25: CORPORATE OPERATING BUDGET
+### 2014-01-30: CORPORATE OPERATING
+  BUDGET
 
-[Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=a74f6c6c-4794-417c-a662-c5f2c93d5220&Agenda=PostMinutes&lang=English)
-
-> Motion
-  Passed
-
-Voted **Nay** - Motion
-  Passed
-
-### 2014-02-25: CORPORATE OPERATING BUDGET
-
-[Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=a74f6c6c-4794-417c-a662-c5f2c93d5220&Agenda=PostMinutes&lang=English)
+[Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=20742436-9887-4d5a-aeda-ecd20d458684&Agenda=PostMinutes&lang=English)
 
 > Motion
   Passed
 
 Voted **Nay** - Motion
   Passed
-
-### 2014-02-25: CORPORATE OPERATING BUDGET
-
-[Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=a74f6c6c-4794-417c-a662-c5f2c93d5220&Agenda=PostMinutes&lang=English)
-
-> Motion
-  Failed
-
-Voted **Yea** - Motion
-  Failed
-
-### 2014-02-25: CORPORATE OPERATING BUDGET
-
-[Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=a74f6c6c-4794-417c-a662-c5f2c93d5220&Agenda=PostMinutes&lang=English)
-
-> Motion
-  Failed
-
-Voted **Yea** - Motion
-  Failed
-
-### 2014-02-25: CORPORATE OPERATING BUDGET
-
-[Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=a74f6c6c-4794-417c-a662-c5f2c93d5220&Agenda=PostMinutes&lang=English)
-
-> Motion
-  Failed
-
-Voted **Yea** - Motion
-  Failed
 
 
 ## Committees Served

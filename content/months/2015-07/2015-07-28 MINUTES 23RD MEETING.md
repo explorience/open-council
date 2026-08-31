@@ -2338,3 +2338,353 @@ Approve Second Reading of Bill No.s 276
 Motion
 Passed
 
+---
+
+## Votes
+
+*30 substantive votes at this meeting (10 contested, 20 unanimous). Procedural motions excluded.*
+
+### 11#2. Application by
+  David Tuckey re property located at 136A and 138 Wortley Road - Request for
+  Demolition
+
+> Approve clause 11, as amended
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 12#2. Application by 505
+  Talbot Limited re properties located at 505, 507 and 511 Talbot Street -
+  Request for Demolition
+
+> Approve clause 12, as amended
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 13#2. Proposed Addition
+  of Mid-Century Modern Properties to London's Inventory of Heritage Resources
+
+> That, on the recommendation of the Managing   Director, Planning and City Planner, with the advice of the Manager, Urban   Regeneration, the Mid-Century Modern properties described in Appendix A to   the staff report dated July 20, 2015 with respect to this matter, BE INCLUDED   in the City of Lo...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 2#4. Request for
+  Proposal (15-03) - Driver Simulator
+
+> Approve that clause 2 be amended by   adding the following new part e):   “e)       the   Civic Administration BE REQUESTED to provide an update to the Community and   Protective Services Committee, within one year of implementation, with   respect to operations, usage and potential partnership o...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 2#4. Request for
+  Proposal (15-03) - Driver Simulator
+
+> Approve   referral of the amended clause 2 back to the Community and Protective   Services Committee in order to allow for consideration of additional   information with respect to this matter.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 2#5. Interest Free Loan
+  - London Community Players (Palace Theatre)  (Related Bill No. 269)
+
+> Approve that clause 2 be amended to add a   new part d), as follows:   d)         the   Civic Administration BE DIRECTED to provide a report, in the next meeting   cycle, to the Corporate Service Committee, with respect to additional options   related to the interest-free loan for the London Comm...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 2#5. Interest Free Loan
+  - London Community Players (Palace Theatre)  (Related Bill No. 269)
+
+> Approve clause 2, as amended.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 3#4. Agreement Between
+  The City of London and Donald Jones Management Services Inc. - Management of
+  Centennial Hall  (Related Bill No. 270)
+
+> That, on the recommendation of the Managing   Director, Corporate Services and City Treasurer, Chief Financial Officer, the   attached revised proposed by-law (Appendix “A”) BE INTRODUCED at the   Municipal Council meeting to be held on July 28, 2015 to:   a)         approve   a five-year extensi...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 3#5. London Arts Council
+
+> That the matter of requesting the London   Arts Council to consider amending its membership to include a Council Member   BE REFERRED to the Civic Administration for a report back on the current   relationship between The Corporation of the City of London and the London   Arts Council, in order t...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (1):** [Mo Salih](/councillors/current/m-salih)
+
+</details>
+
+### 5#4. City Recognition
+  Queen Elizabeth ll - Longest Reigning Monarch
+
+> That the Civic Administration BE REQUESTED   to investigate the potential for commemorating Queen Elizabeth II as the   longest reigning monarch on September 9, 2015, and report back to the   appropriate Standing Committee, at the earliest opportunity, with recommended   options that could be und...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 5#5. Proposed
+  Implementation of Community Mailboxes by Canada Post
+
+> That the following actions be taken with   respect to the Canada Post Community Mail Box Program:   a)              Canada   Post BE REQUESTED to delay further implementation of Community Mailboxes in   the City of London until such time as a satisfactory response to the matters   referenced in b...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 5#5. Proposed
+  Implementation of Community Mailboxes by Canada Post
+
+> Approve:   1.                     That, as a   procedural matter pursuant to Section 239 (6) of the Municipal Act, 2001, the   following recommendation be forwarded to City Council for deliberation and a   vote in public session:   That, on the recommendation of the City   Clerk and in accordance...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 6#2. Open Air Burning
+  and Air Quality
+
+> That the Civic Administration BE REQUESTED   to report back to the Community and Protective Services Committee (CPSC) with   respect to open air burning and air quality, current practices, enforcement   and impacts of same, specifically as an update to the last report made to the   CPSC and Council.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 8#2. Municipality of
+  Thames Centre Official Plan Review (Official Plan Amendment No. 12) - Notice
+  of Decision
+
+> That, on the recommendation of the Managing   Director, Planning and City Planner, the Civic Administration BE DIRECTED to   initiate an appeal to the Ontario Municipal Board of the Decision of the   County of Middlesex approving Official Plan Amendment No. 12 to the Official   Plan for the Munic...
+
+**❌ Motion Failed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher)
+
+**Nay (9):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+</details>
+
+### 9#2. Application by
+  Tridon, re 510 Central (SP15-005948) - Site Plan
+
+> Approve clause 9 b).   b)         the   Approval Authority BE ADVISED that Municipal Council requests that the   westerly driveway on the proposed draft site plan be removed and be replaced   with landscaping and the required parking space be provided at 609 William   Street;
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (1):** [Paul Hubert](/councillors/current/p-hubert)
+
+</details>
+
+### V. COMMITTEE
+  OF THE WHOLE, IN CAMERA
+
+> Approve that   Council rise and go into the Committee of the Whole, in camera, for the   purpose of considering the following:
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### VI. CONFIRMATION
+  AND SIGNING OF THE MINUTES OF THE NINETEENTH, TWENTIETH, TWENTY-FIRST AND
+  TWENTY-SECOND MEETINGS HELD ON JUNE 25, JULY 8, JULY 15 AND JULY 22, 2015,
+  RESPECTIVELY.
+
+> Approve the Minutes of the 19th, 20th,   21st and 22nd Meetings held on June 25, July 8, July 15 and July 22, 2015,   respectively.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### XI. ENQUIRIES
+
+> Approve leave for Councillor H.L. Usher for the   purpose of putting forth a substantive motion related to drone technology.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher)
+
+**Nay (4):** [Matt Brown](/councillors/current/m-brown), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+</details>
+
+### XI. ENQUIRIES
+
+> Approve that the motion requesting   information related to the use of drone technology BE REFERRED to the Civic Works   Committee for further discussion as to what information the Committee would   like to see provided by the Civic Administration related to this matter.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer)
+
+</details>
+
+### XI. ENQUIRIES
+
+> Approve that in accordance with the   Council Procedure By-law, Councillor B. Armstrong's seat at the Council board   be ordered to remain empty for the duration of the meeting.
+
+**❌ Motion Failed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (7):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher)
+
+</details>
+
+### 2. W. Wilton Katz and
+  G. Yarrow, property located at 136A and 138 Wortley Road  (Refer to the
+  Planning and Environment Committee stage for consideration with clause 11 of
+  the 18th Report of the Planning and Environment Committee)
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 3. Greenway Wastewater
+  Treatment Plant Expansion & Upgrades - Construction Contract Award
+
+> That, on the recommendation of the Managing   Director, Environmental & Engineering Services & City Engineer, the   following actions be taken with respect to the award of the construction   contract for the Greenway Wastewater Treatment Plant Expansion and Upgrades;    a)         the   tender su...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 4. Single Source
+  Procurement - Customer Engagement Upgrade to MyLondonHydro Web Portal
+
+> Approve that clause 4 be amended by adding   a new part f) as follows:   f)         London   Hydro BE REQUESTED to include, as part of its scope of work, refinements   and/or improvements for accessing the portal and for the portal information,   in general, in order to improve ease of use.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (2):** [Jesse Helmer](/councillors/current/j-helmer), [Virginia Ridley](/councillors/current/v-ridley)
+
+</details>
+
+### 4. Single Source
+  Procurement - Customer Engagement Upgrade to MyLondonHydro Web Portal
+
+> Approve clause 4, as amended.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (2):** [Virginia Ridley](/councillors/current/v-ridley), [Jared Zaifman](/councillors/current/j-zaifman)
+
+</details>
+
+### 5. Update on Rainfall
+  Event of June 22, 2015
+
+> Approve that clause 5 be amended to   read as follows:   That   the following actions be taken with respect to the staff report dated July   20, 2015 with respect to the rainfall event of June 23, 2015:   a)              a)         the staff report BE RECEIVED for   information; and   b)         ...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (5):** [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Paul Hubert](/councillors/current/p-hubert)
+
+</details>
+
+### 5. Update on Rainfall
+  Event of June 22, 2015
+
+> Approve clause 5, as amended.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 9. Proposed Revision
+  to the W12A Landfill Designated Haul Route
+
+> That, on the recommendation of the Managing   Director, Environmental & Engineering Services and City Engineer the   following actions be taken with respect to the designated haul route to the   W12A Landfill:   a)         the   expansion of the designated haul route, as previously submitted to C...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+
+### 10. Wickerson Road -
+  Parking Infractions
+
+> That the Civic Administration BE REQUESTED   to review and report back on any changes that could be made to the Traffic   & Parking By-law to provide for parking flexibility in neighbourhoods   with large boulevard areas; it being noted that Councillor A. Hopkins   provided a petition, containing...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 13. Coordination of
+  Environmental Assessments with Shift Rapid Transit Initiative
+
+> That the Civic Administration BE REQUESTED   to report back on a proposed decision-making process which would close the   gap between various Environmental Assessments and the Shift Rapid Transit   Initiative.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 15. 9th Report of the
+  London Advisory Committee on Heritage
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+

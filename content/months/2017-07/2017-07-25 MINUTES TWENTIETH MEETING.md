@@ -3475,3 +3475,547 @@ Approve Third Reading and Enactment of
 Motion
 Passed
 
+---
+
+## Votes
+
+*41 substantive votes at this meeting (22 contested, 19 unanimous). Procedural motions excluded.*
+
+### 13#2. North American Free
+  Trade Agreement (NAFTA)
+
+> Approve that clause 13 be amended by   adding the words, ", labour and Indigenous " after the word   "business".
+
+**✅ Motion Passed**
+
+Unanimous (10-0)
+
+### 13#2. North American Free
+  Trade Agreement (NAFTA)
+
+> Approve that clause 13 be further   amended by adding the word "Mexico" after the words "United   States of America" and by adding the following words to the end of   clause:   "and that the Government of Canada be   requested to engage in further consultation with the City of London and the   br...
+
+**✅ Motion Passed**
+
+Unanimous (10-0)
+
+### 13#2. North American Free
+  Trade Agreement (NAFTA)
+
+> Approve clause 13, as amended.
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### 14#4. Request for Demolition
+  of Heritage Listed Property located at 660 Sunningdale Road East
+
+> That, the following actions be taken with   respect to the request for the demolition of a heritage listed property   located at 660 Sunningdale Road East:    a)         notice   BE GIVEN under the provision of Section 29(3) of the Ontario Heritage Act,   R.S.O. 1990, c. O. 18, of the Municipal C...
+
+**❌ Motion Failed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Tanya Park](/councillors/current/t-park)
+
+**Nay (8):** [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley)
+
+</details>
+
+### 14#4. Request for Demolition
+  of Heritage Listed Property located at 660 Sunningdale Road East
+
+> Approve that, on the recommendation of   the Managing Director, Planning & City Planner, with the advice of the   Heritage Planner, with respect to the request for the demolition of a   heritage listed property located at 660 Sunningdale Road East, that notice BE   GIVEN under the provision of Se...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+
+**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+
+### 15#3. City Wide Official
+  Plan and Zoning By-law Amendments - Secondary Dwelling Units (OZ-8053)
+  (Relates to Bill No.'s 332 and 345)
+
+> Approve that clause 15 be amended as   follows:   a)        by adding the following new part   c):   “c)        the   proposed amendment referenced in a) above BE FORWARDED the Ontario Municipal   Board for their consideration of a potential amendment to Policy 942 of The   London Plan to delete ...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+
+**Nay (1):** [Phil Squire](/councillors/current/p-squire)
+
+</details>
+
+### 15#3. City Wide Official
+  Plan and Zoning By-law Amendments - Secondary Dwelling Units (OZ-8053)
+  (Relates to Bill No.'s 332 and 345)
+
+> Approve clause 15, as amended.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+
+**Nay (3):** [Josh Morgan](/councillors/current/j-morgan), [Phil Squire](/councillors/current/p-squire), [Paul Hubert](/councillors/current/p-hubert)
+
+</details>
+
+### 16#3. Property located at
+  1355 Commissioners Road West (formerly 1349, 1351, 1357, 1361 Commissioners
+  Road West) (SPA17-024)
+
+> Approve that clause 16 be amended  as   follows:   i)          by adding the following new   part c):   “c)        in   accordance with section 45 (1.4) of the Planning Act, R.S.O. 1990, c.P. 13,   as amended, consent BE GIVEN to the Secretary-Treasurer of the Committee of   Adjustment to accept ...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley)
+
+**Nay (4):** [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/current/m-cassidy), [Bill Armstrong](/councillors/current/b-armstrong), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 16#3. Property located at
+  1355 Commissioners Road West (formerly 1349, 1351, 1357, 1361 Commissioners
+  Road West) (SPA17-024)
+
+> Approve that clause 16 be further amended   in part d) to read as follows   d)         the   Civic Administration BE REQUESTED to provide notification related to   Committee of Adjustment application resulting from c) above, to anyone who   made a submission regarding previous applications before...
+
+**✅ Motion Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Tanya Park](/councillors/current/t-park)
+
+**Nay (5):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley)
+
+</details>
+
+### 16#3. Property located at
+  1355 Commissioners Road West (formerly 1349, 1351, 1357, 1361 Commissioners
+  Road West) (SPA17-024)
+
+> Approve part d) of clause 16, as amended.
+
+**✅ Motion Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Tanya Park](/councillors/current/t-park)
+
+**Nay (6):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley)
+
+</details>
+
+### 16#3. Property located at
+  1355 Commissioners Road West (formerly 1349, 1351, 1357, 1361 Commissioners
+  Road West) (SPA17-024)
+
+> Approve parts a) and b) of clause 16, as   amended.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 16#3. Property located at
+  1355 Commissioners Road West (formerly 1349, 1351, 1357, 1361 Commissioners
+  Road West) (SPA17-024)
+
+> Approve part c) of clause 16, as amended.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley)
+
+**Nay (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/current/m-cassidy), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 2#4. Amendments to the
+  Traffic and Parking By-law (Relates to Bill No's. 335, 336 and 337)
+
+> That, on the recommendation of the Managing   Director, Environmental and Engineering Services and City Engineer, the   following actions be taken with respect to amendments to the Traffic and   Parking By-law (PS-113):   a)         the   proposed by-law, appended to the staff report dated July 1...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 2#6. Service London:  The Costs and
+  Considerations Associated with a 311 Number
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
+
+**Nay (2):** [Michael van Holst](/councillors/current/m-van-holst), [Virginia Ridley](/councillors/current/v-ridley)
+
+</details>
+
+### 20#2. 6th Report of the
+  Environmental and Ecological Planning Advisory Committee
+
+> That the 6th Report of the EEPAC BE   RECEIVED; it being noted that it is addressed in clause 2 of this Report.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 3#2. Property located at
+  8076 Longwoods Road (Z-8735) (Relates to Bill No. 342)
+
+> Motion Passed
+
+**❌ **
+
+Unanimous (14-0)
+
+### 4#6. Shift Rapid Transit – Master Plan and
+  Business Case
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+
+**Nay (1):** [Phil Squire](/councillors/current/p-squire)
+
+</details>
+
+### 4#6. Shift Rapid Transit – Master Plan and
+  Business Case
+
+> Motion Passed
+
+**✅ Motion
+Passed**
+
+Unanimous (13-0)
+
+### 4#6. Shift Rapid Transit – Master Plan and
+  Business Case
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Anna Hopkins](/councillors/current/a-hopkins), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+
+**Nay (1):** [Michael van Holst](/councillors/current/m-van-holst)
+
+</details>
+
+### 4#6. Shift Rapid Transit – Master Plan and
+  Business Case
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### 5#2. Closed Adult Live
+  Entertainment Parlour - 2190 Dundas Street East
+
+> Motion Failed
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 7#5. Staff Resourcing to
+  Support the New Tree Protection By-law
+
+> That, on the recommendation of the Managing   Director, Planning and City Planner, the Civic Administration BE AUTHORIZED   to increase the staff complement in Planning Services by one permanent   full-time equivalent, using existing Operational funding, to support the   ongoing administration of...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 8#2. Architect to Act as
+  Prime Consultant for the Byron Pool and Bathhouse Life Cycle Renewal Project
+  - Request for Proposal No. F-RFP17-04, Project No. P029-RC22017
+
+> That, on the recommendation of the Managing   Director, Corporate Services and City Treasurer, Chief Financial Officer, the   following actions be taken with respect to the request for proposal for the   architect to act as prime consultant for the Byron Pool and Bathhouse Life   Cycle Renewal (R...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 8#4. Downsizing Water
+  Meters
+
+> That the matter of downsizing water meters   BE REFERRED to the Civic Administration for review and report back to the   Civic Works Committee with respect to options that will allow people to right   size water meters on their property.  (2017-E08)
+
+**❌ Motion Failed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
+
+**Nay (6):** [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 8#6. Appointment of Acting Mayors
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### IV. COUNCIL, IN
+  CLOSED SESSION
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### V. CONFIRMATION
+  AND SIGNING OF THE MINUTES OF THE NINETEENTH MEETING HELD ON JUNE 26, 2017
+
+> Approve the Minutes of the Nineteenth Meeting   held on June 26, 2017.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### XII. EMERGENT
+  MOTIONS
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+
+**Nay (1):** [Phil Squire](/councillors/current/p-squire)
+
+</details>
+
+### XII. EMERGENT
+  MOTIONS
+
+> Approve that   the Civic Administration BE DIRECTED to suspend enforcement of Section 4.18   5) of Zoning By-law Z.-1 until the appeal to the Ontario Municipal Board   (OMB) related to Municipal Council's decision to delete that section from   Zoning By-law Z-1 has been decided or withdrawn; it b...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+
+**Nay (2):** [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### XIII. BY-LAWS
+
+> Approve Introduction and First Reading   of Bill No.’s 332 and 345.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+
+**Nay (2):** [Josh Morgan](/councillors/current/j-morgan), [Phil Squire](/councillors/current/p-squire)
+
+</details>
+
+### XIII. BY-LAWS
+
+> Approve Second Reading of Bill No.’s 332   and 345.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+
+**Nay (2):** [Josh Morgan](/councillors/current/j-morgan), [Phil Squire](/councillors/current/p-squire)
+
+</details>
+
+### XIII. BY-LAWS
+
+> Approve Third Reading and Enactment of   Bill No.’s 332 and 345.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+
+**Nay (2):** [Josh Morgan](/councillors/current/j-morgan), [Phil Squire](/councillors/current/p-squire)
+
+</details>
+
+### 9. (ADDED) P. Lombardi,
+  Siskinds The Law Firm - EMCO Corporation Building - 1108 Dundas Street,
+  Inventory of Heritage Resources 
+ 
+(Refer to the Planning and Environment
+  Committee Stage for Consideration with Clause 12 of the 14th Report of the
+  Planning and Environment Committee)
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 9. (ADDED) P. Lombardi,
+  Siskinds The Law Firm - EMCO Corporation Building - 1108 Dundas Street,
+  Inventory of Heritage Resources 
+ 
+(Refer to the Planning and Environment
+  Committee Stage for Consideration with Clause 12 of the 14th Report of the
+  Planning and Environment Committee)
+
+> Approve that pursuant to section 6.4 of   the Council Procedure By-law, the order of business be changed to permit   consideration of clause 3 of the 14th Report of the Planning and Environment   Committee at this time.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 10. Council Policy for
+  Publicly Releasing Fire Conviction Information
+
+> That it BE NOTED that the report dated July   18, 2017 from the Fire Chief with respect to a proposed Council Policy for   publicly releasing fire conviction information, was received; it being noted   that there will be no further action with respect to this matter; it being   further noted that...
+
+**✅ Motion Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley)
+
+**Nay (6):** [Josh Morgan](/councillors/current/j-morgan), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+</details>
+
+### 16. 7th Report of the
+  Diversity, Inclusion and Anti-Oppression Advisory Committee
+
+> Approve that clause 16 be amended to   read as follows:   “That the following actions be taken with   respect to the 7th Report of the Diversity, Inclusion and Anti-Oppression   Advisory Committee from its meeting held on June 15, 2017:   a)         the   Civic Administration BE REQUESTED to revi...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+
+**Nay (1):** [Paul Hubert](/councillors/current/p-hubert)
+
+</details>
+
+### 16. 7th Report of the
+  Diversity, Inclusion and Anti-Oppression Advisory Committee
+
+> Approve clause 16, as amended.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+
+**Nay (1):** [Paul Hubert](/councillors/current/p-hubert)
+
+</details>
+
+### 18. 6th Report of
+  Accessibility Advisory Committee
+
+> Approve that clause 18 be amended to   read as follows:   “That the following actions be taken with   respect to the 6th Report of the Accessibility Advisory Committee from the   meeting held on June 22, 2017:   a)         the   Civic Administration BE REQUESTED to review and report back on the  ...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+
+**Nay (1):** [Paul Hubert](/councillors/current/p-hubert)
+
+</details>
+
+### 18. 6th Report of
+  Accessibility Advisory Committee
+
+> Approve clause 18, as amended.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 21. Deferral of Tree
+  Cutting on Trowbridge Avenue
+
+> That NO ACTION BE TAKEN at this time to   install sidewalks on Trowbridge Avenue, so that the removal of trees for   construction purposes can be avoided, recognizing that some trees will still   need to be removed for safety reasons due to their condition; it being noted   that the Civic Works C...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+
+**Nay (2):** [Jesse Helmer](/councillors/current/j-helmer), [Bill Armstrong](/councillors/current/b-armstrong)
+
+</details>
+
+### 22. F. Fernandez -
+  Ontario Power Generation's Proposed Nuclear Waste Repository
+
+> That the submission dated June 21, 2017,   from F. Fernandez with respect to the Ontario Power Generation's Proposed   Nuclear Waste Repository, BE REFERRED to the next meeting of the Civic Works   Committee.
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+

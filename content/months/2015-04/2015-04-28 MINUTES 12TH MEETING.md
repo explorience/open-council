@@ -2329,3 +2329,277 @@ Approve Third Reading and Enactment of
 Motion
 Passed
 
+---
+
+## Votes
+
+*27 substantive votes at this meeting (4 contested, 23 unanimous). Procedural motions excluded.*
+
+### 11#2. Planning and
+  Environment Committee Deferred Matters List
+
+> 
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 11#2. Planning and
+  Environment Committee Deferred Matters List
+
+> 
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 11#2. Planning and
+  Environment Committee Deferred Matters List
+
+> That, on the recommendation of the     Planner II, Development and Compliance Services, in response to the letter     of appeal to the Ontario Municipal Board, dated February 9, 2015, submitted     by Peter Dillon, relating to the minor variance application concerning 878     Hellmuth Avenue, the...
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 11#2. Planning and
+  Environment Committee Deferred Matters List
+
+> Approve clauses 1 to 17, excluding clauses 7, 8 and 14.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 14#2. Rock the Park 12 -
+  July 2015
+
+> That the following actions be taken with   respect to the “Rock the Park 12 – July 2015” event:   a)         the   attached proposed by-law BE INTRODUCED at the at the Municipal   Council meeting to be held on April 28, 2015, to amend the City of London’s   2015 Special Events Policies and Proced...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (1):** [Michael van Holst](/councillors/current/m-van-holst)
+
+</details>
+
+### 2#5. Resignation
+    from the London Public Library Board
+
+> That the resignation of Councillor A.     Hopkins from the London Public Library Board, due to a scheduling conflict     with meetings of the London Middlesex Housing Corporation Board of     Directors, BE ACCEPTED.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 2#5. Resignation
+    from the London Public Library Board
+
+> Approve clauses 1 and 2.   1.                           That,   as a procedural matter pursuant to Section 239 (6) of the Municipal Act,   2001, the following recommendation be forwarded to City Council for   deliberation and a vote in public session:   That, on the recommendation of the Managing...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 7#4. Pedestrian Pathway
+  Connection Across Canadian National Railway Lands in Kiwanis Park, Municipal
+  Class Environmental Assessment
+
+> That, on the recommendation of the Managing   Director, Planning and City Planner, and the Managing Director, Environmental   and Engineering Services and City Engineer, the following actions be taken   with respect to the pedestrian pathway connection across the Canadian   National Railway lands...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 7#4. Pedestrian Pathway
+  Connection Across Canadian National Railway Lands in Kiwanis Park, Municipal
+  Class Environmental Assessment
+
+> That the following actions be taken with   respect to a ban on shark fin products:   a)         on   the recommendation of the Managing Director, Development and Compliance   Services and Chief Building Official and the City Clerk, the proposed by-law,   as appended to the staff report dated Apri...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 7#4. Pedestrian Pathway
+  Connection Across Canadian National Railway Lands in Kiwanis Park, Municipal
+  Class Environmental Assessment
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### IV. RECOGNITIONS
+
+> Approve that pursuant to section 7.4 of   the Council Procedure By-law, the order of business be changed to permit   consideration of clause 9 of the 7th Report of the Civic Works Committee to   be dealt with prior to the Committee of Whole.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### IV. RECOGNITIONS
+
+> Approve the inclusion of a matter pertaining   to advice that is subject to solicitor-client privilege, including   communications necessary purpose, and for the purpose of giving instructions   and directions to the solicitors of the municipality in connection with such   advice relating to the ...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### IV. RECOGNITIONS
+
+> Approve that pursuant to section 7.4 of   the Council Procedure By-law, the order of business be changed to permit the   consideration of Part XII - Emergent Motions of the Council Agenda to be   dealt with prior to the in camera session of the Committee of the Whole.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### V. COMMITTEE
+  OF THE WHOLE, IN CAMERA
+
+> Approve that Council rise and go into   the Committee of the Whole, in camera, for the purpose of considering the following   matters:
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### VI. CONFIRMATION
+  AND SIGNING OF THE MINUTES OF THE ELEVENTH MEETING HELD ON APRIL 14, 2015
+
+> Approve an amendment to the Minutes of   the 11th Meeting held on April 14, 2015, related to Councillor J. Helmer's   disclosure of pecuniary interest, in order to reflect that the London Youth   Advisory Council is a client of his company.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### VI. CONFIRMATION
+  AND SIGNING OF THE MINUTES OF THE ELEVENTH MEETING HELD ON APRIL 14, 2015
+
+> Approve Minutes of the 11th Meeting held   on April 14, 2015, as amended.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### XII. EMERGENT MOTIONS
+
+> Approve that pursuant to section 19.2 of   the Council Procedure By-law, leave be given for the introduction of an   emergent motion regarding concerns raised by residents of Auburn Avenue with   respect to a pending City of London construction project on Auburn Avenue.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### XII. EMERGENT MOTIONS
+
+> Approve that the following actions be taken with   respect to the installation of a sidewalk on Auburn Avenue:   a)         the   attached petition signed by 73 residents from the Auburn Avenue   neighbourhood objecting to the construction of a sidewalk on Auburn Avenue BE   RECEIVED; and,   b)  ...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### XIII. BY-LAWS
+
+> Approve Introduction and First Reading of   Bill No. 185.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (2):** [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer)
+
+</details>
+
+### XIII. BY-LAWS
+
+> Approve Second Reading of Bill No. 185.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (2):** [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer)
+
+</details>
+
+### 5. Code of Conduct of
+  Municipal Council and Lobbyist Registry Update - Resubmitting
+
+> The motion to Approve receipt of the staff   report dated April 23, 2013 with respect to Code of Conduct and Lobbyist   Registry is put.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 5. Code of Conduct of
+  Municipal Council and Lobbyist Registry Update - Resubmitting
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (2):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire)
+
+</details>
+
+### 7. Apportionment of
+  Taxes
+
+> That, on the recommendation of the Managing   Director, Corporate Services and City Treasurer, Chief Financial Officer, the   taxes on the blocks of land described in the Schedules appended to the staff   report dated April 21, 2015 BE APPORTIONED as indicated on the Schedules   pursuant to Secti...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 8. W12A Landfill -
+  Proposal and Process to Accept Waste from Three Facilities Outside of London
+
+> That, on the recommendation of the   Director, Environment, Fleet and Solid Waste, the following actions be taken   with respect to the W12A Landfill proposal and process to accept waste from   three facilities outside of London:    a)         the   Civic Administration BE DIRECTED to revise the ...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 9. Regional Rideshare
+  Program Update
+
+> That, on the recommendation of the   Director, Environment, Fleet and Solid Waste, the staff update report dated   April 20, 2015, with respect to the regional rideshare program BE FORWARDED   to the following Advisory Committee's  for information, discussion and input:   a)         the Transport...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 13. Waste Diversion - 
+  Update on Examination of Residential Organics Waste (Food Scraps) and Next
+  Steps
+
+> That, on the recommendation of the   Director, Environment, Fleet and Solid Waste the Civic Administration BE   DIRECTED to examine opportunities to facilitate increased diversion of   organics and recyclables from the institutional, commercial and industrial   sectors including a review of:   a)...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 14. Deferred Matters
+  List
+
+> That the Deferred Matters list BE REFERRED   to the Civic Administration for review and report back at the May 20, 2015   meeting of the Civic Works Committee, with respect to the current status of   every item and to identify those matters that can be deleted or combined with   others, and the b...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+

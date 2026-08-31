@@ -1582,3 +1582,120 @@ Approve Third Reading and Enactment of
 Motion
 Passed
 
+---
+
+## Votes
+
+*11 substantive votes at this meeting (2 contested, 9 unanimous). Procedural motions excluded.*
+
+### 2#4. Request for Proposal for Internal Audit
+  Service
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 2#4. Request for Proposal for Internal Audit
+  Service
+
+> 1st Report of Council, In Camera
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 6#3. 11th Report of the
+  Governance Working Group
+
+> That the following actions be taken with   respect to the 11th Report of the Governance Working Group, from its meeting   held on May 16, 2016:   a)         the   Governance Working Group (GWG) Terms of Reference BE AMENDED to extend the   term to September 30, 2016, in order to provide additiona...
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### V. CONFIRMATION
+  AND SIGNING OF THE MINUTES OF THE TWELFTH MEETING HELD ON MAY 31, 2016
+
+> Approve that the Minutes of the   Thirteenth Meeting, held on May 31, 2016 BE APPROVED.
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### XI. ENQUIRIES
+
+> Approve that pursuant to section 18.4 of   the Council Procedure By-law, leave to introduce a motion related to Syrian   refugee matters.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### XI. ENQUIRIES
+
+> Approve that Civic Administration BE   DIRECTED to report back to the Community and Protective Services Committee   with respect to any developments in the community as it relates to the   resettlement of Syrian refugees in London.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### XII. EMERGENT
+  MOTIONS
+
+> Approve that pursuant to section 20.2 of   the Council Procedure By-law, leave be given for the introduction of an   emergent motion to receive notice from Councillor M. Cassidy of her   resignation from the position of Deputy Mayor, selected by Municipal Council.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### XII. EMERGENT
+  MOTIONS
+
+> Approve that the attached letter   from Councillor M. Cassidy giving notice of her resignation from the position   of Deputy Mayor, selected by Municipal Council, BE ACCEPTED.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 14. Standing Committees
+  and Forums - Federation of Canadian Municipalities - Councillor T. Park
+
+> That Councillor T. Park BE ENDORSED to   apply for appointment to the Federation of Canadian Municipalities’ Standing   Committees and Forums for the 2016/2017 term and her associated eligible   costs to attend the meetings, if appointed, BE APPROVED for payment outside   her annual expense alloc...
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 15. Proposed Changes to
+  the Garbage Container Limit
+
+> Approve that clause 15 be amended in   part a) by deleting the reference to the number “3” and by replacing it with   the number “2”.
+
+**❌ Motion Failed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Stephen Turner](/councillors/current/s-turner), [Tanya Park](/councillors/current/t-park)
+
+**Nay (9):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher)
+
+</details>
+
+### 15. Proposed Changes to
+  the Garbage Container Limit
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (2):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire)
+
+</details>
+

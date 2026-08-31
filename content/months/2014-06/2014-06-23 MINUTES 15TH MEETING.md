@@ -848,3 +848,101 @@ Adjourn.
 
 ****
 
+---
+
+## Votes
+
+*9 substantive votes at this meeting (2 contested, 7 unanimous). Procedural motions excluded.*
+
+### IV. COMMITTEE
+  OF THE WHOLE, IN CAMERA
+
+> MOTION FOR IN CAMERA SESSION
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### XII. BY-LAWS
+
+> Approve 2nd Reading of Bill No.s 298 to   302.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### XII. BY-LAWS
+
+> Approve 3rd Reading and Enactment   of Bills No. 298 to 302.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### XIII. ADJOURNMENT
+
+> Adjourn.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 1. J.F. Fontana -
+  Letter of Resignation
+
+> Approve that the written notice   dated June 19, 2014 from J.F. Fontana, resigning from the office of Mayor of   the City of London, effective June 19, 2014 at 10:00 AM, BE ACCEPTED and the   office of Mayor BE DECLARED vacant in accordance with section 260(1) of the   Municipal Act, 2001, c.25.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 1. J.F. Fontana -
+  Letter of Resignation
+
+> Approve that the appointment to fill the   Mayoral vacancy BE MADE from the membership of the current Municipal Council.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (1):** [Stephen Orser](/councillors/current/s-orser)
+
+</details>
+
+### 12. Appointment
+    to the Trees and Forests Advisory Committee
+
+> At 9:06 PM Councillor N. Branscombe     leaves the meeting.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 12. Appointment
+    to the Trees and Forests Advisory Committee
+
+> 13.   Designation of     Lawn Summer Nights as a Municipally Significant Event         That the Lawn Summer Nights event to be     held consecutive Thursdays on July 3, 10, 17 and 24, 2014, at the Thistle     Lawn Bowling Club, 25 Beaufort Street, London, Ontario, BE DESIGNATED as a     municipal...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (2):** [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher)
+
+</details>
+
+### 13. Designation of
+    Lawn Summer Nights as a Municipally Significant Event
+
+> Approve that   on the recommendation of the Managing Director, Corporate Services and   City Treasurer, Chief Financial Officer, on the advice of the Manager of   Realty Services, with   the review and concurrence of the Managing Director, Planning and City   Planner, the lease between the City a...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+

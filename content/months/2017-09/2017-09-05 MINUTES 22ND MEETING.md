@@ -3058,3 +3058,237 @@ Approve Third Reading and Enactment of
 Motion
 Passed
 
+---
+
+## Votes
+
+*19 substantive votes at this meeting (7 contested, 12 unanimous). Procedural motions excluded.*
+
+### 11#2. Property located at
+  2426 Wickerson Road (OZ-8783) (Relates to Bill Nos. 396 and 407)
+
+> Approve that parts b) and c) of clause 11   be amended to read as follows:   “b)       the   proposed revised by-law attached as Appendix "B" BE INTRODUCED at   the Municipal Council meeting to be held on September 5, 2017 to amend Zoning   By-law No. Z.-1, (in conformity with the Official Plan a...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 11#2. Property located at
+  2426 Wickerson Road (OZ-8783) (Relates to Bill Nos. 396 and 407)
+
+> Approve clause 11, as amended.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 16#2. Review of Impacts
+  from Industrial Sources (Focus on Odour) and Potential Municipal Actions
+  (Primarily South of Highway 401)
+
+> That, on the recommendation of the Managing   Director, Development & Compliance Services and Chief Building Official   and the Managing Director, Environmental & Engineering Services and City   Engineer, the following actions be taken with respect to current and   potential odour challenges from...
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 3#3. LAV III Monument
+  Agreements (Relates to Bill Nos. 393 and 394)
+
+> That, on the recommendation of the   Director, Community and Economic Innovation, the following actions be taken   with respect to the execution of agreements related to the purchase and   location of a LAV III Public Art Monument:   a)         the   by-law, as appended to the staff report dated ...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 5#4. Joint Use Agreement
+  with Western University - Conduit Pathways (Relates to Bill No.392)
+
+> That, on the recommendation of the   Director, Information Technology Services, the following actions be taken   with respect to a Joint Use Agreement (JUA) between the University of Western   Ontario and The Corporation of the City of London for the University’s access   to City of London-owned ...
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### 8#2. Property located at
+  58 Sunningdale Road West (39T-16503/OZ-8637)
+
+> At 5:25 PM, His Worship the Mayor places   Councillor P. Hubert in the Chair, and takes a seat at the Council Board.    At 5:30 PM, His Worship the Mayor resumes   the Chair, and Councillor P. Hubert takes his seat at the Council Board.
+
+**❌ Motion Failed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Michael van Holst](/councillors/current/m-van-holst), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley)
+
+**Nay (8):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner), [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+</details>
+
+### 8#2. Property located at
+  58 Sunningdale Road West (39T-16503/OZ-8637)
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (3):** [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert)
+
+</details>
+
+### 8#2. Property located at
+  58 Sunningdale Road West (39T-16503/OZ-8637)
+
+> Approve that pursuant to section 6.4 of   the Council Procedure By-law, the order of business be changed to permit   consideration of clause 3 of the 11th Report of the Community and Protective   Services Committee, having to do with the LAVIII Monument Agreements, to be   dealt with at this time.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 9#3. Appointment to the
+  London Hydro Board of Directors (Relates to Bill No. 411)
+
+> That, on the recommendation of the   Corporate Services Committee, the attached proposed by-law (Appendix   “A”) BE INTRODUCED at the Municipal Council meeting to be held September 5,   2017 to:   a)         ratify   and confirm the Resolution of the Shareholder of London Hydro Inc., attached   a...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### V. CONFIRMATION
+  AND SIGNING OF THE MINUTES OF THE TWENTY-FIRST MEETING HELD ON  AUGUST 22,
+  2017
+
+> Approve the Minutes of the Twenty-First Meeting   held on August 22, 2017.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### XII. EMERGENT
+  MOTIONS
+
+> Approve Introduction and First Reading of   Bill No. 410.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+
+### XII. EMERGENT
+  MOTIONS
+
+> Approve Second Reading of Bill No. 410.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+
+### XII. EMERGENT
+  MOTIONS
+
+> Approve Third Reading and Enactment of   Bill No. 410.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+
+### 2. Properties located
+  at 32, 36 and 40 York Street and Part of 330 Thames Street (OZ-8789)
+ 
+(Refer to the Planning and Environment
+  Committee Stage for Consideration with Clause 21 of the 16th Report of the
+  Planning and Environment Committee )
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 20. Properties located
+  at 598, 600, 604 and 608 Springbank Drive (SPA17-028)
+
+> Approve an amendment to add a new part   d), as follows:   "d)         the Civic Administration BE DIRECTED to consider the planting of   appropriate trees along the boulevard;"
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 20. Properties located
+  at 598, 600, 604 and 608 Springbank Drive (SPA17-028)
+
+> Approve clause 20, as amended.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 21. Properties located
+  at 32, 36 and 40 York Street and Part of 330 Thames Street (OZ-8789) (Relates
+  to Bill No. 410)
+
+> Approve that clause 21 be amended as   follows:   a)         in   part a) i) B) III) by removing the word “northwest” and by replacing it with   the word “southwest”; and   b)         in   part a) ii) B) II) by removing the word “northwest” and by replacing it with   the words “southwest”.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+
+### 21. Properties located
+  at 32, 36 and 40 York Street and Part of 330 Thames Street (OZ-8789) (Relates
+  to Bill No. 410)
+
+> Approve clause 21, as amended.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+
+### 23. Definition of
+  Supervised Injection Sites
+
+> That the Managing Director, Planning and   City Planner BE DIRECTED to examine the use definition of supervised   injection sites in the Zoning By-law and how this will be distinguished from   the broader Zoning By-law use "clinic";   it being noted that the Planning and   Environment Committee r...
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+

@@ -1754,3 +1754,258 @@ Approve Third Reading and Enactment of
 Motion
 Passed
 
+---
+
+## Votes
+
+*20 substantive votes at this meeting (10 contested, 10 unanimous). Procedural motions excluded.*
+
+### 1#2. J. Hunten, 253
+  Huron Street and N. Tausky, 288 St. James Street - Properties located at
+  479-485, 487 and 489 Talbot Street (Refer to the Planning and Environment
+  Committee stage for consideration with clause 9 of the 17th Report of the
+  Planning and Environment Committee.)
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 1#9. (ADDED) Councillor
+  J. Zaifman - Payment of Stipend During Period of Approved Medical Leave
+
+> Approve that pursuant to section 20.2 of   the Council Procedure By-law, leave be given for the introduction of an   emergent motion to consider the communication dated October 6, 2016, from   Councillor J. Zaifman seeking support with respect to the discontinuance of   his stipend until such tim...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 1#9. (ADDED) Councillor
+  J. Zaifman - Payment of Stipend During Period of Approved Medical Leave
+
+> Approve that the communication dated   October 6, 2016, from Councillor J. Zaifman, with respect to the   discontinuance of his stipend until such time as he is able to resume his   duties, BE SUPPORTED.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 13#2. PEC Deferred List
+
+> That the Deferred Matters List dated   September 6, 2016, BE UPDATED and items that have been addressed by the Civic   Administration BE REMOVED.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 2#3. Recording of In
+  Closed Session Meetings
+
+> Approve referral of clause 2 back to the   Corporate Services Committee in order to receive further information from the   Civic Administration and to provide for additional discussion with respect to   this matter.
+
+**❌ Motion Failed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley)
+
+**Nay (12):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 2#3. Recording of In
+  Closed Session Meetings
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (1):** [Virginia Ridley](/councillors/current/v-ridley)
+
+</details>
+
+### 2#4. Meeting with Members of Parliament
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 3#4. Quarterly Report on
+  Internal Audit Results
+
+> Approve clauses 1 and 2 as follows:   1.                     That, as a   procedural matter pursuant to Section 239 (6) of the Municipal Act, 2001, the   following recommendation be forwarded to City Council for deliberation and a   vote in public session:   That, on the recommendation of the Man...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 7#2. Chelsea Green
+  Meadows Delegation
+
+> That the following actions be taken with   respect to the request for a Brownfield Incentive application for the Chelsea   Green subdivision (33M-686):   a)         the   Civic Administration BE REQUESTED to report back at a future meeting of the   Planning and Environment Committee with an analy...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (1):** [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 9#2. Properties located
+  at 479-485, 487 and 489 Talbot Street
+
+> The Chair rules that a proposed amendment   to clause 10 would require the Municipal Council to approve a reconsideration   of the matter.  Councillor S. Turner challenges the ruling of the Chair.  Pursuant   to section 10.5 of the Council Procedure By-law the question “Shall the   ruling of the ...
+
+**❌ Motion Failed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (7):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 9#2. Properties located
+  at 479-485, 487 and 489 Talbot Street
+
+> Part a) of clause 9 is put.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (4):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner), [Bill Armstrong](/councillors/current/b-armstrong)
+
+</details>
+
+### 9#2. Properties located
+  at 479-485, 487 and 489 Talbot Street
+
+> Part b) of clause 9 is put.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 9#2. Properties located
+  at 479-485, 487 and 489 Talbot Street
+
+> The balance of clause 9 is put.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### V. CONFIRMATION
+  AND SIGNING OF THE MINUTES OF THE NINETEENTH MEETING HELD ON SEPTEMBER 27,
+  2016
+
+> Approve the Minutes of the Nineteenth   Meeting, held on September 27, 2016.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### XIII. BY-LAWS
+
+> Approve Introduction and First Reading of   revised Bill No. 369.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (1):** [Jesse Helmer](/councillors/current/j-helmer)
+
+</details>
+
+### XIII. BY-LAWS
+
+> Approve Second Reading of revised Bill   No. 369.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (2):** [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer)
+
+</details>
+
+### XIII. BY-LAWS
+
+> Approve Third Reading and Enactment of   revised Bill No. 369.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (2):** [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer)
+
+</details>
+
+### 7. Parking Between the
+  Sidewalk and Roadway
+
+> Approve that clause 7 BE REFERRED back   to the Civic Works Committee, for further discussion and public consultation.
+
+**❌ Motion Failed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Stephen Turner](/councillors/current/s-turner), [Bill Armstrong](/councillors/current/b-armstrong)
+
+**Nay (12):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 7. Parking Between the
+  Sidewalk and Roadway
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 13. Infrastructure
+  Canada - Phase One Investments - Public Transit Infrastructure Fund
+
+> That, on the recommendation of the Managing   Director, Environmental and Engineering Services and City Engineer, with the   concurrence of the Managing Director, Corporate Services and City Treasurer,   Chief Financial Officer, the following actions be taken with respect to the   Public Transit ...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+

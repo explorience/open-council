@@ -5,18 +5,18 @@ slug: "d-brown"
 meetingCount: 95
 yearsActive: "2010 - 2014"
 isCurrent: false
-totalVotes: 2048
-votesYea: 1851
-votesNay: 197
+totalVotes: 2834
+votesYea: 2648
+votesNay: 186
 votesAbsent: 0
 votesRecused: 0
 votesAbstained: 0
 votesOther: 0
 attendanceRate: 88.4
 participationRate: 100.0
-yeaRate: 90.4
-contestedDissentRate: 9.8
-contestedVotes: 2048
+yeaRate: 93.4
+contestedDissentRate: 20.8
+contestedVotes: 741
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,9 +33,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 2,048 |
-| Voted Yea | 1,851 (90.4%) |
-| Voted Nay | 197 (9.6%) |
+| Total Votes | 2,834 |
+| Voted Yea | 2,648 (93.4%) |
+| Voted Nay | 186 (6.6%) |
 | Absent | 0 (0.0%) |
 | Recused (conflict of interest) | 0 (0.0%) |
 | Abstained | 0 (0.0%) |
@@ -49,17 +49,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,045 |
-| Voted Yea | 1,848 (90.4%) |
-| Voted Nay | 197 (9.6%) |
+| Substantive Votes | 2,458 |
+| Voted Yea | 2,283 (92.9%) |
+| Voted Nay | 175 (7.1%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 9.8%
-- **Contested Votes**: 2,048
+- **Dissent Rate**: 20.8%
+- **Contested Votes**: 741
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -70,9 +70,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 638 |
-| Voted Yea | 503 (78.8%) |
-| Voted Nay | 135 (21.2%) |
+| Budget Votes | 428 |
+| Voted Yea | 370 (86.4%) |
+| Voted Nay | 58 (13.6%) |
 | Absent | 0 |
 
 
@@ -94,9 +94,9 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 1,170 | 1,115 | 55 | 100.0% |
-| Strategic Priorities and Policy Committee | 714 | 575 | 139 | 100.0% |
-| Community and Protective Services Committee | 164 | 161 | 3 | 100.0% |
+| Council | 2,346 | 2,213 | 133 | 100.0% |
+| Strategic Priorities and Policy Committee | 328 | 278 | 50 | 100.0% |
+| Community and Protective Services Committee | 160 | 157 | 3 | 100.0% |
 
 
 ## Notable Dissenting Votes
@@ -106,25 +106,61 @@ prefillQuestions:
 ### 2014-11-25: Office Reallocation
   - 2014 - 2018 Council Term
 
-[MINUTES 26TH
-  MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=48b1e6a3-ae6e-47f5-b600-bfc121838a2f&Agenda=PostMinutes&lang=English)
+[MINUTES 26TH MEETING](https://pub-london.escribemeetings.com//Meeting.aspx?Id=48b1e6a3-ae6e-47f5-b600-bfc121838a2f&Agenda=PostMinutes&lang=English)
 
-> Motion Passed
+> That, at the request of Councillor H.L.
+  Usher, NO ACTION BE TAKEN to relocate his office.
 
 Voted **Nay** - Motion Passed
 
 ### 2014-10-14: ENQUIRIES
 
-[MINUTES 24TH MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=8527c028-f9e1-4318-a6b7-f22866645fd7&Agenda=PostMinutes&lang=English)
+[MINUTES 24TH MEETING](https://pub-london.escribemeetings.com//Meeting.aspx?Id=8527c028-f9e1-4318-a6b7-f22866645fd7&Agenda=PostMinutes&lang=English)
 
-> Motion Passed
+> Approve  that the Managing Director
+  Development and Compliance Services and Chief Building Official BE DIRECTED
+  to report back at a future meeting of the Community and Protective Services
+  Commit...
 
 Voted **Nay** - Motion Passed
+
+### 2014-09-30: By-law Amendments
+  for Expanded Animal Welfare Initiatives
+
+[MINUTES 23RD MEETING](https://pub-london.escribemeetings.com//Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English)
+
+> That the following actions be taken to
+  amend various City of London by-laws in order to support enhanced animal care
+  strategies and implement the Municipal Council’s first principle of “no kill”
+ ...
+
+Voted **Yea** - Motion Failed
 
 ### 2014-09-02: Installation of
   Sidewalks on Shavian Blvd.
 
-[MINUTES 21ST MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English)
+[MINUTES 21ST MEETING](https://pub-london.escribemeetings.com//Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English)
+
+> Approve that pursuant section 13.6 of the
+  Council Procedure By-law that the proposed amendment to part a) of clause 22
+  BE RECONSIDERED to provide all Members of Council an opportunity to vote on t...
+
+Voted **Yea** - Motion Failed
+
+### 2014-07-29: Request for Support
+  for Fanshawe College London Downtown Campus - Phase ll
+
+[MINUTES 20TH MEETING](https://pub-london.escribemeetings.com//Meeting.aspx?Id=056b5df8-e902-4a5c-9b10-8354073f92ed&Agenda=PostMinutes&lang=English)
+
+> At 6:26 PM, Her Worship the Mayor resumes
+  the Chair, and Councillor P. Hubert takes his seat at the Council Board.
+
+Voted **Yea** - Motion Failed
+
+### 2014-05-06: COMMITTEE OF THE WHOLE, IN
+  CAMERA (continued)
+
+[MINUTES 12TH MEETING](https://pub-london.escribemeetings.com//Meeting.aspx?Id=6eda9580-212e-4cd2-a4fe-677696bb5ad1&Agenda=PostMinutes&lang=English)
 
 > Motion Failed
 
@@ -168,33 +204,12 @@ Voted **Yea** - Motion
 
 ### 2014-04-15: Ombudsman Investigation
 
-[MINUTES 11TH MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=0ab8d506-dcb3-4b68-b36f-70c46d08b8eb&Agenda=PostMinutes&lang=English)
+[MINUTES 11TH MEETING](https://pub-london.escribemeetings.com//Meeting.aspx?Id=0ab8d506-dcb3-4b68-b36f-70c46d08b8eb&Agenda=PostMinutes&lang=English)
 
-> Motion Passed
-
-Voted **Nay** - Motion Passed
-
-### 2014-04-15: Ombudsman Investigation
-
-[MINUTES 11TH MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=0ab8d506-dcb3-4b68-b36f-70c46d08b8eb&Agenda=PostMinutes&lang=English)
-
-> Motion Passed
-
-Voted **Nay** - Motion Passed
-
-### 2014-04-15: BY-LAWS
-
-[MINUTES 11TH MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=0ab8d506-dcb3-4b68-b36f-70c46d08b8eb&Agenda=PostMinutes&lang=English)
-
-> Motion Passed
-
-Voted **Nay** - Motion Passed
-
-### 2014-04-15: BY-LAWS
-
-[MINUTES 11TH MEETING](https://pub-london.escribemeetings.com/Meeting.aspx?Id=0ab8d506-dcb3-4b68-b36f-70c46d08b8eb&Agenda=PostMinutes&lang=English)
-
-> Motion Passed
+> Amend clause 3 in line 8 of part a),
+  by removing the words “for future use to be determined by the City of London”
+  and by replacing it with the words “for future multiple uses including Open
+  Spa...
 
 Voted **Nay** - Motion Passed
 

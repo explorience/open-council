@@ -38,3 +38,18 @@ Closing the vote, motion carries four to zero. Okay, great, thank you everyone. 
 All those in favor, any opposed? Motion carries. Okay, thanks everyone, have a good day. Thank you.
 
 </details>
+
+---
+
+## Votes
+
+*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
+
+### 2.1. 2026 Debenture Issuance Update
+
+> That, on the recommendation of the Deputy City Manager, Finance Supports, the proposed by-law, as appended to the staff report dated April 27, 2026 as Appendix "A", BE INTRODUCED at the Municipal Council meeting to be held on April 28, 2026 to execute the borrowing upon serial debentures in the a...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+

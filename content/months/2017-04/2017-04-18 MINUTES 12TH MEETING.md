@@ -1546,3 +1546,177 @@ Approve Third Reading and Enactment of
 Motion
 Passed
 
+---
+
+## Votes
+
+*14 substantive votes at this meeting (5 contested, 9 unanimous). Procedural motions excluded.*
+
+### 1#5. Councillor T. Park
+  and Councillor M. Cassidy - Emergent Motion – Change in Meeting Location- May
+  23, 2017 Planning and Environment Committee Meeting
+
+> Approve that pursuant to section 20.1 of   the Council Procedure By-law, leave BE GIVEN for the introduction of an   emergent motion to permit the May 23, 2017 Planning and Environment Committee   meeting to be held at the Wolf Performance Hall (251 Dundas Street) in order   to accommodate the hi...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher)
+
+**Nay (1):** [Jesse Helmer](/councillors/current/j-helmer)
+
+</details>
+
+### 1#5. Councillor T. Park
+  and Councillor M. Cassidy - Emergent Motion – Change in Meeting Location- May
+  23, 2017 Planning and Environment Committee Meeting
+
+> Approve that pursuant to Section 2.6 of   the Council Procedure By-law, the Civic Administration BE DIRECTED to make   the necessary arrangements for the May 23, 2017 meeting of the Planning and   Environment Committee to be held at the Wolf Performance Hall (251 Dundas   Street) in order to ensu...
+
+**✅ Motion Passed**
+
+Unanimous (10-0)
+
+### 1#5. Councillor T. Park
+  and Councillor M. Cassidy - Emergent Motion – Change in Meeting Location- May
+  23, 2017 Planning and Environment Committee Meeting
+
+> Approve that pursuant to section 20.1 of   the Council Procedure By-law, leave BE GIVEN for the introduction of an   emergent motion to permit further direction to be given to the Civic   Administration to report back on specific mitigation measures that could be   put in place to address the pot...
+
+**✅ Motion Passed**
+
+Unanimous (10-0)
+
+### 1#5. Councillor T. Park
+  and Councillor M. Cassidy - Emergent Motion – Change in Meeting Location- May
+  23, 2017 Planning and Environment Committee Meeting
+
+> Approve that the Civic Administration BE   DIRECTED to include, as part of its report back on the Rapid Transit   Implementation Project, requested by the Municipal Council at its meeting on   April 4, 2017, the following additional information:   a)         options   to mitigate potential impact...
+
+**✅ Motion Passed**
+
+Unanimous (10-0)
+
+### 10#3. Canada 150
+  Community Infrastructure Program Intake Two Contribution Agreement (Relates
+  to Bill No. 173)
+
+> That, on the recommendation of the Managing   Director, Corporate Services and City Treasurer, Chief Financial Officer and   City Manager, the following actions be taken with respect to the execution of   the Canada 150 Community Infrastructure Program Contribution Agreement Intake   Two:   a)   ...
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 11#3. Vacancy - London
+  Hydro Inc. Board of Directors
+
+> The motion to Approve part a) of clause 11   is put.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+
+**Nay (3):** [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher)
+
+</details>
+
+### 11#3. Vacancy - London
+  Hydro Inc. Board of Directors
+
+> The motion to Approve balance of clause 11   is put.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 2#3. 2016 Operating
+  Budget Year-End Monitoring Report – Property Tax, Water, Wastewater &
+  Treatment Budgets
+
+> The motion Approve parts d) and f), of   clause 2 is put.    d)         one-time   funding of $1.6 million for the Housing Development Corporation (HDC) for   additional investment in affordable housing development  BE APPROVED;   f)         the   Civic Administration and the Housing Development ...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (4):** [Josh Morgan](/councillors/current/j-morgan), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Virginia Ridley](/councillors/current/v-ridley)
+
+</details>
+
+### 2#3. 2016 Operating
+  Budget Year-End Monitoring Report – Property Tax, Water, Wastewater &
+  Treatment Budgets
+
+> The motion to Approve balance of clause 2   is put.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### V. CONFIRMATION
+  AND SIGNING OF THE MINUTES OF THE ELEVENTH MEETING HELD ON APRIL 4, 2017
+
+> Approve Minutes of the Eleventh Meeting   held on April 4, 2017.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 3. Amendments to the
+  Traffic and Parking By-law (Relates to Bill No's. 161 and 162)
+
+> The motion to Approve part a) of clause 3   is put.
+
+**❌ Motion Failed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert)
+
+**Nay (7):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 3. Amendments to the
+  Traffic and Parking By-law (Relates to Bill No's. 161 and 162)
+
+> Approve the following new part a), for   clause 3:   “a)       the   attached revised by-law BE INTRODUCED at the Municipal Council meeting   to be held on April 18, 2017 for the purpose of amending the Traffic and   Parking By-law P.S.-113; it being noted that the proposed revised by-law   inclu...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (3):** [Mo Salih](/councillors/current/m-salih), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown)
+
+</details>
+
+### 3. Amendments to the
+  Traffic and Parking By-law (Relates to Bill No's. 161 and 162)
+
+> The motion Approve the remainder of clause   3 is put.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 3. Amendments to the
+  Traffic and Parking By-law (Relates to Bill No's. 161 and 162)
+
+> Approve clause 3, as amended.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+

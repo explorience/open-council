@@ -2790,3 +2790,358 @@ Approve Third Reading and Enactment of
 Motion
 Passed
 
+---
+
+## Votes
+
+*33 substantive votes at this meeting (7 contested, 26 unanimous). Procedural motions excluded.*
+
+### 2#2. (ADDED) B. Davis,
+  Old Masonville Ratepayers' Association - Properties located at 1607, 1609,
+  1611, 1615, 1619, 1623, 1627, 1631, 1635, 1639, 1643, 1649 and 1653 Richmond
+  Street (OZ-7965) (Refer to the Planning and Environment Committee Stage for
+  Consideration with Clause 11 of the 2nd Report of the Planning and
+  Environment Committee.)
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 4#4. Downtown London -
+  2014 Budget
+
+> Approve that clause 1, be amended by replacing part 1 b) with the following   new part 1 b):               “b)        That   Councillor S.E. White disclosed a pecuniary interest in clause 2c) having to   do with OW/ODSP Advocates Network by indicating that she is employed by   CMHA/WOTCH.”
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 4#4. Downtown London -
+  2014 Budget
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (1):** [Sandy White](/councillors/current/s-white)
+
+</details>
+
+### 4#4. Downtown London -
+  2014 Budget
+
+> Approve that, as a procedural matter   pursuant to Section 239 (6) of the Municipal Act, 2001, the following   recommendation be forwarded to City Council for deliberation and a vote in   public session:   That, on the recommendation of the Managing   Director, Corporate Services and City Treasur...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 4#4. Downtown London -
+  2014 Budget
+
+> Approve that part c) of clause 12 of the 2nd Report of   the Planning and Environment Committee be reconsidered to correct a voting   error.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 4#4. Downtown London -
+  2014 Budget
+
+> Approve part c) of clause 12 of the 2nd   Report of the Planning and Environment Committee.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 5#2. London Housing
+  Registry - Update
+
+> Approve that pursuant to section 13.7   of the Council Procedure By-law, the actions of the Municipal Council taken   at its meeting of January 14, 2014, related to the adoption of clause 7 of   the 3rd Report of the Community and Protective Services Committee, concerning   Contract Award 13-48 L...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 5#3. Expenses - Ontario
+  Ombudsman's Investigation
+
+> That the following actions be taken with   respect to the City Solicitor's report dated January 21, 2014, providing   information about the costs relating to the Ontario Ombudsman’s investigation   into whether Members of Council for the City of London held an improper   closed meeting on Februar...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 5#3. Expenses - Ontario
+  Ombudsman's Investigation
+
+> The motion to Approve part b) is put.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (3):** [Paul Hubert](/councillors/current/p-hubert), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson)
+
+</details>
+
+### 6#2. Contract Award RFP
+  13-48 London CAReS
+
+> That, on the recommendation of the Managing   Director of Neighbourhood, Children and Fire Services, the following actions   be taken with respect to the award of the contract regarding Request for   Proposal (RFP) 13-48 - London CAReS:   a)        parts   a), b) and c) of clause 7 of the 3rd Rep...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 7#3. Ban on Unsafe Rail
+  Tank Cars Carrying Hazardous Materials
+
+> That the Mayor BE REQUESTED to send a   letter to Transport Canada; the United States Department of Transportation,   Federal Railroad Administration; and the Federation of Canadian Municipalities,   National Municipal Safety Rail Working Group expressing concerns with the   shipping of highly vo...
+
+**✅ Motion
+Passed**
+
+Unanimous (14-0)
+
+### 8#2. Fanshawe College
+  and Western University Representation on City of London Advisory Committees
+
+> That the following individuals from   Fanshawe College and Western University BE APPOINTED to the specified   Advisory Committees for the term ending February 28, 2015:   a)         Accessibility Advisory Committee   (Non-Voting Post-Secondary Student):               -           Sabrina Dent   (F...
+
+**✅ Motion
+Passed**
+
+Unanimous (14-0)
+
+### 9#2. Agreement with the
+  Province of Ontario to Participate in the Ontario Certified Site Program with
+  the Ministry of Economic Development, Trade and Employment for 2575 Boyd
+  Court, Innovation Park - Phase IV
+
+> Approve that clause 9 be amended to read   as follows:   “That, on the recommendation of the   Director of Intergovernmental and Community Liaison, the proposed by-law,   included as Appendix “A” to the staff report dated January 21, 2014, with   Pages 1, 18 and 20 of the original draft agreement...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 9#2. Agreement with the
+  Province of Ontario to Participate in the Ontario Certified Site Program with
+  the Ministry of Economic Development, Trade and Employment for 2575 Boyd
+  Court, Innovation Park - Phase IV
+
+> Approve clause 9 as amended.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### III. ADDED
+  REPORTS
+
+> approve that pursuant to section to   section 7.4 of the Council Procedure By-law, the order of business be changed   to permit consideration of the Part XI Enquiries, to be heard prior to Part   IV Committee of the Whole, in camera.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### III. ADDED
+  REPORTS
+
+> Approve that pursuant to section to   section 7.4 of the Council Procedure By-law, the order of business be changed   to permit consideration of the Part V Recognitions, to be heard prior to Part   IV Committee of the Whole, in camera.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### IV. COMMITTEE
+  OF THE WHOLE, IN CAMERA
+
+> approve that the Council rise and go   into Committee of the Whole, in camera, for the purpose of considering the   following:    a)              A   matter pertaining to the purpose of instructions and directions to officers   and employees of the Corporation pertaining to a proposed acquisition...
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### IX. REPORTS
+
+> Approve that pursuant to section to   section 7.4 of the Council Procedure By-law, the order of business be changed   to permit consideration of clause 9 of the 2nd Report of Planning and   Envirionment Committee at this time.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### VI. CONFIRMATION
+  AND SIGNING OF THE MINUTES OF THE THIRD MEETING HELD ON JANUARY 14, 2014
+
+> Approve the Minutes of the 3rd Meeting   held on January 14, 2014.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### XIII. BY-LAWS
+
+> Approve Introduction and First   Reading of Bill No.s 71 to 85, inclusive and Bill No.s 88 to 93, inclusive.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### XIII. BY-LAWS
+
+> Approve Introduction and First   Reading of Bill No. 86.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (2):** [Bill Armstrong](/councillors/current/b-armstrong), [Nancy Branscombe](/councillors/current/n-branscombe)
+
+</details>
+
+### XIII. BY-LAWS
+
+> Approve Second Reading of Bill No. 86.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (2):** [Bill Armstrong](/councillors/current/b-armstrong), [Nancy Branscombe](/councillors/current/n-branscombe)
+
+</details>
+
+### XIII. BY-LAWS
+
+> Approve Third Reading and Enactment of   Bill No. 86.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (2):** [Bill Armstrong](/councillors/current/b-armstrong), [Nancy Branscombe](/councillors/current/n-branscombe)
+
+</details>
+
+### XIII. BY-LAWS
+
+> Approve Introduction and First   Reading of Bill No. 87.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 9. Property located at
+  193 Clarke Road (Z-8143)
+
+> Approve that clause 9 to be referred back   to staff to report back to a future meeting of the Planning and Environment   Committee with respect to how stormwater management will be managed at the   site so as not to adversely impact neighbouring properties.
+
+**❌ Motion Failed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [Nancy Branscombe](/councillors/current/n-branscombe)
+
+**Nay (9):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Joe Fontana](/councillors/current/j-f-fontana), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+</details>
+
+### 9. Property located at
+  193 Clarke Road (Z-8143)
+
+> 
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (1):** [Bill Armstrong](/councillors/current/b-armstrong)
+
+</details>
+
+### 9. Property located at
+  193 Clarke Road (Z-8143)
+
+> Approve that pursuant to section to section 7.4 of the Council Procedure     By-law, the order of business be changed to permit consideration of clause 10     of the 2nd Report of Planning Committee at this time.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 10. Property located at
+  122 Wortley Road (Z-8183)
+
+> That, on the recommendation of the Managing   Director, Planning and City Planner, the following actions be taken with   respect to the application of Brian Baillargeon & Peter Jones, relating   to the property located at 122 Wortley Road:   a)        the   revised, proposed by-law, as appended t...
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 10. Property located at
+  122 Wortley Road (Z-8183)
+
+> Approve that pursuant to section to   section 7.4 of the Council Procedure By-law, the order of business be changed   to present the remaining clauses of the 2nd Report of the Planning and   Environment Committee at this time.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 11. Properties located
+  at 1607, 1609, 1611, 1615, 1619, 1623, 1627, 1631, 1635, 1639, 1643, 1649 and
+  1653 Richmond Street (OZ-7965)
+
+> That, on the recommendation of the Managing   Director, Planning and City Planner, the following actions be taken with   respect to the application of the City of London, relating to the properties   located on the west side of Richmond Street between Hillview Boulevard and   Shavian Boulevard in...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 15. Infill
+
+> Approve     that clause 3 part a) be amended by deleting the words “next Planning and     Environment Committee meeting” and by replacing them with the words:     “Strategic Priorities and Policy Committee meeting being held on January     30, 2014”.          Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 15. Infill
+
+> Approve     that clause 3 part a) be amended by deleting the words “next Planning and     Environment Committee meeting” and by replacing them with the words:     “Strategic Priorities and Policy Committee meeting being held on January     30, 2014”.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 15. Infill
+
+> Motion Passed
+
+**✅ Motion
+Passed**
+
+Unanimous (14-0)
+

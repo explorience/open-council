@@ -165,3 +165,18 @@ Approve Third Reading of Bill No. 265.
 Motion
 Passed
 
+---
+
+## Votes
+
+*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
+
+### V. COMMITTEE
+  OF THE WHOLE, IN CAMERA
+
+> MOTION FOR IN CAMERA SESSION
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+

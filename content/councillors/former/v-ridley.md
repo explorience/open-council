@@ -5,18 +5,18 @@ slug: "v-ridley"
 meetingCount: 212
 yearsActive: "2014 - 2018"
 isCurrent: false
-totalVotes: 3544
-votesYea: 3303
-votesNay: 136
+totalVotes: 4212
+votesYea: 3930
+votesNay: 177
 votesAbsent: 96
 votesRecused: 9
 votesAbstained: 0
 votesOther: 0
 attendanceRate: 91.7
-participationRate: 97.0
-yeaRate: 96.0
-contestedDissentRate: 4.2
-contestedVotes: 3064
+participationRate: 97.5
+yeaRate: 95.7
+contestedDissentRate: 20.1
+contestedVotes: 778
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,11 +33,11 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 3,544 |
-| Voted Yea | 3,303 (93.2%) |
-| Voted Nay | 136 (3.8%) |
-| Absent | 96 (2.7%) |
-| Recused (conflict of interest) | 9 (0.3%) |
+| Total Votes | 4,212 |
+| Voted Yea | 3,930 (93.3%) |
+| Voted Nay | 177 (4.2%) |
+| Absent | 96 (2.3%) |
+| Recused (conflict of interest) | 9 (0.2%) |
 | Abstained | 0 (0.0%) |
 
 *Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
@@ -49,17 +49,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 3,262 |
-| Voted Yea | 3,080 (95.9%) |
-| Voted Nay | 131 (4.1%) |
+| Substantive Votes | 3,148 |
+| Voted Yea | 2,948 (95.2%) |
+| Voted Nay | 149 (4.8%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 4.2%
-- **Contested Votes**: 3,064
+- **Dissent Rate**: 20.1%
+- **Contested Votes**: 778
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -70,9 +70,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 554 |
-| Voted Yea | 516 (94.3%) |
-| Voted Nay | 31 (5.7%) |
+| Budget Votes | 328 |
+| Voted Yea | 302 (94.1%) |
+| Voted Nay | 19 (5.9%) |
 | Absent | 7 |
 
 
@@ -94,10 +94,10 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 1,375 | 1,234 | 59 | 94.0% |
-| Strategic Priorities and Policy Committee | 1,057 | 993 | 57 | 99.3% |
+| Council | 2,379 | 2,179 | 118 | 96.6% |
+| Strategic Priorities and Policy Committee | 737 | 691 | 39 | 99.1% |
 | Civic Works Committee | 520 | 507 | 8 | 99.0% |
-| Community and Protective Services Committee | 390 | 369 | 10 | 97.2% |
+| Community and Protective Services Committee | 374 | 353 | 10 | 97.1% |
 | Corporate Services Committee | 202 | 200 | 2 | 100.0% |
 
 

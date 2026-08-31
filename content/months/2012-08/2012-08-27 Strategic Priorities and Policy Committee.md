@@ -185,3 +185,25 @@ Joseph
 The
   meeting adjourned at 7:23 PM.
 
+---
+
+## Votes
+
+*1 substantive vote at this meeting (1 contested, 0 unanimous). Procedural motions excluded.*
+
+### 5. London Hydro Inc.
+  Board of Directors Compensation
+
+> Recommendation:  That the following actions   be taken with respect to compensation for the Board of Directors for London   Hydro Inc.:   a)              the   communication dated August 17, 2012 from V. Sharma, Chief Executive Officer,   and the consultant’s report entitled “London Hydro Board o...
+
+**❌  🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson)
+
+**Nay (4):** [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill)
+
+</details>
+
