@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T22:20:09.333Z",
+  "generatedAt": "2026-08-31T23:36:16.529Z",
   "sourceHash": "b7db59b827637e80",
   "sourceGeneratedAt": "2026-08-31T05:18:27.112Z",
   "cutoffDate": "2023-01-01",
@@ -10737,7 +10737,7 @@
           "direction": {
             "axis": "road-capacity",
             "valence": 1,
-            "label": "Approved the Mobility Master Plan's Roads Projects maps, with an amendment to include the expansion of Bradley Avenue (Wellington Road to Highbury Avenue) in the next capital improvement cycle.",
+            "label": "Approved the Mobility Master Plan's Roads Projects maps, with an amendment to include the expansion of Bradley Avenue (Wellington Road to Highbury Avenue) in the next improvement cycle.",
             "axisLabels": {
               "expansive": "expanded general-purpose road capacity",
               "restrictive": "reduced or declined general-purpose road capacity"
