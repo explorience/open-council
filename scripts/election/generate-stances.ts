@@ -4,19 +4,33 @@
  * Deterministic generator: data/votes/_all-motions.json + registry.json →
  * data/election/issues.json + data/election/stances.json.
  *
- * Pipeline:
+ * Pipeline (rebuilt 2026-08-31):
  *  1. Filter to divided (non-unanimous, non-procedural) motions since
- *     2023-01-01 (see issue-rules.ts: GLOBAL_EXCLUDE, ISSUES).
- *  2. Classify each into one of 8 issue clusters, or leave unclassified —
- *     never force-fit (issue-rules.ts).
- *  3. Derive a neutral "what a yea did" direction + axis + valence for each
- *     classified motion (direction-rules.ts). Motions with direction
- *     'unclear' are excluded from stance aggregation but stay listed in
- *     issues.json for transparency.
+ *     2023-01-01, excluding roster conflicts, appointment ballots,
+ *     result/vote-array mismatches, and anything the classify pipeline's
+ *     own verification pass flagged 'not_divided' (see the guard functions
+ *     and not-divided.json below).
+ *  2. Classify each into one of 8 issue clusters, or leave unclassified
+ *     ('none') — never force-fit. Issue, axis, polarity and "what a yea
+ *     did" are sourced from data/election/classify/batch-*-verified.json,
+ *     a per-motion classification independently verified against each
+ *     motion's own COMPLETE text in the source meeting record (not the
+ *     500-char-truncated copy in data/votes/_all-motions.json, and not a
+ *     keyword-matching regex). Only a 'confirmed' or 'corrected' verdict
+ *     with a non-null axis/polarity is direction-bearing; everything else
+ *     (a 'downgraded' verdict, or a genuinely unclear motion — referral,
+ *     informational ask, no operative content) is listed for transparency
+ *     but excluded from stance aggregation.
+ *  3. The regex engine in issue-rules.ts/direction-rules.ts still runs over
+ *     the same corpus, purely as a disagreement report against the
+ *     verified data (data/election/classify/regex-vs-llm.json) — it is
+ *     never the source of a published claim.
  *  4. Aggregate per councillor per issue per axis: how often their vote
  *     aligned with the axis's expansive outcome vs its restrictive outcome,
  *     with recusals/absences tracked and labeled separately (never folded
- *     into a "no position" bucket, never treated as opposition).
+ *     into a "no position" bucket, never treated as opposition), and a
+ *     pattern floor gated on DISTINCT DECISIONS (committee + council
+ *     stages of one policy decision collapse to one), not raw vote rows.
  *
  * Usage: npx tsx scripts/election/generate-stances.ts
  */
@@ -30,13 +44,19 @@ import {
   ISSUES,
   type IssueId,
 } from "./issue-rules.js";
-import { deriveDirection, type Direction } from "./direction-rules.js";
+import {
+  deriveDirection,
+  axisLabelsFor,
+  type Direction,
+} from "./direction-rules.js";
 import { motionAnchor } from "./anchors.js";
 
 const CUTOFF_DATE = "2023-01-01";
 const REPO_ROOT = path.join(process.cwd());
 const MOTIONS_PATH = path.join(REPO_ROOT, "data/votes/_all-motions.json");
+const CLASSIFY_DIR = path.join(REPO_ROOT, "data/election/classify");
 const OUT_DIR = path.join(REPO_ROOT, "data/election");
+const REGEX_VS_LLM_PATH = path.join(CLASSIFY_DIR, "regex-vs-llm.json");
 
 type VoteKind = "yea" | "nay" | "recuse" | "absent" | "abstain" | "other";
 
@@ -70,6 +90,200 @@ interface AllMotionsFile {
   substantiveMotions: number;
   contestedMotions: number;
   motions: RawMotion[];
+}
+
+// ---------------------------------------------------------------------------
+// Verified classification (data/election/classify/batch-*-verified.json)
+//
+// Rebuilt 2026-08-31: issue, axis, polarity and "what a yea did" now come
+// from this human-verified, LLM-assisted classification pass (one entry per
+// motion, read against the motion's own COMPLETE text in the source meeting
+// JSON — never the 500-char-truncated data/votes/_all-motions.json copy),
+// not from the regex engine in issue-rules.ts / direction-rules.ts. Every
+// entry carries its own verdict ("confirmed" = independently re-checked and
+// correct as classified, "corrected" = independently re-checked and fixed,
+// "downgraded" = independently re-checked and found NOT to support a
+// direction claim after all, axis/polarity forced back to null) plus a
+// verifierNote explaining the call. Only "confirmed" or "corrected" entries
+// with a non-null polarity are published as direction-bearing; everything
+// else (verdict "downgraded", or a confirmed/corrected entry whose axis or
+// polarity is null because the motion genuinely has no clear direction —
+// e.g. a referral or an informational-ask) is listed for transparency but
+// excluded from stance aggregation, same treatment as any other unclear
+// motion. The regex engine is still run over the same corpus (see
+// crossCheckAgainstRegex below) purely as a disagreement report — it is
+// never the source of a published claim.
+// ---------------------------------------------------------------------------
+
+interface VerifiedEntry {
+  id: string;
+  /** IssueId, or the literal string "none" for a motion no issue applies to
+   * (this classification pass's equivalent of the old regex engine's
+   * "unclassified" — never force-fit). */
+  issue: IssueId | "none";
+  axis: string | null;
+  polarity: "expansive" | "restrictive" | null;
+  whatAYeaDid: string;
+  confidence: string;
+  quote: string;
+  flags: string[];
+  verdict: "confirmed" | "corrected" | "downgraded";
+  verifierNote: string;
+}
+
+/** Load every data/election/classify/batch-*-verified.json file into one
+ * id -> entry map. Throws on a duplicate id (a real data error — the
+ * classify pipeline is supposed to partition motions into disjoint
+ * batches) rather than silently letting the later batch win. */
+function loadVerifiedClassifications(): Map<string, VerifiedEntry> {
+  const map = new Map<string, VerifiedEntry>();
+  if (!fs.existsSync(CLASSIFY_DIR)) return map;
+  const files = fs
+    .readdirSync(CLASSIFY_DIR)
+    .filter((f) => /^batch-\d+-verified\.json$/.test(f));
+  for (const f of files) {
+    const entries: VerifiedEntry[] = JSON.parse(
+      fs.readFileSync(path.join(CLASSIFY_DIR, f), "utf-8"),
+    );
+    for (const e of entries) {
+      if (map.has(e.id)) {
+        throw new Error(
+          `duplicate verified classification id ${e.id} (in ${f}) — classify batches must be disjoint`,
+        );
+      }
+      map.set(e.id, e);
+    }
+  }
+  return map;
+}
+
+/** True when this motion's verified entry carries the "not_divided" flag —
+ * the classify pipeline's own catch for a motion that isn't a genuine
+ * division even though the source `unanimous` field says false (e.g. a 0
+ * yea / N nay result, where the record shows a scraper's boolean not
+ * catching a lopsided-but-still-technically-recorded vote as unanimous; or
+ * the exact same motion recorded twice under two different item numbers).
+ * Excluded from the divided-vote universe entirely, same treatment as a
+ * roster conflict or a result mismatch — never guessed at, always
+ * disclosed. A motion with no verified entry at all is NOT treated as
+ * not_divided by this check (see missingFromManifest handling in main). */
+function isNotDivided(
+  verified: Map<string, VerifiedEntry>,
+  motionId: string,
+): boolean {
+  return Boolean(verified.get(motionId)?.flags.includes("not_divided"));
+}
+
+/** Translate one verified classification entry into the same Direction
+ * shape the (now cross-check-only) regex engine used to produce, per the
+ * publish rule: only a "confirmed" or "corrected" verdict with a non-null
+ * axis AND polarity is direction-bearing; a "downgraded" verdict, or a
+ * confirmed/corrected entry the classify pipeline itself left with a null
+ * axis/polarity (informational-ask, referral, or a genuine no-clear-effect
+ * call), is listed-but-unclear — same treatment as any other non-decision,
+ * never guessed at. When unclear, the entry's own neutral whatAYeaDid text
+ * (independently verified, just not tied to a direction) is used as the
+ * label instead of a bare "unclear" placeholder — it's a truthful
+ * description of what happened even when it doesn't support a for/against
+ * claim. */
+function directionFromVerified(
+  entry: VerifiedEntry,
+): Direction | { axis: null; label: string } {
+  const isDirectionBearing =
+    (entry.verdict === "confirmed" || entry.verdict === "corrected") &&
+    entry.axis !== null &&
+    entry.polarity !== null;
+
+  if (isDirectionBearing) {
+    const issue = entry.issue as IssueId;
+    const axis = entry.axis as string;
+    const axisLabels = axisLabelsFor(issue, axis) ?? {
+      expansive: entry.whatAYeaDid,
+      restrictive: entry.whatAYeaDid,
+    };
+    const valence: 1 | -1 = entry.polarity === "expansive" ? 1 : -1;
+    return {
+      axis,
+      valence,
+      label: entry.whatAYeaDid,
+      axisLabels,
+    };
+  }
+
+  return { axis: null, label: entry.whatAYeaDid || "unclear" };
+}
+
+// ---------------------------------------------------------------------------
+// Regex-vs-LLM cross-check (report only — see REGEX_VS_LLM_PATH doc above).
+// The regex engine (issue-rules.ts classifyIssue + direction-rules.ts
+// deriveDirection) runs against the same TRUNCATED motionText it always has
+// — that's fine here, since this is only a disagreement report, not a
+// publish path; a disagreement caused purely by truncation is still a
+// legitimate thing to flag as "the regex engine and the verified pipeline
+// don't currently agree on this motion".
+// ---------------------------------------------------------------------------
+
+interface RegexDisagreement {
+  motionId: string;
+  date: string;
+  meetingSlug: string;
+  itemNumber: string;
+  itemTitle: string;
+  kind: "issue" | "axis" | "polarity";
+  regex: { issue: string | null; axis: string | null; valence: number | null };
+  llm: { issue: string | null; axis: string | null; polarity: string | null };
+}
+
+function crossCheckAgainstRegex(
+  motion: RawMotion,
+  entry: VerifiedEntry | undefined,
+): RegexDisagreement | null {
+  const regexResult = classifyIssue(motion.itemTitle, motion.motionText);
+  const regexDirection = regexResult
+    ? deriveDirection(regexResult.issue, motion.motionText)
+    : null;
+
+  const regexIssue = regexResult?.issue ?? null;
+  const regexAxis = regexDirection?.axis ?? null;
+  const regexValence =
+    regexDirection && regexDirection.axis !== null
+      ? regexDirection.valence
+      : null;
+
+  const llmIssue = !entry || entry.issue === "none" ? null : entry.issue;
+  const llmDirectionBearing =
+    entry &&
+    (entry.verdict === "confirmed" || entry.verdict === "corrected") &&
+    entry.axis !== null &&
+    entry.polarity !== null;
+  const llmAxis = llmDirectionBearing ? (entry!.axis as string) : null;
+  const llmPolarity = llmDirectionBearing ? entry!.polarity : null;
+
+  let kind: RegexDisagreement["kind"] | null = null;
+  if (regexIssue !== llmIssue) kind = "issue";
+  else if (regexIssue !== null && llmIssue !== null && regexAxis !== llmAxis)
+    kind = "axis";
+  else if (
+    regexAxis !== null &&
+    llmAxis !== null &&
+    regexAxis === llmAxis &&
+    regexValence !== null &&
+    llmPolarity !== null &&
+    (regexValence === 1 ? "expansive" : "restrictive") !== llmPolarity
+  )
+    kind = "polarity";
+
+  if (!kind) return null;
+  return {
+    motionId: motion.id,
+    date: motion.date,
+    meetingSlug: motion.meetingSlug,
+    itemNumber: motion.itemNumber,
+    itemTitle: motion.itemTitle,
+    kind,
+    regex: { issue: regexIssue, axis: regexAxis, valence: regexValence },
+    llm: { issue: llmIssue, axis: llmAxis, polarity: llmPolarity },
+  };
 }
 
 // ---------------------------------------------------------------------------
@@ -162,13 +376,18 @@ function isAppointmentBallot(m: RawMotion): boolean {
 
 /** True when a motion's text hit the 500-character hard truncation cap in
  * data/votes/_all-motions.json (scripts/generate-votes.ts:127) — the cap
- * cuts mid-word with no ellipsis marker, so any denial/exclusion/removal
- * clause past character 500 is silently invisible to direction-rules.ts.
- * Spot-check (2026-08-31): 51.7% of the motions the hub actually publishes
- * a direction for hit this cap. Rather than guess at what the missing tail
- * says, a truncated motion is marked direction 'unclear' and excluded from
- * stance aggregation — same treatment as any other non-decision — with the
- * count disclosed on the issues page. */
+ * cuts mid-word with no ellipsis marker. Before 2026-08-31 this forced
+ * direction 'unclear' regardless of what deriveDirection's regex found,
+ * because a denial/exclusion/removal clause past character 500 would be
+ * silently invisible to a regex reading THIS truncated copy. That's no
+ * longer the risk it was: direction now comes from
+ * data/election/classify/batch-*-verified.json, which was independently
+ * verified against each motion's own COMPLETE text in the source meeting
+ * record, not this truncated copy — so a motion hitting this cap is no
+ * longer forced unclear. This flag is kept purely as a display-layer fact
+ * (how many classified motions have a motionText excerpt on this hub that's
+ * capped, for the "why does this quote end mid-sentence" reader question),
+ * disclosed on the issues page, not as an exclusion reason. */
 function isTruncated(m: RawMotion): boolean {
   return m.motionText.length >= 500;
 }
@@ -253,7 +472,7 @@ interface ClassifiedMotion {
   motion: RawMotion;
   issue: IssueId;
   matchedKeywords: string[];
-  direction: Direction | { axis: null; label: "unclear" };
+  direction: Direction | { axis: null; label: string };
   tally: ReturnType<typeof tallyOf>;
   positions: Record<string, VoteKind>;
   anchor: string | null;
@@ -270,16 +489,50 @@ function main() {
     (m) => !m.procedural && !m.unanimous && m.date >= CUTOFF_DATE,
   );
 
+  const verified = loadVerifiedClassifications();
+
   const rosterConflicts = allSinceCutoff.filter(hasRosterConflict);
   const appointmentBallots = allSinceCutoff.filter(isAppointmentBallot);
   const resultMismatches = allSinceCutoff.filter(
     (m) =>
       !hasRosterConflict(m) && !isAppointmentBallot(m) && hasResultMismatch(m),
   );
-  const divided = allSinceCutoff.filter(
+  const passedHardGuards = allSinceCutoff.filter(
     (m) =>
       !hasRosterConflict(m) && !isAppointmentBallot(m) && !hasResultMismatch(m),
   );
+  const notDivided = passedHardGuards.filter((m) =>
+    isNotDivided(verified, m.id),
+  );
+  const divided = passedHardGuards.filter((m) => !isNotDivided(verified, m.id));
+
+  if (notDivided.length > 0) {
+    fs.mkdirSync(OUT_DIR, { recursive: true });
+    fs.writeFileSync(
+      path.join(OUT_DIR, "not-divided.json"),
+      JSON.stringify(
+        {
+          generatedAt: new Date().toISOString(),
+          note: "Motions dropped from the divided-vote universe because the classify pipeline's own verification pass flagged them 'not_divided': either the recorded tally has zero votes on one side (a lopsided-but-technically-not-flagged-unanimous result the source data's own 'unanimous' boolean missed), or the exact same motion is recorded twice under two different agenda item numbers (which would otherwise double-count one real decision). See each motion's own verifierNote in data/election/classify/batch-*-verified.json for the specific reason. Never guessed at or silently kept.",
+          count: notDivided.length,
+          motions: notDivided.map((m) => ({
+            id: m.id,
+            date: m.date,
+            meetingSlug: m.meetingSlug,
+            itemNumber: m.itemNumber,
+            itemTitle: m.itemTitle,
+            result: m.result,
+            verifierNote: verified.get(m.id)?.verifierNote ?? null,
+          })),
+        },
+        null,
+        2,
+      ),
+    );
+    console.log(
+      `Dropped ${notDivided.length} motion(s) flagged not_divided by the classify pipeline — see data/election/not-divided.json`,
+    );
+  }
 
   if (resultMismatches.length > 0) {
     fs.mkdirSync(OUT_DIR, { recursive: true });
@@ -348,11 +601,29 @@ function main() {
     itemTitle: string;
   }[] = [];
   let unclassifiedCount = 0;
-  let truncatedExcludedCount = 0;
+  let truncatedDisplayCount = 0;
+  let missingFromManifestCount = 0;
+  const regexDisagreements: RegexDisagreement[] = [];
 
   for (const motion of divided) {
-    const result = classifyIssue(motion.itemTitle, motion.motionText);
-    if (!result) {
+    if (isTruncated(motion)) truncatedDisplayCount++;
+
+    // Cross-check only, never published from — see crossCheckAgainstRegex.
+    const disagreement = crossCheckAgainstRegex(
+      motion,
+      verified.get(motion.id),
+    );
+    if (disagreement) regexDisagreements.push(disagreement);
+
+    const entry = verified.get(motion.id);
+    if (!entry) {
+      // Every motion in `divided` (guarded, since 2023-01-01) is expected to
+      // have a manifest entry — the classify pipeline was built to cover
+      // exactly this set. A miss here is a real data gap, not a normal
+      // outcome: treated the same as "no issue applies" (never force-fit
+      // from the regex fallback) but tracked separately so it's visible
+      // rather than silently folded into the ordinary unclassified count.
+      missingFromManifestCount++;
       unclassifiedCount++;
       unclassifiedSample.push({
         id: motion.id,
@@ -363,11 +634,18 @@ function main() {
       continue;
     }
 
-    const truncated = isTruncated(motion);
-    if (truncated) truncatedExcludedCount++;
-    const direction = truncated
-      ? { axis: null, label: "unclear" as const }
-      : deriveDirection(result.issue, motion.motionText);
+    if (entry.issue === "none") {
+      unclassifiedCount++;
+      unclassifiedSample.push({
+        id: motion.id,
+        date: motion.date,
+        itemNumber: motion.itemNumber,
+        itemTitle: motion.itemTitle,
+      });
+      continue;
+    }
+
+    const direction = directionFromVerified(entry);
     const anchorResult = motionAnchor(
       motion.meetingSlug,
       motion.itemNumber,
@@ -376,8 +654,8 @@ function main() {
 
     classified.push({
       motion,
-      issue: result.issue,
-      matchedKeywords: result.matchedKeywords,
+      issue: entry.issue,
+      matchedKeywords: entry.flags,
       direction,
       tally: tallyOf(motion),
       positions: positionsOf(motion, lookup),
@@ -386,14 +664,40 @@ function main() {
     });
   }
 
+  if (missingFromManifestCount > 0) {
+    console.warn(
+      `WARNING: ${missingFromManifestCount} divided motion(s) since ${CUTOFF_DATE} have no entry in data/election/classify/batch-*-verified.json — treated as unclassified, not guessed at. Regenerate the classify manifest to cover them.`,
+    );
+  }
+
+  fs.mkdirSync(path.dirname(REGEX_VS_LLM_PATH), { recursive: true });
+  fs.writeFileSync(
+    REGEX_VS_LLM_PATH,
+    JSON.stringify(
+      {
+        generatedAt: new Date().toISOString(),
+        note: "Cross-check report only — the regex engine in issue-rules.ts/direction-rules.ts is NOT the source of any published claim as of the 2026-08-31 rebuild; every published issue/axis/polarity/whatAYeaDid comes from data/election/classify/batch-*-verified.json. This file records every motion in the divided universe where the regex engine's independent read (issue classification and/or direction) disagrees with the verified classification, for ongoing regex-quality monitoring.",
+        totalCompared: divided.length,
+        disagreementCount: regexDisagreements.length,
+        disagreements: regexDisagreements,
+      },
+      null,
+      2,
+    ),
+  );
+  console.log(
+    `Regex-vs-LLM cross-check: ${regexDisagreements.length} disagreement(s) of ${divided.length} compared — see data/election/classify/regex-vs-llm.json`,
+  );
+
   writeIssuesFile(
     allMotionsRaw,
     classified,
     unclassifiedCount,
     unclassifiedSample,
-    truncatedExcludedCount,
+    truncatedDisplayCount,
     resultMismatches.length,
     rosterConflicts.length,
+    notDivided.length,
   );
   writeStancesFile(allMotionsRaw, classified, lookup, resultMismatches);
 
@@ -429,7 +733,19 @@ function main() {
 // INSIDE that aside instead of showing (or omitting) the actual motion —
 // found via spot-check (2026-08-31, hub-recheck verdict MINOR sweep).
 // Stripped before truncating so the excerpt only ever shows the motion.
-const STAGE_DIRECTION_RE = /\bAt\s+\d{1,2}:\d{2}\s*(?:AM|PM)\b[^.]*\.\s*/gi;
+//
+// Fixed 2026-08-31 (round-2 finding S3): the original `[^.]*\.` terminator
+// stopped at the FIRST period, which in this corpus is very often a single
+// initial in a name/title ("Deputy Mayor S. Lewis", "His Worship Mayor J.
+// Morgan") rather than the end of the sentence — leaving the tail of the
+// aside (", places Councillor H. McAlister in the Chair.") dangling in the
+// excerpt. The repeating group now also consumes a period immediately
+// preceded by a single capital letter at a word boundary (an initial —
+// "\b[A-Z]\.") as a non-terminal character, so the match only actually ends
+// at a period that follows a real word (lowercase letter, digit, etc.), not
+// an initial.
+const STAGE_DIRECTION_RE =
+  /\bAt\s+\d{1,2}:\d{2}\s*(?:AM|PM)\b(?:[^.]|(?<=\b[A-Z])\.)*\.\s*/gi;
 
 function motionSnippet(motionText: string): string {
   const s = motionText
@@ -481,9 +797,10 @@ function writeIssuesFile(
     itemNumber: string;
     itemTitle: string;
   }[],
-  truncatedExcludedCount: number,
+  truncatedDisplayCount: number,
   resultMismatchCount: number,
   rosterConflictCount: number,
+  notDividedCount: number,
 ) {
   const issues: Record<string, unknown> = {};
 
@@ -526,7 +843,7 @@ function writeIssuesFile(
             matchedKeywords: c.matchedKeywords,
             direction:
               c.direction.axis === null
-                ? { axis: null, label: "unclear" }
+                ? { axis: null, label: c.direction.label }
                 : {
                     axis: c.direction.axis,
                     valence: c.direction.valence,
@@ -545,14 +862,15 @@ function writeIssuesFile(
     sourceGeneratedAt: allMotionsRaw.generatedAt,
     cutoffDate: CUTOFF_DATE,
     methodology:
-      "Divided = non-unanimous, non-procedural motion, 2023-01-01 onward, excluding secret-ballot appointment rounds (result 'Majority Winner: ...'), motions with a roster data conflict (the same person recorded in two vote-kind buckets — see roster-conflicts.json), and motions whose own minuted result string disagrees with its parsed yeas/nays arrays (see result-mismatches.json). Classified via scripts/election/issue-rules.ts, which requires a keyword match in the motion's own body text (or a structural code pattern), not the agenda item's title alone. Direction ('what a yea did') derived via scripts/election/direction-rules.ts; motions with direction 'unclear' — including any motion whose text hit the 500-character truncation cap in the source data, since a cut-off clause can flip the read — are listed here but excluded from stance aggregation in stances.json.",
-    truncatedExcludedCount,
+      "Divided = non-unanimous, non-procedural motion, 2023-01-01 onward, excluding secret-ballot appointment rounds (result 'Majority Winner: ...'), motions with a roster data conflict (the same person recorded in two vote-kind buckets — see roster-conflicts.json), motions whose own minuted result string disagrees with its parsed yeas/nays arrays (see result-mismatches.json), and motions the classify pipeline's own verification pass flagged 'not_divided' — a lopsided result the source data's 'unanimous' field didn't catch, or the same motion recorded twice under two item numbers (see not-divided.json). Rebuilt 2026-08-31: issue, axis, polarity and 'what a yea did' are sourced from data/election/classify/batch-*-verified.json, a per-motion classification independently verified against each motion's own COMPLETE text in the source meeting record (never the 500-character-truncated copy in data/votes/_all-motions.json) — not from a keyword-matching regex. Only entries with verdict 'confirmed' or 'corrected' and a non-null axis/polarity are direction-bearing; a 'downgraded' verdict or a confirmed/corrected entry with no clear direction (a referral, an informational report-back ask, or a genuinely ambiguous clause) is listed here but excluded from stance aggregation in stances.json, same as any other non-decision. The regex engine in scripts/election/issue-rules.ts and direction-rules.ts still runs over the same corpus as a disagreement report only (data/election/classify/regex-vs-llm.json) — it is not the source of any claim published here. Window note: this classify pass also covers 24 divided motions from Nov-Dec 2022 (before the 2023-01-01 cutoff below); they're verified and present in the classify data but not used on any published page, pending a decision on whether to extend the cutoff back to cover them.",
+    truncatedDisplayCount,
     resultMismatchCount,
     rosterConflictCount,
+    notDividedCount,
     issues,
     unclassified: {
       count: unclassifiedCount,
-      note: "Divided motions since 2023 that matched no issue's keyword rules (or matched a GLOBAL_EXCLUDE governance/procedure phrase). All are listed here, never force-fit into a cluster.",
+      note: "Divided motions since 2023 the verified classification pass assigned issue 'none' (no tracked issue applies), plus any motion missing a classify entry entirely (tracked separately — see the console warning at generation time; none are guessed at or force-fit into a cluster). All are listed here.",
       sample: unclassifiedSample,
     },
   };
@@ -656,6 +974,67 @@ function buildPattern(
   );
 }
 
+/** Normalize an agenda item title for decision-level matching: strip a
+ * leading "(4.1) " style item-number echo (Council agenda titles frequently
+ * restate the committee's own sub-item number this way when the same
+ * decision moves from committee to Council), collapse whitespace, and
+ * lowercase. Two rows with the same normalized title are candidates for
+ * being the SAME underlying decision recorded at two meeting stages. */
+function normalizeItemTitle(title: string): string {
+  return title
+    .replace(/^\(\s*[\d.]+\s*\)\s*/, "")
+    .replace(/\s+/g, " ")
+    .trim()
+    .toLowerCase();
+}
+
+/** Round-2 finding B3: distinctItemCount used to be keyed on
+ * `${meetingSlug}#${itemNumber}` — a genuinely different (slug, item
+ * number) pair for the SAME policy decision voted at both a committee stage
+ * and its later Council stage (e.g. "Mobility Master Plan Mobility Networks
+ * Maps" at PEC on 2025-03-25, then again at Council on 2025-04-01, 7 days
+ * later, same title) counted as two decisions and let a committee+council
+ * pair manufacture an apparent track record out of one real decision.
+ *
+ * This collapses rows into DECISIONS: two rows whose item titles normalize
+ * to the same string (see normalizeItemTitle) and whose dates are within 60
+ * days of each other are treated as stages of one decision. Uses
+ * union-find so a chain of 3+ same-title rows within the window all
+ * collapse together, not just adjacent pairs. Small inputs (a handful of
+ * rows per councillor per axis) — O(n^2) comparison is plenty fast. */
+function countDistinctDecisions(
+  rows: { itemTitle: string; date: string }[],
+): number {
+  const n = rows.length;
+  if (n === 0) return 0;
+  const parent = Array.from({ length: n }, (_, i) => i);
+  function find(x: number): number {
+    while (parent[x] !== x) {
+      parent[x] = parent[parent[x]];
+      x = parent[x];
+    }
+    return x;
+  }
+  function union(a: number, b: number) {
+    const ra = find(a);
+    const rb = find(b);
+    if (ra !== rb) parent[ra] = rb;
+  }
+  const WINDOW_MS = 60 * 24 * 60 * 60 * 1000;
+  const normalized = rows.map((r) => normalizeItemTitle(r.itemTitle));
+  const dates = rows.map((r) => Date.parse(r.date));
+  for (let i = 0; i < n; i++) {
+    for (let j = i + 1; j < n; j++) {
+      if (normalized[i] !== normalized[j]) continue;
+      if (Math.abs(dates[i] - dates[j]) > WINDOW_MS) continue;
+      union(i, j);
+    }
+  }
+  const roots = new Set<number>();
+  for (let i = 0; i < n; i++) roots.add(find(i));
+  return roots.size;
+}
+
 function writeStancesFile(
   allMotionsRaw: AllMotionsFile,
   classified: ClassifiedMotion[],
@@ -754,12 +1133,17 @@ function writeStancesFile(
           // axis (found via spot-check on the Mayor's downtown axis: 4 real
           // votes + 2 absences let distinctItemCount hit 6, keeping a
           // "n=4" pattern sentence alive that the floor was supposed to
-          // suppress).
-          const distinctItemCount = new Set(
-            sortedEvidence
-              .filter((e) => e.theirVote === "yea" || e.theirVote === "nay")
-              .map((e) => `${e.meetingSlug}#${e.itemNumber}`),
-          ).size;
+          // suppress). Further collapsed to DECISION level (round-2 finding
+          // B3, 2026-08-31): see countDistinctDecisions — a committee-stage
+          // and council-stage vote on the same policy decision (same
+          // normalized item title, within 60 days) now count as ONE
+          // decision, not two, so the floor can no longer be cleared by a
+          // single decision that happened to generate two recorded stages.
+          const distinctItemCount = countDistinctDecisions(
+            sortedEvidence.filter(
+              (e) => e.theirVote === "yea" || e.theirVote === "nay",
+            ),
+          );
           return {
             axis: agg.axis,
             axisLabels: agg.axisLabels,
@@ -843,7 +1227,7 @@ function writeStancesFile(
     sourceGeneratedAt: allMotionsRaw.generatedAt,
     cutoffDate: CUTOFF_DATE,
     methodology:
-      "Per councillor per issue per axis: 'for' = their vote aligned with the axis's expansive/permissive outcome, 'against' = aligned with its restrictive outcome. For an axis with its own content pattern (e.g. density, budget-levy size, business-case inclusion), this is a genuine translation of the clause's own text, not raw yea/nay. For the generic fallback axis ('approved/denied the item', used when no content pattern matches), honestly disclosed: the corpus was swept (2026-08-31) for every denial phrasing used in a non-truncated, tracked-issue motion, and none exists as of this pass — every candidate either hit the source data's 500-character truncation cap or fell outside the eight tracked issues — so on that axis specifically, 'for'/'against' reduces to the motion's own yea/nay outcome, because the clause's own text offers no separate signal to translate. Recusals and absences are counted separately, never folded into 'against' and never inferred as a position. A councillor with no entry for a motion was not on that meeting's roster — for a committee meeting this means not a member of that committee; for a Council meeting (where all 15 members sit) it means the source data has a gap for that person on that motion, not that they weren't a member (see notOnRosterCommittee vs. notOnRosterCouncilGap on each issue). Motions whose own minuted result disagrees with its parsed vote arrays are excluded entirely before any of this — see result-mismatches.json and each councillor's resultMismatchesExcluding count.",
+      "Per councillor per issue per axis: 'for' = their vote aligned with the axis's expansive/permissive outcome, 'against' = aligned with its restrictive outcome. Rebuilt 2026-08-31: axis and polarity for every motion come from data/election/classify/batch-*-verified.json, a per-motion classification independently verified against each motion's own complete text in the source meeting record — this is a genuine translation of what the clause did, not raw yea/nay, on every axis including the generic 'approved/denied the item' fallback used when no issue-specific content axis applies. Recusals and absences are counted separately, never folded into 'against' and never inferred as a position. Below 5 DISTINCT DECISIONS on an axis (committee and council votes on the same policy decision, identified by matching agenda-item title within 60 days, count as one decision — not one per meeting stage), no pattern sentence is asserted; the individual votes are still shown. A councillor with no entry for a motion was not on that meeting's roster — for a committee meeting this means not a member of that committee; for a Council meeting (where all 15 members sit) it means the source data has a gap for that person on that motion, not that they weren't a member (see notOnRosterCommittee vs. notOnRosterCouncilGap on each issue). Motions whose own minuted result disagrees with its parsed vote arrays, or that the classify pipeline flagged not a genuine division, are excluded entirely before any of this — see result-mismatches.json, not-divided.json, and each councillor's resultMismatchesExcluding count.",
     councillors: councillorsOut,
   };
 
