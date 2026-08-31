@@ -622,5 +622,341 @@
     "now": null,
     "reason": "Same defect as the axis correction on this id: with no derivable fiscal direction, no polarity is asserted.",
     "quote": "the Civic Administration BE DIRECTED to develop a micromobility services business case, including bike share services, for inclusion in the 2024-2027 Multi-Year Budget process;"
+  },
+  {
+    "id": "ccd852275515",
+    "field": "whatAYeaDid",
+    "was": "Declined to include costing an expanded Tier 2 Surge Response (50 additional warming spaces at -5C) among the scenarios Civic Administration must investigate and report back on.",
+    "now": "Would have included costing an expanded Tier 2 Surge Response (50 additional warming spaces at -5C) among the scenarios Civic Administration must investigate and report back on.",
+    "reason": "Round-9 gate item 1: this label began with a verb describing the VOTE'S OUTCOME (the motion failing) rather than what a yea on it supported -- per the rule whatAYeaDid always describes what a yea supported/would have done, never the outcome, a yea here renders as opposing the exact thing that councillor voted for. Reworded to the \"Would have ...\" construction used by every other Failed-motion label in this corpus, describing the motion's own operative clause rather than its result.",
+    "quote": "Declined to include costing an expanded Tier 2 Surge Response (50 additional warming spaces at -5C) among the scenarios Civic Administration must investigate and report back on."
+  },
+  {
+    "id": "1a8f5640663c",
+    "field": "whatAYeaDid",
+    "was": "Rejected approving the Homeless Prevention Service Standards regarding Good Neighbour and Community Relations.",
+    "now": "Would have approved the Homeless Prevention Service Standards regarding Good Neighbour and Community Relations.",
+    "reason": "Round-9 gate item 1: this label began with a verb describing the VOTE'S OUTCOME (the motion failing) rather than what a yea on it supported -- per the rule whatAYeaDid always describes what a yea supported/would have done, never the outcome, a yea here renders as opposing the exact thing that councillor voted for. Reworded to the \"Would have ...\" construction used by every other Failed-motion label in this corpus, describing the motion's own operative clause rather than its result.",
+    "quote": "Rejected approving the Homeless Prevention Service Standards regarding Good Neighbour and Community Relations."
+  },
+  {
+    "id": "0af18c13bd47",
+    "field": "whatAYeaDid",
+    "was": "Rejected amending the Housing Stability Services procurement framework to add a one-year (plus option) contract renewal and a directed review of existing housing-stability contracts with a report back to Council.",
+    "now": "Would have amended the Housing Stability Services procurement framework to add a one-year (plus option) contract renewal and a directed review of existing housing-stability contracts with a report back to Council.",
+    "reason": "Round-9 gate item 1: this label began with a verb describing the VOTE'S OUTCOME (the motion failing) rather than what a yea on it supported -- per the rule whatAYeaDid always describes what a yea supported/would have done, never the outcome, a yea here renders as opposing the exact thing that councillor voted for. Reworded to the \"Would have ...\" construction used by every other Failed-motion label in this corpus, describing the motion's own operative clause rather than its result.",
+    "quote": "Rejected amending the Housing Stability Services procurement framework to add a one-year (plus option) contract renewal and a directed review of existing housing-stability contracts with a report back to Council."
+  },
+  {
+    "id": "0d6178fd82e4",
+    "field": "whatAYeaDid",
+    "was": "Rejected directing Civic Administration to consult with first responders (paramedics, police, fire) on emergency services at the Micro-Modular Shelter Site and report back.",
+    "now": "Would have directed Civic Administration to consult with first responders (paramedics, police, fire) on emergency services at the Micro-Modular Shelter Site and report back.",
+    "reason": "Round-9 gate item 1: this label began with a verb describing the VOTE'S OUTCOME (the motion failing) rather than what a yea on it supported -- per the rule whatAYeaDid always describes what a yea supported/would have done, never the outcome, a yea here renders as opposing the exact thing that councillor voted for. Reworded to the \"Would have ...\" construction used by every other Failed-motion label in this corpus, describing the motion's own operative clause rather than its result.",
+    "quote": "Rejected directing Civic Administration to consult with first responders (paramedics, police, fire) on emergency services at the Micro-Modular Shelter Site and report back."
+  },
+  {
+    "id": "ed4f4a5e9b2e",
+    "field": "whatAYeaDid",
+    "was": "Rejected directing Civic Administration to consult with service providers on their roles, responsibilities, and costs at the Micro-Modular Shelter Site and report back.",
+    "now": "Would have directed Civic Administration to consult with service providers on their roles, responsibilities, and costs at the Micro-Modular Shelter Site and report back.",
+    "reason": "Round-9 gate item 1: this label began with a verb describing the VOTE'S OUTCOME (the motion failing) rather than what a yea on it supported -- per the rule whatAYeaDid always describes what a yea supported/would have done, never the outcome, a yea here renders as opposing the exact thing that councillor voted for. Reworded to the \"Would have ...\" construction used by every other Failed-motion label in this corpus, describing the motion's own operative clause rather than its result.",
+    "quote": "Rejected directing Civic Administration to consult with service providers on their roles, responsibilities, and costs at the Micro-Modular Shelter Site and report back."
+  },
+  {
+    "id": "e92845765097",
+    "field": "whatAYeaDid",
+    "was": "Rejected directing Civic Administration to consult with the London Transit Commission and report back on improving transit service (rerouting, snow/ice clearing, lighting) to the Micro-Modular Shelter Site.",
+    "now": "Would have directed Civic Administration to consult with the London Transit Commission and report back on improving transit service (rerouting, snow/ice clearing, lighting) to the Micro-Modular Shelter Site.",
+    "reason": "Round-9 gate item 1: this label began with a verb describing the VOTE'S OUTCOME (the motion failing) rather than what a yea on it supported -- per the rule whatAYeaDid always describes what a yea supported/would have done, never the outcome, a yea here renders as opposing the exact thing that councillor voted for. Reworded to the \"Would have ...\" construction used by every other Failed-motion label in this corpus, describing the motion's own operative clause rather than its result.",
+    "quote": "Rejected directing Civic Administration to consult with the London Transit Commission and report back on improving transit service (rerouting, snow/ice clearing, lighting) to the Micro-Modular Shelter Site."
+  },
+  {
+    "id": "ce30b4eefd9e",
+    "field": "whatAYeaDid",
+    "was": "Declined to accept the Development Charges Tribunal's recommendation to dismiss the appeal regarding development charges applied to the London Cross-Cultural Learner Centre's Doorway to Dreams project.",
+    "now": "Would have accepted the Development Charges Tribunal's recommendation to dismiss the appeal regarding development charges applied to the London Cross-Cultural Learner Centre's Doorway to Dreams project, on the Tribunal's finding that the charges were correctly determined.",
+    "reason": "Round-9 gate item 1: this label began with a verb describing the VOTE'S OUTCOME (the motion failing) rather than what a yea on it supported -- per the rule whatAYeaDid always describes what a yea supported/would have done, never the outcome, a yea here renders as opposing the exact thing that councillor voted for. Reworded to the \"Would have ...\" construction used by every other Failed-motion label in this corpus, describing the motion's own operative clause rather than its result.",
+    "quote": "Declined to accept the Development Charges Tribunal's recommendation to dismiss the appeal regarding development charges applied to the London Cross-Cultural Learner Centre's Doorway to Dreams project."
+  },
+  {
+    "id": "700cfca48a00",
+    "field": "whatAYeaDid",
+    "was": "Rejected reverting the Affordable Home Ownership Incentive Program's loan term from ten years back down to five years, leaving the ten-year term in place.",
+    "now": "Would have reverted the Affordable Home Ownership Incentive Program's loan term from ten years back down to five years.",
+    "reason": "Round-9 gate item 1: this label began with a verb describing the VOTE'S OUTCOME (the motion failing) rather than what a yea on it supported -- per the rule whatAYeaDid always describes what a yea supported/would have done, never the outcome, a yea here renders as opposing the exact thing that councillor voted for. Reworded to the \"Would have ...\" construction used by every other Failed-motion label in this corpus, describing the motion's own operative clause rather than its result.",
+    "quote": "Rejected reverting the Affordable Home Ownership Incentive Program's loan term from ten years back down to five years, leaving the ten-year term in place."
+  },
+  {
+    "id": "512f5fb9506a",
+    "field": "whatAYeaDid",
+    "was": "Declined to refer the Affordable Home Ownership Incentive Program back to Civic Administration for a report on program options (expanding to existing housing stock, tightening eligibility, funding sources, budget detail, other jurisdictions), leaving the original by-law on the table instead.",
+    "now": "Would have referred the Affordable Home Ownership Incentive Program back to Civic Administration for a report on program options (expanding to existing housing stock, tightening eligibility, funding sources, budget detail, other jurisdictions).",
+    "reason": "Round-9 gate item 1: this label began with a verb describing the VOTE'S OUTCOME (the motion failing) rather than what a yea on it supported -- per the rule whatAYeaDid always describes what a yea supported/would have done, never the outcome, a yea here renders as opposing the exact thing that councillor voted for. Reworded to the \"Would have ...\" construction used by every other Failed-motion label in this corpus, describing the motion's own operative clause rather than its result.",
+    "quote": "Declined to refer the Affordable Home Ownership Incentive Program back to Civic Administration for a report on program options (expanding to existing housing stock, tightening eligibility, funding sources, budget detail, other jurisdictions), leaving the original by-law on the table instead."
+  },
+  {
+    "id": "bffba588345c",
+    "field": "whatAYeaDid",
+    "was": "Rejected directing Civic Administration to report back with recommendations on municipal options to limit 'bad-faith' tenancy evictions tied to demolitions and conversions of residential premises.",
+    "now": "Would have directed Civic Administration to report back with recommendations on municipal options to limit 'bad-faith' tenancy evictions tied to demolitions and conversions of residential premises.",
+    "reason": "Round-9 gate item 1: this label began with a verb describing the VOTE'S OUTCOME (the motion failing) rather than what a yea on it supported -- per the rule whatAYeaDid always describes what a yea supported/would have done, never the outcome, a yea here renders as opposing the exact thing that councillor voted for. Reworded to the \"Would have ...\" construction used by every other Failed-motion label in this corpus, describing the motion's own operative clause rather than its result.",
+    "quote": "Rejected directing Civic Administration to report back with recommendations on municipal options to limit 'bad-faith' tenancy evictions tied to demolitions and conversions of residential premises."
+  },
+  {
+    "id": "b076ce02bb71",
+    "field": "whatAYeaDid",
+    "was": "Moved to direct Civic Administration to report back to a future Infrastructure and Corporate Services Committee meeting with a proposed implementation plan for a 'Point of Purchase' weeping-tile (stormwater) disconnection program; this motion failed.",
+    "now": "Would have directed Civic Administration to report back to a future Infrastructure and Corporate Services Committee meeting with a proposed implementation plan for a 'Point of Purchase' weeping-tile (stormwater) disconnection program.",
+    "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+    "quote": "Moved to direct Civic Administration to report back to a future Infrastructure and Corporate Services Committee meeting with a proposed implementation plan for a 'Point of Purchase' weeping-tile (stormwater) disconnection program; this motion failed."
+  },
+  {
+    "id": "d0b0c8c79902",
+    "field": "whatAYeaDid",
+    "was": "Moved to amend the short-term-accommodation by-law to cap occupancy at a Dwelling Unit offering short-term accommodation at no more than two individuals per bedroom (excluding children under 2), with single-room occupant limits set by inspection; this amendment failed.",
+    "now": "Would have amended the short-term-accommodation by-law to cap occupancy at a Dwelling Unit offering short-term accommodation at no more than two individuals per bedroom (excluding children under 2), with single-room occupant limits set by inspection.",
+    "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+    "quote": "Moved to amend the short-term-accommodation by-law to cap occupancy at a Dwelling Unit offering short-term accommodation at no more than two individuals per bedroom (excluding children under 2), with single-room occupant limits set by inspection; this amendment failed."
+  },
+  {
+    "id": "e2146aa78193",
+    "field": "whatAYeaDid",
+    "was": "Voted to refer the 1103 & 1111 Westdel Bourne rezoning application (OZ-25072) to a future Planning and Environment Committee meeting so the applicant could consider consolidating additional lands, rather than deciding the application at this meeting.",
+    "now": "Would have referred the 1103 & 1111 Westdel Bourne rezoning application (OZ-25072) to a future Planning and Environment Committee meeting so the applicant could consider consolidating additional lands, rather than deciding the application at this meeting.",
+    "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+    "quote": "Voted to refer the 1103 & 1111 Westdel Bourne rezoning application (OZ-25072) to a future Planning and Environment Committee meeting so the applicant could consider consolidating additional lands, rather than deciding the application at this meeting."
+  },
+  {
+    "id": "bcf2885344bc",
+    "field": "whatAYeaDid",
+    "was": "A yea referred part c) -- a directed staff review of the five-bedroom limit on additional residential units -- to a future Planning and Environment Committee meeting rather than deciding it that day.",
+    "now": "A yea would have referred part c) -- a directed staff review of the five-bedroom limit on additional residential units -- to a future Planning and Environment Committee meeting rather than deciding it that day.",
+    "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+    "quote": "A yea referred part c) -- a directed staff review of the five-bedroom limit on additional residential units -- to a future Planning and Environment Committee meeting rather than deciding it that day."
+  },
+  {
+    "id": "7bb597179dbc",
+    "field": "whatAYeaDid",
+    "was": "Shortened the Housing Stability Services procurement framework's initial term from the proposed multi-year length to a one-year contract with an option to renew for one additional year.",
+    "now": "Would have shortened the Housing Stability Services procurement framework's initial term from the proposed multi-year length to a one-year contract with an option to renew for one additional year.",
+    "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+    "quote": "Shortened the Housing Stability Services procurement framework's initial term from the proposed multi-year length to a one-year contract with an option to renew for one additional year."
+  },
+  {
+    "id": "2d077b0b72af",
+    "field": "whatAYeaDid",
+    "was": "Made a wording-only edit to the Micro-Modular Shelter Site motion, changing 'regarding' to 'with the' in the briefing-note clause; it did not change the site, funding, or timeline decisions.",
+    "now": "Would have made a wording-only edit to the Micro-Modular Shelter Site motion, changing 'regarding' to 'with the' in the briefing-note clause; it did not change the site, funding, or timeline decisions.",
+    "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+    "quote": "Made a wording-only edit to the Micro-Modular Shelter Site motion, changing 'regarding' to 'with the' in the briefing-note clause; it did not change the site, funding, or timeline decisions."
+  },
+  {
+    "id": "e070b52f1e95",
+    "field": "whatAYeaDid",
+    "was": "Directed Civic Administration to report back to a future Community and Protective Services Committee meeting with the homelessness-response metrics previously requested at an October 2024 Strategic Priorities and Policy Committee meeting.",
+    "now": "Would have directed Civic Administration to report back to a future Community and Protective Services Committee meeting with the homelessness-response metrics previously requested at an October 2024 Strategic Priorities and Policy Committee meeting.",
+    "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+    "quote": "Directed Civic Administration to report back to a future Community and Protective Services Committee meeting with the homelessness-response metrics previously requested at an October 2024 Strategic Priorities and Policy Committee meeting."
+  },
+  {
+    "id": "1e6dd1535ed7",
+    "field": "whatAYeaDid",
+    "was": "Directed Civic Administration to propose recommendations to amend existing housing-placement contracts to address barriers identified in part a), including potential head-lease requirements and strengthened landlord-responsibility language.",
+    "now": "Would have directed Civic Administration to propose recommendations to amend existing housing-placement contracts to address barriers identified in part a), including potential head-lease requirements and strengthened landlord-responsibility language.",
+    "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+    "quote": "Directed Civic Administration to propose recommendations to amend existing housing-placement contracts to address barriers identified in part a), including potential head-lease requirements and strengthened landlord-responsibility language."
+  },
+  {
+    "id": "4d07f4f1ca77",
+    "field": "whatAYeaDid",
+    "was": "Proposed re-amending part b) back to text identical to the already-pending wording (no BIA siting restriction), after the amendment adding that restriction had already failed \u2014 a restatement with no clear net effect on the pending text.",
+    "now": "Would have proposed re-amending part b) back to text identical to the already-pending wording (no BIA siting restriction), after the amendment adding that restriction had already failed \u2014 a restatement with no clear net effect on the pending text.",
+    "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+    "quote": "Proposed re-amending part b) back to text identical to the already-pending wording (no BIA siting restriction), after the amendment adding that restriction had already failed \u2014 a restatement with no clear net effect on the pending text."
+  },
+  {
+    "id": "88ae9c2045ab",
+    "field": "whatAYeaDid",
+    "was": "Referred the Housing Stability Services purchase-of-service agreements back to Civic Administration to meet with providers, review proposed budgets for two-year (rather than one-year) renewal savings, and report back to a future meeting.",
+    "now": "Would have referred the Housing Stability Services purchase-of-service agreements back to Civic Administration to meet with providers, review proposed budgets for two-year (rather than one-year) renewal savings, and report back to a future meeting.",
+    "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+    "quote": "Referred the Housing Stability Services purchase-of-service agreements back to Civic Administration to meet with providers, review proposed budgets for two-year (rather than one-year) renewal savings, and report back to a future meeting."
+  },
+  {
+    "id": "f42a5b460702",
+    "field": "whatAYeaDid",
+    "was": "Referred the Hamilton Road BIA and Old East Village BIA funding request to the August 11, 2025 Community and Protective Services Committee meeting, to allow time to receive a list of earmarked COVID-19 relief funding items from those BIAs, and requested a matching expenditure list from the Downtown London BIA.",
+    "now": "Would have referred the Hamilton Road BIA and Old East Village BIA funding request to the August 11, 2025 Community and Protective Services Committee meeting, to allow time to receive a list of earmarked COVID-19 relief funding items from those BIAs, and requested a matching expenditure list from the Downtown London BIA.",
+    "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+    "quote": "Referred the Hamilton Road BIA and Old East Village BIA funding request to the August 11, 2025 Community and Protective Services Committee meeting, to allow time to receive a list of earmarked COVID-19 relief funding items from those BIAs, and requested a matching expenditure list from the Downtown London BIA."
+  },
+  {
+    "id": "9d2d16516460",
+    "field": "whatAYeaDid",
+    "was": "Directed Civic Administration to report back with more detailed information on further improvements at the Western Road/Sarnia Road/Philip Aziz Avenue intersection, including the feasibility of a pedestrian scramble.",
+    "now": "Would have directed Civic Administration to report back with more detailed information on further improvements at the Western Road/Sarnia Road/Philip Aziz Avenue intersection, including the feasibility of a pedestrian scramble.",
+    "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+    "quote": "Directed Civic Administration to report back with more detailed information on further improvements at the Western Road/Sarnia Road/Philip Aziz Avenue intersection, including the feasibility of a pedestrian scramble."
+  },
+  {
+    "id": "0fd0f9c17a4c",
+    "field": "whatAYeaDid",
+    "was": "Referred the motion regarding the London Transit Commission's dissolution and restructuring to the next Strategic Priorities and Policy Committee meeting.",
+    "now": "Would have referred the motion regarding the London Transit Commission's dissolution and restructuring to the next Strategic Priorities and Policy Committee meeting.",
+    "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+    "quote": "Referred the motion regarding the London Transit Commission's dissolution and restructuring to the next Strategic Priorities and Policy Committee meeting."
+  },
+  {
+    "id": "01d52536f471",
+    "field": "whatAYeaDid",
+    "was": "Directed Civic Administration to include a budget business case to increase the School Crossing Guard Program by $200,000 a year and identify a funding source.",
+    "now": "Would have directed Civic Administration to include a budget business case to increase the School Crossing Guard Program by $200,000 a year and identify a funding source.",
+    "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+    "quote": "Directed Civic Administration to include a budget business case to increase the School Crossing Guard Program by $200,000 a year and identify a funding source."
+  },
+  {
+    "id": "43c61ca512b8",
+    "field": "whatAYeaDid",
+    "was": "Requested the London & Middlesex Housing Corporation to prepare a business case on pros, cons, costs and funding sources for additional investment in its properties.",
+    "now": "Would have requested the London & Middlesex Housing Corporation to prepare a business case on pros, cons, costs and funding sources for additional investment in its properties.",
+    "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+    "quote": "Requested the London & Middlesex Housing Corporation to prepare a business case on pros, cons, costs and funding sources for additional investment in its properties."
+  },
+  {
+    "id": "b294bcd84902",
+    "field": "whatAYeaDid",
+    "was": "Directed staff to prepare a business case setting out options for reducing the Advisory Committee budget, for Council's future consideration.",
+    "now": "Would have directed staff to prepare a business case setting out options for reducing the Advisory Committee budget, for Council's future consideration.",
+    "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+    "quote": "Directed staff to prepare a business case setting out options for reducing the Advisory Committee budget, for Council's future consideration."
+  },
+  {
+    "id": "9eb3b4658424",
+    "field": "whatAYeaDid",
+    "was": "Directed staff to prepare a business case setting out options, cost savings and staffing impacts for reducing the Heritage Department's budget, for Council's future consideration.",
+    "now": "Would have directed staff to prepare a business case setting out options, cost savings and staffing impacts for reducing the Heritage Department's budget, for Council's future consideration.",
+    "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+    "quote": "Directed staff to prepare a business case setting out options, cost savings and staffing impacts for reducing the Heritage Department's budget, for Council's future consideration."
+  },
+  {
+    "id": "c0ce6cf62032",
+    "field": "whatAYeaDid",
+    "was": "Approved directing Civic Administration to study wildlife-vehicle-collision mitigation infrastructure costs, develop a natural-heritage connectivity plan for west-end lands entering the Urban Growth Boundary, and map the City's agricultural land holdings.",
+    "now": "Would have approved directing Civic Administration to study wildlife-vehicle-collision mitigation infrastructure costs, develop a natural-heritage connectivity plan for west-end lands entering the Urban Growth Boundary, and map the City's agricultural land holdings.",
+    "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+    "quote": "Approved directing Civic Administration to study wildlife-vehicle-collision mitigation infrastructure costs, develop a natural-heritage connectivity plan for west-end lands entering the Urban Growth Boundary, and map the City's agricultural land holdings."
+  },
+  {
+    "id": "ac621e53bd84",
+    "field": "whatAYeaDid",
+    "was": "Referred the requested wildlife-vehicle-collision cost study and natural-heritage connectivity-plan requests (part f i-iii of the Environmental Stewardship report) to a future Planning and Environment Committee meeting for consideration.",
+    "now": "Would have referred the requested wildlife-vehicle-collision cost study and natural-heritage connectivity-plan requests (part f i-iii of the Environmental Stewardship report) to a future Planning and Environment Committee meeting for consideration.",
+    "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+    "quote": "Referred the requested wildlife-vehicle-collision cost study and natural-heritage connectivity-plan requests (part f i-iii of the Environmental Stewardship report) to a future Planning and Environment Committee meeting for consideration."
+  },
+  {
+    "id": "a076bd968c19",
+    "field": "whatAYeaDid",
+    "was": "Referred the proposed Medway Valley Conservation Master Plan changes back to Civic Administration to report back with potential design alternatives for the trail, resident concerns about its location and design, and AODA-compliance considerations.",
+    "now": "Would have referred the proposed Medway Valley Conservation Master Plan changes back to Civic Administration to report back with potential design alternatives for the trail, resident concerns about its location and design, and AODA-compliance considerations.",
+    "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+    "quote": "Referred the proposed Medway Valley Conservation Master Plan changes back to Civic Administration to report back with potential design alternatives for the trail, resident concerns about its location and design, and AODA-compliance considerations."
+  },
+  {
+    "id": "ee4b0badbc6b",
+    "field": "whatAYeaDid",
+    "was": "Directed Civic Administration to bring a report to a future Planning and Environment Committee meeting examining the feasibility of an Agricultural Land Offset Policy, approaches for offsetting agricultural land losses, and alignment with the City's environmental and planning frameworks.",
+    "now": "Would have directed Civic Administration to bring a report to a future Planning and Environment Committee meeting examining the feasibility of an Agricultural Land Offset Policy, approaches for offsetting agricultural land losses, and alignment with the City's environmental and planning frameworks.",
+    "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+    "quote": "Directed Civic Administration to bring a report to a future Planning and Environment Committee meeting examining the feasibility of an Agricultural Land Offset Policy, approaches for offsetting agricultural land losses, and alignment with the City's environmental and planning frameworks."
+  },
+  {
+    "id": "40ed0fff0996",
+    "field": "whatAYeaDid",
+    "was": "Referred the BetterHomes London community efficiency financing report to a future committee meeting for a concierge-model report-back, rather than deciding on it.",
+    "now": "Would have referred the BetterHomes London community efficiency financing report to a future committee meeting for a concierge-model report-back, rather than deciding on it.",
+    "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+    "quote": "Referred the BetterHomes London community efficiency financing report to a future committee meeting for a concierge-model report-back, rather than deciding on it."
+  },
+  {
+    "id": "a0bf252ed958",
+    "field": "whatAYeaDid",
+    "was": "Reshuffled the schedule of contributions to the Climate Change Investment Fund under the Climate Emergency Action Plan (CEAP) Implementation Support business case \u2014 cutting $750,000 in 2024 while adding $250,000/year in 2025-2027, a roughly net-neutral four-year total shifted later.",
+    "now": "Would have reshuffled the schedule of contributions to the Climate Change Investment Fund under the Climate Emergency Action Plan (CEAP) Implementation Support business case \u2014 cutting $750,000 in 2024 while adding $250,000/year in 2025-2027, a roughly net-neutral four-year total shifted later.",
+    "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+    "quote": "Reshuffled the schedule of contributions to the Climate Change Investment Fund under the Climate Emergency Action Plan (CEAP) Implementation Support business case \u2014 cutting $750,000 in 2024 while adding $250,000/year in 2025-2027, a roughly net-neutral four-year total shifted later."
+  },
+  {
+    "id": "9f632543eedb",
+    "field": "whatAYeaDid",
+    "was": "Narrowed a site-plan design consideration for the Kellogg Lane/Dundas Street redevelopment to drop the requirement that the applicant enter a 99-year telecommunications-infrastructure agreement with the City, keeping only the Path Loss Study service-level recommendation.",
+    "now": "Would have narrowed a site-plan design consideration for the Kellogg Lane/Dundas Street redevelopment to drop the requirement that the applicant enter a 99-year telecommunications-infrastructure agreement with the City, keeping only the Path Loss Study service-level recommendation.",
+    "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+    "quote": "Narrowed a site-plan design consideration for the Kellogg Lane/Dundas Street redevelopment to drop the requirement that the applicant enter a 99-year telecommunications-infrastructure agreement with the City, keeping only the Path Loss Study service-level recommendation."
+  },
+  {
+    "id": "f2f91d156e14",
+    "field": "whatAYeaDid",
+    "was": "Requested that the Subdivision Approval Authority consider reserving the Sunningdale Road West lands for community-facility (school) use for three years before allowing the draft plan of subdivision to proceed toward residential development.",
+    "now": "Would have requested that the Subdivision Approval Authority consider reserving the Sunningdale Road West lands for community-facility (school) use for three years before allowing the draft plan of subdivision to proceed toward residential development.",
+    "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+    "quote": "Requested that the Subdivision Approval Authority consider reserving the Sunningdale Road West lands for community-facility (school) use for three years before allowing the draft plan of subdivision to proceed toward residential development."
+  },
+  {
+    "id": "0aca5a7bdd96",
+    "field": "whatAYeaDid",
+    "was": "Referred the 6309 Pack Road rezoning application to a future meeting rather than deciding it, to let staff and the applicant review reducing the proposed building heights and density.",
+    "now": "Would have referred the 6309 Pack Road rezoning application to a future meeting rather than deciding it, to let staff and the applicant review reducing the proposed building heights and density.",
+    "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+    "quote": "Referred the 6309 Pack Road rezoning application to a future meeting rather than deciding it, to let staff and the applicant review reducing the proposed building heights and density."
+  },
+  {
+    "id": "ee000df2b284",
+    "field": "whatAYeaDid",
+    "was": "Referred the Affordable Homeownership Program Relaunch staff report to a future Community and Protective Services Committee meeting, to allow Civic Administration to prepare a business case asking the Province to reallocate the program's funds to another affordable-housing purpose (e.g., social-housing repairs, affordable rental repairs, rent-affordability assistance).",
+    "now": "Would have referred the Affordable Homeownership Program Relaunch staff report to a future Community and Protective Services Committee meeting, to allow Civic Administration to prepare a business case asking the Province to reallocate the program's funds to another affordable-housing purpose (e.g., social-housing repairs, affordable rental repairs, rent-affordability assistance).",
+    "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+    "quote": "Referred the Affordable Homeownership Program Relaunch staff report to a future Community and Protective Services Committee meeting, to allow Civic Administration to prepare a business case asking the Province to reallocate the program's funds to another affordable-housing purpose (e.g., social-housing repairs, affordable rental repairs, rent-affordability assistance)."
+  },
+  {
+    "id": "2dd2f218b482",
+    "field": "whatAYeaDid",
+    "was": "Referred the Highly Supportive Housing Plan cost breakdown schedule to a future meeting for more detailed cost breakdowns, rather than deciding on it.",
+    "now": "Would have referred the Highly Supportive Housing Plan cost breakdown schedule to a future meeting for more detailed cost breakdowns, rather than deciding on it.",
+    "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+    "quote": "Referred the Highly Supportive Housing Plan cost breakdown schedule to a future meeting for more detailed cost breakdowns, rather than deciding on it."
+  },
+  {
+    "id": "b377bcba025b",
+    "field": "whatAYeaDid",
+    "was": "Referred the Highly Supportive Housing Plan cost breakdown schedule to a future meeting for more detailed cost breakdowns, rather than deciding on it.",
+    "now": "Would have referred the Highly Supportive Housing Plan cost breakdown schedule to a future meeting for more detailed cost breakdowns, rather than deciding on it.",
+    "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+    "quote": "Referred the Highly Supportive Housing Plan cost breakdown schedule to a future meeting for more detailed cost breakdowns, rather than deciding on it."
+  },
+  {
+    "id": "aa61ec1f12b2",
+    "field": "whatAYeaDid",
+    "was": "Directed Civic Administration to undertake reviews of servicing capacity and of London Plan policy changes that would support increased intensification within the Urban Growth Boundaries, without itself approving any policy change.",
+    "now": "Would have directed Civic Administration to undertake reviews of servicing capacity and of London Plan policy changes that would support increased intensification within the Urban Growth Boundaries, without itself approving any policy change.",
+    "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+    "quote": "Directed Civic Administration to undertake reviews of servicing capacity and of London Plan policy changes that would support increased intensification within the Urban Growth Boundaries, without itself approving any policy change."
+  },
+  {
+    "id": "2873091ebefb",
+    "field": "whatAYeaDid",
+    "was": "Asked Civic Administration to report back on expected funding sources for future Highly Supportive Housing units and a list of other conversions being considered, deciding nothing itself.",
+    "now": "Would have asked Civic Administration to report back on expected funding sources for future Highly Supportive Housing units and a list of other conversions being considered, deciding nothing itself.",
+    "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+    "quote": "Asked Civic Administration to report back on expected funding sources for future Highly Supportive Housing units and a list of other conversions being considered, deciding nothing itself."
+  },
+  {
+    "id": "7f8dde7b0cde",
+    "field": "whatAYeaDid",
+    "was": "Asked Civic Administration to report back on the rationale for switching from 15 temporary resting-space beds at 448 Horton Street to 24 highly supportive housing units at 362 Dundas Street, deciding nothing itself.",
+    "now": "Would have asked Civic Administration to report back on the rationale for switching from 15 temporary resting-space beds at 448 Horton Street to 24 highly supportive housing units at 362 Dundas Street, deciding nothing itself.",
+    "reason": "Round-9 gate item 1/2: this label described a Failed motion's action in the plain past tense with no \"would have\" hedge -- true as far as it goes, but reads as if the action happened. Reworded to the same \"Would have ...\" construction the rest of this corpus's Failed-motion labels already use, so the identical whatAYeaDid field heals both the issue-page cell and the councillor-page unclear-section cell it renders into (see sweep-failed-motion-yea.py's unified hedge check).",
+    "quote": "Asked Civic Administration to report back on the rationale for switching from 15 temporary resting-space beds at 448 Horton Street to 24 highly supportive housing units at 362 Dundas Street, deciding nothing itself."
   }
 ]
