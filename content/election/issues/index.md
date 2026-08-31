@@ -15,12 +15,12 @@ Council doesn't split on most of what it votes on — most motions pass unanimou
 
 | Issue | Divided votes | With a clear direction |
 |-------|:---:|:---:|
-| [Housing & Density](/election/issues/housing) | 197 | 48 |
-| [Taxes & Budget](/election/issues/budget) | 133 | 49 |
-| [Transit & Roads](/election/issues/transit) | 43 | 4 |
-| [Homelessness & Encampments](/election/issues/encampments) | 40 | 10 |
-| [Climate & Green Space](/election/issues/climate) | 21 | 4 |
-| [Downtown & Core](/election/issues/downtown) | 19 | 7 |
+| [Housing & Density](/election/issues/housing) | 185 | 41 |
+| [Taxes & Budget](/election/issues/budget) | 120 | 42 |
+| [Transit & Roads](/election/issues/transit) | 40 | 3 |
+| [Homelessness & Encampments](/election/issues/encampments) | 36 | 9 |
+| [Downtown & Core](/election/issues/downtown) | 18 | 6 |
+| [Climate & Green Space](/election/issues/climate) | 16 | 3 |
 | [Bike Lanes / Cycling](/election/issues/bikes) | 11 | 9 |
 | [Policing](/election/issues/policing) | 7 | 2 |
 
@@ -28,7 +28,7 @@ Council doesn't split on most of what it votes on — most motions pass unanimou
 
 ## Unclassified divided votes
 
-703 additional divided motions since 2023-01-01 matched none of the issue clusters above (or matched an explicit governance/procedure exclusion) and are not force-fit into one. All 703 are listed below:
+659 additional divided motions since 2023-01-01 matched none of the issue clusters above (or matched an explicit governance/procedure exclusion) and are not force-fit into one. All 659 are listed below:
 
 - 2026-07-21 — (2.1) Green Development Framework Update (item 8.2.4)
 - 2026-07-21 — (3.3) Parking Provisions Update (Relates to Bill No. 285) (item 8.2.7)
@@ -37,6 +37,7 @@ Council doesn't split on most of what it votes on — most motions pass unanimou
 - 2026-07-21 — (2.4) Housing Stability Services Procurement and Delivery Framework (item 8.4.4)
 - 2026-07-21 — (2.3) Proposed Winter Response for 2026-2027 (item 8.4.6)
 - 2026-07-21 — (4.3) Pilot Program for Air Conditioning Support for Low-Income Seniors (item 8.4.9)
+- 2026-07-14 — 1454 Fanshawe Park Road East - Block 2 - 39T-26502/OZ-25055 (item 3.8)
 - 2026-07-13 — Proposed Winter Response for 2026-2027 (item 2.3)
 - 2026-07-13 — By-law Enforcement Administrative Fees (item 4.5)
 - 2026-06-23 — (4.1) The Centre of Opportunity: London's Economic Development Strategy (2026–2030) and Implementation Plan (item 8.3.6)
@@ -46,7 +47,6 @@ Council doesn't split on most of what it votes on — most motions pass unanimou
 - 2026-06-23 — (4.1) Councillor C. Rahman - Third-Party Appeal Mechanism (item 8.5.12)
 - 2026-06-23 — (3.6) 1057-1061 Richmond Street - Z-26051 (Relates to Bill No. 259) (item 8.5.7)
 - 2026-06-22 — Green Development Framework Update (item 2.1)
-- 2026-06-17 — Build Communities Strong Fund Provincial and Territorial Stream: Development Charge Reduction Program (item 6.1)
 - 2026-06-16 — Not to be heard before 1:05 PM - London & Middlesex Community Housing - 2025 Annual General Meeting of the Shareholder Annual Resolutions (item 3.1)
 - 2026-06-16 — The Centre of Opportunity: London's Economic Development Strategy (2026–2030) and Implementation Plan (item 4.1)
 - 2026-06-16 — Downtown Reimagined: City of London Downtown Plan (item 4.2)
@@ -178,6 +178,8 @@ Council doesn't split on most of what it votes on — most motions pass unanimou
 - 2025-11-04 — (4.1) 2025 Council Resourcing Review Task Force Final Report (item 8.4.7)
 - 2025-11-04 — (4.1) 2025 Council Resourcing Review Task Force Final Report (item 8.4.7)
 - 2025-11-04 — (4.1) 2025 Council Resourcing Review Task Force Final Report (item 8.4.7)
+- 2025-11-04 — (4.1) 2025 Council Resourcing Review Task Force Final Report (item 8.4.7)
+- 2025-10-28 — 2025 Council Resourcing Review Task Force Final Report (item 4.1)
 - 2025-10-28 — 2025 Council Resourcing Review Task Force Final Report (item 4.1)
 - 2025-10-28 — 2025 Council Resourcing Review Task Force Final Report (item 4.1)
 - 2025-10-28 — 2025 Council Resourcing Review Task Force Final Report (item 4.1)
@@ -262,7 +264,6 @@ Council doesn't split on most of what it votes on — most motions pass unanimou
 - 2025-06-17 — Not to be heard before 2:00 PM - London & Middlesex Community Housing - 2024 Annual General Meeting of the Shareholder Annual Resolutions (item 3.2)
 - 2025-06-11 — Communication - Cost Saving Opportunities within Heritage - Councillor S. Stevenson (item 4.3)
 - 2025-06-09 — Communication - Request for Update on 2021 Reaching Home - Councillor S. Stevenson (item 4.2)
-- 2025-06-03 — Emergent Motions (item 12)
 - 2025-06-03 — By-laws (item 13)
 - 2025-06-03 — Expropriation of Lands - Wellington Gateway Project Civil Works - Phase 2 (As the "Approving Authority") (item 6.1)
 - 2025-06-03 — Expropriation of Lands - Wellington Gateway Project Civil Works - Phase 2 (As the "Approving Authority") (item 6.1)
@@ -422,6 +423,7 @@ Council doesn't split on most of what it votes on — most motions pass unanimou
 - 2024-10-21 — Life*Spin - Property Standards and Tenant Support (item 3.1)
 - 2024-10-21 — Life*Spin - Property Standards and Tenant Support (item 3.1)
 - 2024-09-24 — (2.2) Renovictions - Amendments to the Business Licensing By-law to Introduce a Rental Unit Repair Licence (Relates to Bills No. 307, 308 and 320) (item 8.2.4)
+- 2024-09-24 — (3.6) Heights Review/Transit Village/Major Shopping Area (OZ-9726, OZ-9727, O-9752 and O-9753) (Relates to Bills No. 311 and 332) (item 8.6.9)
 - 2024-09-17 — Municipal Accommodation Tax - Tourism London Annual Report (item 2.2)
 - 2024-09-09 — Renovictions - Amendments to the Business Licensing By-law to Introduce a Rental Unit Repair Licence (item 2.2)
 - 2024-09-09 — Renovictions - Amendments to the Business Licensing By-law to Introduce a Rental Unit Repair Licence (item 2.2)
@@ -638,7 +640,6 @@ Council doesn't split on most of what it votes on — most motions pass unanimou
 - 2023-07-25 — Expropriation of Lands - Wellington Gateway Project - Phase 3 and 4 (As the "Approving Authority") (item 6.3)
 - 2023-07-25 — Expropriation of Lands - Wellington Gateway Project - Phase 3 and 4 (As the "Expropriating Authority") (item 6.4)
 - 2023-07-25 — (4.1) Master Accommodation Plan - Alternate Work Strategies Update (item 8.1.3)
-- 2023-07-25 — (4.1) Master Accommodation Plan - Alternate Work Strategies Update (item 8.1.3)
 - 2023-07-25 — (4.3) Consideration of Appointment to the London Hydro Board of Directors (Requires 2 Members) (Relates to Bill No. 225) (item 8.1.5)
 - 2023-07-25 — (4.3) 39 Carfrae Street - Application Pursuant to Heritage Easement Agreement (item 8.2.19)
 - 2023-07-25 — (2.5) Council Policy Manual Review 2023 (Relates to Bill No.'s 216 to 224, 232 and 233) (item 8.3.14)
@@ -688,50 +689,5 @@ Council doesn't split on most of what it votes on — most motions pass unanimou
 - 2023-06-06 — (2.5) Expropriation of Lands - East London Link Project Phase 3 (Relates to Bill No. 170) (item 8.5.7)
 - 2023-06-06 — (2.6) Expropriation of Lands - Wellington Gateway Project Phase 3 and 4 (Relates to Bill No. 171) (item 8.5.8)
 - 2023-06-05 — Consideration of Appointment to the London Police Services Board (item 5.1)
-- 2023-05-30 — Request for Business Cases for the Multi-Year Budget (item 4.3)
-- 2023-05-30 — Request for Business Cases for the Multi-Year Budget (item 4.3)
-- 2023-05-30 — Request for Business Cases for the Multi-Year Budget (item 4.3)
-- 2023-05-23 — Consent (item 2)
-- 2023-05-23 — Expropriation of Lands - East London Link Project Phase 3 (item 2.5)
-- 2023-05-16 — (4.1) Application - Issuance of Proclamation - Longest Day of SMILES (item 8.1.6)
-- 2023-05-16 — (2.4) Housing Collaborative Initiative (HCI) - Update (item 8.2.5)
-- 2023-05-09 — London Police Services Board Candidates Interview Process (item 4.2)
-- 2023-05-09 — London Police Services Board Candidates Interview Process (item 4.2)
-- 2023-04-25 — (2.8) Western Road and Sarnia Road/Philip Aziz Avenue Corridor and Intersection Improvements - Environmental Study Report, Notice of Completion (item 8.4.10)
-- 2023-04-18 — (ADDED) Request to Update London Hydro Inc. Board of Director Recruitment, Interview and Nomination Process (item 5.1)
-- 2023-04-18 — (ADDED) Request a Governance Working Group Meeting (item 5.2)
-- 2023-04-12 — Western Road and Sarnia Road/Philip Aziz Avenue Corridor and Intersection Improvements - Environmental Study Report, Notice of Completion (item 2.8)
-- 2023-04-12 — Western Road and Sarnia Road/Philip Aziz Avenue Corridor and Intersection Improvements - Environmental Study Report, Notice of Completion (item 2.8)
-- 2023-04-11 — Members of Council Proof of COVID-19 Vaccination Policy (item 2.8)
-- 2023-04-04 — (4.2) Consideration of Appointment to the London Police Services Board (item 8.2.5)
-- 2023-04-04 — (4.2) Consideration of Appointment to the London Police Services Board (item 8.2.5)
-- 2023-04-04 — (3.2) 247 Halls Mill Road - Demolition Request to Remove Heritage Attributes (item 8.3.9)
-- 2023-04-04 — (3.2) 247 Halls Mill Road - Demolition Request to Remove Heritage Attributes (item 8.3.9)
-- 2023-03-28 — Council's Draft 2023-2027 Strategic Plan (item 4.1)
-- 2023-03-28 — (ADDED) Request to Declare a State of Emergency regarding Housing (item 5.1)
-- 2023-03-20 — 864 Hellmuth Avenue - Heritage Alteration Permit Application (HAP22-081-L) (item 2.6)
-- 2023-03-08 — (ADDED) Council's Draft 2023-2027 Strategic Plan (item 4.2)
-- 2023-03-08 — (ADDED) Council's Draft 2023-2027 Strategic Plan (item 4.2)
-- 2023-03-08 — (ADDED) Council's Draft 2023-2027 Strategic Plan (item 4.2)
-- 2023-03-08 — (ADDED) Council's Draft 2023-2027 Strategic Plan (item 4.2)
-- 2023-02-28 — Health and Homelessness Summits - Proposed Whole of Community System Response (item 4.1)
-- 2023-02-28 — Developing Council's 2023-2027 Strategic Plan: Draft Strategies and Order of Magnitude Costing (item 4.2)
-- 2023-02-28 — Developing Council's 2023-2027 Strategic Plan: Draft Metrics (item 4.3)
-- 2023-02-28 — Developing Council's 2023-2027 Strategic Plan: Draft Metrics (item 4.3)
-- 2023-02-28 — Developing Council's 2023-2027 Strategic Plan: Draft Metrics (item 4.3)
-- 2023-02-28 — Developing Council's 2023-2027 Strategic Plan: Draft Metrics (item 4.3)
-- 2023-02-22 — Electric Kick-Scooter and Cargo Power-assisted Bicycle Pilot Project By-law and By-law Amendments (item 2.3)
-- 2023-02-14 — (4.2) Developing the 2023-2027 Strategic Plan: Continuing to Set Key Elements of the Strategic Plan (item 8.5.4)
-- 2023-02-14 — (4.2) Developing the 2023-2027 Strategic Plan: Continuing to Set Key Elements of the Strategic Plan (item 8.5.4)
-- 2023-02-14 — (2.4) Declare Surplus - City-Owned Property - Part of 641 Queens Avenue (item 8.7.5)
-- 2023-02-14 — (2.4) Declare Surplus - City-Owned Property - Part of 641 Queens Avenue (item 8.7.5)
-- 2023-02-14 — 4th Report of Council in Closed Session (item 9.1)
-- 2023-02-07 — London's Housing Pledge: A Path to 47,000 Units by 2031 (item 4.1)
-- 2023-02-07 — Developing the 2023-2027 Strategic Plan: Continuing to Set Key Elements of the Strategic Plan (item 4.2)
-- 2023-01-31 — Exotic Animal Establishments (item 4.1)
-- 2023-01-31 — Exotic Animal Establishments (item 4.1)
-- 2023-01-30 — Declare Surplus - City-Owned Property - Part of 641 Queens Avenue (item 2.4)
-- 2023-01-23 — Developing the 2023-2027 Strategic Plan: Setting the Strategic Areas of Focus, Outcomes and Expected Results (item 4.1)
-- 2023-01-09 — 634 Commissioners Road West (item 3.2)
 
-*Divided motions since 2023 that matched no issue's keyword rules (or matched a GLOBAL_EXCLUDE governance/procedure phrase). All are listed here, never force-fit into a cluster. Separately (not counted above), 232 motions that ARE classified into one of the issue clusters are marked "unclear" and excluded from the pattern counts on each issue's page, because their motion text hit a 500-character truncation cap in the source data — a clause past that cut-off could silently flip what the vote actually did.*
+*Divided motions since 2023 that matched no issue's keyword rules (or matched a GLOBAL_EXCLUDE governance/procedure phrase). All are listed here, never force-fit into a cluster. Separately (not counted above), 221 motions that ARE classified into one of the issue clusters are marked "unclear" and excluded from the pattern counts on each issue's page, because their motion text hit a 500-character truncation cap in the source data — a clause past that cut-off could silently flip what the vote actually did.*
