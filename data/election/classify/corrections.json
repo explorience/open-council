@@ -12,7 +12,7 @@
     "field": "polarity",
     "was": "expansive",
     "now": null,
-    "reason": "Same defect as the axis correction on this id: the clause directs a letter to AMO/the Province and internal fact-gathering with London's own facilities — it does not itself strengthen or weaken any target, so no polarity is asserted.",
+    "reason": "Same defect as the axis correction on this id: the clause directs a letter to AMO/the Province and internal fact-gathering with London's own facilities \u2014 it does not itself strengthen or weaken any target, so no polarity is asserted.",
     "quote": "the Mayor of the City of London, Councillor C. Rahman and Councillor A. Hopkins BE DIRECTED to submit a letter to AMO to develop a position and advocate on behalf of Ontario municipalities to request the Government of Ontario to develop and implement a plan to move Ontario to a net zero-carbon electricity grid by 2035"
   },
   {
@@ -21,7 +21,7 @@
     "was": "response-scale",
     "now": null,
     "reason": "This is a resolution asking Ontario's Big City Mayors to request the Government of Ontario declare a state of emergency over homelessness/addictions/mental health, and to provide municipalities with more funding. It is advocacy toward another government, not a City decision that expands London's own encampment/homelessness response. Same advocacy-letter defect class as 187527fc77b7: downgraded to unclear.",
-    "quote": "Therefore it be resolved that Ontario’s Big City Mayors (OBCM) urgently request the Government of Ontario to declare a state of emergency to address homelessness caused by addictions and mental health that has created a community safety and humanitarian crisis across the province."
+    "quote": "Therefore it be resolved that Ontario\u2019s Big City Mayors (OBCM) urgently request the Government of Ontario to declare a state of emergency to address homelessness caused by addictions and mental health that has created a community safety and humanitarian crisis across the province."
   },
   {
     "id": "cc2a45812971",
@@ -29,7 +29,7 @@
     "was": "expansive",
     "now": null,
     "reason": "Same defect as the axis correction on this id: an advocacy resolution to another government carries no polarity on London's own response-scale axis.",
-    "quote": "Therefore it be resolved that Ontario’s Big City Mayors (OBCM) urgently request the Government of Ontario to declare a state of emergency"
+    "quote": "Therefore it be resolved that Ontario\u2019s Big City Mayors (OBCM) urgently request the Government of Ontario to declare a state of emergency"
   },
   {
     "id": "0b898d04d289",
@@ -37,7 +37,7 @@
     "was": "response-scale",
     "now": null,
     "reason": "Council REQUESTING that Civic Administration and the Mayor engage federal/provincial governments to fund the Encampment Implementation Recommendations does not itself change London's response scale by a dollar or a space -- it is a request for outside funding, same advocacy-letter defect class as 187527fc77b7 and cc2a45812971. Downgraded to unclear.",
-    "quote": "the Civic Administration and the Mayor BE REQUESTED to engage with the federal and provincial governments to fund the Encampment Implementation Recommendations for an initial period of January 1, 2025 to December 31, 2025 as part of London’s portion of a $250-million federal fund dedicated to addressing encampments"
+    "quote": "the Civic Administration and the Mayor BE REQUESTED to engage with the federal and provincial governments to fund the Encampment Implementation Recommendations for an initial period of January 1, 2025 to December 31, 2025 as part of London\u2019s portion of a $250-million federal fund dedicated to addressing encampments"
   },
   {
     "id": "0b898d04d289",
@@ -133,7 +133,7 @@
     "was": "business-case",
     "now": "levy-size",
     "reason": "Round-3 gate SHOULD FIX: the business-case axis pools fiscally opposite effects under one 'included/excluded' label, sitting directly under the sibling levy-size axis whose expansive label already means 'increased the tax levy'. Business Case #P-6 (Reduced Road Network Improvements) is itself a SAVINGS/cut case -- excluding it from the budget means the proposed road-spending cut does NOT happen, i.e. spending (and the levy) stays higher than it would if the cut had been adopted. Re-derived from the source meeting JSON's own numbers for this exact motion (2025-11-20 Budget Committee item d, Moved by S. Stevenson): the case's stated '2026 Tax Levy: $114,000' is the amount EXCLUDING it adds back to the levy versus adopting the cut. Reclassified onto the levy-size axis, which actually describes the fiscal direction, instead of the direction-agnostic business-case include/exclude label.",
-    "quote": "That Business Case #P-6 - Reduced Road Network Improvements - BE EXCLUDED from the Mayor’s Tabled 2026 Annual Update Budget: 2026 Operating Expenditures: $114,000  2026 Tax Levy: $114,000"
+    "quote": "That Business Case #P-6 - Reduced Road Network Improvements - BE EXCLUDED from the Mayor\u2019s Tabled 2026 Annual Update Budget: 2026 Operating Expenditures: $114,000  2026 Tax Levy: $114,000"
   },
   {
     "id": "18633398dd86",
@@ -141,7 +141,7 @@
     "was": "restrictive",
     "now": "expansive",
     "reason": "Following from the axis correction on this id: excluding a proposed $114,000 road-network spending cut from the 2026 budget keeps that $114,000 in the levy relative to adopting the cut -- a yea on this motion moved toward a LARGER tax levy, the levy-size axis's expansive outcome, not a restrictive one.",
-    "quote": "That Business Case #P-6 - Reduced Road Network Improvements - BE EXCLUDED from the Mayor’s Tabled 2026 Annual Update Budget: 2026 Operating Expenditures: $114,000  2026 Tax Levy: $114,000"
+    "quote": "That Business Case #P-6 - Reduced Road Network Improvements - BE EXCLUDED from the Mayor\u2019s Tabled 2026 Annual Update Budget: 2026 Operating Expenditures: $114,000  2026 Tax Levy: $114,000"
   },
   {
     "id": "ea03954e4926",
@@ -149,7 +149,7 @@
     "was": "business-case",
     "now": "levy-size",
     "reason": "Round-3 gate SHOULD FIX, same defect class as 18633398dd86: Business Case #P-24 (Eliminate Climate Change Reserve Fund Contribution) is itself a SAVINGS/cut case -- including it in the budget applies that cut, lowering the levy. Re-derived from the source meeting JSON's own numbers for this exact motion (2025-11-20 Budget Committee, Moved by S. Franke, Seconded by S. Hillier): the case's stated '2026 Tax Levy: -$192,000' is a levy DECREASE. Reclassified onto the levy-size axis, which actually describes the fiscal direction.",
-    "quote": "That Business Case #P-24 – Eliminate Climate Change Reserve Fund Contribution – BE INCLUDED in the Mayor’s Tabled 2026 Annual Budget Update: 2026 Operating Expenditures: -$192,000  2026 Tax Levy: -$192,000"
+    "quote": "That Business Case #P-24 \u2013 Eliminate Climate Change Reserve Fund Contribution \u2013 BE INCLUDED in the Mayor\u2019s Tabled 2026 Annual Budget Update: 2026 Operating Expenditures: -$192,000  2026 Tax Levy: -$192,000"
   },
   {
     "id": "ea03954e4926",
@@ -157,7 +157,7 @@
     "was": "expansive",
     "now": "restrictive",
     "reason": "Following from the axis correction on this id: including a $192,000/year cut to the Climate Change Reserve Fund contribution LOWERS the 2026 and 2027 tax levy by that amount -- a yea on this motion moved toward a SMALLER tax levy, the levy-size axis's restrictive outcome, not an expansive one.",
-    "quote": "That Business Case #P-24 – Eliminate Climate Change Reserve Fund Contribution – BE INCLUDED in the Mayor’s Tabled 2026 Annual Budget Update: 2026 Operating Expenditures: -$192,000  2026 Tax Levy: -$192,000"
+    "quote": "That Business Case #P-24 \u2013 Eliminate Climate Change Reserve Fund Contribution \u2013 BE INCLUDED in the Mayor\u2019s Tabled 2026 Annual Budget Update: 2026 Operating Expenditures: -$192,000  2026 Tax Levy: -$192,000"
   },
   {
     "id": "4df11e775c7f",
@@ -197,7 +197,7 @@
     "was": "application-approval",
     "now": null,
     "reason": "Round-4 gate item 2 sweep hit, same underlying request as f256055d95cb at its earlier committee stage (2024-12-03 Planning and Environment Committee, same item, standalone UGB-expansion sub-vote): 'the Province BE REQUESTED to support' a UGB expansion. Same advocacy-toward-another-government defect class -- downgraded to unclear for the same reason as f256055d95cb.",
-    "quote": "the Province BE REQUESTED to support an Urban Growth Boundary expansion of approximately 2,000 hectares of developable land to accelerate London’s new housing supply, considering the Housing Supply Marketplace Analysis and the Land Needs Assessment (Community Growth)"
+    "quote": "the Province BE REQUESTED to support an Urban Growth Boundary expansion of approximately 2,000 hectares of developable land to accelerate London\u2019s new housing supply, considering the Housing Supply Marketplace Analysis and the Land Needs Assessment (Community Growth)"
   },
   {
     "id": "171d5c892bfb",
@@ -205,7 +205,7 @@
     "was": "expansive",
     "now": null,
     "reason": "Same defect as the axis correction on this id: a request that the Province support a UGB expansion is not London itself approving anything, so no polarity on the application-approval axis is asserted.",
-    "quote": "the Province BE REQUESTED to support an Urban Growth Boundary expansion of approximately 2,000 hectares of developable land to accelerate London’s new housing supply, considering the Housing Supply Marketplace Analysis and the Land Needs Assessment (Community Growth)"
+    "quote": "the Province BE REQUESTED to support an Urban Growth Boundary expansion of approximately 2,000 hectares of developable land to accelerate London\u2019s new housing supply, considering the Housing Supply Marketplace Analysis and the Land Needs Assessment (Community Growth)"
   },
   {
     "id": "afa632a6cb38",
@@ -229,7 +229,7 @@
     "was": "business-case",
     "now": "levy-size",
     "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this motion's full text carries an explicit 'Tax Levy' dollar line, so its real fiscal direction is derivable from that line's sign together with the motion's own include/exclude verb, per the same rule already applied to 18633398dd86/ea03954e4926 -- Business Case #P-25 (Stop Collecting Blue Box Materials from Non-Eligible Sources) is BE INCLUDED with an explicit '2026 Tax Levy: -$250,000' -- a yea includes a $250,000/year levy CUT. Reclassified onto the levy-size axis, which actually describes the fiscal direction, instead of the direction-agnostic business-case include/exclude label.",
-    "quote": "That Business Case #P-25 - Stop Collecting Blue Box Materials from Non-Eligible Sources - BE INCLUDED in the Mayor’s Tabled 2026 Annual Update Budget"
+    "quote": "That Business Case #P-25 - Stop Collecting Blue Box Materials from Non-Eligible Sources - BE INCLUDED in the Mayor\u2019s Tabled 2026 Annual Update Budget"
   },
   {
     "id": "987a0e7529b2",
@@ -237,7 +237,7 @@
     "was": "expansive",
     "now": "restrictive",
     "reason": "Following from the axis correction on this id: including a case with an explicit negative Tax Levy figure lowers the levy by that amount -- a yea on this motion moved toward a SMALLER tax levy, the levy-size axis's restrictive outcome.",
-    "quote": "That Business Case #P-25 - Stop Collecting Blue Box Materials from Non-Eligible Sources - BE INCLUDED in the Mayor’s Tabled 2026 Annual Update Budget"
+    "quote": "That Business Case #P-25 - Stop Collecting Blue Box Materials from Non-Eligible Sources - BE INCLUDED in the Mayor\u2019s Tabled 2026 Annual Update Budget"
   },
   {
     "id": "f7c197957c99",
@@ -245,7 +245,7 @@
     "was": "business-case",
     "now": "levy-size",
     "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this motion's full text carries an explicit 'Tax Levy' dollar line, so its real fiscal direction is derivable from that line's sign together with the motion's own include/exclude verb, per the same rule already applied to 18633398dd86/ea03954e4926 -- Business Case #P-12 (Resident Satisfaction Survey Frequency) is BE EXCLUDED with an explicit '2027 Tax Levy: $28,000' -- a yea excludes a case that would otherwise have ADDED $28,000/year to the levy, i.e. avoids that increase. Reclassified onto the levy-size axis, which actually describes the fiscal direction, instead of the direction-agnostic business-case include/exclude label.",
-    "quote": "That Business Case #P-12 Resident Satisfaction Survey Frequency - BE EXCLUDED from the Mayor’s Tabled 2026 Annual Budget"
+    "quote": "That Business Case #P-12 Resident Satisfaction Survey Frequency - BE EXCLUDED from the Mayor\u2019s Tabled 2026 Annual Budget"
   },
   {
     "id": "f7c197957c99",
@@ -253,7 +253,7 @@
     "was": "restrictive",
     "now": "restrictive",
     "reason": "Following from the axis correction on this id: excluding a case with an explicit positive Tax Levy figure keeps that $28,000 OFF the levy relative to including it -- a yea on this motion moved toward a SMALLER tax levy than the alternative, the levy-size axis's restrictive outcome (note: the axis and polarity here happen to be unchanged from the business-case classification's own restrictive label, but the AXIS itself is corrected from the direction-agnostic business-case label to levy-size, which is what actually describes the fiscal direction).",
-    "quote": "That Business Case #P-12 Resident Satisfaction Survey Frequency - BE EXCLUDED from the Mayor’s Tabled 2026 Annual Budget"
+    "quote": "That Business Case #P-12 Resident Satisfaction Survey Frequency - BE EXCLUDED from the Mayor\u2019s Tabled 2026 Annual Budget"
   },
   {
     "id": "01d52536f471",
@@ -277,7 +277,7 @@
     "was": "business-case",
     "now": null,
     "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86/ea03954e4926). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
-    "quote": "the Civic Administration BE DIRECTED to exclude the following business cases in the 2026 Budget Update: ii) Appendix B, Ref # - 2 Roadway Planning & Design – Reduced Road Network Improvements v) Appendix C, Ref # - 2 Recycling & Composting - Stop Multi-Residential Green Bin Cart Pilot Project and Future Expansion vi) Appendix C, Ref # - 3 Recycling & Composting - Stop Collecting Blue Box Materials from Non-eligible Sources (NES)"
+    "quote": "the Civic Administration BE DIRECTED to exclude the following business cases in the 2026 Budget Update: ii) Appendix B, Ref # - 2 Roadway Planning & Design \u2013 Reduced Road Network Improvements v) Appendix C, Ref # - 2 Recycling & Composting - Stop Multi-Residential Green Bin Cart Pilot Project and Future Expansion vi) Appendix C, Ref # - 3 Recycling & Composting - Stop Collecting Blue Box Materials from Non-eligible Sources (NES)"
   },
   {
     "id": "69288d65e04c",
@@ -285,7 +285,7 @@
     "was": "restrictive",
     "now": null,
     "reason": "Same defect as the axis correction on this id: with no derivable fiscal direction, no polarity is asserted.",
-    "quote": "the Civic Administration BE DIRECTED to exclude the following business cases in the 2026 Budget Update: ii) Appendix B, Ref # - 2 Roadway Planning & Design – Reduced Road Network Improvements v) Appendix C, Ref # - 2 Recycling & Composting - Stop Multi-Residential Green Bin Cart Pilot Project and Future Expansion vi) Appendix C, Ref # - 3 Recycling & Composting - Stop Collecting Blue Box Materials from Non-eligible Sources (NES)"
+    "quote": "the Civic Administration BE DIRECTED to exclude the following business cases in the 2026 Budget Update: ii) Appendix B, Ref # - 2 Roadway Planning & Design \u2013 Reduced Road Network Improvements v) Appendix C, Ref # - 2 Recycling & Composting - Stop Multi-Residential Green Bin Cart Pilot Project and Future Expansion vi) Appendix C, Ref # - 3 Recycling & Composting - Stop Collecting Blue Box Materials from Non-eligible Sources (NES)"
   },
   {
     "id": "5581ea6993ac",
@@ -293,7 +293,7 @@
     "was": "business-case",
     "now": null,
     "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86/ea03954e4926). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
-    "quote": "the Civic Administration BE DIRECTED to exclude the following business cases in the 2026 Budget Update: i) Appendix B, Ref # - 1 Roadway Maintenance – Reduced Summer Sidewalk Maintenance"
+    "quote": "the Civic Administration BE DIRECTED to exclude the following business cases in the 2026 Budget Update: i) Appendix B, Ref # - 1 Roadway Maintenance \u2013 Reduced Summer Sidewalk Maintenance"
   },
   {
     "id": "5581ea6993ac",
@@ -301,7 +301,7 @@
     "was": "restrictive",
     "now": null,
     "reason": "Same defect as the axis correction on this id: with no derivable fiscal direction, no polarity is asserted.",
-    "quote": "the Civic Administration BE DIRECTED to exclude the following business cases in the 2026 Budget Update: i) Appendix B, Ref # - 1 Roadway Maintenance – Reduced Summer Sidewalk Maintenance"
+    "quote": "the Civic Administration BE DIRECTED to exclude the following business cases in the 2026 Budget Update: i) Appendix B, Ref # - 1 Roadway Maintenance \u2013 Reduced Summer Sidewalk Maintenance"
   },
   {
     "id": "a4eb827c855c",
@@ -325,7 +325,7 @@
     "was": "business-case",
     "now": null,
     "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86/ea03954e4926). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
-    "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 1 Roadway Maintenance – Reduced Summer Sidewalk Maintenance"
+    "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 1 Roadway Maintenance \u2013 Reduced Summer Sidewalk Maintenance"
   },
   {
     "id": "e11dd21254b2",
@@ -333,7 +333,7 @@
     "was": "restrictive",
     "now": null,
     "reason": "Same defect as the axis correction on this id: with no derivable fiscal direction, no polarity is asserted.",
-    "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 1 Roadway Maintenance – Reduced Summer Sidewalk Maintenance"
+    "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 1 Roadway Maintenance \u2013 Reduced Summer Sidewalk Maintenance"
   },
   {
     "id": "d167a282544f",
@@ -341,7 +341,7 @@
     "was": "business-case",
     "now": null,
     "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86/ea03954e4926). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
-    "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 2 Roadway Planning & Design – Reduced Road Network Improvements"
+    "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 2 Roadway Planning & Design \u2013 Reduced Road Network Improvements"
   },
   {
     "id": "d167a282544f",
@@ -349,7 +349,7 @@
     "was": "restrictive",
     "now": null,
     "reason": "Same defect as the axis correction on this id: with no derivable fiscal direction, no polarity is asserted.",
-    "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 2 Roadway Planning & Design – Reduced Road Network Improvements"
+    "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 2 Roadway Planning & Design \u2013 Reduced Road Network Improvements"
   },
   {
     "id": "3dd05e479854",
@@ -373,7 +373,7 @@
     "was": "business-case",
     "now": null,
     "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86/ea03954e4926). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
-    "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 4 Urban Forestry – Tree Planting Grants & Non-replacement Tree Planting"
+    "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 4 Urban Forestry \u2013 Tree Planting Grants & Non-replacement Tree Planting"
   },
   {
     "id": "1c8075648323",
@@ -381,7 +381,7 @@
     "was": "restrictive",
     "now": null,
     "reason": "Same defect as the axis correction on this id: with no derivable fiscal direction, no polarity is asserted.",
-    "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 4 Urban Forestry – Tree Planting Grants & Non-replacement Tree Planting"
+    "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 4 Urban Forestry \u2013 Tree Planting Grants & Non-replacement Tree Planting"
   },
   {
     "id": "ba9608551c5e",
@@ -389,7 +389,7 @@
     "was": "business-case",
     "now": null,
     "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86/ea03954e4926). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
-    "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 5 Aquatics – Closure of 5 Wading Pools"
+    "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 5 Aquatics \u2013 Closure of 5 Wading Pools"
   },
   {
     "id": "ba9608551c5e",
@@ -397,7 +397,7 @@
     "was": "restrictive",
     "now": null,
     "reason": "Same defect as the axis correction on this id: with no derivable fiscal direction, no polarity is asserted.",
-    "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 5 Aquatics – Closure of 5 Wading Pools"
+    "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 5 Aquatics \u2013 Closure of 5 Wading Pools"
   },
   {
     "id": "294f2da7a27e",
@@ -405,7 +405,7 @@
     "was": "business-case",
     "now": null,
     "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86/ea03954e4926). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
-    "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 6 Corporate Management – Resident Satisfaction Survey"
+    "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 6 Corporate Management \u2013 Resident Satisfaction Survey"
   },
   {
     "id": "294f2da7a27e",
@@ -413,7 +413,7 @@
     "was": "restrictive",
     "now": null,
     "reason": "Same defect as the axis correction on this id: with no derivable fiscal direction, no polarity is asserted.",
-    "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 6 Corporate Management – Resident Satisfaction Survey"
+    "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 6 Corporate Management \u2013 Resident Satisfaction Survey"
   },
   {
     "id": "e7b1e2dca5dc",
@@ -421,7 +421,7 @@
     "was": "business-case",
     "now": null,
     "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86/ea03954e4926). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
-    "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 7 Human Resources – Internships"
+    "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 7 Human Resources \u2013 Internships"
   },
   {
     "id": "e7b1e2dca5dc",
@@ -429,7 +429,7 @@
     "was": "restrictive",
     "now": null,
     "reason": "Same defect as the axis correction on this id: with no derivable fiscal direction, no polarity is asserted.",
-    "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 7 Human Resources – Internships"
+    "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 7 Human Resources \u2013 Internships"
   },
   {
     "id": "17e2790f8249",
@@ -437,7 +437,7 @@
     "was": "business-case",
     "now": null,
     "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86/ea03954e4926). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
-    "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 8 Information Technology – Digital Transformation"
+    "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 8 Information Technology \u2013 Digital Transformation"
   },
   {
     "id": "17e2790f8249",
@@ -445,7 +445,7 @@
     "was": "restrictive",
     "now": null,
     "reason": "Same defect as the axis correction on this id: with no derivable fiscal direction, no polarity is asserted.",
-    "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 8 Information Technology – Digital Transformation"
+    "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 8 Information Technology \u2013 Digital Transformation"
   },
   {
     "id": "45e004c6a94d",
@@ -517,7 +517,7 @@
     "was": "business-case",
     "now": null,
     "reason": "Round-4 gate item 3 (business-case axis sign-derivation sweep, scripts/election/sweep-business-case-levy.py): this business-case motion's full text (re-extracted from the raw meeting JSON, not the batch quote alone) carries NO 'Tax Levy' dollar line at all -- no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (an 'included/excluded' label pools fiscally opposite effects, per the defect already fixed on 18633398dd86/ea03954e4926). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
-    "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix C, Ref # - 5 Capital Financing – Climate Change Reserve Fund Contribution"
+    "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix C, Ref # - 5 Capital Financing \u2013 Climate Change Reserve Fund Contribution"
   },
   {
     "id": "57b785c0afb3",
@@ -525,7 +525,7 @@
     "was": "restrictive",
     "now": null,
     "reason": "Same defect as the axis correction on this id: with no derivable fiscal direction, no polarity is asserted.",
-    "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix C, Ref # - 5 Capital Financing – Climate Change Reserve Fund Contribution"
+    "quote": "Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix C, Ref # - 5 Capital Financing \u2013 Climate Change Reserve Fund Contribution"
   },
   {
     "id": "c975eb034a57",
@@ -533,7 +533,7 @@
     "was": "target-strength",
     "now": null,
     "reason": "Round-4 gate item 5: this motion (Business Case #P-56, reducing the Climate Change Invest Fund contribution to a flat $1 million/year and using the savings to offset transit-hours funding) was published as climate/target-strength -- 'weakened a climate or environmental target' -- for 11 named yeas. A funding-level cut is not a target change: no numeric emissions/renewable/net-zero target is set, raised, or lowered anywhere in the clause (the classify pipeline's own verifierNote already flagged this as 'a loose fit'). Checked against item 3's rule (scripts/election/sweep-business-case-levy.py): the full motion text carries no 'Tax Levy' dollar line (only an 'annual contribution of $1 million' figure, with no sign showing whether that is an increase or decrease from the prior contribution), so it is not sign-derivable onto levy-size either. Downgraded to unclear rather than publishing a false target-strength claim.",
-    "quote": "the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED by reducing the funding to Initiative 3.b – Climate Change Invest (CCI) Fund of Business Case # P-56 – Climate Emergency Action Plan (CEAP) Implementation Support to an annual contribution of $1 million"
+    "quote": "the Mayor\u2019s 2024-2027 Multi-Year Budget BE AMENDED by reducing the funding to Initiative 3.b \u2013 Climate Change Invest (CCI) Fund of Business Case # P-56 \u2013 Climate Emergency Action Plan (CEAP) Implementation Support to an annual contribution of $1 million"
   },
   {
     "id": "c975eb034a57",
@@ -541,6 +541,86 @@
     "was": "restrictive",
     "now": null,
     "reason": "Same defect as the axis correction on this id: a funding-level change with no derivable fiscal sign and no target changed carries no polarity on any tracked climate axis.",
-    "quote": "the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED by reducing the funding to Initiative 3.b – Climate Change Invest (CCI) Fund of Business Case # P-56 – Climate Emergency Action Plan (CEAP) Implementation Support to an annual contribution of $1 million"
+    "quote": "the Mayor\u2019s 2024-2027 Multi-Year Budget BE AMENDED by reducing the funding to Initiative 3.b \u2013 Climate Change Invest (CCI) Fund of Business Case # P-56 \u2013 Climate Emergency Action Plan (CEAP) Implementation Support to an annual contribution of $1 million"
+  },
+  {
+    "id": "0f1b08e86421",
+    "field": "axis",
+    "was": "business-case",
+    "now": null,
+    "reason": "Round-5 gate item 0 (wiring data/election/classify/batch-returning-verified.json into the verified-classification loader surfaced this business-case-axis motion for the first time -- it predates round-4's sweep-business-case-levy.py, which only ran over the batches that existed then) + re-run of that same sweep now that the returning batch is wired in: this motion directs Civic Administration to PREPARE a business case (a scoping/drafting instruction), not a motion to include or exclude an already-costed case -- its full text (re-extracted from the raw meeting JSON) carries NO 'Tax Levy' dollar line at all, so there is no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (same defect already fixed on the 22 other business-case rows via corrections.json). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
+    "quote": "That the Civic Administration BE DIRECTED to prepare business cases for the following for consideration during the Multi-Year Budget deliberations: a) New Funding, Existing Strategies related to: i) Coves Silver Creek Restoration Project"
+  },
+  {
+    "id": "0f1b08e86421",
+    "field": "polarity",
+    "was": "expansive",
+    "now": null,
+    "reason": "Same defect as the axis correction on this id: with no derivable fiscal direction, no polarity is asserted.",
+    "quote": "That the Civic Administration BE DIRECTED to prepare business cases for the following for consideration during the Multi-Year Budget deliberations: a) New Funding, Existing Strategies related to: i) Coves Silver Creek Restoration Project"
+  },
+  {
+    "id": "86b1bf237179",
+    "field": "axis",
+    "was": "business-case",
+    "now": null,
+    "reason": "Round-5 gate item 0 (wiring data/election/classify/batch-returning-verified.json into the verified-classification loader surfaced this business-case-axis motion for the first time -- it predates round-4's sweep-business-case-levy.py, which only ran over the batches that existed then) + re-run of that same sweep now that the returning batch is wired in: this motion directs Civic Administration to PREPARE a business case (a scoping/drafting instruction), not a motion to include or exclude an already-costed case -- its full text (re-extracted from the raw meeting JSON) carries NO 'Tax Levy' dollar line at all, so there is no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (same defect already fixed on the 22 other business-case rows via corrections.json). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
+    "quote": "Motion to approve a) ii)\nii)  Invasive Species Management Plan;"
+  },
+  {
+    "id": "86b1bf237179",
+    "field": "polarity",
+    "was": "expansive",
+    "now": null,
+    "reason": "Same defect as the axis correction on this id: with no derivable fiscal direction, no polarity is asserted.",
+    "quote": "Motion to approve a) ii)\nii)  Invasive Species Management Plan;"
+  },
+  {
+    "id": "9547b52b37af",
+    "field": "axis",
+    "was": "business-case",
+    "now": null,
+    "reason": "Round-5 gate item 0 (wiring data/election/classify/batch-returning-verified.json into the verified-classification loader surfaced this business-case-axis motion for the first time -- it predates round-4's sweep-business-case-levy.py, which only ran over the batches that existed then) + re-run of that same sweep now that the returning batch is wired in: this motion directs Civic Administration to PREPARE a business case (a scoping/drafting instruction), not a motion to include or exclude an already-costed case -- its full text (re-extracted from the raw meeting JSON) carries NO 'Tax Levy' dollar line at all, so there is no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (same defect already fixed on the 22 other business-case rows via corrections.json). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
+    "quote": "Motion to approve part c) ii)\nc) Reduction Cases:\nii)  Reduction in frequency of grass cutting on city property;"
+  },
+  {
+    "id": "9547b52b37af",
+    "field": "polarity",
+    "was": "expansive",
+    "now": null,
+    "reason": "Same defect as the axis correction on this id: with no derivable fiscal direction, no polarity is asserted.",
+    "quote": "Motion to approve part c) ii)\nc) Reduction Cases:\nii)  Reduction in frequency of grass cutting on city property;"
+  },
+  {
+    "id": "9705aa6da1dc",
+    "field": "axis",
+    "was": "business-case",
+    "now": null,
+    "reason": "Round-5 gate item 0 (wiring data/election/classify/batch-returning-verified.json into the verified-classification loader surfaced this business-case-axis motion for the first time -- it predates round-4's sweep-business-case-levy.py, which only ran over the batches that existed then) + re-run of that same sweep now that the returning batch is wired in: this motion directs Civic Administration to PREPARE a business case (a scoping/drafting instruction), not a motion to include or exclude an already-costed case -- its full text (re-extracted from the raw meeting JSON) carries NO 'Tax Levy' dollar line at all, so there is no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (same defect already fixed on the 22 other business-case rows via corrections.json). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
+    "quote": "Motion to approve a) iii)\niii) Climate Emergency Action Plan;"
+  },
+  {
+    "id": "9705aa6da1dc",
+    "field": "polarity",
+    "was": "expansive",
+    "now": null,
+    "reason": "Same defect as the axis correction on this id: with no derivable fiscal direction, no polarity is asserted.",
+    "quote": "Motion to approve a) iii)\niii) Climate Emergency Action Plan;"
+  },
+  {
+    "id": "a3765ca3c05a",
+    "field": "axis",
+    "was": "business-case",
+    "now": null,
+    "reason": "Round-5 gate item 0 (wiring data/election/classify/batch-returning-verified.json into the verified-classification loader surfaced this business-case-axis motion for the first time -- it predates round-4's sweep-business-case-levy.py, which only ran over the batches that existed then) + re-run of that same sweep now that the returning batch is wired in: this motion directs Civic Administration to PREPARE a business case (a scoping/drafting instruction), not a motion to include or exclude an already-costed case -- its full text (re-extracted from the raw meeting JSON) carries NO 'Tax Levy' dollar line at all, so there is no sign to derive a fiscal direction from, and the business-case axis itself is direction-agnostic (same defect already fixed on the 22 other business-case rows via corrections.json). Downgraded to unclear rather than publishing an unsupported fiscal-direction claim.",
+    "quote": "the Civic Administration BE DIRECTED to develop a micromobility services business case, including bike share services, for inclusion in the 2024-2027 Multi-Year Budget process;"
+  },
+  {
+    "id": "a3765ca3c05a",
+    "field": "polarity",
+    "was": "expansive",
+    "now": null,
+    "reason": "Same defect as the axis correction on this id: with no derivable fiscal direction, no polarity is asserted.",
+    "quote": "the Civic Administration BE DIRECTED to develop a micromobility services business case, including bike share services, for inclusion in the 2024-2027 Multi-Year Budget process;"
   }
 ]

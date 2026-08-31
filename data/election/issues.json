@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T16:05:41.075Z",
+  "generatedAt": "2026-08-31T16:57:01.780Z",
   "sourceHash": "b7db59b827637e80",
   "sourceGeneratedAt": "2026-08-31T05:18:27.112Z",
   "cutoffDate": "2023-01-01",
@@ -11,9 +11,9 @@
   "issues": {
     "encampments": {
       "label": "Homelessness & Encampments",
-      "dividedVoteCount": 131,
-      "directionBearingVoteCount": 56,
-      "distinctAgendaItemCount": 56,
+      "dividedVoteCount": 136,
+      "directionBearingVoteCount": 59,
+      "distinctAgendaItemCount": 61,
       "votes": [
         {
           "id": "d7de26f0e678",
@@ -6347,6 +6347,255 @@
             "s-stevenson": "nay",
             "e-peloza": "absent"
           }
+        },
+        {
+          "id": "56da0b282a71",
+          "date": "2023-03-28",
+          "meetingSlug": "months/2023-03/2023-03-28 12th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingTitle": "12th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingType": "Strategic Priorities and Policy Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=c3e9c528-3e7f-490c-9de0-f83a0713cb9b&Agenda=PostMinutes&lang=English",
+          "itemNumber": "4.1",
+          "itemTitle": "Council's Draft 2023-2027 Strategic Plan",
+          "motionText": "That, the Strategic Area of Focus: Housing and Homelessness, Outcome 3, Expected Result 3.1, BE AMENDED in the 2023-2027 Strategic Plan, to add a new Draft Strategy e) \"apply the equity tool considering the people experiencing mobility poverty, consistent with The London Plan\". ADDITIONAL VOTES:",
+          "result": "Motion Passed (9 to 5)",
+          "passed": true,
+          "margin": 4,
+          "tally": {
+            "yea": 9,
+            "nay": 5,
+            "recuse": 0,
+            "absent": 1,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2023-03/2023-03-28 12th Meeting of the Strategic Priorities and Policy Committee#41councils-draft-2023-2027-strategic-plan",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": "application-approval",
+            "valence": 1,
+            "label": "Amended the Housing and Homelessness strategic-area-of-focus section of the Draft 2023-2027 Strategic Plan (Outcome 3, Expected Result 3.1) to add a new Draft Strategy: applying an equity tool that considers people experiencing mobility poverty, consistent with The London Plan.",
+            "axisLabels": {
+              "expansive": "approved the encampment/homelessness item",
+              "restrictive": "denied the encampment/homelessness item"
+            }
+          },
+          "positions": {
+            "j-morgan": "yea",
+            "h-mcalister": "yea",
+            "j-pribil": "yea",
+            "s-trosow": "yea",
+            "c-rahman": "yea",
+            "a-hopkins": "yea",
+            "s-franke": "yea",
+            "e-peloza": "yea",
+            "d-ferreira": "yea",
+            "s-lewis": "nay",
+            "p-cuddy": "nay",
+            "s-stevenson": "nay",
+            "s-lehman": "nay",
+            "s-hillier": "nay",
+            "p-van-meerbergen": "absent"
+          }
+        },
+        {
+          "id": "c0ce799340ac",
+          "date": "2023-03-08",
+          "meetingSlug": "months/2023-03/2023-03-08 11th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingTitle": "11th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingType": "Strategic Priorities and Policy Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=e42fdb6e-9b0d-4b61-95c0-0c5da8045fb0&Agenda=PostMinutes&lang=English",
+          "itemNumber": "4.2",
+          "itemTitle": "(ADDED) Council's Draft 2023-2027 Strategic Plan",
+          "motionText": "That, the Strategic Area of Focus: Housing and Homelessness, Outcome 2, Expected Result 2.4 BE REMOVED and Draft Strategy BE AMENDED to add a new part d) \"Implement a program of proactive rental property compliance blitzes to protect the health and safety of tenants\" under Outcome 1, Expected Result 1.1.",
+          "result": "Motion Passed (8 to 4)",
+          "passed": true,
+          "margin": 4,
+          "tally": {
+            "yea": 8,
+            "nay": 4,
+            "recuse": 0,
+            "absent": 3,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2023-03/2023-03-08 11th Meeting of the Strategic Priorities and Policy Committee#42added-councils-draft-2023-2027-strategic-plan",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": "application-approval",
+            "valence": 1,
+            "label": "Amended the Draft 2023-2027 Strategic Plan's Housing and Homelessness section: removed Expected Result 2.4 (Outcome 2) and added a new Draft Strategy directing 'a program of proactive rental property compliance blitzes to protect the health and safety of tenants' under Outcome 1, Expected Result 1.1.",
+            "axisLabels": {
+              "expansive": "approved the encampment/homelessness item",
+              "restrictive": "denied the encampment/homelessness item"
+            }
+          },
+          "positions": {
+            "j-morgan": "yea",
+            "s-lewis": "yea",
+            "p-cuddy": "yea",
+            "s-stevenson": "yea",
+            "j-pribil": "yea",
+            "c-rahman": "yea",
+            "s-lehman": "yea",
+            "s-hillier": "yea",
+            "h-mcalister": "nay",
+            "a-hopkins": "nay",
+            "s-franke": "nay",
+            "d-ferreira": "nay",
+            "s-trosow": "absent",
+            "p-van-meerbergen": "absent",
+            "e-peloza": "absent"
+          }
+        },
+        {
+          "id": "0c53add88983",
+          "date": "2023-02-28",
+          "meetingSlug": "months/2023-02/2023-02-28 10th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingTitle": "10th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingType": "Strategic Priorities and Policy Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=c72cf5cc-e1f5-4092-8cb3-1a77f6bed374&Agenda=PostMinutes&lang=English",
+          "itemNumber": "4.3",
+          "itemTitle": "Developing Council's 2023-2027 Strategic Plan: Draft Metrics",
+          "motionText": "That the Strategic Area of Focus: Housing and Homelessness, Expected Result 2.2, BE AMENDED in the Draft Strategic Plan by adding a new Draft Metric c)",
+          "result": "Motion Failed (4 to 9)",
+          "passed": false,
+          "margin": 5,
+          "tally": {
+            "yea": 4,
+            "nay": 9,
+            "recuse": 0,
+            "absent": 2,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2023-02/2023-02-28 10th Meeting of the Strategic Priorities and Policy Committee#43developing-councils-2023-2027-strategic-plan-draft-metrics",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [
+            "informational_ask"
+          ],
+          "direction": {
+            "axis": null,
+            "label": "Would have added a new Draft Metric c) under the Housing and Homelessness strategic area of focus (Expected Result 2.2) to the Draft 2023-2027 Strategic Plan; the metric's own wording is not captured in the meeting record (the motion text stops after the metric label). Failed 4-9."
+          },
+          "positions": {
+            "h-mcalister": "yea",
+            "a-hopkins": "yea",
+            "s-franke": "yea",
+            "d-ferreira": "yea",
+            "j-morgan": "nay",
+            "s-lewis": "nay",
+            "p-cuddy": "nay",
+            "s-stevenson": "nay",
+            "j-pribil": "nay",
+            "c-rahman": "nay",
+            "s-lehman": "nay",
+            "e-peloza": "nay",
+            "s-hillier": "nay",
+            "s-trosow": "absent",
+            "p-van-meerbergen": "absent"
+          }
+        },
+        {
+          "id": "be02e01cfa4a",
+          "date": "2023-02-28",
+          "meetingSlug": "months/2023-02/2023-02-28 10th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingTitle": "10th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingType": "Strategic Priorities and Policy Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=c72cf5cc-e1f5-4092-8cb3-1a77f6bed374&Agenda=PostMinutes&lang=English",
+          "itemNumber": "4.1",
+          "itemTitle": "Health and Homelessness Summits - Proposed Whole of Community System Response",
+          "motionText": "That the following amendment to the motion, BE APPROVED: e) to read as follows \"the Civic Administration BE DIRECTED to report back monthly to future standing committees on progress updates;\"",
+          "result": "Motion Passed (12 to 2)",
+          "passed": true,
+          "margin": 10,
+          "tally": {
+            "yea": 12,
+            "nay": 2,
+            "recuse": 0,
+            "absent": 1,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2023-02/2023-02-28 10th Meeting of the Strategic Priorities and Policy Committee#41health-and-homelessness-summits---proposed-whole-of-community-system-response",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [
+            "informational_ask"
+          ],
+          "direction": {
+            "axis": null,
+            "label": "Approved an amendment directing Civic Administration to report back monthly to future standing committees on progress updates for the Whole of Community System Response to homelessness -- a reporting-cadence request, not a decision on the response's scale."
+          },
+          "positions": {
+            "j-morgan": "yea",
+            "h-mcalister": "yea",
+            "s-lewis": "yea",
+            "p-cuddy": "yea",
+            "s-stevenson": "yea",
+            "j-pribil": "yea",
+            "c-rahman": "yea",
+            "s-lehman": "yea",
+            "a-hopkins": "yea",
+            "p-van-meerbergen": "yea",
+            "d-ferreira": "yea",
+            "s-hillier": "yea",
+            "s-franke": "nay",
+            "e-peloza": "nay",
+            "s-trosow": "absent"
+          }
+        },
+        {
+          "id": "950e2a392a63",
+          "date": "2023-02-14",
+          "meetingSlug": "months/2023-02/2023-02-14 5th Meeting of City Council",
+          "meetingTitle": "5th Meeting of City Council",
+          "meetingType": "Council",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=5b7b0040-cd35-4f2b-a62d-c46defee95b4&Agenda=PostMinutes&lang=English",
+          "itemNumber": "8.1.10",
+          "itemTitle": "(2.9) Housing Stability Services Purchase of Service Agreement Template (Relates to Bill No. 52)",
+          "motionText": "That, on the recommendation of the Deputy City Manager, Social and Health Development, the proposed by-law, as appended to the staff report dated January 31, 2023, BE INTRODUCED at the Municipal Council meeting to be held on February 14, 2023, to: a)    approve the Municipal Purchase of Service Agreement, as appended to the above-noted by-law, as the standard form of agreement with respect to the purchase of homeless prevention and housing stability services by The Corporation of the City of Lon",
+          "result": "Motion Passed (14 to 1)",
+          "passed": true,
+          "margin": 13,
+          "tally": {
+            "yea": 14,
+            "nay": 1,
+            "recuse": 0,
+            "absent": 0,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2023-02/2023-02-14 5th Meeting of City Council#811029-housing-stability-services-purchase-of-service-agreement-template-relates-to-bill-no-52",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": "application-approval",
+            "valence": 1,
+            "label": "Approved introducing the by-law adopting the standard-form Municipal Purchase of Service Agreement for buying homeless-prevention and housing-stability services, and delegated authority to the Deputy City Manager, Social and Health Development to execute and amend such agreements within existing budget and without increasing the City's indebtedness.",
+            "axisLabels": {
+              "expansive": "approved the encampment/homelessness item",
+              "restrictive": "denied the encampment/homelessness item"
+            }
+          },
+          "positions": {
+            "j-morgan": "yea",
+            "h-mcalister": "yea",
+            "s-lewis": "yea",
+            "p-cuddy": "yea",
+            "j-pribil": "yea",
+            "s-trosow": "yea",
+            "c-rahman": "yea",
+            "s-lehman": "yea",
+            "a-hopkins": "yea",
+            "p-van-meerbergen": "yea",
+            "s-franke": "yea",
+            "e-peloza": "yea",
+            "d-ferreira": "yea",
+            "s-hillier": "yea",
+            "s-stevenson": "nay"
+          }
         }
       ]
     },
@@ -7922,9 +8171,9 @@
     },
     "downtown": {
       "label": "Downtown & Core",
-      "dividedVoteCount": 24,
-      "directionBearingVoteCount": 15,
-      "distinctAgendaItemCount": 16,
+      "dividedVoteCount": 25,
+      "directionBearingVoteCount": 16,
+      "distinctAgendaItemCount": 17,
       "votes": [
         {
           "id": "24de6cc4c320",
@@ -9101,14 +9350,65 @@
             "e-peloza": "absent",
             "s-hillier": "absent"
           }
+        },
+        {
+          "id": "93cf1341956d",
+          "date": "2023-05-30",
+          "meetingSlug": "months/2023-05/2023-05-30 16th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingTitle": "16th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingType": "Strategic Priorities and Policy Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3a313960-d415-437b-91fe-ff55c67cfebe&Agenda=PostMinutes&lang=English",
+          "itemNumber": "2.2",
+          "itemTitle": "Core Area Land and Building Vacancy Reduction Strategy",
+          "motionText": "Motion to approve part e) of the clause: e)  the above-noted Core Area Land and Building Vacancy Reduction Strategy BE REVISED to include the following: i)    for buildings with floor plates that are deemed feasible for conversion to residential use, immediate actions be undertaken to facilitate the quick conversion of these areas;\n\nii)    for buildings with floor plates that are not deemed feasible for conversion to residential use; focus on creating spaces for local communities including studi",
+          "result": "Motion Failed (4 to 8)",
+          "passed": false,
+          "margin": 4,
+          "tally": {
+            "yea": 4,
+            "nay": 8,
+            "recuse": 0,
+            "absent": 3,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2023-05/2023-05-30 16th Meeting of the Strategic Priorities and Policy Committee#22core-area-land-and-building-vacancy-reduction-strategy",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": "application-approval",
+            "valence": 1,
+            "label": "Would have revised the Core Area Land and Building Vacancy Reduction Strategy to direct: facilitating quick conversion of vacant downtown floor plates deemed feasible for residential use; creating community/creative spaces (studios, galleries, rehearsal space, pop-up uses) in floor plates not suited to residential conversion; and considering adaptive reuse of vacant downtown lands and B/C-type structures for targeted uses such as R&D, film production, and digital services. Failed 4-8.",
+            "axisLabels": {
+              "expansive": "approved the downtown/core-area item",
+              "restrictive": "denied the downtown/core-area item"
+            }
+          },
+          "positions": {
+            "s-trosow": "yea",
+            "a-hopkins": "yea",
+            "s-franke": "yea",
+            "d-ferreira": "yea",
+            "j-morgan": "nay",
+            "s-lewis": "nay",
+            "p-cuddy": "nay",
+            "j-pribil": "nay",
+            "c-rahman": "nay",
+            "s-lehman": "nay",
+            "e-peloza": "nay",
+            "s-hillier": "nay",
+            "h-mcalister": "absent",
+            "s-stevenson": "absent",
+            "p-van-meerbergen": "absent"
+          }
         }
       ]
     },
     "transit": {
       "label": "Transit & Roads",
-      "dividedVoteCount": 61,
-      "directionBearingVoteCount": 38,
-      "distinctAgendaItemCount": 44,
+      "dividedVoteCount": 64,
+      "directionBearingVoteCount": 41,
+      "distinctAgendaItemCount": 47,
       "votes": [
         {
           "id": "b206f4de942a",
@@ -12050,14 +12350,158 @@
             "p-cuddy": "absent",
             "e-peloza": "absent"
           }
+        },
+        {
+          "id": "7346985bd070",
+          "date": "2023-02-14",
+          "meetingSlug": "months/2023-02/2023-02-14 5th Meeting of City Council",
+          "meetingTitle": "5th Meeting of City Council",
+          "meetingType": "Council",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=5b7b0040-cd35-4f2b-a62d-c46defee95b4&Agenda=PostMinutes&lang=English",
+          "itemNumber": "8.2.6",
+          "itemTitle": "(2.5) Contract Award: Tender No. RFT-2022-248 Rapid Transit Implementation - Wellington Street from Queens Avenue to the Thames River (South Branch) - Irregular Result",
+          "motionText": "That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report, dated January 31, 2023, related to the award of contracts for Rapid Transit Implementation – Wellington Street from Queens Avenue to the Thames River (South Branch) project: a)     the bid submitted by Bre-Ex Construction Inc., at its tendered price of $28,540,331.45 (excluding HST), for the Rapid Transit Implementation – Wellington Street from ",
+          "result": "Motion Passed (14 to 1)",
+          "passed": true,
+          "margin": 13,
+          "tally": {
+            "yea": 14,
+            "nay": 1,
+            "recuse": 0,
+            "absent": 0,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2023-02/2023-02-14 5th Meeting of City Council#82625-contract-award-tender-no-rft-2022-248-rapid-transit-implementation---wellington-street-from-queens-avenue-to-the-thames-river-south-branch---irregular-result",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": "application-approval",
+            "valence": 1,
+            "label": "Approved awarding the Rapid Transit Implementation contract (Wellington Street, Queens Avenue to the Thames River South Branch) to Bre-Ex Construction Inc. at $28,540,331.45, despite the bid exceeding the Downtown Loop Phase 3 project budget (an irregular result), and authorized the related inspection, financing, and administrative acts.",
+            "axisLabels": {
+              "expansive": "approved the transit/roads item",
+              "restrictive": "denied the transit/roads item"
+            }
+          },
+          "positions": {
+            "j-morgan": "yea",
+            "h-mcalister": "yea",
+            "s-lewis": "yea",
+            "p-cuddy": "yea",
+            "s-stevenson": "yea",
+            "j-pribil": "yea",
+            "s-trosow": "yea",
+            "c-rahman": "yea",
+            "s-lehman": "yea",
+            "a-hopkins": "yea",
+            "s-franke": "yea",
+            "e-peloza": "yea",
+            "d-ferreira": "yea",
+            "s-hillier": "yea",
+            "p-van-meerbergen": "nay"
+          }
+        },
+        {
+          "id": "e9bc755a8186",
+          "date": "2023-01-31",
+          "meetingSlug": "months/2023-01/2023-01-31 The 3rd Meeting of the Civic Works Committee",
+          "meetingTitle": "The 3rd Meeting of the Civic Works Committee",
+          "meetingType": "Civic Works Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=6079bde6-9b08-4952-9032-6183b5ff5300&Agenda=PostMinutes&lang=English",
+          "itemNumber": "2.5",
+          "itemTitle": "Contract Award: Tender No. RFT-2022-248 Rapid Transit Implementation – Wellington Street from Queens Avenue to the Thames River (South Branch) – Irregular Result",
+          "motionText": "That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report, dated January 31, 2023, related to the award of contracts for Rapid Transit Implementation – Wellington Street from Queens Avenue to the Thames River (South Branch) project: a)     the bid submitted by Bre-Ex Construction Inc., at its tendered price of $28,540,331.45 (excluding HST), for the Rapid Transit Implementation – Wellington Street from ",
+          "result": "Motion Passed (4 to 1)",
+          "passed": true,
+          "margin": 3,
+          "tally": {
+            "yea": 4,
+            "nay": 1,
+            "recuse": 0,
+            "absent": 1,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2023-01/2023-01-31 The 3rd Meeting of the Civic Works Committee#25contract-award-tender-no-rft-2022-248-rapid-transit-implementation--wellington-street-from-queens-avenue-to-the-thames-river-south-branch--irregular-result",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": "application-approval",
+            "valence": 1,
+            "label": "Approved awarding the Rapid Transit Implementation contract (Wellington Street, Queens Avenue to the Thames River South Branch) to Bre-Ex Construction Inc. at $28,540,331.45, despite the bid exceeding the Downtown Loop Phase 3 project budget (an irregular result), and authorized the related inspection, financing, and administrative acts. (Committee-stage vote; the same recommendation returned to Council as item 8.2.6.)",
+            "axisLabels": {
+              "expansive": "approved the transit/roads item",
+              "restrictive": "denied the transit/roads item"
+            }
+          },
+          "positions": {
+            "h-mcalister": "yea",
+            "p-cuddy": "yea",
+            "s-trosow": "yea",
+            "c-rahman": "yea",
+            "p-van-meerbergen": "nay",
+            "j-morgan": "absent"
+          }
+        },
+        {
+          "id": "d0cbb048480e",
+          "date": "2023-01-23",
+          "meetingSlug": "months/2023-01/2023-01-23 7th Meeting of the Strategic Priorities and Policy Committee - Special Meeting",
+          "meetingTitle": "7th Meeting of the Strategic Priorities and Policy Committee - Special Meeting",
+          "meetingType": "Strategic Priorities and Policy Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=4812aa40-07f0-4604-a9d6-d19904166de1&Agenda=PostMinutes&lang=English",
+          "itemNumber": "4.1",
+          "itemTitle": "Developing the 2023-2027 Strategic Plan: Setting the Strategic Areas of Focus, Outcomes and Expected Results",
+          "motionText": "That the draft \"Wellbeing and Safety\" strategic focus Outcome 1, Expected Results, part e) of Outcome 1, BE APPROVED. e)  Improved traffic safety, traffic calming",
+          "result": "Motion Passed (13 to 1)",
+          "passed": true,
+          "margin": 12,
+          "tally": {
+            "yea": 13,
+            "nay": 1,
+            "recuse": 0,
+            "absent": 1,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2023-01/2023-01-23 7th Meeting of the Strategic Priorities and Policy Committee - Special Meeting#41developing-the-2023-2027-strategic-plan-setting-the-strategic-areas-of-focus-outcomes-and-expected-results",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": "application-approval",
+            "valence": 1,
+            "label": "Approved Expected Result e) of the Wellbeing and Safety strategic focus area (Outcome 1) in the Draft 2023-2027 Strategic Plan: 'Improved traffic safety, traffic calming' -- an aspirational plan statement, not a specific traffic-calming project.",
+            "axisLabels": {
+              "expansive": "approved the transit/roads item",
+              "restrictive": "denied the transit/roads item"
+            }
+          },
+          "positions": {
+            "j-morgan": "yea",
+            "h-mcalister": "yea",
+            "s-lewis": "yea",
+            "p-cuddy": "yea",
+            "s-stevenson": "yea",
+            "j-pribil": "yea",
+            "c-rahman": "yea",
+            "s-lehman": "yea",
+            "a-hopkins": "yea",
+            "s-franke": "yea",
+            "e-peloza": "yea",
+            "d-ferreira": "yea",
+            "s-hillier": "yea",
+            "s-trosow": "nay",
+            "p-van-meerbergen": "absent"
+          }
         }
       ]
     },
     "budget": {
       "label": "Taxes & Budget",
-      "dividedVoteCount": 114,
-      "directionBearingVoteCount": 77,
-      "distinctAgendaItemCount": 76,
+      "dividedVoteCount": 131,
+      "directionBearingVoteCount": 86,
+      "distinctAgendaItemCount": 81,
       "votes": [
         {
           "id": "40970bf1599f",
@@ -17691,14 +18135,847 @@
             "p-van-meerbergen": "nay",
             "j-morgan": "absent"
           }
+        },
+        {
+          "id": "9547b52b37af",
+          "date": "2023-05-30",
+          "meetingSlug": "months/2023-05/2023-05-30 16th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingTitle": "16th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingType": "Strategic Priorities and Policy Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3a313960-d415-437b-91fe-ff55c67cfebe&Agenda=PostMinutes&lang=English",
+          "itemNumber": "4.3",
+          "itemTitle": "Request for Business Cases for the Multi-Year Budget",
+          "motionText": "Motion to approve part c) ii) c) Reduction Cases:\n\n\n\nii)  Reduction in frequency of grass cutting on city property;\n\n\n\nit being noted that the Strategic Priorities and Policy Committee received a communication dated May 19, 2023 from A. Wasylko, Chair, Board of Directors and M. Miksa, Executive Director, London Cycle Link with respect to bicycle infrastructure.",
+          "result": "Motion Failed (6 to 6)",
+          "passed": false,
+          "margin": 0,
+          "tally": {
+            "yea": 6,
+            "nay": 6,
+            "recuse": 0,
+            "absent": 3,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2023-05/2023-05-30 16th Meeting of the Strategic Priorities and Policy Committee#43request-for-business-cases-for-the-multi-year-budget",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": null,
+            "label": "Would have directed Civic Administration to prepare a business case for reducing the frequency of grass cutting on city property (a Reduction Case) for consideration during the 2024-2027 Multi-Year Budget deliberations; failed 6-6."
+          },
+          "positions": {
+            "s-lewis": "yea",
+            "p-cuddy": "yea",
+            "s-trosow": "yea",
+            "c-rahman": "yea",
+            "s-franke": "yea",
+            "d-ferreira": "yea",
+            "j-morgan": "nay",
+            "j-pribil": "nay",
+            "s-lehman": "nay",
+            "a-hopkins": "nay",
+            "e-peloza": "nay",
+            "s-hillier": "nay",
+            "h-mcalister": "absent",
+            "s-stevenson": "absent",
+            "p-van-meerbergen": "absent"
+          }
+        },
+        {
+          "id": "9705aa6da1dc",
+          "date": "2023-05-30",
+          "meetingSlug": "months/2023-05/2023-05-30 16th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingTitle": "16th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingType": "Strategic Priorities and Policy Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3a313960-d415-437b-91fe-ff55c67cfebe&Agenda=PostMinutes&lang=English",
+          "itemNumber": "4.3",
+          "itemTitle": "Request for Business Cases for the Multi-Year Budget",
+          "motionText": "Motion to approve a) iii) iii) Climate Emergency Action Plan;",
+          "result": "Motion Failed (3 to 9)",
+          "passed": false,
+          "margin": 6,
+          "tally": {
+            "yea": 3,
+            "nay": 9,
+            "recuse": 0,
+            "absent": 3,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2023-05/2023-05-30 16th Meeting of the Strategic Priorities and Policy Committee#43request-for-business-cases-for-the-multi-year-budget",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": null,
+            "label": "Would have directed Civic Administration to prepare a business case for the Climate Emergency Action Plan (a New Funding, Existing Strategies item) for consideration during the 2024-2027 Multi-Year Budget deliberations; failed 3-9."
+          },
+          "positions": {
+            "s-trosow": "yea",
+            "s-franke": "yea",
+            "d-ferreira": "yea",
+            "j-morgan": "nay",
+            "s-lewis": "nay",
+            "p-cuddy": "nay",
+            "j-pribil": "nay",
+            "c-rahman": "nay",
+            "s-lehman": "nay",
+            "a-hopkins": "nay",
+            "e-peloza": "nay",
+            "s-hillier": "nay",
+            "h-mcalister": "absent",
+            "s-stevenson": "absent",
+            "p-van-meerbergen": "absent"
+          }
+        },
+        {
+          "id": "86b1bf237179",
+          "date": "2023-05-30",
+          "meetingSlug": "months/2023-05/2023-05-30 16th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingTitle": "16th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingType": "Strategic Priorities and Policy Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3a313960-d415-437b-91fe-ff55c67cfebe&Agenda=PostMinutes&lang=English",
+          "itemNumber": "4.3",
+          "itemTitle": "Request for Business Cases for the Multi-Year Budget",
+          "motionText": "Motion to approve a) ii) ii)  Invasive Species Management Plan;",
+          "result": "Motion Failed (3 to 9)",
+          "passed": false,
+          "margin": 6,
+          "tally": {
+            "yea": 3,
+            "nay": 9,
+            "recuse": 0,
+            "absent": 3,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2023-05/2023-05-30 16th Meeting of the Strategic Priorities and Policy Committee#43request-for-business-cases-for-the-multi-year-budget",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": null,
+            "label": "Would have directed Civic Administration to prepare a business case for an Invasive Species Management Plan (a New Funding, Existing Strategies item) for consideration during the 2024-2027 Multi-Year Budget deliberations; failed 3-9."
+          },
+          "positions": {
+            "s-trosow": "yea",
+            "s-franke": "yea",
+            "d-ferreira": "yea",
+            "j-morgan": "nay",
+            "s-lewis": "nay",
+            "p-cuddy": "nay",
+            "j-pribil": "nay",
+            "c-rahman": "nay",
+            "s-lehman": "nay",
+            "a-hopkins": "nay",
+            "e-peloza": "nay",
+            "s-hillier": "nay",
+            "h-mcalister": "absent",
+            "s-stevenson": "absent",
+            "p-van-meerbergen": "absent"
+          }
+        },
+        {
+          "id": "04ef20f344ee",
+          "date": "2023-05-30",
+          "meetingSlug": "months/2023-05/2023-05-30 16th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingTitle": "16th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingType": "Strategic Priorities and Policy Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3a313960-d415-437b-91fe-ff55c67cfebe&Agenda=PostMinutes&lang=English",
+          "itemNumber": "4.3",
+          "itemTitle": "Request for Business Cases for the Multi-Year Budget",
+          "motionText": "Motion to approve part a) i) That the Civic Administration BE DIRECTED to prepare business cases for the following for consideration during the Multi-Year Budget deliberations:\n\n\n\na) New Funding, Existing Strategies related to:\n\n\n\ni)   Coves Silver Creek Restoration Project;",
+          "result": "Motion Passed (11 to 1)",
+          "passed": true,
+          "margin": 10,
+          "tally": {
+            "yea": 11,
+            "nay": 1,
+            "recuse": 0,
+            "absent": 3,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2023-05/2023-05-30 16th Meeting of the Strategic Priorities and Policy Committee",
+          "anchorAmbiguous": true,
+          "matchedKeywords": [
+            "referral"
+          ],
+          "direction": {
+            "axis": null,
+            "label": "Referred part b)i) -- the request for a business case on a natural heritage lands purchasing strategy (including infrastructure-project compensation requirements) -- to Civic Administration to report back to committee with additional scoping details, rather than deciding on the business-case request now."
+          },
+          "positions": {
+            "j-morgan": "yea",
+            "s-lewis": "yea",
+            "p-cuddy": "yea",
+            "j-pribil": "yea",
+            "s-trosow": "yea",
+            "c-rahman": "yea",
+            "s-lehman": "yea",
+            "a-hopkins": "yea",
+            "s-franke": "yea",
+            "d-ferreira": "yea",
+            "s-hillier": "yea",
+            "e-peloza": "nay",
+            "h-mcalister": "absent",
+            "s-stevenson": "absent",
+            "p-van-meerbergen": "absent"
+          }
+        },
+        {
+          "id": "0f1b08e86421",
+          "date": "2023-05-30",
+          "meetingSlug": "months/2023-05/2023-05-30 16th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingTitle": "16th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingType": "Strategic Priorities and Policy Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3a313960-d415-437b-91fe-ff55c67cfebe&Agenda=PostMinutes&lang=English",
+          "itemNumber": "4.3",
+          "itemTitle": "Request for Business Cases for the Multi-Year Budget",
+          "motionText": "That part b) i), related to the request for a business case for a purchasing natural heritage lands strategy (including compensation requirements for infrastructure projects) BE REFERRED to the Civic Administration in order to report back to the appropriate standing committee with additional scoping details. In accordance with section 33.4 of the Council Procedure By-law, the following text is removed from the motion, with the consent of the committee and at the joint request of the mover and se",
+          "result": "Motion Passed (11 to 1)",
+          "passed": true,
+          "margin": 10,
+          "tally": {
+            "yea": 11,
+            "nay": 1,
+            "recuse": 0,
+            "absent": 3,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2023-05/2023-05-30 16th Meeting of the Strategic Priorities and Policy Committee",
+          "anchorAmbiguous": true,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": null,
+            "label": "Directed Civic Administration to prepare a business case for the Coves Silver Creek Restoration Project (a New Funding, Existing Strategies item) for consideration during the 2024-2027 Multi-Year Budget deliberations."
+          },
+          "positions": {
+            "j-morgan": "yea",
+            "s-lewis": "yea",
+            "p-cuddy": "yea",
+            "j-pribil": "yea",
+            "c-rahman": "yea",
+            "s-lehman": "yea",
+            "a-hopkins": "yea",
+            "s-franke": "yea",
+            "e-peloza": "yea",
+            "d-ferreira": "yea",
+            "s-hillier": "yea",
+            "s-trosow": "nay",
+            "h-mcalister": "absent",
+            "s-stevenson": "absent",
+            "p-van-meerbergen": "absent"
+          }
+        },
+        {
+          "id": "a4abd9e1fa3c",
+          "date": "2023-04-18",
+          "meetingSlug": "months/2023-04/2023-04-18 14th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingTitle": "14th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingType": "Strategic Priorities and Policy Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=e55f2522-82c1-4d5d-a8f2-58f322ad0a54&Agenda=PostMinutes&lang=English",
+          "itemNumber": "4.1",
+          "itemTitle": "2024-2027 Multi-Year Budget",
+          "motionText": "That part b) BE AMENDED to read as follows: b)  the Civic Administration BE ADVISED of the Council desire for Civic Administration to bring forward a draft 2024 to 2027 Multi-year budget with an average annual tax levy increase in the range of approximately 2.9% – 3.9% as identified to maintain existing service levels as well as additional investments of an additional 0.5% in funding for additional investment, for planning purposes;",
+          "result": "Motion Passed (12 to 3)",
+          "passed": true,
+          "margin": 9,
+          "tally": {
+            "yea": 12,
+            "nay": 3,
+            "recuse": 0,
+            "absent": 0,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2023-04/2023-04-18 14th Meeting of the Strategic Priorities and Policy Committee#412024-2027-multi-year-budget",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": "levy-size",
+            "valence": 1,
+            "label": "Advised Civic Administration of Council's desire for the draft 2024-2027 Multi-Year Budget to include an average annual tax-levy increase of approximately 2.9%-3.9% to maintain existing service levels, plus an additional 0.5% for further investment, for planning purposes.",
+            "axisLabels": {
+              "expansive": "increased the tax levy or a budget item",
+              "restrictive": "reduced the tax levy or a budget item"
+            }
+          },
+          "positions": {
+            "j-morgan": "yea",
+            "h-mcalister": "yea",
+            "s-lewis": "yea",
+            "p-cuddy": "yea",
+            "s-stevenson": "yea",
+            "j-pribil": "yea",
+            "c-rahman": "yea",
+            "s-lehman": "yea",
+            "a-hopkins": "yea",
+            "p-van-meerbergen": "yea",
+            "s-franke": "yea",
+            "s-hillier": "yea",
+            "s-trosow": "nay",
+            "e-peloza": "nay",
+            "d-ferreira": "nay"
+          }
+        },
+        {
+          "id": "a3765ca3c05a",
+          "date": "2023-03-07",
+          "meetingSlug": "months/2023-03/2023-03-07 6th Meeting of City Council",
+          "meetingTitle": "6th Meeting of City Council",
+          "meetingType": "Council",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=95f18f86-a669-4842-9ebe-3b7d141136d3&Agenda=PostMinutes&lang=English",
+          "itemNumber": "8.1.5",
+          "itemTitle": "(2.4) Results of the 2022 Bike Share Request for Proposal Process and Next Steps ",
+          "motionText": "Motion to approve part b) b)    the Civic Administration BE DIRECTED to develop a micromobility services business case, including bike share services, for inclusion in the 2024-2027 Multi-Year Budget process;",
+          "result": "Motion Passed (8 to 6)",
+          "passed": true,
+          "margin": 2,
+          "tally": {
+            "yea": 8,
+            "nay": 6,
+            "recuse": 0,
+            "absent": 1,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2023-03/2023-03-07 6th Meeting of City Council#81524-results-of-the-2022-bike-share-request-for-proposal-process-and-next-steps",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": null,
+            "label": "Directed Civic Administration to develop a micromobility services business case, including bike share services, for inclusion in the 2024-2027 Multi-Year Budget process."
+          },
+          "positions": {
+            "j-morgan": "yea",
+            "h-mcalister": "yea",
+            "p-cuddy": "yea",
+            "c-rahman": "yea",
+            "a-hopkins": "yea",
+            "s-franke": "yea",
+            "e-peloza": "yea",
+            "d-ferreira": "yea",
+            "s-lewis": "nay",
+            "s-stevenson": "nay",
+            "j-pribil": "nay",
+            "s-lehman": "nay",
+            "p-van-meerbergen": "nay",
+            "s-hillier": "nay",
+            "s-trosow": "absent"
+          }
+        },
+        {
+          "id": "000f08211725",
+          "date": "2023-01-26",
+          "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
+          "meetingTitle": "8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
+          "meetingType": "Strategic Priorities and Policy Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8bb5f192-e205-457b-bacd-8633cbf8ba93&Agenda=PostMinutes&lang=English",
+          "itemNumber": "4.3",
+          "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
+          "motionText": "That the amended Budget Amendment Case #P-17, in the amount of ($475,00), BE APPROVED h)    Case #P-17 - Capital Financing - Reduction to Previously Approved \"For Consideration\" Business Case - Infrastructure Gap RF Contribution - Operating Expenditure ($475,000); Tax Levy ($475,000).",
+          "result": "Motion Passed (13 to 1)",
+          "passed": true,
+          "margin": 12,
+          "tally": {
+            "yea": 13,
+            "nay": 1,
+            "recuse": 0,
+            "absent": 1,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
+          "anchorAmbiguous": true,
+          "matchedKeywords": [
+            "referral"
+          ],
+          "direction": {
+            "axis": null,
+            "label": "Referred consideration of Budget Amendment Case #P-15 -- a proposed $250,000 increase to the Neighbourhood Decision Making Program -- to the next Multi-Year Budget process (2024-2027), rather than deciding it in the 2023 update."
+          },
+          "positions": {
+            "j-morgan": "yea",
+            "h-mcalister": "yea",
+            "s-lewis": "yea",
+            "p-cuddy": "yea",
+            "s-stevenson": "yea",
+            "j-pribil": "yea",
+            "s-trosow": "yea",
+            "c-rahman": "yea",
+            "s-lehman": "yea",
+            "p-van-meerbergen": "yea",
+            "s-franke": "yea",
+            "e-peloza": "yea",
+            "d-ferreira": "yea",
+            "a-hopkins": "nay",
+            "s-hillier": "absent"
+          }
+        },
+        {
+          "id": "fd27307f45a8",
+          "date": "2023-01-26",
+          "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
+          "meetingTitle": "8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
+          "meetingType": "Strategic Priorities and Policy Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8bb5f192-e205-457b-bacd-8633cbf8ba93&Agenda=PostMinutes&lang=English",
+          "itemNumber": "4.3",
+          "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
+          "motionText": "That Budget Amendment Case #P-17 BE AMENDED to be in the amount of ($ 475,000).",
+          "result": "Motion Passed (13 to 1)",
+          "passed": true,
+          "margin": 12,
+          "tally": {
+            "yea": 13,
+            "nay": 1,
+            "recuse": 0,
+            "absent": 1,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
+          "anchorAmbiguous": true,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": "levy-size",
+            "valence": -1,
+            "label": "Approved Budget Amendment Case #P-17 (as amended to $475,000): reduced the Infrastructure Gap Reserve Fund contribution under Capital Financing by $475,000, cutting the operating budget and tax levy by the same amount.",
+            "axisLabels": {
+              "expansive": "increased the tax levy or a budget item",
+              "restrictive": "reduced the tax levy or a budget item"
+            }
+          },
+          "positions": {
+            "j-morgan": "yea",
+            "h-mcalister": "yea",
+            "s-lewis": "yea",
+            "p-cuddy": "yea",
+            "s-stevenson": "yea",
+            "j-pribil": "yea",
+            "s-trosow": "yea",
+            "c-rahman": "yea",
+            "s-lehman": "yea",
+            "p-van-meerbergen": "yea",
+            "s-franke": "yea",
+            "e-peloza": "yea",
+            "d-ferreira": "yea",
+            "a-hopkins": "nay",
+            "s-hillier": "absent"
+          }
+        },
+        {
+          "id": "b7f876655a41",
+          "date": "2023-01-26",
+          "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
+          "meetingTitle": "8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
+          "meetingType": "Strategic Priorities and Policy Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8bb5f192-e205-457b-bacd-8633cbf8ba93&Agenda=PostMinutes&lang=English",
+          "itemNumber": "4.3",
+          "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
+          "motionText": "That the motion related to the approval of Budget Amendment Case #P-16, as amended, BE APPROVED: “That the following actions be taken with respect to the 2023 Annual Budget Update: g)    Case #P-16 - Community Improvement/BIA - Funding for the Hamilton Road BIA - Operating Expenditure $100,000; Tax Levy $100,000 BE APPROVED; and that the general tax levy funding to Business Improvement Areas BE REVIEWED in conjunction with the consideration of future multi-year budgets, and during this term of C",
+          "result": "Motion Passed (11 to 3)",
+          "passed": true,
+          "margin": 8,
+          "tally": {
+            "yea": 11,
+            "nay": 3,
+            "recuse": 0,
+            "absent": 1,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
+          "anchorAmbiguous": true,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": "levy-size",
+            "valence": 1,
+            "label": "Approved, as amended, Budget Amendment Case #P-16: added $100,000 in new operating funding (and a matching tax-levy increase) for the Hamilton Road Business Improvement Area, and directed that general tax-levy funding to Business Improvement Areas be reviewed during future multi-year budget processes and in this term of Council in 2026.",
+            "axisLabels": {
+              "expansive": "increased the tax levy or a budget item",
+              "restrictive": "reduced the tax levy or a budget item"
+            }
+          },
+          "positions": {
+            "j-morgan": "yea",
+            "h-mcalister": "yea",
+            "s-lewis": "yea",
+            "p-cuddy": "yea",
+            "j-pribil": "yea",
+            "s-trosow": "yea",
+            "c-rahman": "yea",
+            "s-lehman": "yea",
+            "a-hopkins": "yea",
+            "s-franke": "yea",
+            "d-ferreira": "yea",
+            "s-stevenson": "nay",
+            "p-van-meerbergen": "nay",
+            "e-peloza": "nay",
+            "s-hillier": "absent"
+          }
+        },
+        {
+          "id": "3e356dd3852a",
+          "date": "2023-01-26",
+          "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
+          "meetingTitle": "8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
+          "meetingType": "Strategic Priorities and Policy Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8bb5f192-e205-457b-bacd-8633cbf8ba93&Agenda=PostMinutes&lang=English",
+          "itemNumber": "4.3",
+          "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
+          "motionText": "That consideration of Budget Amendment P-15 BE REFERRED to the next multi-year budget process 2024-2027 Case #P-15 - Neighbourhood Strategic Initiatives and Funding - Increase to Neighbourhood Decision Making Program - Operating Expenditure $250,000; Tax Levy $250,000",
+          "result": "Motion Passed (13 to 1)",
+          "passed": true,
+          "margin": 12,
+          "tally": {
+            "yea": 13,
+            "nay": 1,
+            "recuse": 0,
+            "absent": 1,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
+          "anchorAmbiguous": true,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": "levy-size",
+            "valence": -1,
+            "label": "Amended Budget Amendment Case #P-17 (Capital Financing -- Reduction to a previously approved Infrastructure Gap Reserve Fund contribution) to set the reduction amount at $475,000.",
+            "axisLabels": {
+              "expansive": "increased the tax levy or a budget item",
+              "restrictive": "reduced the tax levy or a budget item"
+            }
+          },
+          "positions": {
+            "h-mcalister": "yea",
+            "s-lewis": "yea",
+            "p-cuddy": "yea",
+            "s-stevenson": "yea",
+            "j-pribil": "yea",
+            "s-trosow": "yea",
+            "c-rahman": "yea",
+            "s-lehman": "yea",
+            "a-hopkins": "yea",
+            "p-van-meerbergen": "yea",
+            "s-franke": "yea",
+            "e-peloza": "yea",
+            "d-ferreira": "yea",
+            "j-morgan": "nay",
+            "s-hillier": "absent"
+          }
+        },
+        {
+          "id": "67e8f0bb6a90",
+          "date": "2023-01-26",
+          "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
+          "meetingTitle": "8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
+          "meetingType": "Strategic Priorities and Policy Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8bb5f192-e205-457b-bacd-8633cbf8ba93&Agenda=PostMinutes&lang=English",
+          "itemNumber": "4.3",
+          "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
+          "motionText": "That consideration of Business Case #P-13 - Information Technology - Eliminate Printing of Council Agenda Materials - Operating Expenditure ($8,000); Tax Levy ($8,000) BE REFERRED to the next multi-year budget process, 2024.to 2027.",
+          "result": "Motion Passed (11 to 3)",
+          "passed": true,
+          "margin": 8,
+          "tally": {
+            "yea": 11,
+            "nay": 3,
+            "recuse": 0,
+            "absent": 1,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
+          "anchorAmbiguous": true,
+          "matchedKeywords": [
+            "referral"
+          ],
+          "direction": {
+            "axis": null,
+            "label": "Referred consideration of Business Case #P-13 -- a proposed $8,000 reduction from eliminating printing of Council agenda materials -- to the next Multi-Year Budget process (2024-2027)."
+          },
+          "positions": {
+            "j-morgan": "yea",
+            "p-cuddy": "yea",
+            "s-stevenson": "yea",
+            "j-pribil": "yea",
+            "s-trosow": "yea",
+            "c-rahman": "yea",
+            "a-hopkins": "yea",
+            "p-van-meerbergen": "yea",
+            "s-franke": "yea",
+            "e-peloza": "yea",
+            "d-ferreira": "yea",
+            "h-mcalister": "nay",
+            "s-lewis": "nay",
+            "s-lehman": "nay",
+            "s-hillier": "absent"
+          }
+        },
+        {
+          "id": "192cc16c866a",
+          "date": "2023-01-26",
+          "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
+          "meetingTitle": "8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
+          "meetingType": "Strategic Priorities and Policy Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8bb5f192-e205-457b-bacd-8633cbf8ba93&Agenda=PostMinutes&lang=English",
+          "itemNumber": "4.3",
+          "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
+          "motionText": "That the following actions be taken with respect to the 2023 Annual Budget Update: c)    Case #P-12 - Community Recreation and Leisure Programs - Reduction to Neighbourhood Playground Program - Operating Expenditure ($250,000); Tax Levy ($250,000) BE APPROVED;",
+          "result": "Motion Failed (0 to 14)",
+          "passed": false,
+          "margin": 14,
+          "tally": {
+            "yea": 0,
+            "nay": 14,
+            "recuse": 0,
+            "absent": 1,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET#43review-of-for-consideration-property-tax-operating-budget-amendments-2023-totals-rounded-to-the-closest-1000",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": "levy-size",
+            "valence": -1,
+            "label": "Would have reduced the tax levy and operating budget by $250,000 by cutting the Neighbourhood Playground Program within Community Recreation and Leisure Programs; failed unanimously 0-14 (program funding retained).",
+            "axisLabels": {
+              "expansive": "increased the tax levy or a budget item",
+              "restrictive": "reduced the tax levy or a budget item"
+            }
+          },
+          "positions": {
+            "j-morgan": "nay",
+            "h-mcalister": "nay",
+            "s-lewis": "nay",
+            "p-cuddy": "nay",
+            "s-stevenson": "nay",
+            "j-pribil": "nay",
+            "s-trosow": "nay",
+            "c-rahman": "nay",
+            "s-lehman": "nay",
+            "a-hopkins": "nay",
+            "p-van-meerbergen": "nay",
+            "s-franke": "nay",
+            "e-peloza": "nay",
+            "d-ferreira": "nay",
+            "s-hillier": "absent"
+          }
+        },
+        {
+          "id": "070efd97b686",
+          "date": "2023-01-26",
+          "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
+          "meetingTitle": "8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
+          "meetingType": "Strategic Priorities and Policy Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8bb5f192-e205-457b-bacd-8633cbf8ba93&Agenda=PostMinutes&lang=English",
+          "itemNumber": "4.3",
+          "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
+          "motionText": "That the following actions be taken with respect to the 2023 Annual Budget Update: b)    Case #P-11 - Parks and Horticulture - Reduction in Horticulture Aesthetics - Operating Expenditure ($200,000); Tax Levy ($200,000) BE APPROVED;",
+          "result": "Motion Passed (11 to 3)",
+          "passed": true,
+          "margin": 8,
+          "tally": {
+            "yea": 11,
+            "nay": 3,
+            "recuse": 0,
+            "absent": 1,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
+          "anchorAmbiguous": true,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": "levy-size",
+            "valence": -1,
+            "label": "Approved Budget Amendment Case #P-11: reduced the tax levy and operating budget by $200,000 by cutting Horticulture Aesthetics service levels within Parks and Horticulture.",
+            "axisLabels": {
+              "expansive": "increased the tax levy or a budget item",
+              "restrictive": "reduced the tax levy or a budget item"
+            }
+          },
+          "positions": {
+            "j-morgan": "yea",
+            "h-mcalister": "yea",
+            "s-lewis": "yea",
+            "p-cuddy": "yea",
+            "j-pribil": "yea",
+            "c-rahman": "yea",
+            "s-lehman": "yea",
+            "a-hopkins": "yea",
+            "p-van-meerbergen": "yea",
+            "s-franke": "yea",
+            "e-peloza": "yea",
+            "s-stevenson": "nay",
+            "s-trosow": "nay",
+            "d-ferreira": "nay",
+            "s-hillier": "absent"
+          }
+        },
+        {
+          "id": "75a10636d5f6",
+          "date": "2023-01-26",
+          "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
+          "meetingTitle": "8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
+          "meetingType": "Strategic Priorities and Policy Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8bb5f192-e205-457b-bacd-8633cbf8ba93&Agenda=PostMinutes&lang=English",
+          "itemNumber": "4.3",
+          "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
+          "motionText": "Motion to approve Budget Amendment Case #P-10c – Reduce previously approved additional investment in winter maintenance – Operating Expenditure ($740,000); Tax Levy ($740,000)",
+          "result": "Motion Failed (5 to 9)",
+          "passed": false,
+          "margin": 4,
+          "tally": {
+            "yea": 5,
+            "nay": 9,
+            "recuse": 0,
+            "absent": 1,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET#43review-of-for-consideration-property-tax-operating-budget-amendments-2023-totals-rounded-to-the-closest-1000",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": "levy-size",
+            "valence": -1,
+            "label": "Would have reduced previously approved additional investment in winter maintenance by $740,000 (cutting the operating budget and tax levy by the same amount); failed 5-9.",
+            "axisLabels": {
+              "expansive": "increased the tax levy or a budget item",
+              "restrictive": "reduced the tax levy or a budget item"
+            }
+          },
+          "positions": {
+            "s-lewis": "yea",
+            "p-cuddy": "yea",
+            "s-stevenson": "yea",
+            "s-lehman": "yea",
+            "a-hopkins": "yea",
+            "j-morgan": "nay",
+            "h-mcalister": "nay",
+            "j-pribil": "nay",
+            "s-trosow": "nay",
+            "c-rahman": "nay",
+            "p-van-meerbergen": "nay",
+            "s-franke": "nay",
+            "e-peloza": "nay",
+            "d-ferreira": "nay",
+            "s-hillier": "absent"
+          }
+        },
+        {
+          "id": "950b21d6cef5",
+          "date": "2023-01-26",
+          "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
+          "meetingTitle": "8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
+          "meetingType": "Strategic Priorities and Policy Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8bb5f192-e205-457b-bacd-8633cbf8ba93&Agenda=PostMinutes&lang=English",
+          "itemNumber": "4.3",
+          "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
+          "motionText": "Motion to approve Budget Amendment Case #P-10b – Reduce annual walkway maintenance – Operating Expenditure ($60,000); Tax Levy ($60,000)",
+          "result": "Motion Passed (9 to 5)",
+          "passed": true,
+          "margin": 4,
+          "tally": {
+            "yea": 9,
+            "nay": 5,
+            "recuse": 0,
+            "absent": 1,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET#43review-of-for-consideration-property-tax-operating-budget-amendments-2023-totals-rounded-to-the-closest-1000",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": "levy-size",
+            "valence": -1,
+            "label": "Reduced annual walkway maintenance funding by $60,000 (cutting the operating budget and tax levy by the same amount).",
+            "axisLabels": {
+              "expansive": "increased the tax levy or a budget item",
+              "restrictive": "reduced the tax levy or a budget item"
+            }
+          },
+          "positions": {
+            "j-morgan": "yea",
+            "s-lewis": "yea",
+            "p-cuddy": "yea",
+            "s-stevenson": "yea",
+            "s-trosow": "yea",
+            "a-hopkins": "yea",
+            "p-van-meerbergen": "yea",
+            "s-franke": "yea",
+            "d-ferreira": "yea",
+            "h-mcalister": "nay",
+            "j-pribil": "nay",
+            "c-rahman": "nay",
+            "s-lehman": "nay",
+            "e-peloza": "nay",
+            "s-hillier": "absent"
+          }
+        },
+        {
+          "id": "b18982431ad1",
+          "date": "2023-01-26",
+          "meetingSlug": "months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
+          "meetingTitle": "8th Meeting of the Strategic Priorities and Policy Committee - BUDGET",
+          "meetingType": "Strategic Priorities and Policy Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8bb5f192-e205-457b-bacd-8633cbf8ba93&Agenda=PostMinutes&lang=English",
+          "itemNumber": "4.1",
+          "itemTitle": "Review of Recommended Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)",
+          "motionText": "That Budget Amendment #P-1 BE AMENDED to re-allocate the $225,000 for Downtown Tree Planting and retain for tree planting efforts across the city: it being noted that the amendment would have the following affect: Case #P-1 Excluding downtown tree planting - Various Services  - Budget Right-Sizing - Operating Expenditure ($2,675,000); Tax Levy ($6,356,000); Capital Expenditure ($250,000)",
+          "result": "Motion Failed (7 to 7)",
+          "passed": false,
+          "margin": 0,
+          "tally": {
+            "yea": 7,
+            "nay": 7,
+            "recuse": 0,
+            "absent": 1,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2023-01/2023-01-26 8th Meeting of the Strategic Priorities and Policy Committee - BUDGET#41review-of-recommended-property-tax-operating-budget-amendments-2023-totals-rounded-to-the-closest-1000",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": "application-approval",
+            "valence": 1,
+            "label": "Would have amended Budget Amendment #P-1 to redirect the $225,000 earmarked for Downtown Tree Planting to tree-planting efforts city-wide instead (same total amount, redirected in scope, not a net levy change); failed 7-7.",
+            "axisLabels": {
+              "expansive": "approved the budget item",
+              "restrictive": "denied the budget item"
+            }
+          },
+          "positions": {
+            "h-mcalister": "yea",
+            "s-trosow": "yea",
+            "c-rahman": "yea",
+            "a-hopkins": "yea",
+            "s-franke": "yea",
+            "e-peloza": "yea",
+            "d-ferreira": "yea",
+            "j-morgan": "nay",
+            "s-lewis": "nay",
+            "p-cuddy": "nay",
+            "s-stevenson": "nay",
+            "j-pribil": "nay",
+            "s-lehman": "nay",
+            "p-van-meerbergen": "nay",
+            "s-hillier": "absent"
+          }
         }
       ]
     },
     "climate": {
       "label": "Climate & Green Space",
-      "dividedVoteCount": 35,
-      "directionBearingVoteCount": 14,
-      "distinctAgendaItemCount": 28,
+      "dividedVoteCount": 39,
+      "directionBearingVoteCount": 17,
+      "distinctAgendaItemCount": 31,
       "votes": [
         {
           "id": "b26197dd53d0",
@@ -19341,14 +20618,215 @@
             "s-stevenson": "absent",
             "e-peloza": "absent"
           }
+        },
+        {
+          "id": "459571d81fed",
+          "date": "2023-05-30",
+          "meetingSlug": "months/2023-05/2023-05-30 16th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingTitle": "16th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingType": "Strategic Priorities and Policy Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3a313960-d415-437b-91fe-ff55c67cfebe&Agenda=PostMinutes&lang=English",
+          "itemNumber": "4.1",
+          "itemTitle": "2022 Climate Emergency Action Plan Progress Report",
+          "motionText": "Motion to approve part b) b)  the Civic Administration BE DIRECTED to include the following specific actions as part of the implementation of the Climate Emergency Action Plan (CEAP): i)    develop and deliver CEAP training to all current and future staff through the onboarding and continued learning processes in a manner consistent with current internal learning and development programs (e.g., Anti-Racism, Anti Oppression) to ensure that all staff members understand how to align their work to C",
+          "result": "Motion Passed (11 to 2)",
+          "passed": true,
+          "margin": 9,
+          "tally": {
+            "yea": 11,
+            "nay": 2,
+            "recuse": 0,
+            "absent": 2,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2023-05/2023-05-30 16th Meeting of the Strategic Priorities and Policy Committee#412022-climate-emergency-action-plan-progress-report",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": "application-approval",
+            "valence": 1,
+            "label": "Directed Civic Administration to add specific implementation actions to the Climate Emergency Action Plan (CEAP): deliver CEAP training to all current and future staff, bring a CEAP progress update to the Strategic Priorities and Policy Committee twice a year, develop a Net-Zero Emission Plan for Corporate Assets aimed at 2045 corporate targets, and align asset-management projects (retrofits, replacements, renewals) with those net-zero targets.",
+            "axisLabels": {
+              "expansive": "approved the climate/environmental item",
+              "restrictive": "denied the climate/environmental item"
+            }
+          },
+          "positions": {
+            "j-morgan": "yea",
+            "s-lewis": "yea",
+            "p-cuddy": "yea",
+            "j-pribil": "yea",
+            "s-trosow": "yea",
+            "c-rahman": "yea",
+            "s-lehman": "yea",
+            "a-hopkins": "yea",
+            "s-franke": "yea",
+            "e-peloza": "yea",
+            "d-ferreira": "yea",
+            "p-van-meerbergen": "nay",
+            "s-hillier": "nay",
+            "h-mcalister": "absent",
+            "s-stevenson": "absent"
+          }
+        },
+        {
+          "id": "730abd01f37c",
+          "date": "2023-05-09",
+          "meetingSlug": "months/2023-05/2023-05-09 15th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingTitle": "15th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingType": "Strategic Priorities and Policy Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=faed5cdb-1eaf-4904-adb7-60089b9010e8&Agenda=PostMinutes&lang=English",
+          "itemNumber": "2.1",
+          "itemTitle": "2023 Industrial Land Development Strategy",
+          "motionText": "Motion to approve part d): d)    the Civic Administration BE DIRECTED to undertake an Industrial Land Needs Assessment, which shall include the use of the Climate Emergency Screening Tool; and,",
+          "result": "Motion Passed (12 to 3)",
+          "passed": true,
+          "margin": 9,
+          "tally": {
+            "yea": 12,
+            "nay": 3,
+            "recuse": 0,
+            "absent": 0,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2023-05/2023-05-09 15th Meeting of the Strategic Priorities and Policy Committee#212023-industrial-land-development-strategy",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": "target-strength",
+            "valence": 1,
+            "label": "Directed Civic Administration to undertake an Industrial Land Needs Assessment that includes use of the Climate Emergency Screening Tool.",
+            "axisLabels": {
+              "expansive": "strengthened a climate or environmental target",
+              "restrictive": "weakened a climate or environmental target"
+            }
+          },
+          "positions": {
+            "j-morgan": "yea",
+            "h-mcalister": "yea",
+            "s-lewis": "yea",
+            "s-stevenson": "yea",
+            "j-pribil": "yea",
+            "s-trosow": "yea",
+            "c-rahman": "yea",
+            "s-lehman": "yea",
+            "a-hopkins": "yea",
+            "s-franke": "yea",
+            "e-peloza": "yea",
+            "d-ferreira": "yea",
+            "p-cuddy": "nay",
+            "p-van-meerbergen": "nay",
+            "s-hillier": "nay"
+          }
+        },
+        {
+          "id": "10efee30d126",
+          "date": "2023-05-09",
+          "meetingSlug": "months/2023-05/2023-05-09 15th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingTitle": "15th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingType": "Strategic Priorities and Policy Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=faed5cdb-1eaf-4904-adb7-60089b9010e8&Agenda=PostMinutes&lang=English",
+          "itemNumber": "2.1",
+          "itemTitle": "2023 Industrial Land Development Strategy",
+          "motionText": "That the motion be amended in part d) by removing, \" which shall include the use of the Climate Emergency Screening Tool;\"",
+          "result": "Motion Failed (6 to 9)",
+          "passed": false,
+          "margin": 3,
+          "tally": {
+            "yea": 6,
+            "nay": 9,
+            "recuse": 0,
+            "absent": 0,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2023-05/2023-05-09 15th Meeting of the Strategic Priorities and Policy Committee#212023-industrial-land-development-strategy",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": "target-strength",
+            "valence": -1,
+            "label": "Would have removed the requirement to use the Climate Emergency Screening Tool from the directive for Civic Administration to undertake an Industrial Land Needs Assessment; failed 6-9, leaving the screening-tool requirement in place.",
+            "axisLabels": {
+              "expansive": "strengthened a climate or environmental target",
+              "restrictive": "weakened a climate or environmental target"
+            }
+          },
+          "positions": {
+            "p-cuddy": "yea",
+            "s-stevenson": "yea",
+            "j-pribil": "yea",
+            "s-lehman": "yea",
+            "p-van-meerbergen": "yea",
+            "s-hillier": "yea",
+            "j-morgan": "nay",
+            "h-mcalister": "nay",
+            "s-lewis": "nay",
+            "s-trosow": "nay",
+            "c-rahman": "nay",
+            "a-hopkins": "nay",
+            "s-franke": "nay",
+            "e-peloza": "nay",
+            "d-ferreira": "nay"
+          }
+        },
+        {
+          "id": "a01600ddb427",
+          "date": "2023-02-28",
+          "meetingSlug": "months/2023-02/2023-02-28 10th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingTitle": "10th Meeting of the Strategic Priorities and Policy Committee",
+          "meetingType": "Strategic Priorities and Policy Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=c72cf5cc-e1f5-4092-8cb3-1a77f6bed374&Agenda=PostMinutes&lang=English",
+          "itemNumber": "4.3",
+          "itemTitle": "Developing Council's 2023-2027 Strategic Plan: Draft Metrics",
+          "motionText": "That the Strategic Area of Focus: Climate Action and Sustainable Growth 1.2, BE AMENDED in the Draft Strategic Plan by adding a new Draft Metric i) grade level for watershed.",
+          "result": "Motion Failed (6 to 7)",
+          "passed": false,
+          "margin": 1,
+          "tally": {
+            "yea": 6,
+            "nay": 7,
+            "recuse": 0,
+            "absent": 2,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2023-02/2023-02-28 10th Meeting of the Strategic Priorities and Policy Committee#43developing-councils-2023-2027-strategic-plan-draft-metrics",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [
+            "informational_ask"
+          ],
+          "direction": {
+            "axis": null,
+            "label": "Would have added a new Draft Metric i), 'grade level for watershed,' under the Climate Action and Sustainable Growth strategic area of focus (1.2) of the Draft 2023-2027 Strategic Plan; failed 6-7."
+          },
+          "positions": {
+            "h-mcalister": "yea",
+            "c-rahman": "yea",
+            "a-hopkins": "yea",
+            "s-franke": "yea",
+            "e-peloza": "yea",
+            "d-ferreira": "yea",
+            "j-morgan": "nay",
+            "s-lewis": "nay",
+            "p-cuddy": "nay",
+            "s-stevenson": "nay",
+            "j-pribil": "nay",
+            "s-lehman": "nay",
+            "s-hillier": "nay",
+            "s-trosow": "absent",
+            "p-van-meerbergen": "absent"
+          }
         }
       ]
     },
     "housing": {
       "label": "Housing & Density",
-      "dividedVoteCount": 229,
-      "directionBearingVoteCount": 130,
-      "distinctAgendaItemCount": 160,
+      "dividedVoteCount": 237,
+      "directionBearingVoteCount": 136,
+      "distinctAgendaItemCount": 167,
       "votes": [
         {
           "id": "4c82f95207fe",
@@ -29987,12 +31465,378 @@
             "s-hillier": "nay",
             "s-stevenson": "absent"
           }
+        },
+        {
+          "id": "04c7e4c30cd1",
+          "date": "2023-05-23",
+          "meetingSlug": "months/2023-05/2023-05-23 9th Meeting of the Planning and Environment Committee",
+          "meetingTitle": "9th Meeting of the Planning and Environment Committee",
+          "meetingType": "Planning and Environment Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=a81dd391-0580-4136-8eb8-45c61f0621a2&Agenda=PostMinutes&lang=English",
+          "itemNumber": "3.8",
+          "itemTitle": "129-131 Base Line Road West (Z-9578)",
+          "motionText": "Motion to separate clause a) from the recommendation to be voted on separately: \"a) the revised, attached, proposed by-law appended to the staff report dated May 23, 2023 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting on June 6, 2023, to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan for the City of London, 2016), to change the zoning of the subject lands FROM a Residential R9 (R9-7*H32) Zone TO a Holding Residential R9 Special Provision (h*R9-7(_)*H51) Zone;",
+          "result": "Motion Passed (3 to 1)",
+          "passed": true,
+          "margin": 2,
+          "tally": {
+            "yea": 3,
+            "nay": 1,
+            "recuse": 0,
+            "absent": 2,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2023-05/2023-05-23 9th Meeting of the Planning and Environment Committee#38129-131-base-line-road-west-z-9578",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": "application-approval",
+            "valence": 1,
+            "label": "Approved introducing the by-law to rezone 129-131 Base Line Road West from Residential R9 to a Holding Residential R9 Special Provision zone (Z-9578), voted on as a clause separated out from the rest of the recommendation.",
+            "axisLabels": {
+              "expansive": "approved the development, rezoning, or housing-policy item",
+              "restrictive": "denied the development, rezoning, or housing-policy item"
+            }
+          },
+          "positions": {
+            "s-lewis": "yea",
+            "s-franke": "yea",
+            "s-hillier": "yea",
+            "s-lehman": "nay",
+            "j-morgan": "absent",
+            "a-hopkins": "absent"
+          }
+        },
+        {
+          "id": "eff54431a239",
+          "date": "2023-05-23",
+          "meetingSlug": "months/2023-05/2023-05-23 9th Meeting of the Planning and Environment Committee",
+          "meetingTitle": "9th Meeting of the Planning and Environment Committee",
+          "meetingType": "Planning and Environment Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=a81dd391-0580-4136-8eb8-45c61f0621a2&Agenda=PostMinutes&lang=English",
+          "itemNumber": "3.4",
+          "itemTitle": "Additional Residential Unit Amendments as a Result of More Homes Built Faster Act, 2022 (Bill 23) (OZ-9581)",
+          "motionText": "Motion to add a new clause d) which reads as follows: \"d)  the Civic Administration BE DIRECTED to undertake a review of the current parking and driveway width policies in additional residential units;\"",
+          "result": "Motion Passed (3 to 1)",
+          "passed": true,
+          "margin": 2,
+          "tally": {
+            "yea": 3,
+            "nay": 1,
+            "recuse": 0,
+            "absent": 2,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2023-05/2023-05-23 9th Meeting of the Planning and Environment Committee#34additional-residential-unit-amendments-as-a-result-of-more-homes-built-faster-act-2022-bill-23-oz-9581",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [
+            "informational_ask"
+          ],
+          "direction": {
+            "axis": null,
+            "label": "Directed Civic Administration to review the City's current parking and driveway-width policies for additional residential units, as a new clause added to the OZ-9581 Additional Residential Unit zoning amendments item -- a review request, not a specific parking/driveway standard."
+          },
+          "positions": {
+            "s-lewis": "yea",
+            "s-lehman": "yea",
+            "s-hillier": "yea",
+            "s-franke": "nay",
+            "j-morgan": "absent",
+            "a-hopkins": "absent"
+          }
+        },
+        {
+          "id": "6b989391e04c",
+          "date": "2023-04-04",
+          "meetingSlug": "months/2023-04/2023-04-04 8th Meeting of City Council",
+          "meetingTitle": "8th Meeting of City Council",
+          "meetingType": "Council",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=22a4c14d-6e95-432f-9a24-a7a723d57c76&Agenda=PostMinutes&lang=English",
+          "itemNumber": "8.4.9",
+          "itemTitle": "(3.7) 614 Westmount Crescent (Z-9553) (Relates to Bill No. 116)",
+          "motionText": "Motion to approve part a) of the motion: That, the following actions be taken with respect to the application by LA-Rosa Community Ltd., relating to the property located at 614 Westmount Crescent: a)    the proposed, revised, attached, by-law as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on April 4, 2023 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan for the City of London, 2016), to change the zoning of the subject property FROM a Residential ",
+          "result": "Motion Passed (12 to 1)",
+          "passed": true,
+          "margin": 11,
+          "tally": {
+            "yea": 12,
+            "nay": 1,
+            "recuse": 0,
+            "absent": 2,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2023-04/2023-04-04 8th Meeting of City Council#84937-614-westmount-crescent-z-9553-relates-to-bill-no-116",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": "application-approval",
+            "valence": 1,
+            "label": "Approved introducing the by-law to rezone 614 Westmount Crescent from Residential (R1-9) to Residential R5 Special Provision (R5-5) for a LA-Rosa Community Ltd. townhouse development (Z-9553), with a list of urban-design/site-plan matters (height transition, tree protection, sidewalk installation, amenity space, etc.) flagged for the Site Plan Approval Authority.",
+            "axisLabels": {
+              "expansive": "approved the development, rezoning, or housing-policy item",
+              "restrictive": "denied the development, rezoning, or housing-policy item"
+            }
+          },
+          "positions": {
+            "j-morgan": "yea",
+            "h-mcalister": "yea",
+            "s-lewis": "yea",
+            "p-cuddy": "yea",
+            "s-stevenson": "yea",
+            "j-pribil": "yea",
+            "c-rahman": "yea",
+            "s-lehman": "yea",
+            "a-hopkins": "yea",
+            "s-franke": "yea",
+            "e-peloza": "yea",
+            "s-hillier": "yea",
+            "p-van-meerbergen": "nay",
+            "s-trosow": "absent",
+            "d-ferreira": "absent"
+          }
+        },
+        {
+          "id": "c699eb9cc94f",
+          "date": "2023-02-14",
+          "meetingSlug": "months/2023-02/2023-02-14 5th Meeting of City Council",
+          "meetingTitle": "5th Meeting of City Council",
+          "meetingType": "Council",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=5b7b0040-cd35-4f2b-a62d-c46defee95b4&Agenda=PostMinutes&lang=English",
+          "itemNumber": "8.6.11",
+          "itemTitle": "(3.5) 608 Commissioners Road West (Z-9516) (Relates to Bill No. 67)",
+          "motionText": "That item 11, clause 3.5, as amended, BE APPROVED.",
+          "result": "Motion Passed (12 to 3)",
+          "passed": true,
+          "margin": 9,
+          "tally": {
+            "yea": 12,
+            "nay": 3,
+            "recuse": 0,
+            "absent": 0,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2023-02/2023-02-14 5th Meeting of City Council",
+          "anchorAmbiguous": true,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": "application-approval",
+            "valence": 1,
+            "label": "Approved, as amended, item 11 clause 3.5 of the underlying committee report: introducing the by-law to rezone 608 Commissioners Road West (Z-9516) from Residential (R1-9) to Residential R8 Special Provision (R8-4) for the Zelinka Priamo/Copia Developments application, after the preceding motion to send the application back for reduced height/density had failed.",
+            "axisLabels": {
+              "expansive": "approved the development, rezoning, or housing-policy item",
+              "restrictive": "denied the development, rezoning, or housing-policy item"
+            }
+          },
+          "positions": {
+            "j-morgan": "yea",
+            "h-mcalister": "yea",
+            "s-lewis": "yea",
+            "p-cuddy": "yea",
+            "s-stevenson": "yea",
+            "j-pribil": "yea",
+            "s-trosow": "yea",
+            "c-rahman": "yea",
+            "s-lehman": "yea",
+            "a-hopkins": "yea",
+            "s-franke": "yea",
+            "d-ferreira": "yea",
+            "p-van-meerbergen": "nay",
+            "e-peloza": "nay",
+            "s-hillier": "nay"
+          }
+        },
+        {
+          "id": "a4044aae6238",
+          "date": "2023-02-14",
+          "meetingSlug": "months/2023-02/2023-02-14 5th Meeting of City Council",
+          "meetingTitle": "5th Meeting of City Council",
+          "meetingType": "Council",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=5b7b0040-cd35-4f2b-a62d-c46defee95b4&Agenda=PostMinutes&lang=English",
+          "itemNumber": "8.6.11",
+          "itemTitle": "(3.5) 608 Commissioners Road West (Z-9516) (Relates to Bill No. 67)",
+          "motionText": "That the application for 608 Commissioners Road West (Z-9516) BE REFERRED back to the Civic Administration, in order to work with the applicant and bring forward a revised proposed by-law that would reduce the proposed maximum height to four stories and a maximum density of sixty-four units.",
+          "result": "Motion Failed (5 to 10)",
+          "passed": false,
+          "margin": 5,
+          "tally": {
+            "yea": 5,
+            "nay": 10,
+            "recuse": 0,
+            "absent": 0,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2023-02/2023-02-14 5th Meeting of City Council#861135-608-commissioners-road-west-z-9516-relates-to-bill-no-67",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [
+            "referral"
+          ],
+          "direction": {
+            "axis": null,
+            "label": "Would have referred the 608 Commissioners Road West rezoning application (Z-9516) back to Civic Administration to work with the applicant on a revised by-law reducing the maximum height to four storeys and maximum density to sixty-four units; failed 5-10."
+          },
+          "positions": {
+            "s-lewis": "yea",
+            "p-cuddy": "yea",
+            "p-van-meerbergen": "yea",
+            "e-peloza": "yea",
+            "s-hillier": "yea",
+            "j-morgan": "nay",
+            "h-mcalister": "nay",
+            "s-stevenson": "nay",
+            "j-pribil": "nay",
+            "s-trosow": "nay",
+            "c-rahman": "nay",
+            "s-lehman": "nay",
+            "a-hopkins": "nay",
+            "s-franke": "nay",
+            "d-ferreira": "nay"
+          }
+        },
+        {
+          "id": "cacc4eabf8e7",
+          "date": "2023-02-14",
+          "meetingSlug": "months/2023-02/2023-02-14 5th Meeting of City Council",
+          "meetingTitle": "5th Meeting of City Council",
+          "meetingType": "Council",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=5b7b0040-cd35-4f2b-a62d-c46defee95b4&Agenda=PostMinutes&lang=English",
+          "itemNumber": "8.6.10",
+          "itemTitle": "(3.4) 489 Upper Queen Street (Z-9540) (Relates to Bill No. 66)",
+          "motionText": "That, on the recommendation of the Director, Planning and Development, based on the application by 2863382 Ontario Inc. c/o Siv-ik Planning & Design Inc., relating to the property located at 489 Upper Queen Street, the proposed by-law appended to the staff report dated January 30, 2023 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on February 14, 2023, to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan for the City of London, 2016), to change the z",
+          "result": "Motion Passed (11 to 4)",
+          "passed": true,
+          "margin": 7,
+          "tally": {
+            "yea": 11,
+            "nay": 4,
+            "recuse": 0,
+            "absent": 0,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2023-02/2023-02-14 5th Meeting of City Council#861034-489-upper-queen-street-z-9540-relates-to-bill-no-66",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": "application-approval",
+            "valence": 1,
+            "label": "Approved introducing the by-law to rezone 489 Upper Queen Street from Residential (R1-9) to Residential Special Provision (R5-7), citing conformity with the Provincial Policy Statement and The London Plan, appropriate intensity for the site, and redevelopment of an underutilized, vacant Built-Area-Boundary site.",
+            "axisLabels": {
+              "expansive": "approved the development, rezoning, or housing-policy item",
+              "restrictive": "denied the development, rezoning, or housing-policy item"
+            }
+          },
+          "positions": {
+            "j-morgan": "yea",
+            "h-mcalister": "yea",
+            "s-lewis": "yea",
+            "p-cuddy": "yea",
+            "s-stevenson": "yea",
+            "j-pribil": "yea",
+            "s-trosow": "yea",
+            "c-rahman": "yea",
+            "a-hopkins": "yea",
+            "s-franke": "yea",
+            "d-ferreira": "yea",
+            "s-lehman": "nay",
+            "p-van-meerbergen": "nay",
+            "e-peloza": "nay",
+            "s-hillier": "nay"
+          }
+        },
+        {
+          "id": "7c12069f2f9b",
+          "date": "2023-01-30",
+          "meetingSlug": "months/2023-01/2023-01-30 3rd Meeting of the Planning and Environment Committee",
+          "meetingTitle": "3rd Meeting of the Planning and Environment Committee",
+          "meetingType": "Planning and Environment Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=743f1ed0-c51c-4381-a8a2-04d066cc4ecf&Agenda=PostMinutes&lang=English",
+          "itemNumber": "3.5",
+          "itemTitle": "608 Commissioners Road West (Z-9516)",
+          "motionText": "That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Zelinka Priamo on behalf of Copia Developments, relating to the property located at 608 Commissioners Road West: a) the proposed by-law appended to the staff report dated January 30, 2023 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on February 14, 2023 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan for the C",
+          "result": "Motion Passed (4 to 1)",
+          "passed": true,
+          "margin": 3,
+          "tally": {
+            "yea": 4,
+            "nay": 1,
+            "recuse": 0,
+            "absent": 1,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2023-01/2023-01-30 3rd Meeting of the Planning and Environment Committee#35608-commissioners-road-west-z-9516",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": "application-approval",
+            "valence": 1,
+            "label": "Approved introducing the by-law to rezone 608 Commissioners Road West from Residential (R1-9) to Residential R8 Special Provision (R8-4) for the Zelinka Priamo/Copia Developments application, citing conformity with the Provincial Policy Statement and The London Plan and alignment with the Housing Stability Action Plan's affordable-housing goals.",
+            "axisLabels": {
+              "expansive": "approved the development, rezoning, or housing-policy item",
+              "restrictive": "denied the development, rezoning, or housing-policy item"
+            }
+          },
+          "positions": {
+            "s-lewis": "yea",
+            "s-lehman": "yea",
+            "a-hopkins": "yea",
+            "s-franke": "yea",
+            "s-hillier": "nay",
+            "j-morgan": "absent"
+          }
+        },
+        {
+          "id": "2debd88e147d",
+          "date": "2023-01-30",
+          "meetingSlug": "months/2023-01/2023-01-30 3rd Meeting of the Planning and Environment Committee",
+          "meetingTitle": "3rd Meeting of the Planning and Environment Committee",
+          "meetingType": "Planning and Environment Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=743f1ed0-c51c-4381-a8a2-04d066cc4ecf&Agenda=PostMinutes&lang=English",
+          "itemNumber": "3.4",
+          "itemTitle": "489 Upper Queen Street (Z-9540)",
+          "motionText": "That, on the recommendation of the Director, Planning and Development, based on the application by 2863382 Ontario Inc. c/o Siv-ik Planning & Design Inc., relating to the property located at 489 Upper Queen Street, the proposed by-law appended to the staff report dated January 30, 2023 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on February 14, 2023, to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan for the City of London, 2016), to change the z",
+          "result": "Motion Passed (3 to 2)",
+          "passed": true,
+          "margin": 1,
+          "tally": {
+            "yea": 3,
+            "nay": 2,
+            "recuse": 0,
+            "absent": 1,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2023-01/2023-01-30 3rd Meeting of the Planning and Environment Committee#34489-upper-queen-street-z-9540",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": "application-approval",
+            "valence": 1,
+            "label": "Approved introducing the by-law to rezone 489 Upper Queen Street from Residential (R1-9) to Residential Special Provision (R5-7), citing conformity with the Provincial Policy Statement and The London Plan and redevelopment of an underutilized, vacant Built-Area-Boundary site. (Committee-stage vote; the same recommendation returned to Council as item 8.6.10.)",
+            "axisLabels": {
+              "expansive": "approved the development, rezoning, or housing-policy item",
+              "restrictive": "denied the development, rezoning, or housing-policy item"
+            }
+          },
+          "positions": {
+            "s-lewis": "yea",
+            "a-hopkins": "yea",
+            "s-franke": "yea",
+            "s-lehman": "nay",
+            "s-hillier": "nay",
+            "j-morgan": "absent"
+          }
         }
       ]
     }
   },
   "unclassified": {
-    "count": 546,
+    "count": 508,
     "note": "Divided motions since 2023 the verified classification pass assigned issue 'none' (no tracked issue applies), plus any motion missing a classify entry entirely (tracked separately — see the console warning at generation time; none are guessed at or force-fit into a cluster). All are listed here.",
     "sample": [
       {
@@ -32792,48 +34636,6 @@
         "itemTitle": "Consideration of Appointment to the London Police Services Board"
       },
       {
-        "id": "93cf1341956d",
-        "date": "2023-05-30",
-        "itemNumber": "2.2",
-        "itemTitle": "Core Area Land and Building Vacancy Reduction Strategy"
-      },
-      {
-        "id": "459571d81fed",
-        "date": "2023-05-30",
-        "itemNumber": "4.1",
-        "itemTitle": "2022 Climate Emergency Action Plan Progress Report"
-      },
-      {
-        "id": "0f1b08e86421",
-        "date": "2023-05-30",
-        "itemNumber": "4.3",
-        "itemTitle": "Request for Business Cases for the Multi-Year Budget"
-      },
-      {
-        "id": "04ef20f344ee",
-        "date": "2023-05-30",
-        "itemNumber": "4.3",
-        "itemTitle": "Request for Business Cases for the Multi-Year Budget"
-      },
-      {
-        "id": "86b1bf237179",
-        "date": "2023-05-30",
-        "itemNumber": "4.3",
-        "itemTitle": "Request for Business Cases for the Multi-Year Budget"
-      },
-      {
-        "id": "9705aa6da1dc",
-        "date": "2023-05-30",
-        "itemNumber": "4.3",
-        "itemTitle": "Request for Business Cases for the Multi-Year Budget"
-      },
-      {
-        "id": "9547b52b37af",
-        "date": "2023-05-30",
-        "itemNumber": "4.3",
-        "itemTitle": "Request for Business Cases for the Multi-Year Budget"
-      },
-      {
         "id": "a35bc807442b",
         "date": "2023-05-24",
         "itemNumber": "4.3",
@@ -32852,18 +34654,6 @@
         "itemTitle": "Expropriation of Lands - East London Link Project Phase 3"
       },
       {
-        "id": "eff54431a239",
-        "date": "2023-05-23",
-        "itemNumber": "3.4",
-        "itemTitle": "Additional Residential Unit Amendments as a Result of More Homes Built Faster Act, 2022 (Bill 23) (OZ-9581)"
-      },
-      {
-        "id": "04c7e4c30cd1",
-        "date": "2023-05-23",
-        "itemNumber": "3.8",
-        "itemTitle": "129-131 Base Line Road West (Z-9578)"
-      },
-      {
         "id": "670fb392c44f",
         "date": "2023-05-16",
         "itemNumber": "8.1.6",
@@ -32874,18 +34664,6 @@
         "date": "2023-05-16",
         "itemNumber": "8.2.5",
         "itemTitle": "(2.4) Housing Collaborative Initiative (HCI) - Update"
-      },
-      {
-        "id": "10efee30d126",
-        "date": "2023-05-09",
-        "itemNumber": "2.1",
-        "itemTitle": "2023 Industrial Land Development Strategy"
-      },
-      {
-        "id": "730abd01f37c",
-        "date": "2023-05-09",
-        "itemNumber": "2.1",
-        "itemTitle": "2023 Industrial Land Development Strategy"
       },
       {
         "id": "bea27da74ca1",
@@ -32904,12 +34682,6 @@
         "date": "2023-04-25",
         "itemNumber": "8.4.10",
         "itemTitle": "(2.8) Western Road and Sarnia Road/Philip Aziz Avenue Corridor and Intersection Improvements - Environmental Study Report, Notice of Completion"
-      },
-      {
-        "id": "a4abd9e1fa3c",
-        "date": "2023-04-18",
-        "itemNumber": "4.1",
-        "itemTitle": "2024-2027 Multi-Year Budget"
       },
       {
         "id": "0336e9e6a987",
@@ -32966,18 +34738,6 @@
         "itemTitle": "(3.2) 247 Halls Mill Road - Demolition Request to Remove Heritage Attributes"
       },
       {
-        "id": "6b989391e04c",
-        "date": "2023-04-04",
-        "itemNumber": "8.4.9",
-        "itemTitle": "(3.7) 614 Westmount Crescent (Z-9553) (Relates to Bill No. 116)"
-      },
-      {
-        "id": "56da0b282a71",
-        "date": "2023-03-28",
-        "itemNumber": "4.1",
-        "itemTitle": "Council's Draft 2023-2027 Strategic Plan"
-      },
-      {
         "id": "c1d069409d10",
         "date": "2023-03-28",
         "itemNumber": "4.1",
@@ -33008,12 +34768,6 @@
         "itemTitle": "(ADDED) Council's Draft 2023-2027 Strategic Plan"
       },
       {
-        "id": "c0ce799340ac",
-        "date": "2023-03-08",
-        "itemNumber": "4.2",
-        "itemTitle": "(ADDED) Council's Draft 2023-2027 Strategic Plan"
-      },
-      {
         "id": "f8aa33605af1",
         "date": "2023-03-08",
         "itemNumber": "4.2",
@@ -33026,28 +34780,10 @@
         "itemTitle": "(ADDED) Council's Draft 2023-2027 Strategic Plan"
       },
       {
-        "id": "a3765ca3c05a",
-        "date": "2023-03-07",
-        "itemNumber": "8.1.5",
-        "itemTitle": "(2.4) Results of the 2022 Bike Share Request for Proposal Process and Next Steps "
-      },
-      {
-        "id": "be02e01cfa4a",
-        "date": "2023-02-28",
-        "itemNumber": "4.1",
-        "itemTitle": "Health and Homelessness Summits - Proposed Whole of Community System Response"
-      },
-      {
         "id": "66ca1770eede",
         "date": "2023-02-28",
         "itemNumber": "4.2",
         "itemTitle": "Developing Council's 2023-2027 Strategic Plan: Draft Strategies and Order of Magnitude Costing"
-      },
-      {
-        "id": "0c53add88983",
-        "date": "2023-02-28",
-        "itemNumber": "4.3",
-        "itemTitle": "Developing Council's 2023-2027 Strategic Plan: Draft Metrics"
       },
       {
         "id": "9e1607333432",
@@ -33068,12 +34804,6 @@
         "itemTitle": "Developing Council's 2023-2027 Strategic Plan: Draft Metrics"
       },
       {
-        "id": "a01600ddb427",
-        "date": "2023-02-28",
-        "itemNumber": "4.3",
-        "itemTitle": "Developing Council's 2023-2027 Strategic Plan: Draft Metrics"
-      },
-      {
         "id": "8baa7b364d97",
         "date": "2023-02-28",
         "itemNumber": "4.3",
@@ -33086,18 +34816,6 @@
         "itemTitle": "Electric Kick-Scooter and Cargo Power-assisted Bicycle Pilot Project By-law and By-law Amendments"
       },
       {
-        "id": "950e2a392a63",
-        "date": "2023-02-14",
-        "itemNumber": "8.1.10",
-        "itemTitle": "(2.9) Housing Stability Services Purchase of Service Agreement Template (Relates to Bill No. 52)"
-      },
-      {
-        "id": "7346985bd070",
-        "date": "2023-02-14",
-        "itemNumber": "8.2.6",
-        "itemTitle": "(2.5) Contract Award: Tender No. RFT-2022-248 Rapid Transit Implementation - Wellington Street from Queens Avenue to the Thames River (South Branch) - Irregular Result"
-      },
-      {
         "id": "bd958457f861",
         "date": "2023-02-14",
         "itemNumber": "8.5.4",
@@ -33108,24 +34826,6 @@
         "date": "2023-02-14",
         "itemNumber": "8.5.4",
         "itemTitle": "(4.2) Developing the 2023-2027 Strategic Plan: Continuing to Set Key Elements of the Strategic Plan"
-      },
-      {
-        "id": "cacc4eabf8e7",
-        "date": "2023-02-14",
-        "itemNumber": "8.6.10",
-        "itemTitle": "(3.4) 489 Upper Queen Street (Z-9540) (Relates to Bill No. 66)"
-      },
-      {
-        "id": "a4044aae6238",
-        "date": "2023-02-14",
-        "itemNumber": "8.6.11",
-        "itemTitle": "(3.5) 608 Commissioners Road West (Z-9516) (Relates to Bill No. 67)"
-      },
-      {
-        "id": "c699eb9cc94f",
-        "date": "2023-02-14",
-        "itemNumber": "8.6.11",
-        "itemTitle": "(3.5) 608 Commissioners Road West (Z-9516) (Relates to Bill No. 67)"
       },
       {
         "id": "f195645ca714",
@@ -33158,12 +34858,6 @@
         "itemTitle": "Developing the 2023-2027 Strategic Plan: Continuing to Set Key Elements of the Strategic Plan"
       },
       {
-        "id": "e9bc755a8186",
-        "date": "2023-01-31",
-        "itemNumber": "2.5",
-        "itemTitle": "Contract Award: Tender No. RFT-2022-248 Rapid Transit Implementation – Wellington Street from Queens Avenue to the Thames River (South Branch) – Irregular Result"
-      },
-      {
         "id": "498b4ae404bf",
         "date": "2023-01-31",
         "itemNumber": "4.1",
@@ -33182,85 +34876,7 @@
         "itemTitle": "Declare Surplus - City-Owned Property - Part of 641 Queens Avenue"
       },
       {
-        "id": "2debd88e147d",
-        "date": "2023-01-30",
-        "itemNumber": "3.4",
-        "itemTitle": "489 Upper Queen Street (Z-9540)"
-      },
-      {
-        "id": "7c12069f2f9b",
-        "date": "2023-01-30",
-        "itemNumber": "3.5",
-        "itemTitle": "608 Commissioners Road West (Z-9516)"
-      },
-      {
-        "id": "b18982431ad1",
-        "date": "2023-01-26",
-        "itemNumber": "4.1",
-        "itemTitle": "Review of Recommended Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)"
-      },
-      {
-        "id": "950b21d6cef5",
-        "date": "2023-01-26",
-        "itemNumber": "4.3",
-        "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)"
-      },
-      {
-        "id": "75a10636d5f6",
-        "date": "2023-01-26",
-        "itemNumber": "4.3",
-        "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)"
-      },
-      {
-        "id": "070efd97b686",
-        "date": "2023-01-26",
-        "itemNumber": "4.3",
-        "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)"
-      },
-      {
-        "id": "192cc16c866a",
-        "date": "2023-01-26",
-        "itemNumber": "4.3",
-        "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)"
-      },
-      {
-        "id": "67e8f0bb6a90",
-        "date": "2023-01-26",
-        "itemNumber": "4.3",
-        "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)"
-      },
-      {
-        "id": "3e356dd3852a",
-        "date": "2023-01-26",
-        "itemNumber": "4.3",
-        "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)"
-      },
-      {
-        "id": "b7f876655a41",
-        "date": "2023-01-26",
-        "itemNumber": "4.3",
-        "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)"
-      },
-      {
-        "id": "fd27307f45a8",
-        "date": "2023-01-26",
-        "itemNumber": "4.3",
-        "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)"
-      },
-      {
-        "id": "000f08211725",
-        "date": "2023-01-26",
-        "itemNumber": "4.3",
-        "itemTitle": "Review of For Consideration Property Tax Operating Budget Amendments (2023 totals rounded to the closest $1,000)"
-      },
-      {
         "id": "bb3d5775c299",
-        "date": "2023-01-23",
-        "itemNumber": "4.1",
-        "itemTitle": "Developing the 2023-2027 Strategic Plan: Setting the Strategic Areas of Focus, Outcomes and Expected Results"
-      },
-      {
-        "id": "d0cbb048480e",
         "date": "2023-01-23",
         "itemNumber": "4.1",
         "itemTitle": "Developing the 2023-2027 Strategic Plan: Setting the Strategic Areas of Focus, Outcomes and Expected Results"

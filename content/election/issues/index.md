@@ -13,19 +13,19 @@ Council doesn't split on most of what it votes on — most motions pass unanimou
 
 | Issue | Divided votes | With a clear direction |
 |-------|:---:|:---:|
-| [Housing & Density](/election/issues/housing) | 229 | 130 |
-| [Homelessness & Encampments](/election/issues/encampments) | 131 | 56 |
-| [Taxes & Budget](/election/issues/budget) | 114 | 77 |
-| [Transit & Roads](/election/issues/transit) | 61 | 38 |
-| [Climate & Green Space](/election/issues/climate) | 35 | 14 |
-| [Downtown & Core](/election/issues/downtown) | 24 | 15 |
+| [Housing & Density](/election/issues/housing) | 237 | 136 |
+| [Homelessness & Encampments](/election/issues/encampments) | 136 | 59 |
+| [Taxes & Budget](/election/issues/budget) | 131 | 86 |
+| [Transit & Roads](/election/issues/transit) | 64 | 41 |
+| [Climate & Green Space](/election/issues/climate) | 39 | 17 |
+| [Downtown & Core](/election/issues/downtown) | 25 | 16 |
 | [Bike Lanes / Cycling](/election/issues/bikes) | 18 | 13 |
 | [Policing](/election/issues/policing) | 14 | 6 |
 
 
 ## Unclassified divided votes
 
-463 additional divided motions since 2023-01-01 were independently classified as not fitting any of the issue clusters above (or as an explicit governance/procedure exclusion), and are not force-fit into one. All 463 are listed below:
+508 additional divided motions since 2023-01-01 were independently classified as not fitting any of the issue clusters above (or as an explicit governance/procedure exclusion), and are not force-fit into one. All 508 are listed below:
 
 - 2026-07-21 — (2.1) Green Development Framework Update (item 8.2.4)
 - 2026-07-21 — (4.5) By-law Enforcement Administrative Fees (item 8.4.11)
@@ -38,6 +38,7 @@ Council doesn't split on most of what it votes on — most motions pass unanimou
 - 2026-06-23 — (4.1) Councillor C. Rahman - Third-Party Appeal Mechanism (item 8.5.12)
 - 2026-06-23 — (3.6) 1057-1061 Richmond Street - Z-26051 (Relates to Bill No. 259) (item 8.5.7)
 - 2026-06-22 — Green Development Framework Update (item 2.1)
+- 2026-06-17 — Build Communities Strong Fund Provincial and Territorial Stream: Development Charge Reduction Program (item 6.1)
 - 2026-06-16 — Not to be heard before 1:05 PM - London & Middlesex Community Housing - 2025 Annual General Meeting of the Shareholder Annual Resolutions (item 3.1)
 - 2026-06-16 — Downtown Reimagined: City of London Downtown Plan (item 4.2)
 - 2026-06-16 — Downtown Reimagined: City of London Downtown Plan (item 4.2)
@@ -168,6 +169,7 @@ Council doesn't split on most of what it votes on — most motions pass unanimou
 - 2025-06-17 — Not to be heard before 2:00 PM - London & Middlesex Community Housing - 2024 Annual General Meeting of the Shareholder Annual Resolutions (item 3.2)
 - 2025-06-11 — Communication - Cost Saving Opportunities within Heritage - Councillor S. Stevenson (item 4.3)
 - 2025-06-09 — Communication - Request for Update on 2021 Reaching Home - Councillor S. Stevenson (item 4.2)
+- 2025-06-03 — Emergent Motions (item 12)
 - 2025-06-03 — By-laws (item 13)
 - 2025-06-03 — Expropriation of Lands - Wellington Gateway Project Civil Works - Phase 2 (As the "Approving Authority") (item 6.1)
 - 2025-06-03 — Expropriation of Lands - Wellington Gateway Project Civil Works - Phase 2 (As the "Approving Authority") (item 6.1)
@@ -260,7 +262,7 @@ Council doesn't split on most of what it votes on — most motions pass unanimou
 - 2024-11-26 — (4.6) Amendments to the Council Procedure By-law Motion - Deputy Mayor S. Lewis, Budget Chair E. Peloza and Councillors S. Lehman and C. Rahman (item 8.1.13)
 - 2024-11-26 — 17th Report of the Corporate Services Committee (item 8.3)
 - 2024-11-26 — 4th Report of the Audit Committee (item 8.6)
-- 2024-11-21 — Amendment - Budget Case #P-31 - Councillor and Budget Chair E. Peloza and Councillor S. Franke (item 3.2)
+- 2024-11-21 — Amendment - Budget Case No. P-31 - Councillor and Budget Chair E. Peloza and Councillor S. Franke (item 3.2)
 - 2024-11-21 — Adjournment (item 7)
 - 2024-11-20 — Community Advisory Committee Motion - Councillor C. Rahman and Deputy Mayor S. Lewis (item 4.5)
 - 2024-11-20 — Community Advisory Committee Motion - Councillor C. Rahman and Deputy Mayor S. Lewis (item 4.5)
@@ -355,19 +357,19 @@ Council doesn't split on most of what it votes on — most motions pass unanimou
 - 2024-03-05 — (4.1) Regulation of the Display of Graphic Images (item 8.4.4)
 - 2024-03-05 — (2.3) Government Relations Consulting Assignment (item 8.6.4)
 - 2024-03-04 — (ADDED) Government Relations Consulting Assignment (item 2.3)
-- 2024-02-29 — (ADDED) Councillor S. Trosow - Amendment - Business Case #P-8 (item 12.1)
+- 2024-02-29 — (ADDED) Councillor S. Trosow - Amendment - Business Case No. P-8 (item 12.1)
 - 2024-02-29 — Communications and Petitions (item 6)
-- 2024-02-29 — Councillor A. Hopkins - Amendment - Business Cases: #P-L8, #P-L9, #P-28, #P-29, #P-57 (item 7.1)
-- 2024-02-29 — (3.38) Amendment - Business Case #P-46 (item 8.2.22)
+- 2024-02-29 — Councillor A. Hopkins - Amendment - Business Cases: No. P-L8, No. P-L9, No. P-28, No. P-29, No. P-57 (item 7.1)
+- 2024-02-29 — (3.38) Amendment - Business Case No. P-46 (item 8.2.22)
 - 2024-02-20 — Regulation of the Display of Graphic Images (item 4.1)
 - 2024-02-20 — Regulation of the Display of Graphic Images (item 4.1)
-- 2024-02-15 — Amendment - Business Case #P-15, #P-16, #P-17, #P-18 (item 3.29)
+- 2024-02-15 — Amendment - Business Case No. P-15, No. P-16, No. P-17, No. P-18 (item 3.29)
 - 2024-02-15 — Amendment - London Public Library Base Budget (item 3.34)
 - 2024-02-13 — (2.5) Contract Award - Tender No. RFT-2023-241 - East London Link and Municipal Infrastructure Improvements Phase 3C - Highbury Avenue (item 8.2.5)
 - 2024-02-13 — (2.4) Contract Award - Tender No. RFT-2023-264 - East London Link Phase 3A West - Dundas Street (item 8.2.8)
-- 2024-02-08 — Amendment - Business Case #P-51 (item 3.23)
+- 2024-02-08 — Amendment - Business Case No. P-51 (item 3.23)
 - 2024-02-06 — Community Advisory Committee on Planning (CACP) - Terms of Reference (item 2.3)
-- 2024-02-02 — Amendment - Business Case #P-29 (item 3.8)
+- 2024-02-02 — Amendment - Business Case No. P-29 (item 3.8)
 - 2024-02-02 — Adjournment (item 7)
 - 2024-02-01 — Adjournment (item 7)
 - 2024-01-29 — Municipal Compliance Annual Report (item 2.5)
@@ -441,15 +443,16 @@ Council doesn't split on most of what it votes on — most motions pass unanimou
 - 2023-07-25 — Expropriation of Lands - Wellington Gateway Project - Phase 3 and 4 (As the "Approving Authority") (item 6.3)
 - 2023-07-25 — Expropriation of Lands - Wellington Gateway Project - Phase 3 and 4 (As the "Expropriating Authority") (item 6.4)
 - 2023-07-25 — (4.1) Master Accommodation Plan - Alternate Work Strategies Update (item 8.1.3)
+- 2023-07-25 — (4.1) Master Accommodation Plan - Alternate Work Strategies Update (item 8.1.3)
 - 2023-07-25 — (4.3) Consideration of Appointment to the London Hydro Board of Directors (Requires 2 Members) (Relates to Bill No. 225) (item 8.1.5)
 - 2023-07-25 — (4.3) 39 Carfrae Street - Application Pursuant to Heritage Easement Agreement (item 8.2.19)
 - 2023-07-25 — (2.5) Council Policy Manual Review 2023 (Relates to Bill No.'s 216 to 224, 232 and 233) (item 8.3.14)
 - 2023-07-25 — (4.1) Consideration of Appointments to the London Community Advisory Committees (item 8.3.9)
-- 2023-07-25 — (2.4)  Primary Care Recruitment, Transition into Practice and Retention Program Funding Request (item 8.4.6)
-- 2023-07-25 — (2.4)  Primary Care Recruitment, Transition into Practice and Retention Program Funding Request (item 8.4.6)
-- 2023-07-25 — (2.4)  Primary Care Recruitment, Transition into Practice and Retention Program Funding Request (item 8.4.6)
-- 2023-07-25 — (2.4)  Primary Care Recruitment, Transition into Practice and Retention Program Funding Request (item 8.4.6)
-- 2023-07-25 — (4.2)  Thames Pool Condition Update and Repair Options (item 8.4.8)
+- 2023-07-25 — (2.4) Primary Care Recruitment, Transition into Practice and Retention Program Funding Request (item 8.4.6)
+- 2023-07-25 — (2.4) Primary Care Recruitment, Transition into Practice and Retention Program Funding Request (item 8.4.6)
+- 2023-07-25 — (2.4) Primary Care Recruitment, Transition into Practice and Retention Program Funding Request (item 8.4.6)
+- 2023-07-25 — (2.4) Primary Care Recruitment, Transition into Practice and Retention Program Funding Request (item 8.4.6)
+- 2023-07-25 — (4.2) Thames Pool Condition Update and Repair Options (item 8.4.8)
 - 2023-07-25 — London's Health and Homelessness Whole of Community System Response Proposed Hubs Implementation Plan (item 9.2.2)
 - 2023-07-24 — London's Health and Homelessness Whole of Community System Response Proposed Hubs Implementation Plan (item 4.1)
 - 2023-07-24 — London's Health and Homelessness Whole of Community System Response Proposed Hubs Implementation Plan (item 4.1)
@@ -490,5 +493,47 @@ Council doesn't split on most of what it votes on — most motions pass unanimou
 - 2023-06-06 — (2.5) Expropriation of Lands - East London Link Project Phase 3 (Relates to Bill No. 170) (item 8.5.7)
 - 2023-06-06 — (2.6) Expropriation of Lands - Wellington Gateway Project Phase 3 and 4 (Relates to Bill No. 171) (item 8.5.8)
 - 2023-06-05 — Consideration of Appointment to the London Police Services Board (item 5.1)
+- 2023-05-24 — Automated Enforcement Program Expansion Single Source 2023-142 (item 4.3)
+- 2023-05-23 — Consent (item 2)
+- 2023-05-23 — Expropriation of Lands - East London Link Project Phase 3 (item 2.5)
+- 2023-05-16 — (4.1) Application - Issuance of Proclamation - Longest Day of SMILES (item 8.1.6)
+- 2023-05-16 — (2.4) Housing Collaborative Initiative (HCI) - Update (item 8.2.5)
+- 2023-05-09 — London Police Services Board Candidates Interview Process (item 4.2)
+- 2023-05-09 — London Police Services Board Candidates Interview Process (item 4.2)
+- 2023-04-25 — (2.8) Western Road and Sarnia Road/Philip Aziz Avenue Corridor and Intersection Improvements - Environmental Study Report, Notice of Completion (item 8.4.10)
+- 2023-04-18 — (ADDED) Request to Update London Hydro Inc. Board of Director Recruitment, Interview and Nomination Process (item 5.1)
+- 2023-04-18 — (ADDED) Request a Governance Working Group Meeting (item 5.2)
+- 2023-04-12 — Western Road and Sarnia Road/Philip Aziz Avenue Corridor and Intersection Improvements - Environmental Study Report, Notice of Completion (item 2.8)
+- 2023-04-12 — Western Road and Sarnia Road/Philip Aziz Avenue Corridor and Intersection Improvements - Environmental Study Report, Notice of Completion (item 2.8)
+- 2023-04-11 — Members of Council Proof of COVID-19 Vaccination Policy (item 2.8)
+- 2023-04-04 — (4.2) Consideration of Appointment to the London Police Services Board (item 8.2.5)
+- 2023-04-04 — (4.2) Consideration of Appointment to the London Police Services Board (item 8.2.5)
+- 2023-04-04 — (3.2) 247 Halls Mill Road - Demolition Request to Remove Heritage Attributes (item 8.3.9)
+- 2023-04-04 — (3.2) 247 Halls Mill Road - Demolition Request to Remove Heritage Attributes (item 8.3.9)
+- 2023-03-28 — Council's Draft 2023-2027 Strategic Plan (item 4.1)
+- 2023-03-28 — (ADDED) Request to Declare a State of Emergency regarding Housing (item 5.1)
+- 2023-03-20 — 864 Hellmuth Avenue - Heritage Alteration Permit Application (HAP22-081-L) (item 2.6)
+- 2023-03-08 — (ADDED) Council's Draft 2023-2027 Strategic Plan (item 4.2)
+- 2023-03-08 — (ADDED) Council's Draft 2023-2027 Strategic Plan (item 4.2)
+- 2023-03-08 — (ADDED) Council's Draft 2023-2027 Strategic Plan (item 4.2)
+- 2023-03-08 — (ADDED) Council's Draft 2023-2027 Strategic Plan (item 4.2)
+- 2023-02-28 — Developing Council's 2023-2027 Strategic Plan: Draft Strategies and Order of Magnitude Costing (item 4.2)
+- 2023-02-28 — Developing Council's 2023-2027 Strategic Plan: Draft Metrics (item 4.3)
+- 2023-02-28 — Developing Council's 2023-2027 Strategic Plan: Draft Metrics (item 4.3)
+- 2023-02-28 — Developing Council's 2023-2027 Strategic Plan: Draft Metrics (item 4.3)
+- 2023-02-28 — Developing Council's 2023-2027 Strategic Plan: Draft Metrics (item 4.3)
+- 2023-02-22 — Electric Kick-Scooter and Cargo Power-assisted Bicycle Pilot Project By-law and By-law Amendments (item 2.3)
+- 2023-02-14 — (4.2) Developing the 2023-2027 Strategic Plan: Continuing to Set Key Elements of the Strategic Plan (item 8.5.4)
+- 2023-02-14 — (4.2) Developing the 2023-2027 Strategic Plan: Continuing to Set Key Elements of the Strategic Plan (item 8.5.4)
+- 2023-02-14 — (2.4) Declare Surplus - City-Owned Property - Part of 641 Queens Avenue (item 8.7.5)
+- 2023-02-14 — (2.4) Declare Surplus - City-Owned Property - Part of 641 Queens Avenue (item 8.7.5)
+- 2023-02-14 — 4th Report of Council in Closed Session (item 9.1)
+- 2023-02-07 — London's Housing Pledge: A Path to 47,000 Units by 2031 (item 4.1)
+- 2023-02-07 — Developing the 2023-2027 Strategic Plan: Continuing to Set Key Elements of the Strategic Plan (item 4.2)
+- 2023-01-31 — Exotic Animal Establishments (item 4.1)
+- 2023-01-31 — Exotic Animal Establishments (item 4.1)
+- 2023-01-30 — Declare Surplus - City-Owned Property - Part of 641 Queens Avenue (item 2.4)
+- 2023-01-23 — Developing the 2023-2027 Strategic Plan: Setting the Strategic Areas of Focus, Outcomes and Expected Results (item 4.1)
+- 2023-01-09 — 634 Commissioners Road West (item 3.2)
 
-*Divided motions since 2023 the verified classification pass assigned issue 'none' (no tracked issue applies), plus any motion missing a classify entry entirely (tracked separately — see the console warning at generation time; none are guessed at or force-fit into a cluster). All are listed here. Separately, 415 classified motions have a motion-text excerpt on this hub that's cut off at a 500-character display cap in the source data — this affects how much of the quoted text you see, not the classification itself, which was independently verified against each motion's complete text in the source meeting record. 3 additional motions were dropped from the divided-vote universe entirely before classification because the verification pass found they weren't a genuine division (a lopsided result the source data's own "unanimous" flag missed, or the same motion recorded twice under two item numbers).*
+*Divided motions since 2023 the verified classification pass assigned issue 'none' (no tracked issue applies), plus any motion missing a classify entry entirely (tracked separately — see the console warning at generation time; none are guessed at or force-fit into a cluster). All are listed here. Separately, 436 classified motions have a motion-text excerpt on this hub that's cut off at a 500-character display cap in the source data — this affects how much of the quoted text you see, not the classification itself, which was independently verified against each motion's complete text in the source meeting record. 3 additional motions were dropped from the divided-vote universe entirely before classification because the verification pass found they weren't a genuine division (a lopsided result the source data's own "unanimous" flag missed, or the same motion recorded twice under two item numbers).*
