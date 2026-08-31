@@ -4,6 +4,8 @@
   "currentTermEndsNote": "The 2022-2026 council term (and its ward boundaries) remains legally in effect until Nov 15, 2026. The Oct 26, 2026 election is run on the REDRAWN 2026 ward boundaries, which is why a voter's 'current representative' and 'who's on your ballot' can point at two different ward numbers for the same address.",
   "boundaryReviewSource": "https://london.ca/government/council-civic-administration/elections/ward-boundary-review",
   "candidateListSource": "https://london.ca/sites/default/files/2026-08/2026%20CERTIFIED%20LIST%20OF%20CANDIDATES.pdf",
+  "candidateListLocalCopy": "data/election/sources/2026-certified-list-of-candidates.pdf",
+  "_candidateListLocalCopyComment": "Hub-recheck round-3 gate MINOR (2026-08-31): saved a local copy of the City's PDF into the repo so the candidacy claims below have a checkable artifact that doesn't depend on london.ca staying up or the URL staying live. Re-verified against this local copy at save time: No. 18 Mayor Josh Morgan, No. 38 Mayor Susan Stevenson, No. 4 Councillor Ward 5 Corrine Rahman all confirmed present; Jerry Pribil and Steve Hillier confirmed absent from every row (searched the full extracted text for both names, 0 hits each).",
   "candidateListLastChecked": "2026-08-30 (certified list, nominations closed Aug 21 2026, list last modified Aug 28 2026)",
   "cityWardMapTool": "https://london.ca/government/council-civic-administration/elections",
   "wards": [

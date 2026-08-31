@@ -1,0 +1,162 @@
+[
+  {
+    "id": "187527fc77b7",
+    "field": "axis",
+    "was": "target-strength",
+    "now": null,
+    "reason": "Round-3 gate BLOCKER: this is a letter-writing/advocacy motion directed at the Province and internal data-gathering, not an act that sets, changes, or weakens any City climate target. The batch-22 verifierNote itself flags this ('worth flagging that target-strength reads slightly generously... it's advocacy directed at another government, not a City target change') but left the axis/polarity in place as 'defensible'. Per the fixer's P1/P4 mandate, advocacy motions do not get a hard direction on a target-change axis: downgraded to unclear rather than publishing three named councillors as having 'weakened a climate or environmental target' for a vote that changed no target.",
+    "quote": "the Mayor of the City of London, Councillor C. Rahman and Councillor A. Hopkins BE DIRECTED to submit a letter to AMO to develop a position and advocate on behalf of Ontario municipalities to request the Government of Ontario to develop and implement a plan to move Ontario to a net zero-carbon electricity grid by 2035, consistent with the 2035 date of the proposed Federal Government Clean Electricity Regulations (CER), to help Ontario and London meet our climate targets"
+  },
+  {
+    "id": "187527fc77b7",
+    "field": "polarity",
+    "was": "expansive",
+    "now": null,
+    "reason": "Same defect as the axis correction on this id: the clause directs a letter to AMO/the Province and internal fact-gathering with London's own facilities — it does not itself strengthen or weaken any target, so no polarity is asserted.",
+    "quote": "the Mayor of the City of London, Councillor C. Rahman and Councillor A. Hopkins BE DIRECTED to submit a letter to AMO to develop a position and advocate on behalf of Ontario municipalities to request the Government of Ontario to develop and implement a plan to move Ontario to a net zero-carbon electricity grid by 2035"
+  },
+  {
+    "id": "cc2a45812971",
+    "field": "axis",
+    "was": "response-scale",
+    "now": null,
+    "reason": "This is a resolution asking Ontario's Big City Mayors to request the Government of Ontario declare a state of emergency over homelessness/addictions/mental health, and to provide municipalities with more funding. It is advocacy toward another government, not a City decision that expands London's own encampment/homelessness response. Same advocacy-letter defect class as 187527fc77b7: downgraded to unclear.",
+    "quote": "Therefore it be resolved that Ontario’s Big City Mayors (OBCM) urgently request the Government of Ontario to declare a state of emergency to address homelessness caused by addictions and mental health that has created a community safety and humanitarian crisis across the province."
+  },
+  {
+    "id": "cc2a45812971",
+    "field": "polarity",
+    "was": "expansive",
+    "now": null,
+    "reason": "Same defect as the axis correction on this id: an advocacy resolution to another government carries no polarity on London's own response-scale axis.",
+    "quote": "Therefore it be resolved that Ontario’s Big City Mayors (OBCM) urgently request the Government of Ontario to declare a state of emergency"
+  },
+  {
+    "id": "0b898d04d289",
+    "field": "axis",
+    "was": "response-scale",
+    "now": null,
+    "reason": "Council REQUESTING that Civic Administration and the Mayor engage federal/provincial governments to fund the Encampment Implementation Recommendations does not itself change London's response scale by a dollar or a space -- it is a request for outside funding, same advocacy-letter defect class as 187527fc77b7 and cc2a45812971. Downgraded to unclear.",
+    "quote": "the Civic Administration and the Mayor BE REQUESTED to engage with the federal and provincial governments to fund the Encampment Implementation Recommendations for an initial period of January 1, 2025 to December 31, 2025 as part of London’s portion of a $250-million federal fund dedicated to addressing encampments"
+  },
+  {
+    "id": "0b898d04d289",
+    "field": "polarity",
+    "was": "expansive",
+    "now": null,
+    "reason": "Same defect as the axis correction on this id: a request that other governments fund something is not London expanding its own response.",
+    "quote": "the Civic Administration and the Mayor BE REQUESTED to engage with the federal and provincial governments to fund the Encampment Implementation Recommendations"
+  },
+  {
+    "id": "fc2f9833ce19",
+    "field": "axis",
+    "was": "response-scale",
+    "now": null,
+    "reason": "Sweep for the same advocacy-letter defect shape (class, not instance): this is an amendment to the SAME part b) federal/provincial funding request as 0b898d04d289 -- it only edits where the advocacy ask says any resulting overnight spaces should be sited, it does not itself change London's response scale. Downgraded to unclear alongside its parent motion.",
+    "quote": "b) the Civic Administration and the Mayor BE REQUESTED to engage with the Federal and Provincial governments to fund additional overnight spaces (that are not located on the main street of any BIA), rent supplements and transactional encampment services as outlined in the report dated October 29, 2024, for a two-year period"
+  },
+  {
+    "id": "fc2f9833ce19",
+    "field": "polarity",
+    "was": "restrictive",
+    "now": null,
+    "reason": "Same defect as the axis correction on this id: an amendment to an advocacy funding request carries no polarity on London's own response-scale axis.",
+    "quote": "the Civic Administration and the Mayor BE REQUESTED to engage with the Federal and Provincial governments to fund additional overnight spaces (that are not located on the main street of any BIA)"
+  },
+  {
+    "id": "c0e0eab57589",
+    "field": "axis",
+    "was": "affordable-funding",
+    "now": null,
+    "reason": "Sweep for the same advocacy-letter defect shape (class, not instance): Council 'supports the house debate' of a provincial private member's motion asking Ontario to establish and fund Homes Ontario, and refers the matter to AMO. This is advocacy support for a provincial funding vehicle, not London approving or denying funding or land for affordable housing itself. Downgraded to unclear.",
+    "quote": "the Municipal Council of The Corporation of the City of London supports the house debate of the following motion: \"That, in the opinion of this House, the Government of Ontario should establish and fund a new public agency called Homes Ontario to finance and build 250,000 new affordable and non-market homes on public land over ten years, to be operated and/or constructed by public, non-profit or co-op housing providers\""
+  },
+  {
+    "id": "c0e0eab57589",
+    "field": "polarity",
+    "was": "expansive",
+    "now": null,
+    "reason": "Same defect as the axis correction on this id: a resolution of support for a provincial motion is not a City funding/land decision.",
+    "quote": "the Municipal Council of The Corporation of the City of London supports the house debate of the following motion"
+  },
+  {
+    "id": "a41ad53fb87f",
+    "field": "axis",
+    "was": "density",
+    "now": null,
+    "reason": "Round-3 gate SHOULD FIX (axis-label mismatch): this motion directs staff to stop a procurement process seeking development proposals for City-owned parking lots -- no permitted density or building height changes anywhere in the clause. Halting a procurement is not a zoning act, so the density axis's expansive/restrictive labels ('increased/reduced permitted density or building height') do not describe what happened. Downgraded to unclear rather than relabelled, since no tracked axis in this issue's vocabulary describes 'City declines to proceed with a housing-related procurement'.",
+    "quote": "the Civic Administration BE DIRECTED to take no further action on a procurement process to solicit development proposals from qualified firms that can redevelop City-owned parking lots for high-density housing, encouraging modular construction techniques, and public parking"
+  },
+  {
+    "id": "a41ad53fb87f",
+    "field": "polarity",
+    "was": "restrictive",
+    "now": null,
+    "reason": "Same defect as the axis correction on this id: no permitted density or height changed, so no polarity on the density axis is asserted.",
+    "quote": "the Civic Administration BE DIRECTED to take no further action on a procurement process to solicit development proposals ... for high-density housing"
+  },
+  {
+    "id": "24d580d71e55",
+    "field": "axis",
+    "was": "response-scale",
+    "now": null,
+    "reason": "Round-3 gate SHOULD FIX (the other axis-label mismatch, paired with a41ad53fb87f): endorsing a proposed system-transformation approach and procurement framework does not itself change the scale of London's encampment/homelessness response by a dollar or a space -- it endorses a process, not a funding or service-level decision. The near-identical companion item '(2.4) Housing Stability Services Procurement and Delivery Framework' is already listed as unclassified on content/election/issues/index.md; this entry is downgraded to unclear for the same reason, for consistency.",
+    "quote": "the proposed system transformation approach and multi-year Housing Stability Services procurement framework as outlined in the December 1, 2025 staff report, BE ENDORSED"
+  },
+  {
+    "id": "24d580d71e55",
+    "field": "polarity",
+    "was": "expansive",
+    "now": null,
+    "reason": "Same defect as the axis correction on this id: endorsing a procurement framework/approach is not a response-scale change.",
+    "quote": "the proposed system transformation approach and multi-year Housing Stability Services procurement framework ... BE ENDORSED"
+  },
+  {
+    "id": "0f359afc4f62",
+    "field": "axis",
+    "was": "density",
+    "now": null,
+    "reason": "Round-3 gate SHOULD FIX: the complete operative text of this motion in the source meeting JSON is 'iii. Building Height (maximum): 24.5 metres;' -- a 44-character fragment with no stated base height. Describing this as a reduction ('would have reduced the maximum permitted building height ... to 24.5 metres') requires the base motion's own height figure, which is absent from the record. Downgraded to unclear: insufficient text to support a direction claim.",
+    "quote": "iii. Building Height (maximum): 24.5 metres;"
+  },
+  {
+    "id": "0f359afc4f62",
+    "field": "polarity",
+    "was": "restrictive",
+    "now": null,
+    "reason": "Same defect as the axis correction on this id: a bare numeric fragment with no comparison baseline cannot support a restrictive/expansive claim.",
+    "quote": "BE AMENDED to reduce the building height maximum to 24.5 meters"
+  },
+  {
+    "id": "18633398dd86",
+    "field": "axis",
+    "was": "business-case",
+    "now": "levy-size",
+    "reason": "Round-3 gate SHOULD FIX: the business-case axis pools fiscally opposite effects under one 'included/excluded' label, sitting directly under the sibling levy-size axis whose expansive label already means 'increased the tax levy'. Business Case #P-6 (Reduced Road Network Improvements) is itself a SAVINGS/cut case -- excluding it from the budget means the proposed road-spending cut does NOT happen, i.e. spending (and the levy) stays higher than it would if the cut had been adopted. Re-derived from the source meeting JSON's own numbers for this exact motion (2025-11-20 Budget Committee item d, Moved by S. Stevenson): the case's stated '2026 Tax Levy: $114,000' is the amount EXCLUDING it adds back to the levy versus adopting the cut. Reclassified onto the levy-size axis, which actually describes the fiscal direction, instead of the direction-agnostic business-case include/exclude label.",
+    "quote": "That Business Case #P-6 - Reduced Road Network Improvements - BE EXCLUDED from the Mayor’s Tabled 2026 Annual Update Budget: 2026 Operating Expenditures: $114,000  2026 Tax Levy: $114,000"
+  },
+  {
+    "id": "18633398dd86",
+    "field": "polarity",
+    "was": "restrictive",
+    "now": "expansive",
+    "reason": "Following from the axis correction on this id: excluding a proposed $114,000 road-network spending cut from the 2026 budget keeps that $114,000 in the levy relative to adopting the cut -- a yea on this motion moved toward a LARGER tax levy, the levy-size axis's expansive outcome, not a restrictive one.",
+    "quote": "That Business Case #P-6 - Reduced Road Network Improvements - BE EXCLUDED from the Mayor’s Tabled 2026 Annual Update Budget: 2026 Operating Expenditures: $114,000  2026 Tax Levy: $114,000"
+  },
+  {
+    "id": "ea03954e4926",
+    "field": "axis",
+    "was": "business-case",
+    "now": "levy-size",
+    "reason": "Round-3 gate SHOULD FIX, same defect class as 18633398dd86: Business Case #P-24 (Eliminate Climate Change Reserve Fund Contribution) is itself a SAVINGS/cut case -- including it in the budget applies that cut, lowering the levy. Re-derived from the source meeting JSON's own numbers for this exact motion (2025-11-20 Budget Committee, Moved by S. Franke, Seconded by S. Hillier): the case's stated '2026 Tax Levy: -$192,000' is a levy DECREASE. Reclassified onto the levy-size axis, which actually describes the fiscal direction.",
+    "quote": "That Business Case #P-24 – Eliminate Climate Change Reserve Fund Contribution – BE INCLUDED in the Mayor’s Tabled 2026 Annual Budget Update: 2026 Operating Expenditures: -$192,000  2026 Tax Levy: -$192,000"
+  },
+  {
+    "id": "ea03954e4926",
+    "field": "polarity",
+    "was": "expansive",
+    "now": "restrictive",
+    "reason": "Following from the axis correction on this id: including a $192,000/year cut to the Climate Change Reserve Fund contribution LOWERS the 2026 and 2027 tax levy by that amount -- a yea on this motion moved toward a SMALLER tax levy, the levy-size axis's restrictive outcome, not an expansive one.",
+    "quote": "That Business Case #P-24 – Eliminate Climate Change Reserve Fund Contribution – BE INCLUDED in the Mayor’s Tabled 2026 Annual Budget Update: 2026 Operating Expenditures: -$192,000  2026 Tax Levy: -$192,000"
+  }
+]
