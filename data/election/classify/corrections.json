@@ -1390,5 +1390,77 @@
     "now": null,
     "reason": "Transit axis split (data/election/classify/transit-split-verified.json): RECLASSIFIED to unclear (was application-approval/expansive): approving a single Expected-Result bullet ('Improved traffic safety, traffic calming') inside the Strategic Plan's Wellbeing and Safety focus area is an aspirational planning-document statement, not a specific transit-service or road-capacity decision -- and traffic calming itself narrows/slows general-purpose capacity rather than expanding it, so it would not fit road-capacity even if it were a concrete act.",
     "quote": "That the draft \"Wellbeing and Safety\" strategic focus Outcome 1, Expected Results, part e) of Outcome 1, BE APPROVED. e)  Improved traffic safety, traffic calming"
+  },
+  {
+    "id": "b9c703769270",
+    "field": "decisionKey",
+    "was": null,
+    "now": "road-capacity-wonderland-six-laning-2025",
+    "reason": "Transit-split gate item 1: this row's normalized item title ('Mobility Master Plan Mobility Networks Maps') and date (2025-03-25) are identical to four OTHER road-capacity rows under the same agenda item, seven days apart -- groupIntoDecisions' title/date heuristic alone unions all five into one decision group, which then trips the opposite-direction ladder-exclusion and wipes this flagship Wonderland Road fix from every profile that voted on it. Explicit decisionKey groups this row only with its true same-decision sibling (the 2025-04-01 council ratification, f2540910623e), not with the unrelated Bradley Ave/Roads-Projects-maps decision that happens to share the same item title and window.",
+    "quote": "the Civic Administration BE DIRECTED to re-start the Discover Wonderland Road Environmental Assessment, with expanded limits from Southdale Road to Fanshawe Park Road, in order to construct six general purpose, through lanes along the corridor with a long-term build-and-convert option to Bus Rapid Transit"
+  },
+  {
+    "id": "f2540910623e",
+    "field": "decisionKey",
+    "was": null,
+    "now": "road-capacity-wonderland-six-laning-2025",
+    "reason": "Transit-split gate item 1: council-stage ratification of the same Wonderland Road six-laning EA restart as b9c703769270 (committee, 2025-03-25) -- same decisionKey so the two stages of this ONE decision group together, and stay split from the unrelated Bradley Ave/Roads-Projects-maps decision under the same agenda item.",
+    "quote": "the Civic Administration BE DIRECTED to re-start the Discover Wonderland Road Environmental Assessment, with expanded limits from Southdale Road to Fanshawe Park Road, in order to construct six general purpose, through lanes along the corridor with a long-term build-and-convert option to Bus Rapid Transit and to modify the MMP maps accordingly"
+  },
+  {
+    "id": "28ab00fbc3c0",
+    "field": "decisionKey",
+    "was": null,
+    "now": "road-capacity-bradley-roads-map-2025",
+    "reason": "Transit-split gate item 1: committee-stage amendment adding the Bradley Ave (Wellington Rd-Highbury Ave) expansion to the Roads Projects Timeline -- same underlying decision as its own committee final-approval vote (478dc258ce7d) and the later council ratification (09385ddc0d7d). Explicit decisionKey keeps this group split from the unrelated Wonderland Road six-laning decision that happens to share the same item title and window.",
+    "quote": "expansion of Bradley Ave from Wellington Road to Highbury Avenue BE INCLUDED in the next improvement cycle"
+  },
+  {
+    "id": "478dc258ce7d",
+    "field": "decisionKey",
+    "was": null,
+    "now": "road-capacity-bradley-roads-map-2025",
+    "reason": "Transit-split gate item 1: committee's final approval of part a), the Roads Projects maps as amended (incl. the Bradley Ave inclusion just voted in as 28ab00fbc3c0) -- same underlying decision, same decisionKey, so it groups with 28ab00fbc3c0 and the later council ratification (09385ddc0d7d) rather than with the unrelated Wonderland Road six-laning decision under the same agenda item.",
+    "quote": "expansion of Bradley Ave from Wellington Road to Highbury Avenue BE INCLUDED in the next improvement cycle"
+  },
+  {
+    "id": "09385ddc0d7d",
+    "field": "decisionKey",
+    "was": null,
+    "now": "road-capacity-bradley-roads-map-2025",
+    "reason": "Transit-split gate item 1: council's ratification of the same Roads Projects maps/Bradley Ave decision as 28ab00fbc3c0 and 478dc258ce7d at the earlier committee stage -- same decisionKey groups all three stages together, split from the unrelated Wonderland Road six-laning decision under the same agenda item.",
+    "quote": "the Roads Projects maps BE APPROVED; with the following amendment to the Roads Projects Timeline; i) expansion of Bradley Ave from Wellington Road to Highbury Avenue BE INCLUDED in the next improvement cycle"
+  },
+  {
+    "id": "478dc258ce7d",
+    "field": "whatAYeaDid",
+    "was": "Gave final approval, as amended, to the Roads Projects maps, including adding the Bradley Avenue (Wellington Road to Highbury Avenue) expansion to the next improvement cycle.",
+    "now": "Recommended approving, as amended, the Roads Projects maps, including adding the Bradley Avenue (Wellington Road to Highbury Avenue) expansion to the next improvement cycle.",
+    "reason": "Transit-split gate item 4: this is the 2025-03-25 Strategic Priorities and Policy COMMITTEE vote, not Council -- final approval of the Roads Projects maps (as amended to include Bradley Ave) came at Council on 2025-04-01 (09385ddc0d7d). \"Gave final approval\" overstated this motion's own effect; reworded to the committee-stage \"Recommended approving\" phrasing used elsewhere in this corpus.",
+    "quote": "Gave final approval, as amended, to the Roads Projects maps, including adding the Bradley Avenue (Wellington Road to Highbury Avenue) expansion to the next improvement cycle."
+  },
+  {
+    "id": "99e90a7b11ad",
+    "field": "whatAYeaDid",
+    "was": "Gave final approval, as amended, to the 613 Superior Drive rezoning from R1 to the higher-density R5 Special Provision zone together with its added site-plan and servicing conditions.",
+    "now": "Recommended approving, as amended, the 613 Superior Drive rezoning from R1 to the higher-density R5 Special Provision zone together with its added site-plan and servicing conditions.",
+    "reason": "Transit-split gate item 4 sweep: this is a 2024-03-19 Planning and Environment COMMITTEE vote, not Council -- a committee recommendation, not a final approval. Reworded to the committee-stage \"Recommended approving\" phrasing used elsewhere in this corpus.",
+    "quote": "Gave final approval, as amended, to the 613 Superior Drive rezoning from R1 to the higher-density R5 Special Provision zone together with its added site-plan and servicing conditions."
+  },
+  {
+    "id": "002f87546a89",
+    "field": "whatAYeaDid",
+    "was": "Gave final approval, as amended, to the Cycling Network maps as a whole \u2014 approving the network overall while excluding the five specific routes (Royal Crescent, Sovereign Road, Vancouver Street, Huron/Taylor/McNay/Gammage Streets, and the Windermere-Gainsborough connection) separately voted out.",
+    "now": "Recommended approving, as amended, the Cycling Network maps as a whole \u2014 approving the network overall while excluding the five specific routes (Royal Crescent, Sovereign Road, Vancouver Street, Huron/Taylor/McNay/Gammage Streets, and the Windermere-Gainsborough connection) separately voted out.",
+    "reason": "Transit-split gate item 4 sweep: this is the 2025-03-25 Strategic Priorities and Policy COMMITTEE vote, not Council. Reworded to the committee-stage \"Recommended approving\" phrasing used elsewhere in this corpus. Axis/polarity are already null (net direction of the bundle is indeterminate, see the existing verifierNote) -- this correction only fixes the wording, not the classification.",
+    "quote": "Gave final approval, as amended, to the Cycling Network maps as a whole \u2014 approving the network overall while excluding the five specific routes (Royal Crescent, Sovereign Road, Vancouver Street, Huron/Taylor/McNay/Gammage Streets, and the Windermere-Gainsborough connection) separately voted out."
+  },
+  {
+    "id": "0d6f4304215e",
+    "field": "whatAYeaDid",
+    "was": "Gave final approval, as amended, to introducing the revised Surplus/Deficit Policy by-law, including the reallocated Unfunded Liability and Community Investment Reserve Fund contributions.",
+    "now": "Recommended approving, as amended, introducing the revised Surplus/Deficit Policy by-law, including the reallocated Unfunded Liability and Community Investment Reserve Fund contributions.",
+    "reason": "Transit-split gate item 4 sweep: this is the 2025-03-19 Budget COMMITTEE vote, not Council. Reworded to the committee-stage \"Recommended approving\" phrasing used elsewhere in this corpus. issue is already \"none\" (not direction-bearing) -- this correction only fixes the wording.",
+    "quote": "Gave final approval, as amended, to introducing the revised Surplus/Deficit Policy by-law, including the reallocated Unfunded Liability and Community Investment Reserve Fund contributions."
   }
 ]
