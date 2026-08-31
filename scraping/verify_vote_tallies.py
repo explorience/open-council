@@ -48,15 +48,22 @@ Checks, in order:
       pre-known + two found here) still fails the script loudly.
 
 Usage:
-  cd scraping && python verify_vote_tallies.py
+  python scraping/verify_vote_tallies.py   # from anywhere - path is resolved
+                                            # relative to this file, not cwd
 """
 
 import glob
 import json
+import os
 import re
 import sys
 
 from content import BARE_TITLE_TOKENS
+
+# Resolve relative to this file's location, not the caller's cwd: running
+# this from the repo root (rather than `cd scraping` first) used to glob a
+# nonexistent "./../data" and silently check 0 files - see (guard below).
+DATA_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "data")
 
 TALLY_RE = re.compile(r"\((\d+)\s+to\s+(\d+)\)")
 
@@ -140,7 +147,13 @@ def main():
 
     # (a) zero title-only entries
     title_hits = []
-    paths = sorted(glob.glob("../data/*/*.json"))
+    paths = sorted(glob.glob(os.path.join(DATA_DIR, "*", "*.json")))
+    if not paths:
+        sys.exit(
+            f"❌ no data files found under {DATA_DIR!r} - refusing to report a "
+            f"trivial pass. (This used to be a cwd-relative glob that silently "
+            f"checked 0 files when run from the repo root instead of scraping/.)"
+        )
     for path in paths:
         if "/councillors/" in path or "/votes/" in path or "/stats/" in path:
             continue
