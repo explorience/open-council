@@ -1,0 +1,1493 @@
+[
+  {
+    "date": "2011-08-29",
+    "meeting_type": "Council",
+    "local_path": "data/2011-08/2011-08-29 MINUTES FOURTEENTH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=9b267600-a6c7-4a05-902a-e1a2293d3862&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2011-08/2011-08-29 MINUTES FOURTEENTH MEETING",
+    "renamed_from": {
+      "old_path": "data/2011-08/2011-08-29 MINUTES FOURTEENTH\n  MEETING.json",
+      "new_path": "data/2011-08/2011-08-29 MINUTES FOURTEENTH MEETING.json",
+      "removed": [
+        "../data/2011-08/2011-08-29 MINUTES FOURTEENTH\n  MEETING.json",
+        "../content/months/2011-08/2011-08-29 MINUTES FOURTEENTH  MEETING.md"
+      ]
+    }
+  },
+  {
+    "date": "2011-09-19",
+    "meeting_type": "Council",
+    "local_path": "data/2011-09/2011-09-19 Council.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=06774e49-a681-41ae-a197-3d0dcd07cebd&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2011-09/2011-09-19 Council"
+  },
+  {
+    "date": "2011-10-03",
+    "meeting_type": "Council",
+    "local_path": "data/2011-10/2011-10-03 MINUTES SIXTEENTH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=869fcd38-9c3d-4b34-b7f6-861d404180c5&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2011-10/2011-10-03 MINUTES SIXTEENTH MEETING",
+    "renamed_from": {
+      "old_path": "data/2011-10/2011-10-03 MINUTES SIXTEENTH\n  MEETING.json",
+      "new_path": "data/2011-10/2011-10-03 MINUTES SIXTEENTH MEETING.json",
+      "removed": [
+        "../data/2011-10/2011-10-03 MINUTES SIXTEENTH\n  MEETING.json",
+        "../content/months/2011-10/2011-10-03 MINUTES SIXTEENTH  MEETING.md"
+      ]
+    }
+  },
+  {
+    "date": "2011-10-04",
+    "meeting_type": "Council",
+    "local_path": "data/2011-10/2011-10-04 Council.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=1aa83d7f-e4c4-4ca0-a518-6f33b78f9650&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2011-10/2011-10-04 Council"
+  },
+  {
+    "date": "2011-10-24",
+    "meeting_type": "Council",
+    "local_path": "data/2011-10/2011-10-24 Council.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=cc43daff-8839-4509-97de-9233aafc7ca6&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2011-10/2011-10-24 Council"
+  },
+  {
+    "date": "2011-11-07",
+    "meeting_type": "Council",
+    "local_path": "data/2011-11/2011-11-07 Council.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=5e386c00-b5eb-4c49-ae36-4dd662918df6&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2011-11/2011-11-07 Council"
+  },
+  {
+    "date": "2011-11-21",
+    "meeting_type": "Council",
+    "local_path": "data/2011-11/2011-11-21 MINUTES 20TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b2c392c8-5573-4ffa-9afb-8c8f0b38ff30&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2011-11/2011-11-21 MINUTES 20TH MEETING"
+  },
+  {
+    "date": "2011-12-02",
+    "meeting_type": "Council",
+    "local_path": "data/2011-12/2011-12-02 MINUTES 1ST MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=edf6f930-9b36-418e-b142-a3ca83ccf82e&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2011-12/2011-12-02 MINUTES 1ST MEETING"
+  },
+  {
+    "date": "2011-12-06",
+    "meeting_type": "Council",
+    "local_path": "data/2011-12/2011-12-06 Council.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=81641b1a-1c36-4a87-b539-5aefd8fed318&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2011-12/2011-12-06 Council"
+  },
+  {
+    "date": "2012-01-10",
+    "meeting_type": "Council",
+    "local_path": "data/2012-01/2012-01-10 Council.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=e935ca1a-75bb-4231-9cd0-b4353de48ec8&Agenda=PostMinutes&lang=English",
+    "status": "failed",
+    "error": "Error processing meeting Council (2012-01-10 00:00:00) WordMeeting vote-coverage guardrail failed for https://pub-london.escribemeetings.com//Meeting.aspx?Id=e935ca1a-75bb-4231-9cd0-b4353de48ec8&Agenda=PostMinutes&lang=English: raw source has 111 'YEAS:' occurrence(s) but only 108 Yeas row(s) were parsed. Refusing to silently undercount roll calls - see issue #199 guardrail (a)."
+  },
+  {
+    "date": "2012-01-31",
+    "meeting_type": "Council",
+    "local_path": "data/2012-01/2012-01-31 Council.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=10b16e9f-2759-4d3b-85be-f5e813945450&Agenda=PostMinutes&lang=English",
+    "status": "failed",
+    "error": "Error processing meeting Council (2012-01-31 00:00:00) WordMeeting vote-coverage guardrail failed for https://pub-london.escribemeetings.com//Meeting.aspx?Id=10b16e9f-2759-4d3b-85be-f5e813945450&Agenda=PostMinutes&lang=English: raw source has 132 'YEAS:' occurrence(s) but only 130 Yeas row(s) were parsed. Refusing to silently undercount roll calls - see issue #199 guardrail (a)."
+  },
+  {
+    "date": "2012-02-21",
+    "meeting_type": "Council",
+    "local_path": "data/2012-02/2012-02-21 Council.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3f742c14-7557-4871-ac86-bda0222959e4&Agenda=PostMinutes&lang=English",
+    "status": "failed",
+    "error": "Error processing meeting Council (2012-02-21 00:00:00) WordMeeting vote-coverage guardrail failed for https://pub-london.escribemeetings.com//Meeting.aspx?Id=3f742c14-7557-4871-ac86-bda0222959e4&Agenda=PostMinutes&lang=English: raw source has 172 'YEAS:' occurrence(s) but only 171 Yeas row(s) were parsed. Refusing to silently undercount roll calls - see issue #199 guardrail (a)."
+  },
+  {
+    "date": "2012-03-20",
+    "meeting_type": "Council",
+    "local_path": "data/2012-03/2012-03-20 Council.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3d5b3d65-d522-4eaf-a02c-9852abe4c833&Agenda=PostMinutes&lang=English",
+    "status": "failed",
+    "error": "Error processing meeting Council (2012-03-20 00:00:00) WordMeeting vote-coverage guardrail failed for https://pub-london.escribemeetings.com//Meeting.aspx?Id=3d5b3d65-d522-4eaf-a02c-9852abe4c833&Agenda=PostMinutes&lang=English: raw source has 129 'YEAS:' occurrence(s) but only 128 Yeas row(s) were parsed. Refusing to silently undercount roll calls - see issue #199 guardrail (a)."
+  },
+  {
+    "date": "2012-04-10",
+    "meeting_type": "Council",
+    "local_path": "data/2012-04/2012-04-10 Council.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8a624040-37d9-40af-9a2b-3fc4295e8e07&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2012-04/2012-04-10 Council"
+  },
+  {
+    "date": "2012-05-01",
+    "meeting_type": "Council",
+    "local_path": "data/2012-05/2012-05-01 Council.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=87c78a94-d781-4ebb-a1e6-3081e6f2f873&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2012-05/2012-05-01 Council"
+  },
+  {
+    "date": "2012-05-08",
+    "meeting_type": "Council",
+    "local_path": "data/2012-05/2012-05-08 Council.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=159de2e1-5bb7-4985-8b70-7401c06d796c&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2012-05/2012-05-08 Council"
+  },
+  {
+    "date": "2012-05-17",
+    "meeting_type": "Council",
+    "local_path": "data/2012-05/2012-05-17 MINUTES 10TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=912c1760-f6a3-4883-996e-c940eb1b0ab3&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2012-05/2012-05-17 MINUTES 10TH MEETING",
+    "renamed_from": {
+      "old_path": "data/2012-05/2012-05-17 MINUTES 10TH\n  MEETING.json",
+      "new_path": "data/2012-05/2012-05-17 MINUTES 10TH MEETING.json",
+      "removed": [
+        "../data/2012-05/2012-05-17 MINUTES 10TH\n  MEETING.json",
+        "../content/months/2012-05/2012-05-17 MINUTES 10TH  MEETING.md"
+      ]
+    }
+  },
+  {
+    "date": "2012-05-22",
+    "meeting_type": "Council",
+    "local_path": "data/2012-05/2012-05-22 MINUTES 11TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=55ce59d9-798b-425d-8c88-69c599b8c728&Agenda=PostMinutes&lang=English",
+    "status": "failed",
+    "error": "Error processing meeting Council (2012-05-22 00:00:00) WordMeeting vote-coverage guardrail failed for https://pub-london.escribemeetings.com//Meeting.aspx?Id=55ce59d9-798b-425d-8c88-69c599b8c728&Agenda=PostMinutes&lang=English: raw source has 51 'YEAS:' occurrence(s) but only 48 Yeas row(s) were parsed. Refusing to silently undercount roll calls - see issue #199 guardrail (a)."
+  },
+  {
+    "date": "2012-06-12",
+    "meeting_type": "Council",
+    "local_path": "data/2012-06/2012-06-12 Council.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=651054ac-15da-4c79-99e5-5c4b594139f8&Agenda=PostMinutes&lang=English",
+    "status": "failed",
+    "error": "Error processing meeting Council (2012-06-12 00:00:00) WordMeeting vote-coverage guardrail failed for https://pub-london.escribemeetings.com//Meeting.aspx?Id=651054ac-15da-4c79-99e5-5c4b594139f8&Agenda=PostMinutes&lang=English: raw source has 134 'YEAS:' occurrence(s) but only 133 Yeas row(s) were parsed. Refusing to silently undercount roll calls - see issue #199 guardrail (a)."
+  },
+  {
+    "date": "2012-06-26",
+    "meeting_type": "Council",
+    "local_path": "data/2012-06/2012-06-26 MINUTES 13TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=2643ac9a-dabe-4b5f-9c34-5ab710ac063b&Agenda=PostMinutes&lang=English",
+    "status": "failed",
+    "error": "Error processing meeting Council (2012-06-26 00:00:00) WordMeeting vote-coverage guardrail failed for https://pub-london.escribemeetings.com//Meeting.aspx?Id=2643ac9a-dabe-4b5f-9c34-5ab710ac063b&Agenda=PostMinutes&lang=English: raw source has 70 'YEAS:' occurrence(s) but only 69 Yeas row(s) were parsed. Refusing to silently undercount roll calls - see issue #199 guardrail (a)."
+  },
+  {
+    "date": "2012-07-24",
+    "meeting_type": "Council",
+    "local_path": "data/2012-07/2012-07-24 MINUTES 14TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=2fe4382f-afd4-4450-b834-6ce8c0b91e06&Agenda=PostMinutes&lang=English",
+    "status": "failed",
+    "error": "Error processing meeting Council (2012-07-24 00:00:00) WordMeeting vote-coverage guardrail failed for https://pub-london.escribemeetings.com//Meeting.aspx?Id=2fe4382f-afd4-4450-b834-6ce8c0b91e06&Agenda=PostMinutes&lang=English: raw source has 55 'YEAS:' occurrence(s) but only 54 Yeas row(s) were parsed. Refusing to silently undercount roll calls - see issue #199 guardrail (a)."
+  },
+  {
+    "date": "2012-08-28",
+    "meeting_type": "Council",
+    "local_path": "data/2012-08/2012-08-28 Council.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=93fbb52e-1b5b-47b7-961b-a1b33a65dfd4&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2012-08/2012-08-28 Council"
+  },
+  {
+    "date": "2012-09-18",
+    "meeting_type": "Council",
+    "local_path": "data/2012-09/2012-09-18 MINUTES 16TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=a98954f7-8a84-43b0-a096-c44f30c71605&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2012-09/2012-09-18 MINUTES 16TH MEETING"
+  },
+  {
+    "date": "2012-10-09",
+    "meeting_type": "Council",
+    "local_path": "data/2012-10/2012-10-09 Council.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=15a4c3c7-eaa1-4f70-a07f-3c8e90fc2ed8&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2012-10/2012-10-09 Council"
+  },
+  {
+    "date": "2012-10-30",
+    "meeting_type": "Council",
+    "local_path": "data/2012-10/2012-10-30 MINUTES 18TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=46aad7e3-15f0-4b55-8646-11743b6060a0&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2012-10/2012-10-30 MINUTES 18TH MEETING"
+  },
+  {
+    "date": "2012-11-20",
+    "meeting_type": "Council",
+    "local_path": "data/2012-11/2012-11-20 MINUTES 19TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=51045e0a-937b-4111-8b09-638d8826828c&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2012-11/2012-11-20 MINUTES 19TH MEETING"
+  },
+  {
+    "date": "2012-12-11",
+    "meeting_type": "Council",
+    "local_path": "data/2012-12/2012-12-11 MINUTES 1ST MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=cd58f101-0ec8-43eb-ae69-4111f09d04e0&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2012-12/2012-12-11 MINUTES 1ST MEETING"
+  },
+  {
+    "date": "2013-01-15",
+    "meeting_type": "Council",
+    "local_path": "data/2013-01/2013-01-15 MINUTES 2ND MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=4e2c905b-f4b4-4714-b348-cd75a06429d3&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2013-01/2013-01-15 MINUTES 2ND MEETING"
+  },
+  {
+    "date": "2013-01-29",
+    "meeting_type": "Council",
+    "local_path": "data/2013-01/2013-01-29 MINUTES 3RD MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=9643dbd9-c1a0-42a4-b6e8-2e766f3111b1&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2013-01/2013-01-29 MINUTES 3RD MEETING"
+  },
+  {
+    "date": "2013-02-12",
+    "meeting_type": "Council",
+    "local_path": "data/2013-02/2013-02-12 MINUTES 4TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=80e01128-4c1f-486d-bd69-77ba4776f327&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2013-02/2013-02-12 MINUTES 4TH MEETING"
+  },
+  {
+    "date": "2013-02-28",
+    "meeting_type": "Council",
+    "local_path": "data/2013-02/2013-02-28 MINUTES 5TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=e6aee23e-bd59-40a2-9324-2a880e24755d&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2013-02/2013-02-28 MINUTES 5TH MEETING"
+  },
+  {
+    "date": "2013-03-05",
+    "meeting_type": "Council",
+    "local_path": "data/2013-03/2013-03-05 MINUTES 6TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=93913e0f-6d31-4fe5-96a2-b631e8391d7d&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2013-03/2013-03-05 MINUTES 6TH MEETING"
+  },
+  {
+    "date": "2013-03-26",
+    "meeting_type": "Council",
+    "local_path": "data/2013-03/2013-03-26 MINUTES 7TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3d6c1eb7-9819-462e-843e-cc4c943fb7f8&Agenda=PostMinutes&lang=English",
+    "status": "failed",
+    "error": "Error processing meeting Council (2013-03-26 00:00:00) WordMeeting vote-coverage guardrail failed for https://pub-london.escribemeetings.com//Meeting.aspx?Id=3d6c1eb7-9819-462e-843e-cc4c943fb7f8&Agenda=PostMinutes&lang=English: raw source has 35 'YEAS:' occurrence(s) but only 33 Yeas row(s) were parsed. Refusing to silently undercount roll calls - see issue #199 guardrail (a)."
+  },
+  {
+    "date": "2013-04-16",
+    "meeting_type": "Council",
+    "local_path": "data/2013-04/2013-04-16 Council.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=5b1c1ec6-7bab-4052-ba60-9de4f19a9a73&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2013-04/2013-04-16 Council"
+  },
+  {
+    "date": "2013-04-30",
+    "meeting_type": "Council",
+    "local_path": "data/2013-04/2013-04-30 MINUTES 9TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b4bb0f75-c948-4f7a-814e-aff95a047c3a&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2013-04/2013-04-30 MINUTES 9TH MEETING"
+  },
+  {
+    "date": "2013-05-14",
+    "meeting_type": "Council",
+    "local_path": "data/2013-05/2013-05-14 MINUTES 10TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=2533d28a-bee5-45c6-ae26-cc5232d5df41&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2013-05/2013-05-14 MINUTES 10TH MEETING"
+  },
+  {
+    "date": "2013-06-11",
+    "meeting_type": "Council",
+    "local_path": "data/2013-06/2013-06-11 MINUTES 11TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3f7c2670-6948-48c7-a146-e8d4fa6bb354&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2013-06/2013-06-11 MINUTES 11TH MEETING"
+  },
+  {
+    "date": "2013-06-25",
+    "meeting_type": "Council",
+    "local_path": "data/2013-06/2013-06-25 MINUTES 12TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=164af89c-b069-4ebf-a38f-54278ae03c49&Agenda=PostMinutes&lang=English",
+    "status": "failed",
+    "error": "Error processing meeting Council (2013-06-25 00:00:00) WordMeeting vote-coverage guardrail failed for https://pub-london.escribemeetings.com//Meeting.aspx?Id=164af89c-b069-4ebf-a38f-54278ae03c49&Agenda=PostMinutes&lang=English: raw source has 62 'YEAS:' occurrence(s) but only 59 Yeas row(s) were parsed. Refusing to silently undercount roll calls - see issue #199 guardrail (a)."
+  },
+  {
+    "date": "2013-07-30",
+    "meeting_type": "Council",
+    "local_path": "data/2013-07/2013-07-30 MINUTES 13TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=184a15ed-8183-4d55-9e80-41b9954d2dc8&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2013-07/2013-07-30 MINUTES 13TH MEETING"
+  },
+  {
+    "date": "2013-08-27",
+    "meeting_type": "Council",
+    "local_path": "data/2013-08/2013-08-27 MINUTES 14TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=590fea74-e89b-45d9-a875-bfa910f5ebd7&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2013-08/2013-08-27 MINUTES 14TH MEETING"
+  },
+  {
+    "date": "2013-09-17",
+    "meeting_type": "Council",
+    "local_path": "data/2013-09/2013-09-17 Council.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=24028623-a6eb-43f3-9f7f-28fa114e633a&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2013-09/2013-09-17 Council"
+  },
+  {
+    "date": "2013-10-01",
+    "meeting_type": "Council",
+    "local_path": "data/2013-10/2013-10-01 MINUTES 16TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=5ecf466a-a7c7-4582-9fe3-57fea31233bd&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2013-10/2013-10-01 MINUTES 16TH MEETING"
+  },
+  {
+    "date": "2013-10-22",
+    "meeting_type": "Council",
+    "local_path": "data/2013-10/2013-10-22 MINUTES 17TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8a9aaf69-f31b-4935-9e2e-dcdc327d97e5&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2013-10/2013-10-22 MINUTES 17TH MEETING"
+  },
+  {
+    "date": "2013-11-05",
+    "meeting_type": "Council",
+    "local_path": "data/2013-11/2013-11-05 MINUTES 18TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=867b2eb6-15cd-4587-9b4f-baeff7c8265e&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2013-11/2013-11-05 MINUTES 18TH MEETING"
+  },
+  {
+    "date": "2013-11-19",
+    "meeting_type": "Council",
+    "local_path": "data/2013-11/2013-11-19 MINUTES 19TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=6338bce7-3a5c-4427-b32f-18f5cde85498&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2013-11/2013-11-19 MINUTES 19TH MEETING"
+  },
+  {
+    "date": "2013-12-03",
+    "meeting_type": "Council",
+    "local_path": "data/2013-12/2013-12-03 MINUTES 1ST MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=42b6c751-f429-4d1d-972b-12c1fecb3a6f&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2013-12/2013-12-03 MINUTES 1ST MEETING"
+  },
+  {
+    "date": "2013-12-17",
+    "meeting_type": "Council",
+    "local_path": "data/2013-12/2013-12-17 MINUTES 2ND MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=d8155042-f2d7-40c6-86a1-cccde766798c&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2013-12/2013-12-17 MINUTES 2ND MEETING",
+    "renamed_from": {
+      "old_path": "data/2013-12/2013-12-17 MINUTES 2ND\n  MEETING.json",
+      "new_path": "data/2013-12/2013-12-17 MINUTES 2ND MEETING.json",
+      "removed": [
+        "../data/2013-12/2013-12-17 MINUTES 2ND\n  MEETING.json",
+        "../content/months/2013-12/2013-12-17 MINUTES 2ND  MEETING.md"
+      ]
+    }
+  },
+  {
+    "date": "2014-01-14",
+    "meeting_type": "Council",
+    "local_path": "data/2014-01/2014-01-14 Council.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=7e30b23c-e1b7-4744-a378-a5c4ae9d09f3&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2014-01/2014-01-14 Council"
+  },
+  {
+    "date": "2014-01-28",
+    "meeting_type": "Council",
+    "local_path": "data/2014-01/2014-01-28 MINUTES 4TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=a2958bc3-61e3-4471-ab1c-0f02c736e705&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2014-01/2014-01-28 MINUTES 4TH MEETING"
+  },
+  {
+    "date": "2014-02-11",
+    "meeting_type": "Council",
+    "local_path": "data/2014-02/2014-02-11 MINUTES 5TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=63b16f20-dafa-46e0-9da9-d8fe84781fe5&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2014-02/2014-02-11 MINUTES 5TH MEETING"
+  },
+  {
+    "date": "2014-02-25",
+    "meeting_type": "Council",
+    "local_path": "data/2014-02/2014-02-25 MINUTES 6TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=dafc56ed-7bde-46c1-ba47-f78533319141&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2014-02/2014-02-25 MINUTES 6TH MEETING"
+  },
+  {
+    "date": "2014-02-27",
+    "meeting_type": "Council",
+    "local_path": "data/2014-02/2014-02-27 MINUTES 8TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8259654e-aa04-4d67-b410-56d98f321d46&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2014-02/2014-02-27 MINUTES 8TH MEETING"
+  },
+  {
+    "date": "2014-03-18",
+    "meeting_type": "Council",
+    "local_path": "data/2014-03/2014-03-18 MINUTES 9TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=81c0030a-17e1-4d37-b72c-1ee78bd5dbc4&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2014-03/2014-03-18 MINUTES 9TH MEETING"
+  },
+  {
+    "date": "2014-04-01",
+    "meeting_type": "Council",
+    "local_path": "data/2014-04/2014-04-01 MINUTES 10TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=aa971b64-26f6-4fc6-b9d8-65f1d4096aba&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2014-04/2014-04-01 MINUTES 10TH MEETING"
+  },
+  {
+    "date": "2014-04-15",
+    "meeting_type": "Council",
+    "local_path": "data/2014-04/2014-04-15 MINUTES 11TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=0ab8d506-dcb3-4b68-b36f-70c46d08b8eb&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2014-04/2014-04-15 MINUTES 11TH MEETING"
+  },
+  {
+    "date": "2014-05-06",
+    "meeting_type": "Council",
+    "local_path": "data/2014-05/2014-05-06 MINUTES 12TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=6eda9580-212e-4cd2-a4fe-677696bb5ad1&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2014-05/2014-05-06 MINUTES 12TH MEETING"
+  },
+  {
+    "date": "2014-05-20",
+    "meeting_type": "Council",
+    "local_path": "data/2014-05/2014-05-20 MINUTES 13TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=f3127113-ccfb-4cf4-90cb-f043c638c31a&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2014-05/2014-05-20 MINUTES 13TH MEETING",
+    "renamed_from": {
+      "old_path": "data/2014-05/2014-05-20 MINUTES 13TH\n  MEETING.json",
+      "new_path": "data/2014-05/2014-05-20 MINUTES 13TH MEETING.json",
+      "removed": [
+        "../data/2014-05/2014-05-20 MINUTES 13TH\n  MEETING.json",
+        "../content/months/2014-05/2014-05-20 MINUTES 13TH  MEETING.md"
+      ]
+    }
+  },
+  {
+    "date": "2014-06-10",
+    "meeting_type": "Council",
+    "local_path": "data/2014-06/2014-06-10 MINUTES 14TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=73a34742-91f0-41ed-ae98-029387ee0421&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2014-06/2014-06-10 MINUTES 14TH MEETING"
+  },
+  {
+    "date": "2014-06-23",
+    "meeting_type": "Council",
+    "local_path": "data/2014-06/2014-06-23 MINUTES 15TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=36045ee9-66d3-48b7-8810-25d21602d701&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2014-06/2014-06-23 MINUTES 15TH MEETING",
+    "renamed_from": {
+      "old_path": "data/2014-06/2014-06-23 MINUTES 15TH\n  MEETING.json",
+      "new_path": "data/2014-06/2014-06-23 MINUTES 15TH MEETING.json",
+      "removed": [
+        "../data/2014-06/2014-06-23 MINUTES 15TH\n  MEETING.json",
+        "../content/months/2014-06/2014-06-23 Strategic Priorities and Policy Committee.md",
+        "../content/months/2014-06/2014-06-23 MINUTES 15TH  MEETING.md"
+      ]
+    }
+  },
+  {
+    "date": "2014-06-24",
+    "meeting_type": "Council",
+    "local_path": "data/2014-06/2014-06-24 MINUTES 17TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=296bf116-08e6-4aec-ac1b-935d0b1bb4c9&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2014-06/2014-06-24 MINUTES 17TH MEETING"
+  },
+  {
+    "date": "2014-06-25",
+    "meeting_type": "Council",
+    "local_path": "data/2014-06/2014-06-25 MINUTES 18TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=94dd8dce-987e-40b1-9ddf-88c76ca1c987&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2014-06/2014-06-25 MINUTES 18TH MEETING"
+  },
+  {
+    "date": "2014-07-21",
+    "meeting_type": "Council",
+    "local_path": "data/2014-07/2014-07-21 MINUTES 19TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=be173321-8c05-45ab-86a2-57f574edbcbb&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2014-07/2014-07-21 MINUTES 19TH MEETING",
+    "renamed_from": {
+      "old_path": "data/2014-07/2014-07-21 MINUTES 19TH\n  MEETING.json",
+      "new_path": "data/2014-07/2014-07-21 MINUTES 19TH MEETING.json",
+      "removed": [
+        "../data/2014-07/2014-07-21 MINUTES 19TH\n  MEETING.json",
+        "../content/months/2014-07/2014-07-21 MINUTES 19TH  MEETING.md",
+        "../content/months/2014-07/2014-07-21 Strategic Priorities and Policy Committee.md",
+        "../content/months/2014-07/2014-07-21 Civic Works Committee.md",
+        "../content/months/2014-07/2014-07-21 Community and Protective Services Committee.md"
+      ]
+    }
+  },
+  {
+    "date": "2014-07-29",
+    "meeting_type": "Council",
+    "local_path": "data/2014-07/2014-07-29 MINUTES 20TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=056b5df8-e902-4a5c-9b10-8354073f92ed&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2014-07/2014-07-29 MINUTES 20TH MEETING"
+  },
+  {
+    "date": "2014-09-02",
+    "meeting_type": "Council",
+    "local_path": "data/2014-09/2014-09-02 MINUTES 21ST MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3b4b7cce-951e-411a-be67-8255c51afec4&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2014-09/2014-09-02 MINUTES 21ST MEETING"
+  },
+  {
+    "date": "2014-09-16",
+    "meeting_type": "Council",
+    "local_path": "data/2014-09/2014-09-16 MINUTES 22ND MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=55f6942f-ffef-41d3-9867-697bba384718&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2014-09/2014-09-16 MINUTES 22ND MEETING"
+  },
+  {
+    "date": "2014-09-30",
+    "meeting_type": "Council",
+    "local_path": "data/2014-09/2014-09-30 MINUTES 23RD MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2014-09/2014-09-30 MINUTES 23RD MEETING"
+  },
+  {
+    "date": "2014-10-14",
+    "meeting_type": "Council",
+    "local_path": "data/2014-10/2014-10-14 MINUTES 24TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=8527c028-f9e1-4318-a6b7-f22866645fd7&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2014-10/2014-10-14 MINUTES 24TH MEETING"
+  },
+  {
+    "date": "2014-11-11",
+    "meeting_type": "Council",
+    "local_path": "data/2014-11/2014-11-11 MINUTES 25TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=87f2cd1e-65b9-48d3-8a01-48b29194547e&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2014-11/2014-11-11 MINUTES 25TH MEETING"
+  },
+  {
+    "date": "2014-11-25",
+    "meeting_type": "Council",
+    "local_path": "data/2014-11/2014-11-25 MINUTES 26TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=48b1e6a3-ae6e-47f5-b600-bfc121838a2f&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2014-11/2014-11-25 MINUTES 26TH MEETING",
+    "renamed_from": {
+      "old_path": "data/2014-11/2014-11-25 MINUTES 26TH\n  MEETING.json",
+      "new_path": "data/2014-11/2014-11-25 MINUTES 26TH MEETING.json",
+      "removed": [
+        "../data/2014-11/2014-11-25 MINUTES 26TH\n  MEETING.json",
+        "../content/months/2014-11/2014-11-25 MINUTES 26TH  MEETING.md"
+      ]
+    }
+  },
+  {
+    "date": "2014-12-09",
+    "meeting_type": "Council",
+    "local_path": "data/2014-12/2014-12-09 MINUTES 2ND MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=63c0d8d1-083f-4243-8b5c-6a900712412c&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2014-12/2014-12-09 MINUTES 2ND MEETING"
+  },
+  {
+    "date": "2014-12-18",
+    "meeting_type": "Council",
+    "local_path": "data/2014-12/2014-12-18 MINUTES 3RD MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=5c0f373e-5a62-4110-9971-597c94e471f6&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2014-12/2014-12-18 MINUTES 3RD MEETING"
+  },
+  {
+    "date": "2015-01-13",
+    "meeting_type": "Council",
+    "local_path": "data/2015-01/2015-01-13 MINUTES 4TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=80f1bf21-7529-4178-82ac-940502711fb4&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2015-01/2015-01-13 MINUTES 4TH MEETING"
+  },
+  {
+    "date": "2015-01-27",
+    "meeting_type": "Council",
+    "local_path": "data/2015-01/2015-01-27 MINUTES 5TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=e4937d3f-433f-400d-9c88-8326f8a4e368&Agenda=PostMinutes&lang=English",
+    "status": "failed",
+    "error": "Error processing meeting Council (2015-01-27 00:00:00) WordMeeting vote-coverage guardrail failed for https://pub-london.escribemeetings.com//Meeting.aspx?Id=e4937d3f-433f-400d-9c88-8326f8a4e368&Agenda=PostMinutes&lang=English: raw source has 30 'YEAS:' occurrence(s) but only 27 Yeas row(s) were parsed. Refusing to silently undercount roll calls - see issue #199 guardrail (a)."
+  },
+  {
+    "date": "2015-02-09",
+    "meeting_type": "Council",
+    "local_path": "data/2015-02/2015-02-09 MINUTES 6TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=940e8038-f039-4a7d-a685-c61eb0d5d341&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2015-02/2015-02-09 MINUTES 6TH MEETING"
+  },
+  {
+    "date": "2015-02-24",
+    "meeting_type": "Council",
+    "local_path": "data/2015-02/2015-02-24 MINUTES 7TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=91471498-01ae-45f2-8603-26d765bcba93&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2015-02/2015-02-24 MINUTES 7TH MEETING"
+  },
+  {
+    "date": "2015-02-26",
+    "meeting_type": "Council",
+    "local_path": "data/2015-02/2015-02-26 Council.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=6cb29df0-abec-42cf-a5b4-1d63dab91ee6&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2015-02/2015-02-26 Council"
+  },
+  {
+    "date": "2015-03-10",
+    "meeting_type": "Council",
+    "local_path": "data/2015-03/2015-03-10 MINUTES 9TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=14507f59-8155-4554-a2c3-d0272629c1ef&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2015-03/2015-03-10 MINUTES 9TH MEETING"
+  },
+  {
+    "date": "2015-03-31",
+    "meeting_type": "Council",
+    "local_path": "data/2015-03/2015-03-31 MINUTES 10TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=f5ba0a49-1922-45c6-b34b-ab830a46613e&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2015-03/2015-03-31 MINUTES 10TH MEETING"
+  },
+  {
+    "date": "2015-04-14",
+    "meeting_type": "Council",
+    "local_path": "data/2015-04/2015-04-14 MINUTES 11TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=41b1cd2c-1f3b-4d61-8c10-e829dc8344dd&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2015-04/2015-04-14 MINUTES 11TH MEETING"
+  },
+  {
+    "date": "2015-04-28",
+    "meeting_type": "Council",
+    "local_path": "data/2015-04/2015-04-28 MINUTES 12TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=6776597e-35fc-4126-b692-b71e825c7b8a&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2015-04/2015-04-28 MINUTES 12TH MEETING",
+    "renamed_from": {
+      "old_path": "data/2015-04/2015-04-28 MINUTES 12TH\n  MEETING.json",
+      "new_path": "data/2015-04/2015-04-28 MINUTES 12TH MEETING.json",
+      "removed": [
+        "../data/2015-04/2015-04-28 MINUTES 12TH\n  MEETING.json",
+        "../content/months/2015-04/2015-04-28 MINUTES 12TH  MEETING.md"
+      ]
+    }
+  },
+  {
+    "date": "2015-05-12",
+    "meeting_type": "Council",
+    "local_path": "data/2015-05/2015-05-12 MINUTES 13TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=e8b72a6d-e30b-49b4-b1a6-0c33b669048e&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2015-05/2015-05-12 MINUTES 13TH MEETING"
+  },
+  {
+    "date": "2015-05-22",
+    "meeting_type": "Council",
+    "local_path": "data/2015-05/2015-05-22 MINUTES 14TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=859e40ef-3aa5-4022-b0a8-8b1d0b8facde&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2015-05/2015-05-22 MINUTES 14TH MEETING",
+    "renamed_from": {
+      "old_path": "data/2015-05/2015-05-22 MINUTES 14TH\n  MEETING.json",
+      "new_path": "data/2015-05/2015-05-22 MINUTES 14TH MEETING.json",
+      "removed": [
+        "../data/2015-05/2015-05-22 MINUTES 14TH\n  MEETING.json",
+        "../content/months/2015-05/2015-05-22 MINUTES 14TH  MEETING.md"
+      ]
+    }
+  },
+  {
+    "date": "2015-05-24",
+    "meeting_type": "Council",
+    "local_path": "data/2015-05/2015-05-24 MINUTES 15TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=c67f1f4a-434a-4f25-a114-6d1987f8da5e&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2015-05/2015-05-24 MINUTES 15TH MEETING"
+  },
+  {
+    "date": "2015-05-26",
+    "meeting_type": "Council",
+    "local_path": "data/2015-05/2015-05-26 MINUTES 16TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=982da458-f083-4344-b9e9-e87d850cc0c7&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2015-05/2015-05-26 MINUTES 16TH MEETING",
+    "renamed_from": {
+      "old_path": "data/2015-05/2015-05-26 MINUTES 16TH\n  MEETING.json",
+      "new_path": "data/2015-05/2015-05-26 MINUTES 16TH MEETING.json",
+      "removed": [
+        "../data/2015-05/2015-05-26 MINUTES 16TH\n  MEETING.json",
+        "../content/months/2015-05/2015-05-26 MINUTES 16TH  MEETING.md"
+      ]
+    }
+  },
+  {
+    "date": "2015-06-10",
+    "meeting_type": "Council",
+    "local_path": "data/2015-06/2015-06-10 MINUTES 17TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=208b0458-c104-43a4-96c2-197ae5d7ca6a&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2015-06/2015-06-10 MINUTES 17TH MEETING",
+    "renamed_from": {
+      "old_path": "data/2015-06/2015-06-10 MINUTES 17TH\n  MEETING.json",
+      "new_path": "data/2015-06/2015-06-10 MINUTES 17TH MEETING.json",
+      "removed": [
+        "../data/2015-06/2015-06-10 MINUTES 17TH\n  MEETING.json",
+        "../content/months/2015-06/2015-06-10 MINUTES 17TH  MEETING.md"
+      ]
+    }
+  },
+  {
+    "date": "2015-06-18",
+    "meeting_type": "Council",
+    "local_path": "data/2015-06/2015-06-18 MINUTES 18TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=12862e14-4a9a-4f6c-acae-9601d97573ae&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2015-06/2015-06-18 MINUTES 18TH MEETING",
+    "renamed_from": {
+      "old_path": "data/2015-06/2015-06-18 MINUTES 18TH\n  MEETING.json",
+      "new_path": "data/2015-06/2015-06-18 MINUTES 18TH MEETING.json",
+      "removed": [
+        "../data/2015-06/2015-06-18 MINUTES 18TH\n  MEETING.json",
+        "../content/months/2015-06/2015-06-18 Corporate Services Committee.md",
+        "../content/months/2015-06/2015-06-18 MINUTES 18TH  MEETING.md"
+      ]
+    }
+  },
+  {
+    "date": "2015-06-25",
+    "meeting_type": "Council",
+    "local_path": "data/2015-06/2015-06-25 Council.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=96af2ea0-2eb7-46c8-93e7-15adc39716f0&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2015-06/2015-06-25 Council"
+  },
+  {
+    "date": "2015-07-08",
+    "meeting_type": "Council",
+    "local_path": "data/2015-07/2015-07-08 MINUTES 20TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=cf38fc38-5ba7-4f34-ad99-2137f2a771d2&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2015-07/2015-07-08 MINUTES 20TH MEETING"
+  },
+  {
+    "date": "2015-07-15",
+    "meeting_type": "Council",
+    "local_path": "data/2015-07/2015-07-15 MINUTES 21ST MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=2d621ebe-9b47-4556-b013-4c35d7ebbe51&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2015-07/2015-07-15 MINUTES 21ST MEETING"
+  },
+  {
+    "date": "2015-07-22",
+    "meeting_type": "Council",
+    "local_path": "data/2015-07/2015-07-22 Council.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=2bc9d479-74d1-4da9-b105-4076c80f2ae8&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2015-07/2015-07-22 Council"
+  },
+  {
+    "date": "2015-07-28",
+    "meeting_type": "Council",
+    "local_path": "data/2015-07/2015-07-28 MINUTES 23RD MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=c26e9d2b-790a-40b3-b762-636243e6042a&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2015-07/2015-07-28 MINUTES 23RD MEETING",
+    "renamed_from": {
+      "old_path": "data/2015-07/2015-07-28 MINUTES 23RD\n  MEETING.json",
+      "new_path": "data/2015-07/2015-07-28 MINUTES 23RD MEETING.json",
+      "removed": [
+        "../data/2015-07/2015-07-28 MINUTES 23RD\n  MEETING.json",
+        "../content/months/2015-07/2015-07-28 MINUTES 23RD  MEETING.md"
+      ]
+    }
+  },
+  {
+    "date": "2015-09-01",
+    "meeting_type": "Council",
+    "local_path": "data/2015-09/2015-09-01 MINUTES 24TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=86c10c00-6a01-4994-8855-cd63941af883&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2015-09/2015-09-01 MINUTES 24TH MEETING"
+  },
+  {
+    "date": "2015-09-15",
+    "meeting_type": "Council",
+    "local_path": "data/2015-09/2015-09-15 MINUTES 25TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=fefbf506-b288-49f2-94de-7262b921e3bc&Agenda=PostMinutes&lang=English",
+    "status": "failed",
+    "error": "Error processing meeting Council (2015-09-15 00:00:00) WordMeeting vote-coverage guardrail failed for https://pub-london.escribemeetings.com//Meeting.aspx?Id=fefbf506-b288-49f2-94de-7262b921e3bc&Agenda=PostMinutes&lang=English: raw source has 17 'YEAS:' occurrence(s) but only 16 Yeas row(s) were parsed. Refusing to silently undercount roll calls - see issue #199 guardrail (a)."
+  },
+  {
+    "date": "2015-09-29",
+    "meeting_type": "Council",
+    "local_path": "data/2015-09/2015-09-29 MINUTES 26TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=c4e39793-41c8-4805-9e39-96edc20b6fea&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2015-09/2015-09-29 MINUTES 26TH MEETING",
+    "renamed_from": {
+      "old_path": "data/2015-09/2015-09-29 MINUTES 26TH\n  MEETING.json",
+      "new_path": "data/2015-09/2015-09-29 MINUTES 26TH MEETING.json",
+      "removed": [
+        "../data/2015-09/2015-09-29 MINUTES 26TH\n  MEETING.json",
+        "../content/months/2015-09/2015-09-29 MINUTES 26TH  MEETING.md"
+      ]
+    }
+  },
+  {
+    "date": "2015-10-13",
+    "meeting_type": "Council",
+    "local_path": "data/2015-10/2015-10-13 MINUTES 27TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=7df255e1-d0d9-48d0-a78d-b4f9f13bf415&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2015-10/2015-10-13 MINUTES 27TH MEETING"
+  },
+  {
+    "date": "2015-10-27",
+    "meeting_type": "Council",
+    "local_path": "data/2015-10/2015-10-27 Council.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=9d1eefaa-d7c6-4abc-903f-c80959991d50&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2015-10/2015-10-27 Council"
+  },
+  {
+    "date": "2015-11-10",
+    "meeting_type": "Council",
+    "local_path": "data/2015-11/2015-11-10 MINUTES 29TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=18773233-f5a8-48ce-82df-ad099e337dfa&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2015-11/2015-11-10 MINUTES 29TH MEETING"
+  },
+  {
+    "date": "2015-11-24",
+    "meeting_type": "Council",
+    "local_path": "data/2015-11/2015-11-24 MINUTES 30TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=44c853f1-b171-4b76-86de-4f0db8c8fd98&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2015-11/2015-11-24 MINUTES 30TH MEETING"
+  },
+  {
+    "date": "2015-12-08",
+    "meeting_type": "Council",
+    "local_path": "data/2015-12/2015-12-08 MINUTES 1ST MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=a5d561e5-c2a7-44af-b5fe-bba917d59e6c&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2015-12/2015-12-08 MINUTES 1ST MEETING"
+  },
+  {
+    "date": "2016-01-04",
+    "meeting_type": "Council",
+    "local_path": "data/2016-01/2016-01-04 MINUTES SECOND\n  MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=57074342-96a9-4e65-aa06-2c7cefde5166&Agenda=PostMinutes&lang=English",
+    "status": "failed",
+    "error": "Error processing meeting Council (2016-01-04 00:00:00) WordMeeting vote-coverage guardrail failed for https://pub-london.escribemeetings.com//Meeting.aspx?Id=57074342-96a9-4e65-aa06-2c7cefde5166&Agenda=PostMinutes&lang=English: raw source has 38 'YEAS:' occurrence(s) but only 35 Yeas row(s) were parsed. Refusing to silently undercount roll calls - see issue #199 guardrail (a)."
+  },
+  {
+    "date": "2016-01-12",
+    "meeting_type": "Council",
+    "local_path": "data/2016-01/2016-01-12 MINUTES THIRD MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=2f2e51fa-b664-43e1-973a-2f1ce86e83e0&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2016-01/2016-01-12 MINUTES THIRD MEETING"
+  },
+  {
+    "date": "2016-01-26",
+    "meeting_type": "Council",
+    "local_path": "data/2016-01/2016-01-26 MINUTES FOURTH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=1e07fb02-2315-4e55-9406-1f40a4a329cf&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2016-01/2016-01-26 MINUTES FOURTH MEETING"
+  },
+  {
+    "date": "2016-02-16",
+    "meeting_type": "Council",
+    "local_path": "data/2016-02/2016-02-16 MINUTES FIFTH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=389143ba-4510-4f40-b042-db6b7fc43888&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2016-02/2016-02-16 MINUTES FIFTH MEETING"
+  },
+  {
+    "date": "2016-03-01",
+    "meeting_type": "Council",
+    "local_path": "data/2016-03/2016-03-01 MINUTES SIXTH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=04d4f627-23f5-4431-9b6d-ddedc80302c6&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2016-03/2016-03-01 MINUTES SIXTH MEETING",
+    "renamed_from": {
+      "old_path": "data/2016-03/2016-03-01 MINUTES SIXTH\n  MEETING.json",
+      "new_path": "data/2016-03/2016-03-01 MINUTES SIXTH MEETING.json",
+      "removed": [
+        "../data/2016-03/2016-03-01 MINUTES SIXTH\n  MEETING.json",
+        "../content/months/2016-03/2016-03-01 Strategic Priorities and Policy Committee.md",
+        "../content/months/2016-03/2016-03-01 MINUTES SIXTH  MEETING.md"
+      ]
+    }
+  },
+  {
+    "date": "2016-03-10",
+    "meeting_type": "Council",
+    "local_path": "data/2016-03/2016-03-10 MINUTES SEVENTH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=c6d5c4ee-b138-45c5-a8fc-6ad729886b01&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2016-03/2016-03-10 MINUTES SEVENTH MEETING",
+    "renamed_from": {
+      "old_path": "data/2016-03/2016-03-10 MINUTES SEVENTH\n  MEETING.json",
+      "new_path": "data/2016-03/2016-03-10 MINUTES SEVENTH MEETING.json",
+      "removed": [
+        "../data/2016-03/2016-03-10 MINUTES SEVENTH\n  MEETING.json",
+        "../content/months/2016-03/2016-03-10 MINUTES SEVENTH  MEETING.md"
+      ]
+    }
+  },
+  {
+    "date": "2016-03-22",
+    "meeting_type": "Council",
+    "local_path": "data/2016-03/2016-03-22 MINUTES 8TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=7a3215ad-9220-4b03-b7ce-dec7be2b4e0b&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2016-03/2016-03-22 MINUTES 8TH MEETING",
+    "renamed_from": {
+      "old_path": "data/2016-03/2016-03-22 MINUTES 8TH\n  MEETING.json",
+      "new_path": "data/2016-03/2016-03-22 MINUTES 8TH MEETING.json",
+      "removed": [
+        "../data/2016-03/2016-03-22 MINUTES 8TH\n  MEETING.json",
+        "../content/months/2016-03/2016-03-22 MINUTES 8TH  MEETING.md"
+      ]
+    }
+  },
+  {
+    "date": "2016-04-05",
+    "meeting_type": "Council",
+    "local_path": "data/2016-04/2016-04-05 MINUTES NINTH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=ee0872cd-80e7-42cd-accb-cddf7d09825a&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2016-04/2016-04-05 MINUTES NINTH MEETING"
+  },
+  {
+    "date": "2016-04-19",
+    "meeting_type": "Council",
+    "local_path": "data/2016-04/2016-04-19 MINUTES TENTH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=d3dc318f-6f05-47f1-9a70-30bc3693321b&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2016-04/2016-04-19 MINUTES TENTH MEETING"
+  },
+  {
+    "date": "2016-05-03",
+    "meeting_type": "Council",
+    "local_path": "data/2016-05/2016-05-03 Council.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b592363b-8746-4453-943a-86c9e1753fc8&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2016-05/2016-05-03 Council"
+  },
+  {
+    "date": "2016-05-17",
+    "meeting_type": "Council",
+    "local_path": "data/2016-05/2016-05-17 MINUTES TWELFTH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=73dbf162-7162-428a-a3d5-287b09ff2dfe&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2016-05/2016-05-17 MINUTES TWELFTH MEETING"
+  },
+  {
+    "date": "2016-05-31",
+    "meeting_type": "Council",
+    "local_path": "data/2016-05/2016-05-31 MINUTES THIRTEENTH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=88e16acc-98fb-46a7-adc4-4146055051e5&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2016-05/2016-05-31 MINUTES THIRTEENTH MEETING"
+  },
+  {
+    "date": "2016-06-14",
+    "meeting_type": "Council",
+    "local_path": "data/2016-06/2016-06-14 MINUTES FOURTEENTH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3867157a-0eba-4e7b-b104-02f72a39c377&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2016-06/2016-06-14 MINUTES FOURTEENTH MEETING"
+  },
+  {
+    "date": "2016-06-23",
+    "meeting_type": "Council",
+    "local_path": "data/2016-06/2016-06-23 MINUTES FIFTEENTH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=73a1a14f-55ba-44c2-9976-d2fc8a7855ef&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2016-06/2016-06-23 MINUTES FIFTEENTH MEETING"
+  },
+  {
+    "date": "2016-07-26",
+    "meeting_type": "Council",
+    "local_path": "data/2016-07/2016-07-26 MINUTES SIXTEENTH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b90555d5-3ee8-46f0-b847-aa115cf885ea&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2016-07/2016-07-26 MINUTES SIXTEENTH MEETING"
+  },
+  {
+    "date": "2016-08-30",
+    "meeting_type": "Council",
+    "local_path": "data/2016-08/2016-08-30 Council.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=50be77a6-1dd3-48b7-a496-e16c9fa7d252&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2016-08/2016-08-30 Council"
+  },
+  {
+    "date": "2016-09-13",
+    "meeting_type": "Council",
+    "local_path": "data/2016-09/2016-09-13 MINUTES 18TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=0e2eaa6e-d504-4e0e-9176-5a7af3b8c378&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2016-09/2016-09-13 MINUTES 18TH MEETING"
+  },
+  {
+    "date": "2016-09-27",
+    "meeting_type": "Council",
+    "local_path": "data/2016-09/2016-09-27 Council.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3086bb15-3b1c-4f09-a3c6-030f8a65b58b&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2016-09/2016-09-27 Council"
+  },
+  {
+    "date": "2016-10-11",
+    "meeting_type": "Council",
+    "local_path": "data/2016-10/2016-10-11 MINUTES TWENTIETH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=638aa019-8f3d-4f7b-b726-7a9c8a14457c&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2016-10/2016-10-11 MINUTES TWENTIETH MEETING"
+  },
+  {
+    "date": "2016-10-25",
+    "meeting_type": "Council",
+    "local_path": "data/2016-10/2016-10-25 MINUTES TWENTY-FIRST MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=5ff1d0d5-b665-4ec3-be66-9b0496120649&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2016-10/2016-10-25 MINUTES TWENTY-FIRST MEETING",
+    "renamed_from": {
+      "old_path": "data/2016-10/2016-10-25 MINUTES TWENTY-FIRST\n  MEETING.json",
+      "new_path": "data/2016-10/2016-10-25 MINUTES TWENTY-FIRST MEETING.json",
+      "removed": [
+        "../data/2016-10/2016-10-25 MINUTES TWENTY-FIRST\n  MEETING.json",
+        "../content/months/2016-10/2016-10-25 MINUTES TWENTY-FIRST  MEETING.md"
+      ]
+    }
+  },
+  {
+    "date": "2016-11-08",
+    "meeting_type": "Council",
+    "local_path": "data/2016-11/2016-11-08 MINUTES TWENTY-SECOND MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=86eb409f-a82e-494a-bf30-6a71de75d075&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2016-11/2016-11-08 MINUTES TWENTY-SECOND MEETING",
+    "renamed_from": {
+      "old_path": "data/2016-11/2016-11-08 MINUTES TWENTY-SECOND\n  MEETING.json",
+      "new_path": "data/2016-11/2016-11-08 MINUTES TWENTY-SECOND MEETING.json",
+      "removed": [
+        "../data/2016-11/2016-11-08 MINUTES TWENTY-SECOND\n  MEETING.json",
+        "../content/months/2016-11/2016-11-08 MINUTES TWENTY-SECOND  MEETING.md"
+      ]
+    }
+  },
+  {
+    "date": "2016-11-18",
+    "meeting_type": "Council",
+    "local_path": "data/2016-11/2016-11-18 MINUTES 23RD MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=5e692726-636b-4da7-a3d7-83a6db4a7a03&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2016-11/2016-11-18 MINUTES 23RD MEETING",
+    "renamed_from": {
+      "old_path": "data/2016-11/2016-11-18 MINUTES 23RD\n  MEETING.json",
+      "new_path": "data/2016-11/2016-11-18 MINUTES 23RD MEETING.json",
+      "removed": [
+        "../data/2016-11/2016-11-18 MINUTES 23RD\n  MEETING.json",
+        "../content/months/2016-11/2016-11-18 MINUTES 23RD  MEETING.md",
+        "../content/months/2016-11/2016-11-18 Strategic Priorities and Policy Committee.md"
+      ]
+    }
+  },
+  {
+    "date": "2016-11-22",
+    "meeting_type": "Council",
+    "local_path": "data/2016-11/2016-11-22 MINUTES 24TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=a53c1ee7-3c32-4641-b8ec-b17073163672&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2016-11/2016-11-22 MINUTES 24TH MEETING",
+    "renamed_from": {
+      "old_path": "data/2016-11/2016-11-22 MINUTES 24TH\n  MEETING.json",
+      "new_path": "data/2016-11/2016-11-22 MINUTES 24TH MEETING.json",
+      "removed": [
+        "../data/2016-11/2016-11-22 MINUTES 24TH\n  MEETING.json",
+        "../content/months/2016-11/2016-11-22 MINUTES 24TH  MEETING.md"
+      ]
+    }
+  },
+  {
+    "date": "2016-12-06",
+    "meeting_type": "Council",
+    "local_path": "data/2016-12/2016-12-06 MINUTES 1ST MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=f75509c3-fb9c-4088-bcd2-9dcc760019a3&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2016-12/2016-12-06 MINUTES 1ST MEETING"
+  },
+  {
+    "date": "2016-12-13",
+    "meeting_type": "Council",
+    "local_path": "data/2016-12/2016-12-13 MINUTES SECOND MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=931319c3-0292-45cf-9004-beca45abe7f4&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2016-12/2016-12-13 MINUTES SECOND MEETING",
+    "renamed_from": {
+      "old_path": "data/2016-12/2016-12-13 MINUTES SECOND\n  MEETING.json",
+      "new_path": "data/2016-12/2016-12-13 MINUTES SECOND MEETING.json",
+      "removed": [
+        "../data/2016-12/2016-12-13 MINUTES SECOND\n  MEETING.json",
+        "../content/months/2016-12/2016-12-13 Corporate Services Committee.md",
+        "../content/months/2016-12/2016-12-13 MINUTES SECOND  MEETING.md",
+        "../content/months/2016-12/2016-12-13 Community and Protective Services Committee.md"
+      ]
+    }
+  },
+  {
+    "date": "2016-12-19",
+    "meeting_type": "Council",
+    "local_path": "data/2016-12/2016-12-19 MINUTES THIRD MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=1efb1ab8-cf90-40ab-8eb0-94a5c23efc4a&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2016-12/2016-12-19 MINUTES THIRD MEETING"
+  },
+  {
+    "date": "2017-01-11",
+    "meeting_type": "Council",
+    "local_path": "data/2017-01/2017-01-11 MINUTES FOURTH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=277788e5-3da6-4ef5-a3e2-954351c0330d&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2017-01/2017-01-11 MINUTES FOURTH MEETING"
+  },
+  {
+    "date": "2017-01-17",
+    "meeting_type": "Council",
+    "local_path": "data/2017-01/2017-01-17 MINUTES FIFTH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=6601ebec-abbc-49bd-88e6-b9596beac068&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2017-01/2017-01-17 MINUTES FIFTH MEETING",
+    "renamed_from": {
+      "old_path": "data/2017-01/2017-01-17 MINUTES FIFTH\n  MEETING.json",
+      "new_path": "data/2017-01/2017-01-17 MINUTES FIFTH MEETING.json",
+      "removed": [
+        "../data/2017-01/2017-01-17 MINUTES FIFTH\n  MEETING.json",
+        "../content/months/2017-01/2017-01-17 MINUTES FIFTH  MEETING.md"
+      ]
+    }
+  },
+  {
+    "date": "2017-01-31",
+    "meeting_type": "Council",
+    "local_path": "data/2017-01/2017-01-31 MINUTES SIXTH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=d713d929-38fe-4e93-8c88-ac3f36d943af&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2017-01/2017-01-31 MINUTES SIXTH MEETING"
+  },
+  {
+    "date": "2017-02-03",
+    "meeting_type": "Council",
+    "local_path": "data/2017-02/2017-02-03 MINUTES SEVENTH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=cd214c8b-3df4-4e6f-b4bc-8582092d53c1&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2017-02/2017-02-03 MINUTES SEVENTH MEETING",
+    "renamed_from": {
+      "old_path": "data/2017-02/2017-02-03 MINUTES SEVENTH\n  MEETING.json",
+      "new_path": "data/2017-02/2017-02-03 MINUTES SEVENTH MEETING.json",
+      "removed": [
+        "../data/2017-02/2017-02-03 MINUTES SEVENTH\n  MEETING.json",
+        "../content/months/2017-02/2017-02-03 MINUTES SEVENTH  MEETING.md"
+      ]
+    }
+  },
+  {
+    "date": "2017-02-14",
+    "meeting_type": "Council",
+    "local_path": "data/2017-02/2017-02-14 MINUTES EIGHTH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=44d971df-01a7-406e-8a6a-ff109d0b891e&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2017-02/2017-02-14 MINUTES EIGHTH MEETING"
+  },
+  {
+    "date": "2017-03-02",
+    "meeting_type": "Council",
+    "local_path": "data/2017-03/2017-03-02 MINUTES NINTH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=4d03bdab-5199-479b-ada7-4a4e2898d00a&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2017-03/2017-03-02 MINUTES NINTH MEETING"
+  },
+  {
+    "date": "2017-03-21",
+    "meeting_type": "Council",
+    "local_path": "data/2017-03/2017-03-21 MINUTES 10TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=e53386dc-b90c-497b-aa63-e1861940cc45&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2017-03/2017-03-21 MINUTES 10TH MEETING",
+    "renamed_from": {
+      "old_path": "data/2017-03/2017-03-21 MINUTES 10TH\n  MEETING.json",
+      "new_path": "data/2017-03/2017-03-21 MINUTES 10TH MEETING.json",
+      "removed": [
+        "../data/2017-03/2017-03-21 MINUTES 10TH\n  MEETING.json",
+        "../content/months/2017-03/2017-03-21 MINUTES 10TH  MEETING.md"
+      ]
+    }
+  },
+  {
+    "date": "2017-04-04",
+    "meeting_type": "Council",
+    "local_path": "data/2017-04/2017-04-04 MINUTES 11TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=081ab28a-3df3-4b2d-826e-0c8acf3e6bc8&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2017-04/2017-04-04 MINUTES 11TH MEETING",
+    "renamed_from": {
+      "old_path": "data/2017-04/2017-04-04 MINUTES 11TH\n  MEETING.json",
+      "new_path": "data/2017-04/2017-04-04 MINUTES 11TH MEETING.json",
+      "removed": [
+        "../data/2017-04/2017-04-04 MINUTES 11TH\n  MEETING.json",
+        "../content/months/2017-04/2017-04-04 MINUTES 11TH  MEETING.md"
+      ]
+    }
+  },
+  {
+    "date": "2017-04-18",
+    "meeting_type": "Council",
+    "local_path": "data/2017-04/2017-04-18 MINUTES 12TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=b5a3652e-8a8b-4696-9f60-1c5d158e3b5e&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2017-04/2017-04-18 MINUTES 12TH MEETING"
+  },
+  {
+    "date": "2017-04-21",
+    "meeting_type": "Council",
+    "local_path": "data/2017-04/2017-04-21 MINUTES THIRTEENTH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=d45afaf9-a595-46ec-a9c8-f1964cdb606e&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2017-04/2017-04-21 MINUTES THIRTEENTH MEETING",
+    "renamed_from": {
+      "old_path": "data/2017-04/2017-04-21 MINUTES THIRTEENTH\n  MEETING.json",
+      "new_path": "data/2017-04/2017-04-21 MINUTES THIRTEENTH MEETING.json",
+      "removed": [
+        "../data/2017-04/2017-04-21 MINUTES THIRTEENTH\n  MEETING.json",
+        "../content/months/2017-04/2017-04-21 Strategic Priorities and Policy Committee.md",
+        "../content/months/2017-04/2017-04-21 MINUTES THIRTEENTH  MEETING.md"
+      ]
+    }
+  },
+  {
+    "date": "2017-05-01",
+    "meeting_type": "Council",
+    "local_path": "data/2017-05/2017-05-01 MINUTES 14TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=1818236f-fc81-4b97-b839-e170bfdc8094&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2017-05/2017-05-01 MINUTES 14TH MEETING"
+  },
+  {
+    "date": "2017-05-02",
+    "meeting_type": "Council",
+    "local_path": "data/2017-05/2017-05-02 MINUTES 15TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=d48c3745-7562-4360-8009-f93ee0841463&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2017-05/2017-05-02 MINUTES 15TH MEETING"
+  },
+  {
+    "date": "2017-05-16",
+    "meeting_type": "Council",
+    "local_path": "data/2017-05/2017-05-16 MINUTES SIXTEENTH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=6b0416c1-00e2-46c2-8be3-eff6c4169048&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2017-05/2017-05-16 MINUTES SIXTEENTH MEETING"
+  },
+  {
+    "date": "2017-05-30",
+    "meeting_type": "Council",
+    "local_path": "data/2017-05/2017-05-30 MINUTES SEVENTEENTH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=d3452668-79ee-43fb-80b6-83fc9cf5391d&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2017-05/2017-05-30 MINUTES SEVENTEENTH MEETING"
+  },
+  {
+    "date": "2017-06-13",
+    "meeting_type": "Council",
+    "local_path": "data/2017-06/2017-06-13 Council.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=1e0f888f-a59a-4c3e-8412-72c5c0bc7d24&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2017-06/2017-06-13 Council"
+  },
+  {
+    "date": "2017-06-26",
+    "meeting_type": "Council",
+    "local_path": "data/2017-06/2017-06-26 MINUTES NINETEENTH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=af43d52b-a5d0-4b0d-898b-fdd71a7d673f&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2017-06/2017-06-26 MINUTES NINETEENTH MEETING",
+    "renamed_from": {
+      "old_path": "data/2017-06/2017-06-26 MINUTES NINETEENTH\n  MEETING.json",
+      "new_path": "data/2017-06/2017-06-26 MINUTES NINETEENTH MEETING.json",
+      "removed": [
+        "../data/2017-06/2017-06-26 MINUTES NINETEENTH\n  MEETING.json",
+        "../content/months/2017-06/2017-06-26 MINUTES NINETEENTH  MEETING.md"
+      ]
+    }
+  },
+  {
+    "date": "2017-07-25",
+    "meeting_type": "Council",
+    "local_path": "data/2017-07/2017-07-25 MINUTES TWENTIETH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=fa79fe07-d321-4d71-b9bd-3c04050d9012&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2017-07/2017-07-25 MINUTES TWENTIETH MEETING"
+  },
+  {
+    "date": "2017-08-22",
+    "meeting_type": "Council",
+    "local_path": "data/2017-08/2017-08-22 MINUTES TWENTY-FIRST MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=32abb11b-dd40-4fae-b0e9-ebe11938a9e5&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2017-08/2017-08-22 MINUTES TWENTY-FIRST MEETING",
+    "renamed_from": {
+      "old_path": "data/2017-08/2017-08-22 MINUTES TWENTY-FIRST\n  MEETING.json",
+      "new_path": "data/2017-08/2017-08-22 MINUTES TWENTY-FIRST MEETING.json",
+      "removed": [
+        "../data/2017-08/2017-08-22 MINUTES TWENTY-FIRST\n  MEETING.json",
+        "../content/months/2017-08/2017-08-22 MINUTES TWENTY-FIRST  MEETING.md"
+      ]
+    }
+  },
+  {
+    "date": "2017-09-05",
+    "meeting_type": "Council",
+    "local_path": "data/2017-09/2017-09-05 MINUTES 22ND MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=7c7e0dbf-033a-40f0-9ed9-c8a32f1aa77c&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2017-09/2017-09-05 MINUTES 22ND MEETING",
+    "renamed_from": {
+      "old_path": "data/2017-09/2017-09-05 MINUTES 22ND\n  MEETING.json",
+      "new_path": "data/2017-09/2017-09-05 MINUTES 22ND MEETING.json",
+      "removed": [
+        "../data/2017-09/2017-09-05 MINUTES 22ND\n  MEETING.json",
+        "../content/months/2017-09/2017-09-05 MINUTES 22ND  MEETING.md"
+      ]
+    }
+  },
+  {
+    "date": "2017-09-19",
+    "meeting_type": "Council",
+    "local_path": "data/2017-09/2017-09-19 MINUTES 23RD MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=029c5533-a6d3-45a7-b172-abcd5aad5dde&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2017-09/2017-09-19 MINUTES 23RD MEETING"
+  },
+  {
+    "date": "2017-10-03",
+    "meeting_type": "Council",
+    "local_path": "data/2017-10/2017-10-03 MINUTES TWENTY-FOURTH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=45647efe-f4dc-4202-958b-1719cbd976ee&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2017-10/2017-10-03 MINUTES TWENTY-FOURTH MEETING",
+    "renamed_from": {
+      "old_path": "data/2017-10/2017-10-03 MINUTES TWENTY-FOURTH\n  MEETING.json",
+      "new_path": "data/2017-10/2017-10-03 MINUTES TWENTY-FOURTH MEETING.json",
+      "removed": [
+        "../data/2017-10/2017-10-03 MINUTES TWENTY-FOURTH\n  MEETING.json",
+        "../content/months/2017-10/2017-10-03 MINUTES TWENTY-FOURTH  MEETING.md"
+      ]
+    }
+  },
+  {
+    "date": "2017-10-17",
+    "meeting_type": "Council",
+    "local_path": "data/2017-10/2017-10-17 MINUTES TWENTY-FIFTH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=32df6db0-31c5-4251-9ca1-cdd54c50c98d&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2017-10/2017-10-17 MINUTES TWENTY-FIFTH MEETING",
+    "renamed_from": {
+      "old_path": "data/2017-10/2017-10-17 MINUTES TWENTY-FIFTH\n  MEETING.json",
+      "new_path": "data/2017-10/2017-10-17 MINUTES TWENTY-FIFTH MEETING.json",
+      "removed": [
+        "../data/2017-10/2017-10-17 MINUTES TWENTY-FIFTH\n  MEETING.json",
+        "../content/months/2017-10/2017-10-17 MINUTES TWENTY-FIFTH  MEETING.md"
+      ]
+    }
+  },
+  {
+    "date": "2017-10-30",
+    "meeting_type": "Council",
+    "local_path": "data/2017-10/2017-10-30 MINUTES TWENTY-SIXTH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=7c11a63c-3946-42f8-a128-5a505a5853ce&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2017-10/2017-10-30 MINUTES TWENTY-SIXTH MEETING",
+    "renamed_from": {
+      "old_path": "data/2017-10/2017-10-30 MINUTES TWENTY-SIXTH\n  MEETING.json",
+      "new_path": "data/2017-10/2017-10-30 MINUTES TWENTY-SIXTH MEETING.json",
+      "removed": [
+        "../data/2017-10/2017-10-30 MINUTES TWENTY-SIXTH\n  MEETING.json",
+        "../content/months/2017-10/2017-10-30 Strategic Priorities and Policy Committee.md",
+        "../content/months/2017-10/2017-10-30 MINUTES TWENTY-SIXTH  MEETING.md"
+      ]
+    }
+  },
+  {
+    "date": "2017-11-28",
+    "meeting_type": "Council",
+    "local_path": "data/2017-11/2017-11-28 MINUTES 28TH MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=a6c8289d-c0c9-4818-af92-38b52b79fde8&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2017-11/2017-11-28 MINUTES 28TH MEETING"
+  },
+  {
+    "date": "2017-12-12",
+    "meeting_type": "Council",
+    "local_path": "data/2017-12/2017-12-12 MINUTES FIRST MEETING.json",
+    "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=54c7bed2-4c64-423b-9ebc-e0e573e394ab&Agenda=PostMinutes&lang=English",
+    "status": "done",
+    "result_path": "2017-12/2017-12-12 MINUTES FIRST MEETING",
+    "renamed_from": {
+      "old_path": "data/2017-12/2017-12-12 MINUTES FIRST\n  MEETING.json",
+      "new_path": "data/2017-12/2017-12-12 MINUTES FIRST MEETING.json",
+      "removed": [
+        "../data/2017-12/2017-12-12 MINUTES FIRST\n  MEETING.json",
+        "../content/months/2017-12/2017-12-12 MINUTES FIRST  MEETING.md"
+      ]
+    }
+  }
+]

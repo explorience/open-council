@@ -4,7 +4,7 @@ date: 2015-02-24
 ---
 February 24, 2015, at  4:06 PM
 
-[Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=91471498-01ae-45f2-8603-26d765bcba93&Agenda=PostMinutes&lang=English)
+[Original link](https://pub-london.escribemeetings.com//Meeting.aspx?Id=91471498-01ae-45f2-8603-26d765bcba93&Agenda=PostMinutes&lang=English)
 
 > [!abstract]- Present:
 > M. Brown, M. van Holst, B. Armstrong, M. Salih, J. Helmer, M. Cassidy, P. Squire, J. Morgan, P. Hubert, A. Hopkins, V. Ridley, S. Turner, H.L. Usher, T. Park, J. Zaifman, C. Saunders
@@ -18,23 +18,30 @@ February 24, 2015, at  4:06 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:06 PM.
 
+# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
+# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
+# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
+11th Report of the
+  Strategic Priorities and Policy Committee
 
-  Pecuniary Interest
+# IV.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-That it BE NOTED that no pecuniary
-  interests were disclosed.
+# 1.&nbsp;&nbsp;&nbsp;His Worship the
+  Mayor presents a certificate for "London's Featured Community
+  Organization" to the Rotary Club of London.
 
-  Auditing Procedures
+# 2.&nbsp;&nbsp;&nbsp;The recognition of
+  municipal staff, Jamie Skimming, in his achievement of being presented with
+  the Partners for Climate Protection (PCP) Spirit Award from the Federation of
+  Canadian Municipalities (FCM) is deferred to a future Council meeting.
 
-That the KPMG Report on Specified Auditing
-  Procedures, dated July 23, 2014, BE RECEIVED.
-
+# V.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
 MOTION FOR IN CAMERA SESSION
@@ -46,10 +53,6 @@ MOTION FOR IN CAMERA SESSION
 Approve that Council rise and go into
   Committee of the Whole, in camera, for the purpose of considering the following:
 
-****
-
-Motion Passed
-
 > [!abstract]- Vote:
 > |Yeas:|
 > |-|
@@ -72,6 +75,7 @@ Motion Passed
 
 ****
 
+# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE SIXTH MEETING HELD ON FEBRUARY 9, 2015
 
 > Moved by Councillor J. Helmer
@@ -81,10 +85,6 @@ Motion Passed
 Approve the Minutes of the Sixth Meeting
   held on February 9, 2015.
 
-****
-
-Motion Passed
-
 > [!abstract]- Vote:
 > |Yeas:|
 > |-|
@@ -107,6 +107,7 @@ Motion Passed
 
 ****
 
+# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
 > Moved by Councillor J. Helmer
@@ -118,190 +119,18 @@ Approve Receipt and Referral of the
 
 ****
 
-  WHICH NOTICE IS GIVEN
+# 1.&nbsp;&nbsp;&nbsp;Downtown
+  Businesses, By E-mail - Food Trucks (Refer to the Community and Protective
+  Services Committee stage for consideration with clause 12 of the 3rd Report
+  of the Community and Protective Services Committee.)
 
+# 2.&nbsp;&nbsp;&nbsp;(ADDED) E. Cormier,
+  Patton Cormier & Associates - Food Trucks (Refer to the Community and
+  Protective Services Committee stage for consideration with clause 12 of the
+  3rd Report of the Community and Protective Services Committee.)
 
-> Moved by Councillor M. Cassidy
-
-Approve clauses 1 to 10, inclusive.
-
-****
-
-  Report for the Year Ending December 31, 2014
-
-That the KPMG LLP Audit Planning Report,
-  for the year ending December 31, 2014, BE APPROVED.
-
-  Internal Audit Results - Development and Compliance Services - By-law
-  Enforcement and Licensing
-
-That, on the recommendation of
-  PricewaterhouseCoopers (PwC), the Action Plans identified in PwC's report
-  dated February 18, 2015 BE IMPLEMENTED with respect to the Quarterly Reports
-  on Internal Audit Results – Development and Compliance Services - By-law Enforcement
-  and Licensing; it being noted that the Civic Administration will report back
-  on the recommendations through the Audit Committee and/or the appropriate
-  Standing Committee where applicable.
-
-> Moved by Councillor M. Cassidy
-  Approve clauses 1
-
-20, inclusive.
-
-****
-
-Motion Passed
-
-> [!abstract]- Vote:
-> |Yeas:|
-> |-|
-> |M. Brown|
-> |M. van Holst|
-> |B. Armstrong|
-> |M. Salih|
-> |J. Helmer|
-> |M. Cassidy|
-> |P. Squire|
-> |J. Morgan|
-> |P. Hubert|
-> |A. Hopkins|
-> |V. Ridley|
-> |S. Turner|
-> |H.L. Usher|
-> |T. Park|
-> |J. Zaifman (15)|
-
-> **Motion Passed**
-
-****
-
-> Moved by Councillor P. Hubert
-
-> Seconded by Councillor H.L. Usher
-
-Approve:
- 
-1.  That, as a procedural matter pursuant
-  to Section 239 (6) of the Municipal Act, 2001, the following recommendation
-  be forwarded to City Council for deliberation and a vote in public session:
- 
-That, on the recommendation of the Managing
-  Director, Corporate Services and City Treasurer, Chief Financial Officer, on
-  the advice of the Manager of Realty Services, with respect to the City-owned
-  industrial land located on the south side of Scanlan Street, in the River
-  Road Industrial Park, containing an area of 3.36 acres, being comprised of
-  Part of Lot 9 and all of Lot 10, Plan 33M-415, as outlined on the sketch attached
-  hereto as Schedule “A”, the offer submitted by Tire Supplier Distribution
-  Inc. (the “Purchaser”) to purchase the subject property from the City, at a
-  purchase price of $252,000.00 (reflecting a sale price of $75,000.00 per
-  acre) BE ACCEPTED subject to the following conditions:
- 
-a)                     the
-  City permitting an initial building coverage of 10.9 percent in place of the
-  required 15 percent, as prescribed by Clause 5(2) of the Industrial Land Sale
-  Policy; and
- 
-b)         the
-  Purchaser satisfying itself that it will be able to obtain site plan approval
-  in connection with the Purchaser’s intended development and use of the
-  subject property.
- 
-2.  That, as a procedural matter pursuant
-  to Section 239 (6) of the Municipal Act, 2001, the following recommendation
-  be forwarded to City Council for deliberation and a vote in public session:
- 
-That, on the recommendation of the Manager
-  of Realty Services, the following actions be taken with respect to the
-  property expropriated by the City, located at 1600 – 1622 Hyde Park Road,
-  shown as Parts 4, 5 and 6, Plan 33R-18316, further described as Parts 1, 2
-  and 3, Expropriation Plan ER-936617 registered on June 30, 2014, containing
-  an area of 10,381.8 square feet, for the purpose of the Hyde Park Road
-  Widening and Improvements Project between South Carriage Road and Fanshawe
-  Park Road West:
- 
-a)         the
-  Settlement Agreement submitted by Hyde Park Investments 2012 Limited (the
-  “Owner”), attached as Appendix “B”, to settle in full, final and
-  complete settlement of all claims of the Owner, including interest, against
-  the City arising out of or in any way connected with the expropriation BE
-  ACCEPTED subject to the following conditions:
- 
-            i)
-           the City agreeing to pay the Owner’s reasonable legal costs,
-  including fees, disbursements and applicable taxes to complete this
-  transaction, subject to assessment;
- 
-            ii) 
-         the City agreeing to arrange for and to pay for the loss of the
-  parking bollards, any gravel and paved sections, relocation/ removal of
-  sign(s), and any landscaping; and
- 
-b)         the
-  financing for this settlement BE APPROVED as set out in the Source of
-  Financing Report attached hereto as Appendix “A”.
-
-****
-
-Motion Passed
-
-> [!abstract]- Vote:
-> |Yeas:|
-> |-|
-> |M. Brown|
-> |M. van Holst|
-> |B. Armstrong|
-> |M. Salih|
-> |J. Helmer|
-> |M. Cassidy|
-> |P. Squire|
-> |J. Morgan|
-> |P. Hubert|
-> |A. Hopkins|
-> |V. Ridley|
-> |S. Turner|
-> |H.L. Usher|
-> |T. Park|
-> |J. Zaifman (15)|
-
-> **Motion Passed**
-
-****
-
-  as  Prime Consultant for the Southwest Multi-Purposed Recreation Centre (RFP
-  14-61) (Project # RC2755)
-
-That, on the recommendation of the Managing
-  Director, Parks and Recreation and the Managing Director, Neighbourhood,
-  Children and Fire Services, the following actions be taken with respect to
-  Southwest Multi-Purpose Recreation Centre (RFP 14-61, Project # RC2755):
- 
-a)         the
-  proposal submitted by MacLennan Jaunkalns Miller Architects Ltd., 202-19
-  Duncan Street, Toronto, Ontario, M5H 3H1, to act as Prime Consultant for the
-  project, with a fee in the amount of $2,498,600 (excluding H.S.T.), BE ACCEPTED;
-  it being noted that the proposal submitted by MacLennan Jaunkalns Miller
-  Architects Ltd. was deemed to provide the best technical and financial value
-  to the Corporation and meets the City’s requirements in all areas; if being
-  further noted that acceptance is in compliance with Section 15.2 of the
-  Procurement of Goods and Services Policy;
- 
-b)         the
-  financing for this project BE APPROVED as set out in the Sources of Financing
-  Report, as appended to the staff report dated February 18, 2015; 
- 
-c)         the
-  Civic Administration BE AUTHORIZED to undertake all administrative acts which
-  are necessary in connection with the project; 
- 
-d)         the
-  approvals given herein BE CONDITIONAL upon the Corporation entering into a
-  formal contract with the consultant for the work; and,
- 
-e)         the
-  Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
-  documents, if required, to give effect to these recommendations.  (2015-F18)
-
-Motion Passed
+Motion
+Passed
 
 > [!abstract]- Vote:
 > |Yeas:|
@@ -321,10 +150,414 @@ Motion Passed
 > |T. Park|
 > |J. Zaifman (14)|
 
-> **Motion Passed**
+> **Motion
+Passed**
 
 ****
 
+# VIII.&nbsp;&nbsp;&nbsp;MOTIONS OF
+  WHICH NOTICE IS GIVEN
+
+# IX.&nbsp;&nbsp;&nbsp;REPORTS
+
+7th Report of the
+  Corporate Services Committee
+Councillor M. Cassidy presents.
+
+> Moved by Councillor M. Cassidy
+
+Approve clauses 1 to 10, inclusive.
+
+****
+
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of
+  Pecuniary Interest
+
+That it BE NOTED that no pecuniary
+  interests were disclosed.
+
+# 2.&nbsp;&nbsp;&nbsp;Additional
+  Municipal Act Reporting Requirements Due to Implementation of Tangible
+  Capital Assets
+
+That on the recommendation of the Managing
+  Director, Corporate Services and City Treasurer, Chief Financial Officer, the
+  staff report dated February 17, 2015 regarding additional Municipal Act
+  reporting requirements due to implementation of Tangible Capital Assets BE
+  RECEIVED for information.
+
+# 3.&nbsp;&nbsp;&nbsp;2015 Debenture
+  Issuance
+
+That the Managing Director, Corporate
+  Services and City Treasurer, Chief Financial Officer BE AUTHORIZED to proceed
+  with the issue of debentures to provide permanent financing for capital works
+  in an amount not to exceed $40,500,000 (Appendix A to the staff report dated
+  February 17, 2015) through debentures in the capital markets with the flexibility
+  to postpone the issuance for unfavourable market conditions.
+
+# 4.&nbsp;&nbsp;&nbsp;Declare Surplus a
+  Portion of City-Owned Property - 7 Annadale Drive - Former Sherwood Forest
+  Public School
+
+That, on the recommendation of the Managing
+  Director of Corporate Services and City Treasurer, Chief Financial Officer,
+  with the concurrence of the Managing Director of Planning and City Planner,
+  on the advice of the Manager of Realty Services, the following actions be
+  taken with respect to a portion of the City-owned property (subject to
+  Reference Plan) at 7 Annadale Drive, described as All of Lots 225-227,
+  242-245, 267-271, Block “I” and part of Block “K”, Registered Plan No. 891,
+  in the City of London, County of Middlesex, containing a land area of
+  approximately 3.8 acres, as shown on Schedule “A” (“Surplus Lands”) as
+  appended to the staff report dated February 17, 2015:
+ 
+a)         the subject property (“Surplus
+  Lands”) BE DECLARED surplus; and
+ 
+b)         the
+  subject property (“Surplus Lands”) BE DISPOSED of in compliance with the City’s
+  Sale and Other Disposition of Land Policy via a Request for Proposals.
+
+# 5.&nbsp;&nbsp;&nbsp;7 Annadale Drive -
+  Former Sherwood Forest Public School - Request for Proposals
+
+That, on the recommendation of the Managing
+  Director, Planning and City Planner, the staff report dated February 17, 2015
+  pertaining to the preparation of a Request for Proposals (RFP) process for a
+  portion of City- owned property located at 7 Annadale Drive, as shown on
+  Schedule “A” (and described as “Surplus Lands), BE RECEIVED; it being noted that
+  the Managing Director of Corporate Services and City Treasurer, Chief
+  Financial Officer has recommended, under separate cover and with the
+  concurrence of the Managing Director, Planning and City Planner, the
+  declaration of those lands shown on Schedule “A”  to the staff report dated
+  February 17, 2015 (and described as “Surplus Lands”) as “Surplus Lands”, and
+  further that those “Surplus Lands” be disposed of through a Request for
+  Proposal process.
+
+# 6.&nbsp;&nbsp;&nbsp;Submission to
+  Ministry of Education Review of the Pupil Accommodation Review Guideline
+  (PARG)
+
+That, on the recommendation of the Director
+  of Intergovernmental and Community Liaison, the following actions be taken in
+  connection with the Ministry of Education Review of the Pupil Accommodation
+  Review Guideline (PARG):
+ 
+a)         the
+  draft City of London response to the Ministry of Education Review of the
+  Pupil Accommodation Review Guideline BE ENDORSED;
+ 
+b)         the
+  Mayor BE REQUESTED to write a letter to the Minister of Education, advising
+  of the City of London's concerns with respect to this Review;  and 
+ 
+c)         the
+  Civic Administration BE REQUESTED to report back at a future meeting of the
+  Corporate Services Committee following the release of any revisions to the
+  PARG by the Ministry of Education.
+
+# 7.&nbsp;&nbsp;&nbsp;Bid to Host 2017
+  Board Meeting of the Federation of Canadian Municipalities (FCM)
+
+That, on the recommendation of the Director
+  of Intergovernmental and Community Liaison, the Civic Administration BE
+  AUTHORIZED to submit a proposal for the City of London to host an FCM Board Meeting
+  in March or September 2017, including an undertaking that the City of London
+  will: 
+ 
+a)         host
+  and finance a welcome reception and a reception/dinner event;
+ 
+b)         provide
+  complimentary computer equipment and an on-call technician during the entire
+  event;
+ 
+c)         provide
+  complimentary shuttle transportation between hotels and to social events, if
+  necessary; and
+ 
+d)         contact
+  local media and encourage coverage of meetings and possible press
+  conferences.
+
+# 8.&nbsp;&nbsp;&nbsp;Tax Adjustment
+  Agenda
+
+That the recommendations contained in the
+  Tax Adjustment Agenda dated February 17, 2015 BE APPROVED; it being pointed
+  out that at the public participation meeting associated with this matter, the
+  following individual made an oral submission in connection therewith:
+ 
+-    C.
+  McAlpine, on behalf of F. Obahi, indicating support for the recommended 2014
+  tax reduction for the property located at 1445 Sunningdale Road, and asking
+  if the decision regarding 2013 taxes could be appealed, notwithstanding the
+  statutory appeal period was not met by the owner.
+
+# 9.&nbsp;&nbsp;&nbsp;Request for
+  Designation of the International Food Festival as a Municipally Significant
+  Event
+
+That the International Food Festival to be
+  held June 26, 2015 to June 29, 2015 in Victoria Park, BE DESIGNATED as an
+  event of municipal significance in the City of London.
+
+# 10.&nbsp;&nbsp;&nbsp;Request for
+  Designation of the London Rib Fest as a Municipally Significant Event
+
+That the London Rib Fest, to be held July
+  30, 2015 to August 3, 2015, in Victoria Park, BE DESIGNATED as an event of
+  municipal significance in the City of London.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |M. Brown|
+> |M. van Holst|
+> |B. Armstrong|
+> |M. Salih|
+> |J. Helmer|
+> |M. Cassidy|
+> |J. Morgan|
+> |P. Hubert|
+> |A. Hopkins|
+> |V. Ridley|
+> |S. Turner|
+> |H.L. Usher|
+> |T. Park|
+> |J. Zaifman (14)|
+
+> **Motion
+Passed**
+
+****
+
+5th Report of the
+  Planning and Environment Committee
+Councillor M. Cassidy presents.
+
+> Moved by Councillor M. Cassidy
+
+Approve clauses 1 to 11, inclusive.
+
+****
+
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of
+  Pecuniary Interest
+
+That it BE NOTED that no pecuniary
+  interests were disclosed.
+
+# 2.&nbsp;&nbsp;&nbsp;1st Report of the
+  Trees and Forests Advisory Committee
+
+That, the following actions be taken with
+  respect to the 1st Report of the Trees and Forests Advisory Committee from
+  its meeting held on January 28, 2015:
+ 
+a)         clauses
+  1 to 10 of the 1st Report of the Trees and Forests Advisory Committee BE
+  RECEIVED; and,
+ 
+b)         the
+  Civic Administration BE REQUESTED to report back to a future meeting of the
+  Planning and Environment Committee providing information on the types of
+  trees species that are planted on the boulevard.
+
+# 3.&nbsp;&nbsp;&nbsp;Urban Regeneration
+  Engagement and Education Outreach Strategy
+
+That, on the recommendation of the Managing
+  Director, Planning and City Planner, the following actions be taken with
+  respect to the Urban Regeneration Engagement and Education Outreach Strategy:
+ 
+a)         the
+  Managing Director, Planning and City Planner’s report, dated February 17,
+  2015, BE RECEIVED; and,
+ 
+b)         the
+  Civic Administration BE DIRECTED to initiate the outreach strategy in the
+  community with respect to the Urban Regeneration Engagement and Education Strategy.  
+  (2015-D19)
+
+# 4.&nbsp;&nbsp;&nbsp;Draft
+  Beaufort/Irwin/Gunn/Saunby (BIGS) Secondary Plan
+
+That, on the recommendation of the Managing
+  Director, Planning and City Planner, the following actions be taken with
+  respect to the draft Beaufort/Irwin/Gunn/Saunby (“BIGS”) Secondary Plan:
+ 
+ 
+a)         the
+  draft Beaufort/Irwin/Gunn/Saunby (“BIGS”) Secondary Plan, as appended to the
+  staff report dated February 17, 2015, BE CIRCULATED to the public, agencies
+  and other City departments for review and comment; and,
+ 
+b)         a
+  Public Participation Meeting BE SCHEDULED at a future meeting of the Planning
+  and Environment Committee.  (2015-D09)
+
+# 5.&nbsp;&nbsp;&nbsp;Chelsea Green
+  Subdivision (formerly Terrace Street Subdivision) - Amendment to Special
+  Provisions (39T-02511)
+
+That, on the recommendation of the Senior
+  Planner, Development Services, with respect to entering into a subdivision
+  agreement between The Corporation of the City of London and AAR-CON
+  Enterprises Corp., for the subdivision of land over Part of Blocks A, B and
+  C, Part of Terrace Street (Closed by By-law No. 8865-28, Inst. No. CB225),
+  Registered Plan No. 437(C), All of Lots 1 to 12 (both inclusive), All of
+  Block W and Part of Block R, Registered Plan No. 500, (amended by order No.
+  EL34037), in the former Township of Westminster, now in the City of London,
+  County of Middlesex, situated at the west limit of Terrace Street, west of
+  Adelaide Street South, the Ontario Municipal Board BE ADVISED that the
+  Municipal Council supports the approval of the amended Special Provisions, as
+  appended to the staff report dated February 17, 2015 as Schedule “A”, which
+  are to be contained in a Subdivision Agreement between The Corporation of the
+  City of London and AAR-CON Enterprises Corp., for the Chelsea Green
+  Subdivision (39T-02511); it being noted that the recommended amendments to
+  the Special Provisions, which were approved by the Municipal Council on
+  September 2, 2014, affect clauses 28 (a), (b), (c), (d), (e), (f) and 28 (av)
+  and the addition of a new clause 28 ( ).    (2015-D12)
+
+# 6.&nbsp;&nbsp;&nbsp;Building Division
+  Monthly Report for December 2014
+
+That, the Building Division Monthly Report
+  for December 2014, BE RECEIVED.   (2015-D00)
+
+# 7.&nbsp;&nbsp;&nbsp;Downtown Design
+  Manual
+
+That, on the recommendation of the Managing
+  Director, Planning and City Planner, the following actions be taken with
+  respect to the Downtown Design Manual:
+ 
+a)         the
+  Managing Director, Planning and City Planner's report, dated February 17,
+  2015, BE RECEIVED; and,
+ 
+b)         the
+  Draft Downtown Design Manual, as appended to the staff report dated February
+  17, 2015,  BE CIRCULATED to the London Development Institute, the Urban
+  League of London, the London Homebuilders Association, the London Area
+  Planning Consultants, London area landscape architects and urban designers,
+  the London Transit Commission, the London Society of Architects, the London
+  Advisory Committee on Heritage, the Environmental and Ecological Planning
+  Advisory Committee, the City’s Utility Coordinating Committee, the Urban
+  Design Peer Review Panel and other Advisory Committees and external agencies;
+ 
+it being pointed out that there were no
+  oral submissions made at the public participation meeting associated with
+  this matter.    (2015-D32)
+
+# 8.&nbsp;&nbsp;&nbsp;General Orientation
+  - Key Committee Matters - Planning
+
+That, the attached orientation
+  presentation from the Manager, Urban Regeneration, BE RECEIVED.
+
+# 9.&nbsp;&nbsp;&nbsp;General Orientation
+  - Key Committee Matters - Development Services
+
+That, the following actions be taken with
+  respect to the  orientation presentation from the Manager, Development
+  Services and Planning Liaison: 
+ 
+a)         the
+  orientation presentation from the Manager, Development Services and Planning
+  Liaison, BE RECEIVED; and,
+ 
+b)         the
+  Civic Administration BE REQUESTED to report to the Planning and Environment
+  Committee, on an annual basis, the nature of the variances that are granted
+  by the Committee of Adjustment.
+
+# 10.&nbsp;&nbsp;&nbsp;Proposed Lambeth
+  Community Improvement Plan
+
+That, the communications from Councillor A.
+  Hopkins and G. Faul, President, Lambeth Community Association, with respect
+  to the request for a Community Improvement Plan for the Lambeth area, BE
+  REFERRED to the Civic Administration for incorporation into the Planning
+  Departments Work Plan, the South West Area Plan and 2015 Budget and to report
+  back at a future Planning and Environment Committee meeting;
+ 
+it being noted that the Planning and
+  Environment Committee reviewed and received the following communications,
+  with respect to this matter:
+ 
+-           a communication, dated January
+  29, 2015, from Councillor A. Hopkins; and,
+-           a
+  communication, dated February 5, 2015, from G. Faul, President, Lambeth
+  Community Association.  (2015-D19)
+
+# 11.&nbsp;&nbsp;&nbsp;General Orientation
+  - Key Committee Matters - Development Financing
+
+That, the Director, Development Finance BE
+  DIRECTED to present an orientation presentation relating to development charges
+  and development finance, at a future Strategic Priorities and Policy
+  Committee meeting.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |M. Brown|
+> |M. van Holst|
+> |B. Armstrong|
+> |M. Salih|
+> |J. Helmer|
+> |M. Cassidy|
+> |J. Morgan|
+> |P. Hubert|
+> |A. Hopkins|
+> |V. Ridley|
+> |S. Turner|
+> |H.L. Usher|
+> |T. Park|
+> |J. Zaifman (14)|
+
+> **Motion
+Passed**
+
+****
+
+3rd Report of the
+  Community and Protective Services Committee
+Councillor J. Morgan presents.
+
+> Moved by Councillor J. Morgan
+
+> Seconded by to Approve clauses 1
+
+16, excluding clauses 4, 5 and 12.
+
+****
+
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary
+  Interest
+
+That it BE NOTED that no pecuniary interest
+  were disclosed.
+
+# 2.&nbsp;&nbsp;&nbsp;1st Report of the
+  Accessibility Advisory Committee
+
+That the 1st Report of the Accessibility
+  Advisory Committee from its meeting held on January 29, 2015, BE RECEIVED.
+
+# 3.&nbsp;&nbsp;&nbsp;London's Child and
+  Youth Network 2014 Progress Report and Child and Youth Network Impact
+  Assessment Update
+
+That, on the recommendation of the Managing
+  Director, Neighbourhood, Children and Fire Services, the Child and Youth
+  Network 2014 Progress Report and the Child and Youth Network Impact
+  Assessment update BE RECEIVED, for information. (2015-S12)
+
+# 6.&nbsp;&nbsp;&nbsp;Recreation Activity
   Management System (RFP 14-48)
 
 That, on the recommendation of the Managing
@@ -355,6 +588,7 @@ d)         the
 it being noted that the above-noted
   additional costs will be reflected in the 2016 operating budget.  (2015-F18)
 
+# 7.&nbsp;&nbsp;&nbsp;Agreement to
   Approve a Management Contract (AAMC) Regarding the Long Term Care and Adult
   Day Program Management Consulting and Administrator Services Contract for
   the  Dearness Homes
@@ -382,6 +616,7 @@ b)         the
   Civic Administration BE AUTHORIZED to undertake all the administrative acts
   that are necessary in connection with the above-noted Agreement.  (2015-S02)
 
+# 8.&nbsp;&nbsp;&nbsp;Housing
   Collaborative Initiative (HCI) Update
 
 That, on the recommendation of the Director
@@ -391,6 +626,7 @@ That, on the recommendation of the Director
   Administration, through the Housing Collaborative Initiative, BE RECEIVED for
   information.(2015-S11)
 
+# 9.&nbsp;&nbsp;&nbsp;Changes to
   Proposals Under Investment in Affordable Housing (IAH) Program (RFP14-36)
 
 That, on the recommendation of the Director
@@ -440,6 +676,7 @@ ii)         the
   Mayor and the City Clerk BE AUTHORIZED to execute the said Amendment
   Agreement.  (2015-F18)
 
+# 10.&nbsp;&nbsp;&nbsp;Investment in
   Affordable Housing (IAH) Program (2014 Extension) Funding Years 2 to 6 and
   Recommendation for Additional Proposal Under (RFP 14-36)
 
@@ -481,6 +718,7 @@ ii)         the
   Mayor and the City Clerk BE AUTHORIZED to execute the said Agreement. 
   (2015-F18)
 
+# 11.&nbsp;&nbsp;&nbsp;End of Operation
   Agreement (EOA) for Social Housing Providers in London and Middlesex County
 
 That, on the recommendation of the Director
@@ -505,6 +743,7 @@ b)         in
   Services Corporation (HSC), the City of London BE ENGAGED with senior levels
   of government for shared solutions.  (2015-S11)
 
+# 13.&nbsp;&nbsp;&nbsp;General Orientation
   – Key Committee Matters
 
 That the Age Friendly Network and Child and
@@ -512,6 +751,7 @@ That the Age Friendly Network and Child and
   Director, Neighbourhood and Children and Fire Services, BE RECEIVED. 
   (2015-S12)
 
+# 14.&nbsp;&nbsp;&nbsp;2nd Report of the
   Animal Welfare Advisory Committee
 
 That the following actions be taken with
@@ -562,6 +802,7 @@ it being noted that the Animal Welfare
 e)         clauses 1 to 2, 4 to 6, 8 and 10
   BE RECEIVED.
 
+# 15.&nbsp;&nbsp;&nbsp;1st Report of the
   Community Safety and Crime Prevention Advisory Committee
 
 That the following actions be taken with
@@ -602,6 +843,7 @@ c)         the
 d)         clauses 1 to 6 and 8 and 10 BE
   RECEIVED.
 
+# 16.&nbsp;&nbsp;&nbsp;2nd Report of the
   London Housing Advisory Committee
 
 That the following actions be taken with
@@ -636,6 +878,134 @@ it being noted that the London Housing
 b)         clauses 1, 2, 4 and 5 BE
   RECEIVED.
 
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |M. Brown|
+> |M. van Holst|
+> |B. Armstrong|
+> |M. Salih|
+> |J. Helmer|
+> |M. Cassidy|
+> |J. Morgan|
+> |P. Hubert|
+> |A. Hopkins|
+> |V. Ridley|
+> |S. Turner|
+> |H.L. Usher|
+> |T. Park|
+> |J. Zaifman (14)|
+
+> **Motion
+Passed**
+
+****
+
+# 4.&nbsp;&nbsp;&nbsp;Memorandum of
+  Understanding - Proposed Joint Venture to Construct and Operate a Facility
+  between The City of London and The YMCA of Western Ontario and The London
+  Public Library Board
+
+That, on the recommendation of the Managing
+  Director, Parks and Recreation and the Managing Director, Neighbourhood,
+  Children and Fire Services, with the advice of legal counsel, the following
+  actions be taken with respect to the Memorandum of Understanding for the
+  proposed joint venture to construct and operate a facility between The
+  Corporation of the City of London and the YMCA of Western Ontario and the
+  London Public Library Board:
+ 
+a)         the
+  proposed by-law, as appended to the staff report dated February 18, 2015, BE
+  INTRODUCED at the Municipal Council meeting to be held on February 24, 2015,
+  to approve a Memorandum of Understanding with the YMCA of Western Ontario and
+  the London Public Library Board with respect to a joint venture to construct
+  and operate a community centre, recreation centre and a public library branch
+  in Southwest London;
+ 
+b)         the
+  Mayor and the City Clerk BE AUTHORIZED to execute the above-noted Memorandum
+  of Understanding. (2015-R05B)
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |M. Brown|
+> |M. van Holst|
+> |B. Armstrong|
+> |M. Salih|
+> |J. Helmer|
+> |M. Cassidy|
+> |J. Morgan|
+> |P. Hubert|
+> |A. Hopkins|
+> |V. Ridley|
+> |S. Turner|
+> |H.L. Usher|
+> |T. Park|
+> |J. Zaifman (14)|
+
+> **Motion Passed**
+
+****
+
+# 5.&nbsp;&nbsp;&nbsp;Architect to Act
+  as  Prime Consultant for the Southwest Multi-Purposed Recreation Centre (RFP
+  14-61) (Project # RC2755)
+
+That, on the recommendation of the Managing
+  Director, Parks and Recreation and the Managing Director, Neighbourhood,
+  Children and Fire Services, the following actions be taken with respect to
+  Southwest Multi-Purpose Recreation Centre (RFP 14-61, Project # RC2755):
+ 
+a)         the
+  proposal submitted by MacLennan Jaunkalns Miller Architects Ltd., 202-19
+  Duncan Street, Toronto, Ontario, M5H 3H1, to act as Prime Consultant for the
+  project, with a fee in the amount of $2,498,600 (excluding H.S.T.), BE ACCEPTED;
+  it being noted that the proposal submitted by MacLennan Jaunkalns Miller
+  Architects Ltd. was deemed to provide the best technical and financial value
+  to the Corporation and meets the City’s requirements in all areas; if being
+  further noted that acceptance is in compliance with Section 15.2 of the
+  Procurement of Goods and Services Policy;
+ 
+b)         the
+  financing for this project BE APPROVED as set out in the Sources of Financing
+  Report, as appended to the staff report dated February 18, 2015; 
+ 
+c)         the
+  Civic Administration BE AUTHORIZED to undertake all administrative acts which
+  are necessary in connection with the project; 
+ 
+d)         the
+  approvals given herein BE CONDITIONAL upon the Corporation entering into a
+  formal contract with the consultant for the work; and,
+ 
+e)         the
+  Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
+  documents, if required, to give effect to these recommendations.  (2015-F18)
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |M. Brown|
+> |M. van Holst|
+> |B. Armstrong|
+> |M. Salih|
+> |J. Helmer|
+> |M. Cassidy|
+> |J. Morgan|
+> |P. Hubert|
+> |A. Hopkins|
+> |V. Ridley|
+> |S. Turner|
+> |H.L. Usher|
+> |T. Park|
+> |J. Zaifman (14)|
+
+> **Motion Passed**
+
+****
+
+# 12.&nbsp;&nbsp;&nbsp;Food Trucks
 
 That on the recommendation of the Managing
   Director, Development and Compliance Services and the Chief Building
@@ -686,6 +1056,8 @@ E. Cormier, Patton Cormier &
 
 Motion Passed
 
+Motion Passed
+
 > [!abstract]- Vote:
 > |Yeas:|Nays:|
 > |-|-|
@@ -716,10 +1088,6 @@ pursuant to section 13.6 of the
   Council Procedure By-law clause 12 of the 3rd Report of the Community and
   Protective Services Committee BE RECONSIDERED, as there was a
   misunderstanding of the question that was put.
-
-****
-
-Motion Passed
 
 > [!abstract]- Vote:
 > |Yeas:|
@@ -795,10 +1163,6 @@ Downtown Businesses, email; and,
 E. Cormier, Patton Cormier &
        Associates.
 
-****
-
-Motion Passed
-
 > [!abstract]- Vote:
 > |Yeas:|
 > |-|
@@ -822,6 +1186,7 @@ Motion Passed
 
 ****
 
+# 17.&nbsp;&nbsp;&nbsp;1st Report of the
   Town and Gown Committee
 
 That the following actions be taken with
@@ -836,8 +1201,6 @@ a)         clause
  
 b)         clauses 1 and 3 to 16 BE
   RECEIVED.
-
-Motion Failed
 
 > [!abstract]- Vote:
 > |Yeas:|Nays:|
@@ -872,10 +1235,6 @@ Approve that pursuant to section 13.8 of
   of Councillor M. Cassidy as Chair of the Town and Gown Committee BE
   RECONSIDERED to recognize that the term of the appointment for Councillor M.
   Cassidy should be concurrent with the term of her appointment as Deputy Mayor.
-
-****
-
-Motion Passed
 
 > [!abstract]- Vote:
 > |Yeas:|
@@ -920,9 +1279,102 @@ b)         Councillor
  
 c)         clauses 1 to 16 BE RECEIVED.
 
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |M. Brown|
+> |M. van Holst|
+> |B. Armstrong|
+> |M. Salih|
+> |J. Helmer|
+> |M. Cassidy|
+> |P. Squire|
+> |J. Morgan|
+> |P. Hubert|
+> |A. Hopkins|
+> |V. Ridley|
+> |S. Turner|
+> |H.L. Usher|
+> |T. Park|
+> |J. Zaifman (15)|
+
+> **Motion Passed**
+
 ****
 
-Motion Passed
+2nd Report of the
+  Audit Committee
+Councillor P. Hubert presents.
+
+> Moved by Councillor P. Hubert Approve
+  clauses 1
+
+4, inclusive.
+
+****
+
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of
+  Pecuniary Interest
+
+That it BE NOTED that no pecuniary
+  interests were disclosed.
+
+# 2.&nbsp;&nbsp;&nbsp;Report on Specified
+  Auditing Procedures
+
+That the KPMG Report on Specified Auditing
+  Procedures, dated July 23, 2014, BE RECEIVED.
+
+# 3.&nbsp;&nbsp;&nbsp;Audit Planning
+  Report for the Year Ending December 31, 2014
+
+That the KPMG LLP Audit Planning Report,
+  for the year ending December 31, 2014, BE APPROVED.
+
+# 4.&nbsp;&nbsp;&nbsp;Quarterly Report on
+  Internal Audit Results - Development and Compliance Services - By-law
+  Enforcement and Licensing
+
+That, on the recommendation of
+  PricewaterhouseCoopers (PwC), the Action Plans identified in PwC's report
+  dated February 18, 2015 BE IMPLEMENTED with respect to the Quarterly Reports
+  on Internal Audit Results – Development and Compliance Services - By-law Enforcement
+  and Licensing; it being noted that the Civic Administration will report back
+  on the recommendations through the Audit Committee and/or the appropriate
+  Standing Committee where applicable.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |M. Brown|
+> |M. van Holst|
+> |B. Armstrong|
+> |M. Salih|
+> |J. Helmer|
+> |M. Cassidy|
+> |P. Squire|
+> |J. Morgan|
+> |P. Hubert|
+> |A. Hopkins|
+> |V. Ridley|
+> |S. Turner|
+> |H.L. Usher|
+> |T. Park|
+> |J. Zaifman (15)|
+
+> **Motion
+Passed**
+
+****
+
+11th Report of the
+  Strategic Priorities and Policy Committee
+Councillor M. Cassidy presents.
+
+> Moved by Councillor M. Cassidy
+  Approve clauses 1
+
+20, inclusive.
 
 > [!abstract]- Vote:
 > |Yeas:|
@@ -947,18 +1399,107 @@ Motion Passed
 
 ****
 
-> Moved by Councillor P. Hubert Approve
-  clauses 1
+5th Report of the
+  Committee of the Whole
+Councillor P. Hubert presents.
 
-4, inclusive.
+> Moved by Councillor P. Hubert
+
+> Seconded by Councillor H.L. Usher
+
+Approve:
+ 
+1.  That, as a procedural matter pursuant
+  to Section 239 (6) of the Municipal Act, 2001, the following recommendation
+  be forwarded to City Council for deliberation and a vote in public session:
+ 
+That, on the recommendation of the Managing
+  Director, Corporate Services and City Treasurer, Chief Financial Officer, on
+  the advice of the Manager of Realty Services, with respect to the City-owned
+  industrial land located on the south side of Scanlan Street, in the River
+  Road Industrial Park, containing an area of 3.36 acres, being comprised of
+  Part of Lot 9 and all of Lot 10, Plan 33M-415, as outlined on the sketch attached
+  hereto as Schedule “A”, the offer submitted by Tire Supplier Distribution
+  Inc. (the “Purchaser”) to purchase the subject property from the City, at a
+  purchase price of $252,000.00 (reflecting a sale price of $75,000.00 per
+  acre) BE ACCEPTED subject to the following conditions:
+ 
+a)                     the
+  City permitting an initial building coverage of 10.9 percent in place of the
+  required 15 percent, as prescribed by Clause 5(2) of the Industrial Land Sale
+  Policy; and
+ 
+b)         the
+  Purchaser satisfying itself that it will be able to obtain site plan approval
+  in connection with the Purchaser’s intended development and use of the
+  subject property.
+ 
+2.  That, as a procedural matter pursuant
+  to Section 239 (6) of the Municipal Act, 2001, the following recommendation
+  be forwarded to City Council for deliberation and a vote in public session:
+ 
+That, on the recommendation of the Manager
+  of Realty Services, the following actions be taken with respect to the
+  property expropriated by the City, located at 1600 – 1622 Hyde Park Road,
+  shown as Parts 4, 5 and 6, Plan 33R-18316, further described as Parts 1, 2
+  and 3, Expropriation Plan ER-936617 registered on June 30, 2014, containing
+  an area of 10,381.8 square feet, for the purpose of the Hyde Park Road
+  Widening and Improvements Project between South Carriage Road and Fanshawe
+  Park Road West:
+ 
+a)         the
+  Settlement Agreement submitted by Hyde Park Investments 2012 Limited (the
+  “Owner”), attached as Appendix “B”, to settle in full, final and
+  complete settlement of all claims of the Owner, including interest, against
+  the City arising out of or in any way connected with the expropriation BE
+  ACCEPTED subject to the following conditions:
+ 
+            i)
+           the City agreeing to pay the Owner’s reasonable legal costs,
+  including fees, disbursements and applicable taxes to complete this
+  transaction, subject to assessment;
+ 
+            ii) 
+         the City agreeing to arrange for and to pay for the loss of the
+  parking bollards, any gravel and paved sections, relocation/ removal of
+  sign(s), and any landscaping; and
+ 
+b)         the
+  financing for this settlement BE APPROVED as set out in the Source of
+  Financing Report attached hereto as Appendix “A”.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |M. Brown|
+> |M. van Holst|
+> |B. Armstrong|
+> |M. Salih|
+> |J. Helmer|
+> |M. Cassidy|
+> |P. Squire|
+> |J. Morgan|
+> |P. Hubert|
+> |A. Hopkins|
+> |V. Ridley|
+> |S. Turner|
+> |H.L. Usher|
+> |T. Park|
+> |J. Zaifman (15)|
+
+> **Motion Passed**
 
 ****
 
+# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
+# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
+# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
+# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -969,10 +1510,6 @@ BY-LAWS TO BE READ A FIRST, SECOND AND
 
 Approve Introduction and First Reading
   of Bill No.s 82 to 90, including Added Bill No.s 91 and 92.
-
-****
-
-Motion Passed
 
 > [!abstract]- Vote:
 > |Yeas:|
@@ -1004,10 +1541,6 @@ Motion Passed
 Approve Second Reading of Bill No.s 82 to
   90, including Added Bill No.s 91 and 92.
 
-****
-
-Motion Passed
-
 > [!abstract]- Vote:
 > |Yeas:|
 > |-|
@@ -1038,10 +1571,6 @@ Motion Passed
 Approve Third Reading and Enactment of
   Bill No.s 82 to 90, including Added Bill No.s 91 and 92.
 
-****
-
-Motion Passed
-
 > [!abstract]- Vote:
 > |Yeas:|
 > |-|
@@ -1065,126 +1594,7 @@ Motion Passed
 
 ****
 
+# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
----
-
-## Votes
-
-*8 substantive votes at this meeting (8 contested, 0 unanimous). Procedural motions excluded.*
-
-### V. COMMITTEE
-  OF THE WHOLE, IN CAMERA
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
-
-</details>
-
-### VI. CONFIRMATION
-  AND SIGNING OF THE MINUTES OF THE SIXTH MEETING HELD ON FEBRUARY 9, 2015
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
-
-</details>
-
-### XIII. BY-LAWS
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (45):** [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Mo Salih](/councillors/current/m-salih), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Bill Armstrong](/councillors/current/b-armstrong), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Virginia Ridley](/councillors/current/v-ridley), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman), [Jared Zaifman](/councillors/current/j-zaifman), [Jared Zaifman](/councillors/current/j-zaifman)
-
-</details>
-
-### 4. Quarterly Report on
-  Internal Audit Results - Development and Compliance Services - By-law
-  Enforcement and Licensing
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (30):** [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman), [Jared Zaifman](/councillors/current/j-zaifman)
-
-</details>
-
-### 5. Architect to Act
-  as  Prime Consultant for the Southwest Multi-Purposed Recreation Centre (RFP
-  14-61) (Project # RC2755)
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
-
-</details>
-
-### 12. Food Trucks
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (44):** [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Mo Salih](/councillors/current/m-salih), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Bill Armstrong](/councillors/current/b-armstrong), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Virginia Ridley](/councillors/current/v-ridley), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman), [Jared Zaifman](/councillors/current/j-zaifman), [Jared Zaifman](/councillors/current/j-zaifman)
-
-**Nay (1):** [Harold Usher](/councillors/current/h-l-usher)
-
-</details>
-
-### 17. 1st Report of the
-  Town and Gown Committee
-
-> Motion Failed
-
-**❌ Motion Failed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (1):** [Anna Hopkins](/councillors/current/a-hopkins)
-
-**Nay (14):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
-
-</details>
-
-### 17. 1st Report of the
-  Town and Gown Committee
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (30):** [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman), [Jared Zaifman](/councillors/current/j-zaifman)
-
-</details>
+Motion Passed
 

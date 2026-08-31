@@ -4,7 +4,7 @@ date: 2014-06-25
 ---
 June 25, 2014, at  1:07 PM
 
-[Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=94dd8dce-987e-40b1-9ddf-88c76ca1c987&Agenda=PostMinutes&lang=English)
+[Original link](https://pub-london.escribemeetings.com//Meeting.aspx?Id=94dd8dce-987e-40b1-9ddf-88c76ca1c987&Agenda=PostMinutes&lang=English)
 
 > [!abstract]- Present:
 > J. Baechler, B. Polhill, B. Armstrong, J.B. Swan, S. Orser, M. Brown, P. Hubert, D.G. Henderson, P. Van Meerbergen, D. Brown, H.L. Usher, J.P. Bryant, S.E. White, C. Saunders
@@ -18,15 +18,20 @@ June 25, 2014, at  1:07 PM
 The Council meets in Special Session in the
   Council Chambers this day at 1:07 PM.
 
+# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 No pecuniary interests are disclosed.
 
+# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
+# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
+# IV.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
+# V.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE SEVENTEENTH MEETING HELD ON JUNE 24, 2014
 
 > Moved by Councillor P. Hubert
@@ -35,10 +40,6 @@ No pecuniary interests are disclosed.
 
 Approve the Minutes of the 17th Meeting
   held on June 24, 2014.
-
-****
-
-Motion Passed
 
 > [!abstract]- Vote:
 > |Yeas:|
@@ -61,8 +62,10 @@ Motion Passed
 
 ****
 
+# VI.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
+# 1.&nbsp;&nbsp;&nbsp;Resolution from the
   Special Council Meeting of June 24, 2014 with respect to the filling of the
   vacancy of a Ward seat.
 
@@ -89,10 +92,6 @@ b)     
   a similar nomination process as was followed for the filling of the vacancy
   in the Office of the Mayor.
 
-****
-
-Motion Passed
-
 > [!abstract]- Vote:
 > |Yeas:|
 > |-|
@@ -114,8 +113,10 @@ Motion Passed
 
 ****
 
+# VII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
+# VIII.&nbsp;&nbsp;&nbsp;REPORTS
 
 > Moved by Councillor H.L. Usher
 
@@ -137,10 +138,6 @@ b)  
   appropriate by-law for introduction and enactment by the Municipal Council,
   at the earliest possible date, to appoint the successful nominee to the Ward
   5 seat.
-
-****
-
-Motion Passed
 
 > [!abstract]- Vote:
 > |Yeas:|
@@ -175,10 +172,6 @@ Hamou, Mariam
 Monteith, Russell
 Williams, Garth
 
-****
-
-Motion Passed
-
 > [!abstract]- Vote:
 > |Yeas:|
 > |-|
@@ -212,10 +205,6 @@ Approve that Russell Monteith, having
   Nominee Hamou, Mariam, 1 vote; Nominee Monteith, Russell, 11 votes; and
   Nominee Williams, Garth, 1 vote.
 
-****
-
-Motion Passed
-
 > [!abstract]- Vote:
 > |Yeas:|
 > |-|
@@ -237,8 +226,10 @@ Motion Passed
 
 ****
 
+# IX.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
+# X.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
 Councillor Usher enquired how the recent
   appointments to the Office of the Mayor and the office of Ward 5 Councillor
@@ -262,8 +253,10 @@ Councillor S.E. White enquired as to the
   letter of thanks to each of the nominees for their interest in letting their
   name stand for nomination.
 
+# XI.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
+# XII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -274,10 +267,6 @@ BY-LAWS TO BE READ A FIRST, SECOND AND
 
 Approve Introduction and First Reading
   of Bill No. 336 and Bill No. 337.
-
-****
-
-Motion Passed
 
 > [!abstract]- Vote:
 > |Yeas:|
@@ -307,10 +296,6 @@ Motion Passed
 Approve Second Reading of Bill No. 336
   and Bill No. 337.
 
-****
-
-Motion Passed
-
 > [!abstract]- Vote:
 > |Yeas:|
 > |-|
@@ -339,10 +324,6 @@ Motion Passed
 Approve Third Reading and
   Enactment of Bill No. 336 and Bill No. 337.
 
-****
-
-Motion Passed
-
 > [!abstract]- Vote:
 > |Yeas:|
 > |-|
@@ -364,6 +345,7 @@ Motion Passed
 
 ****
 
+# XIII.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
 > Moved by Councillor B. Polhill
 
@@ -371,10 +353,6 @@ Motion Passed
 
 Approve adjournment.
 
-****
-
-Motion Passed
-
 > [!abstract]- Vote:
 > |Yeas:|
 > |-|
@@ -395,78 +373,4 @@ Motion Passed
 > **Motion Passed**
 
 ****
-
----
-
-## Votes
-
-*5 substantive votes at this meeting (5 contested, 0 unanimous). Procedural motions excluded.*
-
-### V. CONFIRMATION
-  AND SIGNING OF THE MINUTES OF THE SEVENTEENTH MEETING HELD ON JUNE 24, 2014
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
-
-</details>
-
-### VIII. REPORTS
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (39):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Bill Armstrong](/councillors/current/b-armstrong), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Stephen Orser](/councillors/current/s-orser), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Judy Bryant](/councillors/current/j-p-bryant), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown), [Denise Brown](/councillors/current/d-brown), [Denise Brown](/councillors/current/d-brown)
-
-</details>
-
-### XII. BY-LAWS
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (39):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Bill Armstrong](/councillors/current/b-armstrong), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Stephen Orser](/councillors/current/s-orser), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Judy Bryant](/councillors/current/j-p-bryant), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown), [Denise Brown](/councillors/current/d-brown), [Denise Brown](/councillors/current/d-brown)
-
-</details>
-
-### XIII. ADJOURNMENT
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
-
-</details>
-
-### 1. Resolution from the
-  Special Council Meeting of June 24, 2014 with respect to the filling of the
-  vacancy of a Ward seat.
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
-
-</details>
 

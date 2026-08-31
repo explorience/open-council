@@ -4,7 +4,7 @@ date: 2011-12-02
 ---
 December 2, 2011
 
-[Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=edf6f930-9b36-418e-b142-a3ca83ccf82e&Agenda=PostMinutes&lang=English)
+[Original link](https://pub-london.escribemeetings.com//Meeting.aspx?Id=edf6f930-9b36-418e-b142-a3ca83ccf82e&Agenda=PostMinutes&lang=English)
 
 > [!abstract]- Present:
 > J. Fontana;  J. B. Swan, S. Orser, M. Brown, P. Hubert, D. G. Henderson, D. Brown, J. P. Bryant, S. White;, C. Saunders
@@ -18,9 +18,12 @@ December 2, 2011
 The Council meets in Special Session in the
   Municipal Offices this day at 5:01 p.m.
 
+# I.&nbsp;&nbsp;&nbsp;DISCLOSURES OF PECUNIARY INTEREST
 
+# II.&nbsp;&nbsp;&nbsp;REVIEW OF CONFIDENTIAL MATTERS TO BE CONSIDERED IN
   PUBLIC
 
+# III.&nbsp;&nbsp;&nbsp;COMMITTEE OF THE WHOLE, IN CAMERA
 
 MOTION
   FOR IN CAMERA SESSION
@@ -49,6 +52,11 @@ The Committee rises and Council resumes in
 > **Motion Passed**
 
 ****
+
+1st REport of the COMMITTEE OF THE WHOLE
+
+Councillor P. Hubert presents the 1st
+  Report
 
 > Moved by Councillor P. Hubert
 
@@ -98,5 +106,27 @@ as procedural matter pursuant to
 
 ****
 
+Motion
+Passed
 
+Motion
+Passed
+
+# IV.&nbsp;&nbsp;&nbsp;BY-LAWS
+
+Motion Passed
+
+Motion
+Passed
+
+Motion
+Passed
+
+Motion
+Passed
+
+# V.&nbsp;&nbsp;&nbsp;ADJOURNMENT
+
+Motion
+Passed
 

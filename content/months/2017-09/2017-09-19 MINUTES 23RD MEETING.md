@@ -4,7 +4,7 @@ date: 2017-09-19
 ---
 September 19, 2017, at  4:05 PM
 
-[Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=029c5533-a6d3-45a7-b172-abcd5aad5dde&Agenda=PostMinutes&lang=English)
+[Original link](https://pub-london.escribemeetings.com//Meeting.aspx?Id=029c5533-a6d3-45a7-b172-abcd5aad5dde&Agenda=PostMinutes&lang=English)
 
 > [!abstract]- Present:
 > M. Brown, M. van Holst, M. Salih, J. Helmer, M. Cassidy, P. Squire, J. Morgan, P. Hubert, A. Hopkins, V. Ridley, S. Turner, H.L. Usher, T. Park, J. Zaifman, C. Saunders
@@ -18,6 +18,7 @@ September 19, 2017, at  4:05 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:05 PM.
 
+# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 Councillor S. Turner discloses a pecuniary
@@ -49,8 +50,10 @@ Councillor J. Morgan discloses a pecuniary
   appointment to the UWO’s Board of Governors, by indicating that he is
   employed by UWO.
 
+# III.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
+# IV.&nbsp;&nbsp;&nbsp;COUNCIL, IN
   CLOSED SESSION
 
 > Moved by Councillor J. Morgan
@@ -61,10 +64,6 @@ Approve that pursuant to section 6.4 of
   the Council Procedure By-law, the order of business be changed to permit
   Stage XI Enquiries to be considered prior to Stage IV Council, In Closed
   Session.
-
-****
-
-Motion Passed
 
 > [!abstract]- Vote:
 > |Yeas:|
@@ -102,10 +101,6 @@ Approve that  pursuant to section 11.4 of
   solicitor-client privilege, including communications necessary for that
   purpose.
 
-****
-
-Motion Passed
-
 > [!abstract]- Vote:
 > |Yeas:|
 > |-|
@@ -127,6 +122,31 @@ Motion Passed
 
 ****
 
+Motion
+Passed
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |M. Brown|
+> |M. van Holst|
+> |M. Salih|
+> |J. Helmer|
+> |M. Cassidy|
+> |P. Squire|
+> |J. Morgan|
+> |P. Hubert|
+> |A. Hopkins|
+> |V. Ridley|
+> |S. Turner|
+> |H.L. Usher|
+> |T. Park (13)|
+
+> **Motion
+Passed**
+
+****
+
 The Council rises and goes into the
   Council, in Closed Session, at 4:20 PM, with Mayor M. Brown in the Chair and
   all Members present except Councillors B. Armstrong and J. Zaifman.
@@ -141,6 +161,7 @@ The Council, in Closed Session, rises at 4:35
   PM and Council reconvenes at 4:46 PM, with Mayor M. Brown in the Chair and
   all Members present except Councillor B. Armstrong.
 
+# V.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE TWENTY-SECOND MEETING HELD ON SEPTEMBER 4,
   2017
 
@@ -151,7 +172,69 @@ The Council, in Closed Session, rises at 4:35
 Approve the Minutes of the Twenty-Second Meeting
   held on September 4, 2017.
 
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |M. Brown|
+> |M. van Holst|
+> |M. Salih|
+> |J. Helmer|
+> |M. Cassidy|
+> |P. Squire|
+> |J. Morgan|
+> |P. Hubert|
+> |A. Hopkins|
+> |V. Ridley|
+> |S. Turner|
+> |H.L. Usher|
+> |T. Park|
+> |J. Zaifman (14)|
+
+> **Motion Passed**
+
 ****
+
+# VI.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
+  AND PETITIONS
+
+> Moved by Councillor M. Salih
+
+> Seconded by Councillor T. Park
+
+Approve receipt and referral of the
+  following communications, as noted on the Added Agenda:
+
+****
+
+# 1.&nbsp;&nbsp;&nbsp;G. Welsh - Notice
+  of Intent to Designated 4402 Colonel Talbot Road - Lambeth Health
+  Organization Inc.
+
+ 
+(Refer to the Planning and Environment
+  Committee Stage for Consideration with Clause 11 of the 17th Report of the
+  Planning and Environment Committee )
+
+# 2.&nbsp;&nbsp;&nbsp;S. Lewis - Election
+  of Sign By-law
+ 
+(Refer to the Corporate Services Committee
+  Stage for Consideration with Clause 2 of the 25th Report of the Corporate
+  Services Committee )
+
+# 3.&nbsp;&nbsp;&nbsp;(ADDED) Lambeth
+  Health Organization - The Heritage Designation of 4402 Colonel Talbot Road
+ 
+(Refer to the Planning and Environment
+  Committee Stage for Consideration with Clause 11 of the 17th Report of the
+  Planning and Environment Committee )
+
+# 4.&nbsp;&nbsp;&nbsp;(ADDED) N. Sayers -
+  Municipal Regulation of Body Parlours/Strip Clubs in London ON
+ 
+ (Refer to the Community and Protective
+  Services Committee Stage for Consideration with Clause 10 of the 12th Report
+  of the Community and Protective Services Committee )
 
 Motion Passed
 
@@ -177,55 +260,989 @@ Motion Passed
 
 ****
 
-  AND PETITIONS
+# VII.&nbsp;&nbsp;&nbsp;MOTIONS OF
+  WHICH NOTICE IS GIVEN
 
-> Moved by Councillor M. Salih
+# 1.&nbsp;&nbsp;&nbsp;Request to Illuminate
+  City of London Buildings and Amenities – September 21, 2017 – International
+  Day of Peace
 
-> Seconded by Councillor T. Park
+> Moved by Councillor P. Squire
 
-Approve receipt and referral of the
-  following communications, as noted on the Added Agenda:
+> Seconded by Councillor M. Salih
+
+Approve that pursuant to section 11.3 of
+  the Council Procedure By-law, leave BE GIVEN to bring forward a motion having
+  to do with a request to have City of London buildings and amenities
+  illuminated blue and white on September 21, 2017 to recognize the
+  International Day of Peace.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |M. Brown|
+> |M. van Holst|
+> |M. Salih|
+> |J. Helmer|
+> |M. Cassidy|
+> |P. Squire|
+> |J. Morgan|
+> |P. Hubert|
+> |A. Hopkins|
+> |V. Ridley|
+> |S. Turner|
+> |H.L. Usher|
+> |T. Park|
+> |J. Zaifman (14)|
+
+> **Motion Passed**
 
 ****
 
-  Council recognizes the following City of London employees who have achieved
-  25 years of service in 2017:
- 
-From Environmental and Engineering
-  Services: Tracy Atkinson, Anne Boyd, Karl Bulitka, Brian Calhoun, Danny
-  Cardelli, Jon Chatterson, Brad Cook, Darrell Decoste, Mark Elliott, William
-  B. Gwalchmai, Paul Hawkes, Rick J. Kok, Ken Lannigan, Keith Lattimer, Douglas
-  M. Law, Ray Marino, Phil Martyn, Robert J. Moore, Michael Charles Overton,
-  John S. Parsons, Dean Wesley Prentice, Ron Psotka, Mark Vanhie, John
-  Whitworth, and John Woolsey. 
- 
-From Finance and Corporate Services: Nancy
-  Frederick, Rosalee Levy, Josephine Lopez, Shannon Manders, Stewart McCulloch,
-  Larry Palarchio, Terry Ur, and Devin Walsh.
- 
-From Legal and Corporate Services: Domenic
-  Anello, John Andrew Danaskos, Mary Goss, Dawn Sylvester, and Deb Varney.
- 
-From Parks and Recreation Services: Richard
-  Bender, Jeff Bogal, Dave Cambridge, William C. Coxhead, Jim Howard, Evan F.
-  P. Jones, Allan Moore, Grant Murphy, and Scott Preece.
+> Moved by Councillor P. Squire
 
-  Grants Program Innovation and Capital Funding Allocations (2018)
+> Seconded by Councillor H.L. Usher
 
-That the following actions be taken with
-  respect to the update on the London Community Grants Program:
+Approve that notwithstanding Council
+  Policy – “Illumination of City of London Buildings and Amenities” the City
+  Clerk BE DIRECTED to make the necessary arrangements to have City of London
+  buildings and amenities illuminated blue and white on September 21, 2017 to
+  recognize the International Day of Peace.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |M. Brown|
+> |M. van Holst|
+> |M. Salih|
+> |J. Helmer|
+> |M. Cassidy|
+> |P. Squire|
+> |J. Morgan|
+> |P. Hubert|
+> |A. Hopkins|
+> |V. Ridley|
+> |S. Turner|
+> |H.L. Usher|
+> |T. Park|
+> |J. Zaifman (14)|
+
+> **Motion Passed**
+
+****
+
+# VIII.&nbsp;&nbsp;&nbsp;REPORTS
+
+17th Report of the
+  Planning and Environment Committee
+Councillor S. Turner presents.
+
+> Moved by Councillor S. Turner
+
+Approve clauses 1 to 14, excluding clauses 11 and 13.
+
+****
+
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of
+  Pecuniary Interest
+
+That it BE NOTED that no pecuniary
+  interests were disclosed.
+
+# 2.&nbsp;&nbsp;&nbsp;9th Report of the
+  Trees and Forests Advisory Committee
+
+That the 9th Report of the Trees and
+  Forests Advisory Committee from its meeting held on August 30, 2017 BE
+  RECEIVED.
+
+# 3.&nbsp;&nbsp;&nbsp;8th Report of the
+  Environmental and Ecological Planning Advisory Committee
+
+That the 8th Report of the Environmental
+  and Ecological Planning Advisory Committee from its meeting held on August
+  24, 2017 BE RECEIVED.
+
+# 4.&nbsp;&nbsp;&nbsp;Bierens (Westfield)
+  Subdivision - Subdivision Special Provision  (39T-08502)
+
+That, on the recommendation of the Senior
+  Planner, Development Planning, the following actions be taken with respect to
+  entering into a subdivision agreement between The Corporation of the City of
+  London and Kenmore Homes (London) Inc., for the subdivision of land over Part
+  of Lot 24, Concession 3, (Geographic Township of London), City of London,
+  County of Middlesex, situated on the south side of Coronation Drive, north of
+  the Canadian Pacific Railway and on the east side of Hyde Park Road,
+  municipally known as 1331 Hyde Park Road:
  
 a)         the
-  staff report dated September 18, 2017, providing an update on the London Community
-  Grants Program, BE RECEIVED for information; and
+  Special Provisions, to be contained in a Subdivision Agreement between The
+  Corporation of the City of London and Kenmore Homes (London) Inc., for the
+  Beirens (Westfield) Subdivision (39T-08502) appended to the staff report
+  dated September 11, 2017 as Schedule “A”, BE APPROVED;
  
 b)         the
-  Managing Director, Neighbourhood, Children and Fire Services BE DIRECTED to
-  work with the London Children’s Museum as they prepare their 2018 Budget
-  Amendment form for their capital funding request for consideration as part of
-  the 2018 Annual Budget Update.
+  applicant BE ADVISED that Development Finance has summarized the claims and
+  revenues appended to the staff report dated September 11, 2017 as Schedule
+  “B”; and,
+ 
+c)         the
+  Mayor and the City Clerk BE AUTHORIZED to execute this Agreement, any
+  amending agreements and all documents required to fulfill its conditions.   
+  (2017-D12)
 
-Motion Passed
+# 5.&nbsp;&nbsp;&nbsp;Property located at
+  a portion of 1284 and1388 Sunningdale Road West (H-8800) (Relates to Bill No.
+  420)
+
+That, on the recommendation of the Senior
+  Planner, Development Planning, based on the application of Foxhollow North
+  Kent Developments Inc., relating to the properties located at 1284 and 1388
+  Sunningdale Road West: 
+ 
+a)         the
+  proposed by-law appended to the staff report dated September 11, 2017 BE
+  INTRODUCED at the Municipal Council meeting to be held on September 19, 2017
+  to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to
+  change the zoning of a portion of the subject lands FROM a Holding
+  Residential R1 (h*h-100*R1-3) Zone and a Holding Residential R1
+  (h*h-100*R1-5) Zone, TO a Holding Residential R1 (h-100*R1-3) Zone and
+  Holding Residential R1 (h-100*R1-5) Zone to remove the h. holding provision;
+  and,
+ 
+b)         the
+  application to change the zoning of the subject lands FROM a Holding
+  Residential R1 (h*h-100*R1-3) Zone and a Holding Residential R1
+  (h*h-100*R1-5) Zone TO a Residential R1 (R1-3) Zone and a Residential R1
+  (R1-5) Zone BE DEFERRED until such time as a second public access and water
+  looping is provided.   (2017-D09)
+
+# 6.&nbsp;&nbsp;&nbsp;Property located at
+  a portion of 995 Fanshawe Park Road West (H-8811) (Relates to Bill No. 421)
+
+That, on the recommendation of the Senior
+  Planner, Development Planning, based on the application of Landea Development
+  Inc., relating to the property located on a portion of 995 Fanshawe Park Road
+  West, the proposed by-law appended to the staff report dated September 11,
+  2017, BE INTRODUCED at the Municipal Council meeting to be held on September
+  19, 2017 to amend Zoning By-law No. Z.-1, (in conformity with the Official
+  Plan), to change the zoning of a portion of the subject lands FROM a Holding
+  Residential R1 Special Provision (h*h-100*R1-3 (8)) Zone, a Holding
+  Residential R1 (h*h*100* R1-4) Zone, a Holding Residential R1 (h*h-100*R1-13)
+  Zone and a Holding Residential R5 Special Provision/Residential R6 Special
+  Provision/ Residential R7 (h*h-71*h-95*h-100*h-108*R5-3 (16)/R6-5
+  (28)/R7*H15*D75) Zone TO a Residential R1 Special Provision (R1-3 (8)) Zone,
+  a Residential R1 (R1-4) Zone, a Residential R1 (R1-13) Zone and a Holding
+  Residential R5 Special Provision/ Residential R6 Special
+  Provision/Residential R7 (h-71*h-95*h-108*R5-3 (16)/R6-5 (28)/R7*H15*D75)
+  Zone to remove the holding h and h-100 provisions.    (2017-D09)
+
+# 7.&nbsp;&nbsp;&nbsp;Property located at
+  1355 Commissioners Road West (Formerly 1349-1361 Commissioners Road West)
+  (H-8782) (Relates to Bill No. 422)
+
+That, on the recommendation of the Senior
+  Planner, Development Services, based on the application of Village West
+  Developments, relating to the property located at 1355 Commissioners Road
+  West, the proposed by-law appended to the staff report dated September 11,
+  2017, BE INTRODUCED at the Municipal Council meeting to be held on September
+  19, 2017 to amend Zoning By-law No. Z.-1, (in conformity with the Official
+  Plan), to change the Zoning FROM a Holding Residential R8 Special Provision
+  (h-5*R8-4(36)) Zone TO a Residential R8 Special Provision (R8-4(36)) Zone to
+  remove the h-5 holding provision.   (2017-D09)
+
+# 8.&nbsp;&nbsp;&nbsp;Silverleaf
+  Subdivision - Subdivision Special Provision (39T-14504)
+
+That, on the recommendation of the Manager,
+  Development Planning, the following actions be taken with respect to entering
+  into a Subdivision Agreement between The Corporation of the City of London
+  and 2219008 Ontario Limited, for the subdivision of land over Part of Lot 75,
+  West of the North Branch of the Talbot Road (Geographic Township of
+  Westminister), City of London, County of Middlesex, situated on the south
+  side of Pack Road, west of Colonel Talbot Road, municipally known as 3493
+  Colonel Talbot Road:
+ 
+a)         the
+  Special Provisions, to be contained in a Subdivision Agreement between The
+  Corporation of the City of London and 2219008 Ontario Limited, for the
+  Silverleaf Subdivision, Phase 2 (39T-14504) appended to the staff report
+  dated September 11, 2017 as Schedule “A”, BE APPROVED;
+ 
+b)         the
+  applicant BE ADVISED that the Director, Development Finance, has summarized
+  the claims and revenues appended to the staff report dated September 11, 2017
+  as Schedule “B”,
+ 
+c)         the
+  financing for this project BE APPROVED as set out in the Source of Financing
+  Report appended to the staff report dated September 11, 2017 as Schedule “C”;
+  and,
+ 
+d)         the
+  Mayor and the City Clerk BE AUTHORIZED to execute this Agreement, any
+  amending agreements and all documents required to fulfil its conditions.  (2017-D12)
+
+# 9.&nbsp;&nbsp;&nbsp;Building Division
+  Monthly Report - June 2017
+
+That the Building Division Monthly Report
+  for the month of June, 2017 BE RECEIVED.  (2017-A23)
+
+# 10.&nbsp;&nbsp;&nbsp;Properties located
+  at 1175, 1185, 1195, 1205, 1215 Fanshawe Park Road West and 2151 Dalmagarry Road
+  (Z-8776/0-8792) (Relates to Bill No. 416 and 423)
+
+That, on the recommendation of the Managing
+  Director, Planning and City Planner, the following actions be taken with
+  respect to the application of 2415121 Ontario Ltd, relating to the properties
+  located at 1175, 1185, 1195, 1205 and 1215 Fanshawe Park Road West and 2151
+  Dalmagarry Road:
+ 
+a)         the
+  proposed by-law appended to the staff report dated September 11, 2017 as
+  Appendix "A" BE INTRODUCED at the Municipal Council meeting to be
+  held on September 19, 2017 to amend the Official Plan by ADDING a policy to
+  section 10.1.3 – Policies for Specific Areas – that would permit a Restricted
+  Automotive Use without a car wash;
+ 
+b)         the
+  proposed by-law appended to the staff report dated September 11, 2017 as
+  Appendix "B" BE INTRODUCED at the Municipal Council meeting to be
+  held on September 19, 2017 to amend Zoning By-law No. Z.-1, (in conformity
+  with the Official Plan as amended in part a) above), to change the zoning of
+  the subject property FROM a Neighbourhood Shopping Area Special Provision
+  (NSA5(8)) Zone TO a Neighbourhood Shopping Area Special Provision (NSA5(_))
+  Zone;  
+ 
+it being noted that no individuals spoke at
+  the public participation meeting associated with this matter;
+ 
+it being further noted that the Municipal
+  Council approves this application for the following reasons:
+ 
+-           the
+  recommended Official Plan and Zoning By-law amendment is consistent with the
+  Provincial Policy Statement 2014; 
+-           the
+  recommended Official Plan amendment to add a restricted automotive use
+  (without a carwash) to the list of uses permitted on the subject is
+  consistent with the policies of Chapter 10 (Policies for Specific Areas) of
+  the City of London Official Plan, as amended; and, 
+-           the
+  recommended zone facilitates increased usability of the subject site by
+  accommodating uses that are similar to, and compatible with, the existing
+  uses in the surrounding area;  
+-           the
+  proposed building and on-site parking is capable of supporting the requested
+  service station without resulting in any negative impacts to abutting uses;
+  and,
+-           the
+  recommended Official Plan and Zoning By-law amendment to expand the list of
+  permitted uses is consistent with, and serves to implement, the use,
+  intensity and form policies of the Shopping Area Place Type of the London
+  Plan.   (2017-D09)
+
+# 12.&nbsp;&nbsp;&nbsp;EMCO Corporation
+  Building- 1108 Dundas Street - Inventory of Heritage Resources
+
+That the communication dated September 1,
+  2017, from  P. Lombardi, Partner, Siskinds, with respect to the potential
+  inclusion of the property located at 1108 Dundas Street (EMCO building) into
+  the Inventory of Heritage Resources, BE RECEIVED.  (2017-R01)
+
+# 14.&nbsp;&nbsp;&nbsp;The 8th report of
+  the Advisory Committee on the Environment
+
+That the following actions be taken with
+  respect to the 8th Report of the Advisory Committee on the Environment from
+  its meeting held on September 6, 2017:
+ 
+a)         the
+  comments appended to the 8th Report of the Advisory Committee on the
+  Environment (ACE), dated August 8, 2017, from the Accessibility Advisory
+  Committee with respect to the Draft Urban Agriculture Strategy BE FORWARDED
+  to L. Maitland, Planner I, for consideration;
+b)         the
+  request for a representative for the Transit Project Assessment Process
+  Municipal Advisory Group, dated August 25, 2017, from J. Ramsay, Project Director,
+  BE DEFERRED to the next meeting of the Advisory Committee on the Environment
+  to allow the Committee Secretary to obtain information on the expected
+  meeting dates;
+ 
+c)         the
+  revised comments of the ACE, appended to the 8th Report of the ACE, related
+  to the Draft Urban Agriculture Strategy BE FORWARDED to L. Maitland, Planner
+  I, for consideration; and,
+ 
+d)         clauses
+  1 to 6, 9 to 11, BE RECEIVED.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |M. Brown|
+> |M. van Holst|
+> |M. Salih|
+> |J. Helmer|
+> |M. Cassidy|
+> |P. Squire|
+> |J. Morgan|
+> |P. Hubert|
+> |A. Hopkins|
+> |V. Ridley|
+> |S. Turner|
+> |H.L. Usher|
+> |T. Park|
+> |J. Zaifman (14)|
+
+> **Motion
+Passed**
+
+****
+
+# 11.&nbsp;&nbsp;&nbsp;Conservation Review
+  Board Recommendation - Notice of Intent to Designated 4402 Colonel Talbot
+  Road
+
+That the Notice of Intention to designate
+  the property located at 4402 Colonel Talbot Road BE WITHDRAWN pursuant to
+  Section 29(14b) of the Ontario Heritage Act, causing a notice of withdrawal
+  to be served on the property owner, the Ontario Heritage Trust and to be
+  published in The Londoner;
+ 
+it being noted that the Planning and
+  Environment Committee reviewed and received the following communications with
+  respect to this matter:
+ 
+-           a
+  communication dated September 6, 2017 from M. Bloxam, Architectural
+  Conservancy Ontario - London Branch;
+-           a
+  communication dated September 7, 2017 from M. Whatley, Administrative
+  Assistant, Lambeth Health Organization; and,
+-           a
+  communication dated September 7, 2017 from T. Christensen, by e-mail.
+
+At 5:07 PM, His Worship the Mayor places
+  Councillor P. Hubert in the Chair, and takes a seat at the Council Board. 
+ 
+At 5:09 PM, His Worship the Mayor resumes
+  the Chair, and Councillor P. Hubert takes his seat at the Council Board.
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|
+> |-|-|
+> |M. Brown|M. Salih|
+> |M. van Holst|J. Helmer|
+> |M. Cassidy|P. Squire|
+> |A. Hopkins|J. Morgan|
+> |H.L. Usher (5)|P. Hubert|
+> ||V. Ridley|
+> ||S. Turner|
+> ||T. Park|
+> ||J. Zaifman (9)|
+
+> **Motion Failed**
+
+****
+
+> Moved by Councillor S. Turner
+
+> Seconded by Councillor J. Helmer
+
+Approve that, on the recommendation of
+  the Managing Director, Planning and City Planner, with the advice of the
+  Heritage Planner, the following actions be taken:
+ 
+a)         the
+  staff report, dated September 11, 2017, and the report from the Conservation
+  Review Board, appended to the report as Appendix A, BE RECEIVED;
+ 
+b)         the
+  property at 4402 Colonel Talbot Road BE DESIGNATED under the provisions of
+  Section 29 of the Ontario Heritage Act as a property of cultural heritage
+  value or interest, with the statement explaining its cultural heritage value
+  or interest and identifying heritage attributes appended to this report as
+  Appendix B; and,
+ 
+c)         the
+  City Clerk BE DIRECTED to introduce a by-law to designate the property at
+  4402 Colonel Talbot Road at the next Council Meeting.
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|
+> |-|-|
+> |M. Salih|M. Brown|
+> |J. Helmer|M. van Holst|
+> |P. Squire|M. Cassidy|
+> |J. Morgan|A. Hopkins|
+> |P. Hubert|H.L. Usher (5)|
+> |V. Ridley||
+> |S. Turner||
+> |T. Park||
+> |J. Zaifman (9)||
+
+> **Motion Passed**
+
+****
+
+# 13.&nbsp;&nbsp;&nbsp;Benjamin Vasquez,
+  Vice-Chair, London Advisory Committee on Heritage re: 10th Report of the
+  London Advisory Committee on Heritage
+
+That the following actions be taken with
+  respect to the 10th Report of the London Advisory Committee on Heritage from
+  its special meeting held on September 6, 2017:
+ 
+a)         on
+  the recommendation of the London Advisory Committee on Heritage (LACH), the
+  Municipal Council BE REQUESTED to consider the designation of the property
+  located at 440 Grey Street, as the property is of cultural or heritage value
+  or interest, pursuant to Section 29 of the Ontario Heritage Act, based on the
+  revised Statement of Cultural Heritage Value or Interest appended to the 10th
+  Report of the LACH; it being noted that the subject property is located
+  within the “SoHo” area, which has been identified as a potential Heritage
+  Conservation District; 
+ 
+it being further noted that the LACH
+  received Municipal Council resolutions from the meeting held on September 5,
+  2017, related to the 9th Report of the London Advisory Committee on Heritage
+  and the Request for the Demolition of a Heritage Listed Property located at
+  440 Grey Street, with respect to this matter; and,
+ 
+it being pointed out that K. Gonyou,
+  Heritage Planner, was in attendance at the LACH meeting for the purpose of
+  providing legislative guidance related to the Ontario Heritage Act and
+  Regulation 906; and,
+ 
+b)         clause 1 BE RECEIVED;
+ 
+it being noted that the Planning and
+  Environment Committee heard a verbal presentation from B. Vasquez, Vice
+  Chair, LACH, with respect to this matter.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |M. Brown|
+> |M. van Holst|
+> |M. Salih|
+> |J. Helmer|
+> |M. Cassidy|
+> |P. Squire|
+> |J. Morgan|
+> |P. Hubert|
+> |A. Hopkins|
+> |V. Ridley|
+> |S. Turner|
+> |H.L. Usher|
+> |J. Zaifman (13) RECUSED: T. Park (1)|
+
+> **Motion Passed**
+
+****
+
+12th Report
+  Community and Protective Services Committee
+Councilor M. Salih presents.
+
+> Moved by Councillor M. Salih
+
+Approve clauses 1 to 15, excluding clauses 7, 10 and 13.
+
+****
+
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of
+  Pecuniary Interest
+
+That it BE NOTED that no pecuniary
+  interests were disclosed.
+
+# 2.&nbsp;&nbsp;&nbsp;7th and 8th Reports
+  of the Accessibility Advisory Committee
+
+That it BE NOTED that the 7th and 8th
+  Reports of the Accessibility Advisory Committee, from the meetings held on
+  July 27, 2017 and August 24, 2017, were received.
+
+# 3.&nbsp;&nbsp;&nbsp;London’s Homeless
+  Prevention System - Contract Amendment – Cargo Management Consulting Inc. -
+  Homeless Management Information System Implementation Consultant
+
+That, on the recommendation of the Managing
+  Director of Neighbourhood, Children and Fire Services, with concurrence of
+  the Director of Information Technology Services, the following actions BE
+  TAKEN with respect to increasing the value of the Purchase of Service
+  Agreement with Cargo Management Consulting Inc. for the implementation of
+  London’s Homeless Management Information System:
+ 
+a)         that
+  the value of the Purchase of Service Agreement with Cargo Management
+  Consulting Inc. for the implementation of a Homeless Management Information
+  System in accordance with Request for Proposal 16-56, at a total cost of
+  $649,500 plus HST, BE INCREASED by $76,055 to a revised total of $725,555
+  plus HST for one-time costs associated with the start-up of the Information
+  System; 
+ 
+b)         that
+  Civic Administration BE AUTHORIZED to undertake all the administrative acts
+  that are necessary in relation to this project; 
+ 
+c)         that
+  approval given herein BE CONDITIONAL upon the Corporation entering into an
+  amended Community Homelessness Prevention Initiative Purchase of Service
+  Agreement with Cargo Management Consulting Inc.; and, 
+ 
+d)         that
+  the approval noted in a) above is SUBJECT TO the availability of funding.
+  (2017-S14)
+
+# 4.&nbsp;&nbsp;&nbsp;London’s Homeless
+  Prevention System - Homelessness Partnering Strategy - Homeless Individuals
+  and Families Information System -  Data Provision Agreement (Relates to Bill
+  No. 414)
+
+That, on the recommendation of the Managing
+  Director, Neighbourhood, Children and Fire Services, with the concurrence of
+  the Director, Information Technology Services, the proposed By-law, as
+  appended to the staff report dated September 12, 2017, BE INTRODUCED at the
+  Municipal Council meeting to be held on September 19, 2017, to:
+ 
+a)         approve
+  the Data Provision Agreement, as appended to the above-noted proposed by-law,
+  between Her Majesty the Queen in Right of Canada as represented by the
+  Minister of Employment and Social Development (ESDC) and The Corporation of
+  the City of London;
+ 
+b)         delegate
+  to the Managing Director, Neighbourhood, Children and Fire Services, or their
+  designate, the authority to undertake all the administrative acts that are
+  necessary in connection with the Data Provision Agreement approved in part a)
+  above, on the condition that no additional funding is required, or if
+  additional funding is required it is provided for in the City’s current
+  budget, and that there is no increase in indebtedness or contingent
+  liabilities of The Corporation of the City of London; and,
+ 
+c)         authorize the Mayor and the City
+  Clerk to execute the above-noted Agreement.
+
+# 5.&nbsp;&nbsp;&nbsp;London’s Homeless
+  Prevention System - Homelessness Partnering Strategy Funding Agreement - 2018
+  Coordinated Point-In-Time Count (Relates to Bill No. 415)
+
+That, on the recommendation of the Managing
+  Director, Neighbourhood, Children and Fire Services, the proposed By-law, as
+  appended to the staff report dated September 12, 2017, BE INTRODUCED at the
+  Municipal Council meeting to be held on September 19, 2017, to:
+ 
+a)          approve
+  the Funding Agreement, as appended to the above-noted by-law, between Her
+  Majesty the Queen in Right of Canada as represented by the Minister of
+  Employment and Social Development styled as Minister of Families, Children
+  and Social Development and The Corporation of the City of London, to receive
+  new funding under the Homelessness Partnering Strategy;
+ 
+b)          delegate
+  to the Managing Director, Neighbourhood, Children and Fire Services, or
+  designate, the authority to undertake all the administrative and financial
+  acts that are necessary in connection with the above-noted Funding Agreement,
+  on the condition that no additional funding is required, or if additional
+  funding is required it is provided for in the City’s current budget, and that
+  there is no increase in indebtedness or contingent liabilities of The
+  Corporation of the City of London; and,
+ 
+c)         authorize
+  the Mayor and the City Clerk to execute the above-noted Agreement. (2017-S14)
+
+# 6.&nbsp;&nbsp;&nbsp;Community Mental
+  Health and Addictions Strategy
+
+That, on the recommendation of the Managing
+  Director, Housing, Social Services and Dearness Home, the report, dated
+  September 12, 2017, related to the development of a Community Mental Health
+  and Addictions Strategy BE RECEIVED for information. (2017-S12)
+
+# 8.&nbsp;&nbsp;&nbsp;7th Report of the
+  Animal Welfare Advisory Committee
+
+That the following actions be taken with
+  respect to the 7th Report of the Animal Welfare Advisory Committee from its
+  meeting held on August 3, 2017:
+ 
+a)         that
+  the Managing Director, Environmental & Engineering Services and City
+  Engineer BE REQUESTED to provide a presentation to the Animal Welfare
+  Advisory Committee with respect to the overall nature of the modifications of
+  the Hyde Park Storm Sewer and how the modifications will affect wildlife; it
+  being noted that a verbal update from W. Brown, on behalf of the Animal
+  Welfare Advisory Committee Working Group, was received;
+ 
+b)         that
+  the Municipal Council BE REQUESTED to consider the following amendments to
+  the Animal Welfare Advisory Committee (AWAC) Terms of Reference:
+ 
+i)          the
+  Urban League of London position be eliminated and an Animal Rescue Group be
+  added in its place;
+ii)         the
+  London Veterinarian Association position be eliminated as this organization
+  is no longer in existence and a Member-at-Large be added in its place;
+iii)         the
+  London Humane Society position be eliminated and a Wildlife
+  Rehabilitator/Naturalist be added in its place; and,
+iv)        the
+  Citizens for Companion Animals position be eliminated and a Member-at-Large
+  be added in its place; and,
+ 
+c)         clauses 1, 2, 4 to 6 and 8, BE
+  RECEIVED;
+ 
+it being noted that the Community and
+  Protective Services Committee heard a verbal presentation from W. Brown,
+  Chair, Animal Welfare Advisory Committee, with respect to this matter.
+
+# 9.&nbsp;&nbsp;&nbsp;Ontario Works Rates
+
+That the following actions be taken with
+  respect to Ontario Work Rates:
+ 
+a)         the
+  campaign for Ontario Works rates for single adults to be increased by $245.00
+  per month, as presented in the attached presentation by A. Oudshoorn
+  and D. Peckham of the London Homelessness Coalition BE ENDORSED; and, 
+ 
+b)         the
+  Mayor BE REQUESTED to write a letter to the Minister of Community and Social
+  Services as well as the City of London MPPs and the leaders of the opposition
+  parties, indicating the City of London’s support to increase the Ontario
+  Works rates.
+
+# 11.&nbsp;&nbsp;&nbsp;Shared Rail - Trail
+  Link Along the CN Talbot Spur Line
+
+That the City Manager BE DIRECTED to:
+ 
+a)         begin
+  more formal discussions with CN, the City of St. Thomas and Elgin County with
+  respect to the possibility of a shared rail-trail link along the CN Talbot
+  Spur Line;
+ 
+b)         explore
+  possibilities for funding through other levels of government in support of
+  improved cycling opportunities; and,
+ 
+c)         report
+  back to Municipal Council with the next steps once the initial discussions
+  have taken place. (2017-R04)
+
+# 12.&nbsp;&nbsp;&nbsp;Pool Equipment
+  Noise
+
+That no action BE TAKEN with respect to a
+  request for delegation status related to neighbourhood pool equipment noise;
+  it being noted that there has been enforcement activity with respect to this
+  matter. (2017-P01)
+
+# 14.&nbsp;&nbsp;&nbsp;Deferred Matters
+  List
+
+That the September 2017 Deferred Matters
+  List for the Community and Protective Services Committee BE RECEIVED.
+
+# 15.&nbsp;&nbsp;&nbsp;Request for
+  Information - London Police Services - Cost - August 26, 2017 Protest
+
+That the communication, dated September 6,
+  2017, from Councillor M. van Holst with respect to a request for information
+  regarding the London Police Services costs related to the August 26, 2017
+  protest at London City Hall, BE RECEIVED. (2017-P16)
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |M. Brown|
+> |M. van Holst|
+> |M. Salih|
+> |J. Helmer|
+> |M. Cassidy|
+> |P. Squire|
+> |J. Morgan|
+> |P. Hubert|
+> |A. Hopkins|
+> |V. Ridley|
+> |S. Turner|
+> |H.L. Usher|
+> |T. Park|
+> |J. Zaifman (14)|
+
+> **Motion
+Passed**
+
+****
+
+# 7.&nbsp;&nbsp;&nbsp;Overview of Ontario
+  Works Basic Needs and Shelter Allowance Rates
+
+That, on the recommendation of the Managing
+  Director, Housing, Social Services and Dearness Home, the report, dated
+  September 12, 2017, related to the overview of Ontario Works Basic Needs and
+  Shelter Allowance Rates, BE RECEIVED for information. (2017-S04)
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |M. Brown|
+> |M. van Holst|
+> |M. Salih|
+> |J. Helmer|
+> |M. Cassidy|
+> |P. Squire|
+> |J. Morgan|
+> |P. Hubert|
+> |A. Hopkins|
+> |V. Ridley|
+> |S. Turner|
+> |H.L. Usher|
+> |T. Park|
+> |J. Zaifman (14)|
+
+> **Motion Passed**
+
+****
+
+# 10.&nbsp;&nbsp;&nbsp;Business Licensing
+  By-law Review – Adult Live Entertainment Parlour, Adult Entertainment
+  Body-Rub Parlour, Unsolicited Motor Vehicle Towing and Storage.
+
+That, on the recommendation of the Managing
+  Director, Development and Compliance Services and Chief Building Official,
+  adult live entertainment parlours, adult entertainment body-rub parlours and
+  unsolicited motor vehicle towing and storage BE INCLUDED in the updated
+  Business Licensing By-law; it being noted that upon completion of all public
+  participation meetings related to the review of the Business Licensing
+  By-law, a further public participation meeting will be scheduled to repeal
+  and replace the current Business Licensing by-law as per the direction of
+  Municipal Council on December 19, 2016; it being futher noted that the
+  Community and Protective Services Committee (CPSC) received the attached
+  presentation from O. Katolyk, Chief Municipal Law Enforcement Officer with
+  respect to this matter;
+ 
+it being pointed out that at the public
+  participation meeting associated with this matter, the individuals indicated
+  on the attached public participation meeting record made submissions in
+  connection therewith. (2017-P09)
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |M. Brown|
+> |M. van Holst|
+> |M. Salih|
+> |J. Helmer|
+> |M. Cassidy|
+> |P. Squire|
+> |J. Morgan|
+> |P. Hubert|
+> |A. Hopkins|
+> |V. Ridley|
+> |H.L. Usher|
+> |T. Park|
+> |J. Zaifman (13) RECUSED: S. Turner (1)|
+
+> **Motion Passed**
+
+****
+
+> Moved by Councillor M. Salih
+
+> Seconded by Councillor H.L. Usher
+
+Approve that pursuant to section 6.4 of
+  the Council Procedure By-law, the order of business be changed to permit
+  consideration of clause 13 of the 12th Report of the Community and Protective
+  Services Committee not before 5:50 PM.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |M. Brown|
+> |M. van Holst|
+> |M. Salih|
+> |J. Helmer|
+> |M. Cassidy|
+> |P. Squire|
+> |J. Morgan|
+> |P. Hubert|
+> |A. Hopkins|
+> |V. Ridley|
+> |S. Turner|
+> |H.L. Usher|
+> |T. Park|
+> |J. Zaifman (14)|
+
+> **Motion Passed**
+
+****
+
+25th Report of the
+  Corporate Services Committee
+Councillor P. Hubert presents.
+
+> Moved by Councillor P. Hubert
+
+Approve clauses 1 to 5, inclusive.
+
+****
+
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of
+  Pecuniary Interest
+
+That it BE NOTED that no pecuniary
+  interests were disclosed.
+
+# 2.&nbsp;&nbsp;&nbsp;Proposed Election
+  Sign By-law
+
+That the proposed by-law attached to
+  the staff report dated September 12, 2017 BE REFERRED back to the City Clerk
+  to report back with a revised proposed by-law that incorporates the
+  following:
+ 
+a)         provision
+  for election signs to be put up on private property within the candidate's
+  electoral ward as early as the start of the campaign period, but not on
+  public property any earlier than Nomination Day;
+ 
+b)         amendments
+  to proposed clauses 2.4 and 2.5 so that they now read as follows:
+ 
+“2.4       No
+  person shall Place or permit to be placed an Election Sign outside of the
+  Electoral District where the Candidate is running for office.
+ 
+2.5       Section
+  2.4 does not apply to an Election Sign within 50 metres of any Electoral
+  District that is adjacent to the Electoral District where the Candidate is
+  running for office.”; and
+ 
+c)         addition of the following
+  definitions:
+ 
+‘“Electoral
+  District” means a geographic area represented by a Member of Municipal
+  Council, Member of School Board, Member of Provincial Parliament in the
+  Legislative Assembly of Ontario, and Member of Federal Parliament in the
+  House of Commons.
+ 
+“Nomination Day”
+  means the deadline to file a nomination with the City Clerk under the
+  Municipal Elections Act, 1996;
+ 
+“Writ of Election”
+  means the date as defined in the Canada Elections Act and the Elections Act
+  (Ontario).’
+ 
+it being noted that staff will consider how
+  they can make information available to candidates so that their campaign
+  volunteers are aware of the easiest and safest way possible for properly
+  measuring the placement of signs.
+
+# 3.&nbsp;&nbsp;&nbsp;By-law to Establish
+  Tax Ratio for New Multi-Residential Property Class (Relates to Bill No. 413)
+
+That, on the recommendation of the Managing
+  Director, Corporate Services and City Treasurer, Chief Financial Officer, the
+  proposed by-law appended to the staff report dated September 12, 2017 as
+  Appendix “A” BE INTRODUCED at the Municipal Council meeting to be held on
+  September 19, 2017, in accordance with section 308 of the Municipal Act,
+  2001, to set the tax ratio for the new multi-residential property class at
+  1.0 for 2017.
+
+# 4.&nbsp;&nbsp;&nbsp;2016 Annual
+  Reporting of Lease Financing Agreements
+
+That, on the recommendation of the Managing
+  Director, Corporate Services and City Treasurer, Chief Financial Officer, the
+  staff report dated September 12, 2017 regarding the 2016 Annual Reporting of
+  Lease Financing Agreements BE RECEIVED for information.
+
+# 5.&nbsp;&nbsp;&nbsp;Declare Surplus -
+  39 Redwood Lane
+
+That, on the recommendation of the Managing
+  Director, Corporate Services and City Treasurer, Chief Financial Officer, on
+  the advice of the Manager of Realty Services, the following actions be taken
+  with respect to the City-owned land located at 39 Redwood Lane, described as
+  Block 96, Plan 33M-200, containing an area of approximately 3,937 square feet
+  (366 square meters):
+ 
+a)         the subject property BE DECLARED
+  surplus; and
+ 
+b)         the
+  subject property (“Surplus Lands”) BE DISPOSED of to fulfil a condition in
+  the subdivision agreement regarding future access to an adjoining property
+  and in accordance with the City’s Sale and Other Disposition of Land Policy.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |M. Brown|
+> |M. van Holst|
+> |M. Salih|
+> |J. Helmer|
+> |M. Cassidy|
+> |P. Squire|
+> |J. Morgan|
+> |P. Hubert|
+> |A. Hopkins|
+> |V. Ridley|
+> |S. Turner|
+> |H.L. Usher|
+> |T. Park|
+> |J. Zaifman (14)|
+
+> **Motion
+Passed**
+
+****
+
+7th Report of the
+  Audit Committee
+Councillor P. Hubert presents.
+
+> Moved by Councillor P. Hubert
+
+Approve clauses 1 to 4, inclusive.
+
+****
+
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of
+  Pecuniary Interest
+
+That it BE NOTED that no pecuniary
+  interests were disclosed.
+
+# 2.&nbsp;&nbsp;&nbsp;Draft Internal
+  Audit Charter
+
+That attached revised internal audit
+  charter BE APPROVED.
+
+# 3.&nbsp;&nbsp;&nbsp;Internal Audit
+  Summary Update
+
+That the revised memo dated September 1,
+  2017, from Deloitte, with respect to the internal audit summary update BE
+  RECEIVED.
+
+# 4.&nbsp;&nbsp;&nbsp;June 2017 -
+  December 2018 Internal Audit Dashboard as at September 1, 2017
+
+That the communication from Deloitte,
+  regarding the June 2017 - December 2018 internal audit dashboard as of
+  September 1, 2017, BE RECEIVED.
 
 > [!abstract]- Vote:
 > |Yeas:|
@@ -244,35 +1261,46 @@ Motion Passed
 > |H.L. Usher|
 > |T. Park (13)|
 
-> **Motion Passed**
+> **Motion
+Passed**
 
 ****
 
-The motion to Approve part b) of clause 2
-  is put.
+# IX.&nbsp;&nbsp;&nbsp;ADDED
+  REPORTS
 
-Motion Passed
+16th Report of the
+  Strategic Priorities and Policy Committee
+Councillor P. Hubert presents.
 
-> [!abstract]- Vote:
-> |Yeas:|Nays:|
-> |-|-|
-> |M. Brown|V. Ridley (1)|
-> |M. van Holst||
-> |M. Salih||
-> |J. Helmer||
-> |M. Cassidy||
-> |P. Squire||
-> |J. Morgan||
-> |P. Hubert||
-> |A. Hopkins||
-> |S. Turner||
-> |H.L. Usher||
-> |T. Park (12)||
+> Moved by Councillor P. Hubert
 
-> **Motion Passed**
+Approve clauses 1 to 15, excluding clauses 2, 5, 7 and 11.
 
 ****
 
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
+
+That it BE NOTED that the following
+  pecuniary interests were disclosed:
+ 
+a)           
+  Councillor
+  S. Turner disclosed a pecuniary interest in clause 5 of this Report, having
+  to do with the opioid crisis in London by indicating that his employer, the
+  Middlesex-London Health Unit, has a significant involvement in this file.
+ 
+b)           
+  Councillor
+  J. Morgan discloses a pecuniary interest in clause 7 of this report,
+  specifically as it relates to tasks 5.3 and 6.12 of the Project Management
+  Plan for the Rapid Transit Corridors EA, as those tasks involve his employer,
+  the University of Western Ontario (UWO).  Councillor J. Morgan further
+  discloses a pecuniary interest in clause 11 of this Report having to do with
+  an appointment to the UWO’s Board of Governors by indicating that he is
+  employed by UWO.
+
+# 3.&nbsp;&nbsp;&nbsp;Service Review
   Initiatives 2017 Update
 
 That, on the recommendation of the City
@@ -280,6 +1308,7 @@ That, on the recommendation of the City
   Chief Financial Officer, the staff report dated September 18, 2017 regarding
   an update on 2017 service review initiatives BE RECEIVED for information.
 
+# 4.&nbsp;&nbsp;&nbsp;2019 JUNO Week Bid
 
 That, on the recommendation of the General
   Manager of Tourism London and the Director of Culture and Entertainment
@@ -293,81 +1322,7 @@ That, on the recommendation of the General
   Councillor M. Salih and Councillor P. Hubert indicating their support for the
   funding request.
 
-  WHICH NOTICE IS GIVEN
-
-
-> Moved by Councillor S. Turner
-
-Approve clauses 1 to 14, excluding clauses 11 and 13.
-
-****
-
-  Mackie, Medical Officer of Health & CEO, Middlesex-London Health Unit re
-  Opioid Crisis in London
-
-That the following actions be taken with
-  respect to the use of supervised consumption sites and other harm reduction
-  measures:
- 
-a)         the
-  Opioid Crisis Working Group, comprised of the Mayor, as well as other
-  community stakeholders, under the leadership of the Medical Officer of
-  Health, BE ENDORSED;
- 
-b)         the
-  Medical Officer of Health & CEO, Middlesex-London Health Unit BE ADVISED
-  that the Municipal Council endorses the Health Unit’s and the Opioid Crisis
-  Working Group’s further study and consultation with community stakeholders
-  regarding the use of supervised consumption sites and other harm reduction
-  measures; and
- 
-c)         the
-  Opioid Crisis Working Group BE REQUESTED to report back to the Municipal
-  Council with details of its relationship with other strategies and working
-  groups, and proposed terms of reference for the Working Group that would
-  provide for:
- 
-i)          consultation
-  with the community;
-ii)         exploration
-  of a response to the current situation, including the possibility of
-  supervised consumption sites; and,
-iii)         development
-  of recommendations as to how to best address the opioid crisis in London;
- 
-it being understood that the Working Group
-  will liaise with the Civic Administration in the development of the proposed
-  terms of reference, including establishing a timeline for completion of the
-  Working Group’s mandate;
- 
-it being noted that the Strategic
-  Priorities and Policy Committee heard the attached presentation from
-  Dr. C. Mackie, Medical Officer of Health & CEO, C. Fisher, Community HIV
-  Program Lead, and J. Shepherd, Public Health Nurse, all from the
-  Middlesex-London Health Unit, with respect to this matter.
-
-Motion Passed
-
-> [!abstract]- Vote:
-> |Yeas:|
-> |-|
-> |M. Brown|
-> |M. van Holst|
-> |M. Salih|
-> |J. Helmer|
-> |M. Cassidy|
-> |P. Squire|
-> |J. Morgan|
-> |P. Hubert|
-> |A. Hopkins|
-> |V. Ridley|
-> |H.L. Usher|
-> |T. Park (12) RECUSED: S. Turner (1)|
-
-> **Motion Passed**
-
-****
-
+# 6.&nbsp;&nbsp;&nbsp;Amendments to
   Consolidated Fees and Charges By-law
 
 That, on the recommendation of the City
@@ -381,114 +1336,7 @@ That, on the recommendation of the City
   City of London; it being pointed out that at the public participation meeting
   associated with this matter, that no individuals made an oral submission.
 
-  Environmental Assessment Project Management Plan, Communications Plan and
-  Consulting Fees Amendment
-
-That, on the recommendation of the Managing
-  Director, Environmental and Engineering Services & City Engineer, the
-  following actions be taken with respect to the Shift Rapid Transit
-  Environmental Assessment (EA):
- 
-a)         the
-  Rapid Transit Corridors EA, Project Management Plan: Updated and Expanded
-  Scope, as appended to the staff report dated September 18, 2017 as Appendix
-  A, BE RECEIVED;
- 
-b)         the
-  Shift Communications Plan, as appended to the staff report dated September
-  18, 2017 as Appendix B, BE RECEIVED;
- 
-c)         the
-  fees for IBI Group, BE INCREASED in the amount of $2,282,330 excluding HST,
-  in accordance with Section 20.3 (e) of the Procurement of Goods and Services
-  Policy;   
- 
-d)         the
-  financing for this assignment BE APPROVED as set out in the Source of
-  Financing Report appended to the staff report dated September 18, 2017 as
-  Appendix C; and
- 
-e)         the
-  Civic Administration BE AUTHORIZED to undertake all the administrative acts
-  that are necessary in connection with this project;
- 
-it being noted that the Strategic
-  Priorities and Policy Committee heard the attached presentation
-  from the Project Director, Rapid Transit Implementation, with respect to this
-  matter.
-
-Motion Passed
-
-> [!abstract]- Vote:
-> |Yeas:|
-> |-|
-> |M. Brown|
-> |M. van Holst|
-> |M. Salih|
-> |J. Helmer|
-> |M. Cassidy|
-> |P. Squire|
-> |J. Morgan|
-> |P. Hubert|
-> |A. Hopkins|
-> |V. Ridley|
-> |S. Turner|
-> |H.L. Usher|
-> |T. Park (13)|
-
-> **Motion Passed**
-
-****
-
-The motion to Approve part a) of clause 7
-  is put.
-
-Motion Passed
-
-> [!abstract]- Vote:
-> |Yeas:|
-> |-|
-> |M. Brown|
-> |M. van Holst|
-> |M. Salih|
-> |J. Helmer|
-> |M. Cassidy|
-> |P. Squire|
-> |P. Hubert|
-> |A. Hopkins|
-> |V. Ridley|
-> |S. Turner|
-> |H.L. Usher|
-> |T. Park (12) RECUSED: J. Morgan (1)|
-
-> **Motion Passed**
-
-****
-
-The motion to Approve part c) of clause 7
-  is put.
-
-Motion Passed
-
-> [!abstract]- Vote:
-> |Yeas:|Nays:|
-> |-|-|
-> |M. Brown|M. Salih|
-> |M. van Holst|P. Squire (2)|
-> |J. Helmer||
-> |M. Cassidy||
-> |J. Morgan||
-> |P. Hubert||
-> |A. Hopkins||
-> |V. Ridley||
-> |S. Turner||
-> |H.L. Usher||
-> |T. Park (11)||
-
-> **Motion Passed**
-
-****
-
+# 8.&nbsp;&nbsp;&nbsp;4th Report of the
   Governance Working Group
 
 That the following actions be taken with
@@ -676,6 +1524,7 @@ ii)         the
  
 e)         clauses 1, 2 and 3, BE RECEIVED.
 
+# 9.&nbsp;&nbsp;&nbsp;5th Report of the
   Governance Working Group
 
 That the following actions be taken with
@@ -733,6 +1582,7 @@ c)         the
   diem rates BE REFERRED to the Governance Working Group as part of Phase 3
   (Modernization) of the Council Policy Manual.
 
+# 10.&nbsp;&nbsp;&nbsp;Request for a
   Second Term Appointment to the Greater London International Airport
   Authority Board of Directors - Bill Graham
 
@@ -740,6 +1590,7 @@ That Bill Graham BE NOMINATIONED for
   reappointment for a second term to the Greater London International Airport
   Authority Board of Directors for the term August 1, 2017 to July 31, 2020.
 
+# 12.&nbsp;&nbsp;&nbsp;Request for 1 Year
   Reappointment to the Lower Thames Valley Conservation Authority - Stan
   Caveney
 
@@ -747,6 +1598,19 @@ That Stan Caveney BE REAPPOINTED for 1 year
   to the Lower Thames Valley Conservation Authority for the term December 1,
   2017 to November 30, 2018.
 
+# 13.&nbsp;&nbsp;&nbsp;Request for 1 Year
+  Reappointment to the Kettle Creek Conservation Authority - Councillor J.
+  Zaifman, Bill Mackie and Ralph Winfield
+
+That the following BE REAPPOINTED for 1
+  year to the Kettle Creek Conservation Authority for the term December 1, 2017
+  to November 30, 2018:
+ 
+Councillor J. Zaifman
+Bill Mackie
+Ralph Winfield
+
+# 14.&nbsp;&nbsp;&nbsp;Request for 1 Year
   Reappointment to the Upper Thames River Conservation Authority - Councillor
   A. Hopkins, Marie Blosh, Sandy Levin and Murray Blackie
 
@@ -759,62 +1623,7 @@ Marie Blosh
 Sandy Levin
 Murray Blackie
 
-  Second Term Appointment to the University of Western Ontario's Board of
-  Governors - Michael Lerner
-
-That Michael Lerner BE REAPPOINTED for a
-  second term to the University of Western Ontario Board of Governors for the
-  term December 1, 2017 to November 30, 2021.
-
-Motion Passed
-
-> [!abstract]- Vote:
-> |Yeas:|
-> |-|
-> |M. Brown|
-> |M. van Holst|
-> |M. Salih|
-> |J. Helmer|
-> |M. Cassidy|
-> |P. Squire|
-> |P. Hubert|
-> |A. Hopkins|
-> |V. Ridley|
-> |S. Turner|
-> |H.L. Usher|
-> |T. Park (12) RECUSED: J. Morgan (1)|
-
-> **Motion Passed**
-
-****
-
-  Establish London as a UN Women’s Safe City
-
-That the following actions be taken with
-  respect to A Partnership to Establish London as a UN Women’s Safe City:
- 
-a)         ANOVA
-  BE APPOINTED as the lead organization in developing a five-year Safe Cities
-  plan for London;
- 
-b)         a
-  Steering Committee of sexual assault and research experts BE CREATED by ANOVA
-  to explore how we can make London a safe space for everyone; and,
- 
-c)         the
-  above-noted Steering Committee BE DIRECTED to report back to Municipal
-  Council, within a year, with a list of recommendations to work towards a UN
-  Safe Cities Designation;
- 
-it being noted that the Community and
-  Protective Services Committee (CPSC) received a communication dated September
-  12, 2017 from Mayor M. Brown, related to this matter;
- 
-it being further noted that the CPSC
-  received the attached presentation from J. McGregor, Director,
-  Community Programs, ANOVA and Dr. A. Trudell, Manager of Education, Training
-  and Research, ANOVA, related to this matter. (2017-A01)
-
+# 15.&nbsp;&nbsp;&nbsp;Establishment of Working
   Group - Strengthening Relationships with Indigenous Peoples
 
 That a Working Group comprised of Members
@@ -824,8 +1633,6 @@ That a Working Group comprised of Members
   and Reconciliation Commission Report where possible and appropriate and to
   work with local Indigenous peoples to determine how best to engage and
   collaborate with each other.
-
-Motion Passed
 
 > [!abstract]- Vote:
 > |Yeas:|
@@ -848,14 +1655,263 @@ Motion Passed
 
 ****
 
-  REPORTS
+# 2.&nbsp;&nbsp;&nbsp;London Community
+  Grants Program Innovation and Capital Funding Allocations (2018)
 
-> Moved by Councillor P. Hubert
+That the following actions be taken with
+  respect to the update on the London Community Grants Program:
+ 
+a)         the
+  staff report dated September 18, 2017, providing an update on the London Community
+  Grants Program, BE RECEIVED for information; and
+ 
+b)         the
+  Managing Director, Neighbourhood, Children and Fire Services BE DIRECTED to
+  work with the London Children’s Museum as they prepare their 2018 Budget
+  Amendment form for their capital funding request for consideration as part of
+  the 2018 Annual Budget Update.
 
-Approve clauses 1 to 15, excluding clauses 2, 5, 7 and 11.
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |M. Brown|
+> |M. van Holst|
+> |M. Salih|
+> |J. Helmer|
+> |M. Cassidy|
+> |P. Squire|
+> |J. Morgan|
+> |P. Hubert|
+> |A. Hopkins|
+> |V. Ridley|
+> |S. Turner|
+> |H.L. Usher|
+> |T. Park (13)|
+
+> **Motion Passed**
 
 ****
 
+The motion to Approve part b) of clause 2
+  is put.
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|
+> |-|-|
+> |M. Brown|V. Ridley (1)|
+> |M. van Holst||
+> |M. Salih||
+> |J. Helmer||
+> |M. Cassidy||
+> |P. Squire||
+> |J. Morgan||
+> |P. Hubert||
+> |A. Hopkins||
+> |S. Turner||
+> |H.L. Usher||
+> |T. Park (12)||
+
+> **Motion Passed**
+
+****
+
+# 5.&nbsp;&nbsp;&nbsp;Dr. Christopher
+  Mackie, Medical Officer of Health & CEO, Middlesex-London Health Unit re
+  Opioid Crisis in London
+
+That the following actions be taken with
+  respect to the use of supervised consumption sites and other harm reduction
+  measures:
+ 
+a)         the
+  Opioid Crisis Working Group, comprised of the Mayor, as well as other
+  community stakeholders, under the leadership of the Medical Officer of
+  Health, BE ENDORSED;
+ 
+b)         the
+  Medical Officer of Health & CEO, Middlesex-London Health Unit BE ADVISED
+  that the Municipal Council endorses the Health Unit’s and the Opioid Crisis
+  Working Group’s further study and consultation with community stakeholders
+  regarding the use of supervised consumption sites and other harm reduction
+  measures; and
+ 
+c)         the
+  Opioid Crisis Working Group BE REQUESTED to report back to the Municipal
+  Council with details of its relationship with other strategies and working
+  groups, and proposed terms of reference for the Working Group that would
+  provide for:
+ 
+i)          consultation
+  with the community;
+ii)         exploration
+  of a response to the current situation, including the possibility of
+  supervised consumption sites; and,
+iii)         development
+  of recommendations as to how to best address the opioid crisis in London;
+ 
+it being understood that the Working Group
+  will liaise with the Civic Administration in the development of the proposed
+  terms of reference, including establishing a timeline for completion of the
+  Working Group’s mandate;
+ 
+it being noted that the Strategic
+  Priorities and Policy Committee heard the attached presentation from
+  Dr. C. Mackie, Medical Officer of Health & CEO, C. Fisher, Community HIV
+  Program Lead, and J. Shepherd, Public Health Nurse, all from the
+  Middlesex-London Health Unit, with respect to this matter.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |M. Brown|
+> |M. van Holst|
+> |M. Salih|
+> |J. Helmer|
+> |M. Cassidy|
+> |P. Squire|
+> |J. Morgan|
+> |P. Hubert|
+> |A. Hopkins|
+> |V. Ridley|
+> |H.L. Usher|
+> |T. Park (12) RECUSED: S. Turner (1)|
+
+> **Motion Passed**
+
+****
+
+# 7.&nbsp;&nbsp;&nbsp;Shift Rapid Transit
+  Environmental Assessment Project Management Plan, Communications Plan and
+  Consulting Fees Amendment
+
+That, on the recommendation of the Managing
+  Director, Environmental and Engineering Services & City Engineer, the
+  following actions be taken with respect to the Shift Rapid Transit
+  Environmental Assessment (EA):
+ 
+a)         the
+  Rapid Transit Corridors EA, Project Management Plan: Updated and Expanded
+  Scope, as appended to the staff report dated September 18, 2017 as Appendix
+  A, BE RECEIVED;
+ 
+b)         the
+  Shift Communications Plan, as appended to the staff report dated September
+  18, 2017 as Appendix B, BE RECEIVED;
+ 
+c)         the
+  fees for IBI Group, BE INCREASED in the amount of $2,282,330 excluding HST,
+  in accordance with Section 20.3 (e) of the Procurement of Goods and Services
+  Policy;   
+ 
+d)         the
+  financing for this assignment BE APPROVED as set out in the Source of
+  Financing Report appended to the staff report dated September 18, 2017 as
+  Appendix C; and
+ 
+e)         the
+  Civic Administration BE AUTHORIZED to undertake all the administrative acts
+  that are necessary in connection with this project;
+ 
+it being noted that the Strategic
+  Priorities and Policy Committee heard the attached presentation
+  from the Project Director, Rapid Transit Implementation, with respect to this
+  matter.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |M. Brown|
+> |M. van Holst|
+> |M. Salih|
+> |J. Helmer|
+> |M. Cassidy|
+> |P. Squire|
+> |J. Morgan|
+> |P. Hubert|
+> |A. Hopkins|
+> |V. Ridley|
+> |S. Turner|
+> |H.L. Usher|
+> |T. Park (13)|
+
+> **Motion Passed**
+
+****
+
+The motion to Approve part a) of clause 7
+  is put.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |M. Brown|
+> |M. van Holst|
+> |M. Salih|
+> |J. Helmer|
+> |M. Cassidy|
+> |P. Squire|
+> |P. Hubert|
+> |A. Hopkins|
+> |V. Ridley|
+> |S. Turner|
+> |H.L. Usher|
+> |T. Park (12) RECUSED: J. Morgan (1)|
+
+> **Motion Passed**
+
+****
+
+The motion to Approve part c) of clause 7
+  is put.
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|
+> |-|-|
+> |M. Brown|M. Salih|
+> |M. van Holst|P. Squire (2)|
+> |J. Helmer||
+> |M. Cassidy||
+> |J. Morgan||
+> |P. Hubert||
+> |A. Hopkins||
+> |V. Ridley||
+> |S. Turner||
+> |H.L. Usher||
+> |T. Park (11)||
+
+> **Motion Passed**
+
+****
+
+# 11.&nbsp;&nbsp;&nbsp;Request for a
+  Second Term Appointment to the University of Western Ontario's Board of
+  Governors - Michael Lerner
+
+That Michael Lerner BE REAPPOINTED for a
+  second term to the University of Western Ontario Board of Governors for the
+  term December 1, 2017 to November 30, 2021.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |M. Brown|
+> |M. van Holst|
+> |M. Salih|
+> |J. Helmer|
+> |M. Cassidy|
+> |P. Squire|
+> |P. Hubert|
+> |A. Hopkins|
+> |V. Ridley|
+> |S. Turner|
+> |H.L. Usher|
+> |T. Park (12) RECUSED: J. Morgan (1)|
+
+> **Motion Passed**
+
+****
+
+# 16.&nbsp;&nbsp;&nbsp;Amazon HQ2 Request
   for Proposal
 
 That the Civic Administration BE REQUESTED
@@ -863,8 +1919,6 @@ That the Civic Administration BE REQUESTED
   community stakeholders to investigate the feasibility of submitting a
   response to the Amazon HQ2 Request for Proposal to have the headquarters
   located in London, Ontario or to support a Regional/Ontario bid.
-
-Motion Passed
 
 > [!abstract]- Vote:
 > |Yeas:|Nays:|
@@ -884,6 +1938,10 @@ Motion Passed
 > **Motion Passed**
 
 ****
+
+21st Public Report
+  of the Council In Closed Session
+Councillor M. Cassidy presents.
 
 1.         Industrial
   Land Exchange Pertaining to an Access for the 23.9 Acre Parcel (C5) at Huron
@@ -1004,8 +2062,6 @@ b)         the
   financing for this acquisition BE APPROVED as set out in the source of
   Financing Report attached hereto as Appendix “A”.
 
-Motion Passed
-
 > [!abstract]- Vote:
 > |Yeas:|
 > |-|
@@ -1025,11 +2081,67 @@ Motion Passed
 
 ****
 
+12th Report Community and Protective
+  Services Committee (continued)
+Councillor M. Salih presents.
+
+# 13.&nbsp;&nbsp;&nbsp;Partnership to
+  Establish London as a UN Women’s Safe City
+
+That the following actions be taken with
+  respect to A Partnership to Establish London as a UN Women’s Safe City:
+ 
+a)         ANOVA
+  BE APPOINTED as the lead organization in developing a five-year Safe Cities
+  plan for London;
+ 
+b)         a
+  Steering Committee of sexual assault and research experts BE CREATED by ANOVA
+  to explore how we can make London a safe space for everyone; and,
+ 
+c)         the
+  above-noted Steering Committee BE DIRECTED to report back to Municipal
+  Council, within a year, with a list of recommendations to work towards a UN
+  Safe Cities Designation;
+ 
+it being noted that the Community and
+  Protective Services Committee (CPSC) received a communication dated September
+  12, 2017 from Mayor M. Brown, related to this matter;
+ 
+it being further noted that the CPSC
+  received the attached presentation from J. McGregor, Director,
+  Community Programs, ANOVA and Dr. A. Trudell, Manager of Education, Training
+  and Research, ANOVA, related to this matter. (2017-A01)
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |M. Brown|
+> |M. van Holst|
+> |M. Salih|
+> |J. Helmer|
+> |M. Cassidy|
+> |P. Squire|
+> |J. Morgan|
+> |A. Hopkins|
+> |V. Ridley|
+> |S. Turner|
+> |H.L. Usher|
+> |T. Park (12)|
+
+> **Motion Passed**
+
+****
+
+# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
+# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
+# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
+# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -1040,10 +2152,6 @@ BY-LAWS TO BE READ A FIRST, SECOND AND
 
 Approve Introduction and First Reading of
   Bill No.’s 412 to 575.
-
-****
-
-Motion Passed
 
 > [!abstract]- Vote:
 > |Yeas:|
@@ -1072,10 +2180,6 @@ Motion Passed
 Approve Second Reading of Bill No.’s 412
   to 575.
 
-****
-
-Motion Passed
-
 > [!abstract]- Vote:
 > |Yeas:|
 > |-|
@@ -1102,10 +2206,6 @@ Motion Passed
 
 Approve Third Reading and Enactment of
   Bill No.’s 412 to 575.
-
-****
-
-Motion Passed
 
 > [!abstract]- Vote:
 > |Yeas:|
@@ -1134,10 +2234,6 @@ Motion Passed
 Approve Introduction and First Reading
   of Bill No. 576.
 
-****
-
-Motion Passed
-
 > [!abstract]- Vote:
 > |Yeas:|
 > |-|
@@ -1162,10 +2258,6 @@ Motion Passed
 > Seconded by Councillor J. Helmer
 
 Approve Second Reading of Bill No. 576.
-
-****
-
-Motion Passed
 
 > [!abstract]- Vote:
 > |Yeas:|
@@ -1193,10 +2285,6 @@ Motion Passed
 Approve Third Reading and Enactment of
   Bill No. 576.
 
-****
-
-Motion Passed
-
 > [!abstract]- Vote:
 > |Yeas:|
 > |-|
@@ -1216,145 +2304,30 @@ Motion Passed
 
 ****
 
+# 1.&nbsp;&nbsp;&nbsp;The Municipal
+  Council recognizes the following City of London employees who have achieved
+  25 years of service in 2017:
+ 
+From Environmental and Engineering
+  Services: Tracy Atkinson, Anne Boyd, Karl Bulitka, Brian Calhoun, Danny
+  Cardelli, Jon Chatterson, Brad Cook, Darrell Decoste, Mark Elliott, William
+  B. Gwalchmai, Paul Hawkes, Rick J. Kok, Ken Lannigan, Keith Lattimer, Douglas
+  M. Law, Ray Marino, Phil Martyn, Robert J. Moore, Michael Charles Overton,
+  John S. Parsons, Dean Wesley Prentice, Ron Psotka, Mark Vanhie, John
+  Whitworth, and John Woolsey. 
+ 
+From Finance and Corporate Services: Nancy
+  Frederick, Rosalee Levy, Josephine Lopez, Shannon Manders, Stewart McCulloch,
+  Larry Palarchio, Terry Ur, and Devin Walsh.
+ 
+From Legal and Corporate Services: Domenic
+  Anello, John Andrew Danaskos, Mary Goss, Dawn Sylvester, and Deb Varney.
+ 
+From Parks and Recreation Services: Richard
+  Bender, Jeff Bogal, Dave Cambridge, William C. Coxhead, Jim Howard, Evan F.
+  P. Jones, Allan Moore, Grant Murphy, and Scott Preece.
 
----
+# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
-## Votes
-
-*9 substantive votes at this meeting (9 contested, 0 unanimous). Procedural motions excluded.*
-
-### IV. COUNCIL, IN
-  CLOSED SESSION
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (26):** [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park)
-
-</details>
-
-### V. CONFIRMATION
-  AND SIGNING OF THE MINUTES OF THE TWENTY-SECOND MEETING HELD ON SEPTEMBER 4,
-  2017
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
-
-</details>
-
-### XIII. BY-LAWS
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (66):** [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Mo Salih](/councillors/current/m-salih), [Mo Salih](/councillors/current/m-salih), [Mo Salih](/councillors/current/m-salih), [Mo Salih](/councillors/current/m-salih), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Virginia Ridley](/councillors/current/v-ridley), [Virginia Ridley](/councillors/current/v-ridley), [Virginia Ridley](/councillors/current/v-ridley), [Virginia Ridley](/councillors/current/v-ridley), [Virginia Ridley](/councillors/current/v-ridley), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park)
-
-</details>
-
-### 2. London Community
-  Grants Program Innovation and Capital Funding Allocations (2018)
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (25):** [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park)
-
-**Nay (1):** [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
-
-### 5. Dr. Christopher
-  Mackie, Medical Officer of Health & CEO, Middlesex-London Health Unit re
-  Opioid Crisis in London
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher)
-
-</details>
-
-### 7. Shift Rapid Transit
-  Environmental Assessment Project Management Plan, Communications Plan and
-  Consulting Fees Amendment
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (35):** [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Virginia Ridley](/councillors/current/v-ridley), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park)
-
-**Nay (2):** [Mo Salih](/councillors/current/m-salih), [Phil Squire](/councillors/current/p-squire)
-
-</details>
-
-### 11. Request for a
-  Second Term Appointment to the University of Western Ontario's Board of
-  Governors - Michael Lerner
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (11):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher)
-
-</details>
-
-### 15. Establishment of Working
-  Group - Strengthening Relationships with Indigenous Peoples
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
-
-</details>
-
-### 16. Amazon HQ2 Request
-  for Proposal
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (21):** [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
-
-**Nay (2):** [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire)
-
-</details>
+Motion Passed
 

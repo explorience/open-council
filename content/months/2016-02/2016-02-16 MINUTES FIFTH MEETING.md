@@ -4,7 +4,7 @@ date: 2016-02-16
 ---
 February 16, 2016
 
-[Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=389143ba-4510-4f40-b042-db6b7fc43888&Agenda=PostMinutes&lang=English)
+[Original link](https://pub-london.escribemeetings.com//Meeting.aspx?Id=389143ba-4510-4f40-b042-db6b7fc43888&Agenda=PostMinutes&lang=English)
 
 > [!abstract]- Present:
 > M. Brown, M. van Holst, B. Armstrong, J. Helmer, M. Cassidy, P. Squire, J. Morgan, A. Hopkins, S. Turner, H.L. Usher, T. Park, J. Zaifman, C. Saunders
@@ -18,161 +18,36 @@ February 16, 2016
 The Council meets in Regular Session in the
   Council Chambers this day at 4:05 p.m.
 
+# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
+# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
+# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
+# IV.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-  Pecuniary Interest
+# 1.&nbsp;&nbsp;&nbsp;His Worship the
+  Mayor presents a certificate for "London's Featured Organization"
+  to Crime Stoppers.
 
-That it BE NOTED that no pecuniary
-  interests were disclosed.
+# 2.&nbsp;&nbsp;&nbsp;His Worship the Mayor recognizes members of
+  the London Branch of the Architectural Conservancy of Ontario to acknowledge
+  “Heritage Week”.
 
-  Infrastructure Planning and Coordination
+# V.&nbsp;&nbsp;&nbsp;COMMITTEE
+  OF THE WHOLE, IN CAMERA
 
-That the following actions be taken with
-  respect to the planning and coordination of infrastructure projects in
-  Downtown London:
- 
-a)        the
-  key project planning directions, as contained in the staff report dated
-  January 28, 2016, for the following projects BE ENDORSED in order to provide
-  guidance in the development of project solutions; and the associated
-  preliminary construction timelines contained in the aforementioned staff
-  report BE INCORPORATED into these projects as the basis for community
-  consultation:
- 
-i)          Shift
-  – Rapid Transit EA
-ii)         Blackfriars
-  Bridge EA
-iii)         Dundas
-  Place EA
-iv)        Wharncliffe
-  Road CP Underpass EA (north of Oxford)
-v)         Wharncliffe
-  Road CN Underpass EA (north of Horton)
-vi)        London
-  ON Bikes – Cycling Master Plan EA
-vii)       Pollution
-  Prevention and Control Plan – York Street Combined Sewer Separation
-  Replacement Program
-viii)       UTRCA
-  Remediating Flood Control Works (Dykes Remediation/Replacement Program) EA;
- 
-b)         consideration
-  of the key project planning directions and associated preliminary
-  construction timelines for the following projects, as contained in the staff
-  report dated January 28, 2016, BE REFERRED to the March 8, 2016 meeting of
-  the Civic Works Committee, for discussion and debate, in order to allow any
-  parties who wish to have delegation status on these matters an opportunity to
-  be heard:
- 
-i)           Back
-  to the River “Ribbon of the Thames” concept plan
-ii)          Springbank
-  Dam Replacement Gates
- 
-c)        the
-  Civic Administration BE DIRECTED to report back at the March 8, 2016 meeting
-  of the Civic Works Committee with respect to Treaty Rights regarding the
-  projects noted in b), above; and
- 
-d)         the following communications BE
-  RECEIVED:
- 
-i)          a
-  communication dated January 17, 2016 from M. Andreae, President, Nature
-  London;
-ii)         a
-  communication dated January 16, 2016 from D. Wake, 597 Kildare Road; and
-iii)         a
-  communication dated January 26, 2016 from I. Mathyssen, Member of Parliament,
-  London-Fanshawe;
- 
-it being noted that the Strategic
-  Priorities and Policy Committee heard the attached presentation from
-  the Managing Director, Environmental and Engineering Services and City
-  Engineer, the Managing Director, Planning and City Planner and the Director
-  of Roads and Transportation, with respect to these matters.
+MOTION FOR IN CAMERA SESSION
 
-  CAMERA continued
-
-> Moved by Councillor M. van Holst
-
-> Seconded by Councillor T. Park
-
-Approve that Council rise and resume
-  Committee of the Whole, in camera, for the following:
-
-****
-
-Motion Passed
-
-> [!abstract]- Vote:
-> |Yeas:|
-> |-|
-> |M. Brown|
-> |M. van Holst|
-> |B. Armstrong|
-> |J. Helmer|
-> |M. Cassidy|
-> |P. Squire|
-> |J. Morgan|
-> |A. Hopkins|
-> |V. Ridley|
-> |S. Turner|
-> |H.L. Usher|
-> |T. Park|
-> |J. Zaifman (13)|
-
-> **Motion Passed**
-
-****
-
-> Moved by Councillor J. Zaifman
+> Moved by Councillor H.L. Usher
 
 > Seconded by Councillor J. Helmer
 
-Approve that, as a procedural matter
-  pursuant to Section 239 (6) of the Municipal Act, 2001, the following
-  recommendation be forwarded to City Council for deliberation and a vote in
-  public session:
- 
-That, on the recommendation of the Managing
-  Director, Environmental and Engineering Services and City Engineer, with the
-  concurrence of Managing Director, Corporate Services and City Treasurer,
-  Chief Financial Officer, on the advice of the Director Environment, Fleet and
-  Sold Waste and the Manager of Realty Services, the following actions be taken
-  with respect to the property at 3674 Glanworth Drive:
- 
-a)          the
-  Agreement of Purchase and Sale attached as Appendix “A” to sell to the
-  City the Property municipally known as 3674 Glanworth Drive, located on the
-  north side of Glanworth Drive, further described as Part South ½ Lot 19
-  Concession 7, containing an area of approximately 46 acres, for the sum of
-  $875,000.00, BE APPROVED subject to the following conditions:
- 
-i)          provision
-  of a deposit of $1,000.00;
-ii)         a
-  completion date of March 10, 2016;
-iii)         the
-  Buyer and Seller acknowledging that the Province of Ontario has implemented
-  current value assessment and properties may be re-assessed on an annual
-  basis;
-iv)        all
-  chattels remaining the property of the Seller; and
- 
-b)          the
-  financing for this acquisition BE APPROVED as set out in the Source of
-  Financing Report attached hereto as Appendix “B”.
-
-****
-
-Motion Passed
+Approve that Council rise and go into
+  Committee of the Whole, in camera, for the purpose of considering the following:
 
 > [!abstract]- Vote:
 > |Yeas:|
@@ -195,6 +70,27 @@ Motion Passed
 
 ****
 
+The Council rises and goes into the
+  Committee of the Whole, in camera, at 4:19 PM, with Mayor M. Brown in the
+  Chair and all Members present, except Councillors M. Salih and P. Hubert.
+ 
+At 4:46 PM Councillor van Holst leaves the
+  meeting.
+ 
+A5 4:48 PM Councillor van Holst enters the
+  meeting.
+ 
+At 4:59 PM Councillor S. Turner leaves the
+  meeting.
+ 
+At 5:01 PM Councillor St. Turner enters the
+  meeting.
+ 
+The Committee of the Whole rises at 5:16 PM
+  and Council reconvenes at 5:20 PM, with Mayor M. Brown in the Chair and all
+  Members present, except Councillors M. Salih and P. Hubert.
+
+# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE FOURTH MEETING HELD ON JANUARY 26, 2016
 
 > Moved by Councillor J. Helmer
@@ -204,7 +100,33 @@ Motion Passed
 Approve the Minutes of the Fourth Meeting
   held on January 26, 2016.
 
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |M. Brown|
+> |M. van Holst|
+> |B. Armstrong|
+> |J. Helmer|
+> |M. Cassidy|
+> |P. Squire|
+> |J. Morgan|
+> |A. Hopkins|
+> |V. Ridley|
+> |S. Turner|
+> |H.L. Usher|
+> |T. Park|
+> |J. Zaifman (13)|
+
+> **Motion Passed**
+
 ****
+
+# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
+  AND PETITIONS
+
+# 1.&nbsp;&nbsp;&nbsp;B. Callow, Thames
+  River Keepers - Springbank Dam (Refer to the Civic Works Committee stage for
+  consideration with clause 19 of the 3rd Report of the Civic Works Committee.)
 
 Motion Passed
 
@@ -229,10 +151,14 @@ Motion Passed
 
 ****
 
-  AND PETITIONS
-
+# VIII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
+# IX.&nbsp;&nbsp;&nbsp;REPORTS
+
+5th Report of the
+  Corporate Services Committee
+Councillor M. Cassidy presents.
 
 > Moved by Councillor M. Cassidy
 
@@ -240,6 +166,553 @@ Approve clauses 1 to 11, inclusive.
 
 ****
 
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of
+  Pecuniary Interest
+
+That it BE NOTED that no pecuniary
+  interests were disclosed.
+
+# 2.&nbsp;&nbsp;&nbsp;City of London Days
+  at Budweiser Gardens - United Way London & Middlesex
+
+That, on the recommendation of the City
+  Clerk, and notwithstanding Council Policy 3(8) – City of London Days at
+  Budweiser Gardens, which restricts a group from having more than two event
+  days over a five year consecutive period, the request from the United Way
+  London & Middlesex to host the annual United Way Campaign Launch & 3M
+  Harvest Lunch on September 15, 2016 BE APPROVED as a City of London Day at
+  Budweiser Gardens; it being noted that only one other request has been
+  received for 2016.
+
+# 3.&nbsp;&nbsp;&nbsp;Authorization for
+  Temporary Borrowing (Relates to Bill No. 77)
+
+That, on the recommendation of the Managing
+  Director, Corporate Services and City Treasurer, Chief Financial Officer, the
+  proposed by-law attached to the staff report dated February 2, 2016 BE
+  INTRODUCED at the Municipal Council meeting of February 16, 2016, to
+  authorize the borrowing of certain sums to meet current expenditures of The
+  Corporation of the City of London for the year 2016.
+
+# 4.&nbsp;&nbsp;&nbsp;2016 Debenture
+  Issuance
+
+That the Managing Director, Corporate
+  Services and City Treasurer, Chief Financial Officer BE AUTHORIZED to proceed
+  with the issue of debentures to provide permanent financing for capital works
+  in an amount not to exceed $27,000,000, as detailed in Appendix A to the
+  staff report dated February 2, 2016, through debentures in the capital markets
+  with the flexibility to postpone the issuance for unfavourable market
+  conditions.
+
+# 5.&nbsp;&nbsp;&nbsp;2015 Annual Update
+  on Budweiser Gardens
+
+That, on the recommendation of the Managing
+  Director, Corporate Services and City Treasurer, Chief Financial Officer, the
+  2015 Annual Report on Budweiser Gardens, attached as Appendix
+  "B" to the staff report dated February 2, 2016, BE RECEIVED for
+  information.
+
+# 6.&nbsp;&nbsp;&nbsp;Corporate Credit
+  Cards for Council Members
+
+That, on the recommendation of the Managing
+  Director, Corporate Services and City Treasurer, Chief Financial Officer, NO
+  ACTION BE TAKEN to issue individual corporate credit cards to each Council
+  Member; it being noted that the limited use of the additional cards would
+  exceed any benefits.
+
+# 7.&nbsp;&nbsp;&nbsp;Appointed Citizen
+  Members 2015 Remuneration
+
+That, on the recommendation of the Managing
+  Director, Corporate Services and City Treasurer, Chief Financial Officer and
+  the City Clerk, the 2015 remuneration for appointed citizen members of local
+  boards and commissions where stipends are paid BE ADJUSTED by 2.4% over 2014
+  effective January 1, 2015, in keeping with Council Policy 5(32),
+  “Remuneration for Elected Officials and Appointed Citizen Members”; it being
+  noted that Council Members remuneration will not be adjusted in accordance with
+  the Policy, as Council resolved at its meeting held on April 14, 2015, that
+  this action be deferred.
+
+# 8.&nbsp;&nbsp;&nbsp;Apportionment of
+  Taxes
+
+That, on the recommendation of the Managing
+  Director, Corporate Services and City Treasurer, Chief Financial Officer, the
+  taxes on the blocks of land described in the Schedules appended to the staff
+  report dated February 2, 2016 BE APPORTIONED as indicated on those Schedules,
+  pursuant to Section 356 of the Municipal Act, 2001; it being noted that there
+  were no members of the public in attendance at the public hearing associated
+  with this matter, to speak before the Corporate Services Committee.
+
+# 9.&nbsp;&nbsp;&nbsp;Request for
+  Delegation Status - Amir Farahi, Executive Director, London Institute for
+  Public Policy
+
+That delegation status BE GRANTED to Mr.
+  Amir Farahi, Executive Director, London Institute for Public Policy, at a
+  future meeting of the Corporate Services Committee (CSC); subject to the
+  Civic Administration contacting the potential delegate to discuss the matter
+  of City of London branding; it being understood that if the matter is able to
+  be resolved at the administrative level, it may not be necessary for the
+  delegate to appear before the CSC.
+
+# 10.&nbsp;&nbsp;&nbsp;Request for
+  Designation of the 14th Annual Women's Lifestyle Show as a Municipally
+  Significant Event
+
+That the 14th Annual Women's Lifestyle Show
+  to be held on March 19 and 20, 2016 at the London Convention Centre BE
+  DESIGNATED as an event of municipal significance in the City of London.
+
+# 11.&nbsp;&nbsp;&nbsp;2016 Council
+  Compensation Review Task Force
+
+That, on the recommendation of the City
+  Clerk, the appointment of Greg Watterton to the 2016 Council Compensation
+  Review Task Force BE RATIFIED.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |M. Brown|
+> |M. van Holst|
+> |B. Armstrong|
+> |J. Helmer|
+> |M. Cassidy|
+> |P. Squire|
+> |J. Morgan|
+> |A. Hopkins|
+> |V. Ridley|
+> |S. Turner|
+> |H.L. Usher|
+> |T. Park|
+> |J. Zaifman (13)|
+
+> **Motion
+Passed**
+
+****
+
+3rd Report of the
+  Civic Works Committee
+Councillor J. Helmer presents.
+
+> Moved by Councillor J. Helmer
+
+Approve clauses 1 to 15, and clauses 17 to 20.
+
+****
+
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of
+  Pecuniary Interest
+
+That it BE NOTED that no pecuniary
+  interests were disclosed.
+
+# 2.&nbsp;&nbsp;&nbsp;Gore Road Area
+  Project, Braesyde and Dengate Infrastructure Replacement Repeal By-Law 3316
+  and Removal of Easement (Relates to Bill No. 78)
+
+That, on the recommendation of the Managing
+  Director, Environmental and Engineering Services and City Engineer, the
+  following actions be taken with respect to repealing Township of London
+  By-law 3316:
+ 
+a)        the
+  sewer easement expropriated by Township of London By-law 3316 BE RELEASED; 
+ 
+b)        the
+  proposed by-law, appended to the staff report dated February 2, 2016 as
+  Schedule ‘A’, BE INTRODUCED at the Municipal Council meeting to be held on
+  February 16, 2016, for the purpose of repealing Township of London By-law
+  3316; and,
+ 
+c)        the
+  Civic Administration BE AUTHORIZED to take all necessary actions to release
+  the easement from the subject property.  (2016-D15)
+
+# 3.&nbsp;&nbsp;&nbsp;Initiation Report:
+  Core Area Servicing Studies
+
+That, on the recommendation of the Managing
+  Director, Environmental and Engineering Services and City Engineer, the staff
+  report dated February 2, 2016, with respect to the Core Area Servicing
+  Studies, BE RECEIVED for information.  (2016-D22)
+
+# 4.&nbsp;&nbsp;&nbsp;Service Level
+  Agreement Amendment with London Hydro for Water Meter Reading and Water and
+  Sewer Billing (Relates to Bill No. 79)
+
+That, on the recommendation of the Managing
+  Director, Environmental and Engineering Services and City Engineer, the attached
+  revised proposed by-law (Appendix A) BE INTRODUCED at the Municipal Council
+  meeting to be held on February 16, 2016 to:  
+ 
+a)        authorize
+  and approve a Service Level Agreement between The Corporation of the City of
+  London and London Hydro Inc., substantially in the form included as Schedule
+  A to the by-law, for water meter reading, billing, collection, and customer
+  service for the City’s water, wastewater and storm water accounts by London
+  Hydro Inc.; and,
+ 
+b)        delegate
+  to the City Engineer the authority to execute the Agreement authorized and
+  approved in a), above, and such further documents, including further
+  agreements with London Hydro Inc., that are consistent with the requirements
+  contained in the Agreement authorized and approved in (a) above.  (2016-E06)
+
+# 5.&nbsp;&nbsp;&nbsp;Electricity
+  Generation from Waste Heat at the Greenway Wastewater Treatment Plant -
+  Update
+
+That, on the recommendation of the Managing
+  Director, Environmental and Engineering Services and City Engineer, the staff
+  report dated February 2, 2016, with respect to the generation of electricity
+  from waste heat at the Greenway Wastewater Treatment Plant, BE RECEIVED for
+  information.   (2016-E19)
+
+# 6.&nbsp;&nbsp;&nbsp;2015 Drinking Water
+  Annual Report and Summary Report for the City of London Distribution System
+
+That, on the recommendation of the
+  Director, Water and Wastewater, the 2015 Drinking Water Annual Report and
+  Summary Report for the City of London Distribution System, BE RECEIVED for
+  information.  (2016-E13)
+
+# 7.&nbsp;&nbsp;&nbsp;2015 Ministry of
+  the Environment and Climate Change Inspection Report for the City of London
+  Water Distribution System
+
+That, on the recommendation of the
+  Director, Water and Wastewater, the staff report dated February 2, 2016, with
+  respect to the findings of the 2015 Ministry of the Environment and Climate
+  Change Inspection of the City of London Water Distribution System, BE
+  RECEIVED for information. (2016-E13)
+
+# 8.&nbsp;&nbsp;&nbsp;Locate Services
+
+That, on the recommendation of the Managing
+  Director, Environmental and Engineering Services and City Engineer, the
+  following actions be taken with the respect to Locate Services:
+ 
+a)        the
+  proposal submission submitted by Multi-View Locates Inc. at their submitted
+  rates with an estimated annual expenditure of $925,065.00, H.S.T. excluded,
+  for a three (3) year period, with an option to renew the contract for two (2)
+  additional years BE ACCEPTED; 
+ 
+b)        the
+  Civic Administration BE AUTHORIZED to undertake all the administrative acts
+  which are necessary in connection with this contract; and,
+ 
+c)        the
+  approval hereby given BE CONDITIONAL upon the Corporation entering into a
+  formal contract relating to the subject matter of this approval.  (2016-F18)
+
+# 9.&nbsp;&nbsp;&nbsp;West London Dyke
+  Master Repair Plan Municipal Class Environmental Assessment Study
+
+That, on the recommendation of the Managing
+  Director Environmental and Engineering Services and City Engineer, the
+  following actions be taken with respect to the West London Dyke Master Repair
+  Plan Municipal Class Environmental Assessment (EA):
+ 
+a)          the
+  Environmental Assessment Study BE ACCEPTED in accordance with the Municipal
+  Class EA process requirements;
+             
+b)          a
+  Notice of Completion BE FILED with the Municipal Clerk;
+ 
+c)          the
+  Municipal Class EA Schedule “B” project file for the West London Dyke Master
+  Repair Plan BE PLACED on public record for a 30-day review period; and,
+ 
+d)          the
+  attached presentation from S. Mathers, Division Manager, Stormwater,
+  with respect to this matter, BE RECEIVED.  (2016-E21)
+
+# 10.&nbsp;&nbsp;&nbsp;Blackfriars Bridge
+  Environmental Study
+
+That, on the recommendation of the Managing
+  Director, Environmental and Engineering Services and City Engineer, the
+  following actions be taken with respect to the Blackfriars Bridge
+  Environmental Assessment:
+ 
+a)         the Blackfriars Bridge
+  Environmental Study Report BE ACCEPTED;
+ 
+b)         a Notice of Completion for the
+  project BE FILED with the Municipal Clerk;
+ 
+c)          the
+  Environmental Study Report BE PLACED on public record for a 30-day review
+  period; and,
+ 
+d)          the
+  attached presentation from D. MacRae, Division Manager, Transportation
+  Planning and Design, with respect to this matter, BE RECEIVED.    (2016-T05)
+
+# 11.&nbsp;&nbsp;&nbsp;London On Bikes
+  Cycling Master Plan Status Report
+
+That, on the recommendation of the Managing
+  Director, Environmental and Engineering Services and City Engineer and the
+  Managing Director, Planning and City Planner, the staff report dated February
+  2, 2016, with respect to the London ON Bikes Cycling Master Plan, BE RECEIVED
+  for information.  (2016-T10)
+
+# 12.&nbsp;&nbsp;&nbsp;Field Marshal
+  Wolseley Bridge (Quebec Street) Pedestrian Safety
+
+That consideration of the staff report
+  dated February 2, 2016, with respect to the Field Marshal Wolseley Bridge
+  (Quebec Street) Pedestrian Safety, BE REFERRED to the March 29, 2016 meeting
+  of the Civic Works Committee in order to allow for input from the community
+  and the Cycling Advisory Committee (2016-T04)
+
+# 13.&nbsp;&nbsp;&nbsp;Contract Award:
+  Tender No. 15-101, Sarnia Road Improvements, Wonderland Road North to
+  Sleightholme Avenue
+
+That, on the recommendation of the Managing
+  Director, Environmental and Engineering Services and City Engineer, the
+  following actions be taken with respect to the award of a contract for the
+  Sarnia Road Improvements between Wonderland Road North and Sleightholme
+  Avenue:
+ 
+ a)       the
+  bid submitted by Van Bree Drainage and Bulldozing Limited, at its submitted
+  tendered price of $8,990,525.15, excluding H.S.T., for said project BE
+  ACCEPTED;  it being noted that the bid submitted by Van Bree Drainage and
+  Bulldozing Limited was the lowest of six (6) bids received and meets the
+  City's specifications and requirements in all areas;
+ 
+b)        Dillon
+  Consulting Ltd., BE AUTHORIZED to carry out the resident inspection and
+  contract administration of the said project in the amount of $606,141.80,
+  excluding H.S.T., in accordance with Section 15.2 (g) of the Procurement of
+  Goods and Services Policy;
+ 
+c)        the
+  financing for this project BE APPROVED as set out in the Sources of Financing
+  Report appended to the staff report dated February 2, 2016, as Appendix “A”;
+  it being noted that the budget for this project is included in the 2016 Draft
+  Budget and subject to final Budget approval on March 10, 2016, so contract
+  award for this project will not proceed until after Budget approval;
+ 
+d)        the
+  Civic Administration BE AUTHORIZED to undertake all the administrative acts
+  that are necessary in connection with this project;
+ 
+e)        the
+  approval given herein BE CONDITIONAL upon the Corporation entering into a
+  formal contract for the material to be supplied and the work to be done
+  relating to this project (Tender 15-10); and,
+ 
+f)         the
+  Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
+  documents, if required, to give effect to these recommendations.  (2016-F18)
+
+# 14.&nbsp;&nbsp;&nbsp;Comments on
+  Environmental Bill of Rights Registry - Proposed Waste Free Ontario Act and
+  Draft Strategy for a Waste Free Ontario: Building the Circular Economy
+
+That, on the recommendation of the Managing
+  Director, Environmental and Engineering Services and City Engineer, with the
+  support of the Director, Environment, Fleet and Solid Waste, the following
+  comments and discussion BE ENDORSED and BE SUBMITTED to the Ministry of
+  Environment and Climate Change’s Environmental Bill of Rights Registry
+  posting (EBR 012-5832) titled Waste Free Ontario Act; it being noted that the
+  due date for comments is February 29, 2016.  (2016-E07)
+
+# 15.&nbsp;&nbsp;&nbsp;Update Interim
+  Waste Diversion Plan (2014-2015) and Additions for 2016
+
+That, on the recommendation of the
+  Director, Environment, Fleet and Solid Waste the following actions be taken
+  with respect to an update on the Interim Waste Diversion Plan (2014-2015) and
+  additions for 2016:
+ 
+a)         the staff report dated February
+  2, 2016, BE RECEIVED;
+ 
+b)         the 2016 Interim Waste Diversion
+  Plan BE APPROVED;
+ 
+c)        the
+  Civic Administration BE DIRECTED to prepare and submit to the Civic Works
+  Committee the following three additional reports as part of the 2016 Interim
+  Waste Diversion Plan:
+ 
+i)         a
+  report examining the options for increasing Christmas tree composting (by
+  April 2016);
+ 
+ii)        a
+  report examining the advantages, disadvantages and requirements of selling
+  Blue Boxes at the EnviroDepots (by June 2016);
+ 
+iii)       a
+  report examining options for increased recycling in the Downtown core (by
+  October 2016); and, 
+ 
+d)        the
+  Civic Administration BE DIRECTED to report back to the Civic Works Committee
+  on any further adjustments to the 2016 Interim Waste Diversion Plan as a
+  result of 2016 Budget Deliberations, or legislative or regulatory
+  developments.  (2016-E07)
+
+# 17.&nbsp;&nbsp;&nbsp;1st and 2nd Reports
+  of the Cycling Advisory Committee
+
+That the 1st and 2nd Reports of the Cycling
+  Advisory Committee (CAC) from its meetings held December 16, 2015 and January
+  20, 2016, respectively BE RECEIVED; it being noted that clause 2 of the 2nd
+  Report of the CAC in which the CAC advises it no longer supports “Idaho
+  Stops” supersedes clause 8 of the 1st Report of the CAC in which the CAC
+  supported “Idaho Stops”.
+
+# 18.&nbsp;&nbsp;&nbsp;Donation of Two
+  Surplus Parking Meters for Fundraising Purposes
+
+That the request for delegation status from
+  W. Grieve, London Central Lions Club, with respect to a request for the
+  donation of two surplus parking meters for fundraising purposes, BE APPROVED
+  for a future meeting of the Civic Works Committee.
+
+# 19.&nbsp;&nbsp;&nbsp;Springbank Dam
+
+That the following actions be taken with
+  respect to the Springbank Dam:
+ 
+a)          delegation
+  requests for the February 2, 2016 meeting of the Civic Works Committee BE
+  APPROVED;
+ 
+b)          a
+  public participation meeting BE HELD at the Civic Works Committee meeting to
+  be held on March 8, 2016, in order to hear further public input with respect
+  to this matter; and, 
+ 
+c)          the
+  staff report dated February 2, 2016, BE REFERRED to the March 8, 2016 meeting
+  of the Civic Works Committee for consideration;
+ 
+it being noted that the Civic Works
+  Committee received the following communications with respect to this matter;
+ 
+-          a communication from R. Huber,
+  Thames River Anglers and the Ontario Rivers Alliance;
+-          a
+  communication dated January 22, 2016, from T. Brooke, Fisheries Biologist,
+  Ontario Federation of Anglers and Hunters:
+-          a
+  communication dated January 25, 2016 from M. Alikakos, Consultation
+  Coordinator, Chippewas of the Thames First Nation
+-          a
+  communication dated January 28, 2016, from J. MacDonald, CEO and General
+  Manager, Downtown London; and,
+-          a
+  communication dated January 31, 2016, from B. Wells, 408-190 Cherryhill
+  Circle, London, Ontario;
+ 
+it being further noted that R. Huber, representing
+  the Thames River Anglers and the Ontario Rivers Alliance, requested that his
+  delegation be deferred to the March 8, 2016 public participation meeting;
+ 
+it being pointed out that the individuals
+  indicated on the attached delegation record made oral submissions with
+  respect to this matter.  (2016-E21)
+
+# 20.&nbsp;&nbsp;&nbsp;Deferred Matters
+  List
+
+That the Civic Works Committee Deferred
+  Matters List, as at January 12, 2016, BE RECEIVED.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |M. Brown|
+> |M. van Holst|
+> |B. Armstrong|
+> |J. Helmer|
+> |M. Cassidy|
+> |P. Squire|
+> |J. Morgan|
+> |A. Hopkins|
+> |V. Ridley|
+> |S. Turner|
+> |H.L. Usher|
+> |T. Park|
+> |J. Zaifman (13)|
+
+> **Motion
+Passed**
+
+****
+
+# 16.&nbsp;&nbsp;&nbsp;Free Parking in
+  December Update
+
+That, on the recommendation of the Managing
+  Director, Development and Compliance Services and Chief Building Official and
+  the Managing Director, Environmental and Engineering Services and City
+  Engineer, the staff report dated February 2, 2016, with respect to an update
+  on free parking in December, BE RECEIVED for information.  (2016-T02)
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |M. Brown|
+> |M. van Holst|
+> |B. Armstrong|
+> |J. Helmer|
+> |M. Cassidy|
+> |P. Squire|
+> |J. Morgan|
+> |A. Hopkins|
+> |V. Ridley|
+> |S. Turner|
+> |H.L. Usher|
+> |T. Park|
+> |J. Zaifman (13)|
+
+> **Motion Passed**
+
+****
+
+3rd Report of the
+  Planning and Environment Committee
+Councillor P. Squire presents.
+
+> Moved by Councillor P. Squire
+
+Approve clauses 1 to 12, excluding clause 10.
+
+****
+
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of
+  Pecuniary Interest
+
+That it BE NOTED that Councillor T. Park
+  disclosed a pecuniary interest in part e) of the staff report related to Item
+  10, having to do with the evaluation of Community Improvement Plan
+  incentives, by indicating that she owns a neighbouring property.
+
+# 2.&nbsp;&nbsp;&nbsp;2nd Report of the
+  Environmental and Ecological Planning Advisory Committee
+
+That the 2nd Report of the Environmental
+  and Ecological Planning Advisory Committee from its meeting held on January
+  21, 2016, BE RECEIVED.
+
+# 3.&nbsp;&nbsp;&nbsp;Designation of the
   King Street Bridge Under the Ontario Heritage Act
 
 That, on the recommendation of the Managing
@@ -257,6 +730,7 @@ b)        Notice
   staff report dated February 1, 2016 under the provisions of subsection 29(3)
   of the Ontario Heritage Act, R.S.P. 1990, c. O. 18.   (2016-R01)
 
+# 4.&nbsp;&nbsp;&nbsp;Property located at
   1192 Highbury Avenue North - Ontario Municipal Board (OZ-8463)
 
 That, on the recommendation of the Managing
@@ -267,6 +741,7 @@ That, on the recommendation of the Managing
   Municipal Board BE ADVISED that the Municipal Council has reviewed its
   decision relating to this matter and sees no reason to alter it.   (2016-D09)
 
+# 5.&nbsp;&nbsp;&nbsp;Property located at
   275 Thames Street - Repeal of Designation (Relates to Bill No. 80)
 
 That, on the recommendation of the Managing
@@ -277,6 +752,7 @@ That, on the recommendation of the Managing
   Heritage and public notice has been completed with respect to the repeal in
   compliance with the requirements of the Ontario Heritage Act.   (2016-R01)
 
+# 6.&nbsp;&nbsp;&nbsp;Properties located
   at 130, 136, 146 and 164 Pond Mills Road and 925 Deveron Crescent
   (39T-12501/Z-8007)
 
@@ -368,6 +844,7 @@ it
   being pointed out that no individuals spoke at the public participation
   meeting associated with this matter.   (2016-L01/D09)
 
+# 7.&nbsp;&nbsp;&nbsp;2nd Report of the
   London Advisory Committee on Heritage
 
 That, the following actions be taken with
@@ -394,6 +871,7 @@ it being noted that the Planning and
   Environment Committee heard a verbal presentation from D. Dudek, Chair, LACH,
   with respect to these matters.
 
+# 8.&nbsp;&nbsp;&nbsp;2nd Report of the
   Trees and Forests Advisory Committee
 
 That, the following actions be taken with
@@ -415,6 +893,7 @@ it being noted that the Planning and
   from A. Cantell, Vice-Chair, Trees and Forests Advisory Committee, with
   respect to these matters.
 
+# 9.&nbsp;&nbsp;&nbsp;2nd Report of the
   Agricultural Advisory Committee
 
 That, the following actions be taken with
@@ -458,6 +937,64 @@ c)        the
 d)         clauses 1 to 5 and clause 7, BE
   RECEIVED.
 
+# 11.&nbsp;&nbsp;&nbsp;Public Engagement
+  Process – Glanworth Neighbourhood
+
+That the Civic Administration BE DIRECTED
+  to initiate a public engagement process with the Glanworth neighbourhood to
+  receive comment and evaluate potential changes to the Official Plan and
+  Zoning By-law and other relevant policies and regulations that would assist
+  in preserving the quality of life and neighbourhood amenities, recognizing
+  the unique setting of Glanworth within a highly rural setting; it being noted
+  that the Planning and Environment Committee reviewed and received a
+  communication dated January 26, 2016, from Councillor J. Zaifman, with
+  respect to this matter.   (2016-D09)
+
+# 12.&nbsp;&nbsp;&nbsp;Bonus Policies –
+  Draft London Plan
+
+That the Civic Administration BE DIRECTED
+  to include policies that address the following matters in the draft London
+  Plan:
+ 
+a)        policies
+  that give opportunity for bonus zoning in circumstances where a development
+  proposal would provide off-site amenities within the broader surrounding
+  neighbourhoods; and,
+ 
+b)        inclusion
+  of policies that would require applications for bonus zoning to be evaluated
+  by how the development would address the needs of the surrounding
+  neighbourhoods and the public benefits that would be obtained from the bonus
+  zone;
+ 
+it being noted that the Planning and
+  Environment Committee reviewed and received a communication dated January 27,
+  2016, from Councillor J. Morgan, with respect to this matter.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |M. Brown|
+> |M. van Holst|
+> |B. Armstrong|
+> |J. Helmer|
+> |M. Cassidy|
+> |P. Squire|
+> |J. Morgan|
+> |A. Hopkins|
+> |V. Ridley|
+> |S. Turner|
+> |H.L. Usher|
+> |T. Park|
+> |J. Zaifman (13)|
+
+> **Motion
+Passed**
+
+****
+
+# 10.&nbsp;&nbsp;&nbsp;Evaluation of
   Community Improvement Plan Incentives
 
 That, on the recommendation of the Managing
@@ -581,8 +1118,6 @@ it being noted that the Planning and
   Director, Planning and City Planner, with respect to these
   matters.    (2016-D19)
 
-Motion Passed
-
 > [!abstract]- Vote:
 > |Yeas:|
 > |-|
@@ -604,201 +1139,129 @@ Motion Passed
 
 ****
 
-  Process – Glanworth Neighbourhood
+6th Report of the
+  Strategic Priorities and Policy Committee
+Councillor T. Park presents.
 
-That the Civic Administration BE DIRECTED
-  to initiate a public engagement process with the Glanworth neighbourhood to
-  receive comment and evaluate potential changes to the Official Plan and
-  Zoning By-law and other relevant policies and regulations that would assist
-  in preserving the quality of life and neighbourhood amenities, recognizing
-  the unique setting of Glanworth within a highly rural setting; it being noted
-  that the Planning and Environment Committee reviewed and received a
-  communication dated January 26, 2016, from Councillor J. Zaifman, with
-  respect to this matter.   (2016-D09)
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of
+  Pecuniary Interest
 
-  Draft London Plan
+That it BE NOTED that pecuniary interests
+  were disclosed by Councillors B. Armstrong and J. Helmer with respect to
+  clause C-1 of the Confidential Appendix to the 6th Report of the Strategic
+  Priorities and Policy Committee, for reasons as detailed in the Confidential
+  Appendix of the 6th Report of the Strategic Priorities and Policy Committee.
 
-That the Civic Administration BE DIRECTED
-  to include policies that address the following matters in the draft London
-  Plan:
- 
-a)        policies
-  that give opportunity for bonus zoning in circumstances where a development
-  proposal would provide off-site amenities within the broader surrounding
-  neighbourhoods; and,
- 
-b)        inclusion
-  of policies that would require applications for bonus zoning to be evaluated
-  by how the development would address the needs of the surrounding
-  neighbourhoods and the public benefits that would be obtained from the bonus
-  zone;
- 
-it being noted that the Planning and
-  Environment Committee reviewed and received a communication dated January 27,
-  2016, from Councillor J. Morgan, with respect to this matter.
+7th Report of the Strategic
+  Priorities and Policy Committee
+Councillor T. Park presents.
 
-  Tender No. 15-101, Sarnia Road Improvements, Wonderland Road North to
-  Sleightholme Avenue
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of
+  Pecuniary Interest
 
-That, on the recommendation of the Managing
-  Director, Environmental and Engineering Services and City Engineer, the
-  following actions be taken with respect to the award of a contract for the
-  Sarnia Road Improvements between Wonderland Road North and Sleightholme
-  Avenue:
- 
- a)       the
-  bid submitted by Van Bree Drainage and Bulldozing Limited, at its submitted
-  tendered price of $8,990,525.15, excluding H.S.T., for said project BE
-  ACCEPTED;  it being noted that the bid submitted by Van Bree Drainage and
-  Bulldozing Limited was the lowest of six (6) bids received and meets the
-  City's specifications and requirements in all areas;
- 
-b)        Dillon
-  Consulting Ltd., BE AUTHORIZED to carry out the resident inspection and
-  contract administration of the said project in the amount of $606,141.80,
-  excluding H.S.T., in accordance with Section 15.2 (g) of the Procurement of
-  Goods and Services Policy;
- 
-c)        the
-  financing for this project BE APPROVED as set out in the Sources of Financing
-  Report appended to the staff report dated February 2, 2016, as Appendix “A”;
-  it being noted that the budget for this project is included in the 2016 Draft
-  Budget and subject to final Budget approval on March 10, 2016, so contract
-  award for this project will not proceed until after Budget approval;
- 
-d)        the
-  Civic Administration BE AUTHORIZED to undertake all the administrative acts
-  that are necessary in connection with this project;
- 
-e)        the
-  approval given herein BE CONDITIONAL upon the Corporation entering into a
-  formal contract for the material to be supplied and the work to be done
-  relating to this project (Tender 15-10); and,
- 
-f)         the
-  Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
-  documents, if required, to give effect to these recommendations.  (2016-F18)
+That it BE NOTED that no pecuniary
+  interests were disclosed.
 
-  Environmental Bill of Rights Registry - Proposed Waste Free Ontario Act and
-  Draft Strategy for a Waste Free Ontario: Building the Circular Economy
-
-That, on the recommendation of the Managing
-  Director, Environmental and Engineering Services and City Engineer, with the
-  support of the Director, Environment, Fleet and Solid Waste, the following
-  comments and discussion BE ENDORSED and BE SUBMITTED to the Ministry of
-  Environment and Climate Change’s Environmental Bill of Rights Registry
-  posting (EBR 012-5832) titled Waste Free Ontario Act; it being noted that the
-  due date for comments is February 29, 2016.  (2016-E07)
-
-  Waste Diversion Plan (2014-2015) and Additions for 2016
-
-That, on the recommendation of the
-  Director, Environment, Fleet and Solid Waste the following actions be taken
-  with respect to an update on the Interim Waste Diversion Plan (2014-2015) and
-  additions for 2016:
- 
-a)         the staff report dated February
-  2, 2016, BE RECEIVED;
- 
-b)         the 2016 Interim Waste Diversion
-  Plan BE APPROVED;
- 
-c)        the
-  Civic Administration BE DIRECTED to prepare and submit to the Civic Works
-  Committee the following three additional reports as part of the 2016 Interim
-  Waste Diversion Plan:
- 
-i)         a
-  report examining the options for increasing Christmas tree composting (by
-  April 2016);
- 
-ii)        a
-  report examining the advantages, disadvantages and requirements of selling
-  Blue Boxes at the EnviroDepots (by June 2016);
- 
-iii)       a
-  report examining options for increased recycling in the Downtown core (by
-  October 2016); and, 
- 
-d)        the
-  Civic Administration BE DIRECTED to report back to the Civic Works Committee
-  on any further adjustments to the 2016 Interim Waste Diversion Plan as a
-  result of 2016 Budget Deliberations, or legislative or regulatory
-  developments.  (2016-E07)
-
-  of the Cycling Advisory Committee
-
-That the 1st and 2nd Reports of the Cycling
-  Advisory Committee (CAC) from its meetings held December 16, 2015 and January
-  20, 2016, respectively BE RECEIVED; it being noted that clause 2 of the 2nd
-  Report of the CAC in which the CAC advises it no longer supports “Idaho
-  Stops” supersedes clause 8 of the 1st Report of the CAC in which the CAC
-  supported “Idaho Stops”.
-
-  Surplus Parking Meters for Fundraising Purposes
-
-That the request for delegation status from
-  W. Grieve, London Central Lions Club, with respect to a request for the
-  donation of two surplus parking meters for fundraising purposes, BE APPROVED
-  for a future meeting of the Civic Works Committee.
-
+# 2.&nbsp;&nbsp;&nbsp;Downtown
+  Infrastructure Planning and Coordination
 
 That the following actions be taken with
-  respect to the Springbank Dam:
+  respect to the planning and coordination of infrastructure projects in
+  Downtown London:
  
-a)          delegation
-  requests for the February 2, 2016 meeting of the Civic Works Committee BE
-  APPROVED;
+a)        the
+  key project planning directions, as contained in the staff report dated
+  January 28, 2016, for the following projects BE ENDORSED in order to provide
+  guidance in the development of project solutions; and the associated
+  preliminary construction timelines contained in the aforementioned staff
+  report BE INCORPORATED into these projects as the basis for community
+  consultation:
  
-b)          a
-  public participation meeting BE HELD at the Civic Works Committee meeting to
-  be held on March 8, 2016, in order to hear further public input with respect
-  to this matter; and, 
+i)          Shift
+  – Rapid Transit EA
+ii)         Blackfriars
+  Bridge EA
+iii)         Dundas
+  Place EA
+iv)        Wharncliffe
+  Road CP Underpass EA (north of Oxford)
+v)         Wharncliffe
+  Road CN Underpass EA (north of Horton)
+vi)        London
+  ON Bikes – Cycling Master Plan EA
+vii)       Pollution
+  Prevention and Control Plan – York Street Combined Sewer Separation
+  Replacement Program
+viii)       UTRCA
+  Remediating Flood Control Works (Dykes Remediation/Replacement Program) EA;
  
-c)          the
-  staff report dated February 2, 2016, BE REFERRED to the March 8, 2016 meeting
-  of the Civic Works Committee for consideration;
+b)         consideration
+  of the key project planning directions and associated preliminary
+  construction timelines for the following projects, as contained in the staff
+  report dated January 28, 2016, BE REFERRED to the March 8, 2016 meeting of
+  the Civic Works Committee, for discussion and debate, in order to allow any
+  parties who wish to have delegation status on these matters an opportunity to
+  be heard:
  
-it being noted that the Civic Works
-  Committee received the following communications with respect to this matter;
+i)           Back
+  to the River “Ribbon of the Thames” concept plan
+ii)          Springbank
+  Dam Replacement Gates
  
--          a communication from R. Huber,
-  Thames River Anglers and the Ontario Rivers Alliance;
--          a
-  communication dated January 22, 2016, from T. Brooke, Fisheries Biologist,
-  Ontario Federation of Anglers and Hunters:
--          a
-  communication dated January 25, 2016 from M. Alikakos, Consultation
-  Coordinator, Chippewas of the Thames First Nation
--          a
-  communication dated January 28, 2016, from J. MacDonald, CEO and General
-  Manager, Downtown London; and,
--          a
-  communication dated January 31, 2016, from B. Wells, 408-190 Cherryhill
-  Circle, London, Ontario;
+c)        the
+  Civic Administration BE DIRECTED to report back at the March 8, 2016 meeting
+  of the Civic Works Committee with respect to Treaty Rights regarding the
+  projects noted in b), above; and
  
-it being further noted that R. Huber, representing
-  the Thames River Anglers and the Ontario Rivers Alliance, requested that his
-  delegation be deferred to the March 8, 2016 public participation meeting;
+d)         the following communications BE
+  RECEIVED:
  
-it being pointed out that the individuals
-  indicated on the attached delegation record made oral submissions with
-  respect to this matter.  (2016-E21)
-
-  List
-
-That the Civic Works Committee Deferred
-  Matters List, as at January 12, 2016, BE RECEIVED.
-
-  December Update
-
-That, on the recommendation of the Managing
-  Director, Development and Compliance Services and Chief Building Official and
+i)          a
+  communication dated January 17, 2016 from M. Andreae, President, Nature
+  London;
+ii)         a
+  communication dated January 16, 2016 from D. Wake, 597 Kildare Road; and
+iii)         a
+  communication dated January 26, 2016 from I. Mathyssen, Member of Parliament,
+  London-Fanshawe;
+ 
+it being noted that the Strategic
+  Priorities and Policy Committee heard the attached presentation from
   the Managing Director, Environmental and Engineering Services and City
-  Engineer, the staff report dated February 2, 2016, with respect to an update
-  on free parking in December, BE RECEIVED for information.  (2016-T02)
+  Engineer, the Managing Director, Planning and City Planner and the Director
+  of Roads and Transportation, with respect to these matters.
 
-Motion Passed
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |M. Brown|
+> |M. van Holst|
+> |B. Armstrong|
+> |J. Helmer|
+> |M. Cassidy|
+> |P. Squire|
+> |J. Morgan|
+> |A. Hopkins|
+> |V. Ridley|
+> |S. Turner|
+> |H.L. Usher|
+> |T. Park|
+> |J. Zaifman (13)|
+
+> **Motion
+Passed**
+
+****
+
+# V.&nbsp;&nbsp;&nbsp;COMMITTEE OF THE WHOLE, IN
+  CAMERA continued
+
+> Moved by Councillor M. van Holst
+
+> Seconded by Councillor T. Park
+
+Approve that Council rise and resume
+  Committee of the Whole, in camera, for the following:
 
 > [!abstract]- Vote:
 > |Yeas:|
@@ -821,14 +1284,73 @@ Motion Passed
 
 ****
 
-> Moved by Councillor P. Squire
+5th Report of the Committee
+  of the Whole
+Councillor J. Zaifman presents.
 
-Approve clauses 1 to 12, excluding clause 10.
+> Moved by Councillor J. Zaifman
+
+> Seconded by Councillor J. Helmer
+
+Approve that, as a procedural matter
+  pursuant to Section 239 (6) of the Municipal Act, 2001, the following
+  recommendation be forwarded to City Council for deliberation and a vote in
+  public session:
+ 
+That, on the recommendation of the Managing
+  Director, Environmental and Engineering Services and City Engineer, with the
+  concurrence of Managing Director, Corporate Services and City Treasurer,
+  Chief Financial Officer, on the advice of the Director Environment, Fleet and
+  Sold Waste and the Manager of Realty Services, the following actions be taken
+  with respect to the property at 3674 Glanworth Drive:
+ 
+a)          the
+  Agreement of Purchase and Sale attached as Appendix “A” to sell to the
+  City the Property municipally known as 3674 Glanworth Drive, located on the
+  north side of Glanworth Drive, further described as Part South ½ Lot 19
+  Concession 7, containing an area of approximately 46 acres, for the sum of
+  $875,000.00, BE APPROVED subject to the following conditions:
+ 
+i)          provision
+  of a deposit of $1,000.00;
+ii)         a
+  completion date of March 10, 2016;
+iii)         the
+  Buyer and Seller acknowledging that the Province of Ontario has implemented
+  current value assessment and properties may be re-assessed on an annual
+  basis;
+iv)        all
+  chattels remaining the property of the Seller; and
+ 
+b)          the
+  financing for this acquisition BE APPROVED as set out in the Source of
+  Financing Report attached hereto as Appendix “B”.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |M. Brown|
+> |M. van Holst|
+> |B. Armstrong|
+> |J. Helmer|
+> |M. Cassidy|
+> |P. Squire|
+> |J. Morgan|
+> |A. Hopkins|
+> |V. Ridley|
+> |S. Turner|
+> |H.L. Usher|
+> |T. Park|
+> |J. Zaifman (13)|
+
+> **Motion Passed**
 
 ****
 
+# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
+# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
 Councillor B. Armstrong enquires with
   respect to a request for an update related to snow removal, particularly with
@@ -840,8 +1362,10 @@ Councillor M. van Holst further enquires
   about the type of equipment being used in some areas.  The Managing Director,
   Environmental and Engineering Services and City Engineer provides a response.
 
+# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
+# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -852,10 +1376,6 @@ BY-LAWS TO BE READ A FIRST, SECOND AND
 
 Approve Introduction and First Reading of
   Bill No.s 76 to 86 and Added Bill No. 87.
-
-****
-
-Motion Passed
 
 > [!abstract]- Vote:
 > |Yeas:|
@@ -885,10 +1405,6 @@ Motion Passed
 Approve Second Reading of Bill No.s 76 to
   86 and Added Bill No. 87.
 
-****
-
-Motion Passed
-
 > [!abstract]- Vote:
 > |Yeas:|
 > |-|
@@ -917,10 +1433,6 @@ Motion Passed
 Approve Third Reading and Enactment of
   Bill No.s 76 to 86 and Added Bill No. 87.
 
-****
-
-Motion Passed
-
 > [!abstract]- Vote:
 > |Yeas:|
 > |-|
@@ -942,79 +1454,7 @@ Motion Passed
 
 ****
 
+# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
----
-
-## Votes
-
-*5 substantive votes at this meeting (5 contested, 0 unanimous). Procedural motions excluded.*
-
-### V. COMMITTEE OF THE WHOLE, IN
-  CAMERA continued
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (26):** [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman), [Jared Zaifman](/councillors/current/j-zaifman)
-
-</details>
-
-### VI. CONFIRMATION
-  AND SIGNING OF THE MINUTES OF THE FOURTH MEETING HELD ON JANUARY 26, 2016
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
-
-</details>
-
-### XIII. BY-LAWS
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (39):** [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Bill Armstrong](/councillors/current/b-armstrong), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Virginia Ridley](/councillors/current/v-ridley), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman), [Jared Zaifman](/councillors/current/j-zaifman), [Jared Zaifman](/councillors/current/j-zaifman)
-
-</details>
-
-### 10. Evaluation of
-  Community Improvement Plan Incentives
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
-
-</details>
-
-### 16. Free Parking in
-  December Update
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
-
-</details>
+Motion Passed
 

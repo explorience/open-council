@@ -4,7 +4,7 @@ date: 2014-09-30
 ---
 September 30, 2014, at  4:02 PM
 
-[Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English)
+[Original link](https://pub-london.escribemeetings.com//Meeting.aspx?Id=441552ac-36f5-464f-b7f2-3539979a8aac&Agenda=PostMinutes&lang=English)
 
 > [!abstract]- Present:
 > J. Baechler, B. Polhill, B. Armstrong, J.B. Swan, W.R. Monteith, N. Branscombe, M. Brown, P. Hubert, D.G. Henderson, P. Van Meerbergen, D. Brown, H.L. Usher, J.P. Bryant, S.E. White, C. Saunders
@@ -18,6 +18,7 @@ September 30, 2014, at  4:02 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:02 PM.
 
+# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 Councillor W.R. Monteith discloses a
@@ -32,16 +33,22 @@ Councillor J.P. Bryant discloses a
   Heritage Report, as it relates to the property located at 317 Hyman Street,
   by indicating that her residence is in close proximity.
 
+# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
+# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
+18th Report of the
+  Strategic Priorities and Policy Committee
 
-  Pecuniary Interest
+# V.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-That it BE NOTED that no pecuniary
-  interests were disclosed.
+# 1.&nbsp;&nbsp;&nbsp;Her Worship the
+  Mayor presents a certificate for "London's Featured Community
+  Organization" to the Society for Learning in Retirement London.
 
+# IV.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
 MOTION FOR IN CAMERA SESSION
@@ -53,10 +60,6 @@ MOTION FOR IN CAMERA SESSION
 Approve that Council rise and go into
   Committee of the Whole, in camera, for the purpose of considering the
   following:
-
-****
-
-Motion Passed
 
 > [!abstract]- Vote:
 > |Yeas:|
@@ -78,6 +81,7 @@ Motion Passed
 
 ****
 
+# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE TWENTY-SECOND MEETING HELD ON SEPTEMBER 16,
   2014
 
@@ -88,7 +92,62 @@ Motion Passed
 Approve the Minutes of the 22nd Meeting
   held on September 16, 2014.
 
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J. Baechler|
+> |B. Polhill|
+> |B. Armstrong|
+> |J.B. Swan|
+> |W.R. Monteith|
+> |N. Branscombe|
+> |M. Brown|
+> |P. Hubert|
+> |D.G. Henderson|
+> |P. Van Meerbergen|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant|
+> |S.E. White (14)|
+
+> **Motion Passed**
+
 ****
+
+# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
+  AND PETITIONS
+
+> Moved by Councillor B. Polhill
+
+> Seconded by Councillor J.B. Swan
+
+Approve receipt and referral of the
+  following communications, as noted on the Agenda:
+
+****
+
+# 3.&nbsp;&nbsp;&nbsp;Andre Marin,
+  Ombudsman of Ontario - Ombudsman Report - Investigation into whether Members
+  of Council for the City of London held an improper closed meeting on June 24,
+  2014
+
+# 4.&nbsp;&nbsp;&nbsp;D. Cornell, By
+  E-mail - City of London Official Plan and Zoning By-law Review -
+  Blackfriars/Petersville Official Plan/Zoning Study (OZ-8373) (Refer to the
+  Planning and Environment Committee stage for consideration with clause 14 of
+  the 17th Report of the Planning and Environment Committee.)
+
+# 5.&nbsp;&nbsp;&nbsp;Industrial Land
+  Review: Recommended Urban Growth Boundary Expansion for Future Industrial
+  Growth and Official Plan Amendment (O-8014) (Refer to the Planning and
+  Environment Committee stage for consideration with clause 15 of the 17th
+  Report of Planning and Environment Committee.)
+
+# 6.&nbsp;&nbsp;&nbsp;(ADDED) B.J.
+  Semkowski, London Airport Auto Mall - Property located at 1300 Fanshawe Park
+  Road East (OZ-8358) (Refer to the Planning and Environment Committee stage
+  for consideration with clause 11 of the 17th Report of the Planning and
+  Environment Committee.)
 
 Motion Passed
 
@@ -114,63 +173,277 @@ Motion Passed
 
 ****
 
-  AND PETITIONS
-
 > Moved by Councillor B. Polhill
 
-> Seconded by Councillor J.B. Swan
+> Seconded by Councillor P. Van Meerbergen
 
-Approve receipt and referral of the
-  following communications, as noted on the Agenda:
+Approve that Council convene as
+  the Approval Authority pursuant to the provisions of the Expropriation Act,
+  R.S.O. 1990, c.E.26, as amended, for the purpose of considering Communication
+  No. 1 from the Managing Director, Environmental and Engineering Services and
+  City Engineer, dealing with the proposed expropriation of land for the Hyde
+  Park Road Widening Project, Phase II (TS1477-2).
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J. Baechler|
+> |B. Polhill|
+> |B. Armstrong|
+> |J.B. Swan|
+> |W.R. Monteith|
+> |N. Branscombe|
+> |M. Brown|
+> |P. Hubert|
+> |D.G. Henderson|
+> |P. Van Meerbergen|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant|
+> |S.E. White (14)|
+
+> **Motion Passed**
 
 ****
 
-  Supply and Delivery of Motorized Riding Golf Carts
+> Moved by Councillor B. Polhill
 
-That consideration of the report dated
-  September 22, 2014, from the Managing Director of Parks & Recreation,
-  with respect to the single source supply and delivery of motorized riding
-  golf carts, BE DEFERRED to a meeting in the next Council year.   (2014-F17)
+> Seconded by Councillor P. Van Meerbergen
 
-  Affordable Housing for Ontario (2014 Extension) - Approval of Administration
-  Agreement
-
-That, on the recommendation of the Director
-  of Municipal Housing, with the concurrence of the Managing Director, Housing,
-  Social Services & Dearness Home, the by-law appended to the staff report
-  dated September 22, 2014, BE INTRODUCED at the Municipal Council on September
-  30, 2014, to:
+Approve the staff recommendation
+  contained in Communication No. 1.
  
-a)         authorize
-  an Administration Agreement, substantially in the form of the Agreement
-  appended to the by-law and to the satisfaction of the City Solicitor; and 
+1.                Managing
+  Director, Environmental and Engineering Services and City Engineer –
+  Expropriation of Lands – Hyde Park Road Widening Project – Phase II –
+  TS1477-2
  
-b)         authorize the Mayor and the City
-  Clerk to execute the said Agreement.  (2014-L04A)
-
-  London Housing Advisory Committee
-
-That, on the recommendation of the London
-  Housing Advisory Committee (LHAC), the following actions be taken with
-  respect to the 8th Report of the LHAC, from its meeting held on September 10,
-  2014:
+That, on the recommendation of the Managing
+  Director, Environmental and Engineering Services and City Engineer, on the
+  advice of the Manager of Realty Services, with the review and concurrence of
+  the Director, Roads and Transportation, with respect to the expropriation of
+  lands for the a project known as the Hyde Park Road Widening and Improvements
+  Project - Phase II, between South Carriage Road and Fanshawe Park Road, the
+  following actions be taken:
  
-a)          the
-  Civic Administration BE REQUESTED to consider the attached comments
-  and recommendations with respect to matters related to housing, as noted in
-  The London Plan; and,
+a)         the
+  Council of The Corporation of the City of London, as Approving Authority
+  pursuant to the Expropriations Act, R.S.O. 1990, c. E.26, as amended, HEREBY
+  APPROVES the proposed expropriation of land, as described in Appendix “A” attached
+  hereto, in the City of London, County of Middlesex; it being pointed out that
+  the reasons for making this decision are as follows:
  
-b)         clauses 2 to 6 BE RECEIVED.
+            i)          the
+  subject lands are required by The Corporation of the City of London for the             widening
+  of Hyde Park Road;
+ 
+ii)         the
+  design of the project will address the current and future transportation
+  demands along the corridor;
+ 
+             iii)        the
+  design is in accordance with the Municipal Class Environmental Assessment Study
+  Recommendations for the Hyde Park Road Widening and Improvements accepted by
+  Council on January 10, 2012;  
+ 
+b)         a
+  certificate of approval BE ISSUED by the City Clerk on behalf of the
+  Approving Authority in the prescribed form; and,
+ 
+c)         it
+  BE NOTED that a request for a Hearing of Necessity was received and a hearing
+  was conducted on September 4, 2014.
 
-  Exemption Permits
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J. Baechler|
+> |B. Polhill|
+> |B. Armstrong|
+> |J.B. Swan|
+> |W.R. Monteith|
+> |N. Branscombe|
+> |M. Brown|
+> |P. Hubert|
+> |D.G. Henderson|
+> |P. Van Meerbergen|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant|
+> |S.E. White (14)|
 
-That the communication from Councillor D.
-  Brown, with respect to a request to review of the issuance of Noise Exemption
-  Permits on Sunday nights, BE REFERRED to the Civic Administration for a
-  report back in 2015.   (2014-M04A)
+> **Motion Passed**
 
+****
+
+> Moved by Councillor B. Polhill
+
+> Seconded by Councillor B. Armstrong
+
+Approve that the meeting of the
+  Approval Authority be adjourned and that the City Council reconvene in
+  regular session.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J. Baechler|
+> |B. Polhill|
+> |B. Armstrong|
+> |J.B. Swan|
+> |W.R. Monteith|
+> |N. Branscombe|
+> |M. Brown|
+> |P. Hubert|
+> |D.G. Henderson|
+> |P. Van Meerbergen|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant|
+> |S.E. White (14)|
+
+> **Motion Passed**
+
+****
+
+> Moved by Councillor B. Polhill
+
+> Seconded by Councillor H.L. Usher
+
+Approve the staff recommendation as
+  contained Communication No. 2.
+ 
+2.           
+              Managing
+  Director, Environmental and Engineering Services & City Engineer – Expropriation
+  of Lands – Hyde Park Road Widening Project – Phase II – TS1477-2
+ 
+That, on the recommendation of the Managing
+  Director, Environmental and Engineering Services & City Engineer, on the
+  advice of the Manager of Realty Services, with the review and concurrence of
+  the Director, Roads and Transportation, with respect to the expropriation of
+  lands for the project known as the Hyde Park Road Widening and Improvements
+  Project-Phase II, between South Carriage Road and Fanshawe Park Road, the
+  following actions be taken:
+ 
+a)         the
+  proposed by-law attached as Schedule ‘B’ BE INTRODUCED at the
+  Municipal Council meeting on September 30, 2014 by The Corporation of the
+  City of London as Expropriating Authority, with respect to the land described
+  in Schedule ‘A’ attached hereto (the “Expropriated Lands”);
+ 
+b)         the
+  Civic Administration BE DIRECTED to take all necessary steps to prepare a
+  plan or plans showing the Expropriated Lands and to register such plan or
+  plans in the appropriate registry or land titles office, pursuant to the
+  Expropriations Act, R.S.O. 1990, c. E.26, within three (3) months of the
+  Approving Authority granting approval of the said expropriation;
+ 
+c)         the
+  City Clerk BE AUTHORIZED to sign on behalf of the Expropriating Authority,
+  the plan or plans as signed by an Ontario Land Surveyor showing the
+  Expropriated Lands; and      
+ 
+d)         the
+  City Clerk BE AUTHORIZED AND DIRECTED to execute and serve the notices of
+  expropriation required by the Expropriations Act, R.S.O. 1990, c. E.26 and
+  such notices of possession that may be required to obtain possession of the
+  Expropriated Lands.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J. Baechler|
+> |B. Polhill|
+> |B. Armstrong|
+> |J.B. Swan|
+> |W.R. Monteith|
+> |N. Branscombe|
+> |M. Brown|
+> |P. Hubert|
+> |D.G. Henderson|
+> |P. Van Meerbergen|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant|
+> |S.E. White (14)|
+
+> **Motion Passed**
+
+****
+
+> Moved by Councillor W.R. Monteith
+
+> Seconded by Councillor N. Branscombe
+
+Approve that pursuant to section 7.4
+  of the Council Procedure By-law, the order of business be changed to permit
+  consideration of clause 16 of the 17th Report of the Planning and Environment
+  Committee, having to do with the property located at 2118 Richmond Street, to
+  be dealt with at 5:30 PM.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J. Baechler|
+> |B. Polhill|
+> |B. Armstrong|
+> |J.B. Swan|
+> |W.R. Monteith|
+> |N. Branscombe|
+> |M. Brown|
+> |P. Hubert|
+> |D.G. Henderson|
+> |P. Van Meerbergen|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant|
+> |S.E. White (14)|
+
+> **Motion Passed**
+
+****
+
+> Moved by Councillor J.P. Bryant
+
+> Seconded by Councillor B. Armstrong
+
+Approve that pursuant to section 7.4
+  of the Council Procedure By-law, the order of business be changed to permit
+  consideration of clause 14 of the 17th Report of the Planning and Environment
+  Committee, having to do with the Blackfriars/Petersville Official Plan/Zoning
+  Study, to be dealt with at 5:00 PM.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J. Baechler|
+> |B. Polhill|
+> |B. Armstrong|
+> |J.B. Swan|
+> |W.R. Monteith|
+> |N. Branscombe|
+> |M. Brown|
+> |P. Hubert|
+> |D.G. Henderson|
+> |P. Van Meerbergen|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant|
+> |S.E. White (14)|
+
+> **Motion Passed**
+
+****
+
+# VIII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
+# IX.&nbsp;&nbsp;&nbsp;REPORTS
+
+23rd Report of the
+  Corporate Services Committee
+Councillor J.P. Bryant presents.
 
 > Moved by Councillor J.P. Bryant
 
@@ -178,183 +451,309 @@ Approve clauses 1 to 6.
 
 ****
 
-  Worship the Mayor and the Municipal Council recognize of City of London
-  employees who have achieved 25 years of service during 2014 including:
- 
-Fire Services
- 
-Susan Casey
-Jeffrey M. Collins
-John Hassan
-Paul Hoffman
-David J. Hubbell
-Randy Noble
-Cathy Staltari
-Peter T. Swartman
- 
-Long Term Care
-  Services
- 
-Joselyn Appleford
-Debbra Houston
-Anna Kliorikaitis
-Enzo Palcich
-Ken Russell
-Ruth Steinbach
- 
-Parks and
-  Recreation Services
- 
-Caroline Gray
-Christine
-  Hinsperger
-Paul Anthony Kyle
-Maria Smith
-Doug Steels
-Aleksandra B.
-  Szywala
- 
-Social Services
- 
-Sherri Bolt
-Barbara Bourne
-Karyn Chapman
-Thérèse Crozier
-Lisa Dalla Costa
-Barbara Jensen
-Eva Y. Koh
-Shannon Lauber
-Sandra Matthews
-Mary Ann Molloy
-Darlene Newland
-Ronda Lee Reeves
-Denise Rovers
-Karen Sivak
-Sharon J. Thompson
-Diana Van Belois
-Sue White
-Ulrike Williams
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of
+  Pecuniary Interest
 
-  for Expanded Animal Welfare Initiatives
+That it BE NOTED that no pecuniary
+  interests were disclosed.
 
-That the following actions be taken to
-  amend various City of London by-laws in order to support enhanced animal care
-  strategies and implement the Municipal Council’s first principle of “no kill”
-  and its open shelter policy:
- 
-a)     
-  the attached revised by-law, BE INTRODUCED at the Municipal Council
-  meeting to be held September 30, 2014 to:
- 
-i)          amend
-  By-law No. PH-3, Animal Control to implement the following animal welfare
-  initiatives: increased pet limits for cats; inclusion of a new citizen
-  clause;  an increased exemption period for licensing of new born animals;
-  provision for discretion regarding licensing fee amnesty periods;
-  introduction of an additional licensing amnesty not to extend past  July 1,
-  2015 for owners of spayed/neutered pets who are not compliant with pet limit
-  regulations  at the time of enactment, in order to ensure licensing of the
-  animals; additional provisions related to microchipping as a form of
-  identification for cats in place of cat identification tags; and the
-  inclusion of fostering regulations; and 
- 
-ii)   
-       amend fees and charges related to cat registration fees within Schedule
-  “A” attached to the by-law; and
- 
-b)   
-       the attached revised by-law, BE INTRODUCED at the Municipal
-  Council meeting to be held September 30, 2014 to:
- 
-i)     
-  amend By-law No. PH-4, Dog Licensing & Control to implement the following
-  animal welfare initiatives: inclusion of a new citizen clause; an increased
-  exemption period for licensing of new born animals; provision for discretion
-  regarding licensing fee amnesty periods; introduction of an additional
-  licensing amnesty not to extend past  July 1, 2015 for owners of
-  spayed/neutered pets who are not compliant with pet limit regulations  at the
-  time of enactment, in order to ensure licensing of the animals;  redefinition
-  of “at large” in response to a citizen concern; revised wording regarding
-  muzzling to clarify when a Notice of Caution will be issued, and the
-  inclusion of fostering regulations; and
- 
-ii)         amend
-  fees and charges related to dog registration licensing fees within Schedule
-  “A” attached to the by-law;
- 
-it being noted that the above-noted revised
-  by-laws incorporate pet limits of eight spayed/neutered animals, including a
-  maximum of three spayed/neutered dogs, per household, with no differentiation
-  between dwelling types.  (2014-C01)
+# 2.&nbsp;&nbsp;&nbsp;Proposed Process
+  for Land Leases for City-Owned Land in the Vicinity of the W12A Landfill and
+  Resource Recovery Area
 
-> Moved by Councillor P. Van Meerbergen
-
-> Seconded by Councillor J.P. Bryant
-
-Approve that, on the recommendation
-  of the Managing Director, Development & Compliance Services and the Chief
-  Building Official, the following actions be taken to amend various City of
-  London by-laws in order to support enhanced animal care strategies and
-  implement City Council’s first principle of “no kill” and open shelter
-  policy:
+That the following actions be taken with
+  respect to land leases for City-owned land in the vicinity of the W12A
+  Landfill and Resource Recovery Area:
  
-a)         a
-  by-law BE INTRODUCED at a future Municipal Council meeting to amend By-law
-  No. PH-3, Animal Control to implement the following animal welfare
-  initiatives: pet limits for cats (differentiating between single family dwelling
-  limits – max. 8, s/n; and multi-unit dwellings – max. 5, s/n; each with a
-  maximum of 3 dogs); new citizen clause;  increased exemption period for
-  licensing of new born animals; allow discretion of licensing fee amnesty
-  periods; introduction of an additional licensing amnesty not to extend
-  past  July 1, 2015 for owners of spayed/neutered pets who are not
-  compliant with pet limit regulations  at the time of enactment, in order
-  to ensure licensing of the animals; add provisions related to microchips as a
-  form of identification for cats in place of cat identification tags; and the
-  inclusion of fostering regulations; and to amend fees and charges related to
-  cat registration fees within Schedule “A” attached to the by-law; and,
+a)         the
+  staff report dated September 23, 2014, with respect to the proposed process
+  for land leases for City-owned land in the vicinity of the W12A Landfill and
+  Resource Recovery Area BE RECEIVED for information; and
  
-b)         a
-  by-law  BE INTRODUCED at a future Municipal Council meeting to amend
-  By-law No. PH-4, Dog Licensing & Control to implement the following
-  animal welfare initiatives: pet limits for dogs (differentiating between
-  single family dwelling limits – max. 8, s/n; and multi-unit dwellings – max.
-  5, s/n; each with a maximum of 3 dogs); new citizen clause; increased
-  exemption period for licensing of new born animals; and allow discretion of
-  licensing fee amnesty periods; introduction of an additional licensing
-  amnesty not to extend past  July 1, 2015 for owners of spayed/neutered
-  pets who are not compliant with pet limit regulations  at the time of
-  enactment, in order to ensure licensing of the animals; redefine “at large”
-  in response to a citizen concern; revised wording regarding muzzling to
-  clarify when a Notice of Caution will be issued, and the inclusion of
-  fostering regulations fostering; and to amend fees and charges related to dog
-  registration licensing fees within Schedule “A” attached to the
-  by-law.
+b)         the
+  Civic Administration BE INSTRUCTED to seek additional information from the
+  proponent and report back in 30 to 60 days in order to determine appropriate
+  next steps based upon any additional information that the proponent is able
+  to provide; it being understood that if sufficient information is not
+  provided during this time, staff will report back on a potential RFP process.
 
-****
+# 3.&nbsp;&nbsp;&nbsp;Employee
+  Absenteeism 2014 Mid-Year Review Update
 
-Motion Passed
+That, on the recommendation of the Managing
+  Director, Corporate Services and Chief Human Resources Officer, the staff
+  report dated September 23, 2014, with respect to the 2014 mid-year review of
+  employee absenteeism, BE RECEIVED for information.
+
+# 4.&nbsp;&nbsp;&nbsp;Ministerial
+  Delegations, AMO Annual General Meeting,Conference and Trade Show 2014
+
+That, on the recommendation of the Director
+  of Intergovernmental and Community Liaison, the staff report dated September
+  23, 2014, with respect to the Ministerial delegations at the AMO Annual
+  General Meeting, Conference and Trade Show 2014, BE RECEIVED for information.
+
+# 5.&nbsp;&nbsp;&nbsp;Pre-Budget
+  Submission to the Federal Standing Committee on Finance
+
+That, on the recommendation of the Director
+  of Intergovernmental and Community Liaison, the pre-budget submission to the
+  Federal Minister of Finance, our local Members of Parliament and the Federal
+  Standing Committee on Finance, as appended to the staff report dated
+  September 23, 2014, BE SUPPORTED.
+
+# 6.&nbsp;&nbsp;&nbsp;Consideration of
+  Appointment to the Accessibility Advisory Committee
+
+That the following individuals be appointed
+  as Voting Members to the Accessibility Advisory Committee for the term ending
+  February 28, 2015:
+ 
+-           Jill Bell (Parent of a Child
+  with a Disability) 
+-           Bill Birtch (Person with a
+  Disability) 
+-           J. Damon Whatmore (Person with
+  a Disability)
 
 > [!abstract]- Vote:
-> |Yeas:|Nays:|
-> |-|-|
-> |B. Polhill|J. Baechler (1)|
-> |B. Armstrong||
-> |J.B. Swan||
-> |W.R. Monteith||
-> |N. Branscombe||
-> |M. Brown||
-> |P. Hubert||
-> |D.G. Henderson||
-> |P. Van Meerbergen||
-> |D. Brown||
-> |H.L. Usher||
-> |J.P. Bryant||
-> |S.E. White (13)||
+> |Yeas:|
+> |-|
+> |J. Baechler|
+> |B. Polhill|
+> |B. Armstrong|
+> |J.B. Swan|
+> |W.R. Monteith|
+> |N. Branscombe|
+> |M. Brown|
+> |P. Hubert|
+> |D.G. Henderson|
+> |P. Van Meerbergen|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant|
+> |S.E. White (14)|
 
-> **Motion Passed**
+> **Motion
+Passed**
 
 ****
 
+15th Report of the
+  Civic Works Committee
+Councillor H.L. Usher presents.
+
+> Moved by Councillor H.L. Usher
+
+Approve clauses 1 to 9.
+
+****
+
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of
+  Pecuniary Interest
+
+That it BE NOTED that no pecuniary
+  interests were disclosed.
+
+# 2.&nbsp;&nbsp;&nbsp;7th Report of the
+  Transportation Advisory Committee
+
+That the 7th Report of the Transportation
+  Advisory Committee, from its meeting held on September 2, 2014, BE RECEIVED.
+
+# 3.&nbsp;&nbsp;&nbsp;Appointment of
+  Consulting Engineer for the Detailed Design of Wickerson No. S-B SWM
+  Facility.
+
+That, on the recommendation of the Managing
+  Director Environmental and Engineering Services and City Engineer, the
+  following actions be taken with respect to the appointment of a consulting
+  engineer for the detailed design of Wickerson No. S-B SWM Facility:
+ 
+a)         AECOM
+  Canada Ltd. BE APPOINTED Consulting Engineer to carry out the detailed design
+  for said project in the amount of $135,553.00, including contingency,
+  excluding H.S.T., in accordance with Section 15.2(g) of the Procurement of
+  Goods and Services Policy;
+ 
+b)         the
+  financing for this work BE APPROVED as set out in the Sources of Financing
+  Report appended to the staff report dated September 22, 2014;
+ 
+c)         the
+  Civic Administration BE AUTHORIZED to undertake all the administrative acts
+  that are necessary in connection with this work; 
+ 
+d)         the
+  approvals given herein BE CONDITIONAL upon the Corporation entering into a
+  formal contract with the consultant for the work; and,
+ 
+e)         the
+  Mayor and the City Clerk BE AUTHORIZED to execute any contract or other
+  documents, if required, to give effect to these recommendations.  (2014-E03)
+
+# 4.&nbsp;&nbsp;&nbsp;UV Disinfection
+  Equipment Parts and Service Single Source
+
+That, on the recommendation of the
+  Director, Water and Wastewater, Trojan Technologies BE APPROVED as the parts
+  and service supplier for the City’s Wastewater UV disinfection equipment.
+  (2014-F17)
+
+# 5.&nbsp;&nbsp;&nbsp;Active
+  Transportation (AT) and Transportation Demand Management (TDM) - Status
+  Report and the Next Steps
+
+That, on the recommendation of the
+  Director, Environment, Fleet and Solid Waste, the following actions be taken
+  with respect to the staff report dated September 22, 2014, with respect to
+  Active Transportation (AT) and Transportation Demand Management (TDM) -
+  Status Report and the Next Steps:
+ 
+a)         the
+  staff report BE FORWARDED to the Cycling Advisory Committee (CAC) and the
+  Transportation Advisory Committee (TAC) for information, discussion and
+  input; and, 
+ 
+b)         the staff report BE RECEIVED. 
+  (2014-T10)
+
+# 6.&nbsp;&nbsp;&nbsp;Short Term Cycling
+  Lane Implementation Plan
+
+That, on the recommendation of the
+  Director, Roads and Transportation, the staff report dated September 22,
+  2014, with respect to the Short Term Cycling Lane Implementation Plan BE
+  RECEIVED.  (2014-T05)
+
+# 7.&nbsp;&nbsp;&nbsp;Optimization of
+  London Wastewater Treatment Plants - A Strategy and Road Map
+
+That, on the recommendation of the
+  Director, Water and Wastewater, the staff report dated September 22, 2014,
+  with respect to the development of an optimization strategy and road map for
+  the Adelaide, Oxford, Pottersburg and Vauxhall Wastewater Treatment Plants BE
+  ENDORSED; it being noted that the Civic Works Committee (CWC) received the attached
+  presentation from J. Lucas, Director, Water and Wastewater, with respect to
+  this matter.  (2014-E03)
+
+# 8.&nbsp;&nbsp;&nbsp;3rd Report of the
+  Cycling Advisory Committee
+
+That the following actions be taken with
+  respect to the 3rd Report of the Cycling Advisory Committee (CAC) from its
+  meeting held on August 20, 2014:
+ 
+a)         clause 1 BE REFERRED to Civic
+  Administration for consideration; and,
+ 
+b)         clauses 2 to 9, inclusive, BE
+  RECEIVED.
+
+# 9.&nbsp;&nbsp;&nbsp;Update on Rain fall
+  Event on September 10, 2014
+
+That, on the recommendation of the Managing
+  Director, Environmental and Engineering Services and City Engineer, the staff
+  report dated September 22, 2014, with respect to the rainfall event of
+  September 10, 2014, BE RECEIVED.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J. Baechler|
+> |B. Polhill|
+> |B. Armstrong|
+> |J.B. Swan|
+> |W.R. Monteith|
+> |N. Branscombe|
+> |M. Brown|
+> |P. Hubert|
+> |D.G. Henderson|
+> |P. Van Meerbergen|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant|
+> |S.E. White (14)|
+
+> **Motion
+Passed**
+
+****
+
+17th Report of the
+  Planning and Environment Committee
+Councillor B. Polhill presents.
+
+> Moved by Councillor B. Polhill
+
+Approve clauses 1 to 5, 7 to 10, 12, 13, 15, 17 and 18.
+
+****
+
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of
+  Pecuniary Interest
+
+That it BE NOTED that no pecuniary
+  interests were disclosed.
+
+# 2.&nbsp;&nbsp;&nbsp;9th Report of the
+  Advisory Committee on the Environment
+
+That the 9th Report of the Advisory
+  Committee on the Environment from its meeting held on September 3, 2014 BE
+  RECEIVED.
+
+# 3.&nbsp;&nbsp;&nbsp;Property located at
+  1040 Coronation Drive (H-8376)
+
+That, the application of The Tricar Group,
+  relating to the property located at 1040 Coronation Drive, BE REFERRED back
+  to the Civic Administration for further consultation with the applicant.
+
+# 4.&nbsp;&nbsp;&nbsp;Building Division
+  Monthly Report for August 2014
+
+That the Building Division Monthly Report
+  for August 2014 BE RECEIVED.   (2014-D00)
+
+# 5.&nbsp;&nbsp;&nbsp;Potential Special
+  Policy Area (SPA): West London
+
+That, on the recommendation of the Managing
+  Director, Planning and City Planner, the Civic Administration BE DIRECTED to
+  take necessary steps to re-initiate the application for Provincial approval
+  of a new Special Policy Area (SPA) for the West London potential Special
+  Policy Area, identified on Schedule B-2 of the City of London Official Plan.
+  (2014-D08)
+
+# 7.&nbsp;&nbsp;&nbsp;Properties located
+  at 322-324 York Street (Z-8382)
+
+That, on the recommendation of the Managing
+  Director, Planning and City Planner, the following actions be taken with
+  respect to the application of Bradel Properties Ltd., relating to the
+  properties located at 322-324 York Street: 
+ 
+a)         the
+  proposed by-law, as appended to the staff report dated September 23, 2014, BE
+  INTRODUCED at the Municipal Council meeting to be held on September 30, 2014,
+  to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to
+  change the zoning of the subject properties FROM a Holding Downtown Area Special
+  Provision (h-3*DA1(1) *D350*H95/DA1(3)*D350*H95) Zone TO a Holding Downtown
+  Area Special Provision / Temporary Use (h-3*DA1(1)*D350*H95/DA1(3)*
+  D350*H95/T-__) Zone; and, 
+ 
+b)         Zoning
+  By-law No. Z.-1, (in conformity with the Official Plan), BE AMENDED TO DELETE
+  Section 50.2 Temporary Use T-32; it being noted that Temporary Use T-32 has
+  expired;
+ 
+it being pointed out that there were no
+  oral submissions made at the public participation meeting associated with
+  these matters.   (2014-D14)
+
+# 8.&nbsp;&nbsp;&nbsp;Property located at
   1959 Mallard Road (Z-8377)
 
 That, on the recommendation of the Managing
@@ -371,6 +770,7 @@ it being pointed out that there were no
   oral submissions made at the public participation meeting associated with
   these matters.   (2014-D14)
 
+# 9.&nbsp;&nbsp;&nbsp;Sanitary Sewage
   Servicing Policies for Southwest London (O-7971)
 
 That, on the recommendation of the Managing
@@ -408,6 +808,7 @@ it being pointed out that there were no
   oral submissions made at the public participation meeting associated with
   this matter.   (2014-D08)
 
+# 10.&nbsp;&nbsp;&nbsp;Properties located
   on part of 3080 Bostwick Road and 491 and 499 Southdale Road West (Z-8386)
 
 That, on the recommendation of the Managing
@@ -441,6 +842,7 @@ it being further pointed out that at the
   indicated on the attached public participation meeting record made an
   oral submission in connection therewith.    (2014-D14)
 
+# 12.&nbsp;&nbsp;&nbsp;Properties located
   at 321 Central Avenue and 585 and 581 Waterloo Street (OZ-8371)
 
 That, on the recommendation of the Managing
@@ -575,6 +977,7 @@ it
   public participation meeting record made oral submissions in connection
   therewith.   (2014-D14)
 
+# 13.&nbsp;&nbsp;&nbsp;Properties located
   at 471-473 Elizabeth Street
 
 That, on the recommendation of the Managing
@@ -588,6 +991,7 @@ it being pointed out that there were no
   oral submissions made at the public participation meeting associated with
   this matter.   (2014-P10D)
 
+# 15.&nbsp;&nbsp;&nbsp;Industrial Land
   Review: Recommended Urban Growth Boundary Expansion for Future Industrial
   Growth and Official Plan Amendment (O-8014)
 
@@ -636,6 +1040,7 @@ it being further pointed out that at the
   indicated on the attached public participation meeting record made an
   oral submission in connection therewith.    (2014-D08)
 
+# 17.&nbsp;&nbsp;&nbsp;Application of
   Bonusing Regulations
 
 That, the Civic Administration BE REQUESTED
@@ -644,14 +1049,13 @@ That, the Civic Administration BE REQUESTED
   bonusing has been applied at the next Planning and Environment Committee
   meeting.  (2014-F21)
 
+# 18.&nbsp;&nbsp;&nbsp;Regulations
   Limiting Greenhouses
 
 That, the Civic Administration BE REQUESTED
   to look at all regulations, including zoning regulations that limit the lot
   coverage of greenhouse uses to 10 percent of the lot area and to include this
   request on the Planning Departments Work Plan.   (2014-F21)
-
-Motion Passed
 
 > [!abstract]- Vote:
 > |Yeas:|
@@ -675,6 +1079,142 @@ Motion Passed
 
 ****
 
+# 6.&nbsp;&nbsp;&nbsp;10th Report of the
+  London Advisory Committee on Heritage
+
+That, the following actions be taken with
+  respect to the 10th Report of the London Advisory Committee on Heritage from
+  its meeting held on September 10, 2014:
+ 
+a)         on
+  the recommendation of the Managing Director, Planning and City Planner, with
+  the advice of the Heritage Planner, the following actions be taken with
+  respect to the Heritage Alteration Permit Application of B.J. Hardick for the
+  properties located at 581 and 585 Waterloo Street and 321 Central Avenue: 
+ 
+i)          the
+  heritage alteration application by B.J. Hardick for the above-noted
+  properties BE APPROVED as conceptually described, pending the approval of the
+  required Official Plan and Zoning amendments;
+ii)         subject
+  to the additional required approvals, noted in part a), above, a building
+  permit or site plan showing conformity to the conceptual elements identified
+  in the staff report dated September 10, 2014, BE PROVIDED, SUBJECT TO the
+  approval of the City Planner or designate; 
+iii)         the
+  Civic Administration BE REQUESTED to take photographic documentation of the
+  respective buildings prior to any removals; and,
+iv)        the
+  applicant BE REQUESTED to salvage and reuse heritage materials within the
+  proposed redevelopment, as appropriate, and make reusable materials available
+  to the community;
+ 
+it being noted that the London Advisory
+  Committee on Heritage (LACH) heard a verbal delegation from S. Allen and D.
+  Currie, MHBC Consultants and J. Nicholson, Nicholson Sheffield Architects
+  Inc., with respect to this matter;
+ 
+b)         based
+  on the verbal report of the Heritage Planner, the Civic Administration BE
+  ADVISED that the London Advisory Committee on Heritage is not prepared to
+  make a recommendation related to the proposed demolition of the building located
+  at 471-473 Elizabeth Street, noting the lack of specific detail on the future
+  use of the site and advising that any future redevelopment of the site should
+  be consistent with the Old East Heritage District Guidelines; 
+ 
+c)         on
+  the recommendation of the Managing Director, Planning and City Planner, with
+  the advice of the Heritage Planner, the Heritage Alteration Permit
+  Application by Century Mews Inc. for the property located at 194 Dundas
+  Street BE APPROVED, SUBJECT TO the preparation of a measured, as-built
+  drawing of the Main Hall ceiling in advance of the removal; it being noted
+  that the Heritage Planner has reviewed the Heritage Alteration Permit
+  application and is satisfied by the applicant’s commitment to reproducing the
+  ceiling and its details, upon completion of the rehabilitation work;  
+ 
+d)        
+  the following actions be taken with respect to the Heritage Alteration Permit
+  Application for the property located at 317 Hyman Street:
+ 
+i)             
+  notwithstanding
+  the recommendation in the Managing Director, Planning and City Planner’s
+  report dated September 10, 2014, the London Advisory Committee on Heritage
+  recommends that the Heritage Alteration Permit Application from B. Jeffery,
+  requesting permission for porch alterations at the above-noted property, BE DENIED;
+ 
+           
+  ii)         the following alternate
+  actions be considered:
+ 
+A)          
+  the
+  Applicant BE REQUESTED to reuse the original columns and replace the
+  square spindles with turned spindles (not original); and,
+B)          
+  the
+  Civic Administration BE REQUESTED to consider allowing the railing at the
+  above-noted property to be returned to its original height;
+ 
+it being noted that the LACH heard a verbal
+  delegation from B. Jeffery, Owner and J. Minders, Contractor, with respect to
+  this matter;
+ 
+e)        
+  that clauses 5 to 14, inclusive, of the 10th Report of the London Advisory
+  Committee on Heritage BE RECEIVED;
+ 
+it being noted that the Planning and
+  Environment Committee heard a verbal presentation from W. Kinghorn, Chair,
+  LACH, with respect to these matters.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J. Baechler|
+> |B. Polhill|
+> |B. Armstrong|
+> |J.B. Swan|
+> |W.R. Monteith|
+> |N. Branscombe|
+> |M. Brown|
+> |P. Hubert|
+> |D.G. Henderson|
+> |P. Van Meerbergen|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant|
+> |S.E. White (14)|
+
+> **Motion Passed**
+
+****
+
+The motion to Approve part d of clause 6 is
+  put.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J. Baechler|
+> |B. Polhill|
+> |B. Armstrong|
+> |J.B. Swan|
+> |W.R. Monteith|
+> |N. Branscombe|
+> |M. Brown|
+> |P. Hubert|
+> |D.G. Henderson|
+> |P. Van Meerbergen|
+> |D. Brown|
+> |H.L. Usher|
+> |S.E. White (13) RECUSED: J.P. Bryant (1)|
+
+> **Motion Passed**
+
+****
+
+# 11.&nbsp;&nbsp;&nbsp;Property located at
   1300 Fanshawe Park Road East (OZ-8358)
 
 That, the application of 1849259 Ontario
@@ -692,8 +1232,6 @@ it being further pointed out that at the
   public participation meeting associated with these matters, the individuals
   indicated on the attached public participation meeting record made
   oral submissions in connection therewith.    (2014-D14)
-
-Motion Failed
 
 > [!abstract]- Vote:
 > |Yeas:|Nays:|
@@ -774,10 +1312,6 @@ it being further pointed out that at the
   indicated on the attached public participation meeting record made
   oral submissions in connection therewith.    (2014-D14)
 
-****
-
-Motion Passed
-
 > [!abstract]- Vote:
 > |Yeas:|Nays:|
 > |-|-|
@@ -794,6 +1328,7 @@ Motion Passed
 
 ****
 
+# 14.&nbsp;&nbsp;&nbsp;Blackfriars/Petersville
   Official Plan/Zoning Study (OZ-8373)
 
 > Moved by Councillor B. Polhill
@@ -815,10 +1350,6 @@ it being further pointed out that at the
   public participation meeting associated with these matters, the individuals
   indicated on the attached public participation meeting record made
   oral submissions in connection therewith.   (2014-D14)
-
-****
-
-Motion Passed
 
 > [!abstract]- Vote:
 > |Yeas:|
@@ -842,12 +1373,339 @@ Motion Passed
 
 ****
 
+16th Report of the
+  Community and Protective Services Committee
+Councillor M. Brown presents.
+
 > Moved by Councillor M. Brown
 
 Approve clause 1, and clauses 3 to 6.
 
 ****
 
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of
+  Pecuniary Interest
+
+That it BE NOTED that no pecuniary
+  interests were disclosed.
+
+# 3.&nbsp;&nbsp;&nbsp;Single Source
+  Supply and Delivery of Motorized Riding Golf Carts
+
+That consideration of the report dated
+  September 22, 2014, from the Managing Director of Parks & Recreation,
+  with respect to the single source supply and delivery of motorized riding
+  golf carts, BE DEFERRED to a meeting in the next Council year.   (2014-F17)
+
+# 4.&nbsp;&nbsp;&nbsp;Investment in
+  Affordable Housing for Ontario (2014 Extension) - Approval of Administration
+  Agreement
+
+That, on the recommendation of the Director
+  of Municipal Housing, with the concurrence of the Managing Director, Housing,
+  Social Services & Dearness Home, the by-law appended to the staff report
+  dated September 22, 2014, BE INTRODUCED at the Municipal Council on September
+  30, 2014, to:
+ 
+a)         authorize
+  an Administration Agreement, substantially in the form of the Agreement
+  appended to the by-law and to the satisfaction of the City Solicitor; and 
+ 
+b)         authorize the Mayor and the City
+  Clerk to execute the said Agreement.  (2014-L04A)
+
+# 5.&nbsp;&nbsp;&nbsp;8th Report of the
+  London Housing Advisory Committee
+
+That, on the recommendation of the London
+  Housing Advisory Committee (LHAC), the following actions be taken with
+  respect to the 8th Report of the LHAC, from its meeting held on September 10,
+  2014:
+ 
+a)          the
+  Civic Administration BE REQUESTED to consider the attached comments
+  and recommendations with respect to matters related to housing, as noted in
+  The London Plan; and,
+ 
+b)         clauses 2 to 6 BE RECEIVED.
+
+# 6.&nbsp;&nbsp;&nbsp;Review of Noise
+  Exemption Permits
+
+That the communication from Councillor D.
+  Brown, with respect to a request to review of the issuance of Noise Exemption
+  Permits on Sunday nights, BE REFERRED to the Civic Administration for a
+  report back in 2015.   (2014-M04A)
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J. Baechler|
+> |B. Polhill|
+> |B. Armstrong|
+> |J.B. Swan|
+> |W.R. Monteith|
+> |N. Branscombe|
+> |M. Brown|
+> |P. Hubert|
+> |D.G. Henderson|
+> |P. Van Meerbergen|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant|
+> |S.E. White (14)|
+
+> **Motion
+Passed**
+
+****
+
+# 2.&nbsp;&nbsp;&nbsp;10th Report of the
+  Animal Welfare Advisory Committee
+
+That the following actions be taken with
+  respect to the 10th Report of the Animal Welfare Advisory Committee, from its
+  meeting held on September 4, 2014:
+ 
+a)         clauses 1 to 6 BE RECEIVED; and,
+ 
+b)         the
+  Civic Administration BE DIRECTED to submit the Humane Wildlife Policy for
+  consideration prior to the conclusion of the current Council term, in order
+  for the existing Council to enact the Policy.
+
+The motion to Approve part a) of clause 2
+  is put.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J. Baechler|
+> |B. Polhill|
+> |B. Armstrong|
+> |J.B. Swan|
+> |W.R. Monteith|
+> |N. Branscombe|
+> |M. Brown|
+> |P. Hubert|
+> |D.G. Henderson|
+> |P. Van Meerbergen|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant|
+> |S.E. White (14)|
+
+> **Motion Passed**
+
+****
+
+> Moved by Councillor N. Branscombe
+
+> Seconded by Councillor D. Brown
+
+Approve that part b) be amended to read as
+  follows, and a new part c) be added as follows:
+ 
+i)          “b)
+  the Civic Administration BE DIRECTED to submit the Human Wildlife Policy for
+  consideration prior to the conclusion of the current Council term that
+  incorporates a provision that lethal measures would be only used as a last
+  resort”; and,
+ 
+ii)         to
+  add a new part c:  “c)          the Civic Administration BE DIRECTED to
+  refrain from lethal action with respect to intervention with wildlife, 
+  pending the development the policy noted in b) above, unless it is absolutely
+  necessary to do so.”
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J. Baechler|
+> |B. Polhill|
+> |B. Armstrong|
+> |J.B. Swan|
+> |W.R. Monteith|
+> |N. Branscombe|
+> |M. Brown|
+> |P. Hubert|
+> |D.G. Henderson|
+> |P. Van Meerbergen|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant|
+> |S.E. White (14)|
+
+> **Motion Passed**
+
+****
+
+> Moved by Councillor N. Branscombe
+
+> Seconded by Councillor D. Brown
+
+Approve clause 2, as amended.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J. Baechler|
+> |B. Polhill|
+> |B. Armstrong|
+> |J.B. Swan|
+> |W.R. Monteith|
+> |N. Branscombe|
+> |M. Brown|
+> |P. Hubert|
+> |D.G. Henderson|
+> |P. Van Meerbergen|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant|
+> |S.E. White (14)|
+
+> **Motion Passed**
+
+****
+
+# 7.&nbsp;&nbsp;&nbsp;By-law Amendments
+  for Expanded Animal Welfare Initiatives
+
+That the following actions be taken to
+  amend various City of London by-laws in order to support enhanced animal care
+  strategies and implement the Municipal Council’s first principle of “no kill”
+  and its open shelter policy:
+ 
+a)     
+  the attached revised by-law, BE INTRODUCED at the Municipal Council
+  meeting to be held September 30, 2014 to:
+ 
+i)          amend
+  By-law No. PH-3, Animal Control to implement the following animal welfare
+  initiatives: increased pet limits for cats; inclusion of a new citizen
+  clause;  an increased exemption period for licensing of new born animals;
+  provision for discretion regarding licensing fee amnesty periods;
+  introduction of an additional licensing amnesty not to extend past  July 1,
+  2015 for owners of spayed/neutered pets who are not compliant with pet limit
+  regulations  at the time of enactment, in order to ensure licensing of the
+  animals; additional provisions related to microchipping as a form of
+  identification for cats in place of cat identification tags; and the
+  inclusion of fostering regulations; and 
+ 
+ii)   
+       amend fees and charges related to cat registration fees within Schedule
+  “A” attached to the by-law; and
+ 
+b)   
+       the attached revised by-law, BE INTRODUCED at the Municipal
+  Council meeting to be held September 30, 2014 to:
+ 
+i)     
+  amend By-law No. PH-4, Dog Licensing & Control to implement the following
+  animal welfare initiatives: inclusion of a new citizen clause; an increased
+  exemption period for licensing of new born animals; provision for discretion
+  regarding licensing fee amnesty periods; introduction of an additional
+  licensing amnesty not to extend past  July 1, 2015 for owners of
+  spayed/neutered pets who are not compliant with pet limit regulations  at the
+  time of enactment, in order to ensure licensing of the animals;  redefinition
+  of “at large” in response to a citizen concern; revised wording regarding
+  muzzling to clarify when a Notice of Caution will be issued, and the
+  inclusion of fostering regulations; and
+ 
+ii)         amend
+  fees and charges related to dog registration licensing fees within Schedule
+  “A” attached to the by-law;
+ 
+it being noted that the above-noted revised
+  by-laws incorporate pet limits of eight spayed/neutered animals, including a
+  maximum of three spayed/neutered dogs, per household, with no differentiation
+  between dwelling types.  (2014-C01)
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|
+> |-|-|
+> |J. Baechler|B. Polhill|
+> |B. Armstrong|J.B. Swan|
+> |W.R. Monteith|P. Hubert|
+> |N. Branscombe|D.G. Henderson|
+> |M. Brown|P. Van Meerbergen|
+> |D. Brown (6)|H.L. Usher|
+> ||J.P. Bryant|
+> ||S.E. White (8)|
+
+> **Motion Failed**
+
+****
+
+> Moved by Councillor P. Van Meerbergen
+
+> Seconded by Councillor J.P. Bryant
+
+Approve that, on the recommendation
+  of the Managing Director, Development & Compliance Services and the Chief
+  Building Official, the following actions be taken to amend various City of
+  London by-laws in order to support enhanced animal care strategies and
+  implement City Council’s first principle of “no kill” and open shelter
+  policy:
+ 
+a)         a
+  by-law BE INTRODUCED at a future Municipal Council meeting to amend By-law
+  No. PH-3, Animal Control to implement the following animal welfare
+  initiatives: pet limits for cats (differentiating between single family dwelling
+  limits – max. 8, s/n; and multi-unit dwellings – max. 5, s/n; each with a
+  maximum of 3 dogs); new citizen clause;  increased exemption period for
+  licensing of new born animals; allow discretion of licensing fee amnesty
+  periods; introduction of an additional licensing amnesty not to extend
+  past  July 1, 2015 for owners of spayed/neutered pets who are not
+  compliant with pet limit regulations  at the time of enactment, in order
+  to ensure licensing of the animals; add provisions related to microchips as a
+  form of identification for cats in place of cat identification tags; and the
+  inclusion of fostering regulations; and to amend fees and charges related to
+  cat registration fees within Schedule “A” attached to the by-law; and,
+ 
+b)         a
+  by-law  BE INTRODUCED at a future Municipal Council meeting to amend
+  By-law No. PH-4, Dog Licensing & Control to implement the following
+  animal welfare initiatives: pet limits for dogs (differentiating between
+  single family dwelling limits – max. 8, s/n; and multi-unit dwellings – max.
+  5, s/n; each with a maximum of 3 dogs); new citizen clause; increased
+  exemption period for licensing of new born animals; and allow discretion of
+  licensing fee amnesty periods; introduction of an additional licensing
+  amnesty not to extend past  July 1, 2015 for owners of spayed/neutered
+  pets who are not compliant with pet limit regulations  at the time of
+  enactment, in order to ensure licensing of the animals; redefine “at large”
+  in response to a citizen concern; revised wording regarding muzzling to
+  clarify when a Notice of Caution will be issued, and the inclusion of
+  fostering regulations fostering; and to amend fees and charges related to dog
+  registration licensing fees within Schedule “A” attached to the
+  by-law.
+
+> [!abstract]- Vote:
+> |Yeas:|Nays:|
+> |-|-|
+> |B. Polhill|J. Baechler (1)|
+> |B. Armstrong||
+> |J.B. Swan||
+> |W.R. Monteith||
+> |N. Branscombe||
+> |M. Brown||
+> |P. Hubert||
+> |D.G. Henderson||
+> |P. Van Meerbergen||
+> |D. Brown||
+> |H.L. Usher||
+> |J.P. Bryant||
+> |S.E. White (13)||
+
+> **Motion Passed**
+
+****
+
+17th Report of the Planning and Environment
+  Committee, continued
+Councillor B. Polhill presents.
+
+# 16.&nbsp;&nbsp;&nbsp;Property located at
   2118 Richmond Street (OZ-7890)
 
 > Moved by Councillor B. Polhill
@@ -953,8 +1811,6 @@ At 6:02 PM, Her Worship the Mayor places
 At 6:08 PM Her Worship the Mayor resumes
   the Chair, and Councillor P. Hubert takes his seat at the Council Board.
 
-Motion Failed
-
 > [!abstract]- Vote:
 > |Yeas:|Nays:|
 > |-|-|
@@ -992,6 +1848,10 @@ Motion Passed
 > **Motion Passed**
 
 ****
+
+18th Report of the
+  Strategic Priorities and Policy Committee
+Councillor P. Hubert presents.
 
 > Moved by Councillor P. Hubert
 
@@ -1131,10 +1991,6 @@ b)         the
   Prosperity Committee on a go forward basis, subject to the outcome of the
   upcoming review of the Standing Committee structure.
 
-****
-
-Motion Passed
-
 > [!abstract]- Vote:
 > |Yeas:|
 > |-|
@@ -1159,8 +2015,6 @@ Motion Passed
 The motion to Approve part a) of clause 3
   is put.
 
-Motion Passed
-
 > [!abstract]- Vote:
 > |Yeas:|
 > |-|
@@ -1180,6 +2034,10 @@ Motion Passed
 > **Motion Passed**
 
 ****
+
+18th Report of the
+  Committee of the Whole
+Councillor P. Hubert presents.
 
 > Moved by Councillor P. Hubert
 
@@ -1223,10 +2081,6 @@ c)         A
   any negotiations carried on or to be carried on by or on behalf of the
   Corporation concerning the proposed disposition. (C2/23/CSC)
 
-****
-
-Motion Passed
-
 > [!abstract]- Vote:
 > |Yeas:|
 > |-|
@@ -1248,11 +2102,15 @@ Motion Passed
 
 ****
 
+# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
+# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
+# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
+# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -1263,10 +2121,6 @@ BY-LAWS TO BE READ A FIRST, SECOND AND
 
 Approve Introduction and 1st Reading of
   Bill No.s 456 to 470, excluding Bill No.s 462 and 463.
-
-****
-
-Motion Passed
 
 > [!abstract]- Vote:
 > |Yeas:|
@@ -1296,10 +2150,6 @@ Motion Passed
 Approve 2nd Reading of Bill No.s 456 to
   470, excluding Bill No.s 462 and 463.
 
-****
-
-Motion Passed
-
 > [!abstract]- Vote:
 > |Yeas:|
 > |-|
@@ -1328,10 +2178,6 @@ Motion Passed
 Approve 3rd Reading and Enactment
   of Bill No.s 456 to 470, excluding Bill No.s 462 and 463.
 
-****
-
-Motion Passed
-
 > [!abstract]- Vote:
 > |Yeas:|
 > |-|
@@ -1353,160 +2199,67 @@ Motion Passed
 
 ****
 
-
----
-
-## Votes
-
-*10 substantive votes at this meeting (10 contested, 0 unanimous). Procedural motions excluded.*
-
-### IV. COMMITTEE
-  OF THE WHOLE, IN CAMERA
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (11):** [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
-
-### VI. CONFIRMATION
-  AND SIGNING OF THE MINUTES OF THE TWENTY-SECOND MEETING HELD ON SEPTEMBER 16,
-  2014
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
-
-</details>
-
-### XIII. BY-LAWS
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (36):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Nancy Branscombe](/councillors/current/n-branscombe), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Judy Bryant](/councillors/current/j-p-bryant), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown), [Denise Brown](/councillors/current/d-brown), [Denise Brown](/councillors/current/d-brown)
-
-</details>
-
-### 7. By-law Amendments
-  for Expanded Animal Welfare Initiatives
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
-
-**Nay (1):** [Joni Baechler](/councillors/current/j-l-baechler)
-
-</details>
-
-### 11. Property located at
-  1300 Fanshawe Park Road East (OZ-8358)
-
-> Motion Failed
-
-**❌ Motion Failed 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Joe Swan](/councillors/current/j-b-swan), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson)
-
-**Nay (8):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Nancy Branscombe](/councillors/current/n-branscombe), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
-
-</details>
-
-### 11. Property located at
-  1300 Fanshawe Park Road East (OZ-8358)
-
-> Motion Passed
-
-**✅ Motion Passed 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (8):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Nancy Branscombe](/councillors/current/n-branscombe), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
-
-**Nay (5):** [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Joe Swan](/councillors/current/j-b-swan), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson)
-
-</details>
-
-### 14. Blackfriars/Petersville
-  Official Plan/Zoning Study (OZ-8373)
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
-
-</details>
-
-### 16. Property located at
-  2118 Richmond Street (OZ-7890)
-
-> Motion Failed
-
-**❌ Motion Failed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Joni Baechler](/councillors/current/j-l-baechler)
-
-**Nay (10):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
-
-</details>
-
-### 16. Property located at
-  2118 Richmond Street (OZ-7890)
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (45):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Nancy Branscombe](/councillors/current/n-branscombe), [Nancy Branscombe](/councillors/current/n-branscombe), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Judy Bryant](/councillors/current/j-p-bryant), [Judy Bryant](/councillors/current/j-p-bryant), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown), [Denise Brown](/councillors/current/d-brown), [Denise Brown](/councillors/current/d-brown), [Denise Brown](/councillors/current/d-brown)
-
-**Nay (3):** [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Joni Baechler](/councillors/current/j-l-baechler)
-
-</details>
-
-### 18. Regulations
-  Limiting Greenhouses
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
-
-</details>
+# V.&nbsp;&nbsp;&nbsp;RECOGNITIONS, continued
+
+# 2.&nbsp;&nbsp;&nbsp;At 6:20 PM Her
+  Worship the Mayor and the Municipal Council recognize of City of London
+  employees who have achieved 25 years of service during 2014 including:
+ 
+Fire Services
+ 
+Susan Casey
+Jeffrey M. Collins
+John Hassan
+Paul Hoffman
+David J. Hubbell
+Randy Noble
+Cathy Staltari
+Peter T. Swartman
+ 
+Long Term Care
+  Services
+ 
+Joselyn Appleford
+Debbra Houston
+Anna Kliorikaitis
+Enzo Palcich
+Ken Russell
+Ruth Steinbach
+ 
+Parks and
+  Recreation Services
+ 
+Caroline Gray
+Christine
+  Hinsperger
+Paul Anthony Kyle
+Maria Smith
+Doug Steels
+Aleksandra B.
+  Szywala
+ 
+Social Services
+ 
+Sherri Bolt
+Barbara Bourne
+Karyn Chapman
+Thérèse Crozier
+Lisa Dalla Costa
+Barbara Jensen
+Eva Y. Koh
+Shannon Lauber
+Sandra Matthews
+Mary Ann Molloy
+Darlene Newland
+Ronda Lee Reeves
+Denise Rovers
+Karen Sivak
+Sharon J. Thompson
+Diana Van Belois
+Sue White
+Ulrike Williams
+
+# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
+
+Motion Passed.
 

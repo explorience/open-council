@@ -4,7 +4,7 @@ date: 2015-07-15
 ---
 July 15, 2015, at  4:10 PM
 
-[Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=2d621ebe-9b47-4556-b013-4c35d7ebbe51&Agenda=PostMinutes&lang=English)
+[Original link](https://pub-london.escribemeetings.com//Meeting.aspx?Id=2d621ebe-9b47-4556-b013-4c35d7ebbe51&Agenda=PostMinutes&lang=English)
 
 > [!abstract]- Present:
 > M. Brown, M. van Holst, B. Armstrong, M. Salih, J. Helmer, M. Cassidy, J. Morgan, P. Hubert, A. Hopkins, V. Ridley, S. Turner, H.L. Usher T. Park, J. Zaifman, C. Saunders
@@ -18,40 +18,162 @@ July 15, 2015, at  4:10 PM
 The Council meets in Special Session in the
   Council Chambers this day at 4:10 PM.
 
+# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
+# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
+# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
-  Pecuniary Interest
+# 1.&nbsp;&nbsp;&nbsp;19th Report of the
+  Strategic Priorities and Policy Committee
 
+# IV.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
+# V.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
+# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES
 
+# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
   AND PETITIONS
 
+# VIII.&nbsp;&nbsp;&nbsp;MOTIONS OF
   WHICH NOTICE IS GIVEN
 
+# IX.&nbsp;&nbsp;&nbsp;REPORTS
 
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of
+  Pecuniary Interest
+
+# 2.&nbsp;&nbsp;&nbsp;Setting Priorities
   - Council's 2016 - 2019 Multi-Year Budget
 
+Motion Passed
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |M. Brown|
+> |M. van Holst|
+> |B. Armstrong|
+> |M. Salih|
+> |J. Helmer|
+> |M. Cassidy|
+> |J. Morgan|
+> |P. Hubert|
+> |A. Hopkins|
+> |V. Ridley|
+> |S. Turner|
+> |H.L. Usher|
+> |T. Park|
+> |J. Zaifman (14)|
+
+> **Motion Passed**
+
+****
+
+Motion Passed
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |M. Brown|
+> |M. van Holst|
+> |B. Armstrong|
+> |M. Salih|
+> |J. Helmer|
+> |M. Cassidy|
+> |J. Morgan|
+> |P. Hubert|
+> |A. Hopkins|
+> |V. Ridley|
+> |S. Turner|
+> |H.L. Usher|
+> |T. Park|
+> |J. Zaifman (14)|
+
+> **Motion Passed**
+
+****
+
+Motion
+Passed
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |M. Brown|
+> |M. van Holst|
+> |B. Armstrong|
+> |M. Salih|
+> |J. Helmer|
+> |M. Cassidy|
+> |J. Morgan|
+> |P. Hubert|
+> |A. Hopkins|
+> |V. Ridley|
+> |S. Turner|
+> |H.L. Usher|
+> |T. Park|
+> |J. Zaifman (14)|
+
+> **Motion
+Passed**
+
+****
+
+Motion
+Passed
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |M. Brown|
+> |M. van Holst|
+> |B. Armstrong|
+> |M. Salih|
+> |J. Helmer|
+> |M. Cassidy|
+> |J. Morgan|
+> |P. Hubert|
+> |A. Hopkins|
+> |V. Ridley|
+> |S. Turner|
+> |H.L. Usher|
+> |T. Park|
+> |J. Zaifman (14)|
+
+> **Motion
+Passed**
+
+****
+
+# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
+# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
+# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
+# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 > Moved by Councillor S. Turner
 
 > Seconded by Councillor T. Park
 
 Approve Introduction and First Reading of
-    Bill No.  266.
+    Bill No.  266. 
 
-****
+
+
+ 
+
+
 
 Motion Passed
 
@@ -82,9 +204,55 @@ Motion Passed
 > Seconded by Councillor M. van Holst
 
 Approve Second Reading of Bill
-    No. 266.
+    No. 266. 
+
+
+
+ 
+
+
+
+Motion Passed
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |M. Brown|
+> |M. van Holst|
+> |B. Armstrong|
+> |M. Salih|
+> |J. Helmer|
+> |M. Cassidy|
+> |J. Morgan|
+> |P. Hubert|
+> |A. Hopkins|
+> |V. Ridley|
+> |S. Turner|
+> |H.L. Usher|
+> |T. Park|
+> |J. Zaifman (14)|
+
+> **Motion Passed**
 
 ****
+
+> Moved by Councillor B. Armstrong
+
+> Seconded by Councillor H.L. Usher
+
+Approve Third Reading and Enactment of
+    Bill No. 266.
+
+
+
+
+
+
+
+
+ 
+
+
 
 Motion Passed
 
@@ -118,10 +286,6 @@ Motion Passed
 Approve Introduction and First Reading of
     Bill No.  266.
 
-****
-
-Motion Passed
-
 > [!abstract]- Vote:
 > |Yeas:|
 > |-|
@@ -151,9 +315,34 @@ Motion Passed
 Approve Second Reading of Bill
     No. 266.
 
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |M. Brown|
+> |M. van Holst|
+> |B. Armstrong|
+> |M. Salih|
+> |J. Helmer|
+> |M. Cassidy|
+> |J. Morgan|
+> |P. Hubert|
+> |A. Hopkins|
+> |V. Ridley|
+> |S. Turner|
+> |H.L. Usher|
+> |T. Park|
+> |J. Zaifman (14)|
+
+> **Motion Passed**
+
 ****
 
-Motion Passed
+> Moved by Councillor B. Armstrong
+
+> Seconded by Councillor H.L. Usher
+
+Approve Third Reading and Enactment of
+    Bill No. 266.
 
 > [!abstract]- Vote:
 > |Yeas:|
@@ -178,23 +367,8 @@ Motion Passed
 
 ****
 
+# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
----
-
-## Votes
-
-*1 substantive vote at this meeting (1 contested, 0 unanimous). Procedural motions excluded.*
-
-### XIII. BY-LAWS
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (54):** [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Mo Salih](/councillors/current/m-salih), [Mo Salih](/councillors/current/m-salih), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Bill Armstrong](/councillors/current/b-armstrong), [Bill Armstrong](/councillors/current/b-armstrong), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Virginia Ridley](/councillors/current/v-ridley), [Virginia Ridley](/councillors/current/v-ridley), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman), [Jared Zaifman](/councillors/current/j-zaifman)
-
-</details>
+Motion
+Passed
 

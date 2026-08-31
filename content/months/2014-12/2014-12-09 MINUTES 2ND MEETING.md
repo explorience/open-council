@@ -4,7 +4,7 @@ date: 2014-12-09
 ---
 December 9, 2014, at  4:02 PM
 
-[Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=63c0d8d1-083f-4243-8b5c-6a900712412c&Agenda=PostMinutes&lang=English)
+[Original link](https://pub-london.escribemeetings.com//Meeting.aspx?Id=63c0d8d1-083f-4243-8b5c-6a900712412c&Agenda=PostMinutes&lang=English)
 
 > [!abstract]- Present:
 > M. Brown, M. van Holst, B. Armstrong, M. Salih, J. Helmer, M. Cassidy, P. Squire, J. Morgan, P. Hubert, A. Hopkins, V. Ridley, S. Turner, H.L. Usher, T. Park, J. Zaifman, C. Saunders
@@ -15,6 +15,7 @@ December 9, 2014, at  4:02 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:02 PM.
 
+# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 Councillor J. Morgan discloses a pecuniary
@@ -38,11 +39,414 @@ Mayor M. Brown discloses a pecuniary
   Improvement Association by indicating that one of the individuals recently
   assisted him with the purchase of a family vehicle.
 
+# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
+# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
+3rd Report of the
+  Strategic Priorities and Policy Committee
 
+# V.&nbsp;&nbsp;&nbsp;RECOGNITIONS
+
+# 1.&nbsp;&nbsp;&nbsp;Smudging Ceremony
+ 
+The Council is led in a First Nation
+  Smudging Ceremony by Liz Akiwenzie of the Southwest Ontario Aboriginal Health
+  Access Centre.
+
+# 2.&nbsp;&nbsp;&nbsp;His Worship the Mayor recognizes Jeremy
+  Grace, Central Secondary School, and his “Up High Movement”.
+
+# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
+  AND SIGNING OF THE MINUTES OF THE TWENTY-SIXTH MEETING AND THE FIRST MEETING
+  HELD ON NOVEMBER 25, 2014 AND DECEMBER 1, 2014, RESPECTIVELY
+
+> Moved by Councillor S. Turner
+
+> Seconded by Councillor M. van Holst
+
+Approve the Minutes of the 26th
+  Meeting held on November 25, 2014 and of the 1st Meeting held on December 1,
+  2014.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |M. Brown|
+> |M. van Holst|
+> |B. Armstrong|
+> |M. Salih|
+> |J. Helmer|
+> |M. Cassidy|
+> |P. Squire|
+> |J. Morgan|
+> |P. Hubert|
+> |A. Hopkins|
+> |V. Ridley|
+> |S. Turner|
+> |H.L. Usher|
+> |T. Park|
+> |J. Zaifman (15)|
+
+> **Motion Passed**
+
+****
+
+# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
+  AND PETITIONS
+
+> Moved by Councillor H.L. Usher
+
+> Seconded by Councillor P. Hubert
+
+Approve that Council convene as the
+  Approval Authority pursuant to the provisions of the Expropriation Act,
+  R.S.O. 1990, c.E.26, as amended, for the purpose of considering Communication
+  No. 1 from the Managing Director, Environmental and Engineering Services and
+  City Engineer, dealing with the proposed expropriation of land for the
+  project known as the Veterans Memorial Parkway South Extension between
+  Highway 401 and Wilton Grove Road.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |M. Brown|
+> |M. van Holst|
+> |B. Armstrong|
+> |M. Salih|
+> |J. Helmer|
+> |M. Cassidy|
+> |P. Squire|
+> |J. Morgan|
+> |P. Hubert|
+> |A. Hopkins|
+> |V. Ridley|
+> |S. Turner|
+> |H.L. Usher|
+> |T. Park|
+> |J. Zaifman (15)|
+
+> **Motion Passed**
+
+****
+
+# 1.&nbsp;&nbsp;&nbsp;Managing Director and City Engineer,
+  Environmental and Engineering Services - Expropriation of Lands - Veterans
+  Memorial Parkway South Extension - TS1325
+
+> Moved by Councillor H.L. Usher
+
+> Seconded by Councillor J. Helmer
+
+Approve that, on the recommendation of
+  the Managing Director and City Engineer, Environmental and Engineering
+  Services, with the review and concurrence of the Director, Roads and
+  Transportation, on the advice of the Manager of Realty Services, with respect
+  to the expropriation of lands for the project known as the Veterans Memorial Parkway
+  South Extension between Highway 401 and Wilton Grove Road, the following
+  actions be taken:
+ 
+a)         the
+  Council of The Corporation of the City of London, as the Approving Authority
+  pursuant to the Expropriations Act, R.S.O. 1990, c. E.26, as amended, HEREBY
+  APPROVES the proposed expropriation of land, as described in Appendix “A” attached
+  hereto, in the City of London, County of Middlesex, it being pointed out that
+  the reasons for making this decision are as follows:
+ 
+            i)          the
+  subject lands are required by The Corporation of the City of London for the             extension
+  of Veterans Memorial Parkway (VMP);
+ 
+ii)         the
+  design of the project will address extending the VMP as a 2 lane expressway,
+  a new intersection at Wilton Grove and the VMP, replacement of the existing VMP
+  bridge, and interchange improvements;
+ 
+iii)         the
+  design is in accordance with the Schedule C Municipal Class Environmental
+  Assessment Study and a Group B Provincial Environmental Assessment Study
+  Recommendations for the Veteran Memorial Parkway South Extension and Highway
+  401 Interchange Improvements accepted by Council on May 14, 2013;
+ 
+b)         that
+  a certificate of approval BE ISSUED by the City Clerk on behalf of the
+  Approving Authority in the prescribed form; and
+ 
+c)         it
+  being noted that a request for a Hearing of Necessity in relation to Parts 4
+  and 8, Plan 33R-18721 was received and a hearing was conducted on June 25,
+  2014, the findings and opinion of the Inquiry Officer are attached to
+  the Report dated December 9, 2014, as Appendix “B”.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |M. Brown|
+> |M. van Holst|
+> |B. Armstrong|
+> |M. Salih|
+> |J. Helmer|
+> |M. Cassidy|
+> |P. Squire|
+> |J. Morgan|
+> |P. Hubert|
+> |A. Hopkins|
+> |V. Ridley|
+> |S. Turner|
+> |H.L. Usher|
+> |T. Park|
+> |J. Zaifman (15)|
+
+> **Motion Passed**
+
+****
+
+> Moved by Councillor H.L. Usher
+
+> Seconded by Councillor J. Helmer
+
+Approve that the meeting of the Approval
+  Authority be adjourned and that the City Council reconvenes in regular
+  session.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |M. Brown|
+> |M. van Holst|
+> |B. Armstrong|
+> |M. Salih|
+> |J. Helmer|
+> |M. Cassidy|
+> |P. Squire|
+> |J. Morgan|
+> |P. Hubert|
+> |A. Hopkins|
+> |V. Ridley|
+> |S. Turner|
+> |H.L. Usher|
+> |T. Park|
+> |J. Zaifman (15)|
+
+> **Motion Passed**
+
+****
+
+# 2.&nbsp;&nbsp;&nbsp;Managing Director
+  and City Engineer, Environmental and Engineering Services - Expropriation of
+  Lands - Veterans Memorial Parkway South Extension - TS1325
+
+> Moved by Councillor B. Armstrong
+
+> Seconded by Councillor H.L. Usher
+
+Approve that, on the recommendation of
+  the Managing Director and City Engineer, Environmental and Engineering
+  Services, with the concurrence of the Director, Roads and Transportation, on
+  the advice of the Manager of Realty Services, with respect to the
+  expropriation of lands for the project known as the Veterans Memorial Parkway
+  South Extension between Highway 401 and Wilton Grove Road, the following
+  actions be taken:
+ 
+a)         the
+  proposed by-law, attached to the report dated December 9, 2014 as
+  Schedule ‘B’, BE INTRODUCED at the Municipal Council meeting on December 9,
+  2014 by The Corporation of the City of London as the Expropriating Authority,
+  with respect to the lands described in Schedule ‘A’ attached hereto
+  (the “Expropriated Lands”);
+ 
+b)         the
+  Civic Administration BE DIRECTED to take all necessary steps to prepare a
+  plan or plans showing the Expropriated Lands and to register such plan or
+  plans in the appropriate registry or land titles office, pursuant to the
+  Expropriations Act, R.S.O. 1990, c. E.26, within three (3) months of the
+  Approving Authority granting approval of the said expropriation;
+ 
+c)         the
+  City Clerk BE AUTHORIZED to sign on behalf of the Expropriating Authority,
+  the plan or plans as signed by an Ontario Land Surveyor showing the
+  Expropriated Lands; and      
+ 
+d)         the
+  City Clerk BE AUTHORIZED AND DIRECTED to execute and serve the notices of
+  expropriation required by the Expropriations Act, R.S.O. 1990, c. E.26 and
+  such notices of possession that may be required to obtain possession of the
+  Expropriated Lands.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |M. Brown|
+> |M. van Holst|
+> |B. Armstrong|
+> |M. Salih|
+> |J. Helmer|
+> |M. Cassidy|
+> |P. Squire|
+> |J. Morgan|
+> |P. Hubert|
+> |A. Hopkins|
+> |V. Ridley|
+> |S. Turner|
+> |H.L. Usher|
+> |T. Park|
+> |J. Zaifman (15)|
+
+> **Motion Passed**
+
+****
+
+# VIII.&nbsp;&nbsp;&nbsp;MOTIONS OF
+  WHICH NOTICE IS GIVEN
+
+# IX.&nbsp;&nbsp;&nbsp;REPORTS
+
+1st Report of the
+  Strategic Priorities and Policy Committee
+Councillor B. Armstrong presents.
+
+> Moved by Councillor B. Armstrong
+
+Approve clauses 1 to 3
+
+****
+
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of
+  Pecuniary Interest
+
+That it BE NOTED that no pecuniary
+  interests were disclosed.
+
+# 2.&nbsp;&nbsp;&nbsp;Council Orientation
+
+That the attached orientation
+  presentations provided by the Senior Leadership Team and the City Clerk BE
+  RECEIVED for information.
+
+# 3.&nbsp;&nbsp;&nbsp;Proposed Smudging
+  Ceremony
+
+That the City Clerk BE REQUESTED to make
+  the necessary arrangements to invite representatives of our First Nations
+  community to attend the December 9, 2014 meeting of Municipal Council, or a
+  future meeting of Municipal Council, in order to acknowledge the importance
+  of our First Nations community and to request the representatives to carry
+  out a smudging ceremony.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |M. Brown|
+> |M. van Holst|
+> |B. Armstrong|
+> |M. Salih|
+> |J. Helmer|
+> |M. Cassidy|
+> |P. Squire|
+> |J. Morgan|
+> |P. Hubert|
+> |A. Hopkins|
+> |V. Ridley|
+> |S. Turner|
+> |H.L. Usher|
+> |T. Park|
+> |J. Zaifman (15)|
+
+> **Motion
+Passed**
+
+****
+
+2nd Report of the
+  Strategic Priorities and Policy Committee
+Councillor T. Park presents.
+
+> Moved by Councillor T. Park
+
+Approve clauses 1 and 2.
+
+****
+
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of
+  Pecuniary Interest
+
+That it BE NOTED that no pecuniary
+  interests were disclosed.
+
+# 2.&nbsp;&nbsp;&nbsp;Strategic Plan -
+  Initial Discussions
+
+That the following actions be taken with
+  respect to the development of the Municipal Council’s Strategic Plan for 2015
+  -2019:
+ 
+a)         the
+  Civic Administration BE DIRECTED to report back at the Strategic Priorities
+  and Policy Committee (SPPC) meeting on December 18, 2014, with a few possible
+  draft Vision Statements for the consideration of the SPPC, based upon the
+  input from the Members as summarized in the attached Appendix “A”;
+ 
+b)         the
+  Civic Administration BE REQUESTED to set up a process to receive public input
+  regarding a possible draft Vision Statement, recognizing that a deadline for
+  input will need to be set in order to finalize the Strategic Plan;
+ 
+c)         the
+  Civic Administration BE DIRECTED to report back at the SPPC meeting on
+  December 18, 2014 with strategic areas of focus for the consideration of the
+  SPPC, based upon the input from the Members as summarized in the attached
+  Appendix “B”;
+ 
+d)         the
+  Civic Administration BE REQUESTED to set up a process to receive public input
+  regarding possible strategic areas of focus, recognizing that a deadline for
+  input will need to be set in order to finalize the Strategic Plan;
+ 
+e)         the
+  2011 - 2014 Mission and Value Statements BE MAINTAINED in the 2015 - 2019
+  Strategic Plan; subject to any additions to the list of values that may be
+  desired as a result of the Strategic Plan development process; and
+ 
+f)          the attached staff
+  presentation BE RECEIVED.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |M. Brown|
+> |M. van Holst|
+> |B. Armstrong|
+> |M. Salih|
+> |J. Helmer|
+> |M. Cassidy|
+> |P. Squire|
+> |J. Morgan|
+> |P. Hubert|
+> |A. Hopkins|
+> |V. Ridley|
+> |S. Turner|
+> |H.L. Usher|
+> |T. Park|
+> |J. Zaifman (15)|
+
+> **Motion
+Passed**
+
+****
+
+3rd Report of the
+  Strategic Priorities and Policy Committee
+Councillor J. Morgan presents.
+
+> Moved by Councillor J. Morgan
+
+Approve clauses 1 to 45, excluding clauses 10, 12, 13, 19, 34 and 36.
+
+****
+
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of
   Pecuniary Interest
 
 That it BE NOTED that the following
@@ -76,6 +480,7 @@ e)         Councillor
   do with the appointment of a Deputy Mayor selected by the Mayor, by
   indicating that he is the subject of the decision.
 
+# 2.&nbsp;&nbsp;&nbsp;Deputy Mayor Policy
 
 That the following actions be taken
   regarding a Deputy Mayor Policy:
@@ -125,94 +530,7 @@ f)         the
   City Clerk BE DIRECTED to bring forward the necessary by-law to confirm the
   Municipal Council’s selection of Councillor M. Cassidy as Deputy Mayor.
 
-  AND SIGNING OF THE MINUTES OF THE TWENTY-SIXTH MEETING AND THE FIRST MEETING
-  HELD ON NOVEMBER 25, 2014 AND DECEMBER 1, 2014, RESPECTIVELY
-
-> Moved by Councillor S. Turner
-
-> Seconded by Councillor M. van Holst
-
-Approve the Minutes of the 26th
-  Meeting held on November 25, 2014 and of the 1st Meeting held on December 1,
-  2014.
-
-****
-
-Motion Passed
-
-> [!abstract]- Vote:
-> |Yeas:|
-> |-|
-> |M. Brown|
-> |M. van Holst|
-> |B. Armstrong|
-> |M. Salih|
-> |J. Helmer|
-> |M. Cassidy|
-> |P. Squire|
-> |J. Morgan|
-> |P. Hubert|
-> |A. Hopkins|
-> |V. Ridley|
-> |S. Turner|
-> |H.L. Usher|
-> |T. Park|
-> |J. Zaifman (15)|
-
-> **Motion Passed**
-
-****
-
-  AND PETITIONS
-
-> Moved by Councillor H.L. Usher
-
-> Seconded by Councillor P. Hubert
-
-Approve that Council convene as the
-  Approval Authority pursuant to the provisions of the Expropriation Act,
-  R.S.O. 1990, c.E.26, as amended, for the purpose of considering Communication
-  No. 1 from the Managing Director, Environmental and Engineering Services and
-  City Engineer, dealing with the proposed expropriation of land for the
-  project known as the Veterans Memorial Parkway South Extension between
-  Highway 401 and Wilton Grove Road.
-
-****
-
-Motion Passed
-
-> [!abstract]- Vote:
-> |Yeas:|
-> |-|
-> |M. Brown|
-> |M. van Holst|
-> |B. Armstrong|
-> |M. Salih|
-> |J. Helmer|
-> |M. Cassidy|
-> |P. Squire|
-> |J. Morgan|
-> |P. Hubert|
-> |A. Hopkins|
-> |V. Ridley|
-> |S. Turner|
-> |H.L. Usher|
-> |T. Park|
-> |J. Zaifman (15)|
-
-> **Motion Passed**
-
-****
-
-  WHICH NOTICE IS GIVEN
-
-
-> Moved by Councillor B. Armstrong
-
-Approve clauses 1 to 3
-
-****
-
+# 3.&nbsp;&nbsp;&nbsp;Tabling of the 2015
   Draft Budgets
 
 That the following actions be taken with
@@ -239,6 +557,7 @@ it being noted that the Strategic
   Director, Environmental and Engineering Services & City Engineer, with
   respect to the above-noted Draft Budgets.
 
+# 4.&nbsp;&nbsp;&nbsp;Public
   Participation Meeting - Amendments to Council Procedure By-law
 
 That, on the recommendation of the City
@@ -261,6 +580,7 @@ c)         reallocate
   Strategic Priorities and Policy Committee (SPPC), pending the outcome of the
   review of the IEPC as recommended by KPMG LLP.
 
+# 5.&nbsp;&nbsp;&nbsp;Investment and
   Economic Prosperity Committee
 
 That the following actions be taken with
@@ -291,6 +611,7 @@ d)         the
   continue to be the City of London’s representative on the Governing Council
   BE RECEIVED.
 
+# 6.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Civic Works Committee
 
 Recommendation:  That the membership of the
@@ -303,6 +624,7 @@ Councillor T. Park
 Councillor V. Ridley
 Councillor J. Helmer
 
+# 7.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Community and Protective Services Committee
 
 That the membership for the Community and
@@ -314,6 +636,7 @@ Councillor T. Park
 Councillor V. Ridley
 Councillor M. Salih
 
+# 8.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Corporate Services Committee
 
 That the membership of the Corporate
@@ -328,6 +651,7 @@ Councillor J. Morgan
 Councillor J. Zaifman
 Councillor H.L. Usher
 
+# 9.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Planning and Environment Committee
 
 That the membership of the Planning and
@@ -340,6 +664,7 @@ Councillor J. Helmer
 Councillor P. Squire
 Councillor S. Turner
 
+# 11.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Audit Committee
 
 That the following BE APPOINTED to the
@@ -353,6 +678,7 @@ Councillor S. Turner
 Councillor M. van Holst
 Sumeet Khullar
 
+# 14.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Covent Garden Market Corporation Board of Directors
 
 That the following BE APPOINTED to the
@@ -369,6 +695,7 @@ Firas Sefian
 Donna Szpakowski
 Matt Thomas
 
+# 15.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Dearness Home Committee of Management
 
 That the following BE APPOINTED to the
@@ -381,6 +708,7 @@ Councillor H.L. Usher
 Councillor J. Zaifman
 Councillor V. Ridley
 
+# 16.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Elgin Area Primary Water Supply System Joint Board of
   Management
 
@@ -398,6 +726,7 @@ Alternate Members:
 Councillors M. Cassidy, M. van Holst and B.
   Armstrong.
 
+# 17.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Kettle Creek Conservation Authority - 3 Year Term
 
 That the following BE APPOINTED to the
@@ -408,6 +737,7 @@ Councillor J. Zaifman
 Bill Mackie
 Ralph Winfield
 
+# 18.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Lake Huron Primary Water Supply System Joint Board of
   Management
 
@@ -425,6 +755,7 @@ Alternate Members:
 Councillors B. Armstrong, J. Morgan, J.
   Zaifman and A. Hopkins.
 
+# 20.&nbsp;&nbsp;&nbsp;London Convention
   Centre
 
 That the following actions be taken with
@@ -447,6 +778,7 @@ it being noted that the Strategic
   Priorities and Policy Committee received a communication dated October 10,
   2014 from the LCC Board of Directors, with respect to this matter.
 
+# 21.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the London Downtown Business Association Board of Management
 
 That Councillor T. Park BE APPOINTED to the
@@ -455,12 +787,14 @@ That Councillor T. Park BE APPOINTED to the
   will be considered at a future date, once available from the London Downtown
   Business Association.
 
+# 22.&nbsp;&nbsp;&nbsp;Consideration of Appointment
   to the London Hydro Inc. Board of Directors
 
 That Councillor M. van Holst BE APPOINTED
   to the London Hydro Inc. Board of Directors for the term December 1, 2014 to
   November 30, 2018.
 
+# 23.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the London Police Services Board
 
 That the following BE APPOINTED to the
@@ -470,6 +804,7 @@ That the following BE APPOINTED to the
 Councillor S. Turner
 Paul Paolatto
 
+# 24.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the London Public Library Board
 
 That the following actions be taken with
@@ -495,6 +830,7 @@ b)         Donna
   Vachon BE APPOINTED to the London Public Library Board at the conclusion of
   G. Leckie’s one-year term appointment.
 
+# 25.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the London Transit Commission
 
 That the following BE APPOINTED to the
@@ -506,6 +842,7 @@ Eric Southern
 Sheryl Rooth
 R. Dean Sheppard
 
+# 26.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the London Transit Commission Long Term Growth Report Working
   Group
 
@@ -519,6 +856,7 @@ Councillor P. Hubert
 Councillor M. Salih
 Councillor P. Squire
 
+# 27.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Middlesex-London Health Unit Board of Health
 
 That the following actions be taken with respect
@@ -535,11 +873,13 @@ b)         the
   Clerk BE DIRECTED to advertise for citizen applications to fill the citizen
   vacancy.
 
+# 28.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Museum London
 
 That Councillor V. Ridley BE APPOINTED to
   Museum London for the term December 1, 2014 to November 30, 2018.
 
+# 29.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Old East Village Business Improvement Area Board of
   Management
 
@@ -549,6 +889,7 @@ That Councillor J. Helmer BE APPOINTED to
   of appointments will be made at a future date, when available from the Old
   East Village Business Improvement Area.
 
+# 30.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Public Utility Commission of the City of London
 
 That the following BE APPOINTED to the
@@ -559,6 +900,7 @@ Mayor M. Brown
 Councillor P. Hubert
 Councillor J. Morgan
 
+# 31.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Tourism London Board of Directors
 
 That the following BE APPOINTED to the
@@ -568,6 +910,7 @@ That the following BE APPOINTED to the
 Councillor P. Hubert
 Councillor M. Salih
 
+# 32.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Town and Gown Committee
 
 That the following BE APPOINTED to the Town
@@ -580,6 +923,7 @@ Councillor T. Park
 Councillor M. Salih
 Councillor P. Squire
 
+# 33.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Upper Thames River Conservation Authority - 3 Year Term
 
 That the following BE APPOINTED to the
@@ -590,6 +934,7 @@ Councillor A. Hopkins
 Marie Blosh
 Sandy Levin
 
+# 35.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Western Fair Association Programming Council (Requires 2
   Council Members)
 
@@ -600,12 +945,14 @@ That the following BE APPOINTED to the
 Councillor V. Ridley
 Councillor M. Salih
 
+# 37.&nbsp;&nbsp;&nbsp;1st Report of the
   Striking Committee
 
 That the 1st Report of the Striking
   Committee from its meetings held on November 27, 2014 and December 5, 2014 BE
   RECEIVED.
 
+# 38.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Committee of Adjustment
 
 That the following BE APPOINTED to the
@@ -617,12 +964,14 @@ Shawn Lewis
 Maria Mendes
 Jeffrey Preston
 
+# 39.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Committee of Revision/Court of Revision
 
 That the City Clerk BE INSTRUCTED to re-advertise
   for applications for appointment to the Committee of Revision/Court of
   Revision for the term December 1, 2014 to November 30, 2018.
 
+# 40.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to Eldon House
 
 That the following BE APPOINTED to Eldon
@@ -638,30 +987,35 @@ Theresa Regnier
 Maureen Spencer Golovchenko
 Mark Tovey
 
+# 41.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the London and Middlesex Heritage Museum Board of Directors
 
 That Mike Harris BE APPOINTED to the London
   and Middlesex Heritage Museum Board of Directors for the term December 1,
   2014 to November 30, 2018.
 
+# 42.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Council for Adult Education
 
 That Carmelita Tang BE APPOINTED to the
   Council for Adult Education for the term December 1, 2014 to November 30,
   2018.
 
+# 43.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Lower Thames Valley Conservation Authority - 3 Year Term
 
 That Stanley Caveney BE APPOINTED to the
   Lower Thames Valley Conservation Authority for the term December 1, 2014 to
   November 30, 2017.
 
+# 44.&nbsp;&nbsp;&nbsp;Consideration of
   Appointment to the Plumbers' and Drain Layers' Examining Board
 
 That the City Clerk BE INSTRUCTED to
   re-advertise for applications for appointment to the Plumbers' and Drain
   Layers' Examining Board for the term December 1, 2014 to November 30, 2018.
 
+# 45.&nbsp;&nbsp;&nbsp;Consideration of Appointment to the
   Plumbers' and Drain Layers' Examining Board
 
 That the Mayor BE REQUESTED to direct
@@ -669,8 +1023,6 @@ That the Mayor BE REQUESTED to direct
   Council’s appreciation for their efforts with respect to identifying citizen
   nominees for the local boards and commissions, and for the Municipal
   Council’s advisory committees.
-
-Motion Passed
 
 > [!abstract]- Vote:
 > |Yeas:|
@@ -695,6 +1047,51 @@ Motion Passed
 
 ****
 
+> Moved by Councillor J. Morgan
+
+Approve clause 10.
+ 
+
+
+
+10.
+
+
+Argyle Business
+    Improvement Association
+
+
+
+ 
+That the following actions be taken with
+  respect to the Argyle Business Improvement Association:  
+ 
+a)         the
+  following BE APPOINTED to the Argyle Business Improvement Association for the
+  term December 1, 2014 to November 30, 2018:
+ 
+Councillor B.
+  Armstrong
+Jeff Baggaley
+Jeremy Burns
+Gus Dupuis
+Elissa Ielapi
+Dale Irwin
+Matt McHardy
+Crissy Viglianti
+Mark Wilkie-Facchin
+ 
+b)         the
+  City Clerk BE DIRECTED to take the necessary steps to provide for the
+  appointment of 9 directors, in addition to the Council representative;
+ 
+c)         subject
+  to the completion and approval of b), above,  Erik Lasch BE APPOINTED to fill
+  the additional vacancy.
+
+****
+
+# 10.&nbsp;&nbsp;&nbsp;Argyle Business
     Improvement Association
 
 Motion Passed
@@ -721,6 +1118,35 @@ Motion Passed
 
 ****
 
+> Moved by Councillor J. Morgan
+
+Approve clause 13.
+ 
+
+
+
+13.
+
+
+Consideration of
+    Appointment to the City of London and Thames Valley District School Board
+    Liaison Committee 
+
+
+
+ 
+That the following BE APPOINTED to the City
+  of London and Thames Valley District School Board Liaison Committee for the
+  term December 1, 2014 to November 30, 2018:
+ 
+Councillor M. Cassidy
+Councillor B. Armstrong
+Councillor P. Squire
+Councillor J. Zaifman
+
+****
+
+# 13.&nbsp;&nbsp;&nbsp;Consideration of
     Appointment to the City of London and Thames Valley District School Board
     Liaison Committee
 
@@ -752,8 +1178,6 @@ The motion to appoint Marci Allen-Easton to
   the London and Middlesex Housing Corporation Board of Directors for the term
   December 1, 2014 to November 30, 2018 is put.
 
-Motion Passed
-
 > [!abstract]- Vote:
 > |Yeas:|Nays:|
 > |-|-|
@@ -778,8 +1202,6 @@ Motion Passed
 The motion to appoint Michael Buzzelli to
   the London and Middlesex Housing Corporation Board of Directors is put.
 
-Motion Passed
-
 > [!abstract]- Vote:
 > |Yeas:|Nays:|
 > |-|-|
@@ -802,8 +1224,6 @@ Motion Passed
 
 The motion to appoint Roberta Clifford to
   the London and Middlesex Housing Corporation Board of Directors is put.
-
-Motion Passed
 
 > [!abstract]- Vote:
 > |Yeas:|Nays:|
@@ -828,8 +1248,6 @@ Motion Passed
 The motion to appoint Abe Oudshoorn to the
   London and Middlesex Housing Corporation Board of Directors is put.
 
-Motion Passed
-
 > [!abstract]- Vote:
 > |Yeas:|Nays:|
 > |-|-|
@@ -853,8 +1271,6 @@ Motion Passed
 
 The motion to appoint Sean Quigley to the
   London and Middlesex Housing Corporation Board of Directors is put.
-
-Motion Passed
 
 > [!abstract]- Vote:
 > |Yeas:|Nays:|
@@ -887,10 +1303,6 @@ refer consideration to the December 18th
   Clifford, A. Oudshoorn and S. Quigley slotted into the various classes of Directors
   and to obtain further clarity as to the relevance of each class.
 
-****
-
-Motion Passed
-
 > [!abstract]- Vote:
 > |Yeas:|Nays:|
 > |-|-|
@@ -911,6 +1323,35 @@ Motion Passed
 
 ****
 
+> Moved by Councillor J. Zaifman
+
+Approve clause 12.
+ 
+
+
+
+12.
+
+
+Consideration of
+    Appointment to the City of London and London District Catholic School Board
+    Liaison Committee 
+
+
+
+ 
+That the following BE APPOINTED to the City
+  of London and London District Catholic School Board Liaison Committee for the
+  term December 1, 2014 to November 30, 2018:
+ 
+Councillor B. Armstrong
+Councillor M. Cassidy
+Councillor M. van Holst
+Councillor P. Squire
+
+****
+
+# 12.&nbsp;&nbsp;&nbsp;Consideration of
     Appointment to the City of London and London District Catholic School Board
     Liaison Committee
 
@@ -938,6 +1379,32 @@ Motion Passed
 
 ****
 
+> Moved by Councillor J. Zaifman
+
+Approve clause 36.
+ 
+
+
+
+36.
+
+
+Consideration of
+    Appointment to Western University Board of Governors 
+
+
+
+ 
+That the following BE APPOINTED to the
+  Western University Board of Governors for the term December 1, 2014 to
+  November 30, 2018:
+ 
+Mayor M. Brown
+Matthew Wilson
+
+****
+
+# 36.&nbsp;&nbsp;&nbsp;Consideration of
     Appointment to Western University Board of Governors
 
 Motion Passed
@@ -964,6 +1431,7 @@ Motion Passed
 
 ****
 
+# IV.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
 > Moved by Councillor H.L. Usher
@@ -976,10 +1444,6 @@ Approve that Council convene as
   that purpose, and giving instructions and directions to the solicitors of the
   municipality in connection with such advice relating to appointments to the
   Western Fair Association.
-
-****
-
-Motion Passed
 
 > [!abstract]- Vote:
 > |Yeas:|Nays:|
@@ -1003,6 +1467,7 @@ Motion Passed
 
 ****
 
+# 34.&nbsp;&nbsp;&nbsp;Consideration of Appointment to Western Fair
   Association Board of Governors
 
 > Moved by Councillor S. Turner
@@ -1011,10 +1476,6 @@ Motion Passed
 
 Approve that clause 34 be amended in the first line by deleting the word
   “APPOINTED” and replacing it with the word “NOMINATED”.
-
-****
-
-Motion Passed
 
 > [!abstract]- Vote:
 > |Yeas:|Nays:|
@@ -1044,10 +1505,6 @@ Motion Passed
 
 Approve clause 34, as amended.
 
-****
-
-Motion Passed
-
 > [!abstract]- Vote:
 > |Yeas:|
 > |-|
@@ -1071,11 +1528,15 @@ Motion Passed
 
 ****
 
+# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
+# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
+# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
+# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -1086,10 +1547,6 @@ BY-LAWS TO BE READ A FIRST, SECOND AND
 
 Approve Introduction and First Reading
   of Bill No.s 2 to 14, inclusive.
-
-****
-
-Motion Passed
 
 > [!abstract]- Vote:
 > |Yeas:|
@@ -1121,10 +1578,6 @@ Motion Passed
 Approve Second Reading of Bill No.s 2 to
   14, inclusive.
 
-****
-
-Motion Passed
-
 > [!abstract]- Vote:
 > |Yeas:|
 > |-|
@@ -1155,10 +1608,6 @@ Motion Passed
 Approve Third Reading and Enactment of Bill
   No.s 2 to 14, inclusive.
 
-****
-
-Motion Passed
-
 > [!abstract]- Vote:
 > |Yeas:|
 > |-|
@@ -1182,158 +1631,8 @@ Motion Passed
 
 ****
 
+# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
----
-
-## Votes
-
-*10 substantive votes at this meeting (10 contested, 0 unanimous). Procedural motions excluded.*
-
-### IV. COMMITTEE
-  OF THE WHOLE, IN CAMERA
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Jared Zaifman](/councillors/current/j-zaifman)
-
-**Nay (1):** [Jesse Helmer](/councillors/current/j-helmer)
-
-</details>
-
-### VI. CONFIRMATION
-  AND SIGNING OF THE MINUTES OF THE TWENTY-SIXTH MEETING AND THE FIRST MEETING
-  HELD ON NOVEMBER 25, 2014 AND DECEMBER 1, 2014, RESPECTIVELY
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (15):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
-
-</details>
-
-### VII. COMMUNICATIONS
-  AND PETITIONS
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (15):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
-
-</details>
-
-### XIII. BY-LAWS
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (45):** [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Mo Salih](/councillors/current/m-salih), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Bill Armstrong](/councillors/current/b-armstrong), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Virginia Ridley](/councillors/current/v-ridley), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman), [Jared Zaifman](/councillors/current/j-zaifman), [Jared Zaifman](/councillors/current/j-zaifman)
-
-</details>
-
-### 10. Argyle Business
-    Improvement Association
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
-
-</details>
-
-### 12. Consideration of
-    Appointment to the City of London and London District Catholic School Board
-    Liaison Committee
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
-
-</details>
-
-### 13. Consideration of
-    Appointment to the City of London and Thames Valley District School Board
-    Liaison Committee
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (88):** [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Mo Salih](/councillors/current/m-salih), [Mo Salih](/councillors/current/m-salih), [Mo Salih](/councillors/current/m-salih), [Mo Salih](/councillors/current/m-salih), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Bill Armstrong](/councillors/current/b-armstrong), [Bill Armstrong](/councillors/current/b-armstrong), [Bill Armstrong](/councillors/current/b-armstrong), [Bill Armstrong](/councillors/current/b-armstrong), [Bill Armstrong](/councillors/current/b-armstrong), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Virginia Ridley](/councillors/current/v-ridley), [Virginia Ridley](/councillors/current/v-ridley), [Virginia Ridley](/councillors/current/v-ridley), [Virginia Ridley](/councillors/current/v-ridley), [Virginia Ridley](/councillors/current/v-ridley), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman), [Jared Zaifman](/councillors/current/j-zaifman), [Jared Zaifman](/councillors/current/j-zaifman), [Jared Zaifman](/councillors/current/j-zaifman)
-
-**Nay (15):** [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman), [Jared Zaifman](/councillors/current/j-zaifman)
-
-</details>
-
-### 34. Consideration of Appointment to Western Fair
-  Association Board of Governors
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (29):** [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman), [Jared Zaifman](/councillors/current/j-zaifman)
-
-**Nay (1):** [Mo Salih](/councillors/current/m-salih)
-
-</details>
-
-### 36. Consideration of
-    Appointment to Western University Board of Governors
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
-
-</details>
-
-### 45. Consideration of Appointment to the
-  Plumbers' and Drain Layers' Examining Board
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (15):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
-
-</details>
+Motion
+Passed
 

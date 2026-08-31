@@ -4,7 +4,7 @@ date: 2013-02-12
 ---
 February 12, 2013, at  4:04 PM
 
-[Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=80e01128-4c1f-486d-bd69-77ba4776f327&Agenda=PostMinutes&lang=English)
+[Original link](https://pub-london.escribemeetings.com//Meeting.aspx?Id=80e01128-4c1f-486d-bd69-77ba4776f327&Agenda=PostMinutes&lang=English)
 
 > [!abstract]- Present:
 > J.F. Fontana, B. Polhill, W.J. Armstrong, J.B. Swan, S. Orser, J.L. Baechler, N. Branscombe, M. Brown, P. Hubert, D.G. Henderson, P. Van Meerbergen, D. Brown, H.L. Usher, J.P. Bryant, S.E. White, C. Saunders
@@ -18,6 +18,7 @@ February 12, 2013, at  4:04 PM
 The Council meets in Regular Session in the
   Council Chambers this day at 4:04 PM.
 
+# I.&nbsp;&nbsp;&nbsp;DISCLOSURES
   OF PECUNIARY INTEREST
 
 Councillor P. Hubert discloses a pecuniary
@@ -49,12 +50,15 @@ Councillor J.B. Swan discloses a pecuniary
   Prosperity Committee having to do with Orchestra London and any reference to
   a performing art centre, by indicating that Orchestra London is his employer.
 
+# II.&nbsp;&nbsp;&nbsp;REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
+# III.&nbsp;&nbsp;&nbsp;ADDED
   REPORTS
 
 5th Report of Corporate Services Committee.
 
+# IV.&nbsp;&nbsp;&nbsp;COMMITTEE
   OF THE WHOLE, IN CAMERA
 
 > Moved by Councillor P. Hubert
@@ -64,10 +68,6 @@ Councillor J.B. Swan discloses a pecuniary
 Approve that Council rise and go into
   Committee of the Whole, in camera, for the purpose of considering the
   following:
-
-****
-
-Motion Passed
 
 > [!abstract]- Vote:
 > |Yeas:|
@@ -90,181 +90,35 @@ Motion Passed
 
 ****
 
+Motion
+Passed
 
+# V.&nbsp;&nbsp;&nbsp;RECOGNITIONS
 
-That it BE NOTED that no pecuniary
-  interests were disclosed.
+# 1.&nbsp;&nbsp;&nbsp;His Worship the
+  Mayor presents a cheque to Wayne Dunn representing the Business Cares Food
+  Drive and Jane Roy representing the London and Area Food Bank for the 2012
+  Business Cares Food Drive Campaign.
 
-Motion Passed
+# 2.&nbsp;&nbsp;&nbsp;His Worship the
+  Mayor presents a certificate for "London's Featured Community
+  Organization" to The Grand Theatre.
 
-> [!abstract]- Vote:
-> |Yeas:|
-> |-|
-> |J.F. Fontana|
-> |B. Polhill|
-> |W.J. Armstrong|
-> |J.B. Swan|
-> |S. Orser|
-> |J.L. Baechler|
-> |N. Branscombe|
-> |M. Brown|
-> |P. Hubert|
-> |D.G. Henderson|
-> |D. Brown|
-> |H.L. Usher|
-> |J.P. Bryant|
-> |S.E. White (14)|
+# 3.&nbsp;&nbsp;&nbsp;His Worship the
+  Mayor and Councillor H.L. Usher acknowledge K. Ward, London Economic
+  Development Corporation, for her recognition from the Federation of Canadian
+  Municipalities.
 
-> **Motion Passed**
+# 4.&nbsp;&nbsp;&nbsp;His Worship the
+  Mayor acknowledges P. White, London Economic Development Corporation, for the
+  recent Economic Development Council of Ontario event in London, and the
+  awards received by the LEDC for initiatives such as "Hire One" and
+  "London Today Tonight".
 
-****
+# 5.&nbsp;&nbsp;&nbsp;His Worship the
+  Mayor recognizes L. Wright and the Hearts of London and Middlesex.
 
-> Moved by Councillor J.P. Bryant
-
-> Seconded by Councillor B. Polhill that, as a procedural matter pursuant
-
-Section 239(6) of the Municipal Act, 2001, the following
-  recommendations be forwarded to City Council for deliberation and a vote in
-  public session:
- 
-1.           
-  That
-  the following actions be taken with respect to the property located at 165
-  Elmwood Avenue East (former London Normal School):
- 
-a)         the
-  update report of the Managing Director, Corporate Services and City
-  Treasurer, Chief Financial Officer, detailing the findings of the financial
-  analysis with respect to the property located at 165 Elmwood Avenue East,
-  being the former London Normal School, BE RECEIVED for information; it being
-  noted that negotiations are ongoing with the YMCA and Infrastructure Ontario;
-  and,
- 
-b)         the
-  Civic Administration BE DIRECTED to refer the $1 million  capital cost for
-  the purchase and renovation of the former London Normal School to the 2013
-  Budget process for consideration; 
- 
-it being noted that there has not been an
-  identified municipal need for the building itself; it being further noted
-  that no funds have been identified to acquire the property or undertake the
-  necessary Ontario Building Code and accessibility upgrades.
- 
-2.           
-  That,
-  the following action be taken with respect to the application by Liahn Farms
-  Limited with respect to the application by Liahn Farms Limited to the Ontario
-  Superior Court of Justice, Divisional Court in connection with By-law
-  C.P.-11466-249, the Tree Conservation By-law:
- 
-a)         legal
-  counsel BE INSTRUCTED to represent, pursuant to the Council Member
-  Indemnification By-law, those members of City Council who may be named or
-  otherwise identified in the application of Liahn Farms Limited and to
-  institute such proceedings and take such steps in those proceedings as are
-  considered reasonable necessary for the protection and advancement of their
-  interest under the By-law.
-
-****
-
-Motion Passed
-
-> [!abstract]- Vote:
-> |Yeas:|
-> |-|
-> |J.F. Fontana|
-> |B. Polhill|
-> |W.J. Armstrong|
-> |J.B. Swan|
-> |S. Orser|
-> |J.L. Baechler|
-> |N. Branscombe|
-> |M. Brown|
-> |P. Hubert|
-> |D.G. Henderson|
-> |D. Brown|
-> |H.L. Usher|
-> |J.P. Bryant|
-> |S.E. White (14)|
-
-> **Motion Passed**
-
-****
-
-  Internal Audit Results Summary
-
-That,  the following actions be taken
-  regarding the 2011 and 2012 Internal Audit Results Summary:
- 
-a)         the report dated January 31,
-  2013 with respect to this matter BE RECEIVED;
- 
-b)         Corporate
-  Communications BE REQUESTED to prepare a press release outlining the results
-  of the 2011 and 2012 internal audit results; and,
- 
-c)         that
-  information related to quantifying cost avoidances BE INCLUDED in future
-  Annual Internal Audit Results Summary Reports.
-
-  Assessment and 2013 Risk-Based Audit Plan
-
-That, the following actions be taken with
-  respect to the Proposed 2013 Risk Assessment and Risk-Based Audit Plan:
- 
-a)         the
-  report dated January 31, 2013 with respect to this matter BE RECEIVED; and,
- 
-b)         the
-  proposed 2013 Risk-Based Internal Audit Plan identified in Appendix A of the
-  above-noted report BE APPROVED; it being noted that the revenue and cost
-  model analysis for landfills will be reported out in the 4th Quarter, with
-  the report on revenue and cost model analysis on solid waste collection being
-  reported out in the 1st Quarter of 2014.
-
-  Internal Audit Results - Corporate Services/Finance - Payroll Administration
-
-That, the following actions be taken with
-  respect to the Quarterly Report on Internal Audit Results – Corporate
-  Services/Finance – Payroll Administration:
- 
-a)         the report dated January 31,
-  2013 with respect to this matter BE RECEIVED; and
- 
-b)         the
-  action plans identified in Appendix A of the report noted in a) above, BE
-  IMPLEMENTED.
-
-  Internal Audit Results - Human Resources Succession Planning
-
-That,  the following actions be taken with
-  respect to the Quarterly Report on Internal Audit Results – Human Resources –
-  Succession Planning:
- 
-a)         the report dated January 31,
-  2013 with respect to this matter BE RECEIVED; 
- 
-b)         the
-  action plans indentified in Appendices A and B of the report noted in a)
-  above,  BE IMPLEMENTED; and,
- 
-c)         the
-  Managing Director, Corporate Services and Chief Human Resources Officer BE
-  DIRECTED to report back to the Audit Committee on the following:
- 
-i)          Observations
-  & Action Plan #1 by April 2013;
-ii)          Observations
-  & Action Plan #2 by May 2013; and,
-iii)         Observations
-  & Action Plan #3 by July 2013.
-
-> Moved by Councillor J.P. Bryant
-
-Approve clause 1.
-
-****
-
+# VI.&nbsp;&nbsp;&nbsp;CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE THIRD MEETING HELD ON JANUARY 29, 2013
 
 > Moved by Councillor M. Brown
@@ -273,6 +127,220 @@ Approve clause 1.
 
 Approve Minutes of the 3rd Meeting
   held on January 29, 2013.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J.F. Fontana|
+> |B. Polhill|
+> |W.J. Armstrong|
+> |J.B. Swan|
+> |S. Orser|
+> |J.L. Baechler|
+> |N. Branscombe|
+> |M. Brown|
+> |P. Hubert|
+> |D.G. Henderson|
+> |P. Van Meerbergen|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant|
+> |S.E. White (15)|
+
+> **Motion Passed**
+
+****
+
+# VII.&nbsp;&nbsp;&nbsp;COMMUNICATIONS
+  AND PETITIONS
+
+# VIII.&nbsp;&nbsp;&nbsp;MOTIONS OF
+  WHICH NOTICE IS GIVEN
+
+# IX.&nbsp;&nbsp;&nbsp;REPORTS
+
+4th Report of the
+  Corporate Services Committee
+Councillor J.P. Bryant presents.
+
+# 4.&nbsp;&nbsp;&nbsp;Local Improvement
+  Charges - Potential Uses
+
+> Moved by Councillor J.P. Bryant
+
+Approve that the following actions be taken with respect to the use of Local
+  Improvement Charges:
+ 
+a)         the delegation from O. Hobson
+  regarding this matter BE RECEIVED;
+ 
+b)         the
+  Civic Administration BE DIRECTED to report back to the Corporate Services
+  Committee with Terms of Reference for a potential pilot project utilizing
+  local improvement charges for the acquisition of lands occupied by Sherwood
+  Forest Public School; and,
+            
+c)         the
+  report dated February 5, 2013, from the Managing Director, Corporate Services
+  and City Treasurer, Chief Financial Officer, regarding local improvement
+  charges, BE REFERRED to the Civic Administration to provide a further report
+  back to the Corporate Service Committee that would include information from
+  the City Solicitor’s Office with respect to this matter.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J.F. Fontana|
+> |B. Polhill|
+> |W.J. Armstrong|
+> |J.B. Swan|
+> |S. Orser|
+> |J.L. Baechler|
+> |N. Branscombe|
+> |P. Hubert|
+> |D.G. Henderson|
+> |P. Van Meerbergen|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant|
+> |S.E. White (14) RECUSED: M. Brown (1)|
+
+> **Motion Passed**
+
+****
+
+> Moved by Councillor J.P. Bryant
+
+Approve clauses 1 to 8, excluding clause 4.
+
+****
+
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of
+  Pecuniary Interest
+
+That it BE NOTED that no pecuniary
+  interests were disclosed.
+
+# 2.&nbsp;&nbsp;&nbsp;Community Pulse
+  Check
+
+That, on the recommendation of the City
+  Manager, the staff report dated February 5, 2013, regarding community
+  perceptions in London, BE RECEIVED for information.
+
+# 3.&nbsp;&nbsp;&nbsp;Real Property
+  Acquisition Policy
+
+That, on the recommendation of the Managing
+  Director, Corporate Services and City Treasurer, Chief Financial Officer,
+  with the concurrence of the Director of Corporate Investments and
+  Partnerships, on the advice of the Manager of Realty Services and the Manager
+  of Realty Services Operations, the attached proposed by-law
+  (Appendix “B”), BE INTRODUCED at the Municipal Council meeting on February
+  12, 2013 to implement a Real Property Acquisition Policy for the City of
+  London.
+
+# 5.&nbsp;&nbsp;&nbsp;Appointment to the
+  Town and Gown Committee
+
+That the following actions be taken with
+  respect to appointments to the Town and Gown Committee:
+ 
+a)         Tony
+  Frost (Administrative Representative of Fanshawe College) BE APPOINTED to the
+  Town and Gown Committee as voting member for the term ending February 28,
+  2015; and,
+ 
+b)         the
+  City Clerk BE REQUESTED to review the Terms of Reference for the Town and
+  Gown Committee and report back to the appropriate Standing Committee
+  regarding the potential expansion of the Town and Gown Committee’s voting
+  membership to include voting representation from Western University, as well
+  as from each of its affiliated colleges, and a representative of the London
+  Property Management Association.
+
+# 6.&nbsp;&nbsp;&nbsp;Resignation from
+  the Animal Welfare Advisory Committee
+
+That the communication dated January 24,
+  2013 from Joanne McFadden, resigning her appointment to the Animal Welfare
+  Advisory Committee, BE ACCEPTED and Ms. McFadden BE THANKED for participating
+  on the Animal Welfare Advisory Committee.
+
+# 7.&nbsp;&nbsp;&nbsp;Association of
+  Municipalities of Ontario Economic Development Task Force
+
+That the following actions be taken with
+  respect to the request from Councillor S.E. White for reimbursement of
+  associated expenses for attending the 2013 meetings of the Economic
+  Development Task Force for the Association of Municipalities of Ontario:
+ 
+a)         the
+  attached communication dated January 31, 2013, from Councillor
+  S.E. White, BE RECEIVED; and,
+  
+b)         the
+  request from Councillor S.E. White for reimbursement for expenses associated
+  with attendance at the 2013 meetings of the Economic Development Task Force
+  for the Association of Municipalities of Ontario BE APPROVED.
+
+# 8.&nbsp;&nbsp;&nbsp;Request for
+  Delegation Status at the Corporate Services Committee re Post Secondary
+  Students Becoming More Involved in Municipal Government
+
+That the following actions be taken with
+  respect to the request from Adam Fearnall, President, University Students’
+  Council, for delegation status at the Corporate Services Committee to discuss
+  how post-secondary students could become more involved in Municipal
+  Government:
+ 
+a)         pursuant
+  to section 13.7 of the Council Procedure By-law, the actions of the Municipal
+  Council taken at its meeting of January 15, 2013, related to the adoption of
+  clause 12 of the 2nd Report of the Corporate Services Committee, concerning
+  the above-noted request, BE RECONSIDERED; 
+ 
+b)         the
+  Committee Secretary BE REQUESTED to make arrangements for Mr. Fearnall, and
+  other post-secondary education institution student representatives, to appear
+  as a delegation before the Corporate Services Committee; and,
+ 
+c)         the
+  Civic Administration BE REQUESTED to report back, after the delegation noted
+  in b), above, has been heard, on measures that could be taken to provide for
+  greater involvement of the post-secondary school population in the municipal
+  decision-making process.
+
+> Moved by Councillor N. Branscombe
+
+> Seconded by Councillor B. Polhill
+
+Amend clause 5 in part b) by deleting
+  all words following "representation" and by replacing with the
+  following words, "from all of Western University affiliated colleges, a
+  corresponding number of neighbourhood representatives, and a representative
+  from the London Property Management Association.”
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J.F. Fontana|
+> |B. Polhill|
+> |W.J. Armstrong|
+> |J.B. Swan|
+> |S. Orser|
+> |J.L. Baechler|
+> |N. Branscombe|
+> |M. Brown|
+> |P. Hubert|
+> |D.G. Henderson|
+> |P. Van Meerbergen|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant|
+> |S.E. White (15)|
+
+> **Motion Passed**
 
 ****
 
@@ -301,30 +369,87 @@ Motion Passed
 
 ****
 
-  AND PETITIONS
+5th Report of the
+  Civic Works Committee
+Councillor P. Van Meerbergen presents.
 
-  WHICH NOTICE IS GIVEN
+> Moved by Councillor P. Van Meerbergen
 
+Approve clauses 1 to 5, inclusive.
 
-  School
+****
 
-That the following actions be taken with
-  respect to the enhancement of public use of the Lorne Avenue Public School;
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of
+  Pecuniary Interest
+
+That it BE NOTED that no pecuniary
+  interests were disclosed.
+
+# 2.&nbsp;&nbsp;&nbsp;Annual Ministry of
+  Environment Inspection of the City of London Water Distribution System -
+  2012.
+
+That, on the recommendation of the
+  Director, Water and Wastewater and Treatment, the 2012 Annual Ministry of
+  Environment Inspection of the City of London Water Distribution System BE
+  RECEIVED.
+
+# 3.&nbsp;&nbsp;&nbsp;Veterans Memorial
+  Parkway Community Program 2012 Summary and 2013 Planning Report.
+
+That, on the recommendation of the
+  Director, Land Use Planning and City Planner, the staff report dated February
+  4, 2013 outlining the Veterans Memorial Parkway Community Program 2012 Summary
+  and 2013 Planning Report BE RECEIVED as per the requirements of the City’s
+  agreement with Landscape Ontario for the enhancement of the Veterans Memorial
+  Parkway.
+
+# 4.&nbsp;&nbsp;&nbsp;New 2013 Traffic
+  Signal Byron Baseline Road at Colonel Talbot Road.
+
+That, on the recommendation of the
+  Director, Roads & Transportation, the following actions be taken with
+  respect to the new 2013 Traffic Signal at Byron Baseline Road at Colonel
+  Talbot Road: 
  
-a)         the above-noted matter BE
-  REFERRED to the 2013 Capital Budget discussions; and,
+a)         the
+  installation of a traffic signal at the intersection of Byron Baseline Road
+  and Colonel Talbot Road BE APPROVED; and,
+ 
+b)         future
+  additional operating costs for the project in the amount of $6,400 BE
+  APPROVED as a first priority commitment from available assessment growth in
+  2013, subject to final budget approval.
+
+# 5.&nbsp;&nbsp;&nbsp;Highway 401
+  Interchange Projects Agreement with Ministry of Transportation.
+
+That, on the recommendation of the
+  Director, Roads and Transportation, the following actions be taken with
+  respect to an Agreement between Her Majesty the Queen ln Right of the Province
+  of Ontario, represented by the Minister of Transportation for the Province of
+  Ontario (MTO), and The Corporation of the City of London for the construction
+  of Highway 401 interchanges in the City of London:
+ 
+a)         the
+  attached proposed by-law (Appendix “A”) BE INTRODUCED at the Municipal
+  Council meeting on February 12, 2013 to:
+ 
+i)          approve
+  an Agreement between the City and the Minister of Transportation,
+  substantially in the form attached as Schedule 1 to the by-law
+  and to the satisfaction of the City Solicitor, for the construction of
+  Highway 401 interchanges in the City of London; and,
+ii)         authorize
+  the Mayor and the City Clerk to execute the Agreement approved in i), above;
  
 b)         the
-  Civic Administration BE DIRECTED to bring forward a report to the Strategic
-  Priorities and Policy Committee Budget, including, but not limited to,
-  identification of sources of financing and possible community uses in the
-  school building. 
+  financing related to the subject Agreement BE APPROVED as set out in the Sources
+  of Financing Report appended to the staff report dated February 4, 2013; and,
  
-it being noted that the Investment and
-  Economic Prosperity Committee (IEPC) heard a verbal report from Mayor J.
-  Fontana, with respect to this matter.
-
-Motion Passed
+c)         the
+  Civic Administration BE AUTHORIZED to undertake all the administrative acts
+  that are necessary in connection with these projects.
 
 > [!abstract]- Vote:
 > |Yeas:|
@@ -336,23 +461,164 @@ Motion Passed
 > |S. Orser|
 > |J.L. Baechler|
 > |N. Branscombe|
+> |M. Brown|
 > |P. Hubert|
 > |D.G. Henderson|
+> |P. Van Meerbergen|
 > |D. Brown|
 > |H.L. Usher|
 > |J.P. Bryant|
-> |S.E. White (13) RECUSED: M. Brown (1)|
+> |S.E. White (15)|
 
 > **Motion Passed**
 
 ****
 
-> Moved by Councillor M. Brown
+3rd Report of the
+  Planning and Environment Committee
+Councillor B. Polhill presents.
 
-Approve clauses 2 and 3.
+> Moved by Councillor B. Polhill
+
+Approve clauses 1 to 10, excluding clause 8.
 
 ****
 
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of
+  Pecuniary Interest
+
+That it BE NOTED that no pecuniary
+  interests were disclosed.
+
+# 2.&nbsp;&nbsp;&nbsp;2nd Report of the
+  Environmental and Ecological Planning Advisory Committee
+
+That the following actions be taken with
+  respect to the 2nd Report of the Environmental and Ecological Planning
+  Advisory Committee from its meeting held on January 17, 2013:
+ 
+a)         the
+  Civic Administration BE ASKED to advise the Environmental and Ecological
+  Planning Advisory Committee (EEPAC) when the Civic Administration applies
+  trail standards in significant woodlands; it being noted that the EEPAC heard
+  a verbal presentation from S. Levin, with respect to this matter; and,
+ 
+b)         that
+  clauses 2 to 8, inclusive, of the 2nd Report of the EEPAC, BE RECEIVED AND
+  NOTED.
+
+# 3.&nbsp;&nbsp;&nbsp;1st Report of the
+  Trees and Forests Advisory Committee
+
+That the following actions be taken with
+  respect to the 1st Report of the Trees and Forests Advisory Committee from
+  its meeting held on January 23, 2013:
+ 
+a)         the
+  Civic Administration BE REQUESTED to forward the attached
+  revised comments, prepared by the Trees and Forests Advisory Committee
+  (TFAC), with respect to the draft Urban Forest Strategy, to Bruce Blackwell
+  and Associates Ltd, the Consultants hired by the City to prepare the
+  Strategy; it being noted that the TFAC reviewed and received a report dated
+  January 23, 2013, from its Working Group, with respect to this matter;
+ 
+b)         clause 2 BE REFERRED to the 2013
+  Budget;
+ 
+            clause 2 reads as follows:
+ 
+            “The
+  Municipal Council BE REQUESTED to continue to maintain the Emerald Ash Borer
+  funding at its current levels; it being noted that:
+ 
+a)         even
+  at its current level the budget allocation is substantially under the
+  original amount endorsed by Council for the management of the Emerald Ash
+  Borer; 
+ 
+b)         the
+  elimination of Emerald Ash Borer funding could result in the closing of City
+  parks and trails, the severe denuding of the streetscape and the loss of all
+  previously injected ash trees; and, 
+ 
+c)         the
+  exposure of the Corporation and its citizens to risk and loss of public
+  trust; 
+ 
+it being noted that
+  the Trees and Forests Advisory Committee (TFAC) reviewed and received a
+  communication from A. Cantell, with respect to the elimination of the Emerald
+  Ash Borer program funding from the 2013 Operating Budget;” and,
+ 
+c)         that
+  clauses 3 to 6, inclusive, of the 1st Report of the TFAC, BE RECEIVED AND
+  NOTED.
+
+# 4.&nbsp;&nbsp;&nbsp;Candidate Approval
+  for the Urban Design Peer Review Panel
+
+That, on the recommendation of the Managing
+  Director, Planning and City Planner, the following candidates BE APPROVED for
+  available positions on the Urban Design Peer Review Panel:
+ 
+a)         John Tassiopoulos – Position of
+  Urban Design Planner;
+ 
+b)         Tom Tillman – Position of
+  Architect; and,
+ 
+c)         Andrew Wilson – Position of
+  Landscape Architect.   (2013-C04)
+
+# 5.&nbsp;&nbsp;&nbsp;North Gren Land
+  Corp. (Elron) 39T-00515 (33M-475) - 911690 Ontario Ltd. and Pacific &
+  Western Bank of Canada (Gren) 39T-03515 (33M-483)
+
+That, on the recommendation of the Senior
+  Planner, Development Services, the following actions be taken with respect to
+  subdivision agreement amendments for the North Gren Land Corp. (Elron)
+  39T-00515 (33M-475) - 911690 Ontario Ltd. and Pacific & Western Bank of
+  Canada (Gren) 39T-03515 (33M-483):
+ 
+a)         the
+  Subdivision Agreement between The Corporation of the City of London and North
+  Gren Land Corp., which was registered on September 25, 2003 as Instrument
+  Number ER246459 for the Elron Subdivision, BE AMENDED as set out in the attached
+  Subdivision Amending Agreement to amend Clause 27(c)(i) & 27(f) (iii), to
+  remove reference to street lighting and to release the final securities; 
+ 
+b)         the
+  Subdivision Agreement between The Corporation of the City of London and
+  911690 Ontario Limited and Pacific and Western Bank of Canada, which was
+  registered on March 8, 2004 as Instrument Number ER274825 for the Gren
+  Subdivision, BE AMENDED as set out in the attached Subdivision Amending
+  Agreement to amend clause 27(b)(i) &  27(d), to remove reference to
+  street lighting and release the final securities;
+ 
+c)         the
+  Civic Administration BE AUTHORIZED to undertake a design, as part of the
+  development charge financed street lighting program, to provide street
+  lighting in the ultimate location on Sunningdale Road East, from the east
+  side of South Wenige Drive at Mother Theresa High School, to the west side of
+  North Wenige Drive, at an estimated design and installation cost of $265,000
+  (excluding applicable taxes);
+ 
+d)         the
+  Mayor and the City Clerk BE AUTHORIZED to execute these Subdivision Amending
+  Agreements and all related documents required to fulfill its conditions; and,
+ 
+e)         the
+  financing for this project BE APPROVED in accordance with the “Source of
+  Financing Report” provided as Appendix “A” to the associated staff report,
+  dated February 5, 2013.  (2013-L04)
+
+# 6.&nbsp;&nbsp;&nbsp;Building Division
+  Monthly Report for December 2012
+
+That the Building Division Monthly Report
+  for December 2012 BE RECEIVED.   (2013-D00)
+
+# 7.&nbsp;&nbsp;&nbsp;Properties located
   at a portion of 1956 Shore Road and a portion of 1585 Riverbend Road
   (Z-8113)
 
@@ -379,6 +645,85 @@ it being pointed out that there were no
   oral submissions made at the public participation meeting associated with
   this matter.   (2013-D14A)
 
+# 9.&nbsp;&nbsp;&nbsp;Property located at
+  591 Maitland Street
+
+That, on the recommendation of the Managing
+  Director, Planning and City Planner, with the advice of the Heritage Planner,
+  the following actions be taken with respect to the proposed demolition of the
+  property located at 591 Maitland Street:
+ 
+a)         the
+  Chief Building Official BE ADVISED that the demolition permit applied for the
+  structure at 591 Maitland Street BE APPROVED, subject to the following
+  conditions: 
+ 
+i)          professional
+  architectural drawings for a new structure on this site BE PROVIDED and BE
+  APPROVED for a building permit by the Building Division prior to the issuance
+  of a demolition permit for the existing building;
+ 
+ii)         the
+  drawings, as outlined in part i), above, BE CONSISTENT with the following
+  criteria to the satisfaction of the Managing Director, Planning and City
+  Planner:
+ 
+A)        replication
+  of the general appearance and form of the front façade of the existing
+  building;
+ 
+B)        maintenance
+  of the scale and form of the structure at the street to the depth of a single
+  room, with the opportunity for an addition of a greater scale at a further
+  depth into the site;
+ 
+C)        a
+  full front porch with a front yard building setback consistent with what
+  currently exists; and,
+ 
+D)        the
+  new building be built consistent with the Conservation Guidelines contained
+  within the West Woodfield Heritage Conservation District Plan;
+it being noted that the Planning and
+  Environment Committee heard verbal presentations from Renee Kaplansky,
+  applicant, Hazel Elmslie, Woodfield Community Association, George Goodlet,
+  Chair, London Advisory Committee on Heritage and Don Menard, Heritage
+  Planner, with respect to this matter.  (2013-R01)
+
+# 10.&nbsp;&nbsp;&nbsp;Property located at
+  9345 Elviage Drive
+
+That, the Civic Administration BE DIRECTED
+  to report back to a future meeting of the Planning and Environment Committee,
+  relating to the communication, dated January 15, 2013, from M. Doornbosch,
+  Zelinka Priamo Ltd., relating to the property located at 9345 Elviage Drive;
+  it being noted that M. Doornbosch, Zelinka Priamo Ltd., be granted delegation
+  status when the Civic Administration reports back.   (2013-D14A)
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J.F. Fontana|
+> |B. Polhill|
+> |W.J. Armstrong|
+> |J.B. Swan|
+> |S. Orser|
+> |J.L. Baechler|
+> |N. Branscombe|
+> |M. Brown|
+> |P. Hubert|
+> |D.G. Henderson|
+> |P. Van Meerbergen|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant|
+> |S.E. White (15)|
+
+> **Motion Passed**
+
+****
+
+# 8.&nbsp;&nbsp;&nbsp;Properties located
   at 1057, 1059 and 1061 Richmond Street (Z-8106)
 
 > Moved by Councillor N. Branscombe
@@ -388,10 +733,6 @@ it being pointed out that there were no
 Amend clause 8, to add the following
   wording after the word "consideration", "including, but not
   limited to".
-
-****
-
-Motion Passed
 
 > [!abstract]- Vote:
 > |Yeas:|
@@ -421,10 +762,6 @@ Motion Passed
 > Seconded by Councillor S. Orser
 
 Approve clause 8, as amended.
-
-****
-
-Motion Passed
 
 > [!abstract]- Vote:
 > |Yeas:|
@@ -617,75 +954,626 @@ it
   space on the owner’s property, it’s all on the City’s
   property.    (2013-D14A)
 
+4th Report of the
+  Community and Protective Services Committee
+Councillor D. Brown presents.
+
 > Moved by Councillor D. Brown
 
 Approve clauses 1, 3, 4 and 5.
 
 ****
 
-  591 Maitland Street
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of
+  Pecuniary Interest
 
-That, on the recommendation of the Managing
-  Director, Planning and City Planner, with the advice of the Heritage Planner,
-  the following actions be taken with respect to the proposed demolition of the
-  property located at 591 Maitland Street:
+That it BE NOTED that no pecuniary
+  interests were disclosed.
+
+# 3.&nbsp;&nbsp;&nbsp;1st Report of the
+  London Diversity and Race Relations Advisory Committee.
+
+That the 1st Report of the London Diversity
+  and Race Relations Advisory Committee, from its meeting held on January 17,
+  2013, BE RECEIVED.
+
+# 4.&nbsp;&nbsp;&nbsp;1st Report of the
+  Community and Crime Prevention Advisory Committee.
+
+That the 1st Report of the Community Safety
+  and Crime Prevention Advisory Committee, from its meeting held on January 24,
+  2013, BE RECEIVED.
+
+# 5.&nbsp;&nbsp;&nbsp;2nd Report of the
+  the London Housing Advisory Committee.
+
+That, the following actions be taken with
+  respect to the 2nd Report of the London Housing Advisory Committee, from its
+  meeting held on January 16, 2013:
+ 
+a)         Clause 1 of the Report BE
+  REFERRED to the 2013 Budget.
+ 
+Clause 1, as
+  referred reads as follows:
+ 
+ "1. 
+  Municipal Council BE REQUESTED to reaffirm its commitment to the London 
+  Housing Strategy and maintain an annual $2 million contribution to the
+  Affordable Housing Reserve for the following reasons: 
+ 
+a)      London’s
+  Community Housing Strategy was approved by Council in 2010 and the objective
+  5.3 of the strategy is to “maintain the annual $2 million City investment in
+  affordable housing”; 
+ 
+b)      every
+  $1 of municipal investment has historically leveraged $7 of investment from
+  other orders of government and the private sector;
+ 
+c)      best
+  practice in affordable housing is a ‘toolbox’ approach that includes both
+  less expensive temporary units and more expensive permanent units;
+d)      the
+  existing draws on the Affordable Housing Reserve Fund are already earmarked
+  and Council-approved in the current Program Delivery Fiscal Plan; and, 
+ 
+e)      of
+  the City goal of 1,000 new affordable housing units by 2015 our current
+  Program Delivery and Fiscal Plan is for 614 new units;  
+ 
+it being noted that
+  the London Housing Advisory Committee (LHAC) received the following, with
+  respect to this matter: 
+ 
+-        a
+  communication from A. Oudshoorn, LHAC, with respect to an affordable  housing
+  motion;
+-        a
+  communication from A. Oudshoorn, LHAC, with respect to the 2013 Budget -
+  Service Changes; and, 
+-        a
+  communication from G. McGeorge, LHAC, with respect to the affordable housing
+  crisis in London, Ontario"; 
+ 
+it being noted that
+  the Municipal Council has previously given direction to investigate the development
+  of a Housing Development Corporation;  it being further noted that the
+  Community and Protective Services Committee (CPSC) noted that the amended
+  Council goal was for 1,200 new affordable housing units by 2015;
+ 
+b)         the
+  Civic Administration BE REQUESTED to host a ReThink workshop focusing on
+  housing issues, and to invite the London Housing Advisory Committee to that
+  workshop; it being noted that the LHAC will also form a subcommittee to
+  prepare a workplan for their established priorities of:
+ 
+i)  creating a
+  housing mix within larger scale redevelopments;
+ 
+ii)  mix throughout
+  the City; and
+ 
+c)  clauses 3 to 6 BE RECEIVED;
+ 
+it being noted that the CPSC received a
+  verbal presentation from B. Sexsmith, Chair LHAC, with respect to this
+  matter.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J.F. Fontana|
+> |B. Polhill|
+> |W.J. Armstrong|
+> |J.B. Swan|
+> |S. Orser|
+> |J.L. Baechler|
+> |N. Branscombe|
+> |M. Brown|
+> |P. Hubert|
+> |D.G. Henderson|
+> |P. Van Meerbergen|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant|
+> |S.E. White (15)|
+
+> **Motion Passed**
+
+****
+
+# 2.&nbsp;&nbsp;&nbsp;1st Report of the
+  Childcare Advisory Committee.
+
+That the 1st Report of the Childcare
+  Advisory Committee, from its meeting held on January 23, 2013, BE RECEIVED.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J.F. Fontana|
+> |B. Polhill|
+> |W.J. Armstrong|
+> |J.B. Swan|
+> |S. Orser|
+> |J.L. Baechler|
+> |N. Branscombe|
+> |M. Brown|
+> |P. Hubert|
+> |D.G. Henderson|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant|
+> |S.E. White (14) RECUSED: P. Van Meerbergen (1)|
+
+> **Motion Passed**
+
+****
+
+# 6.&nbsp;&nbsp;&nbsp;Ontario Works
+  Decentralization.
+
+That, on the recommendation of the Acting
+  Ontario Works Administrator, the following actions be taken with respect to
+  the decentralization of Ontario Works services:
  
 a)         the
-  Chief Building Official BE ADVISED that the demolition permit applied for the
-  structure at 591 Maitland Street BE APPROVED, subject to the following
-  conditions: 
+  Ontario Works Decentralization plan, outlined in the staff report dated February
+  4, 2013, BE APPROVED in principle; 
  
-i)          professional
-  architectural drawings for a new structure on this site BE PROVIDED and BE
-  APPROVED for a building permit by the Building Division prior to the issuance
-  of a demolition permit for the existing building;
+b)         the
+  Civic administration BE AUTHORIZED to engage in community conversations to
+  share the above-noted Ontario Works Decentralization plan; and,
+ 
+c)         the
+  Civic administration BE DIRECTED to report back to the Community and
+  Protective Services Committee with a detailed implementation plan, including
+  the associated financial strategy, and  a summary of community and
+  stakeholder input.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J.F. Fontana|
+> |B. Polhill|
+> |W.J. Armstrong|
+> |J.B. Swan|
+> |S. Orser|
+> |J.L. Baechler|
+> |N. Branscombe|
+> |M. Brown|
+> |D.G. Henderson|
+> |P. Van Meerbergen|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant|
+> |S.E. White (14) RECUSED: P. Hubert (1)|
+
+> **Motion Passed**
+
+****
+
+2nd Report of the
+  Investment and Economic Prosperity Committee
+Councillor J.B. Swan presents.
+
+> Moved by Councillor J.B. Swan
+
+Approve clauses 1, 4 and 5.
+
+****
+
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of
+  Pecuniary Interest
+
+That it BE NOTED that the following
+  pecuniary interests were disclosed:
+ 
+a)         Councillor
+  J. Swan disclosed a pecuniary interest in clause 2 of this Report, having to
+  do with the 2011-2012 financial results of Orchestra London, by indicating
+  that he is employed by Orchestra London.  Councillor J. Swan further
+  disclosed a pecuniary interest in clause 3 of this Report, having to do with
+  the investment and economic prosperity proposal assessment process, by
+  indicating that his employer, Orchestra London, has an interest in the
+  process.
+ 
+b)         Councillor
+  M. Brown disclosed a pecuniary interest in clause 6 of this Report, having to
+  do with the Lorne Avenue Public School, by indicating that he is employed by
+  the Thames Valley District School Board.
+
+# 4.&nbsp;&nbsp;&nbsp;D.A.P.S. Trophy,
+  IBM-Western University Industry Problem Solving Workshop
+
+That the report dated January 28, 2013,
+  from the Director of Corporate Investments and Partnerships, with respect to
+  the D.A.P.S. Trophy, IBM-Western University Industry Problem Solving
+  Workshop, BE RECEIVED for information.
+
+# 5.&nbsp;&nbsp;&nbsp;Medical Research
+  Fund
+
+That the communication dated January 11,
+  2013, from D. Ross, President and CEO, London Health Sciences Foundation and
+  M. Campbell, President and CEO, St. Joseph's Health Care Foundation, with
+  respect to medical research fund, BE RECEIVED.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J.F. Fontana|
+> |B. Polhill|
+> |W.J. Armstrong|
+> |J.B. Swan|
+> |S. Orser|
+> |J.L. Baechler|
+> |N. Branscombe|
+> |M. Brown|
+> |P. Hubert|
+> |D.G. Henderson|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant|
+> |S.E. White (14)|
+
+> **Motion Passed**
+
+****
+
+# 6.&nbsp;&nbsp;&nbsp;Lorne Avenue Public
+  School
+
+That the following actions be taken with
+  respect to the enhancement of public use of the Lorne Avenue Public School;
+ 
+a)         the above-noted matter BE
+  REFERRED to the 2013 Capital Budget discussions; and,
+ 
+b)         the
+  Civic Administration BE DIRECTED to bring forward a report to the Strategic
+  Priorities and Policy Committee Budget, including, but not limited to,
+  identification of sources of financing and possible community uses in the
+  school building. 
+ 
+it being noted that the Investment and
+  Economic Prosperity Committee (IEPC) heard a verbal report from Mayor J.
+  Fontana, with respect to this matter.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J.F. Fontana|
+> |B. Polhill|
+> |W.J. Armstrong|
+> |J.B. Swan|
+> |S. Orser|
+> |J.L. Baechler|
+> |N. Branscombe|
+> |P. Hubert|
+> |D.G. Henderson|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant|
+> |S.E. White (13) RECUSED: M. Brown (1)|
+
+> **Motion Passed**
+
+****
+
+> Moved by Councillor M. Brown
+
+Approve clauses 2 and 3.
+
+****
+
+# 2.&nbsp;&nbsp;&nbsp;Orchestra London
+  2011-2012 Financial Results
+
+That, on the recommendation of the Deputy
+  City Treasurer, the following actions be taken with respect to funding
+  assistance for Orchestra London: 
+ 
+ 
+a)         the
+  2011-2012 financial results of Orchestra London, attached to the staff report
+  dated January 28, 2013, BE RECEIVED for information; 
+ 
+b)         the
+  updated Business Plan for Orchestra London, attached to the staff report
+  dated January 28, 2013, BE RECEIVED, for information; 
+ 
+c)         the
+  continued Orchestra London funding BE PROVIDED in 2013, subject to:
+ 
+i)          the
+  approval of the 2013 Municipal Budget;
  
 ii)         the
-  drawings, as outlined in part i), above, BE CONSISTENT with the following
-  criteria to the satisfaction of the Managing Director, Planning and City
-  Planner:
+  review of Orchestra London’s financial results to ensure it is operating
+  within its business plan; 
  
-A)        replication
-  of the general appearance and form of the front façade of the existing
-  building;
+iii)         the
+  monthly monitoring of Orchestra London’s cash flow by the Civic
+  Administration; and,
  
-B)        maintenance
-  of the scale and form of the structure at the street to the depth of a single
-  room, with the opportunity for an addition of a greater scale at a further
-  depth into the site;
- 
-C)        a
-  full front porch with a front yard building setback consistent with what
-  currently exists; and,
- 
-D)        the
-  new building be built consistent with the Conservation Guidelines contained
-  within the West Woodfield Heritage Conservation District Plan;
-it being noted that the Planning and
-  Environment Committee heard verbal presentations from Renee Kaplansky,
-  applicant, Hazel Elmslie, Woodfield Community Association, George Goodlet,
-  Chair, London Advisory Committee on Heritage and Don Menard, Heritage
-  Planner, with respect to this matter.  (2013-R01)
+d)         notwithstanding
+  the funding approval in part c) above, a pro-rated amount equivalent to the
+  January and February monthly installments of the proposed 2013 funding for
+  Orchestra London BE APPROVED for release to Orchestra London, subject to the
+  review and authorization by the Civic Administration.
 
-  9345 Elviage Drive
+# 3.&nbsp;&nbsp;&nbsp;Investment and
+  Economic Prosperity Proposal Assessment Process Update
 
-That, the Civic Administration BE DIRECTED
-  to report back to a future meeting of the Planning and Environment Committee,
-  relating to the communication, dated January 15, 2013, from M. Doornbosch,
-  Zelinka Priamo Ltd., relating to the property located at 9345 Elviage Drive;
-  it being noted that M. Doornbosch, Zelinka Priamo Ltd., be granted delegation
-  status when the Civic Administration reports back.   (2013-D14A)
+That, on the recommendation of the Director
+  of Corporate Investments and Partnerships, the following actions be taken
+  with respect to the proposed updated investment and economic prosperity
+  proposal assessment process:
+ 
+a)         the
+  updated investment and economic prosperity proposal assessment plan to guide
+  the timeline by which proposals will be developed, and the process by which
+  selected proposals will evolve from ideas to executable projects, including
+  the proposed public engagement plan BE ENDORSED; and,
+ 
+b)         the synopsis of the January 12,
+  2013 public consultation BE RECEIVED.
 
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J.F. Fontana|
+> |B. Polhill|
+> |W.J. Armstrong|
+> |S. Orser|
+> |J.L. Baechler|
+> |N. Branscombe|
+> |M. Brown|
+> |P. Hubert|
+> |D.G. Henderson|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant|
+> |S.E. White (13)|
+
+> **Motion Passed**
+
+****
+
+2nd Report of the
+  Audit Committee
+Councillor M. Brown presents.
+
+> Moved by Councillor M. Brown
+
+Approve clauses 1 to 5, inclusive.
+
+****
+
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of
+  Pecuniary Interest
+
+That it BE NOTED that no pecuniary
+  interests were disclosed.
+
+# 2.&nbsp;&nbsp;&nbsp;2011 and 2012
+  Internal Audit Results Summary
+
+That,  the following actions be taken
+  regarding the 2011 and 2012 Internal Audit Results Summary:
+ 
+a)         the report dated January 31,
+  2013 with respect to this matter BE RECEIVED;
+ 
+b)         Corporate
+  Communications BE REQUESTED to prepare a press release outlining the results
+  of the 2011 and 2012 internal audit results; and,
+ 
+c)         that
+  information related to quantifying cost avoidances BE INCLUDED in future
+  Annual Internal Audit Results Summary Reports.
+
+# 3.&nbsp;&nbsp;&nbsp;Proposed Risk
+  Assessment and 2013 Risk-Based Audit Plan
+
+That, the following actions be taken with
+  respect to the Proposed 2013 Risk Assessment and Risk-Based Audit Plan:
+ 
+a)         the
+  report dated January 31, 2013 with respect to this matter BE RECEIVED; and,
+ 
+b)         the
+  proposed 2013 Risk-Based Internal Audit Plan identified in Appendix A of the
+  above-noted report BE APPROVED; it being noted that the revenue and cost
+  model analysis for landfills will be reported out in the 4th Quarter, with
+  the report on revenue and cost model analysis on solid waste collection being
+  reported out in the 1st Quarter of 2014.
+
+# 4.&nbsp;&nbsp;&nbsp;Quarterly Report on
+  Internal Audit Results - Corporate Services/Finance - Payroll Administration
+
+That, the following actions be taken with
+  respect to the Quarterly Report on Internal Audit Results – Corporate
+  Services/Finance – Payroll Administration:
+ 
+a)         the report dated January 31,
+  2013 with respect to this matter BE RECEIVED; and
+ 
+b)         the
+  action plans identified in Appendix A of the report noted in a) above, BE
+  IMPLEMENTED.
+
+# 5.&nbsp;&nbsp;&nbsp;Quarterly Report on
+  Internal Audit Results - Human Resources Succession Planning
+
+That,  the following actions be taken with
+  respect to the Quarterly Report on Internal Audit Results – Human Resources –
+  Succession Planning:
+ 
+a)         the report dated January 31,
+  2013 with respect to this matter BE RECEIVED; 
+ 
+b)         the
+  action plans indentified in Appendices A and B of the report noted in a)
+  above,  BE IMPLEMENTED; and,
+ 
+c)         the
+  Managing Director, Corporate Services and Chief Human Resources Officer BE
+  DIRECTED to report back to the Audit Committee on the following:
+ 
+i)          Observations
+  & Action Plan #1 by April 2013;
+ii)          Observations
+  & Action Plan #2 by May 2013; and,
+iii)         Observations
+  & Action Plan #3 by July 2013.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J.F. Fontana|
+> |B. Polhill|
+> |W.J. Armstrong|
+> |J.B. Swan|
+> |S. Orser|
+> |J.L. Baechler|
+> |N. Branscombe|
+> |M. Brown|
+> |P. Hubert|
+> |D.G. Henderson|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant|
+> |S.E. White (14)|
+
+> **Motion Passed**
+
+****
+
+5th Report of the
+  Corporate Services Committee
+Councillor J.P. Bryant presents.
+
+> Moved by Councillor J.P. Bryant
+
+Approve clause 1.
+
+****
+
+# 1.&nbsp;&nbsp;&nbsp;Disclosures of Pecuniary Interest
+
+That it BE NOTED that no pecuniary
+  interests were disclosed.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J.F. Fontana|
+> |B. Polhill|
+> |W.J. Armstrong|
+> |J.B. Swan|
+> |S. Orser|
+> |J.L. Baechler|
+> |N. Branscombe|
+> |M. Brown|
+> |P. Hubert|
+> |D.G. Henderson|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant|
+> |S.E. White (14)|
+
+> **Motion Passed**
+
+****
+
+4th Report of the
+  Committee of the Whole
+
+> Moved by Councillor J.P. Bryant
+
+> Seconded by Councillor B. Polhill that, as a procedural matter pursuant
+
+Section 239(6) of the Municipal Act, 2001, the following
+  recommendations be forwarded to City Council for deliberation and a vote in
+  public session:
+ 
+1.           
+  That
+  the following actions be taken with respect to the property located at 165
+  Elmwood Avenue East (former London Normal School):
+ 
+a)         the
+  update report of the Managing Director, Corporate Services and City
+  Treasurer, Chief Financial Officer, detailing the findings of the financial
+  analysis with respect to the property located at 165 Elmwood Avenue East,
+  being the former London Normal School, BE RECEIVED for information; it being
+  noted that negotiations are ongoing with the YMCA and Infrastructure Ontario;
+  and,
+ 
+b)         the
+  Civic Administration BE DIRECTED to refer the $1 million  capital cost for
+  the purchase and renovation of the former London Normal School to the 2013
+  Budget process for consideration; 
+ 
+it being noted that there has not been an
+  identified municipal need for the building itself; it being further noted
+  that no funds have been identified to acquire the property or undertake the
+  necessary Ontario Building Code and accessibility upgrades.
+ 
+2.           
+  That,
+  the following action be taken with respect to the application by Liahn Farms
+  Limited with respect to the application by Liahn Farms Limited to the Ontario
+  Superior Court of Justice, Divisional Court in connection with By-law
+  C.P.-11466-249, the Tree Conservation By-law:
+ 
+a)         legal
+  counsel BE INSTRUCTED to represent, pursuant to the Council Member
+  Indemnification By-law, those members of City Council who may be named or
+  otherwise identified in the application of Liahn Farms Limited and to
+  institute such proceedings and take such steps in those proceedings as are
+  considered reasonable necessary for the protection and advancement of their
+  interest under the By-law.
+
+> [!abstract]- Vote:
+> |Yeas:|
+> |-|
+> |J.F. Fontana|
+> |B. Polhill|
+> |W.J. Armstrong|
+> |J.B. Swan|
+> |S. Orser|
+> |J.L. Baechler|
+> |N. Branscombe|
+> |M. Brown|
+> |P. Hubert|
+> |D.G. Henderson|
+> |D. Brown|
+> |H.L. Usher|
+> |J.P. Bryant|
+> |S.E. White (14)|
+
+> **Motion Passed**
+
+****
+
+# X.&nbsp;&nbsp;&nbsp;DEFERRED
   MATTERS
 
+# XI.&nbsp;&nbsp;&nbsp;ENQUIRIES
 
 Councillor
   S. White enquiries with respect to the use of inflatable devices at
   City-owned facilities.  The Chair refers the enquiry to the Civic
   Administration.
 
+# XII.&nbsp;&nbsp;&nbsp;EMERGENT
   MOTIONS
 
+# XIII.&nbsp;&nbsp;&nbsp;BY-LAWS
 
 BY-LAWS TO BE READ A FIRST, SECOND AND
   THIRD TIME:
@@ -696,10 +1584,6 @@ BY-LAWS TO BE READ A FIRST, SECOND AND
 
 Approve 1st reading of Bill No.s 94 to
   102, inclusive.
-
-****
-
-Motion Passed
 
 > [!abstract]- Vote:
 > |Yeas:|
@@ -730,10 +1614,6 @@ Motion Passed
 Approve 2nd reading of Bill No.s 94 to
   102, inclusive.
 
-****
-
-Motion Passed
-
 > [!abstract]- Vote:
 > |Yeas:|
 > |-|
@@ -763,10 +1643,6 @@ Motion Passed
 Approve 3rd reading and enactment of Bill
   No.s 94 to 102, inclusive.
 
-****
-
-Motion Passed
-
 > [!abstract]- Vote:
 > |Yeas:|
 > |-|
@@ -789,92 +1665,7 @@ Motion Passed
 
 ****
 
+# XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
----
-
-## Votes
-
-*6 substantive votes at this meeting (6 contested, 0 unanimous). Procedural motions excluded.*
-
-### IV. COMMITTEE
-  OF THE WHOLE, IN CAMERA
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
-
-</details>
-
-### VI. CONFIRMATION
-  AND SIGNING OF THE MINUTES OF THE THIRD MEETING HELD ON JANUARY 29, 2013
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (14):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
-
-</details>
-
-### XIII. BY-LAWS
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (42):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Stephen Orser](/councillors/current/s-orser), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Nancy Branscombe](/councillors/current/n-branscombe), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Judy Bryant](/councillors/current/j-p-bryant), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown), [Denise Brown](/councillors/current/d-brown), [Denise Brown](/councillors/current/d-brown)
-
-</details>
-
-### 1. Disclosures of Pecuniary Interest
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (26):** [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown), [Denise Brown](/councillors/current/d-brown)
-
-</details>
-
-### 6. Lorne Avenue Public
-  School
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (11):** [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
-
-</details>
-
-### 8. Properties located
-  at 1057, 1059 and 1061 Richmond Street (Z-8106)
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (28):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown), [Denise Brown](/councillors/current/d-brown)
-
-</details>
+Motion Passed
 
