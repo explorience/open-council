@@ -1,6 +1,12 @@
 import test, { describe } from "node:test"
 import assert from "node:assert"
-import { classifyVoteType, isParticipatingVote, type VoteType } from "./vote-type.js"
+import {
+  classifyVoteType,
+  isParticipatingVote,
+  isMotionTextTruncated,
+  MOTION_TEXT_TRUNCATION_MARKER,
+  type VoteType,
+} from "./vote-type.js"
 
 describe("classifyVoteType", () => {
   test("classifies real yea/nay labels", () => {
@@ -64,6 +70,36 @@ describe("classifyVoteType", () => {
     assert.strictEqual(classifyVoteType("YEAS:"), "yea")
     assert.strictEqual(classifyVoteType("recuse:"), "recuse")
     assert.strictEqual(classifyVoteType("ABSTAIN"), "abstain")
+  })
+})
+
+describe("isMotionTextTruncated", () => {
+  test("detects the new explicit truncation marker", () => {
+    assert.strictEqual(
+      isMotionTextTruncated(`Some cut-off text${MOTION_TEXT_TRUNCATION_MARKER}`),
+      true
+    )
+  })
+
+  test("detects the legacy (pre-marker) hard truncation length (exactly 500 chars)", () => {
+    // The ~199k data/votes/*.json records already committed were generated under the
+    // OLD 500-char cap with no marker, before this fix raised the cap to 2000 and
+    // started appending MOTION_TEXT_TRUNCATION_MARKER. Regenerating that dataset is out
+    // of scope for this fix, so this legacy heuristic is what actually prevents those
+    // records from being mislabeled "Full Motion Text" in production today.
+    assert.strictEqual(isMotionTextTruncated("x".repeat(500)), true)
+  })
+
+  test("does not flag ordinary short/complete motion text", () => {
+    assert.strictEqual(isMotionTextTruncated("That the motion BE APPROVED."), false)
+    assert.strictEqual(isMotionTextTruncated("x".repeat(499)), false)
+    assert.strictEqual(isMotionTextTruncated("x".repeat(501)), false)
+  })
+
+  test("handles null/undefined/empty gracefully", () => {
+    assert.strictEqual(isMotionTextTruncated(null), false)
+    assert.strictEqual(isMotionTextTruncated(undefined), false)
+    assert.strictEqual(isMotionTextTruncated(""), false)
   })
 })
 

@@ -15,7 +15,12 @@ import {
   normalizeCouncillorName,
   getSlug,
 } from "../lib/councillors/index.js"
-import { classifyVoteType, type VoteType } from "../lib/votes/vote-type.js"
+import { classifyVoteType, type VoteType, MOTION_TEXT_TRUNCATION_MARKER } from "../lib/votes/vote-type.js"
+
+// Cap on stored motion text length. Was 500 chars, which cut off ~25% of real motions
+// mid-word/mid-sentence while still being packaged downstream as "Full Motion Text" -
+// see MOTION_TEXT_TRUNCATION_MARKER for how the cut is now signaled instead of hidden.
+const MAX_MOTION_TEXT_LENGTH = 2000
 
 // Types
 interface VoteRow {
@@ -124,7 +129,12 @@ function extractMotionText(content: ContentItem): string {
     parts.push(content.string)
   }
 
-  return parts.join(" ").slice(0, 500) // Truncate to reasonable length
+  const full = parts.join(" ")
+  if (full.length <= MAX_MOTION_TEXT_LENGTH) return full
+
+  // Truncated - append the marker so downstream chatbot formatting never presents this
+  // as the "Full Motion Text" (see MOTION_TEXT_TRUNCATION_MARKER doc comment).
+  return full.slice(0, MAX_MOTION_TEXT_LENGTH) + MOTION_TEXT_TRUNCATION_MARKER
 }
 
 // Parse vote result string
