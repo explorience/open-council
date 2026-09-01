@@ -1038,6 +1038,27 @@ function axisDirectionOf(
   return votedExpansiveSide ? "for" : "against";
 }
 
+/** Round-3 gate item 7: this row's own MECHANICAL role in its decision --
+ * "amendment" when the motion's own text opens by amending the motion
+ * already in progress ("That the motion be [further] amended..."),
+ * "approval of the part" when it opens directly with the lettered
+ * sub-clause itself (e.g. "c) a Single Source Procurement BE APPROVED...")
+ * with no amending frame around it. Read mechanically off the motion's OWN
+ * text, never guessed at or inferred from its outcome; null when neither
+ * pattern matches (most motions -- this exists only to disambiguate a
+ * same-decision-group whatAYeaDid collision, see renderLadderExclusions in
+ * generate-hub-pages.ts). Worked example: e-peloza.md's Ark Aid day
+ * drop-in pair -- 1c0f60d005b5 ("That the motion be amended to include a
+ * part c)...") is the amendment; d2ed469d2746 ("c) a Single Source
+ * Procurement BE APPROVED...") is Council's approval of that part as
+ * amended. */
+function motionRole(motionText: string): string | null {
+  const t = motionText.trim();
+  if (/^that the motion be (?:further )?amended\b/i.test(t)) return "amendment";
+  if (/^[a-z]\)\s/i.test(t)) return "approval of the part";
+  return null;
+}
+
 function evidenceEntry(c: ClassifiedMotion, theirVote: VoteKind | "n/a") {
   const m = c.motion;
   const d = c.direction.axis !== null ? (c.direction as Direction) : null;
@@ -1078,6 +1099,8 @@ function evidenceEntry(c: ClassifiedMotion, theirVote: VoteKind | "n/a") {
     // threaded through to each evidence row so groupIntoDecisions (which
     // operates on evidence-row arrays, not ClassifiedMotion) can honor it.
     decisionKey: c.decisionKey,
+    // Round-3 gate item 7: see motionRole's own doc comment above.
+    role: motionRole(m.motionText),
   };
 }
 
@@ -1152,6 +1175,14 @@ function writeIssuesFile(
             // it, so the issue-page table had no way to show a legitimate
             // supermajority failure even though the data existed.
             resultNote: c.resultNote,
+            // Round-3 gate item 3: same short, stage-direction-stripped
+            // excerpt (motionSnippet(), see its own doc comment above) the
+            // stances.json evidence rows already carry — issues.json's vote
+            // rows never carried it, so the issue-page table had no field
+            // to differentiate two distinct motions that collide on
+            // date/item/tally (e.g. a committee-stage vote and its own
+            // later Council ratification of the same clause).
+            motionSnippet: motionSnippet(m.motionText),
           };
         }),
     };
@@ -1785,6 +1816,8 @@ function writeStancesFile(
             meetingType: string;
             result: string;
             resultNote: string | null;
+            // Round-3 gate item 7: see motionRole's own doc comment above.
+            role: string | null;
           }[] = [];
           for (const group of groups) {
             const directions = new Set(
@@ -1808,6 +1841,7 @@ function writeStancesFile(
                   meetingType: row.meetingType,
                   result: row.result,
                   resultNote: row.resultNote,
+                  role: row.role,
                 });
               }
               ladderGroupIndex++;

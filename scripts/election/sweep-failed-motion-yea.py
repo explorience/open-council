@@ -35,8 +35,10 @@ with them:
   C. Issue-page vote rows (renderIssueVoteRow — every divided motion on that
      issue, direction-bearing or not, no per-councillor vote column, never
      touched by the item-4 reorder since it has no "Their vote" column to
-     move):
-       | date | item link | what a yea did | tally | result |
+     move). Round-3 gate item 3 added a motion-excerpt column (to
+     differentiate rows that otherwise collide on date/item/tally) — this
+     sweep's shape-C regex grew a cell in lockstep:
+       | date | item link | what a yea did | motion excerpt | tally | result |
 
 For every row on shape A or B where the "Their vote" cell is literally
 "Yea", and for every row on shape C, where the "Result" cell (last cell)
@@ -79,10 +81,11 @@ ROW_RE_6COL = re.compile(
     r"^\|\s*(\d{4}-\d{2}-\d{2})\s*\|\s*(Yea|Nay|Recused|Absent|Abstained|Other)\s*\|(.*?)\|(.*?)\|(.*?)\|(.*?)\|\s*$"
 )
 
-# Shape C — issue-page vote rows (renderIssueVoteRow): 5 cells, no vote
-# column (this table isn't per-councillor).
-ROW_RE_5COL = re.compile(
-    r"^\|\s*(\d{4}-\d{2}-\d{2})\s*\|(.*?)\|(.*?)\|(.*?)\|(.*?)\|\s*$"
+# Shape C — issue-page vote rows (renderIssueVoteRow): 6 cells, no vote
+# column (this table isn't per-councillor). Round-3 gate item 3: grew from
+# 5 to 6 cells with the added motion-excerpt column.
+ROW_RE_6COL_ISSUE = re.compile(
+    r"^\|\s*(\d{4}-\d{2}-\d{2})\s*\|(.*?)\|(.*?)\|(.*?)\|(.*?)\|(.*?)\|\s*$"
 )
 
 NOT_CLASSIFIED_PLACEHOLDER = "not classified"
@@ -128,10 +131,10 @@ def main():
 
     for path in sorted(glob.glob(ISSUE_GLOB)):
         for line_no, line in enumerate(open(path, encoding="utf-8"), start=1):
-            m = ROW_RE_5COL.match(line)
+            m = ROW_RE_6COL_ISSUE.match(line)
             if not m:
                 continue
-            _date, _item, whatayeadid, _tally, result = m.groups()
+            _date, _item, whatayeadid, _excerpt, _tally, result = m.groups()
             if "failed" not in result.lower():
                 continue
             if not is_hedged(whatayeadid):

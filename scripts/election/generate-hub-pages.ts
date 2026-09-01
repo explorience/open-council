@@ -68,6 +68,13 @@ interface IssueVote {
   // supermajority failure (see isSupermajorityFailure/resultNote in
   // generate-stances.ts) — null for every ordinary motion.
   resultNote: string | null;
+  // Round-3 gate item 3: a short (~90 char), stage-direction-stripped
+  // excerpt of the motion's own text — same field/function
+  // (motionSnippet()) the councillor-page evidence tables already carry,
+  // now also written onto every issues.json vote row (see writeIssuesFile
+  // in generate-stances.ts) so the issue page can differentiate two
+  // distinct motions that otherwise collide on date/item/tally.
+  motionSnippet: string;
 }
 
 interface IssueEntry {
@@ -164,6 +171,13 @@ interface AxisStance {
     meetingType: string;
     result: string;
     resultNote: string | null;
+    // Round-3 gate item 7: this row's own mechanical role in its decision
+    // ("amendment" vs "approval of the part"), read off its motion text —
+    // see motionRole in generate-stances.ts. Null when the motion's text
+    // doesn't match either pattern. Used by renderLadderExclusions only
+    // when two-plus rows in the SAME group collide on their whatAYeaDid's
+    // opening 40 characters (see that function).
+    role: string | null;
   }[];
   evidence: EvidenceRow[];
 }
@@ -335,6 +349,56 @@ function withStageQualifier(whatAYeaDid: string, meetingType: string): string {
   return `${whatAYeaDid} (committee stage)`;
 }
 
+/** Round-3 gate item 0 (STRUCTURAL, do first): the single place every
+ * rendered "what a yea did" cell or bullet is built, on EVERY table/bullet
+ * template, on BOTH page types (councillor and issue pages). Before this
+ * fix there were four independent inline code paths — renderAxisSection's
+ * evidence table, renderLadderExclusions' bullets, renderUnclearSection's
+ * table, and renderIssueVoteRow's issue-page table — and they had already
+ * drifted out of sync in two different ways this consolidation fixes at
+ * the root instead of patching each site separately:
+ *
+ *   1. renderIssueVoteRow (the one site that never went through a shared
+ *      helper) gated its placeholder text on `v.direction.axis !== null`
+ *      — discarding a real, independently-verified descriptive label on
+ *      any motion whose classification carries a label but no directional
+ *      axis (see directionFromVerified in generate-stances.ts: BOTH
+ *      branches of its return type carry a `label`, always). 297
+ *      issue-page rows with a genuine label printed the bare "Not
+ *      classified" boilerplate instead of it. The correct gate is LABEL
+ *      PRESENCE (hasWhatAYeaDidLabel below), not axis presence.
+ *   2. renderIssueVoteRow never called withStageQualifier at all, so a
+ *      committee-stage motion's bare binding verb ("Approved...",
+ *      "Directed...") went out on issue pages with no stage disclosure —
+ *      the same defect class round-2 gate item 8 fixed on councillor
+ *      pages, just never applied to the other page type. 102 committee
+ *      rows on issue pages had no stage signal.
+ *
+ * `motion` accepts either shape already in play at each call site: an
+ * evidence/ladder-exclusion row's already-resolved `whatAYeaDid` string
+ * (this text already carries generate-stances.ts's own
+ * `c.direction.label || "unclear"` fallback, and any failed-motion "would
+ * have" hedge, baked in upstream at the classification layer — this
+ * function only ever sanitizes and passes it through, never rewrites the
+ * hedge or the prose itself), or an IssueVote's own `direction` object
+ * (same underlying `label` field, read directly since issues.json never
+ * pre-resolves the "unclear" fallback the way stances.json does). */
+function hasWhatAYeaDidLabel(label: string | null | undefined): boolean {
+  return Boolean(label) && label !== "unclear";
+}
+
+const WHAT_A_YEA_DID_PLACEHOLDER =
+  "Not classified — the direction wasn't clear from the motion text (listed for transparency)";
+
+function renderWhatAYeaDid(
+  motion: { whatAYeaDid: string } | { direction: DirectionInfo },
+  context: { meetingType: string },
+): string {
+  const raw = "direction" in motion ? motion.direction.label : motion.whatAYeaDid;
+  const label = hasWhatAYeaDidLabel(raw) ? raw : WHAT_A_YEA_DID_PLACEHOLDER;
+  return tcell(withStageQualifier(label, context.meetingType));
+}
+
 const VOTE_LABEL: Record<string, string> = {
   yea: "Yea",
   nay: "Nay",
@@ -482,26 +546,52 @@ function renderLadderExclusions(axis: AxisStance): string {
   // group's bullets from the next, so a reader can still tell where one
   // ladder ends and another begins.
   const items = [...groups.values()]
-    .map((rows) =>
-      rows
-        .map((ex) => {
-          const link = motionLink(
-            ex.itemTitle || "(untitled item)",
-            ex.anchor,
-            ex.meetingSlug,
-            ex.anchorAmbiguous,
-          );
-          const theirVote = VOTE_LABEL[ex.theirVote] ?? ex.theirVote;
-          // Fixed 2026-08-31 (transit-split gate item 3): the link text
-          // alone (itemTitle) is identical for every row in a group whose
-          // motions share one agenda item — a reader could not tell one
-          // ladder-excluded motion from another. ex.whatAYeaDid is this
-          // row's own independently-verified description of what THIS
-          // motion did (same text the evidence table's own column shows).
-          // Round-2 gate item 8: suffixed the same way the main evidence
-          // table is — a ladder-excluded committee vote still gets the
-          // same committee-stage disclosure as everything else.
-          const whatAYeaDid = withStageQualifier(ex.whatAYeaDid, ex.meetingType);
+    .map((rows) => {
+      // Round-2 gate item 8/round-3 gate item 0: withStageQualifier — see
+      // renderWhatAYeaDid's own doc comment. Round-3 gate item 0: routed
+      // through the single shared helper instead of its own inline call.
+      const rendered = rows.map((ex) => ({
+        ex,
+        link: motionLink(
+          ex.itemTitle || "(untitled item)",
+          ex.anchor,
+          ex.meetingSlug,
+          ex.anchorAmbiguous,
+        ),
+        theirVote: VOTE_LABEL[ex.theirVote] ?? ex.theirVote,
+        // Fixed 2026-08-31 (transit-split gate item 3): the link text alone
+        // (itemTitle) is identical for every row in a group whose motions
+        // share one agenda item — a reader could not tell one
+        // ladder-excluded motion from another. ex.whatAYeaDid is this row's
+        // own independently-verified description of what THIS motion did
+        // (same text the evidence table's own column shows).
+        whatAYeaDid: renderWhatAYeaDid(
+          { whatAYeaDid: ex.whatAYeaDid },
+          { meetingType: ex.meetingType },
+        ),
+      }));
+      // Round-3 gate item 7: when two-plus bullets in this SAME decision
+      // group share their rendered whatAYeaDid's opening 40 characters, the
+      // per-row result tally appended below (round-2 gate item 6) is the
+      // ONLY thing left telling them apart — a reader has to notice and
+      // compare a bare tally number by hand. Append each colliding row's
+      // own distinguishing ROLE (see motionRole in generate-stances.ts:
+      // "amendment" vs "approval of the part", read mechanically off that
+      // row's own motion text, never guessed at) whenever it has one.
+      // Worked example: e-peloza.md's Ark Aid day drop-in pair
+      // (1c0f60d005b5/d2ed469d2746) both open "Approved funding to
+      // continue Ark Aid's " — 1c0f60d005b5 is the amendment adding part
+      // c), d2ed469d2746 is Council's approval of that part as amended.
+      const prefixCounts = new Map<string, number>();
+      for (const r of rendered) {
+        const prefix = r.whatAYeaDid.slice(0, 40);
+        prefixCounts.set(prefix, (prefixCounts.get(prefix) ?? 0) + 1);
+      }
+      return rendered
+        .map(({ ex, link, theirVote, whatAYeaDid }) => {
+          const prefix = whatAYeaDid.slice(0, 40);
+          const collides = (prefixCounts.get(prefix) ?? 0) > 1;
+          const roleSuffix = collides && ex.role ? ` (${ex.role})` : "";
           // Fixed 2026-08-31 (round-2 gate item 6): two rows in the same
           // decision group can otherwise share an identical
           // whatAYeaDid/date/item/direction — e.g. 1c0f60d005b5 and
@@ -512,10 +602,10 @@ function renderLadderExclusions(axis: AxisStance): string {
           // "Motion Passed (11 to 3)" vs "Motion Passed (9 to 5)") means no
           // two bullets in one group are ever identical; see
           // verify-ladder-bullets-distinct.py.
-          return `- ${theirVote}: ${tcell(whatAYeaDid)} — ${link} (${formatDate(ex.date)}, counts as ${ex.axisDirection}, ${resultCell(ex.result, ex.resultNote)})`;
+          return `- ${theirVote}: ${whatAYeaDid}${roleSuffix} — ${link} (${formatDate(ex.date)}, counts as ${ex.axisDirection}, ${resultCell(ex.result, ex.resultNote)})`;
         })
-        .join("\n"),
-    )
+        .join("\n");
+    })
     .join("\n\n");
   const n = axis.ladderExclusions.length;
   const groupCount = groups.size;
@@ -552,9 +642,13 @@ function renderAxisSection(axis: AxisStance): string {
       // the second column, right after Date, so a phone reader sees the
       // vote itself without swiping the table sideways — see the matching
       // header reorder below.
-      // Round-2 gate item 8: withStageQualifier — see its own doc comment.
-      const whatAYeaDid = withStageQualifier(ev.whatAYeaDid, ev.meetingType);
-      return `| ${ev.date} | ${theirVote} | ${tcell(whatAYeaDid)} | ${itemLink} | ${tcell(ev.motionSnippet)} | ${tcell(movedToward)} | ${resultCell(ev.result, ev.resultNote)} |`;
+      // Round-3 gate item 0: routed through the single shared helper — see
+      // renderWhatAYeaDid's own doc comment.
+      const whatAYeaDid = renderWhatAYeaDid(
+        { whatAYeaDid: ev.whatAYeaDid },
+        { meetingType: ev.meetingType },
+      );
+      return `| ${ev.date} | ${theirVote} | ${whatAYeaDid} | ${itemLink} | ${tcell(ev.motionSnippet)} | ${tcell(movedToward)} | ${resultCell(ev.result, ev.resultNote)} |`;
     })
     .join("\n");
 
@@ -702,9 +796,13 @@ function renderUnclearSection(issue: IssueStance): string {
       // nothing but a raw motion-text excerpt to explain them.
       // Round-10 gate item 4: "Their vote" moved to the second column, same
       // reorder as renderAxisSection's evidence table above.
-      // Round-2 gate item 8: withStageQualifier — see its own doc comment.
-      const whatAYeaDid = withStageQualifier(ev.whatAYeaDid, ev.meetingType);
-      return `| ${ev.date} | ${theirVote} | ${tcell(whatAYeaDid)} | ${itemLink} | ${tcell(ev.motionSnippet)} | ${resultCell(ev.result, ev.resultNote)} |`;
+      // Round-3 gate item 0: routed through the single shared helper — see
+      // renderWhatAYeaDid's own doc comment.
+      const whatAYeaDid = renderWhatAYeaDid(
+        { whatAYeaDid: ev.whatAYeaDid },
+        { meetingType: ev.meetingType },
+      );
+      return `| ${ev.date} | ${theirVote} | ${whatAYeaDid} | ${itemLink} | ${tcell(ev.motionSnippet)} | ${resultCell(ev.result, ev.resultNote)} |`;
     })
     .join("\n");
 
@@ -918,9 +1016,13 @@ function renderIssueVoteRow(v: IssueVote): string {
     v.meetingSlug,
     v.anchorAmbiguous,
   );
-  const whatAYeaDid = v.direction.axis
-    ? v.direction.label
-    : "Not classified — the direction wasn't clear from the motion text (listed for transparency)";
+  // Round-3 gate item 0: routed through the single shared helper — see
+  // renderWhatAYeaDid's own doc comment for the two defects this fixes
+  // (the false axis-presence gate, and the missing stage qualifier).
+  const whatAYeaDid = renderWhatAYeaDid(
+    { direction: v.direction },
+    { meetingType: v.meetingType },
+  );
   // Fixed 2026-08-31 (hub-recheck verdict finding 7): the Tally column was
   // previously deleted rather than fixing the cause — a comment admitted
   // the parsed yeas/nays count "disagreed in plain sight" with the minuted
@@ -939,7 +1041,16 @@ function renderIssueVoteRow(v: IssueVote): string {
   const tallyCell = disagrees
     ? `${parsedTally} ⚠️ disagrees with minuted result`
     : parsedTally;
-  return `| ${v.date} | ${itemLink} | ${tcell(whatAYeaDid)} | ${tcell(tallyCell)} | ${resultCell(v.result, v.resultNote)} |`;
+  // Round-3 gate item 3: two distinct motions on the same issue can share
+  // the same date/item/tally (e.g. a committee-stage vote and its own
+  // Council ratification, or two sub-motions under one shared heading) and
+  // render byte-identical rows with no way to tell them apart. This
+  // excerpt (same motionSnippet() function/field the councillor-page
+  // evidence tables already carry — see writeIssuesFile in
+  // generate-stances.ts) is the one field that reliably differs between
+  // two otherwise-identical-looking rows; see
+  // verify-issue-page-rows-distinct.py.
+  return `| ${v.date} | ${itemLink} | ${whatAYeaDid} | ${tcell(v.motionSnippet)} | ${tcell(tallyCell)} | ${resultCell(v.result, v.resultNote)} |`;
 }
 
 // hub-recheck verdict finding 12: issue pages had no disclaimer at all, and
@@ -954,8 +1065,25 @@ function generateIssuePage(
 ): string {
   const sorted = [...issue.votes].sort((a, b) => b.date.localeCompare(a.date));
   const rows = sorted.map(renderIssueVoteRow).join("\n");
-  const clearCount = issue.directionBearingVoteCount;
-  const unclearCount = issue.dividedVoteCount - clearCount;
+  // Fixed 2026-08-31 (round-3 gate item 2): the old sentence ("N of those
+  // had a clear direction; M did not and are marked below rather than
+  // guessed at") was false on every one of the 8 issue pages — it folded
+  // TWO different populations into that single "did not" clause: motions
+  // with a real, independently-verified descriptive label but no
+  // directional axis (these DO have a description; they're just not
+  // countable on a for/against axis), and motions that are genuinely
+  // unclear (no usable description at all). Recomputed directly from each
+  // vote's own direction, not trusted from directionBearingVoteCount alone
+  // (that field only ever covered the first bucket): X carry a clear
+  // direction on a tracked axis (the only bucket counted in any pattern on
+  // this hub); Y carry a descriptive label but no directional axis (listed
+  // below, never counted); Z are genuinely unclear from the motion text.
+  const clearCount = issue.votes.filter((v) => v.direction.axis !== null).length;
+  const labeledNoAxisCount = issue.votes.filter(
+    (v) => v.direction.axis === null && hasWhatAYeaDidLabel(v.direction.label),
+  ).length;
+  const genuinelyUnclearCount =
+    issue.votes.length - clearCount - labeledNoAxisCount;
 
   return `---
 title: "${issue.label} — Election Lens"
@@ -968,14 +1096,14 @@ prefillQuestions: []
 
 # ${issue.label}
 
-${issue.dividedVoteCount} divided (non-unanimous, non-procedural) council or committee votes on this issue since ${formatDate(cutoffDate)}. ${clearCount} of those had a clear "what a yea did" direction; ${unclearCount} did not and are marked below rather than guessed at.
+${issue.dividedVoteCount} divided (non-unanimous, non-procedural) council or committee votes on this issue since ${formatDate(cutoffDate)}: ${clearCount} carry a clear direction on a tracked axis (counted in the patterns on each councillor's [stance profile](/election#councillor-stance-profiles)); ${labeledNoAxisCount} carry a descriptive label but no directional axis (listed below, not counted in any pattern); ${genuinelyUnclearCount} ${genuinelyUnclearCount === 1 ? "is" : "are"} genuinely unclear from the motion text.
 
 ${ISSUE_PAGE_DISCLAIMER}
 
 For how each current councillor voted on these, see their [stance profile](/election#councillor-stance-profiles).
 
-| Date | Item | What a yea did | Tally | Result |
-|------|------|-----------------|:---:|--------|
+| Date | Item | What a yea did | Motion (excerpt) | Tally | Result |
+|------|------|-----------------|-------------------|:---:|--------|
 ${rows}
 
 
