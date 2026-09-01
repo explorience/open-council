@@ -200,7 +200,12 @@ function loadVerifiedClassifications(): Map<string, VerifiedEntry> {
 
 interface Correction {
   id: string;
-  field: "axis" | "polarity" | "whatAYeaDid" | "decisionKey";
+  /** Final gate item 3: "motionText" corrects data/votes/_all-motions.json's
+   * OWN extraction, not a classify-layer field. See RawMotion.motionText's
+   * doc comment and applyMotionTextCorrections below for why this is a
+   * distinct correction target from the other four (which all patch a
+   * VerifiedEntry, keyed the same way but a structurally different map). */
+  field: "axis" | "polarity" | "whatAYeaDid" | "decisionKey" | "motionText";
   was: string | null;
   now: string | null;
   reason: string;
@@ -224,12 +229,69 @@ interface Correction {
  * replaces one piece of free text with another, fixing a defect in the
  * classification layer's own prose (an outcome-verb inversion, or a missing
  * hedge on a Failed motion) without touching axis, polarity, or verdict. */
-function applyCorrections(verified: Map<string, VerifiedEntry>): number {
-  if (!fs.existsSync(CORRECTIONS_PATH)) return 0;
-  const corrections: Correction[] = JSON.parse(
-    fs.readFileSync(CORRECTIONS_PATH, "utf-8"),
-  );
+function loadCorrections(): Correction[] {
+  if (!fs.existsSync(CORRECTIONS_PATH)) return [];
+  return JSON.parse(fs.readFileSync(CORRECTIONS_PATH, "utf-8"));
+}
+
+/** Final gate item 3: data/votes/_all-motions.json's motion extraction
+ * (scripts/generate-votes.ts's extractMotionText) reads only the
+ * vote-bearing eScribe content entry's OWN motion_texts/pre_motion_texts —
+ * when a council vote confirms a motion whose operative text was stated on
+ * the IMMEDIATELY PRECEDING sibling content entry instead (a recurring
+ * eScribe shape: one "moved that the motion be further amended by adding
+ * part f)" entry carrying the text with no vote of its own, followed by a
+ * bare vote-only entry with empty motion_texts), the extracted motionText is
+ * "". A sweep of the full corpus (17,872 motions since 2013) found 75 with
+ * this same empty-motionText shape; within the divided-vote universe this
+ * generator actually publishes (2023+, non-procedural, non-unanimous),
+ * exactly one is affected: 9ddf707bf29d (2023-07-25 Council 8.4.5, the
+ * $374,210 encampments security-funding amendment), rendering a blank
+ * "Motion (excerpt)" cell on all 16 evidence rows it appears in. Fixing the
+ * shared extractor is out of scope for this election-only LENS — it would
+ * touch data/votes/_all-motions.json and every non-election vote page
+ * site-wide, not just this one row. Corrected narrowly and additively here
+ * instead, off the meeting JSON's own text for this one id, the same way a
+ * classify-layer defect is corrected (see applyCorrections below) — just
+ * against RawMotion.motionText rather than a VerifiedEntry field, since a
+ * raw-extraction defect and a classification defect are different targets
+ * even though both are patched from the same corrections.json file. */
+function applyMotionTextCorrections(
+  motionsById: Map<string, RawMotion>,
+  corrections: Correction[],
+): number {
+  let applied = 0;
   for (const c of corrections) {
+    if (c.field !== "motionText") continue;
+    const m = motionsById.get(c.id);
+    if (!m) {
+      throw new Error(
+        `corrections.json references motion ${c.id} (field motionText), which has no entry in data/votes/_all-motions.json at all`,
+      );
+    }
+    if (m.motionText !== c.was) {
+      throw new Error(
+        `corrections.json expected ${c.id}.motionText to currently be ${JSON.stringify(c.was)}, but found ${JSON.stringify(m.motionText)} — the correction is stale (re-derive against the current source data before reapplying)`,
+      );
+    }
+    if (typeof c.now !== "string" || c.now.length === 0) {
+      throw new Error(
+        `corrections.json: ${c.id}.motionText 'now' must be a non-empty string — got ${JSON.stringify(c.now)}`,
+      );
+    }
+    m.motionText = c.now;
+    applied++;
+  }
+  return applied;
+}
+
+function applyCorrections(
+  verified: Map<string, VerifiedEntry>,
+  corrections: Correction[],
+): number {
+  let applied = 0;
+  for (const c of corrections) {
+    if (c.field === "motionText") continue; // handled by applyMotionTextCorrections, against RawMotion not VerifiedEntry
     const entry = verified.get(c.id);
     if (!entry) {
       throw new Error(
@@ -285,8 +347,9 @@ function applyCorrections(verified: Map<string, VerifiedEntry>): number {
       }
       entry.whatAYeaDid = c.now;
     }
+    applied++;
   }
-  return corrections.length;
+  return applied;
 }
 
 /** True when this motion's OWN recorded yea/nay arrays are entirely
@@ -678,12 +741,29 @@ function main() {
   );
   const lookup = buildCouncillorLookup();
 
+  // Final gate item 3: motionText corrections are applied FIRST, against the
+  // raw motions themselves — before the cutoff filter, before
+  // isTruncated/anchor derivation, before anything downstream reads
+  // m.motionText — so a corrected motion behaves exactly as if
+  // data/votes/_all-motions.json had shipped correct in the first place.
+  const allCorrections = loadCorrections();
+  const motionsById = new Map(allMotionsRaw.motions.map((m) => [m.id, m]));
+  const motionTextCorrectionsApplied = applyMotionTextCorrections(
+    motionsById,
+    allCorrections,
+  );
+  if (motionTextCorrectionsApplied > 0) {
+    console.log(
+      `Applied ${motionTextCorrectionsApplied} motionText correction(s) from data/election/classify/corrections.json`,
+    );
+  }
+
   const allSinceCutoff = allMotionsRaw.motions.filter(
     (m) => !m.procedural && !m.unanimous && m.date >= CUTOFF_DATE,
   );
 
   const verified = loadVerifiedClassifications();
-  const correctionsApplied = applyCorrections(verified);
+  const correctionsApplied = applyCorrections(verified, allCorrections);
   if (correctionsApplied > 0) {
     console.log(
       `Applied ${correctionsApplied} classification correction(s) from data/election/classify/corrections.json`,
