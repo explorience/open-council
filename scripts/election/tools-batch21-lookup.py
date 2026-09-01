@@ -4,7 +4,16 @@ straight from a raw meeting JSON file by (meeting-slug, item-number) — used
 while spot-verifying a classify batch (e.g. batch 21) against the source
 record instead of a truncated copy.
 
-Usage: python3 scripts/election/verify-batch21.py <meeting-slug> <item-number>
+Round-3 gate item 6: renamed out of the verify-* namespace (was
+verify-batch21.py). This is a manual, argument-driven lookup CLI, not a
+pass/fail check with an exit code -- glob'ing scripts/election/verify-*.py
+to run "the verify suite" would invoke this, get no CLI args, hit an
+IndexError, and either crash the sweep or (worse) get miscounted as a
+suite member with its own pass/fail semantics. It was never on main; this
+branch added it. Named tools-batch21-lookup.py instead, plus a usage
+message (rather than a crash) on no-args.
+
+Usage: python3 scripts/election/tools-batch21-lookup.py <meeting-slug> <item-number>
 """
 import json, sys, re, os
 
@@ -62,6 +71,9 @@ def print_item(meeting_json_path, item_number, title_filter=None):
         print(f"[Sub-items]: {list(subitems.keys())}")
 
 if __name__ == "__main__":
+    if len(sys.argv) != 3:
+        sys.stderr.write(f"{__doc__}\nGot {len(sys.argv) - 1} argument(s), expected 2.\n")
+        sys.exit(1)
     slug = sys.argv[1]
     item_number = sys.argv[2]
     print_item(slug, item_number)
