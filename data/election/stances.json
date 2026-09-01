@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T00:31:33.056Z",
+  "generatedAt": "2026-09-01T10:44:11.319Z",
   "sourceHash": "b7db59b827637e80",
   "sourceGeneratedAt": "2026-08-31T05:18:27.112Z",
   "cutoffDate": "2023-01-01",
@@ -332,7 +332,7 @@
                   "meetingType": "Council",
                   "result": "Motion Passed (8 to 7)",
                   "resultNote": null,
-                  "role": null
+                  "role": "approval of the part"
                 },
                 {
                   "decisionGroupIndex": 4,
@@ -1264,7 +1264,7 @@
                   "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=5304215d-f350-4b54-93f2-0a2a2128b413&Agenda=PostMinutes&lang=English",
                   "itemNumber": "8.4.5",
                   "itemTitle": "(2.3)  Housing Stability Services 2023-24 Contract Amendments",
-                  "motionSnippet": "",
+                  "motionSnippet": "f) a one-time funding allocation of up to $374,210 from the Social Services Reserve Fun...",
                   "anchor": "/months/2023-07/2023-07-25 13th Meeting of City Council",
                   "anchorAmbiguous": true,
                   "result": "Motion Passed (8 to 7)",
@@ -1274,7 +1274,7 @@
                   "whatAYeaDid": "added a one-time $374,210 allocation from the Social Services Reserve Fund to fund security services at London Cares Homeless Response Services' 602 Queens Avenue and 448 Horton Street locations",
                   "movedToward": "expanded the encampment/homelessness response",
                   "decisionKey": null,
-                  "role": null
+                  "role": "approval of the part"
                 }
               ]
             },
@@ -3145,7 +3145,7 @@
               "tally": "4-1",
               "resultNote": null,
               "theirVote": "absent",
-              "whatAYeaDid": "endorsed continuing added Old East Village homelessness-response safety programming (coordinated outreach response and street cleaning) within the existing Housing Stability Services budget, with no new funding",
+              "whatAYeaDid": "Endorsed additional Old East Village safety and security programming -- Coordinated Informed Response programming and street cleaning -- accommodated within existing Housing Stability Services budgets, with no new funding.",
               "movedToward": null,
               "decisionKey": null,
               "role": null
@@ -15871,7 +15871,7 @@
                   "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=5304215d-f350-4b54-93f2-0a2a2128b413&Agenda=PostMinutes&lang=English",
                   "itemNumber": "8.4.5",
                   "itemTitle": "(2.3)  Housing Stability Services 2023-24 Contract Amendments",
-                  "motionSnippet": "",
+                  "motionSnippet": "f) a one-time funding allocation of up to $374,210 from the Social Services Reserve Fun...",
                   "anchor": "/months/2023-07/2023-07-25 13th Meeting of City Council",
                   "anchorAmbiguous": true,
                   "result": "Motion Passed (8 to 7)",
@@ -15881,7 +15881,7 @@
                   "whatAYeaDid": "added a one-time $374,210 allocation from the Social Services Reserve Fund to fund security services at London Cares Homeless Response Services' 602 Queens Avenue and 448 Horton Street locations",
                   "movedToward": "opposed a measure that would have expanded the encampment/homelessness response",
                   "decisionKey": null,
-                  "role": null
+                  "role": "approval of the part"
                 }
               ]
             },
@@ -28808,7 +28808,7 @@
                   "meetingType": "Council",
                   "result": "Motion Passed (8 to 7)",
                   "resultNote": null,
-                  "role": null
+                  "role": "approval of the part"
                 },
                 {
                   "decisionGroupIndex": 5,
@@ -29696,7 +29696,7 @@
                   "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=5304215d-f350-4b54-93f2-0a2a2128b413&Agenda=PostMinutes&lang=English",
                   "itemNumber": "8.4.5",
                   "itemTitle": "(2.3)  Housing Stability Services 2023-24 Contract Amendments",
-                  "motionSnippet": "",
+                  "motionSnippet": "f) a one-time funding allocation of up to $374,210 from the Social Services Reserve Fun...",
                   "anchor": "/months/2023-07/2023-07-25 13th Meeting of City Council",
                   "anchorAmbiguous": true,
                   "result": "Motion Passed (8 to 7)",
@@ -29706,7 +29706,7 @@
                   "whatAYeaDid": "added a one-time $374,210 allocation from the Social Services Reserve Fund to fund security services at London Cares Homeless Response Services' 602 Queens Avenue and 448 Horton Street locations",
                   "movedToward": "expanded the encampment/homelessness response",
                   "decisionKey": null,
-                  "role": null
+                  "role": "approval of the part"
                 }
               ]
             },
@@ -43765,7 +43765,7 @@
                   "meetingType": "Council",
                   "result": "Motion Passed (8 to 7)",
                   "resultNote": null,
-                  "role": null
+                  "role": "approval of the part"
                 },
                 {
                   "decisionGroupIndex": 5,
@@ -44697,7 +44697,7 @@
                   "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=5304215d-f350-4b54-93f2-0a2a2128b413&Agenda=PostMinutes&lang=English",
                   "itemNumber": "8.4.5",
                   "itemTitle": "(2.3)  Housing Stability Services 2023-24 Contract Amendments",
-                  "motionSnippet": "",
+                  "motionSnippet": "f) a one-time funding allocation of up to $374,210 from the Social Services Reserve Fun...",
                   "anchor": "/months/2023-07/2023-07-25 13th Meeting of City Council",
                   "anchorAmbiguous": true,
                   "result": "Motion Passed (8 to 7)",
@@ -44707,7 +44707,7 @@
                   "whatAYeaDid": "added a one-time $374,210 allocation from the Social Services Reserve Fund to fund security services at London Cares Homeless Response Services' 602 Queens Avenue and 448 Horton Street locations",
                   "movedToward": "expanded the encampment/homelessness response",
                   "decisionKey": null,
-                  "role": null
+                  "role": "approval of the part"
                 }
               ]
             },
@@ -58199,7 +58199,7 @@
                   "meetingType": "Council",
                   "result": "Motion Passed (8 to 7)",
                   "resultNote": null,
-                  "role": null
+                  "role": "approval of the part"
                 },
                 {
                   "decisionGroupIndex": 4,
@@ -59065,7 +59065,7 @@
                   "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=5304215d-f350-4b54-93f2-0a2a2128b413&Agenda=PostMinutes&lang=English",
                   "itemNumber": "8.4.5",
                   "itemTitle": "(2.3)  Housing Stability Services 2023-24 Contract Amendments",
-                  "motionSnippet": "",
+                  "motionSnippet": "f) a one-time funding allocation of up to $374,210 from the Social Services Reserve Fun...",
                   "anchor": "/months/2023-07/2023-07-25 13th Meeting of City Council",
                   "anchorAmbiguous": true,
                   "result": "Motion Passed (8 to 7)",
@@ -59075,7 +59075,7 @@
                   "whatAYeaDid": "added a one-time $374,210 allocation from the Social Services Reserve Fund to fund security services at London Cares Homeless Response Services' 602 Queens Avenue and 448 Horton Street locations",
                   "movedToward": "expanded the encampment/homelessness response",
                   "decisionKey": null,
-                  "role": null
+                  "role": "approval of the part"
                 }
               ]
             },
@@ -60924,7 +60924,7 @@
               "tally": "4-1",
               "resultNote": null,
               "theirVote": "yea",
-              "whatAYeaDid": "endorsed continuing added Old East Village homelessness-response safety programming (coordinated outreach response and street cleaning) within the existing Housing Stability Services budget, with no new funding",
+              "whatAYeaDid": "Endorsed additional Old East Village safety and security programming -- Coordinated Informed Response programming and street cleaning -- accommodated within existing Housing Stability Services budgets, with no new funding.",
               "movedToward": null,
               "decisionKey": null,
               "role": null
@@ -71940,7 +71940,7 @@
                   "meetingType": "Council",
                   "result": "Motion Passed (8 to 7)",
                   "resultNote": null,
-                  "role": null
+                  "role": "approval of the part"
                 },
                 {
                   "decisionGroupIndex": 6,
@@ -72916,7 +72916,7 @@
                   "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=5304215d-f350-4b54-93f2-0a2a2128b413&Agenda=PostMinutes&lang=English",
                   "itemNumber": "8.4.5",
                   "itemTitle": "(2.3)  Housing Stability Services 2023-24 Contract Amendments",
-                  "motionSnippet": "",
+                  "motionSnippet": "f) a one-time funding allocation of up to $374,210 from the Social Services Reserve Fun...",
                   "anchor": "/months/2023-07/2023-07-25 13th Meeting of City Council",
                   "anchorAmbiguous": true,
                   "result": "Motion Passed (8 to 7)",
@@ -72926,7 +72926,7 @@
                   "whatAYeaDid": "added a one-time $374,210 allocation from the Social Services Reserve Fund to fund security services at London Cares Homeless Response Services' 602 Queens Avenue and 448 Horton Street locations",
                   "movedToward": "expanded the encampment/homelessness response",
                   "decisionKey": null,
-                  "role": null
+                  "role": "approval of the part"
                 }
               ]
             },
@@ -74973,7 +74973,7 @@
               "tally": "4-1",
               "resultNote": null,
               "theirVote": "yea",
-              "whatAYeaDid": "endorsed continuing added Old East Village homelessness-response safety programming (coordinated outreach response and street cleaning) within the existing Housing Stability Services budget, with no new funding",
+              "whatAYeaDid": "Endorsed additional Old East Village safety and security programming -- Coordinated Informed Response programming and street cleaning -- accommodated within existing Housing Stability Services budgets, with no new funding.",
               "movedToward": null,
               "decisionKey": null,
               "role": null
@@ -85822,7 +85822,7 @@
                   "meetingType": "Council",
                   "result": "Motion Passed (8 to 7)",
                   "resultNote": null,
-                  "role": null
+                  "role": "approval of the part"
                 },
                 {
                   "decisionGroupIndex": 3,
@@ -86798,7 +86798,7 @@
                   "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=5304215d-f350-4b54-93f2-0a2a2128b413&Agenda=PostMinutes&lang=English",
                   "itemNumber": "8.4.5",
                   "itemTitle": "(2.3)  Housing Stability Services 2023-24 Contract Amendments",
-                  "motionSnippet": "",
+                  "motionSnippet": "f) a one-time funding allocation of up to $374,210 from the Social Services Reserve Fun...",
                   "anchor": "/months/2023-07/2023-07-25 13th Meeting of City Council",
                   "anchorAmbiguous": true,
                   "result": "Motion Passed (8 to 7)",
@@ -86808,7 +86808,7 @@
                   "whatAYeaDid": "added a one-time $374,210 allocation from the Social Services Reserve Fund to fund security services at London Cares Homeless Response Services' 602 Queens Avenue and 448 Horton Street locations",
                   "movedToward": "opposed a measure that would have expanded the encampment/homelessness response",
                   "decisionKey": null,
-                  "role": null
+                  "role": "approval of the part"
                 }
               ]
             },
@@ -100841,7 +100841,7 @@
                   "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=5304215d-f350-4b54-93f2-0a2a2128b413&Agenda=PostMinutes&lang=English",
                   "itemNumber": "8.4.5",
                   "itemTitle": "(2.3)  Housing Stability Services 2023-24 Contract Amendments",
-                  "motionSnippet": "",
+                  "motionSnippet": "f) a one-time funding allocation of up to $374,210 from the Social Services Reserve Fun...",
                   "anchor": "/months/2023-07/2023-07-25 13th Meeting of City Council",
                   "anchorAmbiguous": true,
                   "result": "Motion Passed (8 to 7)",
@@ -100851,7 +100851,7 @@
                   "whatAYeaDid": "added a one-time $374,210 allocation from the Social Services Reserve Fund to fund security services at London Cares Homeless Response Services' 602 Queens Avenue and 448 Horton Street locations",
                   "movedToward": "opposed a measure that would have expanded the encampment/homelessness response",
                   "decisionKey": null,
-                  "role": null
+                  "role": "approval of the part"
                 }
               ]
             },
@@ -102635,7 +102635,7 @@
               "tally": "4-1",
               "resultNote": null,
               "theirVote": "yea",
-              "whatAYeaDid": "endorsed continuing added Old East Village homelessness-response safety programming (coordinated outreach response and street cleaning) within the existing Housing Stability Services budget, with no new funding",
+              "whatAYeaDid": "Endorsed additional Old East Village safety and security programming -- Coordinated Informed Response programming and street cleaning -- accommodated within existing Housing Stability Services budgets, with no new funding.",
               "movedToward": null,
               "decisionKey": null,
               "role": null
@@ -114347,7 +114347,7 @@
                   "meetingType": "Council",
                   "result": "Motion Passed (8 to 7)",
                   "resultNote": null,
-                  "role": null
+                  "role": "approval of the part"
                 },
                 {
                   "decisionGroupIndex": 5,
@@ -115213,7 +115213,7 @@
                   "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=5304215d-f350-4b54-93f2-0a2a2128b413&Agenda=PostMinutes&lang=English",
                   "itemNumber": "8.4.5",
                   "itemTitle": "(2.3)  Housing Stability Services 2023-24 Contract Amendments",
-                  "motionSnippet": "",
+                  "motionSnippet": "f) a one-time funding allocation of up to $374,210 from the Social Services Reserve Fun...",
                   "anchor": "/months/2023-07/2023-07-25 13th Meeting of City Council",
                   "anchorAmbiguous": true,
                   "result": "Motion Passed (8 to 7)",
@@ -115223,7 +115223,7 @@
                   "whatAYeaDid": "added a one-time $374,210 allocation from the Social Services Reserve Fund to fund security services at London Cares Homeless Response Services' 602 Queens Avenue and 448 Horton Street locations",
                   "movedToward": "expanded the encampment/homelessness response",
                   "decisionKey": null,
-                  "role": null
+                  "role": "approval of the part"
                 }
               ]
             },
@@ -128962,7 +128962,7 @@
                   "meetingType": "Council",
                   "result": "Motion Passed (8 to 7)",
                   "resultNote": null,
-                  "role": null
+                  "role": "approval of the part"
                 },
                 {
                   "decisionGroupIndex": 3,
@@ -129872,7 +129872,7 @@
                   "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=5304215d-f350-4b54-93f2-0a2a2128b413&Agenda=PostMinutes&lang=English",
                   "itemNumber": "8.4.5",
                   "itemTitle": "(2.3)  Housing Stability Services 2023-24 Contract Amendments",
-                  "motionSnippet": "",
+                  "motionSnippet": "f) a one-time funding allocation of up to $374,210 from the Social Services Reserve Fun...",
                   "anchor": "/months/2023-07/2023-07-25 13th Meeting of City Council",
                   "anchorAmbiguous": true,
                   "result": "Motion Passed (8 to 7)",
@@ -129882,7 +129882,7 @@
                   "whatAYeaDid": "added a one-time $374,210 allocation from the Social Services Reserve Fund to fund security services at London Cares Homeless Response Services' 602 Queens Avenue and 448 Horton Street locations",
                   "movedToward": "opposed a measure that would have expanded the encampment/homelessness response",
                   "decisionKey": null,
-                  "role": null
+                  "role": "approval of the part"
                 }
               ]
             },
@@ -142822,7 +142822,7 @@
                   "meetingType": "Council",
                   "result": "Motion Passed (8 to 7)",
                   "resultNote": null,
-                  "role": null
+                  "role": "approval of the part"
                 },
                 {
                   "decisionGroupIndex": 3,
@@ -143688,7 +143688,7 @@
                   "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=5304215d-f350-4b54-93f2-0a2a2128b413&Agenda=PostMinutes&lang=English",
                   "itemNumber": "8.4.5",
                   "itemTitle": "(2.3)  Housing Stability Services 2023-24 Contract Amendments",
-                  "motionSnippet": "",
+                  "motionSnippet": "f) a one-time funding allocation of up to $374,210 from the Social Services Reserve Fun...",
                   "anchor": "/months/2023-07/2023-07-25 13th Meeting of City Council",
                   "anchorAmbiguous": true,
                   "result": "Motion Passed (8 to 7)",
@@ -143698,7 +143698,7 @@
                   "whatAYeaDid": "added a one-time $374,210 allocation from the Social Services Reserve Fund to fund security services at London Cares Homeless Response Services' 602 Queens Avenue and 448 Horton Street locations",
                   "movedToward": "expanded the encampment/homelessness response",
                   "decisionKey": null,
-                  "role": null
+                  "role": "approval of the part"
                 }
               ]
             },
@@ -157155,7 +157155,7 @@
                   "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=5304215d-f350-4b54-93f2-0a2a2128b413&Agenda=PostMinutes&lang=English",
                   "itemNumber": "8.4.5",
                   "itemTitle": "(2.3)  Housing Stability Services 2023-24 Contract Amendments",
-                  "motionSnippet": "",
+                  "motionSnippet": "f) a one-time funding allocation of up to $374,210 from the Social Services Reserve Fun...",
                   "anchor": "/months/2023-07/2023-07-25 13th Meeting of City Council",
                   "anchorAmbiguous": true,
                   "result": "Motion Passed (8 to 7)",
@@ -157165,7 +157165,7 @@
                   "whatAYeaDid": "added a one-time $374,210 allocation from the Social Services Reserve Fund to fund security services at London Cares Homeless Response Services' 602 Queens Avenue and 448 Horton Street locations",
                   "movedToward": "opposed a measure that would have expanded the encampment/homelessness response",
                   "decisionKey": null,
-                  "role": null
+                  "role": "approval of the part"
                 }
               ]
             },
@@ -170619,7 +170619,7 @@
                   "meetingType": "Council",
                   "result": "Motion Passed (8 to 7)",
                   "resultNote": null,
-                  "role": null
+                  "role": "approval of the part"
                 },
                 {
                   "decisionGroupIndex": 2,
@@ -171507,7 +171507,7 @@
                   "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=5304215d-f350-4b54-93f2-0a2a2128b413&Agenda=PostMinutes&lang=English",
                   "itemNumber": "8.4.5",
                   "itemTitle": "(2.3)  Housing Stability Services 2023-24 Contract Amendments",
-                  "motionSnippet": "",
+                  "motionSnippet": "f) a one-time funding allocation of up to $374,210 from the Social Services Reserve Fun...",
                   "anchor": "/months/2023-07/2023-07-25 13th Meeting of City Council",
                   "anchorAmbiguous": true,
                   "result": "Motion Passed (8 to 7)",
@@ -171517,7 +171517,7 @@
                   "whatAYeaDid": "added a one-time $374,210 allocation from the Social Services Reserve Fund to fund security services at London Cares Homeless Response Services' 602 Queens Avenue and 448 Horton Street locations",
                   "movedToward": "opposed a measure that would have expanded the encampment/homelessness response",
                   "decisionKey": null,
-                  "role": null
+                  "role": "approval of the part"
                 }
               ]
             },
@@ -173520,7 +173520,7 @@
               "tally": "4-1",
               "resultNote": null,
               "theirVote": "yea",
-              "whatAYeaDid": "endorsed continuing added Old East Village homelessness-response safety programming (coordinated outreach response and street cleaning) within the existing Housing Stability Services budget, with no new funding",
+              "whatAYeaDid": "Endorsed additional Old East Village safety and security programming -- Coordinated Informed Response programming and street cleaning -- accommodated within existing Housing Stability Services budgets, with no new funding.",
               "movedToward": null,
               "decisionKey": null,
               "role": null
@@ -184986,7 +184986,7 @@
                   "meetingType": "Council",
                   "result": "Motion Passed (8 to 7)",
                   "resultNote": null,
-                  "role": null
+                  "role": "approval of the part"
                 },
                 {
                   "decisionGroupIndex": 4,
@@ -185962,7 +185962,7 @@
                   "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=5304215d-f350-4b54-93f2-0a2a2128b413&Agenda=PostMinutes&lang=English",
                   "itemNumber": "8.4.5",
                   "itemTitle": "(2.3)  Housing Stability Services 2023-24 Contract Amendments",
-                  "motionSnippet": "",
+                  "motionSnippet": "f) a one-time funding allocation of up to $374,210 from the Social Services Reserve Fun...",
                   "anchor": "/months/2023-07/2023-07-25 13th Meeting of City Council",
                   "anchorAmbiguous": true,
                   "result": "Motion Passed (8 to 7)",
@@ -185972,7 +185972,7 @@
                   "whatAYeaDid": "added a one-time $374,210 allocation from the Social Services Reserve Fund to fund security services at London Cares Homeless Response Services' 602 Queens Avenue and 448 Horton Street locations",
                   "movedToward": "opposed a measure that would have expanded the encampment/homelessness response",
                   "decisionKey": null,
-                  "role": null
+                  "role": "approval of the part"
                 }
               ]
             },
@@ -187954,7 +187954,7 @@
               "tally": "4-1",
               "resultNote": null,
               "theirVote": "nay",
-              "whatAYeaDid": "endorsed continuing added Old East Village homelessness-response safety programming (coordinated outreach response and street cleaning) within the existing Housing Stability Services budget, with no new funding",
+              "whatAYeaDid": "Endorsed additional Old East Village safety and security programming -- Coordinated Informed Response programming and street cleaning -- accommodated within existing Housing Stability Services budgets, with no new funding.",
               "movedToward": null,
               "decisionKey": null,
               "role": null
@@ -199167,7 +199167,7 @@
                   "meetingType": "Council",
                   "result": "Motion Passed (8 to 7)",
                   "resultNote": null,
-                  "role": null
+                  "role": "approval of the part"
                 },
                 {
                   "decisionGroupIndex": 2,
@@ -200033,7 +200033,7 @@
                   "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=5304215d-f350-4b54-93f2-0a2a2128b413&Agenda=PostMinutes&lang=English",
                   "itemNumber": "8.4.5",
                   "itemTitle": "(2.3)  Housing Stability Services 2023-24 Contract Amendments",
-                  "motionSnippet": "",
+                  "motionSnippet": "f) a one-time funding allocation of up to $374,210 from the Social Services Reserve Fun...",
                   "anchor": "/months/2023-07/2023-07-25 13th Meeting of City Council",
                   "anchorAmbiguous": true,
                   "result": "Motion Passed (8 to 7)",
@@ -200043,7 +200043,7 @@
                   "whatAYeaDid": "added a one-time $374,210 allocation from the Social Services Reserve Fund to fund security services at London Cares Homeless Response Services' 602 Queens Avenue and 448 Horton Street locations",
                   "movedToward": "expanded the encampment/homelessness response",
                   "decisionKey": null,
-                  "role": null
+                  "role": "approval of the part"
                 }
               ]
             },

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T00:31:32.869Z",
+  "generatedAt": "2026-09-01T10:44:10.663Z",
   "sourceHash": "b7db59b827637e80",
   "sourceGeneratedAt": "2026-08-31T05:18:27.112Z",
   "cutoffDate": "2023-01-01",
@@ -6193,7 +6193,7 @@
           "matchedKeywords": [],
           "direction": {
             "axis": null,
-            "label": "endorsed continuing added Old East Village homelessness-response safety programming (coordinated outreach response and street cleaning) within the existing Housing Stability Services budget, with no new funding"
+            "label": "Endorsed additional Old East Village safety and security programming -- Coordinated Informed Response programming and street cleaning -- accommodated within existing Housing Stability Services budgets, with no new funding."
           },
           "positions": {
             "s-stevenson": "yea",
@@ -6323,7 +6323,7 @@
           "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=5304215d-f350-4b54-93f2-0a2a2128b413&Agenda=PostMinutes&lang=English",
           "itemNumber": "8.4.5",
           "itemTitle": "(2.3)  Housing Stability Services 2023-24 Contract Amendments",
-          "motionText": "",
+          "motionText": "f)   a one-time funding allocation of up to $374,210 from the Social Services Reserve Fund for London Cares Homeless Response Services to support security services for 602 Queens Avenue and 448 Horton Street locations as outlined on the Schedule 1 of the staff report dated July 18, 2023;",
           "result": "Motion Passed (8 to 7)",
           "passed": true,
           "margin": 1,
@@ -6365,7 +6365,7 @@
             "d-ferreira": "nay"
           },
           "resultNote": null,
-          "motionSnippet": ""
+          "motionSnippet": "f) a one-time funding allocation of up to $374,210 from the Social Services Reserve Fun..."
         },
         {
           "id": "c2516caecfbb",
