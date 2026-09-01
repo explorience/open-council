@@ -5,18 +5,18 @@ slug: "d-brown"
 meetingCount: 95
 yearsActive: "2010 - 2014"
 isCurrent: false
-totalVotes: 2716
-votesYea: 2538
-votesNay: 178
+totalVotes: 2606
+votesYea: 2450
+votesNay: 156
 votesAbsent: 0
 votesRecused: 0
 votesAbstained: 0
 votesOther: 0
 attendanceRate: 88.4
 participationRate: 100.0
-yeaRate: 93.4
-contestedDissentRate: 20.1
-contestedVotes: 742
+yeaRate: 94.0
+contestedDissentRate: 19.1
+contestedVotes: 665
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,9 +33,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 2,716 |
-| Voted Yea | 2,538 (93.4%) |
-| Voted Nay | 178 (6.6%) |
+| Total Votes | 2,606 |
+| Voted Yea | 2,450 (94.0%) |
+| Voted Nay | 156 (6.0%) |
 | Absent | 0 (0.0%) |
 | Recused (conflict of interest) | 0 (0.0%) |
 | Abstained | 0 (0.0%) |
@@ -49,17 +49,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,406 |
-| Voted Yea | 2,228 (92.6%) |
-| Voted Nay | 178 (7.4%) |
+| Substantive Votes | 2,298 |
+| Voted Yea | 2,142 (93.2%) |
+| Voted Nay | 156 (6.8%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 20.1%
-- **Contested Votes**: 742
+- **Dissent Rate**: 19.1%
+- **Contested Votes**: 665
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -70,9 +70,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 413 |
-| Voted Yea | 355 (86.0%) |
-| Voted Nay | 58 (14.0%) |
+| Budget Votes | 382 |
+| Voted Yea | 340 (89.0%) |
+| Voted Nay | 42 (11.0%) |
 | Absent | 0 |
 
 
@@ -94,8 +94,8 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 2,224 | 2,099 | 125 | 100.0% |
-| Strategic Priorities and Policy Committee | 328 | 278 | 50 | 100.0% |
+| Council | 2,137 | 2,020 | 117 | 100.0% |
+| Strategic Priorities and Policy Committee | 305 | 269 | 36 | 100.0% |
 | Community and Protective Services Committee | 164 | 161 | 3 | 100.0% |
 
 

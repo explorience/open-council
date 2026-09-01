@@ -5,18 +5,18 @@ slug: "p-cuddy"
 meetingCount: 236
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 4411
+totalVotes: 4175
 votesYea: 3712
 votesNay: 355
 votesAbsent: 97
 votesRecused: 11
-votesAbstained: 1
-votesOther: 235
+votesAbstained: 0
+votesOther: 0
 attendanceRate: 98.3
-participationRate: 92.2
+participationRate: 97.4
 yeaRate: 91.3
-contestedDissentRate: 11.6
-contestedVotes: 1549
+contestedDissentRate: 15.5
+contestedVotes: 946
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,13 +33,12 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 4,411 |
-| Voted Yea | 3,712 (84.2%) |
-| Voted Nay | 355 (8.0%) |
-| Absent | 97 (2.2%) |
-| Recused (conflict of interest) | 11 (0.2%) |
-| Abstained | 1 (0.0%) |
-| Other/Unrecorded | 235 (5.3%) |
+| Total Votes | 4,175 |
+| Voted Yea | 3,712 (88.9%) |
+| Voted Nay | 355 (8.5%) |
+| Absent | 97 (2.3%) |
+| Recused (conflict of interest) | 11 (0.3%) |
+| Abstained | 0 (0.0%) |
 
 *Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
 
@@ -50,17 +49,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,991 |
-| Voted Yea | 2,339 (86.8%) |
-| Voted Nay | 355 (13.2%) |
+| Substantive Votes | 2,125 |
+| Voted Yea | 1,774 (84.8%) |
+| Voted Nay | 317 (15.2%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 11.6%
-- **Contested Votes**: 1,549
+- **Dissent Rate**: 15.5%
+- **Contested Votes**: 946
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -110,8 +109,8 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 2,119 | 1,882 | 165 | 96.6% |
-| Strategic Priorities and Policy Committee | 1,092 | 780 | 86 | 79.3% |
+| Council | 2,108 | 1,882 | 165 | 97.1% |
+| Strategic Priorities and Policy Committee | 867 | 780 | 86 | 99.9% |
 | Planning and Environment Committee | 720 | 678 | 10 | 95.6% |
 | Budget Committee | 189 | 116 | 73 | 100.0% |
 | Community and Protective Services Committee | 122 | 101 | 13 | 93.4% |

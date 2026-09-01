@@ -5,18 +5,18 @@ slug: "e-holder"
 meetingCount: 313
 yearsActive: "2018 - 2022"
 isCurrent: false
-totalVotes: 5594
+totalVotes: 5540
 votesYea: 4061
 votesNay: 185
-votesAbsent: 1262
+votesAbsent: 1255
 votesRecused: 36
 votesAbstained: 0
-votesOther: 50
+votesOther: 3
 attendanceRate: 78.6
-participationRate: 75.9
+participationRate: 76.6
 yeaRate: 95.6
-contestedDissentRate: 12.3
-contestedVotes: 960
+contestedDissentRate: 13.6
+contestedVotes: 663
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,13 +33,13 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 5,594 |
-| Voted Yea | 4,061 (72.6%) |
+| Total Votes | 5,540 |
+| Voted Yea | 4,061 (73.3%) |
 | Voted Nay | 185 (3.3%) |
-| Absent | 1,262 (22.6%) |
+| Absent | 1,255 (22.7%) |
 | Recused (conflict of interest) | 36 (0.6%) |
 | Abstained | 0 (0.0%) |
-| Other/Unrecorded | 50 (0.9%) |
+| Other/Unrecorded | 3 (0.1%) |
 
 *Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
 
@@ -50,17 +50,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 3,025 |
-| Voted Yea | 2,232 (92.3%) |
-| Voted Nay | 185 (7.7%) |
+| Substantive Votes | 2,638 |
+| Voted Yea | 1,968 (92.8%) |
+| Voted Nay | 152 (7.2%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 12.3%
-- **Contested Votes**: 960
+- **Dissent Rate**: 13.6%
+- **Contested Votes**: 663
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -97,9 +97,9 @@ prefillQuestions:
 |-----------|------:|----:|----:|--------------:|
 | Council | 2,123 | 1,925 | 90 | 94.9% |
 | Planning and Environment Committee | 1,366 | 709 | 21 | 53.4% |
-| Strategic Priorities and Policy Committee | 903 | 722 | 49 | 85.4% |
+| Strategic Priorities and Policy Committee | 859 | 722 | 49 | 89.8% |
 | Community and Protective Services Committee | 432 | 276 | 5 | 65.0% |
-| Corporate Services Committee | 394 | 246 | 13 | 65.7% |
+| Corporate Services Committee | 384 | 246 | 13 | 67.4% |
 | Civic Works Committee | 376 | 183 | 7 | 50.5% |
 
 

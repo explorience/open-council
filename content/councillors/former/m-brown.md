@@ -5,18 +5,18 @@ slug: "m-brown"
 meetingCount: 328
 yearsActive: "2010 - 2018"
 isCurrent: false
-totalVotes: 7392
-votesYea: 6817
-votesNay: 355
+totalVotes: 7235
+votesYea: 6687
+votesNay: 328
 votesAbsent: 220
 votesRecused: 0
 votesAbstained: 0
 votesOther: 0
 attendanceRate: 93.3
 participationRate: 97.0
-yeaRate: 95.1
-contestedDissentRate: 13.6
-contestedVotes: 1829
+yeaRate: 95.3
+contestedDissentRate: 12.5
+contestedVotes: 1675
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -34,9 +34,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 7,392 |
-| Voted Yea | 6,817 (92.2%) |
-| Voted Nay | 355 (4.8%) |
+| Total Votes | 7,235 |
+| Voted Yea | 6,687 (92.4%) |
+| Voted Nay | 328 (4.5%) |
 | Absent | 220 (3.0%) |
 | Recused (conflict of interest) | 0 (0.0%) |
 | Abstained | 0 (0.0%) |
@@ -50,17 +50,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 5,956 |
-| Voted Yea | 5,505 (93.9%) |
-| Voted Nay | 355 (6.1%) |
+| Substantive Votes | 5,761 |
+| Voted Yea | 5,346 (94.3%) |
+| Voted Nay | 324 (5.7%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 13.6%
-- **Contested Votes**: 1,829
+- **Dissent Rate**: 12.5%
+- **Contested Votes**: 1,675
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -71,9 +71,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 899 |
-| Voted Yea | 797 (90.2%) |
-| Voted Nay | 87 (9.8%) |
+| Budget Votes | 852 |
+| Voted Yea | 771 (92.1%) |
+| Voted Nay | 66 (7.9%) |
 | Absent | 15 |
 
 
@@ -95,11 +95,11 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 4,852 | 4,630 | 222 | 100.0% |
-| Strategic Priorities and Policy Committee | 1,184 | 1,080 | 104 | 100.0% |
-| Planning and Environment Committee | 575 | 445 | 15 | 80.0% |
+| Council | 4,736 | 4,521 | 215 | 100.0% |
+| Strategic Priorities and Policy Committee | 1,147 | 1,063 | 84 | 100.0% |
+| Planning and Environment Committee | 572 | 442 | 15 | 79.9% |
 | Civic Works Committee | 272 | 215 | 6 | 81.3% |
-| Community and Protective Services Committee | 271 | 248 | 5 | 93.4% |
+| Community and Protective Services Committee | 270 | 247 | 5 | 93.3% |
 | Corporate Services Committee | 238 | 199 | 3 | 84.9% |
 
 

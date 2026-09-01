@@ -5,18 +5,18 @@ slug: "s-lewis"
 meetingCount: 529
 yearsActive: "2018 - 2026"
 isCurrent: true
-totalVotes: 9590
+totalVotes: 9262
 votesYea: 8338
 votesNay: 539
 votesAbsent: 262
 votesRecused: 0
-votesAbstained: 24
-votesOther: 427
+votesAbstained: 12
+votesOther: 111
 attendanceRate: 98.4
-participationRate: 92.6
+participationRate: 95.8
 yeaRate: 93.9
-contestedDissentRate: 11.6
-contestedVotes: 2543
+contestedDissentRate: 15.7
+contestedVotes: 1615
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,13 +33,13 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 9,590 |
-| Voted Yea | 8,338 (86.9%) |
-| Voted Nay | 539 (5.6%) |
-| Absent | 262 (2.7%) |
+| Total Votes | 9,262 |
+| Voted Yea | 8,338 (90.0%) |
+| Voted Nay | 539 (5.8%) |
+| Absent | 262 (2.8%) |
 | Recused (conflict of interest) | 0 (0.0%) |
-| Abstained | 24 (0.3%) |
-| Other/Unrecorded | 427 (4.5%) |
+| Abstained | 12 (0.1%) |
+| Other/Unrecorded | 111 (1.2%) |
 
 *Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
 
@@ -50,17 +50,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 5,792 |
-| Voted Yea | 4,684 (89.7%) |
-| Voted Nay | 539 (10.3%) |
+| Substantive Votes | 4,523 |
+| Voted Yea | 3,821 (89.0%) |
+| Voted Nay | 474 (11.0%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 11.6%
-- **Contested Votes**: 2,543
+- **Dissent Rate**: 15.7%
+- **Contested Votes**: 1,615
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -110,13 +110,13 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 4,232 | 3,895 | 260 | 98.2% |
-| Planning and Environment Committee | 2,227 | 2,080 | 42 | 95.3% |
-| Strategic Priorities and Policy Committee | 2,125 | 1,530 | 144 | 78.8% |
+| Council | 4,221 | 3,895 | 260 | 98.4% |
+| Planning and Environment Committee | 2,226 | 2,080 | 42 | 95.3% |
+| Strategic Priorities and Policy Committee | 1,835 | 1,530 | 144 | 91.2% |
 | Community and Protective Services Committee | 386 | 366 | 13 | 98.2% |
 | Civic Works Committee | 220 | 203 | 3 | 93.6% |
-| Corporate Services Committee | 202 | 168 | 8 | 87.1% |
 | Budget Committee | 189 | 96 | 69 | 87.3% |
+| Corporate Services Committee | 176 | 168 | 8 | 100.0% |
 | Infrastructure and Corporate Services Committee | 9 | 0 | 0 | 0.0% |
 
 

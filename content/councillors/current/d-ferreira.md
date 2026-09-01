@@ -5,18 +5,18 @@ slug: "d-ferreira"
 meetingCount: 240
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 4038
+totalVotes: 3786
 votesYea: 3224
 votesNay: 417
 votesAbsent: 144
 votesRecused: 1
-votesAbstained: 4
-votesOther: 248
+votesAbstained: 0
+votesOther: 0
 attendanceRate: 97.5
-participationRate: 90.2
+participationRate: 96.2
 yeaRate: 88.5
-contestedDissentRate: 27.1
-contestedVotes: 1524
+contestedDissentRate: 32.3
+contestedVotes: 956
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,13 +33,12 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 4,038 |
-| Voted Yea | 3,224 (79.8%) |
-| Voted Nay | 417 (10.3%) |
-| Absent | 144 (3.6%) |
+| Total Votes | 3,786 |
+| Voted Yea | 3,224 (85.2%) |
+| Voted Nay | 417 (11.0%) |
+| Absent | 144 (3.8%) |
 | Recused (conflict of interest) | 1 (0.0%) |
-| Abstained | 4 (0.1%) |
-| Other/Unrecorded | 248 (6.1%) |
+| Abstained | 0 (0.0%) |
 
 *Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
 
@@ -50,17 +49,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 3,046 |
-| Voted Yea | 2,272 (84.5%) |
-| Voted Nay | 417 (15.5%) |
+| Substantive Votes | 2,181 |
+| Voted Yea | 1,805 (85.1%) |
+| Voted Nay | 316 (14.9%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 27.1%
-- **Contested Votes**: 1,524
+- **Dissent Rate**: 32.3%
+- **Contested Votes**: 956
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -110,11 +109,11 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 2,119 | 1,795 | 241 | 96.1% |
-| Strategic Priorities and Policy Committee | 1,084 | 729 | 91 | 75.6% |
+| Council | 2,108 | 1,795 | 241 | 96.6% |
+| Strategic Priorities and Policy Committee | 867 | 729 | 91 | 94.6% |
 | Community and Protective Services Committee | 468 | 417 | 35 | 96.6% |
 | Budget Committee | 189 | 139 | 50 | 100.0% |
-| Corporate Services Committee | 123 | 92 | 0 | 74.8% |
+| Corporate Services Committee | 99 | 92 | 0 | 92.9% |
 | Civic Works Committee | 55 | 52 | 0 | 94.5% |
 
 

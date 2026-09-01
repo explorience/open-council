@@ -5,18 +5,18 @@ slug: "s-franke"
 meetingCount: 225
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 4442
+totalVotes: 4206
 votesYea: 3679
 votesNay: 347
-votesAbsent: 157
+votesAbsent: 156
 votesRecused: 24
 votesAbstained: 0
-votesOther: 235
+votesOther: 0
 attendanceRate: 96.0
-participationRate: 90.6
+participationRate: 95.7
 yeaRate: 91.4
-contestedDissentRate: 23.6
-contestedVotes: 1518
+contestedDissentRate: 31.3
+contestedVotes: 922
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,13 +33,12 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 4,442 |
-| Voted Yea | 3,679 (82.8%) |
-| Voted Nay | 347 (7.8%) |
-| Absent | 157 (3.5%) |
-| Recused (conflict of interest) | 24 (0.5%) |
+| Total Votes | 4,206 |
+| Voted Yea | 3,679 (87.5%) |
+| Voted Nay | 347 (8.3%) |
+| Absent | 156 (3.7%) |
+| Recused (conflict of interest) | 24 (0.6%) |
 | Abstained | 0 (0.0%) |
-| Other/Unrecorded | 235 (5.3%) |
 
 *Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
 
@@ -50,17 +49,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,937 |
-| Voted Yea | 2,238 (86.6%) |
-| Voted Nay | 347 (13.4%) |
+| Substantive Votes | 2,076 |
+| Voted Yea | 1,712 (86.1%) |
+| Voted Nay | 277 (13.9%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 23.6%
-- **Contested Votes**: 1,518
+- **Dissent Rate**: 31.3%
+- **Contested Votes**: 922
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -110,9 +109,9 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 2,119 | 1,825 | 188 | 95.0% |
-| Strategic Priorities and Policy Committee | 1,091 | 736 | 75 | 74.3% |
-| Planning and Environment Committee | 818 | 784 | 23 | 98.7% |
+| Council | 2,108 | 1,825 | 188 | 95.5% |
+| Strategic Priorities and Policy Committee | 867 | 736 | 75 | 93.5% |
+| Planning and Environment Committee | 817 | 784 | 23 | 98.8% |
 | Budget Committee | 189 | 142 | 47 | 100.0% |
 | Infrastructure and Corporate Services Committee | 170 | 141 | 14 | 91.2% |
 | Civic Works Committee | 55 | 51 | 0 | 92.7% |

@@ -5,18 +5,18 @@ slug: "j-b-swan"
 meetingCount: 147
 yearsActive: "2010 - 2014"
 isCurrent: false
-totalVotes: 2843
-votesYea: 2638
-votesNay: 205
+totalVotes: 2743
+votesYea: 2557
+votesNay: 186
 votesAbsent: 0
 votesRecused: 0
 votesAbstained: 0
 votesOther: 0
 attendanceRate: 88.2
 participationRate: 100.0
-yeaRate: 92.8
-contestedDissentRate: 19.0
-contestedVotes: 770
+yeaRate: 93.2
+contestedDissentRate: 17.7
+contestedVotes: 702
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,9 +33,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 2,843 |
-| Voted Yea | 2,638 (92.8%) |
-| Voted Nay | 205 (7.2%) |
+| Total Votes | 2,743 |
+| Voted Yea | 2,557 (93.2%) |
+| Voted Nay | 186 (6.8%) |
 | Absent | 0 (0.0%) |
 | Recused (conflict of interest) | 0 (0.0%) |
 | Abstained | 0 (0.0%) |
@@ -49,17 +49,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,532 |
-| Voted Yea | 2,327 (91.9%) |
-| Voted Nay | 205 (8.1%) |
+| Substantive Votes | 2,434 |
+| Voted Yea | 2,248 (92.4%) |
+| Voted Nay | 186 (7.6%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 19.0%
-- **Contested Votes**: 770
+- **Dissent Rate**: 17.7%
+- **Contested Votes**: 702
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -70,9 +70,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 489 |
-| Voted Yea | 425 (86.9%) |
-| Voted Nay | 64 (13.1%) |
+| Budget Votes | 459 |
+| Voted Yea | 412 (89.8%) |
+| Voted Nay | 47 (10.2%) |
 | Absent | 0 |
 
 
@@ -94,8 +94,8 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 2,237 | 2,106 | 131 | 100.0% |
-| Strategic Priorities and Policy Committee | 373 | 306 | 67 | 100.0% |
+| Council | 2,162 | 2,033 | 129 | 100.0% |
+| Strategic Priorities and Policy Committee | 348 | 298 | 50 | 100.0% |
 | Corporate Services Committee | 233 | 226 | 7 | 100.0% |
 
 

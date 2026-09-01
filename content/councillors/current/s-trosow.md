@@ -5,18 +5,18 @@ slug: "s-trosow"
 meetingCount: 238
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 3982
+totalVotes: 3795
 votesYea: 2898
 votesNay: 640
-votesAbsent: 256
+votesAbsent: 248
 votesRecused: 9
-votesAbstained: 16
-votesOther: 163
+votesAbstained: 0
+votesOther: 0
 attendanceRate: 96.3
-participationRate: 88.8
+participationRate: 93.2
 yeaRate: 81.9
-contestedDissentRate: 45.6
-contestedVotes: 1502
+contestedDissentRate: 46.1
+contestedVotes: 948
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,13 +33,12 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 3,982 |
-| Voted Yea | 2,898 (72.8%) |
-| Voted Nay | 640 (16.1%) |
-| Absent | 256 (6.4%) |
+| Total Votes | 3,795 |
+| Voted Yea | 2,898 (76.4%) |
+| Voted Nay | 640 (16.9%) |
+| Absent | 248 (6.5%) |
 | Recused (conflict of interest) | 9 (0.2%) |
-| Abstained | 16 (0.4%) |
-| Other/Unrecorded | 163 (4.1%) |
+| Abstained | 0 (0.0%) |
 
 *Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
 
@@ -50,17 +49,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,980 |
-| Voted Yea | 1,988 (75.6%) |
-| Voted Nay | 640 (24.4%) |
+| Substantive Votes | 2,176 |
+| Voted Yea | 1,679 (81.0%) |
+| Voted Nay | 395 (19.0%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 45.6%
-- **Contested Votes**: 1,502
+- **Dissent Rate**: 46.1%
+- **Contested Votes**: 948
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -110,12 +109,12 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 2,119 | 1,522 | 412 | 91.3% |
-| Strategic Priorities and Policy Committee | 1,021 | 678 | 133 | 79.4% |
+| Council | 2,108 | 1,522 | 412 | 91.7% |
+| Strategic Priorities and Policy Committee | 867 | 678 | 133 | 93.5% |
 | Community and Protective Services Committee | 375 | 328 | 37 | 97.3% |
 | Budget Committee | 189 | 141 | 44 | 97.9% |
 | Civic Works Committee | 157 | 140 | 11 | 96.2% |
-| Corporate Services Committee | 121 | 89 | 3 | 76.0% |
+| Corporate Services Committee | 99 | 89 | 3 | 92.9% |
 
 
 ## Notable Dissenting Votes

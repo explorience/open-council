@@ -5,18 +5,18 @@ slug: "j-l-baechler"
 meetingCount: 132
 yearsActive: "2010 - 2014"
 isCurrent: false
-totalVotes: 3239
-votesYea: 3003
-votesNay: 236
+totalVotes: 3131
+votesYea: 2922
+votesNay: 209
 votesAbsent: 0
 votesRecused: 0
 votesAbstained: 0
 votesOther: 0
 attendanceRate: 93.1
 participationRate: 100.0
-yeaRate: 92.7
-contestedDissentRate: 29.1
-contestedVotes: 796
+yeaRate: 93.3
+contestedDissentRate: 28.0
+contestedVotes: 721
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,9 +33,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 3,239 |
-| Voted Yea | 3,003 (92.7%) |
-| Voted Nay | 236 (7.3%) |
+| Total Votes | 3,131 |
+| Voted Yea | 2,922 (93.3%) |
+| Voted Nay | 209 (6.7%) |
 | Absent | 0 (0.0%) |
 | Recused (conflict of interest) | 0 (0.0%) |
 | Abstained | 0 (0.0%) |
@@ -49,17 +49,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,928 |
-| Voted Yea | 2,692 (91.9%) |
-| Voted Nay | 236 (8.1%) |
+| Substantive Votes | 2,822 |
+| Voted Yea | 2,613 (92.6%) |
+| Voted Nay | 209 (7.4%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 29.1%
-- **Contested Votes**: 796
+- **Dissent Rate**: 28.0%
+- **Contested Votes**: 721
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -70,9 +70,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 481 |
-| Voted Yea | 420 (87.3%) |
-| Voted Nay | 61 (12.7%) |
+| Budget Votes | 447 |
+| Voted Yea | 404 (90.4%) |
+| Voted Nay | 43 (9.6%) |
 | Absent | 0 |
 
 
@@ -94,8 +94,8 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 2,273 | 2,105 | 168 | 100.0% |
-| Strategic Priorities and Policy Committee | 385 | 328 | 57 | 100.0% |
+| Council | 2,191 | 2,032 | 159 | 100.0% |
+| Strategic Priorities and Policy Committee | 359 | 320 | 39 | 100.0% |
 | Planning and Environment Committee | 336 | 330 | 6 | 100.0% |
 | Community and Protective Services Committee | 101 | 97 | 4 | 100.0% |
 | Civic Works Committee | 83 | 83 | 0 | 100.0% |
