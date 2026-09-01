@@ -19,10 +19,17 @@ something this script can actually catch, not just restate.
 
 WHAT'S SCANNED: every axis evidence-table row, every unclear-evidence-table
 row, and every ladder-exclusion bullet, on every councillor profile page
-(content/election/councillors/*.md) -- the three renderers that display a
-whatAYeaDid string (see generate-hub-pages.ts). Issue-page rows
-(renderIssueVoteRow) are out of scope: they render direction.label from the
-regex engine, not the verified whatAYeaDid field.
+(content/election/councillors/*.md); AND, as of round-3 gate item 4, every
+vote row on every issue page (content/election/issues/*.md) too -- all four
+renderers that display a whatAYeaDid string now route through the single
+renderWhatAYeaDid helper (see generate-hub-pages.ts, round-3 gate item 0),
+which is exactly what makes checking a page type this script previously
+skipped meaningful: before item 0, issue pages rendered
+`v.direction.label` inline with no withStageQualifier call at all, so 102
+committee-stage issue-page rows carried no stage signal. That's a
+committee-vote row's link destination pointing straight at the meeting
+page (issue pages never carry a per-councillor "their vote" column, so the
+row shape differs -- see ISSUE_ROW_RE below).
 
 Usage: python3 scripts/election/verify-committee-stage-qualifier.py
 """
@@ -70,9 +77,49 @@ ROW_RE = re.compile(
 BULLET_RE = re.compile(
     r"^-\s+(Yea|Nay|Recused|Absent|Abstained|Other):\s"
 )
+# Issue-page vote row (renderIssueVoteRow, round-3 gate item 3's excerpt
+# column): | date | item link | what a yea did | motion excerpt | tally |
+# result | -- no per-councillor "their vote" cell, so this shape is
+# distinguished from ROW_RE by NOT having a Yea/Nay/... cell second.
+ISSUE_ROW_RE = re.compile(r"^\|\s*\d{4}-\d{2}-\d{2}\s*\|")
 
 total_checked = 0
 skipped_no_slug = 0
+
+for path in sorted(glob.glob("content/election/issues/*.md")):
+    if path.endswith("/index.md"):
+        continue
+    for lineno, line in enumerate(open(path, encoding="utf-8"), start=1):
+        line = line.rstrip("\n")
+        if not ISSUE_ROW_RE.match(line):
+            continue
+        cols = split_unescaped_pipes(line)
+        # ["", date, item, whatAYeaDid, excerpt, tally, result, ""]
+        if len(cols) < 4:
+            continue
+        item_cell = cols[2]
+        what_a_yea_did = cols[3]
+        m = LINK_DEST_RE.search(item_cell)
+        dest = m.group(1) if m else None
+
+        if dest is None:
+            continue
+        if not what_a_yea_did or what_a_yea_did.lower().startswith("not classified"):
+            continue
+
+        slug = slug_from_dest(dest)
+        meeting_type = meeting_type_by_slug.get(slug)
+        if meeting_type is None:
+            skipped_no_slug += 1
+            continue
+
+        total_checked += 1
+        if meeting_type != "Council":
+            if not STAGE_SIGNAL_RE.search(what_a_yea_did):
+                FAIL.append(
+                    f"{path}:{lineno}: committee meeting ({meeting_type}) but no "
+                    f"stage signal in whatAYeaDid -- {what_a_yea_did[:140]!r}"
+                )
 
 for path in sorted(glob.glob("content/election/councillors/*.md")):
     for lineno, line in enumerate(open(path, encoding="utf-8"), start=1):
