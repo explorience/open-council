@@ -36,23 +36,23 @@
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 2834,
-    "yeas": 2648,
-    "nays": 186,
+    "totalVotes": 2716,
+    "yeas": 2538,
+    "nays": 178,
     "absent": 0,
     "participationRate": 100,
-    "yeaRate": 93.43683839096684,
-    "contestedDissentRate": 20.78272604588394,
-    "contestedVotes": 741,
-    "substantiveVotes": 2458,
-    "substantiveYeas": 2283,
-    "substantiveNays": 175,
+    "yeaRate": 93.44624447717231,
+    "contestedDissentRate": 20.080862533692724,
+    "contestedVotes": 742,
+    "substantiveVotes": 2406,
+    "substantiveYeas": 2228,
+    "substantiveNays": 178,
     "substantiveParticipationRate": 100,
-    "substantiveYeaRate": 92.88039056143205
+    "substantiveYeaRate": 92.60182876142976
   },
   "budgetVoting": {
-    "totalBudgetVotes": 428,
-    "budgetYeas": 370,
+    "totalBudgetVotes": 413,
+    "budgetYeas": 355,
     "budgetNays": 58,
     "budgetAbsent": 0
   },
@@ -153,9 +153,9 @@
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 2346,
-      "yeas": 2213,
-      "nays": 133,
+      "totalVotes": 2224,
+      "yeas": 2099,
+      "nays": 125,
       "participationRate": 100
     },
     {
@@ -167,8 +167,8 @@
     },
     {
       "committee": "Community and Protective Services Committee",
-      "totalVotes": 160,
-      "yeas": 157,
+      "totalVotes": 164,
+      "yeas": 161,
       "nays": 3,
       "participationRate": 100
     }

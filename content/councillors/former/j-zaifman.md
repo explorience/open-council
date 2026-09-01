@@ -5,18 +5,18 @@ slug: "j-zaifman"
 meetingCount: 142
 yearsActive: "2014 - 2018"
 isCurrent: false
-totalVotes: 2189
-votesYea: 2049
-votesNay: 107
+totalVotes: 2141
+votesYea: 2004
+votesNay: 104
 votesAbsent: 32
 votesRecused: 1
 votesAbstained: 0
 votesOther: 0
 attendanceRate: 70.9
 participationRate: 98.5
-yeaRate: 95.0
-contestedDissentRate: 13.3
-contestedVotes: 444
+yeaRate: 95.1
+contestedDissentRate: 12.0
+contestedVotes: 493
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,9 +33,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 2,189 |
-| Voted Yea | 2,049 (93.6%) |
-| Voted Nay | 107 (4.9%) |
+| Total Votes | 2,141 |
+| Voted Yea | 2,004 (93.6%) |
+| Voted Nay | 104 (4.9%) |
 | Absent | 32 (1.5%) |
 | Recused (conflict of interest) | 1 (0.0%) |
 | Abstained | 0 (0.0%) |
@@ -49,17 +49,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 1,687 |
-| Voted Yea | 1,574 (94.3%) |
-| Voted Nay | 96 (5.7%) |
+| Substantive Votes | 1,750 |
+| Voted Yea | 1,626 (94.0%) |
+| Voted Nay | 104 (6.0%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 13.3%
-- **Contested Votes**: 444
+- **Dissent Rate**: 12.0%
+- **Contested Votes**: 493
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -70,9 +70,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 295 |
-| Voted Yea | 273 (92.5%) |
-| Voted Nay | 22 (7.5%) |
+| Budget Votes | 297 |
+| Voted Yea | 275 (92.6%) |
+| Voted Nay | 22 (7.4%) |
 | Absent | 0 |
 
 
@@ -94,9 +94,9 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 1,241 | 1,154 | 64 | 98.1% |
+| Council | 1,186 | 1,102 | 61 | 98.1% |
 | Strategic Priorities and Policy Committee | 465 | 419 | 36 | 97.8% |
-| Corporate Services Committee | 416 | 410 | 6 | 100.0% |
+| Corporate Services Committee | 423 | 417 | 6 | 100.0% |
 | Community and Protective Services Committee | 67 | 66 | 1 | 100.0% |
 
 

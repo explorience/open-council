@@ -5,9 +5,9 @@ slug: "b-armstrong"
 meetingCount: 245
 yearsActive: "2010 - 2018"
 isCurrent: false
-totalVotes: 5329
-votesYea: 4987
-votesNay: 259
+totalVotes: 5219
+votesYea: 4882
+votesNay: 254
 votesAbsent: 83
 votesRecused: 0
 votesAbstained: 0
@@ -15,8 +15,8 @@ votesOther: 0
 attendanceRate: 94.0
 participationRate: 98.4
 yeaRate: 95.1
-contestedDissentRate: 21.4
-contestedVotes: 1133
+contestedDissentRate: 19.5
+contestedVotes: 1184
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,9 +33,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 5,329 |
-| Voted Yea | 4,987 (93.6%) |
-| Voted Nay | 259 (4.9%) |
+| Total Votes | 5,219 |
+| Voted Yea | 4,882 (93.5%) |
+| Voted Nay | 254 (4.9%) |
 | Absent | 83 (1.6%) |
 | Recused (conflict of interest) | 0 (0.0%) |
 | Abstained | 0 (0.0%) |
@@ -49,17 +49,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 4,053 |
-| Voted Yea | 3,781 (94.2%) |
-| Voted Nay | 232 (5.8%) |
+| Substantive Votes | 4,195 |
+| Voted Yea | 3,895 (93.9%) |
+| Voted Nay | 254 (6.1%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 21.4%
-- **Contested Votes**: 1,133
+- **Dissent Rate**: 19.5%
+- **Contested Votes**: 1,184
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -70,9 +70,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 522 |
-| Voted Yea | 465 (89.4%) |
-| Voted Nay | 55 (10.6%) |
+| Budget Votes | 516 |
+| Voted Yea | 459 (89.3%) |
+| Voted Nay | 55 (10.7%) |
 | Absent | 2 |
 
 
@@ -94,9 +94,9 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 3,368 | 3,139 | 160 | 98.0% |
+| Council | 3,238 | 3,014 | 155 | 97.9% |
 | Strategic Priorities and Policy Committee | 929 | 837 | 84 | 99.1% |
-| Community and Protective Services Committee | 771 | 751 | 14 | 99.2% |
+| Community and Protective Services Committee | 791 | 771 | 14 | 99.2% |
 | Civic Works Committee | 261 | 260 | 1 | 100.0% |
 
 

@@ -50,9 +50,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,379 |
-| Voted Yea | 1,741 (87.7%) |
-| Voted Nay | 245 (12.3%) |
+| Substantive Votes | 3,005 |
+| Voted Yea | 2,249 (88.9%) |
+| Voted Nay | 282 (11.1%) |
 
 
 ### Dissent on Contested Votes

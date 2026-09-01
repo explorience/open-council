@@ -5,18 +5,18 @@ slug: "j-f-fontana"
 meetingCount: 139
 yearsActive: "2010 - 2014"
 isCurrent: false
-totalVotes: 2954
-votesYea: 2812
-votesNay: 142
+totalVotes: 2833
+votesYea: 2694
+votesNay: 139
 votesAbsent: 0
 votesRecused: 0
 votesAbstained: 0
 votesOther: 0
 attendanceRate: 95.6
 participationRate: 100.0
-yeaRate: 95.2
-contestedDissentRate: 14.1
-contestedVotes: 701
+yeaRate: 95.1
+contestedDissentRate: 14.4
+contestedVotes: 703
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,9 +33,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 2,954 |
-| Voted Yea | 2,812 (95.2%) |
-| Voted Nay | 142 (4.8%) |
+| Total Votes | 2,833 |
+| Voted Yea | 2,694 (95.1%) |
+| Voted Nay | 139 (4.9%) |
 | Absent | 0 (0.0%) |
 | Recused (conflict of interest) | 0 (0.0%) |
 | Abstained | 0 (0.0%) |
@@ -49,17 +49,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,629 |
-| Voted Yea | 2,492 (94.8%) |
-| Voted Nay | 137 (5.2%) |
+| Substantive Votes | 2,568 |
+| Voted Yea | 2,429 (94.6%) |
+| Voted Nay | 139 (5.4%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 14.1%
-- **Contested Votes**: 701
+- **Dissent Rate**: 14.4%
+- **Contested Votes**: 703
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -70,9 +70,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 449 |
-| Voted Yea | 400 (89.1%) |
-| Voted Nay | 49 (10.9%) |
+| Budget Votes | 434 |
+| Voted Yea | 386 (88.9%) |
+| Voted Nay | 48 (11.1%) |
 | Absent | 0 |
 
 
@@ -94,7 +94,7 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 2,060 | 1,974 | 86 | 100.0% |
+| Council | 1,939 | 1,856 | 83 | 100.0% |
 | Strategic Priorities and Policy Committee | 333 | 289 | 44 | 100.0% |
 | Planning and Environment Committee | 299 | 296 | 3 | 100.0% |
 | Corporate Services Committee | 142 | 137 | 5 | 100.0% |

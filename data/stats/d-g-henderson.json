@@ -36,24 +36,24 @@
     "trendDirection": "declining"
   },
   "voting": {
-    "totalVotes": 3406,
-    "yeas": 3115,
-    "nays": 291,
+    "totalVotes": 3309,
+    "yeas": 3037,
+    "nays": 272,
     "absent": 0,
     "participationRate": 100,
-    "yeaRate": 91.45625366999413,
-    "contestedDissentRate": 37.071240105540895,
-    "contestedVotes": 758,
-    "substantiveVotes": 3003,
-    "substantiveYeas": 2727,
-    "substantiveNays": 276,
+    "yeaRate": 91.7799939558779,
+    "contestedDissentRate": 35.0597609561753,
+    "contestedVotes": 753,
+    "substantiveVotes": 2979,
+    "substantiveYeas": 2707,
+    "substantiveNays": 272,
     "substantiveParticipationRate": 100,
-    "substantiveYeaRate": 90.80919080919081
+    "substantiveYeaRate": 90.8694192682108
   },
   "budgetVoting": {
-    "totalBudgetVotes": 395,
-    "budgetYeas": 321,
-    "budgetNays": 74,
+    "totalBudgetVotes": 379,
+    "budgetYeas": 306,
+    "budgetNays": 73,
     "budgetAbsent": 0
   },
   "topAlignments": [],
@@ -153,15 +153,15 @@
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 2461,
-      "yeas": 2260,
-      "nays": 201,
+      "totalVotes": 2332,
+      "yeas": 2150,
+      "nays": 182,
       "participationRate": 100
     },
     {
       "committee": "Planning and Environment Committee",
-      "totalVotes": 653,
-      "yeas": 636,
+      "totalVotes": 685,
+      "yeas": 668,
       "nays": 17,
       "participationRate": 100
     },

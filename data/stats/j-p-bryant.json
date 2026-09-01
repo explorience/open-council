@@ -36,24 +36,24 @@
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 2972,
-    "yeas": 2757,
-    "nays": 215,
+    "totalVotes": 2893,
+    "yeas": 2681,
+    "nays": 212,
     "absent": 0,
     "participationRate": 100,
-    "yeaRate": 92.76581426648721,
-    "contestedDissentRate": 25.311203319502074,
-    "contestedVotes": 723,
-    "substantiveVotes": 2612,
-    "substantiveYeas": 2403,
-    "substantiveNays": 209,
+    "yeaRate": 92.6719668164535,
+    "contestedDissentRate": 25.444596443228455,
+    "contestedVotes": 731,
+    "substantiveVotes": 2594,
+    "substantiveYeas": 2382,
+    "substantiveNays": 212,
     "substantiveParticipationRate": 100,
-    "substantiveYeaRate": 91.99846860643184
+    "substantiveYeaRate": 91.82729375481881
   },
   "budgetVoting": {
-    "totalBudgetVotes": 460,
-    "budgetYeas": 413,
-    "budgetNays": 47,
+    "totalBudgetVotes": 450,
+    "budgetYeas": 404,
+    "budgetNays": 46,
     "budgetAbsent": 0
   },
   "topAlignments": [],
@@ -153,9 +153,9 @@
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 2243,
-      "yeas": 2088,
-      "nays": 155,
+      "totalVotes": 2160,
+      "yeas": 2008,
+      "nays": 152,
       "participationRate": 100
     },
     {
@@ -174,8 +174,8 @@
     },
     {
       "committee": "Community and Protective Services Committee",
-      "totalVotes": 162,
-      "yeas": 158,
+      "totalVotes": 166,
+      "yeas": 162,
       "nays": 4,
       "participationRate": 100
     },

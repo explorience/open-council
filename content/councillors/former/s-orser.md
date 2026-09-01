@@ -5,18 +5,18 @@ slug: "s-orser"
 meetingCount: 112
 yearsActive: "2010 - 2014"
 isCurrent: false
-totalVotes: 2768
-votesYea: 2511
-votesNay: 257
+totalVotes: 2641
+votesYea: 2397
+votesNay: 244
 votesAbsent: 0
 votesRecused: 0
 votesAbstained: 0
 votesOther: 0
 attendanceRate: 91.0
 participationRate: 100.0
-yeaRate: 90.7
-contestedDissentRate: 34.0
-contestedVotes: 736
+yeaRate: 90.8
+contestedDissentRate: 32.5
+contestedVotes: 727
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,9 +33,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 2,768 |
-| Voted Yea | 2,511 (90.7%) |
-| Voted Nay | 257 (9.3%) |
+| Total Votes | 2,641 |
+| Voted Yea | 2,397 (90.8%) |
+| Voted Nay | 244 (9.2%) |
 | Absent | 0 (0.0%) |
 | Recused (conflict of interest) | 0 (0.0%) |
 | Abstained | 0 (0.0%) |
@@ -49,17 +49,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,405 |
-| Voted Yea | 2,161 (89.9%) |
-| Voted Nay | 244 (10.1%) |
+| Substantive Votes | 2,337 |
+| Voted Yea | 2,093 (89.6%) |
+| Voted Nay | 244 (10.4%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 34.0%
-- **Contested Votes**: 736
+- **Dissent Rate**: 32.5%
+- **Contested Votes**: 727
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -70,9 +70,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 434 |
-| Voted Yea | 345 (79.5%) |
-| Voted Nay | 89 (20.5%) |
+| Budget Votes | 418 |
+| Voted Yea | 329 (78.7%) |
+| Voted Nay | 89 (21.3%) |
 | Absent | 0 |
 
 
@@ -94,7 +94,7 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 2,237 | 2,070 | 167 | 100.0% |
+| Council | 2,110 | 1,956 | 154 | 100.0% |
 | Strategic Priorities and Policy Committee | 332 | 247 | 85 | 100.0% |
 | Civic Works Committee | 199 | 194 | 5 | 100.0% |
 

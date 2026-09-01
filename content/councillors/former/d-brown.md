@@ -5,9 +5,9 @@ slug: "d-brown"
 meetingCount: 95
 yearsActive: "2010 - 2014"
 isCurrent: false
-totalVotes: 2834
-votesYea: 2648
-votesNay: 186
+totalVotes: 2716
+votesYea: 2538
+votesNay: 178
 votesAbsent: 0
 votesRecused: 0
 votesAbstained: 0
@@ -15,8 +15,8 @@ votesOther: 0
 attendanceRate: 88.4
 participationRate: 100.0
 yeaRate: 93.4
-contestedDissentRate: 20.8
-contestedVotes: 741
+contestedDissentRate: 20.1
+contestedVotes: 742
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,9 +33,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 2,834 |
-| Voted Yea | 2,648 (93.4%) |
-| Voted Nay | 186 (6.6%) |
+| Total Votes | 2,716 |
+| Voted Yea | 2,538 (93.4%) |
+| Voted Nay | 178 (6.6%) |
 | Absent | 0 (0.0%) |
 | Recused (conflict of interest) | 0 (0.0%) |
 | Abstained | 0 (0.0%) |
@@ -49,17 +49,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,458 |
-| Voted Yea | 2,283 (92.9%) |
-| Voted Nay | 175 (7.1%) |
+| Substantive Votes | 2,406 |
+| Voted Yea | 2,228 (92.6%) |
+| Voted Nay | 178 (7.4%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 20.8%
-- **Contested Votes**: 741
+- **Dissent Rate**: 20.1%
+- **Contested Votes**: 742
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -70,9 +70,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 428 |
-| Voted Yea | 370 (86.4%) |
-| Voted Nay | 58 (13.6%) |
+| Budget Votes | 413 |
+| Voted Yea | 355 (86.0%) |
+| Voted Nay | 58 (14.0%) |
 | Absent | 0 |
 
 
@@ -94,9 +94,9 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 2,346 | 2,213 | 133 | 100.0% |
+| Council | 2,224 | 2,099 | 125 | 100.0% |
 | Strategic Priorities and Policy Committee | 328 | 278 | 50 | 100.0% |
-| Community and Protective Services Committee | 160 | 157 | 3 | 100.0% |
+| Community and Protective Services Committee | 164 | 161 | 3 | 100.0% |
 
 
 ## Notable Dissenting Votes

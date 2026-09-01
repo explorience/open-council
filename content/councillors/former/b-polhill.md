@@ -5,9 +5,9 @@ slug: "b-polhill"
 meetingCount: 199
 yearsActive: "2010 - 2014"
 isCurrent: false
-totalVotes: 3809
-votesYea: 3588
-votesNay: 221
+totalVotes: 3713
+votesYea: 3496
+votesNay: 217
 votesAbsent: 0
 votesRecused: 0
 votesAbstained: 0
@@ -16,7 +16,7 @@ attendanceRate: 98.8
 participationRate: 100.0
 yeaRate: 94.2
 contestedDissentRate: 23.0
-contestedVotes: 842
+contestedVotes: 845
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,9 +33,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 3,809 |
-| Voted Yea | 3,588 (94.2%) |
-| Voted Nay | 221 (5.8%) |
+| Total Votes | 3,713 |
+| Voted Yea | 3,496 (94.2%) |
+| Voted Nay | 217 (5.8%) |
 | Absent | 0 (0.0%) |
 | Recused (conflict of interest) | 0 (0.0%) |
 | Abstained | 0 (0.0%) |
@@ -49,9 +49,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 3,404 |
-| Voted Yea | 3,197 (93.9%) |
-| Voted Nay | 207 (6.1%) |
+| Substantive Votes | 3,380 |
+| Voted Yea | 3,163 (93.6%) |
+| Voted Nay | 217 (6.4%) |
 
 
 ### Dissent on Contested Votes
@@ -59,7 +59,7 @@ prefillQuestions:
 *Only counts non-unanimous votes where the councillor participated*
 
 - **Dissent Rate**: 23.0%
-- **Contested Votes**: 842
+- **Contested Votes**: 845
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -70,9 +70,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 502 |
-| Voted Yea | 437 (87.1%) |
-| Voted Nay | 65 (12.9%) |
+| Budget Votes | 486 |
+| Voted Yea | 422 (86.8%) |
+| Voted Nay | 64 (13.2%) |
 | Absent | 0 |
 
 
@@ -94,8 +94,8 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 2,497 | 2,358 | 139 | 100.0% |
-| Planning and Environment Committee | 696 | 685 | 11 | 100.0% |
+| Council | 2,369 | 2,234 | 135 | 100.0% |
+| Planning and Environment Committee | 728 | 717 | 11 | 100.0% |
 | Strategic Priorities and Policy Committee | 360 | 293 | 67 | 100.0% |
 | Corporate Services Committee | 256 | 252 | 4 | 100.0% |
 

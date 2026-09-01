@@ -5,9 +5,9 @@ slug: "n-branscombe"
 meetingCount: 119
 yearsActive: "2006 - 2014"
 isCurrent: false
-totalVotes: 2660
-votesYea: 2460
-votesNay: 200
+totalVotes: 2551
+votesYea: 2359
+votesNay: 192
 votesAbsent: 0
 votesRecused: 0
 votesAbstained: 0
@@ -15,8 +15,8 @@ votesOther: 0
 attendanceRate: 69.3
 participationRate: 100.0
 yeaRate: 92.5
-contestedDissentRate: 26.8
-contestedVotes: 697
+contestedDissentRate: 26.3
+contestedVotes: 696
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,9 +33,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 2,660 |
-| Voted Yea | 2,460 (92.5%) |
-| Voted Nay | 200 (7.5%) |
+| Total Votes | 2,551 |
+| Voted Yea | 2,359 (92.5%) |
+| Voted Nay | 192 (7.5%) |
 | Absent | 0 (0.0%) |
 | Recused (conflict of interest) | 0 (0.0%) |
 | Abstained | 0 (0.0%) |
@@ -49,17 +49,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,330 |
-| Voted Yea | 2,137 (91.7%) |
-| Voted Nay | 193 (8.3%) |
+| Substantive Votes | 2,285 |
+| Voted Yea | 2,093 (91.6%) |
+| Voted Nay | 192 (8.4%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 26.8%
-- **Contested Votes**: 697
+- **Dissent Rate**: 26.3%
+- **Contested Votes**: 696
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -70,9 +70,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 457 |
-| Voted Yea | 399 (87.3%) |
-| Voted Nay | 58 (12.7%) |
+| Budget Votes | 443 |
+| Voted Yea | 386 (87.1%) |
+| Voted Nay | 57 (12.9%) |
 | Absent | 0 |
 
 
@@ -94,7 +94,7 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 2,052 | 1,919 | 133 | 100.0% |
+| Council | 1,943 | 1,818 | 125 | 100.0% |
 | Strategic Priorities and Policy Committee | 344 | 287 | 57 | 100.0% |
 | Planning and Environment Committee | 119 | 112 | 7 | 100.0% |
 | Civic Works Committee | 72 | 71 | 1 | 100.0% |

@@ -90,23 +90,23 @@
     "trendDirection": "improving"
   },
   "voting": {
-    "totalVotes": 12736,
-    "yeas": 10502,
-    "nays": 672,
+    "totalVotes": 12651,
+    "yeas": 10422,
+    "nays": 667,
     "absent": 1010,
-    "participationRate": 87.73555276381909,
-    "yeaRate": 93.9860390191516,
-    "contestedDissentRate": 10.916359163591636,
-    "contestedVotes": 3252,
-    "substantiveVotes": 8070,
-    "substantiveYeas": 6558,
-    "substantiveNays": 584,
-    "substantiveParticipationRate": 88.5006195786865,
-    "substantiveYeaRate": 91.82301876225148
+    "participationRate": 87.65314994862067,
+    "yeaRate": 93.98503021011814,
+    "contestedDissentRate": 10.676691729323307,
+    "contestedVotes": 3325,
+    "substantiveVotes": 9127,
+    "substantiveYeas": 7471,
+    "substantiveNays": 667,
+    "substantiveParticipationRate": 89.16401884518461,
+    "substantiveYeaRate": 91.80388301794052
   },
   "budgetVoting": {
-    "totalBudgetVotes": 1414,
-    "budgetYeas": 1204,
+    "totalBudgetVotes": 1413,
+    "budgetYeas": 1203,
     "budgetNays": 187,
     "budgetAbsent": 21
   },
@@ -269,10 +269,10 @@
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 6815,
-      "yeas": 6252,
-      "nays": 374,
-      "participationRate": 97.22670579603815
+      "totalVotes": 6707,
+      "yeas": 6149,
+      "nays": 369,
+      "participationRate": 97.1820486059341
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
@@ -283,10 +283,10 @@
     },
     {
       "committee": "Corporate Services Committee",
-      "totalVotes": 1313,
-      "yeas": 1170,
+      "totalVotes": 1320,
+      "yeas": 1177,
       "nays": 23,
-      "participationRate": 90.86062452399086
+      "participationRate": 90.9090909090909
     },
     {
       "committee": "Planning and Environment Committee",
@@ -304,10 +304,10 @@
     },
     {
       "committee": "Community and Protective Services Committee",
-      "totalVotes": 312,
-      "yeas": 184,
+      "totalVotes": 328,
+      "yeas": 200,
       "nays": 14,
-      "participationRate": 63.46153846153846
+      "participationRate": 65.2439024390244
     },
     {
       "committee": "Budget Committee",

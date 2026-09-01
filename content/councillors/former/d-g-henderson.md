@@ -5,18 +5,18 @@ slug: "d-g-henderson"
 meetingCount: 142
 yearsActive: "2010 - 2014"
 isCurrent: false
-totalVotes: 3406
-votesYea: 3115
-votesNay: 291
+totalVotes: 3309
+votesYea: 3037
+votesNay: 272
 votesAbsent: 0
 votesRecused: 0
 votesAbstained: 0
 votesOther: 0
 attendanceRate: 95.5
 participationRate: 100.0
-yeaRate: 91.5
-contestedDissentRate: 37.1
-contestedVotes: 758
+yeaRate: 91.8
+contestedDissentRate: 35.1
+contestedVotes: 753
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,9 +33,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 3,406 |
-| Voted Yea | 3,115 (91.5%) |
-| Voted Nay | 291 (8.5%) |
+| Total Votes | 3,309 |
+| Voted Yea | 3,037 (91.8%) |
+| Voted Nay | 272 (8.2%) |
 | Absent | 0 (0.0%) |
 | Recused (conflict of interest) | 0 (0.0%) |
 | Abstained | 0 (0.0%) |
@@ -49,17 +49,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 3,003 |
-| Voted Yea | 2,727 (90.8%) |
-| Voted Nay | 276 (9.2%) |
+| Substantive Votes | 2,979 |
+| Voted Yea | 2,707 (90.9%) |
+| Voted Nay | 272 (9.1%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 37.1%
-- **Contested Votes**: 758
+- **Dissent Rate**: 35.1%
+- **Contested Votes**: 753
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -70,9 +70,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 395 |
-| Voted Yea | 321 (81.3%) |
-| Voted Nay | 74 (18.7%) |
+| Budget Votes | 379 |
+| Voted Yea | 306 (80.7%) |
+| Voted Nay | 73 (19.3%) |
 | Absent | 0 |
 
 
@@ -94,8 +94,8 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 2,461 | 2,260 | 201 | 100.0% |
-| Planning and Environment Committee | 653 | 636 | 17 | 100.0% |
+| Council | 2,332 | 2,150 | 182 | 100.0% |
+| Planning and Environment Committee | 685 | 668 | 17 | 100.0% |
 | Strategic Priorities and Policy Committee | 292 | 219 | 73 | 100.0% |
 
 

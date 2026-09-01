@@ -211,36 +211,3 @@ Approve Third Reading and Enactment of Bill No.
 Motion
 Passed
 
----
-
-## Votes
-
-*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
-
-### 1. Accessibility for
-  Ontarians with Disabilities Act (AODA) Compliance
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (12-0)
-
-### 1. Accessibility for
-  Ontarians with Disabilities Act (AODA) Compliance
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (12-0)
-
-### 1. Accessibility for
-  Ontarians with Disabilities Act (AODA) Compliance
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (13-0)
-

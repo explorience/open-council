@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T22:51:59.928Z",
+  "generatedAt": "2026-09-01T00:13:44.877Z",
   "matrix": {
     "j-morgan": {
       "h-mcalister": 94.44444444444444,
@@ -10,7 +10,7 @@
       "s-trosow": 75.64102564102564,
       "c-rahman": 90.2834008097166,
       "s-lehman": 95.12670565302143,
-      "a-hopkins": 90.05405405405405,
+      "a-hopkins": 89.92332968236583,
       "p-van-meerbergen": 86.41188959660298,
       "s-franke": 89.6694214876033,
       "e-peloza": 90.79754601226993,
@@ -146,7 +146,7 @@
       "s-hillier": 95.3409090909091
     },
     "a-hopkins": {
-      "j-morgan": 90.05405405405405,
+      "j-morgan": 89.92332968236583,
       "h-mcalister": 86.72566371681415,
       "s-lewis": 87.19008264462809,
       "p-cuddy": 80.08474576271186,
@@ -306,5 +306,5 @@
   ],
   "type": "topic",
   "topicName": "infrastructure",
-  "motionCount": 3225
+  "motionCount": 3182
 }

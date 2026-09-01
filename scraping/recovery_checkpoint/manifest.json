@@ -52,16 +52,18 @@
     "meeting_type": "Council",
     "local_path": "data/2011-10/2011-10-24 Council.json",
     "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=cc43daff-8839-4509-97de-9233aafc7ca6&Agenda=PostMinutes&lang=English",
-    "status": "done",
-    "result_path": "2011-10/2011-10-24 Council"
+    "status": "failed",
+    "result_path": "2011-10/2011-10-24 Council",
+    "error": "Error processing meeting Council (2011-10-24 00:00:00) WordMeeting vote-coverage guardrail failed for https://pub-london.escribemeetings.com//Meeting.aspx?Id=cc43daff-8839-4509-97de-9233aafc7ca6&Agenda=PostMinutes&lang=English: raw source has 70 'YEAS:' occurrence(s) but 71 Yeas row(s) (more) were parsed. Refusing to silently mis-count roll calls - see issue #199 guardrail (a)."
   },
   {
     "date": "2011-11-07",
     "meeting_type": "Council",
     "local_path": "data/2011-11/2011-11-07 Council.json",
     "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=5e386c00-b5eb-4c49-ae36-4dd662918df6&Agenda=PostMinutes&lang=English",
-    "status": "done",
-    "result_path": "2011-11/2011-11-07 Council"
+    "status": "failed",
+    "result_path": "2011-11/2011-11-07 Council",
+    "error": "Error processing meeting Council (2011-11-07 00:00:00) WordMeeting vote-coverage guardrail failed for https://pub-london.escribemeetings.com//Meeting.aspx?Id=5e386c00-b5eb-4c49-ae36-4dd662918df6&Agenda=PostMinutes&lang=English: raw source has 67 'YEAS:' occurrence(s) but 68 Yeas row(s) (more) were parsed. Refusing to silently mis-count roll calls - see issue #199 guardrail (a)."
   },
   {
     "date": "2011-11-21",
@@ -93,7 +95,7 @@
     "local_path": "data/2012-01/2012-01-10 Council.json",
     "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=e935ca1a-75bb-4231-9cd0-b4353de48ec8&Agenda=PostMinutes&lang=English",
     "status": "failed",
-    "error": "Error processing meeting Council (2012-01-10 00:00:00) WordMeeting vote-coverage guardrail failed for https://pub-london.escribemeetings.com//Meeting.aspx?Id=e935ca1a-75bb-4231-9cd0-b4353de48ec8&Agenda=PostMinutes&lang=English: raw source has 111 'YEAS:' occurrence(s) but only 108 Yeas row(s) were parsed. Refusing to silently undercount roll calls - see issue #199 guardrail (a)."
+    "error": "Error processing meeting Council (2012-01-10 00:00:00) WordMeeting vote-coverage guardrail failed for https://pub-london.escribemeetings.com//Meeting.aspx?Id=e935ca1a-75bb-4231-9cd0-b4353de48ec8&Agenda=PostMinutes&lang=English: raw source has 111 'YEAS:' occurrence(s) but 108 Yeas row(s) (fewer) were parsed. Refusing to silently mis-count roll calls - see issue #199 guardrail (a)."
   },
   {
     "date": "2012-01-31",
@@ -101,7 +103,7 @@
     "local_path": "data/2012-01/2012-01-31 Council.json",
     "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=10b16e9f-2759-4d3b-85be-f5e813945450&Agenda=PostMinutes&lang=English",
     "status": "failed",
-    "error": "Error processing meeting Council (2012-01-31 00:00:00) WordMeeting vote-coverage guardrail failed for https://pub-london.escribemeetings.com//Meeting.aspx?Id=10b16e9f-2759-4d3b-85be-f5e813945450&Agenda=PostMinutes&lang=English: raw source has 132 'YEAS:' occurrence(s) but only 130 Yeas row(s) were parsed. Refusing to silently undercount roll calls - see issue #199 guardrail (a)."
+    "error": "Error processing meeting Council (2012-01-31 00:00:00) WordMeeting vote-coverage guardrail failed for https://pub-london.escribemeetings.com//Meeting.aspx?Id=10b16e9f-2759-4d3b-85be-f5e813945450&Agenda=PostMinutes&lang=English: raw source has 132 'YEAS:' occurrence(s) but 130 Yeas row(s) (fewer) were parsed. Refusing to silently mis-count roll calls - see issue #199 guardrail (a)."
   },
   {
     "date": "2012-02-21",
@@ -109,7 +111,7 @@
     "local_path": "data/2012-02/2012-02-21 Council.json",
     "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3f742c14-7557-4871-ac86-bda0222959e4&Agenda=PostMinutes&lang=English",
     "status": "failed",
-    "error": "Error processing meeting Council (2012-02-21 00:00:00) WordMeeting vote-coverage guardrail failed for https://pub-london.escribemeetings.com//Meeting.aspx?Id=3f742c14-7557-4871-ac86-bda0222959e4&Agenda=PostMinutes&lang=English: raw source has 172 'YEAS:' occurrence(s) but only 171 Yeas row(s) were parsed. Refusing to silently undercount roll calls - see issue #199 guardrail (a)."
+    "error": "Error processing meeting Council (2012-02-21 00:00:00) WordMeeting vote-coverage guardrail failed for https://pub-london.escribemeetings.com//Meeting.aspx?Id=3f742c14-7557-4871-ac86-bda0222959e4&Agenda=PostMinutes&lang=English: raw source has 172 'YEAS:' occurrence(s) but 171 Yeas row(s) (fewer) were parsed. Refusing to silently mis-count roll calls - see issue #199 guardrail (a)."
   },
   {
     "date": "2012-03-20",
@@ -117,7 +119,7 @@
     "local_path": "data/2012-03/2012-03-20 Council.json",
     "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3d5b3d65-d522-4eaf-a02c-9852abe4c833&Agenda=PostMinutes&lang=English",
     "status": "failed",
-    "error": "Error processing meeting Council (2012-03-20 00:00:00) WordMeeting vote-coverage guardrail failed for https://pub-london.escribemeetings.com//Meeting.aspx?Id=3d5b3d65-d522-4eaf-a02c-9852abe4c833&Agenda=PostMinutes&lang=English: raw source has 129 'YEAS:' occurrence(s) but only 128 Yeas row(s) were parsed. Refusing to silently undercount roll calls - see issue #199 guardrail (a)."
+    "error": "Error processing meeting Council (2012-03-20 00:00:00) WordMeeting vote-coverage guardrail failed for https://pub-london.escribemeetings.com//Meeting.aspx?Id=3d5b3d65-d522-4eaf-a02c-9852abe4c833&Agenda=PostMinutes&lang=English: raw source has 129 'YEAS:' occurrence(s) but 128 Yeas row(s) (fewer) were parsed. Refusing to silently mis-count roll calls - see issue #199 guardrail (a)."
   },
   {
     "date": "2012-04-10",
@@ -165,7 +167,7 @@
     "local_path": "data/2012-05/2012-05-22 MINUTES 11TH MEETING.json",
     "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=55ce59d9-798b-425d-8c88-69c599b8c728&Agenda=PostMinutes&lang=English",
     "status": "failed",
-    "error": "Error processing meeting Council (2012-05-22 00:00:00) WordMeeting vote-coverage guardrail failed for https://pub-london.escribemeetings.com//Meeting.aspx?Id=55ce59d9-798b-425d-8c88-69c599b8c728&Agenda=PostMinutes&lang=English: raw source has 51 'YEAS:' occurrence(s) but only 48 Yeas row(s) were parsed. Refusing to silently undercount roll calls - see issue #199 guardrail (a)."
+    "error": "Error processing meeting Council (2012-05-22 00:00:00) WordMeeting vote-coverage guardrail failed for https://pub-london.escribemeetings.com//Meeting.aspx?Id=55ce59d9-798b-425d-8c88-69c599b8c728&Agenda=PostMinutes&lang=English: raw source has 51 'YEAS:' occurrence(s) but 48 Yeas row(s) (fewer) were parsed. Refusing to silently mis-count roll calls - see issue #199 guardrail (a)."
   },
   {
     "date": "2012-06-12",
@@ -173,7 +175,7 @@
     "local_path": "data/2012-06/2012-06-12 Council.json",
     "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=651054ac-15da-4c79-99e5-5c4b594139f8&Agenda=PostMinutes&lang=English",
     "status": "failed",
-    "error": "Error processing meeting Council (2012-06-12 00:00:00) WordMeeting vote-coverage guardrail failed for https://pub-london.escribemeetings.com//Meeting.aspx?Id=651054ac-15da-4c79-99e5-5c4b594139f8&Agenda=PostMinutes&lang=English: raw source has 134 'YEAS:' occurrence(s) but only 133 Yeas row(s) were parsed. Refusing to silently undercount roll calls - see issue #199 guardrail (a)."
+    "error": "Error processing meeting Council (2012-06-12 00:00:00) WordMeeting vote-coverage guardrail failed for https://pub-london.escribemeetings.com//Meeting.aspx?Id=651054ac-15da-4c79-99e5-5c4b594139f8&Agenda=PostMinutes&lang=English: raw source has 134 'YEAS:' occurrence(s) but 133 Yeas row(s) (fewer) were parsed. Refusing to silently mis-count roll calls - see issue #199 guardrail (a)."
   },
   {
     "date": "2012-06-26",
@@ -181,7 +183,7 @@
     "local_path": "data/2012-06/2012-06-26 MINUTES 13TH MEETING.json",
     "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=2643ac9a-dabe-4b5f-9c34-5ab710ac063b&Agenda=PostMinutes&lang=English",
     "status": "failed",
-    "error": "Error processing meeting Council (2012-06-26 00:00:00) WordMeeting vote-coverage guardrail failed for https://pub-london.escribemeetings.com//Meeting.aspx?Id=2643ac9a-dabe-4b5f-9c34-5ab710ac063b&Agenda=PostMinutes&lang=English: raw source has 70 'YEAS:' occurrence(s) but only 69 Yeas row(s) were parsed. Refusing to silently undercount roll calls - see issue #199 guardrail (a)."
+    "error": "Error processing meeting Council (2012-06-26 00:00:00) WordMeeting vote-coverage guardrail failed for https://pub-london.escribemeetings.com//Meeting.aspx?Id=2643ac9a-dabe-4b5f-9c34-5ab710ac063b&Agenda=PostMinutes&lang=English: raw source has 70 'YEAS:' occurrence(s) but 69 Yeas row(s) (fewer) were parsed. Refusing to silently mis-count roll calls - see issue #199 guardrail (a)."
   },
   {
     "date": "2012-07-24",
@@ -189,7 +191,7 @@
     "local_path": "data/2012-07/2012-07-24 MINUTES 14TH MEETING.json",
     "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=2fe4382f-afd4-4450-b834-6ce8c0b91e06&Agenda=PostMinutes&lang=English",
     "status": "failed",
-    "error": "Error processing meeting Council (2012-07-24 00:00:00) WordMeeting vote-coverage guardrail failed for https://pub-london.escribemeetings.com//Meeting.aspx?Id=2fe4382f-afd4-4450-b834-6ce8c0b91e06&Agenda=PostMinutes&lang=English: raw source has 55 'YEAS:' occurrence(s) but only 54 Yeas row(s) were parsed. Refusing to silently undercount roll calls - see issue #199 guardrail (a)."
+    "error": "Error processing meeting Council (2012-07-24 00:00:00) WordMeeting vote-coverage guardrail failed for https://pub-london.escribemeetings.com//Meeting.aspx?Id=2fe4382f-afd4-4450-b834-6ce8c0b91e06&Agenda=PostMinutes&lang=English: raw source has 55 'YEAS:' occurrence(s) but 54 Yeas row(s) (fewer) were parsed. Refusing to silently mis-count roll calls - see issue #199 guardrail (a)."
   },
   {
     "date": "2012-08-28",
@@ -285,7 +287,7 @@
     "local_path": "data/2013-03/2013-03-26 MINUTES 7TH MEETING.json",
     "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=3d6c1eb7-9819-462e-843e-cc4c943fb7f8&Agenda=PostMinutes&lang=English",
     "status": "failed",
-    "error": "Error processing meeting Council (2013-03-26 00:00:00) WordMeeting vote-coverage guardrail failed for https://pub-london.escribemeetings.com//Meeting.aspx?Id=3d6c1eb7-9819-462e-843e-cc4c943fb7f8&Agenda=PostMinutes&lang=English: raw source has 35 'YEAS:' occurrence(s) but only 33 Yeas row(s) were parsed. Refusing to silently undercount roll calls - see issue #199 guardrail (a)."
+    "error": "Error processing meeting Council (2013-03-26 00:00:00) WordMeeting vote-coverage guardrail failed for https://pub-london.escribemeetings.com//Meeting.aspx?Id=3d6c1eb7-9819-462e-843e-cc4c943fb7f8&Agenda=PostMinutes&lang=English: raw source has 35 'YEAS:' occurrence(s) but 33 Yeas row(s) (fewer) were parsed. Refusing to silently mis-count roll calls - see issue #199 guardrail (a)."
   },
   {
     "date": "2013-04-16",
@@ -325,7 +327,7 @@
     "local_path": "data/2013-06/2013-06-25 MINUTES 12TH MEETING.json",
     "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=164af89c-b069-4ebf-a38f-54278ae03c49&Agenda=PostMinutes&lang=English",
     "status": "failed",
-    "error": "Error processing meeting Council (2013-06-25 00:00:00) WordMeeting vote-coverage guardrail failed for https://pub-london.escribemeetings.com//Meeting.aspx?Id=164af89c-b069-4ebf-a38f-54278ae03c49&Agenda=PostMinutes&lang=English: raw source has 62 'YEAS:' occurrence(s) but only 59 Yeas row(s) were parsed. Refusing to silently undercount roll calls - see issue #199 guardrail (a)."
+    "error": "Error processing meeting Council (2013-06-25 00:00:00) WordMeeting vote-coverage guardrail failed for https://pub-london.escribemeetings.com//Meeting.aspx?Id=164af89c-b069-4ebf-a38f-54278ae03c49&Agenda=PostMinutes&lang=English: raw source has 62 'YEAS:' occurrence(s) but 59 Yeas row(s) (fewer) were parsed. Refusing to silently mis-count roll calls - see issue #199 guardrail (a)."
   },
   {
     "date": "2013-07-30",
@@ -420,8 +422,9 @@
     "meeting_type": "Council",
     "local_path": "data/2014-01/2014-01-28 MINUTES 4TH MEETING.json",
     "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=a2958bc3-61e3-4471-ab1c-0f02c736e705&Agenda=PostMinutes&lang=English",
-    "status": "done",
-    "result_path": "2014-01/2014-01-28 MINUTES 4TH MEETING"
+    "status": "failed",
+    "result_path": "2014-01/2014-01-28 MINUTES 4TH MEETING",
+    "error": "Error processing meeting Council (2014-01-28 00:00:00) WordMeeting vote-coverage guardrail failed for https://pub-london.escribemeetings.com//Meeting.aspx?Id=a2958bc3-61e3-4471-ab1c-0f02c736e705&Agenda=PostMinutes&lang=English: raw source has 38 'YEAS:' occurrence(s) but 39 Yeas row(s) (more) were parsed. Refusing to silently mis-count roll calls - see issue #199 guardrail (a)."
   },
   {
     "date": "2014-02-11",
@@ -508,7 +511,7 @@
     "meeting_type": "Council",
     "local_path": "data/2014-06/2014-06-23 MINUTES 15TH MEETING.json",
     "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=36045ee9-66d3-48b7-8810-25d21602d701&Agenda=PostMinutes&lang=English",
-    "status": "done",
+    "status": "failed",
     "result_path": "2014-06/2014-06-23 MINUTES 15TH MEETING",
     "renamed_from": {
       "old_path": "data/2014-06/2014-06-23 MINUTES 15TH\n  MEETING.json",
@@ -518,7 +521,8 @@
         "../content/months/2014-06/2014-06-23 Strategic Priorities and Policy Committee.md",
         "../content/months/2014-06/2014-06-23 MINUTES 15TH  MEETING.md"
       ]
-    }
+    },
+    "error": "Error processing meeting Council (2014-06-23 00:00:00) WordMeeting vote-coverage guardrail failed for https://pub-london.escribemeetings.com//Meeting.aspx?Id=36045ee9-66d3-48b7-8810-25d21602d701&Agenda=PostMinutes&lang=English: raw source has 11 'YEAS:' occurrence(s) but 12 Yeas row(s) (more) were parsed. Refusing to silently mis-count roll calls - see issue #199 guardrail (a)."
   },
   {
     "date": "2014-06-24",
@@ -649,7 +653,7 @@
     "local_path": "data/2015-01/2015-01-27 MINUTES 5TH MEETING.json",
     "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=e4937d3f-433f-400d-9c88-8326f8a4e368&Agenda=PostMinutes&lang=English",
     "status": "failed",
-    "error": "Error processing meeting Council (2015-01-27 00:00:00) WordMeeting vote-coverage guardrail failed for https://pub-london.escribemeetings.com//Meeting.aspx?Id=e4937d3f-433f-400d-9c88-8326f8a4e368&Agenda=PostMinutes&lang=English: raw source has 30 'YEAS:' occurrence(s) but only 27 Yeas row(s) were parsed. Refusing to silently undercount roll calls - see issue #199 guardrail (a)."
+    "error": "Error processing meeting Council (2015-01-27 00:00:00) WordMeeting vote-coverage guardrail failed for https://pub-london.escribemeetings.com//Meeting.aspx?Id=e4937d3f-433f-400d-9c88-8326f8a4e368&Agenda=PostMinutes&lang=English: raw source has 30 'YEAS:' occurrence(s) but 27 Yeas row(s) (fewer) were parsed. Refusing to silently mis-count roll calls - see issue #199 guardrail (a)."
   },
   {
     "date": "2015-02-09",
@@ -704,7 +708,7 @@
     "meeting_type": "Council",
     "local_path": "data/2015-04/2015-04-28 MINUTES 12TH MEETING.json",
     "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=6776597e-35fc-4126-b692-b71e825c7b8a&Agenda=PostMinutes&lang=English",
-    "status": "done",
+    "status": "failed",
     "result_path": "2015-04/2015-04-28 MINUTES 12TH MEETING",
     "renamed_from": {
       "old_path": "data/2015-04/2015-04-28 MINUTES 12TH\n  MEETING.json",
@@ -713,7 +717,8 @@
         "../data/2015-04/2015-04-28 MINUTES 12TH\n  MEETING.json",
         "../content/months/2015-04/2015-04-28 MINUTES 12TH  MEETING.md"
       ]
-    }
+    },
+    "error": "Error processing meeting Council (2015-04-28 00:00:00) WordMeeting vote-coverage guardrail failed for https://pub-london.escribemeetings.com//Meeting.aspx?Id=6776597e-35fc-4126-b692-b71e825c7b8a&Agenda=PostMinutes&lang=English: raw source has 29 'YEAS:' occurrence(s) but 30 Yeas row(s) (more) were parsed. Refusing to silently mis-count roll calls - see issue #199 guardrail (a)."
   },
   {
     "date": "2015-05-12",
@@ -752,7 +757,7 @@
     "meeting_type": "Council",
     "local_path": "data/2015-05/2015-05-26 MINUTES 16TH MEETING.json",
     "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=982da458-f083-4344-b9e9-e87d850cc0c7&Agenda=PostMinutes&lang=English",
-    "status": "done",
+    "status": "failed",
     "result_path": "2015-05/2015-05-26 MINUTES 16TH MEETING",
     "renamed_from": {
       "old_path": "data/2015-05/2015-05-26 MINUTES 16TH\n  MEETING.json",
@@ -761,14 +766,15 @@
         "../data/2015-05/2015-05-26 MINUTES 16TH\n  MEETING.json",
         "../content/months/2015-05/2015-05-26 MINUTES 16TH  MEETING.md"
       ]
-    }
+    },
+    "error": "Error processing meeting Council (2015-05-26 00:00:00) WordMeeting vote-coverage guardrail failed for https://pub-london.escribemeetings.com//Meeting.aspx?Id=982da458-f083-4344-b9e9-e87d850cc0c7&Agenda=PostMinutes&lang=English: raw source has 45 'YEAS:' occurrence(s) but 47 Yeas row(s) (more) were parsed. Refusing to silently mis-count roll calls - see issue #199 guardrail (a)."
   },
   {
     "date": "2015-06-10",
     "meeting_type": "Council",
     "local_path": "data/2015-06/2015-06-10 MINUTES 17TH MEETING.json",
     "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=208b0458-c104-43a4-96c2-197ae5d7ca6a&Agenda=PostMinutes&lang=English",
-    "status": "done",
+    "status": "failed",
     "result_path": "2015-06/2015-06-10 MINUTES 17TH MEETING",
     "renamed_from": {
       "old_path": "data/2015-06/2015-06-10 MINUTES 17TH\n  MEETING.json",
@@ -777,7 +783,8 @@
         "../data/2015-06/2015-06-10 MINUTES 17TH\n  MEETING.json",
         "../content/months/2015-06/2015-06-10 MINUTES 17TH  MEETING.md"
       ]
-    }
+    },
+    "error": "Error processing meeting Council (2015-06-10 00:00:00) WordMeeting vote-coverage guardrail failed for https://pub-london.escribemeetings.com//Meeting.aspx?Id=208b0458-c104-43a4-96c2-197ae5d7ca6a&Agenda=PostMinutes&lang=English: raw source has 24 'YEAS:' occurrence(s) but 32 Yeas row(s) (more) were parsed. Refusing to silently mis-count roll calls - see issue #199 guardrail (a)."
   },
   {
     "date": "2015-06-18",
@@ -858,7 +865,7 @@
     "local_path": "data/2015-09/2015-09-15 MINUTES 25TH MEETING.json",
     "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=fefbf506-b288-49f2-94de-7262b921e3bc&Agenda=PostMinutes&lang=English",
     "status": "failed",
-    "error": "Error processing meeting Council (2015-09-15 00:00:00) WordMeeting vote-coverage guardrail failed for https://pub-london.escribemeetings.com//Meeting.aspx?Id=fefbf506-b288-49f2-94de-7262b921e3bc&Agenda=PostMinutes&lang=English: raw source has 17 'YEAS:' occurrence(s) but only 16 Yeas row(s) were parsed. Refusing to silently undercount roll calls - see issue #199 guardrail (a)."
+    "error": "Error processing meeting Council (2015-09-15 00:00:00) WordMeeting vote-coverage guardrail failed for https://pub-london.escribemeetings.com//Meeting.aspx?Id=fefbf506-b288-49f2-94de-7262b921e3bc&Agenda=PostMinutes&lang=English: raw source has 17 'YEAS:' occurrence(s) but 16 Yeas row(s) (fewer) were parsed. Refusing to silently mis-count roll calls - see issue #199 guardrail (a)."
   },
   {
     "date": "2015-09-29",
@@ -922,7 +929,7 @@
     "local_path": "data/2016-01/2016-01-04 MINUTES SECOND\n  MEETING.json",
     "old_url": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=57074342-96a9-4e65-aa06-2c7cefde5166&Agenda=PostMinutes&lang=English",
     "status": "failed",
-    "error": "Error processing meeting Council (2016-01-04 00:00:00) WordMeeting vote-coverage guardrail failed for https://pub-london.escribemeetings.com//Meeting.aspx?Id=57074342-96a9-4e65-aa06-2c7cefde5166&Agenda=PostMinutes&lang=English: raw source has 38 'YEAS:' occurrence(s) but only 35 Yeas row(s) were parsed. Refusing to silently undercount roll calls - see issue #199 guardrail (a)."
+    "error": "Error processing meeting Council (2016-01-04 00:00:00) WordMeeting vote-coverage guardrail failed for https://pub-london.escribemeetings.com//Meeting.aspx?Id=57074342-96a9-4e65-aa06-2c7cefde5166&Agenda=PostMinutes&lang=English: raw source has 38 'YEAS:' occurrence(s) but 35 Yeas row(s) (fewer) were parsed. Refusing to silently mis-count roll calls - see issue #199 guardrail (a)."
   },
   {
     "date": "2016-01-12",

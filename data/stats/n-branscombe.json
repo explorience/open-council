@@ -36,24 +36,24 @@
     "trendDirection": "declining"
   },
   "voting": {
-    "totalVotes": 2660,
-    "yeas": 2460,
-    "nays": 200,
+    "totalVotes": 2551,
+    "yeas": 2359,
+    "nays": 192,
     "absent": 0,
     "participationRate": 100,
-    "yeaRate": 92.4812030075188,
-    "contestedDissentRate": 26.82926829268293,
-    "contestedVotes": 697,
-    "substantiveVotes": 2330,
-    "substantiveYeas": 2137,
-    "substantiveNays": 193,
+    "yeaRate": 92.4735397883183,
+    "contestedDissentRate": 26.29310344827586,
+    "contestedVotes": 696,
+    "substantiveVotes": 2285,
+    "substantiveYeas": 2093,
+    "substantiveNays": 192,
     "substantiveParticipationRate": 100,
-    "substantiveYeaRate": 91.7167381974249
+    "substantiveYeaRate": 91.59737417943107
   },
   "budgetVoting": {
-    "totalBudgetVotes": 457,
-    "budgetYeas": 399,
-    "budgetNays": 58,
+    "totalBudgetVotes": 443,
+    "budgetYeas": 386,
+    "budgetNays": 57,
     "budgetAbsent": 0
   },
   "topAlignments": [],
@@ -153,9 +153,9 @@
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 2052,
-      "yeas": 1919,
-      "nays": 133,
+      "totalVotes": 1943,
+      "yeas": 1818,
+      "nays": 125,
       "participationRate": 100
     },
     {

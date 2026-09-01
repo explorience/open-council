@@ -42,23 +42,23 @@
     "trendDirection": "declining"
   },
   "voting": {
-    "totalVotes": 4794,
-    "yeas": 4506,
-    "nays": 199,
+    "totalVotes": 4712,
+    "yeas": 4426,
+    "nays": 197,
     "absent": 70,
-    "participationRate": 98.14351272423863,
-    "yeaRate": 95.77045696068012,
-    "contestedDissentRate": 16.957026713124275,
-    "contestedVotes": 861,
-    "substantiveVotes": 3725,
-    "substantiveYeas": 3521,
-    "substantiveNays": 176,
-    "substantiveParticipationRate": 99.24832214765101,
-    "substantiveYeaRate": 95.23938328374358
+    "participationRate": 98.11120543293718,
+    "yeaRate": 95.73869781527146,
+    "contestedDissentRate": 14.415322580645162,
+    "contestedVotes": 992,
+    "substantiveVotes": 3850,
+    "substantiveYeas": 3623,
+    "substantiveNays": 197,
+    "substantiveParticipationRate": 99.22077922077922,
+    "substantiveYeaRate": 94.84293193717276
   },
   "budgetVoting": {
-    "totalBudgetVotes": 368,
-    "budgetYeas": 345,
+    "totalBudgetVotes": 365,
+    "budgetYeas": 342,
     "budgetNays": 20,
     "budgetAbsent": 2
   },
@@ -159,10 +159,10 @@
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 2165,
-      "yeas": 2036,
-      "nays": 108,
-      "participationRate": 99.03002309468822
+      "totalVotes": 2067,
+      "yeas": 1940,
+      "nays": 106,
+      "participationRate": 98.98403483309144
     },
     {
       "committee": "Planning and Environment Committee",
@@ -194,8 +194,8 @@
     },
     {
       "committee": "Community and Protective Services Committee",
-      "totalVotes": 111,
-      "yeas": 109,
+      "totalVotes": 127,
+      "yeas": 125,
       "nays": 2,
       "participationRate": 100
     }

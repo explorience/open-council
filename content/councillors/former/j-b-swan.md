@@ -5,18 +5,18 @@ slug: "j-b-swan"
 meetingCount: 147
 yearsActive: "2010 - 2014"
 isCurrent: false
-totalVotes: 2959
-votesYea: 2750
-votesNay: 209
+totalVotes: 2843
+votesYea: 2638
+votesNay: 205
 votesAbsent: 0
 votesRecused: 0
 votesAbstained: 0
 votesOther: 0
 attendanceRate: 88.2
 participationRate: 100.0
-yeaRate: 92.9
-contestedDissentRate: 18.7
-contestedVotes: 775
+yeaRate: 92.8
+contestedDissentRate: 19.0
+contestedVotes: 770
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,9 +33,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 2,959 |
-| Voted Yea | 2,750 (92.9%) |
-| Voted Nay | 209 (7.1%) |
+| Total Votes | 2,843 |
+| Voted Yea | 2,638 (92.8%) |
+| Voted Nay | 205 (7.2%) |
 | Absent | 0 (0.0%) |
 | Recused (conflict of interest) | 0 (0.0%) |
 | Abstained | 0 (0.0%) |
@@ -49,17 +49,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,582 |
-| Voted Yea | 2,383 (92.3%) |
-| Voted Nay | 199 (7.7%) |
+| Substantive Votes | 2,532 |
+| Voted Yea | 2,327 (91.9%) |
+| Voted Nay | 205 (8.1%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 18.7%
-- **Contested Votes**: 775
+- **Dissent Rate**: 19.0%
+- **Contested Votes**: 770
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -70,9 +70,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 504 |
-| Voted Yea | 439 (87.1%) |
-| Voted Nay | 65 (12.9%) |
+| Budget Votes | 489 |
+| Voted Yea | 425 (86.9%) |
+| Voted Nay | 64 (13.1%) |
 | Absent | 0 |
 
 
@@ -94,7 +94,7 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 2,353 | 2,218 | 135 | 100.0% |
+| Council | 2,237 | 2,106 | 131 | 100.0% |
 | Strategic Priorities and Policy Committee | 373 | 306 | 67 | 100.0% |
 | Corporate Services Committee | 233 | 226 | 7 | 100.0% |
 

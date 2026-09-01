@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T22:51:59.929Z",
+  "generatedAt": "2026-09-01T00:13:44.878Z",
   "matrix": {
     "j-morgan": {
       "h-mcalister": 94.61538461538461,
@@ -10,7 +10,7 @@
       "s-trosow": 82.94573643410853,
       "c-rahman": 91.6030534351145,
       "s-lehman": 95.18072289156626,
-      "a-hopkins": 93.21608040201005,
+      "a-hopkins": 93.04123711340206,
       "p-van-meerbergen": 88.97338403041825,
       "s-franke": 88.09523809523809,
       "e-peloza": 92.99610894941634,
@@ -146,7 +146,7 @@
       "s-hillier": 94.33962264150944
     },
     "a-hopkins": {
-      "j-morgan": 93.21608040201005,
+      "j-morgan": 93.04123711340206,
       "h-mcalister": 92.6829268292683,
       "s-lewis": 88.31615120274914,
       "p-cuddy": 85.15625,
@@ -306,5 +306,5 @@
   ],
   "type": "topic",
   "topicName": "economic-development",
-  "motionCount": 744
+  "motionCount": 721
 }

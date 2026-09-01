@@ -1,8 +1,8 @@
 {
   "councillor": "A. Kayabaga",
   "slug": "a-kayabaga",
-  "generatedAt": "2026-08-31T22:51:49.765Z",
-  "sourceHash": "71f78079b8664a20",
+  "generatedAt": "2026-09-01T00:13:27.512Z",
+  "sourceHash": "c89decb146e3da17",
   "summary": {
     "totalMeetings": 195,
     "totalVotes": 2997,
@@ -746,7 +746,7 @@
       "vote": "absent",
       "result": "Majority Winner: No majority",
       "passed": false,
-      "unanimous": true,
+      "unanimous": false,
       "unanimousSource": "unknown",
       "rollCallOrdinal": 1
     },
@@ -762,7 +762,7 @@
       "vote": "absent",
       "result": "Majority Winner: No majority",
       "passed": false,
-      "unanimous": true,
+      "unanimous": false,
       "unanimousSource": "unknown",
       "rollCallOrdinal": 2
     },
@@ -778,7 +778,7 @@
       "vote": "absent",
       "result": "Majority Winner: No majority",
       "passed": false,
-      "unanimous": true,
+      "unanimous": false,
       "unanimousSource": "unknown",
       "rollCallOrdinal": 3
     },
@@ -794,7 +794,7 @@
       "vote": "absent",
       "result": "Majority Winner: Stephanie Marentette",
       "passed": false,
-      "unanimous": true,
+      "unanimous": false,
       "unanimousSource": "unknown",
       "rollCallOrdinal": 4
     },
@@ -1386,7 +1386,7 @@
       "vote": "absent",
       "result": "Majority Winner: J. Helmer",
       "passed": false,
-      "unanimous": true,
+      "unanimous": false,
       "unanimousSource": "unknown",
       "rollCallOrdinal": 3
     },
@@ -1786,7 +1786,7 @@
       "vote": "absent",
       "result": "Majority Winner: No majority",
       "passed": false,
-      "unanimous": true,
+      "unanimous": false,
       "unanimousSource": "unknown",
       "rollCallOrdinal": 1
     },
@@ -2282,7 +2282,7 @@
       "vote": "other",
       "result": "Majority Winner: J. Morgan",
       "passed": false,
-      "unanimous": true,
+      "unanimous": false,
       "unanimousSource": "unknown",
       "rollCallOrdinal": 1
     },
@@ -2522,7 +2522,7 @@
       "vote": "other",
       "result": "Majority Winner: Tania Goodine; Margaret Parks; Steven Stefanko",
       "passed": false,
-      "unanimous": true,
+      "unanimous": false,
       "unanimousSource": "unknown",
       "rollCallOrdinal": 2
     },
@@ -2538,7 +2538,7 @@
       "vote": "other",
       "result": "Majority Winner: Tania Goodine; Margaret Parks; Steven Stefanko",
       "passed": false,
-      "unanimous": true,
+      "unanimous": false,
       "unanimousSource": "unknown",
       "rollCallOrdinal": 2
     },
@@ -2554,7 +2554,7 @@
       "vote": "other",
       "result": "Majority Winner: Tania Goodine; Margaret Parks; Steven Stefanko",
       "passed": false,
-      "unanimous": true,
+      "unanimous": false,
       "unanimousSource": "unknown",
       "rollCallOrdinal": 2
     },
@@ -3434,7 +3434,7 @@
       "vote": "absent",
       "result": "Majority Winner: Megan Halliday",
       "passed": false,
-      "unanimous": true,
+      "unanimous": false,
       "unanimousSource": "unknown",
       "rollCallOrdinal": 1
     },
@@ -3466,7 +3466,7 @@
       "vote": "absent",
       "result": "Majority Winner: JJ Strybosch",
       "passed": false,
-      "unanimous": true,
+      "unanimous": false,
       "unanimousSource": "unknown",
       "rollCallOrdinal": 1
     },
@@ -6474,7 +6474,7 @@
       "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
-      "unanimous": true,
+      "unanimous": false,
       "unanimousSource": "unknown",
       "rollCallOrdinal": 1
     },
@@ -6490,7 +6490,7 @@
       "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
-      "unanimous": true,
+      "unanimous": false,
       "unanimousSource": "unknown",
       "rollCallOrdinal": 1
     },
@@ -6506,7 +6506,7 @@
       "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
-      "unanimous": true,
+      "unanimous": false,
       "unanimousSource": "unknown",
       "rollCallOrdinal": 1
     },
@@ -6522,7 +6522,7 @@
       "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
-      "unanimous": true,
+      "unanimous": false,
       "unanimousSource": "unknown",
       "rollCallOrdinal": 1
     },
@@ -6538,7 +6538,7 @@
       "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
-      "unanimous": true,
+      "unanimous": false,
       "unanimousSource": "unknown",
       "rollCallOrdinal": 2
     },
@@ -6554,7 +6554,7 @@
       "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
-      "unanimous": true,
+      "unanimous": false,
       "unanimousSource": "unknown",
       "rollCallOrdinal": 2
     },
@@ -6570,7 +6570,7 @@
       "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
-      "unanimous": true,
+      "unanimous": false,
       "unanimousSource": "unknown",
       "rollCallOrdinal": 2
     },
@@ -6586,7 +6586,7 @@
       "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
-      "unanimous": true,
+      "unanimous": false,
       "unanimousSource": "unknown",
       "rollCallOrdinal": 2
     },
@@ -6602,7 +6602,7 @@
       "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
-      "unanimous": true,
+      "unanimous": false,
       "unanimousSource": "unknown",
       "rollCallOrdinal": 3
     },
@@ -6618,7 +6618,7 @@
       "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
-      "unanimous": true,
+      "unanimous": false,
       "unanimousSource": "unknown",
       "rollCallOrdinal": 3
     },
@@ -6634,7 +6634,7 @@
       "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
-      "unanimous": true,
+      "unanimous": false,
       "unanimousSource": "unknown",
       "rollCallOrdinal": 3
     },
@@ -6650,7 +6650,7 @@
       "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
-      "unanimous": true,
+      "unanimous": false,
       "unanimousSource": "unknown",
       "rollCallOrdinal": 3
     },
@@ -6666,7 +6666,7 @@
       "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
-      "unanimous": true,
+      "unanimous": false,
       "unanimousSource": "unknown",
       "rollCallOrdinal": 4
     },
@@ -6682,7 +6682,7 @@
       "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
-      "unanimous": true,
+      "unanimous": false,
       "unanimousSource": "unknown",
       "rollCallOrdinal": 4
     },
@@ -6698,7 +6698,7 @@
       "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
-      "unanimous": true,
+      "unanimous": false,
       "unanimousSource": "unknown",
       "rollCallOrdinal": 4
     },
@@ -6714,7 +6714,7 @@
       "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
-      "unanimous": true,
+      "unanimous": false,
       "unanimousSource": "unknown",
       "rollCallOrdinal": 4
     },
@@ -6730,7 +6730,7 @@
       "vote": "other",
       "result": "Majority Winner: Nour Al Farawi; Citlally Maciel; Krista Arnold; Melissa Allder; Wajdi Khouri; Beverley Madigan; Hetham Hani Jamel Abu Kakry",
       "passed": false,
-      "unanimous": true,
+      "unanimous": false,
       "unanimousSource": "unknown",
       "rollCallOrdinal": 5
     },
@@ -6746,7 +6746,7 @@
       "vote": "other",
       "result": "Majority Winner: Nour Al Farawi; Citlally Maciel; Krista Arnold; Melissa Allder; Wajdi Khouri; Beverley Madigan; Hetham Hani Jamel Abu Kakry",
       "passed": false,
-      "unanimous": true,
+      "unanimous": false,
       "unanimousSource": "unknown",
       "rollCallOrdinal": 5
     },
@@ -6762,7 +6762,7 @@
       "vote": "other",
       "result": "Majority Winner: Nour Al Farawi; Citlally Maciel; Krista Arnold; Melissa Allder; Wajdi Khouri; Beverley Madigan; Hetham Hani Jamel Abu Kakry",
       "passed": false,
-      "unanimous": true,
+      "unanimous": false,
       "unanimousSource": "unknown",
       "rollCallOrdinal": 5
     },
@@ -6778,7 +6778,7 @@
       "vote": "other",
       "result": "Majority Winner: Nour Al Farawi; Citlally Maciel; Krista Arnold; Melissa Allder; Wajdi Khouri; Beverley Madigan; Hetham Hani Jamel Abu Kakry",
       "passed": false,
-      "unanimous": true,
+      "unanimous": false,
       "unanimousSource": "unknown",
       "rollCallOrdinal": 5
     },
@@ -6794,7 +6794,7 @@
       "vote": "other",
       "result": "Majority Winner: Nour Al Farawi; Citlally Maciel; Krista Arnold; Melissa Allder; Wajdi Khouri; Beverley Madigan; Hetham Hani Jamel Abu Kakry",
       "passed": false,
-      "unanimous": true,
+      "unanimous": false,
       "unanimousSource": "unknown",
       "rollCallOrdinal": 5
     },
@@ -6810,7 +6810,7 @@
       "vote": "other",
       "result": "Majority Winner: Nour Al Farawi; Citlally Maciel; Krista Arnold; Melissa Allder; Wajdi Khouri; Beverley Madigan; Hetham Hani Jamel Abu Kakry",
       "passed": false,
-      "unanimous": true,
+      "unanimous": false,
       "unanimousSource": "unknown",
       "rollCallOrdinal": 5
     },
@@ -6826,7 +6826,7 @@
       "vote": "other",
       "result": "Majority Winner: Nour Al Farawi; Citlally Maciel; Krista Arnold; Melissa Allder; Wajdi Khouri; Beverley Madigan; Hetham Hani Jamel Abu Kakry",
       "passed": false,
-      "unanimous": true,
+      "unanimous": false,
       "unanimousSource": "unknown",
       "rollCallOrdinal": 5
     },
@@ -15754,7 +15754,7 @@
       "vote": "other",
       "result": "Majority Winner: P. Squire; S. Hillier; S. Lehman; S. Lewis; A. Hopkins",
       "passed": false,
-      "unanimous": true,
+      "unanimous": false,
       "unanimousSource": "unknown",
       "rollCallOrdinal": 1
     },
@@ -15770,7 +15770,7 @@
       "vote": "other",
       "result": "Majority Winner: P. Squire; S. Hillier; S. Lehman; S. Lewis; A. Hopkins",
       "passed": false,
-      "unanimous": true,
+      "unanimous": false,
       "unanimousSource": "unknown",
       "rollCallOrdinal": 1
     },
@@ -15786,7 +15786,7 @@
       "vote": "other",
       "result": "Majority Winner: P. Squire; S. Hillier; S. Lehman; S. Lewis; A. Hopkins",
       "passed": false,
-      "unanimous": true,
+      "unanimous": false,
       "unanimousSource": "unknown",
       "rollCallOrdinal": 1
     },
@@ -15802,7 +15802,7 @@
       "vote": "other",
       "result": "Majority Winner: P. Squire; S. Hillier; S. Lehman; S. Lewis; A. Hopkins",
       "passed": false,
-      "unanimous": true,
+      "unanimous": false,
       "unanimousSource": "unknown",
       "rollCallOrdinal": 1
     },
@@ -15818,7 +15818,7 @@
       "vote": "other",
       "result": "Majority Winner: P. Squire; S. Hillier; S. Lehman; S. Lewis; A. Hopkins",
       "passed": false,
-      "unanimous": true,
+      "unanimous": false,
       "unanimousSource": "unknown",
       "rollCallOrdinal": 1
     },
@@ -15834,7 +15834,7 @@
       "vote": "other",
       "result": "Majority Winner: Hopkins; Squire; Hillier; Lehman; Lewis",
       "passed": false,
-      "unanimous": true,
+      "unanimous": false,
       "unanimousSource": "unknown",
       "rollCallOrdinal": 2
     },
@@ -15850,7 +15850,7 @@
       "vote": "other",
       "result": "Majority Winner: Hopkins; Squire; Hillier; Lehman; Lewis",
       "passed": false,
-      "unanimous": true,
+      "unanimous": false,
       "unanimousSource": "unknown",
       "rollCallOrdinal": 2
     },
@@ -15866,7 +15866,7 @@
       "vote": "other",
       "result": "Majority Winner: Hopkins; Squire; Hillier; Lehman; Lewis",
       "passed": false,
-      "unanimous": true,
+      "unanimous": false,
       "unanimousSource": "unknown",
       "rollCallOrdinal": 2
     },
@@ -15882,7 +15882,7 @@
       "vote": "other",
       "result": "Majority Winner: Hopkins; Squire; Hillier; Lehman; Lewis",
       "passed": false,
-      "unanimous": true,
+      "unanimous": false,
       "unanimousSource": "unknown",
       "rollCallOrdinal": 2
     },
@@ -15898,7 +15898,7 @@
       "vote": "other",
       "result": "Majority Winner: Hopkins; Squire; Hillier; Lehman; Lewis",
       "passed": false,
-      "unanimous": true,
+      "unanimous": false,
       "unanimousSource": "unknown",
       "rollCallOrdinal": 2
     },
@@ -15962,7 +15962,7 @@
       "vote": "other",
       "result": "Majority Winner: M. Cassidy",
       "passed": false,
-      "unanimous": true,
+      "unanimous": false,
       "unanimousSource": "unknown",
       "rollCallOrdinal": 6
     },
@@ -17354,7 +17354,7 @@
       "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
-      "unanimous": true,
+      "unanimous": false,
       "unanimousSource": "unknown",
       "rollCallOrdinal": 1
     },
@@ -17370,7 +17370,7 @@
       "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
-      "unanimous": true,
+      "unanimous": false,
       "unanimousSource": "unknown",
       "rollCallOrdinal": 2
     },
@@ -17386,7 +17386,7 @@
       "vote": "other",
       "result": "Majority Winner: Chelsea Smith",
       "passed": false,
-      "unanimous": true,
+      "unanimous": false,
       "unanimousSource": "unknown",
       "rollCallOrdinal": 3
     },
@@ -17466,7 +17466,7 @@
       "vote": "absent",
       "result": "",
       "passed": false,
-      "unanimous": true,
+      "unanimous": false,
       "unanimousSource": "unknown",
       "rollCallOrdinal": 0
     },
@@ -25834,7 +25834,7 @@
       "vote": "absent",
       "result": "",
       "passed": false,
-      "unanimous": true,
+      "unanimous": false,
       "unanimousSource": "unknown",
       "rollCallOrdinal": 0
     },
@@ -28394,7 +28394,7 @@
       "vote": "absent",
       "result": "Majority Winner: Beauregard, Natalie; Santarelli, Joseph; Vogel, Brennan; Pate, Robert",
       "passed": false,
-      "unanimous": true,
+      "unanimous": false,
       "unanimousSource": "unknown",
       "rollCallOrdinal": 1
     },
@@ -33146,7 +33146,7 @@
       "vote": "absent",
       "result": "Majority Winner: Councillor A. Kayabaga",
       "passed": false,
-      "unanimous": true,
+      "unanimous": false,
       "unanimousSource": "unknown",
       "rollCallOrdinal": 1
     },
@@ -33930,7 +33930,7 @@
       "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
-      "unanimous": true,
+      "unanimous": false,
       "unanimousSource": "unknown",
       "rollCallOrdinal": 1
     },
@@ -33946,7 +33946,7 @@
       "vote": "other",
       "result": "Majority Winner: No majority",
       "passed": false,
-      "unanimous": true,
+      "unanimous": false,
       "unanimousSource": "unknown",
       "rollCallOrdinal": 2
     },
@@ -33962,7 +33962,7 @@
       "vote": "other",
       "result": "Majority Winner: Kiwi Fruit",
       "passed": false,
-      "unanimous": true,
+      "unanimous": false,
       "unanimousSource": "unknown",
       "rollCallOrdinal": 3
     },
@@ -45306,7 +45306,7 @@
       "vote": "absent",
       "result": "Motion Passed",
       "passed": true,
-      "unanimous": true,
+      "unanimous": false,
       "unanimousSource": "unknown",
       "rollCallOrdinal": 0
     },

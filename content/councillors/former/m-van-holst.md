@@ -5,18 +5,18 @@ slug: "m-van-holst"
 meetingCount: 461
 yearsActive: "2014 - 2022"
 isCurrent: false
-totalVotes: 8063
-votesYea: 7186
-votesNay: 413
+totalVotes: 7972
+votesYea: 7108
+votesNay: 400
 votesAbsent: 176
 votesRecused: 1
 votesAbstained: 5
 votesOther: 282
 attendanceRate: 96.4
 participationRate: 94.2
-yeaRate: 94.6
-contestedDissentRate: 22.3
-contestedVotes: 1743
+yeaRate: 94.7
+contestedDissentRate: 20.9
+contestedVotes: 1801
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,9 +33,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 8,063 |
-| Voted Yea | 7,186 (89.1%) |
-| Voted Nay | 413 (5.1%) |
+| Total Votes | 7,972 |
+| Voted Yea | 7,108 (89.2%) |
+| Voted Nay | 400 (5.0%) |
 | Absent | 176 (2.2%) |
 | Recused (conflict of interest) | 1 (0.0%) |
 | Abstained | 5 (0.1%) |
@@ -50,17 +50,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 5,429 |
-| Voted Yea | 4,731 (93.2%) |
-| Voted Nay | 346 (6.8%) |
+| Substantive Votes | 5,848 |
+| Voted Yea | 5,065 (92.7%) |
+| Voted Nay | 400 (7.3%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 22.3%
-- **Contested Votes**: 1,743
+- **Dissent Rate**: 20.9%
+- **Contested Votes**: 1,801
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -71,8 +71,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 844 |
-| Voted Yea | 760 (90.9%) |
+| Budget Votes | 840 |
+| Voted Yea | 756 (90.9%) |
 | Voted Nay | 76 (9.1%) |
 | Absent | 8 |
 
@@ -95,7 +95,7 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 4,781 | 4,399 | 256 | 97.4% |
+| Council | 4,690 | 4,321 | 243 | 97.3% |
 | Strategic Priorities and Policy Committee | 1,903 | 1,496 | 122 | 85.0% |
 | Civic Works Committee | 912 | 872 | 21 | 97.9% |
 | Corporate Services Committee | 358 | 312 | 12 | 90.5% |

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T22:51:59.923Z",
+  "generatedAt": "2026-09-01T00:13:44.872Z",
   "matrix": {
     "j-morgan": {
       "h-mcalister": 89.95433789954338,
@@ -10,7 +10,7 @@
       "s-trosow": 72.0524017467249,
       "c-rahman": 84.71074380165288,
       "s-lehman": 92.08633093525181,
-      "a-hopkins": 90.19073569482289,
+      "a-hopkins": 90,
       "p-van-meerbergen": 83.33333333333334,
       "s-franke": 81.4977973568282,
       "e-peloza": 88.07339449541286,
@@ -146,7 +146,7 @@
       "s-hillier": 90.51918735891647
     },
     "a-hopkins": {
-      "j-morgan": 90.19073569482289,
+      "j-morgan": 90,
       "h-mcalister": 90.65420560747664,
       "s-lewis": 82.09606986899564,
       "p-cuddy": 77.5330396475771,
@@ -306,5 +306,5 @@
   ],
   "type": "topic",
   "topicName": "transportation",
-  "motionCount": 1481
+  "motionCount": 1444
 }

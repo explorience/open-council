@@ -5,9 +5,9 @@ slug: "m-cassidy"
 meetingCount: 536
 yearsActive: "2014 - 2022"
 isCurrent: false
-totalVotes: 9767
-votesYea: 8889
-votesNay: 404
+totalVotes: 9666
+votesYea: 8794
+votesNay: 398
 votesAbsent: 184
 votesRecused: 18
 votesAbstained: 2
@@ -15,8 +15,8 @@ votesOther: 270
 attendanceRate: 96.0
 participationRate: 95.1
 yeaRate: 95.7
-contestedDissentRate: 15.4
-contestedVotes: 1843
+contestedDissentRate: 14.4
+contestedVotes: 1960
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,9 +33,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 9,767 |
-| Voted Yea | 8,889 (91.0%) |
-| Voted Nay | 404 (4.1%) |
+| Total Votes | 9,666 |
+| Voted Yea | 8,794 (91.0%) |
+| Voted Nay | 398 (4.1%) |
 | Absent | 184 (1.9%) |
 | Recused (conflict of interest) | 18 (0.2%) |
 | Abstained | 2 (0.0%) |
@@ -50,17 +50,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 6,450 |
-| Voted Yea | 5,769 (94.6%) |
-| Voted Nay | 328 (5.4%) |
+| Substantive Votes | 6,870 |
+| Voted Yea | 6,104 (93.9%) |
+| Voted Nay | 398 (6.1%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 15.4%
-- **Contested Votes**: 1,843
+- **Dissent Rate**: 14.4%
+- **Contested Votes**: 1,960
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -71,8 +71,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 872 |
-| Voted Yea | 806 (93.1%) |
+| Budget Votes | 871 |
+| Voted Yea | 805 (93.1%) |
 | Voted Nay | 60 (6.9%) |
 | Absent | 6 |
 
@@ -95,11 +95,11 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 4,462 | 4,100 | 242 | 97.3% |
+| Council | 4,354 | 3,998 | 236 | 97.2% |
 | Planning and Environment Committee | 1,956 | 1,871 | 33 | 97.3% |
 | Strategic Priorities and Policy Committee | 1,858 | 1,487 | 104 | 85.6% |
 | Community and Protective Services Committee | 601 | 588 | 12 | 99.8% |
-| Corporate Services Committee | 495 | 463 | 3 | 94.1% |
+| Corporate Services Committee | 502 | 470 | 3 | 94.2% |
 | Civic Works Committee | 395 | 380 | 10 | 98.7% |
 
 
