@@ -21,6 +21,7 @@ from datetime import datetime
 from bs4 import BeautifulSoup
 
 from WordMeeting import WordMeeting
+from content import BARE_TITLE_TOKENS
 
 failures = 0
 
@@ -220,6 +221,61 @@ def check_dedupe_removes_repeated_named_motion():
         print(f"FAIL: dedupe-removes-repeated-named-motion: {e}")
 
 
+def check_bare_title_tokens_filtered_from_word_meeting():
+    """Regression test for the phantom "Chair"/"Vice Chair" voter entries
+    this branch's re-scrape introduced in 2011-11-21 and 2013-04-16 (issue
+    #199 Blocker B): WordMeeting.py's voter-name path (parse_names, shared
+    by PRESENT/ALSO PRESENT/ABSENT parsing AND the Yeas:/Nays: roll-call
+    parsing) must apply the same BARE_TITLE_TOKENS filter content.py's
+    Vote.add_row and Meeting.py's get_names already had from #201, not a
+    second hand-rolled copy of it - so this test imports the token set
+    from content.py rather than hardcoding "Chair" itself, guaranteeing it
+    stays in lockstep if the shared set ever changes.
+
+    parse_names doesn't touch `self`, so it's callable unbound - no need
+    to construct a full WordMeeting/BeautifulSoup fixture for this.
+    """
+    global failures
+    ok = True
+
+    # Reproduces the actual 2011-11-21 pattern: the presiding officer's
+    # titles rendered as bare appositives inside a comma-joined list.
+    real_world_text = "A. Haidar, Chair, K. Parker, Vice Chair, Argyle Community Association (ACA)"
+    names = WordMeeting.parse_names(None, real_world_text)
+    for token in ("Chair", "Vice Chair"):
+        if token in names:
+            ok = False
+            print(f"FAIL: bare-title-filtered (real-world text): {token!r} survived parse_names -> {names}")
+    if "A. Haidar" not in names or "K. Parker" not in names:
+        ok = False
+        print(f"FAIL: bare-title-filtered (real-world text): a real name was dropped -> {names}")
+
+    # Every token in the shared set, individually, in a YEAS:-style list -
+    # covers Deputy Mayor/Acting Mayor/Acting Chair too, not just the two
+    # tokens the two known-bad meetings happened to exercise.
+    for token in BARE_TITLE_TOKENS:
+        text = f"P. Squire, J. Morgan, {token}, A. Hopkins"
+        names = WordMeeting.parse_names(None, text)
+        if token in names:
+            ok = False
+            print(f"FAIL: bare-title-filtered ({token!r}): survived parse_names -> {names}")
+        if "P. Squire" not in names or "J. Morgan" not in names or "A. Hopkins" not in names:
+            ok = False
+            print(f"FAIL: bare-title-filtered ({token!r}): a real name was dropped -> {names}")
+
+    # Exact match only, post-trim - a real name that merely CONTAINS a
+    # title token as a substring must never be dropped.
+    names = WordMeeting.parse_names(None, "R. Chairperson, S. Mayoral, T. Vice Chairman")
+    if len(names) != 3:
+        ok = False
+        print(f"FAIL: bare-title-filtered (substring guard): expected 3 names kept, got {names}")
+
+    if ok:
+        print("PASS: bare-title-filtered: BARE_TITLE_TOKENS applied in WordMeeting.parse_names")
+    else:
+        failures += 1
+
+
 def check_guardrail_fires_on_genuine_undercount():
     """The guardrail (issue #199 guardrail a) must actually fail loudly,
     not just pass quietly, when parsing genuinely drops a roll call."""
@@ -298,6 +354,7 @@ check_motion_text_attached(
 )
 
 check_section_key_disambiguation()
+check_bare_title_tokens_filtered_from_word_meeting()
 check_guardrail_fires_on_genuine_undercount()
 check_guardrail_fires_on_genuine_overcount()
 check_dedupe_removes_repeated_named_motion()

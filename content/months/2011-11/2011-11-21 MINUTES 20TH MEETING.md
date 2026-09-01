@@ -3019,9 +3019,7 @@ The motion to adopt clause 10, as amended, is
 > |2011|
 > |from  S. Orser|
 > |A. Haidar|
-> |Chair|
 > |K. Parker|
-> |Vice Chair|
 > |Argyle Community Association (ACA)|
 > |respectively|
 > |with respect to the condition|

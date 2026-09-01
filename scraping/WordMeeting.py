@@ -27,7 +27,7 @@ import re
 from datetime import datetime
 from bs4 import BeautifulSoup, NavigableString
 from callout import callout
-from content import Content, Paragraph, Motion, Vote, MotionResult, Mover, Bills, BILL_TEXT
+from content import Content, Paragraph, Motion, Vote, MotionResult, Mover, Bills, BILL_TEXT, BARE_TITLE_TOKENS
 
 
 # A vote/result block that lands OUTSIDE any table - e.g. the closed-session
@@ -56,6 +56,41 @@ BOILERPLATE_RESULT_TEXT_RE = re.compile(r'^Motion\s+(Passed|Failed|Carried)(\s*\
 # was actually being voted on).
 NARRATIVE_PARAGRAPH_RE = re.compile(
     r'\b(enters?|leaves?|left)\s+the\s+meeting\b|\brecess(es|ed)?\b|\breconven(e|es|ed)\b',
+    re.IGNORECASE
+)
+
+# Prefix version of the same narrative check, for stripping a LEADING
+# narrative clause off the front of a string (see _is_boilerplate_motion).
+# `.{0,N}?` (not `[^.]*?`) deliberately allows periods before AND after
+# the keyword - councillor initials like "H.L. Usher" or "W.J. Armstrong"
+# contain mid-name periods that would otherwise be mistaken for sentence
+# boundaries and truncate the match early. But it's bounded, NOT `.*?`
+# unbounded: a real substantive motion can legitimately use one of these
+# words mid-sentence (e.g. 2014-05-20 item 1#2's genuine motion "Approve
+# that the meeting of the Approval Authority be adjourned and that the
+# City Council reconvene as the Municipal Council." - "reconvene" ~90
+# chars in, not narration) and an unbounded lazy match would swallow the
+# ENTIRE sentence looking for that keyword, misfiring on real content.
+# These narration sentences are always short and keyword-early in
+# practice ("At H:MM PM Councillor NAME leaves the meeting[ at H:MM PM]."),
+# so bounding both sides to a generous but finite width keeps the match
+# scoped to an actual narration clause and lets it fail closed - no
+# match, no strip, falls through to "not boilerplate" - on anything
+# longer or with the keyword deeper in a real sentence.
+_NARRATIVE_PREFIX_RE = re.compile(
+    r'^\s*.{0,60}?\b(?:enters?|leaves?|left|recess(?:es|ed)?|reconven(?:e|es|ed))\b.{0,40}?\.\s*',
+    re.IGNORECASE
+)
+
+# The transitional "The motion [to X] is put." sentence that precedes a
+# roll call in Word-format minutes. Normally its own standalone Paragraph
+# (harmless - _attach_content's look-behind merge walks straight past it
+# to the real motion text one position further back), but see
+# _is_boilerplate_motion below for the case where it gets fused into the
+# SAME paragraph as the boilerplate result. Bounded for the same reason
+# as _NARRATIVE_PREFIX_RE above.
+_MOTION_IS_PUT_PREFIX_RE = re.compile(
+    r'^\s*the\s+motion\b.{0,80}?\bis\s+put\b\.?\s*',
     re.IGNORECASE
 )
 
@@ -269,7 +304,22 @@ class WordMeeting:
         names = [re.sub(r'\.$', '', n).strip() for n in names]
 
         # Filter out empty names and single characters
-        return [n for n in names if n and len(n) > 1]
+        names = [n for n in names if n and len(n) > 1]
+
+        # Mirror the bare-title guard in content.py's Vote.add_row and
+        # Meeting.py's get_names: eSCRIBE can render the presiding officer
+        # as an appositive inside a comma-joined list (e.g. "...J. Morgan,
+        # Chair, A. Hopkins...") and the substring .replace('Mayor', '')
+        # above only strips "Mayor" and the parenthesized "(Chair)" form -
+        # a bare, unparenthesized "Chair", "Vice Chair", "Deputy Mayor", or
+        # "Acting Chair" appositive survives untouched and would otherwise
+        # become a phantom voter with no name attached. This pre-2018
+        # Word-document path had never had this filter applied (only the
+        # post-2018 eSCRIBE-HTML paths did), which let two 2011-2017
+        # meetings ship title-only voter entries. Exact match after trim
+        # only - never a substring match - so a real name is never
+        # dropped. See scraping/verify_vote_tallies.py check (a).
+        return [n for n in names if n not in BARE_TITLE_TOKENS]
 
     def extract_opening_content(self):
         """Extract opening content before main agenda items."""
@@ -463,8 +513,50 @@ class WordMeeting:
 
     @staticmethod
     def _is_boilerplate_motion(motion):
+        """True if this Motion's own motion_texts carries nothing but the
+        boilerplate result echo - the tell that _attach_content's
+        look-behind merge should replace it with the real motion text.
+
+        Usually that's the whole combined string (BOILERPLATE_RESULT_TEXT_RE
+        matches it outright). But a narration sentence (someone entering/
+        leaving, a recess) and/or the "The motion to X is put." transition
+        sentence can land fused into the SAME paragraph as the result
+        instead of as their own standalone paragraphs ahead of it - e.g.
+        2012-04-10 item 15#3: "At 9:50 PM Councillor H.L. Usher leaves the
+        meeting. The motion to Approve clauses 9 to 15 is put. Motion
+        Passed" as ONE motion_texts entry. Fused this way, matching the
+        WHOLE string against BOILERPLATE_RESULT_TEXT_RE fails - the
+        narration is real, non-boilerplate text glued onto the front - so
+        the look-behind merge never fires and this fused text ships as
+        motionText instead of the actual recommendation (issue #199 punch
+        list item 4). Peel any LEADING clause that's pure narration
+        (_NARRATIVE_PREFIX_RE) or the "is put" transition
+        (_MOTION_IS_PUT_PREFIX_RE) and re-test whatever's left - general
+        by construction, not scoped to "leaves the meeting" or this one
+        date.
+        """
         combined = ' '.join(p.string for p in motion.motion_texts if getattr(p, 'string', '')).strip()
-        return combined == '' or bool(BOILERPLATE_RESULT_TEXT_RE.match(combined))
+        if combined == '' or bool(BOILERPLATE_RESULT_TEXT_RE.match(combined)):
+            return True
+
+        normalized = re.sub(r'[\s\xa0]+', ' ', combined).strip()
+        remainder = normalized
+        peeled = False
+        while True:
+            stripped = _NARRATIVE_PREFIX_RE.sub('', remainder, count=1)
+            if stripped == remainder:
+                stripped = _MOTION_IS_PUT_PREFIX_RE.sub('', remainder, count=1)
+            if stripped == remainder:
+                break
+            remainder = stripped.strip()
+            peeled = True
+
+        # Nothing was peeled off - not the fused-narration case, don't
+        # misclassify a real boilerplate-free motion as boilerplate just
+        # because it happens to fail the plain match too.
+        if not peeled:
+            return False
+        return remainder == '' or bool(BOILERPLATE_RESULT_TEXT_RE.match(remainder))
 
     def _dedupe_repeated_vote_blocks(self):
         """Drop a vote-bearing Motion that's an exact repeat of one already
