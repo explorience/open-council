@@ -617,135 +617,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 10:47 PM.
 
 ****
-
----
-
-## Votes
-
-*11 substantive votes at this meeting (5 contested, 6 unanimous). Procedural motions excluded.*
-
-### 2.1. London Community Grants Program Policy Update
-
-> That the proposed Community Grants Policy update, BE AMENDED to revise the definition of "Unincorporated grassroots group" to read as follows: "refers to a group of five or more individuals joined by mutual consent for a common, non-profit purpose..."
-
-**✅ Motion Passed (13 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
-
-**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
-
-</details>
-
-### 4.1. Master Accommodation Plan - Alternate Work Strategies Update
-
-> That the consideration of the entire matter of Item 4.1 BE REFERRED to the Municipal Council meeting of July 25, 2023 for disposition.
-
-**✅ Motion Passed (10 to 4)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (10):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman)
-
-**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
-
-</details>
-
-### 4.1. Master Accommodation Plan - Alternate Work Strategies Update
-
-> That the delegation requests of J. Zaifman, London Home Builders' Association and M. Wallace, London Development Institute BE APPROVED to be heard at this time; it being noted that a communication from C. Butler was also received.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 4.1. Master Accommodation Plan - Alternate Work Strategies Update
-
-> That the referral, as amended, BE APPROVED.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 4.2. Consideration of Appointment to the Eldon House Board of Directors (Requires 1 Member)
-
-> That Bryan McClure BE APPOINTED to the Eldon House Board of Directors for the term ending November 14, 2026.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 4.2. Consideration of Appointment to the Eldon House Board of Directors (Requires 1 Member)
-
-> Consideration of Appointment to the Eldon House Board of Directors.
-
-**❌ Majority Winner: Bryan McClure 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Absent (15):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 4.3. Consideration of Appointment to the London Hydro Board of Directors (Requires 2 Members)
-
-> That the following actions be taken with respect to appointments to the London Hydro Board of Directors: a)  Tim Watson and Cedric Gomes BE APPOINTED to the London Hydro Board of Directors as First Class Members for the term ending the close of the annual meeting of the shareholders to be held in...
-
-**✅ Motion Passed (14 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Corrine Rahman](/councillors/current/c-rahman)
-
-</details>
-
-### 4.3. Consideration of Appointment to the London Hydro Board of Directors (Requires 2 Members)
-
-> Consideration of appointment to the London Hydro Board of Directors.
-
-**❌ Majority Winner: Tim Watson; Cedric Gomes 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Absent (30):** [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 4.4. Request to Amend Current London Transit Commission By-law - C. Roy, Secretary, London Transit Commission
-
-> That the following actions be taken with respect to amending the current by-law A.-6377-206, a By-law to continue the London Transit Commission: a)    the Civic Administration BE DIRECTED to bring forward a by-law to amend By-law A.-6377-206, to add two more voting members to the London Transit C...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 4.5. 2nd Report of the Governance Working Group
-
-> That the following actions be taken with respect to the 2nd Report of the Governance Working Group:    a)   the following actions be taken with respect to the meeting dates for the Governance Working Group (GWG):    i)    the next meeting of the GWG BE SET for Thursday, July 27 at 1:00 PM; and,  ...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 4.6. Intimate Partner Violence and Femicide - Mayor J. Morgan
-
-> That the following actions be taken with respect to the communication from Mayor J. Morgan regarding Intimate Partner Violence and Femicide as an epidemic:    a)   the issues of violence against women and girls in London BE RECOGNIZED as serious to the health and wellness of local families; it be...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
 ---
 
 ## Full Transcript
@@ -1740,3 +1611,99 @@ There is a motion to refer. So you do need to vote one way or the other. Closing
 That concludes the items on our agenda. I'm looking for a motion to adjourned. Yes, moved by Councillor Vameer-Vergen, seconded by Councillor Cuddy. All those in favor by hand, we are adjourned.
 
 </details>
+
+---
+
+## Votes
+
+*8 substantive votes at this meeting (3 contested, 5 unanimous). Procedural motions excluded.*
+
+### 2.1. London Community Grants Program Policy Update
+
+> That the proposed Community Grants Policy update, BE AMENDED to revise the definition of "Unincorporated grassroots group" to read as follows: "refers to a group of five or more individuals joined by mutual consent for a common, non-profit purpose..."
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 4.1. Master Accommodation Plan - Alternate Work Strategies Update
+
+> That the consideration of the entire matter of Item 4.1 BE REFERRED to the Municipal Council meeting of July 25, 2023 for disposition.
+
+**✅ Motion Passed (10 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 4.1. Master Accommodation Plan - Alternate Work Strategies Update
+
+> That the delegation requests of J. Zaifman, London Home Builders' Association and M. Wallace, London Development Institute BE APPROVED to be heard at this time; it being noted that a communication from C. Butler was also received.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 4.1. Master Accommodation Plan - Alternate Work Strategies Update
+
+> That the referral, as amended, BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 4.2. Consideration of Appointment to the Eldon House Board of Directors (Requires 1 Member)
+
+> That Bryan McClure BE APPOINTED to the Eldon House Board of Directors for the term ending November 14, 2026.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 4.3. Consideration of Appointment to the London Hydro Board of Directors (Requires 2 Members)
+
+> That the following actions be taken with respect to appointments to the London Hydro Board of Directors: a)  Tim Watson and Cedric Gomes BE APPOINTED to the London Hydro Board of Directors as First Class Members for the term ending the close of the annual meeting of the shareholders to be held in...
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Corrine Rahman](/councillors/current/c-rahman)
+
+</details>
+
+### 4.4. Request to Amend Current London Transit Commission By-law - C. Roy, Secretary, London Transit Commission
+
+> That the following actions be taken with respect to amending the current by-law A.-6377-206, a By-law to continue the London Transit Commission: a)    the Civic Administration BE DIRECTED to bring forward a by-law to amend By-law A.-6377-206, to add two more voting members to the London Transit C...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 4.6. Intimate Partner Violence and Femicide - Mayor J. Morgan
+
+> That the following actions be taken with respect to the communication from Mayor J. Morgan regarding Intimate Partner Violence and Femicide as an epidemic:    a)   the issues of violence against women and girls in London BE RECOGNIZED as serious to the health and wellness of local families; it be...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+

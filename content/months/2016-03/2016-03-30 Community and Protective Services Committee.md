@@ -940,7 +940,7 @@ Motion
 
 ## Votes
 
-*21 substantive votes at this meeting (21 contested, 0 unanimous). Procedural motions excluded.*
+*22 substantive votes at this meeting (1 contested, 21 unanimous). Procedural motions excluded.*
 
 ### 2. 1st Report of the
   Childcare Advisory Committee
@@ -950,12 +950,7 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Mo Salih](/councillors/current/m-salih), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Jared Zaifman](/councillors/current/j-zaifman)
-
-</details>
+Unanimous (6-0)
 
 ### 3. 3rd Report of the
   London Housing Advisory Committee
@@ -965,12 +960,7 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Mo Salih](/councillors/current/m-salih), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Jared Zaifman](/councillors/current/j-zaifman)
-
-</details>
+Unanimous (6-0)
 
 ### 4. Update on
   Immigrants and the Labour Market: A London Perspective
@@ -980,12 +970,7 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Mo Salih](/councillors/current/m-salih), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Jared Zaifman](/councillors/current/j-zaifman)
-
-</details>
+Unanimous (6-0)
 
 ### 5. Open Air Burning
   By-law - Air Quality and Enforcement
@@ -995,12 +980,7 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Mo Salih](/councillors/current/m-salih), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Jared Zaifman](/councillors/current/j-zaifman)
-
-</details>
+Unanimous (6-0)
 
 ### 6. Neighbourhood Family Centre - London
   District Catholic School Board - St. Francis Catholic School
@@ -1010,12 +990,7 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Mo Salih](/councillors/current/m-salih), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Jared Zaifman](/councillors/current/j-zaifman)
-
-</details>
+Unanimous (6-0)
 
 ### 7. Corporate
   Sponsorship and Advertising Policy
@@ -1025,12 +1000,7 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Mo Salih](/councillors/current/m-salih), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Jared Zaifman](/councillors/current/j-zaifman)
-
-</details>
+Unanimous (6-0)
 
 ### 8. Outdoor Tethering
   of Dogs
@@ -1040,12 +1010,7 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Mo Salih](/councillors/current/m-salih), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher)
-
-</details>
+Unanimous (4-0)
 
 ### 9. Springbank Park
   Playground Upgrade Sponsored by Jenny Jones - London Hometown Hero Project
@@ -1055,12 +1020,7 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Mo Salih](/councillors/current/m-salih), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Jared Zaifman](/councillors/current/j-zaifman)
-
-</details>
+Unanimous (5-0)
 
 ### 10. LAV lll Public Art
   Monument
@@ -1070,12 +1030,7 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Jared Zaifman](/councillors/current/j-zaifman)
-
-</details>
+Unanimous (5-0)
 
 ### 11. 2016-2019 Service
   Accountability Agreement Between the Corporation of the City of London
@@ -1086,12 +1041,7 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Mo Salih](/councillors/current/m-salih), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Jared Zaifman](/councillors/current/j-zaifman)
-
-</details>
+Unanimous (5-0)
 
 ### 12. Community Response to Situations of
   Potential Vulnerable Occupancy
@@ -1101,12 +1051,7 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Mo Salih](/councillors/current/m-salih), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Jared Zaifman](/councillors/current/j-zaifman)
-
-</details>
+Unanimous (5-0)
 
 ### 13. New Provincial
   Funding for Energy Retrofits in Social Housing
@@ -1116,12 +1061,7 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Mo Salih](/councillors/current/m-salih), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Jared Zaifman](/councillors/current/j-zaifman)
-
-</details>
+Unanimous (5-0)
 
 ### 14. Climate Change Risk
   Disclosures on Gas Pumps
@@ -1131,12 +1071,7 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Mo Salih](/councillors/current/m-salih), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Jared Zaifman](/councillors/current/j-zaifman)
-
-</details>
+Unanimous (5-0)
 
 ### 14. Climate Change Risk
   Disclosures on Gas Pumps
@@ -1146,12 +1081,7 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Mo Salih](/councillors/current/m-salih), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher)
-
-</details>
+Unanimous (4-0)
 
 ### 16. Pay and Display
   Parking Receipt Advertisement
@@ -1161,12 +1091,7 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Mo Salih](/councillors/current/m-salih), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Jared Zaifman](/councillors/current/j-zaifman)
-
-</details>
+Unanimous (5-0)
 
 ### 17. Tea Cup Pigs
 
@@ -1175,12 +1100,16 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (5-0)
 
-**Yea (10):** [Mo Salih](/councillors/current/m-salih), [Mo Salih](/councillors/current/m-salih), [Bill Armstrong](/councillors/current/b-armstrong), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Jared Zaifman](/councillors/current/j-zaifman), [Jared Zaifman](/councillors/current/j-zaifman)
+### 17. Tea Cup Pigs
 
-</details>
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
 
 ### 19. 2nd and 3rd Reports
   of London Diversity and Race Relations Advisory Committee
@@ -1190,12 +1119,7 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Mo Salih](/councillors/current/m-salih), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Jared Zaifman](/councillors/current/j-zaifman)
-
-</details>
+Unanimous (5-0)
 
 ### 20. 3rd and 4th Reports
   of the Animal Welfare Advisory Committee
@@ -1205,12 +1129,7 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Mo Salih](/councillors/current/m-salih), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Jared Zaifman](/councillors/current/j-zaifman)
-
-</details>
+Unanimous (5-0)
 
 ### 21. 2nd Report of the
   Community Safety and Crime Prevention Advisory Committee
@@ -1236,12 +1155,7 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Mo Salih](/councillors/current/m-salih), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Jared Zaifman](/councillors/current/j-zaifman)
-
-</details>
+Unanimous (5-0)
 
 ### 23. (ADDED) Additional Community and Protective
   Services Committee Meetings
@@ -1251,10 +1165,5 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Mo Salih](/councillors/current/m-salih), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Jared Zaifman](/councillors/current/j-zaifman)
-
-</details>
+Unanimous (5-0)
 

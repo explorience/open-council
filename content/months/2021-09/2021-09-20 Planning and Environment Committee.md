@@ -625,60 +625,6 @@ The Planning and Environment Committee convenes, In Closed Session, from 6:36 PM
 
 
 The meeting adjourned at 6:40 PM.
-
----
-
-## Votes
-
-*6 substantive votes at this meeting (0 contested, 6 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 and 2.2, inclusive, BE APPROVED.
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (2-0)
-
-### 3.1. Demolition Request on Heritage Listed Property - 900 King Street
-
-> That, on the recommendation of the Director, Planning and Development, with the advice of the Heritage Planner, with respect to the demolition request for the Anne Eadie Park Stage on the heritage listed property at 900 King Street, the Chief Building Official BE ADVISED that Municipal Council co...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (2-0)
-
-### 3.2. 1154 Sunningdale Road East (Z-9368)
-
-> That, on the recommendation of the Director, Planning & Development, with respect to the application by Mary Dann, relating to the property located at 1154 Sunningdale Road East, the proposed by-law appended to the staff report dated September 20, 2021 as Appendix "A" BE INTRODUCED at the Municip...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (2-0)
-
-### 3.4. 250-272 Springbank Drive (OZ-9310)
-
-> That, on the recommendation of the Director, Planning and Development the following actions be taken with respect to the application of 2355440 Ontario Inc., relating to the property located at 250-272 Springbank Drive: a)    the proposed by-law appended to the staff report dated September 20, 20...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (2-0)
-
-### 3.5. Argyle Core Area Community Improvement Plan (O-9299)
-
-> That, on the recommendation of the Director, Planning and Development and Interim Director, Economic Services and Supports, the following actions BE TAKEN with respect to the Argyle Core Area Community Improvement Plan (CIP): a)    the proposed by-law appended to the staff report dated September ...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (2-0)
-
-### 4.1. 9th Report of the London Advisory Committee on Heritage
-
-> That the 9th Report of the London Advisory Committee on Heritage, from its meeting held on September 8, 2021, BE RECIEVED for information.
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (2-0)
 ---
 
 ## Full Transcript
@@ -805,3 +751,42 @@ Chairman the urban design element was dealt with through staff last fall through
 chair i'm prepared to receive and file i'm not prepared to uh as a committee endorse their recommendations on on heritage designation on those two properties frankly there's not enough information in their report for me to make a decision on that yes committee chair i just want to point out that this matter has been dealt with previously and there is a big difference between receiving and filing going separately to endorse actions taken from a committee i will uh i gonna let the motion receive and file stand and uh we'll vote on that closing the vote the motion carries 4 to 0 all right and now we have uh matters traditional business we have confidential matters so i'm looking for a motion to go into confidential session for the first two reasons enunciated we're no longer uh meeting on the third matter which is litigation potential litigation so if i could get that motion moved by councilor hopkins seconded by councilor layman and i'll call the vote uh voting by hand and we're going to go into confidential session and i'll just they'll just take a moment
 
 </details>
+
+---
+
+## Votes
+
+*4 substantive votes at this meeting (0 contested, 4 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 and 2.2, inclusive, BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 3.4. 250-272 Springbank Drive (OZ-9310)
+
+> That, on the recommendation of the Director, Planning and Development the following actions be taken with respect to the application of 2355440 Ontario Inc., relating to the property located at 250-272 Springbank Drive: a)    the proposed by-law appended to the staff report dated September 20, 20...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 3.5. Argyle Core Area Community Improvement Plan (O-9299)
+
+> That, on the recommendation of the Director, Planning and Development and Interim Director, Economic Services and Supports, the following actions BE TAKEN with respect to the Argyle Core Area Community Improvement Plan (CIP): a)    the proposed by-law appended to the staff report dated September ...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. 9th Report of the London Advisory Committee on Heritage
+
+> That the 9th Report of the London Advisory Committee on Heritage, from its meeting held on September 8, 2021, BE RECIEVED for information.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+

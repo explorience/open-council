@@ -672,7 +672,7 @@ The
 
 ## Votes
 
-*8 substantive votes at this meeting (8 contested, 0 unanimous). Procedural motions excluded.*
+*18 substantive votes at this meeting (1 contested, 17 unanimous). Procedural motions excluded.*
 
 ### 2. Properties located
   at 2155 and 2253 Richmond Street (39T-04513)
@@ -682,12 +682,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Paul Hubert](/councillors/current/p-hubert), [Joe Fontana](/councillors/current/j-f-fontana), [Joni Baechler](/councillors/current/j-l-baechler), [Bud Polhill](/councillors/current/b-polhill)
-
-</details>
+Unanimous (4-0)
 
 ### 3. Victoria on the
   River Subdivision (39T-09502)
@@ -697,10 +692,22 @@ The
 **✅ Motion
   Passed**
 
+Unanimous (4-0)
+
+### 4. Properties located
+  at 218 Burnside Drive and 220-222 Burnside Drive (Z-8299)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Paul Hubert](/councillors/current/p-hubert), [Joe Fontana](/councillors/current/j-f-fontana), [Joni Baechler](/councillors/current/j-l-baechler), [Bud Polhill](/councillors/current/b-polhill)
+**Yea (4):** [Joe Fontana](/councillors/current/j-f-fontana), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill)
+
+**Nay (1):** [Paul Hubert](/councillors/current/p-hubert)
 
 </details>
 
@@ -712,14 +719,17 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (5-0)
 
-**Yea (14):** [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Fontana](/councillors/current/j-f-fontana), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill)
+### 4. Properties located
+  at 218 Burnside Drive and 220-222 Burnside Drive (Z-8299)
 
-**Nay (1):** [Paul Hubert](/councillors/current/p-hubert)
+> Motion   Passed
 
-</details>
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
 
 ### 5. Urban Forest
   Strategy and Implementation Plan - Keeping the Forest in the Forest City
@@ -729,12 +739,27 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (5-0)
 
-**Yea (15):** [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Fontana](/councillors/current/j-f-fontana), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill)
+### 5. Urban Forest
+  Strategy and Implementation Plan - Keeping the Forest in the Forest City
 
-</details>
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 5. Urban Forest
+  Strategy and Implementation Plan - Keeping the Forest in the Forest City
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
 
 ### 6. Industrial Lands
   Community Improvement Plan and Official Plan Amendment (O-8318)
@@ -744,12 +769,37 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (5-0)
 
-**Yea (20):** [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Fontana](/councillors/current/j-f-fontana), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill)
+### 6. Industrial Lands
+  Community Improvement Plan and Official Plan Amendment (O-8318)
 
-</details>
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 6. Industrial Lands
+  Community Improvement Plan and Official Plan Amendment (O-8318)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 6. Industrial Lands
+  Community Improvement Plan and Official Plan Amendment (O-8318)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
 
 ### 7. Property located at
   313 Clarke Road (OZ-8300)
@@ -759,12 +809,17 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (4-0)
 
-**Yea (9):** [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Joe Fontana](/councillors/current/j-f-fontana), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill)
+### 7. Property located at
+  313 Clarke Road (OZ-8300)
 
-</details>
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
 
 ### 8. Chelsea Green
   Subdivision (formerly Terrace Street Subdivision) (39T-02511)
@@ -774,12 +829,17 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (4-0)
 
-**Yea (8):** [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill)
+### 8. Chelsea Green
+  Subdivision (formerly Terrace Street Subdivision) (39T-02511)
 
-</details>
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
 
 ### 9. Storage Units and Non-Permanent Structures
 
@@ -788,10 +848,14 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (4-0)
 
-**Yea (8):** [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill)
+### 9. Storage Units and Non-Permanent Structures
 
-</details>
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
 

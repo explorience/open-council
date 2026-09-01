@@ -1116,128 +1116,6 @@ The Planning and Environment Committee convenes, in Closed Session, from 10:13 P
 
 
 The meeting adjourned at 10:44 PM
-
----
-
-## Votes
-
-*13 substantive votes at this meeting (2 contested, 11 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 to 2.7, inclusive, BE APPROVED.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 3.1. 414 and 418 Old Wonderland Road (39CD-22501)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Four Fourteen Inc., relating to the property located at 414 and 418 Old Wonderland Road: a)    the Approval Authority BE ADVISED that no issues were raised at t...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 3.2. 254 Hill Street - Demolition Request for a Heritage Listed Property
-
-> That, on the recommendation of the Director, Planning and Development, with the advice of the Heritage Planner, the following actions be taken with respect to the demolition request for the built resources on the heritage listed property located at 254 Hill Street: a)    the Chief Building Offici...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 3.3. 432 Grey Street - Request to Remove the Fugitive Slave Chapel from a Heritage Designated Property
-
-> That, on the recommendation of the Director, Planning and Development, with the advice of the Heritage Planner, the application under Section 34 of the Ontario Heritage Act seeking consent to remove the Fugitive Slave Chapel building from the heritage designated property located at 432 Grey Stree...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 3.4. 18 Elm Street (Z-9496)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Housing Development Corporation, London, relating to the property located at 18 Elm Street: a)    the proposed by-law appended to the staff report dated July 25...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 3.5. 538 Southdale Road East (Z-9480)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Mansion Homes Inc. relating to the property located at 538 Southdale Road East: a)    the proposed by-law appended to the staff report dated July 25, 2022 as Ap...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 3.6. Parking Standards Review (OZ-9520)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the Parking Standards Review: a)    the proposed by-law appended to the staff report dated July 25, 2022 as Appendix B, BE INTRODUCED at the Municipal Council meeting to be held o...
-
-**✅ Motion Passed (3 to 2) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (1):** [Shawn Lewis](/councillors/current/s-lewis)
-
-**Absent (1):** [Ed Holder](/councillors/current/e-holder)
-
-</details>
-
-### 3.7. 2009 Wharncliffe Road South (OZ-9348)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by 2425293 Ontario Inc., relating to the property located at 2009 Wharncliffe Road South: a)    the proposed by-law appended to the staff report dated July 25, 202...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.9. 672 Hamilton Road - Demolition Request for a Heritage Listed Property
-
-> That, on the recommendation of the Director, Planning and Development, with the advice of the Heritage Planner, with respect to the demolition request for the dwelling on the heritage listed property located at 672 Hamilton Road: a)    the Chief Building Official BE ADVISED that Municipal Council...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.10. 1067, 1069, and 1071 Wellington Road (OZ-9263 / Z-9264)
-
-> That, the following actions be taken with respect to the application by Century Centre Developments Inc., relating to the properties located at 1067-1071 Wellington Road: a)  the application BE REFERRED back to allow the Civic Administration and the Applicant give further consideration to  the 10...
-
-**✅ Motion Passed (4 to 2) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 3.10. 1067, 1069, and 1071 Wellington Road (OZ-9263 / Z-9264)
-
-> That M. Campbell's delegation BE EXTENDED beyond five minutes.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.11. 574 Southdale Road East (Z-9481)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Mansion Homes Inc., relating to the property located at 574 Southdale Road East: a)    the proposed by-law appended to the staff report dated July 25, 2022 as A...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 3.11. 574 Southdale Road East (Z-9481)
-
-> Motion to consider Item 3.11 to after Item 3.5.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
 ---
 
 ## Full Transcript
@@ -2856,3 +2734,74 @@ I'd like to report out the progress was made on the matter to go into camera in 
 Can we do a hand vote? All those in favor? Thank you and enjoy your evening, good night. Glad I didn't miss it.
 
 </details>
+
+---
+
+## Votes
+
+*6 substantive votes at this meeting (2 contested, 4 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.7, inclusive, BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 3.6. Parking Standards Review (OZ-9520)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the Parking Standards Review: a)    the proposed by-law appended to the staff report dated July 25, 2022 as Appendix B, BE INTRODUCED at the Municipal Council meeting to be held o...
+
+**✅ Motion Passed (3 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Stephen Turner](/councillors/current/s-turner)
+
+**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+
+</details>
+
+### 3.7. 2009 Wharncliffe Road South (OZ-9348)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by 2425293 Ontario Inc., relating to the property located at 2009 Wharncliffe Road South: a)    the proposed by-law appended to the staff report dated July 25, 202...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.10. 1067, 1069, and 1071 Wellington Road (OZ-9263 / Z-9264)
+
+> That, the following actions be taken with respect to the application by Century Centre Developments Inc., relating to the properties located at 1067-1071 Wellington Road: a)  the application BE REFERRED back to allow the Civic Administration and the Applicant give further consideration to  the 10...
+
+**✅ Motion Passed (4 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder)
+
+**Nay (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 3.10. 1067, 1069, and 1071 Wellington Road (OZ-9263 / Z-9264)
+
+> That M. Campbell's delegation BE EXTENDED beyond five minutes.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.11. 574 Southdale Road East (Z-9481)
+
+> Motion to consider Item 3.11 to after Item 3.5.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+

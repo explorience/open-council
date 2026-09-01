@@ -668,7 +668,7 @@ The meeting adjourned at 5:45 PM.
 
 ## Votes
 
-*16 substantive votes at this meeting (16 contested, 0 unanimous). Procedural motions excluded.*
+*17 substantive votes at this meeting (0 contested, 17 unanimous). Procedural motions excluded.*
 
 ### 2. 1st Report of the
   Transportation Advisory Committee
@@ -678,12 +678,7 @@ The meeting adjourned at 5:45 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
+Unanimous (5-0)
 
 ### 3. 1st Report of the
   Cycling Advisory Committee
@@ -693,12 +688,7 @@ The meeting adjourned at 5:45 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
+Unanimous (5-0)
 
 ### 4. 2nd Report of the
   Rapid Transit Implementation Working Group
@@ -708,12 +698,7 @@ The meeting adjourned at 5:45 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
+Unanimous (5-0)
 
 ### 5. STAFF REPORT - 2017
   Renew London Infrastructure Construction Program
@@ -723,12 +708,7 @@ The meeting adjourned at 5:45 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
+Unanimous (5-0)
 
 ### 6. STAFF REPORT - Lead
   Mitigation Program Update
@@ -738,12 +718,7 @@ The meeting adjourned at 5:45 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
+Unanimous (5-0)
 
 ### 7. STAFF REPORT -
   Appointment of Consulting Engineer for the Stormwater Servicing Municipal
@@ -754,12 +729,7 @@ The meeting adjourned at 5:45 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
+Unanimous (5-0)
 
 ### 8. STAFF REPORT -
   Queens Avenue and Colborne Street Cycletracks
@@ -769,12 +739,17 @@ The meeting adjourned at 5:45 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (5-0)
 
-**Yea (10):** [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Virginia Ridley](/councillors/current/v-ridley)
+### 8. STAFF REPORT -
+  Queens Avenue and Colborne Street Cycletracks
 
-</details>
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
 
 ### 9. STAFF REPORT -
   Southdale Road West - Environmental Assessment - Pine Valley Boulevard to
@@ -786,12 +761,7 @@ The meeting adjourned at 5:45 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
+Unanimous (5-0)
 
 ### 10. STAFF REPORT - 
   Kiwanis Park Pathway Connection - Ontario Municipal Cycling Infrastructure
@@ -802,12 +772,7 @@ The meeting adjourned at 5:45 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
+Unanimous (5-0)
 
 ### 11. STAFF REPORT - Engineering
   Fees Contract Amendment: Huron Street Watermain River Crossing Project No.
@@ -818,12 +783,7 @@ The meeting adjourned at 5:45 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
+Unanimous (5-0)
 
 ### 12. STAFF REPORT -
   Single Source: Arva-Huron Pipeline Chamber Upgrades and Pipe Replacement
@@ -834,12 +794,7 @@ The meeting adjourned at 5:45 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
+Unanimous (5-0)
 
 ### 13. STAFF REPORT -
   Updates: Garbage and Recycling Collection and Next Steps
@@ -847,14 +802,9 @@ The meeting adjourned at 5:45 PM.
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Michael van Holst](/councillors/current/m-van-holst), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert)
-
-</details>
+Unanimous (3-0)
 
 ### 14. STAFF REPORT -
   Execution of Contribution Amending Agreement with the Government of Canada
@@ -865,12 +815,7 @@ The meeting adjourned at 5:45 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
+Unanimous (5-0)
 
 ### 15. (ADDED) Comments on
   Environmental Bill of Rights Registry - Final Draft Strategy for a Waste Free
@@ -879,14 +824,9 @@ The meeting adjourned at 5:45 PM.
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Michael van Holst](/councillors/current/m-van-holst), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert)
-
-</details>
+Unanimous (3-0)
 
 ### 16. (ADDED) Deferred
   Matters List
@@ -896,12 +836,7 @@ The meeting adjourned at 5:45 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
+Unanimous (5-0)
 
 ### 17. (ADDED) Request for Delegation Status
 
@@ -910,10 +845,5 @@ The meeting adjourned at 5:45 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
+Unanimous (5-0)
 

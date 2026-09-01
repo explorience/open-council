@@ -655,7 +655,7 @@ The meeting adjourned at 6:20 PM.
 
 ## Votes
 
-*12 substantive votes at this meeting (12 contested, 0 unanimous). Procedural motions excluded.*
+*17 substantive votes at this meeting (2 contested, 15 unanimous). Procedural motions excluded.*
 
 ### 2. 10th Report of the
   Environmental and Ecological Planning Advisory Committee
@@ -665,12 +665,7 @@ The meeting adjourned at 6:20 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (4-0)
 
 ### 3. 5th Report of the
   Agricultural Advisory Committee
@@ -680,12 +675,7 @@ The meeting adjourned at 6:20 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (4-0)
 
 ### 4. Lots on Cranbrook
   Road and Thornley Street (H-8634-2)
@@ -695,12 +685,7 @@ The meeting adjourned at 6:20 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (4-0)
 
 ### 5. Victoria on the
   River Subdivision (Phase 3) (39T-09502)
@@ -710,12 +695,7 @@ The meeting adjourned at 6:20 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (4-0)
 
 ### 6. Property located at
   4206 Perkins Road (H-8677)
@@ -725,12 +705,7 @@ The meeting adjourned at 6:20 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (4-0)
 
 ### 7. Chelsea Green
   Meadows Delegation
@@ -740,12 +715,7 @@ The meeting adjourned at 6:20 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (4-0)
 
 ### 8. Funding Request for
   the Hyde Park Business Association/Business Improvement Area (BIA)
@@ -756,10 +726,69 @@ The meeting adjourned at 6:20 PM.
 **✅ Motion
   Passed**
 
+Unanimous (4-0)
+
+### 9. Properties located
+  at 479-485, 487 and 489 Talbot Street
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
+### 9. Properties located
+  at 479-485, 487 and 489 Talbot Street
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
+### 9. Properties located
+  at 479-485, 487 and 489 Talbot Street
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
+### 9. Properties located
+  at 479-485, 487 and 489 Talbot Street
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
+**Yea (3):** [Phil Squire](/councillors/current/p-squire), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
+
+**Nay (1):** [Jesse Helmer](/councillors/current/j-helmer)
+
+</details>
+
+### 9. Properties located
+  at 479-485, 487 and 489 Talbot Street
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Phil Squire](/councillors/current/p-squire), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
+
+**Nay (1):** [Jesse Helmer](/councillors/current/j-helmer)
 
 </details>
 
@@ -771,14 +800,7 @@ The meeting adjourned at 6:20 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (22):** [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park)
-
-**Nay (2):** [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer)
-
-</details>
+Unanimous (4-0)
 
 ### 10. Tender 16-94 -
   Invasive Species Management - Irregular Result
@@ -788,12 +810,7 @@ The meeting adjourned at 6:20 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (4-0)
 
 ### 11. Increased
   Assessment of Property Taxes at 300 Dundas Street
@@ -803,12 +820,7 @@ The meeting adjourned at 6:20 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (4-0)
 
 ### 12. CTV London/Jack FM
   Signage Removal - Files 16001285 & 16001286
@@ -818,12 +830,7 @@ The meeting adjourned at 6:20 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (4-0)
 
 ### 13. PEC Deferred List
 
@@ -832,10 +839,5 @@ The meeting adjourned at 6:20 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (4-0)
 

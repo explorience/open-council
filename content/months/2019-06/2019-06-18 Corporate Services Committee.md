@@ -373,7 +373,7 @@ The meeting adjourned at 2:12 PM.
 
 ## Votes
 
-*5 substantive votes at this meeting (1 contested, 4 unanimous). Procedural motions excluded.*
+*5 substantive votes at this meeting (2 contested, 3 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -381,7 +381,22 @@ The meeting adjourned at 2:12 PM.
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
+
+### 2.1. Update: Workplace Diversity and Inclusion
+
+> That, on the recommendation of the Managing Director, Corporate Services and Chief Human Resources Officer, the staff report dated June 18, 2019 with respect to an update on Workplace Diversity and Inclusion BE RECEIVED for information purposes.
+
+**✅ Motion Passed (5 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Jesse Helmer](/councillors/current/j-helmer), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
 
 ### 2.6. 4G+ / 5G Small Cell Pilot Project
 
@@ -389,18 +404,18 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2.8. Expropriation of Land – Wharncliffe Road Widening and Improvements Project
 
 > That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, with the concurrence of the Director, Roads and Transportation and on the advice of the Manager of Realty Services, the following actions be taken with respect to the Wharncliffe Road W...
 
-**✅ Motion Passed (5 to 1) 🔥**
+**✅ Motion Passed (5 to 1)**
 
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder)
+**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Jesse Helmer](/councillors/current/j-helmer)
 
 **Nay (1):** [Arielle Kayabaga](/councillors/current/a-kayabaga)
 
@@ -412,13 +427,5 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
-
-### 3.1. Public Participation Meeting - Not to be heard before 12:30 PM - Council Procedure By-law
-
-> That, on the recommendation of the City Clerk, the proposed by-law appended to the staff report dated June 18, 2019 as Appendix “A” being “A by-law to amend By-law A-50, as amended, being “A by-law to provide for the Rules of Order and Procedure for the Council of The Corporation of the City of L...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
+Unanimous (6-0)
 

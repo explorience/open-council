@@ -1468,7 +1468,7 @@ The meeting adjourned at 9:27 PM
 
 ## Votes
 
-*21 substantive votes at this meeting (21 contested, 0 unanimous). Procedural motions excluded.*
+*27 substantive votes at this meeting (4 contested, 23 unanimous). Procedural motions excluded.*
 
 ### 2. Properties located
   at 3700 Colonel Talbot Road and 3645 Bostwick Road (O-7609)
@@ -1477,12 +1477,7 @@ The meeting adjourned at 9:27 PM
 
 **✅ Motion Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Paul Hubert](/councillors/current/p-hubert), [Joe Fontana](/councillors/current/j-f-fontana), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
-
-</details>
+Unanimous (6-0)
 
 ### 3. Property located at
   260 Sarnia Road (Z-8075)
@@ -1491,12 +1486,44 @@ The meeting adjourned at 9:27 PM
 
 **✅ Motion Passed**
 
+Unanimous (6-0)
+
+### 4. Properties located
+  at 3130 and 3260 Dingman Drive and the rear portion of 4397/4407 Wellington
+  Road South (OZ-8120)
+
+> Motion Passed
+
+**✅ Motion Passed 🔥**
+
 <details>
 <summary>View roll call</summary>
 
-**Yea (6):** [Paul Hubert](/councillors/current/p-hubert), [Joe Fontana](/councillors/current/j-f-fontana), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
+**Yea (4):** [Joe Fontana](/councillors/current/j-f-fontana), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
+
+**Nay (2):** [Paul Hubert](/councillors/current/p-hubert), [Nancy Branscombe](/councillors/current/n-branscombe)
 
 </details>
+
+### 4. Properties located
+  at 3130 and 3260 Dingman Drive and the rear portion of 4397/4407 Wellington
+  Road South (OZ-8120)
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (6-0)
+
+### 4. Properties located
+  at 3130 and 3260 Dingman Drive and the rear portion of 4397/4407 Wellington
+  Road South (OZ-8120)
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (6-0)
 
 ### 4. Properties located
   at 3130 and 3260 Dingman Drive and the rear portion of 4397/4407 Wellington
@@ -1509,9 +1536,26 @@ The meeting adjourned at 9:27 PM
 <details>
 <summary>View roll call</summary>
 
-**Yea (25):** [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Fontana](/councillors/current/j-f-fontana), [Nancy Branscombe](/councillors/current/n-branscombe), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white)
+**Yea (5):** [Paul Hubert](/councillors/current/p-hubert), [Joe Fontana](/councillors/current/j-f-fontana), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
 
-**Nay (5):** [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Nancy Branscombe](/councillors/current/n-branscombe), [Nancy Branscombe](/councillors/current/n-branscombe), [Nancy Branscombe](/councillors/current/n-branscombe)
+**Nay (1):** [Nancy Branscombe](/councillors/current/n-branscombe)
+
+</details>
+
+### 4. Properties located
+  at 3130 and 3260 Dingman Drive and the rear portion of 4397/4407 Wellington
+  Road South (OZ-8120)
+
+> Motion Passed
+
+**✅ Motion Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Joe Fontana](/councillors/current/j-f-fontana), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
+
+**Nay (2):** [Paul Hubert](/councillors/current/p-hubert), [Nancy Branscombe](/councillors/current/n-branscombe)
 
 </details>
 
@@ -1522,12 +1566,7 @@ The meeting adjourned at 9:27 PM
 
 **✅ Motion Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Paul Hubert](/councillors/current/p-hubert), [Joe Fontana](/councillors/current/j-f-fontana), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
-
-</details>
+Unanimous (6-0)
 
 ### 6. Property located at
   699 Wonderland Road North (H-8212)
@@ -1536,12 +1575,7 @@ The meeting adjourned at 9:27 PM
 
 **✅ Motion Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Paul Hubert](/councillors/current/p-hubert), [Joe Fontana](/councillors/current/j-f-fontana), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
-
-</details>
+Unanimous (6-0)
 
 ### 7. Building Division
   Monthly Report for June 2013
@@ -1550,12 +1584,7 @@ The meeting adjourned at 9:27 PM
 
 **✅ Motion Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Paul Hubert](/councillors/current/p-hubert), [Joe Fontana](/councillors/current/j-f-fontana), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
-
-</details>
+Unanimous (6-0)
 
 ### 8. 8th Report of the
   Environmental and Ecological Planning Advisory Committee
@@ -1564,12 +1593,7 @@ The meeting adjourned at 9:27 PM
 
 **✅ Motion Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Paul Hubert](/councillors/current/p-hubert), [Joe Fontana](/councillors/current/j-f-fontana), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
-
-</details>
+Unanimous (6-0)
 
 ### 9. 7th Report of the
   Advisory Committee on the Environment
@@ -1578,12 +1602,7 @@ The meeting adjourned at 9:27 PM
 
 **✅ Motion Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Paul Hubert](/councillors/current/p-hubert), [Joe Fontana](/councillors/current/j-f-fontana), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
-
-</details>
+Unanimous (6-0)
 
 ### 10. Properties located
   at 407 McMahen Street and portions of 652, 654 and 656 Elizabeth Street
@@ -1593,12 +1612,7 @@ The meeting adjourned at 9:27 PM
 
 **✅ Motion Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Paul Hubert](/councillors/current/p-hubert), [Joe Fontana](/councillors/current/j-f-fontana), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
-
-</details>
+Unanimous (6-0)
 
 ### 11. Property located at
   432 Grey Street (Z-8200)
@@ -1607,12 +1621,7 @@ The meeting adjourned at 9:27 PM
 
 **✅ Motion Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Paul Hubert](/councillors/current/p-hubert), [Joe Fontana](/councillors/current/j-f-fontana), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
-
-</details>
+Unanimous (6-0)
 
 ### 12. Property located at
   275 Callaway Road
@@ -1621,12 +1630,7 @@ The meeting adjourned at 9:27 PM
 
 **✅ Motion Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Paul Hubert](/councillors/current/p-hubert), [Joe Fontana](/councillors/current/j-f-fontana), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
-
-</details>
+Unanimous (6-0)
 
 ### 13. City-Wide Day Care
   Centres in Schools (Z-8211)
@@ -1635,12 +1639,7 @@ The meeting adjourned at 9:27 PM
 
 **✅ Motion Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Paul Hubert](/councillors/current/p-hubert), [Joe Fontana](/councillors/current/j-f-fontana), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
-
-</details>
+Unanimous (6-0)
 
 ### 14. Property located at
   1166 Hamilton Road
@@ -1649,12 +1648,7 @@ The meeting adjourned at 9:27 PM
 
 **✅ Motion Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Paul Hubert](/councillors/current/p-hubert), [Joe Fontana](/councillors/current/j-f-fontana), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
-
-</details>
+Unanimous (6-0)
 
 ### 15. Veterans Memorial
   Parkway South Extension (OZ-8195)
@@ -1663,12 +1657,7 @@ The meeting adjourned at 9:27 PM
 
 **✅ Motion Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Paul Hubert](/councillors/current/p-hubert), [Joe Fontana](/councillors/current/j-f-fontana), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
-
-</details>
+Unanimous (6-0)
 
 ### 16. Veterans Memorial
   Parkway (Z-8194)
@@ -1677,12 +1666,7 @@ The meeting adjourned at 9:27 PM
 
 **✅ Motion Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Paul Hubert](/councillors/current/p-hubert), [Joe Fontana](/councillors/current/j-f-fontana), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill)
-
-</details>
+Unanimous (4-0)
 
 ### 17. Property located at
   982 Gainsborough Road (Z-8178)
@@ -1691,12 +1675,25 @@ The meeting adjourned at 9:27 PM
 
 **✅ Motion Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (6-0)
 
-**Yea (18):** [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Fontana](/councillors/current/j-f-fontana), [Nancy Branscombe](/councillors/current/n-branscombe), [Nancy Branscombe](/councillors/current/n-branscombe), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white)
+### 17. Property located at
+  982 Gainsborough Road (Z-8178)
 
-</details>
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (6-0)
+
+### 17. Property located at
+  982 Gainsborough Road (Z-8178)
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (6-0)
 
 ### 18. Secondary Dwelling
   Units (OZ-8053)
@@ -1705,12 +1702,7 @@ The meeting adjourned at 9:27 PM
 
 **✅ Motion Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Paul Hubert](/councillors/current/p-hubert), [Joe Fontana](/councillors/current/j-f-fontana), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
-
-</details>
+Unanimous (6-0)
 
 ### 19. Proposed
   Stoneycreek Pathway
@@ -1719,12 +1711,7 @@ The meeting adjourned at 9:27 PM
 
 **✅ Motion Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Paul Hubert](/councillors/current/p-hubert), [Joe Fontana](/councillors/current/j-f-fontana), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
-
-</details>
+Unanimous (6-0)
 
 ### 20. Tricar
   Subdivision (Phase 2) - 39T-11504
@@ -1749,12 +1736,7 @@ The meeting adjourned at 9:27 PM
 
 **✅ Motion Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Paul Hubert](/councillors/current/p-hubert), [Joe Fontana](/councillors/current/j-f-fontana), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
-
-</details>
+Unanimous (6-0)
 
 ### 22. Property located at 13 Blackfriars Street
 
@@ -1762,10 +1744,5 @@ The meeting adjourned at 9:27 PM
 
 **✅ Motion Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Paul Hubert](/councillors/current/p-hubert), [Joe Fontana](/councillors/current/j-f-fontana), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
-
-</details>
+Unanimous (6-0)
 

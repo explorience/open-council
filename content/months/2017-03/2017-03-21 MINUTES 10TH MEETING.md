@@ -2041,3 +2041,249 @@ Approve Third Reading and Enactment of
 Motion
 Passed
 
+---
+
+## Votes
+
+*21 substantive votes at this meeting (7 contested, 14 unanimous). Procedural motions excluded.*
+
+### 14#2. StormFisher
+  Operations
+
+> That delegation status BE GRANTED to B.   Moffatt, StormFisher, at a future meeting of the Planning and Environment Committee,   concurrent with a staff report with respect to an outline of StormFisher   operations.   (2017-E07)
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### 2#5. STAFF REPORT - 2017
+  Rock the Park One-Time Exemption Request
+
+> That the by-law included as Appendix A to   the staff report dated March 20, 2017 BE INTRODUCED at the Municipal Council   meeting of March 21, 2017 to approve a one-time exemption and amend the 2017   Special Events Policies and Procedures Manual to add a fifth day to the Rock   the Park 14 even...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley)
+
+**Nay (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Stephen Turner](/councillors/current/s-turner), [Harold Usher](/councillors/current/h-l-usher)
+
+</details>
+
+### 4#3. Property located at
+  259 Sunningdale Road West (H-8095) (Relates to Bill No. 128)
+
+> That, on the recommendation of the Manager,   Development Services, based on the application of Sunningdale Golf and   Country Club, relating to the property located at 259 Sunningdale Road West,   the proposed by-law appended to the staff report dated March 6, 2017, BE   INTRODUCED at the Munici...
+
+**✅ Motion Passed**
+
+Unanimous (9-0)
+
+### 9#2. Queens Avenue and
+  Colborne Street Cycle Tracks
+
+> Approve that clause 9 be amended at the   end of part b) by adding the words "; it being noted that the Civic   Administration will report back to the Civic Works Committee, should project   delays indicate that the completion may not be feasible prior to March 2018,   in accordance with the appl...
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### 9#2. Queens Avenue and
+  Colborne Street Cycle Tracks
+
+> Approve part a) of clause 9
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher)
+
+**Nay (1):** [Paul Hubert](/councillors/current/p-hubert)
+
+</details>
+
+### 9#2. Queens Avenue and
+  Colborne Street Cycle Tracks
+
+> Approve part b), as amended, and   remainder of the clause.
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### 9#3. City Wide
+  Amendments (Z-8703) (Relates to Bill No. 131)
+
+> That, on the recommendation of the Managing   Director, Planning and City Planner, the following actions be taken with   respect to the application of the Corporation of the City of London, relating   to the Zoning By-law review of artisanal uses in commercial and industrial   areas in the City o...
+
+**✅ Motion Passed**
+
+Unanimous (9-0)
+
+### V. CONFIRMATION
+  AND SIGNING OF THE MINUTES OF THE NINTH MEETING HELD ON MARCH 2, 2017
+
+> Approve the Minutes of the Ninth Meeting   held on March 2, 2017.
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### XIII. BY-LAWS
+
+> Approve Introduction and First Reading   of Bill No. 133.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley)
+
+**Nay (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Harold Usher](/councillors/current/h-l-usher)
+
+</details>
+
+### XIII. BY-LAWS
+
+> Approve Second Reading of Bill No. 133.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley)
+
+**Nay (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Stephen Turner](/councillors/current/s-turner), [Harold Usher](/councillors/current/h-l-usher)
+
+</details>
+
+### XIII. BY-LAWS
+
+> Approve Third Reading and Enactment of   Bill No. 133.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley)
+
+**Nay (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Stephen Turner](/councillors/current/s-turner), [Harold Usher](/councillors/current/h-l-usher)
+
+</details>
+
+### 2. Jim Anderson,
+  Director, Anderson Craft Ales - City Wide Amendments (Z-8703)
+ 
+(Refer to the Planning and Environment
+  Committee Stage for Consideration with Clause 9 of the 5th Report of the
+  Planning and Environment Committee)
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### 7. Argyle Business
+  Improvement Area - 2017 Proposed Budget - Municipal Special Levy (Relates to
+  Bill No.115)
+
+> That, on the recommendation of the Managing   Director, Corporate Services and City Treasurer, Chief Financial Officer   & Acting City Manager, the following actions be taken with respect to the   Argyle Business Improvement Area:   a)         the   Argyle Business Improvement Area proposed 2017 ...
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 12. Procurement of
+  Goods and Services Policy Revision (Relates to Bill No.119)
+
+> Approve that clause 12 be amended to read   as follows:   That, on the recommendation of the Managing   Director, Corporate Services and City Treasurer, Chief Financial Officer and   Acting City Manager, the proposed attached revised by-law   (Appendix “A”) BE INTRODUCED at the Municipal Council ...
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 12. Procurement of
+  Goods and Services Policy Revision (Relates to Bill No.119)
+
+> Approve clause 12, as amended.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 13. 2016 Statement of
+  Remuneration and Expenses - Elected and Appointed Officials
+
+> Approve clause 13, as amended.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 14. Audio Recording of
+  Municipal Council and Standing Committees in Closed Session Meetings
+
+> At 5:47 PM HIs Worship the Mayor places   Councillor P. Hubert in the Chair, and takes a seat at the Council Board.    At 5:49 PM, His Worship the Mayor resumes   the Chair, and Councillor P. Hubert takes his seat at the Council Board.
+
+**❌ Motion Failed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher)
+
+**Nay (7):** [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Virginia Ridley](/councillors/current/v-ridley)
+
+</details>
+
+### 14. Audio Recording of
+  Municipal Council and Standing Committees in Closed Session Meetings
+
+> At 5:57 PM, His Worship the Mayor places   Councillor P. Hubert in the Chair, and takes a seat at the Council Board.    At 6:04 PM, His Worship the Mayor resumes   the Chair, and Councillor P. Hubert takes his seat at the Council Board.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Virginia Ridley](/councillors/current/v-ridley)
+
+**Nay (4):** [Anna Hopkins](/councillors/current/a-hopkins), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher)
+
+</details>
+
+### 14. Audio Recording of
+  Municipal Council and Standing Committees in Closed Session Meetings
+
+> Approve clause 14, as amended.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 16. Canadian Coalition
+  of Municipalities Against Racism and Discrimination
+
+> That the application of Councillor H.L.   Usher to the Canadian Coalition of Municipalities Against Racism and   Discrimination (CCMARD) for its two-year pilot project of an Advisory   Committee for the organization, BE SUPPORTED by the Municipal Council; it   being noted that there are no antici...
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 17. Start Time of
+  Corporate Services Committee Meetings
+
+> That the City Clerk BE DIRECTED to bring   forward the necessary amendments to the Council Procedure By-law A-50, as   amended, to amend the start time for future regularly scheduled meetings of   the Corporate Services Committee to 12:30 PM, instead of the current 12:00   PM.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+

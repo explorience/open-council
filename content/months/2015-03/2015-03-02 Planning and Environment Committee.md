@@ -879,7 +879,7 @@ The
 
 ## Votes
 
-*12 substantive votes at this meeting (12 contested, 0 unanimous). Procedural motions excluded.*
+*26 substantive votes at this meeting (1 contested, 25 unanimous). Procedural motions excluded.*
 
 ### 2. 3rd Report of the
   Environmental and Ecological Planning Advisory Committee
@@ -889,12 +889,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert)
-
-</details>
+Unanimous (5-0)
 
 ### 3. 3rd Report of the
   Advisory Committee on the Environment
@@ -904,12 +899,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert)
-
-</details>
+Unanimous (5-0)
 
 ### 4. "Our Move
   Forward" London's Downtown Plan
@@ -937,12 +927,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert)
-
-</details>
+Unanimous (6-0)
 
 ### 6. Property located at
   8477 Longwoods Road (Z-8111)
@@ -952,12 +937,27 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (5-0)
 
-**Yea (15):** [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert)
+### 6. Property located at
+  8477 Longwoods Road (Z-8111)
 
-</details>
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 6. Property located at
+  8477 Longwoods Road (Z-8111)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
 
 ### 7. Property located at
   3446 Gore Road (Z-8428)
@@ -967,12 +967,27 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (5-0)
 
-**Yea (15):** [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert)
+### 7. Property located at
+  3446 Gore Road (Z-8428)
 
-</details>
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 7. Property located at
+  3446 Gore Road (Z-8428)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
 
 ### 8. Property located at
   2040 Shore Road (39CD-14522)
@@ -982,12 +997,27 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (5-0)
 
-**Yea (15):** [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert)
+### 8. Property located at
+  2040 Shore Road (39CD-14522)
 
-</details>
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 8. Property located at
+  2040 Shore Road (39CD-14522)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
 
 ### 9. Development Charges
   Grant Program for Downtown and Old East Village Community Improvement Plan
@@ -998,12 +1028,29 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (5-0)
 
-**Yea (15):** [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert)
+### 9. Development Charges
+  Grant Program for Downtown and Old East Village Community Improvement Plan
+  (CIP) Areas
 
-</details>
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 9. Development Charges
+  Grant Program for Downtown and Old East Village Community Improvement Plan
+  (CIP) Areas
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
 
 ### 10. 3rd Report of the
   London Advisory Committee on Heritage
@@ -1013,12 +1060,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert)
-
-</details>
+Unanimous (6-0)
 
 ### 11. Heritage Building
   Retention - Old Victoria Hospital Lands
@@ -1028,12 +1070,57 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (6-0)
 
-**Yea (35):** [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert)
+### 11. Heritage Building
+  Retention - Old Victoria Hospital Lands
 
-</details>
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 11. Heritage Building
+  Retention - Old Victoria Hospital Lands
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 11. Heritage Building
+  Retention - Old Victoria Hospital Lands
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 11. Heritage Building
+  Retention - Old Victoria Hospital Lands
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 11. Heritage Building
+  Retention - Old Victoria Hospital Lands
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
 
 ### 12. Property located at
   161 Windermere Road (Z-8167)
@@ -1043,12 +1130,17 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (6-0)
 
-**Yea (12):** [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert)
+### 12. Property located at
+  161 Windermere Road (Z-8167)
 
-</details>
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
 
 ### 13. Commercial Corridor
   Along Commissioners Road East
@@ -1058,10 +1150,5 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert)
-
-</details>
+Unanimous (6-0)
 

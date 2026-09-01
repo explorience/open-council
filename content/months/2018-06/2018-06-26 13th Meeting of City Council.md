@@ -3455,7 +3455,7 @@ The meeting adjourns at 9:59 PM.
 
 ## Votes
 
-*20 substantive votes at this meeting (5 contested, 15 unanimous). Procedural motions excluded.*
+*21 substantive votes at this meeting (7 contested, 14 unanimous). Procedural motions excluded.*
 
 ### 8.2. 11th Report of the Planning and Environment Committee
 
@@ -3490,11 +3490,18 @@ Unanimous (12-0)
 
 ### 8.3.17. (4.1) 5th Report of the Accessibility Advisory Committee
 
-> The motion to approve the remainder of Item 17, the 5th Report of the ACCAC, is put. That the following actions be taken with respect to the 5th Report of the Accessibility Advisory Committee from its meeting held on May 24, 2018: a)            the Civic Administration BE ADVISED that the Accessi...
+> That the following part e), BE RECEIVED, with no further action to be taken: e)            the following recommendation of the ACCAC BE RECEIVED and NO FURTHER ACTION TAKEN with respect to this matter: "the Managing Director, Corporate Services and City Solicitor BE REQUESTED to seek a legal opin...
 
-**✅ Motion Passed (13 to 0)**
+**✅ Motion Passed (10 to 3)**
 
-Unanimous (13-0)
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (3):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+</details>
 
 ### 8.3.18. (4.2) Middlesex-London Health Unit Office Space Fit-up Funding Request
 
@@ -3635,6 +3642,21 @@ Unanimous (13-0)
 **✅ Motion Passed (12 to 0)**
 
 Unanimous (12-0)
+
+### 9.3.8. (4.1) 9th Report of the Governance Working Group
+
+> Motion to approve part c) Draft Annual Meeting Calendar: c)         the following actions be taken with respect to the draft annual meeting calendar for the period January 1, 2019 to December 31, 2019, as appended to the Governance Working Group Report dated May 28, 2018: i)         the City Cler...
+
+**✅ Motion Passed (8 to 5) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (5):** [Anna Hopkins](/councillors/current/a-hopkins), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
+
+</details>
 
 ### 9.3.9. (4.2)  10th Report of the Governance Working Group
 

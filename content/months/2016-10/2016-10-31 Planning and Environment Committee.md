@@ -1078,7 +1078,7 @@ The
 
 ## Votes
 
-*12 substantive votes at this meeting (12 contested, 0 unanimous). Procedural motions excluded.*
+*24 substantive votes at this meeting (0 contested, 24 unanimous). Procedural motions excluded.*
 
 ### 2. Properties located
   at 1235-1249 Hyde Park Road (H-8689)
@@ -1088,12 +1088,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (5-0)
 
 ### 3. Local Renewable
   Electricity Generation Projects Seeking Ontario Feed-In Tariff Contracts -
@@ -1105,12 +1100,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (5-0)
 
 ### 4. Properties located
   at 110 and 120 Shamrock Road
@@ -1120,12 +1110,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (5-0)
 
 ### 5. Property located at
   2332 Wickerson Road (H-8345)
@@ -1135,12 +1120,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (5-0)
 
 ### 6. Property located at
   3343 Morgan Avenue (H-8536)
@@ -1150,12 +1130,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (5-0)
 
 ### 8. Building Division
   Monthly Report for August 2016
@@ -1165,12 +1140,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (5-0)
 
 ### 9. Property located at
   2028 Wickerson Road (39CD-16507/OZ-8645)
@@ -1180,12 +1150,27 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (5-0)
 
-**Yea (15):** [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park)
+### 9. Property located at
+  2028 Wickerson Road (39CD-16507/OZ-8645)
 
-</details>
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 9. Property located at
+  2028 Wickerson Road (39CD-16507/OZ-8645)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
 
 ### 10. Property located on
   a portion of 3260 Singleton Avenue (39CD-16512/SPA16-031)
@@ -1195,12 +1180,27 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (5-0)
 
-**Yea (15):** [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park)
+### 10. Property located on
+  a portion of 3260 Singleton Avenue (39CD-16512/SPA16-031)
 
-</details>
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 10. Property located on
+  a portion of 3260 Singleton Avenue (39CD-16512/SPA16-031)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
 
 ### 11. Properties located
   at 2044, 2062, 2070 and 2100 Meadowgate Boulevard (OZ-8663)
@@ -1210,12 +1210,27 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (5-0)
 
-**Yea (15):** [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park)
+### 11. Properties located
+  at 2044, 2062, 2070 and 2100 Meadowgate Boulevard (OZ-8663)
 
-</details>
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 11. Properties located
+  at 2044, 2062, 2070 and 2100 Meadowgate Boulevard (OZ-8663)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
 
 ### 12. Property located at
   255 South Carriage Road (39T-08502/Z-8614)
@@ -1225,12 +1240,37 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (5-0)
 
-**Yea (20):** [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park)
+### 12. Property located at
+  255 South Carriage Road (39T-08502/Z-8614)
 
-</details>
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 12. Property located at
+  255 South Carriage Road (39T-08502/Z-8614)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 12. Property located at
+  255 South Carriage Road (39T-08502/Z-8614)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
 
 ### 13. 11th Report of the
   Environmental and Ecological Planning Advisory Committee
@@ -1240,12 +1280,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (5-0)
 
 ### 14. Property located at
   1877 Sandy Somerville Lane (Z-8661)
@@ -1255,10 +1290,35 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (5-0)
 
-**Yea (20):** [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park)
+### 14. Property located at
+  1877 Sandy Somerville Lane (Z-8661)
 
-</details>
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 14. Property located at
+  1877 Sandy Somerville Lane (Z-8661)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 14. Property located at
+  1877 Sandy Somerville Lane (Z-8661)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
 

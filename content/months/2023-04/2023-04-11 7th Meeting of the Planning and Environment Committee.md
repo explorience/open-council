@@ -612,76 +612,6 @@ The Planning and Environment Committee convened, In Closed Session, from 5:58 PM
 
 
 The meeting adjourned at 6:27 PM
-
----
-
-## Votes
-
-*8 substantive votes at this meeting (0 contested, 8 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1, 2.2 and 2.3 BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 2.4. 376, 378, 380, 382, 386 & 390 Hewitt Street and 748 King Street (Z-9576)
-
-> That, notwithstanding the recommendation of the Director, Planning and Development and on the direction of Planning and Environment Committee, based on the application by East Village Holdings Limited, relating to the property located at 376, 378, 380, 382, 386 & 390 Hewitt Street and 748 King St...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.1. Modifications to Public Site Plan Holding Provisions as a Result of Bill 23 (Z-9588)
-
-> That, on the recommendation of the Director, Planning and Development, based on the application by The Corporation of the City of London, relating to the h-5 and h-217 Holding Zones, the proposed by-law appended to the staff report dated April 11, 2023 as Appendix “A” BE INTRODUCED at the Municip...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.2. Zoning By-law Amendment - 2016 Huron Street (Z-9575)
-
-> That, on the recommendation of the Director, Planning and Development, with respect to the application of The Corporation of the City of London relating to the property located at 2016 Huron Street, the proposed by-law appended to the staff report dated April 11, 2023 as Appendix "A" BE INTRODUCE...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.3. Housekeeping Amendment to The London Plan (O-9555)
-
-> That, on the recommendation of the Director, Planning and Development, the proposed by-law, as appended to the staff report, dated April 11, 2023, BE INTRODUCED at the Municipal Council meeting to be held on April 25, 2023, to amend The London Plan, by correcting errors and omissions, update refe...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.4. Official Plan and Zoning By-law Amendment - Street Width Policy Review (OZ-9584)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to required Street Widths: a) the by-law appended to the staff report dated April 11, 2023 as Appendix "A" BE INTRODUCED at the Municipal Council meeting to be held on April 25, 2023...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.5. Zoning By-law Amendment - 300-320 King Street (Z-9570)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Zelinka Priamo Ltd., on behalf of Royal Host GP Inc. and Holloway Lodging, relating to the property located at 300-320 King Street: a)    the proposed by-law ap...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.6. Comprehensive Review of the London Plan: Terms of Reference (O-9595)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the London Plan Comprehensive Review: a)  the Civic Administration BE DIRECTED to initiate the Comprehensive Review, based on the Terms of Reference appended to the staff report d...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
 ---
 
 ## Full Transcript
@@ -1264,3 +1194,34 @@ Thank you, I look for a motion to close the meeting. Councillor Frank, seconded 
 Thanks, folks.
 
 </details>
+
+---
+
+## Votes
+
+*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.2 and 2.3 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.4. 376, 378, 380, 382, 386 & 390 Hewitt Street and 748 King Street (Z-9576)
+
+> That, notwithstanding the recommendation of the Director, Planning and Development and on the direction of Planning and Environment Committee, based on the application by East Village Holdings Limited, relating to the property located at 376, 378, 380, 382, 386 & 390 Hewitt Street and 748 King St...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.5. Zoning By-law Amendment - 300-320 King Street (Z-9570)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Zelinka Priamo Ltd., on behalf of Royal Host GP Inc. and Holloway Lodging, relating to the property located at 300-320 King Street: a)    the proposed by-law ap...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

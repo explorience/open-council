@@ -352,7 +352,7 @@ The meeting adjourned at 5:07 PM.
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 2.4. Meadowlilly Subdivision Amendment Agreement 39T-00517
 
@@ -360,7 +360,7 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 2.6. 130, 136, 146 and 164 Pond Mills Road Pond Mills Subdivision Agreement Special Provisions 39T-12501
 
@@ -368,7 +368,7 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 5.1. (ADDED)  Hamilton Road Community Improvement Plan Forgivable Loan Programs
 
@@ -376,5 +376,5 @@ Unanimous (2-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 

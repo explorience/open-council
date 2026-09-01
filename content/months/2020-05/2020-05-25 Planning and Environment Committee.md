@@ -228,7 +228,7 @@ The meeting adjourned at 4:37 PM.
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2.6. Application - 130, 136, 146 and 164 Pond Mills Road - Pond Mills Subdivision Special Provisions 39T-12501
 
@@ -236,7 +236,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 5.1. Deferred Matters List
 
@@ -244,5 +244,5 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 

@@ -300,7 +300,7 @@ The meeting adjourned at 5:46 PM.
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 4.1. Request for Delegation - K. Miller and C. Gupta, Safe Water London
 
@@ -308,7 +308,7 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 4.2. Sanitary and Stormwater Flooding
 
@@ -316,5 +316,5 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 

@@ -514,7 +514,7 @@ The meeting adjourned at 4:45 PM.
 
 ## Votes
 
-*12 substantive votes at this meeting (12 contested, 0 unanimous). Procedural motions excluded.*
+*12 substantive votes at this meeting (0 contested, 12 unanimous). Procedural motions excluded.*
 
 ### 2. Comments on
   Environmental Bill of Rights Registry - Making Choices: Reviewing Ontario's
@@ -525,12 +525,7 @@ The meeting adjourned at 4:45 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [Sandy White](/councillors/current/s-white)
-
-</details>
+Unanimous (5-0)
 
 ### 3. Comments on
   Environmental Bill of Rights Registry - Conservation First: A Renewed Vision
@@ -541,12 +536,7 @@ The meeting adjourned at 4:45 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [Sandy White](/councillors/current/s-white)
-
-</details>
+Unanimous (5-0)
 
 ### 4. Comments on
   Environmental Bill of Rights Registry - Waste Reduction Act and Waste
@@ -557,12 +547,7 @@ The meeting adjourned at 4:45 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [Sandy White](/councillors/current/s-white)
-
-</details>
+Unanimous (5-0)
 
 ### 5. Watermain
   Realignment Around Westminster Road Bridge-Agreement with Ministry of
@@ -573,12 +558,7 @@ The meeting adjourned at 4:45 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [Sandy White](/councillors/current/s-white)
-
-</details>
+Unanimous (5-0)
 
 ### 6. Trunk Sewer
   Inspection Irregular Result (Tender 13-69)
@@ -588,12 +568,7 @@ The meeting adjourned at 4:45 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [Sandy White](/councillors/current/s-white)
-
-</details>
+Unanimous (5-0)
 
 ### 7. Ridout Street Brick
   Sewer Rehabilitation Project No. ES2693 RFP No. 13-22 - Irregular Result
@@ -603,12 +578,7 @@ The meeting adjourned at 4:45 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [Sandy White](/councillors/current/s-white)
-
-</details>
+Unanimous (5-0)
 
 ### 8. Contract Award:
   York Street/Richmond Street and York Street/Talbot Street Traffic Signal
@@ -619,12 +589,7 @@ The meeting adjourned at 4:45 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [Sandy White](/councillors/current/s-white)
-
-</details>
+Unanimous (5-0)
 
 ### 9. Greenway Wastewater
   Treatment Plant Rotating Drum Thickener Engineering Project No. ES5084-11
@@ -634,12 +599,7 @@ The meeting adjourned at 4:45 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [Sandy White](/councillors/current/s-white)
-
-</details>
+Unanimous (5-0)
 
 ### 10. Gore Road Bridge
   Replacement Detailed Design and Tendering Appointment of Consulting Engineer
@@ -649,12 +609,7 @@ The meeting adjourned at 4:45 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [Sandy White](/councillors/current/s-white)
-
-</details>
+Unanimous (5-0)
 
 ### 11. Highbury Avenue
   Over CN Rail Bridge Rehabilitation Detailed Design and Tendering-Appointment
@@ -665,12 +620,7 @@ The meeting adjourned at 4:45 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [Sandy White](/councillors/current/s-white)
-
-</details>
+Unanimous (5-0)
 
 ### 12. Amendments to the
   Traffic and Parking By-law
@@ -680,12 +630,7 @@ The meeting adjourned at 4:45 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [Sandy White](/councillors/current/s-white)
-
-</details>
+Unanimous (5-0)
 
 ### 13. The Great Lakes Sewage Report Card 2013
 
@@ -694,10 +639,5 @@ The meeting adjourned at 4:45 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [Sandy White](/councillors/current/s-white)
-
-</details>
+Unanimous (5-0)
 

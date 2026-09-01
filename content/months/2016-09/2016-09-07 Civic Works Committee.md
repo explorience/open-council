@@ -544,7 +544,7 @@ The
 
 ## Votes
 
-*14 substantive votes at this meeting (14 contested, 0 unanimous). Procedural motions excluded.*
+*16 substantive votes at this meeting (1 contested, 15 unanimous). Procedural motions excluded.*
 
 ### 2. Closing of Part of
   Cedarpark Crescent
@@ -552,14 +552,9 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
-
-</details>
+Unanimous (3-0)
 
 ### 3. London ON Bikes
   Cycling Master Plan
@@ -569,12 +564,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
-
-</details>
+Unanimous (5-0)
 
 ### 4. Unmanned Air
   Vehicles (UAV) Use in the Municipal Government Environment
@@ -584,12 +574,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
-
-</details>
+Unanimous (5-0)
 
 ### 5. Exercise Renewal
   Options Curbside Collection and Material Recovery Facility Operations
@@ -600,12 +585,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
-
-</details>
+Unanimous (5-0)
 
 ### 6. Municipal Waste and
   Resource Materials Collection By-law Amendment
@@ -615,12 +595,17 @@ The
 **✅ Motion
     Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (5-0)
 
-**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy)
+### 6. Municipal Waste and
+  Resource Materials Collection By-law Amendment
 
-</details>
+> Motion     Passed
+
+**✅ Motion
+    Passed**
+
+Unanimous (5-0)
 
 ### 7. Supply and Delivery
   of Water Meters and Electronic Radio Transmitters Single Source Procurement
@@ -630,12 +615,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
-
-</details>
+Unanimous (5-0)
 
 ### 8. Water Meter
   Location Options for Residential Customers
@@ -645,12 +625,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
-
-</details>
+Unanimous (5-0)
 
 ### 9. Establishment of
   W12A Landfill Public Liaison Committee Point of Source Water Treatment 
@@ -678,12 +653,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown)
-
-</details>
+Unanimous (6-0)
 
 ### 11. Lake Huron and
   Elgin Area Water Supply Systems
@@ -693,12 +663,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
-
-</details>
+Unanimous (5-0)
 
 ### 12. Bannister Municipal
   Drain Improvements
@@ -708,12 +673,17 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (5-0)
 
-**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy)
+### 12. Bannister Municipal
+  Drain Improvements
 
-</details>
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
 
 ### 13. Curbside Snowplow
   Damage
@@ -723,12 +693,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
-
-</details>
+Unanimous (5-0)
 
 ### 14. Deferred Matters
   List
@@ -738,12 +703,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
-
-</details>
+Unanimous (5-0)
 
 ### 15. Relocation of Bus
   Routes Off Dundas Street
@@ -753,10 +713,5 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown)
-
-</details>
+Unanimous (6-0)
 

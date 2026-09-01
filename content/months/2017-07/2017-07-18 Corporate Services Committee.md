@@ -412,7 +412,7 @@ The Corporate Services Committee convened
 
 ## Votes
 
-*13 substantive votes at this meeting (13 contested, 0 unanimous). Procedural motions excluded.*
+*15 substantive votes at this meeting (0 contested, 15 unanimous). Procedural motions excluded.*
 
 ### 2. STAFF REPORT -
   Mayors of Southwest Ontario (MOSO) Update
@@ -422,12 +422,7 @@ The Corporate Services Committee convened
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (5-0)
 
 ### 3. STAFF REPORT - City
   of London Days at Budweiser Gardens - GoodLife Kids Foundation
@@ -437,12 +432,7 @@ The Corporate Services Committee convened
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (5-0)
 
 ### 4. STAFF REPORT -
   Modernizing Ontario's Municipal Legislation Act, 2017 (Bill 68)
@@ -452,12 +442,7 @@ The Corporate Services Committee convened
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (5-0)
 
 ### 5. STAFF REPORT -
   Expropriation of Lands - Main Street and Colonel Talbot Road - Intersection
@@ -468,12 +453,7 @@ The Corporate Services Committee convened
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (5-0)
 
 ### 6. STAFF REPORT -
   Strategic Plan Progress Variance
@@ -483,12 +463,7 @@ The Corporate Services Committee convened
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (5-0)
 
 ### 7. Apportionment of
   Taxes
@@ -498,12 +473,27 @@ The Corporate Services Committee convened
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (5-0)
 
-**Yea (15):** [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park)
+### 7. Apportionment of
+  Taxes
 
-</details>
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 7. Apportionment of
+  Taxes
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
 
 ### 8. COUNCIL MEMBER
   SUBMISSION - Request to Establish 126 Hamilton Road as a Location of a Social
@@ -514,12 +504,7 @@ The Corporate Services Committee convened
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (5-0)
 
 ### 9. COUNCIL MEMBER
   SUBMISSION - Thank You Letter regarding Communities in the
@@ -530,12 +515,7 @@ The Corporate Services Committee convened
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (5-0)
 
 ### 10. Confirmation of
   Appointment to the Accessibility Advisory Committee
@@ -545,12 +525,7 @@ The Corporate Services Committee convened
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (5-0)
 
 ### 11. Corporate Services
   Committee Deferred Matters List
@@ -560,12 +535,7 @@ The Corporate Services Committee convened
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (5-0)
 
 ### 12. ADDED - PUBLIC
   SUBMISSION - Forest City Beer Fest 2017 - Request for Designation as a
@@ -576,12 +546,7 @@ The Corporate Services Committee convened
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (5-0)
 
 ### 13. ADDED - COUNCIL
   MEMBER SUBMISSION - North American Free Trade Agreement (NAFTA)
@@ -591,12 +556,7 @@ The Corporate Services Committee convened
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (5-0)
 
 ### 14. ADDED - STAFF
   REPORT - Pre-Authorized Property Tax Payment Error
@@ -606,10 +566,5 @@ The Corporate Services Committee convened
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (5-0)
 

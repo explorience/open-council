@@ -703,45 +703,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 1:29 PM.
 
 ****
-
----
-
-## Votes
-
-*3 substantive votes at this meeting (1 contested, 2 unanimous). Procedural motions excluded.*
-
-### 8.3.8. (4.9) Amendment - Councillor D. Ferreira
-
-> That the Mayor’s 2026 Annual Budget Update BE AMENDED by increasing the budget to provide for a free two-hour parking program through the Honk App, including two-hour free on-street parking in the Core Area (Midtown, Downtown, and Old East Village): 2026 Operating Expenditures: $784,000       202...
-
-**✅ Motion Passed (11 to 3)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (3):** [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Skylar Franke](/councillors/current/s-franke)
-
-**Absent (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
-
-</details>
-
-### 8.3.16. (4.13) Housing Stability Bank Program - Councillor H. McAlister
-
-> That the motion be amended to read as follows: That the Mayor’s Tabled 2026 Annual Budget Update BE AMENDED in order to fund the Housing Stability Bank Program $250,000 for 2026 from the Community Investment Reserve Fund: 2026 Operating Expenditures: $250,000             2026 Tax Levy: $0        ...
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.3.16. (4.13) Housing Stability Bank Program - Councillor H. McAlister
-
-> That the motion, as amended, BE APPROVED.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
 ---
 
 ## Full Transcript
@@ -882,3 +843,60 @@ Councilor Vamever again, seconded by Councilor Hopkins. We can do this one by ha
 Okay, thank you, we're adjourned.
 
 </details>
+
+---
+
+## Votes
+
+*4 substantive votes at this meeting (2 contested, 2 unanimous). Procedural motions excluded.*
+
+### 8.3.8. (4.9) Amendment - Councillor D. Ferreira
+
+> That the Mayor’s 2026 Annual Budget Update BE AMENDED by increasing the budget to provide for a free two-hour parking program through the Honk App, including two-hour free on-street parking in the Core Area (Midtown, Downtown, and Old East Village): 2026 Operating Expenditures: $784,000       202...
+
+**✅ Motion Passed (11 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (3):** [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Skylar Franke](/councillors/current/s-franke)
+
+**Absent (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 8.3.11. (4.3) Budget Case #P-2 - Councillor S. Stevenson
+
+> That it BE NOTED that the Budget Committee considered an amendment to the Mayor's 2026 Annual Budget Update to exclude Business Case #P-2 Middlesex-London Health Unit Debt Retirement from the Mayor’s Tabled 2026 Annual Budget Update; it further being noted that the Budget Committee received a com...
+
+**✅ Motion Passed (11 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke)
+
+**Nay (3):** [Corrine Rahman](/councillors/current/c-rahman), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 8.3.16. (4.13) Housing Stability Bank Program - Councillor H. McAlister
+
+> That the motion be amended to read as follows: That the Mayor’s Tabled 2026 Annual Budget Update BE AMENDED in order to fund the Housing Stability Bank Program $250,000 for 2026 from the Community Investment Reserve Fund: 2026 Operating Expenditures: $250,000             2026 Tax Levy: $0        ...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.3.16. (4.13) Housing Stability Bank Program - Councillor H. McAlister
+
+> That the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+

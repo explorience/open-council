@@ -469,7 +469,7 @@ The meeting adjourned at 2:51 PM.
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 2.4. Elected Officials and Appointed Citizen Members - 2019 Remuneration
 
@@ -480,9 +480,9 @@ Unanimous (3-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (1):** [Jesse Helmer](/councillors/current/j-helmer)
+**Yea (3):** [Steve Hillier](/councillors/current/s-hillier), [Jesse Helmer](/councillors/current/j-helmer), [Arielle Kayabaga](/councillors/current/a-kayabaga)
 
-**Nay (1):** [Josh Morgan](/councillors/current/j-morgan)
+**Nay (3):** [Josh Morgan](/councillors/current/j-morgan), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Ed Holder](/councillors/current/e-holder)
 
 </details>
 
@@ -495,7 +495,9 @@ Unanimous (3-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Josh Morgan](/councillors/current/j-morgan), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder)
+
+**Nay (2):** [Jesse Helmer](/councillors/current/j-helmer), [Arielle Kayabaga](/councillors/current/a-kayabaga)
 
 </details>
 
@@ -505,7 +507,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2.8. Development Charges Deferred Payment Agreement Italian Seniors' Project - 1090 Hamilton Road
 
@@ -513,7 +515,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 4.1. Council Member's Expense Account Policy
 
@@ -521,5 +523,5 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 

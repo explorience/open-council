@@ -469,7 +469,7 @@ Motion
 
 ## Votes
 
-*8 substantive votes at this meeting (8 contested, 0 unanimous). Procedural motions excluded.*
+*9 substantive votes at this meeting (0 contested, 9 unanimous). Procedural motions excluded.*
 
 ### 8. Homemakers Program
   Update
@@ -479,12 +479,7 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
-
-</details>
+Unanimous (4-0)
 
 ### 10. Thames Valley
   District School Board and City of London Joint Use of Facilities Agreement
@@ -492,14 +487,9 @@ Motion
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
-
-</details>
+Unanimous (2-0)
 
 ### 12. By-law Amendments
   for Expanded Animal Welfare Initiatives
@@ -509,12 +499,17 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (4-0)
 
-**Yea (7):** [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Bill Armstrong](/councillors/current/b-armstrong), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown), [Denise Brown](/councillors/current/d-brown)
+### 12. By-law Amendments
+  for Expanded Animal Welfare Initiatives
 
-</details>
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (3-0)
 
 ### 13. 4th Report of the
   London Diversity and Race Relations Advisory Committee
@@ -522,14 +517,9 @@ Motion
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Denise Brown](/councillors/current/d-brown)
-
-</details>
+Unanimous (3-0)
 
 ### 14. 4th Report of the
   Community Safety and Crime Prevention Advisory Committee
@@ -537,14 +527,9 @@ Motion
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Denise Brown](/councillors/current/d-brown)
-
-</details>
+Unanimous (3-0)
 
 ### 15. Pawnbrokers and Salvage
   Yard Regulations - False Verification of Ownership for Stolen Items - List of
@@ -553,14 +538,9 @@ Motion
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Denise Brown](/councillors/current/d-brown)
-
-</details>
+Unanimous (3-0)
 
 ### 16. Legislative Changes
   Intended to Improve Fire Safety in Vulnerable Occupancies
@@ -568,14 +548,9 @@ Motion
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Denise Brown](/councillors/current/d-brown)
-
-</details>
+Unanimous (3-0)
 
 ### 17. The Impact of
   Prescription and Non-Prescription Drug Use in Middlesex-London
@@ -583,12 +558,7 @@ Motion
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Denise Brown](/councillors/current/d-brown)
-
-</details>
+Unanimous (3-0)
 

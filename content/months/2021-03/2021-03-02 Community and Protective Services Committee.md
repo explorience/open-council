@@ -573,7 +573,7 @@ The meeting adjourned at 8:43 PM.
 
 ## Votes
 
-*6 substantive votes at this meeting (0 contested, 6 unanimous). Procedural motions excluded.*
+*4 substantive votes at this meeting (0 contested, 4 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -581,15 +581,7 @@ The meeting adjourned at 8:43 PM.
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
-
-### 3.2. Vacant Buildings By-law Review
-
-> That, on the recommendation of the Managing Director, Development and Compliance Services and Chief Building Official, the following actions be taken with respect to the staff report dated March 2, 2021, related to the Vacant Buildings By-law Review: a)     the proposed by-law, as appended to the...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 3.3. Property Standards By-law Review
 
@@ -597,7 +589,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 3.3. Property Standards By-law Review
 
@@ -605,7 +597,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 3.3. Property Standards By-law Review
 
@@ -613,13 +605,5 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
-
-### 3.4. Tow Truck Business and Impound Yard Storage Business Licence By-law Amendment
-
-> That, on the recommendation of the Managing Director, Development and Compliance Services and Chief Building Official, the following actions be taken with respect to the staff report dated March 2, 2021, related to the Tow Truck Business and Impound Yard Storage Business Licence By-law Amendment:...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
+Unanimous (5-0)
 

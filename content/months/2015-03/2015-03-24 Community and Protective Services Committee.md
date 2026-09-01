@@ -478,7 +478,7 @@ Motion
 
 ## Votes
 
-*16 substantive votes at this meeting (16 contested, 0 unanimous). Procedural motions excluded.*
+*16 substantive votes at this meeting (1 contested, 15 unanimous). Procedural motions excluded.*
 
 ### 2. 2nd Report of the
   Accessibility Advisory Committee
@@ -488,12 +488,7 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Mo Salih](/councillors/current/m-salih), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (5-0)
 
 ### 3. 1st Report of the
   Childcare Advisory Committee
@@ -503,12 +498,7 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Mo Salih](/councillors/current/m-salih), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (5-0)
 
 ### 4. 2nd Report of the
   Community Safety and Crime Prevention Advisory Committee
@@ -518,12 +508,7 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Mo Salih](/councillors/current/m-salih), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (5-0)
 
 ### 5. 3rd Report of the
   London Diversity and Race Relations Advisory Committee
@@ -533,12 +518,7 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Mo Salih](/councillors/current/m-salih), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (5-0)
 
 ### 6. Homemakers Program
   Update
@@ -548,12 +528,7 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Mo Salih](/councillors/current/m-salih), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (5-0)
 
 ### 7. Municipal Golf
   System - 2013/2014 Performance Update
@@ -563,12 +538,7 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Mo Salih](/councillors/current/m-salih), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (5-0)
 
 ### 8. Annual Review -
   2015 Special Events Policies and Procedures Manual
@@ -578,12 +548,7 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Mo Salih](/councillors/current/m-salih), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (5-0)
 
 ### 9. Transfer of Farm
   Animals from Storybook Gardens and Go-Forward Business Strategy
@@ -593,12 +558,7 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Mo Salih](/councillors/current/m-salih), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (5-0)
 
 ### 10. African Canadian
   Federation of London and Area - Level of Unemployment of Local African
@@ -609,12 +569,7 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Mo Salih](/councillors/current/m-salih), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (5-0)
 
 ### 11. Social Services:
   Supporting Employment, Workforce Development and Inclusion
@@ -624,12 +579,7 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Mo Salih](/councillors/current/m-salih), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (5-0)
 
 ### 12. Business Licensing
   By-law L-6 Fees
@@ -639,12 +589,7 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Mo Salih](/councillors/current/m-salih), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (5-0)
 
 ### 13. 2nd Report of the
   Town and Gown Committee
@@ -654,12 +599,7 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Mo Salih](/councillors/current/m-salih), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (5-0)
 
 ### 14. London Diversity
   and Race Relations Advisory Committee
@@ -686,12 +626,7 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Mo Salih](/councillors/current/m-salih), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (5-0)
 
 ### 16. Request For
   Delegation Status
@@ -701,12 +636,7 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Mo Salih](/councillors/current/m-salih), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (5-0)
 
 ### 17. Community and Protective Services Committee
   Meeting – April 21, 2015
@@ -716,10 +646,5 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Mo Salih](/councillors/current/m-salih), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (5-0)
 

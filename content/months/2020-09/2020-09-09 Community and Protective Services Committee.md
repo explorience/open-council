@@ -308,7 +308,7 @@ The meeting adjourned at 6:03 PM.
 
 ## Votes
 
-*5 substantive votes at this meeting (0 contested, 5 unanimous). Procedural motions excluded.*
+*4 substantive votes at this meeting (0 contested, 4 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -316,15 +316,7 @@ The meeting adjourned at 6:03 PM.
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
-
-### 3.1. 2020 Parkland Dedication By-law CP-9 Update
-
-> That, on the recommendation of the Managing Director, Parks and Recreation, the following actions be taken with respect to the 2020 Parkland Dedication By-law CP-9 Update: a)     that the proposed by-law, as appended to the staff report dated September 9, 2020, BE INTRODUCED at the Municipal Coun...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 4.1. Taxi Licensing Fees - Hasan Savehilaghi, Yellow London Taxi Inc. - Request for Delegation Status
 
@@ -332,7 +324,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 4.1. Taxi Licensing Fees - Hasan Savehilaghi, Yellow London Taxi Inc. - Request for Delegation Status
 
@@ -340,7 +332,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 5.2. (ADDED) Backyard Fires on Private Property Objection - H. Kaplan
 
@@ -348,5 +340,5 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 

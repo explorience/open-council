@@ -194,7 +194,7 @@ The meeting adjourned at 2:14 PM
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 2.1. Taxation of Properties Owned by London Middlesex Community Housing Inc.
 
@@ -205,9 +205,9 @@ Unanimous (3-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (1):** [Arielle Kayabaga](/councillors/current/a-kayabaga)
+**Yea (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Arielle Kayabaga](/councillors/current/a-kayabaga)
 
-**Nay (1):** [Ed Holder](/councillors/current/e-holder)
+**Nay (3):** [Josh Morgan](/councillors/current/j-morgan), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst)
 
 </details>
 
@@ -217,5 +217,5 @@ Unanimous (3-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 

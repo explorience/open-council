@@ -927,7 +927,7 @@ The Corporate Services Committee convened
 
 ## Votes
 
-*23 substantive votes at this meeting (23 contested, 0 unanimous). Procedural motions excluded.*
+*26 substantive votes at this meeting (3 contested, 23 unanimous). Procedural motions excluded.*
 
 ### 2. City of London Days
   - Budweiser Gardens
@@ -937,12 +937,7 @@ The Corporate Services Committee convened
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (5-0)
 
 ### 3. Elected Officials
   and Appointed Citizen Members - 2014 Remuneration
@@ -986,10 +981,32 @@ The Corporate Services Committee convened
 **✅ Motion
   Passed**
 
+Unanimous (5-0)
+
+### 5. Amendment to
+  Council Policy 28(2) - Council Members' Expense Account
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 5. Amendment to
+  Council Policy 28(2) - Council Members' Expense Account
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
 <details>
 <summary>View roll call</summary>
 
-**Yea (5):** [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
+**Yea (3):** [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
+
+**Nay (2):** [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana)
 
 </details>
 
@@ -1001,14 +1018,7 @@ The Corporate Services Committee convened
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant), [Judy Bryant](/councillors/current/j-p-bryant), [Judy Bryant](/councillors/current/j-p-bryant)
-
-**Nay (2):** [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana)
-
-</details>
+Unanimous (5-0)
 
 ### 6. New Council Policy
   - Mayor's Expenses
@@ -1018,12 +1028,7 @@ The Corporate Services Committee convened
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (5-0)
 
 ### 7. Architect to Act as
   Prime Consultant for the Normal School Renovation Request for Proposal No.
@@ -1034,12 +1039,7 @@ The Corporate Services Committee convened
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (5-0)
 
 ### 8. Year 2014 Education
   Tax Rates
@@ -1049,12 +1049,7 @@ The Corporate Services Committee convened
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (5-0)
 
 ### 9. Rooftop Solar PV
   Systems on Municipal Buildings Under the Fit 3.0 Program Rules Update
@@ -1064,12 +1059,7 @@ The Corporate Services Committee convened
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (5-0)
 
 ### 10. Local Improvement
   Charges for Energy and Water Efficiency Improvements Update
@@ -1079,12 +1069,7 @@ The Corporate Services Committee convened
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (5-0)
 
 ### 11. Old East Village
   Business Improvement Area - 2014 Proposed Budget - Municipal Special Levy
@@ -1094,12 +1079,7 @@ The Corporate Services Committee convened
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (5-0)
 
 ### 12. London Downtown
   Business Association - 2014 Proposed Budget - Municipal Special Levy
@@ -1109,12 +1089,7 @@ The Corporate Services Committee convened
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (5-0)
 
 ### 13. Argyle Business
   Improvement Area - 2014 Proposed Budget - Municipal Special Levy
@@ -1124,12 +1099,7 @@ The Corporate Services Committee convened
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (5-0)
 
 ### 14. London Bid to Host
   AMO Annual General Meeting Conference and Trade Show 2018, 2019 and 2020
@@ -1139,12 +1109,7 @@ The Corporate Services Committee convened
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (5-0)
 
 ### 15. Bill 69: The Prompt
   Payment Act 2013
@@ -1154,12 +1119,7 @@ The Corporate Services Committee convened
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (5-0)
 
 ### 16. Apportionment of
   Taxes
@@ -1169,12 +1129,17 @@ The Corporate Services Committee convened
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (5-0)
 
-**Yea (10):** [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant), [Judy Bryant](/councillors/current/j-p-bryant)
+### 16. Apportionment of
+  Taxes
 
-</details>
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
 
 ### 17. Year 2014 Tax
   Policy
@@ -1184,12 +1149,7 @@ The Corporate Services Committee convened
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (5-0)
 
 ### 18. Board of Directors
   - Federation of Canadian Municipalities
@@ -1199,12 +1159,7 @@ The Corporate Services Committee convened
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (5-0)
 
 ### 19. Comprehensive
   Economic and Trade Agreement (CETA)
@@ -1214,12 +1169,7 @@ The Corporate Services Committee convened
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (5-0)
 
 ### 20. Changes to Canada
   Post Delivery
@@ -1229,12 +1179,7 @@ The Corporate Services Committee convened
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (5-0)
 
 ### 21. Request for
   Designation of the Forest City Beer Fest as a Municipally Significant Event
@@ -1244,12 +1189,7 @@ The Corporate Services Committee convened
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (5-0)
 
 ### 22. Appointment to the
   Community Safety and Crime Prevention Advisory Committee (Requires 1
@@ -1260,12 +1200,7 @@ The Corporate Services Committee convened
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (5-0)
 
 ### 23. Environmental and
   Ecological Planning Advisory Committee (Requires up to 5 Members at Large)
@@ -1275,10 +1210,5 @@ The Corporate Services Committee convened
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (5-0)
 

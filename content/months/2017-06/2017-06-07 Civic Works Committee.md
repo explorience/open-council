@@ -960,7 +960,7 @@ The
 
 ## Votes
 
-*23 substantive votes at this meeting (23 contested, 0 unanimous). Procedural motions excluded.*
+*24 substantive votes at this meeting (1 contested, 23 unanimous). Procedural motions excluded.*
 
 ### 2. STAFF REPORT -
   Amendments to the Traffic and Parking By-law
@@ -970,12 +970,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
+Unanimous (4-0)
 
 ### 3. STAFF REPORT -
   Traffic on Aldersbrook Gate
@@ -985,12 +980,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
+Unanimous (4-0)
 
 ### 4. STAFF REPORT -
   Blackfriars Bridge Project Status Update
@@ -1000,12 +990,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
+Unanimous (4-0)
 
 ### 5. STAFF REPORT -
   Memorandum of the Understanding with Bio-Techfar Inc. as part of the London
@@ -1016,12 +1001,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
+Unanimous (4-0)
 
 ### 6. STAFF REPORT -
   Memorandum of Understanding With Hawthorne Green Key Group Inc. as Part of
@@ -1032,12 +1012,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
+Unanimous (4-0)
 
 ### 7. STAFF REPORT -
   Memorandum of Understanding With Try Recycling Inc. as Part of the London
@@ -1048,12 +1023,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
+Unanimous (4-0)
 
 ### 8. STAFF REPORT -
   Permission for GE Water and Process Technologies to Pilot Test at the Oxford
@@ -1064,12 +1034,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
+Unanimous (4-0)
 
 ### 9. STAFF REPORT -
   Clean Water and Wastewater Fund - Single Source Purchase of Inlet Screens for
@@ -1080,12 +1045,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
+Unanimous (4-0)
 
 ### 10. STAFF REPORT  Clean
   Water and Wastewater Fund - Single Source Purchase of Odour Control, Air
@@ -1096,12 +1056,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
+Unanimous (4-0)
 
 ### 11. STAFF REPORT -
   Clean Water and Wastewater Fund - Purchase of Major Organic Rankine Cycle
@@ -1113,12 +1068,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
+Unanimous (4-0)
 
 ### 12. STAFF REPORT - Mud
   Creek Subwatershed Schedule B - Municipal Class Environmental Assessment
@@ -1129,12 +1079,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
+Unanimous (4-0)
 
 ### 13. STAFF REPORT -
   Clean Water and Wastewater Fund -  Appointment of Consulting Engineers for
@@ -1145,12 +1090,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
+Unanimous (4-0)
 
 ### 14. STAFF REPORT - 2016
   Renew London Infrastrastructure Post Construction Overview Report
@@ -1160,12 +1100,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
+Unanimous (4-0)
 
 ### 15. STAFF REPORT -
   Clean Water and Wastewater Fund  -  Irregular Result   -  Arva Pumping
@@ -1176,12 +1111,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
+Unanimous (4-0)
 
 ### 16. STAFF REPORT -
   Infrastructure Canada – Phase One Investments -  Clean Water and Wastewater
@@ -1192,12 +1122,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
+Unanimous (4-0)
 
 ### 17. STAFF REPORT -
   Clean Water and Wastewater Fund Contract Award -   2017 Infrastructure
@@ -1209,12 +1134,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
+Unanimous (4-0)
 
 ### 18. STAFF REPORT - Overnight 
   Parking 2016/2017 Experience
@@ -1224,12 +1144,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
+Unanimous (4-0)
 
 ### 19. STAFF REPORT - 
   Staff Resourcing to Meet the Demands of the Clean Water and Waste Water Fund
@@ -1240,12 +1155,18 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (3-0)
 
-**Yea (6):** [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Bill Armstrong](/councillors/current/b-armstrong), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Virginia Ridley](/councillors/current/v-ridley)
+### 19. STAFF REPORT - 
+  Staff Resourcing to Meet the Demands of the Clean Water and Waste Water Fund
+  Program
 
-</details>
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (3-0)
 
 ### 20. STAFF REPORT -
   Veresen District Energy Partnership - Municipal Access Agreement
@@ -1255,12 +1176,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
+Unanimous (4-0)
 
 ### 21. 6th Report of the
   Cycling Advisory Committee
@@ -1270,12 +1186,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
+Unanimous (4-0)
 
 ### 22. 6th Report of the
   Transportation Advisory Committee
@@ -1285,12 +1196,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
+Unanimous (4-0)
 
 ### 23. Deferred Matters
   List
@@ -1300,12 +1206,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
+Unanimous (4-0)
 
 ### 24. (ADDED) COUNCILLOR SUBMISSION - Councillor
   V. Ridley – Vision Zero

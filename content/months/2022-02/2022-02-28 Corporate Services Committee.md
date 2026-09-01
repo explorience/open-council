@@ -348,64 +348,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 1:00 PM.
 
 ****
-
----
-
-## Votes
-
-*5 substantive votes at this meeting (2 contested, 3 unanimous). Procedural motions excluded.*
-
-### 4.1. Election Sign By-law Update
-
-> That, on the recommendation of the City Clerk, the attached revised proposed by-law BE INTRODUCED at the Municipal Council meeting to be held on March 22, 2022 to repeal By-law No. E-185-537, being the “Election Sign By-law” and to replace it with a new Election Sign By-law.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 4.1. Election Sign By-law Update
-
-> That section 4.5 (i) of the proposed by-law BE AMENDED to read: “4.5(i) to be 100m between election signs of the same candidate, on the same side of the street.”
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 4.1. Election Sign By-law Update
-
-> That section 3.4 of the proposed by-law BE AMENDED to change 96 hours to 72 hours.
-
-**❌ Motion Failed (3 to 3) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (1):** [Maureen Cassidy](/councillors/current/m-cassidy)
-
-**Nay (1):** [Josh Morgan](/councillors/current/j-morgan)
-
-</details>
-
-### 4.1. Election Sign By-law Update
-
-> That section 3.2 of the proposed by-law BE AMENDED in section 3.2 to read as follows: "3.2  No person shall place of permit to be placed an Election Sign for a municipal election, except an Election Sign which is Placed on a Campaign Office or on the Property on which the Campaign Office sits pro...
-
-**❌ Motion Failed (2 to 4) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Nay (2):** [Shawn Lewis](/councillors/current/s-lewis), [Ed Holder](/councillors/current/e-holder)
-
-</details>
-
-### 4.2. Application - Issuance of Proclamation - Sikh Heritage Month
-
-> That based on the application dated February 7, 2022 from Guru Nanak Mission Society, London Ontario, April 1, 2022 to April 30, 2022 BE PROCLAIMED as Sikh Heritage Month.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
 ---
 
 ## Full Transcript
@@ -658,3 +600,64 @@ And with that colleagues, we will look for a motion to adjourn. Moved by Council
 Have a great rest of your afternoon.
 
 </details>
+
+---
+
+## Votes
+
+*5 substantive votes at this meeting (2 contested, 3 unanimous). Procedural motions excluded.*
+
+### 4.1. Election Sign By-law Update
+
+> That, on the recommendation of the City Clerk, the attached revised proposed by-law BE INTRODUCED at the Municipal Council meeting to be held on March 22, 2022 to repeal By-law No. E-185-537, being the “Election Sign By-law” and to replace it with a new Election Sign By-law.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 4.1. Election Sign By-law Update
+
+> That section 4.5 (i) of the proposed by-law BE AMENDED to read: “4.5(i) to be 100m between election signs of the same candidate, on the same side of the street.”
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 4.1. Election Sign By-law Update
+
+> That section 3.4 of the proposed by-law BE AMENDED to change 96 hours to 72 hours.
+
+**❌ Motion Failed (3 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Maureen Cassidy](/councillors/current/m-cassidy), [Mariam Hamou](/councillors/current/m-hamou)
+
+**Nay (3):** [Josh Morgan](/councillors/current/j-morgan), [Ed Holder](/councillors/current/e-holder), [John Fyfe-Millar](/councillors/current/j-fyfe-millar)
+
+</details>
+
+### 4.1. Election Sign By-law Update
+
+> That section 3.2 of the proposed by-law BE AMENDED in section 3.2 to read as follows: "3.2  No person shall place of permit to be placed an Election Sign for a municipal election, except an Election Sign which is Placed on a Campaign Office or on the Property on which the Campaign Office sits pro...
+
+**❌ Motion Failed (2 to 4) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Josh Morgan](/councillors/current/j-morgan), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+**Nay (4):** [Shawn Lewis](/councillors/current/s-lewis), [Ed Holder](/councillors/current/e-holder), [Mariam Hamou](/councillors/current/m-hamou), [John Fyfe-Millar](/councillors/current/j-fyfe-millar)
+
+</details>
+
+### 4.2. Application - Issuance of Proclamation - Sikh Heritage Month
+
+> That based on the application dated February 7, 2022 from Guru Nanak Mission Society, London Ontario, April 1, 2022 to April 30, 2022 BE PROCLAIMED as Sikh Heritage Month.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+

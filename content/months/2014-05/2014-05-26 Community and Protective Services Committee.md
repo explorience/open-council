@@ -527,7 +527,7 @@ Motion
 
 ## Votes
 
-*6 substantive votes at this meeting (6 contested, 0 unanimous). Procedural motions excluded.*
+*7 substantive votes at this meeting (0 contested, 7 unanimous). Procedural motions excluded.*
 
 ### 2. School Crossing
   Guard Program
@@ -535,14 +535,9 @@ Motion
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Denise Brown](/councillors/current/d-brown)
-
-</details>
+Unanimous (3-0)
 
 ### 7. By-law Amendments
   for Expanding Animal Welfare Initiatives
@@ -552,12 +547,17 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (3-0)
 
-**Yea (6):** [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Bill Armstrong](/councillors/current/b-armstrong), [Denise Brown](/councillors/current/d-brown), [Denise Brown](/councillors/current/d-brown)
+### 7. By-law Amendments
+  for Expanding Animal Welfare Initiatives
 
-</details>
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (3-0)
 
 ### 8. 2nd Report of the
   Council Housing Leadership Committee
@@ -565,14 +565,9 @@ Motion
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Denise Brown](/councillors/current/d-brown)
-
-</details>
+Unanimous (3-0)
 
 ### 9. 3rd Report of the
   London Diversity and Race Relations Advisory Committee
@@ -580,14 +575,9 @@ Motion
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Denise Brown](/councillors/current/d-brown)
-
-</details>
+Unanimous (3-0)
 
 ### 10. Town and Gown
   Committee
@@ -595,14 +585,9 @@ Motion
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Denise Brown](/councillors/current/d-brown)
-
-</details>
+Unanimous (3-0)
 
 ### 11. H. Hussein, Project
   Coordinator, London and Middlesex Local Immigration Partnership Project
@@ -610,12 +595,7 @@ Motion
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Denise Brown](/councillors/current/d-brown)
-
-</details>
+Unanimous (3-0)
 

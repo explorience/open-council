@@ -512,149 +512,6 @@ The Community and Protective Services Committee convened In Closed Session from 
 
 
 The meeting adjourned at 4:29 PM.
-
----
-
-## Votes
-
-*11 substantive votes at this meeting (7 contested, 4 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1, 2.2, 2.3, 2.5, 2.8, 2.9 and 2.10 BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 2.6. Business Licensing By-law and Fireworks By-law – Amendments
-
-> Motion to approve that the delegation request from B. Amendola, to be heard at this meeting.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 2.6. Business Licensing By-law and Fireworks By-law – Amendments
-
-> Motion to approve: "That the matter be referred to staff for further work on licensing issues, including: a)    limiting the allowable days for firework sales preceding days permitting allowable discharge of fireworks to (3) three; b)    applying the licensing fee on a per-day and per-vending-sit...
-
-**❌ Motion Failed (2 to 3) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-</details>
-
-### 2.6. Business Licensing By-law and Fireworks By-law – Amendments
-
-> Motion to approve that: "a)    the revised proposed by-law, as appended to the Added Agenda, BE INTRODUCED at the Municipal Council meeting to be held on April 2, 2024, to amend Business Licensing By-law by adding a new Schedule for Consumer Fireworks Sales;"
-
-**✅ Motion Passed (3 to 2) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
-
-</details>
-
-### 2.6. Business Licensing By-law and Fireworks By-law – Amendments
-
-> Motion to approve that: "b)    the revised proposed by-law, as appended to the Added Agenda, BE INTRODUCED at the Municipal Council meeting to be held on April 2, 2024, to amend Schedule “A-5”, being the Administrative Monetary Penalty System (AMPs) By-law and adding new penalties for Consumer Fi...
-
-**✅ Motion Passed (3 to 2) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
-
-</details>
-
-### 2.6. Business Licensing By-law and Fireworks By-law – Amendments
-
-> Motion to approve that: "c)    the proposed by-law, as appended to the above-noted staff report, BE INTRODUCED at the Municipal Council meeting to be held on April 2, 2024, to amend the Fireworks By-law PW-11 by allowing for consumer and display fireworks to be discharged on four specific days;"
-
-**❌ Motion Failed (2 to 3) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Jerry Pribil](/councillors/current/j-pribil), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Nay (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
-
-</details>
-
-### 2.6. Business Licensing By-law and Fireworks By-law – Amendments
-
-> Motion to approve that: "d)    the proposed by-law, as appended to the Added Agenda, BE INTRODUCED at the Municipal   Council meeting to be held on April 2, 2024, to amend By-law A-59 being “A by-law to provide for Various Fees and Charges” to add Consumer Fireworks Sales Business Licence Fees;"
-
-**✅ Motion Passed (3 to 2) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
-
-</details>
-
-### 4.1. 2024 Rock the Park One-Time Policy Exemption Request
-
-> Motion to approve the request for delegation status from A.M. Valastro, to be heard at this meeting.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 4.1. 2024 Rock the Park One-Time Policy Exemption Request
-
-> Motion to approve part a) of the motion.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 4.1. 2024 Rock the Park One-Time Policy Exemption Request
-
-> Motion to approve part b) of the motion
-
-**✅ Motion Passed (3 to 2) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
-
-</details>
-
-### 5.1. (ADDED) Reduced Parking Incentive Pilot Project
-
-> Motion to approve that the Civic Administration BE DIRECTED to implement a reduced parking incentive as a pilot project until the end of Q3 2024 for Municipal Lots 1 & 2 utilizing the existing HONK mobile application; it being noted that Municipal Lots 1 & 2 have a lower hourly and daily revenue ...
-
-**❌ Motion Failed (1 to 4) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (1):** [Jerry Pribil](/councillors/current/j-pribil)
-
-**Nay (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-</details>
 ---
 
 ## Full Transcript
@@ -1463,3 +1320,147 @@ That concludes all business that we had on the agenda to deal with. It would be 
 All in favor of adjournment via a show of hands. That motion is carried. We are adjourned.
 
 </details>
+
+---
+
+## Votes
+
+*11 substantive votes at this meeting (7 contested, 4 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.2, 2.3, 2.5, 2.8, 2.9 and 2.10 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.6. Business Licensing By-law and Fireworks By-law – Amendments
+
+> Motion to approve that the delegation request from B. Amendola, to be heard at this meeting.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.6. Business Licensing By-law and Fireworks By-law – Amendments
+
+> Motion to approve: "That the matter be referred to staff for further work on licensing issues, including: a)    limiting the allowable days for firework sales preceding days permitting allowable discharge of fireworks to (3) three; b)    applying the licensing fee on a per-day and per-vending-sit...
+
+**❌ Motion Failed (2 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 2.6. Business Licensing By-law and Fireworks By-law – Amendments
+
+> Motion to approve that: "a)    the revised proposed by-law, as appended to the Added Agenda, BE INTRODUCED at the Municipal Council meeting to be held on April 2, 2024, to amend Business Licensing By-law by adding a new Schedule for Consumer Fireworks Sales;"
+
+**✅ Motion Passed (3 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 2.6. Business Licensing By-law and Fireworks By-law – Amendments
+
+> Motion to approve that: "b)    the revised proposed by-law, as appended to the Added Agenda, BE INTRODUCED at the Municipal Council meeting to be held on April 2, 2024, to amend Schedule “A-5”, being the Administrative Monetary Penalty System (AMPs) By-law and adding new penalties for Consumer Fi...
+
+**✅ Motion Passed (3 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 2.6. Business Licensing By-law and Fireworks By-law – Amendments
+
+> Motion to approve that: "c)    the proposed by-law, as appended to the above-noted staff report, BE INTRODUCED at the Municipal Council meeting to be held on April 2, 2024, to amend the Fireworks By-law PW-11 by allowing for consumer and display fireworks to be discharged on four specific days;"
+
+**❌ Motion Failed (2 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Jerry Pribil](/councillors/current/j-pribil), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 2.6. Business Licensing By-law and Fireworks By-law – Amendments
+
+> Motion to approve that: "d)    the proposed by-law, as appended to the Added Agenda, BE INTRODUCED at the Municipal   Council meeting to be held on April 2, 2024, to amend By-law A-59 being “A by-law to provide for Various Fees and Charges” to add Consumer Fireworks Sales Business Licence Fees;"
+
+**✅ Motion Passed (3 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 4.1. 2024 Rock the Park One-Time Policy Exemption Request
+
+> Motion to approve the request for delegation status from A.M. Valastro, to be heard at this meeting.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.1. 2024 Rock the Park One-Time Policy Exemption Request
+
+> Motion to approve part a) of the motion.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.1. 2024 Rock the Park One-Time Policy Exemption Request
+
+> Motion to approve part b) of the motion
+
+**✅ Motion Passed (3 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 5.1. (ADDED) Reduced Parking Incentive Pilot Project
+
+> Motion to approve that the Civic Administration BE DIRECTED to implement a reduced parking incentive as a pilot project until the end of Q3 2024 for Municipal Lots 1 & 2 utilizing the existing HONK mobile application; it being noted that Municipal Lots 1 & 2 have a lower hourly and daily revenue ...
+
+**❌ Motion Failed (1 to 4) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Jerry Pribil](/councillors/current/j-pribil)
+
+**Nay (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+

@@ -718,7 +718,7 @@ The meeting adjourned at 6:45 PM.
 
 ## Votes
 
-*12 substantive votes at this meeting (12 contested, 0 unanimous). Procedural motions excluded.*
+*20 substantive votes at this meeting (2 contested, 18 unanimous). Procedural motions excluded.*
 
 ### 2. 5th Report of the
   Environmental and Ecological Planning Advisory Committee
@@ -728,12 +728,7 @@ The meeting adjourned at 6:45 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (4-0)
 
 ### 3. Fibre Optic
   Connection Grant Pilot Program for Downtown London
@@ -743,12 +738,7 @@ The meeting adjourned at 6:45 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (4-0)
 
 ### 4. Shipping Containers
   and Trailers
@@ -758,12 +748,7 @@ The meeting adjourned at 6:45 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (5-0)
 
 ### 5. Properties located
   at 776-802 Killarney Road
@@ -773,12 +758,7 @@ The meeting adjourned at 6:45 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (4-0)
 
 ### 6. Property located at
   255 South Carriage Way (H-8577)
@@ -788,12 +768,7 @@ The meeting adjourned at 6:45 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (4-0)
 
 ### 7. Property located at
   3300 Castle Rock Place (H-8559)
@@ -803,10 +778,22 @@ The meeting adjourned at 6:45 PM.
 **✅ Motion
   Passed**
 
+Unanimous (4-0)
+
+### 8. Property located at
+  1602 Sunningdale Road West (Z-8587)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
 <details>
 <summary>View roll call</summary>
 
 **Yea (4):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
+
+**Nay (1):** [Stephen Turner](/councillors/current/s-turner)
 
 </details>
 
@@ -818,12 +805,32 @@ The meeting adjourned at 6:45 PM.
 **✅ Motion
   Passed**
 
+Unanimous (5-0)
+
+### 8. Property located at
+  1602 Sunningdale Road West (Z-8587)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 9. Property located at
+  195 Dundas Street (TZ-8592)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
 <details>
 <summary>View roll call</summary>
 
-**Yea (14):** [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park)
+**Yea (4):** [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
 
-**Nay (1):** [Stephen Turner](/councillors/current/s-turner)
+**Nay (1):** [Jesse Helmer](/councillors/current/j-helmer)
 
 </details>
 
@@ -835,14 +842,17 @@ The meeting adjourned at 6:45 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (5-0)
 
-**Yea (14):** [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park)
+### 9. Property located at
+  195 Dundas Street (TZ-8592)
 
-**Nay (1):** [Jesse Helmer](/councillors/current/j-helmer)
+> Motion   Passed
 
-</details>
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
 
 ### 10. Property located at
   259 Sunningdale Road West (OZ-8094)
@@ -852,12 +862,27 @@ The meeting adjourned at 6:45 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (4-0)
 
-**Yea (12):** [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park)
+### 10. Property located at
+  259 Sunningdale Road West (OZ-8094)
 
-</details>
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
+### 10. Property located at
+  259 Sunningdale Road West (OZ-8094)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
 
 ### 11. Property located at
   1880 Phillbrook Drive (OZ-8584)
@@ -867,12 +892,27 @@ The meeting adjourned at 6:45 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (5-0)
 
-**Yea (15):** [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park)
+### 11. Property located at
+  1880 Phillbrook Drive (OZ-8584)
 
-</details>
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 11. Property located at
+  1880 Phillbrook Drive (OZ-8584)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
 
 ### 12. 5th Report of the
   Trees and Forests Advisory Committee
@@ -882,12 +922,7 @@ The meeting adjourned at 6:45 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (5-0)
 
 ### 13. Green Roofs
 
@@ -896,10 +931,5 @@ The meeting adjourned at 6:45 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (5-0)
 

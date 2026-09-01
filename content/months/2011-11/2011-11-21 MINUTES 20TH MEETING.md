@@ -4632,3 +4632,942 @@ Passed
 
 Motion Passed
 
+---
+
+## Votes
+
+*84 substantive votes at this meeting (25 contested, 59 unanimous). Procedural motions excluded.*
+
+### 1#3. Municipal Service
+  Financing Agreements
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 1#3. Municipal Service
+  Financing Agreements
+
+> Approve that, on the recommendation of the City Treasurer, Chief Financial   Officer:    (a)       the   report and presentation from Watson and Associates Economists Ltd. BE   RECEIVED for information; (b)        recommendations (b)(ii) through   (b)(v) BE APPROVED, but implementation BE        ...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (1):** [Dale Henderson](/councillors/current/d-g-henderson)
+
+</details>
+
+### 1#4. Closed Circuit
+  Television Surveillance Cameras Expansion
+
+> Amend clause 1 to read as follows:   That   the following actions be taken with respect to the installation of closed   circuit television surveillance cameras in the Old East Village area:   (a)     the installation of a wireless surveillance   system at the intersections of Dundas and Rectory S...
+
+**✅ Motion Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Judy Bryant](/councillors/current/j-p-bryant)
+
+**Nay (5):** [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Denise Brown](/councillors/current/d-brown)
+
+</details>
+
+### 1#5. Reflective Marking
+  Material – Single Source
+
+> Approve that, on the recommendation of the Executive Director, Planning,   Environmental & Engineering Services, the Civic Administration BE   DIRECTED to undertake the following actions with respect to the purchase of   reflective marking material:   (a)       the   Civic Administration BE AUTHO...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 1#8. Community
+  Engagement Task Force Update
+
+> Approve that the following actions be taken with respect to the information   report and the attached presentation from Kevin Van Lierop and   Heather Hallett regarding an update on the work of the Community Engagement   Task Force:   (a)       the    Community Engagement Task Force BE THANKED fo...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (1):** [Joni Baechler](/councillors/current/j-l-baechler)
+
+</details>
+
+### 1#8. Community
+  Engagement Task Force Update
+
+> Approve that the following actions be taken with respect to London’s   competitive position:   (a)       the   London Economic Development Corporation BE REQUESTED to undertake analysis   and weight data as it relates to London’s competitive position, in order to   assist the Municipal Council in...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (1):** [Joni Baechler](/councillors/current/j-l-baechler)
+
+</details>
+
+### 1#9. Bed Bugs
+
+> Approve that the Middlesex London Health Unit BE REQUESTED to provide a   report to the appropriate standing committee of Council with respect to its   action plan related to bed bugs, with said report to include, but not be   limited to, matters such as: eradication, improved enforcement, guidan...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 10#2. 697-701 Hale Street
+
+> Amend clause 10 by inserting the   following words “including suggestions to improve the Dundas/Hale   intersection area” following the words “above-noted property”.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (4):** [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe)
+
+</details>
+
+### 10#3. 2012 Wastewater and
+  Treatment Budget
+
+> Amend Clause 10 in part (d) by deleting   the word “Water” and by replacing it with the words “Wastewater and   Treatment”
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (1):** [Dale Henderson](/councillors/current/d-g-henderson)
+
+</details>
+
+### 10#3. 2012 Wastewater and
+  Treatment Budget
+
+> Approve   parts (g) and (h) of clause 11.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 10#3. 2012 Wastewater and
+  Treatment Budget
+
+> Motion made Councillor P. Hubert to Approve   clause 11, except parts (g) and (h).
+
+**✅ Motion Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant)
+
+**Nay (5):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Denise Brown](/councillors/current/d-brown)
+
+</details>
+
+### 11#2. Taxi/Limousine
+  By-law
+
+> Approve that pursuant to section 13 of the   Council Procedure By-law, the actions of the Municipal Council taken at its   meeting held on October 24, 2011, in having adopted clause 3(b) of the 17th Report   of the Community and Neighbourhoods Committee, with respect to removing part   3.1(w) of ...
+
+**❌ Motion Failed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant)
+
+**Nay (4):** [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe)
+
+</details>
+
+### 11#3. 2012 Curb and
+  Gutter Local Improvement – Gretna Green
+
+> Approve that, on the recommendation of the Director, Wastewater and   Treatment, the following actions be taken with respect to the construction of   Curb and Gutter as part of the Local Improvement Program, on initiation, for   both sides of Gretna Green from Maldon Road to Middlewoods:   (a)   ...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 12#2. 2012 Budget
+  Development for Advisory Committees
+
+> Approve that, on the recommendation of the Environmental and Engineering   Planning Advisory Committee (EEPAC), the 2012 Budget allocation for the EEPAC   BE INCREASED by $1,000.00 for a total allocation of $2,005, to assist   interested members to attend the 2012 Canadian Urban Forest Conference...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 12#3. Youth Inquiry
+  Development Program
+
+> Approve that the attached communication, dated November 9,   2011, from J. Hsi, Science Fair Liaison, Youth Science Ontario, with respect   to the expansion of the Youth Inquiry Development Program, BE REFERRED to the   Civic Administration to look into the above-noted Program, with a report back...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 12#4. 2012 Water Budget
+  and 2012 Wastewater and Treatment Budget - Public Participation Meeting
+
+> Approve that at the public participation meeting associated with the 2012   Water Budget and the 2012 Wastewater and Treatment Budget, the following   individuals made an oral submission to the Committee of the Whole, in   connection therewith:   -           Bob   Large - Expressing concern that ...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (2):** [Stephen Orser](/councillors/current/s-orser), [Sandy White](/councillors/current/s-white)
+
+</details>
+
+### 13#2. Riverbend South
+  Area Plan - Appendix 4
+
+> Refer part   (a) of Clause 13 back to   Civic Administration to review and report back to the appropriate standing   committee with additional information as to the feasibility of discontinuing   the practice of conditions of an application being fulfilled through a second   application.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 13#2. Riverbend South
+  Area Plan - Appendix 4
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 13#3. Confidential
+  Appendix - 10th Report of the Advisory Committee on the Environment
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 13#4. Recorded Vote -
+  2012 Water Budget and 2012 Wastewater and Treatment Budget - Referral to
+  Investment and Economic Prosperity Committee
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (2):** [Stephen Orser](/councillors/current/s-orser), [Sandy White](/councillors/current/s-white)
+
+</details>
+
+### 14#2. New Environmental
+  and Ecological Planning Advisory Committee Term Orientation
+
+> Approve that, on the recommendation of the Environmental and Ecological   Planning Advisory Committee, the Civic Administration and the Upper Thames   River Conservation Authority (UTRCA) BE REQUESTED to provide orientation information   to the newly appointed advisory committee, according to the...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 14#3. Dearness Home
+  Community Newsletter - November 2011
+
+> Approve that the Community and Neighbourhoods Committee reviewed and received   the Dearness Home Community Newsletter for November, 2011. (2011-C11-00)
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 14#4. Recorded Vote -
+  2012 Water Budget and 2012 Wastewater and Treatment Budget Recommendations -
+  As Amended
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (2):** [Stephen Orser](/councillors/current/s-orser), [Sandy White](/councillors/current/s-white)
+
+</details>
+
+### 15#2. Advisory Committee
+  Review
+
+> Amend part (a) to read as follows:   “the outgoing Chairs or Vice Chairs of the   various advisory committees BE REQUESTED to act as a resource to the Striking   Committee, as required; and,”.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 15#3. 10th Report of the
+  London Diversity and Race Relations Advisory Committee
+
+> Approve that the Community and Neighbourhoods Committee reviewed and received   the 10th Report of the London Diversity and Race Relations Advisory Committee   from its meeting held on October 26, 2011.  (See Report attached.)
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 16#2. BFI Canada Inc. –
+  441 Industrial Road (Z-7945)
+
+> Approve that, notwithstanding the recommendation of the Director of Land Use   Planning and City Planner, with respect to the application of BFI Canada   Inc., relating to the property located at 441 Industrial Road, that the   matter BE REFERRED back to the Civic Administration to provide a furt...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 16#3. Glanworth Library
+  Branch
+
+> Approve that the Community and Neighbourhoods Committee received a   communication, dated October 11, 2011, from J. Morgan, Chair, London Public   Library, with respect to an update on the Glanworth Library Branch; it being   noted that the CNC expressed its appreciation for the update and asked ...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 17#2. 2004145 Ontario
+  Limited – 1021 Wonderland Road South (Z-7956)
+
+> Approve that, on the recommendation of the Director of Land Use Planning and   City Planner, based on the application of 2004145 Ontario Limited, relating   to the property located at 1021 Wonderland Road South, the attached   proposed by-law BE INTRODUCED at the Municipal Council meeting on Nove...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 17#3. 7th Report of the
+  Community Safety and Crime Prevention Advisory Committee
+
+> Approve that the Community and Neighbourhoods Committee reviewed and received   clauses 2 to 11, inclusive, of the 7th Report of the Community Safety and   Crime Prevention Advisory Committee from its meeting held on October 27,   2011.  (See Report attached.)
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 19#2. 4th Report of the
+  Council Housing Leasership Committee
+
+> Approve That the Community and Neighbourhoods Committee reviewed and received   clauses 4 to 5, inclusive, of the 4th Report of the Council Housing   Leadership Committee from its meeting held on October 28, 2011.  (See Report attached.)
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 2#4. Cedar Hollow
+  Development Limited – 1671 and 1755 Fanshawe Park Road East (H-7928)
+
+> Approve that, on the recommendation of the Director of Development Planning   and the Managing Director of Development Approvals, based on an application   by Cedar Hollow Development Limited relating to the property located at 1671   & 1755 Fanshawe Park Road East, the revised attached   propose...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 2#5. Execution of
+  contracts related to Dearness Home Medical Director and attending Physicians
+
+> Approve that, on the recommendation of the Interim Administrator of Dearness   Home, with the concurrence of the Executive Director of Community Services,   the attached revised proposed by-laws (Appendices A and B) BE   INTRODUCED at the Municipal Council meeting to be held on November 21, 2011,...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (2):** [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser)
+
+</details>
+
+### 2#6. Mental Health
+  Funding
+
+> Approve that the matter of the divestment of geriatric mental health beds by   the Regional Mental Health Centre BE PLACED on the agenda of the next FAC   meeting with Members of the Legislative Assembly of Ontario; it being noted   that specific City concerns as to the approach being taken in pl...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 20#2. 10th Report of the
+  Advisory Committee on the Environment
+
+> Approve that the Community and Neighbourhoods Committee reviewed and received   the 10th Report of the Advisory Committee on the Environment from its meeting   held on November 10, 2011.  (See Report attached.)
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 21#2. In Camera
+
+> Receive   for Information that the Community and Neighbourhoods Committee passed the   following resolution prior to moving in camera from 5:38 p.m. to 5:42 p.m.:   “That the Community and Neighbourhoods   Committee move in camera to discuss matters pertaining to personal matters   about identifi...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 3#2. Workplace Diversity
+  Statement and Plan Update
+
+> Amend by adding a new part (c) as follows:   “(c)      the   City of London Workplace Diversity Statement BE REFERRED to the Chief Human   Resources Officer to review and report back with revised wording for the   Statement and Plan, that provides emphasis with respect to “diversity”, “inclusiven...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (1):** [Dale Henderson](/councillors/current/d-g-henderson)
+
+</details>
+
+### 3#2. Workplace Diversity
+  Statement and Plan Update
+
+> Motion made to Approve clause 3, as   amended, is put.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 3#3. Engineering Claims
+  on CSRF Funded SWM Works – Procedure for Reimbursement of Pre-Approved Owner
+  Costs
+
+> Approve that, on the recommendation of the Director, Development Finance, the   following actions be taken with respect to the proposed implementation of   procedures relating to the financing of the construction of Storm Water   Management facilities:   (a)       procedures   for the reimburseme...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 3#4. Banana Toss and
+  Transgendered Incident
+
+> Approve that the City Clerk BE REQUESTED to follow-up with the London   Diversity and Race Relations Advisory Committee (LDRRAC) and the London Urban   Services Organization (LUSO), to request their responses to the Municipal   Council direction from its meeting held on October 3, 2011, relating ...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (2):** [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser)
+
+</details>
+
+### 3#5. Capital Assets and
+  Revenue Alternatives
+
+> Approve that, on the recommendation of the City Treasurer, Chief Financial   Officer, the following actions be taken with respect to the discussion paper,   dated June 21, 2011, on capital assets and revenue alternatives from the City   Treasurer, Chief Financial Officer:    (a)       the   princ...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (1):** [Joni Baechler](/councillors/current/j-l-baechler)
+
+</details>
+
+### 3#6. Political Action
+  List
+
+> Approve that the Civic Administration BE REQUESTED to present to the Services   Review Committee information related to pending issues for discussion with   the local MPP’s and MP’s, as well as the impact of previous discussions with   the local MPP’s and MP’s.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 4#2. Hesham Abdelsayed –
+  1472 Huron Street (Z-7887)
+
+> Amend part (b) by removing the words   “and Director of Land Use Planning and City Planner” and the words “and   planning representation”.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 4#3. National Crime
+  Prevention Strategy
+
+> Approve that, on the recommendation of the Community Safety and Crime   Prevention Advisory Committee (CSCP), the following actions be taken with   respect to the National Crime Prevention Strategy:   (a)       L.   Steel BE REGISTERED with Public Safety Canada to be notified of any potential   f...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (2):** [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser)
+
+</details>
+
+### 4#4. Civic Works
+  Committee
+
+> Approve that the membership of the Civic Works Committee for the term   December 1, 2011 to November 30, 2012 BE ESTABLISHED as follows:                                       Councillor   H. L. Usher (Chair)                                     Mayor   J. Fontana (ex-officio)                      ...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (1):** [Joni Baechler](/councillors/current/j-l-baechler)
+
+</details>
+
+### 5#2. Closure of Southern
+  170 meters of Crestwood Drive
+
+> Approve that, on the recommendation of the Director of Land Use Planning and   City Planner, the Chief Surveyor BE DIRECTED to initiate the process of   legally closing the southern 107 meters of Crestwood Drive and the 0.305   metre reserve in accordance with the City's Street and Lane closing  ...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 5#3. UFORE Leaf Cover
+
+> Approve that, on the recommendation of the Trees and Forests Advisory   Committee (TFAC), the following actions be taken with respect to the Urban   Forest Effects Model (UFORE):   (a)       the   Civic Administration BE REQUESTED to include the planning district and   sub-watershed leaf cover ma...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (2):** [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser)
+
+</details>
+
+### 5#4. Community Services
+  Committee
+
+> Approve   that the membership of the Community Services Committee for the term December   1, 2011 to November 30, 2012 BE ESTABLISHED as follows:                                       Councillor   M. Brown (Chair)                                     Mayor   J. Fontana (ex-officio)                ...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (1):** [Joni Baechler](/councillors/current/j-l-baechler)
+
+</details>
+
+### 6#2. Thames Valley
+  Parkway Boardwalk Construction – Tender 11-97
+
+> Approve that, on the recommendation of the Director of Land Use Planning and   City Planner, the following actions be taken with respect to the Thames   Valley Boardwalk Construction (Tender 11-97):   (a)       the   tender submitted by Royal Fence Ltd., P.O. Box 121, 2309 Westchester Bourne,   D...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 6#3. Investment in
+  Affordable Housing for Ontario Approval of Program Delivery and Fiscal Plan
+
+> Approve that, on the recommendation of the Council Housing Leadership   Committee (CHLC), the recommendation of the Director of Municipal Housing,   with the concurrence of the Executive Director of Community Services, the   proposed Investment in Affordable Housing (IAH) Program Delivery and Fis...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (2):** [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser)
+
+</details>
+
+### 6#4. Finance and
+  Administrative Services Committee
+
+> Approve that   the membership of the Finance and Administrative Services Committee for the   term December 1, 2011 to November 30, 2012 BE ESTABLISHED as   follows:                                       Mayor   J. Fontana (Chair)                                     Councillor   J. L. Baechler    ...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (1):** [Joni Baechler](/councillors/current/j-l-baechler)
+
+</details>
+
+### 7#2. Decade Group Inc. –
+  1311 Wharncliffe Road South – Westbury Subdivision (39T-05509) (H-7974)
+
+> Approve that, on the recommendation of the Director of Development Planning   and the Managing Director, Development Approvals Business Unit, based on the   application of Decade Group Inc., relating to the property located at 1311   Wharncliffe Road South, the attached proposed by-law BE   INTRO...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 7#3. Changes to the
+  Affordable Housing Capital Reserve Fund Policy for Participation in the
+  Investment in the Affordable Housing Program
+
+> Approve that, on the recommendation of the Council Housing Leadership   Committee (CHLC), the recommendation of the Director of Municipal Housing,   with the concurrence of the Executive Director of Community Services, the   following actions be taken with respect to the Affordable Housing Capita...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 7#4. Planning and
+  Environment Committee
+
+> Approve that the membership of the Planning & Environment Committee for   the term December 1, 2011 to November 30, 2012 BE ESTABLISHED as follows:                                       Councillor   W. J. Polhill (Chair)                                     Mayor   J. Fontana (ex-officio)         ...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (1):** [Joni Baechler](/councillors/current/j-l-baechler)
+
+</details>
+
+### 8#2. Sifton Properties
+  Limited – 149, 153 and 187 Southdale Road West – Bierens Subdivision
+  (39T-08508) (H-7975)
+
+> Approve that, on the recommendation of the Director of Development Planning   and the Managing Director, Development Approvals Business Unit, based on the   application of Sifton Properties Ltd., relating to the property located at   149, 153 and 187 Southdale Rd. West, the attached proposed   by...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 8#3. Revised Proposal
+  Governance Structure
+
+> Approve that, on the recommendation of the Council Housing Leadership   Committee (CHLC), the CHLC, as it currently exists, BE INCLUDED in any   revisions to the City of London governance structure; it being noted that the   CHLC reviewed and received a communication, dated June 10, 2011, from th...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 8#4. Public Safety
+  Committee
+
+> Approve that the membership of the Public Safety Committee for the term   December 1, 2011 to November 30, 2012 BE ESTABLISHED as follows:                                       Councillor   D. Brown (Chair)                                     Mayor   J. Fontana (ex-officio)                       ...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (1):** [Joni Baechler](/councillors/current/j-l-baechler)
+
+</details>
+
+### 9#2. Consideration to
+  Ban Shark Fin Products within the City of London
+
+> Approve that the attached communication, dated November 4, 2011,   from Councillor S. White, with respect to a request to ban shark fin products   within the City of London, BE REFERRED to the Civic Administration to   correspond with the appropriate Ministry to receive further information on   t...
+
+**❌ Motion Failed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Harold Usher](/councillors/current/h-l-usher)
+
+**Nay (12):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+</details>
+
+### 9#2. Consideration to
+  Ban Shark Fin Products within the City of London
+
+> Approve that the Civic Administration BE   DIRECTED to take the necessary steps to implement a ban on shark fin products   within the City of London and that the appropriate Federal and Provincial   Ministers, the Association of Municipalities of Ontario and the Federation of   Canadian Municipal...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 9#3. Foundation Drain
+  Disconnection to Mitigate Basement Flooding
+
+> Approve that, on the recommendation of the Director of Wastewater and   Treatment, the following actions be taken with respect to the award of a   contract for the installation of Greenway Wastewater Treatment Plant Ash   Handling, Tender 11-90 (Project ES5165-11):   (a)       the   proposal subm...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 9#4. Striking Committee
+
+> Approve that the following BE APPOINTED to the Striking Committee for the   2010-2014 Council term:                           Kerry Hendricks   (Past Member of the LDRRAC)                         Michelle Baldwin   (Pillar Non-Profit Network)                         Greg Thompson   (Urban League ...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### II. DISCLOSURES
+  OF PECUNIARY INTEREST
+
+> Approve the Minutes of the Nineteenth   Meeting held on November 7, 2011.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### VII. ADDED
+  REPORTS
+
+> pursuant to section 7.3 of the Council   Procedure By-law, the order to business BE CHANGED to permit the   consideration of clause 9 of the 19th Report of the Community and   Neighbourhoods Committee, related to consideration to ban shark fin products   within the City of London, at 6:00 p.m.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 3. Director of Intergovernmental and Community
+  Liaison – Status Report on Team London Trade Scoping Mission to China.
+
+> Approve the information report, dated November 21,   2011 from the Director of Intergovernmental and Community Liaison with   respect to the Team London trade scoping mission to China.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 4. Banking Services
+  Agreement
+
+> Motion made Councillor J.P. Bryant to   Approve that, on the recommendation of the City Treasurer, Chief Financial   Officer, the attached proposed by-law (Appendix A) BE   INTRODUCED at the Municipal Council meeting of November 21, 2011 to:   (a)       approve   the Banking Services Agreement an...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 5. Orchestra London
+  2010-2011 Financial Results
+
+> Approve that on the recommendation of the Deputy City Treasurer, the November   16, 2011 report regarding Orchestra London’s 2010-2011 financial results BE   RECEIVED for information.
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### 6. Request from London
+  Machinery Inc. to Extend its Option on Parts 15 to 19, Plan 33R-17397 -
+  Skyway Industrial Park
+
+> Approve that, on the recommendation of the Managing Director - Corporate   Assets, on the advice of the Manager Realty Services, the following actions   be taken with respect to the request from London Machinery Inc. to extend its   option on Parts 15 to 19, Plan 33R-17397 of Skyway Industrial Pa...
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### 7. Declare Property
+  Surplus and Sale of Part of Barton Street Road Allowance
+
+> Approve that, on the recommendation of the Managing Director - Corporate   Assets, on the advice of the Manager Realty Services, with respect to the   City-owned Barton Street road allowance north of Central Avenue, described as   Parts 1, 2 and 3, Reference Plan 33R-18052, containing an area of ...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 8. Declare Land Surplus
+  and Sale to Union Gas Limited
+
+> Approve that, on the recommendation of the Managing Director - Corporate   Assets, on the advice of the Manager Realty Services, with respect to the   City-owned land located on the north side of Bradley Avenue east of Veteran’s   Memorial Parkway, described as Blocks 1 and 15, Plan 33M-609 (Part...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 9. SensoDetect
+  Aktiebolag Memorandum of Agreement
+
+> Approve that, on the recommendation of the Director of Intergovernmental and   Community Liaison, the Mayor BE AUTHORIZED to sign the attached   Memorandum of Understanding (MOU) with SensoDetect Aktiebolag.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 10. Canada Ukraine
+  Municipal Local Economic Development Program - Mission to Ukraine
+
+> Approve that, on the recommendation of the Director of Intergovernmental and   Community Liaison, the November 16, 2011 report on the City of London’s   participation in the Ukraine Municipal Local Economic Development Program BE   RECEIVED.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 11. Team London Trade
+  Scoping Mission to China
+
+> Approve that the Director of Intergovernmental and Community Liaison BE   DIRECTED to submit a report to the November 21, 2011 meeting of the Municipal   Council, providing additional details as to which individuals from The   Corporation of the City of London will be going on the Team London Tra...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 12. Revision to Code of
+  Conduct for Members of Municipal Council
+
+> Approve that, the proposed by-law to amend Council Policy 5(30) – Code of   Conduct for Members of Municipal Council, by referencing the Procurement of   Goods and Services Policy – Interference in the Procurement Process BE   REFERRED back to staff for inclusion of further clarification as to th...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 13. Annual Business
+  Achievement Awards Sponsorship
+
+> Approve that the City Manager BE AUTHORIZED to enter into an Event   Sponsorship Agreement with the London Chamber of Commerce for a “Silver   Sponsorship” of the 2012 Business Achievement Award Program; it being noted   that the associated cost of $6000 is to be accommodated within the approved ...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 15. Municipal Services
+  Financing Agreements
+
+> receive   clause 15.   Clause 15 reads as follows:   The   Finance and Administration Committee reviewed and noted correspondence from   L. J. Townsend, Townsend and Associates; and S. Levin and G. McGinn- McTeer,   Urban League of London Submissions re Municipal Services Financing Agreements
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 16. Naming of London’s
+  Newest Baseball Team
+
+> Refer consideration of clause 16 to after   closed session, in order to receive legal advice.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (1):** [Dale Henderson](/councillors/current/d-g-henderson)
+
+</details>
+
+### 17. Funding of Future
+  Industrial Land Acquisitions
+
+> Approve that $4.7 million BE APPROVED for funding future industrial land   acquisitions, with the source of financing to be as follows:   2011 Capital Levy                   $1,100,000* Debt                                        $2,900,000 Industrial Land Reserve          $     700,000          ...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 17. Funding of Future
+  Industrial Land Acquisitions
+
+> Approve that in the event a Member of   Council is involved in international travel representing the Municipal   Council, the appropriate Standing Committee BE ADVISED of the nature of the   trip and the source of financing for same, so that the Municipal Council can   provide its support for the...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 18. 9th Report of the
+  Trees and Forests Advisory Committee
+
+> Approve that the Community and Neighbourhoods Committee reviewed and received   clauses 2 to 6, inclusive, of the 9th Report of the Trees and Forests   Advisory Committee from its meeting held on October 26, 2011.  (See Report attached.)
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 19. Partnership
+  Arrangements with Old Oak Properties Inc. for Sugar Creek Park and Adjacent
+  Roads
+
+> Approve   that, notwithstanding the recommendation of the Executive Director of   Planning, Environmental and Engineering Services,  the Executive Director of   Planning, Environmental and Engineering Services Report relating to several   partnership arrangements within Sugar Creek Park and the a...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 21. 756949 Ontario
+  Limited – 1647 Fanshawe Park Road East (39CD-10503/Z-7785)
+
+> Approve that the Built and Natural Environment Committee (BNEC) reviewed and   received an information report from the Managing Director of the Development   Approvals Business Unit and the Director of Development Planning, in response   to the letter of September 6, 2011 from C. M. Wiebe, MHBC P...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 22. 8th Report of the
+  Transportation Advisory Committee
+
+> Approve that the Built and Natural Environment Committee reviewed and   received the 8th Report of the Transportation Advisory Committee, from its   meeting held on November 1, 2011.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 23. 11th Report of the
+  Environmental and Ecological Planning Advisory Committee
+
+> Approve that the Built and Natural Environment Committee heard a verbal   presentation from D. Sheppard, Chair, Environmental and Ecological Planning   Advisory Committee (EEPAC) and reviewed and received clauses 4 through 18,   inclusive, of the 11th Report of the EEPAC, from its meeting held on...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 24. Request for
+  Delegation Status – Veterans Memorial Parkway Noise and Vibration Studies
+
+> Approve that the Built and Natural Environment Committee (BNEC) received a   request for delegation status from C. Dodds, 248 Simpson Crescent, with   respect to Veterans Memorial Parkway noise and vibration studies.  The BNEC   did not grant delegation status to Mrs. C. Dodds.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 25. Confidential
+  Matters
+
+> Receive   for Information that the Built and Natural Environment Committee convened in   camera from 7:15 p.m. to 7:26 p.m., after having passed a motion to do so,   with respect to the following matters:   C-1.     A   matter being considered pertaining to litigation or potential litigation with...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+

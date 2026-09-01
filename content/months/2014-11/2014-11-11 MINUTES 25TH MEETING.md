@@ -1554,3 +1554,158 @@ Approve Third Reading of Bill No.s 506
 
 # XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
+---
+
+## Votes
+
+*13 substantive votes at this meeting (3 contested, 10 unanimous). Procedural motions excluded.*
+
+### 1#10. Councillor R.
+  Monteith and Councillor N. Branscombe - Emergent Motion - Relocation of
+  Inaugural Council Meeting - December 1, 2014
+
+> Approve that pursuant to section 19.2   of the Council Procedure By-law, leave be given for the introduction of an   emergent motion regarding the relocation of the December 1, 2014 Inaugural   Council Meeting to the London Convention Centre.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 1#10. Councillor R.
+  Monteith and Councillor N. Branscombe - Emergent Motion - Relocation of
+  Inaugural Council Meeting - December 1, 2014
+
+> Approve that pursuant to section 2.8   of the Council Procedure By-law, the December 1, 2014 Inaugural Municipal   Council meeting be held at the London Convention Centre commencing at 6:00   PM, in order to provide sufficient space to permit members of the public to   attend the meeting.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Stephen Orser](/councillors/current/s-orser), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (2):** [Harold Usher](/councillors/current/h-l-usher), [Bud Polhill](/councillors/current/b-polhill)
+
+</details>
+
+### 1#3. D. Nenonen, 9
+  Donnybrook Road - Property located at 420 Fanshawe Park Road East -
+  Demolition Request (Refer to the Planning and Environment Committee stage for
+  consideration with clause 13 of the 20th Report of the Planning and
+  Environment Committee.)
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 1#4. Councillor N.
+  Branscombe - Motion of Which Notice is Given - Reconsideration of Council
+  Resolution - Lodging Houses and Residential R-1 Zone
+
+> Approve that pursuant to section 11.4 of   the Council Procedure By-law, leave be given for Councillor N. Branscombe to   introduce a motion to reconsider the actions of Municipal Council taken at   its meeting of June 10, 2014 related to the adoption of part e) of clause 10   of the 12th Report ...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 1#4. Councillor N.
+  Branscombe - Motion of Which Notice is Given - Reconsideration of Council
+  Resolution - Lodging Houses and Residential R-1 Zone
+
+> Approve reconsideration of the actions   of the Municipal Council taken at its meeting of June 10, 2014, related to   the adoption of part e) of clause 10 of the 12th Report of the Community and   Protective Services Committee (CPSC), concerning a request that the Civic   Administration report ba...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (1):** [Harold Usher](/councillors/current/h-l-usher)
+
+</details>
+
+### 1#4. Councillor N.
+  Branscombe - Motion of Which Notice is Given - Reconsideration of Council
+  Resolution - Lodging Houses and Residential R-1 Zone
+
+> Approve that the Civic Administration   BE REQUESTED to bring a report forward at a future meeting of the Planning   and Environment Committee, in early 2015, with respect to the correlation   between Lodging Houses and R-1 zoning.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 10#2. Decision of the
+  Ontario College of Veterinarians
+
+> That the City Solicitor BE REQUESTED to   review the existing contract for animal care and control in light of the   recent disciplinary action levied by the Ontario College of Veterinarians,   concerning Dr. L. Palumbo.
+
+**✅ Motion
+Passed**
+
+Unanimous (13-0)
+
+### 12#2. Civic Works
+  Committee Meeting - November 17, 2014
+
+> That the Civic Works Committee meeting   scheduled for November 17, 2014, BE CANCELLED.
+
+**✅ Motion
+Passed**
+
+Unanimous (12-0)
+
+### 2#2. Property located at 420 Fanshawe Park Road
+  East - Request for Demolition
+
+> That, on the recommendation of the Managing   Director, Planning and City Planner, with the advice of the Heritage Planner,   the following actions be taken with respect to the building(s) on the   property located at 420 Fanshawe Park Road East:   a)         the   Chief Building Official BE ADVI...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Nancy Branscombe](/councillors/current/n-branscombe), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (1):** [Dale Henderson](/councillors/current/d-g-henderson)
+
+</details>
+
+### IV. COMMITTEE
+  OF THE WHOLE, IN CAMERA
+
+> Approve that Council   rise and go into Committee of the Whole, in camera, for the purpose of   considering the following:
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### VI. CONFIRMATION
+  AND SIGNING OF THE MINUTES OF THE TWENTY-FOURTH MEETING HELD ON OCTOBER 14,
+  2014
+
+> Approve the Minutes of the 24th Meeting   held on October 14, 2014.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### XIII. BY-LAWS
+
+> Approve Introduction and First   Reading of Bill No.s 506 to 530.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 19. 10th Report of the
+  Advisory Committee on the Environment
+
+> That, the following actions be taken with   respect to the 10th Report of the Advisory Committee on the Environment (ACE)   from its meeting held on October 1, 2014:   a)         the   following actions be taken with respect to clause 3, relating to the Climate   Change Forum held in Ottawa, Apri...
+
+**✅ Motion
+Passed**
+
+Unanimous (13-0)
+

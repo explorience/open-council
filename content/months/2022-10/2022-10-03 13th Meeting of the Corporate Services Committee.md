@@ -168,7 +168,7 @@ The meeting adjourned at 12:14 PM.
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4. Items for Direction
 
@@ -179,7 +179,9 @@ Unanimous (3-0)
 <details>
 <summary>View roll call</summary>
 
-**Nay (1):** [Shawn Lewis](/councillors/current/s-lewis)
+**Yea (2):** [Josh Morgan](/councillors/current/j-morgan), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+**Nay (3):** [Shawn Lewis](/councillors/current/s-lewis), [Mariam Hamou](/councillors/current/m-hamou), [John Fyfe-Millar](/councillors/current/j-fyfe-millar)
 
 **Absent (1):** [Ed Holder](/councillors/current/e-holder)
 
@@ -191,5 +193,5 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 

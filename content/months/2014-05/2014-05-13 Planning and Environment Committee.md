@@ -482,7 +482,7 @@ The
 
 ## Votes
 
-*10 substantive votes at this meeting (10 contested, 0 unanimous). Procedural motions excluded.*
+*15 substantive votes at this meeting (1 contested, 14 unanimous). Procedural motions excluded.*
 
 ### 2. 5th Report of the
   Environmental and Ecological Planning Advisory Committee
@@ -490,14 +490,9 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Paul Hubert](/councillors/current/p-hubert), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson)
-
-</details>
+Unanimous (3-0)
 
 ### 3. Properties located
   at 56-82 Wellington Street, 283-323 South Street and 69-77 Waterloo Street
@@ -506,14 +501,9 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Paul Hubert](/councillors/current/p-hubert), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson)
-
-</details>
+Unanimous (3-0)
 
 ### 4. Property located at
   1671 Fanshawe Park Road East - Cedarhollow Draft Plan - Request for Extension
@@ -522,14 +512,9 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Paul Hubert](/councillors/current/p-hubert), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson)
-
-</details>
+Unanimous (3-0)
 
 ### 5. Properties located
   at 3924 and 4138 Colonel Talbot Road (39T-12503/OZ-8052)
@@ -537,14 +522,9 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Paul Hubert](/councillors/current/p-hubert), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson)
-
-</details>
+Unanimous (3-0)
 
 ### 6. Southside
   Construction of Companies - 3804 South Winds Drive – Appeal to the
@@ -553,14 +533,9 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Paul Hubert](/councillors/current/p-hubert), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson)
-
-</details>
+Unanimous (3-0)
 
 ### 7. Properties located
   at 583, 585 and 589 Oxford Street East
@@ -570,12 +545,27 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (6-0)
 
-**Yea (17):** [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Fontana](/councillors/current/j-f-fontana), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white)
+### 7. Properties located
+  at 583, 585 and 589 Oxford Street East
 
-</details>
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 7. Properties located
+  at 583, 585 and 589 Oxford Street East
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
 
 ### 8. Entertainment on
   Outdoor Patios (Z-8335)
@@ -588,11 +578,31 @@ The
 <details>
 <summary>View roll call</summary>
 
-**Yea (16):** [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Fontana](/councillors/current/j-f-fontana), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white)
+**Yea (5):** [Paul Hubert](/councillors/current/p-hubert), [Joe Fontana](/councillors/current/j-f-fontana), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
 
 **Nay (1):** [Joni Baechler](/councillors/current/j-l-baechler)
 
 </details>
+
+### 8. Entertainment on
+  Outdoor Patios (Z-8335)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 8. Entertainment on
+  Outdoor Patios (Z-8335)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
 
 ### 9. 4th Report of the
   Trees and Forests Advisory Committee
@@ -602,12 +612,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Paul Hubert](/councillors/current/p-hubert), [Joe Fontana](/councillors/current/j-f-fontana), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
-
-</details>
+Unanimous (6-0)
 
 ### 10. Property located at
   1103 Adelaide Street North
@@ -617,12 +622,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Paul Hubert](/councillors/current/p-hubert), [Joe Fontana](/councillors/current/j-f-fontana), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
-
-</details>
+Unanimous (6-0)
 
 ### 11. Property located at
   230 Victoria Street
@@ -632,10 +632,15 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (6-0)
 
-**Yea (11):** [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Joe Fontana](/councillors/current/j-f-fontana), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white)
+### 11. Property located at
+  230 Victoria Street
 
-</details>
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
 

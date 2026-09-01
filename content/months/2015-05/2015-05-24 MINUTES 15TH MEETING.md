@@ -166,3 +166,42 @@ Approve 3rd Reading and Enactment of Bill
 Motion
 Passed
 
+---
+
+## Votes
+
+*4 substantive votes at this meeting (0 contested, 4 unanimous). Procedural motions excluded.*
+
+### V. COMMITTEE
+  OF THE WHOLE, IN CAMERA
+
+> MOTION FOR IN CAMERA SESSION
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### XIII. BY-LAWS
+
+> Approve Introduction and 1st Reading of Bill   No. 231.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### XIII. BY-LAWS
+
+> Approve 2nd Reading of Bill No. 231.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### XIII. BY-LAWS
+
+> Approve 3rd Reading and Enactment of Bill   No. 231.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+

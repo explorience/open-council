@@ -2216,3 +2216,321 @@ Approve Third Reading and Enactment of
 
 Motion Passed
 
+---
+
+## Votes
+
+*26 substantive votes at this meeting (11 contested, 15 unanimous). Procedural motions excluded.*
+
+### 1#4. Properties located
+  at 100 Fullarton Street, 475-501 Talbot Street and 93-95 Dufferin Avenue
+  (Z-8617) (Refer to the Planning and Environment Committee stage for
+  consideration with clause 14 of the 15th Report of the Planning and
+  Environment Committee.)
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 2#2. Closing of Part of
+  Cedarpark Crescent
+
+> That, on the recommendation of the Managing   Director, Environmental and Engineering Services and City Engineer, the   following actions be taken with respect to closing part of Cedarpark   Crescent:   a)        the   closing of the southerly projection or “hammerhead” portion of Cedarpark   Cre...
+
+**✅ Motion Passed**
+
+Unanimous (9-0)
+
+### 3#2. London ON Bikes
+  Cycling Master Plan
+
+> Approve an amendment to clause 3, to add a   new part d), as follows:   “d)         the   Civic Administration BE DIRECTED to report back to the Civic Works Committee   on a potential extension of the planned cycle track on Queens Avenue, from   Colborne Street to Quebec Street;”
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 3#2. London ON Bikes
+  Cycling Master Plan
+
+> Approve clause 3, as amended.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 4#4. Outlook Access – Councillors’ Contract
+  Assistants
+
+> That the Civic Administration BE DIRECTED   to take the necessary steps to amend the Use of Technology Policy, and any   other related policies, in order to permit Councillors’ contract assistants   to access Councillors’ Outlook accounts.
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### 6#3. Claimable Works for
+  1030 Coronation Drive, Hyde Park, Block 8 Reconstruction - Update to DC
+  Claimable Works
+
+> That, on the recommendation of the Managing   Director, Corporate Services and City Treasurer, Chief Financial Officer, the   following actions be taken with respect to the site plan agreement between   The Corporation of the City of London and Carvest Properties Ltd., for the   construction of w...
+
+**✅ Motion Passed**
+
+Unanimous (9-0)
+
+### I. DISCLOSURES
+  OF PECUNIARY INTEREST
+
+> Approve that pursuant to section 6.4 of   the Council Procedure By-law, the order of business be changed to permit   consideration of the Motions of Which Notice is Given to be dealt with at   this time.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### V. CONFIRMATION
+  AND SIGNING OF THE MINUTES OF THE SEVENTHEENTH MEETING HELD ON AUGUST 30,
+  2016
+
+> Approve the Minutes of the Seventeenth   Meeting, held on August 30, 2016.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### XI. ENQUIRIES
+
+> Approve that pursuant to section 11.4 of   the Council Procedure By-law, that leave be given to add a Council, In Closed   Session matter to receive information with respect to an enforcement matter.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### XII. EMERGENT
+  MOTIONS
+
+> Approve that pursuant to section 20.2 of   the Council Procedure By-law, leave be given for the introduction of an   emergent motion to request the City Clerk to report back to the Strategic   Priorities and Policy Committee with respect to temporary standing committee   appointments during Counc...
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### XII. EMERGENT
+  MOTIONS
+
+> Approve that the City Clerk BE   DIRECTED to report back to the Strategic Priorities and Policy Committee with   respect to temporary standing committee appointments for the duration of   Councillor J. Zaifman’s absence.
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### XIII. BY-LAWS
+
+> Approve Introduction and First Reading   of Bill No. 356.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+
+**Nay (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### XIII. BY-LAWS
+
+> Approve Second Reading of Bill No. 356.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+
+**Nay (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### XIII. BY-LAWS
+
+> Approve Third Reading and Enactment of Bill   No. 356.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+
+**Nay (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### XIII. BY-LAWS
+
+> Approve Introduction and First Reading of   Bill No. 357.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+
+**Nay (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### XIII. BY-LAWS
+
+> Approve Second Reading of Bill No.   357.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+
+**Nay (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### XIII. BY-LAWS
+
+> Approve Third Reading and Enactment of   Bill No. 357.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+
+**Nay (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 8. London Township
+  Treaty – Anniversary Recognition
+
+> That the City Clerk BE DIRECTED to bring   forward, at a future meeting of the Corporate Services Committee, an   amendment to Council Policy 16(21) Flags at City Hall to provide for the   flying of the First Nations flag on the Community Flag Pole on September 7th   of each year to recognize the...
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 9. Establishment on
+  W12A Landfill Public Liaison Committee Point of Source Water Treatment 
+  Program (Relates to Bill No. 343)
+
+> That, on the recommendation of the   Director, Environment, Fleet and Solid Waste, the following actions be taken   with respect to the W12A Landfill Public Liaison Committee Point of Source   Water Treatment Program:   a)        the   establishment of the W12A Landfill Public Liaison Committee P...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+
+**Nay (1):** [Michael van Holst](/councillors/current/m-van-holst)
+
+</details>
+
+### 14. Properties located
+  at 100 Fullarton Street, 475-501 Talbot Street and 93-95 Dufferin Avenue
+  (Z-8617)
+
+> That the application by Rygar Properties   Inc., relating to the properties located at 100 Fullarton Street, 475-501   Talbot Street and 93-95 Dufferin Avenue BE REFERRED back to the Civic   Administration for further consultation with the applicant to amend the   proposal to incorporate and reta...
+
+**❌ Motion Failed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner)
+
+**Nay (11):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 14. Properties located
+  at 100 Fullarton Street, 475-501 Talbot Street and 93-95 Dufferin Avenue
+  (Z-8617)
+
+> Approve that, on the recommendation of the   Managing Director, Planning and City Planner, the following actions be taken   with respect to the application of Rygar Properties Inc., relating to the   properties located at 100 Fullarton Street, 475-501 Talbot Street and 93-95   Dufferin Avenue:   ...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 15. Relocation of Bus
+  Routes Off Dundas Street
+
+> Approve An amendment to part a) of clause 15 by   deleting the word “Spring” and by replacing it with the word “September”.
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### 15. Relocation of Bus
+  Routes Off Dundas Street
+
+> Approve clause 15, as amended.
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### 17. Brownfield Incentive
+  Application - Chelsea Green Meadows (33M-686)
+
+> That delegation status BE GRANTED to D. de   Jong, 2423662 Ontario Ltd., at a future meeting of the Planning and   Environment Committee with respect to the request for a Development Charge   Rebate Grant relating to the registered plan of subdivision 33M-656 by   2423652 Ontario Ltd.; it being n...
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### 18. Dundas Flex Street
+  - Programming
+
+> Approve an amendment to part c) to read   as follows:   c)        a   pilot project being undertaken during the study period to study Market Lane   to assist in establishing the “Dundas Flex Street Programming Authority” that   would have the authority to establish programming for the Dundas Flex...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+
+**Nay (1):** [Phil Squire](/councillors/current/p-squire)
+
+</details>
+
+### 18. Dundas Flex Street
+  - Programming
+
+> Approve clause 18, as amended.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+
+**Nay (1):** [Phil Squire](/councillors/current/p-squire)
+
+</details>
+

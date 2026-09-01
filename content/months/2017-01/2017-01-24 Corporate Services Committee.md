@@ -453,7 +453,7 @@ The Corporate Services Committee convened in
 
 ## Votes
 
-*15 substantive votes at this meeting (15 contested, 0 unanimous). Procedural motions excluded.*
+*15 substantive votes at this meeting (2 contested, 13 unanimous). Procedural motions excluded.*
 
 ### 2. STAFF REPORT -
   Ranked Ballot Election Model
@@ -497,12 +497,7 @@ The Corporate Services Committee convened in
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (5-0)
 
 ### 5. STAFF REPORT -
   Declare Surplus - Closed Road Allowance - Part of Lilac Avenue
@@ -512,12 +507,7 @@ The Corporate Services Committee convened in
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (5-0)
 
 ### 6. STAFF REPORT -
   Declare Surplus - Closed Road Allowance - Part of Isaac Drive
@@ -527,12 +517,7 @@ The Corporate Services Committee convened in
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (5-0)
 
 ### 7. STAFF REPORT -
   Authorization for Temporary Borrowing
@@ -542,12 +527,7 @@ The Corporate Services Committee convened in
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (5-0)
 
 ### 8. STAFF REPORT -
   Transportation Advisory Committee Amendment to Terms of Reference
@@ -557,12 +537,7 @@ The Corporate Services Committee convened in
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (5-0)
 
 ### 9. STAFF REPORT -
   Expropriation of Land - Western Road Widening and Improvements Project TS
@@ -573,12 +548,7 @@ The Corporate Services Committee convened in
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (5-0)
 
 ### 10. COUNCIL MEMBER
   SUBMISSION - Ontario Good Roads Association Campaign Expenses
@@ -588,12 +558,7 @@ The Corporate Services Committee convened in
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (5-0)
 
 ### 11. PUBLIC SUBMISSION -
   Request for Designation of the Colombia Gastronomy Festival as a Municipally Significant
@@ -604,12 +569,7 @@ The Corporate Services Committee convened in
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (5-0)
 
 ### 12. PUBLIC SUBMISSION
   - Change in Representation on the London Advisory Committee on
@@ -620,12 +580,7 @@ The Corporate Services Committee convened in
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (5-0)
 
 ### 13. COUNCIL MEMBER
   SUBMISSION - Funding Unclosed Projects
@@ -635,12 +590,7 @@ The Corporate Services Committee convened in
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (5-0)
 
 ### 14. COUNCIL MEMBER
   SUBMISSION - Federation of Canadian Municipalities (FCM) Board of Directors
@@ -650,12 +600,7 @@ The Corporate Services Committee convened in
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (5-0)
 
 ### 15. Corporate Services
   Committee Deferred Matters List
@@ -665,12 +610,7 @@ The Corporate Services Committee convened in
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (5-0)
 
 ### 16. ADDED - STAFF
   REPORT - Review of City of London Ward Boundaries
@@ -680,10 +620,5 @@ The Corporate Services Committee convened in
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (5-0)
 

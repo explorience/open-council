@@ -549,7 +549,7 @@ The meeting adjourned at 5:58 PM.
 
 ## Votes
 
-*14 substantive votes at this meeting (14 contested, 0 unanimous). Procedural motions excluded.*
+*16 substantive votes at this meeting (1 contested, 15 unanimous). Procedural motions excluded.*
 
 ### 2. 7th and 8th Reports
   of the Accessibility Advisory Committee
@@ -559,12 +559,7 @@ The meeting adjourned at 5:58 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong)
-
-</details>
+Unanimous (5-0)
 
 ### 3. STAFF REPORT -
   London’s Homeless Prevention System - Contract Amendment – Cargo Management
@@ -576,12 +571,7 @@ The meeting adjourned at 5:58 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong)
-
-</details>
+Unanimous (5-0)
 
 ### 4. STAFF REPORT -
   London’s Homeless Prevention System - Homelessness Partnering Strategy -
@@ -593,12 +583,7 @@ The meeting adjourned at 5:58 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong)
-
-</details>
+Unanimous (5-0)
 
 ### 5. STAFF REPORT -
   London’s Homeless Prevention System - Homelessness Partnering Strategy
@@ -609,12 +594,7 @@ The meeting adjourned at 5:58 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong)
-
-</details>
+Unanimous (5-0)
 
 ### 6. STAFF REPORT  - 
   Community Mental Health and Addictions Strategy
@@ -624,12 +604,7 @@ The meeting adjourned at 5:58 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong)
-
-</details>
+Unanimous (4-0)
 
 ### 7. STAFF REPORT -
   Overview of Ontario Works Basic Needs and Shelter Allowance Rates
@@ -639,12 +614,7 @@ The meeting adjourned at 5:58 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong)
-
-</details>
+Unanimous (5-0)
 
 ### 8. 7th Report of the
   Animal Welfare Advisory Committee
@@ -654,12 +624,7 @@ The meeting adjourned at 5:58 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong)
-
-</details>
+Unanimous (5-0)
 
 ### 9. Ontario Works Rates
 
@@ -668,12 +633,7 @@ The meeting adjourned at 5:58 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong)
-
-</details>
+Unanimous (5-0)
 
 ### 10. Business Licensing
   By-law Review – Adult Live Entertainment Parlour, Adult Entertainment
@@ -684,10 +644,32 @@ The meeting adjourned at 5:58 PM.
 **✅ Motion
   Passed**
 
+Unanimous (5-0)
+
+### 10. Business Licensing
+  By-law Review – Adult Live Entertainment Parlour, Adult Entertainment
+  Body-Rub Parlour, Unsolicited Motor Vehicle Towing and Storage
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 10. Business Licensing
+  By-law Review – Adult Live Entertainment Parlour, Adult Entertainment
+  Body-Rub Parlour, Unsolicited Motor Vehicle Towing and Storage
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
 <details>
 <summary>View roll call</summary>
 
-**Yea (14):** [Mo Salih](/councillors/current/m-salih), [Mo Salih](/councillors/current/m-salih), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Bill Armstrong](/councillors/current/b-armstrong), [Bill Armstrong](/councillors/current/b-armstrong)
+**Yea (4):** [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong)
 
 **Nay (1):** [Phil Squire](/councillors/current/p-squire)
 
@@ -701,12 +683,7 @@ The meeting adjourned at 5:58 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong)
-
-</details>
+Unanimous (5-0)
 
 ### 12. PUBLIC SUBMISSION -
   Pool Equipment Noise - REQUEST FOR DELEGATION STATUS
@@ -716,12 +693,7 @@ The meeting adjourned at 5:58 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong)
-
-</details>
+Unanimous (5-0)
 
 ### 13. Partnership to Establish
   London as a UN Women’s Safe City
@@ -731,12 +703,7 @@ The meeting adjourned at 5:58 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong)
-
-</details>
+Unanimous (5-0)
 
 ### 14. Deferred Matters
   List
@@ -746,12 +713,7 @@ The meeting adjourned at 5:58 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong)
-
-</details>
+Unanimous (5-0)
 
 ### 15. (ADDED) COUNCIL
   MEMBER SUBMISSION - Request for Information - London Police Services - Cost -
@@ -762,10 +724,5 @@ The meeting adjourned at 5:58 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong)
-
-</details>
+Unanimous (5-0)
 

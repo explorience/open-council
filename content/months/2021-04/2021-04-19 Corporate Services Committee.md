@@ -451,133 +451,6 @@ That the meeting be adjourned.
 The meeting adjourned at 1:37 PM.
 
 ****
-
----
-
-## Votes
-
-*12 substantive votes at this meeting (5 contested, 7 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 to 2.5 BE APPROVED, excluding Items 2.2 and 2.3.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 2.2. Year 2021 Tax Policy
-
-> That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the following actions be taken with respect to property taxation for 2021: a)      the proposed by-law appended to the staff report dated April 19, 2021 as Appendix “A” being a by...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 2.3. Year 2021 Education Tax Rates
-
-> That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the proposed by-law appended to the staff report dated April 19, 2021 as Appendix “A”, being a by-law to levy education tax rates for 2021 BE INTRODUCED at the Municipal Council m...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 4.1. Application – Issuance of Proclamation – World Migratory Bird Day
-
-> That based on the application dated March 30, 2021 from London’s Bird Friendly City Team, May 8, 2021 BE PROCLAIMED World Migratory Bird Day.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 4.2. Advisory Committees
-
-> Appointment to the Cycling Advisory Committee
-
-**❌ Majority Winner: No majority 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Absent (11):** [Josh Morgan](/councillors/current/j-morgan), [Elizabeth Peloza](/councillors/current/e-peloza), [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Maureen Cassidy](/councillors/current/m-cassidy), [Arielle Kayabaga](/councillors/current/a-kayabaga), [Arielle Kayabaga](/councillors/current/a-kayabaga), [Arielle Kayabaga](/councillors/current/a-kayabaga)
-
-</details>
-
-### 4.2. Advisory Committees
-
-> Appointment to the Diversity, Inclusion and Anti-Oppression Advisory Committee
-
-**❌ Majority Winner: Nour Al Farawi; Citlally Maciel; Krista Arnold; Melissa Allder; Wajdi Khouri; Beverley Madigan; Hetham Hani Jamel Abu Kakry 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Absent (16):** [Josh Morgan](/councillors/current/j-morgan), [Elizabeth Peloza](/councillors/current/e-peloza), [Elizabeth Peloza](/councillors/current/e-peloza), [Elizabeth Peloza](/councillors/current/e-peloza), [Elizabeth Peloza](/councillors/current/e-peloza), [Elizabeth Peloza](/councillors/current/e-peloza), [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Arielle Kayabaga](/councillors/current/a-kayabaga), [Arielle Kayabaga](/councillors/current/a-kayabaga), [Arielle Kayabaga](/councillors/current/a-kayabaga), [Arielle Kayabaga](/councillors/current/a-kayabaga), [Arielle Kayabaga](/councillors/current/a-kayabaga)
-
-</details>
-
-### 4.2. Advisory Committees
-
-> That, on the recommendation of the City Clerk, the following actions be taken with respect to the current Advisory Committee appointments:    a)      the current term for the City of London Advisory Committee appointments BE EXTENDED, until December 31, 2021;    b)      additional appointments BE...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 4.2. Advisory Committees
-
-> Appointment to the Accessibility Advisory Committee
-
-**❌ Majority Winner: No majority 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Absent (9):** [Elizabeth Peloza](/councillors/current/e-peloza), [Elizabeth Peloza](/councillors/current/e-peloza), [Elizabeth Peloza](/councillors/current/e-peloza), [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/current/e-holder), [Arielle Kayabaga](/councillors/current/a-kayabaga), [Arielle Kayabaga](/councillors/current/a-kayabaga), [Arielle Kayabaga](/councillors/current/a-kayabaga), [Arielle Kayabaga](/councillors/current/a-kayabaga)
-
-</details>
-
-### 4.2. Advisory Committees
-
-> Appointment to the Accessibility Advisory Committee - 2nd Ballot
-
-**❌ Majority Winner: No majority 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Absent (10):** [Elizabeth Peloza](/councillors/current/e-peloza), [Elizabeth Peloza](/councillors/current/e-peloza), [Elizabeth Peloza](/councillors/current/e-peloza), [Elizabeth Peloza](/councillors/current/e-peloza), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Arielle Kayabaga](/councillors/current/a-kayabaga), [Arielle Kayabaga](/councillors/current/a-kayabaga), [Arielle Kayabaga](/councillors/current/a-kayabaga), [Arielle Kayabaga](/councillors/current/a-kayabaga)
-
-</details>
-
-### 4.2. Advisory Committees
-
-> Appointment to the Cycling Advisory Committee  - 2nd Ballot
-
-**❌ Majority Winner: No majority 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Absent (11):** [Elizabeth Peloza](/councillors/current/e-peloza), [Elizabeth Peloza](/councillors/current/e-peloza), [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Arielle Kayabaga](/councillors/current/a-kayabaga), [Arielle Kayabaga](/councillors/current/a-kayabaga), [Arielle Kayabaga](/councillors/current/a-kayabaga), [Arielle Kayabaga](/councillors/current/a-kayabaga)
-
-</details>
-
-### 5.2. (ADDED) Application – Issuance of Proclamation – Apraxia Awareness Day
-
-> That based on the application dated April 14, 2021 from Apraxia Kids, May 14, 2021 BE PROCLAIMED Apraxia Awareness Day.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 5.3. (ADDED) Board of Directors – Federation of Canadian Municipalities
-
-> That the following actions be taken with respect to the communication dated April 15, 2020 from Councillor J. Morgan regarding standing for re-election to the Federation of Canadian Municipalities’ Board of Directors and his associated expenses: WHEREAS the Federation of Canadian Municipalities (...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
 ---
 
 ## Full Transcript
@@ -770,3 +643,79 @@ Move by Councillor Vanholst. And seconded by, I'm gonna get a drum here so I can
 Closing the vote, the motion's passed, five to zero. We'll just get things set up to go in camera and get a 30 second break or something.
 
 </details>
+
+---
+
+## Votes
+
+*8 substantive votes at this meeting (1 contested, 7 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.5 BE APPROVED, excluding Items 2.2 and 2.3.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.2. Year 2021 Tax Policy
+
+> That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the following actions be taken with respect to property taxation for 2021: a)      the proposed by-law appended to the staff report dated April 19, 2021 as Appendix “A” being a by...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.3. Year 2021 Education Tax Rates
+
+> That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the proposed by-law appended to the staff report dated April 19, 2021 as Appendix “A”, being a by-law to levy education tax rates for 2021 BE INTRODUCED at the Municipal Council m...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.1. Application – Issuance of Proclamation – World Migratory Bird Day
+
+> That based on the application dated March 30, 2021 from London’s Bird Friendly City Team, May 8, 2021 BE PROCLAIMED World Migratory Bird Day.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.2. Advisory Committees
+
+> That, on the recommendation of the City Clerk, the following actions be taken with respect to the current Advisory Committee appointments:    a)      the current term for the City of London Advisory Committee appointments BE EXTENDED, until December 31, 2021;    b)      additional appointments BE...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.2. Advisory Committees
+
+> Appointment to the Diversity, Inclusion and Anti-Oppression Advisory Committee
+
+**❌ Majority Winner: Nour Al Farawi; Citlally Maciel; Krista Arnold; Melissa Allder; Wajdi Khouri; Beverley Madigan; Hetham Hani Jamel Abu Kakry 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+
+</details>
+
+### 5.2. (ADDED) Application – Issuance of Proclamation – Apraxia Awareness Day
+
+> That based on the application dated April 14, 2021 from Apraxia Kids, May 14, 2021 BE PROCLAIMED Apraxia Awareness Day.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 5.3. (ADDED) Board of Directors – Federation of Canadian Municipalities
+
+> That the following actions be taken with respect to the communication dated April 15, 2020 from Councillor J. Morgan regarding standing for re-election to the Federation of Canadian Municipalities’ Board of Directors and his associated expenses: WHEREAS the Federation of Canadian Municipalities (...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

@@ -208,7 +208,7 @@ The meeting adjourned at  1:54 PM.
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 4.1. Request for Designation of the Anderson Craft Ales 2nd Anniversary Celebration as a Municipally Significant Event
 
@@ -216,7 +216,7 @@ Unanimous (2-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4.2. Mayor's New Year's Honour List - Age Friendly London
 
@@ -224,7 +224,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 6. Confidential (Enclosed for Members only.)
 
@@ -232,5 +232,5 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 

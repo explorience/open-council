@@ -304,7 +304,7 @@ Motion
 
 ## Votes
 
-*7 substantive votes at this meeting (7 contested, 0 unanimous). Procedural motions excluded.*
+*7 substantive votes at this meeting (1 contested, 6 unanimous). Procedural motions excluded.*
 
 ### 2. 2014 - 2017
   Community Accountability Planning Submission (CAPS) for the Dearness Home -
@@ -315,12 +315,7 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joni Baechler](/councillors/current/j-l-baechler), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
-
-</details>
+Unanimous (6-0)
 
 ### 5. Ontario Works
   Employment Assistance Framework 2013 - 2018
@@ -330,12 +325,7 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joni Baechler](/councillors/current/j-l-baechler), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
-
-</details>
+Unanimous (6-0)
 
 ### 6. London Special Events Policies and
   Procedures Manual - Proposed Amendment – Noise Exemptions
@@ -362,12 +352,7 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joni Baechler](/councillors/current/j-l-baechler), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
-
-</details>
+Unanimous (6-0)
 
 ### 9. S. Cordes,
   Executive Director, Youth Opportunities Unlimited - Update on the Cornerstone
@@ -377,12 +362,7 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joni Baechler](/councillors/current/j-l-baechler), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
-
-</details>
+Unanimous (6-0)
 
 ### 10. 9th Report of the
   Accessibility Advisory Committee
@@ -392,12 +372,7 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joni Baechler](/councillors/current/j-l-baechler), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
-
-</details>
+Unanimous (6-0)
 
 ### 11. A. Oudshoorn,
   Chair, London Homeless Coalition – Request for Delegation Status
@@ -407,10 +382,5 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joni Baechler](/councillors/current/j-l-baechler), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
-
-</details>
+Unanimous (6-0)
 

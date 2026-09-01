@@ -3753,3 +3753,401 @@ Approve 3rd reading of Bill Nos. 208 and
 
 Motion Passed.
 
+---
+
+## Votes
+
+*38 substantive votes at this meeting (8 contested, 30 unanimous). Procedural motions excluded.*
+
+### 1#8. Disclosures of Pecuniary Interest
+
+> Approve that, as a procedural matter pursuant to Section 239 (6) of the Municipal   Act, 2001, the following recommendations be forwarded to City Council for   deliberation and a vote in public session:    That, on the recommendation of the Manager   of Realty Services, with respect to the proper...
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 1#8. Disclosures of Pecuniary Interest
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 10#4. Nomination of
+  Councillor H. L. Usher for Re-Election to the FCM Board of Directors
+
+> Amend clause 10 by deleting it in its   entirety and by replacing it with a new clause 10 as follows:   “That the following actions be taken with   respect to the communication dated April 2, 2013 from Councillor Usher   regarding standing for election to the Federation of Canadian Municipalities...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 10#4. Nomination of
+  Councillor H. L. Usher for Re-Election to the FCM Board of Directors
+
+> Approve clause 10, as amended
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 12#3. Property located at
+  655 Tennent Avenue (39T-13501/Z-8139)
+
+> Amend clause 12 by deleting part c) in   its entirety and by replacing it with the following new part c):   c)         the   attached, revised, proposed by-law, BE INTRODUCED at the Municipal   Council meeting to be held on April 30, 2013, to amend Zoning By-law No.   Z.-1, (in conformity with th...
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 12#3. Property located at
+  655 Tennent Avenue (39T-13501/Z-8139)
+
+> further  Amend clause 12 as follows:   a)              in   part d) of clause 12 by deleting the word “Iiaise” and by replacing it with   the words “explore joint opportunities” and by adding the following words “or   if there are other joint use or ownership opportunities”, as the end of part   ...
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 12#3. Property located at
+  655 Tennent Avenue (39T-13501/Z-8139)
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 13#2. Properties located
+  at 275, 277 and 281 Thames Street
+
+> Amend clause 13, by replacing the first   paragraph of part e) with the following new paragraph:   “e)    the Civic Administration BE DIRECTED to assist with the historical   interpretation of the Thames Street Neighbourhood through interpretive   signage and a commemorative monument at 275 Thame...
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 13#2. Properties located
+  at 275, 277 and 281 Thames Street
+
+> Approve clause 13, as amended.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 15#2. Blackfriars
+  Community Infill Projects
+
+> Amend clause 15 as follows:   a)              in   the first line of part a) to delete the words "a future" and   replace them with the words "the May 7, 2013 meeting";   b)              by   deleting part d) in its entirety and replacing it with the following new part   d): “d)    a public site ...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 15#2. Blackfriars
+  Community Infill Projects
+
+> further Amend clause 15 by adding a   new part i) as follows:   “i)  that   the Civic Administration BE DIRECTED to include in the report noted in a),   above, information related to recent court decisions regarding “Lodging   House” uses.”
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 15#2. Blackfriars
+  Community Infill Projects
+
+> Approve clause 15, as amended.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 2#5. Property located at
+  77 Tecumseh Avenue West (Z-8136)
+
+> Amend clause 2 by inserting a new part d)   as follows:   “d)      the Approval Authority BE REQUESTED to hold a public site plan meeting with   respect to the development of the entire site;”.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 2#5. Property located at
+  77 Tecumseh Avenue West (Z-8136)
+
+> Approve clause 1 and clause 2, as amended.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 2#6. Introduction of
+  By-law to Appoint Ms. Sandra Datars Bere to the Statutory Position of Ontario
+  Works Administrator
+
+> That, on the recommendation of the City   Manager, the following actions be taken with respect to the appointment of   Ms. Sandra Datars Bere to the statutory position of Ontario Works   Administrator:   a)         the   proposed by-law appended to the staff report dated April 23, 2013, BE   INTR...
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 4#3. Property located at
+  1103 Adelaide Street North (OZ-7972)
+
+> Amend clause 4 in line five, by   deleting the date “March 21, 2011” and by replacing it with the dates “April   10 and 11, 2012”.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 4#3. Property located at
+  1103 Adelaide Street North (OZ-7972)
+
+> Approve clause 4, as amended.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (1):** [Nancy Branscombe](/councillors/current/n-branscombe)
+
+</details>
+
+### 5#4. Code of Conduct for
+  Municipal Council and Lobbyist Registry Update
+
+> That the following   actions be taken with respect to proposed amendments to the Council Policy   5(30) – Code of Conduct for Members of Municipal Council and the   establishment of a Lobbyist Registry:   a)              pursuant   to section 13.7 of the Council Procedure By-law, the actions of t...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (3):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson)
+
+</details>
+
+### 5#4. Code of Conduct for
+  Municipal Council and Lobbyist Registry Update
+
+> Amend part c) of clause 5 by inserting,   at the end of the first paragraph, the following words: “; it being noted   that those duties and functions would exclude the responsibilities of “Closed   Meeting Investigator” currently being provided by the Ombudsman”.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (2):** [Stephen Orser](/councillors/current/s-orser), [Bud Polhill](/councillors/current/b-polhill)
+
+</details>
+
+### 5#4. Code of Conduct for
+  Municipal Council and Lobbyist Registry Update
+
+> further Amend part g) of clause 5 by   deleting the word “incorporate” and by replacing it with the words “report   back with respect to the potential incorporation”.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 5#4. Code of Conduct for
+  Municipal Council and Lobbyist Registry Update
+
+> Approve clause 5, as amended.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 6#3. 5th Report of the London Advisory Committee
+  on Heritage
+
+> Approve clause 6, as amended.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 9#2. Veterans Memorial Parkway Noise Study
+
+> At 6:28 PM, His Worship the Mayor resumes   the Chair, and Councillor P. Hubert takes his seat at the Council Board.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Matt Brown](/councillors/current/m-brown), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (3):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher)
+
+</details>
+
+### VI. CONFIRMATION
+  AND SIGNING OF THE MINUTES OF THE EIGHTH MEETING HELD ON APRIL 16, 2013
+
+> Approve minutes of the 8th Meeting held   on April 16, 2013.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### VIII. MOTIONS
+  OF WHICH NOTICE IS GIVEN
+
+> Approve that pursuant to section 7.4 of   the Council Procedure By-law, the order of business be changed to permit   consideration of the 8th Report of the Community and Protective Services   Committee at this time.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### VIII. MOTIONS
+  OF WHICH NOTICE IS GIVEN
+
+> Approve that  pursuant to section to   section 7.4 of the Council Procedure By-law, the order of business be changed   to permit consideration of the clause 15 of the 9th Report of the Planning   and Environment Committee, having to do with Blackfriars community infill   projects, to be heard at ...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### XIII. BY-LAWS
+
+> Approve 1st reading of Bill Nos. 191 to   Bill No. 207 and Bill No. 209.
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### XIII. BY-LAWS
+
+> Approve 2nd reading of  Bill Nos. 191 to   Bill No. 207 and Bill No. 209.
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### XIII. BY-LAWS
+
+> Approve 3rd reading of Bill Nos. 191 to   Bill No. 207 and Bill No. 109 be read a third time and enacted.
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### XIII. BY-LAWS
+
+> Approve 1st reading of Bill No.s 208 and   210.
+
+**✅ Motion Passed**
+
+Unanimous (9-0)
+
+### XIII. BY-LAWS
+
+> Approve 2nd reading of Bill Nos. 208 and   210.
+
+**✅ Motion Passed**
+
+Unanimous (9-0)
+
+### XIII. BY-LAWS
+
+> Approve 3rd reading of Bill Nos. 208 and   210.
+
+**✅ Motion Passed**
+
+Unanimous (9-0)
+
+### 5. Early Childhood
+  Educators (ECE) Labour Market Partnership (LMP) Research Project
+
+> That, on the recommendation of the Managing   Director of Neighbourhood, Children & Fire Services, the following   actions be taken with respect to the Early Childhood Educators (ECE) Labour   Market Partnership (LMP) Research Project:   a)         the   proposed by-law, as appended to the staff ...
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 16. Abandoned Shopping Cart
+  By-law
+
+> Amend clause 16 in line four, by inserting   after the words “including details regarding fees”, the words “,potential   revisions to the existing by-law to address the retrieval and collection of   carts, fines, reporting options on the City website”.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (3):** [Matt Brown](/councillors/current/m-brown), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe)
+
+</details>
+
+### 16. Abandoned Shopping Cart
+  By-law
+
+> Approve clause 16, as amended.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (4):** [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe)
+
+</details>
+
+### 17. Youth Create
+  Healthy Communities, Middlesex-London Health Unit - Request for Delegation
+  Status
+
+> That the request of "Youth Create   Healthy Communities" for delegation status before the Community and   Protective Services Committee (CPSC) BE REFERRED to the next CPSC meeting for   consideration; it being noted that the Chair was unable to be in attendance   and was thought to have additiona...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 18. Resignation of M.
+  Rabi from the London Diversity and Race Relations Advisory Committee
+
+> That the communication dated April 8, 2013   from Mark Rabi, resigning his appointment to the London Diversity and Race   Relations Advisory Committee, BE ACCEPTED and Mr. Rabi BE THANKED for   participating on the Committee.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 19. Reimbursement of
+  Councillor J.L. Baechler's expenses to serve on Federation of Canadian
+  Municipalities' Standing Committee(s)
+
+> That, subject to the approval of Councillor   J.L. Baechler’s application to serve on a Federation of Canadian Municipalities   (FCM) Standing Committee, Councillor Baechler BE AUTHORIZED to attend the FCM   meetings as noted below, and BE REIMBURSED for her associated expenses   outside of her a...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (1):** [Harold Usher](/councillors/current/h-l-usher)
+
+</details>
+

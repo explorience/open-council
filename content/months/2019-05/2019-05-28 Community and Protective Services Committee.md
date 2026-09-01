@@ -615,7 +615,7 @@ The meeting adjourned at 6:21 PM.
 
 ## Votes
 
-*15 substantive votes at this meeting (4 contested, 11 unanimous). Procedural motions excluded.*
+*15 substantive votes at this meeting (5 contested, 10 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -623,7 +623,7 @@ The meeting adjourned at 6:21 PM.
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 2.2. 4th and 5th Reports of the London Housing Advisory Committee
 
@@ -631,7 +631,24 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
+
+### 2.2. 4th and 5th Reports of the London Housing Advisory Committee
+
+> Motion to approve that it BE NOTED that the Municipal Council, although respectful of the concerns raised in the presentation, the accusatory language contained in the presentation is not appropriate.
+
+**❌ Motion Failed (2 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (3):** [Shawn Lewis](/councillors/current/s-lewis), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+
+</details>
 
 ### 2.2. 4th and 5th Reports of the London Housing Advisory Committee
 
@@ -639,7 +656,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 2.2. 4th and 5th Reports of the London Housing Advisory Committee
 
@@ -647,7 +664,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 2.4. London Strengthening Neighbourhoods Strategy: Neighbourhood Decision Making Program
 
@@ -658,7 +675,7 @@ Unanimous (3-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier)
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy)
 
 **Nay (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
 
@@ -675,7 +692,7 @@ Unanimous (3-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+**Yea (4):** [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy)
 
 **Nay (1):** [Shawn Lewis](/councillors/current/s-lewis)
 
@@ -689,7 +706,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 2.4. London Strengthening Neighbourhoods Strategy: Neighbourhood Decision Making Program
 
@@ -697,15 +714,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
-
-### 4.1. 3rd, 4th and 5th Reports of the Accessibility Advisory Committee
-
-> That the following actions be taken with respect to the 3rd, 4th and 5th Reports of the Accessibility Advisory Committee (ACCAC), from the meetings held on March 28, 2019, April 25, 2019 and May 23, 2019, respectively: a)            that the following actions be taken with respect to the 3rd Repo...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4.3. 3rd and 4th Reports of the Community Safety and Crime Prevention Advisory Committee
 
@@ -713,7 +722,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4.3. 3rd and 4th Reports of the Community Safety and Crime Prevention Advisory Committee
 
@@ -724,7 +733,7 @@ Unanimous (3-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+**Yea (4):** [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy)
 
 **Nay (1):** [Shawn Lewis](/councillors/current/s-lewis)
 
@@ -738,7 +747,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4.5. Unsanctioned and Unsafe Street Parties Policy Amendments - Public Nuisance By-law: Cost Recovery
 
@@ -746,7 +755,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4.6. Homelessness Crisis - M. Wills - REQUEST FOR DELEGATION STATUS
 
@@ -754,7 +763,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 5.2. (ADDED) Councillor S. Lewis – Neighbourhood Event Equipment Lending Policy
 
@@ -765,7 +774,7 @@ Unanimous (3-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier)
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Mo Salih](/councillors/current/m-salih)
 
 **Nay (1):** [Maureen Cassidy](/councillors/current/m-cassidy)
 

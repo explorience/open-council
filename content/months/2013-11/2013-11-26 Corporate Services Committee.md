@@ -353,7 +353,7 @@ Motion
 
 ## Votes
 
-*9 substantive votes at this meeting (9 contested, 0 unanimous). Procedural motions excluded.*
+*10 substantive votes at this meeting (3 contested, 7 unanimous). Procedural motions excluded.*
 
 ### 2. Lease Agreement -
   London Police Services Board - 42 St. Julien Street
@@ -363,12 +363,7 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Nancy Branscombe](/councillors/current/n-branscombe), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (5-0)
 
 ### 3. Extension of Realty
   Services - Agency of Record Agreement
@@ -378,12 +373,7 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Nancy Branscombe](/councillors/current/n-branscombe), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (5-0)
 
 ### 4. City of London
   Community Suite
@@ -393,12 +383,7 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Nancy Branscombe](/councillors/current/n-branscombe), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (5-0)
 
 ### 5. City of London Days
   - Budweiser Gardens
@@ -408,12 +393,7 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Nancy Branscombe](/councillors/current/n-branscombe), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (5-0)
 
 ### 6. Council Service
   London Team
@@ -474,12 +454,17 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (5-0)
 
-**Yea (10):** [Joe Fontana](/councillors/current/j-f-fontana), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Nancy Branscombe](/councillors/current/n-branscombe), [Nancy Branscombe](/councillors/current/n-branscombe), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant), [Judy Bryant](/councillors/current/j-p-bryant)
+### 9. Apportionment of
+  Taxes
 
-</details>
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
 
 ### 10. Appointment to the
   Environmental and Ecological Planning Advisory Committee
@@ -487,12 +472,7 @@ Motion
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Nancy Branscombe](/councillors/current/n-branscombe)
-
-</details>
+Unanimous (3-0)
 

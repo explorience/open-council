@@ -43,7 +43,7 @@ Motion
 
 ## Votes
 
-*1 substantive vote at this meeting (1 contested, 0 unanimous). Procedural motions excluded.*
+*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
 
 ### 2. County of Middlesex
   - Ambulance 101
@@ -53,10 +53,5 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Jared Zaifman](/councillors/current/j-zaifman)
-
-</details>
+Unanimous (4-0)
 

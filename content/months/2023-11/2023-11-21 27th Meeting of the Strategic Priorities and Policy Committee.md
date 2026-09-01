@@ -1459,253 +1459,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 10:20 PM.
 
 ****
-
----
-
-## Votes
-
-*25 substantive votes at this meeting (5 contested, 20 unanimous). Procedural motions excluded.*
-
-### 2.1. Recruitment, Retention and Accommodation of Planning and Development and Building Staff
-
-> That item 2.1 and items 6.1 to 6.4 BE REFERRED to a Special Meeting of Strategic Priorities and Policy Committee to be held on Wednesday, December 6, 2023, at 1:00 PM.
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 2.2. Update to Request for Proposal (RFP) 2023-199 Hubs Implementation Plan
-
-> Motion to amend by adding a new part c) to read as follows: c) that Civic Administration BE DIRECTED to provide Municipal Council with the option of additional time equal to one committee cycle to consider the results of any future Hubs Request for Proposal (RFP) prior to requesting a final decis...
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 2.2. Update to Request for Proposal (RFP) 2023-199 Hubs Implementation Plan
-
-> Motion to approve, as amended.
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 2.4. 2023-2027 City of London Strategic Plan: Core Area
-
-> That with respect to the 2023-2027 City of London Strategic Plan: Core Area, the following actions be taken: a)    the 2023-2027 City of London Strategic Plan: Core Area BE REFERRED back to Civic Administration; b)    the Civic Administration BE DIRECTED to undertake a comprehensive review consid...
-
-**✅ Motion Passed (11 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Corrine Rahman](/councillors/current/c-rahman)
-
-**Absent (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-</details>
-
-### 2.4. 2023-2027 City of London Strategic Plan: Core Area
-
-> Motion to receive a communication dated November 19, 2023 from B. Maly, Executive Director, Downtown London and S. A. Collyer, LDBA Board Chair with respect to this matter.
-
-**✅ Motion Passed (12 to 0)**
-
-Unanimous (12-0)
-
-### 3.1. Not to be heard before 4:05 PM - Public Participation Meeting - 2024-2027 Consolidated Fees and Charges By-law
-
-> Motion to amend the proposed 2024-2027 Consolidated Fees and Charges By-law "Climate Change and Environmental Stewardship, Bike Locker - Hourly Rental Rate" to allow for two hour free bike locker parking for every 24-hour rental period.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 3.1. Not to be heard before 4:05 PM - Public Participation Meeting - 2024-2027 Consolidated Fees and Charges By-law
-
-> Motion to approve item 3.1, as amended.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 3.2. Not to be heard before 4:10 PM - Public Participation Meeting - 2024 Water and Wastewater Rates
-
-> That, on the recommendation of the Deputy City Manager, Environment & Infrastructure and the Deputy City Manager, Finance Supports, the following actions be taken with respect to the 2024 Water and Wastewater rates and charges: a)    the proposed by-law as appended to the staff report dated Novem...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 4.1. Committee Appointment Preferences Submitted by Council Members
-
-> Appointments to the Community and Protective Services Committee.
-
-**❌ Majority Winner: D. Ferreira; H. McAlister; J. Pribil; S. Trosow 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Absent (60):** [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Hadleigh McAlister](/councillors/current/h-mcalister), [Hadleigh McAlister](/councillors/current/h-mcalister), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Shawn Lewis](/councillors/current/s-lewis), [Shawn Lewis](/councillors/current/s-lewis), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Peter Cuddy](/councillors/current/p-cuddy), [Peter Cuddy](/councillors/current/p-cuddy), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Susan Stevenson](/councillors/current/s-stevenson), [Susan Stevenson](/councillors/current/s-stevenson), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Jerry Pribil](/councillors/current/j-pribil), [Jerry Pribil](/councillors/current/j-pribil), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Sam Trosow](/councillors/current/s-trosow), [Sam Trosow](/councillors/current/s-trosow), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Corrine Rahman](/councillors/current/c-rahman), [Corrine Rahman](/councillors/current/c-rahman), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Steve Lehman](/councillors/current/s-lehman), [Steve Lehman](/councillors/current/s-lehman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Skylar Franke](/councillors/current/s-franke), [Skylar Franke](/councillors/current/s-franke), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Elizabeth Peloza](/councillors/current/e-peloza), [Elizabeth Peloza](/councillors/current/e-peloza), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [David Ferreira](/councillors/current/d-ferreira), [David Ferreira](/councillors/current/d-ferreira), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier), [Steve Hillier](/councillors/current/s-hillier), [Steve Hillier](/councillors/current/s-hillier), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 4.1. Committee Appointment Preferences Submitted by Council Members
-
-> Motion to appoint the following to Planning and Environment Committee: Councillor C. Rahman  Councillor S. Hillier  Councillor S. Lewis  Councillor S. Franke
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 4.1. Committee Appointment Preferences Submitted by Council Members
-
-> Motion to appoint the following to Civic Works Committee: Councillor J. Pribil  Councillor D. Ferreira  Councillor S. Trosow
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 4.1. Committee Appointment Preferences Submitted by Council Members
-
-> Motion to appoint the following to Community Protective Services Committee: Councillor D. Ferreira  Councillor H. McAlister  Councillor J. Pribil  Councillor S. Trosow
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 4.1. Committee Appointment Preferences Submitted by Council Members
-
-> Motion to appoint the following to Corporate Services Committee: Councillor P. Cuddy  Councillor P. Van Meerbergen  Councillor H. McAlister  Councillor S. Stevenson
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 4.1. Committee Appointment Preferences Submitted by Council Members
-
-> Motion to appoint the following to Corporate Services Committee: Councillor Rahman
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 4.1. Committee Appointment Preferences Submitted by Council Members
-
-> Motion to appoint the following to Civic Works Committee: Councillor S. Franke
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 4.2. Community Cold Weather Response Update
-
-> The delegation request for Sarah Campbell, Executive Director, Ark Aid Street Mission, BE APPROVED to be heard at this time.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 4.2. Community Cold Weather Response Update
-
-> Motion to approve part b) the Civic Administration BE DIRECTED to proceed with the following contract for overnight spaces to support the cold weather plan: i)    the Civic Administration BE DIRECTED to enter into a contract with The Ark Aid Street Mission in the amount up to $826,686 (excluding ...
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 4.2. Community Cold Weather Response Update
-
-> Motion to approve part b) the Civic Administration BE DIRECTED to proceed with the following contract for overnight spaces to support the cold weather plan: ii)    the Civic Administration BE DIRECTED to enter into a contract with The Ark Aid Street Mission in the amount up to $1,472,739 (excludi...
-
-**✅ Motion Passed (8 to 6) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (8):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Nay (6):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-</details>
-
-### 4.2. Community Cold Weather Response Update
-
-> Motion to approve part b) the Civic Administration BE DIRECTED to proceed with the following contract for overnight spaces to support the cold weather plan:  iii)    the Civic Administration BE DIRECTED to enter into a contract with The Ark Aid Street Mission in the amount up to $404,323 (excludi...
-
-**✅ Motion Passed (13 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Shawn Lewis](/councillors/current/s-lewis)
-
-**Absent (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-</details>
-
-### 4.2. Community Cold Weather Response Update
-
-> Motion to approve part b) the Civic Administration BE DIRECTED to proceed with the following contract for overnight spaces to support the cold weather plan:  iv)    the Civic Administration BE DIRECTED to enter into a contract with The Ark Aid Street Mission in the amount up to $335,216 (excludin...
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 4.2. Community Cold Weather Response Update
-
-> Motion to approve parts a, c, and d.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 4.3. Asylum Claimants
-
-> That the following actions be taken with respect to the Impacts of Asylum Claimants: a)    the Civic Administration BE DIRECTED to report back to Council on the impacts of Asylum claimants on our local shelter system. Based on the findings from the staff report, that staff apply if appropriate fo...
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 5.1. (ADDED) Request for Term Extension of the Community Advisory Committees
-
-> Motion to amend part e) to read as follows: e)    the Community Advisory Committee structure BE REFERRED to Governance Working Group to review potential redundancies and to review opportunities to improve operations of advisory committees.
-
-**✅ Motion Passed (12 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Steve Lehman](/councillors/current/s-lehman)
-
-**Absent (2):** [Shawn Lewis](/councillors/current/s-lewis), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-</details>
-
-### 5.1. (ADDED) Request for Term Extension of the Community Advisory Committees
-
-> Motion to approve, as amended.
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 6. Confidential (Enclosed for Members only.)
-
-> That item 2.1 and items 6.1 to 6.4 BE REFERRED to a Special Meeting of Strategic Priorities and Policy Committee to be held on Wednesday, December 6, 2023, at 1:00 PM.
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
 ---
 
 ## Full Transcript
@@ -3242,3 +2995,230 @@ That's Councilor Stevenson, seconded by Councilor McAllister. We'll do this by h
 We are adjourned, thank you.
 
 </details>
+
+---
+
+## Votes
+
+*23 substantive votes at this meeting (4 contested, 19 unanimous). Procedural motions excluded.*
+
+### 2.1. Recruitment, Retention and Accommodation of Planning and Development and Building Staff
+
+> That item 2.1 and items 6.1 to 6.4 BE REFERRED to a Special Meeting of Strategic Priorities and Policy Committee to be held on Wednesday, December 6, 2023, at 1:00 PM.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 2.2. Update to Request for Proposal (RFP) 2023-199 Hubs Implementation Plan
+
+> Motion to amend by adding a new part c) to read as follows: c) that Civic Administration BE DIRECTED to provide Municipal Council with the option of additional time equal to one committee cycle to consider the results of any future Hubs Request for Proposal (RFP) prior to requesting a final decis...
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 2.2. Update to Request for Proposal (RFP) 2023-199 Hubs Implementation Plan
+
+> Motion to approve, as amended.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 2.4. 2023-2027 City of London Strategic Plan: Core Area
+
+> That with respect to the 2023-2027 City of London Strategic Plan: Core Area, the following actions be taken: a)    the 2023-2027 City of London Strategic Plan: Core Area BE REFERRED back to Civic Administration; b)    the Civic Administration BE DIRECTED to undertake a comprehensive review consid...
+
+**✅ Motion Passed (11 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Corrine Rahman](/councillors/current/c-rahman)
+
+**Absent (2):** [Shawn Lewis](/councillors/current/s-lewis), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 2.4. 2023-2027 City of London Strategic Plan: Core Area
+
+> Motion to receive a communication dated November 19, 2023 from B. Maly, Executive Director, Downtown London and S. A. Collyer, LDBA Board Chair with respect to this matter.
+
+**✅ Motion Passed (12 to 0)**
+
+Unanimous (12-0)
+
+### 3.1. Not to be heard before 4:05 PM - Public Participation Meeting - 2024-2027 Consolidated Fees and Charges By-law
+
+> Motion to amend the proposed 2024-2027 Consolidated Fees and Charges By-law "Climate Change and Environmental Stewardship, Bike Locker - Hourly Rental Rate" to allow for two hour free bike locker parking for every 24-hour rental period.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 3.1. Not to be heard before 4:05 PM - Public Participation Meeting - 2024-2027 Consolidated Fees and Charges By-law
+
+> Motion to approve item 3.1, as amended.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 4.1. Committee Appointment Preferences Submitted by Council Members
+
+> Motion to appoint the following to Planning and Environment Committee: Councillor C. Rahman  Councillor S. Hillier  Councillor S. Lewis  Councillor S. Franke
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 4.1. Committee Appointment Preferences Submitted by Council Members
+
+> Motion to appoint the following to Civic Works Committee: Councillor J. Pribil  Councillor D. Ferreira  Councillor S. Trosow
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 4.1. Committee Appointment Preferences Submitted by Council Members
+
+> Motion to appoint the following to Community Protective Services Committee: Councillor D. Ferreira  Councillor H. McAlister  Councillor J. Pribil  Councillor S. Trosow
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 4.1. Committee Appointment Preferences Submitted by Council Members
+
+> Motion to appoint the following to Corporate Services Committee: Councillor P. Cuddy  Councillor P. Van Meerbergen  Councillor H. McAlister  Councillor S. Stevenson
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 4.1. Committee Appointment Preferences Submitted by Council Members
+
+> Motion to appoint the following to Corporate Services Committee: Councillor Rahman
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 4.1. Committee Appointment Preferences Submitted by Council Members
+
+> Motion to appoint the following to Civic Works Committee: Councillor S. Franke
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 4.2. Community Cold Weather Response Update
+
+> The delegation request for Sarah Campbell, Executive Director, Ark Aid Street Mission, BE APPROVED to be heard at this time.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 4.2. Community Cold Weather Response Update
+
+> Motion to approve part b) the Civic Administration BE DIRECTED to proceed with the following contract for overnight spaces to support the cold weather plan: i)    the Civic Administration BE DIRECTED to enter into a contract with The Ark Aid Street Mission in the amount up to $826,686 (excluding ...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 4.2. Community Cold Weather Response Update
+
+> Motion to approve part b) the Civic Administration BE DIRECTED to proceed with the following contract for overnight spaces to support the cold weather plan: ii)    the Civic Administration BE DIRECTED to enter into a contract with The Ark Aid Street Mission in the amount up to $1,472,739 (excludi...
+
+**✅ Motion Passed (8 to 6) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (6):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 4.2. Community Cold Weather Response Update
+
+> Motion to approve part b) the Civic Administration BE DIRECTED to proceed with the following contract for overnight spaces to support the cold weather plan:  iii)    the Civic Administration BE DIRECTED to enter into a contract with The Ark Aid Street Mission in the amount up to $404,323 (excludi...
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+**Absent (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 4.2. Community Cold Weather Response Update
+
+> Motion to approve part b) the Civic Administration BE DIRECTED to proceed with the following contract for overnight spaces to support the cold weather plan:  iv)    the Civic Administration BE DIRECTED to enter into a contract with The Ark Aid Street Mission in the amount up to $335,216 (excludin...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 4.2. Community Cold Weather Response Update
+
+> Motion to approve parts a, c, and d.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 4.3. Asylum Claimants
+
+> That the following actions be taken with respect to the Impacts of Asylum Claimants: a)    the Civic Administration BE DIRECTED to report back to Council on the impacts of Asylum claimants on our local shelter system. Based on the findings from the staff report, that staff apply if appropriate fo...
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 5.1. (ADDED) Request for Term Extension of the Community Advisory Committees
+
+> Motion to amend part e) to read as follows: e)    the Community Advisory Committee structure BE REFERRED to Governance Working Group to review potential redundancies and to review opportunities to improve operations of advisory committees.
+
+**✅ Motion Passed (12 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Steve Lehman](/councillors/current/s-lehman)
+
+**Absent (2):** [Shawn Lewis](/councillors/current/s-lewis), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 5.1. (ADDED) Request for Term Extension of the Community Advisory Committees
+
+> Motion to approve, as amended.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 6. Confidential (Enclosed for Members only.)
+
+> That item 2.1 and items 6.1 to 6.4 BE REFERRED to a Special Meeting of Strategic Priorities and Policy Committee to be held on Wednesday, December 6, 2023, at 1:00 PM.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+

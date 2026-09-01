@@ -473,7 +473,7 @@ b)           
 
 ## Votes
 
-*3 substantive votes at this meeting (3 contested, 0 unanimous). Procedural motions excluded.*
+*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
 
 ### 2. 1st Report of the
   London Housing Advisory Committee
@@ -481,14 +481,9 @@ b)           
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (3-0)
 
 ### 3. Ontario Medal for
   Young Volunteers
@@ -496,14 +491,9 @@ b)           
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (3-0)
 
 ### 5. Request for
   Delegation Status - S. Milos, Executive Director, London Housing Registry -
@@ -512,12 +502,7 @@ b)           
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (3-0)
 

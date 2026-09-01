@@ -362,7 +362,7 @@ The meeting adjourned at 4:59 PM.
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2.3. Single Source Procurement of Resting Spaces (Single Source #SS20-29) and Programs (Single Source #SS20-37) for Indigenous Individuals Experiencing Homelessness
 
@@ -370,7 +370,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 4.1. Core Area Free Parking - Request for Delegation Status - A. Valastro
 
@@ -378,7 +378,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 4.1. Core Area Free Parking - Request for Delegation Status - A. Valastro
 
@@ -386,7 +386,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 4.2. Eldon House Board of Directors Membership - M. Donachie, Board Chair
 
@@ -394,5 +394,5 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 

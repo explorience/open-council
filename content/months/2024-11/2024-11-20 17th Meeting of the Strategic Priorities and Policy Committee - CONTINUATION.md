@@ -653,238 +653,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 12:15 PM.
 
 ****
-
----
-
-## Votes
-
-*17 substantive votes at this meeting (10 contested, 7 unanimous). Procedural motions excluded.*
-
-### 4.1. Confirmation of Appointment to the Community and Protective Services Committee
-
-> That the following appointments BE MADE to the Community and Protective Services Committee for the term December 1, 2024 to November 30, 2025: Councillor J. Pribil  Councillor S. Trosow it being noted that Councillor D. Ferreira was appointed as Chair and Councillor H. McAlister as Vice Chair by ...
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 4.2. Consideration of Appointment to the Court of Revision (Requires 1 New Member)
-
-> That Madelyn Hertz BE APPOINTED to the Court of Revision for the term ending November 14, 2026.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 4.4. Police Vehicle and Equipment Requirements Motion - Budget Chair E. Peloza
-
-> That the London Police Services Board and the London Chief of Police BE REQUESTED to engage in a conversation to explore the process, legislation and any related matters pertaining to the possibility of a partial or full donation of a Light Armoured Vehicle for integration into the London Police ...
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 4.5. Community Advisory Committee Motion - Councillor C. Rahman and Deputy Mayor S. Lewis
-
-> That the communication dated November 6, 2024 with respect to Community Advisory Committees from Deputy Mayor S. Lewis and Councillor C. Rahman BE REFFERED to the next meeting of the Governance Work Group.
-
-**❌ Motion Failed (2 to 12)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins)
-
-**Nay (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (1):** [David Ferreira](/councillors/current/d-ferreira)
-
-</details>
-
-### 4.5. Community Advisory Committee Motion - Councillor C. Rahman and Deputy Mayor S. Lewis
-
-> That the motion be amended to change the direction to BE REVIEWED in part d), part e), and part f).
-
-**❌ Motion Failed (2 to 11)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins)
-
-**Nay (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (2):** [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
-
-</details>
-
-### 4.5. Community Advisory Committee Motion - Councillor C. Rahman and Deputy Mayor S. Lewis
-
-> That part d) of the motion be approved and read as follows: d)     the Animal Welfare Community Advisory Committee BE DISSOLVED effective April 2025, and update the Environmental Stewardship and Action Community Advisory Committee’s terms of reference to include: responsibilities related to the w...
-
-**✅ Motion Passed (11 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins)
-
-**Absent (2):** [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
-
-</details>
-
-### 4.5. Community Advisory Committee Motion - Councillor C. Rahman and Deputy Mayor S. Lewis
-
-> That part e) and part f) be approved and read as follows: e)     the Ecological Community Advisory Committee BE DISSOLVED effective April 2025, and an Ecological Reference Group BE ESTABLISHED by Q2 2025 to provide technical advice on matters related to the City of London’s Official Plan, includi...
-
-**✅ Motion Passed (11 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins)
-
-**Absent (2):** [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
-
-</details>
-
-### 4.5. Community Advisory Committee Motion - Councillor C. Rahman and Deputy Mayor S. Lewis
-
-> That the following it being noted part of the motion be approved:  it being noted that the Strategic Priorities and Policy Committee received communications from the following with respect to this matter:  -    a communication dated November 17, 2024 from A. Blosh.
-
-**✅ Motion Passed (7 to 6)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Nay (15):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (4):** [Skylar Franke](/councillors/current/s-franke), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [David Ferreira](/councillors/current/d-ferreira)
-
-</details>
-
-### 4.5. Community Advisory Committee Motion - Councillor C. Rahman and Deputy Mayor S. Lewis
-
-> That the balance of the motion be approved.
-
-**✅ Motion Passed (12 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
-
-**Absent (2):** [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
-
-</details>
-
-### 4.5. Community Advisory Committee Motion - Councillor C. Rahman and Deputy Mayor S. Lewis
-
-> That the delegation request from B. Samuels, Chair, Environmental Stewardship and Action Community Advisory Committee BE APPROVED to be heard at this time.
-
-**✅ Motion Passed (12 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Nay (1):** [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (2):** [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
-
-</details>
-
-### 4.5. Community Advisory Committee Motion - Councillor C. Rahman and Deputy Mayor S. Lewis
-
-> That pursuant to section 35.10 of the Council Procedure By-law, the Strategic Priorities and Policy Committee decision with respect to item 4.5 having to do with receiving a communication from M. Blosh BE RECONSIDERED to provide for another vote.
-
-**✅ Motion Passed (12 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Corrine Rahman](/councillors/current/c-rahman)
-
-**Absent (2):** [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
-
-</details>
-
-### 4.5. Community Advisory Committee Motion - Councillor C. Rahman and Deputy Mayor S. Lewis
-
-> it being further noted that the Strategic Priorities and Policy Committee heard a verbal delegation from B. Samuels, Chair, Environmental Stewardship and Action Community Advisory Committee with respect to this matter.
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 4.6. Amendments to the Council Procedure By-law Motion - Deputy Mayor S. Lewis, Budget Chair E. Peloza and Councillors S. Lehman and C. Rahman
-
-> That the motion be amended to include a new part vi) to read as follows: That the approved 2025 meeting calendar BE AMENDED by rescheduling the November 11th, 2025 meeting of the Planning and Environment Committee to November 12th, and the November 12th, 2025 meeting of the Audit Committee to Nov...
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 4.6. Amendments to the Council Procedure By-law Motion - Deputy Mayor S. Lewis, Budget Chair E. Peloza and Councillors S. Lehman and C. Rahman
-
-> That part iv) of the motion be approved and read as follows: iv)    Standing Committee Service: Clarify that each Councillor shall serve on standing committees in addition to the Strategic Priorities and Policy Committee, ensuring all standing committee positions are filled; and
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 4.6. Amendments to the Council Procedure By-law Motion - Deputy Mayor S. Lewis, Budget Chair E. Peloza and Councillors S. Lehman and C. Rahman
-
-> That part v) of the motion be approved and read as follows:  v)     Efficient Meeting Management: Provide for the option to “Put the Question” at committees where all of Council constitutes the membership;  it being noted that the Strategic Priorities and Policy Committee (SPPC) receive a communi...
-
-**✅ Motion Passed (8 to 5) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (5):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins)
-
-**Absent (2):** [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
-
-</details>
-
-### 4.6. Amendments to the Council Procedure By-law Motion - Deputy Mayor S. Lewis, Budget Chair E. Peloza and Councillors S. Lehman and C. Rahman
-
-> That part vi), as amended, be approved and read as follows: vi) that the approved 2025 meeting calendar BE AMENDED by rescheduling the November 11th, 2025 meeting of the Planning and Environment Committee to November 12th, and the November 12th, 2025 meeting of the Audit Committee to November 19th;
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 4.6. Amendments to the Council Procedure By-law Motion - Deputy Mayor S. Lewis, Budget Chair E. Peloza and Councillors S. Lehman and C. Rahman
-
-> That the balance of the motion, as amended, be approved.
-
-**✅ Motion Passed (11 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins)
-
-**Absent (2):** [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
-
-</details>
 ---
 
 ## Full Transcript
@@ -1213,3 +981,253 @@ Samuels but uh I don't believe his committee was consulted either but I would li
 and due to caps running long I was unable to attend thank you to the deputy mayor for attending in my absence but I do think it would be respectful that we don't schedule meetings over potential ward events especially on that day of Remembrance thank you a look for other speakers okay we have a motion moved and seconded oh sorry it didn't see you right beside me Councillor please go ahead look to the left I guess I was going to bring forward a referral but since we've sort of made some changes maybe I would like to get a little bit of clarity from the the four movers here of this request because I was looking forward to having a great conversation and governance working group about efficient meetings it's really important to me I've been around 10 years and I've seen the many changes that we've made especially also that we're we're speaking to an amendment right now so keep your comments sorry about that okay this is just an amendment to change the 2025 calendar for November the 11th changing for planning going to November 12th the odd committee going from the 12th of 13th I believe that clerk is uh nodded consent so I'll look for any more comments or questions regarding the amendment okay we've got a motion moved and seconded so I'll call a vote just on the amendment voting the vote motion carries 13 to 0 okay I'll return the chair to the deputy mayor thank you and thank you colleagues for your support on that amendment okay so we would still have to vote on the main motion as amendment amended but that part six is now will be part of that however the the bulk of the motion is still on the floor Councillor Hopkins you wanted to ask about that so I'll come right to you before I look for any other speakers yeah and I was hoping that the the movers of this will will speak to the reasons why we need to do this in a bylaw right away I would have liked to have put forward a referral but given the changes that we're making to this I would like to have a better understanding and reasons why we are going to be doing this sufficient meetings to me I was looking forward to that conversation at governance working group I've been around a lot a long time and and I've seen a number of changes especially the changes that we have made in this council on how we meet and how we've changed our standing committee committees and now we just had a conversation around the advisory group so I would like to have a better understanding how this is going to be improving and how this is also going to be improving communication and public engagement as we go forward I have I have a concern here because it starts out that we need to manage committee agendas and the length of our meetings and this is such an appropriate meeting to be having this conversation given that we've moved this over to the next day which is the first time that's ever happened but I I've been accused of being part of these creating lengthy meetings and I think we need to have a really good understanding what we are doing wrong and I'm really looking forward to understanding how this is going to improve again I'm disappointed it's not at the governance working group for that conversation I think we could sort of delve into a better understanding on how we can improve our meetings but for someone that has is taking up a lot of time here I need to be convinced that this is going to make a change in my behavior thank you okay so there were a couple of different parts there counselor and so and you had asked the movers if and I think you meant the signatories of the letter because we have one mover and seconder but there were four signatories on the letter so I will give those members an opportunity to respond if they so wish but I'm first going to go to the clerk so that he can speak to the importance of clarifying on the delegations piece and why the clerks have actually worked with us to to draft this language so if I can go to Mr. Schulfuss for thank you through the chair delegations currently in the council procedure by-law they don't speak to a linkage to meeting agenda items and for clarity it would be very helpful to have a clear wording which links the delegation request to an item on the agenda if council wishes to not proceed with that direction certainly we can continue as we have however it would be helpful to the clerks when we're receiving these requests when we're putting it on the agenda to be able to communicate effectively to submitters as well as to keep our agendas tight to the topics that are put on the agenda relevant to the committee and I will look now Councillor ramen Councillor Layman Councillor Palosa I'll give any one of you an opportunity from the perspective of signatories if you'd like to offer a comment Councillor Layman sure this is not directed at all to any members of council this is just to provide clear a clear outline to those communicating with us whether it's delegations or communications petitions and quite frankly I think that helps those folks that are communicating with council or with committees because as was mentioned for the average person out there who's not used to the workings of municipal government it can be a little daunting and I think providing some sort of structure and focus to their communications will help them deliver their message in the most effective manner quite frankly that allows me as a councilor or as a chair to hear what they have to say because sometimes that that can get muddled and in something that is not focused so that's the position I am I think it's relating to number one and number two for sure not not any particular councilor here we know we all know how to communicate so that's that's where I'm coming up. Councillor ramen or Palosa did you want to respond to Councillor Hopkins question as well seeing a no from Councillor ramen Councillor Palosa did you want to comment? Yeah thank you for the question just as a committee chair of various committees just looking for those efficiencies and clarity a process and procedure for the public sometimes they'll come in and ask for delegation staffs on our agenda but there's nothing on it and I know some council members I would say all of us are really happy when the public shows up and wants to hear from them but if there's nothing on the agenda it's creates more confusion than not of is that report coming to that report already come is there a more appropriate time to hear them and then it's the question of well maybe we hear them today and then at a future ppm or so just making sure that the processes are there as for members of council serving on standing committees in addition to SPPC I think that one speaks for itself and sometimes the question of council procedurally we can put the question but currently per our procedural by-law that does not exist at committee also at committee conversations go for more than the five minutes speaking allotment and allowing for guest counselors and standing committee members those conversations can become drawn out and not necessarily germane to the conversation at hand so just looking to see if that would help efficiencies at those committee meetings thank you thank you councilor palosa uh since the question was directed to those who signed the letter um I'm not going to go to any of those to chair mayor morgan can I ask you to take the chair just so that I can provide my response please yes I will take the chair and I'll go to the deputy mayor for the response thank you so I I would say I don't think that this precludes uh ongoing discussion at governance working group around other ideas for efficient meetings I think that that can continue to happen for me I think that these five clauses here um notwithstanding the sixth one that we added um you know the power the option to put to question um we've heard that raised at committee many times before I don't think that that needs a lengthy discussion I think that's just an up and down vote for us I think we can decide that today um in part four um the standing committee service we've encountered this twice now in the time I've been on council um I would just like us to to fix that so that um we are not uh treating sppc as the only committee that counselors would serve on um and with respect to the the delegation requests so there are actually a couple of pieces as I've been going through our council policy and procedure bylaw with our clerks um that are sort of floating out there unattached um in terms of uh so we have uh for example when we change a bylaw there's a mandatory ppm but the draft bylaw comes forward and uh we get delegation requests on the draft bylaw and then we have a ppm and we have the same delegations happening and there's a couple clauses in there that speak to um only new information should be spoken to if if that happens that hasn't been uh linked properly and so it's a bit of a housekeeping thing from uh the clerk's perspective in terms of how those get linked so that delegations are are heard at the appropriate meeting um whether that's a legislative ppm or whether it's a standalone matter and to the the linkage to an agenda item because I think that it's quite appropriate that if if something's not on the agenda and uh a member of the public or a community organization wants to put something on the agenda I think that the appropriate person um way to do that is to connect with a member of council who will add a communication as an added um that delegation request can then be uh attached to but right now it's just floating out there with no way to actually link it to the agenda item this would provide the clerks the opportunity to update the bylaw so that it can be linked to an agenda item so that's the reason why I don't think these are are particularly complex or really change a whole lot of what we do and I don't think it precludes in my opinion uh as the chair of governance working group that it would preclude us from having ongoing discussions there about how we can do more efficient meetings Councillor Hopkins you were asking a question there go ahead uh yeah I really appreciate uh the comments and knowing where this is coming from and uh thank all uh the movers on this uh for the work that they've done um I'm really pleased to hear that we will be continuing uh the conversation around how we can have efficient meetings uh governance working group so thank you for mentioning that all right I'm going to hand the chair back uh to deputy mayor I had put myself on the list will I had the chance okay well the bad news for you is you're not next Councillor Stevenson is next and then I will have you on the list after Councillor Stevenson so Councillor Stevenson you are next if you'd like to go ahead thank you thank you for recognizing me um I'm happy to support all of these but number five um number four although uh I find myself in the position of not being on a standing committee this year uh and only being on audit um I'm assuming that is a very unique situation that won't happen again so I'm happy to support for for five I have a really big issue with this one I have had colleagues put the question at council on an amendment that I've moved um and not even had a chance to spoke into to even though I declared at the beginning that I wanted to speak last and so council is one thing but to do it at a committee of the whole where we're supposed to be a working group this is the time to to discuss and to debate we've already limited talk to five minutes so fellow councillors get a chance to you know say whether or not a colleague gets to get uh is able to have an extra five minutes so we already have that to put the question at committee means that we would potentially be depriving a ward representative of voicing their uh on behalf of their elected i'm having trouble speaking here but councillors are elected by the people in their ward and I don't understand under what circumstance we would deny that elected representative an opportunity to speak for their five minutes at a working standing committee to say yes to this is to give colleagues the option to deny the people in that ward their voice so I have a really big issue with that I also wonder I've heard a lot of comments in the last year particularly about efficient meeting but do we mean efficient meeting or do we mean short meetings because we have uh some very serious things going on and again we already have the five-minute limit each in terms of when we're allowed to speak and if we're not willing to give each one of us five minutes to speak on issues that they believe are important at every single committee meeting then I think we need to question what what why are we rushing why do we think that meetings need to be short if there are serious issues to discuss so um I like short meetings too and if colleagues or myself feel that there's things worthy of working at that's what we were elected to do and so um I I'm as much as I sometimes dislike it at council I'm not looking to change the rule at council but please let's say no to number five and and ensure that every single ward in this city their representative gets five minutes at a standing committee thank you thank you Councillor Stevenson looking for other speakers on this oh yep right I had Mayor Morgan next as he indicated well I could chair I forgot um so I'll speak briefly I I want to say I appreciate Councillors wanting to bring forward changes to the procedure by-law and and over my time on council I've become known for knowing the procedure by-law really well and and doing my best to adhere from it I would say having chaired the number of meetings that I've had now I would emphasize that although I can support the changes before us procedure by-law is a tool it's a tool that chairs and councils have to try to get through the meeting under a relatively fair understanding of the rules in which we would engage with each other but following the rules to the t each and every time is not the goal of the meeting the goal of the meeting is to have the dialogue and make the decisions that we need to make and represent the community in the way that we do and so although I think we can continue to make adjustments to the procedure by-law there are things that each and every one of us can do that can make meetings efficient it can make meetings I know this will sound odd but enjoyable um to walk into the chambers and represent your ward and share ideas and engage thoughtful with each other and although we have a bunch of rules of decorum that we can follow and a bunch of procedures that chairs can rely on and and councillors can rely on to to move the meeting along at the end of the day how the meeting feels is going to be up to how each and every one of us show up in this room so if we show up with an attitude where we're going to poke our colleagues or we're going to use language that we know is probably going to set someone off and we're going to get into you know orders of personal privilege and procedure if we're going to leave this chamber having lost a vote and I will say I've lost dozens and dozens and dozens of votes that chamber some on things that I care about quite a bit but if you're going to leave this chamber with hard feelings or taking things personally it is no amount of procedural changes are going to make this an enjoyable experience or feel like a good experience or feel like a meeting that you want to show up to the next time so I think with some changes the procedure bylaw you know and at the midpoint in this term we can all take the opportunity to maybe step back and reset our expectations come to the meetings looking forward to engage with colleagues bring you know a respectful attitude and perspective to the debate engage in the debate thoughtfully and if you can find a way do not take the loss of a vote personally do not take someone opposing your opinion personally if you can I know it's very difficult I've done it many times I'm Councillor Squire and I have walked out of this room furious with each other and then found the opportunity to find each other in the hallways and like say let's just leave it in the room it will be a much more enjoyable next two years of the term if people can find a pathway to do that that being said the rules or procedures are tools that we have at our disposal that the chairs can use but I think how a meeting feels in his run goes well beyond that and I would encourage colleagues at the midpoint of the term to reflect on how maybe we can all approach future meetings in a different way with our perspectives the way we approach discussions and what we want to leave in this room when we walk out of it so thanks for that answer trust out yes let me start by saying that putting aside items for which I sort of think is already our rule but it just needs to be clarified that that's our rule and six which is something I'd like to see voted on separately because I think that goes without saying I really have some concerns about the rest of them once again I believe that these would be better have been would have been better to discuss these at the governance working group once again I believe that we're undercutting the role of the governance working group and communications petitions delegations well with respect to delegations the council always has the discretion as to whether or not to accept a delegation so if we don't think a delegation is germane irrelevant for an appropriate use of time we do not have to accept it so I just I just don't think the um part b is it all helpful because we already have the am I am I out of order or something okay um I just I just feel that um we already have the ability to um not take delegations and we can apply that pretty strictly don't be late I mean we we can apply that very strictly um a communications and petitions when do members of the public get to send a communication or petition to this council do we really need to restrict that has it been a problem do we receive so many communications and petitions that are a burden that we have to change our rules to say you can't do that and yes you could go through a council member but what about allowing members of the public our residents our citizens our taxpayers to address this council directly do we really want to take that away I don't think we do that seems to be the direction we're going in um efficient meeting management that word efficient is really loaded I get very frustrated with certain members of this council at some at some points but they should have their say and if their five minutes are up we don't have to grant them additional time again that's discretionary with members of this council I have to agree with that Councillor Stevenson on this one I think the um put the question can be used by the majority to stifle the voices of the minority and I'm very very concerned about that I see this I see this council today going in a direction that has me very very worried so as much as I would like to um as much as I would like to support four and six I I I guess I'll ask for those two to be voted on separately because I I think that that's I think that's far but I can't support the rest of it because I already think we have some safeguards in place to uh to make sure that we don't abuse those things I guess I should ask the clerk is receiving communications and petitions uh a burden it needs to be um addressed we will go to the city clerk thank you through the chair I suppose uh burden is subjective but I'll do my best to answer the councillor's question it depends on the item that is before the the committee or council that determines the level of communication that is submitted to the clerk's office as members of council will recall we have had uh we being the municipality have had some some very contentious issues in which hundreds of pieces of communication were submitted uh as a general matter uh for non contentious items uh no we do not receive a lot of communications however um if council directs that we were to if we were to include all communications regardless if they are connected to an agenda um I suspect that that would change the uh the page count and uh the information that is going to councillors uh with each agenda and the items before committee and council uh would become uh lost within uh a very large number of communications however if that is the direction that council wishes to go we're in your hands so um thank you through the chair I'm not I'm not hearing that it's been a problem and I I think the clerks are able to deal with this situation without further direction from council so I'll certainly be voting against this motion save uh four four and six um I suspect we can get into a long discussion about whether they should be sent to the governance working group um I suspect that motion would lose I think it should be but I'll spare everybody that exercise in the interest of a efficient meeting because um it's going to be noon soon but I really think that this council is going in some directions that that are are directly contrary to our goal in the strategic plan to um be a well-run city and to engage engage our um constituents so I'll leave I'll leave it at that I I'll be voting uh in favor of um four and six once that's pulled out I'll be voting against everything else and um I guess I have to raise the question why do we have a governance working group and I'll leave it at that being for any other speakers seeing none uh I will ask uh the clerk I will ask the clerk to call four and six separately councilor trussow that's not a problem um we will call each one separately because the clerk's already been pulling them out so we'll do two votes and then we'll vote on the balance um and I will uh briefly ask uh Mayor Morgan to take the chair I just want to provide one last thought on part a okay I'll turn it to the deputy mayor to make a final comment uh thank you and with respect to communications and petitions um uh I do want to share my view in that uh the agenda uh that comes before council for a standing committee meeting for a council meeting uh is based on the items that council itself has determined it will be dealing with through sometimes updates through and reports through civic administration sometimes through items that we have put on the agenda ourselves um but I think it's very consistent uh with uh how the other two levels of government operate as well um you don't put an item on the agenda at the house of commons or at uh queen's park um by submitting a petition without a member of the legislature or parliament sponsoring that that petition to come forward for uh the legislative bodies direction and I think being consistent ourselves with that same piece um I don't think communications and petitions uh represent the end all be all of engagement we've talked earlier today about things like get involved and bang the table and people's ability to send individual emails and all of those things uh I think that there's lots of ways that can do that and I don't and I don't think that anything in this precludes a counselor from receiving a petition and deciding to put an item on the added agenda uh or the regular agenda to say we I want to put this on the agenda for discussion but I do think uh that it needs to come through uh that process of an elected member bringing it forward okay I'll return the chair to the deputy mayor I don't have anybody who to add the spheres list thank you for chairing that piece your worship and I believe the clerk has votes ready so unless there are other speakers we're gonna start and we'll start with four which is the standing committees clarifying that standing committees are not uh in addition sorry in addition to SPPC um which is not clear in our current council policy and procedure by-law then we'll deal with part six which is the remembrance day change to the calendar then we'll deal with the balance of uh the report council roman uh thank you and through you and just on part four I just wanted to remind uh my colleagues that we made some changes to the counselor role description and in it we actually did stipulate this exactly where we said that uh counselors would serve on standing committees of council with an expectation that you're ready willing and able to serve on each of these committees during your term and then separate bullets serve on strategic priorities and planning committee of the whole or sorry policy committee of the whole and attend both committee and council meetings so I see this as alignment and uh I think it's important that we do that thank you and counselor stevenson I saw your hand go up as well yes you were going to allow me to vote separately on five as well yes that sorry I didn't say that but the clerk has that set up and he's scribed that way so we will begin and we're just going to go in numerical order here so we will ask the clerk to open the vote on part four first this is standing committee service using the vote motion carries 13 to 0 thank you colleagues will now open the vote on part five that is the uh clause on put the question at committees of where all of council constitutes the membership closing the vote motion carries eight to five we will open the vote on part six uh that's with respect to no standing committee meetings on remembrance day closing the vote motion carries 13 to 0 and then our final vote on this matter would be that the balance of the motion as amended be approved closing the vote motion carries 11 to 2 okay colleagues that includes our items for direction uh section of our agenda uh uh under deferred matters additional business counselor stevenson we don't really have inquiries at committee but this does it does relate to a deferred matter uh so you had a question that you wanted to ask and I'm just going to go to you to ask that question thank you yes I was just looking for an update on the code of conduct review that was passed at SPPC on May 7th and we'll go to the clerk on that thank you through the chair yes after that meeting we began working on that immediately we spoke with the integrity commissioner we've been working with legal services in the interim however we became aware that the minister of municipal affairs and housing in response to some recommendations was working on a standardized code of conduct I don't know exactly when that is uh going to be uh prepared or ready um and perhaps the mayor has some additional context for that um but that is uh that's the reason we've not brought something back to SPPC I can speak to Mayor Morgan of course thanks for recognizing me I can speak to um uh what I know of the provinces process for uh common code of conduct as colleagues will recall from a previous term of council um there was a widespread call by AMO to uh to ask for updates to the ways that uh counselors can be held to account and the parameters around the operations of the ombudsman integrity commissioners codes of conduct that was a common AMO position what ended up happening with that was is the premier um ended up asking um there I believe their integrity commissioner uh to bring forward a series of recommendations based on the feedback that had been given by a number of municipalities as well as other organizations the commissioner provided that feedback to the premier in a report that I think is a public report on September 30th um within that structure the premier had indicated that then they would work towards bringing forward um uh those recommendations in some form through government legislation uh some of the recommendations include that that the ministry should create a single standardized code of conduct for all municipalities so in other words any work that we would do on updating our code of conduct would likely be overridden by the bringing forward of a common standard code of conduct across the province that the government is is now actively uh considering and bringing forward in legislation there are a number of other um recommendations within um that report that the uh the provincial integrity commissioner had including that integrity commissioner should maintain a central database of all inquiries um the ministry should maintain a registry of all the integrity commissioners because they're they're hired individually by municipalities um there's uh considerations for the establishment of a singular province wide annual reports on this standard processes for integrity commissioners investigations so that it's not up to each of the integrity commissioners in the way that they do that but essentially a standardized process and and my understanding of the reasons for this is that if the government is going to consider uh higher levels or higher thresholds for punitive measures within code of conduct infractions um if that's going to include any sort of judicial process or even come close to uh the process of of removing a counselor from uh from office as you've seen and in other provinces move in that direction that it's likely to be a judicial process that is going to require a standardized base set of criteria that that municipal counselors would be held to account across the province otherwise it would be a very difficult thing to to be enforceable um if they went with higher punitive measures which i don't know if that's what they're actually doing or not but all this to say um it's expected that the government will bring forward uh pieces of this i'm not sure if it'll be all of the integrity commissioners recommendation but the part that probably will come forward is the idea of a standardized code of conduct for all municipalities which would which would essentially create uh create challenges for any sort of code of conduct changes we made because we'd be likely automatically required to standardize or or our code of conduct would be deemed um not in fact anymore and and the provincial wide one would be the basis of of reviews from that point forward so that's what i know it's not all of the information but i hope that's helpful to the counselor's question uh counselor Stevenson thank you well with all due respect um there i had a very serious issue with the code of conduct complaint last December i raised that to my colleagues uh in council it was recommended that i had other paths to take which would be a judicial review or the ombudsman i came forward with the judicial review council was not even willing to discuss it that in that code of conduct complaint from last December is currently being investigated by the ontario ombudsman i filed it in june and they are still working on it i have had six code of conduct complaints since and although most of them have been dismissed and uh including the one uh the ones where people go public uh like the women's agencies um those have all been dismissed but it has been a very difficult process very inconsistent and the reason that i brought it forward and the reason that i asked council to support the review of the protocol was to um protect counselors from a process that is unfair and so we have a process the integrity commissioner said it's not workable they're not using it or they use it inconsistently so if council isn't going to take that into consideration when the integrity commissioner brings forward reports then it was only reasonable for me to say let's get clear on the protocol so that a counselor a duly elected counselor has some awareness of what the methodology is going to be when complaints are submitted so uh you know that may 7th sppc it was approved at the at the next council meeting and what was said at the sppc was that an aggressive timeline would be sought and it would be about two two cycles it's been eight cycles and when i ask now i'm being told well we're going to basically not going to do it and i think again i'm confused as to how that doesn't come forward to council for our decision because i am a counselor that is continuing to uh have to deal with this and my the residents in my ward are being less served because i am having to spend so much time trying to follow a protocol that is not always being followed by the integrity commissioner so i'm really i'm honestly i'm very confused by this and why no one has come to talk to me to address the concerns i am a female woman in politics and i have been under attack and no one in civic administration and has like there's been nothing to address my concerns i've gone through the proper procedure to have it recognized by council and it was a direction of council to civic administration and i'm going to take the rest of this conversation offline but this is very concerning to me that i everyone knows it's been very public the attacks that i have been under and i have asked for the decency of knowing what the policies are and what i can expect from the integrity commissioner and from council as to how to address the attacks on me so i'm going to follow up with this offline but i find this to be incredibly disrespectful to me and to the residents that i serve hey thank you counselor Stevenson and i'll recognize that as that was an update to something on the deferred matters list that you're taking that offline and and maybe bringing forward some direction uh at a few at council or at a future meeting uh based on what you've heard um so we'll uh my understanding is there my understanding is there no deferred item list for sppc which is another huge issue for me so i'll be addressing that as well okay thank you uh we have no items for confidential session we therefore just need a motion to adjourn moved by counselor cuddy and seconded by counselor mccallister and we can do this one by hand all in favor motion carries thank you colleagues have a good rest of your day
 
 </details>
+
+---
+
+## Votes
+
+*18 substantive votes at this meeting (11 contested, 7 unanimous). Procedural motions excluded.*
+
+### 4.1. Confirmation of Appointment to the Community and Protective Services Committee
+
+> That the following appointments BE MADE to the Community and Protective Services Committee for the term December 1, 2024 to November 30, 2025: Councillor J. Pribil  Councillor S. Trosow it being noted that Councillor D. Ferreira was appointed as Chair and Councillor H. McAlister as Vice Chair by ...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 4.2. Consideration of Appointment to the Court of Revision (Requires 1 New Member)
+
+> That Madelyn Hertz BE APPOINTED to the Court of Revision for the term ending November 14, 2026.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 4.4. Police Vehicle and Equipment Requirements Motion - Budget Chair E. Peloza
+
+> That the London Police Services Board and the London Chief of Police BE REQUESTED to engage in a conversation to explore the process, legislation and any related matters pertaining to the possibility of a partial or full donation of a Light Armoured Vehicle for integration into the London Police ...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 4.5. Community Advisory Committee Motion - Councillor C. Rahman and Deputy Mayor S. Lewis
+
+> That the communication dated November 6, 2024 with respect to Community Advisory Committees from Deputy Mayor S. Lewis and Councillor C. Rahman BE REFFERED to the next meeting of the Governance Work Group.
+
+**❌ Motion Failed (2 to 12)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins)
+
+**Nay (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 4.5. Community Advisory Committee Motion - Councillor C. Rahman and Deputy Mayor S. Lewis
+
+> That the motion be amended to change the direction to BE REVIEWED in part d), part e), and part f).
+
+**❌ Motion Failed (2 to 11)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins)
+
+**Nay (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (2):** [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 4.5. Community Advisory Committee Motion - Councillor C. Rahman and Deputy Mayor S. Lewis
+
+> That part d) of the motion be approved and read as follows: d)     the Animal Welfare Community Advisory Committee BE DISSOLVED effective April 2025, and update the Environmental Stewardship and Action Community Advisory Committee’s terms of reference to include: responsibilities related to the w...
+
+**✅ Motion Passed (11 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins)
+
+**Absent (2):** [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 4.5. Community Advisory Committee Motion - Councillor C. Rahman and Deputy Mayor S. Lewis
+
+> That part e) and part f) be approved and read as follows: e)     the Ecological Community Advisory Committee BE DISSOLVED effective April 2025, and an Ecological Reference Group BE ESTABLISHED by Q2 2025 to provide technical advice on matters related to the City of London’s Official Plan, includi...
+
+**✅ Motion Passed (11 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins)
+
+**Absent (2):** [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 4.5. Community Advisory Committee Motion - Councillor C. Rahman and Deputy Mayor S. Lewis
+
+> That the following it being noted part of the motion be approved:  it being noted that the Strategic Priorities and Policy Committee received communications from the following with respect to this matter:  -    a communication dated November 17, 2024 from A. Blosh.
+
+**✅ Motion Passed (7 to 6) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (6):** [Shawn Lewis](/councillors/current/s-lewis), [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (2):** [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 4.5. Community Advisory Committee Motion - Councillor C. Rahman and Deputy Mayor S. Lewis
+
+> That the balance of the motion be approved.
+
+**✅ Motion Passed (12 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+**Absent (2):** [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 4.5. Community Advisory Committee Motion - Councillor C. Rahman and Deputy Mayor S. Lewis
+
+> That the delegation request from B. Samuels, Chair, Environmental Stewardship and Action Community Advisory Committee BE APPROVED to be heard at this time.
+
+**✅ Motion Passed (12 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (2):** [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 4.5. Community Advisory Committee Motion - Councillor C. Rahman and Deputy Mayor S. Lewis
+
+> That pursuant to section 35.10 of the Council Procedure By-law, the Strategic Priorities and Policy Committee decision with respect to item 4.5 having to do with receiving a communication from M. Blosh BE RECONSIDERED to provide for another vote.
+
+**✅ Motion Passed (12 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Corrine Rahman](/councillors/current/c-rahman)
+
+**Absent (2):** [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 4.5. Community Advisory Committee Motion - Councillor C. Rahman and Deputy Mayor S. Lewis
+
+> That the following it being noted part of the motion be approved:  it being noted that the Strategic Priorities and Policy Committee received communications from the following with respect to this matter:  -    a communication dated November 17, 2024 from A. Blosh.
+
+**❌ Motion Failed (4 to 9)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (9):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (2):** [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 4.5. Community Advisory Committee Motion - Councillor C. Rahman and Deputy Mayor S. Lewis
+
+> it being further noted that the Strategic Priorities and Policy Committee heard a verbal delegation from B. Samuels, Chair, Environmental Stewardship and Action Community Advisory Committee with respect to this matter.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 4.6. Amendments to the Council Procedure By-law Motion - Deputy Mayor S. Lewis, Budget Chair E. Peloza and Councillors S. Lehman and C. Rahman
+
+> That the motion be amended to include a new part vi) to read as follows: That the approved 2025 meeting calendar BE AMENDED by rescheduling the November 11th, 2025 meeting of the Planning and Environment Committee to November 12th, and the November 12th, 2025 meeting of the Audit Committee to Nov...
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 4.6. Amendments to the Council Procedure By-law Motion - Deputy Mayor S. Lewis, Budget Chair E. Peloza and Councillors S. Lehman and C. Rahman
+
+> That part iv) of the motion be approved and read as follows: iv)    Standing Committee Service: Clarify that each Councillor shall serve on standing committees in addition to the Strategic Priorities and Policy Committee, ensuring all standing committee positions are filled; and
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 4.6. Amendments to the Council Procedure By-law Motion - Deputy Mayor S. Lewis, Budget Chair E. Peloza and Councillors S. Lehman and C. Rahman
+
+> That part v) of the motion be approved and read as follows:  v)     Efficient Meeting Management: Provide for the option to “Put the Question” at committees where all of Council constitutes the membership;  it being noted that the Strategic Priorities and Policy Committee (SPPC) receive a communi...
+
+**✅ Motion Passed (8 to 5) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (5):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins)
+
+**Absent (2):** [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 4.6. Amendments to the Council Procedure By-law Motion - Deputy Mayor S. Lewis, Budget Chair E. Peloza and Councillors S. Lehman and C. Rahman
+
+> That part vi), as amended, be approved and read as follows: vi) that the approved 2025 meeting calendar BE AMENDED by rescheduling the November 11th, 2025 meeting of the Planning and Environment Committee to November 12th, and the November 12th, 2025 meeting of the Audit Committee to November 19th;
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 4.6. Amendments to the Council Procedure By-law Motion - Deputy Mayor S. Lewis, Budget Chair E. Peloza and Councillors S. Lehman and C. Rahman
+
+> That the balance of the motion, as amended, be approved.
+
+**✅ Motion Passed (11 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins)
+
+**Absent (2):** [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+

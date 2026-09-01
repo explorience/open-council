@@ -300,7 +300,7 @@ The Corporate Services Committee convened
 
 ## Votes
 
-*8 substantive votes at this meeting (8 contested, 0 unanimous). Procedural motions excluded.*
+*8 substantive votes at this meeting (0 contested, 8 unanimous). Procedural motions excluded.*
 
 ### 2. Amendment to
   Council Policy 28(2) Council Members' Expense Account
@@ -310,12 +310,7 @@ The Corporate Services Committee convened
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/current/m-cassidy), [Harold Usher](/councillors/current/h-l-usher), [Jared Zaifman](/councillors/current/j-zaifman)
-
-</details>
+Unanimous (5-0)
 
 ### 3. Review of Municipal
   Act, 2001 and Municipal Conflict of Interest Act
@@ -325,12 +320,7 @@ The Corporate Services Committee convened
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/current/m-cassidy), [Harold Usher](/councillors/current/h-l-usher), [Jared Zaifman](/councillors/current/j-zaifman)
-
-</details>
+Unanimous (5-0)
 
 ### 4. Request for
   Proposal 15-21 - General Insurance Program
@@ -340,12 +330,7 @@ The Corporate Services Committee convened
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/current/m-cassidy), [Harold Usher](/councillors/current/h-l-usher), [Jared Zaifman](/councillors/current/j-zaifman)
-
-</details>
+Unanimous (5-0)
 
 ### 5. Report of the
   Federation of Canadian Municipalities Board of Directors Meeting -
@@ -356,12 +341,7 @@ The Corporate Services Committee convened
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/current/m-cassidy), [Harold Usher](/councillors/current/h-l-usher), [Jared Zaifman](/councillors/current/j-zaifman)
-
-</details>
+Unanimous (5-0)
 
 ### 6. Consideration of
   Appointment to the Accessibility Advisory Committee
@@ -371,12 +351,7 @@ The Corporate Services Committee convened
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/current/m-cassidy), [Harold Usher](/councillors/current/h-l-usher), [Jared Zaifman](/councillors/current/j-zaifman)
-
-</details>
+Unanimous (5-0)
 
 ### 7. Confirmation of
   Appointment to the Community Safety and Crime Prevention Advisory Committee
@@ -386,12 +361,7 @@ The Corporate Services Committee convened
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/current/m-cassidy), [Harold Usher](/councillors/current/h-l-usher), [Jared Zaifman](/councillors/current/j-zaifman)
-
-</details>
+Unanimous (5-0)
 
 ### 8. Corporate Services
   Committee Deferred Matters List
@@ -401,12 +371,7 @@ The Corporate Services Committee convened
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/current/m-cassidy), [Harold Usher](/councillors/current/h-l-usher), [Jared Zaifman](/councillors/current/j-zaifman)
-
-</details>
+Unanimous (5-0)
 
 ### 9. ADDED - 2015
   Federal Election Questionnaire
@@ -416,10 +381,5 @@ The Corporate Services Committee convened
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/current/m-cassidy), [Harold Usher](/councillors/current/h-l-usher), [Jared Zaifman](/councillors/current/j-zaifman)
-
-</details>
+Unanimous (5-0)
 

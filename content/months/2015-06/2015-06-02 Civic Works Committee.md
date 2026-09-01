@@ -406,7 +406,7 @@ That the Civic Administration BE DIRECTED
 
 ## Votes
 
-*4 substantive votes at this meeting (4 contested, 0 unanimous). Procedural motions excluded.*
+*9 substantive votes at this meeting (0 contested, 9 unanimous). Procedural motions excluded.*
 
 ### 2. 2nd Report of the
   LTC Long Term Growth Report Working Group
@@ -415,12 +415,16 @@ That the Civic Administration BE DIRECTED
 
 **✅ Motion Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (4-0)
 
-**Yea (8):** [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Virginia Ridley](/councillors/current/v-ridley), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park)
+### 2. 2nd Report of the
+  LTC Long Term Growth Report Working Group
 
-</details>
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (4-0)
 
 ### 4. London ON Bikes
   Cycling Master Plan Status Report
@@ -429,12 +433,34 @@ That the Civic Administration BE DIRECTED
 
 **✅ Motion Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (4-0)
 
-**Yea (16):** [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Virginia Ridley](/councillors/current/v-ridley), [Virginia Ridley](/councillors/current/v-ridley), [Virginia Ridley](/councillors/current/v-ridley), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park)
+### 4. London ON Bikes
+  Cycling Master Plan Status Report
 
-</details>
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (4-0)
+
+### 4. London ON Bikes
+  Cycling Master Plan Status Report
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (4-0)
+
+### 4. London ON Bikes
+  Cycling Master Plan Status Report
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (4-0)
 
 ### 9. Local Improvement
   Initiation - Eastgate Crescent
@@ -443,12 +469,7 @@ That the Civic Administration BE DIRECTED
 
 **✅ Motion Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Michael van Holst](/councillors/current/m-van-holst), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (4-0)
 
 ### 12. (ADDED) Deferred
   Matters List
@@ -457,10 +478,14 @@ That the Civic Administration BE DIRECTED
 
 **✅ Motion Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (4-0)
 
-**Yea (8):** [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Virginia Ridley](/councillors/current/v-ridley), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park)
+### 12. (ADDED) Deferred
+  Matters List
 
-</details>
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (4-0)
 

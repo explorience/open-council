@@ -279,15 +279,7 @@ The meeting adjourned at 1:46 PM.
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
-
-### 2.3. Electric Kick-Scooter and Cargo Power-assisted Bicycle Pilot Project By-law and By-law Amendments
-
-> Motion to approve the Delegation Request from A. Petre and M. Miksa to be heard at this meeting.
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 2.3. Electric Kick-Scooter and Cargo Power-assisted Bicycle Pilot Project By-law and By-law Amendments
 
@@ -298,11 +290,21 @@ Unanimous (2-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+**Yea (3):** [Peter Cuddy](/councillors/current/p-cuddy), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
 
 **Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
 
+**Absent (2):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister)
+
 </details>
+
+### 2.3. Electric Kick-Scooter and Cargo Power-assisted Bicycle Pilot Project By-law and By-law Amendments
+
+> Motion to approve the Delegation Request from A. Petre and M. Miksa to be heard at this meeting.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
 
 ### 3.1. Delegation - J. Preston - London Transit Commission Specialized Transit for Disabled Londoners
 
@@ -310,5 +312,5 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 

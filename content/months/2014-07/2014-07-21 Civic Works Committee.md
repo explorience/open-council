@@ -795,7 +795,7 @@ The
 
 ## Votes
 
-*15 substantive votes at this meeting (15 contested, 0 unanimous). Procedural motions excluded.*
+*19 substantive votes at this meeting (0 contested, 19 unanimous). Procedural motions excluded.*
 
 ### 2. 1st Report of the
   Cycling Advisory Committee
@@ -805,12 +805,27 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (2-0)
 
-**Yea (6):** [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [Stephen Orser](/councillors/current/s-orser), [Stephen Orser](/councillors/current/s-orser)
+### 2. 1st Report of the
+  Cycling Advisory Committee
 
-</details>
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (2-0)
+
+### 2. 1st Report of the
+  Cycling Advisory Committee
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (2-0)
 
 ### 5. 2014 Ridout Street
   Brick Sewer Rehabilitation RFP No. 14-23 - Irregular Result
@@ -818,14 +833,9 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser)
-
-</details>
+Unanimous (2-0)
 
 ### 6. Long-Term Large
   Diameter Pipe Inspection Strategy and Single Source Procurement EW3717-13,
@@ -834,14 +844,9 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser)
-
-</details>
+Unanimous (3-0)
 
 ### 7. Commissioners Road
   West Reconstruction: Contract 10 - 2014 Infrastructure Lifecycle Renewal
@@ -850,14 +855,9 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser)
-
-</details>
+Unanimous (2-0)
 
 ### 8. Commissioners Road
   West Widening-Wonderland Road South to Viscount Road-Consulting Engineer
@@ -866,14 +866,9 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser)
-
-</details>
+Unanimous (2-0)
 
 ### 9. Geotechnical and
   Hydrogeotechnical Investigations for Old Victoria Hospital Lands Secondary
@@ -882,14 +877,9 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser)
-
-</details>
+Unanimous (2-0)
 
 ### 10. Large Diameter
   Watermain Inspection: Renewal of Monitoring Contract EW3538
@@ -897,14 +887,9 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser)
-
-</details>
+Unanimous (3-0)
 
 ### 11. Custom Steel
   Fabrication-Joseph Adamou Steel Works Contract-Single Source Procurement
@@ -912,14 +897,9 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser)
-
-</details>
+Unanimous (2-0)
 
 ### 12. PCP - Hauling of
   Biosolids - Irregular Bid  (Tender T14-55)
@@ -927,14 +907,9 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser)
-
-</details>
+Unanimous (2-0)
 
 ### 13. Rapid Transit
   Corridors Environmental Assessment Study-Appointment of Consulting Engineer
@@ -944,12 +919,17 @@ The
 **✅ Motion
     Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (2-0)
 
-**Yea (4):** [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [Stephen Orser](/councillors/current/s-orser)
+### 13. Rapid Transit
+  Corridors Environmental Assessment Study-Appointment of Consulting Engineer
 
-</details>
+> Motion     Passed
+
+**✅ Motion
+    Passed**
+
+Unanimous (2-0)
 
 ### 14. Appointment of
   Consulting Engineer for the Functional and Detailed Design of the Old
@@ -958,14 +938,9 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser)
-
-</details>
+Unanimous (2-0)
 
 ### 15. Blue Box Recycling
   Collection and Processing Contracts
@@ -973,14 +948,9 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser)
-
-</details>
+Unanimous (3-0)
 
 ### 16. Community Energy
   Action Program
@@ -988,14 +958,9 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser)
-
-</details>
+Unanimous (3-0)
 
 ### 17. Updates: Corporate
   Energy Management Program and Conservation and Demand Management (CDM) Plan
@@ -1003,14 +968,9 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser)
-
-</details>
+Unanimous (3-0)
 
 ### 18. Interim Waste
   Diversion Plan 2014-2015
@@ -1020,10 +980,15 @@ The
 **✅ Motion
     Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (3-0)
 
-**Yea (6):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [Stephen Orser](/councillors/current/s-orser)
+### 18. Interim Waste
+  Diversion Plan 2014-2015
 
-</details>
+> Motion     Passed
+
+**✅ Motion
+    Passed**
+
+Unanimous (3-0)
 

@@ -532,74 +532,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 3:17 PM.
 
 ****
-
----
-
-## Votes
-
-*6 substantive votes at this meeting (2 contested, 4 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That, pursuant to section 27.6 of the Council Procedure By-law, a change in order of the Infrastructure and Corporate Services Committee Agenda BE APPROVED, to provide for Items 2.3 and 2.8 in Stage 2, Consent, to be considered before Stage 3, Scheduled Items.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 2.3. Hamilton Road Business Improvement Area 2026 Proposed Budget – Municipal Special Levy
-
-> That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to the Hamilton Road Business Improvement Area:    a)    the Hamilton Road Business Improvement Area proposed 2026 budget submission in the amount of $247,500 BE APPROVED as outli...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 2.8. Contract Award: RFT-2025-224 East London Link and Municipal Infrastructure Improvements Phase 3A East - Dundas Street
-
-> That on the recommendation of the Deputy City Manager, Environment & Infrastructure, the following actions be taken with respect to the contract award for the East London Link and Municipal Infrastructure Improvements Phase 3A East project; it being noted that in accordance with Section 12.4.1 of...
-
-**✅ Motion Passed (4 to 2) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Corrine Rahman](/councillors/current/c-rahman), [Skylar Franke](/councillors/current/s-franke)
-
-**Nay (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-</details>
-
-### 3.1. Not to be heard before 1:05 PM - Tribunal - Development Charge Appeal
-
-> That, after convening as a tribunal under section 26 of By-law C.P.-1551-227 to hear a complaint under section 20 of the Development Charges Act, 1997, S.O. 1997, c. 27, by Paula Lombardi of Siskinds LLP, with respect to the property municipally known as 763–773 Dundas Street, regarding the calcu...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 3.1. Not to be heard before 1:05 PM - Tribunal - Development Charge Appeal
-
-> That the Infrastructure and Corporate Services Committee now convene as a tribunal under section 26 of By-law C.P.-1551-227 to hear a complaint under section 20 of the Development Charges Act, 1997 and provide the complainant an opportunity to make representations.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 3.1. Not to be heard before 1:05 PM - Tribunal - Development Charge Appeal
-
-> That, after convening as a tribunal under section 26 of By-law C.P.-1551-227 to hear a complaint under section 20 of the Development Charges Act, 1997, S.O. 1997, c. 27, by Paula Lombardi of Siskinds LLP, respecting the property municipally known as 763–773 Dundas Street, concerning the calculati...
-
-**❌ Motion Failed (3 to 3) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-**Nay (3):** [Josh Morgan](/councillors/current/j-morgan), [Susan Stevenson](/councillors/current/s-stevenson), [Skylar Franke](/councillors/current/s-franke)
-
-</details>
 ---
 
 ## Full Transcript
@@ -1130,3 +1062,72 @@ Just a moment as we prepare. Thank you, I will go to Councillor McAllister to re
 Councillor Stevenson, Councillor McAllister, and by hand, all in favor, motion carries. Thanks, everyone.
 
 </details>
+
+---
+
+## Votes
+
+*6 substantive votes at this meeting (2 contested, 4 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That, pursuant to section 27.6 of the Council Procedure By-law, a change in order of the Infrastructure and Corporate Services Committee Agenda BE APPROVED, to provide for Items 2.3 and 2.8 in Stage 2, Consent, to be considered before Stage 3, Scheduled Items.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 2.3. Hamilton Road Business Improvement Area 2026 Proposed Budget – Municipal Special Levy
+
+> That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to the Hamilton Road Business Improvement Area:    a)    the Hamilton Road Business Improvement Area proposed 2026 budget submission in the amount of $247,500 BE APPROVED as outli...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 2.8. Contract Award: RFT-2025-224 East London Link and Municipal Infrastructure Improvements Phase 3A East - Dundas Street
+
+> That on the recommendation of the Deputy City Manager, Environment & Infrastructure, the following actions be taken with respect to the contract award for the East London Link and Municipal Infrastructure Improvements Phase 3A East project; it being noted that in accordance with Section 12.4.1 of...
+
+**✅ Motion Passed (4 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Corrine Rahman](/councillors/current/c-rahman), [Skylar Franke](/councillors/current/s-franke)
+
+**Nay (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 3.1. Not to be heard before 1:05 PM - Tribunal - Development Charge Appeal
+
+> That, after convening as a tribunal under section 26 of By-law C.P.-1551-227 to hear a complaint under section 20 of the Development Charges Act, 1997, S.O. 1997, c. 27, by Paula Lombardi of Siskinds LLP, with respect to the property municipally known as 763–773 Dundas Street, regarding the calcu...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 3.1. Not to be heard before 1:05 PM - Tribunal - Development Charge Appeal
+
+> That the Infrastructure and Corporate Services Committee now convene as a tribunal under section 26 of By-law C.P.-1551-227 to hear a complaint under section 20 of the Development Charges Act, 1997 and provide the complainant an opportunity to make representations.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 3.1. Not to be heard before 1:05 PM - Tribunal - Development Charge Appeal
+
+> That, after convening as a tribunal under section 26 of By-law C.P.-1551-227 to hear a complaint under section 20 of the Development Charges Act, 1997, S.O. 1997, c. 27, by Paula Lombardi of Siskinds LLP, respecting the property municipally known as 763–773 Dundas Street, concerning the calculati...
+
+**❌ Motion Failed (3 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Nay (3):** [Josh Morgan](/councillors/current/j-morgan), [Susan Stevenson](/councillors/current/s-stevenson), [Skylar Franke](/councillors/current/s-franke)
+
+</details>
+

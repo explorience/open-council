@@ -429,7 +429,7 @@ The meeting adjourned at 5:57 PM.
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2.2. London Community Recovery Network - Ideas for Action by Municipal Council
 
@@ -437,7 +437,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2.2. London Community Recovery Network - Ideas for Action by Municipal Council
 
@@ -445,7 +445,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2.2. London Community Recovery Network - Ideas for Action by Municipal Council
 
@@ -453,7 +453,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2.2. London Community Recovery Network - Ideas for Action by Municipal Council
 
@@ -461,7 +461,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2.2. London Community Recovery Network - Ideas for Action by Municipal Council
 
@@ -469,15 +469,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
-
-### 2.2. London Community Recovery Network - Ideas for Action by Municipal Council
-
-> Motion to approve the balance of the staff recommendation.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2.2. London Community Recovery Network - Ideas for Action by Municipal Council
 
@@ -488,7 +480,9 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Nay (2):** [Ed Holder](/councillors/current/e-holder), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+**Yea (2):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (4):** [Ed Holder](/councillors/current/e-holder), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Arielle Kayabaga](/councillors/current/a-kayabaga)
 
 </details>
 
@@ -501,7 +495,9 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Ed Holder](/councillors/current/e-holder), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+**Yea (4):** [Ed Holder](/councillors/current/e-holder), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (2):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier)
 
 </details>
 
@@ -514,9 +510,19 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Ed Holder](/councillors/current/e-holder), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+**Yea (4):** [Ed Holder](/councillors/current/e-holder), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (2):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier)
 
 </details>
+
+### 2.2. London Community Recovery Network - Ideas for Action by Municipal Council
+
+> Motion to approve the balance of the staff recommendation.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
 
 ### 5.2. (ADDED) Residential Rental Units Licensing By-law Review - Councillor A. Kayabaga and Councillor M. Salih
 
@@ -524,5 +530,5 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 

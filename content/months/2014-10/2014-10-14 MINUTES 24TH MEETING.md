@@ -2157,3 +2157,200 @@ Approve Third Reading of Bill No. 494.
 Motion
 Passed
 
+---
+
+## Votes
+
+*16 substantive votes at this meeting (6 contested, 10 unanimous). Procedural motions excluded.*
+
+### 2#6. Amendment to
+  Council Policy 28(2) - Council Members’ Expense Account and Mayor’s Expenses
+  Policy 28(3)
+
+> That the following actions be taken with   respect to amendments to Council Policies 28(2) and 28(3):   a)         the   attached revised proposed by-law (Appendix “A”) BE INTRODUCED at the   Municipal Council meeting on October 14, 2014 to repeal Council Policy 28(2),   “Council Members’ Expense...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (1):** [Stephen Orser](/councillors/current/s-orser)
+
+</details>
+
+### 3#4. Ontario Works
+  Participant Profile - July 2014
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 3#6. Municipal
+  Performance Measurement Program (MPMP) Three-Year Comparative Values
+  2011-2013
+
+> That, on the recommendation of the Deputy   City Treasurer, the staff report dated September 25, 2014 outlining the   Municipal Performance Measurement Program (MPMP) and providing comparative   measures for the three years ending December 31, 2011, 2012 and 2013 BE   RECEIVED for information.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 3#6. Municipal
+  Performance Measurement Program (MPMP) Three-Year Comparative Values
+  2011-2013
+
+> Approve that Council rise and go into   Committee of the Whole, in camera, for the purpose of considering a matter pertaining to advice that is subject to   solicitor-client privilege, including communications necessary for that   purpose, with respect to the Application by Greenhills Shopping Ce...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (1):** [Paul Hubert](/councillors/current/p-hubert)
+
+</details>
+
+### 6#2. Properties located
+  at 51 and 99 Exeter Road (OZ-8324)
+
+> Approve that consideration of clause 6   BE POSTPONED to a later time in the meeting, following an additional in   camera session to receive related legal advice.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (1):** [Paul Hubert](/councillors/current/p-hubert)
+
+</details>
+
+### 6#4. Amendments to
+  Council Procedure By-law
+
+> That the following actions be taken with   respect to By-law No. A-45 entitled “A by-law to provide for the Rules of Order   and Procedure for the Council of The Corporation of the City of London”:   a)         the   attached revised proposed by-law (Appendix “A”) BE INTRODUCED at the   Municipal...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 6#5. Properties located at 51 and 99 Exeter Road
+  (OZ-8324)
+
+> That, on the recommendation   of the Managing Director, Planning and City Planner, the following actions be   taken with respect to the application of Greenhills Shopping Centres Ltd.   (Greenhills) relating to the property located at 51 and 99 Exeter Road:   a)         the   proposed by-law, app...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (3):** [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Stephen Orser](/councillors/current/s-orser)
+
+</details>
+
+### IV. COMMITTEE
+  OF THE WHOLE, IN CAMERA
+
+> Approve that Council rise and go into   Committee of the Whole, in camera, for the purpose of considering a personal   matter pertaining to identifiable individuals, including municipal employees,   with respect to the 2015 Mayor’s New Year’s Honour List. (C1/17/CPSC)
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### VI. CONFIRMATION
+  AND SIGNING OF THE MINUTES OF THE TWENTY-THIRD MEETING HELD ON SEPTEMBER 30,
+  2014
+
+> Approve the Minutes of the 23rd   Meeting held on September 30, 2014.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### XI. ENQUIRIES
+
+> Approve leave for Councillor H.L. Usher to   introduce a motion to request staff to report back at a future meeting of the   Community and Protective Services Committee with respect to the potential for   granting variances under the Fence By-law PS-6.
+
+**✅ Motion Passed**
+
+Unanimous (10-0)
+
+### XI. ENQUIRIES
+
+> Approve  that the Managing Director   Development and Compliance Services and Chief Building Official BE DIRECTED   to report back at a future meeting of the Community and Protective Services   Committee with respect to the potential for granting variances under the   Fence By-law PS-6.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
+
+**Nay (1):** [Denise Brown](/councillors/current/d-brown)
+
+</details>
+
+### 3. (ADDED) Properties
+  located at 510 Central Avenue and 609 William Street (Z-8141) (Refer to the
+  Planning and Environment Committee stage for consideration with clause 18 of
+  the 18th Report of the Planning and Environment Committee.)
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 6. Hamilton Road and
+  Highbury Avenue Intersection Improvements Environmental Assessment Study
+  Appointment of Consulting Engineer
+
+> That, on the recommendation of the Managing   Director, Environmental and Engineering Services and City Engineer, the following   actions be taken with respect to the appointment of a consultant for the   Hamilton Road and Highbury Avenue Intersection Improvements Environmental   Assessment:   a)...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 10. Minor Revisions to
+  the W12A Landfill Site Community Enhancement and Mitigative Measures Program
+
+> That, on the recommendation of the Director   Environment, Fleet and Solid Waste, the proposed by-law appended to the staff   report dated October 6, 2014, BE INTRODUCED at the Municipal Council meeting   to be held October 14, 2014 to update the W12A Landfill Site Community   Enhancement and Mit...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 17. Property located at
+  50 King Street (Z-8372)
+
+> Approve clause 1 and that the application   by 2353034 Ontario Limited (formerly Treadstone Group) related to the   properties located at 510 Central Avenue and 609 William Street (Z-8141) BE   REFERRED back to the Civic Administration for further public consultation   related to the proposed cha...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (3):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill)
+
+</details>
+
+### 20. Property located at
+  1040 Coronation Drive (H-8376)
+
+> That, on the recommendation of the Managing   Director, Development and Compliance Services and Chief Building Official,   based on the application of The Tricar Group relating to the property located   at 1040 Coronation Drive, the proposed by-law, as appended to the staff   report dated October...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+

@@ -589,7 +589,7 @@ The
 
 ## Votes
 
-*15 substantive votes at this meeting (15 contested, 0 unanimous). Procedural motions excluded.*
+*17 substantive votes at this meeting (2 contested, 15 unanimous). Procedural motions excluded.*
 
 ### 2. STAFF REPORT - 4th
   Report of the London Housing Advisory Committee
@@ -597,14 +597,9 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Maureen Cassidy](/councillors/current/m-cassidy), [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher)
-
-</details>
+Unanimous (3-0)
 
 ### 3. STAFF REPORT -
   Community Action Program for Children (CAPC) Funding in London:  2017-2020
@@ -612,14 +607,9 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Maureen Cassidy](/councillors/current/m-cassidy), [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher)
-
-</details>
+Unanimous (3-0)
 
 ### 4. STAFF REPORT - Lead
   Agency to Oversee the Implementation of London For All:  A Roadmap to End
@@ -646,14 +636,9 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Maureen Cassidy](/councillors/current/m-cassidy), [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher)
-
-</details>
+Unanimous (3-0)
 
 ### 6. STAFF REPORT -
   Agreement with the Province of Ontario to Support the Development of an
@@ -662,14 +647,9 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Maureen Cassidy](/councillors/current/m-cassidy), [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher)
-
-</details>
+Unanimous (3-0)
 
 ### 7. STAFF REPORT -
   Short Term Accommodations
@@ -677,14 +657,9 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Maureen Cassidy](/councillors/current/m-cassidy), [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher)
-
-</details>
+Unanimous (3-0)
 
 ### 8. STAFF REPORT - 
   Anti-Contraband Tobacco Campaign Funded by Tobacco Industry Front Groups
@@ -693,14 +668,9 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Maureen Cassidy](/councillors/current/m-cassidy), [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher)
-
-</details>
+Unanimous (3-0)
 
 ### 9. Community Diversity
   and Inclusion Strategy
@@ -708,14 +678,9 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Maureen Cassidy](/councillors/current/m-cassidy), [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher)
-
-</details>
+Unanimous (3-0)
 
 ### 10. Open Air Burning
 
@@ -742,12 +707,29 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (4-0)
 
-**Yea (12):** [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Bill Armstrong](/councillors/current/b-armstrong), [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher)
+### 11. Business Licensing
+  By-Law Review - Commercial Parking Facilities, Pet Shops, Public Halls and
+  Seasonal Sales Businesses
 
-</details>
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
+### 11. Business Licensing
+  By-Law Review - Commercial Parking Facilities, Pet Shops, Public Halls and
+  Seasonal Sales Businesses
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
 
 ### 12. 4th Report of the
   Animal Welfare Advisory Committee
@@ -757,12 +739,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher)
-
-</details>
+Unanimous (4-0)
 
 ### 13. File No. 16-260872
   - Naturalization Project - London Condominium Corporation No. 11
@@ -772,12 +749,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher)
-
-</details>
+Unanimous (4-0)
 
 ### 14. STAFF REPORT - City
   Council and Standing Committee Pre-Recorded Video Content - City Website and
@@ -788,12 +760,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher)
-
-</details>
+Unanimous (4-0)
 
 ### 15. Deferred Matters
   List
@@ -801,14 +768,9 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Maureen Cassidy](/councillors/current/m-cassidy), [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher)
-
-</details>
+Unanimous (3-0)
 
 ### 16. (ADDED) COUNCILLOR
   SUBMISSION - Withdrawal Renaming Proposal - Mildred Barons Park to Vimy Ridge
@@ -817,12 +779,7 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Maureen Cassidy](/councillors/current/m-cassidy), [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher)
-
-</details>
+Unanimous (3-0)
 

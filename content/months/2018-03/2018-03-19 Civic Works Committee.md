@@ -494,7 +494,7 @@ The meeting adjourned at 2:25 PM.
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2.1. 2018 Ontario Municipal Commuter Cycling (OMCC) Program
 
@@ -502,7 +502,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 3.1. Highway 401 / Highway 4 Interchange Improvements and Highway 4 and Glanworth Drive Underpass Replacements Environmental Assessment
 
@@ -510,7 +510,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 5.4. (Added) 2030 Smart Moves Transportation Master Plan
 
@@ -518,5 +518,5 @@ Unanimous (4-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 

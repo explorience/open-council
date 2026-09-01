@@ -131,7 +131,7 @@ The Strategic Priorities and Policy
 
 ## Votes
 
-*2 substantive votes at this meeting (2 contested, 0 unanimous). Procedural motions excluded.*
+*2 substantive votes at this meeting (1 contested, 1 unanimous). Procedural motions excluded.*
 
 ### 3. London Arts Council
 
@@ -155,10 +155,5 @@ The Strategic Priorities and Policy
 
 **✅ Motion Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
-
-</details>
+Unanimous (14-0)
 

@@ -573,7 +573,7 @@ The meeting adjourned at 7:12 PM.
 
 ## Votes
 
-*5 substantive votes at this meeting (0 contested, 5 unanimous). Procedural motions excluded.*
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -581,7 +581,7 @@ The meeting adjourned at 7:12 PM.
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 3.1. 4th Report of the Accessibility Advisory Committee
 
@@ -589,29 +589,5 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
-
-### 3.2. 5th Report of the Animal Welfare Advisory Committee
-
-> That the following actions be taken with respect to the 5th Report of the Animal Welfare Advisory Committee, from its meeting held on May 3, 2018: a)            the Municipal Council BE ADVISED that the Animal Welfare Advisory Committee (AWAC) supports the proposed amendments to the Park and Recr...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.5. Parks & Recreation Area By-law PR-2 Amendments - Feeding of Wildlife in Parks and Other Administrative Revisions
-
-> That, on the recommendation of the Managing Director, Parks and Recreation, the following actions be taken with respect to the Parks and Recreation Area By-law PR-2: a)            the proposed By-law, as appended to the staff report dated May 29, 2018, BE INTRODUCED at the Municipal Council meeti...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 4.2. 5th Report of the London Housing Advisory Committee
-
-> That the following actions be taken with respect to the 5th Report of the London Housing Advisory Committee from its meeting held on May 9, 2018: a)            C. Parker, Senior Planner, BE REQUESTED to attend a future London Housing Advisory Committee meeting to provide information on the Old Ea...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
+Unanimous (5-0)
 

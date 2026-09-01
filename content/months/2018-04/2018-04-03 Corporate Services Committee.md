@@ -421,7 +421,7 @@ The Meeting adjourned at 2:18 PM.
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 2.4. Year 2018 Tax Policy
 
@@ -429,7 +429,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 2.5. 2018 Education Tax Rates
 
@@ -437,7 +437,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4. Items for Direction
 
@@ -445,7 +445,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4.1. 2017 London Convention Centre Operational Results
 
@@ -453,7 +453,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4.4. Board of Directors - Federation of Canadian Municipalities
 
@@ -461,7 +461,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 5.2. ADDED - Request for Proposal - Host for AMO Annual Conference 2021, 2023
 
@@ -469,5 +469,5 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 

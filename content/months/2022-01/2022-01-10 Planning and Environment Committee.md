@@ -684,7 +684,7 @@ The meeting adjourned at 7:02 PM.
 
 ## Votes
 
-*8 substantive votes at this meeting (0 contested, 8 unanimous). Procedural motions excluded.*
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -692,31 +692,7 @@ The meeting adjourned at 7:02 PM.
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
-
-### 3.1. 1389 Commissioners Road East (Z-9446)
-
-> That, on the recommendation of the Director, Planning and Development, based on the City-initiated zoning by-law amendment relating to lands located within the Summerside Subdivision – Phase 17, known municipally as 1389 Commissioners Road East, the proposed by-law appended to the staff report da...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (2-0)
-
-### 3.2. 150 King Edward Avenue (Z-9398)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by 1767289 Ontario Inc., relating to the property located at 150 King Edward Avenue: a)    the proposed by-law appended to the staff report dated January 10, 2022 ...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (2-0)
-
-### 3.3. 100 Kellogg Lane (Z-9408)
-
-> That, on the recommendation of the Director, Planning and Development, based on the application by E. & E. McLaughlin Ltd., relating to the property located at 100 Kellogg Lane, the attached, revised, proposed by-law (Appendix "A") BE INTRODUCED at the Municipal Council meeting to be held on Janu...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 3.4. 1140 Sunningdale Road East (Z-9405)
 
@@ -724,29 +700,5 @@ Unanimous (2-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
-
-### 3.5. 257-263 Springbank Drive (O-9354/Z-9355)
-
-> That, on the recommendation of the Director, Planning & Development, the following actions be taken with respect to the application by Anast Holdings Inc., relating to the property located at 257-263 Springbank Drive: a)    the proposed by-law appended to the revised staff report dated January 10...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 4.1. 1st Report of the Environmental and Ecological Planning Advisory Committee
-
-> That, the following actions be taken with respect to the 1st Report of the Environmental and Ecological Planning Advisory Committee, from its meeting held on December 16, 2021: a)  the Working Group report relating to the property located at 952 Southdale Road West BE FORWARDED to the Civic Admin...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 4.2. 1st Report of the Trees and Forests Advisory Committee
-
-> That, the following actions be taken with respect to the 1st Report of the Trees and Forests Advisory Committee, from its meeting held on December 22, 2021: a)  the following actions be taken with respect to the Green Roofs Update: i)        the Civic Administration BE REQUESTED to include a disc...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
+Unanimous (5-0)
 

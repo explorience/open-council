@@ -473,18 +473,18 @@ The meeting adjourned at 1:37 PM.
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 2.5. Contract Award: Tender No. 21-01 - Downtown Loop and Municipal Infrastructure Improvements Phase 1
 
 > That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the following actions be taken with respect to the staff report dated February 9, 2021 related to Contract Award for Tender No. 21-01 for the Downtown Loop and Municipal Infrastructure ...
 
-**✅ Motion Passed (5 to 1) 🔥**
+**✅ Motion Passed (5 to 1)**
 
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/current/e-holder), [Jesse Helmer](/councillors/current/j-helmer)
+**Yea (5):** [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/current/e-holder), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner)
 
 **Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
 
@@ -496,5 +496,5 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 

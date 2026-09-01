@@ -926,7 +926,7 @@ The
 
 ## Votes
 
-*20 substantive votes at this meeting (20 contested, 0 unanimous). Procedural motions excluded.*
+*22 substantive votes at this meeting (3 contested, 19 unanimous). Procedural motions excluded.*
 
 ### 2. Appointment of
   Consultant - Engineering Services for Class EA and Design of Upgrades for
@@ -937,12 +937,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer)
-
-</details>
+Unanimous (4-0)
 
 ### 3. Appointment of
   Consulting Engineers for the Core Area Servicing Studies RFP's - 16-14,
@@ -953,12 +948,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer)
-
-</details>
+Unanimous (4-0)
 
 ### 4. Appointment of
   Consulting Engineers - Infrastructure Renewal Program 2017-2018
@@ -968,12 +958,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer)
-
-</details>
+Unanimous (4-0)
 
 ### 5. Contract Price
   Increase - Tender No. T13-73 Elgin Middlesex Pumping Station Upgrades and
@@ -984,12 +969,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer)
-
-</details>
+Unanimous (4-0)
 
 ### 6. Sunningdale Road
   East, Highbury Avenue North, Fanshawe Park Road East and Byron Baseline Road
@@ -1000,12 +980,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer)
-
-</details>
+Unanimous (4-0)
 
 ### 7. Wickerson Pumping
   Station Upgrades Additional Funding EW3653
@@ -1015,12 +990,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer)
-
-</details>
+Unanimous (4-0)
 
 ### 8. Amendments to the
   Traffic and Parking By-law to Support Mobile App Payments
@@ -1030,12 +1000,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer)
-
-</details>
+Unanimous (4-0)
 
 ### 9. Single Source Award
   - SCADA System Reporting Software
@@ -1045,12 +1010,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer)
-
-</details>
+Unanimous (4-0)
 
 ### 10. 2015 Community
   Energy and Greenhouse Gas Inventory
@@ -1060,12 +1020,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer)
-
-</details>
+Unanimous (4-0)
 
 ### 11. Community Energy
   Action Plan - Update and Status
@@ -1075,12 +1030,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer)
-
-</details>
+Unanimous (4-0)
 
 ### 12. Review and Action
   at Selected Garbage Can, Needle Bins and Signage Areas - Downtown London
@@ -1090,12 +1040,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer)
-
-</details>
+Unanimous (4-0)
 
 ### 13. Overnight Parking
   2016 and Beyond
@@ -1105,12 +1050,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer)
-
-</details>
+Unanimous (4-0)
 
 ### 14. Computerized
   Maintenance Management System Acquisition – Esri Canada Limited Cityworks
@@ -1120,12 +1060,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer)
-
-</details>
+Unanimous (4-0)
 
 ### 15. Proposed Changes to
   the Garbage Container Limit
@@ -1133,14 +1068,14 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed**
+  Passed 🔥**
 
 <details>
 <summary>View roll call</summary>
 
-**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer)
+**Yea (3):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer)
 
-**Nay (2):** [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst)
+**Nay (1):** [Michael van Holst](/councillors/current/m-van-holst)
 
 </details>
 
@@ -1160,6 +1095,33 @@ The
 
 </details>
 
+### 15. Proposed Changes to
+  the Garbage Container Limit
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer)
+
+**Nay (1):** [Michael van Holst](/councillors/current/m-van-holst)
+
+</details>
+
+### 15. Proposed Changes to
+  the Garbage Container Limit
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
 ### 16. Flooding Matters
   Work Plan - Phase 1 (Investigation)
 
@@ -1168,12 +1130,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer)
-
-</details>
+Unanimous (4-0)
 
 ### 17. London ON Bikes -
   Draft Cycling Master Plan
@@ -1183,12 +1140,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer)
-
-</details>
+Unanimous (4-0)
 
 ### 18. 6th Report of the
   Cycling Advisory Committee
@@ -1198,12 +1150,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer)
-
-</details>
+Unanimous (4-0)
 
 ### 19. Deferred Matters
   List
@@ -1213,12 +1160,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer)
-
-</details>
+Unanimous (4-0)
 
 ### 20. Request for
   Colouring Pedestrian Crosswalks
@@ -1228,10 +1170,5 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer)
-
-</details>
+Unanimous (4-0)
 

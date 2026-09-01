@@ -397,7 +397,7 @@ The meeting adjourned at 7:50 PM.
 
 ## Votes
 
-*4 substantive votes at this meeting (1 contested, 3 unanimous). Procedural motions excluded.*
+*5 substantive votes at this meeting (2 contested, 3 unanimous). Procedural motions excluded.*
 
 ### 2.1. Mandatory Face Coverings By-law Status Update
 
@@ -405,7 +405,7 @@ The meeting adjourned at 7:50 PM.
 
 **✅ Motion Passed (14 to 0)**
 
-Unanimous (12-0)
+Unanimous (14-0)
 
 ### 3.2. Delegation - Paul Yeoman, Chair and Rosanna Wilcox, Vice Chair, London Middlesex Community Housing Board of Directors - London and Middlesex Community Housing
 
@@ -413,7 +413,7 @@ Unanimous (12-0)
 
 **✅ Motion Passed (15 to 0)**
 
-Unanimous (13-0)
+Unanimous (15-0)
 
 ### 4.1. Governance Functional Review - Housing Development Corporation, London (HDC)
 
@@ -424,9 +424,9 @@ Unanimous (13-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (10):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire)
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire)
 
-**Nay (1):** [Arielle Kayabaga](/councillors/current/a-kayabaga)
+**Nay (3):** [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner), [Arielle Kayabaga](/councillors/current/a-kayabaga)
 
 </details>
 
@@ -436,5 +436,20 @@ Unanimous (13-0)
 
 **✅ Motion Passed (15 to 0)**
 
-Unanimous (13-0)
+Unanimous (15-0)
+
+### 5.1. (ADDED) Protocol London Police Services Business Plan Timelines
+
+> That the communication dated November 17, 2020 from Dr. J. Sukhera, Chair, London Police Services Board and S. Williams, Chief of Police, BE RECEIVED and the protocol therein BE APPROVED.
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (1):** [Jesse Helmer](/councillors/current/j-helmer)
+
+</details>
 

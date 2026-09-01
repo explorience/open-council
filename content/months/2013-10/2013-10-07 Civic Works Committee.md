@@ -612,7 +612,7 @@ The meeting adjourned at 10:09 PM.
 
 ## Votes
 
-*14 substantive votes at this meeting (14 contested, 0 unanimous). Procedural motions excluded.*
+*16 substantive votes at this meeting (7 contested, 9 unanimous). Procedural motions excluded.*
 
 ### 2. Traffic Calming
   Program - 10 Year Annual Plan
@@ -639,12 +639,7 @@ The meeting adjourned at 10:09 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Stephen Orser](/councillors/current/s-orser), [Sandy White](/councillors/current/s-white)
-
-</details>
+Unanimous (6-0)
 
 ### 3. Sidewalk
   Maintenance Program
@@ -671,12 +666,7 @@ The meeting adjourned at 10:09 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Stephen Orser](/councillors/current/s-orser), [Sandy White](/councillors/current/s-white)
-
-</details>
+Unanimous (6-0)
 
 ### 5. Amendments to the
   Traffic and Parking By-law
@@ -686,12 +676,7 @@ The meeting adjourned at 10:09 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Stephen Orser](/councillors/current/s-orser), [Sandy White](/councillors/current/s-white)
-
-</details>
+Unanimous (6-0)
 
 ### 6. Update on Corporate
   Energy Management and Report Requirements
@@ -701,12 +686,7 @@ The meeting adjourned at 10:09 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Stephen Orser](/councillors/current/s-orser), [Sandy White](/councillors/current/s-white)
-
-</details>
+Unanimous (6-0)
 
 ### 7. Transportation
   Infrastructure Gap
@@ -716,12 +696,7 @@ The meeting adjourned at 10:09 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Stephen Orser](/councillors/current/s-orser), [Sandy White](/councillors/current/s-white)
-
-</details>
+Unanimous (6-0)
 
 ### 8. Bus Rapid Transit Strategy
 
@@ -730,12 +705,7 @@ The meeting adjourned at 10:09 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Stephen Orser](/councillors/current/s-orser), [Sandy White](/councillors/current/s-white)
-
-</details>
+Unanimous (6-0)
 
 ### 9. Veterans Memorial
   Parkway Noise Study
@@ -777,14 +747,48 @@ The meeting adjourned at 10:09 PM.
 > Motion   Passed
 
 **✅ Motion
-  Passed**
+  Passed 🔥**
 
 <details>
 <summary>View roll call</summary>
 
-**Yea (12):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white)
+**Yea (4):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Sandy White](/councillors/current/s-white)
 
-**Nay (4):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Stephen Orser](/councillors/current/s-orser), [Stephen Orser](/councillors/current/s-orser), [Stephen Orser](/councillors/current/s-orser)
+**Nay (1):** [Stephen Orser](/councillors/current/s-orser)
+
+</details>
+
+### 11. Removal of Fluoride
+  from London's Drinking Water
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Sandy White](/councillors/current/s-white)
+
+**Nay (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Stephen Orser](/councillors/current/s-orser)
+
+</details>
+
+### 11. Removal of Fluoride
+  from London's Drinking Water
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Sandy White](/councillors/current/s-white)
+
+**Nay (1):** [Stephen Orser](/councillors/current/s-orser)
 
 </details>
 
@@ -796,12 +800,7 @@ The meeting adjourned at 10:09 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [Sandy White](/councillors/current/s-white)
-
-</details>
+Unanimous (5-0)
 
 ### 13. Provincial Minimum
   Maintenance Standards 2013 Update
@@ -811,12 +810,7 @@ The meeting adjourned at 10:09 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [Sandy White](/councillors/current/s-white)
-
-</details>
+Unanimous (5-0)
 
 ### 14. Meadowlily
   Bridge
@@ -826,10 +820,5 @@ The meeting adjourned at 10:09 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [Sandy White](/councillors/current/s-white)
-
-</details>
+Unanimous (5-0)
 

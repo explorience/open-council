@@ -647,7 +647,7 @@ The meeting adjourned at 6:40 PM.
 
 ## Votes
 
-*10 substantive votes at this meeting (1 contested, 9 unanimous). Procedural motions excluded.*
+*5 substantive votes at this meeting (2 contested, 3 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -655,31 +655,7 @@ The meeting adjourned at 6:40 PM.
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
-
-### 3.1. Application - 2701 Hyde Park Road (Z-9152)
-
-> That, on the recommendation of the Director, Development Services, based on the application by Paul and Marie Miszczak, relating to the property located at 2701 Hyde Park Road, the proposed by-law appended to the staff report dated March 9, 2020 BE INTRODUCED at the Municipal Council meeting to b...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (2-0)
-
-### 3.2. 699 Village Green Avenue (Z-9134)
-
-> That, on the recommendation of the Director, Development Services, based on the application by 2193302 Ontario Inc., relating to the property located at 699 Village Green Avenue, the proposed by-law appended to the staff report dated March 9, 2020 BE INTRODUCED at the Municipal Council meeting to...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (2-0)
-
-### 3.3. Residential Boulevard Parking Application - 279 Regent Street (B-9154)
-
-> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application of Neil Shaw, (“the Applicant”) relating to the property located at 279 Regent Street: a) the City Clerk’s Office BE DIRECTED to prepare a Residential Boulevard Parkin...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 3.4. 1674 Hyde Park Road and Part of 1712 Hyde Park Road (Z-9109)
 
@@ -687,7 +663,7 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 3.5. 84-86 St. George and 175-197 Ann Street (OZ-9127)
 
@@ -695,7 +671,7 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 3.5. 84-86 St. George and 175-197 Ann Street (OZ-9127)
 
@@ -706,33 +682,24 @@ Unanimous (2-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (1):** [Jesse Helmer](/councillors/current/j-helmer)
+**Yea (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
 
 **Nay (1):** [Stephen Turner](/councillors/current/s-turner)
 
+**Absent (2):** [Ed Holder](/councillors/current/e-holder), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
 </details>
 
-### 4.1. 2nd Report of the Environmental and Ecological Planning Advisory Committee
+### 6. Adjournment
 
-> That, the following actions be taken with respect to the 2nd Report of the Environmental and Ecological Planning Advisory Committee, from its meeting held on February 20, 2020: a)   the  Kilbourne Road Working Group comments BE FORWARDED to the Civic Administration for consideration; b)  the revi...
+> The meeting adjourned at 6:40 PM.
 
-**✅ Motion Passed (4 to 0)**
+**❌  🔥**
 
-Unanimous (2-0)
+<details>
+<summary>View roll call</summary>
 
-### 4.2. 2nd Report of the Trees and Forests Advisory Committee
+**Absent (2):** [Ed Holder](/councillors/current/e-holder), [Arielle Kayabaga](/councillors/current/a-kayabaga)
 
-> That, the following actions be taken with respect to the 2nd Report of the Trees and Forests Advisory Committee, from its meeting held on February 26, 2020: a)  the following actions be taken with respect to the Education and Outreach sub-committee: i) the Civic Administration BE REQUESTED to imp...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (2-0)
-
-### 5.1. (ADDED) 4th Report of the Advisory Committee on the Environment
-
-> That, the following actions be taken with respect to the 4th Report of the Advisory Committee on the Environment, from its meeting held on March 4, 2020: a)    the following actions be taken with respect to the attached presentations from the Council of Canadians, the Blue Community Project and A...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (2-0)
+</details>
 

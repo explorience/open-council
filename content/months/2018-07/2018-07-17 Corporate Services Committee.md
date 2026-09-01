@@ -382,7 +382,7 @@ The meeting adjourned at 3:09 PM.
 
 ## Votes
 
-*6 substantive votes at this meeting (0 contested, 6 unanimous). Procedural motions excluded.*
+*5 substantive votes at this meeting (0 contested, 5 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -390,7 +390,7 @@ The meeting adjourned at 3:09 PM.
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 2.5. FCM Grant Funding Agreement & RFP 18-23 Award for Corporate Asset Management Plan and Policy
 
@@ -398,15 +398,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
-
-### 2.6. Industrial Land Development Strategy Annual Monitoring and Pricing Report - City-Owned Industrial Land
-
-> That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, on the advice of the Manager of Realty Services with respect to the City of London’s Industrial Land Development Strategy, the following actions be taken with respect to the annua...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 3.1. Tribunal - Development Charge Complaint - 84 Dennis Avenue
 
@@ -414,7 +406,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 3.1. Tribunal - Development Charge Complaint - 84 Dennis Avenue
 
@@ -422,7 +414,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4.1. Confirmation of Appointment to the Community Safety and Crime Prevention Advisory Committee (Requires 1 Non-Voting Representative from Active & Safe Routes to School)
 
@@ -430,5 +422,5 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 

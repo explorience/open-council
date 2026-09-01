@@ -154,7 +154,7 @@ Motion
 
 ## Votes
 
-*4 substantive votes at this meeting (4 contested, 0 unanimous). Procedural motions excluded.*
+*4 substantive votes at this meeting (0 contested, 4 unanimous). Procedural motions excluded.*
 
 ### 2. Additional
   Municipal Act Reporting Requirements Due to Implementation of Tangible
@@ -165,12 +165,7 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Maureen Cassidy](/councillors/current/m-cassidy), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher)
-
-</details>
+Unanimous (4-0)
 
 ### 3. Workplace and
   Community Diversity and Inclusion Update
@@ -180,12 +175,7 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Maureen Cassidy](/councillors/current/m-cassidy), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Jared Zaifman](/councillors/current/j-zaifman)
-
-</details>
+Unanimous (5-0)
 
 ### 4. Outstanding London
   Ambassador Award
@@ -195,12 +185,7 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Maureen Cassidy](/councillors/current/m-cassidy), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Jared Zaifman](/councillors/current/j-zaifman)
-
-</details>
+Unanimous (5-0)
 
 ### 5. ADDED - Anderson
   Craft Ales Ltd. Manufacturer's Limited Liquor Sales Licence Application
@@ -210,10 +195,5 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Maureen Cassidy](/councillors/current/m-cassidy), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Jared Zaifman](/councillors/current/j-zaifman)
-
-</details>
+Unanimous (5-0)
 

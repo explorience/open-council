@@ -446,7 +446,7 @@ The meeting adjourned at 1:17 PM.
 
 ## Votes
 
-*8 substantive votes at this meeting (0 contested, 8 unanimous). Procedural motions excluded.*
+*7 substantive votes at this meeting (1 contested, 6 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -454,15 +454,24 @@ The meeting adjourned at 1:17 PM.
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
-### 2.5. 5th Report of the Community Safety and Crime Prevention Advisory Committee
+### 2.4. Vehicle for Hire By-law  - Industry Consultation
 
-> That the following actions be taken with respect to the 5th Report of the Community Safety and Crime Prevention Advisory Committee, from its meeting held on June 28, 2018: a)            the request for a report and draft by-law to the appropriate standing committee, to provide for the requirement...
+> Motion to approve a public participation meeting with respect to the Vehicle for Hire By-law.
 
-**✅ Motion Passed (5 to 0)**
+**✅ Motion Passed (4 to 1) 🔥**
 
-Unanimous (3-0)
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
+
+**Nay (1):** [Phil Squire](/councillors/current/p-squire)
+
+**Absent (1):** [Matt Brown](/councillors/current/m-brown)
+
+</details>
 
 ### 3.1. By-law Amendments to the Sound By-law, PW-12 and to the Public Nuisance By-law, PH-18, Public Messaging in the Community - Nuisances
 
@@ -470,7 +479,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 4.1. Neighbourhood Equipment Access
 
@@ -478,15 +487,7 @@ Unanimous (2-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
-
-### 4.2. 6th Report of the Accessibility Advisory Committee
-
-> That the following actions be taken with respect to the 6th Report of the Accessibility Advisory Committee, from its meeting held on June 28, 2018: a)            a representative from Parks and Recreation BE REQUESTED to attend a future meeting of the Accessibility Advisory Committee to update th...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 5.1. Middlesex-London Health Unit Office Space Fit-up Funding Request - RESUBMITTED
 
@@ -494,7 +495,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 5.2. Municipal Council Resolution regarding the 5th Report of Accessibility Advisory Committee
 
@@ -502,7 +503,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 5.4. (ADDED) Request from City of Toronto regarding Shelter Spaces for Refugee/Asylum Claimants
 
@@ -510,5 +511,5 @@ Unanimous (2-0)
 
 **✅ Motion Passed (3 to 0)**
 
-Unanimous (1-0)
+Unanimous (3-0)
 

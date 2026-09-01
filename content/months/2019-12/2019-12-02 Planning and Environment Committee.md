@@ -830,7 +830,7 @@ The meeting adjourned at 8:00 PM.
 
 ## Votes
 
-*9 substantive votes at this meeting (0 contested, 9 unanimous). Procedural motions excluded.*
+*5 substantive votes at this meeting (0 contested, 5 unanimous). Procedural motions excluded.*
 
 ### 1.2. Election of Vice Chair for the term ending November 30, 2020
 
@@ -838,7 +838,7 @@ The meeting adjourned at 8:00 PM.
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2. Consent
 
@@ -846,7 +846,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2.4. Delegated Authority for Consent
 
@@ -854,39 +854,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
-
-### 3.1. 448 Oxford Street East (Z-9104)
-
-> That, on the recommendation of the Director, Development Services, based on the application by Dr. Riyad Khamis, relating to the property located at 448 Oxford Street East, the proposed by-law appended to the staff report dated December 2, 2019 BE INTRODUCED at the Municipal Council meeting to be...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 3.3. 21 Norlan Avenue (Z-9111)
-
-> That, on the recommendation of the Managing Director, City Planning and City Planner, based on the application by The Corporation of the City of London, on behalf of Urban Roots London, relating to the property located at 21 Norlan Avenue, the proposed by-law appended to the staff report dated De...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 3.4. 943 Fanshawe Park West and 1800 Aldersbrook Gate (Z-9108)
-
-> That, on the recommendation of the Director, Development Services, based on the application by Loco Holdings Ltd., relating to a portion of the property located at 943 Fanshawe Park Road West and 1800 Aldersbrook Gate, the proposed by-law appended to the staff report dated December 2, 2019 BE INT...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 3.5. 1395 Riverbend Road - Zoning By-law Amendment (Z-9098)
-
-> That, on the recommendation of the Director, Development Services based on the application of EVE Park London GP Inc. relating to the lands located at 1395 Riverbend Road, described as part of Block 1, Plan 33M-743: a) the proposed by-law appended to the staff report dated December 2, 2019 BE INT...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 3.6. 1018 and 1028 Gainsborough Road (Z-9079)
 
@@ -894,7 +862,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 5.1. Deferred Matters List
 
@@ -902,5 +870,5 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 

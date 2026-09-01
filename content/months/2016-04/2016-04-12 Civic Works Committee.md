@@ -394,7 +394,7 @@ The
 
 ## Votes
 
-*8 substantive votes at this meeting (8 contested, 0 unanimous). Procedural motions excluded.*
+*9 substantive votes at this meeting (0 contested, 9 unanimous). Procedural motions excluded.*
 
 ### 2. Purchase of a
   Skalar Continuous Flow Analyser for the Greenway Laboratory
@@ -404,12 +404,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer)
-
-</details>
+Unanimous (4-0)
 
 ### 3. Contract Award:
   Tender 16-27 - Replacement of Sidewalks, Curb and Gutter and Hot Mix Asphalt
@@ -419,12 +414,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer)
-
-</details>
+Unanimous (4-0)
 
 ### 4. Contract Award
   Tender T16-13 - Growth Management Implementation Strategy (GMIS) Campbell
@@ -435,12 +425,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer)
-
-</details>
+Unanimous (4-0)
 
 ### 5. Contract Award: Tender
   No. 16-32 - Arterial Road Rehabilitation Project - Contract No.1
@@ -450,12 +435,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer)
-
-</details>
+Unanimous (4-0)
 
 ### 6. Windermere Road
   Over Stoney Creek Bridge Rehabilitation - Construction Administration of
@@ -466,12 +446,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer)
-
-</details>
+Unanimous (4-0)
 
 ### 7. Contract Award:
   Tender No. 16-21- 2016 Infrastructure Renewal Program Contract 4 - McCormick
@@ -482,12 +457,18 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (4-0)
 
-**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer)
+### 7. Contract Award:
+  Tender No. 16-21- 2016 Infrastructure Renewal Program Contract 4 - McCormick
+  Area Reconstruction
 
-</details>
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
 
 ### 8. Field Marshal
   Wolseley Bridge (Quebec Street) Pedestrian Safety
@@ -497,12 +478,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer)
-
-</details>
+Unanimous (4-0)
 
 ### 9. Deferred Matters
   List
@@ -512,10 +488,5 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer)
-
-</details>
+Unanimous (4-0)
 

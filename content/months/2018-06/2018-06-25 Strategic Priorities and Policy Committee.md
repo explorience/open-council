@@ -1187,7 +1187,7 @@ The meeting adjourned at 10:44 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher)
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
 
 **Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
 
@@ -1199,7 +1199,7 @@ The meeting adjourned at 10:44 PM.
 
 **✅ Motion Passed (14 to 0)**
 
-Unanimous (12-0)
+Unanimous (14-0)
 
 ### 2.3. Free of Fear Services for All Policy
 
@@ -1210,9 +1210,9 @@ Unanimous (12-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (6):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert)
+**Yea (8):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
 
-**Nay (4):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire)
+**Nay (6):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Virginia Ridley](/councillors/current/v-ridley), [Jared Zaifman](/councillors/current/j-zaifman)
 
 **Absent (1):** [Mo Salih](/councillors/current/m-salih)
 
@@ -1227,9 +1227,9 @@ Unanimous (12-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (7):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert)
+**Yea (9):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
 
-**Nay (3):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire)
+**Nay (5):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher)
 
 **Absent (1):** [Mo Salih](/councillors/current/m-salih)
 
@@ -1241,7 +1241,7 @@ Unanimous (12-0)
 
 **✅ Motion Passed (15 to 0)**
 
-Unanimous (13-0)
+Unanimous (15-0)
 
 ### 3.3. London & Middlesex Housing Corporation - 2017 Annual Meeting of the Shareholder Annual Resolutions
 
@@ -1249,7 +1249,7 @@ Unanimous (13-0)
 
 **✅ Motion Passed (14 to 0)**
 
-Unanimous (12-0)
+Unanimous (14-0)
 
 ### 3.3. London & Middlesex Housing Corporation - 2017 Annual Meeting of the Shareholder Annual Resolutions
 
@@ -1257,7 +1257,7 @@ Unanimous (12-0)
 
 **✅ Motion Passed (15 to 0)**
 
-Unanimous (13-0)
+Unanimous (15-0)
 
 ### 3.3. London & Middlesex Housing Corporation - 2017 Annual Meeting of the Shareholder Annual Resolutions
 
@@ -1268,9 +1268,9 @@ Unanimous (13-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley)
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher)
 
-**Nay (3):** [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Phil Squire](/councillors/current/p-squire)
+**Nay (5):** [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Phil Squire](/councillors/current/p-squire), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
 
 </details>
 
@@ -1280,7 +1280,7 @@ Unanimous (13-0)
 
 **✅ Motion Passed (15 to 0)**
 
-Unanimous (13-0)
+Unanimous (15-0)
 
 ### 4.1. 9th Report of the Governance Working Group
 
@@ -1288,7 +1288,7 @@ Unanimous (13-0)
 
 **✅ Motion Passed (13 to 0)**
 
-Unanimous (11-0)
+Unanimous (13-0)
 
 ### 4.1. 9th Report of the Governance Working Group
 
@@ -1296,7 +1296,7 @@ Unanimous (11-0)
 
 **✅ Motion Passed (12 to 0)**
 
-Unanimous (10-0)
+Unanimous (12-0)
 
 ### 4.1. 9th Report of the Governance Working Group
 
@@ -1307,9 +1307,11 @@ Unanimous (10-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert)
+**Yea (5):** [Anna Hopkins](/councillors/current/a-hopkins), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert)
 
-**Nay (6):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
+**Nay (8):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Absent (2):** [Mo Salih](/councillors/current/m-salih), [Jared Zaifman](/councillors/current/j-zaifman)
 
 </details>
 
@@ -1322,9 +1324,11 @@ Unanimous (10-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (6):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong)
+**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher)
 
-**Nay (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Phil Squire](/councillors/current/p-squire), [Paul Hubert](/councillors/current/p-hubert)
+**Nay (5):** [Anna Hopkins](/councillors/current/a-hopkins), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
+
+**Absent (2):** [Mo Salih](/councillors/current/m-salih), [Jared Zaifman](/councillors/current/j-zaifman)
 
 </details>
 
@@ -1334,7 +1338,7 @@ Unanimous (10-0)
 
 **✅ Motion Passed (13 to 0)**
 
-Unanimous (11-0)
+Unanimous (13-0)
 
 ### 4.2. 10th Report of the Governance Working Group
 
@@ -1342,7 +1346,7 @@ Unanimous (11-0)
 
 **✅ Motion Passed (13 to 0)**
 
-Unanimous (11-0)
+Unanimous (13-0)
 
 ### 4.2. 10th Report of the Governance Working Group
 
@@ -1350,7 +1354,7 @@ Unanimous (11-0)
 
 **✅ Motion Passed (12 to 0)**
 
-Unanimous (10-0)
+Unanimous (12-0)
 
 ### 4.3. Review of the Function of the Public Utility Commission of the City of London
 
@@ -1358,5 +1362,5 @@ Unanimous (10-0)
 
 **✅ Motion Passed (14 to 0)**
 
-Unanimous (12-0)
+Unanimous (14-0)
 

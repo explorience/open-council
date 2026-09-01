@@ -337,7 +337,7 @@ Motion
 
 ## Votes
 
-*9 substantive votes at this meeting (9 contested, 0 unanimous). Procedural motions excluded.*
+*10 substantive votes at this meeting (0 contested, 10 unanimous). Procedural motions excluded.*
 
 ### 2. Engaging
   Post-Secondary Students in Local Government
@@ -345,14 +345,9 @@ Motion
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Joe Fontana](/councillors/current/j-f-fontana), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (3-0)
 
 ### 3. Increased
   Engagement of Post-Secondary Students in Local Government - Advisory
@@ -361,14 +356,9 @@ Motion
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Joe Fontana](/councillors/current/j-f-fontana), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (3-0)
 
 ### 4. 2012 Investment
   Report
@@ -378,12 +368,7 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Joe Fontana](/councillors/current/j-f-fontana), [Nancy Branscombe](/councillors/current/n-branscombe), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (4-0)
 
 ### 5. 2012 Annual Report
   - Development Charges Reserve Funds
@@ -391,14 +376,9 @@ Motion
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Joe Fontana](/councillors/current/j-f-fontana), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (3-0)
 
 ### 6. London Health
   Sciences Centre - South Street Campus Decommissioning
@@ -406,14 +386,9 @@ Motion
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Joe Fontana](/councillors/current/j-f-fontana), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (3-0)
 
 ### 7. Canada Caribbean
   Local Economic Development Program
@@ -421,14 +396,9 @@ Motion
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Joe Fontana](/councillors/current/j-f-fontana), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (3-0)
 
 ### 8. City of London -
   Website Modernization Project
@@ -438,12 +408,7 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Joe Fontana](/councillors/current/j-f-fontana), [Nancy Branscombe](/councillors/current/n-branscombe), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (4-0)
 
 ### 9. 1:30 PM Tax
   Adjustment Agenda
@@ -453,12 +418,7 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Nancy Branscombe](/councillors/current/n-branscombe), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (5-0)
 
 ### 10. Appointment to the
   London Advisory Committee on Heritage
@@ -468,10 +428,15 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (5-0)
 
-**Yea (10):** [Joe Fontana](/councillors/current/j-f-fontana), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Nancy Branscombe](/councillors/current/n-branscombe), [Nancy Branscombe](/councillors/current/n-branscombe), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant), [Judy Bryant](/councillors/current/j-p-bryant)
+### 10. Appointment to the
+  London Advisory Committee on Heritage
 
-</details>
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
 

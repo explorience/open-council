@@ -547,7 +547,7 @@ The meeting adjourned at 6:41 PM.
 
 ## Votes
 
-*5 substantive votes at this meeting (1 contested, 4 unanimous). Procedural motions excluded.*
+*6 substantive votes at this meeting (2 contested, 4 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -555,7 +555,7 @@ The meeting adjourned at 6:41 PM.
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 2.4. Landfill Gas (LFG) Utilization – Next Steps in the Development of a Renewable Natural Gas (RNG) Facility
 
@@ -563,7 +563,7 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 2.6. Automated Speed Enforcement Contract Award
 
@@ -571,7 +571,7 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 3.2. Area Speed Limit Program
 
@@ -582,9 +582,11 @@ Unanimous (2-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (1):** [Shawn Lewis](/councillors/current/s-lewis)
+**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Phil Squire](/councillors/current/p-squire)
 
 **Nay (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Absent (2):** [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst)
 
 </details>
 
@@ -594,5 +596,22 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
+
+### 4.1. Parking Changes – Councillor S. Lewis
+
+> Motion to approve that the Civic Administration report back with respect to the potential to repeal the by-law prohibiting homeowners from parking a vehicle in their driveway parallel to the road way.
+
+**❌ Motion Failed (2 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Shawn Lewis](/councillors/current/s-lewis), [Phil Squire](/councillors/current/p-squire)
+
+**Nay (2):** [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Absent (2):** [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst)
+
+</details>
 

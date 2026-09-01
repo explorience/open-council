@@ -866,7 +866,7 @@ The meeting adjourned at 8:34 PM.
 
 ## Votes
 
-*10 substantive votes at this meeting (1 contested, 9 unanimous). Procedural motions excluded.*
+*6 substantive votes at this meeting (1 contested, 5 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -874,39 +874,7 @@ The meeting adjourned at 8:34 PM.
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
-
-### 3.2. Hamilton Road Community Improvement Plan - Performance Measures and Indicators of Success (O-9330)
-
-> That, on the recommendation of the Director, Planning and Development, the proposed by-law appended to the staff report dated November 1, 2021 as Appendix “A” BE INTRODUCED at the Municipal Council meeting to be held on November 16, 2021 to ADD an Appendix that sets out performance measures and i...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.4. 235 Kennington Way (39CD-21514)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Sifton Properties Limited, relating to the property located at 235 Kennington Way: a)    the Approval Authority BE ADVISED that no issues were raised at the pub...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.5. 704-706 Boler Road (39CD-21511)
-
-> That, on the recommendation of the Deputy City Manager, Planning and Economic Development, based on the application by Southside Construction Management Ltd., relating to the property located at 704-706 Boler Road: a)    the Approval Authority BE ADVISED that no issues were raised at the public m...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.6. 512 McCormick Boulevard (Z-9374)
-
-> That, on the recommendation of the Director, Planning and Development, based on the application by Derek Panzer, relating to the property located at 512 McCormick Boulevard, the proposed by-law appended to the staff report dated November 1, 2021 as Appendix "A" BE INTRODUCED at the Municipal Coun...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (2-0)
+Unanimous (5-0)
 
 ### 3.7. 560 & 562 Wellington Street (OZ-8462)
 
@@ -917,7 +885,7 @@ Unanimous (2-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier)
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder)
 
 **Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
 
@@ -929,7 +897,7 @@ Unanimous (2-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4.2. Food Security and Home-Based Food Business
 
@@ -937,7 +905,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4.3. Global Bird Rescue
 
@@ -945,7 +913,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4.3. Global Bird Rescue
 
@@ -953,5 +921,5 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 

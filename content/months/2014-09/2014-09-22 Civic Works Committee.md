@@ -231,7 +231,7 @@ The
 
 ## Votes
 
-*7 substantive votes at this meeting (7 contested, 0 unanimous). Procedural motions excluded.*
+*7 substantive votes at this meeting (0 contested, 7 unanimous). Procedural motions excluded.*
 
 ### 2. 7th Report of the
   Transportation Advisory Committee
@@ -239,14 +239,9 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Harold Usher](/councillors/current/h-l-usher), [Nancy Branscombe](/councillors/current/n-branscombe)
-
-</details>
+Unanimous (2-0)
 
 ### 3. Appointment of
   Consulting Engineer for the Detailed Design of Wickerson No. S-B SWM Facility
@@ -254,14 +249,9 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Harold Usher](/councillors/current/h-l-usher), [Nancy Branscombe](/councillors/current/n-branscombe)
-
-</details>
+Unanimous (2-0)
 
 ### 4. UV Disinfection
   Equipment Parts and Service Single Source
@@ -269,14 +259,9 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Harold Usher](/councillors/current/h-l-usher), [Nancy Branscombe](/councillors/current/n-branscombe)
-
-</details>
+Unanimous (2-0)
 
 ### 5. Active Transportation
   (AT) and Transportation Demand Management (TDM) - Status Report and the Next
@@ -285,14 +270,9 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Harold Usher](/councillors/current/h-l-usher), [Nancy Branscombe](/councillors/current/n-branscombe)
-
-</details>
+Unanimous (2-0)
 
 ### 7. Optimization of
   London Wastewater Treatment Plants – A Strategy and Road Map
@@ -300,14 +280,9 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/current/h-l-usher), [Nancy Branscombe](/councillors/current/n-branscombe)
-
-</details>
+Unanimous (3-0)
 
 ### 8. 3rd Report of the
   Cycling Advisory Committee
@@ -315,14 +290,9 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/current/h-l-usher), [Nancy Branscombe](/councillors/current/n-branscombe)
-
-</details>
+Unanimous (3-0)
 
 ### 9. Update on Rainfall
   Event on September 10, 2014
@@ -330,12 +300,7 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/current/h-l-usher), [Nancy Branscombe](/councillors/current/n-branscombe)
-
-</details>
+Unanimous (3-0)
 

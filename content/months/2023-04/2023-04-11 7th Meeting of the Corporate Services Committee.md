@@ -482,18 +482,18 @@ The meeting adjourned at 12:40 PM.
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2.8. Members of Council Proof of COVID-19 Vaccination Policy
 
 > That on the recommendation of the City Clerk, the by-law as appended to the staff report dated April 11, 2023 as Appendix “A” BE INTRODUCED at the Municipal Council meeting to be held on April 25, 2023 to repeal By-law No. CPOL.-407-321, and any amendments thereto, being “A by-law to adopt Member...
 
-**✅ Motion Passed (5 to 1) 🔥**
+**✅ Motion Passed (5 to 1)**
 
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis)
+**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Susan Stevenson](/councillors/current/s-stevenson), [David Ferreira](/councillors/current/d-ferreira)
 
 **Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
 
@@ -505,7 +505,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 4. Items for Direction
 
@@ -513,7 +513,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 4.5. Board of Directors - Federation of Canadian Municipalities (FCM)
 
@@ -521,5 +521,5 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 

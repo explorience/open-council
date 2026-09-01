@@ -416,7 +416,7 @@ The meeting adjourned at 3:00 PM.
 
 ## Votes
 
-*3 substantive votes at this meeting (1 contested, 2 unanimous). Procedural motions excluded.*
+*3 substantive votes at this meeting (2 contested, 1 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -425,6 +425,23 @@ The meeting adjourned at 3:00 PM.
 **✅ Motion Passed (5 to 0)**
 
 Unanimous (5-0)
+
+### 3.1. Blackfriars Bridge - Long Term Use
+
+> Motion to open the public participation meeting.
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Nay (1):** [Peter Cuddy](/councillors/current/p-cuddy)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
 
 ### 3.1. Blackfriars Bridge - Long Term Use
 
@@ -442,12 +459,4 @@ Unanimous (5-0)
 **Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
 
 </details>
-
-### 4.1. Core Area Parking Initiatives
-
-> That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to the staff report dated June 13, 2023, related to the Core Area Parking Initiatives: a)    the Civic Administration BE DIRECTED to bring forward a business case...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
 

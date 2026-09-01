@@ -679,7 +679,7 @@ The meeting adjourned at 7:01 PM.
 
 ## Votes
 
-*9 substantive votes at this meeting (1 contested, 8 unanimous). Procedural motions excluded.*
+*5 substantive votes at this meeting (1 contested, 4 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -687,31 +687,7 @@ The meeting adjourned at 7:01 PM.
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
-
-### 3.1. Public Participation Meeting - Not to be heard before 4:00 PM - Application - 555 Wellington Road (Z-8990)
-
-> That, on the recommendation of the Director, Development Services, based on the application by Werger Realty Limited, relating to the property located at 555 Wellington Road, the proposed by-law appended to the staff report dated March 18, 2019 BE INTRODUCED at the Municipal Council meeting to be...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.2. Public Participation Meeting - Not to be heard before 4:00 PM - Request to Repeal Heritage Designating By-law No. L.S.P - 3227-417 - 429 William Street
-
-> That, on the recommendation of the Managing Director, Planning and City Planner, with the advice of the Heritage Planner, the request to repeal  heritage designating By-law No. L.S.P.-3227-417 for the property locaated at 429 William Street BE REFUSED and that notice of this decision BE GIVEN to ...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.3. Public Participation Meeting - Not to heard before 4:00 PM - Demolition Request for Heritage Listed Property - 1588 Clarke Road
-
-> That, on the recommendation of the Heritage Planner, Development Services, the following actions be taken with respect to the request for the demolition of the barn on the heritage listed property located at 1588 Clarke Road: a)    the Chief Building Official BE ADVISED that the Municipal Council...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 3.3. Public Participation Meeting - Not to heard before 4:00 PM - Demolition Request for Heritage Listed Property - 1588 Clarke Road
 
@@ -722,7 +698,7 @@ Unanimous (3-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/current/m-cassidy)
+**Yea (4):** [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner)
 
 **Nay (1):** [Jesse Helmer](/councillors/current/j-helmer)
 
@@ -730,21 +706,13 @@ Unanimous (3-0)
 
 </details>
 
-### 4.1. 2nd Report of the Environmental and Ecological Planning Advisory Committee
-
-> That the following actions be taken with respect to the 2nd Report of the Environmental and Ecological Planning Advisory Committee from its meeting held on February 21, 2019: a)   the Civic Administration BE ADVISED that the Environmental and Ecological Planning Advisory Committee (EEPAC) agrees,...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
 ### 5.1. Deferred Matters List
 
 > That the Managing Director, Planning and City Planner and the Managing Director, Development and Compliance Services & Chief Building Official BE DIRECTED to update the Deferred Matters List to remove any items that have been addressed by the Civic Administration.
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 5.2. (ADDED) 4th Report of the London Advisory Committee on Heritage
 
@@ -752,7 +720,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 5.3. (ADDED)  195 Dundas Street
 
@@ -760,5 +728,5 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 

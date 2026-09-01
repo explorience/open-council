@@ -339,7 +339,7 @@ The meeting adjourned at 4:55 PM.
 
 ## Votes
 
-*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -347,7 +347,7 @@ The meeting adjourned at 4:55 PM.
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 3.1. 9th Report of the Accessibility Advisory Committee
 
@@ -355,13 +355,5 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
-
-### 3.2. 7th Report of the Community Safety and Crime Prevention Advisory Committee
-
-> That the following actions be taken with respect to the 7th Report of the Community Safety and Crime Prevention Advisory Committee, from its meeting held on October 25, 2018: a)            the following actions be taken with respect to Informed Response: i)             M. Hayward, City Manager, o...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (2-0)
+Unanimous (4-0)
 

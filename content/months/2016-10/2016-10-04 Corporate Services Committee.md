@@ -74,7 +74,7 @@ The Corporate Services Committee convened
 
 ## Votes
 
-*2 substantive votes at this meeting (2 contested, 0 unanimous). Procedural motions excluded.*
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
 
 ### 2. COUNCIL MEMBER
   SUBMISSION - Recording of In Closed Session Meetings
@@ -82,14 +82,9 @@ The Corporate Services Committee convened
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Harold Usher](/councillors/current/h-l-usher)
-
-</details>
+Unanimous (3-0)
 
 ### 3. Corporate Services
   Committee Deferred Matters List
@@ -97,12 +92,7 @@ The Corporate Services Committee convened
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Harold Usher](/councillors/current/h-l-usher)
-
-</details>
+Unanimous (3-0)
 

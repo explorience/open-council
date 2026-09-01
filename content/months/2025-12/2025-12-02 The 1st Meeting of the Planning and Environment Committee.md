@@ -1036,130 +1036,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 5:05 PM.
 
 ****
-
----
-
-## Votes
-
-*13 substantive votes at this meeting (2 contested, 11 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 and 2.2, BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 2.3. 455 Highbury Avenue North - OZ-9739
-
-> That the motion BE AMENDED to include a new part that reads as follows: That the Civic Administration BE DIRECTED to report back on the possible removal of the Tree Protection area.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 2.3. 455 Highbury Avenue North - OZ-9739
-
-> That the motion, as amended, BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 2.3. 455 Highbury Avenue North - OZ-9739
-
-> That the delegation request from D. Hannam, Zelinka Priamo Ltd. and T. Pearson, Malleum Partner, as appended to the Agenda, BE APPROVED to be heard at this time.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.1. 8th Report of the Community Advisory Committee on Planning
-
-> That the 8th Report of the Community Advisory Committee on Planning, from its meeting held on November 20, 2025, was received;     it being noted that the verbal delegation from J. M. Metrailler, Chair, Community Advisory Committee on Planning, with respect to this matter, was received.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.2. 63 Byron Avenue East, Wortley Village – Old South Heritage  Conservation District - HAP25-084-L
-
-> That, on the recommendation of the Director, Planning and Development, with respect to the application by the Owners, K. Ojukwu & P. Doelman, under Section 42 of the Ontario Heritage Act seeking approval for the demolition of the existing building and approval for a new building using salvaged ma...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 3.3. 99 Oakside Street - OZ-25111
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 2385868 Ontario Inc. c/o Siv-ik Planning & Design Inc. related to the property located at 99 Oakside Street: a)    the proposed by-law as append the staff repor...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 3.4. Public Participation Meeting - Not to be heard before 1:00 PM - 318 Piccadilly Street - Z-25121
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of London Bridge Child Care Services Inc. (c/o Harrison Pensa LLP) relating to the property located at 318 Piccadilly Street, the proposed by-law as appended to th...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.5. Public Participation Meeting - Not to be heard before 1:00 PM - 1164-1170 Richmond Street - OZ-25117
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Kap Holdings Inc. (c/o Zelinka Priamo Ltd.) relating to the property located at 1164-1170 Richmond Street: a)    the request to amend The London Plan by ADDING ...
-
-**✅ Motion Passed (4 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
-
-</details>
-
-### 3.6. Public Participation Meeting - Not to be heard before 1:00 PM - 870 Jalna Boulevard - Z-25123
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Odell Jalna Residences of London (c/o City Planning Solutions) relating to the property located at 870 Jalna Boulevard: a)    the proposed by-law as appended to...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.7. Public Participation Meeting - Not to be heard before 1:00 PM - 129 Meadowlily Road South - OZ-25118
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Damas Development Inc. & CHAM Ltd. (c/o Zelinka Primo Ltd.) relating to the property located at 129 Meadowlily Road South: a)    the request to amend The Offici...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.8. Public Participation Meeting - Not to be heard before 1:15 PM - Official Plan Review: Final Urban Growth Boundary Review - O-9595
-
-> That Schedule 1 to Appendix “A” of the proposed by-law as appended to the staff report dated December 2, 2025, to adopt the Urban Growth Boundary for The London Plan as part of the Section 26 Official Plan Review, BE AMENDED as follows: i.    Schedule 1 to Appendix "A" – Northwest Urban Growth Bo...
-
-**✅ Motion Passed (4 to 2) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (2):** [Josh Morgan](/councillors/current/j-morgan), [Steve Lehman](/councillors/current/s-lehman)
-
-</details>
-
-### 3.8. Public Participation Meeting - Not to be heard before 1:15 PM - Official Plan Review: Final Urban Growth Boundary Review - O-9595
-
-> That the motion, as amended, BE APPROVED.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
 ---
 
 ## Full Transcript
@@ -2204,3 +2080,104 @@ Deputy Mayor, can you report out, please? I am happy chair to report out that we
 Councillor Stevenson, seconded by Deputy Mayor Lewis. Call the vote. Motion carries. We are adjourned, thanks.
 
 </details>
+
+---
+
+## Votes
+
+*10 substantive votes at this meeting (2 contested, 8 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 and 2.2, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.3. 455 Highbury Avenue North - OZ-9739
+
+> That the motion BE AMENDED to include a new part that reads as follows: That the Civic Administration BE DIRECTED to report back on the possible removal of the Tree Protection area.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.3. 455 Highbury Avenue North - OZ-9739
+
+> That the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.3. 455 Highbury Avenue North - OZ-9739
+
+> That the delegation request from D. Hannam, Zelinka Priamo Ltd. and T. Pearson, Malleum Partner, as appended to the Agenda, BE APPROVED to be heard at this time.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.1. 8th Report of the Community Advisory Committee on Planning
+
+> That the 8th Report of the Community Advisory Committee on Planning, from its meeting held on November 20, 2025, was received;     it being noted that the verbal delegation from J. M. Metrailler, Chair, Community Advisory Committee on Planning, with respect to this matter, was received.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.2. 63 Byron Avenue East, Wortley Village – Old South Heritage  Conservation District - HAP25-084-L
+
+> That, on the recommendation of the Director, Planning and Development, with respect to the application by the Owners, K. Ojukwu & P. Doelman, under Section 42 of the Ontario Heritage Act seeking approval for the demolition of the existing building and approval for a new building using salvaged ma...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 3.5. Public Participation Meeting - Not to be heard before 1:00 PM - 1164-1170 Richmond Street - OZ-25117
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Kap Holdings Inc. (c/o Zelinka Priamo Ltd.) relating to the property located at 1164-1170 Richmond Street: a)    the request to amend The London Plan by ADDING ...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
+
+### 3.7. Public Participation Meeting - Not to be heard before 1:00 PM - 129 Meadowlily Road South - OZ-25118
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Damas Development Inc. & CHAM Ltd. (c/o Zelinka Primo Ltd.) relating to the property located at 129 Meadowlily Road South: a)    the request to amend The Offici...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.8. Public Participation Meeting - Not to be heard before 1:15 PM - Official Plan Review: Final Urban Growth Boundary Review - O-9595
+
+> That Schedule 1 to Appendix “A” of the proposed by-law as appended to the staff report dated December 2, 2025, to adopt the Urban Growth Boundary for The London Plan as part of the Section 26 Official Plan Review, BE AMENDED as follows: i.    Schedule 1 to Appendix "A" – Northwest Urban Growth Bo...
+
+**✅ Motion Passed (4 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Josh Morgan](/councillors/current/j-morgan), [Steve Lehman](/councillors/current/s-lehman)
+
+</details>
+
+### 3.8. Public Participation Meeting - Not to be heard before 1:15 PM - Official Plan Review: Final Urban Growth Boundary Review - O-9595
+
+> That the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+

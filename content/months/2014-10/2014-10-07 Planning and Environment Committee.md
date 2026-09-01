@@ -1291,7 +1291,7 @@ Recommendation:  That, on the
 
 ## Votes
 
-*21 substantive votes at this meeting (21 contested, 0 unanimous). Procedural motions excluded.*
+*35 substantive votes at this meeting (2 contested, 33 unanimous). Procedural motions excluded.*
 
 ### 2. 9th Report of the
   Environmental and Ecological Planning Advisory Committee
@@ -1301,12 +1301,7 @@ Recommendation:  That, on the
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Paul Hubert](/councillors/current/p-hubert), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
-
-</details>
+Unanimous (4-0)
 
 ### 3. 4th Report of the
   Agricultural Advisory Committee
@@ -1316,12 +1311,7 @@ Recommendation:  That, on the
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Paul Hubert](/councillors/current/p-hubert), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
-
-</details>
+Unanimous (4-0)
 
 ### 4. 7th Report of the
   Trees and Forests Advisory Committee
@@ -1331,12 +1321,7 @@ Recommendation:  That, on the
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Paul Hubert](/councillors/current/p-hubert), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
-
-</details>
+Unanimous (4-0)
 
 ### 5. A Statistical
   Portrait of London - Community & Neighbourhood Profiles
@@ -1346,12 +1331,7 @@ Recommendation:  That, on the
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Paul Hubert](/councillors/current/p-hubert), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
-
-</details>
+Unanimous (4-0)
 
 ### 6. Properties located
   at 51 and 99 Exeter Road (OZ-8324)
@@ -1378,12 +1358,7 @@ Recommendation:  That, on the
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Paul Hubert](/councillors/current/p-hubert), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
-
-</details>
+Unanimous (4-0)
 
 ### 8. Properties located
   at 3718, 3766 and 3812 Dingman Drive and 437 Exeter Road (39T-06504)
@@ -1393,12 +1368,7 @@ Recommendation:  That, on the
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Paul Hubert](/councillors/current/p-hubert), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
-
-</details>
+Unanimous (4-0)
 
 ### 9. Properties located
   at 55 and 60 Chalkstone Drive (39T-06508)
@@ -1408,12 +1378,7 @@ Recommendation:  That, on the
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Paul Hubert](/councillors/current/p-hubert), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
-
-</details>
+Unanimous (4-0)
 
 ### 10. Properties located
   at 3854 Dingman Drive and 4112-4432 White Oak Road - Request for Extension of
@@ -1424,12 +1389,7 @@ Recommendation:  That, on the
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Paul Hubert](/councillors/current/p-hubert), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
-
-</details>
+Unanimous (4-0)
 
 ### 11. Parking Section
   4.19 of the Z.-1 By-law and the Site Plan Control Area By-law (Z-8331)
@@ -1439,12 +1399,7 @@ Recommendation:  That, on the
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Paul Hubert](/councillors/current/p-hubert), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
-
-</details>
+Unanimous (4-0)
 
 ### 11. Parking Section
   4.19 of the Z.-1 By-law and the Site Plan Control Area By-law (Z-8331)
@@ -1454,12 +1409,17 @@ Recommendation:  That, on the
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (4-0)
 
-**Yea (8):** [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white)
+### 11. Parking Section
+  4.19 of the Z.-1 By-law and the Site Plan Control Area By-law (Z-8331)
 
-</details>
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
 
 ### 12. Old Victoria
   Hospital Lands Zoning Study (Z-8344)
@@ -1469,12 +1429,27 @@ Recommendation:  That, on the
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (4-0)
 
-**Yea (12):** [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white)
+### 12. Old Victoria
+  Hospital Lands Zoning Study (Z-8344)
 
-</details>
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
+### 12. Old Victoria
+  Hospital Lands Zoning Study (Z-8344)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
 
 ### 13. Property located at
   946 Longworth Road (Z-8293)
@@ -1484,12 +1459,7 @@ Recommendation:  That, on the
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Paul Hubert](/councillors/current/p-hubert), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
-
-</details>
+Unanimous (4-0)
 
 ### 13. Property located at
   946 Longworth Road (Z-8293)
@@ -1499,12 +1469,17 @@ Recommendation:  That, on the
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (4-0)
 
-**Yea (8):** [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white)
+### 13. Property located at
+  946 Longworth Road (Z-8293)
 
-</details>
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
 
 ### 14. Properties located
   at 1643, 1649 and 1653 Richmond Street (OZ-8310)
@@ -1513,12 +1488,7 @@ Recommendation:  That, on the
 
 **✅ Motion Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (8):** [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white)
-
-</details>
+Unanimous (4-0)
 
 ### 14. Properties located
   at 1643, 1649 and 1653 Richmond Street (OZ-8310)
@@ -1528,12 +1498,46 @@ Recommendation:  That, on the
 **✅ Motion
     Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (5-0)
 
-**Yea (20):** [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white)
+### 14. Properties located
+  at 1643, 1649 and 1653 Richmond Street (OZ-8310)
 
-</details>
+> Motion     Passed
+
+**✅ Motion
+    Passed**
+
+Unanimous (5-0)
+
+### 14. Properties located
+  at 1643, 1649 and 1653 Richmond Street (OZ-8310)
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (4-0)
+
+### 14. Properties located
+  at 1643, 1649 and 1653 Richmond Street (OZ-8310)
+
+> Motion     Passed
+
+**✅ Motion
+    Passed**
+
+Unanimous (5-0)
+
+### 14. Properties located
+  at 1643, 1649 and 1653 Richmond Street (OZ-8310)
+
+> Motion     Passed
+
+**✅ Motion
+    Passed**
+
+Unanimous (5-0)
 
 ### 15. Property located at
   175 Fanshawe Park Road West (Z-8397)
@@ -1543,12 +1547,17 @@ Recommendation:  That, on the
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (4-0)
 
-**Yea (9):** [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white)
+### 15. Property located at
+  175 Fanshawe Park Road West (Z-8397)
 
-</details>
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
 
 ### 16. Property located at
   7 Annadale Drive (Z-8334)
@@ -1558,12 +1567,27 @@ Recommendation:  That, on the
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (4-0)
 
-**Yea (12):** [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white)
+### 16. Property located at
+  7 Annadale Drive (Z-8334)
 
-</details>
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
+### 16. Property located at
+  7 Annadale Drive (Z-8334)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
 
 ### 17. Property Located at
   50 King Street (Z-8372)
@@ -1572,10 +1596,19 @@ Recommendation:  That, on the
 
 **✅ Motion Passed**
 
+Unanimous (4-0)
+
+### 17. Property Located at
+  50 King Street (Z-8372)
+
+> Motion Passed
+
+**✅ Motion Passed 🔥**
+
 <details>
 <summary>View roll call</summary>
 
-**Yea (7):** [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white)
+**Yea (3):** [Paul Hubert](/councillors/current/p-hubert), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
 
 **Nay (1):** [Dale Henderson](/councillors/current/d-g-henderson)
 
@@ -1588,12 +1621,25 @@ Recommendation:  That, on the
 
 **✅ Motion Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (3-0)
 
-**Yea (9):** [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white), [Sandy White](/councillors/current/s-white)
+### 18. Properties located
+  at 510 Central Avenue and 609 William Street (Z-8141)
 
-</details>
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (3-0)
+
+### 18. Properties located
+  at 510 Central Avenue and 609 William Street (Z-8141)
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (3-0)
 
 ### 19. Bonusing
   Regulations
@@ -1603,10 +1649,5 @@ Recommendation:  That, on the
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Paul Hubert](/councillors/current/p-hubert), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
-
-</details>
+Unanimous (4-0)
 

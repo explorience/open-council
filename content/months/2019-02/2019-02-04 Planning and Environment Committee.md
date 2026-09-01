@@ -274,7 +274,7 @@ The meeting adjourned at 5:12 PM.
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 3.2. Public Participation Meeting - Application - 440 Clarke Road (Z-8975/O-8989)
 
@@ -282,7 +282,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4.1. L .Kirkness, Kirkness Consulting Inc - Request for Delegation Status - 894 Adelaide Street North
 
@@ -293,7 +293,9 @@ Unanimous (3-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (1):** [Anna Hopkins](/councillors/current/a-hopkins)
+**Yea (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner)
+
+**Nay (2):** [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire)
 
 **Absent (1):** [Ed Holder](/councillors/current/e-holder)
 
@@ -308,7 +310,9 @@ Unanimous (3-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (1):** [Anna Hopkins](/councillors/current/a-hopkins)
+**Yea (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner)
+
+**Nay (2):** [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire)
 
 **Absent (1):** [Ed Holder](/councillors/current/e-holder)
 

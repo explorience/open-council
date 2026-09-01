@@ -316,7 +316,7 @@ Recommendation: That it BE NOTED that Councillor
 
 ## Votes
 
-*7 substantive votes at this meeting (7 contested, 0 unanimous). Procedural motions excluded.*
+*11 substantive votes at this meeting (0 contested, 11 unanimous). Procedural motions excluded.*
 
 ### 2. Annual Report -
   Risk Management Services
@@ -326,12 +326,7 @@ Recommendation: That it BE NOTED that Councillor
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (4-0)
 
 ### 3. Pre-Authorized Tax
   Payment Plan By-law and Collection of Property Taxes By-law
@@ -341,12 +336,7 @@ Recommendation: That it BE NOTED that Councillor
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (4-0)
 
 ### 5. Lorne Avenue Public
   School - Verbal
@@ -356,12 +346,7 @@ Recommendation: That it BE NOTED that Councillor
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (4-0)
 
 ### 6. Apportionment of
   Taxes
@@ -371,12 +356,27 @@ Recommendation: That it BE NOTED that Councillor
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (4-0)
 
-**Yea (12):** [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant), [Judy Bryant](/councillors/current/j-p-bryant), [Judy Bryant](/councillors/current/j-p-bryant)
+### 6. Apportionment of
+  Taxes
 
-</details>
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
+### 6. Apportionment of
+  Taxes
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
 
 ### 7. Tax Adjustment Applications
 
@@ -385,12 +385,25 @@ Recommendation: That it BE NOTED that Councillor
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (4-0)
 
-**Yea (12):** [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant), [Judy Bryant](/councillors/current/j-p-bryant), [Judy Bryant](/councillors/current/j-p-bryant)
+### 7. Tax Adjustment Applications
 
-</details>
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
+### 7. Tax Adjustment Applications
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
 
 ### 8. Appointments to the
   Animal Welfare Advisory Committee
@@ -400,12 +413,7 @@ Recommendation: That it BE NOTED that Councillor
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (4-0)
 
 ### 9. Appointment to the
   Community Safety and Crime Prevention Advisory Committee
@@ -415,10 +423,5 @@ Recommendation: That it BE NOTED that Councillor
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (4-0)
 

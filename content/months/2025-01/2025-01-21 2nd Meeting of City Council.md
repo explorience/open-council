@@ -1560,77 +1560,6 @@ The meeting adjourned at 2:51 PM.
 > **Bill No. 72**
 > 
 > By-law No. A.-8575-56 - A by-law to authorize and approve a Settlement Agreement between The Corporation of the City of London and White Oaks Shopping Centre Inc. for the property rights expropriated from 1105 Wellington Road, in the City of London, for the Wellington Gateway Project, and to authorize the Mayor and the City Clerk to execute the Agreement. (6.1/2/ICSC)
-
----
-
-## Votes
-
-*7 substantive votes at this meeting (1 contested, 6 unanimous). Procedural motions excluded.*
-
-### 6.1. Council Resourcing Review Task Force Memo - City Clerk
-
-> That on the recommendation of the City Clerk, the following actions be taken with respect to the 2025 Council Resourcing Review Task Force; a) the following individuals BE APPOINTED to the Council Resourcing Review Task Force: i)   Dane Ferry;  ii)  Mariam Hamou;  iii) Martin Horak;  iv) Jennifer...
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 8.1. 2nd Report of the Infrastructure and Corporate Services Committee
-
-> That the 2nd Report of the Infrastructure and Corporate Services Committee BE APPROVED with the exception of item 11 (2.6)
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 8.1.11. (2.6) Contract Award: Tender No. RFT-2024-315 - East London Link and Municipal Infrastructure Improvements - Phase 4 - Oxford Street East (Relates to Bill No. 52)
-
-> That on the recommendation of the Deputy City Manager, Environment & Infrastructure, the following actions be taken with respect to the East London Link and Municipal Infrastructure Improvements Phase 4 project;    a)    the following actions BE TAKEN with respect to the award of the contract for...
-
-**✅ Motion Passed (12 to 0)**
-
-Unanimous (12-0)
-
-### 8.2. 2nd Report of the Community and Protective Services Committee
-
-> That the 2nd Report of the Community and Protective Services Committee BE APPROVED
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 8.3. 2nd Report of the Strategic Priorities and Policy Committee
-
-> That the 2nd Report of the Strategic Priorities and Policy Committee BE APPROVED with the exception of item 5 (4.1)
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 8.4. 2nd Report of the Planning and Environment Committee
-
-> That the 2nd Report of the Planning and Environment Committee BE APPROVED
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 11. Enquiries
-
-> That pursuant to section 18.4 of the Council Procedure By-law, leave BE GRANTED to permit Councillor S. Trosow to move a motion related to the City of London's warming centres.
-
-**❌ Motion Failed (7 to 7) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (7):** [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (7):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-**Absent (1):** [Susan Stevenson](/councillors/current/s-stevenson)
-
-</details>
 ---
 
 ## Full Transcript
@@ -1945,3 +1874,177 @@ I'll look for someone to move a motion to adjourn. Moved by Councillor van Mirbe
 All right, thank you, we are adjourned. Appreciate your time today.
 
 </details>
+
+---
+
+## Votes
+
+*13 substantive votes at this meeting (7 contested, 6 unanimous). Procedural motions excluded.*
+
+### 6. Communications and Petitions
+
+> That the following communication BE RECEIVED, and BE REFERRED as noted on the Added Agenda: 6.2   430 First Street (Z-9809)   1.     A. Johnson At 2:07 PM, Councillor S. Trosow enters the meeting.
+
+**✅ Motion Passed (12 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+**Absent (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Skylar Franke](/councillors/current/s-franke)
+
+</details>
+
+### 6.1. Council Resourcing Review Task Force Memo - City Clerk
+
+> That on the recommendation of the City Clerk, the following actions be taken with respect to the 2025 Council Resourcing Review Task Force; a) the following individuals BE APPOINTED to the Council Resourcing Review Task Force: i)   Dane Ferry;  ii)  Mariam Hamou;  iii) Martin Horak;  iv) Jennifer...
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 8.1. 2nd Report of the Infrastructure and Corporate Services Committee
+
+> That the 2nd Report of the Infrastructure and Corporate Services Committee BE APPROVED with the exception of item 11 (2.6)
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 8.1.11. (2.6) Contract Award: Tender No. RFT-2024-315 - East London Link and Municipal Infrastructure Improvements - Phase 4 - Oxford Street East (Relates to Bill No. 52)
+
+> That on the recommendation of the Deputy City Manager, Environment & Infrastructure, the following actions be taken with respect to the East London Link and Municipal Infrastructure Improvements Phase 4 project;    a)    the following actions BE TAKEN with respect to the award of the contract for...
+
+**✅ Motion Passed (12 to 0)**
+
+Unanimous (12-0)
+
+### 8.2. 2nd Report of the Community and Protective Services Committee
+
+> That the 2nd Report of the Community and Protective Services Committee BE APPROVED
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 8.3. 2nd Report of the Strategic Priorities and Policy Committee
+
+> That the 2nd Report of the Strategic Priorities and Policy Committee BE APPROVED with the exception of item 5 (4.1)
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 8.3.5. (4.1) 1st Report of the Integrated Transportation Community Advisory Committee
+
+> That the 1st Report of the Integrated Transportation Communication Advisory Committee from its meeting held on December 18, 2024 BE RECEIVED and NO FURTHER ACTION BE TAKEN; it being noted that the Strategic Priorities and Policy Committee heard a verbal delegation from R. Buchal, Member, Integrat...
+
+**✅ Motion Passed (11 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Skylar Franke](/councillors/current/s-franke)
+
+</details>
+
+### 8.4. 2nd Report of the Planning and Environment Committee
+
+> That the 2nd Report of the Planning and Environment Committee BE APPROVED
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 9.1. 2nd Report of Council in Closed Session
+
+> That the 2nd Report of the Council, In Closed Session BE APPROVED. At 2:28 PM, Councillor S. Franke enters the meeting.
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
+
+### 11. Enquiries
+
+> That pursuant to section 18.4 of the Council Procedure By-law, leave BE GRANTED to permit Councillor S. Trosow to move a motion related to the City of London's warming centres.
+
+**❌ Motion Failed (7 to 7) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (7):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
+
+### 13. By-laws
+
+> That Introduction and First Reading of Bill No.’s 61, 64, 65, and Added Bill No. 72 BE APPROVED.
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
+
+### 13. By-laws
+
+> That Second Reading of Bill No.’s 61, 64, 65, and Added Bill No. 72 BE APPROVED.
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
+
+### 13. By-laws
+
+> That Third Reading and Enactment of Bill No.’s 61, 64, 65, and Added Bill No. 72 BE APPROVED.
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
+

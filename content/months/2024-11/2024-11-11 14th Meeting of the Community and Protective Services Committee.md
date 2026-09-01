@@ -293,59 +293,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 3:25 PM.
 
 ****
-
----
-
-## Votes
-
-*5 substantive votes at this meeting (1 contested, 4 unanimous). Procedural motions excluded.*
-
-### 2.1. 2024 Annual Emergency Management Program Update
-
-> That, on the recommendation of the Deputy City Manager, Enterprise Supports the following actions be taken with respect to the staff report, dated November 11, 2024, related to the 2024 Annual Emergency Management Program Update: a)    the proposed by-law, as appended to the above-noted staff rep...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 2.2. Property Standards Related Demolition
-
-> That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the proposed by-law, as appended to the staff report dated November 11, 2024, BE INTRODUCED at the Municipal Council meeting to be held on November 26, 2024 to approve the potential demolition of the vacant...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 2.3. Parks and Recreation Master Plan Update
-
-> That part ix) of the motion be amended to read as follows:  ix)       the confirmation of provision targets and service standards for pickleball, cricket, community gardens, dog parks, community gathering spaces, public washrooms, and the provision of potable water;
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 2.3. Parks and Recreation Master Plan Update
-
-> That the motion, as amended, BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.1. Special Events Policy Review Public Participation Meeting Report
-
-> That the Civic Administration BE DIRECTED to prohibit amplified sound after 11:00 PM in the Special Event Policy being brought forward for consideration at the December 2, 2024, meeting of the Community and Protective Services Committee and that in the event of exceptional circumstances, the Depu...
-
-**❌ Motion Failed (2 to 3) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-</details>
 ---
 
 ## Full Transcript
@@ -854,3 +801,49 @@ We'll do this by hand. All in favor for adjournment. All those opposed, motion c
 Thank you.
 
 </details>
+
+---
+
+## Votes
+
+*4 substantive votes at this meeting (1 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2.2. Property Standards Related Demolition
+
+> That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the proposed by-law, as appended to the staff report dated November 11, 2024, BE INTRODUCED at the Municipal Council meeting to be held on November 26, 2024 to approve the potential demolition of the vacant...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.3. Parks and Recreation Master Plan Update
+
+> That part ix) of the motion be amended to read as follows:  ix)       the confirmation of provision targets and service standards for pickleball, cricket, community gardens, dog parks, community gathering spaces, public washrooms, and the provision of potable water;
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.3. Parks and Recreation Master Plan Update
+
+> That the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.1. Special Events Policy Review Public Participation Meeting Report
+
+> That the Civic Administration BE DIRECTED to prohibit amplified sound after 11:00 PM in the Special Event Policy being brought forward for consideration at the December 2, 2024, meeting of the Community and Protective Services Committee and that in the event of exceptional circumstances, the Depu...
+
+**❌ Motion Failed (2 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+

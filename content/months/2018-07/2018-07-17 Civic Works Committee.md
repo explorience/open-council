@@ -514,7 +514,7 @@ The meeting adjourned at 6:05PM.
 
 ## Votes
 
-*8 substantive votes at this meeting (0 contested, 8 unanimous). Procedural motions excluded.*
+*7 substantive votes at this meeting (0 contested, 7 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -522,15 +522,7 @@ The meeting adjourned at 6:05PM.
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
-
-### 3.1. 60% Waste Diversion Action Plan
-
-> That, on the recommendation of the Managing Director, Environmental & Engineering Services and City Engineer, the following actions be taken: a)    the action plan included in the staff report dated July 17, 2018, containing programs and initiatives to be phased in between 2019 and 2022 to achiev...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 4.1. King Street Bike Lanes - Public Submissions
 
@@ -538,7 +530,7 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 4.2. Request for Delegation - D. Davis, Filthy Rebena Vintage
 
@@ -546,7 +538,7 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 4.4. Presentation – Canadian Urban Transit Research and Innovation Consortium (CUTRIC)
 
@@ -554,7 +546,7 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 4.5. Traffic Light - South Carriage Road and Hyde Park Road
 
@@ -562,7 +554,7 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 4.5. Traffic Light - South Carriage Road and Hyde Park Road
 
@@ -570,7 +562,7 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 4.6. Residential Damage - Storm Water Discharge
 
@@ -578,5 +570,5 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 

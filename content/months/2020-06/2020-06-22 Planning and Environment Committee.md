@@ -590,7 +590,7 @@ The meeting adjourned at 6:08 PM.
 
 ## Votes
 
-*7 substantive votes at this meeting (1 contested, 6 unanimous). Procedural motions excluded.*
+*4 substantive votes at this meeting (1 contested, 3 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -598,7 +598,7 @@ The meeting adjourned at 6:08 PM.
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2.1. ReThink Zoning Phase One Update
 
@@ -606,31 +606,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
-
-### 3.1. Application - 1919 and 1929 Oxford Street West (Z-9115)
-
-> That, on the recommendation of the Director, Development Services, based on the application by Oxford Westdel Centre Inc., relating to the properties located at 1919 and 1929 Oxford Street West, the proposed by-law appended to the staff report dated June 22, 2020 BE INTRODUCED at the Municipal Co...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 3.2. Application - 584 and 588 Wonderland Road North (OZ-9114)
-
-> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application of Wasan Holdings Ltd relating to the property located at 584 and 588 Wonderland Road North: a) the proposed by-law appended to the staff report dated June 22, 2020 as...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 3.3. Application - 944 Hamilton Road (Z-9151)
-
-> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by York Developments, relating to the property located at 944 Hamilton Road: a)  consistent with Policy 19.1.1. of the Official Plan, the subject lands, representing a...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 3.4. Application - 754-760 Baseline Road (OZ-9148)
 
@@ -638,7 +614,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 3.5. Application 1992 Fanshawe Park Road West (TZ-9177)
 
@@ -649,9 +625,9 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (1):** [Ed Holder](/councillors/current/e-holder)
+**Yea (3):** [Ed Holder](/councillors/current/e-holder), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
 
-**Nay (1):** [Arielle Kayabaga](/councillors/current/a-kayabaga)
+**Nay (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Stephen Turner](/councillors/current/s-turner), [Arielle Kayabaga](/councillors/current/a-kayabaga)
 
 </details>
 

@@ -208,59 +208,6 @@ None.
 
 
 The meeting adjourned at 1:36 PM.
-
----
-
-## Votes
-
-*5 substantive votes at this meeting (1 contested, 4 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.2 and 2.3 BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 2.1. 8th Report of the Animal Welfare Community Advisory Committee
-
-> Motion to approve a request for delegation status from M. Blosh, Vice-Chair, Animal Welfare Community Advisory Committee, to be heard at this meeting.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 2.1. 8th Report of the Animal Welfare Community Advisory Committee
-
-> Motion to amend the main motion to add an additional part d): That the Civic Administration BE DIRECTED to provide the available information to the City Clerk’s Office for distribution with respect to complaints regarding Canadian Geese, including the location of complaints and the frequency of g...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 2.1. 8th Report of the Animal Welfare Community Advisory Committee
-
-> Motion to approve part c) of the amended motion.
-
-**✅ Motion Passed (4 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (1):** [Jerry Pribil](/councillors/current/j-pribil)
-
-</details>
-
-### 2.1. 8th Report of the Animal Welfare Community Advisory Committee
-
-> Motion to approve parts a), b) and d) of the amended motion.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -473,3 +420,57 @@ I have nothing for deferred matters or additional business. And that leaves us w
 Everyone in favor to adjourn? That motion carries.
 
 </details>
+
+---
+
+## Votes
+
+*5 substantive votes at this meeting (1 contested, 4 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.2 and 2.3 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.1. 8th Report of the Animal Welfare Community Advisory Committee
+
+> Motion to approve a request for delegation status from M. Blosh, Vice-Chair, Animal Welfare Community Advisory Committee, to be heard at this meeting.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.1. 8th Report of the Animal Welfare Community Advisory Committee
+
+> Motion to amend the main motion to add an additional part d): That the Civic Administration BE DIRECTED to provide the available information to the City Clerk’s Office for distribution with respect to complaints regarding Canadian Geese, including the location of complaints and the frequency of g...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.1. 8th Report of the Animal Welfare Community Advisory Committee
+
+> Motion to approve part c) of the amended motion.
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Jerry Pribil](/councillors/current/j-pribil)
+
+</details>
+
+### 2.1. 8th Report of the Animal Welfare Community Advisory Committee
+
+> Motion to approve parts a), b) and d) of the amended motion.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

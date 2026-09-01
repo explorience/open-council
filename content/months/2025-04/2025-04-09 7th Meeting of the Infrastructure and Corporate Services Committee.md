@@ -330,43 +330,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 2:27 PM.
 
 ****
-
----
-
-## Votes
-
-*3 substantive votes at this meeting (1 contested, 2 unanimous). Procedural motions excluded.*
-
-### 2.1. 2026 Municipal and School Board Elections Update
-
-> That, on the recommendation of the City Clerk, the following actions be taken with respect to the 2026 Municipal Election: a)    the City Clerk BE DIRECTED to request local school boards to consider scheduling a Professional Activity Day (PA Day) on Voting Day, October 26, 2026, as elementary and...
-
-**✅ Motion Passed (3 to 2) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Jerry Pribil](/councillors/current/j-pribil), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke)
-
-**Nay (2):** [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-</details>
-
-### 2.1. 2026 Municipal and School Board Elections Update
-
-> That, on the recommendation of the City Clerk, the following actions be taken with respect to the 2026 Municipal Election: b)    the proposed by-law, as appended to the staff report dated April 9, 2025 as Appendix ‘A’ BE INTRODUCED at the Council meeting to be held on April 22, 2025 to authorize ...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 4.1. Review of Winter Maintenance Performance Regarding Snow and Ice Removal - Councillors S. Franke and C. Rahman
-
-> That the following actions be taken with respect to the Review of Winter Maintenance Performance regarding Snow and Ice Removal : a)    the Civic Administration BE DIRECTED to report back to a future meeting of the Infrastructure and Corporate Services Committee regarding amendments to the Minimu...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -645,3 +608,33 @@ I'll turn to Councillor Frank to report. Thank you and I'm pleased to share that
 Thanks everyone.
 
 </details>
+
+---
+
+## Votes
+
+*2 substantive votes at this meeting (1 contested, 1 unanimous). Procedural motions excluded.*
+
+### 2.1. 2026 Municipal and School Board Elections Update
+
+> That, on the recommendation of the City Clerk, the following actions be taken with respect to the 2026 Municipal Election: a)    the City Clerk BE DIRECTED to request local school boards to consider scheduling a Professional Activity Day (PA Day) on Voting Day, October 26, 2026, as elementary and...
+
+**✅ Motion Passed (3 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Jerry Pribil](/councillors/current/j-pribil), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke)
+
+**Nay (2):** [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 4.1. Review of Winter Maintenance Performance Regarding Snow and Ice Removal - Councillors S. Franke and C. Rahman
+
+> That the following actions be taken with respect to the Review of Winter Maintenance Performance regarding Snow and Ice Removal : a)    the Civic Administration BE DIRECTED to report back to a future meeting of the Infrastructure and Corporate Services Committee regarding amendments to the Minimu...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

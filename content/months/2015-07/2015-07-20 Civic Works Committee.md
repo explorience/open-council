@@ -486,7 +486,7 @@ The Civic Works Committee convened in
 
 ## Votes
 
-*12 substantive votes at this meeting (12 contested, 0 unanimous). Procedural motions excluded.*
+*12 substantive votes at this meeting (1 contested, 11 unanimous). Procedural motions excluded.*
 
 ### 2. Appointment of
   Consulting Engineer for Inspection, Contract Administration and Engineering
@@ -498,12 +498,7 @@ The Civic Works Committee convened in
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (4-0)
 
 ### 3. Greenway Wastewater
   Treatment Plant Expansion & Upgrades - Construction Contract Award
@@ -513,12 +508,7 @@ The Civic Works Committee convened in
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (4-0)
 
 ### 4. Single Source
   Procurement - Customer Engagement Upgrade to MyLondonHydro Web Portal
@@ -545,12 +535,7 @@ The Civic Works Committee convened in
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (4-0)
 
 ### 6. Sewer Flow
   Monitoring Services to Support Infoworks Modeling
@@ -560,12 +545,7 @@ The Civic Works Committee convened in
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (4-0)
 
 ### 7. Quebec Street
   Bridge - Pedestrian Safety
@@ -575,12 +555,7 @@ The Civic Works Committee convened in
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (4-0)
 
 ### 8. Wonderland Road
   South Environmental Study Report
@@ -590,12 +565,7 @@ The Civic Works Committee convened in
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (4-0)
 
 ### 9. Proposed Revision
   to the W12A Landfill Designated Haul Route
@@ -605,12 +575,7 @@ The Civic Works Committee convened in
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (4-0)
 
 ### 10. Wickerson Road -
   Parking Infractions
@@ -620,12 +585,7 @@ The Civic Works Committee convened in
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (4-0)
 
 ### 11. Sponsored Research
   Agreement with the University of Waterloo - Sustainable Management of Water
@@ -636,12 +596,7 @@ The Civic Works Committee convened in
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (4-0)
 
 ### 12. (ADDED) Deferred
   Matters List
@@ -651,12 +606,7 @@ The Civic Works Committee convened in
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (4-0)
 
 ### 13. (ADDED) Coordination of Environmental
   Assessments with Shift Rapid Transit Initiative
@@ -666,10 +616,5 @@ The Civic Works Committee convened in
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (4-0)
 

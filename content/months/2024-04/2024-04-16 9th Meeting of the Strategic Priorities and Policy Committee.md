@@ -590,151 +590,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 4:14 PM.
 
 ****
-
----
-
-## Votes
-
-*13 substantive votes at this meeting (5 contested, 8 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Consent item 2.3 BE APPROVED.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 2.1. Whole of Community System Response - Quarterly Update April
-
-> That pursuant to section 31.6 of the Council Procedure By-law, Councillor S. Stevenson BE PERMITTED to speak an additional 3 minutes with respect to this matter.
-
-**✅ Motion Passed (9 to 6) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (6):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-</details>
-
-### 2.2. 9th Report of the Governance Working Group
-
-> That part a) i) BE APPROVED.
-
-**❌ Motion Failed (3 to 12)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Susan Stevenson](/councillors/current/s-stevenson), [Anna Hopkins](/councillors/current/a-hopkins), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 2.2. 9th Report of the Governance Working Group
-
-> That the balance of the motion BE APPROVED.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 3. Scheduled Items
-
-> That, pursuant to section 27.6 of the Council Procedure By-law, a change in order of the SPPC Committee Agenda BE APPROVED, to provide for Item 5.1 in Stage 5, Deferred Matters/Additional Business to be considered after Stage 3, Scheduled Items.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 4.1. Targeted Actions to Increase London’s Housing Supply: Supporting Council’s Pledge for 47,000 Units by 2031
-
-> That the delegation requests for M. Wallace, London Development Institute and J. Zaifman, London Home Builders' Association BE APPROVED to be heard at this time.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 4.1. Targeted Actions to Increase London’s Housing Supply: Supporting Council’s Pledge for 47,000 Units by 2031
-
-> That the motion be amended to include a new part c) to read as follows: c)    the Civic Administration BE REQUESTED to invite the Upper Thames River Conservation Authority to participate in the work of the Customer Service and Process Improvement Reference Group.
-
-**✅ Motion Passed (14 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (1):** [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 4.1. Targeted Actions to Increase London’s Housing Supply: Supporting Council’s Pledge for 47,000 Units by 2031
-
-> That item 4.1, as amended, BE APPROVED.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 4.2. 3rd Report of the Diversity, Inclusion and Anti-Oppression Community Advisory Committee
-
-> That the following actions be taken with respect to the 3rd Report of the Diversity, Inclusion and Anti-Oppression Community Advisory Committee from its meeting held on March 14, 2024:    a)   the Committee Clerk BE DIRECTED to place the following matters on the next agenda:  i) application requi...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 4.3. Request for a Shareholder's Meeting - London Hydro Inc.
-
-> That the following actions be taken with respect to the 2023 Annual General Meeting of the Shareholder for London Hydro Inc.: a)      the 2023 Annual General Meeting of the Shareholder for London Hydro Inc. BE HELD at a meeting of the Strategic Priorities and Policy Committee on May 28, 2024, for...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 5.1. (ADDED) Secondary School Student Transit Pass Pilot Project - Deputy Mayor S. Lewis and Councillor P. Cuddy
-
-> That the following actions be taken with respect to establishing a secondary school student transit pass pilot project: a) the Civic Administration in collaboration with the London Transit Commission BE DIRECTED to initiate the development of a Memorandum of Understanding (MOU) with the Thames Va...
-
-**✅ Motion Passed (13 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil)
-
-</details>
-
-### 5.1. (ADDED) Secondary School Student Transit Pass Pilot Project - Deputy Mayor S. Lewis and Councillor P. Cuddy
-
-> That the delegation requests from L. Pizzolato, C. Lynd and D. Hendry BE APPROVED to be heard at this time.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 5.1. (ADDED) Secondary School Student Transit Pass Pilot Project - Deputy Mayor S. Lewis and Councillor P. Cuddy
-
-> That the following actions be taken with respect to a secondary school student transit pass pilot project: a) that the motion from Deputy Mayor S. Lewis and Councillor P. Cuddy BE REFERRED to the next meeting of Strategic Priorities and Policy Committee on May 7, 2024; and b) that Civic Administr...
-
-**❌ Motion Failed (4 to 11)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman)
-
-**Nay (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
 ---
 
 ## Full Transcript
@@ -1691,3 +1546,156 @@ It concludes all of the items on our agenda. So all we have left is looking for 
 Motion carries. Thank you everyone, we are adjourned.
 
 </details>
+
+---
+
+## Votes
+
+*13 substantive votes at this meeting (6 contested, 7 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Consent item 2.3 BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 2.1. Whole of Community System Response - Quarterly Update April
+
+> That, on the recommendation of the Deputy City Manager, Social and Health Development, the report dated April 16, 2024, regarding Whole of Community System Response – Quarterly Report, BE RECEIVED for information.
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
+
+### 2.1. Whole of Community System Response - Quarterly Update April
+
+> That pursuant to section 31.6 of the Council Procedure By-law, Councillor S. Stevenson BE PERMITTED to speak an additional 3 minutes with respect to this matter.
+
+**✅ Motion Passed (9 to 6) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (6):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 2.2. 9th Report of the Governance Working Group
+
+> That part a) i) BE APPROVED.
+
+**❌ Motion Failed (3 to 12)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Susan Stevenson](/councillors/current/s-stevenson), [Anna Hopkins](/councillors/current/a-hopkins), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 2.2. 9th Report of the Governance Working Group
+
+> That the balance of the motion BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 3. Scheduled Items
+
+> That, pursuant to section 27.6 of the Council Procedure By-law, a change in order of the SPPC Committee Agenda BE APPROVED, to provide for Item 5.1 in Stage 5, Deferred Matters/Additional Business to be considered after Stage 3, Scheduled Items.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 4.1. Targeted Actions to Increase London’s Housing Supply: Supporting Council’s Pledge for 47,000 Units by 2031
+
+> That the delegation requests for M. Wallace, London Development Institute and J. Zaifman, London Home Builders' Association BE APPROVED to be heard at this time.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 4.1. Targeted Actions to Increase London’s Housing Supply: Supporting Council’s Pledge for 47,000 Units by 2031
+
+> That the motion be amended to include a new part c) to read as follows: c)    the Civic Administration BE REQUESTED to invite the Upper Thames River Conservation Authority to participate in the work of the Customer Service and Process Improvement Reference Group.
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.1. Targeted Actions to Increase London’s Housing Supply: Supporting Council’s Pledge for 47,000 Units by 2031
+
+> That item 4.1, as amended, BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 4.3. Request for a Shareholder's Meeting - London Hydro Inc.
+
+> That the following actions be taken with respect to the 2023 Annual General Meeting of the Shareholder for London Hydro Inc.: a)      the 2023 Annual General Meeting of the Shareholder for London Hydro Inc. BE HELD at a meeting of the Strategic Priorities and Policy Committee on May 28, 2024, for...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 5.1. (ADDED) Secondary School Student Transit Pass Pilot Project - Deputy Mayor S. Lewis and Councillor P. Cuddy
+
+> That the following actions be taken with respect to establishing a secondary school student transit pass pilot project: a) the Civic Administration in collaboration with the London Transit Commission BE DIRECTED to initiate the development of a Memorandum of Understanding (MOU) with the Thames Va...
+
+**✅ Motion Passed (13 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil)
+
+</details>
+
+### 5.1. (ADDED) Secondary School Student Transit Pass Pilot Project - Deputy Mayor S. Lewis and Councillor P. Cuddy
+
+> That the delegation requests from L. Pizzolato, C. Lynd and D. Hendry BE APPROVED to be heard at this time.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 5.1. (ADDED) Secondary School Student Transit Pass Pilot Project - Deputy Mayor S. Lewis and Councillor P. Cuddy
+
+> That the following actions be taken with respect to a secondary school student transit pass pilot project: a) that the motion from Deputy Mayor S. Lewis and Councillor P. Cuddy BE REFERRED to the next meeting of Strategic Priorities and Policy Committee on May 7, 2024; and b) that Civic Administr...
+
+**❌ Motion Failed (4 to 11)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman)
+
+**Nay (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+

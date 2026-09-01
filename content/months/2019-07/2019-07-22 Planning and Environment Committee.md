@@ -1387,7 +1387,7 @@ The meeting adjourned at 10:49 PM.
 
 ## Votes
 
-*14 substantive votes at this meeting (1 contested, 13 unanimous). Procedural motions excluded.*
+*12 substantive votes at this meeting (5 contested, 7 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -1395,31 +1395,41 @@ The meeting adjourned at 10:49 PM.
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
-### 3.2. Delegation - D. Dudek, Chair, London Advisory Committee on Heritage - 7th Report of the London Advisory Committee on Heritage
+### 2.14. Decision - Local Planning Appeal Tribunal - 3234, 3263 and 3274 Wonderland Road South (OZ-8590)
 
-> That, the following actions be taken with respect to the 7th Report of the London Advisory Committee on Heritage, from its meeting held on July 10, 2019: a)            on the recommendation of the Managing Director, City Planning and City Planner, with the advice of the Heritage Planner, the appl...
+> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the Local Planning Appeal Tribunal decision relating to the properties located at 3234, 3263, and 3274 Wonderland Road South: a)            the staff report dated July 22, 2019 entitl...
 
-**✅ Motion Passed (4 to 0)**
+**✅ Motion Passed (3 to 1) 🔥**
 
-Unanimous (2-0)
+<details>
+<summary>View roll call</summary>
 
-### 3.3. Public Participation Meeting - Application - 1631 - 1649 Richmond Street (OZ-9019)
+**Yea (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Ed Holder](/councillors/current/e-holder), [Maureen Cassidy](/councillors/current/m-cassidy)
 
-> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by 1635 Richmond (London) Corporation, relating to the property located at 1631-1649 Richmond Street: a)         the proposed by-law appended to the staff report dated...
+**Nay (1):** [Stephen Turner](/councillors/current/s-turner)
 
-**✅ Motion Passed (4 to 0)**
+**Absent (2):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire)
 
-Unanimous (2-0)
+</details>
 
-### 3.4. Public Participation Meeting - Demolition Request for Heritage Listed Property at 567 King Street
+### 3.1. Delegation - M. Clawson, Clawson Group Inc. - 660 Sunningdale Road East
 
-> That, on the recommendation of the Managing Director, City Planning and City Planner, with the advice of the Heritage Planner, the following actions be taken with respect to the request for the demolition of the heritage listed property located at 567 King Street: a)    the property owner BE REQU...
+> That, the following actions be taken with respect to the property located at 660 Sunningdale Road East: a)   on the recommendation of the City Clerk, the report dated July 22, 2019 and entitled “Request for Council Resolution, under section 45(1.4) of the Planning Act, 1990 – 660 Sunningdale Road...
 
-**✅ Motion Passed (4 to 0)**
+**✅ Motion Passed (3 to 1) 🔥**
 
-Unanimous (2-0)
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Ed Holder](/councillors/current/e-holder), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+**Nay (1):** [Stephen Turner](/councillors/current/s-turner)
+
+**Absent (2):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire)
+
+</details>
 
 ### 3.5. Public Participation Meeting - Application - Part of 124 St. James Street (OZ-9012)
 
@@ -1427,7 +1437,7 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 3.6. Public Participation Meeting - Application - Residential Plan of Subdivision and Zoning By-law Amendment - 600 Sunningdale Road West 39T-18501 (Z-8888)
 
@@ -1435,7 +1445,7 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 3.7. Public Participation Meeting - Application - 3080 Bostwick Road (O-9025)
 
@@ -1443,23 +1453,7 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
-
-### 3.8. Public Participation Meeting - Application - 1076 Gainsborough Road (Z-9035)
-
-> That, on the recommendation of the Director, Development Services, based on the application by 2648822 Ontario Inc., relating to the property located at 1076 Gainsborough Road, the proposed by-law appended to the staff report dated July 22, 2019 as Appendix "A" BE INTRODUCED at the Municipal Coun...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (2-0)
-
-### 3.9. Public Participation Meeting - 447 Old Wonderland Road - SPA19-021
-
-> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by Beco Developments, relating to the property located at 447 Old Wonderland Road: a)            the Approval Authority BE ADVISED that the following issues were raise...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 3.10. Public Participation Meeting - Not to be heard before 5:30 PM - Lambeth Area Community Improvement Plan (O-9044)
 
@@ -1467,7 +1461,41 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
+
+### 3.11. Public Participation Meeting - 3334 and 3354 Wonderland Road South (OZ-9043)
+
+> The application by Gateway Casinos and Entertainment Ltd., relating to the property located at 3334 and 3354 Wonderland Road South BE DEFERRED to the August 12, 2019 Planning and Environment Committee, to allow for comment to be provided by First Nations communities.
+
+**❌ Motion Failed (2 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Stephen Turner](/councillors/current/s-turner)
+
+**Nay (2):** [Ed Holder](/councillors/current/e-holder), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+**Absent (2):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire)
+
+</details>
+
+### 3.11. Public Participation Meeting - 3334 and 3354 Wonderland Road South (OZ-9043)
+
+> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application of Gateway Casinos and Entertainment Ltd., relating to the property located at 3334 and 3354 Wonderland Road South: a)         the proposed by-law appended to the staf...
+
+**❌ Motion Failed (2 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Ed Holder](/councillors/current/e-holder), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+**Nay (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Stephen Turner](/councillors/current/s-turner)
+
+**Absent (2):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire)
+
+</details>
 
 ### 3.11. Public Participation Meeting - 3334 and 3354 Wonderland Road South (OZ-9043)
 
@@ -1478,19 +1506,13 @@ Unanimous (2-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (1):** [Anna Hopkins](/councillors/current/a-hopkins)
+**Yea (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Ed Holder](/councillors/current/e-holder), [Maureen Cassidy](/councillors/current/m-cassidy)
 
 **Nay (1):** [Stephen Turner](/councillors/current/s-turner)
 
+**Absent (2):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire)
+
 </details>
-
-### 3.12. Public Participation Meeting - 8076 Longwoods Road - SPA19-022
-
-> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application of London Quality Meat, relating to the property located at 8076 Longwoods Road: a)            the Approval Authority BE ADVISED that the following issues were raised ...
-
-**✅ Motion Passed (3 to 0)**
-
-Unanimous (1-0)
 
 ### 4.1. Demolition Request for Heritage Designated Property at 123 Queens Avenue
 
@@ -1498,7 +1520,7 @@ Unanimous (1-0)
 
 **✅ Motion Passed (3 to 0)**
 
-Unanimous (1-0)
+Unanimous (3-0)
 
 ### 4.2. Request for Delegation Status - P. Derakhshan, Thames Valley Joint Venture - Lot 66 - 1738-1754 Hamilton Road
 
@@ -1506,5 +1528,5 @@ Unanimous (1-0)
 
 **✅ Motion Passed (3 to 0)**
 
-Unanimous (1-0)
+Unanimous (3-0)
 

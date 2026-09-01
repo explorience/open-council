@@ -329,36 +329,6 @@ That the Civic Works Committee Deferred Matters List as at December 23, 2021, BE
 
 
 The meeting adjourned at 1:38 PM.
-
----
-
-## Votes
-
-*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1, 2.2, 2.3, 2.4, and 2.5 BE APPROVED.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 3.1. Environmental Assessment Study Report for the Environmental Assessment of the Proposed W12A Landfill Expansion
-
-> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report dated January 11, 2022, related to the Environmental Assessment Study Report for the Environmental Assessment of the Proposed W12A Landfill Expan...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 4.1. Investing in Canada Infrastructure Program: Public Transit Stream Intake 3
-
-> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the Civic Administration BE DIRECTED to submit the projects identified in the staff report dated January 11, 2022 to Intake 3 of the Public Transit Stream of the Investing in Canada Infrastructure Program (ICI...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
 ---
 
 ## Full Transcript
@@ -811,3 +781,26 @@ Okay, that takes us to adjournment then, looking for a mover for adjournment. Mo
 Motion carries. Thank you everyone for your time and I wish you a wonderful week.
 
 </details>
+
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.2, 2.3, 2.4, and 2.5 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 4.1. Investing in Canada Infrastructure Program: Public Transit Stream Intake 3
+
+> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the Civic Administration BE DIRECTED to submit the projects identified in the staff report dated January 11, 2022 to Intake 3 of the Public Transit Stream of the Investing in Canada Infrastructure Program (ICI...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+

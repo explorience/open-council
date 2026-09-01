@@ -293,7 +293,7 @@ The Corporate Services Committee convened
 
 ## Votes
 
-*9 substantive votes at this meeting (9 contested, 0 unanimous). Procedural motions excluded.*
+*9 substantive votes at this meeting (0 contested, 9 unanimous). Procedural motions excluded.*
 
 ### 2. Managing Director,
   Corporate Services and City Treasurer, Chief Financial Officer - Single
@@ -302,14 +302,9 @@ The Corporate Services Committee convened
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Joe Fontana](/councillors/current/j-f-fontana), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (3-0)
 
 ### 3. Managing Director,
   Corporate Services and City Treasurer, Chief Financial Officer -
@@ -319,14 +314,9 @@ The Corporate Services Committee convened
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Joe Fontana](/councillors/current/j-f-fontana), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (3-0)
 
 ### 4. Managing Director,
   Corporate Services and Chief Human Resources Officer - Employee Absenteeism -
@@ -335,14 +325,9 @@ The Corporate Services Committee convened
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Joe Fontana](/councillors/current/j-f-fontana), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (3-0)
 
 ### 5. R. T. Usher,
   General Manager, Covent Garden Market - Expenditure Above Market Threshold – Final Phase LED
@@ -351,14 +336,9 @@ The Corporate Services Committee convened
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Joe Fontana](/councillors/current/j-f-fontana), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (3-0)
 
 ### 6. Appointment to the
   Childcare Advisory Committee
@@ -366,14 +346,9 @@ The Corporate Services Committee convened
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Joe Fontana](/councillors/current/j-f-fontana), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (3-0)
 
 ### 7. Appointments to the
   Environmental and Ecological Planning Advisory Committee
@@ -381,14 +356,9 @@ The Corporate Services Committee convened
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Joe Fontana](/councillors/current/j-f-fontana), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (3-0)
 
 ### 8. Appointment to the
   Town and Gown Committee
@@ -396,14 +366,9 @@ The Corporate Services Committee convened
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Joe Fontana](/councillors/current/j-f-fontana), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (3-0)
 
 ### 9. ADDED - Managing
   Director, Corporate Services and City Treasurer, Chief Financial Officer -
@@ -412,14 +377,9 @@ The Corporate Services Committee convened
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Joe Fontana](/councillors/current/j-f-fontana), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (3-0)
 
 ### 10. ADDED – Request for Expense Authorization –
   Councillor J.L. Baechler
@@ -427,12 +387,7 @@ The Corporate Services Committee convened
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Joe Fontana](/councillors/current/j-f-fontana), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (3-0)
 

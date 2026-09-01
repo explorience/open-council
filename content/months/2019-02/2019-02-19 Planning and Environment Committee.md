@@ -865,7 +865,7 @@ The meeting adjourned at 7:46 PM
 
 ## Votes
 
-*9 substantive votes at this meeting (1 contested, 8 unanimous). Procedural motions excluded.*
+*4 substantive votes at this meeting (1 contested, 3 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -873,7 +873,7 @@ The meeting adjourned at 7:46 PM
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 2.4. Application - 810 Westdel Bourne, Portion of 1055 Westdel Bourne, 1079 Westdel Bourne, 1959 and 1997 Oxford Street West - Eagle Ridge Subdivision Phase 2 - Special Provisions - 39T-17501
 
@@ -881,45 +881,13 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 2.5. Application - 379 Sunningdale Road West - Sunninglea Subdivision - Special Provisions - 39T-16504
 
 > That, on the recommendation of the Manager, Development Planning, the following actions be taken with respect to entering into a Subdivision Agreement between The Corporation of the City of London and Sunningdale Golf and Country Club Ltd., for the  subdivision of land over Part of Lot 12, Regist...
 
 **✅ Motion Passed (3 to 0)**
-
-Unanimous (1-0)
-
-### 3.1. Delegation - L. Kirkness, Kirkness Consulting Inc. - 131 King Street - Obtain a Section 45(1.4) Council Resolution
-
-> That, the following actions be taken with respect to the property located at 131 King Street: a)            the Managing Director, Development Services and Compliance and Chief Building Official BE AUTHORIZED to accept a Minor Variance application by Kirkness Consulting Inc., for the property loc...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (2-0)
-
-### 3.2. Delegation - L. Kirkness, Kirkness Consulting Inc. - 894 Adelaide Street North - Obtain a Section 45(1.4) Council Resolution
-
-> That, the following actions be taken with respect to the property located at 894 Adelaide Street North: a)            the Managing Director, Development Services and Compliance and Chief Building Official BE AUTHORIZED to accept a Minor Variance application by Kirkness Consulting Inc., for the pr...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (2-0)
-
-### 3.5. Public Participation Meeting - Application - 1395 Riverbend Road - Application for Zoning By-law Amendment (Z-8924)
-
-> That, on the recommendation of the Senior Planner, Development Services, based on the application by Sifton Properties Limited, relating to lands located at 1395 Riverbend Road, the proposed by-law appended to the staff report dated February 19, 2019 BE INTRODUCED at the Municipal Council meeting...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.6. Public Participation Meeting - 447 Old Wonderland Road (Z-8962)
-
-> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application of Nest on Wonderland, relating to the property located at 447 Old Wonderland Road: a)            the attached, revised, proposed by-law appended BE INTRODUCED at the ...
-
-**✅ Motion Passed (5 to 0)**
 
 Unanimous (3-0)
 
@@ -932,19 +900,11 @@ Unanimous (3-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer)
+**Yea (4):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner)
 
 **Nay (1):** [Phil Squire](/councillors/current/p-squire)
 
 **Absent (1):** [Ed Holder](/councillors/current/e-holder)
 
 </details>
-
-### 5.1. (ADDED) 3rd Report of the London Advisory Committee on Heritage
-
-> That, the following actions be taken with respect to the 3rd Report of the London Advisory Committee on Heritage from its meeting held on February 13, 2019: a)         the following actions be taken with respect to the Stewardship Sub-Committee Report, from its meeting held on January 30, 2019: i...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
 

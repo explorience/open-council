@@ -357,7 +357,7 @@ The meeting adjourned at 6:16 PM
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2.1. RFP 20-54 Municipal Parking Enforcement Services
 
@@ -368,9 +368,9 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (1):** [Ed Holder](/councillors/current/e-holder)
+**Yea (3):** [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire)
 
-**Nay (1):** [Shawn Lewis](/councillors/current/s-lewis)
+**Nay (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier), [Mo Salih](/councillors/current/m-salih)
 
 </details>
 

@@ -669,7 +669,7 @@ The meeting adjourned at 3:37 PM.
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 2.1. Canada-Ontario Community Housing Initiative (CHOCI) and Ontario Priorities Housing Initiative (OPHI) Approval of Ontario Transfer Payment Agreement
 
@@ -677,7 +677,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 2.3. Employment Ontario Transformation - Service System Manager Competition
 
@@ -685,7 +685,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 2.5. London Strengthening Neighbourhoods Strategy - Neighbourhood Decision Making Program
 
@@ -696,7 +696,9 @@ Unanimous (3-0)
 <details>
 <summary>View roll call</summary>
 
-**Nay (1):** [Shawn Lewis](/councillors/current/s-lewis)
+**Yea (2):** [Steve Hillier](/councillors/current/s-hillier), [Mo Salih](/councillors/current/m-salih)
+
+**Nay (3):** [Shawn Lewis](/councillors/current/s-lewis), [Elizabeth Peloza](/councillors/current/e-peloza), [Maureen Cassidy](/councillors/current/m-cassidy)
 
 **Absent (1):** [Ed Holder](/councillors/current/e-holder)
 
@@ -711,7 +713,9 @@ Unanimous (3-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (1):** [Shawn Lewis](/councillors/current/s-lewis)
+**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier), [Mo Salih](/councillors/current/m-salih)
+
+**Nay (2):** [Elizabeth Peloza](/councillors/current/e-peloza), [Maureen Cassidy](/councillors/current/m-cassidy)
 
 **Absent (1):** [Ed Holder](/councillors/current/e-holder)
 
@@ -726,7 +730,9 @@ Unanimous (3-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (1):** [Shawn Lewis](/councillors/current/s-lewis)
+**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy)
 
 **Absent (1):** [Ed Holder](/councillors/current/e-holder)
 
@@ -738,7 +744,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 3.2. London For All Update
 
@@ -746,7 +752,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 3.3. Parks and Recreation Master Plan Update
 
@@ -754,7 +760,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4.1. Impact of Social Assistance Changes on the Community and the City of London Budget
 
@@ -762,7 +768,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4.1. Impact of Social Assistance Changes on the Community and the City of London Budget
 
@@ -770,7 +776,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 4.1. Impact of Social Assistance Changes on the Community and the City of London Budget
 
@@ -778,7 +784,7 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 4.2. Impact of Cuts to Legal Aid on the Community and the City of London Budget
 
@@ -786,7 +792,7 @@ Unanimous (2-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4.2. Impact of Cuts to Legal Aid on the Community and the City of London Budget
 
@@ -794,7 +800,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 5.1. Deferred Matters List
 
@@ -802,7 +808,7 @@ Unanimous (2-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 5.1. Deferred Matters List
 
@@ -810,5 +816,5 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 

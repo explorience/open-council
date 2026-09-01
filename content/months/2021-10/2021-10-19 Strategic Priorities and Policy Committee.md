@@ -350,36 +350,6 @@ That the meeting be adjourned.
 The meeting adjourns at 5:06 PM.
 
 ****
-
----
-
-## Votes
-
-*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 to 2.5, BE APPROVED.
-
-**✅ Motion Passed (12 to 0)**
-
-Unanimous (10-0)
-
-### 3.1. Public Participation Meeting - Amendments to the Various Fees and Charges By-law
-
-> That, on the recommendation of the City Clerk, with the concurrence of the Deputy City Manager, Finance Supports, the following actions be taken with respect to proposed amendments to the Various Fees and Charges By-law:    a)    the proposed by-law as appended to the staff report dated October 1...
-
-**✅ Motion Passed (12 to 0)**
-
-Unanimous (10-0)
-
-### 4.1. University of Western Ontario Board of Governors
-
-> That Michael Lerner's term BE EXTENDED to June 30, 2022 and future appointments by the City of London to the University of Western Ontario be made effective as of July 1, rather than December 1.
-
-**✅ Motion Passed (10 to 0)**
-
-Unanimous (8-0)
 ---
 
 ## Full Transcript
@@ -704,3 +674,34 @@ So with that in mind, I'll look for a motion to adjourn. I see Councillor Van Me
 Thank you, colleagues meeting adjourned.
 
 </details>
+
+---
+
+## Votes
+
+*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.5, BE APPROVED.
+
+**✅ Motion Passed (12 to 0)**
+
+Unanimous (12-0)
+
+### 3.1. Public Participation Meeting - Amendments to the Various Fees and Charges By-law
+
+> That, on the recommendation of the City Clerk, with the concurrence of the Deputy City Manager, Finance Supports, the following actions be taken with respect to proposed amendments to the Various Fees and Charges By-law:    a)    the proposed by-law as appended to the staff report dated October 1...
+
+**✅ Motion Passed (12 to 0)**
+
+Unanimous (12-0)
+
+### 4.1. University of Western Ontario Board of Governors
+
+> That Michael Lerner's term BE EXTENDED to June 30, 2022 and future appointments by the City of London to the University of Western Ontario be made effective as of July 1, rather than December 1.
+
+**✅ Motion Passed (10 to 0)**
+
+Unanimous (10-0)
+

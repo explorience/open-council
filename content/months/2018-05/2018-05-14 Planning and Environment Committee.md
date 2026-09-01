@@ -519,7 +519,7 @@ The meeting adjourned at 8:55 PM.
 
 ## Votes
 
-*9 substantive votes at this meeting (0 contested, 9 unanimous). Procedural motions excluded.*
+*5 substantive votes at this meeting (0 contested, 5 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -527,23 +527,7 @@ The meeting adjourned at 8:55 PM.
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
-
-### 3.1. Public Participation Meeting - Technical Amendments to Setback Requirements for Low-Rise Residential Development in the Primary Transit Area (Z-8878)
-
-> That, on the recommendation of the Managing Director, Planning and City Planner, based on the application by The Corporation of the City of London, relating to concerns regarding low density redevelopment and infill projects within mature neighbourhoods, the proposed by-law appended to the staff ...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 3.2. Public Participation Meeting - Application - 894 Adelaide Street North (Z-8872)
-
-> That, on the recommendation of the Managing Director, Planning and City Planner, the following actions be taken with respect to the application of Adelaide Properties, relating to the property located at 894 Adelaide Street North: a)          the proposed by-law appended to the staff report dated...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 3.3. Public Participation Meeting - Planning for Supervised Consumption Facilities and Temporary Overdose Prevention Sites (OZ-8852)
 
@@ -551,23 +535,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
-
-### 4.1. 4th Report of the Trees and Forests Advisory Committee
-
-> That, the following actions be taken with respect to the 4th Report of the Trees and Forests Advisory Committee, from its meeting held on April 25, 2018: a)            the Civic Administration BE REQUESTED to review the  submission from J. Kogelheide appended to the 4th Report of the Trees and Fo...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (2-0)
-
-### 4.2. 6th Report of the Advisory Committee on the Environment
-
-> That, the following actions be taken with respect to the 6th Report of the Advisory Committee on the Environment, from its meeting held on May 2, 2018: a)            the following actions be taken with respect to potential pollination initiatives; i)   the Civic Administration BE REQUESTED to res...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (2-0)
+Unanimous (5-0)
 
 ### 4.3. Hamilton Road Business Improvement Area Authorization to Initiate Creation
 
@@ -575,7 +543,7 @@ Unanimous (2-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4.4. Expansion of and, Amendments to, By-law CP-1 - Old East Village Business Improvement Area
 
@@ -583,7 +551,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4.5. Request for Delegation Status - C. Linton, Developro Land Services Inc. - Riverbend Meadows Phase 3
 
@@ -591,5 +559,5 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 

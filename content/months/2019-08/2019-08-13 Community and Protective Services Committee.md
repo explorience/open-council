@@ -593,7 +593,7 @@ The meeting adjourned at 5:54 PM.
 
 ## Votes
 
-*6 substantive votes at this meeting (0 contested, 6 unanimous). Procedural motions excluded.*
+*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -601,15 +601,7 @@ The meeting adjourned at 5:54 PM.
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
-
-### 2.5. Information Report - Parks Winter Garbage Collection
-
-> That the following actions be taken with respect to Parks Winter Garbage Collection: a)            the Civic Administration BE REQUESTED to report back to the Community and Protective Services Committee, at a future meeting, with respect to a list of parks within the City of London that currently...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2.6. Vimy Ridge Park - Permanent Park Site - Deferred Matter 1
 
@@ -617,23 +609,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
-
-### 3.2. Adult Live Entertainment Parlour Location - 2190 Dundas Street
-
-> That, on the recommendation of the Managing Director, Development and Compliance Services and Chief Building Official, the proposed by-law, as appended to the staff report dated August 13, 2019, BE INTRODUCED at the Municipal Council meeting to be held on August 27, 2019, to amend By-law No. L.-1...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 3.3. Public Nuisance By-law Amendments - Nuisance Party Cost Recovery and Fees
-
-> That, on the recommendation of the Managing Director, Development and Compliance Services and Chief Building Official, the proposed by-law, as appended to the staff report dated August 13, 2019, BE INTRODUCED at the Municipal Council meeting to be held on August 27, 2019, to amend By-law PH-18 en...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 4.1. London’s Film and Multi-Media Industry Update
 
@@ -641,5 +617,5 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 

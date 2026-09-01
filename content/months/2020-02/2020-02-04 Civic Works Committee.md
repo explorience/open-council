@@ -389,7 +389,7 @@ The meeting adjourned at 1:44 PM.
 
 ## Votes
 
-*6 substantive votes at this meeting (0 contested, 6 unanimous). Procedural motions excluded.*
+*5 substantive votes at this meeting (0 contested, 5 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -397,7 +397,7 @@ The meeting adjourned at 1:44 PM.
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 2.1. 2nd Report of the Cycling Advisory Committee
 
@@ -405,7 +405,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 2.1. 2nd Report of the Cycling Advisory Committee
 
@@ -413,7 +413,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 2.6. Dingman Creek Subwatershed: Stormwater Servicing Strategy for Stage 1 Lands - Municipal Class Environmental Assessment: Notice of Completion
 
@@ -421,15 +421,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
-
-### 5.2. (ADDED) 1st Report of the Transportation Advisory Committee
-
-> That the following actions be taken with respect to the 1st Report of the Transportation Advisory Committee, from its meeting held on January 28, 2020:    a)       the following actions be taken with respect to the Transportation Advisory Committee (TAC) 2020 Work Plan:    i)       D. Doroshenko ...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 5.3. Tree Replacement Options
 
@@ -437,5 +429,5 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 

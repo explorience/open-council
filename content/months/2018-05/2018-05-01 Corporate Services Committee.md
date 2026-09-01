@@ -233,7 +233,7 @@ The meeting adjourned at 1:24 PM.
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 5.1. ADDED - Request for Designation of the 1st Annual Poutine Festival
 
@@ -241,5 +241,5 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 

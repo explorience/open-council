@@ -249,7 +249,7 @@ The meeting adjourned at 4:41 PM.
 
 ## Votes
 
-*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -257,15 +257,7 @@ The meeting adjourned at 4:41 PM.
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
-
-### 3.1. Extension of Hours for Sound from Outdoor Stage During 2019 Juno Week
-
-> That, on the recommendation of the Managing Director, Parks & Recreation, the following actions be taken with respect to the extension of hours for sound from an outdoor stage during the 2019 Juno week: a)            the revised attached proposed by-law, as appended to the staff report dated Janu...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 4.1. Towing Services Review
 
@@ -273,5 +265,5 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 

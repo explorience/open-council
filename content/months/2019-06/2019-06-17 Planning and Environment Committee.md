@@ -705,7 +705,7 @@ The meeting adjourned at 9:42 PM.
 
 ## Votes
 
-*6 substantive votes at this meeting (0 contested, 6 unanimous). Procedural motions excluded.*
+*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -713,31 +713,7 @@ The meeting adjourned at 9:42 PM.
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
-
-### 3.2. Public Participation Meeting - Application - 3493 Colonel Talbot Road - Zoning By-law Amendments (OZ-9032)
-
-> That, the following actions be taken with respect to the application by 2219008 Ontario Ltd, relating to the property located at 3493 Colonel Talbot Road: a)          the proposed , revised, by-law (Appendix "A") BE INTRODUCED at the Municipal Council meeting to be held on June 25, 2019 to amend ...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.3. Public Participation Meeting - Old East Village Dundas Street Corridor Secondary Plan (O-8879)
-
-> That, on the recommendation of the Managing Director, Planning and City Planner, the following actions be taken with respect to the Old East Village Dundas Street Corridor Secondary Plan: a)          the proposed by-law appended to the staff report dated June 17, 2019 as Appendix “A” BE INTRODUCE...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.4. Public Participation Meeting - Application - 945 Bluegrass Drive (Z-9020)
-
-> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application of Gateway Church, relating to the property located at 945 Bluegrass Drive: a)         consistent with Policy 19.1.1. of the Official Plan, the subject lands, represen...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4.1. Standard Form Railway Overpass Sign Licence Agreement
 
@@ -745,7 +721,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4.2. M Clawson, Clawson Group Inc. - Request for Delegation Status - 660 Sunningdale Road East
 
@@ -753,5 +729,5 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 

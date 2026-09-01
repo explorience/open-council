@@ -526,60 +526,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 1:13 PM.
 
 ****
-
----
-
-## Votes
-
-*6 substantive votes at this meeting (0 contested, 6 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1, 2.2, 2.3, 2.4, 2.5, 2.6 BE APPROVED.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 3.1. Amendments to Consolidated Fees and Charges By-law - Dundas Street Vendor Pilot Program
-
-> That, on the recommendation of the Deputy City Manager, Planning and Economic Development, on the advice of the Director, Economic Services and Supports, the proposed by-law as appended to the staff report dated March 29, 2022, BE INTRODUCED at the Municipal Council meeting to be held on April 12...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 4. Items for Direction
-
-> That Items 4.1, 4.2, and 4.3 BE APPROVED.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 4.4. Metamora Stormwater Outfall Replacement - Contract Award Increase (RFT21-91)
-
-> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report dated March 29, 2022, related to the award of contract for the Metamora Stormwater Outfall Replacement and Slope Rehabilitation: a)    the contra...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 4.5. Contract Award: Tender RFT 21-97 Adelaide Street North CPR Underpass Project - Irregular Result
-
-> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report dated March 29, 2022, related to the Adelaide Street North CPR Underpass Project: a)    the bid submitted by McLean Taylor Construction Limited a...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 4.6. Contract Award: Tender RFT-2022-001 Southdale Road West Improvements Phase 1
-
-> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report dated March 29, 2022, related to the Southdale Road West Improvements Phase 1 Project between Bostwick Road and Pine Valley Boulevard (Tender RFT...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
 ---
 
 ## Full Transcript
@@ -906,3 +852,65 @@ Seeing nothing further from committee, I will look for a german and a mover and 
 Thank you everyone for your time today in discussion and I wish you a wonderful week.
 
 </details>
+
+---
+
+## Votes
+
+*6 substantive votes at this meeting (1 contested, 5 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.2, 2.3, 2.4, 2.5, 2.6 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 4. Items for Direction
+
+> That Items 4.1, 4.2, and 4.3 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 4.4. Metamora Stormwater Outfall Replacement - Contract Award Increase (RFT21-91)
+
+> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report dated March 29, 2022, related to the award of contract for the Metamora Stormwater Outfall Replacement and Slope Rehabilitation: a)    the contra...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 4.5. Contract Award: Tender RFT 21-97 Adelaide Street North CPR Underpass Project - Irregular Result
+
+> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report dated March 29, 2022, related to the Adelaide Street North CPR Underpass Project: a)    the bid submitted by McLean Taylor Construction Limited a...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 4.6. Contract Award: Tender RFT-2022-001 Southdale Road West Improvements Phase 1
+
+> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report dated March 29, 2022, related to the Southdale Road West Improvements Phase 1 Project between Bostwick Road and Pine Valley Boulevard (Tender RFT...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 4.7. Report on Downtown Road Closures
+
+> That the communication from Councillor M. van Holst, with respect to a report on Downtown road closures BE RECEIVED and NO ACTION BE TAKEN. (2022-C09)
+
+**✅ Motion Passed (5 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/current/e-holder), [Jesse Helmer](/councillors/current/j-helmer), [John Fyfe-Millar](/councillors/current/j-fyfe-millar)
+
+**Nay (1):** [Michael van Holst](/councillors/current/m-van-holst)
+
+</details>
+

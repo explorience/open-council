@@ -1644,3 +1644,298 @@ Approve Third Reading and Enactment of Bill No.s
 Motion
 Passed
 
+---
+
+## Votes
+
+*17 substantive votes at this meeting (6 contested, 11 unanimous). Procedural motions excluded.*
+
+### 1#2. B. Wells, 408-190
+  Cherryhill Circle - Vehicles for Hire - New Technologies (Refer to the
+  Community and Protective Services Committee stage for consideration with
+  clause 9 of the 10th Report of the Community and Protective Services
+  Committee.)
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 2#3. 5th Report of the
+  Animal Welfare Advisory Committee
+
+> That the following actions be taken with   respect to the 5th Report of the Animal Welfare Advisory Committee (AWAC)   from its meeting held on September 3, 2015:   a)         the   matter of a tethering/chaining of animals by-law BE DEFERRED to the 2016 work   plan of the AWAC;    b)         the...
+
+**❌ Motion Failed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Phil Squire](/councillors/current/p-squire)
+
+**Nay (14):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+</details>
+
+### 2#4. His Worship the
+  Mayor and the Municipal Council recognize City of London employees who have
+  achieved 25 years of service during 2015:
+ 
+Development and Compliance Services: Mary
+  Hicks, Barb Morck, and Kelly Wilding.
+ 
+Housing, Social Services and Dearness Home:
+  Aaron Beachey, Lynda Black, Deborah Ann Bumpus, Sandra Cruz, Magdolna Maria
+  Domokos, Susan Drouin, Rosa Febbraro, Stephen J. Giustizia, Aristides
+  Henriquez, Dale Kish, Shelley Kitson, Janet Matthews, Ildiko Orosi, Catherine
+  Peters, Christina Riccobon, Christine Stacey, and Carie Wright.
+ 
+Neighbourhood, Children and Fire Services:
+  James Britton, David Brown, Chet Couture, Simon C. Dearing, Gwen Francis,
+  Andre Jongepier, Steve Joudrey, Thomas B. Powell, Fred Radley, Peter Rowan,
+  Brent Shea, and Dave Smith.
+ 
+Environmental and Engineering Services:
+  Jeff Huard.
+
+> Approve an amendment to clause 9, to add   an additional direction for the Civic Administration to apply to the Province   with respect to fine amendments included in the Taxicab and Limousine   Licensing By-law L.-129-51.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (3):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Virginia Ridley](/councillors/current/v-ridley)
+
+</details>
+
+### 2#4. His Worship the
+  Mayor and the Municipal Council recognize City of London employees who have
+  achieved 25 years of service during 2015:
+ 
+Development and Compliance Services: Mary
+  Hicks, Barb Morck, and Kelly Wilding.
+ 
+Housing, Social Services and Dearness Home:
+  Aaron Beachey, Lynda Black, Deborah Ann Bumpus, Sandra Cruz, Magdolna Maria
+  Domokos, Susan Drouin, Rosa Febbraro, Stephen J. Giustizia, Aristides
+  Henriquez, Dale Kish, Shelley Kitson, Janet Matthews, Ildiko Orosi, Catherine
+  Peters, Christina Riccobon, Christine Stacey, and Carie Wright.
+ 
+Neighbourhood, Children and Fire Services:
+  James Britton, David Brown, Chet Couture, Simon C. Dearing, Gwen Francis,
+  Andre Jongepier, Steve Joudrey, Thomas B. Powell, Fred Radley, Peter Rowan,
+  Brent Shea, and Dave Smith.
+ 
+Environmental and Engineering Services:
+  Jeff Huard.
+
+> At 8:36 PM  Mayor M. Brown places Councillor   P. Hubert in the Chair and takes a seat at the Council board.   At 8:38 PM  Mayor M. Brown resumes the   Chair and Councillor P. Hubert resumes his seat at the Council board.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (5):** [Anna Hopkins](/councillors/current/a-hopkins), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 2#4. His Worship the
+  Mayor and the Municipal Council recognize City of London employees who have
+  achieved 25 years of service during 2015:
+ 
+Development and Compliance Services: Mary
+  Hicks, Barb Morck, and Kelly Wilding.
+ 
+Housing, Social Services and Dearness Home:
+  Aaron Beachey, Lynda Black, Deborah Ann Bumpus, Sandra Cruz, Magdolna Maria
+  Domokos, Susan Drouin, Rosa Febbraro, Stephen J. Giustizia, Aristides
+  Henriquez, Dale Kish, Shelley Kitson, Janet Matthews, Ildiko Orosi, Catherine
+  Peters, Christina Riccobon, Christine Stacey, and Carie Wright.
+ 
+Neighbourhood, Children and Fire Services:
+  James Britton, David Brown, Chet Couture, Simon C. Dearing, Gwen Francis,
+  Andre Jongepier, Steve Joudrey, Thomas B. Powell, Fred Radley, Peter Rowan,
+  Brent Shea, and Dave Smith.
+ 
+Environmental and Engineering Services:
+  Jeff Huard.
+
+> Approve parts a) and b) of clause 9, as   amended:   That the following actions be taken with   respect to Vehicles for Hire - New Technologies:   a)              on   the recommendation of the Managing Director, Development and Compliance   Services and Chief Building Official, the Civic Adminis...
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 2#4. His Worship the
+  Mayor and the Municipal Council recognize City of London employees who have
+  achieved 25 years of service during 2015:
+ 
+Development and Compliance Services: Mary
+  Hicks, Barb Morck, and Kelly Wilding.
+ 
+Housing, Social Services and Dearness Home:
+  Aaron Beachey, Lynda Black, Deborah Ann Bumpus, Sandra Cruz, Magdolna Maria
+  Domokos, Susan Drouin, Rosa Febbraro, Stephen J. Giustizia, Aristides
+  Henriquez, Dale Kish, Shelley Kitson, Janet Matthews, Ildiko Orosi, Catherine
+  Peters, Christina Riccobon, Christine Stacey, and Carie Wright.
+ 
+Neighbourhood, Children and Fire Services:
+  James Britton, David Brown, Chet Couture, Simon C. Dearing, Gwen Francis,
+  Andre Jongepier, Steve Joudrey, Thomas B. Powell, Fred Radley, Peter Rowan,
+  Brent Shea, and Dave Smith.
+ 
+Environmental and Engineering Services:
+  Jeff Huard.
+
+> Approve part c) of clause 9, as amended:   c)         subject   to the confirmation of the information noted in b) above, the Civic   Administration BE DIRECTED to report back, as soon as possible, to the   Community and Protective Services Committee providing licensing options with   respect to ...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert)
+
+</details>
+
+### 2#4. His Worship the
+  Mayor and the Municipal Council recognize City of London employees who have
+  achieved 25 years of service during 2015:
+ 
+Development and Compliance Services: Mary
+  Hicks, Barb Morck, and Kelly Wilding.
+ 
+Housing, Social Services and Dearness Home:
+  Aaron Beachey, Lynda Black, Deborah Ann Bumpus, Sandra Cruz, Magdolna Maria
+  Domokos, Susan Drouin, Rosa Febbraro, Stephen J. Giustizia, Aristides
+  Henriquez, Dale Kish, Shelley Kitson, Janet Matthews, Ildiko Orosi, Catherine
+  Peters, Christina Riccobon, Christine Stacey, and Carie Wright.
+ 
+Neighbourhood, Children and Fire Services:
+  James Britton, David Brown, Chet Couture, Simon C. Dearing, Gwen Francis,
+  Andre Jongepier, Steve Joudrey, Thomas B. Powell, Fred Radley, Peter Rowan,
+  Brent Shea, and Dave Smith.
+ 
+Environmental and Engineering Services:
+  Jeff Huard.
+
+> Approve part d) of clause 9, as amended   d)         the   Civic Administration BE DIRECTED to apply to the Province with respect to   fine amendments included in the Taxicab and Limousine Licensing By-law L.-129-51
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (3):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Virginia Ridley](/councillors/current/v-ridley)
+
+</details>
+
+### 8#2. 7th and 8th Reports
+  of the London Diversity and Race Relations Advisory Committee
+
+> Approve that parts b)i) and b)ii) BE   REFERRED to the City Clerk to review and report back at a future meeting of   the Community and Protective Services Committee with a recommendation with   respect to the proposed changes being recommended by the London Diversity and   Race Relations Advisory...
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 8#2. 7th and 8th Reports
+  of the London Diversity and Race Relations Advisory Committee
+
+> Approve clause 8, as amended.
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 9#2. Vehicle for Hire -
+  New Technologies
+
+> Approve an amendment to clause 9, by   adding the following new part c):   c)         that   the following actions be taken with respect enforcement of the City of   London’s Taxicab and Limousine Licensing By-law L.-129-51, as amended:   i)          the   Civic Administration BE DIRECTED to make...
+
+**❌ Motion Failed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Josh Morgan](/councillors/current/j-morgan), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (9):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Jared Zaifman](/councillors/current/j-zaifman)
+
+</details>
+
+### V. COMMITTEE
+  OF THE WHOLE, IN CAMERA
+
+> Approve that Council rise and go into   Committee of the Whole, in camera, for the purpose of considering the following:
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### VI. CONFIRMATION
+  AND SIGNING OF THE MINUTES OF THE TWENTY-FIFTH MEETING HELD ON SEPTEMBER 15,
+  2015
+
+> Approve the Minutes of the 25th Meeting  held   on September 15, 2015.
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 4. Single Source
+  Procurement 15-35 Custodial Services - South London Community Centre
+
+> That, on the recommendation of the   Director, Financial Services, with the concurrence of the Managing Director,   Neighbourhood, Children & Fire Services and the Managing Director,   Housing, Social Services and Dearness Home, the following actions be taken:   a)         the   Civic Administrat...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 6. Change in Property
+  Ownership Fees
+
+> That the Civic Administration BE REQUESTED   to continue to pursue opportunities to enhance the Corporation's   communication with the community; it being noted that the Corporate Services   Committee received a communication dated September 1, 2015 from Councillor V.   Ridley with respect to not...
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 9. Deferred Matters
+  List
+
+> That the Deferred Matters List BE REVISED   to reflect the removal of items 5 and 10.
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 13. Pay Day Loan and
+  Cheque Cashing Services
+
+> Approve that clause 13 be amended to add new   parts g) and h) as follows:   g)         the Civic Administration BE   REQUESTED to look at positive ways to increase the financial literacy   quotient of our community; and   h)         the Minister of Government and   Consumer Services BE COPIED on...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 13. Pay Day Loan and
+  Cheque Cashing Services
+
+> Approve clause 13, as amended
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+

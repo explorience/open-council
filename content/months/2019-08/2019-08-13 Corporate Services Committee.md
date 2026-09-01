@@ -240,7 +240,7 @@ The meeting adjourned at 2:36 PM.
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 2.4. Demolition - UTRCA Owned - City Managed Property - 1318 Old Bridge Road
 
@@ -248,7 +248,7 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 5.1. Appointment to the London Hydro Board of Directors
 
@@ -256,5 +256,5 @@ Unanimous (2-0)
 
 **✅ Motion Passed (3 to 0)**
 
-Unanimous (1-0)
+Unanimous (3-0)
 

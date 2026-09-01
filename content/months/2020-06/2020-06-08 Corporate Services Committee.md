@@ -157,7 +157,7 @@ The meeting adjourned at 12:59 PM.
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2.2. Standing Committee Meetings and Annual Meeting Calendar
 
@@ -165,5 +165,5 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 

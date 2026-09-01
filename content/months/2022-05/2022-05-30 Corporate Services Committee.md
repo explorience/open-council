@@ -231,7 +231,7 @@ The meeting adjourned at 12:45 PM.
 
 ## Votes
 
-*3 substantive votes at this meeting (2 contested, 1 unanimous). Procedural motions excluded.*
+*2 substantive votes at this meeting (1 contested, 1 unanimous). Procedural motions excluded.*
 
 ### 4.1. Consideration of Appointment to the Ecological Community Advisory Committee (Requires up to 2 Members)
 
@@ -239,20 +239,7 @@ The meeting adjourned at 12:45 PM.
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
-
-### 4.1. Consideration of Appointment to the Ecological Community Advisory Committee (Requires up to 2 Members)
-
-> Appointment to the Ecological Community Advisory Committee
-
-**❌ Majority Winner: Patricia Almost; Girish Sankar 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Absent (6):** [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Ed Holder](/councillors/current/e-holder), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy)
-
-</details>
+Unanimous (6-0)
 
 ### 4.1. Consideration of Appointment to the Ecological Community Advisory Committee (Requires up to 2 Members)
 
@@ -263,7 +250,9 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Nay (2):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis)
+**Yea (2):** [Maureen Cassidy](/councillors/current/m-cassidy), [Mariam Hamou](/councillors/current/m-hamou)
+
+**Nay (4):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Ed Holder](/councillors/current/e-holder), [John Fyfe-Millar](/councillors/current/j-fyfe-millar)
 
 </details>
 

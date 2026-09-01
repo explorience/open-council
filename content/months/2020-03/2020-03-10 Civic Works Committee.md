@@ -745,7 +745,7 @@ The meeting adjourned at 3:02 PM.
 
 ## Votes
 
-*12 substantive votes at this meeting (5 contested, 7 unanimous). Procedural motions excluded.*
+*13 substantive votes at this meeting (6 contested, 7 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -753,7 +753,7 @@ The meeting adjourned at 3:02 PM.
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2.7. Comments on the Ontario Ministry of Transportation's Draft Transportation Plan for Southwest Ontario
 
@@ -761,7 +761,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2.10. Automated Speed Enforcement Update
 
@@ -769,18 +769,18 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2.10. Automated Speed Enforcement Update
 
 > That part b) above BE APPROVED.
 
-**✅ Motion Passed (5 to 1) 🔥**
+**✅ Motion Passed (5 to 1)**
 
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza)
+**Yea (5):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/current/e-holder), [Maureen Cassidy](/councillors/current/m-cassidy)
 
 **Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
 
@@ -792,7 +792,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2.11. Area Speed Limit Implementation
 
@@ -803,7 +803,9 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Nay (2):** [Shawn Lewis](/councillors/current/s-lewis), [Elizabeth Peloza](/councillors/current/e-peloza)
+**Yea (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Ed Holder](/councillors/current/e-holder)
+
+**Nay (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [Maureen Cassidy](/councillors/current/m-cassidy)
 
 </details>
 
@@ -813,7 +815,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2.20. Overnight Parking and 12 Hour Parking Limit
 
@@ -821,18 +823,33 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
+
+### 4.1. Sidewalk Snow Removal By-law - Councillor S. Hillier
+
+> That the communication from Councillor S. Hillier, dated February 18, 2020, with respect to a proposed sidewalk snow removal by-law, BE RECEIVED. (2020-T06)
+
+**✅ Motion Passed (5 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Ed Holder](/councillors/current/e-holder), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+**Nay (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
 
 ### 4.2. Elimination of Sidewalk Construction on Fox Mill Crescent - Petition
 
 > That, notwithstanding requirements set out in the London Plan and the warranted sidewalk program with respect to the installation of sidewalk infrastructure, Fox Mill Crescent BE EXEMPTED from the intended sidewalk installation associated with the planned watermain replacement project and road re...
 
-**✅ Motion Passed (5 to 1) 🔥**
+**✅ Motion Passed (5 to 1)**
 
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza)
+**Yea (5):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/current/e-holder)
 
 **Nay (1):** [Maureen Cassidy](/councillors/current/m-cassidy)
 
@@ -847,7 +864,7 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Absent (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza)
+**Absent (6):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/current/e-holder), [Maureen Cassidy](/councillors/current/m-cassidy)
 
 </details>
 
@@ -857,7 +874,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 4.3. (ADDED) Removal of Trees on Camden Crescent - Councillor M. Cassidy
 
@@ -868,7 +885,7 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Absent (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza)
+**Absent (6):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/current/e-holder), [Maureen Cassidy](/councillors/current/m-cassidy)
 
 </details>
 

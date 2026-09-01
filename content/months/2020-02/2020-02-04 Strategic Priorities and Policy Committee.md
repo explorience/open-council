@@ -201,7 +201,7 @@ The meeting adjourned at 4:51 PM.
 
 **✅ Motion Passed (14 to 0)**
 
-Unanimous (12-0)
+Unanimous (14-0)
 
 ### 4.2. (ADDED) Electric Buses
 
@@ -209,5 +209,5 @@ Unanimous (12-0)
 
 **✅ Motion Passed (14 to 0)**
 
-Unanimous (12-0)
+Unanimous (14-0)
 

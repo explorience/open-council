@@ -433,7 +433,7 @@ The meeting adjourned at 5:51 PM.
 
 ## Votes
 
-*3 substantive votes at this meeting (1 contested, 2 unanimous). Procedural motions excluded.*
+*2 substantive votes at this meeting (1 contested, 1 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -441,7 +441,7 @@ The meeting adjourned at 5:51 PM.
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 3.1. Request for Support for UN Safe Cities Initiative - ANOVA
 
@@ -452,17 +452,9 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (1):** [Virginia Ridley](/councillors/current/v-ridley)
+**Yea (3):** [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
 
-**Nay (1):** [Maureen Cassidy](/councillors/current/m-cassidy)
+**Nay (3):** [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown)
 
 </details>
-
-### 4.5. 2nd Report of the Community Safety and Crime Prevention Advisory Committee
-
-> That the following actions be taken with respect to the 2nd Report of the Community Safety and Crime Prevention Advisory Committee, from its meeting held on February 22, 3018: a)            that the following actions be taken with respect to Community Safety Week: i)            Councillor M. Cass...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
 

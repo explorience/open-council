@@ -405,7 +405,7 @@ The meeting adjourned at 7:00 PM.
 
 ## Votes
 
-*4 substantive votes at this meeting (1 contested, 3 unanimous). Procedural motions excluded.*
+*4 substantive votes at this meeting (2 contested, 2 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -413,7 +413,7 @@ The meeting adjourned at 7:00 PM.
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 3.1. Delegation - R. Sidhu, Argyle Business Improvement Area - Community Improvement Plan (CIP) Study Request for the Argyle BIA and Surrounding Area
 
@@ -421,15 +421,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
-
-### 3.2. Public Participation Meeting - Application - 3900 Scotland Drive, 3777 Westminister Drive and 5110 White Oak Road (Z-8992)
-
-> That, on the recommendation of the Director, Development Services, with respect to the application by John Aarts Group, relating to the properties located at 3900 Scotland Drive, 3777 Westminster Drive and 5110 White Oak Road, the proposed by-law appended to the staff report dated April 29, 2019 ...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 3.3. Public Participation Meeting - Victoria Park Secondary Plan - Status Update and Draft Secondary Plan Principles (O-8978)
 
@@ -440,11 +432,26 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
+**Yea (4):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner)
 
 **Nay (1):** [Ed Holder](/councillors/current/e-holder)
 
 **Absent (1):** [Phil Squire](/councillors/current/p-squire)
+
+</details>
+
+### 3.3. Public Participation Meeting - Victoria Park Secondary Plan - Status Update and Draft Secondary Plan Principles (O-8978)
+
+> That the draft Victoria Park Secondary Plan BE RECEIVED for information; it being noted that the Planning and Environment Committee reviewed and received the following communications with respect to this matter: a communication dated April 11, 2019, from T. Squire-Smith, Chief Operating Officer, ...
+
+**❌ Motion Failed (2 to 4) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Ed Holder](/councillors/current/e-holder), [Phil Squire](/councillors/current/p-squire)
+
+**Nay (4):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner)
 
 </details>
 

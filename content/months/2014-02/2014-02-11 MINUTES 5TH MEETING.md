@@ -1861,3 +1861,134 @@ Approve Third Reading and Enactment of
 Motion
 Passed
 
+---
+
+## Votes
+
+*12 substantive votes at this meeting (2 contested, 10 unanimous). Procedural motions excluded.*
+
+### 1#7. (ADDED) Councillor
+  J. Baechler and Councillor N. Branscombe - Raising the Rainbow Flag on the
+  Community Flag Pole for the Duration of the Olympics
+
+> Approve leave to introduce an   emergent motion related to the raising of the Rainbow Flag on the Community   Flag Pole in support of the diversity of our Olympic athletes.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (1):** [Dale Henderson](/councillors/current/d-g-henderson)
+
+</details>
+
+### 1#7. (ADDED) Councillor
+  J. Baechler and Councillor N. Branscombe - Raising the Rainbow Flag on the
+  Community Flag Pole for the Duration of the Olympics
+
+> Approve that notwithstanding Council   Policy 16(21) Flags at City Hall, the City Clerk BE DIRECTED to make the   necessary arrangements to raise the Rainbow Flag on the Community Flag Pole   for the duration of the 2014 Winter Olympics as a show of support for the   diversity of our Olympic athl...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Dale Henderson](/councillors/current/d-g-henderson)
+
+</details>
+
+### 11#2. Property located at
+  77 Tecumseh Avenue West (Z-8274)
+
+> Motion Passed
+
+**✅ Motion
+Passed**
+
+Unanimous (15-0)
+
+### 12#2. Boundary Expansion
+  Request and By-law Amendment
+
+> That the communication dated January 21,   2014, from the London Downtown Business Association Improvement Area, with   respect to a boundary expansion request and a review of the current Downtown   Business Improvement Area By-law (CP-2) BE REFERRED to the Civic Administration   for consideratio...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 2#6. A Community Cultural Investment Proposal
+  for a Downtown Arts and Entertainment District
+
+> That, on the recommendation of the Managing   Director, Corporate Services and City Treasurer, Chief Financial Officer, on   the advice of the Manager of Realty Services, with respect to the property   located at 165 Elmwood Avenue East, being the former London Normal School,   the following acti...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 5#4. A Community
+  Cultural Investment Proposal for a Downtown Arts and Entertainment District
+
+> Approve that pursuant to section 13.6 of   the Council Procedure By-law that clause 5 be reconsidered, due to a misunderstanding   of the question that was put.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 6#4. Strategic Funding
+  Framework: Revised Grant Agreement
+
+> That, on the recommendation of the Managing   Director of Neighbourhood, Children & Fire Services, the  proposed   by-law, as appended to the staff report dated February 3, 2014, BE INTRODUCED   at the Municipal Council Meeting of February 11, 2014 to:   a)         approve   the standard form for...
+
+**✅ Motion
+Passed**
+
+Unanimous (15-0)
+
+### 8#2. Proposed Waste
+  Reduction Act and Related Matters for Financing the Blue Box Program
+
+> Approve clauses 1 to 7 and clause 8, as amended.
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### IV. COMMITTEE
+  OF THE WHOLE, IN CAMERA
+
+> Approve that the Council rise and go   into Committee of the Whole, in camera, for the purpose of considering the   following:
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### VI. CONFIRMATION
+  AND SIGNING OF THE MINUTES OF THE FOURTH MEETING HELD ON JANUARY 28, 2014
+
+> Approve the Minutes of the 4th   Meeting held on January 28, 2014.
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### XIII. BY-LAWS
+
+> Approve Introduction and First   Reading of Bill No. 111.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 12. Disposition of
+  City-Owned Lands Adjacent to 25 to 57 Stoneycreek Crescent
+
+> That the following actions be taken with   respect to the disposition of City-owned lands adjacent to 25 to 57   Stoneycreek Crescent:   a)              clause   7b) of the 2nd Report of the Corporate Services Committee, as adopted by the   Municipal Council at its meeting held on December 17, 20...
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+

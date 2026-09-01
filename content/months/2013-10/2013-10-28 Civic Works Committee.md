@@ -420,7 +420,7 @@ The meeting adjourned at 6:35 PM.
 
 ## Votes
 
-*12 substantive votes at this meeting (12 contested, 0 unanimous). Procedural motions excluded.*
+*13 substantive votes at this meeting (1 contested, 12 unanimous). Procedural motions excluded.*
 
 ### 2. 1st Report of the
   LTC Long-Term Growth Report Working Group
@@ -430,12 +430,7 @@ The meeting adjourned at 6:35 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Stephen Orser](/councillors/current/s-orser)
-
-</details>
+Unanimous (5-0)
 
 ### 3. 7th Report of the
   Transportation Advisory Committee
@@ -445,12 +440,7 @@ The meeting adjourned at 6:35 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Stephen Orser](/councillors/current/s-orser)
-
-</details>
+Unanimous (5-0)
 
 ### 4. Greenway Wastewater
   Treatment Plant Expansion and Upgrade Update
@@ -460,12 +450,17 @@ The meeting adjourned at 6:35 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (4-0)
 
-**Yea (8):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [Stephen Orser](/councillors/current/s-orser)
+### 4. Greenway Wastewater
+  Treatment Plant Expansion and Upgrade Update
 
-</details>
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
 
 ### 5. Selling Greenhouse
   Gas Emission Offsets from W12A Landfill Gas Flaring System
@@ -475,12 +470,7 @@ The meeting adjourned at 6:35 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Stephen Orser](/councillors/current/s-orser)
-
-</details>
+Unanimous (5-0)
 
 ### 6. Wellington Street
   Parking Meters
@@ -490,12 +480,7 @@ The meeting adjourned at 6:35 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Stephen Orser](/councillors/current/s-orser)
-
-</details>
+Unanimous (5-0)
 
 ### 7. Adelaide
   Street/Canadian Pacific Railway Grade Separation
@@ -505,12 +490,7 @@ The meeting adjourned at 6:35 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Stephen Orser](/councillors/current/s-orser), [Sandy White](/councillors/current/s-white)
-
-</details>
+Unanimous (6-0)
 
 ### 8. 2012 Community
   Energy and Greenhouse Gas Inventory: Challenges and Opportunities
@@ -520,12 +500,7 @@ The meeting adjourned at 6:35 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Stephen Orser](/councillors/current/s-orser), [Sandy White](/councillors/current/s-white)
-
-</details>
+Unanimous (6-0)
 
 ### 9. Waste Diversion and
   Garbage Collection Updates
@@ -535,12 +510,7 @@ The meeting adjourned at 6:35 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Stephen Orser](/councillors/current/s-orser), [Sandy White](/councillors/current/s-white)
-
-</details>
+Unanimous (6-0)
 
 ### 9. Waste Diversion and
   Garbage Collection Updates
@@ -567,12 +537,7 @@ The meeting adjourned at 6:35 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [Sandy White](/councillors/current/s-white)
-
-</details>
+Unanimous (5-0)
 
 ### 11. Water Bill
   Investigation
@@ -580,14 +545,9 @@ The meeting adjourned at 6:35 PM.
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser)
-
-</details>
+Unanimous (3-0)
 
 ### 12. Water Power Imports
   from Quebec
@@ -595,12 +555,7 @@ The meeting adjourned at 6:35 PM.
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser)
-
-</details>
+Unanimous (3-0)
 

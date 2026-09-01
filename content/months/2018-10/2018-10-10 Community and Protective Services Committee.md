@@ -345,7 +345,7 @@ The meeting adjourned at 1:55 PM.
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 3.2. Community Diversity and Inclusion Strategy (CDIS) Update
 
@@ -356,7 +356,7 @@ Unanimous (2-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (1):** [Maureen Cassidy](/councillors/current/m-cassidy)
+**Yea (3):** [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Virginia Ridley](/councillors/current/v-ridley)
 
 **Nay (1):** [Mo Salih](/councillors/current/m-salih)
 
@@ -368,5 +368,5 @@ Unanimous (2-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 

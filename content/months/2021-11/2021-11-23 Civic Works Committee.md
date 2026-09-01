@@ -383,7 +383,7 @@ The meeting adjourned at 12:47 PM.
 
 ## Votes
 
-*5 substantive votes at this meeting (0 contested, 5 unanimous). Procedural motions excluded.*
+*4 substantive votes at this meeting (0 contested, 4 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -391,7 +391,7 @@ The meeting adjourned at 12:47 PM.
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 4.1. New Sidewalks in Established Neighbourhoods
 
@@ -399,7 +399,7 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 4.2. New Sidewalk Project List 2022
 
@@ -407,7 +407,7 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 4.2. New Sidewalk Project List 2022
 
@@ -415,13 +415,5 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
-
-### 5.2. (ADDED) 10th Report of the Cycling Advisory Committee
-
-> That the following actions be taken with respect to the 10th Report of the Cycling Advisory Committee, from its meeting held on November 17, 2021: a)        the following actions be taken with respect to the Notice of Public Information Centre #2, dated October 28, 2021, from P. Yanchuk, City of ...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (2-0)
+Unanimous (4-0)
 

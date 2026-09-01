@@ -260,7 +260,7 @@ The Community and Protective Services
 
 ## Votes
 
-*3 substantive votes at this meeting (3 contested, 0 unanimous). Procedural motions excluded.*
+*7 substantive votes at this meeting (1 contested, 6 unanimous). Procedural motions excluded.*
 
 ### 2. Interpretation
   Services and Written Translation Services RFP
@@ -270,12 +270,27 @@ The Community and Protective Services
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (5-0)
 
-**Yea (25):** [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Mo Salih](/councillors/current/m-salih), [Mo Salih](/councillors/current/m-salih), [Mo Salih](/councillors/current/m-salih), [Mo Salih](/councillors/current/m-salih), [Mo Salih](/councillors/current/m-salih), [Bill Armstrong](/councillors/current/b-armstrong), [Bill Armstrong](/councillors/current/b-armstrong), [Bill Armstrong](/councillors/current/b-armstrong), [Bill Armstrong](/councillors/current/b-armstrong), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Virginia Ridley](/councillors/current/v-ridley), [Virginia Ridley](/councillors/current/v-ridley), [Virginia Ridley](/councillors/current/v-ridley), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park)
+### 2. Interpretation
+  Services and Written Translation Services RFP
 
-</details>
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 2. Interpretation
+  Services and Written Translation Services RFP
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
 
 ### 2. Interpretation
   Services and Written Translation Services RFP
@@ -294,6 +309,26 @@ The Community and Protective Services
 
 </details>
 
+### 2. Interpretation
+  Services and Written Translation Services RFP
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 2. Interpretation
+  Services and Written Translation Services RFP
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
 ### 7. D. Abdi, African
   Community Council - Request for Delegation Status, Re: Immigrants and the
   Labour Market, A London Perspective
@@ -302,10 +337,5 @@ The Community and Protective Services
 
 **✅ Motion Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Mo Salih](/councillors/current/m-salih), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (5-0)
 

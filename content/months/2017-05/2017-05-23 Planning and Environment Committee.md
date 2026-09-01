@@ -1179,7 +1179,7 @@ The meeting adjourned at 11:40 PM.
 
 ## Votes
 
-*11 substantive votes at this meeting (11 contested, 0 unanimous). Procedural motions excluded.*
+*22 substantive votes at this meeting (3 contested, 19 unanimous). Procedural motions excluded.*
 
 ### 2. 6th Report of the
   Advisory Committee on the Environment
@@ -1187,14 +1187,9 @@ The meeting adjourned at 11:40 PM.
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (3-0)
 
 ### 3. Old Victoria East
   Subdivision - South Parcel - 1691 Hamilton Road (39T-13502)
@@ -1204,12 +1199,7 @@ The meeting adjourned at 11:40 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (5-0)
 
 ### 4. Foxhollow North
   Kent Subdivision - Phase 1 - 1388 Sunningdale Road West (39T-04510)
@@ -1219,12 +1209,7 @@ The meeting adjourned at 11:40 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (5-0)
 
 ### 5. STAFF REPORT -
   Building Division Monthly Report - March 2017
@@ -1234,12 +1219,7 @@ The meeting adjourned at 11:40 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (5-0)
 
 ### 6. PUBLIC
   PARTICIPATION MEETING - Properties located at 345, 349 and 351 Ridout Street
@@ -1250,12 +1230,29 @@ The meeting adjourned at 11:40 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (5-0)
 
-**Yea (15):** [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park)
+### 6. PUBLIC
+  PARTICIPATION MEETING - Properties located at 345, 349 and 351 Ridout Street
+  North - Demolition Request
 
-</details>
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 6. PUBLIC
+  PARTICIPATION MEETING - Properties located at 345, 349 and 351 Ridout Street
+  North - Demolition Request
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
 
 ### 7. Outdoor Patios in
   Association with Craft Brewery and Artisan Workshop Establishments, McCormick
@@ -1267,10 +1264,46 @@ The meeting adjourned at 11:40 PM.
 **✅ Motion
   Passed**
 
+Unanimous (5-0)
+
+### 7. Outdoor Patios in
+  Association with Craft Brewery and Artisan Workshop Establishments, McCormick
+  Area Secondary Plan Amendments, 521 Burbrook Place and 1017-1021 Princess
+  Avenue (O-8764)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 7. Outdoor Patios in
+  Association with Craft Brewery and Artisan Workshop Establishments, McCormick
+  Area Secondary Plan Amendments, 521 Burbrook Place and 1017-1021 Princess
+  Avenue (O-8764)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 8. PUBLIC
+  PARTICIPATION MEETING - Property located at 8076 Longwoods Road (Z-8735)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
 <details>
 <summary>View roll call</summary>
 
-**Yea (15):** [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park)
+**Yea (4):** [Anna Hopkins](/councillors/current/a-hopkins), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Tanya Park](/councillors/current/t-park)
+
+**Nay (2):** [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
 
 </details>
 
@@ -1282,14 +1315,17 @@ The meeting adjourned at 11:40 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (5-0)
 
-**Yea (14):** [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park)
+### 8. PUBLIC
+  PARTICIPATION MEETING - Property located at 8076 Longwoods Road (Z-8735)
 
-**Nay (2):** [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
+> Motion   Passed
 
-</details>
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
 
 ### 9. PUBLIC
   PARTICIPATION MEETING  - Proposed Revised Sign By-law and Amendments to
@@ -1300,10 +1336,45 @@ The meeting adjourned at 11:40 PM.
 **✅ Motion
   Passed**
 
+Unanimous (6-0)
+
+### 9. PUBLIC
+  PARTICIPATION MEETING  - Proposed Revised Sign By-law and Amendments to
+  Current Sign and Canopy By-law
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 9. PUBLIC
+  PARTICIPATION MEETING  - Proposed Revised Sign By-law and Amendments to
+  Current Sign and Canopy By-law
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 10. PUBLIC
+  PARTICIPATION MEETING - Property located at 420 Fanshawe Park Road East -
+  (OZ-8624)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
 <details>
 <summary>View roll call</summary>
 
-**Yea (18):** [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park)
+**Yea (4):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner), [Tanya Park](/councillors/current/t-park)
+
+**Nay (2):** [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown)
 
 </details>
 
@@ -1316,14 +1387,7 @@ The meeting adjourned at 11:40 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (22):** [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park)
-
-**Nay (2):** [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown)
-
-</details>
+Unanimous (6-0)
 
 ### 10. PUBLIC
   PARTICIPATION MEETING - Property located at 420 Fanshawe Park Road East -
@@ -1343,6 +1407,28 @@ The meeting adjourned at 11:40 PM.
 
 </details>
 
+### 10. PUBLIC
+  PARTICIPATION MEETING - Property located at 420 Fanshawe Park Road East -
+  (OZ-8624)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 10. PUBLIC
+  PARTICIPATION MEETING - Property located at 420 Fanshawe Park Road East -
+  (OZ-8624)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
 ### 11. 6th Report of the
   London Advisory Committee on Heritage
 
@@ -1351,10 +1437,5 @@ The meeting adjourned at 11:40 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (5-0)
 

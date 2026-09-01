@@ -694,7 +694,7 @@ The
 
 ## Votes
 
-*18 substantive votes at this meeting (18 contested, 0 unanimous). Procedural motions excluded.*
+*20 substantive votes at this meeting (1 contested, 19 unanimous). Procedural motions excluded.*
 
 ### 2. 6th and 7th Reports
   of the Transportation Advisory Committee
@@ -704,12 +704,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer)
-
-</details>
+Unanimous (4-0)
 
 ### 3. 7th Report of the
   Cycling Advisory Committee
@@ -719,12 +714,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer)
-
-</details>
+Unanimous (4-0)
 
 ### 4. Engineering Fees
   Contract Amendment: Uplands Pumping Station Upgrades - Project No. EW3590
@@ -734,12 +724,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer)
-
-</details>
+Unanimous (4-0)
 
 ### 5. Advancing a 760kW
   Renewable Energy Project at the Greenway Wastewater Treatment Plant
@@ -749,12 +734,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer)
-
-</details>
+Unanimous (4-0)
 
 ### 6. Burbrook Trunk
   Sewer Completion Tunnelling Project
@@ -764,12 +744,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer)
-
-</details>
+Unanimous (4-0)
 
 ### 7. Amendments to the
   Traffic and Parking By-law with Respect to the Implementation of Pedestrian
@@ -780,12 +755,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer)
-
-</details>
+Unanimous (4-0)
 
 ### 8. Amendments to the
   Traffic and Parking By-law to Address Safety Issues During the Western Fair
@@ -795,12 +765,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer)
-
-</details>
+Unanimous (4-0)
 
 ### 9. Overnight Parking
   Pass Program
@@ -810,12 +775,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer)
-
-</details>
+Unanimous (4-0)
 
 ### 10. Amendments to the
   Traffic and Parking By-law
@@ -825,12 +785,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer)
-
-</details>
+Unanimous (4-0)
 
 ### 11. Customer Engagement
   Upgrade to MyLondonHydro Web Portal - Water Usage Tool
@@ -840,12 +795,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer)
-
-</details>
+Unanimous (4-0)
 
 ### 12. Flooding Matters
   Phase ll
@@ -855,12 +805,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer)
-
-</details>
+Unanimous (4-0)
 
 ### 13. Appointment of
   Consulting Engineer for the Design of the Forest City South Industrial Park
@@ -871,12 +816,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer)
-
-</details>
+Unanimous (4-0)
 
 ### 14. Richmond Street
   Recreational Pathway Crossing Environmental Study Report
@@ -886,12 +826,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer)
-
-</details>
+Unanimous (4-0)
 
 ### 15. Southdale Road West
   Environmental Assessment - Boler Road to Wickerson Road - Appointment of
@@ -902,12 +837,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer)
-
-</details>
+Unanimous (4-0)
 
 ### 16. Transportation
   Network Forecast Model Update - Appointment of Consulting Engineer
@@ -917,12 +847,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer)
-
-</details>
+Unanimous (4-0)
 
 ### 17. Appointment of
   Consulting Engineer for Detailed Design of the Fox Hollow SWM Facility No. 3
@@ -933,10 +858,22 @@ The
 **✅ Motion
   Passed**
 
+Unanimous (4-0)
+
+### 18. Draft School Zone
+  Speed Limit Policy - Resubmitted Report
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
 <details>
 <summary>View roll call</summary>
 
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer)
+**Yea (3):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer)
+
+**Nay (1):** [Michael van Holst](/councillors/current/m-van-holst)
 
 </details>
 
@@ -948,14 +885,17 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (4-0)
 
-**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer)
+### 18. Draft School Zone
+  Speed Limit Policy - Resubmitted Report
 
-**Nay (1):** [Michael van Holst](/councillors/current/m-van-holst)
+> Motion   Passed
 
-</details>
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
 
 ### 19. Deferred Matters
   List
@@ -965,10 +905,5 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer)
-
-</details>
+Unanimous (4-0)
 

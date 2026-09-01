@@ -1773,7 +1773,7 @@ The meeting adjourned at 11:40 PM.
 
 ## Votes
 
-*20 substantive votes at this meeting (20 contested, 0 unanimous). Procedural motions excluded.*
+*33 substantive votes at this meeting (6 contested, 27 unanimous). Procedural motions excluded.*
 
 ### 2. 6th Report of the
   Environmental Ecological and Planning Advisory Committee
@@ -1783,12 +1783,7 @@ The meeting adjourned at 11:40 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (6-0)
 
 ### 3. STAFF REPORT - Property
   located at 8076 Longwoods Road (Z-8735)
@@ -1798,12 +1793,7 @@ The meeting adjourned at 11:40 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (6-0)
 
 ### 4. STAFF REPORT - Improved
   Planning Report Templates for the Planning and Environment Committee
@@ -1813,12 +1803,7 @@ The meeting adjourned at 11:40 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (5-0)
 
 ### 5. STAFF REPORT -
   Property located at 2150 Oxford Street East (H-8686)
@@ -1828,12 +1813,7 @@ The meeting adjourned at 11:40 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (6-0)
 
 ### 6. STAFF REPORT -
   Request for Designation of a Heritage Listed Property located at 93-95
@@ -1844,12 +1824,7 @@ The meeting adjourned at 11:40 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (6-0)
 
 ### 7. STAFF REPORT -
   Staff Resourcing to Support the New Tree Protection By-law
@@ -1859,12 +1834,7 @@ The meeting adjourned at 11:40 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (5-0)
 
 ### 8. STAFF REPORT -
   Development Charges (DC) Claimable Work for Westbury Subdivision M-641
@@ -1874,12 +1844,7 @@ The meeting adjourned at 11:40 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (6-0)
 
 ### 9. STAFF REPORT -
   Riverbend Golf Community Phase 9 (P-8762)
@@ -1889,12 +1854,7 @@ The meeting adjourned at 11:40 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (6-0)
 
 ### 10. STAFF REPORT -
   Proposed Amendment to the Tree Protection By-law C.P. - 1515-228
@@ -1904,12 +1864,7 @@ The meeting adjourned at 11:40 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (6-0)
 
 ### 11. STAFF REPORT -
   Draft Urban Agriculture Strategy
@@ -1919,12 +1874,7 @@ The meeting adjourned at 11:40 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (6-0)
 
 ### 12. DELEGATION - D.
   Dudek, Chair, London advisory Committee on Heritage – 7th and 8th Reports of
@@ -1935,12 +1885,7 @@ The meeting adjourned at 11:40 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (6-0)
 
 ### 13. PUBLIC
   PARTICIPATION MEETING - Amend the Zoning By-law for Industrial Land Uses with
@@ -1952,12 +1897,71 @@ The meeting adjourned at 11:40 PM.
 **✅ Motion
   Passed**
 
+Unanimous (6-0)
+
+### 13. PUBLIC
+  PARTICIPATION MEETING - Amend the Zoning By-law for Industrial Land Uses with
+  Regard to Height, Parking Rate, Access to Loading Areas and Maneuvering on
+  City Streets (Z-8744)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 13. PUBLIC
+  PARTICIPATION MEETING - Amend the Zoning By-law for Industrial Land Uses with
+  Regard to Height, Parking Rate, Access to Loading Areas and Maneuvering on
+  City Streets (Z-8744)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 14. PUBLIC
+  PARTICIPATION MEETING - Request for Demolition of Heritage Listed property
+  located at 660 Sunningdale Road East
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
 <details>
 <summary>View roll call</summary>
 
-**Yea (18):** [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park)
+**Yea (4):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Tanya Park](/councillors/current/t-park)
+
+**Nay (2):** [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown)
 
 </details>
+
+### 14. PUBLIC
+  PARTICIPATION MEETING - Request for Demolition of Heritage Listed property
+  located at 660 Sunningdale Road East
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 14. PUBLIC
+  PARTICIPATION MEETING - Request for Demolition of Heritage Listed property
+  located at 660 Sunningdale Road East
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
 
 ### 14. PUBLIC
   PARTICIPATION MEETING - Request for Demolition of Heritage Listed property
@@ -1971,9 +1975,9 @@ The meeting adjourned at 11:40 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (21):** [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park)
+**Yea (5):** [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Tanya Park](/councillors/current/t-park)
 
-**Nay (3):** [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown)
+**Nay (1):** [Jesse Helmer](/councillors/current/j-helmer)
 
 </details>
 
@@ -1986,12 +1990,18 @@ The meeting adjourned at 11:40 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (4-0)
 
-**Yea (12):** [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park)
+### 15. PUBLIC
+  PARTICIPATION MEETING - City Wide Official Plan and Zoning By-law Amendments
+  - Secondary Dwelling Units (OZ-8053)
 
-</details>
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
 
 ### 16. PUBLIC
   PARTICIPATION MEETING - Property located at 1355 Commissioners Road West
@@ -2002,12 +2012,52 @@ The meeting adjourned at 11:40 PM.
 **✅ Motion
   Passed**
 
+Unanimous (5-0)
+
+### 16. PUBLIC
+  PARTICIPATION MEETING - Property located at 1355 Commissioners Road West
+  (formerly 1349, 1351, 1357, 1361 Commissioners Road West) (SPA17-024)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 16. PUBLIC
+  PARTICIPATION MEETING - Property located at 1355 Commissioners Road West
+  (formerly 1349, 1351, 1357, 1361 Commissioners Road West) (SPA17-024)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
 <details>
 <summary>View roll call</summary>
 
-**Yea (21):** [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park)
+**Yea (3):** [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner), [Tanya Park](/councillors/current/t-park)
 
-**Nay (4):** [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Tanya Park](/councillors/current/t-park)
+**Nay (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+</details>
+
+### 16. PUBLIC
+  PARTICIPATION MEETING - Property located at 1355 Commissioners Road West
+  (formerly 1349, 1351, 1357, 1361 Commissioners Road West) (SPA17-024)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Tanya Park](/councillors/current/t-park)
+
+**Nay (1):** [Stephen Turner](/councillors/current/s-turner)
 
 </details>
 
@@ -2029,6 +2079,24 @@ The meeting adjourned at 11:40 PM.
 
 </details>
 
+### 16. PUBLIC
+  PARTICIPATION MEETING - Property located at 1355 Commissioners Road West
+  (formerly 1349, 1351, 1357, 1361 Commissioners Road West) (SPA17-024)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner)
+
+**Nay (1):** [Tanya Park](/councillors/current/t-park)
+
+</details>
+
 ### 17. PUBLIC
   PARTICIPATION MEETING - Eagle Ridge Subdivision - Phase 2 - Properties
   located at 810, 1055 and 1079 Westdel Bourne and 1959 and 1997 Oxford Street
@@ -2039,12 +2107,43 @@ The meeting adjourned at 11:40 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (5-0)
 
-**Yea (20):** [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park)
+### 17. PUBLIC
+  PARTICIPATION MEETING - Eagle Ridge Subdivision - Phase 2 - Properties
+  located at 810, 1055 and 1079 Westdel Bourne and 1959 and 1997 Oxford Street
+  West (39T-17501/Z-8725)
 
-</details>
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 17. PUBLIC
+  PARTICIPATION MEETING - Eagle Ridge Subdivision - Phase 2 - Properties
+  located at 810, 1055 and 1079 Westdel Bourne and 1959 and 1997 Oxford Street
+  West (39T-17501/Z-8725)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 17. PUBLIC
+  PARTICIPATION MEETING - Eagle Ridge Subdivision - Phase 2 - Properties
+  located at 810, 1055 and 1079 Westdel Bourne and 1959 and 1997 Oxford Street
+  West (39T-17501/Z-8725)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
 
 ### 18. 7th Report of Tress
   and Forests Advisory Committee
@@ -2054,12 +2153,7 @@ The meeting adjourned at 11:40 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (5-0)
 
 ### 19. STAFF REPORT -
   Archaeological Management Plan (2017)
@@ -2069,12 +2163,7 @@ The meeting adjourned at 11:40 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (5-0)
 
 ### 20. (ADDED) 6th Report
   of the Environmental and Ecological Planning Advisory Committee
@@ -2084,10 +2173,5 @@ The meeting adjourned at 11:40 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (5-0)
 

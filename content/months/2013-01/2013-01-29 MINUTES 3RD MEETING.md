@@ -2601,3 +2601,416 @@ Approve 3rd reading of Bill No. 79.
 
 Motion Passed
 
+---
+
+## Votes
+
+*42 substantive votes at this meeting (5 contested, 37 unanimous). Procedural motions excluded.*
+
+### 1#2. A. Haidar, Argyle
+  Community Association - Veterans Memorial Parkway Noise Study (Refer to the
+  Civic Works Committee Stage for Consideration with Clause 5 of the 4th Report
+  of the Civic Works Committee.)
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 10#3. Ontario Power
+  Generation Deep Geological Repository
+
+> Amend clause 10 in part a) by adding the   following new part iv):   “iv)         consult with the international Joint Commission Great Lakes Water and the   Joint Water Boards of Management on this matter;”
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 10#3. Ontario Power
+  Generation Deep Geological Repository
+
+> Clause 10, as amended, is put.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 11#2. Councillor D. Henderson Proposal -
+  Charitable Donations for Civic Purposes
+
+> That the attached   communication dated January 22, 2013, from Councillor D. Henderson, putting   forth a proposal for raising monies for civic purposes through charitable   donations, BE REFERRED to the Civic Administration for review and report back   at a future meeting of the Corporate Servic...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 11#4. Property located at
+  19 Woodgate Court - Notice of Appeal to the Ontario Municipal Board
+  (A.101/12)
+
+> Amend in clause 11, the last line of the   first paragraph, by deleting the word “Place” and by replacing it with the   word “Court”.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 11#4. Property located at
+  19 Woodgate Court - Notice of Appeal to the Ontario Municipal Board
+  (A.101/12)
+
+> Motion to Approve clause 11, as amended, is   put.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 12#2. Southern Ontario
+  Water Consortium - London Wastewater Facility
+
+> Amend clause 12 in line 1 of part a) by   inserting the word “revised” before the word “by-law”; and further amended by   replacing page 1 of the Agreement with the attached revised   page 1.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 12#2. Southern Ontario
+  Water Consortium - London Wastewater Facility
+
+> Motion to Adopt clause 12, as amended, is   put.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 2#6. 2013 Budget -
+  Public Participation Meeting
+
+> That the following presentations BE   RECEIVED:
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 2#6. 2013 Budget -
+  Public Participation Meeting
+
+> Section 239 (6) of the Municipal Act, 2001, the following   recommendation be forwarded to City Council for deliberation and a vote in   public session:    1.              That, on the recommendation of the Manager   of Realty Services, with the concurrence of the Director of Corporate   Investme...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 3#3. Trowbridge Avenue
+  Parking Passes
+
+> Amend claus3 3, in line 2, by adding   the word “survey” prior to the words “BE INITIATED” and further amended by   deleting the following words at the end of the clause;  “it being noted that   the Council approved user fees being applied if the program is supported by   the property owners.”
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (2):** [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe)
+
+</details>
+
+### 3#3. Trowbridge Avenue
+  Parking Passes
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 4#2. Request from London Machinery Inc. to
+  Extend its Option on Parts 15 to 19, Plan 33R-17397 - Skyway Industrial Park
+
+> That, on the recommendation of the Manager   Realty Services, the following actions be taken:   a)         the   request submitted by London Machinery Inc. to extend its option to purchase   until June 30, 2014, on approximately 29.5 acres of land located on the west   side of Robin’s Hill Road, ...
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 5#3. Veterans Memorial
+  Parkway Noise Study
+
+> Amend the motion to refer clause 5   by adding the words “and an opportunity for public input at a public   participation meeting”.
+
+**✅ Motion Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Matt Brown](/councillors/current/m-brown), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant)
+
+**Nay (7):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Denise Brown](/councillors/current/d-brown)
+
+</details>
+
+### 6#4. Southwest Area Secondary Plan - Notice of
+  Appeal to the Ontario Municipal Board (O-7609)
+
+> Motion to Approve part a) of clause 6 is   put.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 6#4. Southwest Area Secondary Plan - Notice of
+  Appeal to the Ontario Municipal Board (O-7609)
+
+> Motion to Approve parts b) and c) of clause   6 is put.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (5):** [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Judy Bryant](/councillors/current/j-p-bryant)
+
+</details>
+
+### 8#4. Property located at
+  642 Princess Avenue - Notice of Appeal to the Ontario Municipal Board
+  (A.094/12)
+
+> Amend in part b) of clause 8, by   deleting the words “Managing Director, Planning and City Planner” and by   replacing them with the words “Managing Director, Development &   Compliance Services & Chief Building Official”.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (1):** [Stephen Orser](/councillors/current/s-orser)
+
+</details>
+
+### 8#4. Property located at
+  642 Princess Avenue - Notice of Appeal to the Ontario Municipal Board
+  (A.094/12)
+
+> Motion to Approve clause 8, as amended, is   put.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (1):** [Stephen Orser](/councillors/current/s-orser)
+
+</details>
+
+### VI. CONFIRMATION
+  AND SIGNING OF THE MINUTES OF THE SECOND MEETING HELD ON JANUARY 15, 2013
+
+> Approve that pursuant to section 13.7   of the Council Procedure By-law, the actions of the Municipal Council taken   at its meeting of January 15, 2013, related to the adoption of clause 14 of   the 2nd Report of the Corporate Services Committee, concerning the Covent   Garden Market’s request t...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### VI. CONFIRMATION
+  AND SIGNING OF THE MINUTES OF THE SECOND MEETING HELD ON JANUARY 15, 2013
+
+> Approve that the Covent Garden Market BE   AUTHORIZED to increase the draw down on its reserve to $78,711.23 in order to   replace the existing lighting in the underground parking at the Covent Garden   Market.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### VI. CONFIRMATION
+  AND SIGNING OF THE MINUTES OF THE SECOND MEETING HELD ON JANUARY 15, 2013
+
+> Approve Minutes of the 2nd Meeting, as   amended, held on January 15, 2013.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### XIII. BY-LAWS
+
+> Approve 1st reading of Bill No.s   71, 73, 75 to 78, inclusive and 80 to 94, inclusive.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### XIII. BY-LAWS
+
+> Approve 2nd reading of Bill No.s 71,   73, 75 to 78, inclusive and 80 to 94, inclusive.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### XIII. BY-LAWS
+
+> Approve 3rd reading of Bill No.s 71, 73,   75 to 78, inclusive and 80 to 94, inclusive.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### XIII. BY-LAWS
+
+> Approve 1st reading of Bill No. 72.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### XIII. BY-LAWS
+
+> Approve 2nd reading of Bill No. 72.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### XIII. BY-LAWS
+
+> Approve 3rd reading of Bill No. 72.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### XIII. BY-LAWS
+
+> Approve 1st reading of Bill No. 74.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### XIII. BY-LAWS
+
+> Approve 2nd reading of Bill No. 74.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### XIII. BY-LAWS
+
+> Approve 3rd reading of Bill No.   74.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### XIII. BY-LAWS
+
+> Approve 1st reading of Bill No.   79.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### XIII. BY-LAWS
+
+> Approve 2nd reading of Bill No. 79.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### XIII. BY-LAWS
+
+> Approve 3rd reading of Bill No. 79.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 13. Neighbourhood Family Centre-Thames Valley
+  District School Board White Oaks Public School
+
+> Amend clause 10 by deleting the last   sentence of part a) in its entirety and by replacing it with the following   new sentence:   “it being noted that the Council Housing   Leadership Committee received the attached presentation from   the Director of Municipal Housing;”.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 13. Neighbourhood Family Centre-Thames Valley
+  District School Board White Oaks Public School
+
+> The motion to Approve clause 10, as amended   is put.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 13. Neighbourhood Family Centre-Thames Valley
+  District School Board White Oaks Public School
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 13. Neighbourhood Family Centre-Thames Valley
+  District School Board White Oaks Public School
+
+> Motion to Approve clause 13 is put.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 13. Neighbourhood Family Centre-Thames Valley
+  District School Board White Oaks Public School
+
+> The motion to Approve clause 8 is put.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 13. Neighbourhood Family Centre-Thames Valley
+  District School Board White Oaks Public School
+
+> Motion to Approve clauses 1 to 7,   inclusive, 9 and 11 is put.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 14. Commemorative Street Naming Policy
+
+> That, on the recommendation of the Manager,   Development and Compliance Services, the following actions be taken with   respect to the Commemorative Street Naming Policy:    a)         the   attached revised proposed by-law (Appendix “A”) BE INTRODUCED   at the Municipal Council meeting of Janua...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 18. Properties located at 1400 and 1440 North
+  Wenige Drive (39CD-12514)
+
+> Approve that pursuant to section 13.7 of   the Council Procedure By-law, the actions of the Municipal Council taken at   its meeting of July 24 and 25, 2012, related to the adoption of clause 8 of   the 19th Report of the Planning and Environment Committee, concerning   properties located within ...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 19. Properties located at Wonderland Road
+  North/Fanshawe Park Road West Neighbourhood Commercial Node and 1761
+  Wonderland Road North (O-8131)
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+

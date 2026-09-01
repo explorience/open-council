@@ -1442,429 +1442,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 8:26 PM.
 
 ****
-
----
-
-## Votes
-
-*33 substantive votes at this meeting (17 contested, 16 unanimous). Procedural motions excluded.*
-
-### 2.1. Film London Review and Next Steps
-
-> That, pursuant to section 27.6 of the Council Procedure By-law, a change in order of the Strategic Priorities and Policy Committee Agenda BE APPROVED, to provide for Item 2.1 in Stage 2, Consent, to be considered before Items for Direction and for Item 4.2 g) to be heard first in delegate order.
-
-**✅ Motion Passed (12 to 0)**
-
-Unanimous (12-0)
-
-### 2.1. Film London Review and Next Steps
-
-> That part b) be amended to read as follows: b) the Civic Administration BE DIRECTED to prepare a budget amendment for funding for Film London starting in 2025 until 2027 for consideration as part of the 2025 Budget Update process; That a new part c) be added to read as follows: c) the Civic Admin...
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 2.1. Film London Review and Next Steps
-
-> That the motion be approved, as amended.
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 2.3. 11th Report of the Governance Working Group
-
-> That part d) be approved and reads as follows: d)  the Civic Administration BE DIRECTED to bring forward a by-law to a future meeting of Municipal Council to amend CPOL.-228-480, as amended, to amend the Council Members’ Expense Policy to reduce the annual budget allocation in section 4.1 from $1...
-
-**❌ Motion Failed (5 to 6) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-**Nay (6):** [Josh Morgan](/councillors/current/j-morgan), [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (4):** [Steve Lehman](/councillors/current/s-lehman), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 2.3. 11th Report of the Governance Working Group
-
-> That the balance of the motion be approved.
-
-**✅ Motion Passed (11 to 0)**
-
-Unanimous (11-0)
-
-### 4.1. Delegation - Kelly Paleczny, General Manager and Scott Collyer, Vice Chair - London Transit Commission (LTC) 2023 Annual Report
-
-> That pursuant to section 36.3 of the Council Procedure By-law, K. Paleczny, General Manager and Scott Collyer, Vice Chair - London Transit Commission (LTC) BE PERMITTED to speak an additional five (5) minutes with respect to this matter.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 4.2. 1st Report of the Strategic Opportunities Review Working Group (SORWG)
-
-> That the delegation requests for M. Cassidy, R. Bloomfield, B. Samuels, N. Karsch, L. Bowden, L. Derikx, A. Fleet, K. Creighton and A. Robinson BE APPROVED to be heard at this time.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 4.2. 1st Report of the Strategic Opportunities Review Working Group (SORWG)
-
-> That part a) i) A) be approved and reads as follows: a) the following actions be taken with respect to the Community Grants - Neighbourhood Decision Making communication received from Deputy Mayor S. Lewis and Councillor S. Lehman dated June 14, 2024, as amended: i) the Civic Administration BE DI...
-
-**✅ Motion Passed (9 to 5)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Nay (5):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 4.2. 1st Report of the Strategic Opportunities Review Working Group (SORWG)
-
-> That part B) be approved and reads as follows: B) in lieu of the current Neighbourhood Decision Making Program, the Civic Administration BE DIRECTED to explore options to fund parks improvements through a participatory decision-making model through the Get Involved program while a parks improveme...
-
-**❌ Motion Failed (7 to 7) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (7):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-**Nay (7):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 4.2. 1st Report of the Strategic Opportunities Review Working Group (SORWG)
-
-> That part A) be amended by adding a new part B) and existing B) be changed to C).  The new part B) to read as follows: that Civic Administration BE DIRECTED to offset the costs of the Capital and Innovation Grants for $250,000 a year by a reduced contribution to the Economic Development Reserve F...
-
-**❌ Motion Failed (5 to 9)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (9):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 4.2. 1st Report of the Strategic Opportunities Review Working Group (SORWG)
-
-> That pursuant to section 31.6 of the Council Procedure By-law, Mayor J. Morgan BE PERMITTED to speak an additional five (5) minutes with respect to this matter.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 4.2. 1st Report of the Strategic Opportunities Review Working Group (SORWG)
-
-> That pursuant to section 31.6 of the Council Procedure By-law, Deputy Mayor S. Lewis BE PERMITTED to speak an additional two (2) minutes with respect to this matter.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 4.2. 1st Report of the Strategic Opportunities Review Working Group (SORWG)
-
-> That pursuant to section 31.6 of the Council Procedure By-law, Councillor S. Trosow BE PERMITTED to speak an additional two (2) minutes with respect to this matter.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 4.2. 1st Report of the Strategic Opportunities Review Working Group (SORWG)
-
-> Motion to approve part ii), iii) and part b) and reads as follows: ii) the Civic Administration BE DIRECTED to undertake a comprehensive review of the London Community Grants Program, including the multi-year stream and the Neighbourhood Decision Making Program and bring forward a report prior to...
-
-**✅ Motion Passed (11 to 3)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Nay (3):** [Sam Trosow](/councillors/current/s-trosow), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 4.2. 1st Report of the Strategic Opportunities Review Working Group (SORWG)
-
-> That part c) i) be approved and reads as follows: c) the following actions be taken with respect to the Strategic Opportunities Review Working Group's Annual Work Plan, as amended: i) the Civic Administration BE DIRECTED to report back to the September meeting of the Strategic Opportunities Revie...
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 4.2. 1st Report of the Strategic Opportunities Review Working Group (SORWG)
-
-> That part ii) be approved and reads as follows: ii) the Civic Administration BE DIRECTED to report back to the September meeting of the Strategic Opportunities Review Working Group about the potential for partnerships in municipal golf;
-
-**✅ Motion Passed (11 to 3)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Nay (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 4.2. 1st Report of the Strategic Opportunities Review Working Group (SORWG)
-
-> That part iii) be approved and reads as follows: iii) the Civic Administration BE REQUESTED to attend the July 15, 2024 meeting of the Strategic Opportunities Review Working Group to discuss the City's policy and general information related to venue naming rights with respect to any potential for...
-
-**✅ Motion Passed (13 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
-
-**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 4.2. 1st Report of the Strategic Opportunities Review Working Group (SORWG)
-
-> That part iv) be approved and reads as follows: iv) the Civic Administration BE DIRECTED to report back on the potential to license City facilities for the sale of alcohol as a revenue stream, including a list of potential facilities;
-
-**✅ Motion Passed (9 to 5)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Nay (5):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 4.2. 1st Report of the Strategic Opportunities Review Working Group (SORWG)
-
-> That part v) be approved and reads as follow: v) the Civic Administration BE DIRECTED to report back on the potential to eliminate snow plowing of sidewalks on residential class streets by passing a by-law requiring property owners to clear the sidewalk along their property; and
-
-**❌ Motion Failed (6 to 8) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins)
-
-**Nay (8):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 4.2. 1st Report of the Strategic Opportunities Review Working Group (SORWG)
-
-> That part vi) be approved and reads as follows: vi) the Civic Administration BE DIRECTED to report back in the first quarter of 2025 with potential options for Council's consideration with respect to the Surplus Deficit Policy;
-
-**✅ Motion Passed (11 to 3)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (11):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (3):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 4.2. 1st Report of the Strategic Opportunities Review Working Group (SORWG)
-
-> That the Strategic Priorities and Policy Committee recess at this time, for 15 minutes.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 4.4. SS-2024-237 Single Source Award for Year-Round Ark Aid Mission Strategy
-
-> That the delegation requests for S. Campbell, Executive Director, Ark Aid Street Mission Inc. and K. Morrison, General Manager, Old East Village BIA BE APPROVED to be heard at this time.
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 4.4. SS-2024-237 Single Source Award for Year-Round Ark Aid Mission Strategy
-
-> That the Civic Administration BE DIRECTED to extend one-time funding in the amount of $687,000 to Ark Aid Street Mission Inc. for an additional 61 days until September 30, 2024 to be funded through the Community Investment Reserve Fund and that Civic Administration engage with the Old East Villag...
-
-**❌ Motion Failed (4 to 9)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-**Nay (9):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (2):** [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 4.4. SS-2024-237 Single Source Award for Year-Round Ark Aid Mission Strategy
-
-> That pursuant to section 33.8 of the Council Procedure By-law, the Strategic Priorities and Policy Committee BE PERMITTED to proceed beyond 6:00 PM.
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 4.4. SS-2024-237 Single Source Award for Year-Round Ark Aid Mission Strategy
-
-> That pursuant to section 31.6 of the Council Procedure By-law, Councillor S. Stevenson BE PERMITTED to speak an additional two (2) minutes with respect to this matter.
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 4.4. SS-2024-237 Single Source Award for Year-Round Ark Aid Mission Strategy
-
-> That the motion be amended to include new part f) to read as follows: f) the Mayor BE REQUESTED to advocate the Provincial and Federal governments to offset the costs that could be incurred related to the award to the Ark Aid Street Mission Inc. Year-Round Stable Responsive Services strategy in t...
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 4.4. SS-2024-237 Single Source Award for Year-Round Ark Aid Mission Strategy
-
-> That the motion be amended to include a new part g) to read as follows: g) Civic Administration BE DIRECTED to engage with the Old East Village BIA, local residents and Ark Aid Street Mission Inc. to review the Year-Round Stable Responsive Services strategy.
-
-**✅ Motion Passed (12 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke)
-
-**Nay (1):** [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (2):** [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 4.4. SS-2024-237 Single Source Award for Year-Round Ark Aid Mission Strategy
-
-> The part b) be amended to read as follows: i)    that Ark Aid Street Mission Inc.'s budget for the $1.8M single source award be distributed to Council and attached to the Council agenda;
-
-**✅ Motion Passed (12 to 0)**
-
-Unanimous (12-0)
-
-### 4.4. SS-2024-237 Single Source Award for Year-Round Ark Aid Mission Strategy
-
-> That part c) be amended with a new part i) to read as follows: i)    Civic Administration BE DIRECTED to engage with Ark Aid Street Mission Inc. to relocate the front door services off Dundas Street as part of the budget amendment preparation for the 2025 Budget Update process for funding in 2025...
-
-**❌ Motion Failed (4 to 8)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-**Nay (8):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (3):** [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 4.4. SS-2024-237 Single Source Award for Year-Round Ark Aid Mission Strategy
-
-> That the motion be approved, as amended and reads as follows: That, on the recommendation of the Deputy City Manager, Social and Health Development, the following actions be taken with respect to the July 18, 2024, SS-2024-237 Single Source Award for Year-Round Ark Aid Street Mission Inc. Strateg...
-
-**✅ Motion Passed (10 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Steve Lehman](/councillors/current/s-lehman)
-
-**Absent (3):** [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 4.5. Request for Recording and Livestreaming Working Group Meetings - Councillor A. Hopkins
-
-> That the motion be amended to read as follows: That the City Clerk BE DIRECTED to record and post publicly the meetings of the Governance Working Group and the Strategic Opportunities Review Working Group using the ZOOM application, it being noted that the Strategic Priorities and Policy Committe...
-
-**✅ Motion Passed (8 to 3)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-**Nay (3):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (4):** [Steve Lehman](/councillors/current/s-lehman), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 4.5. Request for Recording and Livestreaming Working Group Meetings - Councillor A. Hopkins
-
-> That the motion to the request for recording and livestreaming of working group meetings BE REFERRED to Civic Administration to report back to a future meeting of the Strategic Priorities and Policy Committee for consideration of alternate technology options.
-
-**❌ Motion Failed (3 to 8)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (8):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-**Absent (4):** [Steve Lehman](/councillors/current/s-lehman), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 4.5. Request for Recording and Livestreaming Working Group Meetings - Councillor A. Hopkins
-
-> That the motion be approved, as amended.
-
-**✅ Motion Passed (9 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins)
-
-**Absent (4):** [Steve Lehman](/councillors/current/s-lehman), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
 ---
 
 ## Full Transcript
@@ -3749,3 +3326,444 @@ Absolutely, thank God, thank you. You saved all your speaking time tonight for t
 Motion carries. We are adjourned and I appreciate the media voting to adjourn as well.
 
 </details>
+
+---
+
+## Votes
+
+*34 substantive votes at this meeting (18 contested, 16 unanimous). Procedural motions excluded.*
+
+### 2.1. Film London Review and Next Steps
+
+> That, pursuant to section 27.6 of the Council Procedure By-law, a change in order of the Strategic Priorities and Policy Committee Agenda BE APPROVED, to provide for Item 2.1 in Stage 2, Consent, to be considered before Items for Direction and for Item 4.2 g) to be heard first in delegate order.
+
+**✅ Motion Passed (12 to 0)**
+
+Unanimous (12-0)
+
+### 2.1. Film London Review and Next Steps
+
+> That part b) be amended to read as follows: b) the Civic Administration BE DIRECTED to prepare a budget amendment for funding for Film London starting in 2025 until 2027 for consideration as part of the 2025 Budget Update process; That a new part c) be added to read as follows: c) the Civic Admin...
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 2.1. Film London Review and Next Steps
+
+> That the motion be approved, as amended.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 2.2. Whole of Community System Response -  Q2 Quarterly Report
+
+> That on the recommendation of the Deputy City Manager, Social and Health Development, the Whole of Community System Response - Q2 Quarterly Report BE RECEIVED for information.
+
+**✅ Motion Passed (12 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+**Absent (2):** [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 2.3. 11th Report of the Governance Working Group
+
+> That part d) be approved and reads as follows: d)  the Civic Administration BE DIRECTED to bring forward a by-law to a future meeting of Municipal Council to amend CPOL.-228-480, as amended, to amend the Council Members’ Expense Policy to reduce the annual budget allocation in section 4.1 from $1...
+
+**❌ Motion Failed (5 to 6) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Nay (6):** [Josh Morgan](/councillors/current/j-morgan), [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (4):** [Steve Lehman](/councillors/current/s-lehman), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 2.3. 11th Report of the Governance Working Group
+
+> That the balance of the motion be approved.
+
+**✅ Motion Passed (11 to 0)**
+
+Unanimous (11-0)
+
+### 4.1. Delegation - Kelly Paleczny, General Manager and Scott Collyer, Vice Chair - London Transit Commission (LTC) 2023 Annual Report
+
+> That pursuant to section 36.3 of the Council Procedure By-law, K. Paleczny, General Manager and Scott Collyer, Vice Chair - London Transit Commission (LTC) BE PERMITTED to speak an additional five (5) minutes with respect to this matter.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 4.2. 1st Report of the Strategic Opportunities Review Working Group (SORWG)
+
+> That the delegation requests for M. Cassidy, R. Bloomfield, B. Samuels, N. Karsch, L. Bowden, L. Derikx, A. Fleet, K. Creighton and A. Robinson BE APPROVED to be heard at this time.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 4.2. 1st Report of the Strategic Opportunities Review Working Group (SORWG)
+
+> That part a) i) A) be approved and reads as follows: a) the following actions be taken with respect to the Community Grants - Neighbourhood Decision Making communication received from Deputy Mayor S. Lewis and Councillor S. Lehman dated June 14, 2024, as amended: i) the Civic Administration BE DI...
+
+**✅ Motion Passed (9 to 5)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (5):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.2. 1st Report of the Strategic Opportunities Review Working Group (SORWG)
+
+> That part B) be approved and reads as follows: B) in lieu of the current Neighbourhood Decision Making Program, the Civic Administration BE DIRECTED to explore options to fund parks improvements through a participatory decision-making model through the Get Involved program while a parks improveme...
+
+**❌ Motion Failed (7 to 7) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Nay (7):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.2. 1st Report of the Strategic Opportunities Review Working Group (SORWG)
+
+> That part A) be amended by adding a new part B) and existing B) be changed to C).  The new part B) to read as follows: that Civic Administration BE DIRECTED to offset the costs of the Capital and Innovation Grants for $250,000 a year by a reduced contribution to the Economic Development Reserve F...
+
+**❌ Motion Failed (5 to 9)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (9):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.2. 1st Report of the Strategic Opportunities Review Working Group (SORWG)
+
+> That pursuant to section 31.6 of the Council Procedure By-law, Mayor J. Morgan BE PERMITTED to speak an additional five (5) minutes with respect to this matter.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 4.2. 1st Report of the Strategic Opportunities Review Working Group (SORWG)
+
+> That pursuant to section 31.6 of the Council Procedure By-law, Deputy Mayor S. Lewis BE PERMITTED to speak an additional two (2) minutes with respect to this matter.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 4.2. 1st Report of the Strategic Opportunities Review Working Group (SORWG)
+
+> That pursuant to section 31.6 of the Council Procedure By-law, Councillor S. Trosow BE PERMITTED to speak an additional two (2) minutes with respect to this matter.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 4.2. 1st Report of the Strategic Opportunities Review Working Group (SORWG)
+
+> Motion to approve part ii), iii) and part b) and reads as follows: ii) the Civic Administration BE DIRECTED to undertake a comprehensive review of the London Community Grants Program, including the multi-year stream and the Neighbourhood Decision Making Program and bring forward a report prior to...
+
+**✅ Motion Passed (11 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (3):** [Sam Trosow](/councillors/current/s-trosow), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.2. 1st Report of the Strategic Opportunities Review Working Group (SORWG)
+
+> That part c) i) be approved and reads as follows: c) the following actions be taken with respect to the Strategic Opportunities Review Working Group's Annual Work Plan, as amended: i) the Civic Administration BE DIRECTED to report back to the September meeting of the Strategic Opportunities Revie...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 4.2. 1st Report of the Strategic Opportunities Review Working Group (SORWG)
+
+> That part ii) be approved and reads as follows: ii) the Civic Administration BE DIRECTED to report back to the September meeting of the Strategic Opportunities Review Working Group about the potential for partnerships in municipal golf;
+
+**✅ Motion Passed (11 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.2. 1st Report of the Strategic Opportunities Review Working Group (SORWG)
+
+> That part iii) be approved and reads as follows: iii) the Civic Administration BE REQUESTED to attend the July 15, 2024 meeting of the Strategic Opportunities Review Working Group to discuss the City's policy and general information related to venue naming rights with respect to any potential for...
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.2. 1st Report of the Strategic Opportunities Review Working Group (SORWG)
+
+> That part iv) be approved and reads as follows: iv) the Civic Administration BE DIRECTED to report back on the potential to license City facilities for the sale of alcohol as a revenue stream, including a list of potential facilities;
+
+**✅ Motion Passed (9 to 5)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (5):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.2. 1st Report of the Strategic Opportunities Review Working Group (SORWG)
+
+> That part v) be approved and reads as follow: v) the Civic Administration BE DIRECTED to report back on the potential to eliminate snow plowing of sidewalks on residential class streets by passing a by-law requiring property owners to clear the sidewalk along their property; and
+
+**❌ Motion Failed (6 to 8) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins)
+
+**Nay (8):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.2. 1st Report of the Strategic Opportunities Review Working Group (SORWG)
+
+> That part vi) be approved and reads as follows: vi) the Civic Administration BE DIRECTED to report back in the first quarter of 2025 with potential options for Council's consideration with respect to the Surplus Deficit Policy;
+
+**✅ Motion Passed (11 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (3):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.2. 1st Report of the Strategic Opportunities Review Working Group (SORWG)
+
+> That the Strategic Priorities and Policy Committee recess at this time, for 15 minutes.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 4.4. SS-2024-237 Single Source Award for Year-Round Ark Aid Mission Strategy
+
+> That the delegation requests for S. Campbell, Executive Director, Ark Aid Street Mission Inc. and K. Morrison, General Manager, Old East Village BIA BE APPROVED to be heard at this time.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 4.4. SS-2024-237 Single Source Award for Year-Round Ark Aid Mission Strategy
+
+> That the Civic Administration BE DIRECTED to extend one-time funding in the amount of $687,000 to Ark Aid Street Mission Inc. for an additional 61 days until September 30, 2024 to be funded through the Community Investment Reserve Fund and that Civic Administration engage with the Old East Villag...
+
+**❌ Motion Failed (4 to 9)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Nay (9):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (2):** [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.4. SS-2024-237 Single Source Award for Year-Round Ark Aid Mission Strategy
+
+> That pursuant to section 33.8 of the Council Procedure By-law, the Strategic Priorities and Policy Committee BE PERMITTED to proceed beyond 6:00 PM.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 4.4. SS-2024-237 Single Source Award for Year-Round Ark Aid Mission Strategy
+
+> That pursuant to section 31.6 of the Council Procedure By-law, Councillor S. Stevenson BE PERMITTED to speak an additional two (2) minutes with respect to this matter.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 4.4. SS-2024-237 Single Source Award for Year-Round Ark Aid Mission Strategy
+
+> That the motion be amended to include new part f) to read as follows: f) the Mayor BE REQUESTED to advocate the Provincial and Federal governments to offset the costs that could be incurred related to the award to the Ark Aid Street Mission Inc. Year-Round Stable Responsive Services strategy in t...
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 4.4. SS-2024-237 Single Source Award for Year-Round Ark Aid Mission Strategy
+
+> That the motion be amended to include a new part g) to read as follows: g) Civic Administration BE DIRECTED to engage with the Old East Village BIA, local residents and Ark Aid Street Mission Inc. to review the Year-Round Stable Responsive Services strategy.
+
+**✅ Motion Passed (12 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke)
+
+**Nay (1):** [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (2):** [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.4. SS-2024-237 Single Source Award for Year-Round Ark Aid Mission Strategy
+
+> The part b) be amended to read as follows: i)    that Ark Aid Street Mission Inc.'s budget for the $1.8M single source award be distributed to Council and attached to the Council agenda;
+
+**✅ Motion Passed (12 to 0)**
+
+Unanimous (12-0)
+
+### 4.4. SS-2024-237 Single Source Award for Year-Round Ark Aid Mission Strategy
+
+> That part c) be amended with a new part i) to read as follows: i)    Civic Administration BE DIRECTED to engage with Ark Aid Street Mission Inc. to relocate the front door services off Dundas Street as part of the budget amendment preparation for the 2025 Budget Update process for funding in 2025...
+
+**❌ Motion Failed (4 to 8)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Nay (8):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (3):** [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.4. SS-2024-237 Single Source Award for Year-Round Ark Aid Mission Strategy
+
+> That the motion be approved, as amended and reads as follows: That, on the recommendation of the Deputy City Manager, Social and Health Development, the following actions be taken with respect to the July 18, 2024, SS-2024-237 Single Source Award for Year-Round Ark Aid Street Mission Inc. Strateg...
+
+**✅ Motion Passed (10 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Steve Lehman](/councillors/current/s-lehman)
+
+**Absent (3):** [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.5. Request for Recording and Livestreaming Working Group Meetings - Councillor A. Hopkins
+
+> That the motion be amended to read as follows: That the City Clerk BE DIRECTED to record and post publicly the meetings of the Governance Working Group and the Strategic Opportunities Review Working Group using the ZOOM application, it being noted that the Strategic Priorities and Policy Committe...
+
+**✅ Motion Passed (8 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Nay (3):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (4):** [Steve Lehman](/councillors/current/s-lehman), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.5. Request for Recording and Livestreaming Working Group Meetings - Councillor A. Hopkins
+
+> That the motion to the request for recording and livestreaming of working group meetings BE REFERRED to Civic Administration to report back to a future meeting of the Strategic Priorities and Policy Committee for consideration of alternate technology options.
+
+**❌ Motion Failed (3 to 8)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (8):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (4):** [Steve Lehman](/councillors/current/s-lehman), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.5. Request for Recording and Livestreaming Working Group Meetings - Councillor A. Hopkins
+
+> That the motion be approved, as amended.
+
+**✅ Motion Passed (9 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins)
+
+**Absent (4):** [Steve Lehman](/councillors/current/s-lehman), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+

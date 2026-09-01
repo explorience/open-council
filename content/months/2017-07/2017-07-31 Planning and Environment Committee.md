@@ -873,7 +873,7 @@ The meeting adjourned at 6:56 PM.
 
 ## Votes
 
-*12 substantive votes at this meeting (12 contested, 0 unanimous). Procedural motions excluded.*
+*18 substantive votes at this meeting (1 contested, 17 unanimous). Procedural motions excluded.*
 
 ### 2. STAFF REPORT - Property
   located at a portion of 1800 Cedarhollow Boulevard - Cedarhollow Subdivision
@@ -884,12 +884,7 @@ The meeting adjourned at 6:56 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (6-0)
 
 ### 3. STAFF REPORT - Property
   located at 66 Byron Avenue (Z-8616)
@@ -899,12 +894,7 @@ The meeting adjourned at 6:56 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (6-0)
 
 ### 4. STAFF REPORT - Property
   located at 2332 Wickerson Road - Phase 1 and 2 (H-8700/H-8750)
@@ -914,12 +904,7 @@ The meeting adjourned at 6:56 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (6-0)
 
 ### 5. STAFF REPORT - Property
   located at Wickerson Hills Subdivision - Phase Two (39T-08507)
@@ -929,12 +914,7 @@ The meeting adjourned at 6:56 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (6-0)
 
 ### 6. STAFF REPORT - Property
   located at 2150 Oxford Street East (H-8801)
@@ -944,12 +924,7 @@ The meeting adjourned at 6:56 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (6-0)
 
 ### 7. STAFF REPORT -
   Strategic Plan Progress Variance Report
@@ -959,12 +934,7 @@ The meeting adjourned at 6:56 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (6-0)
 
 ### 8. STAFF REPORT -
   Limiting Distance (No-Build) Agreement Between the Corporation of the City of
@@ -975,12 +945,7 @@ The meeting adjourned at 6:56 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (6-0)
 
 ### 9. PUBLIC
   PARTICIPATION MEETING - Properties located at 150 Dundas Street  and 153
@@ -991,12 +956,40 @@ The meeting adjourned at 6:56 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (6-0)
 
-**Yea (18):** [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park)
+### 9. PUBLIC
+  PARTICIPATION MEETING - Properties located at 150 Dundas Street  and 153
+  Carling Street - Request for Demolition of a Heritage Designated Property
 
-</details>
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 9. PUBLIC
+  PARTICIPATION MEETING - Properties located at 150 Dundas Street  and 153
+  Carling Street - Request for Demolition of a Heritage Designated Property
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 10. PUBLIC
+  PARTICIPATION MEETING - Properties located at 150 Dundas Street and 153
+  Carling Street
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
 
 ### 10. PUBLIC
   PARTICIPATION MEETING - Properties located at 150 Dundas Street and 153
@@ -1010,11 +1003,22 @@ The meeting adjourned at 6:56 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (17):** [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park)
+**Yea (5):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Tanya Park](/councillors/current/t-park)
 
 **Nay (1):** [Jesse Helmer](/councillors/current/j-helmer)
 
 </details>
+
+### 10. PUBLIC
+  PARTICIPATION MEETING - Properties located at 150 Dundas Street and 153
+  Carling Street
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
 
 ### 11. PUBLIC
   PARTICIPATION MEETING - Group Home Type 1 Uses with Regards to Distance
@@ -1025,12 +1029,29 @@ The meeting adjourned at 6:56 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (6-0)
 
-**Yea (18):** [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park)
+### 11. PUBLIC
+  PARTICIPATION MEETING - Group Home Type 1 Uses with Regards to Distance
+  Separation Regulations of the Zoning By-law (Z-8779)
 
-</details>
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 11. PUBLIC
+  PARTICIPATION MEETING - Group Home Type 1 Uses with Regards to Distance
+  Separation Regulations of the Zoning By-law (Z-8779)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
 
 ### 12. COUNCILOR MEMBER SUBMISSION
   - Bill C-45 Potential Local Impacts
@@ -1040,12 +1061,7 @@ The meeting adjourned at 6:56 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (6-0)
 
 ### 13. PEC Deferred List
 
@@ -1054,10 +1070,5 @@ The meeting adjourned at 6:56 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Tanya Park](/councillors/current/t-park)
-
-</details>
+Unanimous (6-0)
 

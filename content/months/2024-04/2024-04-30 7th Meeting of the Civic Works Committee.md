@@ -320,43 +320,6 @@ None.
 
 
 The meeting adjourned at 10:40 AM.
-
----
-
-## Votes
-
-*3 substantive votes at this meeting (1 contested, 2 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 to 2.8 BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 2.9. SS-2024-098 - Single Source Purchase of Energreen Tractor Mower
-
-> That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to the staff report, dated April 30, 2024, related to SS-2024-098 for the Single Source Purchase of an Energreen Tractor Mower: a)    approval BE GIVEN to execute a Single Source ...
-
-**✅ Motion Passed (4 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Jerry Pribil](/councillors/current/j-pribil), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
-
-</details>
-
-### 4.1. Tree Planting Plan for Harris Park
-
-> Motion to approve the delegation request from A.M. Valastro, to be heard at this meeting.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -703,3 +666,41 @@ It, to me, it's something that we can go forward with, and that is all for now. 
 I see none, and I'm looking forward to a German. Councillor Ferrer is seconded by Councillor Frank. We vote, hand vote, that's carried. Thank you, everyone.
 
 </details>
+
+---
+
+## Votes
+
+*3 substantive votes at this meeting (1 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.8 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.9. SS-2024-098 - Single Source Purchase of Energreen Tractor Mower
+
+> That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to the staff report, dated April 30, 2024, related to SS-2024-098 for the Single Source Purchase of an Energreen Tractor Mower: a)    approval BE GIVEN to execute a Single Source ...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Jerry Pribil](/councillors/current/j-pribil), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+</details>
+
+### 4.1. Tree Planting Plan for Harris Park
+
+> Motion to approve the delegation request from A.M. Valastro, to be heard at this meeting.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

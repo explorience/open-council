@@ -308,7 +308,7 @@ The meeting adjourned at 6:02 PM.
 
 ## Votes
 
-*4 substantive votes at this meeting (0 contested, 4 unanimous). Procedural motions excluded.*
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -316,15 +316,7 @@ The meeting adjourned at 6:02 PM.
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
-
-### 3.1. S. Levin and A. Boyer - 4th Report of the Environmental and Ecological Planning Advisory Committee
-
-> That, the following actions be taken with respect to the 4th Report of the Environmental and Ecological Planning Advisory Committee from its meeting held on March 15, 2018: a)            the following actions be taken with respect to the Victoria Bridge Environmental Assessment: i)              t...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 3.2. Public Participation Meeting - Application - 1039, 1041, 1043, 1045 and 1047 Dundas Street (Z-8862)
 
@@ -332,13 +324,5 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
-
-### 3.3. Not to be heard before 4:30 PM - S. Franke - 2nd Report of the Agricultural Advisory Committee
-
-> That the following actions be taken with respect to the 2nd Report of the Agriculture Advisory Committee from its meeting held on March 21, 2018: a)            Clause 5.1 BE AMENDED by deleting the clause in its entirety and replacing it with the following: “the Mayor BE REQUESTED to write a lett...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
+Unanimous (5-0)
 

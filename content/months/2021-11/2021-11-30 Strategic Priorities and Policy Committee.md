@@ -1022,276 +1022,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourns at 9:23 PM.
 
 ****
-
----
-
-## Votes
-
-*24 substantive votes at this meeting (12 contested, 12 unanimous). Procedural motions excluded.*
-
-### 3.1. Delegation - Brian Hill, Member - 9th Report of the Diversity, Inclusion and Anti-Oppression Advisory Committee
-
-> That the following actions be taken with respect to the 9th Report of the Diversity, Inclusion and Anti-Oppression Advisory Committee from its meeting held on November 18, 2021: a) the following actions be taken with respect to the Policy and Planning Sub-Committee: i)    the final DIAAC 2021 Yea...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (13-0)
-
-### 4.1. (ADDED) - REVISED - Committee Appointment Preferences submitted by Council Members
-
-> That the following appointments BE MADE to the Standing Committees of the Municipal Council for the term December 1, 2021 to November 14, 2022:    a) Planning and Environment Committee     Councillor A. Hopkins (Chair)  Councillor S. Lehman  Councillor S. Lewis  Councillor S. Hillier  Councillor ...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (13-0)
-
-### 4.1. (ADDED) - REVISED - Committee Appointment Preferences submitted by Council Members
-
-> Appointment to the Planning and Environment Committee
-
-**❌ Majority Winner: Councillor S. Lehman; Councillor S. Lewis; Councillor A. Hopkins; Councillor S. Hillier; Councillor S. Turner 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Absent (63):** [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Shawn Lewis](/councillors/current/s-lewis), [Shawn Lewis](/councillors/current/s-lewis), [Shawn Lewis](/councillors/current/s-lewis), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Lehman](/councillors/current/s-lehman), [Steve Lehman](/councillors/current/s-lehman), [Steve Lehman](/councillors/current/s-lehman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Elizabeth Peloza](/councillors/current/e-peloza), [Elizabeth Peloza](/councillors/current/e-peloza), [Elizabeth Peloza](/councillors/current/e-peloza), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Steve Hillier](/councillors/current/s-hillier), [Steve Hillier](/councillors/current/s-hillier), [Steve Hillier](/councillors/current/s-hillier), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Ed Holder](/councillors/current/e-holder), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Mo Salih](/councillors/current/m-salih), [Mo Salih](/councillors/current/m-salih), [Mo Salih](/councillors/current/m-salih), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner)
-
-</details>
-
-### 4.1. (ADDED) - REVISED - Committee Appointment Preferences submitted by Council Members
-
-> Selection of Chair for the Civic Works Committee
-
-**❌ Majority Winner: Councillor E. Peloza 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Absent (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner)
-
-</details>
-
-### 4.2. Consideration of Appointment to the Covent Garden Market Board of Directors (Requires 1 Council Member)
-
-> That Councillor J. Fyfe-Millar BE APPOINTED to the Covent Garden Market Board of Directors for the term ending November 14, 2022.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (13-0)
-
-### 4.3. Consideration of Appointment to the London & Middlesex Community Housing (Requires 1 Council Member)
-
-> That the following actions be taken:    a)  Councillor S. Lewis BE APPOINTED to the London and Middlesex Community Housing for the term ending November 14, 2022; and,    b) the City Clerk BE DIRECTED to bring forward applications to be considered to fill the tenant vacancy at a future meeting of ...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (13-0)
-
-### 4.4. Consideration of Appointment to the London Transit Commission (Requires 1 Council Member)
-
-> That Councillor A. Hopkins BE APPOINTED to the London Transit Commission for the term ending November 14, 2022.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (13-0)
-
-### 4.4. Consideration of Appointment to the London Transit Commission (Requires 1 Council Member)
-
-> Councillor appointment to the London Transit Commission
-
-**❌ Majority Winner: Councillor Hopkins 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Absent (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner)
-
-</details>
-
-### 4.5. Consideration of Appointment to the Middlesex-London Health Unit Board of Directors (Requires 1 Council Member)
-
-> That Councillor M. Hamou BE APPOINTED to the Middlesex-London Health Unit Board of Directors for the term ending November 14, 2022.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (13-0)
-
-### 4.5. Consideration of Appointment to the Middlesex-London Health Unit Board of Directors (Requires 1 Council Member)
-
-> Councillor appointment to the Middlesex-London Health Unit
-
-**❌ Majority Winner: Councillor Hamou 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Absent (13):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner)
-
-</details>
-
-### 4.6. Consideration of Appointment to the Tourism London Board of Directors (Requires 1 Council Member)
-
-> That Councillor S. Hillier BE APPOINTED to the Tourism London Board of Directors for the term ending November 14, 2022; it being noted that the Strategic Priorities and Policy Committee received a communication dated September 23, 2021 from C. Finn, General Manager, Tourism London regarding this ...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (13-0)
-
-### 4.6. Consideration of Appointment to the Tourism London Board of Directors (Requires 1 Council Member)
-
-> Appointment of a Councillor to the Tourism London Board of Directors
-
-**❌ Majority Winner: No majority 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Absent (20):** [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Steve Hillier](/councillors/current/s-hillier), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner)
-
-</details>
-
-### 4.7. Consideration of Appointment to the Western Fair Association Programming Council (Requires 1 Council Member)
-
-> That Councillor S. Hillier BE APPOINTED to the Western Fair Association Programming Council for the term ending November 14, 2022; it being noted that the Strategic Priorities and Policy Committee received a communication dated October 14, 2021 from R. Ash, CEO, Western Fair District with respect...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (13-0)
-
-### 4.8. Consideration of Appointment to the Committee of Adjustment (Requires 1 Member at Large)
-
-> That Antonio D. Santiago BE APPOINTED to the Committee of Adjustment for the term ending November 14, 2022.
-
-**✅ Motion Passed (14 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner)
-
-**Nay (1):** [Jesse Helmer](/councillors/current/j-helmer)
-
-</details>
-
-### 4.8. Consideration of Appointment to the Committee of Adjustment (Requires 1 Member at Large)
-
-> Appointment to the Committee of Adjustment
-
-**❌ Majority Winner: No majority 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Absent (9):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
-
-</details>
-
-### 4.9. 4th and 5th Reports of the Governance Working Group
-
-> Motion to approve the 4th Report of the Governance Working Group - excluding clause 3.2 - Operations of Municipal Council: That the following actions be taken with respect to the 4th and 5th Reports of the Governance Working Group from its meetings held on November 8 and 15, 2021, respectively:  ...
-
-**✅ Motion Passed (12 to 3)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy)
-
-**Nay (1):** [Jesse Helmer](/councillors/current/j-helmer)
-
-</details>
-
-### 4.9. 4th and 5th Reports of the Governance Working Group
-
-> Motion that clause 3.2 a) of the 4th Report of the Governance Working Group BE APPROVED. b) the following actions be taken with respect to the general operations of Municipal Council: i)     the Civic Administration BE DIRECTED to make the necessary changes to facilitate Council meetings to be he...
-
-**✅ Motion Passed (11 to 4)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer)
-
-**Nay (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/current/m-cassidy)
-
-</details>
-
-### 4.9. 4th and 5th Reports of the Governance Working Group
-
-> Motion that clause 3.2 b) of the 4th Report of the Governance Working Group, BE APPROVED: ii)      the Civic Administration BE DIRECTED to report back to the GWG with respect to recommendations related to the survey results and other feedback related to the staff support model in the Councillors’...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (13-0)
-
-### 4.9. 4th and 5th Reports of the Governance Working Group
-
-> That consideration of clause 3.1 of the 5th Report of the Governance Working Group, related to the Advisory Committee Review Final Report BE REFERRED to a future meeting of the Governance Working Group (GWG) in order to invite all members of the current advisory committees to have a discussion wi...
-
-**✅ Motion Passed (8 to 7) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner)
-
-**Nay (5):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier), [Michael van Holst](/councillors/current/m-van-holst)
-
-</details>
-
-### 4.9. 4th and 5th Reports of the Governance Working Group
-
-> That section 4.2 c) vii) of the Draft Council Members' Expense Account Policy BE AMENDED by deleting the following:  "but excluding home internet costs, services or equipment;"
-
-**✅ Motion Passed (12 to 3)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner)
-
-**Nay (1):** [Shawn Lewis](/councillors/current/s-lewis)
-
-</details>
-
-### 4.9. 4th and 5th Reports of the Governance Working Group
-
-> That Clause 4.1 of the 5th Report of the Governance Working Group BE APPROVED: d)    the attached revised Council Members' Expense Account Policy BE FORWARDED to the Strategic Priorities and Policy Committee for approval; it being noted that the proposed changes would come into effect for the nex...
-
-**✅ Motion Passed (12 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner)
-
-**Absent (1):** [Steve Lehman](/councillors/current/s-lehman)
-
-</details>
-
-### 4.9. 4th and 5th Reports of the Governance Working Group
-
-> That the balance of the 5th Report of the GWG and the relate correspondence from the Urban League of London, dated November 25, 2021, BE APPROVED.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (12-0)
-
-### 4.10. London Public Library Board of Directors Vacancy
-
-> That the following actions be taken with respect to the Library Board of Directors vacancy notification:    a)  contact current applications on file, to confirm that those individuals remain interested in consideration for appointment; b) seek additional applications to fill the vacancy on the Bo...
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (11-0)
-
-### 5.1. Governance Working Group Membership
-
-> That members who may be interested in an appointment to the Governance Working Group BE INVITED to submit a communication for the December 7, 2021 Council meeting for consideration along with the 18th Report of the Strategic Priorities and Policy Committee.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (12-0)
 ---
 
 ## Full Transcript
@@ -2592,3 +2322,190 @@ And with that, I'll look for a motion to adjourn. I see Councillor Omou, seconde
 Screen is on, all in favor. Councillor Palose, I'm guessing. Yes, that motion's passed. Thank you, meeting adjourned.
 
 </details>
+
+---
+
+## Votes
+
+*17 substantive votes at this meeting (6 contested, 11 unanimous). Procedural motions excluded.*
+
+### 4.1. (ADDED) - REVISED - Committee Appointment Preferences submitted by Council Members
+
+> That the following appointments BE MADE to the Standing Committees of the Municipal Council for the term December 1, 2021 to November 14, 2022:    a) Planning and Environment Committee     Councillor A. Hopkins (Chair)  Councillor S. Lehman  Councillor S. Lewis  Councillor S. Hillier  Councillor ...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 4.2. Consideration of Appointment to the Covent Garden Market Board of Directors (Requires 1 Council Member)
+
+> That Councillor J. Fyfe-Millar BE APPOINTED to the Covent Garden Market Board of Directors for the term ending November 14, 2022.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 4.3. Consideration of Appointment to the London & Middlesex Community Housing (Requires 1 Council Member)
+
+> That the following actions be taken:    a)  Councillor S. Lewis BE APPOINTED to the London and Middlesex Community Housing for the term ending November 14, 2022; and,    b) the City Clerk BE DIRECTED to bring forward applications to be considered to fill the tenant vacancy at a future meeting of ...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 4.4. Consideration of Appointment to the London Transit Commission (Requires 1 Council Member)
+
+> That Councillor A. Hopkins BE APPOINTED to the London Transit Commission for the term ending November 14, 2022.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 4.5. Consideration of Appointment to the Middlesex-London Health Unit Board of Directors (Requires 1 Council Member)
+
+> That Councillor M. Hamou BE APPOINTED to the Middlesex-London Health Unit Board of Directors for the term ending November 14, 2022.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 4.6. Consideration of Appointment to the Tourism London Board of Directors (Requires 1 Council Member)
+
+> That Councillor S. Hillier BE APPOINTED to the Tourism London Board of Directors for the term ending November 14, 2022; it being noted that the Strategic Priorities and Policy Committee received a communication dated September 23, 2021 from C. Finn, General Manager, Tourism London regarding this ...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 4.7. Consideration of Appointment to the Western Fair Association Programming Council (Requires 1 Council Member)
+
+> That Councillor S. Hillier BE APPOINTED to the Western Fair Association Programming Council for the term ending November 14, 2022; it being noted that the Strategic Priorities and Policy Committee received a communication dated October 14, 2021 from R. Ash, CEO, Western Fair District with respect...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 4.8. Consideration of Appointment to the Committee of Adjustment (Requires 1 Member at Large)
+
+> That Antonio D. Santiago BE APPOINTED to the Committee of Adjustment for the term ending November 14, 2022.
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Mariam Hamou](/councillors/current/m-hamou), [John Fyfe-Millar](/councillors/current/j-fyfe-millar)
+
+**Nay (1):** [Jesse Helmer](/councillors/current/j-helmer)
+
+</details>
+
+### 4.9. 4th and 5th Reports of the Governance Working Group
+
+> Motion to approve the 4th Report of the Governance Working Group - excluding clause 3.2 - Operations of Municipal Council: That the following actions be taken with respect to the 4th and 5th Reports of the Governance Working Group from its meetings held on November 8 and 15, 2021, respectively:  ...
+
+**✅ Motion Passed (12 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Mariam Hamou](/councillors/current/m-hamou), [John Fyfe-Millar](/councillors/current/j-fyfe-millar)
+
+**Nay (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 4.9. 4th and 5th Reports of the Governance Working Group
+
+> Motion that clause 3.2 a) of the 4th Report of the Governance Working Group BE APPROVED. b) the following actions be taken with respect to the general operations of Municipal Council: i)     the Civic Administration BE DIRECTED to make the necessary changes to facilitate Council meetings to be he...
+
+**✅ Motion Passed (11 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Mariam Hamou](/councillors/current/m-hamou), [John Fyfe-Millar](/councillors/current/j-fyfe-millar)
+
+**Nay (4):** [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 4.9. 4th and 5th Reports of the Governance Working Group
+
+> Motion that clause 3.2 b) of the 4th Report of the Governance Working Group, BE APPROVED: ii)      the Civic Administration BE DIRECTED to report back to the GWG with respect to recommendations related to the survey results and other feedback related to the staff support model in the Councillors’...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 4.9. 4th and 5th Reports of the Governance Working Group
+
+> That consideration of clause 3.1 of the 5th Report of the Governance Working Group, related to the Advisory Committee Review Final Report BE REFERRED to a future meeting of the Governance Working Group (GWG) in order to invite all members of the current advisory committees to have a discussion wi...
+
+**✅ Motion Passed (8 to 7) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [John Fyfe-Millar](/councillors/current/j-fyfe-millar)
+
+**Nay (7):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mariam Hamou](/councillors/current/m-hamou)
+
+</details>
+
+### 4.9. 4th and 5th Reports of the Governance Working Group
+
+> That section 4.2 c) vii) of the Draft Council Members' Expense Account Policy BE AMENDED by deleting the following:  "but excluding home internet costs, services or equipment;"
+
+**✅ Motion Passed (12 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Mariam Hamou](/councillors/current/m-hamou), [John Fyfe-Millar](/councillors/current/j-fyfe-millar)
+
+**Nay (3):** [Shawn Lewis](/councillors/current/s-lewis), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 4.9. 4th and 5th Reports of the Governance Working Group
+
+> That Clause 4.1 of the 5th Report of the Governance Working Group BE APPROVED: d)    the attached revised Council Members' Expense Account Policy BE FORWARDED to the Strategic Priorities and Policy Committee for approval; it being noted that the proposed changes would come into effect for the nex...
+
+**✅ Motion Passed (12 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Mariam Hamou](/councillors/current/m-hamou), [John Fyfe-Millar](/councillors/current/j-fyfe-millar)
+
+**Nay (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Jesse Helmer](/councillors/current/j-helmer)
+
+**Absent (1):** [Steve Lehman](/councillors/current/s-lehman)
+
+</details>
+
+### 4.9. 4th and 5th Reports of the Governance Working Group
+
+> That the balance of the 5th Report of the GWG and the relate correspondence from the Urban League of London, dated November 25, 2021, BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 4.10. London Public Library Board of Directors Vacancy
+
+> That the following actions be taken with respect to the Library Board of Directors vacancy notification:    a)  contact current applications on file, to confirm that those individuals remain interested in consideration for appointment; b) seek additional applications to fill the vacancy on the Bo...
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 5.1. Governance Working Group Membership
+
+> That members who may be interested in an appointment to the Governance Working Group BE INVITED to submit a communication for the December 7, 2021 Council meeting for consideration along with the 18th Report of the Strategic Priorities and Policy Committee.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+

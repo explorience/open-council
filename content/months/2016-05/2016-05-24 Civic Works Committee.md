@@ -447,7 +447,7 @@ The
 
 ## Votes
 
-*11 substantive votes at this meeting (11 contested, 0 unanimous). Procedural motions excluded.*
+*11 substantive votes at this meeting (0 contested, 11 unanimous). Procedural motions excluded.*
 
 ### 2. 5th Report of the
   Transportation Advisory Committee
@@ -457,12 +457,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
-
-</details>
+Unanimous (4-0)
 
 ### 3. Increase in
   Engineering Fees - Southeast Pumping Station and Reservoir - Project No.
@@ -473,12 +468,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
-
-</details>
+Unanimous (5-0)
 
 ### 4. Amendments to the
   Traffic and Parking By-law
@@ -488,12 +478,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
-
-</details>
+Unanimous (4-0)
 
 ### 5. Watermain Cleaning
   and Relining Renewal
@@ -503,12 +488,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
-
-</details>
+Unanimous (4-0)
 
 ### 6. Kilally South
   Stormwater Management Study Municipal Class Environmental Study Addendum
@@ -518,12 +498,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
-
-</details>
+Unanimous (4-0)
 
 ### 7. Appointment of
   Consulting Engineer - Hyde Park Community Stormwater Servicing Environmental
@@ -534,12 +509,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
-
-</details>
+Unanimous (4-0)
 
 ### 8. Appointment of
   Consulting Engineer for Contract Administration Services Associated with the
@@ -552,12 +522,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
-
-</details>
+Unanimous (4-0)
 
 ### 9. Elgin-Middlesex
   Pumping Station - Operation and Maintenance Services Agreement Review of
@@ -568,12 +533,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
-
-</details>
+Unanimous (4-0)
 
 ### 10. Appointment of
   Consulting Engineer - Long Term Solid Waste Resource Recovery and Disposal
@@ -584,12 +544,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
-
-</details>
+Unanimous (4-0)
 
 ### 11. Deferred Matters
   List
@@ -599,12 +554,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
-
-</details>
+Unanimous (5-0)
 
 ### 12. (ADDED)  Rainbow Crosswalks
 
@@ -613,10 +563,5 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
-
-</details>
+Unanimous (5-0)
 

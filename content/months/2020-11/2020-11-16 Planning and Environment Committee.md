@@ -600,7 +600,7 @@ The meeting adjourned at 6:26 PM.
 
 ## Votes
 
-*5 substantive votes at this meeting (0 contested, 5 unanimous). Procedural motions excluded.*
+*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -608,23 +608,7 @@ The meeting adjourned at 6:26 PM.
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
-
-### 3.1. Public Participation Meeting - Not to be heard before 4:00 PM - Application -16035 Robins Hill Road (Z-9225)
-
-> That, on the recommendation of the Director, City Planning and City Planner, the proposed by-law appended to the staff report dated November 16, 2020 with respect to the application by Dancor Construction Ltd., relating to the property located at 16035 Robin’s Hill Road, BE INTRODUCED at the Muni...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 3.2. Public Participation Meeting - Not to be heard before 4:00 PM - New Proposed City of London Tree Protection By-law
-
-> That, on the recommendation of the Managing Director, Environmental & Engineering Services and City Engineer, the  following actions be taken with respect to the proposed new Tree Protection By-law: a) the proposed by-law appended to the staff report dated November 16, 2020 as Appendix “A” BE INT...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 4.1. 7th Report of the London Advisory Committee on Heritage 183 and 197 Ann Street
 
@@ -632,7 +616,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 5.1. (ADDED) 8th report of the London Advisory Committee on Heritage
 
@@ -640,5 +624,5 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 

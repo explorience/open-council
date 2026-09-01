@@ -280,3 +280,33 @@ Approve 3rd Reading and Enactment of
 Motion
 Passed
 
+---
+
+## Votes
+
+*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
+
+### XIII. BY-LAWS
+
+> Approve Introduction and 1st Reading of Bill   No. 259.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### XIII. BY-LAWS
+
+> Approve 2nd Reading of Bill 259.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### XIII. BY-LAWS
+
+> Approve 3rd Reading and Enactment of   Bill 259.
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+

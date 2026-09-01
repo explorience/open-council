@@ -1394,140 +1394,6 @@ The meeting adjourned at 2:16 PM.
 > **Bill No. 163**
 > 
 > By-law No. Z.-1-233106 - A by-law to amend By-law No. Z.-1 to rezone lands located at 3480 Morgan Avenue. (3.3b/8/PEC)
-
----
-
-## Votes
-
-*14 substantive votes at this meeting (2 contested, 12 unanimous). Procedural motions excluded.*
-
-### 8.1. 9th Report of the Corporate Services Committee
-
-> That the 9th Report of the Corporate Services Committee BE APPROVED, excluding item 6 (clause 4.1).
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (12-0)
-
-### 8.1.6. (4.1) Application - Issuance of Proclamation - Longest Day of SMILES
-
-> That the application dated April 9, 2023 from Operation Smile Canada for "Longest Day of SMILES", BE REFERRED back to staff for further information regarding the organization's connection to London.
-
-**❌ Motion Failed (2 to 12)**
-
-<details>
-<summary>View roll call</summary>
-
-**Nay (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 8.1.6. (4.1) Application - Issuance of Proclamation - Longest Day of SMILES
-
-> That based on the application dated April 9, 2023 from Operation Smile Canada, June 18, 2023, BE PROCLAIMED as "Longest Day of SMILES."
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (12-0)
-
-### 8.2. 8th Report of the Community and Protective Services Committee
-
-> That the 8th Report of the Community and Protective Services Committee BE APPROVED, excluding item 5 (clause 2.4).
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (12-0)
-
-### 8.2.5. (2.4) Housing Collaborative Initiative (HCI) - Update
-
-> That the following amendment BE APPROVED with respect to the Housing Collaborative Initiative (HCI) Update: Amend to provide a new part e) "that Governance Group report back to City Council on project status by Q3 2023" and re-letter existing part e) to part f).
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (12-0)
-
-### 8.2.5. (2.4) Housing Collaborative Initiative (HCI) - Update
-
-> That item 5, clause 2.4, as amended, BE APPROVED.
-
-**✅ Motion Passed (10 to 4)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Nay (2):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis)
-
-**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 8.3. 8th Report of the Civic Works Committee
-
-> That the 8th Report of the Civic Works Committee, BE APPROVED, excluding item 5 (clause 2.4).
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (12-0)
-
-### 8.3.5. (2.4) Broughdale Dyke Disaster Mitigation and Adaptation Funding - Contribution Agreement (Relates to Bill No. 147)
-
-> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the proposed by-law, as appended to the staff report, dated May 2, 2023, BE INTRODUCED at the Municipal Council meeting to be held on May 16, 2023, to: a) approve the Contribution Agreement, as appended to the...
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (11-0)
-
-### 8.4. 15th Report of the Strategic Priorities and Policy Committee
-
-> That the 15th Report of Strategic Priorities and Policy Committee BE APPROVED, excluding item 6 (clause 4.4).
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (12-0)
-
-### 8.4.6. (4.4) Confirmation of Appointment to the Governance Working Group
-
-> That item 6, clause 4.4, be amended to read as follows: "That Councillors S. Frank and J. Pribil, BE APPOINTED to the Governance Working Group for the term ending November 14, 2026."
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (12-0)
-
-### 8.4.6. (4.4) Confirmation of Appointment to the Governance Working Group
-
-> That item 6, clause 4.4, as amended, BE APPROVED.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (12-0)
-
-### 8.5. 8th Report of the Planning and Environment Committee
-
-> That the 8th Report of the Planning and Environment Committee BE APPROVED, with the exception of item 8 (clause 3.4); it being noted that any and all written submissions relating to application(s) that were made to the Planner on file, the Planning and Environment Committee and to the Municipal C...
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (12-0)
-
-### 8.5.8. (3.4) Delegation of Authority - Subdivisions and Condominiums, and Official Plan Amendment on Policies for Public Meetings (O-9606) (Relates to Bill No.'s 149 and 150)
-
-> That Item 8, clause 3.4, BE AMENDED to read as follows: "That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application regarding Delegation of Authority – Subdivisions and Condominiums: a) the proposed attached, revised, by-l...
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (12-0)
-
-### 8.5.8. (3.4) Delegation of Authority - Subdivisions and Condominiums, and Official Plan Amendment on Policies for Public Meetings (O-9606) (Relates to Bill No.'s 149 and 150)
-
-> That Item 8, clause 3.4, as amended, BE APPROVED.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (12-0)
 ---
 
 ## Full Transcript
@@ -1856,3 +1722,132 @@ There is no discussion on third reading, so we'll open this for voting. Close in
 Councillor Stevenson, seconded by Councillor Cuddy. All those in favor? Second, motion carries. All right, thank you, we're adjourned.
 
 </details>
+
+---
+
+## Votes
+
+*13 substantive votes at this meeting (2 contested, 11 unanimous). Procedural motions excluded.*
+
+### 8.1. 9th Report of the Corporate Services Committee
+
+> That the 9th Report of the Corporate Services Committee BE APPROVED, excluding item 6 (clause 4.1).
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.1.6. (4.1) Application - Issuance of Proclamation - Longest Day of SMILES
+
+> That the application dated April 9, 2023 from Operation Smile Canada for "Longest Day of SMILES", BE REFERRED back to staff for further information regarding the organization's connection to London.
+
+**❌ Motion Failed (2 to 12)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman)
+
+**Nay (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 8.1.6. (4.1) Application - Issuance of Proclamation - Longest Day of SMILES
+
+> That based on the application dated April 9, 2023 from Operation Smile Canada, June 18, 2023, BE PROCLAIMED as "Longest Day of SMILES."
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.2. 8th Report of the Community and Protective Services Committee
+
+> That the 8th Report of the Community and Protective Services Committee BE APPROVED, excluding item 5 (clause 2.4).
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.2.5. (2.4) Housing Collaborative Initiative (HCI) - Update
+
+> That the following amendment BE APPROVED with respect to the Housing Collaborative Initiative (HCI) Update: Amend to provide a new part e) "that Governance Group report back to City Council on project status by Q3 2023" and re-letter existing part e) to part f).
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.2.5. (2.4) Housing Collaborative Initiative (HCI) - Update
+
+> That item 5, clause 2.4, as amended, BE APPROVED.
+
+**✅ Motion Passed (10 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow)
+
+**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 8.3. 8th Report of the Civic Works Committee
+
+> That the 8th Report of the Civic Works Committee, BE APPROVED, excluding item 5 (clause 2.4).
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.3.5. (2.4) Broughdale Dyke Disaster Mitigation and Adaptation Funding - Contribution Agreement (Relates to Bill No. 147)
+
+> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the proposed by-law, as appended to the staff report, dated May 2, 2023, BE INTRODUCED at the Municipal Council meeting to be held on May 16, 2023, to: a) approve the Contribution Agreement, as appended to the...
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 8.4. 15th Report of the Strategic Priorities and Policy Committee
+
+> That the 15th Report of Strategic Priorities and Policy Committee BE APPROVED, excluding item 6 (clause 4.4).
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.4.6. (4.4) Confirmation of Appointment to the Governance Working Group
+
+> That item 6, clause 4.4, be amended to read as follows: "That Councillors S. Frank and J. Pribil, BE APPOINTED to the Governance Working Group for the term ending November 14, 2026."
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.4.6. (4.4) Confirmation of Appointment to the Governance Working Group
+
+> That item 6, clause 4.4, as amended, BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.5. 8th Report of the Planning and Environment Committee
+
+> That the 8th Report of the Planning and Environment Committee BE APPROVED, with the exception of item 8 (clause 3.4); it being noted that any and all written submissions relating to application(s) that were made to the Planner on file, the Planning and Environment Committee and to the Municipal C...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.5.8. (3.4) Delegation of Authority - Subdivisions and Condominiums, and Official Plan Amendment on Policies for Public Meetings (O-9606) (Relates to Bill No.'s 149 and 150)
+
+> That Item 8, clause 3.4, as amended, BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+

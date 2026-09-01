@@ -424,62 +424,6 @@ None.
 
 
 The meeting adjourned at 8:12 PM.
-
----
-
-## Votes
-
-*4 substantive votes at this meeting (2 contested, 2 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 and 2.2 BE APPROVED.
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 3.1. Fireworks By-law Options
-
-> That the motion BE AMENDED by adding the following: That the Civic Administration BE DIRECTED to review the Business Licensing By-law with respect to the sale of fireworks and report back on the following: licensing all retailers of fireworks, required communications to retailers and clients, fee...
-
-**✅ Motion Passed (4 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Nay (1):** [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (1):** [Susan Stevenson](/councillors/current/s-stevenson)
-
-</details>
-
-### 3.1. Fireworks By-law Options
-
-> That the motion, as amended, BE APPROVED.
-
-**✅ Motion Passed (4 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Nay (1):** [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (1):** [Susan Stevenson](/councillors/current/s-stevenson)
-
-</details>
-
-### 4.1. Inter Faith Homes (London) Transition Strategy: Appointment of London-Middlesex Community Housing
-
-> That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to the staff report, dated August 15, 2023, related to the Inter Faith Homes (London) Transition Strategy and the Appointment of London-Middlesex Community Housin...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
 ---
 
 ## Full Transcript
@@ -1058,3 +1002,60 @@ Also I'm an animal advocate so I see and know and have educated myself that I wo
 tonight as we started this meeting uh the local media posted a new story about how there was a barn fire million dollar barn fire caused by firecrackers yeah that's what happens with firecrackers and they are being increasingly weaponized now i want to address um what a lot of the proponents to option a came here tonight in good faith to um to address and i i really want to respect their heritage and their and their religion and i don't want you to take this the wrong way but the problem with option a the problem with adding to walley to the list of acceptable celebrations is any other group that comes in now and and once and once and once their holiday chinese new year what have you added you're gonna have to do that and every time you add another holiday where we can have private backyard fireworks you're adding at least a few days to the uh i won't name uh i won't name the the name vendors you know who they are they're very very prominent on the street they set they set up weeks ahead of time they say what day they're going to open and these are impulse sales yes it's true if we adopted option b people could go outside of the city to buy their uh to buy the fireworks just like people can find cigarettes they're prohibited for your age group but it's going to decrease demand and that would be very important now under the current law you cannot have backyard fireworks for dewali under the current law you can have the the pop-up sales backyard fireworks only for victoria day and canada day and what i heard from some people tonight was that by passing option b we would be taking something away that would have been status quo with with with respect to the dewali holiday now the other thing that i the other thing that i want to the other thing that i want to point out is a number of people mentioned sparklers and i wanted i wanted to try to see if i can get the bylaw lined up 45 seconds uh sparklers are already exempt it's a non-issue sparklers are not sparklers under a certain detonation are not even under the bylaw so when you say you want children to be able to have sparklers it's just it's just not a relevant point here so i'm out of time i'm going to come back to this i'll have a lot to say online and i'll have a lot to say at the next council meeting just want to say i'm very disappointed with this council not the first time today and uh we'll we'll have further discussion about this um next at the end of the month when we revisit this and i hope that city council realizes that when we make and when we make a promise to to the public about being environmentally sensitive that might involve giving up some fun five minutes thank you very much once again uh no clapping or other things from this is the silent clapping but it helps you out but no uh nothing uh audio uh it does distract from committee and people who are speaking um looking to other speakers on the list for the main motion as amended hey um i do have councilor furrera and as this is the main motion as amended you have your full five minutes thank you through you i won't take too much time because i said most of my piece already um but i will say it is about um it's about the dangers uh for me and it's about the public safety and the public good um these are essentially explosives um and they can be used uh inappropriately and we are um caught by our traditions you know our traditions do take a long time even if we know better um and regardless of the facts that come out it does take time to filter down you know we have many examples i would necessarily say for traditions but just from us knowing better you know there was a time when sea belts weren't in cars and people didn't want to have their sea belts in the cars and there was a time that smoking didn't kill uh were even though we knew better and the time it took to finally get um society on board to realize that the truth of these matters you know a lot of people get injured or a lot of people get hurt or even killed and that's the main thing that's that i'm looking at so that is why i'm i don't feel like the consumer portion of the fireworks should be allowed in london and anything that's permitted is more controlled more regulated and more enforceable so that's why i'm still pointing at option b but um with that i did actually have uh another question maybe i'd like to throw out to the fire chiefs here that council mccallister just tell just off of counselor mccallister's comments and if you are able to if you're able with the numbers of how many fires or how much how many instances of damage from fireworks could you also provide any stats if you have it of injuries or anything along that sorts injuries or um anybody who might be physically harmed by that if you could throw that in there too i'd appreciate that thank you okay just looking for staff a thumbs up just for everyone that's a thumbs up and we'll have that information back to us for the council on the 29th looking to any other guest online or in person i do have a couple questions for staff if committee's fine i'll just ask them from here as i'm not looking to do any any moving and amending um just to staff as it was questioned from the gallery earlier and the report does say that fireworks half of the backyard fireworks um could be just charged on Diwali uh the community raised the point that Diwali is multiple days how would staff or like what day would be designated versus like the entire period so through the chair um when uh Diwali celebrates through the permit it is for one day so we would follow it similar to what we do for july 1st and victoria day that we would permit in option a consumer backyard fireworks for the day that the community celebrates it through the permitted display event okay thank you um and i'll note when the city does their new year's display we're not looking at allowing backyard stuff for that it's just the permitted things that is already done for those who join us for new years in the park which is also a great opportunity to gather as community so those are my my questions just realizing some people in the gallery had it i'll also note that we heard from the gallery some questions and from committee and visiting counselors about the loudness um i know that fireworks is also sold in kits and that if they come as kits they could be harder to pull apart if people wanted to designate just certain items within that kit um but that is something for people to contemplate going into council as well council ramen you had a question or comment yeah thank you through just a follow-up comment um so the date for celebration for duality is determined by the lunar calendar and i do know that within the community they circulate a date that is the date that is uh the agreed upon auspicious date of which to celebrate but um it could fall on a wednesday and it could fall on a monday um so what we're saying is that within the option a that would be if it fell on a wednesday that would be the day that that people could display to staff for clarification thank you and through the chair thank you that is correct the same with july first thank you for that point of clarification um looking for other questions or comments looking for questions for comments online as well as i have not in chambers hey um i'll call the question posing the vote the motion carries four to one okay thank you so that is going to be committee's recommendation that you see in tonight going to council i will note that youtube and all the proceedings tonight was recorded in all our speakers so the counselors who aren't here tonight who may or may not have listened online can go back and watch the full ppm um your communications are part of the package which will also go to council and be seen any other submissions from people who aren't able to participate tonight or who wants to put their submission in who haven't already put their submission in can forward that to that sp where my uh cpsc at london.ca and those communications will also be included for council and at council the decision can be amended changed completely or stay the same so just letting everyone know that that was just the decision that this committee thought was best but it's up to full council's purview on the 29th and that's what you'll have your final decision um that concludes that concludes everything tonight we have nothing to be considered in confidential session um thank you to all those who stayed with us for the duration of this um but i will need a motion to adjourn from a committee member moved by councilor ferrer seconded by councilor ramen a hand vote of all in favor that's carried uh thank you to everyone and do continue to reach out if you had points that weren't considered
 
 </details>
+
+---
+
+## Votes
+
+*4 substantive votes at this meeting (2 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 and 2.2 BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 3.1. Fireworks By-law Options
+
+> That the motion BE AMENDED by adding the following: That the Civic Administration BE DIRECTED to review the Business Licensing By-law with respect to the sale of fireworks and report back on the following: licensing all retailers of fireworks, required communications to retailers and clients, fee...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (1):** [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
+
+### 3.1. Fireworks By-law Options
+
+> That the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (1):** [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
+
+### 4.1. Inter Faith Homes (London) Transition Strategy: Appointment of London-Middlesex Community Housing
+
+> That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to the staff report, dated August 15, 2023, related to the Inter Faith Homes (London) Transition Strategy and the Appointment of London-Middlesex Community Housin...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+

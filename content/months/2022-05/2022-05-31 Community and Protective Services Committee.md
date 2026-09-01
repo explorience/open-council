@@ -474,7 +474,7 @@ The meeting adjourned at 5:29 PM.
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2.9. Housing Stability for All Plan 2021 Update
 
@@ -482,7 +482,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 4.2. D. Devine - Affordable Housing Community Improvement Plan  - REQUEST FOR DELEGATION STATUS
 
@@ -490,7 +490,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 4.3. Short-term Accommodations - Proposed Amendments
 
@@ -498,7 +498,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4.4. Deputy Mayor J. Morgan - Supporting More Licensed Childcare Spaces
 
@@ -506,7 +506,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 4.5. Deputy Mayor J. Morgan - Pandemic-Related Outdoor Patio Rules
 
@@ -514,5 +514,5 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 

@@ -423,98 +423,6 @@ c)    the communication from Councillor H. McAlister and Councillor D. Ferreir
 
 
 The meeting adjourned at 3:01 PM.
-
----
-
-## Votes
-
-*9 substantive votes at this meeting (2 contested, 7 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 to 2.4 BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 2.5. Municipal Compliance Annual Report
-
-> Motion to amend the main motion by adding the following wording: "it being noted that accepting this report does not preclude the committee from further inquiry into 2023 data and future reporting will provide additional information and fulsome aggregate tables on Short Term Accommodations and Pr...
-
-**✅ Motion Passed (4 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
-
-</details>
-
-### 2.5. Municipal Compliance Annual Report
-
-> That the motion, as amended, BE APPROVED.
-
-**✅ Motion Passed (4 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
-
-</details>
-
-### 2.6. Operational Transition Plan for 446 King Street Housing Project
-
-> Motion to amend the main motion to add a new part e): "the Civic Administration BE DIRECTED to provide an update to Council after the transition plan has been successfully implemented."
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 2.6. Operational Transition Plan for 446 King Street Housing Project
-
-> Motion to approve the motion, as amended.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 2.7. Data Regarding the Relocation of Homeless Individuals
-
-> Motion to approve that the Civic Administration BE DIRECTED to update the snapshot of London Homelessness on the City of London website on a quarterly basis.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 4.1. Possible Amendments to the Vehicle for Hire By-law
-
-> The Civic Administration BE DIRECTED to report back at a future meeting of the Community and Protective Services Committee with recommendations on possible amendments to the Vehicle for Hire By-law to address cab owner regulations on minimum vehicle operation periods and licence renewal timeframe...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 4.1. Possible Amendments to the Vehicle for Hire By-law
-
-> Motion to approve the delegation request from H. Savehilaghi, Yellow London Taxi Inc. to be heard at this meeting.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 5.1. (ADDED) Remembrance Gardens at 2315 River Road
-
-> That the following actions be taken with respect to the Remembrance Gardens Located at 2315 River Road: a)    the Civic Administration BE DIRECTED to report back to a future meeting of the Community and Protective Services Committee with a memorandum of understanding laying out the roles and resp...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -1113,3 +1021,103 @@ I see Madam, let's call the question. Posing the vote, the motion carries five t
 Councillor McAllister, seconded by Councillor Pribble. Hand vote, we're adjourned. Thank you.
 
 </details>
+
+---
+
+## Votes
+
+*9 substantive votes at this meeting (3 contested, 6 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.4 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.5. Municipal Compliance Annual Report
+
+> Motion to amend the main motion by adding the following wording: "it being noted that accepting this report does not preclude the committee from further inquiry into 2023 data and future reporting will provide additional information and fulsome aggregate tables on Short Term Accommodations and Pr...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 2.5. Municipal Compliance Annual Report
+
+> Motion to approve that the staff report, dated January 29, 2024, with respect to the Municipal Compliance Annual Report, BE RECEIVED.
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+</details>
+
+### 2.5. Municipal Compliance Annual Report
+
+> That the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 2.6. Operational Transition Plan for 446 King Street Housing Project
+
+> Motion to amend the main motion to add a new part e): "the Civic Administration BE DIRECTED to provide an update to Council after the transition plan has been successfully implemented."
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.6. Operational Transition Plan for 446 King Street Housing Project
+
+> Motion to approve the motion, as amended.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.7. Data Regarding the Relocation of Homeless Individuals
+
+> Motion to approve that the Civic Administration BE DIRECTED to update the snapshot of London Homelessness on the City of London website on a quarterly basis.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.1. Possible Amendments to the Vehicle for Hire By-law
+
+> The Civic Administration BE DIRECTED to report back at a future meeting of the Community and Protective Services Committee with recommendations on possible amendments to the Vehicle for Hire By-law to address cab owner regulations on minimum vehicle operation periods and licence renewal timeframe...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.1. Possible Amendments to the Vehicle for Hire By-law
+
+> Motion to approve the delegation request from H. Savehilaghi, Yellow London Taxi Inc. to be heard at this meeting.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

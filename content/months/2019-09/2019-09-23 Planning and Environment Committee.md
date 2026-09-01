@@ -723,7 +723,7 @@ The meeting adjourned at 9:37 PM.
 
 ## Votes
 
-*8 substantive votes at this meeting (1 contested, 7 unanimous). Procedural motions excluded.*
+*6 substantive votes at this meeting (2 contested, 4 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -731,23 +731,24 @@ The meeting adjourned at 9:37 PM.
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
-### 3.1. Public Participation Meeting - Application - 585 Third Street (OZ-9028)
+### 3.3. Public Participation Meeting - Application - 307 Fanshawe Park Road East (Z-9006)
 
-> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application of Tricor Contracting Limited, relating to the property located at 585 Third Street: a)         the proposed by-law appended to the staff report dated September 23, 20...
+> That, on the recommendation of the Director, Development Services, with respect to the application of Royal Premier Homes, relating to the property located at 307 Fanshawe Park Road East, the proposed by-law attached hereto as Appendix "A" BE INTRODUCED at the Municipal Council meeting on October...
 
-**✅ Motion Passed (5 to 0)**
+**❌ Motion Failed (2 to 2) 🔥**
 
-Unanimous (3-0)
+<details>
+<summary>View roll call</summary>
 
-### 3.2. Public Participation Meeting - Application - 115 Bessemer Road (Z-9084)
+**Yea (2):** [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner)
 
-> That, on the recommendation of the Director, Development Services, with respect to the application by Barnim Property Holdings Inc., relating to the property located at 115 Bessemer Road, the proposed by-law appended to the staff report dated September 23, 2019 BE INTRODUCED at the Municipal Coun...
+**Nay (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Phil Squire](/councillors/current/p-squire)
 
-**✅ Motion Passed (5 to 0)**
+**Absent (2):** [Ed Holder](/councillors/current/e-holder), [Maureen Cassidy](/councillors/current/m-cassidy)
 
-Unanimous (3-0)
+</details>
 
 ### 3.4. Public Participation Meeting - Application - 3700 Colonel Talbot Road and 3645 Bostwick Road 39T-17503 (OZ-8838)
 
@@ -755,15 +756,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
-
-### 3.5. Public Participation Meeting - Proposed New City of London Tree Protection By-law
-
-> That, on the recommendation of the Managing Director, Environmental & Engineering Services and City Engineer, the following actions be taken with respect to the Tree Protection By-law C.P.-1515-228: a)         the public input provided at the September 23, 2019 Planning and Environment Committee ...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4.1. 9th Report of the London Advisory Committee on Heritage
 
@@ -771,7 +764,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 5.1. Deferred Matters List
 
@@ -779,7 +772,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 7. Adjournment
 

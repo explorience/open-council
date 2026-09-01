@@ -250,7 +250,7 @@ The meeting adjourned at 1:31 PM.
 
 ## Votes
 
-*4 substantive votes at this meeting (1 contested, 3 unanimous). Procedural motions excluded.*
+*3 substantive votes at this meeting (1 contested, 2 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -258,15 +258,7 @@ The meeting adjourned at 1:31 PM.
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
-
-### 2.1. London Health Sciences Centre South Street Campus Decommissioning (Phase B)
-
-> That, on the recommendation of City Solicitor’s Office, the following actions be taken with respect to the City owned South Street Campus lands under lease to LHSC and LHSC owned lands: a)            the Mayor and City Clerk BE AUTHORIZED to execute the Lease Amending Agreement appended to the st...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 2.4. Elected Officials Remuneration - One-Third Non Taxable Allowance
 
@@ -274,7 +266,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 2.4. Elected Officials Remuneration - One-Third Non Taxable Allowance
 
@@ -285,7 +277,9 @@ Unanimous (3-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (1):** [Jesse Helmer](/councillors/current/j-helmer)
+**Yea (3):** [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Paul Hubert](/councillors/current/p-hubert)
+
+**Nay (2):** [Josh Morgan](/councillors/current/j-morgan), [Jared Zaifman](/councillors/current/j-zaifman)
 
 **Absent (1):** [Matt Brown](/councillors/current/m-brown)
 

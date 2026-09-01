@@ -358,7 +358,7 @@ The meeting adjourned at 12:51 PM.
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2.5. Appointment for Consulting Engineer and Drainage Superintendent By-Law Update Under the Drainage Act
 
@@ -366,5 +366,5 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 

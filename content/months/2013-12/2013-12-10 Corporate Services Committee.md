@@ -598,7 +598,7 @@ The Corporate Services Committee convened
 
 ## Votes
 
-*15 substantive votes at this meeting (15 contested, 0 unanimous). Procedural motions excluded.*
+*16 substantive votes at this meeting (2 contested, 14 unanimous). Procedural motions excluded.*
 
 ### 2. Submission of
   Questions on Ballot - 2014 Municipal Election
@@ -606,14 +606,9 @@ The Corporate Services Committee convened
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Joe Fontana](/councillors/current/j-f-fontana), [Bud Polhill](/councillors/current/b-polhill)
-
-</details>
+Unanimous (2-0)
 
 ### 3. Use of Corporate
   Resources for Election Purposes
@@ -623,12 +618,7 @@ The Corporate Services Committee convened
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill)
-
-</details>
+Unanimous (4-0)
 
 ### 4. Annual Report -
   2012 Risk Management Services
@@ -638,12 +628,7 @@ The Corporate Services Committee convened
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill)
-
-</details>
+Unanimous (4-0)
 
 ### 5. Expropriation of
   Lands - Veterans Memorial Parkway South Extension - TS1325
@@ -653,12 +638,7 @@ The Corporate Services Committee convened
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill)
-
-</details>
+Unanimous (4-0)
 
 ### 6. Declare Surplus
   City-Owned Land Adjacent to 47 and 49 Agincourt Gardens
@@ -702,12 +682,7 @@ The Corporate Services Committee convened
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill)
-
-</details>
+Unanimous (4-0)
 
 ### 9. Procurement of
   Goods and Services Policy Revisions
@@ -717,12 +692,7 @@ The Corporate Services Committee convened
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill)
-
-</details>
+Unanimous (4-0)
 
 ### 10. 2013 Capital Budget
   Status - Third Quarter Report
@@ -732,12 +702,7 @@ The Corporate Services Committee convened
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill)
-
-</details>
+Unanimous (4-0)
 
 ### 11. Managing Director,
   Corporate Services and City Treasurer, Chief Financial Officer - 2013
@@ -748,12 +713,18 @@ The Corporate Services Committee convened
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (4-0)
 
-**Yea (8):** [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill)
+### 11. Managing Director,
+  Corporate Services and City Treasurer, Chief Financial Officer - 2013
+  Operating Budget Status - Third Quarter Report
 
-</details>
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
 
 ### 12. Extension of Realty
   Services - Agency of Record Agreement
@@ -763,12 +734,7 @@ The Corporate Services Committee convened
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill)
-
-</details>
+Unanimous (4-0)
 
 ### 13. Sherwood Forest
   Public School - Stakeholder Consultation Process
@@ -778,12 +744,7 @@ The Corporate Services Committee convened
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill)
-
-</details>
+Unanimous (4-0)
 
 ### 14. Accessibility for
   Ontarians with Disabilities Act Compliance
@@ -793,12 +754,7 @@ The Corporate Services Committee convened
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill)
-
-</details>
+Unanimous (4-0)
 
 ### 15. Managing Director,
   Corporate Services and Chief Human Resources Officer - Security Services
@@ -808,12 +764,7 @@ The Corporate Services Committee convened
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill)
-
-</details>
+Unanimous (4-0)
 
 ### 16. Agreements between
   the City of London and Fanshawe College for Mutual Benefit at Market Lane
@@ -823,10 +774,5 @@ The Corporate Services Committee convened
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill)
-
-</details>
+Unanimous (4-0)
 

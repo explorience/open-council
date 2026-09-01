@@ -319,7 +319,7 @@ The meeting adjourned at 4:34 PM.
 
 ## Votes
 
-*7 substantive votes at this meeting (0 contested, 7 unanimous). Procedural motions excluded.*
+*6 substantive votes at this meeting (0 contested, 6 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -327,7 +327,7 @@ The meeting adjourned at 4:34 PM.
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2.1. Adelaide Street North/Canadian Pacific Railway Grade Separation Detailed Design & Tendering - Appointment of Consulting Engineer
 
@@ -335,7 +335,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2.2. Replacement/Relocation of Watermain on Pond Mills Road to Facilitate Future Highway 401 Overpass at Pond Mills Road Structure Expansion - Consultant Appointment
 
@@ -343,7 +343,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2.3. Greenway Sludge Tank Mixing System Pre-Purchase
 
@@ -351,7 +351,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2.5. Comments on Environmental Registry of Ontario (ERO): A Made-In-Ontario Environment Plan
 
@@ -359,7 +359,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 5.1. (ADDED) Snow Clearing Standards
 
@@ -367,13 +367,5 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
-
-### 5.2. (ADDED) 1st Meeting of the Cycling Advisory Committee
-
-> That the following actions be taken with respect to the 1st Report of the Cycling Advisory Committee, from its meeting held on December 19, 2018: a) the Civic Administration BE REQUESTED to consider a left turn lane on Wilton Grove Road to Old Victoria Road heading south as it relates to the Wilt...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
+Unanimous (6-0)
 

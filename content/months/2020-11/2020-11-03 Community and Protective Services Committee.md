@@ -413,7 +413,7 @@ The meeting adjourned at 5:32 PM.
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 4.2. Proposed Amendment to the Sign By-law - Petition - D. Ronson, Pro-choice London
 
@@ -421,7 +421,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 4.2. Proposed Amendment to the Sign By-law - Petition - D. Ronson, Pro-choice London
 
@@ -429,7 +429,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 4.2. Proposed Amendment to the Sign By-law - Petition - D. Ronson, Pro-choice London
 
@@ -437,7 +437,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 4.2. Proposed Amendment to the Sign By-law - Petition - D. Ronson, Pro-choice London
 
@@ -445,7 +445,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 4.3. Proposed Amendment to the Noise/Sound By-law - High Frequency Noise - Request for Delegation Status - D. Mailer
 
@@ -453,7 +453,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 4.4. (ADDED) Canada Mortgage and Housing Corporation (CMHC) - Rapid Housing Initiative (RHI)
 
@@ -461,5 +461,5 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 

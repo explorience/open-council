@@ -595,7 +595,7 @@ The meeting adjourned at 5:21 PM.
 
 ## Votes
 
-*13 substantive votes at this meeting (13 contested, 0 unanimous). Procedural motions excluded.*
+*15 substantive votes at this meeting (2 contested, 13 unanimous). Procedural motions excluded.*
 
 ### 2. 9th Report of the
   Trees and Forests Advisory Committee
@@ -605,12 +605,7 @@ The meeting adjourned at 5:21 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown)
-
-</details>
+Unanimous (5-0)
 
 ### 3. 8th Report of the
   Environmental and Ecological Planning Advisory Committee
@@ -620,12 +615,7 @@ The meeting adjourned at 5:21 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown)
-
-</details>
+Unanimous (5-0)
 
 ### 4. STAFF REPORT -
   Bierens (Westfield) Subdivision - Subdivision Special Provision  (39T-08502)
@@ -635,12 +625,7 @@ The meeting adjourned at 5:21 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown)
-
-</details>
+Unanimous (5-0)
 
 ### 5. STAFF REPORT - Property
   located at a portion of 1284 and1388 Sunningdale Road West (H-8800)
@@ -650,12 +635,7 @@ The meeting adjourned at 5:21 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown)
-
-</details>
+Unanimous (5-0)
 
 ### 6. STAFF REPORT - Property
   located at a portion of 995 Fanshawe Park Road West (H-8811)
@@ -665,12 +645,7 @@ The meeting adjourned at 5:21 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown)
-
-</details>
+Unanimous (5-0)
 
 ### 7. STAFF REPORT - Property
   located at 1355 Commissioners Road West (Formerly 1349-1361 Commissioners
@@ -681,12 +656,7 @@ The meeting adjourned at 5:21 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown)
-
-</details>
+Unanimous (5-0)
 
 ### 8. STAFF REPORT -
   Silverleaf Subdivision - Subdivision Special Provision (39T-14504)
@@ -696,12 +666,7 @@ The meeting adjourned at 5:21 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown)
-
-</details>
+Unanimous (5-0)
 
 ### 9. STAFF REPORT -
   Building Division Monthly Report - June 2017
@@ -711,12 +676,7 @@ The meeting adjourned at 5:21 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown)
-
-</details>
+Unanimous (5-0)
 
 ### 10. PUBLIC
   PARTICIPATION MEETING - Properties located at 1175, 1185, 1195, 1205, 1215
@@ -727,12 +687,29 @@ The meeting adjourned at 5:21 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (5-0)
 
-**Yea (15):** [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown)
+### 10. PUBLIC
+  PARTICIPATION MEETING - Properties located at 1175, 1185, 1195, 1205, 1215
+  Fanshawe Park Road West and 2151 Dalmagarry Road (Z-8776/0-8792)
 
-</details>
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 10. PUBLIC
+  PARTICIPATION MEETING - Properties located at 1175, 1185, 1195, 1205, 1215
+  Fanshawe Park Road West and 2151 Dalmagarry Road (Z-8776/0-8792)
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
 
 ### 11. STAFF REPORT - 
   Conservation Review Board Recommendation - Notice of Intent to Designate 4402
@@ -761,12 +738,7 @@ The meeting adjourned at 5:21 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner)
-
-</details>
+Unanimous (4-0)
 
 ### 13. (ADDED) DELEGATION
   – Benjamin Vasquez, Vice-Chair, London Advisory Committee on Heritage re 10th
@@ -794,10 +766,5 @@ The meeting adjourned at 5:21 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner)
-
-</details>
+Unanimous (4-0)
 

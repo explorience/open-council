@@ -168,7 +168,7 @@ The meeting adjourns at 2:04 PM.
 
 **✅ Motion Passed (3 to 0)**
 
-Unanimous (1-0)
+Unanimous (3-0)
 
 ### 3.1. Apportionment of Taxes
 
@@ -176,7 +176,7 @@ Unanimous (1-0)
 
 **✅ Motion Passed (3 to 0)**
 
-Unanimous (1-0)
+Unanimous (3-0)
 
 ### 4.1. London Convention Centre Investment
 
@@ -187,9 +187,11 @@ Unanimous (1-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (1):** [Josh Morgan](/councillors/current/j-morgan)
+**Yea (3):** [Josh Morgan](/councillors/current/j-morgan), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Ed Holder](/councillors/current/e-holder)
 
 **Nay (1):** [Jesse Helmer](/councillors/current/j-helmer)
+
+**Absent (2):** [Steve Hillier](/councillors/current/s-hillier), [Arielle Kayabaga](/councillors/current/a-kayabaga)
 
 </details>
 

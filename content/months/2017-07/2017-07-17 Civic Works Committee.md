@@ -899,7 +899,7 @@ The
 
 ## Votes
 
-*20 substantive votes at this meeting (20 contested, 0 unanimous). Procedural motions excluded.*
+*21 substantive votes at this meeting (2 contested, 19 unanimous). Procedural motions excluded.*
 
 ### 2. STAFF REPORT -
   Amendments to the Traffic and Parking By-law
@@ -909,12 +909,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
+Unanimous (4-0)
 
 ### 3. STAFF REPORT -
   Legal Limit Transfer - Wonderland Road South and Colonel Talbot Road
@@ -924,12 +919,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
+Unanimous (4-0)
 
 ### 4. STAFF REPORT -
   Sunningdale Road Improvements Detailed Design and Tendering Appointment of
@@ -940,12 +930,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
+Unanimous (4-0)
 
 ### 5. STAFF REPORT -
   Appointment of Consulting Engineers Infrastructure Renewal Program 2017-2019
@@ -955,12 +940,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
+Unanimous (4-0)
 
 ### 6. STAFF REPORT -
   Appointment of Consulting Engineer for Various Technical Studies as Part of
@@ -972,12 +952,19 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (4-0)
 
-**Yea (8):** [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Virginia Ridley](/councillors/current/v-ridley)
+### 6. STAFF REPORT -
+  Appointment of Consulting Engineer for Various Technical Studies as Part of
+  the Environmental Assessment Process for the Proposed Expansion of the W12A
+  Landfill Site
 
-</details>
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
 
 ### 8. STAFF REPORT -
   Downsizing Water Meters
@@ -1005,12 +992,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
+Unanimous (4-0)
 
 ### 10. STAFF REPORT - High
   Speed Rail
@@ -1020,12 +1002,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
+Unanimous (5-0)
 
 ### 11. STAFF REPORT -
   Appointment of Consulting Engineer - Design and Construction Administration
@@ -1037,12 +1014,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
+Unanimous (4-0)
 
 ### 12. STAFF REPORT -
   Comments on Environmental Bill of Rights Registry – Discussion Paper:
@@ -1053,12 +1025,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
+Unanimous (4-0)
 
 ### 13. STAFF REPORT -
   Water and Erosion Control Infrastructure (WECI) Program: 2017 Provincially-Approved
@@ -1069,12 +1036,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
+Unanimous (4-0)
 
 ### 14. STAFF REPORT -
   Shift Rapid Transit Additional Engineering and Legal Survey
@@ -1084,12 +1046,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
+Unanimous (4-0)
 
 ### 15. STAFF REPORT - 2017 
   Ontario Municipal Commuter Cycling (OMCC) Program
@@ -1099,12 +1056,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
+Unanimous (4-0)
 
 ### 16. 7th Report of the
   Transportation Advisory Committee
@@ -1114,12 +1066,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
+Unanimous (4-0)
 
 ### 17. 2nd Report of the
   Waste Management Working Group
@@ -1129,12 +1076,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
+Unanimous (4-0)
 
 ### 18. 7th Report of the
   Cycling Advisory Committee
@@ -1144,12 +1086,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
+Unanimous (4-0)
 
 ### 19. COUNCILLOR
   SUBMISSION - J. Zaifman - Hydro One Beautification Fund
@@ -1159,12 +1096,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
+Unanimous (4-0)
 
 ### 20. Deferred Matters
   List
@@ -1172,14 +1104,9 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong)
-
-</details>
+Unanimous (3-0)
 
 ### 21. (ADDED) – COUNCIL
   MEMBER SUBMISSION – Deferral of Tree Cutting on Trowbridge Avenue
@@ -1207,10 +1134,5 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong)
-
-</details>
+Unanimous (4-0)
 

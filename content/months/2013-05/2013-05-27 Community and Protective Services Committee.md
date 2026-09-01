@@ -267,7 +267,7 @@ Motion
 
 ## Votes
 
-*5 substantive votes at this meeting (5 contested, 0 unanimous). Procedural motions excluded.*
+*5 substantive votes at this meeting (1 contested, 4 unanimous). Procedural motions excluded.*
 
 ### 5. 6th Report of the
   Animal Welfare Advisory Committee
@@ -277,12 +277,7 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joni Baechler](/councillors/current/j-l-baechler), [Denise Brown](/councillors/current/d-brown)
-
-</details>
+Unanimous (5-0)
 
 ### 6. Licensing of
   Methadone Pharmacies and Clinics
@@ -308,12 +303,7 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joni Baechler](/councillors/current/j-l-baechler), [Denise Brown](/councillors/current/d-brown)
-
-</details>
+Unanimous (5-0)
 
 ### 8. 5th Report of the
   London Diversity and Race Relations Advisory Committee
@@ -323,12 +313,7 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joni Baechler](/councillors/current/j-l-baechler), [Denise Brown](/councillors/current/d-brown)
-
-</details>
+Unanimous (5-0)
 
 ### 9. Residential Rental
   Units Licensing Fees
@@ -338,10 +323,5 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joni Baechler](/councillors/current/j-l-baechler), [Denise Brown](/councillors/current/d-brown)
-
-</details>
+Unanimous (4-0)
 

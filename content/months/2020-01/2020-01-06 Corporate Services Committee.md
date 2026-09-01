@@ -170,18 +170,18 @@ The meeting adjourns at 12:46 PM.
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 4.1. Issuance of Proclamations Policy
 
 > That the proposed by-law, as appended to the staff report dated January 6, 2020 BE INTRODUCED at the Municipal Council meeting to be held on January 14, 2020 to repeal Council Policy By-law No. CPOL.-115-367, as amended by By-law No. CPOL.115(a)-418, being "Issuance of Proclamations Policy" and r...
 
-**✅ Motion Passed (5 to 1) 🔥**
+**✅ Motion Passed (5 to 1)**
 
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Ed Holder](/councillors/current/e-holder), [Jesse Helmer](/councillors/current/j-helmer), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Ed Holder](/councillors/current/e-holder), [Jesse Helmer](/councillors/current/j-helmer), [Arielle Kayabaga](/councillors/current/a-kayabaga)
 
 **Nay (1):** [Michael van Holst](/councillors/current/m-van-holst)
 

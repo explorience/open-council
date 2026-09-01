@@ -91,7 +91,7 @@ Motion
 
 ## Votes
 
-*3 substantive votes at this meeting (3 contested, 0 unanimous). Procedural motions excluded.*
+*3 substantive votes at this meeting (2 contested, 1 unanimous). Procedural motions excluded.*
 
 ### 2. Taxicab and
   Limousine Licensing By-law Related Issues
@@ -134,10 +134,5 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joni Baechler](/councillors/current/j-l-baechler), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (5-0)
 

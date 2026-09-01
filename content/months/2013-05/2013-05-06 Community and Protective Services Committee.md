@@ -143,7 +143,7 @@ b)           
 
 ## Votes
 
-*2 substantive votes at this meeting (2 contested, 0 unanimous). Procedural motions excluded.*
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
 
 ### 2. 4th Report of the
   London Diversity and Race Relations Advisory Committee
@@ -152,12 +152,7 @@ b)           
 
 **❌ **
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher), [Joni Baechler](/councillors/current/j-l-baechler), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
-
-</details>
+Unanimous (5-0)
 
 ### 7. Request for Delegation Status – Youth
   Create Healthy Communities
@@ -166,10 +161,5 @@ b)           
 
 **❌ **
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher), [Joni Baechler](/councillors/current/j-l-baechler), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
-
-</details>
+Unanimous (5-0)
 

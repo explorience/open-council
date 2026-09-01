@@ -309,7 +309,7 @@ The meeting adjourned at 6:22 PM.
 
 ## Votes
 
-*6 substantive votes at this meeting (1 contested, 5 unanimous). Procedural motions excluded.*
+*7 substantive votes at this meeting (2 contested, 5 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -317,7 +317,7 @@ The meeting adjourned at 6:22 PM.
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2.4. "RentSafeTO" Program and Complaint Process Improvements
 
@@ -325,7 +325,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2.4. "RentSafeTO" Program and Complaint Process Improvements
 
@@ -336,9 +336,26 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (1):** [Mo Salih](/councillors/current/m-salih)
+**Yea (3):** [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
 
-**Nay (1):** [Steve Hillier](/councillors/current/s-hillier)
+**Nay (3):** [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Mariam Hamou](/councillors/current/m-hamou)
+
+</details>
+
+### 4.1. REQUEST FOR DELEGATION STATUS - Permission to Use Gibbons Park for an Event - J. Scott-Pearse
+
+> That the verbal delegation, from J. Scott-Pearse, with respect to a request for permission to use Gibbons Park for an event, BE RECEIVED and NO ACTION BE TAKEN.
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Maureen Cassidy](/councillors/current/m-cassidy), [Mariam Hamou](/councillors/current/m-hamou)
+
+**Nay (1):** [Mo Salih](/councillors/current/m-salih)
+
+**Absent (1):** [Jesse Helmer](/councillors/current/j-helmer)
 
 </details>
 
@@ -348,7 +365,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 5.1. Deferred Matters List
 
@@ -356,7 +373,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 5.1. Deferred Matters List
 
@@ -364,5 +381,5 @@ Unanimous (2-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 

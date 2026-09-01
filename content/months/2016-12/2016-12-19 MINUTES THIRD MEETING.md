@@ -3100,3 +3100,385 @@ Approve Third Reading and Enactment of Added
 Motion
 Passed
 
+---
+
+## Votes
+
+*33 substantive votes at this meeting (13 contested, 20 unanimous). Procedural motions excluded.*
+
+### 1#8. Disclosure of Pecuniary Interest
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 11#3. Procurement of
+  Goods and Services Policy Revisions (Relates to Bill No. 35)
+
+> That, on the recommendation of the Managing   Director, Corporate Services and City Treasurer, Chief Financial Officer, the   attached revised by-law BE INTRODUCED at the Municipal Council meeting   to be held on December 19, 2016 to amend Schedule “C” - Procurement of Goods   and Services Policy...
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### 11#4. Rapid Transit
+  Corridor Traffic Flow
+
+> That the Civic Administration BE DIRECTED   to report back to the Civic Works Committee on the feasibility of   implementing specific pick-up and drop-off times for services, such as   deliveries and curbside pick-up of recycling and waste collection to local   businesses in the Downtown area and...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 17#2. Repeal and Amendment of Financial Services
+  Policies (Relates to Bill Nos. 41 and 42)
+
+> That, on the recommendation of the Managing   Director, Corporate Services and City Treasurer, Chief Financial Officer, the   following actions be taken:   a)         the   attached proposed revised by-law BE INTRODUCED at the Municipal   Council meeting to be held on December 19, 2016 for the pu...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 17#2. Repeal and Amendment of Financial Services
+  Policies (Relates to Bill Nos. 41 and 42)
+
+> Approve clause 7, clause 10 and clause   17, as amended.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 5#4. Adelaide
+  Street/Canadian Pacific Railway Grade Separation Environmental Assessment
+  Update
+
+> That, on the recommendation of the Managing   Director, Environmental and Engineering Services and City Engineer, the staff   report dated December 12, 2016, with respect to the Adelaide Street /   Canadian Pacific Railway Grade Separation Environmental Assessment Update, BE   RECEIVED for inform...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 7#6. Comments of the
+  Ministry of Energy's Discussion Paper on Ontario's Long-Term Energy Plan for
+  Submission to the Environmental Bill of Rights (EBR) Registry
+
+> That, on the recommendation of the Director   of Environment, Fleet and Solid Waste, the following actions be taken with   respect to the comments on the Ministry of Energy's Discussion Paper on   Ontario's Long-Term Energy Plan:   a)       the   comments and discussion on the Ministry of Energy'...
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### 8#2. Open Air Burning By-law - Education Plan
+
+> Approve that clause 8 BE REFERRED back   to the Community and Protective Services Committee (CPSC),to allow those who   wished to have delegation status to do so at the January meeting of the CPSC;   it being noted that several Council Members have received notice from   residents of their intent...
+
+**❌ Motion Failed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Mo Salih](/councillors/current/m-salih), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher)
+
+**Nay (8):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert)
+
+</details>
+
+### 8#2. Open Air Burning By-law - Education Plan
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### V. CONFIRMATION
+  AND SIGNING OF THE MINUTES OF THE FIRST MEETING HELD ON DECEMBER 6, 2016 AND
+  THE SECOND MEETING HELD ON DECEMBER 13, 2016
+
+> Approve the Minutes of the First and   Second Meetings held on December 6 and December 13, 2016, respectively.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### XI. ENQUIRIES
+
+> Approve that pursuant to section 11.4 of   the Council Procedure By-law, leave be given to add a Council, In Closed   Session matter to receive information related to a matter pertaining to   personal matters, including information regarding identifiable individuals,   with respect to employment-...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### XIII. BY-LAWS
+
+> Approve Introduction and First Reading   of Added Bill No. 51.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher)
+
+**Nay (3):** [Josh Morgan](/councillors/current/j-morgan), [Mo Salih](/councillors/current/m-salih), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### XIII. BY-LAWS
+
+> Approve Second Reading of Added Bill No.   51.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher)
+
+**Nay (3):** [Josh Morgan](/councillors/current/j-morgan), [Mo Salih](/councillors/current/m-salih), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### XIII. BY-LAWS
+
+> Approve Third Reading and Enactment of Added   Bill No.51.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher)
+
+**Nay (3):** [Josh Morgan](/councillors/current/j-morgan), [Mo Salih](/councillors/current/m-salih), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 3. (ADDED) Councillor
+  M. Salih and Councillor P. Squire -  Subsidized Transit (Refer to the
+  Community and Protective Services Committee stage for consideration with clause
+  18 of the 1st Report of the Community and Protective Services Committee.)
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 7. Property located at
+  1448 Adelaide Street North (OZ-8684)
+
+> That, on the recommendation of the Managing   Director, Planning and City Planner, the following actions be taken with   respect to the application of Kim Nguyen, relating to the property located at   1448 Adelaide Street North:   a)         the   proposed by-law appended to the staff report date...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (2):** [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 12. Property located at
+  132, 146 and 184 Exeter Road  (39T-15501/Z-8470 ) (Relates to Bill No. 50)
+
+> Approve that part e) of clause 12 be   amended to read as follows:
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 12. Property located at
+  132, 146 and 184 Exeter Road  (39T-15501/Z-8470 ) (Relates to Bill No. 50)
+
+> Approve clause 12, as amended.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 15. CPR Right-of-Way
+  Between the Heritage Sarnia Road Bridge and the Sarnia Road Railway Underpass
+
+> The Civic Administration BE DIRECTED to   advise the Canadian Pacific Railway (CPR) of the Municipal Council’s desire   to have those lands located along the CPR right-of-way between the heritage   Sarnia Road bridge and the Sarnia Road railway underpass be reforested.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 16. Annual Emergency Management Program Update
+  (Relates to Bill No. 31)
+
+> That, on the recommendation of the Managing   Director, Human Resources and Corporate Services and Chief Human Resources   Officer, the proposed by-law, as appended to the staff report dated December 13,   2016, BE INTRODUCED at the Municipal Council meeting to be held on December   19, 2016, to:...
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 18. Subsidized Transit
+
+> Approve that in accordance with section   11.14 of the Council Procedure By-law, the question on the referral be put.
+
+**❌ Motion Failed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Mo Salih](/councillors/current/m-salih), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (5):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Paul Hubert](/councillors/current/p-hubert)
+
+</details>
+
+### 18. Subsidized Transit
+
+> Motion Failed
+
+**❌ Motion Failed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Michael van Holst](/councillors/current/m-van-holst), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher)
+
+**Nay (9):** [Josh Morgan](/councillors/current/j-morgan), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 18. Subsidized Transit
+
+> The motion to amend part b), as   subsequently modified by the mover and seconder, is put as follows:
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (1):** [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 18. Subsidized Transit
+
+> Approve part b) of clause 18, as amended.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (1):** [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 18. Subsidized Transit
+
+> Approve part a).
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
+
+**Nay (4):** [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher)
+
+</details>
+
+### 18. Subsidized Transit
+
+> Approve the following new part h):
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 18. Subsidized Transit
+
+> Approve the following new part i):
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (1):** [Michael van Holst](/councillors/current/m-van-holst)
+
+</details>
+
+### 18. Subsidized Transit
+
+> Approve parts c),  e),  f) and g).
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 18. Subsidized Transit
+
+> Approve part d).
+
+**✅ Motion Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+
+**Nay (6):** [Josh Morgan](/councillors/current/j-morgan), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher)
+
+</details>
+
+### 18. Subsidized Transit
+
+> Approve clause 18, as amended.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (1):** [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 19. Hate Related
+  Graffiti
+
+> The Civic Administration BE REQUESTED to   review and report back at a future meeting of the Community and Protective   Services Committee setting out measures that could be undertaken to address   the increase in hate related graffiti, including, but not limited to the   following:   a)         ...
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### 20. Affordable Access to City-Owned Community
+  Centres and Recreation Facilities
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 20. Affordable Access to City-Owned Community
+  Centres and Recreation Facilities
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+

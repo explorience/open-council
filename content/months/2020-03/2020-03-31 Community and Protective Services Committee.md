@@ -223,7 +223,7 @@ The meeting adjourned at 1:10 PM.
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2.2. Single Source 20-04 - Agreement for London and Middlesex Local Immigration Partnership with WIL Counselling and Training for Employment
 
@@ -231,7 +231,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 2.3. Canada-Ontario Housing Benefit (COHB) - Approval of Ontario Transfer Payment Agreement
 
@@ -239,7 +239,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2.4. Homeless Prevention Standard Form Occupancy Agreement for Head Lease Units
 
@@ -247,7 +247,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 5.1. (ADDED) Councillor M. Salih - New Licensing and Licensing Renewal Requirements
 
@@ -255,7 +255,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 5.1. (ADDED) Councillor M. Salih - New Licensing and Licensing Renewal Requirements
 
@@ -263,5 +263,5 @@ Unanimous (3-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 

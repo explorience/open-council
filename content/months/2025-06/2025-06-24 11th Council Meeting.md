@@ -2409,258 +2409,6 @@ The meeting adjourned at 4:55 PM.
 > **Bill No. 274**
 > 
 > By-law No. A.-8621-213 - A by-law to approve the Ontario Transfer Payment Agreement between His Majesty the King in right of Ontario as represented by the Minister of Municipal Affairs and Housing and The Corporation of the City of London. (2.1/10/PEC)
-
----
-
-## Votes
-
-*21 substantive votes at this meeting (10 contested, 11 unanimous). Procedural motions excluded.*
-
-### 8.1. 8th Report of the Strategic Priorities and Policy Committee
-
-> That the 8th Report of the Strategic Priorities and Policy Committee BE APPROVED, with the exception of items 3 (2.2) and 6 (3.2).
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.1.6. (3.2) Not to be heard before 2:00 PM - London & Middlesex Community Housing - 2024 Annual General Meeting of the Shareholder Annual Resolutions (Relates to Bill No. 257)
-
-> That the following actions be taken with respect to the London & Middlesex Community Housing (LMCH): a)  on the recommendation of the City Manager, the proposed by-law as appended to the staff report dated June 17, 2025 as Appendix “A” entitled “A by-law to ratify and confirm the Annual Resolutio...
-
-**✅ Motion Passed (14 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
-
-</details>
-
-### 8.2. 11th Report of the Infrastructure and Corporate Services Committee
-
-> That the 11th Report of the Infrastructure and Corporate Services Committee BE APPROVED, with the exception of items 7 (2.6) and item 11 (2.10).
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.2.7. (2.6) Procurement of Goods & Services Policy Update
-
-> That the staff report dated June 16, 2025, with respect to the Procurement of Goods & Services Policy Update, BE REFFERED to a future meeting of the Infrastructure and Corporate Services Committee for Civic Administration to report back on the inclusion of providing quarterly summary reporting on...
-
-**❌ Motion Failed (6 to 9) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Shawn Lewis](/councillors/current/s-lewis), [Susan Stevenson](/councillors/current/s-stevenson), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (9):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-</details>
-
-### 8.2.7. (2.6) Procurement of Goods & Services Policy Update
-
-> That the motion be amended to include a direction to staff to provide a report back to the Infrastructure and Corporate Services Committee following the first summary report with respect to quarterly summary report on procurement activities, including the resourcing required. At 2:30 PM, Councill...
-
-**✅ Motion Passed (12 to 3)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Skylar Franke](/councillors/current/s-franke)
-
-</details>
-
-### 8.2.7. (2.6) Procurement of Goods & Services Policy Update
-
-> That item 7, clause 2.6, as amended, BE APPROVED.
-
-**✅ Motion Passed (13 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Corrine Rahman](/councillors/current/c-rahman)
-
-</details>
-
-### 8.2.11. (2.10) City/County Cost Apportionment Agreements for Land Ambulance, Ontario Works, Housing and Child Care - Amending Agreement (Relates to Bill No.'s 253, 254, 255 & 256)
-
-> Motion to approve parts a), b), c) to read as follows: That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken: a)    the proposed by-law, as appended to the staff report dated June 16, 2025 as Appendix “A” BE INTRODUCED at the Municipal Council me...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.2.11. (2.10) City/County Cost Apportionment Agreements for Land Ambulance, Ontario Works, Housing and Child Care - Amending Agreement (Relates to Bill No.'s 253, 254, 255 & 256)
-
-> Motion to approve part d) to read as follows: d)    the proposed by-law, as appended to the staff report dated June 16, 2025 as Appendix “D” BE INTRODUCED at the Municipal Council meeting to be held on June 24, 2025 to approve the Amending Agreement to the Child Care Services Cost Apportionment a...
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 8.3. 10th Report of the Community and Protective Services Committee
-
-> That the 10th Report of the Community and Protective Services Committee BE APPROVED, with the exception of items 3 (2.2), 7 (2.6), 9, (2.8), 10 (2.9), 11 (4.1), 12 (4.2).
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.3.9. (2.8) Life Stabilization Purchase of Service Agreements - Single Source Procurement - SS-2025-112 (Relates to Bill No. 251)
-
-> That, on the recommendation of the Deputy City Manager, Social and Health Development, the following actions be taken with respect to the staff report, dated June 9, 2025, related to Life Stabilization Purchase of Service Agreements Single Source Procurement – SS-2025-112: a)    a Single Source P...
-
-**✅ Motion Passed (13 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
-
-**Absent (1):** [Shawn Lewis](/councillors/current/s-lewis)
-
-</details>
-
-### 8.3.10. (2.9) Updated Highly Supportive Housing Plan Cost Breakdown Schedule
-
-> That the staff report dated June 9, 2025 with respect to the Updated Highly Supportive Housing Plan Cost Breakdown Schedule BE REFERRED to the July 14, 2025 meeting of the Community and Protective Services Committee in order to provide cost breakdowns or draft operational budgets for the approved...
-
-**❌ Motion Failed (5 to 10)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-</details>
-
-### 8.3.11. (4.1) City of London's Municipal Rent Assistance Program (MRAP)
-
-> That the communication dated June 2, 2025, from Councillor D. Ferreira regarding the City of London’s Municipal Rent Assistance Program (MRAP) BE REFERRED to Civic Administration to collaborate with Atlohsa Family Healing Services and report back to the next meeting of the Community and Protectiv...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.3.12. (4.2) Request for Update on 2021 Reaching Home
-
-> That the Civic Administration BE DIRECTED to prepare an update for the August 11, 2025 meeting of the Community and Protective Services Committee regarding  the three 2021 Reaching Home capital projects, including the status of associated operational commitments and funding along with the followi...
-
-**❌ Motion Failed (3 to 12)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-</details>
-
-### 8.4. 9th Report of the Planning and Environment Committee
-
-> That the 9th Report of the Planning and Environment Committee BE APPROVED, with the exception of items 2 (2.1), 6 (3.3) and 7 (3.4).
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 8.4.2. (2.1) Intention to Expand the Hyde Park Business Improvement Area (BIA)
-
-> That the staff report dated June 10, 2025, related to the Hyde Park Business Improvement Area request for expansion BE REFERRED to a future meeting of the Planning and Environment Committee in order for Civic Administration to work with the Hyde Park BIA to undertake an additional round of engage...
-
-**❌ Motion Failed (1 to 12)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (1):** [Anna Hopkins](/councillors/current/a-hopkins)
-
-**Nay (12):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (2):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow)
-
-</details>
-
-### 8.4.2. (2.1) Intention to Expand the Hyde Park Business Improvement Area (BIA)
-
-> That the staff report dated June 10, 2025, related to the Hyde Park Business Improvement Area request for expansion BE REFERRED to a future meeting of the Planning and Environment Committee in order for Civic Administration to work with the Hyde Park BIA to undertake an additional round of engage...
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 8.4.6. (3.3) 928-934 Oxford Street West (Z-25044) (Relates to Bill No. 272)
-
-> Notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 2419361 Ontario Inc & Ali Youssef (c/o Siv-ik Planning & Design) relating to the property located at 928 & 934 Oxford Street West; a) the proposed by-law...
-
-**✅ Motion Passed (11 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (2):** [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Absent (2):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow)
-
-</details>
-
-### 8.4.7. (3.4) 743 Richmond Street (OZ-25048) (Relates to Bill No.'s 261 and 273)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 743 Richmond Inc. (c/o Fitzrovia) relating to the property located at 743 Richmond Street:    a) the proposed by-law as appended to the staff report dated June ...
-
-**✅ Motion Passed (12 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (1):** [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (2):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow)
-
-</details>
-
-### 8.5. 3rd Report of the Budget Committee
-
-> That the 3rd Report of the Budget Committee BE APPROVED, with the exception of item 9 (4.7).
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 8.6. 3rd Report of the Audit Committee
-
-> That the 3rd Report of the Audit Committee BE APPROVED, with the exception of item 5 (4.4).
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 8.7. 10th Special Planning and Environment Committee
-
-> That the 10th Special Report of the Planning and Environment Committee, BE APPROVED.
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
 ---
 
 ## Full Transcript
@@ -2839,3 +2587,539 @@ Any other speakers on the referral? Deputy Mayor Lewis thank you so i do uh get 
 Mathers uh through the chair so um as in any engagement it's not advisable to actually provide the very much the specifics of what you're hearing from folks so the idea is to be able to aggregate it um there are different zones that have been identified so i think that would be a helpful um to be able to aggregate the values by those type of those zones so you can see what's being interested in there's five zones so i think that's probably a good starting point if you wanted anything more defined than that then we would work very closely with the bia to see what maybe some logical divisions would be but absolutely would want to have like specific and indicate what people uh i came forward with because it is supposed to be a process that has uh has a little bit of that privacy maintained go ahead thank you i'm fine to support this referral back um by his own seems quite reasonable to help a decision making going forward um i was also fine just saying no uh but if that's the word counselor's desire to go back and do further engagement happy to support it any of any other speakers to this new referral go ahead council approval thank you i will be supporting it and uh glad the way it's worth it excluding key maps for you thank you okay that looks like all the speakers i'm gonna open uh i want to open the vote closing the vote motion carries 13 to 0 go ahead chair thank you i'd like to put number six uh on the floor this is regarding 9.8 to 934 Oxford street west um it was a split vote at committee okay this is on the floor any discussion see none then we're gonna open it for voting closing the vote motion carries 11 to 2 go ahead chair thank you and um i'd like to put seven on the floor this is regarding 743 Richmond street that's the corner of Richmond and Oxford i'll put that on the floor okay this is on the floor i'll look to uh speakers on this one go ahead deputy mary louis thank you worship i just want to rise and take a quick moment to thank council for era for arranging an opportunity for me to uh have a teams meeting with the applicant uh discussed the lay by concerns uh that came up when this was discussed at committee i'm satisfied now that the applicant can make this work uh without the lay by um they've concurred with some of the traffic engineering staff's concerns uh they are also i understand uh potentially coming back with an opportunity to expand some of their underground parking uh you know dependent on whether or not the city is amenable to um an option that they've come up with so um we've got a great uh proposal here um the one concern i had has been addressed by the applicant and so i'm happy to support it and i just wanted to thank council for for assisting in uh setting up that meeting and making sure that we could have a good discussion with the applicant uh thank you i'll turn the chair over to deputy mary i have myself next on the list and i will recognize mary morgan uh thanks so i'm gonna rise in support of this application um i want to support it for a couple reasons one i i think it's a solid application it uh suits uh all of our uh planning uh principles the kind of provincial policy statements i think staff did a good job on the report and i think the applicant did did a good job on the application uh beyond that um and i certainly i'll also say i recognize some of the questions that committee had and uh i i'm glad that uh committee members were able to meet with the applicant discuss it with them and and resolve some of their concerns i want to talk about uh this company so fits rovia is a very large developer in canada there's a lot of work um uh in the duty area uh this is their first foray into London now this company actually has roots in London the number of the uh the senior members of this gone to western university they're familiar with the city um the reason why i'm excited about this application aside from it being a solid application is you know this is a company um that they're not just going to build one building here doesn't make sense from an economic standpoint if they're going to build a building they're probably going to purchase some land and do some others they specialize in high rises they actually have a lot of experience uh dealing with incredibly tight spaces and small footprints and being able to turn those into transformative developments and so uh we have phenomenal developers in our city uh they only have so much capacity to move forward there's been a lot of high rises built in the last few years uh having another player with considerable experience coming into the city uh knowing that they're going to not only get a project done but probably engage in others i think is is quite exciting for us to meet some of our housing goals particularly those of us who support high density residential housing and want to ensure that not only as we expand in the city but we also uh make sure that we go upwards and create density opportunities in spaces that may be challenging or difficult to develop this is uh this is a developer-res experience in doing that so a great application a great work by our staff but i think an exciting opportunity to see a a new a new player in London who is uh not just going to do this but a number of other projects in our city because we certainly know we need the housing so i want to thank the planning committee for the good recommendation i'll certainly be supporting it here and look forward to uh look forward to the the shovel the groundbreaking at that site and getting this project underway thank you worship i will return the chair to you okay any other speakers to this council layman um yeah i just wanted to echo the mayor's words there um i would not be i'm not saying i wouldn't support this but it wouldn't be a scheme um from the outside if it wasn't for this particular developer and the experience they have in in Toronto this is an incredibly tight footprint at a very busy intersection of richmond and oxford so there will be challenges i think it's going to be great learning curve for staff as our skyline changes and we're going to be putting more of these highly intensive buildings up um how are we going to accomplish this without disrupting traffic uh at that corner i know just uh last week uh there was something going on on the street it was down the one lane in oxford and it was backed up considerably and so if we have you know um a long periods of time where it's backed up either richmond or oxford it's going to have some implications during the construction phase i know this this company uh has experienced how to do that with toronto for sure like toronto's um you know a great example of how to build in tight quarters so uh that will be our challenge for them that will be our challenge for staff but hopefully uh we can learn there and i i will be keeping on this to mitigate as much as possible traffic disruption i know there's going to be traffic disruption there has to be but as much as possible um to keep it in that alleyway and at the side away from shutting down uh lanes of traffic there a great gateway to uh to the uh north end of downtown uh it makes a statement um and like i said our skyline is changing it's an incredibly exciting time to be in this city um we talked about the official plan or the um um our city boundaries uh the other day at pack and we talked about intensity and i think this is an example of how we limit the need to expand into to green fields aside or by uh keeping the density uh in the central location so i won't be supporting this okay any of the speakers david iris sorry cancer furra thanks mare i will be very brief i did out to all the comments that i've heard here i appreciate uh to support and uh like councilor layman and the chair a great chair of peck said um this will change the skyline this will bring the skyline to the modern age and it is a gateway for the north end of the city um so i appreciate the support i appreciate the comments here and um looking forward to when the applicant uh strikes ground right that's all the speakers i have this is on the floor moved by the chair we'll open the vote closing the vote motion carries 12 to 1 thank you chair that concludes the 9th report planning of firework committee all right on to councilor plosar for the uh from the budget chair uh for the third report of the budget committee thank you mr mare uh before i make introductory comments i've been asked to pull number nine being 4.7 uh been development charges act look you see if there's anything further through you uh anybody want anything else pulled get seen then go ahead okay uh just a brief overview update you and a couple of items i'll note from incoming correspondence today was a note from um miss williams from the health unit as we have questions on item 4.2 at committee so a formal answer has been provided for that also um the lower tems did reply behind the scenes and just said that their formal answer would be forthcoming uh later in the fall thank you very much any other speakers to any of these items go ahead councilor stevenson thank you i just wanted to say in terms of the budget in general i i just feel like we haven't had a chance to really look into uh the finances of the 1.4 billion here so i know we talk we get we get to look at little things and decide whether we're gonna fund them or not a lot of the um decrease in the tax rate is coming from things that we're putting off into the future and so i would have really loved the opportunity in this term council to really take a look at where we can find long-term savings that will actually um address the issue of the lack of finances and so i i would love to see or have an opportunity even within the budget committee like if there was a option to be able to meet between now and the fall and really look at department by department and be able to ask questions about what what we're spending money on uh the way i know i am able to do at certain boards and commissions if there was that opportunity i would love to have it and i just thought i'd put that out on the floor that i would love to have those in-depth discussions here with this council other speakers on the matters before us okay seeing none then we're going to open that for voting closing the vote motion carries 13 to 0 thank you i'll not put number nine being 4.7 the development charges act on the floor okay um this was uh just a presentation for myself so happy to put that on the floor i'll look for any comments or comments for colleagues seeing none then we'll open that for voting closing the vote motion carries 12 to 1 thank you that concludes the third report of the budget committee happy to go into the third report of the audit audit committee if you're ready go ahead thank you i've been asked poll number five and i'll note that the community grants program value for money audit um we did make one amendment at committee normally it's a report that we receive every four years and committees change that it is now an annual report that uh committee and council will receive so just five being pulled at this time okay so anybody would like anything from one to four pulled okay go ahead okay one to four is on the floor then all right so any discussion on one to four okay we'll open that for voting closing the vote motion carries 13 to 0 thank you all now put number five being 4.4 on the floor okay this is on the floor i'll look for any speakers to this one seeing none we'll open that for voting closing the vote motion carries 12 to 1 thank you that concludes the third report of the audit committee great and now we can go back to council layman for the tenth special uh meeting of the planning and environment committee um thank you um your worship this is uh was a quick one that we had to call um due to um the interior building faster fun um and getting some agreements um put forward and passed by council here uh so i will put that uh on the floor uh thanks that's on the floor um i'm just going to turn over to the deputy mayor i'm going to make uh just a few brief comments on this thank you worship i will take the chair and recognize mayor morgan okay i uh i just i made a few comments at committee i know it was just yesterday but since this is council and going through i just wanted to uh to echo uh just a couple of them here but first uh i want to thank um you know the provincial government uh for their collaborative work on building housing together um and uh furthermore to the work of our staff uh for really uh doing what needed to be done to ramp up uh our output over the 2024 year um the 2023 year the building faster fun was pretty tight for us to make some of the changes uh that were made uh that we could make um but i know that our staff did that worked closely with the development community we struck several committees we set targets as a council we received funding from multiple levels of government we deployed that effectively to actually meet our target in 2024 now what's interesting is there were a number of municipalities who had met their target 2023 and had struggled through 2024 and um there aren't as many municipalities um who were able to do what we did and that's buck the trend a little bit and uh and actually create the housing to meet our targets and so i'm happy to receive the funding uh from the provincial government i'll be looking looking forward to uh to the amount when they're able to disclose that but this funding agreement is a pretty critical step in the process um i want to recognize too that that the responsibility for creating housing is a shared responsibility it involves provincial federal municipal governments but also the development community the financial community and others um the not-for-profits also play an important role um none of us can do this on our own and uh and none of us can be accountable for the whole spectrum of the uh of the housing continuum but we can be accountable and we can take responsibility for the things that we can control and that is why although i'm happy to receive building faster fund money this year i would just want council to be aware that we continue to advocate as mayors through obcm and through amo for a program that reflects the things the municipalities have control over right this council has done a tremendous number of permissions but the market conditions are necessary for bringing those permissions action to fruition and putting a hole in the ground and actually creating a home so right now you know we're judged on foundations going in the ground which is something we don't control we control the permissions we control the environment we work closely with the dilemma community to try to create housing but uh some of the challenges we have with this particular fund is it basically is a it's sent to fund municipalities that incentivize something that we actually don't have control over so um although happy to receive the funds this year i want you to know me my colleagues and i continue to advocate to the provincial government for for sure create an incentive program but let's let's hold municipalities to account for the things they have control over and incentivize that the other thing we continue to advocate for is if all the building faster funds are not used up because uh perhaps not every municipality reaches their target and exhausts the budget is that those are really critical provincial dollars to be redistributed into municipalities for housing enabling infrastructure it's something they did with last year's building faster fund we encourage them to continue to do that uh because that is how uh we continue to to put the infrastructure in the ground that we need uh particularly you know at a time where we know uh our ability to fund it is relatively stretched and so provincial dollars are really critical so i want to thank the province for listening to that call i think that they've been really good about redeploying some of those those funds and those assets into important programs like water and wastewater infrastructure that has allowed us to do things like the downtown siphon and other uh critical projects uh we'll continue to apply for those and advocate for them um i know that uh 2025 will be a challenging year um to meet the targets i mean part of the good news is is that 700 uh unit and university residents will give us a bit of a bit of a head start this year towards uh uh challenging goal uh but uh you know we're going to need uh some strong partnership with the development community strong partnership with the provincial federal governments and frankly some some changes in marketing conditions and some dropping of some of the uncertainty out there to uh to be able to achieve our goal in 2025 but uh i think if we work together and and push in the right direction we'll be able to uh to do our best to achieve that so happy to receive these funds uh uh when they come uh but the signing this contribution agreement is uh is an important uh important piece uh of the puzzle so thanks for uh thanks for the comments thank you mayor and we're going to return the chair to you i've got any other speakers on this yourself sorry no i said i have no other speakers at this time thank councilman i want to speak so go to him um thank you thank you mayor for your for your comments and i agree i thank very much to the province and our local MPP minister flack uh for assisting on housing and uh and making sure that the city gets to where we need to go what i really want to use this opportunity is to thank uh mr mathers and his team um the getting getting foundations in is how we track towards our provincial targets those things don't happen without the incredible hard work that your team does on rezoning and permitting site planning and all the things from the administrative side that i i believe my experience here has come leave some bounds uh in assisting us uh to get those foundations in the ground i know you're not where you want to be yet and you will continue to uh to um the great work on efficiencies that your team has done but i'd be remiss if i didn't um go show it to your team uh for the work over it's not just this year it's it's a number of years that lead to the final uh shovels of the ground as they say so um tremendous tremendous work thank you any other speakers in this seeing none then we'll open that motion for voting closing the vote motion carries 13-0 that concludes the 10 special planning of our community officer opkins oh go ahead yes um i do have an early departure and we'll be leaving okay thanks for letting me know just one sec i just have to get a person for this next item we have uh added reports um there is one um report from council on closed session uh council ramen's gonna uh councilor i was gonna put that on the floor uh thank you and through you your council in closed session report uh execution of 2024 to 2027 collective agreement with the London civic employees local union number 117 heard by the Canadian Union public employees and affiliated with Canadian labor congress keep the local 107 that on the recommendation that activity manager enterprise search supports the civic administration be directed to decide i surgery on wednesday so it's a little bit hard but i work it through it okay sorry about that uh be directed to undertake all administrative acts that are necessary in order for the mayor and so you clerk to obtain the necessary uh authorization to execute the collective agreement for the years 2024 to 2027 depended as appendix c to the staff report dated june 16 2025 pursuant to the memorandum of agreement dated may 7th 2024 appendix a and they agreed to amend items dated february 5th 2024 march 1st 2024 and april 3rd 2024 appendix b between the corporation city of london's london civic employee local union 107 heard by the Canadian union public employees and affiliated with the clc qp local 107 and that progress is made with respect to items 4.2 is noted on the public agenda 6.110 peck thank you and whoever did your answer you did a great job because that was perfect um uh okay so that's on the floor and uh you can stand because we're you're actually presenting that and i'll look for any discussion on that particular matter okay then we'll open that for voting oh and counselor romans are both session one four okay we're going to open that for voting closing the vote motion carries of 11 to 0 thank you uh deferred matters we have none increase i wasn't informed of any okay we have none uh emergent motions we have none bylaws i'm going to tell you how we're going to do bylaws okay here's how we're going to do bylaws we're going to start with and i'm going to tell you these bills so you can just make notes build 251 which is the life stabilization purchase of service agreements then we're going to have uh bill 256 which is a child care associated agreement counselor uh vam merebergen then uh we're going to have the procurement bylaw from icsc which is bill 258 then we're going to have uh bills number 261 273 which is 743 Richmond street um i think that's counselor hilliers uh request for the way he voted then we're going to do bills 272 uh which is uh Oxford Street West which i know counselor i wanted to vote separately on and then everything else okay does anybody is that work for everybody i think that covers most of the everybody's conflicts and everybody's voting preferences okay great okay we'll proceed that way then so um it'd be great sorry is everybody looking to is i'm gonna ask this who's supporting everything i am here you okay counselor frank and i are going to move in second all of this so that we don't have to change the change the vote so counselor frank and i will she'll be the mover i'll be the seconder and then we'll start with uh bill 251 so this is the life stabilization purchase service agreements so we'll go to first reading a bill 251 counselor frank moves i second there's no discussion on first reading so we're gonna open that for voting two carries 11 to 1 second reading same mover and seconder is there any discussion at second reading see none we'll open that for voting carries 11 to 1 third reading uh same mover and seconder we'll open that for voting as soon as it's ready and carries 11 to 1 all right next we'll deal with uh child care related bill um that's 256 okay so uh that's was counselor van merebergen's uh conflict uh counselor frank is mover i'm seconder we'll open first reading for voting posing the vote motion carries 11 to 0 with one root use all all right second reading uh same mover and seconder i'll look for any debate on second reading seeing none we'll open second reading for voting carries 11 to 0 with one third reading same mover and seconder we will open third reading for voting carries 11 to 0 with one all right next we're going to deal with the 258 which is the procurement by-law uh we're going to open first reading for voting uh counselor frank we'll move i'll second and carries 11 to 1 so mover and seconder any debate on second reading seeing none we'll open that for carries 11 to 1 third and final reading of this bill same mover and seconder we'll open third reading carries 11 to 1 the next two bills number 261 and 273 are related to 743 Richmond Street counselor frank will move that i will second it we'll open first reading for voting carries 11 to 1 second reading same mover and seconder any debate on second reading seeing none we'll open this for voting carries 11 to 1 third and final reading of this these two bills uh same mover and seconder we'll open third reading for voting carries 11 to 1 right next uh is bill 272 which is uh the oxford street properties counselor frank will move i will second we'll open first reading for voting carries 11 to 1 second reading same mover and seconder any debate on second reading seeing none we'll open second reading for voting carries 11 to 1 third and final reading of this bill the same mover and seconder we'll open that for voting carries 11 to 1 okay now it's all the remaining bills from all the other parts of the meeting uh counselor frank will move those i will second them we'll open first reading for voting those in the vote motion carries 12 to 0 and second reading of these bills same mover and seconder any debate on second reading seeing none we'll open that for carries 12 to 0 okay third and final reading of this set of bills same mover and second reading for voting carries 12 to 0 that brings us to the end of bylaws uh all i have left is a motion to adjourn moved by counselor van mierberg and seconded by counsel ferrera by hand all those in favor motion carries thank you we're adjourned
 
 </details>
+
+---
+
+## Votes
+
+*38 substantive votes at this meeting (27 contested, 11 unanimous). Procedural motions excluded.*
+
+### 8.1. 8th Report of the Strategic Priorities and Policy Committee
+
+> That the 8th Report of the Strategic Priorities and Policy Committee BE APPROVED, with the exception of items 3 (2.2) and 6 (3.2).
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.1.3. (2.2) Corporate Growth Projections Update
+
+> That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the Deputy City Manager, Finance Supports, and the Deputy City Manager, Environment and Infrastructure, the following report with respect to the City of London Corporate Growth Projections 2021-2051, BE RECEIVED...
+
+**✅ Motion Passed (12 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (3):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke)
+
+</details>
+
+### 8.1.6. (3.2) Not to be heard before 2:00 PM - London & Middlesex Community Housing - 2024 Annual General Meeting of the Shareholder Annual Resolutions (Relates to Bill No. 257)
+
+> That the following actions be taken with respect to the London & Middlesex Community Housing (LMCH): a)  on the recommendation of the City Manager, the proposed by-law as appended to the staff report dated June 17, 2025 as Appendix “A” entitled “A by-law to ratify and confirm the Annual Resolutio...
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+</details>
+
+### 8.2. 11th Report of the Infrastructure and Corporate Services Committee
+
+> That the 11th Report of the Infrastructure and Corporate Services Committee BE APPROVED, with the exception of items 7 (2.6) and item 11 (2.10).
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.2.7. (2.6) Procurement of Goods & Services Policy Update
+
+> That the staff report dated June 16, 2025, with respect to the Procurement of Goods & Services Policy Update, BE REFFERED to a future meeting of the Infrastructure and Corporate Services Committee for Civic Administration to report back on the inclusion of providing quarterly summary reporting on...
+
+**❌ Motion Failed (6 to 9) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Shawn Lewis](/councillors/current/s-lewis), [Susan Stevenson](/councillors/current/s-stevenson), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (9):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 8.2.7. (2.6) Procurement of Goods & Services Policy Update
+
+> That the motion be amended to include a direction to staff to provide a report back to the Infrastructure and Corporate Services Committee following the first summary report with respect to quarterly summary report on procurement activities, including the resourcing required. At 2:30 PM, Councill...
+
+**✅ Motion Passed (12 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Skylar Franke](/councillors/current/s-franke)
+
+</details>
+
+### 8.2.7. (2.6) Procurement of Goods & Services Policy Update
+
+> That item 7, clause 2.6, as amended, BE APPROVED.
+
+**✅ Motion Passed (13 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Corrine Rahman](/councillors/current/c-rahman)
+
+</details>
+
+### 8.2.11. (2.10) City/County Cost Apportionment Agreements for Land Ambulance, Ontario Works, Housing and Child Care - Amending Agreement (Relates to Bill No.'s 253, 254, 255 & 256)
+
+> Motion to approve parts a), b), c) to read as follows: That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken: a)    the proposed by-law, as appended to the staff report dated June 16, 2025 as Appendix “A” BE INTRODUCED at the Municipal Council me...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.2.11. (2.10) City/County Cost Apportionment Agreements for Land Ambulance, Ontario Works, Housing and Child Care - Amending Agreement (Relates to Bill No.'s 253, 254, 255 & 256)
+
+> Motion to approve part d) to read as follows: d)    the proposed by-law, as appended to the staff report dated June 16, 2025 as Appendix “D” BE INTRODUCED at the Municipal Council meeting to be held on June 24, 2025 to approve the Amending Agreement to the Child Care Services Cost Apportionment a...
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 8.3. 10th Report of the Community and Protective Services Committee
+
+> That the 10th Report of the Community and Protective Services Committee BE APPROVED, with the exception of items 3 (2.2), 7 (2.6), 9, (2.8), 10 (2.9), 11 (4.1), 12 (4.2).
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.3.3. (2.2) City of London Community Grants Program Grassroots, Innovation, and Capital Funding Allocations (2025)
+
+> That, on the recommendation of the Deputy City Manager, Neighbourhood and Community-Wide Services, the staff report dated June 9, 2025, with respect to the City of London Community Grants Program Grassroots, Innovation and Capital Funding Allocations (2025) BE RECEIVED. (2025-F11A)
+
+**✅ Motion Passed (8 to 7) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (7):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 8.3.9. (2.8) Life Stabilization Purchase of Service Agreements - Single Source Procurement - SS-2025-112 (Relates to Bill No. 251)
+
+> That, on the recommendation of the Deputy City Manager, Social and Health Development, the following actions be taken with respect to the staff report, dated June 9, 2025, related to Life Stabilization Purchase of Service Agreements Single Source Procurement – SS-2025-112: a)    a Single Source P...
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+**Absent (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+</details>
+
+### 8.3.10. (2.9) Updated Highly Supportive Housing Plan Cost Breakdown Schedule
+
+> That the staff report dated June 9, 2025 with respect to the Updated Highly Supportive Housing Plan Cost Breakdown Schedule BE REFERRED to the July 14, 2025 meeting of the Community and Protective Services Committee in order to provide cost breakdowns or draft operational budgets for the approved...
+
+**❌ Motion Failed (5 to 10)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 8.3.10. (2.9) Updated Highly Supportive Housing Plan Cost Breakdown Schedule
+
+> That, on the recommendation of the Deputy City Manager, Social and Health Development, the staff report dated June 9, 2025 with respect to the Updated Highly Supportive Housing Plan Cost Breakdown Schedule, BE RECEIVED; it being noted that a communication from Councillor S. Stevenson, dated June ...
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
+
+### 8.3.11. (4.1) City of London's Municipal Rent Assistance Program (MRAP)
+
+> That the communication dated June 2, 2025, from Councillor D. Ferreira regarding the City of London’s Municipal Rent Assistance Program (MRAP) BE REFERRED to Civic Administration to collaborate with Atlohsa Family Healing Services and report back to the next meeting of the Community and Protectiv...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.3.12. (4.2) Request for Update on 2021 Reaching Home
+
+> That the Civic Administration BE DIRECTED to prepare an update for the August 11, 2025 meeting of the Community and Protective Services Committee regarding  the three 2021 Reaching Home capital projects, including the status of associated operational commitments and funding along with the followi...
+
+**❌ Motion Failed (3 to 12)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 8.4. 9th Report of the Planning and Environment Committee
+
+> That the 9th Report of the Planning and Environment Committee BE APPROVED, with the exception of items 2 (2.1), 6 (3.3) and 7 (3.4).
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 8.4.2. (2.1) Intention to Expand the Hyde Park Business Improvement Area (BIA)
+
+> That the staff report dated June 10, 2025, related to the Hyde Park Business Improvement Area request for expansion BE REFERRED to a future meeting of the Planning and Environment Committee in order for Civic Administration to work with the Hyde Park BIA to undertake an additional round of engage...
+
+**❌ Motion Failed (1 to 12)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Anna Hopkins](/councillors/current/a-hopkins)
+
+**Nay (12):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (2):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow)
+
+</details>
+
+### 8.4.2. (2.1) Intention to Expand the Hyde Park Business Improvement Area (BIA)
+
+> That the staff report dated June 10, 2025, related to the Hyde Park Business Improvement Area request for expansion BE REFERRED to a future meeting of the Planning and Environment Committee in order for Civic Administration to work with the Hyde Park BIA to undertake an additional round of engage...
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 8.4.6. (3.3) 928-934 Oxford Street West (Z-25044) (Relates to Bill No. 272)
+
+> Notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 2419361 Ontario Inc & Ali Youssef (c/o Siv-ik Planning & Design) relating to the property located at 928 & 934 Oxford Street West; a) the proposed by-law...
+
+**✅ Motion Passed (11 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Absent (2):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow)
+
+</details>
+
+### 8.4.7. (3.4) 743 Richmond Street (OZ-25048) (Relates to Bill No.'s 261 and 273)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 743 Richmond Inc. (c/o Fitzrovia) relating to the property located at 743 Richmond Street:    a) the proposed by-law as appended to the staff report dated June ...
+
+**✅ Motion Passed (12 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (2):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow)
+
+</details>
+
+### 8.5. 3rd Report of the Budget Committee
+
+> That the 3rd Report of the Budget Committee BE APPROVED, with the exception of item 9 (4.7).
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 8.5.9. (4.7) Development Charges Act - Mayor J. Morgan
+
+> That it BE NOTED that the Budget Committee received a communication and presentation from Mayor J. Morgan regarding the Development Charges Act.
+
+**✅ Motion Passed (12 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+**Absent (2):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow)
+
+</details>
+
+### 8.6. 3rd Report of the Audit Committee
+
+> That the 3rd Report of the Audit Committee BE APPROVED, with the exception of item 5 (4.4).
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 8.6.5. (4.4) Safe London for Women, Girls and Gender-Diverse and Trans People Compliance Audit - MNP
+
+> That the communication dated June 5, 2025 from MNP with respect to safe London for women, girls and gender-diverse and trans people compliance audit BE RECEIVED.
+
+**✅ Motion Passed (12 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+**Absent (2):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow)
+
+</details>
+
+### 8.7. 10th Special Planning and Environment Committee
+
+> That the 10th Special Report of the Planning and Environment Committee, BE APPROVED.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 13. By-laws
+
+> That Introduction and First Reading of Bill No. 251, BE APPROVED.
+
+**✅ Motion Passed (11 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+**Absent (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+
+### 13. By-laws
+
+> That Second Reading of Bill No. 251, BE APPROVED.
+
+**✅ Motion Passed (11 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+**Absent (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+
+### 13. By-laws
+
+> That Third Reading and Enactment of Bill No. 251, BE APPROVED.
+
+**✅ Motion Passed (11 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+**Absent (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+
+### 13. By-laws
+
+> That Introduction and First Reading of Bill No. 258, BE APPROVED.
+
+**✅ Motion Passed (11 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Corrine Rahman](/councillors/current/c-rahman)
+
+**Absent (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+
+### 13. By-laws
+
+> That Second Reading of Bill No. 258, BE APPROVED.
+
+**✅ Motion Passed (11 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Corrine Rahman](/councillors/current/c-rahman)
+
+**Absent (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+
+### 13. By-laws
+
+> That Third Reading and Enactment of Bill No. 258, BE APPROVED.
+
+**✅ Motion Passed (11 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Corrine Rahman](/councillors/current/c-rahman)
+
+**Absent (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+
+### 13. By-laws
+
+> That Introduction and First Reading of Bill No.'s 261 and 273, BE APPROVED.
+
+**✅ Motion Passed (11 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+
+### 13. By-laws
+
+> That Second Reading of Bill No.'s 261 and 273, BE APPROVED.
+
+**✅ Motion Passed (11 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+
+### 13. By-laws
+
+> That Third Reading and Enactment of Bill No.'s 261 and 273, BE APPROVED.
+
+**✅ Motion Passed (11 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+
+### 13. By-laws
+
+> That Introduction and First Reading of Bill No. 272, BE APPROVED.
+
+**✅ Motion Passed (11 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Steve Lehman](/councillors/current/s-lehman)
+
+**Absent (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+
+### 13. By-laws
+
+> That Second Reading of Bill No. 272, BE APPROVED.
+
+**✅ Motion Passed (11 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Steve Lehman](/councillors/current/s-lehman)
+
+**Absent (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+
+### 13. By-laws
+
+> That Third Reading and Enactment of Bill No. 272, BE APPROVED.
+
+**✅ Motion Passed (11 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Steve Lehman](/councillors/current/s-lehman)
+
+**Absent (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+

@@ -4451,3 +4451,560 @@ Motion Passed
 
 Motion Passed
 
+---
+
+## Votes
+
+*46 substantive votes at this meeting (17 contested, 29 unanimous). Procedural motions excluded.*
+
+### 1#11. Disclosures
+  of Pecuniary Interest
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 11#2. Repeal and
+  Replacement of By-law No. A-41 - Council Procedure By-law
+
+> Approve that, on the recommendation of the City Clerk, the attached   revised proposed by-law (Appendix “A”) BE INTRODUCED at the Municipal Council   meeting on October 30, 2012 for the purpose of repealing and replacing By-law   No. A-41, the Council Procedure By-law, with a new Council Procedur...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 11#3. Economic
+  Development Opportunities for London
+
+> That the following actions be taken with   respect to the communication dated October 5, 2012, from H. Brown, President,   Brown and Cohen Communications and Public Affairs Inc., requesting delegation   status for G. Mulhern, Executive Director, Ontario Concrete Pipe Association   and B. Brown, P...
+
+**✅ Motion
+Passed**
+
+Unanimous (13-0)
+
+### 11#5. Banner Signs
+
+> That the Civic Administration BE REQUESTED   to report back to the appropriate standing committee with respect to a review   of temporary real estate banner signs for the Downtown area including the   potential removal of the 210 day restriction within that area; it being noted   that the Public ...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 11#5. Banner Signs
+
+> Motion Passed
+
+**✅ Motion
+Passed**
+
+Unanimous (13-0)
+
+### 11#5. Banner Signs
+
+> The   motion to Approve clauses 10 and 11 is put.
+
+**✅ Motion
+Passed**
+
+Unanimous (10-0)
+
+### 16#2. Property located at
+  1476 Aldersbrook Road (OZ-8069)
+
+> Amend part b), by adding an additional part   vii) as follows: “restrict access to a left-in from Gainsborough Road (in   addition to the right-in/right-out) and a left-out onto Aldersbrook Road (in   addition to the right-in/right-out) using raised concrete medians and   following the City Acces...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 16#2. Property located at
+  1476 Aldersbrook Road (OZ-8069)
+
+> Motion Passed
+
+**✅ Motion
+Passed**
+
+Unanimous (13-0)
+
+### 2#3. Property located at
+  425 Wharncliffe Road South (Z-8063)
+
+> At 6:22 PM, His Worship the Mayor resumes   the Chair and Councillor P. Hubert takes his seat at the Council Board.
+
+**❌ Motion Failed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Joe Fontana](/councillors/current/j-f-fontana), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (8):** [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Nancy Branscombe](/councillors/current/n-branscombe), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant)
+
+</details>
+
+### 2#3. Property located at
+  425 Wharncliffe Road South (Z-8063)
+
+> The motion to adopt clause 2 is put.   Motion Passed
+
+**✅ Motion Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Nancy Branscombe](/councillors/current/n-branscombe), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant)
+
+**Nay (5):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Joe Fontana](/councillors/current/j-f-fontana), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson), [Denise Brown](/councillors/current/d-brown)
+
+</details>
+
+### 2#3. Property located at
+  425 Wharncliffe Road South (Z-8063)
+
+> Approve that pursuant to section 7.4 of   the Council Procedure By-law, the order of business be changed to permit   consideration of the emergent motion at this time.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Nancy Branscombe](/councillors/current/n-branscombe), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (3):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson)
+
+</details>
+
+### 2#3. Property located at
+  425 Wharncliffe Road South (Z-8063)
+
+> Approve that, pursuant to section 18.2 of   the Council Procedure By-law, leave be given for the introduction of an   emergent motion with respect to a leave of absence for the Mayor.
+
+**❌ Motion Failed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Nancy Branscombe](/councillors/current/n-branscombe), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant)
+
+**Nay (8):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Denise Brown](/councillors/current/d-brown)
+
+</details>
+
+### 2#8. Southwest Area
+  Secondary Plan (O-7609)
+(Secretary's Note: a copy of the revised Southwest Area
+  Plan is available for viewing in the City Clerk's Office.)
+
+> Motion Passed to sustain the ruling Chair.
+
+**✅ Motion Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (5):** [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Nancy Branscombe](/councillors/current/n-branscombe), [Judy Bryant](/councillors/current/j-p-bryant)
+
+</details>
+
+### 2#8. Southwest Area
+  Secondary Plan (O-7609)
+(Secretary's Note: a copy of the revised Southwest Area
+  Plan is available for viewing in the City Clerk's Office.)
+
+> Approve that part a) ii) of Clause 2   of the 27th Report of the Planning and Environment Committee be amended by   deleting the part in its entirety and replacing it with the following new   part a) ii):   “ii)        amend   Chapter 20-Secondary Plans, BY ADDING the attached revised Section   2...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (2):** [Matt Brown](/councillors/current/m-brown), [Nancy Branscombe](/councillors/current/n-branscombe)
+
+</details>
+
+### 2#8. Southwest Area
+  Secondary Plan (O-7609)
+(Secretary's Note: a copy of the revised Southwest Area
+  Plan is available for viewing in the City Clerk's Office.)
+
+> Approve that clause 2 BE REFERRED back   to the Planning and Environment Committee in order for staff to bring forward   high level cost estimates for expanding the Enterprise Zone, timing and how   this will integrate with the GMIS and the Development Charges Study.
+
+**❌ Motion Failed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Nancy Branscombe](/councillors/current/n-branscombe), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (7):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white)
+
+</details>
+
+### 2#8. Southwest Area
+  Secondary Plan (O-7609)
+(Secretary's Note: a copy of the revised Southwest Area
+  Plan is available for viewing in the City Clerk's Office.)
+
+> Approve  an amendment to part a) iii) of   clause 2, by adding the words, "subject Council approval".
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 2#8. Southwest Area
+  Secondary Plan (O-7609)
+(Secretary's Note: a copy of the revised Southwest Area
+  Plan is available for viewing in the City Clerk's Office.)
+
+> Approve an amendment to part a) ii)   by deleting the part in its entirety and by replacing it with the following   new part a) ii):   a)  ii) amend Chapter   20-Secondary Plans, BY ADDING the attached revised section 20.5 –   Southwest Area Secondary Plan to the Official Plan for the City of Lon...
+
+**❌ Motion Failed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Nancy Branscombe](/councillors/current/n-branscombe), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant)
+
+**Nay (8):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Denise Brown](/councillors/current/d-brown)
+
+</details>
+
+### 2#8. Southwest Area
+  Secondary Plan (O-7609)
+(Secretary's Note: a copy of the revised Southwest Area
+  Plan is available for viewing in the City Clerk's Office.)
+
+> Approve part a) iii) of clause 2.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (2):** [Paul Hubert](/councillors/current/p-hubert), [Judy Bryant](/councillors/current/j-p-bryant)
+
+</details>
+
+### 2#8. Southwest Area
+  Secondary Plan (O-7609)
+(Secretary's Note: a copy of the revised Southwest Area
+  Plan is available for viewing in the City Clerk's Office.)
+
+> Approve the remainder of clause 2, as   amended.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (3):** [Matt Brown](/councillors/current/m-brown), [Nancy Branscombe](/councillors/current/n-branscombe), [Judy Bryant](/councillors/current/j-p-bryant)
+
+</details>
+
+### 20#2. Southwest Area
+  Secondary Plan (O-7609)
+
+> Amend clause 21 to add the following   wording, “to the Aspen Valley Wildlife Sanctuary for the winter months, then   subsequently move them” after the words “Stanton Drain” in the third line.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 20#2. Southwest Area
+  Secondary Plan (O-7609)
+
+> Motion Passed
+
+**✅ Motion
+Passed**
+
+Unanimous (13-0)
+
+### 6#5. Cancellation of the
+  Eldon House Service Agreement with Museum London
+
+> That, on the recommendation of the Director   of Corporate Investments and Partnerships, the City Clerk BE AUTHORIZED to   give notice to Museum London that the Eldon House Service Agreement dated   December 22, 2010 between the City and Museum London for the operation of   Eldon House will be te...
+
+**✅ Motion
+Passed**
+
+Unanimous (13-0)
+
+### 7#3. New "Value
+  Based" Funding Model for Water and Wastewater Services
+
+> Approve that the following actions be taken with respect to the new   "Value Based" funding model for Water and Wastewater Services:   a)         the   report dated October 22, 2012, from the Managing Director of Engineering and   City Engineer BE RECEIVED for information;    b)         a   Publi...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (1):** [Stephen Orser](/councillors/current/s-orser)
+
+</details>
+
+### 7#6. Committee
+  Appointment Preferences submitted by Council Members
+
+> a)         That   the membership of the Civic Works Committee for the term December 1, 2012 to   November 30, 2013 BE ESTABLISHED as follows:                                       Councillor   P. Van Meerbergen(Chair)                                     Mayor   J. Fontana (ex-officio)            ...
+
+**✅ Motion
+Passed**
+
+Unanimous (13-0)
+
+### 7#6. Committee
+  Appointment Preferences submitted by Council Members
+
+> The   motion to adopt clause 7 a) is put.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (3):** [Paul Hubert](/councillors/current/p-hubert), [Nancy Branscombe](/councillors/current/n-branscombe), [Judy Bryant](/councillors/current/j-p-bryant)
+
+</details>
+
+### 7#6. Committee
+  Appointment Preferences submitted by Council Members
+
+> The   motion to adopt clause 7 b) is put.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (3):** [Harold Usher](/councillors/current/h-l-usher), [Nancy Branscombe](/councillors/current/n-branscombe), [Judy Bryant](/councillors/current/j-p-bryant)
+
+</details>
+
+### 7#6. Committee
+  Appointment Preferences submitted by Council Members
+
+> The   motion to adopt clause 7 c) is put.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (4):** [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Nancy Branscombe](/councillors/current/n-branscombe), [Judy Bryant](/councillors/current/j-p-bryant)
+
+</details>
+
+### 7#6. Committee
+  Appointment Preferences submitted by Council Members
+
+> The   motion to adopt clause 7 d) is put.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (4):** [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Nancy Branscombe](/councillors/current/n-branscombe), [Judy Bryant](/councillors/current/j-p-bryant)
+
+</details>
+
+### 7#6. Committee
+  Appointment Preferences submitted by Council Members
+
+> The   motion to adopt clause 7 e) is put.
+
+**✅ Motion Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (5):** [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Nancy Branscombe](/councillors/current/n-branscombe), [Judy Bryant](/councillors/current/j-p-bryant)
+
+</details>
+
+### 8#4. Property located at
+  199 Queens Avenue
+
+> Approve referral of consideration of   clause 8 to a future meeting of the Planning and Environment Committee.
+
+**❌ Motion Failed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Nancy Branscombe](/councillors/current/n-branscombe), [Judy Bryant](/councillors/current/j-p-bryant)
+
+**Nay (8):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Denise Brown](/councillors/current/d-brown)
+
+</details>
+
+### 8#4. Property located at
+  199 Queens Avenue
+
+> Approve clause 8, as amended.
+
+**✅ Motion Passed**
+
+Unanimous (10-0)
+
+### 9#2. Offer from 1803302
+  Ontario Limited to Purchase 2.87 Acres Identified as Part Lot 27, Plan
+  33M-251 - Trafalgar Industrial Park - Phase lll
+
+> Approve that, on the recommendation of the Manager, Realty Services, with   respect to the offer submitted by 1803302 Ontario Limited to purchase   approximately 2.87 acres of land located on the west side of Sovereign Road,   described as Part Lot 27, Plan 33M-251, as shown on Appendix “B”, the ...
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### III. CONFIRMATION
+  AND SIGNING OF THE MINUTES OF THE SEVENTEENTH MEETING HELD ON OCTOBER 9, 2012
+
+> Approve the Minutes of the Seventeenth   Meeting held on October 9, 2012.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### VII. ADDED
+  REPORTS
+
+> Approve that pursuant to section 7.4 of   the Council Procedure By-law, the order of business be changed to permit   consideration of clause 2 of the 26th Report of the Planning and Environment   Committee, having to do with a Zoning By-law Amendment application relating   to the property located...
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### XII. BY-LAWS
+
+> Approve the 1st Reading of Bill   No. 425.
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### XII. BY-LAWS
+
+> Approve the 2nd Reading of Bill   No. 425.
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### XII. BY-LAWS
+
+> Approve the 3rd Reading of Bill No. 425.
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### XII. BY-LAWS
+
+> Approve the 1st Reading of Bills   No.s 419 to 442, except Bill No.s 425 and 443.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### XII. BY-LAWS
+
+> Approve the 2nd Reading of Bills No.s 419 to 442, except Bill No.s 425 and   443.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### XII. BY-LAWS
+
+> Approve the 3rd Reading of Bills No.s 419 to 442, except Bill No.s 425 and   443.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### XIII. COMMITTEE
+  OF THE WHOLE, IN CAMERA
+
+> Approve Council rise and go into   Committee of the Whole, in camera, for the purpose of considering the   following:
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 4. (ADDED) Stanton
+  Drain (Refer to the Planning and Environment Committee stage for
+  consideration with clause 21 of the 25th Report of the Planning and
+  Environment Committee.)
+
+> Motion Passed
+
+**✅ Motion
+Passed**
+
+Unanimous (12-0)
+
+### 9. City of London
+  Thames Valley District School Board Liaison Committee
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### 13. Make your
+  Municipality more Cardiac Safe
+
+> That the request for delegation status from   M. Holland, Director, Health Promotion and Public Affairs, Heart & Stroke   Foundation of Ontario, with respect to a presentation regarding how to make   your municipality more cardiac safe, BE APPROVED; it being noted that   delegation status for M. ...
+
+**✅ Motion
+Passed**
+
+Unanimous (12-0)
+
+### 20. Resignation from
+  the Community Safety and Crime Prevention Advisory Committee
+
+> That the communication dated September 25,   2012, from Bill Urquhart, resigning his appointment to the Community Safety   and Crime Prevention Advisory Committee, BE ACCEPTED and Bill Urquhart BE   THANKED for participating on the Community Safety and Crime Prevention   Advisory Committee.
+
+**✅ Motion
+Passed**
+
+Unanimous (13-0)
+
+### 21. Resignation of
+  Emily Marcoccia from the Town and Gown Committee
+
+> Approve that the communication dated September 11, 2012, from Sabina Di   Loreto, resigning the appointment of Emily Marcoccia to the Town and Gown   Committee, BE ACCEPTED and Emily Marcoccia BE THANKED for participating on   the Town and Gown Committee.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+

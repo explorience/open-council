@@ -507,7 +507,7 @@ The meeting adjourned at 1:10 PM.
 
 ## Votes
 
-*7 substantive votes at this meeting (1 contested, 6 unanimous). Procedural motions excluded.*
+*6 substantive votes at this meeting (0 contested, 6 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -515,7 +515,7 @@ The meeting adjourned at 1:10 PM.
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 4.1. Consideration of Applications to the London Hydro Inc. Board of Directors (Requires 1 Member)
 
@@ -523,7 +523,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 4.1. Consideration of Applications to the London Hydro Inc. Board of Directors (Requires 1 Member)
 
@@ -531,20 +531,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
-
-### 4.1. Consideration of Applications to the London Hydro Inc. Board of Directors (Requires 1 Member)
-
-> London Hydro Inc. Board of Directors - selection of three candidates for interviews
-
-**❌ Majority Winner: Tania Goodine; Margaret Parks; Steven Stefanko 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Absent (6):** [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Maureen Cassidy](/councillors/current/m-cassidy)
-
-</details>
+Unanimous (6-0)
 
 ### 4.2. Application - Issuance of Proclamation - Bullying Elimination Week
 
@@ -552,7 +539,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 4.2. Application - Issuance of Proclamation - Bullying Elimination Week
 
@@ -560,7 +547,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 4.3. Application - Issuance of Proclamation - October is Caribbean Heritage Month in Canada
 
@@ -568,5 +555,5 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 

@@ -357,7 +357,7 @@ The meeting adjourned at 6:08 PM.
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2.1. 2019 State of the Downtown Report
 
@@ -368,7 +368,9 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Nay (2):** [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder)
+**Yea (2):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman)
+
+**Nay (4):** [Anna Hopkins](/councillors/current/a-hopkins), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Phil Squire](/councillors/current/p-squire)
 
 </details>
 
@@ -378,7 +380,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 3.1. Application - 690, 696, 698, 700 King Street, 400 Lyle Street, 701, 725, 729, 735, 737 Dundas Street and 389, 391, 393 Hewitt Street
 
@@ -386,7 +388,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 4.1. R. Pinheiro, Chairman, Hamilton Road Business Improvement Area - Request for Amendment to our Hamilton Road Business Improvement Area By-laws
 
@@ -394,5 +396,5 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 

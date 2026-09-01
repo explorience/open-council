@@ -364,7 +364,7 @@ The meeting adjourned at 2:42 PM.
 
 ## Votes
 
-*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+*2 substantive votes at this meeting (1 contested, 1 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -372,13 +372,20 @@ The meeting adjourned at 2:42 PM.
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
-### 3.1. Sound By-Law - Outdoor Patio Time Exemption and Housekeeping Amendments
+### 2.7. Making Nasal Naloxone Kits Available for Public Use in Some City of London Facilities
 
-> That, on the recommendation of the Managing Director, Development and Compliance Services and Chief Building Official, the proposed by-law, as appended to the staff report dated February 20, 2019, BE INTRODUCED at the Municipal Council meeting to be held on March 5, 2019, to amend the Sound By-la...
+> That the staff report dated February 20, 2019 with respect to making nasal Naloxone kits available for public use in some City of London facilities BE RECEIVED and no further action be taken with respect to this matter. (2019-S08)
 
-**✅ Motion Passed (6 to 0)**
+**✅ Motion Passed (4 to 2) 🔥**
 
-Unanimous (4-0)
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+**Nay (2):** [Ed Holder](/councillors/current/e-holder), [Mo Salih](/councillors/current/m-salih)
+
+</details>
 

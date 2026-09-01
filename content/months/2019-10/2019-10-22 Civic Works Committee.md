@@ -403,7 +403,7 @@ The meeting adjourned at 4:39 PM.
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 4.1. 9th Report of the Cycling Advisory Committee
 
@@ -411,7 +411,7 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 5.2. (ADDED) 10th Report of the Cycling Advisory Committee
 
@@ -419,5 +419,5 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 

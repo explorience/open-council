@@ -630,126 +630,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 10:52 PM.
 
 ****
-
----
-
-## Votes
-
-*9 substantive votes at this meeting (6 contested, 3 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That, notwithstanding the Council Procedure By-law, a change in order of the Strategic Priorities and Policy Committee Agenda BE APPROVED, to provide for Items 2.4, 2.5, 2.6 in Stage 2, Consent, to be considered before Stage 3, Schedule Items.
-
-**✅ Motion Passed (13 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (2):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy)
-
-</details>
-
-### 2.4. London Economic Development Corporation Purchase of Services Agreement 2024-2027
-
-> That, on the recommendation of the Deputy City Manager, in accordance with the City of London Procurement of Goods and Services Policy, Section 14.4 Single Source, the following actions be taken: a)    the proposed by-law as appended to the staff report dated December 12, 2023 as Appendix "A", BE...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 2.4. London Economic Development Corporation Purchase of Services Agreement 2024-2027
-
-> That, with respect to the London Economic Development Corporation Purchase of Services Agreement 2024-2027, the following actions be taken: c) the 2024-2027 Purchase of Services Agreement BE REFERRED to Civic Administration to negotiate the following changes:  i) all references to Deputy City Man...
-
-**❌ Motion Failed (1 to 14)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (1):** [Jerry Pribil](/councillors/current/j-pribil)
-
-**Nay (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 2.4. London Economic Development Corporation Purchase of Services Agreement 2024-2027
-
-> That pursuant to section 31.6 of the Council Procedure By-law, Councillor Pribil BE PERMITTED to speak an additional 1 minute with respect to this matter.
-
-**✅ Motion Passed (12 to 3)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 2.5. Small Business Centre 2024-2027 Grant Agreement
-
-> That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken: a)   the proposed by-law as appended to the staff report dated December 12, 2023 as Appendix "A", BE INTRODUCED at the Municipal Council meeting to be held on December 19, 20...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 2.6. TechAlliance 2024-2027 Grant Agreement
-
-> That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken: a)    the proposed by-law as appended to the staff report dated December 12, 2023 as Appendix "A", BE INTRODUCED at the Municipal Council meeting to be held on December 19, 2...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 4.1. Deputy Mayor S. Lewis and Councillor S. Franke - Submission Regarding Progress Update - Health and Homelessness Whole of Community System Response
-
-> That with respect to the matter of Health and Homelessness Whole of Community System Response the following actions be taken: a) pursuant to section 35.2 of the Council Procedure By-law, the March 7, 2023 Council decision directing Civic Administration to report back monthly to future standing co...
-
-**✅ Motion Passed (11 to 4)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (4):** [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman)
-
-</details>
-
-### 4.1. Deputy Mayor S. Lewis and Councillor S. Franke - Submission Regarding Progress Update - Health and Homelessness Whole of Community System Response
-
-> That the motion BE AMENDED to reflect the frequency of the overall comprehensive "Progress Update - Health & Homelessness Whole of Community System Response” from "twice annually" to "quarterly".
-
-**✅ Motion Passed (13 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-</details>
-
-### 4.1. Deputy Mayor S. Lewis and Councillor S. Franke - Submission Regarding Progress Update - Health and Homelessness Whole of Community System Response
-
-> b) pursuant to section 35.7 of the Council Procedure By-law should reconsideration pass, that Council consider the following alternate recommendation: That Civic Administration BE DIRECTED to adjust the frequency of the overall comprehensive “Progress Update - Health & Homelessness Whole of Commu...
-
-**✅ Motion Passed (14 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
-
-</details>
 ---
 
 ## Full Transcript
@@ -2048,3 +1928,124 @@ Okay, with that, we've concluded the items of our agenda. I look for a motion to
 Motion carries. No one, can you even give me a chance to say opposed? All right, thanks, we're adjourned.
 
 </details>
+
+---
+
+## Votes
+
+*9 substantive votes at this meeting (6 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That, notwithstanding the Council Procedure By-law, a change in order of the Strategic Priorities and Policy Committee Agenda BE APPROVED, to provide for Items 2.4, 2.5, 2.6 in Stage 2, Consent, to be considered before Stage 3, Schedule Items.
+
+**✅ Motion Passed (13 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy)
+
+</details>
+
+### 2.4. London Economic Development Corporation Purchase of Services Agreement 2024-2027
+
+> That, on the recommendation of the Deputy City Manager, in accordance with the City of London Procurement of Goods and Services Policy, Section 14.4 Single Source, the following actions be taken: a)    the proposed by-law as appended to the staff report dated December 12, 2023 as Appendix "A", BE...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 2.4. London Economic Development Corporation Purchase of Services Agreement 2024-2027
+
+> That, with respect to the London Economic Development Corporation Purchase of Services Agreement 2024-2027, the following actions be taken: c) the 2024-2027 Purchase of Services Agreement BE REFERRED to Civic Administration to negotiate the following changes:  i) all references to Deputy City Man...
+
+**❌ Motion Failed (1 to 14)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Jerry Pribil](/councillors/current/j-pribil)
+
+**Nay (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 2.4. London Economic Development Corporation Purchase of Services Agreement 2024-2027
+
+> That pursuant to section 31.6 of the Council Procedure By-law, Councillor Pribil BE PERMITTED to speak an additional 1 minute with respect to this matter.
+
+**✅ Motion Passed (12 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 2.5. Small Business Centre 2024-2027 Grant Agreement
+
+> That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken: a)   the proposed by-law as appended to the staff report dated December 12, 2023 as Appendix "A", BE INTRODUCED at the Municipal Council meeting to be held on December 19, 20...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 2.6. TechAlliance 2024-2027 Grant Agreement
+
+> That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken: a)    the proposed by-law as appended to the staff report dated December 12, 2023 as Appendix "A", BE INTRODUCED at the Municipal Council meeting to be held on December 19, 2...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 4.1. Deputy Mayor S. Lewis and Councillor S. Franke - Submission Regarding Progress Update - Health and Homelessness Whole of Community System Response
+
+> That with respect to the matter of Health and Homelessness Whole of Community System Response the following actions be taken: a) pursuant to section 35.2 of the Council Procedure By-law, the March 7, 2023 Council decision directing Civic Administration to report back monthly to future standing co...
+
+**✅ Motion Passed (11 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (4):** [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman)
+
+</details>
+
+### 4.1. Deputy Mayor S. Lewis and Councillor S. Franke - Submission Regarding Progress Update - Health and Homelessness Whole of Community System Response
+
+> That the motion BE AMENDED to reflect the frequency of the overall comprehensive "Progress Update - Health & Homelessness Whole of Community System Response” from "twice annually" to "quarterly".
+
+**✅ Motion Passed (13 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 4.1. Deputy Mayor S. Lewis and Councillor S. Franke - Submission Regarding Progress Update - Health and Homelessness Whole of Community System Response
+
+> b) pursuant to section 35.7 of the Council Procedure By-law should reconsideration pass, that Council consider the following alternate recommendation: That Civic Administration BE DIRECTED to adjust the frequency of the overall comprehensive “Progress Update - Health & Homelessness Whole of Commu...
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
+

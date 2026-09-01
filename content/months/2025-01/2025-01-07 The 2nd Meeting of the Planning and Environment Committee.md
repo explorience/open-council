@@ -401,44 +401,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 1:31 PM.
 
 ****
-
----
-
-## Votes
-
-*4 substantive votes at this meeting (0 contested, 4 unanimous). Procedural motions excluded.*
-
-### 3.1. 629 Baseline Road East (OZ-9807)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Dipesh Patel (c/o Siv-ik Planning and Design Inc.) relating to the property located at 629 Base Line Road East: a)   the proposed by-law appended to the staff r...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.2. 430 First Street (Z-9809)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 2741943 Ontario Inc. c/o Europa Foods relating to the property located at 430 First Street, the proposed by-law appended to the staff report dated January 7, 20...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.3. Demolition Request for the Heritage Listed Property at 1361 Wilton Grove Road
-
-> That, on the recommendation of the Director, Planning and Development, with respect to the demolition request for all the buildings on the heritage listed property at 1361 Wilton Grove Road, the following actions be taken: a)   the Demolition Request for Buildings 2, 3, 4, 5, 6, 7, 8, and 9, excl...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.4. 1958 Duluth Crescent (OZ-9814)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of the Housing Development Corporation, London (HDC) relating to the property located at 1958 Duluth Crescent: a)    the proposed by-law appended to the staff repo...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
 ---
 
 ## Full Transcript

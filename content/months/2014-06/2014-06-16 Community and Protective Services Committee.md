@@ -375,7 +375,7 @@ Motion
 
 ## Votes
 
-*7 substantive votes at this meeting (7 contested, 0 unanimous). Procedural motions excluded.*
+*7 substantive votes at this meeting (0 contested, 7 unanimous). Procedural motions excluded.*
 
 ### 4. London's Homeless
   Prevention System Housing Stability Fund
@@ -383,14 +383,9 @@ Motion
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (3-0)
 
 ### 6. Addition and Interior
   Alterations to the South London Community Centre Project No. P126- RC2751
@@ -399,14 +394,9 @@ Motion
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (3-0)
 
 ### 9. 5th Report of the
   Accessibility Advisory Committee
@@ -414,14 +404,9 @@ Motion
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (3-0)
 
 ### 10. Old East Village
   Neighbourhood Safety Plan
@@ -429,14 +414,9 @@ Motion
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (3-0)
 
 ### 11. 7th Report of the
   Animal Welfare Advisory Committee
@@ -444,14 +424,9 @@ Motion
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (3-0)
 
 ### 12. Information Request
   - Ontario Fire Marshal
@@ -459,14 +434,9 @@ Motion
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (3-0)
 
 ### 13. S. Tucker, 3391
   Settlement Trail - Street Parking - École Marie-Curie
@@ -474,12 +444,7 @@ Motion
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Judy Bryant](/councillors/current/j-p-bryant)
-
-</details>
+Unanimous (3-0)
 

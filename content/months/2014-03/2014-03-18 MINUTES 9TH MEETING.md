@@ -2505,3 +2505,247 @@ Approve Third Reading and Enactment of
 
 Motion Passed
 
+---
+
+## Votes
+
+*22 substantive votes at this meeting (5 contested, 17 unanimous). Procedural motions excluded.*
+
+### 12#3. Winter Maintenance
+  Update
+
+> Amend clause 2 by deleting part a) in   its entirety and by replacing it with the following new part a):   “a)        the   proposed by-law appended as Schedule ‘A’, to the staff report dated March 3,   2014, approving the Franchise Agreement between the City and Natural   Resources Gas Limited, ...
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 12#3. Winter Maintenance
+  Update
+
+> The motion to Approve clause 1, clause 2,   as amended, clauses 3 to 9, and clause 12, is put.
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 12#3. Winter Maintenance
+  Update
+
+> Amend clause 10 in the first line of   part a) by deleting the word “APPROVED” and by replacing it with the word “CONSIDERED".
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (4):** [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson)
+
+</details>
+
+### 12#3. Winter Maintenance
+  Update
+
+> Approve clause 10, as amended.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (2):** [Joe Swan](/councillors/current/j-b-swan), [Dale Henderson](/councillors/current/d-g-henderson)
+
+</details>
+
+### 12#3. Winter Maintenance
+  Update
+
+> The motion to Approve clause 11 is put.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 17#2. Consideration of
+  Appointment to the Child Care Advisory Committee
+
+> Amend clause 3 in the first line of part   d), by deleting the words “dated March 4, 2014, appended to the staff report,”   and by adding in the first line of part d), the words “attached   revised” before the word “by-law”.
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 17#2. Consideration of
+  Appointment to the Child Care Advisory Committee
+
+> The motion to Approve clauses 1, 2, 3, as   amended, 4 to 10, inclusive and 12 to 17, inclusive, is put.
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 17#2. Consideration of
+  Appointment to the Child Care Advisory Committee
+
+> Amend clause 11 by adding the   following new c), as follows:   "c)        the City Clerk BE REQUESTED to report back to the Corporate Services   Committee with respect to a fulsome review of the entire expense account   policy to incorporate guidelines that reflect public expectations, including...
+
+**❌ Motion Failed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (8):** [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson), [Judy Bryant](/councillors/current/j-p-bryant)
+
+</details>
+
+### 17#2. Consideration of
+  Appointment to the Child Care Advisory Committee
+
+> Amend clause 11 by adding the   following new part d) as follows:   “d)        that the annual expense account for individual Council members be reduced   from $15,000 to $10,000 per Member.”
+
+**❌ Motion Failed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Stephen Orser](/councillors/current/s-orser), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (11):** [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant)
+
+</details>
+
+### 17#2. Consideration of
+  Appointment to the Child Care Advisory Committee
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Stephen Orser](/councillors/current/s-orser)
+
+</details>
+
+### 4#5. Industrial Land Development Strategy
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 5#5. Request for Nominees for Appointment to the
+  Greater London International Airport Authority Board of Directors (One
+  Upcoming Vacancy)
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 5#5. Request for Nominees for Appointment to the
+  Greater London International Airport Authority Board of Directors (One
+  Upcoming Vacancy)
+
+> 8th Report of the   Committee of the Whole
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 5#5. Request for Nominees for Appointment to the
+  Greater London International Airport Authority Board of Directors (One
+  Upcoming Vacancy)
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 5#5. Request for Nominees for Appointment to the
+  Greater London International Airport Authority Board of Directors (One
+  Upcoming Vacancy)
+
+> At 7:31  PM, his Worship the Mayor resumes   the Chair, and Councillor P. Hubert takes his seat at the Council Board
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 9#2. Annual Review -
+  2014 Special Events Policies and Procedures Manual.
+
+> That, on the recommendation of the Managing   Director of Parks and Recreation, the by-law appended to the staff report   dated March 3, 2014, BE INTRODUCED at the Municipal Council meeting of March   18, 2014 to approve the 2014 Special Events Policies and Procedures Manual (attached   as Schedu...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### IV. COMMITTEE
+  OF THE WHOLE, IN CAMERA
+
+> MOTION FOR IN CAMERA SESSION
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### VI. CONFIRMATION
+  AND SIGNING OF THE MINUTES OF THE SIXTH, SEVENTH AND EIGHTH MEETINGS HELD ON
+  FEBRUARY 25, 2014 AND FEBRUARY 27, 2014
+
+> Approve the Minutes of the 6th, 7th and   8th Meetings held on February 25, February 27 and February 27, 2014,   respectively.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### XIII. BY-LAWS
+
+> Approve Introduction and First   Reading of Bill No. 147.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 6. Property located at
+  350 Oxford Street East (H-8296)
+
+> That, on the recommendation of the Planner   II, Development Planning, based on the application of Zelinka Priamo Limited,   relating to the property located at 350 Oxford Street East, the proposed   by-law, as appended to the staff report dated March 4, 2013, BE INTRODUCED at   the Municipal Cou...
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 21. Medway Valley
+  Heritage Forest Environmentally Significant Area, Phase One, Conservation
+  Master Plan
+
+> Amend clause 17 in the first line of part   a)i) by deleting the following words “, as appended to the staff report dated   March 4, 2014,”; and to amend in the first line of part a)i) by adding the   words “attached revised” after the word “proposed”.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 21. Medway Valley
+  Heritage Forest Environmentally Significant Area, Phase One, Conservation
+  Master Plan
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+

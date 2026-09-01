@@ -574,7 +574,7 @@ The meeting adjourned at 8:00 PM.
 
 ## Votes
 
-*15 substantive votes at this meeting (15 contested, 0 unanimous). Procedural motions excluded.*
+*17 substantive votes at this meeting (3 contested, 14 unanimous). Procedural motions excluded.*
 
 ### 2. Election of Vice
   Chair for the Term Ending November 30, 2018
@@ -584,12 +584,7 @@ The meeting adjourned at 8:00 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
+Unanimous (5-0)
 
 ### 3. Museum London
   Operating Endowment Fund Transfer Request
@@ -599,12 +594,7 @@ The meeting adjourned at 8:00 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
+Unanimous (6-0)
 
 ### 4. 2017 Annual
   Emergency Management Program Update
@@ -614,12 +604,7 @@ The meeting adjourned at 8:00 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
+Unanimous (6-0)
 
 ### 5. Memorandums of
   Understanding with St. John Ambulance and London Intercommunity Health Centre
@@ -629,12 +614,7 @@ The meeting adjourned at 8:00 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
+Unanimous (6-0)
 
 ### 6. Supply Chain Group
   Approval Purchasing and Revenue Share Agreements
@@ -644,12 +624,7 @@ The meeting adjourned at 8:00 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
+Unanimous (6-0)
 
 ### 7. 4th Report of the
   Town and Gown Committee
@@ -659,12 +634,7 @@ The meeting adjourned at 8:00 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
+Unanimous (6-0)
 
 ### 8. 10th Report of the
   London Housing Advisory Committee
@@ -674,10 +644,32 @@ The meeting adjourned at 8:00 PM.
 **✅ Motion
   Passed**
 
+Unanimous (6-0)
+
+### 9. Community Mental
+  Health and Addiction Strategy for London: Moving Forward Together
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 9. Community Mental
+  Health and Addiction Strategy for London: Moving Forward Together
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
 <details>
 <summary>View roll call</summary>
 
-**Yea (6):** [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
+**Yea (4):** [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong)
+
+**Nay (2):** [Phil Squire](/councillors/current/p-squire), [Virginia Ridley](/councillors/current/v-ridley)
 
 </details>
 
@@ -689,14 +681,7 @@ The meeting adjourned at 8:00 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (16):** [Mo Salih](/councillors/current/m-salih), [Mo Salih](/councillors/current/m-salih), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Bill Armstrong](/councillors/current/b-armstrong), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Virginia Ridley](/councillors/current/v-ridley)
-
-**Nay (2):** [Phil Squire](/councillors/current/p-squire), [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
+Unanimous (6-0)
 
 ### 10. Taxi Operating
   Expenses
@@ -706,12 +691,7 @@ The meeting adjourned at 8:00 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
+Unanimous (6-0)
 
 ### 11. Taxi Issues
 
@@ -720,12 +700,7 @@ The meeting adjourned at 8:00 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
+Unanimous (6-0)
 
 ### 12. Business Licensing
   By-law Review - New and Revised Regulations
@@ -735,12 +710,7 @@ The meeting adjourned at 8:00 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
+Unanimous (5-0)
 
 ### 13. 10th Report of the
   Accessibility Advisory Committee
@@ -750,12 +720,7 @@ The meeting adjourned at 8:00 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
+Unanimous (6-0)
 
 ### 14. 11th Report of the
   Diversity, Inclusion & Anti-Oppression Advisory Committee
@@ -782,12 +747,7 @@ The meeting adjourned at 8:00 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
-
-</details>
+Unanimous (5-0)
 
 ### 16. Council Chamber Doors
 

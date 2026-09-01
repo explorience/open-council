@@ -367,7 +367,7 @@ The meeting adjourned at 5:44 PM.
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 2.1. 8th, 1st and 2nd Reports of the Diversity, Inclusion and Anti-Oppression Advisory Committee
 
@@ -378,7 +378,7 @@ Unanimous (2-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier)
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier), [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire)
 
 **Nay (1):** [Mo Salih](/councillors/current/m-salih)
 
@@ -392,7 +392,7 @@ Unanimous (2-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 3.2. Local Health Care Services
 
@@ -403,7 +403,9 @@ Unanimous (3-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (1):** [Shawn Lewis](/councillors/current/s-lewis)
+**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier), [Mo Salih](/councillors/current/m-salih)
+
+**Nay (2):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire)
 
 **Absent (1):** [Ed Holder](/councillors/current/e-holder)
 
@@ -418,7 +420,7 @@ Unanimous (3-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier)
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier), [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire)
 
 **Nay (1):** [Mo Salih](/councillors/current/m-salih)
 
@@ -432,5 +434,5 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 

@@ -334,7 +334,7 @@ The
 
 ## Votes
 
-*11 substantive votes at this meeting (11 contested, 0 unanimous). Procedural motions excluded.*
+*11 substantive votes at this meeting (0 contested, 11 unanimous). Procedural motions excluded.*
 
 ### 2. 8th Report of the
   Transportation Advisory Committee
@@ -342,14 +342,9 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/current/h-l-usher)
-
-</details>
+Unanimous (2-0)
 
 ### 3. Amendments to the
   Traffic and Parking By-law
@@ -357,14 +352,9 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/current/h-l-usher)
-
-</details>
+Unanimous (2-0)
 
 ### 4. Closing Part of
   Concept Drive
@@ -372,14 +362,9 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/current/h-l-usher)
-
-</details>
+Unanimous (2-0)
 
 ### 5. Closing Part of the
   Unnamed Road Allowance on Sarnia Road
@@ -387,14 +372,9 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/current/h-l-usher)
-
-</details>
+Unanimous (2-0)
 
 ### 6. Gore Road Area
   Project-Braesyde and Dengate Infrastructure Replacement Detailed Design and
@@ -403,14 +383,9 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/current/h-l-usher)
-
-</details>
+Unanimous (2-0)
 
 ### 7. 5th Report of the
   Cycling Advisory Committee
@@ -418,14 +393,9 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/current/h-l-usher)
-
-</details>
+Unanimous (2-0)
 
 ### 8. Parking Regulation
   Changes
@@ -433,14 +403,9 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/current/h-l-usher)
-
-</details>
+Unanimous (2-0)
 
 ### 9. Sharp Curve North
   End of Proudfoot Lane
@@ -448,14 +413,9 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/current/h-l-usher)
-
-</details>
+Unanimous (2-0)
 
 ### 10. Installation of
   Traffic Control Measures at Hyde Park Road and South Carriage Road
@@ -463,28 +423,18 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/current/h-l-usher)
-
-</details>
+Unanimous (2-0)
 
 ### 11. Parking Regulation Amendment
 
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/current/h-l-usher)
-
-</details>
+Unanimous (2-0)
 
 ### 12. (ADDED) Civic Works Committee Meeting –
   November 17, 2014
@@ -492,12 +442,7 @@ The
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/current/h-l-usher)
-
-</details>
+Unanimous (2-0)
 

@@ -257,7 +257,7 @@ The meeting stood adjourned at 5:22 PM due to a lack of quorum.
 
 **✅ Motion Passed (3 to 0)**
 
-Unanimous (1-0)
+Unanimous (3-0)
 
 ### 4.1. Paratransit
 
@@ -265,7 +265,7 @@ Unanimous (1-0)
 
 **✅ Motion Passed (3 to 0)**
 
-Unanimous (1-0)
+Unanimous (3-0)
 
 ### 4.2. Pedestrian Safety
 
@@ -273,5 +273,5 @@ Unanimous (1-0)
 
 **✅ Motion Passed (3 to 0)**
 
-Unanimous (1-0)
+Unanimous (3-0)
 

@@ -321,15 +321,7 @@ The meeting adjourned at 6:51 PM.
 
 ## Votes
 
-*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
-
-### 4.1. London Hydro Proposed Corporate Restructuring
-
-> That, on the recommendation of the City Manager with the concurrence of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the following actions be taken with respect to London Hydro proposed restructuring:    a)      the staff report including the proposal fro...
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (12-0)
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
 
 ### 5.1. (ADDED) Proposed Changes to the City Manager Search Committee Terms of Reference
 
@@ -337,7 +329,7 @@ Unanimous (12-0)
 
 **✅ Motion Passed (14 to 0)**
 
-Unanimous (12-0)
+Unanimous (14-0)
 
 ### 5.2. (ADDED) Resignation of Councillor M. Cassidy from the RBC Place London Board of Directors
 
@@ -345,5 +337,5 @@ Unanimous (12-0)
 
 **✅ Motion Passed (14 to 0)**
 
-Unanimous (12-0)
+Unanimous (14-0)
 

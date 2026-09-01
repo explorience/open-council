@@ -196,7 +196,7 @@ The Corporate Services Committee convened in
 
 ## Votes
 
-*3 substantive votes at this meeting (3 contested, 0 unanimous). Procedural motions excluded.*
+*10 substantive votes at this meeting (1 contested, 9 unanimous). Procedural motions excluded.*
 
 ### 2. 2013 Investment
   Report
@@ -205,12 +205,16 @@ The Corporate Services Committee convened in
 
 **✅ Motion Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (4-0)
 
-**Yea (8):** [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant), [Judy Bryant](/councillors/current/j-p-bryant)
+### 2. 2013 Investment
+  Report
 
-</details>
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (4-0)
 
 ### 4. Revision of Taxes
   Section of City Council Policy Manual
@@ -219,12 +223,25 @@ The Corporate Services Committee convened in
 
 **✅ Motion Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (4-0)
 
-**Yea (12):** [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant), [Judy Bryant](/councillors/current/j-p-bryant), [Judy Bryant](/councillors/current/j-p-bryant)
+### 4. Revision of Taxes
+  Section of City Council Policy Manual
 
-</details>
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (4-0)
+
+### 4. Revision of Taxes
+  Section of City Council Policy Manual
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (4-0)
 
 ### 8. Appointment to the
   Transportation Advisory Committee (Requires 1 Voting Member from the Council
@@ -235,10 +252,54 @@ The Corporate Services Committee convened in
 
 **✅ Motion Passed**
 
+Unanimous (4-0)
+
+### 8. Appointment to the
+  Transportation Advisory Committee (Requires 1 Voting Member from the Council
+  for London Seniors and 1 Voting Member  from the London-Middlesex Road Safety
+  Committee)
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (4-0)
+
+### 8. Appointment to the
+  Transportation Advisory Committee (Requires 1 Voting Member from the Council
+  for London Seniors and 1 Voting Member  from the London-Middlesex Road Safety
+  Committee)
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (4-0)
+
+### 8. Appointment to the
+  Transportation Advisory Committee (Requires 1 Voting Member from the Council
+  for London Seniors and 1 Voting Member  from the London-Middlesex Road Safety
+  Committee)
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (4-0)
+
+### 8. Appointment to the
+  Transportation Advisory Committee (Requires 1 Voting Member from the Council
+  for London Seniors and 1 Voting Member  from the London-Middlesex Road Safety
+  Committee)
+
+> Motion Passed
+
+**✅ Motion Passed 🔥**
+
 <details>
 <summary>View roll call</summary>
 
-**Yea (19):** [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant), [Judy Bryant](/councillors/current/j-p-bryant), [Judy Bryant](/councillors/current/j-p-bryant), [Judy Bryant](/councillors/current/j-p-bryant), [Judy Bryant](/councillors/current/j-p-bryant)
+**Yea (3):** [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
 
 **Nay (1):** [Harold Usher](/councillors/current/h-l-usher)
 

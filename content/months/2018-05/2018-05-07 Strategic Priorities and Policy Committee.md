@@ -602,15 +602,7 @@ The meeting adjourned at 9:31 PM.
 
 ## Votes
 
-*3 substantive votes at this meeting (1 contested, 2 unanimous). Procedural motions excluded.*
-
-### 3.1. Public Participation Meeting - Not to be heard before 4:15 PM - Growth Management Implementation Strategy (GMIS)
-
-> That, on the recommendation of the Managing Director, Development and Compliance Services & Chief Building Official, the following actions be taken with regard to the implementation of the Official Plan growth management policies applicable to the financing of growth-related infrastructure works:...
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (12-0)
+*3 substantive votes at this meeting (2 contested, 1 unanimous). Procedural motions excluded.*
 
 ### 3.3. Not to be heard before 7:00 PM - Municipal Accommodation Tax - Implementation
 
@@ -621,7 +613,9 @@ Unanimous (12-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher)
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Phil Squire](/councillors/current/p-squire)
 
 </details>
 
@@ -631,5 +625,20 @@ Unanimous (12-0)
 
 **✅ Motion Passed (14 to 0)**
 
-Unanimous (12-0)
+Unanimous (14-0)
+
+### 5.1. (ADDED) London Middlesex Housing Corporation Board of Directors Vacancies
+
+> That the following actions be taken with respect to the London Middlesex Housing Corporation Board of Directors:    a)            the letter of resignation appended to the staff report dated May 7, 2018 as Appendix A from S. Campbell, effective April 27, 2018 BE RECEIVED; and b)           the fol...
+
+**✅ Motion Passed (8 to 5) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Tanya Park](/councillors/current/t-park)
+
+**Nay (5):** [Josh Morgan](/councillors/current/j-morgan), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher)
+
+</details>
 

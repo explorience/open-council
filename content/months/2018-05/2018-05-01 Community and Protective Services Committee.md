@@ -430,7 +430,7 @@ The meeting adjourned at 6:39 PM.
 
 ## Votes
 
-*5 substantive votes at this meeting (2 contested, 3 unanimous). Procedural motions excluded.*
+*6 substantive votes at this meeting (3 contested, 3 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -438,7 +438,7 @@ The meeting adjourned at 6:39 PM.
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2.1. Short Term Accommodations
 
@@ -446,7 +446,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2.1. Short Term Accommodations
 
@@ -457,7 +457,24 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Maureen Cassidy](/councillors/current/m-cassidy), [Bill Armstrong](/councillors/current/b-armstrong)
+**Yea (4):** [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong)
+
+**Nay (2):** [Phil Squire](/councillors/current/p-squire), [Virginia Ridley](/councillors/current/v-ridley)
+
+</details>
+
+### 2.3. 4th Report of the Animal Welfare Advisory Committee
+
+> That the following actions be taken with respect to the 4th Report of the Animal Welfare Advisory Committee from its meeting held on April 5, 2018: a)            clause 2.1 of the Report BE REFERRED back to the Animal Welfare Advisory Committee for consultation with parties currently conducting a...
+
+**✅ Motion Passed (5 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
+
+**Nay (1):** [Phil Squire](/councillors/current/p-squire)
 
 </details>
 
@@ -465,12 +482,12 @@ Unanimous (4-0)
 
 > That NO AMENDMENT BE MADE to the Business Licensing By-law L.-131-16 with respect to the application made to substitute an existing licensed Adult Entertainment Parlour location at 2010 Dundas Street to a proposed location at 802 Exeter Road; it being noted that the attached presentation from O. ...
 
-**✅ Motion Passed (5 to 1) 🔥**
+**✅ Motion Passed (5 to 1)**
 
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Virginia Ridley](/councillors/current/v-ridley)
+**Yea (5):** [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Virginia Ridley](/councillors/current/v-ridley)
 
 **Nay (1):** [Bill Armstrong](/councillors/current/b-armstrong)
 
@@ -482,5 +499,5 @@ Unanimous (4-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 

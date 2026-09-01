@@ -264,7 +264,7 @@ The Meeting adjourned at 5:46 PM.
 
 **✅ Motion Passed (12 to 0)**
 
-Unanimous (10-0)
+Unanimous (12-0)
 
 ### 4.2. Inaugural Council Meeting
 
@@ -272,5 +272,5 @@ Unanimous (10-0)
 
 **✅ Motion Passed (12 to 0)**
 
-Unanimous (10-0)
+Unanimous (12-0)
 

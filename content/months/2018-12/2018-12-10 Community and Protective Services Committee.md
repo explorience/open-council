@@ -652,7 +652,7 @@ The meeting adjourned at 2:26 PM.
 
 ## Votes
 
-*9 substantive votes at this meeting (2 contested, 7 unanimous). Procedural motions excluded.*
+*9 substantive votes at this meeting (3 contested, 6 unanimous). Procedural motions excluded.*
 
 ### 1.2. Election of Vice Chair for the Term Ending November 30, 2019
 
@@ -660,7 +660,7 @@ The meeting adjourned at 2:26 PM.
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 2. Consent
 
@@ -668,23 +668,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
-
-### 2.5. Zoos and Mobile Zoos
-
-> Motion to reconsider the referral.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 2.5. Zoos and Mobile Zoos
-
-> Motion to approve part a) of the staff recommendation.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 2.5. Zoos and Mobile Zoos
 
@@ -695,13 +679,46 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (1):** [Maureen Cassidy](/councillors/current/m-cassidy)
+**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier), [Maureen Cassidy](/councillors/current/m-cassidy)
 
-**Nay (1):** [Maureen Cassidy](/councillors/current/m-cassidy)
+**Nay (2):** [Elizabeth Peloza](/councillors/current/e-peloza), [Mo Salih](/councillors/current/m-salih)
 
-**Absent (2):** [Ed Holder](/councillors/current/e-holder), [Ed Holder](/councillors/current/e-holder)
+**Absent (1):** [Ed Holder](/councillors/current/e-holder)
 
 </details>
+
+### 2.5. Zoos and Mobile Zoos
+
+> Motion to reconsider the referral.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.5. Zoos and Mobile Zoos
+
+> That this matter BE REFERRED back to the Civic Administration for further review and legal advice on this matter and a report back at a future meeting of the Community and Protective Services Committee, particularly regarding alignment with provincial legislation and impacts to working animals.
+
+**❌ Motion Failed (2 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (3):** [Elizabeth Peloza](/councillors/current/e-peloza), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+
+</details>
+
+### 2.5. Zoos and Mobile Zoos
+
+> Motion to approve part a) of the staff recommendation.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
 
 ### 2.5. Zoos and Mobile Zoos
 
@@ -712,19 +729,13 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+**Nay (2):** [Elizabeth Peloza](/councillors/current/e-peloza), [Mo Salih](/councillors/current/m-salih)
 
 **Absent (1):** [Ed Holder](/councillors/current/e-holder)
 
 </details>
-
-### 3.1. Administrative Monetary Penalty By-law
-
-> That, on the recommendation of the Managing Director, Development and Compliance Services and Chief Building Official, the following actions be taken with respect to an Administrative Monetary By-law: a)            the proposed by-law, as appended to the staff report dated December 10, 2018, BE I...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
 
 ### 3.2. 8th Report of the Community Safety and Crime Prevention Advisory Committee
 
@@ -732,7 +743,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 4.1. 580 Talbot Street - Sign By-law S.-5868-183
 
@@ -740,5 +751,5 @@ Unanimous (4-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 

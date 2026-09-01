@@ -640,7 +640,7 @@ The meeting adjourned at 6:40 PM.
 
 ## Votes
 
-*15 substantive votes at this meeting (15 contested, 0 unanimous). Procedural motions excluded.*
+*15 substantive votes at this meeting (0 contested, 15 unanimous). Procedural motions excluded.*
 
 ### 2. 3rd Report of the
   Diversity Inclusion and Anti-Oppression Advisory Committee
@@ -650,12 +650,7 @@ The meeting adjourned at 6:40 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Mo Salih](/councillors/current/m-salih), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher)
-
-</details>
+Unanimous (4-0)
 
 ### 3. STAFF REPORT -
   Report to the Licensee of the Dearness Home Regarding the 2016-2019 Long-Term
@@ -668,12 +663,7 @@ The meeting adjourned at 6:40 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Mo Salih](/councillors/current/m-salih), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher)
-
-</details>
+Unanimous (4-0)
 
 ### 4. STAFF REPORT -
   Ontario Works Employment Innovations - Bridges Out of Poverty and Circle
@@ -684,12 +674,7 @@ The meeting adjourned at 6:40 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Mo Salih](/councillors/current/m-salih), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher)
-
-</details>
+Unanimous (4-0)
 
 ### 5. STAFF REPORT -
   Renewal of Ontario Works Employment Assistance Purchase of Services
@@ -700,12 +685,7 @@ The meeting adjourned at 6:40 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher)
-
-</details>
+Unanimous (5-0)
 
 ### 6. STAFF REPORT -
   Municipal Golf -  Agreement with Ultimate Golf Club Inc. (formerly London
@@ -716,12 +696,7 @@ The meeting adjourned at 6:40 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Mo Salih](/councillors/current/m-salih), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher)
-
-</details>
+Unanimous (4-0)
 
 ### 7. STAFF REPORT -
   London Majors Baseball - Licence Agreement for use of Labatt Park
@@ -731,12 +706,7 @@ The meeting adjourned at 6:40 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Mo Salih](/councillors/current/m-salih), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher)
-
-</details>
+Unanimous (4-0)
 
 ### 8. STAFF REPORT -
   London's Homelessness Prevention System - Homelessness Partnering Strategy -
@@ -748,12 +718,7 @@ The meeting adjourned at 6:40 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Mo Salih](/councillors/current/m-salih), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher)
-
-</details>
+Unanimous (4-0)
 
 ### 9. 2nd and 3rd Reports
   of the Accessibility Advisory Committee
@@ -763,12 +728,7 @@ The meeting adjourned at 6:40 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher)
-
-</details>
+Unanimous (5-0)
 
 ### 10. 2nd and 3rd Reports
   of Community Safety and Crime Prevention Advisory Committee
@@ -778,12 +738,7 @@ The meeting adjourned at 6:40 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher)
-
-</details>
+Unanimous (6-0)
 
 ### 11. Housing and ODSP
   Residents
@@ -793,12 +748,7 @@ The meeting adjourned at 6:40 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher)
-
-</details>
+Unanimous (6-0)
 
 ### 12. 100in1 Day London
 
@@ -807,12 +757,7 @@ The meeting adjourned at 6:40 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher)
-
-</details>
+Unanimous (6-0)
 
 ### 13. Community Diversity
   and Inclusion Strategy
@@ -822,12 +767,7 @@ The meeting adjourned at 6:40 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher)
-
-</details>
+Unanimous (6-0)
 
 ### 14. Open Air Burning
   By-law
@@ -837,12 +777,7 @@ The meeting adjourned at 6:40 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Harold Usher](/councillors/current/h-l-usher)
-
-</details>
+Unanimous (4-0)
 
 ### 15. Deferred Matters
   List
@@ -852,12 +787,7 @@ The meeting adjourned at 6:40 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Harold Usher](/councillors/current/h-l-usher)
-
-</details>
+Unanimous (4-0)
 
 ### 16. (ADDED) COUNCILLOR
   SUBMISSION - Youth Subsidized Bus Passes (13 to18 years of age)
@@ -867,10 +797,5 @@ The meeting adjourned at 6:40 PM.
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher)
-
-</details>
+Unanimous (5-0)
 

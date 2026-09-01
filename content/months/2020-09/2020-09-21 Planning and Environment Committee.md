@@ -1174,7 +1174,7 @@ The meeting adjourned at 10:23 PM.
 
 ## Votes
 
-*11 substantive votes at this meeting (2 contested, 9 unanimous). Procedural motions excluded.*
+*7 substantive votes at this meeting (2 contested, 5 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -1182,31 +1182,7 @@ The meeting adjourned at 10:23 PM.
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
-
-### 3.1. Application - 733 Wellington Street (Z-9222)
-
-> That, on the recommendation of the Director, City Planning and City Planner, based on the application by McIver Holdings Inc., relating to the property located at 733 Wellington Street, the proposed by-law appended to the staff report dated September 21, 2020 BE INTRODUCED at the Municipal Counci...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 3.2. Application - 666-670 Wonderland Road North (Z-9241)
-
-> That, on the recommendation of the Director, Development Services, based on the application by JFK Holdings, relating to the property located at 666-670 Wonderland Road North, the proposed by-law appended to the staff report dated September 21, 2020, BE INTRODUCED at the Municipal Council meeting...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 3.3. Application - 820 Cabell Street (Z-9196)
-
-> That the following actions be taken with respect to the application by Bruce Sworik, relating to the property located at 820 Cabell Street: a) the application BE REFERRED to a future Planning and Environment Committee meeting; and, b)  the Civic Administration BE REQUESTED to work with the applic...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 3.4. Application - 122 Base Line Road West (OZ-9200)
 
@@ -1214,15 +1190,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
-
-### 3.5. Application - 1093 Westdel Bourne (Z-9186)
-
-> That, on the recommendation of the Director, Development Services, based on the application by Norquay Developments, relating to a portion of the property located at 1093 Westdel Bourne, the proposed by-law appended to the staff report dated September 21, 2020 BE INTRODUCED at the Municipal Counc...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 3.6. Application - 799 Southdale Road West (OZ-9188)
 
@@ -1230,7 +1198,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 3.7. Application - Demolition Request for Heritage Designated Property - 120 York Street
 
@@ -1241,9 +1209,9 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (1):** [Ed Holder](/councillors/current/e-holder)
+**Yea (3):** [Ed Holder](/councillors/current/e-holder), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
 
-**Nay (1):** [Arielle Kayabaga](/councillors/current/a-kayabaga)
+**Nay (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Stephen Turner](/councillors/current/s-turner), [Arielle Kayabaga](/councillors/current/a-kayabaga)
 
 </details>
 
@@ -1253,7 +1221,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 4.1. 6th Report of the London Advisory Committee on Heritage
 
@@ -1261,18 +1229,18 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 4.1. 6th Report of the London Advisory Committee on Heritage
 
 > Motion to approve part a), which reads as follows: a)  on the recommendation of the Director, Development Services, with the advice of the Heritage Planner, the application under Section 42 of the Ontario Heritage Act to construct two high-rise buildings on the property located at 556 Wellington ...
 
-**✅ Motion Passed (5 to 1) 🔥**
+**✅ Motion Passed (5 to 1)**
 
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+**Yea (5):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Arielle Kayabaga](/councillors/current/a-kayabaga)
 
 **Nay (1):** [Ed Holder](/councillors/current/e-holder)
 

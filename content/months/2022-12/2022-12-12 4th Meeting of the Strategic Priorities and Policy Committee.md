@@ -144,5 +144,5 @@ The meeting is adjourned at 4:47 PM.
 
 **✅ Motion Passed (14 to 0)**
 
-Unanimous (12-0)
+Unanimous (14-0)
 

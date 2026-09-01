@@ -176,7 +176,7 @@ The
 
 ## Votes
 
-*2 substantive votes at this meeting (2 contested, 0 unanimous). Procedural motions excluded.*
+*5 substantive votes at this meeting (2 contested, 3 unanimous). Procedural motions excluded.*
 
 ### 2. STAFF REPORT -
   Business Licensing By-law Review - Amendments to Allow for Transitioning to
@@ -187,12 +187,7 @@ The
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Mo Salih](/councillors/current/m-salih), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher)
-
-</details>
+Unanimous (4-0)
 
 ### 3. Business Licensing
   By-law Review - New and Revised Regulations
@@ -202,12 +197,49 @@ The
 **✅ Motion
   Passed**
 
+Unanimous (4-0)
+
+### 3. Business Licensing
+  By-law Review - New and Revised Regulations
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
+### 3. Business Licensing
+  By-law Review - New and Revised Regulations
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
 <details>
 <summary>View roll call</summary>
 
-**Yea (14):** [Mo Salih](/councillors/current/m-salih), [Mo Salih](/councillors/current/m-salih), [Mo Salih](/councillors/current/m-salih), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Bill Armstrong](/councillors/current/b-armstrong), [Bill Armstrong](/councillors/current/b-armstrong), [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher), [Harold Usher](/councillors/current/h-l-usher)
+**Yea (3):** [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong), [Harold Usher](/councillors/current/h-l-usher)
 
-**Nay (2):** [Mo Salih](/councillors/current/m-salih), [Harold Usher](/councillors/current/h-l-usher)
+**Nay (1):** [Mo Salih](/councillors/current/m-salih)
+
+</details>
+
+### 3. Business Licensing
+  By-law Review - New and Revised Regulations
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Mo Salih](/councillors/current/m-salih), [Phil Squire](/councillors/current/p-squire), [Bill Armstrong](/councillors/current/b-armstrong)
+
+**Nay (1):** [Harold Usher](/councillors/current/h-l-usher)
 
 </details>
 

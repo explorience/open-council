@@ -177,36 +177,6 @@ None.
 
 
 The meeting adjourned at 4:50 PM.
-
----
-
-## Votes
-
-*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 and 2.3 to 2.5 BE APPROVED.
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (2-0)
-
-### 2.2. London Fire Department - Establishing and Regulating By-law
-
-> That, on the recommendation of the Deputy City Manager, Neighbourhood and Community-Wide Services, the following actions be taken with respect to the staff report, dated May 24, 2023, related to the London Fire Department Establishing and Regulating By-law: a)         the proposed by-law, as appe...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 4.1. J. Thompson, LIFE*SPIN - Ethical AI Homelessness Tools
-
-> That the communication, dated May 15, 2023, from J. Thompson, Life*Spin, with respect to Ethical AI Homelessness Tools, BE FORWARDED to the Civic Administration for consideration; it being noted that the above-noted communication was received. (2023-S11)
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
 ---
 
 ## Full Transcript
@@ -455,3 +425,34 @@ I have no deferred matters, additional business. We did a little bit of addition
 Seconded by Councilor Raman, a hand vote of all in favor. I'm told that passes, have a wonderful evening regardless of where your journeys may take, you may be safe.
 
 </details>
+
+---
+
+## Votes
+
+*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 and 2.3 to 2.5 BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 2.2. London Fire Department - Establishing and Regulating By-law
+
+> That, on the recommendation of the Deputy City Manager, Neighbourhood and Community-Wide Services, the following actions be taken with respect to the staff report, dated May 24, 2023, related to the London Fire Department Establishing and Regulating By-law: a)         the proposed by-law, as appe...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.1. J. Thompson, LIFE*SPIN - Ethical AI Homelessness Tools
+
+> That the communication, dated May 15, 2023, from J. Thompson, Life*Spin, with respect to Ethical AI Homelessness Tools, BE FORWARDED to the Civic Administration for consideration; it being noted that the above-noted communication was received. (2023-S11)
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

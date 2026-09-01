@@ -509,7 +509,7 @@ The meeting adjourned at 8:31 PM.
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2. Consent
 
@@ -517,7 +517,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 3.1. 1055 Fanshawe Park Road West (OZ-9444)
 
@@ -528,7 +528,9 @@ Unanimous (3-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (1):** [Josh Morgan](/councillors/current/j-morgan)
+**Yea (3):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman)
+
+**Nay (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Stephen Turner](/councillors/current/s-turner)
 
 **Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
 
@@ -540,7 +542,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4.1. Heritage Alteration Permit – 18 Byron Avenue East (HAP22-016-L)
 
@@ -548,7 +550,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4.2. 183 Ann Street and 197 Ann Street under Part IV of the Ontario Heritage Act - Designation
 
@@ -559,7 +561,7 @@ Unanimous (3-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins)
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Stephen Turner](/councillors/current/s-turner)
 
 **Nay (1):** [Shawn Lewis](/councillors/current/s-lewis)
 
@@ -573,7 +575,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4.3. 4th Report of the London Advisory Committee on Heritage
 
@@ -581,5 +583,5 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 

@@ -1081,7 +1081,7 @@ The meeting adjourned at 8:30 PM.
 
 ## Votes
 
-*7 substantive votes at this meeting (2 contested, 5 unanimous). Procedural motions excluded.*
+*5 substantive votes at this meeting (2 contested, 3 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -1089,30 +1089,22 @@ The meeting adjourned at 8:30 PM.
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 3.2. Application - 355 Marconi Boulevard - Draft Plan of Subdivision and Zoning By-law Amendments 39T-20501 (Z-9210)
 
 > That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by JNF Group Inc., relating to the property located at 355 Marconi Boulevard:    a) the proposed by-law appended to the staff report dated October 19, 2020 as Appendix...
 
-**✅ Motion Passed (5 to 1) 🔥**
+**✅ Motion Passed (5 to 1)**
 
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Ed Holder](/councillors/current/e-holder), [Maureen Cassidy](/councillors/current/m-cassidy), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+**Yea (5):** [Anna Hopkins](/councillors/current/a-hopkins), [Ed Holder](/councillors/current/e-holder), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Arielle Kayabaga](/councillors/current/a-kayabaga)
 
 **Nay (1):** [Jesse Helmer](/councillors/current/j-helmer)
 
 </details>
-
-### 3.3. Demolition Request for Heritage Listed Property - 954 Gainsborough Road
-
-> That, on the recommendation of the Director, Development Services, with the advice of the Heritage Planner, the request to demolish the buildings on the heritage listed property located at 954 Gainsborough Road BE PERMITTED, and the following actions be taken: a) the Chief Building Official BE AD...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
 
 ### 3.4. Meadowlily Environmentally Significant Area - Conservation Master Plan (Z-9245)
 
@@ -1120,23 +1112,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
-
-### 3.5. Application - 348 Sunningdale Road East (Z-9011)
-
-> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by Westchester Homes Ltd., relating to the property located at 348 Sunningdale Road East: a) the proposed by-law appended to the staff report dated October 19, 2020 BE...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 4.1. (ADDED) 7th Report of the London Advisory Committee on Heritage
-
-> Motion to grant delegation status to S. Allen, MHBC Planning, Urban Design and Landscape Architecture; A.M. Valastro and M. Tovey, with respect to the 7th Report of the London Advisory Committee on Heritage, specifically relating to the properties located at 183 and 197 Ann Street.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 4.1. (ADDED) 7th Report of the London Advisory Committee on Heritage
 
@@ -1147,7 +1123,17 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner)
+**Yea (4):** [Ed Holder](/councillors/current/e-holder), [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/current/m-cassidy)
 
 </details>
+
+### 4.1. (ADDED) 7th Report of the London Advisory Committee on Heritage
+
+> Motion to grant delegation status to S. Allen, MHBC Planning, Urban Design and Landscape Architecture; A.M. Valastro and M. Tovey, with respect to the 7th Report of the London Advisory Committee on Heritage, specifically relating to the properties located at 183 and 197 Ann Street.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
 

@@ -214,28 +214,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 1:34 PM.
 
 ****
-
----
-
-## Votes
-
-*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
-
-### 2.5. Demolition - City-Owned Properties - 3465 and 3561 Scotland Drive
-
-> That, on the recommendation of the Deputy City Manager, Finance Supports, on the advice of the Director, Realty Services, with respect to the City-owned property at 3465 and 3561 Scotland Drive, the following actions be taken: a) the subject properties BE RECOMMENDED for demolition; and b) the Ci...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 2.5. Demolition - City-Owned Properties - 3465 and 3561 Scotland Drive
-
-> That the delegation request from A. Meyer BE APPROVED to be heard at this time.
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
 ---
 
 ## Full Transcript
@@ -380,3 +358,26 @@ Okay, well, gotta get back in his good books. With that, we'll look for that mot
 Opposed? - Motion carries. Thank you everyone.
 
 </details>
+
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2.5. Demolition - City-Owned Properties - 3465 and 3561 Scotland Drive
+
+> That, on the recommendation of the Deputy City Manager, Finance Supports, on the advice of the Director, Realty Services, with respect to the City-owned property at 3465 and 3561 Scotland Drive, the following actions be taken: a) the subject properties BE RECOMMENDED for demolition; and b) the Ci...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 2.5. Demolition - City-Owned Properties - 3465 and 3561 Scotland Drive
+
+> That the delegation request from A. Meyer BE APPROVED to be heard at this time.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+

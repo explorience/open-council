@@ -242,7 +242,7 @@ The meeting adjourned at 12:52 PM.
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 4.1. Joan's Place New Addition Campaign - S. Cordes, Youth Opportunities Unlimited - Request for Council Endorsement
 
@@ -250,7 +250,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 4.2. Residential Video Surveillance By-law - D. Johnstone - Request for Delegation Status
 
@@ -258,5 +258,5 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 

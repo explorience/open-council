@@ -255,7 +255,7 @@ The meeting adjourns at 7:26 PM.
 
 ## Votes
 
-*3 substantive votes at this meeting (1 contested, 2 unanimous). Procedural motions excluded.*
+*2 substantive votes at this meeting (1 contested, 1 unanimous). Procedural motions excluded.*
 
 ### 2.1. Review of City Services for Potential Reductions and Eliminations - Downtown and Industrial Lands Community Improvement Plans (CIPs)
 
@@ -266,7 +266,7 @@ The meeting adjourns at 7:26 PM.
 <details>
 <summary>View roll call</summary>
 
-**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Arielle Kayabaga](/councillors/current/a-kayabaga)
 
 **Nay (1):** [Ed Holder](/councillors/current/e-holder)
 
@@ -280,13 +280,5 @@ The meeting adjourns at 7:26 PM.
 
 **✅ Motion Passed (14 to 0)**
 
-Unanimous (12-0)
-
-### 3.2. Delegation - Bill Rayburn, CAO, Middlesex County and Chair of the Middlesex-London Emergency Services Authority
-
-> That the following actions be taken with respect to the 2020-2023 Middlesex-London Paramedics Services Budget, submitted by Middlesex County:    a)      the Mayor BE REQUESTED to submit a letter to Middlesex County Council seeking:         i)   consideration that any approved increases to the Mid...
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (12-0)
+Unanimous (14-0)
 

@@ -2234,3 +2234,255 @@ Passed
 Motion
 Passed
 
+---
+
+## Votes
+
+*21 substantive votes at this meeting (8 contested, 13 unanimous). Procedural motions excluded.*
+
+### 11#2. Integrity Commissioner, Council Code of
+  Conduct, Voluntary Disclosure, and Lobbyist Registry
+
+> Motion Failed
+
+**❌ Motion Failed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Joe Fontana](/councillors/current/j-f-fontana), [Sandy White](/councillors/current/s-white), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (11):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant)
+
+</details>
+
+### 11#2. Integrity Commissioner, Council Code of
+  Conduct, Voluntary Disclosure, and Lobbyist Registry
+
+> The   motion to Approve part a) of clause 11 is put.
+
+**❌ Motion Failed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Judy Bryant](/councillors/current/j-p-bryant)
+
+**Nay (9):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Denise Brown](/councillors/current/d-brown)
+
+</details>
+
+### 11#2. Integrity Commissioner, Council Code of
+  Conduct, Voluntary Disclosure, and Lobbyist Registry
+
+> The   motion to Approve part b) of clause 11 is put.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 11#2. Integrity Commissioner, Council Code of
+  Conduct, Voluntary Disclosure, and Lobbyist Registry
+
+> The   motion to Approve parts c) and d) of clause 11 is put.
+
+**❌ Motion Failed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Judy Bryant](/councillors/current/j-p-bryant)
+
+**Nay (9):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Denise Brown](/councillors/current/d-brown)
+
+</details>
+
+### 11#2. Integrity Commissioner, Council Code of
+  Conduct, Voluntary Disclosure, and Lobbyist Registry
+
+> The   motion to Approve part e) of clause 11 is put.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (2):** [Stephen Orser](/councillors/current/s-orser), [Bud Polhill](/councillors/current/b-polhill)
+
+</details>
+
+### 2#2. O. Hobson, 45
+  Evergreen Avenue - Council Members Integrity Commissioner and Voluntary
+  Disclosure (Refer to the Finance and Administrative Services Committee Stage
+  for Consideration with clause 11 of the 24th Report of the Finance and
+  Administrative Services Committee.)
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 3#3. Property located at
+  1139 Fanshawe Park Road West (39T-04503)
+
+> That the request for a three year extension   of the draft plan of subdivision, submitted by Claybar Developments Inc., for   the property located at 1139 Fanshawe Park Road West, BE REFERRED to a future   meeting of the Planning and Environment Committee to provide an opportunity   for the appli...
+
+**✅ Motion
+Passed**
+
+Unanimous (14-0)
+
+### 3#5. Report on the
+  Corporate Human Rights Program, Code of Conduct Program and Corporate
+  Training Initiatives as of June 30, 2012
+
+> Amend clause 3 by deleting part b) in its   entirety and by replacing it with the following new part b) in order to   comply with established process for amending a Council Policy:   “b)       the   attached proposed by-law BE INTRODUCED at the Municipal Council   meeting on September 18, 2012 to...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 3#5. Report on the
+  Corporate Human Rights Program, Code of Conduct Program and Corporate
+  Training Initiatives as of June 30, 2012
+
+> The motion to adopt clause 3, as amended,   is put.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### III. CONFIRMATION
+  AND SIGNING OF THE MINUTES OF THE FIFTEENTH MEETING HELD ON AUGUST 28, 2012
+
+> Approve the Minutes of the Fifteenth   Meeting held on August 28, 2012.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### XI. EMERGENT MOTIONS
+
+> Approve leave for the introduction of an   emergent motion related to demolition at the old McCormick factory damaged by   fire.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (5):** [Matt Brown](/councillors/current/m-brown), [Joe Fontana](/councillors/current/j-f-fontana), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Judy Bryant](/councillors/current/j-p-bryant)
+
+</details>
+
+### XI. EMERGENT MOTIONS
+
+> Approve that Civic Administration be   directed to take the necessary steps to remove the damaged portion at the   rear of the property at 1156 Dundas Street.
+
+**❌ Motion Failed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Stephen Orser](/councillors/current/s-orser)
+
+**Nay (13):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+</details>
+
+### XI. EMERGENT MOTIONS
+
+> Approve leave for the introduction of   an emergent motion related to the removal of trees in Kains Woods.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### XI. EMERGENT MOTIONS
+
+> Approve that the Managing Director,   Planning and City Planner BE REQUESTED to report back to the Planning   and Environment Committee with respect to the City of London’s policies and   procedures, including enforcement, for best forest management practices,   particularly considering the recen...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### XII. BY-LAWS
+
+> Approve   1st reading of Bill Nos. 365 to 393, inclusive.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### XII. BY-LAWS
+
+> Approve   2nd reading of Bill Nos. 365 to 393, inclusive.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### XII. BY-LAWS
+
+> Approve   3rd reading of Bill Nos. 365 to 393, inclusive.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 14. Bicycles on
+  Sidewalks
+
+> Amend clause 14 to add a new   part b) directing the Civic Administration to report back on the following:   i)               the   possibility of also permitting individuals over 65 years of age to ride   bicycles on City sidewalks;    ii)              restricting   the riding of bicycles on sid...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (1):** [Joe Swan](/councillors/current/j-b-swan)
+
+</details>
+
+### 14. Bicycles on
+  Sidewalks
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (1):** [Joe Swan](/councillors/current/j-b-swan)
+
+</details>
+
+### 15. Concerns with
+  London Hydro
+
+> That the communication from Todor Ivanov,   264 Brunswick Crescent, with respect to his concerns about London Hydro BE   REFERRED to London Hydro Inc., for its consideration; it being noted that the   Civic Works Committee did not grant delegation status to Mr. Ivanov.   (2012-W12-00)
+
+**✅ Motion
+Passed**
+
+Unanimous (14-0)
+
+### 17. Letter of Support
+  for Childhood Cancer Awareness Month
+
+> That the Mayor BE REQUESTED to write a   letter to Childcan in support of Childhood Cancer Awareness Month. (See   communication attached.)
+
+**✅ Motion
+Passed**
+
+Unanimous (14-0)
+

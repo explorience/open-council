@@ -1636,3 +1636,232 @@ Approve Third Reading and Enactment of Bill
 Motion
 Passed
 
+---
+
+## Votes
+
+*18 substantive votes at this meeting (7 contested, 11 unanimous). Procedural motions excluded.*
+
+### 1#2. Managing Director and City Engineer,
+  Environmental and Engineering Services - Expropriation of Lands - Veterans
+  Memorial Parkway South Extension - TS1325
+
+> Approve that, on the recommendation of   the Managing Director and City Engineer, Environmental and Engineering   Services, with the review and concurrence of the Director, Roads and   Transportation, on the advice of the Manager of Realty Services, with respect   to the expropriation of lands fo...
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 2#2. Managing Director
+  and City Engineer, Environmental and Engineering Services - Expropriation of
+  Lands - Veterans Memorial Parkway South Extension - TS1325
+
+> Approve that, on the recommendation of   the Managing Director and City Engineer, Environmental and Engineering   Services, with the concurrence of the Director, Roads and Transportation, on   the advice of the Manager of Realty Services, with respect to the   expropriation of lands for the proje...
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### VI. CONFIRMATION
+  AND SIGNING OF THE MINUTES OF THE TWENTY-SIXTH MEETING AND THE FIRST MEETING
+  HELD ON NOVEMBER 25, 2014 AND DECEMBER 1, 2014, RESPECTIVELY
+
+> Approve the Minutes of the 26th   Meeting held on November 25, 2014 and of the 1st Meeting held on December 1,   2014.
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### VII. COMMUNICATIONS
+  AND PETITIONS
+
+> Approve that Council convene as the   Approval Authority pursuant to the provisions of the Expropriation Act,   R.S.O. 1990, c.E.26, as amended, for the purpose of considering Communication   No. 1 from the Managing Director, Environmental and Engineering Services and   City Engineer, dealing wit...
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 3. Proposed Smudging
+  Ceremony
+
+> That the City Clerk BE REQUESTED to make   the necessary arrangements to invite representatives of our First Nations   community to attend the December 9, 2014 meeting of Municipal Council, or a   future meeting of Municipal Council, in order to acknowledge the importance   of our First Nations c...
+
+**✅ Motion
+Passed**
+
+Unanimous (15-0)
+
+### 10. Argyle Business
+    Improvement Association
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 12. Consideration of
+    Appointment to the City of London and London District Catholic School Board
+    Liaison Committee
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 13. Consideration of
+    Appointment to the City of London and Thames Valley District School Board
+    Liaison Committee
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 13. Consideration of
+    Appointment to the City of London and Thames Valley District School Board
+    Liaison Committee
+
+> The motion to appoint Marci Allen-Easton to   the London and Middlesex Housing Corporation Board of Directors for the term   December 1, 2014 to November 30, 2018 is put.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (2):** [Jesse Helmer](/councillors/current/j-helmer), [Jared Zaifman](/councillors/current/j-zaifman)
+
+</details>
+
+### 13. Consideration of
+    Appointment to the City of London and Thames Valley District School Board
+    Liaison Committee
+
+> The motion to appoint Michael Buzzelli to   the London and Middlesex Housing Corporation Board of Directors is put.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (3):** [Josh Morgan](/councillors/current/j-morgan), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire)
+
+</details>
+
+### 13. Consideration of
+    Appointment to the City of London and Thames Valley District School Board
+    Liaison Committee
+
+> The motion to appoint Roberta Clifford to   the London and Middlesex Housing Corporation Board of Directors is put.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (3):** [Maureen Cassidy](/councillors/current/m-cassidy), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 13. Consideration of
+    Appointment to the City of London and Thames Valley District School Board
+    Liaison Committee
+
+> The motion to appoint Abe Oudshoorn to the   London and Middlesex Housing Corporation Board of Directors is put.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (2):** [Josh Morgan](/councillors/current/j-morgan), [Jared Zaifman](/councillors/current/j-zaifman)
+
+</details>
+
+### 13. Consideration of
+    Appointment to the City of London and Thames Valley District School Board
+    Liaison Committee
+
+> The motion to appoint Sean Quigley to the   London and Middlesex Housing Corporation Board of Directors is put.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (2):** [Josh Morgan](/councillors/current/j-morgan), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 13. Consideration of
+    Appointment to the City of London and Thames Valley District School Board
+    Liaison Committee
+
+> refer consideration to the December 18th   Council meeting, in order to consult with the London Middlesex Housing   Corporation to determine how they would like M. Allen-Easton, M. Buzzelli, R.   Clifford, A. Oudshoorn and S. Quigley slotted into the various classes of Directors   and to obtain f...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (3):** [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+</details>
+
+### 34. Consideration of Appointment to Western Fair
+  Association Board of Governors
+
+> Approve that clause 34 be amended in the first line by deleting the word   “APPOINTED” and replacing it with the word “NOMINATED”.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (1):** [Mo Salih](/councillors/current/m-salih)
+
+</details>
+
+### 34. Consideration of Appointment to Western Fair
+  Association Board of Governors
+
+> Approve clause 34, as amended.
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 36. Consideration of
+    Appointment to Western University Board of Governors
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 45. Consideration of Appointment to the
+  Plumbers' and Drain Layers' Examining Board
+
+> That the Mayor BE REQUESTED to direct   letters to the Members of the Striking Committee to extend the Municipal   Council’s appreciation for their efforts with respect to identifying citizen   nominees for the local boards and commissions, and for the Municipal   Council’s advisory committees.
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+

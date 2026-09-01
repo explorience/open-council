@@ -1962,3 +1962,196 @@ Approve Third Reading and Enactment of Bill
 
 Motion Passed
 
+---
+
+## Votes
+
+*16 substantive votes at this meeting (6 contested, 10 unanimous). Procedural motions excluded.*
+
+### 1#3. Disclosures of Pecuniary Interest
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 12#2. One River-Master
+  Plan Environmental Assessment Terms of Reference
+
+> Approve that clause 12 be amended to include   wording in the statement of objectives that requires that there be an understanding   of the impacts that critical infrastructure projects may have on species at   risk, and/or endangered species.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 12#2. One River-Master
+  Plan Environmental Assessment Terms of Reference
+
+> Approve clause 12, as amended.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher)
+
+**Nay (2):** [Mo Salih](/councillors/current/m-salih), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 14#2. Downtown Parking
+  Study
+
+> That the Downtown Parking Study BE EXPANDED   to include a review of commercial downtown boulevard parking fees.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 2#2. Vehicle for Hire
+  By-law (Relates to Bill No. 398)
+
+> That the following actions be taken with   respect to the licensing of vehicles for hire:   a)         the   attached by-law to amend By-law No. L.-129-51 being “A by-law   to provide for the licensing, regulation and governing of vehicles for hire,   including cab, accessible cab, limousine and ...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (1):** [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 2#3. Vehicle for Hire By-law – Action from
+  Public Participation Meeting
+
+> Approve that clause 2 be amended by   deleting part b) iii) in its entirety and by replacing it with the following   new part b) iii):   "b)   iii) regulations that would encourage the use of low-emission and/or   environmentally friendly vehicles as vehicles for hire;"
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 2#3. Vehicle for Hire By-law – Action from
+  Public Participation Meeting
+
+> Approve that clause 2, as amended, be   referred to the Municipal Council meeting to be held on November 22, 2016 for   further consideration.
+
+**✅ Motion Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher)
+
+**Nay (6):** [Anna Hopkins](/councillors/current/a-hopkins), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Matt Brown](/councillors/current/m-brown), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 6#4. Standing Committee Appointments
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 8#3. Appointment By-laws
+
+> That the communication dated October 24,   2016, from Councillor J. Morgan, with respect to the utilization of by-laws   to appoint members of the Senior Leadership Team and any other statutory officers   of The Corporation of the City of London, BE REFERRED to a future meeting of   the Corporate...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (1):** [Mo Salih](/councillors/current/m-salih)
+
+</details>
+
+### 9#3. Consideration of
+  Appointment to the Environmental and Ecological Planning Advisory Committee
+
+> Approve that   clause 9 be amended to read as follows:    “That the following   individuals BE APPOINTED to the Environmental and Ecological Planning   Advisory Committee as Voting Members-at-Large for the term ending February   28, 2019:   Chris   Evans Alison   Regehr Ian   Whiteside”
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+
+**Nay (2):** [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher)
+
+</details>
+
+### 9#3. Consideration of
+  Appointment to the Environmental and Ecological Planning Advisory Committee
+
+> Approve clause 9, as amended.
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### IX. ADDED REPORTS
+
+> Approve that, as a procedural matter   pursuant to Section 239(6) of the Municipal Act, 2001, the following   recommendation be forwarded to Council for deliberation and a vote in public   session:    That the following actions be taken with   respect to the matter of a budget appeal to the Ontar...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### V. CONFIRMATION
+  AND SIGNING OF THE MINUTES OF THE TWENTY-FIRST MEETING HELD ON OCTOBER 25,
+  2016
+
+> Approve the Minutes of the Twenty-First   Meeting, held on October 25, 2016.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 2. (ADDED) R. Huber,
+  Thames River Anglers Association - One River Master Plan Environmental
+  Assessment Terms of Reference (Refer to the Civic Works Committee stage for
+  consideration with clause 12 of the 15th Report of the Civic Works
+  Committee.)
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 6. Canada 150 Community
+  Leader
+
+> Approve   that clause 6 be amended to read as follows:   “That   consideration of the designation of a City of London representative(s) to the   newly-created Network of Canada 150 Community Leaders, including the matter   of financing related travel expenses for that individual(s), if any, BE   ...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+
+**Nay (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher)
+
+</details>
+
+### 18. Terms of Reference
+  – Advisory Committee on the Environment and Diversity, Inclusion and
+  Anti-Oppression Advisory Committee
+
+> That the City Clerk BE DIRECTED to report   back with the necessary proposed amendments to the Terms of Reference for the   Advisory Committee on the Environment and the Diversity, Inclusion and   Anti-Oppression Advisory Committee in order to permit two non-voting student   representatives, one ...
+
+**✅ Motion Passed**
+
+Unanimous (10-0)
+

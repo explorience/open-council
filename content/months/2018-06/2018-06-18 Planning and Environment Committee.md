@@ -1056,7 +1056,7 @@ The meeting adjourned at 10:34 PM
 
 ## Votes
 
-*15 substantive votes at this meeting (2 contested, 13 unanimous). Procedural motions excluded.*
+*12 substantive votes at this meeting (2 contested, 10 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -1064,7 +1064,7 @@ The meeting adjourned at 10:34 PM
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 2.2. Hamilton Road Area CIP Forgivable Loan Program
 
@@ -1075,7 +1075,7 @@ Unanimous (3-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/current/m-cassidy)
+**Yea (4):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Tanya Park](/councillors/current/t-park)
 
 **Nay (1):** [Stephen Turner](/councillors/current/s-turner)
 
@@ -1089,7 +1089,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 2.6. Application - 1900 Kilgorman Way (H-8854)
 
@@ -1097,7 +1097,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 2.6. Application - 1900 Kilgorman Way (H-8854)
 
@@ -1105,7 +1105,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 3.1. S. Ratz, Chair, Advisory Committee on the Environment - 7th Report of the Advisory Committee on the Environment
 
@@ -1113,31 +1113,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
-
-### 3.2. Public Participation Meeting - Demolition Request for Heritage Listed Property - 2154 Richmond Street
-
-> That, on the recommendation of the Managing Director, Planning and City Planner, with the advice of the Heritage Planner, the following actions be taken with respect to the request for the demolition of the heritage listed property located at 2154 Richmond Street: a)         the Chief Building Of...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.3. Public Participation Meeting - Parkland Dedication By-law CP-9 Update
-
-> That, on the recommendation of the Managing Director, Planning and City Planner, the following actions be taken as a result of the Parkland Dedication Requirements, Policies and Procedures Review: a)            the proposed attached, revised, by-law BE INTRODUCED at the Municipal Council meeting ...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.4. Public Participation Meeting - Application - 335-385 and 340-390 Saskatoon Street (OZ-8883)
-
-> That, on the recommendation of the Managing Director, Planning and City Planner, the following actions be taken with respect to the application of 1616958 Ontario Inc., relating to the properties located at 335-385 and 340-390 Saskatoon Street: a)            the proposed by-law appended to the st...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 3.6. Public Participation Meeting - Application - 1738, 1742, 1752 and 1756 Hamilton Road (39T-17502/OZ-8147)
 
@@ -1145,7 +1121,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 3.8. Public Participation Meeting - Application - 420 Fanshawe Park Road East (SPA18-024)
 
@@ -1153,7 +1129,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4.2. The Dundas Place Manager Purchase of Service Agreement
 
@@ -1161,7 +1137,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4.3. Subdivision Application Procedure - 3080 Bostwick Road; 3700 Colonel Talbot Road and 3645 Bostwick Road
 
@@ -1169,7 +1145,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4.3. Subdivision Application Procedure - 3080 Bostwick Road; 3700 Colonel Talbot Road and 3645 Bostwick Road
 
@@ -1180,7 +1156,9 @@ Unanimous (3-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (1):** [Anna Hopkins](/councillors/current/a-hopkins)
+**Yea (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/current/m-cassidy), [Tanya Park](/councillors/current/t-park)
+
+**Nay (2):** [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner)
 
 **Absent (1):** [Matt Brown](/councillors/current/m-brown)
 
@@ -1192,5 +1170,5 @@ Unanimous (3-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 

@@ -205,7 +205,7 @@ The meeting adjourned at 12:39 PM.
 
 ## Votes
 
-*2 substantive votes at this meeting (1 contested, 1 unanimous). Procedural motions excluded.*
+*3 substantive votes at this meeting (2 contested, 1 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -213,7 +213,24 @@ The meeting adjourned at 12:39 PM.
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
+
+### 4.1. 100 Stanley Street - Delegation
+
+> That the following actions be taken with respect to 100 Stanley Street: a)        the communication from J. O’Neill and B. McQuaid and the presentation from K. McKeating, with respect to this matter, BE RECEIVED; and, b)        the above-noted communication and presentation BE FORWARDED to Civic ...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Elizabeth Peloza](/councillors/current/e-peloza), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (1):** [Ed Holder](/councillors/current/e-holder)
+
+</details>
 
 ### 4.1. 100 Stanley Street - Delegation
 
@@ -224,7 +241,7 @@ Unanimous (3-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy)
+**Yea (4):** [Elizabeth Peloza](/councillors/current/e-peloza), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner)
 
 **Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
 

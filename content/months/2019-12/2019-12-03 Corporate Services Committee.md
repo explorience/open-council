@@ -191,7 +191,7 @@ The meeting adjourned at 2:16 PM.
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2. Consent
 
@@ -199,18 +199,18 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 4.1. Issuance of Proclamations Policy
 
 > That the Civic Administration BE DIRECTED to bring forward a report to the Corporate Services Committee meeting to be held on January 6, 2020, with a revised draft proclamation policy that is similar to the policy of the City of Toronto and that would provide for the authority for municipal procl...
 
-**✅ Motion Passed (5 to 1) 🔥**
+**✅ Motion Passed (5 to 1)**
 
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Ed Holder](/councillors/current/e-holder), [Jesse Helmer](/councillors/current/j-helmer), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Ed Holder](/councillors/current/e-holder), [Jesse Helmer](/councillors/current/j-helmer), [Arielle Kayabaga](/councillors/current/a-kayabaga)
 
 **Nay (1):** [Michael van Holst](/councillors/current/m-van-holst)
 

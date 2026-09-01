@@ -446,7 +446,7 @@ The meeting adjourned at 2:19 PM.
 
 ## Votes
 
-*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
+*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -454,21 +454,5 @@ The meeting adjourned at 2:19 PM.
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
-
-### 3.1. Street Renaming Portion of Blackwater Road (Plans 33M-764 and 33M-787) File MN-9313
-
-> That, on the recommendation of the Director, Development Services, the proposed by-law, as appended to the staff report dated April 20, 2021, BE INTRODUCED at the Municipal Council meeting to be held on May 4, 2021, to approve the renaming of a portion of “Blackwater Road” from “Sunningdale Road ...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.2. Amendments to Consolidated Fees and Charges By-law
-
-> That, on the recommendation of the City Clerk, on the advice of the Director, Environment, Fleet and Solid Waste, the proposed by-law, as appended to the staff report dated April 20, 2021, being “A by-law to amend By-law A-56 being “A by-law to provide for Various Fees and Charges” by adding fees...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
+Unanimous (6-0)
 

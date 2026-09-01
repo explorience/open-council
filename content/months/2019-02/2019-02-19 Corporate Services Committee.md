@@ -313,7 +313,7 @@ The meeting adjourned at 2:43 PM.
 
 ## Votes
 
-*4 substantive votes at this meeting (0 contested, 4 unanimous). Procedural motions excluded.*
+*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -321,7 +321,7 @@ The meeting adjourned at 2:43 PM.
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 2.1. Budweiser Gardens: City Approval of Zamboni Capital Lease Agreement
 
@@ -329,15 +329,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
-
-### 4.1. Grand Theatre - Municipal Accommodation Tax Funding Request
-
-> That the following actions be taken with respect to the Grand Theatre – Municipal Accommodation Tax Funding request: a)            the request from the Grand Theatre BE APPROVED, in the amount of $2 million, with the first source of financing being the Tourism Infrastructure Reserve Fund and a se...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
+Unanimous (5-0)
 
 ### 5.1. Consideration of Appointments to the Eldon House Board of Directors
 
@@ -345,5 +337,5 @@ Unanimous (4-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 

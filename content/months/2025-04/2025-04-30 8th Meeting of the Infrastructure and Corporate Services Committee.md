@@ -410,62 +410,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 3:48 PM.
 
 ****
-
----
-
-## Votes
-
-*4 substantive votes at this meeting (2 contested, 2 unanimous). Procedural motions excluded.*
-
-### 2.2. Commemorative Naming of Streets and City Assets - Status Update
-
-> That the motion be amended to add a new part d) and amend part c) to read as follows: c)    the Civic Administration BE DIRECTED to initiate public engagement with the impacted neighbourhood to rename the (former) Paul Haggis Park and (former) Trooper Mark Wilson Park and; d)    the Civic Adminis...
-
-**✅ Motion Passed (4 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
-
-**Absent (1):** [Skylar Franke](/councillors/current/s-franke)
-
-</details>
-
-### 2.2. Commemorative Naming of Streets and City Assets - Status Update
-
-> That the following actions be taken with respect to the report on Commemorative Naming of Streets and City Assets – Status Update: c)    the Civic Administration BE DIRECTED to initiate public engagement with the impacted neighbourhood to rename the (former) Paul Haggis Park and (former) Trooper ...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 2.2. Commemorative Naming of Streets and City Assets - Status Update
-
-> That the following actions be taken with respect to the report on Commemorative Naming of Streets and City Assets – Status Update: d)    the Civic Administration BE DIRECTED to rename Trooper Wilson Place to Peacekeeper Place.
-
-**✅ Motion Passed (4 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
-
-**Absent (1):** [Skylar Franke](/councillors/current/s-franke)
-
-</details>
-
-### 2.7. Delegation of Authority By-law Update
-
-> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the proposed by-law, as appended to the staff report dated April 30, 2025 as Appendix ‘B’, BE INTRODUCED at the Municipal Council meeting to be held on May 13, 2025, to amend By-law A.-8386-153, being “A by-la...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
 ---
 
 ## Full Transcript
@@ -1220,3 +1164,60 @@ Sorry, I was just moving to adjourn. As additional business or, okay. So with th
 Thank you, everyone, have a great. Motion carries. Thank you, have a great day, everyone.
 
 </details>
+
+---
+
+## Votes
+
+*4 substantive votes at this meeting (2 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2.2. Commemorative Naming of Streets and City Assets - Status Update
+
+> That the motion be amended to add a new part d) and amend part c) to read as follows: c)    the Civic Administration BE DIRECTED to initiate public engagement with the impacted neighbourhood to rename the (former) Paul Haggis Park and (former) Trooper Mark Wilson Park and; d)    the Civic Adminis...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
+
+**Absent (1):** [Skylar Franke](/councillors/current/s-franke)
+
+</details>
+
+### 2.2. Commemorative Naming of Streets and City Assets - Status Update
+
+> That the following actions be taken with respect to the report on Commemorative Naming of Streets and City Assets – Status Update: c)    the Civic Administration BE DIRECTED to initiate public engagement with the impacted neighbourhood to rename the (former) Paul Haggis Park and (former) Trooper ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.2. Commemorative Naming of Streets and City Assets - Status Update
+
+> That the following actions be taken with respect to the report on Commemorative Naming of Streets and City Assets – Status Update: d)    the Civic Administration BE DIRECTED to rename Trooper Wilson Place to Peacekeeper Place.
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
+
+**Absent (1):** [Skylar Franke](/councillors/current/s-franke)
+
+</details>
+
+### 2.7. Delegation of Authority By-law Update
+
+> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the proposed by-law, as appended to the staff report dated April 30, 2025 as Appendix ‘B’, BE INTRODUCED at the Municipal Council meeting to be held on May 13, 2025, to amend By-law A.-8386-153, being “A by-la...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+

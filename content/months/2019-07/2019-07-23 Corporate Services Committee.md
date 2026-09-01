@@ -337,7 +337,7 @@ The meeting adjourned at 2:37 PM.
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 3.1. Tax Adjustment Agenda
 
@@ -345,7 +345,7 @@ Unanimous (2-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4.1. Additional Honourees for Mayor's New Year's Honour List
 
@@ -353,7 +353,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 5.2. ADDED - Use of Council Chambers for Sovereign's Medal Ceremony
 
@@ -361,7 +361,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 5.3. ADDED - Appointment to the London Hydro Board of Directors
 
@@ -369,5 +369,5 @@ Unanimous (3-0)
 
 **✅ Motion Passed (3 to 0)**
 
-Unanimous (1-0)
+Unanimous (3-0)
 

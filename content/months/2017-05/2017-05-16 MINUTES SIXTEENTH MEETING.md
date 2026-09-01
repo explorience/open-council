@@ -3350,3 +3350,583 @@ Approve Third Reading and Enactment of
 
 Motion Passed
 
+---
+
+## Votes
+
+*50 substantive votes at this meeting (17 contested, 33 unanimous). Procedural motions excluded.*
+
+### 1#6. Disclosures of
+  Pecuniary Interest
+
+> Approve that clause 1 be amended to read as   follows:
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 1#6. Disclosures of
+  Pecuniary Interest
+
+> Approve clause 1, as amended
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 11#3. Potential Additional Strategic Priorities
+  and Policy Committee Meeting
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 12#2. Property located at
+  1992 Fanshawe Park Road West (TZ-8734) (Relates to Bill No. 215)
+
+> That, on the recommendation of the Managing   Director, Planning and City Planner, based on the application of Ken Van   Steensel, relating to the property located at 1992 Fanshawe Park Road West,   the proposed by-law appended to the staff report dated May 8, 2017, BE   INTRODUCED at the Municip...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (3):** [Michael van Holst](/councillors/current/m-van-holst), [Stephen Turner](/councillors/current/s-turner), [Virginia Ridley](/councillors/current/v-ridley)
+
+</details>
+
+### 14#2. Properties located
+  at 560 and 562 Wellington Street (OZ-8462)
+
+> At 8:08 PM, His Worship the Mayor places   Councillor P. Hubert in the Chair and takes a seat at the Council Board.    At 8:11 PM, His Worship the Mayor resumes the   Chair, and Councillor P. Hubert takes his seat at the Council Board.
+
+**❌ Motion Failed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner), [Tanya Park](/councillors/current/t-park)
+
+**Nay (9):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher)
+
+</details>
+
+### 14#2. Properties located
+  at 560 and 562 Wellington Street (OZ-8462)
+
+> Motion Passed
+
+**✅ Motion Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher)
+
+**Nay (5):** [Anna Hopkins](/councillors/current/a-hopkins), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 16#2. Request for
+  Rescheduling of June 15 Public Participation Meeting
+
+> The motion to Approve part a) of clause 16   is put:   a)         pursuant to section 13.6 of the Council Procedure By-law, the actions of the   Municipal Council taken at its meeting of May 2, 2017, related to the   adoption of part a) of clause 4 of the 8th Report of the Planning and   Environm...
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### 3#6. Council Policy Manual Review of Chapters 1,
+  2, 3, 4, 6 and 8
+
+> Approve that pursuant to section 13.6 of   the Council Procedure By-law, the actions of the Municipal Council taken at its   meeting of March 2, 2017, related to the process for updating the Council   Policy Manual BE RECONSIDERED.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 3#6. Council Policy Manual Review of Chapters 1,
+  2, 3, 4, 6 and 8
+
+> Approve that clause 3 be amended to read   as follows:   That the following actions be taken with   respect to the updating of the Council Policy Manual:   a)         the   Civic Administration BE DIRECTED to direct proposed amendments under Phase II   of the project to the Governance Working Gro...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 4#2. Workplace Diversity
+  and Inclusion Activities
+
+> Approve that clause 4 be amended by adding the   following new part b):   b)         the Civic Administration BE   DIRECTED to initiate an on-going process of data collection (metrics) for new   hires at the City of London, by means of voluntary self-disclosure to assist   with the collection of ...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 4#2. Workplace Diversity
+  and Inclusion Activities
+
+> Approve clause 4, as amended.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 4#5. Update on Municipal Implications of the
+  Truth and Reconciliation Commission Report
+
+> Approve that the request to invite the   Munsee-Delaware Nation, the Oneida Nation of the Thames and the Chippewas of   the Thames First Nation to provide their flags and have them raised in an   appropriate manner at London City Hall BE REFERRED to the Civic   Administration in order to allow fo...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 4#5. Update on Municipal Implications of the
+  Truth and Reconciliation Commission Report
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 4#5. Update on Municipal Implications of the
+  Truth and Reconciliation Commission Report
+
+> Approve that, pursuant to section 20.1   of the Council Procedure By-law, leave BE GIVEN for the introduction of an   emergent motion to authorize the flying of Canadian flags on utility poles   along City of London streets until September 5, 2017, in celebration of   Canada’s 150th Anniversary, ...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 4#5. Update on Municipal Implications of the
+  Truth and Reconciliation Commission Report
+
+> Approve that the flying of Canadian   flags on utility poles along City of London streets until September 5, 2017,   in celebration of Canada’s 150th Anniversary, BE AUTHORIZED subject to the   consent of London Hydro and providing that the flags and their accessories do   not pose any risk to wo...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 4#5. Update on Municipal Implications of the
+  Truth and Reconciliation Commission Report
+
+> Approve that, pursuant to section 20.1   of the Council Procedure By-law, leave BE GIVEN for the introduction of an   emergent motion to authorize a contribution of $2,000 from the Contingency   Reserve Fund in order to assist in relief efforts in the Township of Minden   Hills, Ontario, specific...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 4#5. Update on Municipal Implications of the
+  Truth and Reconciliation Commission Report
+
+> Approve that a contribution of $2,000 from the   Contingency Reserve Fund BE AUTHORIZED in order to assist in relief efforts   in the Township of Minden Hills, Ontario, specifically by way of a   contribution to Minden’s local Food Bank.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### III. REVIEW OF
+  CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### IV. COUNCIL, IN
+  CLOSED SESSION
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### IX#3. ADDED REPORTS (continued)
+
+> Approve clause 1.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### V. CONFIRMATION
+  AND SIGNING OF THE MINUTES OF THE FIFTEENTH MEEING HELD ON MAY 2, 2017.
+
+> Approve the Minutes of the Fifteenth   meeting held on May 2, 2017.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### XI. ENQUIRIES
+
+> Approve that pursuant to section 11.4   of the Council Procedure By-law, leave be given to bring forward a   substantive motion.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### XIII. BY-LAWS
+
+> Approve Introduction and First Reading   of Bill No.215.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (1):** [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### XIII. BY-LAWS
+
+> Approve Second Reading of Bill No.215.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (2):** [Stephen Turner](/councillors/current/s-turner), [Virginia Ridley](/councillors/current/v-ridley)
+
+</details>
+
+### XIII. BY-LAWS
+
+> Approve Third Reading and Enactment of   Bill No. 215.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (2):** [Stephen Turner](/councillors/current/s-turner), [Virginia Ridley](/councillors/current/v-ridley)
+
+</details>
+
+### 4. Stephen Stapleton,
+  Auburn Developments - 560 & 562 Wellington St - Application for Official
+  Plan and Zoning By-law Amendment - File OZ-8462
+ 
+(Refer to the Planning and Environment
+  Committee Stage for Consideration with Clause 14 of the 9th Report of the
+  Planning and Environment Committee )
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 4. Stephen Stapleton,
+  Auburn Developments - 560 & 562 Wellington St - Application for Official
+  Plan and Zoning By-law Amendment - File OZ-8462
+ 
+(Refer to the Planning and Environment
+  Committee Stage for Consideration with Clause 14 of the 9th Report of the
+  Planning and Environment Committee )
+
+> Approve that pursuant to section 7.4 of   the Council Procedure By-law, the order of business be changed to permit   clause 10 of the 11th Report of the Strategic Priorities and Policy Committee   to be considered at this time.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 5. Appleseed Cider
+  Festival - Request for Designation as a Municipally Significant Event
+
+> That the Appleseed Cider Festival, to be   held on Saturday, June 24, 2017 from 3:00 PM to 11:00 PM, at Hassan Law   Gallery, 142 Dundas Street and, subject to obtaining the necessary approvals,   also at an adjacent street closure on Dundas Street as per the attached   diagram, BE DESIGNATED as ...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+
+**Nay (1):** [Harold Usher](/councillors/current/h-l-usher)
+
+</details>
+
+### 6. Canada 150
+  Celebrations
+
+> Approve that part b) of clause 6 be   amended by deleting the amount of “$25,000” and by replacing it with the   amount of “$6,400”.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 6. Canada 150
+  Celebrations
+
+> Approve part a) and part b), as amended,   of clause 6.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (2):** [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 6. Canada 150
+  Celebrations
+
+> Approve part c).   c)         an   amount equal to the funding shortfall in the amount of $10,000 for the   Chippewas of the Thames.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+
+**Nay (1):** [Harold Usher](/councillors/current/h-l-usher)
+
+</details>
+
+### 10. Rapid Transit
+  Corridors
+
+> Approve part a) of clause 10:   a)         the   King Street/Queens Avenue couplet system BE APPROVED as the preferred   downtown east-west corridors;
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (3):** [Mo Salih](/councillors/current/m-salih), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 10. Rapid Transit
+  Corridors
+
+> Approve part e) of clause 10:   e)         staff   BE AUTHORIZED to contact the Canadian Transportation Agency (CTA) to request   they facilitate discussion between CP and CN Rail in order to negotiate an   agreement for CP operations to relocate and merge onto the CN operational   tracks within ...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 10. Rapid Transit
+  Corridors
+
+> Approve part e) of clause 10, as amended.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 10. Rapid Transit
+  Corridors
+
+> Approve part f) of clause 10 as it relates to the South Corridor:  Wellington   Road south of King Street regardless of King Street or couplet.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher)
+
+**Nay (3):** [Michael van Holst](/councillors/current/m-van-holst), [Stephen Turner](/councillors/current/s-turner), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 10. Rapid Transit
+  Corridors
+
+> Approve part f) of clause 10 as it relates to the East Corridor: east of   Wellington Street to Fanshawe College.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (2):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire)
+
+</details>
+
+### 10. Rapid Transit
+  Corridors
+
+> Approve part f) of clause 10 as it relates to the West Corridor:  west of the   Thames River to Wonderland Commercial Area.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (1):** [Phil Squire](/councillors/current/p-squire)
+
+</details>
+
+### 10. Rapid Transit
+  Corridors
+
+> Approve part h) of clause 10:   h)         options   to support Back to the River and service to Via and the Airport BE EXPLORED   further during the Transit Project Assessment Process;
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (1):** [Phil Squire](/councillors/current/p-squire)
+
+</details>
+
+### 10. Rapid Transit
+  Corridors
+
+> Approve that part i) of clause 10 be   amended to read as follows:   i)               the   Civic Administration BE DIRECTED to report back with a communications plan   for bus rapid transit; it being noted that the communications plan should   include multiple, diverse options to reach as many L...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 10. Rapid Transit
+  Corridors
+
+> Approve part i), as amended.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 10. Rapid Transit
+  Corridors
+
+> Approve that clause 10 be amended by   adding the following new part k):   k)        the Civic Administration BE DIRECTED to work with the London Transit   Commission (LTC) Administration and the RTIWG to communicate to the public,   the preliminary framework for a future LTC network and how it s...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 10. Rapid Transit
+  Corridors
+
+> Approve part k) of clause 10, as amended.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 10. Rapid Transit
+  Corridors
+
+> Approve part b) of clause 10:   b)         the   Richmond Street corridor BE APPROVED as the preferred northern corridor   through the downtown;
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (2):** [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih)
+
+</details>
+
+### 10. Rapid Transit
+  Corridors
+
+> Approve part c) of clause 10:   c)         an   at-grade level crossing at the CP Railway with dedicated bus lanes BE   APPROVED as the preferred cross section on the Richmond Street corridor at   this time;
+
+**✅ Motion Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (4):** [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire)
+
+</details>
+
+### 10. Rapid Transit
+  Corridors
+
+> Approve part d) of clause 10:   d)         alternative   methods to separate both automobile and transit vehicles from the railway in   the downtown (for example, a tunnel or grade separation, etc.) BE EVALUATED   for long term implementation; it being noted that this evaluation would be   subjec...
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### 10. Rapid Transit
+  Corridors
+
+> the Richmond Corridor:  north of Queens   Avenue.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (3):** [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer)
+
+</details>
+
+### 13. Amendments To The
+  Traffic And Parking By-law (Relates to Bill No. 205)
+
+> Approve that clause 13 be amended to read   as follows:
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 13. Amendments To The
+  Traffic And Parking By-law (Relates to Bill No. 205)
+
+> Approve clause 13, as amended.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 15. 5th Report for
+  Cycling Advisory Committee
+
+> Approve amend part b) of clause 13 to   read as follows:   b)         the attached 2017 Work   Plan for the Cycling Advisory Committee BE APPROVED.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 15. 5th Report for
+  Cycling Advisory Committee
+
+> Approve clause 15, as amended.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+

@@ -583,7 +583,7 @@ The meeting adjourned at 2:31 PM.
 
 ## Votes
 
-*6 substantive votes at this meeting (1 contested, 5 unanimous). Procedural motions excluded.*
+*5 substantive votes at this meeting (1 contested, 4 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -591,7 +591,7 @@ The meeting adjourned at 2:31 PM.
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 3.2. Choose London – Innovative, Vibrant and Global - London’s Newcomer Strategy
 
@@ -599,15 +599,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
-
-### 4.1. 5th Report of the Accessibility Advisory Committee
-
-> Motion to approve the remainder of the 5th Report of the Accessibility Advisory Committee.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4.1. 5th Report of the Accessibility Advisory Committee
 
@@ -618,7 +610,7 @@ Unanimous (3-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Maureen Cassidy](/councillors/current/m-cassidy), [Bill Armstrong](/councillors/current/b-armstrong)
+**Yea (4):** [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong)
 
 **Nay (1):** [Phil Squire](/councillors/current/p-squire)
 
@@ -626,19 +618,19 @@ Unanimous (3-0)
 
 </details>
 
+### 4.1. 5th Report of the Accessibility Advisory Committee
+
+> Motion to approve the remainder of the 5th Report of the Accessibility Advisory Committee.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
 ### 4.2. Middlesex-London Health Unit Office Space Fit-up Funding Request
 
 > That the communication, dated June 18, 2018, from Dr. C. Mackie, Medical Officer of Heath/CEO from the Middlesex-London Heath Unit, with respect to the Middlesex-London Heath Unit office space fit-up funding request, BE REFERRED to the next meeting of the Community and Protective Services Committ...
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
-
-### 5.2. (ADDED) 6th Report of the Animal Welfare Advisory Committee
-
-> That the following actions be taken with respect to the 6th Report of the Animal Welfare Advisory Committee from its meeting held on June 7, 2018: a)            the Civic Administration BE REQUESTED to advise the Animal Welfare Advisory Committee of the recommendations being implemented relating ...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
+Unanimous (5-0)
 

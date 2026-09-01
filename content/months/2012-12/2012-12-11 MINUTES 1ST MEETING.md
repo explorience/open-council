@@ -4493,3 +4493,654 @@ Approve 3rd reading of Bill Nos. 1, 2, 4
 
 Motion Passed
 
+---
+
+## Votes
+
+*60 substantive votes at this meeting (16 contested, 44 unanimous). Procedural motions excluded.*
+
+### 1#2. F. Zarrintaj, 1988
+  Coronation Drive - Property located at 2095 Coronation Drive (Z-8076) (Refer
+  to the Planning and Environment Committee Stage for Consideration with Clause
+  29 of the 30th Report of the Planning and Environment Committee.)
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### 1#4. Councillor S. White - Motion of Which
+  Notice is Given - Options - Criminally Charged or Convicted Elected Officials
+
+> That the following actions be taken with   respect to options for dealing with those situations where a Council Member   is charged and/or convicted of a criminal offence:   a)         legal   advice BE PROVIDED as to what options might be available, under current   legislation, for dealing with ...
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 1#4. Councillor S. White - Motion of Which
+  Notice is Given - Options - Criminally Charged or Convicted Elected Officials
+
+> Amend part b) of the Motion of Which   Notice is Given by deleting part b) in its entirety and by replacing it with   the following new part b):    “b)    the Civic Administration BE DIRECTED to report back with alternatives for   proposed amendments to the Council policy related to the appointme...
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 1#4. Councillor S. White - Motion of Which
+  Notice is Given - Options - Criminally Charged or Convicted Elected Officials
+
+> Approve the Notice of Which Notice was   Given, as amended.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 1#4. Councillor S. White - Motion of Which
+  Notice is Given - Options - Criminally Charged or Convicted Elected Officials
+
+> The Chair rules that the motion made by   Councillor P. Hubert is not in order.      Councillor J.L.     Baechler appeals the decision of the Chair.  The City Clerk put the     question “shall the ruling of the Chair be sustained?”         Motion Failed
+
+**❌ Motion Failed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (6):** [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Joe Swan](/councillors/current/j-b-swan), [Joni Baechler](/councillors/current/j-l-baechler), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant)
+
+</details>
+
+### 1#4. Councillor S. White - Motion of Which
+  Notice is Given - Options - Criminally Charged or Convicted Elected Officials
+
+> Councillor J.L.     Baechler appeals the decision of the Chair.  The City Clerk put the     question “shall the ruling of the Chair be sustained?”
+
+**❌ Motion Failed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (6):** [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Joe Swan](/councillors/current/j-b-swan), [Joni Baechler](/councillors/current/j-l-baechler), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant)
+
+</details>
+
+### 1#4. Councillor S. White - Motion of Which
+  Notice is Given - Options - Criminally Charged or Convicted Elected Officials
+
+> Approve that pursuant to section   9.6 of the Council Procedure By-law, Councillor P. Hubert be permitted to   speak longer than 5 minutes with respect to clause 15.   Motion Passed
+
+**❌ Motion Failed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Joni Baechler](/councillors/current/j-l-baechler), [Judy Bryant](/councillors/current/j-p-bryant)
+
+**Nay (8):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Denise Brown](/councillors/current/d-brown)
+
+</details>
+
+### 11#4. Licensing Issues
+  and By-law Enforcement
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 11#6. Appointment Recommendations for the London
+  Convention Centre Board of Directors
+
+> That the following actions be taken with   respect to appointments to the London Convention Centre (LCC) Board of   Directors:   a)         a   second 3-year term for Jeannine Cookson, Fanshawe College and Dr. Ted Hewitt,   UWO for the first two-years of the second term to run until November 30, ...
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 13#2. 3rd Report of the LTC Long Term Growth Working
+  Group
+
+> Amend clause 13 in line 5 of part a) i)   by deleting the fraction “1/2” and by replacing it with the fraction   “1/3"
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant)
+
+**Nay (1):** [Dale Henderson](/councillors/current/d-g-henderson)
+
+</details>
+
+### 13#2. 3rd Report of the LTC Long Term Growth Working
+  Group
+
+> The motion to Approve clause 13, as amended,   is put.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant)
+
+**Nay (1):** [Dale Henderson](/councillors/current/d-g-henderson)
+
+</details>
+
+### 13#4. Extension of Term
+  for Jeff Brown to the London International Airport Board of Directors
+
+> That, on the recommendation of the London   International Airport Board of Directors, the current appointment of Jeff   Brown BE EXTENDED for two years effective August, 2014.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 2#10. Update Dearness Matters
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 4#4. Property located at 754 Maitland Street -
+  Notice of Appeal to the Ontario Municipal Board (Z-8065)
+
+> That, on the recommendation of the Managing   Director, Planning and City Planner, the following actions be taken in   response to the letter of appeal to the Ontario Municipal Board, dated   October 31, 2012 and submitted by Arnon Kaplansky (Kapland Inc.), relating to   Zoning By-law application...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 4#4. Property located at 754 Maitland Street -
+  Notice of Appeal to the Ontario Municipal Board (Z-8065)
+
+> The motion to Approve part b) of clause 4   is put
+
+**❌ Motion Failed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (9):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Joni Baechler](/councillors/current/j-l-baechler), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant)
+
+</details>
+
+### 4#9. Minutes of the 1st
+  Meeting of the County/City Liaison Committee
+
+> That the following   actions be taken with respect to the Minutes of the 1st Meeting of the   County/City Liaison Committee:    a)         the   following actions be taken with respect to cost apportionment arrangements   for social housing and land ambulance, renewal of agreements for the delive...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 5#5. Amendments to Consolidated Fees and Charges
+  By-law
+
+> That, on the recommendation of the City   Clerk, with the concurrence of the Managing Director, Corporate Services and   City Treasurer, Chief Financial Officer, the attached proposed   by-law (Appendix “A”) BE INTRODUCED at the Municipal Council meeting on   December 11, 2012 for the purpose of ...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (1):** [Joni Baechler](/councillors/current/j-l-baechler)
+
+</details>
+
+### 5#7. Audit Planning
+  Report for the year ending December 31, 2012
+
+> That the attached KPMG LLP   Audit Planning Report, for the year ending December 31, 2012, BE APPROVED; it   being noted that, as required, the Members of the Audit Committee noted no   instances of, actual, suspected or alleged fraud or non-compliance with laws   and regulations, including misco...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (1):** [Joe Swan](/councillors/current/j-b-swan)
+
+</details>
+
+### 6#6. Ontario Concrete Pipe Association
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 8#2. Planning Division 18 Month Work Program
+
+> That, notwithstanding the recommendation of   the Managing Director, Planning and City Planner, the Planning Division Work   Program Priorities BE REFERRED to the Strategic Planning and Priorities   Committee for consideration.
+
+**❌ Motion Failed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Joe Swan](/councillors/current/j-b-swan), [Dale Henderson](/councillors/current/d-g-henderson)
+
+**Nay (11):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+</details>
+
+### 8#5. Music London Initiative
+
+> That the communication dated November 22,   2012, with respect to Orchestra London’s proposal for a Downtown concert   hall, BE REFERRED to the Civic Administration for review and assessment in   developing its report back on the various investment and economic prosperity   proposals.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 9#3. Member Composition for the Urban Design
+  Peer Review Panel
+
+> Amend clause 9, in line 4 of part ii), by   removing all the words following the word "Planning".
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (1):** [Sandy White](/councillors/current/s-white)
+
+</details>
+
+### 9#3. Member Composition for the Urban Design
+  Peer Review Panel
+
+> The motion to Approve clause 9, as amended,   is put.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (1):** [Sandy White](/councillors/current/s-white)
+
+</details>
+
+### I. DISCLOSURES
+  OF PECUNIARY INTEREST
+
+> Approve that pursuant to section 7.4 of   the Council Procedure By-law, the order of business BE CHANGED to permit   consideration of clause 13 of the 32nd Report of the Finance and   Administrative Services Committee, having to do with a financial plan for the   acquisition of the London Normal ...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### I. DISCLOSURES
+  OF PECUNIARY INTEREST
+
+> Approve that pursuant to section 7.4 of   the Council Procedure By-law, the order of business BE CHANGED in order to   consider the Motion of Which Notice is Given with clause 15 of the 32nd   Report of the Finance and Administrative Services Committee; and   that pursuant to section 7.4 of the C...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### III. ADDED
+  REPORTS
+
+> Approve the following additional reason   to the in camera session:   “A matter pertaining to litigation or potential   litigation affecting the municipality; advice subject to solicitor-client   privilege, including communications necessary for that purpose, as it relates   to leave of absence f...
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### IV. COMMITTEE
+  OF THE WHOLE, IN CAMERA
+
+> Approve that Council rise and go into   Committee of the Whole, in camera, for the purpose of considering the   following:
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### VI. CONFIRMATION
+  AND SIGNING OF THE MINUTES OF THE NINETEENTH MEETING HELD ON NOVEMBER 20,
+  2012
+
+> Approve the Minutes of the Nineteenth   Meeting held on November 20, 2012.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### VIII. MOTIONS OF WHICH NOTICE IS
+  GIVEN
+
+> Approve that, pursuant to section 18.2 of   the Council Procedure By-law, leave be given for the introduction of an   emergent motion with respect to dealing with those situations where a Council   Member is charged and/or convicted of a criminal offence.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### XII. EMERGENT
+  MOTIONS
+
+> Approve leave to introduce a   motion related to a reception for the presentation of the Queen's Diamond   Jubilee medals pursuant to section 11.4 of the Council Procedure By-law.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### XII. EMERGENT
+  MOTIONS
+
+> Approve that the City Clerk BE DIRECTED to   make the necessary arrangements to hold a reception, prior to February 28,   2013, to present Queen’s Diamond Jubilee medals to all recipients nominated   by by Municipal Council.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### XIII. BY-LAWS
+
+> Approve 1st reading of Bill No. 31.
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### XIII. BY-LAWS
+
+> Approve 2nd reading of Bill No. 31.
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### XIII. BY-LAWS
+
+> Approve 3rd reading and enactment of Bill   No. 31.
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### XIII. BY-LAWS
+
+> Approve 1st reading of Bill No. 3.
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### XIII. BY-LAWS
+
+> Approve 2nd reading of Bill No. 3.
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### XIII. BY-LAWS
+
+> Approve 3rd reading and enactment of Bill   No. 3.
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### XIII. BY-LAWS
+
+> Approve leave to introduce the added   by-laws.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### XIII. BY-LAWS
+
+> Approve 1st reading of Bill Nos. 1, 2, 4   to 30, inclusive, and Bill Nos. 32 to 34.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### XIII. BY-LAWS
+
+> Approve 2nd reading of Bill Nos. 1, 2,   4 to 30, inclusive, and Bill Nos. 32 to 34.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### XIII. BY-LAWS
+
+> Approve 3rd reading of Bill Nos. 1, 2, 4   to 30, inclusive, and Bill Nos. 32 to 34.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (1):** [Stephen Orser](/councillors/current/s-orser)
+
+</details>
+
+### 3. A.J.R. Gedies,
+  26-300 Westminster Avenue - Motion - Mayor - Leave of Absence (Refer to the
+  Finance and Administrative Services Committee Stage for Consideration with
+  Clause 15 of the 32nd Report of the Finance and Administrative Services
+  Committee.)
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### 4. J. Lean, Lupine
+  Properties Limited - Properties located at 510, 518 and 526 Southdale Road
+  East (Z-8092) (Refer to the Planning and Environment Committee Stage for
+  Consideration with Clause 25 of the 30th Report of the Planning and
+  Environment Committee.)
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 13. London Normal School - 165 Elmwood Avenue
+  East
+
+> Amend  clause 13 by adding the following   new part b) as follows:   “b)    representatives of the London Economic Development Corporation, Tech Alliance   and the London Technology Development Centre BE REQUESTED to meet and explore   options to encourage and support the start up of technology-b...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 14. Nomination for the Queen Elizabeth ll
+  Diamond Jubilee Medal
+
+> That the following individuals BE NOMINATED   to receive the Queen Elizabeth II Diamond Jubilee Medal and the City Clerk BE   DIRECTED to contact the Council Members to seek any further nominations for   consideration at the Council Meeting to be held on December 11, 2012:   -           Josh Morg...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 14. Nomination for the Queen Elizabeth ll
+  Diamond Jubilee Medal
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 14. Nomination for the Queen Elizabeth ll
+  Diamond Jubilee Medal
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 17. Material Recovery
+  Facility Processing Blue Box Recyclables
+
+> That, on the recommendation of the Director   – Environmental Programs & Solid Waste, the following actions be taken   with respect to providing Blue Box processing services:     a)         the   attached proposed by-law (Appendix A), BE INTRODUCED at the   Municipal Council meeting on December 1...
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 17. Material Recovery
+  Facility Processing Blue Box Recyclables
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Sandy White](/councillors/current/s-white), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (1):** [Bud Polhill](/councillors/current/b-polhill)
+
+</details>
+
+### 17. Material Recovery
+  Facility Processing Blue Box Recyclables
+
+> Amend clause 6, in the fourth   line, by inserting the word “expanded” after the words “with respect   to".
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (1):** [Stephen Orser](/councillors/current/s-orser)
+
+</details>
+
+### 17. Material Recovery
+  Facility Processing Blue Box Recyclables
+
+> Refer clause 6, as amended, to the   Civic Works Committee to hold a Public Participation Meeting to receive   additional public input.
+
+**❌ Motion Failed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Paul Hubert](/councillors/current/p-hubert), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant)
+
+**Nay (8):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Denise Brown](/councillors/current/d-brown)
+
+</details>
+
+### 17. Material Recovery
+  Facility Processing Blue Box Recyclables
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (2):** [Paul Hubert](/councillors/current/p-hubert), [Judy Bryant](/councillors/current/j-p-bryant)
+
+</details>
+
+### 17. Material Recovery
+  Facility Processing Blue Box Recyclables
+
+> Amend clause 7 by adding the   following new part b), and renumbering the remaining parts:   “b)    the scope of Phase 1 (Tender 12-60), noted in part a) above, BE EXPANDED to   include the culvert replacement on the Shaw lands, previously scheduled to be   a part of Phase 2.”
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 17. Material Recovery
+  Facility Processing Blue Box Recyclables
+
+> The motion to Approve clause 7, as amended,   is put.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 17. Material Recovery
+  Facility Processing Blue Box Recyclables
+
+> The motion to Approve clause 16, as amended,   is put.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 21. Property located at 124 St. James Street
+
+> Amend clause 21, in line 1 of part b), by   deleting the word “fulfilling” and by replacing it with the words   “addressing”.
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### 25. Properties located at 510, 518 and 526
+  Southdale Road East (Z-8092)
+
+> That, on the recommendation of the Managing   Director, Planning and City Planner, the following actions be taken with   respect to the application of Dr. Afzal Mohammed, relating to the properties   located at 510, 518 and 526 Southdale Road East:   a)              the   attached proposed by-law...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 26. Property located at 1205 Riverside Drive
+  (39CD-12512/Z-8099)
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 29. Property located at 2095 Coronation Drive
+  (Z-8076)
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 32. Dalmagarry Road
+
+> That the Civic Administration BE REQUESTED   to report to a future meeting of the Planning and Environment Committee with   respect to an update on the status of the completion of Dalmagarry Road and   the reason for the delay.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+

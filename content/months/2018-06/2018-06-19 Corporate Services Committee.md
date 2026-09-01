@@ -506,7 +506,7 @@ The meeting adjourned at 3:26 PM.
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2.2. Designation of Municipally Significant Events
 
@@ -517,7 +517,7 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst)
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Matt Brown](/councillors/current/m-brown), [Jared Zaifman](/councillors/current/j-zaifman)
 
 **Nay (1):** [Jesse Helmer](/councillors/current/j-helmer)
 
@@ -531,7 +531,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 2.9. Taxation of Railway Rights of Way - High Tonnage
 
@@ -539,7 +539,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 3.1. Tax Adjustment Agenda
 
@@ -547,7 +547,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 3.1. Tax Adjustment Agenda
 
@@ -555,7 +555,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 3.1. Tax Adjustment Agenda
 
@@ -563,7 +563,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4.1. Covent Garden Market
 
@@ -571,7 +571,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4.2. Confirmation of Appointment to the Transportation Advisory Committee and the London Housing Advisory Committee
 
@@ -579,7 +579,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4.3. Request for Delegation Status at the July 17, 2018 Corporate Services Committee - Ontario Federation of Agriculture - Producing Prosperity in Ontario
 
@@ -587,5 +587,5 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 

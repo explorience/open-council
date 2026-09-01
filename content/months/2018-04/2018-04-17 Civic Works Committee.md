@@ -508,26 +508,3 @@ That the Civic Works Committee Deferred List, as at April 9, 2018, BE RECEIVED.
 
 
 The meeting adjourned at 5:45 PM.
-
----
-
-## Votes
-
-*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
-
-### 3.1. Public Participation Meeting - Street Renaming - Centre Street (East of Pond Mills Road)
-
-> That, on the recommendation of the the Director, Development Services, the following actions be taken with respect to the proposed renaming of Centre Street: a)            subject to final approval of the Draft Approved Plan 39T-12501 and on approval of the proposed street name change by-law, as ...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.2. Public Participation Meeting - Street Renaming - Various Streets Across the City
-
-> That, on the recommendation of the Managing Director, Development & Compliance Services and Chief Building Official and the Managing Director, Environmental & Engineering Services and City Engineer, the following actions be taken with respect to the application by The Corporation of the City of L...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-

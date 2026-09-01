@@ -719,7 +719,7 @@ The meeting adjourned at 7:36 PM.
 
 ## Votes
 
-*8 substantive votes at this meeting (0 contested, 8 unanimous). Procedural motions excluded.*
+*6 substantive votes at this meeting (1 contested, 5 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -727,7 +727,7 @@ The meeting adjourned at 7:36 PM.
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 2.4. Byron South Neighbourhood Sidewalk Connectivity Plan
 
@@ -735,7 +735,24 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
+
+### 2.7. Downtown King Street Cycling Improvements
+
+> That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the following actions be taken with respect to the Downtown King Street Cycling Improvements: (a)  the information related to initiatives to make King Street safer for cycling as outlin...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Phil Squire](/councillors/current/p-squire), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (1):** [Paul Hubert](/councillors/current/p-hubert)
+
+**Absent (1):** [Matt Brown](/councillors/current/m-brown)
+
+</details>
 
 ### 2.12. Business Case - Switching to Compressed Natural Gas (CNG) Waste Collection Vehicles
 
@@ -743,31 +760,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (3 to 0)**
 
-Unanimous (1-0)
-
-### 3.1. Proposed Terms of Reference - Environmental Assessment of the Proposed W12A Landfill Expansion
-
-> That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, with the support of the Waste Management Working Group,  the following actions be taken with respect to the Proposed Terms of Reference for the Environmental Assessment of the Proposed ...
-
-**✅ Motion Passed (5 to 0)**
-
 Unanimous (3-0)
-
-### 3.2. 60% Waste Diversion Action Plan
-
-> That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the following actions be taken, with respect to the 60% Waste Diverson Action Plan: a)    the 60% Waste Diversion Action Plan (Action Plan) containing programs and initiatives to be pha...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 4.1. 8th Report of the Cycling Advisory Committee
-
-> That the following actions be taken with respect to the 8th Report of the Cycling Advisory Committee, from its meeting held on August 15, 2018: a)    the Civic Administration BE REQUESTED to designate Highbury Avenue South of Hamilton Road as a no bicycle lane with proper signage: it being noted ...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (2-0)
 
 ### 4.2. Traffic Signalization at Priority Intersections
 
@@ -775,7 +768,7 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 4.3. Unassumed Laneways
 
@@ -783,5 +776,5 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 

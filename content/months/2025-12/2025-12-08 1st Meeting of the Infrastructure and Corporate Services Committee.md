@@ -431,74 +431,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 2:27 PM.
 
 ****
-
----
-
-## Votes
-
-*6 substantive votes at this meeting (2 contested, 4 unanimous). Procedural motions excluded.*
-
-### 2.2. Pollution Prevention and Control Plan Update Study - Notice of Completion
-
-> That the Pollution Prevention and Control Plan Update Study Executive Summary, as appended to the staff report dated December 8, 2025 as Appendix ‘A’, BE REFERRED to Civic Administration to report back to the Infrastructure and Corporate Services Committee by the end of Q1 2026 with a summary of ...
-
-**✅ Motion Passed (3 to 2) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Susan Stevenson](/councillors/current/s-stevenson), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-**Nay (2):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Skylar Franke](/councillors/current/s-franke)
-
-</details>
-
-### 2.2. Pollution Prevention and Control Plan Update Study - Notice of Completion
-
-> That the motion BE AMENDED in part a) to delete the word "ACCEPTED" and replace it with "RECEIVED".
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 2.2. Pollution Prevention and Control Plan Update Study - Notice of Completion
-
-> That the motion BE AMENDED to add a new part that reads as follows: d) that Civic Administration BE DIRECTED to report back to the Infrastructure and Corporate Services Committee with the public engagement comments received after the Pollution Prevention and Control Plan Update Study Report publi...
-
-**✅ Motion Passed (4 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Susan Stevenson](/councillors/current/s-stevenson), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke)
-
-**Nay (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
-
-</details>
-
-### 2.3. Cross City Feedermain Condition Assessment
-
-> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the Cross City Feedermain Condition Assessment: a)    the contract value for Pure Technologies Ltd. BE APPROVED, in the amount of $693,827.88, excluding HST, in a...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 2.10. Purchase of Standard City Waste Receptacles
-
-> That, on the recommendation of the Deputy City Manager, Environment & Infrastructure, the following actions be taken with respect to the purchase of waste receptacles from Joseph Adamou Steelworks: a)    the Civic Administration BE AUTHORIZED to pay the invoices from Joseph Adamou Steelworks for ...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 4.1. Recycling Materials for Small Businesses and Nonprofit Organizations - Councillor S. Franke and Mayor J. Morgan
-
-> That the Civic Administration BE DIRECTED to review and report back to the Infrastructure and Corporate Services Committee (in Q2 2026) on the following: a)    the feasibility of allowing small businesses and nonprofit organizations to bring their recycling materials to the City’s EnviroDepots, i...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -925,3 +857,72 @@ Open the vote, closing the vote. Motion carries five to zero. Thank you, that ta
 Thanks, everyone. Have a great day.
 
 </details>
+
+---
+
+## Votes
+
+*6 substantive votes at this meeting (2 contested, 4 unanimous). Procedural motions excluded.*
+
+### 2.2. Pollution Prevention and Control Plan Update Study - Notice of Completion
+
+> That the Pollution Prevention and Control Plan Update Study Executive Summary, as appended to the staff report dated December 8, 2025 as Appendix ‘A’, BE REFERRED to Civic Administration to report back to the Infrastructure and Corporate Services Committee by the end of Q1 2026 with a summary of ...
+
+**✅ Motion Passed (3 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Susan Stevenson](/councillors/current/s-stevenson), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Nay (2):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Skylar Franke](/councillors/current/s-franke)
+
+</details>
+
+### 2.2. Pollution Prevention and Control Plan Update Study - Notice of Completion
+
+> That the motion BE AMENDED in part a) to delete the word "ACCEPTED" and replace it with "RECEIVED".
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.2. Pollution Prevention and Control Plan Update Study - Notice of Completion
+
+> That the motion BE AMENDED to add a new part that reads as follows: d) that Civic Administration BE DIRECTED to report back to the Infrastructure and Corporate Services Committee with the public engagement comments received after the Pollution Prevention and Control Plan Update Study Report publi...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Susan Stevenson](/councillors/current/s-stevenson), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke)
+
+**Nay (1):** [Hadleigh McAlister](/councillors/current/h-mcalister)
+
+</details>
+
+### 2.3. Cross City Feedermain Condition Assessment
+
+> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the Cross City Feedermain Condition Assessment: a)    the contract value for Pure Technologies Ltd. BE APPROVED, in the amount of $693,827.88, excluding HST, in a...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.10. Purchase of Standard City Waste Receptacles
+
+> That, on the recommendation of the Deputy City Manager, Environment & Infrastructure, the following actions be taken with respect to the purchase of waste receptacles from Joseph Adamou Steelworks: a)    the Civic Administration BE AUTHORIZED to pay the invoices from Joseph Adamou Steelworks for ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.1. Recycling Materials for Small Businesses and Nonprofit Organizations - Councillor S. Franke and Mayor J. Morgan
+
+> That the Civic Administration BE DIRECTED to review and report back to the Infrastructure and Corporate Services Committee (in Q2 2026) on the following: a)    the feasibility of allowing small businesses and nonprofit organizations to bring their recycling materials to the City’s EnviroDepots, i...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

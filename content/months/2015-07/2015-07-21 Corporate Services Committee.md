@@ -221,7 +221,7 @@ Motion
 
 ## Votes
 
-*5 substantive votes at this meeting (5 contested, 0 unanimous). Procedural motions excluded.*
+*6 substantive votes at this meeting (0 contested, 6 unanimous). Procedural motions excluded.*
 
 ### 2. Interest Free Loan
   - London Community Players (Palace Theatre)
@@ -231,12 +231,7 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/current/m-cassidy), [Jared Zaifman](/councillors/current/j-zaifman)
-
-</details>
+Unanimous (4-0)
 
 ### 3. Agreement Between
   The City of London and Donald Jones Management Services Inc. - Management of
@@ -247,12 +242,7 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/current/m-cassidy), [Jared Zaifman](/councillors/current/j-zaifman)
-
-</details>
+Unanimous (4-0)
 
 ### 4. Response to
   Province of Ontario Public Consultation Municipal Elections Act
@@ -262,12 +252,7 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/current/m-cassidy), [Jared Zaifman](/councillors/current/j-zaifman)
-
-</details>
+Unanimous (4-0)
 
 ### 5. City Recognition of
   Queen Elizabeth ll - Longest Reigning Monarch
@@ -277,12 +262,7 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/current/m-cassidy), [Jared Zaifman](/councillors/current/j-zaifman)
-
-</details>
+Unanimous (4-0)
 
 ### 6. Request for
   Designation of the East Coast Celebration Festival as a Municipally
@@ -293,10 +273,16 @@ Motion
 **✅ Motion
   Passed**
 
-<details>
-<summary>View roll call</summary>
+Unanimous (4-0)
 
-**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Jared Zaifman](/councillors/current/j-zaifman), [Jared Zaifman](/councillors/current/j-zaifman)
+### 6. Request for
+  Designation of the East Coast Celebration Festival as a Municipally
+  Significant Event
 
-</details>
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
 

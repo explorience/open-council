@@ -255,7 +255,7 @@ The meeting adjourned at 1:56 PM.
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 5.3. (ADDED) Proposed Change to Municipal Council Meeting to Adopt Budget - March 3, 2020 to March 2, 2020
 
@@ -263,5 +263,5 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 

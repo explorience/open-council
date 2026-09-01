@@ -371,7 +371,7 @@ The meeting adjourned at 4:28 PM.
 
 **✅ Motion Passed (3 to 0)**
 
-Unanimous (1-0)
+Unanimous (3-0)
 
 ### 4.1. Automated Speed Enforcement
 
@@ -379,5 +379,5 @@ Unanimous (1-0)
 
 **✅ Motion Passed (3 to 0)**
 
-Unanimous (1-0)
+Unanimous (3-0)
 

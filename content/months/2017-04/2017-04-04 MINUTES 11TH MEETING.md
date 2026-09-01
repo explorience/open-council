@@ -2576,3 +2576,231 @@ Approve Third Reading and Enactment of
 Motion
 Passed
 
+---
+
+## Votes
+
+*20 substantive votes at this meeting (5 contested, 15 unanimous). Procedural motions excluded.*
+
+### 12#2. Confirmation of
+  Appointment to the Outstanding London Ambassador Award Committee
+
+> That Lissa Foster, representing Pillar   Non-Profit Network, BE APPOINTED as a Voting Member to the Outstanding London   Ambassador Award Committee.
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### 14#2. Open Air Burning
+  By-law
+
+> That the delegation requests by C. Oglan,   D. McMillan, A. Hyslop and R. Astles, with respect to a Ban on Outdoor Wood   Burning, BE APPROVED to be heard at the April 25, 2017 meeting of the   Community and Protective Services Committee. (2017-P01)
+
+**✅ Motion Passed**
+
+Unanimous (7-0)
+
+### 16#2. Youth Subsidized
+  Bus Passes (13 to18 years of age)
+
+> That the Civic Administration BE DIRECTED   to bring forward for consideration and discussion at a joint meeting of the   City of London and the Thames Valley District School Board Liaison Committee   and the City of London and London District Catholic School Board Liaison   Committee regarding a...
+
+**✅ Motion Passed**
+
+Unanimous (9-0)
+
+### 3#7. City Manager Appointment
+
+> That,   as a procedural matter pursuant to Section 239 (6) of the Municipal Act,   2001, the following recommendation be forwarded to Council for   deliberation and a vote in public session:   a)              Martin   Hayward BE APPOINTED City Manager effective March 21, 2017; and   b)           ...
+
+**✅ Motion Passed**
+
+Unanimous (9-0)
+
+### 4#6. Potential Establishment of an Urban
+  Indigenous People’s Advisory Committee
+
+> That the Civic Administration BE DIRECTED   to consult with local indigenous governments and organizations with respect   to the establishment of an Urban Indigenous People’s Advisory Committee; it   being noted that the Strategic Priorities and Policy Committee received the attached   communicat...
+
+**✅ Motion Passed**
+
+Unanimous (9-0)
+
+### 5#4. Renewal of Ontario
+  Works Employment Assistance Purchase of Services Agreements (Relates to Bill
+  No. 137)
+
+> That, on the recommendation of the Managing   Director, Housing, Social Services and Dearness Home, the following actions   be taken with respect to the renewal of Ontario Works Employment Assistance   Purchase of Services Agreements:    a)         the   proposed by-law related to amending the pu...
+
+**✅ Motion Passed**
+
+Unanimous (7-0)
+
+### 7#4. London Majors
+  Baseball - Licence Agreement for use of Labatt Park (Relates to Bill No. 139)
+
+> That, on the recommendation of the Managing   Director of Parks & Recreation, the proposed by-law, appended to the   staff report dated March 28, 2017, BE INTRODUCED at the Municipal Council   meeting to be held on April 4, 2017, to:   a)         approve   a Licence Agreement between The Corporat...
+
+**✅ Motion Passed**
+
+Unanimous (9-0)
+
+### V. CONFIRMATION
+  AND SIGNING OF THE MINUTES OF THE TENTH MEETING HELD ON MARCH 21, 2017.
+
+> Approve the Minutes of the Tenth Meeting   held on March 21, 2017.
+
+**✅ Motion Passed**
+
+Unanimous (10-0)
+
+### VIII. REPORTS
+
+> Approve that pursuant to section 6.4 of   the Council Procedure By-law, the order of business be changed to permit   consideration of clause 12 of the 6th Report of the Civic Works Committee,   having to do with the 5th Report of the Rapid Transit Implementation Working   Group, at this time.
+
+**✅ Motion Passed**
+
+Unanimous (10-0)
+
+### 4. D. Wake, 597
+  Kildare Road - Zoning Amendment, Rembrandt Meadowilly Inc. - Meadowlark Ridge
+ 
+(Refer to the Planning and Environment
+  Committee stage for consideration with clause 12 of the 6th Report of the
+  Planning and Environment Committee)
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (10-0)
+
+### 9. Ontario 150
+  Community Celebration Program and Ontario 150 Partnership Program Transfer
+  Payment Agreements (Relates to Bill No. 141)
+
+> Approve that clause 9 be amended so that   the first paragraph reads as follows:   “That, on the recommendation of the   Managing Director, Corporate Services and City Treasurer, Chief Financial   Officer and Acting City Manager, the proposed attached revised by-law   (Appendix “A”) BE INTRODUCED...
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### 9. Ontario 150
+  Community Celebration Program and Ontario 150 Partnership Program Transfer
+  Payment Agreements (Relates to Bill No. 141)
+
+> Approve clause 9, as amended.
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### 12. 5th Report of the
+  Rapid Transit Implementation Working Group
+
+> At 5:11 PM - His Worship the Mayor places   Councillor P. Hubert in the Chair, and takes a seat at the Council Board.    At 5:16 PM - His Worship the Mayor resumes   the Chair, and Councillor P. Hubert takes his seat at the Council Board.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (1):** [Virginia Ridley](/councillors/current/v-ridley)
+
+</details>
+
+### 12. 5th Report of the
+  Rapid Transit Implementation Working Group
+
+> Approve reconsideration of the proposed   amendment to clause 12 as a Member of Council indicated that they   misunderstood of the question that was put.
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### 12. 5th Report of the
+  Rapid Transit Implementation Working Group
+
+> Approve that clause 12 be amended to read   as follows:   That the following   actions be taken with respect to the 5th Report of the Rapid Transit   Implementation Working Group, from its meeting held on March 9, 2017;   a)         the   Civic Administration BE DIRECTED to take the following act...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (2):** [Stephen Turner](/councillors/current/s-turner), [Virginia Ridley](/councillors/current/v-ridley)
+
+</details>
+
+### 12. 5th Report of the
+  Rapid Transit Implementation Working Group
+
+> Approve clause 12, as amended.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (1):** [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 13. Consideration of
+  Appointment to the London Police Services Board
+
+> That Susan Toth BE APPOINTED to the London   Police Services Board to fill the vacancy created by the resignation of P.   Paolatto, effective March 31, 2017; it being noted that the above individual   was appointed in accordance with the attached ranked ballot.
+
+**✅ Motion Passed**
+
+Unanimous (8-0)
+
+### 16. Properties located
+  at 100 Fullarton Street, 475-501 Talbot Street and 93-95 Dufferin Avenue -
+  Brownfield CIP Incentives
+
+> At 5:53 PM, His Worship the Mayor places   Councillor V. Ridley in the Chair, and takes a seat at the Council Board.   At 6:00 PM, His Worship the Mayor resumes   the Chair, and Councillor V. Ridley takes her seat at the Council Board.
+
+**❌ Motion Failed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Michael van Holst](/councillors/current/m-van-holst), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert)
+
+**Nay (6):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
+
+</details>
+
+### 16. Properties located
+  at 100 Fullarton Street, 475-501 Talbot Street and 93-95 Dufferin Avenue -
+  Brownfield CIP Incentives
+
+> Motion Passed
+
+**✅ Motion Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley)
+
+**Nay (3):** [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert)
+
+</details>
+
+### 17. Deferred Matters
+  List
+
+> That the Civic Administration BE DIRECTED   to update the Deferred Matters List to remove any items that have been   addressed by the Civic Administration.
+
+**✅ Motion Passed**
+
+Unanimous (9-0)
+

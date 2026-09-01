@@ -323,7 +323,7 @@ The meeting adjourned at 1:47 PM.
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2.4. Contract Award: RFT20-31 2020 Infrastructure Renewal Program Contract 7 - Devonshire Phase 2
 
@@ -331,7 +331,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2.4. Contract Award: RFT20-31 2020 Infrastructure Renewal Program Contract 7 - Devonshire Phase 2
 
@@ -339,5 +339,5 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 

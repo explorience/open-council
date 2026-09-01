@@ -2686,3 +2686,272 @@ Motion Passed
 
 Motion Passed
 
+---
+
+## Votes
+
+*28 substantive votes at this meeting (3 contested, 25 unanimous). Procedural motions excluded.*
+
+### 10#2. Purchase of Service Agreements - Ontario
+  Works Employment Assistance Services
+
+> That, on the recommendation of the Acting   Administrator of Ontario Works, the by-law as attached to the   staff report dated February 25, 2013, BE INTRODUCED at the Municipal   Council meeting of March 5, 2013 to:    a)         approve   the Ontario Works Employment Assistance Services Agreemen...
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 14#2. Ontario
+  Water/Wastewater Agency Response Network
+
+> That, on the recommendation of the Managing   Director, Environmental and Engineering Services and City Engineer, the attached   proposed by-law BE INTRODUCED at the Municipal Council meeting of March 5,   2013, to:   a)         approve   the Mutual Aid and Assistance Agreement for an Ontario Wat...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 2#7. Property located at 527 Wellington Road
+
+> At 5:48 PM the Mayor J.F. Fontana resumes   the Chair and Councillor P. Hubert takes his seat at the Council Board.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 3#8. Re-appointment of Ken Kalopsis to the
+  London International Airport Board of Directors
+
+> 6th Report of the Committee of the Whole
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 4#2. Prohibiting Smoking Near Recreation
+  Amenities and Entrances By-law
+
+> That, on the recommendation of the Managing   Director of Parks & Recreation, the by-law, as appended to the staff   report dated February 25, 2013, BE INTRODUCED at the Municipal Council   meeting to be held on March 5, 2013 to prohibit smoking within 9 meters of   playgrounds and recreation ame...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant)
+
+**Nay (1):** [Denise Brown](/councillors/current/d-brown)
+
+</details>
+
+### 4#6. London Transit Commission
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 5#5. Update on Boler
+  Mountain's Current Plans and Activities
+
+> That the request for delegation status from   J. Kennedy, President of Boler Mountain BE REFERRED to the Civic   Administration to confirm the appropriate Standing Committee the matter   should be directed to.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 5#6. Sherwood Forest Public School
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 6#2. Tax Adjustment
+  Agenda
+
+> That the following actions be taken with   respect to the request for a letter for support for “All Points Bulletin” TV   network:   a)         the   Mayor BE REQUESTED to prepare a letter to the Canadian Radio-television &   Telecommunications Commission (CRTC) in support of the request for rene...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 8#2. Food Truck Proposal
+
+> That on the recommendation of the Managing   Director, Development & Compliance Services and the Chief Building   Official,  Civic Administration BE DIRECTED  to report back at a public   participation meeting of the Community and Protective Services Committee   meeting on amendments to the Busin...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 8#2. Food Truck Proposal
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 8#2. Food Truck Proposal
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 9#2. Annual Review, 2013
+  Special Events Policies and Procedures Manual
+
+> That, on the recommendation of the Managing   Director of Parks and Recreation the by-law, as appended to the staff report   dated February 25, 2013 BE INTRODUCED at the Municipal Council meeting of   March 5, 2013 to approve the 2013 Special Events Policies and Procedures   Manual. 2013-C01/M02
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### IV. COMMITTEE
+  OF THE WHOLE, IN CAMERA
+
+> Approve that Council rise and go into   Committee of the Whole, in camera, for the purpose of considering the   following:
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### IX. REPORTS
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### VI. CONFIRMATION
+  AND SIGNING OF THE MINUTES OF THE FOURTH MEETING HELD ON FEBRUARY 12, 2013
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### XIII. BY-LAWS
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### XIII. BY-LAWS
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### XIII. BY-LAWS
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### XIII. BY-LAWS
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### XIII. BY-LAWS
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### XIII. BY-LAWS
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### 3. Properties located
+  at 56-82 Wellington Street, 283-323 South Street and 69-77 Waterloo Street
+  (OZ-8114) (Refer to the Planning and Environment Committee Stage for
+  Consideration with Clause 13 of the 5th Report of the Planning and
+  Environment Committee.)
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 14. Student Rental
+  Housing
+
+> That the communication, dated September 25,   2012, from M. Noskiewicz, Goodmans, with respect to Student Rental Housing in   Zoning By-law No. Z.-1 BE REFERRED to the Civic Administration and the Town   & Gown Committee to determine how this can be applied using the Near   Campus Neighbourhoods;...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 15. Railway Pedestrian
+  Crossing Safety
+
+> That, on the recommendation of the   Director, Roads & Transportation, the following actions be taken with   respect to railway pedestrian crossing safety:   a)         the   Civic Administration BE AUTHORIZED to undertake a railway pedestrian crossing   assessment study to determine the appropri...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant)
+
+**Nay (2):** [Joni Baechler](/councillors/current/j-l-baechler), [Denise Brown](/councillors/current/d-brown)
+
+</details>
+
+### 15. Railway Pedestrian
+  Crossing Safety
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (1):** [Joni Baechler](/councillors/current/j-l-baechler)
+
+</details>
+
+### 16. Rental of General
+  Equipment with Operators (Tender 13-06) - Revised
+
+> That, the previously-approved bids for the   Rental of General Equipment with Operators, as appended to the staff report   dated January 21, 2013 BE AMENDED by deleting “Benko Sewer Service, Division   of Badger Daylighting Inc. 6629 Orr Drive, London, ON N6L 1P1” and replacing   with “W. Carsey ...
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 16. Rental of General
+  Equipment with Operators (Tender 13-06) - Revised
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+

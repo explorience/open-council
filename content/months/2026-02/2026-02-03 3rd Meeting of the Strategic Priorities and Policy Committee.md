@@ -626,179 +626,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 6:48 PM.
 
 ****
-
----
-
-## Votes
-
-*13 substantive votes at this meeting (7 contested, 6 unanimous). Procedural motions excluded.*
-
-### 2.3. Secondary School Transit Pass Pilot Program Update
-
-> That the motion be amended in part c) to read as follows: c)   the Civic Administration BE DIRECTED to apply the required financing to a limit of 1.04 million from the Community Investment Reserve Fund for the costs of the Secondary School Transit Pass Pilot Program for September 2026 to August 2...
-
-**✅ Motion Passed (10 to 3)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Nay (3):** [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (2):** [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 2.3. Secondary School Transit Pass Pilot Program Update
-
-> That pursuant to section 31.6 of the Council Procedure By-law, Councillor C. Rahman BE PERMITTED to speak an additional 2 minutes with respect to this matter.
-
-**✅ Motion Passed (12 to 0)**
-
-Unanimous (12-0)
-
-### 2.3. Secondary School Transit Pass Pilot Program Update
-
-> That the motion BE AMENDED to include a new part d) to read as follows: d)   the Civic Administration BE DIRECTED to remove the summer months of July and August from the program.
-
-**✅ Motion Passed (12 to 0)**
-
-Unanimous (12-0)
-
-### 2.3. Secondary School Transit Pass Pilot Program Update
-
-> That the motion, as amended, BE APPROVED.
-
-**✅ Motion Passed (7 to 4) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (7):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-**Nay (4):** [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (4):** [Sam Trosow](/councillors/current/s-trosow), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 2.4. Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program
-
-> That the delegation request from J. Zaifman, CEO, London Home Builders Association, BE APPROVED to be heard at this time.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 2.4. Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program
-
-> That Mayoral Directive 2026-001: Creation of an Affordable Home Ownership Incentive Program BE REFERRED to a future meeting of the Strategic Priorities and Policy Committee for a report back on the following matters: a) if the program can be expanded to existing housing stock (previously lived in...
-
-**❌ Motion Failed (7 to 7) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (7):** [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (7):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 2.4. Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program
-
-> That the motion BE AMENDED to direct Civic Administration to restrict the program eligibility to first-time home buyers.
-
-**✅ Motion Passed (12 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 2.4. Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program
-
-> That the motion BE FURTHER AMENDED to extend the term of the loan from five years to ten years.
-
-**✅ Motion Passed (12 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (2):** [Josh Morgan](/councillors/current/j-morgan), [Steve Lehman](/councillors/current/s-lehman)
-
-**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 2.4. Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program
-
-> That the motion BE FURTHER AMENDED to restrict the program eligibility to current residents of the City of London.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 2.4. Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program
-
-> That the motion, as amended, BE APPROVED; it being noted that Civic Administration will bring forward a revised by-law to the February 10, 2026 meeting of Municipal Council.
-
-**✅ Motion Passed (8 to 6) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-**Nay (6):** [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 4.1. Consideration of Appointments to the London Transit Commission (Requires 5 Council Members)
-
-> That the following Council Members BE APPOINTED to the London Transit Commission: - Councillor S. Franke - Councillor C. Rahman - Councillor S. Lehman - Councillor S. Trosow - Mayor J. Morgan
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 4.2. Diversity, Inclusion and Anti-Oppression Community Advisory Committee (DIACAC) - Request for Direction
-
-> That the report dated February 3, 2026, titled “Diversity, Inclusion and Anti-Oppression Community Advisory Committee (DIACAC) – Request for Direction” BE REFERRED to Civic Administration to consult further with DIACAC.
-
-**❌ Motion Failed (4 to 10)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow)
-
-**Nay (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 4.2. Diversity, Inclusion and Anti-Oppression Community Advisory Committee (DIACAC) - Request for Direction
-
-> That pursuant to section 33.8 of the Council Procedure By-law, the Strategic Priorities and Policy Committee BE PERMITTED to proceed beyond 6:00 PM.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
 ---
 
 ## Full Transcript
@@ -2323,3 +2150,211 @@ Hey colleagues that dispenses with our agenda for today. We have no items to con
 Motion carries. And we are adjourned. Thank you everyone.
 
 </details>
+
+---
+
+## Votes
+
+*15 substantive votes at this meeting (9 contested, 6 unanimous). Procedural motions excluded.*
+
+### 2.3. Secondary School Transit Pass Pilot Program Update
+
+> That the motion be amended in part c) to read as follows: c)   the Civic Administration BE DIRECTED to apply the required financing to a limit of 1.04 million from the Community Investment Reserve Fund for the costs of the Secondary School Transit Pass Pilot Program for September 2026 to August 2...
+
+**✅ Motion Passed (10 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (3):** [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 2.3. Secondary School Transit Pass Pilot Program Update
+
+> That pursuant to section 31.6 of the Council Procedure By-law, Councillor C. Rahman BE PERMITTED to speak an additional 2 minutes with respect to this matter.
+
+**✅ Motion Passed (12 to 0)**
+
+Unanimous (12-0)
+
+### 2.3. Secondary School Transit Pass Pilot Program Update
+
+> That the motion BE AMENDED to include a new part d) to read as follows: d)   the Civic Administration BE DIRECTED to remove the summer months of July and August from the program.
+
+**✅ Motion Passed (12 to 0)**
+
+Unanimous (12-0)
+
+### 2.3. Secondary School Transit Pass Pilot Program Update
+
+> That the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (7 to 4) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Nay (4):** [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (4):** [Sam Trosow](/councillors/current/s-trosow), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 2.4. Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program
+
+> That the delegation request from J. Zaifman, CEO, London Home Builders Association, BE APPROVED to be heard at this time.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 2.4. Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program
+
+> That Mayoral Directive 2026-001: Creation of an Affordable Home Ownership Incentive Program BE REFERRED to a future meeting of the Strategic Priorities and Policy Committee for a report back on the following matters: a) if the program can be expanded to existing housing stock (previously lived in...
+
+**❌ Motion Failed (7 to 7) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (7):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 2.4. Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program
+
+> That the motion BE AMENDED to direct Civic Administration to restrict the program eligibility to first-time home buyers.
+
+**✅ Motion Passed (12 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 2.4. Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program
+
+> That the motion BE FURTHER AMENDED to extend the term of the loan from five years to ten years.
+
+**✅ Motion Passed (12 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (2):** [Josh Morgan](/councillors/current/j-morgan), [Steve Lehman](/councillors/current/s-lehman)
+
+**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 2.4. Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program
+
+> That the motion BE FURTHER AMENDED to restrict the program eligibility to current residents of the City of London.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 2.4. Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program
+
+> That the motion, as amended, BE APPROVED; it being noted that Civic Administration will bring forward a revised by-law to the February 10, 2026 meeting of Municipal Council.
+
+**✅ Motion Passed (8 to 6) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Nay (6):** [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.1. Consideration of Appointments to the London Transit Commission (Requires 5 Council Members)
+
+> That the following Council Members BE APPOINTED to the London Transit Commission: - Councillor S. Franke - Councillor C. Rahman - Councillor S. Lehman - Councillor S. Trosow - Mayor J. Morgan
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 4.2. Diversity, Inclusion and Anti-Oppression Community Advisory Committee (DIACAC) - Request for Direction
+
+> That, on the recommendation of the City Clerk, the following actions be taken with respect to Diversity, Inclusion and Anti-Oppression Community Advisory Committee (DIACAC) – Request for Direction: a)    the report dated February 3, 2026, titled “Diversity, Inclusion and Anti-Oppression Community...
+
+**✅ Motion Passed (12 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow)
+
+**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.2. Diversity, Inclusion and Anti-Oppression Community Advisory Committee (DIACAC) - Request for Direction
+
+> That the report dated February 3, 2026, titled “Diversity, Inclusion and Anti-Oppression Community Advisory Committee (DIACAC) – Request for Direction” BE REFERRED to Civic Administration to consult further with DIACAC.
+
+**❌ Motion Failed (4 to 10)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow)
+
+**Nay (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.2. Diversity, Inclusion and Anti-Oppression Community Advisory Committee (DIACAC) - Request for Direction
+
+> That pursuant to section 33.8 of the Council Procedure By-law, the Strategic Priorities and Policy Committee BE PERMITTED to proceed beyond 6:00 PM.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 6. Confidential
+
+> That the Strategic Priorities and Policy Committee convenes In Closed session to consider the following: 6.1    Solicitor-Client Privilege A matter pertaining to advice that is subject to solicitor-client privilege, with respect to the Affordable Housing Community Improvement Plan Financial Incen...
+
+**✅ Motion Passed (8 to 6) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (6):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+

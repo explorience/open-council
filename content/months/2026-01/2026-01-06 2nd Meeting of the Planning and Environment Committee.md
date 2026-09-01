@@ -1215,124 +1215,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 4:55 PM.
 
 ****
-
----
-
-## Votes
-
-*14 substantive votes at this meeting (0 contested, 14 unanimous). Procedural motions excluded.*
-
-### 2.1. HL General Partner Inc. - Application of Brownfield Community Improvement Plan Incentives
-
-> That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the following actions be taken with respect to the staff report dated January 6, 2026, related to the application of HL General Partner Inc. relating to the property located at 320 King Street: a)    a total exp...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.1. 574 First Street - Z-25142
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Ivy Homes Ltd. (c/o Zelinka Priamo) relating to the property located at 574 First Street, the proposed by-law as appended to the staff report dated January 6, 2...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.2. 415 York Street - OZ-25124
-
-> That the staff report dated January 6, 2026, related to the property at 415 York Street, BE REFERRED to a future meeting of the Planning and Environment Committee (no later than Q2 2026) for further dialogue with the applicant regarding the proposed building height and potential “Paths to Approva...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.3. 388 Exeter Road and 1512-1514 Jalna Boulevard - Z-25138
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of WO M.D. Inc. (c/o Elite M.D. Developments Inc. and The Biglieri Group Ltd.) relating to the property located at 388 Exeter Road and 1512-1514 Jalna Boulevard: a...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.4. 465 Callaway Road - OZ-25120
-
-> that the motion BE AMENDED to remove clause 2(a)(6) of the special provisions from the ZBA and move the provision to the site plan authority for consideration.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.4. 465 Callaway Road - OZ-25120
-
-> That the motion, as amended, BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.5. 591 First Street - Z-25136
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of CMK Investments Inc. (c/o Zelinka Priamo Ltd.) relating to the property located at 591 First Street, the proposed by-law as appended to the staff report dated J...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.6. 656 Huron Street -  Z-25130
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 2698242 Ontario Limited (c/o Creative Structures) relating to the property located at 656 Huron Street, the proposed by-law as appended to the staff report date...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.7. 1851 Hamilton Road - OZ-25127
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 2857571 Ontario Inc. relating to the property located at 1851 Hamilton Road: a)    the proposed by-law as appended to the staff report dated January 6, 2026, as...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.8. 10 Marley Place - OZ-25129
-
-> That the motion BE AMENDED to include a new part d) iv) that reads as follows:     iv) ensure parking and garbage pick-up is designed to reduce impact on adjacent properties
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.8. 10 Marley Place - OZ-25129
-
-> That the motion, as amended, BE APPROVED
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.9. Holding Provision Symbol Review - Update Report - Z-25119
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of the City of London relating to the Holding Provision Symbol Review – TSA Property Update, the proposed by-law as appended to the staff report dated January 6, 2...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.10. 1040 Hamilton Road and 1050 and 1070 Hamilton Road - OZ-25132
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Monteith Brown Planning Consultants (c/o City of London) relating to the properties located at 1040 Hamilton Road, and 1050 &1070 Hamilton Road: a)    the propo...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 4.1. School Block Status Update Report.
-
-> That the delegation request from B. Puzanov, Thames Valley District School Board and M. Wallace, London Development Institute, as appended to the Added Agenda, BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -2429,3 +2311,66 @@ So, I'll use a Germano for motion to adjourn. Oh, they don't want to go home. Oh
 Field goal, no miss right. (laughs) Second by Deputy Mayor Lewis, a hand vote. (mumbles) Motion carries. Okay.
 
 </details>
+
+---
+
+## Votes
+
+*7 substantive votes at this meeting (0 contested, 7 unanimous). Procedural motions excluded.*
+
+### 2.1. HL General Partner Inc. - Application of Brownfield Community Improvement Plan Incentives
+
+> That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the following actions be taken with respect to the staff report dated January 6, 2026, related to the application of HL General Partner Inc. relating to the property located at 320 King Street: a)    a total exp...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.4. 465 Callaway Road - OZ-25120
+
+> that the motion BE AMENDED to remove clause 2(a)(6) of the special provisions from the ZBA and move the provision to the site plan authority for consideration.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.4. 465 Callaway Road - OZ-25120
+
+> That the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.8. 10 Marley Place - OZ-25129
+
+> That the motion BE AMENDED to include a new part d) iv) that reads as follows:     iv) ensure parking and garbage pick-up is designed to reduce impact on adjacent properties
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.8. 10 Marley Place - OZ-25129
+
+> That the motion, as amended, BE APPROVED
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.10. 1040 Hamilton Road and 1050 and 1070 Hamilton Road - OZ-25132
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Monteith Brown Planning Consultants (c/o City of London) relating to the properties located at 1040 Hamilton Road, and 1050 &1070 Hamilton Road: a)    the propo...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.1. School Block Status Update Report.
+
+> That the delegation request from B. Puzanov, Thames Valley District School Board and M. Wallace, London Development Institute, as appended to the Added Agenda, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

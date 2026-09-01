@@ -3262,3 +3262,418 @@ Approve Third Reading and Enactment of Bill
 
 Motion Passed
 
+---
+
+## Votes
+
+*35 substantive votes at this meeting (13 contested, 22 unanimous). Procedural motions excluded.*
+
+### 1#2. Managing Director, Environmental and
+  Engineering Services and City Engineer - Expropriation of Lands - Western
+  Road Widening and Improvements Project - TS1489-1
+
+> Approve that Council convene as the   Approving Authority pursuant to the provisions of the Expropriation Act,   R.S.O. 1990, c.E.26, as amended, for the purpose of considering Communication   No. 1 from the Managing Director, Environmental & Engineering Services   and City Engineer, with respect...
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 1#2. Managing Director, Environmental and
+  Engineering Services and City Engineer - Expropriation of Lands - Western
+  Road Widening and Improvements Project - TS1489-1
+
+> Approve that on the recommendation of   the Managing Director, Environmental & Engineering Services and City   Engineer, on the advice of the Manager of Realty Services, with the review   and concurrence of the Director, Roads and Transportation, the following   actions be taken with respect to t...
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 1#6. Disclosures of
+  Pecuniary Interest
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 11#3. 6th Report of the
+  London Advisory Committee on Heritage
+
+> That the following action be taken with   respect to the 6th Report on the London Advisory Committee on Heritage, from   its meeting held on May 10, 2017:   a)              on   the recommendation of the Managing Director, Planning and City Planner, with   the advice of the Heritage Planner, the ...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 2#5. 6th Report of the
+  Advisory Committee on the Environment
+
+> That the 6th Report of the Advisory   Committee on the Environment from its meeting held on May 3, 2017 BE   RECEIVED.
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### 2#6. Strategic Plan: Semi-Annual Progress Report
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (1):** [Phil Squire](/councillors/current/p-squire)
+
+</details>
+
+### 2#6. Strategic Plan: Semi-Annual Progress Report
+
+> Approve clause 2, as amended.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (1):** [Phil Squire](/councillors/current/p-squire)
+
+</details>
+
+### 4#2. Council Policy for 
+  Publicly  Releasing  Enforcement Information (Relates to Bill No. 227)
+
+> Approve that the proposed Council Policy   for publicly releasing enforcement conviction information be referred back to   receive further comment at a future Public Participation Meeting to be held   before the Community and Protective Services Committee.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (1):** [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 6#5. Consultations
+  Regarding Arrangements for the City of London to Become a Sanctuary City
+
+> Motion Lost
+
+**❌ **
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Michael van Holst](/councillors/current/m-van-holst), [Harold Usher](/councillors/current/h-l-usher)
+
+**Nay (11):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 6#5. Consultations
+  Regarding Arrangements for the City of London to Become a Sanctuary City
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+
+**Nay (2):** [Michael van Holst](/councillors/current/m-van-holst), [Phil Squire](/councillors/current/p-squire)
+
+</details>
+
+### 6#5. Consultations
+  Regarding Arrangements for the City of London to Become a Sanctuary City
+
+> Approve clause 3.
+
+**✅ Motion Passed**
+
+Unanimous (10-0)
+
+### 6#5. Consultations
+  Regarding Arrangements for the City of London to Become a Sanctuary City
+
+> Approve clause 2.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 6#5. Consultations
+  Regarding Arrangements for the City of London to Become a Sanctuary City
+
+> Approve clause 1.
+
+**✅ Motion Passed**
+
+Unanimous (10-0)
+
+### 8#2. Property located at
+  8076 Longwoods Road (Z-8735)
+
+> Approve that part a) of clause 8 be   amended to read as follows:   “a)         the application of Mike Abualhayja, for the above-noted property BE   REFERERD to the Civic Administration to report back with a revised by-law   that would provide for a potential opportunity to ensure that the lives...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 8#2. Property located at
+  8076 Longwoods Road (Z-8735)
+
+> Approve clause 8, as amended.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 8#2. Property located at
+  8076 Longwoods Road (Z-8735)
+
+> Approve that pursuant to section 6.4   of the Council Procedure By-law, the order of business be changed to permit   consideration of the 6th Report of the Community and Protective Services Committee   at this time.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 8#4. Contract Award:
+  Tender No. 17-58 - Kiwanis Park Pathway Connection
+
+> That, on the recommendation of the Managing   Director, Environmental and Engineering Services and City Engineer, the   following actions be taken with respect to the award of a contract for the   Kiwanis Park Pathway Connection between Trafalgar Street and Tweedsmuir Ave:   a)         the   bid ...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 9#3. Proposed Revised
+  Sign By-law and Amendments to Current Sign and Canopy By-law
+
+> Approve that   clause 9 be amended in part b) to read as follows:   “b)       the amendment to the Sign and   Canopy By-law S.-3775-94, appended as Appendix “D” to the staff report dated   May 23, 2017, BE INTRODUCED at the Municipal Council meeting to be held on   May 30, 2017;”.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 9#3. Proposed Revised
+  Sign By-law and Amendments to Current Sign and Canopy By-law
+
+> Approve clause 9, as amended.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### V. CONFIRMATION
+  AND SIGNING OF THE MINUTES OF THE SIXTEENTH MEETING HELD ON MAY 16, 2017
+
+> Approve the Minutes of the Sixteenth   meeting held on May 16, 2017.
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### VIII. REPORTS
+
+> Approve that pursuant to section 6.4   of the Council Procedure By-law, the order of business be changed to permit   consideration of clause 10 of the 10th Report of the Planning and Environment   Committee at 5:30 PM.
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### XII. EMERGENT
+  MOTIONS
+
+> Approve that pursuant to section 20.1   of the Council Procedure By-law, leave be given for the introduction of an   emergent motion to appoint Councillor Anna Hopkins as Acting Mayor from May   31, 2017 until the morning of Saturday, June 3, 2017, at which time Mayor   Matt Brown will resume his...
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### XIII. BY-LAWS
+
+> Approve Introduction and First Reading of   Bill No. 231.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### XIII. BY-LAWS
+
+> Approve Second Reading of Bill No. 231.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### XIII. BY-LAWS
+
+> Approve Third Reading and Enactment of Bill   No. 231.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 2. Managing Director,
+  Environmental and Engineering Services and City Engineer - Expropriation of
+  Lands - Western Road Widening and Improvements Project - TS1489-1
+
+> Approve that, on the recommendation of   the Managing Director, Environmental & Engineering Services and City   Engineer, on the advice of the Manager of Realty Services, with the review   and concurrence of the Director, Roads and Transportation, the following   actions be taken with respect to ...
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 3. P. van der Werf,
+  Museum London Board Chair - Museum London Endowment Funds Transfer Request
+ 
+(Refer to the Community and Protective
+  Services Committee Stage for Consideration with Clause 17 of the 6th Report
+  of the Community and Protective Services Committee )
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 4. Review of City of
+  London Ward Boundaries
+
+> That, on the recommendation of the City   Clerk, the proposed by-law appended to the staff report dated May 23, 2017 BE   INTRODUCED at the Municipal Council meeting to be held on May 30, 2017 to set   out the City of London’s ward boundaries in preparation for the 2018   Municipal Election.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 8. SesquiFest Ontario
+  Craft Beer Garden - Request for Designation as a Municipally Significant
+  Event
+
+> That the SesquiFest  Ontario Craft Beer   Garden, to be held on June 29, 2017 to July 2, 2017 from 12:00 PM to 11:00 PM   and July 3, 2017 from 12:00 PM to 7:00 PM, at the corner of Carling Street   and Talbot Street, London, ON, BE DESIGNATED as a municipally significant   event.
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 10. Property located at
+  420 Fanshawe Park Road East - (OZ-8624)
+
+> Motion passed
+
+**❌ Motion Failed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Virginia Ridley](/councillors/current/v-ridley)
+
+**Nay (9):** [Anna Hopkins](/councillors/current/a-hopkins), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+</details>
+
+### 10. Property located at
+  420 Fanshawe Park Road East - (OZ-8624)
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (4):** [Josh Morgan](/councillors/current/j-morgan), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown)
+
+</details>
+
+### 10. Property located at
+  420 Fanshawe Park Road East - (OZ-8624)
+
+> Approve that pursuant to section 6.4   of the Council Procedure By-law, the order of business be changed to permit   consideration of clause 8 of the 10th Report of the Planning and Environment   Committee at this time.
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### 11. Parking Enforcement
+  - Privately-Owned Parking Lots
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 17. Museum London
+  Endowment Funds Transfer Request
+
+> Approve that the request from Museum   London with respect to the possible transfer of the Museum London Endowment   funds to the Museum London Foundation be referred back to the Civic   Administration for further discussion with Museum London and a report back at   a future meeting of the Commun...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (3):** [Josh Morgan](/councillors/current/j-morgan), [Stephen Turner](/councillors/current/s-turner), [Paul Hubert](/councillors/current/p-hubert)
+
+</details>
+
+### 19. London Optimist
+  Sports Centre BMO Centre 295 Rectory Street - Grant Agreement (Relates to
+  Bill No. 226)
+
+> That, on the recommendation of the City   Solicitor’s Office, the proposed by-law, appended to the staff report dated   May 24, 2017 BE INTRODUCED at the Municipal Council meeting of May 30, 2017,   to:   a)         approve   a Grant Agreement, substantially in the form appended to the above-note...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (1):** [Jesse Helmer](/councillors/current/j-helmer)
+
+</details>
+

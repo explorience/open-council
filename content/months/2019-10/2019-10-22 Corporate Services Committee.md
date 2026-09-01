@@ -288,7 +288,7 @@ The meeting adjourned at 1:48 PM.
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2.3. Vacant/Excess Land Subclass Tax Reductions and Other Tax Policy Issues
 
@@ -296,7 +296,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 5.1. Corporate Services Committee Deferred Matters List
 
@@ -304,5 +304,5 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 

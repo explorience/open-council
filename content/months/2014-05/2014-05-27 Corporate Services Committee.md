@@ -210,7 +210,7 @@ The Corporate Services Committee convened
 
 ## Votes
 
-*6 substantive votes at this meeting (6 contested, 0 unanimous). Procedural motions excluded.*
+*6 substantive votes at this meeting (0 contested, 6 unanimous). Procedural motions excluded.*
 
 ### 2. Municipal Funding
   Agreement Related to the Transfer of Federal Gas Tax Funds
@@ -218,14 +218,9 @@ The Corporate Services Committee convened
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill)
-
-</details>
+Unanimous (3-0)
 
 ### 3. Request for Amendments
   - London Diversity and Race Relations Advisory Committee Terms of Reference
@@ -233,14 +228,9 @@ The Corporate Services Committee convened
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill)
-
-</details>
+Unanimous (3-0)
 
 ### 4. Agreement with the
   Province of Ontario to Participate in the Ontario Certified Site Program with
@@ -250,14 +240,9 @@ The Corporate Services Committee convened
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill)
-
-</details>
+Unanimous (3-0)
 
 ### 5. Residential Tax
   By-law for Investment in Affordable Housing Program Project at 129 Riverside
@@ -266,14 +251,9 @@ The Corporate Services Committee convened
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill)
-
-</details>
+Unanimous (3-0)
 
 ### 6. Consideration of
   Appointment to the Community Safety and Crime Prevention Advisory Committee
@@ -282,14 +262,9 @@ The Corporate Services Committee convened
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill)
-
-</details>
+Unanimous (3-0)
 
 ### 7. Consideration of
   Appointment to the Cycling Advisory Committee (Requires 1 Appointment from
@@ -298,12 +273,7 @@ The Corporate Services Committee convened
 > Motion   Passed
 
 **✅ Motion
-  Passed 🔥**
+  Passed**
 
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Harold Usher](/councillors/current/h-l-usher), [Joe Swan](/councillors/current/j-b-swan), [Bud Polhill](/councillors/current/b-polhill)
-
-</details>
+Unanimous (3-0)
 

@@ -261,37 +261,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 3:07 PM.
 
 ****
-
----
-
-## Votes
-
-*2 substantive votes at this meeting (1 contested, 1 unanimous). Procedural motions excluded.*
-
-### 2.2. Secondary School Student Transit Pass Pilot Program
-
-> That part b) be approved as follows: b)   the secondary school pilot project BE DEFERRED to school years beginning September 2025 and September 2026 to provide for the Civic Administration together with London Transit Commission (LTC) to develop a Memorandum of Understanding (MOU) with the Thames...
-
-**✅ Motion Passed (9 to 3)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Nay (3):** [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (3):** [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 5.1. (ADDED) Request for London Police Services Delegation - Councillor E. Peloza
-
-> That the following actions be taken: a)    the Civic Administration BE DIRECTED to invite London Police Chief T. Truong to appear before the Strategic Priorities and Policy Committee as a delegation at the  September 17, 2024 meeting, along with any staff he deems appropriate to accompany him; an...
-
-**✅ Motion Passed (12 to 0)**
-
-Unanimous (12-0)
 ---
 
 ## Full Transcript
@@ -810,3 +779,35 @@ Thank you. I'll report that progress was made on the items we went in camera for
 And now we'll look for a motion to adjourn, and Councilor Cuddy was quick on that one too, and Mayor Morgan was ready to second that one, so we will call the question, all those in favor. Motion carries. Thank you, colleagues. And for those traveling to AMO, we will see you all in Ottawa.
 
 </details>
+
+---
+
+## Votes
+
+*2 substantive votes at this meeting (1 contested, 1 unanimous). Procedural motions excluded.*
+
+### 2.2. Secondary School Student Transit Pass Pilot Program
+
+> That part b) be approved as follows: b)   the secondary school pilot project BE DEFERRED to school years beginning September 2025 and September 2026 to provide for the Civic Administration together with London Transit Commission (LTC) to develop a Memorandum of Understanding (MOU) with the Thames...
+
+**✅ Motion Passed (9 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (3):** [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (3):** [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 5.1. (ADDED) Request for London Police Services Delegation - Councillor E. Peloza
+
+> That the following actions be taken: a)    the Civic Administration BE DIRECTED to invite London Police Chief T. Truong to appear before the Strategic Priorities and Policy Committee as a delegation at the  September 17, 2024 meeting, along with any staff he deems appropriate to accompany him; an...
+
+**✅ Motion Passed (12 to 0)**
+
+Unanimous (12-0)
+

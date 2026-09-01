@@ -408,31 +408,7 @@ The meeting adjourned at 7:02 PM.
 
 ## Votes
 
-*9 substantive votes at this meeting (4 contested, 5 unanimous). Procedural motions excluded.*
-
-### 2.1. Update on the 2020-2023 Multi-Year Budget
-
-> That a new part b)iii) BE ADDED, as follows: “iii) the Civic Administration BE DIRECTED to work with the London Transit Commission to identify opportunities to replace City of London capital levy funding for LTC capital projects with non-property tax sources of financing such as the one-time doub...
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (11-0)
-
-### 2.1. Update on the 2020-2023 Multi-Year Budget
-
-> That a new part b)iii) BE ADDED, as follows: “iii) the Civic Administration BE DIRECTED to work with the London Transit Commission to identify opportunities to replace City of London capital levy funding for LTC capital projects with non-property tax sources of financing, such as the one-time dou...
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (11-0)
-
-### 2.1. Update on the 2020-2023 Multi-Year Budget
-
-> That the date of the December Strategic Priorities and Policy Committee meeting BE CHANGED to December 17, 2019 at 4:00 PM.
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (11-0)
+*8 substantive votes at this meeting (4 contested, 4 unanimous). Procedural motions excluded.*
 
 ### 2.1. Update on the 2020-2023 Multi-Year Budget
 
@@ -443,11 +419,46 @@ Unanimous (11-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (8):** [Shawn Lewis](/councillors/current/s-lewis), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Lehman](/councillors/current/s-lehman), [Mo Salih](/councillors/current/m-salih), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer)
+**Yea (6):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire)
 
-**Nay (10):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Ed Holder](/councillors/current/e-holder), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Michael van Holst](/councillors/current/m-van-holst), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Arielle Kayabaga](/councillors/current/a-kayabaga), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+**Nay (7):** [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Absent (2):** [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
 
 </details>
+
+### 2.1. Update on the 2020-2023 Multi-Year Budget
+
+> That a new part b)iii) BE ADDED, as follows: “iii) the Civic Administration BE DIRECTED to work with the London Transit Commission to identify opportunities to replace City of London capital levy funding for LTC capital projects with non-property tax sources of financing such as the one-time doub...
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 2.1. Update on the 2020-2023 Multi-Year Budget
+
+> That part b)ii) BE AMENDED to include the following wording at the end of the clause, "it being noted that the London Police Services will be excluded from this additional request, as the London Police Service Budget has already been reviewed and reduced."
+
+**❌ Motion Failed (6 to 7) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire)
+
+**Nay (7):** [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Absent (2):** [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 2.1. Update on the 2020-2023 Multi-Year Budget
+
+> That a new part b)iii) BE ADDED, as follows: “iii) the Civic Administration BE DIRECTED to work with the London Transit Commission to identify opportunities to replace City of London capital levy funding for LTC capital projects with non-property tax sources of financing, such as the one-time dou...
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
 
 ### 2.1. Update on the 2020-2023 Multi-Year Budget
 
@@ -458,7 +469,11 @@ Unanimous (11-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (9):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+
+**Nay (2):** [Mo Salih](/councillors/current/m-salih), [Stephen Turner](/councillors/current/s-turner)
+
+**Absent (2):** [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
 
 </details>
 
@@ -471,34 +486,21 @@ Unanimous (11-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (9):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Ed Holder](/councillors/current/e-holder), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga)
 
 **Nay (1):** [Mo Salih](/councillors/current/m-salih)
 
-**Absent (1):** [Stephen Turner](/councillors/current/s-turner)
+**Absent (2):** [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
 
 </details>
 
-### 4.1. 5th Report of the Governance Working Group
+### 2.1. Update on the 2020-2023 Multi-Year Budget
 
-> That the following actions be taken with respect to the 5th Report of the Governance Working Group from its meeting held on October 28, 2019:    a)    on the recommendation of the City Clerk, the attached revised proposed by-law BE INTRODUCED at a future meeting of the Municipal Council to enact ...
+> That the date of the December Strategic Priorities and Policy Committee meeting BE CHANGED to December 17, 2019 at 4:00 PM.
 
-**✅ Motion Passed (14 to 0)**
+**✅ Motion Passed (13 to 0)**
 
-Unanimous (12-0)
-
-### 4.1. 5th Report of the Governance Working Group
-
-> Selection Demonstration - ONE candidate to be selected
-
-**❌ Majority Winner: No majority 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Absent (25):** [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Shawn Lewis](/councillors/current/s-lewis), [Shawn Lewis](/councillors/current/s-lewis), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Steve Hillier](/councillors/current/s-hillier), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/current/e-holder), [Mo Salih](/councillors/current/m-salih), [Mo Salih](/councillors/current/m-salih), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Arielle Kayabaga](/councillors/current/a-kayabaga), [Arielle Kayabaga](/councillors/current/a-kayabaga), [Arielle Kayabaga](/councillors/current/a-kayabaga)
-
-</details>
+Unanimous (13-0)
 
 ### 4.2. Resignation from the Middlesex-London Health Unit Board of Directors
 
@@ -506,5 +508,5 @@ Unanimous (12-0)
 
 **✅ Motion Passed (13 to 0)**
 
-Unanimous (11-0)
+Unanimous (13-0)
 

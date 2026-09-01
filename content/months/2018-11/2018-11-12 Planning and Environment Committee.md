@@ -1341,7 +1341,7 @@ The meeting adjourned at 10:58 PM
 
 ## Votes
 
-*18 substantive votes at this meeting (9 contested, 9 unanimous). Procedural motions excluded.*
+*15 substantive votes at this meeting (9 contested, 6 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -1349,23 +1349,7 @@ The meeting adjourned at 10:58 PM
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
-
-### 3.1. Public Participation Meeting - Application - 1175 Blackwell Boulevard (Z-8954)
-
-> That, on the recommendation of the Manager, Development Planning, with respect to the application of 700531 Ontario Ltd., c/o Tony Marsman Construction, relating to the property located at 1175 Blackwell Boulevard, the proposed by-law appended to the staff report dated November 12, 2018 BE INTROD...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 3.3. Public Participation Meeting - Heritage Places 2.0: A Description of Potential Heritage Conservation Districts in the City of London (O-8965)
-
-> That, on the recommendation of the Managing Director, Planning and City Planner, with the advice of the Heritage Planner, the following actions be taken with respect to the application of The Corporation of the City of London to update and replace the Heritage Places guideline document which appl...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 3.4. Public Participation Meeting - Application - 131 King Street (Z-8902)
 
@@ -1373,7 +1357,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 3.5. Public Participation Meeting - Application - 3080 Bostwick Road (Site 1) (OZ-8941)
 
@@ -1384,9 +1368,9 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (1):** [Stephen Turner](/councillors/current/s-turner)
+**Yea (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner)
 
-**Nay (1):** [Maureen Cassidy](/councillors/current/m-cassidy)
+**Nay (3):** [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Tanya Park](/councillors/current/t-park)
 
 </details>
 
@@ -1399,9 +1383,9 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (1):** [Maureen Cassidy](/councillors/current/m-cassidy)
+**Yea (3):** [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Tanya Park](/councillors/current/t-park)
 
-**Nay (1):** [Stephen Turner](/councillors/current/s-turner)
+**Nay (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner)
 
 </details>
 
@@ -1414,9 +1398,9 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (1):** [Stephen Turner](/councillors/current/s-turner)
+**Yea (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner)
 
-**Nay (1):** [Maureen Cassidy](/councillors/current/m-cassidy)
+**Nay (3):** [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Tanya Park](/councillors/current/t-park)
 
 </details>
 
@@ -1429,9 +1413,9 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (1):** [Maureen Cassidy](/councillors/current/m-cassidy)
+**Yea (3):** [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Tanya Park](/councillors/current/t-park)
 
-**Nay (1):** [Stephen Turner](/councillors/current/s-turner)
+**Nay (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner)
 
 </details>
 
@@ -1444,9 +1428,9 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (1):** [Stephen Turner](/councillors/current/s-turner)
+**Yea (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner)
 
-**Nay (1):** [Maureen Cassidy](/councillors/current/m-cassidy)
+**Nay (3):** [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Tanya Park](/councillors/current/t-park)
 
 </details>
 
@@ -1459,9 +1443,9 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (1):** [Maureen Cassidy](/councillors/current/m-cassidy)
+**Yea (3):** [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Tanya Park](/councillors/current/t-park)
 
-**Nay (1):** [Stephen Turner](/councillors/current/s-turner)
+**Nay (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner)
 
 </details>
 
@@ -1471,15 +1455,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
-
-### 3.9. Public Participation Meeting - Application - 230 North Centre Road (OZ-8874)
-
-> d)  the Civic Administration BE REQUESTED to investigate and report to the Civic Works Committee on the potential installation of a pedestrian crossover on North Centre Road;
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
+Unanimous (4-0)
 
 ### 3.9. Public Participation Meeting - Application - 230 North Centre Road (OZ-8874)
 
@@ -1490,7 +1466,9 @@ Unanimous (3-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (1):** [Stephen Turner](/councillors/current/s-turner)
+**Yea (3):** [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown)
+
+**Nay (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/current/m-cassidy)
 
 **Absent (1):** [Tanya Park](/councillors/current/t-park)
 
@@ -1505,11 +1483,21 @@ Unanimous (3-0)
 <details>
 <summary>View roll call</summary>
 
-**Nay (1):** [Stephen Turner](/councillors/current/s-turner)
+**Yea (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+**Nay (3):** [Jesse Helmer](/councillors/current/j-helmer), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown)
 
 **Absent (1):** [Tanya Park](/councillors/current/t-park)
 
 </details>
+
+### 3.9. Public Participation Meeting - Application - 230 North Centre Road (OZ-8874)
+
+> d)  the Civic Administration BE REQUESTED to investigate and report to the Civic Works Committee on the potential installation of a pedestrian crossover on North Centre Road;
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
 
 ### 3.9. Public Participation Meeting - Application - 230 North Centre Road (OZ-8874)
 
@@ -1530,15 +1518,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
-
-### 5.1. (ADDED) 11th Report of the Advisory Committee on the Environment
-
-> That the following actions be taken with respect to the 11th Report of the Advisory Committee on the Environment from its meeting held on November 7, 2018: a)            the following actions be taken with respect to recycling: i)             the Civic Administration BE REQUESTED to consider a vo...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 6. Confidential
 
@@ -1546,5 +1526,5 @@ Unanimous (2-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 

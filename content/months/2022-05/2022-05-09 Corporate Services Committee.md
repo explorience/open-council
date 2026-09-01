@@ -403,15 +403,7 @@ The meeting adjourned at 2:18 PM. .
 
 ## Votes
 
-*6 substantive votes at this meeting (0 contested, 6 unanimous). Procedural motions excluded.*
-
-### 2.5. Industrial Land Development Strategy Annual Monitoring and Pricing Report - City-Owned Industrial Land
-
-> That, on the recommendation of the Deputy City Manager, Finance Supports, with concurrence of the Director, Economic Services and Supports, on the advice of the Director, Realty Services with respect to the City of London’s Industrial Land Development Strategy, the following actions be taken with...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
+*5 substantive votes at this meeting (0 contested, 5 unanimous). Procedural motions excluded.*
 
 ### 2.5. Industrial Land Development Strategy Annual Monitoring and Pricing Report - City-Owned Industrial Land
 
@@ -419,7 +411,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4.1. Association of Municipalities Ontario - Board of Directors, Large Urban Caucus
 
@@ -427,7 +419,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4.2. Board of Directors - Federation of Canadian Municipalities
 
@@ -435,7 +427,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4.3. Application - Issuance of Proclamation - Never Give Up Day
 
@@ -443,7 +435,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 5.1. (ADDED) Application - Issuance of Proclamation - Day of Remembrance for Our London Family
 
@@ -451,5 +443,5 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 

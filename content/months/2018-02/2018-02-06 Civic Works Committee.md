@@ -768,7 +768,7 @@ The meeting adjourned at 5:51 PM.
 
 ## Votes
 
-*21 substantive votes at this meeting (21 contested, 0 unanimous). Procedural motions excluded.*
+*22 substantive votes at this meeting (22 contested, 0 unanimous). Procedural motions excluded.*
 
 ### 2. COUNCIL MEMBER
   SUBMISSION – Absent From Meeting
@@ -1008,12 +1008,27 @@ The meeting adjourned at 5:51 PM.
 > Motion   Passed
 
 **✅ Motion
-  Passed**
+  Passed 🔥**
 
 <details>
 <summary>View roll call</summary>
 
-**Yea (6):** [Phil Squire](/councillors/current/p-squire), [Phil Squire](/councillors/current/p-squire), [Paul Hubert](/councillors/current/p-hubert), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park), [Tanya Park](/councillors/current/t-park)
+**Yea (3):** [Phil Squire](/councillors/current/p-squire), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
+
+</details>
+
+### 17. Wharncliffe Road
+  South Environmental Study Report
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Phil Squire](/councillors/current/p-squire), [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
 
 </details>
 

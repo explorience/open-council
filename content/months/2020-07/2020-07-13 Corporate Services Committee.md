@@ -329,7 +329,7 @@ The meeting adjourned at 1:19 PM.
 
 ## Votes
 
-*4 substantive votes at this meeting (0 contested, 4 unanimous). Procedural motions excluded.*
+*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -337,15 +337,7 @@ The meeting adjourned at 1:19 PM.
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
-
-### 2.6. Industrial Land Development Strategy - Annual Monitoring and Pricing Report - City-Owned Industrial Land
-
-> That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, on the advice of the Manager of Realty Services with respect to the City of London’s Industrial Land Development Strategy, the following actions be taken with respect to the annua...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 5.1. (ADDED) Remuneration for Elected Officials and Appointed Citizens
 
@@ -353,7 +345,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 5.2. (ADDED) Declaration of Mutual Commitment and Friendship with Ontario Federation of Indigenous Friendship Centres
 
@@ -361,5 +353,5 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 

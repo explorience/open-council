@@ -808,7 +808,7 @@ The meeting adjourned at 8:07 PM
 
 ## Votes
 
-*11 substantive votes at this meeting (0 contested, 11 unanimous). Procedural motions excluded.*
+*8 substantive votes at this meeting (0 contested, 8 unanimous). Procedural motions excluded.*
 
 ### 1.2. Election of Vice Chair for the term ending November 30, 2019
 
@@ -816,7 +816,7 @@ The meeting adjourned at 8:07 PM
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 2. Consent
 
@@ -824,7 +824,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 2.1. Application - 800 Sunningdale Road West - Request for a Three (3) Year Extension of Draft Plan of Subdivision Approval 39T-05508
 
@@ -832,7 +832,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 3.1. Delegation - S. Levin, Chair, Environmental and Ecological Planning Advisory Committee - 12th Report of the Environmental and Ecological Planning Advisory Committee
 
@@ -840,31 +840,7 @@ Unanimous (2-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
-
-### 3.2. Delegation - M. Whalley, Vice Chair, London Advisory Committee on Heritage - 11th Report of the London Advisory Committee on Heritage
-
-> That, the following actions be taken with respect to the 11th Report of the London Advisory Committee on Heritage from its meeting held on November 14, 2018: a)            M. Knieriem, Planner II, BE ADVISED that the London Advisory Committee on Heritage is satisfied with the research, assessment...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.3. Public Participation Meeting - Application - 172-174 and 176 Pond Mills Road (Z-8944)
-
-> That, on the recommendation of the Senior Planner, Development Services, based on the application by Drewlo Holdings Inc., relating to lands located at 172-174 and 176 Pond Mills Road, the proposed by-law appended to the staff report dated December 10, 2018 BE INTRODUCED at the Municipal Council ...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.4. Public Participation Meeting - Application - 747, 759 and 765 Hyde Park Road (O-8939/Z-8940)
-
-> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application of the Corporation of the City of London and Goodwill Industries, relating to the property located at 747, 759 and 765 Hyde Park Road: a)         the proposed by-law a...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 3.6. Public Participation Meeting - 446 York Street (Z-8971)
 
@@ -872,7 +848,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 4.1. Request for Delegation Status - J. P. Plutino, Mainline Planning Services Inc. - 6188 Colonal Talbot Road
 
@@ -880,7 +856,7 @@ Unanimous (2-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 5. Deferred Matters/Additional Business
 
@@ -888,7 +864,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 5.1. PEC Deferred Matters List
 
@@ -896,5 +872,5 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 

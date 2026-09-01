@@ -628,7 +628,7 @@ The meeting adjourned at 5:48 PM.
 
 ## Votes
 
-*6 substantive votes at this meeting (2 contested, 4 unanimous). Procedural motions excluded.*
+*5 substantive votes at this meeting (2 contested, 3 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -636,7 +636,7 @@ The meeting adjourned at 5:48 PM.
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 2.4. Single Source Procurement - Greenway Reheater
 
@@ -644,7 +644,7 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 2.8. Amendments to the Traffic and Parking By-law
 
@@ -652,7 +652,7 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 2.9. 2020 Annual New Sidewalk Program
 
@@ -663,19 +663,13 @@ Unanimous (2-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (1):** [Shawn Lewis](/councillors/current/s-lewis)
+**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Phil Squire](/councillors/current/p-squire)
 
 **Nay (1):** [Michael van Holst](/councillors/current/m-van-holst)
 
+**Absent (2):** [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/current/e-holder)
+
 </details>
-
-### 2.19. Work Approval Permit Program Enhancements
-
-> That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer and Managing Director, Development and Compliance Services and Chief Building Official, the Work Approval Permit Program BE MODIFIED in general accordance with the recommendations contai...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (2-0)
 
 ### 4.2. Councillor M. van Holst - Best Practices for Investing in Energy Efficiency and Greenhouse Gas Reduction
 
@@ -686,9 +680,11 @@ Unanimous (2-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (1):** [Shawn Lewis](/councillors/current/s-lewis)
+**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Michael van Holst](/councillors/current/m-van-holst)
 
 **Nay (1):** [Phil Squire](/councillors/current/p-squire)
+
+**Absent (2):** [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/current/e-holder)
 
 </details>
 

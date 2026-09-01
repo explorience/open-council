@@ -2525,3 +2525,319 @@ Approve 3rd reading and enactment of Bill
 
 Motion Passed
 
+---
+
+## Votes
+
+*32 substantive votes at this meeting (4 contested, 28 unanimous). Procedural motions excluded.*
+
+### 1#7. Disclosures of Pecuniary Interest
+
+> Approve clause 1.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 11#2. Welcoming the World
+  to London Campaign
+
+> At 8:09 PM, Mayor J.F. Fontana resumes the   Chair and Councillor Hubert takes his seat at the Council Board.
+
+**❌ Motion Failed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Paul Hubert](/councillors/current/p-hubert), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Joni Baechler](/councillors/current/j-l-baechler), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant)
+
+**Nay (7):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher), [Stephen Orser](/councillors/current/s-orser), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Denise Brown](/councillors/current/d-brown)
+
+</details>
+
+### 2#8. Election of Chair
+  and Vice-Chair for the term ending November 30, 2013
+
+> That Councillor M. Brown BE ELECTED Chair   and Councillor P. Hubert BE ELECTED Vice Chair of the Audit Committee for the   term ending November 30, 2013.
+
+**✅ Motion
+Passed**
+
+Unanimous (14-0)
+
+### 2#8. Election of Chair
+  and Vice-Chair for the term ending November 30, 2013
+
+> Approve that, as a procedural matter pursuant to Section 239 (6) of the Municipal   Act, 2001, the following recommendation be forwarded to City Council for   deliberation and a vote in public session:   1.                 That,   on the recommendation of the Director Corporate Investments & Part...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 2#8. Election of Chair
+  and Vice-Chair for the term ending November 30, 2013
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 2#8. Election of Chair
+  and Vice-Chair for the term ending November 30, 2013
+
+> 1.              Disclosures   of Pecuniary Interest.    That it BE NOTED that no pecuniary   interests were disclosed.   2.          Joint Venture   – Fit Program   That the following actions be taken with   respect to the proposed Joint Venture Agreement between London Hydro Inc. and   the Londo...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant), [Denise Brown](/councillors/current/d-brown)
+
+**Nay (1):** [Harold Usher](/councillors/current/h-l-usher)
+
+</details>
+
+### 3#6. Comments on
+  Environmental Bill of Rights Registry Ontario Ministry of Transportation's
+  Cycling Strategy.
+
+> That, on the recommendation of the   Director, Environmental Programs & Solid Waste and the Director, Roads   & Transportation, the attached comments BE APPROVED and   submitted by London Municipal Council to the Ministry of Transportation by   January 29th, 2013 in response to the Environmental ...
+
+**✅ Motion
+Passed**
+
+Unanimous (14-0)
+
+### 4#4. Performing Arts
+  Centre Proposal
+
+> That the communications dated November 28   and 30, 2012, and the delegation request from S. Farhi, President, Farhi   Holdings Corporation, with respect to his proposals for a Performing Arts   Centre at the Forks or in the area of Queens Avenue and Ridout Street BE   RECEIVED and BE REFERRED to...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 4#5. Update on Landfill
+  Gas Utilization.
+
+> Amend clause 4 in part b) to add the   words “including other possible models” after the word “options”, and to add   an “it being noted that a full report related to biosolids will be coming   forward at a future date.”
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 5#4. Proposed Change of
+  Use of the London Normal School
+
+> That W. Komer, Co-founder, CLW Holdings and   KoolGroups and their partners BE GRANTED delegation status at the next   Investment and Economic Prosperity Committee (IEPC) meeting to bring forth an   alternate proposal for a technology development centre facility; it being   noted that the IEPC re...
+
+**✅ Motion
+Passed**
+
+Unanimous (14-0)
+
+### 5#5. Joint Venture - Fit
+  Program
+
+> That the communication dated January 7,   2013 from P. Johnson, Chair, London Hydro Inc., BE REFERRED to a special   meeting of the Strategic Priorities and Policy Committee prior to the January   15, 2013 Council meeting.
+
+**✅ Motion
+Passed**
+
+Unanimous (14-0)
+
+### 7#2. Food Truck Proposal
+
+> That the request for delegation status from   M. Navakas, with respect to a food truck proposal, BE REFERRED to the Civic   Administration for review and report back at a future meeting of the   Community and Protective Services Committee.
+
+**✅ Motion
+Passed**
+
+Unanimous (14-0)
+
+### IV. COMMITTEE
+  OF THE WHOLE, IN CAMERA
+
+> That Council rise   and go into Committee of the Whole, in camera, for the purpose of considering   the following:
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### VI. CONFIRMATION
+  AND SIGNING OF THE MINUTES OF THE FIRST MEETING HELD ON DECEMBER 11, 2012
+
+> Approve the Minutes of the 1st   Meeting held on December 11, 2012.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### XI. ENQUIRIES
+
+> Approve leave to introduce a substantive   motion with respect to the Glanworth Library.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### XI. ENQUIRIES
+
+> Approve that   the Civic Administration BE DIRECTED That the Civic   Administration BE DIRECTED to find a source of financing for   $1,975.00, in order to top up the Infrastructure Funding awarded to the   Glanworth Library Branch to $100,000.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### XIII. BY-LAWS
+
+> Approve Leave to introduce Added By-laws   69 and 70.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### XIII. BY-LAWS
+
+> Approve 1st reading of Bill No.s 35 to 70,   except Bill No.s 45, 52, 54 and 68.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### XIII. BY-LAWS
+
+> Approve 2nd reading of Bill No.s 35 to   70, except Bill No.s 45, 52, 54 and 68.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### XIII. BY-LAWS
+
+> Approve 3rd reading and enactment of all Bill   No.s 35 to 70, except Bill No.s 45, 52, 54 and 68.
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### XIII. BY-LAWS
+
+> Approve 1st reading of Bill No.s 45 and   68.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### XIII. BY-LAWS
+
+> Approve 2nd  reading of Bill No.s 45 and   68.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### XIII. BY-LAWS
+
+> Approve 3rd reading and enactment of Bill   No.s 45 and 68.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### XIII. BY-LAWS
+
+> Approve 1st reading of Bill No.s 52   and 54.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### XIII. BY-LAWS
+
+> Approve 2nd reading of Bill No.s 52 and   54.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### XIII. BY-LAWS
+
+> Approve 3rd reading and enactment of Bill   No.s 52 and 54.
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 16. Property located at
+  527 Wellington Road South
+
+> Amend clause 16 by adding at the end the words   "; and staff BE REQUESTED to make the report available to the public as   soon as possible in advance of the meeting."
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 17. Hamilton Road
+  Businesses
+
+> That the Civic Administration BE REQUESTED   to study the Hamilton Road area to allow businesses to open without having   parking on their property.
+
+**✅ Motion
+Passed**
+
+Unanimous (14-0)
+
+### 21. 2013 World Figure
+  Skating Championships
+
+> Amend clause 21 to read as follows:   “That the following actions be taken with   respect to the 2013 World Figure Skating Championships:   a)              the   Civic Administration BE ADVISED that it is the Municipal Council’s   expectation that the Civic Administration will continue to assist,...
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 21. 2013 World Figure
+  Skating Championships
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Nancy Branscombe](/councillors/current/n-branscombe), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant)
+
+**Nay (4):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Dale Henderson](/councillors/current/d-g-henderson), [Denise Brown](/councillors/current/d-brown)
+
+</details>
+
+### 21. 2013 World Figure
+  Skating Championships
+
+> Amend clause 21 to add a new part c, as   follows:   "c)       the   Civic Administration BE AUTHORIZED to transfer up to a maximum of $100,000   from the Operating Budget Contingency Reserve to Corporate Communications in   2013 to implement the “Welcoming the World to London” marketing   commun...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Joe Fontana](/councillors/current/j-f-fontana), [Joe Swan](/councillors/current/j-b-swan), [Stephen Orser](/councillors/current/s-orser), [Joni Baechler](/councillors/current/j-l-baechler), [Dale Henderson](/councillors/current/d-g-henderson), [Bud Polhill](/councillors/current/b-polhill), [Sandy White](/councillors/current/s-white), [Judy Bryant](/councillors/current/j-p-bryant)
+
+**Nay (4):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/current/m-brown), [Nancy Branscombe](/councillors/current/n-branscombe), [Denise Brown](/councillors/current/d-brown)
+
+</details>
+
+### 22. Advancement in
+  Lighting Technology
+
+> That the Civic Administration BE REQUESTED   to report back to the Civic Works Committee with respect to what steps are   being taken, and may be taken, to take advantage of energy and cost savings   arising from advancements in lighting technology.
+
+**✅ Motion
+Passed**
+
+Unanimous (14-0)
+

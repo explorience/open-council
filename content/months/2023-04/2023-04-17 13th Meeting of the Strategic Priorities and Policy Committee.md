@@ -157,7 +157,7 @@ The meeting adjourned at 4:18 PM.
 
 **✅ Motion Passed (14 to 0)**
 
-Unanimous (12-0)
+Unanimous (14-0)
 
 ### 4.1. Council's 2023-2027 Strategic Plan
 
@@ -165,5 +165,5 @@ Unanimous (12-0)
 
 **✅ Motion Passed (14 to 0)**
 
-Unanimous (12-0)
+Unanimous (14-0)
 

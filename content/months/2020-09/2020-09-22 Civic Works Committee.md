@@ -384,7 +384,7 @@ The meeting adjourned at 1:18 PM.
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 2.11. Environmental Assessment Process - Updates and Preferred Method to Expand the W12A Landfill
 
@@ -392,7 +392,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4.1. Street Renaming By-law, Policies and Guidelines - Councillor E. Peloza
 
@@ -403,7 +403,9 @@ Unanimous (3-0)
 <details>
 <summary>View roll call</summary>
 
-**Nay (1):** [Shawn Lewis](/councillors/current/s-lewis)
+**Yea (2):** [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Nay (3):** [Shawn Lewis](/councillors/current/s-lewis), [Elizabeth Peloza](/councillors/current/e-peloza), [Maureen Cassidy](/councillors/current/m-cassidy)
 
 **Absent (1):** [Ed Holder](/councillors/current/e-holder)
 
@@ -415,5 +417,5 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 

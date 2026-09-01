@@ -628,7 +628,7 @@ The meeting adjourned at 7:04 PM.
 
 ## Votes
 
-*8 substantive votes at this meeting (2 contested, 6 unanimous). Procedural motions excluded.*
+*6 substantive votes at this meeting (2 contested, 4 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -636,18 +636,18 @@ The meeting adjourned at 7:04 PM.
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 3.1. Application - 1284 and 1388 Sunningdale Road West - Application for Zoning By-law Amendment  - Request for Revisions to the Draft Plan of Subdivision 39T-04510 (Z-9216)
 
 > That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by Auburn Developments Ltd., relating to portions of the lands located at 1284 and 1388 Sunningdale Road West: a) the proposed by-law appended to the staff report date...
 
-**✅ Motion Passed (5 to 1) 🔥**
+**✅ Motion Passed (5 to 1)**
 
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Ed Holder](/councillors/current/e-holder), [Maureen Cassidy](/councillors/current/m-cassidy), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+**Yea (5):** [Anna Hopkins](/councillors/current/a-hopkins), [Ed Holder](/councillors/current/e-holder), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Arielle Kayabaga](/councillors/current/a-kayabaga)
 
 **Nay (1):** [Jesse Helmer](/councillors/current/j-helmer)
 
@@ -657,32 +657,16 @@ Unanimous (3-0)
 
 > That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by 1830145 Ontario Limited, relating to the property located at 1761 Wonderland Road North: a) the proposed by-law appended to the staff report dated November 30, 2020...
 
-**✅ Motion Passed (5 to 1) 🔥**
+**✅ Motion Passed (5 to 1)**
 
 <details>
 <summary>View roll call</summary>
 
-**Yea (3):** [Ed Holder](/councillors/current/e-holder), [Jesse Helmer](/councillors/current/j-helmer), [Arielle Kayabaga](/councillors/current/a-kayabaga)
+**Yea (5):** [Anna Hopkins](/councillors/current/a-hopkins), [Ed Holder](/councillors/current/e-holder), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Arielle Kayabaga](/councillors/current/a-kayabaga)
 
 **Nay (1):** [Stephen Turner](/councillors/current/s-turner)
 
 </details>
-
-### 3.3. Protected Major Transit Station Areas (PMTSAs) (O-9208)
-
-> That, on the recommendation of the Director, City Planning and City Planner, based on the application by The Corporation of the City of London, relating to Protected Major Transit Station Areas (PMTSAs), the proposed by-law appended to the staff report dated November 30, 2020 BE INTRODUCED at the...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
-
-### 3.4. Application - 820 Cabell Street (Z-9196)
-
-> That, on the recommendation of the Director, City Planning & City Planner, based on the application by Bruce Sworik (1625993 Ontario Limited), relating to the property located at 820 Cabell Street, the proposed by-law appended to the staff report dated November 30, 2020  BE INTRODUCED at the Muni...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
 
 ### 3.5. Implementing Additional Residential Units Requirements of the Planning Act (Bill 108) (OZ-9176)
 
@@ -690,7 +674,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 4.1. E. Wyatt, Ontario Clean Air Alliance - Phasing-Out Ontario's Gas Fired Power Plants - Request for Delegation Status
 
@@ -698,7 +682,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 4.1. E. Wyatt, Ontario Clean Air Alliance - Phasing-Out Ontario's Gas Fired Power Plants - Request for Delegation Status
 
@@ -706,5 +690,5 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 

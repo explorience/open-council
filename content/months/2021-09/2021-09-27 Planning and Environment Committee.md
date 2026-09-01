@@ -256,53 +256,6 @@ None.
 
 
 The meeting adjourned at 5:33 PM.
-
----
-
-## Votes
-
-*4 substantive votes at this meeting (1 contested, 3 unanimous). Procedural motions excluded.*
-
-### 2.1. 995 Fanshawe Park Road West - Request for Extension of Draft Plan Approval (39T-05512)
-
-> That, on the recommendation of the Director, Planning and Development, based on the application by Landea Developments Inc., relating to the property located at 995 Fanshawe Park Road West, the Approval Authority BE REQUESTED to approve a three (3) year extension to Draft Plan Approval for the re...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (2-0)
-
-### 3.1. 1235 Fanshawe Park Road West (39CD-21510)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Tyler Peers, on behalf of Calloway REIT (Fox Hollow) Inc., relating to the property located at 1235 Fanshawe Park Road West:     a)    the Approval Authority BE...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (2-0)
-
-### 3.2. 1938 & 1964 Commissioners Road East (39T-19501/Z-9015)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Sifton Properties Limited relating to the properties located at 1938 and 1964 Commissioners Road East:     a)    the Approval Authority BE ADVISED that no issue...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 4.1. 2631 Hyde Park Road and 1521 Sunningdale Road West
-
-> That, the following updated instructions be given to Civic Administration relating to the properties located at 2631 Hyde Park Road and 1521 Sunningdale Road West: a)    the Civic Administration BE REQUESTED to work with the Applicant to facilitate the necessary zoning by-law amendment(s) within ...
-
-**✅ Motion Passed (4 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Shawn Lewis](/councillors/current/s-lewis), [Phil Squire](/councillors/current/p-squire)
-
-**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
-
-**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
 ---
 
 ## Full Transcript
@@ -821,3 +774,43 @@ Mayor. Closing the vote, the motion carries 4 to 1. There are no deferred matter
 Mayor, you don't say anything to put up your hand? Excellent. All right, where adjourned, have a great evening, everyone. Thanks for your help, and thank you very much for the very, very good debate.
 
 </details>
+
+---
+
+## Votes
+
+*3 substantive votes at this meeting (1 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2.1. 995 Fanshawe Park Road West - Request for Extension of Draft Plan Approval (39T-05512)
+
+> That, on the recommendation of the Director, Planning and Development, based on the application by Landea Developments Inc., relating to the property located at 995 Fanshawe Park Road West, the Approval Authority BE REQUESTED to approve a three (3) year extension to Draft Plan Approval for the re...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 3.2. 1938 & 1964 Commissioners Road East (39T-19501/Z-9015)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Sifton Properties Limited relating to the properties located at 1938 and 1964 Commissioners Road East:     a)    the Approval Authority BE ADVISED that no issue...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.1. 2631 Hyde Park Road and 1521 Sunningdale Road West
+
+> That, the following updated instructions be given to Civic Administration relating to the properties located at 2631 Hyde Park Road and 1521 Sunningdale Road West: a)    the Civic Administration BE REQUESTED to work with the Applicant to facilitate the necessary zoning by-law amendment(s) within ...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Ed Holder](/councillors/current/e-holder), [Phil Squire](/councillors/current/p-squire)
+
+**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
+
+**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+

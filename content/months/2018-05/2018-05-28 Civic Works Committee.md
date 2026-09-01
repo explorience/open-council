@@ -399,7 +399,7 @@ The meeting adjourned at 1:39 PM.
 
 ## Votes
 
-*7 substantive votes at this meeting (1 contested, 6 unanimous). Procedural motions excluded.*
+*7 substantive votes at this meeting (2 contested, 5 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -407,7 +407,7 @@ The meeting adjourned at 1:39 PM.
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 2.3. Hamilton Road and Highbury Avenue Intersection Improvements -  Environmental Study Report
 
@@ -415,7 +415,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 2.6. High Speed Rail
 
@@ -423,7 +423,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 2.7. Railway Rationalization
 
@@ -431,7 +431,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2.9. Updates - Proposed Amended Blue Box Program Plan - Food and Organic Waste Framework & Policy Statement - Next Steps
 
@@ -439,15 +439,22 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
-### 5.2. (ADDED) 6th Report of the Cycling Advisory Committee
+### 5.1. Deferred Matters List
 
-> That the following actions be taken with respect to the 6th Report of the Cycling Advisory Committee, from its meeting held on May 16, 2018: a)            the Civic Administration BE ADVISED that the Cycling Advisory Committee supports the option of a raised cycle track, with the appropriate mark...
+> That the Civic Works Committee Deferred List, as at May 17, 2018, BE RECEIVED.
 
-**✅ Motion Passed (6 to 0)**
+**✅ Motion Passed (5 to 1)**
 
-Unanimous (4-0)
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Tanya Park](/councillors/current/t-park)
+
+**Nay (1):** [Harold Usher](/councillors/current/h-l-usher)
+
+</details>
 
 ### 5.3. (ADDED) Clear Garbage Bags
 
@@ -458,7 +465,9 @@ Unanimous (4-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Paul Hubert](/councillors/current/p-hubert), [Tanya Park](/councillors/current/t-park)
+**Yea (4):** [Phil Squire](/councillors/current/p-squire), [Paul Hubert](/councillors/current/p-hubert), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park)
+
+**Nay (2):** [Matt Brown](/councillors/current/m-brown), [Virginia Ridley](/councillors/current/v-ridley)
 
 </details>
 

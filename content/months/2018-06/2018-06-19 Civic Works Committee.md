@@ -433,7 +433,7 @@ The meeting adjourned at 5:14 PM
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 2.2. Amendments to the Traffic and Parking By-law
 
@@ -441,7 +441,7 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 4.1. Innovate4Cities - A Global Climate Action Accelerator - Edmonton Declaration
 
@@ -449,7 +449,7 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 4.2. Cycling Advisory Committee and Transportation Advisory Committee
 
@@ -457,5 +457,5 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 

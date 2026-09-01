@@ -512,7 +512,7 @@ The meeting adjourned at 5:57 PM.
 
 ## Votes
 
-*7 substantive votes at this meeting (0 contested, 7 unanimous). Procedural motions excluded.*
+*5 substantive votes at this meeting (0 contested, 5 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -520,7 +520,7 @@ The meeting adjourned at 5:57 PM.
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 3.1. Delegation - S. Levin, Chair, Environmental and Ecological Planning Advisory Committee - 6th Report of the Environmental and Ecological Planning Advisory Committee
 
@@ -528,15 +528,7 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
-
-### 3.3. Public Participation Meeting - Application - 1170 Wellington Road (Z-9013)
-
-> That, on the recommendation of the Director, Development Services,  based on the application by WLR Capital Inc., c/o Zelinka Priamo Ltd., relating to the property located at 1170 Wellington Road, the proposed by-law appended to the staff report dated June 4, 2019 BE INTRODUCED at the Municipal C...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 3.4. Public Participation Meeting - Application - 3087 White Oak Road - 39T-18505 (Z-8980)
 
@@ -544,15 +536,7 @@ Unanimous (2-0)
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
-
-### 3.5. Public Participation Meeting - Repeal of Building By-law B-6 and Proposed Building By-law B-7
-
-> That on the recommendation of the Managing Director, Development and Compliance Services & Chief Building Official, the proposed by-law appended to the staff report dated June 4, 2019, being “A By-law to provide for the construction, demolition, change of use, occupancy permits, transfer of permi...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (2-0)
+Unanimous (4-0)
 
 ### 4.1. M. Rivard, Stantec - Application - 123 Queens Avenue - Demolition Request Extension
 
@@ -560,7 +544,7 @@ Unanimous (2-0)
 
 **✅ Motion Passed (3 to 0)**
 
-Unanimous (1-0)
+Unanimous (3-0)
 
 ### 5.1. Deferred Matters List
 
@@ -568,5 +552,5 @@ Unanimous (1-0)
 
 **✅ Motion Passed (3 to 0)**
 
-Unanimous (1-0)
+Unanimous (3-0)
 

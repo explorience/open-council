@@ -320,7 +320,7 @@ The meeting adjourned at 4:29 PM.
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2.7. By-law and Vehicle Lease Agreements - Urban Animal Management Inc. and Tourism London
 
@@ -328,7 +328,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 2.8. Kilally Fields - Closing of Elgin Street on Registered Plan 325(C)
 
@@ -336,5 +336,5 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 

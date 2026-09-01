@@ -2079,3 +2079,220 @@ Approve Third Reading and Enactment of Bill
 
 # XIV.&nbsp;&nbsp;&nbsp;ADJOURNMENT
 
+---
+
+## Votes
+
+*16 substantive votes at this meeting (8 contested, 8 unanimous). Procedural motions excluded.*
+
+### 1#2. Disclosures of
+  Pecuniary Interest
+
+> Approve clause 1, as amended.
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 11#2. 11th Report on the
+  London Advisory Committee on Heritage
+
+> That the following actions be taken with   respect to the 11th Report of the London Advisory Committee on Heritage from   its meeting held on September 13, 2017:   a)              the   following actions be taken with respect to the notice of application to amend   the Official Plan and Zoning By...
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 12#2. Properties located
+  at 1635 Commissioners Road East and 2624 Jackson Road - Approval for Draft
+  Plan Subdivisions Official Plan and Zoning By-law Amendments and Application
+  by The Corporation of The City of London re properties located at 1663, 1685
+  Commissioners Road East and 2652 Jackson Road - Official Plan Amendment
+  (39T-06507/OZ-7176/0-7178) (Relates to Bill No.s 583, 584 and 596)
+
+> Approve that clause 12, of the 18th Report of the Planning and Environment Committee, with respect to the   application of 748094 Ontario Ltd., and 2624 Jackson Road Inc., for the lands   located at 1635 Commissioners Road East and 2624 Jackson Road and the   application by the City of London, re...
+
+**✅ Motion Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley)
+
+**Nay (5):** [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Harold Usher](/councillors/current/h-l-usher)
+
+</details>
+
+### 13#2. Request from
+  Municipality of Middlesex Centre: Arva Sanitary Servicing and Delaware Water
+  Servicing
+
+> Approve that clause 13 be further   amended by adding the following new part c):
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+
+### 13#2. Request from
+  Municipality of Middlesex Centre: Arva Sanitary Servicing and Delaware Water
+  Servicing
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (5):** [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert)
+
+</details>
+
+### 13#2. Request from
+  Municipality of Middlesex Centre: Arva Sanitary Servicing and Delaware Water
+  Servicing
+
+> Approve clause 13, as amended
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Bill Armstrong](/councillors/current/b-armstrong), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (4):** [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/current/m-cassidy), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert)
+
+</details>
+
+### 5#2. One River
+  Environmental Assessment Update: Agency Advisory Committee Report
+
+> That, on the recommendation of the Managing   Director, Environmental and Engineering Services and City Engineer, the   following actions be taken with respect to the One River Environmental   Assessment Agency Advisory Committee Report:   a)         the   One River Environmental Assessment Agenc...
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (1):** [Mo Salih](/councillors/current/m-salih)
+
+</details>
+
+### 5#3. Subdivision Special
+  Provisions - Coronation Subdivision (39T-15502)
+
+> That, on the recommendation of the Manager,   Development Planning, the following actions be taken with respect to entering   into a Subdivision Agreement between The Corporation of the City of London   and Banman Developments (West) Inc., for the subdivision of land over Part of   Lot 24, Conces...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 9#2. Agreement Renewal -
+  Thames River Experimental Stream Science Facility at Adelaide Pollution
+  Control Plant (Relates to Bill No. 581)
+
+> That, on the recommendation of the Managing   Director, Environmental and Engineering Services and City Engineer, the   following actions be taken with respect to a Consent to Enter Agreement with   Western University:   a)         the   proposed by-law appended to the staff report dated Septembe...
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### V. CONFIRMATION
+  AND SIGNING OF THE MINUTES OF THE TWENTY-THIRD MEETING HELD ON SEPTEMBER 19, 2017
+
+> Approve the Minutes of the Twenty-Third   meeting held on September 19, 2017.
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### VII. MOTIONS OF
+  WHICH NOTICE IS GIVEN
+
+> Approve that pursuant to section 6.4 of   the Council Procedure By-law, the order of business be changed to permit   consideration of clause 16 of the 15th Report of the Civic Works Committee at   this time.
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (2):** [Josh Morgan](/councillors/current/j-morgan), [Phil Squire](/councillors/current/p-squire)
+
+</details>
+
+### 3. C. Saunders, City
+  Clerk - Clause 6 – 26th Report of the Corporate Services Committee – Council
+  Policy – Policy for the Use of City of London Resources for Municipal
+  Election Purposes
+ 
+(Refer to the Corporate Services Committee
+  Stage for Consideration with Clause 6 of the 26th Report of the Corporate
+  Services Committee )
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 6. Council Policy -
+  Use of Corporate Resources During an Election Period (Relates to Bill No.585)
+
+> Approve that   clause 6 of the 26th Report of the Corporate Services Committee and the   related Communication No. 3 with respect to the Council Policy entitled “Use   of Corporate Resources During a Municipal Election Year”, BE REFERRED back to   the Corporate Services Committee for additional d...
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 16. Warranted Sidewalk Program
+
+> Approve that clause 16 be amended by   adding the following new part b):   b)         the   Managing Director, Environmental and Engineering Services and City Engineer   BE REQUESTED to make the following amendment to the placement of sidewalks on   Regal Drive:   i)          the   sidewalk to be...
+
+**❌ Motion Failed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Stephen Turner](/councillors/current/s-turner)
+
+**Nay (11):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Matt Brown](/councillors/current/m-brown), [Bill Armstrong](/councillors/current/b-armstrong), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Jared Zaifman](/councillors/current/j-zaifman)
+
+</details>
+
+### 16. Warranted Sidewalk Program
+
+> Approve that clause 16 be amended by   adding the following new part b):
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/current/m-van-holst), [Mo Salih](/councillors/current/m-salih), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Phil Squire](/councillors/current/p-squire), [Stephen Turner](/councillors/current/s-turner), [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Virginia Ridley](/councillors/current/v-ridley), [Harold Usher](/councillors/current/h-l-usher), [Tanya Park](/councillors/current/t-park), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (1):** [Bill Armstrong](/councillors/current/b-armstrong)
+
+</details>
+
+### 16. Warranted Sidewalk Program
+
+> Approve clause 16, as amended.
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+

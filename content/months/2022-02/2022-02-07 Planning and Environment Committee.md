@@ -422,7 +422,7 @@ The meeting adjourned at 5:55 PM.
 
 ## Votes
 
-*5 substantive votes at this meeting (0 contested, 5 unanimous). Procedural motions excluded.*
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -430,31 +430,7 @@ The meeting adjourned at 5:55 PM.
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
-
-### 3.1. 2624 Jackson Road and 1635 Commissioners Road East (Z-9449)
-
-> That, on the recommendation of the Director, Planning and Development, with respect to the application by Drewlo Holdings Inc. relating to lands located within the Parker Jackson Subdivision – Phase 1, known municipally as 2624 Jackson Road and 1635 Commissioners Road East, the proposed by-law ap...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.2. 475 Grey Street (OZ-9406)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by 2810645 Ontario Inc., relating to the property located at 475 Grey Street: a)    the proposed by-law appended to the staff report dated February 7, 2022 as Appe...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
-
-### 3.3. 346, 370 and 392 South Street & 351, 373 and 385 Hill Street
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Vision SoHo Alliance, relating to the properties located at 346, 370 and 392 South Street and 351, 373 and 385 Hill Street: a)  the Approval Authority BE ADVISE...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4.1. Inclusionary Zoning
 
@@ -462,5 +438,5 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 

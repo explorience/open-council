@@ -285,7 +285,7 @@ The meeting adjourned at 5:20 PM.
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4.1. A. Johnson, Greenspace Alliance - Greenspace Protection at the Former River Road Golf Course, Ward 1
 
@@ -293,5 +293,5 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 

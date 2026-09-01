@@ -180,7 +180,7 @@ The meeting adjourned at 2:15 PM.
 
 ## Votes
 
-*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+*3 substantive votes at this meeting (1 contested, 2 unanimous). Procedural motions excluded.*
 
 ### 2.1. Access and Privacy Policy
 
@@ -188,7 +188,24 @@ The meeting adjourned at 2:15 PM.
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
+
+### 3.1. Annual Meeting Calendar
+
+> That the draft meeting calendar for the period of January 1, 2019 to December 1, 2019, reflecting the current meeting schedule, attached as Appendix B to the staff report dated September 11, 2018, BE APPROVED. it being noted that a communication dated August 30, 2018, from S. Levin was received; ...
+
+**✅ Motion Passed (3 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Matt Brown](/councillors/current/m-brown), [Paul Hubert](/councillors/current/p-hubert), [Jared Zaifman](/councillors/current/j-zaifman)
+
+**Nay (2):** [Michael van Holst](/councillors/current/m-van-holst), [Jesse Helmer](/councillors/current/j-helmer)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
 
 ### 4.1. Request of a Vehicle Donation to ReForest London
 
@@ -196,5 +213,5 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 

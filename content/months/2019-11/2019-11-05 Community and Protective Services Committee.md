@@ -298,7 +298,7 @@ The meeting adjourned at 4:43 PM.
 
 ## Votes
 
-*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
 
 ### 4.1. Maintenance of Vacant Properties - Councillor A. Kayabaga
 
@@ -306,7 +306,7 @@ The meeting adjourned at 4:43 PM.
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 4.2. Request for Support of the Canadian Urban Libraries Council (CULC) e-Content Campaign
 
@@ -314,13 +314,5 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
-
-### 4.3. Position Statement - Vaping in Schools and Student Health - D. Bowman - Request for Delegation Status
-
-> That the following actions be taken with respect to the communication from D. Bowman, University of Western Ontario, related to a request for delegation status to speak to the Community and Protective Services Committee (CPSC) with respect to vaping in schools: a)            the above-noted deleg...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
+Unanimous (5-0)
 

@@ -288,7 +288,7 @@ The meeting adjourned at 1:23 PM.
 
 ## Votes
 
-*4 substantive votes at this meeting (0 contested, 4 unanimous). Procedural motions excluded.*
+*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -296,15 +296,7 @@ The meeting adjourned at 1:23 PM.
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
-
-### 2.5. London Community Recovery Network – Ideas for Action by Municipal Council
-
-> That, on the recommendation of the City Manager and the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the following actions be taken with respect to the London Community Recovery Network:    a)   the implementation plans for the following ideas for action subm...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 4.1. Application - Issuance of Proclamation - Personal Support Worker Day
 
@@ -312,7 +304,7 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 
 ### 5.1. Paid Sick Leave Enhancement
 
@@ -320,5 +312,5 @@ Unanimous (4-0)
 
 **✅ Motion Passed (6 to 0)**
 
-Unanimous (4-0)
+Unanimous (6-0)
 

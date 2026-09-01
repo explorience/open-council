@@ -128,20 +128,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 3:08 PM.
 
 ****
-
----
-
-## Votes
-
-*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
-
-### 2.1. Streamline Development Approval Fund – Transfer Payment Agreement
-
-> That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken:    a)    the proposed by-law as appended to the staff report dated February 15, 2022 as Appendix “A” BE INTRODUCED at the Municipal Council meeting on February 15, 2022, to: ...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (13-0)
 ---
 
 ## Full Transcript
@@ -198,3 +184,18 @@ We have no deferred matters, no additional business. So with that, I'll look for
 Closing the vote, the motion's passed 15 to zero. Clearly meeting adjourned. We'll see you all back at four o'clock. Thank you.
 
 </details>
+
+---
+
+## Votes
+
+*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
+
+### 2.1. Streamline Development Approval Fund – Transfer Payment Agreement
+
+> That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken:    a)    the proposed by-law as appended to the staff report dated February 15, 2022 as Appendix “A” BE INTRODUCED at the Municipal Council meeting on February 15, 2022, to: ...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+

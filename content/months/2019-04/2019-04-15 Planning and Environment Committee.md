@@ -1017,7 +1017,7 @@ The meeting adjourned at 8:43 PM.
 
 ## Votes
 
-*12 substantive votes at this meeting (2 contested, 10 unanimous). Procedural motions excluded.*
+*10 substantive votes at this meeting (4 contested, 6 unanimous). Procedural motions excluded.*
 
 ### 2. Consent
 
@@ -1025,15 +1025,7 @@ The meeting adjourned at 8:43 PM.
 
 **✅ Motion Passed (4 to 0)**
 
-Unanimous (2-0)
-
-### 3.1. Delegation - S. Levin, Chair, Environmental and Ecological Planning Advisory Committee - 4th Report of the Environmental and Ecological Planning Advisory Committee
-
-> That, the following actions be taken with respect to the 4th Report of the Environmental and Ecological Planning Advisory Committee from its meeting held on March 21, 2019: a)            the Civic Administration BE ASKED to involve the  Environmental and Ecological Planning Advisory Committee in ...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
+Unanimous (4-0)
 
 ### 3.2. Public Participation Meeting - Application - 3425 Emily Carr Lane (North Portion) - Draft Plan of Subdivision Approval and Zoning By-law Amendment 39T-18506 (Z-8988)
 
@@ -1041,15 +1033,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
-
-### 3.3. Public Participation Meeting - Application - 2170 Wharncliffe Road South (TZ-8999)
-
-> That, on the recommendation of the Director, Development Services, with respect to the application of Cedar Auto London Limited, relating to the property located at 2170 Wharncliffe Road South, the proposed by-law appended to the staff report dated April 15, 2019 BE INTRODUCED at the Municipal Co...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 3.4. Delegation - A. Tipping, Vice-Chair and M. A. Hodge, Advisory Committee on the Environment - 4th Report of the Advisory Committee on the Environment
 
@@ -1057,7 +1041,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 3.4. Delegation - A. Tipping, Vice-Chair and M. A. Hodge, Advisory Committee on the Environment - 4th Report of the Advisory Committee on the Environment
 
@@ -1065,7 +1049,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (5 to 0)**
 
-Unanimous (3-0)
+Unanimous (5-0)
 
 ### 3.4. Delegation - A. Tipping, Vice-Chair and M. A. Hodge, Advisory Committee on the Environment - 4th Report of the Advisory Committee on the Environment
 
@@ -1076,21 +1060,13 @@ Unanimous (3-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer)
+**Yea (4):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner)
 
 **Nay (1):** [Phil Squire](/councillors/current/p-squire)
 
 **Absent (1):** [Ed Holder](/councillors/current/e-holder)
 
 </details>
-
-### 3.5. Public Participation Meeting- Application - 1201 Huron Street (Z-8985)
-
-> That, on the recommendation of the Director, Development Services, based on the application by Agathos Dentistry, relating to the property located at 1201 Huron Street, the proposed by-law appended to the staff report dated April 15, 2019 BE INTRODUCED at the Municipal Council meeting to be held ...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (3-0)
 
 ### 3.6. Public Participation Meeting - Demolition Request for Heritage Listed Property - 160 Oxford Street East
 
@@ -1101,7 +1077,7 @@ Unanimous (3-0)
 <details>
 <summary>View roll call</summary>
 
-**Yea (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer)
+**Yea (4):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/current/j-helmer), [Maureen Cassidy](/councillors/current/m-cassidy), [Stephen Turner](/councillors/current/s-turner)
 
 **Nay (1):** [Phil Squire](/councillors/current/p-squire)
 
@@ -1109,13 +1085,39 @@ Unanimous (3-0)
 
 </details>
 
-### 3.7. Public Participation Meeting - 6682 Fisher Lane (Z-9002)
+### 3.8. Public Participation Meeting - Application - 536 and 542 Windermere Road (Z-8945)
 
-> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application of Joe Marche and Monique Rodriguez, relating to the property located at 6682 Fisher Lane: a)         the proposed by-law appended to the staff report dated April 15, ...
+> That, the following actions be taken with respect to the application of 2492222 Ontario Inc., relating to the property located at 536 and 542 Windermere Road: a)        Zoning By-law No. Z-.1 attached as Appendix B BE INTRODUCED at the Municipal Council meeting to be held on April 23, 2019 to cha...
 
-**✅ Motion Passed (5 to 0)**
+**❌ Motion Failed (2 to 2) 🔥**
 
-Unanimous (3-0)
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+**Nay (2):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire)
+
+**Absent (2):** [Ed Holder](/councillors/current/e-holder), [Stephen Turner](/councillors/current/s-turner)
+
+</details>
+
+### 3.8. Public Participation Meeting - Application - 536 and 542 Windermere Road (Z-8945)
+
+> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application of 2492222 Ontario Inc., relating to the property located at 536 and 542 Windermere Road: a)         the proposed by-law appended to the staff report dated April 15, 2...
+
+**❌ Motion Failed (2 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Jesse Helmer](/councillors/current/j-helmer), [Phil Squire](/councillors/current/p-squire)
+
+**Nay (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Maureen Cassidy](/councillors/current/m-cassidy)
+
+**Absent (2):** [Ed Holder](/councillors/current/e-holder), [Stephen Turner](/councillors/current/s-turner)
+
+</details>
 
 ### 4.2. Request for Delegation Status - R. Sidhu, Argyle Business Improvement Area - Community Improvement Plan (CIP) Study Request for the Argyle BIA and Surrounding Area
 
@@ -1123,7 +1125,7 @@ Unanimous (3-0)
 
 **✅ Motion Passed (3 to 0)**
 
-Unanimous (1-0)
+Unanimous (3-0)
 
 ### 5.1. (ADDED) 5th Report of the London Advisory Committee on Heritage
 
@@ -1131,5 +1133,5 @@ Unanimous (1-0)
 
 **✅ Motion Passed (3 to 0)**
 
-Unanimous (1-0)
+Unanimous (3-0)
 

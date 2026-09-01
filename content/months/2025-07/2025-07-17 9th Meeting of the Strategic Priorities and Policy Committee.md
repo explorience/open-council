@@ -515,81 +515,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 4:37 PM.
 
 ****
-
----
-
-## Votes
-
-*6 substantive votes at this meeting (3 contested, 3 unanimous). Procedural motions excluded.*
-
-### 2.1. 2nd Report of the Governance Working Group
-
-> That part b) be approved to read as follows: b)    the Civic Administration BE REQUESTED to report back to a future meeting of the Governance Working Group with an environmental scan of comparable municipalities regarding the selection process and role description for the position of Deputy Mayor...
-
-**❌ Motion Failed (5 to 10)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 4.2. London Transit Commission Governance - Councillor S. Franke, Chair, London Transit
-
-> That London Transit Commission Governance BE DEFERRED pending the outcome of the external governance review and report back to the Strategic Priorities and Policy Committee. it being noted that the Strategic Priorities and Policy Committee received a communication dated June 24, 2025 from Council...
-
-**✅ Motion Passed (14 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Skylar Franke](/councillors/current/s-franke)
-
-</details>
-
-### 4.3. Mobility Master Plan Notice of Completion
-
-> That the motion be amended in part b) to add the following wording "statutory 30-day public review and comment period to assist in guiding implementation"
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 4.3. Mobility Master Plan Notice of Completion
-
-> That parts a) and b) of the motion, as amended, BE APPROVED.
-
-**✅ Motion Passed (13 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-</details>
-
-### 4.3. Mobility Master Plan Notice of Completion
-
-> That part c) of the motion, as amended, BE APPROVED.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 4.4. 2024 Climate Emergency Action Plan Progress Report
-
-> That the delegation request from M. Shannon and M. Sye, Enbridge Gas Ontario BE APPROVED to be heard at this time.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
 ---
 
 ## Full Transcript
@@ -690,3 +615,94 @@ I also want to note to colleagues it's not the last time we're going to have him
 shelters or another clerk um is there currently anything the procedural by-law that would indicate how the terms of the deputy mayor go or the selection well I know the selection is always the mayor recommends and council as an entirety will say yay or nay um and if not is it procedurally in order to eventually create a something that would prescribe best practices always understanding it always do it notwithstanding flaws uh and change the appointments as we go I'll go to the clerk thank you uh through the presiding officer so section 2.5 simply indicates that in the absence of of the mayor uh the deputy mayor may act instead of the mayor and the council shall appoint an acting mayor to act in the place instead of mayor it goes on to talk about various rights um powers and authority now the council procedure by-law is simply a required by-law uh that council passes and that's distinct from any powers that may flow from uh municipal act or elsewhere and the municipal act uh is uh silent on uh much of the the deputy mayor um aspects now that depends on your interpretation of various parts of 6.1 and 6.1 deals with the strong mayor powers the mayor of course can delegate certain authorities so to answer your question uh is it procedurally in order to uh make changes to consider various options yes I would I would consider that it is uh council has the power to change its procedure by-law it could add uh definitions for uh various things within the procedure by-law and there are other municipalities that choose to do uh different things as uh one of the counselors has just mentioned councilor palissa thank you uh madam presenting officer uh fully aware of the the by-law for acting mayor powers uh when the mayor is unavailable and and appoints someone in his absence um I guess my my main point of interest is looking to see where the municipal act is silent if council does create something of best practices of this group of recommendations going forward for pre next councils to consider um having done an environmental scan and making recommendations realizing the next council at least have the information um and at any time could do not with standing and certainly do their own things um the motion before us wouldn't address it but part of my other concern is also at our inaugural meeting we make these decisions that in this case is a full term of council when so many are also new to the table and learning the process that there would be a document that they could refer to um for a conversation of a prior council of what they had found out and left as information for them to potentially consider that just my overall comments more procedural and interest and that was why i seconded councilor truss house motion thank you i'll look for other speakers about the deputy mayor go ahead thank you madam presiding officer so i'm new encourage colleagues to defeat uh this amendment by councilor trussow and return to the original recommendation of the governance working group um i won't speak to all the specifics of the entire discussion we had uh councilor frank had a a very uh clear direction to have an alternate so that if council was not to support the mayor's selection uh that the mayor would have to bring forward another name that's why this was referred to a future meeting so that the uh in specific administration could bring that back to us for approval before it came here i think we should stay the course on that and i speak to this uh being in the role now but also having worked with two prior deputy mayor's in my last term of council since the abolition of the board of control the appointment of the deputy mayor has been by bylaw the prerogative of the mayor to bring forward a selection it's actually a good policy because it allows every incoming mayor flexibility we had a mayor who brought forward uh a recommendation to appoint two deputy mayors that didn't turn out so well and then the next mayor decided to appoint a deputy mayor only for two years uh and then decided that he wanted to change course and appoint a different deputy mayor our current mayor chose to appoint a deputy mayor for four years all of those however would also be subject to the mayor deciding to go a different direction even mid-term um and change uh their recommendation for deputy mayor but i also think it's really important to underscore a couple of things yes strong mayor powers don't speak to the mayor being able to appoint the deputy mayor but you know what they do speak to the mayor whether it's our current mayor future mayors mayors and other cities mayors control the appointment of chairs of committees our current mayor has chosen to use those strong mayor powers to make chairing this committee the responsibility of the deputy mayor the audit committee the responsibility of the budget chair the governance working group the responsibility of the deputy mayor those are in a strong mayor direction so the mayor can in fact dictate without council's approval uh through a strong mayor direction what some of those deputy mayor duties are the mayor can also simply choose not to ask the deputy mayor to do anything and have somebody who's nothing more than a ceremonial deputy mayor and does ribbon cuttings and speaks at events and and nothing further um our current mayor has chosen not to do that but to assign some specific tasks and and some work uh to my file as well as to counselor plosas file as the budget chair but i'll tell you that flexibility of the mayor having the trust and choice of the person that he wants to assign with those specific tasks um is not only important for smooth governance but it is also important in terms of the fact that they can choose through their control of committee chairs to do those things whether they choose to exercise those powers or not depends on on who the mayor is and how they choose to use to exercise them depends on who the mayor is um but i what i honestly what i see here and i i say this with with all due respect um but i i see it as a solution in in search of a problem because every mayor has been able to make the role um according to how they want to lead the council as the mayor so i would encourage us to stick with what we've got whoever the next mayor is will make their choice and and shape the role around who they choose to appoint there um but i will also say that if you think that they there's that a rotation works or there that there's not a learning curve to this um that's not true um there's a significant amount of of work that goes into it a learning curve and it's not something that you just pick up and do because every six months we want to change who the deputy mayor is or every year every two years um that's actually a really good way to make sure that the role of really doesn't do much um and just as uh committee chairs have some important responsibilities in those roles uh so too does this role uh and as i said i've worked with two previous deputy mayors in both cases thirty second the the expectations of mayor holder of deputy mayor helmer were even then different than the expectations of deputy mayor morgan so we need to let the mayor have the flexibility to uh customize the deputy mayor role because at the end of the day they're the only ones elected citywide thank you returning the chair to you and i have no one yet on the speakers let's have council thank you for recognizing me and i just want to make a couple comments here i've been on council i think this is 11 years every mayor is a little different the composition of the deputy mayor is is very different too i do appreciate this conversation though um i think from time to time we need to sort of have these discussions i you know i appreciate where the councilor is coming from um i in the past have encouraged um or brought four emotions to to look at the deputy mayor and and have a different composition or or look at um maybe even having a woman as a deputy mayor from time to time and and i agree with the deputy mayor it does change it's different each time um i i won't be supporting the motion but it it has made me reflect when we read the rationale behind this about strong mayor powers and how they work and how different they are and having a better understanding about strong mayor powers it just makes me want to uh understand a lot more uh on how we now govern here at council but i do appreciate the conversation thank you thank you councilor hockens any any other speakers? councilor paloza thank you um i appreciate the conversation as well and i'm content waiting for the report to come back out of gwg and we'll also be a no on this today um just a question through you uh the clerk not starting a coup not over throwing uh the deputy mayor is you never want two banded parents to go head to head or um coaches and people involved um knowing that the deputy mayor position is not a strong mayor power as in a committee appointment that deputy that the mayor does have the power to do should a council choose that they partway through an appointment that they're not pleased with the deputy mayor appointment is it just the simple one half vote of council should they wish to remove the deputy mayor and ask the mayor to appoint someone else not saying that problem in this just there are some wild municipalities across Ontario having some interesting issues so just procedurally since it's not under the strong mayor powers is that the council procedural by-law how it be enacted should there ever be an issue at a council but not this one because we got it let's have our city clerk answer that thank you through the chair a by-law that's passed by council is within the control of council now whether the mayor chooses to then uh delegate certain powers that uh he or she holds that's a different question councilor good looking for any other speakers councilor mccallister thank you through the chair just wanted to give my two cents on this um i appreciate what council trust i was trying to do with this um i remember when we had this discussion at governance got me thinking as well um so where i'm currently at with it and i appreciate the comments from the current deputy mayor but i do think this is one of those things where we have to think to the future um i personally think and we've seen this in the past that this role changes um how it's split up you know sometimes you have two um in this case we have just the one deputy mayor but uh i i i think it's important that we provide this information for future councils i think in hearing what's being said i understand that the mayor can but i think it in terms of having a collegial council it's important for the mayor to also take on board what council has to say and i think this is a decision that should be taken as the whole uh i understand in terms of the mayor having priorities and wanting to choose someone but i do think in terms of what other municipalities do we should afford future councils the opportunity to to have this information and if they decide to you know make changes um i think this is important work that should be on the table and they're for reference for them to look at if they want to make a different decision moving forward thank you councilor mccallister councilor layman thank you i will support this we're three quarters of the way into our term here in my experiences my second term every council and mayor has their own personality um and as such i don't presume to uh direct or influence the next council's choice this is something that a council should discuss uh at that appropriate time in their term i don't need a staff report to tell me a little different different options uh in the surrounding communities i can easily look that up and and see what what there is our staff have got so much on their plate right now um this is one thing that i don't personally think uh that i would like to see added to their plate uh if the next term wants to debate or discuss this more power to them um this council uh is operating on the direction that we've given it uh early on in this term and uh i see no need uh at this time to um to muddy the waters that exhaust my speaker's list in order of process i'll come back to you in a second councilor trussle just from a process perspective um so we've got a modified part b that councilor trussle brought forward so what we have in escribe is the governance working group report be received with a modified part b should that be defeated then we would revert back to the original language just so folks know so we'll call part b first if that fails it reverts back to the original passes then we deal with the rest of the motion um so uh councilor trussle you've got about 45 seconds left yes okay um two things through the chair it's exactly because we're towards the end of our council term that i think that this is the appropriate time to do this that's point number one otherwise the new council is going to start from scratch they're going to have their strategic plan they're going to have their budget next thing they know they're going to be halfway through two-thirds through um i think that if we get this environmental scan at least it's in the file and they've got that to look at and and yes we could we could all spend some time and uh and and look it up i've spent a lot of time doing that and it's not it's not really hard it's not really hard to do um the next point i want to make is um the resistance to change is problematic we always have to be thinking forward ten seconds council in terms of what we want to do in the future this this amendment gives us information upon which we or a future council can make that decision so i think it's good policy to get this information on the council table now thank you thank you councilor that's your time i have no one else on the speakers list so i'm going to ask the clerk to open the vote on part b first and then we will deal with the balance forcing the vote motion fails five to ten thanks that will revert part b back to its original state uh can i get a mover and seconder councilor plosa councilor cutting this now is the entire governance working group report report be received with the appropriate actions this is the full report now councilor that's just open but the voting is still open so you can still reopen it and change if you want sir for error losing the vote motion carries 15 to 0 thank you colleagues so we now move to section six of our agenda this is the confidential section uh we have two items uh for which to go in a closed session the first is client solicitor client privilege device personnel matters about identifiable individual labor relations employee negotiations the second is communications necessary for the purpose and directions of instructions to officers employees of or agents of the municipality proposed pending acquisition of land by a local board trade secret scientific technical commercial financial or labor relations information uh as outlined on the agenda itself so looking for a mover and a seconder to move into closed session councilor cutting and councilor hillier we will ask the clerk to open the vote for the closed session answer truss out closing the vote motion carries 15 to 0 thank you colleagues so we'll just need a minute to get the appropriate people in the room and the chambers secured all right the clerk informed me the streams are back up uh we are ready to resume in public session uh and as councilor ramen did have the heavy lifting and uh chairing today and asked the mayor to report out from closed session yes i'm happy to report progress for the uh matters that were on the uh added agenda as well as the additional matter that we went into camera for thank you your worship that concludes our closed session report out and we are just looking now for a motion to adjourn else are cuddy and hopkins and we can do this one by hand all in favor Motion carries. Have a great rest of your day.
 
 </details>
+
+---
+
+## Votes
+
+*7 substantive votes at this meeting (4 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2.1. 2nd Report of the Governance Working Group
+
+> That part b) be approved to read as follows: b)    the Civic Administration BE REQUESTED to report back to a future meeting of the Governance Working Group with an environmental scan of comparable municipalities regarding the selection process and role description for the position of Deputy Mayor...
+
+**❌ Motion Failed (5 to 10)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.2. London Transit Commission Governance - Councillor S. Franke, Chair, London Transit
+
+> That London Transit Commission Governance BE DEFERRED pending the outcome of the external governance review and report back to the Strategic Priorities and Policy Committee. it being noted that the Strategic Priorities and Policy Committee received a communication dated June 24, 2025 from Council...
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Skylar Franke](/councillors/current/s-franke)
+
+</details>
+
+### 4.3. Mobility Master Plan Notice of Completion
+
+> That the motion be amended in part b) to add the following wording "statutory 30-day public review and comment period to assist in guiding implementation"
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 4.3. Mobility Master Plan Notice of Completion
+
+> That parts a) and b) of the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (13 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 4.3. Mobility Master Plan Notice of Completion
+
+> That part c) of the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 4.4. 2024 Climate Emergency Action Plan Progress Report
+
+> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken: a)    the presentation and staff report, providing a summary of progress and policy implications and opportunities pertaining to the Climate Emergency Action Plan (CEAP) as well...
+
+**✅ Motion Passed (13 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 4.4. 2024 Climate Emergency Action Plan Progress Report
+
+> That the delegation request from M. Shannon and M. Sye, Enbridge Gas Ontario BE APPROVED to be heard at this time.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
