@@ -60,24 +60,24 @@
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 7604,
-    "yeas": 7121,
-    "nays": 471,
+    "totalVotes": 7466,
+    "yeas": 7002,
+    "nays": 452,
     "absent": 12,
-    "participationRate": 99.84218832193582,
-    "yeaRate": 93.79610115911485,
-    "contestedDissentRate": 22.545031958163857,
-    "contestedVotes": 1721,
-    "substantiveVotes": 6456,
-    "substantiveYeas": 5978,
-    "substantiveNays": 471,
-    "substantiveParticipationRate": 99.8915737298637,
-    "substantiveYeaRate": 92.69654209955031
+    "participationRate": 99.8392713635146,
+    "yeaRate": 93.93614166890261,
+    "contestedDissentRate": 22.60488415779587,
+    "contestedVotes": 1597,
+    "substantiveVotes": 6293,
+    "substantiveYeas": 5841,
+    "substantiveNays": 445,
+    "substantiveParticipationRate": 99.88876529477196,
+    "substantiveYeaRate": 92.92077632834871
   },
   "budgetVoting": {
-    "totalBudgetVotes": 946,
-    "budgetYeas": 844,
-    "budgetNays": 102,
+    "totalBudgetVotes": 908,
+    "budgetYeas": 820,
+    "budgetNays": 88,
     "budgetAbsent": 0
   },
   "topAlignments": [],
@@ -177,22 +177,22 @@
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 4678,
-      "yeas": 4387,
-      "nays": 291,
+      "totalVotes": 4574,
+      "yeas": 4288,
+      "nays": 286,
       "participationRate": 100
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 1127,
-      "yeas": 1000,
-      "nays": 127,
+      "totalVotes": 1096,
+      "yeas": 983,
+      "nays": 113,
       "participationRate": 100
     },
     {
       "committee": "Corporate Services Committee",
-      "totalVotes": 821,
-      "yeas": 791,
+      "totalVotes": 820,
+      "yeas": 790,
       "nays": 30,
       "participationRate": 100
     },
@@ -205,8 +205,8 @@
     },
     {
       "committee": "Community and Protective Services Committee",
-      "totalVotes": 469,
-      "yeas": 460,
+      "totalVotes": 467,
+      "yeas": 458,
       "nays": 9,
       "participationRate": 100
     }

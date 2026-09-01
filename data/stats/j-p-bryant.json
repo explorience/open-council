@@ -36,24 +36,24 @@
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 2893,
-    "yeas": 2681,
-    "nays": 212,
+    "totalVotes": 2821,
+    "yeas": 2610,
+    "nays": 211,
     "absent": 0,
     "participationRate": 100,
-    "yeaRate": 92.6719668164535,
-    "contestedDissentRate": 25.444596443228455,
-    "contestedVotes": 731,
-    "substantiveVotes": 2594,
-    "substantiveYeas": 2382,
-    "substantiveNays": 212,
+    "yeaRate": 92.52038284296349,
+    "contestedDissentRate": 26.56934306569343,
+    "contestedVotes": 685,
+    "substantiveVotes": 2524,
+    "substantiveYeas": 2313,
+    "substantiveNays": 211,
     "substantiveParticipationRate": 100,
-    "substantiveYeaRate": 91.82729375481881
+    "substantiveYeaRate": 91.64025356576863
   },
   "budgetVoting": {
-    "totalBudgetVotes": 450,
-    "budgetYeas": 404,
-    "budgetNays": 46,
+    "totalBudgetVotes": 433,
+    "budgetYeas": 388,
+    "budgetNays": 45,
     "budgetAbsent": 0
   },
   "topAlignments": [],
@@ -153,16 +153,16 @@
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 2160,
-      "yeas": 2008,
+      "totalVotes": 2096,
+      "yeas": 1944,
       "nays": 152,
       "participationRate": 100
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 316,
-      "yeas": 268,
-      "nays": 48,
+      "totalVotes": 308,
+      "yeas": 261,
+      "nays": 47,
       "participationRate": 100
     },
     {

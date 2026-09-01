@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T00:13:44.873Z",
+  "generatedAt": "2026-09-01T10:13:19.859Z",
   "matrix": {
     "j-morgan": {
       "h-mcalister": 94.44444444444444,
@@ -306,5 +306,5 @@
   ],
   "type": "topic",
   "topicName": "housing",
-  "motionCount": 691
+  "motionCount": 689
 }

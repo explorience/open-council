@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T00:13:44.877Z",
+  "generatedAt": "2026-09-01T10:13:19.962Z",
   "matrix": {
     "j-morgan": {
       "h-mcalister": 91.01123595505618,
@@ -10,7 +10,7 @@
       "s-trosow": 69.56521739130434,
       "c-rahman": 85,
       "s-lehman": 94.76190476190476,
-      "a-hopkins": 91.02564102564102,
+      "a-hopkins": 91.00257069408741,
       "p-van-meerbergen": 86.08247422680412,
       "s-franke": 79.12087912087912,
       "e-peloza": 89.26829268292683,
@@ -146,7 +146,7 @@
       "s-hillier": 94.27480916030534
     },
     "a-hopkins": {
-      "j-morgan": 91.02564102564102,
+      "j-morgan": 91.00257069408741,
       "h-mcalister": 86.20689655172413,
       "s-lewis": 86.1788617886179,
       "p-cuddy": 80.64516129032258,
@@ -306,5 +306,5 @@
   ],
   "type": "topic",
   "topicName": "parks-recreation",
-  "motionCount": 1040
+  "motionCount": 1037
 }

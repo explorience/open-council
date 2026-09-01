@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T00:13:44.875Z",
+  "generatedAt": "2026-09-01T10:13:19.935Z",
   "matrix": {
     "j-morgan": {
       "h-mcalister": 93.9799331103679,
@@ -10,7 +10,7 @@
       "s-trosow": 80.4635761589404,
       "c-rahman": 91.2621359223301,
       "s-lehman": 95.40229885057471,
-      "a-hopkins": 91.32602193419741,
+      "a-hopkins": 91.31736526946108,
       "p-van-meerbergen": 85.91549295774648,
       "s-franke": 89.6875,
       "e-peloza": 92.1602787456446,
@@ -146,7 +146,7 @@
       "s-hillier": 94.21965317919076
     },
     "a-hopkins": {
-      "j-morgan": 91.32602193419741,
+      "j-morgan": 91.31736526946108,
       "h-mcalister": 89.419795221843,
       "s-lewis": 87.23684210526315,
       "p-cuddy": 83.81877022653723,
@@ -306,5 +306,5 @@
   ],
   "type": "topic",
   "topicName": "climate-environment",
-  "motionCount": 2758
+  "motionCount": 2753
 }

@@ -66,23 +66,23 @@
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 7972,
-    "yeas": 7108,
-    "nays": 400,
-    "absent": 176,
-    "participationRate": 94.17962870045157,
-    "yeaRate": 94.6723494938732,
-    "contestedDissentRate": 20.87729039422543,
-    "contestedVotes": 1801,
-    "substantiveVotes": 5848,
-    "substantiveYeas": 5065,
-    "substantiveNays": 400,
-    "substantiveParticipationRate": 93.45075239398085,
-    "substantiveYeaRate": 92.68069533394328
+    "totalVotes": 7824,
+    "yeas": 7072,
+    "nays": 399,
+    "absent": 175,
+    "participationRate": 95.48824130879345,
+    "yeaRate": 94.65934948467407,
+    "contestedDissentRate": 22.363150867823762,
+    "contestedVotes": 1498,
+    "substantiveVotes": 5395,
+    "substantiveYeas": 4800,
+    "substantiveNays": 354,
+    "substantiveParticipationRate": 95.53290083410565,
+    "substantiveYeaRate": 93.13154831199068
   },
   "budgetVoting": {
-    "totalBudgetVotes": 840,
-    "budgetYeas": 756,
+    "totalBudgetVotes": 831,
+    "budgetYeas": 747,
     "budgetNays": 76,
     "budgetAbsent": 8
   },
@@ -183,17 +183,17 @@
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 4690,
-      "yeas": 4321,
-      "nays": 243,
-      "participationRate": 97.31343283582089
+      "totalVotes": 4661,
+      "yeas": 4293,
+      "nays": 242,
+      "participationRate": 97.29671744260888
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 1903,
-      "yeas": 1496,
+      "totalVotes": 1808,
+      "yeas": 1488,
       "nays": 122,
-      "participationRate": 85.02364687335786
+      "participationRate": 89.04867256637168
     },
     {
       "committee": "Civic Works Committee",
@@ -204,10 +204,10 @@
     },
     {
       "committee": "Corporate Services Committee",
-      "totalVotes": 358,
+      "totalVotes": 334,
       "yeas": 312,
       "nays": 12,
-      "participationRate": 90.5027932960894
+      "participationRate": 97.0059880239521
     },
     {
       "committee": "Community and Protective Services Committee",

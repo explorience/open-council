@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T00:13:44.863Z",
+  "generatedAt": "2026-09-01T10:13:19.709Z",
   "matrix": {
     "j-morgan": {
       "h-mcalister": 95.1974386339381,
@@ -10,7 +10,7 @@
       "s-trosow": 85.12221041445271,
       "c-rahman": 94.72081218274113,
       "s-lehman": 96.37231503579953,
-      "a-hopkins": 93.38601112086626,
+      "a-hopkins": 93.36854460093896,
       "p-van-meerbergen": 89.75782038345106,
       "s-franke": 93.47604485219165,
       "e-peloza": 94.1234084231146,
@@ -146,7 +146,7 @@
       "s-hillier": 95.90755897929706
     },
     "a-hopkins": {
-      "j-morgan": 93.38601112086626,
+      "j-morgan": 93.36854460093896,
       "h-mcalister": 93.45114345114345,
       "s-lewis": 90.42110134197131,
       "p-cuddy": 88.83399209486166,
@@ -305,6 +305,6 @@
     }
   ],
   "type": "committee",
-  "motionCount": 4989,
+  "motionCount": 4959,
   "committeeName": "Council"
 }

@@ -66,24 +66,24 @@
     "trendDirection": "declining"
   },
   "voting": {
-    "totalVotes": 7053,
-    "yeas": 5903,
-    "nays": 389,
-    "absent": 473,
-    "participationRate": 89.21026513540338,
-    "yeaRate": 93.81754609027337,
-    "contestedDissentRate": 19.669000636537238,
-    "contestedVotes": 1571,
-    "substantiveVotes": 5155,
-    "substantiveYeas": 4196,
-    "substantiveNays": 389,
-    "substantiveParticipationRate": 88.94277400581959,
-    "substantiveYeaRate": 91.51581243184297
+    "totalVotes": 6934,
+    "yeas": 5873,
+    "nays": 387,
+    "absent": 472,
+    "participationRate": 90.27978079030862,
+    "yeaRate": 93.81789137380193,
+    "contestedDissentRate": 21.390374331550802,
+    "contestedVotes": 1309,
+    "substantiveVotes": 4746,
+    "substantiveYeas": 3967,
+    "substantiveNays": 350,
+    "substantiveParticipationRate": 90.96080910240202,
+    "substantiveYeaRate": 91.89251795228168
   },
   "budgetVoting": {
-    "totalBudgetVotes": 745,
-    "budgetYeas": 652,
-    "budgetNays": 69,
+    "totalBudgetVotes": 736,
+    "budgetYeas": 644,
+    "budgetNays": 68,
     "budgetAbsent": 16
   },
   "topAlignments": [],
@@ -183,24 +183,24 @@
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 4147,
-      "yeas": 3515,
-      "nays": 240,
-      "participationRate": 90.54738365083193
+      "totalVotes": 4125,
+      "yeas": 3495,
+      "nays": 238,
+      "participationRate": 90.4969696969697
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 1854,
-      "yeas": 1411,
+      "totalVotes": 1759,
+      "yeas": 1403,
       "nays": 116,
-      "participationRate": 82.36245954692556
+      "participationRate": 86.35588402501422
     },
     {
       "committee": "Community and Protective Services Committee",
-      "totalVotes": 1052,
-      "yeas": 977,
+      "totalVotes": 1050,
+      "yeas": 975,
       "nays": 33,
-      "participationRate": 96.00760456273764
+      "participationRate": 96
     }
   ]
 }
