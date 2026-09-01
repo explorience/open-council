@@ -99,6 +99,25 @@ npm run dev         # Terminal 2: static site (port 8080)
 | `npm run check` | Run TypeScript + Prettier checks |
 | `npm run format` | Auto-format code with Prettier |
 
+### Votes Pipeline
+
+The roll-call vote data (`data/votes/`, `data/stats/`, and the `## Votes`
+sections in meeting pages) is derived data — each stage reads the output
+of the one before it. Regenerating out of order, or skipping a stage,
+leaves stale data downstream. Run in this order:
+
+```bash
+npx tsx scripts/generate-votes.ts      # scrape/parse -> data/votes/*.json
+npx tsx scripts/generate-stats.ts      # data/votes -> data/stats/*.json (councillor/meeting rollups)
+npx tsx scripts/generate-pages.ts      # data -> content/**/*.md (base meeting + councillor pages)
+npx tsx scripts/add-votes-to-pages.ts  # inject/refresh the "## Votes" section on each meeting page
+```
+
+`add-votes-to-pages.ts` is idempotent — re-running it replaces an
+existing `## Votes` section rather than duplicating or skipping it, so
+it's safe to run again any time `data/votes` changes without redoing
+the earlier stages.
+
 ### Scraping
 
 The scraper pulls meeting data from London's [eScribe system](https://pub-london.escribemeetings.com/):

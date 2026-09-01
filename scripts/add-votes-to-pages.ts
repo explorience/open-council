@@ -4,6 +4,16 @@
  * Reads _all-motions.json and injects a "Votes" section into each
  * meeting page showing substantive votes with roll calls.
  *
+ * Idempotent: if a page already has a "## Votes" section (from a prior
+ * run), it is REPLACED with the freshly generated one rather than
+ * skipped or duplicated. Safe to re-run any time data/votes changes.
+ *
+ * This is the last step of the vote pipeline — run in this order:
+ *   1. npx tsx scripts/generate-votes.ts   (scrape/parse -> data/votes)
+ *   2. npx tsx scripts/generate-stats.ts   (data/votes -> data/stats)
+ *   3. npx tsx scripts/generate-pages.ts   (data -> content/*.md, base pages)
+ *   4. npx tsx scripts/add-votes-to-pages.ts (inject/refresh ## Votes sections)
+ *
  * Usage: npx tsx scripts/add-votes-to-pages.ts
  */
 
@@ -265,29 +275,56 @@ async function main() {
     // Read existing content
     const content = await fs.readFile(mdPath, "utf-8")
 
-    // Skip if already has a votes section
-    if (content.includes("## Votes")) {
-      skipped++
-      continue
-    }
-
-    // Generate votes markdown
+    // Generate votes markdown (may be "" if this meeting no longer has
+    // any substantive votes, e.g. everything reclassified as procedural)
     const votesSection = generateVotesMarkdown(motions, councillorLinks)
 
-    if (!votesSection) {
+    const votesHeadingIdx = content.indexOf("\n## Votes\n")
+
+    if (votesHeadingIdx === -1 && !votesSection) {
+      // No existing section and nothing to add this run - untouched.
       skipped++
       continue
     }
 
-    // Append votes section to the markdown
-    const newContent = content.trimEnd() + "\n" + votesSection + "\n"
+    // Strip any pre-existing "## Votes" section (and its leading "---"
+    // separator) so re-runs REPLACE rather than append. The Votes section
+    // is always the last thing in the file (see generateVotesMarkdown),
+    // so this is just "cut everything from the separator before ## Votes
+    // onward". Match defensively in case a future section is appended
+    // after Votes: stop at the next "\n---\n\n## " boundary if one exists.
+    let base = content
+    if (votesHeadingIdx !== -1) {
+      // Walk back over the "---\n\n" separator that generateVotesMarkdown
+      // always writes immediately before the heading.
+      const sepIdx = content.lastIndexOf("\n---\n\n", votesHeadingIdx)
+      const cutFrom = sepIdx !== -1 ? sepIdx : votesHeadingIdx
+
+      const rest = content.slice(votesHeadingIdx + "\n## Votes\n".length)
+      const nextSectionMatch = rest.match(/\n---\n\n## /)
+      const trailingKept = nextSectionMatch
+        ? rest.slice(nextSectionMatch.index)
+        : ""
+
+      base = content.slice(0, cutFrom).trimEnd() + trailingKept
+    }
+
+    // Write the (re)generated votes section, or just the stripped base
+    // if this meeting no longer has any substantive votes to show.
+    const newContent = votesSection
+      ? base.trimEnd() + "\n" + votesSection + "\n"
+      : base.trimEnd() + "\n"
+    if (newContent === content) {
+      skipped++
+      continue
+    }
     await fs.writeFile(mdPath, newContent)
     updated++
   }
 
   console.log(`\n✅ Vote sections added!`)
   console.log(`   Updated: ${updated} meeting pages`)
-  console.log(`   Skipped: ${skipped} (already had votes or no substantive votes)`)
+  console.log(`   Skipped: ${skipped} (no substantive votes, or votes section already up to date)`)
   console.log(`   Not found: ${notFound} (no matching markdown file)`)
 }
 
