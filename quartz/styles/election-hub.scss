@@ -248,6 +248,60 @@
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
     margin: 1rem 0 1.6rem 0;
+
+    // Final gate item 4b: on a narrow (~520px) reader, every evidence/issue
+    // table here scrolls horizontally with no visual signal that there's
+    // more to the right — a reader has no reason to think the "What a yea
+    // did"/"Item"/etc. columns beyond the fold exist at all. Pure-CSS
+    // fade-to-edge affordance, no JS: the classic dual-gradient scroll-shadow
+    // trick. Two "cover" gradients are painted onto the CONTENT box (they
+    // scroll WITH it, via `background-attachment: local`), each fading from
+    // this container's own effective background to transparent; two
+    // "shadow" gradients are painted onto the VIEWPORT box (fixed during
+    // scroll, via `background-attachment: scroll`), each a soft tint fading
+    // to transparent. At scrollLeft 0 the left cover sits exactly over the
+    // visible left edge and fully occludes the left shadow; as soon as
+    // there's anything to scroll, the cover slides out of view with the
+    // content and the shadow shows through underneath it — and the mirror
+    // image at the right edge, hidden again once scrolled all the way to
+    // the end. Needs a real background to fade INTO (a transparent cover
+    // gradient would just show the shadow through it) — evidence tables sit
+    // inside a raised `<details class="eh-evidence">` panel
+    // (--eh-bg-raised), every other table (issue pages, the ward table) sits
+    // directly on the page background (--eh-bg); --eh-scroll-fade-bg
+    // defaults to the latter and is overridden below for the former.
+    --eh-scroll-fade-bg: var(--eh-bg);
+    --eh-scroll-shadow-color: rgba(0, 0, 0, 0.18);
+    background-repeat: no-repeat;
+    background-attachment: local, local, scroll, scroll;
+    background-size:
+      28px 100%,
+      28px 100%,
+      12px 100%,
+      12px 100%;
+    background-position:
+      left center,
+      right center,
+      left center,
+      right center;
+    background-image: linear-gradient(
+        to right,
+        var(--eh-scroll-fade-bg),
+        transparent
+      ),
+      linear-gradient(to left, var(--eh-scroll-fade-bg), transparent),
+      linear-gradient(to right, var(--eh-scroll-shadow-color), transparent),
+      linear-gradient(to left, var(--eh-scroll-shadow-color), transparent);
+  }
+
+  details.eh-evidence .table-container {
+    --eh-scroll-fade-bg: var(--eh-bg-raised);
+  }
+
+  html[saved-theme="dark"] & .table-container {
+    // Dark palette's backgrounds are already near-black, so a black shadow
+    // tint would be nearly invisible — use a light tint instead.
+    --eh-scroll-shadow-color: rgba(255, 255, 255, 0.14);
   }
 
   table {
